@@ -1,0 +1,30 @@
+
+:root
+{
+    --dark0_x:          31,31,31; /* #1f1f1f dark theme primary background */
+    --light0_x:         171,168,154; /* #aba89a text colour for dark theme */
+}
+
+html,
+body {
+  /* Set font family to monospace */
+  font-family: var(--font-monospace);
+
+  /* Norse rune font for hilarity Comes from dafont.com */
+  --custom-font: "Norse";
+  /* font-family: 'Norse'; */
+}
+
+/* Change inline code for dark mode */
+.theme-dark {
+    --code-normal:                   var(--bright-orange);
+    --code-background:               var(--dark1);
+}
+
+/* Change bold colour and inline code colour for light mode */
+.theme-light {
+    --bold-color:                    var(--dark0);
+    --italic-color:                  var(--dark0);
+    --code-normal:                   var(--dark0);
+    --code-background:               var(--light1);
+}
