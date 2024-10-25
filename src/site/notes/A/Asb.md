@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2024-10-22T22:29"}
+{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2024-10-25T02:01"}
 ---
 
 
@@ -55,7 +55,7 @@ Az is tény, hogy más nyelvekben is szerepel az ász illetve ős (mint Tejútan
 
 CzF szótárban huszár címnél:  
 > Figyelmet érdemelnek a perzsa `aszvár` v. `szuvár`, a pehlvi `aszbár`, ékirati `aszbára`, valamennyien am. lovag, a szanszkrit `aszva`, zend `aszpa`, perzsa `aszp`, `aszb` szóktól.  
-- Valójában épp a fordítottja látszik igaznak; előbb a lovas, miből képzett lehet maga a ló!
+- Valójában épp a fordítottja látszik igaznak; előbb a lovas, miből képzett lehet maga a ló.
 
 [[H/Hamlet malma\|Hamlet malma]] címnél szerepel egy összefoglaló adat a fentiekről, az alábbi kiegészítéssel:  
 Még egy dologra érdemes felhívni a figyelmet, arra, hogy egyes nyelvekben [[A/Asu\|asu]] kutyát jelent: gayo, iban, iranun, banggai, makasar, jávai, balinéz, maláj-rumi nyelven `asu` = kutya, de a kuna indiánok nyelvén is `achu` = kutya.  
@@ -85,13 +85,13 @@ A hunok azért sem szálltak le a lóról sosem, mert a Ló a Tejút állata és
 ## Lovas ember és lófejű ikrek – Nyilas-Ikrek tengely szembenállás
 
 A [[C/Centaur\|centaur]] mint a lovas íjász egyfajta – nem is annyira görög félreértésen alapuló és nem is mitológiai lényként vagy chimera-ként értelmezendő – összevont, Nyilas csillagképre utaló alakjának afféle "inverz-változata"-ként értelmezhetőek az ind lófejű ikrek, az Ashvini: azaz itt már az ember van lóként jelölve. Az az ember, akit [[E/Ember\|ember]] címnél azóta az Ikrekkel azonosítottunk.  
-A két jegy a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en egymással szemközti jegy. Anne Wright [[D/Dhanu\|Dhanu]] címnél szereplő adatához kapcsolt adatban (ahol említi Acvini-t) volt szó még az állandóan visszatérő témáról: mikor utal mire ez vagy az a név (Kumaru és Sagittarius is a nyári Nyilazó kell legyen).  
+A két jegy a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en egymással szemközti jegy. Anne Wright [[D/Dhanu\|Dhanu]] címnél szereplő adatához kapcsolt adatban (ahol említi Acvini-t) volt szó még az állandóan visszatérő témáról: mikor utal mire ez vagy az a név (Kumaru és Sagittarius is a nyári Nyilazó kellett legyen).  
 
 ## A latin equus az indo-iráni asva/asb rokona?
 
-Közben észrevettem, hogy Péterfainak is köszönhetően az indo-iráni szónak feladtam az equus/aqwa szavakkal való azonosíthatóságát és mindkét szót külön elemeztem?  
+Közben feltűnt, hogy Péterfainak is köszönhetően az indo-iráni szónak feladtam az equus/aqwa szavakkal való azonosíthatóságát és mindkét szó külön került elemzésre.  
 
-Amennyiben közös nevező alá vesszük őket, akkor hasonló esetet látunk, mint az [[A/Asszony\|asszony]] szavunk esetében. Ott is volt olyan értelmezés, ami szerint előrésze Ah/Ak/Ég, mely az equus eredeti elgondolás szerinti eredete.  
+Amennyiben közös nevező alá vesszük őket, akkor hasonló esetet látunk, mint [[A/Asszony\|asszony]] szavunk esetében. Ott is volt olyan értelmezés, ami szerint előrésze Ah/Ak/Ég, mely az equus eredeti elgondolás szerinti eredete.  
 
 ## Alternatív levezetés
 

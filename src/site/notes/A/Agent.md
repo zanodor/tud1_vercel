@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Agent/","title":"Agent","tags":["containstransclusions"],"created":"2024-04-20T11:43","updated":"2024-10-22T21:40"}
+{"dg-publish":true,"permalink":"/A/Agent/","title":"Agent","tags":["containstransclusions"],"created":"2024-04-20T11:43","updated":"2024-10-25T15:05"}
 ---
 
 
@@ -12,7 +12,7 @@ Ott a szintén kún szócsoportbeli [[E/Ék\|ék]] (eke) és [[E/Ég\|ég]] szav
 A kiinduló szavunk lehet – konkrétan, ebben a formában – az [[A/Agancs\|agancs]] és a vele azonos [[A/Ág\|ág]], [[A/Aga\|aga]] (Tomory Zsuzsa adata szerint a földművelő magyar első kapája, mely szarvasagancsból, vagy faágból készült, de itt az [[A/Aga#Aga 2)\|aga]] értelem lényeges).  
 Az ág a Csodaszarvas agancsa, azé a csillagos eget szimbolizáló állaté, mely ágensként (ágasként) vezette [[H/Hunor és Magor\|Hunor és Magor]]t, vagy, megfordítva, Hunort és Magort ágensként kezelve azok hajtották, űzték amazt.  
 Így alakult ki a görög és a latin ige, a magyar eredetmonda nyomán? Ezt kell gondolni ebben az esetben és másutt is: számos helyen láttuk már, hogy ősvallásunk egyes képzetei, nevei új szavakat képeztek az utódnyelvekben, ahogy például akár [[A/Ardent\|ardent]] ([[A/Árgyilus\|Árgyilus]]) szó esetében is.  
-A [[D/Demagogue\|demagogue]] és [[P/Pedagogue\|pedagogue]] görög eredetű szavak `agōgos` = vezető szava így Ág-Óg-Osz formára bontva azt jelenti, Ág(as)/Ák(os)-Csillaga. Péterfai János adata szerint az Og = Óriás, így utalhat az [[O/Orion\|Orion csillagkép]]re is, amelyet valóban Richard Hinckley Allen Star Names című művének adata alapján a csillagképek vezetőjének is tartottak.  
+A [[D/Demagogue\|demagogue]] és [[P/Pedagogue\|pedagogue]] görög eredetű szavak eredetét adó `agōgos` = vezető szava így Ág-Óg-Osz formára bontva azt jelentheti, Ág(as)/Ák(os)-Csillaga. Péterfai János adata szerint az Og = Óriás, így utalhat az [[O/Orion\|Orion csillagkép]]re is, amelyet valóban Richard Hinckley Allen Star Names című művének adata alapján a csillagképek vezetőjének is tartottak.  
 Hogy a valódi ágens kozmikus értelemben lehet a [[K/Kinetic\|kinetic]] szónál felvetett sárkan Szíriusz vagy Nimród/Vadász/Orion (esetleg egy ott lévő fekete lyuk?), erről lásd bővebben [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]].  
 És ha már kutyákról van szó, tudjuk, hogy a kutyák [[P/Psychopomp\|lélekvezető]]k voltak; ezek alapján a keresett szó az [[A/Agár\|agár]] ag- gyöke lehet.  
 Egyébiránt a finn nyelvben is megvan a szóalak (sőt, szarvas kontextusban is használt): finn `aja-` 'hajt, vezet' (> fi. `ajokas` 'igavonó, szánhúzó rén').  
@@ -44,7 +44,7 @@ Arról, hogy a rendszert hogy kell értelmezni, lásd [[S/Széth\|Széth]] és a
 
 [[A/Agár\|Agár]] címnél írottak is ide kapcsolódnak:  
 Igen könnyen elképzelhető, hogy Nimrud kutyáit agárnak is hívták. Az [[O/Orion\|Orion]] csillagképről már volt szó, mint a csillagképek vezetőjéről (hajtójáról), de valójában az égi vadászkutyák azok, akik a hajtást végzik, különösen [[S/Szíriusz\|Szíriusz]]ról tudjuk ezt (persze [[P/Procyon\|Procyon]] is a képben van, mint közel lévő csillag; lásd [[H/Henry Kroll\|Henry Kroll]] írását is).  
-Ezek alapján a görög `ágein` és latin `agere` = hajtani igék eredete egy lehet a német `jäger` = vadász szóval is. A német szó tehát j-előtétesen nem Nimrudra, a Vadászra utalhat, hanem a kutyáira (ezek viszont össze is tartoznak). Az is elképzelhető ezután, hogy a tupi indiánoktól ismert [[J/Jaguar\|jaguar]] szóban is az agár szó szerepel. Nem véletlen, hogy nagy tisztelet övezte a jaguárt Közép- és Dél-Amerikában.  
+Ezek alapján a görög `ágein` és latin `agere` = hajtani igék eredete egy lehet a német `jäger` = vadász szóval is. A német szó tehát j-előtétesen nem Nimrudra, a Vadászra utalhat, hanem akár kutyáira (ezek viszont össze is tartoznak). Az is elképzelhető ezután, hogy a tupi indiánoktól ismert [[J/Jaguar\|jaguar]] szóban is az agár szó szerepel. Nem véletlen, hogy nagy tisztelet övezte a jaguárt Közép- és Dél-Amerikában.  
 
 A görög `ágein` és latin `agere` szavak ellen szól, hogy mint sok más ige, utólag képzett lehet, azaz nem feltétlenül kell az ag- igegyökre koncentrálni, és belőle megpróbálni eredetet gyártani. Az [[A/Agancs\|agancs]] szavunk viszont csak a latin `agent` szóban látszik ülni, nyilván a görög melléknévi igenév nem ilyen alakú. Ezért van szükség elővigyázatosságból az agancs ág gyökére visszamenni.  
 

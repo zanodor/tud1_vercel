@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/G/Godasiyo/","title":"Godasiyo","tags":["kutya","Englishtexttranslated"],"created":"2024-04-28T22:45","updated":"2024-10-25T19:04"}
+---
+
+
+# Godasiyo
+
+#### Patricia Monaghan Encyclopedia of Goddesses and Heroines...  
+
+...című könyvében szól az irokézekhez tartozó tuszkarora indiánok istennőjéről (a goda- előtagot tartalmazva nem meglepően kutyák is előjönnek):  
+> The Tuscarora said that, when people all spoke the same language, **Godasiyo** was the leader of the biggest human village. One day, **Godasiyo's favorite dog gave birth to puppies**, one completely white with little dark markings over each eye. It was so sweet that everyone wanted to pet it. People began to fight over possession of the darling dog. Frightened, Godasiyo tried to keep the warring parties apart, but the threats continued. So Godasiyo decided to establish a new village where everyone could live in peace with the adorable puppy. She loaded her people into canoes. But arguments began about which canoe the puppy would ride in. Godasiyo invented an outrigger so she could ride between several canoes, but even this was not good enough. The migrating people **reached a fork in the river** and began to argue about which way to go. During the argument, the leader and her dog were thrown into the water and drowned. Immediately they were reborn, she as a sturgeon, the puppy as a whitefish. When the people tried to comment on this miracle, they found they could no longer understand each other, and thus human languages were born. (Bruchac 1989)  
+> —  
+> A tuszkaorák azt mondták, hogy amikor az emberek mind ugyanazt a nyelvet beszélték, **Godasiyo** volt a legnagyobb emberi falu vezetője. Egy nap **Godasiyo kedvenc kutyája kölyköket szült**, egy teljesen fehéret, mindkét szeme fölött kis sötét jegyekkel. Olyan édes volt, hogy mindenki meg akarta simogatni. Az emberek harcolni kezdtek a kedves kutya birtoklásáért. Godasiyo ijedtében megpróbálta szétválasztani a harcoló feleket, de a fenyegetések folytatódtak. Így Godasiyo úgy döntött, hogy új falut alapít, ahol mindenki békében élhet az imádnivaló kiskutyával. Felpakolta népét kenukba. De viták kezdődtek arról, hogy a kiskutya melyik kenuban üljön. Godasiyo kitalált egy kitámasztót, hogy több kenu között tudjon utazni, de még ez sem volt elég jó. A vándorló nép **elérte a folyó elágazását**, és vitatkozni kezdtek arról, hogy merre menjenek. A vita során a vezetőt és a kutyáját a vízbe dobták, és megfulladtak. Azonnal újjászülettek, a nő tokhalként, a kiskutya pedig fehérhalként. Amikor az emberek megpróbálták kommentálni ezt a csodát, rájöttek, hogy már nem értik egymást, és így születtek meg az emberi nyelvek. (Bruchac 1989)

@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/D/Dialektika/","title":"Dialektika","created":"2023-10-06T12:00","updated":"2024-10-25T17:05"}
+---
+
+
+# Dialektika
+
+#### A Pallas Nagy Lexikona adatsora:
+
+> A szó eredeti értelmében a beszélgetés mestersége; filozófiai értelmet kapott a szó Sokrates föllépésével, kinél a beszélgetés a tudományos eljárás egyik módja, amelynek segítségével a **beszélők fogalmaikat vizsgálják, helyreigazítják s megegyeztetik**: ebből azután a D. általában a fogalmakkal való módszeres bánásmód, tehát körülbelül annyi, mint a logika. Minthogy azonban Sokrates után a logikai formákkal, melyeknek tudatos használata a gondolkodók előtt új volt, vissza is éltek s sokat mesterkedtek, a D. a **csalás művészete** gyanánt tünt fel. Platon s Aristoteles különböző értelmet adnak e szónak. Platonnál a D. a legfelsőbb spekulativ gondolkodás módja, Aristotelesnél különbözik a logikai gondolkodástól; nem oly szigoru mint emez; a tudományos vizsgálat művészete, amint a (Sokrates-féle) vitatkozásban gyakorolják, amidőn ugyanis feltett állításokból következtetéseket vonunk le, hogy a feltevések érvényességét megitélhessük, még pedig valószinü tételek alapján. Körülbelül ily értelemben használják e szót a középkorban is. Kant a régiek nyelvhasználatát vélvén helyreállítani, a D.-t majdnem egyértelmünek veszi a szofisztikával; a látszat logikájának nevezik, "szofisztikai mesterségnek, mellyel tudatlanságunknak, sőt szándékos ámításunknak az igazság látszatát adjuk." Transcendentális D.-nak nevezi rendszere ama részét, melyben a D.-t leleplezi s azokat a kérdéseket fölfedi, melyekbe, ha az emberi ismeret határait átlépjük, akaratunk s tudtunk nélkül kerülünk. Hegel vállalkozott rá, hogy a D. fogalmát rehabilitálja. Néha a D., vagy a D.-i módszer külön filozofiai módszer, mely minden más tudományos módszertől különbözik, és amely a filozofiában az egyedül üdvözítő. E módszer jellemző vonása, hogy minden fogalom ellentéteket foglal magában, minden fogalom fejlődésen megy keresztül; e fejlődés közben amaz ellentétekre bomlik, de csak azért hogy azután uj, magasabb egységbe összefoglalódjék. A köznyelvben azóta is ingadozó a szó értelme, mégis inkább azt az eljárást jelenti, mely nem a logika szük és biztos utján marad, hanem a fogalom forgatásával és belső fejlesztésével akarja az igazságot valahogyan megközelíteni.  
+
+Lásd folytatást [[D/Dialektikus ellentét\|dialektikus ellentét]].  

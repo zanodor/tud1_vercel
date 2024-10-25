@@ -1,0 +1,35 @@
+---
+{"dg-publish":true,"permalink":"/T/Tibeti teremtéstörténet/","title":"Tibeti teremtéstörténet","created":"2024-05-03T12:14","updated":"2024-10-26T00:38"}
+---
+
+
+# Tibeti teremtéstörténet
+
+Volt már [[B/Bibliai teremtéstörténet\|bibliai teremtéstörténet]], [[B/Babiloni teremtéstörténet\|babiloni teremtéstörténet]], [[E/Egyiptomi teremtéstörténet\|egyiptomi teremtéstörténet]], [[I/Indiai teremtéstörténet\|indiai teremtéstörténet]], és más népektől való is.  
+[Ezen](https://sites.google.com/site/okoriidovonal/teremtestoertenetek/tibeti-teremtestoertenet) oldal adatsora:  
+
+Tibeti teremtéstörténet  
+A teremtés  
+
+Kezdetben semmi sem létezett, sem tér, sem idő, sem valóság, sem jel, sem lét, sem nemlét. Ebből keletkezett minden, ami látható és tapintható.  
+
+Az első lény varázslatos átalakulási képességgel született. Megnevezte magát: "A Keletkező Világ Ura, Szent Győzedelmeskedő". És boldog volt, mert hatalma mindenre kiterjedt.  
+
+![assets/Tibetiteremtéstörténet_image1.jpeg](/img/user/T/assets/Tibetiteremt%C3%A9st%C3%B6rt%C3%A9net_image1.jpeg)  
+Ekkor a négy évszak még nem vált el egymástól, a nap, a hold, a bolygók és a csillagképek alig mozdultak, a mennydörgés, a villámlás, az eső, a jég, a fagy sem követték az évszakok változásait. A földnek nem volt ura, az erdők, a növények maguktól nőttek és szaporodtak. A kövek és a hegyek már létrejöttek, de még nem mozdultak, és a földrengés is ismeretlen volt. A föld aranyból volt. A folyók is megvoltak már, de még nem indultak el a tenger felé. Madarak és vadak is éltek az erdőkben, de még senki sem vadászott rájuk. Istenek is léteztek, de még nem hallgatták meg a könyörgéseket, és nem uralkodtak ég és föld felett. Létrejöttek a démonok is, de még nem kezdhették el romboló munkájukat. Voltak betegségek, de még nem okoztak kínt és fájdalmat. Volt már táplálék, de még senki nem fogyasztotta. A boldogság is létezett, de nem volt, aki felfogja. A nappal nem különbözött az éjszakától.  
+
+A három világ magától keletkezett. Ekkor jelent meg a szvasztika szentséges tana. Két fény támadt: fehér és fekete. A fehér és fekete fény két borsónyi dolgot hozott létre.  
+
+Ezután megszületett egy fekete ember. Ez a fekete ember akkora volt mint egy dárda. Ő volt a nemlét, a bizonytalanság, a gyilkosság, a pusztítás ura. A neve: Fekete Pokol. A Fekete Pokol megölte a napot és a holdat, megkínozta a csillagokat, és létrehozta a bolygó démonait. Elválasztotta a nappalt az éjszakától, felhajította az égre a mennydörgést és villámot, a jégesőt és a szökőárt, a fagyot és a tüzet, felhajított nyolcvannégymillió betegséget és megszámlálhatatlan egyéb bajt. És ráküldte a sólymot a madarakra, hogy pusztítson el mindent, ami a légben mozog. Létrehozta a civakodást és a harcot. Ráuszította a vadakra a farkast és a vadkutyát, a barmokra az embert, a fákra a baltát, a fűre sarlót, a növényekre a jeges szelet, az emberekre a bdudokat, a gonosz, pusztító démonokat. Az istenekkel szembeállította a hitetlenséget, és a négy démont: Drét, Srint, Biurt és Gdont. A Fekete Pokol, a nemlét ura minden létező mellé odaállította a pusztulás lehetőségét. Ő semmisíti meg a hatalmat, ő küldi a betegségeket az emberekre, ő hozta létre a fegyverek mérgezett hegyét, és a ruhákat, amelyeken a fegyverek áthatolnak. Ő küldte a férgeket a rizsre, a betegségeket a lovakra, szamarakra, birkákra és kecskékre. Ő teremtette a leprát. A pokol ura és vezére ő.  
+
+Ekkor a napfényből kiemelkedett egy fehér ember. Megnevezte magát: "Élőlényeket Kedvelő Úr". Megteremtette a meleget és a mi világunk napját. A holdat világossá és ragyogóvá tette; elválasztotta a nappalt az éjszakától, létrehozta az évszakok változását, meghatározta a nyolc bolygó pályafutását, az évet, a hónapokat és a hold útját. A három világ alkotása közben meghagyta a mennydörgést és a villámlást, de csak alkalmas időben, és szükség szerint jótékony esőt küldött a földre, hogy gondoskodjék az élőlények táplálásáról. Megparancsolta az erdőknek és a növényzetnek, hogy növekedjenek a törvények szerint, és megalkotta a fák virágait. Ekkor nagy bőségben volt minden, ami a világnak kellett.  
+
+Az Élőlényeket Kedvelő Úr elhatározta, hogy megteremti az isteneket, megsemmisíti a rossz szellemeket, elpusztítja a tüzet, a mérgezett hegyű fegyvereket, a madarak és a vadak ellenségeit. Az Élőlényeket Kedvelő Úr nem akarta a betegségeket, és enyhíteni akarta a lovak, a szamarak, birkák és kecskék szenvedéseit, meg akarta szabadítani az embereket a démonoktól, ki akarta csorbítani a fegyvereket, és megsemmisíteni a páncélzatot. Azt akarta, hogy az emberek boldogak és tiszták legyenek. Azt akarta, hogy a halak, vadak, madarak, békák ne ismerjék az ellenséget, a fák a fejszét, a fű a sarlót, a növény a jeges szelet. Azt akarta, hogy felépítsék a kápolnákat és a szent ereklyeőrző helyeket. Azt akarta, hogy megírják és olvassák a szent írásokat, hogy legyenek ünnepek és áldozatok, hogy az emberek tiszteljék szüleiket, és adakozók legyenek.  
+
+Ezután az Élőlényeket Kedvelő Úr elhatározta, hogy házat épít a világnak. Kőből akarta négy falát felhúzni. Vette a követ, és négy elefánt hátára rakta. A közeli kristálybarlangban egy gonosz démon, Mthong-dga ütötte fel szállását. Az Élőlényeket Kedvelő Úr boldogan vezette elefántjait, de amikor a kristálysziklához érve, belülről zaj hallatszott, az elefántok rémülten megtorpantak. A kristályszikla és az elefántok fájdalmas nyöszörgésbe kezdtek. Az Élőlényeket Kedvelő Úr ekkor villámból bronznyilat alkotott, a nyíllal megrepesztette a sziklát, és a tömböket a két elefánt hátára tette. Ezután lerakta a világ házának alapjait, és felépítette a gyönyörű kastélyt. A teremtés palotájának nevezte az építményt. A kastély kapuit szvasztikával díszítette, és a tornyok fölött egy hatalmas szvasztikás sas lebegett. A falak tövében egy pompás kútból nektár szökött elő, s a kútban kecske nagyságú aranybéka ült. De amint elkészült művével, a kastély nyöszörögni kezdett, és az alkotó keze sorvadásnak indult. A két elefánt is megbetegedett, és csakhamar elpusztult.  
+
+Az Élőlényeket Kedvelő Urat félelem fogta el, hogy meghal. Egy reggel szörnyű seb támadt bőrén, és egyre beljebb hatolt a testébe. Három év múltán csak bőre tapadt a csontjaira. Ekkor magához hívatta a Tudományok Királyát, az megvizsgálta, és így szólt:  
+A teremtés palotáját egy kristálysziklára építetted. De ebben a sziklában a rossz démona, Mthong-dga ütötte fel tanyáját. Ő okozta a betegségeket, és ő volt, aki elpusztította a két elefántodat, amiért elhozták lakhelyét palotád számára.  
+(Román József feldolgozása)  
+
+Azt látjuk, hogy előbb a fekete ember, majd a fehér ember jelenik meg. Előbbi kétértelműen értelmezhető: mint az őskezdet és [[S/Sátán\|Sátán]]/ördög (semleges és negatív megítélés), utóbbi isteni (pozitív) értelemben, de leginkább arról van szó, hogy előbb, még a fény általi teremtés előtt az ősanyagistennő volt csak jelen, sőt, az emberi teremtettségben is a feketével jelölt nő megelőzi a férfit (akit is csak ő, a nő szülhet meg).  

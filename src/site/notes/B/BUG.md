@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/B/BUG/","title":"BUG","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-12-09T05:47","updated":"2024-10-24T00:00"}
+{"dg-publish":true,"permalink":"/B/BUG/","title":"BUG","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-12-09T05:47","updated":"2024-10-25T15:15"}
 ---
 
 
 # BUG 1)
 
 Lehet szintén a Nap neve. Magyar ige a `búg`, de a köznyelvben van szexuális ([[B/BUJ\|BUJ]]) tartalma is, ahogy a bagzani szóban is ezt (BAG, [[B/BOG\|BOG]]) látni és vélhetően a CzF által adatolt `bogolya` szóban is.  
-A(z akár arab eredetű) perzsában `búk` = trombita. Inkább kürtféle lehet, mert [[B/Bugle\|bugle]] az.  
+A(z akár arab eredetű) perzsában `búk` = trombita. Inkább kürtféle lehet, mert `bugle` az.  
 
 **Bug** egy Fáy Elek A magyarok őshona című könyvének 291. oldalán említett folyó neve is, melyek szintén lehetnek Napnévből állóak (a Nap a [[F/Folyóistennő\|folyóistennő]]től születik).  
 
