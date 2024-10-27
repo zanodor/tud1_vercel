@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MU/","title":"MU","created":"2024-05-11T00:25","updated":"2024-10-25T23:33"}
+{"dg-publish":true,"permalink":"/M/MU/","title":"MU","created":"2024-05-11T00:25","updated":"2024-10-27T01:23"}
 ---
 
 
@@ -8,7 +8,7 @@
 #### Péterfai János írja:
 
 > Csillag és fény jelentésű. Mu az Ősföld, a Fényesség. Egy zseniális kutató, James Churchward, felismerte Mu létezését. A Mu ugyanis a Mul, a Múl és a Múlt alapszava, a Me mély hangrendű párja.  
-- Párja [[M/MÓ\|MÓ]]. Lásd még többet [[M/MUL\|MUL]]-nál. Lásd még szintén [[M/MI\|MI]] és [[M/ME\|ME]].
+- Lásd még többet [[M/MUL\|MUL]]-nál. Lásd még szintén [[M/MI\|MI]] és [[M/ME\|ME]].
 
 > Úr városában Úr-Nám-Mu a szumer király, Utu-Hé-Gál megbízottja, aki fellázad uruki ura ellen. Háború tör ki köztük, amelynek végén Úr-Nám-Mu legyőzi az uruki királyt, Utu-Hé-Gált.  
 > Úr-Nám-Mu hatalmas király lesz, Úr város uraként hatalmas birodalmat szervez. A szumeriak ebben a korban érik el fejlődésük csúcspontját, ami a régi dicsőségnek csak halvány utó-érzete. A király neve az Úr szóban Úr, a Nám szóban a Nem, a Mu szóban az ősi hatalom fogalmát tartalmazza.  

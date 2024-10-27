@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Patak/","title":"Patak","created":"2023-11-26T11:40","updated":"2024-10-25T23:45"}
+{"dg-publish":true,"permalink":"/P/Patak/","title":"Patak","created":"2023-11-26T11:40","updated":"2024-10-26T03:44"}
 ---
 
 
@@ -18,7 +18,7 @@ Az előrész lehet ház értelmű, mint a rokon alakú [[B/Beteg\|beteg]] szóba
 
 A szláv `pták` = madár és szanszkrit `pataga` = madár teljesen megfelel neki. A [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] közül kiemelt a madár és a vizes madarak.  
 Ha már szláv, náluk is szinte azonosan megvan patak (`potok`).  
-A [[B/Bottle\|bottle]] címnél említett óperzsa `bâtak` = bor szó ilyen alakú.  
+Az óperzsa `bâtak` = bor szó ilyen alakú.  
 
 ## Fehérpatak
 

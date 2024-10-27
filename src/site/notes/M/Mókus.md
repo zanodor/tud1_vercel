@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mókus/","title":"Mókus","created":"2024-05-11T00:34","updated":"2024-10-25T23:31"}
+{"dg-publish":true,"permalink":"/M/Mókus/","title":"Mókus","created":"2024-05-11T00:34","updated":"2024-10-27T01:22"}
 ---
 
 
@@ -9,6 +9,7 @@
 
 > A Mókus nevének jelentése Tűz a Fán, Mó-Kus, ami a vörös bundás kis állatkát írja le, aki a fákon ugrál. Alapvetően azonban az a szócsoport adta a bizonyságot, amelyik a Kus rokonságába tartozik.  
 - Ezzel adva meg a világfa értelmét.
+Mó = [[M/MU\|Mu]].
 
 Mivel magokkal (félékkel) táplálkozik, talán \*mók = mag és mókás is.  
 A mókus és a `móka` kapcsolatára valóban fel lehetne hívni a figyelmet. A japán `moku` = fa (wood inkább mint tree; a sztenderd szava fára a japánnak `ki`) szó is mintha arra hívná fel a figyelmet, hogy a fában mókás lények élnek.  
