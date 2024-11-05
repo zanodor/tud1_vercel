@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szatem/","title":"Szatem","created":"2024-11-05T19:17","updated":"2024-11-05T19:17"}
+{"dg-publish":true,"permalink":"/S/Szatem/","title":"Szatem","created":"2024-11-05T19:17","updated":"2024-11-05T21:22"}
 ---
 
 
@@ -49,7 +49,7 @@ A latin `cūdere` = ütni, szanszkrit `kut` = átver, átfúr (lyukat, kutat fú
 
 ## Kentum-szatem szétválás helyett összevonás
 
-Ez az a [[Süt#Kentum *kut és szatem `süt` szétválás helyett *skut összevonás|kentum *kut és szatem `süt` szétválás helyett *skut összevonás]] cím/alcímnél taglalt eset, amikor nem s vagy k lesz a szó elején, hanem egy összevont [[S/Sk-\|sk-]] előtétet találunk.  
+Ez az a [[S/Süt#Kentum kut és szatem süt alakok skut alakba való összevonása\|kentum kut és szatem süt alakok skut alakba való összevonása]] cím/alcímnél taglalt eset, amikor nem s vagy k lesz a szó elején, hanem egy összevont [[S/Sk-\|sk-]] előtétet találunk.  
 [[S/Szláv\|Szláv]] címnél a szklábosz alak kapcsán szóltam már erről:  
 A nyelvészeti munkákban látottak alapján a szavak [[K/Kentum\|kentum]] és szatem változatai néha nem fejeződtek be a szétválásban. Tehát az eredeti Sk- megmarad, és úgy kell olvasni, mint S-t (nem Sh-t). Ennek a maradványát láthatjuk a német Sch-ban, amelyet Sh-nek olvasnak, nem Sz-nek vagy Szk-nak.  
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Concussion/","title":"Concussion","created":"2024-11-05T19:11","updated":"2024-11-05T19:11"}
+{"dg-publish":true,"permalink":"/C/Concussion/","title":"Concussion","created":"2024-11-05T19:11","updated":"2024-11-05T21:23"}
 ---
 
 
@@ -19,7 +19,7 @@ Persze [[K/Koccan\|koccan]] szavunknál is szerepelhetett volna CzF adata, mert 
 
 A szanszkrit `kut` = átver, átfúr jelentése azért érdekes, mert az angol [[F/Four\|four]] = négy szót is tűz és fúr jelentésekkel adtuk meg. Ezen fúrás, csavarás, csötörés, szét, azaz elemeire, tagokra rázás, bontás mind kapcsolatba hozható a Kis és Nagy Év évszakaira és világkorszakokra bontással.  
 
-A latin `cūdere` = ütni, szanszkrit `kut` = átver, átfúr (lyukat, kutat fúr?), sőt, a kecsua `kutay` = ököllel üt, koccanás, és egy Ősi Gyökeres Tibold Makk Szabina adataként előjövő japán `kodo` = szívdobbanás (lásd róla [[D/Dob\|dob]]) olyan szavak, melyek elárulják (lásd még hasonlókat [[K/Kite\|kite]] és [[S/Sagittarius\|Sagittarius]] címnél is), hogy a hímségi ([[U/UT\|UT]] Napnévből képzett) üt[^1] szavunknak s-előhangos (mint [[Süt#Kentum *kut és szatem `süt` szétválás helyett *skut összevonás|süt]] – elsüt; lásd még [[S/Shoot\|shoot]]) változata mellett k-előhangos kún-hun eredetű változata is létezett. Hogy az ütés itt nemző (mint [[K/Kutyanemzés\|kutyanemzés]]) vagy test sérülésére irányuló, nos, hímségiek lévén, "egy kutya."
+A latin `cūdere` = ütni, szanszkrit `kut` = átver, átfúr (lyukat, kutat fúr?), sőt, a kecsua `kutay` = ököllel üt, koccanás, és egy Ősi Gyökeres Tibold Makk Szabina adataként előjövő japán `kodo` = szívdobbanás (lásd róla [[D/Dob\|dob]]) olyan szavak, melyek elárulják (lásd még hasonlókat [[K/Kite\|kite]] és [[S/Sagittarius\|Sagittarius]] címnél is), hogy a hímségi ([[U/UT\|UT]] Napnévből képzett) üt[^1] szavunknak s-előhangos (mint [[S/Süt#Kentum kut és szatem süt alakok skut alakba való összevonása\|süt]] – elsüt; lásd még [[S/Shoot\|shoot]]) változata mellett k-előhangos kún-hun eredetű változata is létezett. Hogy az ütés itt nemző (mint [[K/Kutyanemzés\|kutyanemzés]]) vagy test sérülésére irányuló, nos, hímségiek lévén, "egy kutya."
 { #apmcg1}
 
 - Vesd össze: hímségi lök – nőiségi luk illetve lók. Egy hímségi adó képességhez járul egy nőiségi befogadó képesség, azonos hangalakú szavakkal kifejezve. Itt is erről van szó.

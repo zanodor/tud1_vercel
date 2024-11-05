@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2024-10-25T22:19"}
+{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2024-11-05T21:45"}
 ---
 
 
@@ -337,11 +337,11 @@ Kárpát-medence – nevezik még: Avaria, Ouggoria, Ungaria, Ugria, Vegria, Hun
 
 ...című könyvében az általa hosszasabban elemzett Bartha Antal: A IX-X. századi magyar társadalom (1968 és 1973) c. könyvéből idéz:  
 > "A magyar etnikum megtelepedése ezen az akkor igen ritka ... népességű területen" – írja Bartha, könyve 122. oldalán, a Kárpát-medencéről.  
+- Ezen állítások már a római támadások idején is elhangzottak, de mégis 44 évbe került a világ akkori legerősebb hadseregének elfoglalni Pannóniát.
 
-Ezen állítások már a római támadások idején is elhangzottak, de mégis 44 évbe került a világ akkori legerősebb hadseregének elfoglalni Pannóniát.  
 > Bartha nem is adatol, hanem régi, jól bevált szokás szerint csupán "megállapít", gondolván, hogy saját tudományos neve a jóhiszemű olvasó számára – akinek nem áll módjában minden adatot külön ellenőrizni – elegendő bizonyíték.  
+- Igen, Götz érveléseit érdemes megtanuni; ilyesmi megfogalmazással élt Kubínyi Tamás is.
 
-Igen, Götz érveléseit érdemes megtanuni; ilyesmi megfogalmazással élt Kubínyi Tamás is.  
 > Bartha atyamesterénél jól megtanulhatta. Sokkal inkább hitelt érdemlő tehát az a tárgyilagos, pártatlan külföldi krónikás, aki annak idején egyszer az "avarok pusztaságai"ról írt (Eginhard) vagy természetesen a Kíevi Krónika közlése, hogy "úgy elpusztultak mint az avarok, még emlékük sem maradt", Idézhetnénk ugyanis más "objektív külföldi krónikásokat" is – egykorúakat és maiakat –, akik szerint az avar birodalom felbomlása után a nép nagy tömegei a Kárpát-medencében maradtak (pl. Altheim: Geschichte der Hunnen).  
 
 ## Kelták a Kárpát-medencében
@@ -373,6 +373,11 @@ Fentebb Remete Farkas Lászlótól érintőleg volt szó keltákról.
 De előtte onnan vitték ki.  
 
 Lásd még [[M/Marha#Marha, marha\|marha, marha]] cím/alcímnél írottakat is.  
+
+## Kárpát-medence a vonaldíszes kerámia szülőföldje
+
+Lásd ilyen címmel Grandpierre Atilla A királyi mágusok című dolgozatában található anyagát. Fentebb már esett szó kultúrákról Remete Farkas listájában.  
+Lásd még [[V/Vonaldíszes kerámia\|vonaldíszes kerámia]].  
 
 ## Jogigény a Kárpát-medencére
 
