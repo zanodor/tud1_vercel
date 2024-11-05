@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar istencsalád/","title":"Magyar istencsalád","tags":["Englishtexttranslated"],"created":"2023-11-30T10:05","updated":"2024-10-25T22:40"}
+{"dg-publish":true,"permalink":"/M/Magyar istencsalád/","title":"Magyar istencsalád","tags":["Englishtexttranslated"],"created":"2023-11-30T10:05","updated":"2024-11-04T16:44"}
 ---
 
 
@@ -20,9 +20,9 @@ A régi kínai felfogás szerint a világmindenség két fő princípiuma a [[J/
 > A kereszténységben: az Atyaisten (a termékenyítő tűz erő, csillagképe az Orion, szimbóluma a párduc, a felfelé mutató háromszög); az Anyaisten (az összetartó, befogadó vízerő, csillagképe a Nagy Kutya a Szíriusz csillaggal, szimbóluma a csodaszarvas, a kör, a testet öltött formájának jelképe: a Hold); s a Fiúisten (a kiegyensúlyozó, a Föld elem, szimbóluma: a hétágú Nap, a négyzet, a Turul vagy Sólyom, összevontan pedig a szárnyas Nap, Jézus). Negyedik elem: az Emberben áramló levegő elem. Ősi jelekkel: az Atya az (X), az Anya (☉), és a Fiú (+) az egyenlő szárú kereszt. A három rovásjel összevont ligatúra jelképe pedig a Teljesség: egy körben lévő nyolc ágú csillag. A Lélek szimbóluma pedig az Atyaisten (X) és a Fiúisten (+) rovás jeleinek az összevont ligatúrája együtt: a nyolcágú csillag. Mindet megtaláljuk szimbólumként ma is a templomokban, bár sok pap ma már nem tudja a jelentését.  
 
 Ez a küzdelem nem más, mint az, amit a Szíriuszhoz kapcsolt háború- és szerelem-istennő szerepkörökben is látunk: a küzdelem a szerelmi és háborús csatározásra értendő.  
-Ezek után nem is meglepő, hogy a téridőbeli helyre, Nagy Kutya csillagképre utalva előjön ilyen [[N/Nász\|nász]] alakú szó Helena Lehman nevű írónő tollából (aki Bullinger könyvét dolgozta fel több könyvben; az angol szöveg [[S/Szíriusz\|Szíriusz]] címnél található, itt csak a fordítást adom):  
+Ezek után nem is meglepő, hogy a téridőbeli helyre, Nagy Kutya csillagképre utalva előjön ilyen [[N/Nász\|nász]] alakú szó Helena Lehman nevű írónő tollából (aki Bullinger könyvét dolgozta fel több könyvben; az angol szöveg [[S/Szíriusz\|Szíriusz]] címnél található, itt csak a magyar nyelvű fordítást adom):  
 > A denderai zodiákusban a Canis Majorhoz tartozó sólyom külön "Naz Seir" felirattal van ellátva, és a Sirius csillagot jelképezi a Canis Majorban. Egyiptomiul a "Naz" azt jelenti, hogy "Elindult" vagy "Elküldött", míg a "Seir" azt jelenti, hogy "Herceg" vagy "Főnök". Ezért a "Naz Seir" cím azt jelentheti, hogy "küldött herceg". Mivel a "Naz" és a "Zar" egyaránt "Herceget" jelent héberül, a Naz Seir azt is jelentheti, hogy "Hercegek Hercege", ami a királyok Királyának, Jahsuának megfelelő jelzője!  
-- Igen ám, de Jézus nem a Szíriusz, hanem a Nap. Az ilyen zsidós ezoterikus írókkal vigyázni kell.  
+- Igen ám, de Jézus nem a Szíriusz, hanem a Nap. Az ilyen zsidós ezoterikus írókkal vigyázni kell.
 
 Mondtam volna itt, hogy a [[K/Küzd\|küzd]] és [[K/Kezd\|kezd]] szavaink is erre a téridőbeli pontra kellene utaljanak, de a kezdet [[S/Szűz csillagkép#Szűz mint kezdet\|Szűz mint kezdet]] cím/alcímnél írottak alapján oda is kapcsolható (csak hogy bonyolódjon a dolog).  
 Ezek után még azt is ki lehet jelenteni, hogy a [[F/Feleség\|feleség]] fogalma is az ég [[F/Fel\|fel]]ezésének helyére utalhat[^2].  
@@ -33,14 +33,14 @@ Egy fontos, a [[B/Bal és jobb\|bal és jobb]] címnél[^3] (valamint [[H/Hunor 
 
 Amikor Nimrud-Orionnak két fiat ([[H/Hunor és Magor\|Hunor és Magor]]) tulajdonítunk, az azt jelenti, hogy az ikerfiak képzete alatt az istenanya/időanya által kijelölt idő felezését kell érteni alattuk ([[F/Félév\|félév]], [[H/Hunor csillagkép\|Hunor csillagkép]] és a többi ismert címnél írottak alapján).  
 
-#### Magyar Adorján Csodaszarvasában...
+#### Magyar Adorján Csodaszarvas...  
 
-...is szépen kifejti, analógiákkal. Arról, hogy a római [[N/Numitor\|Numitor]] [[R/Romulus és Remus\|Romulus és Remus]] nagyapja, Magyar Adorján szintén Csodaszarvasában írja, a vogul neveket is szóba hozva:  
+...című könyvében is szépen kifejti analógiákkal. Arról, hogy a római [[N/Numitor\|Numitor]] [[R/Romulus és Remus\|Romulus és Remus]] nagyapja, Magyar Adorján szintén Csodaszarvasában írja a vogul neveket is szóba hozva:  
 > Ezen vogul Numi-Tor vagy Numi-Tár (= Fölső-Lény vagy Fölső-Istenség; lásd [[N/Numi Tórem\|Numi Tórem]]) azért "nagyapa", mivel ő a Napisten, azaz Szarnu-Ater (Arany-Isten) apja, aki utóbbi pedig az emberek apja, aminthogy Hunor és Magor is a Napisten megkettőződése, aminthogy Romulusz és Rémusz is eredetileg ez volt.  
-- A [[N/Nap\|Nap]] és [[N/Nép\|nép]] szavak egyezőségét nem emeli ki, pedig megtehette volna itt; igaz a nép szót nem is használta.  
+- A [[N/Nap\|Nap]] és [[N/Nép\|nép]] szavak egyezőségét nem emeli ki, pedig megtehette volna itt; igaz a nép szót nem is használta.
 
 Másutt bővebben, másképp megírva:  
-A család szükségszerűen áll apából, anyából és gyerek(ek)ből. Hogy a gyerek [[M/MAG\|Mag]] = Nap, erről másutt volt szó (még a keltában is `mag`, `mac` = fiú) illetve arról is, hogy a fiú régen gyerek, sarj értelmű volt. Viszont a csillagmitológiában a lány az anya fiatalabb énjére utal (lásd [[D/Daughter\|daughter]] és [[T/Tündér\|tündér]]), míg a fiú az anya fia, Napgyermeke, kiből felnővén (amikor a Nap a Szíriusszal, Orionnal együtt áll és Hunor-Széth lesz belőle) a szerelmese is lesz ([[I/Incest\|incest]] címnél erről volt szó; ezen a ponton ölheti meg apját, Oriont a Nap, hogy anyját nőül vegye), ami alatt azt kell érteni, hogy a Nap a Tejút körén mozog, semmi mást (anya nem hálhat fiával a valóságban). A [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél álló Nap = Orionná válás így érthető meg.  
+A család szükségszerűen áll apából, anyából és gyerek(ek)ből. Hogy a gyerek [[M/MAG\|Mag]] = Nap, erről másutt volt szó (még a keltában is `mag`, `mac` = fiú) illetve arról is, hogy a fiú régen gyerek, sarj értelmű volt. Viszont a csillagmitológiában a lány az anya fiatalabb énjére utal (lásd [[D/Daughter\|daughter]] és [[T/Tündér\|tündér]]), míg a fiú az anya fia, Napgyermeke, kiből felnővén (amikor a Nap a Szíriusszal, Orionnal együtt áll és Hunor-Széth lesz belőle) a szerelmese is lesz ([[I/Incest\|vérfertőzés]] címnél erről volt szó; ezen a ponton ölheti meg apját, Oriont a Nap, hogy anyját nőül vegye), ami alatt azt kell érteni, hogy a Nap a Tejút körén mozog, semmi mást (anya nem hálhat fiával a valóságban). A [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél álló Nap = Orionná válás így érthető meg.  
 De ki is az az [[O/Orion\|Orion]]? Nevének értelmezése szerint az Ég Ura. [[A/Anu\|Anu]] címnél is volt arról szó ([[I/Isten\|Isten]] címnél is, ahol sok másról is szó volt), hogy hogyan alakulhatott ki hímségiként kezelése. Azóta legutóbb [[N/Ninsubur\|Ninsubur]] címnél írottak alapján pontosítunk:  
 [[N/Ninsubur\|Ninsubur]] neve úgy jött elő [[P/Papszukkal\|Papsukkal]] címnél, minthogy állítólag az Orion alakja nőiség lett volna? Aligha. Nyilván félreértésről van szó. Orion nem lehet nőiség, ahogy a Nap sem \[nincs olyan, hogy [[N/Napistennő\|Napistennő]]\]. A félreértést az okozza, hogy Orion (Úr-Isten) mellett ott van az Istenanya (An, Ana, Anu; [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]]), el nem választhatóan.  
 - [[I/Isa\|Isa]] címnél is, sémi és szanszkrit szavak által bemutatásra került, hogy az Úr(isten) és a neje lehet Orion és Szíriusz.  
@@ -53,25 +53,25 @@ De egyre több helyen (épp itt fentebb is) kimondtuk már azt is, hogy a viszon
 
 #### Pető Imre Hun nyelvi tanulmányok...
 
-...című könyvében amikor (az örmény forrásokból dolgozó, [[I/Iszfaháni kódex\|Iszfaháni kódex]] címnél említett) Detre Csaba adata alapján Orionnak Würen nevét adja meg, GYÁ-val egyetértően írja:  
+...című könyvében amikor (az örmény forrásokból dolgozó, [[I/Iszfaháni kódex\|Iszfaháni kódex]] címnél említett) Detre Csaba adata alapján Orionnak Würen nevét adja meg, Gyárfás Ágnessel egyetértően írja:  
 > Würen – Orion. Talán valamiféle- //M -őr, eredetileg valószínűleg, würeni fényjelző őr (D. Cs.) A Würen hangtani és jelentésbeli azonossága az Orionnal nyilvánvaló. Nimród Ősapánk égi tisztében valóban fényőrként szolgál. Karjánál a Bethelgeuze, lábszára a Zarugh ("záró"). A magyar történelmi mitológia tükröződik vissza a csillagok neveiben is. Híres csillagának, a Bethelgeuzének Kárpát-medencei neve: Óriásgázlója. A Würen Mezopotámiában [[N/Nimrud\|Nimrud]], a Biblia és a magyar krónikák Óriása, a magyarság mítoszi Ősapja. Az ő fiai Hunor, Magor, és némely krónika szerint – Bor. Nincs magányban. Felesége a csillagmezőn segíti őt: Meme, Memazdigh. Feleség, hunul: eme, meme. Mezopotámiai neve: [[E/Eme\|EME]].  
 
 Megjegyzés: a feleség értelem asszony és nő (honnan is: nej, nejem) alapértelemből indul ki.  
 [[E/Eme\|Eme]] Dr. Gyárfás Ágnesnél is az istenanya (= Inanna, Szíriusz) neve[^4], melynek alhangi párja, [[A/AMA\|AMA]] például [[S/Sarama\|Sarama]] nevében is megvan.  
 [[K/Kazár#Kazár – Pater\|Kazár – Pater]] cím/alcímnél is írtuk, hogy a [[T/Tejútanya\|Tejútanya]] (kinek **egy csillagba centralizált önmaga Szíriusz**) ura/férje Orion: [[P/Pater\|Pater]]-ről megállapítottuk, hogy nemcsak hogy Égatya (honnan a földi apákra átszálló jelentése is) értelmű, hanem Orionnak felel meg. Ahogy [[K/Kazár\|kazár]] is. Tulajdonképpen azonos jelentésűek is: a Ház Ura. A [[H/Ház\|ház]] a Tejútanya, akinek ura (férje) Orion.  
 
-[[S/Szép#Szép apa és szép anya\|Szép apa és szép anya]] cím/alcímnél is utaltunk a Szíriusszal azonos Anya és a Nimrud-Orionnal azonos Apa ősi-szép szerepkörére.  
+[[S/Szép#Szépapa és szépanya\|Szépapa és szépanya]] cím/alcímnél is utaltunk a Szíriusszal azonos Anya és a Nimrud-Orionnal azonos Apa ősi-szép szerepkörére.  
 [[L/Ló#Ló az égen\|Ló az égen]] és [[L/Ló#ló anya életfás növényesedéssel és párduc apa\|ló anya életfás növényesedéssel és párduc apa]] cím/alcímnél két övcsaton ősvallásunkból ismert Tejútanya+Nimrud ábrázolást látunk, mely ismét bizonyítja, hogy a párduc-panther Nimrud-Orion és hogy a Fehérlófia anyja, a Tejút egy pár.  
 
 ## A férj és feleség, Orion és Szíriusz összetartozósága
 
-Nagyon sok helyen, főleg [[I/Íj csillagkép\|Íj csillagkép]], [[O/Orion övcsillagai\|Orion övcsillagai]], [[K/Kovács és a kutya\|kovács és a kutya]] és sok más helyen szó esett arról, hogy ezek összetartoznak. [[K/Khuda\|Khuda]] és [[G/God\|God]] címnél még ez is elhangzott az iráni `Khuda` kapcsán:  
+Főleg [[I/Íj csillagkép\|Íj csillagkép]], [[O/Orion övcsillagai\|Orion övcsillagai]], [[K/Kovács és a kutya\|kovács és a kutya]] és sok más helyen szó esett arról, hogy ezek összetartoznak. [[K/Khuda\|Khuda]] és [[G/God\|God]] címnél még ez is elhangzott az iráni `Khuda` kapcsán:  
 Ergo a perzsa [[K/Khuda\|Khuda]] = isten lehet kutya, hugya és Kutya csillagkép, sőt, mivel [[G/Gábor\|Gábor]] és [[K/Kutyahitű\|kutyahitű]] címnél az Orionról is volt szó, akár Orion plusz Szíriusz is lehetne akár.  
 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-[[K/KUS\|KUS]] címnél szóba került, hogy Kus lehet azonos Nimróddal, viszont KUS lehet a Tejútanya is, így Nimród is lehetne a fia annak? Bonyolódik egy kicsit így a felvázolt kép, némi [[I/Incest\|incest]]-tel – de hiszen Egyiptomban is [[N/Nut\|Nut]] fia [[S/Széth\|Széth]] az, ami végül is anyját nemzi, nem [[I/Ízisz\|Ízisz]]t, ha jól rémlik... (Valójában Nut és Ízisz egylényegűnek kezelhető, de szigorú értelmében Anya-Lány összefüggés áll fenn, ezért is lehet [[S/Sothis\|Sothis]]-Szíriusz is [[S/Szűz\|szűz]].)  
+[[K/KUS\|KUS]] címnél szóba került, hogy Kus lehet azonos Nimróddal, viszont KUS lehet a Tejútanya is, így Nimród is lehetne a fia annak? Bonyolódik egy kicsit így a felvázolt kép, némi [[I/Incest\|vérfertőzés]]sel – de hiszen Egyiptomban is [[N/Nut\|Nut]] fia [[S/Széth\|Széth]] az, ami végül is anyját nemzi, nem [[I/Ízisz\|Ízisz]]t, ha jól rémlik... (Valójában Nut és Ízisz egylényegűnek kezelhető, de szigorú értelmében Anya-Lány összefüggés áll fenn, ezért is lehet [[S/Sothis\|Sothis]]-Szíriusz is [[S/Szűz\|szűz]].)  
 
 [^2]: Lábjegyzet:  
 Sőt, a Feles-Ég felbontása a szónak is emigyen meg is felelne.  
