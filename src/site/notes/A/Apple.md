@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["Englishtexttranslated"],"created":"2023-10-11T10:10","updated":"2024-10-22T22:17"}
+{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["Englishtexttranslated"],"created":"2023-10-11T10:10","updated":"2024-11-06T16:19"}
 ---
 
 
 # Apple
 
-[[A/Alma\|Alma]]. A német alma viszont `apfel`.  
+[[A/Alma\|Alma]]. Az alma német szava `apfel`.  
 Ha App-Ul alakokká bontjuk, Apa-Fia jelentést kapunk. Az Apa a Nap, kisebbik mása az alma, ez esetben. Nem esik messze az alma a fájától, mondjuk ma is.  
 Persze az alma inkább bolygót szimbolizál (a [[K/Karácsonyfa\|karácsonyfá]]n például).  
 
@@ -41,7 +41,7 @@ Kimondottan magyaros felbontású a lett `ābolu` = alma.
 
 Ahogy [[H/Hív\|hív]] címnél és az alanti alcímnél kitérünk rá, az alma idegen nevébe [[E/Éva\|Éva]] neve is beillene.  
 
-## Apple névbe belelátható magyar szavak
+## Az apple szóba belelátható magyar szavak
 
 Az imént szóba került apol, ápol és Éva neveken túl mi jöhet még számításba?  
 Apple szónak megfelel alakilag az alábbi három ige is: [[A/Avul\|avul]] és [[E/Évül\|évül]], de [[E/Épül\|épül]] is. És ha már rátaláltam erre a magyar szópárra, [[E/Épül és évül\|épül és évül]]re, erről kellene valami okosat mondani, akár még itt, almával kapcsolatosan:  

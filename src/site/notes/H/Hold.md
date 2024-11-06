@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2024-10-25T21:46"}
+{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2024-11-06T16:19"}
 ---
 
 
@@ -98,14 +98,14 @@ Ki kell azt is jelenteni, hogy a [[K/Kutya\|kutya]] (kuta) és Hold szavaink ugy
 > A finn `hullu`, samojed `halla` pedig ( = toll, wüthend), csak a német Frau **Hulla** hadistenné neve. ([Lásd 247. old.](zotero://open-pdf/library/items/DFI47XPY?page=247&annotation=UCPHZQRC))
 > 
 > A hód szót (jugerum) nem kell összetéveszteni a hold nevével, amaz a német `Heidefeld`, az osnabrügi törvények `Hode` földje, `hoed` "mesure de capacité en Holland pour les Grains a francz. acad. szótárában is (l. biester s Heide szók alatt Adelungot is `haldan` = legelni, ellentétben az állandó lakással). ([Lásd 247. old.](zotero://open-pdf/library/items/DFI47XPY?page=247&annotation=E7FUZ8NJ))  
-- Jugerum = hold terület neve.
+- `Jugerum` = hold terület neve.
 
 > A hold különös tiszteletet nyert az egyiptomi, arab és zsidó földön, a holdünnepek sehol rendezettebbek nem voltak, mint a Sabaeismust követőknél, kiknek mint láttuk, **Hulda** és Schabba varázslónéik is voltak. ([Lásd 247. old.](zotero://open-pdf/library/items/DFI47XPY?page=247&annotation=4QEQV4QQ))  
 > 
 > Arab hagyományok szerint már Houd volt az első arab patriarcha, ki vallásukat s nyelvüket elrendezte, Kabar-Houd (szó szerint koporsója Houdnak), ma is tiszteltetik Hadramaut földön, hol egykor a menny nagy népe lakott. ([Lásd 247. old.](zotero://open-pdf/library/items/DFI47XPY?page=247&annotation=JWVEYI6V))
 > 
 > A syrus és arab `hada` ige = duxit, direxit, honnan `hadi` dux, a nap és hód ily vezetői voltak az időjárásnak, már Sanchthoniathonban a syrusok nap istene [[H/Hadad\|Hadad]], mint azt Macrobius (l. 13.) magyarázza. ([Lásd 248. old.](zotero://open-pdf/library/items/DFI47XPY?page=248&annotation=WEE6Z6TW))  
-- Ez a had szavunk inkább; nemzetiséget is jelent, ahogy [[C/Család\|család]] is Hold változata lenne?
+- Ez [[H/Had\|had]] szavunk inkább; nemzetiséget is jelent, ahogy [[C/Család\|család]] is Hold változata lenne (vö. kelta-ír `gaolta` = rokonság, család).
 
 > Az arab földön ellenben a hold tisztelete kapott lábra, nevezetesen az arab hagyományok szerint Houd volt az első, ki arabul beszélt, az adamiták még syrusul beszéltek; a syronabáthok vagy napimádók nyelve volt az első nyelv, melyen Ádám beszélt (l. Quatreméret Journ. as. 85. szám p. 241.). ([Lásd 248. old.](zotero://open-pdf/library/items/DFI47XPY?page=248&annotation=4XWCRFVP))
 > 
@@ -323,6 +323,16 @@ Arról, hogy a [[F/Föld tengelyferdülése\|Föld tengelyferdülésé]]t a Hold
 > Innen ered a régi mondás, hogy "a Hold hazudik". Amikor növekedőben van, D-alakot mutat, holott Decrescit latinul annyit jelent, hogy "fogyatkozik"; amikor fogyóban van, C-alakot mutat, pedig Crescit latinul annyi, mint "növekszik". De még könnyebb felismerni a Hold növekvő vagy fogyó állapotát a régi magyar hagyomány alapján: ha D-alakot mutat, akkor Dagad, növekszik, ha C-alaku, akkor Csökken, fogy.  
 - De miért is lenne a [[L/Latin nyelv\|latin nyelv]] bármi szempontból hiteles...?
 
+## Hold nevünk szláv éhség jelentése
+
+Talán éppen az imént taglalt fogyó Hold fogalma révén alakult ki, vagy inkább a Hold tágabb értelmezése révén a nőiségi elvének megmutatkozását láthatjuk.  
+A Holodomor (éhhalál) kifejezés előtagjáról van szó. Menjünk végig a szláv szavakon:  
+orosz `голод` (gólod) = éhség, éhínség; hiány (a hiány, [[E/Éh\|éh]] = [[I/Ív\|ív]] összefüggéseiről volt szó [[E/Éh#Éh – evés/ivás – ívás\|itt]]) – ukrán `hólod` (ez volt igazán árulkodó), cseh/szlovák `hlad`, szerb-horvát `гла̑д` (glȃd), bolgár `глад` (glad), lengyel `głód`  
+Az óegyházi szláv alak `gladŭ`.  
+A szanszkrit `गृध्र` (gṛ́dhra) = mohón vágyni szó holmi rokonként megállapításával teljesen eltávolodnánk a lényegtől.  
+
+Alaki azonosa, [[G/Glad\|glad]] a germán nyelvekben boldog (eredetileg fényes) jelentésű; ott is Hold nevünket (korábban [[G/Gyullad\|gyullad]] igénket) hoztunk elő.  
+
 ## Égitestadatok
 
 #### Tibold Makk Szabina Hattyú úszik a mennyek vizén – A baljóslatú 13 titka...
@@ -368,7 +378,7 @@ A Hold keletkezését szintén nem ismerjük pontosan. Összetétele arra utal, 
 
 Fog, tart. Sok más jelentése is van. Azt kell hinni, hogy a kézbe, karba vesz jelentés mellett ölbe is vesz jelentésű is, hiszen ölel jelentése is van. Az öl területmérték is, a hold igaföld; vannak nyolczszáz, ezer, ezerkétszáz, ezerhatszáz négyszögöles holdak.  
 Személyszállító eszközökön raktér jelentésű is, ami ismételten egy három dimenzióban elképzelhető képet vetít elénk.  
-[[H/Hord\|Hord]] szavunk adja ki, mint [[H/Hoard\|hoard]]-ot is. De ha a német `halt` = megáll, akkor a hold is lehet párja, visszatart értelemben, honnan a többi értelem származhatott.  
+[[H/Hord\|Hord]] szavunk adja ki, mint a [[H/Hoard\|hoard]] szót is. De ha a német `halt` = megáll, akkor a hold is lehet párja, visszatart értelemben, honnan a többi értelem származhatott.  
 
 ## Lábjegyzetek
 
@@ -384,7 +394,7 @@ Amikor a kihalófélben lévő nyugat-germán wilamowicei nyelvben megtalált `b
 Mindkét megoldás megfelel, tekintve, hogy az ív/íj a Holdat, holdsarlót formázza az égen.  
 
 [^3]: Lábjegyzet:  
-Alice Beck Kehoe régésznő Traveling Prehistoric Seas című könyvében azték, kínai és görög holdházakat és hónapok napjait hasonlítja össze. Kínában ötödik a kis és hetedik a nagy szarvas napja. Az [alábbi](https://en.wikipedia.org/wiki/Chinese_constellations) oldalon hiába van szó holdházak neveiről, szarvasról viszont szó sem esik. A szarvas neve luk és lú a kínaiban (sokatmondóan), mely szintén nem segít megérteni, mire is gondolt itt pontosan Molnár V. József.  
+Alice Beck Kehoe régésznő Traveling Prehistoric Seas című könyvében azték, kínai és görög holdházakat és hónapok napjait hasonlítja össze. Kínában ötödik a kis és hetedik a nagy szarvas napja. Az [alábbi](https://en.wikipedia.org/wiki/Chinese_constellations) oldalon hiába van szó holdházak neveiről, szarvasról viszont szó sem esik. A szarvas neve `luk` és `lú` a kínaiban (sokatmondóan), mely szintén nem segít megérteni, mire is gondolt itt pontosan Molnár V. József.  
 
 [^4]: Lábjegyzet:  
 Péterfai János írja:  
@@ -392,7 +402,7 @@ A nép a Napnak és Holdnak emberi arcot képzel. Van szemük, orruk és szájuk
 
 [^5]: Lábjegyzet:  
 [[G/GUD\|GUD]] címnél viszont kifejtettük:  
-Ergo ha igaz az, hogy a régi sumérben `gud` = Nap, akkor az két dolgot jelenthet. Elsőként, hogy a napkultuszból dél, az egyenlítő irányába való költözéssel és a holdkultusz felvételével nem cserélte le a kultikussá váló szavát (mint ahogy erről egy másik, sumér nyelven szintén (valóban?) Holdat, de eredetileg hun nyelven Napot jelent(het)ő [[K/KUN\|KUN]] szó kapcsán szóltunk), vagy pedig arról van szó, és ez a valószínűbb, hogy a fényessége nyomán kapta mindkét esetben a két égitest a nevét (és ezért sem kellett lecserélni). Szumma szummárum, a sumér `God` = Hold nem is annyira a Hold önálló neve, csak annyit jelent, mint a DR által megadott Hu-Da = FényGolyó, Fényes Test.  
+Ergo ha igaz az, hogy a régi sumérben `gud` = Nap, akkor az két dolgot jelenthet. Elsőként, hogy a napkultuszból dél, az egyenlítő irányába való költözéssel és a holdkultusz felvételével nem cserélte le a kultikussá váló szavát (mint ahogy erről egy másik, sumér nyelven szintén (valóban?) Holdat, de eredetileg hun nyelven Napot jelent(het)ő [[K/KUN\|KUN]] szó kapcsán szóltunk), vagy pedig arról van szó, és ez a valószínűbb, hogy a fényessége nyomán kapta mindkét esetben a két égitest a nevét (és ezért sem kellett lecserélni). Szumma szummárum, a sumér `God` = Hold nem is annyira a Hold önálló neve, csak annyit jelent, mint a Dudás Rudolf által megadott Hu-Da = FényGolyó, Fényes Test.  
 Ergo nem lehet száz százalékkal mégsem kimondani, hogy a germán Gott/God Holdisten lenne (holott szláv időmérésre használt, alant említett azonos alakú szavak alapján meg akár mégis lehetne).  
 
 [^6]: Lábjegyzet:  
@@ -410,7 +420,7 @@ A szír-arámi szó is ugye lehetne akár Hold alakú is, tekintve a [[H/Hold\|H
 Megjegyzés: az arámi szó viszont már nemcsak a frissen házasuló újasszonyt, hanem a frissen szülő anyát jelenti; a méhlepény szó megjelenése is ezt bizonyítja.  
 
 [^9]: Lábjegyzet:  
-Predikatívan, azaz főnév után/nélkül huida, attributívan, azaz közvetlenül főnév előtt huin a fehér a koreaiban.  
+Predikatívan, azaz főnév után/nélkül `huida`, attributívan, azaz közvetlenül főnév előtt `huin` a fehér a koreaiban.  
 
 [^10]: Lábjegyzet:  
 Bárhogy is volt "eleinte", az ókori csillagvallásokban a Hold már a második helyre, a Nap mögé szorult.  
@@ -426,7 +436,7 @@ Lásd még [[H/Holdfázisok, fogyatkozások és az árapály\|holdfázisok, fogy
 A [[P/Párta\|párta]] is Holdsarló alakú.  
 
 [^14]: Lábjegyzet:  
-Például A lettben Cik jums gadu? Hány éves vagy? – Man 40 gadu. Negyven éves vagyok. (Szó szerint nekem van 40 évek.)  
+Például a lettben "Cik jums gadu?" (Hány éves vagy?) – "Man 40 gadu." (Negyven éves vagyok.) (Szó szerint nekem van 40 évek.)  
 
 [^15]: Lábjegyzet:  
 Ha már itt tartunk, a taos nyelvű `kə́ona` = medve, mely hasonló a japán `kuma` = medve és baekje/pekcse `koma` = medve szavakhoz.  
@@ -445,4 +455,4 @@ A fajtalanság, a vér bűne korába; lásd [[B/Bibliai bűnök\|bibliai bűnök
 Hogy a holdtalan kor alatt konkrét esemény áll, vagy csak képletes (a Hold a női energiákért felelős), nem tudni.  
 
 [^20]: Lábjegyzet:  
-A mai finnben n nélkül [[K/KU\|KU]]-val azonosan kuu = Hold. Azaz pusztán csak a fényességből indul ki?  
+A mai finnben n nélkül [[K/KU\|KU]]-val azonosan `kuu` = Hold. Azaz pusztán csak a fényességből indul ki?  
