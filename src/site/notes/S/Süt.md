@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2024-11-05T19:17"}
+{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2024-11-06T03:02"}
 ---
 
 
@@ -53,9 +53,11 @@ w2 -- w3 : IE ~*(s)kewd-
 Amikor a görög (által lejegyzett) [[S/Szkíta\|skytha]] név indogermán jelentése nyomán eljutunk – akár a sima s-sel ejtett angol [[S/Shoot\|shoot]] igével hasonlítva – süt igénkhez, ne gondoljuk, hogy a süt nyomán keletkezett volna a szkíta név, vagy hogy a szkíta nyomán keletkezett volna süt. Éppen arról van szó, hogy a süt szónak olyan magyar-hun flexiós vagy poszt-magyar-hun torzult változatát kell keresni, mely a skytha név lejegyzését egyáltalán lehetővé tehette. Ne lineáris levezetésekben gondolkodjunk és ne csak 2-3 alakot vizsgálva alkossunk véleményt.  
 - Az indogermán jelentés alatt azt értjük, hogy az indoeurópai \*(s)kewd- = lő gyök egyezik a szkíta névvel, mely névvel kapcsolatban egyik — telluris – [[S/Shoot#^v82dg3\|megközelítése]] szerint azt mondhatjuk, hogy a szkíta = íjfeszítő (nép) jelentésű; telluris alatt pedig azt, hogy a történészek nem számolnak – egy másik megközelítéssel: csillagképekkel.
 
-### Kentum \*kut és szatem `süt` szétválás helyett \*skut összevonás
+### Kentum kut és szatem süt alakok skut alakba való összevonása
 
 Érdekes, hogy az imént említett IE gyökben az s-elővetés zárójelesen, opcionális hangként van jelölve. Azaz ahogy pl. [[H/Hieroglyph\|hieroglyph]] címnél üt, vág jelentésű azonos alakú különböző nyelvű szavakat láttunk, a [[C/Cut\|cut]] és [[C/Concussion\|concussion]] címnél taglalt vágás, ütés, valamint dobás fogalmai is hasonló szóalakokkal kerültek kifejezésre. A dob már az (íj)lövés fogalmával társítható, de még a görög `βάλλω` = dob igének is van üt, csap értelme, míg a `bélosz` = nyíl jelentésű.
+{ #ixo2pk}
+
 
 Az alcím magyarázatot kíván. [[S/Szatem#Kentum-szatem szétválás helyett összevonás\|Kentum-szatem szétválás helyett összevonás]] cím/alcímnél már volt szó azon esetről, amikor a szóeleji s(z) és k összevonva jelenik meg IE szavak elején. Ez a helyzet a lő ige (északi) germán írásmódjával is (kiejtésében helyenként viszont már nem követi).  
 
