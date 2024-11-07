@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-10-22T19:26"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-11-07T00:55"}
 ---
 
 
@@ -38,7 +38,7 @@ Mivel a kutatás folyamatos és az elkövetkezendő mintegy 40-50 (500-1000?) é
   
 A közben angolról magyarra fordított feliratokról pár szót:  
 **Keresés**. Control+K (Mac-en CMD+K) billentyűk együttes lenyomásával is elérhető. Remélhetőleg sok ezer állománynál is valósidejű, azaz gyors marad.  
-A menet közbeni folyamatos feltöltésekkel előbb a mobilos/táblagépes böngészőkön, majd a laptopok és asztali gépek böngészőin megszűnt működni a keresés funkció. Remélhetőleg erre az elkövetkezendő hónapokban lesz valamilyen megoldás, mert a funkció nagyon hasznos, hiszen nemcsak a cikkek címeire, hanem azok tartalmára is lehetett keresni és azonnali eredményeket produkált. Ellenkező esetben az oldalt látogatónak a bal oldali A-Z mappákban manuálisan tallózva kell kalauzolni magát (vagy az egyes linkekre kattintva az oldalak sorain belül), ami nem ideális.  
+A menet közbeni folyamatos feltöltésekkel előbb a mobilos/táblagépes böngészőkön, majd a laptopok és asztali gépek böngészőin megszűnt működni, és így lekapcsolásra került a keresés funkció. Remélhetőleg erre az elkövetkezendő hónapokban lesz valamilyen megoldás, mert a funkció nagyon hasznos, hiszen nemcsak a cikkek címeire, hanem azok tartalmára is lehetett keresni és azonnali eredményeket produkált. Ellenkező esetben az oldalt látogatónak a bal oldali A-Z mappákban manuálisan tallózva kell kalauzolni magát (vagy az egyes linkekre kattintva az oldalak sorain belül), ami nem ideális.  
 
 Az **Oldal tartalma** a jelenleg megnyitott cikk tartalomjegyzéke, címsorok szerint. Hosszabb állományokban hasznos igazán, vagy ha valaki pl. Jankovics Marcell vagy más véleményére akar rögtön ugrani. Igyekeztem a szerzők neveit így kiemelni mindenhol, ahol lehetett.  
 
@@ -54,7 +54,7 @@ A linkre kattintva ezen állományhoz kerülünk vissza. Lehet a böngésző bal
 
 A bal oldalon található fájlok listájában az A-Z mappák valamelyike néha alapból kinyitva mutatkozik. Erre vagy lesz valamiféle gyógyír, vagy a rókaszájakra kattintva bezárhatók (és újra kinyithatók).  
 
-Felül a borítékra kattintva lehet bármelyik oldalról email-t küldeni: az adott cikk alapértelmezetten témának lesz megadva. Legalul Disqus szolgáltatással lehet mindenki számára látható kommenteket küldeni.   
+Felül a borítékra kattintva lehet bármelyik oldalról email-t küldeni: az adott cikk alapértelmezetten témának lesz megadva. Legalul a Disqus szolgáltatással lehet mindenki számára látható kommenteket küldeni.   
 A boríték mellett a három ikon értelemszerűen a téma színváltoztatását szolgálja: világos – sötét – automatikus. Legalábbis ez lett volna a cél; jelenleg leginkább átvált egyikről a másikra, mindegy hova kattint az ember, de ez is megfelel, sőt.  
 
 Amennyiben 1400 pixelszélességnél kisebb képernyőn tekinti meg az oldalt, akkor a mobil alkalmazásnak megfelelő nézetet kapja. Ilyenkor asztali gépen vagy laptopon az oldal jobb áttekinthetősége és funkcióinak könnyű elérése végett érdemes kipróbálni 90%-os nagyításban, mely állapothoz a CTRL és mínusz gomb lenyomásaival juthat.  
@@ -96,6 +96,8 @@ Az egyes helyeken található ún. Zotero linkek (ahol oldalszámokra lehet katt
 Ellenben igyekeztem egyes könyvek, tanulmányok, cikkek MEGA-ra feltöltött példányainak linkjét a szövegeimbe elhelyezni, hogy klikkeléssel beléjük lehessen lépni (ha az oldalszámokra nem is). Ahol ezt elmulasztottam, ott ezen kiadványok nevére a [[101/Letöltések\|Letöltések]] részben magyarázott módon lehet keresni.  
 
 A lexikális adatok (lásd őket `ilyen` vagy főképpen tulajdon- és istennevek esetében **Ilyen** szedéssel) helyességére különösen ügyeltem, de becsúszhat itt-ott elírás vagy pedig a forrásom téved (vagy annak forrása). Olyan is előfordul, hogy minden igyekezetem ellenére nem sikerült minden lexikális adatot külön kiemeléssel jelölni. Ha látok valamit, menet közben javítom és ennek jogát fenntartom.  
+
+Több oldalon lehet találkozni úgynevezett csukott callout-tal, mely egy színes sáv, rajta egy ikonnal, szöveggel (pl. diagramot tartalmazó részre utaló felirattal) és egy rókaszájjal. **A rókaszájra kattintva legördül az infomációs elem.**
 
 Menet közben fontosabbnak ítélt angol nyelvű részeket (az esetek mintegy 90-95%-a lehet, leszámítva egyes szavak eredetére vonatkozó részeket) lefordítom. Az erre a munkára alkalmatlan sima Google Translate helyett a kiváló DeepL fordítót és a Google AI Studio Gemini Pro mesterséges intelligencia szoftver fordítóját használom. A kész fordításokban csak a látványos vagy ordító hibát (veszem észre és) javítom, de elképzelhető, hogy helyenként kissé magyartalan (vagy a lexikális normától eltérő) marad a szöveg.   
 A fordítások a lábjegyzetekre is kihatással lesznek: az egyes lábjegyzetek mellett álló visszafelé nyilak közül az első az angol szövegre, a második a magyarra fordított sorokra visz.  

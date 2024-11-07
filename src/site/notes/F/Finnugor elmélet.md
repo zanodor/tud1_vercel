@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz","containstransclusions"],"created":"2024-05-09T22:31","updated":"2024-10-23T22:59"}
+{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz","containstransclusions"],"created":"2024-05-09T22:31","updated":"2024-11-07T01:00"}
 ---
 
 
@@ -21,7 +21,7 @@
 
 #### Götz László Keleten kél a Nap...
 
-...című könyvének 212. oldalán írja "finnugor származásunk iskolájá"-ról:  
+...című könyvének 212. oldalán írja "finnugor származásunk iskolája"-ról:  
 > Az indogermanisztika rohamos térhódítása az európai tudományosságban hamarosan nálunk is éreztette hatásait. Az 1850-es évek után a 48 előtti magyar kutatók történelmi irányzata és szemlélete mindinkább háttérbe szorult, párhuzamosan a magyarok kizárólagos finnugor eredetét hirdető német és osztrák iskola – Schlözer, majd követői: Zeuss, Büdinger, Róssler, Dümmler stb. – nézeteinek fokozatos térhódításával. Ez a radikálisan indogermán szemléletű kutatócsoport mindennemű másirányú nyelvi, etnikai és történelmi kapcsolatunknak még a lehetőségét is kategorikusan tagadva azt állította, hogy a magyarok őstörténetét, népünk és nyelvíink származását csakis a finnugoroknak elnevezett népek által lakott területeken, azaz a Felső-Volga, Oka, Káma folyók, az Urál hegység és Nyugat-Szibéria térségében, az eurázsiai erdőövben szabad kutatni, nagyjából az 50-55. szélességi foktól északra.  
 > Ez az elmélet nem volt más, mint az akkori indogermanisztika globális, kontinentális méretű őstörténeti szemléletének szerves része. Miután Elő-Ázsiát, Iránt, Közép-Ázsiát és az eurázsiai steppét – a Kárpát-medencétől Mongóliáig és Kínáig – mindenütt indogermánokkal népesítették be, a magyarok számára, akikről "megállapították", hogy **Európába a barbárság legalsó fokán állva érkeztek**, egyszerűen nem maradt szabad terület a délebbi, kulturáltabb "indogermán" térségben.  
 
@@ -367,6 +367,8 @@ Másutt:
 
 A keményebb hangzók a hun-magyarok nyelvére voltak jellemzőek.  
 
+
+
 ## Magyar kölcsönszavak
 
 Arról már szóltam másutt is, hogy a világon mindenütt megengedett, hogy a szavakat az adott nyelv logikája szerint a hazai nyelvészek értelmezzék és akár proto- formákkal teoretikus alapszavakat állítsanak fel.  
@@ -376,7 +378,7 @@ Különösen olyan esetekben, ahol kulturális összefüggése van (pl. [[K/Kov�
 #### Czakó Gábor Szabir szó és szolga...
 
 ...című a Mikes 2014. január-márciusi sz. megjelent cikkét is így nyitja:  
-> A hunfalvysta nyelvészet alighanem **a világon egyedülálló módon vizsgálta a magyar nyelvet a maga ugyancsak páratlan "történeti-összehasonlító" módszerével. Valószínűleg semelyik ország tudományosságában sem fordult elő, hogy nem magából a helyi nyelvből indultak volna ki a kutatók. Arra meg végképp nem tudok példát, hogy a második lépés sem a "belhasonlítás" volt.**  
+> A hunfalvysta nyelvészet alighanem **a világon egyedülálló módon vizsgálta a magyar nyelvet a maga ugyancsak páratlan "történeti-összehasonlító" módszerével. Valószínűleg semelyik ország tudományosságában sem fordult elő, hogy nem magából a helyi nyelvből indultak volna ki a kutatók. Arra meg végképp nem tudok példát, hogy a második lépés sem a "belhasonlítás" volt**.  
 > Nos, a magyarral megesett ez a tréfa. Hunfalvyék abból indultak ki, hogy a magyar finnugor nyelv, ezért elvetették a magyar nyelv kutatásában elért addigi eredményeket, különösen annak máig kikezdhetetlen csúcsteljesítményét, a Czuczor Gergely és Fogarasi János akadémikusok készítette A magyar nyelv szótárát – CzF. – s a magyart a finnugorok származékának, mi több függvényének tekintették.  
 
 ## A finnugor elmélet alkotói és mellette kiállói politikai háttere: zsidó
@@ -429,11 +431,11 @@ A következetlenség netovábbja, amikor szemantikailag egyértelműen rokon sza
 > Röviden vizsgáljuk meg ezt az egyáltalán nem közömbös témát. Az ősember amikor összeütött két követ (lehet ellenőrizni) ilyen hangot hallott: koo! Ezt a tudomány hangutánzó szónak nevezi. Ez az ősszó (etimon) benne van a kovakő nevében. Nos, az ősember úgy főzött, hogy tüzet rakott, s abba számos öklömnyi követ tett. Mindig kovát, mert másfajta kő hő hatására szétbomlik. Az ősember a tűz mellé kászúba, faedénybe, esetleg gödörbe (mert akkor még cserépedény nem volt), tette a főznivaló húst, szalonnát a vájat vizébe, s majd amikor a kövek tüzesekké váltak, fafogóval ezeket a tüzes köveket a vízbe tette. A kő forrva, zubogva átadta hőjét a víznek, azt forrásba hozta. Majd addig rakta a tüzes köveket a vízbe (kövesztett), amíg a hús, vagy a szalonna puhára nem főtt.  
 > Látjuk hát, hogy valaha a főzésnek és a kőnek szoros köze volt egymáshoz. Ha a vizsgálódásunkat tovább folytatjuk, akkor nem lehet nem észrevenni, hogy a "ko" ősetimon benne van a [[K/Konyha\|konyha]] szavunkban. Ha körbe tekintünk szomszédainknál, akkor a ko, kö, ku, kü etimonokat megtaláljuk náluk is valahol a főzés fogalmánál, de ott már nincs rokonhangzásban az ő nyelvükben a kő szóval, mert az olaszban a konyha `cucine`, míg a kő `pietro`, németben `küche` és a kő `stein`, szlávban `kuhnya`, a kő `kamin`, görögben a konyha `kuzina` és a kő `petra`. A hangutánzó koo vagy köö egyedül nálunk található a konyha szavunkban és a kövesztés igében. Érthetetlen, mert logikátlan szófejtő és értelmező szótárunknak a következő közlése: parázs a nyelvünkben szláv jövevényszó, a perzsel vagy pergel lengyel jövevény, a pirit, pirkad, poring ismeretlen, a porkál olasz, a pörköl germán, míg a pörzsöl szláv jövevényszó. Látható, hogy ez egy szóbokor, azonos vagy közel azonos fogalmak kifejezésére.  
 
-Lásd még [[F/Finnugor\|finnugor]].  
-
 ## Összefoglalás
 
-Götz László Keleten kél a Nap című könyvéből szintén:  
+#### Götz László Keleten kél a Nap...  
+
+...című könyvéből adom szintén:  
 > Az eddig megismert adatokat röviden összesűrítve egyértelműen megállapítható, hogy a magyar finnugrisztika módszertanilag messze elmaradt a nemzetközi nyelvtudomány fejlődése mögött.  
 > 1\. A sematikus nyelvcsaládfa-elméletet, amelyet a nemzetközi tudományosság már évtizedek óta szinte általánosan elvet, még mindig axiómaként kezeli.  
 > 2\. A hipotetikus ősnyelvek nyelvészeti eszközök, "hangtörvények” segítségével való kikövetkeztethetőségét, amelyről még az összehasonlíthatatlanul több és régebbi nyelvemlékkel rendelkező indogermanisztika is már rég egyértelműen kimutatta, hogy elvi-módszertani okokból következően hiábavaló fáradozás, változatlanul vallja, sốt nyelvtörténeti és őstörténeti vizsgálatai alappillérének tekinti.  
@@ -478,8 +480,8 @@ Az amerikai nyelvészeti szeminárium a Bochumi Egyetemen, Németországban, oro
 
 [^1]: Lábjegyzet:  
 [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] vagy írótársa a Magyar-héber kapcsolat című cikkében is erről szól:  
-A különböző tudósok között az egyik legnagyobb ellentmondás a magyarok és a türkök közös eredete körül van. Kétségtelen, hogy a magyarok nem türkök, és talán soha nem is voltak. A két csoport közötti kulturális különbségek, különösen a magyarok letelepedése után a Kárpát-medencében, az osztrák-magyar elit által támogatott, majd a szovjet hatalom alatt lévő Magyarország és Magyar Tudománys akadémia által folytatott, új ʺhivatalosʺ eredet elméletéhez vezetett, a finnugor elmélethez. Ez a munka, bármennyire is tiszteletre méltó, bizonyítékok hiányától szenved számos talányt hagy megoldatlan, mivel csak a Kr.sz. 18. század vége felé fogalmazták meg, figyelmen kívül hagyva minden korábbi történelmi/történeti feljegyzést. A magyarok germanizálása már Vajk (keresztény nevén [[I/István\|István]]) királlyal a Kr. sz. 10. században, megkezdődött, osztrák uralom alatt kellett egy új eredet elmélet, amely a vetélytárs\[?\] Ottomán Birodalommal \[hát ezek mind szemiták, így nem vetélytársak voltak\] szemben a magyarokat az Európaiak oldalára állítja. Mindemellett **Róma vallási vezetése kisajátította Európa történelmét**, a magyarokat pedig meg kellett tisztítani attól az ocsmány képtől, amit a hunok jelentettek Róma szemében – a rómaiaknak Attila hunjaival szemben állított állítólagos magasabb szintű civilizációja is erősen megkérdőjelezhető. Következésképp egy olyan tekintélyes vezető monarchia, mint az Osztrák-Magyar nem tűrhetett meg semmiféle nem európai alkotóelemet, és a többnyire német nyelvészek által támogatott finnugor tűnt az egyetlen lehetőségnek a magyarok teljes europaizálására, \[míg/midőn a\] nyugati népek, akik idővel elfelejtették homályos, barbár eredetüket és felismerték a német civilizáció értékes szerepét kulturális fejlődésükben – a kor faji előítéleteinek megfelelően.  
-\[Ezután a finnugor elmélet alapjait mutatja be, de azt már hely hiányában nem lehet ide betenni.\]  
+A különböző tudósok között az egyik legnagyobb ellentmondás a magyarok és a türkök közös eredete körül van. Kétségtelen, hogy a magyarok nem türkök, és talán soha nem is voltak. A két csoport közötti kulturális különbségek, különösen a magyarok letelepedése után a Kárpát-medencében, az osztrák-magyar elit által támogatott, majd a szovjet hatalom alatt lévő Magyarország és Magyar Tudománys akadémia által folytatott, új ʺhivatalosʺ eredet elméletéhez vezetett, a finnugor elmélethez. Ez a munka, bármennyire is tiszteletre méltó, bizonyítékok hiányától szenved számos talányt hagy megoldatlan, mivel csak a Kr.sz. 18. század vége felé fogalmazták meg, figyelmen kívül hagyva minden korábbi történelmi/történeti feljegyzést. A magyarok germanizálása már Vajk (keresztény nevén [[I/István\|István]]) királlyal a Kr. sz. 10. században, megkezdődött, osztrák uralom alatt kellett egy új eredet elmélet, amely a vetélytárs\[?\] Ottomán Birodalommal szemben a magyarokat az Európaiak oldalára állítja. Mindemellett **Róma vallási vezetése kisajátította Európa történelmét**, a magyarokat pedig meg kellett tisztítani attól az ocsmány képtől, amit a hunok jelentettek Róma szemében – a rómaiaknak Attila hunjaival szemben állított állítólagos magasabb szintű civilizációja is erősen megkérdőjelezhető. Következésképp egy olyan tekintélyes vezető monarchia, mint az Osztrák-Magyar nem tűrhetett meg semmiféle nem európai alkotóelemet, és a többnyire német nyelvészek által támogatott finnugor tűnt az egyetlen lehetőségnek a magyarok teljes europaizálására, \[míg/midőn a\] nyugati népek, akik idővel elfelejtették homályos, barbár eredetüket és felismerték a német civilizáció értékes szerepét kulturális fejlődésükben – a kor faji előítéleteinek megfelelően.  
+\[Ezután a finnugor elmélet alapjait mutatja be, de az már hely hiányában nem kerülhetett ide.\]  
 
 [^2]: Lábjegyzet:  
 Viszont a magyarok bármilyen nagyságát aláássák. Götz László írja:  

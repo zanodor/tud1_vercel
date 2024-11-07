@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2024-10-25T17:10"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2024-11-07T00:58"}
 ---
 
 
@@ -49,12 +49,12 @@ Az **ördög a szarvas** is lehet, mely ismét: az ég jelképe:
 A baszk `hartz` = medve jelentésével még azonos a walesi `arth` = medve szóval. És hogy a szarvassal is találunk kapcsolatot, lásd [[H/Hart\|hart]] = szarvasbika értelmét.  
 Hasonló alakú szavakat Kállaynál is találunk:  
 > A Gurkfeldi kőfelirást: "imvicto deo Charto" Katancsich ördögnek magyarázta (Zerne bog), mivel a Horvátok közt `chart` pokol, `chert` ördög (specimen philolog. et geogr. Pannoniorum etc. Zagrab. 1795.) kérdés ez a chart, nem a persa `art`, `ard`-e? (Mars az indus `kartikia`? (l. föllebb 3. sz.) ([Lásd 317. old.](zotero://open-pdf/library/items/DFI47XPY?page=317&annotation=FSUNKZTC))
-- Chart (vö. még Cherno) nem Ördög kiindulású. Akkor már inkább [[H/Hort\|hort]] ilyen szó.
+- Chart (vö. még Cherno) nem Ördög kiindulású. Akkor már inkább [[H/Hort\|hort]] ilyen szó.  
 Ide vonható nevek még: [[H/Heart\|heart]] és [[H/Hart\|hart]], valamint [[H/Hearth\|hearth]], valamint az [[O/Orion övcsillagai#Orion mint ős (nemzés tekintetében) vagy az ősök háza – hárommal való jelzése\|Orion mint ős (nemzés tekintetében) vagy az ősök háza – hárommal való jelzése]] címnél taglalt szavak: a finn `hertta` = szív, török `orta` = közép, óind `hrd` = szív és kopt `kharthian` = szív szavaktól viszont nagy kérés lenne, hogy ördög szavunk legyen ezek kiindulója...
 
 [[A/Ardvisura Anahita\|Ardvisura Anahita]] nevében is találunk ilyen alakot. Tulajdonképpen a közös fogalmak között találjuk a magas, észak, árad fogalmakat, melyek meg is felelnek az istennőről ismert fogalmaknak.  
 
-A sok helyen említett gond nyelvű `deoguhr` (Dög-Úr, Dug-Úr: Szent Úr) = észak kapcsán [[T/Takar\|takar]] = héj = ég (coelum) = dingir-tenger jutott eszembe, ahogy a svéd `tung` = nehéz kapcsán is. És ha Dög-Úr = észak, akkor Ördög is.
+A sok helyen említett gond nyelvű `deoguhr` (Dög-Úr, Dug-Úr: Szent Úr) = észak kapcsán [[T/Takar\|takar]] = héj = ég (coelum) = dingir-tenger jutott eszembe. És ha Dög-Úr = észak, akkor Ördög is.
 
 Ezen szavak megint régi mitológiai dirib-darabok. A helyes szót eltalálni Arthur nevénél is nehéz: lehet Arc Úr, [[H/Harc\|Harc]] Úr, Örs Úr, Örző Úr, Orsó Úr, sőt [[O/Oroszlán\|Oroszlán]] Úr is.  
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/AR, ÁR/","title":"AR, ÁR","tags":["containstransclusions"],"created":"2024-10-31T14:37","updated":"2024-10-31T14:37"}
+{"dg-publish":true,"permalink":"/A/AR, ÁR/","title":"AR, ÁR","tags":["containstransclusions"],"created":"2024-10-31T14:37","updated":"2024-11-07T00:46"}
 ---
 
 
@@ -105,7 +105,7 @@ A mellékelt kép Godwin könyvének 152. oldaláról való és [[H/Henger\|heng
 Fentebb Péterfai János soraiban már szerepelt az Ar (Ár) és Ra (Rá) párosa. Tudjuk, hogy a Rá a Nap, melyből [[R/Ragyog\|ragyog]] szavunk is ered. De a Héraklitosznak tulajdonított `panta rhei` = minden változik/áramlik/folyik kifejezésben rhei is ennek az áramlásnak, folyásnak a szava.  
 AR az energia alapszava.  
 ÁR jejesítésével adódik ki (szintén kört jelentő) [[J/Jár\|jár]] szavunk.   
-Lásd még továbbá [[A/ÁR\|ÁR]], [[A/Árgyilus\|Árgyilus]], [[A/Arany\|arany]], [[A/Aryan\|Aryan]], [[A/Airyana Vaeja\|Airyana Vaeja]] és [[A/Arrow\|arrow]]. Továbbá még [[A/Ardent\|ardent]] és [[A/Arduous\|arduous]].  
+Lásd még továbbá [[A/ÁR\|ÁR]], [[A/Árgyilus\|Árgyilus]], [[A/Arany\|arany]], [[A/Árja\|Aryan]], [[A/Airyana Vaeja\|Airyana Vaeja]] és [[A/Arrow\|arrow]]. Továbbá még [[A/Ardent\|ardent]] és [[A/Arduous\|arduous]].  
 
 ## UR (AR, ÁR) és párjainak (ÉL, IL) előtételezése
 

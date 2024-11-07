@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csöcs/","title":"Csöcs","tags":["titleandheadingonedontmatch"],"created":"2023-11-21T02:37","updated":"2024-10-25T16:35"}
+{"dg-publish":true,"permalink":"/C/Csöcs/","title":"Csöcs","tags":["titleandheadingonedontmatch"],"created":"2023-11-21T02:37","updated":"2024-11-07T01:01"}
 ---
 
 
@@ -14,4 +14,7 @@ Ellenben az írországi Kerry megyei [Anu csecsei](https://en.wikipedia.org/wiki
 
 
 Csöcs szavunkból ered az olasz `ciucciare` = szopni ige is. Nesze neked indoeurópai.  
+
+A tagalog `suso` = mell megfelel csöcs szavunknak.  
+[Ezen](https://en.wiktionary.org/wiki/suso#Tagalog) Wiktionary oldal adata szerint van olyan jelentése is, mely `csúcs` értelemmel számolható.  
 

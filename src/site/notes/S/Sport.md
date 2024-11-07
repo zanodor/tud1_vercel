@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sport/","title":"Sport","created":"2024-11-05T14:14","updated":"2024-11-05T14:14"}
+{"dg-publish":true,"permalink":"/S/Sport/","title":"Sport","created":"2024-11-05T13:14:00","updated":"2024-11-05T13:14:00"}
 ---
 
 
@@ -12,11 +12,7 @@ A sport a legális háború, a csatázás, erőpróba rekreatív, közönségsz�
 ...írja a maga utálatos módján:  
 > Bölcsője Francsországban ringott, ahol "desport" alakkal megszülve kedvtelést jelentett[^1], időmultával azonban feledésbe merült. Hogy a teljes enyészettől megmenekedjék, a Manche-csatornán átúszott Angolországba, ahol "disport" ábrázatot öltött. Uj honának zord éghajlata azonban – úgy látszik – annyira megviselte, hogy a feje lefagyott. Ígyen csökkent sporttá. E fejevesztett apróságnak uj honában elsőbbed a vadászó közönség fogta pártját, amely jó ideig csupán a maga kedvtelésére értette. Később azonban kedveltsége mindtágabb körre terjedt és lassankint mindenféle edző mulatságra alkalmazták. Ilykép tett szert mai jelentésére amelyet tehát mint a testnek a lélekerő gyarapítására alkalmas valaminő rendszeres művelését a magunk nyelvén edző mulatságnak, még jellemzőbben edző kedvtelésnek mondhatunk.  
 
-Elképzelhető, hogy a Szapár, [[S/Szabir\|szabir]] magyarok valamiféle ünnepi játékairól kapta nevét.  
 
-#### Kolumbán Sándor írja:
-
-> A sport testedzés. A spor – szapora szorzati alapértelmű gyökből induló kifejezés, a test erejének rátermettségének növelése, fokozása, hatványozása (szorzása) állandó gyakorlatozás, testedzés, erőgyarapítás által: valamiért, mérték, virtus értelmében (rt páros). E szónak minden eleme magyar, vagyis az ősmag(yar)-nyelv törvényei szerint alkottatott.  
 
 A [[J/Játék\|játék]] valójában nem játék. A mai sport játékok nem mások, mint legális, bizonyos szabályrendszer alapján működő harcok, háborúk. És milyen érdekes, hogy a vadászat is sport volt és hogy az angol [[G/Game\|game]] = játék is a vadászattal hozható kapcsolatba. A vadászat pedig nem más, mint űzés, üzekedés, azaz a nemzés előtti hódolás, hajsza. Könnyen lehet, hogy a sport szó eredete is így a szaporít igénkkel hozható kapcsolatba.  
 Az is lehet viszont, hogy egyszerűen az [[O/Orion\|Orion]] csillagkép valamilyen neve, akár [[S/Szabir\|szabir]] maradt meg, de erős a gyanúm, hogy ez egy belső fejlődésű francia szó lesz megint.  

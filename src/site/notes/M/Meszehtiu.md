@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/M/Meszehtiu/","title":"Meszehtiu","tags":["containstransclusions"],"created":"2023-11-09T05:37","updated":"2024-10-25T23:27"}
+{"dg-publish":true,"permalink":"/M/Meszehtiu/","title":"Meszehtiu","tags":["containstransclusions"],"created":"2023-11-09T05:37","updated":"2024-11-07T00:58"}
 ---
 
 
 # Meszehtiu
 
 Meszehtiu a Marhaláb/Mellsőláb jelentéssel megadott egyiptomi csillagkép, megfelel az Nagy Medvének (Nagy [[G/Göncöl\|Göncöl]]). Külön ünnepe volt, mikor minden munkavégzés tiltott volt, mint a zsidóknál szombaton.  
-[[M/MISZ\|MISZ]] címhez betéve. Az eredeti alak: `mshtyw`, ebből olvasták ki azt, amit ismerünk.  
+Az eredeti alak: `mshtyw`, ebből olvasták ki azt, amit ismerünk.  
+
 
 #### Richard H. Allen Star Names...
 
@@ -34,10 +35,9 @@ Meszehtiu a Marhaláb/Mellsőláb jelentéssel megadott egyiptomi csillagkép, m
 Ellenben az alant említett, a központ körül keringő cirkumpoláris csillagokat, amelyek nem süllyedtek a látóhatár alá, "pusztulást nem ismerőkként" jellemezték. \[Huszárik László\]  
 ![assets/Meszehtiu_image1.png|invert_dark](/img/user/M/assets/Meszehtiu_image1.png)  
 
-#### Jankovics Marcell írja:
-
+Jankovics Marcell folytatja:  
 > Egyiptomban ez a harc a Széth bika és Hórusz napisten között folyik. Persze Hórusz győz – a Széth-kultusz az óbirodalom végén lehanyatlik Egyiptomban –, a napisten megölt ellenfelét földarabolja, combját a [[S/Sarkcsillag\|Sarkcsillag]]hoz kötözi. A "Marhacomb" csillagkép a mi [[G/Göncöl\|Göncöl]]szekerünk, amelyet egy római korból való csillagtérképen ugyanolyan kos őriz, amilyen az állatövi jegyek sorában is található, A krétai Minotaurusz-mítosz egyik lehetséges jelentése szintén ez.  
-- Folytatást Jankovics Marcell könyvének 119. oldalán.  
+- Folytatást Jankovics könyvének 119. oldalán.
 
 Egy kérdés közben: a marhacomb/bikacomb és [[S/Széth sakála\|Széth sakála]] egy és ugyannak az alternatív nevei? Nos, a [[D/Dendera\|dendera]]i zodiákuson külön vannak (Huszárik írja):  
 > Ezek az északi pólus körül látható csillagképek: a Marhacomb és Ökörcombnak is nevezett Mellsőláb, mellette a Sakál, Vízilószörny \[[[Taweret\|[Taweret]]\] és Pávián jegyek.  

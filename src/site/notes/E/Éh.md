@@ -1,20 +1,72 @@
 ---
-{"dg-publish":true,"permalink":"/E/Éh/","title":"Éh","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-11-06T16:20","updated":"2024-11-06T16:20"}
+{"dg-publish":true,"permalink":"/E/Éh/","title":"Éh","tags":["containstransclusions","Englishtexttranslated","containsaigenerateddiagram","containscallouts"],"created":"2024-11-06T16:20","updated":"2024-11-07T00:56"}
 ---
 
 
 # Éh
 
-Éh szavunk nyilván az [[E/Ég\|ég]] fogalmából indul ki: így lesz űrből is űres, üres. [[E/Éj\|Éj]] szavunkból is levezethető: a sötét a világos által való nemzésre éhes/áhítozik.  
-Előjött [[A/Ache\|ache]] szónál is, ahol megemlítettük a latin `egere` (egeo = hiányom van, kell) igét is. Éhes szavunkról van szó. Ache eredhet [[A/Áhít\|áhít]] szóból is, de lényegében ugyanarról a szóról ill. fogalomról van szó.  
+> [!tip]- Diagram
+> ```plantuml-svg
+> @startuml
+> top to bottom direction
+> skinparam BackGroundColor transparent
+> skinparam rectangle {
+>     BackgroundColor #ccbe78
+> }
+> skinparam card {
+>     roundCorner 15
+>     BackgroundColor #f9f5d7
+> }
+> 
+> rectangle "<b>éh</b>" as éh
+> card "magyar <color:#e7545c>ég</color>" as ég
+> card "magyar <color:#e7545c>űr</color>" as űr
+> card "magyar <color:#e7545c>éj</color>" as éj
+> card "latin <color:#e7545c>egere</color>" as egere
+> card "magyar <color:#e7545c>akar</color>" as akar
+> card "magyar <color:#e7545c>áhít</color>" as áhít
+> card "magyar <color:#e7545c>hiú</color>" as hiú
+> card "magyar <color:#e7545c>hív</color>" as hív
+> card "magyar <color:#e7545c>hiány</color>" as hiány
+> card "latin <color:#e7545c>hiatus</color>" as hiatus
+> card "germán <color:#e7545c>hew</color>" as hew
+> card "germán <color:#e7545c>hue</color>" as hue
+> card "magyar <color:#e7545c>ív</color>" as ív
+> card "magyar <color:#e7545c>íj</color>" as íj
+> card "japán <color:#e7545c>aj</color>" as aj
+> card "magyar <color:#e7545c>agy</color>" as agy
+> card "magyar <color:#e7545c>ék</color>" as ék
+> 
+> éh --> ég : jelentés
+> ég --> űr : példa
+> éh --> éj : jelentés
+> éh --> egere : jelentés
+> éh --> akar : jelentés
+> éh --> áhít : jelentés
+> éh --> hiú : megfordítás
+> hiú --> hív : rokon értelmű
+> hiú --> hiány : rokon értelmű
+> hiány --> hiatus : rokon értelmű
+> hiú --> hew : rokon értelmű
+> hiú --> hue : rokon értelmű
+> éh --> ív : jelentés
+> ív --> íj : jelentés
+> éh --> aj : jelentés
+> éh --> agy : utalás
+> ék -r-> éh : utalás
+> 
+> @enduml
+> ```
+
+Éh szavunk nyilván az [[E/Ég\|ég]] fogalmából indul ki: így lesz `űr`-ből is űr-es, üres. [[E/Éj\|Éj]] szavunkból is levezethető: a sötét a világos által való nemzésre éhes/áhítozik.  
+Előjött [[A/Ache\|ache]] szónál is, ahol megemlítettük a latin `egere` = hiánya van, kell jelentésű igét is. Éhes szavunkról van szó. Ache eredhet [[A/Áhít\|áhít]] szóból is, de lényegében ugyanarról a szóról ill. fogalomról van szó.  
 Megfelel neki [[A/Akar\|akar]] ak- gyökén kívül [[E/Ég\|ég]] szavunk is, amennyiben a [[H/Hunger\|hunger]], [[E/Éva\|Éva]] (és [[E/Eire\|Eire]]), [[I/Íj és a nyíl\|íj és a nyíl]] és [[S/Szivárvány\|szivárvány]] címnél is érintett ég íve is lehet nőiség. [[A/Ache\|Ache]] és [[E/Eager\|eager]] szavak [[A/Akar\|akar]] címnél is megvoltak.  
 
 Éh, ih szócskáink megfordítása a hí, melyből lesz [[H/Hiú\|hiú]], [[H/Hív\|hív]] (honnan a magyar-kabar-héber [[E/Éva\|Éva]]) és [[H/Hiány\|hiány]] és a latin [[H/Hiatus\|hiatus]] is, illetve a germán [[H/Hew\|hew]] és [[H/Hue\|hue]].  
 
-Létezik még `éha`, amely még inkább pontos párhuzama az [[E/Éva\|Éva]] névnek. Ott is szerepelt:  
-Az Éva név elemzése kapcsán felhozható az éha szó, melyből az éhom is ered. Ezen éha a [[H/Hiú\|hiú]] (hívó) megfordítása és tulajdonképpen űrt, hiányt jelent. A [[S/Szakrális geometria\|szakrális geometria]] címnél lévő diagramon is szerepel a hiú, éha, Éva a felső tartományban.  
-Amit Magyar Adorján ír róla:  
-> A magyar hiányzik, hiány szónak mily sok hasonló hangzású és rokonértelmű megfelelői vannak. Említve volt hogy a magyar heanyozik, tájszólásos hiányozik, valaminek híján van, szavunknak népünknél megfelel a megfordított éha szó, amelynek értelme "valaminek [[E/Éha\|éha]]" = valaminek ürege, üressége, lyuka.  
+Az [[E/Éva\|Éva]] név elemzése kapcsán felhozható az éh szó. Ezen éh a [[H/Hiú\|hiú]] (hívó) megfordítása és tulajdonképpen űrt, hiányt jelent. A [[S/Szakrális geometria\|szakrális geometria]] címnél lévő diagramon is szerepel a hiú, éh, Éva a felső tartományban.  
+Amit Magyar Adorján ír éha szóról:  
+> A magyar hiányzik, hiány szónak mily sok hasonló hangzású és rokonértelmű megfelelői vannak. Említve volt hogy a magyar heanyozik, tájszólásos hiányozik, valaminek híján van, szavunknak népünknél megfelel a megfordított `éha` szó, amelynek értelme "valaminek éha" = valaminek ürege, üressége, lyuka.  
 
 ## Éh – evés/ivás – ívás
 

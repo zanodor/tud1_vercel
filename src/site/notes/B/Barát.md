@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2024-10-26T04:06"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2024-11-07T00:57"}
 ---
 
 
@@ -22,7 +22,7 @@
 Viszont [[S/Saraswati\|Saraswati]] címnél előjön **Bharati**, mint hindu istennő, Saraswatival azonosítva.  
 Azt se feledjük, hogy Magyar Adorján szerint az avarok napistene Barata néven fut(hat)ott.  
 Az [[A/Avar\|avar]]oknál a Nap és a Tűz istensége, **Barata**, Varuk vagy Barisa és Páris neveken neveztetett, írja Magyar Adorján.  
-Nyilván nem az öreg, hanem a fiatal napisten neve volt. ([[R/Rama\|Rama]] címnél azt próbáljuk eldönteni, hogy melyik név utal a világos és sötét félévre.)  
+Hogy most az öreg vagy a fiatal napisten neve volt, nos, ezen nevek általában a nyári napfordulós napállásra szoktak vonatkozni. ([[R/Rama\|Rama]] címnél azt próbáljuk eldönteni, hogy melyik név utal a világos és sötét félévre.)  
 Aztán ott van a [[P/Pártus\|pártus]] címnél előjövő elnevezés (Parathas), melyről alant még lesz szó.  
 
 #### Srini Kalyanaraman Tracing Meluhha in Rigveda and Cuneiform texts of Ancient Near East...
@@ -104,7 +104,7 @@ A barát szót [ezen](https://qr.ae/pNsjGC) Quora cikkbe is felírtam, továbbá
 > - `burn` szintén B-R mássalhangzó alapja van;
 > - a **Britannia** és **Bretagne** nevek (nem önmagában Indiából származnak, hanem) a Bar-At-On vagy Bar-At-An (Atya Nap az égen; a hun `an`-ból származik az `one` is; a magyar `ég` szóból is az `egy` számnév származik (`ég` > `egy`); ez azt jelenti, hogy egyistenhitű vallásaik voltak, és ezt nem a zsidók találták ki; a Napra Fiúként tekintettek, ahogy a főnévi alakok mutatják: `Sun` = `son`).  { #8f46ac}
 
-- Kimaradt innen a balta r-hangos változataként számon tartható [[B/Bárd\|bárd]], a hajfonat [[B/Braid\|braid]] és akár a [[B/Bride\|bride]] szó, illetve akár a [[B/Breath\|breath]] és [[P/Pretty\|pretty]] szó is a sorba tartozhat.  
+- Kimaradt innen [[B/Brother\|brother]], [[B/Brat\|brat]], a balta r-hangos változataként számon tartható [[B/Bárd\|bárd]], a hajfonat [[B/Braid\|braid]] és akár a [[B/Bride\|bride]] szó, illetve akár a [[B/Breath\|breath]] és [[P/Pretty\|pretty]] szó is a sorba tartozhat.  
 A szanszkrit pedig csak a feljegyző nyelv, és nem is napistent jelent a név (a névadók nem szanszkrit nyelven beszéltek).
 
 Esélyes a latin `brutus` = barom Bar-Ata eredete szintén.  
@@ -113,7 +113,7 @@ Magyar szavak közül hasonló, azaz szintén Bat-Ata felbontással számolható
 
 A fentiek írása idején még nem ismertem L. A. Waddell The Phoenician Origin of Britons, Scots & Anglo-Saxons (1924) című könyvét, melyben **Barat** föníciaiként kerül bemutatásra.  
 
-A keresztnevek közül a délszláv **Borut** név hasonló (a "kazah" Borat név kitalált név, ilyen név ott nincs). 
+A keresztnevek közül a délszláv **Borut** név hasonló. 
 
 [[K/Kér és kap\|Kér és kap]] címnél is szerepelt:  
 A Nap nevei, de legalábbis hímségi értelmű szavak szerepelnek a kér és kap szavakban is. A lényeg ugyanaz: aki kér, az kap. Úgy adom, hogy nem kell visszaadni. A Nap is úgy adományozza fényét, hőjét, hogy nem kéri számon a Földtől, mennyit adott. Hogy is írta Hafez, a perzsa költő (szépen összefoglalja, mit is jelent a Nap szerető, baráti viszonyulása a Földhöz és hozzánk, a rajta élőkhöz):

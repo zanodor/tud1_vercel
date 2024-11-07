@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","created":"2023-10-09T06:36","updated":"2024-10-25T22:44"}
+{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["containstransclusions"],"created":"2023-10-09T06:36","updated":"2024-11-07T00:59"}
 ---
 
 
@@ -28,8 +28,8 @@ Valójában az [[I/Indogermán nyelvészet\|indogermán nyelvészet]] címnél G
 > Például ind `kabhara` (micsoda étel!) nála az ófelnémet `habaro` = Hafer szónak felel meg, vagy az ind `ka-rasa` = (micsoda táplálék!) az ófelnémet `hirsi` = Hirse szónak. Ilyen módszerekkel mindent bizonyíthatunk, amit csak akarunk, jegyzi meg Schrader idézett művében. Pictet kérdéses könyvét ugyan azonnal hevesen kritizálták (A. Weber, A. Kuhn és mások), de sokan, ennek ellenére, azóta is belőle indulnak ki kutatásaikban.  
 
 A sumér is szótagnyelv volt, krétai-mükénéi jelek szótagjelek, míg a kínai írás ideogrammái akár komplett szavakat is takarhatnak – a magyar szótagok is saját jelentéssel bíró szavak.  
-A [[V/Vezér\|vezér]] az egyik legkönnyebben érthető magyar név (de a Mag-Ur is az lenne), mely rá*vezet*hetné a díszes társaságot arra, hogy a magyar nyelv szótagnyelv.  
-[[V/Végvári József\|Végvári József]] munkásságával kapcsolatosan annyit, hogy sajnos az etimon-rendszerig még nem jutott el, csak szócsaládokban (béke – béka, stb.) gondolkodik. Azt jól látja, hogy a CzF szótárban is alkalmazott gyöknyelvészettel sokra nem megy az ember.  
+[[V/Vezér\|Vezér]] az egyik legkönnyebben érthető magyar név (de a Mag-Ur is az lenne), mely rá*vezet*hetné a díszes társaságot arra, hogy a magyar nyelv szótagnyelv.  
+[[V/Végvári József\|Végvári József]] munkásságával kapcsolatosan annyit, hogy sajnos az etimon-rendszerig még nem jutott el, csak [[S/Szócsaládok\|szócsaládok]]ban (béke – béka, stb.) gondolkodik. Azt jól látja, hogy a CzF szótárban is alkalmazott gyöknyelvészettel sokra nem megy az ember.  
 Péterfai János jól látta meg, hogy a magyar szótagnyelv. Ezen szótagok pedig egy, két vagy három hangból álló alapszavak, idegen szóval [[E/Etymon\|etimon]]ok.  
 
 [[A/A\|A]] címnél is szerepelt Péterfai János adatsora, ahol elmondja a magyar szavak működésének receptjét:  
@@ -49,7 +49,7 @@ Nyilván sokan ágálnának az ellen, hogy sok (néha úgy tűnik, szinte minden
 2\. nem mellékesen ezen állatok (gondoljunk a Bárány, Kosnak megfelelő ind nakshatra Bharani párjára) az égre is felkerültek és a Nap ezen házakban való tartózkodását a fölről nézve állapítjuk meg és a Nap Földre és élőlényeire kifejtett hatását kívánjuk nyomon követni ezzel.  
 
 A folyók az égi Tejút alternatív nevei, a hegyek a Naphoz tartoznak (lásd erről bőven [[H/Hímség és nőiség\|hímség és nőiség]]). Az országok eredetileg égi területek ([[E/Éden\|Éden]] is). [[N/Nép\|Nép]]ek a [[N/Nap\|Nap]] vagy annak anyja után neveztetnek el, illetve egyes fontos csillagképek után (Hunor nyári, Magor téli napfordulós születés). Stb.  
-Az esetek nagy százalékában a Nap jelentésű szó van elöl (Ró, Tu(r), Du, Sza, Szak, Szek, Szik, Tak, Tek, Teg, Tik, Mag, Bog, nem sorolom el mind a kb. 150-200-at) és a Föld (Ma, Da, Ta), Hely (La, Da), Ház (Ga, Na, stb.) illetve az Ég/Menny (Án) jelentésű etimon a második helyen (az Án/Ány végződés Eget jelent; Cig-Ány (Szik-An), Pog-Ány, Bak-Ony mind Nap az Égen jelentésű). Állhat második helyen Ház (Ga, Ha, Na, stb.) jelentésű etimon (akár mint birtok értelemben; lásd [[G/GA\|GA]]), valamint Úr jelentésű szavak (Ér, Ár, stb. változatokban).  
+Az esetek nagy százalékában a Nap jelentésű szó van elöl (Ró, Tu(r), Du, Sza, Szak, Szek, Szik, Tak, Tek, Teg, Tik, Mag, Bog; nem sorolom el mind a kb. 100-at) és a Föld (Ma, Da, Ta), Hely (La, Da), Ház (Ga, Na, stb.) illetve az Ég/Menny (Án) jelentésű etimon a második helyen (az Án/Ány végződés Eget jelent; Cig-Ány (Szik-An), Pog-Ány, Bak-Ony mind Nap az Égen jelentésű). Állhat második helyen Ház (Ga, Ha, Na, stb.) jelentésű etimon (akár mint birtok értelemben; lásd [[G/GA\|GA]]), valamint Úr jelentésű szavak (Ér, Ár, stb. változatokban).  
 
 Így épülnek fel a két szótagos szavak. Ezt így Péterfai János szájbarágósan nem írja le, de ez a lényeg. Lásd még kifejtve alant.  
 
@@ -81,7 +81,41 @@ OG, ÖG, ÉG, EG: igeképző (igekötő).
 
 
 
+```plantuml-svg
+@startuml
+left to right direction
+skinparam BackGroundColor transparent
+skinparam rectangle {
+    BackgroundColor #ccbe78
+}
+skinparam card {
+    roundCorner 15
+    BackgroundColor #f9f5d7
+}
 
+rectangle "<b>Ég / Isten</b>" as head {
+}
+rectangle "<b>A, E, I, O, U</b>\nmodális-\ndinamikus\nhangok" as main {
+}
+card "AR/OR/UR/ER (IR)" as w3 {
+}
+card "EL/ÉL (IL)" as w4 {
+}
+card "AN/ÁN/ON/EN (IN)\nés ny-es változatai" as w5 {
+}
+card "AG/OG/EG ('ÉG'), AK/OK" as w6 {
+}
+card "ÁSZ ('ŐS')" as w7 {
+}
+
+head --main : Isten ('Első Ős') és Ég\negymássalhangzós nevei
+main ---w3 : R
+main ---w4 : L
+main ---w5 : N
+main -left-w6 : K (G) -> GY (TY, T, D)
+main -right-w7 : S, SZ
+@enduml
+```
 
 </div></div>
 

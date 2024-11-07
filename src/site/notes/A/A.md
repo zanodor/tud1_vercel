@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2024-10-22T18:08"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2024-11-07T00:45"}
 ---
 
 
@@ -15,7 +15,7 @@ Mivel az ABC is e hanggal kezdődik, nyilván nem véletlenül kerültek ezek a 
 
 #### Gyárfás Ágnes...  
 
-...szerint :  
+...adata szerint:  
 > A: anyai és atyai ősgyök, a nyelvben később a vízzel azonosult (L 578). Az α és az Ω, a kezdet és a vég két betűszimbóluma eredeti ősképünk. A magyar nyelvben ez az őskép névelő formában él és mozgósítja nyelvünk szakrális elemeit.  
 - [[A/Az\|Az]] címnél is szerepelt.
 
@@ -63,13 +63,11 @@ A fentiekkel nagyjából egyetértek és dicséret illeti Magyar Adorjánt az é
 Az AN, ÁN, EN, IN, ON, UN alapszavak mind az isteniség és a menny(beliség) szavai. Ezekhez járulnak a B-P-V, H-G-K, M-N és S-SZ-T előhangok.  
 Megpróbálom egy gyors skiccel felvázolni, miről van szó, de ennél sokkal szebben és jobban ki kell majd dolgozni, mint ahogy terveztem is.  
 [[E/Eire\|Eire]] címnél pedig szöveges háttéranyag is szerepel.  
-Az előhang nélküli és előhangos állatnevek kapcsán legutóbb [[U/UR#UR szóval képzett állatnevek\|UR szóval képzett állatnevek]] cím/alcímnél is szóltunk.  
+Az előhang nélküli és előhangos állatnevek kapcsán legutóbb [[U/UR#UR szóval képzett állatnevek\|UR szóval képzett állatnevek]] cím/alcímnél is szóltunk, továbbá lásd még [[T/Teremtő és teremtett#Napistennevek kialakulása más magyar dialektusokban\|napistennevek kialakulása más magyar dialektusokban]] cím/alcímnél írottakat.  
 
-![assets/A_image1.png](/img/user/A/assets/A_image1.png)  
+![assets/A_image1.png|invert_dark](/img/user/A/assets/A_image1.png)  
 
 { #d2n56}
-
-
 
 
 

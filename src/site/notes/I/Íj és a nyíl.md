@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2024-10-25T21:55"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2024-11-07T00:59"}
 ---
 
 
@@ -22,8 +22,8 @@ Itt alant a szexuális tartalommal fogjuk kezdeni, de annyival vezessük elő, h
 Kijelenthető, hogy ahol ív (és íj) van, illetve ahol görbe, homorú, hajlást kifejező szavak előkerülnek, ott az íj értelem is meg fog jelenni valahol és ott a nőiségi hiányt (és az ennek megfelelő sötét, fekete, stb. értelmeket) találjuk, más nyelvekben nyelvi szinten is. A hiány pedig nem más, mint [[E/Éh\|éh]], [[V/Vágy\|vágy]] és az nem más, mint (testi) szerelem/szexualitás/nemzés, melyben természetesen már az üldöző/[[V/Vadász\|vadász]] hím is megjelenik, ezzel a nyílvesszős/hímtagos ideák mentén a [[K/Kutya\|kutya]] (és hímtagja), továbbá vezetés/[[V/Vezér\|vezér]] fogalmai, bot, öv és hasonló értelmek; így jönnek létre a magyar utódnyelvek szavai.  
 Az [[I/Íj\|íj]] szavunk [[A/AJ\|AJ]] változatából eredő [[H/Haj\|haj]]- pedig gyökeleme az ívre utaló hajlásnak és az ívásra utaló [[H/Hajt\|hajt]] (= vadász a vadat) igének: az ezen igéhez vagy inkább a [[K/Kutya\|kutya]] fogalmához tartható [[H/Hódít\|hódít]]ás itt, ezen a téridőbeli helyen megy végbe.  
 [[H/Hunger\|Hunger]] és [[K/Khamor\|Khamor]] címnél és [[H/Homorú\|homorú]] szó kapcsán is az ívről és Íjazó csillagképekről volt szó, homorú kapcsán a [[L/Lemniszkáta\|lemniszkáta]] fogalmáról is.  
-![assets/Ijesnyil_image1.png](/img/user/I/assets/Ijesnyil_image1.png)  
-Kezdjük a szexuális tartalommal. Már [[K/Kutyanemzés\|kutyanemzés]] címnél volt bőven róla szó. Ezúttal...
+![assets/Ijesnyil_image1.png|invert_dark](/img/user/I/assets/Ijesnyil_image1.png)  
+Kezdjük a szexuális tartalommal. Már [[K/Kutyanemzés\|kutyanemzés]] címnél volt bőven róla szó.  
 
 #### R. D. Biggs Šà\.zi\.ga, ancient Mesopotamian potency incantations‬...
 
@@ -99,7 +99,7 @@ Fáy Elek könyvének 236. oldalán (lásd passzusát [[O/Ouroboros\|ouroboros]]
 A fentebb említett One Bow or Another – A Study of the Bow in Genesis 9:8-17 című Ellen van Wolde által írt dolgozat témája azért is fontos, mert felveti, hogy – éppen a Genezisben – az Íj csillagképnek jelentősége van. A Biblia fordítói, értelmezői viszont helytelenül [[S/Szivárvány\|szivárvánny]]al fordították a bibliai-héber `qĕšĕt` szót. Ilyen és efféle félreértelmezésekből ki tudja hány lehet.  
 
 A mellékelt, [[P/Pork\|pork]] címnél is meglévő, Michel-Gerald Boutet The St. Vigeans Drosten Pictish Stone című dolgozatában szereplő képen véleményem szerint szintén nemzésről van szó (nyilván tudták, hogy hamarosan korszakváltás következik).  
-![assets/Ijesnyil_image4.png](/img/user/I/assets/Ijesnyil_image4.png)  
+![assets/Ijesnyil_image4.png|invert_dark](/img/user/I/assets/Ijesnyil_image4.png)  
 A mellékelt pikt képen ha nyilával a Nyilas nem ölni, hanem nemzeni akarja a vadkant, akkor benne [[E/Emse\|emse]]/[[E/Emese\|Emesé]]t kell látni, a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjá]]t, másrészről konkrétan méhét, melyről a [[G/Galactic centre\|Galactic centre]] és más címnél ([[K/Koca\|koca]], [[H/Ház\|ház]]) bőven volt szó.  
 Ezt megerősítendő, a latin `porcus` = disznó jelentése mellett éppúgy jelentette a női szeméremrészt, mint a [[K/Kurva\|kurva]] címnél taglalt ógörög `χοῖρος` (khoîros) is állt süldő/malac jelentés mellett punci (szűzlány pinája) jelentéssel.
 
@@ -146,7 +146,7 @@ A saját diagramon pedig összefoglalva lásd, miként képzelhették el az eget
 
 Borbola János A keresztút című az Ősi Gyökér 2015/3-4. sz. megjelent cikkében mutatja be Hannig R.: Großes Handwörterbuch Ägyptisch-Deutsch című könyvéből adatát és a fentieknek megfelelő adatokat is szolgáltat. Amit ír, érdekes: az RMP43-as példájának 18. jele is a félgömb bemutatására a hímvesszőt, mint a gömb sugarát állítja példaképpen. (Az RMP a Rhind Matematikai Papirusz rövidítése.)  
 ![assets/Ijesnyil_image9.jpeg|invert_dark](/img/user/I/assets/Ijesnyil_image9.jpeg)  
-![assets/Ijesnyil_image8.jpeg](/img/user/I/assets/Ijesnyil_image8.jpeg)  
+![assets/Ijesnyil_image8.jpeg|invert_dark](/img/user/I/assets/Ijesnyil_image8.jpeg)  
 Az elliptoid/tojás alakú gömb az éggömb, középen a nyíl = Nílus = Tejút. Ezt ő persze nem írja.  
 
 [[D/Dob\|Dob]] címnél álló adatok is ide valóak:  
@@ -156,7 +156,7 @@ A sámán naphangszeréről Varga Zsigmond Az ősmagyar mitológia című könyv
 
 ...című könyvének 159. oldalán ír (lásd bővebben ott):  
 > A sámán hangszere a dob, régebben azonban az íj húrját pengetve kísérte magát. Itt-ott Szibériában a sámándobot "eredeti nevén" ma is "íj"-nak hívják, és az altáji dobok vázának felajzott és megfeszített ("útra kész") íjra utal a formája (119. rajz).  
-> ![assets/Ijesnyil_image10.png](/img/user/I/assets/Ijesnyil_image10.png)  
+> ![assets/Ijesnyil_image10.png|invert_dark](/img/user/I/assets/Ijesnyil_image10.png)  
 > \[...\]  
 > A kerek dobok a napkorongot, a Nap arcát idézik vagy az égisten arcát: az egész égboltot, a különböző fúvós hangszerek (sípok, furulyák) szára és a húros hangszerek húrjai a Nap sugarait.  
 > Más összefüggésben a dob az [[A/Anyaméh\|anyaméh]]et jelképezi, a dobverő és a furulya a falloszt. Együtt a kettő a termékenység és a teljesség szimbóluma.  
@@ -165,10 +165,10 @@ A sámán naphangszeréről Varga Zsigmond Az ősmagyar mitológia című könyv
 Közben előkerült egy sagitta szóhoz hasonló egyiptomi [[S/Szohit\|Szohit]] istennő-név is, melyet nyilván a [[S/Sothis\|Sothis]], [[T/Tistrya\|Tishtrya]], íj és a nyíl, valamint [[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]] címnél írottak alapján kell vizsgálni.  
 
 A [[M/Mária\|Mária]] címnél taglalt tamil-hindu **Māri** eső/termékenység/anyaistennőt (Tejútistennőt) ábrázoló kegytárgyról készült képen én megint nem látok mást, mint íjat és nyilat. Lásd a csatolt képet ide is betéve.  
-![assets/Ijesnyil_image11.jpeg](/img/user/I/assets/Ijesnyil_image11.jpeg)  
+![assets/Ijesnyil_image11.jpeg|invert_dark](/img/user/I/assets/Ijesnyil_image11.jpeg)  
 
 Az utolsó két képhez egészen hasonló a Molnár V. József Világ-Virág című könyvének 30. oldaláról való, [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]] és [[T/Tulipán\|tulipán]] címnél is szereplő/elemzett, 35. ábra néven futó képen taglalt Ikreknek megfelelő tulipános jelével szemközti, Nyilas-Íjas szimbolikának megfelelő, általam itt hagymásnak jelölt képjel.  
-![assets/Ijesnyil_image12.jpeg](/img/user/I/assets/Ijesnyil_image12.jpeg)  
+![assets/Ijesnyil_image12.jpeg|invert_dark](/img/user/I/assets/Ijesnyil_image12.jpeg)  
 (Arról, hogy mennyire helyes Atyának hívni a legfelső jelet, [[N/Négy#Négy és az ötödik irány\|négy és az ötödik irány]] cím/alcímnél is volt szó.)  
 
 #### Giorgio de Santillana...
@@ -476,7 +476,7 @@ Az Ősi Gyökér 2013/3. számában Gyárfás Ágnes által Béka királykisassz
 ### Hátrafelé lövő lovon ülő hunok
 
 ![assets/Ijesnyil_image16.jpeg](/img/user/I/assets/Ijesnyil_image16.jpeg)  
-![assets/Ijesnyil_image17.jpeg](/img/user/I/assets/Ijesnyil_image17.jpeg)  
+![assets/Ijesnyil_image17.jpeg|invert_dark](/img/user/I/assets/Ijesnyil_image17.jpeg)  
 Ismert a hun íjászok azon módszere, mely szerint menet közben, a lovon hátrafelé, amikor a ló négy lába a magasban volt, kellett lőniük (mindezt a megfelelő szögben és erővel, gondoljunk csak bele!). Erre vonatkozóan valahol valaki képábrázolással is hozott bizonyítékot, de meglepő, hogy – L. Kecskés András Etruszkok – Szabinok. Etruszk – magyarok? című az Ősi Gyökér 2011/4. sz. megjelent cikkében talált képi adat szerint – az etruszkoknál is találunk ilyen ábrázolást.  
 Angolul ezt így hívják: *Parthian shot*.  
 

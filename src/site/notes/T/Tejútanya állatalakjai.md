@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejútanya állatalakjai/","title":"Tejútanya állatalakjai","tags":["Englishtexttranslated"],"created":"2023-11-13T02:19","updated":"2024-10-26T00:36"}
+{"dg-publish":true,"permalink":"/T/Tejútanya állatalakjai/","title":"Tejútanya állatalakjai","tags":["Englishtexttranslated"],"created":"2023-11-13T02:19","updated":"2024-11-07T01:02"}
 ---
 
 
 # Tejútanya állatalakjai
 
-Hogy a [[T/Tejút\|Tejút]][^1] anya, ezt onnan tudjuk, hogy a világ számos mítoszában ő szüli a Nap[[G/Gyermek\|gyermek]]et. [[S/Szarvas\|Szarvas]]ként szarvasfiút, ahogy erről bőven volt szó.  
+Hogy a [[T/Tejút\|Tejút]][^1] anya, ezt onnan tudjuk, hogy a világ számos mítoszában ő szüli a Nap[[G/Gyermek\|gyermek]]et. [[S/Szarvas\|Szarvas]]ként szarvasfiút vagy akár [[T/Turul#A szarvasfiú valójában madár\|madar]]at, ahogy erről bőven volt szó.  
 
 #### Gyárfás Ágnes írja:  
 

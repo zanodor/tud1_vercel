@@ -5,7 +5,7 @@
 
 # Ugor
 
-Először is a névhez használati utasítás. A [[F/Finnugor elmélet\|finnugor elmélet]] tagadói ha meghallják az ugor nevet, már menekülnek, vagy tiltakoznak. Nem kell. Csak helyre kell tenni a dolgokat.
+Először is a névhez használati utasítás. A [[F/Finnugor elmélet\|finnugor elmélet]] tagadói ha meghallják az ugor nevet, már menekülnek, vagy tiltakoznak. Nem kell. Csak helyre kell tenni a dolgokat.  
 
 #### Bakk István és Bakk Erzsébet: Magna Hungaria – Nagy-Magyarország és a blakusok...
 
@@ -90,9 +90,9 @@ Az Úr – Ugor mint kulminációs legmagasabb pont lehet az ógörög `ákron` 
 
 [Ezen](https://magyarmegmaradasert.hu/szerzok/k-n/marton-veronika/item/5920-z) [[L/Lófő\|lófő]]ről szóló [[M/Marton Veronika\|Marton Veronika]] féle cikkben szerepel:  
 > Az ószláv/pravoszláv nyelvben az ugor mindig magyart jelent! Hodinka Antal, az orosz évkönyvek fordítója az ószláv ugor népnevet magyarnak fordítja. Tehát a finn-ugor jelentése finn-magyar.  
-> Az ugor megnevezést a magyar olvasó nemigen vonatkoztatja saját népnevére, a magyarra, hanem valamiféle urali, szibériai "[[F/Finnugor\|finnugor]]" népnek tartja. Vajon, ésszerű a "finnugor" összetétel első tagját magyarul, másodikat pedig ószláv nyelven használni? Ez nem más, mint megtévesztés.  
+> Az ugor megnevezést a magyar olvasó nemigen vonatkoztatja saját népnevére, a magyarra, hanem valamiféle urali, szibériai "finnugor" népnek tartja. Vajon, ésszerű a "finnugor" összetétel első tagját magyarul, másodikat pedig ószláv nyelven használni? Ez nem más, mint megtévesztés.  
 
-[[F/Finnugor elmélet\|Finnugor elmélet]] kapcsán elhangzott valakitől (nem emlékszem kitől, de nem is érdekes (talán Pesti István nevű kutató volt)), hogy az elnevezés azért is sántít, mert a magyarokat sohasem nevezték ugoroknak (de HungarianHistory3 nevű vlogger is folyton ezzel jön). Ez így nem igaz.  
+[[F/Finnugor elmélet\|Finnugor elmélet]] kapcsán elhangzott valakitől, hogy az elnevezés azért is sántít, mert a magyarokat sohasem nevezték ugoroknak. Ez így nem igaz.  
 Rácz Jenő A székely és magyar nép eredete és ősvallásunk nyomában című könyvében írja, hogy egykori népünket az arab kútfők egy része, és a Dzsagfar történet is általános megnevezéssel baskortoknak nevezi, akiket a türkök és kazárok ugornak hívtak.  
 
 Ez az ugor az, ami az [[O/Onogur\|onogur]] névben is szerepel és a hivatalos történeti forrásokban a [[M/Magyar népnév\|magyar népnev]]et megelőző magyarokra utaló megnevezés.  

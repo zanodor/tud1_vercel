@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BAD/","title":"BAD","created":"2024-10-29T16:18","updated":"2024-10-29T16:18"}
+{"dg-publish":true,"permalink":"/B/BAD/","title":"BAD","created":"2024-10-29T16:18","updated":"2024-11-07T00:56"}
 ---
 
 
@@ -42,9 +42,9 @@ A bad szót az etimológia szótár bizonytalanul az óangol `bæddel` szóra ve
 
 Összegezve, azt kell megállapítani, hogy akár vízzel, akarat- vagy erőbeli gyengeséggel hozzuk kapcsolatba a szót, mindig a nőiségi-telluris vonatkozásait fogjuk megtalálni. A vad szavunkat sokan hímséginek tartanák, de az alábbiak is fényt derítenek valós kilétére:  
 [[M/Magyar szópárok\|Magyar szópárok]]nál is szerepelt a vág és a vég páros, melyhez a vágy szavunk is tehető: bizony, a vágy a véggel kapcsolatos, hisz a [[S/Sárkány\|sárkány]] győzelmét jelenti. A vágy párja lehet a fágy (melynek jelentése fal, habzsol, és ismét anyagi-nőiségi-telluris vetületű, de ide kapcsolódnak az angol [[F/Fag\|fag]] = lélekölő munka, kifáraszt, [[F/Fade\|fade]] = fakul és [[F/Fad\|fad]] = hóbort szavak is), és a fogy-aszt, illetve távolabbról a fog (fogság) is. A vágy, vég tovább boncolgatható vad, vályu, váj, vaj, baj, bal irányokba is, sőt, vályu szó kád szinonimája visz el azon latin `caedere` és `cadere` szavakhoz, melyeket [[C/Circumcision\|circumcision]] szónál is taglaltunk.  
-A lentség, a víz, mindig a [[R/Rossz\|rossz]] (melyhez hasonlóan a [[R/Rút\|rút]] is a Nap lementéhez, a sötétséghez kapcsolt), ezért is azonos bad [[B/Bath\|bath]]-tal.  
+A lent-ség, a víz, mindig a [[R/Rossz\|rossz]] (melyhez hasonlóan a [[R/Rút\|rút]] is a Nap lementéhez, a sötétséghez kapcsolt), ezért is azonos bad [[B/Bath\|bath]]-tal.  
 
-Közben [[P/PAT\|PAT]] címnél írottak alapján (illetve lásd az utóbb betett Nagy Géza féle sumér `bad` = ölni szót fentebb) könnyen lehet, hogy a halál jelentésből indul ki. Igenis, a bad = rossz eredetileg vagy csúnya, vagy hazug vagy [[P/PAT\|pat]] = halál, azaz ilyen fényhiányos értelmű. Fentebb vízről is volt szó, márpedig az mindig a legalacsonyabb pontot találja meg (de a [[P/Pata\|pata]], [[F/Foot\|foot]] = láb is a [[F/Föld\|Föld]]del, vagy mondhatjuk: "*főd*del" érintkezik). Bad tehát az alul (halál) léttel hozható kapcsolatba. A görög [[B/Bothros\|βόθρος]] is gödör, árok jelentésű.  
+Közben [[P/PAT\|PAT]] címnél írottak alapján (illetve lásd az utóbb betett Nagy Géza féle sumér `bad` = ölni szót fentebb) könnyen lehet, hogy a halál jelentésből indul ki. Igenis, a bad = rossz eredetileg vagy csúnya, vagy hazug vagy [[P/PAT\|pat]] = halál, azaz ilyen fényhiányos értelmű. Fentebb vízről is volt szó, márpedig az mindig a legalacsonyabb pontot találja meg (de a [[P/Pata\|pata]], [[F/Foot\|foot]] = láb is a [[F/Föld\|Föld]]del, vagy mondhatjuk: "*főd*del" érintkezik). Bad tehát az alul (halál) léttel hozható kapcsolatba. A görög `βόθρος` is gödör, árok jelentésű.  
 A [[V/Vad\|vad]] főnévi fogalmát azóta a [[V/Vadász\|vadász]] összefüggésében tárgyaltuk. Nőiség volt ott is.  
 
 Bad lehet [[V/Vét\|vét]]/vétek szavunk alhangos változata is. A rossz negatív fogalma alhangos magánhangzót kíván.  
