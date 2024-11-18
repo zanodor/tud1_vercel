@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-11-07T00:55"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-11-18T22:12"}
 ---
 
 
@@ -97,7 +97,6 @@ Ellenben igyekeztem egyes könyvek, tanulmányok, cikkek MEGA-ra feltöltött p�
 
 A lexikális adatok (lásd őket `ilyen` vagy főképpen tulajdon- és istennevek esetében **Ilyen** szedéssel) helyességére különösen ügyeltem, de becsúszhat itt-ott elírás vagy pedig a forrásom téved (vagy annak forrása). Olyan is előfordul, hogy minden igyekezetem ellenére nem sikerült minden lexikális adatot külön kiemeléssel jelölni. Ha látok valamit, menet közben javítom és ennek jogát fenntartom.  
 
-Több oldalon lehet találkozni úgynevezett csukott callout-tal, mely egy színes sáv, rajta egy ikonnal, szöveggel (pl. diagramot tartalmazó részre utaló felirattal) és egy rókaszájjal. **A rókaszájra kattintva legördül az infomációs elem.**
 
 Menet közben fontosabbnak ítélt angol nyelvű részeket (az esetek mintegy 90-95%-a lehet, leszámítva egyes szavak eredetére vonatkozó részeket) lefordítom. Az erre a munkára alkalmatlan sima Google Translate helyett a kiváló DeepL fordítót és a Google AI Studio Gemini Pro mesterséges intelligencia szoftver fordítóját használom. A kész fordításokban csak a látványos vagy ordító hibát (veszem észre és) javítom, de elképzelhető, hogy helyenként kissé magyartalan (vagy a lexikális normától eltérő) marad a szöveg.   
 A fordítások a lábjegyzetekre is kihatással lesznek: az egyes lábjegyzetek mellett álló visszafelé nyilak közül az első az angol szövegre, a második a magyarra fordított sorokra visz.  

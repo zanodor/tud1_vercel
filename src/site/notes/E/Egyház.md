@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Egyház/","title":"Egyház","created":"2024-02-12T04:49","updated":"2024-10-25T17:13"}
+{"dg-publish":true,"permalink":"/E/Egyház/","title":"Egyház","created":"2024-02-12T04:49","updated":"2024-11-08T00:21"}
 ---
 
 

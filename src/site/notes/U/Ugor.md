@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2024-10-26T00:43"}
+{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2024-11-18T22:11"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["Englishtexttranslated"],"created":"2023-10-11T10:10","updated":"2024-11-06T16:19"}
+{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["containsaigenerateddiagram","Englishtexttranslated"],"created":"2023-10-11T10:10","updated":"2024-11-08T15:22"}
 ---
 
 
@@ -52,8 +52,54 @@ Persze nem muszáj rögtön a Nagy Évre ugrani. Elég ha a közben [[A/Apolló\
 Az Apolló vonalat folytatva, a nevet a-előtétesként, [[B/Bál\|Bál]] nevéhez tarthatóan értékelte Kállay, és ehhez hasonló módon láttam megközelítve egy Quora [válaszban](https://qr.ae/pKGlJP) is:  
 > Following Berger (1956), the American Heritage dictionaries suggested that the word \*abel 'apple', the only name for a fruit (tree) reconstructed for Proto-Indo-European, may have been borrowed from a language ancestral to Burushaski. ("Apple" and "apple tree" are `báalt` in modern Burushaski.)  
 > —  
-> Berger (1956) nyomán az American Heritage szótárak azt javasolták, hogy a \*abel 'alma' szó, az egyetlen gyümölcs (fa) név, amelyet a proto-indoeurópai nyelvből rekonstruáltak, egy olyan nyelvből származhat, amely a burushaski őse. ("Alma" és "almafa" a mai burushaski nyelvben `báalt`).
+> Berger (1956) nyomán az American Heritage szótárak azt javasolták, hogy a \*abel 'alma' szó, az egyetlen gyümölcs (fa) név, amelyet a proto-indoeurópai nyelvből rekonstruáltak, egy olyan nyelvből származhat, amely a burushaski őse. ("Alma" és "almafa" a mai burushaski nyelvben `báalt`).  
 - Azaz itt is a [[B/Bál\|Bál]] névre lehet gondolni: a gyümölcs [[N/Napjelkép\|Napjelkép]].
+
+```plantuml-svg
+@startuml
+left to right direction
+skinparam BackGroundColor transparent
+skinparam rectangle {
+    BackgroundColor #ccbe78
+}
+skinparam card {
+    roundCorner 15
+    BackgroundColor #f9f5d7
+}
+
+rectangle "<b>apple</b>" as apple
+card "német <color:#e7545c>apfel</color>" as apfel
+card "magyar <color:#e7545c>alma</color>" as alma
+card "szlovák <color:#e7545c>jablko</color>" as jablko
+card "szlovén <color:#e7545c>jabolko</color>" as jabolko
+card "lett <color:#e7545c>ābolu</color>" as abolu
+card "etruszk <color:#e7545c>aplu</color>" as aplu
+card "<color:#e7545c>apol</color>" as apol
+card "magyar <color:#e7545c>ápol</color>" as ápol
+card "magyar <color:#e7545c>Apolló</color>" as Apolló
+card "magyar <color:#e7545c>Éva</color>" as Éva
+card "magyar <color:#e7545c>avul</color>" as avul
+card "magyar <color:#e7545c>évül</color>" as évül
+card "magyar <color:#e7545c>épül</color>" as épül
+card "burushaski <color:#e7545c>báalt</color>" as báalt
+
+apple -- alma : jelentés
+alma -- apfel : jelentés
+alma -- jablko : jelentés
+alma -- jabolko : jelentés
+alma -- abolu : jelentés
+apple -- apol : etimológia
+apol -- aplu : etimológia
+aplu -- Apolló : etimológia
+Apolló -- ápol : jelentés
+apple -- Éva : utalás (Éva almája)
+apple -- avul : jelentés
+apple -- évül : jelentés
+apple -- épül : jelentés
+apple -- báalt : etimológia
+
+@enduml
+```
 
 ## Apple cég neve és logója
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar istencsalád/","title":"Magyar istencsalád","tags":["Englishtexttranslated"],"created":"2023-11-30T10:05","updated":"2024-11-04T16:44"}
+{"dg-publish":true,"permalink":"/M/Magyar istencsalád/","title":"Magyar istencsalád","tags":["Englishtexttranslated"],"created":"2023-11-30T10:05","updated":"2024-11-18T22:10"}
 ---
 
 
@@ -10,7 +10,7 @@ A [[M/Magyar ősvallás\|magyar ősvallás]] csillagászati tudáson, alapokon n
 A teljes isteni-emberi viszonyrendszer felvázolva:  
 Legfelül áll [[N/Nagyboldogasszony\|Nagyboldogasszony]]/[[T/Tejútanya\|Tejútanya]], kinek fia a [[N/Nap\|Nap]] és azok [[N/Nép\|nép]]ei az emberek (egyes csoportjai, különböző törzsi- és népneveken), de apaszerepben (ahogy Gyárfás Ágnes is jól látja; nála viszont [[H/Hunor és Magor\|Hunor és Magor]] az Ikrek, tévesen, viszont [[C/Castor és Pollux\|Castor és Pollux]] címnél végül is tisztázza magát; én magam pedig [[E/Ember\|ember]] címnél teszem meg) a Tejútanya/[[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]] fia[^1]?-férje [[O/Orion\|Orion]] (annak is az övcsillagai a leginkább érdekesek, Szíriusszali összekötése végett is \[ezek szerint Szíriusz égi helyzete mégis állandó?!\]) (kimondható, hogy [[S/Szíriusz\|Szíriusz]] egyszerre nőiségi és hímségi, hisz a ([[S/Száj\|száj]]on általi) nemzés ott megy végbe, és a szülés helye lesz más, a szemközti Nyilasban; ez a [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] csillagászati háttere).  
 Ahogy [[H/Hierogamy\|hierogamy]] és [[G/Gemination\|gemination]] címnél is írtuk, a magyar istencsalád hím és női tagjai itt, ezen a téridőbeli pontos tartják szent nászukat (ahol a [[K/Kutyanemzés\|kutyanemzés]] is létrejön). Mondhatnánk azt is, hogy a [[J/Jin és jang\|jin és jang]] ábra rögzített állapotában a közben [[K/Konty\|konty]] címnél is említett találkozás (nász) középen (a [[L/Lemniszkáta\|lemniszkáta]] címnél taglalt kötőpontban) van. Ott, [[K/Konty\|konty]] címnél is szerepelt:  
-![assets/Magyaristencsalad_image1.png](/img/user/M/assets/Magyaristencsalad_image1.png)  
+![assets/Magyaristencsalad_image1.png|invert_dark](/img/user/M/assets/Magyaristencsalad_image1.png)  
 A régi kínai felfogás szerint a világmindenség két fő princípiuma a [[J/Jin és jang\|jin és jang]], a negatív vagy női, és a pozitív vagy férfi. Ennek a kettőnek a küzdelme, illetve olykor egymásba való átcsapása hoz létre minden mozgást (mely már az [[E/Eros\|Eros]] címnél írottakat idézi, de [[K/Kinetic\|kinetic]] címnél írottakat is lásd mozgásról).  
 
 #### Rónai Lászlóné Reinkarnáció...
@@ -20,9 +20,9 @@ A régi kínai felfogás szerint a világmindenség két fő princípiuma a [[J/
 > A kereszténységben: az Atyaisten (a termékenyítő tűz erő, csillagképe az Orion, szimbóluma a párduc, a felfelé mutató háromszög); az Anyaisten (az összetartó, befogadó vízerő, csillagképe a Nagy Kutya a Szíriusz csillaggal, szimbóluma a csodaszarvas, a kör, a testet öltött formájának jelképe: a Hold); s a Fiúisten (a kiegyensúlyozó, a Föld elem, szimbóluma: a hétágú Nap, a négyzet, a Turul vagy Sólyom, összevontan pedig a szárnyas Nap, Jézus). Negyedik elem: az Emberben áramló levegő elem. Ősi jelekkel: az Atya az (X), az Anya (☉), és a Fiú (+) az egyenlő szárú kereszt. A három rovásjel összevont ligatúra jelképe pedig a Teljesség: egy körben lévő nyolc ágú csillag. A Lélek szimbóluma pedig az Atyaisten (X) és a Fiúisten (+) rovás jeleinek az összevont ligatúrája együtt: a nyolcágú csillag. Mindet megtaláljuk szimbólumként ma is a templomokban, bár sok pap ma már nem tudja a jelentését.  
 
 Ez a küzdelem nem más, mint az, amit a Szíriuszhoz kapcsolt háború- és szerelem-istennő szerepkörökben is látunk: a küzdelem a szerelmi és háborús csatározásra értendő.  
-Ezek után nem is meglepő, hogy a téridőbeli helyre, Nagy Kutya csillagképre utalva előjön ilyen [[N/Nász\|nász]] alakú szó Helena Lehman nevű írónő tollából (aki Bullinger könyvét dolgozta fel több könyvben; az angol szöveg [[S/Szíriusz\|Szíriusz]] címnél található, itt csak a magyar nyelvű fordítást adom):  
+Ezek után nem meglepő, hogy a téridőbeli helyre, Nagy Kutya csillagképre utalva előjön ilyen [[N/Nász\|nász]] alakú szó Helena Lehman nevű írónő tollából (aki Bullinger könyvét dolgozta fel több könyvben; az angol szöveg [[S/Szíriusz\|Szíriusz]] címnél található, itt csak a magyar nyelvű fordítást adom):  
 > A denderai zodiákusban a Canis Majorhoz tartozó sólyom külön "Naz Seir" felirattal van ellátva, és a Sirius csillagot jelképezi a Canis Majorban. Egyiptomiul a "Naz" azt jelenti, hogy "Elindult" vagy "Elküldött", míg a "Seir" azt jelenti, hogy "Herceg" vagy "Főnök". Ezért a "Naz Seir" cím azt jelentheti, hogy "küldött herceg". Mivel a "Naz" és a "Zar" egyaránt "Herceget" jelent héberül, a Naz Seir azt is jelentheti, hogy "Hercegek Hercege", ami a királyok Királyának, Jahsuának megfelelő jelzője!  
-- Igen ám, de Jézus nem a Szíriusz, hanem a Nap. Az ilyen zsidós ezoterikus írókkal vigyázni kell.
+- Igen ám, de Jézus nem a Szíriusz, hanem a Nap. Az ilyen zsidó-ezoterikus írókkal vigyázni kell.
 
 Mondtam volna itt, hogy a [[K/Küzd\|küzd]] és [[K/Kezd\|kezd]] szavaink is erre a téridőbeli pontra kellene utaljanak, de a kezdet [[S/Szűz csillagkép#Szűz mint kezdet\|Szűz mint kezdet]] cím/alcímnél írottak alapján oda is kapcsolható (csak hogy bonyolódjon a dolog).  
 Ezek után még azt is ki lehet jelenteni, hogy a [[F/Feleség\|feleség]] fogalma is az ég [[F/Fel\|fel]]ezésének helyére utalhat[^2].  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/DA/","title":"DA","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-10-31T16:47","updated":"2024-10-31T16:47"}
+{"dg-publish":true,"permalink":"/D/DA/","title":"DA","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-10-31T16:47","updated":"2024-11-18T22:12"}
 ---
 
 
@@ -35,7 +35,7 @@ Az orosz `da` = igen a Nap DA nevéből ered, mondhatjuk, de a régies angol `ta
 ([Ezen](https://qr.ae/pN4bzD) oldalon Lorenzo Lodi rámutat, hogy t-előhangosan is megvolt igen jelentéssel Ta szó, és a lengyel `tak`-on kívül másról is szól:  
 > `Da` is used in Russian and in South Slavic languages (Bulgarian, Serbo-Croatian, Slovenian). Ukrainian, Belarussian and Polish use `tak` (a word which in Russian means 'so', 'like this' but can also be translated as 'yes' in some cases, for example in the expression так точно! 'yes, exactly!', 'exactly like that!'.)  
 > —  
-> A `Da` az oroszban és a délszláv nyelvekben (bolgár, szerbhorvát, szlovén) használatos. Az ukrán, a belorusz és a lengyel a `tak` szót használja (ez a szó az oroszban azt jelenti, hogy 'így', de bizonyos esetekben 'igen'-nek is fordítható, például a так точно! 'igen, pontosan!', 'pontosan így!' kifejezésben).  
+> A `Da` az oroszban és a délszláv nyelvekben (bolgár, szerb-horvát, szlovén) használatos. Az ukrán, a belorusz és a lengyel a `tak` szót használja (ez a szó az oroszban azt jelenti, hogy 'így', de bizonyos esetekben 'igen'-nek is fordítható, például a так точно! 'igen, pontosan!', 'pontosan így!' kifejezésben).  
 
 #### Magyar Adorján írja:  
 
