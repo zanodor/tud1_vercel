@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kota/","title":"Kota","tags":["containsaigenerateddiagram"],"created":"2024-11-08T15:22","updated":"2024-11-08T15:22"}
+{"dg-publish":true,"permalink":"/K/Kota/","title":"Kota","created":"2024-11-08T15:22","updated":"2024-11-21T18:23"}
 ---
 
 
@@ -56,11 +56,12 @@ tyúk -- kotlik : hangutánzó
 kota -- kóta
 
 @enduml
-```
+```{ #bvmxbc}
+
 
 ## Kota - ház
 
-A kota ház értelméről lásd [[H/Ház\|ház]]. [[K/Kútya\|Kútya]] címnél is szó esett róla.  
+A `kota` ház értelméről lásd [[H/Ház\|ház]]. [[K/Kútya\|Kútya]] címnél is szó esett róla.  
 Hasonló szavakat lásd még [[C/Cote\|cote]].  
 
 Jegyezzük itt még meg a szerb-horvát `кућа` (`kuća`) = ház; tető szót, mely rámutathat a [[S/Szakrális geometria\|szakrális geometria]] és [[K/Kutya\|kutya]] címnél taglalt szavakkal arra, hogy itt egy másféle házról van szó, mint a magyar szó esetében.  
@@ -70,7 +71,7 @@ Lásd még ház – település (város) vonalon a kota névvel szinte azonos [[
 ### Szent ház
 
 Varga Zsigmond Az ősmagyar mitológia című, [letöltésre elérhető](https://mega.nz/file/NzVgjYyJ#NwRtPkXGAY5s_k4gsvVwfaByPvBeGaVBLlXqhDoGefU) könyvének 128-130. oldalán finnugor (pl. osztják `khot`, cseremisz `kudo` és más hasonló alakú, szent ház jelentésű) szavakat adatol.  
-Ha már szent ház, tegyük hozzá, hogy a [[K/Kut\|kut]] és más címnél adatolt hurri `kuta` = szent jelentésű már önmagában is, sőt, mivel a szent házak magasak/magaslatra épültek (az ég hupolaga adja a ház jelentést a szláv és más nyelvű [[D/Dome\|dome]] címnél taglalt szavak esetében is), és a Nap is a nyári [[C/Culminate\|kulmináció]]s pontján a [[K/Kutya\|Kutyá]]ban tartózkodik, láthatjuk, hogy a szavak mind összefüggenek.  
+Ha már szent ház, tegyük hozzá, hogy a [[K/Kut\|kut]] és más címnél adatolt hurri `kuta` = szent jelentésű már önmagában is, sőt, mivel a szent házak magasak/magaslatra épültek (az ég hupolagja adja a ház jelentést a szláv és más nyelvű [[D/Dome\|dome]] címnél taglalt szavak esetében is), és a Nap is a nyári [[C/Culminate\|kulmináció]]s pontján a [[K/Kutya\|Kutyá]]ban tartózkodik, láthatjuk, hogy a szavak mind összefüggenek.  
 Az összefüggések pedig a [[K/Kufu\|Kufu]] címnél Magyar Adorján által említett egyiptomi piramisok `ku`, `kut` nevével és a [[S/Szakrális geometria\|szakrális geometriá]]val folytathatók, sőt, hasonló egyiptomi szó előjött [[H/Huta\|huta]] címnél Borbola Jánostól is.  
 
 ```plantuml-svg
@@ -98,3 +99,4 @@ kut -- kut2 : Magyar Adorján adata
 
 @enduml
 ```
+^ogfwrw

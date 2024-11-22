@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Shoot/","title":"Shoot","tags":["Englishtexttranslated"],"created":"2024-11-05T19:18","updated":"2024-11-05T19:18"}
+{"dg-publish":true,"permalink":"/S/Shoot/","title":"Shoot","tags":["Englishtexttranslated"],"created":"2024-11-05T19:18","updated":"2024-11-21T16:29"}
 ---
 
 
@@ -60,4 +60,4 @@ Lásd még [[S/Süt#Süt, shoot, szkíta\|süt, shoot, szkíta]] cím/alcímnél
 
 Érdekes analógia: ahogy a [[S/Süt\|süt]] szavunknak megfelel shoot, úgy [[G/Gyúl\|gyúl]] szavunknak felel meg az ott is említett török `gülle` = lövés. Bár az inkább [[G/Golyó\|golyó]] szavunknak felelne meg [ezen](https://tureng.com/en/turkish-english/g%C3%BClle) oldal alapján.  
 
-Lásd még [[S/Skit\|skit]], [[B/Bow\|bow]] és [[A/Arrow\|arrow]]. Lásd még nyíl elengedésével, elsütésével kapcsolatban [[L/Loose\|loose]].  
+Lásd még [[S/Skit\|skit]], [[B/Bow\|bow]] és [[A/Arrow\|arrow]].   

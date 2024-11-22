@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ache/","title":"Ache","tags":["containsaigenerateddiagram"],"created":"2024-03-16T22:48","updated":"2024-11-08T15:21"}
+{"dg-publish":true,"permalink":"/A/Ache/","title":"Ache","created":"2024-03-16T22:48","updated":"2024-11-21T18:12"}
 ---
 
 
@@ -42,7 +42,6 @@ card "szumér <color:#e7545c>AŠ</color>" as aš
 card "görög <color:#e7545c>algia</color>, <color:#e7545c>algosz</color>" as algiaalgosz
 card "magyar <color:#e7545c>ágy</color>" as ágy
 
-
 ache -- agy : fáj
 ache -- ég : égő fájdalom
 ache -- ék : hasogató fájdalom
@@ -57,6 +56,7 @@ ache -- algiaalgosz : "jelentése: fájdalom"
 ache -- ágy : ágynak esik (fájdalom)
 
 @enduml
-```
+```{ #c1opap}
+
 
   

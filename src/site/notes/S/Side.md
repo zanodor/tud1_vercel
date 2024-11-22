@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Side/","title":"Side","created":"2024-11-05T15:12","updated":"2024-11-05T15:12"}
+{"dg-publish":true,"permalink":"/S/Side/","title":"Side","created":"2024-11-05T15:12","updated":"2024-11-19T11:19"}
 ---
 
 
@@ -24,7 +24,7 @@ A finn `sydän` = szív ("rokon" a magyar szív szóval) is tulajdonképpen köz
 [[S/Szít\|Szít]] címnél Szít-Rá szókapcsolatok is szerepeltek.  
 Ugyanezen szókapcsolat a latinban `citrà`/`citer`/`cis` = ezen az oldalon (mint a hajók oldalainál, itt is fényes oldal lehet), de hasonló Szít-Rá szóalak Valpy etimológia szótárában előjött mint spanyolnak/mórnak tartott céltábla jelentésű szó.  
 
-Érdekesmód az angol másik szava oldalra (igaz, könyv oldalát jelenti), [[P/Page\|page]] is kapcsolható Naphoz, miután a [[P/PAG\|PAG]] etimon szerepel benne.  
+Érdekesmód az angol másik szava oldalra (igaz, könyv oldalát jelenti), [[P/Page\|page]] is kapcsolható lehet Naphoz, miután a [[P/PAG\|PAG]] etimon szerepel benne.  
 
 
 Kevéssé valószínű, de nem lehetetlen, hogy a [[S/SZAG\|SZAG]] címnél taglalt sumér `zag` = oldal a kiinduló.  
@@ -34,12 +34,12 @@ Kevéssé valószínű, de nem lehetetlen, hogy a [[S/SZAG\|SZAG]] címnél tagl
 Gyakorlatilag a SZET, SZÉT, SZÍT, SZAT, SÜT, SÖT, SUT, SAT szavak alapján ugyanolyan életkör-diagram lehetne alkotható, mint amilyen [[D/Deer\|deer]], [[K/Kut\|kut]] (mely Kut-nak szatemes párja lenne ezen Szat/Szet) és [[M/MISZ\|MISZ]] címnél szerepelt. Side lenne a határoló, ami másutt Ter=Tör, Kat/Kut és Mes volt.  
 
 [[S/Szárny\|Szárny]] címnél volt legutóbb arról szó, hogy az arab szárnyat jelentő szó oldal jelentésre illetve fogalomra vihető vissza, teljesen logikusan. Ez adta az ötletet, hogy a lapp nyelvben is meglévő, itt most csak az angol `side` szóval bemutatott szóalakot a [[S/Sidhe\|sidhe]] címnél említett – a szomorú jelentésű [[S/SAD#Sad 2)\|sad]] szóval és végső soron [[S/Sátán\|Sátán]] sát elemével, valamint az árnyékos sötét oldalra utaló [[S/Shadow\|shadow]] szó gyökével is egyeztethető – sémi sed/séd szóval hasonlítsuk.  
-A német `scheidung` = (el)válás, elkülönítés szó kapcsán ötlött fel, hogy a [[V/Vál\|vál]]- gyöke = [[F/Fél\|fél]], ami azt jelenti, hogy a [[S/Süt\|süt]] és [[S/Sötét\|setét]]/[[S/Sötét\|sötét]] set-/[[S/Söt\|söt]]- gyökei közötti elválás oldalairól van szó. De maga a fő határjelző – a markercsillag Szíriusz – csillag nevének (`sidus`) gyöke is stimmel.  
+A német `scheidung` = (el)válás, elkülönítés szó kapcsán ötlött fel, hogy a [[V/Vál\|vál]]- gyöke = [[F/Fél\|fél]], ami azt jelenti, hogy a [[S/Süt\|süt]] és [[S/Sötét\|setét]]/[[S/Sötét\|sötét]] set-/[[S/Söt\|söt]]- gyökei közötti elválás oldalairól van szó. De maga a fő határjelző – a marker-csillag Szíriusz – csillag nevének (`sidus`) gyöke is stimmel.  
 
 Megfelel rokonításként a délszláv `zid` és román `dzîd` = fal szó is, melyek ismét mutatják, hogy elválasztásról van szó.  
 [[P/Part\|Part]] címnél (lábjegyzetben) (is) láttuk, hogy a határ, fal, valamint a part, oldal fogalmak folyó általi elválasztásra utalnak (itt is).  
 
 ## Side, sidus és zsidó
 
-A nagyon hasonló alakú [[Z/Zsidó\|zsidó]] név eredetét is így közelíthetjük meg. A zsidó tulajdonképpen a [[S/Szkíta\|szkíta]] név változata és a szkíta a hun névvel forrott össze; Hunor pedig a nyári napfordulós hatalomváltás (Magor => Hunor) téridőbeli pontjára utal, ahol a nyári Nyilas, az [[I/Íj csillagkép\|Íj csillagkép]] is van, a Tejút sávjánál, amely két részre osztja az éggömböt.  
+A nagyon hasonló alakú [[Z/Zsidó\|zsidó]] név eredetét is így közelíthetjük meg. A zsidó tulajdonképpen a [[S/Szkíta\|szkíta]] név változata és a szkíta a hun névvel forrott össze; Hunor pedig a nyári napfordulós hatalomváltás (Magor => Hunor) téridőbeli pontjára utal, ahol a nyári Nyilas, az [[I/Íj csillagkép\|Íj csillagkép]] is van, a Tejút sávjánál (mellette Szíriusz, a fontos jelzőcsillag; latin `sidus` = csillag), amely két részre osztja az éggömböt.  
 A süt és söt-ét oldal elválasztójának téridőbeli pontja a nyári napforduló, melynek napistenét ([[B/Bál\|Bál]], [[S/Szutek\|Szutek]], stb.) tisztelték azon népek, melyekből a ma indoeurópainak és szemitának nevezett népek létrejöttek. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2024-11-07T00:58"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2024-11-21T18:27"}
 ---
 
 
@@ -326,7 +326,7 @@ Ezen mondat is szerepelt ott:
 Menet közben kiderül, hogy ördög szavunkból ered a szláv [[D/Drug\|drug]] = társ, barát jelentésű szó. Csak amíg a [[B/Barát\|barát]] fogalma nálunk a Föld-Nap viszonyában az életadó/tápláló Nap neveként jelenik meg, addig a szlávban és irániban ([[D/Druj\|druj]]) a kis éves, nálunk inkább ellenségre utaló fogalomként.  
 
 Rostás László A Sínai Szent Katalin kolostor Krisztus ikonja című az Ősi Gyökér 2015/1-2. sz. megjelent cikkében Csontváry Kosztka Tivadar Öreg Halász c. képén mutatja be, hogy a két arcfél közül az egyik istené, a másik az ördögé.  
-![assets/Ördög_image5.jpeg](/img/user/O/assets/%C3%96rd%C3%B6g_image5.jpeg)  
+![assets/Ördög_image5.jpeg|invert_dark](/img/user/O/assets/%C3%96rd%C3%B6g_image5.jpeg)  
 Nagy Attila az Ősi Gyökér 2007/4. sz. megjelent A Tükör trükkje című cikkében ír angyal és ördögről helyenként erőltetett szójátékokkal fűszerezve. Ha lenne időm rá, elolvasnám. Alkalomadtán.  
 
 [[S/Sátán\|Sátán]] címnél láttuk már, hogy megjelenhet személynévként. Ördög Nóra neve mellett említhető [ezen](http://nuclearmorphology.hu/tortenelem/hol-lehet-az-eredeti-buda/) blogposztjáról [[P/Portus Moger\|Portus Moger]] címnél említett Eördögh Árpád blogger neve.  

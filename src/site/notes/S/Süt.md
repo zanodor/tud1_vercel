@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2024-11-07T01:03"}
+{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2024-11-21T18:33"}
 ---
 
 
@@ -28,7 +28,7 @@ A francia `chaud` = forró is innen ered, nem a latin `calidus` szótól.
 
 A mellékelt táblázat aveszta SZU-DAR alakjai érdekesek, minthogy a férj elnevezése ezek szerint onnan származik, hogy rendelkezik megtermékenyítő folyadékkal. De lehet hogy itt inkább a Süt-Rá értelmezést kell helyesnek vélni. ([[S/Sutra\|Sutra]] pedig szintén létező szó.)
 
-A török, kazah, kirgiz, baluchi, ujgur `süt`, azeri `süd` = tej, mely [[T/Táp\|táp]]lálék értelmére, vagy talán [[S/Sweet\|sweet]] = édességére mutat rá (egyes iráni nyelveken a "szolim-szarmata" shir, azaz [[Z/Zsír\|zsír]] a tej, míg [[D/Dugh\|dugh]] = lefölözött tej).  
+A török, kazah, kirgiz, baluchi, ujgur `süt`, azeri `süd` = tej, mely [[T/Táp\|táp]]lálék értelmére, vagy talán [[S/Sweet\|sweet]] = édességére mutat rá (egyes iráni nyelveken a "szolim-szarmata" `shir`, azaz [[Z/Zsír\|zsír]] a tej, míg [[D/Dugh\|dugh]] = lefölözött tej).  
 Ugyanakkor az örmény (kún-hun K-T vázú) `kat`, baskír `höt` (mely [[H/Hot\|hot]] szóval is rokonítható) és tagalog `gatas` = tej szavak mutatnak rá, hogy valóban sütő, azaz a meleg táplálék értelmet kell keresni benne (vesd össze germán-szláv tejet jelentő szavak (mint például angol [[M/Milk\|milk]]) meleg alapértelmével és a sémi Moloch napisten nevével).  
 (A roma nyelv `thud` = tej szava tőgy vagy inkább tud szavunkkal egyezik: a tölgyfapap táltos tápláléka is a tej, de [[M/Mohammed\|Mohammed]] is a három felajánlott ital, a bor, víz és a tej közül – helyesen – utóbbit választotta.)  
 
@@ -49,7 +49,9 @@ card "Skytha" as w3
 w1 -- w2
 w2 -- w3 : IE ~*(s)kewd-
 @enduml
-```
+```{ #579hpe}
+
+
 Amikor a görög (által lejegyzett) [[S/Szkíta\|skytha]] név indogermán jelentése nyomán eljutunk – akár a sima s-sel ejtett angol [[S/Shoot\|shoot]] igével hasonlítva – süt igénkhez, ne gondoljuk, hogy a süt nyomán keletkezett volna a szkíta név, vagy hogy a szkíta nyomán keletkezett volna süt. Éppen arról van szó, hogy a süt szónak olyan magyar-hun flexiós vagy poszt-magyar-hun torzult változatát kell keresni, mely a skytha név lejegyzését egyáltalán lehetővé tehette. Ne lineáris levezetésekben gondolkodjunk és ne csak 2-3 alakot vizsgálva alkossunk véleményt.  
 - Az indogermán jelentés alatt azt értjük, hogy az indoeurópai \*(s)kewd- = lő gyök egyezik a szkíta névvel, mely névvel kapcsolatban egyik — telluris – [[S/Shoot#^v82dg3\|megközelítése]] szerint azt mondhatjuk, hogy a szkíta = íjfeszítő (nép) jelentésű; telluris alatt pedig azt, hogy a történészek nem számolnak – egy másik megközelítéssel: csillagképekkel.
 

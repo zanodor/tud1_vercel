@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hagy/","title":"Hagy","tags":["Englishtexttranslated","containsaigenerateddiagram"],"created":"2024-11-09T01:30","updated":"2024-11-09T01:30"}
+{"dg-publish":true,"permalink":"/H/Hagy/","title":"Hagy","tags":["Englishtexttranslated"],"created":"2024-11-09T01:30","updated":"2024-11-21T18:17"}
 ---
 
 
@@ -64,3 +64,4 @@ metszmes -- tejút
 
 @enduml
 ```
+^hs2l7m

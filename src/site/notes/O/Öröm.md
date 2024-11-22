@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Öröm/","title":"Öröm","created":"2023-10-20T07:00","updated":"2024-10-26T03:44"}
+{"dg-publish":true,"permalink":"/O/Öröm/","title":"Öröm","created":"2023-10-20T07:00","updated":"2024-11-21T18:30"}
 ---
 
 
@@ -30,6 +30,7 @@ Még tőle való:
 - [[B/Bál\|Bál]] és [[A/Ahriman\|Ahriman]] címnél is írtuk, hogy a jó mellett a rossz is megjelenik. Az, hogy nép/ország neve is lehet a szitok eredője (pl. a finn Turja), itt is megmutatkozik. Sőt, itt konkrétan az [[O/Örmény\|örmény]]-Ahriman összefüggés esete állhat fenn.
 
 Ha már az Ahriman név szóba került: az [[O/Örmény\|örmény]] névvel valóban összeüt, ugyanakkor Örmény is lehet Öröm-An felbontású. Vagy ha megfordítjuk, öröm szavunk lehet Úr-Men -> \*Ur-(u)M -> öröm fejlődési sorozattal értelmezhető.  
+
 ```plantuml-svg
 @startuml
 left to right direction
@@ -48,7 +49,9 @@ card "Örmény" as w3
 w1 --> w2 : AN-nak (EN-nek) vett\nutórész leválása
 w3 <-- w1
 @enduml
-```
+```{ #spzxe1}
+
+
 Persze az -öm végződés az [[O/OM\|OM]]-nak (és így [[M/MA\|MA]]-nak) felel meg és az -öm az ör- szótag magánhangzójához illeszkedik. Az Ör pedig alanyi jogon [[U/UR\|Úr]] szavunkkal feleltethető meg. Öröm tehát annyi, mint Úr-Föld, azaz a földi élet örömei közül azon öröm, amely égi (isteni) vonatkozású.  
 - Némileg hasonló felbontású [[A/Álom\|álom]] szavunk.
 

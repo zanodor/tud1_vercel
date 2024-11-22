@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2024-11-07T00:59"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2024-11-21T18:16"}
 ---
 
 
 # Flexió
 
-#### Végvári József Ragozó rügyező nyelvünk...  
+#### Végvári József Ragozó-rügyező nyelvünk...  
 
 ...című írásában közli:  
 > A körülöttünk élő, illetve a világot ma uraló népek kivétel nélkül hajlító nyelveket beszélnek. A négyes felosztás, mely szerint vannak elszigetelő (kínai), hajlító (indogermán, sémi), ragozó (finnugor, török, busman, bantu nyelvek, több kaukázusi nyelv mint például csecsen és grúz, a kihalt sumér, baszk) és összegző vagy bekebelező (eszkimó, amerikai indián, ausztráliai) nyelvek. A mai angol eredendően hajlító, de vannak elszigetelő vonásai is.  

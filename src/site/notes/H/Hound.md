@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hound/","title":"Hound","tags":["Englishtexttranslated"],"created":"2023-10-30T01:01","updated":"2024-10-25T21:50"}
+{"dg-publish":true,"permalink":"/H/Hound/","title":"Hound","tags":["Englishtexttranslated"],"created":"2023-10-30T01:01","updated":"2024-11-19T11:41"}
 ---
 
 
@@ -31,7 +31,7 @@ Szintén [[S/SZAT\|SZAT]]-nál szóba került a hound = hund azonosítás mellet
 
 > It stood as the earthly homologue of the celestial Milky Way, whose gate – through which the westering sun passed – was guarded by the starry dogs, Canis major and Canis minor, and the dog stars Sirius and Procyon. On July 25, St. James of Compostello opened the gates of heaven to the souls of the dead.  
 > —  
-> Mint ilyen, az út a **a mennyei Tejút földi homológja volt, amelynek kapuját – amelyen keresztül a nyugat felé haladó nap áthaladt – a csillagkutyák, a Canis major és a Canis minor, valamint a Szíriusz és a Procyon** kutyacsillagok őrizték.  
+> Mint ilyen, az út **a mennyei Tejút földi homológja volt, amelynek kapuját – amelyen keresztül a nyugat felé haladó nap áthaladt – a csillagkutyák, a Canis major és a Canis minor, valamint a Szíriusz és a Procyon** kutyacsillagok őrizték.  
 
 [[S/Sunasepa\|Sunasepa]] és [[C/Cynosure\|Cynosure]] szavaknál a kutya farka került elő. Hogy a kutyának két farka van, elbizonytalanít abban, hogy tudjuk, mely oldalról kell a vizsgálatot indítani. A kutatók némelyike is felveti, hogy a kutya péniszéről lehet szó. A két idegen név magyar nyelv felől való vizsgálata nyomán inkább tűnik célravezetőnek a [[P/Penis\|penis]] szúró, beojtó, nemző funkciójából kiindulni, még akkor is, ha a későbbi értelmezések szerint Kynosoura a [[U/Ursa Minor\|Kis Medve csillagkép]] (Kis Göncöl) csillagkép rúdjára (három rúdcsillagára) utal. (Azóta lásd új infókat [[K/KUN\|KUN]] és [[G/Göncöl\|Göncöl]].) Igen ám, de ahogy Nimrúd (Oroszlánokat/Napokat Nemző-Rúd) nevében is, Rúd ismét csak a nemzőszervet hívja elő.  
 Az [[A/Apam Napat\|Apam Napat]] jelzőt is kiérdemlő "Tűz-Tér" Szíriusszal kapcsolatban felvetődött, hogy egykor, talán a [[F/Föld tengelyferdülése\|Föld tengelyferdülése]] előtti, a [[H/Hyperborea\|Hyperborea]]i, aranykori időkben lehetett(?!) Sarkcsillag, de egyelőre nehéz máshogy kutyacsillagot, [[K/Kutyanemzés\|kutyanemzés]]t elképzelni a [[T/TÁT\|TÁT]] sarkcsillag kapcsán, főleg nem [[P/Polaris\|Polaris]] idejében.  
