@@ -25,20 +25,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: 'npm'
       - run: npm ci
-      - name: Run npm audit
-        id: npm_audit
-        run: |
-          npm audit --production --omit=dev || echo "Audit failed, but continuing build."
-      - name: Print audit results
-        run: |
-          if [ "${{ steps.npm_audit.outcome }}" == "failure" ]; then
-            echo "Warning: Audit found vulnerabilities, but build will continue."
-          fi
-      - name: Run npm audit fix
-        run: npm audit fix || echo "npm audit fix failed, but continuing build."
-      - name: Run build
-        run: npm run build --if-present
-      - name: Run Tests
-        run: npm test
-      - name: Finalize Build
-        run: echo "Build completed. Note: Some steps may have warnings, but the build has not failed."
+      - name: Silent npm audit
+        run: npm audit --production --omit=dev || echo "Audit found vulnerabilities, but build will continue."
+      - run: npm run build --if-present
+      - run: npm test
