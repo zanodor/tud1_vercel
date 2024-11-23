@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Éh/","title":"Éh","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-11-06T16:20","updated":"2024-11-21T18:14"}
+{"dg-publish":true,"permalink":"/E/Éh/","title":"Éh","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-11-06T16:20","updated":"2024-11-23T03:08"}
 ---
 
 
@@ -111,4 +111,3 @@ hiú -- hue : rokon értelmű
 
 @enduml
 ```
-^ncyrlu
