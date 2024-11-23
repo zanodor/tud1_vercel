@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Metsz/","title":"Metsz","tags":["Englishtexttranslated"],"created":"2023-11-09T03:24","updated":"2024-11-21T18:26"}
+{"dg-publish":true,"permalink":"/M/Metsz/","title":"Metsz","tags":["Englishtexttranslated"],"created":"2023-11-09T03:24","updated":"2024-11-23T05:28"}
 ---
 
 
@@ -91,8 +91,7 @@ metsz -- katkata : hun párja
 metsz -- Metsik
 
 @enduml
-```{ #ql96pf}
-
+```
 
 
 

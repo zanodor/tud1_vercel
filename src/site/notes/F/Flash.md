@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flash/","title":"Flash","created":"2024-11-21T18:15","updated":"2024-11-21T18:15"}
+{"dg-publish":true,"permalink":"/F/Flash/","title":"Flash","created":"2024-11-21T18:15","updated":"2024-11-23T04:55"}
 ---
 
 
@@ -17,7 +17,6 @@ Jankovics Marcell Uránosz és Kronosz harcának leírásakor említi [[I/Ixion\
 
 [[O/Oláh\|Oláh]] címnél ugye sok mindenről volt szó, hiszen szerettük volna a walesi/vlach/oláh nevet helyre tenni. [[B/Black\|Black]] és [[B/Bleach\|bleach]], valamint [[B/Balog\|Balog]] fogalmainak végigjárása után megállapítottuk, hogy ők is a palóc nyelvből indított íjfeszítő fogalmat hordozzák nevükben, épp ahogy Magyar Adorján fentebb is erre utalt tulajdonképpen.  
 És ami egyszer nyílvessző, másutt hímvessző (fallosz); lám a fenti szavaknak tökéletesen meg is felel a görög `phallos` = hímtag név (lásd [[P/Phallic\|phallosz]]).  
-
 ```plantuml-svg
 @startuml
 left to right direction
@@ -31,8 +30,7 @@ card "Fallosz" as w2
 
 w1 -- w2 : B=F
 @enduml
-```{ #5z1a3e}
-
+```
 
 Még egy dologról kell itt beszélni. Arról, hogy a [[F/Flex\|flex]] szó eredetét adó latin `flectere` = hajlítani szó is azonos a fentiekkel. Azt látjuk tehát, mint más nyelvekben: az [[I/Ív\|ív]] = [[I/Íj\|íj]] összefüggését. Ahol görbe, homorú, hajlást kifejező szavak előkerülnek, ott az íj értelem is meg fog jelenni valahol (aztán ebből továbbmenve az [[E/Éh\|éh]], vágy és szerelem/szexualitás/nemzés, honnan a kutya, továbbá vezetés/Vezér fogalmai, bot, öv és hasonló értelmek; így jönnek létre a magyar utódnyelvek szavai).  
 Téridőbeli helyét tekintve stimmel is, [[L/Lemniszkáta\|lemniszkáta]] és más címnél írottak alapján.  

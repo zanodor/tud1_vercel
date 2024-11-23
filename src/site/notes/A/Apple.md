@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["Englishtexttranslated"],"created":"2023-10-11T10:10","updated":"2024-11-21T18:13"}
+{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["Englishtexttranslated"],"created":"2023-10-11T10:10","updated":"2024-11-23T04:53"}
 ---
 
 
@@ -99,8 +99,7 @@ apple -- épül : jelentés
 apple -- báalt : etimológia
 
 @enduml
-```{ #79y1nf}
-
+```
 
 ## Apple cég neve és logója
 

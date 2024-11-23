@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sógor/","title":"Sógor","created":"2024-11-08T15:26","updated":"2024-11-21T18:31"}
+{"dg-publish":true,"permalink":"/S/Sógor/","title":"Sógor","created":"2024-11-08T15:26","updated":"2024-11-23T05:37"}
 ---
 
 
@@ -54,4 +54,3 @@ zakar -- shohar : férj
 
 @enduml
 ```
-^o02zb3

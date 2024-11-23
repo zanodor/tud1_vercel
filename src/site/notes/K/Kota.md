@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kota/","title":"Kota","created":"2024-11-08T15:22","updated":"2024-11-21T18:23"}
+{"dg-publish":true,"permalink":"/K/Kota/","title":"Kota","created":"2024-11-08T15:22","updated":"2024-11-23T05:20"}
 ---
 
 
@@ -56,8 +56,7 @@ tyúk -- kotlik : hangutánzó
 kota -- kóta
 
 @enduml
-```{ #bvmxbc}
-
+```
 
 ## Kota - ház
 
@@ -99,4 +98,3 @@ kut -- kut2 : Magyar Adorján adata
 
 @enduml
 ```
-^ogfwrw

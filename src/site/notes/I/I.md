@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2024-10-25T21:53"}
+{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2024-11-23T05:19"}
 ---
 
 
@@ -76,11 +76,6 @@ Minden az [[E/Életkör\|életkör]]re vonatkozik, és ez ismételten a magyar c
 Az i hang változata az é, mely [[E/ÉL\|él]] ([[E/EL\|EL]] = [[I/IL\|IL]]) szavunkban szerepel. Vegyük észre, a szóvégi (másutt vendéghangként is üzemelő) L hang itt sem tesz hozzá értelmileg, maximum a fentebb említett R hanghoz hasonló igeképző értelme van (R = L; erről [[M/Mihály\|Mihály]] és más címnél is volt szó; Mihály eredete megint Machar – Magyar).  
 
 [[K/Kinetic\|Kinetic]] címnél is szerepelt az alábbi diagram:  
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/k/kinetic/#do159c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 ```plantuml-svg
 @startuml
 left to right direction
@@ -102,9 +97,6 @@ head2 --> EL : "eb = ív gyöke 'i'"
 EL ---> w3 : ion, jön, kam/gam, stb.
 @enduml
 ```
-
-</div></div>
-
 
 CzF él szavunknál tudósít, hogy rokon vele a szanszkrit `il` = mozog, mozdít ige. Tehát az él, ami mozog. [[E/Eros\|Erósz]] kapcsán is megfigyeltünk hasonlót, valamint [[Q/Quick\|quick]] és [[A/Animal\|animal]]/[[A/Animate\|animate]] címnél. A magyar lelkes szó is hasonlóan működik. [[E/Enthusiastic\|Enthusiastic]] szóban pedig a [[T/Tűz\|tűz]] szavunk jelenik meg.  
 Tehát az él, ami mozog, valamint aminek/akinek lelke van, amiben/akiben tűz van. Ez a tűz az ami szerelemre lobbant és a [[L/Love\|love]] címnél taglalt ideák is ide tartoznak.  

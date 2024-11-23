@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anya/","title":"Anya","created":"2024-11-08T00:20","updated":"2024-11-21T18:13"}
+{"dg-publish":true,"permalink":"/A/Anya/","title":"Anya","created":"2024-11-08T00:20","updated":"2024-11-23T04:50"}
 ---
 
 
@@ -22,7 +22,6 @@ Erről [[N/Ny\|NY]] címnél is volt szó.
 `Anya` és `magyar` is jelent anyát, vagyis inkább anyára utaló. Mindkettő lehet éganya, de a kettő közül csak Magyar/Mater-nek (lásd [[M/Mother\|mother]] és [[M/Mater\|mater]]) van [[F/Földistennő\|Földanyá]]ra ([[M/MA\|MA]], [[M/MAT\|MAT]], [[M/Mada\|mada]]) utaló jelentése, míg anya az [[A/AN, ÁN\|AN, ÁN]] és [[A/ANA\|ANA]] ég(isten) jelentése révén csak éganyaként vehető számba.  
 
 Azt is meg lehet figyelni, hogy ahogy az `ég` (lásd [[E/Ég\|Ég]]) szavunk megfordításaként kezelhető `gé` (lásd [[G/GE\|Gé]]) = föld jelentésű, úgy `MA` = föld, anya jelentésű etimon is tulajdonképpen (sumér) `AN` = ég jelentésű szó megfordítása.  
-
 ```plantuml-svg
 @startuml
 left to right direction
@@ -49,8 +48,7 @@ MA -- anya
 AN -- MA : megfordítása
 
 @enduml
-```{ #cm6wnv}
-
+```
 
 Lásd még [[S/Szómegfordítás#Ég és Föld jelentésű kétbetűs szavak megfordítása\|Ég és Föld jelentésű kétbetűs szavak megfordítása]], ahol kimondjuk, hogy MA lehetett előbb AN-nál.  
 

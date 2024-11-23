@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Game/","title":"Game","created":"2024-11-21T18:16","updated":"2024-11-21T18:16"}
+{"dg-publish":true,"permalink":"/G/Game/","title":"Game","created":"2024-11-21T18:16","updated":"2024-11-23T05:07"}
 ---
 
 
@@ -41,8 +41,7 @@ card "Vadászat = üzekedés = játék" as w2
 
 w1 <--> w2 : Ahol a vad = gím.
 @enduml
-```{ #zed9ki}
-
+```
 
 Érdekes (lenni tudni), hogy(an) kialakulhatott/alakulhatott ki egy nyelv, ami a Csudaszarvas űzését festi le azzal, hogy egyik szava két ilyen jelentéssel bizonyítsa mindezt. Mintha itt is egy tervezést látnánk: magyar kutasd majd a germán nyelveket, mert abból rekonstruálni tudod a múltat és abból a jövőt.  
 

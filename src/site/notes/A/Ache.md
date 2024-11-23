@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ache/","title":"Ache","created":"2024-03-16T22:48","updated":"2024-11-23T02:02"}
+{"dg-publish":true,"permalink":"/A/Ache/","title":"Ache","created":"2024-03-16T22:48","updated":"2024-11-23T04:32"}
 ---
 
 
@@ -69,7 +69,6 @@ ache -- algiaalgosz : "jelentése: fájdalom"
 ache -- ágy : ágynak esik (fájdalom)
 
 @enduml
-```{ #c1opap}
-
+```
 
   

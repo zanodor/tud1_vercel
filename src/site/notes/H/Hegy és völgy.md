@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2024-11-21T18:17"}
+{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2024-11-23T05:09"}
 ---
 
 
@@ -10,7 +10,6 @@ Hasonló eset áll fenn [[H/Hegy és barlang\|hegy és barlang]] esetében; lás
 
 Valójában a [[V/Völgy\|völgy]] szó a [[F/Föld\|föld]] szavunknak felel meg: a völgy a lentlétet, alsó állapotot mutatja, ahogy az alaki azonos föld is az éghez ([[E/Ég\|ég]] = [[H/Hegy\|hegy]]) képest lent van.  
 Egy táblázatban az azóta másutt is taglalt [[M/Men\|menny]]/[[M/MUN\|MUN]] és [[O/OR\|OR]]/[[U/UR\|UR]]/[[U/Űr\|űr]] esetekkel is kiegészítve így mutatnám be:  
-
 ```plantuml-svg
 @startuml
 left to right direction
@@ -37,8 +36,7 @@ rec1 -r-> w1 : A hegy a mennyig ér
 rec3 -r-> w3 : A hegy az égig ér (Ég hehezetesen és lágyítva: Hegy)
 rec2 -r-> w2 : Föld és Hold nőiség (GÉ = ÉG megfordítása)
 @enduml
-```{ #2hbvxn}
-
+```
 
 Az azóta több címnél szereplő passzus is kerüljön ide:  
 Az [[E/Ecliptic\|ecliptic]] és [[S/Sine\|sine]] címnél bemutatott szinusz-görbe hegy és völgy amplitúdó-pontjai a [[L/Lemniszkáta\|lemniszkáta]] diagramon egy pontba konvergálva jelennek meg.  

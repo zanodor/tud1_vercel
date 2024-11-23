@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Öröm/","title":"Öröm","created":"2023-10-20T07:00","updated":"2024-11-21T18:30"}
+{"dg-publish":true,"permalink":"/O/Öröm/","title":"Öröm","created":"2023-10-20T07:00","updated":"2024-11-23T05:35"}
 ---
 
 
@@ -49,8 +49,7 @@ card "Örmény" as w3
 w1 --> w2 : AN-nak (EN-nek) vett\nutórész leválása
 w3 <-- w1
 @enduml
-```{ #spzxe1}
-
+```
 
 Persze az -öm végződés az [[O/OM\|OM]]-nak (és így [[M/MA\|MA]]-nak) felel meg és az -öm az ör- szótag magánhangzójához illeszkedik. Az Ör pedig alanyi jogon [[U/UR\|Úr]] szavunkkal feleltethető meg. Öröm tehát annyi, mint Úr-Föld, azaz a földi élet örömei közül azon öröm, amely égi (isteni) vonatkozású.  
 - Némileg hasonló felbontású [[A/Álom\|álom]] szavunk.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2024-11-21T18:27"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2024-11-23T05:31"}
 ---
 
 
@@ -233,8 +233,7 @@ w5 -- w8
 head -- w6
 w6 -right- w7
 @enduml
-```{ #gtt556}
-
+```
 
 ### Ördög mint Sátán
 

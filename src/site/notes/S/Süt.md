@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2024-11-21T18:33"}
+{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2024-11-23T05:37"}
 ---
 
 
@@ -49,8 +49,7 @@ card "Skytha" as w3
 w1 -- w2
 w2 -- w3 : IE ~*(s)kewd-
 @enduml
-```{ #579hpe}
-
+```
 
 Amikor a görög (által lejegyzett) [[S/Szkíta\|skytha]] név indogermán jelentése nyomán eljutunk – akár a sima s-sel ejtett angol [[S/Shoot\|shoot]] igével hasonlítva – süt igénkhez, ne gondoljuk, hogy a süt nyomán keletkezett volna a szkíta név, vagy hogy a szkíta nyomán keletkezett volna süt. Éppen arról van szó, hogy a süt szónak olyan magyar-hun flexiós vagy poszt-magyar-hun torzult változatát kell keresni, mely a skytha név lejegyzését egyáltalán lehetővé tehette. Ne lineáris levezetésekben gondolkodjunk és ne csak 2-3 alakot vizsgálva alkossunk véleményt.  
 - Az indogermán jelentés alatt azt értjük, hogy az indoeurópai \*(s)kewd- = lő gyök egyezik a szkíta névvel, mely névvel kapcsolatban egyik — telluris – [[S/Shoot#^v82dg3\|megközelítése]] szerint azt mondhatjuk, hogy a szkíta = íjfeszítő (nép) jelentésű; telluris alatt pedig azt, hogy a történészek nem számolnak – egy másik megközelítéssel: csillagképekkel.

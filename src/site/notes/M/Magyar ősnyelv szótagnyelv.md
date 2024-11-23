@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["containstransclusions"],"created":"2023-10-09T06:36","updated":"2024-11-07T00:59"}
+{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["containstransclusions"],"created":"2023-10-09T06:36","updated":"2024-11-23T05:17"}
 ---
 
 
@@ -75,12 +75,7 @@ UR/OR/AR/ER/ÉR: igeképző (igekötő);
 AN/ON/EN (ÁNY/ONY/ENY): igeképző (igekötő);  
 OG, ÖG, ÉG, EG: igeképző (igekötő).  
 
-[[I/Isten#Isten kéthangos nevei és állandó jelzői\|Isten kéthangos nevei és állandó jelzői]] címnél szereplő diagram:  
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/i/isten/#u4qqh" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
+[[I/Isten#Isten kéthangos nevei és állandó jelzői\|Isten kéthangos nevei és állandó jelzői]] címnél is szereplő diagram:  
 ```plantuml-svg
 @startuml
 left to right direction
@@ -116,9 +111,6 @@ main -left-w6 : K (G) -> GY (TY, T, D)
 main -right-w7 : S, SZ
 @enduml
 ```
-
-</div></div>
-
 
 [[A/AN, ÁN#An/Án, Any, On, Ony, En, Eny, stb. szóvégződések a magyar és magyar-utód nyelvű szóösszetételekben\|An/Án, Any, On, Ony, En, Eny, stb. szóvégződések a magyar és magyar-utód nyelvű szóösszetételekben]] cím/alcímnél írottakat is lásd.  
 Lásd még legutóbb [[M/Magyar szavak idegen nyelvekben\|magyar szavak idegen nyelvekben]] címnél írottakat is.  

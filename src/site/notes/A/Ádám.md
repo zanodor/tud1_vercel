@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ádám/","title":"Ádám","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-18T11:49","updated":"2024-10-22T21:31"}
+{"dg-publish":true,"permalink":"/A/Ádám/","title":"Ádám","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-18T11:49","updated":"2024-11-23T04:59"}
 ---
 
 
@@ -14,11 +14,6 @@
 > Ádám nevét a zsidó tudósok pontosan egy **Adamu** névből vezetik le, ami viszont föld, vörös föld jelentésű. Az `adam` ember, amit az `adamah`, `adamu` névből vezetnek le, valamiféle olyan megokolással, hogy Isten Ádámot az anyaföldből teremtette, ezért nő nemű az Adamu. Megjegyzendő, ez képtelenség. A második asszír, bizonyára még Assur városba való király, Adamu neve nem lehet Anyaföld. Nem viselték volna el alattvalói ezt a nevet, gondoljunk csak bele. A név kétségtelenül magyar nyelvű, Ada-Mu a helyes értelmezés. Ada az Ata zöngés alakja, a szumerok rendre Ad, Ada, Adda formában írták. Valójában az Ata, Atya, Atyus, Atyec, Atta és a zöngés formák mind a Nap nevei, az Utu, Udu variánsai. A magyarok őse is Magor, aki a Csillagok Ura, vagyis a Nap. Ada-Mu nevének második része, lássunk csodát, a Mu. Itt a rejtélyes kontinens neve egy királynévben. A Mu ismételten magyar szó, jelentése Fény, "l" képzővel Mul, ami Csillag, továbbá Múl formában a múló idő neve, "t" helyképzővel Múlt, vagyis a Csillagkor ideje, ami elmúlt, de amikor még minden ember egyenlő volt a másikkal, mert minden ember önmagában is csillag volt, az Égisten akarata szerint, vagyis az Egyisten gyermeke volt mindenki. Ada-Mu tehát a Mu Atya jelentést tartalmazza. Ada-Mu hátsó lekopással Adam, aki az Atyám, férfi, és nem nő, nem is az anyaföldből teremtetett, hanem a csillagokból jött a Földre. A Mu Fény, a Me és Mi változata, Ada-Mu ezért lehet Fényes-Atya, sőt, Nap-Atya is, ha Ada = Udu.  
 - Dudás Rudolf Az éltető nap című könyvében Ad-Damu összetételre mutat, de nem Atya Fia ([[D/Dumu\|dumu]]) jelentéssel adja vissza.
 - Itt még csak egy észrevételt tennék, hogy [[A/Ad\|ad]] megfeleltethető az [[E/Egy\|egy]] szóalakjának is, mely Isten állandó jelzője.  
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/f/flexio/#d4wle3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 ```plantuml-svg
 @startuml
 skinparam BackGroundColor transparent
@@ -51,9 +46,6 @@ head --w4 : Jézus ácsként isteni\nmunkát végez (teremtés)
 head -up->w5 : Sumér **Utu** napisten
 @enduml
 ```
-
-</div></div>
-
 
 Bakos Attila A Duna Evangéliuma című könyvének 253. oldalán az [[A/Aton\|Aton]], Adón ([[A/Adonisz\|Adónisz]], Adony), [[A/Atum\|Atum]] (A-tum-Ra) napisten-nevekkel (szép arcú "jelentést" is hoz) együtt említi, nem alaptalanul.  
 
