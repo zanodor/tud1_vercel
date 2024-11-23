@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ache/","title":"Ache","created":"2024-03-16T22:48","updated":"2024-11-21T18:12"}
+{"dg-publish":true,"permalink":"/A/Ache/","title":"Ache","created":"2024-03-16T22:48","updated":"2024-11-23T02:02"}
 ---
 
 
@@ -28,19 +28,32 @@ skinparam card {
     BackgroundColor #f9f5d7
 }
 
-rectangle "<b>ache</b>" as ache
-card "magyar <color:#e7545c>agy</color>" as agy
-card "magyar <color:#e7545c>ég</color>" as ég
-card "magyar <color:#e7545c>ék</color>" as ék
-card "magyar <color:#e7545c>áhít</color>" as áhít
-card "magyar <color:#e7545c>éh</color>" as éh
-card "török <color:#e7545c>aç</color>" as acs
-card "latin <color:#e7545c>egere</color>" as egere
-card "ófelnémet <color:#e7545c>(h)eishan</color>" as heishan
-card "német <color:#e7545c>(h)eishe</color>" as heishe
-card "szumér <color:#e7545c>AŠ</color>" as aš
-card "görög <color:#e7545c>algia</color>, <color:#e7545c>algosz</color>" as algiaalgosz
-card "magyar <color:#e7545c>ágy</color>" as ágy
+rectangle "<b>ache</b>" as ache {
+}
+card "magyar <color:#e7545c>agy</color>" as agy {
+}
+card "magyar <color:#e7545c>ég</color>" as ég {
+}
+card "magyar <color:#e7545c>ék</color>" as ék {
+}
+card "magyar <color:#e7545c>áhít</color>" as áhít {
+}
+card "magyar <color:#e7545c>éh</color>" as éh {
+}
+card "török <color:#e7545c>aç</color>" as acs {
+}
+card "latin <color:#e7545c>egere</color>" as egere {
+}
+card "ófelnémet <color:#e7545c>(h)eishan</color>" as heishan {
+}
+card "német <color:#e7545c>(h)eishe</color>" as heishe {
+}
+card "szumér <color:#e7545c>AŠ</color>" as aš {
+}
+card "görög <color:#e7545c>algia</color>, <color:#e7545c>algosz</color>" as algiaalgosz {
+}
+card "magyar <color:#e7545c>ágy</color>" as ágy {
+}
 
 ache -- agy : fáj
 ache -- ég : égő fájdalom
