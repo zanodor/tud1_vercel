@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/CS/","title":"CS","created":"2023-10-22T03:23","updated":"2024-10-25T16:23"}
+{"dg-publish":true,"permalink":"/C/CS/","title":"CS","created":"2023-10-22T03:23","updated":"2024-11-28T03:43"}
 ---
 
 
@@ -7,7 +7,8 @@
 
 
 
-Péterfai János szerint:  
+#### Péterfai János szerint:  
+
 > A nyelvfejlődésben a Cs hang később jelent meg az S/Sz-nél, így a [[C/CSAN\|CSAN]]-hoz képest a [[S/SAN\|SAN]] a régebbi, és valóban, a kínai és japán szavak is ezt a régi formát követik ill. tartották meg.  
 
 Másutt (egyébként affrikátának hívják a c, cs, ds/dzs hangokat):  
@@ -22,5 +23,5 @@ A [[T/TY\|ty]]-ről cs hangra cserélődésről jegyezzük meg, hogy a Mikecs L�
 
 ## Kicsinyítő cs
 
-Leginkább kicsinyítő szerepe van, olyan szavakban és nevekben mint menyecske, Annácska, stb.  
-Ezen forma a szláv nyelvekben gyakran hallható, pl. gyévocska stb.
+Leginkább kicsinyítő szerepe van, olyan szavakban és nevekben mint [[K/Kincs\|kincs]], menyecske, Annácska, stb.  
+Ezen forma a szláv nyelvekben is gyakran hallható, pl. gyévuska/gyévocska stb.  

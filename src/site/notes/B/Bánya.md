@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bánya/","title":"Bánya","created":"2023-11-09T07:19","updated":"2024-10-23T20:22"}
+{"dg-publish":true,"permalink":"/B/Bánya/","title":"Bánya","created":"2023-11-09T07:19","updated":"2024-11-28T03:43"}
 ---
 
 
 # Bánya
 
-[[B/Bagnio\|Bagnio]] címnél már volt róla szó. Itt annyi kiegészítést kell tenni, hogy a banya szóval való azonossága abban állhat, hogy mindkettő az alvilággal (így elmúlással, halállal, pokollal) hozható kapcsolatba. (Banyáról lásd [[C/Crone\|crone]] és [[H/Három istennő\|három istennő]].)  
+[[B/Bagnio\|Bagnio]] címnél már volt róla szó. 
+Itt annyi kiegészítést kell tenni, hogy a magyar nyelv speciális gondolkodása, hogy a [[F/Fény\|fény]] szó párjaként kell megmutatkoznia, de a magas magánhangzó helyen egy méllyel, mert ásunk; még a [[B/Banya\|banya]] szóval való azonossága is abban állhat, hogy mindkettő az alvilággal (így elmúlással, halállal, pokollal) hozható kapcsolatba. (Banyáról lásd [[C/Crone\|crone]] és [[H/Három istennő\|három istennő]].)  
 
 #### Jankovics Marcell írja:  
 
@@ -14,7 +15,7 @@
 
 #### Kandra Kabos Magyar Mythologia...
 
-...című könyvében szerepelt:  
+...című könyvében szereplő adata rávilágíthat a fürdő jelentésű idegen szavak valódi eredetére:  
 > A fürdő használata fajunknál a mohácsi vészig sokkal nagyobb volt, mint azóta. A Kalevala nagyon emlegeti a fürdözést, s kitűnik belőle, hogy e rokonaink ősidőkben vendégségeiket gőzfürdőkben szokták tartani s kedves vendégeik részére külön fűtötték be a gőzfürdőt. Galeotti szerint Mátyás korában még hasonlóan jártak el a magyar főurak. A régi magyar nyelv ezen helyiségeket "bánya"-nak nevezte, honnét van a népies szólás is: olyan meleg, mint a bánya.  
 
 #### Varga Zsigmond Az ősmagyar mitológia...
