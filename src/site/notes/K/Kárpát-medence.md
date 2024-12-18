@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2024-11-05T21:45"}
+{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2024-12-16T18:44"}
 ---
 
 
@@ -278,7 +278,9 @@ Erre az időszakra vonatkozóan ...
 
 > A harmadik hullámban a hunokkal jött magyarok érkeztek a Kárpát-medencébe, az északi ágból a mater nép, valamint rokon nép: a székely-magyarok 2/b nemzetségei a 4-5. században.  
 
-Remete Farkas László Magyarok eredete című tanulmányából folytatjuk:  
+#### Remete Farkas László Magyarok eredete...  
+
+...című tanulmányából folytatjuk:  
 > 400-453. között: Hunok bevonulása a Kárpát-medencébe. Velük együtt visszatérnek egyes "keleti- és meotisi-kárpáti" csoportok is. Csatlakozva hozzájuk a Káma-Pecsora környékéről Meotis-hoz vándorolt jugor népességek is. Ekkor térnek vissza Dunántúlra a "vegierek", vagyis, a Visztula-folyó környéki "északi-kárpátiak". Egyesülve a Kárpát-medencében élő "helyi-kárpáti" népességekkel. A "keleti-, és meotisi-kárpáti" csoportok egy része a Hun Birodalomba tagozódik.  
 > 453-560. között: [[A/Atilla hun király\|Atilla hun király]] halála után a "helyi-kárpáti" népesség részben gepida és longobárd uralom alá kerül. Egy kisebb részük Erdélyben elkülönül (kutrigurok, székelyek). Más részük a Kárpátok-Don közti területre vonul (utigurok). Elfoglalják a Krím-félszigetet, egyesülnek a "meotisi-kárpátiak" csoportjaival. A bolgárokkal közösen kiterjesztik hatalmukat a Don-Dnyeszter menti területekre, kapcsolatba kerülve (részben szövetségben) az ottani "keleti-kárpáti" népességekkel.  
 > 560-634. között: Az avarok elfoglalják a Kárpát-medencét. "Keleti-kárpátiak" egy része (a fehér ugor) visszatér a Kárpát-medencébe. Trónviszály során kiűzik a bolgárokat. Kárpát-medencében kettős avar-kárpáti kaganátus alakul ki. "Keleti-kárpátiak" és bolgárok az avarok uralma alá kerülnek.  
@@ -306,7 +308,7 @@ Caius Plinius Secundus (görög író, polihisztor) "Naturalis Historiae" című
 
 Nagy Lengyel Krónika (készült 1273. körül) így emlékezik meg a magyarokról: "Ve(n)gerek egy Vrka \[Wkra\] nevezetű folyóról kapták nevüket, amely abból a nagy tóból folyik az Északi-tengerhez, amelynél most Przemyslav város fekszik. Azután (az i.sz. IV. század végén, a hunok idejében) a ve(n)gerek feleségeikkel és gyermekeikkel visszatértek a pannonok földjére, ahonnan eredtek, ..."  
 
-Folytatást RFL-tól lásd itt [[K/Kimmér\|kimmér]] és [[S/Szkíta\|szkíta]]. Majd ami ide tehető:  
+Folytatást Remete Farkas Lászlótól lásd [[K/Kimmér\|kimmér]] és [[S/Szkíta\|szkíta]]. Majd ami ide tehető:  
 > Kimmer, szkíta bevonulás... az első visszatérés?  
 > Herodotosz (görög történész, író), történeti gyűjteményében (i.e. 480. körül) ezt írja: "Arimaszpik \[Ural környékiek\] kikergették az isszedonokat \[Kászpi-környéki\] saját területükről, ezután az isszedónok kiszorították a szkítákat \[nyugat felé\], a déli tengernél élő kimmerek pedig a szkíták nyomására bal felé \[Kárpátok irányába\] elhagyták hazájukat... Eszerint az ázsiai nomád szkíták a massagetáktól szorongva átkeltek az Araxész folyón, kimmerek földjére vándoroltak \[Kárpátok és Kaukázus közti terület\]; az a föld ugyanis, amelyet ma a szkíták laknak, valamikor a kimmereké volt. Az erős szkíta sereg közeledtére a kimmerek tanácskoztak, ... \[vitában\] szétváltak, egyenlően erős felekként egymás ellen fordultak. A kimmerek népe valamennyi halottját Tyras folyó \[Dnyeszter\] mellé temette, sírjuk ma is látható, a temetés után pedig kivonultak az országból, míg a benyomuló szkíták elfoglalták a lakatlan földet" "... Mivel Darius \[perzsa király\] nem hagyott fel az üldözéssel, szkíták a haditervüknek megfelelően feladták azon törzsek területének védelmét, kik megtagadták segítségüket, mindenekelőtt a melanhlenok területét. A perzsák és szkíták inváziója megrémítette a melanchlainok-at. Majd a szkíták az androphage-ok területére csalogatták az ellenséget. Ezeket is megrémítve, visszavonultak a neurik területére \[Tisza környékére\]. Ezt követően, a neurikat is rémületbe ejtve, a szkíták az agathyrsik felé \[Maros völgyébe\] visszavonultak. ... Azonban a melanhlenok, andtophagok és neurik nem mertek ellenállni, se a szkítáknak, se a perzsáknak... rémülten menekültek tovább északabbra, lakatlan területekre. A szkíták nem hatoltak be az agathyrsik területére, mivel azok nem kívánták őket átengedni, hanem megpróbálták a perzsákat átcsalogatni a neurik földjéről, a saját földjükre."  
 

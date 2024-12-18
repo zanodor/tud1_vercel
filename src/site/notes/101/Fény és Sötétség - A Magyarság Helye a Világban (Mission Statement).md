@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-11-18T22:12"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-12-16T13:47"}
 ---
 
 
@@ -66,6 +66,8 @@ Egy másik dolog, hogy hosszabb cikkek betöltésénél az olvasó nem tud rögt
 
 Az is kiderült, hogy sajnos az ingyenes app korlátai közé tartozik az app-építés időbeli limitje. Ami az jelenti, hogy néhány ezer file-ban kell maximalizálnom a feltöltést. A fontosabb témák mindegyike viszont feltöltésre kerül.  
 
+
+A különböző böngészőkre telepíthető, népszerű Dark Reader bővítmény az oldal világos és sötét témáját nem jól kezeli, átértelmezi, így erre az oldalra le kell tiltani.  
 
 A weboldal úgynevezett favicon-ja egy szarvast ábrázol egy körkeresztben. Tehát nem sátánista, szabadkőműves, sorosista, billgécista vagy akármilyen jelkép. A régi hitben a szarvas(ünő) isteni szimbólum és a körkereszt közepén is Isten van. Aki ettől az irányzéktól eltér (el[[T/Tévely\|tévely]]edik), bűnt követ el; lásd e témáról [[H/Hamartia\|hamartia]] és [[I/Íj és a nyíl#Az íj és a nyíl ősi vallási eszköz\|íj és a nyíl]] címnél.  
 

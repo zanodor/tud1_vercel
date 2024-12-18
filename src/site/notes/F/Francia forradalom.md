@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/F/Francia forradalom/","title":"Francia forradalom","created":"2023-11-28T09:21","updated":"2024-10-25T18:53"}
+{"dg-publish":true,"permalink":"/F/Francia forradalom/","title":"Francia forradalom","created":"2023-11-28T09:21","updated":"2024-12-17T05:07"}
 ---
 
 
 # Francia forradalom
 
-A "Nagy francia forradalom" se nem nagy, se nem francia, és forradalomnak is inkább ribillió, ahogy Kubínyi Tamás mondja.  
+A "Nagy francia forradalom" se nem nagy, se nem francia, és forradalomnak is inkább ribillió, ahogy Kubínyi Tamás mondja. Az emberiség újra [[R/Rabszolgatartás\|rabszolgásításá]]nak kezdete, immáron egy más fedőtörténet alatt, a lélek és a vallás eltörlése, mind a mai napig hat. A jelenkori világhatalom terveiben azóta is ez a [[M/Materializmus\|materialista]] [[S/Sátánizmus\|sátánizmus]] tombol.  
 
 Szöllősi Ildikó több előadásában kitér rá, hogy milyen jelentősége is volt valójában és kik és milyen mozgatórugók voltak a hátterében.  
 Az [alábbi](https://www.youtube.com/watch?v=l8HXhN1N9YE) Atilla akták 3. rész című ÁKA előadásban Kubínyi Tamás 14:29-nél szól arról, hogy ma is a középkorban élünk: közelebb vagyunk a sötét középkorhoz, mint ama felvilágosodott világrendhez, amit hirdetnek nekünk. Hiszen 1789 is úgy kezdődött, hogy a templomokat felgyújtották, a híveket legyilkolták, a kereszténységet pusztították.  

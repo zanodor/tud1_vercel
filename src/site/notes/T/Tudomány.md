@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated"],"created":"2023-10-05T06:45","updated":"2024-10-24T01:47"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated"],"created":"2023-10-05T06:45","updated":"2024-12-12T17:53"}
 ---
 
 
@@ -40,12 +40,12 @@ A tudományágak összeillesztésének nehézségeiről:
 
 Másutt:  
 > A természettudományok nyugati felosztása hibás. A fizika, biológia, pszichológia hármassága hallgatólagosan feltételezi, hogy az élet lélektelen, és a lélek egy más, külön világhoz tartozik. A valóságban az élet hatóerőit, okozati erejét az érzések és gondolatok jelentik, tehát a lélek és az értelem tudománya az, ami az anyag tudománya mellett a természettudomány másik két alapvető tudománya; ezeket nevezzük átfogó biológiának és pszichológiának.
-- Hasonló sorai több más címnél szerepeltek.  
+- Hasonló sorai több más címnél szerepeltek.
 
 Előadásának bevezetőjében pedig ([[V/Vallás\|vallás]] címnél, külön alcímnél is szerepelt):  
 > "...A mai időket sújtó minden katasztrófának éa nyomornak végső oka a világegyetemről alkotott \[megfelelő – G. A.\] elmélet hiánya," írja Albert Schweitzer (1923. XV).  
 > "Legbensőbb meggyőződéseink az életről és a világról alkotott felfogásunkból adódnak. Annyira válunk képessé arra az egyetemes szellemi és anyagi haladásért munkálkodásra amit civilizációnak nevezünk, amennyire megerősítjük hogy a világ és az élet valamiféle jelentéssel, értelemmel bír," írta Albert Schweitzer.  
-- A megoldást is megadja; lásd [[M/Materializmus\|materializmus]].  
+- A megoldást is megadja; lásd [[M/Materializmus\|materializmus]].
 
 A tudomány átka, hogy kénytelenek vagyunk bizonyos terminusokhoz ragaszkodni, úgy is, hogy tudjuk vagy tudni való, hogy egyes címkék mögött nincs is történelmi valóság. Például magát [[S/Szkíta\|szkíta]] néven illető nép nem létezett, azok hunok/magyarok voltak (de átalakultak és ezért egyszerűbb számunkra is egy új azonosítás használata), proto-indoeurópai nyelvet beszélő népek szintén nem léteztek.  
 Amit a [[S/Selyemút\|Selyemút]] kapcsán Grandpierre Atilla (ott bevezetőben) ír, úgy értelmezendő, hogy a Selyemút egy újabb kori civilizációs vívmány, de a hatalmas Pusztán korábban is volt élet és közlekedés, de még egyelőre feltáratlan.  
@@ -92,7 +92,7 @@ Egy másik idevehető zsidó téma, hogy pont a zsidó isten hozza a(z egyébké
 
 Elválasztják az evolúciót az [[K/Kreacionizmus\|isteni teremtés]]től, holott itt sem vagy-vagyban, hanem is-isben kell gondolkodni.  
 
-Még az előzőekre visszatérve, az evolúció elmélet és minden más elmélet a **progresszivista felfogás**, mely szerint minden fejlődik, az ember is a majomból milyen messzire jutott, most már a transzhumanizmus a következő szint.  
+Még az előzőekre visszatérve, az evolúció elmélet és minden más elmélet a **progresszivista felfogás**, mely szerint minden fejlődik[^4], az ember is a majomból milyen messzire jutott, most már a transzhumanizmus a következő szint.  
 Felfelé ível a görbénk, ami egyenes, mert lineáris a gondolkodás, dacára annak, hogy a természet rendje szerint az élet körszerű; nem lehet lineáris. Így a [[K/Kali Yuga\|Kali Yuga]] borzalmaira, amit át kell élnünk, nincsen felkészítve az emberiség (de legalábbis az a Nyugat, amihez mi is tartozunk, nincs, nem is hallott róla).  
 
 [[N/Nyelvészet mint tudomány\|Nyelvészet mint tudomány]] címnél pedig arról szóltunk, hogy a szavak írott megjelenése számít (a tudomány szerint).  
@@ -255,3 +255,6 @@ Idem per idem érvelés többször előjön Götz László Keleten kél a Nap c�
 Azaz pontosan azzal "bizonyítanak", amit először be kellene bizonyítaniok. A `Pelz` szót ugyanis éppen azért nyilvánították annakidején latin jövevényszóvá a németben, mert nem követte Grimm játékszabályait. Éppúgy, mint a latin `habeo` ~ német `haben` (bír, neki van) vagy az óind `hrd` – német `Herz` (szív) sem (l. I. könyv 113. és 116. old.). Tehát "idem per idem"; a hangtörvényes *circulus vitiosus* tipikus példája.  
 Másutt:  
 Ennyi ingadozás, habozás, sőt, mint Sinor nyíltan kimondja, egyenesen körben forgás, "idem per idem"-érvelés, az ok és az okozat sorrendjének ésszerűtlen felcserélgetése láttán önkéntelenül is felvetődik a kérdés...  
+
+[^4]: Lábjegyzet:  
+[Ezen](https://www.youtube.com/watch?v=f2Lgu4wIE3M&list=PLJk0yT4erxuRcCMBujshjWZ-KNAHAWCx6&index=12) Sylvie Ivanova videóban is erről szól 1:10-től: az új struktúrák jobbak, mint a régiek.  

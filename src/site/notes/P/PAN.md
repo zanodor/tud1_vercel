@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/PAN/","title":"PAN","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-05T01:18","updated":"2024-10-25T23:43"}
+{"dg-publish":true,"permalink":"/P/PAN/","title":"PAN","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-05T01:18","updated":"2024-12-03T17:14"}
 ---
 
 
@@ -14,7 +14,7 @@ Lásd még [[P/Pán\|Pán]].
 # Pan 2)
 
 Kerek alakú mint a Nap: serpenyő. Sütünk benne, ahogy a Nap is ezt teszi. Akár a \*penyő szó rontása is lehet, de önállóan is megállja helyét. Lásd még [[P/Pán\|Pán]].  
-A [[P/Pan-Hu\|Pan-Hu]] címnél előjövő kínai `p'an`= tál, tányér szó azonos vele.  
+A [[P/Pan-Hu\|Pan-Hu]] címnél előjövő kínai `p'an` = tál, tányér szó azonos vele.  
 
 A francia palacsintasütő (`poêle`) nevét [[B/Bál\|Bál]] nevéből lehet levezetni; lásd ott.  
 

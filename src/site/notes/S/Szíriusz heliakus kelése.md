@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2024-11-19T11:43"}
+{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2024-12-16T13:44"}
 ---
 
 
@@ -63,7 +63,7 @@ A Walter Cruttenden által is hivatkozott Jed Buchwald, a Caltech Egyetem profes
   
 
 Persze az egyiptomi kultúrát hivatalosan időben úgy helyezik el, hogy beleilleszkedjen a zsidó teremtéstörténetbe, így mondhatják, hogy ezekben az időkben még látható volt az – egyébként általánosan pusztán fényes marker-csillagként kezelt – Szíriusz.  
-Ez a DCS-féle levezetési hiba tehát abból származik, hogy a planetárium szoftverek is olyan NASA-féle adatokat használnak, mely a téves [[P/Precesszió\|precesszió]]-jelenségre építenek (szándékosan, vagy sem, most mindegy). ([[K/Karácsony\|Karácsony]] címnél is szerepeltek Dobos Csanád interneten megosztott Miért december 25 karácsony napja című cikkéből szedett adatai: ott is helyre kellett tenni a dolgot.)  
+Ez a Dobos Csanád féle levezetési hiba tehát abból származik, hogy a planetárium szoftverek is olyan NASA-féle adatokat használnak, mely a téves [[P/Precesszió\|precesszió]]-jelenségre építenek (szándékosan, vagy sem, most mindegy). ([[K/Karácsony\|Karácsony]] címnél is szerepeltek Dobos Csanád interneten megosztott Miért december 25 karácsony napja című cikkéből szedett adatai: ott is helyre kellett tenni a dolgot.)  
 
 ![assets/Sziriuszheliakuskelese_image4.png|invert_dark](/img/user/S/assets/Sziriuszheliakuskelese_image4.png)  
 Cikke vége felé ennél is továbbmegy Buchwald:  

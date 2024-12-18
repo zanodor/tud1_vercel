@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2024-11-23T05:00"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2024-12-12T00:43"}
 ---
 
 
@@ -65,9 +65,10 @@ head -up->w5 : Sumér **Utu** napisten
 ```
 
 Továbbá vannak [[H/Huny\|huny]], [[H/Hany\|hany]] (mint [[H/Hanyatlik\|hanyatlik]]), [[K/KONY\|kony]] ([[K/Konyul\|konyul]]), [[K/KUM\|kum]] (`lekum` a Nap), valamint a Nap [[E/Ecliptic\|ekliptiká]]n való esésének téridőbeli pontját jelölő [[K/KAN\|kan]] ([[C/Canis Maior\|Canis Maior]]) (mely a [[G/Gonosz\|gon]]osz félévet nyitja), és sok más magyar-utód elnevezés (a Rák [[C/Cancer\|Cancer]] nevének előtagja, a Rák japán neve, stb.).  
-Vagy ott van még a [[S/Süt\|süt]] ige [[S/Sötét\|sötét]]/[[S/Sötét\|setét]] szavak gyökével való megfelelése, [[K/Kör\|kör]] szóbokrunk olyan tagjai, mint [[G/Gyűrű\|gyűrű]], `gördül`, [[F/Fal\|fal]] főnév [[F/Fél\|fél]] szóval alkotott flexiós viszonya, vagy például felhívhatjuk a figyelmet [[E/Éh\|éh]] = [[A/Áhít\|áhít]], [[A/Akar\|akar]] szavak gyökeinek azonosságára.  
+Ott van még a [[S/Süt\|süt]] ige [[S/Sötét\|sötét]]/[[S/Sötét\|setét]] szavak gyökével való megfelelése, [[K/Kör\|kör]] szóbokrunk olyan tagjai, mint [[G/Gyűrű\|gyűrű]], `gördül`, [[F/Fal\|fal]] főnév [[F/Fél\|fél]] szóval alkotott flexiós viszonya, vagy például felhívhatjuk a figyelmet [[E/Éh\|éh]] = [[A/Áhít\|áhít]], [[A/Akar\|akar]] szavak gyökeinek azonosságára.  
 A kutyára visszatérve, [[E/EB\|eb]] és [[A/Apa\|apa]] szavaink [[I/Ív\|ív]] szavunkkal való viszonya említhető még ilyen szinten (lásd még témát [[L/Lemniszkáta\|lemniszkáta]]), de például magánhangzó cserével a [[M/Más\|más]] (lásd még [[M/MAS\|MAS]]) fiú, hős jelentése az, ami majd a [[M/Mese\|mese]] szavunk létrehozója is lesz.  
 Sok más szópár ismert: [[V/Vessző\|vessző]] – [[F/Fasz\|fasz]]; [[V/Víz\|víz]] szavunk [[V/Vedel\|vedel]], [[V/Vödör\|vödör]], [[V/Vád\|vád]]ol, [[V/Vese\|vese]] szavakban ugyanúgy megtalálható; [[H/Ház\|ház]] szavunk (közös gyöke) ismerendő fel olyan szavakban, mint [[H/HAS\|has]], [[K/KAS\|kas]], [[K/KÁD\|kád]], [[K/Kagyló\|kagyló]], stb.  
+M>N változásra sok példa van; itt csak a magyar [[M/Magas\|magas]] szó gyökét mutassuk be [[N/Nagy\|nagy]] szavunk párjaként.  
 [[M/Magyar szavak, szórészek alakváltozatai\|Magyar szavak, szórészek alakváltozatai]] címnél más példákat is bemutattunk.  
 A fentebb idézett Végvári József [[S/Szócsaládok\|szócsalád]]-rendszere is szavak hajlított hangjaiból épülő szópárjai közti lehetséges kapcsolatok feltárásában segíthet (pl. [[O/Ostya\|ostya]]/[[T/Tészta\|tészta]] ← [[T/Test\|test]]).  
 
@@ -76,7 +77,7 @@ A fentebb idézett Végvári József [[S/Szócsaládok\|szócsalád]]-rendszere 
 #### Krizsa Katalin és Karvaly Katalin A magyar nyelv gyöknyelv...  
 
 ...című az Ősi Gyökér 2013/4. sz. megjelent cikkükben írják (nyilván előbbi):  
-> Amíg a magyar gyököt csak 1 vagy 2 mássalhangzóra definiáljuk, addig más gyöknyelvek – például a héber – praktikus okokból a 3, illetve, gyökismétlődés esetén, a 4 mássalhangzóból álló gyökvázat is gyöknek nevezik. Például a héber BLT gyökszavai: `balát`, `balut`, `baluta`, `blita`, `bolet`; közös jelentésük: feltűnik. Egy másik, egy önismétlő gyök, a PRPR: `pirper`, `pirpur`, `parpár` (pörög). A praktikus ok az, hogy a héber (de csak az újkortól), a különböző igemódok képzésére használja a magánhangzók szóbelseji variálását (a flektálást). Mivel ez nemcsak az egy, hanem a két (három) szótagúakra is érvényes, ezért célszerű nekik a 3 (kivételesen 4) mássalhangzóból álló vázakat is gyöknek tekinteni.  
+> Amíg a magyar gyököt csak 1 vagy 2 mássalhangzóra definiáljuk, addig más gyöknyelvek – például a héber – praktikus okokból a 3, illetve, gyökismétlődés esetén, a 4 mássalhangzóból álló gyökvázat is gyöknek nevezik. Például a héber `BLT` gyökszavai: `balát`, `balut`, `baluta`, `blita`, `bolet`; közös jelentésük: feltűnik. Egy másik, egy önismétlő gyök, a PRPR: `pirper`, `pirpur`, `parpár` (pörög). A praktikus ok az, hogy a héber (de csak az újkortól), a különböző igemódok képzésére használja a magánhangzók szóbelseji variálását (a flektálást). Mivel ez nemcsak az egy, hanem a két (három) szótagúakra is érvényes, ezért célszerű nekik a 3 (kivételesen 4) mássalhangzóból álló vázakat is gyöknek tekinteni.  
 
 A flektáló sémi nyelvekben láttuk, hogy ami egyszer \*hamar vagy hasonló alakúként jelenik másutt \*mahar alakúként jön elő[^1]. Ennek éppen a [[H/Hunor és Magor\|Hunor és Magor]] címnél, külön alcímnél taglalt évköri-nyelvi okai is lehetnek.  
 

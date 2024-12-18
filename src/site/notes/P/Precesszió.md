@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2024-10-25T23:53"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2024-12-16T12:30"}
 ---
 
 
@@ -34,7 +34,7 @@ Erről már [[T/Tejút#Nagy Éves szempontból a Tejút (Világfa) melyik asztro
 Ugyanakkor nemcsak a téli napfordulós kérdés érdekes itt, hanem az is, hogy ha a Tejút az égteret kétfelé [[M/MES\|mes]]i, szakítja, akkor hogy teszi ezt meg úgy, hogy a [[T/Tejút\|Tejút]] [[M/Más\|más]]ik (sötét) oldalára jutó [[F/Félév\|félév]] egyúttal a nyári napforduló által is legyen kijelölve...Erről lesz szó még alant, de közben még a legutóbb [[R/Rák csillagkép\|Rák csillagkép]] címnél írottakat tegyük ide a téma kapcsán, hogy nem mindig egyértelmű, hogy az Ikrekhez tartozik a Kutya és az Orion a Rákba:  
 Például a törökben úgy maradt meg a Kutya, mint a nyári napfordulót (a kánikulához is köthető tűz \[[[Kut\|[Kut]], Ku-Ta\] illetve tűzugratás ünnepi helyét mutatva) jelölő Rák nevére alkalmazott név (**Kuçik** = Rák csillagkép), dacára annak, hogy a Kutyacsillag és Nagy Kutya csillagkép az Ikrek cikkelyébe tartozik. Ennek ártatlan oka is lehet (ahogy a Magor-pár [[H/Hunor\|Hunor]] [[H/Hun\|Hun]] előrészének [[K/KAN\|KAN]]-nal való egyezése kapcsán is láttuk, hogy a latin [[C/Cancer\|Cancer]] = Rák nevében is megjelenik és a japán **Kani** = Rák nevében ugyanúgy), de lehet oka a precesszió is (bár ugyanakkor elvileg a Szíriuszra az nem vonatkozott volna; de ugyanúgy a "túloldalon" a Tejútközpont sem ott van, ahol a Nyilasból Bakba érő Nap születési helyét kellene meghatározza; ezt a kérdést egyszer és mindenkorra tisztázni kellene végre).  
 
-> [! ]
+> [!|noicon]
 > Azt mindenesetre jegyezzük meg, hogy:  
 > 1. A Tejút nem pont felében metszi az éggömböt;  
 > 2. A [[L/Lemniszkáta\|lemniszkáta]] címnél taglalt két félév (köre) nem azonos méretű, a második félév pár nappal hosszabb is. A Tejútközponttal nem teljesen szemben van Szíriusz sem.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2024-10-25T18:56"}
+{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2024-12-12T00:43"}
 ---
 
 
@@ -13,7 +13,7 @@ A Wikipédia adata szerint a Tejútközponttal szemben az [[A/Auriga\|Auriga]] v
 > A galaktikus koordinátarendszer szempontjából a galaktikus középpont (a Nyilasban) 0°-os hosszúságnak felel meg, míg az anticentrum pontosan 180°-on helyezkedik el. Az egyenlítői koordinátarendszerben az anticentrum nagyjából az RA 05h 46m, dec +28° 56' ponton található.  
 > ![assets/Galacticanticentre_image1.png|invert_dark](/img/user/G/assets/Galacticanticentre_image1.png)  
 - Még meg is rajzolja nekünk a segédvonalat, hogy könnyen megtalálhassuk.  
-A fentebb említett [[S/Szekeres csillagkép\|Szekeres csillagkép]] jelentőségéről már Szántai Lajos is szólt, lásd ott. A Szekeres fényes alfája, [[C/Capella\|Capella]] pedig, ahogy [[N/Ninurta\|Ninurta]] címnél is szerepelt, a [[T/Tejútoszlopok\|Tejútoszlopok]] egyike.  
+A fentebb említett [[S/Szekeres csillagkép\|Szekeres csillagkép]] jelentőségéről már Szántai Lajos is szólt; lásd ott. A Szekeres fényes alfája, [[C/Capella\|Capella]] pedig, ahogy [[N/Ninurta\|Ninurta]] címnél is szerepelt, a [[T/Tejútoszlopok\|Tejútoszlopok]] egyike.
 
 Itt csak az a kérdés, mennyire pontosan számoltak (mármint azzal, hogy a Tejútközpontot belőjék).  
 Nos, [ezen](https://en.wikipedia.org/wiki/Galactic_coordinate_system) oldalon álló adatok szerint jól járnak el. (Radio source Sagittarius A*, which is the best physical marker of the true galactic center, is located at 17h 45m 40.0409s, −29° 00′ 28.118″ (J2000).)  
@@ -31,7 +31,7 @@ Ami igen érdekes, hogy a galaktikus észak az a [[C/Coma Berenice csillagkép\|
 { #ki6v7}
 
 
-A [[P/Pleiadok\|Plejádok]] címnél már vizsgált, John M. Jenkins könyvének 27. oldalán taglalt, mezo-amerikaiak számára fontos Pleiadok[^1] (generális irányában lévő Tejútvég) és a Tejútközpont ([[G/Galactic centre\|Galactic centre]]) kapcsolatát a hivatalos tudomány is ismeri, de mérései szerint, vagy elvi megfontolásból, másképpen, azaz nem a Pleiadokba (és nem is a Szíriuszba) helyezi az anticentert.  
+A [[P/Pleiadok\|Plejádok]] címnél már vizsgált, John M. Jenkins könyvének 27. oldalán taglalt, mezo-amerikaiak számára fontos Pleiadok[^1] (generális irányában lévő Tejútvég) és a [[G/Galactic centre\|Tejútközpont]] kapcsolatát a hivatalos tudomány is ismeri, de mérései szerint, vagy elvi megfontolásból, másképpen, azaz nem a Pleiadokba (és nem is a Szíriuszba) helyezi az anticentert.  
 
 De először még, hogy térben el tudjuk képzelni, álljon egy John M. Jenkins-től származó sor, mely [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]] és más címnél is szerepelt (hiszen a Tejútanyára, kinek koronája illetve feje és így akkor [[S/Száj\|száj]]a Szíriusz (is lehet) rávetíthető a kép):  
 > The doctrine of the celestial gateways involves the shifting solstice axis in relation to a background axis fixed to two important points along the zodiac. We might already suspect that the Pleiades and the Galactic Center serve as the crown and root of this sidereal framework.  
@@ -42,7 +42,7 @@ De először még, hogy térben el tudjuk képzelni, álljon egy John M. Jenkins
 
 [[N/Nap#Csillagképek iránya\|Csillagképek iránya]] címnél is szerepelt:  
 Az értelmezésből az látszik kiderülni, hogy az Ikrekben van az északi kapu, a Nyilasban pedig a déli. Ergo ha jól értelmezem, jelenleg – a Vaskorban – a Tejútfa nem fejjel lefelé áll, hanem rendesen (a fa gyökere van délen) és csak 13000 év múlva áll a feje tetejére az Aranykorba érve ([[Z/Zep Tepi\|Zep Tepi]] címnél volt már erről vagy hasonlóról szó korábban; lásd a Dobos Csanád féle magyarázatra adott reakcióm).  
-John M. Jenkins tehát helyesen a GC nem a Tejútfa koronájával, hanem a [[M/Mula\|Mula]] címnél is taglalt gyökerével[^2] való megfeleltetését érzi tehát helyesnek (dacára annak, hogy mások szerint a Nyilas a korona; lásd könyvének 266. oldalát).  
+John M. Jenkins tehát helyesen a Tejútközpontnak nem a Tejútfa koronájával, hanem a [[M/Mula\|Mula]] címnél is taglalt gyökerével[^2] való megfeleltetését érzi tehát helyesnek (dacára annak, hogy mások szerint a Nyilas a korona; lásd könyvének 266. oldalát).  
 
 Érdekes még ([[S/Szűz csillagkép\|Szűz csillagkép]] címnél, ahol a Szíriuszt és a Szüzet próbáltuk közös nevezőre hozni, szintén szerepelt):  
 > Virgo, Sirius (the Galactic Anticenter indicator), and the Galactic Center are geometrically related in the sky, and Isis has found a home in each location.  
@@ -97,7 +97,7 @@ John Major Jenkins Galactic Alignment című könyvének 33. oldalán írja, hog
 
 > By way of the ballcourt's solstitial alignment with the Milky Way, which is nevertheless a north-south alignment, the north-south axis of Chichen is conflated with polar north and Galactic Center south. While the Pole Star hovers some 20° above the northern horizon, the nuclear bulge of the Galactic Center can be seen to pass through the southern meridian at twice that height-thus again the north-south dialogue between polar and galactic centers. Although on one level an opposition between the Galactic Center and the northern polar region can be viewed (as just described), a primary axial opposition between the Galactic Center and the Pleiades also exists.  
 > —  
-> A gömbpálya és a Tejútrendszer szolstitialis együttállása révén, amely mindazonáltal észak-déli együttállás, a Chichen észak-déli tengelye összeolvad a poláris északkal és a Tejútközpont déli részével. Míg a Sarkcsillag mintegy 20°-kal az északi horizont felett lebeg, addig a Tejútközpont nukleáris dudora láthatóan kétszer ekkora magasságban halad át a déli meridiánon – így ismét észak-déli párbeszéd alakul ki a sarki és a galaktikus középpont között. Bár egy szinten a Tejútközpont és az északi sarkvidék közötti szembenállás látható (az imént leírtak szerint), a Tejútközpont és a Plejádok között is létezik egy elsődleges tengelyirányú szembenállás.  
+> A gömbpálya és a Tejútrendszer napfordulós együttállása révén, amely mindazonáltal észak-déli együttállás, a Chichen észak-déli tengelye összeolvad a poláris északkal és a Tejútközpont déli részével. Míg a Sarkcsillag mintegy 20°-kal az északi horizont felett lebeg, addig a Tejútközpont nukleáris dudora láthatóan kétszer ekkora magasságban halad át a déli meridiánon – így ismét észak-déli párbeszéd alakul ki a sarki és a galaktikus középpont között. Bár egy szinten a Tejútközpont és az északi sarkvidék közötti szembenállás látható (az imént leírtak szerint), a Tejútközpont és a Plejádok között is létezik egy elsődleges tengelyirányú szembenállás.  
 
 Azaz a Tejútközpontból különböző képzeletbeli egyenesek húzhatók, de gyakorlatilag a Tejút forgása miatt más és más világtengely (Tejút = világfa = világtengely) értelmezéseket kapunk. Ahogy Jankovics Marcell is írja, nem teljesen idevagóan ([[T/Tejút\|Tejút]] címnél is szerepelt):  
 A Tejút 24 óra alatt látszólag körbefordul az égen, ezért a türelmes megfigyelő néhány óra múlva úgy látja, mintha eldőlt volna eredeti helyzetéhez képest.  

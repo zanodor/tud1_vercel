@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fabricate/","title":"Fabricate","tags":["containscallouts","Englishtexttranslated"],"created":"2023-10-31T10:46","updated":"2024-10-25T18:40"}
+{"dg-publish":true,"permalink":"/F/Fabricate/","title":"Fabricate","tags":["containscallouts","Englishtexttranslated"],"created":"2023-10-31T10:46","updated":"2024-12-16T12:30"}
 ---
 
 
@@ -19,7 +19,7 @@ Mintha fa és aprít szavaink látszanának keveredni benne. Ábrá-zol szavunk 
 
 A Quorán egy beszélgetés alakult ki egy olasz és én közöttem arról, hogy az olasz vajon miért nem tartotta meg a latin `ferrarius` (lásd [[F/Ferrari\|ferrari]]) = kovács `ferrari` alakját, és miért állt át másik szóra.  
 Tehát az olaszban `fabbro` = kovács, de a Wiktionary szerint a fabbro `ferraio` = kovács jelentésű szintén. Erre az olasz srác azt mondja, hogy a latin `ferrarius`-t melléknévként használja:  
-> [! ]  
+> [!|noicon]  
 Amit ír:  
 >> In Latin "ferrarius" can be:  
 >> - an adjective meaning "of/about iron"; so a smith is a "faber ferrarius" (in Italian: "fabbro ferraio"), i.e. an artisan that works with iron;  

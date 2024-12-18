@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Letöltések/","title":"Letöltések","created":"2023-12-28T07:46","updated":"2024-10-22T18:09"}
+{"dg-publish":true,"permalink":"/101/Letöltések/","title":"Letöltések","created":"2023-12-28T07:46","updated":"2024-12-17T08:17"}
 ---
 
 
@@ -22,6 +22,7 @@ Használja a keresőt (search) bármely webhelyen a keresett állomány megtalá
 - [Grandpierre Atilla: A Selyemút őstörténete – a magyarság szerepe Eurázsiában](https://mega.nz/file/E2sA1ShJ#KaigvoN3kBT_5dCkEJz6bb8DWXMvOPGvSBTDVNfy-VE)
 - [Bakos Attila: A Duna evangéliuma](https://mega.nz/file/l6FlCLxY#MYMP5nVIPOwk0C9en6eERY2NjlFL_Jnf8QgsCJLRlAo)
 - [Huszka József: A magyar turáni ornamentika története](https://mega.nz/file/Vul0RT5T#o-HbB-YOsxGa7VOk6E-MCW-mTY26r8gg4OP7qAybc64)
+- [Révész Péter](https://mega.nz/folder/t7U1gZ7R#xGext2o95JCg0BWS5pTsZg)
 - [Jelképtár](https://mega.nz/file/B7813ABR#V_vyBcph4sUpEPpidcRtIsIZIdA5O6j1YBHK8aQ883A)
 - [Magyar néprajzi lexikon](https://mega.nz/file/drNRBLrK#guCTPrlPTzaL9ae0DZeK8QclS4BQeFMLe9L4LhcOoGQ)
 - [Falvay Károly: Nagyboldogasszony](https://mega.nz/file/w21zCSqQ#Xxmcb0tPYtn5nDBLzWsDlhnXrma99lSJrXHK6W-fdYA)
