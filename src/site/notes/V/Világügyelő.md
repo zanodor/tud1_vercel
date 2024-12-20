@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Világügyelő/","title":"Világügyelő","created":"2023-11-18T11:47","updated":"2024-10-26T00:48"}
+{"dg-publish":true,"permalink":"/V/Világügyelő/","title":"Világügyelő","created":"2023-11-18T11:47","updated":"2024-12-18T11:29"}
 ---
 
 
@@ -15,9 +15,9 @@ A Wikipedia oldalán olvashatjuk:
 ...című könyvének (a PDF) 101-102. oldalán a madáralak/lúd téma kapcsán írja:  
 > Magyart, valamint rokonnépeink a Napistent, őseink egyúttal első mondai királyukként, uralkodó hatalmas fejedelmükként is tisztelték, amit a finn és észt [[K/Kalev\|Kalev]]- és [[T/Toll\|Toll]]-regék máig is igazolnak. (Bán Aladár említett cikke.) Sőt ezek által maga a magyar király, régiesen királ, karál, kerál, szavunk is, amely a szláv nyelvekből nem magyarázható s így szláv eredetűnek oknélkül tartatott, megfejtésére lel. Vogul rokonnépünk regéi szerint a Napisten vadlúd, azaz [[G/Gúnár\|gúnár]] \[Hun-Úr\] képében szokta a vogul földet körül-körül röpülni s így ügyel népére, így őrködik annak hazája fölött, amiértis ő a világügyelő nevet is viseli.  
 
-#### Varsa Mátyás ír A legrégibb magyar mítosz...
+#### Varsa Mátyás A legrégibb magyar mítosz...
 
-...című tanulmányában írja (több helyen megvolt):  
+...című tanulmányában írja (több helyen is megvolt):  
 > A Világügyelő Férfi azonban a nappal ellentétben éjszaka jár Tovling-luván az égen – akárcsak Dia. Ha vizsgálat tárgyává tesszük az őr funkciót – mert a Világügyelő Férfi a világ őre – az árnyéklélek fogalmához juthatunk.  
 
 #### Jankovics Marcell írja:

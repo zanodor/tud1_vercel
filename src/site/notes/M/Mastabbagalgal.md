@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2024-10-25T23:23"}
+{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2024-12-20T11:42"}
 ---
 
 
@@ -39,7 +39,7 @@ Az Ikrek(hez köthető) M-S vázú név/neve azért is érdekes, mert a [[M/Misc
 De mindkét névben az is közös, hogy a Tejút [[M/MISZ\|MISZ]] nevével de legalábbis M-S vázú nevével hozható kapcsolatba. A MAS keresztet formázó piktogramja is nyilván jelentékeny lehet ebben a kontextusban vizsgálva is.  
 
 Érdekes a fenti szövegből `mastabba`, mely akár [[M/Mostoha\|mostoha]] olvasatú is lehet (mostoha előjött a más jelentésű [[O/Other\|other]] szónál is):  
-Igen érdekes, amit [[G/Gemination\|gemination]] címnél, a [[G/Gyám\|gyám]] fogalma kapcsán vetettünk fel, [[J/Jézus\|Jézus]] nevelőapja, [[J/József\|József]] gyám illetve mostoha szerepe alapján. Azt, hogy a [[M/Más\|más]] és [[O/Other\|other]] címnél írottak alapján meghatározott téridőbeli helynek (mely, ahogy [[U/UR\|UR]] címnél is láttuk, Ikrek és Orionra értelmezettnek egyaránt vehető) megfelel József-Orion téridőbeli helye és lám, az Ikrek Mastabbagalgal nevének Mastabba előrésze (melyből a [[M/Mustafa\|Mustafa]] nevet is eredőnek véltem) megegyezni látszik az értelmi és eredeztetési nehézségeket rejtő [[M/Mostoha\|mostoha]] szavunkkal.  
+Igen érdekes, amit [[G/Gemini\|gemini]] címnél, a [[G/Gyám\|gyám]] fogalma kapcsán vetettünk fel, [[J/Jézus\|Jézus]] nevelőapja, [[J/József\|József]] gyám illetve mostoha szerepe alapján. Azt, hogy a [[M/Más\|más]] és [[O/Other\|other]] címnél írottak alapján meghatározott téridőbeli helynek (mely, ahogy [[U/UR\|UR]] címnél is láttuk, Ikrek és Orionra értelmezettnek egyaránt vehető) megfelel József-Orion téridőbeli helye és lám, az Ikrek Mastabbagalgal nevének Mastabba előrésze (melyből a [[M/Mustafa\|Mustafa]] nevet is eredőnek véltem) megegyezni látszik az értelmi és eredeztetési nehézségeket rejtő [[M/Mostoha\|mostoha]] szavunkkal.  
 
 #### Czeglédi Katalin A piramis...
 

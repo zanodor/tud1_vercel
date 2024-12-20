@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2024-10-25T23:36"}
+{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2024-12-18T11:43"}
 ---
 
 
@@ -25,7 +25,7 @@ Másutt is írja:
 > A Nagy Istennőt mondhatjuk Nammunak, Ninhursagnak, Tiamatnak, Inannának.  
 
 A mellékelt kép is a könyvéből való.  
-![assets/Ninhursag_image1.png](/img/user/N/assets/Ninhursag_image1.png)  
+![assets/Ninhursag_image1.png|invert_dark](/img/user/N/assets/Ninhursag_image1.png)  
 Egyébként Falvay könyvének adatait olvasva a nála (is) nőiségi mennyről, nem tűnik butaságnak Ninhursag nevét Mennyországgal azonosítani, bár a Hursag = [[H/Herceg\|herceg]] azonosítás alapján lehet Herceg Nő(je) értelmű is, ahol akkor a Herceg lehetne Orion (vagy ezek szerint Enki).  
 
 #### Jeremy Black és Anthony Green Gods, Demons and Symbols in Ancient Mesopotamia...
@@ -41,7 +41,7 @@ Az [alábbi](https://mek.oszk.hu/01200/01267/html/01kotet/01r02f04.htm) Nagy Ké
 Ez a névváltozat is mutatja, hogy [[O/Ország\|ország]] szavunknak több írott változata volt. Ezen passzus [[H/Herceg\|herceg]] címnél is szerepelt, ahogy a hozzá tartozó, [ezen](http://www.gpedia.com/en/m/gpedia/Wikipedia:Articles_for_deletion/Kharsag) linkre is ott felhívtam a figyelmet.  
 
 A Falvay Károly Nagyboldogasszony című könyvének 302. oldalán Marija Gimbutastól vett szarvassal kapcsolatba hozott sumér istennő nevét nem sikerült eddig megtalálni. [[D/Damkina\|Damkina]] vagy Ninhursag lesz. Közös bennük, hogy mindketten En-Ki nejei. Márpedig Bobula Ida The Great Stag című dolgozatában Enki-Ea istenséggel hozatott kapcsolatba szarvas, de nekünk ünő kell.  
-![assets/Ninhursag_image2.png](/img/user/N/assets/Ninhursag_image2.png)  
+![assets/Ninhursag_image2.png|invert_dark](/img/user/N/assets/Ninhursag_image2.png)  
 Az interneten talált képen viszont két szarvas is van. [[T/Turul#Turul és Csudaszarvas\|Turul és Csudaszarvas]] cím/alcímnél és [[J/Janus\|Janus]] címnél is szerepeltetve lett.  
 
 #### Bakos Attila A Duna Evangéliuma...

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-22T03:43","updated":"2024-10-22T22:08"}
+{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-22T03:43","updated":"2024-12-20T11:36"}
 ---
 
 
@@ -8,7 +8,7 @@
 Csillagászati szempontból az [[E/Égi egyenlítő\|égi egyenlítő]] helyezkedik el. Így az antik csillaghitben például a Skorpió is \[égi\] egyenlítő alatti, alvilági csillagzat. Ahogy az [[E/Ecliptic\|ecliptic]] és [[S/Sine\|sine]] címnél szereplő képen látjuk, hat hónapig jár a Nap a felvilágban, hat hónapig az alvilágban. Lásd legutóbb [[P/Pokol\|pokol]] címnél írottakat erről is és másról is.  
 Ahogy John G. Jackson Christianity before Christ című könyvének 54. oldalán James Frazer Adonis, Attis, Osiris című könyvének adatai nyomán bemutatja, hogy a görög Adonisz, Aphrodité és Persephone története egy babiloni eredeti átirata. A görög mítoszban a döntőbíró Zeusz úgy "rendelkezik," hogy a szépséges [[A/Adonisz\|Adonisz]] (a Nap) az év egyik felében a felvilágban, másik felében az alvilágban kell tartózkodjon. Frazer rámutat, hogy Ishtar és [[A/Allatu\|Allatu]] felelnek meg Aphroditének és Persephonének, míg Adonisznak [[A/Attis\|Attisz]] illetve [[T/Tammuz\|Tammuz]].  
 
-Legutóbb [[G/Gemination\|gemination]] és [[Y/Yama\|Yama]] címnél is szerepelt, hogy annak bizonyítéka, hogy miért [[Y/Yama\|Yama]] azért az alvilág ura, megtalálható az aveszta `jamestan` = tél névben. Bizony, ez Jáma országát jelenti, az alvilágot, ahol a Nap jár (télen, a Skorpióban-Nyilasban igen sötétek is a körülmények). Az más kérdés, hogy a tél hivatalosan december 21-től március 21-ig tart és a [[T/Téli napforduló\|téli napforduló]] után valójában a Nap ereje nőni kezd és magasabban kezd delelni is, de mivel a természet igazán tavasszal indul be, ezért onnan számították és számítják ma is Iránban az újévet (és a Bibliában is ezért hal és támad fel Jézus Pészahkor, a tavaszi napéjegyenlőségkor a téli napforduló helyett).  
+Legutóbb [[G/Gemini\|Gemini]] és [[Y/Yama\|Yama]] címnél is szerepelt, hogy annak bizonyítéka, hogy miért [[Y/Yama\|Yama]] azért az alvilág ura, megtalálható az aveszta `jamestan` = tél névben. Bizony, ez Jáma országát jelenti, az alvilágot, ahol a Nap jár (télen, a Skorpióban-Nyilasban igen sötétek is a körülmények). Az más kérdés, hogy a tél hivatalosan december 21-től március 21-ig tart és a [[T/Téli napforduló\|téli napforduló]] után valójában a Nap ereje nőni kezd és magasabban kezd delelni is, de mivel a természet igazán tavasszal indul be, ezért onnan számították és számítják ma is Iránban az újévet (és a Bibliában is ezért hal és támad fel Jézus Pészahkor, a tavaszi napéjegyenlőségkor a téli napforduló helyett).  
 
 #### Jankovics Marcell Ahol a madár se jár...
 

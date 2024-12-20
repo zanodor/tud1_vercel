@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Goal/","title":"Goal","created":"2024-11-23T05:08","updated":"2024-11-23T05:08"}
+{"dg-publish":true,"permalink":"/G/Goal/","title":"Goal","created":"2024-11-23T05:08","updated":"2024-12-20T13:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 Kapu, gól; mondhatjuk: [[C/Cél\|cél]]. Tulajdonképpen a gól alapjelentése [[K/Kapu\|kapu]], ahogy a német `tor` is egyszerre kapu és gól (de [[D/Door\|door]], `tür` = ajtó) jelentésű. [[A/Angol\|Angol]] és [[G/GOL\|GOL]] címnél szerepelt Péterfai János adata:  
 > Gol még Kapu, Öböl, ami miatt az angolok neve Égi-Kapu jelentést is tartalmazhatott.  
 
-[[C/Cataclysm\|Cataclysm]] címnél is írtuk, hogy mivel szinte ugyanez a szó a skót angolságban d-előhangos ([[D/Dool\|dool]] ill. [[D/Dule#Dule 2)\|dule]]), közös eredetük GY-előhangos ([[G/Gyúl\|gyúl]]) kellett legyen.  
+[[C/Cataclysm\|Cataclysm]] címnél is írtuk, hogy mivel szinte ugyanez a szó a skót angolságban d-előhangos ([[D/Dule#Dule 2)\|dool]] ill. [[D/Dule#Dule 2)\|dule]]), közös eredetük GY-előhangos ([[G/Gyúl\|gyúl]]) kellett legyen.  
 (De ugyanilyen G és D előhangos neveket Vízöntő jelentéssel is találtunk: sumér [[G/Gula#Gula 2)\|Gula]] és perzsa Dūl.)  
 
 A labdarúgás (lásd [[F/Football\|football]] és [[L/Labdajáték\|labdajáték]]) nem skót találmány, hanem arra az időre tehető, mikor a kelták még nem váltak ki a magyar/hún/szkíta törzsközösségből. Péterfai János is szól a labdarúgás hun eredetéről.  

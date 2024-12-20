@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Prajapati/","title":"Prajapati","tags":["Englishtexttranslated"],"created":"2024-10-23T20:04","updated":"2024-10-23T20:04"}
+{"dg-publish":true,"permalink":"/P/Prajapati/","title":"Prajapati","tags":["Englishtexttranslated"],"created":"2024-10-23T20:04","updated":"2024-12-18T10:51"}
 ---
 
 
@@ -14,7 +14,7 @@ A pontos eredetét a mítosznak feledvén a hinduk olyannyira nem voltak tisztá
 > The term also connotes many different gods, depending on the Hindu text, ranging from being the creator god to being same as one of the following: Brahma, Vishnu, Shiva, Agni, Indra, Vishvakarma, Bharata, Kapila and many others.  
 > —  
 > A kifejezés a hindu szövegtől függően sokféle istent is jelent, a teremtő istentől kezdve a következő istenek egyikével való azonosságig: Brahma, Visnu, Siva, Agni, Indra, Vishvakarma, Bharata, Kapila és még sokan mások.  
-> ![assets/Prajapati_image1.jpeg](/img/user/P/assets/Prajapati_image1.jpeg)  
+> ![assets/Prajapati_image1.jpeg|invert_dark](/img/user/P/assets/Prajapati_image1.jpeg)  
 
 Így magyarázza a furcsa jelenséget George Williams:  
 > According to George Williams, the inconsistent, varying and evolving Prajapati concept in Hindu mythology reflects the diverse Hindu cosmology.  
@@ -96,7 +96,7 @@ Tilak róla, mint az Áldozati Szerek Istenéről is szól. Prajapati, azaz Orio
 
 Tilak könyvének 142. oldalán szól arról, hogy ez a 12 napos ünnep eredetileg nem napfordulós ünnepség lehetett, és támadja Kuhn elméletét, de ő maga nagyon arra koncentrál, hogy a védák adata szerint arról az időről van szó, amikor a tavaszpont a Bika előtt még az Orionban volt. Precesszióról is beszél, de az meg többek szerint sem vonatkozik a Kutyacsillag Szíriuszra, mely egyébként a fent említett Ribhust ébresztette fel.  
 
-[[V/Varuna\|Varuna]] címnél szerepelt, hogy Várkonyi Nándor azzal az [[U/Uránosz\|Uránosz]]szal azonosítja amivel az In Search of the Cradle of Civilization – India című könyvükben Feuerstein, Kak és Frawley szerzők is, sőt, ezáltal [[O/Orion\|Orion]]nal is azonosítják Varunát. De hogy lehet Prajapati és Varuna is Orion neve?! Talán Varuna nem Orion maga, hanem, főleg [[M/Mithra\|Mithra]] ikreként, hanem Mithra öreg minősége (stafétabot átadásáról volt szó másutt is).  
+[[V/Varuna\|Varuna]] címnél szerepelt, hogy Várkonyi Nándor azzal az [[U/Uránosz\|Uránossz]]al azonosítja amivel az In Search of the Cradle of Civilization – India című könyvükben Feuerstein, Kak és Frawley szerzők is, sőt, ezáltal [[O/Orion\|Orion]]nal is azonosítják Varunát. De hogy lehet Prajapati és Varuna is Orion neve?! Talán Varuna nem Orion maga, hanem, főleg [[M/Mithra\|Mithra]] ikreként, hanem Mithra öreg minősége (stafétabot átadásáról volt szó másutt is).  
 Bakos Attila a Duna evangéliumának 60. oldalán azt írja, hogy prádzsapátiknak, ősatyáknak nevezték azokat a félisteni lényeket, akik feladatul kapták, hogy a Föld lányaiba oltsák saját emelkedettebb bolygó-tudatukat.  
 Ez teljesen megfelel a [[N/Nefilim\|Nefilim]] címnél írottaknak: Orion atyaságát kell mindezek mögött látni.  
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated"],"created":"2024-10-23T20:07","updated":"2024-10-23T20:11"}
+{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated"],"created":"2024-10-23T20:07","updated":"2024-12-18T11:11"}
 ---
 
 
@@ -19,7 +19,7 @@ Pater, mint Bot-Úr lényegében ugyanazt a (profánnak nevezhető) jelentést v
 
 ...konkrétan a Balog névről írja (fontos adat, hogy a szintén Orionhoz kötött [[K/Kádár\|Kádár]]hoz hasonlóan királynév):  
 > Balog király[^1] nevének jelentése Hatalmas Óriás. Egyes nyelvészek szerint Balog "balkezes" lenne, de ez nem királynév, továbbá a magyar nyelvészek nem ismerik sem Bal (Bál), sem Og nevének jelentését. Amint írtam, a Bál név Ragyogó is, Bal-Og ezért lehet Ragyogó Óriás is. Ragyogó Óriás a Nap, vagy a Vadász csillagkép, teljesen egyértelműen, tehát Balog is a Nap földi jelképeként uralkodott.  
-- Az [[V/Volos#^kjz2q\|ezen]] helyen említett szláv `volot` = óriás értelmű szó is hasonló; lásd még [[B/Bál\|Bál]] címnél nagyot, hatalmasat jelentő szavakat.
+- Az [[Volosz#^kjz2q\|ezen]] helyen említett szláv `volot` = óriás értelmű szó is hasonló; lásd még [[B/Bál\|Bál]] címnél nagyot, hatalmasat jelentő szavakat.
 
 
 Legutóbb [[B/Black\|black]] és [[O/Oláh\|oláh]] címnél próbáltuk megfejteni e szavak eredeti értelmét. Az [alábbi](https://maghon.weebly.com/uploads/2/0/0/3/20035969/balak_-_bulak.pdf) oldalon található törökös vonalat elvetném, bár ami ott érdekes volt az az, hogy a [[B/Black\|black]] címnél hozott perzsa `ablak` = fekete-fehér jelentéshez hasonló tarka fogalom előjött, sőt, ló is.  

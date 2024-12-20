@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hím/","title":"Hím","created":"2024-05-01T14:44","updated":"2024-10-25T21:45"}
+{"dg-publish":true,"permalink":"/H/Hím/","title":"Hím","created":"2024-05-01T14:44","updated":"2024-12-20T11:45"}
 ---
 
 
@@ -26,10 +26,10 @@ A [[F/Fehér és fekete\|fehér és fekete]] és [[H/Hunor és Magor\|Hunor és 
 
 ...című könyvében szereplő passzus is idevehető:  
 > A számos szarvasregében emlegetett "fehér szarvas" ősmagyar mitológiánkban csak a szóban lévő ős-szarvasunk nőstényére vonatkozott, mivel szerintem, míg a hím fekete volt, addig nősténye fehér vagy világos-szürke színű kellett hogy legyen.  
-- Ez némiképp ellentmond annak viszont, amit idáig gondoltunk, bár a [[H/Hunor és Magor\|Hunor és Magor]] címnél, külön alcímnél írottak szerint is Hunorhoz, a Magornál "hímebb" aspektushoz a sötét passzol (és akkor itt még szólni kell arról is, hogy a **hím** szó eredete mi lehet).  <br/>
-A fehér és fekete szarvas kettőse kapcsán itt még jegyezzük meg, hogy kétszarvasos ábrázolásokat például [[J/Janus\|Janus]] címnél szerepeltettünk (persze ott a szarvasok színében nem volt eltérés).  
+- Ez némiképp ellentmond annak viszont, amit idáig gondoltunk, bár a [[H/Hunor és Magor\|Hunor és Magor]] címnél, külön alcímnél írottak szerint is Hunorhoz, a Magornál "hímebb" aspektushoz a sötét passzol (és akkor itt még szólni kell arról is, hogy a **hím** szó eredete mi lehet). <br/>
+A fehér és fekete szarvas kettőse kapcsán itt még jegyezzük meg, hogy két szarvasos ábrázolásokat például [[J/Janus\|Janus]] címnél szerepeltettünk (persze ott a szarvasok színében nem volt eltérés).  
 
-Ahogy [[G/Gemination\|gemination]] címnél is írtuk, **a Gemini név Gem- előrésze Gém/Hím is lehet**.  
+Ahogy [[G/Gemini\|Gemini]] címnél is írtuk, **a Gemini név Gem- előrésze Gém/Hím is lehet**.  
 [[O/Orion#Szíriusz-Orion állatalakjai\|Szíriusz-Orion állatalakjai]] cím/alcímnél is írtuk, hogy a kutyát, lovat, tapírt is jelentő [[K/Kuda\|kuda]] név lényegében a **hím** és innen a (nagy) hímtag(gal rendelkező állatok) gyűjtőneve illetve jelzője lehet.  
 [[T/Tapir\|Tapir]] címnél vetődött fel bennem legutóbb, hogy a nagy hímtaggal rendelkező, illetve egyáltalán a hímtaggal kapcsolatba hozható **hím**-állatok, mint a ([[K/Kutyanemzés\|kutyanemzés]] címnél bőven taglalt) [[K/Kutya\|kutya]] és a (szilaj név kapcsán már több helyen például [[N/Nimrud\|Nimrud]] és [[P/Phallic\|phallic]] címnél taglalt) [[L/Ló\|ló]], továbbá éppen a (ló neveként is megjelenő) [[K/Kuda\|kuda]] néven is futó kelet-indiai tapír és a [[K/Kuda\|kuda]] címnél taglalt hindiben, bengáliban, stb. `gadha` névalakkal is jelölt szamár téridőbeli helye alapján Nimrud-Orionnal illetve a Szíriusz-Orionból álló [[I/Íj csillagkép\|Íj csillagkép]]pel azonosíthatók, mint egyfajta állatalakok, azon az alapon, hogy [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] ha voltak, akkor a Tejút mellett található férjként üzemelő Orionnak is lehetnek (nemcsak a párduc-[[P/Panther\|Panther]]) (és a [[R/Rák csillagkép\|Rák csillagkép]]pel azonos [[S/Szamár csillagkép\|Szamár csillagkép]] [[S/Szamár\|szamár]]a, kiről [[S/Széth\|Széth]] címnél is volt szó) (ha már itt tartunk, [[S/Széth\|Széth]] neve pedig kb. úgy aránylik a [[K/Kuda\|kuda]] névhez, ahogy a [[Z/Zsidó\|zsidó]] név a [[J/Júda\|Júda]] névhez).  
 

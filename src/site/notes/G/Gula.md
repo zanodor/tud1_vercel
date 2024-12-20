@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2024-10-25T19:09"}
+{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2024-12-20T13:21"}
 ---
 
 
@@ -112,7 +112,7 @@ Gu-La helyes megfejtésében követelmény, hogy meg kell felelni a szemközti O
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvében a két Gula név azonosságára csak azt írja, hogy "szójáték."  
 Hogy a Vízöntő jegy neve akkor is az lett volna, ami lett, ha nem létezne Oroszlán jegy, nem tudni, de a [[G/Gúla\|gúla]] lefelé fordítva valóban kehely/vödör formát ad ki. Lényegében az egyik jegy mindig hímségi, fénytöbbletes, a másik nőiségi, hiányos. (A szemközti jegyek közül is mindig az egyik a szellemiségre, a másik a testiségre utal.)  
 
-Legutóbb [[H/HAT\|HAT]] és [[H/Hét\|hét]] címnél írtuk, hogy ezek a magyar számok a precessziós [[N/Nagy Év\|Nagy Év]]ben a Napnak [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en való helyzetére utalhatnak. Az Oroszlán-Vízöntő tengely viszont épp a következő idősáv (melynek ugye 13000 évvel lesz jelentősége: lásd [[Z/Zep Tepi\|Zep Tepi]]). Igen is valószínű, hogy a Gula név utalás a [[G/Gula\|Gula]] címnél vizsgált Gyula/kutya értelemre.  
+Legutóbb [[H/HAT\|hat]] és [[H/Hét\|hét]] címnél írtuk, hogy ezek a magyar számok a precessziós [[N/Nagy Év\|Nagy Év]]ben a Napnak [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en való helyzetére utalhatnak. Az Oroszlán-Vízöntő tengely viszont épp a következő idősáv (melynek ugye 13000 évvel lesz jelentősége: lásd [[Z/Zep Tepi\|Zep Tepi]]). Igen is valószínű, hogy a Gula név utalás a [[G/Gula\|Gula]] címnél vizsgált Gyula/kutya értelemre.  
 
 Gula (eredete) azonos is lehet [[K/Kulacs\|kulacs]] szavunkkal.  
 Azokat a K-L/G-L/GY-L vázú szavakat, melyek különösen a Nagy Évben Napot megszülő Tejútanyára (Nutra) vonatkoznak, lásd [[C/Cataclysm\|cataclysm]].  

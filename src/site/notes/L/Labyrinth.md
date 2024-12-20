@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2024-10-25T22:31"}
+{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2024-12-20T11:43"}
 ---
 
 
@@ -15,7 +15,7 @@ Labirintus, útvesztő.
 #### Magyar Adorján írja:  
 
 > Ismeretes a latin `labirintum` szó, amely építményeknél a sok fal ismét sok lap, azaz nőiségekként, volt fölfogva, vagyis lebbenyek-, ajkakként; a latin-olasz `labrum`-`labbro` szó pedig, amely ajak jelentésű, a labirint szóval betűszerint egyező. A sok fal közötti utak, azaz tehát a közök, völgyeletek, képezték az útvesztőt.  
-- Magyar Adorján Az ősműveltség című művének 1983. oldalán ír a labirintusokról.  
+- Magyar Adorján Az ősműveltség című művének 1983. oldalán ír a labirintusokról.
 
 #### Péterfai János...
 
@@ -32,8 +32,9 @@ De a szó megfordítása, a [[B/Bél\|Bél]] és [[P/Pina\|pina]] címnél is el
 ...című könyvének 203. oldalán szól a csigavonalról és más ide is illő adatokat szolgáltat:  
 > A ceruzát fogó gyermekkéz első összehangolt (teremtő) mozgása ma is a csigavonalakat, köröket papírra rovó mozdulat. A jel megszokott szimbólumai az indák, kacsok, csigaházak, [[K/Kígyó\|kígyó]] és a bélrendszer. A révülő sámánok sámánutazásának jellegzetes, első állomása, a geometrikus hallucináció jellegzetes mintái. A kifelé haladó spirál születést, a befelé haladó halált, visszatérést jelent. A csigavonal az őstantrában a ritmikusan pulzáló [[I/Idő\|idő]] ősi szimbóluma, [[V/Visnu\|Visnu]] Isten ki- és belégzésének grafikus szimbóluma. Az őstantrában a csigavonal az [[A/Anyaméh\|anyaméh]], a női teremtő erő szimbóluma, [[K/Kagyló\|kagyló]]k és csigák formájában, míg a kígyó a [[L/Lingam\|lingam]], a férfi teremtő erő szimbóluma.  
 
-#### Jankovics Marcell A Nap könyvében írja:  
+#### Jankovics Marcell A Nap könyve...  
 
+...című könyvében írja:  
 > A csillag- és planétaistenek kapcsolata a Nappal, napjárással egészen magától értetődő, A Nap mozgása a csillagok "állásához" mérhető, ezért a csillagos háttér nélkül el sem képzelhető. Thészeusz, aki vérbeli naphérosz, kezében az aranyfonál-gombolyaggal (a fonal a nappálya, a gombolyag a Nap jelképe) vagy Ariadné fénylő koszorújával (az Északi Korona csillagképpel) a homlokán száll le a labirintusba (az éjszakába, a nappálya egyenlítő alatti, téli felére), ott megküzd a Minotaurusszal, akit Asztérionnak: "Csillagos"-nak, "Napból való"-nak is hívtak és csillagos testűnek ábrázoltak, mivel a Bika csillagképet testesítette meg, melyből azt követően lett alvilági szörnyeteg, hogy a [[T/Tavaszpont\|tavaszpont]] a Kos csillagképbe vándorolt belőle.  
 
 #### Jankovics Marcell Jelkép-kalendárium...
@@ -51,7 +52,7 @@ A témát kifejtve, újraértelmezve lásd még [[L/Love\|love]].
 Egy fontos szót Jankovics Marcell sehol sem említ: a latin-francia-angol [[L/Labour\|labour]] jelentése szülés.  
 
 Dr. Gyárfás Ágnes az Ősi Gyökér 2005/1-2. sz. megjelent Kecskehal című cikkének bevezetőjében említ örvényt és labirintust, mely passzust lásd [[T/Téli napforduló\|téli napforduló]].  
-Majd a folyóirat 58. oldalán ismét szóba kerül, mint állítólagos képjele a Ma, Mah, Mada neveknek, melyeket persze a magyarokkal, népnevükkel hoz kapcsolatba, de inkább földet jelentenek. A labirintus-piktogram így ![assets/Labyrinth_image2.png|18](/img/user/L/assets/Labyrinth_image2.png) (Labat 342) néz ki. Hogy hogyan lehet [[M/Magyar\|Magyar]] istenanya méhének jele, itt most megmondani nem tudom (kontextusban kellene látni, de a sumér kontextus sem sokat segít, ismerve az önkényes jelentés-asszociációs gyakorlatokat). Az 59. oldalon még (érthetetlenül) Magur képjelének is mondja (két piktogrammból kellene álljon). Az tény, hogy mindezen dolgokról Kecskehalról szóló cikkében ír és [[M/Makara\|Makara]] címnél elő is jön Magur Bak(hal)ra értve.  
+Majd a folyóirat 58. oldalán ismét szóba kerül, mint állítólagos képjele a Ma, Mah, Mada neveknek, melyeket persze a magyarokkal, népnevükkel hoz kapcsolatba, de inkább földet jelentenek. A labirintus-piktogram így (![assets/Labyrinth_image2.png|invert_dark|18](/img/user/L/assets/Labyrinth_image2.png) – Labat 342) néz ki. Hogy hogyan lehet [[M/Magyar\|Magyar]] istenanya méhének jele, itt most megmondani nem tudom (kontextusban kellene látni, de a sumér kontextus sem sokat segít, ismerve az önkényes jelentés-asszociációs gyakorlatokat). Az 59. oldalon még (érthetetlenül) Magur képjelének is mondja (két piktogramból kellene álljon). Az tény, hogy mindezen dolgokról Kecskehalról szóló cikkében ír és [[M/Makara\|Makara]] címnél elő is jön Magur Bak(hal)ra értve.  
 Gyárfás Ágnes cikke záró sorában kimondja, hogy a barlang-labirintus az ősanya Boldogasszony méhének szimbóluma, mélytudatunk legrejtettebb pontja; mégsem sikerült a cikkben megfelelően kifejteni, mi is a Bak jelentősége és a Magyar és Magur nevek hogyan és miért jelennek meg keleten.  
 
 Dr. Gyárfás Ágnes egy másik cikkében is szól csigavonalról. [[U/Újév\|Újév]] és [[K/Kalács\|kalács]] címnél ábrával szereplő írását lásd.  
@@ -72,7 +73,9 @@ Egyiptomi párhuzamát a jelnek lásd [[M/Magor\|Magor]], ahol több Gyárfás f
 > "A templomot nagyfokú egységességgel tervezték az egész Közel-Keleten, amely ma már felismerhetően az anyaméh mikrokozmoszának tekinthető. Három részre volt osztva: a Bejárat, amely a hüvely alsó végét jelképezte a szűzhártyáig, vagyis a Fátyolig; a Csarnok, vagyis maga a hüvely; és a belső szentély, vagyis a Szentek Szentje, a méh. A pap, pénisznek öltözve, különböző nedvekkel és gyantákkal felkenve, amelyek az isteni ondót jelképezik, belép a Bejárat ajtaján, **a méh "szeméremajkán" keresztül**, a Fátyolon vagy "szűzhártyán" át, és így a Csarnokba."  { #dgfln7}
 
 
-Hasonló téma jön elő Falvay Károly Nagyboldogasszony c. k. 234. oldalán, ahol írja:  
+#### Falvay Károly Nagyboldogasszony...  
+
+...című könyvének 234. oldalán hasonlóan:  
 > Egészen az 1500-as évekig a házasulandó felek az egyezséget egész Európában a templom kapujában kellett kimondják.  
 
 Azt nem mondja, hogy ez utalás lenne a szűz/menyasszony [[V/Vulva\|vulvá]]jára. Egyénként a latin-angol [[V/Vestibule\|vestibule]] szónak is van ilyen (anatómiai szakszóként is jelenlévő) értelme.  

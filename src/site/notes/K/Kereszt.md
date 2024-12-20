@@ -1,7 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2024-10-25T22:20"}
+title: Kereszt
+foreign_title: false
+aliases:
+  - kereszt
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg_created: 2023-10-13T12:02:00
+dg_updated: 2024-12-20T13:03
+dg_upload: done
+date_created: 2022-12-14
+date_modified: 2024-12-20T13:03
+gh_repo_url:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/K/Kereszt.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/K/Kereszt.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/K/Kereszt.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/K/Kereszt.md
+  - github.com/zanodor/TUD2/blob/7b2c0d5d879244c24ac9a102bcaba5009f9fe3a5/K/Kereszt.md
+danglinglink_commentedout: true
 ---
-
 
 # Kereszt
 
@@ -15,7 +34,7 @@ Hogy a kereszt szóban az `e` hang másutt is ismert volt, lásd [[K/Krisztus#Kr
 [[K/Kniezsa István\|Kniezsa István]][^1] természetesen szlávozik:  
 > "Hogy a magyarság kitől vette át a kereszténységet, a magyar kutatást már régóta foglalkoztatja. Krónikáinkból és legendáinkból úgy tudjuk, Géza udvarának megtérítésében német papokon kívül Adalbert prágai püspöknek volt nagy része. Ebből tehát az következnék, hogy a keresztény terminológia is főként német, esetleg cseh eredetű volna.  
 > A kereszténységre vonatkozó kifejezések legrégibb rétege a szlávból származik; kereszt (görög-keleti szláv `krьst`), keresztény, régebben a katolikusoknál is keresztyén (`krestjan`), bérmál (`birmati`), szent (`svet` \[lásd még [[S/Szvjet\|szvjet]]; miért nem latin?\]), malaszt (`milost`), pap (`pop`), apát (`opát`). \[...\] A kifejezések egy része (kereszt, érsek) határozottan görög szertartású szláv nyelvből származik, míg a másik része latin szertartású délnyugati szláv nyelvekre (szlovén, horvát) mutat, és egy sincs, amelyik cseh eredet mellett szólna."  
-- A [[Z/Zsidó\|zsidó]] szót is szlávból átvettnek tartja; lásd ott.  
+- A [[Z/Zsidó\|zsidó]] szót is szlávból átvettnek tartja; lásd ott.
 
 És folytassuk azzal, amiről majd itt közvetlenül ezután lesz szó, miszerint a [[K/Körkereszt\|körkereszt]] az élet és a világ keretrendszerét adja. (Annyit jegyezzünk itt meg, hogy **a körkereszt egy furcsa pleonasztikus kifejezés**, tekintve, hogy már a kereszt szóban is megvan a [[K/Kör\|kör]] szavunk egyszer.)  
 És milyen érdekes, hogy a kereszt és a keret szavak majdnem teljesen meg is felelnek egymásnak: az élet helyes **keret**rendszere a [[K/Köristen\|Köristen]]-**kereszt**énység, melyről szintén lesz szó.  
@@ -100,7 +119,7 @@ A [[H/Hattyú csillagkép\|Hattyú csillagkép]] másik neve is így lesz Észak
 A téridő tér és idő összefüggését (valamint út és idő szavaink összefüggését) [[I/Idő\|idő]] címnél külön alcímnél taglaltuk. Ott is szerepelt:  
 Borbola János írja, hogy az idők kezdetétől a méter bevezetéséig mindenhol találkozunk a láb, mint hosszegység, időszakonként változó méreteivel.  
 > Megállapíthatjuk, hogy a másodperc, a méter és a láb hosszméret egysége – azaz a tér idő egysége – a Föld méreteinek és keringési idejének adataival szorosan összefügg.  
-- Amit nem ír, hogy a Föld volt a téridő jelének közepébe helyezve.  
+- Amit nem ír, hogy a Föld volt a téridő jelének közepébe helyezve.
 
 ![assets/Kereszt_image4.jpeg|invert_dark](/img/user/K/assets/Kereszt_image4.jpeg)  
 A minap a kezembe került majd egy évtizede általam – talán amolyan ihletett állapotban – rajzolt diagram. A bal oldali is sokatmondó az isteni közép által vezéreltséggel. A jobb oldali is, mert a Halak korszakra folyó Pap Gábor által is taglalt Vízöntő jellegzetességet mutatja: a mai reaktív sátáni kéz által vezetett ember ilyen. (A kép bővebb szöveggel [[V/Vízöntő korszak#Vízöntő tulajdonságok a Halak korszakban\|Vízöntő tulajdonságok a Halak korszakban]] cím/alcímhez került.)  
@@ -123,9 +142,9 @@ Aztán kitér a **nem egyenlő szárú kereszt**re (melyről egyébként Kubíny
 #### Supka Géza Kalandozás a kalendáriumban...
 
 ...című könyvében a kereszt jelkép csillagászati összefüggésétől mentes, de egészen hasznos módon közölt levezetésébe bocsátkozik (több helyre betéve):  
-> A minden ősnépnél feltűnő egyenlő szárú kereszt (+), amelynek persze mi köze sincs a keresztény egyház feszületjéhez vagy tau-keresztjéhez. A kereszt egyszerűen a legnagyobb földi erőnek, a Napnak lerövidített jelképe. Fejlődése a következő: az ősember a tüzet úgy gerjesztette, hogy két száraz fadarabot egymáson keresztbe fektetett s egymáshoz dörgölte. Ez a két, egymásra fektetett fahasáb jelentette tehát a mindenkor szimbólumszomjas ember számára már az őskorban a "tüz"-et, a meleget, a jót, az életet. Ha aztán az ősember kiment a szabadba, s meglátta a Napot, akkor arról is azt képzelte, hogy az egy nagy tűz. Ám ha hajnalban nézte meg a Napot, amint az közvetlenül a látóhatár fölé emelkedett, amikor még szabad szemmel is bele lehet nézni, a Nap úgy festett, mintha a saját tengelye körül őrült gyorsasággal forogna (erről a szemléletről magunk is meggyőződhetünk, Jókai is szépen leírta). Vagyis az ősember fantáziája szerint ott fenn az égbolton egy óriási tűzkereszt forog. Ha már most a forgás vizuális jelét akarta ábrázolni, akkor úgy képzelte, hogy egy kereszt forog a középső tengelye körül. S tessék már most bárkinek megpróbálni: ha egy egyenlő szárú keresztet gyorsan forgatok a tengelypontja körül, akkor a kereszt szárai úgy festenek a végükön, mintha rövid vonalat írnának le. Így született meg a forgó Napnak egyetemes és minden világrészben azonos őskori szimbóluma: a [[S/Swastika\|szvasztika]], vagy mai divatos nevén a horogkereszt. Ez a jel nem külön árja jelvény – ezt csupán egy berlini porosz archeológus, Kossina állította vagy harminc évvel ezelőtt a "Mannus" című folyóiratában –, hanem sajátságosképpen a legősibb előfordulása éppen egy sémita istennőnek, egy mezopotámiai ón-Astarténak a testén jelentkezik. Az egyenlő szárú kereszt tehát kimondottan pogány Nap-szimbólum, s már csak ezért sem kerülhetett bele a kereszténység jelvénytárába.  { #cv2y0o}
-
-- Ezen írására legutóbb a [[P/Prométheusz\|Prométheusz]]t is felhozó [[G/Great\|great]] és [[C/Create\|create]] címnél szereplő passzusban is hivatkoztam.  
+> A minden ősnépnél feltűnő egyenlő szárú kereszt (+), amelynek persze mi köze sincs a keresztény egyház feszületjéhez vagy tau-keresztjéhez. A kereszt egyszerűen a legnagyobb földi erőnek, a Napnak lerövidített jelképe. Fejlődése a következő: az ősember a tüzet úgy gerjesztette, hogy két száraz fadarabot egymáson keresztbe fektetett s egymáshoz dörgölte. Ez a két, egymásra fektetett fahasáb jelentette tehát a mindenkor szimbólumszomjas ember számára már az őskorban a "tüz"-et, a meleget, a jót, az életet. Ha aztán az ősember kiment a szabadba, s meglátta a Napot, akkor arról is azt képzelte, hogy az egy nagy tűz. Ám ha hajnalban nézte meg a Napot, amint az közvetlenül a látóhatár fölé emelkedett, amikor még szabad szemmel is bele lehet nézni, a Nap úgy festett, mintha a saját tengelye körül őrült gyorsasággal forogna (erről a szemléletről magunk is meggyőződhetünk, Jókai is szépen leírta). Vagyis az ősember fantáziája szerint ott fenn az égbolton egy óriási tűzkereszt forog. Ha már most a forgás vizuális jelét akarta ábrázolni, akkor úgy képzelte, hogy egy kereszt forog a középső tengelye körül. S tessék már most bárkinek megpróbálni: ha egy egyenlő szárú keresztet gyorsan forgatok a tengelypontja körül, akkor a kereszt szárai úgy festenek a végükön, mintha rövid vonalat írnának le. Így született meg a forgó Napnak egyetemes és minden világrészben azonos őskori szimbóluma: a [[S/Swastika\|szvasztika]], vagy mai divatos nevén a horogkereszt. Ez a jel nem külön árja jelvény – ezt csupán egy berlini porosz archeológus, Kossina állította vagy harminc évvel ezelőtt a "Mannus" című folyóiratában –, hanem sajátságosképpen a legősibb előfordulása éppen egy sémita istennőnek, egy mezopotámiai ón-Astarténak a testén jelentkezik. Az egyenlő szárú kereszt tehát kimondottan pogány Nap-szimbólum, s már csak ezért sem kerülhetett bele a kereszténység jelvénytárába.  
+^cv2y0o
+- Ezen írására legutóbb a [[P/Prométheusz\|Prométheusz]]t is felhozó [[G/Great\|great]] és [[C/Create\|create]] címnél szereplő passzusban is hivatkoztam.
 
 Bakos Attila A Duna Evangéliuma című könyvének 169. oldalán írja, hogy a [[F/Fa\|fa]] és a [[K/Kígyó\|kígyó]], valamint a kereszt imádatának eredetét Indiában a [[N/Naga\|nagá]]k terjesztették el.  
 
@@ -146,7 +165,7 @@ Molnár V. József Világ-Virág című könyvének 171. oldalán komi (zürjén
 
 ...című könyvében írja:  
 > Az avaroknál, akik tűztisztelők voltak, Barapa vagy Barisa Nap- és Tűzistennek és a tűznek jelképei ezen jelek voltak. Az egyenlő szárú kereszt a [[T/Tűz\|tűz]] jele volt, a körbe foglalt ilyen kereszt pedig a Napé, vagyis ez a Napban székelő tüzet is jelentette. Az avaroknál ezen kereszt azon két egymáshoz dörzsölt fadarab ábrázolása volt, amelynek segítségével az ősök a legrégibb időkben tüzet gyújtottak.  
-- Itt [[A/Agni\|Agni]] nevét és a latin `ignis` szót lehetne említeni.  
+- Itt [[A/Agni\|Agni]] nevét és a latin `ignis` szót lehetne említeni.
 
 > A kereszt a tűz jelképe is lévén, ezt az avarok a napkorongba is ábrázolni szokták volt, úgy ahogy azt föntebb mutattuk be, mivel minden földi tűz a Napból származott erő megnyilvánulása, vagyis tehát minden földi tűz is tulajdonképen a Napból származott. E keresztes napkorongot pedig az avarok az Égistent jelképező szent állat, a Csodaszarvas, valamint a náluk ezt többnyire helyettesítő őskori óriáskos (amely némileg a mai majdnem ökörnagyságú belső-ázsiai argali-koshoz is hasonlított, de egyenes és kötélmódjára csavart szarvai voltak) szarvai közé is odaábrázolták. Ezen keresztes napkorongot alakították tehát a \[Jankovics Marcell által is ismertetett\] Hubertusz-mondában keresztény keresztté[^2].  
 > Az őskereszténység a keresztet vallásos jelképként még nem ismerte, aminthogy ez az őskeresztény katakombákban és régibb keresztény templomokban még teljesen hiányzik. Tény, hogy ez csak az avarok kora után válott általános keresztény jelképpé, vagyis ezt a keresztények tulajdonképen csak az avarokat utánozva kezdték így használni[^3]. Tény az is, hogy a "kereszténység" ezen magyar neve is csak különleges magyar csinálmány, mert más nyelvekben nem a kereszt nevéből, hanem Jézus görög eredetű [[K/Krisztus\|Krisztus]] nevéből származott, amelynek értelme "fölkent", és tehát "krisztian"-nak hangzik és "krisztuskövető" az értelme.  
@@ -323,7 +342,7 @@ De kell ezen a ponton másról is beszélni. Mégpedig arról, hogy a [[S/Széke
 
 ### Szakrális kontra spirituális
 
-Itt egy pillanatra időzzünk el azon, hogy mi a különbség a két fogalom között. Kubínyi Tamás az [alábbi](https://youtu.be/0Gb-b7yuLT8) műsorban 1:23:53-nál és előtte is és más műsorában is elmondja, hogy a szakralitás ég és föld, mint fent úgy lent, és ilyen keretek között épül fel az egyház: a szakrális tehát egyházi keretek között vizsgálandó (kell hozzá egyház, templom, pap), míg a sprituális a bent és a kint viszonyában írható le és egyéni (befelé figyelve saját isteni lényegét keresi; ezen utóbbi úton kereshető közvetlen kapcsolat istennel, papi közvetítés nélkül \[Ramzan is kitért erre az iszlám kapcsán\]). Kubínyi Tamás azt is elmondja, hogy amikor a szakralitás megcsúfolja önmagát, akkor nekünk a spiritualitás felé kell törekednünk, ott van egyházunk, ahol összejöttünk, ott van felettünk az égbolt a jóisten templomaként és lábunk alatt a fű, kavics a templom padozataként.  
+Itt egy pillanatra időzzünk el azon, hogy mi a különbség a két fogalom között. Kubínyi Tamás az [alábbi](https://youtu.be/0Gb-b7yuLT8) műsorban 1:23:53-nál és előtte is és más műsorában is elmondja, hogy a szakralitás ég és föld, mint fent úgy lent, és ilyen keretek között épül fel az egyház: a szakrális tehát egyházi keretek között vizsgálandó (kell hozzá egyház, templom, pap), míg a spirituális a bent és a kint viszonyában írható le és egyéni (befelé figyelve saját isteni lényegét keresi; ezen utóbbi úton kereshető közvetlen kapcsolat istennel, papi közvetítés nélkül \[Ramzan is kitért erre az iszlám kapcsán\]). Kubínyi Tamás azt is elmondja, hogy amikor a szakralitás megcsúfolja önmagát, akkor nekünk a spiritualitás felé kell törekednünk, ott van egyházunk, ahol összejöttünk, ott van felettünk az égbolt a jóisten templomaként és lábunk alatt a fű, kavics a templom padozataként.  
 Ahogy ezt elmondja, az embernek önkéntelenül is az az érzése, hogy ez volt az eredeti [[T/Templom\|templom]]: az istent kereső, és a szakrális középben megtaláló ember önmaga, a négy kardinális irányt összekötő vonalak metszésvonalában. [[T/Temple\|Temple]] és [[N/Négy\|négy]] címnél taglaltuk a témát. Előbbi címnél kimondtuk: [[T/Tengely\|tengely]] szavunk a latin templom (`templum`) eredete (a négyzet/kör (kereszt) két átlója adja meg a közepet, ahol a tengely van: a világtengely, mely az ember verticuma is egyben, a Földön) (a felülnézeti világmodellben a tengely egy (közép)ponttá zsugorodik).  
 
 Egyébként számomra a spirituális számomra a függőleges út kellene legyen. [[H/Hit\|Hit]] és [[H/Híd\|híd]] kapcsolatában is a függőleges az Istenhez vezető út[^12].  
@@ -351,7 +370,7 @@ Az [alábbi](https://youtu.be/fQsQD35s3sQ) ÁKTV műsorban Kubínyi Tamás 1:41:
 
 Egy műsorában mondja Kubínyi Tamás Ady-ról hogy az alkoholizás és a szifilisz halálközeleségét elősegítő állapot adja a tisztánlátását. Szó szerint:  
 > A szifilisz és az alkohol Ady számára hajtóanyag, hiszen mindegyik az élet végességére irányítja a figyelmét, és fokozza a költői tisztánlátását.  
-- Előtte mondja még, hogy az érzékeny idegrendszerű jobban látja előre, mi közeledik (a kommunizmus előszeleiről írt).  
+- Előtte mondja még, hogy az érzékeny idegrendszerű jobban látja előre, mi közeledik (a kommunizmus előszeleiről írt).
 
 Az [alábbi](https://youtu.be/9Uif7ioQ4T4) Ne Legyen Áldozatos műsorban 23:50 körül beszél Pap Gábor arról, hogy minden nagy természettudós bevallotta, hogy nem a matematika vagy az értelem útján jutott a nagy felfedezésekhez, hanem, abban az ihletett pillanatban közbeszólt valami, amit Pap Gábor itt a [[L/Lélek\|lélek]]kel azonosít.  
 

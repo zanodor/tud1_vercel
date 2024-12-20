@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2024-10-26T00:26"}
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2024-12-20T11:46"}
 ---
 
 
@@ -39,7 +39,11 @@ Ha a fentieket nem vennénk figyelembe (mert nem lennének ilyen összefüggése
 
 [[K/Khamor\|Khamor]] címnél is szerepeltek az alábbiak:  
 A héber `hamorim` = íjász, nyilazó értelemmel megadott szó szó szerint valójában (bolondokat, ellenálló szkítákat) szamarakat jelent, márpedig [[S/Széth\|Széth]] \[egyik\] állata a szamár, másrészt a szamár mindig a szabadságszerető magyarokról/hunokról neveztetett el (azóta csillagképekről: Rák = [[S/Szamár csillagkép\|Szamár csillagkép]]ről is volt szó).  
-A héber `hamorim` szót ezért sem sikerült íjazók értelemmel megtalálni, viszont a (szintén Íjász/Vadász) [[N/Nimrud\|Nimrud]]-nak megfelelő (héberben) lázadó jelentést Harold I. Saperstein Witness from the Pulpit című könyvének 190. oldaláról igen (ahol többek közt íjász értelem mégis előbukkan):  
+A héber `hamorim` szót ezért sem sikerült íjazók értelemmel megtalálni, viszont a (szintén Íjász/Vadász) [[N/Nimrud\|Nimrud]]-nak megfelelő (héberben) lázadó jelentést...
+
+#### Harold I. Saperstein Witness from the Pulpit...  
+
+...című könyvének 190. oldaláról igen (ahol többek közt íjász értelem mégis előbukkan):  
 > Another group of commentators explains the sin of Moses in terms of the anger and impatience demonstrated toward the people. `Hamorim` – "rebels," he called them (Num. 20:10), and by his irritable condemnation he indicated his lack of faith. For he repudiated them, though God himself had not done so. Rashi, in this context, cites the midrashic passage in which, when Moses was searching for the rock, he angrily rejected the use of the one selected by the people. It was then that he called them hamorim and the Midrash gives several derivations for the word. One comes from a Greek root, meaning fools. Another is connected with the word meaning teachers, as though he were saying, "You who presume to teach your teachers." A third links it with the word meaning archers implying "you who shoot upon your leaders with your arrows." They conclude that temper and contempt were unworthy of his position as a leader.  
 > —  
 > A kommentátorok egy másik csoportja Mózes bűnét a néppel szemben tanúsított haraggal és türelmetlenséggel magyarázza. Hámorim - "lázadóknak" nevezte őket (4Mózes 20:10), és ingerült elítélésével jelezte hitetlenségét. Ugyanis elvetette őket, noha maga Isten nem tette ezt. Rási ebben az összefüggésben idézi azt a midrási szakaszt, amelyben Mózes, amikor sziklát keresett, dühösen utasította vissza a nép által kiválasztott szikla használatát. Ekkor hámorimnak nevezte őket, és a Midrás többféle levezetést is ad a szóra. Az egyik egy görög gyökből származik, ami bolondokat jelent. Egy másik a tanítókat jelentő szóval függ össze, mintha azt mondaná: "Ti, akik tanítóitokat tanítani meritek". Egy harmadik az íjászokat jelentő szóval kapcsolja össze, ami arra utal, hogy "ti, akik a vezetőitekre lövöldöztök a nyilaitokkal". Ebből arra következtetnek, hogy az indulat és a megvetés méltatlan volt vezetői pozíciójához.  
@@ -214,7 +218,7 @@ De arról is lehet beszélni, hogy [[B/Bál\|Bál]] nemcsak a Nap, hanem Orion n
 Itt még egy dolgot kellene vizsgálni. Azt, hogy a [[P/Precesszió\|precesszió]] milyen hatást fejt ki. Ugyanis a Nyilassal szemközti az Ikrek, aztán ott a fentebb taglalt Rák, de az Oroszlán a valódi fénymaximum helye (volt).  
 Még az is megfordult a fejemben, hogy az [[I/Ikrek csillagkép\|Ikrek csillagkép]] utalt eredetileg a [[A/Ahet\|ahet]] kapcsán is említett két szamárra, csak a precesszió miatt elcsúsztak a dolgok (nyilván téves ezen következtetés).  
 Viszont figyeljük meg még az alábbit is:  
-Az Avesztában `jamestan`-ként szerepel a tél. Ennek jelentése nyilván Jáma/[[Y/Yama\|Yama]] országa (a Nap az alvilágban jár). Ezen Yama viszont a [[G/Gemination\|gemination]] és más címszavaknál írottak szerint az Ikrekre utal.  
+Az Avesztában `jamestan`-ként szerepel a tél. Ennek jelentése nyilván Jáma/[[Y/Yama\|Yama]] országa (a Nap az alvilágban jár). Ezen Yama viszont a [[G/Gemini\|gemini]] és más címszavaknál írottak szerint az Ikrekre utal.  
 
 ## Lábjegyzetek
 
