@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2024-12-16T12:30"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2025-01-05T21:22"}
 ---
 
 
@@ -8,11 +8,10 @@
 A legfontosabbat legelőre:  
 A Bakba lépéssel történik a Nap születése, de a Skorpió-Nyilas között (Sagittarius 6. foka?) van a Tejútközpont (melyen való áthaladással történne a születés, legalábbis a csillagmítoszi "szülés"-re vonatkozó elgondolás szerint). Mikor volt együtt a kettő?  
 Erről már [[T/Tejút#Nagy Éves szempontból a Tejút (Világfa) melyik asztrológiai tengelyen fekszik?\|Nagy Éves szempontból a Tejút (Világfa) melyik asztrológiai tengelyen fekszik?]] cím/alcímnél volt szó.  
-Így amikor...  
 
 #### John Major Jenkins Galactic Alignment...
 
-...című könyvében [[M/Makara\|Makara]] úgy jön elő, mint a Tejútanya vulva-szája, nyílása^1...  
+...című könyvében [[M/Makara\|Makara]] úgy jön elő, mint a Tejútanya vulva-szája, nyílása[^1] ...  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/m/makara/#6panc5" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -20,17 +19,22 @@ Erről már [[T/Tejút#Nagy Éves szempontból a Tejút (Világfa) melyik asztro
 
 > The head of the *simsumara* crocodile (or makara) could very well be the bulging area of the nuclear bulge with the dark-rift mouth.  
 > ...  
-> The immediate association is thus with a birthplace. Both Guénon and Coomaraswamy identify the *kalamukha* as birther and devourer and place it in Capricorn (really Sagittarius). I mentioned earlier that the astronomical reference of makara or mukha[^2] is probably to the dark rift in the Milky Way, which the Maya also identify as a monster mouth. The related monster mouth of the Vedic *simsumara* crocodile faces upstream and devours all unsuspecting seekers, preventing them from passing beyond the Sagittarian portal that it guards.  
+> The immediate association is thus with a birthplace. Both Guénon and Coomaraswamy identify the *kalamukha* as birther and devourer and place it in Capricorn (really Sagittarius). I mentioned earlier that the astronomical reference of `makara` or `mukha` is probably to the dark rift in the Milky Way, which the Maya also identify as a monster mouth. The related monster mouth of the Vedic *simsumara* crocodile faces upstream and devours all unsuspecting seekers, preventing them from passing beyond the Sagittarian portal that it guards.  
 > —  
-> A *simsumara* krokodil (vagy makara) feje nagyon is lehet a magdudor kidudorodó területe a sötét hasadék szájával.  
+> A *simsumara* krokodil (vagy makara) feje akár a galaxismag kidudorodásának a sötét hasadékszerű szájjal rendelkező kiöblösödő része is lehet.  
 > ...  
-> A közvetlen asszociáció tehát egy szülőhelyre vonatkozik. Guénon és Coomaraswamy egyaránt a *kalamukhát* azonosítja a szülő- és felemésztővel, és a Bakba (valójában a Nyilasba) helyezi. Korábban említettem, hogy a makara vagy mukha csillagászati utalása valószínűleg a Tejútrendszerben lévő sötét hasadékra vonatkozik, amelyet a maják szintén szörnyszájként azonosítanak. A védikus *simsumara* krokodil rokon szörnyszája felfelé néz, és felfal minden gyanútlan keresőt, megakadályozva őket abban, hogy átlépjenek az általa őrzött Nyilas-kapun.  
+> A közvetlen asszociáció tehát egy szülőhelyre vonatkozik. Guénon és Coomaraswamy egyaránt a *kalamukhát* azonosítja a szülő- és felemésztővel, és a Bakba (valójában a Nyilasba) helyezi. Korábban említettem, hogy a `makara` vagy `mukha` csillagászati utalása valószínűleg a Tejútrendszerben lévő sötét hasadékra vonatkozik, amelyet a maják szintén szörnyszájként azonosítanak. A védikus *simsumara* krokodil rokon szörnyszája felfelé néz, és felfal minden gyanútlan keresőt, megakadályozva őket abban, hogy átlépjenek az általa őrzött Nyilas-kapun.  
 
 
 </div></div>
 
+- Az említett szanszkrit szóról emlékezzünk meg:  
+> The Sanskrit the term `mukha` means "entranceway," "gate," or "mouth." The `kalamukha` (great mouth) is a motif found often in Hindu and Buddhist iconography.  
+> —  
+> A szanszkrit `mukha` kifejezés "bejáratot, "kaput" vagy "szájat" jelent. A `kalamukha` (nagy száj) a hindu és buddhista ikonográfiában gyakran előforduló motívum.  
+- Mu-Ka lényegében a Fény Háza. [[S/Száj\|Száj]] is a [[S/SZA\|SZA]] = fény szóból indul ki. Ugyanakkor a latinban is `bucca` = száj.
 
-...ismét joggal tehetjük fel a kérdést: a Bakban lehetett-e a Tejútközpont? ([[M/Makara Sankrati\|Makara Sankrati]] címnél ezen passzus/adatok kapcsán precessziós okokat már felhoztunk.)  
+Ismét joggal tehetjük fel a kérdést: a Bakban lehetett-e a Tejútközpont? ([[M/Makara Sankrati\|Makara Sankrati]] címnél ezen passzus/adatok kapcsán precessziós okokat már felhoztunk.)  
 Ugyanakkor nemcsak a téli napfordulós kérdés érdekes itt, hanem az is, hogy ha a Tejút az égteret kétfelé [[M/MES\|mes]]i, szakítja, akkor hogy teszi ezt meg úgy, hogy a [[T/Tejút\|Tejút]] [[M/Más\|más]]ik (sötét) oldalára jutó [[F/Félév\|félév]] egyúttal a nyári napforduló által is legyen kijelölve...Erről lesz szó még alant, de közben még a legutóbb [[R/Rák csillagkép\|Rák csillagkép]] címnél írottakat tegyük ide a téma kapcsán, hogy nem mindig egyértelmű, hogy az Ikrekhez tartozik a Kutya és az Orion a Rákba:  
 Például a törökben úgy maradt meg a Kutya, mint a nyári napfordulót (a kánikulához is köthető tűz \[[[Kut\|[Kut]], Ku-Ta\] illetve tűzugratás ünnepi helyét mutatva) jelölő Rák nevére alkalmazott név (**Kuçik** = Rák csillagkép), dacára annak, hogy a Kutyacsillag és Nagy Kutya csillagkép az Ikrek cikkelyébe tartozik. Ennek ártatlan oka is lehet (ahogy a Magor-pár [[H/Hunor\|Hunor]] [[H/Hun\|Hun]] előrészének [[K/KAN\|KAN]]-nal való egyezése kapcsán is láttuk, hogy a latin [[C/Cancer\|Cancer]] = Rák nevében is megjelenik és a japán **Kani** = Rák nevében ugyanúgy), de lehet oka a precesszió is (bár ugyanakkor elvileg a Szíriuszra az nem vonatkozott volna; de ugyanúgy a "túloldalon" a Tejútközpont sem ott van, ahol a Nyilasból Bakba érő Nap születési helyét kellene meghatározza; ezt a kérdést egyszer és mindenkorra tisztázni kellene végre).  
 
@@ -45,8 +49,8 @@ A másik fontos dolog, hogy a [[F/Félév\|félév]] címnél bőven taglalt év
 #### Jankovics Marcell...
 
 ...[[O/Orion\|Orion]] és [[T/Tír\|Tír]] címnél szereplő adata erről:  
-> [[A/Anubisz\|Anubisz]] viszont nem lehetett Orion, mivel az Ozirisz foglalt csillagzata volt. Alighanem az Orion egyik "kutyájával", a véle szomszédos Ikrek cikkelyében lévő [[N/Nagy Kutya\|Nagy Kutya]] csillagképpel azonosítható. Éppen az szól emellett, hogy a Kristóf-legenda egyiptomi változata nem Orion-Oziriszt, hanem szolgáját, Anubiszt teszi meg a hősének. **A Nagy Kutya csillagzat ugyanis körülbelül másfél ezer évvel korábban állt ugyanabban a helyzetben, mint az Orion, ő ekkor volt a nyári napforduló csillagképe**, rá ennyivel korábban illik a Kristóf-legenda. (Emlékeztetnék arra, amit korábban a [[S/Szíriusz\|Szíriusz]] precessziós szerepváltásairól írtam [^3].)  
-- Kérdés persze, hogy a Szíriusz valójában változtatja-e a helyét.  
+> [[A/Anubisz\|Anubisz]] viszont nem lehetett Orion, mivel az Ozirisz foglalt csillagzata volt. Alighanem az Orion egyik "kutyájával", a véle szomszédos Ikrek cikkelyében lévő [[N/Nagy Kutya\|Nagy Kutya]] csillagképpel azonosítható. Éppen az szól emellett, hogy a Kristóf-legenda egyiptomi változata nem Orion-Oziriszt, hanem szolgáját, Anubiszt teszi meg a hősének. **A Nagy Kutya csillagzat ugyanis körülbelül másfél ezer évvel korábban állt ugyanabban a helyzetben, mint az Orion, ő ekkor volt a nyári napforduló csillagképe**, rá ennyivel korábban illik a Kristóf-legenda. (Emlékeztetnék arra, amit korábban a [[S/Szíriusz\|Szíriusz]] precessziós szerepváltásairól írtam[^2].)  
+- Kérdés persze, hogy a Szíriusz valójában változtatja-e a helyét.
 
 A másik fontos/érdekes dolog a sumér Vízöntő [[G/Gula#Gula 2)\|Gula]] neve. Ide kapcsolódó kérdés: a Tejút sávja korábban lehetett a [[O/Oroszlán-Vízöntő tengely\|Oroszlán-Vízöntő tengely]]en, vagy az mindig a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en marad? Igen, mindig (illetve mivel sáv, a [[B/Bak-Rák tengely\|Bak-Rák tengely]] is mondható Tejúton fekvőnek):  
 
@@ -95,8 +99,8 @@ Márpedig ahogy a Föld sebessége sem állandó a Nap körül (ma is átlag nap
 #### Magyar Adorján Csodaszarvas...  
 
 ...című könyvében Sebestyén Gyulát idézi:  
-> Ha pedig igaznak bizonyul Sebestyén Gyula azon állítása, hogy az Állatkör csillagképei kialakulásában a praecessio is szerepet játszott, akkor ősműveltségünk korára és korszakaira nézve is elég biztos meghatározások fognak lehetségesekké válani. Erre vonatkozólag Sebestyén többek között így ír: "**Mivel a nap a zodiacus 360 fokra osztott körét egy év leforgása alatt nem futja be egészen, hanem rajta 50 1/4"-cel hátramarad, a zodiacus csillagképei ezen hátramaradás következtében *nyugat* felé előrehaladnak**."[^4]  
-- Ez talán a leginkább érthető definíció az összes közül. Ezen értelmezés az, amit Homann majd támad alant (mert hát itt a sziderikus és szoláris év különbségéről van szó). Ugyanis a precesszió alatt valójában két dolgot kell érteni: vannak akik magát a jelenséget, és vannak akik a kiváltó okot hívják precessziónak (ha alant jól értelmezem a hozzászólókat): körülbelül olyan ez, mint amikor azt mondom, hogy a nap felkelt és nem: "felkelni látszott."  <br/>
+> Ha pedig igaznak bizonyul Sebestyén Gyula azon állítása, hogy az Állatkör csillagképei kialakulásában a praecessio is szerepet játszott, akkor ősműveltségünk korára és korszakaira nézve is elég biztos meghatározások fognak lehetségesekké válani. Erre vonatkozólag Sebestyén többek között így ír: "**Mivel a nap a zodiacus 360 fokra osztott körét egy év leforgása alatt nem futja be egészen, hanem rajta 50 1/4"-cel hátramarad, a zodiacus csillagképei ezen hátramaradás következtében *nyugat* felé előrehaladnak**."[^3]  
+- Ez talán a leginkább érthető definíció az összes közül. Ezen értelmezés az, amit Homann majd támad alant (mert hát itt a sziderikus és szoláris év különbségéről van szó). Ugyanis a precesszió alatt valójában két dolgot kell érteni: vannak akik magát a jelenséget, és vannak akik a kiváltó okot hívják precessziónak (ha alant jól értelmezem a hozzászólókat): körülbelül olyan ez, mint amikor azt mondom, hogy a nap felkelt és nem: "felkelni látszott." <br/>
 Magyar Adorján Csodaszarvasában tovább taglalja a precessziót. A [[C/Csudaszarvas\|Csudaszarvas]]-monda keletkezési idejéről alkotott nézetét is lásd ott.  
 
 #### Hamvas Béla...
@@ -112,7 +116,7 @@ A precesszió jelenségéről [[N/Nutation\|nutation]] címnél is volt szó.
 
 #### Szűcs László Égre írott történelem...
 
-...című könyvének alábbi anyaga azért jó, mert a nehezebben érthető kúpformát[^5] jól magyarázza:  
+...című könyvének alábbi anyaga azért jó, mert a nehezebben érthető kúpformát[^4] jól magyarázza:  
 > A Föld forgástengelye egyfajta kúpformát ír le a Nap körüli keringésének síkjához viszonyítva; azaz, ha kijelölünk egy pontot a Nap körüli keringési pályáján és megnézzük a forgástengelyének helyzetét minden évben, ugyan-ebben a pontban, akkor azt tapasztaljuk, hogy egy kúppalást mentén arrébb mozdul és a teljes kúppalást 25920 év alatt, azaz 72 évenként 1º-kal mozdul el. (Ellentétes irányú a Föld tengely körüli forgásirányához viszonyítva.) a Földnek ezt a mozgását nevezzük precessziós mozgásnak. a precessziós mozgás nem befolyásolja sem a Nap látszólagos helyzetét az éggömbön, sem a Föld térbeli(?) elhelyezkedését keringési pályáján. Hatással van azonban az Egyenlítő helyzetére(!), hiszen az Egyenlítő a Földnek a saját forgástengelyére merőleges főköre: ezért ha a Föld forgástengelyének a helyzete változik, változik az Egyenlítőé is. Mindez azt eredményezi, hogy az ekliptika és az égi Egyenlítő egymással alkotott metszéspontjai ([[T/Tavaszpont\|tavaszpont]] és [[O/Őszpont\|őszpont]]) a csillagos éghez képest folytonos mozgásban vannak. a Föld tengelyének precessziós mozgásából adódóan ugyancsak 72 év alatt 1º-kal mozdulnak el.  
 - A búgó-csiga-szerű forgáskörről az alábbi ábrákat közli.  
 ![assets/Precesszió_image4.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image4.png)  
@@ -233,13 +237,13 @@ Sőt, a tudomány is elismerte, hogy a mozgások okát nem ismeri:
 > —  
 > 2006-ban az IAU kijelentette, hogy a precessziós nutációs modell "nincs összhangban a dinamikai elmélettel" (IAU P03).  
 
-A sziderikus és tropikus napév hivatalosan terjesztett \[általam [[G/Gergely-naptár\|Gergely-naptár]] címnél és másutt is szóba hozott\] diszkrepanciájáról[^6] szóló elméletet cáfolja a fiatalabb Homann, Uwe, ki megosztotta mindezt a Binary Research Institute-tal (melynek honlapját időközönként ellenőrizni kell, hátha új adatok kerülnek fel).  
+A sziderikus és tropikus napév hivatalosan terjesztett \[általam [[G/Gergely-naptár\|Gergely-naptár]] címnél és másutt is szóba hozott\] diszkrepanciájáról[^5] szóló elméletet cáfolja a fiatalabb Homann, Uwe, ki megosztotta mindezt a Binary Research Institute-tal (melynek honlapját időközönként ellenőrizni kell, hátha új adatok kerülnek fel).  
 ![assets/Precesszió_image8.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image8.png)  
 
 > [!DEFINITIONS]
-> 
+>
 > **Sidereal year**:  the period during which Earth makes a complete 360° revolution in its orbit around the sun, as measured with respect to the position of the fixed stars or inertial space.
-> 
+>
 > **Tropical year**:  the period during which Earth makes a complete 360° revolution in its orbit around the sun with respect to the position of the vernal equinox. The defined time interval of the tropical year for 1900.0 is 31,556,925.97474 seconds.  
 > **Mean sidereal day**:  the period during which Earth makes a complete rotation on its axis (absolute rotation). The time interval of the mean sidereal day is 86164.0905382 seconds.  
 > —  
@@ -252,21 +256,21 @@ A sziderikus és tropikus napév hivatalosan terjesztett \[általam [[G/Gergely-
 
 ...szerint a sziderikus és tropikus napév valójában ugyanannyi időbe telik:  
 > The [[S/Sidereal\|sidereal]] year is said to be the truest measure for a complete period of revolution of the Earth around the sun. By 1952 physicists had measured the precise time interval of the sidereal year in order to establish a definition for the unit 'second'. However, astronomers argued that the length of the sidereal year depends upon the adopted value of the precession. According to the theory of "the precession of Earth", Earth's axis of rotation gradually changes its orientation in space over a period of about 25800 years. This phenomenon causes a continuous displacement of the equinoctial points with respect to inertial space and with respect to the position of the sun. As a result, the sidereal year is supposed to be about 1223 seconds longer than the tropical year. Such a yearly time difference must be scientifically substantiated.  
-> The scientific arguments presented here[^7] have conclusively proven that the time intervals of the tropical year and the sidereal year are indeed equivalent. It is has been mathematically verified that the mean time interval of 31,556,925.97474 s is Earth's true 360° orbit period, implying that **the equinoctial points do NOT retrograde around the sun**. Hence, we can no longer subscribe to the erroneous conclusion that the 'precession of Earth' is a scientific fact.  
+> The scientific arguments presented here[^6] have conclusively proven that the time intervals of the tropical year and the sidereal year are indeed equivalent. It is has been mathematically verified that the mean time interval of 31,556,925.97474 s is Earth's true 360° orbit period, implying that **the equinoctial points do NOT retrograde around the sun**. Hence, we can no longer subscribe to the erroneous conclusion that the 'precession of Earth' is a scientific fact.  
 > —  
 > A [[S/Sidereal\|sziderikus]] év a Föld Nap körüli teljes forgási periódusának legmegfelelőbb mértékegysége. 1952-re a fizikusok megmérték a sziderikus év pontos időintervallumát, hogy meghatározzák a "másodperc" egységét. A csillagászok azonban azzal érveltek, hogy a sziderikus év hossza a precesszió elfogadott értékétől függ. A "Föld precessziójának" elmélete szerint a Föld forgástengelye mintegy 25800 év alatt fokozatosan változtatja a térben való tájolását. Ez a jelenség a napéjegyenlőségi pontok folyamatos elmozdulását okozza az inerciatérhez és a Nap helyzetéhez képest. Ennek eredményeként a sziderikus év feltehetően körülbelül 1223 másodperccel hosszabb, mint a tropikus év. Egy ilyen éves időeltolódást tudományosan meg kell indokolni.  
-> Az itt bemutatott tudományos érvek[^7] meggyőzően bizonyították, hogy a tropikus év és a sziderikus év időintervalluma valóban egyenértékű. Matematikailag igazolták, hogy a 31 556 925,97474s átlagos időintervallum a Föld valódi 360°-os keringési ideje, ami azt jelenti, hogy a napéjegyenlőségi pontok NEM retrográd módon keringenek a Nap körül. Ennélfogva többé nem csatlakozhatunk ahhoz a téves következtetéshez, hogy a "Föld precessziója" tudományos tény.  
+> Az itt bemutatott tudományos érvek[^6] meggyőzően bizonyították, hogy a tropikus év és a sziderikus év időintervalluma valóban egyenértékű. Matematikailag igazolták, hogy a 31 556 925,97474s átlagos időintervallum a Föld valódi 360°-os keringési ideje, ami azt jelenti, hogy a napéjegyenlőségi pontok NEM retrográd módon keringenek a Nap körül. Ennélfogva többé nem csatlakozhatunk ahhoz a téves következtetéshez, hogy a "Föld precessziója" tudományos tény.  
 - Amennyiben a Nap négy sarokpontja valójában a Naphoz képest nem vándorol el, akkor lényegében a [[K/Kereszt – fix kereszt\|kereszt – fix kereszt]], [[K/Kereszt – kardinális kereszt\|kereszt – kardinális kereszt]], stb. sem lehetne egymástól megkülönböztethető, ha jól értelmezem.
 
 > However, **the gradual displacement of the equinoctial points relative to inertial space does require a scientific explanation**. The observations and the research done by Karl-Heinz Homann suggest that **our entire solar system is orbiting the Sirius system**.  
 > —  
 > Az ekvinoktiális pontok fokozatos elmozdulása az inerciatérhez képest azonban tudományos magyarázatot igényel. A Karl-Heinz Homann által végzett megfigyelések és kutatások arra utalnak, hogy **az egész Naprendszerünk a Szíriusz-rendszer körül kering**.  
 
-- A WC weboldalán szereplő adatok közt kiderül, hogy ő nem feltétlenül a Szíriuszra gondol, csak egy megfelelő csillagra, amely lehet látható is, láthatatlan is:  
-> If the companion acted like a planet orbiting our sun, and the orbit periodicity was close to the precession periodicity, then standard calculations would put our binary counterpart somewhere between 848.5 AU and 1515 AU[^8] depending on its mass and eccentricity.  
+- A Walter Cruttenden weboldalán szereplő adatok közt kiderül, hogy ő nem feltétlenül a Szíriuszra gondol, csak egy megfelelő csillagra, amely lehet látható is, láthatatlan is:  
+> If the companion acted like a planet orbiting our sun, and the orbit periodicity was close to the precession periodicity, then standard calculations would put our binary counterpart somewhere between 848.5 AU and 1515 AU[^7] depending on its mass and eccentricity.  
 > However, there are other possibilities, including the possibility that the solar system itself is moving much faster than any of the planets and therefore our companion star may be a nearby visible star.  
 > —  
-> Ha a kísérő úgy viselkedne, mint egy bolygó a Napunk körül, és a pálya periodicitása közel lenne a precessziós periodicitáshoz, akkor a szokásos számítások szerint a kettős társunk valahol 848,5 AU és 1515 AU[^8] között lenne, tömegétől és excentricitásától függően.  
+> Ha a kísérő úgy viselkedne, mint egy bolygó a Napunk körül, és a pálya periodicitása közel lenne a precessziós periodicitáshoz, akkor a szokásos számítások szerint a kettős társunk valahol 848,5 AU és 1515 AU[^7] között lenne, tömegétől és excentricitásától függően.  
 > Vannak azonban más lehetőségek is, többek között az, hogy maga a Naprendszer sokkal gyorsabban mozog, mint bármelyik bolygónk, és ezért kísérőcsillagunk egy közeli látható csillag lehet.  
 - Kimondja tehát, hogy az általunk ismert precesszió, mint olyan, nem létezik, de a napéjegyenlőségi pontok fokonkénti elmozdulása (melyet apja évenkénti 50.26"-ben állapított meg) tudományos magyarázatot kíván. (Nyilván a jelenség létezik, hiszen ezt az ősmagyarok észrevették és a [[V/Világhónap\|világhónap]]okat illetve magát a zodiákust – lásd [[Z/Zodiac\|zodiac]] – is erre alapozták.
 
@@ -276,7 +280,7 @@ A másik kérdés UH adatai kapcsán, hogy nem azért nem talált eltérést, me
 
 > A dynamic Solar System model simplifies earth orientation and coordinate systems issues: the earth goes around the sun 360 degrees in a tropical year with a relatively stable axis (except for [[N/Nutation\|nutation]] and purely local effects). Most of its major motion (50.290966" per year in J2000) is because **the solar system moved by this amount NOT because the earth wobbled by this amount**.  
 > —  
-> A dinamikus Naprendszer-modell leegyszerűsíti a földi tájolás és a koordinátarendszerek kérdéseit: a Föld egy tropikus évben 360 fokban kerüli meg a Napot, viszonylag stabil tengellyel (kivéve a [[N/Nutation\|nutáció]]t és a tisztán helyi hatásokat). Nagyobb mozgásának nagy része (50,290966" évente J2000-ben) azért van, mert **a Naprendszer ennyit mozdult el, NEM azért, mert a Föld ennyit billegett**. 
+> A dinamikus Naprendszer-modell leegyszerűsíti a földi tájolás és a koordinátarendszerek kérdéseit: a Föld egy tropikus évben 360 fokban kerüli meg a Napot, viszonylag stabil tengellyel (kivéve a [[N/Nutation\|nutáció]]t és a tisztán helyi hatásokat). Nagyobb mozgásának nagy része (50,290966" évente J2000-ben) azért van, mert **a Naprendszer ennyit mozdult el, NEM azért, mert a Föld ennyit billegett**.
 > ![assets/Precesszió_image9.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image9.png)  
 > ![assets/Precesszió_image11.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image11.png)  
 > The observable of the stars moving across the sky by about 30 degrees per 2000 years (a.k.a. precession) is most likely a geometric effect like parallax (due to the motion of the Solar System), having very little to do with local dynamics. With this knowledge, the precession nutation model can be simplified and problems can be solved.  
@@ -289,7 +293,7 @@ A másik kérdés UH adatai kapcsán, hogy nem azért nem talált eltérést, me
 > An observer on a planet in a binary system would notice a change in orientation at a rate commensurate to the orbit period around the common center of mass. (USNO)  
 > With minor local effects and no eccentricity, this type of change in orientation at 50˝p/y would equate to an orbit periodicity of 25,920 years. (1,296,000/50 = 25,920).  
 > At 54˝p/y, again with minor local effects and no eccentricity, this type of change in orientation would equate to 24,000 years (1,296,000/54 = 24,000).  
-> 
+>
 > In 1894, about the same time that the great astronomer Simon Newcomb gave us a precession formula with a constant of .000222 p/y (designed to predict changes in the precession rate), an Indian astronomer, Sri Yukteswar, explained that the moving equinox (precession) was a result of a moving solar system and he gave us a binary orbit periodicity of 24,000 years, with apoapsis at 500 A.D.  
 > ![assets/Precesszió_image10.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image10.png)  
 > Thus, one scientist gave us a strictly local dynamics model and the other a strictly non-local dynamic SS model. Which model was more accurate over the next 100 years?  
@@ -404,7 +408,7 @@ A Grandpierre Atilla által is szerkesztett Analecta Husserliana CVII számában
 Ami az egy fokos elmozdulás évekre vonatkozó adatát illeti, fentebb Péterfai János adatával is láttuk, hogy a 72 évet Egyiptomban pontosan(?) tudták, de másutt 71-el is találkoztunk. Ennél pontatlanabb(?), 66,6 évről szóló adatokkal áll elő Sepp Rothwangl [[H/Hatszázhatvanhat\|hatszázhatvanhat]] címnél (bevezetést lásd [[A/Apocalypse\|apocalypse]]):  
 > Apocalypse addresses the seven classical planets and makes an allusion to the value of Precession:  
 > \[Rev 13:11\] Then I saw another beast, which rose out of the earth; it had two horns like a lamb and it spoke like a dragon. \[Rev 13:18\] This calls for wisdom: let him who has understanding reckon the number of the beast, for it is a human number, its number is six hundred and sixty-six.  
-> 
+>
 > In the Western hemisphere since the end of antiquity the usage of the precessional value 66,6y each 1⁰ (equal to 666y/10⁰ or 2000y/30⁰) can be found in the writings of the following astronomers:  
 > • Theon of Alexandria (4th cent.)  
 > • The tables of the Shah (Zij-i Shah) (6th cent.)  
@@ -415,14 +419,14 @@ Ami az egy fokos elmozdulás évekre vonatkozó adatát illeti, fentebb Péterfa
 > • Al Biruni (973-1048), al Canon al Masud  
 > • Arabic fixed star catalogue of 1st Oct. 1112 CE (ed. Paul Kunitzsch)  
 > • Libros del Saber von Alfons von Kastillen (1252-1284)  
-> • Judah ben Verga of Lisbon (c. 1470) 
-> 
+> • Judah ben Verga of Lisbon (c. 1470)
+>
 > There exists a strong indication that in India the value of 1800y/27⁰ (Bennedik, 2007) was used even before medieval times (Pingree, 1976, p. 112), which equals 2000y/30⁰. A transfer of knowledge from India to the occident occured at the end of antiquity, as ascertained by the ninth century patriarch Photius of Constantinople, as well as by Cedrenus in the eleventh century. During the reign of Constantine in the fourth century, Metrodorus, who created a 532-yearly Easter cycle, visited India to study philosophy with the Brahmins (Mosshammer 2009, p. 199). An eighth century illustration of Germanicus' "On the Phainomena of Aratos" in the Codex Basiliensis (Haffner, 1997) impressively confirms the mediaeval identification of the feared apocalyptical beast (Figure 4) with the upcoming age of Aquarius and shows the horned beast just between Pisces and Capricorn, where one usually expects to find Aquarius.  
 > ![assets/Precesszió_image14.jpeg](/img/user/P/assets/Precesszi%C3%B3_image14.jpeg)  
 > —  
 > Az Apokalipszis a hét klasszikus bolygóval foglalkozik, és utalást tesz a precesszió értékére:  
 > \[Jel 13:11\] És láttam egy másik fenevadat, amely a földből emelkedett ki; két szarva volt, mint a báránynak, és úgy beszélt, mint a sárkány. \[Jel 13:18\] Ez bölcsességet kíván: akinek esze van, számolja meg a fenevad számát, mert ez emberi szám, a száma [[H/Hatszázhatvanhat\|hatszázhatvanhat]].  
-> 
+>
 > A nyugati féltekén az ókor vége óta a 66,6y minden 1⁰ (egyenlő 666y/10⁰ vagy 2000y/30⁰) precessziós érték használata megtalálható a következő csillagászok írásaiban:  
 > – Alexandriai Theon (4. század).
 > – A sah (Zij-i sah) táblázatai (6. század).
@@ -434,7 +438,7 @@ Ami az egy fokos elmozdulás évekre vonatkozó adatát illeti, fentebb Péterfa
 > – arab állócsillag-katalógus, Kr. u. 1112. okt. 1. (szerk. Paul Kunitzsch)
 > – Libros del Saber von Alfons von Kastillen (1252-1284)
 > – Júda ben Verga Lisszabonból (1470 körül)
-> 
+>
 > Erős jelek utalnak arra, hogy Indiában már a középkor előtt is az 1800y/27⁰ (Bennedik, 2007) értéket használták (Pingree, 1976, 112. o.), ami 2000y/30⁰-nak felel meg. A tudás átadása Indiából a nyugati világba az ókor végén történt, amint azt a IX. századi konstantinápolyi pátriárka, Photius, valamint Cedrenus a XI. században megállapította. A negyedik században, Konstantin uralkodása idején Metrodórusz, aki 532 éves húsvéti ciklust hozott létre, Indiába látogatott, hogy filozófiát tanuljon a bráhmanáknál (Mosshammer 2009, 199. o.). A Codex Basiliensisben (Haffner, 1997) található Germanicus "Az Aratos-fajzatokról" című művének nyolcadik századi illusztrációja (Haffner, 1997) lenyűgözően megerősíti a félelmetes apokaliptikus fenevad (4. ábra) középkori azonosítását a Vízöntő közelgő korszakával, és a szarvas állatot éppen a Halak és a Bak között mutatja, ahol általában a Vízöntőt várjuk.  
 > (Megjegyzés: y = év, évente.)  
 
@@ -450,7 +454,7 @@ Hogy süllyednek vagy emelkednek, úgy tűnik, az dönti el, hogy a Naprendszer�
 [[G/Galactic centre\|Galactic centre]] és [[H/Hunahpu\|Hunahpu]] címnél is szerepelt az alábbi ábra (ott magyarázó szöveggel): azt látjuk, hogy a precesszió miatt a Tejút (érdekes része, a Tejútistennő méhe) lejjebb és lejjebb süllyed a horizont felé. A feltüntetett időpontok is mutatják: a Tejútközpont irányába nézve az idő múlásával a precesszió süllyedést idéz elő.  
 Nem úgy a galaktikus anticentrum (lásd magyarázó képekkel is [[G/Galactic anticentre\|Galactic anticentre]]) irányában, mely irányban van az Auriga, Orion és a Pleiadok, sőt, a [[S/Szíriusz\|Szíriusz]] is, így a fenti példához hasonlóan az [[O/Orion övcsillagai\|Orion övcsillagai]] címnél (ott magyarázattal) is szereplő ábrán pontosan ellentétes, emelkedő mozgást modellezve ábrázolják az Orion csillagképet.  
 ![assets/Precesszió_image16.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image16.png)  
-26000 évente – elvileg[^9] – egy teljes kört tesznek meg – de mely csillagképek? Hisz mi a helyzet a másik két világoszlopot felvonultató iránnyal, a Vízöntővel és Oroszlánnal? Nyilván azokban az irányokban is érvényesül a precesszió?  
+26000 évente – elvileg[^8] – egy teljes kört tesznek meg – de mely csillagképek? Hisz mi a helyzet a másik két világoszlopot felvonultató iránnyal, a Vízöntővel és Oroszlánnal? Nyilván azokban az irányokban is érvényesül a precesszió?  
 
 A [[N/Nyárpont\|nyárpont]] jelenleg az Ikrekben van (a precessziós [[T/Télpont\|télpont]] a Nyilasban (Paksi Zoltánnál a "hivatalosan nem jegyzett" Kígyótartóban), a [[T/Tavaszpont\|tavaszpont]] ugye a Halakban és az őszpont a Szűzben).  
 
@@ -470,7 +474,7 @@ A [[N/Nyárpont\|nyárpont]] jelenleg az Ikrekben van (a precessziós [[T/Télpo
 
 ...című könyvének 207-208. oldalain szerepel ([[T/Tejút\|Tejút]] címszóhoz és máshova is betett) írása arról, hogy fontos ünnepek hogyan csúsztak el:  
 > A kelták azt hitték, hogy az év fordulóján (november 1-én) "nyílnak meg az egek," az a lélekjárás időszaka. Ez és a rákövetkező nap a keresztény naptárban mindenszentek (a mennyországban üdülő lelkek) és a halottak (a pokol tornácán sínylődők) napja. Azt a hetet, amibe a 2 napos ünnep beleesett, "halottak hetének" hívtak. Régente, "halottak estélyén" ennivalót hagytak az asztalon, mert úgy gondolták, hogy az elhunytak lelkei ezen az éjszakán meglátogatják övéiket. Mégpedig azért, mert a lelkek útja, a Tejút ekkor van – helyesebben volt az ókorban – a Földdel, Holddal és Nappal olyan konstellációban, hogy a Földről eltávozók e két lépcsőfok segítségével ráléphettek a Földre érkezők pedig leröppenhettek róla.  
-> A novemberi eleji lélekjárás csillagászati alapja a precesszió miatt fokozatosan megszűnt, a Föld, Nap, Hold, Tejút különleges együttállása – a lélekjárás feltétele – már a IV-V. században karácsony tájára tolódott. Ez is indokolta, hogy az egyházatyák – a pogány napisten, Mithras születésnapjához igazodva – [[J/Jézus\|Jézus]] megtestesülését december 25-ére tegyék. Ebben a vonatkozásban a napkeleti bölcseket vezető betlehemi csillag, ha hitelt adhatunk annak a feltevésnek, hogy a szóban forgó fényjelenség több együtt álló bolygó volt, a Fiú eljövetelét volt hivatva megkönnyíteni. Láttuk, hogy Mithras kultuszában a bolygólajtorjának milyen különleges szerep jutott. Az sem mellékes, hogy a napkeleti bölcseket első ábrázolásaik Mithras-papoknak mutatják[^10].  
+> A novemberi eleji lélekjárás csillagászati alapja a precesszió miatt fokozatosan megszűnt, a Föld, Nap, Hold, Tejút különleges együttállása – a lélekjárás feltétele – már a IV-V. században karácsony tájára tolódott. Ez is indokolta, hogy az egyházatyák – a pogány napisten, Mithras születésnapjához igazodva – [[J/Jézus\|Jézus]] megtestesülését december 25-ére tegyék. Ebben a vonatkozásban a napkeleti bölcseket vezető betlehemi csillag, ha hitelt adhatunk annak a feltevésnek, hogy a szóban forgó fényjelenség több együtt álló bolygó volt, a Fiú eljövetelét volt hivatva megkönnyíteni. Láttuk, hogy Mithras kultuszában a bolygólajtorjának milyen különleges szerep jutott. Az sem mellékes, hogy a napkeleti bölcseket első ábrázolásaik Mithras-papoknak mutatják[^9].  
 > Az együttállás a Tejút szélessége miatt ma is érvényben van: karácsonykor a Nap ma még mindig csak a Tejút közepén jár.  
 > ![assets/Precesszió_image17.png](/img/user/P/assets/Precesszi%C3%B3_image17.png)  
 > Mivel a Tejút két ponton keresztezi az Állatövet és a látóhatárt, a lélekjárásra még egyszer kínálkozik kedvező alkalom, mégpedig karácsonnyal átellenben, a [[N/Nyári napforduló\|nyári napforduló]]t köszöntő Szent Iván-napkor. Megjegyzendő, hogy amiképp a precesszió okán a decemberi ünnepek, de főleg karácsony lettek a november elsejei szokások továbbéltetői, azonmód veszi át Szent Iván-nap [[P/Pünkösd\|Pünkösd]] közvetítésével a régi május elsejék örökét. (Május 1. úgy állt szemben november elsejével a kelta naptárban, mint Szent Iván karácsonnyal a miénkben.) A május 1-jei (pünkösdi) hidasjátékban például a híd a Tejutat jelképezte. A játék értelmében a hídra (Tejútra) lépés csak úgy lehetséges, ha a hidasmester (a Hold) megnyitja az "aranykaput." Ő azonban csak akkor engedi a hídra lépni a kérelmezőket, ha azok az eltört hídlábat (az ég és Föld között megszakadt kapcsolatot) sárarannyal (a Nap fémével: fényével) helyreállítják, azaz létrejön a kívánatos Föld-Hold-Nap-Tejút együttállás.  
@@ -480,7 +484,7 @@ A november 1.-i évkezdés nem lehet téli napfordulós kezdés (elcsúszása), 
 
 #### Michel-Gerald Boutet...
 
-...tehát joggal támadja Graves december 24.-i évkezdését (viszont a keltáknak ugyanúgy lehetett több évkezdése, ahogy a rómaiaknak is):   
+...tehát joggal támadja Graves december 24.-i évkezdését (viszont a keltáknak ugyanúgy lehetett több évkezdése, ahogy a rómaiaknak is):
 > First the year was divided into two halves: a dark half, with long nights and short days, and a light half, with short nights and long days. This division of time was thus equinoctial. The dates were fixed in respect to the Full Moon following the equinox if this event did not coincide with the Full Moon. Logically, this lunar and solar system would have to include periodical corrections or embolismic (intercalary) months every now and then. Corrections would have had to be made every two and a half years, excepting the thirty years period (Celtic century). This adjustment was made closer to the equinoxes, in change of great season that could include up to six or seven lunations.  
 > The Dark Half was called Giiemorotlio for "sprouting cycle". The year was made to start in fall around November, this was the Celtic month of Samonios. A pun could be made with the name of this lunar month. The Druids, much like the other Vedic Seers were pundit punsters! Samonios being the season for the fall of leaves and seeds, a play on words could be made with Samon and Semon for "seed". New Year's Eve was called Uegilia Samoni, and was an evening celebration commemorating the ancestral spirits and souls of the deceased. It survived in Christian lore as Halloween or All-Saints-Day. Much can be added on this time of preparations for the winter season of sleep and rest, but let us move on to the "Light Season".  
 > —  
@@ -503,9 +507,9 @@ Egy ilyen esetet látnánk a [[S/Saturnalia\|Saturnalia]] címnél idézett ...
 > Gwion arra utal, hogy Éva, akit Rheával azonosít, összesen harminc gyermeket szült – majd az Isteni Gyermeket, Széthet. Harmincat kétségtelenül azért, mert a "Szaturnusz uralma" harminc napig tartott, és a tél közepén tartott ünneppel tetőzött, amely később Yule, azaz karácsony lett.  
 
 Iain Forbes [[S/Suhurmasku\|Suhurmasku]] és [[M/Makara Sankrati\|Makara Sankrati]] címnél szereplő írása és a lentebb hozzá fűzött gondolatok is jól rámutatnak, hogy az egyes képzetek kialakulása között akár évezredek telhetnek el, de a régi felfogás marad. Ugyanakkor a megadott dátumokat tekintve itt is azt látjuk, mint például [[L/Luca\|Luca]] napnál (ahogy [[G/Gergely-naptár\|Gergely-naptár]] címnél is szerepelt, Jankovics Marcell adata szerint a Julianus-naptár hibájából adódóan jó négyszáz esztendővel Gergely pápa naptárreformja előtt (1582) már az esztendő legrövidebb napja volt):  
-> A further connection can be made between the beast and the Makara, if we consider the possibility that the beast could well be representing on the Shandwick stone, not only the constellation of Capricorn but the winter solstice and by default the Nativity. In India, the winter solstice festival is referred to as 'Makar Sankrantiʼ and marks the day the Sun enters the sign of Capricorn. It is seen as highly significant, symbolising the dawn of a new day for the gods (a year was said equivalent to a day and a night to the gods in Hindu. This to the Hindus also marks the point in time where the Sun begins its journey northwards again and the turning point in the year. **Today it is celebrated, not at the solstice, but on or around the 15 January. In AD 700 we find that, due to precession, the Sun would have already traversed much of Capricorn by this date. In effect, Makar Sankranti would be expected to have started on the 25 December**; Christmas Day[^11].  
+> A further connection can be made between the beast and the Makara, if we consider the possibility that the beast could well be representing on the Shandwick stone, not only the constellation of Capricorn but the winter solstice and by default the Nativity. In India, the winter solstice festival is referred to as 'Makar Sankrantiʼ and marks the day the Sun enters the sign of Capricorn. It is seen as highly significant, symbolising the dawn of a new day for the gods (a year was said equivalent to a day and a night to the gods in Hindu. This to the Hindus also marks the point in time where the Sun begins its journey northwards again and the turning point in the year. **Today it is celebrated, not at the solstice, but on or around the 15 January. In AD 700 we find that, due to precession, the Sun would have already traversed much of Capricorn by this date. In effect, Makar Sankranti would be expected to have started on the 25 December**; Christmas Day[^10].  
 > —  
-> További kapcsolat állhat fenn a fenevad és a Makara között, ha figyelembe vesszük annak lehetőségét, hogy a fenevad a Shandwick-kőre nem csak a Bak csillagképet, hanem a téli napfordulót és alapesetben a születésnapot is ábrázolhatja. Indiában a téli napforduló ünnepét "Makar Sankranti"-nak nevezik, és azt a napot jelöli, amikor a Nap belép a Bak jegyébe. Ezt a napot rendkívül jelentősnek tartják, mivel az istenek számára egy új nap kezdetét szimbolizálja (a hinduk szerint egy év egy nappal és egy éjszakával egyenértékű az istenek számára. A hinduk számára ez az időpont jelzi azt is, amikor a Nap ismét észak felé veszi útját, és az év fordulópontját. **Most nem a napforduló idején, hanem január 15-én vagy annak környékén ünneplik. Kr. u. 700-ban a precesszió miatt a Nap a Bak nagy részét már átutazta ekkorra. A Makar Sankranti tehát várhatóan december 25-én**, azaz karácsony napján kezdődött[^11].  
+> További kapcsolat állhat fenn a fenevad és a Makara között, ha figyelembe vesszük annak lehetőségét, hogy a fenevad a Shandwick-kőre nem csak a Bak csillagképet, hanem a téli napfordulót és alapesetben a születésnapot is ábrázolhatja. Indiában a téli napforduló ünnepét "Makar Sankranti"-nak nevezik, és azt a napot jelöli, amikor a Nap belép a Bak jegyébe. Ezt a napot rendkívül jelentősnek tartják, mivel az istenek számára egy új nap kezdetét szimbolizálja (a hinduk szerint egy év egy nappal és egy éjszakával egyenértékű az istenek számára. A hinduk számára ez az időpont jelzi azt is, amikor a Nap ismét észak felé veszi útját, és az év fordulópontját. **Most nem a napforduló idején, hanem január 15-én vagy annak környékén ünneplik. Kr. u. 700-ban a precesszió miatt a Nap a Bak nagy részét már átutazta ekkorra. A Makar Sankranti tehát várhatóan december 25-én**, azaz karácsony napján kezdődött[^10].  
 
 Kérdés, hogy ezen gregorián-naptárra szabott értelmezés mit jelent. Itt még feltettem volna azt a kérdést, hogy Forbes számol-e azzal, hogy a hindu naptár ilyen kezdőnapja ma is figyelembe veszi a Holdat (új- vagy teliholdat), de mint kiderül, a [[M/Makara Sankrati\|Makara Sankrati]] szoláris ünnep és nem foglalkozik a Holddal (viszont általában inkább 14-ére esik és nem 15-ére).  
 Az [alábbi](https://qr.ae/TWHPOk) Quora oldalon Ram Narayan nevű válaszoló írja, hogy 200 évvel ezelőtt január 12-ére esett a Sankranti és a precesszió viszi folyamatosan arrébb.  
@@ -526,7 +530,7 @@ Az időben visszafelé haladva a tavaszpont Halakban létét ugye megelőzi a Ko
 > Ezek az elnevezések közkeletűekké váltak és még ma is használatosak, holott a valóságos Tavaszpont, s vele együtt a többi sarkalatos pont is hátrafelé eltolódott az Állatöv csillagképeihez viszonyítva. A Tavaszpont például ma már nem esik egybe a Kos csillagkép-szakaszának 0-fokával, hanem kb. a Halak csillagképének elején jár és egyre jobban közeledik a Vízöntő csillagképéhez. A Nappályának 12 szakaszra való beosztását azonban a csillagászok egészen az újkori tudományos csillagászat kialakulásáig megtartották, s ezt a 12 szakaszt, a Tavaszpont hátramaradásának ellenére, továbbra is a csillagképek neveivel jelölték. Eszerint **az ekliptika körén két, egymással nem egyező állatövet kell figyelembe vennünk! Az egyik az állandó, valóságos Állatöv, az állócsillagképek köre; a másik a Nap évi körútjának Állatöve**, amelynek kezdőpontját a mindenkori Tavaszponttól számítjuk. Megkülönböztetésül az állandó Állatöv esetében csillagképekről beszélünk (a Kos, Bika, Ikrek, stb. csillagképei), a Nappálya eltolódó Állatövében viszont nem csillagképekről, hanem úgynevezett állatövi jegyekről van szó (a Kos, Bika, Ikrek, stb. állatövi jegyei). Az állatövi jegyek beosztása eszerint mindenkor változatlanul a Tavaszponttól kezdődik, ez Kos jegyének 0-foka, tekintet nélkül arra, hogy melyik pontra esik az állatövi csillagképek körén.  
 
 Jankovics Marcell A Nap könyve című könyvének 98-99. oldalán írja, hogy **mielőtt a mai tavaszpontot kijelölő Kos tüzes jeggyé vált volna, vizes jegy volt**, de az Oroszlán vizességére is kitér.  
-- Ennek persze egyszerű a magyarázata: az asztrológia zodiákusán a tüzes jegyeket vizesek előzik meg, azaz a precesszióval minden mozdul egy jeltartománnyit. De arról is lehet beszélni, hogy maga a [[V/Víz\|víz]] szavunk előképe [[V/VIT\|VIT]]/[[V/VID\|VID]] = fény, tűz.    
+- Ennek persze egyszerű a magyarázata: az asztrológia zodiákusán a tüzes jegyeket vizesek előzik meg, azaz a precesszióval minden mozdul egy jeltartománnyit. De arról is lehet beszélni, hogy maga a [[V/Víz\|víz]] szavunk előképe [[V/VIT\|VIT]]/[[V/VID\|VID]] = fény, tűz.
 
 #### Jankovics Marcell A Nap könyve...
 
@@ -595,40 +599,34 @@ Lásd még [[Y/Yuga cycles\|Yuga cycles]]. Lásd még [[S/Szarvas\|szarvas]] és
 Ugyanakkor a Tejútanya vulvája a [[M/Mula\|Mula]] holdházban lenne. Viszont **a precesszióval számolni kell**, ahogy [[G/Galactic centre\|Galactic centre]] címnél is szóltunk róla (lásd szürkével kiemelve illetve az alatta szereplő részt is).  
 
 [^2]: Lábjegyzet:  
-The Sanskrit the term `mukha` means "entranceway," "gate," or "mouth." The `kalamukha` (great mouth) is a motif found often in Hindu and Buddhist iconography.  
-—  
-A szanszkrit `mukha` kifejezés "bejáratot, "kaput" vagy "szájat" jelent. A `kalamukha` (nagy száj) a hindu és buddhista ikonográfiában gyakran előforduló motívum.  
-——  
-Mu-Ka lényegében a Fény Háza. [[S/Száj\|Száj]] is a [[S/SZA\|SZA]] = fény szóból indul ki.  
-
-[^3]: Lábjegyzet:  
 A mitikus íjászról szóló igen régi kínai elbeszélésben a felajzott íj (a Hajótat csillagkép) még a Sakálnak nevezett Szíriuszra irányul. Anubisz is sakálfejű volt. Mindenesetre a Szíriuszt – ókori minta nyomán – Európa-szerte ma is Kutya csillagnak, Eb csillagnak nevezik. Nálunk is. A feltevést alátámasztja, hogy a római korban Anubiszt az Ikrek asztrológiai urával, Mercuriusszal is azonosították. (Vö. azzal, hogy az "Ikrek csillagát", a **Szíriusz és az Ikrek planétaurát, a Merkúrt** Iránban egyaránt [[T/Tír\|Tír]]nek, "Nyílvesszőnek" nevezték.  
 —  
 Egy másik hosszabb lélegzetű Jankovics Marcell féle írást tele érdekességekkel, ezen témával kapcsolatban lásd [[S/Szent László és a leányszöktető kun\|Szent László és a leányszöktető kun]].  
 
-[^4]: Lábjegyzet:  
+[^3]: Lábjegyzet:  
 A kis évben ezzel analóg:  
 A 4 és fél milliárd éve megszületett bolygónk az óramutató járásával ellentétes irányba haladva 365,256 nap alatt, ugyan ennyiszer megfordulva saját tengelye körül kerüli meg a napot. Sebessége 30 km/sec, amellyel a csillagos égbolthoz képest közelítőleg 1º-ot halad előre naponta (a keringési pályát egy 360º-os mértani ellipszisbe nyúló körként kezeljük), így a Föld szemszögéből a csillagok egy év alatt egy teljes kört írnak le bolygónk körüli látszólagos égi pályájukon. \[Szűcs László – Égre írott történelem\]  
 
-[^5]: Lábjegyzet:  
+[^4]: Lábjegyzet:  
 A Földre vonatkoztatott precesszió által előidézett kúp- ill. tölcsérszerű elforgást angolul *conical motion*-nak hívják (a [[C/Cone\|cone]] = kúpot, tölcsért, toboz-formát is jelent, mind a kúnok-hunok vallási jelképe nyomán).  
 
-[^6]: Lábjegyzet:  
+[^5]: Lábjegyzet:  
 "We scientists would claim that in the absence of precession, the tropical year and the sidereal year would be equal." – Prof. Douglas P. Hube, Dept. of Physics University of Alberta, IAU member, in his comments on a manuscript submitted to him by Karl-Heinz Homann, 1997.  
 —  
 "Mi, tudósok azt állítanánk, hogy a precesszió hiányában a tropikus év és a sziderikus év egyenlő lenne." – Prof. Douglas P. Hube, Albertai Egyetem Fizika Tanszék, IAU-tag, a Karl-Heinz Homann által neki benyújtott kézirathoz fűzött megjegyzéseiben, 1997.  
 
-[^7]: Lábjegyzet:  
+[^6]: Lábjegyzet:  
 Time Equivalence of the Tropical Year and the Sidereal Year  
 
-[^8]: Lábjegyzet:  
-Valahol kiszámoltam, hogy a Szíriusz 8.6 fényéves távolságával mintegy 25000 Naptávolságra van tőlünk.  
+[^7]: Lábjegyzet:  
+A Szíriusz 8.6 fényéves távolságával mintegy 543000 Naptávolságra van tőlünk.
 
-[^9]: Lábjegyzet:  
+
+[^8]: Lábjegyzet:  
 Azért elvileg, mert a csillagászati szoftverek, melyek ezen diagramok elkészítésében segítséget nyújtottak, úgy számolnak, hogy a sziderikus és tropikális év között különbséget tesznek. Éppen ezért gyakorlatilag megbízhatatlanok. Gyakorlatilag nem tudjuk, hogy 3-5000 évvel ezelőtt mi hol, hogyan állt, csak a régiek tudták. Az, hogy mely szent építményeik hová, milyen irányba lettek tájolva a jelenlegi világhónap előtti évezredekben, belemagyarázás is lehet.  
 
-[^10]: Lábjegyzet:  
+[^9]: Lábjegyzet:  
 Lásd Jankovics Marcell A fa mitológiája című könyvének 208. oldalán a 116. sz. képet.  
 
-[^11]: Lábjegyzet:  
+[^10]: Lábjegyzet:  
 Ez magyarázhatja\[?\] meg azt is, hogy a Szarvas hogyan lehetett a [[S/Skorpió csillagkép\|Skorpió csillagkép]] és a [[B/Bak csillagkép\|Bak csillagkép]] helyén is. Erről [[M/Makara Sankrati\|Makara Sankrati]] címnél is volt szó.  

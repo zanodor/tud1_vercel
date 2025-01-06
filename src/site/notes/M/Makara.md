@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2024-10-25T23:16"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2025-01-02T13:51"}
 ---
 
 
@@ -13,16 +13,21 @@ Ennek megfelelően a csillagképről kapta a Makara szoláris hónap (a szintén
 ...című könyvében – nyilván a [[M/Makara Sankrati\|Makara Sankrati]] címnél említett precessziós okok miatt – viszont Makara úgy jön elő, mint a [[T/Tejútanya\|Tejútanya]] vulva-szája, nyílása[^1]\:  
 > The head of the *simsumara* crocodile (or makara) could very well be the bulging area of the nuclear bulge with the dark-rift mouth.  
 > ...  
-> The immediate association is thus with a birthplace. Both Guénon and Coomaraswamy identify the *kalamukha* as birther and devourer and place it in Capricorn (really Sagittarius). I mentioned earlier that the astronomical reference of makara or mukha[^2] is probably to the dark rift in the Milky Way, which the Maya also identify as a monster mouth. The related monster mouth of the Vedic *simsumara* crocodile faces upstream and devours all unsuspecting seekers, preventing them from passing beyond the Sagittarian portal that it guards.  
+> The immediate association is thus with a birthplace. Both Guénon and Coomaraswamy identify the *kalamukha* as birther and devourer and place it in Capricorn (really Sagittarius). I mentioned earlier that the astronomical reference of `makara` or `mukha` is probably to the dark rift in the Milky Way, which the Maya also identify as a monster mouth. The related monster mouth of the Vedic *simsumara* crocodile faces upstream and devours all unsuspecting seekers, preventing them from passing beyond the Sagittarian portal that it guards.  
 > —  
-> A *simsumara* krokodil (vagy makara) feje nagyon is lehet a magdudor kidudorodó területe a sötét hasadék szájával.  
+> A *simsumara* krokodil (vagy makara) feje akár a galaxismag kidudorodásának a sötét hasadékszerű szájjal rendelkező kiöblösödő része is lehet.  
 > ...  
-> A közvetlen asszociáció tehát egy szülőhelyre vonatkozik. Guénon és Coomaraswamy egyaránt a *kalamukhát* azonosítja a szülő- és felemésztővel, és a Bakba (valójában a Nyilasba) helyezi. Korábban említettem, hogy a makara vagy mukha csillagászati utalása valószínűleg a Tejútrendszerben lévő sötét hasadékra vonatkozik, amelyet a maják szintén szörnyszájként azonosítanak. A védikus *simsumara* krokodil rokon szörnyszája felfelé néz, és felfal minden gyanútlan keresőt, megakadályozva őket abban, hogy átlépjenek az általa őrzött Nyilas-kapun.  { #6panc5}
+> A közvetlen asszociáció tehát egy szülőhelyre vonatkozik. Guénon és Coomaraswamy egyaránt a *kalamukhát* azonosítja a szülő- és felemésztővel, és a Bakba (valójában a Nyilasba) helyezi. Korábban említettem, hogy a `makara` vagy `mukha` csillagászati utalása valószínűleg a Tejútrendszerben lévő sötét hasadékra vonatkozik, amelyet a maják szintén szörnyszájként azonosítanak. A védikus *simsumara* krokodil rokon szörnyszája felfelé néz, és felfal minden gyanútlan keresőt, megakadályozva őket abban, hogy átlépjenek az általa őrzött Nyilas-kapun.  { #6panc5}
 
+- Az említett szanszkrit szóról emlékezzünk meg:  
+> The Sanskrit the term `mukha` means "entranceway," "gate," or "mouth." The `kalamukha` (great mouth) is a motif found often in Hindu and Buddhist iconography.  
+> —  
+> A szanszkrit `mukha` kifejezés "bejáratot, "kaput" vagy "szájat" jelent. A `kalamukha` (nagy száj) a hindu és buddhista ikonográfiában gyakran előforduló motívum.  
+- Mu-Ka lényegében a Fény Háza. [[S/Száj\|Száj]] is a [[S/SZA\|SZA]] = fény szóból indul ki. Ugyanakkor a latinban is `bucca` = száj.
 
 A leírása alapján ez a Jankovics Marcell Jelkép-kalendárium című könyvében is előjövő, ott [[V/Varuna\|Varuna]] cethal-szerű szörnyével, másutt, Mély a múltnak kútja című könyvében pedig magával a [[C/Cet csillagkép\|Cet csillagkép]]pel azonosított csillagkép:  
-> A [[H/Halak csillagkép\|Halak csillagkép]] két jelentéktelen, halformájúnak alig nevezhető kis csillagzatból áll. A Halak égi tengerében úszik viszont az óriás Cet, a mítoszok hősöket, hősnőket elnyeléssel fenyegető tengeri szörnyének égi képmása (a görög kétosz nemcsak "cet", hanem mindenféle "tengeri szörny" neve, beleértve a nevezett csillagzatot is). A görög mitológiában hím- és nőnemű alakban egyaránt szerepel (Kéteusz és Kétó). A róla szóló legismertebb történet arról szól, hogyan szabadította meg tőle Perszeusz Androméda királylányt. A rege minden szereplője ott ragyog a tavaszi égnegyedben. A csillagkép jelentésköre azonban tágabb a görög mitológiánál. Éppúgy tekinthetjük a Jónást elnyelő nagy hal képmásának, mint Varuna Makaráját ábrázoló csillagképnek.  
-
+> A [[H/Halak csillagkép\|Halak csillagkép]] két jelentéktelen, halformájúnak alig nevezhető kis csillagzatból áll. A Halak égi tengerében úszik viszont az óriás Cet, a mítoszok hősöket, hősnőket elnyeléssel fenyegető tengeri szörnyének égi képmása (a görög `kétosz` nemcsak "cet", hanem mindenféle "tengeri szörny" neve, beleértve a nevezett csillagzatot is). A görög mitológiában hím- és nőnemű alakban egyaránt szerepel (Kéteusz és Kétó). A róla szóló legismertebb történet arról szól, hogyan szabadította meg tőle Perszeusz Androméda királylányt. A rege minden szereplője ott ragyog a tavaszi égnegyedben. A csillagkép jelentésköre azonban tágabb a görög mitológiánál. Éppúgy tekinthetjük a Jónást elnyelő nagy hal képmásának, mint Varuna Makaráját ábrázoló csillagképnek.  
+>
 > Uránosz nem sajátosan görög isten; az indoeurópai nyelveket beszélő népek valamennyien ismerték. Indiában és Perzsiában az ősi árja istentriász tagjaként Varuna volt a neve. Eredetileg nemcsak égisten volt, hanem a Hold, az eső és a földi vizek ura, valamint egyik istentársával, Jamával együtt a halottak királya. Fehér színűnek képzelték, kezében kötélhurokkal, amint **Makará**n, a cethalszerű szörnyön lovagol. A görög csillagképek között is van egy Cethal (latinul Cetus), amely részben a Vízöntő alatt lubickol az ég tengerében. (Jegyezzük meg: a perzsa és hindu csillagképnevek alig térnek el a görög-rómaitól.)  
 
 Tilak Orionjában is volt szó szájról, de ott arról volt szó, hogy a nakshatrakban kimért év száját, vagy a nakshatrak száját hívták az év kezdőjének. Lehet, hogy lényegében egy és ugyanarról van szó, téli napfordulós évkezdésről (hogy ezt az évkezdést most még viszonyították első holdtöltéhez, vagy sem, most mindegy is). Lásd erről [[M/Makara Sankrati\|Makara Sankrati]].  
@@ -55,7 +60,7 @@ A Constellations oldal szerzője, az Richard H. Allen Star Names című könyvé
 > Gamma (γ Nashira) marked the 27th Babylonian ecliptic asterism, Mahar sha hi-na Shahu, the Western One in the Tail of the Goat.  
 —  
 > Gamma (γ Nashira) jelölte a 27. babiloni ekliptikai csillagképet, Mahar sha hi-na Shahu-t, a Nyugatit a Kecskefarokban.  
-- A Shahu név a [[S/Sah\|Sahu]]-nak megfelelő lehet: fej, fő jelentéssel.  
+- A Shahu név a [[S/Sah\|Sahu]]-nak megfelelő lehet: fej, fő jelentéssel.
 
 Másutt asszír-babiloni `mahar` = fiú (Son, azaz Sun) értelmet találtam, megint másutt `mahar` = (tanú) jelenlétében, ill. előtt. Ez hasonló a más nyelvekben talált, lentebb is említett 'újra', 'visszatér' fogalmaihoz, és visszavihető [[M/Magor\|Magor]] (újbóli) megszületésére, hol: a Bak Magur/Makar(a) nevével is fémjelzett téridőbeli helyen.  
 Másutt az asszír `mahar` = szemben állni, rivalizálni értelmét találom (honnan lehet [[N/Nimrud\|Nimrud]] nevet magyarázni akaró héber `marad` = lázad ige is akár), melyekhez hasonló, rettegést kifejező szavakat Hargita Csaba gyűjtött (lásd [[M/Magyar\|magyar]]) és akár az M-G-R vázú [[L/Lemniszkáta\|lemniszkáta]] kapcsán is taglalt, alant is sorolt finnugor szavak párja is lehet (Magor ellenpárja Hunor).  
@@ -82,10 +87,14 @@ Az orosz szó viszont hasonlítható a komi `megyr` 'ív, hajlított forma', `my
 [Ezen](https://www.slovorod.ru/dic-dal/dal-m.htm) oldalon Dal orosz értelmező szótárában is megtaláljuk (a fenti mondást nála az utolsó sorában):  
 > МАКАР, прозвище рязанцев, особ. кадомцев, будто по словам Петра I, встретившего там трех Макаров сряду, и сказавшего шутя: будте ж вы все Макары! Это лучшие рыболовы и целовальники, почему откупщиков, и вообще плутов, зовут Макарами. | Сиб. простак. | Шуточн. комар. Подпустить макарку, сплутовать. Макарыга, макарьевский нищий, пск. твер. наглый, безотвязный попрошайка. Вчера Макар гряды копал, ныне Макар в воеводы попал, намек на откупщиков винных. Я тебя туда спроважу, куда Макар телят не гонял! Комар да мошка, Макар да кошка. Макара двураз не женят. На бедного Макара шишки валятся.  
 > GT ford.:  
-> MAKAR, the nickname of the Ryazan[^3] people, esp. Kadomtsev, as if, according to Peter I, who met three Makars in a row there, and said jokingly: if you are all Makars! These are the best fishermen and kissers, why tax farmers, and rogues in general, are called Makarami. | Sib. simpleton. | Comic. mosquito. Let the macarka go, cheat. Makaryga, Makaryevsky beggar, Psk. hard. an impudent, incoherent beggar. Yesterday Makar dug ridges, now Makar got into the governor, a hint of wine tax farmers. I'll take you there, where Makar didn't drive calves! Mosquito and midge, Makar and a cat. Makar is not married twice. Bumps are falling on poor Makar.  
+> MAKAR, the nickname of the Ryazan people, esp. Kadomtsev, as if, according to Peter I, who met three Makars in a row there, and said jokingly: if you are all Makars! These are the best fishermen and kissers, why tax farmers, and rogues in general, are called Makarami. | Sib. simpleton. | Comic. mosquito. Let the macarka go, cheat. Makaryga, Makaryevsky beggar, Psk. hard. an impudent, incoherent beggar. Yesterday Makar dug ridges, now Makar got into the governor, a hint of wine tax farmers. I'll take you there, where Makar didn't drive calves! Mosquito and midge, Makar and a cat. Makar is not married twice. Bumps are falling on poor Makar.  
 > —  
 > MAKAR, a rjazáni emberek, különösen Kadomcev beceneve, mintha I. Péter szerint, aki ott három makárral találkozott egymás után, és tréfásan azt mondta: ha mind makárok vagytok! Ezek a legjobb halászok és csókolók, miért hívják az adózó földműveseket és általában a gazembereket Makaraminak. | Szibériában: együgyű. | Tréfásan: szúnyog. Engedd el a makarkát, csaló. Makariga, makarijevszkij koldus, psz. kemény, szemtelen, összefüggéstelen koldus. Tegnap Makar árkot ásott, most Makar került a kormányzóba, egy csipetnyi boradó gazdák. Elviszlek oda, ahol Makár nem hajtott borjút! Szúnyog és szúnyog, Makár és egy macska. Makar nem házasodott meg kétszer. Szegény Makárt az ág is húzza.  { #nlv1sz}
 
+- [Ezen](https://hu.wikipedia.org/wiki/Rjazanyi_ter%C3%BClet) Wikipédia oldalon a kérdéses területről:  
+> A Rjazanyi terület (oroszul: Рязанская область) az Oroszországi Föderációt alkotó jogalanyok egyike (szubjekt), önálló közigazgatási egység, a Központi Körzethez tartozik. Az európai országrész központi részén, az Oka folyó középső és alsó szakasza mentén fekszik.  
+> Északon a Vlagyimiri, északkeleten a Nyizsnyij Novgorod-i, délkeleten a Penzai, délen a Tambovi és a Lipecki, nyugaton a Tulai, északnyugaton a Moszkvai terület, keleten Mordvinföld határolja. Székhelye Rjazany, Moszkvától mindössze 196 km-re.  
+> Területe 39 600 km²; lakossága 1 194 800 fő (2005), a népsűrűség 30,2 fő/km².  
 
 [[H/Hát#Hátra, vissza téridőbeli értelmezése – Magor újjászületése\|Hátra, vissza téridőbeli értelmezése – Magor újjászületése]] cím/alcímnél írottak is támogatják a fentieket:  
 A hát, vissza fogalmainak idegen nyelvekbeni megjelenését tekintve érdekes, hogy Magor neveit, annak változatát és lecsapott formáját találjuk meg.  
@@ -108,7 +117,7 @@ De maradjunk a krokodilnál. Ugyanis Edward P. Butler, aki igen profin összeál
 
 #### Sergey Smelyakov és Jan Wicherink...
 
-...szerzőpáros által írt Crucifying the Earth on the Galactic Cross című tanulmányuk szemelvényeiben (Blavatsky adatai alapján ill. őt idézve) kimondják, hogy az egyiptomi és ind krokodil a [[S/Sárkány\|sárkány]] megfelelője kell legyen (a The Dragon in Medieval East Christian and Islamic Art c. írásban lábjegyzetben is ez áll[^4]) (ahogy [[C/Crocodile\|crocodile]] címnél – ahol ezen adatsor szintén szerepelt – is írtuk, teljesen logikus a sárkány értelmezés):  
+...szerzőpáros által írt Crucifying the Earth on the Galactic Cross című tanulmányuk szemelvényeiben (Blavatsky adatai alapján ill. őt idézve) kimondják, hogy az egyiptomi és ind krokodil a [[S/Sárkány\|sárkány]] megfelelője kell legyen (a The Dragon in Medieval East Christian and Islamic Art c. írásban lábjegyzetben is ez áll[^2]) (ahogy [[C/Crocodile\|crocodile]] címnél – ahol ezen adatsor szintén szerepelt – is írtuk, teljesen logikus a sárkány értelmezés):  
 > In India and Egypt these Dhyanis were connected with the Crocodile, and their abode is in Capricornus. These are **convertible terms** in Indian astrology, as this (Tenth) Sign of the Zodiac is called Makara, loosely translated "Crocodile." The word itself is occultly interpreted in various ways ...\[2, V.1, P.219\]  
 > One of the explanations of the real though hidden meaning of this Egyptian religious glyph is easy. The crocodile is the first to await and meet the devouring fires of the morning sun, and very soon came to personify the solar heat. When the sun arose, it was like the arrival on earth and among men "of the divine soul which informs the Gods." Hence the strange symbolism. The mummy donned the head of a crocodile to show that it was a soul arriving from the earth.  
 > The Crocodile is the Egyptian dragon. It was the DUAL SYMBOL of HEAVEN and EARTH; ... the Egyptians represented the sun in a ship as its pilot, this ship being carried along by a crocodile "to show the MOTION OF THE SUN in the moyst (SPACE)". Moreover, it was the symbol of Egypt \[2, V.1, P.409\].  
@@ -122,7 +131,7 @@ De maradjunk a krokodilnál. Ugyanis Edward P. Butler, aki igen profin összeál
 
 
 Clarias **Magur** (lásd [itt](https://www.fishbase.se/summary/Clarias-magur.html)) viszont egy harcsaféle neve.  
-PNL adataként egy [[M/Makár\|makár]] nevű halat is találtam.  
+A Pallas Nagy Lexikona adataként egy [[M/Makár\|makár]] nevű halat is találunk.  
 
 [[H/Hunor és Magor#Hun/Kut(a)/Szkíta és Magyar nevek és névváltozatok és egymás melletti illetve egymással szembeniségük vizsgáltata\|Hun/Kut(a)/Szkíta és Magyar nevek és névváltozatok és egymás melletti illetve egymással szembeniségük vizsgáltata]] és [[H/Hunor és Magor#Hunor és Magor, azaz Magor és Hunor Makara és Kumara változatai\|Hunor és Magor, azaz Magor és Hunor Makara és Kumara változatai]] cím/alcímnél taglaljuk Makarát és a vele átellenben lévő Kumarát.  
 
@@ -132,19 +141,6 @@ PNL adataként egy [[M/Makár\|makár]] nevű halat is találtam.
 Ugyanakkor a Tejútanya vulvája a [[M/Mula\|Mula]] holdházban lenne. Viszont a precesszióval számolni kell, ahogy [[G/Galactic centre\|Galactic centre]] címnél is szóltunk róla (lásd szürkével kiemelve illetve az alatta szereplő részt is).  
 
 [^2]: Lábjegyzet:  
-The Sanskrit the term `mukha` means "entranceway," "gate," or "mouth." The `kalamukha` (great mouth) is a motif found often in Hindu and Buddhist iconography.  
-—  
-A szanszkrit `mukha` kifejezés "bejáratot, "kaput" vagy "szájat" jelent. A `kalamukha` (nagy száj) a hindu és buddhista ikonográfiában gyakran előforduló motívum.  
-——  
-Mu-Ka lényegében a Fény Háza. [[S/Száj\|Száj]] is a [[S/SZA\|SZA]] = fény szóból indul ki. Ugyanakkor a latinban is `bucca` = száj.  
-
-[^3]: Lábjegyzet:  
-[Ezen](https://hu.wikipedia.org/wiki/Rjazanyi_ter%C3%BClet) oldalon írják:  
-A Rjazanyi terület (oroszul: Рязанская область) az Oroszországi Föderációt alkotó jogalanyok egyike (szubjekt), önálló közigazgatási egység, a Központi Körzethez tartozik. Az európai országrész központi részén, az Oka folyó középső és alsó szakasza mentén fekszik.  
-Északon a Vlagyimiri, északkeleten a Nyizsnyij Novgorod-i, délkeleten a Penzai, délen a Tambovi és a Lipecki, nyugaton a Tulai, északnyugaton a Moszkvai terület, keleten Mordvinföld határolja. Székhelye Rjazany, Moszkvától mindössze 196 km-re.  
-Területe 39 600 km²; lakossága 1 194 800 fő (2005), a népsűrűség 30,2 fő/km².  
-
-[^4]: Lábjegyzet:  
 The heads of the mythical creatures, the Indian composite marine creature, makara, and the Central Asian dragon, were sometimes portrayed in a stylistically closely related manner. Since only the head is portrayed, it is impossible to identify it with a degree of certainty as belonging to either creature, though both the makara and the Central Asian dragon can to a large extent be considered semantically equivalent.  
 Clubs terminating in dragon-like heads are featured in the seventh-century wall paintings at Sogdian Afrāsīyāb; see Albaum, 1975, fig. 13. On the makara in Indian iconography, see Vogel, 1929-30, pp. 133-47; Coomaraswamy, 1928-31, repr. Delhi, 1971, pp.  47-56, esp. pp. 47-9; Combaz, 1945, pp. 146-55; Bosch, 1960; Rosenfield, 1967, pp. 179-83; Boardman, 1986, pp. 451-3.  
 —  

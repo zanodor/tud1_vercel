@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kalács/","title":"Kalács","tags":["Englishtexttranslated"],"created":"2024-12-18T07:36","updated":"2024-12-18T07:36"}
+{"dg-publish":true,"permalink":"/K/Kalács/","title":"Kalács","tags":["Englishtexttranslated"],"created":"2024-12-18T07:36","updated":"2024-12-27T10:23"}
 ---
 
 
@@ -10,7 +10,8 @@ A hivatalos, szlávozó álláspont szerint eredete a kerek (édes)süteményt, 
 
 #### Péterfai János írja:
 
-> A Kalács pontos jelentése Kal-Ács, ami a Nagy Ácsoló \[micsoda Isteni név\] fogalmat tartalmazza. A kalácsban letett fenyőgallyak, amit a fenyő köré helyeztek, a Végtelen Fonat mintáját ábrázolták. Ez a megoldás, a Végtelen Fonat, aminek több jelentése is lehet. Az egyik az Örök Élet, ami a Nap újjászületésében realizálódik \[szép utalás [[K/Karácsony\|Karácsony]]ra\]. A kalácsot tésztából is el lehet készíteni, ma így ismerjük leginkább.  
+> A Kalács pontos jelentése Kal-Ács, ami a Nagy Ácsoló \[micsoda Isteni név\] fogalmat tartalmazza. A kalácsban letett fenyőgallyak, amit a fenyő köré helyeztek, a Végtelen Fonat mintáját ábrázolták. Ez a megoldás, a Végtelen Fonat, aminek több jelentése is lehet. Az egyik az Örök Élet, ami a Nap újjászületésében realizálódik. A kalácsot tésztából is el lehet készíteni, ma így ismerjük leginkább.  
+- Szép utalás az alant még említett [[K/Karácsony\|Karácsony]]ra.
 - Jól mondja Péterfai János, hogy [[T/Tészta\|tésztá]]ból is el lehet készíteni, hiszen nem magára a tésztából elkészített étekre utal a név.
 
 Az -ács tag még azért érdekes, mert például a [[P/Pogácsa\|pogácsa]] szó utótagjában is megvan.  
@@ -110,7 +111,7 @@ De a kaláccsal mondhatni egy alakúnak is mondható a [[H/Halak csillagkép\|Ha
 ![assets/Kalács_image7.png](/img/user/K/assets/Kal%C3%A1cs_image7.png)  
 [Ezen](https://qr.ae/pNdLh6) Quora kérdésre adott válaszok és kommentek közül kihámozott infók alapján az az érdekes, hogy a magyar kalács nem kerek, valamint inkább kenyérféle, mintsem édesség (szemben az északi szlávval).  
 [Ezen](https://en.wikipedia.org/wiki/Kolach_(bread)) Wiki oldalon az alábbi képet osztják meg viszont:  
-![Kalács-20241206180244915.jpg](/img/user/K/assets/Kal%C3%A1cs-20241206180244915.jpg)
+![Kalács_image20241206180244915.jpg](/img/user/K/assets/Kal%C3%A1cs_image20241206180244915.jpg)
 
 [Ezen](https://qr.ae/pNdLnA) válaszban a szlovák illető egy kereket és kerek alakú kalácsot mutat be (a lengyel Dorotheától kapott adat szerint: `kolacz` lengyelül kerek esküvői torta). Akkor jöttem rá, hogy a [[K/Kolos\|Kolos]] (mely a Küllős névvel is azonos) Napistennév a kiinduló. Abban valóban igaza van a szlovák válaszadónak, hogy kereknek kellene lennie a(z akár édes (mint a Nap cirógatása)) kenyérfélének. Sőt Kolos L>R Körös, ahol Kör = Nap. Az ugyan igaz, hogy eredetileg a Tejútanya testét fogyasztották, nem a Napistenét; a mi kalácsunk inkább a Tejútra utaló alakú. De hasonló témát boncolgattunk a Kör név kapcsán is: lehet a Tejút-galaxis köre is. Tehát az is elképzelhető, hogy a Nagy-Ős korábban a Tejútanya volt és a nevet megörökölte a Napisten. Így a magyar kalács formája a régi-eredeti forma maradt volna és a szláv a napvallás korához illeszkedően kerek.  
 Tulajdonképpen azt kell látni, hogy a magyar fonott kalács alakját tekintve egészen megegyezik a [[K/Kalász\|kalász]] alakjával, a szavak alakját tekintve is (lásd alant).  

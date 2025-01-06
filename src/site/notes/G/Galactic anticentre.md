@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2024-12-12T00:43"}
+{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2025-01-05T21:23"}
 ---
 
 
@@ -65,11 +65,11 @@ Egyébként ha nem lett volna elég egyértelmű, hogy miről van szó, Jankovic
 
 Más forrás(ok)ból:  
 > The rotational Galactic Center of the Milky Way lies in the direction of Sagittarius, with the glowing band of hazy light then stretching all the way across to its anticenter in Auriga, before returning back to Sagittarius.  
-> 
+>
 > The Earth and Sun are roughly two-thirds of the way from the center of our Galaxy to a vaguely defined edge. Towards the Galactic Center in Sagittarius, the Milky Way is thus broad and thick, while in the other direction, 180 degrees away, toward the Anticenter at the border between Taurus and Auriga (see pic attached), we look through a far-thinner blanket of stars, rendering the Milky Way faint and harder to distinguish.  
 > The Milky Way's anticenter lies near the star Beta (β) Tauri (Elnath), a star shared by Taurus and Auriga. When we look toward the anticenter, our gaze first penetrates the narrow spiral arm called the Orion Spur where our solar system and many of the nighttime stars call home. Approximately 6,000 light-years out, we encounter the Perseus Arm of the Milky Way, the next spiral arm outward from the galactic center and home to the famous Double Cluster in Perseus.  
 > This is an artistʼs depiction of what our galaxy would look like if you could see it from the outside. The sun is in the flat disk about halfway from center to edge. Each of the spiral arms has its own name, and Iʼve added the locations of the center and anticenter.  
-> 
+>
 > Simeis 147, also known as the Spaghetti Nebula, is a large, faint supernova remnant in the direction of the galactic anticenter.  
 > The supernova remnant Simeis 147 is also known as Sharpless 2-240 or the Spaghetti Nebula. This big red rose with glowing petals of hydrogen gas is located very close to the anticenter direction, 3,000 light-years away. Measuring 150 light-years in true diameter, it spans some 3° as seen from Earth.  
 > This black and white chart shows all of our featured objects and can be saved and printed out for use at the telescope. I've added the outline of Simeis 147.  
@@ -97,7 +97,7 @@ John Major Jenkins Galactic Alignment című könyvének 33. oldalán írja, hog
 
 > By way of the ballcourt's solstitial alignment with the Milky Way, which is nevertheless a north-south alignment, the north-south axis of Chichen is conflated with polar north and Galactic Center south. While the Pole Star hovers some 20° above the northern horizon, the nuclear bulge of the Galactic Center can be seen to pass through the southern meridian at twice that height-thus again the north-south dialogue between polar and galactic centers. Although on one level an opposition between the Galactic Center and the northern polar region can be viewed (as just described), a primary axial opposition between the Galactic Center and the Pleiades also exists.  
 > —  
-> A gömbpálya és a Tejútrendszer napfordulós együttállása révén, amely mindazonáltal észak-déli együttállás, a Chichen észak-déli tengelye összeolvad a poláris északkal és a Tejútközpont déli részével. Míg a Sarkcsillag mintegy 20°-kal az északi horizont felett lebeg, addig a Tejútközpont nukleáris dudora láthatóan kétszer ekkora magasságban halad át a déli meridiánon – így ismét észak-déli párbeszéd alakul ki a sarki és a galaktikus középpont között. Bár egy szinten a Tejútközpont és az északi sarkvidék közötti szembenállás látható (az imént leírtak szerint), a Tejútközpont és a Plejádok között is létezik egy elsődleges tengelyirányú szembenállás.  
+> A gömbpálya és a Tejútrendszer napfordulós együttállása révén, amely mindazonáltal észak-déli együttállás, a Chichen észak-déli tengelye összeolvad a poláris északkal és a Tejútközpont déli részével. Míg a Sarkcsillag mintegy 20°-kal az északi horizont felett lebeg, addig a galaxismag dudora láthatóan kétszer ekkora magasságban halad át a déli meridiánon – így ismét észak-déli párbeszéd alakul ki a sarki és a galaktikus középpont között. Bár egy szinten a Tejútközpont és az északi sarkvidék közötti szembenállás látható (az imént leírtak szerint), a Tejútközpont és a Plejádok között is létezik egy elsődleges tengelyirányú szembenállás.  
 
 Azaz a Tejútközpontból különböző képzeletbeli egyenesek húzhatók, de gyakorlatilag a Tejút forgása miatt más és más világtengely (Tejút = világfa = világtengely) értelmezéseket kapunk. Ahogy Jankovics Marcell is írja, nem teljesen idevagóan ([[T/Tejút\|Tejút]] címnél is szerepelt):  
 A Tejút 24 óra alatt látszólag körbefordul az égen, ezért a türelmes megfigyelő néhány óra múlva úgy látja, mintha eldőlt volna eredeti helyzetéhez képest.  
@@ -121,4 +121,4 @@ But why these locations? The answer is quite simple. The Pleiades lie in the dir
 De miért pont ezeken a helyeken? A válasz nagyon egyszerű. A Plejádok a Galaktikus Anticentrum irányában helyezkednek el; az Orion és az Ikrek is, de a Plejádokat mindig is a magasabb tudatossággal hozták összefüggésbe. Mivel a Plejádok szemben állnak a Tejútközponttal, az általam kidolgozott mezoamerikai kozmológia valójában egy Tejútközpont-Galaktikus Anticentrum együttállásról szól, amely csillagászatilag a precesszió által úgy van időzítve, hogy 1975 és 2240 között tetőzik.  
 
 [^2]: Lábjegyzet:  
-Lásd arról, hogy a Tejútfa gyökerének neve hogyan lehetett [[R/Ruta\|ruta]]-ból [[R/Root\|root]], ott.  
+Arról, hogy a Tejútfa gyökerének angol [[R/Root\|root]] neve hogyan jöhetett létre [[R/Ruta\|ruta]]-ból, lásd ott.  

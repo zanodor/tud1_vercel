@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2024-10-25T22:33"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2024-12-21T04:10"}
 ---
 
 
@@ -183,7 +183,7 @@ A lélekvándorlás ismeretének bizonyságául nemcsak az a történet szolgál
 
 Kandra Kabos Magyar Mythologia című könyvének (a PDF) 234. oldalán szól a lélek(vándorlás)ról.  
 
-#### Pap Gábor említett Gondolatok a szkíta nép-nemzeti szertartásrendről...
+#### Pap Gábor Gondolatok a szkíta nép-nemzeti szertartásrendről...
 
 ...című cikke közepétől a szkíta ősbölcsesség sámánisztikus és manicheista leszármazás-vonalának hasonlításában (a [[M/Manicheizmus\|manicheizmus]] és [[S/Szellem\|szellem]] címnél taglalt első és harmadik, valamint a hármas rétegződést taglaló második tétel után) negyedik tételként hozza fel a reinkarnáció tanáét:  
 > Bármily meglepően hangozzék is, ez a tanrendszer a samanizmusnak – legalábbis az obi-ugorok körében máig eleven – gyakorlatában a maga teljes kifejlettségében dokumentálható. (Vö.: Schmidt Éva 1993/1-2.[^4])  
@@ -240,8 +240,8 @@ Mondja még itt korábban, hogy az ysa/isa a halhatatlan lélek, mely a katoliku
 Mi ok volt rá, hogy azt írják: ysa, por és hamu vagyunk? Hitük szerint éppen így megfelelt volna a TEST és LÉLEK kifejezés is!  
 Na ez egy érdekes kérdést fel, melyet lentebb és [[S/Szentháromság\|Szentháromság]] címnél is taglalunk.  
 
-Ha elfogadjuk, hogy a halotti beszéd "ysa" fogalma az isten által teremtett lélek – őseink lelke(!) – bizonyos, hogy a III. Béla kori magyarságban még élt ez a kettős lélekhit. Ezek szerint az embernek kettős lelke van: egy ysa-lelke és egy lélek-lelke, az előbbi az isteni lélek, az utóbbi pedig az élet-lélek. Az ysa-lelket pedig ezért nevezhetjük árnyék-léleknek, hiszen mint az árnyék követi az élet-lelket és az élet megszüntekor, a halálban \[ezt a lelket kíséri vissza a [[P/Psychopomp\|psychopomp]] kutya; innentől érthetővé válik a [[D/DOH\|DOH]] címnél taglalt szláv szavak értelme is\] visszatér az árnyékvilágba.  
-- Hogy a mellékelt képeken valóban a kettős lélekhitre utaló ábrázolások vannak-e, ebben nem vagyok biztos, de legyen idetéve.
+Ha elfogadjuk, hogy a halotti beszéd "ysa" fogalma az isten által teremtett lélek – őseink lelke(!) – bizonyos, hogy a III. Béla kori magyarságban még élt ez a kettős lélekhit. Ezek szerint az embernek kettős lelke van: egy ysa-lelke és egy lélek-lelke, az előbbi az isteni lélek, az utóbbi pedig az élet-lélek. Az ysa-lelket pedig ezért nevezhetjük árnyék-léleknek, hiszen mint az árnyék követi az élet-lelket és az élet megszüntekor, a halálban \[ezt a lelket kíséri vissza a [[P/Psychopomp\|lélekvezető]] kutya; innentől érthetővé válik a [[D/DOH\|DOH]] címnél taglalt szláv szavak értelme is\] visszatér az árnyékvilágba.  
+- Hogy a mellékelt képeken valóban a kettős lélekhitre utaló ábrázolások vannak-e, ebben nem vagyok biztos, de legyen idetéve.  
 ![assets/Lélek_image2.jpeg|invert_dark](/img/user/L/assets/L%C3%A9lek_image2.jpeg)  
 
 Az számomra nyilvánvaló, hogy a fentebb már említett [[I/Íz\|íz]] megegyezik az isa forgalmával, mely [[I/Isa\|isa]]-ről korábban a héber nyelv segítségével is kiemeltük a lényeget:  
