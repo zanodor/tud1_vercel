@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kína/","title":"Kína","tags":["Englishtexttranslated"],"created":"2023-11-21T09:12","updated":"2024-10-25T22:22"}
+{"dg-publish":true,"permalink":"/K/Kína/","title":"Kína","tags":["Englishtexttranslated"],"created":"2023-11-21T09:12","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -35,10 +35,9 @@ A másik a Huna név, melyből ugyanúgy lehetett létrejött Kína, mint ahogy 
 #### A Czuczor-Fogarasi szótár...
 
 ...adata szerint nem maguk adták ezen nevüket:  
-> SÍNA fn. tt. Síná-t. Keleti roppant birodalom, Kelet-Indiától északra; Sínától pedig északra feküdt a Krisztus előtti századokban a régi húnok (hiongnuk) birodalma, kik ellen építtetett a híres sinai kőfal. Német és némely más nyelveken: China. Mi a franczia kiejtést követve azért írtunk Sínát, mert ch a magyar nyelvben, legalább mostani helyesirásunk szerént nem létezik. Persa és török nyelven eredetéhez hűbben: Csín; s ugyanitt csíni am. sínai. E nevet malayi nyelven kapták a Thszin nevü uralkodó háztól, melyet az arabok Szina névre változtattak. A sínaiak saját nyelvén: Csonkue v. Csunkoe (= a közép birodalma), máskép: Csunyhoa (= a közép virága); még máskép: Thian-csau (= a meny birodalma); legközönségesebben az uralkodó nevéről, jelennen: Sziny v. Thsziny.  
+> SÍNA fn. tt. Síná-t. Keleti roppant birodalom, Kelet-Indiától északra; Sínától pedig északra feküdt a Krisztus előtti századokban a régi húnok ([[H/Hsiung-nu\|hiongnuk]]) birodalma, kik ellen építtetett a híres sinai kőfal. Német és némely más nyelveken: China. Mi a franczia kiejtést követve azért írtunk Sínát, mert ch a magyar nyelvben, legalább mostani helyesirásunk szerént nem létezik. Persa és török nyelven eredetéhez hűbben: Csín; s ugyanitt csíni am. sínai. E nevet malayi nyelven kapták a Thszin nevü uralkodó háztól, melyet az arabok Szina névre változtattak. A sínaiak saját nyelvén: Csonkue v. Csunkoe (= a közép birodalma), máskép: Csunyhoa (= a közép virága); még máskép: Thian-csau (= a meny birodalma); legközönségesebben az uralkodó nevéről, jelennen: Sziny v. Thsziny.  
+- Úgy is megtalálni, hogy saját nyelvükön Kína 中國 (Zhōngguó), mely a Hungár névtől sem áll messze. A második szótag a kínai `kou` = nép (vö. `gou` = kutya, amely a nemzés fogalmával van kapcsolatban) szóra hajaz.
 
 Lényegében a [[C/CSIN\|csín]] és [[S/Szín\|szín]] szavak csak változatai a Hun/Kan/stb. formáknak, ahol a kiinduló az [[A/A\|A]] címnél álló diagram alapján is An/En/In.  
-
-Saját nyelvükön Kína 中國 (Zhōngguó), mely a Hungár névtől sem áll messze. A második szótag a kínai `kou` = nép (vö. `gou` = kutya, amely a nemzés fogalmával van kapcsolatban) szóra hajaz.  
 
 A kínai `tien` = ég, menny szó sem áll távol, márpedig a kínaiak a menny királyságának tartották magukat, ahogy a japánok a felkelő nap országának nevezték országukat.  

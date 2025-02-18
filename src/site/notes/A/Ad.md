@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ad/","title":"Ad","created":"2024-11-23T04:59","updated":"2024-11-23T04:59"}
+{"dg-publish":true,"permalink":"/A/Ad/","title":"Ad","created":"2024-11-23T04:59","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -44,8 +44,8 @@ card "UTU" as w5 {
 }
 
 head -right-w1
-head --w2 : **Ishten** akkádul egy(etlen)
-w1 --w3 : **Ás** germán istencsoport neve, óangol **os** = isten
+head --w2 : <color:#e7545c>Ishten</color> akkádul egy(etlen)
+w1 --w3 : **Ás** germán istencsoport neve, óangol <color:#e7545c>os</color> = isten
 w1 --w4
 head --w4 : Jézus ácsként isteni\nmunkát végez (teremtés)
 head -up->w5 : Sumér **Utu** napisten

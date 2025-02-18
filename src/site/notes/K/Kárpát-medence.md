@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2024-12-16T18:44"}
+{"dg-publish":true,"permalink":"/K/Kárpát-medence/","created":"2024-04-28T20:56","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -156,10 +156,10 @@ Itt még az Archeopark 5500 éves településének bemutatóját adja közre ké
 A fentebbi (PDF-ben nem szereplő) képet[^2] azután közli, miután a [[G/Genetika\|genetika]] címnél tett kitérőt megtettük: Nem jöttünk mi sehonnan sem.  
 Kevésbé nagyszabású antropológiai adat[^3] Zürich-ből közben (legyen azért betéve).  
 A Grandpierre Atilla írásaiban több helyen előjövő hamburgi professzornő [[B/Blagoje Govedarica\|Blagoje Govedarica]] nevét külön jegyezzük meg (lásd ott) és szintén [[D/Douglas Price\|Douglas Price]] nevét is.  
-[[H/Hideo Matsumoto\|Hideo Matsumoto]] neve több PDF-ben előjön. Lásd eredményeit ott.  
-Földművelés témájában folytatja; azon címnél leginkább Ernst Sackur adata szenzációs (ha igaz).  
+[[H/Hideo Matsumoto\|Hideo Matsumoto]] neve több PDF-ben előjön.   
+Földművelés témájában folytatja.  
 
-[Ezen](https://hu.wikipedia.org/wiki/A Kárpát-medence őstörténete a Honfoglalásig) Wikipedia oldalon egyébként egy egész korrektul megírt összefoglalót találunk a **Kárpát-medence őstörténeté**ről.  
+[Ezen](https://hu.wikipedia.org/wiki/A_K%C3%A1rp%C3%A1t-medence_t%C3%B6rt%C3%A9nete_a_honfoglal%C3%A1sig) Wikipedia oldalon egyébként egy egész korrektul megírt összefoglalót találunk a **Kárpát-medence őstörténeté**ről.  
 
 **Kárpát-medencei központ és az innen való kirajzás** témájában ...
 

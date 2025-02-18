@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2024-11-23T05:31"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -201,7 +201,7 @@ Az örmény [[O/Örmény\|Armen]] név kapcsán előjövő hegyre visszatérve, 
 Továbbá [[K/Két\|Két]]/[[K/Kettő\|Kettő]] (Két Tő) szavunk megfelel Ku-Tának, de Egy/Hegy-nek is. (A tő pedig szintén lehet kettő ([[T/Two\|two]]), de a [[D/Double\|double]] = kettős már inkább a [[D/Devil\|devil]]-re hajaz, mintsem a two származéka lenne.)  
 A tő másik neve [[G/Gyökér\|gyökér]], mely gyöke, `gyök` = [[D/DUG\|dug]], mely tő keleti nevei Vámbéry adata szerint csagataj nyelven: `tüb` (például `tag tübi` hegy töve), oszmán nyelven: `dib`. Azaz a [[T/Tevő\|Tevő]] és [[T/Téved\|Téved]]/[[T/Tévely\|Tévely]] ([[D/Devil\|Devil]]) egy tőről valók és [[T/Typhon\|Tüphon]] neve is innen kerül ki.  
 [[N/Nap#Nap az Orionban\|Nap az Orionban]] cím/alcímnél és legutóbb [[T/Tages\|Tages]] címnél (és sok más címnél) is szó volt arról, hogy a Nap alapjelentésű szavak másodlagosan fény (világosság; lásd Kállay adatával is [[D/Day\|day]]) és hegy jelentésűek és ahogy ott, itt is áll a megállapítás, hogy a [[D/DUG\|DUG]] ([[D/DAG\|DAG]]) megfordítása [[K/Kutya\|Ku-Ta]]/[[H/Hegy\|Hegy]].  
-A ([[D/Double\|double]]-nál is felhozott) [[T/Több\|több]] is ide tartozik. A magyar nyelv tehát világosan fogalmaz: a több itt kevesebb/rosszabb: [[E/Egy\|Egy]] Istenre van szükség, de az osztásos és a sötétet semlegesként értékelendő fény-árnyék viszonyra épülő rendszer [[S/Szakrális geometria\|szakrális-geometrikus]] voltát érteni kell.
+A ([[D/Double\|double]]-nál is felhozott) [[T/Több\|több]] is ide tartozik. A magyar nyelv tehát világosan fogalmaz: a több itt kevesebb/rosszabb: [[E/Egy\|Egy]] Istenre van szükség, de az osztásos és a sötétet semlegesként értékelendő fény-árnyék viszonyra épülő rendszer [[S/Szakrális geometria\|szakrális-geometrikus]] voltát érteni kell.  
 
 ```plantuml-svg
 @startuml

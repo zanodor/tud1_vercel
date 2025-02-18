@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["Englishtexttranslated"],"created":"2023-10-03T09:41","updated":"2024-10-25T18:55"}
+{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["Englishtexttranslated"],"created":"2023-10-03T09:41","updated":"2024-12-20T10:17"}
 ---
 
 

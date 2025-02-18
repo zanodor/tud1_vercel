@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2024-12-12T00:43"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -17,6 +17,10 @@ A Götz László Keleten kél a Nap című könyvének 94-95. oldalain megszóla
 > A flexió primitívebb nyelvi állapot, mint az agglutináció, mert az indogermán nyelvek fejlődése kimutathatóan a hiperflektáló kaukázusi nyelvektől az agglutináció felé halad.  
 - De ezt bizonyítja az is, hogy az indogermán nyelvészek által összeállított ideális nyelv, az eszperantó, nem más mint indogermán elemekből felépített tiszta agglutináló nyelv. <br/>  
 Könyvének 133. oldalán tér vissza a témára, indogermán és szemita példákat bemutatva. Utána is folytatja.  
+
+## Hangfejlődés és hajlítás
+
+[[H/Ház\|Ház]] szónál került szóba, hogy k-előtétes szavak másutt h-előhangosak. Ilyenkor a nyelvészet nyilvánvalóan mindig [[N/Nyelvészet mint tudomány#Grimm-féle hangtörvények\|Grimm-féle]] "szabályos" hangfejlődésekben fog gondolkodni. A fókuszba az kerül, hogy adott szavakról adott vizsgálati környezetben, adott(?) szabályszerűségek szerint valami tudományosat kell kanyarítani. Mindeközben megfeledkeznek a régi ember [[A/Analogikus gondolkodásmód\|analógiás gondolkodás]]áról, nyelveik szóalkotásának azon igényéről, hogy a hasonlót a hasonlóval fejezzék ki: tehát nem annyira hangfejlődésekről van (csak) szó; nem szabad figyelmen kívül hagyni, hogy egyes szavak flexiós változatait kell inkább észrevenni (értsd: szándékosan készülnek pl. k- és h-előhangos formák hasonló ideák kifejezésére).  
 
 ## Magyar hajlítás mint nyelvünk szavainak alapképessége
 
@@ -56,8 +60,8 @@ card "UTU" as w5 {
 }
 
 head -right-w1
-head --w2 : **Ishten** akkádul egy(etlen)
-w1 --w3 : **Ás** germán istencsoport neve, óangol **os** = isten
+head --w2 : <color:#e7545c>Ishten</color> akkádul egy(etlen)
+w1 --w3 : **Ás** germán istencsoport neve, óangol <color:#e7545c>os</color> = isten
 w1 --w4
 head --w4 : Jézus ácsként isteni\nmunkát végez (teremtés)
 head -up->w5 : Sumér **Utu** napisten

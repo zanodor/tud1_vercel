@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Adapa/","title":"Adapa","created":"2023-10-22T02:38","updated":"2024-10-22T21:38"}
+{"dg-publish":true,"permalink":"/A/Adapa/","title":"Adapa","created":"2023-10-22T02:38","updated":"2025-01-22T15:32"}
 ---
 
 

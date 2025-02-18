@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2024-10-26T00:29"}
+{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -13,7 +13,7 @@ Az [alábbi](https://youtu.be/umyX-ZHVKgA) ÁKTV műsorban 1:29:25-nél Kubínyi
 
 ...című könyvének 276. oldalán ír születésének nem szokványos módjáról:  
 > A [[N/Nut\|Nut]] és [[G/Geb\|Geb]] istenpárostól született az első napon Ozirisz, a második napon Armerisz, (az idősebb Hórusz), a harmadik napon Séth, de nem a rendes időben és módon. Anyja oldalát áttörte és úgy ugrott ki onnan. A negyedik napon született Isisz. Az ötödik napon pedig testvére Nephtisz. Szüleikkel és nagyszüleikkel (Su és Tefnut) alkották a kilenc tagú Nagy Enneadot.  
-- Kilenc [[N/Neteru\|Neteru]]-ról lásd ott.  
+- Kilenc [[N/Neteru\|Neteru]]-ról lásd ott.
 
 A könyv 279. oldalán is érdekes dolgokat ír. Például:  
 > A zavaros állapotok után Séth az új rendet szolgálta. Tudomásul vette, hogy a világegyetem szabályozatlan erői lettek az urak. A mozgásba jött új renddel a létezés követelményeiből eredően segítette fönntartani[^1] azt. Az Oziris fesztiválokon ezek után Séth volt a hajón a kapitány, amely vitte Oziris képmását végig a Níluson. Vitte a Napot, az éjszaka vizes mélységein keresztül.  
@@ -39,13 +39,13 @@ Másutt Napistennek mondja ismét:
 
 [[S/Szutek\|Szutek]] címnél is az állt, hogy a keta-egyiptomi napisten Széthtel azonos lehetett (valójában a süt <> set/söt ellenpárt inkább láttatja). Jankovics Marcell is írja:  
 > Széth a forró júniusban **vette át fivérétől a hatalmat**, az ő uralmának kezdetét jelezte a hónap csillagképében, a Rákban lévő két [[S/Szamár\|szamár]] csillag. Idővel a két isten megítélésének dialektikus egyensúlya felborult, Ozirisz és fia, [[H/Hórusz\|Hórusz]] javára, Széth mint testvérgyilkos egyre ördögibb alakot öltött. Ennek történelmi oka is van. Amikor a [[H/Hykszosz\|hykszosz]]ok meghódították Egyiptomot (i.e. XVIII.sz.), Kisázsiából és Palesztinából egy szamáristen kultuszát hozták magukkal, akit Egyiptomban Szethtel azonosítottak. Ettől kezdve Szeth az ország ellenségeinek istene lett. (E palesztinai szamárkultusznak tulajdonítható, hogy jóval később a rómaiak a zsidókat és keresztényeket azzal csúfolták, hogy istenüknek szamárfeje van. Vö. a bibliai Sét nevével.)  
-- Azt már én teszem itt hozzá, hogy a [[S/Szamár\|szamár]] gyakran a szabadságszerető magyarok (és/vagy inkább hunok) jelképállata volt.  
+- Azt már én teszem itt hozzá, hogy a [[S/Szamár\|szamár]] gyakran a szabadságszerető magyarok (és/vagy inkább hunok) jelképállata volt.
 
 Egyébiránt Széth az [alábbi](https://www.ancient.eu/Set_(Egyptian_God)/) oldalon is úgy jön elő, hogy [[S/Szutek\|Szutek]] néven is ismerték, ergo ez a másneve (érdekes még hogy [[T/Taweret\|Taweret]], nemcsak [[N/Nephthys\|Nephthys]] lenne a neje):  
 > Set, also known as Seth and Suetekh, was the Egyptian god of war, chaos and storms, brother of Osiris, Isis, and Horus the Elder, uncle to Horus the Younger, and brother-husband to Nephthys. His other consort was the goddess Tawaret.  
 > —  
 > Set, más néven Seth és [[S/Szutek\|Szutek]], a háború, a káosz és a viharok egyiptomi istene, Ozirisz, Ízisz és az idősebb Hórusz testvére, az ifjabb Hórusz nagybátyja és Nephthisz testvér-férje. Másik hitvese Tawaret istennő volt.  
-- Másutt [[S/Satet\|Satet]] is a neje, de ne feledkezzünk meg [[I/Ízisz\|Ízisz]] testvérhúgáról sem.  
+- Másutt [[S/Satet\|Satet]] is a neje, de ne feledkezzünk meg [[I/Ízisz\|Ízisz]] testvérhúgáról sem.
 
 Széth Napistenként kezelése tehát leginkább úgy képzelhető el, hogy ő a Hunor-hoz hasonló sötét (öreg) Napisten. Hunor és Széth Szíriusszal való kapcsolata miatt alakulnak ki más aspektusai.  
 
@@ -60,7 +60,7 @@ De úgy tűnik, másutt is áll ez a felfogás. Bíró Lajos írja:
 
 A poláris korszakról [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]] címnél volt szó és másutt is arról, hogy az első (matriarchális) időkben a Tejútistennő tisztelete volt szokásban, majd idővel ebből mindössze (adott esetben a Szíriusszal való azonosulás elvesztésével is) nők kapcsán Holdistennő, Vénusz- illetve Földistennő tisztelet jött létre, de már szinte mindenütt egy hímségi égisten és annak fiának, a Napnak kultuszának árnyékában, annak elnyomatásában.  
 Úgy tűnik, Széth még abból az időből való, amikor még az anyjának is megfelelő tisztelet járt ki és anyját nem száműzték trónjáról.  
-Fáy Elek A magyarok őshona című könyvében szó van arról, hogy kívülről ([[K/Keta\|ketá]]któl, azaz hunoktól) Egyiptomba hozott istenség lehet Széth (a setét aspektusról lásd lejjebb):  
+Fáy Elek A magyarok őshona című könyvében szó van arról, hogy kívülről ([[K/Keta\|keták]]tól, azaz hunoktól) Egyiptomba hozott istenség lehet Széth (a setét aspektusról lásd lejjebb):  
 > Valószínűleg ezen ős közösség magyarázza meg, hogy az egyiptomi Horusz napisten nevével majdnem azonos volt a dontői őshazánkban és annak környékén tisztelt napistené, Korosz-é. A Horusz egyiptomi istennel, mint – atyja, Ozirisz megbosszulójával – naponta megküzdő Szet (máskép Szutek vagy Tifon) istent a tudósok határozottan is Ázsiából és még pedig a hikszószok és keták által Egyiptomba bevitt istenségnek állítják. Hogy pedig a Horusz napistennel naponta küzdő Szet isten nevében az általa személyesített setétnek és ezzel összefüggő estének magyar szavai rejlenek, azt egyfelől a Szet név etimológiájaként Brugsch által felhívott kopt: `eszet`-nek = alul, lefelé értelme tanúsítja, amely azt a kopt szót tehát a magyar estével, mint a nap esésével azonosítja. Hiszen még ma is élünk a `napestig` azaz a nap eséséig szólásformával. Másrészt pedig ugyan e jelentést igazolja az egyiptomi Hathor istennő egyik bubasztiszi lokális alakja, Setat nevének (Brugsch szerint): geheimnisvolle, verborgene, dunkle jelentősége is.  
 
 Felveti mindez azt is, hogy – a legutóbb [[H/Herkules\|Herkules]] címnél szereplő megjegyzésem alapján is – Széthnek nemcsak a Szíriusz, NagyGöncöl, Sarkcsillag és netán Szaturnusz azonosítását kell elfogadni, hanem (kiinduló) [[M/Magor\|Magor]] Nappal való azonosítását is. (Amennyiben elfogadjuk, hogy Magor árnyék-aspektusa Hunor, illetve Hunor is csak épp ennyit jelentene.)  
@@ -70,7 +70,7 @@ Viszont ez a Magorral való azonosítás is csak akkor fogadható el, ha a Vasko
 
 ...című könyvének (a PDF) 179. oldalán meglepő kontextusban jön elő az egyiptomi Seth:  
 > Salamon bosrai metropolita "Méh" című iratában olvassuk. A prófécia szerzőjeként [[Z/Zarathustra\|Zoroaster]]t egyenesen megnevezve találjuk és hogy az első hagyomány Seth-jén pseudepigr. V.T. (Hamburg,1713) I. 147-152,309, a köv. lapjain összeállított bizonyítékokból tudjuk meg, ahol Seth a tipikus iráni csillag imádás alapítójaként jelenik meg.  
-- Seth valóban azon napvallások ideje előtt időben tisztelt, amikor még a sziderikus alapú volt a naptárszámítás is. Legalábbis efféle infók mintha előjöttek volna. Lásd még [[C/Csillagászat – tropikus kontra sziderikus\|csillagászat – tropikus kontra sziderikus]].  
+- Seth valóban azon napvallások ideje előtt időben tisztelt, amikor még a sziderikus alapú volt a naptárszámítás is. Legalábbis efféle infók mintha előjöttek volna. Lásd még [[C/Csillagászat – tropikus kontra sziderikus\|csillagászat – tropikus kontra sziderikus]].
 
 > Idézem a legfőbb bizonyítékot. Ez a Seth találta ki először héber betűket, a bölcseletet, az égi jeleket, az évforduló, a hónapot, hetet, adott neveket a csillagoknak és az öt bolygónak. És valamivel alább ugyanazon az oldalon: Az özönvíz után Arphaxad \[lásd [[A/Arpakshad\|Arpakshad]] és említve [[K/Káld\|káld]]\] fia írta meg a csillagászatot, miután megtalálta Sethnek és fiainak, amint mondják, kőtáblára vésett csillagjegyzékét. Ennek az utóbbi helynek, amely valamelyest bővített fogalmazása a már (Flavius) Josephus által ismertetett mondának, azért van külön jelentősége, mert Arphaxad Zurwan mellett különben is, mint az Iránság képviselője jelenik meg.  
 
@@ -112,7 +112,7 @@ Arról már volt szó, hogy az [[E/Éber\|éber]], figyelmes kutyának felfelé 
 
 De ha már itt tartunk, a Szíriusz [[S/Sothis\|Sothis]] nevénél (és immáron külön is) taglalt [[S/Satet\|Satet]] istennő nevében is megvan Sa. (Nem ez a lényeg, hanem, hogy Széth elválasztó, pontosabban **évet szétválasztó: szít és setét** kettős mivoltára mutat rá.)  
 
-Mindezen fentiek alapján is érthetetlen, hogy az [[O/Orion övcsillagai\|Orion övcsillagai]]nál szereplő Bauval/Hancock kettős által felvázolt képen miért azonosítják Széthet a Lepus (Nyúl) csillagképpel. (Az igaz, hogy az [[A/Agár\|agár]] és a [[H/Hare\|hare]] erdete is lehet egy, akár, vagy hasonló.)  
+Mindezen fentiek alapján is érthetetlen, hogy az [[O/Orion övcsillagai\|Orion övcsillagai]]nál szereplő Bauval/Hancock kettős által felvázolt képen miért azonosítják Széthet a Lepus (Nyúl) csillagképpel. (Az igaz, hogy az [[A/Agár\|agár]] és a [[H/Hare\|hare]] eredete is lehet egy, akár, vagy hasonló.)  
 
 ![assets/Széth_image6.png|invert_dark](/img/user/S/assets/Sz%C3%A9th_image6.png)  
 Nevének értelmét a [[S/SZET\|SZET]], setét, [[S/Sátán\|Sátán]] nevekkel feleltettük meg, hiszen ő az egyik erő az [[E/Ellentétek harca\|ellentétek harcá]]ban (lásd legutóbb [[E/Ellen\|ellen]] címnél írottakat is), az [[I/Istenek háborúi\|istenek háborúi]]ban, azaz a [[S/Szét és össze\|szét és össze]] címnél írottak alapján Széth képviselheti a [[S/Szét\|szét]], Ozirisz az [[O/Össze\|össze]] fogalmát. De a mellékelt táblázatba foglalt Péterfai János adat szerint szét a [[T/Tesz\|tesz]] szavunk megfordításaként, ellentettjeként is felfogható, illetve azt se feledjük, hogy [[S/SZET\|SZET]] = kezdet, márpedig minden földi élet a [[K/Kutyanemzés\|kutyanemzés]]sel kezdődött.  
@@ -144,7 +144,7 @@ A "sokfunkciós" Széthről Jankovics Marcell nem szól (ahogy John M. Jenkins s
 
 Az [alábbi](https://youtu.be/ais-gS0luJw) Avatara előadásban 1:58:25-nél Erőss Diána AKA Bácsi Boglárka szól arról, hogy az 1920-as években a palesztinai Dora városában találtak egy vad[[S/Szamár\|szamár]]fejet ábrázoló amulettet, mely az Ószövetségi istent, [[J/Jahve\|Jahvé]]t ábrázolná (melyet ugye nem szabadna ábrázolni). Arról nem szól, hogy ez Széth lehet. Márpedig Széth is lehet Orion-Szíriusz, és Jahvéről is megállapítottuk, hogy Orion-Szíriusz ([[I/Íj csillagkép\|Íj csillagkép]]/[[H/Hunor csillagkép\|Hunor csillagkép]]).  
 - Az [alábbi](https://titokzatosmult.wordpress.com/foldunk-relytelyei/a-tortenelem-misztikus-szemelyei/szet-jahve-satan/) oldalon is arról volt szó, hogy a vallástörténet szerint a zsidó "papok" amikor áldozatot mutattak be Jahvenak, az Isten képmását öltötték magukra: maszkot viseltek: vadszamár-fej maszkot. <br/>
-[[O/Orion#Szíriusz-Orion állatalakjai\|Szíriusz-Orion állatalakjai]] cím/alcímnél írtuk is, hogy (a [[J/Jahve\|Jahve]] elő- vagy másneveként ismert [[E/El Shaddai\|El Shaddai]] névvel azonos) (zsidó isten egyiptomi isten-előképeként ismert) [[S/Széth\|Széth]] neve kb. úgy aránylik a [[K/Kuda\|kuda]] névhez, ahogy a [[Z/Zsidó\|zsidó]] név a [[J/Júda\|Júda]] névhez.  
+[[O/Orion#Szíriusz-Orion állatalakjai\|Szíriusz-Orion állatalakjai]] cím/alcímnél írtuk is, hogy – a [[J/Jahve\|Jahve]] elő- vagy másneveként ismert [[E/El Shaddai\|El Shaddai]] névvel azonos, zsidó isten egyiptomi isten-előképeként ismert – Széth neve kb. úgy aránylik a [[K/Kuda\|kuda]] névhez, ahogy a [[Z/Zsidó\|zsidó]] név a [[J/Júda\|Júda]] névhez.  
 (A [[K/Kutya\|kutya]] név pedig úgy aránylik a Szkytha/[[S/Szkíta\|szkítá]]hoz, ahogy az [[E/EB\|EB]] az Ív/[[I/Íj\|íj]]hoz.)  
 
 Ezen a ponton pedig jusson eszünkbe (fentebb lábjegyzetben szerepelt is), hogy a vadszamár, tapír és a kutya nemcsak Széthen keresztül kapcsolódnak egymáshoz, hanem a nyelvben is, hiszen a kelet-indiai [[K/Kuda\|kuda]] = tapírt jelent (más nyelvekben meg lovat). Azóta [[S/Szamár\|szamár]] és [[K/Khamor\|Khamor]] címnél ezt kifejtettük bővebben is.  
@@ -212,7 +212,7 @@ Az alábbiak [[T/Trója\|Trója]] címnél is szerepeltek és John M. Jenkins is
 > Ennek az értelmezésnek van párhuzama a maja kozmológiában. A Maya Cosmogenesis 2012-ben, a korai izapai csillagászatnak szentelt részben megjegyeztem, hogy **a téli napforduló Napjának precesszió okozta mozgását a Tejútrendszer felé északon a Nagy Medve mozgása ellensúlyozza az Északi Égi Sarktól való távolodással**.
 { #ck7b7}
 
-- Nyilván ezért lehet, hogy Széth aspektusai megjelennek több helyen és a [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] kapcsolata is ebben állhat.  
+- Nyilván ezért lehet, hogy Széth aspektusai megjelennek több helyen és a [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] kapcsolata is ebben állhat.
 
 > I also identified how this astronomical process was encoded into Mayan mythology: the "fall" of Seven Macaw (the Big Dipper) out of his tree symbolizes the precession-caused movement of the Big Dipper away from the polar center – movement that accelerated around 1000 B.C.  
 > —  
@@ -272,7 +272,7 @@ A Hamlet Malmában is szó volt időháborúkról és In Search of the Cradle of
 > Vedic mythology introduces Sunasepa as the adopted son of the sage [[V/Vishvamitra\|Vishvamitra]], who represents one of the stars of [[U/Ursa Maior\|Ursa Maior]]. This appears to point to a noteworthy conjunction of two stars. Sunasepa is the second of three brothers, who are given names that also mean "dog's tail." This suggests that, astronomically speaking, Sunasepa stands for the star Delta in Ursa Minor.  
 > —  
 > Úgy tűnik, hogy a régiek tisztában voltak a tavaszi napéjegyenlőség precessziójával, és igyekeztek igazságot tenni ennek az Orion-mitológiát a Bika-korszak, majd később a Kos-korszak szimbolikus nyelvére lefordítva.  
-> Így az egyiptomi mitológia szerint Oziriszt ellenséges testvére, **Seth (Ursa Major)** ölte meg, az indiai mitológiában pedig Tvashtri Dyauspita és [[P/Prajapati\|Prajapati]] legkisebb fia, nevezetesen Indra vagy [[R/Rudra\|Rudra]] (Szíriusz). Prajapati halála Rudra kezétől jelzi a tavaszi napéjegyenlőség átmenetét az Orionból (vagy az állatövi Ikrekből) a Bikába.
+> Így az egyiptomi mitológia szerint Oziriszt ellenséges testvére, **Széth (Ursa Major)** ölte meg, az indiai mitológiában pedig Tvashtri Dyauspita és [[P/Prajapati\|Prajapati]] legkisebb fia, nevezetesen Indra vagy [[R/Rudra\|Rudra]] (Szíriusz). Prajapati halála Rudra kezétől jelzi a tavaszi napéjegyenlőség átmenetét az Orionból (vagy az állatövi Ikrekből) a Bikába.
 >
 > De Santillana és von Dechend hihetően állították, hogy a védikus isten [[A/Agni\|Agni]], akiről azt mondják, hogy a "legmagasabb égbolton" született, és akit három másik Agni előzött meg \[három meg egy az [[N/Négy\|négy]]\], **megjeleníti a Szíriusz heliákus felkelését a tavaszi napéjegyenlőségkor**. Megdönthetetlen bizonyíték van arra, amint azt e két tudós megjegyezte, hogy Agni és Soma[^13] ("a világ pólusainak ura") az ekvinoktiális kólurokat (az égi szféra két nagy körét, amelyek a pólusoknál metszik egymást) jelképezik. Különösen a Rig-Véda első könyvének úgynevezett [[S/Sunasepa\|Sunasepa]] himnuszaira mutattak rá, azonosítva Sunasepát [[C/Cynosure\|Cynosoura]]-val, a "kutya farkával", azaz az Ursa Minorral.
 >
@@ -288,7 +288,7 @@ A Hamlet Malmában is szó volt időháborúkról és In Search of the Cradle of
 > Seth ... originally connected with the Hyades, the V-shaped, head-like part of our constellation, Taurus. As the brother of Osiris, his position in the sky was adjacent to Orion ... an important court decision gave the office of Osiris to Horus, and Seth was banished to a position bearing the 'southern' constellation of Orion...  
 > —  
 > Seth ... eredetileg a Hyadokhoz, a Bika csillagképünk V alakú, fejszerű részéhez kapcsolódott. Mint Ozirisz testvére, az égbolton az Orion szomszédságában helyezkedett el ... egy fontos bírósági döntés Ozirisz hivatalát Hórusznak adta, és Széthet száműzték az Orion "déli" csillagképét hordozó pozícióba...
-- A Hyades-ben lévő [[A/Aldebaran\|Aldebaran]]nal való azonosítás másutt is mintha előjött volna már valahol.  
+- A Hyades-ben lévő [[A/Aldebaran\|Aldebaran]]nal való azonosítás másutt is mintha előjött volna már valahol.
 
 Az [[A/Ászok és Vánok\|Ászok és Vánok]] neveit Péterfai János elemzi, és másutt is megfeleltettük őket Ozirisz (Hórusz) és Széth, [[D/Dévák és Aszúrák\|Dévák és Aszúrák]] tagjaival, de arról [[A/Ashen\|ashen]] szócikknél szóltunk, hogy nemcsak a fényes, hanem egyben a fényhiányos elnevezéseik is megfigyelhetők: Asz(ott)ok és Ván(yadt)ok.   
 
@@ -296,7 +296,7 @@ Az [[A/Ászok és Vánok\|Ászok és Vánok]] neveit Péterfai János elemzi, é
 
 Az [alábbi](http://grahamhancock.com/phorum/read.php?1,200791,200893) oldalon szó esik arról, hogy a bibliai és egyiptomi alak két különböző alak, de a válaszoló fél nincs meggyőzve. Szerintem is lopták a zsidók a nevet, mint minden mást, vagy a közös avar-hun örökség az oka.  
 
-#### Péterfai János ezt írja:  
+#### Péterfai János írja:  
 
 > De van Szetnek, mint istennek, más jelentése is. **A Bibliában a zsidók őse is Szet**, miután Ábelt kiiktatják a sorból. A levezetés ugyan téves, mert Ábelt nem lehet megölni, mivel isten, Szet fogalma viszont a Keletkezés, Kezdet jelentéssel bőven megtalálható a magyar nyelvben.  
 

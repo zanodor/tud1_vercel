@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hangutánzó szavak/","title":"Hangutánzó szavak","tags":["nyelvészet","Götz"],"created":"2023-10-05T03:29","updated":"2024-10-25T19:14"}
+{"dg-publish":true,"permalink":"/H/Hangutánzó szavak/","title":"Hangutánzó szavak","tags":["nyelvészet","Götz"],"created":"2023-10-05T03:29","updated":"2024-12-20T10:17"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Patala/","title":"Patala","tags":["Englishtexttranslated"],"created":"2023-10-13T01:18","updated":"2024-10-25T23:45"}
+{"dg-publish":true,"permalink":"/P/Patala/","title":"Patala","tags":["Englishtexttranslated"],"created":"2023-10-13T01:18","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -22,7 +22,7 @@ Ipolyi Arnold Magyar mythologia című könyvének 447. oldalán mint a hindu vi
 A fenti passzus fontossága miatt [[K/Krisztus#Krisztus a szarvasfiú születése az üsző méhéből, a Tejútközpontban\|Krisztus a szarvasfiú születése az üsző méhéből, a Tejútközpontban]] cím/alcímnél is szerepelt.  
 
 > Pátálán Vászuki, a nagy kígyóisten, Nága-déva uralkodik, a hindu pantheon kígyó alakjában ábrázolja; vele övezték körül az istenek és aszurák Mandra hegyét, amikor a Tejóceánból az [[A/Amrita\|amritá]]t, a halhatatlanság italát köpülték.  
-- [[N/Naga Vasuki\|Vászuki]], a kígyó itt megint az okkult, beavatott tudást jelenti.  
+- [[N/Naga Vasuki\|Vászuki]], a kígyó itt megint az okkult, beavatott tudást jelenti.
 
 ## Patala geográfiai értelmezése
 

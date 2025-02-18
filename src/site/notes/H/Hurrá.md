@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hurrá/","title":"Hurrá","tags":["titleandheadingonedontmatch"],"created":"2024-05-01T15:03","updated":"2024-10-25T21:52"}
+{"dg-publish":true,"permalink":"/H/Hurrá/","title":"Hurrá","tags":["titleandheadingonedontmatch"],"created":"2024-05-01T15:03","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -26,3 +26,5 @@ Mások a `hujrá`, `hajrá` változatokról szólnak:
 
 ...című az Ősi Gyökér 2018/3-4. sz. megjelent cikkében írja:  
 > Tovább kell vizsgálnunk, hogy a hej és a regi huj, huj (heje-huja) van-e és milyen kapcsolatban egymással. A huj-huj csatakiáltásról már Liutprand (920- 972) olasz történetíró, cremonai püspök (aki Antapodosis című könyvében a magyar "kalandozásokról" is megemlékezik) tudósít bennünket. Biztosra vehető azonban, hogy ez a csatakiáltás feltehetően nemcsak biztatás, bátorítás, hanem varázslás is akart lenni. Lelkesítése a saját csapatnak és megbénítása az ellenség erejének.  
+
+Skandinávoknál is hallani hasonlót: `Heia Norge` kb. "Hajrá Norvégia."  

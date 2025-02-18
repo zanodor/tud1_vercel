@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csálé/","title":"Csálé","created":"2023-10-23T02:33","updated":"2024-10-25T16:24"}
+{"dg-publish":true,"permalink":"/C/Csálé/","title":"Csálé","created":"2023-10-23T02:33","updated":"2025-01-22T16:43"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csiga/","title":"Csiga","created":"2023-11-18T09:03","updated":"2024-12-27T10:21"}
+{"dg-publish":true,"permalink":"/C/Csiga/","title":"Csiga","created":"2023-11-18T09:03","updated":"2025-01-22T16:44"}
 ---
 
 

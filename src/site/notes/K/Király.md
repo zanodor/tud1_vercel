@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated"],"created":"2024-10-27T12:27","updated":"2024-10-27T12:27"}
+{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated"],"created":"2024-10-27T12:27","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -28,7 +28,7 @@ A görögnél maradva, Tóth Gyula Maghreb blogján A szlávok apostola fejezetb
 Ha már görög, Götz László Keleten kél a Nap című könyvének 164. oldalán szumér-görög szavak párhuzamait bemutató szavak között találjuk a [[K/KUR\|KUR]] és [[S/Szíriusz\|Szíriusz]] címnél is említett görög `κύριος` (küriosz) = uralkodó (lásd rokon szavakkal [Wiktionary oldalát](https://en.m.wiktionary.org/wiki/κύριος#Ancient_Greek)) szót, melyet a [[C/Curoi\|Curoi]] nevéhez is hasonlító, egy általam eleddig sosem hallott sumér `KURUIGI` = király (ahol Kuru-Igi: "Ország szeme") szó mellé téve mutat be.  
 - A görög küriosz szó és egy másik, [[U/UR#^DFI47XPY-ISATGHR4\|ouros]] nyomán jegyezzük meg, hogy az [[U/UR\|úr]] megfelel a király kir- elemének, valamint a szóvégi -ál/-ály megfelel `ural` végződésének; ilyen végződést a szintén igeileg értelmezhető [[T/Turul\|Turul]] névben is találtunk.
 
-A további hasonló alakú görög nevek közül jegyezzük meg még az [[U/UR#Úr jelentésű szavak a görög nyelvben\|úr jelentésű szavak a görög nyelvben]] cím/alcímnél is taglalt `κοίρανος` = vezető, parancsnok és a `krator` = úr, uralkodó jelentésű szavakat.  
+A további hasonló alakú görög nevek közül jegyezzük meg még az [[U/UR#Úr jelentésű görög szavak\|úr jelentésű szavak a görög nyelvben]] cím/alcímnél is taglalt `κοίρανος` = vezető, parancsnok és a `krator` = úr, uralkodó jelentésű szavakat.  
 
 Péterfai János tökéletes levezetéséhez tehető, hogy nem ez az egyetlen helyes felbontása, hiszen a [[K/KAR\|KAR]] (Kör) fogalmának is meg kell felelnie. A király ugyanis [[K/Király#Napkirály, szakrális király\|napkirály]], és ugyanúgy nem szabad letérnie pályájáról, rendeltetési helyéről, mint a Napnak. Jankovics Marcell [[F/Fa#^d6f76e\|ezen helyen]] szereplő adata a kínai császárról és az alábbi, szintén ott is szereplő passzus tökéletesen leírja, miről van szó:  
 > A kínai császár tevékenységét szigorú előírások szabályozták. Nem volt szabad vétenie ellenük, mert akkor "a Nap is elvétette volna útját", aminek következtében a Földet katasztrófák sújtották volna, és a társadalmon is a zűrzavar lett volna úrrá. A kölcsönösség alapján – úgy hitték – neki is módjában állt egyengetni a Nap útját, s így szabályozni a naptárt, így lett a világ tengelyen forgó élő mutatóként a császár a Nap képviseletében az idő földi kormányzója. És ezt így hitték mindenütt. A (pap)-királynak kellett ügyelnie arra, hogy a Nap le ne térjen kijelölt pályájáról, különösképpen a "veszélyes kanyarokban", a napfordulókon. Mágikus tevékenységét az uralkodó ünnepélyes körülmények között végezte, ahogy illett.  

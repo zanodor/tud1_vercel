@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2024-10-25T23:25"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","created":"2023-10-06T12:05","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -191,9 +191,9 @@ Kubínyi Tamás számtalanszor elmondja (legutóbb Marosvásárhely magyar de Hi
 
 ## Figyelemelterelés – red herring
 
-A Kubínyi Tamás egyik műsorában bejátszott Dr. Bardócz Zsuzsanna biokémikus által bemutatott, angolul red herring-nek nevezett módszer a figyelemelterelés módszere. Ha van valami komoly problémánk vagy egy nagyon jó megoldásunk, amiről nem akarják, hogy az emberek tudjanak és beszéljenek, akkor bevezetnek egy álproblémát, vagy egy kisebb jelentőségű problémát, és egy álmegoldást, vagy csak egy részmegoldást ajánlanak fel, és hagyják, hogy erről beszéljenek, vitatkozzanak az emberek. Így aztán mindig el tudják érni a céljukat: az információ eltussolása (lásd *elhallgatás*), vagy az emberek gondolkodásmódjának megváltoztatása.  
+A Kubínyi Tamás egyik műsorában bejátszott Dr. Bardócz Zsuzsanna biokémikus által bemutatott, angolul red herring-nek nevezett módszer a terelés, azaz figyelemelterelés módszere. Ha van valami komoly problémánk vagy egy nagyon jó megoldásunk, amiről nem akarják, hogy az emberek tudjanak és beszéljenek, akkor bevezetnek egy álproblémát, vagy egy kisebb jelentőségű problémát, és egy álmegoldást, vagy csak egy részmegoldást ajánlanak fel, és hagyják, hogy erről beszéljenek, vitatkozzanak az emberek (mondjuk leszállítani egy Bill Gates vagy Varga Judit válást egy férfi-nő anyagi szintre, amikor komoly dolgok vannak a háttérben). Így aztán mindig el tudják érni a céljukat: az információ eltussolása (lásd *elhallgatás*), vagy az emberek gondolkodásmódjának megváltoztatása.  
 
-Új probléma/vizsgálati elem fókuszba állítása (arrébbcsúsztatás), figyelemelterelés témájában [ezen](https://youtu.be/XPS5kTZiiZM) Ne Legyen Áldozatos Szent István király uralkodása 4. rész című videóban Pap Gábor is szól.  
+Új probléma/vizsgálati elem fókuszba állítása (arrébb csúsztatás), figyelemelterelés témájában [ezen](https://youtu.be/XPS5kTZiiZM) Ne Legyen Áldozatos Szent István király uralkodása 4. rész című videóban Pap Gábor is szól.  
 Szent István koronázási palástjáról szólva 17:00 után említi az egyik (az országalmát tartó – valójában nem tartja, az a kéz felett lebeg) kéz kapcsán, hogy az elemzők szerint mintha 6 ujja lenne egyik kezén: beültetik az emberek számára, hogy akkor az egész témában ez legyen a legfontosabb rész: hogy táltoskirály volt! Holott valójában utólag hímeztek bele (hamisították a palástot).  
 Ez a taktika: innentől kezdve már senkit nem érdekel, hogy hamisítvány, tehát hogy áthímezték, hanem "ez táltos volt, táltos király volt!" Kihúztam a problémát az eredeti medréből, és itt már csak egy másik problémán engedem, hogy a diskurzus folytatódjék; így tudják a figyelmet máshová irányítani. Itt elmondja Pap Gábor az alábbi székely viccet is illusztráció gyanánt (nála nem teljesen így szerepel, de ez most mindegy):  
 *Öreg székely és a fia üldögélnek a szobában. Egyszer a fiú iszonyat büdöset érez:  
@@ -209,13 +209,13 @@ Azzal is ki lehet egészíteni, hogy akkor véletlenül vagy szándékosan szaba
 
 ## Elhallgatás – létezést tagadás
 
-Szöllősi Ildikó Feltárulnak a titkok 29. rész című előadásában is taglalja ezt a hatalomtechnikai eszközt: eltussolom, elhallgatom, ignorálom a tényeket vagy valaminek a jelentőségét (a következő alcímnél már arról lesz szó, hogy nem hallgatja el, de lekicsinyli). A mindennapi, individuális életünkben hasonló eset, amikor nem beszélünk egymással, hanem átnézünk a másikon, mint ha nem is létezne. A férfi számára a szeretett, becserkészni vágyott hölgy, amíg kifejezi utálatát, addig a férfi szerint van esély, mert foglalkozik vele; amikor már nem foglalkozik, onnantól nincs esély. (Hasonló eset, hogy a zsidók is addig vannak pozícióban, amíg beszélünk róluk és használjuk az általuk reklámozott termékeket, szolgáltatásokat, infrastruktúrájukat, stb.)  
+A másik ismert hatalomtechnikai eszköz: eltussolom, elhallgatom, ignorálom a tényeket vagy valaminek a jelentőségét (a következő alcímnél már arról lesz szó, hogy nem hallgatja el, de lekicsinyli). A mindennapi, individuális életünkben hasonló eset, amikor nem beszélünk egymással, hanem átnézünk a másikon, mint ha nem is létezne. A férfi számára a szeretett, becserkészni vágyott hölgy, amíg kifejezi utálatát, addig a férfi szerint van esély, mert foglalkozik vele; amikor már nem foglalkozik, onnantól nincs esély. (Hasonló eset, hogy a zsidók is addig vannak pozícióban, amíg beszélünk róluk és használjuk az általuk reklámozott termékeket, szolgáltatásokat, infrastruktúrájukat, stb.)  
 (A nő a körülötte élő, mozgó férfiak nagy többségét 20-30 mp alatt "bekategorizálja," azaz lesznek férfiak, akiket ő sosem kezel férfinak, mindig is ignorálni fog. Mintha nem is létezne.)  
 Tehát a diskurzusban benne van a remény és a bukás veszélye. Ha nincs elég érve a hatalom képviselőjének, inkább elhallgat. A létezését tagadja azzal, hogy nem beszél róla.  
 
 ## Lekicsinylés
 
-Ha már nem lehet elkerülni a diskurzust, ha már állást kell foglalni, azaz elhallgatni nem lehet, akkor a magyar (isteni) oldal ellen a lekicsinylés taktikáját is lehet alkalmazni. Szöllősi Ildikó erről is szól: hogy ez vagy az a feltaláló és eredménye nem olyan jelentős, nem korszakalkotó, stb.  
+Ha már nem lehet elkerülni a diskurzust, ha már állást kell foglalni, azaz elhallgatni nem lehet, akkor a magyar (isteni) oldal ellen a lekicsinylés taktikáját is lehet alkalmazni: hogy ez vagy az a feltaláló és eredménye nem olyan jelentős, nem korszakalkotó, stb.  
   
 
 ## Rágalmazás
@@ -280,7 +280,7 @@ Hasonlóan működik a(z épp előbb is példaként említett) negáció, melyr�
 ## Extrapoláció, visszavetítés
 
 A "tudományban" alkalmazott eljárás: a mai állapotok alapján levont következtetéseket, az általam "igazságként" látott/ismertetett/bizonyított "valóságot" (álvalóságot, illúziót) a múltra vonatkoztatva is érvényesnek tekintem (mármint ők). Így operál a nyelvészet, de a [[S/Szemiták és árják\|szemiták és árják]] címnél szemiták/zsidók kapcsán tárgyalt genetikai kategorizálás is helytelen. Tulajdonképpen ez is a címkézéshez tartozó témakör, ha úgy vesszük. Kitalálok egy címkét vagy kategóriát és ahhoz tetszés (azaz politikai irányultság/célirány) szerint válogatva gyűjtöm, mehet-e ide vagy inkább oda. A [[F/Finnugor elmélet\|finnugor elmélet]] is így született, kirekesztés alapon.  
-De így operál – hatalmas anachronizmusos csúsztatással és démonizáló címkézéssel – az az izraeli forgatókönyvíró (gárda), aki gyermekeknek készült bábműsorban Jézust nácinak aposztrofálják.  
+De így operál – hatalmas anachronizmusos csúsztatással és démonizáló címkézéssel – az az izraeli forgatókönyvíró (gárda), aki gyermekeknek készült bábműsorban Jézust nácinak(!) aposztrofálják.  
 
 [[R/Reneszánsz\|Reneszánsz]] címnél legutóbb arról volt szó, hogy elég a címkével ("újjászületés") azt a látszatot kelteni, hogy a régit visszahozzuk, holott éppen az időszakban találjuk ki, melyet visszavetítünk a múltba (hogy aztán reneszánsz címén újra visszahozhassuk).  
 

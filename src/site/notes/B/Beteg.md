@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Beteg/","title":"Beteg","tags":["Englishtexttranslated"],"created":"2024-04-20T15:38","updated":"2024-10-23T23:40"}
+{"dg-publish":true,"permalink":"/B/Beteg/","title":"Beteg","tags":["Englishtexttranslated"],"created":"2024-04-20T15:38","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -9,6 +9,7 @@ Götz László Keleten kél a Nap című könyvének 487. oldalától tallózik 
 Beteg: zür. `viś` "beteg", `vis` "betegség"; vot. `viś` "beteg", `vika` "testi hiba".  
 V.: csag. `bütük` "elfogyó, vége felé járó".  
 TeSz: ismeretlen eredetű; finnugor egyeztetése téves.  
+- A török `bitig` = senyvedő szót láttam még megosztva másutt.
 
 #### Péterfai János írja:
 
@@ -26,8 +27,6 @@ Aczél József szerint jelent még bút, gyászt is.
 
 Baráth Tibor A magyar népek őstörténete című könyve I. kötetének 157. és 158. oldalán a halottat és megboldogultat nevezi betegnek; a második esetben a [[B/Boldog\|bódog]] szóval összevetve.  
 A 161. oldalon a beteg olyan kontextusban kerül elő, amely megint csak azt érzékelteti, hogy a `BETU` (ahogy az előző oldalon végre elárulja az egyiptomi nevet is) állapota nem végérvényes.  
-
-A TeSz szerint a beteg ismeretlen eredetű szó egyébként.  
 
 Hasonló alakú a [[B/Bitang\|bitang]].  
 
@@ -65,6 +64,7 @@ A betegség az egészség utáni vágyból üzen a magyar embernek, hogy valami 
 [Ezen](https://magyarmegmaradasert.hu/erdekkorok/egeszseg-gyogyitas/egeszseguenkert/item/5631-z) oldalon is szerepel, hogy a Bechamp vs Pasteur vitában utóbbi azt mondta, hogy kívülről jön a patogén, előbbi azt mondja, hogy belül kell keresni a problémát, a táptalaj a gond (nem megfelelő életvitel, étel, immunrendszer).  
 
 [Ezen](https://mega.nz/file/k3cATBLT#mX1gHLH2Vm1Rnbd-2t_ZxHFxUCxgdom5DZzul0_Wki0) ÁKTV videóban egy igen jól megírt összefoglalást találunk a témáról; a szerző kitér Rudolf Steinerre is, aki 100 évvel ezelőtt megjósolta az oltást.  
+
 
 Kadnár Viktória Népi gyógyászat Magyarországon a természeti gyógymódok tükrében című az Ősi Gyökér 2014/4. sz. megjelent cikkében nagyon jó dolgokat ír, betegségek kapcsán is.  
 

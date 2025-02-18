@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2024-11-07T00:59"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","created":"2023-10-30T08:39","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -68,7 +68,7 @@ Egyébiránt mivel a sumér Boldogasszony [[B/Bau\|Bau]] kutyás ábrázolásoka
 A [[B/Béna\|béna]] címnél előjövő cseh `běhna` = kurva szó a cseh `fena` = szuka párja. Itt ismét a kutya-szuka szexualitását vehetjük észre, de lehet egyszerűen [[P/Pina\|pina]] szavunkra is gondolni, hogy a fenti Zsolnay Ilona féle gondolatmenethez kapcsoljunk.  
 
 A nyílvesszős szexualitás előjön Thomas Inman Ancient Pagan and Modern Christian Symbolism című könyvében is. [[H/Hímség és nőiség\|Hímség és nőiség]] címnél szereplő passzusában viszont ő a nyílvessző hímséginek vétele mellett a célt/[[T/Tárgy\|tárgy]]at veszi nőiséginek, nem az íjat (a görbeség nőiség).  
-[[O/Özvegy\|Özvegy]] címnél előjött egy ilyen (özvegy) jelentésű arab szó, mely más jelentésében célt tévesztő nyílvessző jelzője, míg [[A/Arrow\|arrow]] szónál az [[A/Árva\|árva]] (= özvegy) fogalma került képbe. Ugye a nemzés nem jöhet létre, ha nincs férfi vagy nő. ([[M/Miss#Miss 2)\|Miss]] címnél célt tévesztő nyílról volt szó. Hatalmas felfedezést tettem ott.) (Arab nyílas-íjas témákat alant külön alcím alatt lentebb tárgyalok.)  
+[[O/Özvegy\|Özvegy]] címnél előjött egy ilyen (özvegy) jelentésű arab szó, mely más jelentésében célt tévesztő nyílvessző jelzője, míg [[A/Arrow\|arrow]] szónál az [[A/Árva\|árva]] (= özvegy) fogalma került képbe. Ugye a nemzés nem jöhet létre, ha nincs férfi vagy nő. ([[M/Miss#Miss 2)\|Miss]] címnél célt tévesztő nyílról volt szó. Felfedezést is tettünk ott.) (Arab nyílas-íjas témákat alant külön alcím alatt lentebb tárgyalok.)  
 [[A/AJ\|AJ]] címnél pedig érintőleg szóba került, hogy a fel[[A/Ajz\|ajz]]ás az íjra és szexuális értelemben a partnerekre is vonatkozik (azóta [[V/Vadász\|vadász]] címnél is szerepelt info erről). ([[E/Ejaculate\|Ejaculate]] eredete is (majdnem) íjaz vagy ajz. [[S/Sex\|Sex]] is lehetne talán nyilazás- vagy kutya-vonatkozású?)  
 Egyébiránt [[A/Ámor\|Ámor]]/[[C/Cupid\|Cupid]]/[[E/Eros\|Erósz]] nyila mögött is hasonló fogalmat kell találni, de a [[P/Panther\|Panther]] címnél szereplő Pándaros nevű görög mitológiai alak sem véletlen jelenik meg Chaucernél és Shakespeare-nél mint kerítő.  
 - [[M/Magor\|Magor]] címnél szó esett a [[M/Macaroni\|macaroni]] bögyörő (vesd még össze mogyoró) értelmével szépen passzolni látszó francia `maquereau` = kerítő (a spanyolban is `macró`) szóról.  
@@ -90,7 +90,7 @@ Majd a 450. oldalon írja:
 
 Paksi Zoltán folytatja:  
 > Az égbolton zajló csillagkép teremtésmonda vadászjelenete is \[asztro-\]szexuális[^3] tartalommal bír. A piros, fehér, zöld\[?\] színekben újjászülető, felajzott Hold-íj az Oriont megszemélyesítő vadász ősapa kezében az Ikreket szülő [[C/Csudaszarvas\|Csudaszarvas]] ősanyára irányítva a nemzés aktusát jelképezi, a lövés előtti pillanat, a születés ígéretét hordozza.  
-- Lásd Makoldi Sándor – Szarvasvadászat – elemzéssel [[C/Csudaszarvas\|Csudaszarvas]].  
+- Lásd Makoldi Sándor – Szarvasvadászat – elemzéssel [[C/Csudaszarvas\|Csudaszarvas]].
 
 Kandra Kabos Magyar Mythologia című könyvében is (csak annyi) szerepel, hogy a vogulok teremtésmondája szerint a szintén vadász [[N/Numi Tórem\|Numi Tórem]]tól tanulja az ember az íj és a nyíl készítése módját.  
 
@@ -128,10 +128,10 @@ Arról a [[D/Daughter\|daughter]], [[D/Dame\|dame]], [[D/Danu\|Danu]] és [[T/Ta
 > A sámándobokon általában rajzok találhatók, a felület alsó felében sok esetben a kozmikus íj ábrázolata látható. Az íj húrja a világ vízszintes tengelyének, azaz a föld színének felel meg. Ez a középső világ síkja, a mi világunk. A függőleges tengely a nyílvessző, egyben világfa-szimbólum. A nyíl mellett egyik oldalon a Nap, másik oldalon a Hold látható. A rajz alsó felét tehát az íj foglalja el. Tudnunk kell, hogy e kultúra szimbólumrendszerében az íj íve az éjszakát, az alsó világot, a telet (talán mert északon nemcsak hideg és sötét, hanem tél is van) és a túlvilági életet jelenti. Két, mai fülünknek is csaknem azonos hangzású szó kerül ezzel egymás mellé: az [[E/Éj\|éj]] és az [[I/Íj\|íj]].  
 > A sámándobokon látható ábrák tanúsága szerint e két szó jelentése azonos fogalmat fed. Magyarul: a szimbólumrendszerben éj jelentésű az íj. És az íj: éj jelentésű. Miért? Az íj az egész világon elterjedt kozmikus [[A/Anyaméh\|anyaméh]] szimbólum. Ha az afrikai bennszülött gyermekáldásra vágyik, íjat aggat a fára, ázsiai rokonaink íjat akasztanak az ajtófélfára. "Hát te ki íja fia vagy?" – kérdezik a magyar népmesékben. A nyíl férfiúi szimbólum. Hogy ez így lehetett a mi őseinknél is, azt pontosan kifejezi ajz szavunk, amely jelentheti az íj felajzását, felhangolását, de éppúgy vonatkozhat a nő szexuális felizgatására is.  
 > A nyíl – mint már említettük – világfa-szimbólum. Lehet-e valami köze ahhoz a nyíl tőhöz, amelyből a nyílik, illetve a nyílás \[[[Nyilas csillagkép\|[Nyilas csillagkép]]nek is rébusza\] szavak származnak? A nyíl szó bevilágítja a világfa mitikus etimológiáját. Volt már szó róla, hogy a jurta középső oszlopa világfa-szimbólum, s hogy a mellette lévő lyuk, a füstnyílás teszi lehetővé a világok közötti utazást a sámán számára. Az obi-ugor Numi Tórem, a legfőbb isten is egy lyukon tekintget lefelé a felső világból, ezen át nézi meg időnként, hogy rendben mennek-e a dolgok nálunk. A nyíl mellett tehát nyílás van, talán épp a nyíl ütötte. De hogy kapcsolódik a nyíl ige ebbe a körbe? Hát úgy, hogy a világfa nyílik, virágzik. Mit virágzik a fa? Természetesen fényt, erre utal a mellette ábrázolt nap és hold.  
-- Folytatást lásd világ és világ témában [[V/Virág\|virág]].  
+- Folytatást lásd világ és világ témában [[V/Virág\|virág]].
 
 > A dobra rajzolt világmodell kiegészíthető még egy érdekes nyelvi megfeleléssel; az íj két vége a mitikus tudatban a világ keleti és nyugati végét jelenti. E két végpontot összekötő [[H/Húr\|húr]] ősi neve: [[I/Ideg\|ideg]].  
-- Folytatást lásd ott, bár sok érdekes nem hangzik el.  
+- Folytatást lásd ott, bár sok érdekes nem hangzik el.
 
 [[M/Mestergerenda\|Mestergerenda]] és [[I/Ideg\|ideg]] címnél írottak szerint érthető meg (a régi magyarok ugyanis tudvalevőleg az íjat kifeszítő [[H/Húr\|húr]]t nevezték volt idegnek, aminthogy ezt mai irodalmi nyelvünk is nevezi még így), miről is van szó.  
 Magyar Adorján nagy szolgálatot tett rajzával is. Ugyanis Id-Eg annyit tesz, mint Isten Ege, és mivel íjról is szó van és a fentiek alapján tudjuk, hogy az íj = ív = év = ég és a nyíl = Níl(us) = Tejút, valamint hogy a húr nemcsak bél jelentésű de a [[T/Teknős\|teknős]] és [[L/Lapos Föld\|lapos Föld]] címnél is említett [[H/Horizon\|horizon]] szónak kiadója is, hogy itt [[S/Szakrális geometria\|szakrális geometria]] újabb és egyben legalapvetőbb példájával állunk szemben.  

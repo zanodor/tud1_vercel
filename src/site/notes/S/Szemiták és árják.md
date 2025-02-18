@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szemiták és árják/","title":"Szemiták és árják","tags":["Englishtexttranslated"],"created":"2024-10-27T11:51","updated":"2024-10-27T11:51"}
+{"dg-publish":true,"permalink":"/S/Szemiták és árják/","title":"Szemiták és árják","tags":["Englishtexttranslated"],"created":"2024-10-27T11:51","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -7,11 +7,11 @@
 
 Sok szempontból egy húron pendülnek. Leginkább abban, hogy a turáni ősnéppel álltak/állnak szemben. Lásd erről bővebben külön alcím alatt.  
 
-Már régóta érlelődött bennem, hogy a turáni-szkíta fajú népekkel szemben álló\[?\] árják és szemiták között valamiféle közösséget, azonosságot fedezzek fel. A szemita kinézetű de árja nyelvet beszélő görögök és a zsidós gondolkodású (cigány/arab kinézetű olaszokból visszavetített) latinok/Róma miatt is gondoltam erre. Majd ...
+Már régóta érlelődött, hogy a turáni-szkíta fajú népekkel szemben álló\[?\] árják és szemiták között valamiféle közösséget, azonosságot fedezzek fel. A szemita kinézetű de árja nyelvet beszélő görögök és a zsidós gondolkodású (cigány/arab kinézetű olaszokból visszavetített) latinok/Róma miatt is gondoltam erre.  
 
 #### Oláh Imre A Nimrud hagyomány...
 
-...című cikkében láttam egy érdekes "árja akkád" kifejezést Kephart, C.: Races of Mankind című könyvében:  
+...című cikkében láttam aztán egy érdekes "árja akkád" kifejezést Kephart, C.: Races of Mankind című könyvében:  
 > K. e. 4000 körül Nyugat-Turkesztánból érkező számottevő bevándorlás után... "about 3800 B.C. the **Aryan Akkadians** from central Arabia, under the traditional leadership of Nimrud, conquered the northwestern part of Babylonia and established settlement concerning Agade." K. E. 3800 körül az árja akkádok Nimrud vezetése alatt\[?\], Közép-Arábiából jövet Babilónia északnyugati részét meghódították és Agádéban telepedtek meg.  
 
 Oláh Imre adatából arra lehet következtetni, hogy az "első nép" [[K/KUS\|kus]]ok lennének az árják és a szemiták ősei is:  
@@ -175,4 +175,4 @@ A szkíta-magyar és szemita/árja világkép ellentétessége a [[S/Szakrális 
 
 ## Pártus birodalom
 
-A fentebb említett parthus/pártus ütközőállam rendkívül érdekes, mert már az árják területén egy elszemitásodott pehlevi nyelvvel, de eredeti magyar/szkíta-hun mentalitással jelenik meg.  
+A fentebb említett pártus ütközőállam rendkívül érdekes, mert már az árják területén egy elszemitásodott pehlevi nyelvvel, de eredeti magyar/szkíta-hun mentalitással jelenik meg.  

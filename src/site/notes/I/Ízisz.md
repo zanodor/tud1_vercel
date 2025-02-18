@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated"],"created":"2023-11-15T04:40","updated":"2024-10-25T22:01"}
+{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated"],"created":"2023-11-15T04:40","updated":"2025-01-09T09:59"}
 ---
 
 
@@ -35,7 +35,7 @@ Lásd még témát lejjebb.
 > ![assets/Ízisz_image1.png|invert_dark](/img/user/I/assets/%C3%8Dzisz_image1.png)  
 - Íziszről és Ozirisz phalloszáról lásd lejjebb.
 
-A Wikipédia anyaga elé helyezett Edward P. Butler anyagát kell majd idevenni (és persze majd Gerald Massey Ancient Egypt és más című könyvének és Wallis Budge munkájának adatai is jöhetnek). #todo
+A Wikipédia anyaga elé helyezett Edward P. Butler anyagát kell majd idevenni (és persze majd Gerald Massey Ancient Egypt és más című könyvének és Wallis Budge munkájának adatai is jöhetnek). 
 
 A Szimbólumtár adatsora:  
 > Egyiptomi istennő, Ozirisz (Ozirisz/Szarapisz) nővére és felesége. Mítoszukban a férje holttestét kereső, majd a holttest darabjait összegyűjtő Ízisz a hitvesi hűség jelképe. Mivel a halál legyőzője, gyógyító varázserőt tulajdonítottak neki.  

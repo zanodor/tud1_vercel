@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated"],"created":"2023-10-14T04:30","updated":"2024-10-25T21:50"}
+{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated"],"created":"2023-10-14T04:30","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -27,7 +27,7 @@ Ezen adatokat felhasználva írom [ezen](https://qr.ae/py1lXv) Quora posztban:
 >
 > A hsziungnuk a nyugatról érkezett ázsiai hunokhoz tarthatók. Ők egy következmény.  
 >
-> - A Hsi-Ung-Nu nagyjából "Nyugati Ung Urak"-nak fordítható. A [[U/Ung\|Ung]], [[U/Unka\|unka]] stb. jelentése: Un/An házból való származás; ezért utalnak a mai magyar `unka`, `unoka` szavak ősiségre (előbbi egyfajta béka).  
+> - A Hsi-Ung-Nu nagyjából "Nyugati Ung Urak"-nak fordítható. A [[U/Ung\|Ung]], [[U/Unka\|unka]] stb. jelentése: Un/An házból való származás; ezért utalnak a mai magyar `unka`, `unoka` szavak ősiségre (előbbi egy békafaj).  
 >
 > Az európai/szteppei hunok már régen civilizálták a később Kínának nevezett területet ("önmagukat", mert Kína = \*Huna, a hun kultúra folytatása). [[H/Huang-ti\|Huang-ti]] ideje nem olyan régi. 2-3000 év az semmi. A hunokat nem lehet pár száz éves tól-ig határok közé tenni, de a nyugati "tudomány" azt csinál, amit akar. Ha azt akarják, hogy a kínaiak, az ajnuk vagy a hottentották indoeurópaiak vagy szemiták legyenek, vagy azt akarják, hogy [[B/Barbár\|barbár]]nak tekintsék őket (amiről még azt sem tudják, hogy mit jelent, csak ismételgetnek, mint a papagájok), amilyennek a hunokat szokás beállítani, akkor megteszik. Ez az ő szintjük. Mi az ő szintjük fölé akarunk emelkedni, mert túl akarjuk élni az idiotizmusukat és ezt a csillagászati kort.  
 - A [[Y/Young\|young]] címnél taglalt skandináv `ung` = fiatal szót is említhettem volna.

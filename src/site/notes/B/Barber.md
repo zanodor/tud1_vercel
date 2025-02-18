@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barber/","title":"Barber","created":"2024-04-21T14:44","updated":"2024-10-23T20:29"}
+{"dg-publish":true,"permalink":"/B/Barber/","title":"Barber","created":"2024-04-21T14:44","updated":"2025-01-22T15:52"}
 ---
 
 

@@ -1,7 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2024-12-18T08:00"}
+title: Fa
+foreign_title: false
+aliases:
+  - fa
+  - Fá
+  - fá
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg_created: 2024-12-18T08:00
+dg_updated: 2025-01-22T16:53
+dg_upload: done
+date_created: 2022-12-14
+date_modified: 2025-01-22T16:53
+gh_repo_url:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/F/Fa.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/F/Fa.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/F/Fa.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/F/Fa.md
+  - github.com/zanodor/TUD2/blob/7b2c0d5d879244c24ac9a102bcaba5009f9fe3a5/F/Fa.md
+danglinglink_commentedout: true
 ---
-
 
 # Fa
 
@@ -36,8 +57,8 @@ A Zakar András Sumerian-Ural-Altaic Affinities féle PDF-ben helyet kapó Deime
 `A-Pa` előjön Varga Zsigmond Az ősmagyar mitológia című könyvének 297. oldalán, a lagasi Gudea templomtornyának neveként.  
 
 Fa szavunknál írja CzF:  
-> Rokonok vele takele nyelven Áfrikában: `fa`, továbbá a parszi és pehlvi `van`, zend `vana`, szanszkrit `vana` (erdő), persa `bun`, sínai `mu` (arbor; lignum), finn `pun`, német `Baum`, goth `bagm`, angol `beam`. A perzsa `bam`, s héber `bamah` pedig magast jelentenek, épen úgy mint az egyszerű magyar fe, mely alapfogalomban a növények legmagasabb nemét jelentő fa-val egy értelmű.  { #jh206l}
-
+> Rokonok vele takele nyelven Áfrikában: `fa`, továbbá a parszi és pehlvi `van`, zend `vana`, szanszkrit `vana` (erdő), persa `bun`, sínai `mu` (arbor; lignum), finn `pun`, német `Baum`, goth `bagm`, angol `beam`. A perzsa `bam`, s héber `bamah` pedig magast jelentenek, épen úgy mint az egyszerű magyar fe, mely alapfogalomban a növények legmagasabb nemét jelentő fa-val egy értelmű.  
+^jh206l
 
 Jankovics Marcell A fa mitológiája című könyvében is említi, hogy a fa lehet kettős (nőiségi és hímségi) megítélésű[^1]. [[E/Erikafa\|Erikafa]] címnél is írtuk:  
 Az [[E/Erikapeosz\|Erikapeosz]] Örök-Apa/Öreg-Apa értelmezése azért visszás, mert a Tejútfa inkább nőiségi, de Jankovics Marcell [[F/Fa és nő\|fa és nő]] címnél álló adata szerint (a törzs [[L/Lingam\|lingam]]-ként való értelmezése \[vö. fa – fasz\] nyomán) hímségi is lehet.  
@@ -46,7 +67,7 @@ Az [[E/Erikapeosz\|Erikapeosz]] Örök-Apa/Öreg-Apa értelmezése azért vissz�
 Egyébiránt ugyanígy a FA/PA szóelemből (is) levezethető [[B/BOT\|BOT]] (Bo-Ta) ugyanígy kétféle értelmezésű: bot lehet fallikus és a Nap Háza értelemben nőiség.  
 
 ![assets/Fa_image3.png|invert_dark](/img/user/F/assets/Fa_image3.png)  
-Az is ismeretes, hogy az **ember maga is fához hasonlíttatott**. Lásd erről Zobor László Az ősminták ereje című tanulmányában szereplő anyagából [[V/Világkép\|világkép]]).  
+Az is ismeretes, hogy az **ember maga is fához hasonlíttatott**. Lásd erről Zobor László Az ősminták ereje című tanulmányában szereplő anyagából [[V/Világkép\|világkép]].  
 Erőss Diána/Bácsi Boglárka is írja:  
 > Világképünket nemcsak szociokulturális környezetünk sajátosságai határozzák meg: függőleges, az ég irányába mutató testhelyzetünk alapján következtetünk a kozmosz hierarchikus tagoltságára, vertikális rendjére. Felül a szellem, közében az érzelmek, alul a zsigeri késztetések erőközpontjait véltük megtalálni. Szimbolikus értelemben lényünk a transzcendens és az immanens tartományokat egyesíti: nem véletlen a gerincoszlop misztikus vonatkozásának feltételezése. Folyamatos az áramlás, a csatornában mindig csúcsforgalom van, hiszen határvidék lakói vagyunk. Nyilván a fa sem ok nélkül telítődött metafizikus jelentéstartalommal: a földből szívja fel táplálékát a gyökérzet, míg a lombkoronát az isteni napsugarak éltetik.  
 
@@ -142,8 +163,8 @@ Zobor László Az ősminták ereje című tanulmányában rengeteg érdekesség 
 
 #### Jankovics Marcell A Nap könyve...
 
-...című könyvének 59. oldalán írja:{ #d6f76e}
-
+...című könyvének 59. oldalán írja:
+^d6f76e
 > Hála a történeti folytonosságnak és a fejlett írásbeliségnek, e hagyomány ősi kínai változatát részletekbe menően ismerjük.  
 > Mint a világ sok régi műveltsége, a kínai is egy égben gyökerező, csodálatos fát kapcsol a Naphoz. A "Tíz Égi Tő" és a "Tizenkét Földi Ág" 60 napja ezen a "naptárfán" hajt. Jelképesen szólva, a Nap ennek a fának a tövén kél keleten, ennek a csúcsán delel, és ezen nyugszik nyugaton. A "kelet" kínai írásjele a fa és a Nap együttes stilizált ábrázolása: 東. Az 5 ágens ("elem") közül a fát a kínaiak a kelet égtájhoz társították.  
 > Ez a fa nemcsak a Nappal, hanem a császárral is együtt mozog, más szóval az élet fája mindig ott nő, ahol a császár épp tartózkodik. Nyári napfordulókor elméletben a birodalom szívében, a főváros közepén lévő császári palotában, ahol a világegyetem központja van ([[K/Kína\|Kína]] kínai neve, Csung-Kuo "Közép-ország"-ot jelent), a világ tengelyében áll a fa. Délben, amikor a Nap a fa csúcsán delel, a mindennek mértéket adó császár sem vet árnyékot – vagyis kínai felfogás szerint tökéletes –, ahogy adott földrajzi szélességen nyári napfordulókor a [[G/Gnomon\|gnómon]]nak sincs árnyéka. Mint e példa is mutatja, a császárnak mindig összhangban kell lennie a Nap haladásával. Hiszen ő a Menny Fia, a Nap képmása (a mitikus hagyomány szerint **Hszi-Ho napanya-istennő** \[hasonló a [[S/Sky\|sky]] név\] hatalmas császárok ágyasa volt), és mert számára a Nap a követendő példakép, lévén az egyetlen helyes út a Nap útja: a Tao. A császárnak ezért meghatározott rend szerint a Nap útján kellett járnia, képletesen szólva, mindig a fa alatt kellett laknia.  
@@ -315,7 +336,7 @@ Szó esett róla fűzfa odva kapcsán [[T/Tartarosz\|Tartarosz]] címnél.
 
 ...[[T/Tejút\|Tejút]] címnél szereplő passzusát tegyük ide is:  
 > A mondottak miatt is ábrázolják néha kettősnek a Világfát. (L. élet és tudás fája, nő- és hímivarú fa, megszemélyesítve Nut és Ozirisz, Éva és Ádám, Mária és Krisztus.) A Világfa páros jelképezheti a Tejutat és a földtengelyt együtt, de jelképezheti csak a Tejutat is, mivel az két helyen is keresztezi a látóhatárt ill. a nappályát \[lásd fentebb\]. Alkalmasint a két fa jelképezheti az egyik vagy a mások "útkereszteződést" is. Az egyik kereszteződésben – a Nyilas és Skorpió csillagképeknél – a Tejút két ágra szakad. Ezt a mesék többek közt két hajladozó fa közt vezető átkelőhelyként írják le. A másik kereszteződésben lévő Ikrek csillagképet az ókori görögök oszloppár formájában tisztelték (az Ikrek voltak az égen Héraklész oszlopai). Ma is oszloppár a csillagkép jele.  
-- És lett a görögök által ismert világban a nyugati kapu, a gibraltári-szoros szimbóluma is.  
+- És lett a görögök által ismert világban a nyugati kapu, a gibraltári-szoros szimbóluma is.
 
 > A Tejutat gyakran két, felül összeboruló fának képzelik el. Ilyen esetben a Tejút a világtengellyel együtt 3 fát, vagy egy 3 törzsű (de nem három ágú) fát alkothat (az ágak mást jelentenek). Így ábrázolja egy 18. századi dán konstrukció a skandinávok világfáját. Az Yggdrászil az alvilágban, az ég déli pólusán gyökerezik, majd 3 szárra, törzsre bomlik. A középső egyenes törzs a Világhegyet árfúrva, az északi ég pólusa körül bont koronát, a két szélső törzs a korong alakú Föld pereménél bukkan a "felső világra," majd az éggömb íve mentén a középső törzs felé hajol. Hasonló felfogású világfaábrázolással a népművészetben is találkozhatunk. Ezek az ábrázolások a Tejút és a világtengely viszonyát modellezik a Föld központú világkép szerint. Persze a 2, 3 vagy több törzsű fa is értelmezhető másképp. Felfogható folyamatábrának is: ha a szárak egy tőből erednek, vagy tövük egy középpont felé mutat, a tejútforgást jelképezhetik; égtájjelként a Napnak a Tejúthoz viszonyított főbb állomásait. Ilyen 3, a tövével együtt igazából 4 szárú [[V/Világfa\|világfa]] a [[K/Kereszt\|kereszt]].  
 - Ezt a részt képekkel kiegészítve lásd [[E/Életfa\|életfa]].  
@@ -404,7 +425,7 @@ Ananda Coomaraswamy The inverted tree című tanulmányát Traditional Art and S
 
 Fejjel lefeliségről [[H/Herkules csillagkép\|Herkules csillagkép]] címnél is volt szó:  
 > HERKULES mondáját maguk az antik görög mitográfusok sem értették. Gyakran "A TÉRDEPLŐ"-nek nevezték, és az éggömbökön ma is térdeplő óriásnak ábrázolják. A görög hagyomány szerint az égi Heraklész feje délen, lábai északon vannak, tehát nálunk "fejjel lefelé lóg". Lábaival a Kígyót "tapossa", de összekapcsolásuk csak késői, mesterségesen alkotott. Ezt az irodalmi magyarázatot vette át a késői mitológia: HERAKLÉSZ volt az a hős, aki megölte a HESZPERÍDÁK aranyalmákat termő fáját őrző sárkányt, vagy kígyót, a DRACO-t.  
-- Az imént leírt póz még a [[N/Nut\|Nut]] címnél írottakat idézi.  
+- Az imént leírt póz még a [[N/Nut\|Nut]] címnél írottakat idézi.
 
 [[T/Török\|Török]] címnél írtuk, hogy még a szintén T-R vázú fa jelentésű [[T/Tree\|tree]] kapcsán a fa függőleges állása lehet érdekes vizsgálati vonal, nemcsak a török, hanem a többi magyar-rokon népnév vizsgálatában.  
 Ott ötlött fel: ha a Tejútfa [[K/Karácsony\|Karácsony]]kor függőleges, akkor a nyári napfordulón is és fejjel lefelé áll?  
