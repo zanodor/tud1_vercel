@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Eke/","title":"Eke","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-20T01:30","updated":"2024-10-25T17:15"}
+{"dg-publish":true,"permalink":"/E/Eke/","title":"Eke","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-20T01:30","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -33,9 +33,9 @@ Szól a [[H/Hérodotosz\|Hérodotosz]] nyomán fennmaradt szkíta eredetmondár�
 
 # Eke 2)
 
-Kiegészít, kipótol (*eke out* igekötős frázisban általában). Azt mondani, hogy fokoz igénkből ered, nehéz ide is erőszakolni, mikor egész-ít szavunk ég/egy gyökével egyezik ezen modern angol `eke` és elődei (lásd Eric Partridge Origins című könyvének 926.o.).  
+Kiegészít, kipótol (*eke out* igekötős frázisban általában). Azt mondani, hogy `fokoz` igénkből ered, nehéz ide is erőszakolni, mikor [[E/Egész\|egész]] szavunk ég/egy gyökével egyezik ezen modern angol `eke` és elődei (lásd Eric Partridge Origins című könyvének 926.o.).  
 
-[[F/Forrai Zoltán Tamás\|Forrai Zoltán Tamás]] egyszerűen csak az [[E/Eke\|eke]] szavunkat látja benne, az *eke out a living* (kihasítani egy megélhetést) idióma alapján. Tény, hogy a német `egge` = boronáló szó is eke szavunkból ered.  
+[[F/Forrai Zoltán Tamás\|Forrai Zoltán Tamás]] egyszerűen csak az [[E/Eke#Eke 1)\|eke]] szavunkat látja benne, az *eke out a living* (kihasítani egy megélhetést) idióma alapján. Tény, hogy a német `egge` = boronáló szó is eke szavunkból ered.  
 Virág Kálmán is említi Rend a szóhalmazban című dolgozatában e szót: üt (úgy) szavunkból eredetűnek tartja.  
 
-Archaikus angolban jelentett ést, ist, szintént is. Mondhatnánk, hogy még szavunkból kopott le az m hang. A német nyelvben ezen jelentése máig megmaradt: `auch`. Inkább azt kell látni, amit [[I/IS\|is]], [[E/És\|és]], [[A/And\|and]], [[T/Thus\|thus]] és más címnél taglaltunk: a tüzet jelentő szavak forrasztják össze az elemeket, tagmondatokat. Lásd még [[E/Each\|each]].  
+Archaikus angolban jelentett ést, ist, szintént is. Mondhatnánk, hogy még szavunkból kopott le az m hang. A német nyelvben ezen jelentése máig megmaradt: `auch`. Inkább azt kell látni, amit [[I/IS\|is]], [[E/És\|és]], [[A/And\|and]], [[T/Thus\|thus]] és más címnél taglaltunk: a tüzet (itt `ég`) jelentő szavak forrasztják össze az elemeket, tagmondatokat. Lásd még [[E/Each\|each]].  

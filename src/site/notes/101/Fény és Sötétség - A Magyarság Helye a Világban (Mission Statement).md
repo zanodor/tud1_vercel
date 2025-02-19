@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","created":"2023-10-04T08:31","updated":"2025-01-05T21:23"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","created":"2023-10-04T08:31","updated":"2025-02-18T01:01"}
 ---
 
 
@@ -500,7 +500,7 @@ Ha a [[K/Karácsony\|Karácsony]] és [[K/Kerecsen\|kerecsen]] szavakat magyarna
 
 
 Péterfai Jánosnál, az én anyagomban, és másoknál (Baráth Tibor és követői) is gyakran szerepelnek olyan viccesnek tűnő, hirtelen behelyettesítésnek szánt összetételek, mint Nap-Úr, Fény-Úr.  
-Mert ha ránézünk a török `fener` = fáklya, orosz `фонарь` = zseblámpa, perzsa `fanār` = világítótorony, vagy akár a – szintén [[F/Fény\|fény]] címnél említett – ónorvég `vinr` és izlandi `vinur` = barát szavakra, mind Fény-Úr vagy mondjuk előbbiek inkább Fény-Er(ő) olvasatot eredményezhetnek. 
+Mert ha ránézünk a török `fener` = fáklya, orosz `фонарь` = zseblámpa, perzsa `fanār` = világítótorony, vagy akár a – szintén [[F/Fény\|fény]] címnél említett – ónorvég `vinr` és izlandi `vinur` = barát szavakra, mind Fény-Úr vagy mondjuk előbbiek inkább Fény-Er(ő) olvasatot eredményezhetnek.
 De ezen esetekben nem arról van szó, hogy mi valóban azt is hisszük, hogy egy magyar `fényerő` szót vettek át vagy maradt fenn ezen nyelvekben. Csak azt a célt szolgálják ezen megfeleltetések, hogy a szótagnyelv rendszerben helyérték szerint kerüljön egy elem a helyére, mondhatni ideiglenesen. Nem pontos etimológiákra kell gondolni. Mert ha jönnek kritikusaink, ellenségeink, az igazság irányában el nem kötelezett ügynökök, akkor ők már alig várják, hogy a mi gyöngyszemeinkből válogathassanak, hogy a laikus, életében egy szót sem értelmező átlag polgár felé bizonyíthassák, miféle csodabogarak és kóklerek vagyunk.  
 Mert adódik a kérdés, [[H/Hunor és Magor\|Hunor és Magor]] nevek esetében is: mik azok az azonos -Or végződések? Indoeurópai eredetűek és átvettük? Pont? Mehet ebédelni az elvtárs úr, mert megoldotta?  
 Minket is meg kelleni érteni, hogy mit akarunk, mi a célunk. Azt mégsem írthatom rá, hogy "sapka."  

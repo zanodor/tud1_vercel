@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated"],"created":"2024-04-22T01:48","updated":"2024-10-25T22:34"}
+{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated"],"created":"2024-04-22T01:48","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -46,7 +46,7 @@ Még a lánc és kutya kapcsán: "Lánc, lánc, Eszterlánc..." gyermekdalunkban
 
 A csatolt Hoppál-Jankovics-Nagy-Szemadám Jelképtár című könyvükből való képen szerintük a [[T/Tejút\|Tejút]] ábrázolásait láthatjuk, de a legfelső és legalsó inkább tűnik Napútnak (így [[S/Sine\|sine]] címhez is bekerült), míg a második lemniszkáták/Halak láncolatát is idézi.  
 ![assets/Lemniszkáta_image3.jpeg|invert_dark](/img/user/L/assets/Lemniszk%C3%A1ta_image3.jpeg)  
-A csillagban nem tudok más látni, mint a Kutyacsillagot (nyári és téli napfordulós együttállásait).  
+A csillagban nem tudok mást látni, mint a Kutyacsillagot (nyári és téli napfordulós együttállásait).  
 
 A lemniszkáta meg[[K/Köt\|köt]]ő [[K/Közép\|közép]]ső pontjával kapcsolatosan a [[M/Masni\|masni]], [[C/Csokor\|csokor]], [[H/Hurok\|hurok]], [[G/Gúzs\|gúzs]], [[K/Köt\|köt]]és fogalmain keresztül vizsgálandó [[K/Knot\|knot]] és [[L/Loop\|loop]] szavak közül utóbbival foglalkoztunk bőven, míg a [[K/Knot\|knot]] szóban a [[K/KAN\|KAN]] van meg, mert a Kutya a kötőpont ([[K/Közép\|közép]]pont).  
 
