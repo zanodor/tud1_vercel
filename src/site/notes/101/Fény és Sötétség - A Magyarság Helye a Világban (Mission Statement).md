@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","created":"2023-10-04T08:31","updated":"2025-02-18T01:01"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-12-17T21:23"}
 ---
-
 
 # Fény és sötétség - a magyarság helye a világban
 
