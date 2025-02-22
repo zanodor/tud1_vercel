@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated"],"created":"2024-10-27T12:27","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated"],"created":"2024-10-27T12:27","updated":"2025-02-18T01:06"}
 ---
 
 
@@ -8,6 +8,8 @@
 #### Péterfai János írja:
 
 > A Király szó más nyelvekben is elterjedt és ma is élő, ne gondolják a magyarok kizárólag saját szavuknak. A karacsájok azt állítják jelenleg is, hogy ők magyarok, és `Kiráj` alakban írják a Király szót. A szlávok `Král` formára rövidítették, a románok `Crai` (Kráj) alakra. A név második része a Nap Rá nevéből származik, a végén záró hanggal, amely a legtöbbször J vagy H hang. A `Ráj` nevet Indiában Rádzsa formában ejtik, de rengeteg más alakja is van. A szumer `Ki` a Földet, az Országot jelenti. **Ki-Rály** tehát a Föld-Napja.  
+> \[...\]  
+> Arikan Atilla felesége. Ari az Arany becézése, a Kan Királynő. Őseink a királynőket is királynak nevezték, mert valóban királyok voltak. A női ügyekben férfi király nem ítélkezhetett, mert be sem engedték a nők a férfi királyt az ítélkezéseik vitájába.  
 
 Alant többféle szófejtés szóba kerül, de azt kell mondjam, Péterfai János nagyon szépen kikerülte a problémát és egy nagyon frappáns megoldással rukkolt elő.  
 Amikor más nyelveket említ Péterfai János, nyilván a lengyel `kraj` = ország, poétikus-ironikus orosz `kraj` = ország, szlovák és ukrán `krajina` = ország és még főképp a török `kral` = király és `kraliçe` = királyné/nő szavakra gondolt.  
@@ -39,7 +41,7 @@ Péterfai János tökéletes levezetéséhez tehető, hogy nem ez az egyetlen he
 > De a cáréhoz hasonló a magyar "király" szó története is. Itt meg I. (Nagy) Károlyt tartják a král, karol szláv tisztség névadójának, és hát innen lett volna szláv jövevényszó a magyar király is. Mint Cézárnál, itt is a nagyapa volt a névadó. Ő volt Kalapácsos (Martell) Károly (686-741) a Karoling-dinasztia alapítója. A Károly (Carolus, Charles), név az ónémet karlja, karlaz, (szabad ember, jobbágy) titulusból eredeztethető.  
 > Ekkor a magyar protoindoeurópai eredetű \*"kerál" szó már évezredek óta ismert lehetett és a kentum-szatem nyelvi szétváláskor a magyarban maradt a "ker" gyök, míg a szatem területen ez "szárrá", "cárrá" változott. Míg a magyar "király" szóban a "kör", a szláv "[[C/Cár\|cár]]" szóban a "sár" (gömb, pld. földgömb, Земной шар) szó jelöli a teljességet \[[[SAR\|[SAR]]-nak van teljes jelentése a sumérben vagy akkádban\], a mindenek feletti uralmat. Ezt a gömböt (nálunk országalmát) tartják a kezükben az ősi istenek, királyok.  
 
-Gyárfás Ágnes Megbánás és megbocsájtás a régi magyar hitvilágban című az Ősi Gyökér 2011/1. sz. megjelent cikkében a Kör-Áll fogalmának helyességét szerintem nem biztos, hogy a megfelelő jellel magyarázza, amennyiben [[S/SAR#Sar 2)\|sar]]-re utal a jel (a mellékelt képet Botos Lászlótól vettem):  
+Gyárfás Ágnes Megbánás és megbocsájtás a régi magyar hitvilágban című az Ősi Gyökér 2011/1. sz. megjelent cikkében a Kör-Áll fogalmának helyességét szerintem nem biztos, hogy a megfelelő jellel magyarázza, amennyiben [[S/SAR#Sar 2)\|sar]]-re utal a jel (a mellékelt kép Botos Lászlótól való):  
 ![assets/Király_image1.jpeg|invert_dark](/img/user/K/assets/Kir%C3%A1ly_image1.jpeg)  
 A király szavunkat a közel-keleti képjel-írásban egy körrel tudjuk leírni, ami egyben a Teljességet, a Világmindenséget is jelenti.  
 
@@ -53,7 +55,7 @@ Zentai Ákos Történelemírásunk Akhilleusz-sarka című cikkében írja, hogy
 Bakos Attila A Duna Evangéliuma című könyvének 230. oldalán valamilyen (nála szokásossá vált) egyiptomi névvel kombinálva adja meg a saját verzióját, de nem sokra adom. Illetve tippet adhat, mármint hogy király lehetne (ha figyelembe vesszük, hogy a fontos szavakba több idea kerül) Ki-Rá-Él, Nap-Isten Föld(i uralkodója), vagy akár Ku-Rá-Él, Él Isten Kúrója/Napfénye.  
 Aztán azt írja, hogy az egyik hettita főváros, Samal uralkodóját Ka-Ral-nak hívták.  
 [[E/EL\|EL]] címnél további gondolatokat szültünk.  
-Timaru Kast Sándornál láttam a kelta Cu Roi (lásd [[C/Curoi\|Curoi]]) névvel való hasonlítást.  
+Timaru Kast Sándornál láttam a kelta [[C/Curoi\|Cu Roi]] névvel való hasonlítást.  
 
 Bakos könyvének 454. oldalán egy Ki-Rá-La szókapcsolatot említ, mely szintén lehet jó megoldás, tekintve, hogy [[O/Ország\|ország]] és [[W/Widow\|widow]] címnél írottak alapján hogyan is gondolkodhatunk a királyról. Ki-Rá-La a Napisten Földi Helye értelmű lenne. Ott is uralkodik.  
 Ahogy [[K/Korona\|korona]] címnél szerepelt:  
@@ -87,7 +89,7 @@ Egyébként könnyen lehet, hogy a szó nem magyar, hanem (annak ellenére, hogy
 (Mátyás Corvinus (hollós) neve utalás ugye a Hunyadiak hollós címerére és magának Mátyásnak melléknevében is ezért jelenik meg.)  
 Akárhogy is, jól érezzük, hogy a [[K/Karoly\|karoly]]/karvaly és [[T/Turul\|Turul]] madarak neveihez hasonló madárnévről lehet szó. Ez biztos. Itt még majd azt a csillagmitológiai részt kell körüljárni, ami a nyári napfordulós Holló csillagképhez és a Hunor csillagképhez (a nyári napfordulós hatalomváltáshoz) köthető.  
 
-Közben [[T/Turul\|Turul]] címnél, páva téma kapcsán jutott újra eszembe, hogy a király valóban az év körére, és az évet megújító szerepére utal. A királyt viszont a nyári napfordulón megölni is szokták, mivel onnantól a Nap halódni kezd. A király a Nap(madár), ahogy eddig is tudtuk.  
+Közben [[T/Turul\|Turul]] címnél, páva téma kapcsán jutott újra eszembe, hogy a király valóban az év körére, és az évet megújító (és ezzel nemző) szerepére utal. A királyt viszont a nyári napfordulón megölni is szokták, mivel onnantól a Nap halódni kezd. A király a Nap(madár), ahogy eddig is tudtuk.  
 A hasonló alakú szingaléz szó ugyan madarat jelent, de figyeljük meg, ez sem elhanyagolható, hogy a szó amellett hogy a [[T/Turul\|Turul]] szóval mutat hasonlóságot, valóban Turulházi királyaink is voltak, okkal ilyen néven.  
 Szumma szummárum, a király-madár kapcsolat értelme az, hogy a turul a Nap feltámadására és akár a patriarchális rendre utaló madár, a holló pedig utal a Nagyboldogasszonyban is tisztelt ősanya-ősanyagistennőre. A korona is női korona, ne feledjük, Tündér Ilona koronája Szíriusz, a Holló csillagkép generális irányában.  
 
@@ -130,7 +132,7 @@ Kubínyi Tamás egy műsorában idézi az Szent István király intelmei Imre he
 > Ha Konstantin a negyedik században az isteni bölcsesség megtestesülése volt, akkor Attila, a szkíta és a hun, valamint a tatár kán ugyanaz volt az ötödik században. Azt állította, hogy ő a kard, az Acinaces isten tulajdonosa, egyfajta Palládion, amely feljogosította őt az univerzum szuverenitására.  
 
 Oláh Imre még folytatja, hogy Atilla 124 éves korában halt volna meg.  
- Dümmerth Dezső rávilágít arra, hogy [[A/Álmos\|Álmos]] főfejedelemnek \[királynak\] is szakrális, azaz földöntúli, kozmikus hátterű tekintélye volt. Álmos alakját is "Égtől születettnek", isteni hasonlóságúnak fogták fel. A szakrális királyeszme lényege éppen ebben az isteni hasonlóságban rejlik.  
+Dümmerth Dezső rávilágít arra, hogy [[A/Álmos\|Álmos]] főfejedelemnek \[királynak\] is szakrális, azaz földöntúli, kozmikus hátterű tekintélye volt. Álmos alakját is "Égtől születettnek", isteni hasonlóságúnak fogták fel. A szakrális királyeszme lényege éppen ebben az isteni hasonlóságban rejlik.  
 > Később – folytatja –, a keresztény, európai királyeszme sem szabadult meg soha a pogány(?) szakralitás képzetektől. De végül is megszabadult! Nem épp jószántából, hanem készakarva, mikor a pápaság erélyesen fellépett ellene. Ugyanis VII. Gergely pápa nyíltan szembefordult a szakrális királyság felfogásával, miután a német IV. Henrik – u.m. Nagy Konstantin – egyszerre rexnek és sacerdosnak merte nevezni önmagát. Azonban a pápa csak laikus személynek tekintette a királyt, akinek királyi méltósága ugyan elvileg az Istentől származik, de azt ő a pápa közvetítésével kapja. A hatalmi viszály során a pápa IV. Henriket két ízben is kiátkozta. Igaz a király seregei erre 1084-ben elfoglaltak Rómát, s Henrik az ellen pápával, III. Kelemennel, magát császárrá koronáztatta. Azonban Angliában, VIII. Henrik kora óta, az állam s az egyház feje, újra a trónus lett.  
 
 #### Hajnal Gyöngyi Adatok a magyar szakrális örökség felderítéséhez...  
@@ -143,18 +145,20 @@ Gyárfás Ágnes A magyar múlt és jövő képe 13 erős, időtálló és megbo
 
 ## Ki lehet Magyarországon király?
 
-Bakk István Miért apostoli királyság Magyarország 2. rész című az Ősi Gyökér 2013/4. sz. megjelent cikkében írja:  
+#### Bakk István Miért apostoli királyság Magyarország 2. rész...  
+
+...című az Ősi Gyökér 2013/4. sz. megjelent cikkében írja:  
 > Ma, a huszonegyedik század elején, az ország jövőképében előkerültek olyan törekvések is, melyek a királyi személy kiválasztásának adtak hangot. Ezek a törekvések csak az utolsó egységes 1505-ös országgyűlés értékeit figyelembe véve válhatnak legitim iránnyá. A nemzeti királynak királyságra jelölt családja 7 feltételnek, kell, hogy megfeleljen: Ősi főnemesi múlt, családfája mohácsi vész előtti kell, hogy legyen, királyválasztó zászlós úr legyen az őse, az ősök nemzeti király oldalán működtek, mint Mátyás és I. János király, de Habsburg uralkodók által adományozott ranggal nem rendelkezik, a nemzeti ellenállásban részt vett a családja, mint a Rákóczi- szabadságharcban vagy a 1848-as szabadságharcban. Nem volt a diktatúra időszakában a fasiszta, illetve a kommunista pártnak a tagja. Ez a 7 feltétel teszi az 1000 éves ország hiteles királyává és az európai uralkodóházakkal egyenértékűvé.  
 
 ## Király a magyar népmesékben
 
 A [[C/Csillagvallás\|Csillagvallás]] idején mindenki király volt. Népmeséink is mindig királyokat, királylányokat vonultat fel, de ez csak jelkép(esen őrzi a régi hagyományt). Magyar Adorján írja:  
 > Népünk régebbi leánykérési szokásaiban úgy a lány apja mint a kérő is "király"-nak neveztetett, címeztetett Napkeleti királynak, Napnyugati királynak, avagy valamilyen másféle királynak, míg a leány természetesen mindig "királyleány" avagy királykisasszony" volt, akkor is ha csak egyszerű, falusi családokról volt szó.  
-- Folytatást lásd [[P/Párta\|párta]].  
+- Folytatást lásd [[P/Párta\|párta]].
 
 Gyárfás Ágnes írja egy meseelemzésében, hogy a király sorsa, szerepe tükrözi a magyar néptömegek arculatát. Királyi vér, de "mára" minden emelkedettség kipusztult a lelkéből. Éppen csak az aranykor és vaskor fogalmait hagyta még itt ki.  
 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-[[S/Sors\|Sors]] más nevén [[S/Szerencse\|szerencse]], mely a hun-török nyelvben [[K/Kut\|kut]]. Lásd KU-KUT-KUTA diagramot [[K/Kut\|kut]], [[H/HAT\|HAT]], valamint [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] címnél.  
+[[S/Sors\|Sors]] más nevén [[S/Szerencse\|szerencse]], mely a hun-török nyelvben [[K/Kut\|kut]]. Lásd KU-KUT-KUTA diagramot [[K/Kut\|kut]], [[H/HAT\|hat]], valamint [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] címnél.  

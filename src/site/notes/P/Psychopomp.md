@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Psychopomp/","title":"Psychopomp","tags":["Englishtexttranslated"],"created":"2023-10-27T08:46","updated":"2024-10-25T23:54"}
+{"dg-publish":true,"permalink":"/P/Psychopomp/","title":"Psychopomp","tags":["Englishtexttranslated"],"created":"2023-10-27T08:46","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -18,7 +18,7 @@ Ennek a bizonyságául szolgál, hogy az afrikai volof nyelvű `dog` = szellem, 
 De valójában a [[S/Sánta Kata\|Sánta Kata]] név [[K/Kata\|Kata]] (halál) tagja is utalhat arra, hogy a holt lelkek vezetőjéről van szó. Egy cseroki indián csillagmonda is arra utal, hogy a kutyák a halál állatai:  
 > There are two dogs (alpha and beta Canis Majori) who guard the path (Milky Way) to the land of souls. To get past the dogs one should bring food. Be warned, if you give food to the first dog (alpha) he will let you pass, but if you fail to save some food for the second dog (beta) you will be trapped between them forever.  
 > —  
-> Két kutya (a [[C/Canis Maior\|Canis Maior]] alfa és béta jelű csillagai) őrzi a a lelkek földjére vezető utat ([[T/Tejút\|Tejút]]). Ahhoz, hogy a kutyákon átjussunk, élelmet kell vinni magunkkal. Figyelmeztetlek, ha ételt adsz az első kutyának (alfa), akkor átenged, de ha nem tartogatsz ételt a második kutyának (béta), akkor örökre csapdába esel közöttük.  
+> Két kutya (a [[C/Canis Maior\|Canis Maior]] alfa és béta jelű csillagai) őrzi a lelkek földjére vezető utat ([[T/Tejút\|Tejút]]). Ahhoz, hogy a kutyákon átjussunk, élelmet kell vinni magunkkal. Figyelmeztetlek, ha ételt adsz az első kutyának (alfa), akkor átenged, de ha nem tartogatsz ételt a második kutyának (béta), akkor örökre csapdába esel közöttük.  
 
 #### David Gordon White írja:
 

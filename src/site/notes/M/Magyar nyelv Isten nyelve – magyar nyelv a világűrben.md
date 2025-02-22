@@ -1,21 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv Isten nyelve – magyar nyelv a világűrben/","title":"Magyar nyelv Isten nyelve – magyar nyelv a világűrben","created":"2024-05-10T03:31","updated":"2024-10-25T22:43"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv Isten nyelve – magyar nyelv a világűrben/","title":"Magyar nyelv Isten nyelve – magyar nyelv a világűrben","created":"2024-05-10T03:31","updated":"2024-12-20T10:17"}
 ---
 
 
 # Magyar nyelv Isten nyelve – magyar nyelv a világűrben
 
+A világűr talán erős kifejezés, és könnyen a magyarságkutatók lejáratására szolgálhat, hiszen a titkosszolgálatok is előszeretettel gyűjtik be az ilyen "gyöngyszemeket," de amikor arról van szó, hogy idegen járművek Amerikában vagy Izraelben szállnak le az okosokkal tárgyalni (mert a földönkívüli ugye perfektül tud amerikánisul és ivrit nyelven), azzal nincs gond.  
+És ugye ne felejtsük el, hogy a mi műveltségünk az, amely a teljes Tejúttal számol, tehát a magyar felfogás kozmikus-természeti felfogás.  
+
 A magyar nyelv Isten nyelve, erről több helyen, a bevezetőben is volt szó. Péterfai János írásai alapján is kijelenthető, hogy a magyar nyelv megszületése egyidejű lehet az első ember megjelenésével.  
 Hamvas Béla (Scientia sacra II. kötetében) hét állomást, hét fokozatot különböztet meg a nyelv útján: 1.) ősnyelv, 2.) idea-nyelv, 3.) szimbólum-nyelv, 4.) mítosz-nyelv, 5.) költői nyelv, 6.) köznyelv – népnyelv, 7.) absztrakt – fogalmi nyelv.  
 Úgy tűnik, az ősnyelv, idea-nyelv és a szimbólum-nyelv folyamati sorrend valójában inkább egyként kezelendő.  
 
-Pitlu János A nyelvek megértéséhez című az Ősi Gyökér 2008/2. sz. megjelent cikkében Hamvas gondolatmenetét (is) követve kezdi írni amit ír. A szöveg terjedeleme és igazságtartalma miatt alant külön tárgyalom.  
+Pitlu János A nyelvek megértéséhez című az Ősi Gyökér 2008/2. sz. megjelent cikkében Hamvas gondolatmenetét (is) követve kezdi írni amit ír. A szöveg terjedelme és igazságtartalma miatt alant külön tárgyalom.  
 
 #### Péterfai János írja:
 
 > A XX. század rejtélye a roswelli lelet. Állítólag idegen űrhajó zuhant le Amerikában, a roncsok között két felirattöredéket találtak. A feliratokat ötven évre titkosították, de néhány éve a nagyközönség megismerhette az egyik nyolc és a másik négy jelcsoportot tartalmazó fémtöredéket. A magam részéről semmilyen határvidéki dolgot nem hiszek. A kristálykoponyák hamisítványok, a gabona köröket elszánt ifjak készítik, a többi hasonló dolog is tudománytalan. Ellenben a Roswelli lelet kicsit megdöbbentett. A feliratok ugyanis magyar ábécéből készült összerovások, kivétel nélkül, mint a 12 ábra. Amerikában, az USA területén azonban egyetlen ember sincs, aki képes lenne valódi, igazi magyar szóösszerovásokat elolvasni, nem hogy megalkotni. Ez a tény megingatott kicsit az űrbéli dolgokkal kapcsolatban. Ugyanis egyetlen amerikai titkosszolgálat sem képes a magyar írás olvasására, nemhogy a roswelli lelet írásainak meghamisítására. Ki kell még emelni, hogy Amerikában egyetlen magyar ember sincs, akinek sejtése lenne az üldözött magyar íráshoz, a magyar írás olvasatához. A jelek kettős és hármas összerovások, mind a tizenkettő jelcsoport, ezért minden kétségen kívül magyar jelek. De mivel senki sem tudja olvasni, leírni Amerikában, még Magyarországon is csak kevesen, ezért a leletek hitelesnek tűnnek. Amennyiben tényleg hitelesek a jelek, akkor azt a logikai következtetést kell levonni, hogy a magyar nyelvet és írást odakinn a világűrben is használják.  
-
-Sok hagyományban megvan, hogy az emberiség eredetileg egy nyelvet beszélt. A Biblia is szól erről, de kelta hagyományban is ismert, hogy a kelták eredetileg az ősnyelvet beszélték. Amerikában is vannak népek, akik azt állítják, hogy eredetileg egy nyelvet beszéltek, őseik nyelvét, amiből azután az idők folyamán sok nyelv jött létre.  
+> \[...\]  
+> Sok hagyományban megvan, hogy az emberiség eredetileg egy nyelvet beszélt. A Biblia is szól erről, de a kelta hagyományban is ismert, hogy a kelták eredetileg az ősnyelvet beszélték. Amerikában is vannak népek, akik azt állítják, hogy eredetileg egy nyelvet beszéltek, őseik nyelvét, amiből azután az idők folyamán sok nyelv jött létre.  
 
 Bakos Attila [ezen](https://youtu.be/XX0dWYTHC1c) a Duna evangéliuma című könyvét bemutató VNTV beszélgetésben 1:03:00 körül mondja, hogy a magyar nyelv élő lexikona az Istennel való kapcsolatnak. Ezért hívták városaikat Urnak, Uruknak (említi itt még űr szavunkat is).  
 
@@ -40,7 +43,7 @@ Bakos Attila [ezen](https://youtu.be/XX0dWYTHC1c) a Duna evangéliuma című kö
 
 ### A mennyországban is a magyar nyelvet beszélik
 
-Az Ethnographia 1898-as számában a A Gazeta Transilvaniei jul. 20-diki számából idézik:  
+Az Ethnographia 1898-as számában a Gazeta Transilvaniei jul. 20-diki számából idézik:  
 > Szent Haralampie s a magyar nyelv  
 > Szent Péter megöregedvén, az Ur színe elé járult azzal a kéréssel, hogy a mennyországbeli kapusi szolgálat alól mentse fel s bocsássa őt a jól megérdemelt nyugalomba. Jól van, felelt az Ur, de vájjon találok-e valakit, ki ez állást olyan jól betöltse, mint te betöltötted ? Már találtam egy embert, felelt Szent Péter s bevezette Szent Haralampiét, ki az Ur előtt földig hajtva magát, örömmel vállalkozik a mennyország kulcsainak őrzésére, csak egy a baj, mondja, a mi neki sok gondot okoz, s ez az, hogy – nem tud magyarul. — Csak ennyi az egész, jegyzé meg az Ur, ajkait biggyesztve – hiszen a mennyországba ugy is kevesen jönnek olyanok, a kik a földön est a nyelvet beszélik. Silvestru Moldován úr (a közlő) nem mondja: népies adomát vagy a saját termékét közlötte-e? Érdekes és jellemző, hogy a közlő az adomát olyan hangú bevezetéssel kezdi, mintha azzal is óvni akarná az olvasót a magyar nyelv tanulásától.
 
@@ -64,7 +67,9 @@ A magyar nyelv szavai olyan összefüggéseket hordoznak, melyekkel kapcsolatban
 
 Kubínyi Tamás ÁKTV műsorainak mindegyike annak eszenciáját adja kézhez hallgatói számára, hogy a magyar isteni küldetést teljesít: jelenlétének, megmaradásának és küldetésének üdvtörténeti jelentősége van, a sátán gonosz erőivel szemben. Ezek alapján nem is meglepő, ha Isten nyelvét beszéljük.  
 
-És akkor következzen a beígért nagyszerű Pitlu féle cikk (Hamvas Bélán kívül másokat is idéz, például Ipolyi Arnoldot is):  
+#### Pitlu János A nyelvek megértéséhez...  
+
+...című az Ősi Gyökér 2008/2. sz. megjelent, fentebb beígért, Hamvas Bélán kívül másokat, például Ipolyi Arnoldot is idéző cikkében írja:  
 > A világfolyam és a szent szövegek megértéséhez a nyelv általi helyes értelmezésre van szükség úgy, mint a nyelv általi helyes világfolyam szemléletre.  
 > Platón a Kratyloszban már a dolgok rendje és a konszenzuson, azaz megegyezésen alapuló nyelvértelmezést mérlegelés tárgyává teszi, nyitvahagyva a kérdést. "**Az ősnyelv felbomlásával a szavak eredeti értelme elhomályosult**". Kung-ce és Szókratész erőfeszítése, hogy a szavak helyes használatát újra megvalósítsák nagyszabású vállalkozás de már lehetetlen – mondja Hamvas Béla, mert a "hagyomány szerint a nyelv eredeti állapotában a személy, a szó és a világ egymást maradéktalanul fedte...  
 > A nyelvzavar tulajdonképpen a **valósággal való közvetlen viszony megzavarodásá**t jelenti... A valóságot csak szóhalmazokkal lehet megközelíteni. **A nyelv eredeti állapotának helyreállítására" van szükség**.  
