@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2023-10-11T04:42","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/F/Fa/","created":"2024-12-18T08:00","updated":"2025-02-23T01:45:55Z"}
 ---
+
 
 # Fa
 
@@ -35,8 +36,8 @@ A Zakar András Sumerian-Ural-Altaic Affinities féle PDF-ben helyet kapó Deime
 `A-Pa` előjön Varga Zsigmond Az ősmagyar mitológia című könyvének 297. oldalán, a lagasi Gudea templomtornyának neveként.  
 
 Fa szavunknál írja CzF:  
-> Rokonok vele takele nyelven Áfrikában: `fa`, továbbá a parszi és pehlvi `van`, zend `vana`, szanszkrit `vana` (erdő), persa `bun`, sínai `mu` (arbor; lignum), finn `pun`, német `Baum`, goth `bagm`, angol `beam`. A perzsa `bam`, s héber `bamah` pedig magast jelentenek, épen úgy mint az egyszerű magyar fe, mely alapfogalomban a növények legmagasabb nemét jelentő fa-val egy értelmű.  
-^jh206l
+> Rokonok vele takele nyelven Áfrikában: `fa`, továbbá a parszi és pehlvi `van`, zend `vana`, szanszkrit `vana` (erdő), persa `bun`, sínai `mu` (arbor; lignum), finn `pun`, német `Baum`, goth `bagm`, angol `beam`. A perzsa `bam`, s héber `bamah` pedig magast jelentenek, épen úgy mint az egyszerű magyar fe, mely alapfogalomban a növények legmagasabb nemét jelentő fa-val egy értelmű.  { #jh206l}
+
 
 Jankovics Marcell A fa mitológiája című könyvében is említi, hogy a fa lehet kettős (nőiségi és hímségi) megítélésű[^1]. [[E/Erikafa\|Erikafa]] címnél is írtuk:  
 Az [[E/Erikapeosz\|Erikapeosz]] Örök-Apa/Öreg-Apa értelmezése azért visszás, mert a Tejútfa inkább nőiségi, de Jankovics Marcell [[F/Fa és nő\|fa és nő]] címnél álló adata szerint (a törzs [[L/Lingam\|lingam]]-ként való értelmezése \[vö. fa – fasz\] nyomán) hímségi is lehet.  
@@ -141,8 +142,8 @@ Zobor László Az ősminták ereje című tanulmányában rengeteg érdekesség 
 
 #### Jankovics Marcell A Nap könyve...
 
-...című könyvének 59. oldalán írja:
-^d6f76e
+...című könyvének 59. oldalán írja:{ #d6f76e}
+
 > Hála a történeti folytonosságnak és a fejlett írásbeliségnek, e hagyomány ősi kínai változatát részletekbe menően ismerjük.  
 > Mint a világ sok régi műveltsége, a kínai is egy égben gyökerező, csodálatos fát kapcsol a Naphoz. A "Tíz Égi Tő" és a "Tizenkét Földi Ág" 60 napja ezen a "naptárfán" hajt. Jelképesen szólva, a Nap ennek a fának a tövén kél keleten, ennek a csúcsán delel, és ezen nyugszik nyugaton. A "kelet" kínai írásjele a fa és a Nap együttes stilizált ábrázolása: 東. Az 5 ágens ("elem") közül a fát a kínaiak a kelet égtájhoz társították.  
 > Ez a fa nemcsak a Nappal, hanem a császárral is együtt mozog, más szóval az élet fája mindig ott nő, ahol a császár épp tartózkodik. Nyári napfordulókor elméletben a birodalom szívében, a főváros közepén lévő császári palotában, ahol a világegyetem központja van ([[K/Kína\|Kína]] kínai neve, Csung-Kuo "Közép-ország"-ot jelent), a világ tengelyében áll a fa. Délben, amikor a Nap a fa csúcsán delel, a mindennek mértéket adó császár sem vet árnyékot – vagyis kínai felfogás szerint tökéletes –, ahogy adott földrajzi szélességen nyári napfordulókor a [[G/Gnomon\|gnómon]]nak sincs árnyéka. Mint e példa is mutatja, a császárnak mindig összhangban kell lennie a Nap haladásával. Hiszen ő a Menny Fia, a Nap képmása (a mitikus hagyomány szerint **Hszi-Ho napanya-istennő** \[hasonló a [[S/Sky\|sky]] név\] hatalmas császárok ágyasa volt), és mert számára a Nap a követendő példakép, lévén az egyetlen helyes út a Nap útja: a Tao. A császárnak ezért meghatározott rend szerint a Nap útján kellett járnia, képletesen szólva, mindig a fa alatt kellett laknia.  
@@ -278,7 +279,7 @@ Isten tartja mozgásban a dolgokat, azaz ő dönt arról, hogy a Tejútfa dőlj�
 
 ...című az Ősi Gyökér 2009/1. sz. megjelent cikkében írja:  
 > Kollektív tudatalattink az Aranykorig emlékezik vissza, s az ezt megelőző földtörténeti események csak lappangva, s nagyon ritkán jelennek meg. Erről [[A/Az aranyhajú lány mese\|Az aranyhajú lány mese]] bevezetőjében írtam.  
-> Az Aranykor megszűnésének mozzanatait sok mesénk feldolgozta. Az Infántis Lacika mesében például szószerint kidűlt a Tündér szép Ilona palotakertjében álló aranyalmafa, mert az Infántis kis Lacika lova körberágta a gerincét.  
+> Az Aranykor megszűnésének mozzanatait sok mesénk feldolgozta. Az Infántis Lacika mesében például szó szerint kidűlt a Tündér szép Ilona palotakertjében álló aranyalmafa, mert az Infántis kis Lacika lova körberágta a gerincét.  
 
 [[S/Strap\|Strap]] címnél, valamint azóta [[F/Ferde\|ferde]] címnél utaltunk arra, hogy a fa csavarodása mögött a kereszt fogalmát is kereshetjük. Ugyanígy az [[O/Ösztörű\|ösztörű]]-sztaurosz mögött. Czeglédi K. írja egy cikkében az Eszter név kapcsán, hogy a 'csillag' jelentés úgy rokonítható vele, hogy a csillagot sokágú fényes keresztnek fogjuk fel.  
 [[M/Mithra\|Mithra]] címnél szótani vizsgálat alapján kiderült, hogy az akasztásnak, keresztrefeszítésnek helye hol történik és milyen eszközöket alkottak a földön égi mintára. Az [[O/Ösztörű\|ösztörű]] is szóba került, ahogy a német `mistgabel` = vasvilla és arab `midrāh` = vasvilla, melyek előrésze utal az égi helyükre éppúgy, ahogy ösztörű nevében [[E/Eszter\|Eszter]] = Tejút.  
@@ -299,7 +300,7 @@ Lásd még [[T/Trow#Trow 2)\|trow]].
 Egy Max Igan féle videóban is elhangzott, hogy a radiokarbon kormeghatározó mérések megbízhatatlanok, igaz, Igant meg éppen az ősszlávista/[[S/Szláv#Pánszlávizmus\|pánszlávista]] figurák vihetik félre.  
 
 Megbízhatatlanságáról lásd Götz László Keleten kél a Nap című könyvének 893. oldalán. Több kutató elutasítja az egyedül C¹⁴ mérési eredményeken alapuló abszolút kormeghatározásokat.  
-A 918. oldalon a [[T/Tatárlakai napvárta-korong\|tatárlaki lelet]] téves kormeghatározását vizsgáló Makkay János két tanulmányának ("Sumer jelek Erdélyből?” és "A whisky-próba") adatait közli.  
+A 918. oldalon a [[T/Tatárlakai napvárta-korong\|tatárlaki lelet]] téves kormeghatározását vizsgáló Makkay János két tanulmányának ("Sumer jelek Erdélyből?" és "A whisky-próba") adatait közli.  
 Innen a passzus, mivel technikális, csak lábjegyzetbe[^9] került, de a lényeg:  
 > Minél több az illető mintában az ásványi eredetű karbonátokból származó, tehát gyakorlatilag sugárzásmentes – mert C¹⁴-es atomokat nem tartalmazó – szénatomok aránya, annál magasabbra sikeredik a kérdéses mintának az eddigi C¹⁴ módszer alapján meghatározott kora is. Ezek szerint tehát Jakucs Lászlóé az érdem, hogy egyértelmű és egyúttal globális természettudományos magyarazatot adott a C¹⁴ módszer minden eddigi hibájára, mégpedig kimerítő és minden ízében logikus, mondhatni magától értetődő módon.  
 
