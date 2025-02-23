@@ -10,7 +10,7 @@ Ana, anya, Boldogasszony/Anya és [[S/Szíriusz mint istenanya\|Szíriusz mint i
 
 ## Anya szavunk ny hangja
 
-[[N/Nyelvtani nemek\|Nyelvtani nemek]] címnél volt már arról szó, hogy a puha hangzók a nőnemet, a kemények a hímnemet fejezték ki a magyarban. Falvay Károly szól arról könyvében, hogy az árja nyelvekben hímségi az [[E/Ég\|eg]]et és mennyet jelentő szó. Véleményem szerint ez [[E/Egy\|egy]] nem az [[E/Ég\|ég]] becézése, ahogy Péterfai János írta, hanem nőnemű formája azzal, hogy lágyultan jelenik meg. 
+[[N/Nyelvtani nemek\|Nyelvtani nemek]] címnél volt már arról szó, hogy a puha hangzók a nőnemet, a kemények a hímnemet fejezték ki a magyarban. Falvay Károly szól arról könyvében, hogy az árja nyelvekben hímségi az [[E/Ég\|eg]]et és mennyet jelentő szó. Véleményem szerint ez [[E/Egy\|egy]] nem az [[E/Ég\|ég]] becézése, ahogy Péterfai János írta, hanem nőnemű formája azzal, hogy lágyultan jelenik meg.  
 
 Péterfai több helyen a [[N/Ny\|ny]] hangos szavak "eredetijének" bemutatásakor az n-hangos formát idézve utóbbit régiesebbnek mondja (`anya` szónál `ana` nála is régibb). Talán menny szónál is mondja/gondolná, hogy a [[M/Men\|men]] alak a régibb. Holott az általa igen réginek mondott [[S/Székely-magyar rovásírás\|székely-magyar rovásírás]]ban megvannak a lágy hangok betűjelei!  
 Az efféle kijelentésekkel vigyázni kell, ugyanis akaratlanul is a magyar-idegen, magyargyűlölő akadémisták kezére játszunk (`anya` szavunkat finnugor vagy ótörök eredetűnek mondják). Azért sem mondhatjuk, hogy az ny régies formája n és a puhulás később (a jelenhez közel) jött létre, mert a [[S/Székely-magyar rovásírás\|székely-magyar rovásírás]]ban szerepel minden lágyított hang betűjele.  
@@ -19,9 +19,42 @@ Erről [[N/Ny\|NY]] címnél is volt szó.
 
 ## Anya és magyar
 
-`Anya` és `magyar` is jelent anyát, vagyis inkább anyára utaló. Mindkettő lehet éganya, de a kettő közül csak Magyar/Mater-nek (lásd [[M/Mother\|mother]] és [[M/Mater\|mater]]) van [[F/Földistennő\|Földanyá]]ra ([[M/MA\|MA]], [[M/MAT\|MAT]], [[M/Mada\|mada]]) utaló jelentése, míg anya az [[A/AN, ÁN\|AN, ÁN]] és [[A/ANA\|ANA]] ég(isten) jelentése révén csak éganyaként vehető számba.  
+`Anya` és `magyar` is jelent anyát, vagyis inkább – magyar esetében – anyára utaló. Mindkettő lehet éganya, de a kettő közül csak Magyar/Mater-nek (lásd [[M/Mother\|mother]] és [[M/Mater\|mater]]) van [[F/Földistennő\|Földanyá]]ra ([[M/MA\|MA]], [[M/MAT\|MAT]], [[M/Mada\|mada]]) utaló jelentése, míg anya az [[A/AN, ÁN\|AN, ÁN]] és [[A/ANA\|ANA]] ég(isten) jelentése révén csak éganyaként vehető számba.  
 
-Azt is meg lehet figyelni, hogy ahogy az `ég` (lásd [[E/Ég\|Ég]]) szavunk megfordításaként kezelhető `gé` (lásd [[G/GE\|Gé]]) = föld jelentésű, úgy `MA` = föld, anya jelentésű etimon is tulajdonképpen (sumér) `AN` = ég jelentésű szó megfordítása.  
+## Ég(anya) és föld(anya)
+
+Ég szavunkhoz úgy adódik a nagyanya/nő fogalma, ahogy [[A/ANA\|ANA]]/[[A/Anya\|anya]] fogalmában megvan a sumér `AN` (lásd [[A/AN, ÁN\|AN, ÁN]]) = ég jelentése.  
+A mi nyelvünkben viszont nincs közvetlen anya vagy nagyanya jelentésű `ég` alakú szó. Nálunk [[U/Ük\|ük]] és [[A/Agg\|agg]] (vö. az ott adatolt óegyiptomi `áak` = agg ember, öreg szóval) utalnak idősebb emberre, de másutt megtaláljuk őket kimondottan nőkre vonatkozóan:  
+Az [[E/Ekva\|ekva]] címnél hozott északi-lapp `áhkká` = nagyanya, finn `akka` = öregasszony, vén banya, valamint az ótörök `öke` = anya, az ([[U/Ük\|ük]] címnél kikövetkeztetett) japán \*`uka`/`oka` = anyóka és a – ráadásul még az indoeurópaiban is megjelenő – hindi `akka` = nővér szó mind nőre utal.  
+
+Ég szavunk viszi tehát az öregebb nő – a nagyanya, anya, nővér – fogalmát, ahogy [[A/ANA\|ANA]]/anya fogalmában megvan a sumér `AN` (lásd [[A/AN, ÁN\|AN, ÁN]]) = ég jelentése.  
+```plantuml-svg
+@startuml
+left to right direction
+skinparam BackGroundColor transparent
+skinparam rectangle {
+    BackgroundColor #ccbe78
+}
+skinparam card {
+    roundCorner 15
+    BackgroundColor #f9f5d7
+}
+
+card "magyar <color:#e7545c>ég</color>" as ég
+card "idegen <color:#e7545c>ég</color> (<color:#e7545c>agg</color>, <color:#e7545c>ük</color>) alakú szavak" as ég2
+card "magyar <color:#e7545c>anya</color>" as An
+card "sumér <color:#e7545c>AN</color> = ég" as An2
+
+ég -- ég2
+ég2 -- An
+An -- An2
+
+@enduml
+```
+
+- Ugyanez a helyzet a lágyult alakú, istent is jelentő [[E/Egy\|egy]] számnév esetében: az ún. indoeurópai nyelvekben an, un (lásd [[O/One\|one]]) alakú az egyet jelentő számnév.
+
+Azt is meg lehet figyelni, hogy ahogy az `ég` (lásd [[E/Ég\|Ég]]) szavunk megfordításaként kezelhető `gé` (lásd [[G/GE\|Gé]]) = föld jelentésű, úgy a `MA` = föld, anya jelentésű etimon is tulajdonképpen (sumér) `AN` = ég jelentésű szó megfordítása (de MA lehet az eredetibb és MA megfordításából jöhetett létre AN).  
 ```plantuml-svg
 @startuml
 left to right direction
@@ -50,7 +83,7 @@ AN -- MA : megfordítása
 @enduml
 ```
 
-Lásd még [[S/Szómegfordítás#Ég és Föld jelentésű kétbetűs szavak megfordítása\|Ég és Föld jelentésű kétbetűs szavak megfordítása]], ahol kimondjuk, hogy MA lehetett előbb AN-nál.  
+Lásd még [[S/Szómegfordítás#Ég és Föld jelentésű kétbetűs szavak megfordítása\|Ég és Föld jelentésű kétbetűs szavak megfordítása]], ahol kimondjuk, hogy MA előbb meglehetett AN-nál.  
 
 ## Kettős anyaság
 
@@ -61,8 +94,10 @@ Valójában [[H/Három istennő\|három istennő]] címnél írottak szerint há
 ...című Ősi Gyökér 2006/1. sz. megjelent cikkében foglaltakkal való első találkozásomkor először nem tudtam hová tenni (bevezetést lásd [[B/Bába\|bába]]). Mert az tiszta, hogy létezik [[N/Nagyboldogasszony\|Nagyboldogasszony]] – [[B/Boldogasszony\|Boldogasszony]] és Boldogasszony – [[K/Kisasszony\|Kisasszony]] párosítás, de hova tartozik a Szűz és a Szűzanyaság (na és persze a [[S/Szajha\|szajha]])? Arra is emlékezzünk, hogy [[E/Edda\|Edda]], [[A/Anna\|Anna]] és más címnél láttuk hogy az anya, nagyanya és ősanya fogalmak utódnyelvekben keverednek. Nyilván a Nagyboldogasszony-Boldogasszony kultuszok idegenbe átkerülése még zavarosabb helyzetet szült, mint amilyen ma nekünk ezen fogalmakat magyarként értelmezni.  
 [[S/Szűz\|Szűz]] címnél is szerepeltek az alábbiak:  
 > A pólyából szabadult, a növekvő gyermek, ha lánynak született, 4-7 esztendős korában szívesen rajzolja a királylányt, azt a fényes nőalakot, amelyben, akiben a kettős-anyaság testesül-lelkesül. A királylány gyakran földig érő haja-sátra az anyaméhben öntudatlanul átélt kerek szeretetről vall, s az anya áldozatos gondoskodásáról, amellyel körbe fogja, öleli a cseperedő gyermeket; mindez a gyermeklánnyal születő, benne javarészt tudat mögött munkálkodó anyaságvágy táplálója, életben tartója, s növelő-nevelője egyben. A királylány alak szoknya-sátra-háza a rajzoló gyermeklány anyaság-óhajtásáról, a "szűz anyaság"ról beszél, a [[K/Korona\|korona]] e kettős anyaság szentséges voltára utal. A kettő, illetve három együtt adja, adhatja az emberélet folyamatosságát, nemzedékről nemzedékre megújuló szakadatlan láncolatát. A királylány alakban föllelhető kettős anyaság jelen van őshitünk Boldogasszony képében... A hajsátor a Nagyasszony megfelelője, a szoknyasátra-háza annak szűz lányát, a Kisasszonyt varázsolja, idézi meg.  
-> A kettős Boldogasszony-kép okán, népünk kezdetben, néhány hagyományőrző vidéken ma is Mária anyját, Annát tisztelte, tiszteli Nagyasszonyként, s Mária fölmagasztosult Kisasszonyként élt, él tovább a népi hitvilágban. 
-- Folytatást lásd [[H/Három istennő\|három istennő]] vagy [[S/Szépasszony\|Szépasszony]].  
+> A kettős Boldogasszony-kép okán, népünk kezdetben, néhány hagyományőrző vidéken ma is Mária anyját, Annát tisztelte, tiszteli Nagyasszonyként, s Mária fölmagasztosult Kisasszonyként élt, él tovább a népi hitvilágban.
+{ #sqy2hj}
+
+- Folytatást lásd [[H/Három istennő\|három istennő]] ill. [[S/Szépasszony\|Szépasszony]].  
 Amint Nagyné Fülöp ezen sorait olvastam, a [[S/Sziget\|sziget]] címnél ábrázolt finn terítő istenanyaképe jutott még eszembe.  
 
 Az általam mindenütt hangoztatott kozmikus anya földi tükörképéről...
