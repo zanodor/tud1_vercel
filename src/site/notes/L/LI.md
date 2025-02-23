@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/LI/","title":"LI","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-09T04:34","updated":"2024-12-18T05:14"}
+{"dg-publish":true,"permalink":"/L/LI/","title":"LI","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-09T04:34","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -25,8 +25,18 @@ LI az alábbiak szerint viszont nem lehet fa (Péterfai János írja):
 
 # Li 2)
 
-A `gerstli`, `virsli`, `nudli`, `nokedli`, `hokedli`, `sámli`, `kurbli`, `kugli`, `fangli` v. `fandli` v. `fándli`, `stopli`, `dekli`, `kifli`, `stangli`, `puszedli`, `tarkedli`, `bejgli`, `kamásli`, `fásli`, `pemszli`, `csúzli`, `tasli` v. `tacsli`, `frocli`, `cetli`, `sramli`, `stikli`, `bóvli`, `verkli`, `spicli`, `virtigli`, `betli` és hasonló szavak germán eredetűek.   
+Gyakori végződés germán eredetű szavakban.  
+Egyik ilyen a `muszkli` – ‘izom, különösen a felsőkar kétfejű izma (bicepsz)’. Magyar etimológia szótár adata:  
+> Bizalmas nyelvi szó, a német `Muskel` (‘izom’) átvétele (a szóvég a [kifli](https://www.arcanum.com/en/online-kiadvanyok/redirect/?type=jump&nfo=Lexikonok&dest=Lexikonok%5ESzT-ETIM-kifli) mintáját követi). Forrása a latin `musculus` (‘izom’), a `mus` (‘egér’) kicsinyített alakja.
+- Erről lásd inkább [[M/Muscle\|muscle]].
+
+Azaz a Magyar etimológia szótár a `kifli` szót adja meg egyfajta prototípusul. Adata:  
+> Német kölcsönszó az ausztriai `Kipfel` vagy ennek tájnyelvi `kifl` alakja alapján; ezek a `Kipf` (‘lőcs’) kicsinyítő képzős származékai, végső forrásuk a latin `cippus` (‘cölöp, karó’).  
+- A latin szót [[K/Kép\|kép]] címnél is láttuk, más korábbi szavakkal. Azaz a végső forrás itt sem végső forrás, csak ameddig "kedvük van" lehatolni, vagy ameddig tudnak.
+
+Germán eredetű szavak (már-már teljes) listája (az előző kettő kivételével): `gerstli`, `virsli`, `nudli`, `nokedli`, `hokedli`, `sámli`, `kurbli`, `kugli`, `fangli` v. `fandli` v. `fándli`, `stopli`, `dekli`, `stangli`, `puszedli`, `tarkedli`, `bejgli`, `kamásli`, `fásli`, `pemszli`, `csúzli`, `tasli` v. `tacsli`, `frocli`, `cetli`, `sramli`, `stikli`, `bóvli`, `verkli`, `spicli`, `virtigli`, `betli`.   
 A [[D/Dear\|dear]] címnél említett török `değerli` = értékes (drága mondhatnánk) szóban a -li végződés nyilván melléknévképző.  
+
 Ha már török, a -li végződés megvan [[G/Göbekli Tepe\|Göbekli Tepe]] nevében, ahol Göbek = Köpek = kutya, és LI valóban lehet király. De nyilván ez a végződés már egy bejáratott, későbbi korból való.  
 Ugyanígy a grúz `jaĝli` = kutya lehet Tűz Király értelmű, miután a roma `jag` = tűz jelentésű. Vagy inkább li = lich képző.  
 

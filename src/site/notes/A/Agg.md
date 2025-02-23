@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Agg/","title":"Agg","created":"2023-10-13T12:40","updated":"2025-01-30T16:29"}
+{"dg-publish":true,"permalink":"/A/Agg/","title":"Agg","created":"2023-10-13T12:40","updated":"2025-02-18T00:59"}
 ---
 
 
@@ -18,7 +18,7 @@ Götz László Keleten kél a Nap című könyvének 487. oldalától tallózik 
 
 Wallis Budge An Egyptian Hieroglyphic Dictionary című munkájának adata szerint (lásd 26. o.) az egyiptomi `áak` = agg ember, öreg.  
 
-Az agg párja az [[E/Ég\|ég]] és [[E/Ekva\|ekva]] címnél is taglalt (lappből vett?) svéd `akka` és a magyar [[U/Ük\|ük]], melynek megfelelne a japán `okāsan` = anya  előtagja.  
+Az `agg` párja az [[E/Ég\|ég]] és [[E/Ekva\|ekva]] címnél is taglalt északi-lapp `áhkká` = nagyanya és finn `akka` = öregasszony, vén banya, valamint a magyar [[U/Ük\|ük]], melynek megfelelne a japán `okāsan` = anya  előtagja.  
 [[U/Ük\|Ük]] címnél bővebben taglaljuk a japán szót.  
 
 ```plantuml-svg

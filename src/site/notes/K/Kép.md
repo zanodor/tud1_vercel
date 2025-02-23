@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2024-10-25T22:20"}
+{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2025-02-22T18:38"}
 ---
 
 
@@ -19,10 +19,11 @@ Könnyen lehet, hogy a görög [[T/Type\|type]] címnél álló kép, bálvány 
 #### Valpy latin etimológia szótárának...
 
 ...adata szerint a szíriai és kaldeai `cip`, `cipa` = kő, de inkább oszlop/szobor lehetett. [[C/Cephalic\|Cephalic]] címnél is szerepelt ezen adat, különösen a [[P/Péter\|Péter]] ("Kőszikla") név Cephas fordítása okán.  
-> Cippus, a little square pillar, gravestone. "From the Syriac and Chaldaic `cip` and `cipa`, a stone, whence Peter was called Cephas." V. Cippus is also a sharp stake or palisade, mentioned by Cæsar in the Gallic War, (7,73) and seems to be a Gallic word. "Hos [vallos] cippos [Romani] appellabant," says Cæsar.  
+> `Cippus`, a little square pillar, gravestone. "From the Syriac and Chaldaic `cip` and `cipa`, a stone, whence Peter was called Cephas." V. Cippus is also a sharp stake or palisade, mentioned by Cæsar in the Gallic War, (7,73) and seems to be a Gallic word. "Hos \[vallos\] cippos \[Romani\] appellabant," says Cæsar.  
 > —  
-> Cippus, kis négyzet alakú oszlop, sírkő. "A szír és káld `cip` és `cipa`, kő, a szír és káld nyelvekből, innen Pétert Kéfásnak nevezték." V. Cippus szintén éles karó vagy palánk, amelyet Cæsar a gall háborúban említ (7,73), és úgy tűnik, hogy gall szó. "Hos [vallos] cippos [Romani] appellabant" – mondja Cæsar.  
+> `Cippus`, kis négyzet alakú oszlop, sírkő. "A szír és káld `cip` és `cipa`, kő, a szír és káld nyelvekből, innen Pétert Kéfásnak nevezték." V. Cippus szintén éles karó vagy palánk, amelyet Cæsar a gall háborúban említ (7,73), és úgy tűnik, hogy gall szó. "Hos \[vallos\] cippos \[Romani\] appellabant" – mondja Cæsar.  
 
+A latin `cippus` = cölöp, karó jelentésű.  
 Egyre inkább úgy tűnik, hogy a görög fejet jelentő szó bálvány-fej és innen a fallikus értelmezési lehetőség is. ([[G/Geb\|Geb]] nevénél is erre gondoltunk.)  
 De ha már latin, az `incipere` = kezdődni szóban is szerepel ilyen szóaalak. Robert Graves The White Goddess című könyvében az [[O/Ogham\|Ogham]] fanaptár taglalásánál írja, hogy a nyír a kezdő. Nos, a latin szóelem is ilyesmire vonatkozhat.  
 
@@ -41,7 +42,7 @@ Magát kép szavunkat könyvének 132. oldalán veszi elő.
 
 Kép szavunk tehát a más egyéb K-B és K-P vázú szavakhoz hasonlóan fejet (arcot) is jelent, így a latin `caput` = fej, német `kopf`, valamint a [[C/Cepheus csillagkép\|Cepheus csillagkép]] (Richard H. Allen is fejre utal; lásd ott) és a [[C/Cephalic\|cephalic]] nevek eredete is itt keresendő. Nem elfelejtve persze azt sem, hogy más szóösszetételek is vannak, amelyek hasonlóak. Például a [[K/Kaba\|Kaba]] hasonló.  
 
-Mivel a fej, főség leginkább kutyafej(jel asszociált), a kép, kep, kip szavunk [[E/EB\|EB]] előtételezésének is felfogható lenne. Ugyanígy [[S/Szép\|szép]] és [[S/Szív\|szív]] szavunk is lehet [[E/EB\|EB]], [[I/IB\|IB]] fogalmakra visszavihető.  
+Mivel a fej, főség leginkább kutyafej(jel asszociálható), a kép, kep, kip szavunk [[E/EB\|EB]] előtételezésének is felfogható lenne. Ugyanígy [[S/Szép\|szép]] és [[S/Szív\|szív]] szavunk is lehet [[E/EB\|EB]], [[I/IB\|IB]] fogalmakra visszavihető.  
 
 ## Fakép
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ük/","title":"Ük","created":"2023-10-13T12:46","updated":"2024-10-26T00:44"}
+{"dg-publish":true,"permalink":"/U/Ük/","title":"Ük","created":"2023-10-13T12:46","updated":"2024-12-20T10:17"}
 ---
 
 
@@ -20,10 +20,11 @@ Ezzel kapcsolatban annyi megjegyzésem hadd legyen, hogy a tuareg és török \[
 ...című könyvében írja:
 > Luhbe lapp megyében [[T/Tiermesz\|Tiermes]]nek mellékneve `auke` = nagyatya, (ez a magyar ük) Leem a lappok Diermes istenéről írja, hogy az a scytha Tarami; a Thor név, úgymond, az ő missiója idejében többé nem használtatott lapp földön. ([Lásd 26. old.](zotero://open-pdf/library/items/DFI47XPY?page=26&annotation=I5E96YIB))  
 
-A Narajama balladája című 1983-as japán filmben hallott \*ukka = anyó (angolra "ma"-nak fordítják a 69 éves nagymamára utalva), a japán nyelvészet szerint a japán `okāsan` = anya (a szónak `okā` előrészét mondják valójában a filmben) szóban a kāsan = anya (Kas-An = Ég Háza?) szó elején az o hang tiszteletet kifejező szócska (nos, a -san, amit lecsíptek, az is az lenne), így ezek szerint ük-nek és [[A/Agg\|agg]]-nak, valamint az [[E/Ekva\|ekva]] címnél is említett svéd Akka névnek megfeleltetni értelmetlen lenne. (A Kamerunban és Nigériában kis számban beszélt bantoid ijive nyelvben is `okas` = nő.)  
+A Narajama balladája című 1983-as japán filmben hallott, a 69 éves nagymamára utalva angolra "ma"-nak ("anya", "anyus") fordított \*ukka = anyó akár – `okā`-ként vehető – szó mintha a hivatalos japán `okāsan` = anya puszta előtagja lenne, de a japán nyelvészet szerint az `okāsan` = anya alapja a kāsan (= anya?; úgy mint: Kas-An = Ég Háza?) szó lenne és a szó elejei o hang tiszteletet kifejező szócska (nos, a -san szintén az lenne), így ezek szerint ük-kel és [[A/Agg\|agg]]-gal, valamint az [[E/Ekva\|ekva]] címnél is említett Akka névvel is megfeleltethető lenne.  
+- A Kamerunban és Nigériában kis számban beszélt bantoid ijive nyelvben is `okas` = nő.)
   
-- Az [[U/Uxorial\|uxorial]] címnél taglalt latin `uxor` is [[E/Ég\|ég]] szavunkból indul ki.
+- Az [[U/Uxorial\|uxorial]] címnél taglalt latin `uxor` = feleség szó is [[E/Ég\|ég]] szavunkból indul ki.
 
-Mivel az igen hasonló, de a szó eleji hangsúllyal kimondott `okuszan` = asszony, feleség (megszólításban: asszonyom) értelmű, maga [[A/Asszony\|asszony]] szavunk (mely a sumérben `gasan` lenne) is lehetne legalább ezen utóbbi szóra kiinduló, hiszen az aligha hihető, hogy a kínai és japán tiszteletet kifejező [[S/SZAN\|SZAN]] ilyen utat járt volna be.  
-Erre az okuszan szóra Fáy Elek A magyarok őshona című könyvének 176-177. oldalán maga is azt írja, hogy [[A/Asszony\|asszony]] szavunkkal azonosnak látszik: ő úgy írja, hogy a [[H/Halotti beszéd\|Halotti beszéd]] `ahszin` formájával kimondottan egyező az oszét `okszin` és japán (általa így írott) `okszan` = előkelőbb nő, asszonyság.  
-A két japán névalak azonos és jelentésükben is szinte azonosak, illetve rokonok. Mondhatnánk, hogy egyik lehetne a másik prototípusa, ha nem tudnánk, hogy az asszony, feleség jelentés megvan más nyelvekben is, mert így az okasan lenne az utóbb létrejött forma, és mondhatnánk, hogy a tiszteletet kifejező szan végződés megléte is véletlen, illetve az okasan o- megtisztelő jelző megléte kapcsán azt, hogy ez a szó volt minden más o- megtisztelő jelző szó prototípusa. Ezt így lehet kilogikázni.  
+Mivel az igen hasonló, de a szó eleji hangsúllyal kimondott `okuszan` = asszony, feleség (megszólításban: asszonyom) értelmű, maga [[A/Asszony\|asszony]] szavunk (mely a sumérben `gasan` lenne) is lehetne legalább ezen utóbbi szóra kiinduló, hiszen az aligha hihető, hogy a kínai és japán tiszteletet kifejező [[S/SZAN\|szan]] ilyen utat járt volna be.  
+Erre az okuszan szóra Fáy Elek A magyarok őshona című könyvének 176-177. oldalán maga is azt írja, hogy [[A/Asszony\|asszony]] szavunkkal azonosnak látszik: ő úgy írja, hogy a [[H/Halotti beszéd\|Halotti beszéd]] `ahszin` formájával kimondottan egyezik az oszét `okszin` és japán (általa így írott) `okszan` = előkelőbb nő, asszonyság.  
+A két japán névalak, `okászan` és `okuszan` azonos és jelentésükben is szinte azonosak, illetve rokonok. Mondhatnánk, hogy egyik lehetne a másik prototípusa, ha nem tudnánk, hogy az asszony, feleség jelentés megvan más nyelvekben is, mert így az okasan lenne az utóbb létrejött forma, és mondhatnánk, hogy a tiszteletet kifejező szan végződés megléte is véletlen, illetve az okasan o- megtisztelő jelző megléte kapcsán azt, hogy ez a szó volt minden más o- megtisztelő jelző szó prototípusa. Ezt így lehetne kilogikázni.  
