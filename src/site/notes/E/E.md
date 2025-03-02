@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/E/","title":"E","created":"2023-11-22T07:06","updated":"2024-10-25T17:13"}
+{"dg-publish":true,"permalink":"/E/E/","title":"E","created":"2023-11-22T07:06","updated":"2025-02-24T22:11:10Z"}
 ---
 
 
@@ -11,7 +11,7 @@ A sumér mellett a hettita `é` = ház jelentéssel adatolt szintén.
 Lásd még ilyen jelentésben [[E/É\|É]].  
 
 Minden mássalhangzó segédhangja az "e," és méghozzá a mássalhangzó elé járul, ahogy Gizike ÁKTV rovásírás tanítás keretében elmondja (nála, forrása[^1] alapján, a b(é) és 'eb'-nek (ennek jelentősége is lehet), míg például a p(é) is 'ep'-nek mondott). Másutt a zs-t és ezs-nek mondja, és a c-t is ec-nek.  
-Egyébként teljesen igaza van, hiszen az m, n, l, r, s, sz, sőt, ha a gy hangot a rovás alapján egy-nek olvasom, a gy is ide illik, míg Gizike a ty hangot ety-nek mondja, de másutt megjegyzi, hogy a segédhang régen A és Á lehetett, ezt már nem tudjuk. A Ty így joggal lehet Aty(a).  
+Egyébként teljesen igaza van, hiszen az m, n, l, r, s, sz, sőt, ha a [[S/Székely-magyar rovásírás#Gy\|rovás gy]] betűt egy-nek olvasom, a gy is ide illik, míg Gizike a ty hangot ety-nek mondja, de másutt megjegyzi, hogy a segédhang régen A és Á lehetett, ezt már nem tudjuk. A Ty így joggal lehet Aty(a).  
 
 Érdekes, hogy ezzel az e hanggal töltötték fel az egyiptomi szavakat is (ahogy volt/lesz szó róla a helyén).  
 

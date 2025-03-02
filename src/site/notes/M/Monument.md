@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Monument/","title":"Monument"}
+{"dg-publish":true,"permalink":"/M/Monument/","title":"Monument","created":"2025-02-24T22:49","updated":"2025-02-24T22:49"}
 ---
 
 

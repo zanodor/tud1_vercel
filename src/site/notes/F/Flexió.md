@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-02-24T22:11:10Z"}
 ---
 
 
@@ -18,11 +18,21 @@ A Götz László Keleten kél a Nap című könyvének 94-95. oldalain megszóla
 - De ezt bizonyítja az is, hogy az indogermán nyelvészek által összeállított ideális nyelv, az eszperantó, nem más mint indogermán elemekből felépített tiszta agglutináló nyelv. <br/>  
 Könyvének 133. oldalán tér vissza a témára, indogermán és szemita példákat bemutatva. Utána is folytatja.  
 
+
 ## Hangfejlődés és hajlítás
 
 [[H/Ház\|Ház]] szónál került szóba, hogy k-előtétes szavak másutt h-előhangosak. Ilyenkor a nyelvészet nyilvánvalóan mindig [[N/Nyelvészet mint tudomány#Grimm-féle hangtörvények\|Grimm-féle]] "szabályos" hangfejlődésekben fog gondolkodni. A fókuszba az kerül, hogy adott szavakról adott vizsgálati környezetben, adott(?) szabályszerűségek szerint valami tudományosat kell kanyarítani. Mindeközben megfeledkeznek a régi ember [[A/Analogikus gondolkodásmód\|analógiás gondolkodás]]áról, nyelveik szóalkotásának azon igényéről, hogy a hasonlót a hasonlóval fejezzék ki: tehát nem annyira hangfejlődésekről van (csak) szó; nem szabad figyelmen kívül hagyni, hogy egyes szavak flexiós változatait kell inkább észrevenni (értsd: szándékosan készülnek pl. k- és h-előhangos formák hasonló ideák kifejezésére).  
 
 ## Magyar hajlítás mint nyelvünk szavainak alapképessége
+
+Van eset, hogy rendkívül csekély hajlítás történik. Pl. a *homofónia* esetén a szavak ugyanazt a hangalakot használják, de eltérő jelentéssel rendelkeznek (pl. `kész` - `kéz`).  
+Akár hívhatnánk zéró hajlításnak azon eseteket, amikor *homonímiá*ról beszélünk. (A homonímia az egyik típusa a szemantikai homogenitásnak, amely a szavak jelentésbeli kapcsolatrendszerét vizsgálja. A *homonimák* olyan szavak, amelyek ugyanazt a fonetikai vagy ortográfiai formát használják, de eltérő jelentéssel rendelkeznek.)  
+A [[M/Méh\|méh]] kettős jelentését mindenki ismeri, de a közös kiindulót csak őseink gondolkodásának megértése révén fedezhetjük fel.  
+Azt is tudja mindenki, hogy a [[M/MAG\|mag]] örökítő anyagot, ondót is jelent, de azt már kevesen, hogy a [[M/Magor\|Magor]] nevünkben is megtalálható [[M/MAG\|Mag]] Nap jelentésű. (Magor pedig épp a Tejútanya Méhszájából születik meg, a téli napforduló után.)  
+Magor ikerpárjának, [[H/Hunor\|Hunor]]nak nevében Hun is jelenthet Napot, de leginkább kemény K/G hangzókkal találjuk meg. Ott is megjelenik az örökítő anyag, [[K/Könny\|könny]] és [[G/Geny\|geny]] formában. Itt az eredeti [[K/KÖN\|Kön]]/[[K/KEN\|Ken]] formához képest már némi hangalaki változást is tapasztalunk.  
+- K-N vázú napnevekről a témában lásd még [[T/Teremtő és teremtett#HUN, KUN\|itt]].
+
+Mielőtt további példákkal szemléltetnénk, hogyan működik mindez a magyar nyelvben, hallgassunk meg másokat is.  
 
 #### Péterfai János írja:
 
@@ -60,18 +70,19 @@ card "UTU" as w5 {
 }
 
 head -right-w1
-head --w2 : <color:#e7545c>Ishten</color> akkádul egy(etlen)
-w1 --w3 : **Ás** germán istencsoport neve, óangol <color:#e7545c>os</color> = isten
+head --w2 : "<color:#e7545c>Ishten</color> akkádul egy(etlen)"
+w1 --w3 : "**Ás** germán istencsoport neve, óangol <color:#e7545c>os</color> = isten"
 w1 --w4
-head --w4 : Jézus ácsként isteni\nmunkát végez (teremtés)
-head -up->w5 : Sumér **Utu** napisten
+head --w4 : "Jézus ácsként isteni\nmunkát végez (teremtés)"
+head -up->w5 : "Sumér **Utu** napisten"
 @enduml
 ```
 
-Továbbá vannak [[H/Huny\|huny]], [[H/Hany\|hany]] (mint [[H/Hanyatlik\|hanyatlik]]), [[K/KONY\|kony]] ([[K/Konyul\|konyul]]), [[K/KUM\|kum]] (`lekum` a Nap), valamint a Nap [[E/Ecliptic\|ekliptiká]]n való esésének téridőbeli pontját jelölő [[K/KAN\|kan]] ([[C/Canis Maior\|Canis Maior]]) (mely a [[G/Gonosz\|gon]]osz félévet nyitja), és sok más magyar-utód elnevezés (a Rák [[C/Cancer\|Cancer]] nevének előtagja, a Rák japán neve, stb.).  
+Továbbá flexiós kapcsolatot találunk [[H/Huny\|huny]], [[H/Hany\|hany]] (mint [[H/Hanyatlik\|hanyatlik]]), [[K/KONY\|kony]] ([[K/Konyul\|konyul]]), [[K/KUM\|kum]] (`lekum` a Nap), valamint a Nap [[E/Ecliptic\|ekliptiká]]n való esésének téridőbeli pontját jelölő [[K/KAN\|kan]] ([[C/Canis Maior\|Canis Maior]]) (mely a [[G/Gonosz\|gon]]osz félévet nyitja), és sok más magyar-utód elnevezés (a Rák [[C/Cancer\|Cancer]] nevének előtagja, a Rák japán neve, stb.) között.  
+
 Ott van még a [[S/Süt\|süt]] ige [[S/Sötét\|sötét]]/[[S/Sötét\|setét]] szavak gyökével való megfelelése, [[K/Kör\|kör]] szóbokrunk olyan tagjai, mint [[G/Gyűrű\|gyűrű]], `gördül`, [[F/Fal\|fal]] főnév [[F/Fél\|fél]] szóval alkotott flexiós viszonya, vagy például felhívhatjuk a figyelmet [[E/Éh\|éh]] = [[A/Áhít\|áhít]], [[A/Akar\|akar]] szavak gyökeinek azonosságára.  
 A kutyára visszatérve, [[E/EB\|eb]] és [[A/Apa\|apa]] szavaink [[I/Ív\|ív]] szavunkkal való viszonya említhető még ilyen szinten (lásd még témát [[L/Lemniszkáta\|lemniszkáta]]), de például magánhangzó cserével a [[M/Más\|más]] (lásd még [[M/MAS\|MAS]]) fiú, hős jelentése az, ami majd a [[M/Mese\|mese]] szavunk létrehozója is lesz.  
-Sok más szópár ismert: [[V/Vessző\|vessző]] – [[F/Fasz\|fasz]]; [[V/Víz\|víz]] szavunk [[V/Vedel\|vedel]], [[V/Vödör\|vödör]], [[V/Vád\|vád]]ol, [[V/Vese\|vese]] szavakban ugyanúgy megtalálható; [[H/Ház\|ház]] szavunk (közös gyöke) ismerendő fel olyan szavakban, mint [[H/HAS\|has]], [[K/KAS\|kas]], [[K/KÁD\|kád]], [[K/Kagyló\|kagyló]], stb.  
+Sok más szópár ismert: [[V/Vessző\|vessző]] – [[F/Fasz\|fasz]]; [[V/Víz\|víz]] szavunk [[V/Vedel\|vedel]], [[V/Vödör\|vödör]], [[V/Vád\|vád]]ol, [[V/Vese\|vese]] szavakban ugyanúgy megtalálható; fentebb említett [[H/Ház\|ház]] szavunk (közös gyöke) ismerendő fel olyan szavakban, mint [[H/HAS\|has]], [[K/KAS\|kas]], [[K/KÁD\|kád]], [[K/Kagyló\|kagyló]], stb.  
 M>N változásra sok példa van; itt csak a magyar [[M/Magas\|magas]] szó gyökét mutassuk be [[N/Nagy\|nagy]] szavunk párjaként.  
 [[M/Magyar szavak, szórészek alakváltozatai\|Magyar szavak, szórészek alakváltozatai]] címnél más példákat is bemutattunk.  
 A fentebb idézett Végvári József [[S/Szócsaládok\|szócsalád]]-rendszere is szavak hajlított hangjaiból épülő szópárjai közti lehetséges kapcsolatok feltárásában segíthet (pl. [[O/Ostya\|ostya]]/[[T/Tészta\|tészta]] ← [[T/Test\|test]]).  
@@ -83,14 +94,14 @@ A fentebb idézett Végvári József [[S/Szócsaládok\|szócsalád]]-rendszere 
 ...című az Ősi Gyökér 2013/4. sz. megjelent cikkükben írják (nyilván előbbi):  
 > Amíg a magyar gyököt csak 1 vagy 2 mássalhangzóra definiáljuk, addig más gyöknyelvek – például a héber – praktikus okokból a 3, illetve, gyökismétlődés esetén, a 4 mássalhangzóból álló gyökvázat is gyöknek nevezik. Például a héber `BLT` gyökszavai: `balát`, `balut`, `baluta`, `blita`, `bolet`; közös jelentésük: feltűnik. Egy másik, egy önismétlő gyök, a PRPR: `pirper`, `pirpur`, `parpár` (pörög). A praktikus ok az, hogy a héber (de csak az újkortól), a különböző igemódok képzésére használja a magánhangzók szóbelseji variálását (a flektálást). Mivel ez nemcsak az egy, hanem a két (három) szótagúakra is érvényes, ezért célszerű nekik a 3 (kivételesen 4) mássalhangzóból álló vázakat is gyöknek tekinteni.  
 
-A flektáló sémi nyelvekben láttuk, hogy ami egyszer \*hamar vagy hasonló alakúként jelenik másutt \*mahar alakúként jön elő[^1]. Ennek éppen a [[H/Hunor és Magor\|Hunor és Magor]] címnél, külön alcímnél taglalt évköri-nyelvi okai is lehetnek.  
+A flektáló sémi nyelvekben láttuk, hogy ami egyszer \*hamar vagy hasonló alakúként jelenik meg, másutt \*mahar alakúként jön elő[^1]. Ennek éppen a [[H/Hunor és Magor\|Hunor és Magor]] címnél, külön alcímnél taglalt évköri-nyelvi okai is lehetnek(?).  
 
 A sémi (és indogermán) vonalon maradva...
 
 #### Götz László Keleten kél a Nap...  
 
 ...című könyvének 190. oldalán írja:  
-> A nyelvészet megállapítása, de a 4-5000 éves szumér nyelvemlékek tanúsága szerint is, a nyelvek legősibb tőszavai egyszótagúak voltak. Igen fontos tehát közelebbről is megvizsgálni, milyen eszközökkel képezték a nyelvek később kialakult két- és többszótagú szavaikat. Két szótagból – pontosabban három mássalhangzóból ("triszonancia”) – álló alapszavak elsősorban a flektáló nyelvekre, az indogermánra és a szemitára jellemzőek. Ezen alapszavak azonban nem eredeti tőszavak, hanem úgy alakultak ki, hogy mivel a flektáló nyelvek a magánhangzók változatait úgyszólván teljes egészükben a nyelvtanban alkalmazzák, a szemantikai összefüggések jelölésére, a rokon fogalmak árnyalati megkülönböztetésére többnyire tőbővítésekhez kellett folyamodniuk. Idővel ezek a triszonanciák – vagy trikonszonanciák – annyira összeforrottak, hogy összetett voltuk ma már első pillantásra alig ismerhető fel.  
+> A nyelvészet megállapítása, de a 4-5000 éves szumér nyelvemlékek tanúsága szerint is, a nyelvek legősibb tőszavai egyszótagúak voltak. Igen fontos tehát közelebbről is megvizsgálni, milyen eszközökkel képezték a nyelvek később kialakult két- és többszótagú szavaikat. Két szótagból – pontosabban három mássalhangzóból ("triszonancia") – álló alapszavak elsősorban a flektáló nyelvekre, az indogermánra és a szemitára jellemzőek. Ezen alapszavak azonban nem eredeti tőszavak, hanem úgy alakultak ki, hogy mivel a flektáló nyelvek a magánhangzók változatait úgyszólván teljes egészükben a nyelvtanban alkalmazzák, a szemantikai összefüggések jelölésére, a rokon fogalmak árnyalati megkülönböztetésére többnyire tőbővítésekhez kellett folyamodniuk. Idővel ezek a triszonanciák – vagy trikonszonanciák – annyira összeforrottak, hogy összetett voltuk ma már első pillantásra alig ismerhető fel.  
 ![assets/Flexió_image2.png|invert_dark](/img/user/F/assets/Flexi%C3%B3_image2.png)  
 
 Götz a 194. oldalon is folytatja még a flektáló és a ragozó nyelvek összehasonlítását.  

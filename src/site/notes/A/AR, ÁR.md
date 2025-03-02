@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/AR, ÁR/","title":"AR, ÁR","tags":["containstransclusions"],"created":"2024-10-31T14:37","updated":"2025-01-22T15:47"}
+{"dg-publish":true,"permalink":"/A/AR, ÁR/","title":"AR, ÁR","tags":["containstransclusions"],"created":"2024-10-31T14:37","updated":"2025-02-24T22:11:10Z"}
 ---
 
 
@@ -77,7 +77,7 @@ A Tibold Szabina Ágnes Fényben járni, fénnyé válni című Ősi Gyökér 20
 
 > A régi Egyiptomban az istenség megjelölésére szolgáló közszavak között főhely illeti meg a gyakran használt Ur szavunkat. UR: Úr, amely általában istent, nagyurat jelent. Hieroglif írásjele az "R" hang, ez a száj körvonalait ismétlő ovális jel. Hangzósítva s átírva a mi írásjeleinkre **Ur, Ár, Er, vagy Ra alakot vesz fel, aszerint, milyen magánhangzót kíván az illeszkedés szabálya**.  
 
-[[J/Johan Oldenkamp\|Johan Oldenkamp]] többször is idézett Wholly Science tanulmányában és előadásaiban is foglalkozik a világunk működésével, leképezésével, de a magyar ősnyelv ismerete hiányában több tévesztése van és ezáltal rossz következtetéseket von le, de Grandpierre Atilla Élő Világegyetem című előadásából is hiányoznak a nyelvi alátámasztások (többek közt). Minden továbbit lásd [[F/Fény és anyag\|fény és anyag]] illetve [[F/Fény és sötétség\|fény és sötétség]]. 
+[[J/Johan Oldenkamp\|Johan Oldenkamp]] többször is idézett Wholly Science tanulmányában és előadásaiban is foglalkozik a világunk működésével, leképezésével, de a magyar ősnyelv ismerete hiányában több tévesztése van és ezáltal rossz következtetéseket von le, de Grandpierre Atilla Élő Világegyetem című előadásából is hiányoznak a nyelvi alátámasztások (többek közt). Minden továbbit lásd [[F/Fény és anyag\|fény és anyag]] illetve [[F/Fény és sötétség\|fény és sötétség]].
 - A mellékelt képen szereplő szinusz (lásd [[S/Sine\|sine]]) szó használata azért fantasztikus, mert a szín és a szün szavaink utalnak a fény és fényhiány váltakozására (hasonlóan a [[J/Jin és jang\|jin és jang]] princípiumokhoz és a [[H/Hegy és völgy\|hegy és völgy]] váltakozásokhoz a hullámban).
 
 ![assets/ArAr_image2.png|invert_dark](/img/user/A/assets/ArAr_image2.png)  
@@ -115,9 +115,9 @@ Azért került ezen szócikkhez és nem [[U/UR\|UR]] címhez, mert az [[A/A\|A]]
 
 ...című könyvének alábbi passzusai nyomán persze nemcsak [[N/Nyár\|nyár]] és a [[N/Narancs\|narancs]] nevek n-előhangos voltának feltárására nyílik mód:  
 > Jankovits ugyan a görög `aner` szót is összesorozta, de az már messzibb elüt az egyszerű ur szótól, s inkább a persa `ner`, alban `nersi` ( = vir) szókkal összeköthető. Hammer a ner gyöknek kétféle jelentését ki is emelé (W. J, B. LIII. Anz. Bl.), mely vizet és embert is jelent, Visehnu Nerayana neve a vit cosmogoniai elemére mutat, s azt a magyar nyir, v. nyirk, honnan nyirkos, a mit azonban bővebben mutogatni itt nincs hely. – A ner szóban ( = ember) az n betű épen oly előtétel lehet, mint a Herr és Er, mind az `aner` mind a persa `ner`, s alban `nersi`, a zend `ner`, sanskrit `nara` szókra viszonyulnak vissza (= vir. Boblen de lingva Zend p. 35.). ([Lásd 331. old.](zotero://open-pdf/library/items/DFI47XPY?page=331&annotation=D69WR46T))  
-> 
+>
 > ...a régi bask `noro` = Gott (Allg. Lit. Z. Ergänz. Blätter 1843. Sept. Nro 83.). ([Lásd 332. old.](zotero://open-pdf/library/items/DFI47XPY?page=332&annotation=CRJK5WWX))  
-> 
+>
 > Láttuk már az Ur `Herr`, wir, scytha aj-or, örmény `Ahr` stb. szó alakokat, mikhez a kurd `ár` (vir) siami `bhura` = ur (Ritter IV. 76.) a görög `kuros`, s `kurios` (=ur), a persa `cyrus` \[lásd [[C/Cyrus\|Cyrus]]\], `kyros` név (= sol) s Ariamnes név (urat jelentő névszó Svidus szerint Bayert hist. osroen pag. 81.), adhatok azon megjegyzéssel, hogy vir korántsem a magyar ur, hanem a magyar férj kelta nyelvben `gwr`, `fear`, sankritul `vara` (W. J. B. CII. p. 126.). Lepsius által kiadott régi italiai edényfeliratókban `fir` (Gelehrte Anzeig. 1843. May Nro 25. München). Bopp is a kelta `fear`, `fer` ( = vir), a sanskrit `vara` szóval ugyanazonitá (l. Pictetet Journ. as. 1840. Nro 51. p. 234), syrjánul is `ver` = férj, `verōsös` = férjet, `verossaja munny` = férjhez menni (Gablencz Grundzüge der syrj. Grammat. p. 6. 39.); **a bh, v, f, g az elősorolt szókban csak előtételek**, meghosszitásai s erősbitései a törzsnek, igy van a `Tur` név szóval is a dolog, mely istent, urat, hegyet, óriást, villámzót s. a t. jelentett, s minden phasisaiban az ur szó jelentéseinek osztozkodik, még abban is, hogy persa hagyományok szerint valamint Ir Feridun fia Iránnak, ugy testvérje Tur Turán országnak ( = Aniran vagy a mi nem Irán föld) nevet adott. Ha végre az ur szó különösben embert is jelent, még pedig a nemesebb fajt, a férfi-nemet a parancsolói, azon sem akadhatuk fel, mert a mann szóval szinte igy van a dolog (l. meny) s mint ott van menyecske, meny, menyasszony, ugy itt is van `ara` = meny asszony, Irene (= a persa schirin Herbelot t. 3. p. 378. t. v. p. 203.). Here, vagy Juno, Aurora, ki a fiatal szép Orionba beleszeretvén, azt csillaggá változtatta stb. Hogy a Mann a nemzetek neveiben is közönséges láttuk, az ur vagy Er szóval is történt Cattuarii, Bruetvarii, widioarii stb. a vir szóval szinte igy van a dolog "Angri-varii, Aniivarier, az angelsax és skandinav népfajok közt Herfon-vare, Cont-vare, Fort-vari. Hogy az Er a névszókban a Mann szerepét viseli, a germán nyelvben azt Soltan Adelunghoz való toldalékában fel is jegyezte. ([Lásd 338. old.](zotero://open-pdf/library/items/DFI47XPY?page=338&annotation=K3KB4Z79))  
 
 ## Lábjegyzetek

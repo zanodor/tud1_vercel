@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Ragozó nyelvek/","title":"Ragozó nyelvek","tags":["containstransclusions"],"created":"2023-12-23T10:29","updated":"2024-10-23T19:36"}
+{"dg-publish":true,"permalink":"/R/Ragozó nyelvek/","title":"Ragozó nyelvek","tags":["containstransclusions"],"created":"2023-12-23T10:29","updated":"2025-02-24T22:11:10Z"}
 ---
 
 
@@ -12,7 +12,7 @@ A [[G/Genetika\|genetika]] címnél taglalt Árkay féle cikk megállapításait
 ...című az Ősi Gyökér 2013/1-2. sz. megjelent cikkének [[P/Pentaton\|pentaton]] címnél szereplő passzusai után tehető/vehető:  
 > A ragozó nyelvek nyelvtana jóval többet foglalkozik az alaktannal, mint a mondattannal. A ragozó nyelveket beszélő népcsoportok egy jó része – Árkay László szavaival élve – "egészen misztikusan azonos" egyrészt a pentatóniát használó népekkel, másrészt a génkutatások és az ősrégészet eredményeiből kirajzolódó kapcsolatban álló etnikumokkal.  
 > Az említett hat folt közül öt megtalálható a ragozó nyelvek térképén is: a [[K/Kárpát-medence\|Kárpát-medence]] a magyar nyelvvel, Közép Ázsia az altáji nyelvek egy részével, a Távol Kelet a japánnal, Közép Afrika a bantu nyelvekkel, valamint az amerikai indiánok a majával és a kecsua nyelvvel. Habár a kelta nyelvek közül egyik sem agglutináló, vannak olyan elképzelések, hogy a baszkok is kelta származású nép. Az ő nyelvük pedig ugyancsak ragozó, nyelvtana és mondatszerkesztése szempontjából rendkívül hasonlít a magyarra.  
-> Simon Péter elmondja, hogy a kanadai dakota és oglala indiánok nyelve is ragozó, sőt, ennél sokkal több kapcsolódási pontra mutat rá az indiánok és a magyar nép között. A DunaTV által pár éve sugárzott dokumentumfilm az ujgurokkal létező ugyanilyen rokonságra hívta fel a figyelmet (Kína észak-nyugati részén). Íme, négy különböző kutatási terület eredményei hozzák egy nevezőre az említett hat földrajzi terület népcsoportjait. Annak a valószínűsége, hogy ez véletlen legyen, szinte egyenlő a nullával. Igaz, hogy a pentatónia megtalálható más népcsoportoknál is (Hátsó- és Elő-Indiában, Indonéziában, Melanéziában és Mikronéziában, valamint Nyugat-Polinéziában), továbbá Indiában, Indonéziában és Polinéziában is találunk ragozó nyelveket, azonban ezek a földrajzi területek nem jelennek meg Árkay László beszámolójában. Lehet, hogy a génkutatások és az ősrégészet szempontjából ezek a "foltok" nem mutatnak rokonságot a többivel.  
+> [[S/Simon Péter\|Simon Péter]] elmondja, hogy a kanadai dakota és oglala indiánok nyelve is ragozó, sőt, ennél sokkal több kapcsolódási pontra mutat rá az indiánok és a magyar nép között. A Duna Tv által pár éve sugárzott dokumentumfilm az ujgurokkal létező ugyanilyen rokonságra hívta fel a figyelmet (Kína észak-nyugati részén). Íme, négy különböző kutatási terület eredményei hozzák egy nevezőre az említett hat földrajzi terület népcsoportjait. Annak a valószínűsége, hogy ez véletlen legyen, szinte egyenlő a nullával. Igaz, hogy a pentatónia megtalálható más népcsoportoknál is (Hátsó- és Elő-Indiában, Indonéziában, Melanéziában és Mikronéziában, valamint Nyugat-Polinéziában), továbbá Indiában, Indonéziában és Polinéziában is találunk ragozó nyelveket, azonban ezek a földrajzi területek nem jelennek meg Árkay László beszámolójában. Lehet, hogy a génkutatások és az ősrégészet szempontjából ezek a "foltok" nem mutatnak rokonságot a többivel.  
 - Korábban találkoztunk velük, mint a többi népséggel.
 
 #### Magyar Adorján írja:
@@ -48,5 +48,5 @@ Azaz ha a vitapartner bedobja a nagy adu ászt a flektáló/hajlító nyelvek ő
 ## Ókori magyar-rokon népek ragozó nyelvet beszéltek  
 
 Götz László Keleten kél a Nap című könyvében szereplő adatok szerint a [[H/Hurri#Hurri nyelv\|hurri nyelv]] ragozó nyelv voltak.  
-A szubartuiak, gutik, lulluk, chaldok (urartuiak) és kasszuk kapcsán is elhangzik, hogy egytől-egyik agglutináló nyelveken beszéltek (írja, hogy a nemzetközi tudományos világ egybehangzó megállapítása szerint sem indogermánok, sem pedig szemiták nem voltak ezen népek).  
+A szubartuiak, gutik, lulluk, chaldok (urartuiak) és kasszuk kapcsán is elhangzik, hogy egytől-egyik agglutináló (ragasztó = ragozó) nyelveken beszéltek (írja, hogy a nemzetközi tudományos világ egybehangzó megállapítása szerint sem indogermánok, sem pedig szemiták nem voltak ezen népek).  
 Ami még [[H/Hurri#Hurri nyelv\|hurri nyelv]] címnél szerepelt, hogy a hatti nyelv is ragozó nyelv volt.  

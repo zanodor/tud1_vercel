@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/HUM/","title":"HUM","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-11-09T03:46","updated":"2024-10-25T21:51"}
+{"dg-publish":true,"permalink":"/H/HUM/","title":"HUM","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-11-09T03:46","updated":"2025-02-24T22:11:10Z"}
 ---
 
 
@@ -8,9 +8,9 @@
 #### Péterfai János írja:
 
 > Rendkívül fontos a latin nyelvben is meglévő Hum szó, ami a Hun szóval közvetlenül rokon lehet. A szumer [[H/Humbaba\|Humbaba]] Hum része is kapcsolódhat a [[H/Hun\|Hun]] (csillag) szóhoz.  
-> A Humor "Nedvesség, Nyirkosság, Folyadék", a holdi Mare Humorum az Esők Tengere. Tehát a Humor Eső. Az eső az égbolthoz tartozik, a magasból esik le a földre. Az esőcseppek kis csillagok, csillognak, gömbszerűek, freccsennek, sok-sok újabb kis csillagra hasadnak széjjel. Tehát itt a Hun Csillag, és a Hum Csillag jelentése.  
+> A `Humor` "Nedvesség, Nyirkosság, Folyadék", a holdi Mare Humorum az Esők Tengere. Tehát a Humor Eső. Az eső az égbolthoz tartozik, a magasból esik le a földre. Az esőcseppek kis csillagok, csillognak, gömbszerűek, freccsennek, sok-sok újabb kis csillagra hasadnak széjjel. Tehát itt a Hun Csillag, és a Hum Csillag jelentése.  
 
-A csillag (ahogy [[T/Teremtő és teremtett\|Teremtő és teremtett]] címnél is taglaltuk, a Nap) pedig [[F/Fiú\|fiú]] (ahol [[P/PI\|PI]] = fi = csillag). Az indiánus maricopa nyelven `humar` = gyerek. Tulajdonképpen a [[K/KUM\|KUM]] = ember és az [[A/AN, ÁN#An/Kan Köre\|An/Kan Köre]] és [[K/KAN#An/Kan Köre\|An/Kan Köre]] cím/alcímnél taglalt [[H/Hungár\|hungár]] (mely párja az [[E/Ember\|ember]] szavunk) is idetartozik.  
+A csillag (ahogy [[T/Teremtő és teremtett\|Teremtő és teremtett]] címnél is taglaltuk, a Nap) pedig [[F/Fiú\|fiú]] (ahol [[P/PI\|PI]] = fi = csillag). Az indián maricopa nyelven `humar` = gyerek. Tulajdonképpen a [[K/KUM\|KUM]] = ember és az [[A/AN, ÁN#An/Kan Köre\|An Köre]] és [[K/KAN#An/Kan Köre\|Kan Köre]] cím/alcímnél taglalt [[H/Hungár\|hungár]] (mely párja az [[E/Ember\|ember]] szavunk) is idetartozik.  
 
 A HUM = ember jelentése:  
 • egyrészt a [[H/Hun\|hun]] csillag és lélek jelentéséhez köthető;  
@@ -25,9 +25,9 @@ Fontos adatnak tűnik (de legalábbis rámutat a HUM = víz jelentésére[^1] is
 
 #### Richard H. Allen írja:
 
-> On the Ganges, as in China, **Acquarius began the circle of the zodiacal signs**; and Al Biruni said that at one time in India it was Khumba, or Kumbaba \[[[Humbaba\|[Humbaba]]?\], which recalls the Elamite divinity of that name, the Κόμβη, or Storm God, of Hesychios. This, too, was the Tamil title for it; La Lande writing it Coumbum.  
+> On the Ganges, as in China, **Acquarius began the circle of the zodiacal signs**; and Al Biruni said that at one time in India it was Khumba, or Kumbaba, which recalls the Elamite divinity of that name, the Κόμβη, or Storm God, of Hesychios. This, too, was the Tamil title for it; La Lande writing it Coumbum.  
 > —  
-> A Gangesznél, akárcsak Kínában, a Vízöntő kezdte az állatövi jegyek körét; és Al Biruni szerint Indiában egykor Khumba vagy Kumbaba volt a neve, ami az ilyen nevű elámi istenségre, vagy Hesychios Viharistenére, Κόμβη-ra emlékeztet. Ez volt a tamil elnevezése is; La Lande Coumbumnak írja.  
+> A Gangesznél, akárcsak Kínában, a Vízöntő kezdte az állatövi jegyek körét; és Al Biruni szerint Indiában egykor Khumba vagy Kumbaba \[[[Humbaba\|[Humbaba]]?\] volt a neve, ami az ilyen nevű elámi istenségre, vagy Hesychios Viharistenére, Κόμβη-ra emlékeztet. Ez volt a tamil elnevezése is; La Lande Coumbumnak írja.  
 
 Lásd még [[K/KUM\|KUM]].  
 
