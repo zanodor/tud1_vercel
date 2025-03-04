@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","created":"2023-10-04T08:31","updated":"2025-03-01T04:41"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-03-04T18:07"}
 ---
 
 
@@ -361,7 +361,7 @@ Nem tűnt fel (szinte) senkinek az sem, hogy ha a sumér és kínai szótagnyelv
 
 #### Idegen műveltségi szavak keletkezése magyar alapszavakból
 
-Az utódnyelvek műveltségi és mai tudományokban használt, sok esetben fennköltnek, zsargonisztikusnak hangzó szavai egyszerű, a magyar nyelv alaprétegeiből származó szavakból épülnek fel. Példák sokaságát lehet felhozni. [[B/Beteg\|Beteg]] szavunkból hogyan lehet passió, szenvedély, palacsintából hogyan lesz a méhlepény latin orvosi elnevezése, [[T/Takony\|takony]] és [[G/Geny\|geny]] szavainknak mi köze az utódnemzéshez, vagy mi a [[S/Szarkóma\|szarkóma]], mi a kakofónia és a codex magyar háttere, sorolhatnánk. Az tény, hogy a mai angolba a bonyolultabb ideákat magába foglaló magyar szavak nem kerültek be, csak azok a latin és görög szavak, amik az eredeti ősmagyar formák ferdítései.  
+Az utódnyelvek műveltségi és mai tudományokban használt, sok esetben fennköltnek, zsargonisztikusnak hangzó szavai egyszerű, a magyar nyelv alaprétegeiből származó szavakból épülnek fel. Példák sokaságát lehet felhozni. [[B/Beteg\|Beteg]] szavunkból hogyan lehet passió, szenvedély, palacsintából hogyan lesz a méhlepény illetve hályogból a latin orvosi elnevezése, [[T/Takony\|takony]] és [[G/Geny\|geny]] szavainknak mi köze az utódnemzéshez, vagy mi az a [[S/Szarkóma\|szarkóma]], mi a kakofónia és a codex magyar háttere,...sorolhatnánk. Az tény, hogy a mai angolba a bonyolultabb ideákat magába foglaló magyar szavak nem kerültek be, csak azok a latin és görög szavak, amik az eredeti ősmagyar formák ferdítései.  
 
 Nekünk mindig a természeti szavakat kell felmutatni. Például aligha kérdéses, hogy a nemzetközi, már műveltségi [[L/Lamp\|lámpa]] szóhoz képest – akár egy `lamp` forma közvetítésével – a [[L/Láng\|láng]] szó a természetben előforduló jelenségre utal és NG = MP.  
 Vagy például [[K/Kaba#^bjczz\|kő]] szavunk lesz más nyelvek hegyet és Kába kövét jelentő neveinek kiindulója és a [[K/Kovács\|kovács]] foglalkozás sem holmi szláv hatásra jött volna létre, mert odáig nekünk "vasverőink" lettek volna.  
@@ -397,7 +397,9 @@ Lásd még [[L/Latin nyelv\|latin nyelv]].
 
 #### Az óangol szavakról
 
-Az óangolnak címkézett szavakat tarthatjuk egyszerűen germánnak. Azaz az óangolnak címkézett szó nem feltétlenül elődje az angolnak, hanem párhuzamosan mellette létezhetett. Az olyan szópárok, mint az angol [[P/Play\|play]] és eredetéül felhozott óangol `plegian` nem feltétlenül állnak nyelv-evolúciós kapcsolatban. Hasonló esetet láttunk [[H/Hay\|hay]] = széna szónál is. Egy nyelvi ökoszisztémából kerülnek ki, de a kronológiai sorrend nem bizonyítható. Természetesen minél több az adat, annál jobb, de a tapasztalat azt mutatja, hogy magyar szóra való visszavezetésnél nem mindig a régebbi alakú, értelmű szó szolgáltathatja a megoldást.  
+Az óangolnak címkézett szavakat tarthatjuk egyszerűen germánnak. Ugyanakkor az óangolnak címkézett szó nem feltétlenül elődje az angolnak, hanem párhuzamosan mellette létezhetett. Az olyan szópárok, mint az angol [[P/Play\|play]] és az eredetéül felhozott óangol `plegian` nem feltétlenül állnak nyelv-evolúciós kapcsolatban, de a nyelvészetnek kapóra jön, hogy korábbi alaknak mutasson be olyan szót, mely már maga is csak egy önkényesen lejegyzett forma.  
+Hasonló esetet láttunk [[H/Hay\|hay]] = széna szónál is. Egy nyelvi ökoszisztémából kerülnek ki, de a kronológiai sorrend nem bizonyítható. Természetesen minél több az adat, annál jobb, de a tapasztalat azt mutatja, hogy magyar szóra való visszavezetésnél nem mindig a régebbi alakú, értelmű szó szolgáltathatja a megoldást.  
+Plegian esetében lásd még az [[G/G#Óangol szavak g hangja\|óangol szavak g hangja]] cím/alcímnél írottakat is.  
 
 #### Szavak forrásai az utódnyelvekben  
 

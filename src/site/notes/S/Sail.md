@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sail/","title":"Sail","created":"2024-11-23T05:36","updated":"2024-11-23T05:36"}
+{"dg-publish":true,"permalink":"/S/Sail/","title":"Sail","created":"2024-11-23T05:36","updated":"2025-02-24T22:11:10Z"}
 ---
 
 
@@ -30,3 +30,5 @@ head --> s2
 Ugyanakkor a [[T/Tail\|tail]] és [[H/Hail\|hail]] szavakhoz hasonlóan itt is megjelenik egy germán g-beékelődés a korábbi szavakban: a mai némettel egyező óangol `segel` (igeként `seglian`), óizlandi `sigla`, stb.  
 Hogy valójában egy felkeményedett j-beékelés lehet, mint fehér-fejér esetében, nem tudni. A nyelvészek már nyilván felfigyeltek rá.  
 [[S/Seal\|Seal]] címnél is hasonló eset látszik fennállni.  
+
+[[G/G#Óangol szavak g hangja\|Óangol szavak g hangja]] cím/alcímnél írottakat is lásd.  

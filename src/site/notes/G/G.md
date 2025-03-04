@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2024-10-24T15:37"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2025-03-01T04:41"}
 ---
 
 
 # G
 
-Immáron két sumér szót találtam, melyek elején szerepel egy feleslegesnek tűnő G hang. Az egyik az [[A/Asszony\|asszony]] és [[B/Boldogasszony\|Boldogasszony]] címnél is taglalt `Gasan` (Asan = asszony), a másik a Gyárfás Ágnes A kék emlékkő című Ősi Gyökér 2005/2. sz. megjelent cikkében hozott, Labat 554 jelű `Geme` (lásd azóta Götz László féle adatokkal is [[G/Geme\|geme]]), mely rendesen [[E/Eme\|eme]], mely [[E/Emese\|Emese]] nevében is szerepel.  
+Immáron két sumér szót találtam, melyek elején szerepel egy feleslegesnek tűnő 'g' hang. Az egyik az [[A/Asszony\|asszony]] és [[B/Boldogasszony\|Boldogasszony]] címnél is taglalt `Gasan` (Asan = asszony), a másik a Gyárfás Ágnes A kék emlékkő című Ősi Gyökér 2005/2. sz. megjelent cikkében hozott, Labat 554 jelű `Geme` (lásd azóta Götz László féle adatokkal is [[G/Geme\|geme]]), mely rendesen [[E/Eme\|eme]], mely [[E/Emese\|Emese]] nevében is szerepel.  
 
 Ismert még a szumer `sal` = asszony, nő (vö. a főképpen René Labat adataira támaszkodó [[D/Dudás Rudolf\|Dudás Rudolf]] közlése alapján ismert szinte azonos alakú sumér `ŠUL` = férfi, hős szóval).  
 
 Gyárfás Ágnesnek van egy több helyen említett Lugal Geme című tanulmánya, melyben szintén előjön Geme.  
 ![assets/G_image1.png|invert_dark](/img/user/G/assets/G_image1.png)  
-A csatolt jelet – nyilvánvaló okokból – például [[P/Pina\|pina]] címnél is szerepeltettük.  
+A csatolt jelet – nyilvánvaló okokból – [[P/Pina\|pina]] címnél is szerepeltettük.  
 Záhonyi András A káld-szabír (sumer) képjelek, hangértékek rejtett üzenetei című az Ősi Gyökér 2021/1. sz. megjelent cikke alján is említi futólag.  
 
 Megjegyzés: Götz László adata szerint a [[G/Gyne\|gyne]] és [[Q/Queen\|queen]] címnél is említett sumér `GIN` = nőszemély, rabnő jelentésű (hasonló alakú).  
-Götz László más adatát tehát (gólya ügyben) lásd [[G/Geme\|geme]].  
+Götz más adatát (gólya ügyben) lásd [[G/Geme\|geme]].  
 
 ## G-előhangos nőre, asszonyra utaló szavak magyartalanok
 
@@ -56,3 +56,12 @@ Az [[O/Oguz\|oguz]] név kapcsán az [alábbi](https://qr.ae/pvAZDU) Quora vála
 
 </div></div>
   
+
+## Óangol szavak g hangja
+
+[[S/Sail\|Sail]] szónál óangol `segel` (igeként `seglian`) szavakat, [[P/Play\|play]] szónál óangol `plegian` szóalakot láttunk.  
+- Lásd még továbbá [[T/Tail\|tail]] és [[H/Hail\|hail]].
+
+Az óangolban 'g' hanggal jelzett formák nem eredetiek. Szinte bizonyosan nem is g-vel ejtődtek; olyan hangok lehettek, mint a fentebb taglalt török alakok.  
+Honnan tudhatjuk ezt? Onnan, hogy `sail` esetében teljesen logikus a `szél` szavunkkal való egyezés: szél nélkül nem lehet vitorlázni.  
+És akkor hogy került a 'g' hang rögzítésre? Ahogy más fentebb taglalt esetekben is, itt is a hosszú mássalhangzót kellett valahogy jelölni. Hosszú mássalhangzó hiányában 'é' lehet 'eh'-hel rögzítve és a 'g' a 'h' párja, ahogy erről sok helyen volt szó (holland nyelv kapcsán is).  
