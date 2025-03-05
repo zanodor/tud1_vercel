@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Letöltések/","title":"Letöltések","created":"2023-12-28T07:46","updated":"2024-12-17T08:17"}
+{"dg-publish":true,"permalink":"/101/Letöltések/","title":"Letöltések","created":"2023-12-28T07:46","updated":"2025-03-05T15:54"}
 ---
 
 
@@ -30,6 +30,7 @@ Használja a keresőt (search) bármely webhelyen a keresett állomány megtalá
 - [TeSz (Történeti-etimológiai szótár)](https://mega.nz/file/YrMH0bKQ#tQCyjtqz2a7tT_79JkspVqPxZUbpbMjgjWU8MTBLoXc)
 - [Drábik János](https://mega.nz/folder/oqU21TKQ#Z1yGjMKiJXrT9aynnfYFWg)
 - [Kubínyi Tamás ÁKTV](https://videa.hu/tagok/aktv-2237405)
+    - Lásd még [[101/ÁKTV műsorok szöveges kivonatai\|ÁKTV műsorok szöveges kivonatai]].
 
 
 

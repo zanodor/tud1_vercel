@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Éh/","title":"Éh","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-11-06T16:20","updated":"2024-11-23T03:08"}
+{"dg-publish":true,"permalink":"/E/Éh/","title":"Éh","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-11-06T16:20","updated":"2025-03-05T23:25"}
 ---
 
 
@@ -88,7 +88,6 @@ card "germán <color:#e7545c>hue</color>" as hue
 card "magyar <color:#e7545c>ív</color>" as ív
 card "magyar <color:#e7545c>íj</color>" as íj
 card "japán <color:#e7545c>aj</color>" as aj
-card "magyar <color:#e7545c>agy</color>" as agy
 card "magyar <color:#e7545c>ék</color>" as ék
 
 éh -- ég : jelentés
@@ -106,7 +105,6 @@ hiú -- hue : rokon értelmű
 éh -- ív : jelentés
 ív -- íj : jelentés
 éh -- aj : jelentés
-éh -- agy : utalás
 ék -r-> éh : utalás
 
 @enduml
