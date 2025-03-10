@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2025-03-01T04:41"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2025-03-10T22:17"}
 ---
 
 
@@ -57,6 +57,10 @@ Az [[O/Oguz\|oguz]] név kapcsán az [alábbi](https://qr.ae/pvAZDU) Quora vála
 </div></div>
   
 
+## Örmény ġ hang
+
+[[E/Ég\|Ég]] szavunk megjelenni látszik az örmény `eġǰeru` = szarvas, `eġnik` = őz nevekben. Az örmény ġ lehet ugyanilyen csendes g/h, mint a török ğ.  
+
 ## Óangol szavak g hangja
 
 [[S/Sail\|Sail]] szónál óangol `segel` (igeként `seglian`) szavakat, [[P/Play\|play]] szónál óangol `plegian` szóalakot láttunk.  
@@ -65,3 +69,8 @@ Az [[O/Oguz\|oguz]] név kapcsán az [alábbi](https://qr.ae/pvAZDU) Quora vála
 Az óangolban 'g' hanggal jelzett formák nem eredetiek. Szinte bizonyosan nem is g-vel ejtődtek; olyan hangok lehettek, mint a fentebb taglalt török alakok.  
 Honnan tudhatjuk ezt? Onnan, hogy `sail` esetében teljesen logikus a `szél` szavunkkal való egyezés: szél nélkül nem lehet vitorlázni.  
 És akkor hogy került a 'g' hang rögzítésre? Ahogy más fentebb taglalt esetekben is, itt is a hosszú mássalhangzót kellett valahogy jelölni. Hosszú mássalhangzó hiányában 'é' lehet 'eh'-hel rögzítve és a 'g' a 'h' párja, ahogy erről sok helyen volt szó (holland nyelv kapcsán is).  
+
+Hasonló esetet találunk a dán nyelvben k, sőt, akár két k ki nem ejtésére.  
+A dán nyelvben gyakori, hogy a k hang elhalkul vagy teljesen elmarad, különösen mássalhangzók között vagy szóvégen, ha nem hangsúlyos. A **Mikkel** név példája nagyon jó illusztráció erre, ahol a kk betűkapcsolatban a k hang gyakorlatilag eltűnik, és Miel-nek hallatszik.  
+Ugyanígy, a dán `stærkere` = erősebb szinte ugyanúgy hallatszik, mint a `større` = nagyobb szó.  
+

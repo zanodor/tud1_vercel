@@ -1,11 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flag/","title":"Flag","created":"2023-10-17T09:40","updated":"2024-10-25T18:48"}
+{"dg-publish":true,"permalink":"/F/Flag/","title":"Flag","created":"2023-10-17T09:40","updated":"2025-03-08T23:18"}
 ---
 
 
 # Flag
 
-[[Z/Zászló\|Zászló]]. Lobogó jelentéssel még közelebb jutunk. Eric Partridge nyelvész ismeretlen eredetűnek tartja, de Jankovics Marcelléhez hasonló gondolatmenetet ne is várjunk tőle:  
+[[Z/Zászló\|Zászló]]. Lobogó jelentésével még közelebb jutunk. Eric Partridge nyelvész ismeretlen eredetűnek tartja, de...
+
+#### Jankovics Marcell...
+
+...féle gondolatmenetet ne is várjunk tőle:  
 > A lobogó jelentésű angol `flag` (vö. német `flaggen` = lobogót kitűz) a lobogó láng mintájára képződött, mint a magyarban. (A francia királyok szent zászlajának neve is Oriflamme, de a középkori zászlók is lángnyelv alakúak voltak. A német `fahne` = lobogó is a [[F/Fény\|fény]] szavunkkal azonos.)  
 
 #### Magyar Adorján írja:
@@ -16,5 +20,6 @@ Varga Csaba egyszerűen `lóg` szavunkat adja meg, de ez nem a megoldás.
 Aczél József adata is [[L/Láng\|láng]] felé visz el: `flogo`- és `fleg`- görögül ég, `flogion` = láng.  
 Lásd hasonlókról [[F/Flog\|flog]].  
 
-Szófejtés szempontjából a felleg szavunk kapcsolati lehetősége is felmerülhet.  
-  
+Lapp nyelven, ahogy vártuk: `lága`, f-kihagyásosan.  
+Láng szavunk létezett n hang nélkül is.  
+

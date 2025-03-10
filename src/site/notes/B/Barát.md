@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2024-11-07T00:57"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2025-03-08T23:18"}
 ---
 
 
@@ -77,7 +77,7 @@ Merésznek tűnhet a Bar-At szót a [[K/Kutya\|kutyá]]khoz vagy inkább [[K/Kut
 (Az olasz `bracco` = vadászkutya szó is hasonló, melyet szintén nehéz elhelyezni.)  
 Nagyon könnyen elképzelhető, hogy a német `freund`, angol [[F/Friend\|friend]] = barát szavakban is a BAR etimonhoz tartozó [[F/FER, FÉR\|FER, FÉR]] és a kún-germán `hund` (lásd [[H/Hound\|hound]]) = vadászkutya szavak összehúzását kell látni. [[O/Ond\|Ond]], ont, önt (ojt) szavak is elképzelhetőek benne, asztrális kutyanemzésről lévén szó.  
 [[T/Teremtő és teremtett\|Teremtő és teremtett]] szócikknél is volt szó a [[B/BAR\|BAR]] etimonról. Bar At lehet a Teremtő Adó, asztrális [[K/Kutyanemzés\|kutyanemzés]]re értve. Teremtett vonalon [[B/Barom\|barom]] = teremtmény. Azaz első körben volt egy primordiális [[N/Nimrud\|Nimrud]]-féle nemzés, mely a Naprendszerünket szülte, másodikként a Nap (talán szíriuszi Kutyacsillag segítségével) szülte az életet a bolygón.  
-A barát szóból több név és szó származhat: [[B/Britain\|Britain]]/Bretagne, talán [[P/Portugál\|portugál]], míg az angol szavak közül [[B/Brat\|brat]], [[B/Betray\|betray]], [[B/Bird\|bird]], [[B/Bread\|bread]], [[B/Beard\|beard]], [[B/Bárd\|bárd]] és [[B/Board\|board]] stb.  
+A barát szóból több név és szó származhat: [[B/Britain\|Britain]]/Bretagne, talán [[P/Portugál\|portugál]], míg az angol szavak közül [[B/Brat\|brat]], [[B/Betray\|betray]], [[B/Bird\|bird]], [[B/Bread\|bread]], [[B/Beard\|beard]], [[B/Bárd\|bárd]], [[B/Board\|board]] és akár [[P/Proud\|proud]] és a [[P/Prove\|prove]] és más címnél említett szláv `pravda` = igazság is, stb.  
 A spanyol `barato` (*fem*. `barata`) jelentése nyilván azért olcsó, olcsón, mert baráti áron adott: "Tiene algo más barato?" = "Van valami olcsóbb?"  
 A kelta-ír `barantas` = garancia. A G-B változás hasonló az [[U/Ugorka\|ugorka]] – [[U/Uborka\|uborka]] esethez.  
 

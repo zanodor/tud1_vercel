@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csillagászat – tropikus kontra sziderikus/","title":"Csillagászat – tropikus kontra sziderikus","tags":["Englishtexttranslated"],"created":"2023-11-09T12:57","updated":"2024-10-25T16:33"}
+{"dg-publish":true,"permalink":"/C/Csillagászat – tropikus kontra sziderikus/","title":"Csillagászat – tropikus kontra sziderikus","tags":["Englishtexttranslated"],"created":"2023-11-09T12:57","updated":"2025-03-08T23:18"}
 ---
 
 
@@ -51,7 +51,7 @@ Ez a négy perces eltérés az, ami azt okozza, hogy az egyes csillagképek és 
 
 Lényegében arról lehet szó, hogy csak a Földről nézve látszik úgy, hogy eltérés van. Mert mi a Földről kikandikálva (jó "[[G/Geocentrikus világkép\|geocentrikus világkép]]esen," mert azok maradtunk) számolgatunk és nem számolunk azzal a ténnyel, hogy nem csak a Föld, hanem az egész Naprendszer mozog.  
 
-[[N/Nap\|Nap]] címnél, Napba öltözött asszony alcímnél, valamint [[B/Boldogasszony\|Boldogasszony]], [[S/Sothis\|Sothis]], [[S/Sothic\|Sothic]], Szűz csillagkép, [[P/Precesszió\|precesszió]] és [[G/Gergely-naptár\|Gergely-naptár]] címnél álló, onnan kiemelt témák alapján próbálunk tovább okoskodni:  
+[[N/Nap#Napba öltözött asszony\|Napba öltözött asszony]] cím/alcímnél, valamint [[B/Boldogasszony\|Boldogasszony]], [[S/Sothis\|Sothis]], [[S/Sothic\|Sothic]], Szűz csillagkép, [[P/Precesszió\|precesszió]] és [[G/Gergely-naptár\|Gergely-naptár]] címnél álló, onnan kiemelt témák alapján próbálunk tovább okoskodni:  
 A Napba öltözött asszonyról Z. Tóth Csaba imént említett Tropikus vagy sziderikus című cikkében futólag azt mondja, hogy a [[S/Szűz csillagkép\|Szűz csillagkép]]pel lenne azonos. Ez azért érdekes, mert ott pedig (a [[Z/Zodiac\|zodiac]] név eredetét is adó) [[S/Sothis\|Sothis]]-ról és a Kutyával kezdődő évről volt szó. Közben [[P/Precesszió\|precesszió]] és [[G/Gergely-naptár\|Gergely-naptár]] címnél afelől értetlenkedünk, hogy hogyan vethetők azon infók össze, hogy 1) Szíriuszra (de akkor Orionra ill. Orion övcsillagaira) sem/nem vonatkozik a precesszió\[?\] 2) egy világhónappal ezelőtt is július közepe táján volt a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelése]], meg most is.  
 Nyilvánvaló, hogy a Julián- és [[G/Gergely-naptár\|Gergely-naptár]]ak célja az volt, hogy a precessziót kivegye a képből: ezért kel ugyanakkor (értsd: a naptári nap szerint évenként ugyanakkor) a Szíriusz a Nappal. Na most a kérdés az, hogy a Szíriuszra (plusz Orionra) egyébként (sem? vagy éppen csak ezen rendelkezések óta) nem(?) vonatkozó precesszió ellenére a többi háttércsillagok/csillagképek helyzete hogy állt és áll (például a Szűz vagy Oroszlán; régen a Szűzzel állt együtt, mert a [[S/Sothis\|Sothis]]-[[S/Szűz\|szűz]] nevek összefüggése erre mutatna) és lehet-e azonos oka annak (amit Z. Tóth Csaba Tropikus vagy sziderikus című cikkében végül is nem tudott megfogalmazni: nem tudta, hogy mit keres, bár jó helyen keresett), hogy miért állt át a nyugat a tropikus zodiákusra/asztrológiára, amikor a kelet megmaradt a sziderikusnál?  
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-02-24T22:11:10Z"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-03-08T20:46"}
 ---
 
 
@@ -17,7 +17,6 @@ A Götz László Keleten kél a Nap című könyvének 94-95. oldalain megszóla
 > A flexió primitívebb nyelvi állapot, mint az agglutináció, mert az indogermán nyelvek fejlődése kimutathatóan a hiperflektáló kaukázusi nyelvektől az agglutináció felé halad.  
 - De ezt bizonyítja az is, hogy az indogermán nyelvészek által összeállított ideális nyelv, az eszperantó, nem más mint indogermán elemekből felépített tiszta agglutináló nyelv. <br/>  
 Könyvének 133. oldalán tér vissza a témára, indogermán és szemita példákat bemutatva. Utána is folytatja.  
-
 
 ## Hangfejlődés és hajlítás
 
@@ -86,6 +85,9 @@ Sok más szópár ismert: [[V/Vessző\|vessző]] – [[F/Fasz\|fasz]]; [[V/Víz\
 M>N változásra sok példa van; itt csak a magyar [[M/Magas\|magas]] szó gyökét mutassuk be [[N/Nagy\|nagy]] szavunk párjaként.  
 [[M/Magyar szavak, szórészek alakváltozatai\|Magyar szavak, szórészek alakváltozatai]] címnél más példákat is bemutattunk.  
 A fentebb idézett Végvári József [[S/Szócsaládok\|szócsalád]]-rendszere is szavak hajlított hangjaiból épülő szópárjai közti lehetséges kapcsolatok feltárásában segíthet (pl. [[O/Ostya\|ostya]]/[[T/Tészta\|tészta]] ← [[T/Test\|test]]).  
+
+[[S/Szláv és török jövevényszavak#-Cs, -csk(a), -ka végződések\|-Cs, -csk(a), -ka végződések]] cím/alcímnél pedig arról szóltunk, hogy ha a szavak közös szóbokorhoz tartoznak, meg tudjuk őket védeni magyarnak.  
+[[K/Kovács\|Kovács]] és [[K/Kalács\|kalács]] esetében is ezt tettük: előbbi [[K/Kohász\|kohász]] és [[K/Kovász\|kovász]], utóbbi [[K/Kalász\|kalász]] alaki párja, mely esetekben logikai összefüggést is fel lehet fedezni, azaz nem alaptalan a szavak kapcsolása.  
 
 ## Sémi vonal
 

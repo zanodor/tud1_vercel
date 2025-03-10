@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","created":"2023-10-30T08:39","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2025-03-08T23:18"}
 ---
 
 
@@ -30,14 +30,14 @@ Kezdjük a szexuális tartalommal. Már [[K/Kutyanemzés\|kutyanemzés]] címné
 ...című 1967-es írását feldolgozó Oxford Encyclopaedia of Bible and Gender Studies című kötet anyagával kezdeném, mely jól mutatja, hogy a szexuális mágiás ráolvasások is a Kutyacsillag általi nemzéssel kapcsolatosak, de mindenképpen égi hátterűek (a szerkesztők ezt persze nem veszik észre):  
 > Unlike in the Sumerian "love songs," in these texts penises (`ušaru`) are mentioned by name and the suffering man's penis is commanded to be like a stick of martû-wood, extended like a mašgašu-weapon, or taut as a harp string. In one of the few instances in which female genitalia are mentioned, the woman states:  
 > "My vagina (`ūru`) is the vagina (ūru) of a bitch! His penis is the penis (ušaru) of a dog! As the vagina (ūru) of a bitch holds fast the penis (ušaru) of a dog, (so may my vagina \[ūru\] hold fast his penis \[ušaru\])!" (Biggs, 1967, p. 33. 14: 9-10).  
-> Gone is the imgery of a sexually aroused woman (moist furrows): it is replaced by images of clamps and quivers. Battle imagery and duty is no more apparent than in this example: "May the quiver not become empty; May the bow not become slack! Let the batt\[le of\] my lovemaking be waged!" (Biggs, 1967, p. 37, 18: 3'-4').  
+> Gone is the imagery of a sexually aroused woman (moist furrows): it is replaced by images of clamps and quivers. Battle imagery and duty is no more apparent than in this example: "May the quiver not become empty; May the bow not become slack! Let the batt\[le of\] my lovemaking be waged!" (Biggs, 1967, p. 37, 18: 3'-4').  
 > Here the quiver (= vagina) is not to be empty (referring either to its need for a "stiff arrow" or possibly to semen, that which generally fills the "quiver"). The bow is used as metaphor rather than the arrow: like a bow that has not been stretched taught, a penis is flaccid before prepared for use.  
 > —  
 > A sumér "szerelmi dalokkal" ellentétben ezekben a szövegekben a péniszeket (`ušaru`) név szerint említik, és a szenvedő férfi péniszének azt parancsolják, hogy legyen olyan, mint egy martű-fa bot, legyen kinyújtva, mint egy mašgašu-fegyver, vagy feszes, mint egy hárfahúr. Azon kevés esetek egyikében, amikor női nemi szerveket említenek, a nő kijelenti:  
 > "Az én vaginám (`ūru`) egy szuka vaginája (ūru)! A pénisze egy kutya pénisze (ušaru)! Ahogy a szuka hüvelye (ūru) tartja a kutya péniszét (ušaru), (úgy tartsa az én hüvelyem \[ūru\] az ő péniszét \[ušaru\])!" (Biggs, 1967, 33. o. 14: 9-10).  
 > Eltűnt a szexuálisan izgatott nő imitációja (nedves barázdák): helyébe a bilincsek és a remegés képei léptek. A harci képek és a kötelesség nem nyilvánul meg jobban, mint ebben a példában: "Ne ürüljön ki a kosár, ne lankadjon az íj! Kezdődjön a szerelmi csatározás!" (Biggs, 1967, 37. o., 18: 3'-4').  
 > Itt a kosár (= vagina) nem ürülhet ki (utalva vagy arra, hogy szüksége van egy "merev nyílvesszőre", vagy esetleg a spermára, arra, ami általában a "kosarat" tölti). Az íjat inkább metaforaként használjuk, mint a nyilat: mint a nem tanított, meg nem feszített íj, a pénisz is petyhüdt, mielőtt használatra előkészítik.  
-- A Šà\.zi\.ga névről lásd lábjegyzetben: [^1].  <br/>
+- A Šà\.zi\.ga névről lásd lábjegyzetben: [^1]. <br/>
 Az akkád `ūru` = vagina, vulva szó nyilván a (betöltendő) űrre és egyúttal az égre utal. A kutya [[U/UR\|UR]] neve kankutya név, a kan helyén másutt [[S/Szuka\|szuka]] (mint [[S/Sarama\|Sarama]]) van.  
 A szexuális szimbolika úgy képzelhető el, hogy a mellékelt képen Nut az íj és Geb hímvesszeje a nyíl.  
 
@@ -385,7 +385,7 @@ Itt az eddig arab forrásokból megismert témákat sorolnám fel.
 2\. A Prophetical, Educational and Playing Cards című könyvben említésre kerül egy arab [[J/Játék\|játék]], melyet nyílvesszőkkel játszottak:  
 > Mr. Culin also mentions the "**Meisir** game of the Arabs," when seven arrows were shaken from a tube or quiver. This old game was played before the time of Christ, and Mahomet prohibited it, calling it "the work of devils." Arrows made of `naba` tree were used. (This name was seemingly derived from `Naib` or prophet.)  
 > —  
-> Culin úr megemlíti az arabok "**Meisir** játékát" is, amikor hét nyilat ráznak ki egy csőből vagy kosárból. Ezt a régi játékot Krisztus előtt játszották, és Mahomet betiltotta, "az ördögök művének" nevezve. A `naba` fából készült nyilakat használták. (Ez a név látszólag a `Naib`, azaz próféta szóból származik).  
+> Culin úr megemlíti az arabok "**Meisir** játékát" is, amikor hét nyilat ráznak ki egy csőből vagy kosárból. Ezt a régi játékot Krisztus előtt játszották, és Mahomet betiltotta, "az ördögök művének" nevezve. A `naba` fából készült nyilakat használták. (Ez a név látszólag a `naib`, azaz próféta szóból származik).  
 - [[N/Nap\|Nap]] címhez bekerült a naba és a prófétát jelentő szó is közben. De a Meisir elnevezés is érdekes: tán Egyiptom Misr neve lenne?  
 > They were of a bright yellow colour, and when shaken in the box gave a peculiar ringing sound, so arrows made of any other wood were considered undesirable and were discarded. Each arrow had a name and was marked with a numeral.  
 > —  
@@ -397,6 +397,8 @@ Itt az eddig arab forrásokból megismert témákat sorolnám fel.
 
 Ha már játék, a szerencsejáték is játék. [[K/Khamor\|Khamor]] címnél említettük az [alábbi](https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BC%D0%B0%D1%80) oldalon előjövő arab `qimār` > oszmán-török `kumar` = szerencsejáték szót. Nyilván íjjal és nyíllal játszották (bár a [[H/Hazard\|hazard]] címnél taglalt héber párja kapcsán nem erről szóltunk) és előbbi neve átragadt, ahogy a görög [[H/Hamartia\|hamartia]] = bűn fogalma is hasonlóképpen alakult ki.  
 
+A szerencse kapcsán jegyezzük meg, hogy a forgásban oldalak jelennek meg: világos, szerencsés (jobb), sötét, baljós (bal). A szerencsejáték eredete, főleg nyílvesszőkkel az lehetett, hogy Nyilazó csillagképek voltak (vannak) a napfordulókon; ezek összekötése (maga a Tejút) osztja két félre az éggömböt (az évet). Aki jól húzott, annak előjogokat adtak (akár – másokon való ideiglenes – uralkodásra); hasonlóan a [[P/Pünkösdi királyság\|pünkösdi királyság]]hoz.  
+
 ## Héber nyilas témák
 
 [[B/Bárány#Tatár bárány – szkíta bárány\|Tatár bárány – szkíta bárány]] cím/alcímnél John Ashton Curious Creatures in Zoology című 1834-es irányadó könyvének adatait olvasva találkozunk nyilas szimbolikával: a növényhez (életfához) köldök(zsinór)ként (is) kötődő bárány leszakajtása pontos nyíllövésekkel történik. Okunk van feltételezni, hogy az eredeti képzet itt is csillagászati eredetű. Pontosan nem sikerült megfejteni mi lehet, de [[D/Dzsed\|dzsed]], [[K/Kecske és kos\|kecske és kos]], [[Z/Zsidó\|zsidó]] és más címeknél is megemlítettem a dolgot, hátha valahol valami közelebbit találunk.  
@@ -407,7 +409,7 @@ A fentebb már egy adattal jelentkező Morris Silver Talking Ancient Mythology c
 #### Molnár V. József Bak – Karácsony hava, Boldogasszony hava...
 
 ...című Ősi Gyökér 2006/4. sz. megjelenő cikkében az egyik leghíresebb ókeresztény vértanú, Sebestyén kapcsán írja:  
-> Császári testőrparancsnok volt, akit elszánt keresztény hitvallása miatt lenyilaztak, majd miután sebeiből felépült és szolgálatra jelentkezett, halálra botozták. A betegséget és a halált az archaikus hitvilág mind a görögöknél, mind az ószövetségi zsidóságnál a nyíl művének \[v.ö. [[I/Íz\|Íz]] > szanszkrit `ishu`\] tulajdonította. A pestis nyila ellen már a VII. században Sebestyén oltalmát kérik a hívek.  
+> Császári testőrparancsnok volt, akit elszánt keresztény hitvallása miatt lenyilaztak, majd miután sebeiből felépült és szolgálatra jelentkezett, halálra botozták. A betegséget és a halált az archaikus hitvilág mind a görögöknél, mind az ószövetségi zsidóságnál a nyíl művének \[v.ö. [[I/Íz\|íz]] > szanszkrit `ishu`\] tulajdonította. A pestis nyila ellen már a VII. században Sebestyén oltalmát kérik a hívek.  
 
 ## Ainu témák
 
@@ -517,7 +519,7 @@ Pontosabban a világ itt a Tejút-galaxisra utalhat ugye. A [[T/TÜN\|TÜN]] cí
 A már fejlettebb tűzszerszámok egyike az e rajzon 1-el jelezett, amelyet az eszkimók egészen napjainkig is használtak. (Lássad: Dr. Kalr Weule: "Leitfaden der Völkerkunde." Leipzig u Wien. Bibliographisches Institut, 1912, 108. oldal.) A tüzet gyújtani akaró személy – aki mindig férfi volt, azért is mert e fárasztó művelet meglehetős izomerőt igényel – balkezével a rajzon a-val jelzett csontocskát tartva (de volt némelyütt külön e célra készített rész is; a rajzon g-vel jelölve), jobbkezével pedig a szerszám íjszerű részét ide-oda húzta és tolta (a rajzon c). A szerszám fúrója fölső vége a csontocska mélyedésében volt, amely mélyedést bezsíroztak, hagy ott súrlódás ne legyen, ellenben a fúró (a rajzon b) alsó vége egy könnyen gyulladó falapba (a rajzon e) fúródott. (A rajzon fa lendítőkerék.) Mivel az íj zsinórja vagy ina (a rajzon d) a mindig kemény fából való fúróra volt csavarva, ezért az íj rész gyors ide-oda húzása-taszítása által a fúró igen gyorsan ide-oda forgott, így tehát a mindig puha fából való falap lyukában erős súrlódás volt, ami tüzesedést okozott és a lyuk mellé oda készített könnyen gyúló anyagot, ha oda még fújtak is, lángra lobbantotta. Természetesen arra igen vigyáztak, hogy a falap és a fúró alsó vége jó száraz legyen, sőt ha volt, gyanta, erősebb súrlódás céljából a lyukba annak kevéske port is szórtak. Természetesen, e művelet alatt a falapot, hogy ne mozogjon, tartani kellett; ezt pedig mindig a nő végezte.  
 
 [^8]: Lábjegyzet:  
-Etimológiáról is ír: 
+Etimológiáról is ír:
 A szó nagyon régi kincse nyelvünknek, már a 13. század közepe óta forgalomban van. Változatai: `dub`, `dop` és `dobb`.  
 A finnugor és török "párhuzamok" említése után a sumér `dub` szót veszi számba és [[D/Domb\|domb]] szavunkkal azonosítja.  
 
