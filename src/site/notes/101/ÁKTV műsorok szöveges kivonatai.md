@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-03-10T22:17"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-03-11T23:21"}
 ---
 
 
@@ -10,6 +10,8 @@
 <small>**Megjegyzés**: A Google Gemini-s összefoglalók a Google (YouTube) által készített transzkripciók alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli problémák, melyek mindegyikét nem veszem észre, hogy javíthassam. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag," amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint *nem* cenzúráz, de helyenként ilyen szavakkal próbál finomítani, vagy terelni. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattantva ellenőrizni a videón, hogy mi szerepelt az eredeti szövegben.</small>
 
 **Videók kivonatokkal** (ha igaz, visszamenőleg is bővül majd a lista):  
+
+[250311CN! CENZÚRA!](https://rumble.com/v6qhoqu-250311cn-cenzra-kubnyi-tams-ktv.html):  [https://share.note.sx/niczy48h](https://share.note.sx/niczy48h)
 [250310CN! A MANSFELD-ÜGY](https://rumble.com/v6qfvdc-250310cn-a-mansfeld-gy-kubnyi-tams-ktv.html):  [https://share.note.sx/l56ass2r](https://share.note.sx/l56ass2r)
 [250307CN! LÉLEKTITOK](https://rumble.com/v6qanta-250307cn-llektitok-kubnyi-tams-ktv.html):  [https://share.note.sx/kasjh30n](https://share.note.sx/kasjh30n)
 [250306CN! MICHELANGELO](https://rumble.com/v6q8q18-250306cn-michelangelo-kubnyi-tams.html):  [https://share.note.sx/u1iwi4rh](https://share.note.sx/u1iwi4rh)

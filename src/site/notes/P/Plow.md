@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Plow/","title":"Plow","created":"2025-03-06T02:36","updated":"2025-03-06T02:37"}
+{"dg-publish":true,"permalink":"/P/Plow/","title":"Plow","created":"2025-03-06T02:36","updated":"2025-03-11T23:23"}
 ---
 
 
@@ -15,3 +15,5 @@ Már csak azért is érdekes a szó, mert a `szánt` rokonának tekinthető `kap
 Vesd össze még szántóföld témában [[P/Pallag\|pallag]].  
 Utaltunk ide [[F/Fél#Felezés mint kettévágás – Tejút sávja általi osztás\|felezés mint kettévágás – Tejút sávja általi osztás]] cím/alcímtől is.  
 A P-L-K/B-L-G váz párja a [[B/Black\|black]] szó B-L-K váza; lásd még [[B/Balog\|Balog]].  
+
+Utalunk ide [[B/Block\|block]] címtől is.  
