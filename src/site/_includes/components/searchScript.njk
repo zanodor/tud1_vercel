@@ -83,12 +83,6 @@
                     tokenize: "forward",
                     encode: encoder,
                     resolution: 9
-                },
-                {
-                    field: "tags",
-                    tokenize: "forward",
-                    encode: encoder,
-                    resolution: 9
                 }
             ]
         });
@@ -97,8 +91,7 @@
             contentIndex.add({
                 id: idx, 
                 title: p.title, 
-                content: p.content, 
-                tags: p.tags
+                content: p.content
             });
         });
         return contentIndex;
@@ -223,7 +216,8 @@
         resultsDiv.innerHTML = loadingSvg;
 
         let results = performOfflineSearch(searchTerm);
-        let resultsHTML = '';
+        let resultsHTML = '<div style="max-width:100%;">';
+        
         if (!results.length) {
             let resultParagraph = document.createElement("p");
             resultParagraph.innerText = `No results for "${searchTerm}"`;
@@ -231,66 +225,58 @@
             resultsDiv.appendChild(resultParagraph);
             return;
         }
-        resultsHTML += '<div style="max-width:100%;">';
-        
+
         results.forEach(r => {
-            if(r.tags && r.tags.length > 0){
-                resultsHTML += `<div class="searchresult">
-                    <a class="search-link" href="${r.url}">${r.title}</a>
-                    <div onclick="window.location='${r.url}'">
-                        <div class="header-meta">
-                            <div class="header-tags">
-                                ${r.tags.map(tag=>'<a class="tag" href="JavaScript:Void(0);" onclick="window.toggleTagSearch(this)">#'+tag+'</a>').join("")}
-                            </div>
-                        </div>
-                        ${truncate(r.content, 400)}
-                    </div>
-                </div>`;
-            } else {
-                resultsHTML += `<div class="searchresult">
-                    <a class="search-link" href="${r.url}">${r.title}</a>
-                    <div onclick="window.location='${r.url}'">
-                        ${truncate(r.content, 400)}
-                    </div>
-                </div>`;
-            }
+            // Get context around the search term
+            const contentPreview = getSearchContext(r.content, searchTerm);
+            
+            resultsHTML += `<div class="searchresult">
+                <a class="search-link" href="${r.url}">${r.title}</a>
+                <div onclick="window.location='${r.url}'">
+                    ${contentPreview}
+                </div>
+            </div>`;
         });
         resultsHTML += '</div>';
         resultsDiv.innerHTML = resultsHTML;
     }
 
+    function getSearchContext(content, searchTerm) {
+        const plainText = content.replace(/<[^>]*>/g, '');
+        const termPos = plainText.toLowerCase().indexOf(searchTerm.toLowerCase());
+        
+        // Show text around the match with highlighting
+        let start = Math.max(0, termPos - 100);
+        let end = Math.min(plainText.length, start + 300);
+        let snippet = (start > 0 ? '...' : '') + 
+                     plainText.substring(start, end) + 
+                     (end < plainText.length ? '...' : '');
+
+        // Highlight the search term
+        const regex = new RegExp(`(${searchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+        return snippet.replace(regex, '<strong>$1</strong>');
+    }
+
     function performOfflineSearch(searchQuery) {
         let data = window.docs;
-        let isTagSearch = searchQuery[0] === "#" && searchQuery.length > 1;
 
-        let searchResults = isTagSearch
-            ? window.index.search(searchQuery.substring(1), [{field: "tags"}])
-            : window.index.search(searchQuery, [
-                {field: "title", limit: 5},
-                {field: "content", weight: 10}
-            ]);
+        let searchResults = window.index.search(searchQuery, [
+            {field: "title", limit: 20},  // Increased from 10
+            {field: "content", limit: 100}  // Increased from 50
+        ]);
 
         const getByField = (field) => {
             const results = searchResults.filter((x) => x.field === field)
-            if (results.length === 0) {
-                return []
-            } else {
-                return [...results[0].result]
-            }
+            if (results.length === 0) return []
+            return [...results[0].result]
         }
 
         const allIds = new Set([
             ...getByField("title"),
-            ...getByField("content"),
-            ...getByField("tags")
+            ...getByField("content")
         ])
 
-        return [...allIds].map((id) => {
-            let result = data[id];
-            // No content truncation, just filter out special tags
-            result.tags = result.tags.filter((x) => x != "gardenEntry" && x != "note");
-            return result;
-        });
+        return [...allIds].map((id) => data[id]);
     }
 
     function performSearch(searchTerm) {
