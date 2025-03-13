@@ -107,24 +107,34 @@ function createSearchIndex(collectionApi) {
 }
 
 module.exports = function (eleventyConfig) {
+  // Move searchIndex creation and transform to top
   eleventyConfig.addCollection("searchIndex", createSearchIndex);
   
   eleventyConfig.addTransform("createSearchIndex", function(content, outputPath) {
     if (outputPath && outputPath.endsWith('.html')) {
-      const fs = require('fs');
-      const path = require('path');
-      const outputDir = './dist';
-      
-      if (!fs.existsSync(outputDir)) {
-        fs.mkdirSync(outputDir, { recursive: true });
-      }
+      try {
+        const fs = require('fs');
+        const path = require('path');
+        const outputDir = './dist';
+        
+        // Safety check for collections
+        if (!this.collections || !this.collections.searchIndex) {
+          console.warn("Search index not available yet, skipping transform");
+          return content;
+        }
 
-      const searchIndex = this.collections.searchIndex;
-      
-      fs.writeFileSync(
-        path.join(outputDir, 'searchIndex.json'),
-        JSON.stringify(searchIndex)
-      );
+        // Ensure directory exists
+        if (!fs.existsSync(outputDir)) {
+          fs.mkdirSync(outputDir, { recursive: true });
+        }
+
+        fs.writeFileSync(
+          path.join(outputDir, 'searchIndex.json'),
+          JSON.stringify(this.collections.searchIndex)
+        );
+      } catch (err) {
+        console.warn("Error writing search index:", err);
+      }
     }
     return content;
   });

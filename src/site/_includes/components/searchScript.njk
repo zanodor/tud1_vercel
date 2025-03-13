@@ -65,31 +65,30 @@
     function createIndex(posts) {
         const encoder = (str) => str
             .toLowerCase()
-            .replace(/[^\w\s]/g, ' ')
-            .split(/\s+/)
-            .filter(word => word.length > 1);
-
+            .split(/([^a-z]|[^\x00-\x7F])/);
+            
         const contentIndex = new FlexSearch.Document({
             cache: true,
-            charset: "latin:simple",
+            charset: "latin:extra",
             optimize: true,
-            tokenize: "strict",
-            resolution: 9,
             index: [
                 {
                     field: "content",
                     tokenize: "reverse",
-                    encode: encoder
+                    encode: encoder,
+                    resolution: 9
                 },
                 {
                     field: "title",
                     tokenize: "forward",
-                    encode: encoder
+                    encode: encoder,
+                    resolution: 9
                 },
                 {
                     field: "tags",
                     tokenize: "forward",
-                    encode: encoder
+                    encode: encoder,
+                    resolution: 9
                 }
             ]
         });
@@ -106,24 +105,34 @@
     }
 
     async function init() {
+        const searchIndexDate = '{{meta.buildDate|isoDate}}';
+        let shouldFetch = true;
+        
         try {
-            const manifest = await (await fetch('/searchManifest.json?v={{meta.buildDate|isoDate}}')).json();
-            totalChunks = manifest.totalChunks;
+            if(localStorage.getItem("searchIndex")) {
+                let {date, docs} = JSON.parse(localStorage.getItem('searchIndex'));
+                if(date === searchIndexDate){
+                    shouldFetch = false;
+                    let index = createIndex(docs);
+                    window.docs = docs;
+                    window.index = index;
+                }        
+            }
             
-            // Initialize progress indicator
-            updateLoadingStatus(0, totalChunks);
-            
-            // Start by loading the first chunk (most recent/important notes)
-            await loadSearchChunk(0);
-            
-            // Setup keyboard shortcuts
+            if(shouldFetch){
+                let docs = await(await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}')).json();
+                let index = createIndex(docs);
+                localStorage.setItem("searchIndex", JSON.stringify({
+                    date: searchIndexDate, 
+                    docs
+                }));
+                window.docs = docs;
+                window.index = index;
+            }
+
+            // Setup keyboard shortcuts and URL parameter check
             setupKeyboardNavigation();
-            
-            // Check for URL search parameter
             checkForUrlSearchParam();
-            
-            // If we're not already searching, start loading additional chunks in background
-            loadRemainingChunksInBackground();
         } catch (error) {
             console.error("Error initializing search:", error);
             document.querySelector('#search-results').innerHTML = 
@@ -384,7 +393,7 @@
             if(r.tags && r.tags.length > 0){
                 resultsHTML += `<div class="searchresult">
                     <a class="search-link" href="${r.url}">${r.title}</a>
-                    <div onclick="window.location='${r.url}'">
+                    <div onclick="window.location='${r.url}'>
                         <div class="header-meta">
                             <div class="header-tags">
                                 ${r.tags.map(tag=>'<a class="tag" href="JavaScript:Void(0);" onclick="window.toggleTagSearch(this)">#'+tag+'</a>').join("")}
@@ -396,7 +405,7 @@
             } else {
                 resultsHTML += `<div class="searchresult">
                     <a class="search-link" href="${r.url}">${r.title}</a>
-                    <div onclick="window.location='${r.url}'">
+                    <div onclick="window.location='${r.url}'>
                         ${snippet}
                     </div>
                 </div>`;
