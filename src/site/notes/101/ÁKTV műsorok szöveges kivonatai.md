@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-03-12T22:40"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-03-14T00:10"}
 ---
 
 
@@ -11,6 +11,7 @@
 
 **Videók kivonatokkal** (ha igaz, idővel visszamenőleg is bővül majd a lista):  
 
+[250313CN! KITÜNTETÉS](https://rumble.com/v6qlduq-250313cn-kitntets-kubnyi-tams-ktv.html)  [https://share.note.sx/wap5lptv](https://share.note.sx/wap5lptv)
 [250312CN! PETŐFI ÉL!](https://rumble.com/v6qjivo-250312cn-petfi-l-kubnyi-tams-ktv.html)  [https://share.note.sx/v26rt0ov](https://share.note.sx/v26rt0ov)
 [250311CN! CENZÚRA!](https://rumble.com/v6qhoqu-250311cn-cenzra-kubnyi-tams-ktv.html):  [https://share.note.sx/niczy48h](https://share.note.sx/niczy48h)
 [250310CN! A MANSFELD-ÜGY](https://rumble.com/v6qfvdc-250310cn-a-mansfeld-gy-kubnyi-tams-ktv.html):  [https://share.note.sx/l56ass2r](https://share.note.sx/l56ass2r)
