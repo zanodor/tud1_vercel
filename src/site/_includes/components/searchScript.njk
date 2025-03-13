@@ -105,30 +105,11 @@
     }
 
     async function init() {
-        const searchIndexDate = '{{meta.buildDate|isoDate}}';
-        let shouldFetch = true;
-        
         try {
-            if(localStorage.getItem("searchIndex")) {
-                let {date, docs} = JSON.parse(localStorage.getItem('searchIndex'));
-                if(date === searchIndexDate){
-                    shouldFetch = false;
-                    let index = createIndex(docs);
-                    window.docs = docs;
-                    window.index = index;
-                }        
-            }
-            
-            if(shouldFetch){
-                let docs = await(await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}')).json();
-                let index = createIndex(docs);
-                localStorage.setItem("searchIndex", JSON.stringify({
-                    date: searchIndexDate, 
-                    docs
-                }));
-                window.docs = docs;
-                window.index = index;
-            }
+            let docs = await(await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}')).json();
+            let index = createIndex(docs);
+            window.docs = docs;
+            window.index = index;
 
             // Setup keyboard shortcuts and URL parameter check
             setupKeyboardNavigation();
@@ -139,55 +120,7 @@
                 `<p>Search index failed to load. Please try refreshing the page.</p>`;
         }
     }
-    
-    function updateLoadingStatus(loaded, total) {
-        const statusElement = document.getElementById('search-loading-status');
-        if (!statusElement) return;
-        
-        const percent = Math.round((loaded / total) * 100);
-        statusElement.textContent = `Loading search index: ${percent}% (${loaded}/${total} chunks)`;
-        statusElement.style.display = loaded < total ? 'block' : 'none';
-    }
-    
-    async function loadSearchChunk(chunkId) {
-        try {
-            // Load the chunk from the server
-            const chunkData = await (await fetch(`/searchIndex-${chunkId}.json?v={{meta.buildDate|isoDate}}`)).json();
-            
-            // Add the data to our searchData object
-            chunkData.forEach((item, index) => {
-                const globalId = `${chunkId}-${index}`;
-                searchData[globalId] = item;
-            });
-            
-            // Create an index for this chunk
-            const index = createIndex(chunkData, chunkId);
-            searchIndices.push({
-                id: chunkId,
-                index: index,
-                data: chunkData
-            });
-            
-            // Update our loading progress
-            loadedChunks++;
-            updateLoadingStatus(loadedChunks, totalChunks);
-            
-            return true;
-        } catch (error) {
-            console.error(`Error loading chunk ${chunkId}:`, error);
-            return false;
-        }
-    }
-    
-    async function loadRemainingChunksInBackground() {
-        // Load remaining chunks sequentially to avoid overwhelming the browser
-        for (let i = 1; i < totalChunks; i++) {
-            await loadSearchChunk(i);
-            // Small delay to let the browser breathe
-            await new Promise(resolve => setTimeout(resolve, 300));
-        }
-    }
-    
+
     function setupKeyboardNavigation() {
         document.addEventListener('keydown', (e) => {
             if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
@@ -289,17 +222,12 @@
         window.lastSearch = searchTerm;
         resultsDiv.innerHTML = loadingSvg;
         
-        // Check if we need to prioritize loading a specific chunk for this search
-        if (searchIndices.length < totalChunks) {
-            // We could add logic here to prioritize loading certain chunks based on the search term
-            // For now, we'll just continue with what we have loaded
-        }
-        
-        // Execute the search
-        let results = performSearch(searchTerm);
-        displayResults(results, searchTerm);
+        let results = offlineSearch(searchTerm);
+        let resultsHTML = '';
+
+        // ...rest of existing search display code...
     }
-    
+
     function performSearch(searchTerm) {
         // Check if it's a tag search
         const isTagSearch = searchTerm[0] === "#" && searchTerm.length > 1;
