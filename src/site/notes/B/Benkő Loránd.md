@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/B/Benkő Loránd/","title":"Benkő Loránd","created":"2023-10-23T03:42","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/B/Benkő Loránd/","title":"Benkő Loránd","created":"2023-10-23T03:42","updated":"2025-03-13T15:47"}
 ---
 
 
 # Benkő Loránd
 
-Benkőről tudni kell, hogy ő nem más, mint a nevetségesen, következetlenül összeállított TeSz I-III. köteteinek főszerkesztője.  
+Benkőről tudni kell, hogy ő nem más, mint a következetlenül összeállított TeSz I-III. köteteinek főszerkesztője.  
 Ennek ellenére pozitívan is képes nyilatkozni, ahogy alább látjuk.  
 
 [Grandpierre Atilla A magyar nemzettudat történelmi alapjai](https://mega.nz/file/56USlBpC#VdRsxEWHyOwl0TQP_xS6twiz7f9C7O3b7YxfhI_G-Iw) című cikkében idézi:  
@@ -29,4 +29,5 @@ Ennek ellenére pozitívan is képes nyilatkozni, ahogy alább látjuk.
 
 ---
 
-Az is kiderül, hogy egy Bencze Lóránt nevű nyelvész is létezik, azaz nem elírás, ketten vannak nyelvészek hasonló névvel.  
+Az is kiderül, hogy egy **Bencze Lóránt** nevű nyelvész is létezik, azaz nem elírás, ketten vannak nyelvészek hasonló névvel.  
+-  [52:13](https://www.youtube.com/watch?v=PMV1vYUZwhc&t=3133) helyen is majdnem összekeverték őket.

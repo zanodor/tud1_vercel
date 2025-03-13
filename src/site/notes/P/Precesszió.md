@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2025-01-05T21:22"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2025-03-13T03:31"}
 ---
 
 
@@ -342,7 +342,7 @@ Mindezt úgy, hogy nincs tisztában azzal sem, hogy az időszalag manipulált le
 Azt tehát nem magyarázza meg, miért kell kerekszámban számolni, vagy miért kell 18-cal szorozni illetve mi köze itt a hold- és napfogyatkozások között eltelt periódusnak.  
 
 Egy helyen megint írja, de mennyire csak találomra, azaz mi a tényleges csillagászati összefüggése, nem tudom:  
-> Ismeretes, hogy a praecessiós év az égi kerekév (= 1440 év) és a babyloniai Saros-periodusának (= 18 év) a terméke.\]  
+> Ismeretes, hogy a praecessiós év az égi kerekév (= 1440 év) és a babyloniai Saros-periodusának (= 18 év) a terméke.  
 > A babyloniaknál u. i. a tavaszpontnak helyi változása (vagyis a praecessió) 72 évben egy fokot tett ki; így tehát az egész körnek, azaz 360 foknak, vagyis a praecessiós évnek 360x72 = 25920 év felel meg. Ezzel azonban a praecessiós év analóg volt a közönséges évvel, a melynek mint kerek évnek 12 harmincznapos hónapja volt; a mennyiben u. i. a nap 12 Kasbu-ra, a kasbu pedig 6 Sussu-ra volt osztva, úgy az évnek 12 x 30 x 12 x 6 = 25920 Sussu-ja volt.  
 - A kasbu az [[H/Hour\|hour]] címnél taglalt naptizenketted azaz kettősóra.  
 

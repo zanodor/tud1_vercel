@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pan-Hu/","title":"Pan-Hu","tags":["Englishtexttranslated"],"created":"2023-11-06T12:47","updated":"2024-10-25T23:43"}
+{"dg-publish":true,"permalink":"/P/Pan-Hu/","title":"Pan-Hu","tags":["Englishtexttranslated"],"created":"2023-11-06T12:47","updated":"2025-03-13T03:38"}
 ---
 
 
@@ -149,7 +149,7 @@ A folytatásban már nemcsak a Rizs-Isten, hanem az egyetlen Tien/Ten isten (ná
 David Gordon White rituális [[F/Feldarabolás\|feldarabolás]]-képzet kapcsán írja:  
 > This reproduces a "native Chinese" tradition, dating from the Shang dynasty, that connects a dog with the ancient rice god Shang-ti, and a Ch'in and Han period sacrifice called the *lei* (a term for which the Chinese characters are "dog," "rice," and "head") that involved the offering of dog's flesh and rice, by which **a dismembered Shang-ti was ritually reintegrated and resurrected**. Under the Chou, Shang-ti becomes conflated with `Tien` (Heaven), and is accompanied, in his apotheosis, by his dog, who now becomes the Hound of Heaven, a star in Draco. The Shih chi represents Shang-ti as "Ti-Dog," the ancestor of the Hou Chih and Pai peoples.  
 > —  
-> Ez megismétli a Shang-dinasztiából származó "őslakos kínai" hagyományt, amely a kutyát az ősi rizs istenével, Shang-ti-vel hozza összefüggésbe, valamint a Ch'in és Han-korszakból származó áldozatot, amelyet *lei*-nek neveztek el (a kifejezés kínai írásjegyei a "kutya", "rizs" és "fej"), és amely kutyahús és rizs felajánlásával járt, amellyel **a feldarabolt Shang-ti-t rituálisan újraegyesítették és feltámasztották**. A Chou alatt Shang-ti összeolvad `Tien`-nel (= Menny; lásd [[T/TEN\|TEN]][^5]\]), és apoteózisában kutyája kíséri, aki most a Mennyei Kutyává, a Draco csillagává válik. A Shih chi Shang-ti-t "Ti-kutyaként" ábrázolja, a Hou Chih és a Pai népek őseként.  
+> Ez megismétli a Shang-dinasztiából származó "őslakos kínai" hagyományt, amely a kutyát az ősi rizs istenével, Shang-ti-vel hozza összefüggésbe, valamint a Ch'in és Han-korszakból származó áldozatot, amelyet *lei*-nek neveztek el (a kifejezés kínai írásjegyei a "kutya", "rizs" és "fej"), és amely kutyahús és rizs felajánlásával járt, amellyel **a feldarabolt Shang-ti-t rituálisan újraegyesítették és feltámasztották**. A Chou alatt Shang-ti összeolvad `Tien`-nel (= Menny; lásd [[T/TEN\|TEN]][^5]), és apoteózisában kutyája kíséri, aki most a Mennyei Kutyává, a Draco csillagává válik. A Shih chi Shang-ti-t "Ti-kutyaként" ábrázolja, a Hou Chih és a Pai népek őseként.  
 
 A [[S/Sárkány csillagkép\|Sárkány csillagkép]] csillagai körülbelül 5000 éve voltak cirkumpolárisak és azt tudjuk, hogy a mindenkori [[S/Sarkcsillag\|Sarkcsillag]] Isten székének fogatott fel. Talán ezért került oda a kutya, de az is lehet, hogy mivel a [[S/Sárkány\|sárkány]] címnél is legutóbb a kutyáról volt szó, a két képzet keveredett. Richard H. Allen könyvében az áll, hogy a Sárkány csk. bétájának neve **Tien Kae**. Egyéb csillagainak neve együttesen Tien Choo = Isten konyhája. Ezen elnevezések Richard H. Allen forrása szerint is a kínai asztronómia kialakulásának idejére tehetők.  
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated"],"created":"2024-10-23T20:07","updated":"2024-12-18T11:11"}
+{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated"],"created":"2024-10-23T20:07","updated":"2025-03-13T03:43"}
 ---
 
 
@@ -19,7 +19,7 @@ Pater, mint Bot-Úr lényegében ugyanazt a (profánnak nevezhető) jelentést v
 
 ...konkrétan a Balog névről írja (fontos adat, hogy a szintén Orionhoz kötött [[K/Kádár\|Kádár]]hoz hasonlóan királynév):  
 > Balog király[^1] nevének jelentése Hatalmas Óriás. Egyes nyelvészek szerint Balog "balkezes" lenne, de ez nem királynév, továbbá a magyar nyelvészek nem ismerik sem Bal (Bál), sem Og nevének jelentését. Amint írtam, a Bál név Ragyogó is, Bal-Og ezért lehet Ragyogó Óriás is. Ragyogó Óriás a Nap, vagy a Vadász csillagkép, teljesen egyértelműen, tehát Balog is a Nap földi jelképeként uralkodott.  
-- Az [[Volosz#^kjz2q\|ezen]] helyen említett szláv `volot` = óriás értelmű szó is hasonló; lásd még [[B/Bál\|Bál]] címnél nagyot, hatalmasat jelentő szavakat.
+- Az [[V/Volosz#^kjz2q\|ezen]] helyen említett szláv `volot` = óriás értelmű szó is hasonló; lásd még [[B/Bál\|Bál]] címnél nagyot, hatalmasat jelentő szavakat.
 
 
 Legutóbb [[B/Black\|black]] és [[O/Oláh\|oláh]] címnél próbáltuk megfejteni e szavak eredeti értelmét. Az [alábbi](https://maghon.weebly.com/uploads/2/0/0/3/20035969/balak_-_bulak.pdf) oldalon található törökös vonalat elvetném, bár ami ott érdekes volt az az, hogy a [[B/Black\|black]] címnél hozott perzsa `ablak` = fekete-fehér jelentéshez hasonló tarka fogalom előjött, sőt, ló is.  
@@ -52,7 +52,7 @@ De itt még Balog Zoltán Árpád cikkének nem volt vége. Amit utána írt, a 
 Mozsolics Amália régész az Orvostörténeti Múzeum közleményeiben említi a következőket:  
 > A legérdekesebb adat annak igazolására, hogy Hephaistos sántasága arzéngáz okozta munkaártalomnak minősíthető, törökországi. Még ma is mondják, ha valaki sántikálva megy: "úgy jársz mint a sánta bakardzsian (bronzműves)". Adataim a két világháború közötti időből származnak és állítólag ma már Törökországban is mindenütt modern technológiával dolgoznak. A rézművesek, ahogyan egy vasútépítő magyar mérnöktől értesültem, szinte mind sántítanak, legtöbbnyire csak egy lábra: nem lépnek a talpukra, amiből a *nervus peroneus* megbetegedésére lehet következtetni.  
 > A műhelyekben, amelyek három oldalról zártak, kis mélyedésben helyezik el a kis űrtartalmú olvasztótégelyt, amelyet agyag és quarcos homokból készítenek. E tégelyek készítése külön iparág. Az olvasztó tégelyek 2-5 literes űrtartalmúak, tehát kb. akkorák, mint a bronzkoriak lehettek. A tégelyt faparázsba helyezik, vörösre izzítják. A tűzhöz csatlakozik két fújtató, amelyek között a mester felesége vagy gyermeke állva működteti azokat reggeltől estig....  
-> A rézműves a földre helyezett üllő előtt kis gödörben térdel. Törökországban a rézművesek sántaságát több helyen a térdepléssel magyarázták. Ha ez lenne betegségük oka, akkor a térdeplés okozta sántaság a szerzetesek jellegzetes betegsége kellene, hogy legyen, nem pedig az anatóliai rézműveseké. A térdelő helyzet legfeljebb a peroneus bénulás után kialakuló zsugorodásért felelős. A rézérc pörkölésekor, öntéshez való előkészítése közben a levegőnél jóval nehezebb arzéngáz lefelé terjed, tehát közvetlenül érinti a gödörben térdelő mestert, aki a tűz előtt tartózkodik, de nem érinti a munkatársat, aki a fújtatót működteti. Figyelembe veendő az is, hogy az arzén jóval kisebb hőmérsékleten olvad mint a réz és alig van rézérc, amelyben ne lenne arzén is. Ha ezekben a kis műhelyekben feldolgozott mennyiség kevés is, de mégis az arzéntartalmú rezet olvasztják, hevítik, formálják és ezt csinálják egy életen át mint a "jártas eszű Hephaistos." Mozsolics, 1976 p. 145\]  
+> A rézműves a földre helyezett üllő előtt kis gödörben térdel. Törökországban a rézművesek sántaságát több helyen a térdepléssel magyarázták. Ha ez lenne betegségük oka, akkor a térdeplés okozta sántaság a szerzetesek jellegzetes betegsége kellene, hogy legyen, nem pedig az anatóliai rézműveseké. A térdelő helyzet legfeljebb a peroneus bénulás után kialakuló zsugorodásért felelős. A rézérc pörkölésekor, öntéshez való előkészítése közben a levegőnél jóval nehezebb arzéngáz lefelé terjed, tehát közvetlenül érinti a gödörben térdelő mestert, aki a tűz előtt tartózkodik, de nem érinti a munkatársat, aki a fújtatót működteti. Figyelembe veendő az is, hogy az arzén jóval kisebb hőmérsékleten olvad mint a réz és alig van rézérc, amelyben ne lenne arzén is. Ha ezekben a kis műhelyekben feldolgozott mennyiség kevés is, de mégis az arzéntartalmú rezet olvasztják, hevítik, formálják és ezt csinálják egy életen át mint a "jártas eszű Hephaistos." Mozsolics, 1976 p. 145.  
 
 
 > Figyelemre méltó az a tény, hogy a magyar nyelvben nem nevezik meg a kovácsot, ahogy nincs magyar szó a medvére sem.
