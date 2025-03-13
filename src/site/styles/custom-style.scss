@@ -50,3 +50,48 @@
   padding: 10px;
   text-align: center;
 }
+
+/*** Search-related styling ***/
+/* Light theme */
+.theme-light {
+  .search-loading-status {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin: 5px 0;
+    text-align: center;
+  }
+
+  .search-status {
+    margin: 0 0 10px 0;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+
+  .searchresult strong {
+    background-color: #f9f5d7;
+    font-weight: bold;
+    color: var(--text-accent);
+  }
+}
+
+/* Dark theme */
+.theme-dark {
+  .search-loading-status {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin: 5px 0;
+    text-align: center;
+  }
+
+  .search-status {
+    margin: 0 0 10px 0;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+
+  .searchresult strong {
+    background-color: rgba(251, 241, 199, 0.15);
+    font-weight: bold;
+    color: var(--text-accent);
+  }
+}
