@@ -96,61 +96,31 @@ const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 function createSearchIndex(collectionApi) {
   const allNotes = collectionApi.getFilteredByTag("note");
   
-  const searchData = allNotes.map(note => {
-    return {
-      title: note.data.title || note.page.fileSlug,
-      content: note.template.frontMatter.content || "",
-      url: note.url,
-      tags: note.data.tags ? 
-        note.data.tags.filter(tag => tag !== "note" && tag !== "gardenEntry") : 
-        []
-    };
-  });
-  
-  searchData.sort((a, b) => a.title.localeCompare(b.title));
-  
-  const CHUNK_SIZE = 200;
-  const totalChunks = Math.ceil(searchData.length / CHUNK_SIZE);
-  
-  const chunks = [];
-  for (let i = 0; i < totalChunks; i++) {
-    const start = i * CHUNK_SIZE;
-    const end = Math.min(start + CHUNK_SIZE, searchData.length);
-    chunks.push(searchData.slice(start, end));
-  }
-  
-  return {
-    chunks: chunks,
-    manifest: {
-      totalChunks: totalChunks,
-      totalNotes: searchData.length,
-      buildDate: new Date().toISOString()
-    }
-  };
+  return allNotes.map(note => ({
+    title: note.data.title || note.page.fileSlug,
+    content: (note.template.frontMatter.content || "").substring(0, 200), // Only keep first 200 chars
+    url: note.url,
+    tags: note.data.tags ? 
+      note.data.tags.filter(tag => tag !== "note" && tag !== "gardenEntry") : 
+      []
+  }));
 }
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("searchIndex", createSearchIndex);
   
-  eleventyConfig.addTransform("createSearchIndices", function(content, outputPath) {
-    if (outputPath && outputPath.endsWith('search.html')) {
+  eleventyConfig.addTransform("createSearchIndex", function(content, outputPath) {
+    if (outputPath && outputPath.endsWith('index.html')) {
       const fs = require('fs');
       const path = require('path');
-      const outputDir = path.dirname(outputPath);
+      const outputDir = './dist';
       
       const searchIndex = this.collections.searchIndex;
       
       fs.writeFileSync(
-        path.join(outputDir, 'searchManifest.json'),
-        JSON.stringify(searchIndex.manifest)
+        path.join(outputDir, 'searchIndex.json'),
+        JSON.stringify(searchIndex)
       );
-      
-      searchIndex.chunks.forEach((chunk, i) => {
-        fs.writeFileSync(
-          path.join(outputDir, `searchIndex-${i}.json`),
-          JSON.stringify(chunk)
-        );
-      });
     }
     return content;
   });

@@ -62,41 +62,29 @@
     }
 
     // Create an optimized index for a chunk of data
-    function createIndex(posts, chunkId) {
-        // Custom encoder for better memory efficiency
-        const encoder = (str) => {
-            if (!str) return [];
-            return str.toLowerCase()
-                .replace(/[^\w\s]/g, ' ')
-                .split(/\s+/)
-                .filter(word => word.length > 1);
-        };
-        
-        // Configure FlexSearch for better memory usage
+    function createIndex(posts) {
+        const encoder = (str) => str
+            .toLowerCase()
+            .replace(/[^\w\s]/g, ' ')
+            .split(/\s+/)
+            .filter(word => word.length > 1);
+
         const contentIndex = new FlexSearch.Document({
-            cache: 100,              // Limit cache size
-            charset: "latin:simple", // Simplified charset
+            cache: true,
+            charset: "latin:simple",
             optimize: true,
-            tokenize: "strict",      // More efficient tokenization
-            resolution: 9,           // Lower resolution, less memory
-            memory: {
-                memory: 128          // Limit memory usage per index
-            },
+            tokenize: "strict",
+            resolution: 9,
             index: [
                 {
-                    field: "title",  // Prioritize title searches
-                    tokenize: "forward",
-                    encode: encoder,
-                    resolution: 9
-                }, 
-                {
                     field: "content",
-                    tokenize: "strict",
-                    encode: encoder,
-                    resolution: 9,
-                    depth: 2,        // Reduce indexing depth
-                    minlength: 3,    // Only index words 3+ chars
-                    context: false   // Disable context for memory savings
+                    tokenize: "reverse",
+                    encode: encoder
+                },
+                {
+                    field: "title",
+                    tokenize: "forward",
+                    encode: encoder
                 },
                 {
                     field: "tags",
@@ -105,17 +93,15 @@
                 }
             ]
         });
-        
-        // Index each post with minimal content
+
         posts.forEach((p, idx) => {
             contentIndex.add({
                 id: idx, 
                 title: p.title, 
-                content: p.content.substring(0, 200), // Index only first 200 chars of content
+                content: p.content, 
                 tags: p.tags
             });
         });
-        
         return contentIndex;
     }
 
