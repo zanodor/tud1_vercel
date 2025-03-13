@@ -62,137 +62,58 @@
     }
 
     // Create an optimized index for a chunk of data
-    function createIndex(posts, chunkId) {
-        // Custom encoder for better memory efficiency
-        const encoder = (str) => {
-            if (!str) return [];
-            return str.toLowerCase()
-                .replace(/[^\w\s]/g, ' ')
-                .split(/\s+/)
-                .filter(word => word.length > 1);
-        };
-        
-        // Configure FlexSearch for better memory usage
+    function createIndex(posts) {
+        const encoder = (str) => str
+            .toLowerCase()
+            .split(/([^a-z]|[^\x00-\x7F])/);
+            
         const contentIndex = new FlexSearch.Document({
-            cache: 100,              // Limit cache size
-            charset: "latin:simple", // Simplified charset
+            cache: true,
+            charset: "latin:extra",
             optimize: true,
-            tokenize: "strict",      // More efficient tokenization
-            resolution: 9,           // Lower resolution, less memory
-            memory: {
-                memory: 128          // Limit memory usage per index
-            },
             index: [
                 {
-                    field: "title",  // Prioritize title searches
+                    field: "content",
+                    tokenize: "reverse",
+                    encode: encoder,
+                    resolution: 9
+                },
+                {
+                    field: "title",
                     tokenize: "forward",
                     encode: encoder,
                     resolution: 9
-                }, 
-                {
-                    field: "content",
-                    tokenize: "strict",
-                    encode: encoder,
-                    resolution: 9,
-                    depth: 2,        // Reduce indexing depth
-                    minlength: 3,    // Only index words 3+ chars
-                    context: false   // Disable context for memory savings
-                },
-                {
-                    field: "tags",
-                    tokenize: "forward",
-                    encode: encoder
                 }
             ]
         });
-        
-        // Index each post with minimal content
+
         posts.forEach((p, idx) => {
             contentIndex.add({
                 id: idx, 
                 title: p.title, 
-                content: p.content.substring(0, 200), // Index only first 200 chars of content
-                tags: p.tags
+                content: p.content
             });
         });
-        
         return contentIndex;
     }
 
     async function init() {
         try {
-            const manifest = await (await fetch('/searchManifest.json?v={{meta.buildDate|isoDate}}')).json();
-            totalChunks = manifest.totalChunks;
-            
-            // Initialize progress indicator
-            updateLoadingStatus(0, totalChunks);
-            
-            // Start by loading the first chunk (most recent/important notes)
-            await loadSearchChunk(0);
-            
-            // Setup keyboard shortcuts
+            let docs = await(await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}')).json();
+            let index = createIndex(docs);
+            window.docs = docs;
+            window.index = index;
+
+            // Setup keyboard shortcuts and URL parameter check
             setupKeyboardNavigation();
-            
-            // Check for URL search parameter
             checkForUrlSearchParam();
-            
-            // If we're not already searching, start loading additional chunks in background
-            loadRemainingChunksInBackground();
         } catch (error) {
             console.error("Error initializing search:", error);
             document.querySelector('#search-results').innerHTML = 
                 `<p>Search index failed to load. Please try refreshing the page.</p>`;
         }
     }
-    
-    function updateLoadingStatus(loaded, total) {
-        const statusElement = document.getElementById('search-loading-status');
-        if (!statusElement) return;
-        
-        const percent = Math.round((loaded / total) * 100);
-        statusElement.textContent = `Loading search index: ${percent}% (${loaded}/${total} chunks)`;
-        statusElement.style.display = loaded < total ? 'block' : 'none';
-    }
-    
-    async function loadSearchChunk(chunkId) {
-        try {
-            // Load the chunk from the server
-            const chunkData = await (await fetch(`/searchIndex-${chunkId}.json?v={{meta.buildDate|isoDate}}`)).json();
-            
-            // Add the data to our searchData object
-            chunkData.forEach((item, index) => {
-                const globalId = `${chunkId}-${index}`;
-                searchData[globalId] = item;
-            });
-            
-            // Create an index for this chunk
-            const index = createIndex(chunkData, chunkId);
-            searchIndices.push({
-                id: chunkId,
-                index: index,
-                data: chunkData
-            });
-            
-            // Update our loading progress
-            loadedChunks++;
-            updateLoadingStatus(loadedChunks, totalChunks);
-            
-            return true;
-        } catch (error) {
-            console.error(`Error loading chunk ${chunkId}:`, error);
-            return false;
-        }
-    }
-    
-    async function loadRemainingChunksInBackground() {
-        // Load remaining chunks sequentially to avoid overwhelming the browser
-        for (let i = 1; i < totalChunks; i++) {
-            await loadSearchChunk(i);
-            // Small delay to let the browser breathe
-            await new Promise(resolve => setTimeout(resolve, 300));
-        }
-    }
-    
+
     function setupKeyboardNavigation() {
         document.addEventListener('keydown', (e) => {
             if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
@@ -293,18 +214,71 @@
         
         window.lastSearch = searchTerm;
         resultsDiv.innerHTML = loadingSvg;
+
+        let results = performOfflineSearch(searchTerm);
+        let resultsHTML = '<div style="max-width:100%;">';
         
-        // Check if we need to prioritize loading a specific chunk for this search
-        if (searchIndices.length < totalChunks) {
-            // We could add logic here to prioritize loading certain chunks based on the search term
-            // For now, we'll just continue with what we have loaded
+        if (!results.length) {
+            let resultParagraph = document.createElement("p");
+            resultParagraph.innerText = `No results for "${searchTerm}"`;
+            resultsDiv.innerHTML = '';
+            resultsDiv.appendChild(resultParagraph);
+            return;
         }
-        
-        // Execute the search
-        let results = performSearch(searchTerm);
-        displayResults(results, searchTerm);
+
+        results.forEach(r => {
+            // Get context around the search term
+            const contentPreview = getSearchContext(r.content, searchTerm);
+            
+            resultsHTML += `<div class="searchresult">
+                <a class="search-link" href="${r.url}">${r.title}</a>
+                <div onclick="window.location='${r.url}'">
+                    ${contentPreview}
+                </div>
+            </div>`;
+        });
+        resultsHTML += '</div>';
+        resultsDiv.innerHTML = resultsHTML;
     }
-    
+
+    function getSearchContext(content, searchTerm) {
+        const plainText = content.replace(/<[^>]*>/g, '');
+        const termPos = plainText.toLowerCase().indexOf(searchTerm.toLowerCase());
+        
+        // Show text around the match with highlighting
+        let start = Math.max(0, termPos - 100);
+        let end = Math.min(plainText.length, start + 300);
+        let snippet = (start > 0 ? '...' : '') + 
+                     plainText.substring(start, end) + 
+                     (end < plainText.length ? '...' : '');
+
+        // Highlight the search term
+        const regex = new RegExp(`(${searchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+        return snippet.replace(regex, '<strong>$1</strong>');
+    }
+
+    function performOfflineSearch(searchQuery) {
+        let data = window.docs;
+
+        let searchResults = window.index.search(searchQuery, [
+            {field: "title", limit: 20},  // Increased from 10
+            {field: "content", limit: 100}  // Increased from 50
+        ]);
+
+        const getByField = (field) => {
+            const results = searchResults.filter((x) => x.field === field)
+            if (results.length === 0) return []
+            return [...results[0].result]
+        }
+
+        const allIds = new Set([
+            ...getByField("title"),
+            ...getByField("content")
+        ])
+
+        return [...allIds].map((id) => data[id]);
+    }
+
     function performSearch(searchTerm) {
         // Check if it's a tag search
         const isTagSearch = searchTerm[0] === "#" && searchTerm.length > 1;
@@ -398,7 +372,7 @@
             if(r.tags && r.tags.length > 0){
                 resultsHTML += `<div class="searchresult">
                     <a class="search-link" href="${r.url}">${r.title}</a>
-                    <div onclick="window.location='${r.url}'">
+                    <div onclick="window.location='${r.url}'>
                         <div class="header-meta">
                             <div class="header-tags">
                                 ${r.tags.map(tag=>'<a class="tag" href="JavaScript:Void(0);" onclick="window.toggleTagSearch(this)">#'+tag+'</a>').join("")}
@@ -410,7 +384,7 @@
             } else {
                 resultsHTML += `<div class="searchresult">
                     <a class="search-link" href="${r.url}">${r.title}</a>
-                    <div onclick="window.location='${r.url}'">
+                    <div onclick="window.location='${r.url}'>
                         ${snippet}
                     </div>
                 </div>`;
