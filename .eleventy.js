@@ -98,7 +98,7 @@ function createSearchIndex(collectionApi) {
   
   return allNotes.map(note => ({
     title: note.data.title || note.page.fileSlug,
-    content: (note.template.frontMatter.content || "").substring(0, 200), // Only keep first 200 chars
+    content: note.template.frontMatter.content || "",
     url: note.url,
     tags: note.data.tags ? 
       note.data.tags.filter(tag => tag !== "note" && tag !== "gardenEntry") : 
@@ -110,11 +110,15 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("searchIndex", createSearchIndex);
   
   eleventyConfig.addTransform("createSearchIndex", function(content, outputPath) {
-    if (outputPath && outputPath.endsWith('index.html')) {
+    if (outputPath && outputPath.endsWith('.html')) {
       const fs = require('fs');
       const path = require('path');
       const outputDir = './dist';
       
+      if (!fs.existsSync(outputDir)) {
+        fs.mkdirSync(outputDir, { recursive: true });
+      }
+
       const searchIndex = this.collections.searchIndex;
       
       fs.writeFileSync(
