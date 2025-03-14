@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2024-12-20T11:46"}
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2025-03-14T22:49"}
 ---
 
 
@@ -218,7 +218,7 @@ De arról is lehet beszélni, hogy [[B/Bál\|Bál]] nemcsak a Nap, hanem Orion n
 Itt még egy dolgot kellene vizsgálni. Azt, hogy a [[P/Precesszió\|precesszió]] milyen hatást fejt ki. Ugyanis a Nyilassal szemközti az Ikrek, aztán ott a fentebb taglalt Rák, de az Oroszlán a valódi fénymaximum helye (volt).  
 Még az is megfordult a fejemben, hogy az [[I/Ikrek csillagkép\|Ikrek csillagkép]] utalt eredetileg a [[A/Ahet\|ahet]] kapcsán is említett két szamárra, csak a precesszió miatt elcsúsztak a dolgok (nyilván téves ezen következtetés).  
 Viszont figyeljük meg még az alábbit is:  
-Az Avesztában `jamestan`-ként szerepel a tél. Ennek jelentése nyilván Jáma/[[Y/Yama\|Yama]] országa (a Nap az alvilágban jár). Ezen Yama viszont a [[G/Gemini\|gemini]] és más címszavaknál írottak szerint az Ikrekre utal.  
+Az Avesztában `jamestan`-ként szerepel a tél. Ennek jelentése nyilván Jáma/[[Y/Yama\|Yama]] országa (a Nap az alvilágban jár). Ezen Yama viszont a [[G/Gemini\|Gemini]] és más címszavaknál írottak szerint az Ikrekre utal.  
 
 ## Lábjegyzetek
 
@@ -227,8 +227,8 @@ Práczki István Szittya Biblia című könyvének 120-121. oldalán ugyanezt ve
 A marha nemcsak lábasjószágot, hanem vagyont is jelentett valaha, nem is oly régen. A magyar szó előbb istent, aztán müveltet és magas urat, majd végül a gazdagot és a gazdagságot is jelentette. A magyar< mahar név volt maga a gazdagság. Sok marhája van, a nagy vagyont is jelentette. De, ne feledjük a marha-/a mahar< magyar/ az oktondit is mondja. Az igazságnak tartozunk azzal, ha bevalljuk hogy a marha-ság éppoly ősi jelző, mint a sumér-ság, ami manapság már a szamárságot jelenti. \[Péterfai János ezt át is vette tőle, mármint a buta vagy inkább az [[O/Ostoba\|ostoba]] szó magyarázatául is ezt az elvet követte.\]  
 
 [^2]: Lábjegyzet:  
-Lásd: https://en.wiktionary.org/wiki/%D7%97%D7%9E%D7%95%D7%A8  
-Lásd még itt: https://biblehub.com/hebrew/2543.htm  
+Lásd: [https://en.wiktionary.org/wiki/%D7%97%D7%9E%D7%95%D7%A8](https://en.wiktionary.org/wiki/%D7%97%D7%9E%D7%95%D7%A8)  
+Lásd még [itt](https://biblehub.com/hebrew/2543.htm).
 
 [^3]: Lábjegyzet:  
 Péterfai János egy helyen megvédi a román szót (nem lát(tat) benne ellenszenvet):  
