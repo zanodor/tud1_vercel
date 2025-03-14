@@ -1,0 +1,160 @@
+/***
+  ADD YOUR CUSTOM STYLING HERE. (OUTSIDE ANY SELECTOR.)
+  IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+***/
+
+
+/*** Transcluded elements double blockquote fix ***/
+
+.markdown-preview-view .markdown-embed-content .markdown-rendered blockquote {
+  margin-left: -60px;
+  padding-left: 12px;
+}
+
+.internal-embed .markdown-rendered blockquote {
+  margin-left: 0px;
+  padding-left: 20px;
+}
+
+
+/*** Mermaid diagram background changes to blend in with Gruvbox backgrounds ***/
+
+/* For mermaid elements within callouts - Light Mode */
+.theme-light .markdown-preview-view pre.mermaid {
+  background: #f9f5d7 !important;
+  border-radius: 25px;
+  padding: 10px;
+  text-align: center;
+}
+
+/* For mermaid elements within callouts - Dark Mode */
+.theme-dark .markdown-preview-view pre.mermaid {
+  background: #1f1f1f !important;
+  border-radius: 25px;
+  padding: 10px;
+  text-align: center;
+}
+
+/* For standalone mermaid elements - Light Mode */
+.theme-light .mermaid {
+  background: #f9f5d7 !important;
+  border-radius: 25px;
+  padding: 10px;
+  text-align: center;
+}
+
+/* For standalone mermaid elements - Dark Mode */
+.theme-dark .mermaid {
+  background: #1f1f1f !important;
+  border-radius: 25px;
+  padding: 10px;
+  text-align: center;
+}
+
+/*** Search-related styling ***/
+/* Light theme */
+.theme-light {
+  .search-loading-status {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin: 5px 0;
+    text-align: center;
+  }
+
+  .search-status {
+    margin: 0 0 10px 0;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+
+  .searchresult strong {
+    background-color: #f9f5d7;
+    font-weight: bold;
+    color: var(--text-accent);
+  }
+}
+
+/* Dark theme */
+.theme-dark {
+  .search-loading-status {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin: 5px 0;
+    text-align: center;
+  }
+
+  .search-status {
+    margin: 0 0 10px 0;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+
+  .searchresult strong {
+    background-color: rgba(251, 241, 199, 0.15);
+    font-weight: bold;
+    color: var(--text-accent);
+  }
+}
+
+/*** Fix right sidebar visibility and positioning ***/
+@media (min-width: 1200px) {
+    /* Left filetree is 250px wide */
+    /* Right sidebar is now 370px wide (increased from 350px) */
+    .content {
+        max-width: 700px;
+        margin-left: calc(250px + 40px); /* filetree width + some padding */
+        margin-right: calc(370px + 40px); /* Adjusted for new sidebar width */
+        position: relative;
+    }
+
+    .sidebar {  /* This is the right sidebar */
+        position: fixed;
+        top: 75px;
+        right: 17px;
+        transform: none;
+        max-width: 370px; /* Increased from 350px */
+        padding: 0;  /* Remove padding from sidebar itself */
+    }
+
+    .toc, #link-graph {
+        border-radius: 10px;
+        margin-left: 5px; /* Pull content slightly away from left edge */
+        width: calc(100% - 5px); /* Ensure content stays within sidebar */
+    }
+
+    .toc, .backlinks {
+        width: 100%;  /* Use full width */
+        margin: 0;  /* Remove margins */
+        padding: 15px;  /* Internal padding */
+        box-sizing: border-box;  /* Include padding in width */
+        background-color: var(--background-primary);
+        border-radius: 10px;
+    }
+
+    .sidebar-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        gap: 20px;
+        width: 100%;
+        height: 87vh;  /* Fix height to enable proper scrolling */
+        padding: 0 20px 0 0;  /* Add padding only on right side for scrollbar */
+        margin-left: 20px;  /* Move content left instead of using left padding */
+        overflow-y: auto;  /* Enable scrolling */
+    }
+
+    .toc {
+        display: block !important;
+    }
+}
+
+/* Ensure proper stacking */
+.sidebar {
+    z-index: 2;
+    background-color: var(--background-secondary);
+}
+
+.content {
+    position: relative;
+    z-index: 1;
+}
