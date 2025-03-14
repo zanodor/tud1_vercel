@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-03-14T01:45"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-03-14T22:17"}
 ---
 
 
@@ -14,7 +14,7 @@ Azaz tervezem a valamikori angol fordítást is (egyes helyeken fordítani sem k
 
 
 
-A weboldalon nem szerepel sem reklám, sem pedig kávé ellátmányom pótlására buzdító felhívás. Igyekszem ingyen kegyelemből azt adni, amit minden magyar és nem magyar embernek mindig is kapnia kellett volna.  
+A weboldalon nem szerepel sem reklám, sem pedig a kávé ellátmányom pótlására buzdító felhívás. Igyekszem ingyen kegyelemből azt adni, amit minden magyar és nem magyar embernek mindig is kapnia kellett volna.  
 
 ## Köszönetnyilvánítás
 
@@ -24,7 +24,7 @@ Köszönöm a családom támogatását; az efféle munkát végezni képes ember
 
 Köszönettel tartozom a velem annak idején magánlevelezéseket is vállaló [Péterfai János István](https://magyarmegmaradasert.hu/kozerdeku/nekunk-irtak/itemlist/tag/P%C3%A9terfai%20J%C3%A1nos%20Istv%C3%A1n)nak, akit beavatómként, mentoromként tisztelhetek. Az ő írásai indítottak arra a pályára, amelyre mindig is szánt az Elküldő.  
 
-Végezetül hálás vagyok az [Obsidian](https://obsidian.md) nevű program készítőinek, és köszönet illeti a [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) bővítmény készítőjét és segítőit, hogy szintén ingyenesen nyújtanak lehetőséget a webes applikáció (Vercel, Netlify vagy más szolgáltatókon keresztüli) létrehozására. Ezek gyümölcsét látja most az olvasó.  
+Végezetül hálás vagyok az [Obsidian](https://obsidian.md) nevű program készítőinek, és köszönet illeti a [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) bővítmény készítőjét és segítőit, hogy szintén ingyenesen nyújtanak lehetőséget a webes applikáció (Render, Vercel, Netlify vagy más szolgáltatókon keresztüli) létrehozására. Ezek gyümölcsét látja most az olvasó.  
 
 
 
@@ -58,11 +58,11 @@ Felül a borítékra kattintva lehet bármelyik oldalról email-t küldeni: az a
 A boríték mellett a három ikon értelemszerűen a téma színváltoztatását szolgálja: világos – sötét – automatikus. Legalábbis ez lett volna a cél; jelenleg leginkább átvált egyikről a másikra, mindegy hova kattint az ember, de ez is megfelel, sőt.  
 
 Amennyiben 1400 pixelszélességnél kisebb képernyőn tekinti meg az oldalt, akkor a mobil alkalmazásnak megfelelő nézetet kapja. Ilyenkor asztali gépen vagy laptopon az oldal jobb áttekinthetősége és funkcióinak könnyű elérése végett érdemes kipróbálni 90%-os nagyításban, mely állapothoz a CTRL és mínusz gomb lenyomásaival juthat.  
-- A jövőben vélhetően erre is egy automatikus megoldás születik majd, így ezzel majd nem kell foglalkozni.  
+- A jövőben vélhetően erre is egy automatikus megoldás születik majd, így ezzel majd nem kell foglalkozni.
 
 Egyes helyeken, ahol a Wikilinkek után közvetlenül egy kötőjel vagy rag következik, egy felesleges szóköz jelenhet meg. Ennek okát nem tudom; talán a Google automatikus fordítójának bekapcsolt állapota okozza. Az én gépeimen és böngészőimben ez a probléma nem áll fenn, de az olvashatóságot annyira nem befolyásolja, hogy ezért bárminemű szoftveres beavatkozást eszközöljek.  
 
-Egy másik dolog, hogy hosszabb cikkek betöltésénél az olvasó nem tud rögtön görgetni, mert az adott oldal, cikk (teljes) betöltéséig az app nem reagál. Várni kell, míg az oldal felépíti magát a grafikonnal és több más kiegészítő adattal. Hogy ez előfordulhat kisebb cikkek esetében is, annak az lehet az oka, hogy egyébként még a háttérben valami dolgozik, indexel. Pár másodperc után a felhasználó már szabadon kalauzolhatja magát a kezelőfelületen.  
+Egy másik dolog, hogy hosszabb cikkek betöltésénél az olvasó nem tud rögtön görgetni, mert az adott oldal, cikk (teljes) betöltéséig (illetve a kereső inicializálásáig) az app nem reagál. Várni kell, míg az oldal felépíti magát a grafikonnal és több más kiegészítő adattal. Hogy ez előfordulhat kisebb cikkek esetében is, annak az lehet az oka, hogy egyébként még a háttérben valami dolgozik, indexel. Pár másodperc után a felhasználó már szabadon kalauzolhatja magát a kezelőfelületen.  
 
 Az is kiderült, hogy sajnos az ingyenes app korlátai közé tartozik az app-építés időbeli limitje. Ami az jelenti, hogy néhány ezer file-ban kell maximalizálnom a feltöltést. A fontosabb témák mindegyike viszont feltöltésre kerül.  
 
@@ -110,8 +110,7 @@ Az írásban leginkább a fejedelmi többest használom, abban bízva hogy együ
 
 ### A tartalom
 
-Elsődlegesen nyelvészeti oldalról közelítem meg a cikkek zömét, melyek közül kezdetben mindent nem is jelenítek meg publikusan, mert az ingyenes kereteimet rögtön az elején feleslegesen nem szeretném feszegetni.  
-
+Elsődlegesen nyelvészeti oldalról közelítem meg a cikkek zömét.  
 A nyelvészeti vonalat csillagászati, jobban mondva csillagmitológiai, vagy ha úgy tetszik: asztroteológiai háttérbe helyezve járom körül, nem megfeledkezve a társtudományokról, melyek közül a történelem, művészettörténet és főképpen a néprajz kevésbé, a régészet, és a manapság oly divatossá váló – és mindenféle áltudományosságot magával vonhatóan veszélyes – fajkutatás inkább maradt ki eddig a szórásból, de az új olvasmányokkal a feltárt területek bővülnek és (kis mértékben) változtathatnak az eddig feltárt alapok és arra épülő téglák szerkezetén, de nekünk az alapokkal kell először tisztában lenni (a téglákat kell megtisztítani), valamint meg kell tanulni az egymásnak ellent mondó információkat kezelni, ezeket mindenképpen helyre tenni.  
 
 Az alábbiakban a korábban itt – magamnak – felvázolt témákat közlöm, melyek az egyes szócikkekben szereplő ismeretek feltárásának főbb motiváló tényezőiként vagy éppen azok létrejöttének magyarázataként tarthatók számon.  
