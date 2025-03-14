@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2024-12-20T11:44"}
+{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2025-03-14T22:48"}
 ---
 
 
@@ -53,7 +53,7 @@ Lásd még...
 
 #### Velikovsky In the Beginning...  
 
-...című könyvéből vett passzusát (ő nem értette miért övezte ilyen tisztelet a bolygót, én meg azt nem miért gondolja "inconspicuous"-nek):  
+...című könyvéből vett passzusát (ő nem értette, miért övezte ilyen tisztelet a bolygót, én meg azt nem, miért gondolja feltűnésmentesnek):  
 > The Greek divinities respectively connected with the five planets are Kronos, Zeus, Arês, Aphrodîtê, and Hermês, the reason being that they were considered. the analogues of Ninip, Marduk, Nirgal, Istar, and Nabû, who were similarly connected with the planets in the Babylonian scheme. The Romans, in turn, acting on the same principle with respect to the Greeks, made Saturnus, Jupiter, Mars, Venus, and Mercurius their planetary gods, whence our modern names for the planets. This very familiar example illustrates the almost slavish dependence in early times of Greek upon Babylonian astronomy. To the mythologist the equations thus established are very interesting. Thus, Ninip was a Sun-god, 'the meridian sun' (W. A. I. II. lvii. 51), a circumstance which illustrates the undoubtedly solar element in the concept of Kronos (Vide R. B. Jr., Sem. Part III. Sec. xiii.).  
 > Saturn is not a conspicuous planet in the sky. Were it not for its sluggish movement, an unaided eye would hardly distinguish it from the surrounding stars. In many ancient sources Saturn is called "sun." The usual name for Saturn in Chaldean astronomy was Alap-Shamas, meaning "Star of the Sun." Diodorus of Sicily reported that the Chaldeans called Cronos (Saturn) by the name Helios, or the sun, and he explained that this was because Saturn was the most conspicuous of the planets; Hyginus also wrote that Saturn was called "Sol." In the Babylonian astrological texts the word Shamash (Sun) was used to designate Saturn: "We learn from the notes written by the astrologers that by the word 'sun' we must understand the 'star of the sun,' i.e., Saturn." Ninib was the Babylonian name for Saturn: "Ninib in various places is said to shine like the sun." He was known as `UT-GAL-LU`, the "great sun of storms." The Greeks used to call Saturn Phaenon, "the shining one."  
 > —  
@@ -77,9 +77,9 @@ Ninib a [[D/Dél\|dél]]i égtáj, a lustítóan forró déli óra és a heti pi
 Robert Graves The White Goddess című könyvében ezt már leírta a Szaturnusz és dél/tél kapcsolatáról:  
 > Ninib, the Assyrian Saturn, was the god of the South, and therefore of the noon-day Sun, and also of mid-Winter when the Sun attains its most southerly point and halts for a day.  
 > —  
-> Ninib, az asszír Szaturnusz a Dél istene volt, ezért a déli Napé, és a tél közepéé is, amikor a Nap eléri legdélibb pontját, és egy napra megáll.
+> Ninib, az asszír Szaturnusz a Dél istene volt, ezért a déli Napé, és a tél közepéé is, amikor a Nap eléri legdélibb pontját, és egy napra megáll.  
 
-[[Z/Zamistán\|Zamistán]], [[T/Tél\|tél]] és [[G/Gemini\|gemini]] címnél tovább is megyünk: az indo-iráni [[Y/Yama\|Yama]] (Szaturnusz) adja ki nemcsak az ind, de a kelta és latin telet jelentő szavakat is!  
+[[Z/Zamistán\|Zamistán]], [[T/Tél\|tél]] és [[G/Gemini\|Gemini]] címnél tovább is megyünk: az indo-iráni [[Y/Yama\|Yama]] (Szaturnusz) adja ki nemcsak az ind, de a kelta és latin telet jelentő szavakat is!  
 
 #### Jankovics Marcell folytatja:  
 
@@ -129,7 +129,7 @@ A Szaturnusz-ciklussal függhet össze, hogy egykor egy emberöltő hosszát is 
 
 Még mindig Jankovics Marcell írja:  
 > Hasonló volt a helyzet az ókori Egyiptomban, és a kutatók a római [[S/Saturnalia\|Saturnalia]] rendhagyó szokásai mögött is ilyen, szökőnapokra vonatkozó hiedelmi megfontolásokat látnak, s úgy hiszik, ez magyarázza a középkori "Bolondok ünnepe" szokásvilágát is. Szerepe lehetett ebben a Szaturnusz Babilonból már ismert, és a zsidó naptári-vallási gyakorlatban fennmaradt baljós megítélésének. Nevezetesen, hogy a Szaturnusz égisze alatt ([[S/Szombat\|szombat]]on) nem érdemes, sőt tilos bármibe belefogni, mivel úgy is balsikerű lesz a kimenetele. Ezt a hiedelmet a rómaiak a Saturnalia időtartamára is kiterjeszthették, sőt, a planéta uralma alá eső két teljes csillagászati hónapnak, a Bak és a Vízöntő havának az idejére. Mondhatnék fordítva is: azért adták épp e két terméketlen, haszontalan hónapot Szaturnusznak, mert így okozhatta a legkevesebb kárt, s ezért nem csináltak jóformán egyebet ebben az időszakban, mint pihentek és ünnepeltek. Nem kölcsönzésről van szó. A Szaturnusz (Kronosz) a görög mitológiában is a káoszt képviseli, mint a megszemélyesített Káosz planétában megtestesülő unokája. Az is érthető, hogy a felfordulás napjait épp a napfordulat idejére tették, s hogy úgy gondolták: e haszontalan napokon, amikor a Nap is pihen (keletpontja alig mozog), és amelyen a Pihenés és a Rendetlenség égi ura parancsolt, csak pihenni vagy bolondságot érdemes művelni. S ez így van rendjén az emberi természetet illetően is. A rendetlenség alkalmankénti hosszú pórázra engedése a rendszeretetet erősíti bennünk.  
-> 
+>
 > A kozmikus körforgásra utal a mezopotámiai Szaturnusz, Ninib \[sumér [[N/Ninurta\|Ninurta]]\] és a görög [[A/Aszklépiosz\|Aszklépiosz]] jelvénye, a bot a rácsavarodó kígyóval, vagy a heszperiszek aranyalmafájára tekeredő kígyó.  
 
 A Nap és Szaturnusz asztrológiai és fémjei ([[A/Arany\|arany]] vs. [[O/Ólom\|ólom]]) szembenállásáról lásd [[N/Nap\|Nap]].  
@@ -213,7 +213,7 @@ Szintén Jankovics Marcelltől származik a [[N/Nap\|Nap]] címnél is szereplő
 > **A csillaghitben az esztendő drámai cselekményének a váza a Nap-Hold kettős és a Szaturnusz ellentétére épül**, amit a többi planétához való viszonyuk színez, és a csillagképek háttér ábrái töltenek fel "eseménnyel". A mítoszok, mesék szerkezete is "asztrologikus". A világképi program szerint ugyanis "lent" is mindennek aszerint kell történnie, ahogy az "fent" zajlik, a világnak törvényt szabó kozmikus istenek körében.  
 > A Nap féme minden kultúrában az [[A/Arany\|arany]] volt. A Nap megdermedt vérének, érccé keményedett sugarának hitték. Csak uralkodócsaládok sarja viselhette, akiben a Nap vére folyt. Az arany[[K/Korona\|korona]], a tollkoronák ércmása az "aranyhajat", a napsugarakat jelképezte (a csillagászok a Nap sugárövezetét ma is "koronának" hívják).  
 > **Arany és ezüst, a Nap és a Hold féme a mérgező szaturnikus ólom ellensége az alkímiában, asztrológiában és a mesei szimbolikában** (az aranyhajú hőst ólomszellő altatja el, a gonosz *Ólombarát* erejét a hős aranya apasztja el). Világügyelő férfit Arany Úrnak is nevezték, arany a haja, arany a fegyvere, és a lova is arany tányérokra száll le (a mesebeli kertészbojtár a lovát aranytányér szélén táncoltatja; az ekliptika jelképe ez).
-> 
+>
 > A szoláris mítoszokban és mesékben, az asztrológiában és alkímiában a Nap és Hold vállvetve harcolnak a Szaturnusz-sárkány ellen. A Hold hol fegyveres bajtársként, hol táltosparipa képében – erre nézve a sok holdas paripaábrázolás és holdas lónév a bizonyság – segít a sárkány legyőzésében.  
 
 Az alábbi adatsorában Szent Margittal kapcsolatosan is a sárkányt Szaturnusszal azonosítja:  
