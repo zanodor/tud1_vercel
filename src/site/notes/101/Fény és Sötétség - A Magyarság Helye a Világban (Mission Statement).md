@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-03-14T00:09"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-03-14T01:21"}
 ---
 
 
@@ -38,7 +38,7 @@ Mivel a kutatás folyamatos és az elkövetkezendő mintegy 40-50 (500-1000?) é
   
 A közben angolról magyarra fordított feliratokról pár szót:  
 
-A **Search**: **Keresés**. Control+K (Mac-en CMD+K) billentyűk együttes lenyomásával is elérhető. Remélhetőleg sok ezer állománynál is valósidejű, azaz gyors marad.  
+**Keresés**. Control+K (Mac-en CMD+K) billentyűk együttes lenyomásával is elérhető. Remélhetőleg sok ezer állománynál is valós idejű, azaz gyors és működőképes marad.  
 
 Az **Oldal tartalma** a jelenleg megnyitott cikk tartalomjegyzéke, címsorok szerint. Hosszabb állományokban hasznos igazán, vagy ha valaki pl. Jankovics Marcell vagy más véleményére akar rögtön ugrani. Igyekeztem a szerzők neveit így kiemelni mindenhol, ahol lehetett.  
 
