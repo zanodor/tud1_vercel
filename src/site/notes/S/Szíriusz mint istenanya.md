@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mint istenanya/","title":"Szíriusz mint istenanya","created":"2023-11-30T08:53","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mint istenanya/","title":"Szíriusz mint istenanya","created":"2023-11-30T08:53","updated":"2025-03-17T21:50"}
 ---
 
 
@@ -11,7 +11,7 @@ Az alant írottak alapján a cím inkább Szíriusz, az Istenanya/Tejútanya fej
 #### Jankovics Marcell írja:  
 
 > A Szent Iván-napi májusfa és persze a [[K/Karácsonyfa\|karácsonyfa]] a mondott speciális konjukcióra figyelmeztető jelképek. Ebben az összefüggésben a karácsonyfa a [[T/Tejút\|Tejút]], a tövén, a jászolban fekvő kisded a megszületett (a [[T/Téli napforduló\|téli napforduló]]kor a Tejúttal együtt álló) Napot jelképezi, a fára aggatott "aranyalmák" a kívánt együttállásban lévő planétákat szimbolizálják, a fa tetején levő csillag pedig az ég legfényesebb csillagának, a Tejút másik végén lévő Szíriusznak a képe, aminek a szomszédságában nyáron jár a Nap, s amelyik csillag karácsony táján ragyog legtovább az égen. (**Mind a fa, mind a Tejút, mind pedig a Szíriusz a nagy istenanyát, Szűz Mária előképét testesítette meg a kereszténység előtti időkben**[^2].)  
-- [[T/Tejút\|Tejút]] és [[K/Karácsonyfa\|karácsonyfa]] címeknél is szerepelt. Lásd még [[F/Fa és nő\|fa és nő]], [[N/Nut\|Nut]] és [[A/Anna\|Anna]] címnél írottakat.  
+- [[T/Tejút\|Tejút]] és [[K/Karácsonyfa\|karácsonyfa]] címeknél is szerepelt. Lásd még [[F/Fa és nő\|fa és nő]], [[N/Nut\|Nut]] és [[A/Anna\|Anna]] címnél írottakat.
 
 [[A/Anna\|Anna]] és [[A/Annual\|annual]] címnél szintén szerepelt, hogy miképp van köze az Anyaistennőnek az Év jelentésű latin szó kialakulásához. Érdekes, hogy nem Nap jelentésű etimont használunk sem annus, sem aevum esetében. Sőt, utóbbi kimondottan kor jelentésű. Az Év ugyanis nemcsak a Naphoz mért éves járásra utal, hanem a Nagy Évre is. Indirekt bizonyítéka újfent mindez annak, hogy eleink ismerték a precessziót (naná). Ami a Szíriuszt és a Nagy Anyával való megfeleltetését illeti, az ind [[S/Sarama\|Sarama]] is ősszuka, de ami itt fontosabb, hogy [[S/Sothic\|Sothic]] címnél írottak szerint is az évet hozzá mérten számolták. És ha a Kis Évet számolták, akkor a Nagy Évet is. Nyilvánvaló.  
 De ha már az An, Ana, (Sar)Ama nevek Szíriuszhoz való kapcsolásáról van szó, [[A/Andra\|Andra]], [[A/András\|András]] és [[O/Other\|other]] címnél szintén hasonló eredményekhez jutottunk.  
@@ -20,7 +20,8 @@ De ha már az An, Ana, (Sar)Ama nevek Szíriuszhoz való kapcsolásáról van sz
 
 ...című az Ősi Gyökér 2011/4. sz. megjelent cikkében is Jankovics Marcellhez hasonlóan írja:  
 > Az ég kiemelt csillagképe a Canis Mayor, a Nagy Kutya csillagkép, kinek vezércsillaga a Szíriusz az Istenanya megszemélyesítője, az égi Boldogasszony, Szűz Mária sorshordozó csillaga.  
-> A Gyárfás Ágnes által írott cikkekben előjövő **Circirka Anna** név is Szíriusz mint istenanya szerepére mutat rá.  
+
+A Gyárfás Ágnes által írott cikkekben előjövő **Circirka Anna** név is Szíriusz mint istenanya szerepére mutat rá.  
 
 [[C/Csudaszarvas\|Csudaszarvas]], [[K/Karácsonyfa\|karácsonyfa]], [[T/Tündér Ilona\|Tündér Ilona]] és [[I/Ilona\|Ilona]] címnél is szerepeltek az azóta [[T/Tejútanya-testtájékok\|Tejútanya-testtájékok]] címhez tett, korábban itt álló adatok. Lásd kitérőt ott.  
 
