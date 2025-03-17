@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csűr/","title":"Csűr","created":"2023-10-23T02:34","updated":"2024-11-07T01:01"}
+{"dg-publish":true,"permalink":"/C/Csűr/","title":"Csűr","created":"2023-10-23T02:34","updated":"2025-03-17T21:52"}
 ---
 
 
@@ -17,7 +17,7 @@
 
 [[B/Barn\|Barn]] szónál írtuk, hogy akár [[M/MAG\|mag]]tárnak, [[S/Szín\|szín]]nek, csűrnek fordítjuk, mindegyik szavunk tartalmazza a fényt, azaz csillag (Nap) neveket. [[B/BAR\|BAR]] szintén a Nap neve.  
 A csűr az a hely, ahol a fényt tároljuk. Az anyag a fényt is tartalmazza, általa válik élővé, láthatóvá (eszközzé az élet(ünk) számára).  
-Ezen nőiségi-telluris csűr előjött [[O/Obscure\|obscure]] szónál is, ahol az orosz `csornüj` = fekete és szlovák `cserni` = fekete szavakat is a Nap [[C/CSER\|CSER]], [[K/KER\|KER]] neveivel vetettük össze. Ahogy a hasonló szóalakú és a szintén zavaros, homályos jelentésű [[T/Turbid\|turbid]] szónál megjegyeztük, a nyári napfordulós téridőbeli pontra utalva a sötét félév onnan kezdődik.  
+Ezen nőiségi-telluris csűr előjött [[O/Obscure\|obscure]] szónál is, ahol az orosz `csornüj` = fekete és szlovák `cserni` = fekete szavakat is a Na[[C/CSER\|CSER]]]], [[K/KER\|KER]] neveivel vetettük össze. Ahogy a hasonló szóalakú és a szintén zavaros, homályos jelentésű [[T/Turbid\|turbid]] szónál megjegyeztük, a nyári napfordulós téridőbeli pontra utalva a sötét félév onnan kezdődik.  
 
 Csűr igeként rengeteg szóban van jelen utódnyelveinkben. Alapfogalom mindben a forgás, forgatás, csavarás. A kiinduló alapszó [[T/TUR\|TUR]].   
 Tulajdonképpen a Csűr tökéletes példája Cs-előhangjával annak, hogy a K- és T-előhangos [[K/Kör\|kör]] értelmű szavak átmenetét lássuk benne. A [[G/Gyűrű\|gyűrű]] is ilyen szó.  
