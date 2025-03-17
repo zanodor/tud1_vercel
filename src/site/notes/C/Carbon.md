@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Carbon/","title":"Carbon","created":"2023-11-19T06:37","updated":"2024-10-25T16:13"}
+{"dg-publish":true,"permalink":"/C/Carbon/","title":"Carbon","created":"2023-11-19T06:37","updated":"2025-03-17T21:52"}
 ---
 
 
@@ -7,8 +7,11 @@
 
 Szén. Magyar Adorján csak annyit tud mondani, hogy [[K/Korom\|korom]] szóval a legközvetlenebbül azonos a latin `carbo` (karbo) = szén szó.  
 A Kar(a)-Bon eredetibbnek tűnik, Fekete Nap értelemben. A [[G/Garabonciás\|garabonciás]] neve is hasonlóan épül.  
-Mivel a [[K/Kara\|kara]] lehet [[S/SZAR\|SZAR]] szavunk k-előhangos/kentumos változata, ezért a carbon = szén is, mivel teljesen szét- azaz szarrá rohadt hulladékból jön – egyrészt – létre, szintén megközelíthető e módon. A [[C/Crap\|crap]] szó is k-előhangos, mégis szart jelent. Valójában a [[C/Crow\|crow]] és [[E/Európa\|Európa]] címnél taglalt sémi sötétséget jelentő szavak mellé valók.  
+Mivel a [[K/Kara\|kara]] lehet [[S/SZAR\|szar]] szavunk k-előhangos/kentumos változata, felmerülhet a gondolat, hogy a `carbon` = szén szó is ide kapcsolódhat, bár a szén nem teljesen szét- vagy "szarrá" rohadt, hanem részben lebomlott növényi anyagból keletkezik hosszú idő alatt, geológiai folyamatok során. Ennek ellenére, ha a hangalaki hasonlóságot nézzük, a `carbon` és a `szar` közötti feltételezett kapcsolat továbbra is érdekes lehet. A [[C/Crap\|crap]] szó is k-előhangos és szart jelent, ami megerősítheti ezt a hangalaki kapcsolódást.  
+Valójában a [[C/Crow\|crow]] és [[E/Európa\|Európa]] címnél taglalt sémi sötétséget jelentő szavak mellé valók.  
 Lásd [[C/Char\|char]]. Lásd még [[C/Cremate\|cremate]].  
+
+Így a szöveg pontosabbá válik a szén keletkezését illetően, de megtartja az eredeti gondolatmenetet a hangalaki hasonlóságok és a szavak közötti feltételezett kapcsolatok terén.
 
 ## Karbon-körforgás
 
