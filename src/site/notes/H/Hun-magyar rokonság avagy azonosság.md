@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hun-magyar rokonság avagy azonosság/","title":"Hun-magyar rokonság avagy azonosság","created":"2024-03-01T21:37","updated":"2024-10-25T21:52"}
+{"dg-publish":true,"permalink":"/H/Hun-magyar rokonság avagy azonosság/","title":"Hun-magyar rokonság avagy azonosság","created":"2024-03-01T21:37","updated":"2025-03-17T21:51"}
 ---
 
 
@@ -13,7 +13,7 @@ A rokonság és azonosság kapcsán ismét fel kell említenem, hogy a hunok egy
 A Századok 1940. január-márciusi kiadványban helyet kapó [[C/Carlile Aylmer Macartney\|Carlile Aylmer Macartney]] Pascua Romanurum című írásában a hun-magyar rokonságot bizonyító iratok hiányáról és meglétéről esik szó. Például amikor Widukindot (Rerum Gestarum Saxonicarum) említi, azt írja róla, hogy azonosítja a magyarokat a hunokkal. A továbbiakban továbbra is kétkedve tekint az alábbi azonosításokra is:  
 > Az Annales Fuldenses következetesen azonosítják a magyarokat az avarokkal, Einhardt az avarokat a húnokkal, Konstantinos Porphyrogenetos a délszlávokról szóló fejezeteiben az avarokat a szlávokkal, majd meg Attila népével; Viterbói Gottfried nagyműveltségű polihisztor létére a hunokat az avarokkal, sőt – akárcsak a gótokat – a longobardokkal is összetéveszti.  
 
-A [[B/Bíborbanszületett Konstantin\|Bíborbanszületett Konstantin]] féle adatot [[A/Avar#Avarok és szlávok azonossága és az elmélet cáfolata\|avarok és szlávok azonossága és az elmélet cáfolata]] cím/alcímhez is bekerült.  
+A [[B/Bíborbanszületett Konstantin\|Bíborbanszületett Konstantin]] féle adat [[A/Avar#Avarok és szlávok azonossága és az elmélet cáfolata\|avarok és szlávok azonossága és az elmélet cáfolata]] cím/alcímhez is bekerült.  
 
 #### Götz László Keleten kél a Nap...
 
