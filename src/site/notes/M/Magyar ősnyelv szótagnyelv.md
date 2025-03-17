@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["containstransclusions"],"created":"2023-10-09T06:36","updated":"2024-11-23T05:17"}
+{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["containstransclusions"],"created":"2023-10-09T06:36","updated":"2025-03-17T21:50"}
 ---
 
 
@@ -22,7 +22,8 @@ Ha már kő, Baráth Tibor A magyar népek őstörténete I. kötetének 80. old
   
 
 Mint kiderül Rédei Károly Őstörténetünk kérdései című okoskodás-gyűjteményéből (ahol a több helyen idézett Hegedűs Józsefhez hasonló dilettáns nyelvhasonlítási kísérletekről ír), Kúr Géza volt vagy lehetett egyik úttörője annak, hogy a szavakat szótagszinten kell értelmezni:  
-> Az etruszk-magyar rokonság híve Kúr Géza (Etruszkok Magyarországon? Ohio, Warren 1970; Az etruszk-magyar rokonság I-II. uo. 1966, 1968). Kur eljárása az, hogy a magyar szavakat szótagokra bontja és azokat egyezteti etruszk szavakkal. Például: etruszk `ax` ~ m. ah 'sóhajtás, óhajtás, vágy; emelkedni, jobb sorsa kerülni'; etruszk `mar` ~ m. marad.  
+> Az etruszk-magyar rokonság híve Kúr Géza (Etruszkok Magyarországon? Ohio, Warren 1970; Az etruszk-magyar rokonság I-II. uo. 1966, 1968). Kúr eljárása az, hogy a magyar szavakat szótagokra bontja és azokat egyezteti etruszk szavakkal. Például: etruszk `ax` ~ m. ah 'sóhajtás, óhajtás, vágy; emelkedni, jobb sorsa kerülni'; etruszk `mar` ~ m. marad.  
+
 
 Valójában az [[I/Indogermán nyelvészet\|indogermán nyelvészet]] címnél Götz László által említett A. Pictet (Les origines Indoeuropéennes on les Aryas primitifs, essai de paléontologie linguistique (1859-63)) lehetett az első, aki szóösszetételekkel, szóelválasztásokkal dolgozott. Götz László amit ír:  
 > Például ind `kabhara` (micsoda étel!) nála az ófelnémet `habaro` = Hafer szónak felel meg, vagy az ind `ka-rasa` = (micsoda táplálék!) az ófelnémet `hirsi` = Hirse szónak. Ilyen módszerekkel mindent bizonyíthatunk, amit csak akarunk, jegyzi meg Schrader idézett művében. Pictet kérdéses könyvét ugyan azonnal hevesen kritizálták (A. Weber, A. Kuhn és mások), de sokan, ennek ellenére, azóta is belőle indulnak ki kutatásaikban.  
