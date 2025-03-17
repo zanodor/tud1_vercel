@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gilgames/","title":"Gilgames","created":"2024-10-25T19:00","updated":"2024-10-25T19:00"}
+{"dg-publish":true,"permalink":"/G/Gilgames/","title":"Gilgames","created":"2024-10-25T19:00","updated":"2025-03-17T21:51"}
 ---
 
 
@@ -15,11 +15,11 @@
 
 > A Gilgames Éposz semita-akkád nyelvű nyelvemlék egy "Sin-le-ke-Unini" nevű és az i e. 12. században élt babilóni költő munkája, aki ügyesen beiktatta nagy művébe az akkor még igen jól ismert sumir táblák idevonatkozó tartalmát. A Gilgames Éposz ékiratos táblái: Assurbanipal (Kr.e. 669-630), ninivei agyagtábla-könyvtárából kerültek napvilágra.  
 
-Dr. Kovács Sándor Gán.Muš – a kígyó kertje avagy a sötétség című az Ősi Gyökér 2010/1-2. sz. megjelent cikkében Bil.Ga.Mes-ként is látom kiírva, B-vel.  
+Dr. Kovács Sándor Gán.Muš – a kígyó kertje avagy a sötétség című az Ősi Gyökér 2010/1-2. sz. megjelent cikkében **Bil.Ga.Mes**-ként is látom kiírva, B-vel.  
 Lábjegyzetes adatként (ahol történelmi szereplőként jön elő, ahogy előtte Nimrud) írja, hogy nevének jelentése Új(jászületett) Ember.  
 
-Várkonyi Nándor könyvének adata szerint régi neve szerint [[G/GIS\|GIS]]. (Alant is becézett formaként jön elő.)  
-Bakos Attila A Duna Evangéliuma című könyvének 89. oldalán azt írja, hogy régi nevei közül ismert Izdubar (illetve ő Izbudarnak írja) és Gis'saks.  
+Várkonyi Nándor könyvének adata szerint régi neve szerint [[G/GIS\|Gis]]. (Alant is becézett formaként jön elő.)  
+Bakos Attila A Duna Evangéliuma című könyvének 89. oldalán azt írja, hogy régi nevei közül ismert **Izdubar** (illetve ő Izbudarnak írja) és **Gis'saks**.  
 
 #### Oláh Imre A Nimrud hagyomány...
 
