@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Grey/","title":"Grey","tags":["Englishtexttranslated","kutya"],"created":"2024-05-10T17:13","updated":"2024-10-25T19:08"}
+{"dg-publish":true,"permalink":"/G/Grey/","title":"Grey","tags":["Englishtexttranslated","kutya"],"created":"2024-05-10T17:13","updated":"2025-03-21T21:53"}
 ---
 
 
@@ -32,8 +32,36 @@ A Wiktionary oldalon az alábbi magyarázat szerepel:
 
 Ez a magyarázat azért érdekes, mert a [[M/Meagre\|meager]] = sovány egyszer a Czeglédi K. által megadott komi, cseremisz görbét jelentő szavait[^2] idézi és a görbe = kurva = szuka fogalmi azonosságot feltártuk, ahogy ismert a hajlat/görbe = ív (íj) = eb (kutya) fogalmi kapcsolatrendszer is.  
 A meager pedig nemcsak a magyar/Magor nevekkel, hanem a [[M/Makara\|Makara]] címnél előjövő orosz szegény embert jelentő `makár` szóval is azonos. Azaz a szuka, agár, sovány, szegény fogalmak mind évköri értelmüek és a [[L/Lemniszkáta\|lemniszkátá]]ra utalnak.  
+```plantuml-svg
+@startuml
+left to right direction
+skinparam BackGroundColor transparent
+skinparam rectangle {
+    BackgroundColor #ccbe78
+}
+skinparam card {
+    roundCorner 15
+    BackgroundColor #f9f5d7
+}
 
-Hogy a szürkét jelentő IE szavak akkor kurva/görbe kiindulásúak lennének, ezt így nehéz megmondani. Nyilván nem magyar nevünk gyar eleme lesz eredetük, még a fentiek ellenére sem.  
+rectangle "<b>izlandi <color:#e7545c>grey</color></b>" as head
+card "<color:#e7545c>grey</color>" as grey_izlandi
+card "<color:#e7545c>tik</color>" as tik
+card "<color:#e7545c>meagre</color>" as meagre
+card "<color:#e7545c>makár</color>" as makar
+card "<color:#e7545c>megyr</color>\n<color:#e7545c>mygör</color>\n<color:#e7545c>mykyr</color>" as megyr_mygor_mykyr
+card "<color:#e7545c>kurva</color>\n<color:#e7545c>görbe</color>\n<color:#e7545c>szuka</color>" as kurva_gorbe_szuka
+
+head --> grey_izlandi : jelentése: szuka, szegény
+head --> tik : modern izlandi: szuka
+head --> meagre : kapcsolat
+meagre --> makar : orosz: szegény
+meagre --> megyr_mygor_mykyr : komi, mari: görbe
+meagre --> kurva_gorbe_szuka : fogalmi azonosság
+
+@enduml
+```
+
 
 ## Lábjegyzetek
 
