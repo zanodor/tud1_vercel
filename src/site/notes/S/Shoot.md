@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Shoot/","title":"Shoot","tags":["Englishtexttranslated"],"created":"2024-11-05T19:18","updated":"2024-11-21T16:29"}
+{"dg-publish":true,"permalink":"/S/Shoot/","title":"Shoot","tags":["Englishtexttranslated"],"created":"2024-11-05T19:18","updated":"2025-03-21T22:13"}
 ---
 
 
@@ -30,13 +30,50 @@ Lényegében a `shoot` egészen nyilvánvalóan a nyíllövés, nyilazás (és a
 Anne Wright Constellations oldalán több érdekes dolgot oszt meg (lásd például [[D/Dogma\|dogma]] címet arról, hogy a görög `doxa` eredete tulajdonképpen az **Íj és a nyíl ösvénye** lenne). Ami Nagy Géza sorához kiegészítésnek onnan vehető:  
 > [[S/Sagittarius\|Sagittarius]] has always been a sign associated with shooting for far off goals. An arrow is shot with a bow. The constellation of Sagittarius was the German Schutze, Schutz, the Anglo-Saxons had Scytta, a manuscript of 1386 calling it the Schoter; Shoot comes from the Indo-European root \*skeud 'To shoot, chase, throw'. Derivatives: shoot, shot, shut, shout, shuttle, scuttle 1 . \[Pokorny 2. (s)keud- 955. Watkins\]  
 > The word Scythia originally means "shooter, archer", and it ultimately derived from the Proto-Indo-European root \*skeud- "to shoot, throw". The Scythians or Scyths were a nation of horse-riding nomadic pastoralists.  
-> Arrows are made from the oﬀ-shoots or cuttings of trees, the shooting of which would have caused some of these shots to have taken root in more distant places other than their usual environment. \[Some of these words might belong to Sagitta, the Arrow, because for both arrows and cuttings for planting, the young shoots representing the current season's growth are used. The previous season's growth are favored for making bows\].  
+> Arrows are made from the oﬀ-shoots or cuttings of trees, the shooting of which would have caused some of these shots to have taken root in more distant places other than their usual environment. (Some of these words might belong to Sagitta, the Arrow, because for both arrows and cuttings for planting, the young shoots representing the current season's growth are used. The previous season's growth are favored for making bows).  
 > —  
 > A [[N/Nyilas\|Nyilas]] mindig is a távoli célok elérésével kapcsolatos jegy volt. A nyilat íjjal lövik ki. A Nyilas csillagkép a német Schütze, Schütz, az angolszászoknál a Scytta volt, egy 1386-os kézirat Schoter-nek nevezi; a `shoot` az indoeurópai \*skeud 'lőni, kergetni, dobni' gyökből származik. Származékai: lőni, lőni, bezárni, kiáltani, sikló, sikló 1 . \[Pokorny 2. (s)keud- 955. Watkins\]  
 > A Szkítia \[inkább szkíta\] szó eredetileg "lövő, íjász" jelentésű, és végső soron a proto-indoeurópai \*skeud- "lőni, dobni" gyökből származik. A szkíták lovas nomád pásztornépek voltak.  
-> A nyilakat fák hajtásaiból vagy kivágásaiból készítik, amelyek kilövése miatt néhány ilyen lövés a megszokott környezetüktől távolabbi helyeken is gyökeret eresztett volna. \[E szavak egy része a `sagitta`, a nyílvessző szóhoz tartozhat, mivel mind a nyilak, mind az ültetésre szánt dugványok esetében az aktuális évszak növekedését jelentő fiatal hajtásokat használják. Az előző szezon növekedését kedvelik az íjak készítéséhez\].  
+> A nyilakat fák hajtásaiból vagy kivágásaiból készítik, amelyek kilövése miatt néhány ilyen lövés a megszokott környezetüktől távolabbi helyeken is gyökeret eresztett volna. (E szavak egy része a `sagitta`, a nyílvessző szóhoz tartozhat, mivel mind a nyilak, mind az ültetésre szánt dugványok esetében az aktuális évszak növekedését jelentő fiatal hajtásokat használják. Az előző szezon növekedését kedvelik az íjak készítéséhez.)  
 
-A Götz László Keleten kél a Nap című könyvének 140. oldalán hozott német `schützen` = óvni és `schutz` = védelem is tulajdonképpen az íjjal lövésre megy vissza. Ő mondjuk [[S/Sk-\|sk-]] előtétes változatát veszi olyan szavaknak, melyek ugyanezt jelentik és a bőr (mint védelmet jelentő burok?) jelentésű másutt is említett szó alá sorolja őket.  
+A Götz László Keleten kél a Nap című könyvének 140. oldalán hozott német `schützen` = óvni (pl. "Gott schütze ihn" – "Isten óvja") és `schutz` = védelem is tulajdonképpen az íjjal lövésre megy vissza.   
+- Érdekes, hogy lőni íjjal lehet, és íj = ív = óv egyező alakúak a magyarban is.
+```plantuml-svg
+@startuml
+left to right direction
+skinparam BackGroundColor transparent
+skinparam rectangle {
+    BackgroundColor #ccbe78
+}
+skinparam card {
+    roundCorner 15
+    BackgroundColor #f9f5d7
+}
+
+rectangle "<b>SCHÜTZEN</b>" as schutzen
+card "védeni, oltalmazni" as vedeni_oltalmazni
+card "lőni" as loni
+card "schutz" as schutz_fonév
+card "lő" as lo_magyar
+card "véd" as ved_magyar
+card "íj" as ij_magyar
+card "ív" as iv_magyar
+card "óv" as ov_magyar
+
+schutzen --> vedeni_oltalmazni : jelentése
+schutzen --> loni : jelentése
+schutzen --> schutz_fonév : főnévi forma
+loni --> lo_magyar : jelentése: lőni
+vedeni_oltalmazni --> ved_magyar : jelentése: védeni
+loni --> ij_magyar : magyar szókapcsolat
+ij_magyar --> iv_magyar : alakpár
+iv_magyar --> ov_magyar : alakpár
+ved_magyar --> ov_magyar : véd-óv
+
+@enduml
+```
+
+Ő mondjuk [[S/Sk-\|sk-]] előtétes változatát veszi olyan szavaknak, melyek ugyanezt jelentik és a bőr (mint védelmet jelentő burok?) jelentésű másutt is említett szó alá sorolja őket.  
 ![assets/Shoot_image1.png|invert_dark](/img/user/S/assets/Shoot_image1.png)  
 
 A [[S/Szíriusz\|Szíriusz]] és [[S/Szít\|szít]] címnél is említett babiloni mul.KAK-SI-DI név Sidi része [[S/Süt\|süt]] szavuk változata lehet.  
