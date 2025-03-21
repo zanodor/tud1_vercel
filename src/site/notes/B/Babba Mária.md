@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/B/Babba Mária/","title":"Babba Mária","created":"2024-11-21T07:51","updated":"2025-02-21T13:07"}
+{"dg-publish":true,"permalink":"/B/Babba Mária/","title":"Babba Mária","created":"2024-11-21T07:51","updated":"2025-03-21T22:17"}
 ---
 
 
 # Babba Mária
 
 Bevezetőt lásd [[B/Baba\|baba]].  
-A sumer anyaistennő Baba (Ningirszu felesége) és Mari, míg a csángóknál (Csíksomlyó) találkozunk Babba Máriával. Babba Mária a Napbaöltözött Asszony, aki a magyarság ősi hitének istenanya-alakja, valószínűleg [[N/Napistennő\|Napistennő]][^1] \[inkább a Nap anyja kellene legyen\]. Ez lehetett az ősidőkbe visszanyúló [[B/Boldogasszony\|Boldogasszony]]-tiszteletünk egyik forrása.  
+A sumer anyaistennő Baba ([[N/Ningirsu\|Ningirszu]] felesége) és Mari, míg a csángóknál (Csíksomlyó) találkozunk Babba Máriával. Babba Mária a Napbaöltözött Asszony, aki a magyarság ősi hitének istenanya-alakja, valószínűleg [[N/Napistennő\|Napistennő]][^1] \[inkább a Nap anyja kellene legyen\]. Ez lehetett az ősidőkbe visszanyúló [[B/Boldogasszony\|Boldogasszony]]-tiszteletünk egyik forrása.  
 
 #### Nagyné dr. Fülöp Krisztina Mária előképei a legősibb kultúrákban...
 
@@ -19,7 +19,7 @@ A sumer anyaistennő Baba (Ningirszu felesége) és Mari, míg a csángóknál (
 > Mint a film úgy pergett le előttem a jó Bakó Gábor plébános úr a babbás ruhájával, aztán az a fiúcska, akit nem áldoztattunk meg, mert azt mondja, hogy a szent ostya az a Babba Mária. És most itt Kosteleken, Emma is azt mondja, hogy a Babba Mária olyan, mint a jó Isten! És akkor belém döbbent az új felismerés! Ez a Babba Mária nem egyszerûen csak a Szûz Mária. Ennek bővebb a fogalmi tartalma a Máriáénál. Ez a Babba Mária, ha olyan, mint az Isten, akkor Ő nem is annyira Mária; hanem valami titokzatos női istenféle. Erre mutat ez a titokzatos név is, a "Babba". Valóban, később meg is állapítottam, hogy amikor isteni tulajdonságaival említik Máriát, akkor sohasem mondanak csak Máriát, hanem mindig Babba Máriát. Tehát a Babba név alatt valami isteni tulajdonságokat rejtő istenség lappang. Mégpedig, ha Máriával együtt emlegetik, akkor az, csak női istenség lehet. Kosteleken az emberek ha felfohászkodnak, nem is annyira az Istent emlegetik, mint inkább a Babba Máriát.  
 
 Mindebből arra következtetek, hogy az ősi felfogásban Isten Istennő. Másodszor könnyen lehet, hogy a sumér [[B/Bau\|Bau]]/Baba és a jász-filiszteus Mária is ilyen eredetre megy vissza, vagy valószínűbben a kettő később került összemosásra. Nagyné dr. Fülöp Krisztina Mária élete, édesanyák lelke című Ősi Gyökér 2006/1. sz. megjelent cikkében is írja Daczó atya nyomán, hogy a kereszténység előtt feltehetően csak Babba volt a neve.  
-(NFK ezen cikkében újra előveszi a Babba nevet; ide nem tenném be írását.)  
+(Fülöp Krisztina Mária ezen cikkében újra előveszi a Babba nevet; ide nem tenném be írását.)  
 
 Takács György ill. Eőri Szabó Ferenc Babba Mária – adalékok a magyarság őszintének istenanya-alakjához című Ősi Gyökér 2004/3. sz. megjelent hosszabb cikkében nyilván Bobula Ida adatainak nyomán [[B/Bau\|Bau]]-val hasonlítva indít. Más címekhez fontos passzusai bekerültek. Ami ide tehető:  
 > "Szűz Mária csupán közvetítő szerepkörben áll az ég és a föld között, addig Babba Mária – úgy tűnik – saját istennői hatalommal rendelkezik a termékenység, az elemek, a javak, vagyis a földi lét minden vonatkozása fölött... Babba (Mária) tehát mind nevében, mind pedig alakjának jellegzetes, eredetinek tűnő vonásaiban különbözik Szűz [[M/Mária\|Máriá]]tól, annál inkább megtalálhatóak azonban alapvető hasonlóságai őshitünk "másik" Istennő – alakjával, amelyet [[B/Boldogasszony\|Boldogasszony]] néven őrzött meg népünk hű emlékezete...  
