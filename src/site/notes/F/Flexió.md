@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-03-08T20:46"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-03-21T21:53"}
 ---
 
 
@@ -25,6 +25,8 @@ Könyvének 133. oldalán tér vissza a témára, indogermán és szemita péld�
 ## Magyar hajlítás mint nyelvünk szavainak alapképessége
 
 Van eset, hogy rendkívül csekély hajlítás történik. Pl. a *homofónia* esetén a szavak ugyanazt a hangalakot használják, de eltérő jelentéssel rendelkeznek (pl. `kész` - `kéz`).  
+Czakó Gábor **gyökhangváltás**nak nevezi, olyan példákat hozva, mint `borít` és `burkol`, amelyek ugyanazt jelentik: "befed, betakar".  
+
 Akár hívhatnánk zéró hajlításnak azon eseteket, amikor *homonímiá*ról beszélünk. (A homonímia az egyik típusa a szemantikai homogenitásnak, amely a szavak jelentésbeli kapcsolatrendszerét vizsgálja. A *homonimák* olyan szavak, amelyek ugyanazt a fonetikai vagy ortográfiai formát használják, de eltérő jelentéssel rendelkeznek.)  
 A [[M/Méh\|méh]] kettős jelentését mindenki ismeri, de a közös kiindulót csak őseink gondolkodásának megértése révén fedezhetjük fel.  
 Azt is tudja mindenki, hogy a [[M/MAG\|mag]] örökítő anyagot, ondót is jelent, de azt már kevesen, hogy a [[M/Magor\|Magor]] nevünkben is megtalálható [[M/MAG\|Mag]] Nap jelentésű. (Magor pedig épp a Tejútanya Méhszájából születik meg, a téli napforduló után.)  
