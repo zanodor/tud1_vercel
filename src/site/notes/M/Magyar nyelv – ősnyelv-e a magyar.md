@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv – ősnyelv-e a magyar/","title":"Magyar nyelv – ősnyelv-e a magyar","tags":["Englishtexttranslated"],"created":"2023-10-09T06:38","updated":"2024-10-25T22:42"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv – ősnyelv-e a magyar/","title":"Magyar nyelv – ősnyelv-e a magyar","tags":["Englishtexttranslated"],"created":"2023-10-09T06:38","updated":"2025-03-21T22:13"}
 ---
 
 
@@ -7,7 +7,9 @@
 
 Bevezetést lásd [[M/Magyar nyelv ősisége\|magyar nyelv ősisége]].  
 
-Péterfai János már szólt magyarjainkról, akik a magyar nyelvet más nyelvek anyjának tették meg. Egy előadás adatai szerint:  
+Péterfai János már szólt magyarjainkról, akik a magyar nyelvet más nyelvek anyjának tették meg. 
+
+Egy előadás adatai szerint:  
 > "A magyar nyelv tán az egész óvilág nyelveinek gyökere." – Berzsenyi Dániel  
 > (Berzsenyi Dániel önmaga is kutatta a magyar nyelv múltját, s eredményéről így ír: "Bukdozásaim haszon nélkül nem maradtak, sőt örömest tapasztaltam, hogy a magyar nyelv tán az egész óvilág nyelveinek gyökere és anyja".)  
 > "Isten nyelvén szólok én!" – Arany János  
@@ -18,11 +20,11 @@ Jókai Mór elegáns és maró gúnnyal tiltakozva ezt írta:
 
 #### Oláh Imre A magyar lélekhit keleti elemei...
 
-...című Ősi Gyökér 2004/3. számában megjelent cikkében is hoz hasonlókat (a nem-magyarokat nem veszem ide és Bowring méltató szövegét sem):  
+...című Ősi Gyökér 2004/3. számában megjelent cikkében is hoz hasonlókat (a nem-magyarokat nem veszem ide, és [[B/Bowring, John\|Bowring, John]] méltató szövegét sem):  
 > Füst Milán találóan írja:  
 > "Szent ez a nyelv! S több kincsed nincs neked! Oly csodás nyelv a magyar. Révület fog el, ha rágondolok is....... Halld meg szavam! Én prófétáktól származom." (A magyarokhoz, 1934)  
 > Babits Mihály is, aki gondolom, hajlandó lett volna esküt is tenni arra, hogy "a magyar nyelv a világirodalom minden zenéjének leghívebb letéteményese, legméltóbb edénye lehet."  
-- Oláh Imre Ősi jelképiség című az Ősi Gyökér 2011/4. sz. megjelent kiváló cikkében megismétli ezeket.  
+- Oláh Imre Ősi jelképiség című az Ősi Gyökér 2011/4. sz. megjelent kiváló cikkében megismétli ezeket.
 
 #### Arany János...
 
@@ -155,9 +157,9 @@ Jókai Mór elegáns és maró gúnnyal tiltakozva ezt írta:
 > Vélitek e, hogy most Lapponok lennének?  
 >
 > O! nem: távúl légyen olylyan káromkodás.  
-> `___ ___ ___ ___ ___ ___ ___ ___ ___ ___`  
-> `___ ___ ___ ___ ___ ___ ___ ___ ___ ___`  
-> `___ ___ ___ ___ ___ ___ ___ ___ ___ ___`
+> ––– ––– ––– ––– ––– ––– ––– ––– ––– –––
+> ––– ––– ––– ––– ––– ––– ––– ––– ––– –––
+> ––– ––– ––– ––– ––– ––– ––– ––– ––– –––
 >
 > Nem vóltak Scytháknak fatytyú gyermekei,  
 > Mutatják még ma is vitéz erköltsei,  
@@ -177,15 +179,14 @@ Jókai Mór elegáns és maró gúnnyal tiltakozva ezt írta:
 Arról [[T/Turanizmus\|turanizmus]] címnél volt szó, Max Müller megállapításában, hogy az ősnyelv ragozó turáni nyelv volt. A finnugrász Hegedűs József Rendhagyó magyar nyelvhasonlítás-történet című, a Magyar Nyelv 1998. december számában megjelenő tanulmányában arra is kitér – nem kis gúnnyal (ahogy [[H/Hunor és Magor\|Hunor és Magor]] címnél és [[P/Pártus\|pártus]] címnél álló passzusában is tette) – hogy voltak, nem csak magyarok, akik szerint ez az ősnyelv a magyar lenne:  
 > Úgy a XVIII. század közepe óta kezdenek felbukkanni azok a vélekedések, hogy a magyar nyelv tulajdonképpen "ősnyelv", egyik nyelvnek sem a leszármazottja. Végső soron ezt példázza HORVÁT ISTVÁN "Rajzolatok a Magyar Nemzet legrégibb történeteiből" (Pesten, 1825.) című, gyakran emlegetett, szertelenségekben tobzódó munkája is. A nyelvi társtalanság hitét nagymértékben felerősítette a híres, sok nyelvet (így a magyart is) tudó angol JOHN BOWRING, aki azt fejtegeti, hogy a magyar nyelv saját egyedi formában alakult ki, s születését bizonyossággal olyan korszakra lehet tenni, amikor a legtöbb európai nyelv vagy még nem is létezett, vagy nem gyakorolt befolyást a magyar régióra (Poetry of the Magyars. London, 1830. VI.). Többen is értekeztek nálunk a magyarról mint ősnyelvről, még a XX. század elején is (például DÉSY FERENC, A magyar ősírás. Bp., 1902.).  
 
-—  
+---
 
 #### Péterfai János írja:  
 
 > Az igazság lényege pedig az, hogy a mai magyar nyelv annak a hatalmas és csodálatos ősnyelvnek egyenes utódja, amely összezavarodott, és sok új hajtást hozott létre. **Ez a nyelv Isten saját nyelve**, amelyből keletkeztek az emberi nyelvek. Erre a tényre rengeteg bizonyíték van még az ókori szövegekből is, a jégkori írások pedig mind magyarul szólalnak meg.  
 > Egy néphez egy nyelv tartozik, az ősnép, az Elsők Népe magyarul beszélt.  
 
-#### Péterfai János igyekszik pontosan fogalmazni:  
-
+Péterfai igyekszik pontosan fogalmazni:  
 > Lehetetlen azt állítani, hogy az ókori nyelvek magyar nyelvek. Csak azt lehet állítani, hogy sok ókori nyelv, így a hatti-hettita is nagyon közeli rokona a mai magyar nyelvnek. Egy régebbi, magyar nyelvnek tekinthető nyelvből származott, amelyik nyelvet Kis-Ázsiában beszéltek, de sok ezer évvel a hatti, hurri, szumir nyelvek előtt.  
 
 Péterfai János Atlantiszról szóló írásában úgy fogalmaz, hogy a magyar nyelv több ősi nyelvjárásból ered. Szerintem már az Aranykorban kialakult a nyelv, és azóta csak vallási-mondai rárakódások útján változott (Napvallás és kereszténység ráhatása).  
@@ -208,7 +209,7 @@ Péterfai János Atlantiszról szóló írásában úgy fogalmaz, hogy a magyar 
 > —  
 > A csodálkozásom egyre nőtt, ahogy folytattam a bantu és a magyar szavak összehasonlítását, ahol mind a forma, mind a tartalom annyira azonos volt, hogy nyilvánvalóvá vált a két nyelv közös eredete. De ez még csak a kezdet volt. Minél több szótárat és nyelvet néztem meg, az eredmény ugyanaz volt. Levettem a szemellenzőt – ami a lovakat hivatott kordában tartani –, és ekkor már 360 fokos ívben kezdtem körbejárni a világ összes nyelvét, hogy megtaláljam a MAGYAR szavakkal azonos szavakat.  
 > **A magyar azonosság a nyelvekben, a mérhetetlen mennyiség, megdöbbentő. Hatalmas mennyiségű anyagról van szó! A katalogizálásuk, rendszerezésük, magyarázatuk egy egész életre szóló odaadást igényel. Az ilyen tanulmányok végeredménye csak egy lehet: A magyar nyelv az emberiség első nyelve, a teremtés nyelve, az ősök nyelve**.  
-- Az itt sorolt bantu szavak [[F/Folyó\|folyó]], [[G/Gólya\|gólya]] és [[K/Kill\|kill]] címhez téve.  
+- Az itt sorolt bantu szavak [[F/Folyó\|folyó]], [[G/Gólya\|gólya]] és [[K/Kill\|kill]] címhez téve.
 
 Még mindig Nagyernyei Szabó Zoltán misszionárius pap Tomory Zsuzsa Magyar-English word origins című könyvéhez csapott addendumában európai ősműveltségünk bizonyítékaiként sorol adatokat. Például:  
 > The American Linguistic Seminar at Bochum University, Germany, including Russian and other linguists accepting The One Language of Mankind as a fact based on up to date computerized linguistic research rejected the existence of a separate Finno-Ugric language family – **elvetvén az u.n. "finnugor nyelvcsalád" külön magábanlétezését** megállapították, hogy egy nyelvezete van az emberiségnek és a magyar nyelvet az ősnyelv elágazásának jelenlegi állapotában az Elámo-Dravida/Uralo-Dravida törzs jellegéhez legközelebbállónak találták, s ezt ennek közelebbi kiágazásaival az Afro-Ázsia-i, kártveli, indoeurópai és altaival együtt egy közös nyelvnek [[N/Nosztratikus nyelvcsalád\|nosztratikus]] névvel jelölt egyik főbb nyelvtörzseként ismertették. Láthatólag ezt a szétvándorlást és nem a nyelvben hordozott ősműveltség belső lelki fejlettségének kifejező erejét vette figyelembe (Walter Koch: Language in the Upper Pleistocene, 1991 Bockmeyer, Bochum, Germany az ősnyelvi elágazások ábráival: az 5.1 számú Koch 1991. kezdetén, az 5.2 számú Vitaly Shevoroskin 1990. évi és az 5.3 számú Bateman 1990-ben készült ábráját mutatja).
