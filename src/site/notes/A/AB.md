@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/AB/","title":"AB","tags":["Englishtexttranslated"],"created":"2023-10-20T05:11","updated":"2024-10-22T19:49"}
+{"dg-publish":true,"permalink":"/A/AB/","title":"AB","tags":["Englishtexttranslated"],"created":"2023-10-20T05:11","updated":"2025-03-21T21:53"}
 ---
 
 
@@ -18,7 +18,7 @@
 Lényegében itt is azt kell látni, mint másutt, ahogy [[F/Fény és anyag\|fény és anyag]] címnél össze is lett foglalva. Az "ahogy fent, úgy lent" értelmében egy szó (és variánsai) felső, hímségi jelentése a hímségi elementálokra, a tűzre, szélre (levegőre) utal (minden ami fenn van, az univerzumra, égre, csillagokra, Napra vonatkozik), míg az alsó értelem mindig víz vagy föld (elem) értelmű. [[H/Humour\|Humour]], [[R/Rain\|rain]] és [[A/AK\|AK]] címnél, és számtalan más helyen volt erről szó.  
 
 Lajos Kazár: Japanese-Uralic language comparison című  írásából közöl Rédei Károly Őstörténetünk kérdéseiben (Rédei Hegedűs Józsefhez hasonló dilettáns nyelvhasonlítási kísérletekről ír) egy fontos adatot:  
-> jap. `abiru`, ójap. `abu` ~ `amu`[^1] 'vizet önt a testre' ~ m. fürdik  
+> jap. `abiru`, ójap. `abu` ~ finnugor\[?\] `amu`[^1] 'vizet önt a testre' ~ m. fürdik  
 - Azaz az `AB` = víz jelentése itt is tetten érhető. Ahogy [[U/U\|U]] címnél is láttuk, a [[J/Japán nyelv\|japán nyelv]] a szó végén nem szereti a mássalhangzókat.
 
 Az AB = víz értelme tetten érhető lehet még például a ser szavunkból képzett(?) bor jelentésű perzsa és török `sarab` szóban is. Lásd még [[S/Sarāb\|sarāb]].  
