@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szegény/","title":"Szegény","created":"2024-04-25T13:43","updated":"2024-10-26T00:27"}
+{"dg-publish":true,"permalink":"/S/Szegény/","title":"Szegény","created":"2024-04-25T13:43","updated":"2025-03-21T21:52"}
 ---
 
 
@@ -47,10 +47,9 @@ Magyar alakú szavak nemcsak soványra és szamárra, hanem Szíriuszra (kutyár
 [[E/Ebionita\|Ebionita]] címnél írtuk, hogy a héber `ebionim` = szegények értelmezés nyilván hozzákapcsolt, bár [[E/EB\|eb]] értelmeként Péterfai János is hozza, hiszen Eb/Kannal kezdődik a (fényben) szegény, sötét félév.  
 Ezek után nem is meglepő, hogy a cseh `chudý` = szegény éppen kutya vázú, sőt, nőnemben a szó a kívánt -a végződéssel rendelkezik.  
 
-A szegény módosulata a [[S/Szégyen\|szégyen]]. Szégyent a fentebb említett bűnös érezhet. A félelem ideájának hasonlóságát mutatja, hogy a több helyen említett maja `szákh` = félelem is szegény, [[S/Szégyell\|szégyell]] szavainkkal mutat azonosságot.  
+A szegény módosulata a [[S/Szégyen\|szégyen]]. Szégyent a fentebb említett bűnös érezhet. A félelem ideájának hasonlóságát mutatja, hogy a [[T/Timid\|timid]] = szégyenlős szó szinonimája félénk és maga a szó is a félni jelentésű latin igére megy vissza, valamint hogy a több helyen említett maja `szákh` = félelem is szegény, [[S/Szégyell\|szégyell]] szavainkkal mutat azonosságot.  
 
-[[S/Sick\|Sick]] is szegény szavunk gyöke lehet.  
-A Nap gyengeségére utal.  
+[[S/Sick\|Sick]] is szegény szavunk gyöke lehet. A Nap gyengeségére utal.  
 
 ## Lábjegyzetek
 
