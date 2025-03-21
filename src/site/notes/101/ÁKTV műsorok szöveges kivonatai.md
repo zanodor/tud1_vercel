@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-03-14T22:17"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-03-21T23:08"}
 ---
 
 
@@ -11,6 +11,11 @@
 
 **Videók kivonatokkal** (ha igaz, idővel visszamenőleg is bővül majd a lista):  
 
+[250321CN! RENDÜLETLENÜL](https://rumble.com/v6r030o-250321cn-rendletlenl-kubnyi-tams-ktv.html)  [https://share.note.sx/yf6fpezc](https://share.note.sx/yf6fpezc)
+[250320CN! LAKOMA](https://rumble.com/v6qy9vy-250320cn-lakoma-kubnyi-tams-ktv.html)  [https://share.note.sx/40o4gpgb](https://share.note.sx/40o4gpgb)
+[250319CN! MEGSZÁLLÁS](https://rumble.com/v6qwg38-250319cn-megszlls-kubnyi-tams-ktv.html)  [https://share.note.sx/mwig1tvx](https://share.note.sx/mwig1tvx)
+[250318CN! TABUDÖNTÉS](https://rumble.com/v6qun42-250318cn-tabudnts-kubnyi-tams-ktv.html)  [https://share.note.sx/yl3uos7t](https://share.note.sx/yl3uos7t)
+[250317CN! BÜSZKESÉGEINK](https://rumble.com/v6qslio-250317cn-bszkesgeink-kubnyi-tams-ktv.html) [https://share.note.sx/wmat5zot](https://share.note.sx/wmat5zot)
 [250314CN! LÁSZLÓ KERÁL IZENETE](https://rumble.com/v6qn5d8-250314cn-lszl-kerl-izenete.html)  [https://share.note.sx/56tsqvve](https://share.note.sx/56tsqvve)
 [250313CN! KITÜNTETÉS](https://rumble.com/v6qlduq-250313cn-kitntets-kubnyi-tams-ktv.html)  [https://share.note.sx/wap5lptv](https://share.note.sx/wap5lptv)
 [250312CN! PETŐFI ÉL!](https://rumble.com/v6qjivo-250312cn-petfi-l-kubnyi-tams-ktv.html)  [https://share.note.sx/v26rt0ov](https://share.note.sx/v26rt0ov)
@@ -21,6 +26,12 @@
 [250305CN! HAMVAZÓ](https://rumble.com/v6q6vv6-250305cn-hamvaz-kubnyi-tams-ktv.html):  [https://share.note.sx/tqurw9uo](https://share.note.sx/tqurw9uo)
 [250304CN! JÖVŐTITKOK](https://rumble.com/v6q6e1y-250304cn-jvtitkok-kubnyi-tams.html):  [https://share.note.sx/n1qcypgv](https://share.note.sx/n1qcypgv)
 [240604CN! TRIANONI HARANGSZÓ](https://rumble.com/v6qcpdu-240604cn-trianoni-harangsz-kubnyi-tams-ktv.html):  [https://share.note.sx/gu032y82](https://share.note.sx/gu032y82)
+
 [240423CN! VILÁGTERV](https://rumble.com/v6qfeg2-vilgterv-ktv-240423cn.html):  [https://share.note.sx/7sog9dqg](https://share.note.sx/7sog9dqg)
+
 [230727CN! Keniták - Zsidók és álzsidók 2](https://rumble.com/v6qj25e-zsidk-s-lzsidk-2.html):  [https://share.note.sx/j68dl5qx](https://share.note.sx/j68dl5qx)
 [230726CN! Keniták - Zsidók és álzsidók](https://rumble.com/v6qj226-zsidk-s-lzsidk.html):  [https://share.note.sx/xfxnrws2](https://share.note.sx/xfxnrws2)
+
+[200921CN! POLKORREKT 3. rész](https://rumble.com/v6qnlis-200921cn-polkorrekt-3.-rsz-kubnyi-tams-ktv.html)  [https://share.note.sx/kfp64ojo](https://share.note.sx/kfp64ojo)
+[200916CN! POLKORREKT 2. rész](https://rumble.com/v6qnlh2-200916cn-polkorrekt-2.-rsz-kubnyi-tams-ktv.html)  [https://share.note.sx/02b8fwdq](https://share.note.sx/02b8fwdq)
+[200912CN! POLKORREKT 1. rész](https://rumble.com/v6qnl4a-200912cn-polkorrekt-1.-rsz-kubnyi-tams-ka.html)  [https://share.note.sx/dchkwuue](https://share.note.sx/dchkwuue)
