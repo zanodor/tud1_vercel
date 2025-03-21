@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv Isten nyelve – magyar nyelv a világűrben/","title":"Magyar nyelv Isten nyelve – magyar nyelv a világűrben","created":"2024-05-10T03:31","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv Isten nyelve – magyar nyelv a világűrben/","title":"Magyar nyelv Isten nyelve – magyar nyelv a világűrben","created":"2024-05-10T03:31","updated":"2025-03-21T22:08"}
 ---
 
 
 # Magyar nyelv Isten nyelve – magyar nyelv a világűrben
 
-A világűr talán erős kifejezés, és könnyen a magyarságkutatók lejáratására szolgálhat, hiszen a titkosszolgálatok is előszeretettel gyűjtik be az ilyen "gyöngyszemeket," de amikor arról van szó, hogy idegen járművek Amerikában vagy Izraelben szállnak le az okosokkal tárgyalni (mert a földönkívüli ugye perfektül tud amerikánisul és ivrit nyelven), azzal nincs gond.  
+A világűr talán erős kifejezés, és könnyen a magyarságkutatók lejáratására szolgálhat (nem is [[P/Plessa Elek\|Plessa Elek]] nyomdokaiban óhajtok haladni), hiszen a titkosszolgálatok is előszeretettel gyűjtik be az ilyen "gyöngyszemeket," de amikor arról van szó, hogy idegen járművek Amerikában vagy Izraelben szállnak le az okosokkal tárgyalni (mert a földönkívüli ugye perfektül tud amerikánisul és ivrit nyelven), azzal nincs gond.  
 És ugye ne felejtsük el, hogy a mi műveltségünk az, amely a teljes Tejúttal számol, tehát a magyar felfogás kozmikus-természeti felfogás.  
 
 A magyar nyelv Isten nyelve, erről több helyen, a bevezetőben is volt szó. Péterfai János írásai alapján is kijelenthető, hogy a magyar nyelv megszületése egyidejű lehet az első ember megjelenésével.  
@@ -20,7 +20,7 @@ Pitlu János A nyelvek megértéséhez című az Ősi Gyökér 2008/2. sz. megje
 > \[...\]  
 > Sok hagyományban megvan, hogy az emberiség eredetileg egy nyelvet beszélt. A Biblia is szól erről, de a kelta hagyományban is ismert, hogy a kelták eredetileg az ősnyelvet beszélték. Amerikában is vannak népek, akik azt állítják, hogy eredetileg egy nyelvet beszéltek, őseik nyelvét, amiből azután az idők folyamán sok nyelv jött létre.  
 
-Bakos Attila [ezen](https://youtu.be/XX0dWYTHC1c) a Duna evangéliuma című könyvét bemutató VNTV beszélgetésben 1:03:00 körül mondja, hogy a magyar nyelv élő lexikona az Istennel való kapcsolatnak. Ezért hívták városaikat Urnak, Uruknak (említi itt még űr szavunkat is).  
+Bakos Attila [ezen](https://youtu.be/XX0dWYTHC1c) a Duna evangéliuma című könyvét bemutató VNTV beszélgetésben 1:03:00 körül mondja, hogy a magyar nyelv élő lexikona az Istennel való kapcsolatnak. Ezért hívták városaikat Urnak, Uruknak (említi itt még `űr` szavunkat is).  
 
 #### Tomory Zsuzsa Szerves magyar nyelvtudomány...
 
