@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2024-10-25T23:25"}
+{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2025-03-24T18:06"}
 ---
 
 
@@ -102,7 +102,7 @@ A Szimbólumtár anyaméh címnél álló adata:
 Japán étel körülírásakor indirekt módon kiderült(?), hogy a *womb* és a *bee*, azaz a magyar méh két jelentése japánul ugyanúgy homoním szó, mint a magyarban! (A Wordsense.eu oldalról szedett japán szavak viszont nem mutatnak egyezést, de ez nem jelent semmit. Egyébként rákérdeztem Quorán, de mindenhol negatív választ kaptam.)  
 Erről [[V/Végvári József\|Végvári József]] sem szól És mégsem mozog... című írásában, de felemlíti, hogy a latinban van átfedés a szavak közt:  
 > A latin-magyar szótár szerint: `alváriam` = méhkas; `alveus` = teknő, csónak, kaptár; `alvus` = has, hajó ürege, anyaméh, méhkas (Györkösy 1986: 34).  
-- A (víz)ágy (alap)jelentésű, a [[L/Latin nyelv#Latin szókincs pidgin szókincsból való eredete\|latin nyelv]] címnél is említett `alveus` és párja, `alvus` mintha `alvós`, [[A/Álmos\|álmos]] alakú lenne, márpedig ágyban alszunk és tudjuk, hogy az álom és halál (Jankovics Marcellnél asztrológiai kiindulással) magzati állapotra utal, mely magzat helye a méh.  
+- A (víz)ágy (alap)jelentésű, a[[L/Latin nyelv#Latin szókincs pidgin szókincsből való eredete\|latin nyelv]]] címnél is említett `alveus` és párja, `alvus` mintha `alvós`, [[A/Álmos\|álmos]] alakú lenne, márpedig ágyban alszunk és tudjuk, hogy az álom és halál (Jankovics Marcellnél asztrológiai kiindulással) magzati állapotra utal, mely magzat helye a méh.
 
 Lásd még legutóbb [[K/Kaptár\|kaptár]] címnél írottakat.  
 Lásd még [[M/Masculine\|masculine]] és [[M/ME\|ME]].  
@@ -117,7 +117,7 @@ Fentebb esett róla már szó.
 [[K/Krisztus#Krisztus a szarvasfiú születése az üsző méhéből, a Tejútközpontban\|Krisztus a szarvasfiú születése az üsző méhéből, a Tejútközpontban]] cím/alcímnél szerepeltek az alábbiak:  
 Tulajdonképpen Várkonyi Nándor [[U/Üsző\|üsző]], [[P/Patala\|Patala]] és [[M/Méh\|méh]] címnél álló sorai ezt mondják el, csak éppen Krisztus vagy – a Szarvasnak nézett és Világfánál lenyilazott – Krisztna-[[K/Krishna\|Krishna]] maradt ki (Arjuna viszont Krishna társa és tanítványa volt, aki "leszállt" Pátálába, s ott nőül vette a "nagalik" királyának, Kauravjának Ulupi vagy Ulupl nevű lányát):  
 > Pátála a "verem" is, az Alvilág, az újjászületés helye. Ide szállnak le a beavatandók, s ezért kellett Arjunának "leszállnia". Pátála mélységeit "az új Nap fénye járja át", s ennek dicsőségébe jut az "újszülött", miután átment az "üsző" méhén. Ez a leírás a beavatás rítusait jelzi a szokott képletes módon \[a Nap születéséséről van itt szó inkább\]. Az üsző, **Surabi**, Visnu szent állata, a "bőség borja", a "tej és aludttej forrása", a teremtéskor a Tejtengerből "extrahálták", s innen ered a szarvasmarha vallásos tisztelete Indiában.  
-- Valójában ősi képzet; a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]].  
+- Valójában ősi képzet; a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]].
 
 Ha már Alvilág, [[P/Pokol\|pokol]] címnél is méhről volt szó Práczki Istvánnál:  
 > A magyar pokol szó vallástörténelmet tár elénk. Hajdan kettős jelentése volt. Az egyik egy ige, mert a pókol szó a várandós, vagyis pókhasú anyát fejezte ki, míg a másik jelentése a magzatburok szittya neve, amit pokolnak hivtak. Főleg **a nagy patás állatok méhét hívták pokolnak**. Vidéken még ma is jól ismert az a megjegyzés, hogy a megellett ló "eldobta a poklát".  
