@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2025-03-24T18:06"}
 ---
 
 
@@ -118,8 +118,9 @@ Ha már ívás, [[K/Kezdet és vég\|kezdet és vég]], valamint [[U/Új\|új]] 
 Azaz tulajdonképpen I > ÍJ > ÚJ fejlődési sorozatot kell feltételezni (ahol az újhold összefüggéseit is szem előtt kell tartani).  
 
 Ha [[I/Idő\|idő]] szavunkat nem lehetett volna a Nap-Föld relációra visszavezethető UDU/üdő szavakra visszavinni, akkor az idő körtermészete alapján i hang nyomán indultam volna el.  
-Tehát amikor korábban másutt úgy gondoltam (akár Magyar Adorján adata alapján), hogy a szláv `ide` = haladni, jönni [[I/Idő\|idő]] szavukból ered, nem feltétlenül helyes. Az [[I/Idő\|idő]] szót viszont i-ből levezetni viszont akkor hogy lehetne?  
-Nyilván I-Tu = I-t csinálni, azaz ívet, ívást csinálni.  
+Tehát amikor korábban másutt úgy gondoltam (akár Magyar Adorján adata alapján), hogy a szláv `ide` = haladni, menni, jönni [[I/Idő\|idő]] szavukból ered, nem feltétlenül helyes. Az [[I/Idő\|idő]] szót viszont i-ből levezetni viszont akkor hogy lehetne?  
+Mondjuk lehetne annyi mint: I-Tu = I-t csinálni, azaz ívet, ívást csinálni.  
+Egyébként a szláv szót ugyanarra a gyökre viszik vissza, mint a latint.  
 
 Lásd még említve [[U/Üget\|üget]].  
 
