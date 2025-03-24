@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Királylista/","title":"Királylista","tags":["Englishtexttranslated"],"created":"2023-11-12T04:45","updated":"2024-10-25T22:24"}
+{"dg-publish":true,"permalink":"/K/Királylista/","title":"Királylista","tags":["Englishtexttranslated"],"created":"2023-11-12T04:45","updated":"2025-03-24T18:06"}
 ---
 
 
@@ -10,6 +10,8 @@ A [[M/Manetho\|Manetho]], [[B/Berossus\|Berossus]] és [[D/Diodórosz Szikulosz\
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének 54. oldalán egy eddig nem ismert érdekes elmélettel áll elő.  
 Azt írja, hogy az özönvíz előtti tíz király nem más, mint tíz fontosabb/fényesebb csillag, melyek közötti távolságok adják uralkodásuk hosszát (ezek szerint úgy kell érteni, hogy a Nap által bejárt ekliptikán ennyi és ennyi nap múlva ér az adott csillaghoz; a mitikus hagyományban napok is lehetnek évekre utalók).  
 Minden fontosabb csillagkép taglalása végén megfeleltet egy özönvíz előtti királyt a jeggyel.  
+
+
 
 Robert Brown Jr. Primitive Constellations című könyvének (első kötetének) 330. oldalától szól [[B/Berossus\|Berossus]]-ról. A 332. oldalon egy, Várkonyi Nándortól eltérő módon magyarázza a 432000 évet (felölelő időtartamot), melyhez a fentebb említett adatai kapcsolódnak.  
 Mivel [[S/Sitchin, Zecharia\|Sitchin]] is számol ezzel a 432000 vagy 450000 évvel, minthogy könyve szerint akkor szálltak volna le "az istenek" hogy aranyat bányásszanak, okunk lehet feltételezni, hogy Berossus képtelen adatát készpénznek vette. És így, a dolgok láncolata vezet oda, hogy magukat értelmesnek tartó emberek, mint Szűcs Róbert is, ilyen hiszékeny módon hinni képes Sitchin elméletében.  
