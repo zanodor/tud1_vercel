@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2024-10-22T21:36"}
+{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2025-03-24T18:06"}
 ---
 
 
@@ -44,14 +44,17 @@ Borbola János Az ember és a magyar című az Ősi Gyökér 2012/2-4. sz. megje
 ...Körösi Csoma Sándor H. Gesellschaft, München, 1993. című német nyelvű könyvének 108. oldaláról idéz (illetve én csak a fordítást adom):  
 > Ezzel szemben biztosan úgy vélem, hogy a latin, a spanyol, a francia stb. csupán másodlagos nyelvek, melyek a magyar-eurázsiai ősnyelv *pidginizáció*jából származnak; így az alapszókincs eredetét mind a latin, mind az ún. román nyelvek esetében feltétlenül a magyarból kell származtatni.  
 
-Ezen pidginizáció kifejezéssel angol nyelvű írásban már találkoztam. Jó lesz figyelemmel kísérni. A kereskedelem és kalmárkodás igen nagy károkat okozott a nyelv és őskultúra tekintetében.  
+A pidginizáció kifejezéssel angol nyelvű írásban már találkoztam. Jó lesz figyelemmel kísérni. A kereskedelem ill. kalmárkodás igen nagy károkat okozott a nyelv és őskultúra tekintetében.  
 - Aztán Kemény Ferenc olyat is ír, amit én is mindig hajtogatok:  
 > Hogy a latin `imperator` szó az `imperare` igéből levezetve lenne, az nevezetesen tévedés, a valóságban az őslatinok az igéket a főnevekből képezték.  
 
 [[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidginizáció\|Nyelvek keveredéséből létrejött nyelvek – pidginizáció]] cím/alcímnél más is szólt a pidgin nyelvről és a pidginizáció jelenségéről.  
-Lásd még [[L/Latin nyelv#Latin szókincs pidgin szókincsból való eredete\|latin szókincs pidgin szókincsból való eredete]] alcímet alant.  
+Lásd még [[L/Latin nyelv#Latin szókincs pidgin szókincsből való eredete\|latin szókincs pidgin szókincsből való eredete]] alcímet alant.  
 
 ## Latin birodalmi nyelv – egységesként kezelésének hibája
+
+Ahogy [[I/Indogermán nyelvészet#Indogermán ősszavak időtlensége\|indogermán ősszavak időtlensége]] cím/alcímnél szóltunk róla, a nyelvészet azt akarja beállítani, hogy pl. egy francia nyelvű szó indoeurópai szó és az adott szónak proto-indoeurópai elődje ugyanaz, mint a németé, stb.  
+Azt elfelejtik kifejteni, hogy nem a római "birodalmi" latin természetes elterjedéséről van szó, hanem az egyházi latin volt nagy hatással a tudományokon keresztül minden nyelvre. Annak ellenére, hogy a katolicizmus révén ez Magyarországon is így volt, a magyar nyelv magyar nyelv maradt, de az az indoklás nem állná meg a helyét, hogy "mert itt a római latin nem alakult vulgáris latinná." Nyugaton a nyelveknek nem volt olyan egysége, ellenállási képessége, hiszen még az országaik is kb. 200 évvel ezelőtt kerültek egységesítésre. Tehát több okot kell vizsgálni.  
 
 #### Götz László Keleten kél a Nap...
 
@@ -91,7 +94,7 @@ A latin lexikai szófelvétel kapcsán biztos hogy igazam van: egységes homogé
 [[F/Finnugor nyelvek\|Finnugor nyelvek]] címnél soroltunk néhány szót, azóta kiderült, hogy a latin [[A/Aquila\|aquila]] = sas megvolt\[?\] az oszmán-törökben is, ahol `aqilla` = sas szintén.  
 Több esetben a török szó a latinnal vagy olasszal azonos, pl. a [[C/Column\|column]] címnél említett török `kolon` = oszlop.  
 
-## Latin szókincs pidgin szókincsból való eredete
+## Latin szókincs pidgin szókincsből való eredete
 
 [[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidginizáció\|Pidginizáció]]ról már esett szó fentebb is.  
 Lássunk egy példát:  
