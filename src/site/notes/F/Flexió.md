@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-03-21T21:53"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-03-25T18:47"}
 ---
 
 
@@ -43,7 +43,7 @@ Mielőtt további példákkal szemléltetnénk, hogyan működik mindez a magyar
 
 Götz László Keleten kél a Nap című könyvében is hoz példákat magyar és szumer nyelvre.  
 Képileg közlöm:  
-![assets/Flexió_image1.jpeg|invert_dark](/img/user/F/assets/Flexi%C3%B3_image1.jpeg)  
+![assets/Flexió_image1.jpeg](/img/user/F/assets/Flexi%C3%B3_image1.jpeg)  
 
 Az egyik legszemléletesebb példa magyar belső flexióra [[E/Egy\|Egy]] – [[A/Atya\|Atya]] ([[U/UTU\|UTU]]; [[A/Ad\|Ad]]) – [[A/Ász\|Ász]]/[[O/Ős\|Ős]] ([[A/Ács\|Ács]]) és persze ne felejtsük `egy` számnevünk más számneveinkben (2,4,5,6,7) való előfordulását sem.  
 ```plantuml-svg
@@ -85,7 +85,7 @@ Ott van még a [[S/Süt\|süt]] ige [[S/Sötét\|sötét]]/[[S/Sötét\|setét]]
 A kutyára visszatérve, [[E/EB\|eb]] és [[A/Apa\|apa]] szavaink [[I/Ív\|ív]] szavunkkal való viszonya említhető még ilyen szinten (lásd még témát [[L/Lemniszkáta\|lemniszkáta]]), de például magánhangzó cserével a [[M/Más\|más]] (lásd még [[M/MAS\|MAS]]) fiú, hős jelentése az, ami majd a [[M/Mese\|mese]] szavunk létrehozója is lesz.  
 Sok más szópár ismert: [[V/Vessző\|vessző]] – [[F/Fasz\|fasz]]; [[V/Víz\|víz]] szavunk [[V/Vedel\|vedel]], [[V/Vödör\|vödör]], [[V/Vád\|vád]]ol, [[V/Vese\|vese]] szavakban ugyanúgy megtalálható; fentebb említett [[H/Ház\|ház]] szavunk (közös gyöke) ismerendő fel olyan szavakban, mint [[H/HAS\|has]], [[K/KAS\|kas]], [[K/KÁD\|kád]], [[K/Kagyló\|kagyló]], stb.  
 M>N változásra sok példa van; itt csak a magyar [[M/Magas\|magas]] szó gyökét mutassuk be [[N/Nagy\|nagy]] szavunk párjaként.  
-[[M/Magyar szavak, szórészek alakváltozatai\|Magyar szavak, szórészek alakváltozatai]] címnél más példákat is bemutattunk.  
+[[M/Magyar szavak, szórészek alakváltozatai\|Magyar szavak, szórészek alakváltozatai]] címnél korábban más példákat is bemutattunk.  
 A fentebb idézett Végvári József [[S/Szócsaládok\|szócsalád]]-rendszere is szavak hajlított hangjaiból épülő szópárjai közti lehetséges kapcsolatok feltárásában segíthet (pl. [[O/Ostya\|ostya]]/[[T/Tészta\|tészta]] ← [[T/Test\|test]]).  
 
 [[S/Szláv és török jövevényszavak#-Cs, -csk(a), -ka végződések\|-Cs, -csk(a), -ka végződések]] cím/alcímnél pedig arról szóltunk, hogy ha a szavak közös szóbokorhoz tartoznak, meg tudjuk őket védeni magyarnak.  
