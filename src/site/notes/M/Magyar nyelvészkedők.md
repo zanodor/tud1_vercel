@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","created":"2023-11-19T03:30","updated":"2024-10-24T01:46"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","created":"2023-11-19T03:30","updated":"2025-03-25T18:47"}
 ---
 
 
@@ -11,10 +11,13 @@ A több helyen ([[T/Turanizmus\|turanizmus]] címnél szerepelt a legtöbb) idé
 Az egyes kritikai észrevételeket elnézve abszolút igazuk is lehet egyes esetekben, ugyanis az általuk felsorolt szerzők zöme ki nem forrott elméleteket adnak úgy közre, olyan szófejtésekkel és hasonlításokkal, amelyek [[D/Dudás Rudolf\|Dudás Rudolf]] és Jásdi Kiss Imre esetében is lehetnek tudománytalanok és nevetségesek. (A két illető felkészültsége a témában merőben eltérő, persze.)  
 
 Péterfai János is megteszi a magáét kritika ügyében: hol tévednek az eljárásukban stb.  
-Addig, amíg a kutatóknak nem jönnek rá, hogy a szavak a nyelv alaprétegüket tekintve csillagvallás-kori és a szavak kettős, asztrális és telluris vonatkozásúak, addig nem is lesz változás.  
+Addig, amíg a kutatók nem jönnek rá, hogy a [[M/Magyar szavak szakrális és profán jelentései\|szavak a nyelv alaprétegüket tekintve csillagvallás-kori és a szavak kettős, asztrális és telluris vonatkozásúak]], addig nem is lesz változás.  
 
 [[V/Végvári József\|Végvári József]] is rámutatott, hogy **szavaink és a köztük fennálló szerves összefüggések magát a világmindenséget képletezik szerkezetében, keletkezésében és működésében egyaránt, tanulmányozásuk – együtt népünk alkotóerejének más megnyilvánulásaival, mint a népművészet különböző ágazatai – a tudás teljességét adhatja meg**.  
-Azóta ennek tudatában rengeteg ember vállalta magára azt a szerepet, hogy megmondja az igazságot a magyarok ősműveltségét illetően, de persze csak kisebb részegységek (téves) kidolgozásáig jutottak (legtöbben). Ők azok, akik a komolyabb kutatókhoz hasonlításra kerülve lejáratják a magyarság ügyét. Több kárt okoznak, mint hasznot. Erről a Quorán lévő fő cikkem végén is szóltam. Ott szóba került a Stockholm – Istókhalma eset is. Állítólag ezt az összefüggést [[H/Horvát István\|Horvát István]]nak tulajdonítják, melyre (vagy más, általa még nem nevezett forrásra hivatkozva) Péterfai János azt írja, hogy...  
+Azóta ennek tudatában rengeteg ember vállalta magára azt a szerepet, hogy megmondja az igazságot a magyarok ősműveltségét illetően, de persze csak kisebb részegységek (téves) kidolgozásáig jutottak (legtöbben). Ők azok, akik a komolyabb kutatókhoz hasonlításra kerülve lejáratják a magyarság ügyét. Több kárt okoznak, mint hasznot. Erről a Quorán lévő fő cikkem végén is szóltam. Ott szóba került a Stockholm – Istókhalma eset is. Állítólag ezt az összefüggést [[H/Horvát István\|Horvát István]]nak tulajdonítják, melyre (vagy más, általa még nem nevezett forrásra hivatkozva)...
+
+#### Péterfai János írja:
+
 > Stockholm  Istók-Halma fogalmát Horvát Istvánnál nem találtam meg, ellenben az ellenséges Gestapo és NKVD ügynökei által terjesztett szövegekben igen!  
 
 Így működik a dolog. A baromságokat összehordókat egy napon/lapon (és, ahogy alant látjuk a példát, összevágott videókban egy csomagban) említik a komoly kutatómunkát végzőkkel.  
@@ -25,7 +28,7 @@ Az [alábbi](https://www.youtube.com/watch?v=JJFc4fFx_bQ) videóban is szerepeln
 
 Gyakori hiba magyar szófejtőknél, hogy hallották/tudják, hogy a magyar az ősnyelv, és minden szó automatikusan egy magyar szóra visszavihető. Pl. Kolumbán Sándor a [[V/Vicc\|vicc]] szót magyarnak védi, ahelyett, hogy belátná, ez német szó átvétele, de [[W/Wit\|wit]] valóban magyar eredetű. [[L/Light\|Light]] címnél sok-sok példát láttunk arra, hogy két (vagy akár több) lépcsőben kell gondolkodni.  
 
-[Ezen](https://www.facebook.com/zugtaltos/) oldal (mely Kubínyi Tamást is felvette a lejáratandók közé) háttérképén is találni ilyeneket (már szándékosan túlvariálva), hogy Seattle = Sötét Ló, Arisztotelész = Harisnyás Tóth Illés, vagy a "geolingvisztikus"-nak aposztrofált Jásdi Kiss Imrétől idézett pogány = Gányolni a Pókat... (A Turul < "háturul" egy másik őrület tőle. A Bazilika "Vót ott egy bazi nagy lik" értelmezése elképesztő, de Práczki István és mások is tévedtek.)  
+A [ZugTáltos](https://www.facebook.com/zugtaltos/) Facebook oldal (mely Kubínyi Tamást és Bakos Atillát is felvette a lejáratandók közé) háttérképén is találni ilyeneket (már szándékosan túlvariálva), hogy Seattle = Sötét Ló, Arisztotelész = Harisnyás Tóth Illés, vagy a "geolingvisztikus"-nak aposztrofált Jásdi Kiss Imrétől idézett pogány = Gányolni a Pókat... (A Turul < "háturul" egy másik őrület tőle. A Bazilika "Vót ott egy bazi nagy lik" értelmezése elképesztő, de Práczki István és mások is tévedtek.)  
 
 A "mindent visz" kategóriába tartozik Kiss Balázs Youtube-os kommentelő [[K/Kenéz\|Kenéz]] nevünk eredetének meghatározásával: "a Kenéz egy kineziológus, kinéz egy helyet, amit a törzs elfoglal."  
 
