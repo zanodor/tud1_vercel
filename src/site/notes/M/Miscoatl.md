@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Miscoatl/","title":"Miscoatl","tags":["Englishtexttranslated"],"created":"2023-10-21T02:18","updated":"2024-10-25T23:29"}
+{"dg-publish":true,"permalink":"/M/Miscoatl/","title":"Miscoatl","tags":["Englishtexttranslated"],"created":"2023-10-21T02:18","updated":"2025-03-25T20:50"}
 ---
 
 
@@ -35,7 +35,7 @@ A Mizcoatl (Misz-Kő) név igen érdekes, hiszen ez tulajdonképpen a [[M/Mithra
 
 A Misz előtag Tejútra való utalását látszik megerősíteni a R. H. Allen Star Names című könyvében előjövő nevek:  
 Az évkör neve a babyloniaknál Mizrātå[^2], mely felbontható magyar etimonokra. Rokonításul Richard H. Allen felhozza a bibliai-héber[^3], Tejút jelentésű (vagy arra utaló) Mazzārōth, Mazzālōth neveket (Tejút vagy zodiákus jelentésű akkor?).  
-- Mindkét név eredeztetésével úgy tűnik hiába bírkóztak az Allen által említett tudósok.
+- Mindkét név eredeztetésével úgy tűnik hiába birkóztak az Allen által említett tudósok.
 
 Mazzaloth-ról még elmondja, hogy más értelmeket is tulajdonítottak neki:  
 > Still this Bible word has been variously rendered, appearing for the Greater Bear, Sirius, then for the constellations in general; indeed it has been thought to signify the Lunar Mansions.  
