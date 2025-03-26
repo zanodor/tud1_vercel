@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2024-10-23T20:17"}
+{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2025-03-26T03:15"}
 ---
 
 
@@ -56,13 +56,13 @@ Az alábbi Szergej Tokarevtől származó sorokból az tűnik ki, hogy a magyar-
 > A korai időszakban a rómaiak nem rendelkeztek istenábrázolásokkal, szobrokkal vagy bálványokkal. Ez is a római vallás tisztán racionális, érzelem- és költészetmentes jellegének megnyilvánulása volt. Az egyes istenségek anyagi szimbólumaiként különböző tárgyak, valószínűleg a múltból származó egyszerű fétisek szolgáltak. Marsot egy lándzsa, Jupitert pedig egy szikla jelképezte. Vesta szimbóluma, mint már említettük, egy szent örök láng volt. A rómaiak csak később kezdtek szobrokat építeni az istenekről, a görögöket utánozva. Ugyanakkor a parasztok továbbra is imádták az istenek megszokott szimbólumait – öreg fatörzseket és nagy köveket.  
 - [[I/Istennevek\|Istennevek]] címnél is arról volt szó, hogy a judeo-krisztián értelmezések szerinti "a pogányok több-istenhívők voltak" elképzelés sem állja meg a helyét.
 
-Amennyiben az etruszkok emeltek is volna szobrokat Isteneiknek, az is a hanyatlás jele volt.  
+Amennyiben az etruszkok emeltek is volna szobrokat isteneiknek, az is a hanyatlás jele volt.  
 
 [[H/Hérodotosz\|Hérodotosz]] írja, hogy a szkítáknál \[nyilván értsd: bizonyos szkítáknál\] sem voltak bálványok:  
 > Scythians made no idols (Herodotus 4:59).  
 > —  
 > A szkíták nem készítettek bálványokat (Hérodotosz 4:59).  
-- Pedig valahol ott náluk volt egy fallikus kultusz.  
+- Pedig valahol ott náluk volt egy fallikus kultusz.
 
 #### Schmidt Irén A magyarok és elődeik istenképe, találkozásuk a kereszténységgel a római térítés előtt 1-2....
 
@@ -96,7 +96,7 @@ A bálványnak van egy másik jelentése is.
 
 Kubínyi Tamás mondja egy ÁKTV műsorában, hogy a televízió váltotta fel a [[H/Házioltár\|házioltár]] szerepét. Másutt továbbmegy és úgy fogalmaz, hogy bálványimádó (az imádat tárgya a házioltár szerepét átvevő készülék).  
 
-## Bálványimádó Jahve-imádó zsidók
+## Bálványimádó Jahvista zsidók
 
 Amikor a [[K/Kabbalah\|Kabbalah]] címnél említett, [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél is előjövő ausztrál, magyar nyelvet ősnyelvnek tanító Goz nevű illető a kabbalisták által elferdített istenképről beszél, elszalasztott egy jó lehetőséget annak kimondására, hogy ha a szerinte az [[I/Ige\|ige]] címnél is említett magyar nyelv maga az isten, ami a tudatunkon és lelkünkön keresztül létezik, akkor az egyénen kívül helyezett istenkép, mint amilyen a zsidóké, az bálványimádásnak tekinthető. Tehát pont azok a zsidók beszélnek Jézus kapcsán bálványimádásról, akik maguk is bálványimádók. Klasszikus esete a projekciónak.  
 
