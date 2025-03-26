@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","created":"2023-10-06T12:05","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2025-03-26T03:15"}
 ---
 
 
@@ -287,12 +287,11 @@ De így operál – hatalmas anachronizmusos csúsztatással és démonizáló c
 ## Projekció
 
 A projekcióról valamelyik Quora kérdésben adott válaszomban is ejtettem szót: a saját nézőpontjukat kiterjesztik másokra, jó emberekre, nemzetekre.  
-[[H/Honfoglalás\|Honfoglalás]] címnél is arról volt szó, hogy projekcióval is elérik, hogy ne ők legyenek az egyedüliek, akik csalással vagy erőszakkal nyerték hazájukat.  
-[[B/Bálvány#Bálványimádó Jahve-imádó zsidók\|Bálványimádó Jahve-imádó zsidók]] cím/alcímnél is szóltunk arról legutóbb, hogy az egyénen kívül helyezett istenkép, mint amilyen a zsidóké, bálványimádásnak tekinthető. Tehát pont azok a zsidók beszélnek Jézus kapcsán bálványimádásról, akik maguk is bálványimádók (ráadásul [[J/Jahve\|Jahve]] csillagkép, nem valódi/teremtő isten). Klasszikus esete a projekciónak.  
+[[H/Honfoglalás\|Honfoglalás]] címnél is arról volt szó, hogy projekcióval is elérik, hogy ne ők legyenek az egyedüliek, akik csalással vagy erőszakkal nyerték hazájukat.  [[B/Bálvány#Bálványimádó Jahvista zsidók\|Bálványimádó Jahvista zsidók]]] cím/alcímnél is szóltunk arról legutóbb, hogy az egyénen kívül helyezett istenkép, mint amilyen a zsidóké, bálványimádásnak tekinthető. Tehát pont azok a zsidók beszélnek Jézus kapcsán bálványimádásról, akik maguk is bálványimádók (ráadásul [[J/Jahve\|Jahve]] csillagkép, nem valódi/teremtő isten). Klasszikus esete a projekciónak.  
 
 ## Zavarkeltés, ködösítés, elhomályosítás
 
-Ezzel kellett volna kezdeni. Homályosnak, zavarosnak kell mindent beállítani. Drábik János is egy friss beszélgetésben elmondja, hogy mint a tűt a szénakazalból, úgy kell az igazságot kiemelni a hazugságok tengeréből.  
+Ezzel kellett volna kezdeni. Homályosnak, zavarosnak kell mindent beállítani. Drábik János is egy beszélgetésben elmondja, hogy mint a tűt a szénakazalból, úgy kell az igazságot kiemelni a hazugságok tengeréből.  
 Ez a jelszó a őstörténet-kutatásban is. Ma a szlávok kárpát-medencei jelenlétének olyan nyelvi-földrajzi, hazánk területén is máig élő bizonyítékai vannak például, mint a Csongrád, Nógrád és Visegrád nevek (csak a legismertebbek közül; a [[B/Balaton\|Balaton]] nem szláv alakú név, a [[D/Dráva\|Dráva]] alakú, felgyorsult neveket könnyen meg lehet magyarázni). Ezen nevekről ill. a bennük rejlő szavakról viszont nagyon könnyen be lehet bizonyítani magyar-szkíta eredetüket, amit persze a szlávok azért nem fogadnak el, mert nyugatról, mind a Habsburgoktól, mind a mai Oxford és Cambridge kiadványokból (amelyeket ők is írnak meg helyenként) azt az alternatív történelmet kapták örökül, hogy ők a honfoglaló (betolakodó) magyarok "tanítói," következésképp a nyelvet is ők adták volna. A buta szlávok (és románok) nem jönnek rá, hogy ez a ködösítés nem tudományos, hanem politikai hátterű. A lényege pedig az, hogy a rokon népek ne legyen egységben, hanem egymás ellen. Márpedig az összefogni és vezetésre képes magyarságnak a nyakába ellenségeket kell tenni.  
 Tökéletes példája ez annak, hogy inkább egy proto-indo-európaiból lett proto-szláv-szláv történelmet (közben a magyar történelmet kisajátítva és ez sem mellékes, Trianon után) oktatnának, tele bizonytalansággal, mint a valóságot, hogy szkíta leszármazottak, és rokonok a magyarokkal, csak a nyelvük lett más (mondjuk ki: alávalóbb).  
 A (lengyel Dorothea nevű nyelvésszel folyamatos vitaalapot képező) proto-szlávok (nem létező) nyelvéről fentebb éppen volt szó (lásd lábjegyzetet).  
