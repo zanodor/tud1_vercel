@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Letöltések/","title":"Letöltések","created":"2023-12-28T07:46","updated":"2025-03-13T15:42"}
+{"dg-publish":true,"permalink":"/101/Letöltések/","title":"Letöltések","created":"2023-12-28T07:46","updated":"2025-03-28T23:46"}
 ---
 
 
@@ -8,6 +8,7 @@
 Az alábbi két MEGA webhelyről megtekinthetők és letölthetők\* magyarság- és igazságkutatással kapcsolatos elektronikus állományok (elsősorban PDF formátumban):  
 - [Letöltések I.](https://mega.nz/folder/ErlUXKhR#tgVUMPOC7r5HcDO5-iRIVQ)
 - [Letöltések II.](https://mega.nz/folder/xjk10BgK#4Qq0eXPz1t_6qodJkNItKg)
+
 
 Használja a keresőt (search) bármely webhelyen a keresett állomány megtalálásához (már ha fel lett töltve bármelyik tárra is).  
 
