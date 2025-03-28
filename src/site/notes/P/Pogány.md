@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated"],"created":"2025-03-12T22:36","updated":"2025-03-24T21:25"}
+{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2025-03-28T14:28"}
 ---
 
 
@@ -10,9 +10,9 @@ A mai nézet szerint a pogány annyi, mint hitetlen vagy nem-keresztény (és ez
 #### John G. Jackson Christianity before Christ...
 
 ...című könyvében is jól megfogalmazza:  
-> **Many Christians denounce Paganism as false religion. If this is correct, then Christianity is also false, for it is of pagan origin, and if one is not true, then neither is the other**.  
+> Many Christians denounce Paganism as false religion. If this is correct, then Christianity is also false, for it is of pagan origin, and if one is not true, then neither is the other.  
 > —  
-> **Sok keresztény elítéli a pogányságot, mint hamis vallást. Ha ez igaz, akkor a kereszténység is hamis, mert pogány eredetű, és ha az egyik nem igaz, akkor a másik sem**.  
+> Sok keresztény elítéli a pogányságot, mint hamis vallást. Ha ez igaz, akkor a kereszténység is hamis, mert pogány eredetű, és ha az egyik nem igaz, akkor a másik sem.  
 
 Az alábbiakban arról lesz szó, hogy a pogány kereszténység a népi, alulról szerveződő kereszténység (mire a politikai [[J/Judeo-kereszténység\|judeo-kereszténység]] ráült). Erről [[M/Magyar népművészet\|magyar népművészet]] címnél, külön alcímnél is volt szó.  
 Egy fontos tétel, melyet Pap Gábor tisztáz (és [[P/Págony\|págony]] név alapján ugyanerre a következtetésre jutottunk), hogy az egyháztörténeti és más lexikonok adata szerint a pogány, azaz a latin `paganus` annyit tesz, mint nem zsidóból lett keresztény. Azaz **eredeti szkíta keresztény**[^1]. Forrást lásd [itt](https://youtu.be/zs5G9SWNrzk) 10:55-nél.  
@@ -68,7 +68,8 @@ Pap Gábor ezen görög-latin `ethnikosz` = nemzeti; nemzetségbeli; népi szón
 
 (Ami az alábbiakban itt szerepel, Gondolatok a szkíta nép-nemzeti szertartásrendről c. cikkében Pap Gábornak bővebben, pontosabban megvan.)  
 Ezen témát már az [alábbi](https://youtu.be/zs5G9SWNrzk) videóban Pap Gábor körüljárta: 10:50-től kezdve szól a szkíta kereszténység egyháztörténetben megjelenő jelzőiről: paganus, gentilis és ethnikosz, melyek közül utóbbi is pogány értelmű volt, az angol szótár szerint is (más kérdés, hogy az angol már torzít, mert nemcsak a nem-zsidó pogányra utal, hanem teljesen nem-keresztényre). ([[G/Gentile\|Gentile]] = nem zsidó és [[G/Gentle\|gentle]] = nemes érzelmű szavak ide tartoznak. Az [alábbi](https://youtu.be/PEvrVFHIoBE) videóban 9:10-nél Pap Gábor elmondja, hogy a régi Országh féle zsebszótárban benne van a gentile = nem zsidó definíció (ellenőriztem: valóban első jelentése ez, a második idegen), de az újabb szótárakból kivették. Az online szótár is csak idegen jelentéssel adja meg.)  
-9:40-nél a [[H/Heathen\|heathen]] címnél is említett (CzF által pogány címnél adatolt Adelung infójaként is említett) der Heide = pogány (gój) és die Heide = mező; puszta szópárral mutatja be, hogy a fentiekhez hasonlóan működik (ez egy kicsit erőltetett tőle, és itt is elmondható, hogy a pogányok ([[V/Vrâtya\|Vrâtya]] címnél írottakra emlékezzünk) mivel nem városokban laktak, ezért ez a mezei, vidéki jelentéstartalom minden esetben utólag is kialakulhatott, illetve alakult ki; persze itt nem Indiáról, hanem az [[I/István\|István]] címnél is taglalt két Rómának szkítákat megítéléséről van szó).  
+9:40-nél a [[H/Heathen\|heathen]] címnél is említett (CzF által pogány címnél adatolt Adelung infójaként is említett) `der Heide` = pogány (gój) és `die Heide` = mező; puszta szópárral mutatja be, hogy a fentiekhez hasonlóan működik (ez egy kicsit erőltetett tőle, és itt is elmondható, hogy a pogányok ([[V/Vrâtya\|Vrâtya]] címnél írottakra emlékezzünk) mivel nem városokban laktak, ezért ez a mezei, vidéki jelentéstartalom minden esetben utólag is kialakulhatott, illetve alakult ki; persze itt nem Indiáról, hanem az [[I/István\|István]] címnél is taglalt két Rómának szkítákat megítéléséről van szó).  
+
 Pap Gábor ezután még felhozza az orosz `язычник` = pogány szót, melyet a `язык` = nyelv szó származékának tart: merthogy szerinte a nyelv a népé, nemzeté, és a pogányság tehát a zsidók által gyűlölt és kiirtandó népekre utal. A nyelv különbségére hívhatta volna fel a figyelmet: a magyar még a régi nyelvét megtartva beszélt, de sok szkíta/hun már nem.  
 
 A fentebb említett cikkben írja:  
@@ -80,9 +81,11 @@ De mi lenne, ha az orosz szó eredetén keresztül is a szkíta-íjfeszítő ös
 
 Amiről itt szó van tehát, hogy a pogányoknak mondott magyarok voltak az igazi hitesek, hithű keresztények. Alternatív kutatók (sőt, akár, egyházi apologisták is) látják, hogy a (judeo-)kereszténység pogány gyökerű. Csak azt nem tudják, hogy a pogány valójában nem azt jelenti, amit.  
 
+Ami pedig azt az analógiát illeti, hogy a gój mögött is megtaláljuk a gulya (nyáj = nép) fogalmát, ahogy a pogány mögött is végső soron megtaláljuk a leigázást, lekötést (lásd [[F/FOG#Állat befogása, népek leigázása, "megbékéltetése"\|állat befogása, népek leigázása, "megbékéltetése"]]), ez azt jelenti, hogy a népit a politikai-birodalmival kell szembe állítani. A szkítizmus is így állítandó szembe a szemitizmussal: a szkíta a szívében hordta az igazságot, a zsidónak már törvénybe iktatták, mi a helyes.  
+
 Az [ezen](https://sg.hu/forum/tema/1112391905?page=11) fórumon író, több címnél említett boleron nevű hozzászóló szerint:  
 > A pogány értelmezése is, minden sok más fogalom esetében, korszakonként változott, jelentéstartalma bővült. De még korszakokon belül is több értelmezése volt. Az itt tárgyalt időszakban, Szt. [[I/István\|István]] esetében, amikor már a nagy vallások gyökeret vertek, elterjedtek vallásos értelemben pogány volt mindenki, aki nem a keresztény vallás híve volt. Kulturális értelemben a műveletlen embert is pogánynak nevezték. Szt. István népe nem volt hitetlen, sőt a keresztény vallással már rég megismerkedett, nem egy törzsi vezető ember meg is keresztelkedett még a bizánci rítus szerint. A nép vallása viszont nem a nagy, akkor már uralkodó vallások közé tartozott, ezért pogánynak nevezte őket a bizánci és a római egyház is.  
-- Amit a témához jól érteni látszó beíró persze nem tud, mi volt a pogány eredeti jelentése és népünk ősvallása.
+- Amit a témához érteni látszó beíró persze nem tud, mi volt a pogány eredeti jelentése és népünk ősvallása.
 
 Amit Pap Gábor művészettörténészi rálátással (majdnem) elmond, igen nagy mérvű: a népi, néphagyományokat ápoló, nemes érzelmű (magyaros) emberek a nem zsidó-keresztény pogányok. Az igazság és a szavak jelentésének csűrésével-csavarásával ők lettek balga, buta, babonás "parasztoknak" beállítva a politikai judeo-keresztény római elnyomás által. ([[M/Magyar népművészet\|Magyar népművészet]] címnél és [[F/Fény és sötétség\|fény és sötétség]] újra-bevezetőjében is hasonló témákról volt szó: a hamis kultúrfölény-képpel rendelkező degradál és pusztít. Ezért van szükség tudásra, a tudásra építő lelki felemelkedésre Magyarországon. Bakos Attila hasonló gondolatait lásd [[K/Kali Yuga\|Kali Yuga]].)
 
@@ -110,7 +113,6 @@ Szergej Tokarev írja:
 
 [[P/Pagony\|Pagony]] viszont fiatal ritkás erdő. Felfogható úgy, hogy a pogány szóhoz van köze? Hiszen a világban mindenütt az erdők mélyén és a hegyen tetején maradt meg az ősvallás, ahová a judeo-keresztény térítők nem jutottak el/fel.  
 A francia [[P/Pays\|pays]] szónál is előjött.  
-Itt még szóba kerülhet a [[F/FOG\|FOG]] címnél taglalt lekötöttség ideája: a leigázott a vidéki/pogány.  
 
 Finn nyelvben hallottam ki a `pahan` szót, melyről kiderült, hogy már ragozott alak lenne.  
 [Ezen](https://www.wordsense.eu/paha/#Finnish) oldalon persze germán eredetet vallanak:  
@@ -119,7 +121,7 @@ Finn nyelvben hallottam ki a `pahan` szót, melyről kiderült, hogy már ragozo
 > Valószínűleg a protogermán \*bāǥa-ból. Vö. ónorvég `bágr` ("nehéz").  
 - Valójában a [[P/Pohjola\|Pohjola]] címnél írottak alapján kell figyelni rá.
 
-Megjelenni látszik az előgörög eredetűnek vélt (ó)görög `pōgōn` = szakáll szóban is ([lásd Wiki oldalán](https://en.wiktionary.org/wiki/%25CF%2580%25CF%258E%25CE%25B3%25CF%2589%25CE%25BD)). Talán a pogányok szakállat viseltek? Nos, mivel a [[S/Szakáll\|szakáll]] azon címnél legutóbb írottak szerint maga az istenkirály vagy istenkirályi cím elnevezése, és az istenkirály/napkirály [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél szereplő képek szerint nyilas/íjas attributumokkal is rendelkezett, könnyen lehet, hogy a szakállas < íjász képzetátvitelről lehet szó, de valószínűbben a [[P/POG\|pog]], [[B/BOG\|bog]] = Nap közvetlen használata (hajszál, szőr Napsugár-jelkép) áll hátterében és a pogány fogalmával nem rokon.  
+Megjelenni látszik az előgörög eredetűnek vélt (ó)görög `pōgōn` = szakáll szóban is ([lásd Wiki oldalán](https://en.wiktionary.org/wiki/%25CF%2580%25CF%258E%25CE%25B3%25CF%2589%25CE%25BD)). Talán a pogányok szakállat viseltek? Nos, mivel a [[S/Szakáll\|szakáll]] azon címnél legutóbb írottak szerint maga az istenkirály vagy istenkirályi cím elnevezése, és az istenkirály/napkirály [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél szereplő képek szerint nyilas/íjas attribútumokkal is rendelkezett, könnyen lehet, hogy a szakállas < íjász képzetátvitelről lehet szó, de valószínűbben a [[P/POG\|pog]], [[B/BOG\|bog]] = Nap közvetlen használata (hajszál, szőr Napsugár-jelkép) áll hátterében és a pogány fogalmával nem rokon.  
 
 [Ezen](https://en.wiktionary.org/wiki/pohon) oldal adata szerint a maláj és indonéz `pohon` = fa, valamint kezdet jelentésű. Helyben vagyunk, hiszen a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en (melyek végén [[P/Págony\|págony]] = nyilazó csillagzatok vannak) ülő [[T/Tejút\|Tejút]] a [[F/Fa\|fa]] és egyben a naptári év kezdetét is kijelölő nyári és téli napfordulós helyek is ott találhatóak.  
 - [[F/Fa#Fa mint kezdet\|Fa mint kezdet]] cím/alcímhez is bekerült.
@@ -129,8 +131,16 @@ Falvay Károly Nagyboldogasszony című könyvének 283. oldalán olavshatunk Bo
 Emilio Pagán egy amerikai baseball-játékos neve. Nyilván a pogány ősi értelmét vinné a név, de Ördögh Nóra és Miroslav Šatan nevei után nem biztos.  
 
 Szűcs László Égre írott történelmében írja ([[K/Kártya\|kártya]] címnél is szerepelt):  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/k/kartya/#pnhja8" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
 > Nem hagyhatom ki a magyar kártya említését sem (zöld – tavasz, piros – nyár, tök – ősz, makk – tél), s bevallom, mindig a tök ász volt a kedvencem, az ősz kártya – akkor még nem érezve az okát, de ma már tudom –, mert ősszel születtem, az őszi napéjegyenlőség ideje körül, amit ez a lap szimbolizál. A négy ász a négy különböző évszak szimbolizálásával az év természeti változásait jelöli meg és a paganushoz (pogány = falusi ember), a természetet szerető és megmunkáló egyszerű emberhez szól.  
-> Ezért is helytelen a pogány jelző illetése a hitetlenre, mert a vidéken élő, egyszerű, de tiszta lelkű mezőgazdasági munkás nem azonos azzal, akire e negatív jelzőt illesztik. S nem lehet kihagyni azt a régi magyar közmondást sem, miszerint három a magyar igazság és egy a ráadás. Meg kell említenem azt is, hogy a kártyajátékokat gyakran illették az "ördög bibliája" kifejezéssel, amit valószínűleg sorsfordító szerepe miatt aggattak rá, amikor is nagy tétben játszottak, s mindent vittek, vagy éppen vesztettek. De ha spirituális értelemben használták ([[T/Tarot\|Tarot]] kártya), akkor üzeneteivel ugyanúgy nagy változást hozhatott a lapot vető életében. Valószínűleg ez utóbbi az, ami leginkább az egyház vezetőit zavarhatta. Tiltották is az alkalmazását mindenhol, mert aki értette és tanította a lapok mágikus erejét, ő könnyen felvilágosíthatott mindenkit arról, hogy igazából melyik mű is az, amelyik valójában betölti az "**ördög bibliája**" szerepét.  
+> Ezért is helytelen a pogány jelző illetése a hitetlenre, mert a vidéken élő, egyszerű, de tiszta lelkű mezőgazdasági munkás nem azonos azzal, akire e negatív jelzőt illesztik. S nem lehet kihagyni azt a régi magyar közmondást sem, miszerint három a magyar igazság és egy a ráadás. Meg kell említenem azt is, hogy a kártyajátékokat gyakran illették az "ördög bibliája" kifejezéssel, amit valószínűleg sorsfordító szerepe miatt aggattak rá, amikor is nagy tétben játszottak, s mindent vittek, vagy éppen vesztettek. De ha spirituális értelemben használták (tarot kártya), akkor üzeneteivel ugyanúgy nagy változást hozhatott a lapot vető életében. Valószínűleg ez utóbbi az, ami leginkább az egyház vezetőit zavarhatta. Tiltották is az alkalmazását mindenhol, mert aki értette és tanította a lapok mágikus erejét, ő könnyen felvilágosíthatott mindenkit arról, hogy igazából melyik mű is az, amelyik valójában betölti az "ördög bibliája" szerepét. 
+
+</div></div>
+
 
 ## Újpogány
 
