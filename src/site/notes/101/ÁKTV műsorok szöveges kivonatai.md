@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-03-21T23:08"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-03-28T23:46"}
 ---
 
 
@@ -11,6 +11,11 @@
 
 **Videók kivonatokkal** (ha igaz, idővel visszamenőleg is bővül majd a lista):  
 
+[250328CN! HITHŐSÖK](https://rumble.com/v6rcemw-250328cn-hithsk-kubnyi-tams-ktv.html)  [https://share.note.sx/jeetuq38](https://share.note.sx/jeetuq38)
+[250327CN! A FEJEDELEM](https://rumble.com/v6ran3c-250327cn-a-fejedelem-kubnyi-tams-ktv.html)  [https://share.note.sx/nr888rck](https://share.note.sx/nr888rck)
+[250326CN! FEHÉR FOLTOK](https://rumble.com/v6r8yie-250326cn-fehr-foltok-kubnyi-tams-ktv.html)  [https://share.note.sx/4h397wdz](https://share.note.sx/4h397wdz)
+[250325CN! GYÜMÖLCSOJTÓ BOLDOGASSZONY](https://rumble.com/v6r719y-250325cn-gymlcsojt-boldogasszony-kubnyi-tams-ktv.html)  [https://share.note.sx/s60bc178](https://share.note.sx/s60bc178)
+[250324CN! BOLDOG ÓRA](https://rumble.com/v6r55zy-250324cn-boldog-ra-kubnyi-tams-ktv.html)  [https://share.note.sx/zt2qpq32](https://share.note.sx/zt2qpq32)
 [250321CN! RENDÜLETLENÜL](https://rumble.com/v6r030o-250321cn-rendletlenl-kubnyi-tams-ktv.html)  [https://share.note.sx/yf6fpezc](https://share.note.sx/yf6fpezc)
 [250320CN! LAKOMA](https://rumble.com/v6qy9vy-250320cn-lakoma-kubnyi-tams-ktv.html)  [https://share.note.sx/40o4gpgb](https://share.note.sx/40o4gpgb)
 [250319CN! MEGSZÁLLÁS](https://rumble.com/v6qwg38-250319cn-megszlls-kubnyi-tams-ktv.html)  [https://share.note.sx/mwig1tvx](https://share.note.sx/mwig1tvx)
