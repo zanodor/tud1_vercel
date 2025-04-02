@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-03-28T23:46"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-04-02T13:34"}
 ---
 
 
@@ -11,6 +11,7 @@
 
 **Videók kivonatokkal** (ha igaz, idővel visszamenőleg is bővül majd a lista):  
 
+[250331CN! BACH SZÜLETÉSÉRE](https://rumble.com/v6rh3h5-250331cn-bach-szletsre-kubnyi-tams-ktv.html)  [https://share.note.sx/8w798t42](https://share.note.sx/8w798t42)
 [250328CN! HITHŐSÖK](https://rumble.com/v6rcemw-250328cn-hithsk-kubnyi-tams-ktv.html)  [https://share.note.sx/jeetuq38](https://share.note.sx/jeetuq38)
 [250327CN! A FEJEDELEM](https://rumble.com/v6ran3c-250327cn-a-fejedelem-kubnyi-tams-ktv.html)  [https://share.note.sx/nr888rck](https://share.note.sx/nr888rck)
 [250326CN! FEHÉR FOLTOK](https://rumble.com/v6r8yie-250326cn-fehr-foltok-kubnyi-tams-ktv.html)  [https://share.note.sx/4h397wdz](https://share.note.sx/4h397wdz)
