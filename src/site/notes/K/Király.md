@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated"],"created":"2024-10-27T12:27","updated":"2025-02-18T01:06"}
+{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated"],"created":"2024-10-27T12:27","updated":"2025-04-02T15:44"}
 ---
 
 
@@ -16,7 +16,9 @@ Amikor más nyelveket említ Péterfai János, nyilván a lengyel `kraj` = orsz�
 Péterfai János másutt szereplő adata szerint az udmurt/votják `koroló` = király.  
 Nem hihető, hogy Nagy Károly...  
 - [Ezen](https://en.wikipedia.org/wiki/Charlemagne) oldalon azt állítják, hogy innen eredne a királyt jelentő szó mindenütt (patetikus):  
-> Charles' achievements gave a new meaning to his name. In many languages of Europe, the very word for "king" derives from his name; e.g., Polish: `król`, Ukrainian: `король` (korol'), Czech: `král`, Slovak: `kráľ`, Hungarian: `király`, Lithuanian: `karalius`, Latvian: `karalis`, Russian: `король`, Macedonian: `крал`, Bulgarian: `крал`, Serbo-Croatian: `краљ`/kralj, Turkish: `kral`.  
+> Charles' achievements gave a new meaning to his name. In many languages of Europe, the very word for "king" derives from his name; e.g., Polish: `król`, Ukrainian: `король` (korol'), Czech: `král`, Slovak: `kráľ`, Hungarian: `király`, Lithuanian: `karalius`, Latvian: `karalis`, Russian: `король`, Macedonian: `крал`, Bulgarian: `крал`, Serbo-Croatian: `краљ`/kralj, Turkish: `kral`.   
+> —  
+> Károly eredményei új jelentést kölcsönöztek a nevének. Európa számos nyelvében a "király" szó maga az ő nevéből származik; pl. lengyel: `król`, ukrán: `король` (korol'), cseh: `král`, szlovák: `kráľ`, magyar: `király`, litván: `karalius`, lett: `karalis`, orosz: `король`, macedón: `крал`, bolgár: `крал`, szerb-horvát: `краљ`/`kralj`, török: `kral`.  
 - Lentebb Bilecz Ferencnél lásd még a témát.
 
 ...híre hozzájuk eljutott volna (na ezen finnugor szót ki is hagyták a felsorolásból) vagy hogy az udmurtok is töltögettek volna magánhangzókat (persze az udmurt szó is lehet későbbi szlávból átvét, ugyanakkor a szóalak nem látszik ezt alátámasztani). Egyébként ez a név igen hasonló a szingaléz `kurullā` = madár névhez, melyhez a több helyen, [[K/Karoly\|karoly]] címnél is említett albán `kurrillë` = darumadár jelentésű szó is hasonló.  
@@ -115,7 +117,7 @@ Kubínyi Tamás egy műsorában idézi az Szent István király intelmei Imre he
 ## Napkirály, szakrális király
 
 **A szakrális királyság eszméje magyar eredetű**. A madár [[M/Magyar népművészet\|magyar népművészet]]i vizsgálata (a [[M/Madár\|madár]]ról népművészeink ma ezt mondják: "Sem nem kicsi, sem nem nagy, éppen akkora, amekkora az eget a Földdel összeköti," azaz feladata a kapcsolattartás Isten és ember között; épp mint a [[M/Magyar\|magyar]]nak) és a [[M/Madár#Madaras koronák\|madaras koronák]] cím/alcímnél taglaltak alapján mondhatjuk ki.  
-[Ezen](https://youtu.be/ZDxpS9YJwI4) előadásban [[G/Grandpierre Atilla\|Grandpierre Atilla]] 27:40-nél mondja, hogy a napkirálynak az a feladata, hogy felemelje a népét, úgy ahogy a Nap hatására a növények felemelik a fejüket és kivirágzanak. [[H/Huang-ti\|Huang-ti]] kapcsán is fontos észrevételeket tesz.  
+[Ezen](https://youtu.be/ZDxpS9YJwI4&t=1658) előadásban [[G/Grandpierre Atilla\|Grandpierre Atilla]] 27:38-nál mondja, hogy a napkirálynak az a feladata, hogy felemelje a népét, úgy ahogy a Nap hatására a növények felemelik a fejüket és kivirágzanak. [[H/Huang-ti\|Huang-ti]] kapcsán is fontos észrevételeket tesz.  
 
 [[K/Khvarena\|Khvarena]] és [[K/Korona\|korona]] címnél esik még szó a legitimációról, mennyei mandátumról.  
 
