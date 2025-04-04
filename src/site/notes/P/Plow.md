@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Plow/","title":"Plow","created":"2025-03-06T02:36","updated":"2025-03-11T23:23"}
+{"dg-publish":true,"permalink":"/P/Plow/","title":"Plow","created":"2025-03-06T02:36","updated":"2025-04-04T22:56"}
 ---
 
 
@@ -9,7 +9,10 @@
 A Götz László Keleten kél a Nap című könyvének 169. oldalán szumér-indogermán-szemita szavak párhuzamait bemutató szavak között a német `pflügen` = szánt szó mellé/elé a héber `palah` = szánt és a sumér `BULUG₂` = hasít igéket teszi.  
 [[P/Phalanx\|Phalanx]] és [[B/Balog\|Balog]] (illetve [[B/Barrack\|barrack]]) címnél hasonló szavakat láttunk.  
 Götz könyvének 178. oldalán szereplő táblázatos adatai:  
-![assets/Plow_image1.png|invert_dark](/img/user/P/assets/Plow_image1.png)  
+
+| német                                                     | latin                                  | görög                             | héber         | arab          | asszír                       | szumér                                         | magyar                                               |
+| --------------------------------------------------------- | -------------------------------------- | --------------------------------- | ------------- | ------------- | ---------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
+| FÄLL-en (dönt, kivág)<br>sPAL-ten (hasít)<br>BEIL (balta) | PELL-o (lök, üt)<br>FLA-gellum (ostor) | PLE-ge (ütés)<br>PEL-ekys (balta) | P-L-G (hasít) | BAL-t (balta) | PIL-aḳḳu (üt, ha-sít, balta) | BAL (balta, üt, szétválaszt)<br>BAL-ag (hasít) | BAL-ta<br>PALL-os<br>FEJ-sze<br>BAL-aska<br>VÁL-aszt |
 
 Már csak azért is érdekes a szó, mert a `szánt` rokonának tekinthető `kapál` szót említette ezen rész felett.  
 Vesd össze még szántóföld témában [[P/Pallag\|pallag]].  
