@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vált/","title":"Vált","created":"2023-10-10T10:44","updated":"2024-10-26T00:46"}
+{"dg-publish":true,"permalink":"/V/Vált/","title":"Vált","created":"2023-10-10T10:44","updated":"2025-04-04T22:55"}
 ---
 
 
@@ -12,7 +12,12 @@ Megfelel neki [[V/Volt\|volt]] is (és annak [[M/Múlt\|múlt]]), valamint az (�
 A kerékpáros körversenyek **Volta** és **Vuelta** nevei is így érthetők meg (persze a latin `volvere` szó nyomán eredőnek veszik, míg a Welt szót külön germán eredetűnek veszik).  
 
 Ilyen vázú ide tehető szavakat Götz László Keleten kél a Nap című könyvének 179-180. oldaláról való táblázatos adatai között találunk ([[P/Pole#Pole 2)\|pole]]) címhez is bekerült:  
-![assets/Vált_image1.png|invert_dark](/img/user/V/assets/V%C3%A1lt_image1.png)  
+
+| német            | latin           | görög        | héber         | asszír          | szumér                      | magyar   |
+| ---------------- | --------------- | ------------ | ------------- | --------------- | --------------------------- | -------- |
+| FLE-chten (fon)  | PLE-cto (fon)   | PLE-ko (fon) | PEL-ek (orsó) | PIL-aḳḳu (orsó) | BAL (forgat, orsó, forduló) | BIL-incs |
+| FEL-ge (abroncs) | VOL-vo (forgat) |              |               |                 |                             |          |
+
 Különösen a [[B/Ball#Ball 2)\|ball]] címnél lábjegyzetben említett sumér [[B/Bal\|bal]] = forgat, orsó, forduló érdekes. A tengely mindig közepén van, amely felez is. A tengely mindig közepén van, amely [[F/Fél\|felez]] is, jegyezzük meg.  
 
 A `welter` = turbulensen mozog ige vált igénkből való eredeztetéséhez is eljutunk.  
