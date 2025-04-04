@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Eye/","title":"Eye","created":"2024-05-03T11:33","updated":"2024-10-25T17:22"}
+{"dg-publish":true,"permalink":"/E/Eye/","title":"Eye","created":"2024-05-03T11:33","updated":"2025-04-04T22:53"}
 ---
 
 
@@ -18,7 +18,16 @@ Magyar Adorján adata szerint minden törzsnek külön szava volt mindenre. Így
 > Az afrikai oromo nyelvben is `egu` = látni, őrködni, és `ega` = őr, őrszem. Ha azonban mindez így van, honnan származnak akkor a német `Auge`, szláv `oko`, latin `oculus` = szem szavak?  
 
 Érdekes, hogy az általa itt nem említett szumer/sumér szemet jelentő szó is `igi`. Götz László Keleten kél a Nap című könyvének 182. oldalán szereplő táblázatos adataiban is megtaláljuk:  
-![assets/Eye_image1.png|invert_dark](/img/user/E/assets/Eye_image1.png)  
+
+| német                           | orosz        | latin          | görög                                   | finn         |
+| ------------------------------- | ------------ | -------------- | --------------------------------------- | ------------ |
+| AUGE (szem)<br>ACH-ten (figyel) | OKO (szem)   | OCU-lus (szem) | AUGÉ (fény, ragyogás, pillan-tás, szem) | AK-śi (szem) |
+|                                 | OGO-nj (tűz) | IG-nis (tűz)   |                                         |              |
+
+| héber                     | asszír               | óegyiptomi                              | szumér                                              |
+| ------------------------- | -------------------- | --------------------------------------- | --------------------------------------------------- |
+| 'AJI-n (szem)             | AK-lu (felügyelő)    | ACH-et („a nap szeme": királyi fejdísz) | IGI (szem, lát)<br>UGU-la (felügyelő)               |
+| ACH (szénmedence, parázs) | AKU-ku (tüzes csóva) | IACH-u (ragyogás, ragyogó)              | UG, GUG (ragyogó, fénylő, fény)<br>U₂-GUG (ég, tűz) |
 - A sumér `ugula` = felügyelő szó [[U/Ügy\|ügyel]] címhez is bekerült.
 
 A szumerrel és a német `auge` szóval is egyezni látszik a görög `augé` = fény, sugár, szem.  
