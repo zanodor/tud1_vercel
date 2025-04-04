@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated"],"created":"2024-10-23T20:07","updated":"2025-03-13T03:43"}
+{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated"],"created":"2024-10-23T20:07","updated":"2025-04-04T22:53"}
 ---
 
 
@@ -56,23 +56,26 @@ Mozsolics Amália régész az Orvostörténeti Múzeum közleményeiben említi 
 
 
 > Figyelemre méltó az a tény, hogy a magyar nyelvben nem nevezik meg a kovácsot, ahogy nincs magyar szó a medvére sem.
-- Ezt a témát úgy fújja mindenki, hogy ihaj; lásd szösszenetet [[M/Magyar tabu szavak\|magyar tabu szavak]].
+- Ezt a témát úgy fújja mindenki; lásd szösszenetet [[M/Magyar tabu szavak\|magyar tabu szavak]].
 
 > Talán a kovács mesterségének említése éppúgy tabu volt, mint ahogy az isteni származású medvéé. Sántaságára, testi hibájára utaló balog jelző éppúgy védelmet jelentett az ártó erők ellen, ahogy a gyermekek lekicsinylő Árpád, Borsod, Kölesd neve.  
 > A bronzkori kovácsok munkája szakrális tevékenység volt. A rézérc kohósítása, ötvözése (cementálása arzén, ón tartalmú ásványokkal), öntése jobbára éjjel történt, (sötétben látható csak az izzás, ítélhető meg a megfelelő hőfok) és nagy gyakorlattal precíz műveletsort (hagyományos rítust) kellet végrehajtani.  
 > Egy bronzkés kiöntését 12 másodperc alatt el kellett végezni a tégely kiemelésétől az öntés befejezéséig. A bronzművesség lehetett az első elkülönült foglalkozás, amely nemcsak teljes munkaidőt igényelt, de családi hagyományként öröklődött. Erre mutat, hogy a családnév statisztikában a mesterségek sorában a kovács foglalja el az első helyet. A fazekas csak huszadik. A kerámiák a bronzkorban még nem voltak kereskedelmi tárgyak, minden családban akadt hozzáértő fazekas, de a fémművesség (ércbányászat, dúsítás, kohászat, ötvözés, öntés, kovácsolás) a kezdetektől bonyolult szakmunka lett.  
 > A bronzkorban kovácsmesterséget űző pogány magyarok alighanem mágikus szertartásokkal segítették munkájuk sikerességét. Ez a kereszténység felvétele után az ősi rítus tiltásához vezetett. Ezután már nevén lehetett nevezni a rézés vasműveseket, igaz, a szlávok szavával.  
+- Ezzel ő azt mondja, hogy a [[K/Kovács\|kovács]] szavunk szláv eredetű...
 
-Ezzel ő azt mondja, hogy a [[K/Kovács\|kovács]] szavunk szláv eredetű...  
 > Közismert, hogy a családnevek kötelezővé tétele után sok cigány család kapott Balog nevet. Ennek egyik oka lehet az, hogy a cigányok között több moldvai, balkáni, kisázsiai származású rézműves volt.  
 
 
 > A rézüstök, bográcsok készítése ősi technikával történt, különösen a réz (azaz bronz) kolompok öntése továbbra is kézműves munka volt. Talán köztük is sok volt a sánta, suta, ám lehet, hogy csak az öreg magyarok emlékeztek a pogány kovácsok ősi ragadványnevére.  
-- Na itt már jó helyen járt volna.
+- Na, itt már jó helyen járt volna.
 
 Összefoglalás:  
-> A balog ige bronzkori, bal lábára bicegőt jelent. A fémművesek lábidegeinek sorvadását a bronz arzéntartalma okozta.  
-> A kovács szó a bronzkorban a magyar nyelvben tabu volt \[na persze\], helyette balog rejtő szót használták \[nem ismeri Péterfai János Orionos adatát\]. A Balog családnév a kovácsok ragadványneve. A Kalevala részben kora bronzkori monda. A cigányoknak adott Balog családnév rézművest jelent.  
+> A `balog` ige bronzkori, bal lábára bicegőt jelent. A fémművesek lábidegeinek sorvadását a bronz arzéntartalma okozta.  
+> A kovács szó a bronzkorban a magyar nyelvben tabu volt \[na persze\], helyette balog rejtő szót használták.  
+- Nem ismeri Péterfai János Orionos adatát.
+
+> A Balog családnév a kovácsok ragadványneve. A Kalevala részben kora bronzkori monda. A cigányoknak adott Balog családnév rézművest jelent.  
 
 Ha még Balog úr a [[B/Blacksmith\|blacksmith]] angol szót is felhozta volna, akkor lett volna teljes a kép, de a `ballag` igét is említhette volna: a lassú járás a sántasággal jár. [[S/Sánta\|Sánta]] címnél is írtuk közben:  
 Azt közben ne felejtsük el, hogy az egylábúság és a láb (ruhával való) takarása szóba került Gyárfás Ágnes Ősi Gyökeres cikkeiben. [[F/Félév\|Félév]] címnél áll némi adata erre nézve. Dobos Csanád [[D/Dzsed\|dzsed]] és [[Z/Zep Tepi\|Zep Tepi]] címnél álló adata is érinti Ozirisz lábát, befeketítését. [[L/LÁB\|Láb]] cím alján mindkét szerző ilyen adatait taglaljuk.  
@@ -104,7 +107,7 @@ Igaz ugyan, hogy [[K/Kovács\|kovács]] címnél írottak szerint a burjátokná
 Egyénként nemcsak sámánok, hanem mágusok között is megvolt a fekete<>fehér bontás: a Fáy Elek A magyarok őshona című könyvében emlitett [[K/Khamor\|Khamor]] tűzpapok ellentéte lehet a Magar vagy hasonló nevű tűzpap. És mit látunk megint? Hogy a Hunor/Orion > Khamor = Hámor és [[H/Hammer\|hammer]] = kalapács, mely a kovács/Orion szerszáma. Azaz a kovácsság valóban mágikus-szakrális foglalkozás volt. És magyarok a ma lenézett cigányokra bízták!  
 Ezen a ponton váltsunk vissza arra a kérdésre, hogy a románok cigányok-e?  
 [[F/Farrier\|Farrier]] = patkókovács címnél is feltettük a kérdést, hogy a hindi `lohār` = kovács is a lóval, patkójával kapcsolatos, vagy a [[L/LU\|LU]] itt olyan fényt jelentő szó, mint a [[K/KU\|KU]] a kovács szavunkban? Hát az ind szóval teljesen azonos lowari cigányok neve kovácsot jelent-e?  
-[[V/VIK\|VIK]] címnél előjött a székely, de (román?)cigánynak is mondott kovácsműhely vihnye, vinnye neve, mely Tűz Háza értelmű lehet.  
+[[V/VIK\|VIK]] címnél előjött a székely, de (román?)cigánynak is mondott kovácsműhely `vihnye`, `vinnye` neve, mely Tűz Háza értelmű lehet.  
 Ezen székely-magyar szót Vladimir Orel is felhozta Albán etimológia szótárában az albán `vigan` = óriás címnél, melyre azt írja, hogy ez egy a balkánon vándorszóként üzemelő szó kovács jelentéssel. Nos, Vig-An valóban lehet ilyen értelmű, hisz az Ég Tüzét gerjeszti. Arról pedig szintén volt szó, [[K/Kovács\|kovács]] címnél, hogy a kovács és az óriás fogalma együvé tartozik.  
 Nagyon sok szól most már amellett, így a románok nem is rómaiak, hanem [[R/Roma\|romá]]k! A római eredetet a Habsburgok találhatták ki, Péterfai János szerint is:  
 > Mondani sem szükséges, hogy a mai Romun, Rümun, a magyar Román népnév egy szűk csoport kitalálása. Nagyjából a XIX. sz. közepén adták ezt a nevet annak a népességnek, amely addig [[O/Oláh\|Vlach]] néven nevezte magát. Osztrák császári pénzen hamisították meg a románok, a mai néven románnak nevezett népesség, saját ősi nevét és kultúráját, a vlach nevet feladva. A balkáni Aromun népnevet változtatták Romunra, majd ezt a névformát összekötötték Róma nevével.  
@@ -139,7 +142,7 @@ Götz László Keleten kél a Nap című könyvének 162-164. oldalain találhat
 Ezen palag pedig annak a héber `balag` (ragyog) igének B-P változásos mása, mely a görög `phlogeos` (ragyogó) szóval (lásd társait [[F/Flag\|flag]]) hozatott kapcsolatba és mind a Balog = pelaszg [[B/Bál\|Bál]] isten nyári napfordulós állásának \[innen a perzsa `bala` = magas, nagy jelentésű szó is[^6]\] neve volt.  
 Ezen szavakat és változataikat táblázatos-képi formában lásd [[B/Barrack\|barrack]]. Azon helyre [[B/Break\|break]] címnél is utaltunk. Break mellett [[B/Block\|block]] olyan szó, mely a Balog, Fél-Ég (Éggömb felezésről van ugye szó) szókapcsolatot mutatja meg.  
 Hasonló szavakat [[P/Phalanx\|phalanx]] cím mellett lásd [[P/Plow\|plow]]. Másutt álló táblázatos adatait lásd ott.  
-Lásd még [[F/Fél#Felezés mint kettévágás – Tejút sávja általi osztás\|Felezés mint kettévágás – Tejút sávja általi osztás]] cím/alcímnél írottakat.  
+Lásd még [[F/Fél#Felezés mint kettévágás – Tejút sávja általi osztás\|felezés mint kettévágás – Tejút sávja általi osztás]] cím/alcímnél írottakat.  
 
 A görög ragyogó jelentésű szót legutóbb [[B/Balaton\|Balaton]] címnél egy Quora posztban is említettem.  
 Götz más adatait ragyogás, világosság jelentésű szavakkal lásd [[V/Világ\|világ]].  
