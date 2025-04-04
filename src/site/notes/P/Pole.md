@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pole/","title":"Pole","tags":["Englishtexttranslated"],"created":"2024-04-20T13:44","updated":"2024-10-25T23:49"}
+{"dg-publish":true,"permalink":"/P/Pole/","title":"Pole","tags":["Englishtexttranslated"],"created":"2024-04-20T13:44","updated":"2025-04-04T22:56"}
 ---
 
 
@@ -70,7 +70,12 @@ Ide megjegyzés: általán (ahogy [[Q/Quarter\|quarter]] és [[K/Kereszt\|keresz
 Alant és [[F/Flash\|flash]] címnél is szerepelt, hogy a görög `belos` = nyílvessző jelentésű; a nyíl Napsugár jelkép de lehet Tejútra vonatkozó is. Sőt, mivel a Tejút felezi az égteret, ezért ilyen irányból is megközelíthető (de a [[K/Kite\|kite]] címnél álló kelta-ír `gath` = nyíl is lehetne két, kettő és így fél értelemre vihető).  
 
 Ilyen vázú, ide tehető szavakat Götz László Keleten kél a Nap című könyvének 179-180. oldaláról való táblázatos adatai között találunk:  
-![assets/Poletwo_image1.png|invert_dark](/img/user/P/assets/Poletwo_image1.png)  
+
+| német            | latin           | görög        | héber         | asszír          | szumér                      | magyar   |
+| ---------------- | --------------- | ------------ | ------------- | --------------- | --------------------------- | -------- |
+| FLE-chten (fon)  | PLE-cto (fon)   | PLE-ko (fon) | PEL-ek (orsó) | PIL-aḳḳu (orsó) | BAL (forgat, orsó, forduló) | BIL-incs |
+| FEL-ge (abroncs) | VOL-vo (forgat) |              |               |                 |                             |          |
+
 Különösen a Götz László könyvének 191. oldalán is taglalt sumér `BAL` = forgat, orsó, forduló érdekes.  
 A Götz könyvének 492. oldalán adatolt csagatáj `bulga` "fölkever, megkavar, háborgat"; kazah `bolga` "ráz, fölkavar, forgat" szavak is ide tartoznak. Ami német példaként jobb lett volna talán, az a ([[W/Wife\|wife]] és [[W/Whelm\|whelm]] címnél is említett) német `wölben` = föléível ige.
 { #m8zkz}
