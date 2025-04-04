@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-04-02T13:34"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-04-04T22:52"}
 ---
 
 
@@ -11,6 +11,10 @@
 
 **Videók kivonatokkal** (ha igaz, idővel visszamenőleg is bővül majd a lista):  
 
+[250404CN! FELSZABA-DÚLÁS](https://rumble.com/v6rnobx-250404cn-felszaba-dls-kubnyi-tams-ktv.html)  [https://share.note.sx/81i9kcku](https://share.note.sx/81i9kcku)
+[250403CN! ELSŐ FIGYYELMEZTETÉS](https://rumble.com/v6rlzsp-250403cn-els-figyyelmeztets-kubnyi-tams-ktv.html)  [https://share.note.sx/gji8p8d4](https://share.note.sx/gji8p8d4)
+[250402CN! FEDELESEK](https://rumble.com/v6rkbw1-250402cn-fedelesek-kubnyi-tams-ktv.html)  [https://share.note.sx/rtudfgnr](https://share.note.sx/rtudfgnr)
+[250401CN! SOLYMOSI ESZTER EMLÉKÉRE](https://rumble.com/v6riqdv-250401cn-solymosi-eszter-emlkre-kubnyi-tams-ktv.html)  [https://share.note.sx/5ox5sp9q](https://share.note.sx/5ox5sp9q)
 [250331CN! BACH SZÜLETÉSÉRE](https://rumble.com/v6rh3h5-250331cn-bach-szletsre-kubnyi-tams-ktv.html)  [https://share.note.sx/8w798t42](https://share.note.sx/8w798t42)
 [250328CN! HITHŐSÖK](https://rumble.com/v6rcemw-250328cn-hithsk-kubnyi-tams-ktv.html)  [https://share.note.sx/jeetuq38](https://share.note.sx/jeetuq38)
 [250327CN! A FEJEDELEM](https://rumble.com/v6ran3c-250327cn-a-fejedelem-kubnyi-tams-ktv.html)  [https://share.note.sx/nr888rck](https://share.note.sx/nr888rck)
