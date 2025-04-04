@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2025-03-08T23:18"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2025-04-04T22:53"}
 ---
 
 
@@ -50,7 +50,7 @@ Bharat-ot Acharia S (mely forrás alapján?) India eredeti-bennszülött nevéne
 ...című könyvében is említi a Bharata nevet (képet lásd [[M/Mahabharata\|Mahabharata]]):  
 > First, of course, we come to the Himalaya range, the Himavat of Indian geography. All that portion of the earth lying between this mountain range and the great ocean to the South constitutes one of the seven, or nine, varshas, or divisions of the habitable (upper) hemisphere. Its name is **Bharata**.  
 > —  
-> Először természetesen a Himalája hegyvonulatához, az indiai földrajz Himavatjához érkezünk. A Földnek az e hegyvonulat és a déli nagy óceán között fekvő része alkotja a hét vagy kilenc varsa, vagyis a lakható (felső) félteke egyikét. A neve **Bharata**. 
+> Először természetesen a Himalája hegyvonulatához, az indiai földrajz Himavatjához érkezünk. A Földnek az e hegyvonulat és a déli nagy óceán között fekvő része alkotja a hét vagy kilenc varsa, vagyis a lakható (felső) félteke egyikét. A neve **Bharata**.
 > ![assets/Barát_image1.png|invert_dark](/img/user/B/assets/Bar%C3%A1t_image1.png){ #rhwol}
 
 
@@ -93,6 +93,7 @@ A barát szót [ezen](https://qr.ae/pNsjGC) Quora cikkbe is felírtam, továbbá
 > - `bread` (baked with the heat of the Sun, also eaten as the body of the Sun; later, in Christianity, as corpus Christi);  
 > - `beard` (hair is symbolic of sunrays);  
 > - `burn` also has the B-R consonant base;  
+> - German `braten` means exactly what we expect again = to bake;
 > - the names **Britain** and **Bretagne** come (not from India per se, but) from the expression Bar-At-On or Bar-At-An (Father Sun in the Sky; from Hunnic `an` comes `one` as well; the Magyar word for sky also yields the number one (`ég` > `egy`); this means that they had monotheistic religions and it's not the Jews who came up with that; the Sun was looked upon as Son, as the noun forms show: `Sun` = `son`).  
 > —  
 > Van néhány nyelvészeti adatunk arra, hogy ezek az avar hunok – akik nem voltak mások, mint az úgynevezett kus nép, kik, mikor átálltak a Nap imádására, és lettek Egyiptomtól egészen Észak-Indiáig fő meghatározó ereje –, területük nevét szanszkritul **Bharatá**nak hívták, a Nap neve után, ami az avar hunoknál Bar-Ata (Nap-apa) volt.  
@@ -102,9 +103,10 @@ A barát szót [ezen](https://qr.ae/pNsjGC) Quora cikkbe is felírtam, továbbá
 > - `bread` (a Nap melegével sütött, a Nap testeként is fogyasztották; később, a kereszténységben corpus Christi néven);
 > - `beard` (a haj a napsugarakat jelképezi);
 > - `burn` szintén B-R mássalhangzó alapja van;
+> - a német `braten` ismét pontosan azt jelenti, amire számítunk = sütni;
 > - a **Britannia** és **Bretagne** nevek (nem önmagában Indiából származnak, hanem) a Bar-At-On vagy Bar-At-An (Atya Nap az égen; a hun `an`-ból származik az `one` is; a magyar `ég` szóból is az `egy` számnév származik (`ég` > `egy`); ez azt jelenti, hogy egyistenhitű vallásaik voltak, és ezt nem a zsidók találták ki; a Napra Fiúként tekintettek, ahogy a főnévi alakok mutatják: `Sun` = `son`).  { #8f46ac}
 
-- Kimaradt innen [[B/Brother\|brother]], [[B/Brat\|brat]], a balta r-hangos változataként számon tartható [[B/Bárd\|bárd]], a hajfonat [[B/Braid\|braid]] és akár a [[B/Bride\|bride]] szó, illetve akár a [[B/Breath\|breath]] és [[P/Pretty\|pretty]] szó is a sorba tartozhat.  
+- Utólag került be ide a `braten` és kimaradt innen [[B/Brother\|brother]], [[B/Brat\|brat]], a balta r-hangos változataként számon tartható [[B/Bárd\|bárd]], a hajfonat [[B/Braid\|braid]] és akár a [[B/Bride\|bride]] szó, illetve akár a [[B/Breath\|breath]] és [[P/Pretty\|pretty]] szó is a sorba tartozhat.  
 A szanszkrit pedig csak a feljegyző nyelv, és nem is napistent jelent a név (a névadók nem szanszkrit nyelven beszéltek).
 
 Esélyes a latin `brutus` = barom Bar-Ata eredete szintén.  
@@ -113,7 +115,7 @@ Magyar szavak közül hasonló, azaz szintén Bat-Ata felbontással számolható
 
 A fentiek írása idején még nem ismertem L. A. Waddell The Phoenician Origin of Britons, Scots & Anglo-Saxons (1924) című könyvét, melyben **Barat** föníciaiként kerül bemutatásra.  
 
-A keresztnevek közül a délszláv **Borut** név hasonló. 
+A keresztnevek közül a délszláv **Borut** név hasonló.
 
 [[K/Kér és kap\|Kér és kap]] címnél is szerepelt:  
 A Nap nevei, de legalábbis hímségi értelmű szavak szerepelnek a kér és kap szavakban is. A lényeg ugyanaz: aki kér, az kap. Úgy adom, hogy nem kell visszaadni. A Nap is úgy adományozza fényét, hőjét, hogy nem kéri számon a Földtől, mennyit adott. Hogy is írta Hafez, a perzsa költő (szépen összefoglalja, mit is jelent a Nap szerető, baráti viszonyulása a Földhöz és hozzánk, a rajta élőkhöz):
