@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2024-10-22T21:41"}
+{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2025-04-04T22:53"}
 ---
 
 
@@ -22,9 +22,9 @@ Hasonló képzet a sumér, melyről...
 
 ...című könyvében ír:  
 > A [[V/Világhegy\|Világhegy]] a monumentális emlékeken, különösen pedig a pecsétcilinderek ábrázolatain két csúcsúnak van ábrázolva. E jelenség oka a kozmosz és a körforgás egymásnak való megfelelésében bírja a magyarázatát. A világhegy fogalma mellett ismerik a sémi-babiloniak a szintén **kétcsúcsú napfelkelte és napnyugta hegyét** is. Különösen pecsétcilindereken gyakori. Az elsőnek a neve `harsag Babbara` vagy `kur Babbar` (világos hegy), a másodiké `harsag gigga`, vagy `kur gig` (fekete hegy \[lásd [[G/Gig\|gig]]\]). E nevek is a kozmosz és a körforgás lényegi azonosságában bírják alapjukat és a kettős hegycsúcs a napjárásnak az égfelületén hegy és völgy között való föl- és leszállását akarja érzékeltetni.  
-![assets/Ahet_image2.jpeg|invert_dark](/img/user/A/assets/Ahet_image2.jpeg)  
 
-Jegyezzük még itt meg, hogy a régi mexikóiak is hasonló módon ábrázolták.
+Jegyezzük még itt meg, hogy a régi mexikóiak is hasonló módon ábrázolták.  
+![assets/Ahet_image2.jpeg|invert_dark](/img/user/A/assets/Ahet_image2.jpeg)  
 
 Jankovics Marcell A Nap könyve c. könyvének 64. oldalán írja, hogy a maya [[K/KIN\|KIN]] = "Nap", "nap", "idő" szó képírásjele két keresztbe tett fadarab (lásd 21. rajzot).  
 
@@ -38,7 +38,7 @@ Megint másutt írja Jankovics Marcell:
 
 ![assets/Ahet_image5.png|invert_dark](/img/user/A/assets/Ahet_image5.png)  
 Dr. Gyárfás Ágnes az Ősi Gyökér 2010/1-2. sz. közölt Magyar őskutatás a szimbolikák jegyében című cikkében ugyanezt a képet elemzi, de sem nem hozza szóba a két hegyet, sem Samash-t, és ráadásul a nyári napfordulóra gondol, hiszen a Rák csillagképet hozza szóba.  
-\[Ezzel szemben Gyárfás Ágnes fia, Hampó József A Kaukázusi juhászkutya ősi pecséthengereken című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében már helyesen téli napfordulósként értékeli.\]  
+\[Hampó József A Kaukázusi juhászkutya ősi pecséthengereken című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében már helyesen téli napfordulósként értékeli.\]  
 (Az általa közölt képpel lecseréltem a Jankovics Marcell által közöltet, mert az rosszabb minőségű volt.)  
 Gyárfás Ágnes említett cikkében szerepel egy másik, Tellóból származó tábla képe is, mely igen valószínűen a [[T/Turul\|Turul]]-madárként megjelenő Napot mutatja a fényhegyek közül kiemelkedve azzal, hogy oroszlánokon állva örökítették meg. Lásd képet csatolva. (Hasonló a [[J/Janus\|Janus]] címnél szereplő Gilgameses ábrázolás. [[J/Janus\|Janus]] címnél ugye a téli napfordulós ábrázolásokról közöltünk képeket. Az kétségtelen viszont, és Gyárfás Ágnes gondolatának helyességét igazolhatná, hogy a jobb oldalon álló kétarcú, [[O/Oannesz\|Oannesz]] címnél kinagyítva adott alak [[J/János\|János]]sága a nyári napfordulóhoz is köthető. Persze a két félév elválasztó pontja lehet nyári és téli napfordulós is.)  
 
