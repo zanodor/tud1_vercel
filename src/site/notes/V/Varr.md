@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Varr/","title":"Varr","created":"2024-03-04T16:32","updated":"2024-10-26T00:47"}
+{"dg-publish":true,"permalink":"/V/Varr/","title":"Varr","created":"2024-03-04T16:32","updated":"2025-04-04T22:55"}
 ---
 
 
@@ -11,7 +11,10 @@
 Lényegében azt lehet mondani, hogy a [[P/Parázs\|parázs]] = [[V/Varázs\|varázs]] > [[V/Varrás\|varrás]] > varr belső fejlődési úton jött létre.  
 
 Persze a forraszt (összeragaszt) összefüggése is látható, kivált Götz László Keleten kél a Nap című könyvének 181. oldalán szereplő táblázat-részletében talált hasonló szavak alapján:  
-![assets/Varr_image1.png|invert_dark](/img/user/V/assets/Varr_image1.png)  
+
+| német                              | latin                                    | görög | héber                       | asszír                         | szumér    | magyar                   |
+| ---------------------------------- | ---------------------------------------- | ----- | --------------------------- | ------------------------------ | --------- | ------------------------ |
+| WIR-ken (sző)<br>WIR-tel (motolla) | VER-to (forgat)<br>VIR-ga (fűzfa-vessző) |       | PER-ochet (függöny, szövet) | PAR-âku (csavarodik, hempereg) | BAR (köt) | VARR<br>(össze)-BOR-onál |
 
 A német `wirken` = sző azt más szavakkal egyetemben [[A/Arachnophobia\|arachnophobia]] címnél is szerepelt.  
 
