@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/GAL/","title":"GAL","created":"2023-11-12T04:04","updated":"2024-10-25T18:56"}
+{"dg-publish":true,"permalink":"/G/GAL/","title":"GAL","created":"2023-11-12T04:04","updated":"2025-04-04T22:54"}
 ---
 
 
