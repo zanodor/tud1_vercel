@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated"],"created":"2024-04-22T01:48","updated":"2025-04-05T03:18"}
+{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated"],"created":"2024-04-22T01:48","updated":"2025-04-05T03:34"}
 ---
 
 
@@ -91,7 +91,7 @@ Lemniszkáta időtémához említhető az [[I/Idő#Idő szövése\|idő szövés
 
 ## Lemniszkáta-kötőpontra vonatkozó összefüggések ív szavunk magyar és idegen nyelvű változataival
 
-![Lemniszkáta_image20250405031632388.jpeg](/img/user/L/assets/Lemniszk%C3%A1ta_image20250405031632388.jpeg)
+![Lemniszkáta_image20250405031632388.jpeg|invert_dark](/img/user/L/assets/Lemniszk%C3%A1ta_image20250405031632388.jpeg)
 
 ### Ív (vö. év, avul) szavunk előhangos változatai más nyelvekben is bőséggel előfordulnak
 
