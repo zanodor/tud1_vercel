@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2025-04-14T13:34"}
 ---
 
 
@@ -31,15 +31,17 @@ Nos, a vak is látja, hogy a majom [[K/Kutyafejű\|kutyafejű]]ként ábrázolt.
 Úgy tűnik, hogy a majom is efféle kutyának veendő jelképállat.  
 Nem ez lenne az első eset. [[A/Astennu\|Astennu]] (más nevén Asten és Isten!) egyiptomi isten is [[K/Kutyafejű\|kutyafejű]] majom[^2]! Lásd még [[B/Babi\|Babi]] istent is.  
 Edward Topsell The History of Four-footed Beasts című 1607-es kiadású könyvében (lásd az onnan való csatolt képet is) is ezzel egyezően írja:  
-> Cynocephales, are a kind of Apes, whose heads are like Dogs, and their other parts like a man's; wherefore Gaza translateth them Canicipites, (to wit) dog-heads.  
+> **Cynocephales**, are a kind of Apes, whose heads are like Dogs, and their other parts like a mans; wherefore *Gaza* translateth them *Canicipites*, (to wit) dog-heads. In the *French*, *German*, and *Illyrian* tongues, they are called of some *Babion*, and *Babuino* in *Italian*, is a small kind of Ape; but *Aristotle* saith, that a *Cynocephale* is bigger then an Ape. In *English* they are called *Babouns*.  
+> There are many kinds of *Baboons*, whereof some are much given to fishing, so that they will tarry a whole day in the deep hunting for fish, and at length come forth with a great multitude. Again, there are some which abhor fishes, (as *Orus* saith) which kind the *Egyptians* emblematically use to...
 > —  
-> Cynocephales, a majmok egy fajtája, amelyek feje olyan, mint a kutyáké, és a többi részük olyan, mint az emberé; ezért Gaza Canicipites-nek, azaz kutyafejűnek fordítja őket.  
+> **Cynocephales**, azaz **kutyafejű majmok**, a majmok egy fajtája, melyeknek a feje kutyaszerű, a többi testrészük pedig emberhez hasonló; ezért fordította őket *Gaza* *Canicipites*-nek, ami (azaz) kutyafejűeket jelent. Francia, német és illír nyelveken egyesek *Babion*-nak nevezik őket, az olaszban pedig a *Babuino* egy kis majomfajta; de *Arisztotelész* azt mondja, hogy a *Cynocephale* nagyobb, mint egy majom. Angolul *Babouns*-nak hívják őket.
+> Sokféle *Baboon* létezik, amelyek közül némelyek nagyon szeretnek halászni, úgyhogy egész nap mélyen a vízben maradnak halászva, és végül nagy tömegben jönnek elő. Ismét, vannak olyanok, amelyek utálják a halat (ahogy *Orus* mondja), ezt a fajtát az egyiptomiak jelképesen használják...  
+> ![assets/Ape_image2.jpeg|invert_dark](/img/user/A/assets/Ape_image2.jpeg)  
 
-![assets/Ape_image2.png|invert_dark](/img/user/A/assets/Ape_image2.png)  
 Különösen hangsúlyos a hasonlításnál a farkuk. Várkonyi Nándor is említi a kutyafarkat ([[M/Majom\|majom]] címnél is megvolt):  
 > A tlascalák, quichék, guatemalai, costaricai, továbbá a zsidó, tibeti, kínai és a Fidzsi-szigeti mondákban az ember testalkatának (habitusának) változása is említtetik: majommá lesz, vagy kutyafarkat kap, megcsúful stb.; ez aránylag ritka motívum, s legérthetőbb magyarázatát Szuchisz, az egyiptomi pap adja meg Szolónnak: visszasüllyedés primitív körülmények, állati életformák közé a nagy pusztulás után. Hasonló értelemben ír Platón.  
 
-Na mármost, az ape név egyezőnek vehető [[E/EB\|EB]] szavunkkal. A kutyát és farkast több nép eredetmondájában szerepeltetve ősének tette meg. Az ős lehet ugye anya és apa. Azaz az [[A/Apa\|apa]] és [[E/EB\|EB]] szavunk között kell legyen jelentésbeli átfedés. Ez [[K/Kalb\|kalb]] és más címnél írottak alapján igazolt is. (A nagy kutya mindig a vezető, ahogy az apa a felső/felette álló.)  
+Na mármost, az ape név egyezőnek vehető [[E/EB\|eb]] szavunkkal. A kutyát és farkast több nép eredetmondájában szerepeltetve ősének tette meg. Az ős lehet ugye anya és apa. Azaz az [[A/Apa\|apa]] és [[E/EB\|EB]] szavunk között kell legyen jelentésbeli átfedés. Ez [[K/Kalb\|kalb]] és más címnél írottak alapján igazolt is. (A nagy kutya mindig a vezető, ahogy az apa a felső/felette álló.)  
 A vitatható adatokat szolgáltató, de Huszárik László által többet idézett E. W. Bullinger The Witness of the Stars című könyvében írja, hogy a Nagy Kutya csillagkép [[D/Dendera\|denderai]]-zodiákusbeli dekanátus-neve **Apes** (ezzel az Orion környéki ilyen nevű csillagképek száma bővül):  
 > In the Denderah Zodiac he is called **Apes**, which means the head. He is pictured as a hawk (Naz). The hawk is the natural enemy of the serpent, and here it has on its head a pestle and mortar, indicating the fact that he shall crush the head of the enemy. In the Persian planisphere it is pictured as a wolf, and is called Zeeb, which in Hebrew means the same thing. "Plutarch translates it `Προόπτης`, Leader.  
 > —  
@@ -110,9 +112,9 @@ Másutt (vajon mennyire megbízható forrású?) orvosi jelentéseket sorol, aho
 > Researchers havenʼt pinned down exactly which mechanisms prevent interbreeding under most circumstances. Some closely related species can mate even if they have different numbers of chromosomes. Przewalskiʼs horse, for example, has 33 pairs of chromosomes instead of the 32 most horses have, but it can interbreed with regular equines anyway-the offspring takes the average and ends up with 65 chromosomes.  
 > Neanderthals werenʼt our ancestorsʼ only dalliance with other primates. "Pre-humans" and "pre-chimpanzees" interbred and gave birth to hybrids millions of years ago. In the 1920s, Soviet dictator Joseph Stalin sent an animal-breeding expert to Africa in hopes of creating an army of half-man, half-monkey soldiers. Attempts both to inseminate women with monkey sperm and impregnate female chimpanzees with human sperm failed.  
 > That doesnʼt mean that tales of humans interbreeding with other animals havenʼt endured. Rumored animal-human crosses from the past few hundred years have included a man-pig, a monkey-girl, and a porcupine man.  
-> 
+>
 > —  
-> 
+>
 > Párosodhatnánk-e ma más állatokkal?  
 > Valószínűleg nem. Etikai megfontolások kizárják a témával kapcsolatos végleges kutatást, de az biztos, hogy az emberi DNS annyira különbözik más állatok DNS-étől, hogy a kereszteződés valószínűleg lehetetlen lenne. Az élőlénycsoportok hajlamosak genetikailag eltávolodni egymástól, ha földrajzi akadályok választják el őket egymástól - az egyikük elmehet, hogy új táplálékforrásokat találjon, vagy egy földrengés szétválasztja őket. Amikor a két csoport sok-sok évvel később újra kapcsolatba kerül egymással, előfordulhat, hogy mindkettő olyan szintre fejlődött, hogy már nem tudnak párosodni.
 >
