@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Polip/","title":"Polip","created":"2023-11-18T09:05","updated":"2024-10-25T23:50"}
+{"dg-publish":true,"permalink":"/P/Polip/","title":"Polip","created":"2023-11-18T09:05","updated":"2025-04-14T13:42"}
 ---
 
 
@@ -8,13 +8,16 @@
 #### Péterfai János írja:
 
 > Polip volt a neve azoknak az állatoknak, amelyeknek a lába a Pa, vagyis Po (Fej) részből nőtt ki, és úgy Lépkedtek. Po-Lip nagyjából Pa-Lép, a Fej-Lépő.  
-- Mivel a PO = vizet is jelent(het?), nemcsak Főt, Fejet, Péterfai János vízl(ben) épőnek is fordíthatta volna.  
 
-Értelmezés kérdése, hiszen Magyar Adorján is írja, hogy igen intelligens állatról van szó és a szellem hímségi princípium:  
+
+Értelmezés kérdése, hiszen...
+
+#### Magyar Adorján...
+
+...is írja, hogy igen intelligens állatról van szó és a szellem hímségi princípium:  
 > A sokaságot jelentő `poly` tehát polip szavunkból is eredhet. Hogy miért fontos ez az egyébként rendkívül intelligens állat a magyaroknál? Mert [[T/Tejút\|Tejút]]-jelkép. A karjai a spirál-galaxisokat jelképezik.  
 
-#### Péterfai János folytatja:
-
+Péterfai János folytatja:
 > Hatalmas rejtély az **Architeutis** óriáspolip neve. Ha az Architeutis feltekeredik, akkor pontosan olyan, mint egy spirális galaxis kinézete. Falvay Károly: Nagyboldogasszony című kiváló munkájában több képet is közöl az Égei-tenger vidékéről, amelyek óriáspolipokat ábrázolnak. Teljesen úgy, mint ma a galaxisokat ábrázoljuk. Mivel az Architeutis nevében a Tejutis fogalom benne van, mindenképpen kellett őseinknek ismerni a Tejutak spirális szerkezetét, különben hogyan jött volna létre a polip ábrázolása Tejútként, és a neve, amit csakis magyarul lehet megérteni, az emberiség ősnyelvén. Az Androméda-köd szabad szemmel is látható, de egy kis nagyítóval sok spirális szerkezetű tejútat figyelhettek meg ősi tudósaink.  
 - [[T/Tejút\|Tejút]] címnél is szerepelt ezen passzus.
 
