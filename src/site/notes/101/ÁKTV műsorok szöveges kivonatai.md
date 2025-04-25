@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-04-18T07:56"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-04-25T22:43"}
 ---
 
 
@@ -11,6 +11,10 @@
 
 **Videók kivonatokkal** (ha igaz, idővel visszamenőleg is bővül majd a lista):  
 
+[250425CN! HÁT, PERSZE!](https://rumble.com/v6skkth-250425cn-ht-persze-kubnyi-tams-ktv.html)  [https://archive.ph/USadD](https://archive.ph/USadD)
+[250424CN! ARANYBULLA 2025](https://rumble.com/v6sixan-250424cn-aranybulla-2025-kubnyi-tams-ktv.html)  [https://archive.ph/zleLj](https://archive.ph/zleLj)
+[250423CN! RIADÓ!](https://rumble.com/v6shapv-250423cn-riad-kubnyi-tams-ktv.html)  [https://archive.ph/kLKKG](https://archive.ph/kLKKG)
+[250422CN! TISZA](https://rumble.com/v6sfmjh-250422cn-tisza-kubnyi-tams-ktv.html)  [https://archive.ph/npOHz](https://archive.ph/npOHz)
 [250417CN! ELSÖTÉTÜLÉS](https://rumble.com/v6s8puh-250417cn-elsttls-kubnyi-tams-ktv.html)  [https://archive.ph/U8hyu](https://archive.ph/U8hyu)
 [250416CN! TÖMEGEMBER](https://rumble.com/v6s6jib-250416cn-tmegember-kubnyi-tams-ktv.html)  [https://archive.ph/J0TPI](https://archive.ph/J0TPI)
 [250415CN! NAGYKEDD](https://rumble.com/v6s4w7b-250415cn-nagykedd-kubnyi-tams-ktv.html)  [https://archive.ph/7O4rV](https://archive.ph/7O4rV)
