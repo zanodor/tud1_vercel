@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bolyai János/","title":"Bolyai János","created":"2024-04-21T14:22","updated":"2024-10-24T01:47"}
+{"dg-publish":true,"permalink":"/B/Bolyai János/","title":"Bolyai János","created":"2024-04-21T14:22","updated":"2025-04-25T21:17"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Bolyai János (1802-1860).  
 Már öt évvel ezelőtt [ezen](https://www.youtube.com/watch?v=nlIPoYkehyY) ÁKTV műsorban szó esik Bolyai Jánosról, Szöllősi Ildikó előadásában (betelefonálós műsor második felében).  
-Az [alábbi](https://youtu.be/OPgmXjJXlDI) Feltárulnak a titkok 10. című videóban Szöllősi 18:15-től szól arról, hogy Bolyai Farkas Gauss nevű barátja hogyan semmizte ki Bolyai Jánost és került Lobacsevszkijhez Bolyai elmélete.  
+Az [alábbi](https://youtu.be/OPgmXjJXlDI) Feltárulnak a titkok 10. című videóban Szöllősi 18:15-től szól arról, hogy Bolyai Farkas Gauss nevű "barátja" hogyan semmizte ki Bolyai Jánost és került Lobacsevszkijhez Bolyai elmélete.  
 [Ezen](https://www.youtube.com/watch?v=iOQZhKJHsqg) Feltárulnak a titkok 14. című műsorban Szöllősi további nagyon érdekes (és fontos) dolgokról számol be.  
 [Ezen](https://youtu.be/25NzuWcWIW4) Feltárulnak a titkok 28. című műsor második felében foglalkozik Einstein relativitás-elméletének hátterével. A végén kimondja, hogy a Bolyai hagyaték zsidók kezébe kerül. König Gyula könyvtárát több kézirattal Neumann János apja, a bankár Neumann Mór felvásárolja. A 18000 oldalas kéziratból 4000 oldal hiányzik (a Gauss-nak küldött anyag 28 oldal volt, amit tulajdonképpen letagadott).  
   
@@ -31,3 +31,9 @@ Az Ősi Gyökér 2011/1. számának hasábjain jelent meg az alábbi internetrő
 
 Bolyai ugye több oldalról tesz tanúbizonyságot arról, hogy zseni. Több hangszeren játszott és 9 nyelven beszélt.  
 Péterfai János írja, hogy Bolyai János nyelvészeti munkáit egyszerűen eltüntetik, mintha nem is írt volna a nyelvészetről.  
+
+---
+
+A hivatalos felfogásról írja a Google Gemini:  
+
+A nemeukledeszi geometriák két fő típusa a hiperbolikus és az elliptikus geometria. A hiperbolikus geometriában egy adott egyeneshez egy rajta kívül fekvő ponton át több párhuzamos egyenes húzható. Ezt a geometriát egymástól függetlenül fedezte fel a 19. század elején Bolyai János magyar matematikus és Nyikolaj Ivanovics Lobacsevszkij orosz matematikus; Carl Friedrich Gauss német matematikus is foglalkozott vele, de eredményeit nem publikálta. Az elliptikus geometriában nincsenek párhuzamos egyenesek, azaz bármely két egyenes metszi egymást. Ezt a geometriát Bernhard Riemann német matematikus dolgozta ki a 19. század közepén.
