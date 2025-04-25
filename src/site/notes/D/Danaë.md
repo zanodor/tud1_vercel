@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Danaë/","title":"Danaë","tags":["Englishtexttranslated"],"created":"2023-11-05T01:00","updated":"2024-10-25T17:02"}
+{"dg-publish":true,"permalink":"/D/Danaë/","title":"Danaë","tags":["Englishtexttranslated"],"created":"2023-11-05T01:00","updated":"2025-04-25T22:48"}
 ---
 
 
