@@ -1,5 +1,5 @@
-<div class="search-container" id="globalsearch" onclick="toggleSearch(event)">
-    <div class="search-box" onclick="event.stopPropagation()">
+<div class="search-container" id="globalsearch" onclick="toggleSearch()">
+    <div class="search-box">
         <input type="search" id="term" placeholder="Írjon be valamit...">
         <!-- Loading status indicator -->
         <div id="search-loading-status" class="search-loading-status" style="display: none;"></div>
