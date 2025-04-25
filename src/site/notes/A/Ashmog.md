@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ashmog/","title":"Ashmog","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-23T02:53","updated":"2024-10-22T22:29"}
+{"dg-publish":true,"permalink":"/A/Ashmog/","title":"Ashmog","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-23T02:53","updated":"2025-04-25T20:37"}
 ---
 
 
@@ -16,7 +16,7 @@ A Zend Avesztában előjövő szót lásd [[O/Ocsmány\|ocsmány]] és [[S/Smoke
 { #mmn17}
 
 
-Láss csodát, [[S/Széth\|Széth]]-tel azonosítja és kutyakísérőről is szó van:  
+Láss csodát, [[S/Széth\|Széth]]tel azonosítja és kutyakísérőről is szó van:  
 > In the Book of Tobit, Tobit is the lucky eighth, the new Zeus bridegroom, who escapes his fate when the reigning Zeus has to die at the end of his term. Asmodeus is the Persian counterpart of Set, the yearly murderer of Osiris, but he is charmed away with the fish of immortality and flees to his southern deserts. Tobit's dog is a helpful clue; he always accompanied Hercules Melkarth, or his Persian counterpart Sraosha, or the Greek Aesculapius, wherever he went.  
 > —  
 > Tóbit könyvében Tóbit a szerencsés nyolcadik, az új Zeusz vőlegénye, aki megmenekül a sorsától, amikor az uralkodó Zeusznak a ciklusa végén meg kell halnia. Aszmodeusz Sét perzsa megfelelője, Ozirisz évenkénti gyilkosa, de a halhatatlanság halával elvarázsolják, és a déli pusztákba menekül. Tobit kutyája hasznos nyomravezető; mindig elkísérte Herkules Melkarthot, vagy perzsa megfelelőjét, Sraosát, vagy a görög Aesculapiust, bárhová is .
@@ -33,7 +33,7 @@ Ami a szóvégi g és másutt d hang megjelenését illeti, nyilván a közös a
 [[D/Drug\|Drug]] címnél is előjött egy másik parszi szó, mely hasonló értelmű: [[D/Druj\|druj]]. Ezen nevet [[T/Trója\|Trója]] nevéhez hasonlítottam, mely tündér/nimfa/szajha mellékértelme visszavisz a fentebb említett danaidák ötvenes számához és a téridőbeli sötét oldalhoz, mely végül is `druj` megállapított hazugság jelentését is adja (a hazugság a sötét oldalon állás velejárója).  
 Arról, hogy ki a hazugok, Robert Graves írja a megvádolt krétaiak kapcsán is:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/h/hazug/#vui8pf" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/H/Hazug/#vui8pf" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
