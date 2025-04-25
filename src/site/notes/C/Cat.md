@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cat/","title":"Cat","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T08:48","updated":"2024-10-25T16:14"}
+{"dg-publish":true,"permalink":"/C/Cat/","title":"Cat","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T08:48","updated":"2025-04-25T21:41"}
 ---
 
 
@@ -29,7 +29,7 @@ Péterfai János írja még:
 
 Nem vagyok a [[S/Szómegfordítás\|szómegfordítás]] híve, de feltűnő, hogy Cat megfordítva [[T/TAK\|tak]], mely Tik, Tek, Tök párjaként Napnév.  
 
-Az albán nyelvben is `dac` = macska, persze lehet éppúgy dacról nevezetes, mint ahogy egyesek magyarázata szerint a makacsról a macska[^1].  
+Az albán nyelvben `dac` = macska, persze lehet éppúgy dacról nevezetes, mint ahogy egyesek magyarázata szerint a makacsról a macska[^1].  
 
 Péterfai János adata vagy saját adat volt:  
 > A nagymacskák mindenütt [[N/Napjelkép\|Napjelkép]]ek. A [[M/Macska\|Macska]] szavunkban is a Macs a Makk, Mag változata, csillag, Nap.  
@@ -41,11 +41,14 @@ Péterfai János adata vagy saját adat volt:
 
 [[K/Kutya és macska\|Kutya és macska]] címszó alatt foglaltuk össze, hogy hol foglalkoztunk korábban a kutya és macska alakjaival, jellemzőikkel: [[K/Kutya\|kutya]] címszó alján, [[B/Basztet\|Basztet]] istennőnél, [[P/Pekhat\|Pekhat]] (Eric Partridge adata szerint ez az egyiptomi Macskaistennő neve) címnél, [[F/Fo-kutya\|Fo-kutyá]]nál, [[H/Hunor és Magor\|Hunor és Magor]] címnél és [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] cím alatt volt szó a kutya és macska párosáról, a két állat egymásba mosódásáról, Nap-szimbólumként értelmezhetőségükről, jellemzőikről ill. arról, hogy a két (asztrális) állat egymást kergeti az égen.  
 Arról nem volt még szó, hogy az egyébként germán eredetűnek tartott szó egy kései latinnak tartott `cattus` = macska szóval is egyezik (az eredeti latin szó macskára, ahogy [[F/Feline\|feline]] címnél taglaltuk, `feles`; valójában a `feles` a (nagy)macska gyűjtőneve és a `cattus` a kismacska neve).  
-Valpy adata szerint a francia (macskát és pinát is jelentő) `chatte`-tal egyezően a perzsában is `chat`, de magam csak a `gurbah` (görbe?) szót találtam rá. Valpy szerint eredete kereshető lehet a latin `cātus` = ravasz, mesterkélt oldaláról is (persze mi van, ha a macskáról kapta a jelzőt, azaz a szokás szerinti fonákolás itt is megmutatkozik). Arról is lehet beszélni, hogy az angollal és latinnal azonos kelta-ír `cat` is ~~lehet kiinduló~~.  
+Valpy adata szerint a francia (macskát és pinát is jelentő) `chatte`-tal egyezően a perzsában is `chat`, de magam csak a `gurbah` (görbe?) szót találtam rá.   
+- Ez érdekes, hiszen a macska a női nemi rész állatjelképe, és a nőhöz az ív/görbe/kör tartozik. Tény, hogy a macska is képes mindenféle görbeségre.
+
+Valpy szerint eredete kereshető lehet a latin `cātus` = ravasz, mesterkélt oldaláról is (persze mi van, ha a macskáról kapta a jelzőt, azaz a szokás szerinti fonákolás itt is megmutatkozik). Arról is lehet beszélni, hogy az angollal és latinnal azonos kelta-ír `cat` is ~~lehet kiinduló~~.  
 
 Legutóbb [[C/Cynosure\|Cynosure]] címnél szerepelt Richard H. Allen Ursa Maior-nál szereplő adata:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/s/szeth/#qz3nuv" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/S/Széth/#qz3nuv" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -58,17 +61,18 @@ Legutóbb [[C/Cynosure\|Cynosure]] címnél szerepelt Richard H. Allen Ursa Maio
 
 
 Catuli neve kutyára utalva rendkívül érdekes, a [[K/Kutya és macska\|kutya és macska]] címnél összefoglaltak alapján is: mintha a kutya és a macska nevei (de jellemzőik és szimbólum-tartalmuk is) átfedésbe kerülnének (lásd még erről, nagymacska és kutya keveredéséről [[J/Jaguar\|jaguar]] és [[F/Fo-kutya\|Fo-kutya]]).  
-Aztán leesett: mindkét szó, kutya és kat is kún/hun szavak. A magyarok eb és macska szavai nem hasonlítanak.  
+Mindkét szó, kutya és kat is kún/hun alakú szavak. A magyar eb és macska szavak nem hasonlítanak.  
 De mindkettő állat régi háziállatunk is, és lám, kutya a kútyával, kat (kac) a házzal hozható összefüggésbe. Arról is lehetne szólni, hogy régen az u és a hangok gyakran változtak egymással (erre jó bizonyíték az angol u hang, melyet tájjellegűen u-nak, a standard angol szabályoknak megfelelően a és ö hang között ejtenek).  
 
-Valpy latin etimológia szótárában előjön a latin `catulus` = rabszolgák által viselt vasból készült nyakörv ([[C/Carcanet\|carcanet]] és [[T/Torc\|torc]] is ilyesféle), mely szóra biz. Dacier azt írja, hogy `catuli`, azaz kutya nyakörve lehetett eredetileg. Lásd még csatolt képet.  
-![assets/Cat_image1.png|invert_dark](/img/user/C/assets/Cat_image1.png)  
+Valpy latin etimológia szótárában előjön a latin `catulus` = rabszolgák által viselt vasból készült nyakörv ([[C/Carcanet\|carcanet]] és [[T/Torc\|torc]] is ilyesféle), mely szóra biz. Dacier azt írja, hogy `catuli`, azaz kutya nyakörve lehetett eredetileg. Lásd még Valpytól:  
+> **Cătŭlus**, a puppy, whelp. Also, the young of other animals. For _gatulus_ fr. **γέγατα** pp. of **γάω**, (whence in Homer **ἐγγεγάαα**) as **γόνος** and **ἔκγονον** are an offspring fr. **γείνω**, **γέγονα**, same as **γάω**. A little production. ¶ Al. from _catus_. A little sagacious thing. ¶ Varro says it is a diminutive of _canis_. Then it would be _canulus_, not _canitulus_, _catulus_.  
 
-Ha fentebb említettük Kacort, érdemes lenne esetleg [[K/Kacér\|kacér]] szavunkat is idevenni és megjegyezhető, hogy létezik Katzirtz személynév is.  
+Ha fentebb említettük Kacort, érdemes lenne esetleg [[K/Kacér\|kacér]] szavunkat is idevenni.  
 [[K/Kacor\|Kacor]] címnél kimondtuk közben, hogy a cat/cattus lényegében a kacor név lecsípése és semmi egyebet nem jelentene, mint [[H/Ház\|ház]]at.  
 A lényeg abban állhat, hogy felismerjük, a macska, kutya és a cethal is K-T vázú szó. Mivel [[C/Cadaver\|cadaver]], [[K/Kata\|kata]], [[C/Csata\|csata]], [[H/Hádész\|Hádész]] és más címnél arról volt szó, hogy a kún-hun nyelvben egyik szava volt a halálra, halált okozása és a kutya, macska és a hal is halállal kapcsolatos, nyilván mindez nem lehet véletlen. (Cetről lásd [[C/Cet csillagkép\|Cet csillagkép]].)  
 A lényeg tehát ott lehet, hogy a [[T/Tejút-kapuk\|Tejút-kapuk]] közül az egyik a Nyilasban/Nyílásban van, mely a [[T/Tejútanya\|Tejútanya]] [[G/Gate\|gate]]-je, gátja, "macskája," "pinája," azaz elképzelhető, hogy a macska átvitt értelmet takar vagy pedig egyszerűen ([[K/KAT\|KAT]], [[K/KAD\|KAD]] =) [[H/Ház\|ház]]at (a vaskori macska ma van otthon; nos valójában a macska mindig [[H/Ház\|ház]] = vulva = [[A/Anyaméh\|anyaméh]]). Lásd még kifejtve [[G/Gate\|gate]].  
-Arról pedig legutóbb [[G/Gazella\|gazella]] címnél volt szó, hogy a [[K/Köz\|köz]] címnél taglalt perzsa `kos`/`kus` = pina és orosz `киса` = cica; punci szavak a macska (női nemi rész állatjelképe) `gatto`/[[C/Cat\|cat]] neveivel függ össze, azaz a pina [[C/Coot\|coot]] (holland `kut`) és az istennő [[G/Göd\|Göd]] nevét idézi.  
+Arról pedig legutóbb [[G/Gazella\|gazella]] címnél volt szó, hogy a [[K/Köz\|köz]] címnél taglalt perzsa `kos`/`kus` = pina és orosz `киса` = cica; punci szavak a macska (női nemi rész állatjelképe) `gatto`/[[C/Cat\|cat]] neveivel függenek össze, azaz a pinát jelentő [[C/Coot\|coot]] (holland `kut`) szavakat és az istennő [[G/Göd\|Göd]] nevét idézik.  
+- Az s-végződéses szavak kapcsán jegyezzük meg, hogy a szkíta név eredetét taglaló Zajti Ferencnél is a kut = kus.
 
 Mivel fentebb folyamatosan a Napjelkép (nagy)macskákról volt szó, elhomályosította a lényeget. Valójában a macska kún-hun K-T vázú nevéről van szó (szinte mindenütt azonos alakú, hisz a hunok mindenütt éltek). Nem annyira Napról (a Napnak K-N vázú nevei vannak), hanem annak a [[G/Göd\|Göd]]del (egy újabb rokon vázú név) azonosítható anyjáról, a Tejútanyáról van szó (így van: [[K/Kacor\|kacor]] címnél is kimondtuk közben), melynek Robert Graves The White Goddess című könyvének 221. oldalán szerelő adata szerint is képzeltek el macska-alakot ([[B/Basztet\|Basztet]] = Beast = Tejút). De hogy mennyire így lehet, elárulja (a latin `feles` és `cattus` szavaktól távoli) katalán macskát jelentő szavak többfélesége: `gat` (masc.), `gata` (fem.); `mix` (masc.), `mixa` (fem.); `moix` (masc.), `moixa` (fem.). Ezek közül is elsődlegesen a MIS/MISZ (Azaz macs- = anya) alakú szavak érdekesek, hiszen [[M/MES\|MES]]/[[M/MISZ\|MISZ]] a Göd istenanya magyar párja.  
 
@@ -83,6 +87,24 @@ De a tej értelemben is használható(?) [[M/MISZ\|MISZ]], méz, med > ked, [[K/
 Azaz a macska nem makacs eredetű, hanem egyezik a [[M/Mátka\|mátka]] szavunk eredetével, mely más (szláv) nyelvekben, kicsinyítés nélkül is az anya neve (és az anyáknak/nőknek ugye pinájuk van és gyereket/Napgyermeket szülnek). Macska tehát Mat-Ka, mely végül is Péterfai János etimonjai alapján annyit tesz, mint a Nőiség Náza (mely Nő, a Tejútanya Életet is ad és a Halálról (MATA) is rendelkezik. A [[H/Ház\|ház]] mindig a Tejútanyára, annak hasára/méhére/(és kapuja) vulvájára utal. Egyenként a hun alakú [[K/KAT\|KAT]] is lehet ház értelmű (alakját tekintve egyezik a [[H/HAT\|HAT]] = ház szóval is).  
 A macska (ahogy a [[R/Róka\|róka]] is) viszont a női nemi szerv állatjelképe is. A [[C/Cat\|cat]] így egyező alakú [[C/Coot\|coot]]-tal is (a francia `chatte` kettős jelentéséről volt szó). A [[F/Fasz\|fasz]] és [[P/Pina\|pina]], [[K/Kutya és macska\|kutya és macska]] \[ilyen cím is van\] tehát egymást kergetve asztro-szexuális jelképiséget mutatnak (lásd erről [[S/Szexualitás égen-földön\|szexualitás égen-földön]]): a kutya hímtagja akar a mátka/macska vaginájába/macskájába jutni, nemzés céljából.  
 
+Ki kell mondani, a macska indoeurópai nevezete nem a négylábúra utal, ahogy szintén K-T vázú [[K/Kutya\|Ku-Ta]] (kutya) szavunk sem.  
+Sőt, mivel a K-T váz kétfelé választásra (és egyúttal kötésre) utal, mindkét szó jelzi, hogy a félév felező két végpontjáról – kutya a nyári napfordulón, macska a téli napfordulón – van szó.  
+
+Mindez akkor vált végérvényesen egyértelművé, amikor a macska és (az informális használatú) női genitália szláv K-T vázú szavait együtt láttam.
+Összefoglalva:  
+
+| Nyelv           | **"kot" (macska jelentése)**                                                 | **"kot" (női nemi szerv jelentése)**                       | **Macska szó**          | **Női nemi szerv szó**     |
+| --------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------- | -------------------------- |
+| **Szerb**       | Nem használják "macska" jelentésben                                          | **Használják** trágár szlengként női nemi szervre (trágár) | **macska** (nőnem)      | **picska** (trágár)        |
+| **Horvát**      | Nem használják "macska" jelentésben                                          | **Használják** trágár szlengként női nemi szervre (trágár) | **macska** (nőnem)      | **picska** (trágár)        |
+| **Bosnyák**     | Nem használják "macska" jelentésben                                          | **Használják** trágár szlengként női nemi szervre (trágár) | **macska** (nőnem)      | **picska** (trágár)        |
+| **Montenegrói** | Nem használják "macska" jelentésben                                          | **Használják** trágár szlengként női nemi szervre (trágár) | **macska** (nőnem)      | **picska** (trágár)        |
+| **Lengyel**     | **Használják** "macska" jelentésben (hímnem)                                 | **Nem használják** női nemi szervre                        | **kot** (hímnem)        | **cipka** (trágár)         |
+| **Szlovák**     | **Használják** "macska" jelentésben (hímnem)                                 | **Nem használják** női nemi szervre                        | **kot** (hímnem)        | **pipka** (trágár)         |
+| **Orosz**       | **Használják** "macska" jelentésben (hímnem, "kot"), de a kicsinyített "koshka" a gyakoribb | **Nem használják** női nemi szervre                        | **кот** ("kot", hímnem) | **пизда** (trágár)         |
+| **Cseh**        | **Használják** "macska" jelentésben (kicsinyítve "kočka" használatos)              | **Nem használják** női nemi szervre                        | **kočka** (nőnem)       | **pička** (trágár)         |
+| **Bolgár**      | **Használják** "macska" jelentésben (kicsinyítve "kotka" használatos)              | **Nem használják** női nemi szervre                        | **котка** (kotka)       | **путка** (putka) (trágár) |
+
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
@@ -91,4 +113,5 @@ De a [[M/Magyar\|magyar]] név is köthető a makacshoz, ahogy a konok a hunokho
 [^2]: Lábjegyzet:  
 Az angol `miss` = kisasszony tehát nem más, mint Boldogasszony lánya, [[K/Kisasszony\|Kisasszony]]. Falvay Károly Nagyboldogasszony című könyvében is írja:  
 A magyar hagyományban Nagyboldogasszony szűz leánya Kisboldogasszony, más néven Kisasszony.  
+—  
 Ez számomra arra is enged következtetni, hogy ami kis alakban megvolt a hun-magyarban, az a magyarban m-előhangosan is meglehetett. Arra más esetekben is láttuk példát (akár teoretikusat), hogy a kemény előhang helyett megjelenhet puha ajakhang a szó elején.  
