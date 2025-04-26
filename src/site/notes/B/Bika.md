@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2024-10-23T23:46"}
+{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2025-04-26T14:09"}
 ---
 
 
@@ -85,7 +85,7 @@ Ahogy említettem, [[S/Szarvas\|szarvas]] címnél külön részben taglaljuk, h
 A [[T/Tejútanya\|Tejútanya]] szarvas/agancsos és tejet is adni képes állatalakjainak hímségiként való megjelenése már a Tejútanya-tisztelet hanyatlásával alakult ki.  
 
 A [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] és [[Z/Zodiac\|zodiac]] címnél is volt arról szó, hogy a Csudaszarvasünő szarvas- és egyéb állatalakjai (akár maszkulinizált formában is) megjelenhetnek állatövi jegyként.  
-A Bika Szarvassal való azonosítását alátámasztani látszik a The God Cernunnos and the Pictish Stag and Boar Symbols című internetes cikk írójának, Iain Forbes[^1] anyaga (nagyon szépen megindokolja, hogy a [[S/Skorpió csillagkép\|Skorpió csillagkép]] helyén is szarvasféle alak keresendő (lásd részletesebben ott)) szerint is lehet a tehén Bika:  
+A Bika Szarvassal való azonosítását alátámasztani látszik a The God Cernunnos and the Pictish Stag and Boar Symbols című internetes cikk írójának, Iain Forbes[^1] anyaga. Nagyon szépen megindokolja, hogy a [[S/Skorpió csillagkép\|Skorpió csillagkép]] helyén is szarvasféle alak keresendő (lásd részletesebben ott) szerint is lehet a tehén Bika:  
 > There is further evidence for Scorpio being seen originally as a stag outside of the Mediterranean basin, this time surprisingly in a traditional German ʼfolkʼ rhyme. There is little information as to how old this poem is or anything else on its origins, but it apparently describes an alternative zodiac or at least a sequence of stars or constellations associated with the changing seasons:  
 > *'Eber, Riese, Himmelskuh zählen wir dem Winter zu. Hase, Wolf und Menschenpaar stellen uns den Frühling dar. In Hahn und Hengst und Ährenfrau die Sommersonne steht genau. Schwalbe, Hirsch und Bogenschütz sind des Herbstes feste Stütz.'*  
 > This has been translated into English as:  
@@ -136,6 +136,8 @@ A Bikaistennő-képzet kialakulására magyarázatként szolgálhat...
 > \[...\]  
 > Valójában a zsidó-keresztény kultúra is a holdanyai ősvallásunkból sarjadt. Kezdve Ábrahámmal, aki a Sineárból, azaz a babiloni Sin holdisten földjéről indult el új hazát keresni, és Kánaánba érve tovább telítődhetett a holdtiszteleti elemekkel. A törvényadó Mózes pedig Egyiptomban meríthetett a hold kultuszából, hiszen [[J/Jahve\|Jahve]] isten nem csupán az egyiptomi Jah holdisten nevét "hordja" de meg volt neki a hold, szokásos bika, ill. tehén alakja is.  
 - A Jah név a görög [[I/Io\|Io]] tehénistennő nevének is megfelel.
+
+Egy másik magyarázatot a magyar nyelven keresztül adhatunk: az [[O/Ökör\|Ökör]] elnevezésünk nyilván az Ég-Úr jelentést viszi, de eredetileg az Eget a Csudaszarvas ünő jelképezte.  
 
   
 
