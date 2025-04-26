@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Macska/","title":"Macska","created":"2023-11-17T11:07","updated":"2024-10-25T22:37"}
+{"dg-publish":true,"permalink":"/M/Macska/","title":"Macska","created":"2023-11-17T11:07","updated":"2025-04-26T15:38"}
 ---
 
 
@@ -25,7 +25,7 @@ Elsőként a macska az értelmezők szerint nagymacska, azaz oroszlán.
 Másodsorban a kutya a keleti állatövben a Kosnak felel meg, így nem kell mindig a Szíriuszra gondolni. Viszont az mellett mégsem lehet elmenni, hogy éppen e két fontos (ma háziállat) jelkép össze lett mosva. Ráadásul a gombolyag és annak fonala mindig a Naprendszer/emberiség sorsára kell utaljon. A másik gombolyagos állat a ganajtúró ([[S/Scarabeus\|scarabeus]]), mely Egyiptomban szintén kozmikus jelentőségű, Nap-jelkép.  
 Lásd minden továbbit [[F/Fo-kutya\|Fo-kutya]], valamint újabb tisztázatért [[K/Kutya és macska#Kutya és macska megfelel Hunornak és Magornak\|kutya és macska megfelel Hunornak és Magornak]] cím/alcímnél.  
 
-[[C/Cat\|Cat]] valamint [[K/Kutya és macska\|kutya és macska]] címnél is szóltunk arról, hogy a kutya és a macska nevek mintha keverednének (nos valójában a Kat = [[G/Göd\|Göd]] = [[H/Ház\|ház]] és Vulva, mely mellett ott a Kutya, a nemző). De érdekesmód a tupi indiánok nyelvében `jaguára` (lásd [[J/Jaguar\|jaguar]]) sem csak nagymacskát, hanem kutyát is jelent (a guarani nyelvben `jagua` pedig kutya ([[J/Jahve\|Jahve]] címhez is bekerült))!  
+[[C/Cat\|Cat]] valamint [[K/Kutya és macska\|kutya és macska]] címnél is szóltunk arról, hogy a kutya és a macska nevek mintha keverednének (nos valójában a Kat = [[G/Göd\|Göd]] = [[H/Ház\|ház]] és Vulva, mely mellett ott a Kutya, a nemző). De érdekesmód a tupi indiánok nyelvében `jaguára` (lásd [[J/Jaguar\|jaguar]]) sem csak nagymacskát, hanem kutyát is jelent (a guarani nyelvben `jagua` pedig kutya!  
 De keveredés látszik a macska és az egér nevei között is. A navajo nyelvű `mósí` = macska szintén ilyen vázú, de az angol [[M/Mouse\|mouse]] = egér is. Sőt, a légy jelentésű \*muska (lásd [[M/Muscat\|muscat]]) szintén. Nyilván valamilyen ősvallási-szexuális kapcsolatot kell találni, hiszen a mag méhbe jutásáról (lásd erről [[P/Pina\|pina]]) szól a teremtés.  
 
 A macskák rituális áldozásáról futólag esett szó [[K/Kutyaáldozás\|kutyaáldozás]] címnél, minthogy néha megesett, hogy kutyák helyett macskákat lóbáltak és öltek meg.  
