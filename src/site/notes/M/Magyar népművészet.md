@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar népművészet/","title":"Magyar népművészet","tags":["Englishtexttranslated"],"created":"2024-05-14T12:18","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/M/Magyar népművészet/","title":"Magyar népművészet","tags":["Englishtexttranslated"],"created":"2024-05-14T12:18","updated":"2025-04-26T14:43"}
 ---
 
 
@@ -145,7 +145,7 @@ Internetes oldalról:
 #### Végvári József...
 
 ...[[A/Az égig érő paszuly mese\|Az égig érő paszuly mese]] elemzésénél lévő kirohanása is ide tehető:  
-> A "korszerű gondolkodású" és európai szinten művelt ember (főleg ha bölcsész is) ilyenkor szokott diadalmasan fölkiáltani: "Na látják, ez is mutatja, mennyire logikátlan és ésszerűtlen a nyelv, mennyi benne a kiszámíthatatlan önkényesség és gyermeteg képzelőerő! Mert hiszen ugyan mi köze lehet egymáshoz a pengetős hangszernek és a "rendfenntartó fegyveres alakulat tagjának"?  
+> A "korszerű gondolkodású" és európai szinten művelt ember (főleg ha bölcsész is) ilyenkor szokott diadalmasan fölkiáltani: "Na látják, ez is mutatja, mennyire logikátlan és észszerűtlen a nyelv, mennyi benne a kiszámíthatatlan önkényesség és gyermeteg képzelőerő! Mert hiszen ugyan mi köze lehet egymáshoz a pengetős hangszernek és a "rendfenntartó fegyveres alakulat tagjának"?  
 - Bandura/tambura és pandúr szavakról volt szó.
 
 > Adjunk hálát Saussure-nek, aki 100 évvel ezelőtt a nyelvtudomány alapelveként szögezte le a nyelvi jel önkényességéről szóló tételt, amelyből sikerült a XX. századi műveltséget meghatározó alapelvet kovácsolni." Vegyük észre, hogy ez az elv, mely az indoeurópai, sémi, sino-tibeti stb. nyelvekre igaz lehet (de rájuk sem teljesül egészében), a magyar nyelvre kiáltóan nem igaz (legföljebb annak nagyon felszínes, rontott, fogyasztói rétegére igaz), sőt velejéig hazug, ugyanakkor felmentést ad tömegek számára (beleértve a bölcsészeket) a szellemi restségre. Hiszen ha szavaink önkényesek, akkor fölösleges a szókincs belső rendjéről gondolkodni, és ezt kemény, rendszeres, rosszul fizetett munkával feltárni népköltészetünkben. Márpedig **szavaink és a köztük fennálló szerves összefüggések magát a világmindenséget képletezik szerkezetében, keletkezésében és működésében egyaránt, tanulmányozásuk – együtt népünk alkotóerejének más megnyilvánulásaival, mint a népművészet különböző ágazatai – a tudás teljességét adhatja meg**. Égbekiáltó bűn erről lemondani, ezt sutba dobni a "korszerűség" hazug jelszavával, és lecserélni szervetlen, kiürült nyugati vagy keleti "műveltségekre", amelyek eleve lemondanak a teljességről, eleve csak részlegességet tudnak fölvállalni.  
