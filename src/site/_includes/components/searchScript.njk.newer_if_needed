@@ -124,21 +124,30 @@
         const term = params.get('term');
         if (!term) return;
 
-        // Increase initial delay and add a loading check
-        const startHighlight = () => {
-            const content = document.querySelector('.content');
-            if (!content || !content.offsetHeight) {
-                // Content not fully loaded yet, retry in 500ms
-                setTimeout(startHighlight, 500);
-                return;
-            }
+        const content = document.querySelector('.content');
+        if (!content) return;
 
-            // Once content is loaded, add highlights
+        // Add temporary highlight style
+        const style = document.createElement('style');
+        style.textContent = `
+            .temp-highlight {
+                background-color: var(--text-accent);
+                color: var(--background-primary);
+                transition: all 0.3s ease-out;
+            }
+            .temp-highlight.fade-out {
+                background-color: transparent !important;
+                color: inherit !important;
+            }
+        `;
+        document.head.appendChild(style);
+
+        setTimeout(() => {
+            // Apply highlights
             const highlights = [];
             const regex = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
             const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT);
             const textNodes = [];
-            
             while (walker.nextNode()) textNodes.push(walker.currentNode);
             
             textNodes.forEach(node => {
@@ -151,55 +160,42 @@
                 }
             });
 
-            if (highlights.length > 0) {
-                // Scroll to first match
-                highlights[0].scrollIntoView({ 
-                    behavior: 'smooth', 
-                    block: 'center'
+            // Cleanup function that completely removes highlights
+            const removeHighlights = () => {
+                const highlights = document.querySelectorAll('.temp-highlight');
+                highlights.forEach(el => {
+                    if (el.parentNode) {
+                        el.outerHTML = el.innerHTML;
+                    }
                 });
+            };
 
-                // Start timer only after scroll completes
+            // Fade function that triggers transition
+            const fadeHighlights = () => {
+                const highlights = document.querySelectorAll('.temp-highlight');
+                highlights.forEach(el => el.classList.add('fade-out'));
+                // Remove elements after transition
+                setTimeout(removeHighlights, 300);
+            };
+
+            // Add event listeners with immediate effect
+            window.addEventListener('scroll', fadeHighlights, { once: true });
+            document.addEventListener('click', fadeHighlights, { once: true });
+            
+            // Auto-remove after 3 seconds
+            setTimeout(fadeHighlights, 3000);
+
+            // Scroll to first match
+            if (highlights.length > 0) {
                 setTimeout(() => {
+                    highlights[0].scrollIntoView({ 
+                        behavior: 'smooth', 
+                        block: 'center'
+                    });
                     window.scrollBy(0, -100);
-                    
-                    const removeHighlights = () => {
-                        highlights.forEach(el => {
-                            el.classList.add('fade-out');
-                            setTimeout(() => {
-                                if (el.parentNode) {
-                                    el.outerHTML = el.innerHTML;
-                                }
-                            }, 500);
-                        });
-                    };
-
-                    // Add event listeners for early removal
-                    window.addEventListener('scroll', removeHighlights, { once: true });
-                    document.addEventListener('click', removeHighlights, { once: true });
-
-                    // Set longer timeout for automatic removal
-                    setTimeout(removeHighlights, 15000); // Increased to 15 seconds
-                }, 1000); // Wait 1s after scroll
+                }, 100);
             }
-        };
-
-        // Add styles first
-        const style = document.createElement('style');
-        style.textContent = `
-            .temp-highlight {
-                background-color: var(--text-accent);
-                color: var(--background-primary);
-            }
-            .temp-highlight.fade-out {
-                background-color: transparent !important;
-                color: inherit !important;
-                transition: all 0.5s ease-out;
-            }
-        `;
-        document.head.appendChild(style);
-
-        // Start the highlight process
-        setTimeout(startHighlight, 1000);
+        }, 300);  // <-- Initial delay before highlighting
 
         // Clean URL
         window.history.replaceState({}, '', window.location.pathname);
