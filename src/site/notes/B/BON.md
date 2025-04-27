@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BON/","title":"BON","tags":["Englishtexttranslated"],"created":"2024-10-24T02:01","updated":"2024-10-24T02:01"}
+{"dg-publish":true,"permalink":"/B/BON/","title":"BON","tags":["Englishtexttranslated"],"created":"2024-10-24T02:01","updated":"2025-04-27T15:17"}
 ---
 
 
@@ -16,8 +16,9 @@ A szó első megjelenése [[B/BUN\|BUN]] lehetett, mely a [[B/Bunda\|bunda]] sz�
 > Bun-Da Fényes Nap, minthogy a nagymacskák, kivált az oroszlán Napjelképek. Persze Da Föld jelentésű is. A bunda öltöztetett is. A jégkorszakok idején a frissen megölt állat belsejébe bújtak, ha tüzet nem tudtak gyújtani.  
 
 Érdekes még a [[B/Bunkó\|bunkó]] szavunk, mely szintén hímségi (fegyver). Ha emlékszünk Magyar Adorján írására [[M/Mace\|mace]] szónál, ott Magor Napisten botjáról van szó. Macsuka a székelyeknél jelenti valaminek bunkóját, gombját, s néhutt magát a bunkós botot is. A macs gyöke nyilván mag-származék. A rög, csomó, bog mindig Nap, azaz mag.  
+
 Bun-Kó tehát Nap-Kő, olyan kő, amely táplál, mert élelmet segít szerezni.  
-De Napot formáz az angol zsemle, [[B/BUN#Bun 2)\|bun]] is, ahogy [[N/Nap\|Nap]] megfordítása, *pain* a franicában kenyér.  
+De Napot formáz az angol zsemle, [[B/BUN#Bun 2)\|bun]] is, ahogy [[N/Nap\|Nap]] megfordítása, `pain` a franciában kenyér.  
 A `boon` áldás, kellemes jelentése is idetartozik.  
 
 A bonyolít szóban is megvan BON. Hasonló a Gon-D-ol szavunk a Nap Kon nevéből kiindulva.  
@@ -36,7 +37,6 @@ A bunyó is a bunkóhoz tartozik.
 > Az iráni hitvilágban fontos szerepe volt a kakasnak mint áldozati állatnak. A tibeti határterületeken, még a kínaiak és az iszlám hívei között is elterjedtek a kakasáldozatok. Ha például egy ottani, kínai családban meghalt egy fiúgyermek, az apa vagy a nagyapa a házon kívül levágta egy kakas fejét, és abban a szobában, ahol a gyermek meghalt, befröcskölte a falakat és sarkokat a kakas kiömlő vérével. Ugyanezt tették akkor is, ha a gyerek megbetegedett, és kevés remény volt a felgyógyulására. A régi iráni hitvilágban a kakasvér a démonok elleni küzdelem legfontosabb eszköze volt: olyannyira rettegtek tőle, mint a keresztény világban az ördög a szenteltvíztől. Ha halottat kellett szállítani, kakast kötöttek a koporsóra, hogy elriasszák a hulladémonokat, amelyek előszeretettel szálltak meg holttesteket.  
 > Sokkal többet nem is igen tudunk a bonról. Később, már a buddhizmus uralomrajutása után, éppen ez utóbbi elleni támadás jegyében egyesek megkísérelték a bon újraélesztését. Ebből az időből maradtak ránk elméleti munkák is – ezek azonban lényegében véve a buddhizmus-lámaizmus filozófiáját és rítusait tükrözik. Alkotóik megkísérelték a lehetetlent: egy elfelejtett, és alighanem tételesen le sem fektetett hitvilág rendszerezését és életre keltését.  
 
-![assets/BON_image1.png|invert_dark](/img/user/B/assets/BON_image1.png)  
 
 #### Szergej Tokarev írja:  
 
