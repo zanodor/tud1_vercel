@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2025-04-27T15:20"}
 ---
 
 
@@ -24,7 +24,7 @@ A mellékelt kép(en, ahol **Sít** nevűnek adatolt) Archibald Henry Sayce, Gas
 Egy bazaltfaragáson nejével, [[N/Nephthys\|Nephthys]]-szel látjuk hasonló fejformával.  
 ![assets/Széth_image2.jpeg|invert_dark](/img/user/S/assets/Sz%C3%A9th_image2.jpeg)  
 Edward P. Butler igen profin összeállított (Wikipédiánál sokkal részletesebb, gazdagabb adatokkal szolgáló) [oldalán](https://henadology.wordpress.com/theology/netjeru/) [[E/Egyiptom istenei\|Egyiptom istenei]]ről közöl adatokat. Az [alábbi](https://henadology.wordpress.com/theology/netjeru/anat/) oldalon Széth kapcsán azt írja, hogy fiának neve [[M/Maga\|Maga]] és krokodilként ábrázolták. (A [[M/MAG\|mag]] (gyök) sok nyelvben fiú jelentésű; gondolom itt nem a [[M/Magor\|Magor]] nevet kell keresni azért.)  
-Butler minden, különösen Széth-tel kapcsolatos adata fontos lehet.  
+Butler minden, különösen Széthtel kapcsolatos adata fontos lehet.  
 
 Úgy tűnik, hogy kezdetben vagy régebben (még a poláris korszakban) nem volt ismert Ozirisz és Hórusz személye, és Széth olyanféle név volt, amely önmagában is tárolni tudta a fényes ([[S/Süt\|süt]]) és fényhiányos ([[S/Söt\|söt]]) minőséget. Csak azért, mert lemegy a Nap, még nem hívom máshogy, csak mert tudom, hogy nem látható. Maximum költőien halott Napnak hívom. Mai fejjel.  
 Robert Graves The White Goddess című könyvében is írja, hogy Széth – a Clementine syncretic theory szerint – [[J/Jézus\|Jézus]] korábbi inkarnációja volt. Valójában nem a Nap, csak Nap kis éves téridőbeli helye Orion-Szíriuszban, teszem én hozzá.  
@@ -368,7 +368,7 @@ Plutarkhosz anyagára (is) látszik építeni Crowley is.
 Fáy Elek A magyarok őshona című könyvének 34. oldalán még az is áll, hogy a turáni szkíta-féle hykszosz (vagy a velük azonos keta) nép istene is Szeth illetve Szutek nevű volt. Hogy ez csak afféle azonosítás, mint deus-nál (azaz egyiptomi istenséggel feleltették meg az idegen nép istenét), vagy valódi név, nem lehetünk biztosak benne, mindenesetre ezen istennek templomokat emeltek. És mivel Szét magyarul is értelmes és Egyiptom is magyar alapítású, talán mindegy is. Az tény, hogy ha tényleg 4-5000 évvel ezelőtt járunk, akkor még Széth uralma tarthatott és talán az Ozirisz kultusz előtt járunk.  
 Fáy könyvének 57. oldalán is Szutek (= Széth, Nut égistennő fia) egyiptomi istenek között említtetik, egyiptomi fáraó kontextusban. Viszont az 59. oldalon található felsorolásban az is szerepel, hogy a hettiták (keták) istene is Szutek, meg még más városállamoké.  
 A 60. oldal alján az is szerepel, hogy Szutek égisten.  
-Práczki István szómegfordítást lát a Szutek szóban: Két Ős. Nos, azt le le kell szögezni, hogy ha a Szutek név óegyiptomi rekonstrukció, akkor bármely magánhangzóval fel lehet tölteni, mint Spdt (Sopdet) nevet is. Az is lehet, hogy ezen Szutek név egy hettita-hatti feliratból, szövegből lett megfejtve és a kutatók Széth-tel azonosították, de valójában más alakot vagy fogalmat kell látni alatta, hiszen a SZET is lehet kétféle értelmezésű, süt már csak hímségi, és így tovább. [[S/Szutek\|Szutek]] címnél Magyar Adorján is [[S/Süt\|süt]] szavunkat veszi alapul.  
+Práczki István szómegfordítást lát a Szutek szóban: Két Ős. Nos, azt le le kell szögezni, hogy ha a Szutek név óegyiptomi rekonstrukció, akkor bármely magánhangzóval fel lehet tölteni, mint Spdt (Sopdet) nevet is. Az is lehet, hogy ezen Szutek név egy hettita-hatti feliratból, szövegből lett megfejtve és a kutatók Széthtel azonosították, de valójában más alakot vagy fogalmat kell látni alatta, hiszen a SZET is lehet kétféle értelmezésű, süt már csak hímségi, és így tovább. [[S/Szutek\|Szutek]] címnél Magyar Adorján is [[S/Süt\|süt]] szavunkat veszi alapul.  
 
 [^11]: Lábjegyzet:  
 Lásd még erről [[N/Nap – halott Nap\|Nap – halott Nap]], valamint [[B/Bier\|bier]].  
