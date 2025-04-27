@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kárpát-medence/","created":"2024-04-28T20:56","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2025-04-27T09:59"}
 ---
 
 
@@ -107,7 +107,6 @@ Akkor vegyük Költő László adatait sorjában. Vázlatosan a kárpát-medence
 Ide a második és harmadik pont közé tehetőek az alábbiak:  
 Grandpierre Atilla: Ősi Magyarország, a Kárpát-medence és a Selyemút népeinek felemelkedése című 2019-es könyvét bemutató előadásokhoz (például [ezen](https://youtu.be/_Lhjt9qTy34) előadása, melynek szövege egyébként a letöltésre elérhető: Acta Historica Hungarica Turiciensia XXXIV. évfolyam 3. szám, Pannon Kultúraközösség Kutató és Képzőközpont Folyóirata 2019C) tartozó PDF-ek közül...
 
-
 #### Grandpierre Atilla A magyar nemzettudat történelmi alapjai...
 
 ...című [letöltésre elérhető](https://mega.nz/file/56USlBpC#VdRsxEWHyOwl0TQP_xS6twiz7f9C7O3b7YxfhI_G-Iw) cikkének alábbi sorai tehetők ide (az első passzus [[S/Selyemút\|Selyemút]] címnél is szerepelt; azon és főleg [[S/Sztyeppe\|sztyeppe]] címnél taglaltuk Grandpierre Atilla anyagát térképekkel):  
@@ -144,7 +143,7 @@ A Magyar Néprajzi Lexikonból idéz itt még Bognár:
 Itt még az Archeopark 5500 éves településének bemutatóját adja közre képen (Polgár-Csőszhalom).  
 22:50-nél László Gyula: Vértesszőlőstől Pusztaszerig (Budapest, 1971. Gondolat Kiadó) című könyvének 103. oldaláról származó bizonyítékát adja annak, hogy a messze a honfoglalás előtt magyar népesség élt hazánkban:  
 > A temetők a földműves őslakosság temetői az időszámítás előtti századokra vonatkoznak. Még római és kelta sírok sincsenek. Az "ősnép" nevei viszont megmaradtak a hiteles királyi okmányokban: Például Ajándék, Legyes, Liliom, Csinos, Emese, Féltő, Mérő, Szemes, Szellő, Szentes és ezek a nevek nem szláv nevek.  
-> 
+>
 > (Nagy Sándor: A magyar nép kialakulásának története c. könyvének 240. oldalán az árpádkori személynevek sokaságát mutatja be.)
 
   
@@ -404,7 +403,7 @@ Joó Dénes Magyarország helye és szerepe az új Európában című Ősi Gyök
 ## Kárpát-medence és a csillagos ég párhuzamai
 
 Scheffer Miklósnak ilyen címmel jelent meg írása az Ősi Gyökér 2015/1-2. számában.  
-[[M/Magyar őshaza\|Magyar őshaza]] címmél a megfeleltetés logikájának helytelenségérére már kitértünk, de annyit jegyezzünk meg, hogy dacára a sok helyenként nevetséges logikai úton történő kapcsolásnak és belemagyarázás-szerű okoskodásnak, amit az alábbiak kapcsán megjegyez, az igaz:  
+[[M/Magyar őshaza\|Magyar őshaza]] címnél a megfeleltetés logikájának helytelenségérére már kitértünk, de annyit jegyezzünk meg, hogy dacára a sok helyenként nevetséges logikai úton történő kapcsolásnak és belemagyarázás-szerű okoskodásnak, amit az alábbiak kapcsán megjegyez, az igaz:  
 > Egy adott földrajzi terület összevetése az égbolt csillagképeivel nem mai divatos ezoterikus hóbort szüleménye. Már az ókorban és főleg Mezopotámiában különös jelentőséget tulajdonítottak e párhuzamoknak. Franz Bolt és Carl Bezold 1917-ben megjelent, sajnos letöltésre nem talált Csillaghit és csillagfejtés című könyvükben arról tudósítanak, hogy már az óbabiloni időkben csillagképeket feleltettek meg a közel-kelet egyes földrajzi tartományainak. Sőt Babilon városának elrendezése is az égi szimbolikát tükrözi.  
 
 Nyilván hasonló eljárást alkalmaztak, mint ahogy nyilván az ég 36-os felosztása nyomán jött létre 36 [[N/Nome\|nome]] Egyiptomban is.  
@@ -424,7 +423,7 @@ Hasonló (nem tudom mire vélhető) adatot találunk ...
 ![assets/Kárpát-medence_image7.jpeg](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image7.jpeg)  
 ![assets/Kárpát-medence_image8.jpeg](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image8.jpeg)  
 
-A 2006. augusztus 7-11-ig tartott XI. Magyar Őskutatási Fórumról az Ősi Gyökér 2006/3. számában számolnak be. Ezen cikkben számolnak be Ujj Dénes elképzeléséről \[mindenkinek van valami\], aki felvetítette Eurázsia térképét, s beazonosította Kárpát-medencét a Draco, azaz [[S/Sárkány csillagkép\|Sárkány csillagkép]]pel, vagyis a Kárpát-medence égi mása a Sárkány csillagkép \[amely valóban északi\], az égbolt hajdani pólusa \[talán itt a Magyar Adorján féle témát is vegyíteni kellene?\]. Szerinte a kozmikus háttérsugárzás eredménye az a sok földi energiaközpont, amely a Kárpát-medencében fellelhető.  
+A 2006. augusztus 7-11-ig tartott XI. Magyar Őskutatási Fórumról az Ősi Gyökér 2006/3. számában számolnak be. Ezen cikkben számolnak be Ujj Dénes elképzeléséről, aki felvetítette Eurázsia térképét, s beazonosította Kárpát-medencét a Draco, azaz [[S/Sárkány csillagkép\|Sárkány csillagkép]]pel, vagyis a Kárpát-medence égi mása a Sárkány csillagkép \[amely valóban északi\], az égbolt hajdani pólusa \[talán itt a Magyar Adorján féle témát is vegyíteni kellene?\]. Szerinte a kozmikus háttérsugárzás eredménye az a sok földi energiaközpont, amely a Kárpát-medencében fellelhető.  
 Annyi igaz lehet, hogy a Kárpát haza [[O/Ország\|ország]]a égi mennyország földre tükrözése és női terület, ahogy észak is, ahol a Sárkány csillagkép is van és ahol Magyarországot is Magyar Adorján egykor az északi sarkra képzelte el. Ugyanakkor felveti mindez azt is, hogy 1) nem-e azért kezdték tisztelni az északot, északi csillagképeket, mert egykor maguk is ott éltek vagy 2) fordítva. Inkább a harmadik variáció lehet igaz: is-is illetve a nő és az anya tisztelete mindenek felett való.  
 
 ## Mire hasonlít a Kárpát-medence?
