@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lófő/","title":"Lófő","created":"2024-11-05T14:06","updated":"2024-11-05T14:06"}
+{"dg-publish":true,"permalink":"/L/Lófő/","title":"Lófő","created":"2024-11-05T14:06","updated":"2025-04-27T10:03"}
 ---
 
 
@@ -10,8 +10,8 @@
 > A "lófő" jelentését sokféleképpen magyarázzák, de a Rákosi-korszak egyetemi gyorstalpalóján végzett történelemtanárom meghatározásánál badarabbat, azóta sem hallottam: "Azért lófő, mert a hadba vonuláskor a székelyek a csapat élén levágott lófejet vittek." A középiskolás gyerekeknek fantáziája rögvest megmozdult... Elképzelték, miként masíroztak a székelyek a vértől csöpögő lófej nyomán..."  
 > ![assets/Lófő_image1.png|invert_dark](/img/user/L/assets/L%C3%B3f%C5%91_image1.png)  
 >
-> * A csatolt képhez: Kézdimárkosfalvi Barabás Mihály székely hadnagy 1619. júl. 13-án Bethlen Gábortól kapott nemeslevél értelmében lófő lett. A címerében nincs ló, ahogy nincs más lófő címerében sem!
->
+> A csatolt képhez: Kézdimárkosfalvi Barabás Mihály székely hadnagy 1619. júl. 13-án Bethlen Gábortól kapott nemeslevél értelmében lófő lett. A címerében nincs ló, ahogy nincs más lófő címerében sem!
+> 
 > Jelenlegi ismereteink szerint a székelyek vezetőit, első embereit hívták lófőknek. "A székely nemzet hajdani rangsorozása szerint lófő (lovasfő, [[L/Lófejű\|lófejű]]) székelyek ama rendbeliek voltak, kik a hadban lóháton, a maguk lován voltak kötelesek szolgálni. A lófő első írásos említése, "loohfeu" alakban 1050-ből, a második 1096-ból származik.  
 > Csakhogy a X. századi magyar nyelvemlékben, az "I. András király korabeli Imák"-ban az első nemzeti felkelés vezetője, a Békés-megyei illetőségű Vata is lófő, mégpedig "garázda lófő" volt. Ám Békés még a régiségben sem tartozott Erdélyhez.  
 > ![assets/Lófő_image2.png|invert_dark](/img/user/L/assets/L%C3%B3f%C5%91_image2.png)  
@@ -29,7 +29,7 @@
 >
 > A magyar szavak elemzésekor a szakirodalomban akár bizonyítékként, akár cáfolatként elkerülhetetlenül fel-felbukkan a finnugorral való egybevetés.  
 > "A magyar etimológiai szótár" a lófő összetétel elő- és utótagjának eredetét finnugrista módon magyarázza: A ló – ősi örökség az ugor korból: vogul ló, luv. Az átvett alak a lovu lehetett, a ló az átmeneti lou formából fejlődött ki. (Szerintem a vogulok vették át a magyarok elődeitől!) Érdemes megjegyezni, hogy az ószláv/pravoszláv nyelvben az ugor mindig magyart jelent! Hodinka Antal, az orosz évkönyvek fordítója az ószláv ugor népnevet magyarnak fordítja. Tehát a finn-ugor jelentése finn-magyar.  
-> Az ugor megnevezést a magyar olvasó nemigen vonatkoztatja saját népnevére, a magyarra, hanem valamiféle urali, szibériai "finnugor" népnek tartja. Vajon, ésszerű a "finnugor" összetétel első tagját magyarul, másodikat pedig ószláv nyelven használni? Ez nem más, mint megtévesztés.  
+> Az ugor megnevezést a magyar olvasó nemigen vonatkoztatja saját népnevére, a magyarra, hanem valamiféle urali, szibériai "finnugor" népnek tartja. Vajon, észszerű a "finnugor" összetétel első tagját magyarul, másodikat pedig ószláv nyelven használni? Ez nem más, mint megtévesztés.  
 > Tehát a ló szavunk a vogultól, attól a néptől, ered, amelyik a mindennapjaiban nem használt lovat. A vogul hősi énekekben megjelenik ugyan a ló, de ez átvétel a magasabb műveltségi szintű ugorok, vagyis a magyarok elődeitől. (A voguloknál nem a ló, hanem a medve dívik.)  
 >
 > A magyar nyelv fejlődésére vonatkozóan elfogadott a p > f mássalhangzó változás: A finnugor nyelvek p mássalhangzója a magyarban f lett. A fej szó finnugor, illetőleg az uráli alapalakja \*päηз lehetett. Az uralinak tartott szó előtt ott a feltételezést jelentő * jel. A finn `pää` azonos a magyar fej szóval. A nyelvészeknek tehát írásos emlék híján, fogalmuk sincs, mi volt az "urali alapalak".  
