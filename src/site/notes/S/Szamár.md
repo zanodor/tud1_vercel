@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2025-03-14T22:49"}
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2025-04-27T15:19"}
 ---
 
 
@@ -15,7 +15,7 @@
 >
 > A Szamár állat neve a románoknál `Maghiar` \[lásd még róla, más nyelvekből is [[M/Magar\|Magar]]\]. Vagyis a Magyar egyben Szamár, vagy a Magyar egyben Szumer. A Szamár régen nem az ostobaság szinonimája volt, hanem a szabadságé. De a szamár, a lóhoz képest, engedetlen, önfejű és akaratos. (Ló = Ember).
 - Van még egy szó, amely ide kívánkozik, az [[O/Onager\|onager]] és [[H/Hun\|hun]] címnél taglalt görög `onos` = szamár szó. Nyilvánvaló, hogy ez hun-osként értelmezendő. De a szamár [[K/Kentum\|kentum]]os formái az arab és más nyelvekben meg a Kám-Úr/Hun-Or (az arab Holdat jelentő szó is ilyen; lásd még [[K/Khamor\|Khamor]]) névalakokra hajaznak. Lásd lejjebb még erről.  
-Ezzel egy újabb eset áll elő, ahol a magyar vagy valamely más utódnépe (hun, sumér) a szamár értelemmel kapcsolódik. Itt még lehet arra gondolni, hogy [[S/Széth\|Széth]]-tel és tiszteletével kapcsolat áll fenn, de vélhetően az a nép rajzolta meg eleve szamárfejűnek, aki ismerte a jelkép értelmét.  
+Ezzel egy újabb eset áll elő, ahol a magyar vagy valamely más utódnépe (hun, sumér) a szamár értelemmel kapcsolódik. Itt még lehet arra gondolni, hogy [[S/Széth\|Széth]]tel és tiszteletével kapcsolat áll fenn, de vélhetően az a nép rajzolta meg eleve szamárfejűnek, aki ismerte a jelkép értelmét.  
 A szamár (és az [[O/Ökör\|ökör]]) szerepel a [[B/Betlehem\|betlehem]]i játékokban (lásd például [[J/Jászol\|jászol]]) is. Akár tehát a szamár utalhat az aranykori felfogásra is (de Széth is az első isten volt).  
 
 #### Práczki István Szittya Biblia...
@@ -151,7 +151,7 @@ Pap Gábor egy másik Ne Legyen Áldozatos videóban visszatért a témára. [Ez
 És akkor innentől, 9:04-től megint precessziózik: "Na most, ha én a precessziós mozgás révén a Ráknál tartok, azt a (betlehemezés másik "kellék-állata,") az Ökör fejezi ki. A kis éven belül, és ott is a csillagképi értelemben vett Rák a magyar népi csillagnevek között is "Jászol szamárkákkal." (A latinban Asellus Borealis és Australis, viszont az Ökröt már nem tartják nyilván, az csak a mi mesei anyagunkban lelhető fel.) Ha a kettő itt szinkronba azaz fedésbe kerül egymással, akkor azért van ez, hogy az ökör ellentétesen, azaz szembe néz a szamárral, mert precessziósan az egyik irányban itt tartok az Ökörnél és ellentétes irányban, a kis éves ciklust (ahogy mondja "kicsi életemet") tekintve ott tartok a Szamárnál, és kettő között ott a [[J/Jászol\|jászol]]. A jászol ott van ebben a csillagképben, mint köd. Ez a [Praesepe](https://en.wikipedia.org/wiki/Beehive_Cluster) = Jászol. \[...\] Amit tehát mi játéknak gondolunk, annak minden eleme, tartalma teljesen konkrét csillagászati közlést tartalmaz. Ehhez már csak azt kell hozzászámolni, ami azóta – azaz 2020 év óta – csúszott, azt meg pillanatok alatt hozzá lehet számolni \[ez a mondata is bizonyítja, hogy a Bak-Bak szinkron ezek szerint 2000 éve volt meg.\]. Tehát itt sokkal többről van szó, mint arról, hogy mi most egy múltbeli eseményre emlékeznénk: ez az esemény most is zajlik \[ez egy élő, folyamatos rendszer\]. Ez egy jelenlévő születés."  
 [Ezen](https://qr.ae/pNSqWL) Quora válaszra kommentként írtam is:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/j/jaszol/#l9-wk" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/J/Jászol/#l9-wk" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
