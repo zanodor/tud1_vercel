@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2025-01-02T13:51"}
+{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2025-04-27T09:59"}
 ---
 
 
@@ -32,11 +32,16 @@ Azaz ma a tropikális adattal számolnak és a Tejútközpont Sagittarius 28 fok
 Mint kiderül, ez a hely a [[P/Precesszió\|precesszió]] miatt ugyanúgy vándorol az [alábbi](http://goodvibeastrology.com/galactic-center/) internetes oldal szerint is:  
 > The Galactic Center sits at 27° Sagittarius and moves forward about 1° every seventy\[-two\] years.  
 > —  
-> A Tejútközpont a Nyilas 27°-ánál helyezkedik el, és hetven\[-két\]évente körülbelül 1°-ot mozog előre.  
+> A Tejútközpont a Nyilas 27°-ánál helyezkedik el, és hetven\[-két\] évente körülbelül 1°-ot mozog előre.  
 
 Itt jut eszembe a [[M/Makara\|Makara]] címnél álló John M. Jenkins féle adat, miszerint Makara a Tejútanya vulva-szája, nyílása lenne. Viszont ha a Tejútanya vulvája a [[M/Mula\|Mula]] holdházban van, akkor ez csak úgy lehet, ha közben egy világhónap csúszás van, hiszen Mula a Nyilasban van, Makara pedig a Bakkal azonos. Az is gondot okoz, hogy itt a sziderikus-tropikus felfogás különbözősége (lásd róla [[T/Tavaszi évkezdés\|tavaszi évkezdés]] címnél Kevin Burk és mások adatát) mellett a lunáris és szoláris nevek egymással való megfeleltetésével is számolni kell. A [[M/Maghā\|Maghā]] nevű holdhónaphoz tartozó szoláris hónap neve lenne [[M/Makara\|Makara]].  
 
-![assets/Galcen_image2.png|invert_dark](/img/user/G/assets/Galcen_image2.png)  
+| #  | Name | Stars | Details |
+|----|------|-------|---------|
+| 17 | **Anuradha**<br>"following rādhā" | **β, δ and π Scorpionis** | - *Astrological Mate:* **Shani (Saturn)**<br>- *Symbol:* Triumphal archway, lotus<br>- *Rigvedic name:* Mitra, one of Adityas of friendship and partnership<br>- *Indian zodiac:* 3° 20′ – 16° 40′ Vrishchika<br>- *Western zodiac:* 29° 20′ Scorpio – 12° 40′ Sagittarius |
+| 18 | **Jyeshtha**<br>"the eldest, most excellent" | **α, σ, and τ Scorpionis** | - *Astrological Mate:* **Budha (Mercury)**<br>- *Symbol:* Circular amulet, umbrella, earring<br>- *Rigvedic name:* Indra, chief of the gods<br>- *Indian zodiac:* 16° 40′ – 30° Vrishchika<br>- *Western zodiac:* 12° 40′ – 26° Sagittarius |
+| 19 | **Mula**<br>"the root" | **ε, ζ, η, θ, ι, κ, λ, μ and ν Scorpionis** | - *Astrological Mate:* **Ketu** (South lunar node)<br>- *Symbol:* Bunch of roots tied together, elephant goad<br>- *Rigvedic name:* Nirṛti, peak of material achievement and the beginning of the spiritual impulse<br>- *Indian zodiac:* 0° – 13° 20′ Dhanus<br>- *Western zodiac:* 26° Sagittarius – 9° 20′ Capricorn |
+
 Számomra az a furcsa, hogy miért a tropikus adattal számoltak és miért nem (a holdházakra vagy akár Szíriuszra[^2] vonatkozó) sziderikus adattal. Persze csillagászati módszerrel kimutatható, hová is esik a Tejútközpont, de nekem az az érzésem, hogy nem Mula, hanem a [[R/Ragyog\|ragyog]] és [[M/Mithra\|Mithra]] címnél is említett hindu [[A/Anuradha\|Anuradha]] nakshatra kellett legyen az eredeti hordozó. Érdekessége a holdháznak, hogy istensége Mitra (ld. [[M/Mithra\|Mithra]]), szimbóluma [[L/Lótusz\|lótusz]] (lásd Mithrán kívül Buddha és Jézus születésével is kapcsolatba hozható lótusz-szülésről is ott). Egész nyilvánvalóan a Napot, napminőséget szülő Tejútanyáról van szó. A görög `mítra` = anyaméh szó eredete is innen kell eredjen ([[M/Magyar\|Magyar]] és [[M/Magor\|Magor]] nevek azonosságát is így kell látni).  
 Ezen a ponton arra gyanakodnék, hogy két holdháznyit csúszott a dolog (kiszámítható lenne pontosan is, hány év tehetett el), viszont akkor a Tejútközpont miért az ellentétes irányban mozogna? Hiszen tudjuk, a [[T/Tavaszpont\|tavaszpont]] a zodiákus jegyein retrográd halad. Ugyanígy Anuradhának Mula után kellene lennie, hogy retrográd Mulába jusson.  
 Még mindig árulás van, pedig nekem mégis az az érzésem, hogy túl sok adat mutat arra, hogy az Anuradha holdházba kellett essen a Tejútközpont.  
@@ -46,7 +51,7 @@ Ezen alábbi adat is erről tanúskodna:
 
 Csatolva lásd a Tejútközpontot a Nyilas alfájával, Rukbattal, amelynek Richard H. Allen könyvének adata szerint (egy közelebbről meg nem határozott) eufráteszi neve is igen meggyőző: **Nibat Anu**. Hogy itt [[A/Anu\|Anu]] istenségről van inkább szó, mint a Tejútanya-Anu vulvájáról, valószínű, viszont Anu istenség neve a Tejútanya Anu nevéből kell eredjen.  
 
- 
+
 
 Nehéz volt/lenne elengedni a tényt, hogy Anu neve a Tejútközponthoz kapcsolható legyen, annál is inkább, mert majdnem Anu, Aña előjön az Amazonas északnyugati régiójában, a brazíliai tukano indiánoknál is: Aña nevezetű a Skorpió-Nyilas felőli égtáj az alábbi adatok szerint.  
 ![assets/Galcen_image4.png|invert_dark](/img/user/G/assets/Galcen_image4.png)  
@@ -64,7 +69,7 @@ Láthatósága:
 
 ...című könyvének 116. oldalán álló, saját kutatásommal megegyező adata, miszerint a **Halak az utolsó jegy a zodiákusban** és a mostani galaktikus együttállással új kor kell kezdődjön:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/g/galactic-anticentre/#ki6v7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/G/Galactic anticentre/#ki6v7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -77,7 +82,7 @@ Láthatósága:
 - Másutt ugye Pleiadok és Auriga, de [[S/Szíriusz\|Szíriusz]] is abban az irányban, dél felé van.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/h/halak-korszak/#wrxmg" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/H/Halak korszak/#wrxmg" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -93,7 +98,7 @@ A mellékelt kép a Szigetről Péterfai Jánostól való.
 ![assets/Galcen_image5.png|invert_dark](/img/user/G/assets/Galcen_image5.png)  
 Ezen [[S/Sziget\|sziget]] ugyanaz, mint amit másutt Csudaországgal azonosít:  
 > Úgy gondolom, hogy az égbolt 40. foka Szkythia, vagyis Csudaország egyik oldala.  
-> Hérodotosz jegyezte fel, hogy a szkytháknál, (vagyis magyaroknál, a csudák népénél), ha meghal valaki, 40 napig hordják körbe az országban a holttestet. Majd a 40 nap elteltével a holttestet elégetik. Az égetés során a Lélek a Mennyekbe száll. 
+> Hérodotosz jegyezte fel, hogy a szkytháknál, (vagyis magyaroknál, a csudák népénél), ha meghal valaki, 40 napig hordják körbe az országban a holttestet. Majd a 40 nap elteltével a holttestet elégetik. Az égetés során a Lélek a Mennyekbe száll.
 > A 40 nap azért szükséges, mert ennyi idő alatt a lélek, naponta egy fokot haladva az égen, Csuda országba érkezik. A Tejúton lévő sziget, amely meséinkben is szerepel, valójában Csuda ország. Csak kis helyen lehet bemenni, ami talán a Tű Foka kifejezéssel is rokon. Csuda ország Isten országa, továbbá a magyarok, illetve az emberiség őshazája is.  
 
 Közbevetőleg tegyük ide a több helyen idézett...
@@ -126,7 +131,7 @@ Mint alant látjuk, a mayák [[X/Xibalba\|Xibalba]] nevet kapcsolnak hozzá. Err
 Varga Géza is szól a Tejúthasadékról és nála "Us" -t (lásd [[U/Us#US 2)\|Us]]) jelent:  
 > Több ezer éves pogány jelkép keresztény változata a mandorla (mandula alakú ívben Krisztus, vagy Mária és a kisded képe). Eredetileg az istenanya [[V/Vulva\|vulvá]]jára, a Tejút mandula alakú hasadékára utalt, amelyben Karácsonykor kél az isteni őst jelképező Nap.  
 > ![assets/Galcen_image6.jpeg|invert_dark](/img/user/G/assets/Galcen_image6.jpeg)  
-> 
+>
 > A mandorla lineáris megfelelője a hatti "isten" hieroglifa, a sumér napisten szimbóluma (René Labat: Manuel d'épigraphle akkadienne, 68. oldal \[de értelmet nem ír mellé\]) és a székely "-us" (ős) rovásjel. Fejdíszként szerepel Szibéria újkőkori sámánábrázolásain (Hoppál Mihály: Sámánok, lelkek és jelképek, 1994, 37. oldal), előfordul mongóliai és horezmi sziklarajzokon, valamint hun és avar tárgyak hieroglifikus felirataiban is.  
 
 Péterfai János az egyébként nikolsburgi székely ábécéből fennmaradt -us hangértéket, jelet nem taglalja, de [[U/Us\|us]] és (a másik) [[U/Us#US 2)\|us]] címnél írja:  
@@ -248,7 +253,7 @@ John M. Jenkins arról is ír, hogy akár tíz évvel is eltérhetnének az adat
 > The precise calculation of the solstice-galaxy alignment is predicated upon identifying the precise location of the solstice meridian and the Galactic equator. Of these two abstract locations, the Galactic equator is subject to variation depending on whether you chose to identify with gravitational, visual, or electromagnetic criteria. If the currently accepted astrophysical location for either the solstice meridian or the Galactic equator is inaccurate by as little as 1/60th of a degree (1 minute of arc), the calculation of the precession-caused alignment of the solstice meridian (precise center-point of the body of the sun) with the Galactic equator would be subject to a +/- variable of five months. And how big is 1/60th of a degree? Well, the full moon is about 1/2 a degree, or 30 minutes of arc, in diameter. So, imagine slicing the full moon into thirty parts – one of those parts is 1/60th of a degree. It would seem reasonable that variations in the currently accepted locations of either the solstice meridian or the Galactic equator could be at least this much. \[...\]  
 > In the realm of naked-eye astronomy, which is really the context here, we must acknowledge the visual size of the solstice sun (1/2 a degree wide). As I suggested in my book Maya Cosmogenesis 2012, the "solstice sun" will not have precessed clear of the Galactic equator until roughly AD 2018 (AD 2021 if you want to get technical).  
 > —  
-> A napforduló-galaxis együttállás pontos kiszámítása a napforduló meridiánja és a galaktikus egyenlítő pontos helyének meghatározásán alapul. E két absztrakt hely közül a galaktikus egyenlítő változhat attól függően, hogy gravitációs, vizuális vagy elektromágneses kritériumok alapján választjuk az azonosítást. Ha a napfordulós meridián vagy a Galaktikus Egyenlítő jelenleg elfogadott asztrofizikai helyzete akár csak 1/60 fok (1 ívperc) pontosságú, akkor a napfordulós meridián (a Nap testének pontos középpontja) és a Galaktikus Egyenlítő precesszió okozta együttállásának kiszámítása öt hónapos +/- változást mutatna. És mekkora az az 1/60 fok? Nos, a telihold átmérője körülbelül 1/2 fok, azaz 30 ívperc. Képzeljük el tehát, hogy a teliholdat harminc részre szeleteljük – ezek közül az egyik rész 1/60 fok. Ésszerűnek tűnik, hogy a napforduló meridiánjának vagy a galaktikus egyenlítőnek a jelenleg elfogadott helyzete legalább ekkora eltérést mutathat. \[...\]
+> A napforduló-galaxis együttállás pontos kiszámítása a napforduló meridiánja és a galaktikus egyenlítő pontos helyének meghatározásán alapul. E két absztrakt hely közül a galaktikus egyenlítő változhat attól függően, hogy gravitációs, vizuális vagy elektromágneses kritériumok alapján választjuk az azonosítást. Ha a napfordulós meridián vagy a Galaktikus Egyenlítő jelenleg elfogadott asztrofizikai helyzete akár csak 1/60 fok (1 ívperc) pontosságú, akkor a napfordulós meridián (a Nap testének pontos középpontja) és a Galaktikus Egyenlítő precesszió okozta együttállásának kiszámítása öt hónapos +/- változást mutatna. És mekkora az az 1/60 fok? Nos, a telihold átmérője körülbelül 1/2 fok, azaz 30 ívperc. Képzeljük el tehát, hogy a teliholdat harminc részre szeleteljük – ezek közül az egyik rész 1/60 fok. Észszerűnek tűnik, hogy a napforduló meridiánjának vagy a galaktikus egyenlítőnek a jelenleg elfogadott helyzete legalább ekkora eltérést mutathat. \[...\]
 > A szabad szemmel történő csillagászatban, ami itt valójában a kontextus, el kell ismernünk a napforduló napjának vizuális méretét (1/2 fok széles). Amint azt a 2012-es Maya Cosmogenesis című könyvemben javasoltam, a "napfordulós nap" csak nagyjából Kr. u. 2018-ban (Kr. u. 2021-ben, ha technikai szempontból akarunk eljárni) fog elhaladni a Galaktikus Egyenlítőtől.
 
 Aztán megosztja Patrick Wallace-szal való magánlevelezését, ahol a 2021-es, sőt, egy nagyon távoli dátum is előjön:  
@@ -284,7 +289,7 @@ Hogy pontosan milyen együttállásokkal és főleg milyen földrajzi fekvéseke
 > —  
 > A napforduló napjának a galaxishoz való igazodása akár 1500 évre is érvényes lehet (mivel a Tejútrendszer széles, és az igazodás általánosítható). Ez a tartomány magában foglalja az inka birodalmat, valamint a Tiahuanaco-i megszállás legutóbbi szakaszát (kb. Kr. u. 600).  
 
-![assets/Galcen_image19.png|invert_dark](/img/user/G/assets/Galcen_image19.png)   
+![assets/Galcen_image19.png|invert_dark](/img/user/G/assets/Galcen_image19.png)
 Leenőriztem John M. Jenkins adatát az előbbi képen csatolt infora nézve. Szíriusz nagyon nem moccan ebből a "nadir(?)" pontból az égi egyenlítő alatt. Csak balra, jobbra mozog az évezredek során. Precesszió ugye bele van táplálva.  { #kq3rso}
 
 - Így nem sokat mond az info, legalábbis arra vonatkozólag, hogy milyen égi dinamika játszhat itt szerepet. Olyan program kellene, ami Szíriusz és a Naprendszerünk valós mozgásaira vonatkozó adatokkal van betáplálva. Olyan meg – legalábbis közkézre adva – nem lesz.
@@ -324,10 +329,10 @@ A negyvenezer évet egyébként John M. Jenkins úgy magyarázza, hogy a galacti
 - [[N/Nyolc\|Nyolc]] címnél is szerepelt ezen adatsor.
 
 R. H. Allen Star Names című könyvében szerepel, hogy az Orion övcsillagai 4000 évvel ezelőtt 12°-al az égi egyenlítő alatt voltak, most pedig rajta vannak.
-> In the circular representation of the yearly cycle, the solstices occupy the "highest" and "lowest" points by their very nature. Assuming the standard clockwise motion, the June solstice should be placed at the top, where the descent into decreasing daylight begins. It follows then that the equinoxes should be placed at the three and nine o'clock positions.    
+> In the circular representation of the yearly cycle, the solstices occupy the "highest" and "lowest" points by their very nature. Assuming the standard clockwise motion, the June solstice should be placed at the top, where the descent into decreasing daylight begins. It follows then that the equinoxes should be placed at the three and nine o'clock positions.
 > Guénon points out that tangents drawn from the solstice points will be horizontal, and similar lines drawn through the equinox points will be vertical. If we think of the circle as a doorway, the vertical equinox lines become pillars that frame the sides of the doorway while the solstices become the archway and the threshold.  
 > —  
-> Az éves ciklus körkörös ábrázolásában a napfordulók természetüknél fogva a "legmagasabb" és a "legalacsonyabb" pontot foglalják el. Az óramutató járásával megegyező szokásos mozgást feltételezve a júniusi napfordulót kell a csúcsra helyezni, ahol a csökkenő napfénybe való süllyedés kezdődik. Ebből következik, hogy a napéjegyenlőségeket a három és a kilenc órai pozícióba kell helyezni.    
+> Az éves ciklus körkörös ábrázolásában a napfordulók természetüknél fogva a "legmagasabb" és a "legalacsonyabb" pontot foglalják el. Az óramutató járásával megegyező szokásos mozgást feltételezve a júniusi napfordulót kell a csúcsra helyezni, ahol a csökkenő napfénybe való süllyedés kezdődik. Ebből következik, hogy a napéjegyenlőségeket a három és a kilenc órai pozícióba kell helyezni.
 > Guénon rámutat, hogy a napforduló pontjaiból húzott érintővonalak vízszintesek lesznek, és a napéjegyenlőségi pontokon keresztül húzott hasonló egyenesek függőlegesek. Ha a kört ajtónyílásként képzeljük el, akkor a függőleges napéjegyenlőségi vonalak oszlopokká válnak, amelyek az ajtónyílás oldalait keretezik, míg a napfordulók a boltív és a küszöb lesznek.  
 
 ![assets/Galcen_image21.png|invert_dark](/img/user/G/assets/Galcen_image21.png)
