@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2024-10-26T00:26"}
+{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2025-04-27T15:19"}
 ---
 
 
@@ -176,7 +176,7 @@ Ami érdekes lehet tőle:
 
 Viszont azt tudni kell, hogy [[P/Pán\|Pán]] nem a Kossal, hanem a Bakkal hozatott kapcsolatba. Az tény, hogy szarvak itt és ott is vannak.  
 Aztán a cikkíró megkér minket, nézzük meg a Kos jelét, hogy mire emlékeztet minket. Valóban az általa is említett Istennőre, annak méhére (és még ahogy írja, a menstruális ciklusra) utal.  
-A Kos/szarv jel tehát együttesen jelezheti, hogy Napfiú ezen a Magyar Adorján által is [[N/Nász\|nász]]ünnepélynek tartott március 21.-i tavaszi napéjegyenlőségi napon fogan meg (hogy 9 hónap múlva a Napfiú megszülethessen): az Molnár V. József könyvében kettős-spirál néven is nevezett Kos/szarv jel ezen felfelé álló [[F/Fleur de lis\|fleur de lis]] szerű állapotában nőiségi (szaporító szervrendszer) jelképként ([[K/KUS\|KUS]] = tűz, ahogy [[V/Vulva\|vulva]] a Tejútközpontban is a [[T/Tűz\|tűz]]es lába köze az istennőnek) mutatkozik, viszont fejjel lefelé nézve egy hímtagot formázna a két monnyal. Azaz visszatérünk a fentebbi "a hím és női ivarszervek egymás inverzei" kérdéshez. Az [[E/Egy\|egy]] címnél taglalt egyháromság témához így tehetőek az alábbiak:  
+A Kos/szarv jel tehát együttesen jelezheti, hogy Napfiú ezen a Magyar Adorján által is [[N/Nász\|nász]]ünnepélynek tartott március 21.-i tavaszi napéjegyenlőségi napon fogan meg (hogy 9 hónap múlva a Napfiú megszülethessen): a Molnár V. József könyvében kettős-spirál néven is nevezett Kos/szarv jel ezen felfelé álló [[F/Fleur de lis\|fleur de lis]] szerű állapotában nőiségi (szaporító szervrendszer) jelképként ([[K/KUS\|KUS]] = tűz, ahogy [[V/Vulva\|vulva]] a Tejútközpontban is a [[T/Tűz\|tűz]]es lába köze az istennőnek) mutatkozik, viszont fejjel lefelé nézve egy hímtagot formázna a két monnyal. Azaz visszatérünk a fentebbi "a hím és női ivarszervek egymás inverzei" kérdéshez. Az [[E/Egy\|egy]] címnél taglalt egyháromság témához így tehetőek az alábbiak:  
 Ahhoz, hogy a nemzés létrejöhessen, a(z egymás inverzének is felfogható) férfi és női nemi szervek háromságának megfelelően kell működnie. A férfinél nem elég a pénisz (annak is erekt állapota), ha nem működik a hormontermelés (herék). A nőnél a petefészek hasonló fontosságú. A két szervrendszer egyháromsága együtt hozza létre az életet. (Arról pedig több helyen volt szó, hogy a magyar-hun azaz [[H/Hunor és Magor\|Hunor és Magor]] rendszerben a hunok a nemzésért, magyarok a szülésért felelősek.)  
 
 #### Pető Imre Nimród és fiai...
