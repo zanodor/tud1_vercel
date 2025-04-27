@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kalács/","title":"Kalács","tags":["Englishtexttranslated"],"created":"2024-12-18T07:36","updated":"2024-12-27T10:23"}
+{"dg-publish":true,"permalink":"/K/Kalács/","title":"Kalács","tags":["Englishtexttranslated"],"created":"2024-12-18T07:36","updated":"2025-04-27T09:59"}
 ---
 
 
@@ -88,7 +88,7 @@ Gyárfás Ágnes a Fordulat – Hitvilág, mítoszok, legendák című PDF 53. o
 
 Dr. Gyárfás Ágnes A képjelekről – Tenger – Szabir ország c. könyvéből való ezen téma:  
 ![assets/Kalács_image3.png|invert_dark](/img/user/K/assets/Kal%C3%A1cs_image3.png)  
-> Ez az embléma feltünteti a napéjegyenlőségeket is a függőleges nyolcassal, s rávezet egy új összefüggés felfedezésére. Arra, hogy a próféták, apostolok és az Istenfiak, a születésükkel, fogantatásukkal a Nap útjának állomásait teszik ünnepélyessé. A keleti asztrológusok öt Buddha reinkarnációjában fedezték fel a Nap útjával kapcsolatos összefüggéseket. Mi Jézus Urunk és lelki ikertestvére Keresztelő Szent János fogantatása és születése viszonylatában Pap Gábor professzor szavaira és írására hivatkozva \[Jankovics Marcell is írt róla ugye\] világítjuk meg kettejük sorsának összefonódását és Nap voltuk alátámasztását.  
+> Ez az embléma feltünteti a napéjegyenlőségeket is a függőleges nyolcassal, s rávezet egy új összefüggés felfedezésére. Arra, hogy a próféták, apostolok és az Istenfiak, a születésükkel, fogantatásukkal a Nap útjának állomásait teszik ünnepélyessé. A keleti asztrológusok öt Buddha reinkarnációjában fedezték fel a Nap útjával kapcsolatos összefüggéseket. Mi Jézus Urunk és lelki ikertestvére Keresztelő Szent János fogantatása és születése viszonylatában Pap Gábor professzor szavaira és írására hivatkozva világítjuk meg kettejük sorsának összefonódását és Nap voltuk alátámasztását.  
 
 ![assets/Kalács_image4.jpeg](/img/user/K/assets/Kal%C3%A1cs_image4.jpeg)  
 (Mellékelve lásd – kétszer is – az alacskai templom férfi-Napemblémáját és Pap Gábor ábráját.)  
