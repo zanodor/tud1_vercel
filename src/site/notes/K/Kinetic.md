@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kinetic/","title":"Kinetic","created":"2024-11-23T05:18","updated":"2024-11-23T05:18"}
+{"dg-publish":true,"permalink":"/K/Kinetic/","title":"Kinetic","created":"2024-11-23T05:18","updated":"2025-04-27T09:59"}
 ---
 
 
@@ -11,7 +11,7 @@ Másutt Aczél József kínál szavunkat veti össze a `kíne` = nógat, ösztö
 Lovaknál `kíne` = űz, hajt, ösztönöz szót jelentéssel adja meg és kínoz szavunkra hívja fel a figyelmet lehetséges összevetésként.  
 
 A helyzet az, hogy a görög szavakról tudjuk, hogy sok közülük a mitológiai képek mesterséges szóbokraiból kerülnek ki. Azaz például [[C/Centaur\|centaur]] esetében az efféle etimologizálások egész sora gyártható (Jankovics Marcell A Nap könyvének adata):  
-> Emlékeztetnék arra, hogy gulyását Erűtiónnak hívják, mint Héraklész egyik kentaur-ellenfelét. A szerzők nyilván a Centaurus csillagképre gondolva ragasztották a gulyásra a kentaur nevét. Ésszerű magyarázatokat kereső "mitológusok" szerint a kentaurok valójában lovas pásztorok voltak. L. gör. `kentao` = "hajt", "ösztökél".  
+> Emlékeztetnék arra, hogy gulyását Erűtiónnak hívják, mint Héraklész egyik kentaur-ellenfelét. A szerzők nyilván a Centaurus csillagképre gondolva ragasztották a gulyásra a kentaur nevét. Észszerű magyarázatokat kereső "mitológusok" szerint a kentaurok valójában lovas pásztorok voltak. L. gör. `kentao` = "hajt", "ösztökél".  
 
 Aztán ezen kentao illetve igepárjai (`kíne` = űz, hajt, ösztönöz ill. `kentein` = kényszerít) előkerülnek [[C/Centre\|centre]] címnél is. De hasonló szó még a [[C/Cant\|cant]] címnél előjövő hellén-latin `kantharos`-`cantharus`, stb. Mindezen szavak visszavezethetők egyszerűen [[K/Kantár\|kantár]] szavunkra, mely a ló két oldalról végzett irányítására, ösztökélésre használatos (innen két fogantyújú a `kantharos` ivóedény is). De hasonló szó még a `gantár` (melyet lásd [[G/Gantry\|gantry]]) és ki tudja hány más magyar és utódnyelvi szó tevődik ki két olyan fontos alapszóból, mint a [[K/KAN\|KAN]] (és párjai) és [[T/TÁR\|TÁR]] (és párjai).  
 Ergo a kentaur, Kende, kínoz, stb. szavakban a közös, hogy a kún-hun nyelvben a legfontosabb bolygó, a Nap neve K-N vázú, de a Hold neve is lehet ez (lásd sumér és (ó)finn példát [[K/KUN\|KUN]]). Minden mozgás, ösztökélés, hajtás, az égre vonatkoztatható. Az alábbiakban erről is lesz szó.  
