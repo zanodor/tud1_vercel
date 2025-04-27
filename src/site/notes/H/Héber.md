@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2024-10-25T19:16"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2025-04-27T10:02"}
 ---
 
 
@@ -177,9 +177,10 @@ Azt leszögezhetjük, hogy a [[K/Kabar\|kabar]]/héber név alakváltozata adja 
 Götz László Keleten kél a Nap című könyvének 118. oldalán nagyon érdekes szavakat és megjegyzéseket találunk. Kiderül, hogy a [[V/Vezető\|vezető]]/[[V/Vezér\|vezér]] fogalmat vivő szemita és árja szavak mögött megtaláljuk az Eb-Úr összetételben mutatkozó Kutyát és annak a szarvas közel-keleti pótállatait, mely szarvas keleten Szarvasfőként magával Vezér-Orionnal is azonosul. Mindnek közös szóalakja van.  
 
 Götz táblázatos adatait szövegesen hozom. Ő a vadkan jelentésű szavakkal kezdi:  
-német `eber` = vadkan, óangol `eofor` = vadkan, óskandináv `jofurr` = fejedelem, szláv `vepri` = vadkan és latin `aper` = vadkan.  
+> német `eber` = vadkan, óangol `eofor` = vadkan, óskandináv `jofurr` = fejedelem, szláv `vepri` = vadkan és latin `aper` = vadkan
+
 Kecskebak jelentésű szavakkal folytatja:  
-> német `haber` = kecskebak, óangol `haefer` = bak, óskandináv `hafr` = bak, görög `kapros` = vadkan, latin `caper` = kecskebak és kelta `gabro` = kecske.  
+> német `haber` = kecskebak, óangol `haefer` = bak, óskandináv `hafr` = bak, görög `kapros` = vadkan, latin `caper` = kecskebak és kelta `gabro` = kecske
 
 Az indogermán szavak elé/mellé szemita szavakat is talál:  
 > akkád `abrû` = egy állat, héber `'opher` = őzbak és arab `'ufr` = vadkan, disznó és `ghufr` = kőszáli kecske.  
