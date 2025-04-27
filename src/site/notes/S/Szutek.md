@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2024-10-26T00:32"}
+{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2025-04-27T15:20"}
 ---
 
 
@@ -10,14 +10,14 @@ Heta-egyiptomi (ég/Nap?)isten, kinek neve Fáy Elek A magyarok őshona című k
 Fáy Elek könyvének 34. oldalán áll, hogy a turáni szkíta-féle [[H/Hykszosz\|hykszosz]] (vagy a velük azonos hettita-keta; lásd [[H/Heta\|heta]]) nép istene is [[S/Széth\|Széth]] illetve Szutek nevű volt. Hogy ez csak afféle azonosítás, mint [[D/Deus\|deus]]-nál (azaz egyiptomi istenséggel feleltették meg az idegen nép istenét), vagy valódi név, nem lehetünk biztosak benne, mindenesetre ezen istennek templomokat emeltek. És mivel [[S/Szét\|szét]] magyarul is értelmes és Egyiptom is magyar alapítású, talán mindegy is. Az tény, hogy ha tényleg 4-5000 évvel ezelőtt járunk, akkor még Széth uralma tarthatott és talán az Ozirisz-kultusz előtt járunk.  
 Fáy könyvének 57. oldalán is Szutek (= [[S/Széth\|Széth]], [[N/Nut\|Nut]] égistennő fia) egyiptomi istenek között említtetik, egyiptomi fáraó kontextusban. Viszont az 59. oldalon található felsorolásban az is szerepel, hogy a [[H/Hettita\|hettitá]]k (keták/heták) istene is Szutek, meg még más városállamoké.  
 A 60. oldal alján az is szerepel, hogy **Szutek égisten**.  
-[[P/Práczki István\|Práczki István]] (gondolom ő firkálta össze és szkennelte be Fáy könyvét) szómegfordítást lát a Szutek szóban: Két Ős. Nos, azt le le kell szögezni, hogy ha a Szutek név óegyiptomi rekonstrukció, akkor bármely magánhangzóval fel lehet tölteni, mint Spdt ([[S/Sopdet\|Sopdet]]) nevet is. Az is lehet, hogy ezen Szutek név egy hettita-hatti feliratból, szövegből lett megfejtve és a kutatók Széth-tel azonosították, de valójában más alakot vagy fogalmat kell látni alatta, hiszen a [[S/SZET\|SZET]] is lehet kétféle értelmezésű, [[S/Süt\|süt]] már csak hímségi, és így tovább.  
+[[P/Práczki István\|Práczki István]] (gondolom ő firkálta össze és szkennelte be Fáy könyvét) szómegfordítást lát a Szutek szóban: Két Ős. Nos, azt le le kell szögezni, hogy ha a Szutek név óegyiptomi rekonstrukció, akkor bármely magánhangzóval fel lehet tölteni, mint Spdt ([[S/Sopdet\|Sopdet]]) nevet is. Az is lehet, hogy ezen Szutek név egy hettita-hatti feliratból, szövegből lett megfejtve és a kutatók Széthtel azonosították, de valójában más alakot vagy fogalmat kell látni alatta, hiszen a [[S/SZET\|SZET]] is lehet kétféle értelmezésű, [[S/Süt\|süt]] már csak hímségi, és így tovább.  
 
 #### Zajti Ferenc Zsidó volt-e Jézus...
 
 ...című könyvében [[T/Tesub\|Tesub]] hurrita ég- ill. viharistennel azonosítva jön elő:  
 > Feltűnő, hogy Hebron alapítása, ahol hethiták laktak, a Nm. 13, 23-ban a tanisi hyksos éra szerint van számítva s hogy **a hethita Sutech (=Tesub) istent a hyksos királyok különösen tisztelték** (G. A. J. 315.).  
 
-Ahogy [[J/Jász#Jászok zsidó vallása – jazidi vallás\|jászok zsidó vallása – jazidi vallás]] cím/alcímnél írtam, kételkedem Szutek [[S/Széth\|Széth]]-tel való azonosításának helyességét illetően. Széth persze azon a jogon tisztelhető lehet, mint a (Hold- és Istenanya-tisztelettel párhuzamosítható) Őskezdet istene. [[A/Ahriman\|Ahriman]] és [[S/Sátán\|Sátán]] címnél is írtuk:  
+Ahogy [[J/Jász#Jászok zsidó vallása – jazidi vallás\|jászok zsidó vallása – jazidi vallás]] cím/alcímnél írtam, kételkedem Szutek [[S/Széth\|Széth]]tel való azonosításának helyességét illetően. Széth persze azon a jogon tisztelhető lehet, mint a (Hold- és Istenanya-tisztelettel párhuzamosítható) Őskezdet istene. [[A/Ahriman\|Ahriman]] és [[S/Sátán\|Sátán]] címnél is írtuk:  
 
 #### Bognár Ferenc Az Életfa csillag-gyökerei...
 
