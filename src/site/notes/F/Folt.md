@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Folt/","title":"Folt","created":"2023-10-10T10:47","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/F/Folt/","title":"Folt","created":"2023-10-10T10:47","updated":"2025-04-27T09:57"}
 ---
 
 
@@ -10,5 +10,7 @@ A lyukakat szokták befoltozni, míg a lyukakról is tudjuk, az égi vásznon az
 Igen érdekes az is, és ez közben [[F/Föld\|Föld]] és [[E/Ég és föld\|ég és föld]] címhez is bekerült, hogy a folt szó a Föld szó pontos mása is. Fentről nézve a Föld is egy folt, egy pötty. Viszont a Föld nem csillag, hanem bolygó. Ha nagyon akarjuk, akkor mondhatjuk, hogy a Szíriusz lenti mása a Föld. Hiszen [[T/Tündér Ilona\|Tündér Ilona]] [[S/Szíriusz\|Szíriusz]] és a [[F/Föld\|Föld]] is lehet.  
 
 A sötét folt, a hiba, melyről lásd [[F/Fault\|fault]]. Igaz, [[F/False\|false]] címnél valós és balos fogalmak jöttek elő.  
+Megfelel neki még `blot` szó is.  
 
-A [[C/Csepp\|csepp]] szavunk Tep/Tyepp-ként a [[P/PET\|PET]] megfordítása, és ugyanúgy a Tejút-galaxis csillagaira utal. Így érhető meg az angol [[T/Tear#Tear 2)\|tear]] = könny szó is, mely valós jelentése könnycsepp, azaz csillag ([[T/TER\|TER]]/[[T/TÉR\|TÉR]], melynek tejes-vizes minőségét [[D/DAR\|DAR]] és [[D/Dairy\|dairy]] címnél láttuk).  
+[[C/Csepp\|Csepp]] szavunk Tep/Tyepp-ként a [[P/PET\|PET]] megfordítása, és ugyanúgy a Tejút-galaxis csillagaira utal. Így érhető meg az angol [[T/Tear#Tear 2)\|tear]] = könny szó is, mely valós jelentése könnycsepp, azaz csillag ([[T/TER\|TER]]/[[T/TÉR\|TÉR]], melynek tejes-vizes minőségét [[D/DAR\|DAR]] és [[D/Dairy\|dairy]] címnél láttuk).  
+
