@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kína/","title":"Kína","tags":["Englishtexttranslated"],"created":"2023-11-21T09:12","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/K/Kína/","title":"Kína","tags":["Englishtexttranslated"],"created":"2023-11-21T09:12","updated":"2025-04-27T10:02"}
 ---
 
 
@@ -41,3 +41,4 @@ A másik a Huna név, melyből ugyanúgy lehetett létrejött Kína, mint ahogy 
 Lényegében a [[C/CSIN\|csín]] és [[S/Szín\|szín]] szavak csak változatai a Hun/Kan/stb. formáknak, ahol a kiinduló az [[A/A\|A]] címnél álló diagram alapján is An/En/In.  
 
 A kínai `tien` = ég, menny szó sem áll távol, márpedig a kínaiak a menny királyságának tartották magukat, ahogy a japánok a felkelő nap országának nevezték országukat.  
+
