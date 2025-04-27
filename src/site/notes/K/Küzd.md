@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Küzd/","title":"Küzd","created":"2025-04-22T15:54","updated":"2025-04-22T15:55"}
+{"dg-publish":true,"permalink":"/K/Küzd/","title":"Küzd","created":"2025-04-22T15:54","updated":"2025-04-27T10:02"}
 ---
 
 
@@ -22,8 +22,7 @@ Ennek a kettőnek a küzdelme, illetve olykor egymásba való átcsapása hoz l�
 Ez a küzdelem nem más, mint az, amit a **Szíriuszhoz kapcsolt háború- és szerelem-istennő szerepkörök**ben is látunk: a küzdelem a szerelmi és háborús csatározásra értendő, illetve leginkább **annak évköri helyé**re: ott a küzdelem helye ([[B/Barát és ellenség\|barát és ellenség]] találkozóhelye), ahol az ellenhatás, a [[N/Negatív visszacsatolás\|negatív visszacsatolás]].  
 Mondtam volna itt, hogy az azonos szóvázú küzd és [[K/Kezd\|kezd]] szavaink is erre a téridőbeli pontra kellene utaljanak, de a kezdet [[S/Szűz csillagkép#Szűz mint kezdet\|Szűz mint kezdet]] cím/alcímnél írottak alapján oda is kapcsolható (csak hogy bonyolódjon a dolog).  
 - A nyári és téli napforduló ebben az esetben tulajdonképpen egynek tekintendő, mert ezek képzeletbeli összekötése – a Tejút sávja – adja a küzdő felek (világos és sötét féléveken uralkodók) demarkációs vonalát.
-
-Ezek után még azt is ki lehet jelenteni, hogy a [[F/Feleség\|feleség]] fogalma is az ég [[F/Fel\|fel]]ezésének helyére utalhat.
+- Ezek után még azt is ki lehet jelenteni, hogy a [[F/Feleség\|feleség]] fogalma is az ég [[F/Fel\|fel]]ezésének helyére utalhat.
 
 #### Falvay Károly Nagyboldogasszony...  
 
@@ -31,3 +30,5 @@ Ezek után még azt is ki lehet jelenteni, hogy a [[F/Feleség\|feleség]] fogal
 > A magyar [[F/Feleség\|feleség]] képzet ősi (fél) sajátossága is tiltakozik ilyen feltételezés ellen. Ugyanakkor természetes a közösség férfi-irányítású szervezettsége támadásban és védelemben; ezzel szemben a családi, vagy a szertartások vezetésében a női oldal részvétele hangsúlyozott, ami ismert a magyar nagycsalád és Nagyasszony rendszerben szinte egészen a II. világháborúig. Közvetlen emlékei más kultúrákból is ismertek. Mindez azt bizonyítja, hogy a magyar hagyományos élet vitelében élt és máig nem szűnt meg a kettéosztott **félig: szeretetre (női szerepkör), félig: küzdelemre (férfi szerepkör) rendelt emberi szerepkör egységtudata**.  
 
 Küzdelem [[L/Leviathan\|Leviathan]] címnél is előjött.  
+
+Lásd a téma további boncolását [[K/Kezd#Téridőbeli értelmezésének pontosítása\|kezd]].  
