@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kámán/","title":"Kámán","created":"2024-05-14T01:35","updated":"2024-10-25T22:17"}
+{"dg-publish":true,"permalink":"/K/Kámán/","title":"Kámán","created":"2024-05-14T01:35","updated":"2025-04-27T09:58"}
 ---
 
 
@@ -41,14 +41,19 @@ Voigt Vilmos A magyar szentháromságtan és a huszitizmus című cikkében ír 
 
 
 
-Ahogy [[L/Love\|love]] címnél is említettük, a Kámán név azonos a perzsa `kamān` = íj szóval. Ezzel beazonosítottuk nyári napfordulós, [[S/Széth\|Széth]]nek megfelelő helyét illetve alakját.  
-- A [[C/Comanche\|comanche]] címnél látott ute nyelvű `kimánci` = idegen, ellenség szó azonos szóvázú a perzsa szóval, de [[H/Human\|human]] is ilyen alakú.
+Ahogy [[L/Love\|love]] címnél is említettük, a Kámán név azonos a perzsa `kamān` = íj szóval. Ezzel beazonosítottuk nyári napfordulós, [[S/Széth\|Széth]]nek megfelelő helyét illetve alakját. 
+
+A [[C/Comanche\|comanche]] címnél látott ute nyelvű `kimánci` = idegen, ellenség szó azonos szóvázú a perzsa szóval, de [[H/Human\|human]] is ilyen alakú.
 
 Mondhatjuk, hogy azonosítható [[A/Amon\|Ámon]] nevével is, de inkább [[K/Khamor\|Khamor]]/[[H/Hunor\|Hunor]] nevének olyan változata, ahol a Teremtőre/Ég(isten)re utaló Or ([[U/UR\|Ur]]) végződés helyett [[A/AN, ÁN\|Án]] van.  
 - Arról pedig másutt is volt szó, szótag/szóvégződés rápróbálásai kapcsán, hogy e két végződés a leggyakoribb.
+
+[[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél láthatók íjjal szerelt Napistenek, melyek mind arra utalnak, hogy amikor a Nap elér az Orion csillagképhez (pontosabban a nyári napfordulóhoz), ott lesz egy ív (egy szög, hajlás, a napforduló), és mivel ez a hely választja el világos és sötét félévet, Jupiter és Szaturnusznak megfelelő istenségek is ábrázoltathatnak nyilazókként.  
 
 #### Dr. Berényi István A regösénekek őstörténeti vonatkozásai...
 
 ...című az eredetileg a Magyar Múlt, Sydney. XIV./1-2. 1986. 35-36. sz. és majd az Ősi Gyökér 2018/3-4. sz. megjelent cikkében szereplő adata szerint a [[S/Sámán\|sámán]] névhez hasonlítható:  
 > A sámán kifejezést a régi a XIX. és XX. század tudományos irodalma hozta magával szakkifejezésként. Ősi elnevezések voltak, viszont a finnugorból magyarázható csörgő, dobos, hegedűs, látó, sipos, a törökből magyarázható baksa, cseke, **kaman**, végül az irániból megfejthető dalos, hanga, kádár regös, rejtek.  
 > A **kaman** név varázslót, a cseke áldozatot vivő papot, a látó jövendőmondót jelent. A dalos és a hanga, a "röjtök" éneklésére, a dobos, hegedös, sipos és a csörgő a hangszeres muzsikálásra utal.  
+
+Felhangos változata [[K/Kémény\|kémény]].  
