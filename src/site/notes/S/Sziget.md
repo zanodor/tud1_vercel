@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2024-10-26T00:29"}
+{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2025-04-27T15:19"}
 ---
 
 
@@ -105,7 +105,7 @@ A képet újabb gondolatokkal [[L/LÁB\|láb]], [[H/Harmony\|harmony]] és [[O/O
 
 #### Molnár V. József Világ-virág...
 
-...című könyvének 154-155. oldalán elemzi a mellékelt képen látható sámándobot (a jobb-bal Hold-Nap leosztás miatt [[B/Bal és jobb\|bal és jobb]] címhez is bekerült; az alsó három pötty nyilván nem az [[O/Orion övcsillagai\|Orion övcsillagai]]ra utal, hiszen a [[H/Ház\|ház]] leginkább az itt, ezen címnél is taglalt méh, Orionnal szemben; az Molnár V. József által aposztrofált "ősök háza" szintén érdekes kifejezés):  
+...című könyvének 154-155. oldalán elemzi a mellékelt képen látható sámándobot (a jobb-bal Hold-Nap leosztás miatt [[B/Bal és jobb\|bal és jobb]] címhez is bekerült; az alsó három pötty nyilván nem az [[O/Orion övcsillagai\|Orion övcsillagai]]ra utal, hiszen a [[H/Ház\|ház]] leginkább az itt, ezen címnél is taglalt méh, Orionnal szemben; a Molnár V. József által aposztrofált "ősök háza" szintén érdekes kifejezés):  
 > A sámándobon (212. ábra) az emberről homlokát szellemet idéző madár ékesíti, az alsó világra a láb terpesze utal, belső terében, az "ősök házában" három "mag"-karika folytatja a gerinc útját. A "kar" kettős szerkezetű: a felső szalagsugaras, az alsó boltozatos holdívű. A dob-mezőn az emberalak jobbja felől, a Hold "birtokán" csillagképek, lefele sugárzó fenyő, s állatalakok idézik a Hold erejét; balja felől, a Nap "országában" csillagképek, a sámán lova: Nap-dob karika, s az emberkettős képviseli a Nap erejét.  
 
 #### Falvay Károly Nagyboldogasszony...
