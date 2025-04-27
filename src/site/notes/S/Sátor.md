@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sátor/","title":"Sátor","created":"2025-03-21T22:16","updated":"2025-03-21T22:17"}
+{"dg-publish":true,"permalink":"/S/Sátor/","title":"Sátor","created":"2025-03-21T22:16","updated":"2025-04-27T10:04"}
 ---
 
 
@@ -56,7 +56,7 @@ Sátor képletes használata ...
 #### Nagyné dr. Fülöp Krisztina Mária élete, édesanyák lelke...
 
 ...című Ősi Gyökér 2006/1. sz. megjelent cikkében (bevezetést lásd [[B/Bába\|bába]]):  
-> A pólyából szabadult, a növekvő gyermek, ha lánynak született, 4-7 esztendős korában szívesen rajzolja a királylányt, azt a fényes nőalakot, amelyben, akiben a kettős-anyaság testesül-lelkesül. A királylány gyakran földig érő haja-sátra az anyaméhben öntudatlanul átélt kerek szeretetről vall, s az anya áldozatos gondoskodásáról, amellyel körbe fogja, öleli a cseperedő gyermeket; mindez a gyermeklánnyal születő, benne javarészt tudat mögött munkálkodó anyaságvágy táplálója, életben tartója, s növelő-nevelője egyben. A királylány alak szoknya-sátra-háza a rajzoló gyermeklány anyaság-óhajtásáról, a "szűz anyaság"ról beszél, a [[K/Korona\|korona]] e kettős anyaság szentséges voltára utal. A kettő, illetve három együtt adja, adhatja az emberélet folyamatosságát, nemzedékről nemzedékre megújuló szakadatlan láncolatát. A királylány alakban föllelhető kettős anyaság jelen van őshitünk Boldogasszony képében... A hajsátor a Nagyasszony megfelelője, a szoknyasátra-háza annak szűz lányát, a Kisasszonyt varázsolja, idézi meg.  
+> A pólyából szabadult, a növekvő gyermek, ha lánynak született, 4-7 esztendős korában szívesen rajzolja a királylányt, azt a fényes nőalakot, amelyben, akiben a kettős-anyaság testesül-lelkesül. A királylány gyakran földig érő haja-sátra az anyaméhben öntudatlanul átélt kerek szeretetről vall, s az anya áldozatos gondoskodásáról, amellyel körbe fogja, öleli a cseperedő gyermeket; mindez a gyermeklánnyal születő, benne javarészt tudat mögött munkálkodó anyaságvágy táplálója, életben tartója, s növelő-nevelője egyben. A királylány alak szoknya-sátra-háza a rajzoló gyermeklány anyaság-óhajtásáról, a "szűz anyaság"-ról beszél, a [[K/Korona\|korona]] e kettős anyaság szentséges voltára utal. A kettő, illetve három együtt adja, adhatja az emberélet folyamatosságát, nemzedékről nemzedékre megújuló szakadatlan láncolatát. A királylány alakban föllelhető kettős anyaság jelen van őshitünk Boldogasszony képében... A hajsátor a Nagyasszony megfelelője, a szoknyasátra-háza annak szűz lányát, a Kisasszonyt varázsolja, idézi meg.  
 - Amint Fülöp Krisztina Mária ezen sorait olvastam, a [[S/Sziget\|sziget]] címnél ábrázolt finn hímzés istenanyaképe ötlött fel.
 
 ## Sátorozó eleink
