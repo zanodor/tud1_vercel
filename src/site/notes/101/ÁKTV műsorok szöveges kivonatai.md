@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-04-25T22:43"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-04-27T15:22"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 <small>**Megjegyzés**: A Google Gemini-s összefoglalók a Google (YouTube) által automatikusan rendelkezésre bocsátott transzkripciók alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli problémák, melyek mindegyikét nem veszem észre, hogy javíthassam. Kisbetűs vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag," amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattantva ellenőrizni a videón, hogy mi szerepelt az eredeti szövegben.</small>
 
-**Videók kivonatokkal** (ha igaz, idővel visszamenőleg is bővül majd a lista):  
+**Videók kivonatokkal**:  
 
 [250425CN! HÁT, PERSZE!](https://rumble.com/v6skkth-250425cn-ht-persze-kubnyi-tams-ktv.html)  [https://archive.ph/USadD](https://archive.ph/USadD)
 [250424CN! ARANYBULLA 2025](https://rumble.com/v6sixan-250424cn-aranybulla-2025-kubnyi-tams-ktv.html)  [https://archive.ph/zleLj](https://archive.ph/zleLj)
