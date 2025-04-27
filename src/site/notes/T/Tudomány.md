@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated"],"created":"2023-10-05T06:45","updated":"2024-12-12T17:53"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated"],"created":"2023-10-05T06:45","updated":"2025-04-27T15:18"}
 ---
 
 
@@ -240,7 +240,7 @@ Nehéz megbotránkoztatóbb állítással előállni tudományos körökben, min
 > A partvonalról azonnal megszólalt az ellentábor, és gyakran útszéli stílusban, lehengerlő bekiabálásaikkal ízekre szedték az esetleg hely szűkében ismertetett értékes gondolatokat. *Tudatlansáááág*, *dilettantizmuuuus*, *félrevezetéééés*, *délibábos népbutítáááás*, a nemzeti tudat kóros elferdítése..., na meg a szerzők ideggyógyászati kezelésre utalása, sőt az MTA megrovó véleménye mellett, az akkor érvényes büntetőjogi törvénycikkek felsorakoztatása volt a válasz.  
 > Ugyanakkor az elődök tapasztalata alapján kiderült, hogy ezen az úton nem lehet az ellenfelek akadályait, az elhallgatást, a megbélyegzést, a terjesztés nehézségeit, a tilalomfákat áthidalni.  
 
-Lásd még [[M/Megtévesztés\|megtévesztés]]. Lásd még [[T/Történelemhamisítás\|történelemhamisítás]].  
+Lásd még [[M/Megtévesztés\|megtévesztés]] és [[T/Történelemhamisítás\|történelemhamisítás]].  
 
 ## Lábjegyzetek
 
@@ -254,7 +254,7 @@ Földi világunkban évezredek óta képviselteti magát egy tudományos réteg,
 Idem per idem érvelés többször előjön Götz László Keleten kél a Nap című könyvében. Pl.:  
 Azaz pontosan azzal "bizonyítanak", amit először be kellene bizonyítaniok. A `Pelz` szót ugyanis éppen azért nyilvánították annakidején latin jövevényszóvá a németben, mert nem követte Grimm játékszabályait. Éppúgy, mint a latin `habeo` ~ német `haben` (bír, neki van) vagy az óind `hrd` – német `Herz` (szív) sem (l. I. könyv 113. és 116. old.). Tehát "idem per idem"; a hangtörvényes *circulus vitiosus* tipikus példája.  
 Másutt:  
-Ennyi ingadozás, habozás, sőt, mint Sinor nyíltan kimondja, egyenesen körben forgás, "idem per idem"-érvelés, az ok és az okozat sorrendjének ésszerűtlen felcserélgetése láttán önkéntelenül is felvetődik a kérdés...  
+Ennyi ingadozás, habozás, sőt, mint Sinor nyíltan kimondja, egyenesen körben forgás, "idem per idem"-érvelés, az ok és az okozat sorrendjének észszerűtlen felcserélgetése láttán önkéntelenül is felvetődik a kérdés...  
 
 [^4]: Lábjegyzet:  
 [Ezen](https://www.youtube.com/watch?v=f2Lgu4wIE3M&list=PLJk0yT4erxuRcCMBujshjWZ-KNAHAWCx6&index=12) Sylvie Ivanova videóban is erről szól 1:10-től: az új struktúrák jobbak, mint a régiek.  
