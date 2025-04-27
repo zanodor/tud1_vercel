@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Macska/","title":"Macska","created":"2023-11-17T11:07","updated":"2025-04-26T15:38"}
+{"dg-publish":true,"permalink":"/M/Macska/","title":"Macska","created":"2023-11-17T11:07","updated":"2025-04-27T10:03"}
 ---
 
 
@@ -16,7 +16,7 @@ A macska szavunkban így a Macs a Makk, [[M/MAG\|Mag]] változata, csillag, Nap,
 A Péterfainak nem tetsző (HH3 videóiban visszatérő) mancs – macska levezetésre visszatérve; a kelta-ír `màg` = mancs mutat rá, hogy ez a szó [[O/Orrhang\|orrhang]] nélkül, torokhanggal is szerepelt. Elképzelhető eztán, hogy macska is szerepelt \*makka alakban. Mivel viszont -ka kicsinyítés is lehet, visszatérünk oda, hogy a macska sem más, mint Mag = Nap.  
 
 [[B/Basztet\|Basztet]] istennő címnél is volt szó egyiptomi kutyákról és macskákról, Guirdjieff elemzésében: végeredményben a macska a fényre, a sütő Napra, Magorra, a kutya a sötétségre, halálra, szexualitásra, Hunorra utal.  
-A Guirdjieff-et elemző internetes női blogger is felhívja a figyelmet még arra, hogy a kutyákkal ellentétben a macskáknak van emlékezetük. Elég sajátos vélemény, rossz velemény a kutyákkal kapcsolatban. Sokkal tetszetősebb azt mondani, hogy a macskákkal ellentétben a kutyák képesek – Jézus tanításaival egyezően – akár hetvenhétszer megbocsátani.  
+A Guirdjieff-et elemző internetes női blogger is felhívja a figyelmet még arra, hogy a kutyákkal ellentétben a macskáknak van emlékezetük. Elég sajátos vélemény, rossz vélemény a kutyákkal kapcsolatban. Sokkal tetszetősebb azt mondani, hogy a macskákkal ellentétben a kutyák képesek – Jézus tanításaival egyezően – akár hetvenhétszer megbocsátani.  
 
 A másik macskás-kutyás info, Péterfai János fentebbi sorainak folytatásaként, hogy a kutyáknak gazdái, a macskáknak szolgái vannak.  
 
@@ -26,7 +26,7 @@ Másodsorban a kutya a keleti állatövben a Kosnak felel meg, így nem kell min
 Lásd minden továbbit [[F/Fo-kutya\|Fo-kutya]], valamint újabb tisztázatért [[K/Kutya és macska#Kutya és macska megfelel Hunornak és Magornak\|kutya és macska megfelel Hunornak és Magornak]] cím/alcímnél.  
 
 [[C/Cat\|Cat]] valamint [[K/Kutya és macska\|kutya és macska]] címnél is szóltunk arról, hogy a kutya és a macska nevek mintha keverednének (nos valójában a Kat = [[G/Göd\|Göd]] = [[H/Ház\|ház]] és Vulva, mely mellett ott a Kutya, a nemző). De érdekesmód a tupi indiánok nyelvében `jaguára` (lásd [[J/Jaguar\|jaguar]]) sem csak nagymacskát, hanem kutyát is jelent (a guarani nyelvben `jagua` pedig kutya!  
-De keveredés látszik a macska és az egér nevei között is. A navajo nyelvű `mósí` = macska szintén ilyen vázú, de az angol [[M/Mouse\|mouse]] = egér is. Sőt, a légy jelentésű \*muska (lásd [[M/Muscat\|muscat]]) szintén. Nyilván valamilyen ősvallási-szexuális kapcsolatot kell találni, hiszen a mag méhbe jutásáról (lásd erről [[P/Pina\|pina]]) szól a teremtés.  
+De keveredés látszik a macska és az egér nevei között is. A navajo nyelvű `mósí` = macska szintén ilyen vázú, de az angol [[M/Mouse\|mouse]] = egér is. Sőt, a légy jelentésű \*muska (lásd [[M/Muscat\|muscat]]) szintén. Nyilván valamilyen ősvallási-szexuális kapcsolatot kell találni, hiszen a mag méhbe jutásáról (lásd erről [[P/Pina\|itt]]) szól a teremtés.  
 
 A macskák rituális áldozásáról futólag esett szó [[K/Kutyaáldozás\|kutyaáldozás]] címnél, minthogy néha megesett, hogy kutyák helyett macskákat lóbáltak és öltek meg.  
 Jankovics Marcell A fa mitológiája című könyvének 162. oldalán, Szent Iván napi hagyományok kapcsán említi, hogy a nemcsak a [[G/Great\|great]] címnél említett óriás bábokat végezték ki rituálisan (felgyújtották őket), hanem a franciaországi Metzben, Gapban és Moselle-ben – egy talán még embertelenebb szokás emlékeként – fűzfaketrecbe zárt élő macskákat dobáltak a tűzbe ezen az éjszakán.  
