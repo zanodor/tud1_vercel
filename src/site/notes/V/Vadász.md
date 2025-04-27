@@ -1,29 +1,68 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2024-10-26T00:45"}
+{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2025-04-27T15:18"}
 ---
 
 
 # Vadász
 
 Bevezetést lásd [[V/Vad\|vad]].  
-Vad, Vadász szavunk megjelenik a hindiben, ahol (lásd bővebben [[S/Szíriusz\|Szíriusz]] és [[M/Mriga\|mriga]]) Mrigavyadha = Szarvasölő elnevezés. Ez a `Vyadha` nem más, mint Vadász szavunk, mely [[O/Orion\|Orion]] neve is. Az egyik norvég nyelvjárásban (nynorsk) is `veidar` és `veidemann` = vadász.  
+Vad, Vadász szavunk megjelenik a hindiben, ahol (lásd bővebben [[S/Szíriusz\|Szíriusz]] és [[M/Mriga\|mriga]]) a Mrigavyadha elnevezés Szarvasölő értelmű. Ez a `Vyadha` nem más, mint Vadász szavunk, mely [[O/Orion\|Orion]] neve is. Az egyik norvég nyelvjárásban (nynorsk) is `veidar` és `veidemann` = vadász.  
+A vad gyökkel azonos az óangol `waþ` = vadászat, `wað` = hajtás, űzés, vadászat.  
 
 A [[M/Mriga#Mriga név elemzése\|mriga név értelmezése során]] egy `mrg` = keres jelentésű igét állapítanak meg, mely éppen a vadász és ebének tevékenysége.  
 
-A sri lankai dravida Veddák nevéhez is a vadász értelmet adják meg.  
+A sri lankai dravida **veddák** nevéhez is a vadász értelmet adják meg.  
 Előjön Ipolyi Arnold Magyar mythologia című könyvének 220. oldalán egy germán **Vade** óriás neve is. Mivel az óriás Orion, aki Vadász is, kétségtelennek tartható a germán név eredete. (A germán Wotan/[[W/Wodan\|Wodan]] nevet lásd helyén).  
 
 Az óriás neve Tokarevnél **Wode**.  
 
-CzF szótár vadol szónál írja:  
+CzF szótár `vadol` szónál írja:  
 > A székelyeknél (Udvarhely székben) am. utána jár. Ezt a leányt nem igen vadolják a legények.  
 
 Éppen csak azt nem tette hozzá, hogy "vadásszák." A vadászik jelentés más nyelvekben is az űzni, utána járni (követni) fogalmainak felel meg. Ezért lehet a [[C/Consecutive\|consecutive]], [[S/Second\|second]] és [[S/Sacchar-\|sacchar-]] címnél taglalt latin `sequor` = következni, (másodikként) utána jönni jelentésű [ige](https://en.wiktionary.org/wiki/sequor#Latin) egyező a perzsa vadász jelentésű szóval.  
 
 ## Nagy vadász
 
-Nimród nagy vadász volt az Úr előtt, írja a Biblia. Bognár Ferenc A magyarok istene című cikkében bemutatja, hogy különböző nyelveken hogyan nézett ki ez az összefüggés, hogy Nagy Vadász majd egy másik bibiliai helyet is bemutat:  
-![assets/Vadász_image1.jpeg|invert_dark](/img/user/V/assets/Vad%C3%A1sz_image1.jpeg)  
+Nimród nagy vadász volt az Úr előtt, írja a Biblia.  
+
+#### Bognár Ferenc A magyarok istene...  
+
+...című cikkében bemutatja hogy különböző nyelveken hogyan nézett ki ez az összefüggés hogy Nagy Vadász majd egy másik bibiliai helyet is bemutat:  
+
+| Source          | Translation/Meaning                            |
+|-----------------|------------------------------------------------|
+| LXX (görög)     | Nebród gygas kynegos (görög betűkkel)          |
+| Vulgata (lat)   | robustus venator                               |
+| Romania (román) | viteaz vânător                                 |
+| APB (ang)       | giant hunter with hounds                       |
+| Tyndale (ang)   | myghtie hunter                                 |
+| Brenton (ang)   | giant hunter                                   |
+| Rotherham (ang) | hero of hunting                                |
+| BBE (ang)       | very great bowman                              |
+| Giguet (fr.)    | grand chasseur                                 |
+| Martin (fr.)    | puissant chasseur                              |
+| SE (sp.)        | poderoso cazador                               |
+| Reina Valera (sp.) | vigoroso cazador                          |
+| Italian         | potente cacciatore                             |
+| Portuguese      | poderoso caçador                               |
+| Estonian        | „Vägev kütt”                                   |
+| Luther (ném)    | 1545 gewaltiger Jäger                          |
+| Lithunian       | smarkus medžiotojas                            |
+| Croatian        | silan lovac                                    |
+
+**1 Mózes 21:20 Fordítások:**
+
+| Version         | Translation                                   |
+|-----------------|-----------------------------------------------|
+| Gen 21.20       | Isten vele volt, felnőtt és íjas vadász lett. |
+| Darby (fr)      | et habita dans le désert et devint tireur d’arc. |
+| SE (sp.)        | y habitó en el desierto, y fue tirador de arco. |
+| Portuguese      | morando no deserto, tornou-se flecheiro.      |
+| Italian         | e dimorò nel deserto, e fu tirator d’arco.    |
+| ELB (ném)       | wurde ein Bogenschütze.                       |
+| Danish          | Og blev en Bueskytter.                        |
+| Norwegian       | blev han bueskytter                           |
+
 Gen 10.9 (Nimród) nagy vadász (volt az Úr előtt):  
 Na most, a (kétes) latin eredetre visszavitt francia `chasseur`, spanyol `cazador` és olasz `cacciatore` = vadász szavak (idetartozik az angol [[C/Chase\|chase]] = űz ige is) olyan hazar/kazár alakú törzsre visszavihetőek[^1], mint a [[H/Hazard\|hazard]] címnél előjövő perzsa `házár` = garázdálkodás és a CzF ugyancsak házsárt címszavánál taglalt, franczia szótárakban ismeretlen viaskodási jelentések is előjönnek.  
 
