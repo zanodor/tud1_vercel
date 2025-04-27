@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zsuzsanna/","title":"Zsuzsanna","tags":["Englishtexttranslated"],"created":"2023-10-18T07:55","updated":"2025-03-24T18:06"}
+{"dg-publish":true,"permalink":"/Z/Zsuzsanna/","title":"Zsuzsanna","tags":["Englishtexttranslated"],"created":"2023-10-18T07:55","updated":"2025-04-27T10:04"}
 ---
 
 
@@ -10,7 +10,7 @@
 > Az [[A/Anna\|Anna]] név nem más, mint An Égisten házából született Nő. Az An-Na gyakran férfiak neve is volt, hiszen An isten Házából férfi uralkodók is születhettek.  
 > [[S/Szűz\|Szűz]] szavunk a Boldogságos Szűz, vagy Szűz Mária neveként is ismert. A Szud, Teljesség, Dél szóból alakult ki, a Dél a Nap Teljessége, amikor a legjobban süt. A Szud szabályos változata a Szuz, ami a Szuzy nyugati névben is felismerhető. Így a Szud – Szuz – Szűz a tökéletességet tartalmazza. Ebből a közegből ered a Szyzanna, vagy Zsuzsanna név is.  
 - A Zsuzsanna névben pedig a Szűz Anya van meg, ha így Péterfai János ki nem is mondja.  
-Hasonló eredetű lehet [[H/Hosanna\|hosanna]].  
+Hasonló eredetű lehet [[H/Hosanna\|hosanna]].
 
 Zsuzsanna történetét lásd [itt](https://24.hu/kultura/2016/02/19/venek-akartak-megeroszakolni-zsuzsannat/).  
 A héber `שׁוֹשָׁן` (`shushan`) = liliom szó a Péterfai János által másutt említett liliomtiprás ideájából származik. [Ezen](https://qr.ae/pGQ5KT) Quora válaszban meg is írtam:  
