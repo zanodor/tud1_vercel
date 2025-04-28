@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","created":"2023-10-29T05:21","updated":"2024-10-26T00:32"}
+{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated"],"created":"2023-10-29T05:21","updated":"2025-04-28T19:33"}
 ---
 
 
@@ -28,7 +28,7 @@ Az arab `lulu` = gyöngy (lua-lua-nak ejtik, ahol az a olyan mintha h lenne vagy
 A sumér nyelvben is megvolt `LU-LU`, de Sitchin és társai önkényesen párosítottak hozzá jelentést.  
 
 [[C/Coco\|Coco]] címnél szerepelt, hogy gyermeknyelven `kokó` v. `kókó`, az Őrségben pedig általában is kuku (Vass József szerént) tojást jelent(ett). Hogy itt a (feleslegesnek tűnő) kettőzésben mit kell látni (akár egy hímségi és nőiségi minőséget, hiszen az ősállapot egyszerre volt nő és hím: [[A/Androgün\|androgün]]), ez kérdés marad.  
-A **gyereknyelv** (a magyar is gyereknyelv: az emberiség fiatalkorában már magyarul beszélt) fogalmának kiemelése fontos itt. A pipi és zsizsi szavak is ilyenek ([[P/PI\|Pi]]-Pi, [[Z/ZSI\|Zsi]]-Zsi elemeinek taglalásáról volt szó helyükön). Ami igen érdekes, hogy a bennszülött indián [[A/Algonquian\|algonkin]] [[C/Cree\|cree]] nyelvben a gyereknyelvű `pipi` = madár (ez a nyelv már máskor hozott érdekességeket).  
+A **gyereknyelv** (a magyar is gyereknyelv: az emberiség fiatalkorában már magyarul beszélt) fogalmának kiemelése fontos itt. A `pipi` és `zsizsi` szavak is ilyenek ([[P/PI\|Pi]]-Pi, [[Z/ZSI\|Zsi]]-Zsi elemeinek taglalásáról volt szó helyükön). Ami igen érdekes, hogy a bennszülött indián [[A/Algonquian\|algonkin]] [[C/Cree\|cree]] nyelvben a gyereknyelvű `pipi` = madár (ez a nyelv már máskor hozott érdekességeket).  
 
 [[V/Várhun\|Várhun]] címnél volt arról szó, hogy a [[H/Humavarka\|humavarka]] tulajdonképpen megfordításának kezelhető.  
 
@@ -52,6 +52,27 @@ Az ausztrál bennszülöttek egyik nyelvén `nulla-nulla` nem focieredmény, han
 Bengáli nyelvben kisgyerek nemzőszerve, pöcse `dul-dul`, ha igaz.  
 
 Lásd még témát említve [[M/Más#Más és több\|más és több]] cím/alcímnél.  
+
+## A gyerekbeszéd Isten nyelvének beszéde
+
+[Ezen](https://www.reddit.com/r/etymology/comments/1hjy6kd/how_did_%E3%83%90%E3%83%90%E3%82%A2_bab%C4%81_came_to_be/) Reddit helyen is taglalják a témát. Egész jó összefoglalót adtak a használt nevekből: `papa`, `baba`, `mama`, `tata`, `dada`, `nana`.  
+A Reddit posztot megosztó Quora helyen felírtam, amit kellett:  
+
+> A magyar nyelv ezeket az alapszavakat etimon-szinten használja:  
+> *   PI = eredeti jelentés = csillag = fi(ú) = utód (ugyanaz, mint a finnugor `pi` és a bantu `bi`)
+> - Pi-Pi = Gyereknyelv a csirkére. [[T/Tyúk\|Tyúk]] jelentése is (Tyú-K =) Csillagocska (vagy: Napocska)
+> *   Pa = Fa = Lelkek Háza (Tejút; minden lélekhez tartozik egy csillag; gyermek születésekor egyes népeknél mindig ültettek fát is)
+> *   Ba = Lélek
+> *   Ba-Ba = Tündér
+> *   Pa-Pa = Fő-Fő = Nagy-Nagy (Gyermek feletti: Ős)
+> *   Ma = föld, anya, anyaföld
+> *   Ma-Ma: a mássalhangzók duplázása jelenthet megerősítést, többesszámot, vagy egyszerűen egyensúlyozást (mint ahogy a magyar Út lehet Utu, Ács = Acsa, Atya = Teremtő).
+> 
+> Tehát amikor nyelvészek nagyjai (és szlávok, mint a Reddit-posztban) gyermekbeszéddel meg hangutánzó szavakkal jönnek megoldásként, és nagy tudásukkal (ami semmit sem ér) hencegnek, nem tudják, hogy a gyermekbeszéd nem más mint Isten-beszéd, és ezek a szóelemek ott vannak Isten nyelvében, a magyarban.  
+> 
+> De Isten áldja a szlávokat és más nemzeteket, mert csak ellenük tudjuk csiszolni a saját képességeinket, és meglátni, mit jelenthet igazán magyarnak lenni.
+> 
+> Pá-Pá (ismét baba-beszéd)
 
 ## Lábjegyzetek
 
