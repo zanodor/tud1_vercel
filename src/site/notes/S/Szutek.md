@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2025-04-27T15:20"}
+{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2025-05-01T12:34"}
 ---
 
 
@@ -28,20 +28,22 @@ Szutek lehetséges, hogy Napisten (Nap az Orionban?) (ezzel [[S/Széth\|Széth]]
 
 Korábban is írtam már itt arról, hogy Práczki István gondolata, hogy [[G/Gárdonyi Géza\|Gárdonyi Géza]] Láthatatlan emberének főszereplője "Zéta, a Szittya" volt, aki a hunok istene volt. Szutek és Széth valóban ismert istenek voltak. Lehetséges, hogy Szutek valójában [[S/Szutyok\|szutyok]] értelmű? A [[S/Süt\|süt]] ellenpárja? Akárhogy is nézzük, a [[S/Sötét oldal\|sötét félév]]re utaló név.
 
-Csodaszarvasában Magyar Adorján is Napistent ír és természetesen süt szavunkat veszi alapul:  
+#### Magyar Adorján Csodaszarvas...  
+
+...című könyvében is Napistent ír és természetesen süt szavunkat veszi alapul:  
 > [[S/Süt\|Süt]] szavunk a [[T/Tűz\|tűz]] szavunknak csak megfordított kiejtése lévén (az egytagú szavak megfordítása ősnyelvünkben pontosan meghatározható törvények szerint igazodott, de ami ismertetése nem tartozik ide) és az **egyiptomi Szutek Napisten** nevével valamint a mai árja nyelvek szüd, szud = dél (világtájra vonatkozólag) szavával így egyezvén, ez velünk azt sejteti, hogy csoda vagy [[C/Csuda\|csuda]] szavunknak eredetileg fényesség, ragyogás értelme kellett hogy legyen.  
 
 [[S/Széth\|Széth]] címnél szerepelt:  
-Robert Graves The White Goddess című könyvében is írja, hogy Széth – a Clementine syncretic theory szerint – Jézus korábbi inkarnációja volt. Valójában nem a Nap, csak Nap (csillag), teszem én hozzá.  
+Robert Graves The White Goddess című könyvében is írja, hogy Széth – Alexandriai Kelemen szinkretizmusa szerint – Jézus korábbi inkarnációja volt. Valójában nem a Nap, csak Nap (csillag), teszem én hozzá.  
 > Gwion is hinting that Eve, whom he identifies with [[R/Rhea\|Rhea]], brought forth thirty children in all – and then the Divine Child Seth. Thirty doubtless because the 'reign of Saturn' lasted thirty days and culminated with the mid-winter feast which afterwards became Yule, or Christmas.  
 > —  
-> Gwion arra utal, hogy Éva, akit [[R/Rhea\|Rhea]]-val azonosít, összesen harminc gyermeket szült – majd az Isteni Gyermeket, Seth-et. A harminc kétségtelenül onnan, mert a "Szaturnusz uralma” harminc napig tartott, és a tél közepi lakomával tetőzött, amely később Yule, vagyis karácsony lett.  
+> Gwion arra utal, hogy Éva, akit [[R/Rhea\|Rhea]]-val azonosít, összesen harminc gyermeket szült – majd az Isteni Gyermeket, Seth-et. A harminc kétségtelenül onnan, mert a "Szaturnusz uralma" harminc napig tartott, és a tél közepi lakomával tetőzött, amely később Yule, vagyis karácsony lett.  
  
 Másutt Napistennek mondja ismét:  
 > Set, the Egyptian Sun-god, disguised as a boar, kills Osiris of the ivy, the lover of the Goddess Isis.  
 > —  
 > Szet, az egyiptomi napisten vaddisznónak álcázva megöli a borostyán Oziriszt, Ízisz istennő szeretőjét.  
-- Ahogy látjuk, egyszer Set, máskor Seth-nek van írva a név, de értjük.  
+- Ahogy látjuk, egyszer Set, máskor Seth-nek van írva a név, de értjük.
 
 Fentebb is az állt, hogy a keta-egyiptomi napisten Széthtel azonos lehetett (valójában a süt-set/söt ellenpárt inkább láttatja). Jankovics Marcell is írja (hykszosz = keta):  
 > Széth a forró júniusban vette át fivérétől a hatalmat, az ő uralmának kezdetét jelezte a hónap csillagképében, a Rákban lévő két Szamár csillag. Idővel a két isten megítélésének dialektikus egyensúlya felborult, Ozirisz és fia, Hórusz javára, Széth mint testvérgyilkos egyre ördögibb alakot öltött. Ennek történelmi oka is van. Amikor a [[H/Hykszosz\|hykszosz]]ok meghódították Egyiptomot (i.e. XVIII.sz.), Kisázsiából és Palesztinából egy szamáristen kultuszát hozták magukkal, akit Egyiptomban Szethtel azonosítottak. Ettől kezdve Szeth az ország ellenségeinek istene lett. (E palesztinai szamárkultusznak tulajdonítható, hogy jóval később a rómaiak a zsidókat és keresztényeket azzal csúfolták, hogy istenüknek szamárfeje van. Vö. a bibliai Sét nevével.)  
@@ -79,22 +81,38 @@ A fentebb idézett Antoine Banier apát könyvének 116. oldalán a föníciai �
 > Mózesnél, mint látjuk, Káin fajának az általam most megnevezett személyek közül az utolsóval van vége, mert ők maguk vagy leszármazottaik elpusztultak az özönvízben, és nem egy közülük megmenekült. Ha azt kérdezed, hogyan folytatódik ezután Sanchoniathon által, az Absztraktja harmadik részében, amelyet most fogok átírni; a válasz könnyű, hogy Noé leszármazottait vette fel, hogy ezt a második dekádot alkossák: ez nyilvánvalóvá fog válni a későbbiekben elvégzendő elmélkedésekből.  
 > 3°: Azok közül, mondja Sanchoniathon, vagyis Amynus és Magustól született Misor és Sydic, a Szabad és az Igaz, akik rájöttek a só használatára. Az előbbi volt Thaautus atyja, aki először találta fel a betűket; ez az egyiptomiak Thoot-ja vagy Thoor-ja, az alexandriaiak Thogit-ja vagy Thoyth-ja, a görögök Hermészé: Sydic fiai voltak a Dioscuri vagy Cabiri, akiket később Corybantesnek vagy Samothracesnek neveztek.  
 
-![assets/Szutek_image1.png|invert_dark](/img/user/S/assets/Szutek_image1.png)  
+> For the Reader's Satisfaction, I shall set down the two Tables of *Cain’s* Descendants.  
+> —  
+> Az Olvasó megelégedésére közreadom *Káin* leszármazottainak két táblázatát.  
+> 
+> | Mózesben                  | Sanchoniathon történetírónál   |
+> | ----------------------------------- | ---------------------------- |
+> | 1. *Adam*, *Eve*.                   | 1. *Protogonus*, *Æon*.      |
+> | 2. *Cain*.                          | 2. *Genus*, *Genea*.         |
+> | 3. *Enoch*.                         | 3. *Phos*, *Pur*, *Phlox*.   |
+> | 4. ......                          | 4. *Cæsus*, *Libanus*.       |
+> | 5. ......                           | 5. *Memrumus*, *Usous*.      |
+> | 6. *Irad*.                          | 6. *Agreus*, *Halieus*.      |
+> | 7. *Mehujael*.                      | 7. *Chrysor* or *Hephæstus*. |
+> | 8. *Methusael*.                     | 8. *Technites*, *Geinus*.    |
+> | 9. *Lamech*.                        | 9. *Agrus*, *Agrotes*.       |
+> | 10. *Jabal*, *Jubal*, *Tubal-Cain*. | 10. *Amynus*, *Magus*.       |
+- Megjegyzés tőlem: a jobb oldali oszlopban elég sok név egyszerűen nemzőre utal: gonus, Genus/Genea, Hephaestus kézművesisten, Technites = tákol, Geinus, és az Agr- gyökű nevek is ide tartozhatnak.
 
 Jacob Bryant Analysis Of Ancient Mythology című könyvének (első kötetének) elején, Mizraim résznél értelmezi a neveket:  
 > Sanchoniathon alludes to this person under the name of Misor; and joins him with Sydic: both which he makes the sons of the Shepherds Amunus and Magus. Amunus, I make no doubt, is Amun, or Ham, the real father of Misor, from whom the Mizräim are supposed to be descended. By Magus, probably, is meant Chus, the father of those worshippers of fire, the Magi: the father, also, of the genuine Scythæ, who were styled Magog. The Canaanites, likewise, were his offspring: and, among these, none were more distinguished than those of Said, or Sidon; which, I imagine, is alluded to under the name of Sydic. It must be confessed, that the author derives it from Sydic, justice: and, to say the truth, he has, out of antient terms, mixed so many feigned personages with those that are real, that it is not possible to arrive at the truth.  
 > —  
-> Sanchoniathon Misor néven utal erre a személyre; és Szidik-kel hozza össze: mindkettőt a pásztorok fiainak, Amunusnak és Magusnak nevezi. Amunus, efelől nincs kétségem, Amun vagy Hám, Misor valódi apja, akitől a Mizräim állítólag származik. Magus alatt valószínűleg Chus értendő, a tűzimádók, a mágusok atyja: a valódi szkíták atyja is, akiket Magognak neveztek. A kánaániak szintén az ő utódai voltak: és ezek közül egyikük sem volt kiemelkedőbb, mint a szidoniak vagy szidoniak; gondolom, erre a Szidik név alatt utalnak. Be kell vallani, hogy a szerző a Szidik-ből, az igazságosságból eredezteti: és az igazat megvallva, az antik kifejezésekből annyi hamis személyiséget kevert össze a valódiakkal, hogy nem lehet eljutni az igazsághoz.  { #woruzy}
+> Sanchoniathon Misor néven utal erre a személyre; és Szidik-kel hozza össze: mindkettőt a pásztorok fiainak, Amunusnak és Magusnak nevezi. Amunus, efelől nincs kétségem, Amun vagy Hám, Misor valódi apja, akitől Mizräim népe, az egyiptomiak állítólag származnak. Magus alatt valószínűleg Chus értendő, a tűzimádók, a mágusok atyja: a valódi szkíták atyja is, akiket Magognak neveztek. A kánaániak szintén az ő utódai voltak: és ezek közül egyikük sem volt kiemelkedőbb, mint a szidoniak vagy szidoniak; gondolom, erre a Szidik név alatt utalnak. Be kell vallani, hogy a szerző a Szidik-ből, az igazságosságból eredezteti: és az igazat megvallva, az antik kifejezésekből annyi hamis személyiséget kevert össze a valódiakkal, hogy nem lehet eljutni az igazsághoz.  { #woruzy}
 
 
 "Sydic, the Just" értelmezése betéve [[J/Judge\|judge]] címhez a szláv szavak mellé. [[O/ON\|ON]] és [[Z/Zsidó\|zsidó]] címhez pedig a Sidon = zsidó témát és úgy az egészet [[K/Kánaán\|Kánaán]] címhez is.  
 
 ## Szutek Napisten/Égisten (Orion isten) > Jupiter névadójává válása
 
-Azt másutt is láttuk, például a [[P/Pater\|pater]] név elemzése kapcsán, hogy az Orionnak megfelelő égisten behelyettesíthető Jupiternek, ill. olykor Szaturnusznak. Nyilván általánosságban véve és jelen helyzetet is vizsgálva az Orion "Magornak, Ozirisznek megfelelő jó oldala" adná a Jupiter nevet és a rossz/sötét oldala, mint amilyen [[S/Széth\|Széth]]-nek és akár Szutek/Szutyok-nak is megfelel, adhatja [[S/Szaturnusz\|Szaturnusz]] nevét és lám, [[S/SZAT\|szat]]- meg is van a névben. Itt még az is stimmel, és ez újabb bizonyíték a Szkíta Íjfeszítő név nyári napfordulós állására utalva, hogy a [[S/Szkíta\|szkíta]] is ilyen alakú név.  
+Azt másutt is láttuk, például a [[P/Pater\|pater]] név elemzése kapcsán, hogy az Orionnak megfelelő égisten behelyettesíthető Jupiternek, ill. olykor Szaturnusznak. Nyilván általánosságban véve és jelen helyzetet is vizsgálva az Orion "Magornak, Ozirisznek megfelelő jó oldala" adná a Jupiter nevet és a rossz/sötét oldala, mint amilyen [[S/Széth\|Széth]]-nek és akár Szutek/Szutyok-nak is megfelel, adhatja [[S/Szaturnusz\|Szaturnusz]] nevét és lám, [[S/SZAT\|Szat]]- meg is van a névben. Itt még az is stimmel, és ez újabb bizonyíték a Szkíta Íjfeszítő név nyári napfordulós állására utalva, hogy a [[S/Szkíta\|szkíta]] is ilyen alakú név.  
 
 Hasonló ugyanis a névhez a Jankovics Marcell A Nap könyve című könyvében talált héber [[J/Jupiter\|Jupiter]] **Cedek** neve, mely Melkicedek nevében is szerepel. Lásd még [[H/Héber bolygók\|Héber bolygók]].  
-Mivel [[J/Jézus\|Jézus]] főpap volt Melchizedek rendje szerint ([lásd itt](https://szentiras.hu/SZIT/Zsid7)), ezért igen komoly arcul csapás volna Kubínyi Tamás és társai számára, ha kiderülne, hogy Szutek és [[S/Széth\|Széth]] (és [[S/Sátán\|Sátán]]) sem az, akinek képzelték. Persze az életfa/pozitív töltetű [[S/Szádok\|szádok]] nevet se feledjük el és azt sem, hogy ami a turániaknál pozitív, abból a szemiták saját szájuk íze szerint változtattak.  
+Persze az életfa/pozitív töltetű [[S/Szádok\|szádok]] nevet se feledjük el és azt sem, hogy ami a turániaknál pozitív, abból a szemiták saját szájuk íze szerint változtattak.  
 
 ## Szutek értelméről és zsidó névvel való hasonlóságáról
 
@@ -105,7 +123,7 @@ Nem kizárt a [[C/Csuda\|csuda]] értelmezés sem, annál is inkább, mert valah
 
 A Jézus Krisztust megfeszíttető [[F/Farizeus\|farizeus]]ok mellett említi Kubínyi Tamás a [[S/Szadduceus\|szadduceus]]okat, kikről [[S/Szádok\|szádok]] címnél volt már szó.  
 A [[C/Caduceus\|caduceus]] név a [[S/Szadduceus\|szadduceus]] névvel azonos és innen kell eredetét vegye. Azaz a bot a [[S/Szádok\|szádok]]fa-életfa, a rajta tekeredő két kígyó pedig lehet egy, ha téridő-folyamatábrának tekintjük, vagy kettő, ha afféle [[J/Jin és jang\|jin és jang]] értelmezést adunk neki.  
-A Szádok a Szutek névvel is kapcsolható? Nos, lehetne, hasonló alapon, ahogy [[K/KUS\|KUS]] is lehet életfa és utalhat a Kutya-Orion téridőbeli helyére azzal, hogy a Tejút közepén szeli ketté az éggömböt és ott van a Kutya és Orion is.  
+A Szádok a Szutek névvel is kapcsolható? Nos, lehetne, hasonló alapon, ahogy [[K/KUS\|kus]] is lehet életfa és utalhat a Kutya-Orion téridőbeli helyére azzal, hogy a Tejút közepén szeli ketté az éggömböt és ott van a Kutya és Orion is.  
 Egyébiránt jazidi vallásban is van [[J/Jazidi vallás#Jazad-fa\|jazad-fa]].  
 
 ## Lábjegyzetek
