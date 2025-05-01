@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Goat/","title":"Goat","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-12-18T11:22","updated":"2024-12-18T11:22"}
+{"dg-publish":true,"permalink":"/G/Goat/","title":"Goat","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-12-18T11:22","updated":"2025-05-01T16:23"}
 ---
 
 
@@ -39,7 +39,7 @@ Közben [[K/Kabar#Kabar és kecske\|kabar és kecske]] cím/alcímnél, a kecske
 
 Az [alábbi](https://qr.ae/TSwo2X) "How did Christianity bring about the fall of ancient Scythians?" című kérdésre adott, [[S/Szkíta\|szkíta]] címnél teljesebb formában szerepeltetett sorok között megadtam a választ az [[A/Árja\|árja]]/[[A/Árja\|Aryan]] és [[G/Goat\|goat]] és [[G/Gót\|gót]], és [[G/God\|God]] etimológiájára (arany Kos népe, így a God lehet a Kos Napisten is, nem(csak) Göd):  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/a/arian/#4hiogr" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A/Arian/#4hiogr" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -55,12 +55,12 @@ Szóba került goat [[G/GAD\|gad]] címnél is.
 Lásd még [[H/Héber\|héber]] címnél írottakat is.  
 
 Hasonló alakú a [[G/Gőte\|gőte]].  
-Lásd még [[K/KUS\|KUS]] és mindenképpen [[G/Gazella\|gazella]].  
+Lásd még [[K/KUS\|kus]] és mindenképpen [[G/Gazella\|gazella]].  
 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-A Kost itt csak azért hozom fel, mert Kínában a Kosnak a Kutya felel meg és mindkettőt évkezdőnek tartották; lásd [[K/Kutya\|kutya]] bevezetőjében. Itt azt is fel kell hozni, hogy a mindkét állat, a kutya és a bakkecske a túlfűtött szexualitás jelképállatai, így nem lehet véletlen a germán szó majdhogynemi azonossága kutyával. (Bakkecske [[B/BAK\|BAK]] eleme pedig [[B/Basz\|bassz]]al is azonosul.)  
+A Kost itt csak azért hozom fel, mert Kínában a Kosnak a Kutya felel meg és mindkettőt évkezdőnek tartották; lásd [[K/Kutya\|kutya]] bevezetőjében. Itt azt is fel kell hozni, hogy a mindkét állat, a kutya és a bakkecske a túlfűtött szexualitás jelképállatai, így nem lehet véletlen a germán szó majdhogynemi azonossága kutyával. (Bakkecske [[B/BAK\|bak]] eleme pedig [[B/Basz\|bassz]]al is azonosul.)  
 Lásd még arról, hogy az állatok elnevezései között mögött milyen logikai megfontolások lehetnek [[M/MISZ\|MISZ]], [[G/Gnu\|gnu]] és [[G/Gazella\|gazella]].  
 
 [^2]: Lábjegyzet:  
