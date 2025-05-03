@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Evil/","title":"Evil","created":"2024-11-23T04:54","updated":"2024-11-23T04:54"}
+{"dg-publish":true,"permalink":"/E/Evil/","title":"Evil","created":"2024-11-23T04:54","updated":"2025-05-03T09:31"}
 ---
 
 
@@ -15,7 +15,7 @@ Lehet(ett volna) egyszerűen csak E-Vil Világosság Háza. [[R/Rossz\|Rossz]], 
 
 Hasonló alakú név még az [[A/Ábel\|Ábel]] is. Márpedig van olyan elképzelés, hogy nem Káin ölte meg Ábelt.  
 
-[Ezen](https://www.wordsense.eu/evil/) oldalon körül nézve megállapíthatjuk, hogy a gonosz fogalma idegen nyelvekben is évköri értelmezhetőségű lehet. Az [[I/Íj\|íj]]/[[E/Év\|év]] alakú szavak mellett a skandináv `and`/`ond` érdekesek és főleg a [[K/Kutya\|kutyá]]s alakú török `kötücül`.  
+[Ezen](https://www.wordsense.eu/evil/) oldalon körül nézve megállapíthattuk (már nem, sajnos), hogy a gonosz fogalma idegen nyelvekben is évköri értelmezhetőségű lehet. Az [[I/Íj\|íj]]/[[E/Év\|év]] alakú szavak mellett a skandináv `and`/`ond` érdekesek és főleg a [[K/Kutya\|kutyá]]s alakú török `kötücül`.  
 Azaz, ahogy egy Quora válaszban is felhívtam rá a figyelmet, az and/ond alakú szavak úgy aránylanak a vadászebet jelentő germán `hund`/[[H/Hound\|hound]]-hoz, ahogy az angol evil szó gyöke a magyar [[E/EB\|eb]]hez.  
 ```plantuml-svg
 @startuml
