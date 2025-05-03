@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MES/","title":"MES","tags":["Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2024-10-25T23:26"}
+{"dg-publish":true,"permalink":"/M/MES/","title":"MES","tags":["Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2025-05-03T09:36"}
 ---
 
 
@@ -12,6 +12,10 @@
 
 A két részre metszéssel adódnak ki a félévek urai, kikről [[O/Ozirisz és Széth\|Ozirisz és Széth]], [[M/Missera\|missera]] és [[N/Nephthys\|Nephthys]] címnél is volt szó.  
 Nem tartom elképzelhetetlennek, hogy (az [[A/Alter\|alter]] és [[O/Other\|other]] címnél taglalt idegen szavak elegyeként kezelt) An/Ó-Dár (magyarul a [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] és [[D/Drug\|drug]] címnél is taglalt [[T/Társ\|társ]] szavunk) a mellékelt diagramban a Nagy Év egyik/másik félévét jelölő név lehetett: ahol a [[T/Tree\|tree]] = fa [[T/Tör\|tör]]i ketté a [[T/TER\|ter]]et, éppúgy ahogy a [[M/MISZ\|MISZ]]-es diagramon a mes-fa által két részre [[M/Metsz\|metsz]]ett (mesett) tér/mező egyik feléhez képest másik a [[M/Más\|más]]-ik.  
+- Ugyanígy a [[K/Kut\|kut]] címnél álló diagramon némiképp szerepeltetett K-T vázú elvágásra utaló [[C/Cut\|cut]]/[[K/KAT\|KAT]]/[[G/GAD\|GAD]] szavak is [[K/Két\|két]]/[[K/Kettő\|kettő]] számneveinknek felelnek meg és persze a [[K/Kutya\|Ku-Ta]] névnek.
+{ #250501}
+
+
 De alterhez igen hasonló az [[A/Altar\|altar]] = oltár név is, és ahogy Jankovics Marcell írja, az égen is látható egy "Oltár", az Ara (lat. "Áldozati asztal") csillagkép, mely a Tejút déli szakaszán látható, ott, ahol a Nap télen, "áldozata" idején tartózkodik.  
 És ha már asztalról van szó, a [[M/MISZ\|MISZ]] címnél hozott perzsa `miz` = asztal is áldozati asztal lehetett, ahogy a [[D/Dolmen\|dolmen]] is az volt. (Sőt, az [[A/Altar\|altar]] címnél levő képen a négy sarok szarvat(!) formáz.)  
 
