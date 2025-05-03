@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pole/","title":"Pole","tags":["Englishtexttranslated"],"created":"2024-04-20T13:44","updated":"2025-04-04T22:56"}
+{"dg-publish":true,"permalink":"/P/Pole/","title":"Pole","tags":["Englishtexttranslated"],"created":"2024-04-20T13:44","updated":"2025-05-03T09:36"}
 ---
 
 
@@ -76,7 +76,10 @@ Ilyen vázú, ide tehető szavakat Götz László Keleten kél a Nap című kön
 | FLE-chten (fon)  | PLE-cto (fon)   | PLE-ko (fon) | PEL-ek (orsó) | PIL-aḳḳu (orsó) | BAL (forgat, orsó, forduló) | BIL-incs |
 | FEL-ge (abroncs) | VOL-vo (forgat) |              |               |                 |                             |          |
 
-Különösen a Götz László könyvének 191. oldalán is taglalt sumér `BAL` = forgat, orsó, forduló érdekes.  
+Különösen a Götz László könyvének 191. oldalán is taglalt sumér `BAL` = forgat, orsó, forduló érdekes.
+{ #250102}
+
+
 A Götz könyvének 492. oldalán adatolt csagatáj `bulga` "fölkever, megkavar, háborgat"; kazah `bolga` "ráz, fölkavar, forgat" szavak is ide tartoznak. Ami német példaként jobb lett volna talán, az a ([[W/Wife\|wife]] és [[W/Whelm\|whelm]] címnél is említett) német `wölben` = föléível ige.
 { #m8zkz}
 
