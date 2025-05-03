@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-03-13T02:30"}
+{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-05-03T10:54"}
 ---
 
 
@@ -88,6 +88,10 @@ Példaként a germán `geld`/[[G/Gold\|gold]] a Nap Kel-D nevéből ered, a perz
 
 Az alant említett, Erdélyi Zsuzsanna által gyűjtött népi imádságok között is előjön az aranyalma:  
 > *Porodicsom mezijébe Arany szénye leterétve S abba' vagyon egy koporsú S abba' fekszik egy Urjézus. Jobb keziben arany alma, Bal kezibe jaran' vessző S azt az elmát fel-felhajtja, Bal kezivel le-lekapja Felmentyibe úgy zúgadaz, Lejöttyibe s úgy zengedez, Zúg az erdű (e) szép ződágval, Zeng e mezű szép áldásvol...* (V.1:705)  
+
+## Aranycsésze
+
+[[H/Heraklész\|Héraklész]] övéről is ez csüngött le. Jankovics Marcellnél Héliosz aranycsészéjéről szól, amelyben Héraklész hajózik.  
 
 ## Aranyhaj
 
