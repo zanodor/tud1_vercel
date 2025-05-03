@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gene/","title":"Gene","tags":["Englishtexttranslated","containstransclusions"]}
+{"dg-publish":true,"permalink":"/G/Gene/","title":"Gene","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T02:31","updated":"2025-05-03T09:35"}
 ---
 
 
@@ -66,11 +66,14 @@ w5 --w6
 @enduml
 ```
 - Az Eb/Kan szavakat első helyre is lehetett volna tenni.
+- Ha valaki kételkedne az eb és ív szavak összetartozandóságában, csak jelzem, hogy a görög `skolios` = görbe szónak megfelel a kutyát jelentő görög [[S/Szkílosz\|szkílosz]]: ahol az [[I/Ív\|ív]]/[[I/Íj\|íj]], ott a Kutya.
+{ #eeeksm}
+
 - Azt is jegyezzük meg, hogy a sumér `GAN` szónak és a [[N/Nevel és növel\|nevel és növel]] címnél taglalt indoeurópai megfelelőinek (én itt a diagramban csak a mindenki által ismert gén szóval egyszerűsítettem, de a [[G/Geny\|geny]] és [[K/Könny\|könny]] szavak is odatehetők lehettek volna) tisztán látható párja a görög `güné` = nő (mondhatjuk: a szülésre termett), azaz a másik oldalról női kapcsolatot is fel lehetett venni. Az [[I/Ív\|ív]] (görbe, kör) pedig nőiség is, mely szóelemet [[E/Éva\|Éva]] nevében is megtaláljuk.
 
 Ergo a szó a sumér szóhoz ugyanúgy passzol, mint ahhoz a téridőbeli összefüggéshez, melyet Esra Dur AKA Supplex nevű török lánynak is pedzegettem [ezen](https://qr.ae/pvbODD) Quora válaszom kommentjeiben:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/k/kagan/#wwf26" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/K/Kagán/#wwf26" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
