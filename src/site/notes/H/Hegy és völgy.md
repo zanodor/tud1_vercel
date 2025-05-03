@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2024-11-23T05:09"}
+{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2025-05-03T11:02"}
 ---
 
 
@@ -8,7 +8,7 @@
 Tulajdonképpen Nap alapjelentésű szavak adják ki a [[H/Hegy\|hegy]]et és a völgyet is, állapíthatjuk meg (magyarázatot lásd [[F/Fény és anyag\|fény és anyag]], valamint [[F/Fény és sötétség\|fény és sötétség]] alatt).  
 Hasonló eset áll fenn [[H/Hegy és barlang\|hegy és barlang]] esetében; lásd ott.  
 
-Valójában a [[V/Völgy\|völgy]] szó a [[F/Föld\|föld]] szavunknak felel meg: a völgy a lentlétet, alsó állapotot mutatja, ahogy az alaki azonos föld is az éghez ([[E/Ég\|ég]] = [[H/Hegy\|hegy]]) képest lent van.  
+Valójában a [[V/Völgy\|völgy]] szó a [[F/Föld\|föld]] szavunknak felel meg: a völgy a lentlétet, alsó állapotot mutatja, ahogy az alaki azonos föld is az éghez ([[E/Ég\|ég]] = [[H/Hegy\|hegy]]) képest lent van. [[S/Szakrális geometria\|Szakrális geometria]] címnél körüljártuk a fel- és alvilág kérdését.  
 Egy táblázatban az azóta másutt is taglalt [[M/Men\|menny]]/[[M/MUN\|MUN]] és [[O/OR\|OR]]/[[U/UR\|UR]]/[[U/Űr\|űr]] esetekkel is kiegészítve így mutatnám be:  
 ```plantuml-svg
 @startuml
@@ -52,23 +52,27 @@ Nem kell túlmagyarázni; az [[U/UR\|UR]]/[[O/OR\|OR]] = hegy, míg az űr az a 
 
 A [[S/Sine\|sine]] = szinusz(görbe) szót [[S/SZIN\|SZIN]] ([[S/Szín\|szín]]) és [[S/SZÜN\|SZÜN]] (szűn) szavaink adják ki egyszerre, azaz egyszerre fényes és fényhiányos (amplitúdójú) ciklusok váltakozásairól van szó. Felfogató szín hegynek, szün a völgynek. Persze Szünt lehet Színnek is felfogni, így olyan kétpólusúvá válik, mint az alant előjövő [[T/TÜN\|TÜN]].  
 
-Az alábbi csángó hiedelem is ezt mintázza (és lényegében a görög Sziszüphosz sziklájának görgetése is erről a tőrő fakad):  
+Az alábbi csángó hiedelem is ezt mintázza (és lényegében a görög Sziszüphosz sziklájának görgetése is erről a tőről fakad):  
 > "Ki [[T/Tök\|tök]]öt lop, kell vigye a másvilágon a Kálvária-hegyre, s mindig gurul vissza, mindig kell felvenni, annak vége nincs soha." (Somoska, Bosnyák Sándor gyűjtése)  
 
 ### D-V és rokon vázú szavak
 
 Egészen hasonló a SZIN-SZÜN pároshoz a török [[T/Tepe\|tepe]] = domb, hegy és a germán-angol [[D/Deep\|deep]] = mély szavak képviselte páros, ahol a háttérben ott vannak a [[D/Dév\|dév]], [[D/Devil\|devil]], [[T/Téved\|téved]], [[T/Typhon\|Typhon]] szavak, Isten és ördög. Lásd még sötét és más fogalmakat [[D/DUB\|DUB]] és [[S/Stupid\|stupid]].  
 
+Valójában itt a [[B/BOT#B-T, P-T szóvázú és az ezek megfordításaiként látandó T-P szóvázú szavak és jelentéskörük\|B-T, P-T szóvázú és az ezek megfordításaiként látandó T-P szóvázú szavak és jelentéskörük]] cím/alcímnél és a [[G/Gömb#Göₘb mint Bog megfordítása\|Göₘb mint Bog megfordítása]] cím/alcímnél említett összefüggések megértése lényeges: a hegynek a domborulat, a [[S/Szakrális geometria\|szakrális geometrikus]] felvilág felel meg, és a [[D/Dialektikus ellentét\|dialektikus ellentét]] szabálya szerint ezek megjelenhetnek ellentétes jelentéssel.  
+
 ### KAP – BAK, KAB (KÜB, KEB)
 
-A kebel – öböl/köböl is lehet ilyen páros, ha a keblet hegyként fogjuk fel (az öböl egyértelmű, a köböl edényféle, mely a német `kübel` = vödör szóba is átment). Lásd még bővebben erről [[H/Hegy\|hegy]] és [[K/KAP\|KAP]].  
+Az imént említett alcím ide még inkább illik.  
+A kebel – öböl/köböl is lehet ilyen páros, ha a keblet hegyként fogjuk fel (az öböl egyértelmű, a köböl edényféle, mely a német `kübel` = vödör szóba is átment). Lásd még bővebben erről [[H/Hegy\|hegy]] és [[K/KAP\|kap]].  
 Tulajdonképpen a [[K/Kebel\|kebel]] forma feleltethető meg a hegynek és öböl ([[O/Öl\|öl]]) a völgynek. Erről [[S/Sine\|sine]] és [[S/Sinister\|sinister]] címnél is volt szó.  
 
-[Ezen](https://youtu.be/RyaTXRx-hu8) VNTV műsorban 3:45-nél Géczy Gábor elmondja, hogy a szinusz-hullám a világegyetem legegyszerűbb és leggyakrabban használt motívuma. Hegy és völgy helyett adó és kapó párt használ, továbbá Molnár V. Józsefre hivatkozva a [[K/Kapu\|kapu]] és [[K/Kupa\|kupa]] szavakkal is magyarázza (kupa a kehely, de a hupolag is hasonló, valamint a kebel szó is, mely annak az öbölnek a párja, amit a latin `sinus` éppen jelent). Adok-kapokok sorozata a [[H/Hullám\|hullám]].  
+[[K/Kupa\|Kupa]] címnél is szerepelt:  
+[Ezen](https://youtu.be/RyaTXRx-hu8&t=225) VNTV műsorban 3:45-nél Géczy Gábor elmondja, hogy a szinusz-hullám a világegyetem legegyszerűbb és leggyakrabban használt motívuma. Hegy és völgy helyett adó és kapó párt használ, továbbá Molnár V. Józsefre hivatkozva a [[K/Kapu\|kapu]] és [[K/Kupa\|kupa]] szavakkal is magyarázza (kupa a kehely, de a hupolag is hasonló, valamint a kebel szó is, mely annak az öbölnek a párja, amit a latin `sinus` éppen jelent). Adok-kapokok sorozata a [[H/Hullám\|hullám]].  
 
 ### MONY – NYOM
 
-A megfordított szópárról [[M/Mony\|mony]] címnél ír Magyar Adorján. Mony ([[M/MUN\|MUN]]) a hegy, viszont nyom ugye csak a hímtagnak a női nemi részbe való benyomását jelenti. Ugyankkor [[N/NUM\|NUM]] Nu-Ma (Nuna) lehet nőiségi.  
+A megfordított szópárról [[M/Mony\|mony]] címnél ír Magyar Adorján. Mony ([[M/MUN\|MUN]]) a hegy, viszont nyom ugye csak a hímtagnak a női nemi részbe való benyomását jelenti. Ugyanakkor [[N/NUM\|NUM]] Nu-Ma (Nuna) lehet nőiségi.  
 
 ### AL/ALA (ÁLL) – AL (Alsó, Alul)  
 
