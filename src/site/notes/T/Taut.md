@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Taut/","title":"Taut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-10-20T02:21","updated":"2024-10-26T00:35"}
+{"dg-publish":true,"permalink":"/T/Taut/","title":"Taut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-10-20T02:21","updated":"2025-05-03T11:08"}
 ---
 
 
@@ -47,11 +47,11 @@ Szoros, feszes, mint a `tight`. Elég valószínű, hogy nem a gyeplőre vagy a 
 
 [^1]: Lábjegyzet:  
 Másutt a neten:  
-Philo then, having divided the whole work of Sanchuniathon into nine books, in the introduction to the first book makes this preface concerning Sanchuniathon, word for word:  
+Philo then, having divided the whole work of [Sanchuniathon](https://en.wikipedia.org/wiki/Sanchuniathon) into nine books, in the introduction to the first book makes this preface concerning Sanchuniathon, word for word:  
 'These things being so, Sanchuniathon, who was a man of much learning and great curiosity, and desirous of knowing the earliest history of all nations from the creation of the world, searched out with great care the history of Taautus, knowing that of all men under the sun Taautus was the first who thought of the invention of letters, and began the writing of records: and he laid the foundation, as it were, of his history, by beginning with him, whom the Egyptians called Thoyth, and the Alexandrians Thoth, translated by the Greeks into Hermes.'  
 —  
-Philón tehát, miután a Szanchuniathón egész művét kilenc könyvre osztotta, az első könyv bevezetőjében szóról szóra ezt a Szanchuniathónra vonatkozó előszót írja:  
-"Szankuniathón, aki nagy műveltségű és kíváncsi ember volt, és meg akarta ismerni minden nemzet legkorábbi történetét a világ teremtésétől kezdve, nagy gonddal kutatta fel Taautusz történetét, tudván, hogy a nap alatt élő emberek közül Taautusz volt az első, aki a betűk feltalálására gondolt, és elkezdte a feljegyzések írását: és mintegy megalapozta történelmét azzal, hogy vele kezdte, akit az egyiptomiak Thoyth-nak, az alexandriaiak pedig Thoth-nak neveztek, akit a görögök Hermésznek fordítottak."  
+Philón tehát, miután a Sanchuniathon egész művét kilenc könyvre osztotta, az első könyv bevezetőjében szóról szóra ezt a Sanchuniathonra vonatkozó előszót írja:  
+"Sanchuniathon, aki nagy műveltségű és kíváncsi ember volt, és meg akarta ismerni minden nemzet legkorábbi történetét a világ teremtésétől kezdve, nagy gonddal kutatta fel Taautusz történetét, tudván, hogy a nap alatt élő emberek közül Taautusz volt az első, aki a betűk feltalálására gondolt, és elkezdte a feljegyzések írását: és mintegy megalapozta történelmét azzal, hogy vele kezdte, akit az egyiptomiak Thoyth-nak, az alexandriaiak pedig Thoth-nak neveztek, akit a görögök Hermésznek fordítottak."  
 
 [^2]: Lábjegyzet:  
 Az [alábbi](https://en.m.wikipedia.org/wiki/Tetragrammaton) oldal szerint:  
