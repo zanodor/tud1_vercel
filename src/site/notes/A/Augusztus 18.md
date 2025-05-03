@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Augusztus 18/","title":"Augusztus 18","created":"2023-11-01T03:11","updated":"2024-10-23T18:14"}
+{"dg-publish":true,"permalink":"/A/Augusztus 18/","title":"Augusztus 18","created":"2023-11-01T03:11","updated":"2025-05-03T10:55"}
 ---
 
 
