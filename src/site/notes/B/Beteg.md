@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Beteg/","title":"Beteg","tags":["Englishtexttranslated"],"created":"2024-04-20T15:38","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/B/Beteg/","title":"Beteg","tags":["Englishtexttranslated"],"created":"2024-04-20T15:38","updated":"2025-05-03T10:55"}
 ---
 
 
@@ -48,9 +48,11 @@ Menuhin, a híres hegedűművész fia, Mondd el az igazat és szégyenítsd meg 
 
 Géczy elmondja, hogy még ma is Pasteur-ből élnek az orvosok és olyan elektro-mikroszkópot használunk ma, mely befolyásolja a vizsgált anyagot, mert elektronokkal bombázza. A 20. század eleji optikai mikroszkóp teljesen megfelelne mai használatra, amelynek nincs ilyen káros hatása.  
 Egyébiránt a neten, az Amazonon például van is egy könyv amely a Pasteur-Béchamp csatát vázolja fel; [ezen](http://maronewellness.com/pasteur-vs-bechamp-an-alternative-view-of-infectious-disease/) oldalon pedig egy cikk angolul. Mivel legutóbb nálam az a weboldal nem működött, [ezen](https://www.scienceforums.com/topic/37217-pasteur-vs-bechamp-an-alternative-view-of-infectious-disease/) oldalról lehet tájékozódni (Géczy mondataival egyetértő dolgok szerepelnek ott, illetve lábjegyzetbe[^2] is beteszem).  
-[Ezen](http://www.medicinacomplementar.com.br/biblioteca/pdfs/Biomolecular/mb-0464.pdf) oldalon további infók szerepelnek Bechampékról és a betegségekről, stb.  
+[Ezen](http://www.medicinacomplementar.com.br/biblioteca/pdfs/Biomolecular/mb-0464.pdf) oldalon további infók szerepelnek Béchampékról és a betegségekről, stb.  
 
-A korokózó tehát semmi lényegében, vagy inkább az a lényeg, hogy ne váljon az ember a kórokozók táptalajává. A magyar nyelv mindig megmondja az igazságot: ne savanyodj be; ne légy mérges.  
+[Ezen](http://www.rifeszoft.hu/) oldalon is elhangzik:  
+> Béchamp korábban feltételezte, észlelte, hogy az alaptípusú élő mikro-alakzatok, amik anatómiailag minden organikus közegben jelen vannak, csak bizonyos betegséget kiváltó feltételek esetén alakulnak át betegséget okozó formává. A betegség nem azért lett mert valami mikro-organizmus bekerült a szervezetbe. Az mindig is ott volt, csak valami átalakította egy betegséget okozó formává. Az eredeti kiváltó ok tehát nem a vírus, hanem például egy sokk, vagy toxinok, vagy sugárzás, vagy negatív gondolkodásmód, stb. – azaz mindig a legyengült test kémiai traumája, ami oxigénhiányos szöveteket eredményez, savas kémhatással, ami a mikróbák elszaporodásának kedvez.  
+- A kórokozó tehát semmi lényegében, vagy inkább az a lényeg, hogy ne váljon az ember a kórokozók táptalajává. A magyar nyelv mindig megmondja az igazságot: ne savanyodj be; ne légy mérges.
 
 #### Rónai Lászlóné A lélek erejének szerepe a gyógyításban...
 
@@ -86,7 +88,7 @@ You can see this when a group of people go hiking in the woods. It often seems t
 To treat illness, Bechamp's cellular theory also applied. Bechamp was less concerned with killing the infection and focused more on restoring the health of the patient's body through healthy lifestyle choices. Bechamp saw the infection as a footnote to the state of illness and not the primary cause. As the person restored health through diet, hygiene, and detoxification the infection went away on its own-without needing measures to kill it.  
 Pasteur and Bechamp had a long and often bitter rivalry regarding who was right about the true cause of illness. Ultimately Pasteur's ideas were accepted by society and Bechamp was pretty much forgotten. The practice of Western medicine is based on Pasteur's germ phobia which gives rise to the use of vaccinations, antibiotics, and other anti-microbials.  
 The irony is that towards the end of his life, Pasteur renounced the germ theory and admitted that Bechamp was right all along. In the 1920's medical historians also discovered that most of Pasteur's theories were plagiarized from Bechamp's early research work.  
-http://maronewellness.com/pasteur-vs-bechamp-an-alternative-view-of-infectious-disease/  Other interesting articles on the subject:  
+http://maronewellness.com/pasteur-vs-bechamp-an-alternative-view-of-infectious-disease/ Other interesting articles on the subject:  
 https://danielleduperret.com/articles-blogs/pasteur-bechamp-the-2-sides-of-medicine/  
 Louis Pasteur (1822 – 1895) was a French chemist and microbiologist born in Dole. He is best known for his remarkable breakthroughs in the causes and prevention of disease. His experiments supported the germ theory of disease. In essence, Pasteur taught that disease came from outside the body in the form of bacteria. For Pasteur, to fight illness is to treat the symptoms. This approach has shaped modern medicine and pharmacology.  
 Few people know that on his deathbed, Pasteur recanted and said "Béchamp was right."  
