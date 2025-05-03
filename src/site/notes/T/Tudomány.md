@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated"],"created":"2023-10-05T06:45","updated":"2025-04-27T15:18"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated"],"created":"2023-10-05T06:45","updated":"2025-05-03T11:06"}
 ---
 
 
@@ -241,6 +241,30 @@ Nehéz megbotránkoztatóbb állítással előállni tudományos körökben, min
 > Ugyanakkor az elődök tapasztalata alapján kiderült, hogy ezen az úton nem lehet az ellenfelek akadályait, az elhallgatást, a megbélyegzést, a terjesztés nehézségeit, a tilalomfákat áthidalni.  
 
 Lásd még [[M/Megtévesztés\|megtévesztés]] és [[T/Történelemhamisítás\|történelemhamisítás]].  
+
+## A tudomány meghazudtolja önmagát
+
+Azt, hogy milyen elképesztő következetlenségeket találunk a nyelvtudományban, már az adott helyeken láttuk. Lássunk néhány "fából vaskarika" jellegű képtelenséget más tudományterületről:  
+
+### 1
+
+[[J/Judeo-kereszténység\|Judeo-kereszténység]]: ilyen nincs. Mégis tanítják. Lásd ott, illetve fentebb is szóltunk róla.  
+
+### 2
+
+#### Grandpierre Atilla Az élő univerzum...  
+
+...című dolgozatában írja:  
+>  Az Ősrobbanás elméletében a galaxisok túlnyomórészt egykorúak. Amíg az univerzum korára a [[B/Big Bang\|Big Bang]] elmélete 8-15 milliárd évet ad, a galaxisok 7-10-14 milliárd éve, az első csillagok mintegy 5-8 milliárd éve keletkezhettek. Ezzel szemben problémát jelent, hogy például az M92 gömbhalmaz kora kb. 19 milliárd év, bizonyos RR Lyrae típusú csillagok kora nagyobb 17 milliárd évnél! A legöregebb ismert csillagok kora 16-19 milliárd év, szemben a Big Bang ajánlotta 5-8 milliárd évvel. Ez az Ősrobbanás elméletének kor-paradoxona.
+
+### 3
+
+Dr Weixl Várhegyi László előadásában mutat rá az orvostudomány képtelenségére:  
+> [!|noicon]
+> Az orvosképzésben azt mondják, hogy a desztillált víz mérgező [14:10](https://www.youtube.com/watch?v=XOdpikidsWo&t=850), holott az infúzió 99%-a desztillált víz [14:56](https://www.youtube.com/watch?v=XOdpikidsWo&t=896).
+- Weixl is értetlenkedik, hogy nem tudják egymás mellé tenni a dolgokat?
+
+[[B/Beteg\|Beteg]] címnél pedig a Pasteur-Béchamp csata kapcsán volt szó arról, hogy az egyetemeken nem tanítják utóbbi betegség-elméletét.  
 
 ## Lábjegyzetek
 
