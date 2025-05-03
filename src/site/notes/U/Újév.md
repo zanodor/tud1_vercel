@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/U/Újév","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-10-11T04:42","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2025-05-03T11:08"}
 ---
+
 
 # Újév
 
@@ -63,7 +64,7 @@ Johan Oldenkamp írja:
 > —  
 > Miután három napig halott volt, december 25-én a Messiás \[a Nap\] feltámad a halálból, és minden következő napon (egészen a nyári napfordulóig) magasabbra emelkedik az égen. Ha az Orion-öv három csillagától (más néven a Három Királyoktól) a Szíriusz csillagán keresztül (amelyet a Királyok követtek) egyenes vonalat húzunk, akkor ennek a vonalnak a horizonton való keresztezése pontosan kijelöli a Héliosz felemelkedésének (vagy Krisztus (újra)születésének) helyét december 25-én. A bibliai változat ennek az égi dinamikának csak egy megszemélyesített változata.  
 
-Johan Oldenkamp ugyebár Karl-Heinz Homann és Uwe Homann adataira támaszkodik. KHH (vagy WC) írja:  
+Johan Oldenkamp ugyebár Karl-Heinz Homann és Uwe Homann adataira támaszkodik. Karl-Heinz Homann (vagy Walter Cruttenden) írja:  
 > Keep in mind that even our **Earth has its perihelion around January 2, as it passes through the conjunction of Sun and Sirius each year**.  
 > —  
 > Ne feledjük, hogy még a mi **Földünknek is január 2. körül van a perihéliuma, mivel minden évben áthalad a Nap és a Szíriusz együttállásán**.  
@@ -111,7 +112,7 @@ Kapcsolódás lehet az ind [[S/Sarama\|Sarama]] = Szíriusz és a perzsa-angol s
 Hasonló problémával találkoztunk [[K/Kutya\|kutya]] bevezetőjében is, mikor azt nehezményeztük, hogy a keleti zodiákusban a Kutya miért a Kosnak, miért nem a Baknak felel meg, illetve felveti mindez azt a kérdést is, hogy Iránban a (zoroasztriánus időktől) mai napig miért a márc. 20/21.-ére eső [[N/Nowruz\|Nowruz]] az újév napja, mikor nyugaton újév január elsejére esik, azaz [[T/Tél\|tél]] időre esik.  
 
 [[M/Mithra és a bika\|Mithra és a bika]] címnél szerepelt legutóbb:  
-[[M/Mithra\|Mithra]] címnél már szerepelt (a folyamatosan [[S/Szíriusz\|Szíriusz]]t is elővevő) WC sora, miszerint Mithrának köze kell lennie a [[P/Precesszió\|precesszió]]hoz, vagy azt kiváltó okhoz; egy helyen John M. Jenkins is írja:  
+[[M/Mithra\|Mithra]] címnél már szerepelt (a folyamatosan [[S/Szíriusz\|Szíriusz]]t is elővevő) Walter Cruttenden sora, miszerint Mithrának köze kell lennie a [[P/Precesszió\|precesszió]]hoz, vagy azt kiváltó okhoz; egy helyen John M. Jenkins is írja:  
 > Mithras is celebrated as the high deity or demiurge who turns the wheel of precession.  
 > —  
 > Mithrászt főistenség vagy démiurgoszként ünneplik, aki a precesszió kerekét forgatja.  
@@ -122,7 +123,7 @@ Hasonló problémával találkoztunk [[K/Kutya\|kutya]] bevezetőjében is, miko
 > Secret teachings within Mithraism might have been about the end of the previous Golden Age, long ago, and the impending dawn of a new one. The grades of Mithraic initiation led the seeker through the seven planetary spheres to the abode of Pater (Saturn), associated with Capricorn. Beyond the seventh level, a secret teaching reveals an eighth "house" where the Hypercosmic Sun was located, accessed through a celestial doorway that appeared when the Sun was in Capricorn.  
 > —  
 > A mithraizmuson belüli titkos tanítások a régmúlt aranykor végéről és egy új korszak közelgő hajnaláról szólhattak. A mithrai beavatás fokozatai a hét bolygószférán keresztül vezették a keresőt a Bakhoz kapcsolódó Pater (Szaturnusz) lakhelyére. A hetedik szinten túl egy titkos tanítás felfed egy nyolcadik "házat", ahol a hiperkozmikus Nap tartózkodott, és ahová egy égi kapun keresztül lehetett bejutni, amely akkor jelent meg, amikor a Nap a Bakban állt.  
-> ![assets/Újév_image4.png|invert_light](/img/user/U/assets/%C3%9Aj%C3%A9v_image4.png) 
+> ![assets/Újév_image4.png|invert_light](/img/user/U/assets/%C3%9Aj%C3%A9v_image4.png)
 
 Ezen hiperkozmikus Nappal kapcsolatban írja:  
 > David Ulansey, "Mithras and the Hypercosmic Sun," in Hinnells, Studies in Mithraism; also posted on Ulansey's Web site: www.well.com/user/davidu/
@@ -216,8 +217,8 @@ Az kétségtelen viszont, hogy január 1-4 környékén a Föld perihelion pontj
 > De Karácsony, azaz a téli napforduló volt a régi rómaiaknál is a "dies natalis Dei invicti Soli", vagyis "a győzhetetlen Napisten születése napja", amelyet a kereszténység a népek emlékezetéből eltörölni meg sem kísérelhetett s ezért Jézus születése napját téve e napra, átvette illetve magának hódította s amelyet aztán naptárújításával Gergely pápának sikerült kissé eltolnia, vagyis a december 24-.ről 25.-re virradó éjszakára áttennie, hogy a régi Napisten születéséveli azonos voltát elhomályosíthassa és a népekkel feledtesse, vagyis hogy feledtesse azt, miszerint a valóságban a téli napfordulókor mégis csak a Napisten születése napja, de nem a kereszténység Jézusáé van.  
 > Ugyanez okból helyezte át az év végét és az újesztendőt is a téli napforduló éjszakájáról, vagyis a mai december 21-22-ről december 31-január 1.-re.  
 > De úgy a mi ősvallásunkban mint a többi európai népekében – akik hiszen kereszténységelőtti műveltségük alapjait ősnépeinktől örökölték – bár a téli napforduló éjszakáján éjfélkor a Napisten születését ünnepelték, de éjfél előtt, vagyis az óesztendő végén az öreg, fehérhajú, fehér szakállú Napistent bírcsúztatták, aki egyúttal a megszemélyesített Óesztendő is volt.  
-> Az evvel kapcsolatban lévő karácsonyelőtti és évvégi szokásokat, játékokat eltörölni szintén lehetetlen lévén, a keresztény egyház úgy segített a dolgon, hogy az öreget Szent Miklós myrai püspökkel azonosítva, napját Karácsony előttre tette ugyan, de nehogy a téli napfordulóvali összefüggése és az Öreg Napistenneli azonos volta észrevehető legyen, még néhány nappal korábbra, vagyis december 6.-ra helyezte, amely nap így a mai kereszténység "Mikulás napjá"-vá lett, amelyen a fehérhajú, fehérszakállú öreg ugyan még szerepel, aki téli napfordulati szerepeltetéséről a kereszténnyé lett népeket az egyház nem bírta leszoktatni, de az öreg Napistenneli azonos voltát feledtetnie mégis teljesen sikerült már. Mivel azonban a népek az új, keresztény, naptár szerinti évvégét sem tudták elképzelni egy fehérhajú és fehérszakállú öreg Óesztendő nélkül, ezért utóbb az egyház kénytelen volt ide is egy ilyen öreget tenni és ez a mai Szent [[S/Szilveszter\|Szilveszter]], akit a népszokások az év végén szintén szerepeltetnek.  
-^y1o6w9
+> Az evvel kapcsolatban lévő karácsonyelőtti és évvégi szokásokat, játékokat eltörölni szintén lehetetlen lévén, a keresztény egyház úgy segített a dolgon, hogy az öreget Szent Miklós myrai püspökkel azonosítva, napját Karácsony előttre tette ugyan, de nehogy a téli napfordulóvali összefüggése és az Öreg Napistenneli azonos volta észrevehető legyen, még néhány nappal korábbra, vagyis december 6.-ra helyezte, amely nap így a mai kereszténység "Mikulás napjá"-vá lett, amelyen a fehérhajú, fehérszakállú öreg ugyan még szerepel, aki téli napfordulati szerepeltetéséről a kereszténnyé lett népeket az egyház nem bírta leszoktatni, de az öreg Napistenneli azonos voltát feledtetnie mégis teljesen sikerült már. Mivel azonban a népek az új, keresztény, naptár szerinti évvégét sem tudták elképzelni egy fehérhajú és fehérszakállú öreg Óesztendő nélkül, ezért utóbb az egyház kénytelen volt ide is egy ilyen öreget tenni és ez a mai Szent [[S/Szilveszter\|Szilveszter]], akit a népszokások az év végén szintén szerepeltetnek.  { #y1o6w9}
+
 
 Másutt írja Magyar Adorján:  
 > Sebestyén Gyula "A regösök" című könyvében bemutatja a mongolok `cam` nevű táncában \[[[Come\|come]] címhez is betéve\] előforduló szarvasálarcos alakot, amellyel együtt még egy bikaálarcos is ábrázolva, amely pedig a mi egykori "Bözön Biká"-nkkal azonos. Megemlíti Sebestyén, hogy ilyenek a tibetiek újévi ünnepségein szintén szerepelnek. Azon körülmény, hogy a szarvasálarcos ember táncol is, azt sejtteti, hogy itt már nem őseredeti szertartással van dolgunk, mert tudván hogy ez valamikor magát a főistent jelképezte, a táncolást ennek méltóságán alulinak érezzük, bár ellenvethető, hogy a tánc ősidőkben époly szent valaminek tarthatott mint ma a vallásos éneklés. A Sebestyén által bemutatott szarvasjelmez ruháját már igen szép, művészi [[P/Palást\|palást]] képezi, amely állatbőrre már egyáltalán nem emlékeztet, de teljes, az ember arcát és fejét is befödő szarvasfeje is van, agancsokkal. Azt már tudjuk, hogy az egykori újév egyúttal Karácsony is volt, vagyis a Napisten évvégi halála és újévi újjászületése napja, illetve éjszakája, egyaránt.  
@@ -249,7 +250,7 @@ Utótagját lásd még [[F/Fancy\|fancy]] és [[F/Fantasy\|fantasy]] szavakban; 
 Furcsa módon Plinius a Szíriuszt is a méz eredetével hozta összefüggésbe a felemelkedése idején:
 Ez az anyag a levegőből keletkezik, főleg a csillagképek kelésekor, és különösen akkor, amikor a Szíriusz ragyog... (A természetrajz XI. könyv 12.)
 És minőségével és édességével is!  
-Ha a mézet a Szíriusz felkelésekor vesszük, és ha a Vénusz, a Jupiter vagy a Merkúr felemelkedése történetesen ugyanarra a napra esik, ahogy ez gyakran előfordul, az anyag édessége és az az erénye, amellyel rendelkezik, hogy az embereket életre kelti, nem marad el azoktól, amelyeket az istenek nektárjának tulajdonítanak. (A természetrajz XI. könyve 14.) 
+Ha a mézet a Szíriusz felkelésekor vesszük, és ha a Vénusz, a Jupiter vagy a Merkúr felemelkedése történetesen ugyanarra a napra esik, ahogy ez gyakran előfordul, az anyag édessége és az az erénye, amellyel rendelkezik, hogy az embereket életre kelti, nem marad el azoktól, amelyeket az istenek nektárjának tulajdonítanak. (A természetrajz XI. könyve 14.)
 
 [^5]: Lábjegyzet:  
 Az [alábbi](https://okosgazdi.hu/magazin/tuzelo-kutyak-a-problemas-idoszak) oldal adatai:  
