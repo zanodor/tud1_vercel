@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2024-10-26T00:31"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2025-05-03T11:07"}
 ---
 
 
@@ -186,7 +186,7 @@ Ahogy mondják, a Föld napközeli ([[P/Perihelion\|perihelion]]) pontja január
 > —  
 > Miután három napig halott volt, december 25-én a Messiás \[a Nap\] feltámad a halálból, és minden következő napon (egészen a nyári napfordulóig) magasabbra emelkedik az égen. Ha az Orion-öv három csillagától (más néven a Három Királyoktól) a Szíriusz csillagán keresztül (amelyet a Királyok követtek) egyenes vonalat húztunk, akkor ennek a vonalnak a horizonton való keresztezése pontosan megjelölte a Héliosz felemelkedésének (vagy Krisztus (újra)születésének) helyét december 25-én. A bibliai változat ennek az égi dinamikának csak egy megszemélyesített változata.  
 
-Johan Oldenkamp ugyebár Karl-Heinz Homann és Uwe Homann adataira támaszkodik. KHH írja:  
+Johan Oldenkamp ugyebár Karl-Heinz Homann és Uwe Homann adataira támaszkodik. Karl-Heinz Homann írja:  
 > Keep in mind that even our **Earth has its perihelion around January 2, as it passes through the conjunction of Sun and Sirius each year**.  
 > —  
 > Ne feledjük, hogy még a mi **Földünknek is január 2. körül van a perihéliuma, amikor minden évben áthalad a Nap és a Szíriusz együttállásán**.  
@@ -196,17 +196,17 @@ Johan Oldenkamp ugyebár Karl-Heinz Homann és Uwe Homann adataira támaszkodik.
 > —  
 > A Szíriusz a Föld felszínének minden lakott területéről látható. Az év legjobb időszaka a mi korszakunkban **január 1. körül van, amikor a Szíriusz éjfélkor éri el a meridiánt**.  
 - Ezzel egybevágó adat, hogy [[A/Alcyone\|Alcyone]] dec. 31-én tetőzik, mely szinte egybeesik újév napjával.  
-Nem tartom elképzelhetetlennek, hogy ilyesfajta meridián-áthaladás lehet [[N/Nibiru\|Nibiru]] (Napszemű?) elnevezésének hátterében is.  
+Nem tartom elképzelhetetlennek, hogy ilyesfajta meridián-áthaladás lehet [[N/Nibiru\|Nibiru]] (Napszemű?) elnevezésének hátterében is.
 
 ### Szíriusz nadir helyzete
 
 [[G/Galactic centre\|Galactic centre]] címnél volt szó róla:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/g/galactic-centre/#kq3rso" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/G/Galactic centre/#kq3rso" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-![assets/Galcen_image19.png|invert_dark](/img/user/G/assets/Galcen_image19.png)   
+![assets/Galcen_image19.png|invert_dark](/img/user/G/assets/Galcen_image19.png)
 Leenőriztem John M. Jenkins adatát az előbbi képen csatolt infora nézve. Szíriusz nagyon nem moccan ebből a "nadir(?)" pontból az égi egyenlítő alatt. Csak balra, jobbra mozog az évezredek során. Precesszió ugye bele van táplálva.  
 
 
@@ -233,7 +233,7 @@ Végvári József adata szerint a Nap úgynevezett apex-pontja a [[V/Vega\|Vega]
 J. Ellard Gore Astronomical Curiosities című könyve letöltésre elérhető. (Közben az ő anyaga is bekerült ide.)  
 
 [^3]: Lábjegyzet:  
-Egyébként [[N/Nibiru\|Nibiru]] nevét is az ezen szóval rokonítható `eberu` = átkelni szóból vezetik le. Ami (igékből levezetés), valljuk meg, elég furcsa gyakorlat.  
+[[N/Nibiru\|Nibiru]] nevét is az ezen szóval rokonítható `eberu` = átkelni szóból vezetik le. Ami (mármint az igékből történő levezetés), valljuk meg, elég furcsa gyakorlat.  
 
 [^4]: Lábjegyzet:  
 [[O/Ötevény\|Ötevény]] címnél is szóltunk arról – dacára annak, hogy ez az elnevezés egyszerűen Ösvény és Ős-Fény olvasatú is lehet –, hogy a Tejút ezen neve és az [[O/Ötven\|ötven]] számunk között összefüggés kell legyen.  
