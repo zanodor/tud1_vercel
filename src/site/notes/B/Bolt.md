@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bolt/","title":"Bolt","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-10T10:45","updated":"2024-10-24T22:16"}
+{"dg-publish":true,"permalink":"/B/Bolt/","title":"Bolt","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-10T10:45","updated":"2025-05-03T10:55"}
 ---
 
 
 # Bolt 1)
 
-A magyar kétjelentésű szót Péterfai János említi alant. Valóban igaza van az elárusító hely értelme kapcsán. Ahogy az égbolton a csillagok (melyek B=F azonosság alapján is [[F/Folt\|folt]] = csillag értelemben számolhatók), úgy a boltban a portékák fényes, csábító dolgok, melyeket az ember megkíván és megvesz. Persze nem mondanám, hogy csak a sátáni-sárkányi természetünket kielégíteni vágyó Kali Yuga [[M/Materializmus\|materializmus]]ában létezhetnek boltok.  
+A magyar kétjelentésű szót Péterfai János említi alant. Valóban igaza van az elárusító hely értelme kapcsán. Ahogy az égbolton a csillagok (melyek B=F azonosság alapján is [[F/Folt\|folt]] = csillag értelemben számolhatók), úgy a boltban a portékák fényes, csábító dolgok, melyeket az ember megkíván és megvesz. 
 
 Pap Gábor Icai fekete kövek rejtélye című három részes [előadássorozata 1. részében](https://www.youtube.com/watch?v=EkK4R1UaIEY) 1:52:17-nél az éppen ott elemzett [[B/Balta\|balta]] szóval rokonít, etimonok ismerete hiányában.  
 
@@ -13,8 +13,9 @@ Az angol `bar` hasonlóan fényes hely, de a `shop` is lehet szép dolgokat áru
 
 A ([[B/Bodega\|bodega]] és) [[B/Boutique\|boutique]] szónak megfelelő dán `butik` = bolt szó láttán ötlött fel, hogy bolt szavunk bót formája az, amit [[B/BOT\|BOT]], [[B/BAT\|BAT]] = ház, kis ház (bódé) jelentéssel ismertünk.  
 
-Bolt másik jelentése megjelenik a [[V/Vault\|vault]] szóban (hasonló eset a [[K/Khamor\|Khamor]] címnél taglalt kamra).  
-[[W/Whelm\|Whelm]] címnél szereplő CzF adatsor alapján a BOL gyök alapján is lehet elemezni, minthogy az ég forog is.  
+Bolt másik jelentése megjelenik a [[V/Vault\|vault]] szóban. Hasonló eset a [[K/Khamor\|Khamor]] címnél taglalt kamra, de [[S/Szoba\|szoba]] szavunk sémi k-előtétes szópárjai kapcsán is a boltozatos helység jött elő.  
+
+[[W/Whelm\|Whelm]] címnél szereplő CzF adatsor alapján a [[V/Vált\|vált]] szavunk gyökének megfelelő BOL gyök alapján is lehet elemezni, minthogy az ég forog is.  
 
 #### Péterfai János...
 
@@ -32,11 +33,11 @@ Vault és bolt kapcsán lásd írást [[A/Aszklépiosz\|Aszklépiosz]]. Hitetetl
 
 [[V/Villám\|Villám]]csapás, nyílvessző (sok más jelentése van még).  
 
-#### Magyar Adorján...
+#### Magyar Adorján írja:  
 
-írása ([[F/Flash\|flash]] címnél is szerepelt):  
 > A palócok egyik nemzeti fegyvere lehetett a nyíl is, habár ennek palóc szócsoportbeli neve mai nyelvünkben nincsen is meg, viszont megvan más nyelvekben, így a görögben `bélosz`, a németben `Pfeil`, a franciában `flèche` (fles) = nyíl; amely szavak avaros kiejtése az olasz `freccia` (freccsa) = nyíl, de ezek alapján a nyíl őspalóc neve is kikövetkeztethető. Ugyanis népünk a villámot ma is nevezi Isten nyilának is, vagyis tehát a villám nyílként is volt fölfogva.  
+- [[F/Flash\|Flash]] címnél hasonló passzus szerepelt.
 
   
 
-Lásd még [[B/Bolt#Bolt 1)\|bolt]], [[B/BOT\|BOT]], [[B/Bow\|bow]], [[B/Boat\|boat]] és [[B/Build\|build]]. Lásd még továbbá [[F/Flash\|flash]], de [[F/Flex\|flex]] címnél is utaltunk rá.  
+Lásd még [[B/Bolt#Bolt 1)\|bolt]], [[B/BOT\|BOT]], [[B/Bow\|bow]], [[B/Boat\|boat]] és [[B/Build\|build]]. Lásd még továbbá [[F/Flash\|flash]], ill. [[F/Flex\|flex]] címnél is utaltunk rá.  
