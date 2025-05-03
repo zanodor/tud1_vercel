@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2024-10-23T18:13"}
+{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2025-05-03T10:55"}
 ---
 
 
@@ -31,7 +31,7 @@ Valahogy ilyenképpen, ezen ünnep kapcsán alakulhatott ki a [[N/Napistennő\|N
 
 Micsoda misztikus sorsszerűség, hogy Szent [[I/István\|István]] koronázási napja, bíráskodási napja és halálának napja is ez: mind a három jelentős nap Nagyboldogasszony nevéhez és ünnepéhez kötődik.  
 
-Falvay Károly és az  MNL sem emeli ki igazán, hogy **ez az év nyolcadik teliholdja**[^3] és az [alábbi](https://greekerthanthegreeks.com/2016/08/greece-in-all-her-glory-under-mystical.html) oldal adata szerint is a legvilágosabb, legszebb teliholdja az évnek. Sokatmondó, hogy ilyenkor a Hold igen közel van a horizonthoz, azaz a Föld(anyá)hoz is (pongyolán fogalmaz a cikkíró; értsd: az ekliptika ilyenkor közel van a horizonthoz; és nyilván nem mindegy hány órakor nézzük a Holdat).  
+Falvay Károly és az MNL sem emeli ki igazán, hogy **ez az év nyolcadik teliholdja**[^3] és az [alábbi](https://greekerthanthegreeks.com/2016/08/greece-in-all-her-glory-under-mystical.html) oldal adata szerint is a legvilágosabb, legszebb teliholdja az évnek. Sokatmondó, hogy ilyenkor a Hold igen közel van a horizonthoz, azaz a Föld(anyá)hoz is (pongyolán fogalmaz a cikkíró; értsd: az ekliptika ilyenkor közel van a horizonthoz; és nyilván nem mindegy hány órakor nézzük a Holdat).  
 Állítólag majdnem olyan módon világít ilyenkor, mint a Nap! Márpedig a Nap a (Nap)király és a Hold pedig anyjának, a Tejútanyának aspektusa. Az éves körforgásban az augusztusi (lásd idevágó infókat is [[A/August\|August]]) holdhónap az Oroszlán jegyhez tartozik, mely alfájának neve is [[R/Regulus\|Regulus]] = királyka/kiskirály, és nem mellékesen a [[V/Világ négy oszlopa\|Világ négy oszlopá]]nak egyike (legfőbbje). Jankovics Marcell [[R/Regulus\|Regulus]] címnél álló adata szerint Ptolemaiosz görög csillagász a Regulust tekintette a zodiákus 1. fokának (a héraklészi "munkaév" is az Oroszlánnal kezdődik). Nyilván a Szűzzel való kezdés (melyről [[S/Szűz-Halak tengely\|Szűz-Halak tengely]] és [[S/Szűz csillagkép\|Szűz csillagkép]] címnél is szó esett és Lewis Freemantle The Thirteenth Stone című könyvében is ezt hajtogatta) is ugyanez lehet eltolva.  
 Falvay könyvének 250-251. oldalán írja (de nem mondja ki, melyik ünnepre gondol):  
 > Az eredeti ünnep minden bizonnyal a [[T/Telihold\|telihold]]é, a Nagy Istennőé[^4] volt, ami a patriarchálissá változott korban a király ünnepévé lett. A nap fényét hordozó és az erőt, hatalmat birtokló király együtt örökölte meg az istennő telihold emlékét és az istennő hatalmát.  
@@ -74,7 +74,7 @@ A Nagy Kutyánál és Szíriusznál maradva, a kínai kultúrkörben a Kutyacsil
 #### David Gordon White írja:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/c/cynosure/#c14pc9" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/C/Cynosure/#c14pc9" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -100,7 +100,7 @@ Falvay Károly Nagyboldogasszony című könyvének 382. oldalán is szól a [[S
 A telihold ünnepek matriarchális ünnepek voltak eredetileg, ez egyértelmű. Olyannyira igaz ez a kijelentés, hogy maga az [[I/Idő\|idő]] fogalma is az Istenanyához tartozik. Ezért van az, hogy az [[A/Annual\|annual]] címnél taglalt latin `annus` = év az anya/anyus szavunkból ered és vélhetően az ősanyát jelentő [[E/Edda\|Edda]] is [[I/Idő\|idő]] szavunkból ered, ahogy [[E/Éva\|Éva]] az [[E/Év\|év]] szavunkkal mutat kapcsolatot. És ha már augusztus 15., lásd legutóbb (a szintén idő szavunkból eredő) [[I/Idus\|idus]] címnél írottakat is.  
 
 ![assets/Augusztustizenot_image2.jpeg|invert_dark](/img/user/A/assets/Augusztustizenot_image2.jpeg)  
-Végh Tibor korona-kutató Megszólalt a Szent Korona című az Ősi Gyökér 2018/1-2. sz. megjelent cikkében (is) említi a Korona u.n. "Boldogasszony-központúságát":   
+Végh Tibor korona-kutató Megszólalt a Szent Korona című az Ősi Gyökér 2018/1-2. sz. megjelent cikkében (is) említi a Korona u.n. "Boldogasszony-központúságát":
 > Ami a zománcképek névünnepi dátumaiból vett naptári időadatok alapján kialakuló évköri rendszerben augusztus 15-ére, Nagyboldogasszony napjára mutat. De **augusztus 15-e egyúttal a január 1.-jével kezdődő év aranymetszési pontja** is! (365 x 0,618034 = 225,6 és január 01. → augusztus 15. = 226 nap.) Márpedig az aranymetszés a műben – Einstein szerint is – elősegíti a jó létrejöttét és kizárja a rosszét. Lásd az 1. sz. ábrát.  
 
 Kubínyi Tamás azt mondja, hogy Nagyboldogasszony napja a [[V/Vérszerződés\|vérszerződés]] előestéje volt. A Wiki erről írja:  
@@ -113,7 +113,7 @@ Kubínyi Tamás azt mondja, hogy Nagyboldogasszony napja a [[V/Vérszerződés\|
 > XII. Piusz pápa 1950. november 1-jén hirdette ki hittételként, hogy a "Boldogságos Szűz Mária földi életpályája befejezése után testével és lelkével együtt felvétetett a mennyei dicsőségbe" – írták.  
 > Hozzátették: az ünnepet Szent István király olyan fontosnak tartotta, hogy ezen a napon ajánlotta Magyarországot a Szűzanya oltalmába. Ezért nevezik Szűz Máriát Magyarország égi pártfogójának, vagyis Patrona Hungariaenek. Szent István 1038-ban éppen Nagyboldogasszony napján hunyt el.  
 > Nagyboldogasszony napja kötelező ünnep, vagyis a katolikus hívőknek ezen a napon kötelező szentmisén részt venniük.  
-- Na, majd pont a katolikus egyház kényszerítése miatt fogunk ünnepelni.  <br/>
+- Na, majd pont a katolikus egyház kényszerítése miatt fogunk ünnepelni. <br/>
 Viszont [ezen](https://en.wikipedia.org/wiki/Assumption_of_Mary) oldal szerint **1948-ban Magyarország megszüntette állami ünnepként való megünneplését**[^6]. Vajon miért?  
 
 Arról, hogy halála napján István Boldogasszonynak vagy Szűz Máriának ajánlotta fel az országot[^7], már másutt is volt szó. Én úgy gondoltam erre, hogy valójában ez azt jelenti, hogy mindig is [[B/Boldogasszony\|Boldogasszony]] azaz [[M/Magyar\|magyar]] (Ilona) országa volt Magyarország.  
