@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2024-10-25T16:12"}
+{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2025-05-03T10:56"}
 ---
 
 
@@ -70,7 +70,7 @@ Canopust tartották a déli földteke tájolópontjának ([[F/Fúrócsillag\|Fú
 A Canopust a Hamlet Malma című könyv is említi:  
 > Legfelül pedig, jó magasan az egyenlítő "száraz" síkja felett a középpontban, ragyogott a Sarkcsillag. Vele szemközt legfelül, vagy inkább az alant folyó vizek legmélyén, a mi szélességi fokainkról már nem láthatóan, helyezkedett el a déli pólus, föltehetően a Canopus, mely e régiók legeslegfényesebb csillaga, még a Dél Keresztjénél is szembeötlőbb.  
 > A Canopus neve az araboknál Kalb at-taiman ("a Dél szíve"), de megőrződött egy másik neve is: Suhail el-wezn, "Canopus Ponderosus", a nehéz súlyú[^1] Canopus, mely nevet a szakemberek azonnal értelmetlennek nyilvánítottak, holott igencsak része lehetett egy archaikus rendszernek, melyben Canopus volt a nehezék a mérőón végén, ami illett is helyzetéhez, lévén egy súlyos csillag az "alant folyó" vizek déli sarkán.  
-- Megjegyzés: [[K/Kalb\|kalb]] nemcsak szívet, hanem kutyát is jelent arabul. Márpedig a Kan szerepel is a névben és a Várkonyi Nándor által adatolt egyiptomi Kahen-Nub előtagja is kutya.  
+- Megjegyzés: [[K/Kalb\|kalb]] nemcsak szívet, hanem – némileg eltérő kiejtéssel – kutyát is jelent arabul. Márpedig a Kan szerepel is a névben és a Várkonyi Nándor által adatolt egyiptomi Kahen-Nub előtagja is kutya.
 
 Hogy a Canopus és a Kutyacsillag fontos markerek és társak, ez leszűrhető az alábbi arab történetből.  
 
@@ -95,7 +95,7 @@ De maradjunk az araboknál.
 
 Persze nem feltétlenül az araboknak kell az emléket megköszönni; a 60000 év pedig akkor lehet igaz, ha a Szíriusz-Nap rendszer kb. 108000 éves periodicitású vagy akár több.  
 
-A Hamlet Malma című könyv íróinak vizsgálódásai szerint az [[E/Eridanus csillagkép\|Eridanus csillagkép]] – mivel nincs rendes görög magyarázata – ésszerűen levezethető [[E/Eridu\|Eridu]]ból, amint Kugler javasolta – Eridu lévén Enki-Ea székhelye, a sumer `mulNUNki` = Canopus (alpha Carinae).  
+A Hamlet Malma című könyv íróinak vizsgálódásai szerint az [[E/Eridanus csillagkép\|Eridanus csillagkép]] – mivel nincs rendes görög magyarázata – észszerűen levezethető [[E/Eridu\|Eridu]]ból, amint Kugler javasolta – Eridu lévén Enki-Ea székhelye, a sumer `mulNUNki` = Canopus (alpha Carinae).  
 A mulNUNki nevet lehet elemezni: [[M/MUL\|Mul]] – Csillag, [[N/NUN\|NUN]] – Kezdet, [[K/KI\|ki]] – Föld. A Nun kezdet értelme tökéletesen összevág az Eridu eredő jelentésével.  
 A kezdet, eredet ezáltal már több csillaghoz, csillagképhez kapcsolható: Tomory Zsuzsa adata nyomán a tündérek [[H/Hattyú csillagkép\|Hattyú csillagkép]]éhez, a Canopushoz, [[S/Szíriusz\|Szíriusz]]hoz és Szántai Lajos szerint a [[C/Capella\|Capellá]]hoz is.  
 Mivel a Canopus is tartalmazza a Kan = Ember (inkább utaljunk kanra emberrel mint [[K/Kutya\|kutyá]]val) nevet, mondhatjuk, hogy a [[N/Napvallás\|Napvallás]]ú, késeinek nevezhető földi (magyar utód)népek szemlélete szerint az égi eredetként szolgáló csillag aszerint lett kinevezve, ahogy látható volt vagy sem. Az emberi emlékezet így működik: "*Out of sight, out of mind.*" Ha nem látom, nem marad meg emlékezetemben (hogy miért is volt fontos). [[M/Mozgó név\|Mozgó nevek]]ről tettünk említést.  
