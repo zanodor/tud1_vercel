@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BOT/","title":"BOT","created":"2023-11-21T11:37","updated":"2024-10-24T16:12"}
+{"dg-publish":true,"permalink":"/B/BOT/","title":"BOT","created":"2023-11-21T11:37","updated":"2025-05-03T10:56"}
 ---
 
 
@@ -20,7 +20,7 @@ Legutóbb amikor [[R/Rúna\|rúna]] címnél az Ipolyi által megadott ónémet 
 > Beth-Anu jelentése Isten Háza. Bethany volt a bibliai Lázár és húgai, Mária és Márta lakóhelye, mely egyiptomi eredetre vall: Osiris és húgai Isis és Nephtys Annu házában laktak.  
 - Innen Péterfai János ház és Ég Királynője etimonjai.
 
-A ([[B/Bodega\|bodega]] és) [[B/Boutique\|boutique]] szónak megfelelő dán `butik` = bolt szó láttán ötlött fel, hogy [[B/Bolt\|bolt]] szavunk bót formája az, amit BOT, [[B/BAT\|BAT]] = ház, kis ház (bódé) jelentéssel ismertünk.  
+A ([[B/Bodega\|bodega]] és) [[B/Boutique\|boutique]] szónak megfelelő dán `butik` = bolt szó láttán ötlött fel, hogy [[B/Bolt\|bolt]] szavunk "bót" formája az, amit BOT, [[B/BAT\|BAT]] = ház, kis ház (bódé) jelentéssel ismertünk.  
 Persze jóval több a B-D vázú szó, mely alapjelentése ház, sőt, [[P/Pajta\|pajta]] is hasonló, ahol CzF adatával kapunk más nyelvekből hasonló szavakat:  
 > Egyezik vele a házat jelentő héber `bajith`, `beth`, arab `bejt`. Ide sorozható a persa `pájga` (ól), német `Bude`, lengyel `buda`, orosz `bodka` is, stb.  
 
@@ -47,7 +47,7 @@ Bot szónál írja CzF:
 
 Igen érdekes, amit még Csodaszarvasában Magyar Adorján itt ír:  
 > A hármas elágazású fáknál a középső ág, mivel az ott kevesebb napfényt kapott, többnyire elcsenevészedett, majd el is száradott, úgy hogy idővel csak kis csonkja maradott meg. Az ilyen fák törzséből azt megfordítva, készítették az ősök hímistenségeik bálványait, az ágcsonkot penisként fogva föl, míg a kétágú villás elágazásúakból nőistenségeik bálványai készültek. Az ilyen fák elágazásában pedig a női szeméremrészhez valóban meglepően hasonlító képződményt látunk.  
-- [[F/Fa#Kétágú fa\|Kétágú fa]] és [[F/Fa#Három ágú fa\|három ágú fa]] cím/alcímnél láttuk már ezen adatokat.  
+- [[F/Fa#Kétágú fa\|Kétágú fa]] és [[F/Fa#Három ágú fa\|három ágú fa]] cím/alcímnél láttuk már ezen adatokat.
 
 #### Jankovics Marcell...
 
@@ -69,7 +69,8 @@ Másrészről a [[P/PAR\|PAR]] és [[P/PER\|PER]] címnél előjövő ház jelen
 
 Botot jelentő szavak utódnyelveinkben a latin `baculum`, görög `klēros` (lásd [[C/Clergy\|clergy]]), [[C/Canon\|canon]], [[C/Crosier\|crosier]] ([[C/Crook\|crook]] – ahol a mellékelt képen kutya is szerepel!), [[S/Sceptre\|sceptre]], [[S/Staff\|staff]], [[S/Stave\|stave]], [[S/Stick\|stick]], [[W/Wand\|wand]], stb. Az [[E/Egyiptom istenei\|Egyiptom istenei]] címnél szereplő [[F/Fomenko, Anatolij\|Fomenko]] könyvéből vett kép és képfelirat tanúsága szerint az egyiptomi "istenek," (így idézőjelbe teszi ő is) abszolút többségéhez csillagászati jelentés társítható, legalábbis a bolygót jelképező botokkal rendelkezők mindenképpen. Lásd még erről [[B/Botos istenek\|botos istenek]].  
 
-A botos istenek közül a legfőbb Orion, akinek Bot-Úr ([[B/Bátor\|bátor]], [[P/Pater\|pater]]) nevei azért is érthetőek, mert az [[O/Orion övcsillagai\|Orion övcsillagai]]nak népi magyar nevei közül a [[P/Pálca\|pálca]] és [[P/Pózna\|pózna]] címnél említett Aranypálca, Bírópálca, Inzsellérpózna, Jákob pálcája, Szent Ilona pálcája, Úr pálcája nevek mellett [[J/Juhászbot\|juhászbot]], Koldusbot és Pásztorbot nevek is ismertek.  
+A botos istenek közül a legfőbb Orion, akinek Bot-Úr ([[B/Bátor\|Bátor]], [[P/Pater\|Pater]]) nevei azért is érthetőek, mert az [[O/Orion övcsillagai\|Orion övcsillagai]]nak népi magyar nevei közül a [[P/Pálca\|pálca]] és [[P/Pózna\|pózna]] címnél említett Aranypálca, Bírópálca, Inzsellérpózna, Jákob pálcája, Szent Ilona pálcája, Úr pálcája nevek mellett [[J/Juhászbot\|juhászbot]], Koldusbot és Pásztorbot nevek is ismertek.  
+- Mivel Bot Ház jelentésű is, és a Ház (a Nap Háza) az Égbolt, Nimród-Orion az Ég Ura ([[O/Orion\|Orion]] nevének értelmezése szerint is), azaz pusztán botosként gondolni rájuk nem is elegendő.
 
 Bot (pálca) és [[G/Gyűrű\|gyűrű]] ([[K/Kehely\|kehely]]) princípiumokról (második) táblázatot lásd [[F/Fény és anyag\|fény és anyag]].  
 
@@ -77,6 +78,12 @@ Bot (pálca) és [[G/Gyűrű\|gyűrű]] ([[K/Kehely\|kehely]]) princípiumokról
 
 ...című művében ([[T/Tölgy\|tölgy]] és más címnél is szerepeltek ezen adatai):  
 > Magyar fény-jelképünk az egyenlő szárú [[K/Kereszt\|kereszt]]. Régente az első tűzcsiholó szerszám; az egymáshoz dörzsölt két bot képének tartották. Fentiek szerint azonban e jelkép még sokkal ősibb tudathoz vezet; a fény terjedését, s annak egymásra merőleges voltát fejezi ki. A [[G/Gyula\|Gyula]] méltóság történelmi idők vesszőkötegeinek jelentése viszont ősibb szinten a fenti "energia kötegeket" jelképezte. (Karácsony című művemben kitértem arra, hogy a Gyula jelvény feltétlenül napsugárral kapcsolatos eredetre mutat.)  
+
+## B-T, P-T szóvázú és az ezek megfordításaiként látandó T-P szóvázú szavak és jelentéskörük
+
+Az óegyiptomi  `p-t` = ég, égbolt (vö. rokon vázú magyar "bót"-[[B/Bolt\|bolt]]) hangjainak megcserélésével kiadódik [[T/Top\|top]]/[[T/Tepe\|tepe]] és az ezekkel kapcsolatba hozott [[D/Domb\|domb]] (mely változata: [[G/Gömb\|gömb]]): a föld feletti látszólagos kupola alakot formáló félgömbnek felel meg.  
+Kérdés, hogy ez a B-T/P-T szóváz nem-e a [[Z/Zsúp\|zsúp]]/doₘb formákban található mássalhangzó-váz megfordításaiként értékelendő? Talán nem.  
+Mindenesetre mindkét szóváz jelentéskörében fellelhető [[S/Szakrális geometria\|szakrális geometrikus]] átfedés.  
 
 
 
