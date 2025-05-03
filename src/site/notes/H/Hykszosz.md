@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated","renameitmaybe"],"created":"2023-10-31T08:16","updated":"2024-10-25T21:53"}
+{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated","renameitmaybe"],"created":"2023-10-31T08:16","updated":"2025-05-03T11:03"}
 ---
 
 
@@ -77,7 +77,7 @@ Ezek az események a bibliai Exodussal egybevágóak, és a Kubínyi Tamás ált
 
 > A Tifont görög névnek mondják, holott abban az időben még nem léteztek görögök, de a magyar károk, vagy kérek igen. Maga a hykszósz név is magyar, mert a\[z egyiptomi\] Hekau Haszut \[melynek a puszták fejedelmei értelmet[^4] adják\] a Hékák Házai fogalmat jelentik, a hékások meg ma is mi vagyunk.  
 > [[H/Heka\|Heka]] isten nevét Varázslatnak értelmezik. Mivel a magyarok voltak a legnagyobb tudósok, ilyen értelemben a név csak a tulajdonságot írja le, de nem a valódi jelentést. He-Ka a név helyes felbontása, a He Nap, a Ka Ház. A magyarok a Hékások népe, akik a Nap Házából valók. Kétségtelen, hogy régi nevünk a Heka. A görög `Hekaton` – Száz (lásd [[H/Hekate\|Hekate]]), de a nagy számok, amint sikerült azonosítani, általában a csillagos égbolt neveiből keletkeztek, mégpedig magyar névadással.  
-- Lásd minden továbbit [[H/Heka\|Heka]]. 
+- Lásd minden továbbit [[H/Heka\|Heka]].
 
 #### Zajti Ferenc Zsidó volt-e Jézus...
 
