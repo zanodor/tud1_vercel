@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Eszter/","title":"Eszter","tags":["Englishtexttranslated"],"created":"2023-10-22T02:45","updated":"2024-10-25T17:20"}
+{"dg-publish":true,"permalink":"/E/Eszter/","title":"Eszter","tags":["Englishtexttranslated"],"created":"2023-10-22T02:45","updated":"2025-05-03T09:28"}
 ---
 
 
@@ -35,7 +35,7 @@ Az Eszter és [[E/Eszterha\|eszterhaj]] tehát asztrális elnevezések: minden �
 ...szerint is a latin `sterilis`-t megelőzi a görög és a szittya/magyar ([[S/Sterile\|sterile]] címnél is megvolt):  
 > A magyar ester szó (csillag jelentésén túl) \[a Magyar tájszótár 112. oldalának és Cserey Elek adata szerint a székely `ester` = magtalan jelentésű\] meddő is volt, hiszen a görögben `szteria` = meddő (általában tehénre értve).  
 - Aczél szerint a szittya nyelvben \*eszteria lehetett. Másutt [[C/Csíra\|csíra]] szavunkkal veti össze a görög `szteira` szót; valljuk meg, ez utóbbi szimpatikusabb. Práczki István Szittya Biblia című könyvének csírátlanításról és sterilizálásról szóló adatát lásd [[T/Tiszta\|tiszta]]. Ő Aczél adatára látszik építeni.  
-(A meddő csillag a kihúnyófélben lévő vagy kihunyt csillag, így, mint oly sok más esetben, itt is valóban csillag-vonatkozásokat kell/lehet keresni. Az igaz viszont, hogy a görög `hustera` = anyaméh jelentésű, és erre, a méhre is vonatkozhat a meddő.)  
+(A meddő csillag a kihunyófélben lévő vagy kihunyt csillag, így, mint oly sok más esetben, itt is valóban csillag-vonatkozásokat kell/lehet keresni. Az igaz viszont, hogy a görög `hustera` = anyaméh jelentésű, és erre, a méhre is vonatkozhat a meddő.)  
 
 Ezen a ponton jegyezzük meg, hogy [[H/Hágár\|Hágár]] címnél írottak szerint [[S/Sára\|Sára]] is meddő volt: azaz a meddő = szűz összefüggést tárhatjuk fel, ahol szűz = [[S/Szűzanya\|Szűzanya]].  
 Az, hogy a tehén meddősége szóba jött, azért is érdekes, mert [[S/Szarv\|szarv]] címnél szintén szó volt s tehén szaporító szervrendszeréről.)  
