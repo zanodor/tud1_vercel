@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2025-03-13T03:31"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2025-05-03T11:05"}
 ---
 
 
@@ -13,7 +13,7 @@ Erről már [[T/Tejút#Nagy Éves szempontból a Tejút (Világfa) melyik asztro
 
 ...című könyvében [[M/Makara\|Makara]] úgy jön elő, mint a Tejútanya vulva-szája, nyílása[^1] ...  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/m/makara/#6panc5" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Makara/#6panc5" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -231,7 +231,7 @@ Közben John Major Jenkins Galactic Alignment c. könyvének 90. oldalán írott
 
 A hivatalos nézet szerint egyrészt a Föld bolygó nem egészen gömbölyű volta és a Nap és a Hold együttes gravitációs hatása okozza, de a Binary Research Institue-nál Walter Cruttenden és (előfutár) csapata (Karl-Heinz Homann és fia Uwe) támadja ezt az elméletet, mégpedig azon az alapon, hogy a számítások azt igazolják, hogy a [[S/Szíriusz\|Szíriusz]] (nagymértékben) nem változtatja helyét az égen, a többi "állócsillaggal" ellentétben. Nem véletlenül használták az óegyiptomiak (és a dogonok) naptári célokra (lásd [[S/Sothic\|Sothic]]) tehát Szíriuszt: a Karl-Heinz Homann és W. Cruttenden-féle adatok azt fedik fel, hogy a Szíriusz azért nem változtatja helyét, mert egyenesen az (annak a feltételezhetően Szíriusz A-B-(C?) rendszernek plusz a (Magor) Napunk gravitációja) okozza a precessziót (évente 50.26" elmozdulást okozva).  
 
-Az igazsághoz hozzátartozik, hogy KHH előtt D'Alembert és mások is 50"-re módosították az elmozdulást, de nem ismerték fel az okát.   
+Az igazsághoz hozzátartozik, hogy Karl-Heinz Homann előtt D'Alembert és mások is 50"-re módosították az elmozdulást, de nem ismerték fel az okát.   
 Sőt, a tudomány is elismerte, hogy a mozgások okát nem ismeri:  
 > In 2006 the IAU declared the precession nutation model is "not consistent with dynamical theory" (IAU P03).  
 > —  
@@ -241,7 +241,6 @@ A sziderikus és tropikus napév hivatalosan terjesztett \[általam [[G/Gergely-
 ![assets/Precesszió_image8.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image8.png)  
 
 > [!DEFINITIONS]
->
 > **Sidereal year**:  the period during which Earth makes a complete 360° revolution in its orbit around the sun, as measured with respect to the position of the fixed stars or inertial space.
 >
 > **Tropical year**:  the period during which Earth makes a complete 360° revolution in its orbit around the sun with respect to the position of the vernal equinox. The defined time interval of the tropical year for 1900.0 is 31,556,925.97474 seconds.  
@@ -280,13 +279,13 @@ A másik kérdés UH adatai kapcsán, hogy nem azért nem talált eltérést, me
 
 > A dynamic Solar System model simplifies earth orientation and coordinate systems issues: the earth goes around the sun 360 degrees in a tropical year with a relatively stable axis (except for [[N/Nutation\|nutation]] and purely local effects). Most of its major motion (50.290966" per year in J2000) is because **the solar system moved by this amount NOT because the earth wobbled by this amount**.  
 > —  
-> A dinamikus Naprendszer-modell leegyszerűsíti a földi tájolás és a koordinátarendszerek kérdéseit: a Föld egy tropikus évben 360 fokban kerüli meg a Napot, viszonylag stabil tengellyel (kivéve a [[N/Nutation\|nutáció]]t és a tisztán helyi hatásokat). Nagyobb mozgásának nagy része (50,290966" évente J2000-ben) azért van, mert **a Naprendszer ennyit mozdult el, NEM azért, mert a Föld ennyit billegett**.
+> A dinamikus Naprendszer-modell leegyszerűsíti a földi tájolás és a koordinátarendszerek kérdéseit: a Föld egy tropikus évben 360 fokban kerüli meg a Napot, viszonylag stabil tengellyel (kivéve a [[N/Nutation\|nutáció]]t és a tisztán helyi hatásokat). Nagyobb mozgásának nagy része (50,290966" évente J2000-ben) azért van, mert **a Naprendszer ennyit mozdult el, NEM azért, mert a Föld ennyit billegett**.  
 > ![assets/Precesszió_image9.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image9.png)  
 > ![assets/Precesszió_image11.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image11.png)  
 > The observable of the stars moving across the sky by about 30 degrees per 2000 years (a.k.a. precession) is most likely a geometric effect like parallax (due to the motion of the Solar System), having very little to do with local dynamics. With this knowledge, the precession nutation model can be simplified and problems can be solved.  
 > —  
 > A csillagok 2000 évenként mintegy 30 fokos mozgása az égbolton (más néven precesszió) valószínűleg egy geometriai hatás, mint a parallaxis (a Naprendszer mozgása miatt), és nagyon kevés köze van a helyi dinamikához. Ennek ismeretében a precessziós nutációs modell egyszerűsíthető és a problémák megoldhatók.  
-- Nála már kissé nagyobb az 50 szögmásodperces érték, de nem [[K/Kilences számrendszer\|kilences számrendszer]]-alapú az sem.  
+- Nála már kissé nagyobb az 50 szögmásodperces érték, de nem [[K/Kilences számrendszer\|kilences számrendszer]]-alapú az sem.
 
 50 szögmásodperc elmozgás vagy több? 25920 év vagy kevesebb?  
 
@@ -329,7 +328,7 @@ Mindezt úgy, hogy nincs tisztában azzal sem, hogy az időszalag manipulált le
 - Nyilván ez az információ volt az, ami alapján [[A/Az aranyhajú királyfik mese\|Az aranyhajú királyfik mese]] elemzésében is ezt írja:  
 > Szíriusz égi magatartását, fél évig láthatatlan, de január 1-én teljes fénnyel ragyog és uralkodik a csillagok felett. Aztán július 1-én reggel együtt kel fel a nappal a horizont legalsó rétegében. Ettől kezdve emelkedik újra felfelé, hogy január 1-én az égbolt tetejére érjen és újra találkozzék férjével az Orionnal.  
 
-- Az iménti meseelemzésre is hivatkozó Hampó József – Gyárfás Ágnes fia – A Kaukázusi juhászkutya ősi pecséthengereken című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében – anyja tanítása szerint – még ráadásul a [[G/Galactic centre\|Galactic centre]] címnél is szereplő információknak (lásd oszcillállásáról szóló részt; [[O/Orion övcsillagai\|Orion övcsillagai]] címnél bővebben) megfelelően – írja:  
+- Az iménti meseelemzésre is hivatkozó Hampó József A Kaukázusi juhászkutya ősi pecséthengereken című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében – anyja tanítása szerint – még ráadásul a [[G/Galactic centre\|Galactic centre]] címnél is szereplő információknak (lásd oszcillállásáról szóló részt; [[O/Orion övcsillagai\|Orion övcsillagai]] címnél bővebben) megfelelően – írja:  
 > Egyszerre repültek magasba Orion-Nimrud, Szíriusz és a Nagy Kutya, mert Kr. e. 4-5 ezer évvel korábban az Orion nem december 21-24 között "repült magosba" vagyis delelt, hanem január elsején, pontosan egyszerre Sziriusszal. Az Orion azonban olyan csillagkép, amely együtt mozog a Nagy Napév precessziós /hátramozgó/ forgásával és ezért lemaradt a Szíriusz mellől. Ma a Szíriusz január elsején kúszik fel mellé az ég közepére. Így is együtt uralkodnak a csillagok felett, mint király és királynő, az elmaradhatatlan csodaszép Nagy Kutyájukkal.  
 
 #### Mahler Ede Ókori chronologiai kutatások...
@@ -344,7 +343,7 @@ Azt tehát nem magyarázza meg, miért kell kerekszámban számolni, vagy miért
 Egy helyen megint írja, de mennyire csak találomra, azaz mi a tényleges csillagászati összefüggése, nem tudom:  
 > Ismeretes, hogy a praecessiós év az égi kerekév (= 1440 év) és a babyloniai Saros-periodusának (= 18 év) a terméke.  
 > A babyloniaknál u. i. a tavaszpontnak helyi változása (vagyis a praecessió) 72 évben egy fokot tett ki; így tehát az egész körnek, azaz 360 foknak, vagyis a praecessiós évnek 360x72 = 25920 év felel meg. Ezzel azonban a praecessiós év analóg volt a közönséges évvel, a melynek mint kerek évnek 12 harmincznapos hónapja volt; a mennyiben u. i. a nap 12 Kasbu-ra, a kasbu pedig 6 Sussu-ra volt osztva, úgy az évnek 12 x 30 x 12 x 6 = 25920 Sussu-ja volt.  
-- A kasbu az [[H/Hour\|hour]] címnél taglalt naptizenketted azaz kettősóra.  
+- A kasbu az [[H/Hour\|hour]] címnél taglalt naptizenketted azaz kettősóra.
 
 ## Precesszió iránya
 
