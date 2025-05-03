@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/AR, ÁR/","title":"AR, ÁR","tags":["containstransclusions"],"created":"2024-10-31T14:37","updated":"2025-02-24T22:11:10Z"}
+{"dg-publish":true,"permalink":"/A/AR, ÁR/","title":"AR, ÁR","tags":["containstransclusions"],"created":"2024-10-31T14:37","updated":"2025-05-03T10:54"}
 ---
 
 
@@ -83,7 +83,7 @@ A Tibold Szabina Ágnes Fényben járni, fénnyé válni című Ősi Gyökér 20
 ![assets/ArAr_image2.png|invert_dark](/img/user/A/assets/ArAr_image2.png)  
 [[A/Alma\|Alma]] címnél is szerepelt Oldenkamp adata:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/a/alma/#e7ru8" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A/Alma/#e7ru8" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -109,7 +109,7 @@ Lásd még továbbá [[A/ÁR\|ÁR]], [[A/Árgyilus\|Árgyilus]], [[A/Arany\|aran
 
 ## UR (AR, ÁR) és párjainak (ÉL, IL) előtételezése
 
-Azért került ezen szócikkhez és nem [[U/UR\|UR]] címhez, mert az [[A/A\|A]] címnél szereplő diagram főbb alapszavai inkább 'a' hangunkat tartalmazzák (BAR, TAR, stb.). Igaz ugyan, az Úr(isten) t-előhangos neveiben inkább o/u szerepel ([[T/Tura\|Tura]], [[T/Thor\|Thor]], [[N/Numi Tórem\|Numi Tórem]]).  
+Azért került ezen szócikkhez és nem [[U/UR\|UR]] címhez, mert az [[A/A\|A]] címnél szereplő diagram főbb alapszavai inkább 'a' hangunkat tartalmazzák (BAR, TAR, stb.). Igaz ugyan, hogy az Úr(isten) t-előhangos neveiben inkább o/u szerepel ([[T/Tura\|Tura]], [[T/Thor\|Thor]], [[N/Numi Tórem\|Numi Tórem]]).  
 
 #### Kállay Ferenc A pogány magyarok vallása...
 
@@ -119,6 +119,8 @@ Azért került ezen szócikkhez és nem [[U/UR\|UR]] címhez, mert az [[A/A\|A]]
 > ...a régi bask `noro` = Gott (Allg. Lit. Z. Ergänz. Blätter 1843. Sept. Nro 83.). ([Lásd 332. old.](zotero://open-pdf/library/items/DFI47XPY?page=332&annotation=CRJK5WWX))  
 >
 > Láttuk már az Ur `Herr`, wir, scytha aj-or, örmény `Ahr` stb. szó alakokat, mikhez a kurd `ár` (vir) siami `bhura` = ur (Ritter IV. 76.) a görög `kuros`, s `kurios` (=ur), a persa `cyrus` \[lásd [[C/Cyrus\|Cyrus]]\], `kyros` név (= sol) s Ariamnes név (urat jelentő névszó Svidus szerint Bayert hist. osroen pag. 81.), adhatok azon megjegyzéssel, hogy vir korántsem a magyar ur, hanem a magyar férj kelta nyelvben `gwr`, `fear`, sankritul `vara` (W. J. B. CII. p. 126.). Lepsius által kiadott régi italiai edényfeliratókban `fir` (Gelehrte Anzeig. 1843. May Nro 25. München). Bopp is a kelta `fear`, `fer` ( = vir), a sanskrit `vara` szóval ugyanazonitá (l. Pictetet Journ. as. 1840. Nro 51. p. 234), syrjánul is `ver` = férj, `verōsös` = férjet, `verossaja munny` = férjhez menni (Gablencz Grundzüge der syrj. Grammat. p. 6. 39.); **a bh, v, f, g az elősorolt szókban csak előtételek**, meghosszitásai s erősbitései a törzsnek, igy van a `Tur` név szóval is a dolog, mely istent, urat, hegyet, óriást, villámzót s. a t. jelentett, s minden phasisaiban az ur szó jelentéseinek osztozkodik, még abban is, hogy persa hagyományok szerint valamint Ir Feridun fia Iránnak, ugy testvérje Tur Turán országnak ( = Aniran vagy a mi nem Irán föld) nevet adott. Ha végre az ur szó különösben embert is jelent, még pedig a nemesebb fajt, a férfi-nemet a parancsolói, azon sem akadhatuk fel, mert a mann szóval szinte igy van a dolog (l. meny) s mint ott van menyecske, meny, menyasszony, ugy itt is van `ara` = meny asszony, Irene (= a persa schirin Herbelot t. 3. p. 378. t. v. p. 203.). Here, vagy Juno, Aurora, ki a fiatal szép Orionba beleszeretvén, azt csillaggá változtatta stb. Hogy a Mann a nemzetek neveiben is közönséges láttuk, az ur vagy Er szóval is történt Cattuarii, Bruetvarii, widioarii stb. a vir szóval szinte igy van a dolog "Angri-varii, Aniivarier, az angelsax és skandinav népfajok közt Herfon-vare, Cont-vare, Fort-vari. Hogy az Er a névszókban a Mann szerepét viseli, a germán nyelvben azt Soltan Adelunghoz való toldalékában fel is jegyezte. ([Lásd 338. old.](zotero://open-pdf/library/items/DFI47XPY?page=338&annotation=K3KB4Z79))  
+
+Az is igaz, hogy nemcsak ezen alapszavak bővíthetők, és nemcsak [[N/N#N- előtét\|n]]/ny hangokkal. L-előhang (ha r nem is) is elképzelhető, pl. ív = elhajlás kapcsán jutott eszembe, hogy [[L/Leave\|leave]]/[[L/Left\|left]] az egyenestől való eltérésre vonatkozhatnak.  
 
 ## Lábjegyzetek
 
