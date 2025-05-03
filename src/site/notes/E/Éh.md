@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Éh/","title":"Éh","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-11-06T16:20","updated":"2025-03-05T23:25"}
+{"dg-publish":true,"permalink":"/E/Éh/","title":"Éh","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-11-06T16:20","updated":"2025-05-03T11:02"}
 ---
 
 
@@ -20,7 +20,7 @@ Amit Magyar Adorján ír éha szóról:
 ### Az ívás/nemzés nyári napfordulós helye
 
 Fontos is szólnunk arról, hogy az éh megfelel az [[I/Ív\|ív]] (és [[I/Íj\|íj]]) szavaknak és [[H/Hunger\|hunger]], [[K/Khamor\|Khamor]], valamint [[H/Homorú\|homorú]] címnél írottak alapján egy csillagászati hátterű témát sikerült feldolgozni, de legalábbis a vizsgálati alapokat lerakni: a nyári napfordulón van a nemzés (amikor a Nap legmagasabbra hág, akkor a legerősebb és Szíriusszal is akkor kel együtt, mely Szíriusz kapcsán lásd még [[K/Kutyanemzés\|kutyanemzés]]).  
-Az [[I/Ív\|ív]] címnél is taglalt, [[E/EB\|EB]] = [[I/Ív\|ív]] = [[I/Íj\|íj]] összefüggései alapján taglalt joruba `ìfẹ́`/`ife` = szerelem szót (lásd [[E/EB\|EB]] címnél, külön alcím alatt) éh ≈ vágy szóval is lehetséges megfeleltetni. Még inkább a japán `aj` = szerelem szó is közvetlenül éh/áh-ít szavunkkal feleltetendő meg (nem a török Holdat jelentő Aj-jal vagy a magyar ajz-zal).  
+Az [[I/Ív\|ív]] címnél is taglalt, [[E/EB\|EB]] = [[I/Ív\|ív]] = [[I/Íj\|íj]] összefüggései alapján taglalt joruba `ìfẹ́`/`ife` = szerelem szót (lásd [[E/EB\|EB]] címnél, külön alcím alatt) éh ≈ vágy szóval is lehetséges megfeleltetni. Még inkább a japán `aj` = szerelem szó is közvetlenül éh/áh-ít szavunkkal feleltetendő meg (nem a török Holdat jelentő `Aj`-jal vagy a magyar [[A/Ajz\|ajz]]-zal).  
 [[H/HAM\|HAM]] címnél is szóba került az éhség és a nyári napfordulós téridőbeli pont.  
 A folklórban az evés gyakran az intim kapcsolat metaforája.  
 Az éh(om), az almából evés, valamint a [[H/Hysteria\|hysteria]] címnél álló adat, hogy a méh tápláléka az ondó, mind ide tartozik.  
@@ -30,13 +30,14 @@ A nemzés kapcsán elhangzott [[E/Éva\|Éva]] címnél is, hogy az evés a mít
 [[F/Féreg\|Féreg]] címnél ír mitológiai adatokat találunk:  
 Például [[C/Concobar mac Nessa\|Concobar mac Nessa]] születése kapcsán:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/c/concobar-mac-nessa/#fb75s" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/C/Concobar mac Nessa/#fb75s" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 > An omen came to her one day: Two worms appeared in a pail of water from a holy well. Nessa drank them down, thus becoming pregnant (see pregnancy through drinking), but through her magical power she assured that the child was born clutching one of the worms, so that no one would mistake the future hero for Cathbad's son.  
 > —  
-> Egy nap egy ómen érkezett hozzá: Két féreg jelent meg egy vödör vízben, ami egy szent kútból származott. Nessa megitta őket, így teherbe esett (lásd terhesség ivással), de mágikus erejével biztosította, hogy a gyermek az egyik férget szorongatva szülessen, hogy senki ne tévessze össze a leendő hőst Cathbad fiával. 
+> Egy nap egy ómen érkezett hozzá: Két féreg jelent meg egy vödör vízben, ami egy szent kútból származott. Nessa megitta őket, így teherbe esett (lásd terhesség ivással), de mágikus erejével biztosította, hogy a gyermek az egyik férget szorongatva szülessen, hogy senki ne tévessze össze a leendő hőst Cathbad fiával.  
+
 
 </div></div>
 
@@ -78,6 +79,7 @@ card "magyar <color:#e7545c>űr</color>" as űr
 card "magyar <color:#e7545c>éj</color>" as éj
 card "latin <color:#e7545c>egere</color>" as egere
 card "magyar <color:#e7545c>akar</color>" as akar
+card "egyiptomi <color:#e7545c>ag</color>" as ag
 card "magyar <color:#e7545c>áhít</color>" as áhít
 card "magyar <color:#e7545c>hiú</color>" as hiú
 card "magyar <color:#e7545c>hív</color>" as hív
@@ -95,6 +97,7 @@ card "magyar <color:#e7545c>ék</color>" as ék
 éh -- éj : jelentés
 éh -- egere : jelentés
 éh -- akar : jelentés
+akar -- ag : jelentés
 éh -- áhít : jelentés
 éh -- hiú : megfordítás
 hiú -- hív : rokon értelmű
