@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Plow/","title":"Plow","created":"2025-03-06T02:36","updated":"2025-04-04T22:56"}
+{"dg-publish":true,"permalink":"/P/Plow/","title":"Plow","created":"2025-03-06T02:36","updated":"2025-05-03T11:05"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 [[S/Szánt\|Szánt]].  
 A Götz László Keleten kél a Nap című könyvének 169. oldalán szumér-indogermán-szemita szavak párhuzamait bemutató szavak között a német `pflügen` = szánt szó mellé/elé a héber `palah` = szánt és a sumér `BULUG₂` = hasít igéket teszi.  
-[[P/Phalanx\|Phalanx]] és [[B/Balog\|Balog]] (illetve [[B/Barrack\|barrack]]) címnél hasonló szavakat láttunk.  
+[[B/Balog\|Balog]], [[P/Phalanx\|phalanx]] és [[B/Barrack\|barrack]] címnél hasonló szavakat láttunk.  
 Götz könyvének 178. oldalán szereplő táblázatos adatai:  
 
 | német                                                     | latin                                  | görög                             | héber         | arab          | asszír                       | szumér                                         | magyar                                               |
