@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-04-04T22:56"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-05-03T09:35"}
 ---
 
 
@@ -41,12 +41,24 @@ Mielőtt további példákkal szemléltetnénk, hogyan működik mindez a magyar
 > A szemita nyelvekben ugyanis a flexiós ragozás BABAB típusú szavakon megy végbe, amíg a magyar flexió AB vagy BA, nagyon egyszerű szavakon jelentkezik. Általában a magyar flexiós, hajlítós nyelvi jelenséget Szóbokor képződésnek nevezik. A magyar nyelvben a Flexió, vagy a Hajlítás sok tízezer évvel megelőzi a szemita nyelvekben megjelenő Flexálást, vagy Hajlítást, ami valójában az oldalra kitérést, az egyenestől való eltérést írja le, nyelvi alap jellegzetességként.  { #bjhh4f}
 
 - [[E/Éva#Khavva és héber qobbah\|Khavva és héber qobbah]] cím/alcímnél is írtuk:  
-Úgy tűnik, hogy már a magyar nyelv sémit megelőző archaikus flexiós fejlődésében lezajlott az ív alak h/k/g hangos toldásávali változatainak létrehozása. Ezek pl.: [[H/Hív\|hív]], [[K/KAP\|kap]], [[G/Göb\|göb]], [[K/Kúp\|kúp]], stb.  
+Úgy tűnik, hogy már a magyar nyelv sémit megelőző archaikus flexiós fejlődésében lezajlott az ív alak h/k/g hangos toldásávali változatainak létrehozása. Ezek pl.: [[H/Hív\|hív]], [[K/KAP\|kap]], [[G/Göb\|göb]], [[K/Kúp\|kúp]], stb.
+{ #p3kgqp}
 
-Götz László Keleten kél a Nap című könyvében is hoz példákat magyar és szumer nyelvre.  
-Képileg közlöm:  
-![assets/Flexió_image1.jpeg](/img/user/F/assets/Flexi%C3%B3_image1.jpeg)  
+-  CzF [[G/Gabona\|gabona]] címnél álló adata szerint a geb, gib, göb, gub gyökök általában meghajlást, görbeséget jelentenek, mint egyszerűn a g betű, különösebben pedig födést, födözést jelentenek, s az értelemárnyéklatokat csaknem egyedül az önhangzók teszik. Így gab is jelent födözést, valaminek felső részét, fejét, s rokonok vele a szanszkrit `kub` v. kup (am. födöz, fölemel), a német `Haufe`, `heben`, `Haupt`, `Kopf`, `Giebel`, `Gipfel`, latin `copia`, `capio`, `caput`, svéd `kopp`, `kappe`, olasz `coppa`, `capo`, hellen `kubh`, `kejalh` stb, végül ide tartozók még más rokon betükkel a magyar kúp, csúp, hápa-hupa stb. szók is.
 
+#### Götz László Keleten kél a Nap...  
+
+...című könyvében is hoz példákat magyar és szumer nyelvre:  
+> A ragozó nyelveknél alapvetően más a helyzet. Ezek ugyanis – mivel a nyelvtani viszonyokat ragokkal, képzőkkel, jelekkel fejezik ki – szabadon felhasználhatják az egész magánhangzó-skálát szemantikailag összetartozó szavak árnyalati megkülönböztetésére.  
+> Pl. **magyar:** HAL, HÁL, HULL; LAK, LIK, LUK, LÉK; ESZ-ik, ISZ-ik.
+> 
+> Már a ragozó sumér nyelv is alkalmazta a magánhangzóvariációkat egyrészt szinonimák, másrészt szemantikailag közel álló jelentésárnyalatok kifejezésére.  
+> **Sumér:**  
+> `BAR` (szétválaszt), `BUR₂` (széttép)  
+> `GAR` (körülzár), `GUR` (körülvesz)  
+> `GUR₄` (rohan), `GIR₄` (fut)  
+
+A magyar nyelv tehát belső működése szerint egyes hangokban alakváltoztatásokat ejt meg, hogy hasonló jelentésekkel hozzon létre új szavakat. Például [[V/VAK\|vak]] – fek(ete), fek(szik) (\[V-F\]). – Lásd még [[M/Mássalhangzók felcserélődése\|mássalhangzók felcserélődése]].  
 Az egyik legszemléletesebb példa magyar belső flexióra [[E/Egy\|Egy]] – [[A/Atya\|Atya]] ([[U/UTU\|UTU]]; [[A/Ad\|Ad]]) – [[A/Ász\|Ász]]/[[O/Ős\|Ős]] ([[A/Ács\|Ács]]) és persze ne felejtsük `egy` számnevünk más számneveinkben (2,4,5,6,7) való előfordulását sem.  
 ```plantuml-svg
 @startuml
@@ -84,8 +96,8 @@ head -up->w5 : "Sumér **Utu** napisten"
 Továbbá flexiós kapcsolatot találunk [[H/Huny\|huny]], [[H/Hany\|hany]] (mint [[H/Hanyatlik\|hanyatlik]]), [[K/KONY\|kony]] ([[K/Konyul\|konyul]]), [[K/KUM\|kum]] (`lekum` a Nap), valamint a Nap [[E/Ecliptic\|ekliptiká]]n való esésének téridőbeli pontját jelölő [[K/KAN\|kan]] ([[C/Canis Maior\|Canis Maior]]) (mely a [[G/Gonosz\|gon]]osz félévet nyitja), és sok más magyar-utód elnevezés (a Rák [[C/Cancer\|Cancer]] nevének előtagja, a Rák japán neve, stb.) között.  
 
 Ott van még a [[S/Süt\|süt]] ige [[S/Sötét\|sötét]]/[[S/Sötét\|setét]] szavak gyökével való megfelelése, [[K/Kör\|kör]] szóbokrunk olyan tagjai, mint [[G/Gyűrű\|gyűrű]], `gördül`, [[F/Fal\|fal]] főnév [[F/Fél\|fél]] szóval alkotott flexiós viszonya, vagy például felhívhatjuk a figyelmet [[E/Éh\|éh]] = [[A/Áhít\|áhít]], [[A/Akar\|akar]] szavak gyökeinek azonosságára.  
-A kutyára visszatérve, [[E/EB\|eb]] és [[A/Apa\|apa]] szavaink [[I/Ív\|ív]] szavunkkal való viszonya említhető még ilyen szinten (lásd még témát [[L/Lemniszkáta\|lemniszkáta]]), de például magánhangzó cserével a [[M/Más\|más]] (lásd még [[M/MAS\|MAS]]) fiú, hős jelentése az, ami majd a [[M/Mese\|mese]] szavunk létrehozója is lesz.  
-Sok más szópár ismert: [[V/Vessző\|vessző]] – [[F/Fasz\|fasz]]; [[V/Víz\|víz]] szavunk [[V/Vedel\|vedel]], [[V/Vödör\|vödör]], [[V/Vád\|vád]]ol, [[V/Vese\|vese]] szavakban ugyanúgy megtalálható; fentebb említett [[H/Ház\|ház]] szavunk (közös gyöke) ismerendő fel olyan szavakban, mint [[H/HAS\|has]], [[K/KAS\|kas]], [[K/KÁD\|kád]], [[K/Kagyló\|kagyló]], stb.  
+A kutyára visszatérve, [[E/EB\|eb]] és [[A/Apa\|apa]] szavaink [[I/Ív\|ív]] szavunkkal való viszonya említhető még ilyen szinten (lásd [[G/Gene#^eeeksm\|gene]] címnél található diagramot megjegyzésekkel ill. még témát [[L/Lemniszkáta\|lemniszkáta]]), de például magánhangzó cserével a [[M/Más\|más]] (lásd még [[M/MAS\|MAS]]) fiú, hős jelentése az, ami majd a [[M/Mese\|mese]] szavunk létrehozója is lesz.  
+Sok más szópár ismert: [[V/Vessző\|vessző]] – [[F/Fasz\|fasz]]; [[V/Víz\|víz]] szavunk [[V/Vedel\|vedel]], [[V/Vödör\|vödör]], [[V/Vád\|vád]]ol, [[V/Vese\|vese]] szavakban ugyanúgy megtalálható; fentebb említett [[H/Ház\|ház]] szavunk (közös gyöke) ismerendő fel olyan szavakban, mint [[H/HAS\|has]], [[K/KAS\|kas]], [[K/KÁD\|kád]], [[K/Kagyló\|kagyló]], [[H/HAT\|hat]], mint [[H/Hathor\|Hathor]] névben, stb.  
 M>N változásra sok példa van; itt csak a magyar [[M/Magas\|magas]] szó gyökét mutassuk be [[N/Nagy\|nagy]] szavunk párjaként.  
 [[M/Magyar szavak, szórészek alakváltozatai\|Magyar szavak, szórészek alakváltozatai]] címnél korábban más példákat is bemutattunk.  
 A fentebb idézett Végvári József [[S/Szócsaládok\|szócsalád]]-rendszere is szavak hajlított hangjaiból épülő szópárjai közti lehetséges kapcsolatok feltárásában segíthet (pl. [[O/Ostya\|ostya]]/[[T/Tészta\|tészta]] ← [[T/Test\|test]]).  
@@ -108,7 +120,16 @@ A sémi (és indogermán) vonalon maradva...
 
 ...című könyvének 190. oldalán írja:  
 > A nyelvészet megállapítása, de a 4-5000 éves szumér nyelvemlékek tanúsága szerint is, a nyelvek legősibb tőszavai egyszótagúak voltak. Igen fontos tehát közelebbről is megvizsgálni, milyen eszközökkel képezték a nyelvek később kialakult két- és többszótagú szavaikat. Két szótagból – pontosabban három mássalhangzóból ("triszonancia") – álló alapszavak elsősorban a flektáló nyelvekre, az indogermánra és a szemitára jellemzőek. Ezen alapszavak azonban nem eredeti tőszavak, hanem úgy alakultak ki, hogy mivel a flektáló nyelvek a magánhangzók változatait úgyszólván teljes egészükben a nyelvtanban alkalmazzák, a szemantikai összefüggések jelölésére, a rokon fogalmak árnyalati megkülönböztetésére többnyire tőbővítésekhez kellett folyamodniuk. Idővel ezek a triszonanciák – vagy trikonszonanciák – annyira összeforrottak, hogy összetett voltuk ma már első pillantásra alig ismerhető fel.  
-![assets/Flexió_image2.png|invert_dark](/img/user/F/assets/Flexi%C3%B3_image2.png)  
+> 
+> Jól megfigyelhető ez a nyelvfejlődési folyamat a "gyors mozgás" alapjelentésű F-L tőmotívum különböző német származékainál:  
+> FAL-L-en = esni, FÜL-L-en = önteni, tölteni;
+> FL-IEG-en = repülni, FL-IEH-en = menekülni;
+> FL-UT-en = ömleszteni, dagasztani (vizet),
+> FL-ITZ-en = suhanni, iramodni, FL-IESS-en = folyni,
+> FL-ATT-ern = csapkodni (szárnyat).  
+> Láthatjuk, a német a legtöbb esetben tőbővítésekkel specializálja az alapjelentést. Más képet kapunk, ha a megfelelő latin szavakat nézzük meg:
+> FL-uo =folyik, PL-uo =esik (eső), BULL-io = ömlik, dagad (víz),
+> VOL-o = repül, PAL-us = mocsár, tó; BAL-N-eo =fürdik.
 
 Götz a 194. oldalon is folytatja még a flektáló és a ragozó nyelvek összehasonlítását.  
 
