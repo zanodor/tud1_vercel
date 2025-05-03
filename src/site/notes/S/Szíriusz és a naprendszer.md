@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a naprendszer/","title":"Szíriusz és a naprendszer","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-13T05:21","updated":"2024-10-26T00:30"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a naprendszer/","title":"Szíriusz és a naprendszer","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-13T05:21","updated":"2025-05-03T11:07"}
 ---
 
 
@@ -46,16 +46,16 @@ A [Binary Research Institute](http://binaryresearchinstitute.com/bri/introductio
 
 Egy, a munkásságukat követő William Brown nevű blogger is írja:  
 > Is there a candidate for binary revolution among the visible stars? Logically we could begin with the closest star to our own, which is Alpha Centauri. At a distance of 4.37 light years, it is the third brightest star and, as is common, it is itself a binary system.  
-> 
+>
 > Another star that shows evidence of being gravitationally bound within the system and is called Alpha Proxima. Alpha Proxima is 0.2 light years from Alpha Centauri AB, about 400 times the distance of Neptune's orbit from the Sun. This shows that a dual or poly star system does not have to necessarily be in close orbital interaction. However, Alpha Centauri lies at a declination of -60°, which is well out of the plane of the Solar System, and as such, has a near circumpolar motion in the sky.
-> 
+>
 > A more suitable candidate would be a star closer to the plane of the Solar System, or celestial equator. Sirius meets this criteria, at a declination of -17°. It is also the brightest star in the night sky, three times brighter than Alpha Centauri and twice as bright as the next brightest star Canopus. Sirius is also the 5th closest system of stars to our own. More significant is the fact that The Sirius Research Group has been recording the position of Sirius for approximately 20\[?\] years now and has not recorded any measurable alteration in its location relative to the precession.  
 > Celestial bodies in our Solar System show harmonic resonance with the Sirius system. Pluto and \[the planet-sized Kuiper belt object named\] Sedna[^1] are at an incline to the plane of the solar system of roughly 17°, the same as Sirius. Both have orbital periods of 250 years and 12,000 years, which are at 1:5 and 1:2 resonances with Sirius, respectively (12,000 years is roughly one half of the orbit of the Sun around Sirius, hence a 1:2 resonance).  
 > —  
 > Van-e a látható csillagok között kettősforgó-jelölt? Logikusan a hozzánk legközelebbi csillaggal kezdhetnénk, ami az Alfa Centauri. A 4,37 fényév távolságban ez a harmadik legfényesebb csillag, és ahogy az lenni szokott, maga is egy kettős rendszer.  
 >
 > Egy másik csillag, amely gravitációs kötődésre utaló jeleket mutat a rendszeren belül, és az Alpha Proxima nevet viseli. Az Alpha Proxima 0,2 fényévre van az Alpha Centauri AB-től, ami körülbelül 400-szor akkora távolság, mint a Neptunusz pályája a Naptól. Ez azt mutatja, hogy egy kettős vagy többszörös csillagrendszernek nem feltétlenül kell szoros keringési kölcsönhatásban állnia. Az Alpha Centauri azonban -60°-os deklinációban fekszik, ami jóval kívül esik a Naprendszer síkján, és mint ilyen, közel cirkumpoláris mozgást végez az égen.  
-> 
+>
 > Megfelelőbb jelölt lenne egy olyan csillag, amely közelebb van a Naprendszer síkjához vagy az égi egyenlítőhöz. A Szíriusz megfelel ennek a kritériumnak, -17°-os deklinációval. Emellett a legfényesebb csillag az éjszakai égbolton, háromszor fényesebb, mint az Alfa Centauri, és kétszer olyan fényes, mint a következő legfényesebb csillag, a Canopus. A Szíriusz az 5. legközelebbi csillagrendszer a miénkhez. Ennél is jelentősebb az a tény, hogy a Szíriusz Kutatócsoport már körülbelül 20\[?\] éve rögzíti a Szíriusz helyzetét, és a precesszióhoz viszonyított helyzetében semmilyen mérhető változást nem regisztrált.  
 > Naprendszerünk égitestjei harmonikus rezonanciát mutatnak a Szíriusz rendszerrel. A Plútó és a Sedna[^1] nagyjából 17°-os dőlésszögben áll a Naprendszer síkjához képest, ugyanúgy, mint a Szíriusz. Mindkettőnek 250 éves és 12 000 éves keringési ideje van, ami 1:5, illetve 1:2 rezonancia a Szíriusszal (12 000 év nagyjából a Nap Szíriusz körüli keringési idejének a fele, tehát 1:2 rezonancia).  
 
@@ -101,19 +101,19 @@ A jobb alsó ábrához tartozó részben jól írja [[N/Nibiru\|Nibiru]]-ról, h
 > "...let Nibiru be the holder of the crossing place of the heaven and of the earth."*  
 > ...the red star which stands in the south after the gods of the night \[the stars\] have been finished, dividing the sky in half, this star is Nibiru, (i.e., Marduk)." (note it's a red star, and this is often how the Ancients described Sirius)  
 > "Nibiru is his \[Marduk's in context\] star, which he made appear in the heavens ... The stars of heaven, let him \[Nibiru\] set their course; let him shepherd all the gods like sheep."
-> 
+>
 > What can be seen clearly here is that the term Nibiru is being used to describe a star, that this star sets the course of the other stars, that is to say that it is the source of their precession, and that it is the crossing point.  
-> 
+>
 > It is my supposition that Nibiru is referred to as a "crossing point" because when the Sun passed apastron and began its opposite revolution, Sirius would cross the sky. Not only did this crossing of Sirius mark the turning point in the Sun's orbit, but also the turning point in the Yuga cycles.  
-> 
+>
 > The new Sun-Sirius system model satisfies the observational behavior of Sirius and the constellations of the zodiac as they regress throughout the great cycle of 26,000 years. There is no need to introduce a "wobble" in the Earth's axis, induced by the action of 9 other celestial bodies – a theory which is just a relic from a time when the motion of the Solar System was not yet conceived.  
-> 
+>
 > It would be sagacious not to place Sirius at the center of the Solar System, for in a fractal system there is no true center. The fractal nature of the Universe engenders its self-arrangement, or more apropos, the Universe is a holofractal graphic system. Therefore there are many nested orbital interactions, going out as far as the local cluster of galaxies, which themselves have a focal point.  
-> 
+>
 > This is nothing new. Previous civilizations understood celestial mechanics at an advanced level, and the mathematical precision of their astronomical observations is a testament to this. The reason why the Egyptians and many other civilizations of that era used Sirius as their marker for the passage of time is because they picked the most stable object as their reference point.  
-> 
+>
 > We choose the Sun as our reference point, and this is obviously highly inaccurate. Every 4 years a day has to be added to keep accurate time. But even Sirius was not accurate enough for the "Keeper's of Time", the Mayans. With their remarkably advanced astronomy they quickly detected the inaccuracies in using Sirius as a marker for the passage of time, and switched to an even more accurate cycle involving the Pleiades. There is however an even more stable reference point than the Pleiades and that is the [[G/Galactic centre\|Galactic centre]], which from the perspective of our galaxy is the ultimate center of rotation.  
-> 
+>
 > And indeed the Mayan's chose the Galactic Center as a reference point to mark the passage of time, which is evident as the Mayan Long Count ends with the galactic alignment of the Solar System on December 21st 2012. Therefore, the idea that the **Earth orbits the Sun, or that the Sun orbits Sirius, or that Sirius orbits Alcyone** and that **Alcyone orbits the Galactic Nucleus**, is not revolutionary – it's just a rediscovery of lost knowledge.  
 > —  
 > A Nibiru kifejezés jól ismert, és ugyanilyen félreérthető. A babilóniaiak inkább leíró kifejezésként használták, mint egy konkrét objektumot jelölő névként. A babiloni csillagászatban egy csillag - és nem egy bolygó - leírására használták, amint az a Horowitz[^2] fordításaiból származó alábbi példákból is kiderül...
@@ -125,15 +125,15 @@ A jobb alsó ábrához tartozó részben jól írja [[N/Nibiru\|Nibiru]]-ról, h
 > Itt világosan látható, hogy a Nibiru kifejezést egy csillag leírására használják, hogy ez a csillag határozza meg a többi csillag pályáját, azaz ő a precessziójuk forrása, és hogy ő a kereszteződési pont.  
 >
 > Feltételezésem szerint a Nibirut azért nevezik "keresztező pontnak", mert amikor a Nap áthalad az apasztronon és megkezdi ellentétes forgását, a Szíriusz keresztezné az égboltot. A Szíriusznak ez az átvonulása nem csak a Nap pályájának fordulópontját jelezte, hanem a Yuga-ciklusok fordulópontját is.  
-> 
+>
 > Az új Nap-Szíriusz rendszer modellje kielégíti a Szíriusz és az állatövi csillagképek megfigyelési viselkedését, ahogyan azok a 26 000 éves nagy ciklus során visszafejlődnek. Nincs szükség a Föld tengelyének "imbolygására", amelyet 9 másik égitest hatása idéz elő - ez az elmélet csak egy reliktum abból az időből, amikor még nem fogalmazták meg a Naprendszer mozgását.  
 >
 > Nem lenne bölcs dolog a Szíriuszt a Naprendszer középpontjába helyezni, mert egy fraktálrendszerben nincs igazi középpont. Az Univerzum fraktáltermészete hozza létre önrendeződését, vagy még találóbban, az Univerzum egy holofraktál grafikus rendszer. Ezért sok egymásba ágyazott pályahatás van, egészen a galaxisok helyi halmazáig, amelyeknek maguknak is van egy középpontjuk.  
-> 
+>
 > Ez nem újdonság. A korábbi civilizációk fejlett szinten értették az égi mechanikát, és csillagászati megfigyeléseik matematikai pontossága ezt bizonyítja. Az ok, amiért az egyiptomiak és sok más korabeli civilizáció a Szíriuszt használta az idő múlásának jelölésére, az az, hogy a legstabilabb objektumot választották referenciapontnak.  
 >
 > Mi a Napot választjuk referenciapontnak, és ez nyilvánvalóan nagyon pontatlan. Minden 4 évben egy napot kell hozzáadni a pontos idő megtartásához. De még a Szíriusz sem volt elég pontos az "idő őrzőinek", a majáknak. Figyelemre méltóan fejlett csillagászatukkal gyorsan felfedezték, hogy a Szíriusz használata az idő múlásának jelzésére pontatlan, és áttértek egy még pontosabb ciklusra, amelyben a Plejádok szerepelnek. Van azonban egy még a Plejádoknál is stabilabb referenciapont, ez pedig a [[G/Galactic centre\|Tejútközpont]], amely a mi galaxisunk szempontjából a végső forgásközpont.  
-> 
+>
 > És valóban, a maják a Tejútközpontot választották referenciapontnak az idő múlásának jelölésére, ami nyilvánvaló, mivel a maják hosszú számlálása a Naprendszer galaktikus együttállásával ér véget 2012. december 21-én. Ezért az az elképzelés, hogy a **Föld kering a Nap körül, vagy hogy a Nap kering a Szíriusz körül, vagy hogy a Szíriusz kering az Alcyone körül** és hogy **az Alcyone kering a Galaktikus Mag körül**, nem forradalmi - ez csak egy elveszett tudás újrafelfedezése.  
 - Na ez az a rész, amivel viszont csínján kell bánni, Alcyone távolsága miatt is. Mindenesetre a babiloni-asszír ábrázolásokon sokszor szerepelnek hét pöttyel jelezve a [[P/Pleiadok\|Plejádok]]. Gavin White Babylonian Star Lore című könyvében pedig azt írja, hogy a [[M/Mulapin\|Mulapin]]-ban a Pleiadok kerültek a csillaglista élére, nem a Kos/Béres/[[L/Luhunga\|Luhunga]].
 
@@ -147,35 +147,35 @@ Aztán amikor TMSZ az internetes New Age-s [[A/Alcyone\|Alcyone]] csillaggal kap
 A sziderikus és tropikus napév hivatalosan terjesztett diszkrepanciájáról[^3] szóló elméletet cáfolja az idősebbik Homann fia, Uwe, ki megosztotta mindezt a Binary Research Institute-tal:  
 > The scientific arguments presented here[^4] have conclusively proven that the time intervals of the tropical year and the sidereal year are indeed equivalent. It is has been mathematically verified that the mean time interval of 31,556,925.97474 s is Earth's true 360° orbit period, implying that the equinoctial points do NOT retrograde around the sun. Hence, we can no longer subscribe to the erroneous conclusion that the 'precession of Earth' is a scientific fact.
 > However, the gradual displacement of the equinoctial points relative to inertial space does require a scientific explanation. The observations and the research done by Karl-Heinz Homann suggest that **our entire solar system is orbiting the Sirius system**.  
-> 
+>
 > The mean time interval of the sidereal year, as measured with respect to Sirius is nearly identical (by less than one second) to the time interval of the tropical year. According to the theory of 'precession', a yearly time difference of about 1223s is supposed to occur between a sidereal year and the tropical year.  
-> 
+>
 > As we know, the revolution of Sirius B and Sirius A around their common center of gravity over a period of about 49 years proceeds in an almost vertical plane relative to the planetary plane of our solar system.  
 > —  
 > Az itt bemutatott tudományos érvek[^4] meggyőzően bizonyították, hogy a trópusi év és a sziderikus év időintervalluma valóban egyenértékű. Matematikailag igazolták, hogy a 31 556 925,97474s átlagos időintervallum a Föld valódi 360°-os keringési ideje, ami azt jelenti, hogy a napéjegyenlőségi pontok NEM retrográd módon keringenek a Nap körül. Ennélfogva többé nem csatlakozhatunk ahhoz a téves következtetéshez, hogy a "Föld precessziója" tudományos tény.  
 > Az ekvinoktiális pontok fokozatos elmozdulása az inerciatérhez képest azonban tudományos magyarázatot igényel. A Karl-Heinz Homann által végzett megfigyelések és kutatások arra utalnak, hogy **az egész Naprendszerünk a Szíriusz-rendszer körül kering**.  
-> 
+>
 > A sziderikus év átlagos időintervalluma a Szíriuszhoz képest mérve majdnem azonos (kevesebb mint egy másodperccel) a trópusi év időintervallumával. A "precesszió" elmélete szerint a sziderikus év és a trópusi év között évente körülbelül 1223 másodperces időkülönbségnek kell lennie.  
 >
 > Mint tudjuk, a Szíriusz B és a Szíriusz A forgása a közös súlypontjuk körül mintegy 49 év alatt a Naprendszerünk bolygósíkjához képest majdnem függőleges síkban halad.  
 
-Úgy tűnik KHH számításai alapján, hogy 1989 koratavaszán (érdekes, mennyi minden történt akkor) állt együtt Szíriusz A, B és a Nap is:  
+Úgy tűnik Karl-Heinz Homann számításai alapján, hogy 1989 koratavaszán (érdekes, mennyi minden történt akkor) állt együtt Szíriusz A, B és a Nap is:  
 > Several major and minor fluctuations in sidereal time have occurred over certain periods throughout the years 1989 to 2000. For instance, a significant deviation from mean sidereal time occurred in the spring of 1989, when Sirius A, Sirius B and the Sun were in direct conjunction and Earth was still in the perihelion section of its orbit[^5].  
 > —  
 > A sziderikus idő több kisebb-nagyobb ingadozása történt bizonyos időszakokban az 1989 és 2000 közötti években. Például 1989 tavaszán, amikor a Szíriusz A, a Szíriusz B és a Nap közvetlen együttállásban állt, és a Föld még pályájának perihéliumi szakaszában volt, jelentős eltérés történt az átlagos sziderikus időtől[^5]. \[Binary Research Institute\]  
 
 Erről Walter Cruttenden bővebben is ír:  
 > Two other phenomena should be mentioned that took place during the **conjunction of Sirius A, Sirius B and the Sun around the beginning of February to the end of March 1989**, as the function of the time deviation entered from the negative into the positive range. During this time our outermost planet Pluto, whose revolution period of 248.421 years is exactly 5.0004 to 1 in relation to the Sirius B – Sirius A's orbit period of 49.68 years, went through the perihelion of its very eccentric orbit. On 23 March 1989 an 800 m long 'rock' came in strikingly close proximity to our earth at a speed of about 70.000 km/h. Missing our earth by only a few hours – thereby sparing us a gigantic catastrophe – it also went through its perihelion between sun and Sirius. Thanks to astronomers, who discovered it as it already disappeared again into the vastness of space, a major widespread panic was avoided. These celestial phenomena are not subject to plain coincidence, but are lawful celestial mechanical events. In fact, the Sirius system determines the second (empty) focus point, which is essential for the elliptic orbits of these and other celestial bodies in our solar system. Keep in mind that even our **Earth has its perihelion around January 2, as it passes through the conjunction of Sun and Sirius each year**.  
-> 
+>
 > Considering the direction and incline of the minor planet orbits it would appear that our solar system is being affected by the Sirius binary system. This system is equivalent to at least three solar masses. It is also the nearest star system where one of the companions is a white dwarf. Such stars are much denser than normal matter, meaning a teaspoonful of this dense matter would weigh about two tons. While there are other stars and star systems that are closer, none are as collectively heavy, and none contain a white dwarf. Consequently, the Sirius system makes the biggest dent in the local space/time fabric.  
-> Homann's **20-year experiment**, measuring the earth's daily rotation time relative to the star Sirius, detected changes in the earth's rotation period when Sirius B passed between Earth and Sirius A. If such a phenomenon can noticeably affect the earth's rotation, then it is logical to assume that the action of this nearby star system might also affect the entire solar system, especially the minor planets at the edge of the solar system.   
+> Homann's **20-year experiment**, measuring the earth's daily rotation time relative to the star Sirius, detected changes in the earth's rotation period when Sirius B passed between Earth and Sirius A. If such a phenomenon can noticeably affect the earth's rotation, then it is logical to assume that the action of this nearby star system might also affect the entire solar system, especially the minor planets at the edge of the solar system.
 > —  
 > Két további jelenséget kell megemlíteni, amelyek a **Szíriusz A, Szíriusz B és a Nap 1989. február eleje és március vége körüli együttállása** során történtek, mivel az időbeli eltérés függvénye a negatívból a pozitív tartományba lépett. Ez idő alatt legkülső bolygónk, a Plútó, amelynek 248,421 éves keringési ideje pontosan 5,0004:1 a Szíriusz B - Szíriusz A 49,68 éves keringési idejéhez képest, igen excentrikus pályájának perihéliumán ment keresztül. 1989. március 23-án egy 800 m hosszú "szikla" mintegy 70.000 km/h sebességgel feltűnően közel került Földünkhöz. Csak néhány órával kerülte el Földünket - megkímélve minket ezzel egy gigantikus katasztrófától -, de a Nap és a Szíriusz között is áthaladt a perihéliumán. Hála a csillagászoknak, akik akkor fedezték fel, amikor már ismét eltűnt az űr tágasságában, sikerült elkerülni a nagy, széleskörű pánikot. Ezek az égi jelenségek nem a puszta véletlennek vannak kitéve, hanem törvényszerű égi mechanikai események. A Szíriusz-rendszer ugyanis meghatározza a második (üres) fókuszpontot, amely elengedhetetlenül fontos az ilyen és más égitestek elliptikus pályájához a Naprendszerünkben. Ne feledjük, hogy még a mi **Földünknek is január 2. körül van a perihéliuma, mivel minden évben áthalad a Nap és a Szíriusz együttállásán**.  
-- Ezen adatok egy része szerepelt [[U/Újév\|újév]] és [[A/Alcyone\|Alcyone]] címszavaknál is.  
+- Ezen adatok egy része szerepelt [[U/Újév\|újév]] és [[A/Alcyone\|Alcyone]] címszavaknál is.
 
 A [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]], [[M/Miscoatl\|Miscoatl]], [[I/Íj és a nyíl\|íj és a nyíl]], valamint [[C/Csudaszarvas\|Csudaszarvas]] címnél is szereplő Giorgio de Santillana féle passzus jól mutatja, hogy a Szíriusz mennyire kötődik a naprendszerünkhöz:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/i/ij-es-a-nyil/#0z5p80" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/I/Íj és a nyíl/#0z5p80" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -187,7 +187,7 @@ A [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]], [[M/Miscoatl\|Miscoatl]], [[
 
 
 </div></div>
- 
+
 
 A mellékelt, [[M/MISZ\|MISZ]] címnél is szereplő képet jól kiegészíti (az ott is szerepeltetett) Jankovics Marcelltől származó passzus:  
 ![assets/Szirnap_image4.png|invert_dark](/img/user/S/assets/Szirnap_image4.png)  
@@ -197,7 +197,7 @@ Jankovics Marcell passzusa [[S/Szíriusz és a medvék\|Szíriusz és a medvék]
 > Lászlót az ének csillagként köszönti ("Csillagok közt fényességes csillag"), hogy felmagasztalásának közvetlen **oka egy Nappal együtt delelő csillag, mely csillag az időpont (1192. június 27.) ismeretében** csak az Orionnak vagy valamely szomszédos csillagképnek a fényes csillaga, **leginkább a Szíriusz lehetett**, amit a pápai küldöttek éppen láthattak is volna[^6], ha akkor napfogyatkozás sötétíti el az eget. Ez azonban nem szükségszerű. Elég az, s ez egészen bizonyos, hogy jártasak voltak a csillagászatban, tudták tehát, hogy a mondott időben mely csillagok között tartózkodik a Nap, továbbá azt is, hogy a szentté avatásnak naptári-csillagászati feltételei vannak – így kívánta a korszellem (meg a nálunk még eleven pogány gondolkodásmód). Csakis tudatos program lehetett, hogy "Mithrast" csináltak belőle. (Leghíresebb legendájának elemzéséből ugyanerre a következtetésre jutunk. [[S/Szent László és a leányszöktető kun\|Szent László és a leányszöktető kun]] legendájának falképciklusban megörökített képsora a világosság és a sötétség küzdelmét jeleníti meg.)  
 
 [[M/Mithra és a bika\|Mithra és a bika]] címnél szerepelt legutóbb:  
-[[M/Mithra\|Mithra]] címnél már szerepelt (a folyamatosan [[S/Szíriusz\|Szíriusz]]t is elővevő) Walter Cruttenden sora, miszerint Mithranak köze kell lennie a [[P/Precesszió\|precesszió]]hoz, vagy azt kiváltó okhoz (egy helyen John M. Jenkins is írja:  
+[[M/Mithra\|Mithra]] címnél már szerepelt (a folyamatosan [[S/Szíriusz\|Szíriusz]]t is elővevő) Walter Cruttenden sora, miszerint Mithranak köze kell lennie a [[P/Precesszió\|precesszió]]hoz, vagy azt kiváltó okhoz (egy helyen John M. Jenkins is írja):  
 > Mithras is celebrated as the high deity or demiurge who turns the wheel of precession.  
 > —  
 > Mithrászt főistenségként vagy démiurgoszként ünneplik, aki a precesszió kerekét forgatja.  
@@ -208,7 +208,7 @@ Jankovics Marcell passzusa [[S/Szíriusz és a medvék\|Szíriusz és a medvék]
 > Secret teachings within Mithraism might have been about the end of the previous Golden Age, long ago, and the impending dawn of a new one. The grades of Mithraic initiation led the seeker through the seven planetary spheres to the abode of Pater (Saturn), associated with Capricorn. Beyond the seventh level, a secret teaching reveals an eighth "house" where the Hypercosmic Sun was located[^7], accessed through a celestial doorway that appeared when the Sun was in Capricorn.  
 > —  
 > A mithraizmuson belüli titkos tanítások a régmúlt aranykor végéről és egy új korszak közelgő hajnaláról szólhattak. A mithrai beavatás fokozatai a hét bolygószférán keresztül vezették a keresőt a Bakhoz kapcsolódó Pater (Szaturnusz) lakhelyére. A hetedik szinten túl egy titkos tanítás felfed egy nyolcadik "házat", ahol a hiperkozmikus Nap tartózkodott[^7], és ahová egy égi kapun keresztül lehetett bejutni, amely akkor jelent meg, amikor a Nap a Bakban állt.  
-> ![assets/Szirnap_image5.png|invert_light](/img/user/S/assets/Szirnap_image5.png) 
+> ![assets/Szirnap_image5.png|invert_light](/img/user/S/assets/Szirnap_image5.png)
 
 Ezzel a hyperkozmikus Nappal kapcsolatban írja:  
 > David Ulansey, "Mithras and the Hypercosmic Sun," in Hinnells, Studies in Mithraism; also posted on Ulansey's Web site: www.well.com/user/davidu/
@@ -224,7 +224,7 @@ Ezzel a hyperkozmikus Nappal kapcsolatban írja:
 
 John M. Jenkins könyvének 115.oldalán írja ([[T/Tánc\|tánc]] és [[K/Kundalini\|Kundalini]] címnél is szerepelt):  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/m/mithra-es-a-bika/#o50g9i" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Mithra és a bika/#o50g9i" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
