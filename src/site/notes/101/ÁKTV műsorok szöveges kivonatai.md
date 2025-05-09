@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-05-01T12:42"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-05-09T23:52"}
 ---
 
 
@@ -11,6 +11,11 @@
 
 **Videók kivonatokkal**:  
 
+[250509CN! KÉMBOTRÁNY](https://rumble.com/v6t6lj5-250509cn-kmbotrny-kubnyi-tams-ktv.html)  [https://archive.ph/es3ow](https://archive.ph/es3ow)
+[250508CN! HABEMUS PAPAM!](https://rumble.com/v6t50bh-250508cn-habemus-papam-kubnyi-tams-ktv.html)  [https://archive.ph/vhMvn](https://archive.ph/vhMvn)
+[250507CN! OROSZ EU-TAGSÁGOT!](https://rumble.com/v6t3cav-250507cn-orosz-eu-tagsgot-kubnyi-tams-ktv.html)  [https://archive.ph/6F3pj](https://archive.ph/6F3pj)
+[250506N! SUB ROSA](https://rumble.com/v6t1our-250506n-sub-rosa-kubnyi-tams-ktv.html)  [https://archive.ph/eWKRg](https://archive.ph/eWKRg)
+[250505CN! BÉKEVÁGY](https://rumble.com/v6szzyb-250505cn-bkevgy-kubnyi-tams-ktv.html)  [https://archive.ph/OjeF0](https://archive.ph/OjeF0)
 [250430CN! NEMZETI GYÁSZ](https://rumble.com/v6ssamn-250430cn-nemzeti-gysz-kubnyi-tams-ktv.html)  [https://archive.ph/pDV8d](https://archive.ph/pDV8d)
 [250429CN! RONCS vagy KINCS](https://rumble.com/v6sqph1-250429cn-roncs-vagy-kincs-kubnyi-tams-ktv.html)  [https://archive.ph/eYPEO](https://archive.ph/eYPEO)
 [250428CN! ÜZENET ORBÁN VIKTORNAK](https://rumble.com/v6sp2gv-250428cn-zenet-orbn-viktornak-kubnyi-tams-ktv.html)  [https://archive.ph/BkY4U](https://archive.ph/BkY4U)
