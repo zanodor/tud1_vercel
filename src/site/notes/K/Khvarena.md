@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Khvarena/","title":"Khvarena","created":"2023-10-26T05:30","updated":"2024-10-25T22:22"}
+{"dg-publish":true,"permalink":"/K/Khvarena/","title":"Khvarena","created":"2023-10-26T05:30","updated":"2025-05-09T22:48"}
 ---
 
 
@@ -18,16 +18,21 @@ Karcagi Oláh Imre Külföldi és magyar írók a magyar mitológiáról című 
 
 #### Oláh Imre írja:
 
-> Ezen Khvarena, egy királysólyom-turulmadár (szaéna-meregó, [[S/Szimurgh\|Szimurgh]]) kepében szállt alá Adzsembe (Iránba) a két őskirályt megkoronázni: Feridunt, majd később Keresaspát, akik hatalmas uralkodók lettek.
+> Ezen Khvarena, egy királysólyom-turulmadár (szaéna-meregó, [[S/Szimurgh\|Szimurgh]]) képében szállt alá Adzsembe (Iránba) a két őskirályt megkoronázni: Feridunt, majd később Keresaspát, akik hatalmas uralkodók lettek.
 
 Jellemző különben, hogy a görög, latin és perzsa (valamint az alábbi csagatáj) szavak egyszerre írják körül a magyar korona szót, de a perzsa elüt jelentésében a görög-római korone, korona szavaktól.  
 Magyar Adorján Kérdések című írásában is megkérdi (ha nem is ezen eszmefuttatással), hogy a tatár `küren` és csagatáj `körün` = kör szavak közül utóbbi hogy lehet azonos az árja szavakkal? Nyilván a nyelvészet azt mondaná rá, hogy a perzsáktól vette át. Igen ám, de perzsa `khvarena` már mást jelent. Mindent az old meg, ha a magyar szavakat (kör, kor, korona) tartjuk elődnek. Mekkora szerencséje az árja nyelvészeknek, hogy a magyarok Iránban is laktak...  
 
 Még Oláh Imrénél a `khavarenó` (amely nem egy másik belső fejlődéssel alkotott szó, hanem csak leírási változat) fogalma: nimbusz, glória. A királyok, és szentek arculatát övező dicsfény. Mind a szakrális királyságot, mint jó, aranykori modellt mutatja be.  
 
+Az avesztai alak `hvarna`:  
+> Hvarna jelképezi a Törvényességet vagy Mennyei Mandátumot, melyet uralkodóknak adományoznak, de könnyen vissza is vonnak. Jima (Dzsamsíd), a világ első uralkodója háromszor veszítette el. (Hamlet Malma)
+
 [Ezen](https://youtu.be/ZDxpS9YJwI4) előadásban Grandpierre Atilla 27:00-nél hun mágus képességekről szólva említi [[H/Huang-ti\|Huang-Di]]-t, tulajdonképpen azt mondván, hogy a hun magyarok tanították a kínaiakat utakat, stb. építeni, az írás tudományára, stb.  
 Arra is kitér, hogy a kínaiak meg akarták tenni királyuknak, de Huang-Di azt mondta, egyetlen feltétellel: ha nem tudja őket elég jól királyként szolgálni, mozdítsák el a királyi székből, mondván, ha nem a javatokra cselekszem, elvesztem a mennyek mandátumát. (Fentebb a huang szó nyilván nem véletlenül jelenik meg hasonló kontextusban.)  
 Említi itt Grandpierre Atilla az égből aláereszkedő koronát és előtte az ég felhatalmazását. Lám, teljesen hasonló ehhez a perzsák khvaréna fogalma, illetve a törököknél [[K/Kut\|kut]] = isteni mandátum (szerencse inkább).  
 Ahogy 29:20-nál Grandpierre Atilla kimondja, ez a Szent Korona eszme tehát megvolt az i.e. harmadik évezredben is.  
 
-Lásd még [[F/Farr\|farr]]. Lásd még [[G/Glory\|glory]] and [[H/Halo\|halo]]. Lásd még főleg [[K/KAR\|KAR]], [[K/Korona\|korona]], [[C/Crown\|crown]].  
+Lásd még a tárgyalt szó utóéletének számító [[F/Farr\|farr]] szót és az ott írottakat.  
+Lásd még [[K/KAR\|KAR]], [[K/Korona\|korona]], [[C/Crown\|crown]].  
+Lásd még továbbá [[G/Glory\|glory]] and [[H/Halo\|halo]].  
