@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-04-20T14:28"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-05-09T22:49"}
 ---
 
 
@@ -82,14 +82,14 @@ G-D átmenetről lentebb még lesz szó.
 
 A 154-155. oldalon hozott szópárok kapcsán írja:  
 > Nem igazi metatézisek azonban a következő szópárok:  
-> 
+>
 > | görög     | latin       | orosz   | német         | héber      |
 > | --------- | ----------- | ------- | ------------- | ---------- |
 > | SKIRT-ao  | GRAD-us     | GRJAD-u | SCHREIT-en    | J-R-D      |
 > | *(ugrik)* | *(lépés)*   | *(lép)* | *(lép)*       | *(lemegy)* |
 > | TRECH-o   | TRAC-tus    | DOROG-a | STRECK-e      | DEREG      |
 > | *(megy)*  | *(vonulás)* | *(út)*  | *(útszakasz)* | *(út)*     |
-> 
+>
 > E látszólagos metatézisek- amelyek ez esetben a szavak teljes tükörfordításait jelentenék – azzal az előbb már említett jelenséggel függenek össze, hogy a nyelvekben sokszor a három fő artikulációs körnek (B, D, G) megfelelő szinonimákat találunk.
 { #j28dg}
 
@@ -99,7 +99,7 @@ G>B változás értelmezhető úgy, mint G>(V)>B változás. Az egyik ilyen isme
 Az ugor – uar – avar nevek voltaképpen egy és ugyanazok. [[A/Avar#Avar (Obor) – Ugor (Uhor) – Várhun\|Avar (Obor) – Ugor (Uhor) – Várhun]] cím/alcímnél volt erről szó legutóbb (és arról, hogy a közös kiinduló voltaképpen az alant kopt szó eredete kapcsán is előjövő Úr szavunk).  
 A kelta-ír `barantas` = garancia. A G>B változás hasonló az ugorka – uborka esethez, de egy másik pl. az alkudozik jelentésű tájszólásos árguvál, árgovál, árbuvál szóalakokban látott változás.  
 
-D>G változásra példa: Víg szavunk régiesen víd volt, CzF szótár szerint. (A közös a két hangban, hogy gy-re lágyul mindkettő.) 
+D>G változásra példa: Víg szavunk régiesen víd volt, CzF szótár szerint. (A közös a két hangban, hogy gy-re lágyul mindkettő.)
 
 ## M-N és kéthangos változások
 
@@ -148,7 +148,7 @@ Egy másik leginkább előforduló hangfejlődés az F, V, B és P hangok közö
 
 > B was originally pronounced P in the Celtic languages (the Welsh still habitually confound the two sounds).  
 > —  
-> A kelta nyelvekben a B-t eredetileg P-nek ejtették (a walesi nyelvben a mai napig gyakran összekeverik a két hangot). 
+> A kelta nyelvekben a B-t eredetileg P-nek ejtették (a walesi nyelvben a mai napig gyakran összekeverik a két hangot).
 - [[O/Ogham\|Ogham]] címnél pedig láttuk, régen nem szerepelt ábécéjükben P betű.
 
 Az indoeurópai hangtörvényeket követő finnugor nyelvészeti dogmában a magyar f-előhangos szavaknak (pl. fa, fú(j)) p-előhangos elődöket gondolnak.  
@@ -156,8 +156,8 @@ Az indoeurópai hangtörvényeket követő finnugor nyelvészeti dogmában a mag
 Péterfai János a V-F egyezésről írja:  
 > A Lu alapjelentése Fény, ami miatt a Lú nevű emberek a Fény emberei, akik megszelídítették a lovakat, majd később a négylábú (Equus) is felvette a Fény – Ló nevet. Kis-Ázsiában, egyik centrális hazánkban élt a Luwi, másként Luwijai nép, Solymos tartománytól északkeletre. Ők a Lúfi, vagy Lúfijai nép, akiknek nevében a Lófia 3.000 évnél régebben már megjelenik. Akit zavar a W-F cserélődés, ejtse ki saját száján a névalakokat.  
 
-A V és B hangok kapcsán annyit, hogy a héberben ezen betűk (Vet/Bet) egynek számíttatnak és csak a nyelvtan és a kiejtés dönti el, hogyan kerülnek kifejezésre. Például [[L/Lulab\|lulab]] mellett `lulav` is helyes.  
-A görög nyelvben is találunk B/V változatokat és a [[V/Való\|való]] címnél említett spanyol  `vale`  = rendben is b-vel ejtettnek hangzik.  
+A V és B hangok kapcsán annyit, hogy a héberben ezen betűk (Vet/Bet) egynek számíttatnak és csak a nyelvtan és a kiejtés dönti el, hogyan kerülnek kifejezésre. Például [[L/Lulab\|lulab]] mellett `lulav` is helyes, [[C/Caleb\|Caleb]] pedig Kelev is lehet.  
+A görög nyelvben is találunk B/V változatokat és a [[V/Való\|való]] címnél említett spanyol `vale` = rendben is b-vel ejtettnek hangzik.  
 
 ## Egyebek ömlesztve
 
@@ -183,10 +183,11 @@ K>P mássalhangzó-változásról írja Timaru-Kast Sándor:
 > A "kelta" törvényszerű hangcserének megfelelően a P hang K-ra is válthat (> vö. magyar SIPÍT <> SIKÍT).  
 > A kelta nyelveken belül is észlelhető G>F és a K>P hangcsere (mindkét esetben egy íny- \[toroki) hang áttevődik az ajaki hangképző helyre).  
 - [[O/Oven\|Oven]] címnél láttunk G>F (V) változásra példát.
+- [[F/Farr\|Farr]] elvileg K(H)(v)>F változással jött létre.
 
 G>P. Már [[P/PAR\|PAR]] etimonnál esett szó róla. CzF szótárban is találni változatot: `gerjeszt` némelyütt `perjeszt`.  
 
-F>K, F>C vagy F>Q átmenet, például fura>queer, farag>carve igen ritka, és szabálytalan, olyannyira, hogy a levezetések revideálandók.   
+F>K, F>C vagy F>Q átmenet, például fura>queer, farag>carve igen ritka, és szabálytalan, olyannyira, hogy a levezetések revideálandók.
 A walesi `genau` = száj (Timaru-Kast Sándor fenyő szót ír ide?!) szó is arról árulkodik, hogy F>G átmenet elképzelhető.  
 F>SZ változással próbálkoztunk swing fing-ból való levezetésével (bár lehet ez V>F szabályos váltás SZ-előtéttel inkább).  
 F>SZ változással fik-ből lehetne a török szik-mek (basz-ni), de valószínűbben `SZIK` = Nap hímségi princípiumot kell látni benne.  
@@ -201,18 +202,18 @@ Götz László Keleten kél a Nap című könyvének 152. oldalán hangkeresztez
 
 Götz szól az orosz nyelvben előforduló szókezdő TH > F-re alakulásáról; theta > fita, Thomas > Foma, stb.  
 
-D>F váltás nem tűnik "megengedettnek," ennek ellenére a perzsa-angol etimológia szótárban sokszor tesz szótagkezdő f-hangos szavakat d-hanggal nyitó indo-európai gyökök mellé, azokhoz rokonítva őket, például perzsa `dûd` (füst) → latin `fumus`, perzsa `dar` (ajtó) mellé latin `foris` vagy angol dough mellé latin figura szavak párosításakor.  
-Nevezhetjük tudománytalannak vagy legalábbis túltolásnak. Az [alábbi](https://qr.ae/pNK70C) Quora válaszomban kitértem a latin `filius` ([[F/Fiú\|fiú]]; lásd még [[F/Filial\|filial]]) hivatalos etimológiája...  
+D>F váltás nem tűnik "megengedettnek," ennek ellenére a perzsa-angol etimológia szótár szerkesztői sokszor tesznek szótagkezdő f-hangos szavakat d-hanggal nyitó indo-európai gyökök mellé, azokhoz rokonítva őket, például perzsa `dûd` (füst) → latin `fumus`, perzsa `dar` (ajtó) mellé latin `foris` vagy angol `dough` mellé latin `figura` szavak párosításakor.  
+Nevezhetjük tudománytalannak. Az [alábbi](https://qr.ae/pNK70C) Quora válaszomban kitértem a latin `filius` ([[F/Fiú\|fiú]]; lásd még [[F/Filial\|filial]]) hivatalos etimológiája...  
 > Latin `fīlius` ("son") from Proto-Indo-European \*dʰeh₁y-li-os ("sucker"), which is a derivation from the verbal root \*dʰeh₁(y)- ("to suck").  
 > —  
 > Latin `fīlius` ("fiú") a proto-indoeurópai \*dʰeh₁y-li-os szóból ("csecsemő"), amely a \*dʰeh₁(y)- igei tőből ("szopni") származik.
 
-...kapcsán arra, hogy a D>F váltás erőltetett és itt bizony a tej szavunkat kell felismerni.  
+...kapcsán arra, hogy a D>F váltás erőltetett és itt hogy a \*dʰeh₁(y)- megállapított gyök esetében a mi `tej` szavunkat kell felismerni.  
 Ugyanakkor például a latin [[F/Facere\|facere]] lehetne tesz > thes > fes változással kialakuló.  
 
 H>P átmenetet CzF több helyütt természetesnek\[?\] vette. Például `hord` – latin `portare`, `halvány` – görög szürke jelentésű `polios`. Valójában H>V>P a fejlődési út. Ez akár elképzelhető [[H/Hunter\|Hunter]] > [[P/Panther\|Panther]] esetében is. Hunter-ről lesz még szó alant.  
 
-F>H átmenet az előbbi megfordítása. Lásd `fiú` szavunk (akár a latin  `filius` szón keresztül) a spanyolban `hijo` ill. `hija` = fia, lánya valakinek. Valójában az F>V>H átmenet alapján érthető ez meg. Viszont akár tekinthetnénk úgy is rá, hogy (görögös) F > PH > H változással adódik ki. Persze felesleges, hiszen a F egy kategória a V-vel és a V pedig a H-val. Vesd össze a latin `ferrarius` és a spanyol `herrero` = kovács szavakat, de a spanyol `hermoso` = csodás is állítólag a latin `formoso` = mutatós, formás szó változata, ahogy a spanyol `hada` = tündér szót is a latin `fata` nyomán eredeztetik.  
+F>H átmenet az előbbi megfordítása. Lásd `fiú` szavunk (akár a latin `filius` szón keresztül) a spanyolban `hijo` ill. `hija` = fia, lánya valakinek. Valójában az F>V>H átmenet alapján érthető ez meg. Viszont akár tekinthetnénk úgy is rá, hogy (görögös) F > PH > H változással adódik ki. Persze felesleges, hiszen a F egy kategória a V-vel és a V pedig a H-val. Vesd össze a latin `ferrarius` és a spanyol `herrero` = kovács szavakat, de a spanyol `hermoso` = csodás is állítólag a latin `formoso` = mutatós, formás szó változata, ahogy a spanyol `hada` = tündér szót is a latin `fata` nyomán eredeztetik.  
 Érdekes eset a `parázs` fogalmából indítottnak tűnő avar-hun-arab `faraz` = (kanca)ló szó és az avar-hun-angol `horse` = ló kapcsolata ([[H/Horse\|horse]] inkább [[G/Gyors\|gyors]] szavunkból ered).  
 Vagy ott van a nemrég felvetett Winter – Hunter és a [[W/Wing\|wing]] címnél említett ónorvég `vængr` = szárny kapcsán megfogalmazott Venger – Hungár kapcsolat. Lehet-e ezeket komolyan venni? A kérdés tehát lényegében az, hogy a `Hun` lehet-e azonos Fén-nel, Vén-nel. Hiszen azt az [[A/A\|A]] címnél álló MindMap-en is látjuk, hogy az An, Án ill. En szócskára épülő, ilyen-olyan előhangos, akár fog- akár torokhangos szavak lényegében megegyeznek jelentésüket tekintve. De úgy is mondhatjuk, hogy HU és KU = fény alapjelentésükből kiindulva is lehet Hun = fény (háza) értelmű.  
 (Azt se felejtsük el, hogy mind a KAN (kony, kány, KUN) jelenthet véget, farkat, ahogy PEN/FEN is jelenthet ilyen (kutya) farkát, de mint [[F/Fin\|fin]], [[F/Finger\|finger]] és [[W/Wing\|wing]] szavaknál láttuk, más, a testből kiálló nyúlványt nevét is adhatja.)  
