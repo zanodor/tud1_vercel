@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Väinämöinen/","title":"Väinämöinen","created":"2023-10-15T02:43","updated":"2024-10-26T00:46"}
+{"dg-publish":true,"permalink":"/V/Väinämöinen/","title":"Väinämöinen","created":"2023-10-15T02:43","updated":"2025-05-09T22:49"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 ...című könyvében írja (látjuk, miért, miképp lett tengeristennőnek beállítva [[I/Ilmatar\|Ilmatar]]: már nem értették a valódi mibenlétét):  
 > Vajnamöjnen anyja Ilmatar a nyílt tengeren úszkál. Egyszer csak megjelenik egy kacsa s hét tojást rak Ilmatar térdére. Ilmatar a szokatlan érzésre megrándítja térdét, a tojások a vízbe esnek és töredékeiből alakulnak a föld, az ég, a nap és hold, és fellegek. "*Tört tojásnak alsó fele, Válik alsó földfenékké. Tört tojásnak felső fele, a felettük való éggé, sárgájának felső fele, fényes nappá fenn az égen, Fehérjének felső fele, a halovány holddá lészen, Tojásból mint tarka rész volt, égen csillag lesz belőle, tojásból mi fekete volt, lesz belőle ég felhője.*" Ennél világosabb kommentár nem szükséges.  
-- Pedig lehetne. Ilma-Tar aligha lehet Lég-Leány/Tündér értelmű történet alapján, csak Ilona Ég-Anya értelemben.  
+- Pedig lehetne. Ilma-Tar aligha lehet Lég-Leány/Tündér értelmű történet alapján, csak Ilona Ég-Anya értelemben.
 
 #### Magyar Adorján írásában...
 
