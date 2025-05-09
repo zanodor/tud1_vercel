@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-05-03T10:54"}
+{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-05-09T22:47"}
 ---
 
 
@@ -15,11 +15,11 @@
  
 Arról Péterfai János is ír, hogy az [[A/Árja\|árja]] és [[I/Irán\|Irán]] neveket nem lehet összeegyeztetni: az indo-európai nyelvészek teljes tudatlanságban élnek. Az iráni hivatalosan elfogadott eredeztetés szerint Irán Airyana-ból levezetése sem fogadható el: a zavart Arany és Irány szavaink hasonlósága (is) okozza. Lásd erről [[A/Árja\|Aryan]].  
 
-Igen valószínűnek látszik, miután az arany a Nap féme (Kubínyi Tamás egy műsorában azt mondja, hogy **az arany a Napból szakadt ki; a különböző becsapódásoknál mérhető az arany jelenléte**), hogy a Nimródot szintén ősapjuknak tartó jorubák szava Napra, `òrùn`, arany szavunkkal egyező. Ezen szóval is szinte azonos az New Mexico állambeli taosz indián nyelvű `ùruʼúna` = arany.  
+Igen valószínűnek látszik, miután az arany a Nap féme (Kubínyi Tamás egy műsorában azt mondja, hogy **az arany a Napból szakadt ki; a különböző becsapódásoknál mérhető az arany jelenléte**), hogy a Nimródot szintén ősapjuknak tartó jorubák szava Napra, `òrùn`, arany szavunkkal egyező. Ezen szóval is szinte azonos a New Mexico állambeli taosz indián nyelvű `ùruʼúna` = arany.  
 Egyező arany szavunkkal a kelta `aran` = kenyér (a Manx-szigeteken is máig `arran` a kenyér, Írországban is `arán`). Mennyire egyértelműsíti a magyar-kelta rokonságot!  
 **Arran** még egy nyugat-skóciai, Clyde-hoz közeli sziget neve is, de [[I/Irán\|Irán]] címnél is előjött az Arran név.  
 
-Kállay Ferenc A pogány magyarok vallása című könyvének [192. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=192&annotation=HMNE92YV) emllíti az osztják `aureaanus` szót, de hogy aranyat, vagy bálványt jelent, nem derül ki (aranyból készült bálványokról van szó).  
+Kállay Ferenc A pogány magyarok vallása című könyvének [192. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=192&annotation=HMNE92YV) emllíti az osztják `aureaanus` szót, de hogy aranyat, vagy bálványt jelent, de most hogy melyiket, nem derül ki (aranyból készült bálványokról van szó).  
 
 Nem kizárt, hogy a bibliai Aaron (Áron) név is az arany szavunk és a Napra utal, ahogy Lewis Freemantle The Thirteenth Stone című könyvében erre utal is (nem tudom milyen adat vagy logika alapján):  
 > It having previously been said that Aaron, from whom the Levitical priests are descended, is another version of the sun, and thus the Levites are priests of the temple of the sun.  
@@ -72,7 +72,7 @@ Nem kizárt, hogy a bibliai Aaron (Áron) név is az arany szavunk és a Napra u
 ...című könyvében írja:  
 > Miután azonban az arany azon fém, amelyet lágysága és szépsége miatt az ember legelőször kezdett megmunkálni ([[A/Aranykor és annak vége#Aranykor\|Aranykor]]), így természetes, hogy az aranytükörnek volt régibb és nagyobb szerepe. Magyar őseink szerint tehát ha a kerek aranytükörbe tekintünk, ez ugyanannyi, mint hogyha édesatyánk, a Napisten arcába, szemébe tekintenénk.  
 
-Arról másutt is volt szó, hogy a korrumpált napvallás a Nap fényének megszilárdulását, az aranyat tartotta elsődleges tisztelete tárgyának és az avar-héber-zsidó vonalon kereshető eredete.  
+Arról másutt is volt szó, hogy a korrumpált napvallás a Nap fényének megszilárdulását, az aranyat tartotta elsődleges tisztelete tárgyának és avar-héber-zsidó vonalon kereshető eredete.  
 
 ## Arany és pénz
 
