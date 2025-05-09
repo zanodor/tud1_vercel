@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2025-01-02T13:51"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2025-05-09T22:49"}
 ---
 
 
