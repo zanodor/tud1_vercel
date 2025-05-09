@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2025-03-24T18:06"}
+{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2025-05-09T22:48"}
 ---
 
 
@@ -29,7 +29,7 @@ Zoli, Feri, Mari[^1] és sok más példát hozhatunk még. Érdekes módon a Fra
 
 Nemcsak a magyar [[I/Itt\|itt]] szó, de a régi francia `içi` illetve modern francia `ici`, és akár a német/angol `hier`/`here` szavakat elnézve gondolhatjuk, de a közelre mutató angol `this` = ez (vö. `that` = az) alapján is, hogy ez régi felfogás.  
 
-## I helyrag (melléknévképző) értelme
+## I birtokrag
 
 Már mintha valahol lett volna szó arról, hogy nemcsak a magyarban lenne használatos. Dorogból így lesz dorogi (személynévként Dorogi), stb.  
 [[A/Assisi Szent Ferenc\|Assisi Szent Ferenc]] nevében az az érdekes, hogy az Assisi szóvégi -i hangjának helyre való vonatkozása magyarul érthetően található meg.  
@@ -114,7 +114,7 @@ Ha Grandpierre Atilla tudta volna ezt, az i betű és hang ilyen alapjelentésé
 { #vyz-i}
 
 
-Ha már ívás, [[K/Kezdet és vég\|kezdet és vég]], valamint [[U/Új\|új]] címnél is említettük Fáy Elek A magyarok őshona című könyvének 236. oldalán szereplő adatsorát. Szépen szól a kör ívéről úgy, hogy az [[I/Ív\|ív]] szavunkban a nemzést is látja, hiszen a kör(jelkép)nek **íve önmagát nemzve, íva újítja magát** meg. Ezek alapján akár [[U/Új\|új]] szavunk is lehet az ív/ívás (az ívás újítás, nemzés) változata.  
+Ha már ívás, [[K/Kezdet és vég#^ybz6sf\|kezdet és vég]], valamint [[U/Új\|új]] címnél is említettük Fáy Elek A magyarok őshona című könyvének 236. oldalán szereplő adatsorát. Szépen szól a kör ívéről úgy, hogy az [[I/Ív\|ív]] szavunkban a nemzést is látja, hiszen a kör(jelkép)nek **íve önmagát nemzve, íva újítja magát** meg. Ezek alapján akár [[U/Új\|új]] szavunk is lehet az ív/ívás (az ívás újítás, nemzés) változata.  
 Azaz tulajdonképpen I > ÍJ > ÚJ fejlődési sorozatot kell feltételezni (ahol az újhold összefüggéseit is szem előtt kell tartani).  
 
 Ha [[I/Idő\|idő]] szavunkat nem lehetett volna a Nap-Föld relációra visszavezethető UDU/üdő szavakra visszavinni, akkor az idő körtermészete alapján i hang nyomán indultam volna el.  
