@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szláv és török jövevényszavak/","title":"Szláv és török jövevényszavak","created":"2025-03-08T20:46","updated":"2025-04-27T10:04"}
+{"dg-publish":true,"permalink":"/S/Szláv és török jövevényszavak/","title":"Szláv és török jövevényszavak","created":"2025-03-08T20:46","updated":"2025-05-09T22:49"}
 ---
 
 
@@ -12,23 +12,29 @@ Menet közben születtek más címek is:
 - [[O/Oszét jövevényszavak\|Oszét jövevényszavak]];  
 - [[N/Német jövevényszavak\|Német jövevényszavak]].  
 
-Itt talán még Czeglédi Katalin egyes cikkeinek fogalmazásai miatt került a szláv és török egy kalap alá, de mint látni fogjuk, a szlávok sokszor töröknek tartott (valójában hun, ugor/avar) vezetés alatt állottak is nem szabad a történelmi alapok nélkül tekinteni ezen kérdésekre.  
+Itt talán még Czeglédi Katalin egyes cikkeinek fogalmazásai miatt került a szláv és török egy kalap alá, de mint látni fogjuk, a szlávok sokszor töröknek tartott (valójában hun, ugor/avar) vezetés alatt állottak, és nem szabad történelmi alapok ismerete nélkül tekinteni ezen kérdésekre.  
 
 #### Buji Ferenc írja:
 
 > Nyilván nem véletlen, hogy a Történeti-etimológiai szótár szerint ótörök eredetű kendert más nyelvekben is a kány- gyökkel képezik; vö. gör. `kannabisz`, lat. `cannabis`, ném. `Hanf`, ang. `hemp`, fr. `chanvre`, or. `konolja`. Az orosz `kendir` ("kenderfajta növény") pedig valószínűleg a sztyeppei nyelvekből került az oroszba, s nem valamely török nyelvből. Általános elvként megfogalmazható, hogy a szláv nyelvek az ősszláv korszakban nem annyira török, mint inkább sztyeppei nyelvi befolyás alatt álltak. Ilyetén módon azok a szavak, amelyeket a nyelvtudomány a szláv nyelvekben török jövevényszavakként konstatál, mind a szláv, mind pedig a török nyelvekben sztyeppei eredetű jövevényszavak.  
-- Bognár Ferenc ezen passzusa [[C/Cannabis\|cannabis]] címnél is szerepelt.
+- Buji Ferenc ezen passzusa [[C/Cannabis\|cannabis]] címnél is szerepelt.
 
-Amit Bognár Ferenc nem mond ki, hogy ezen sztyeppei népek (sokan úgy mondanák: szkíták, szittyák) valójában a kún/hun népek, kiknek szakrális-vallási szavai is K-N, K-Nd, H-N, stb. alapvázra épülnek. Bognár Ferenc a kány- gyökről írt dolgozatát említettük [[K/KONY\|KONY]] címnél is.  
+Amit Buji Ferenc nem mond ki, hogy ezen sztyeppei népek (sokan úgy mondanák: szkíták, szittyák) valójában a kún/hun népek, kiknek szakrális-vallási szavai is K-N, K-Nd, H-N, stb. alapvázra épülnek. Buji Ferenc a kány- gyökről írt dolgozatát említettük [[K/KONY\|KONY]] címnél is.  
 [[M/Magyar ősvallás\|Magyar ősvallás]] címnél szerepeltek a [[K/Kniezsa István\|Kniezsa István]] szerinti kereszténységre vonatkozó kifejezések legrégibb rétegéhez tartozó szláv úton nyert magyar szavak. Valójában a szláv, germán és török is magyar-hun nyelvek keverékéből jött létre.  
 
-Elképesztő dolog, hogy a nyelvtudomány nem mondja el (nem tudja), hogy kik azok a szlávok, akiktől a magyarok a szavakat átvették volna; mert ha tudná (a valós történelmet), nem lenne olyan könnyű dolga, a [[S/Szablya\|szablya]] címnél is említett "csillagos", tehát nem adatolható, csupán kikövetkeztetett szláv szavakra(?) ráböknie (ellenben proto-magyar gyöknyelvészet nincs és nem is lehet).  
+Elképesztő dolog, hogy a nyelvtudomány nem mondja el (vagy nem tudja), hogy kik azok a szlávok, akiktől a magyarok a szavakat átvették volna; mert ha tudná (a valós történelmet), nem lenne olyan könnyű dolga, a [[S/Szablya\|szablya]] címnél is említett "csillagos", tehát nem adatolható, csupán kikövetkeztetett(?) szláv szavakra csak úgy ráböknie (ellenben proto-magyar gyöknyelvészet nincs és nem is lehet).  
+
+De van itt még három szó, ami figyelmet érdemel.  
+Kezdjük a török eredetűnek megadott [[A/Ács\|ács]] szavunkkal, mely címnél kifejtettem, hogy ha átvettük volna a törökből, a teljes szót vettük volna át. Ellenben a magyar szó az [[A/Atya\|atya]] és [[O/Ős\|ős]] (teremtő) szavakkal összefüggésben jött létre belső fejlődéssel, amit jól bizonyít az is, hogy az ácsot jelentő görög `tektón` mögötti alapfogalom teremtés, nemzés kellett legyen, más rokon, T-K gyökű szavak értelme alapján:  
+Az ókori görög nyelvben a `tíktō` ige fejezi ki a szülés/nemzés cselekvését, amelynek eredménye a `téknon`, azaz a gyermek, maga a szülés folyamata vagy az utód pedig a `tokosz`.  
+
+Az [[I/Ív#^7nsr8g\|ív]] címnél adatolt szlovén `obel` esetében – ahol `öböl` szavunk volt a kiinduló – ugyanazt a szláv ob- előtagot akarják eladni, ahogy [[E/Ebéd\|ebéd]] szavunk szláv magyarázatánál, nem tudván, hogy az eb, öb, ív szavaink/gyökeink egymás [[F/Flexió\|flexiós]] változatai. Amúgy pedig az [[E/ESZ\|esz]]/[[E/ED\|ed]] [[E/ET\|ET]] = tűz jelentésű alapszóra megy vissza, nem holmi szláv és indoeurópai "magángyökre".  
 
 ## Mástól jön akkor a műveltség is, nemcsak a szavak
 
 Arról [[K/Kovács\|kovács]] címnél is volt szó, hogy a szavak szláv és más nyelvekből való eredeztetése azt is jelenti, hogy az adott műveltséget (fémmegmunkálást, stb.) is az adott néptől vettük volna át.  
 
-Ez egy indirekt, kifinomult módja a magyar múlt és örökség elajándékozásának és népünk teljesítménye lealacsonyításának. Erre jó a nyelvészet "tudománya."
+Ez egy indirekt, kifinomult módja a magyar múlt és örökség elajándékozásának és népünk teljesítménye lealacsonyításának. Erre jó a nyelvészet "tudománya." 
 
 #### Götz László Keleten kél a Nap...
 
@@ -38,7 +44,7 @@ Ez egy indirekt, kifinomult módja a magyar múlt és örökség elajándékozá
 > Török, osszét (alán) és egyéb iráni jövevényszavainkra építi fel 9. századi gazdasági életünk egész rendszerét.  
 
 A 235. oldalon folytatja a témát, de olyan bizonyítással, amely a kronológiai bajokkal nem számol.  
-Mindenesetre jegyezzük meg Gombocz Z.: "Die bulgarisch-türkischen Lehnwörter in der ungarischen Sprache" (1912) című dolgozatát, mert erre hivatkoznak úgy magyarok, hogy biz. Benzing adatát meg nem ismerik (vagy letagadják). Márpedig "Die angeblichen bolgar-türkischen Lehnwörter im Ungarischen" című cikkében kereken tagadja a jövevényszavaknak tartott magyar szavak bolgár-török eredetét.  
+Mindenesetre jegyezzük meg Gombocz Z.: "Die bulgarisch-türkischen Lehnwörter in der ungarischen Sprache" (1912) című dolgozatát, mert erre hivatkoznak úgy magyarok, hogy bizonyos Benzing adatát meg nem ismerik (vagy letagadják). Márpedig "Die angeblichen bolgar-türkischen Lehnwörter im Ungarischen" című cikkében Benzing kereken tagadja a jövevényszavaknak tartott magyar szavak bolgár-török eredetét.  
 
 ## Szláv jövevényszavak  
 
