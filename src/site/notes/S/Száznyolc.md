@@ -1,0 +1,34 @@
+---
+{"dg-publish":true,"permalink":"/S/Száznyolc/","title":"Száznyolc","tags":["Englishtexttranslated"],"created":"2025-05-16T23:13","updated":"2025-05-16T23:14"}
+---
+
+
+# Száznyolc
+
+[[K/Kilences számrendszer\|Kilences számrendszer]] címnél már esett róla szó. Ami onnan ide át lett mentve:  
+
+#### Dobos Csanád írja:
+
+> De csak az időre vonatkozik a 108-as szám, vagy van esetleg más érdekes csillagászati jelentése is?  
+> A Föld és a Nap közötti távolság 108-szorosa a Nap átmérőjének (pontosan 107,8-szorosa). Továbbá a Föld és a Hold közötti távolság is szinte 108-szorosa a Hold átmérőjének (pontosabban kb. 110-szerese). Ezzel a kis "számjátékkal" pillanatok alatt eljuthatunk az idő fogalmától az univerzális térig. Mintha a 108-as szám egyfajta híd lenne az asztrológia és az asztronómia között is, mintha a mindenség az időre vonatkozó alapegysége lenne belefoglalva e számjegybe. Elhamarkodottnak tűnhetnek ezek a mondatok, de az asztrológiai, és egy másik, ősi csillagászati tény mégis megerősíti mindezt.  
+> A csillagászati magyarázata a 108-as számnak szárazabb, de mégis elgondolkoztató: Az [[E/Exeligmos\|exeligmos]] (görögül: εξέλιγμος - "a kerék elforgatása", azaz három "Saros" időszak)  
+> 54 éves és 33 napos időtartamot jelöl, melyet az egymást követő nap (és holdfogyatkozások) megjósolására lehet használni. Előnye ennek a háromszoros Saros időtartamnak, hogy közel hasonló helyen és hasonló órában volt várható a következő fogyatkozás. És ami számunkra érdekes, hogy ennek az időtartamnak a kétszerese szintén 108. Minden napfogyatkozással mintha megszűnne az idő. Az eltűnő Nappal együtt az élet lehetősége is kérdésessé válik. Bár csak néhány perces időszakról van szó, mégis sokkal jelentősebb ennek a csillagászati eseménynek az életre gyakorolt hatása, sőt a mitikus jelentése is. Elég csak a Nap és Hold szabadító meséinkre gondolni.  
+
+#### Antal István Tündéres, derengő...
+
+...című, az Ősi Gyökér 2006/1. számában megjelent dolgozatából talán kiderül, hogy a 108 az egész téridőt lefedi:  
+> Középkori kínai betyárregény a Vízparti történet. A vizek, erdők, hegyek rablóiról szól, akik szembeszegülnek a hatalommal, rabolnak, gyilkolnak, fosztogatnak megélhetési okokból, és ahogy a regény hömpölyög előre, egyre több és több betyár verődik össze, egyre nagyobb lesz a csapat. Amikor a betyárok száma eléri a **bűvös száznyolc**at, könyv érkezik a mennyből, benne a harminchat égi csillag és hetvenkét földi csillag nevével, ekkor a betyárok mindegyike megkapja új nevét, új rendbe szerveződik, pompázatos ruhába, fegyverzetbe öltözik, és beáll a hatalom, az ég fia, a kínai császár szolgálatába. (Amikor száznyolc betyárról beszélek, nem száznyolc emberről, hanem száznyolc betyár úrról esik szó, minden betyárnak van saját csapata, saját embere, szolgája, ágyasa, felesége, családja.)  
+> Honfoglaló nemzetségeink száma is száznyolc. Ha a hét vezér, hét törzs a hét bolygóhoz illesz\[kedne\], úgy a nemzetségek száma is az égen fényeskedőkhöz kell hogy kapcsoljon.  
+> A\[hogy Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvéből is kiderül\] a sumérok harminchat csillagképet ismertek: tizenkettő a zodiákus, a középső ég, és tizenkettő-tizenkettő az alsó és felső, azaz az öv alatt és öv feletti csillagképek száma.  
+> Indiában ismeretes egy harminchat elemű zodiákus is, de a nyugati zodiákus is, dekanátusokban számolva, harminchat szakaszú, esetleg a testi-lelki-szellemi háromszorozás teremt a tizenkettő-ből harminchatot, nem tudom, mindegy is, most nem megyek tovább, a lényeg, a nemzetalkotó nemzetségek száma és az ég csillagainak száma szorosan összefügg. Az összefüggést, a lehetséges összefüggést a csillagok számossága és száznyolc honfoglaló nemzetségünk között Lükő Gábor Buddhista korszakunk emlékei című kéziratában már sok éve felvetette:  
+> "Elsősorban a kínai népszokásokban élő buddhista emlékeket kell megismernünk. Nem lehet véletlennek tulajdonítanunk például, hogy az évkezdő áldozatok alkalmával 108 a csillagok száma, melyeknek az áldozatot bemutatják... Ez a szám ugyanis gyakran szerepel a buddhista népek vallásos világában Tibettől Japánig, mert kerek szám a kilences számrendszerben (12x9). De megtaláljuk egy ótürk sziklarajzon is a Szelenge folyó mellékén, egy áldozati jelenet ábrázolásán... sőt – csodálatosképen – a magyar krónikákban is. Ezek szerint honfoglaló eleink 108 nemzetség kötelékében éltek annak idején. A három idézett forrás adatai azonban nem csak absztrakt számértékben egyeznek, hanem a konkrét társadalmi témában is, melynek szimbólumai... Egy jeles történészünk persze, nem ismerve a keleti emlékeket, kétségbe vonta a krónikák számadatának hitelességét. Hogy is tudhatták volna krónikásaink, több évszázaddal a honfoglalás után, hogy mennyi volt akkor a nemzetségek száma? Bizonyára saját koruk adatait vetítették vissza a honfoglalás korába... Pedig bizony hiteles adat ez a honfoglalás korából, amit a szájhagyomány közvetített a krónikák koráig, bár nem a materiális mennyiségéről tájékoztat a nemzetségeknek, hanem az ideális számáról. De a kultúra talán fontosabb is a mi számunkra, mint a matéria, s ha igen, ebben megegyezünk buddhista eleinkkel... A buddhizmust és annak kilences számrendszerét nem ismerhették krónikásaink és azt is bajos feltételeznünk, hogy a XIV. században véletlenül éppen annyi volt a magyar nemzetségek száma. A kínaiak viszont bizonyára nem a csillagászat égitestjeit tisztelték a 108 csillagban, mert a vak is látja, hogy az égen nem ennyi a csillag és nem áll olyan szép rendben, ahogy ők a 108 mécsest kilenc sorba rakják tizenkettesével. Halottak lelkeit véltük látni a csillagokban mi is, meg keleti rokonaink is: azoknak áldoztak a kínaiak. Őseik szellemének segítségét kérték benne az új esztendőre. De minden nemzetség csak a saját őseitől remélhet segítséget, ezért úgy látszik Kínában is 108 volt a nemzetségek mitikus száma. És a Hadak-útja (a Tejút) nem a nemzetségek szimbóluma-e? Hiszen a nemzetségeknek sokfelé máig is had a becsületes magyar neve."  
+
+#### Greg Rigby The God Secret...
+
+...című könyvében írja szabályos ötszög kapcsán (ezek szerint a belső szögeinek összege 540⁰):  
+> The interior angles of 108° invite the construction of a regular pentagon.  
+> —  
+> A 108°-os belső szögek a szabályos ötszög szerkesztését sugallják.  
+
+A száznyolc nálam műveleti okok miatt [[S/Száz\|száz]]; lásd még [[S/SZAT\|SZAT]].  
+Hogy a (precesszióban értelmezett) [[T/Téridő\|téridő]] teljessége(nek kódszáma) is száz(nyolc), avagy 432, még nem eldöntetett. De ha már itt tartunk, éppen négyszerese a 432. [[S/Sothic\|Sothic]] címnél volt szó Mahler Ede Ókori chronologiai kutatások című könyvében adatolt négyszerezésről, ha jelent valamit, és [[N/Négy#Négyszerezés\|négy]] címnél legalul szó volt négyszerességről, négyszerezésről: ha nem 108, akkor 432 is lehet téridő-szám. Nincs még "eldöntve."  
