@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-05-09T22:47"}
+{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-05-16T23:08"}
 ---
 
 
@@ -77,7 +77,7 @@ Arról másutt is volt szó, hogy a korrumpált napvallás a Nap fényének megs
 ## Arany és pénz
 
 A pénz és arany jelentésű szavak vizsgálata alapján kiderül, hogy eredetileg kizárólag a Nap féméből, aranyból készült (ellenben például a francia pénz ezüst jelentésből indul ki).  
-Példaként a germán `geld`/[[G/Gold\|gold]] a Nap Kel-D nevéből ered, a perzsa [[Z/Zar\|zar]] = arany, pénz jelentésű, a [[S/Szár\|szár]] nyomán, a (kínai eredettel jelölt) japán [[K/KIN\|kin]] = arany és pénz értelmű is, de például a lengyel pénznem `zloty` esetét vizsgálva, az [alábbi](https://en.wiktionary.org/wiki/z%C5%82oty) oldal és [[S/Szár\|szár]] címnél szereplő adatok alapján kiderül, hogy az arany (`zlato` = arany) itt is alapértemény.  
+Példaként a germán `geld`/[[G/Gold\|gold]] a Nap Kel-D nevéből ered, a perzsa [[Z/Zar\|zar]] = arany, pénz jelentésű, a [[S/Szár\|szár]] nyomán, a (kínai eredettel jelölt) japán [[K/KIN\|kin]] = arany és pénz értelmű is, de például a lengyel pénznem `zloty` esetét vizsgálva, az [alábbi](https://en.wiktionary.org/wiki/z%C5%82oty) oldal és [[S/Szár\|szár]] címnél szereplő adatok alapján kiderül, hogy az arany (`zlato` = arany) itt is alapértemény, ahogy a régi holland `gulden` esetében is ezt látjuk.  
 
 ## Aranyalma
 
