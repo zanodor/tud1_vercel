@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2024-12-20T11:43"}
+{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2025-05-23T19:21"}
 ---
 
 
@@ -19,7 +19,7 @@ Labirintus, útvesztő.
 
 #### Péterfai János...
 
-...egyenesen lábérintős szót hoz (ami viszont az alanti infókkal nem egyeztethető össze):  
+...egyenesen "lábérintős" szót hoz (ami viszont az alanti infókkal nem egyeztethető össze):  
 > Egy másik mítosz szerint évi adó fejében szüzeket és ifjakat kellett küldeni Minósznak, aki a megérkezett szűzeket és ifjakat a Labirinthusba vetette. A Labirinthus sok részből álló palota, ahol a szüzek és ifjak eltévedhettek. A mítosz nem veszi figyelembe a Labirinthus Lábérintős jelentését, egyiptomi előfordulását, és ősmagyar nyelvűségét. Ettől függetlenül a Labirinthus az egyiptomi és krétai civilizáció jellegzetessége. Ha növényekből alkotnak labirinthust, akkor nem szabad a növényeken áthatolni játék közben, mivel csak lábbal lehet érinteni a talajt.  
 
 Úgy tűnik, Péterfai János nem számol azzal, hogy itt az emberi belekhez hasonlíttatott [[A/Anyaméh\|anyaméh]]ről[^1], az abba való behatolásról, azaz szexuális szimbolikáról van szó. Arról másutt is volt szó, hogy a [[L/LÁB\|láb]] – mint "harmadik láb" – ezen kontextusokban a \[Napot nemző Napatya – mint [[A/Apam Napat\|Apam Napat]]\] hímvesszőjét jelképezi, sőt, új, [[L/Labia\|labia]] címnél álló adat alapján a női nemi szervre is utalhat!  
