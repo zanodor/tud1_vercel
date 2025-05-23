@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2024-10-25T23:34"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2025-05-23T19:19"}
 ---
 
 
@@ -16,9 +16,9 @@ Elterjedt hiedelem szerint a [[G/Göncöl\|Göncöl]]szekér szállítja a túlv
 ...című könyvében [[M/Medve\|medve]] címnél halottvivő járművet halottaskocsit említ ([[B/Bier\|bier]] címnél is szerepelt):  
 > Egyiptomtól Észak-Európáig ismert ősi elképzelés szerint a holtak lelkei a Göncölszekérben várják visszatérésük idejét. A Nagy Medve "gyomra és hátsó fertálya" ez! A szekércsillagzat neve számos népnél **halottaskocsi** értelmű, és erről a magyar néphagyomány is tud.  
 > A medveistenséget nemcsak a görög-római műveltség azonosította a Nagy Medve csillagképpel. Finnugor rokonaink hitvilágában több jelkép szál fut össze: a hantik a csillagzatot – többek között – a halott **medveistent hordozó halottas szán**nak képzelték. Artemisz medveistennő csillagképpé válásának regéjére gondolva pedig érdemes eszünkbe idézni, hogy a szomszédos Kis Medvét eleink Nagyasszony társzekerének, Nagyboldogasszony csillagának is nevezték.  
-- [[B/Bárka\|Bárka]] címnél hasonlóról volt szó: a halott/éjjeli Nap járműve (a Hold, Jankovics Marcell szerint).
+- [[B/Bárka\|Bárka]] címnél hasonlóról volt szó: a halott/éjjeli Nap járműve (a Hold, Jankovics szerint).
 
-Jankovics Marcell alábbi, legutóbb [[S/Sarkcsillag\|Sarkcsillag]]nál és [[A/Arthur\|Arthur]] (valamint [[B/Bier\|bier]]) címnél is szereplő passzusa egyértelműsíti – miután az éjjeli/halott/fekete Nap a Sarkcsillaggal azonosul, és Arthur is kötődik a Göncölszekérhez (és a Szaturnuszhoz is) –, hogy ez a képzet egyetemes:  
+Jankovics Marcell alábbi, legutóbb [[S/Sarkcsillag\|Sarkcsillag]], [[A/Arthur\|Arthur]] valamint [[B/Bier\|bier]] címnél is szereplő passzusa egyértelműsíti – miután az éjjeli/halott/fekete Nap a Sarkcsillaggal azonosul, és Arthur is kötődik a Göncölszekérhez (és a Szaturnuszhoz is) –, hogy ez a képzet egyetemes:  
 > A kínai császárt nemcsak a Nappal, hanem az ég közepével, a Sarkcsillaggal is azonosították, ezért alattvalóinak, miközben ő délnek néző trónusán ült, észak felé fordulva kellett leborulniuk előtte. Nap- és sarkcsillagmás lett volna egyszerre? Úgy tűnik, igen.  
 > Egy elterjedt hiedelem szerint a Nap éjjel, amikor nem látjuk, az "ég közepén", a Sarkcsillag mögött tartózkodik. [[T/Teszkatlipoka\|Teszkatlipoka]] volt az aztékok első napistene (Várkonyi Nándornál istennője?!), de ő volt a Göncöl (és a Sarkcsillag?) megszemélyesítője is, az **éjszakai Nap**.  
 > Az első azték napisten, [[T/Teszkatlipoka\|Teszkatlipoka]] neve azt jelenti "Füstölgő [[T/Tükör\|tükör]]". A név az obszidiánra, a tükörnek is használható természetes fekete üvegre és az éjszakai égre utal (obszidiánból pattintották az áldozati kőkést is, amit szintén ő személyesített meg). Az isten bőrszíne fekete volt, hiszen az éj urának tekintették, birodalmának a központja, az "ég köldöke" a circumpoláris csillagok északi övezetében található, az ég legsötétebb részén, ott, ahol nem jár a Nap, örök sötétség uralkodik. Az égnek ez a része valóban felfogható a délen ragyogó nap sötét tükörképének. Az isten csillagos alakját mintha a [[S/Sarkcsillag\|Sarkcsillag]]gal (a [[S/Szaturnusz\|Szaturnusz]] csillaglelkével) és a Nagy [[G/Göncöl\|Göncöl]]lel azonosították volna.  
@@ -54,8 +54,8 @@ A többi fekete Napisten is Atumhoz hasonlóan a lemenő (illetve a nyári napfo
 ...című könyvében (is) – az óind [[Y/Yama\|Yamá]]hoz hasonlóan – Oziriszt teszi meg halott Napistennek Egyiptomban és fiát, Hóruszt az élőnek:  
 > Példaszerű eset Oziriszé, aki Alsó-Egyiptom ura, gabona- és szőlőisten volt, de a Nílusé is, mivel újjászületése jelképezte a Nílus áradását, halála pedig a folyó leapadását. Mint a halottak fejedelme az [[E/Égi egyenlítő\|égi egyenlítő]] alatti déli égbolton ([[D/Duat\|duat]]: [[A/Alvilág\|alvilág]]) is ő uralkodott, aki az [[O/Orion\|Orion]] csillagképben testesült meg, s ő volt az éjszakai (téli) halott Nap (és a Hold!) egyik megszemélyesítője Egyiptomban.  
 > **Orion a téli napfordulókor, karácsonykor tényleg a "fölkelő Napot hozza" tejútágain. Az Orion csillagkép, melyet a Tejút köt össze valóságosan a túlnan születő Nappal, a napvallásokban jelképesen is a Naphoz kapcsolódik.** Vagy úgy mint "holt" azaz állócsillagzattá vált Ősnap, Nap atya, a halott Nap csillaglelke (ilyen volt Ozirisz), vagy – együttállásban a Nappal – mint napisteni attribútumokkal felruházott csillaghérosz (maga Orion, a bibliai Mózes és Sámson) és -isten (Mithras), vagy annak hordozója (Anubisz, Szent Kristóf).  
-
-Az élő Hórusz (Nap) a "halott" Ozirisz (Orion, deus otiosus) helyett tevékenykedik (mint a [[D/Deszana\|deszana]] és más törzsi napvallásban). Az atya és a fiú egylényegűsége a fáraók "istenségében" is kifejeződik. A fáraó, amíg élt, Hóruszt testesítette meg; amikor elhunyt, Ozirisszá vált. Ez a felfogás – mint Hellaszban – kiterjedt az istenek összes generációjára.  
+> 
+> Az élő Hórusz (Nap) a "halott" Ozirisz (Orion, deus otiosus) helyett tevékenykedik (mint a [[D/Deszana\|deszana]] és más törzsi napvallásban). Az atya és a fiú egylényegűsége a fáraók "istenségében" is kifejeződik. A fáraó, amíg élt, Hóruszt testesítette meg; amikor elhunyt, Ozirisszá vált. Ez a felfogás – mint Hellaszban – kiterjedt az istenek összes generációjára.  
 
 #### Jankovics Marcell A Nap könyve...
 
@@ -130,7 +130,7 @@ Másutt is a Skorpió szerepel a halál helyeként:
 Jankovics Marcell másutt is írja, hogy a naphéroszokat a Skorpióban éri utol a végzetük (lásd Héraklész gyilkosát, Nesszosz kentaurt:  
 > Augeiász a leáldozó Napot személyesíti meg. Téli napfordulói évkezdéssel számolva az év utolsó hónapja a Nyilas, ami az "öreg" Nap uralmának a végét jelenti, és az új Nap trónra léptét vetíti előre. Ezt fejezi ki, hogy Hérakilész legyőzi Augeiász öreg napbikáját. Szó volt arról, hogy Iránban az újév kezdetét, új uralkodó trónra léptét a (nap)oroszlán (szarvas)bika feletti győzelme jelképezte.  
 
-Másutt is:  
+Megint másutt:  
 > A "hasadék" legfényesebb csillagának, a Skorpió csillagzat vörös Antaresének Szépasszon volt a magyar neve, mégpedig annak a [[S/Szépasszony\|Szépasszony]] nevű, felemás hiedelmi alaknak a nyomán, akiről azt tartották eleink, hogy bűbájával a férfiakat "erdős hasadékába" csalja, s azok e kalandba bele is pusztulnak. (Afrikában ma is tartja magát a hiedelem, hogy a skorpió a női nemiszerv "állata". A rovar mérges fullánkja ott a csiklót jelképezi, amit a feketék a férfiakra veszélyesnek hisznek. Ezért "metélik körül" Afrikában milliószámra ma is a nőket, azaz metszik ki a csiklójukat. Vö. azzal, hogy a sumer Ninhurszag "Világhegy-Úrnő" ágyékát skorpió-ijászok őrzik, a Gilgames-eposzban az alvilág bejáratát skorpióemberek vigyázzák. E skorpiók nyilvánvalóan a tejúthasadék állatövi csillagképére, a Skorpióra utalnak. Ez az a "ház" az asztrológiai szimbolikában, amelyben évről évre [[N/Nap – halott Nap#A Nap halála\|meghal a Nap]].  
 
 [[A/Akhilleusz\|Akhilleusz]] címnél Robert Graves és Jankovics Marcell adatai sorakoznak a Nap halálával kapcsolatosan (kígyó, skorpió mérge és mérges nyíl a halált okozó ágens).  
