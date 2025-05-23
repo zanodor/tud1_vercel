@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Még/","title":"Még","tags":["nyelvészet"],"created":"2024-02-02T01:03","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/M/Még/","title":"Még","tags":["nyelvészet"],"created":"2024-02-02T01:03","updated":"2025-05-23T19:20"}
 ---
 
 
