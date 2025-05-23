@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Koma/","title":"Koma","created":"2024-04-22T13:00","updated":"2024-10-25T22:26"}
+{"dg-publish":true,"permalink":"/K/Koma/","title":"Koma","created":"2024-04-22T13:00","updated":"2025-05-23T19:22"}
 ---
 
 
@@ -12,9 +12,10 @@
 Nos, szerintem, [[K/Komi\|komi]] címnél írottak alapján koma inkább embert, fényembert jelent. Ku-Ma, Hu-Ma annyit jelentene, mint Fény a Földön.  
 `Kum` és `kuma` lengyelül házassággal szerzett rokon (hím- és nőnem), mint ami a magyarban is a koma szóval kifejezett. A vogulban ugye [[K/KUM\|kum]] = ember.  
 
-Ha a magyar [[S/Sógor\|sógor]] és latin `socer` = após a [[S/Sacchar-\|sacchar-]] címnél taglalt ideák mentén, azaz Orionnal azonosítható, akkor a koma is, hiszen koma = kum = HUN = Hunor = Hunter = Orion.  
+Ha a magyar [[S/Sógor\|sógor]] és latin `socer` = após a [[S/Sacchar-\|sacchar-]] címnél taglalt ideák mentén, azaz Orionnal azonosítható, akkor a koma is, hiszen koma = kum = HUN = Hunor = Hunter = Orion. Kimondottan [[K/Khamor\|Khamor]] címnél szereplő szerető fogalma lehet még érdekes. Lám, hasonló összefüggés alant elő is jön.  
 
 [[P/Polygamy\|Polygamy]] címnél találkoztunk még hasonló szavakkal. Oda is bekerült lábjegyzetes adatként Götz László Keleten kél a Nap című könyvében hozott adata, miszerint a görög `gameo` (házasodik) a héber `cham` (após) szóval rokonítható.  
+
 Komával kapcsolatban lásd még [[C/Chum\|chum]], [[K/Komisz\|komisz]] és [[C/Con- prefixum\|con- prefixum]].  
 [[K/KUN\|KUN]] címhez is bekerült a spanyol `cuñado`, `cuñada` = sógor(nő) szópáros.  
 
