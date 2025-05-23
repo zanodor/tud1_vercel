@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-05-09T22:48"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-05-23T19:22"}
 ---
 
 
@@ -59,7 +59,9 @@ Mielőtt további példákkal szemléltetnénk, hogyan működik mindez a magyar
 > `GUR₄` (rohan), `GIR₄` (fut)  
 
 A magyar nyelv tehát belső működése szerint egyes hangokban alakváltoztatásokat ejt meg, hogy hasonló jelentésekkel hozzon létre új szavakat. Például [[V/VAK\|vak]] – fek(ete), fek(szik) (\[V-F\]). – Lásd még [[M/Mássalhangzók felcserélődése\|mássalhangzók felcserélődése]].  
-Az egyik legszemléletesebb példa magyar belső flexióra [[E/Egy\|Egy]] – [[A/Atya\|Atya]] ([[U/UTU\|UTU]]; [[A/Ad\|Ad]]) – [[A/Ász\|Ász]]/[[O/Ős\|Ős]] ([[A/Ács\|Ács]]) és persze ne felejtsük `egy` számnevünk más számneveinkben (2,4,5,6,7) való előfordulását sem.  
+Nyilván lesznek olyan ellenérdekeltek, akik ebben nem hisznek; nekik sem kell hosszasan magyarázni, hogy a [[H/Hold\|Hold]] neve nyomán keletkezik [[H/Hölgy\|hölgy]] nevünk. Vagy igen?  
+Az egyik legszemléletesebb összetett példa magyar belső flexióra a [[M/Magyar szavak, mondák idegen népek szavaiban, mondáiban felismerhetők#Világ teremtéséről szóló mondák\|magyar szavak, mondák idegen népek szavaiban, mondáiban felismerhetők]] cím/alcímnél említett [[E/Ég\|ég]], [[E/Egy\|egy]] és [[H/Hegy\|hegy]] szavak közös mondai eredetében mutatkozik meg.  
+Egy másik másik ilyen az [[E/Egy\|Egy]] – [[A/Atya\|Atya]] ([[U/UTU\|UTU]]; [[A/Ad\|Ad]]) – [[A/Ász\|Ász]]/[[O/Ős\|Ős]] ([[A/Ács\|Ács]]) sorozat, és persze ne felejtsük `egy` számnevünk más számneveinkben (2,4,5,6,7) való előfordulását sem.  
 ```plantuml-svg
 @startuml
 skinparam BackGroundColor transparent
