@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gene/","title":"Gene","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T02:31","updated":"2025-05-03T09:35"}
+{"dg-publish":true,"permalink":"/G/Gene/","title":"Gene","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T02:31","updated":"2025-05-23T19:22"}
 ---
 
 
@@ -14,7 +14,7 @@ Gén. Lásd [[G/Geny\|geny]].
 
 
 Kiss Dénes is felveti: [[I/Idegen\|idegen]] szavunk is az "ide jön" fogalommal függ össze?  
-  
+[[P/Progeny\|progeny]]  
 
 Götz László Keleten kél a Nap című könyvének 162-164. oldalain található görög és héber szavakat hasonlító szószedetében találjuk a görög `gennao` = teremt, gyárt ige mellé téve a héber `ķana` = teremt, gyárt igét. Ez utóbbi nem annyira a könny, hanem inkább az imént említett [[K/KAN#KAN folyadéknemű, örökítő anyag jelentése\|KAN folyadéknemű, örökítő anyag jelentése]] és a [[K/Kutyanemzés#Kan teremtői képessége – nyelvészeti kapcsolat\|kan teremtői képessége – nyelvészeti kapcsolat]] cím/alcímnél írottak irányába tereli gondolatainkat.  
 
