@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szláv és török jövevényszavak/","title":"Szláv és török jövevényszavak","created":"2025-03-08T20:46","updated":"2025-05-09T22:49"}
+{"dg-publish":true,"permalink":"/S/Szláv és török jövevényszavak/","title":"Szláv és török jövevényszavak","created":"2025-03-08T20:46","updated":"2025-05-23T19:18"}
 ---
 
 
@@ -22,7 +22,9 @@ Itt talán még Czeglédi Katalin egyes cikkeinek fogalmazásai miatt került a 
 Amit Buji Ferenc nem mond ki, hogy ezen sztyeppei népek (sokan úgy mondanák: szkíták, szittyák) valójában a kún/hun népek, kiknek szakrális-vallási szavai is K-N, K-Nd, H-N, stb. alapvázra épülnek. Buji Ferenc a kány- gyökről írt dolgozatát említettük [[K/KONY\|KONY]] címnél is.  
 [[M/Magyar ősvallás\|Magyar ősvallás]] címnél szerepeltek a [[K/Kniezsa István\|Kniezsa István]] szerinti kereszténységre vonatkozó kifejezések legrégibb rétegéhez tartozó szláv úton nyert magyar szavak. Valójában a szláv, germán és török is magyar-hun nyelvek keverékéből jött létre.  
 
-Elképesztő dolog, hogy a nyelvtudomány nem mondja el (vagy nem tudja), hogy kik azok a szlávok, akiktől a magyarok a szavakat átvették volna; mert ha tudná (a valós történelmet), nem lenne olyan könnyű dolga, a [[S/Szablya\|szablya]] címnél is említett "csillagos", tehát nem adatolható, csupán kikövetkeztetett(?) szláv szavakra csak úgy ráböknie (ellenben proto-magyar gyöknyelvészet nincs és nem is lehet).  
+Elképesztő dolog, hogy a nyelvtudomány nem mondja el (vagy nem tudja), hogy kik azok a szlávok, akiktől a magyarok a szavakat átvették volna; mert ha tudná (a valós történelmet), nem lenne olyan könnyű dolga, a [[S/Szablya\|szablya]] címnél is említett "csillagos", tehát nem adatolható, csupán kikövetkeztetett(?) szláv szavakra csak úgy ráböknie (ellenben proto-magyar gyöknyelvészet nincs és nem is lehet).
+{ #250522}
+
 
 De van itt még három szó, ami figyelmet érdemel.  
 Kezdjük a török eredetűnek megadott [[A/Ács\|ács]] szavunkkal, mely címnél kifejtettem, hogy ha átvettük volna a törökből, a teljes szót vettük volna át. Ellenben a magyar szó az [[A/Atya\|atya]] és [[O/Ős\|ős]] (teremtő) szavakkal összefüggésben jött létre belső fejlődéssel, amit jól bizonyít az is, hogy az ácsot jelentő görög `tektón` mögötti alapfogalom teremtés, nemzés kellett legyen, más rokon, T-K gyökű szavak értelme alapján:  
@@ -34,7 +36,7 @@ Az [[I/Ív#^7nsr8g\|ív]] címnél adatolt szlovén `obel` esetében – ahol `�
 
 Arról [[K/Kovács\|kovács]] címnél is volt szó, hogy a szavak szláv és más nyelvekből való eredeztetése azt is jelenti, hogy az adott műveltséget (fémmegmunkálást, stb.) is az adott néptől vettük volna át.  
 
-Ez egy indirekt, kifinomult módja a magyar múlt és örökség elajándékozásának és népünk teljesítménye lealacsonyításának. Erre jó a nyelvészet "tudománya." 
+Ez egy indirekt, kifinomult módja a magyar múlt és örökség elajándékozásának és népünk teljesítménye lealacsonyításának. Erre jó a nyelvészet "tudománya."
 
 #### Götz László Keleten kél a Nap...
 
