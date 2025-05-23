@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zár/","title":"Zár","tags":["titleandheadingonedontmatch"],"created":"2023-11-19T03:41","updated":"2024-10-27T01:31"}
+{"dg-publish":true,"permalink":"/Z/Zár/","title":"Zár","tags":["titleandheadingonedontmatch"],"created":"2023-11-19T03:41","updated":"2025-05-23T19:17"}
 ---
 
 
@@ -7,6 +7,10 @@
 
 Zár szavunk is a [[K/KAR\|KAR]] alapszóhoz tartozik. Egy időszak ([[K/Kor\|kor]] = [[K/Kör\|kör]]) lezárultával jön a következő, kivált a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] fordulópontjaira vonatkoztatva. Az idő ugye körkörös. [[E/Életkör\|Életkör]]ben élünk.  
 Tehát ahogy [[S/Szer\|szer]]/[[S/Szerencse\|szerencse]] szavak kör értelműnek illetve ahhoz tarthatónak foghatók fel, zár is. Az időkör lezárulása napi ciklusban adná meg az olasz `sera` = este értelmét is, honnan az új nap kezdődik (lásd erről [[H/Holnap\|holnap]]).  
+
+Felfedezhetünk más időkörre vonatkozó összefüggést is:  
+A zár = nyit = nyíl(ás) = Nyilas, ahol az év lezárul, de a másik, Ikrek felőli oldalon is metszi a [[B/Barázda\|barázda]] mellett hegyvonulatként is értelmezhető Tejút a nappályát. És lám, a spanyol `sierra` és portugál `serra` = hegylánc értelmű, és aligha hihető, hogy a latin `serra` = fűrész lenne a kiinduló, és így a 'hegylánc' jelentés egy szemantikai eltolódás eredménye lett volna, mondván hogy a fűrész fogazott élének vizuális hasonlóságán alapul a hegyvonulatok csipkézett profiljával.  
+  
 
 [[S/SAR#Sar 2)\|Sar]] magyar-sumér szónál szóba került zár igénk, minthogy – az időt, annak – [[S/Samsara\|szamszára]] címnél (a szó utótagja is ide tartozik) is taglalt – körkörösségét szimbolizáló – kör periódust, így bolygók orbitális pályáját és időbeli hosszát is jelentheti. [[Z/Zero\|Zero]] értelmezése is így tulajdonképpen – Péterfai János ajánlására – záró lenne.  
 
