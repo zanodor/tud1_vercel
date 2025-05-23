@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csőd/","title":"Csőd","created":"2024-12-08T23:36","updated":"2024-12-08T23:36"}
+{"dg-publish":true,"permalink":"/C/Csőd/","title":"Csőd","created":"2024-12-08T23:36","updated":"2025-05-23T19:23"}
 ---
 
 
