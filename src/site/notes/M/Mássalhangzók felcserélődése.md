@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-05-09T22:49"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-05-23T19:21"}
 ---
 
 
@@ -29,7 +29,7 @@ A legfontosabb, önmagába kígyóként farkába harapó, cirkuláris hangfejlő
 > Ismerve a h és sz hangok gyakori hangcsere jelenségét, észrevehetjük, miszerint az olasz-francia-német `sala`, `salone`, `Saal` szó sem más mint [[O/Ól\|ól]], hol ős-szavunk egyik (de szarmata őstörzsünk szócsoportjabeli) származéka.  
 
 A `sajka` is például angolban `hulk`, ahol a hivatalos etimológia is említi azt a görög `holkasz` szót, melyet Aczél József a szókezdő sz h-ra változása kapcsán említ (vagy őnála inkább fordítva lehetett).  
-Az sz>h mássalhangzó-csere gyakorisága miatt `szer` és főképpen `szörp` szavunk tűnik megfejtésnek [[H/Herb\|herb]] szóra.  
+Az sz>h mássalhangzó-csere gyakorisága miatt `szer` és főképpen `szörp` szavunk tűnik megfejtésnek `herb` szóra.  
 
 Hogy a k, h, s, sz fölcseréltetnek, az az általános emberi hangszervek természetében fekszik. Így jönnek öszve a latin `cornu`, német `Horn`, magyar `szaru`. \[CzF\]  
 
@@ -63,7 +63,7 @@ T>GY vagy GY>T változásra vagy azonosságra példa Magyar > Matar, Gyám > Tá
 
 ### B-D-G mássalhangzók változásai  
 
-Legszemléletesebb példa a [[G/Gömb\|gömb]] és [[D/Domb\|domb]] szavaink hangalaki és fogalmi párhuzama.  
+A legszemléletesebb példa a [[G/Gömb\|gömb]] és [[D/Domb\|domb]] szavaink hangalaki és fogalmi párhuzama.  
 
 Egyébként ezek voltak azok a hangok, melyeket [[O/Orrhang\|orrhang]]os [[H/Hungár\|hungár]] és más neveink ([[E/Ember\|ember]], [[A/Andor\|Andor]], stb.) kapcsán úgy említettem, hogy nehéz eldönteni, hogy az n/m hangok a betoldások, vagy ezek.  
 
