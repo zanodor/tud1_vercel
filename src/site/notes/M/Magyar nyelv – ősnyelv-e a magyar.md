@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv – ősnyelv-e a magyar/","title":"Magyar nyelv – ősnyelv-e a magyar","tags":["Englishtexttranslated"],"created":"2023-10-09T06:38","updated":"2025-03-21T22:13"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv – ősnyelv-e a magyar/","title":"Magyar nyelv – ősnyelv-e a magyar","tags":["Englishtexttranslated"],"created":"2023-10-09T06:38","updated":"2025-05-23T19:21"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Bevezetést lásd [[M/Magyar nyelv ősisége\|magyar nyelv ősisége]].  
 
-Péterfai János már szólt magyarjainkról, akik a magyar nyelvet más nyelvek anyjának tették meg. 
+Péterfai János már szólt magyarjainkról, akik a magyar nyelvet más nyelvek anyjának tették meg.
 
 Egy előadás adatai szerint:  
 > "A magyar nyelv tán az egész óvilág nyelveinek gyökere." – Berzsenyi Dániel  
@@ -20,7 +20,7 @@ Jókai Mór elegáns és maró gúnnyal tiltakozva ezt írta:
 
 #### Oláh Imre A magyar lélekhit keleti elemei...
 
-...című Ősi Gyökér 2004/3. számában megjelent cikkében is hoz hasonlókat (a nem-magyarokat nem veszem ide, és [[B/Bowring, John\|Bowring, John]] méltató szövegét sem):  
+...című Ősi Gyökér 2004/3. számában megjelent cikkében is hoz hasonlókat (a nem-magyarokat nem veszem ide, és John Bowring méltató szövegét sem):  
 > Füst Milán találóan írja:  
 > "Szent ez a nyelv! S több kincsed nincs neked! Oly csodás nyelv a magyar. Révület fog el, ha rágondolok is....... Halld meg szavam! Én prófétáktól származom." (A magyarokhoz, 1934)  
 > Babits Mihály is, aki gondolom, hajlandó lett volna esküt is tenni arra, hogy "a magyar nyelv a világirodalom minden zenéjének leghívebb letéteményese, legméltóbb edénye lehet."  
@@ -203,9 +203,9 @@ Péterfai János Atlantiszról szóló írásában úgy fogalmaz, hogy a magyar 
 > —  
 > Ez a kinevezés új spirituális távlatokat hozott az életembe. Héberül és görögül tanultam, és ezzel párhuzamosan a bantu nyelvet, Kamerun nyelvét, hogy lefordíthassam a Szentírást. Mindezt azon a sok nyelven kívül, amelyeket gyermekkoromtól kezdve tanultam, és amelyeket a különböző nemzetiségekkel való munka évei alatt tanultam. Rábukkantam Wange misszionárius és professzor nagyszerű szótárára a bantu nyelvről, amelynek címe "Sumerian, the Sanskrit of N'tu". (A N'tu a bantu név többes száma.)
 
-> 
+>
 > My amazement grew as I continued to compare the Bantu and Magyar words, where both form and content were so identical that it made the common origin of the two languages evident. But this was only the beginning. The more dictionaries and languages I consulted, the result was the same. I took the blinders off – which were designed to keep horses in line – and by now I started to look around in a 360 degree arc in all the languages around the world to find the words identical to MAGYAR words.  
-> **The Magyar identity in the languages, the immense volume, is shocking. It is an enormous amount of material! Their cataloging, organization, explanation requires a whole lifetime of dedication. The end-result of such studies can be only one thing: The Magyar language is mankind's first language, the language of creation, the ancestral language**. 
+> **The Magyar identity in the languages, the immense volume, is shocking. It is an enormous amount of material! Their cataloging, organization, explanation requires a whole lifetime of dedication. The end-result of such studies can be only one thing: The Magyar language is mankind's first language, the language of creation, the ancestral language**.
 > —  
 > A csodálkozásom egyre nőtt, ahogy folytattam a bantu és a magyar szavak összehasonlítását, ahol mind a forma, mind a tartalom annyira azonos volt, hogy nyilvánvalóvá vált a két nyelv közös eredete. De ez még csak a kezdet volt. Minél több szótárat és nyelvet néztem meg, az eredmény ugyanaz volt. Levettem a szemellenzőt – ami a lovakat hivatott kordában tartani –, és ekkor már 360 fokos ívben kezdtem körbejárni a világ összes nyelvét, hogy megtaláljam a MAGYAR szavakkal azonos szavakat.  
 > **A magyar azonosság a nyelvekben, a mérhetetlen mennyiség, megdöbbentő. Hatalmas mennyiségű anyagról van szó! A katalogizálásuk, rendszerezésük, magyarázatuk egy egész életre szóló odaadást igényel. Az ilyen tanulmányok végeredménye csak egy lehet: A magyar nyelv az emberiség első nyelve, a teremtés nyelve, az ősök nyelve**.  
@@ -215,7 +215,7 @@ Még mindig Nagyernyei Szabó Zoltán misszionárius pap Tomory Zsuzsa Magyar-En
 > The American Linguistic Seminar at Bochum University, Germany, including Russian and other linguists accepting The One Language of Mankind as a fact based on up to date computerized linguistic research rejected the existence of a separate Finno-Ugric language family – **elvetvén az u.n. "finnugor nyelvcsalád" külön magábanlétezését** megállapították, hogy egy nyelvezete van az emberiségnek és a magyar nyelvet az ősnyelv elágazásának jelenlegi állapotában az Elámo-Dravida/Uralo-Dravida törzs jellegéhez legközelebbállónak találták, s ezt ennek közelebbi kiágazásaival az Afro-Ázsia-i, kártveli, indoeurópai és altaival együtt egy közös nyelvnek [[N/Nosztratikus nyelvcsalád\|nosztratikus]] névvel jelölt egyik főbb nyelvtörzseként ismertették. Láthatólag ezt a szétvándorlást és nem a nyelvben hordozott ősműveltség belső lelki fejlettségének kifejező erejét vette figyelembe (Walter Koch: Language in the Upper Pleistocene, 1991 Bockmeyer, Bochum, Germany az ősnyelvi elágazások ábráival: az 5.1 számú Koch 1991. kezdetén, az 5.2 számú Vitaly Shevoroskin 1990. évi és az 5.3 számú Bateman 1990-ben készült ábráját mutatja).
 { #x5fd1}
 
-- A szövegben már egyes nyelvcsalád-nevezetek javított változatát adom.  <br/>
+- A szövegben már egyes nyelvcsalád-nevezetek javított változatát adom. <br/>
 Az angol szöveg magyarul pedig így hangzik:  
 Az amerikai nyelvészeti szeminárium a Bochumi Egyetemen, Németországban, orosz és más nyelvészek részvételével, akik a legmodernebb számítógépes nyelvészeti kutatásokon alapuló eredményekre hivatkozva az emberiség egy nyelvét tényként fogadják el, elutasították egy külön finnugor nyelvcsalád létezését.
 
