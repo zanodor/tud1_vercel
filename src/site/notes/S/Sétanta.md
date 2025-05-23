@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sétanta/","title":"Sétanta","tags":["Englishtexttranslated"],"created":"2023-11-21T12:44","updated":"2024-10-26T00:20"}
+{"dg-publish":true,"permalink":"/S/Sétanta/","title":"Sétanta","tags":["Englishtexttranslated"],"created":"2023-11-21T12:44","updated":"2025-05-23T19:19"}
 ---
 
 
 # Sétanta
 
-[[C/Cuchulainn\|Cúchulainn]] ír hős fiatalkori alakja. Igen érdekes, hogy előtagja [[S/Széth\|Széth]] nevét idézi, utótagja pedig lehet [[A/Anta\|anta]] = Nap (Szíriusz?). A névnek és annak, hogy ez fiatalkori neve, jelentősége van. Kérdés, hogy az ír mitológia tartalmazhat-e a precessziós Nagy Évre és Szíriuszra vonatkozó tudást.   
+[[C/Cuchulainn\|Cúchulainn]] ír hős fiatalkori alakja. Igen érdekes, hogy előtagja [[S/Széth\|Széth]] nevét idézi, utótagja pedig lehet [[A/Anta\|anta]] = Nap (Szíriusz?). A névnek és annak, hogy ez fiatalkori neve, jelentősége van.  
   
 
 #### Tomory Zsuzsa írja:
