@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Ragozó nyelvek/","title":"Ragozó nyelvek","tags":["containstransclusions"],"created":"2023-12-23T10:29","updated":"2025-02-24T22:11:10Z"}
+{"dg-publish":true,"permalink":"/R/Ragozó nyelvek/","title":"Ragozó nyelvek","tags":["containstransclusions"],"created":"2023-12-23T10:29","updated":"2025-05-23T19:19"}
 ---
 
 
@@ -12,7 +12,7 @@ A [[G/Genetika\|genetika]] címnél taglalt Árkay féle cikk megállapításait
 ...című az Ősi Gyökér 2013/1-2. sz. megjelent cikkének [[P/Pentaton\|pentaton]] címnél szereplő passzusai után tehető/vehető:  
 > A ragozó nyelvek nyelvtana jóval többet foglalkozik az alaktannal, mint a mondattannal. A ragozó nyelveket beszélő népcsoportok egy jó része – Árkay László szavaival élve – "egészen misztikusan azonos" egyrészt a pentatóniát használó népekkel, másrészt a génkutatások és az ősrégészet eredményeiből kirajzolódó kapcsolatban álló etnikumokkal.  
 > Az említett hat folt közül öt megtalálható a ragozó nyelvek térképén is: a [[K/Kárpát-medence\|Kárpát-medence]] a magyar nyelvvel, Közép Ázsia az altáji nyelvek egy részével, a Távol Kelet a japánnal, Közép Afrika a bantu nyelvekkel, valamint az amerikai indiánok a majával és a kecsua nyelvvel. Habár a kelta nyelvek közül egyik sem agglutináló, vannak olyan elképzelések, hogy a baszkok is kelta származású nép. Az ő nyelvük pedig ugyancsak ragozó, nyelvtana és mondatszerkesztése szempontjából rendkívül hasonlít a magyarra.  
-> [[S/Simon Péter\|Simon Péter]] elmondja, hogy a kanadai dakota és oglala indiánok nyelve is ragozó, sőt, ennél sokkal több kapcsolódási pontra mutat rá az indiánok és a magyar nép között. A Duna Tv által pár éve sugárzott dokumentumfilm az ujgurokkal létező ugyanilyen rokonságra hívta fel a figyelmet (Kína észak-nyugati részén). Íme, négy különböző kutatási terület eredményei hozzák egy nevezőre az említett hat földrajzi terület népcsoportjait. Annak a valószínűsége, hogy ez véletlen legyen, szinte egyenlő a nullával. Igaz, hogy a pentatónia megtalálható más népcsoportoknál is (Hátsó- és Elő-Indiában, Indonéziában, Melanéziában és Mikronéziában, valamint Nyugat-Polinéziában), továbbá Indiában, Indonéziában és Polinéziában is találunk ragozó nyelveket, azonban ezek a földrajzi területek nem jelennek meg Árkay László beszámolójában. Lehet, hogy a génkutatások és az ősrégészet szempontjából ezek a "foltok" nem mutatnak rokonságot a többivel.  
+> Simon Péter elmondja, hogy a kanadai dakota és oglala indiánok nyelve is ragozó, sőt, ennél sokkal több kapcsolódási pontra mutat rá az indiánok és a magyar nép között. A Duna Tv által pár éve sugárzott dokumentumfilm az ujgurokkal létező ugyanilyen rokonságra hívta fel a figyelmet (Kína észak-nyugati részén). Íme, négy különböző kutatási terület eredményei hozzák egy nevezőre az említett hat földrajzi terület népcsoportjait. Annak a valószínűsége, hogy ez véletlen legyen, szinte egyenlő a nullával. Igaz, hogy a pentatónia megtalálható más népcsoportoknál is (Hátsó- és Elő-Indiában, Indonéziában, Melanéziában és Mikronéziában, valamint Nyugat-Polinéziában), továbbá Indiában, Indonéziában és Polinéziában is találunk ragozó nyelveket, azonban ezek a földrajzi területek nem jelennek meg Árkay László beszámolójában. Lehet, hogy a génkutatások és az ősrégészet szempontjából ezek a "foltok" nem mutatnak rokonságot a többivel.  
 - Korábban találkoztunk velük, mint a többi népséggel.
 
 #### Magyar Adorján írja:
@@ -32,7 +32,7 @@ A Götz László Keleten kél a Nap című könyvének 94-95. oldalain megszóla
 #### Péterfai János írja:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/f/flexio/#bjhh4f" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/F/Flexió/#bjhh4f" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -43,7 +43,7 @@ A Götz László Keleten kél a Nap című könyvének 94-95. oldalain megszóla
 </div></div>
 
 
-Azaz ha a vitapartner bedobja a nagy adu ászt a flektáló/hajlító nyelvek ősibb voltát bizonygatva, fel kell említeni nekik, hogy a magyar nyelv legalacsonyabb fokán vizsgálható egységeit tekintve is megfigyelhető a jelenség, sőt, ezen szavak belső fejlődéssel tetszőlegesen bővíthetők a szóbokrokon belül. Tehát ne csak a ragok/toldalékok kapcsán legyünk okosak, hanem az egyáltaláni gyökök azaz alapszavak ilyen változatait is ismerni kell.  
+Azaz ha a vitapartner bedobja a nagy adu ászt a flektáló/hajlító nyelvek ősibb voltát bizonygatva, meg kell említeni nekik, hogy a magyar nyelv legalacsonyabb fokán vizsgálható egységeit tekintve is megfigyelhető a jelenség, sőt, ezen szavak belső fejlődéssel tetszőlegesen bővíthetők a szóbokrokon belül. Tehát ne csak a ragok/toldalékok kapcsán legyünk okosak, hanem az egyáltaláni gyökök azaz alapszavak ilyen változatait is ismerni kell.  
 
 ## Ókori magyar-rokon népek ragozó nyelvet beszéltek  
 
