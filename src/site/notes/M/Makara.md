@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2025-05-09T22:49"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2025-05-24T18:59"}
 ---
 
 
 # Makara
 
-Lásd alant, [[M/Makara Sankrati\|Makara Sankrati]] címnél Richard H. Allen könyvéből származó adatot, miszerint a Szarvas (antilop) csillagzatról van szó. (De jó lenne egy ind égtérkép.)  
+Lásd [[M/Makara Sankrati\|Makara Sankrati]] címnél Richard H. Allen könyvéből származó adatot, miszerint a Szarvas (antilop) csillagzatról van szó. (De jó lenne egy ind égtérkép.)  
 Ennek megfelelően a csillagképről kapta a Makara szoláris hónap (a szintén mag-os [[M/Maghā\|Magha]] a hozzá tartozó holdhónap neve) a nevét: Makara a gregorián naptárunk január-februárjának felel meg.  
 
 #### John Major Jenkins Galactic Alignment...
@@ -37,7 +37,7 @@ Iain Forbes a LastoftheDruids című oldalról való anyaga szerint Makara nem m
 Itt még csak annyit, hogy a mellékelt képen [[G/Ganga\|Ganga]] (Tejútistennő) "járműve" a Makara.  
 ![assets/Makara_image1.png](/img/user/M/assets/Makara_image1.png)  
 
-Michel-Gerald Boutet Druidical Astrology című dolgozatában írja ((nyilván keltáknak haza beszélni is akarva) a Duna-menti műveltséget is szóba hozva):  
+Michel-Gerald Boutet Druidical Astrology című dolgozatában írja (a Duna-menti műveltséget is szóba hozva):  
 > The Makara sign was at times represented as a crocodile but more often as a dolphin. The dolphin, which is also present in Greek myths and in Celtic myths as the porpoise or merman. It symbolises spirit emerging from the primordial waters. It may be argued that the myth originated in Sumer. Nevertheless, the Lepenski Vir sandstone sculptures of the Danube dated 6000-5000 BCE represent fish-men or mermen that parallel the Sumerian myths.  
 > —  
 > A Makara jelet időnként krokodilként, de gyakrabban delfinként ábrázolták. A delfin, amely a görög mítoszokban és a kelta mítoszokban is jelen van, mint delfin vagy sellő. Az ősvizekből kiemelkedő szellemet szimbolizálja. Azt lehet állítani, hogy a mítosz Sumérból származik. Mindazonáltal a Lepenski Vir dunai homokkőszobrai, amelyek Kr. e. 6000-5000-re datálhatók, halembereket vagy sellőket ábrázolnak, amelyek párhuzamba állnak a sumér mítoszokkal.  
@@ -70,7 +70,7 @@ Ha ez érdekes lehet. Hogy szerepelt [[K/Kazár\|kazár]] címnél?
 #### Czeglédi Katalin A keleti magyar sezserék nyelvi tanulságai...
 
 ...című az Ősi Gyökér 2007/4. sz. megjelent, több helyen idézett cikkében írja ([[M/Magyar\|magyar]] címnél nagyrészt ugyanez megvolt):  
-> Figyelemre méltó az or. siska (HADROVICS-GÁLDI 1951) címnél a mondás: на бедного Макара все шишки валятся: 'Szegény embert még az ág is húzza', ahol **az ember szóra az orosz szövegben Makar/Makara szerepel**. Az ág pedig 'a kiindulás, az eredet helye' értelmű \[Czeglédi szerint\].  
+> Figyelemre méltó az or. siska (HADROVICS-GÁLDI 1951) címnél a mondás: на бедного Макара все шишки валятся: 'Szegény embert még az ág is húzza', ahol **az ember szóra az orosz szövegben Makar/Makara szerepel**. Az ág pedig 'a kiindulás, az eredet helye' értelmű.  
 - Ellenben [[M/Macarize\|macarize]] címnél éppen nem szerencsétlen, hanem ezzel ellentétes értelmű görög `μάκαρ` = áldott, szerencsés szót láttunk. Ami ismételten oda mutat, hogy itt körfolyamatról, a [[H/Hunor és Magor\|Hunor-Magor]] [[E/Életkör\|életkör]]ről van szó: egyszer domború, másszor homorú (szomorú).
 
 Ág itt nyilván az agancson keresztül a szarvasra ([[M/Magor\|Magor]] a [[S/Szarvas csillagkép\|Szarvas csillagkép]]ben születik, ami Bak ma) utal, illetve lásd még [[P/Perennial\|perennial]] és [[Z/Zodiac\|zodiac]] címnél írottakat.  
@@ -82,7 +82,26 @@ De Czeglédi Katalin más adata kapcsán...
 ...gondolható, hogy valójában a Szarvas a Magyar istenanya/[[T/Tejútanya állatalakjai\|Tejútanya állatalakja]] egyszer, másodsorban – lásd erről [[T/Turul#Tur/Turul mint szarvasfiú\|Tur/Turul mint szarvasfiú]] cím/alcímnél – [[M/Magor\|Magor]] fiát a [[S/Szarvas csillagkép\|Szarvas csillagkép]]ben/[[B/Bak csillagkép\|Bak csillagkép]]ben szüli.  
 
 Anatolij Szemenov When in Russia, Speak Like a Russian című könyvében is megtaláljuk a szólás-mondást, és Makár tulajdonképpen a [[S/Szegény\|szegény]] kutya(sorsú emberen keresztül) ([[M/Mazúr\|mazúr]] is ilyen szó; ott egyiptomi magyarként azonosítottunk) megfelelője is lehet, márpedig [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]] címnél volt szó arról, hogy annak is lehet olyan neve. [[M/Magar\|Magar]] címnél szamár kapcsán is elhangzott, hogy a szamárnak K-M-R/SZ-M-R alakú neve kellene legyen.  
-![assets/Makara_image2.png|invert_dark](/img/user/M/assets/Makara_image2.png)  
+
+> **На бе́дного Мака́ра все шишки ва́лятся.** *(Посл.)* ➔ \[All pinecones fall on poor Makar.]  
+> * The lean dog is all fleas.
+> * A man born to misfortune will fall on his back and fracture his nose.
+> * An unhappy man’s cart is easy to overthrow.
+> 
+> ➤ **Meaning:** used to say that the unhappier someone is, the more misfortunes he suffers.
+> **Note:** Said when a poor thing has more troubles.
+> **Note:** In Russian folklore, the man’s name **Makár** is associated with an unlucky person who is in distress.  
+> —  
+> **На бе́дного Мака́ра все шишки ва́лятся.** *(Посл.)* ➔ \[Minden toboz a szegény Makárra hull.\]
+> * A sovány kutya csupa bolha.
+> * Aki szerencsétlennek született, az hanyatt esik és eltöri az orrát.
+> * A szerencsétlen ember kocsiját könnyű felborítani.
+>
+> ➤ **Jelentés:** arra használják, hogy elmondják, minél boldogtalanabb valaki, annál több balszerencse éri.
+> **Megjegyzés:** Akkor mondják, amikor egy szerencsétlen embert további bajok sújtanak.
+> **Megjegyzés:** Az orosz folklórban a **Makár** férfinév egy bajban lévő, szerencsétlen emberhez kapcsolódik.  { #h8no62}
+
+
 Az orosz szó viszont hasonlítható a komi `megyr` 'ív, hajlított forma', `mygör` 'figura, alak, forma ....' és mari `mykyr` 'görbeség' szavakhoz. Ami tehát megvan egyszer [[H/Hungár\|hungár]]-[[H/Hunger\|hunger]]-ként görbeség ideáival, megvan magar-os alakú nevekben is, hiszen [[H/Hunor és Magor\|Hunor és Magor]] az [[A/Arkadash\|arkadash]] címnél is taglalt [[L/Lemniszkáta\|lemniszkáta]] két hátastársa/görbehátú/íjazó alakja.  
 [Ezen](https://www.slovorod.ru/dic-dal/dal-m.htm) oldalon Dal orosz értelmező szótárában is megtaláljuk (a fenti mondást nála az utolsó sorában):  
 > МАКАР, прозвище рязанцев, особ. кадомцев, будто по словам Петра I, встретившего там трех Макаров сряду, и сказавшего шутя: будте ж вы все Макары! Это лучшие рыболовы и целовальники, почему откупщиков, и вообще плутов, зовут Макарами. | Сиб. простак. | Шуточн. комар. Подпустить макарку, сплутовать. Макарыга, макарьевский нищий, пск. твер. наглый, безотвязный попрошайка. Вчера Макар гряды копал, ныне Макар в воеводы попал, намек на откупщиков винных. Я тебя туда спроважу, куда Макар телят не гонял! Комар да мошка, Макар да кошка. Макара двураз не женят. На бедного Макара шишки валятся.  
