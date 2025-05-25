@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BOT/","title":"BOT","created":"2023-11-21T11:37","updated":"2025-05-03T10:56"}
+{"dg-publish":true,"permalink":"/B/BOT/","title":"BOT","created":"2023-11-21T11:37","updated":"2025-05-25T18:19"}
 ---
 
 
@@ -11,7 +11,7 @@ Práczki István Szittya Biblia című könyvének 84. oldalán ír egyetértől
 #### Péterfai János írja:
 
 > Maga a Bot szó a [[B/BAT\|Bat]] változata és jelenthet Házat is, vagyis várost. A Bot a germán nyelvekben azért lehet hajó, mert a Bot Ház is, és a hajókat régen fából, botokból építették fel. (A Bot Ház, Hajó (botból készült hajók) és Bot értelmű, ami a Fa lombozatát fenn tartja, házat alkot.) A [[V/Viking\|Viking]] hajókon is jól látszanak oldalt a botok, amelyek a hajó fa bordázatát adták.  
-> 
+>
 > A Bot természetesen a Fa Háza, amin a botok, az ágak, a gallyak és vesszők növekednek. A Fa leírása a Világfa, a Tejút leírása a magyar nyelvben. A Bot, mint Ház, tartja a Fa koronáját, vagyis lombozatát, tehát a Bot az ágak legelső neve.  
 - A bot faanyag és faanyagból készül a hajó, csónak is, valóban.
 
@@ -81,7 +81,7 @@ Bot (pálca) és [[G/Gyűrű\|gyűrű]] ([[K/Kehely\|kehely]]) princípiumokról
 
 ## B-T, P-T szóvázú és az ezek megfordításaiként látandó T-P szóvázú szavak és jelentéskörük
 
-Az óegyiptomi  `p-t` = ég, égbolt (vö. rokon vázú magyar "bót"-[[B/Bolt\|bolt]]) hangjainak megcserélésével kiadódik [[T/Top\|top]]/[[T/Tepe\|tepe]] és az ezekkel kapcsolatba hozott [[D/Domb\|domb]] (mely változata: [[G/Gömb\|gömb]]): a föld feletti látszólagos kupola alakot formáló félgömbnek felel meg.  
+Az óegyiptomi `p-t` = ég, égbolt (vö. rokon vázú magyar "bót"-[[B/Bolt\|bolt]]) hangjainak megcserélésével kiadódik [[T/Top\|top]]/[[T/Tepe\|tepe]] és az ezekkel kapcsolatba hozott [[D/Domb\|domb]] (mely változata: [[G/Gömb\|gömb]]): a föld feletti látszólagos kupola alakot formáló félgömbnek felel meg.  
 Kérdés, hogy ez a B-T/P-T szóváz nem-e a [[Z/Zsúp\|zsúp]]/doₘb formákban található mássalhangzó-váz megfordításaiként értékelendő? Talán nem.  
 Mindenesetre mindkét szóváz jelentéskörében fellelhető [[S/Szakrális geometria\|szakrális geometrikus]] átfedés.  
 
