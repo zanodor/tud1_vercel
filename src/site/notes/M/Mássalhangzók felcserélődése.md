@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-05-23T19:21"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-05-25T18:31"}
 ---
 
 
@@ -182,6 +182,7 @@ Lehetséges az is, hogy [[P/Prove\|prove]]/próba eredetileg t-előhangos volt, 
 K>P mássalhangzó-változásról írja Timaru-Kast Sándor:  
 > A "kelta" törvényszerű hangcserének megfelelően a P hang K-ra is válthat (> vö. magyar SIPÍT <> SIKÍT).  
 > A kelta nyelveken belül is észlelhető G>F és a K>P hangcsere (mindkét esetben egy íny- \[toroki) hang áttevődik az ajaki hangképző helyre).  
+- A görög nyelvben is szabályosnak magyarázzák: egy proto-indoeurópai (PIE) mássalhangzó, amely máshol K-szerűvé vált, a görögben P-szerű reflexet mutat. Ez a hangváltozás a proto-indoeurópai _labiovelárisok_ (ajakkal képzett velárisok) esetében következett be a görögben. Pl. szanszkrit `akṣi` = szem szó és más k-s párjaihoz képest a görög `ὤψ` (`ōpsz`) alakú.
 - [[O/Oven\|Oven]] címnél láttunk G>F (V) változásra példát.
 - [[F/Farr\|Farr]] elvileg K(H)(v)>F változással jött létre.
 
