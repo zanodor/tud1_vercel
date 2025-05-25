@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/T/Toll/","title":"Toll","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-10-24T01:49","updated":"2024-10-24T01:49"}
+{"dg-publish":true,"permalink":"/T/Toll/","title":"Toll","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-10-24T01:49","updated":"2025-05-25T18:18"}
 ---
 
 
 # Toll 1)
 
-A tollak a szárny alkotórészei, mely [[S/Szárny\|szárny]] szavunk is a szár hímségi szócsoportba tartozik. A tollak nyilvánvalóan napsugár-jelképek. A bennszülött indiánok is ezért hordtak ilyen tollas fejdíszeket.  
+A tollak a szárny alkotórészei, mely [[S/Szárny\|szárny]] szavunk is a [[S/Szár\|szár]] hímségi szócsoportba tartozik. A tollak nyilvánvalóan napsugár-jelképek. A bennszülött indiánok is ezért hordtak tollas fejdíszeket.  
 
 #### Grandpierre Atilla írja:
 
@@ -13,7 +13,9 @@ A tollak a szárny alkotórészei, mely [[S/Szárny\|szárny]] szavunk is a szá
 
 [[B/Bolyh\|Bolyh]] címnél írtuk, hogy az [alábbi](https://youtu.be/TiS8PomD78w) szomáli és oromo szavakat hasonlító Bahador videóban előjövő oromo `bál`, `bále` = toll (feather) is nyilván [[B/Bál\|Bál]] napisten sugaraira utal.  
 
-[[F/Feather\|Feather]] címnél a toll mint fedő minőségéről is volt szó.  
+[[F/Feather\|Feather]] címnél a toll fedő minőségéről is volt szó.  
+
+A magyar szó értelmére, eredetére nézve lásd még alant.  
 
 # Toll 2)
 
@@ -64,7 +66,7 @@ Ezek alapján érthetővé válik, hogy a toll valóban [[H/Híd\|híd]]pénz al
 
 De hidaknak hívják az élők és holtak világát összekötő utat is (Elena Kuzmina Origin of the Indo-Iranians című könyvében írja):  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/s/sarama/#g3ajr" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/S/Sarama/#g3ajr" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -75,7 +77,7 @@ De hidaknak hívják az élők és holtak világát összekötő utat is (Elena 
 </div></div>
 
 
-Felvetik ezen sorok, hogy mi a (madár)[[T/Toll\|toll]] szavunk, továbbá [[D/Dolog\|dolog]], [[D/Dolgozik\|dolgozik]] szavak értelme valójában. A tollak a szárny alkotórészei, mely [[S/Szárny\|szárny]] szavunk is a szár hímségi szócsoportba tartozik. A német toll nagyszerű jelentései is magassághoz (lásd még angol [[T/Tall\|tall]] = magas) köthetőek. A [[T/Tally\|tally]] szónál is előjött toll szavunk és szintén **számadás**sal kapcsolatos szó, ahogy az angol toll is (főnévként németben ugyanígy áll, ugyanilyen jelentéssel).  
+Felvetik ezen sorok, hogy mi a (madár)[[T/Toll\|toll]] szavunk, továbbá [[D/Dolog\|dolog]], [[D/Dolgozik\|dolgozik]] szavak értelme valójában. A tollak a szárny alkotórészei, mely [[S/Szárny\|szárny]] szavunk is a szár hímségi szócsoportba tartozik. A német `toll` nagyszerű jelentései is magassághoz (lásd még angol [[T/Tall\|tall]] = magas) köthetőek. [[T/Tally\|Tally]] szónál is előjött toll szavunk és szintén **számadás**sal kapcsolatos szó, ahogy az angol `toll` is (főnévként németben ugyanígy áll, ugyanilyen jelentéssel).  
 Nehezebb dolgunk van a dolog szóval. [[D/DOL\|Dol]]-Og felbontásban ismételten óriási magasságok kerülnek előtérbe. Aki dolgozik, az teremt. Minden tettünk a teremtéssel kapcsolatos. Az Isten vagy általunk teremtett dolog neve is dolog.  
 
 #### A Czuczor-Fogarasi szótár adata:
