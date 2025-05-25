@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-20T06:59","updated":"2024-10-22T22:25"}
+{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-20T06:59","updated":"2025-05-25T18:21"}
 ---
 
 
@@ -13,20 +13,20 @@ Somos Zsuzsanna Párizsi múzeumokban című az Ősi Gyökér 2010/4. sz. megjel
 > THE ARIMASPOI (Arimaspians) were a tribe of one-eyed men who lived at the foot of the Rhipaion (Rhipaean) Mountains in northern Skythia (probably the Carpathians). They warred constantly with the gold-guarding Grypes (Griffins) of the mountains-winged beasts with the heads of eagles and the bodies of lions.  
 > According to Herodotos their name was derived from the Skythian words `arima` "one" and `spou` "eye".  
 > —  
-> AZ ARIMASZPOI (arimaszpiaiak) egy félszemű emberekből álló törzs volt, amely a Rhipaion-hegység (Rhipaean) lábánál élt Észak-Szkythiában (valószínűleg a Kárpátokban). Állandó háborút vívtak a hegyek aranyat őrző griffjeivel (gripenekkel) – sasfejű és oroszlántestű szárnyas állatokkal.  
+> AZ ARIMASZPOI (arimaszpiaiak) egy félszemű emberekből álló törzs volt, amely a Rhipaion-hegység (Rhipaean) lábánál élt Észak-Szkythiában (valószínűleg a Kárpátokban). Állandó háborút vívtak a hegyek aranyat őrző griffjeivel – sasfejű és oroszlántestű szárnyas állatokkal.  
 > Hérodotosz szerint nevük a szkíta `arima` "egy" és `spou` "szem" szavakból származik.
 { #p-x0a}
 
-- Hérodotosz leírt (skytha féle hangzósításaira gondolva) adataival csínján kell bánni, és [[O/Orion\|Orion]] és [[C/Cyclops\|cyclops]] címnél írottak alapján Orion az egyszemű.
+- A Hérodotosz által leírt (gondoljunk a skytha féle hangzósításaira) adataival csínján kell bánni, és [[O/Orion\|Orion]] és [[C/Cyclops\|cyclops]] címnél írottak alapján Orion az egyszemű.
 
 #### Péterfai János...
 
-...szerint a Napra utal, azaz nem a Nap Orionbani állására gondol:  
+...szerint a Napra utal, azaz ő itt nem konkrétan a [[N/Nap#Nap az Orionban\|Nap Orionbani]] állására gondol:  
 > Az Ármány szót összevetik az Arimaspi névvel, helytelenül. Arimaspi Egyszemű, inkább a Naphívőkkel kellene összevetni az Arimaspi nevet. A Napisten ugyanis egy szemű.  
 > \[...\]  
 > Az Arimphaeusok a Ripaeus-hegység végénél laktak, Ammianus Marcellinus szerint. A Chronius és Vistula forrásánál, mellettük az alánok laktak. A Vistula név tehát régebbi a szlávok megjelenésénél, amit ez az adat is bizonyít. A Visz-Túl-A azt jelenti, hogy Visz-Túl a Vízen, és magyar nyelvű folyónév. Az Arimphaeusok neve az Arimaszpok nevére hasonlít, az Egy szeműekre. Ez az egy szem természetesen a Napisten, de valójában természetesen két szemük volt ennek a szkytha népnek is, csak napimádatukat nem értették meg a görögök.  
 > 
-> A Wikipedia azt írja a szkítákról, hogy indoeurópaiak. Az arimaszpu szó Egy-Szemű értelmű, a Szpu pedig indoeurópai szó \[lenne\]. Bár a Pu kapu, az akkádban is, a Pupilla szóban is szerepel, ami a Fény Kapuja jelentést tartalmazza.  
+> A Wikipedia azt írja a szkítákról, hogy indoeurópaiak. Az arimaszpu szó Egy-Szemű értelmű, a Szpu pedig indoeurópai szó \[lenne\]. Bár a `Pu` kapu, az akkádban is, a `Pupilla` szóban is szerepel, ami a Fény Kapuja jelentést tartalmazza.  
 
 #### Götz László Keleten kél a Nap...
 
@@ -55,7 +55,7 @@ Igen is, jogosnak tűnik az Orion övcsillagaira, az [[O/Orion övcsillagai#Orio
 
 ...című könyvének [284. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=284&annotation=GIL9G7RE) is jól írja, hogy az asp lovasokra utal:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/m/men/#dfi-47-xpy-gil-9-g7-re" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Mén/#dfi-47-xpy-gil-9-g7-re" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -145,8 +145,13 @@ Mén megjelenni látszik a kelta mitológiában, mint Maine/Mane; [[M/Medb\|Medb
 A menni viszont nemcsak folyni, de maradni jelentéssel is megvan a latinban. A [[R/Remain\|remain]] és [[P/Permanent\|permanent]] címnél a latin `manere` = maradni, tartózkodni ige jött elő.  
 Bíró Lajos adata szerint a latin `mano` = folyik, csurog, ered, származik.  
 
-A mellékelt képi anyag Robert Beekes Görög etimológia szótárából való.  
-![assets/Mén_image2.png|invert_dark](/img/user/M/assets/M%C3%A9n_image2.png)  
+A mellékelt anyag Robert Beekes Görög etimológia szótárából való:  
+> **μήν²** \[m.] ‘month’ (II.), also ‘moon-sickle’ (Ion., Ar., Att. inscr., Thphr.). < IE *meh₁n̥-ōt, *meh₁n̥-es- ‘moon, month’
+> **VAR** Also Att. μείς, Dor. μιής, El. μεύς; gen. μηνός, Aeol. μήννος.
+> **COMP** μηνo-ειδής ‘formed like a moon-sickle’ (IA), PN Μηνό-δωρος, also μηνί-αρχος, -άρχης \[m.] ‘monthly prefect’ (pap. IVᵃ). after ταξί-αρχος etc.; ἡλιό-μηνος ‘missing the right month’ (T 118; cf. s.v.), ἐπι-μήν-ιος ‘lasting a month, monthly’ (IA).
+> **DER** μήν-η ‘month’ (II.), like σελήνη -ᾱς ‘id.’ (E.); μην-ίσκος \[m.] ‘moonsickle’, especially of objects in the shape of a moon-sickle (Ar., Arist.); μην-ιᾱος ‘a month old, monthly’ (Hp., LXX, pap.), -ιείος ‘monthly’ (Hell. pap.), μην-αῖος ‘belonging to the month’ (Orac. *apud* Lyd. *Mens*; probably from μήνη); μηναῖατεία \[f.] ‘monthly achievement’ (pap. IIIᵖ), but cf. Μηνιασταί \[m.pl.] ‘adorers of Μήν’ (Rhodos); μήνιoν \[n.] (botanical) ‘peony’ (Ps.-Dsc.), from its astrological use, see Strömberg 1940: 133.  
+> **ETYМ** From the oblique cases (gen. μην-ος < *mē̆nos*, etc.), an analogical nom. \*mēns arose, whence \*mens by Osthoff’s Law. By subsequent loss of the nasal and compensatory lengthening, μείς and μής developed. The new nom. μήν arose by analogy with gen. μηνός, etc. (after simplification of the -νν-), and El. μεύς is built on the model of Ζηνός : Ζεύς.
+> Originally, a disyllabic nom. \*mēnōs- (with lengthened grade) or \*mēnōt- (with alternating -t-) existed beside the obl. stem \*mēn- < IE \*mēns-. Thence arose Lith. mėnuo ‘moon, month’, Go. \*menōþs ‘month’, etc. The disyllabic form is also seen in Lith. mėnes-ìs ‘month’. On monosyllabic \*mēns- are based both Lat. *mēns-is* (gen.pl. *mēnsum*) and Skt. \*mās- ‘moon, month’ < PIIr. \*maHas- < \*meh₁ns-. The development of the calendrical meaning ‘month’ was accompanied by the creation of new expressions for ‘moon’ (σελήνη, *lūna*, etc.). Original derivation from \*meh₁- ‘measure’ (see *μῆτις*), from the role of the moon as a measure of time, is quite possible.  
 
 ## Hold idegen nevei
 
