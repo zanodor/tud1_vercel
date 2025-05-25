@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["Englishtexttranslated"],"created":"2023-10-11T10:10","updated":"2024-11-23T04:53"}
+{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["Englishtexttranslated"],"created":"2023-10-11T10:10","updated":"2025-05-25T18:18"}
 ---
 
 
@@ -11,7 +11,7 @@ Persze az alma inkább bolygót szimbolizál (a [[K/Karácsonyfa\|karácsonyfá]
 
 #### Robert Graves The White Goddess...
 
-...című könyvének 254. oldalán [[A/Avalon\|Avalon]]ról írja, hogy az almafák titkos szigete. A szavak hasonlóságára vonatkozóan nem tesz említést. A Wikipédia viszont igen; lásd ott. Avalon nevében Péterfai János az (alant még említett) [[A/Avul\|avul]] szavunkat látja.  
+...című könyvének 254. oldalán [[A/Avalon\|Avalon]]ról írja, hogy az almafák titkos szigete. A szavak hasonlóságára vonatkozóan nem tesz említést. A Wikipédia viszont igen; lásd [ott](https://en.wikipedia.org/wiki/Avalon#Etymology). Avalon nevében Péterfai János az (alant még említett) [[A/Avul\|avul]] szavunkat látja.  
 Még amit Graves ír:  
 > The connexion of the apple-tree with immortality is ancient and wide-spread in Europe. What does 'apple' mean? According to the Oxford English Dictionary its etymology is unknown, but the word runs North-westward across Europe all the way from the Balkans to Ireland in a form approximating in most languages to **Apol**.  
 > —  
@@ -26,7 +26,7 @@ Kimondottan magyaros felbontású a lett `ābolu` = alma.
 
 #### Péterfai János írja:
 
-> Ehhez hasonló Aplu az etruszk Napisten, [[A/Apolló\|Apolló]] neve. Apollóról tudjuk, hogy trójai magyar név, az Ápoló (gyógyító), és Apoló (csókoló) neveink változata. Ap-Lu jelentése eszerint Háza a Fénynek. A Lu alapszó elemzését már elvégeztem, Lu a Fény is, ebből ered a Lux.  
+> Ehhez hasonló **Aplu** az etruszk Napisten, [[A/Apolló\|Apolló]] neve. Apollóról tudjuk, hogy trójai magyar név, az Ápoló (gyógyító), és Apoló (csókoló) neveink változata. Ap-Lu jelentése eszerint Háza a Fénynek. A Lu alapszó elemzését már elvégeztem, Lu a Fény is, ebből ered a Lux.  
 >
 > A magyar Apol Csókol, ez utal a szerelemisten funkcióra, az Ápoló magyar szó pedig a gyógyítás funkciójára.  
 - Ez utóbbit fejezi ki a közmondás is: *An apple a day keeps the doctor away.* (Egy alma naponta és nincs szükség orvosra.)
@@ -43,9 +43,9 @@ Ahogy [[H/Hív\|hív]] címnél és az alanti alcímnél kitérünk rá, az alma
 
 ## Az apple szóba belelátható magyar szavak
 
-Az imént szóba került apol, ápol és Éva neveken túl mi jöhet még számításba?  
+Az imént szóba került `apol`, `ápol` és Éva neveken túl mi jöhet még számításba?  
 Apple szónak megfelel alakilag az alábbi három ige is: [[A/Avul\|avul]] és [[E/Évül\|évül]], de [[E/Épül\|épül]] is. És ha már rátaláltam erre a magyar szópárra, [[E/Épül és évül\|épül és évül]]re, erről kellene valami okosat mondani, akár még itt, almával kapcsolatosan:  
-Ha az alma alakját elnézzük és az ([[E/EB\|EB]]-bel kezdhető) [[E/Év\|év]] fogalmát is bele akarjuk venni a számításba, akkor nyilván azt kell eldöntenünk, hogy a kis éves vagy Nagy Éves időkört vesszük alapul/vizsgálhatónak.  
+Ha az alma alakját elnézzük és az ([[E/EB\|eb]]-bel kezdhető) kis [[E/Év\|év]] fogalmát is bele akarjuk venni a számításba, akkor nyilván azt kell eldöntenünk, hogy a kis éves vagy Nagy Éves időkört vesszük alapul/vizsgálhatónak.  
 Mert utóbbira, a [[N/Nagy Év\|Nagy Év]]es időkörre vonatkozólag mondhatnánk azt, hogy az [[A/Alma\|alma]] címnél Johan Oldenkamp képén is látható alsó vájat a [[V/Vízöntő paradoxon\|Vízöntő paradoxon]] címnél taglalt kieső időre vonatkozhatna (és ugyanígy felül, a precessziós fénymaximumnál is lehetne ilyen).  
 Persze nem muszáj rögtön a Nagy Évre ugrani. Elég ha a közben [[A/Apolló\|Apolló]] címnél is említett kis éves értelmezést vesszük figyelembe: Az Ikrek után a Rákba lépve kezd ("Ebülni"/Hanyatlani)/[[E/Évül\|évül]]ni/[[A/Avul\|avul]]ni (azaz semmiképp sem [[E/Épül\|épül]]ni) a Nap (ereje).  
 
@@ -100,6 +100,8 @@ apple -- báalt : etimológia
 
 @enduml
 ```
+
+Akárhogy is, [[A/Arany#Aranyalma\|aranyalma]]ként a Napról van szó és a fenti nevek bármelyike megfelelne eredetül.  
 
 ## Apple cég neve és logója
 
