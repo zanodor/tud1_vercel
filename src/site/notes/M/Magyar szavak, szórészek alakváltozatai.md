@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar szavak, szórészek alakváltozatai/","title":"Magyar szavak, szórészek alakváltozatai","created":"2023-11-04T11:49","updated":"2025-05-03T11:05"}
+{"dg-publish":true,"permalink":"/M/Magyar szavak, szórészek alakváltozatai/","title":"Magyar szavak, szórészek alakváltozatai","created":"2023-11-04T11:49","updated":"2025-05-25T18:43"}
 ---
 
 
@@ -8,9 +8,11 @@
 A magyar szavak alakváltozatait nemcsak hasonló alakú, más jelentésű szavak irányában kell keresni, hanem jelentésen belül, sőt, azonos jelentésű szavak kissé eltérő szóalakkal jelentkezhetnek.  
 Ami fontos a szavak alakjának vizsgálatában, hogy egyik alak sem hibás a másikhoz képest. Az alant idézett Pitlu János által görög-rómainak és a "vagy-vagy erő(szak) elve"-nek nevezett elvet nem szabad használatban tartani, is-is-ben kell gondolkodni (ahogy a megboldogult Géczy Gábor is mondani szokta).  
 
-Két szó illetve alakváltozatai bemutatásával magyaráznám el, miről van szó. A [[V/Víz\|víz]] és [[H/Ház\|ház]] szavaink ezek.  
+Két szó illetve alakváltozatai bemutatásával magyaráznám el, miről van szó. A [[V/Víz\|víz]] és [[H/Ház\|ház]] szavainkról lesz szó.  
 Kezdjük a vízzel. A szótárban egyetlen magyar szó kerül bejegyzésre víz értelemben: víz. Holott a [[V/Vidra\|vidra]] szóban is megvan, d-sen (hasonló eset, amikor a [[M/Medve\|medve]] névben d-sen van jelen a [[M/Méz\|méz]], amely ugyanakkor nem közönséges méz). Aztán ott a [[V/Vedel\|vedel]], mely azért nem `vizel`, mert az megint mást takar. A vizelet lehet a pisi, pisa, mely nem kell germán eredetű ([[P/Piss\|piss]]) legyen, már csak azért sem, mert a halat ők [[F/Fish\|fish]]-nek, vízi állatnak hívják (ha valóban ilyen egyszerűen magyarázható eredete és miért ne lehetne ilyen egyszerű), amely élettérét magyar szóként már előtte tároltuk: ez a víz (V>F). De ott van még [[V/Vád\|vád]] szavunk, mely gázlóra, mederre, a víz alsó helyzetére utal, s ehhez hasonló még a `wasser` illetve [[W/Water\|water]], valamint a [[V/Vodka\|vodka]] előrésze. A germán `baden` és [[B/Bath\|bath]] szavak magyar nyelven/gondolkozáson keresztüli értelmezése révén jutunk el oda is, hogy észre vegyük, hogy az [[O/Oasis\|oázis]] = bázis = víz. Láthatjuk, hogy mind a vízre utal ([[V/Vese\|vese]] és [[V/Vidék\|vidék]] szavunkat se feledjük el) és megengedett a hang-kategórián belüli hangváltoztatás, hogy így új (de rokon) szavakat hozzunk létre.  
+
 A másik szavunk, [[H/Ház\|ház]] és változata, [[K/Kota\|kota]] (van még: [[H/HAT\|hat]], [[H/HAS\|has]], [[K/KAS\|kas]], [[K/KAD\|kad]]/[[K/KÁD\|kád]], (akár [[K/KUS\|kus]]/[[K/Kos\|kos]]), [[K/Kosz\|kosz]], [[K/Kazán\|kazán]], [[K/Kuckó\|kuckó]] és [[K/Kacor\|kacor]] előrésze, [[K/Koca\|koca]] és [[K/Kacsa\|kacsa]], sőt, a [[K/KUS\|kus]] címnél legutóbb említett [[H/Hús\|hús]] (a lélek háza), [[K/Kútya\|kútya]], [[H/HA\|HA]], [[K/KA\|KA]], [[G/GA\|GA]], [[A/AS\|AS]], stb.) – melyek közül a kota formából óhajtják levezetni ház szavunkat finnugrászaink – még jobban magyarázza a mai nyelvészet által képviselt problémát, melyet Borbola János révén az adott címeknél körüljártunk, de itt még csak annyit, hogy az egyes nyelvekben fennmaradt formákat nem szabad alapalakoknak tekinteni. Erről [[N/Nyelvészet mint tudomány\|nyelvészet mint tudomány]] címnél volt szó.  
+
 Az imént említett...  
 
 #### Pitlu János Ősnyelvünk titkai...  
