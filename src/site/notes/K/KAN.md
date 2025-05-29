@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2025-05-29T22:46"}
+{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2025-05-30T00:07"}
 ---
 
 
@@ -213,7 +213,7 @@ A KAN fényhiányos értelmére látszik rámutatni a kelta-ír `gann` = alig (m
 
 De mit szóljunk a [[H/Halcyon\|halcyon]] eredetvizsgálatában említett görög `kyōn` = fogantatás szóhoz, mely ilyen szóalakkal "rendesen" kutyát jelentene?  
 
-#### Török `kan` vér jelentése
+#### Török 'kan' vér jelentése
 
 Itt már nem annyira a folyadék mellékértelmet kell keresni. Arról van szó, hogy a KAN nemzés értelme mentén alakul ki a vér (genetika) továbbadása révén a vér jelentés. A háttérben pedig a szokásos alapfogalom: a Nap legmagasabb pontján a Kannál (Nagy Kutya) van, amikor nemző ereje teljében van.  
 
