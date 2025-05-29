@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-05-23T23:01"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-05-29T14:33"}
 ---
 
 
@@ -11,9 +11,12 @@
 
 **Videók kivonatokkal**:  
 
+[250528CN! CSODÁK](https://rumble.com/v6tzzzv-250528cn-csodk-kubnyi-tams-ktv.html)  [https://archive.ph/KAooo](https://archive.ph/KAooo)
+[250527CN! MEGBÉKÉLÉS](https://rumble.com/v6tyc1p-250527cn-megbkls-kubnyi-tams-ktv.html)  [https://archive.ph/eaYBg](https://archive.ph/eaYBg)
+[250526CN! 300000000 MAGYAR](https://rumble.com/v6twlrh-250526cn-300000000-magyar-kubnyi-tams-ktv.html)  [https://archive.ph/CpKdd](https://archive.ph/CpKdd)
 [250523CN! PÁRTFÜGGETLENEK](https://rumble.com/v6ts1xz-250523cn-prtfggetlenek-kubnyi-tams-ktv.html)  [https://archive.ph/lOOho](https://archive.ph/lOOho)
 [250522CN! ÁRULÓK](https://rumble.com/v6tqgml-250522cn-rulk-kubnyi-tams-ktv.html)  [https://archive.ph/tornj](https://archive.ph/tornj)
-[250521CN ÁTLÁTHATÓSÁG](https://rumble.com/v6torwp-250521cn-tlthatsg-kubnyi-tams-ktv.html)  [https://archive.ph/lqulG](https://archive.ph/lqulG)
+[250521CN! ÁTLÁTHATÓSÁG](https://rumble.com/v6torwp-250521cn-tlthatsg-kubnyi-tams-ktv.html)  [https://archive.ph/lqulG](https://archive.ph/lqulG)
 [250520CN! A SZÓ EREJE](https://rumble.com/v6tn44b-250520cn-a-sz-ereje-kubnyi-tams-ktv.html)  [https://archive.ph/Kf00D](https://archive.ph/Kf00D)
 [250519CN! HARCOSOK](https://rumble.com/v6tlf03-250519cn-harcosok-kubnyi-tams-ktv.html)  [https://archive.ph/Gz9bQ](https://archive.ph/Gz9bQ)
 [250516CN! MAGYAR ÉRDEK](https://rumble.com/v6tgxlj-250516cn-magyar-rdek-kubnyi-tams-ktv.html)  [https://archive.ph/9lekQ](https://archive.ph/9lekQ)
