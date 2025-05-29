@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Könny/","title":"Könny","tags":["Englishtexttranslated"]}
+{"dg-publish":true,"permalink":"/K/Könny/","title":"Könny","tags":["Englishtexttranslated"],"created":"2025-03-01T04:59","updated":"2025-05-29T14:36"}
 ---
 
 
