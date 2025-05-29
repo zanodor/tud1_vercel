@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gene/","title":"Gene","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T02:31","updated":"2025-05-29T17:36"}
+{"dg-publish":true,"permalink":"/G/Gene/","title":"Gene","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T02:31","updated":"2025-05-29T22:52"}
 ---
 
 
@@ -18,7 +18,7 @@ Kiss Dénes is felveti: [[I/Idegen\|idegen]] szavunk is az "ide jön" fogalommal
 
 Götz László Keleten kél a Nap című könyvének 162-164. oldalain található görög és héber szavakat hasonlító szószedetében találjuk a görög `gennao` = teremt, gyárt ige mellé téve a héber `ķana` = teremt, gyárt igét. Ez utóbbi nem annyira a könny, hanem inkább az imént említett [[K/KAN#KAN folyadéknemű, örökítő anyag jelentése\|KAN folyadéknemű, örökítő anyag jelentése]] és a [[K/Kutyanemzés#Kan teremtői képessége – nyelvészeti kapcsolat\|kan teremtői képessége – nyelvészeti kapcsolat]] cím/alcímnél írottak irányába tereli gondolatainkat.  
 
-Lásd még ott a kurd `gan` és mandarin-kínai `gàn` = nemzeni (baszni) szavakat.  
+Lásd még ott az észak-kurd `gan` = baszni (lásd [itt](https://en.wiktionary.org/wiki/gan#Northern_Kurdish)) és mandarin-kínai `gàn` = cseszni, baszni (megcsinálni) szavakat.  
 
 A teremt a nemz és nem fogalmával és így a görög `geneá` = születés; rassz; generáció szóval és a mellé tehető, Götz László által másutt megadott sumér `GAN` = szül szóval hozható kapcsolatba.  
 - [[K/KAN#Könny/Geny/KAN nemzés/nemzettség\|Könny/Geny/KAN nemzés/nemzettség]] cím/alcímnél is említésre került a [[H/Halcyon\|halcyon]] eredetvizsgálatában említett görög `kyōn` = fogantatás szó, mely szóalak "rendesen" kutyát jelentene.
