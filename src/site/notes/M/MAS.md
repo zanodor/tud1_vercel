@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2025-05-23T22:55"}
+{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2025-05-29T22:47"}
 ---
 
 
@@ -29,14 +29,19 @@ Ami a [[M/Mózes\|Mózes]] nevéhez is megoldást jelentő `mas` = ifjú/fiú je
 > Urzigurumas nevében talán az Úr Sziguru Más látható. A [[M/Más\|Más]] a Fia igen gyakran, vagy a másodkirály, akit kivégeztek a főkirály helyett, ma már nehezen felfogható okokból.  
 
 MAS tehát lehet [[M/Más\|más]]\(a valaminek, hasonmása, kiköpött mása) és [[M/Második\|második]] szavunkban is szerepel.  
-![assets/MAS_image1.png|invert_dark](/img/user/M/assets/MAS_image1.png)  
 
 Szintén a [[S/Sumér zodiákus\|sumér zodiákus]]beli (Baknak megfelelő Bakhal jegyet jelentő) [[S/Suhurmasku\|Suhurmasku]] címnél is szerepelt, hogy a (vitatható adatokat is szolgáltató) [[D/Dudás Rudolf\|Dudás Rudolf]] szerint a kecske szó értelme a Körös-kultúra idejében "MÁS"-nak hangzott (Labat 76), a kecskebak pedig MÁS-NITA volt. (Forrásának hitelességét illetőleg nem nyilatkozhatok, de birka jelentést is tulajdonítottak neki Gavin White könyvének adata szerint. [[M/Mastabbagalgal\|Mastabbagalgal]] címnél is szó lesz arról, hogy a hal jelentés hogy jöhetett a képbe. Ami az M-SZ vázú kecske és őz jelentésű szavakat illeti, csokorba összeszedve lásd [[M/MISZ\|MISZ]] címnél.)  
-![assets/MAS_image2.png|invert_dark](/img/user/M/assets/MAS_image2.png)  
 
 Csatolva lásd MAS piktogramját, ami, meglepő (vagy a [[M/MISZ\|MISZ]] címnél szereplő diagramba építhetősége miatt és [[S/Szarvas\|szarvas]] és a kecske témában is taglalt [[M/Magor\|Magor]] címnél írottak alapján nem is oly meglepő) módon egy [[K/Kereszt\|kereszt]]et formáz.  
+![assets/MAS_image1.png|invert_dark](/img/user/M/assets/MAS_image1.png)  
 
-[[S/Suhurmasku\|Suhurmasku]] címnél MAS piktogramja egy élére állított \[[[Négyszögletes Föld\|négyszögletes Föld]]re utaló, [[S/Szakrális geometria\|szakrális geometria]] címhez is közben betett\] [[N/Négyzet\|négyzet]]tel kiegészítve kerül elő. Ott az is felvetődött, hogy az sem kizárt, hogy a Suhur-Mas összetétel nem más, mint Szarvas szavunk ([[M/Magor\|Magor]] címnél lásd Szarvas csillagképről) szavunk tulajdonképpeni elferdítése. Sokatmondó lehet a MAS piktogramjában a négyzet a kereszttel, hiszen Bobula Ida The Great Stag című dolgozatában (magyar fordításában) is írja:  
+[[S/Suhurmasku\|Suhurmasku]] címnél MAS₂ piktogramja egy élére állított \[[[Négyszögletes Föld\|négyszögletes Föld]]re utaló, [[S/Szakrális geometria\|szakrális geometria]] és [[S/Szarvas\|szarvas]] címhez is közben betett\] [[N/Négyzet\|négyzet]]tel kiegészítve kerül elő.  
+![assets/MAS_image2.png|invert_dark](/img/user/M/assets/MAS_image2.png)  
+- Vö. a [[S/Szarvas#^250529\|szarvas]] címnél szereplő ordoszi csodaszarvas ábrázolással.
+{ #250529}
+
+
+Ott az is felvetődött, hogy az sem kizárt, hogy a Suhur-Mas összetétel nem más, mint Szarvas szavunk ([[M/Magor\|Magor]] címnél lásd Szarvas csillagképről) szavunk tulajdonképpeni elferdítése. Sokatmondó lehet a MAS piktogramjában a négyzet a kereszttel, hiszen Bobula Ida The Great Stag című dolgozatában (magyar fordításában) is írja:  
 > Úgy tűnik, a Zodiákus volt a témája a sumér korai elméleteknek – talán pre-sumér asztrológusoknak. A Közel-Kelet korai művészetében mindenhol szarvas állatokat találunk – őzet, szarvast, kecskét – **akik a szarvaik között hordják a Napkorongot vagy a szimbólumát, ami lehet egy négyzet, vagy egyenlő szárú kereszt** vagy épp egy nap-madár, mint a sas[^2].  
 - Amikor a Nap feltűnik a mennyei szarvas szarvai között – a [[T/Téli napforduló\|téli napforduló]]n – a tél elmúlik, a Nap visszanyeri korábbi erejét, a nappalok egyre hosszabbak, egy új ciklus, új év kezdődik. A korongnak vagy a madárnak a szarvak közt a Nagy Szarvast kellett jelképeznie aki visszahozza a Napot a szarvai között.
 
