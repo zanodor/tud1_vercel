@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated"],"created":"2023-10-14T04:30","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated"],"created":"2023-10-14T04:30","updated":"2025-05-29T17:35"}
 ---
 
 
@@ -21,7 +21,7 @@ Ezen adatokat felhasználva írom [ezen](https://qr.ae/py1lXv) Quora posztban:
 >
 > - Hsi-Ung-Nu roughly translates as "West-Ung-Lords." [[U/Ung\|Ung]], [[U/Unka\|unka]], etc. means: Coming of the House of Un/An; hence words of modern Hungarian `unka`, `unoka` refer to primordiality (a type of frog; grandchild).  
 >
-> European/Steppe Huns civilized what is later known as China ("themselves," because China is \*Huna, a continuation of the Hunnic culture) a long time ago. [[H/Huang-ti\|Huang-ti]]’s time is not that old. 2–3000 years is nothing. Huns cannot be confined to a mere few hundred year old bracket but Western "science" can do whatever they want. If they want the Chinese, the Ainu or Hottentots Indo-European or Semitic, or want them to be viewed as [[B/Barbár\|barbar]]s (which they don't even know what it means, they just keep repeating stuff like parrots), like the Huns are portrayed, they will do it. That is their level. We want to rise above their level because we want to survive their idiocy and this astronomical age.  
+> European/Steppe Huns civilized what is later known as China ("themselves," because China is \*Huna, a continuation of the Hunnic culture) a long time ago. [[H/Huang-ti\|Huang-ti]]'s time is not that old. 2–3000 years is nothing. Huns cannot be confined to a mere few hundred year old bracket but Western "science" can do whatever they want. If they want the Chinese, the Ainu or Hottentots Indo-European or Semitic, or want them to be viewed as [[B/Barbár\|barbar]]s (which they don't even know what it means, they just keep repeating stuff like parrots), like the Huns are portrayed, they will do it. That is their level. We want to rise above their level because we want to survive their idiocy and this astronomical age.  
 >
 > —  
 >
