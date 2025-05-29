@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Plow/","title":"Plow","created":"2025-03-06T02:36","updated":"2025-05-03T11:05"}
+{"dg-publish":true,"permalink":"/P/Plow/","title":"Plow","created":"2025-03-06T02:36","updated":"2025-05-29T14:32"}
 ---
 
 
