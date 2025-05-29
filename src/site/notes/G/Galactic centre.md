@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2025-04-27T09:59"}
+{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2025-05-29T14:34"}
 ---
 
 
@@ -12,13 +12,13 @@ Jenkins adata szerint a (sziderikus számítás szerint) Nyilas 6. fokán áll:
 > —  
 > A Tejútközpont a közelben, a Nyilas csillagkép 6°-ában található a sziderikus állatövben.  
 
-Bizonyos Frawley azóta 6°40'-re "pontosította," de John M. Jenkins ír arról, hogy mások is ismerték:  
+Frawley azóta 6°40'-re "pontosította," de John M. Jenkins ír arról, hogy mások is ismerték:  
 > The importance of the Galactic Center's sidereal location at 6° Sagittarius has been floating around in esoteric circles since the early 1900s. Valentia Straiton's The Celestial Ship of the North, published in 1927, is a seductive but frustratingly oblique ramble on occult topics, with many references to astronomy. Sources are often lacking, and the presumption is that what is being shared is a body of esoteric knowledge operating behind the scenes of conventional science and religion. And some of the material anticipates the scientific discovery of the Galactic Center, not to mention the galactic cosmology. In one passage we read: "The 6th degree of Sagittarius is perhaps the most remarkable in the Southern Hemisphere, and of equal importance is this same 6th degree of its opposite sign in the north, which corresponds to the magnetic pole of the ecliptic of the heaven."  
 > This statement describes the Galactic Center-Galactic Anticenter axis.  
 > —  
 > A Tejútközpont sziderikus helyzetének fontossága a Nyilas 6°-ánál az 1900-as évek eleje óta kering ezoterikus körökben. Valentia Straiton 1927-ben megjelent The Celestial Ship of the North című könyve csábító, de frusztrálóan ferde eszmefuttatás okkult témákról, számos csillagászati utalással. A források gyakran hiányoznak, és az a feltételezés, hogy amit megosztanak, az a hagyományos tudomány és vallás színfalai mögött működő ezoterikus tudás. Az anyag egy része pedig megelőlegezi a Tejútközpont tudományos felfedezését, nem is beszélve a galaktikus kozmológiáról. Az egyik passzusban ezt olvassuk: "A Nyilas 6. foka talán a legfigyelemreméltóbb a déli féltekén, és ugyanilyen fontos ugyanez a 6. foka az északi, vele ellentétes jegyének, amely megfelel az égi ekliptika mágneses pólusának".  
 > Ez a kijelentés a Tejútközpont–Tejút-Anticentrum tengelyt írja le.  
-- Halkan jegyzem meg: a [[H/HAT\|HAT]] és [[H/Hatalom\|hatalom]] szavunk miért éppen a hatos számmal hozható kapcsolatba: miért nem a héthez köthető? Lásd azóta [[H/HAT\|HAT]] és [[H/Hét\|hét]] címnél írottakat. Persze a precesszió miatt ezen gondolatsor értelmezhetetlen.
+- Halkan jegyzem meg: a [[H/HAT\|hat]] és [[H/Hatalom\|hatalom]] szavunk miért éppen a hatos számmal hozható kapcsolatba: miért nem a héthez köthető? Lásd azóta [[H/HAT\|hat]] és [[H/Hét\|hét]] címnél írottakat. Persze a precesszió miatt ezen gondolatsor értelmezhetetlen.
 
 ![assets/Galcen_image1.png|invert_dark](/img/user/G/assets/Galcen_image1.png)  
 A mellékelt rádió-térkép Robert Burnham Jr. a Burnham's Celestial Handbook III. kötetéből való. Akár egy emberalakot is ki lehet venni, ahol a központ lehetne a [[M/Méh\|méh]].  
@@ -406,7 +406,9 @@ Arról, hogy az égi [[F/Füge\|füge]]/[[P/Pina\|pina]] az említett Tejúthasa
 A füge pedig tehát nem más, mint a Tejúthasadék, a Világfa odva, ahonnan a lelkek születnek. Romulus és Remus esetében ennek az égi odúnak földi mása a Palatinus Hegyen[^24] volt, Rómában, ahogy Manolis G. Sergis Dog Sacrifice in Ancient and Modern Greece című dolgozatából kiderül:  
 > The [[L/Lupercalia\|Lupercalia]] was a cathartic, rural and pastoral celebration of the Palatine Hill shepherds, near the mythical cave where Romulus and Remus were born, whose aim was to secure a successful year. This celebration was taking place every year on the 15th of February. According to Plutarch (Vitae Parallelae, Romulus, 21, 8) and Meraklis (1992: 159), the unique and most remarkable characteristic of this celebration was the dog sacrifice.  
 > —  
-> A [[L/Lupercalia\|Lupercalia]] a Palatinus hegyi pásztorok katartikus, vidéki és pásztori ünnepe volt, a mitikus barlang közelében, ahol Romulus és Remus született, és amelynek célja a sikeres év biztosítása volt. Ezt az ünnepet minden évben február 15-én tartották. Plutarkhosz (Vitae Parallelae, Romulus, 21, 8) és Meraklisz (1992: 159) szerint ennek az ünnepnek az egyedülálló és legfigyelemreméltóbb jellemzője a kutyaáldozat volt.  
+> A [[L/Lupercalia\|Lupercalia]] a Palatinus hegyi pásztorok katartikus, vidéki és pásztori ünnepe volt, a mitikus barlang közelében, ahol Romulus és Remus született, és amelynek célja a sikeres év biztosítása volt. Ezt az ünnepet minden évben február 15-én tartották. Plutarkhosz (Vitae Parallelae, Romulus, 21, 8) és Meraklisz (1992: 159) szerint ennek az ünnepnek az egyedülálló és legfigyelemreméltóbb jellemzője a kutyaáldozat volt.
+{ #r0jzud}
+
 
 Ami a maják magyar-egyiptomi kapcsolatait illeti, Péterfai János írja:  
 > Az Usumacinta folyó neve a XIX. században is Nil nevű volt. Ez a latin Nílus, görög Neilosz nevével azonos. A Nil az égi Nyílás, vagyis a Tejút neve. A Nyíl ige a magyar nyelvben sok fogalmat képez, ezek közé tartozik az Égi Nyílás, vagyis a Tejút, a Fehér Köz neve is. De hogyan került Mayaföldre ez a magyar név? Továbbá a mayák a Nil folyó mellett több piramis-komplexumot is felépítettek, amelyeket sajnálatos módon nem ismerünk részletesen. Bizonyára Vezér csillagképét hozták létre piramisok formájában a Nil folyó mentén, mint az egyiptomi Nil folyó mentén is felépítették a magyarok Vezér csillagképét. Meg a Pilisben, (30.000 éve), a Viszokoi Piramisokat Boszniában, és még sok helyen dolgoztak őseink, amit a hite hagyott világ képtelen felfogni, saját lealacsonyodott természete miatt.  
