@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2024-11-07T00:45"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2025-05-29T14:35"}
 ---
 
 
@@ -25,7 +25,10 @@ A víz értelmét tekintve jejes párjai [[A/AJ\|AJ]] és [[J/JA\|JA]] (jó).
 Az egyes szavak és nevek értelmezésekor több esetben egy szóvégi feleslegesnek tűnő vagy éppen túlmisztifikált (isteni?) vagy – ahogy máshol írtuk – egy kiegyenlítő 'a' szerepel, mint például [[A/ANA\|ana]]/[[A/Anya\|anya]], [[A/ATA\|ata]]/[[A/Atya\|atya]] és [[A/Apa\|apa]], tájjellegű magyar/perzsa [[Z/Ziba\|ziba]] (= szép), valamint az [[A/Atilla hun király\|Atilla]], [[G/Géza\|Géza]], [[G/Gyula\|Gyula]], [[B/Béla\|Béla]] és akár [[D/Dózsa\|Dózsa]] ([[B/Buda\|Buda]] nyilván nem ide tartozik bár a Bud-A felbontást sem zárnám ki, [[B/Búza\|búza]] alapján) (rang)nevekben vagy akár [[T/Teuta\|Teuta]], [[H/Hesztia\|Hesztia]], [[L/Luca\|Luca]], [[E/Éva\|Éva]] és [[A/Ankisza\|Ankisza]] nevében. A magyar-bibliai [[S/Sára\|Sára]] névvel is ez a helyzet.  
 A [[B/Basa\|pasa]], [[B/Basa\|basa]] szavakat is hasonlóan értelmezném.  
 
-A bengáli `boga` = hímtag szóban is a nap [[B/BOG\|BOG]] neve szerepel és az -a nem kell, ahogy [[B/Boka\|boka]], [[B/Bika\|bika]], [[P/Pálya\|pálya]], [[P/Pára\|pára]] és [[P/Pogácsa\|pogácsa]] szavunkban sem (másutt, például [[B/Bogyó\|bogyó]] szóban nem -a szerepel). [[I/Isa\|Isa]], különösen [[L/Lélek#Isa, por és hamu\|isa, por és hamu]] cím/alcímnél írottak alapján, sem más mint [[I/Íz\|íz]]. Acsa és [[A/Ács\|ács]] között is feltártuk közben a kapcsolatot. (Keress rá a témára másutt is balanszírozás kulcsszavakkal[^1].)  
+A bengáli `boga` = hímtag szóban is a nap [[B/BOG\|BOG]] neve szerepel és az -a nem kell, ahogy [[B/Boka\|boka]], [[B/Bika\|bika]], [[P/Pálya\|pálya]], [[P/Pára\|pára]] és [[P/Pogácsa\|pogácsa]] szavunkban sem (másutt, például [[B/Bogyó\|bogyó]] szóban nem -a szerepel). [[I/Isa\|Isa]], különösen [[L/Lélek#Isa, por és hamu\|isa, por és hamu]] cím/alcímnél írottak alapján, sem más mint [[I/Íz\|íz]]. Acsa és [[A/Ács\|ács]] között is feltártuk közben a kapcsolatot. (Keress rá a témára másutt is kiegyensúlyozás kulcsszóval[^1].)
+{ #250526}
+
+
 A [[D/Duna\|Duna]] és [[T/Tisza\|Tisza]] Tejútfolyamok nevében szintén kvázi felesleges a szóvégi -a, bár Du-Na értelmes. Kalocsa és nyilván más településnevekben szintén szerepelhet a szóvégi -a. Legutóbb [[B/Béna\|béna]] és [[S/Sánta\|sánta]] szavak kapcsán ötlött fel az itteni téma.  
 Hasonló eset lehet `bölcső`, `tüsző`, és hasonló szavakban (amennyiben főnevekről van szó).  
 ([Ezen](http://epa.oszk.hu/01400/01445/00015/pdf/acta_hungarica_2016_1_028-032.pdf) oldalon Nógrády Mihály ír az -a képzőről, már ha lehet vele kezdeni valamit.)  
@@ -35,8 +38,7 @@ Amikor [ezen](https://qr.ae/pG1gGA) John Comper féle válaszra adott David Mand
 > —  
 > Az archaikus szavak egy magánhangzóból vagy egy magánhangzó+mássalhangzóból állnak (általában egy plusz "a" vagy "u" betű kerül a szó végére az egyensúly érdekében: Magyar ana, utu, uru stb.). A magyar egy archaikus nyelv.  
 - Tehát egy ősszó lehet egy magánhangzó és egy mgh+msh-pár. Viszont láttuk másutt, [[U/U\|U]] címnél is, hogy különösen a hosszú mássalhangzót bíró szavakban a szókezdő mgh. rövidülésével együtt járóan a szó végére egy u hang került. Azaz megfordítva időben ősibbnek mondott a rövid magánhangzó-kezdéses utu és uru, vagy egyszerűen tájjellegű. Amit viszont a nyelvész D. Mandicnak írtam, miszerint egyensúlyba hozatalról is lehet szó, egy egész érdekes, újszerű ötlet.
-
-[[E/Etymon\|Etimon]] címhez is betéve. Ugyebár a japán nyelv sem tűri, hogy mássalhangzóra végződjenek szavai.  
+- [[E/Etymon\|Etimon]] címhez is betéve. Ugyebár a japán nyelv sem tűri, hogy mássalhangzóra végződjenek szavai.
 
 #### Magyar Adorján...
 
@@ -96,7 +98,7 @@ Fentebb leginkább a nevek végére járuló 'a' hangról volt szó.
 
 Más esetben szintén:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/a/apollo/#m0lho" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A/Apolló/#m0lho" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -134,7 +136,7 @@ Innen nézve valószínűbb, hogy az -n kopott le, hogy sima a hangként haszná
 
 [^1]: Lábjegyzet:  
 Ide is tehető:  
-A hosszú magánhangzó rövidülésével járó balanszírozott formák közül immáron ismerjük: [[U/UR\|úr]] – uru, [[U/UT\|út]] – utu, [[A/Ács\|ács]] – acsa, [[I/Íz\|íz]] – [[I/Isa\|isa]], valamint [[H/Húgy\|húgy]] – [[H/Hugya\|hugya]] párokat.  
+A hosszú magánhangzó rövidülésével járó kiegyensúlyozott formák közül immáron ismerjük: [[U/UR\|úr]] – uru, [[U/UT\|út]] – utu, [[A/Ács\|ács]] – acsa, [[I/Íz\|íz]] – [[I/Isa\|isa]], valamint [[H/Húgy\|húgy]] – [[H/Hugya\|hugya]] párokat.  
 
 [^2]: Lábjegyzet:  
 A szumer nyelvet négy magánhangzóval értelmezik, az U, A, E, I hangzókkal, mintha a többi magánhangzót nem ismerték volna rokonaink.  
