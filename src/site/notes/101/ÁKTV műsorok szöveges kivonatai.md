@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-05-29T14:33"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-05-30T00:08"}
 ---
 
 
@@ -11,6 +11,7 @@
 
 **Videók kivonatokkal**:  
 
+[250529CN! TISZÁSOKNAK](https://rumble.com/v6u1qpx-250529cn-tiszsoknak-kubnyi-tams-ktv.html)  [https://archive.ph/5pQtb](https://archive.ph/5pQtb)
 [250528CN! CSODÁK](https://rumble.com/v6tzzzv-250528cn-csodk-kubnyi-tams-ktv.html)  [https://archive.ph/KAooo](https://archive.ph/KAooo)
 [250527CN! MEGBÉKÉLÉS](https://rumble.com/v6tyc1p-250527cn-megbkls-kubnyi-tams-ktv.html)  [https://archive.ph/eaYBg](https://archive.ph/eaYBg)
 [250526CN! 300000000 MAGYAR](https://rumble.com/v6twlrh-250526cn-300000000-magyar-kubnyi-tams-ktv.html)  [https://archive.ph/CpKdd](https://archive.ph/CpKdd)
