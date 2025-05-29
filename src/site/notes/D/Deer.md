@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2025-05-29T16:56"}
+{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2025-05-29T22:52"}
 ---
 
 
@@ -136,7 +136,7 @@ Ehelyett nyilvánvaló, hogy az az istenség, amelyet mindenekelőtt Nyugat-Anat
 Márpedig a tarka szóval arra utalnak, hogy foltos (Szar-Vas is majdnem ilyen jelentésű). [[S/Sika\|Sika]] címnél is volt az őz foltjairól.  
 
 [^9]: Lábjegyzet:  
-Mely hajt, űz jelentésével szintén érdekes, mert [[O/Orion\|Orion]] is hajtja a Csudaszarvast, de a [[H/Hart\|hart]] = szarvasbika egyik lehetséges eredete is hajt szavunk.  
+Mely hajt, űz jelentésével szintén érdekes, mert [[O/Orion\|Orion]] is hajtja a Csudaszarvast, de a [[H/Hart\|hart]] = szarvasbika egyik lehetséges eredete is [[H/Hajt\|hajt]] szavunk.  
 
 [^10]: Lábjegyzet:  
 Darál (mellyel egyező [[D/Drill\|drill]]) szavunk is a [[H/Hamlet malma\|Hamlet malma]] forgására, őrlésére utal, forgómozgásra (mert ugye a [[P/Prométheusz\|Prométheusz]] címnél is előjövő életfa/világfa, mint Világtengely forog).  
