@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated"],"created":"2023-10-05T06:45","updated":"2025-05-16T23:09"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2025-05-29T17:29"}
 ---
 
 
@@ -262,7 +262,6 @@ Azt, hogy milyen elképesztő következetlenségeket találunk a nyelvtudományb
 ### 3
 
 Dr Weixl Várhegyi László előadásában mutat rá az orvostudomány képtelenségére:  
-> [!|noicon]
 > Az orvosképzésben azt mondják, hogy a desztillált víz mérgező [14:10](https://www.youtube.com/watch?v=XOdpikidsWo&t=850), holott az infúzió 99%-a desztillált víz [14:56](https://www.youtube.com/watch?v=XOdpikidsWo&t=896).
 - Weixl is értetlenkedik, hogy nem tudják egymás mellé tenni a dolgokat?
 
