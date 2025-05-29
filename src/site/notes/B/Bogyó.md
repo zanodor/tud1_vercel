@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bogyó/","title":"Bogyó","created":"2023-12-03T06:28","updated":"2024-10-24T22:16"}
+{"dg-publish":true,"permalink":"/B/Bogyó/","title":"Bogyó","created":"2023-12-03T06:28","updated":"2025-05-29T14:34"}
 ---
 
 
 # Bogyó
 
-A Nap [[B/BOG\|BOG]] nevének lágyított, szóvégén magánhangzóval balanszírozott változata.  
+A Nap [[B/BOG\|BOG]] nevének lágyított, szóvégén magánhangzóval kiegyensúlyozott változata.
+{ #250526}
+
 
 Götz László Keleten kél a Nap című könyvének 487. oldalától tallózik olyan [[B/Budenz József\|Budenz József]] által finnugornak meghatározott szavakból, melyeket [[V/Vámbéry Ármin\|Vámbéry Ármin]] elemzett, majd a TeSz féle származtatásokat is megadja:  
 Bogyó: fi. `marja`, la. `muorje` "bogyó"; cser. `mör` "szamóca"; "ca"; mord. `maŕ` "alma"; vot. `muli` "bogyó".   
