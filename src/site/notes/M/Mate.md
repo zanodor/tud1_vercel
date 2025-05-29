@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mate/","title":"Mate","created":"2025-05-29T17:04","updated":"2025-05-29T17:05"}
+{"dg-publish":true,"permalink":"/M/Mate/","title":"Mate","created":"2025-05-29T17:04","updated":"2025-05-29T17:13"}
 ---
 
 
@@ -16,4 +16,4 @@ A magyar mátka szót mind férfiról, mind nőről szokták érteni (holott val
 Annál is inkább mert, a társak találkoznak ([[M/Meet\|meet]]); itt és ott is t-hangos az a szó, amely [[M/MES\|mes]] ([[M/Metsz\|metsz]]\(éspont)) kiindulású lehet. Ha elmesek valamit, egyik és másik feleket kapom, melyeket össze is tudom találkoztatni ([[K/Köt\|köt]]ni; vö. [[C/Cut\|cut]] = vág).  
 
 Argentínában `mate`/`maté` főzött teaszerű ital, melyet leszűretlenül isznak. Illata és íze az angol utazó szerint olyan mint a marijuanajé.  
-Lásd még [[M/Mæg\|mæg]], [[M/Maik\|maik]], [[M/Match\|match]], [[M/Marry\|marry]], továbbá lásd még [[W/Wife\|wife]], [[F/Friend\|friend]], [[F/Fellow\|fellow]] és [[C/Chum\|chum]]. Lásd még szintén [[C/Chap\|chap]] és [[B/Bloke\|bloke]].  
+Lásd még [[M/Mæg\|mæg]], [[M/Maik\|maik]], [[M/Match\|match]], [[M/Marry\|marry]], továbbá lásd még [[W/Wife\|wife]], [[F/Friend\|friend]], [[F/Fellow\|fellow]] és [[C/Chum\|chum]].   
