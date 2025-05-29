@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Amalthea/","title":"Amalthea","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T05:35","updated":"2025-04-29T10:15"}
+{"dg-publish":true,"permalink":"/A/Amalthea/","title":"Amalthea","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T05:35","updated":"2025-05-29T14:33"}
 ---
 
 
@@ -28,9 +28,9 @@ Mint Tejút-állatalak/Tejútanya nem meglepő, hogy szoptat, ráadásul két "f
 
 Ezen passzus alapján (mármint a görög mitológia ismerete alapján, hiszen nem tudtam Pánról, hogy Zeusz mostoha-testvére) Zeusz a Nap és Pán valóban a Szíriusz lehetne (de ha nem, akkor "árnyék-Nap," a Nap sötét, ördögi vetülete; illetve Pánt Szíriusszal más is azonosította; legegyszerűbb Zeuszt Orion-Jupiterrel és Pánt Orion-Szaturnusszal azonosítani). Amalthea pedig nem más, mint a Tejútanya kecske-állatalakja.  
 
-#### Jankovics Marcell írja...
+#### Jankovics Marcell...
 
-...egy helyen (nem épp így – itt már rövidítve adom):  
+...írja egy helyen (nem épp így – itt már rövidítve adom):  
 > Egy változat szerint Kallisztó fiai Arkasz és Pán, de ismertebb változatban Pán anyja Amalthea kecskeistennő volt, aki Zeuszt is szoptatta.  
 
 #### Falvay Károly Nagyboldogasszony...
@@ -40,8 +40,9 @@ Ezen passzus alapján (mármint a görög mitológia ismerete alapján, hiszen n
 - Rhea, mint anyaméh? Nem hinném, hogy anyaméhet jelentett volna. Nyilván a folyó, áramlás értelmet kell alapérteményként keresni benne. [[R/Rhea\|Rhea]] címnél pedig (Robert Graves definíciójaként) tej kifröccsenéséről volt szó.
 
 Ami a név magyarítását illeti, hasonló név a Robert Graves által adatolt Amathaon és Amathaounta (előtagja), de ha próbálkozni kell, akkor lehet:  
-– A-Mal-Thea (A névelő, Mal – Édes/Méz, Thea – Istennő vagy inkább Tej);  
-– Ama-El-Thea (Ama = Anya, El = IL, mint Ilona nevében, Tej).  
+- A-Mal-Thea (A névelő, Mal – Édes/Méz, Thea – Istennő vagy inkább Tej);  
+- Ama-El-Thea (Ama = Anya, El = IL, mint Ilona nevében, Tej).  
+
 Az első megoldás azért is tetszetősebb, mert Amalthea regebeli húgának, Melisszának a nevében is megvan a méz értelem (ezt is jelenti \[Falvay Károlynál miért méhet[^1]?\]); sőt, így tudták ketten együtt tejjel-mézzel táplálni Zeuszt igazán..!  
 
 ## Lábjegyzetek
@@ -50,4 +51,4 @@ Az első megoldás azért is tetszetősebb, mert Amalthea regebeli húgának, Me
 A Wiki oldala etimológiája gyanánt egyiket sem említi:  
 The name Amaltheia, in Greek "tender goddess", is clearly an epithet, signifying the presence of an earlier nurturing goddess, whom the Hellenes, whose myths we know, knew to be located in Crete, where Minoans may have called her a version of "Dikte".  
 —  
-Az Amaltheia név, görögül "gyengéd istennő", egyértelműen egy korábbi tápláló istennő jelenlétét jelző melléknév, akit a hellének, akiknek a mítoszait ismerjük, Krétán tudtak, ahol a minósziak talán a "Dikte" egy változatának neveztek.  
+Az Amaltheia név, görögül "gyengéd istennő", egyértelműen egy korábbi tápláló istennő jelenlétét jelző melléknév; az istennőt a hellének, akiknek a mítoszait ismerjük, Krétán ismertek, ahol a minósziak talán a "Dikte" egy változatának neveztek.  
