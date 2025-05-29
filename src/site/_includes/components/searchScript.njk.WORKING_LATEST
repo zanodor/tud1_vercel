@@ -349,8 +349,8 @@
         let data = window.docs;
 
         let searchResults = window.index.search(searchQuery, [
-            {field: "title", limit: 20},
-            {field: "content", limit: 100}
+            {field: "title", limit: 20},  // Increased from 10
+            {field: "content", limit: 100}  // Increased from 50
         ]);
 
         const getByField = (field) => {
@@ -364,34 +364,7 @@
             ...getByField("content")
         ])
 
-        // Get results and add scoring information
-        let results = [...allIds].map((id) => {
-            let result = data[id];
-            result.score = 0;
-
-            // Normalize strings for comparison
-            const normalizedTitle = result.title.normalize('NFKD').toLowerCase();
-            const normalizedQuery = searchQuery.normalize('NFKD').toLowerCase();
-            
-            // Boost exact matches (ignoring case and diacritics)
-            if (normalizedTitle === normalizedQuery) {
-                result.score += 1000;  // Huge boost for exact matches
-            }
-            // Boost starts-with matches
-            else if (normalizedTitle.startsWith(normalizedQuery)) {
-                result.score += 500;   // Big boost for prefix matches
-            }
-            // Boost contains matches
-            else if (normalizedTitle.includes(normalizedQuery)) {
-                result.score += 100;   // Medium boost for partial matches
-            }
-
-            return result;
-        });
-
-        // Sort by score
-        results.sort((a, b) => b.score - a.score);
-        return results;
+        return [...allIds].map((id) => data[id]);
     }
 
     function performSearch(searchTerm) {
