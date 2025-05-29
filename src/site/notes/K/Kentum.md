@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kentum/","title":"Kentum","created":"2025-05-29T17:30","updated":"2025-05-29T17:31"}
+{"dg-publish":true,"permalink":"/K/Kentum/","title":"Kentum","created":"2025-05-29T17:30","updated":"2025-05-30T00:08"}
 ---
 
 
@@ -19,7 +19,7 @@ A francia `dommage` = kár és az angol `damage` = sérülés szavak ilyen jelen
 
 Ugyanígy, [[K/Komor\|komor]] kentumos változata a szatemes [[S/Szomorú\|szomorú]] szónak.  
 
-A török `kan` = vér szó tűnik a [[S/Sanguine\|sanguine]] címnél taglalt nyugati vért jelentő szavak kentumos párjának/elődjének. Már csak azért is mert a kan vér jelentése kötött egy másik fogalomkörhöz, ahogy erről [[KAN#Török `kan` vér jelentése|török `kan` vér jelentése]] cím/alcímnél volt szó.
+A török `kan` = vér szó tűnik a [[S/Sanguine\|sanguine]] címnél taglalt nyugati vért jelentő szavak kentumos párjának/elődjének. Már csak azért is mert a kan vér jelentése kötött egy másik fogalomkörhöz, ahogy erről [[K/KAN#Török 'kan' vér jelentése\|török 'kan' vér jelentése]] cím/alcímnél volt szó.
 { #74sz0y}
 
 
