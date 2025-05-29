@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csata/","title":"Csata","tags":["Englishtexttranslated"],"created":"2023-11-02T01:48","updated":"2024-10-25T16:32"}
+{"dg-publish":true,"permalink":"/C/Csata/","title":"Csata","tags":["Englishtexttranslated"],"created":"2023-11-02T01:48","updated":"2025-05-29T14:35"}
 ---
 
 
@@ -25,8 +25,8 @@ Elképzelhető lenne, hogy a [[K/Kata\|kata]], csata szavaink jelentése a Nyila
 A lényeget tekintve persze mindegy: csata együttállásokra értendő, ezt korábban is kimondtuk.  
 Lásd még [[K/Kezdet és vég\|kezdet és vég]] címnél írottakat, ahol arról (is) volt szó, hogy az ekliptika és a Tejút-sík kereszteződése mellett igen is szóba jöhet a holdcsomópontok pályája is, mint harmadik keresztező sík. Csakhogy a 100 rovásjelének megfeleljünk.  
 
-[[H/HAT\|HAT]] címnél (ott bővebben kifejtett) szereplő új írásban is kitérünk csatára:  
-A [[H/HAT\|HAT]] (a precessziós fény-árnyék rendszerben) alul helyezkedik el, ezért a kat, [[K/Kata\|kata]], csata, továbbá [[S/SZAT\|SZAT]] (párjai még ugye setét, sötét, továbbá [[S/Szaturnusz\|Szaturnusz]] és [[S/Széth\|Széth]] nevek is ide tartoznak) mind a halál, az elhullás és anyagba hullás alapján érthetővé válik, ahogy a [[C/Cata- prefixum\|cata- prefixum]] le értelme és a [[C/Cadaver\|cadaver]] és [[H/Hádész\|Hádész]] nevek mögöttes tartalmai is.  
+[[H/HAT\|Hat]] címnél szereplő (ott bővebben kifejtett) írásban is kitérünk csatára:  
+A precessziós fény-árnyék rendszerben hat alul helyezkedik el, ezért a kat, [[K/Kata\|kata]], csata, továbbá [[S/SZAT\|SZAT]] (párjai még ugye setét, sötét, továbbá [[S/Szaturnusz\|Szaturnusz]] és [[S/Széth\|Széth]] nevek is ide tartoznak) mind a halál, az elhullás és anyagba hullás alapján érthetővé válik, ahogy a [[C/Cata- prefixum\|cata- prefixum]] le értelme és a [[C/Cadaver\|cadaver]] és [[H/Hádész\|Hádész]] nevek mögöttes tartalmai is.  
 (Ami a felső tartományhoz tartozó [[H/Hét\|hét]] párjait illeti, ott a szintén magas hangrendű [[S/Szít\|szít]] (ahol [[S/Süt\|süt]] középre tehető, mint [[S/Szürke\|szürke]] is), valamint [[H/Hit\|hit]] és [[H/Híd\|híd]]. A szét, mint a tesz (tűz) inverze, különösen sz-előhangjával magas értelműnek is felfogható, dacára annak, hogy [[S/Széth\|Széth]] nevével egyező.)  
 Ezen szóvázú szavak tehát mind fontos szakrális-kozmológiai jelentőségű szavak. A SZ/H/K/G – T/SZ/Z/C csoporthoz tartozó szavak száma hatalmas méreteket ölt, szinte lehetetlen lesz összefoglalni.  
 A csata tehát azért jelenti a hétköznapi értelemben vett ütközetet, harcot, mint a háborúk részét, mert csak a vaskorban jellemző a katonáskodás, hadakozás.  
