@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tészta/","title":"Tészta","created":"2025-03-14T01:45","updated":"2025-03-14T01:46"}
+{"dg-publish":true,"permalink":"/T/Tészta/","title":"Tészta","created":"2025-03-14T01:45","updated":"2025-05-30T23:44"}
 ---
 
 
 # Tészta
 
-A tészta – test analógiáról volt szó (Magyar Adorjántól és Bíró Lajostól) [[B/Báb\|báb]], (Várkonyi Nándortól) [[I/Istenevés\|istenevés]] és (Végvári Józseftől) [[T/Test\|test]] címnél is.  
+A `tészta` – `test` analógiáról volt szó (Magyar Adorjántól és Bíró Lajostól) [[B/Báb\|báb]], (Várkonyi Nándortól) [[I/Istenevés\|istenevés]] és (Végvári Józseftől) [[T/Test\|test]] címnél is.  
 
 A tészta kiégetve (ha [[T/Tesz\|tesz]] lehet [[T/Tűz\|tűz]]ből eredő, akkor tészta is) adja a [[K/Kenyér\|kenyer]]et, mely így áldozati étel volt.  
 A Tész-Ta tehát egyszer Tűz-Tája értelmű, másrészt a test szó alakváltozata, ahol a tészta a Napisten ("Jézus" és más istenek) teste, de az [[O/Ostya\|ostya]] is lényegében ezt jelképezi. A Napisten testét leginkább [[K/Kenyér\|Kenyér]] (Nap Úr) formájában fogyasztjuk, de a levesbe való tészta kapcsán is előjön a Nap.  
@@ -15,7 +15,7 @@ A Tész-Ta tehát egyszer Tűz-Tája értelmű, másrészt a test szó alakvált
 ...kissé furán szól róla:  
 > Tész-Ta a magyar ige alapján Tesz-Ta, vagy a magyar főnév alapján Tesz-Ta. Kétségtelenül magyar szó, a Tesz szó mellett a Ta a Táj és Igeképző funkciót is ellátja.  
 
-Másutt azért mondja etruszk találmánynak, mert az olaszok pizzája híres (semmi egyedi nincs benne)? Furcsa:  
+Másutt:  
 > A Tészta etruszk magyar találmány, a Tesz ige mellett a Ta Táj, Hely van benne.  
 
 #### Jankovics Marcell...
