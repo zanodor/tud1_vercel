@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kenyér/","title":"Kenyér","tags":["Englishtexttranslated"],"created":"2024-11-04T16:25","updated":"2024-11-04T16:25"}
+{"dg-publish":true,"permalink":"/K/Kenyér/","title":"Kenyér","tags":["Englishtexttranslated"],"created":"2024-11-04T16:25","updated":"2025-05-30T23:45"}
 ---
 
 
@@ -8,7 +8,7 @@
 Régebben a kenyér alakja nem olyan boltozatos volt, mint manapság, hanem lapos, akárcsak a [[T/Tenyér\|tenyér]]é és a [[T/Tányér\|tányér]]é, de hasonló alakra utal a más fonetikai szerkezetű  a [[L/LEB\|LEB]] címnél taglalt `lepény` szavunk is. (Lásd még a török és iráni lapos `pide` kenyereket, az indiai `naan`-t, görög `pita`-t, stb.)  
 
 Ami a szófejtést illeti, nyilvánvalóan nem Keny-Ér a megfejtés, azaz nem arról van szó, hogy kenjük, vajjal, margarinnal, stb...  
-Keny-Ér valójában [[K/KEN\|KEN]]-Ér/Úr olvasatú: lásd kún/hun Napot [[K/KIN\|KIN]], [[K/King\|king]]. Latin, francia nyelvben a kenyér a Nap [[P/Pán\|Pán]]-os megfordításából tevődik ki: `pain`.  
+Keny-Ér valójában [[K/KEN\|KEN]]-Ér/Úr olvasatú: lásd kún/hun Napot [[K/KIN\|KIN]], [[K/King\|king]]. A latin és újlatin, pl. francia nyelvben a kenyér a Nap [[P/Pán\|Pán]]-os megfordításából tevődik ki:  latin `panis`, francia `pain`.  
 Hasonló szó a [[K/KON\|KON]] címnél előjövő perzsa `khoncheh`.  
 
 Jankovics Marcell Mély a múltnak kútja című könyvében is írja, hogy a kenyér (kimondottan a régi kerek fajta) a Napisten megtestesülésének számított.  
@@ -26,7 +26,7 @@ Jankovics Marcell Mély a múltnak kútja című könyvében is írja, hogy a ke
 ...című könyvében írja:
 > [[P/Pest\|Pest]] és [[B/Bécs\|Bécs]] pedig nem vehette nevét a szláv kemencétől először is azért, mert szláv kemencék ezeken a helyeken sohasem lehettek. Az északi szlávok főeledele u. i. nem a kenyér, hanem a köleskása és a tökmag: a déli szlávok pedig sütnek ugyan egy kruhának nevezett tésztafélét, de ezt igen nagy jóakarattal lehet csak kenyérnek nevezni és sütéséhez egyáltalában nincs szükség kemencére, mert laska, vagy palacsinta alakkal bírván, a szabad tűzhelyen is megsül, ha a parazsat félre kotorják. Igazi kenyérevő nép Európában csak a magyar és egyedül ő volt az ezer évvel ezelőtt is. Igazi kenyeret csak a magyar asszony tud sütni ma is, és csak ő fejleszthette ezt a készítményt ötezer éves gyakorlat által művészi tökélyre. Ép így kemencét is csak a magyar ember tud rakni bárhol, szinte pillanatok alatt sárból, miként házát. ([Lásd 105. old.](zotero://open-pdf/library/items/QVETUTRJ?page=105&annotation=IP6GWVU9))  
 
-## Kenyér és udmurt `kenʹyr` = dara, zabkása
+## Kenyér és udmurt 'kenʹyr' = dara, zabkása jelentésű szó
 
 Az [alábbi](https://qr.ae/pNywlr) Quora válaszban írtam:  
 > Udmurt words and mythology are always a great help when trying to find answers as to how our ancestors were thinking. (We thank our enemies for the Finno-Ugric hypothesis; in every bad thing there is a little good coming out. Since the 70's at least, we know that not only Finnic languages are older than most Eurasian languages, but also that Magyar is a flagship language of Finnic languages and that Magyar is the Mother language of all (known or important) languages.)  
@@ -48,7 +48,7 @@ Felvetődik még a kérdés, hogy ha az Úr szavunknak lehet Ár/Ér változata 
 
 ## Kenyér – cipó – kalács
 
-Könnyen lehet, hogy a [[K/Kalács\|kalács]]hoz hasonlóan itt sem annyira az étekről van szó, hanem a kenyér formájáról. A kenyér szó lehet a [[K/Kanyar\|kanyar]] szó felhangos alaki változata is. A Nap pályája az, amit itt látni kell. De mi a helyzet a [[C/Cipó\|cipó]] szóval? Mi az eredete? Szívó? Ez is a Nappályára utal?  
+Könnyen lehet, hogy a [[K/Kalács\|kalács]]hoz hasonlóan itt sem annyira az étekről van szó, hanem a kenyér formájáról. A kenyér szó lehet a [[K/Kanyar\|kanyar]] szó felhangos alaki változata is, ha nagyon akarjuk. De mi a helyzet a [[C/Cipó\|cipó]] szóval? Mi az eredete? Szívó? Ez is a Nappályára utal?  
 Aztán ott van a [[L/LEB\|LEB]], [[L/Loaf\|loaf]], valamint a [[W/Whelp\|whelp]] címnél említett orosz `hleb` = kenyér. Mit keres a szóeleji h a szóban? Jelentékeny? A Kutya-Körre utalna? A fentebbi cikkemben is kitértem a kutyára.  
 [[K/Kalács\|Kalács]] címnél ugye arról volt szó, hogy eredetileg az Istenanya testét fogyasztották. Ami felveti, hogy a nyújtott, elliptikus [[C/Cipó\|cipó]]-forma (a [[C/Cipő\|cipő]] alakjához is hasonlóan) az Istennő testének alakja.  
 
