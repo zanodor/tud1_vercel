@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Star/","title":"Star","tags":["containstransclusions"],"created":"2025-04-27T10:18","updated":"2025-04-27T10:19"}
+{"dg-publish":true,"permalink":"/S/Star/","title":"Star","tags":["containstransclusions"],"created":"2025-04-27T10:18","updated":"2025-05-30T23:45"}
 ---
 
 
@@ -9,15 +9,9 @@
 
 #### Péterfai János írja:
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/O/Oktár/#5v8lk0" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 > Az Istár név Fény-Tár, rövidülve Sztár.  
-> Oktár hun király nevében az Ok és Tár magyar szavak ismerhetőek fel. De vigyázat, az Ok és Ék jelentése Csillag is, aminek a tárolása, tudása megfelel Ok-Tár nevének. De a Tár is jelent Csillagot, lásd Is-Tár (Isztár) nevünket, ami rövidülve Sztár formára Csillagot jelent. Amúgy a Tár-Tér-Tir egyértelműen Csillag, amit most nem mutatok be. Elég annyi, hogy a szumer `Tir` jelentése Csillag. Oktár talán csillagász volt, aki a csillagok, vagy az okok eseményeit tárolta. 
-
-</div></div>
+> Oktár hun király nevében az Ok és Tár magyar szavak ismerhetőek fel. De vigyázat, az Ok és Ék jelentése Csillag is, aminek a tárolása, tudása megfelel Ok-Tár nevének. De a Tár is jelent Csillagot, lásd Is-Tár (Isztár) nevünket, ami rövidülve Sztár formára Csillagot jelent. Amúgy a Tár-Tér-Tir egyértelműen Csillag, amit most nem mutatok be. Elég annyi, hogy a szumer `Tir` jelentése Csillag. Oktár talán csillagász volt, aki a csillagok, vagy az okok eseményeit tárolta.
+{ #5v8lk0}
 
 
 A szláv nyelvekben `sztár`, `sztári` = öreg, azaz itt is a csillagok jönnek a képbe, ahogy [[V/Vén\|vén]] szavunkban a [[F/Fény\|fény]] szerepel. Ahogy Péterfai János írja:  
@@ -28,7 +22,7 @@ Ugyanakkor lehet szó arról is, hogy a szó az égbolt/Tejút [[T/Tarka\|tarka]
 #### Kállay Ferenc A pogány magyarok vallása...  
 
 ...című könyvének 129. oldalán is írja:  
-> Strahlenberg (p. 105.) megemlíti ez öreg isten kőbábját, mely Jenisei közelében fennállt az ő idejében Kraszna vidékén, kőből kifaragott öregember volt az, az oroszok ostyák bálványnak tartották, s magok nyelvén *starryck*-nak nevezték (= öreg), hihetőleg a finn mythologia *vénha* istene volt az (= vén).  
+> Strahlenberg (p. 105.) megemlíti ez öreg isten kőbábját, mely Jenisei közelében fennállt az ő idejében Kraszna vidékén, kőből kifaragott öregember volt az, az oroszok ostyák bálványnak tartották, s magok nyelvén `starryck`-nak nevezték (= öreg), hihetőleg a finn mythologia *vénha* istene volt az (= vén).  
 
 #### Magyar Adorján...  
 
@@ -49,7 +43,8 @@ Mindenütt azzal találkozunk, hogy a [[V/Vénusz\|Vénusz]] egyik másik neve C
 Akár a fentebb említett [[T/Tarka\|tarka]] tar eleméből is lehet képzett star, elhagyva a -ka végződést. Lehet a magyar nyelvben sok szót kitevő [[E/Eszter\|Eszter]] az alapja. Lásd még legutóbb [[O/Ostor\|ostor]] címnél írottakat is ([[O/Ösztörű\|ösztörű]] és `sztaurósz` szavak kapcsán is).  
 
 Az is lehetséges, hogy Süt-Úr a keresett összetétel, sőt, egyszerre Süt-Úr és Söt-Úr, hiszen a Szíriusz (a legfőbb csillag, a jelzőcsillag) választja el a világos és sötét félévet.  
-A [[S/Sidereal\|sidereal]] címnél hozott perzsa `setâre` = csillag szóalakjával támogatott ezen elképzelés.   
+A [[S/Sidereal\|sidereal]] címnél hozott perzsa `setâre` = csillag szóalakjával támogatott ezen elképzelés.  
+- Egyébként a [[C/Csuda#Csuda ég jelentése\|csuda ég jelentése]] cím/alcímnél szereplő csuda, süt = ég megfeleltetés alapján, és [[U/UR\|úr]] ég (mellék)jelentése alapján a [[C/Csődör\|csődör]] szó megoldásaként is említett Süt-Úr pleonasztikusan hat.
 
 Lásd még [[C/Csillag\|csillag]] és [[C/Csillagvallás\|Csillagvallás]]. Lásd még továbbá [[I/Iszter\|Ister]] és [[I/Istár\|Istár]].  
 Lásd még érdekességként [[D/Disaster\|disaster]].  
