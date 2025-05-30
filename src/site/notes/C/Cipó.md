@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cipó/","title":"Cipó","created":"2024-11-04T16:30","updated":"2024-11-04T16:30"}
+{"dg-publish":true,"permalink":"/C/Cipó/","title":"Cipó","created":"2024-11-04T16:30","updated":"2025-05-30T23:46"}
 ---
 
 
