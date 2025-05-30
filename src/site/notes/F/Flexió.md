@@ -6,7 +6,7 @@
 # Flexió
 
 #### Végvári József Ragozó-rügyező nyelvünk...  
-
+ 
 ...című írásában közli:  
 > A körülöttünk élő, illetve a világot ma uraló népek kivétel nélkül hajlító nyelveket beszélnek. A négyes felosztás, mely szerint vannak elszigetelő (kínai), hajlító (indogermán, sémi), ragozó (finnugor, török, busman, bantu nyelvek, több kaukázusi nyelv mint például csecsen és grúz, a kihalt sumér, baszk) és összegző vagy bekebelező (eszkimó, amerikai indián, ausztráliai) nyelvek. A mai angol eredendően hajlító, de vannak elszigetelő vonásai is.  
 > Miben áll a hajlítás? Egyfelől abban, hogy a szó tőmagánhangzója változik meg, méghozzá minőségileg. Az angolban legjobb példa erre a rendhagyó igék három alakja: *drink* – *drank* – *drunk* stb.; ez az ún. tiszta vagy belső hajlítás, melyre a mi nyelvünkben nincs példa (ugyanakkor mutatja a magánhangzók fontos szerepét is az indogermán nyelvekben). Az ún. külső hajlításban végződések, toldalékok jelennek meg, ezek azonban egészen mások mint a magyar ragok, legföljebb látszatra és messziről hasonlítanak.  
@@ -40,7 +40,7 @@ Mielőtt további példákkal szemléltetnénk, hogyan működik mindez a magyar
 > A Ku flexiót alkot a magyar nyelvben, Kő jelentéssel. A flexió sorozata a következő: Ku, Ko, Ka, Kő, Ke, Ki, Kü. Mindegyiknek van Kővel kapcsolatos jelentése. A bemutatott flexiós nyelvi jelenséget Archaikus Flexiónak nevezem, szemben a szemita nyelvekre jellemző Modern Flexióval. Teljesen bizonyos, hogy a szemita nyelvek flexiós jelensége a magyar Archaikus Flexióból alakult ki.  
 > A szemita nyelvekben ugyanis a flexiós ragozás BABAB típusú szavakon megy végbe, amíg a magyar flexió AB vagy BA, nagyon egyszerű szavakon jelentkezik. Általában a magyar flexiós, hajlítós nyelvi jelenséget Szóbokor képződésnek nevezik. A magyar nyelvben a Flexió, vagy a Hajlítás sok tízezer évvel megelőzi a szemita nyelvekben megjelenő Flexálást, vagy Hajlítást, ami valójában az oldalra kitérést, az egyenestől való eltérést írja le, nyelvi alap jellegzetességként.  { #bjhh4f}
 
-- [[E/Éva#Khavva és héber qobbah\|Khavva és héber qobbah]] cím/alcímnél is írtuk:  
+- [[E/Éva#Khavva és héber 'qobbah'\|Khavva és héber qobbah]] cím/alcímnél is írtuk:  
 Úgy tűnik, hogy már a magyar nyelv sémit megelőző archaikus flexiós fejlődésében lezajlott az ív alak h/k/g hangos toldásávali változatainak létrehozása. Ezek pl.: [[H/Hív\|hív]], [[K/KAP\|kap]], [[G/Göb\|göb]], [[K/Kúp\|kúp]], stb.
 { #p3kgqp}
 
