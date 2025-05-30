@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2025-04-27T15:19"}
+{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2025-05-30T23:45"}
 ---
 
 
@@ -163,7 +163,7 @@ Ne feledjük, a fenti ábra alapján is a Kis Év utolsó hónapjaiban járunk, 
 > A magyar [[E/Eszterág\|eszterág]] (eszter + ág) a gólya vagy a [[D/Daru\|daru]] neve onnan van, hogy a madár két vékony hosszú lába megfordított V-alakú elágazáshoz hasonló.  
 - Ehhez tegyük hozzá, hogy a szintén az ő adataként hozott orosz `osztrov` = sziget is ugyanerre az elágazásra utal és szinte azonos alakú vele.
 
-Lásd még [[O/Ösztörű#Eszterág – ösztörű – görög hustera\|eszterág – ösztörű – görög hustera]] cím/alcímet, ahol elhangzott:  
+Lásd még [[O/Ösztörű#Eszterág – ösztörű – görög 'hustera'\|eszterág – ösztörű – görög hustera]] cím/alcímet, ahol elhangzott:  
 A Tejútelágazás ágai a közös kapocs, sőt, mivel ott a Tejútközpont, a [[T/Tejútanya\|Tejútanya]] méhe, a [[H/Hysteria\|hysteria]] címnél taglalt görög `hustera` = méh is innen veszi eredetét.  
 
 ## Aranyos szegelet
