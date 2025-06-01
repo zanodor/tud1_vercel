@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Patala/","title":"Patala","tags":["Englishtexttranslated"],"created":"2023-10-13T01:18","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/P/Patala/","title":"Patala","tags":["Englishtexttranslated"],"created":"2023-10-13T01:18","updated":"2025-06-02T01:02"}
 ---
 
 
@@ -28,10 +28,12 @@ A fenti passzus fontossága miatt [[K/Krisztus#Krisztus a szarvasfiú születés
 
 Várkonyi Nándor Az elveszett Paradicsomában Pátála-Amerika benépesítéséről szól (lásd [[N/Nagali\|Nagali]]), azaz nemcsak...
 
-#### Péterfai János tud ilyenről:  
+#### Péterfai János...
 
+...tud ilyenről:  
 > A Puránák azt is bizonyítják, hogy ismertük Amerikát, sok évezreddel ezelőtt is. Igaz, csak a keleti ismereteket bizonyítják, de mi tudjuk, hogy nyugaton is elértük Amerika hatalmas térségeit. Keleten \[értsd: a Puranákat és Védákat írók nyelvén\] tehát Patala volt Amerika neve. Ez a név Pata-La formában a Halál-Földje értelemmel bírt. A nevet csak a nyugati értelmezéssel lehetne megmagyarázni, ezért Patala földjének a nevét inkább nem szabad értelmezni.  
 - Péterfai a halál értelmet Ipolyi Arnold Magyar mythologia című könyve útján [[H/Hérodotosz\|Hérodotosz]]tól vehette, aki szerint Oiorpata egy szkíta-amazon nép neve és jelentése annyit tenne, mint férjölő (`oior` = úr; `pata` = (ahogy Ipolyi Arnold írja: "csatapaténál fogva") ölő).
+- Várkonyinál **Puskara** nevet látunk Amerikára.
 
 #### Bakos Attila A Duna Evangéliuma...
 
@@ -40,7 +42,7 @@ Várkonyi Nándor Az elveszett Paradicsomában Pátála-Amerika benépesítésé
 - Már ha nem égi területekről van ott is szó.
 
 > Ivala Praszada, hindu régész és szankszritológus, megkísérelte, hogy kifejtse a Puránákban lappangó történeti eseményeket, s ezek közt tisztázza a Pátála-Amerika kérdést (1926). Minket érdeklő fejtegetése röviden: A vízözön előtt három ázsiai nép, a déva, a daitja és a nága, összefogott egy tengerentúli hadműveletre. Sikerrel jártak, s a zsákmány elosztásánál a dévák megrövidítették a daitjákat, s ebből megint háború kerekedett, melyet az utóbbiak elvesztettek. Ekkor a daitják Bali nevű fejedelmének három elégedetlen vezére: Szumali, Maja és Maliavan, a nép egy részével kivándorolt a tengerentúli Pátálába. A vízözön után Szumali utódai visszatértek Szingalába (Ceylon), s ott egyesültek az afrikai eredetű jak-sákkal. (Közbeszúrva: ezek a madagaszkári hovák; de valószínűbb, hogy a két rokonnép a közös őshazából, Gondvánából származik.) Minthogy azonban a vízözön a szárazföldi kapcsolatot Afrikával megszüntette (elsüllyesztette Gondvanát), Északnak fordultak, és meghódították Dél-India keleti és nyugati partvidékét. (Dravidák?) Így mondja Praszada.  
-> A [[M/Meru\|Meru]]-mítosz, mint minden mítosz, sűrített történelem is, kiviláglik belőle, hogy India ősnépeinek konkrét fogalmaik és történeti hagyományaik voltak az ellenlábas féltekéről. Pátálának nevezték; tudomásunk szerint a legutolsó vízözön előtt három földrész terült el itt: Atlantisz, Amerika és Mú. - Atlantiszt a hindu mítosz Atalájávál vagy Sanka-dvipájával azonosíthatjuk, Amerikát Puskarával; Mú identifikálására a hagyomány nem ad módot. Minthogy a rege általában csak Pátáláról beszél, feltehetjük, hogy az ázsiai népek tengerentúli akciója a közelebb eső Mú-szigete ellen irányult.  
+> A [[M/Meru\|Meru]]-mítosz, mint minden mítosz, sűrített történelem is, kiviláglik belőle, hogy India ősnépeinek konkrét fogalmaik és történeti hagyományaik voltak az ellenlábas féltekéről. Pátálának nevezték; tudomásunk szerint a legutolsó vízözön előtt három földrész terült el itt: Atlantisz, Amerika és Mú. – Atlantiszt a hindu mítosz Atalájávál vagy Sanka-dvipájával azonosíthatjuk, Amerikát Puskarával; Mú identifikálására a hagyomány nem ad módot. Minthogy a rege általában csak Pátáláról beszél, feltehetjük, hogy az ázsiai népek tengerentúli akciója a közelebb eső Mú-szigete ellen irányult.  
 > Csakhogy nem bizonyos, vajon Mú Amerika felé is sziget volt-e, nem tartozott-e egybe a kontinenssel? Ha igen, ami valószínű, a letelepülések és hódítások hagyományaiban szereplő Pátála ezt az egyesült nagy szárazföldet jelenti. De szemünkben a Meru-mítosz igazi jelentősége más: szép példában mutatja, hogy a Mindenséget, az Eget, és a Földet, az alsó, anyagi és a felső, lelki világot s végül a Paradicsomot magát mint formálta egyetlen mándala-szimbólummá egy történetelőtti kultúra.  
 
 A Pátála elnevezéssel azért is csínján kell bánni, mert William F. Warren Paradise Found: Cradle of the Human Race at the North Pole című könyvéből tudjuk, hogy:  
