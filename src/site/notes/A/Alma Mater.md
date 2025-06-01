@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alma Mater/","title":"Alma Mater","tags":["Englishtexttranslated"],"created":"2023-10-11T04:42","updated":"2025-03-08T23:17"}
+{"dg-publish":true,"permalink":"/A/Alma Mater/","title":"Alma Mater","tags":["Englishtexttranslated"],"created":"2023-10-11T04:42","updated":"2025-06-02T01:03"}
 ---
 
 
@@ -67,12 +67,13 @@ Az [alábbi](https://qr.ae/TZfUX1) Quora kérdésre adott angol cikkemben is fel
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Robert Graves szerint a fenyő, pontosabban az ezüstfenyő az ír-kelta druidák titkos "fa-ábécéjének" első betűjeként ('A' mint `Ailm`, azaz "ezüstfenyő"), egyúttal a napév első napjának a szent fája, ugyanakkor a Nagy Istennőnek mint a Nyilas hónap úrnőjének, az "ezüstös" Artemisz (Diana) hold- illetve tejútistennőnek az egyik növényi formája, a születés, újjászületés jelképe is volt Európában (délszaki megfelelője a pálma), így kultusza nemcsak az anyaistennő, hanem a megváltó fiúisten személyéhez is kapcsolódott. \[Jankovics M.\]  
+Jankovics Marcell írja:  
+Robert Graves szerint a fenyő, pontosabban az ezüstfenyő az ír-kelta druidák titkos "fa-ábécéjének" első betűjeként ('A' mint `Ailm`, azaz "ezüstfenyő"), egyúttal a napév első napjának a szent fája, ugyanakkor a Nagy Istennőnek mint a Nyilas hónap úrnőjének, az "ezüstös" Artemisz (Diana) hold- illetve tejútistennőnek az egyik növényi formája, a születés, újjászületés jelképe is volt Európában (délszaki megfelelője a pálma), így kultusza nemcsak az anyaistennő, hanem a megváltó fiúisten személyéhez is kapcsolódott.  
 —  
 Robert Graves The White Goddess című könyvének 194. oldalán írja:  
-I place the station of the yew on the last day of the year, the eve of the Winter Solstice. `Ailm` the Silver-fir of Birth and `Idho` the Yew of Death \[lásd [[T/Tiszafa\|tiszafa]]\] are sisters: they stand next to each other in the circle of the year and their foliage is almost identical. Fir is to yew as silver is to lead. The mediaeval alchemists, following ancient tradition, reckoned silver to the Moon as presiding over birth, and lead to Saturn as presiding over death; and extracted both metals from the same mixed ore.  
+I place the station of the yew on the last day of the year, the eve of the Winter Solstice. `Ailm` the Silver-fir of Birth and `Idho` the Yew of Death are sisters: they stand next to each other in the circle of the year and their foliage is almost identical. Fir is to yew as silver is to lead. The mediaeval alchemists, following ancient tradition, reckoned silver to the Moon as presiding over birth, and lead to Saturn as presiding over death; and extracted both metals from the same mixed ore.  
 —  
-A tiszafa állomását az év utolsó napjára, a téli napforduló előestéjére helyezem. `Ailm` a születési ezüstfenyő és `Idho`, a halál [[T/Tiszafa\|tiszafá]]ja testvérek: egymás mellett állnak az év körében, lombjuk szinte egyforma. A fenyő a tiszafához úgy passzol, mint az ezüst az ólomhoz. A középkori alkimisták az ősi hagyományt követve a Hold ezüstjét tekintették a születés uralkodójának, és a Szaturnuszhoz vezették a halált; és mindkét fémet ugyanabból a kevert ércből nyerték ki.  
+A [[T/Tiszafa\|tiszafa]] állomását az év utolsó napjára, a téli napforduló előestéjére helyezem. `Ailm` a születési ezüstfenyő és `Idho`, a halál tiszafája testvérek: egymás mellett állnak az év körében, lombjuk szinte egyforma. A fenyő a tiszafához úgy passzol, mint az ezüst az ólomhoz. A középkori alkimisták az ősi hagyományt követve a Hold ezüstjét tekintették a születés uralkodójának, és a Szaturnuszhoz vezették a halált; és mindkét fémet ugyanabból a kevert ércből nyerték ki.  
 
 [^2]: Lábjegyzet:  
 [[A/Álmos\|Álmos]]sal kapcsolatosan felmerült másutt, szeplőtelen fogantatás kapcsán, hogy hogyan lehet prototípus más népek mondáiban, ha később élt: Bíró Lajos is elmondja előadásában, hogy az Álmos és Árpád nevek inkább olyanféle mitikus őstől örökül vett rangnevek, mint ahogy Egyiptomban Ozirisz nevét felvették, hogy vele azonosuljanak.  
