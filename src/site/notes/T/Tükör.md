@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tükör/","title":"Tükör","created":"2024-05-01T14:30","updated":"2024-10-26T00:41"}
+{"dg-publish":true,"permalink":"/T/Tükör/","title":"Tükör","created":"2024-05-01T14:30","updated":"2025-06-02T01:02"}
 ---
 
 
@@ -39,8 +39,14 @@ A [[M/Mestergerenda\|mestergerenda]] alatt a déli oldalon elhelyezett tükör i
 #### Magyar Adorján...
 
 ...másutt írja (etimonok híján nem is olyan rossz próbálkozás részéről, sőt, új értelmezési síkot nyit meg):  
-> E [[M/Motolla\|motollá]]t is azonban népünk nevezi tekerük néven is, amely szó viszont a kún tekerni igéből származik, amelynek csak újabban lett inkább csak csavarni értelme, de hogy régen jelentett kerekséget, forgást is, tanúsítja a tekerük e nevén kívül teke = golyó szavunk és az ebből származott tök szó is. Mivel pedig a régi fémtükrök mindig kerekek voltak (aminthogy népünk kis kézi tükre ma is kerek), ebből következik, hogy tükör szavunk voltaképpeni értelme: kerek; vagyis hogy a tükör = kerek. Amit igazol egyrészt az hogy: a kerék is voltaképpen = a kerek; aminthogy némely helyen a kereket ma is kereknek és nem keréknek nevezik (például Erdélyben). A törökben, mongolban is `tükerek`, `tögörök` = kerék.  
+> E [[M/Motolla\|motollá]]t is azonban népünk nevezi tekerük néven is, amely szó viszont a kún tekerni igéből származik, amelynek csak újabban lett inkább csak csavarni értelme, de hogy régen jelentett kerekséget, forgást is, tanúsítja a tekerük e nevén kívül teke = golyó szavunk és az ebből származott tök szó is. Mivel pedig a régi fémtükrök mindig kerekek voltak (aminthogy népünk kis kézi tükre ma is kerek), ebből következik, hogy `tükör` szavunk voltaképpeni értelme: kerek; vagyis hogy a tükör = kerek. Amit igazol egyrészt az hogy: a kerék is voltaképpen = a kerek; aminthogy némely helyen a kereket ma is kereknek és nem keréknek nevezik (például Erdélyben). A törökben, mongolban is `tükerek`, `tögörök` = kerék.  
 - Vö. komi `t'urk` = gördül.
+
+#### A Czuczor-Fogarasi szótár adata:
+
+> A tükör neve több nyelvben a látszatra, nézésre vonatkozó szókkal van eredeti viszonyban, \[...\] Valószinü, hogy magyar neve is a tűnik (szembetűnik), tündöklik, tündér, tüngös szókkal egy eredetü, s oly testet jelent, mely más testek képét elétünteti, vagy tünögteti, és mely a fénysugaraktól tündöklik. Ha alapul a gyakorlatos tünög igét veszszük, ennek részesülője tünögő, öszvehuza lesz tüngő \[...\] Lehet a ,tündököl' szó összehuzása is: tündköl, tündkör, tűkör. Mongol nyelven is: `tüle` am. láng, `tüle-kü` am. ég-ni; és `toli` am. tűkör. Egyébiránt MIKLOSICH szerént régi szláv nyelven: `tykrb`. VÁMBÉRY szerént csuvasz nyelven: `tügür` és `tügürt`.
+{ #ddv0jn}
+
 
 #### Magyar Adorján Magyar építőízlés...
 
