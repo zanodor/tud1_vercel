@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2025-03-14T22:48"}
+{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2025-06-02T01:00"}
 ---
 
 
@@ -13,9 +13,13 @@ Más értelmezésben Ozirisz-Orion sötét fele/ikre, de ahogy több helyen szer
 
 Szaturnuszra, mint lassan haladó, Öreg Napra is illik az [[O/Öregisten\|ÖregIsten]][^1] kifejezés, mely [[O/Odin\|Odin]] nevének tulajdonképpeni értelme is.  
 
-Azóta [[O/Odin\|Odin]] kapcsán másról is volt szó, így nem biztos, hogy az a helyes elemezendő alak.  
+Azóta [[O/Odin\|Odin]] kapcsán másról is volt szó, így nem biztos, hogy az a helyes elemzendő alak.  
 
-[[S/Sarkcsillag\|Sarkcsillag]]gal való hasonlításról is lesz alant szó, márpedig ha az Öreg Isten egyúttal mozdulatlan és mindent mozgató (mint [[A/Ahura Mazda\|Ahura Mazda]]) is, akkor ez a szerep neki jár ki. Magyar Adorján is megjegyzi:  
+[[S/Sarkcsillag\|Sarkcsillag]]gal való hasonlításról is lesz alant szó, márpedig ha az Öreg Isten egyúttal mozdulatlan és mindent mozgató (mint [[A/Ahura Mazda\|Ahura Mazda]]) is, akkor ez a szerep neki jár ki.  
+
+#### Magyar Adorján...
+
+...is megjegyzi:  
 > Az Örök, nagy Mindenség-Istent ülve, azaz trónuson ábrázolták, mivel az ülés nyugalmat, mozdulatlanságot is jelképez. Holott a Napistent, aki egyúttal a haladó idő istensége is volt, menő, haladó, járó, röpülő, esetleg lóháton avagy lovakkal vont szekéren rohanó istenségnek képzelték, ilyenként ábrázolták, sőt jelképezték is aranyszőrű, lóval, szárnyas lóval, avagy a magasban szálló, röpülő, keringő sassal is.  
 
 Nem elfelejtendő itt még az sem, hogy a mítoszalkotó képzelet a [[N/Nap – halott Nap\|Nap – halott Nap]] helyét a [[G/Göncöl\|Göncöl]]be, a Sarkcsillagra képzelte. ([[I/Isten\|Isten]] címnél jobban kifejtve mindez.)  
@@ -25,10 +29,13 @@ Nem elfelejtendő itt még az sem, hogy a mítoszalkotó képzelet a [[N/Nap –
 ...című könyvének 69. és 147. oldalán "Éjszakai Napnak" hívja forrásai alapján Szaturnuszt (utóbbi oldalon írja):  
 > Az asztronómiai ékiratokon "Mul-Sag-Us" ékjelekkel van írva, amit a sémi nyelven "kakkabu kaimanu" néven ismernek és így ment át az összes sémita nyelvbe. A káld-sumír mitológiában igen hatalmas erőt tulajdonítottak a Földre jövő sugárzásának és "éjszakai nap" volt egyik neve, de amikor a [[H/Halak csillagkép\|Halak csillagkép]]ében volt, akkor "Mul-Ug-Ga" nevet kapott, melynek jelentése a "halál csillaga".  
 - [[K/Kámán\|Kámán]] címhez is betéve.
+- Lásd még angol [forrást](https://www.ub.edu/ipoa/wp-content/uploads/2021/08/20132AuOrVanderSluijs.pdf#:~:text=Keywords:%20Saturn%2C%20planets%2C%20Sun%20(%20the%20%E2%80%9CSun,usual%20astronomical%20names%20Kayam%C4%81nu%20and%20mulUDU.%20IDIM.).
 
 Viszont ha Péterfai János adata szerint `Us` = halál, akkor az első neve is ilyen jelentésű.  
 
-Szaturnuszról mint ellen-Napról ír Jankovics Marcell:  
+#### Jankovics Marcell...
+
+...Szaturnuszról mint ellen-Napról ír:  
 > A mitológiai ellentétpárok szimmetrikusak, tagjaik közt van némi hasonlóság is, nemcsak ellentét. Így van ez a Nap (arany) és a Szaturnusz (ólom) esetében is. A [[S/Szaturnusz\|Szaturnusz]] "**ellen-Nap**", "holt Nap", hisz istene ifjan napisten volt. (L. az osztjákok téli "ólom-pótnapját". Szibériában télen a Nap valóban csak annyit ér, mint aranyhoz képest az ólom.) Ezért próbáltak ólomból csinálni aranyat az alkimisták. Mindkettő nehéz fém és puha, de a hasonlatosság itt véget is ér: "Nehéz a szíve" (mint az ólom) és "aranyszíve van" egészen mást jelentenek. Az utóbbinak "keményszívű", "kőből van a szíve" az ellentéte.  
 
 Ellen-Nap vagy Másik Nap a Kutyacsillag [[S/Szíriusz\|Szíriusz]] is. Szíriusz és Szaturnusz égitestekben az a közös, hogy mindkettő kapcsolódik [[S/Széth\|Széth]]hez.  
@@ -220,11 +227,11 @@ Az alábbi adatsorában Szent Margittal kapcsolatosan is a sárkányt Szaturnuss
 > Legendájának itt ismertetett elemei is antik csillaghit-maradványok. Ugyanazért éltek tovább a keresztény hagyományban, amiért a többi hasonló jelkép és motívum: még nem vesztették el aktualitásukat. Margit győzelme a sárkány felett, keresztény jelképként a kígyón tapadó Szűz, a sárkánnyal küzdő Napba öltözött asszony apokaliptikus képét idézi. Kegyes mondanivalóján azonban átsejlik az ősibb, pogány tartalom, amelynek értelmében a legenda hősnője (eredetileg a Nagy Istennő) azonosul az általa (a hit által) legyőzött sárkánnyal, annak jobbik ("megkeresztelt") énjét testesítve meg. Margit képmásai is ezt az értelmezést tanúsítják. A szüzet egyszer úgy ábrázolják, amint derékig kiemelkedik a sárkány szájából; másszor meg éppen úgy, hogy a szörny: sárkány vagy ördög leselkedik ki a szoknyája alól. A sárkánnyal, ördöggel hadakozó, rajtuk diadalmaskodó Margit képe asztrológiai mondanivalót is kifejez: a sárkány, ördög a szent szűz talpa alatt a Rák havában rangja vesztett Szaturnuszt testesíti meg, Margit pedig a Rákban uralkodó gyöngyös" Holdat.  
 
 Hamlet Malmában (is) szólnak arról, hogyan válhatott Szaturnusz az Idő Urává:  
-Macrobius foglalkozik Kronosz felelősségével a "lények osztódásáért" (Sat.1.8.6-7). Miután megemlítette Kronosz (Szaturnusz) közkeletű azonosítását Khronosszal (az Idővel), amit oly gyakran vitattak a filológusok, így folytatja:  
-> Mint mondják, Szaturnusz levágta atyjának, Caelusnak \[[[Uránosz\|[Uránosz]]nak\] a nemiszervét, bedobta a tengerbe, s ebből született [[V/Vénusz\|Vénusz]], aki a habról (aphros) melyből született, fölvette az Aphrodité nevet. Ebből arra következtetnek, hogy amikor káosz volt, idő nem létezett, amennyiben az idő az égbolt forgásából levezetett, kiszabott mérték. Az idő ott kezdődik; és úgy vélik, hogy ebből született meg Kronosz, aki azonos Khronosszal, mint korábban mondottuk.  
+> Macrobius foglalkozik Kronosz felelősségével a "lények osztódásáért" (Sat.1.8.6-7). Miután megemlítette Kronosz (Szaturnusz) közkeletű azonosítását Khronosszal (az Idővel), amit oly gyakran vitattak a filológusok, így folytatja:  
+> Mint mondják, Szaturnusz levágta atyjának, Caelusnak \[[[Uránosz\|[Uránosz]]nak\] a nemiszervét, bedobta a tengerbe, s ebből született [[V/Vénusz\|Vénusz]], aki a habról (`aphros`) melyből született, fölvette az Aphrodité nevet. Ebből arra következtetnek, hogy amikor káosz volt, idő nem létezett, amennyiben az idő az égbolt forgásából levezetett, kiszabott mérték. Az idő ott kezdődik; és úgy vélik, hogy ebből született meg Kronosz, aki azonos Khronosszal, mint korábban mondottuk.  
 > Arról van szó, hogy "a világ szülőinek szétválasztása", mely Uranosz kiherélésével történt meg, az **ekliptika ferdeségének beállítását** (lásd [[F/Föld tengelyferdülése\|Föld tengelyferdülése]]) jelenti: a mérhető idő kezdetét. (Ugyanezt az eseményt Milton a Paradicsomból való kiűzetésként értelmezte \[lásd 13. függelék\].) És azért Szaturnuszt "jelölték" ki arra, hogy azt beállítsa, mert ő a legkülső (látható) bolygó[^13], legközelebb az állócsillagok szférájához.  
 > "Ezt a bolygót tekintették úgy, mint amely mozgást közöl az Univerzummal, és aki úgyszólván annak királya," írja Schlegel Kínáról (L'Uranographie Chinoise, pp. 628ff.).  
-
+> 
 > A Szaturnusz, a kozmosz mértékeinek adója, Babilonban a "Törvény és Igazságosság Csillaga", a "Nemezis Csillaga" Egyiptomban, de a Szükségszerűség és Megtorlás Uralkodója, röviden a Császár. Kínában Szaturnusznak a címe "Génie du pivot", mint a Középpont felett ügyelő isten, s ugyanezt a címet kapja a [[S/Sarkcsillag\|Sarkcsillag]].  
 >
 > Az a megfogalmazás, hogy "bizonyára az aszurák \[lásd erről [[D/Dévák és Aszúrák\|Dévák és Aszúrák]] és [[M/Moron\|moron]]\] eredetileg igazságosak, jók és adakozók voltak", érvényes a titánokra is, az első világkorszak erőire. De ha az ezt megelőző helyzet "szemüvegén" át nézzük, a titánok, aszurák és a hozzájuk hasonlók követtek el először "szörnyűségeket." De így tett Szaturnusz is, az "idők kezdeményezője", drasztikus tettével, mellyel keresztülvitte "a világ szülőinek szétválasztását", ami **az egyenlítő és a nappálya tengelyeinek szétválását** jelenti. E szétválasztás előtt idő nem létezett. Ezek az "egyesült szülők" – Macrobius szívtelenül a "káosz" nevet használja – megnehezteltek azért, hogy az eredeti örökkévalóságot felszámolták azok az erők, melyek titokban gonoszságot (igazságtalanságot) műveltek. Ezek az erők, ahogyan az [[E/Enuma Elish\|Enuma Elis]]-ben – az úgynevezett Babiloni Teremtés-eposzban megjelennek – Apszú és Tiámat gyermekei, akik betolakodtak szüleik közé. "Megzavarták Tiámatot, ahogy ide-oda özönlöttek; igen, elrontották [[T/Tiamat\|Tiamat]] hangulatát. Apszú nem tudta zajongásukat csökkenteni... Kifogásolható volt a viselkedésük, erőszakosak voltak."  
@@ -247,8 +254,9 @@ Fentebb pedig [[Y/Yama\|Yama]]-ra mondták, hogy Szaturnusz, holott az Ikrekkel 
 Ezt az oppozíció témát, amely az asztrológiai síkon is tárgyalásra került, úgy is meg lehet magyarázni, hogy télen a szemközti, Orion csillagképet látjuk és télen Szaturnusz uralkodik (az, hogy a Bak és Vízöntő jegyekben uralkodik, azt jelenti, hogy a Nap akkor gyenge). Ergo az egész egy rendszerben értelmezhető, de a bolygó Szaturnusz leginkább asztrológiai minőségét, sötét minőségét tekintve értelmezendő (már maga a [[S/Satyr\|Satyr]] és Szatur nevek Söt-Úr értelműek ugye). Orion pedig az a hely, ahová érve a Nap a sötét térfélbe lép.  
 
 A [[K/Kovács\|kovács]]istenségekkel kapcsolatosan is előjött, hogy Orion-beli és szaturnuszi alakok lehetnek.  
-Azt se felejtsük el, hogy a Szaturnusz akkor van uralomban, amikor a Nap születik vagy még nagyon erőtlen:  
-Ninib, a mezopotámiai (asszír) Szaturnusz \[a suméroknál [[N/Ninurta\|Ninurta]]\] eredetileg a déli égtáj istene volt, a déli pihenőé és a téli napfordulóé, amikor a Nap a legdélibb ponton kél, és legtovább "pihen" éjszaka. Mindez összefügg azzal, hogy az év legsötétebb hónapjait, a Bak és a Vízöntő havát rendelték uralma alá. Ezért nevezték a "Küszöb őrének", hiszen az év legfontosabb kapujában állt. \[Jankovics M.; fentebb is szerepelt\]  
+Azt se felejtsük el, hogy a Szaturnusz akkor van uralomban, amikor a Nap születik vagy még nagyon erőtlen (Jankovics írja):  
+> Ninib, a mezopotámiai (asszír) Szaturnusz \[a suméroknál [[N/Ninurta\|Ninurta]]\] eredetileg a déli égtáj istene volt, a déli pihenőé és a téli napfordulóé, amikor a Nap a legdélibb ponton kél, és legtovább "pihen" éjszaka. Mindez összefügg azzal, hogy az év legsötétebb hónapjait, a Bak és a Vízöntő havát rendelték uralma alá. Ezért nevezték a "Küszöb őrének", hiszen az év legfontosabb kapujában állt.  
+
 Sőt, Szaturnuszt még reneszánsz idején is gyakran ábrázolták öreg parasztként, sarlóval (szőlőmetsző késsel), kaszával, ritkábban más mezőgazdasági szerszámmal a kezében, és [[P/Papszukkal\|Papszukkal]]-Orion is pásztor (paraszt és pásztor mondjuk nem ugyanaz) csillagkép-isten volt.  
 
 De korábban már itt szereplő adatok is erről szóltak:  
