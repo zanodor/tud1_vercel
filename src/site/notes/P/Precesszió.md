@@ -1,13 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2025-05-03T11:05"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2025-06-02T00:39"}
 ---
 
 
 # Precesszió
 
-A legfontosabbat legelőre:  
-A Bakba lépéssel történik a Nap születése, de a Skorpió-Nyilas között (Sagittarius 6. foka?) van a Tejútközpont (melyen való áthaladással történne a születés, legalábbis a csillagmítoszi "szülés"-re vonatkozó elgondolás szerint). Mikor volt együtt a kettő?  
-Erről már [[T/Tejút#Nagy Éves szempontból a Tejút (Világfa) melyik asztrológiai tengelyen fekszik?\|Nagy Éves szempontból a Tejút (Világfa) melyik asztrológiai tengelyen fekszik?]] cím/alcímnél volt szó.  
+, ha egyáltalán
 
 #### John Major Jenkins Galactic Alignment...
 
@@ -149,7 +147,7 @@ A Hamlet Malma című könyvben taglalt, finn (Kalevalában előforduló) [[S/Sz
 
 Giorgio de Santillana a homokóra formájú [[V/Világhegy\|Világhegy]]-ábrázolások közép- és kelet-ázsiai példáira támaszkodva a jelképben a precesszió jelentőségének szó szerinti formába öntését látja. Mivel Santillana nem ismerte a precesszió valódi \[?\] okát, és az említett népek is elfeledték, inkább más megfontolás áll a hegy-képzet mögött, mely a Föld forgástengelyének billegő mozgásából rajzolt kúp palástjának megrajzolásához vezet.
 
-Másfelől (elbizonytalanító adat, hogy) [[K/Komp\|komp]] szavunk malmot is jelentett, azaz a Szampó, szkambha nevek vagy a komp = malom szóra utalnak vagy akár a [[K/Kampó\|kampó]] szavunkból erednek, mely az ógörögbe átmenvén is `szkambosz` = görbe! Mármost kampó és csámpás gyakorlatilag ugyanazon szavak.  
+Másfelől (elbizonytalanító adat, hogy) [[K/Komp\|komp]] szavunk malmot is jelentett, azaz a Szampó, `szkambha` nevek vagy a komp = malom szóra utalnak vagy akár a [[K/Kampó\|kampó]] szavunkból erednek, mely az ógörögbe átmenvén is `szkambosz` = görbe! Mármost kampó és csámpás gyakorlatilag ugyanazon szavak.  
 A ferde tengely és a Szíriusz gravitációjának ismeretét árulja el a Szent Koronán lévő (nyilván szándékosan) ferde kereszt is, de nyilván a koronánk készítésének ideje és a megszerzett csillagászati ismeret közt eltelt akár több százezer év (a tudás javára értve).  
 
 Nem érdektelen megemlíteni, hogy az [[A/Anchor\|anchor]] és [[A/Angle\|angle]] szavak is hordozzák a [[K/Kampó\|kampó]] jelentést, de ezek már a Világmalom (melyről lásd [[H/Hamlet malma\|Hamlet malma]] címszót) által bejárt út négy sarokpontjára utalnak. [[A/Anchor\|Anchor]], [[S/Secure\|secure]] szó eredetéhez hasonlóan a nyári napfordulós kulminációs (felfüggesztési, fix) pontra látszik utalni.  
@@ -178,7 +176,7 @@ Egy teljes körfutam neve Platonikus év, azaz Világév \[[[Nagy Év\|[Nagy Év
 
 ...című könyvében Héraklész hőstetteiről, ún. "munkáiról", azok értelmezési nehézségeiről szólva írja:  
 > Bizonyos munkák több csillagképhez, jegyhez illenek. Ezzel kapcsolatban fölmerül a kérdés: a munkák egymásutánja végül is a Nap melyik futását követi, az évest vagy a "világévest"? Netán mindkettőt egyszerre?  
-- Ha Héraklész munkáit az Oroszlán jegyből indítjuk, akkor utána, a második felé melyik irányba induljunk: előre, a kis évkörnek, vagy hátrafelé, a világévnek megfelelően? A téma más miatt előjön [[P/Precesszió#Precesszió miatti tavaszpont-eltolódások és a jegyek jelképes tartalmának megváltozása, stb.\|precesszió miatti tavaszpont-eltolódások és a jegyek jelképes tartalmának megváltozása, stb.]] alcímnél is.  
+- Ha Héraklész munkáit az Oroszlán jegyből indítjuk, akkor utána, a második felé melyik irányba induljunk: előre, a kis évkörnek, vagy hátrafelé, a világévnek megfelelően? A téma más miatt előjön [[P/Precesszió#Precesszió miatti tavaszpont-eltolódások és a jegyek jelképes tartalmának megváltozása, stb.\|precesszió miatti tavaszpont-eltolódások és a jegyek jelképes tartalmának megváltozása, stb.]] alcímnél is.
 
 > Hogy tudjuk: a Nap egy év alatt az ún. kis évkörben előre haladva, a Kostól a Halakig járja végig a csillagképeket. Ugyanakkor hátráló mozgást végez a csillagképekben; ezt a kört rendkívül lassan, kereken 26000 év alatt teszi meg, ezt nevezzük világévnek. Erről a jelenségről, aminek precesszió a neve, már a mítoszok is tudnak. Modern értelemben vett tudományos igénnyel a Kr. e. 2. sz. élt görög csillagász, Hipparkhosz írta le elsőnek.  
 
@@ -198,11 +196,12 @@ Egy teljes körfutam neve Platonikus év, azaz Világév \[[[Nagy Év\|[Nagy Év
 
 ...című könyvében ír a lappok [[C/Csudaszarvas\|Csudaszarvas]] mondájáról, ahol ezt az észrevételt teszi:  
 > A felsorolt csillagképek ugyanis együtt ősztől tavaszig láthatók csupán. Az év másik felében az ég nappali térfelén tartózkodnak, fényüket a Nap homályosítja éppen el. Ez nem volt mindig így.  
-- Itt definiálja a precessziót...  
+- Itt definiálja a precessziót...
 
 > A precesszió következtében az égitestek koordinátái is állandóan változnak. **13000 évvel ezelőtt tehát a nyári égboltunkon ragyogtak azok a csillagképek, amelyek ma a téli égbolton láthatók**, némiképp az egykoritól különböző alakban. Ugyanis ha lassan is, de a csillagokat is elmozdulni látjuk egymáshoz képest. "Mai" – legalább 4-5000 éve tartó – téli csillagkép voltuk magyarázza, miért vált a szarvas a téli ünnepkör állatává, s természetesen azt is, miért folyik a lapp, s tegyük hozzá, a legtöbb finnugor mondában a vadászat sítalpon, hótalpon.  
 
-Itt, [[T/Tavaszpont\|tavaszpont]] és [[Z/Zodiac\|zodiac]] címnél is volt/lesz szó arról, hogy szerintem kiszámítható körkörösségét tekintve csak a mai korban, világhónapban értelmezhető a precesszió leginkább. Talán nem véletlen, és így nem érdektelen megjegyezni, hogy a fejletlennek nem mondható kínaiak a teljes precesszió idejéül 18000 és 36000 évet vettek, míg a mezopotámiai érték 43200 év volt, vagyis szintén [[K/Kilences számrendszer\|kilences számrendszer]]beli szám, de ezeket mai tudásunk alapján nem tartjuk pontosnak, helyénvalónak. A kérdés az, ezek a régi kultúrák tudtak-e olyat, amit mi nem. (Hangsúlyozom, a precesszió valós okának ismerete nélkül a jelen korszakban olyan elmélet születhet, mely ma jónak, pontosnak tűnik, de a dolgok változhatnak, például amiatt is, hogy az égitestek nem egyenleges szögsebességgel haladnak és mindig valamilyen társ-égitest körül. Lásd a precesszió valós okáról alant.)  
+Itt, [[T/Tavaszpont\|tavaszpont]] és [[Z/Zodiac\|zodiac]] címnél is volt/lesz szó arról, hogy szerintem kiszámítható körkörösségét tekintve csak a mai korban, világhónapban értelmezhető a precesszió leginkább. Talán nem véletlen, és így nem érdektelen megjegyezni, hogy a fejletlennek nem mondható kínaiak a teljes precesszió idejéül 18000 és 36000 évet vettek, míg a mezopotámiai érték 43200 év volt, vagyis szintén [[K/Kilences számrendszer\|kilences számrendszer]]beli szám, de ezeket mai tudásunk alapján nem tartjuk pontosnak, helyénvalónak. A kérdés az, ezek a régi kultúrák tudtak-e olyat, amit mi nem.  
+Hangsúlyozom, a precesszió valós okának ismerete nélkül a jelen korszakban olyan elmélet születhet, mely ma jónak, pontosnak tűnik, de a dolgok változhatnak, például amiatt is, hogy az égitestek nem egyenleges szögsebességgel haladnak és mindig valamilyen társ-égitest körül. Lásd a precesszió valós okáról alant.  
 
 A Föld precessziós forgása eredményeként ezer évenként eltérő lehet egyes csillagok láthatósága. E 26000 éves precessziós Föld tengely körforgás eredményeként a csillagos égbolt közepe is az évezredek alatt lassan eltolódik. Bár napjainkban az északi féltekén a gyenge fényű [[P/Polaris\|Polaris]] [[S/Sarkcsillag\|Sarkcsillag]] körül forog a csillagos égbolt – ez nem volt mindig így. 14000 évvel ezelőtt mind az északi, mind a déli égbolton egy-egy fényes csillag, a [[V/Vega\|Vega]] és a [[C/Canopus\|Canopus]] volt a középpontban. ([[V/Végvári József\|Végvári József]] [[A/Az égig érő paszuly mese\|Az égig érő paszuly mese]] elemzése (lásd [[F/Fable\|fable]]) révén nem kevesebbet feltételez, minthogy e mesénk a 14000 évvel ezelőtti csillagos égbolt állását hagyta ránk.)  
 
