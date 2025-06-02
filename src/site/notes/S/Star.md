@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Star/","title":"Star","tags":["containstransclusions"],"created":"2025-04-27T10:18","updated":"2025-05-30T23:45"}
+{"dg-publish":true,"permalink":"/S/Star/","title":"Star","tags":["containstransclusions"],"created":"2025-04-27T10:18","updated":"2025-06-02T15:59"}
 ---
 
 
@@ -42,9 +42,12 @@ Mindenütt azzal találkozunk, hogy a [[V/Vénusz\|Vénusz]] egyik másik neve C
 
 Akár a fentebb említett [[T/Tarka\|tarka]] tar eleméből is lehet képzett star, elhagyva a -ka végződést. Lehet a magyar nyelvben sok szót kitevő [[E/Eszter\|Eszter]] az alapja. Lásd még legutóbb [[O/Ostor\|ostor]] címnél írottakat is ([[O/Ösztörű\|ösztörű]] és `sztaurósz` szavak kapcsán is).  
 
-Az is lehetséges, hogy Süt-Úr a keresett összetétel, sőt, egyszerre Süt-Úr és Söt-Úr, hiszen a Szíriusz (a legfőbb csillag, a jelzőcsillag) választja el a világos és sötét félévet.  
+## Süt-Úr, Söt-Úr alternatív értelmezése
+
+Az is lehetséges, hogy Süt-Úr a keresett összetétel, sőt, **egyszerre Süt-Úr és Söt-Úr**, hiszen a Szíriusz (a legfőbb csillag, a határjelző csillag) választja el a világos és sötét félévet.  
 A [[S/Sidereal\|sidereal]] címnél hozott perzsa `setâre` = csillag szóalakjával támogatott ezen elképzelés.  
-- Egyébként a [[C/Csuda#Csuda ég jelentése\|csuda ég jelentése]] cím/alcímnél szereplő csuda, süt = ég megfeleltetés alapján, és [[U/UR\|úr]] ég (mellék)jelentése alapján a [[C/Csődör\|csődör]] szó megoldásaként is említett Süt-Úr pleonasztikusan hat.
+
+Egyébként a [[C/Csuda#Csuda ég jelentése\|csuda ég jelentése]] cím/alcímnél szereplő csuda, süt = ég megfeleltetés alapján, és [[U/UR\|úr]] ég (mellék)jelentése alapján a [[C/Csődör\|csődör]] szó megoldásaként is említett Süt-Úr pleonasztikusan hat.  
 
 Lásd még [[C/Csillag\|csillag]] és [[C/Csillagvallás\|Csillagvallás]]. Lásd még továbbá [[I/Iszter\|Ister]] és [[I/Istár\|Istár]].  
 Lásd még érdekességként [[D/Disaster\|disaster]].  
