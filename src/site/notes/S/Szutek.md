@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2025-05-01T12:34"}
+{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2025-06-03T02:22"}
 ---
 
 
@@ -62,18 +62,18 @@ A föníciai írásokban előjövő **Szuduk** \[**Suduk** és **Sydyk** neveken
 
 James Barr Philo of Byblos and his Phoenician history című írásában a 25. oldalon ill. Linda Jones Hall Roman Berytus című könyvének 133. oldalán a **Suduk**, **Sydyk** névváltozatok jöttek elő.  
 
-[Ezen](https://www.masonicperiodicals.org/static/media/periodicals/119-FQR-1849-09-30-001-SINGLE.pdf) szabadkőműves kiadvány PDF-ének 247. oldalán is a föníciaiak napistenének említik, mint **Seadhac**-ot.
+[Ezen](https://www.masonicperiodicals.org/static/media/periodicals/119-FQR-1849-09-30-001-SINGLE.pdf) szabadkőműves kiadvány 247. oldalán is a föníciaiak napistenének említik, mint **Seadhac**-ot.
 - A Seadhac névforma Godfrey Higgins The Celtic Druids című könyvének 180. oldalán is előjön:  
 > The supreme God above the rest was called, **Seadhac** and Baal. Seadhac is the **Sydic** of Eusebius of whom the Cabiri were the sons. In the ancient Hebrew books, the book Sohar and Sopher Jetziro, Beresit Rabba, translate the word \[the Hebrew\] `sdk`, *Zeus*. The Irish **Seadh**[^2] looks very like the Hebrew `sdi`, **Saddai** \[[[El Shaddai\|[El Shaddai]]\], the Omnipotent.  
 > —  
 > A többiek felett álló legfőbb Istent **Seadhac**-nak és Baalnak hívták. Seadhac Eusebius **Szidak**-ja, akinek fiai a kabírok voltak. Az ősi héber könyvekben, a Szoharban és a Széfer Jecirában, a Beresit Rabba a \[héber] `sdk` szót *Zeusz*-ként fordítja. Az ír **Seadh**[^2] nagyon hasonlít a héber `sdi`-re, **Szaddaj**-ra \[[[El Shaddai\|[El Shaddai]]], a Mindenhatóra.  
-- Itt érdemes lehet megjegyezni, hogy a "Seadh" írül valójában nem létező szó, valószínűleg elírásról van szó. A "Sadhbh" viszont egy létező ír név, ami "édes"-t jelent. 
+- `Seadh` írül állítólag megerősítést jelent (igen, úgy van, valóban). Hasonló [[O/Ossian\|Ossian]] anyjának, [Sadhbh](https://en.wikipedia.org/wiki/Sadhbh)-nak neve.
 
 Jacob Bryant Analysis Of Ancient Mythology című könyvének (első kötetének) elején az Eusebius által adatolt **Sydic** forma került elő, melyet Banier (M. l'abbé, Antoine) The Mythology and Fables of the Ancients c. négykötetes művének (a PDF) 116. oldalán is megtalálunk.  
 
 ## Szutek családfa – Káin leszármazottai
 
-Másutt is olvassuk, hogy **Szuduk** testvérének neve **Misor** \[Misz-Úr, Egyiptomra utalva; lásd [[M/MISZ\|MISZ]]\], kinek fia a [[T/Taut\|Taut]] címnél is taglalt \[tehát [[T/Thot\|Thot]]-tal is azonos\] **Taautosz**, aki nem más, mint a [[T/Tejút\|Tejút]] megszemélyesítése. Ugyebár itt azt látjuk, hogy egymással azonos minőségek apa-fia kapcsolatba kerülnek (láttuk ezt már Nimrud kapcsán is).  
+Másutt is olvassuk, hogy **Szuduk** testvérének neve **Misor** \[Misz-Úr, Egyiptomra utalva; lásd [[M/MISZ\|MISZ]]\], kinek fia a [[T/Taut\|Taut]] címnél is taglalt – tehát [[T/Thot\|Thot]]-tal is azonos – **Taautosz**, aki nem más, mint a [[T/Tejút\|Tejút]] megszemélyesítése. Ugyebár itt azt látjuk, hogy egymással azonos minőségek apa-fia kapcsolatba kerülnek (láttuk ezt már Nimrud kapcsán is).  
 A fentebb idézett Antoine Banier apát könyvének 116. oldalán a föníciai író, [Sanchuniathon](https://en.wikipedia.org/wiki/Sanchuniathon) adatait felhasználva írja Káin leszármazottait bemutatva:  
 > In Moses, as we see, Cain's Race ends with the last of the Persons I have now named, because they themselves or their Descendants perished by the Deluge, not so much as one of them being saved. If you ask how it comes then to be continued by Sanchoniathon, in the third Part of his Abstract I am now going to transcribe; the Answer is easy, that he has taken in Noah's Descendants to make up this second Decad: this will appear evident by the Reflections afterwards to be made.  
 > 3°: Of those, says Sanchoniathon, meaning Amynus and Magus, were born Misor and Sydic, the Free and the Just, who found out the use of Salt. The former was Father to Thaautus, who first invented Letters; this is the Thoot or Thoor of the Egyptians, the Thogit or Thoyth of the Alexandrians, and the Hermes of the Greeks: the Sons of Sydic were the Dioscuri or Cabiri, afterwards named Corybantes or Samothraces.  
@@ -81,10 +81,10 @@ A fentebb idézett Antoine Banier apát könyvének 116. oldalán a föníciai �
 > Mózesnél, mint látjuk, Káin fajának az általam most megnevezett személyek közül az utolsóval van vége, mert ők maguk vagy leszármazottaik elpusztultak az özönvízben, és nem egy közülük megmenekült. Ha azt kérdezed, hogyan folytatódik ezután Sanchoniathon által, az Absztraktja harmadik részében, amelyet most fogok átírni; a válasz könnyű, hogy Noé leszármazottait vette fel, hogy ezt a második dekádot alkossák: ez nyilvánvalóvá fog válni a későbbiekben elvégzendő elmélkedésekből.  
 > 3°: Azok közül, mondja Sanchoniathon, vagyis Amynus és Magustól született Misor és Sydic, a Szabad és az Igaz, akik rájöttek a só használatára. Az előbbi volt Thaautus atyja, aki először találta fel a betűket; ez az egyiptomiak Thoot-ja vagy Thoor-ja, az alexandriaiak Thogit-ja vagy Thoyth-ja, a görögök Hermészé: Sydic fiai voltak a Dioscuri vagy Cabiri, akiket később Corybantesnek vagy Samothracesnek neveztek.  
 
-> For the Reader's Satisfaction, I shall set down the two Tables of *Cain’s* Descendants.  
+> For the Reader's Satisfaction, I shall set down the two Tables of *Cain's* Descendants.  
 > —  
 > Az Olvasó megelégedésére közreadom *Káin* leszármazottainak két táblázatát.  
-> 
+>
 > | Mózesben                  | Sanchoniathon történetírónál   |
 > | ----------------------------------- | ---------------------------- |
 > | 1. *Adam*, *Eve*.                   | 1. *Protogonus*, *Æon*.      |
@@ -97,6 +97,7 @@ A fentebb idézett Antoine Banier apát könyvének 116. oldalán a föníciai �
 > | 8. *Methusael*.                     | 8. *Technites*, *Geinus*.    |
 > | 9. *Lamech*.                        | 9. *Agrus*, *Agrotes*.       |
 > | 10. *Jabal*, *Jubal*, *Tubal-Cain*. | 10. *Amynus*, *Magus*.       |
+
 - Megjegyzés tőlem: a jobb oldali oszlopban elég sok név egyszerűen nemzőre utal: gonus, Genus/Genea, Hephaestus kézművesisten, Technites = tákol, Geinus, és az Agr- gyökű nevek is ide tartozhatnak.
 
 Jacob Bryant Analysis Of Ancient Mythology című könyvének (első kötetének) elején, Mizraim résznél értelmezi a neveket:  
@@ -130,7 +131,7 @@ Egyébiránt jazidi vallásban is van [[J/Jazidi vallás#Jazad-fa\|jazad-fa]].
 
 [^1]: Lábjegyzet:  
 Kállay Ferenc A pogány magyarok vallása című könyvében valóban írva vagyon:  
-A kurd jezidekről irja Ritter, hogy titkos vallásúak, külsőleg ha szorul a kapcza, zsidó, Mohamed s Krisztus vallását követőknek adják ki magukat, közönségesen ördög-tisztelőknek tartatnak, s Eurdek egyik falujok neve. Az ördög nevét azonban soha nem említik, titkon a Napot is imádják. ([Lásd 265. old.](zotero://open-pdf/library/items/DFI47XPY?page=265&annotation=9RECUNR9))
+A kurd jezidekről irja Ritter, hogy titkos vallásúak, külsőleg ha szorul a kapcza, zsidó, Mohamed s Krisztus vallását követőknek adják ki magukat, közönségesen ördög-tisztelőknek tartatnak, s Eurdek egyik falujok neve. Az ördög nevét azonban soha nem említik, titkon a Napot is imádják. ([Lásd 265. old.](zotero://open-pdf/library/items/DFI47XPY?page=265&annotation=9RECUNR9))  
 
 [^2]: Lábjegyzet:  
 Charles Vallancey An Essay on the Antiquity of the Irish Language című könyvében potens-nek fordítja. Másutt, mai nyelvben sense = értelem jelentést találtam.  
