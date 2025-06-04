@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Star/","title":"Star","tags":["containstransclusions"],"created":"2025-04-27T10:18","updated":"2025-06-04T21:12"}
+{"dg-publish":true,"permalink":"/S/Star/","title":"Star","tags":["containstransclusions"],"created":"2025-04-27T10:18","updated":"2025-06-04T21:14"}
 ---
 
 
@@ -45,7 +45,7 @@ Akár a fentebb említett [[T/Tarka\|tarka]] tar eleméből is lehet képzett st
 ## Süt-Úr, Söt-Úr alternatív értelmezése
 
 Az is lehetséges, hogy Süt-Úr a keresett összetétel, sőt, **egyszerre Süt-Úr és Söt-Úr**, hiszen a Szíriusz (a legfőbb csillag, a határjelző csillag) választja el a világos és sötét félévet.  
-A [[S/Sidereal\|sidereal]] címnél hozott perzsa `setâre` = csillag szóalakjával támogatott ezen elképzelés.  
+A [[S/Sidereal\|sidereal]] címnél hozott perzsa `setâre` = csillag és a latin `sider` = csillag szóalakjaival támogatott ezen elképzelés.  
 
 Egyébként a [[C/Csuda#Csuda ég jelentése\|csuda ég jelentése]] cím/alcímnél szereplő csuda, süt = ég megfeleltetés alapján, és [[U/UR\|úr]] ég (mellék)jelentése alapján a [[C/Csődör\|csődör]] szó megoldásaként is említett Süt-Úr pleonasztikusan hat.  
 
