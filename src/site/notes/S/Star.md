@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Star/","title":"Star","tags":["containstransclusions"],"created":"2025-04-27T10:18","updated":"2025-06-02T15:59"}
+{"dg-publish":true,"permalink":"/S/Star/","title":"Star","tags":["containstransclusions"],"created":"2025-04-27T10:18","updated":"2025-06-04T21:12"}
 ---
 
 
@@ -48,6 +48,8 @@ Az is lehetséges, hogy Süt-Úr a keresett összetétel, sőt, **egyszerre Süt
 A [[S/Sidereal\|sidereal]] címnél hozott perzsa `setâre` = csillag szóalakjával támogatott ezen elképzelés.  
 
 Egyébként a [[C/Csuda#Csuda ég jelentése\|csuda ég jelentése]] cím/alcímnél szereplő csuda, süt = ég megfeleltetés alapján, és [[U/UR\|úr]] ég (mellék)jelentése alapján a [[C/Csődör\|csődör]] szó megoldásaként is említett Süt-Úr pleonasztikusan hat.  
+
+Lásd még hasonló héber **Shaddar** nevet Szíriuszra [[S/Sopdet#Sopdet és változatainak értelmezése\|Sopdet és változatainak értelmezése]] cím/alcímnél.  
 
 Lásd még [[C/Csillag\|csillag]] és [[C/Csillagvallás\|Csillagvallás]]. Lásd még továbbá [[I/Iszter\|Ister]] és [[I/Istár\|Istár]].  
 Lásd még érdekességként [[D/Disaster\|disaster]].  
