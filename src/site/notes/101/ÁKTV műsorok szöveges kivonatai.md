@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-05-30T23:46"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-06-07T00:22"}
 ---
 
 
@@ -11,6 +11,11 @@
 
 **Videók kivonatokkal**:  
 
+[250606CN! UGROS ELIMINANDOS ESSE!](https://rumble.com/v6uelxh-250606cn-ugros-eliminandos-esse-kubnyi-tams-ktv.html) [[STICKY/_WEB_CLIPPER/_YT_TRANSCRIPTS/Kubínyi Tamás/250606CN! UGROS ELIMINANDOS ESSE! - Kubínyi Tamás ÁKTV\|250606CN! UGROS ELIMINANDOS ESSE! - Kubínyi Tamás ÁKTV]] [https://archive.ph/q3vpB](https://archive.ph/q3vpB)
+[250605CN! MEGMARADÁS](https://rumble.com/v6ucwh5-250605cn-megmarads-kubnyi-tams-ktv.html)  [https://archive.ph/RZ7y2](https://archive.ph/RZ7y2)
+[250604CN! ORANDO et LABORANDO](https://rumble.com/v6ub6j9-250604cn-orando-et-laborando-kubnyi-tams-ktv.html)  [https://archive.ph/zxHGf](https://archive.ph/zxHGf)
+[250603CN! A JÓ PÁPA](https://rumble.com/v6u9hg5-250603cn-a-j-ppa-kubnyi-tams-ktv.html)  [https://archive.ph/NSJKd](https://archive.ph/NSJKd)
+[250602CN! NEMZETI GYÁSZNAP](https://rumble.com/v6u7ulz-250602cn-nemzeti-gysznap-kubnyi-tams-ktv.html)  [https://archive.ph/ln22a](https://archive.ph/ln22a)
 [250530CN! IMA PARAJDÉRT](https://rumble.com/v6u3d8v-250530cn-ima-parajdrt-kubnyi-tams-ktv.html)  [https://archive.ph/LAv0F](https://archive.ph/LAv0F)  
 [250529CN! TISZÁSOKNAK](https://rumble.com/v6u1qpx-250529cn-tiszsoknak-kubnyi-tams-ktv.html)  [https://archive.ph/5pQtb](https://archive.ph/5pQtb)
 [250528CN! CSODÁK](https://rumble.com/v6tzzzv-250528cn-csodk-kubnyi-tams-ktv.html)  [https://archive.ph/KAooo](https://archive.ph/KAooo)
