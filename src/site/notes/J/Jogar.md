@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jogar/","title":"Jogar","created":"2023-10-23T05:40","updated":"2024-10-25T22:03"}
+{"dg-publish":true,"permalink":"/J/Jogar/","title":"Jogar","created":"2023-10-23T05:40","updated":"2025-06-08T00:45"}
 ---
 
 
