@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jár/","title":"Jár","created":"2024-06-04T16:16","updated":"2024-10-25T22:03"}
+{"dg-publish":true,"permalink":"/J/Jár/","title":"Jár","created":"2024-06-04T16:16","updated":"2025-06-08T00:59"}
 ---
 
 
