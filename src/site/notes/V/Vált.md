@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vált/","title":"Vált","created":"2023-10-10T10:44","updated":"2025-05-03T09:36"}
+{"dg-publish":true,"permalink":"/V/Vált/","title":"Vált","created":"2023-10-10T10:44","updated":"2025-06-07T18:49"}
 ---
 
 
