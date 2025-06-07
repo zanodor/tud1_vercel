@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2025-06-07T18:50"}
 ---
 
 
@@ -32,7 +32,7 @@ Az alábbiak több helyen szerepeltek:
 Ugyanígy a Luk azaz [[L/Lyuk\|lyuk]] nőiség, de hímségi [[L/LU\|LU]]-ból kiindulóan.  
 
 [[H/Hesztia\|Hesztia]] és [[V/Vesta\|Vesta]] (szkíta [[T/Tabiti\|Tabiti]]) tűzistennők. Ez is rámutat, hogy a tűz és az istennő fogalmak megférnek egymással. Legutóbb [[H/Hesztia\|Hesztia]] és [[E/East\|East]] címnél arról volt szó, hogy [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]] lenne a tűzistennő, ha máshogy nem, úgy, hogy a nyári napfordulón tüzével rásegít a Nap tüzére ("kánikula"), a téli napfordulós együttálláskor pedig szintén tüzel, de már az éji csillagos égen. A kutyaszuka is éppen (körülbelül) kétszer tüzel az évben.  
-A napi időkörbeli sötét és fényes periódusok (menny (és sötétje) és az ég – hímségi, azzal hogy a Nap fenn van) váltakozáshoz hasonlóan a másik két időkör sötét és fényes féléveinek váltakozása hozta magával az utódnyelvek [[D/Deus\|deus]]/tűz <> [[D/Deuce\|deuce]] = ördög (satöbbi névformák is sorolhatók) névváltozatait.   
+A napi időkörbeli sötét és fényes periódusok (menny (és sötétje) és az ég – hímségi, azzal hogy a Nap fenn van) váltakozáshoz hasonlóan a másik két időkör sötét és fényes féléveinek váltakozása hozta magával az utódnyelvek [[D/Deus\|deus]]/tűz <> [[D/Deuce\|deuce]] = ördög (satöbbi névformák is sorolhatók) névváltozatait.
 - Kállay Ferenc A pogány magyarok vallása című könyvének [265. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=265&annotation=YMBDZA76) szereplő adatában is az alábbi formák tűz szavunk széthúzásának tarthatók (az ilyen alakú túzok megjelenése is érdekes):  
 > A \[kurd jezidek\] sátánt **Malek Tavos** név alatt tisztelik, mint az isten egyik hatalmas szolgáját, ez a **Taoos** vagy **Taous** a [[T/Túzok\|túzok]] madárképe gyertyatartóra állitva.
 
@@ -231,7 +231,7 @@ Az angol [[T/Thus\|thus]] szóban a tűz mint ige szerepelhet (két mellékmonda
 
 Tűz szavunkat látszik rejteni a Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének 37. oldalán adatolt asszír-babiloni `tussu` = (szexualitással is szimbolikusan kapcsolatos) hattyú és az ott talált Tusna név jelentése Tűz Háza lenne. A Tűz/Nap Háza a Tejútanya, kinek egyik fontos állatalakja a hattyú.  
 A türk nyelvek só jelentésű szavai nyilván nem véletlen `duz`, `tuz` alakúak.  
-Ami azért érdekes, mert a [[S/Sweet\|sweet]] – [[S/Süt\|süt]] analógiájára megtalált, [[D/Dulcet\|dulcet]] címnél is említett portugál `doce` = édes tűz szavunkból kell eredjen (a latin `dulcis` szóban [[L/L vendéghang\|l vendéghang]] van).  
+Ami azért érdekes, mert a [[S/Sweet\|sweet]] – [[S/Süt\|süt]] analógiájára megtalált, [[D/Dulcet\|dulcet]] címnél is említett portugál `doce` = édes tűz szavunkból kell eredjen (a latin `dulcis` szóban [[L/L#L vendéghang\|l vendéghang]] van).  
 
 ## Tűz jelentésű idegen szavak
 
