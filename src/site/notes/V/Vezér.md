@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vezér/","title":"Vezér","tags":["Englishtexttranslated"],"created":"2023-10-20T01:40","updated":"2025-05-30T23:43"}
+{"dg-publish":true,"permalink":"/V/Vezér/","title":"Vezér","tags":["Englishtexttranslated"],"created":"2023-10-20T01:40","updated":"2025-06-07T18:48"}
 ---
 
 
