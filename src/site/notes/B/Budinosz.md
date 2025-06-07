@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Budinosz/","title":"Budinosz","tags":["titleandheadingonedontmatch"],"created":"2024-04-21T13:24","updated":"2024-10-24T22:21"}
+{"dg-publish":true,"permalink":"/B/Budinosz/","title":"Budinosz","tags":["titleandheadingonedontmatch"],"created":"2024-04-21T13:24","updated":"2025-06-07T19:51"}
 ---
 
 
