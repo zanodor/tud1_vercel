@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Goal/","title":"Goal","created":"2024-11-23T05:08","updated":"2024-12-20T13:00"}
+{"dg-publish":true,"permalink":"/G/Goal/","title":"Goal","created":"2024-11-23T05:08","updated":"2025-06-07T23:00"}
 ---
 
 
