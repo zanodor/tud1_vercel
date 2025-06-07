@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finn nyelv/","title":"Finn nyelv","tags":["containscallouts"],"created":"2024-04-28T20:48","updated":"2024-12-03T17:06"}
+{"dg-publish":true,"permalink":"/F/Finn nyelv/","title":"Finn nyelv","tags":["containscallouts"],"created":"2024-04-28T20:48","updated":"2025-06-07T22:59"}
 ---
 
 
