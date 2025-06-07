@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2025-05-16T23:14"}
+{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2025-06-08T01:15"}
 ---
 
 
@@ -37,7 +37,7 @@ A "legyen egyelőre bármelyik Nap" alatt azt (nem) értem, hogy a Nap a Szíriu
 Talán arra arra kell gondolni, hogy a Tejút egyik felén is van egy égitest (a Nap), és a másik felén is (Szíriusz – Procyon mintájára: illetve ezek a csillagok mutatnak rá arra, hogyan is mozog a Naprendszerünk). Éppen ahogy a [[K/Kutyafejű\|Cynocephalus]] címnél szereplő képen a [[T/Typhon\|Typhon]]i-kutyafejű alak a tejköpülő jobbfelén áll, vagy a [[S/Széth\|Széth]] címnél szereplő képen Széth áll a jobb oldalon. (Az hogy az ábrázolásokon mi kerül a bal és jobb oldalra, nem arbitráris: lásd [[B/Bal és jobb\|bal és jobb]].) A száz felezésével így utalhatnánk ötvennel a két oldalon álló erőre, bolygóra, égitestre, vagy arra a téridő-pontra, amikor Szíriusz és a Nap egymáshoz a nyolcast leíró mozgásukban közel ér. (Közben fentebb már leírtam, miről van szó.)  
 
 Itt egy évekkel korábban elkövetett fejtegetés következik:  
-Tehát a fentebb szereplő kelta `aimsir` valójában itt más eredetű szó lehet és missera felbontását is inkább ([[M/Mithra\|Mithra]] nevének első értelmezéséhez hasonlóan) Misz-Ra felbontásban kell értelmezni: a missera félév jelentése valójában egy másodlagos hozzákapcsolt jelentés, mert itt [[H/Hund\|hund]] nem 100-at, hanem ([[H/Hound\|hound]]) vadászkutyát jelentően helyettesítendő. A [[P/Precesszió\|precesszió]]s [[N/Nagy Év\|Nagy Év]]ben ugyanis a Hunor-Szíriusz és Magor  által egymáshoz képest végzett mozgás, orbitálás adja a fény-árnyék viszonyok változását és ennek a viszonyrendszernek motorja [[S/Széth\|Széth]] (valamint [[M/Magyarellenesség\|magyarellenesség]]) címnél írottak alapján is Hunor-Szíriusz: ezért került Széth is furkájára.  
+Tehát a fentebb szereplő kelta `aimsir` valójában itt más eredetű szó lehet és missera felbontását is inkább ([[M/Mithra\|Mithra]] nevének első értelmezéséhez hasonlóan) Misz-Ra felbontásban kell értelmezni: a missera félév jelentése valójában egy másodlagos hozzákapcsolt jelentés, mert itt [[H/Hund\|hund]] nem 100-at, hanem ([[H/Hound\|hound]]) vadászkutyát jelentően helyettesítendő. A [[P/Precesszió\|precesszió]]s [[N/Nagy Év\|Nagy Év]]ben ugyanis a Hunor-Szíriusz és Magor által egymáshoz képest végzett mozgás, orbitálás adja a fény-árnyék viszonyok változását és ennek a viszonyrendszernek motorja [[S/Széth\|Széth]] (valamint [[M/Magyarellenesség\|magyarellenesség]]) címnél írottak alapján is Hunor-Szíriusz: ezért került Széth is furkájára.  
 [[S/Széth\|Széth]] (valamint [[S/Szíriusz és a medvék\|Szíriusz és a medvék]]) címnél kimondtuk, hogy **Széth furkája** nem más, mint az (eredetileg Nagy Évben értelmezett) Szíriusz (vonzóereje, bináris-csillagkénti szerepe) által behatárolt [[N/Négy\|négy]] sarokpont, mely a Földről nézvést lehet a [[V/Világ négy oszlopa\|Világ négy oszlopa]]. Ez lehet a [[K/Kereszt – fix kereszt\|kereszt – fix kereszt]] értelme is. A [[K/Kereszt – változó kereszt\|kereszt – változó kereszt]] pedig a Tejútközpontból származó, emberiségre kifejtett hatásokat hivatott mutatni: a Nap és vele a Föld ezen a kereszten haladva éli meg a fény-árnyék viszonyrendszerben a Szíriusz forgatása (innen Péterfai János forgás = [[F/Farkas\|farkas]] \[= kutya\] egyenlete) által okozott változásokat aszerint, hogy a Nagy Évben a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en vagy a [[S/Szűz-Halak tengely\|Szűz-Halak tengely]]en (afelé vagy attól elfelé) halad.  
 Az afelé és elfelé (mondhatjuk úgy is: ascending és descending, azaz felfelé és lefelé ág) értelme pedig az, hogy egyik ilyen tengely kétfelé osztja a Nagy Év körét: fényében növekedőre és csökkenőre. [[M/Mithra\|Mithra]] értelme alapján missera pedig a növekvő fénytartományt jelenti, de egyelőre tisztázatlan, miért csak kétfelé, miért nem négyfelé osztásról van szó (Mithra is inkább a reggeli Napként egy negyed körcikkelyt kellene megszemélyesítsen, bár [[V/Varuna\|Varuna]]-val ikert alkotva mégiscsak feles tagolásra utaló lehet[^2]).  
 Hasonló párhuzamokat fél-féléves megosztásra láttuk [[O/Ozirisz és Széth\|Ozirisz és Széth]] címnél/esetében (Jankovics Marcell írja):  
@@ -166,7 +166,7 @@ Ugye a Kos havaként március azért is alkalmas erre a szerepre, mert a nyugati
 </div></div>
   
 - Az alsó/sehol/túl világ nem azonos az alvilággal; [[A/Annwfn\|Annwfn]] a kelták másvilága, se mennyország, se pokol, hanem egy e világgal párhuzamos világ.  
-![assets/Missera_image2.png|invert_dark](/img/user/M/assets/Missera_image2.png) 
+![assets/Missera_image2.png|invert_dark](/img/user/M/assets/Missera_image2.png)
 - Minden továbbit lásd Druidical Astrology című írásában.  
 
 ## Lábjegyzetek
