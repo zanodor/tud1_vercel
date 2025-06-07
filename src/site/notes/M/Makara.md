@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2025-05-24T18:59"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2025-06-08T01:12"}
 ---
 
 
@@ -86,11 +86,11 @@ Anatolij Szemenov When in Russia, Speak Like a Russian című könyvében is meg
 > **На бе́дного Мака́ра все шишки ва́лятся.** *(Посл.)* ➔ \[All pinecones fall on poor Makar.]  
 > * The lean dog is all fleas.
 > * A man born to misfortune will fall on his back and fracture his nose.
-> * An unhappy man’s cart is easy to overthrow.
+> * An unhappy man's cart is easy to overthrow.
 > 
 > ➤ **Meaning:** used to say that the unhappier someone is, the more misfortunes he suffers.
 > **Note:** Said when a poor thing has more troubles.
-> **Note:** In Russian folklore, the man’s name **Makár** is associated with an unlucky person who is in distress.  
+> **Note:** In Russian folklore, the man's name **Makár** is associated with an unlucky person who is in distress.  
 > —  
 > **На бе́дного Мака́ра все шишки ва́лятся.** *(Посл.)* ➔ \[Minden toboz a szegény Makárra hull.\]
 > * A sovány kutya csupa bolha.
