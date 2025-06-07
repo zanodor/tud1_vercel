@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bukor/","title":"Bukor","created":"2024-04-21T13:26","updated":"2024-10-25T15:16"}
+{"dg-publish":true,"permalink":"/B/Bukor/","title":"Bukor","created":"2024-04-21T13:26","updated":"2025-06-07T19:51"}
 ---
 
 
