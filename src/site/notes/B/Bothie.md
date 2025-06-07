@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bothie/","title":"Bothie","created":"2023-11-21T10:11","updated":"2024-10-24T22:19"}
+{"dg-publish":true,"permalink":"/B/Bothie/","title":"Bothie","created":"2023-11-21T10:11","updated":"2025-06-07T19:50"}
 ---
 
 
