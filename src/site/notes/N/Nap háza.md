@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap háza/","title":"Nap háza","created":"2025-03-25T16:43","updated":"2025-03-25T16:44"}
+{"dg-publish":true,"permalink":"/N/Nap háza/","title":"Nap háza","created":"2025-03-25T16:43","updated":"2025-06-08T01:39"}
 ---
 
 
