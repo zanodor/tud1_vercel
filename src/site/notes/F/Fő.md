@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fő/","title":"Fő","created":"2023-10-26T03:09","updated":"2024-10-25T18:49"}
+{"dg-publish":true,"permalink":"/F/Fő/","title":"Fő","created":"2023-10-26T03:09","updated":"2025-06-07T21:03"}
 ---
 
 
