@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barom/","title":"Barom","created":"2023-11-09T08:31","updated":"2024-10-23T20:55"}
+{"dg-publish":true,"permalink":"/B/Barom/","title":"Barom","created":"2023-11-09T08:31","updated":"2025-06-07T19:47"}
 ---
 
 
