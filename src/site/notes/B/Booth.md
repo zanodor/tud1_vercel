@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Booth/","title":"Booth","created":"2023-11-21T10:59","updated":"2024-10-24T02:03"}
+{"dg-publish":true,"permalink":"/B/Booth/","title":"Booth","created":"2023-11-21T10:59","updated":"2025-06-07T19:50"}
 ---
 
 
