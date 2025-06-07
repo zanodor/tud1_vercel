@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Etana/","title":"Etana","created":"2023-10-23T02:55","updated":"2024-10-25T17:21"}
+{"dg-publish":true,"permalink":"/E/Etana/","title":"Etana","created":"2023-10-23T02:55","updated":"2025-06-07T22:59"}
 ---
 
 
