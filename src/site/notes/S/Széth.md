@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2025-05-09T22:49"}
+{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2025-06-07T19:12"}
 ---
 
 
@@ -259,7 +259,7 @@ Az egyiptomi történelem kezdetén Észak-Egyiptom sivatagi és háborúistene 
 
 Sőt, Széth is (épp egy [[F/Furka\|furka]] nevű; lásd [[F/FU\|FU]]) kereszten lett megfeszítve (mint az indiai [[A/Agni\|Agni]] és [[I/Indra\|Indra]] is, de [[K/Krishna\|Krishna]] halála is hasonló), amely eset valójában valódi Napokkal (a [[S/Szíriusz\|Szíriusz]] is Nap és Agni és Indra is Szíriusszal hozatott kapcsolatba) szokott megtörténni (és történelemben megőrzött, megszemélyesített táltos-típusú Napfiakkal).  
 
-[[S/Shut\|Shut]], [[S/Shadow\|shadow]], [[S/Shade\|shade]] és [[S/Sétanta\|Sétanta]] neveknél is felhoztuk, hogy a fényelzárásnak kozmikus ([[A/Apocalypse\|apocalypse]]-szerű) előzménye lehetett. Érdekes még fény rövidrezárásával kapcsolatban [[S/Sut\|sut]] és [[S/Suta\|suta]] szavaink, valamint [[S/Sutúl\|sutúl]] igénk.  
+[[S/Shut\|Shut]], [[S/Shadow\|shadow]], [[S/Shade\|shade]] és [[S/Sétanta\|Sétanta]] neveknél is felhoztuk, hogy a fényelzárásnak kozmikus ([[A/Apocalypse\|apocalypse]]-szerű) előzménye lehetett. Érdekes még fény rövidrezárásával kapcsolatban [[S/Sut\|sut]] és [[S/Suta\|suta]] szavaink, valamint [[S/Suta#Sutúl\|sutúl]] igénk.  
 És hogy a kutyákat továbbra is képben tartsuk, [[C/Cuchulainn\|Cúchulainn]] ír kutya-hős fiatalkori Sètanta nevénél is a setét szót láttuk neve előtagjába, ahol még az is szóba került, hogy a perzsa `sutūh` jelentései mind a félelemmel, szomorúsággal kapcsolatosak, és a kutya szóval szinte azonos suta/sutúl szavakról az is elképzelhető, hogy a [[C/Circumcision\|circumcision]] = körülmetélés szavai is lehetettek az ősnyelvben (mindenesetre asztrális fogalmának megfelelne, tekintve, hogy a dogonok a Szíriuszt a körülmetélés csillagának is hívták).  
 
 [[O/Ozirisz és Széth\|Ozirisz és Széth]] (valamint [[S/Szíriusz és a medvék\|Szíriusz és a medvék]]) címnél is szerepelt:  
