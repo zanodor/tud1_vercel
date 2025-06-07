@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Palást/","title":"Palást","created":"2025-04-29T10:02","updated":"2025-04-29T10:03"}
+{"dg-publish":true,"permalink":"/P/Palást/","title":"Palást","created":"2025-04-29T10:02","updated":"2025-06-08T01:43"}
 ---
 
 
