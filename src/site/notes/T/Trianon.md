@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Trianon/","title":"Trianon","tags":["Englishtexttranslated"],"created":"2024-10-27T11:54","updated":"2024-10-27T11:54"}
+{"dg-publish":true,"permalink":"/T/Trianon/","title":"Trianon","tags":["Englishtexttranslated"],"created":"2024-10-27T11:54","updated":"2025-06-07T18:59"}
 ---
 
 
