@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Karácsony/","title":"Karácsony","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2024-12-18T07:41"}
+{"dg-publish":true,"permalink":"/K/Karácsony/","title":"Karácsony","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2025-06-08T01:01"}
 ---
 
 
