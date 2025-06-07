@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Allul/","title":"Allul","tags":["Englishtexttranslated"],"created":"2023-11-12T02:46","updated":"2024-10-22T22:03"}
+{"dg-publish":true,"permalink":"/A/Allul/","title":"Allul","tags":["Englishtexttranslated"],"created":"2023-11-12T02:46","updated":"2025-06-07T18:47"}
 ---
 
 
