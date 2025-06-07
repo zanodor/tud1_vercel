@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kalpa/","title":"Kalpa","tags":["Englishtexttranslated"],"created":"2023-10-19T02:45","updated":"2024-10-25T22:17"}
+{"dg-publish":true,"permalink":"/K/Kalpa/","title":"Kalpa","tags":["Englishtexttranslated"],"created":"2023-10-19T02:45","updated":"2025-06-08T01:00"}
 ---
 
 
