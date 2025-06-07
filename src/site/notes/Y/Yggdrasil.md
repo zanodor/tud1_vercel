@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Y/Yggdrasil/","title":"Yggdrasil","tags":["Englishtexttranslated"],"created":"2024-01-02T06:47","updated":"2024-10-26T00:52"}
+{"dg-publish":true,"permalink":"/Y/Yggdrasil/","title":"Yggdrasil","tags":["Englishtexttranslated"],"created":"2024-01-02T06:47","updated":"2025-06-07T18:48"}
 ---
 
 
