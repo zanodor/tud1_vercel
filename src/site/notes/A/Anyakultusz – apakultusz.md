@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2024-10-22T22:15"}
+{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2025-06-07T18:47"}
 ---
 
 
@@ -134,7 +134,7 @@ A Bognár Ferenc nyomán is a több helyen beígért,...
 
 Graves később a fentiek lényegét összefoglalja (a múzsákra hegyezi ki, de tulajdonképpen a [[F/Fehér istennő\|fehér istennő]]vel behelyettesíthető):  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/f/feher-istenno/#ocz2z8" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/F/Fehér istennő/#ocz2z8" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
