@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Full/","title":"Full","tags":["Englishtexttranslated"],"created":"2024-10-27T11:41","updated":"2024-10-27T11:41"}
+{"dg-publish":true,"permalink":"/F/Full/","title":"Full","tags":["Englishtexttranslated"],"created":"2024-10-27T11:41","updated":"2025-06-08T00:43"}
 ---
 
 
