@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szoknya/","title":"Szoknya"}
+{"dg-publish":true,"permalink":"/S/Szoknya/","title":"Szoknya","created":"2025-02-19T01:55","updated":"2025-06-07T19:14"}
 ---
 
 
