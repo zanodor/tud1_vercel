@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nut/","title":"Nut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2025-05-29T16:57","updated":"2025-05-29T16:58"}
+{"dg-publish":true,"permalink":"/N/Nut/","title":"Nut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2025-05-29T16:57","updated":"2025-06-08T01:35"}
 ---
 
 
