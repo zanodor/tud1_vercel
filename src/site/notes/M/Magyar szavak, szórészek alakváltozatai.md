@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar szavak, szórészek alakváltozatai/","title":"Magyar szavak, szórészek alakváltozatai","created":"2023-11-04T11:49","updated":"2025-05-25T18:43"}
+{"dg-publish":true,"permalink":"/M/Magyar szavak, szórészek alakváltozatai/","title":"Magyar szavak, szórészek alakváltozatai","created":"2023-11-04T11:49","updated":"2025-06-08T01:12"}
 ---
 
 
