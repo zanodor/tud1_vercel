@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BAT/","title":"BAT","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2025-04-30T17:28","updated":"2025-04-30T17:29"}
+{"dg-publish":true,"permalink":"/B/BAT/","title":"BAT","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2025-04-30T17:28","updated":"2025-06-07T19:48"}
 ---
 
 
@@ -11,7 +11,7 @@
 #### Péterfai János írja:
 
 > Maga a Bot szó a Bat változata és jelenthet Házat is, vagyis várost. A Bot a germán nyelvekben azért lehet hajó, mert a Bot Ház is, és a hajókat régen fából, botokból építették fel. A viking hajókon is jól látszanak oldalt a botok, amelyek a hajó fa bordázatát adták.  
-> 
+>
 > Beth-Anu jelentése Isten Háza. Bethany volt a bibliai Lázár és húgai, Mária és Márta lakóhelye, mely egyiptomi eredetre vall: Osiris és húgai Isis és Nephtys Annu házában laktak.  
 - Innen Péterfai ház és Ég Királynője etimonjai.
 
