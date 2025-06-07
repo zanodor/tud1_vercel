@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2025-02-22T18:38"}
+{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2025-06-08T01:07"}
 ---
 
 
