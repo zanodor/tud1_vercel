@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Volt/","title":"Volt","tags":["Englishtexttranslated"],"created":"2023-10-08T01:51","updated":"2024-10-26T00:49"}
+{"dg-publish":true,"permalink":"/V/Volt/","title":"Volt","tags":["Englishtexttranslated"],"created":"2023-10-08T01:51","updated":"2025-06-07T18:53"}
 ---
 
 
