@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ajtó/","title":"Ajtó","created":"2023-10-21T03:07","updated":"2024-10-22T21:42"}
+{"dg-publish":true,"permalink":"/A/Ajtó/","title":"Ajtó","created":"2023-10-21T03:07","updated":"2025-06-07T18:46"}
 ---
 
 
