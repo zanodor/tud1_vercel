@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bálna/","title":"Bálna","created":"2023-11-09T07:12","updated":"2024-10-23T20:13"}
+{"dg-publish":true,"permalink":"/B/Bálna/","title":"Bálna","created":"2023-11-09T07:12","updated":"2025-06-07T19:47"}
 ---
 
 
