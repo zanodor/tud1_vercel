@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vég/","title":"Vég","created":"2024-10-25T15:04","updated":"2024-10-25T15:04"}
+{"dg-publish":true,"permalink":"/V/Vég/","title":"Vég","created":"2024-10-25T15:04","updated":"2025-06-07T18:54"}
 ---
 
 
