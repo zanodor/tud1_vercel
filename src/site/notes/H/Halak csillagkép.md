@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-14T04:19","updated":"2024-10-25T19:13"}
+{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-14T04:19","updated":"2025-06-07T23:30"}
 ---
 
 
@@ -96,10 +96,6 @@ Falvay Károly írása tehát a Nagy Év működésére is rá látszik minket v
 
 Amit [[L/Lemniszkáta\|lemniszkáta]] címnél is kimondtunk, hogy a kettős vonalú jegyek között az Ikrek (♊) mellett ilyen még a Halak (♓) is (amely szimbólumban még szebben látszanak a lemniszkáta iker-görbéi): előbbi a kis éves értelmezésű, utóbbi precessziós Nagy Éves.  
 
-![assets/Halakcsillagkep_image8.png|invert_dark](/img/user/H/assets/Halakcsillagkep_image8.png)  
-[[S/Szív\|Szív]] címnél is volt szó a szívformáról, arról, hogy egy igen érdekes [[S/Szakrális geometria\|szakrális geometrikus]] hatást látunk benne. Egy szabályos négyzetből és két körből adódik ki. A négyzet lehet a Föld vagy a Nap is, a [[V/Vesica piscis\|Vesica Piscis]] címnél is taglalt két kör egybecsúsztatva pedig lehet a (végtelen jeleként is ismert) fektetett [[N/Nyolc\|nyolc]]as, mely a fentiek értelmében úgy is értelmezhető, hogy a [[S/Szűz-Halak tengely\|Szűz-Halak tengely]]ről való elmozdulással járó kozmikus Nagy-Éves újrakezdést lássuk benne.   
-Itt még a szív kapcsán annyit, hogy feltűnt már korábban, hogy miért nem mi is a Kör/Ker vázú szót használjuk szív jelentéssel. Talán mert a szívás a [[S/Szűz extragalaktikus szuperhalmaz\|Szűz extragalaktikus szuperhalmaz]]ra utal? Szűz alakúak a szívni jelentésű szavak is (lásd [[S/Szuka\|szuka]] és [[S/Suck\|suck]]) és a szí alapszava a szí/szív és szíz/szűz szavaknak is, ha akarjuk.  
-Aztán az is igen érdekes, hogy a germán szívet jelentő szavak H-betűsek, mint a Halak, mely Hal lehet persze ugyanúgy Kör (azonos alakú szavak), ráadásul két Kör, egybecsúsztatva. Itt a jelkép és a szavak mögött lehet valamit keresni.  
 
 A két kör témára visszatérve szóljunk még a [[L/Lemniszkáta\|lemniszkátá]]ról.  
 Falvay Károly Nagyboldogasszony című könyvének 198. oldalán lábjegyzetben írt alábbi passzusa érdekes lehet e kapcsán:  
@@ -115,7 +111,7 @@ Vegyük észre, hogy ez a fajta halál => élet, azaz [[O/Öl\|öl]]ni/[[H/HAL\|
 
 John M. Jenkins könyvének 139. oldalán egy váratlan megjegyzést tesz az eddig is "gyanús" [[N/Nyolc\|nyolc]]assággal kapcsolatosan, de ezt is a megszokott módon intézi el azzal, hogy itt ismét a Tejútközponttal együtt álló Napra utalhatnak:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/h/het/#rs4lt" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/H/Hét/#rs4lt" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
