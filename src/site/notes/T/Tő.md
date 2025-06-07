@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tő/","title":"Tő","created":"2024-02-13T17:13","updated":"2025-06-07T18:54"}
+{"dg-publish":true,"permalink":"/T/Tő/","title":"Tő","created":"2024-02-13T17:13","updated":"2025-06-07T18:56"}
 ---
 
 
@@ -10,7 +10,7 @@ A Tő értelemről [[T/Two\|two]] és [[K/Kettő\|kettő]] címnél volt szó.
 
 #### Péterfai János írja:
 
-> A [[T/TU\|Tu]] a Nap és az Ország, ami miatt Den-Tu lehet az Urak (északiak) Országa is. A Tő egyértelműen a Nap neve, akinek tövétől eredtünk. A [[K/Kettő\|kettő]], vagyis Két-Tő a kezünk, a számnévben a Tő a Nap, csak nézzünk rá a tenyerünkre.  
+> A [[T/TU\|Tu]] a Nap és az Ország, ami miatt Den-Tu lehet az Urak (északiak) Országa is. A Tő egyértelműen a Nap neve, akinek tövétől eredtünk. A [[K/Kettő\|Kettő]], vagyis Két-Tő a kezünk, a számnévben a Tő a Nap, csak nézzünk rá a tenyerünkre.  
 
 #### Kolumbán Sándor írja:
 
