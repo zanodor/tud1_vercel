@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2025-03-26T03:15"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2025-06-08T01:13"}
 ---
 
 
@@ -287,7 +287,7 @@ De így operál – hatalmas anachronizmusos csúsztatással és démonizáló c
 ## Projekció
 
 A projekcióról valamelyik Quora kérdésben adott válaszomban is ejtettem szót: a saját nézőpontjukat kiterjesztik másokra, jó emberekre, nemzetekre.  
-[[H/Honfoglalás\|Honfoglalás]] címnél is arról volt szó, hogy projekcióval is elérik, hogy ne ők legyenek az egyedüliek, akik csalással vagy erőszakkal nyerték hazájukat.  [[B/Bálvány#Bálványimádó Jahvista zsidók\|Bálványimádó Jahvista zsidók]]] cím/alcímnél is szóltunk arról legutóbb, hogy az egyénen kívül helyezett istenkép, mint amilyen a zsidóké, bálványimádásnak tekinthető. Tehát pont azok a zsidók beszélnek Jézus kapcsán bálványimádásról, akik maguk is bálványimádók (ráadásul [[J/Jahve\|Jahve]] csillagkép, nem valódi/teremtő isten). Klasszikus esete a projekciónak.  
+[[H/Honfoglalás\|Honfoglalás]] címnél is arról volt szó, hogy projekcióval is elérik, hogy ne ők legyenek az egyedüliek, akik csalással vagy erőszakkal nyerték hazájukat. [[B/Bálvány#Bálványimádó Jahvista zsidók\|Bálványimádó Jahvista zsidók]]] cím/alcímnél is szóltunk arról legutóbb, hogy az egyénen kívül helyezett istenkép, mint amilyen a zsidóké, bálványimádásnak tekinthető. Tehát pont azok a zsidók beszélnek Jézus kapcsán bálványimádásról, akik maguk is bálványimádók (ráadásul [[J/Jahve\|Jahve]] csillagkép, nem valódi/teremtő isten). Klasszikus esete a projekciónak.  
 
 ## Zavarkeltés, ködösítés, elhomályosítás
 
