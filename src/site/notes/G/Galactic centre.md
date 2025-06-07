@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2025-05-29T14:34"}
+{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2025-06-07T19:18"}
 ---
 
 
