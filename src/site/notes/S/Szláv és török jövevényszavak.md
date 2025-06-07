@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szláv és török jövevényszavak/","title":"Szláv és török jövevényszavak","created":"2025-03-08T20:46","updated":"2025-05-23T19:18"}
+{"dg-publish":true,"permalink":"/S/Szláv és török jövevényszavak/","title":"Szláv és török jövevényszavak","created":"2025-03-08T20:46","updated":"2025-06-07T19:03"}
 ---
 
 
@@ -103,7 +103,7 @@ Götz is írja:
 > A "[[H/Halotti beszéd\|Halotti beszéd]]et és könyörgést" nem helyes úgy feltüntetni, mint a magyar nyelv 11-ik századbeli formáját: így csak az akkori szláv papok beszéltek magyarul, valamint még ma is vannak papok, – én magam is ismerek párat – akik így beszélnek. ([Lásd 104. old.](zotero://open-pdf/library/items/QVETUTRJ?page=104&annotation=S7JQI6KS))  
 >
 > A nyelvészeknek különösen óvakodniuk kell attól az eddigi szokásuktól, hogy a szláv nyelvekben is megtalálható magyar szavakra egyszerűen ráfogják a szláv származást. Itt a történeti tény az, hogy a szlávok sokkal inkább álltak a magyar kultúra befolyása alatt, mint megfordítva és ők nem kevesebb szót,vettek át a magyaroktól, mint ezek tőlük. Ennek a kérdésnek az eldöntésére különben találunk egy biztos mértéket:  
-> Ha egy szláv eredetűnek látszó magyar szótő megtalálható a többi árja nyelvekben is, akkor nincs kizárva a szlávoktól való átvétel lehetősége: ha azonban az ilyen szótő a többi árja nyelvekben nincs meg, akkor bizonyos, hogy azt a szlávok a magyaroktól kölcsönözték. ([Lásd 104. old.](zotero://open-pdf/library/items/QVETUTRJ? page=104&annotation=CIMUVUIR))  
+> Ha egy szláv eredetűnek látszó magyar szótő megtalálható a többi árja nyelvekben is, akkor nincs kizárva a szlávoktól való átvétel lehetősége: ha azonban az ilyen szótő a többi árja nyelvekben nincs meg, akkor bizonyos, hogy azt a szlávok a magyaroktól kölcsönözték. ([Lásd 104. old.](zotero://open-pdf/library/items/QVETUTRJ?page=104&annotation=CIMUVUIR))
 
 #### Kállay Ferenc A pogány magyarok vallása...
 
