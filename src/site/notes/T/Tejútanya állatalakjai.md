@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejútanya állatalakjai/","title":"Tejútanya állatalakjai","tags":["Englishtexttranslated"],"created":"2023-11-13T02:19","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/T/Tejútanya állatalakjai/","title":"Tejútanya állatalakjai","tags":["Englishtexttranslated"],"created":"2023-11-13T02:19","updated":"2025-06-07T18:58"}
 ---
 
 
