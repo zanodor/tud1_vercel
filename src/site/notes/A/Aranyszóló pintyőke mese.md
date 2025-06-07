@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aranyszóló pintyőke mese/","title":"Aranyszóló pintyőke mese","created":"2023-10-14T07:38","updated":"2024-10-22T22:21"}
+{"dg-publish":true,"permalink":"/A/Aranyszóló pintyőke mese/","title":"Aranyszóló pintyőke mese","created":"2023-10-14T07:38","updated":"2025-06-07T19:42"}
 ---
 
 
