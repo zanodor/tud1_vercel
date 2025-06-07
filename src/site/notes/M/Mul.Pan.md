@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mul.Pan/","title":"Mul.Pan","tags":["Englishtexttranslated"],"created":"2023-10-29T06:48","updated":"2024-10-25T23:34"}
+{"dg-publish":true,"permalink":"/M/Mul.Pan/","title":"Mul.Pan","tags":["Englishtexttranslated"],"created":"2023-10-29T06:48","updated":"2025-06-08T01:42"}
 ---
 
 
