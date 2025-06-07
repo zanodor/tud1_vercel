@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2025-05-29T22:52"}
+{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2025-06-07T19:52"}
 ---
 
 
@@ -95,7 +95,7 @@ De alterhez igen hasonló az [[A/Altar\|altar]] = oltár név is, és ahogy Jank
 Ne feledjük el még az [[U/Under\|under]] = alsó fogalmat sem itt. De a [[T/Térd\|térd]] és [[T/Tárgy\|tárgy]] szavaink is érdekesek körbezárt keresztként a téridő felosztását jelölendő.  
 
 Lásd még [[A/Antler\|antler]] és [[F/Fray\|fray]]. Lásd továbbá még [[R/Reindeer\|reindeer]], [[D/Doe\|doe]], [[R/Roe\|roe]] és [[S/Stag\|stag]]. Lásd még szintén [[C/Csudaszarvas\|Csudaszarvas]].  
-Lásd még [[S/Sutúl\|sutúl]] és [[S/Suta\|suta]]. (Ez utóbbi szavunk az albánban `sutë` = őz).  
+Lásd még [[S/Suta#Sutúl\|sutúl]] és [[S/Suta\|suta]]. (Ez utóbbi szavunk az albánban `sutë` = őz).  
 
 ## Lábjegyzetek
 
