@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-05-25T18:31"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-06-08T01:13"}
 ---
 
 
@@ -210,7 +210,8 @@ Nevezhetjük tudománytalannak. Az [alábbi](https://qr.ae/pNK70C) Quora válasz
 > Latin `fīlius` ("fiú") a proto-indoeurópai \*dʰeh₁y-li-os szóból ("csecsemő"), amely a \*dʰeh₁(y)- igei tőből ("szopni") származik.
 
 ...kapcsán arra, hogy a D>F váltás erőltetett és itt hogy a \*dʰeh₁(y)- megállapított gyök esetében a mi `tej` szavunkat kell felismerni.  
-Ugyanakkor például a latin [[F/Facere\|facere]] lehetne tesz > thes > fes változással kialakuló.  
+A latin `firmus` szót is egy proto-indoeurópai \*dʰer- tőből származtatják (mert hogy ennek a tőnek a jelentése "tartani", "szilárdan tartani", "támasztani". Ebből alakult volna ki a latinban a "szilárd", "erős", "stabil" jelentés).  
+
 
 H>P átmenetet CzF több helyütt természetesnek\[?\] vette. Például `hord` – latin `portare`, `halvány` – görög szürke jelentésű `polios`. Valójában H>V>P a fejlődési út. Ez akár elképzelhető [[H/Hunter\|Hunter]] > [[P/Panther\|Panther]] esetében is. Hunter-ről lesz még szó alant.  
 
