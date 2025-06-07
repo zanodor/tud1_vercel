@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szolga","title":"Szolga","tags":["Englishtexttranslated"],"created":"2023-10-11T04:42","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/S/Szolga/","title":"Szolga","tags":["Englishtexttranslated"],"created":"2024-10-24T00:03","updated":"2025-06-07T19:14"}
 ---
+
 
 # Szolga
 
@@ -33,7 +34,7 @@ Czakó Gábor Szabir szó és szolga című a Mikes 2014. január-márciusi sz. 
 
 Arról is lehet beszélni, hogy a szolga Szó-Ga alakja hogyan köthető a [[S/Szág\|szág]], [[S/Ság\|ság]], [[S/Saka\|saka]], valamint az iráni kutyát (és királyt) jelentő szavakhoz. Az is tény, hogy a király is éppúgy szolgálja népét, ahogy az őt. A hierarchikus rendszer viszont nem árja/indo-európai alárendelésre épül, hanem mellérendelésre.  
 Egy rendszer úgy működik jól, ha egymást szolgáljuk mellérendelő alapon. Efféléről [[C/Csere\|csere]] és [[K/Kér és kap\|kér és kap]] címnél is volt szó.  
-[[L/L vendéghang\|L vendéghang]] címnél is írtuk:  
+[[L/L#L vendéghang\|L vendéghang]] címnél is írtuk:  
 Érdekes a szolga szavunk is, mely inkább tűnik Szol-Ga formában értelmezendőnek, mégis jegyezzük meg, hogy e fontos szavunk is ilyen. Akár Szóga lehet Szaka = [[S/Saka\|saka]] = [[S/Sag\|sag]] = kutya is, hiszen a kutya a vadász követője, szolgája. És mivel [[T/Táltos\|táltos]] címnél szóba került, hogy kutya is lehet táltos, segítő (mely [[S/Segít\|segít]] szavunk gyöke megint csak ilyen alakú), ahol a táltos a magyar szellemiség/erkölcs előrevivője, mondhatjuk azt is, hogy a szolga egyfajta lélek/szellem.  
 
 Alant még szófejtés vonalon előjön a szolg-ál és [[D/Dolgozik\|dolgozik]] szó törzsökének rokonítása is.  
