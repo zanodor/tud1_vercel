@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Patala/","title":"Patala","tags":["Englishtexttranslated"],"created":"2023-10-13T01:18","updated":"2025-06-02T01:02"}
+{"dg-publish":true,"permalink":"/P/Patala/","title":"Patala","tags":["Englishtexttranslated"],"created":"2023-10-13T01:18","updated":"2025-06-08T01:44"}
 ---
 
 
