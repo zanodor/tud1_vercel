@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bojtár/","title":"Bojtár","created":"2023-10-11T06:13","updated":"2024-10-24T01:14"}
+{"dg-publish":true,"permalink":"/B/Bojtár/","title":"Bojtár","created":"2023-10-11T06:13","updated":"2025-06-07T19:50"}
 ---
 
 
