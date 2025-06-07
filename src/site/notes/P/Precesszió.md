@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2025-06-02T00:39"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2025-06-08T01:45"}
 ---
 
 
 # Precesszió
 
-, ha egyáltalán
+
 
 #### John Major Jenkins Galactic Alignment...
 
