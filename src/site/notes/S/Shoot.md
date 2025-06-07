@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Shoot/","title":"Shoot","tags":["Englishtexttranslated"],"created":"2024-11-05T19:18","updated":"2025-03-21T22:13"}
+{"dg-publish":true,"permalink":"/S/Shoot/","title":"Shoot","tags":["Englishtexttranslated"],"created":"2024-11-05T19:18","updated":"2025-06-07T19:14"}
 ---
 
 
@@ -36,7 +36,7 @@ Anne Wright Constellations oldalán több érdekes dolgot oszt meg (lásd péld�
 > A Szkítia \[inkább szkíta\] szó eredetileg "lövő, íjász" jelentésű, és végső soron a proto-indoeurópai \*skeud- "lőni, dobni" gyökből származik. A szkíták lovas nomád pásztornépek voltak.  
 > A nyilakat fák hajtásaiból vagy kivágásaiból készítik, amelyek kilövése miatt néhány ilyen lövés a megszokott környezetüktől távolabbi helyeken is gyökeret eresztett volna. (E szavak egy része a `sagitta`, a nyílvessző szóhoz tartozhat, mivel mind a nyilak, mind az ültetésre szánt dugványok esetében az aktuális évszak növekedését jelentő fiatal hajtásokat használják. Az előző szezon növekedését kedvelik az íjak készítéséhez.)  
 
-A Götz László Keleten kél a Nap című könyvének 140. oldalán hozott német `schützen` = óvni (pl. "Gott schütze ihn" – "Isten óvja") és `schutz` = védelem is tulajdonképpen az íjjal lövésre megy vissza.   
+A Götz László Keleten kél a Nap című könyvének 140. oldalán hozott német `schützen` = óvni (pl. "Gott schütze ihn" – "Isten óvja") és `schutz` = védelem is tulajdonképpen az íjjal lövésre megy vissza.
 - Érdekes, hogy lőni íjjal lehet, és íj = ív = óv egyező alakúak a magyarban is.
 ```plantuml-svg
 @startuml
@@ -71,10 +71,18 @@ iv_magyar --> ov_magyar : alakpár
 ved_magyar --> ov_magyar : véd-óv
 
 @enduml
-```
+```{ #250503}
 
-Ő mondjuk [[S/Sk-\|sk-]] előtétes változatát veszi olyan szavaknak, melyek ugyanezt jelentik és a bőr (mint védelmet jelentő burok?) jelentésű másutt is említett szó alá sorolja őket.  
-![assets/Shoot_image1.png|invert_dark](/img/user/S/assets/Shoot_image1.png)  
+
+Ő mondjuk [[S/Sk-\|sk-]] előtétes változatát veszi olyan szavaknak, melyek ugyanezt jelentik és a bőr (mint védelmet jelentő burok?) jelentésű másutt is említett szó *alá* sorolja őket.  
+
+| Német         | Magyar      |
+| ------------- | ----------- |
+| **HAUT**      | **bőr**     |
+| **SCHUTZ**    | **védelem** |
+| **SCHÜTZ-en** | **óvni**    |
+| **HUT**       | **védelem** |
+| **HÜT-en**    | **óvni**    |
 
 A [[S/Szíriusz\|Szíriusz]] és [[S/Szít\|szít]] címnél is említett babiloni mul.KAK-SI-DI név Sidi része [[S/Süt\|süt]] szavuk változata lehet.  
 
