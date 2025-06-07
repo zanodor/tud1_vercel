@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2025-05-03T11:03"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2025-05-03T11:45"}
 ---
 
 
@@ -402,6 +402,21 @@ Ha már játék, a szerencsejáték is játék. [[K/Khamor\|Khamor]] címnél em
 A szerencse kapcsán jegyezzük meg, hogy a forgásban oldalak jelennek meg: világos, szerencsés (jobb), sötét, baljós (bal). A szerencsejáték eredete, főleg nyílvesszőkkel az lehetett, hogy Nyilazó csillagképek voltak (vannak) a napfordulókon; ezek összekötése (maga a Tejút) osztja két félre az éggömböt (az évet). Aki jól húzott, annak előjogokat adtak (akár – másokon való ideiglenes – uralkodásra); hasonlóan a [[P/Pünkösdi királyság\|pünkösdi királyság]]hoz.  
 
 ## Héber nyilas témák
+
+Érdekes, hogy a [[T/Torah\|Torah]] szót [ezen](https://archive.ph/zVlce) oldal adata szerint egy 'nyíllal célba talál' jelentésű gyökre viszik vissza:  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/T/Torah/#sjht6s" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> (TOH-rah) n. Torah. The word Torah comes from the root word `yarah` meaning "to shoot an arrow" or "to hit the mark." Properly used, the word means "teaching" or "instruction." In the Tanakh, Torah refers to the first five books of Moses. The actual Torah itself is referred to as the Sefer Torah, or sacred Torah scroll. The Chumash is a book form of the Torah, usually subdivided into 54 smaller literary units called parashiot (the name of each parashah comes from a key word of the section). The word Torah is better understood as "teaching" or "understanding" rather than "law."  
+> —  
+> (TÓ-ra) fn. Tóra. A Tóra szó a `yarah` gyökből származik, aminek jelentése "nyilat lőni" vagy "elérni a célt". Megfelelő használatban a szó jelentése "tanítás" vagy "utasítás". A Tanakhban a Tóra Mózes öt könyvére utal. Magát a tényleges Tórá-t Szefer Tórának, vagy szent Tóra tekercsnek nevezik. A Chumash a Tóra könyv formája, amelyet általában 54 kisebb irodalmi egységre, úgynevezett parasiot-ra osztanak (az egyes parasák neve a szakasz egyik kulcsszavából származik). A Tóra szót jobban lehet "tanításként" vagy "megértésként" felfogni, mint "törvényként". 
+
+</div></div>
+
+- Hogy ezen szavak valójában honnan erednek, nehéz megmondani, mert a pártus-perzsa [[T/Tír\|tír]] = nyílvessző, és a héber `jareah` = hold; a holdkaréjban pedig ívet, íjat láttak.
+Akárhogy is, a célba találás istennel való kapcsolat megtalálását jelenti, míg a [[H/Hamartia\|hamartia]] helyen taglalt bűn kapcsán cél tévesztésről volt szó.
 
 [[B/Bárány#Tatár bárány – szkíta bárány\|Tatár bárány – szkíta bárány]] cím/alcímnél John Ashton Curious Creatures in Zoology című 1834-es irányadó könyvének adatait olvasva találkozunk nyilas szimbolikával: a növényhez (életfához) köldök(zsinór)ként (is) kötődő bárány leszakajtása pontos nyíllövésekkel történik. Okunk van feltételezni, hogy az eredeti képzet itt is csillagászati eredetű. Pontosan nem sikerült megfejteni mi lehet, de [[D/Dzsed\|dzsed]], [[K/Kecske és kos\|kecske és kos]], [[Z/Zsidó\|zsidó]] és más címeknél is megemlítettem a dolgot, hátha valahol valami közelebbit találunk.  
 Ott ([[B/Bárány#Tatár bárány – szkíta bárány\|tatár bárány – szkíta bárány]] alcímnél) nemcsak nyíllal, de dárdával való leszakításról is volt szó a `jeduah` kapcsán, márpedig az azonos alakú [[D/Dzsida\|dzsida]] dárdaszerű fegyver, és nemcsak a világtengellyel és az életfával lehet megfeleltetni, hanem akár a [[S/Szkíta\|szkíta]] névvel is, melynek nyilazó értelme ismert (a dárda a [[D/Dart\|dart]] szó értelmén keresztül is nyílvessző értelmű lehet, de [[J/Javelin\|javelin]] és [[J/Jugula\|Jugula]] címnél is volt erről szó).  
