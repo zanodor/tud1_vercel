@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-04T04:55","updated":"2024-10-23T20:27"}
+{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-04T04:55","updated":"2025-06-07T19:47"}
 ---
 
 
@@ -41,7 +41,7 @@ Az hogy a tigris is Napállat, ahogy a többi, kivált a kutya, mely kutyát jel
 
 ...című könyvének (második kötetének) 70. oldalán szereplő, több helyre is bekerült passzusban előjövő sémi `barbaru` = leopárd ([[J/Jaguar\|jaguar]] és más címnél írottak alapján is) is ilyen szó (de a [[P/Pártus\|pártus]]ok is [[P/Párduc\|párduc]]ok). Robert Brown Jr. és más könyvekben arról szól, hogy a görög csillagkép és istennevek akkád befolyása a görögre nézve lenne igaz. Az tény, hogy ez a barbár szó nem görög, hanem eredetileg sumér, ahogy fentebb kiderült, viszont a görögbe nem a sumér, hanem a szemita mentalitás és szókincs került át. Brown passzusa tehát (írja, hogy a kutya több állat nevének formálásánál kiinduló; mire lehet ez bizonyíték?):  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/j/jaguar/#cmhp48" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/J/Jaguar/#cmhp48" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
