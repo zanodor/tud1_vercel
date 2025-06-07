@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Határ/","title":"Határ","tags":["Englishtexttranslated"],"created":"2024-11-19T19:55","updated":"2025-05-03T11:02"}
+{"dg-publish":true,"permalink":"/H/Határ/","title":"Határ","tags":["Englishtexttranslated"],"created":"2024-11-19T19:55","updated":"2025-06-08T00:44"}
 ---
 
 
