@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Boat/","title":"Boat","created":"2025-06-05T10:47","updated":"2025-06-05T10:48"}
+{"dg-publish":true,"permalink":"/B/Boat/","title":"Boat","created":"2025-06-05T10:47","updated":"2025-06-07T19:49"}
 ---
 
 
