@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hun-magyar rokonság avagy azonosság/","title":"Hun-magyar rokonság avagy azonosság","created":"2024-03-01T21:37","updated":"2025-03-17T21:51"}
+{"dg-publish":true,"permalink":"/H/Hun-magyar rokonság avagy azonosság/","title":"Hun-magyar rokonság avagy azonosság","created":"2024-03-01T21:37","updated":"2025-06-08T00:44"}
 ---
 
 
@@ -26,7 +26,7 @@ A [[B/Bíborbanszületett Konstantin\|Bíborbanszületett Konstantin]] féle ada
 > Zichy István gróf "A magyarság őstörténete és műveltsége a honfoglalásig" című tanulmányában a magyar népet hun-bolgár-finnugor keverék-etnikumnak határozta meg.  
 > Németh Gyula "A honfoglaló magyarság kialakulása" című könyvében kimutatta, hogy a magyarokat kétségtelenül igen szoros kapcsolatok fűzték a szabir néphez. A szabirokat viszont a bizánci, de egyes nyugateurópai források is ismételten egyértelműen hunoknak nevezik (Prokopios, Agathias, Theophylaktos, Theophanes, Jordanes). Sőt, mivel a kazárok valódi neve szabir volt (Maszudi), legalább 300-400 éves szabirmagyar együttéléssel és intenzív keveredéssel kell számolnunk a magyar etnogenézis kutatásánál – írja. Leszögezi azt is, hogy Hunfalvy tagadó álláspontja a hun-magyar kapcsolatok kérdésében az újabb kutatások fényénél képtelenségnek tűnik.
 >
-> Ferdinándy Mihály "Álmos” című értekezésében hangsúlyozza, hogy a hun-avar-magyar történelmi kontinuitás mind a hagyományokban, mind pedig az újabb régészeti leletekben egyértelműen megtalálható.
+> Ferdinándy Mihály "Álmos" című értekezésében hangsúlyozza, hogy a hun-avar-magyar történelmi kontinuitás mind a hagyományokban, mind pedig az újabb régészeti leletekben egyértelműen megtalálható.
 >
 > Moravcsik Gyula "Sprachreste der Türkvölker in den byzantinischen Quellen" (Byzantinoturcica II.) című monográfiájában végkövetkeztetésként nyomatékosan kiemeli, hogy az újabb kutatás előtt mindinkább nyilvánvalóvá válik a forrásokban hun, avar, türk, kazár, magyar, onogur, kuturgur és bolgár neveken előforduló népek szoros politikai és etnikai összetartozása.
 >
