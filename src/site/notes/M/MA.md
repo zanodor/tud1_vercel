@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MA/","title":"MA","tags":["Englishtexttranslated"],"created":"2024-04-21T14:10","updated":"2024-10-25T22:36"}
+{"dg-publish":true,"permalink":"/M/MA/","title":"MA","tags":["Englishtexttranslated"],"created":"2024-04-21T14:10","updated":"2025-06-08T01:12"}
 ---
 
 
