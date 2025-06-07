@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Holdtisztelet/","title":"Holdtisztelet","created":"2025-05-01T16:00","updated":"2025-05-01T16:01"}
+{"dg-publish":true,"permalink":"/H/Holdtisztelet/","title":"Holdtisztelet","created":"2025-05-01T16:00","updated":"2025-06-08T00:44"}
 ---
 
 
@@ -13,7 +13,7 @@ Azt is jegyezzük meg, hogy [[H/Hold\|Hold]] címnél, külön alcímnél szólt
 #### Pálfi Károly A magyar nemzet őstörténete és a zsidóság...
 
 ...című könyvében írja:
-> A turáni nép nem ismert éhséget, ínséget, hideget és rossz szomszédot, azért nem látott rossz szellemeket és ellenséges isteneket maga körül. Amit ő látott, az csak javára és segítségére szolgált; de azok közül is az égen kívül, melyet "[[T/TEN\|ten]]”-nek nevezett és egyedül imádott, a juh és holdvilág állt legközelebb szivéhez: az előbbi azért, mert tőle nyerte élelmét, ruházatát és sátra anyagát, az utóbbi pedig azért, mert az oroszlán és farkas éjjeli támadását a nyáj ellen szelíd fényével elárulni és meghiusitani segített. Ha a hold éjjel nem világított, akkor pásztortüzeket kellett gyújtani, ami nagy nehézséggel járt a fátlan pusztaságon. És íme! A turáni pásztor nemcsak a holdat látta fenn az égen fényleni, hanem a nyáj vezére is dísze, a kos is ott járt és ragyogott előtte a mennyboltozatán: azért tisztelete az ős Ten-en kívül e két tünemény felé fordult elsősorban és legnagyobb mértékben. ([Lásd 7. old.](zotero://open-pdf/library/items/VZZUZWZ2?page=7&annotation=CK3DFVRN))  
+> A turáni nép nem ismert éhséget, ínséget, hideget és rossz szomszédot, azért nem látott rossz szellemeket és ellenséges isteneket maga körül. Amit ő látott, az csak javára és segítségére szolgált; de azok közül is az égen kívül, melyet "[[T/TEN\|ten]]"-nek nevezett és egyedül imádott, a juh és holdvilág állt legközelebb szivéhez: az előbbi azért, mert tőle nyerte élelmét, ruházatát és sátra anyagát, az utóbbi pedig azért, mert az oroszlán és farkas éjjeli támadását a nyáj ellen szelíd fényével elárulni és meghiusitani segített. Ha a hold éjjel nem világított, akkor pásztortüzeket kellett gyújtani, ami nagy nehézséggel járt a fátlan pusztaságon. És íme! A turáni pásztor nemcsak a holdat látta fenn az égen fényleni, hanem a nyáj vezére is dísze, a kos is ott járt és ragyogott előtte a mennyboltozatán: azért tisztelete az ős Ten-en kívül e két tünemény felé fordult elsősorban és legnagyobb mértékben. ([Lásd 7. old.](zotero://open-pdf/library/items/VZZUZWZ2?page=7&annotation=CK3DFVRN))  
 > ...  
 > [[F/Firdauszi\|Firduzi]], a magyar honfoglalás korabeli nagy perzsa költő azt írja hires költeményében, a Sahnahméban, hogy a turániak szőnyegeikbe félholdat és kosfejet szőnek; diszmeneteiken pedig elől kék zászlót visznek, melyet a félhold ékesít és fejedelmük trónjának lábait is kosfejek díszítik. Az Isten után tehát a hold és a kos volt a turániak vallásos tiszteletének két mellék tárgya és mikor a nyugati turániak új hazájukat az Ararát körül megalapították, azt eme két égi jelenségről a Kos és Holdvilág birodalmának, magukat pedig [[K/Kos#"Kosiak"\|kosiak]]nak nevezték el ([Lásd 9. old.](zotero://open-pdf/library/items/VZZUZWZ2?page=9&annotation=3VWQY3ML))  
 
