@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2025-06-08T01:40"}
 ---
 
 
@@ -15,14 +15,14 @@ Ipolyi Arnold Magyar mythologia című könyvének 102. oldalától taglalja a n
 
 ...című könyvében tévesen iráni eredetűnek veszi a szót (a szintén nem iráni sátánt itt épp ki is felejtette):
 > Valamint az isten, ármány, meny, manó, ugy az ördög szó is az iráni később persa vallásból terjedett el. ([Lásd 304. old.](zotero://open-pdf/library/items/DFI47XPY?page=304&annotation=ZPENJ5PJ))
-> 
+>
 > Az indo-scytha pénzfelirásokban az ördög szó csaknem elvitázhatatlanul nyomozható. ([Lásd 305. old.](zotero://open-pdf/library/items/DFI47XPY?page=305&annotation=8WGU893A))
-> 
+>
 > A magyar nyelv- és történettudomány változó alakokban tünteti fel e szót, az családi hely s növényfajokra korán használtatott; a két utolsó pontra nézve Kresznerics szótára bő felvilágosítást ad, a családnevekre búvárkodásom ideje alatt ím ezekre akadtam: u. m. ördöng v. Urdungh jő elő 1398-ban... ([Lásd 305. old.](zotero://open-pdf/library/items/DFI47XPY?page=305&annotation=8ZPYDQIM))  
 > Benkő kézirati gyűjteményeiben Ördög Simeon 1482, Ördög család Dobokában, Johannes Ördög de Ördög Keresztúr, mint dobokai főispán 1540. Ördög Mátyás 1553 emlitvék. ([Lásd 305. old.](zotero://open-pdf/library/items/DFI47XPY?page=305&annotation=UP9LIBJJ))
-> 
+>
 > Az Urdung szóval él már a régi [[H/Halotti beszéd\|halottas beszéd]] irója is "és zoboducba wt urdung ildetuital" ( = üldözésétől). Szinte a precum liber mst. Révainál `urdwg` szóalakot mutat fel (Ant. Lit. H. p. 108), mely a sátánra vitetik ellentétbe az angyallal. ([Lásd 305. old.](zotero://open-pdf/library/items/DFI47XPY?page=305&annotation=5YK5484T))
-> 
+>
 > Az ármány és sátán szók a zend theologiájából folytak ki, az ördög szónak is abban nyomára lehet akadni. Beregszászi már a persa `ardav`-ot a magyar ördöggel egynek vette (p. 105), és nem ok nélkül, mert Meninszkiben `ardad` = "deceptor, impostor, 2. homo sylvaticus longis pedibus praeditus et toto corpore pilosus noctu itineruntes a via seducens in loca deserta, ut eos ibidem trucidet, et sangvinem eorum exuget", s ez anthropomorphismusát az ördögnek Ferhengi után adja `erzseng` vagy `erdeng`-nek is irván az emberképét magára öltött ördögöt. Ugyan csak nála `erdad` = daemon, homo deceptor, `ardaw` = genius, daemon sylvestris, magus (t. 1. 97, 98, 103.). ([Lásd 306. old.](zotero://open-pdf/library/items/DFI47XPY?page=306&annotation=YPHA6MUU))
 >
 > Az audi sultán hét tenger czímü persa nagy szótára emliti Erda, máskép **Erdad** persa bölcs Mobedet vagy mágust, ki Ardeschir Babekan alatt élt. (W. J. XXXVI. B. p. 256). A kurd földön, ma is megvan **Eurdek** falu, s hogy ott a Jezyd kurdok ördögtisztelők, Niebuhr még a mult században feljegyzé keleti utazásában, mint Ritter bőven előadja. (VI. B. n. Abth. p. 696-697). ([Lásd 306. old.](zotero://open-pdf/library/items/DFI47XPY?page=306&annotation=4TFS472D))
@@ -32,7 +32,7 @@ Ipolyi Arnold Magyar mythologia című könyvének 102. oldalától taglalja a n
 A továbbiakban Kállay az [[A/Árt\|árt]], [[A/Árész\|Árész]] és – tudta nélkül – az [[A/Arthur\|Arthur]] név fogalmát adó (ott volt szó pl. a kelta-ír `ard`/`árd` = magas szóról) szavakat illetve a magyar szavak idegen párjait bemutatva igyekszik – látszólag – ördög témában tovább haladni.  
 Ha az ördög valóban Isten ellenpárja, akkor lehetne ártó (vö. [[K/Kontár\|kontár]]) összefüggéséről szólni, de nem árt szavunk a kiinduló, és főleg nem árt szavunknak megfelelő idegen nyelvű szóformák.  
 Kállay tehát mintha nem az ördög szóval párba állítható szavakkal hozakodna elő, bár az ördög a napúton haladó Nap (nyári napfordulós) állására vonatkozó helyét tekintve valóban magasan van.  
-- És ha már előhangokról van szó, vegyük észre, hogy az [[A/A\|A]] címnél szereplő MindMap-ben is ezeket soroltuk fel: [[A/AR, ÁR\|Ar, Ár]] alapszó előhangos változatait. De az R lehet L is: IL = magas, [[A/Áll\|áll]] pedig tulajdonképpen [[B/Bál\|Bál]] egy ajakhanggal és ezért a perzsa `bálá` = magas.. Ugyanígy a török szócsoportbeli Tur ([[T/Thor\|Thor]]) sz-esen [[S/Stour\|stour]] = magas. 
+- És ha már előhangokról van szó, vegyük észre, hogy az [[A/A\|A]] címnél szereplő MindMap-ben is ezeket soroltuk fel: [[A/AR, ÁR\|Ar, Ár]] alapszó előhangos változatait. De az R lehet L is: IL = magas, [[A/Áll\|áll]] pedig tulajdonképpen [[B/Bál\|Bál]] egy ajakhanggal és ezért a perzsa `bálá` = magas.. Ugyanígy a török szócsoportbeli Tur ([[T/Thor\|Thor]]) sz-esen [[S/Stour\|stour]] = magas.
 Az l hangnál maradva, az [[A/Altitude\|altitude]] címnél taglalt kettős értelmű latin `altus` gyöke is ilyen szó.
   
 Alapvetően AR = OR, UR = kiemelkedés, ahogy [[O/OR\|OR]] címnél Péterfai János is említi AR-t is.  
@@ -61,7 +61,7 @@ Ezen szavak megint régi mitológiai dirib-darabok. A helyes szót eltalálni Ar
 Kállay azzal folytatja, hogy kezdetben nem volt negatív jelentése, de az indoeurópai gyöközéssel már helytelenül bizonyít:  
 > Az ördög névjelentését illetőleg megjegyezzük, hogy annak kezdetben, mint más hasonszavakról is láttuk, jó értelme volt, és csak idővel viszonyult a gonoszra. Mutatja ezt a név különböző leszármaztatása is ard és ar törzsből, melyet sorjában felhordunk, mert a kettő végtére is egyre megy ki.  
 > Langles igy ir: "`ard` ou `artas` l'ancien mot persan, dont Herodote et Hesychius non sont conservé la signif. heros, grand, illustre, fort, le méme môt se retrouve dans le `artha` (Sansk.) `hart` (Allemand) `arduus` (Latin)" (l. Halling G. der Skythen 1. B. p. 377.).  
-> Wahl szinte igy ir, hozzá téve, hogy e jó jelentések nincsenek már meg a persa nyelvben, hogy Hesychiusban, még `Artades` = az igazságosokat jelenti, Herodot szerint a persák magokat **Artaious**-oknak nevezték, s az örmény nyelvben is `ardar` = jámbor, igazságos. (Gesch. der morg. Sprachen p. 119). Westergaard a persa ékfeliratok közlésében (Zeitschrift für die Kunde des Morgenland. VI. B. 1. Heft 1844. p. 125, 161), hivatkozva Herodotra, ki Artaxerxes nevét megas areiosnak fordítja, görögül Ardeschir sassanid király nevéről jegyzi meg, hogy az = Arta khsathra: Herodot Artaios neve, mikép a persák szerinte neveztettek = `ârija`, miként a medusok is neveztettek: "Es ist als `arta` zu fassen, das Zend `areta` vagy `ĕrĕta` = geehrt; sanskr. `rĭta` ( = arta) geehrt und wahr", tehát a Hesychuis Artades, örmény `ardar` találnak e magyarázattal is. ([Lásd 307. old.](zotero://open-pdf/library/items/DFI47XPY?page=307&annotation=89WQM7CK)) 
+> Wahl szinte igy ir, hozzá téve, hogy e jó jelentések nincsenek már meg a persa nyelvben, hogy Hesychiusban, még `Artades` = az igazságosokat jelenti, Herodot szerint a persák magokat **Artaious**-oknak nevezték, s az örmény nyelvben is `ardar` = jámbor, igazságos. (Gesch. der morg. Sprachen p. 119). Westergaard a persa ékfeliratok közlésében (Zeitschrift für die Kunde des Morgenland. VI. B. 1. Heft 1844. p. 125, 161), hivatkozva Herodotra, ki Artaxerxes nevét megas areiosnak fordítja, görögül Ardeschir sassanid király nevéről jegyzi meg, hogy az = Arta khsathra: Herodot Artaios neve, mikép a persák szerinte neveztettek = `ârija`, miként a medusok is neveztettek: "Es ist als `arta` zu fassen, das Zend `areta` vagy `ĕrĕta` = geehrt; sanskr. `rĭta` ( = arta) geehrt und wahr", tehát a Hesychuis Artades, örmény `ardar` találnak e magyarázattal is. ([Lásd 307. old.](zotero://open-pdf/library/items/DFI47XPY?page=307&annotation=89WQM7CK))
 - A francia szövegben a hős, nagy, jeles, erős jelentésű szavakat sorolja.
 - Oláh Imre A Nimrud hagyomány című tanulmányában kiegészíti:  
 > [[H/Hérodotosz\|Hérodotosz]] ezekkel kapcsolatban még egy további érdekes adatot hagyott ránk: "**A perzsákat hajdan a görögök Kephenusoknak hívták**, de magoktól és szomszédjaik által **Artai**-nak hivattak."  
@@ -87,7 +87,7 @@ Kállay, más, immáron a magas/ég témáról eltérő adatai:
 
 Végül:  
 > Hogy az urdük, yrdük, ortok hegyek csak ördög hegyek, melyeken hogy a schamán papok a titkos ördögi szellemeket hivják ma is segítségül, a schamanismus természeteiből következtethető. ([Lásd 314. old.](zotero://open-pdf/library/items/DFI47XPY?page=314&annotation=VPTJDCT2))  
-> 
+>
 > Az indo-scytha pénzfelirások Ordagno, Ardogno, Ardochris, Ardoghro, Ardokro, Ardethro formákban mutatják fel az ördög szót, a magyarázók eltérnek ugyan egymástól az értelmezésben, de abban egyeznek, hogy azt isten névnek veszik, némelyek Marsnak, mások napnak, ismét mások [[S/Siva\|siwa]] vagy ördögi névnek veszik s mindezt mellőzve, az észak-ázsiai nyelveket, a zend-sanskrit s persa nyelvekből hiszik kimagyarázhatónak. ([Lásd 315. old.](zotero://open-pdf/library/items/DFI47XPY?page=315&annotation=BPRZBR3Z))
 - Nem igazán tartom értékesnek, de Ördögnő kiolvasható.
 
