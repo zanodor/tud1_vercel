@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2024-10-25T23:30"}
+{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2025-06-08T01:42"}
 ---
 
 
@@ -146,7 +146,7 @@ Ugyanerről szól Jankovics Marcell Robert Graves-re utalva:
 
 Ugyan a védikus Mitráról Tilak nem szól, de a vele azonosulni látszó (mindketten Orionok, azaz az Orionban álló Nap megszemélyesítői), Orionjának 178. oldala tájékán elemzett Vrishâkapi kapcsán elmondható, hogy Orion (Egyiptomban Ozirisz) volt a (fél)évkezdő csillagkép, melynek heliakális kelése (egyúttal ez ugyanaz, mint [[S/Szíriusz heliakus kelése\|Szíriusz heliakális kelése]]) és akronikális kelése közt ő uralkodott, azaz a Devayanaval (lásd erről [[B/Bal és jobb\|bal és jobb]]) azonos félév ura.  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/s/sziriusz-heliakus-kelese/#g4igq7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/S/Szíriusz heliakus kelése/#g4igq7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
