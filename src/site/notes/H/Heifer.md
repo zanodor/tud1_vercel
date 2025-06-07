@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Heifer/","title":"Heifer","created":"2023-12-01T08:57","updated":"2024-10-25T19:17"}
+{"dg-publish":true,"permalink":"/H/Heifer/","title":"Heifer","created":"2023-12-01T08:57","updated":"2025-06-08T00:45"}
 ---
 
 
