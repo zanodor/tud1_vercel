@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kő/","title":"Kő","created":"2024-05-08T13:48","updated":"2024-10-25T22:25"}
+{"dg-publish":true,"permalink":"/K/Kő/","title":"Kő","created":"2024-05-08T13:48","updated":"2025-06-08T01:07"}
 ---
 
 
