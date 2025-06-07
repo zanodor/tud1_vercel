@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated"],"created":"2024-10-27T12:27","updated":"2025-04-02T15:44"}
+{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated"],"created":"2024-10-27T12:27","updated":"2025-06-08T01:07"}
 ---
 
 
@@ -16,7 +16,7 @@ Amikor más nyelveket említ Péterfai János, nyilván a lengyel `kraj` = orsz�
 Péterfai János másutt szereplő adata szerint az udmurt/votják `koroló` = király.  
 Nem hihető, hogy Nagy Károly...  
 - [Ezen](https://en.wikipedia.org/wiki/Charlemagne) oldalon azt állítják, hogy innen eredne a királyt jelentő szó mindenütt (patetikus):  
-> Charles' achievements gave a new meaning to his name. In many languages of Europe, the very word for "king" derives from his name; e.g., Polish: `król`, Ukrainian: `король` (korol'), Czech: `král`, Slovak: `kráľ`, Hungarian: `király`, Lithuanian: `karalius`, Latvian: `karalis`, Russian: `король`, Macedonian: `крал`, Bulgarian: `крал`, Serbo-Croatian: `краљ`/kralj, Turkish: `kral`.   
+> Charles' achievements gave a new meaning to his name. In many languages of Europe, the very word for "king" derives from his name; e.g., Polish: `król`, Ukrainian: `король` (korol'), Czech: `král`, Slovak: `kráľ`, Hungarian: `király`, Lithuanian: `karalius`, Latvian: `karalis`, Russian: `король`, Macedonian: `крал`, Bulgarian: `крал`, Serbo-Croatian: `краљ`/kralj, Turkish: `kral`.
 > —  
 > Károly eredményei új jelentést kölcsönöztek a nevének. Európa számos nyelvében a "király" szó maga az ő nevéből származik; pl. lengyel: `król`, ukrán: `король` (korol'), cseh: `král`, szlovák: `kráľ`, magyar: `király`, litván: `karalius`, lett: `karalis`, orosz: `король`, macedón: `крал`, bolgár: `крал`, szerb-horvát: `краљ`/`kralj`, török: `kral`.  
 - Lentebb Bilecz Ferencnél lásd még a témát.
@@ -107,8 +107,6 @@ Komlóssy Zsuzsanna Nyitva látom mennyország ajtaját című az Ősi Gyökér 
 > Hogy a magyarok koronát kértek volna István koronázásához, vagy a pápa általi koronaküldést – nem igazolják írott forrásaink, sem a László-kori nagyobb Szent István legenda, sem a Kálmán idején készült kisebb legenda. Történelmi dokumentumokból tudjuk, hogy Szent István előtt uralkodóinkat már királyi méltóságnévvel illetik Attila királytól kezdve.  
 
 Az [alábbi](https://youtu.be/RgZoEJb8Enc) A mindenséggel mérd magad 16/5. című Szántai Lajos előadásban 41:44-nél mondja, hogy dacára annak, hogy Szent [[I/István\|István]]t tartják első királynak, [[A/Árpád\|Árpád]]ot, Zoltát, Taksonyt, Kurszánt nyugati források, Gyulát, Bulcsút és Lehelt mindenféle források, králnak, királynak, rex-nek nevezik (Kubínyi Tamásnál ugye [[A/Álmos\|Álmos]] is király, illetve [[A/Atilla hun király\|Atilla]] is magyar király, és [[A/Árpád\|Árpád]] sem [[F/Fejedelem\|fejedelem]] vagy fővezér/hadnagy). Más előadásában mondjuk ezt a tényt kicsinylően említi, hiszen nem Szent Koronával koronázott "kisebb királyok" lettek volna csak.  
-
-Lásd még [[R/Rex#Hunokkal kapcsolatba hozott királyok/reges\|hunokkal kapcsolatba hozott királyok/reges]].  
 
 Kubínyi Tamás egy műsorában idézi az Szent István király intelmei Imre herceghez írást:  
 > "Az én szokásaimat pedig, melyekről látod, hogy a királyi méltósággal összeférnek, a kétkedés minden béklyója nélkül kövessed. Mert nehéz lesz megtartani e tájon királyságodat, ha szokásban nem utánzod a korábban királykodó királyokat."  
