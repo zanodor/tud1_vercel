@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ache/","title":"Ache","created":"2024-03-16T22:48","updated":"2024-11-23T04:32"}
+{"dg-publish":true,"permalink":"/A/Ache/","title":"Ache","created":"2024-03-16T22:48","updated":"2025-06-07T18:44"}
 ---
 
 
@@ -14,7 +14,7 @@ A latin `egere` = hiánya van, kell jelentésű ige is [[E/Éh\|éh]] szavunkbó
 
 Götz László Keleten kél a Nap című könyvének 166-167. oldalán szumér-germán szavak párhuzamait bemutató szavak között az ófelnémet `(h)eishan`, német `(h)eishe` = kíván, megkövetel, elvár jelentésű szavak mellé a szumér `AŠ` = kíván, kér, óhajt jelentésű szót teszi párba.  
 
-A görögben is megtalálni ezen szó rokonát a vendéghangos (tkp. [[L/L vendéghang\|l vendéghang]] jelöli az a-n az ékezetet) `algia`, `algosz` = fájdalom szóban: [[A/Ágy\|ágy]] szavunkat belelátni annyi, hogy azzal, hogy a beteg ágynak esik, kifejezi fájdalmát is utódnyelveinkben.  
+A görögben is megtalálni ezen szó rokonát a vendéghangos (tkp. [[L/L#L vendéghang\|l vendéghang]] jelöli az a-n az ékezetet) `algia`, `algosz` = fájdalom szóban: [[A/Ágy\|ágy]] szavunkat belelátni annyi, hogy azzal, hogy a beteg ágynak esik, kifejezi fájdalmát is utódnyelveinkben.  
 
 ```plantuml-svg
 @startuml
