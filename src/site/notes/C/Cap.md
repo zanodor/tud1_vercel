@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cap/","title":"Cap","created":"2023-11-05T02:53","updated":"2025-05-03T10:56"}
+{"dg-publish":true,"permalink":"/C/Cap/","title":"Cap","created":"2023-11-05T02:53","updated":"2025-06-08T00:42"}
 ---
 
 
