@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Batter/","title":"Batter","created":"2024-10-23T23:18","updated":"2024-10-24T19:24"}
+{"dg-publish":true,"permalink":"/B/Batter/","title":"Batter","created":"2024-10-23T23:18","updated":"2025-06-07T19:48"}
 ---
 
 
