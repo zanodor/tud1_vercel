@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2025-04-27T15:18"}
+{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2025-06-07T18:49"}
 ---
 
 
@@ -45,7 +45,7 @@ Nimród nagy vadász volt az Úr előtt, írja a Biblia.
 | Reina Valera (sp.) | vigoroso cazador                          |
 | Italian         | potente cacciatore                             |
 | Portuguese      | poderoso caçador                               |
-| Estonian        | „Vägev kütt”                                   |
+| Estonian        | "Vägev kütt"                                   |
 | Luther (ném)    | 1545 gewaltiger Jäger                          |
 | Lithunian       | smarkus medžiotojas                            |
 | Croatian        | silan lovac                                    |
@@ -55,10 +55,10 @@ Nimród nagy vadász volt az Úr előtt, írja a Biblia.
 | Version         | Translation                                   |
 |-----------------|-----------------------------------------------|
 | Gen 21.20       | Isten vele volt, felnőtt és íjas vadász lett. |
-| Darby (fr)      | et habita dans le désert et devint tireur d’arc. |
+| Darby (fr)      | et habita dans le désert et devint tireur d'arc. |
 | SE (sp.)        | y habitó en el desierto, y fue tirador de arco. |
 | Portuguese      | morando no deserto, tornou-se flecheiro.      |
-| Italian         | e dimorò nel deserto, e fu tirator d’arco.    |
+| Italian         | e dimorò nel deserto, e fu tirator d'arco.    |
 | ELB (ném)       | wurde ein Bogenschütze.                       |
 | Danish          | Og blev en Bueskytter.                        |
 | Norwegian       | blev han bueskytter                           |
