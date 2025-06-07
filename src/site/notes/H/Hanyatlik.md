@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hanyatlik/","title":"Hanyatlik","tags":["titleandheadingonedontmatch"],"created":"2024-05-01T15:19","updated":"2024-10-25T19:15"}
+{"dg-publish":true,"permalink":"/H/Hanyatlik/","title":"Hanyatlik","tags":["titleandheadingonedontmatch"],"created":"2024-05-01T15:19","updated":"2025-06-08T00:43"}
 ---
 
 
