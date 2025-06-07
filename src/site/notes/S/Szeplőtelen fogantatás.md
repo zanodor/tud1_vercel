@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2024-10-26T00:29"}
+{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2025-06-07T19:12"}
 ---
 
 
@@ -11,7 +11,7 @@ Magyarországon a legismertebb [[A/Álmos\|Álmos]] és [[J/Jézus\|Jézus]] fog
 
 ...című könyvének 87. oldalán maga is írja:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/b/buddha/#lv3itf" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/B/Buddha/#lv3itf" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -55,7 +55,7 @@ Szeplőtelen azaz szűzen fogantatásról lásd még [[P/Parthenogenesis\|parthe
 Jankovics Marcell Jelkép-kalendárium című könyvének azonos című fejezetében írottakat is lásd ott és másutt.  
 Közben ott arról is szó volt, hogy **félrefordítás történt** (a héber `almah` = maiden, nem virgin):  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/p/parthenogenesis/#fug3hb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/P/Parthenogenesis/#fug3hb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -100,7 +100,7 @@ Práczki István Szittya Biblia című könyvének 47. és 54. oldalán igen meg
 
 ...mintha nem értené a Tejútistennők szűzen szülésének okát, így szerinte, illetve forrása, Szent Albert szerint, a szűz-motívum attól asztroteologikus, hogy december 25-én éjjel, a születéskor a [[S/Szűz csillagkép\|Szűz csillagkép]] felkel a horizonton[^3]\:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/a/augusztus-15/#3hft9l" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A/Augusztus 15/#3hft9l" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -134,7 +134,7 @@ Az alábbiaknak nem sok értelme/jelentősége van:
 
 A [[S/Szűz csillagkép\|Szűz csillagkép]] címnél szereplő ([[M/Mária\|Mária]] címnél is említett) alábbi infónak milyen hasznát vehetjük? Szűz Mária nevét is ezek szerint így kellene értelmezni? A [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelésé]]től a Nap Szűzbe lépésének időtartama volt figyelemmel kísért? Hiszen (kb.) augusztus 22-vel a Szűz indul:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/m/maria/#j3fmio" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Mária/#j3fmio" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
