@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2025-06-07T21:04"}
 ---
 
 
@@ -90,7 +90,7 @@ Bakk István Miért apostoli királyság Magyarország? című az Ősi Gyökér 
 
 ... című könyvében a kínai krónikák ügyében tájékozott neves sinológus, Kingsmill adatait közli ([[S/Szkíta\|szkíta]] és [[H/Hsiung-nu#Hsziungnu mint szőke faj\|hsziungnu mint szőke faj]] címnél is szerepelt):  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/h/hsiung-nu/#t74ctc" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/H/Hsiung-nu/#t74ctc" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -157,7 +157,7 @@ Tündérek kapcsán volt már szó a témáról (lásd [[F/Firtos\|Firtos]] vs. 
 
 ... című könyvének alábbi passzusa [[S/Sarama\|Sarama]] és [[C/Cerberus\|Kerberosz]] címnél is szerepelt:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/s/sarama/#itxfzr" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/S/Sarama/#itxfzr" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -277,7 +277,7 @@ Fentebb már volt szó a fehér szarvasünőről. Az alábbiakban járjuk még k
 > A számos szarvasregében emlegetett "fehér szarvas" ősmagyar mitológiánkban csak a szóban lévő...  
 - A [[H/Hattyú vitéz mese\|Hattyú vitéz mesé]]ben szintén (rögtön az elején) fehér szarvas jön elő.
 
->  ...Ős-szarvasunk nőstényére vonatkozott, mivel szerintem, míg a hím fekete volt, addig nősténye fehér vagy világos-szürke színű kellett hogy legyen.   
+>  ...Ős-szarvasunk nőstényére vonatkozott, mivel szerintem, míg a hím fekete volt, addig nősténye fehér vagy világos-szürke színű kellett hogy legyen.
 - Ez némiképp ellentmond annak viszont, amit idáig gondoltunk, bár a [[H/Hunor és Magor\|Hunor és Magor]] címnél, külön alcímnél írottak szerint is Hunorhoz, a Magornál "hímebb" aspektushoz a sötét passzol (és akkor itt még szólni kell arról is, hogy a [[H/Hím\|hím]] szó eredete mi lehet).  
 
 A fehér és fekete szarvas kettőse kapcsán itt még jegyezzük meg, hogy kétszarvasos ábrázolásokat például [[J/Janus\|Janus]] címnél szerepeltettünk (persze ott a szarvasok színében nem volt eltérés).  
