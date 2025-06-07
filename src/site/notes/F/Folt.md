@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Folt/","title":"Folt","created":"2023-10-10T10:47","updated":"2025-04-27T09:57"}
+{"dg-publish":true,"permalink":"/F/Folt/","title":"Folt","created":"2023-10-10T10:47","updated":"2025-06-07T19:19"}
 ---
 
 
