@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-20T06:59","updated":"2025-05-25T18:21"}
+{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-20T06:59","updated":"2025-06-07T18:47"}
 ---
 
 
@@ -25,7 +25,7 @@ Somos Zsuzsanna Párizsi múzeumokban című az Ősi Gyökér 2010/4. sz. megjel
 > Az Ármány szót összevetik az Arimaspi névvel, helytelenül. Arimaspi Egyszemű, inkább a Naphívőkkel kellene összevetni az Arimaspi nevet. A Napisten ugyanis egy szemű.  
 > \[...\]  
 > Az Arimphaeusok a Ripaeus-hegység végénél laktak, Ammianus Marcellinus szerint. A Chronius és Vistula forrásánál, mellettük az alánok laktak. A Vistula név tehát régebbi a szlávok megjelenésénél, amit ez az adat is bizonyít. A Visz-Túl-A azt jelenti, hogy Visz-Túl a Vízen, és magyar nyelvű folyónév. Az Arimphaeusok neve az Arimaszpok nevére hasonlít, az Egy szeműekre. Ez az egy szem természetesen a Napisten, de valójában természetesen két szemük volt ennek a szkytha népnek is, csak napimádatukat nem értették meg a görögök.  
-> 
+>
 > A Wikipedia azt írja a szkítákról, hogy indoeurópaiak. Az arimaszpu szó Egy-Szemű értelmű, a Szpu pedig indoeurópai szó \[lenne\]. Bár a `Pu` kapu, az akkádban is, a `Pupilla` szóban is szerepel, ami a Fény Kapuja jelentést tartalmazza.  
 
 #### Götz László Keleten kél a Nap...
