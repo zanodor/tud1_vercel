@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2025-04-27T09:59"}
+{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2025-06-08T00:59"}
 ---
 
 
@@ -20,16 +20,18 @@ Graham Hancock "Fingerprint of the Gods"-ában említi [[C/Charles Hapgood\|Char
 >
 > Kur ország a Kura-folyótól délre fekvő magyar, vagyis szavárd ország. Erről a földről beszél Arany János is. Egyes könyvekben [[E/Éden\|Éden]] a neve, ami szintén színmagyar országnév.  
 
-#### Varga Zsigmond írja még Kur-ról:  
+#### Varga Zsigmond...
 
+...írja még Kur-ról:  
 > A kur nem jelent idegen országot, hanem a szumir \[északra, Szkítaföldön fekvő\] őshazát, szemben a babiloni mélyfekvésű síkfölddel, legfeljebb az Enlil appozíciójául szolgáló lugal kurkurra jelenti még a mellette fekvő elámi felföldet.  
 
-#### Péterfai János véleménye szerint ez az őshaza a Kárpát-haza:  
+#### Péterfai János...
 
+...véleménye szerint ez az őshaza a Kárpát-haza:  
 > A szumir őshaza egy hegyektől övezett, körbe vett ország, ami a Kárpát-medence. Tehát a szumirok ősei a Kárpát-medence magyarjaitól vándoroltak Mezopotámiába, és nem a szumirok jöttek Magyarországra, magyarnak lenni. A mítosznak legtöbbször hinni kell, mert egyetlen nép, egyetlen ember sem tagadta meg őseit soha, inkább elpusztult. A mítoszok arról szólnak, hogy délről egy másik nép érkezik Mezopotámiába. Ők az igazi \[[[Giga\|giga]] címnél taglalt\] Fekete Fejűek. Valamiképpen rokonok, a magyarnak vélhető őslakosság nem vív honvédő háborút a betolakodókkal szemben. Ám az idegenek nyelve rátelepszik a magyar nyelvre, ami megváltozik, de nem annyira, hogy bármely becsületes kutató nem ismerné fel azonnal a szumir nyelv magyar nyelvből való eredetét. A jövevények vagy afrikai kusiták, vagy ázsiai dravida-rokonok, vagy mind a két területről érkeztek behatolók. Ettől az időtől kezdve a szumir kultúra nem tekinthető magyar kultúrának, de az alapjai magyarok maradtak. Ezért a későbbi időkben is számtalan magyar nyelvű bizonyítékkal találkozhatunk, ha szumir történelemben kutakodunk. A szumir nyelv nagyjából a Kr.e-i 3. században halt ki, bár élhetett tovább is, mert rendkívül hasonlított a mai magyar nyelvhez. Szumir, vagy Sineár népe a zsidók és oroszok őse. Ezért nagy a felelőségünk a nyelvészet harcaiban az igazság követésében. Nem elhagyni a magyar nyelvet, de mindig követni az igazságot, bármely rovás olvasatban.  
 >
 > A [[T/Termékeny félhold\|Termékeny Félhold]] egy kitaláció, amit azért hoztak létre, hogy a földművelés felfedezését erre a területre tehessék. A földművelést a Kárpát-medencében találták ki őseink, mintegy 25.000 évvel ezelőtt, vagy még régebben, 35.000 éve. De kínai adatok 50.000 évről szólnak, amikor már magokat találtak a kutatók egyes barlangokban. A földművelés eljárása sokkal régebbi, amint azt sok kutató gondolja. Ezzel őseink is tisztában voltak, aminek a nyelvekben is kellett nyomának maradni.  
-- Péterfai János itt nem hivatkozik Varga Zsigmond adatára, talán azért sem, mert vonakodott volna a [[K/KUR\|KUR]] és a Kárpát előtagjában szereplő KÁR szavak összevetésétől. Ezt mi már [[K/Kárpát\|Kárpát]] címnél megtettük.  
+- Péterfai János itt nem hivatkozik Varga Zsigmond adatára, talán azért sem, mert vonakodott volna a [[K/KUR\|KUR]] és a Kárpát előtagjában szereplő KÁR szavak összevetésétől. Ezt mi már [[K/Kárpát\|Kárpát]] címnél megtettük.
 
 #### Berényi László Géza Holisztikus világszemlélet 7000 éve a Kárpát-medencében (a KöR-iS-TeN fraktál)...
 
@@ -40,14 +42,15 @@ Graham Hancock "Fingerprint of the Gods"-ában említi [[C/Charles Hapgood\|Char
 
 Fentebb már volt szó Édenről. Itt most a földi Paradicsomról lesz szó.  
 
-#### Péterfai János vezeti elő:  
+#### Péterfai János...
 
+...vezeti elő:  
 > A Kárpát-medence a Paradicsom. Természetesen lehet bizonyítani. **A Kárpát-medence az emberiség igazi őshazája**, legyen fehér, sárga, fekete vagy vörös bőrű az az emberi csoport. Mind innen ered.  
 >
 > Hol volt a Paradicsom földrajzilag? Egyetlen lehetőséget lehet látni, a Mátrát. Egyedül itt van csak Par-Ád, az Atya-Háza, sehol másutt. Az Ősi Atyák Háza eszerint a Mátra, esetleg a Kárpát-medence. Sehol máshol nem találunk nyomokat a Paradicsom – Par-Ád-Iseum földrajzi terület létezésére. Nagyon nehéz felvenni a hátunkra olyan súlyos terheket, amelyek azt igazolják, hogy a magyar nyelvből erednek az emberiség legszentebb szavainak jelentős része.  
 >
 > Parád és Parádsasvár a Mátrában lévő települések. Parád neve a Paradicsom névnek első részével azonos. Régóta gondolkodtam a Paradicsom és a Parád nevek egy tőről való származásán, csak a régészeti bizonyítékok hiányoztak a végeredmény kimondásához. Újabban azonban igen sok régészeti tényt ismertem meg, amelyek egyértelműen azt bizonyítják, a Kárpát-medencében már nagyon régen laknak emberek. Nem Alemberek, Előemberek, Félemberek, Majomemberek, Felegyenesedett emberek, hanem valódi, igazi emberek, akik magyarul beszéltek.  
-- Megemlítendő azonban, hogy Parád nevű falu Erdélyben is van.  
+- Megemlítendő azonban, hogy Parád nevű falu Erdélyben is van.
 
 Az [alábbi](https://youtu.be/s_gRbDnUPsA) A mindenséggel mérd magad 16/1. című Szántai Lajos előadásban 58:10-nél idézi Freisingi Ottó freisingi püspököt, a német-római császár testvérét (tehát megint csak magyargyűlölő) (1147): "Ez a tartomány ugyanis, amit a régiek Pannóniának neveztek, tudvalevőleg bensejében nagy kiterjedésű síkság van, amelyet jeles folyók és vizek öntöznek. Erdőben fölötte gazdag, telve mindenféle vadakkal, s szépségében éppoly bájos, mint amilyen dús a föld termékenysége. Hogy mintegy az isten paradicsomának, avagy a pompás Egyiptomnak látszik lenni."  
 
@@ -59,7 +62,7 @@ Még a Talmud is ismerte azt az országot, mely hegyekkel körülvett (igaz, ez 
 > "Van ország, melyet mérföldeken keresztül hegyek és erdők öveznek, úgy hogy nem lehet belőle kijutni, csak kapukon át. Ilyen például Magyarország." (Babilónai Talmud, Jomá 11a., Rasi-kommentár)  
 > Ezt a Rasi-passzust a Magyar Történelmi Tár 3. sor. 3. kötet 1880, 102. oldalán is hozzák:  
 > "Vannak tartományok, melyek sok mértföldnyire hegyekkel és erdőkkel vannak körülvéve, úgy hogy belőlök csak kapukon (szorosokon) lehet kimenni, mint például: Hágárország."  
-- [[H/Hágár\|Hágár]]ország mint mindenütt, úgy itt is Magyarországot jelent.  
+- [[H/Hágár\|Hágár]]ország mint mindenütt, úgy itt is Magyarországot jelent.
 
 ## A Kárpát-medence népességei az évezredek alatt – Őstörténet a Kárpát-medence tükrében
 
@@ -79,30 +82,30 @@ Darai Lajos Mihály dr. Tízezer év ezer oldalról című írásában a kaposv�
 
 [Ezen](https://youtu.be/CZwvyvBjM3o) előadásában Grandpierre Atilla 5:50-nél 10-12 millió évről beszél. Kretzói Miklós anthropológus Evolutionary Anthropology című könyvében szerepelt az az adat, miszerint a kárpát-medencei, két lábon járó emberiség (nyilván bátor dolog lenne magyarságnak tekinteni) ilyen ősi lenne.  
 
-#### Magyar Adorján Ősműveltségében...
+#### Magyar Adorján Ősműveltség...  
 
-...egészen hasonló adat szerepel (ő nem kárpát-medencei adatként említi):  
+...című könyvében egészen hasonló adat szerepel (ő nem kárpát-medencei adatként említi):  
 > Ma már bizonyosan tudjuk, hogy az ember, mai értelmes alakjában is, 10-14 millió évvel ezelőtt is a Földön már élt és eszerint az őshüllők utolsóit még láthatta.  
 
 Akkor vegyük Költő László adatait sorjában. Vázlatosan a kárpát-medencei, őskori, régészeti módszerekkel kutatandó időrend:  
-1\. A 12 millió éves Ramapithecus és kultúrája.  
-2\. Az alsó paleolitikumi, 800-220 ezer éves, Paleohungaricus és kultúrája.  
-3\. Középső paleolitikumi 70-30 ezer éves, mousteri Érd, Tata, Subalyuk, Szeleta kultúra.  
-4\. Felső paleolitikum, 30-12 ezer év, aurignaci Istállóskő, gravetti Szeleta, Ságvár kultúra.  
-5\. A mezolitikum 12-7 ezer éve, mely időszakról alig van hiteles lelőhely.  
-6\. Neolitikumi 7-5 ezer éves Körös, alföld-dunántúli vonaldíszes, tiszai, lengyeli kultúra.  
-7\. 5-4 ezer éves kora, közép és késő rézkor: Tiszapolgár, Bodrogkeresztúr, Pécel kultúra.  
-8\. 4 ezer évtől kora bronzkori Zók, Nagyrév, Makó kultúra. 9. Középső bronzkori Füzesabony-Gyulavarsánd, mészbetétes edények, Vatya kultúra.  
-10\. Késő bronzkori halomsíros, urnamezős, Gáva kultúra.  
-11\. Ókor-kora vaskor, 2900-2700 éves kimmer, sigynna, preszkíta, (Hallstadt) kultúra.  
-12\. Vaskori 2700-2500 éves szkíta kultúra.  
-13\. Késő vaskori 2400 éves kelta (La Tene) kultúra.  
-14\. Római kori kb. 2000 éves dák, jazyg, szarmata kultúra.  
-15\. Kora népvándorlás kori markomann, quad kultúra.  
-16\. Kora középkor-népvándorlás kori hun, gót, gepida, longobárd, avar, magyar kultúra.  
-17\. A népvándorlás kort záró magyar államalapító kultúra.  
-18\. 1000-1303, Árpád-kori, Árpád-házi királyok kori bevándorló kun, román kultúra.  
-19\. Középkor-későközépkori-koraújkori török kultúra
+> 1\. A 12 millió éves Ramapithecus és kultúrája.  
+> 2\. Az alsó paleolitikumi, 800-220 ezer éves, Paleohungaricus és kultúrája.  
+> 3\. Középső paleolitikumi 70-30 ezer éves, mousteri Érd, Tata, Subalyuk, Szeleta kultúra.  
+> 4\. Felső paleolitikum, 30-12 ezer év, aurignaci Istállóskő, gravetti Szeleta, Ságvár kultúra.  
+> 5\. A mezolitikum 12-7 ezer éve, mely időszakról alig van hiteles lelőhely.  
+> 6\. Neolitikumi 7-5 ezer éves Körös, alföld-dunántúli vonaldíszes, tiszai, lengyeli kultúra.  
+> 7\. 5-4 ezer éves kora, közép és késő rézkor: Tiszapolgár, Bodrogkeresztúr, Pécel kultúra.  
+> 8\. 4 ezer évtől kora bronzkori Zók, Nagyrév, Makó kultúra. 9. Középső bronzkori Füzesabony-Gyulavarsánd, mészbetétes edények, Vatya kultúra.  
+> 10\. Késő bronzkori halomsíros, urnamezős, Gáva kultúra.  
+> 11\. Ókor-kora vaskor, 2900-2700 éves kimmer, sigynna, preszkíta, (Hallstadt) kultúra.  
+> 12\. Vaskori 2700-2500 éves szkíta kultúra.  
+> 13\. Késő vaskori 2400 éves kelta (La Tene) kultúra.  
+> 14\. Római kori kb. 2000 éves dák, jazyg, szarmata kultúra.  
+> 15\. Kora népvándorlás kori markomann, quad kultúra.  
+> 16\. Kora középkor-népvándorlás kori hun, gót, gepida, longobárd, avar, magyar kultúra.  
+> 17\. A népvándorlás kort záró magyar államalapító kultúra.  
+> 18\. 1000-1303, Árpád-kori, Árpád-házi királyok kori bevándorló kun, román kultúra.  
+> 19\. Középkor-későközépkori-koraújkori török kultúra
 
 Ide a második és harmadik pont közé tehetőek az alábbiak:  
 Grandpierre Atilla: Ősi Magyarország, a Kárpát-medence és a Selyemút népeinek felemelkedése című 2019-es könyvét bemutató előadásokhoz (például [ezen](https://youtu.be/_Lhjt9qTy34) előadása, melynek szövege egyébként a letöltésre elérhető: Acta Historica Hungarica Turiciensia XXXIV. évfolyam 3. szám, Pannon Kultúraközösség Kutató és Képzőközpont Folyóirata 2019C) tartozó PDF-ek közül...
@@ -181,10 +184,19 @@ Másutt:
 > Az eurázsiai ősműveltségből 8 ezer évvel ezelőtt a Kárpát-medencében fejlődött ki az Ősi Európa civilizáció, fejlett csillagászati, filozófiai, matematikai, mezőgazdasági, állattenyésztési, bányászati, fémművességi tudással, városokat építve, feltalálva az írást vagy az írás elődjét jelentő jelrendszert. A Kárpát-Balkáni fémművességi központból a jogarhordozó népnek, "a sztyeppe urá"-nak köszönhetően elsősorban kelet felé terjedt el a rézművesség, i.e. 5400-tól és a bronzművesség, i.e. 4500-tól.  
 
 Kárpát-medence kontra Mezopotámia – előbbi volt az első kultúrközpont témája: Grandpierre Atillánál visszatérő téma, hogy a Kárpát-medence 330000 km² területével (vö. Mezopotámia 12000 km²-ével) és nagyobb csapadékmennyiségével sokkal valószínűbben volt az emberiség első kultúrájának központja (csak hát a zsidóktól és indo-európaiaktól túl távoli).  
-![assets/Kárpát-medence_image6.png|invert_dark](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image6.png)  
 Götz László Keleten kél a Nap című könyvében is a hivatalos felfogást mutatja be. [[E/Észak és dél\|Észak és dél]] címnél tettünk utalást arra, hogy a kultúra átadásának útja nem azonos a (későbbi) déli-északi népességáramlás irányával. Götz László nem veszi figyelembe a [[J/Jégkorszak\|jégkorszak]]okat.  
 
-[Ezen](https://www.youtube.com/watch?v=reuuRpJNnT0) Dr. Bognár László féle, Emlékezés Magyar Adorjánra című előadásban 13:30-nál szintén felkapja ezt a témát (lásd csatolt képet is): a kárpát-medencei területhez képest a folyamközi kicsi, kevés csapadékkal (azért a folyóink is bővízűbbek, különösen, mert a Pannon-tenger maradéka is sokáig megvolt, teszem hozzá), kevesebb növényzettel. Az is egy gócpont volt, de a miénk sok tekintetben előnyösebb volt.  
+[Ezen](https://www.youtube.com/watch?v=reuuRpJNnT0) Dr. Bognár László féle, Emlékezés Magyar Adorjánra című előadásban 13:30-nál szintén felkapja ezt a témát: a kárpát-medencei területhez képest a folyamközi kicsi, kevés csapadékkal (azért a folyóink is bővízűbbek, különösen, mert a Pannon-tenger maradéka is sokáig megvolt, teszem hozzá), kevesebb növényzettel. Az is egy gócpont volt, de a miénk sok tekintetben előnyösebb volt.  
+> 1\. Táblázat. A Kárpát-medence és Mezopotámia területének évi csapadékmennyiségének és uralkodó talajtípusának összevetése. Források: Csapadék: Képes politikai és gazdasági világatlasz, 1974, 101; Terület: *Dél-Mezopotámia magában foglalja a települési területet.  
+> Ennek területe sohasem múlta felül a 12 000 km²-t* (Trigger 2001, 120).
+> 
+> | Körzet             | Kárpát-medence                         | Mezopotámia        |
+> |--------------------|----------------------------------------|---------------------|
+> | Terület            | 330 000 km²                            | 12 000 km²          |
+> | Csapadék           | 500–750 mm/év                          | 0–250 mm/év         |
+> | Jellemző talajtípus| feketeföld, barnaföld, öntéstalaj      | öntéstalaj          |
+> 
+
 
 
 #### Bárczy Zoltán Töprengések a hazáról I. rész...
