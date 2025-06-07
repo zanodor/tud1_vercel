@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Joukahainen/","title":"Joukahainen","tags":["Englishtexttranslated"],"created":"2023-10-15T02:46","updated":"2024-10-25T22:04"}
+{"dg-publish":true,"permalink":"/J/Joukahainen/","title":"Joukahainen","tags":["Englishtexttranslated"],"created":"2023-10-15T02:46","updated":"2025-06-08T00:45"}
 ---
 
 
