@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Törvény/","title":"Törvény","created":"2025-06-03T12:25","updated":"2025-06-03T12:26"}
+{"dg-publish":true,"permalink":"/T/Törvény/","title":"Törvény","created":"2025-06-03T12:25","updated":"2025-06-07T18:59"}
 ---
 
 
