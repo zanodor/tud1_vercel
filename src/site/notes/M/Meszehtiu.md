@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Meszehtiu/","title":"Meszehtiu","tags":["containstransclusions"],"created":"2023-11-09T05:37","updated":"2024-11-07T00:58"}
+{"dg-publish":true,"permalink":"/M/Meszehtiu/","title":"Meszehtiu","tags":["containstransclusions"],"created":"2023-11-09T05:37","updated":"2025-06-08T01:14"}
 ---
 
 
@@ -13,7 +13,7 @@ Az eredeti alak: `mshtyw`, ebből olvasták ki azt, amit ismerünk.
 
 ...című könyvében kissé máshogy írva, **Meskhet**-ként jön elő és az egyiptomi névvel, azaz előtagjával azonosul egy szíriai szó előtagja, szintén északra vonatkoztatva:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/m/misz/#k9sqfa" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/MISZ/#k9sqfa" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -21,7 +21,7 @@ Az eredeti alak: `mshtyw`, ebből olvasták ki azt, amit ismerünk.
 > Set also was a generic term applied to all circumpolar constellations, because, as always visible, they somewhat paradoxically were thought to typify darkness.  
 > —  
 > Ősi azonban, mint Ἄρκτος és Ursa, ʽĀsh és a Sör, Ἅμαξα, Plaustrum és Triones, ez a pompás csillagkép még messzebbre - három vagy négy vagy még több évezreddel azelőtt, hogy még ezek a címek is aktuálisak lettek volna - visszanyúlt, mint a Bika combja vagy az Elülső lábszár Egyiptomban. Ott a denderahi planiszférán és az Edfū templomban az állat egyetlen combja vagy hátsó negyede ábrázolta, amelyre a Halottak Könyvében úgy utalnak, mint A comb csillagkép az északi égbolton; és így említik a királyok sírjain és a thébai Ramesseum falain lévő feliratok. Néha a Comb alakját egy tehéntestre változtatták, koronggal és szarvakkal; de bárhogyan is nevezték vagy ábrázolták, ezek a csillagok mindig is kiemelkedő szerepet játszottak Egyiptom korai csillagászatában és mitológiájában. Úgy tűnik, hogy **Mesχet** volt az elnevezésük, és különösen valamelyiküknek, mint a rosszindulatú vörös Set, Sit vagy Sith, Sut vagy [[S/Szutek\|Sutech]] képviselőjének, aki feleségével, Taurttal vagy Thouerisszel együtt, akit a szomszédos Hippopotamus (ma a mi Drakónk része) mutat, a sötétséget és a gonosz istenségeket képviselte.  
-> A Set egy általános kifejezés is volt, amelyet az összes cirkumpoláris csillagképre alkalmaztak, mert mivel mindig láthatóak, némileg paradox módon úgy gondolták, hogy a sötétséget jelképezik.  
+> Set egy általános kifejezés is volt, amelyet az összes cirkumpoláris csillagképre alkalmaztak, mert mivel mindig láthatóak, némileg paradox módon úgy gondolták, hogy a sötétséget jelképezik.  
 
 
 </div></div>
