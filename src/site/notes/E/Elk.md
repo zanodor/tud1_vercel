@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Elk/","title":"Elk","tags":["Englishtexttranslated"],"created":"2023-10-11T04:43","updated":"2024-10-25T17:16"}
+{"dg-publish":true,"permalink":"/E/Elk/","title":"Elk","tags":["Englishtexttranslated"],"created":"2023-10-11T04:43","updated":"2025-06-07T22:58"}
 ---
 
 
