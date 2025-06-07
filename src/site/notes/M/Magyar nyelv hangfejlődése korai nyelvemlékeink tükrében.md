@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv hangfejlődése korai nyelvemlékeink tükrében/","title":"Magyar nyelv hangfejlődése korai nyelvemlékeink tükrében","created":"2024-12-20T06:51","updated":"2025-04-27T10:03"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv hangfejlődése korai nyelvemlékeink tükrében/","title":"Magyar nyelv hangfejlődése korai nyelvemlékeink tükrében","created":"2024-12-20T06:51","updated":"2025-06-08T01:10"}
 ---
 
 
