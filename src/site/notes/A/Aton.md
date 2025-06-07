@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aton/","title":"Aton","tags":["Englishtexttranslated"],"created":"2023-10-03T11:47","updated":"2024-10-22T22:34"}
+{"dg-publish":true,"permalink":"/A/Aton/","title":"Aton","tags":["Englishtexttranslated"],"created":"2023-10-03T11:47","updated":"2025-06-07T18:48"}
 ---
 
 
