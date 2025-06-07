@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","created":"2023-10-06T12:03","updated":"2025-04-26T14:16"}
+{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","created":"2023-10-06T12:03","updated":"2025-06-07T19:52"}
 ---
 
 
@@ -181,7 +181,7 @@ De itt nem áll meg:
 Ilyen értelemben a sötétség egyértelműen a világosság retorikáját alkalmazza, \[...\] szájbarágja a világosság köntösébe bújtatott hazugságait. Melyek is ezek: hamis próféciák és tanítások, hamis történelemképpel és vallástörténettel, megcsonkított nemzettudattal...Nagyon sok esetben tetten érhető a hamis eszmerendszereket képviselőkkel kapcsolatban, hogy a fényt képviseli, de a sötétség nyelvén beszél. A judeo-kereszténységbeni folyamatos Ószövetségre való hivatkozás is jó példa erre.  
 
 [^3]: Lábjegyzet:  
-A süt szónak nemcsak a söt-ét, hanem a [[S/Szutyok\|szutyok]] ([[P/Piszok\|piszok]] és [[M/Mocsok\|mocsok]] is ilyen -ok végződésű, ahogy [[A/Átok\|átok]] címhez ezeket be is tettem) is ellenpárja és a [[S/Sut\|sut]] (valamint [[S/Sutúl\|sutúl]]) is említhető ide. Szutyok előjött [[S/Szutek\|Szutek]] névnél is.  
+A süt szónak nemcsak a söt-ét, hanem a [[S/Szutyok\|szutyok]] ([[P/Piszok\|piszok]] és [[M/Mocsok\|mocsok]] is ilyen -ok végződésű, ahogy [[A/Átok\|átok]] címhez ezeket be is tettem) is ellenpárja és a [[S/Sut\|sut]] (valamint [[S/Suta#Sutúl\|sutúl]]) is említhető ide. Szutyok előjött [[S/Szutek\|Szutek]] névnél is.  
 
 [^4]: Lábjegyzet:  
 Az ellentétet feloldja, ha [[E/Életkör\|életkör]]ben gondolkodunk. Ami egyszer jó, másszor rossz (lásd például [[K/Kut\|kut]] címnél életkör-diagramot). Ugyanakkor a Kis Éves körben is a legsötétebb pontra jutás után ünnepeljük a fény ünnepét. A fekete és fehér határpontja a halál és [[F/Feltámadás\|feltámadás]].  
