@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nő és férfi/","title":"Nő és férfi","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-14T03:03","updated":"2025-06-08T01:40"}
+{"dg-publish":true,"permalink":"/N/Nő és férfi/","title":"Nő és férfi","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-14T03:03","updated":"2025-06-08T01:42"}
 ---
 
 
 # Nő és férfi
 
 Ismeretes, hogy a szerelem tüzes érzés, de elsődlegesen, ki kell mondani, a nők számára. A férfiak a szerelemmel azt vállalják, hogy átadják magukat a nőnek, az anyagnak. Számukra a szerelem [[B/Béklyó\|béklyó]]. De amint a nő megszerzi a vágyainak tárgyát, az anyaggá lealacsonyodott férfit, már nem lesz számára annyira érdekes, kivált, ha a tüzet nem tudják újra és újra felpiszkálni. A nő számára (de a férfi számára is) mindig is az elérhetetlen a vonzó. Ezért van az, hogy a nők családot inkább a lealacsonyodni képes (nőies, tágra nyíló szemű) férfiakkal alapítanak (saját kezdeményezésre, hiszen már átvették a férfiaktól e szerepet), de vágyat, szerelmet a férfinak megmaradni tudó, magát hosszan nőhöz lekötni nem képes olyan férfiak iránt érez, akik számára az elsődleges nem a nő és annak szeretete, hanem önmaga szeretete. Az igazi férfiak viszont nem a bunkó önimádó típusok, hanem azok, akik mindenki javára, a nemzet, cég, egyesület, közösség javára alkotnak és egy magasabb szeretetet hirdetnek, mint ami két ember között általában lehetséges. Az igazi szerelem tehát a (testiekben) viszonzatlan szerelem, egy transzcendentális érzés, mely túlmutat azon az anyagi síkon, melyekbe fektetett vágyaink kielégülésére szakosodtunk a Vaskorban.  
-Ezen fogalmak a tisztázása nélkül, és főleg a tisztán, éberen látás nélkül nem lehetséges a [[N/Nemek\|nemek]] szerepét újra helyére tenni.  
+Ezen fogalmak tisztázása nélkül, éber tisztán látás nélkül nem lehetséges a [[N/Nemek\|nemek]] szerepét helyére tenni.  
 
 #### Zborovszky Andrea A papucsszaggató királykisasszonyok...
 
