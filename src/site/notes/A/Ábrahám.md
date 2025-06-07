@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ábrahám/","title":"Ábrahám","created":"2023-10-21T04:40","updated":"2024-10-22T21:23"}
+{"dg-publish":true,"permalink":"/A/Ábrahám/","title":"Ábrahám","created":"2023-10-21T04:40","updated":"2025-06-07T18:43"}
 ---
 
 
