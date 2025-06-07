@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated"],"created":"2024-10-23T20:07","updated":"2025-04-04T22:53"}
+{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated"],"created":"2024-10-23T20:07","updated":"2025-06-07T19:47"}
 ---
 
 
