@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bunkó/","title":"Bunkó","created":"2023-11-29T02:34","updated":"2024-10-24T02:27"}
+{"dg-publish":true,"permalink":"/B/Bunkó/","title":"Bunkó","created":"2023-11-29T02:34","updated":"2025-06-07T19:52"}
 ---
 
 
