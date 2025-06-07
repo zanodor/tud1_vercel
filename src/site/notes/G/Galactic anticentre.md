@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2025-05-23T19:22"}
+{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2025-06-07T19:15"}
 ---
 
 
