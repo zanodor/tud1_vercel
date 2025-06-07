@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Beggar/","title":"Beggar","created":"2023-11-09T08:35","updated":"2024-10-24T22:12"}
+{"dg-publish":true,"permalink":"/B/Beggar/","title":"Beggar","created":"2023-11-09T08:35","updated":"2025-06-07T19:48"}
 ---
 
 
