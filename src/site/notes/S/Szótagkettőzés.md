@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated"],"created":"2023-10-29T05:21","updated":"2025-04-28T19:33"}
+{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated"],"created":"2023-10-29T05:21","updated":"2025-06-07T19:12"}
 ---
 
 
@@ -69,9 +69,9 @@ A Reddit posztot megosztó Quora helyen felírtam, amit kellett:
 > *   Ma-Ma: a mássalhangzók duplázása jelenthet megerősítést, többesszámot, vagy egyszerűen egyensúlyozást (mint ahogy a magyar Út lehet Utu, Ács = Acsa, Atya = Teremtő).
 > 
 > Tehát amikor nyelvészek nagyjai (és szlávok, mint a Reddit-posztban) gyermekbeszéddel meg hangutánzó szavakkal jönnek megoldásként, és nagy tudásukkal (ami semmit sem ér) hencegnek, nem tudják, hogy a gyermekbeszéd nem más mint Isten-beszéd, és ezek a szóelemek ott vannak Isten nyelvében, a magyarban.  
-> 
+>
 > De Isten áldja a szlávokat és más nemzeteket, mert csak ellenük tudjuk csiszolni a saját képességeinket, és meglátni, mit jelenthet igazán magyarnak lenni.
-> 
+>
 > Pá-Pá (ismét baba-beszéd)
 
 ## Lábjegyzetek
