@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["containstransclusions"],"created":"2023-10-09T06:36","updated":"2025-03-17T21:50"}
+{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["containstransclusions"],"created":"2023-10-09T06:36","updated":"2025-06-08T01:12"}
 ---
 
 
