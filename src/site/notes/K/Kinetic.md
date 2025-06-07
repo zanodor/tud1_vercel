@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kinetic/","title":"Kinetic","created":"2024-11-23T05:18","updated":"2025-05-03T09:30"}
+{"dg-publish":true,"permalink":"/K/Kinetic/","title":"Kinetic","created":"2024-11-23T05:18","updated":"2025-06-08T01:02"}
 ---
 
 
@@ -16,7 +16,7 @@ A helyzet az, hogy a görög szavakról tudjuk, hogy sok közülük a mitológia
 Aztán ezen kentao illetve igepárjai (`kíne` = űz, hajt, ösztönöz ill. `kentein` = kényszerít) előkerülnek [[C/Centre\|centre]] címnél is. De hasonló szó még a [[C/Cant\|cant]] címnél előjövő hellén-latin `kantharos`-`cantharus`, stb. Mindezen szavak visszavezethetők egyszerűen [[K/Kantár\|kantár]] szavunkra, mely a ló két oldalról végzett irányítására, ösztökélésre használatos (innen két fogantyújú a `kantharos` ivóedény is). De hasonló szó még a `gantár` (melyet lásd [[G/Gantry\|gantry]]) és ki tudja hány más magyar és utódnyelvi szó tevődik ki két olyan fontos alapszóból, mint a [[K/KAN\|KAN]] (és párjai) és [[T/TÁR\|TÁR]] (és párjai).  
 Ergo a kentaur, Kende, kínoz, stb. szavakban a közös, hogy a kún-hun nyelvben a legfontosabb bolygó, a Nap neve K-N vázú, de a Hold neve is lehet ez (lásd sumér és (ó)finn példát [[K/KUN\|KUN]]). Minden mozgás, ösztökélés, hajtás, az égre vonatkoztatható. Az alábbiakban erről is lesz szó.  
 
-[[C/Contra-\|Contra-]] és [[C/Centre\|centre]] szavaknál volt szó a [[K/Kontár\|kontár]] szavunkról: ami e szót illeti, mai jelentését biztosan meg kellett előzze egy ősvallásbeli jelentése, hisz Kon-Tár felbontásban utótagja Csillag. CzF adata szerint a konta a csonka fogalmát takarja, mely utalhat eltakarásra ([[A/Apocalypse\|apocalypse]]). A csonkaságról, [[S/Suta\|suta]]ságról, [[S/Sutúl\|sutúl]]ásról [[K/Kutya\|kutya]] és [[C/Circumcision\|circumcision]] szavaknál is szó volt.  
+[[C/Contra-\|Contra-]] és [[C/Centre\|centre]] szavaknál volt szó a [[K/Kontár\|kontár]] szavunkról: ami e szót illeti, mai jelentését biztosan meg kellett előzze egy ősvallásbeli jelentése, hisz Kon-Tár felbontásban utótagja Csillag. CzF adata szerint a konta a csonka fogalmát takarja, mely utalhat eltakarásra ([[A/Apocalypse\|apocalypse]]). A csonkaságról, [[S/Suta\|suta]]ságról, [[S/Suta#Sutúl\|sutúl]]ásról [[K/Kutya\|kutya]] és [[C/Circumcision\|circumcision]] szavaknál is szó volt.  
 Érdekesebb itt még a görög `kinein` és `kentein` szavakkal párosítható (CzF adata):
 > KONTAT  
 > (kon-tat) áth. és mivelt m. kontat-tam, ~tál, ~ott, par. kontass. Valamire sürget, izgat, ösztönöz valakit, különösen ellentállásra, roszra, tehát: bujtogat, bőszít, mintegy konokít. Alakjára és képzésére épen olyan, mint vontat, untat, a von és un törzsöktől. A kontat törzsöke kon; tiszta gyöke lehet a menést, mozgást jelentő on, melyből ered onszol v. onzol, azaz menésre sürget, ösztönöz; átvetve: noszol, nógat; ugyanazon értelmü: unszol vagy onszol és ontat. Ez utólsó k előtétellel lett: kontat, melyben a k nak ,görbe' mintegy ellenszegülő jelentése lényeges részt veszen; V. ö. KONOK.
