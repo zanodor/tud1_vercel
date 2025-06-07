@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tő/","title":"Tő","created":"2024-02-13T17:13","updated":"2024-10-26T00:38"}
+{"dg-publish":true,"permalink":"/T/Tő/","title":"Tő","created":"2024-02-13T17:13","updated":"2025-06-07T18:54"}
 ---
 
 
