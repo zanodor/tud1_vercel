@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tükör/","title":"Tükör","created":"2024-05-01T14:30","updated":"2025-06-02T01:02"}
+{"dg-publish":true,"permalink":"/T/Tükör/","title":"Tükör","created":"2024-05-01T14:30","updated":"2025-06-07T18:59"}
 ---
 
 
