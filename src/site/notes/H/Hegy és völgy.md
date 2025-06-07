@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2025-05-03T11:02"}
+{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2025-06-08T00:44"}
 ---
 
 
@@ -109,6 +109,6 @@ Lásd még [[F/Fehér és fekete#Fehér és fekete hegy\|fehér és fekete hegy]
 
 Szóba került [[K/Kövér és sovány\|kövér és sovány]] címnél is, minthogy ami egyszer szinusz-görbeként, másszor [[L/Lemniszkáta\|lemniszkáta]]ként vizsgálható.  
 
-Lásd még [[K/Kebel és öböl\|kebel és öböl]].  
-Hegy és völgy kapcsán is taglalt v-alakról lásd [[L/L-alak\|L-alak]].  
+Lásd még [[K/Kebel#Kebel és öböl\|kebel és öböl]].  
+Hegy és völgy kapcsán is taglalt v-alakról lásd [[L/L#L-alak\|L-alak]].  
 [[P/Pina#Női és hím nemi részek hasonló szóalakjai\|Női és hím nemi részek hasonló szóalakjai]] cím/alcímnél volt szó a női és hím nemi részek hegy és völgy alakjáról.  
