@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gulya/","title":"Gulya","created":"2024-05-07T18:36","updated":"2024-10-25T19:09"}
+{"dg-publish":true,"permalink":"/G/Gulya/","title":"Gulya","created":"2024-05-07T18:36","updated":"2025-06-08T00:43"}
 ---
 
 
