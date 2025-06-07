@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Meta/","title":"Meta","created":"2024-04-20T11:55","updated":"2025-06-08T01:15"}
+{"dg-publish":true,"permalink":"/M/Meta/","title":"Meta","created":"2024-04-20T11:55","updated":"2025-06-08T01:16"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 #### Péterfai János írja:  
 
-> A [[M/MATA\|Mata]] a magyarok neve is lehet, Nagy, Hatalmas értelemmel. A portugálok a Mata szóhoz a "gyilkos" fogalmat is társítják. A "matamata" nevű brazíliai hal neve gyilkost jelent. A spanyoloknál a Matador a bika leölője. Mata-Hari híres kémnő is viseli a nevet. De Mata-Trón angyal neve Hatalmas-Trón értelmű, ő is a magyarok védnöke. A Mata változata a Meta (görög), a Mada (magyar), a Matu (magyar és akkád), és még sok variáns.  
+> A [[M/MATA\|Mata]] a magyarok neve is lehet, Nagy, Hatalmas értelemmel. A portugálok a `Mata` szóhoz a "gyilkos" fogalmat is társítják. A "matamata" nevű brazíliai hal neve gyilkost jelent. A spanyoloknál a Matador a bika leölője. Mata-Hari híres kémnő is viseli a nevet. De Mata-Trón angyal neve Hatalmas-Trón értelmű, ő is a magyarok védnöke. A Mata változata a Meta (görög), a Mada (magyar), a Matu (magyar és akkád), és még sok variáns.  
 
 #### Magyar Adorján...
 
