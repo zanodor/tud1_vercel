@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sétanta/","title":"Sétanta","tags":["Englishtexttranslated"],"created":"2023-11-21T12:44","updated":"2025-05-23T19:19"}
+{"dg-publish":true,"permalink":"/S/Sétanta/","title":"Sétanta","tags":["Englishtexttranslated"],"created":"2023-11-21T12:44","updated":"2025-06-07T19:14"}
 ---
 
 
