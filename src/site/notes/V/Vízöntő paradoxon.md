@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vízöntő paradoxon/","title":"Vízöntő paradoxon","created":"2024-12-18T07:42","updated":"2024-12-18T07:42"}
+{"dg-publish":true,"permalink":"/V/Vízöntő paradoxon/","title":"Vízöntő paradoxon","created":"2024-12-18T07:42","updated":"2025-06-07T18:51"}
 ---
 
 
