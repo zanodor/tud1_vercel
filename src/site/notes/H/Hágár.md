@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hágár/","title":"Hágár","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-14T00:03","updated":"2025-03-17T21:51"}
+{"dg-publish":true,"permalink":"/H/Hágár/","title":"Hágár","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-14T00:03","updated":"2025-06-07T23:31"}
 ---
 
 
@@ -42,29 +42,29 @@ A szöveg:
 
 > A hungár név eltűnését legfőképpen a nyelvi szakosodással járó tükörfordítások, no meg a torzulás, - az NG hangpárossal való birkózás – számlájára írhatjuk. De ide vezetett a régi írások, G előtt jelöletlen N hangja is. \[Ez éppen igaz.\] Ennek folytán a Hungár már nagyon régen Haggar/Aggar, majd Hagar/Agar/Ogor stb. alakot öltött, megegyezve a bibliai Hágár/Ágár ősanya nevével.  
 > Több szálon is [[T/Történelemhamisítás\|történelemhamisítás]] szagú, a bibliai Hágárhoz fűződő 4000 éves kapcsolatunk emlékének eltörlése. Szerencsére a messziről érkezett zsidóság tudva róla, életben tartotta származásunk emlékét, és a középkorban Hungár szinonimájaként használták ránk Hágár ősanya nevét. Az adatokat 1881-ben közlő Kohn Sámuel rabbi szerint azonban, e szokás egy korai tévedésre vezethető vissza.  
-> 
+>
 > Kohn Sámuel, Héber kútforrások és adatok Magyarország történetéhez, (1881) 158. o.:  
 > "Hagar pedig, mely a szent-irásban többször mint népnek neve fordul elő, annál inkább kínálkozott Magyarország számára, mivel a szent-írás kaldeus fordítása, e szót két helyütt határozottan így fordítja: Hungróé."  
 > Némāti Kálmán, A Nimród-elmélet fölfedezett ismeretforrása, (Bp, 1912) 6. o. "a héber Hagrim, azaz Hágárok helyett, magában a többnyelvű Sz. Biblia zsoltárainak meg I. Krónikáinak chald fordításaiban, úgyszintén a Wilkins féle, s Beck-féle Targum kiadásokban Hongroe, azaz Hungárok olvasható."  
-> 
+>
 > Bár a Hágár névnek a Hongroe formával az ókori Bibliában két ízben történt egyeztetését elismerte, de ezt olyan korai elírásnak ítélte, amelyből a középkori zsidóság is tévesen következtetett a Hágár és a Hungár nevek közti azonosságra. A 2009-ben megjelent Hágár országa című könyv szintén ezt a véleményt sulykolja, de mivel több irányból jövő történelmi és nyelvi adat igazolja az egyeztetés helyességét, így a Hágár és a Hungár nevek azonossága által, 4000 éves múltunk bizonyítéka került elő! Vegyük sorra az egyezés további bizonyítékait!  
 > 1\. Nem csupán a héber, de a középkori keresztény források is (h)Agar-enusnak ([[A/Agarénus\|agarénus]]) ismertek minket.  
-> 
+>
 > 2\. A Hágár név héber Futó jelentése[^1] összecseng a népnevünkkel egyező görög `Angaros` = lovasfutár (lovas Futó) szóval.  
 - Viszont itt ne feledjük el, hogy az [[A/Agár\|agár]] is jó futó és a lentebb szóba kerülő Khonsu is lehet [[K/Kanca\|Kanca]], mely lehet Tejút- és Holdállat. Hágár tehát vélhetően Tejút-állatnév és lehet a Szíriusz neve is.  
 
 > 3\. Egyik hitelesítő bizonyítéknak tekinthető, hogy a keleti Hágár/Agrei névnek is volt két GG-s írott változata, aminek NG azaz Angrei/Hangrei a helyes olvasata. Épp úgy, mint a görög `angaros` = lovasfutárnak az írott aggaros formája.  
 > ![assets/Hágár_image1.png|invert_dark](/img/user/H/assets/H%C3%A1g%C3%A1r_image1.png)  
-> 
+>
 > 4\. A másik meggyőző bizonyíték, hogy régen keleten, a Hágárnak valóban szinonimája volt a Magyar. Ugyanis a régi történetíróknál az arábiai Agarenus/Hagarenus népet, néhol el-MAGAR-IN néven is említették, ráadásul az örmények, VIII. sz.-i Hágár-fi (Szaracén) hódítóikat nem tartották semita népnek![^2]  
 > ![assets/Hágár_image2.png|invert_dark](/img/user/H/assets/H%C3%A1g%C3%A1r_image2.png)  
-> 
+>
 > 5\. Hágár és Hungár nevek egyezését a XII. sz-i hivatalos magyar állami használat is bizonyítja! II. Géza királyi pecsétjén, kb. 1160, országunk neve Hugarie felirattal látható[^3]!  
-> 
+>
 > Továbbá a Gesta Ungarorum bécsi kéziratában "HUGARII," ... a VII.sz-i Szent Isidornál "UGRIOS," ... Georgikosz Monachosz Világtörténelmében, görög nyelven két GG-vel "OUGGRI," ... és az ebből merítő Nesztornál szláv módra már "UGRI," ... Teofülaktosz Szimokattánál "OUGOR" formában áll népnevünk.
-> 
+>
 > ![assets/Hágár_image3.png|invert_dark](/img/user/H/assets/H%C3%A1g%C3%A1r_image3.png)  
-> 
+>
 > 6\. A bibliai Hágár mitikus alakján hold-jelleg csillog. Hágárt ugyanis a babiloni Sin holdistennel azonosították, ezért az arábiai Sinai hegyet (azaz Hold-hegyet) egykor Hágár néven ismerték[^4]. A késői arab preiszlám hagyományokban Hagar-Kaham néven, már férfi holdistenként találjuk.  
 
 > A római Ioannes Franciscus 1557-ben készült térképén a szentföldi helynevekről készült képen valóban látszik, miről beszél Bognár Ferenc. A kinagyított részlet jobb oldali oszlopának második bekezdése:  
@@ -72,12 +72,12 @@ A szöveg:
 - Ez [alábbi](https://www.raremaps.com/gallery/detail/24738/palestinae-sive-terre-sancte-descriptio-mdlvii-franciscus) oldalról való az általam szerzett kép(részlet).
 
 > 7\. A bibliai Hágár, zsidó és arab források szerint [[N/Nimrud\|Nimród]] ősapánktól származott, mi által közvetlenül is becsatlakozik krónikáink genealógiájába!  
-> 
+>
 > Tudósaink tehát Kohn Sámuel rabbi közléséből elfogadták az "ókori tévedés tényét," és lezárva az ügyet, Hungár népnevünk Ábrahám korára vonatkozó, kora-középkori szövegkörnyezetben való előfordulását, vizsgálat nélkül hagyták.
-> 
+>
 > Vétkes mulasztás, hiszen Némäti Kálmán már 1912-ben felfedezte, hogy az arabok ősanyjaként "egyiptomi szolgálónak" lefestett Hágár, egy Nimródtól származó királylány volt:  
 > ![assets/Hágár_image4.png|invert_dark](/img/user/H/assets/H%C3%A1g%C3%A1r_image4.png)  
-> 
+>
 > "A többnyelvű Szentbibliában sikerült felkutatnom a fényképen ide mellékelt Nimród-okmányt, melyet Jonathan ben Uziel, a Kr.u. VII. században összegyűjtött, régi zsidórabbi följegyzések alapján chald nyelven szerkesztett, ami hangtanilag meg jelentéstanilag dr. Krauss Samu rabbiképző tanár szives oktatása nyomán így szól:  
 > ..."És nem lesz szükségünk fiára Hágárnak, aki leánya Fáraonak, aki fia Nimródnak.""  
 > Bognár Ferenc természetesen Hágárt maga is élő, történelmi személynek veszi:  
@@ -86,9 +86,9 @@ A szöveg:
 
 Itt jön az a rész, ahol Bognár Ferenc felismeri, hogy [[K/Konc\|Konc]]-Honszu ([[K/Kanca\|Kanca]]) holdisten azonos lehet Hungár/Hágárral de sajnos azt nem látja be, hogy nem valós személyről van szó (csak a lényeg kerüljön ide):  
 > 8\. Nagy veszteségünkre az Egyiptom történelmével foglalkozó írások nem ismerik Hágár (a Futó, máshol a Vándor) személyét! Nagy szerencsére viszont említenek egy másik Futó holdistent, az időnként sólyomfejjel ábrázolt Honsu-t, Chonsu/Khonsu formával is! (Mezopotámiában Sin, és megfordítva Ensi és Inzu néven is.)  
-> 
+>
 > Feltűnő egyezéssel, e Honsu tehát szintén épp úgy egyiptomi és Futó, meg holdisten, ahogy Hágár is!  
-> 
+>
 > Hágárról a Bibliában, a Hagarenus/Agarenus népe elleni harcot kivéve, gyakorlatilag megszűnnek a hírek. Eltűnése ellenére jelentős karriert futott be az arab kultúrkörben, mellesleg jó példát adva az isten utáni névadásból. Nevét arabul még HAGIR, HAJAR és HADJARA, latin nyelvterületen HADZSAR leirattal adják meg. Itt az arab `HAGAR` = falu[^6] jelentés alapján, a Hadzsar alak testvérének vehetőek a héber "major, tanya," = `HASZAR`, meg a `HACEROT` = "majorság," szavak.  
 > Kánaán 5000 éves hágári hold-tiszteletének emlékeit régészek tárták fel, a róla elnevezett Hacor/Hazor/Khazor/Kazor/Chazor, ősi királyi főváros romjaiból[^7]. Ezt megerősítően, a görög források Kánaánt [[I/Io\|Io]] holdanya földjének tartották[^8].  
 > (Itt is előkerül a nyelvtörténeti átpolarizálódás, mert a holdfőváros Hacor nevéből képzett "hacorita/ haszarita" változat, később, a félművelt-félnomád népréteg jelölője lett.)  
@@ -101,11 +101,11 @@ Bognár Ferenc ezen cikkében még görög vadászt (`ágreusz`) jelentő szób�
 Bognár Ferenc azt írja, hogy a görög nyelvű biblikus szüvegek Hágárt Agarnak írják és Izmael `agroikosz` = vad(ember) jelzőjét is ezen szótörzsből adják ki, rámutatva az összefüggésre.  
 
 > #### Bognár Ferenc Nimrudi hagyományunk Boldogasszony-tisztelete, és Fekete Madonnái...
-> 
+>
 > ...című cikkében, valamint Az Életfa csillag-gyökerei c. az Ősi Gyökér 2008/3-4. sz. megjelent cikkében hasonló adatokat felvonultatva írja:  
 > Hagar-ország, az új-héberben Magyarország elnevezése, innen hagri annyi, mint magyar. (Lásd a Héber kútforrások című műre támaszkodó Révai Lexikon, Hagar-ország címszavát!)  
 > - A bibliai Hágár – [[I/Izmael\|Izmael]] rokonság adata tehát, a középkori Magyarországon valósággá vált, a magyar-jászok esetével.
-> 
+>
 > `Hágár` héber jelentése vándor. Ezzel újra csak lényegi adat-egyezés került elő, a jász-filiszteusok, a parthusok, a metanasta jazygok és a magyarok között.  
 > Honnan ered ered hagar népnevünk?  
 > Az ősi Arábiából! Horvát Istvánt a tudós világ őrültnek tartotta végkövetkeztetéseiért, melyben a bibliai históriákat magyari népek őstörténetének látta. Mi itt erről nem ítélkezünk, pusztán az oklevelekből és külföldi történetírókból nyert adataira támaszkodva vizsgálódunk. Hitelesnek tekintjük külföldi leírásokból hozott adatait, mert minden esetben pontosan idézi a hozott szöveget, vagy megjelöli a források konkrét helyét, amivel tehát elődei adatgyűjtésére épít. Ő még annak a régimódi tudósvilágnak volt képviselője, aki hajlandó lett latinul és görögül megtanulni, hogy eredetiben olvashassa a régi forrásokat.  
@@ -139,7 +139,7 @@ A H igen hasonlít az M betűhöz is, és éppen a sémi nyelvekben ugyanolyan j
 Agar is lehetne a Magar változata. Sőt, agar azonos lehet az [[A/Agár\|agár]]ral, mely címnél más, sz-előhangos vadászkutya (agár) jelentésű szavak is előjöttek. Az [[A/Agár\|agár]] és Hágár is lehet a Szíriusz neve, ahogy [[H/Hungár\|hungár]]-[[H/Hunter\|hunter]] is tartalmazza Szíriuszt. Aztán a Szíriuszból lett Hold (Bognár Ferenc erre nem jöhetett rá).  
 A másik, hogy a Hagar maga [[H/Hungár\|hungár]] változata is lehetne; erre csap le a Wikipédia is, mikor hitelteleníteni akarja a magyar szófejtőket és "vissza akarja fogni az agarakat":  
 > A középkori zsidó irodalomtól kezdve létezik egy különös kapcsolat Magyarország és Hágár között. A diaszpórában, azaz a Szentföldtől távol élő zsidó közösségekben szokássá vált, hogy az egyes népeket, országokat egy olyan bibliai alakról nevezzék el, akinek a neve hangzásban hasonlít az adott ország nevére. Magyarország nemzetközi elnevezése, a Hungaria hasonlít Hágár nevére, a középkori zsidó irodalomban ezért többször is úgy utalnak Magyarországra mint Hágár földjére.  
-> 
+>
 > A 19. század végén elterjedt egy elmélet, miszerint Magyarország mindezek mellett azért kapta nevét Ábrahám második feleségéről, mert a zsidóság ezzel akart utalni a magyar törzsek keleti származására is. Hágárra a zsidóság az arabok ősanyjaként tekint, akiket szintén keleti népnek tartanak.  
 
 Egyébiránt az is stimmelne, hogy Magyarország valamiféleképpen anyaországnak minősül, hiszen ([[M/Mother\|mother]], `mutter`, [[M/Mater\|mater]], `modar`, `madre` = [[M/Magyar\|magyar]]) az is. Bognár Ferenc is felveti:  
