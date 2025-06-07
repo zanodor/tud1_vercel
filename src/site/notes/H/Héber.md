@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2025-05-29T14:35"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2025-06-08T00:44"}
 ---
 
 
