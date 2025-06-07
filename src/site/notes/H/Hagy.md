@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hagy/","title":"Hagy","tags":["Englishtexttranslated"],"created":"2024-11-09T01:30","updated":"2024-11-23T05:08"}
+{"dg-publish":true,"permalink":"/H/Hagy/","title":"Hagy","tags":["Englishtexttranslated"],"created":"2024-11-09T01:30","updated":"2025-06-08T00:43"}
 ---
 
 
