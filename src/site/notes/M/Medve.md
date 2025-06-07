@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2024-10-25T23:24"}
+{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2025-06-08T01:14"}
 ---
 
 
