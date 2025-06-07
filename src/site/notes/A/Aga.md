@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aga/","title":"Aga","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2023-10-25T05:48","updated":"2024-10-22T21:40"}
+{"dg-publish":true,"permalink":"/A/Aga/","title":"Aga","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2023-10-25T05:48","updated":"2025-06-07T18:45"}
 ---
 
 
@@ -26,11 +26,11 @@ Gondolom van, aki [[A/Agg\|agg]] szavunkból vagy [[A/Ág\|ág]]/ágas/ák/ákos
 #### Magyar Adorján írja:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/e/eg/#yttfyb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/E/Ég/#yttfyb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-> A Csodaszarvas tulajdonképen "fényes" vagy "ragyogó szarvast" jelent valamint kimutattuk mindezeknek az Éggel és tűzzel való összefüggését is. Nos pedig a magyarban nem az ág (fa ága) szóval azonos alakú Ég (mennyég) szó jelent-e égést, azaz tehát tüzet is? Nem a legtöbb nép ősvallása szerint az Ég-e a tűz és világosság ősfészke? Nem meglepetve értjük-e meg ezek után a latin `ignum`, szláv `ogany` tűz szavakat és az indiai mitológia [[A/Agni\|Agni]] tűzistene nevét?  
+> A Csodaszarvas tulajdonképen "fényes" vagy "ragyogó szarvast" jelent valamint kimutattuk mindezeknek az Éggel és tűzzel való összefüggését is. Nos pedig a magyarban nem az [[A/Ág\|ág]] (fa ága) szóval azonos alakú ég (mennyég) szó jelent-e égést, azaz tehát tüzet is? Nem a legtöbb nép ősvallása szerint az Ég-e a tűz és világosság ősfészke? Nem meglepetve értjük-e meg ezek után a latin `ignum`, szláv `ogany` tűz szavakat és az indiai mitológia [[A/Agni\|Agni]] tűzistene nevét?  
 > Valamint ha tudjuk hogy a nagy Ég-Istent a magyar Úr-nak is nevezi, nem kell-e elcsodálkoznunk azon, hogy a latinban is `urere` = égni és [[U/Uránia\|Urania]], [[U/Uránosz\|Uranosz]] az Ég megszemélyesítői? Csak véletlen egyezések-e mindezek? Nem! Mert hiszen még a törökben is `aga` = úr és apa, ami az indiai Agni-t, a magyar [[E/Ég\|ég]] igét, Ég főnevet és az említett ősmagyar ágos/[[A/Ágas\|ágas]] = szarvas szót juttatja eszünkbe, amely utóbbi a Csodaszarvas neve is volt.  
 > \[...\]  
 > A görög nyelvben `aga` = csodálatos, csodás, `age` = csodálat, megbámulás, `agetosz` = fenséges, csodás, `agla` = fényesség, ragyogás, fenségesség, `aksziosz`, `akszion` = érdemes, tisztelet, a latinban `augustus` = fenséges, fennkölt, szent, tiszteletre méltó. Mindezen jelzők pedig a világ minden népénél elsősorban is a legfőbb istenség jelzői, sőt annak neveiként is szerepelnek, amely legfőbb istenség pedig vagy a fényességes Égben lakónak vagy egyenesen ezzel azonosnak tekintetik, sőt az Ég szó vagy "az Ég" mondás alatt a magyarban egyenesen az Istent értjük ma is. 
