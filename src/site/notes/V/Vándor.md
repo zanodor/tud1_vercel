@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vándor/","title":"Vándor","tags":["Englishtexttranslated"],"created":"2023-10-20T10:10","updated":"2024-10-26T00:46"}
+{"dg-publish":true,"permalink":"/V/Vándor/","title":"Vándor","tags":["Englishtexttranslated"],"created":"2023-10-20T10:10","updated":"2025-06-07T18:49"}
 ---
 
 
