@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mikulás/","title":"Mikulás","tags":["containstransclusions"],"created":"2023-11-03T12:28","updated":"2024-10-25T23:29"}
+{"dg-publish":true,"permalink":"/M/Mikulás/","title":"Mikulás","tags":["containstransclusions"],"created":"2023-11-03T12:28","updated":"2025-06-08T01:35"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 ...című könyvében írja ([[U/Újév\|újév]] címnél is szerepelt; bevezetést lásd [[T/Téli napforduló\|téli napforduló]] alján):  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/u/ujev/#y1o6w9" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/U/Újév/#y1o6w9" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -47,7 +47,7 @@ Gondolom a szóalakra szlávot mondanak és valóban van is egy Mikulaskova nev�
 
 ...című könyvében szintén tesz utalást a rénszarvasokra és a Mikulásra ([[S/Suhurmasku\|Suhurmasku]] címnél angolul is szerepelt, tehát itt már csak magyarul adom):  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/s/szarvas/#dp592h" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/S/Szarvas/#dp592h" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
