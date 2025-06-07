@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar népművészet/","title":"Magyar népművészet","tags":["Englishtexttranslated"],"created":"2024-05-14T12:18","updated":"2025-04-26T14:43"}
+{"dg-publish":true,"permalink":"/M/Magyar népművészet/","title":"Magyar népművészet","tags":["Englishtexttranslated"],"created":"2024-05-14T12:18","updated":"2025-06-08T01:10"}
 ---
 
 
