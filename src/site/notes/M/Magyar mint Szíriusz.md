@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:48","updated":"2024-10-25T22:40"}
+{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:48","updated":"2025-06-08T01:09"}
 ---
 
 
@@ -21,7 +21,7 @@ Akkor most a csillagé a név? Kovács cikkének neve Stella Hungarorum (Ősi Gy
 <br/>6\. Daniel Schwemer Storm gods of the ancient Near East című cikkében, ahol párban Seris és Mágiru nevű bikák (Napok, csillagok) jönnek elő (lásd anyagát [[M/Magiru\|Magiru]]), nos, ebből arra lehetne következtetni, hogy szemben álló felekről van szó. Hiszen a másutt Siris-ként is előjövő Szíriusz nem lehetne Mágiru is.  
 <br/>7\. És akkor mire véljük az alábbiakat. Dogura Magura egy japán könyv alapján készült film címe. [Ezen](https://www.themodernnovel.org/asia/other-asia/japan/kyusaku-yumeno/dogra-magra/) oldalon olvassuk:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/m/magura/#gvu9bs" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Magura/#gvu9bs" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -35,7 +35,7 @@ Akkor most a csillagé a név? Kovács cikkének neve Stella Hungarorum (Ősi Gy
 - A név a Dog-gal és Magur-ral (ahol Mag- varázslásra is utalhat) így együtt megdöbbentő.  
 Craig Conley: Magic Words: A Dictionary című könyvének 147. oldalán is említésre kerül. Amit ír:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/m/magura/#s0exil" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Magura/#s0exil" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -63,7 +63,7 @@ Közben csak jelzem, hogy a melléknévként szintén boldogat jelentő szanszkr
 Számomra úgy tűnik, hogy egyrészt a Tejútanya/szuka [[M/Magyar\|Magyar]] neve és [[M/Magur\|Magur]] Nap karácsonyi (Szíriusz által [[B/Betlehemi csillag\|Betlehemi csillag]]ként is beharangozott) újjászületésével járó ünnephez kapcsolt csillagmítoszi maradványok azok, amiket itt összekapartunk. Ami a félelmet jelentő szavakat illeti, vélhetően az asszír-babiloni [[M/Magru\|magru]] származékai: ilyenkor, az év végét baljósnak is tekintették.  
 [[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]] címnél esett szó az öt epagomenális napról, Szíriusszal kapcsolatban:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/s/sziriusz-es-a-nyil/#lbseo8" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/S/Szíriusz és a nyíl/#lbseo8" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
