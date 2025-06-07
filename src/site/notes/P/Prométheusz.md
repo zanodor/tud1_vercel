@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Prométheusz/","title":"Prométheusz","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-04-28T14:02","updated":"2025-04-28T14:03"}
+{"dg-publish":true,"permalink":"/P/Prométheusz/","title":"Prométheusz","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-04-28T14:02","updated":"2025-06-08T01:45"}
 ---
 
 
