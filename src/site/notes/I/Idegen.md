@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Idegen/","title":"Idegen","created":"2023-10-20T10:02","updated":"2024-10-25T21:54"}
+{"dg-publish":true,"permalink":"/I/Idegen/","title":"Idegen","created":"2023-10-20T10:02","updated":"2025-06-08T00:45"}
 ---
 
 
