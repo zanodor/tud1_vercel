@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Apocatastasis/","title":"Apocatastasis","tags":["Englishtexttranslated"],"created":"2025-03-13T03:13","updated":"2025-03-13T03:14"}
+{"dg-publish":true,"permalink":"/A/Apocatastasis/","title":"Apocatastasis","tags":["Englishtexttranslated"],"created":"2025-03-13T03:13","updated":"2025-06-07T18:47"}
 ---
 
 
@@ -17,7 +17,7 @@ Két definíciója szerint:
 > —  
 > • Minden dolog végső helyreállítása a Messiás megjelenésekor, ezt a gondolatot Origenész (185-254) kiterjesztette minden teremtett lény végső megtérésére és megváltására, az ördög és angyalai kivételével (teológia).
 > • A korábbi vagy normális állapotba való visszatérés folyamata (orvostudomány).
-> Eredet: görög `apokatastasis`, ahol `apo-` =  újra, vissza, és `katastasis` = alap, település
+> Eredet: görög `apokatastasis`, ahol `apo-` = újra, vissza, és `katastasis` = alap, település
 
 Az [[A/Apo- prefixum\|apo- prefixum]] és [[C/Cata- prefixum\|cata- prefixum]] címnél taglalt előtagokról volt szó, utótagja a görög `stasis` = állás, megállás, szünet; melléknévi formája `statikos` = statikus.  
 **Magyar Adorján adata szerint viszont `katasztein` = meghalni. Ezt az (alapállapot a halál?) irányt a nyelvészet nem vizsgálja**?! (Aczél Józsefnél is a görög szten- gyök töm, megsirat jelentéssel adatolt (`temet` szavunkat teszi mellé).)  
@@ -31,7 +31,7 @@ Másrészt belső fejlődésű görög szóról is van szó.
 > A legrészletesebb emlék Platón elbeszélése (Timaiosz), melyben Szuchisz, [[S/Szaisz\|Szaisz]]-Szaj templomának papja, így foglalja össze Szólón számára a világpusztulásokról szóló egyiptomi tudományt:  
 > "Sokszor és sokféle módon pusztultak már el az emberek, leggyakrabban tűz és víz által. Mert az, amit nálatok Phaéthonról, Héliosz fiáról beszélnek: mint szállt fel atyja kocsijára, s miután nem tudta atyja \[a Nap\] útját megtartani, mint égett el minden a Földön, s őt magát villám ölte meg – ez persze úgy hangzik, mint egy mese, de igaz magva az, hogy a Föld körül keringő égitestek mozgása megváltozott, s hogy időnként nagy tűz semmisít meg minden földi lényt... Ti csak egy vízözönről tudtok, holott oly sok előzte már meg..." – A pusztulás azonban felújulással, újrakezdéssel jár együtt, s ez háromszoros vagy háromféle volt és lesz (vagy csak a neve három): nem-duch: az élet megújulása, nem-anch: az Ég megújulása és nem-maszu: a voltak ismétlődései.  
 > E világciklusok azonosak az orphikus **apokatasztaszisz**okkal: az égitestek letérnek pályáikról, s mindent tűz emészt meg a Földön; ekkor áll be az apokatasztaszisz: a csillagok újból olyan együttállásba jutnak, aminőben a világ elején voltak, s a Mindenség élete újrakezdődik.  
-> 
+>
 > A vízözön- és tűzözön-ciklusok tanát megtaláljuk a babiloni hagyományok őrzőjénél, [[B/Berossus\|Berossus]]-nál is: a világ élete "nagy évek" sorozatából áll, melyek mindegyikének megvan a tele és nyara. A tél akkor áll be, midőn a bolygók a Vízöntő vagy a Halak csillagképében találkoznak; a nyár akkor, ha az Oroszlán vagy a Rák jegyében. Minden tél vízözönnel kezdődik, minden nyár tűzözönnel. Ez az egyiptomi-babiloni tanítás később átment a görög természetfilozófiába az időszakos világáradás (`hüdatoszisz`) és világégés (`ekpüroszisz`) formájában. Egymásra következésüket Arisztotelész nagy esztendőnek nevezte, melynek végén a Nap, a Hold és a többi bolygó **visszatér** helyére.  
 
 - Hasonlóan értelmezik Chambers Dictionary-ban a platóni évet is:  
@@ -57,49 +57,49 @@ A [[K/Kronológia\|kronológia]] és más címnél adatokkal jelentkező...
 
 ...című tanulmányában írja:  
 > There exist dozens of ancient cites of a common multiple of the planetary periods as for example Plato tells. This doctrine, called `apokatastasis pantoon`, was based upon the idea that, when the planets return to the same position as at the beginning, everything would repeat itself (van der Waerden, 1952, pp. 129-155), as Eudemos, a pupil of Aristotle tells. From Berossos, Cicero, Seneca, Heraclitus Stoicus, Macrobius, and Nemesius we have similar citations (de Calatay, 1996).  
-> 
+>
 > Plato, Timaeus 39 c-d:  
 > "... and hence they \[humankind\] can scarcely be said to know that their \[i.e. the planets', ed.\] wanderings, being infinite in number and admirable for their variety, make up time. And yet there is no difficulty in seeing that the perfect number of time fulfills the perfect year when all the eight revolutions, having their relative degrees of swiftness, are accomplished together and attain their completion at the same time, measured by the rotation of the same and equally moving" \[i.e. the equator, ed.\].  
-> 
+>
 > Eudemos, Aristotle's disciple at the Lykaion at Athens:  
 > "There is a common multiple of all orbital times, the large year; at its expiration all planets are again in the same place. ... If one believes the Pythagoreans, then I will return also in the future, as everything after its number returns, and I will tell you here again fairy tales, holding this stick in my hand, while you will sit likewise before me. Likewise everything else will repeat itself."  
-> 
+>
 > Marcus Tullius Cicero, Somnium Scipionis, de Rep. VI,24:  
 > "Men usually measure 1 year only by using the return of the sun, thus with only one star; but if however all stars return to the same point from which they started, and repeat in long intervals the same figure of the total sky, then this is called indeed a 'turning year'."  
-> 
+>
 > Macrobius, Somnium Scipionis 2,11,8-11:  
 > "The year that is called 'mundanus' is a true turning-year since it happens by the turning of the entire universe, unfolding over the longest periods of time; ... \[it\] is therefore the end of the Great Year, when all the constellations and all the fixed stars so return from a known place to the very same place, that not a single star is in a place other than the one in which it was when all the others were set into motion from their places."  
-> 
+>
 > Seneca, Questiones naturales III 29,1:  
 > "Berossos, the interpreter of Belus, states that the courses of the planets determine the time of a fire disaster and a flood. A fire on earth will rage if all planets, which move now in different courses, will gather in Cancer, standing still in the same place (of the sky), such that a straight line can pass through all their positions. A flood, however, will come if the same group of planets comes together in Capricorn."  
-> 
+>
 > Heraclitus Stoicus, Quaestiones homericae, 53:  
 > "Some people want the conjunction of the seven planets in one zodiacal sign to be referred to by these words of Homer, and also the universal destruction, whenever this should happen. He (Homer) alludes to the confusion of the universe when he brings together Apollo, i.e. the Sun and Artemis, whom we identify with the Moon, as well as the stars of Aphrodite, Ares, Hermes, and Zeus. In such a way as not to appear to be ignorant, we have to accept this allegory more for its persuasiveness than for its veracity."  
-> 
+>
 > Also, the Christian scholar, Clement of Alexandria, writes of this periodical purification by fire and water, and accuses even Plato and the Greek philosophers of being thieves and having stolen this idea from the Bible.  
 > Clement of Alexandria, Stromateis, V, 1, 9-10:  
 > "Plato also states in like manner that the Earth is purified at certain times by fire and water: 'There have been many destructions ... the biggest ones by fire and water' ...Then, (Plato) speaking of the flood: 'But when the gods purify the Earth by submerging it, those who are in the mountains, cattlemen and shepherds, are saved, while the inhabitants of our cities are carried away to the sea by the rivers.' I have shown in the First Stromateis that the Greek philosophers deserve to be called thieves, for they have taken their main tenets from Moses and their prophets, without any acknowledgement of debt."  
 > —  
 > Több tucat ókori idézet létezik a bolygóperiódusok közös többszöröséről, mint például Platón mondja. Ez az `apokatasztaszisz pantón`-nak nevezett tanítás azon az elképzelésen alapult, hogy amikor a bolygók visszatérnek ugyanabba a helyzetbe, mint a kezdetben, akkor minden megismétli önmagát (van der Waerden, 1952, 129-155. o.), ahogyan azt Eudémosz, Arisztotelész tanítványa mondja. [[B/Berossus\|Berosszosz]]tól, Cicerótól, Senecától, Hérakleitosz Sztoikusztól, Makrobiosztól és Nemesziosztól hasonló idézetekkel rendelkezünk (de Calatay, 1996).  
->   
+>
 > Platón, Timaiosz 39 c-d:
 > "... és ezért aligha mondhatjuk, hogy \[az emberiség\] tudja, hogy \[a bolygók, a szerk.\] vándorlása(ik), amelyek végtelen számúak és változatosságuk miatt csodálatra méltóak, alkotják az időt. És mégsem nehéz belátni, hogy az idő tökéletes száma akkor teljesíti ki a tökéletes évet, amikor mind a nyolc körforgás, a maga relatív gyorsasági fokával együtt teljesedik ki, és ugyanabban az időben ér véget, ugyanazon és egyformán mozgó \[azaz az egyenlítő, a szerk.\] forgása által mérve.  
->   
+>
 > Eudémosz, Arisztotelész tanítványa az athéni Lykaionban:
 > "Van egy közös többszöröse minden keringési időnek, a nagy év, amelynek lejártakor minden bolygó ismét ugyanazon a helyen van. ... Ha az ember hisz a püthagoreusoknak, akkor én is vissza fogok térni a jövőben, mint ahogy mindennek a száma visszatér, és én itt újra meséket fogok nektek mesélni, ezt a botot a kezemben tartva, miközben ti ugyanígy fogtok előttem ülni. Hasonlóképpen minden más is megismétli önmagát."  
->   
+>
 > Marcus Tullius Cicero, Somnium Scipionis, de Rep. VI,24:
 > "Az emberek általában csak a Nap visszatérésével, tehát egyetlen csillaggal mérnek 1 évet; ha azonban minden csillag ugyanoda tér vissza, ahonnan elindult, és hosszú időközönként megismétli a teljes égbolt ugyanazon alakját, akkor ezt valóban 'évfordulónak' nevezik."  
->   
+>
 > Macrobius, Somnium Scipionis 2,11,8-11:
 > "A világinak nevezett év az igazi évfordulat, mivel az egész világegyetem forgása által történik, a leghosszabb időszakok alatt kibontakozva; ... tehát a nagy év vége, amikor az összes csillagkép és az összes állócsillag úgy tér vissza egy ismert helyről ugyanarra a helyre, hogy egyetlen csillag sem áll máshol, mint ahol akkor volt, amikor az összes többi a helyéről mozgásba lendült."  
->   
+>
 > Seneca, Questiones naturales III 29,1:
 > "[[B/Berossus\|Berosszosz]], Belus tolmácsa, azt állítja, hogy a bolygók járása határozza meg a tűzkatasztrófa és az árvíz idejét. A földön akkor fog tűzvész tombolni, ha az összes bolygó, amelyek most különböző pályán mozognak, a Rákba gyűlik, és ugyanazon a helyen (az égbolton) mozdulatlanul áll, úgy, hogy egy egyenes vonal áthaladhat valamennyiük helyzetén. Özönvíz viszont akkor következik be, ha a bolygóknak ugyanaz a csoportja a Bakban gyűlik össze."  
 > —  
 > Hérakleitosz Sztoikus, Quaestiones homericae, 53:
 > "Egyesek azt akarják, hogy Homérosz e szavai a hét bolygó egy állatövi jegyben való együttállására utaljanak, és az egyetemes pusztulásra is, amikor ez megtörténik. Ő (Homérosz) a világegyetem zűrzavarára utal, amikor Apollónt, azaz a Napot és Artemiszt, akit mi a Holddal azonosítunk, valamint Aphrodité, Arész, Hermész és Zeusz csillagait egyesíti. Úgy, hogy ne tűnjünk tudatlanoknak, ezt az allegóriát inkább a meggyőző ereje, mint a valóságtartalma miatt kell elfogadnunk."  
->   
+>
 > A keresztény tudós, Alexandriai Kelemen is ír erről a tűzzel és vízzel történő időszakos megtisztulásról, és még Platónt és a görög filozófusokat is azzal vádolja, hogy tolvajok, és ellopták ezt a gondolatot a Bibliából.  
 > Alexandriai Kelemen, Stromateis, V, 1, 9-10:
 > "Platón is hasonlóképpen állítja, hogy a Földet bizonyos időszakokban tűz és víz tisztítja meg: "Sok pusztulás történt ... a legnagyobbak tűz és víz által" ... Majd (Platón) az özönvízről szólva: "Amikor azonban az istenek a Földet víz alámerítéssel megtisztítják, a hegyekben élők, a marhák és pásztorok megmenekülnek, míg városaink lakóit a folyók a tengerbe sodorják.". Az Első Stromateiszben kimutattam, hogy a görög filozófusok megérdemlik, hogy tolvajoknak nevezzék őket, mert fő tanaikat Mózestől és prófétáiktól vették át, anélkül, hogy az adósságukat elismernék".  
