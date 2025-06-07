@@ -143,10 +143,7 @@ Nyelvi szempontból viszont nagyon is van germán/német jelleg, melyről [ezen]
 ## Germán specifikus szép jelleg
 
 A sötét hajúak közül a magyar Madaras Norbert, a német Modern Talking énekes Thomas Anders, a svájci volt teniszező Roger Federer, a szintén svájci foci kapus Sommer, Rasmus Lauge dán kézilabdázó, Wout van Aert belga kerékpáros, Toto Wolff F1-es csapatfőnök képviseli azt a fajtát (lásd még pl. Siegfried Mazet), ami nem török/iráni jelleg, és nem is a kelta-briton, hanem úgy tűnik, ez a magyar-avar-hun sötét pigmentációjú fajta, nyilván negroid elemekkel?  
-%Egy reklámban szereplő illető (de itt éppen kevésbé sötét hajú ember) arca:  
-![assets/Germán_image1.png](/img/user/G/assets/Germ%C3%A1n_image1.png)
-Czobor Attila raktárvezetőm volt még hasonló kaliber.
-%%  
+  
 
 Jegyezzük itt meg a [[B/Bajor\|bajor]] címnél álló Götz Lászlótól származó sorokat is:  
 > A bajorok valóban az Attila halála utáni Pannónia népötvözetéből kerültek nyugatra, s igen jelentős hun-török elemet foglalnak magukba.  
