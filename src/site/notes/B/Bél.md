@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bél/","title":"Bél","tags":["containstransclusions"],"created":"2024-10-24T16:20","updated":"2024-10-24T16:20"}
+{"dg-publish":true,"permalink":"/B/Bél/","title":"Bél","tags":["containstransclusions"],"created":"2024-10-24T16:20","updated":"2025-06-07T19:49"}
 ---
 
 
@@ -34,7 +34,7 @@ A maja nyelvben `pel` = vagina, mely a [[P/Pina\|pina]] címnél írottakhoz jó
 [[L/Labyrinth\|Labyrinth]] címnél volt szó arról, hogy az anyaméh[^1] az emberi belekhez is hasonlíttatott. Ahogy [[W/Womb\|womb]] címnél is szerepelt, ez a hun-gót nyelvben `guithus` = anyaméh, finnül `kohtu` = méh.  
 Nyilván előbbihez kötődik az angol [[G/Gut\|guts]] = belek jelentése, mely belek valóban a hun nyelvben köteleknek nevezhettek. Érdekes még a [[G/Gőte\|gőte]], melyről a néphit azt tartja, hogy ha az ember megissza, megnő a hasában. Itt a gőte – béka – anyaméh analógiát kell meglátni.  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/u/uterus/#fd5w53" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/U/Uterus/#fd5w53" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
