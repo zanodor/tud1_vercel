@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2025-03-13T03:41"}
+{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2025-06-08T01:01"}
 ---
 
 
