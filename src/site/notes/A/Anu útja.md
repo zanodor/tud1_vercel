@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anu útja/","title":"Anu útja","tags":["Englishtexttranslated"],"created":"2023-10-04T02:42","updated":"2024-10-22T22:13"}
+{"dg-publish":true,"permalink":"/A/Anu útja/","title":"Anu útja","tags":["Englishtexttranslated"],"created":"2023-10-04T02:42","updated":"2025-06-07T18:47"}
 ---
 
 
