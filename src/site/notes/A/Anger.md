@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anger/","title":"Anger","created":"2024-10-27T00:46","updated":"2024-10-27T00:47"}
+{"dg-publish":true,"permalink":"/A/Anger/","title":"Anger","created":"2024-10-27T00:46","updated":"2025-06-07T19:32"}
 ---
 
 
