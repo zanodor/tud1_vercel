@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar istencsalád/","title":"Magyar istencsalád","tags":["Englishtexttranslated"],"created":"2023-11-30T10:05","updated":"2025-03-17T21:51"}
+{"dg-publish":true,"permalink":"/M/Magyar istencsalád/","title":"Magyar istencsalád","tags":["Englishtexttranslated"],"created":"2023-11-30T10:05","updated":"2025-06-08T01:10"}
 ---
 
 
@@ -20,9 +20,7 @@ A régi kínai felfogás szerint a világmindenség két fő princípiuma a [[J/
 > A kereszténységben: az Atyaisten (a termékenyítő tűz erő, csillagképe az Orion, szimbóluma a párduc, a felfelé mutató háromszög); az Anyaisten (az összetartó, befogadó vízerő, csillagképe a Nagy Kutya a Szíriusz csillaggal, szimbóluma a csodaszarvas, a kör, a testet öltött formájának jelképe: a Hold); s a Fiúisten (a kiegyensúlyozó, a Föld elem, szimbóluma: a hétágú Nap, a négyzet, a Turul vagy Sólyom, összevontan pedig a szárnyas Nap, Jézus). Negyedik elem: az Emberben áramló levegő elem. Ősi jelekkel: az Atya az (X), az Anya (☉), és a Fiú (+) az egyenlő szárú kereszt. A három rovásjel összevont ligatúra jelképe pedig a Teljesség: egy körben lévő nyolc ágú csillag. A Lélek szimbóluma pedig az Atyaisten (X) és a Fiúisten (+) rovás jeleinek az összevont ligatúrája együtt: a nyolcágú csillag. Mindet megtaláljuk szimbólumként ma is a templomokban, bár sok pap ma már nem tudja a jelentését.  
 
 Ez a küzdelem nem más, mint az, amit a Szíriuszhoz kapcsolt háború- és szerelem-istennő szerepkörökben is látunk: a küzdelem a szerelmi és háborús csatározásra értendő.  
-Ezek után nem meglepő, hogy a téridőbeli helyre, Nagy Kutya csillagképre utalva előjön ilyen [[N/Nász\|nász]] alakú szó Helena Lehman nevű írónő tollából (aki Bullinger könyvét dolgozta fel több könyvben; az angol szöveg [[S/Szíriusz\|Szíriusz]] címnél található, itt csak a magyar nyelvű fordítást adom):  
-> A denderai zodiákusban a Canis Majorhoz tartozó sólyom külön "Naz Seir" felirattal van ellátva, és a Sirius csillagot jelképezi a Canis Majorban. Egyiptomiul a "Naz" azt jelenti, hogy "Elindult" vagy "Elküldött", míg a "Seir" azt jelenti, hogy "Herceg" vagy "Főnök". Ezért a "Naz Seir" cím azt jelentheti, hogy "küldött herceg". Mivel a "Naz" és a "Zar" egyaránt "Herceget" jelent héberül, a Naz Seir azt is jelentheti, hogy "Hercegek Hercege", ami a királyok Királyának, Jahsuának megfelelő jelzője!  
-- Igen ám, de Jézus nem a Szíriusz, hanem a Nap. Az ilyen zsidó-ezoterikus írókkal vigyázni kell.
+
 
 Mondtam volna itt, hogy a [[K/Küzd\|küzd]] és [[K/Kezd\|kezd]] szavaink is erre a téridőbeli pontra kellene utaljanak, de a kezdet [[S/Szűz csillagkép#Szűz mint kezdet\|Szűz mint kezdet]] cím/alcímnél írottak alapján oda is kapcsolható (csak hogy bonyolódjon a dolog).  
 Ezek után még azt is ki lehet jelenteni, hogy a [[F/Feleség\|feleség]] fogalma is az ég [[F/Fel\|fel]]ezésének helyére utalhat[^2].  
