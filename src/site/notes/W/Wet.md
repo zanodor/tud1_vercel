@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/W/Wet/","title":"Wet","created":"2023-10-25T02:12","updated":"2024-10-26T00:50"}
+{"dg-publish":true,"permalink":"/W/Wet/","title":"Wet","created":"2023-10-25T02:12","updated":"2025-06-07T18:48"}
 ---
 
 
 # Wet
 
-Nedves, vizes. Víz szavunkból, vagy víz okozta vetemedés folytán.  
+Nedves, vizes. [[V/Víz\|Víz]] szavunkból.  
 
 #### Tomory Zsuzsa írja...
 
