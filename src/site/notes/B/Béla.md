@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Béla/","title":"Béla","tags":["containstransclusions"],"created":"2023-12-03T05:04","updated":"2024-10-23T23:33"}
+{"dg-publish":true,"permalink":"/B/Béla/","title":"Béla","tags":["containstransclusions"],"created":"2023-12-03T05:04","updated":"2025-06-07T19:49"}
 ---
 
 
@@ -40,7 +40,7 @@ Többször felmerült, a görög `lykos` = fény és farkas és `leukos` = fehé
 Kan viszont már a Kutyacsillagra is vonatkozik és mindenképp érdekes, hogy a régi szerzők is felfigyeltek arra, a kan/kutya és a fehér értelem keveredik. (Ennek görög analógiája a `leukos` = fehér és `lykos` = farkas.)  
 Az alábbiak egy internetes oldalról szintén erre vonatkozó információt adnak (Sevillai Izidor adatát is használva vélhetően Anne Wright írja):  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/k/kutya/#81sl0u" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/K/Kutya/#81sl0u" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -52,7 +52,7 @@ Az alábbiak egy internetes oldalról szintén erre vonatkozó információt adn
 > Richard Hinckley Allen a Star Names and their Lore című könyvében azt írja, hogy a latinok a görögöktől vették át a Canis-t, néha a Canicula kicsinyítőképzőt a `candens`, ragyogó melléknévvel.  
 > Varro (283. o.) a Szíriuszra utalva azt mondja, hogy signum candens, 'perzselő jel', helyesen 'fehéren izzó'.  
 > **Isidor kapcsolatot lát a latin `canis`, kutya, és a latin `candere`, fényesen ragyogó** szóval:  
-> "A kutyacsillag (canicula Stella), amelyet Szíriusznak is neveznek, a nyári hónapokban az égbolt közepén áll. Amikor a Nap felemelkedik hozzá, és a Nappal együtt áll, a Nap hője megkétszereződik, és a testeket a hő hatására meggyengülnek. Ezért is nevezik erről a csillagról a "kutyanapokat", amikor a tisztulások károsak. 'Kutya' (canis) csillagnak nevezik, mert betegséggel sújtja a testet, vagy lángjának fényessége (candor) miatt, mert olyan fajta, amely látszólag fényesebben ragyog, mint a többi. Állítólag azért nevezték el Szíriusznak, hogy az emberek jobban felismerjék a csillagképet." \[Sevillai Izidor etimológiái, Kr. u. 7. század, 105. o.]  
+> "A kutyacsillag (canicula Stella), amelyet Szíriusznak is neveznek, a nyári hónapokban az égbolt közepén áll. Amikor a Nap felemelkedik hozzá, és a Nappal együtt áll, a Nap hője megkétszereződik, és a testeket a hő hatására meggyengülnek. Ezért is nevezik erről a csillagról a "kutyanapokat", amikor a tisztulások károsak. 'Kutya' (`canis`) csillagnak nevezik, mert betegséggel sújtja a testet, vagy lángjának fényessége (`candor`) miatt, mert olyan fajta, amely látszólag fényesebben ragyog, mint a többi. Állítólag azért nevezték el Szíriusznak, hogy az emberek jobban felismerjék a csillagképet." \[Sevillai Izidor etimológiái, Kr. u. 7. század, 105. o.]  
 
 
 </div></div>
