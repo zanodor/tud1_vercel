@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vált/","title":"Vált","created":"2023-10-10T10:44","updated":"2025-06-07T18:49"}
+{"dg-publish":true,"permalink":"/V/Vált/","title":"Vált","created":"2023-10-10T10:44","updated":"2025-06-07T18:50"}
 ---
 
 
@@ -11,7 +11,7 @@ Megfelel neki [[V/Volt\|volt]] is (és annak [[M/Múlt\|múlt]]), valamint az (�
 
 A kerékpáros körversenyek **Volta** és **Vuelta** nevei is így érthetők meg (persze a latin `volvere` szó nyomán eredőnek veszik, míg a Welt szót külön germán eredetűnek veszik).  
 
-Ilyen vázú ide tehető szavakat Götz László Keleten kél a Nap című könyvének 179-180. oldaláról való táblázatos adatai között találunk ([[P/Pole#Pole 2)\|pole]]) címhez is bekerült:  
+Ilyen vázú ide tehető szavakat Götz László Keleten kél a Nap című könyvének 179-180. oldaláról való táblázatos adatai között találunk ([[P/Pole#Pole 2)\|pole]] címhez is bekerült):  
 
 | német            | latin           | görög        | héber         | asszír          | szumér                      | magyar   |
 | ---------------- | --------------- | ------------ | ------------- | --------------- | --------------------------- | -------- |
