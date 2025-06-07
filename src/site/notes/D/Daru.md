@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Daru/","title":"Daru","created":"2024-12-18T11:51","updated":"2025-05-29T17:36"}
+{"dg-publish":true,"permalink":"/D/Daru/","title":"Daru","created":"2024-12-18T11:51","updated":"2025-06-07T19:53"}
 ---
 
 
