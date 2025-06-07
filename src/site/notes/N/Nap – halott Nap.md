@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2025-05-23T19:19"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2025-06-08T01:15"}
 ---
 
 
@@ -54,7 +54,7 @@ A többi fekete Napisten is Atumhoz hasonlóan a lemenő (illetve a nyári napfo
 ...című könyvében (is) – az óind [[Y/Yama\|Yamá]]hoz hasonlóan – Oziriszt teszi meg halott Napistennek Egyiptomban és fiát, Hóruszt az élőnek:  
 > Példaszerű eset Oziriszé, aki Alsó-Egyiptom ura, gabona- és szőlőisten volt, de a Nílusé is, mivel újjászületése jelképezte a Nílus áradását, halála pedig a folyó leapadását. Mint a halottak fejedelme az [[E/Égi egyenlítő\|égi egyenlítő]] alatti déli égbolton ([[D/Duat\|duat]]: [[A/Alvilág\|alvilág]]) is ő uralkodott, aki az [[O/Orion\|Orion]] csillagképben testesült meg, s ő volt az éjszakai (téli) halott Nap (és a Hold!) egyik megszemélyesítője Egyiptomban.  
 > **Orion a téli napfordulókor, karácsonykor tényleg a "fölkelő Napot hozza" tejútágain. Az Orion csillagkép, melyet a Tejút köt össze valóságosan a túlnan születő Nappal, a napvallásokban jelképesen is a Naphoz kapcsolódik.** Vagy úgy mint "holt" azaz állócsillagzattá vált Ősnap, Nap atya, a halott Nap csillaglelke (ilyen volt Ozirisz), vagy – együttállásban a Nappal – mint napisteni attribútumokkal felruházott csillaghérosz (maga Orion, a bibliai Mózes és Sámson) és -isten (Mithras), vagy annak hordozója (Anubisz, Szent Kristóf).  
-> 
+>
 > Az élő Hórusz (Nap) a "halott" Ozirisz (Orion, deus otiosus) helyett tevékenykedik (mint a [[D/Deszana\|deszana]] és más törzsi napvallásban). Az atya és a fiú egylényegűsége a fáraók "istenségében" is kifejeződik. A fáraó, amíg élt, Hóruszt testesítette meg; amikor elhunyt, Ozirisszá vált. Ez a felfogás – mint Hellaszban – kiterjedt az istenek összes generációjára.  
 
 #### Jankovics Marcell A Nap könyve...
