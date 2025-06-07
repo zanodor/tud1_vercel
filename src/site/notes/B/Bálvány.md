@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2025-03-26T03:15"}
+{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2025-06-07T19:47"}
 ---
 
 
@@ -28,7 +28,7 @@ Majd még ami [[P/Pale\|pale]] és más címhez is tehető lett volna:
 
 Folytatás [[P/Pehlivan\|pehlivan]] címtől átemelve:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/p/pehlivan/#dbfz6s" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/P/Pehlivan/#dbfz6s" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
