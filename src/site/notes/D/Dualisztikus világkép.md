@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dualisztikus világkép/","title":"Dualisztikus világkép","created":"2023-10-13T05:08","updated":"2024-10-25T17:07"}
+{"dg-publish":true,"permalink":"/D/Dualisztikus világkép/","title":"Dualisztikus világkép","created":"2023-10-13T05:08","updated":"2025-06-07T19:52"}
 ---
 
 
