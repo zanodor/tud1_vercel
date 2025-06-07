@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Napmadár/","title":"Napmadár"}
+{"dg-publish":true,"permalink":"/N/Napmadár/","title":"Napmadár","created":"2025-03-05T02:51","updated":"2025-06-08T01:39"}
 ---
 
 
@@ -60,6 +60,7 @@ A Jankovics Marcell A Nap könyve című könyvének szereplő anyag:
 > Az arabok képzeletbeli napmadarának `rukh` ([[A/Anka\|anka]]) a neve, a perzsák `szimurg` (szenmurv, "pávasárkány"; lásd [[S/Szimurgh\|Szimurgh]]) néven ismerik (Zált a szimurg nevelte fel). A hindu Garuda a madarak királya, Visnu hátasa, a Rámájana eposzban "Ráma napszeme" néven szerepel. Ezek a madarak azonban nem feltétlenül magát a Napot szimbolizálják. Ha például a madár a Napot a hátán hordozza, akkor a többi hátashoz hasonlóan a Holdat, esetleg az eget, annak napjárta részét jelképezi, mint Héra [[P/Páva\|pává]]ja (71. rajz).  
 > ![assets/Napmadár_image5.png](/img/user/N/assets/Napmad%C3%A1r_image5.png)  
 - Valóban, a [[P/Páva\|páva]] is napmadár.
+
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
