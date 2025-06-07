@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Page/","title":"Page","created":"2025-04-27T09:54","updated":"2025-04-27T09:55"}
+{"dg-publish":true,"permalink":"/P/Page/","title":"Page","created":"2025-04-27T09:54","updated":"2025-06-08T01:43"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Oldal (könyvnek, legalábbi az angolban). Berzsenyi Dániel a latin `pagus`-t pe-ag-ágy magyar elemekre bontotta, miből én helybe beágyazást értelmezek ki.  
 
-Aczél József említi bal, balog szavainkat, a görög `plágosz` = oldal szó mellett. Az [[L/L vendéghang\|l vendéghang]] kivételével közel jutunk.  
+Aczél József említi bal, balog szavainkat, a görög `plágosz` = oldal szó mellett. Az [[L/L#L vendéghang\|l vendéghang]] kivételével közel jutunk.  
 
 A görög `plágosz` = oldal (késői latinban `plagia`) szóval azonosnak mondható a spanyol [[P/Playa\|playa]] = strand (minthogy a víz oldala a part, mart), egyúttal jegyezzük meg, hogy [[B/Balog\|Balog]] (mellett a Tejút sávja) a két oldalra választó.  
 - Lásd legutóbbi bejegyzést [[P/Play\|play]] címnél is.
