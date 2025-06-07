@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tevő/","title":"Tevő","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-01T10:28","updated":"2025-05-01T10:29"}
+{"dg-publish":true,"permalink":"/T/Tevő/","title":"Tevő","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-01T10:28","updated":"2025-06-07T18:57"}
 ---
 
 
@@ -26,17 +26,17 @@ Az [ezen](https://qr.ae/pGSNml) Quora válaszban taglalt a [[G/God\|God]] név e
 > What is the relationship between Hungarian, Finnish, Estonian and Sami languages? Are they all descended from some ancestral Proto-Uralic language?  
 > If you have a limited mindset and want to ignore/force your limitations with a view to complying with a wider (shall I say global or globalist) agenda, then they will be said to descend from a common root.  
 >
-> A linguist is not trained to think or work outside the confines of his or her limitations, thus findings from his or her work field will be largely hypothetical, or what’s worse based on mathematical/materialistic mindsets in terms of dealing with words that had had a life span of various world ages where materialistic/mathematical approaches were not supposed to be applicable.  
+> A linguist is not trained to think or work outside the confines of his or her limitations, thus findings from his or her work field will be largely hypothetical, or what's worse based on mathematical/materialistic mindsets in terms of dealing with words that had had a life span of various world ages where materialistic/mathematical approaches were not supposed to be applicable.  
 >
-> *"Anatomieren magst du die Sprache, doch nur ihr Kadaver. Geist und Leben entschlüpft flüchtig dem groben Skalpell." (“You may anatomize language, however, its carcass only; spirit and life fleetingly escape the crude scalpel.”)* – Goethe  
+> *"Anatomieren magst du die Sprache, doch nur ihr Kadaver. Geist und Leben entschlüpft flüchtig dem groben Skalpell." ("You may anatomize language, however, its carcass only; spirit and life fleetingly escape the crude scalpel.")* – Goethe  
 >
-> So when we have a word form that is solely examined phonologically (e.g. Greek `theos` and **Zeus**, and Sanskrit `div`) with a view to strengthening ties among a certain group (and as a way to create the phantom race of Indo-Europeans), we don’t have reliable commentators pointing out that these pre-Christian words/names are found in the Americas as well (**Tawa**, creator God of the Hopi “Indians”, for instance), let alone commentators that are independent of Judeo-Christian guidelines and university funding based on the same Judeo-Christian economic/political-religious directives.  
+> So when we have a word form that is solely examined phonologically (e.g. Greek `theos` and **Zeus**, and Sanskrit `div`) with a view to strengthening ties among a certain group (and as a way to create the phantom race of Indo-Europeans), we don't have reliable commentators pointing out that these pre-Christian words/names are found in the Americas as well (**Tawa**, creator God of the Hopi "Indians", for instance), let alone commentators that are independent of Judeo-Christian guidelines and university funding based on the same Judeo-Christian economic/political-religious directives.  
 > Hence all science as well as linguistics is based on what agenda the publishers (or those behind them) seek to fulfill. In other words: money dictates.  
-> 
+>
 > The Hungarian language does have relations with said languages but it is not Uralic. The Hopi word for Creator equals the Hungarian `Tevő` = Maker, Creator[^1]. Hungarian [[T/Tesz\|Tesz]] = Does, Makes = Greek `theos`. A closely related word is Hungarian [[T/Tűz\|Tűz]] = Fire, which is the masculine principle, which is why God is also masculine in so-called Indo-European languages.  
-> So if we compare Hungarian with Old Greek, for instance, we’ll find roughly 10 times more common words than so-called Uralic languages.  
+> So if we compare Hungarian with Old Greek, for instance, we'll find roughly 10 times more common words than so-called Uralic languages.  
 > The question is: who will be interested to carry out these comparisons when he or she cannot expect to be paid good shekel/dollar/Euro for his or her services?  
-> No one outside of “poor” Hungary, I reckon. Hungary whose God was not masculine, but androgynous: Isten.  
+> No one outside of "poor" Hungary, I reckon. Hungary whose God was not masculine, but androgynous: Isten.  
 > —  
 > Mi a kapcsolat a magyar, a finn, az észt és a lapp nyelv között? Mindannyian egy ősi proto-uráli nyelvből származnak?  
 >
@@ -61,4 +61,4 @@ Lehetett volna még a [[D/Dév\|dév]] címnél taglalt finnségi és más nyelv
 [^1]: Lábjegyzet:  
 The Aztec name for God is [[T/Teotl\|Teotl]], where -tl is a word ending or noun suffix. Teo = Tev again, ladies and gentlemen. Tev = Ten (where Ten in Isten is the infinitive of Tesz and Tev).  
 —  
-Az azték Isten neve [[T/Teotl\|Teotl]], ahol a -tl egy szóvégződés vagy főnévképző. Teo = Tev ismét, hölgyeim és uraim. Tev = Ten (ahol az Istenben lévő Ten a Tesz és a Tev infinitivusa). 
+Az azték Isten neve [[T/Teotl\|Teotl]], ahol a -tl egy szóvégződés vagy főnévképző. Teo = Tev ismét, hölgyeim és uraim. Tev = Ten (ahol az Istenben lévő Ten a Tesz és a Tev infinitivusa).
