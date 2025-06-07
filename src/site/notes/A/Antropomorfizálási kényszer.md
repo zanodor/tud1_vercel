@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Antropomorfizálási kényszer/","title":"Antropomorfizálási kényszer","tags":["titleandheadingonedontmatch","Englishtexttranslated"],"created":"2024-04-20T10:48","updated":"2025-04-26T11:49"}
+{"dg-publish":true,"permalink":"/A/Antropomorfizálási kényszer/","title":"Antropomorfizálási kényszer","tags":["titleandheadingonedontmatch","Englishtexttranslated"],"created":"2024-04-20T10:48","updated":"2025-06-07T18:47"}
 ---
 
 
@@ -31,7 +31,7 @@ Nos, valójában a mítosz felépítésének követelménye, hogy az igazságot 
 > "Azok, akik tagadták Krisztus emberségét, a vallásos keresztények első osztályát alkották, és nemcsak az időbeli sorrendben, hanem a jellembeli méltóság, az intelligencia és az erkölcsi befolyás tekintetében is az elsők voltak." (Taylor) Míg azok, akik ragaszkodtak Krisztus évezredes gnosztikus mítoszához, megelőzték a húsvér testet öltőket, vagy sarkalatosokat (azokat, akik Krisztust testté tették), mivel régóta bevett szertartásokkal és tanokkal rendelkeztek, ők voltak azok, akiket fiatalabb, tudatlan, húsvér testet öltő rokonaik eretneknek vádoltak, akik valójában az igazi eretnekek voltak. Taylor: "A Krisztus emberségének tagadói, vagy egyszóval a magát kereszténynek vallók, akik tagadták, hogy olyan ember, mint Jézus Krisztus egyáltalán valaha is létezett, de akik a Jézus Krisztus nevet csak egy absztrakciót, vagy prosopopeiát, az értelem megszemélyesített elvét jelentette, és akik az egész evangéliumi történetet magasztos allegóriának fogták fel... ők voltak az elsők, és (nem szégyen a kereszténységre nézve, ha őket nevezzük) a legjobb és legészszerűbb ".
 { #gnujr}
 
-- Az [alábbi](https://youtu.be/ObQpn8Hbe60) ÁKTV műsorban 1:09:33-nál Kubínyi Tamás azt mondja, hogy Ozirisz Erpat-Saber (ha úgy tetszik, Árpád-Zab-Úr) leszármazottja és [[A/Árpád\|Árpád]] pedig [[U/UTU\|UTU]] napisten harmadik fia. Ő itt is istenkirályságról, égi eredetű hatalomról beszél még 1:11:00 után is, Nimróddal is példálódzva (aki Nimródról ugyanezt a nézetet vallja, ahogy másutt bebizonyosdott: élő személy került volna tiszteletül az égre és nem fordítva).
+- Az [alábbi](https://youtu.be/ObQpn8Hbe60) ÁKTV műsorban 1:09:33-nál Kubínyi Tamás azt mondja, hogy Ozirisz Erpat-Saber (ha úgy tetszik, Árpád-Zab-Úr) leszármazottja és [[A/Árpád\|Árpád]] pedig [[U/UTU\|UTU]] napisten harmadik fia. Ő itt is istenkirályságról, égi eredetű hatalomról beszél még 1:11:00 után is, Nimróddal is példálódzva (aki Nimródról ugyanezt a nézetet vallja, ahogy másutt bebizonyosodott: élő személy került volna tiszteletül az égre és nem fordítva).
 
 Az [alábbi](https://www.fnord23.com/who-are-the-anunnaki/) oldalon is említi a szerző az evemerizmust és [[S/Sitchin, Zecharia\|Sitchin, Zecharia]] és az Anunnakik kapcsán is hasonlít: tulajdonképpen ugyanarról a jelenségről van szó.   
 
