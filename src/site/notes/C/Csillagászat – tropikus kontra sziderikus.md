@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csillagászat – tropikus kontra sziderikus/","title":"Csillagászat – tropikus kontra sziderikus","tags":["Englishtexttranslated"],"created":"2023-11-09T12:57","updated":"2025-03-08T23:18"}
+{"dg-publish":true,"permalink":"/C/Csillagászat – tropikus kontra sziderikus/","title":"Csillagászat – tropikus kontra sziderikus","tags":["Englishtexttranslated"],"created":"2023-11-09T12:57","updated":"2025-06-07T19:51"}
 ---
 
 
