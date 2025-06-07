@@ -6,7 +6,7 @@
 # Flexió
 
 #### Végvári József Ragozó-rügyező nyelvünk...  
- 
+
 ...című írásában közli:  
 > A körülöttünk élő, illetve a világot ma uraló népek kivétel nélkül hajlító nyelveket beszélnek. A négyes felosztás, mely szerint vannak elszigetelő (kínai), hajlító (indogermán, sémi), ragozó (finnugor, török, busman, bantu nyelvek, több kaukázusi nyelv mint például csecsen és grúz, a kihalt sumér, baszk) és összegző vagy bekebelező (eszkimó, amerikai indián, ausztráliai) nyelvek. A mai angol eredendően hajlító, de vannak elszigetelő vonásai is.  
 > Miben áll a hajlítás? Egyfelől abban, hogy a szó tőmagánhangzója változik meg, méghozzá minőségileg. Az angolban legjobb példa erre a rendhagyó igék három alakja: *drink* – *drank* – *drunk* stb.; ez az ún. tiszta vagy belső hajlítás, melyre a mi nyelvünkben nincs példa (ugyanakkor mutatja a magánhangzók fontos szerepét is az indogermán nyelvekben). Az ún. külső hajlításban végződések, toldalékok jelennek meg, ezek azonban egészen mások mint a magyar ragok, legföljebb látszatra és messziről hasonlítanak.  
@@ -61,6 +61,7 @@ Mielőtt további példákkal szemléltetnénk, hogyan működik mindez a magyar
 A magyar nyelv tehát belső működése szerint egyes hangokban alakváltoztatásokat ejt meg, hogy hasonló jelentésekkel hozzon létre új szavakat. Például [[V/VAK\|vak]] – fek(ete), fek(szik) (\[V-F\]). – Lásd még [[M/Mássalhangzók felcserélődése\|mássalhangzók felcserélődése]].  
 Nyilván lesznek olyan ellenérdekeltek, akik ebben nem hisznek; nekik sem kell hosszasan magyarázni, hogy a [[H/Hold\|Hold]] neve nyomán keletkezik [[H/Hölgy\|hölgy]] nevünk. Vagy igen?  
 Az egyik legszemléletesebb összetett példa magyar belső flexióra a [[M/Magyar szavak, mondák idegen népek szavaiban, mondáiban felismerhetők#Világ teremtéséről szóló mondák\|magyar szavak, mondák idegen népek szavaiban, mondáiban felismerhetők]] cím/alcímnél említett [[E/Ég\|ég]], [[E/Egy\|egy]] és [[H/Hegy\|hegy]] szavak közös mondai eredetében mutatkozik meg.  
+
 Egy másik másik ilyen az [[E/Egy\|Egy]] – [[A/Atya\|Atya]] ([[U/UTU\|UTU]]; [[A/Ad\|Ad]]) – [[A/Ász\|Ász]]/[[O/Ős\|Ős]] ([[A/Ács\|Ács]]) sorozat, és persze ne felejtsük `egy` számnevünk más számneveinkben (2,4,5,6,7) való előfordulását sem.  
 ```plantuml-svg
 @startuml
@@ -142,6 +143,10 @@ Könyve 883-884. oldalán írja:
 
 [[G/Gyakorítás\|Gyakorítás]] címnél is elhangzott:  
 > Ezek a bővítmények az eredeti ige általános alapjelentését tényleg nem változtatják meg, hanem csak a cselekvés mikéntjét variálják, módosítják; a finom megkülönböztetéseket jelölik. Ilyen jellegű jelentéskülönbségeket a német nyelv vagy körülírással, külön segédigékkel, vagy pedig a tőmagánhangzó megváltoztatásával, "Ablaut"-tal fejez ki: `trinken` (inni), `tränken` (itatni); `dringen` (sürögni, sietni), `drängen` (sürgetni, (kölcsönözni), `bürgen` (a kölcsönért jótállni).  
+
+## Óegyiptomi példa
+
+Ilyennel is találkozni. Pl. a több helyen említett óegyiptomi `p-t`/`pt` jelentése ég, égbolt, melynek megfelel illetve nyilván ennek nyomán jött létre a Mercer (1952: II, 183, 509) adatát megosztó Morris Silver Talking Ancient Mythology című könyvében megadott `pdt`/`pedjet` = ív, íj; égbolt szó.  
 
 ## Lábjegyzetek
 
