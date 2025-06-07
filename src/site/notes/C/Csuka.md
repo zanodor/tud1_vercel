@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csuka/","title":"Csuka","created":"2023-12-02T04:13","updated":"2024-10-25T16:51"}
+{"dg-publish":true,"permalink":"/C/Csuka/","title":"Csuka","created":"2023-12-02T04:13","updated":"2025-06-07T19:51"}
 ---
 
 
