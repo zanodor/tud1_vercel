@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csűr/","title":"Csűr","created":"2023-10-23T02:34","updated":"2025-03-17T21:52"}
+{"dg-publish":true,"permalink":"/C/Csűr/","title":"Csűr","created":"2023-10-23T02:34","updated":"2025-06-07T19:52"}
 ---
 
 
