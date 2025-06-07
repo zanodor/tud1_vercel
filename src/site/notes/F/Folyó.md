@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Folyó/","title":"Folyó","tags":["Englishtexttranslated","titleandheadingonedontmatch"],"created":"2024-05-09T01:21","updated":"2025-04-27T09:58"}
+{"dg-publish":true,"permalink":"/F/Folyó/","title":"Folyó","tags":["Englishtexttranslated","titleandheadingonedontmatch"],"created":"2024-05-09T01:21","updated":"2025-06-07T19:19"}
 ---
 
 
