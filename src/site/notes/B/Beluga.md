@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Beluga/","title":"Beluga","created":"2023-12-02T04:16","updated":"2024-10-24T22:12"}
+{"dg-publish":true,"permalink":"/B/Beluga/","title":"Beluga","created":"2023-12-02T04:16","updated":"2025-06-07T19:49"}
 ---
 
 
