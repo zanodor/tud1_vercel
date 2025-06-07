@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Macska/","title":"Macska","created":"2023-11-17T11:07","updated":"2025-05-03T11:04"}
+{"dg-publish":true,"permalink":"/M/Macska/","title":"Macska","created":"2023-11-17T11:07","updated":"2025-06-08T01:12"}
 ---
 
 
