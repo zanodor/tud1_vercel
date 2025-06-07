@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kolos/","title":"Kolos","created":"2024-05-06T12:29","updated":"2024-10-25T22:26"}
+{"dg-publish":true,"permalink":"/K/Kolos/","title":"Kolos","created":"2024-05-06T12:29","updated":"2025-06-08T01:07"}
 ---
 
 
