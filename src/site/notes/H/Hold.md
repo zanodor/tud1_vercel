@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["Englishtexttranslated"],"created":"2023-10-11T04:42","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2025-06-08T00:45"}
 ---
+
 
 # Hold 1)
 
 Sok magyar szóhoz (főleg a számokhoz) hasonlóan egyszerre több fogalmat tárolni képes szó. Ezért lehet az, hogy magyarázni az ilyen szavakat [[V/Végvári József\|Végvári József]] szócsalád-rendszere alapján lehet igazán (főleg azok számára, akik az etimon-rendszert nem ismerik, de azok számára is, akik ismerik és belátják, hogy a szavakat az ősmagyar nyelvérzék úgy alakítja, hogy bizonyos hangértékeket kis mértékben megváltoztatva új, de rokon fogalmakat lehet létrehozni; lásd erről [[F/Flexió#Magyar hajlítás mint nyelvünk szavainak alapképessége\|flexió]] és [[M/Magyar szavak, szórészek alakváltozatai\|magyar szavak, szórészek alakváltozatai]]).  
 Etimológiájáról esett némi szó [[H/HOL\|hol]] címnél. Azt kiegészítendően (Péterfai János írja):  
 > A Hold magyar név egy igen bonyolult eszmerendszer mai terméke. Egyik fő jelentéstartalma a Hal, amely hideg vízi állat, de a Hal ige már az elmúlás felé vezet. A Hál és Hála mellé sorakozik a Holló, amely Fekete, a Hulla, Hull nevekkel együtt. Ezek a Hold nevek a német `Kalt` szóval is rokonok, ami Halt, vagyis Hideg.  
-> 
+>
 > A Hold szót összevetik a Hódít, Hódol igékkel[^1]. A [[H/Hód\|hód]] állat szőrméje hasonlatos a Hold színéhez, innen a rokonság. A Hold a [[H/Halad\|halad]] (chalad) igével is rokon, ami a [[H/Hatti\|hatti]]ból ered. Ebben az értelemben a Szülő a Nap, a Hold a Haladás, a Gyerek, mint Család, [[C/Child\|child]], az Unoka a Csillag. Ez a hármas rendszer sokkal régebbi, mint az indoeurópaiak képződése a magyar nemzetségekből.  
 > A Hold azonban Hótt is, mivel valóban Holt vidék. A rokon megfelelők a leszármazott nyelvekben jól felismerhetőek. A Hold Hideg táj.  
 
@@ -66,9 +67,9 @@ Ki kell azt is jelenteni, hogy a [[K/Kutya\|kutya]] (kuta) és Hold szavaink ugy
 
 ...című könyvének adatai ömlesztve:
 > Kun László Hódtónál verte meg a kunokat, mely nevét a hódtól vette, mint Thuróczi p. II. c. 78. irja : "ad lacum Hood qui in Transylvania ultra Claudiopolim in loco campestri situs, formám corniculatae lunae refert, hungarisque *hoodos tó* dicitur". Hódos v. hódas lónak nevezik ma is az oly lovat, melynek homlokán fehér hód forma fót van. ([Lásd 243. old.](zotero://open-pdf/library/items/DFI47XPY?page=243&annotation=8JMJPWSA))
-> 
+>
 > A lapp földön `hald` s `kald` = hold (Révai Ant. h. p. 76), finnül `kod` és `kuh` (Fehér Incun. p. 33.), Kézában(p. 74.), lacus `hoold`, melynek különböző alakjai a dubniczai s más krónikákban, hohot, hodolt, hoholduni, hodolth, mint Endlicher közli (W. J.B.XXXIII. A. Blatt), ([Lásd 243. old.](zotero://open-pdf/library/items/DFI47XPY?page=243&annotation=RMLJ4L6E))
-> 
+>
 > A német `hold`, `huld` = hold istenasszony neve. ([Lásd 244. old.](zotero://open-pdf/library/items/DFI47XPY?page=244&annotation=L6KNIDRT))
 - Graves-nél **Held**.  
 
@@ -76,13 +77,13 @@ Ki kell azt is jelenteni, hogy a [[K/Kutya\|kutya]] (kuta) és Hold szavaink ugy
 - Itt még a német és magyar szöveg folytatódik.  
 
 > ...a XIV. századbeli isiandi mondát is, hogy Hulda nevű igéző asszony Odhinnak kedvese volt. ([Lásd 245. old.](zotero://open-pdf/library/items/DFI47XPY?page=245&annotation=Q67MMELC))
-> 
-> Odhin Grimm német mythologiájában a legnagyobb égi isten, milyen volt a görög Zeus, a latin Jupiter, a nap az ő szeme, a görögök is a napot Zeus szemének tárták, a pársusok Ormuzd szemének, ha már Hulda v. Holda Odhin kedvese volt, ugy az a nap s hold összeházasítása csak, miért a hold nevei is sok nyelvben nőneműek. A zend könyvekben a *hold mindig nőnemű, mely a naptól kölcsönöz fényt*, a Mithrában megtestesült Ormuzd azért férfinemü, milyen volt Osiris is Egyiptomban = napisten, Isis = hold nőnemű, regina Isis Apulejusban. Ez androgynisch eszmét, mely a phallus tiszteletére elfajult, Déli-Ázsiában mindenütt nyomozhatni, mint a terhesités és szülés vallásos elvét, ellentétben az északázsiaival, vagy scytha földi vallással, mely a természeti erőket tisztelte ugyan, de nembeli különbségeknek, összeházasitásoknak helyt nem adott, miért is némely északi nyelvekben, épen ugy mint a magyarban hiányzanak a névelők, melyek a nem-különbséget megtudatják. ([Lásd 245. old.](zotero://open-pdf/library/items/DFI47XPY?page=245&annotation=X4CBQ6ZY)) 
-^DFI47XPY-X4CBQ6ZY
+>
+> Odhin Grimm német mythologiájában a legnagyobb égi isten, milyen volt a görög Zeus, a latin Jupiter, a nap az ő szeme, a görögök is a napot Zeus szemének tárták, a pársusok Ormuzd szemének, ha már Hulda v. Holda Odhin kedvese volt, ugy az a nap s hold összeházasítása csak, miért a hold nevei is sok nyelvben nőneműek. A zend könyvekben a *hold mindig nőnemű, mely a naptól kölcsönöz fényt*, a Mithrában megtestesült Ormuzd azért férfinemü, milyen volt Osiris is Egyiptomban = napisten, Isis = hold nőnemű, regina Isis Apulejusban. Ez androgynisch eszmét, mely a phallus tiszteletére elfajult, Déli-Ázsiában mindenütt nyomozhatni, mint a terhesités és szülés vallásos elvét, ellentétben az északázsiaival, vagy scytha földi vallással, mely a természeti erőket tisztelte ugyan, de nembeli különbségeknek, összeházasitásoknak helyt nem adott, miért is némely északi nyelvekben, épen ugy mint a magyarban hiányzanak a névelők, melyek a nem-különbséget megtudatják. ([Lásd 245. old.](zotero://open-pdf/library/items/DFI47XPY?page=245&annotation=X4CBQ6ZY)){ #DFI47XPY-X4CBQ6ZY}
+
 - Egy Quora válaszban hasonlóan írtam erről. Arról, hogy minden [[N/Nemek\|nem]]re vonatkozó megkülönböztetés alapja a Nap és Föld/Hold hím- és nőiséginek vétele.
 
 > Góthul Unholda a szelid Holdnak vagy Huldának ellentétje. ([Lásd 245. old.](zotero://open-pdf/library/items/DFI47XPY?page=245&annotation=D4ZVEP6F))
-> 
+>
 > `Hilta` = pugna, `hild` = pugna, `heled` = Held (Grimm 1. 124. 203), hödr, haud-ur, hodr, a vad hatalom istene (Schrader p. 61). ([Lásd 246. old.](zotero://open-pdf/library/items/DFI47XPY?page=246&annotation=E8TJTW3L))  
 - [[H/Höd\|Hödr]] tehát Hód-Úr, Hold Úr. Innen látjuk meg azt is, hogy a Hold/Hód is a Kutya név változata: saját fénye nincs, ahogy a Kutya is a fényhiányos félév hírnöke. A Holt fény féléve a második. Ezek a szavak egymás változatai. Ezért volt nehéz a God istennevet is magyarázni, mert a tűz, a Hold (holdfény), kutya, ház (Tejút) mind megfelel.
 
@@ -93,28 +94,28 @@ Ki kell azt is jelenteni, hogy a [[K/Kutya\|kutya]] (kuta) és Hold szavaink ugy
 - Holle anyó.
 
 > Holde alaki változásai Adelungban, hold, hulths, hult, holdur, Soltan pótlékjaiban, Holdai von Huld, "Holdgöttin" Mylius szótárában Leibnitznál (Collect. Etym. P. II. p. 93.), houd, houde, holde régibb formák állanak, melyeket Grimm is idéz (Gramm. 1. 336, 393, 565) ([Lásd 246. old.](zotero://open-pdf/library/items/DFI47XPY?page=246&annotation=4CQXYRPU))
-> 
+>
 > A finn `hullu`, samojed `halla` pedig ( = toll, wüthend), csak a német Frau **Hulla** hadistenné neve. ([Lásd 247. old.](zotero://open-pdf/library/items/DFI47XPY?page=247&annotation=UCPHZQRC))
-> 
+>
 > A hód szót (jugerum) nem kell összetéveszteni a hold nevével, amaz a német `Heidefeld`, az osnabrügi törvények `Hode` földje, `hoed` "mesure de capacité en Holland pour les Grains a francz. acad. szótárában is (l. biester s Heide szók alatt Adelungot is `haldan` = legelni, ellentétben az állandó lakással). ([Lásd 247. old.](zotero://open-pdf/library/items/DFI47XPY?page=247&annotation=E7FUZ8NJ))  
 - `Jugerum` = hold terület neve.
 
 > A hold különös tiszteletet nyert az egyiptomi, arab és zsidó földön, a holdünnepek sehol rendezettebbek nem voltak, mint a Sabaeismust követőknél, kiknek mint láttuk, **Hulda** és Schabba varázslónéik is voltak. ([Lásd 247. old.](zotero://open-pdf/library/items/DFI47XPY?page=247&annotation=4QEQV4QQ))  
-> 
+>
 > Arab hagyományok szerint már Houd volt az első arab patriarcha, ki vallásukat s nyelvüket elrendezte, Kabar-Houd (szó szerint koporsója Houdnak), ma is tiszteltetik Hadramaut földön, hol egykor a menny nagy népe lakott. ([Lásd 247. old.](zotero://open-pdf/library/items/DFI47XPY?page=247&annotation=JWVEYI6V))
-> 
+>
 > A syrus és arab `hada` ige = duxit, direxit, honnan `hadi` dux, a nap és hód ily vezetői voltak az időjárásnak, már Sanchthoniathonban a syrusok nap istene [[H/Hadad\|Hadad]], mint azt Macrobius (l. 13.) magyarázza. ([Lásd 248. old.](zotero://open-pdf/library/items/DFI47XPY?page=248&annotation=WEE6Z6TW))  
 - Ez [[H/Had\|had]] szavunk inkább; nemzetiséget is jelent, ahogy [[C/Család\|család]] is Hold változata lenne (vö. kelta-ír `gaolta` = rokonság, család).
 
 > Az arab földön ellenben a hold tisztelete kapott lábra, nevezetesen az arab hagyományok szerint Houd volt az első, ki arabul beszélt, az adamiták még syrusul beszéltek; a syronabáthok vagy napimádók nyelve volt az első nyelv, melyen Ádám beszélt (l. Quatreméret Journ. as. 85. szám p. 241.). ([Lásd 248. old.](zotero://open-pdf/library/items/DFI47XPY?page=248&annotation=4XWCRFVP))
-> 
+>
 > Az angelsax nyelvben is, nemcsak a Hilda, Holda névformák már a VII. században fennforogtak, hanem a had szóforma sem veszett ki, mert Ihre gloss. `had` = persona, qualitas, ordinis sacrivir, `hadod`, ordinatus sacerdos, `hadung` = ordinatio, `hadian` = consecrare (in voce Dias és had), Grimmben `haids`, `heit`, `hâd`, `hâdes`, `head`, melyek még a női névragokban élnek, mint godhead (= Gottheit), Adalhaid, Engil-heid (Gr. II. 49). ([Lásd 249. old.](zotero://open-pdf/library/items/DFI47XPY?page=249&annotation=YSN9DTTZ))  
-- [[H/Head\|Head]] = fej is innen lenne? 
+- [[H/Head\|Head]] = fej is innen lenne?
 
 > **Houd** patriarcha nevét a jehuda vagy juda (= zsidó) névvel egynek nem tarthatom, mert ő a tiszta arabok törzse volt, nem az arabok közt felolvadt népfajoké. ([Lásd 249. old.](zotero://open-pdf/library/items/DFI47XPY?page=249&annotation=8ZKQ3LQL))
-> 
+>
 > Paris Pápaiban s Molnár Albertben hóda, hodai, hodá-kelve = cras, holnap vagy hónap, hogy ez annyi mint hódnap magában értetik. ([Lásd 250. old.](zotero://open-pdf/library/items/DFI47XPY?page=250&annotation=XRH6GQWB))
-> 
+>
 > Hó (mensis) és hód (Luna) szorosan összefüggő szók, némely nyelvben hó = hód, nap, fény, meleg, Pott a kurdok nyelvéről tett vizsgálataiban idézi a persa `haw` szót, hód és köd értelemben, Castellusra és Güldenstadtre hivatkozva, minek a kurd `haif`, `aif`, `hiw` (hold) felel meg, `hawin` = nyár (Zeitschrift für die Kunde des Morgenl. III. B. 1. Heft p. 14, 29, 35), Robert "Collectanea Cimbrica" című munkájában hu gyöke a huan szónak, mely napot, világitót jelent (W. J. 13. B. p. 35), ez a hu csak a chinai `ho` = tűz, honnan a Ho-schan = tűzhegy, a Visdelowragie vagy égő hegye (l. ég szót). ([Lásd 250. old.](zotero://open-pdf/library/items/DFI47XPY?page=250&annotation=AUWNMHFE))  
 - Hiw inkább ív. Nyáron is az ívnél van a Nap.
 
@@ -123,7 +124,7 @@ Ki kell azt is jelenteni, hogy a [[K/Kutya\|kutya]] (kuta) és Hold szavaink ugy
 - [[H/Hó\|Hó]] címhez is betéve.
 
 > A mongol `gô`, egyszersmind a fejedelmi nők tiszteleti czíme ma is. ([Lásd 251. old.](zotero://open-pdf/library/items/DFI47XPY?page=251&annotation=D8Q8NPUN))
-> 
+>
 > Klaprothban a tűz chinai neve: `ho`, `cho`, `hoa`, kurdul `hawu`, persául `hawa` = aer, et coelum, `hiw` = hód, Georgiában `hawa` = hód (A. P. p, 79, 117 és tab. 58.). A franczia akadémia szótárában a persa `hawa` = aura, coelum, angolul heaven, német `heven`, Grimmben `haeven` a.s. coeruleus hav gyökből (= limpidus 1. 219). Hindouklu türk szótárában `hawa` arab = szél, turkul levegő s szél. ([Lásd 251. old.](zotero://open-pdf/library/items/DFI47XPY?page=251&annotation=LNGKD7QR))  
 - Itt hiányolom Kállaynál, hogy ezen szavakat nem a magyar `hő` szóval rokonítja, pedig a hevít ige éppen elő is jött.
 - [[H/Havā\|Havā]] már volt felvéve nálam.  
@@ -152,7 +153,7 @@ A Hold – Hölgy kontra [[M/Mén\|mén]] = Holdisten összefüggések rámutath
 ...című könyvéből némi Hold info:  
 > Mindemellett a Hold fényváltozásai a legfeltűnőbbek, hónapos ciklusa pedig rövidsége miatt könnyen számontartható, ezért a legtöbben úgy vélik, hogy a Hold kultikus tisztelete időben is megelőzhette a Napét[^10] \[egyenlítő környékén, ahol a Nap pusztító[^11], nyilván\]. Ennek jele, hogy az első kalendáriumok holdnaptárak voltak (lásd esetleges óegyiptomi vonalon [[K/Konc\|Konc]]), s hogy a Hold volt sokhelyütt a növekedés – apadás, a termékenység, a vizek és az élet megújulásának égi felelőse. E képzet nyomai a néphitben ma is élnek.  
 > Az ember nyilván régen felismerte a Hold szerepét az árapály-jelenség keletkezésében, továbbá, hogy a holdváltozás időváltozást hoz (és sok embert megvisel), hogy a nők havi ciklusa, a terhesség időtartama embernél, állatnál összefügg a holdciklussal. (A Hold élettani hatása részint "vonzerejének", a gravitációnak köszönhető, részint az általa visszavert fény változó mennyiségének. Egy elmélet szerint a Holdról visszaverődő fény polarizált, sarkított a rezgése, ez "idegesít föl" holdtöltekor annyi embert.)  
-- A [[M/Mania\|mania]] is vélhetően a holdhoz köthető. 
+- A [[M/Mania\|mania]] is vélhetően a holdhoz köthető.
 
 #### Jankovics Marcell Jelkép-kalendárium...
 
@@ -161,7 +162,7 @@ A Hold – Hölgy kontra [[M/Mén\|mén]] = Holdisten összefüggések rámutath
 > A hónap legfontosabb napja, a holdtölte, az [[I/Idus\|Idus]] (március, május, július és október 15., a többi hónap 13. napja). A főbb római ünnepek e nap köré szerveződtek, amibe a csillagászati hónaphatár közelsége is belejátszott: a fontosabb ünnepek a Nap új jegybe lépéséig elhúzódtak. (Ezt a szokást megőrizte a keresztény naptár is. Erre a nyári napfordulói ünnepségsorozat jó példa. Kezdődik az Idusra eső Antal-nappal, és eltart július Calendaejáig, az aratás kezdetéig.) Később iktatták be az első holdnegyed jelzésére a Nonaet (ez a 9. nap Idus előtt, az Idus napját is beleszámítva). Az egyszerű napokat aszerint számolták, hány nap van hátra a következő határnapig. Például június 21-e július Calendaeja előtt a 11. nap.  
 > A Hold, a Rák hónap asztrológiai ura változékonyságához illően sokféle alakot öltött. Többnyire férfiúnak képzelték (Egyiptom, Fönícia, Mezopotámia, India, Szibéria, valamint Amerika és Óceánia nagy részén), de Európában görög-római hagyományainknak köszönhetően, továbbá Kínában, valamint Amerika és Oceánia néhány népénél istennőként ismertebb, ám mindenütt a Nappal párban jelenik meg. Annak éjszakai hasonmásaként, ikertestvéreként, segítőtársaként, férjeként vagy feleségeként. Sőt, véle eggyé, "egyistenné" olvadhat. Ilyen nap-holdisten az indonéziai (solori) Leravulan, a dahomeyi Mavu-Lisa, a pápua Ugatame, a koreai Irvolszonszin, és – naptári értelemben – [[J/Jézus\|Jézus]] Krisztus. Legegyszerűbben mint az égisten két szeme alkotnak párt, de együtt uralkodnak az asztrológiai év "tetején" is, a Nap a Rákkal szomszédos Oroszlán ura.  
 > Egyiptomban a Hold az ég-sólyom (Hórusz) beteg szeme volt (a Nap volt a másik, jó szeme). Ő volt [[K/Konc\|Honszu]], a "múmiagyermek" és Thot, Szeth íbisz vagy pávián alakú fia. A beteg Hórusz-szemről, Honszuról és Thotról szóló történetek a Hold – fényváltozásai miatt – baljósnak hitt természetét éppúgy kifejezik, mint az időszámításban betöltött szerepét. Mindhárom holdisteni megszemélyesülés elválaszthatatlan a napistentől, noha kapcsolatuk felemás. Ennek valóságalapja annak felismerése lehetett, hogy a napfogyatkozásért a Hold a felelős, és viszont. Későbbi időkben – talán görög visszahatásra – a holdistenek trónusára Ozirisz nővér-felesége és Hórusz anyja, Ízisz ült (a holdsarlón álló, gyermekét tartó Szűzanya képmásait hagyományosan az Ízisz-kultuszból szokták levezetni).  
-> A babiloni-asszír pantheonban [[S/Szín\|szín]] holdistené (a sumer Nannaré) a főhely az égi triászban, amelynek másik két tagja: [[S/Samas\|Samash]] (Nap) és [[I/Istár\|Istár]] (Vénusz) az ő gyermekei. Öregembernek képzelték lapis lazuli színű szakállal, aki éjjelente holdsarló-bárkájában [[H/Hajó\|hajó]]zik az égen. Más viszonylatban a holdsarló fegyver. A sarló minden földművelő kultúrában az újholdhoz társul. A görög mitológiában Kronosz a holdsarlóval heréli ki apját, [[U/Uránosz\|Uránosz]]t. Egyiptomban a szaturnikus természetű [[S/Széth\|Széth]] a fogyó Hold napjainak száma szerint vágja a nap-holdisten Oziriszt a sarlóval 14, mások szerint 13 darabra.  
+> A babiloni-asszír pantheonban [[S/Szín\|Szín]] holdistené (a sumer Nannaré) a főhely az égi triászban, amelynek másik két tagja: [[S/Samas\|Samash]] (Nap) és [[I/Istár\|Istár]] (Vénusz) az ő gyermekei. Öregembernek képzelték lapis lazuli színű szakállal, aki éjjelente holdsarló-bárkájában [[H/Hajó\|hajó]]zik az égen. Más viszonylatban a holdsarló fegyver. A sarló minden földművelő kultúrában az újholdhoz társul. A görög mitológiában Kronosz a holdsarlóval heréli ki apját, [[U/Uránosz\|Uránosz]]t. Egyiptomban a szaturnikus természetű [[S/Széth\|Széth]] a fogyó Hold napjainak száma szerint vágja a nap-holdisten Oziriszt a sarlóval 14, mások szerint 13 darabra.  
 > A görög mitológia holdistennőjét is több néven tisztelik. Mint [[A/Apolló\|Apollón]] napisten nővérét, [[A/Artemisz\|Artemisz]]nek hívták (latin [[D/Diana\|Diana]]), Héliosz (Sol) nővére viszont Szeléné (Luna) névre hallgatott. Egy harmadik holdistennő, a banya külsejű [[H/Hekate\|Hekate]] (Hecate) Apollón és Artemisz unokatestvére volt a mitológiai családfa szerint, ám a rokonság lényegi azonosságot fed: Apollón és Artemisz egyik mellékneve Hekatosz és Hekaté ("messzelövő") volt.  
 > A rómaiak is hármas istennőként tisztelték a Holdat. Lunát az ég, Dianát a Föld és Hecatét az alvilág istennőjeként (az utóbbi a "keresztutak" úrnője volt). Ez a képzet a prehellén isten(nő)-hármasokra megy vissza. Számos más antik istennőnek van felismerhető hold-aspektusa. Erre szüzessége ([[A/Athéné\|Athéné]]), baljós boszorkány-volta (Kirké, Médeia) vagy más, ősidőktől fogva Holdhoz kötött sajátság utalhat. Például az, hogy a Holdat a vizek szabályozójának tekintették (árapályjelenség[^12]). A víz a képzetekben mindig nőies elem ("ősvíz", magzatvíz, élet és halál vize). Az istennőháromság a Hold három fázisát (növekvő, teli és fogyó Holdat) testesíti meg. A csillaghitben viszont a "nőies planétákat" személyesíti meg a háromság: a Földet az anya, a Vénuszt a nimfa és a Holdat a szűzleány képében. Valójában egy "háromszor hármas Nagy Istennővel" van dolgunk, mert mindhárom planétaistennőnek van szűz, nimfa és anya alakja. A három planétaistennő "életkorának", illetve "állapotának" megfelelően osztozik a női szervek feletti uralmon: a belső nemi szervek a Föld, a külső nemi szervek a Vénusz, a szűzhártya a Hold védnöksége alá tartozik[^13]. Az asztrológia viszont mindeme szerveket a Hold védelme alá rendeli a Hold "hármas természetének" megfelelően. A szüzesség mellett a meddőség, továbbá a havi vérzés felelősévé is tették, összefüggésben a Hold okozta árapályjelenséggel, a menses és a holdciklus közt feltételezett kapcsolattal, és azzal a felismeréssel, hogy termékeny életkorban a szűz és a "meddő", azaz éppen nem terhes és nem szoptató nő "szül rossz vért" csupán. **A Holddal kapcsolatos termékenység-hiedelmek szerint a nők legtermékenyebb periódusa újholdra, míg a mensesé teliholdra esik**. Ez szinte napjainkig fennmaradt a vetéssel, betakarítással kapcsolatos képzetekben: ezek szerint vetni, palántázni újholdkor érdemes (a növekvő Holdnak a vonzereje is nő, a holdsugárba kapaszkodva a csíra, palánta is jobban fejlődik), a termést betakarítani viszont teliholdkor (amikor a magot, gyümölcsöt a Holdhoz hasonlatosan majd szétrepeszti a benne felgyülemlett tápanyag).  
 > A Hold "homeopátiás" hatását az ember közérzet- és egészségi állapotváltozásban is megtapasztalja: fokozódó álmatlanság, gyulladásos, daganatos betegségek mintha a Hold "dagadásához" igazodnának, s a Hold apadását, dagadását követi sok ember belső vízháztartása.  
