@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gonosz/","title":"Gonosz","created":"2023-10-06T12:12","updated":"2025-03-05T02:23"}
+{"dg-publish":true,"permalink":"/G/Gonosz/","title":"Gonosz","created":"2023-10-06T12:12","updated":"2025-06-07T23:00"}
 ---
 
 
