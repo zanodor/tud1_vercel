@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nevel és növel/","title":"Nevel és növel","created":"2025-02-24T19:19","updated":"2025-02-24T22:11:10Z"}
+{"dg-publish":true,"permalink":"/N/Nevel és növel/","title":"Nevel és növel","created":"2025-02-24T19:19","updated":"2025-06-08T01:39"}
 ---
 
 
