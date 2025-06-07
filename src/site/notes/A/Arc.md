@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arc/","title":"Arc","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2025-03-25T21:17","updated":"2025-03-25T21:18"}
+{"dg-publish":true,"permalink":"/A/Arc/","title":"Arc","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2025-03-25T21:17","updated":"2025-06-07T18:48"}
 ---
 
 
