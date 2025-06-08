@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Száznyolc/","title":"Száznyolc","tags":["Englishtexttranslated"],"created":"2025-05-16T23:13","updated":"2025-05-16T23:14"}
+{"dg-publish":true,"permalink":"/S/Száznyolc/","title":"Száznyolc","tags":["Englishtexttranslated"],"created":"2025-05-16T23:13","updated":"2025-06-08T18:25"}
 ---
 
 
