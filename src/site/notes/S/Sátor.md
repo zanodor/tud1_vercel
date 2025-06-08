@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sátor/","title":"Sátor","created":"2025-03-21T22:16","updated":"2025-04-27T10:04"}
+{"dg-publish":true,"permalink":"/S/Sátor/","title":"Sátor","created":"2025-03-21T22:16","updated":"2025-06-08T18:25"}
 ---
 
 
