@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pole/","title":"Pole","tags":["Englishtexttranslated"],"created":"2024-04-20T13:44","updated":"2025-05-03T09:36"}
+{"dg-publish":true,"permalink":"/P/Pole/","title":"Pole","tags":["Englishtexttranslated"],"created":"2024-04-20T13:44","updated":"2025-06-08T18:20"}
 ---
 
 
