@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Stole/","title":"Stole","created":"2023-11-17T05:31","updated":"2024-10-26T00:24"}
+{"dg-publish":true,"permalink":"/S/Stole/","title":"Stole","created":"2023-11-17T05:31","updated":"2025-06-08T18:25"}
 ---
 
 
