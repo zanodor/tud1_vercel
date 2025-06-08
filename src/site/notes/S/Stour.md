@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Stour/","title":"Stour","tags":["Englishtexttranslated"],"created":"2024-10-23T23:38","updated":"2025-04-27T10:05"}
+{"dg-publish":true,"permalink":"/S/Stour/","title":"Stour","tags":["Englishtexttranslated"],"created":"2024-10-23T23:38","updated":"2025-06-08T18:24"}
 ---
 
 
@@ -19,4 +19,8 @@ Viszont akkor a [[B/BAR\|BAR]] etimon nyomán alakul a `berg` = hegy értelme, m
 
 Ergo ha minden napnévnek lehetnek másodlagos hegy jelentései, azok adják a nagy, hatalmas, magas jelentésű szavakat is. Lásd pl. [[M/MAG\|Mag]] napnév > szanszkrit [[M/Maha\|maha]], sumér `mah` = nagy, illetve M-N váltással [[N/Nagy\|nagy]].  
 
-A breton `stêr`  = folyó érdekes, mert Orion lába a Tejútnál van.  
+A hegy kapcsán [[S/Secure#Felfüggesztés vagy támasztás/aládúcolás\|secure]] címnél is volt arról szó, hogy itt ég tartásáról, aládúcolásról lehet szó. Azaz a magas, erős fogalmak mögött állhatatos, állandó fogalmak is kereshetők.
+{ #250603}
+
+
+A breton `stêr` = folyó érdekes, mert Orion lába a Tejútnál van.  
