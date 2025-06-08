@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2024-10-26T00:18"}
+{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2025-06-08T18:24"}
 ---
 
 
@@ -19,7 +19,7 @@ A mellékelt képen a Sarkcsillag [[P/Precesszió\|precesszió]] következtében
 William F. Warren könyvében számtalanszor említi a sarkcsillagot a hyperboreai emberiség istenének lakóhelyével kapcsolatban. Jankovics Marcell anyagában mint a [[N/Nap – halott Nap\|Nap – halott Nap]] lakhelye szerepel; [[S/Széth\|Széth]] is északra űzött (szaturnikus) \[egykori\] (Nap)isten.  
 A látszólagos ellentétet feloldani látszik, hogy a Napistenként kezdő szaturnikus istenek a Sarkcsillaggal is kapcsolatba hozattak. Lásd erről alant.  
 
-Az alábbi, általam [[A/Apam Napat\|Apam Napat]] és [[K/Korona\|korona]] címnél vizsgálat alá vett és kifogásolt, legutóbb [[N/Négy#Négy és az ötödik irány\|négy és az ötödik irány]] cím/alcímnél is szereplő Molnár V. József féle adathalmaznak itt most csak azon részére hívnám fel a figyelmet, mely arra utal, mi lehet a világfa tetején:
+Az alábbi, általam [[A/Apam Napat\|Apam Napat]] és [[K/Korona\|korona]] címnél vizsgálat alá vett, legutóbb [[N/Négy#Négy és az ötödik irány\|négy és az ötödik irány]] cím/alcímnél is szereplő Molnár V. József féle adathalmaznak itt most csak azon részére hívnám fel a figyelmet, mely arra utal, mi lehet a világfa tetején:
 
 #### Molnár V. József Világ-Virág...
 
