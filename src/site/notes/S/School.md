@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/School/","title":"School","created":"2023-11-07T05:11","updated":"2024-10-26T00:20"}
+{"dg-publish":true,"permalink":"/S/School/","title":"School","created":"2023-11-07T05:11","updated":"2025-06-08T18:25"}
 ---
 
 
