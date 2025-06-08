@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/PI/","title":"PI","created":"2024-05-10T03:21","updated":"2025-04-27T09:53"}
+{"dg-publish":true,"permalink":"/P/PI/","title":"PI","created":"2024-05-10T03:21","updated":"2025-06-08T18:20"}
 ---
 
 
@@ -11,7 +11,7 @@ Csillag és fi(ú) jelentésű.
 
 > A Szien-Pi népnév magyar nyelvű népet bizonyít. A Szi Nap, az En Isten, a Pi Csillag, vagyis Fi. A Szien-Pi nép a Nap-Isten-Fiainak vallotta magát.  
 
-Ami a magyar `fi`, az a  vogul `pi` és bantu `bi` = fi, sarj. Minden gyermekhez tartozik egy csillag, ahonnan a lelke való.  
+Ami a magyar `fi`, az a vogul `pi` és bantu `bi` = fi, sarj. Minden gyermekhez tartozik egy csillag, ahonnan a lelke való.  
 
 Ha kicsinyítem, Pi/Fi-(cs)Ka helyett fiúcskát mondok, ami a [[F/Fióka\|fióka]] névvel azonos; vö. finn `poika` = fiú, melyről lásd még [[B/Boy\|boy]], ahol a [[B/BOJ\|BOJ]], [[B/BOK\|BOK]], [[B/BOG\|BOG]] napnevekre vezetünk vissza.  
 A Nap is csillag, a hozzánk legközelebb lévő. [[C/Csillagvallás\|Csillagvallás]]i tétel szerint a fiú a Nap, a [[T/Tejútanya\|Tejútanya]] fia. Az anya gyermekét csillagomnak hívja.  
