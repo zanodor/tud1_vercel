@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jezsuita/","title":"Jezsuita","tags":["Englishtexttranslated"],"created":"2023-10-09T06:12","updated":"2024-10-25T22:03"}
+{"dg-publish":true,"permalink":"/J/Jezsuita/","title":"Jezsuita","tags":["Englishtexttranslated"],"created":"2023-10-09T06:12","updated":"2025-06-08T18:19"}
 ---
 
 
@@ -54,7 +54,7 @@ Max Igan egyébként [[F/Fomenko, Anatolij\|Fomenko, Anatolij]] nevét is több 
 
 [^1]: Lábjegyzet:  
 Ezen YouTube felületre adott kommentemben is írom:  
-Valóban, a [[C/Címke\|címkézés]], a dolgok mibenlévőségének abszolutizálása, a tudatalattiba való beágyazása kulcsfontosságú az ellenerők oktatási/félrevezetési programjában. Ezért is tartom az etimológiát és filológiát a legfontosabb tudományterületnek. Persze ezzel régen is így voltak (például sevillai Izidor). Úgy gondolták, hogy a szavak eredeti jelentésének kifürkészése közelebb visz Istenhez. Csak hát ők a görög, latin és mondjuk a héber (vagy a másik "isteni" nyelv, a szanszkrit) nyelvek szavaival törődtek, holott leginkább a magyart érdemes vallatni az isteni misztériumok, természeti és asztrális/asztroteológiai vonatkozások ügyében. (Az idegen nyelvek szavai pedig hihetetlen sokat segítenek a magyar szavak értelmének és fogalmak rendezésének feltárásában illetve ügyében.)  
+Valóban, a [[C/Címke\|címkézés]], a dolgok mibenlétének abszolutizálása, a tudatalattiba való beágyazása kulcsfontosságú az ellenerők oktatási/félrevezetési programjában. Ezért is tartom az etimológiát és filológiát a legfontosabb tudományterületnek. Persze ezzel régen is így voltak (például sevillai Izidor). Úgy gondolták, hogy a szavak eredeti jelentésének kifürkészése közelebb visz Istenhez. Csak hát ők a görög, latin és mondjuk a héber (vagy a másik "isteni" nyelv, a szanszkrit) nyelvek szavaival törődtek, holott leginkább a magyart érdemes vallatni az isteni misztériumok, természeti és asztrális/asztroteológiai vonatkozások ügyében. (Az idegen nyelvek szavai pedig hihetetlen sokat segítenek a magyar szavak értelmének és fogalmak rendezésének feltárásában illetve ügyében.)  
 A szavak, fogalmak valódi értelmének feltárása pedig éppen ősvallási-őstörténeti kérdések helyes tisztázásához elengedhetetlen. Ezért is fontos, hogy a dolgok fonákjáról közelítsük meg a kérdéseket, kivált, ha az igazságot is takarja.  
 —  
 A megtévesztésről és a címkézésről szólva lehet említeni a rendszerváltás és a [[D/Democracy\|demokrácia]] fogalmait: nem volt rendszerváltás és nincsen demokrácia.  
