@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MI/","title":"MI","created":"2025-05-29T14:32","updated":"2025-05-29T14:33"}
+{"dg-publish":true,"permalink":"/M/MI/","title":"MI","created":"2025-05-29T14:32","updated":"2025-06-08T18:20"}
 ---
 
 
@@ -13,7 +13,7 @@ Mi-ről, mint [[K/KI\|ki]] kérdőszavunk párjáról lásd még ott.
 
 Jogos kérdés, tekintve, hogy a magyar nyelvben is például [[I/Isten\|Isten]] és [[O/Ösztön\|ösztön]] szavaink összefüggést mutatnak. Valahol, talán Jankovics Marcell vagy Várkonyi Nándor valamelyik könyvében volt szó a közösséglélek/tudat témájáról.  
 Gyárfás Ágnes A király virágoskertje című az Ősi Gyökér 2015/1-2. sz. megjelent meseelemzésében a mitikus erejű állatsegítők (a kisegér, a kutya, a farkas és a róka) kapcsán (annak kapcsán, hogy lelkük erejét – sípot – ajánlották fel a király védelmére) írja az állatok lelkéről, hogy már hányszor megmagyarázták nekünk, hogy csak csoportos lélek működik bennük és csak ösztöneik vannak. (Lehet, hiszen a síppal még a lelküket is nekünk adták. Ha belefújunk, a lelküket érintjük leheletünkkel. Eggyé válunk, mert a természet egy egységes egész.)  
-Grandpierre Atilla Rőczei György: Az ősi magyar kettős lélekhit emléke a Halotti Beszédben című írása kapcsán is megjegyzi, hogy adatok léteznek az [[I/Isa\|isa]] "többes lélek", "közösségi lélek" jelentésére vonatkozóan.  
+Grandpierre Atilla Rőczei György Az ősi magyar kettős lélekhit emléke a Halotti Beszédben című írása kapcsán is megjegyzi, hogy adatok léteznek az [[I/Isa\|isa]] "többes lélek", "közösségi lélek" jelentésére vonatkozóan.  
 
 Az alábbiak elé azt is jegyezzük meg, hogy mi = mé = [[M/Méh\|méh]] egyezéseket vehetünk észre, de természetesen leginkább itt is (a [[L/Light\|light]] címnél taglalt felhívás figyelembevételével) a közös fény értelem veendő észre.  
 
