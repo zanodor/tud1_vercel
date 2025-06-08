@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Satyr/","title":"Satyr","created":"2023-11-13T05:21","updated":"2024-10-26T00:19"}
+{"dg-publish":true,"permalink":"/S/Satyr/","title":"Satyr","created":"2023-11-13T05:21","updated":"2025-06-08T18:25"}
 ---
 
 
