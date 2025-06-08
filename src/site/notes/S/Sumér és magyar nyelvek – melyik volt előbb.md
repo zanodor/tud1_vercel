@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2025-06-07T19:15"}
+{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2025-06-08T18:23"}
 ---
 
 
@@ -40,7 +40,8 @@ Persze ez lehet éppen óvatosság vagy a szumér erények kisebbítésének sz�
 ## Magyart sumérból levezetők és eljárásaik
 
 [[N/Novotny Elemér\|Novotny Elemér]], [[D/Dudás Rudolf\|Dudás Rudolf]], [[F/Farkasinszky Tibor\|Farkasinszky Tibor]], [[B/Badiny Jós Ferenc\|Badiny Jós Ferenc]], [[G/Gyárfás Ágnes\|Gyárfás Ágnes]] és sokan mások [[R/René Labat\|René Labat]] adatai alapján haladva állítják össze a magyar szavak értelmét a sumér alapján, ami helytelen. Maga az eljárás már azért is kritizálandó, mert indo-európaiak készítették a sumér-akkád szótárat, de már a sumér maga is önkényesen bánik a szórészekkel: önkényesen bántak a szótagokkal és önálló jelentéseket adtak nekik. Az igaz, hogy Péterfai János is részint ezek alapján határozza meg az alapszavak jelentéseit. A sumér mankó, de nem az alapnyelv.  
-Ennél merészebb és kiábrándítóbb már csak az, amikor hosszabb magyar szókapcsolatokat, szövegeket sumerizál valaki (mint Dudás a Tápiószentmárton nevet) és azok helyérték szerinti értelmezésén keresztül használja fel az általunk tökéletesen értett magyar szöveg értelmi "feltuningolására." Az Ősi Gyökér 1974/2-6. sz. megjelent Badiny Jós Ferenc által is leközölt cikkében – próbálom visszafogni magam a jelzővel – "garázdálkodó" – más esetekben oly éleseszűnek mutatkozó Novotny Elemérre gondolok (a szöveg eredetijét letöltésre elérhetőkönyvében is megtaláltam; majd óvakodni kell tőle (is)).  
+Ennél merészebb és kiábrándítóbb már csak az, amikor hosszabb magyar szókapcsolatokat, szövegeket sumerizál valaki (mint Dudás a Tápiószentmárton nevet) és azok helyérték szerinti értelmezésén keresztül használja fel az általunk tökéletesen értett magyar szöveg értelmi "feltuningolására." Az Ősi Gyökér 1974/2-6. sz. megjelent, Badiny Jós Ferenc által is leközölt cikkében – próbálom visszafogni magam a jelzővel: "garázdálkodó", a más esetekben oly éles eszűnek mutatkozó — Novotny Elemérről van szó.  
+
 Novotny Elemér csúcsra járatta nyelvünk sumér nyelven keresztüli bemutatását. Így jár az, aki – a történelmet nem ismerve, vagy például Horvát István írásait nem ismerve – a sumér nyelvből akarja a magyart meghatározni. Ha a fejlődési irányt megfordítjuk, akkor ilyen megborult elmék elméletei jönnek elő alapjában véve értelmes emberektől.  
 Mit csinál Novotny? Veszi a legrégebbinek tartott szövegeinket, kiemel belőle valami neki tetszőt és sumerizálja. Például:  
 A Halotti Beszédben megtetszik neki a következő szöveg: *Halalnek halalaal holz.*  
