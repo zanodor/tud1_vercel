@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-06-08T18:27"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-06-09T15:20"}
 ---
 
 
@@ -105,7 +105,17 @@ A fordítások a lábjegyzetekre is kihatással lesznek: az egyes lábjegyzetek 
 Az egyes szócikkek teljes nagybetűvel való felvételének oka, hogy az alapszavakat vagy ún. etimonokat (és teoretikus etimonokat) meg kívántam különböztetni a többitől. Az olyan szavak, mint [[B/BOG\|BOG]], [[S/SZEK\|SZEK]], és társai Napot, napminőséget (hímségi princípiumot) jelentenek és változataik (ezek között afféle teoretikus etimonok is szerepelnek) sok más szó részét képezik. Mivel nem kimondott – legalábbis nem az indoeurópai értelemben vett – szógyökök, hanem nemcsak a szavak elején szereplő szóelemek (szótagnyelv-elemek), ezért célszerű volt megkülönböztetni őket.  
 Más esetekben – pl. [[A/AB\|AB]], [[O/OP\|OP]], [[U/UG\|UG]] – sumér vagy más magyarral rokon nyelv szavai alapján kerültek kialkotásra szógyökök, még akkor, amikor nem markdown alapú programot és nem tag-es rendszert nem használtam, azaz ezeket leginkább egyfajta könyvjelzőzésre használtam, hogy jelezzem, ezek szóelemek építőkockái lehetnek fontos szavaknak. Egyes esetekben (pl. [[P/PAZ\|PAZ]], [[P/PECS\|PECS]], [[P/PEZS\|PEZS]], [[B/BÉZS\|BÉZS]]) talán túlzásba vittem őket, így idővel ezek akár törlésre is kerülhetnek.  
 
-Az írásban leginkább a fejedelmi többest használom, abban bízva hogy együtt gondolkodunk és amit én magam feltártam, más is feltárta vagy feltárhatta volna.  
+Az írásban leginkább a fejedelmi többest használom, abban bízva, hogy együtt gondolkodunk és amit én magam feltártam, más is feltárta vagy feltárhatta volna.  
+
+### Kerek és szögletes zárójelek használata idézett szövegekben és nálam
+
+Nem a hivatalos akadémiai citálási eljárást használtam, hanem címsorokba kerültek a szerzők és – ahol lehetett – kiadványok címei, azzal a megfontolással, hogy könnyebben kereshetők és navigálhatók legyenek.  
+Igyekeztem újabban megjegyzéseim az idézett szövegek alá tenni, de korábban szögletes zárójelekbe kerültek és lehet, hogy ott is maradnak.  
+Ilyenkor nem egyértelmű, hogy a szögletes zárójeles megjegyzés a szerzőtől való, vagy tőlem. Emlékeim szerint leginkább Várkonyi Nándornál voltak ilyen szögletes zárójeles megjegyzések, ill. Grandpierre Atillánál G. A. rövidítéssel. A többi – talán a tónus alapján is kivehetően(?) – az enyém.  
+Az ilyen szögletes megjegyzéseim szövegen belül leginkább arra irányulnak, hogy a téves gondolkodásra rámutassak; pl. XY etimonok ismerete hiányában nem tudhatta, stb.  
+Kerek járójelek idézett szövegben mindig (vagy 99%-ban) a szerzőtől valók!  
+
+Amikor saját eszmefuttatások közepette használok megjegyzéseket, előfordulhatnak ilyen-olyan megoldások. Ha menet közben észreveszek valamit, javítom: a szögletest kerekre, vagy akár gondolatjeles megoldásokra.  
 
 ### A tartalom
 
