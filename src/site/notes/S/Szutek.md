@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2025-06-07T18:58"}
+{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2025-06-09T15:21"}
 ---
 
 
@@ -54,7 +54,7 @@ A hikszoszok bizonyos ([[S/Széth\|Széth]]tel azonosított) Sutekh (Süt-Ég, S
 > —  
 > Bár Szetet eredetileg Ré és az egyiptomi királyok fiának és védelmezőjének tekintették, az emberek körében az Ozirisz-kultusz térhódításával párhuzamosan megítélése is romlott. Az eredetileg vegetációs isten, Ozirisz az egyiptomi panteon egyik kiemelkedő istene lett. Az ő imádata a megtestesült erőszak szerepét hangsúlyozta: Szet a testvére gyilkosa és trónbitorlója volt, aki ahelyett, hogy Hórusz mellett állt volna, örök ellensége lett. Ez a Szet-kép a második köztes korszakban erősödött meg, amikor Egyiptomot megszállták a nyugat-ázsiai hükszoszok, akiknek istenét, **Sutekh-et azonosították Szettel**.  
 
-A görögök Széth-et vagy Sutekh-ot a szörnyeteggel, [[T/Typhon\|Tüphon]]nal azonosították, írja még a Wiki, ami visszavezet a [[H/Hykszosz\|hykszosz]] címnél Péterfai János által írottakhoz.  
+A görögök Széthet vagy Sutekh-et a szörnyeteggel, [[T/Typhon\|Tüphon]]nal azonosították, írja még a Wiki, ami visszavezet a [[H/Hykszosz\|hykszosz]] címnél Péterfai János által írottakhoz.  
 
 ## Szutek másnevei
 
