@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-06-07T23:01"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-06-09T15:21"}
 ---
 
 
@@ -146,7 +146,7 @@ Könyve 883-884. oldalán írja:
 
 ## Óegyiptomi példa
 
-Ilyennel is találkozni. Pl. a több helyen említett óegyiptomi `p-t`/`pt` jelentése ég, égbolt, melynek megfelel illetve nyilván ennek nyomán jött létre a Mercer (1952: II, 183, 509) adatát megosztó Morris Silver Talking Ancient Mythology című könyvében megadott `pdt`/`pedjet` = ív, íj; égbolt szó.  
+> Ilyennel is találkozni. Pl. a több helyen említett óegyiptomi `p-t`/`pt` jelentése ég, égbolt, melynek megfelel illetve nyilván ennek nyomán jött létre a Mercer (1952: II, 183, 509) adatát megosztó Morris Silver Talking Ancient Mythology című könyvében megadott `pdt`/`pedjet` = ív, íj; égbolt szó.  
 
 ## Lábjegyzetek
 
