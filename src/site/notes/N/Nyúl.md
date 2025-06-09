@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nyúl/","title":"Nyúl","tags":["Englishtexttranslated"],"created":"2023-10-13T01:41","updated":"2025-06-08T01:39"}
+{"dg-publish":true,"permalink":"/N/Nyúl/","title":"Nyúl","tags":["Englishtexttranslated"],"created":"2023-10-13T01:41","updated":"2025-06-09T15:21"}
 ---
 
 
@@ -51,7 +51,8 @@ Pintye Mihály Nyelvünkről című az Ősi Gyökér 2008/2. sz. megjelent cikk�
 CzF másképp elemzi a szót. [[N/Null\|Null]] szónál felvetődött bennem a Ne-Ul, Ne-Ul = Nyúl (női csillag, leánygyermek) felbontás. A Nyulat, mint csillagképet lehet/szokták nyúl igénkhez és [[N/Nyolc\|nyolc]]as alakhoz és számhoz viszonyítani. Mivel az [[O/Orion\|Orion]]/Vadász körzetében van, ahogy két kutyája is, egész biztosan egy összetartozó történetet mesél el a csillagos ég ezen szelete: tán a legfontosabbat.  
 Legutóbb [[H/Halak csillagkép\|Halak csillagkép]] címnél is erről szóltunk, valamint arról (is), hogy a Nyúl a keleti állatövben a Szűznek is megfelelhet.  
 [[S/Szűz csillagkép#Szűz mint kezdet\|Szűz mint kezdet]] cím/alcímnél írtuk:  
-A Szűz – Nulla kapcsolatát az is mutatja, hogy a keleti zodiákusban a Szűznek a Macska és Nyúl felel meg (a keleti holdházak a Szűzön belül is Nyúl/Macska és Medve). A [[N/Nyúl\|nyúl]] = [[N/Nulla\|nulla]] összefüggését nem kell magyarázni.  
+A Szűz – Nulla kapcsolatát az is mutatja, hogy a keleti zodiákusban a Szűznek a Macska és Nyúl felel meg (a keleti holdházak a Szűzön belül is Nyúl/Macska és Medve). A [[N/Nyúl\|nyúl]] = [[N/Nulla\|nulla]] összefüggését nem kell magyarázni, de a nyíl-ik = kezd összefüggése is érthető (csak leginkább a Kos/[[A/April\|április]] kapcsán láttuk eleddig).  
+
 Korábban is írtuk már itt:  
 Szólni lehet még a nyúlról, mint a Szűz jegy keleti megfelelőjéről. Pap Gábor említi [[K/Kacor király mese\|Kacor király mese]] elemzése kapcsán, hogy a nyúl legfontosabb tulajdonsága a sokasodás, mely mai világunkra is testi értelemben jellemző: a népesség hihetetlen ütemben nő (ma a [[S/Szűz-Halak tengely\|Szűz-Halak tengely]]en is vagyunk: testi értelemben sokasodunk, spirituálisan halottak vagyunk).  
 Lásd még Jankovics Marcell Jelkép-kalendárium című könyvének 127. oldalától.  
@@ -75,8 +76,9 @@ A germán, olasz, stb. eredeztetésekre szakosodott Supka Géza Kalandozás a ka
 > A botlást az egyébként annyira pontos németek követték el, amikor a fiatal, kövér madárnak, a Haselhuhnnak a nevét értették félre Haserlnek, nyulacskának, s azóta – minden természettudományos jobb meggyőződésük ellenére – nyúllal tojatják a piros tojást.  
 - [[N/Nyelvészet mint tudomány\|Nyelvészet mint tudomány]], valamint [[N/Népetimológia\|népetimológia]] címnél (ezen utóbbi címnél meg is tárgyaltuk ezt a témát) is szóltunk az efféle csapdákról: nem úgy kell a nyelvi botlásra gondolni, hogy egyik az átadó, másik az átvevő, hanem közös eredetű alapnyelv és közös turáni-szkíta-hun nézetrendszerek variánsai alakítják illetve vannak befolyással a másikra úgy, hogy akár az adott hagyományt jobban fenntartó kárára történik a változtatás, mely káros elemek éppen azon indoeurópai és sémi területekről is érkeznek, melyeket Supka szinte állandó jelleggel mutat fel kultúraátadónak, a hivatalos nézeteket követve.  
 
-#### Jankovics Marcell írja Jelkép-kalendáriumában:
+#### Jankovics Marcell Jelkép-kalendárium...  
 
+...című könyvében írja:  
 > A Hold apasztó-dagasztó erejét, ami legszembetűnőbben az árapály-jelenségben nyilvánul meg, a régiek kivetítették az élőlényekre is. Ezért lett égi kísérőnk az anyaméh, a női ciklus, a terhesség, a szülés és a férfi potenciájának planetáris ura. Mindennek nagyon is illő jelképe a [[N/Nyúl\|nyúl]]. Eleinket igazolja, hogy az emlősök vemhességének időtartama a holdhónapok egész számú többszöröse. Ez alól épp a mezei nyúl a "kivétel", az övé a mitikus időszámításban oly jelentős másfél holdhónapig tart ([[N/Negyvenkettő\|negyvenkettő]] napig).  
 
 #### John G. Jackson Christianity before Christ...
