@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kő/","title":"Kő","created":"2024-05-08T13:48","updated":"2025-06-08T01:07"}
+{"dg-publish":true,"permalink":"/K/Kő/","title":"Kő","created":"2024-05-08T13:48","updated":"2025-06-12T01:39"}
 ---
 
 
 # Kő
 
-A Kő (lásd [[K/KU\|KU]]) az aztékoknál Isten is (lásd [[T/Teotl\|teotl]]), ami a bálványok isteni tartalmára is rávilágít. A bálványokat sokáig kövekből faragták. [[M/Mózes\|Mózes]] is kőtáblákat hoz. Így az angol [[S/Stone\|stone]] (Kő) szó Isten értelme jobban érthető. Sok kő jelentésű szavunk fogalmában jelen van az isteni fogalom.  
-
 #### Péterfai János írja:
 
+> Amerikában a [[T/Teotl\|Teotl]] azték szó Istent, vagyis Tent jelent. Teo a szógyök, Köves, Tartós, Hatalmas a jelentése. Sokáig kövekből faragtuk a szobrokat is, a fémek beszennyezték az alkotást, kivéve az aranyat. A Tl főnévképző, a Teo-Tl jelentése Istenség. A Kő \[lásd még [[K/KU\|KU]]\] az aztékoknál Isten is, ami a bálványok isteni tartalmára is rávilágít. A bálványokat sokáig kövekből faragták. [[M/Mózes\|Mózes]] is kőtáblákról beszél. Így az angol [[S/Stone\|Stone]] (Kő) szó Isten értelme jobban érthető. Sok kő jelentésű szavunk fogalmában jelen van az isteni fogalom. Aztékok érkeztek a titokzatos Aztlán országból Mexikó (Mehiko) középső völgyébe. A Nahua nyelvcsoporthoz tartozó nyelvet beszéltek, mint a völgy többi törzse.  
+> \[...\]  
+> 
 > Földanya Isten, akinek Csontjai a Stone-ok[^1]. Csont és Stone azonos szerkezetű szó. Továbbá az [[I/Isztán\|Isztán]] is Kő, mint a Csont is Kő a testben, a halál után a csontok megkövesülnek. A magyar nyelv ötven szónál jóval többet használ a föld különböző neveire. Mivel a Földanya őseink szemében élő és női személyiség volt, testének a felépítésében a Kövek alkották a Csontokat, a Stone tehát a Földanya Csontja, Isteni megnyilvánulása. A hegyek a Földanya csontjai, a talaj, mező és egyéb változatok már nem a Földanya csontozatára mutató nevek. Kő szavunk nem általában Isten, hanem kifejezetten a Földanya isteni neve, több változatban is megismerhető. A Csont a Szont, vagyis Szent, a Szton a Szont rontása.  
 - A kő és a csont fogalmainak összefüggésére mutat rá, hogy a szlávban is `koszt` = csont, mint [[C/Csontváry Kosztka Tivadar\|Csontváry Kosztka Tivadar]] nevében is.
 
@@ -21,6 +22,14 @@ A Kő (lásd [[K/KU\|KU]]) az aztékoknál Isten is (lásd [[T/Teotl\|teotl]]), 
 
 Hasonló utóbbiakhoz a japán `kabe` = fal, mely akár kőből épült is lehet.  
 Melyhez hasonló már egyúttal [[K/Kép\|kép]] szavunk is, ahol szintén szó esett kőről. Lásd még alant.  
+
+## Hasonló idegen nyelvű szavak
+
+A [[K/Kutya\|kutya]] címnél is említett perzsa és hindi `kuh`, `koh` = hegy szavak eredetét lásd [ezen Wiki oldalon](https://en.wiktionary.org/wiki/%DA%A9%D9%88%D9%87), ahol a `kova` szavunknak megfelelő óperzsa `kaufa` = hegy szóra vezetik vissza.  
+
+Az [ezen](https://dictionary.swodli.com/) szótárban talált, hegy szóval is egyeztethető dakota `ḣe` = hegy jelentésű, de a hasonló `he` = szarv, agancs is jól megfér a hegy jelentéssel.
+{ #250529}
+
 
 ## Kőemlékek és bálványok
 
