@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2025-06-08T01:40"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2025-06-12T01:38"}
 ---
 
 
@@ -214,7 +214,7 @@ skinparam card {
     roundCorner 15
     BackgroundColor #f9f5d7
 }
-rectangle "<b>Isten</b> – Úr, Kutya, Magur (Ur-Mah = Nagy Úr/Kutya)\nHegynek fel (domború ív)\n<b>Ördög/Sátán</b> – Úr, Kutya, Hunor-Khamor\nHegynek le (homorú ív)\n\n\t\t\t\t <b>Egy</b> = <b>Kettő</b>" as head
+rectangle "<b>Isten</b> – Úr, Kutya\nHegynek fel (domború ív)\n<b>Ördög/Sátán</b> – Úr, Kutya, Hunor-Khamor\nHegynek le (homorú ív)\n\n\t\t <b>Egy</b> = <b>Kettő</b>" as head
 card "Ur, Men, Ku-Ta, Dug (Dag)" as w1
 card "Dug és Kuta" as w2
 card "Khuda" as w3
