@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/ÉL/","title":"ÉL","tags":["Englishtexttranslated"],"created":"2023-11-21T10:58","updated":"2024-10-25T17:15"}
+{"dg-publish":true,"permalink":"/E/ÉL/","title":"ÉL","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-21T10:58","updated":"2025-06-12T01:38"}
 ---
 
 
@@ -61,6 +61,27 @@ L>R változással azonos szavunkkal az [ezen](https://youtu.be/XX3h2fY2JRs) Baha
 - Oláh Imre említi még ([[C/Csudaszarvas\|Csudaszarvas]] címnél bővebben is szerepelt), hogy az ősarámi keresztyén Bibliában az **Isten és a szarvas neve egyazon szó**val: **Áajloha** ill. **Aajlaha**-val fejeztetik ki. Ezen szavak ide illenek.
 Lásd még Jankovics által hozott hasonló szavakat [[A/Allah#^4q05t\|itt]].
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/I/Isten/#4dyg6m" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+- Gemini írja a standard arámi nyelvi források alapján:  
+> 1\.  **Isten neve arámiul:** A Biblia arámi részeiben (pl. Dániel könyve, Ezsdrás könyve) és a szír (egy arámi dialektus) nyelvű keresztény hagyományban Isten neve általánosan *Elaha* (אֱלָהָא) vagy szírül *Aloho* (ܐܲܠܵܗܵܐ). Ez a szó rokon a héber *Elohim* (אֱלֹהִים) és az arab *Allah* (الله) szavakkal. A kiejtése nagyjából 'Elaha' vagy 'Aloho'.
+> 2\.  **Szarvas neve arámiul:** A szarvasra vagy őzre használt arámi szó a *ayala* (אַיָּלָא) vagy szírül *ayyala* (ܐܲܝܠܵܐ). Ennek kiejtése nagyjából 'ajala' vagy 'ajjala'.
+> **Összehasonlítás:**
+> *   Isten: *Elaha* / *Aloho*
+> *   Szarvas: *Ayala* / *Ayyala*
+> 
+> Látható, hogy a két szó hasonlóan hangzik, különösen az elejük ("A" vagy "E" hang, "l" hang), de nem azonosak. A "szarvas" szóban van egy "y" (j) hang, ami a "Isten" szó standard arámi formájában nincs jelen. A "Isten" szó végén van egy "h" hang, ami a "szarvas" szó standard formájában nincs.
+> 
+> A szerző által említett "Áajloha" vagy "Aajlaha" forma hasonlít mindkettőre, de nem felel meg pontosan a standard arámi szavaknak. Lehetséges, hogy ez egy specifikus kiejtés, egy ritka dialektus, vagy egy szimbolikus/teológiai értelmezés eredménye, nem pedig a két fogalom standard nyelvi azonossága az arámi Bibliában.
+> 
+> Összefoglalva: A standard arámi nyelvi források szerint Isten és a szarvas neve két különböző szó (*Elaha/Aloho* és *Ayala/Ayyala*), bár van némi hangzásbeli hasonlóság közöttük. A magyar szerző állítása nem felel meg a standard etimológiai és nyelvi magyarázatnak, de lehetséges, hogy egy specifikus interpretációra vagy kiejtésre alapozza. 
+
+</div></div>
+
+
+Kállay folytatja:  
 > El, Elohah, El-Elion, Eliun, El-Elia, Elia, Ilos, Elajsus, Elieus, Elvos, névformák idéztetnek az irók után, syrus, arab, zsidó, phoenicziai, egyiptomi földön, Cyprusban, hol phoenicziai telepek voltak s Hephaistosnak ( = Ormuzd, vesta) görög dorusi neve Ελωος Hesichius szótárában. Jahn arab grammatikájában (p. 40.) arabul `ila`, `ilah`, `oela` = isten, melyből lett későbben Frahn szerint al névelővel egybekötve a török `alla`, v. `allah`. ([Lásd 233. old.](zotero://open-pdf/library/items/DFI47XPY?page=233&annotation=H6842RPR))
 > 
 > A zsidó él gyökszó (vis, robur) a persa charezmi dialectben `il` = fortis, prudens, melyet Herbelot szerint a tatár fejedelmek is gyakran használtak czimeikben, mint Il-arslan, Il-chan stb. ([Lásd 233. old.](zotero://open-pdf/library/items/DFI47XPY?page=233&annotation=CMRUXRRE))
