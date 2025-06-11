@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-06-08T01:13"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-06-12T01:38"}
 ---
 
 
@@ -222,12 +222,10 @@ Vagy ott van a nemrég felvetett Winter – Hunter és a [[W/Wing\|wing]] címn�
 
 D>H változás lehetősége is fennáll, D>Th>H fejlődési sorrendben. Pl. [[Medico\|medico]] szót a spanyolban majdnem mehiko-nak hallani.  
 
-D>L mássalhangzó-váltásra(?) egy példa a latin `dingua` (nyelv a szájban) és `lingua` (beszélt nyelv). (Mivel [[L/Language\|language]] [[L/Láng\|láng]]gal hozatott kapcsolatba, ez nem lesz jó példa.)  
+D>L mássalhangzó-váltásra (lambdacizmus: dentális stopból likvidává változás) egy példa a latin `dingua` (nyelv a szájban) és `lingua` (beszélt nyelv). (Mivel [[L/Language\|language]] [[L/Láng\|láng]]gal hozatott kapcsolatba, ez nem lesz jó példa.)  
 Efféle változásról illetve hasonló esetekről másutt elvétve volt szó, például [[A/Alder\|alder]] címnél, de legutóbb a magyar nyelvben is találtam ilyet, ha erről van szó. Ugyanis a `medence` és a `melence` mindkettő nőiségi vályu/teknő forma, efféle fogalom.  
-[Ezen](https://qr.ae/pN2zde) Quora válaszban védikus és klasszikus szanszkrit és prakrit nyelvek szavainak, hangjainak hasonlításában a válaszadó is szól erről az esetről, de mintha fordított esetről szólna:  
-> It is to be noted that early Vedic most probably did not have a "D" retroflex. The "D" retroflex was actually an "L" of Rigveda or "Z" of Yajurveda, both of which now survive in their close forms in Dravidian languages. The emergence of "D" indicates the arrival of Prakrit.  
-> —  
-> Megjegyzendő, hogy a korai védikus nyelvben valószínűleg nem létezett a retroflex "D" hang. A retroflex "D" valójában a Rigvédában "L", a Jadzsurvédában pedig "Z" volt, amelyek mindkettője rokon formában máig fennmaradt a dravida nyelvekben. A "D" megjelenése a prakrit nyelv térhódítására utal.  
+Hasonló eset állhat fenn a sziú indiánok nyelvében: a dakota `khodá` = barát és lakota `kola` = barát szavak egymás párjai.  
+
 
 J>D változás szabálytalannak tartandó, viszont J = GY > D fejlődéssel vagy akár J = H > SZ/TH > D fejlődéssel számolhatunk. Freya > Frida nevek kapcsán ötlött fel, de a magyar nevünk megannyi változata kapcsán is láttuk, hogy működik.  
 
