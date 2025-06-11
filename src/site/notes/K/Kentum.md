@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kentum/","title":"Kentum","created":"2025-05-29T17:30","updated":"2025-05-30T23:45"}
+{"dg-publish":true,"permalink":"/K/Kentum/","title":"Kentum","created":"2025-05-29T17:30","updated":"2025-06-12T01:38"}
 ---
 
 
@@ -13,6 +13,7 @@
 
 A fő konklúzió az, hogy ez egy magyar flexiós jelenség és a kimmér-szumer példa helyett egy lényegesebbre is felhívhatjuk a figyelmet: tulajdonképpen a [[K/Kutya\|Ku-Ta]] összetétel, mely a kutya szót is alkotja, egyszerre utal a [[S/Süt\|süt]] és [[S/Sötét\|söt(ét)]] fogalmára azzal, hogy a Kutya csillagkép (és főképpen az az mellett lévő Tejút sáv) az éggömböt felezi ill. a fényes és sötét félévet választja el.  
 A kutya mellett a [[S/Suta\|suta]] (lásd még [[C/Csuda\|csuda]]) szavak mutatnak rá a fényes és sötét együttlétére; lásd még [[D/Dialektikus ellentét\|dialektikus ellentét]].  
+- [[E/El Shaddai\|El Shaddai]] címnél pedig rámutattunk, hogy ha Ku-Ta = hegyet is jelent és S-D vázú szó lehet hegy jelentésű, akkor S-T/S-D vázú szavak valamilyen nyelvben előfordulhatnak kutya jelentéssel. Lám, a másutt is említett ajnó/ainu `seta` és a mundari `seta` = kutya jelentésű.
 
 Egy másik jó példa:  
 A francia `dommage` = kár és az angol `damage` = sérülés szavak ilyen jelentései mutatnak rá, hogy a [[K/KÁR\|kár]] = [[S/SZAR\|szar]] = [[S/Sért\|sér]] mind egy.  
@@ -45,4 +46,5 @@ Jó példa a kentum-szatem ágak összetartozóságára a svéd/norvég K hang, 
 
 A Kabar, Kovár a Kentum hangzás alapján kimondott nevek, amelyek *keleties* Szatem hangzás alapján Szabar, Szovár hangzásúak.  
 
-Az, hogy a szatem keleties, lehet, hogy igaz, de legutóbb [[C/Csuda\|csuda]] címnél kifejtettük, hogy a magyar nyelv magában hordozza a lehetőséget arra, hogy egyes kemény hangzói (mint a K) meglehessen s, sz, cs formában is, némi jelentésmódosulattal is. Így a Magyar Adorján által taglalt régi `csod` vagy `csud` = "süt, fény, ég" keményebb, eredetibb párja lehet [[K/Kut\|kut]], [[C/Csuda\|csudá]]nak pedig [[K/Kutya\|kutya]], de eredeti a [[S/Süt\|süt]] is (hisz ez [[T/Tűz\|tűz]] szavunk megfordítása).  
+Az, hogy a szatem keleties, lehet, hogy igaz, de legutóbb [[C/Csuda\|csuda]] címnél kifejtettük, hogy a magyar nyelv magában hordozza a lehetőséget arra, hogy egyes kemény hangzói (mint a K) meglehessen s, sz, cs formában is, némi jelentésmódosulattal is. Így a Magyar Adorján által taglalt régi `csod` vagy `csud` = "süt, fény, ég" keményebb, eredetibb párja lehet [[K/Kut\|kut]], [[C/Csuda\|csudá]]nak pedig [[K/Kutya\|kutya]], de eredeti a [[S/Süt\|süt]] is (hisz ez [[T/Tűz\|tűz]] szavunk megfordítása).
+{ #i1e0w6}
