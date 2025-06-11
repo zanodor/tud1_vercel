@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2025-06-08T01:14"}
+{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2025-06-12T01:38"}
 ---
 
 
@@ -9,7 +9,7 @@ Dr. Lónay Gyula az általa sajátosan értelmezett [[M/Megy\|megy]] szó értel
 
 #### Péterfai János írja:
 
-> A Medvék neve magyar eredetű, Méz-Evő a jelentése. A Medvigy is mézevő. A hun `Medos` Mézös ital, amiben szintén benne van a Méd/Méz szó. De a szumer `Me` (és Mé, Mu) Fény, amely szó Da jelzőt kapva alakul ki a Méd – Méz szó. Ha valaki megtanul magyarul, akkor nem újdonság neki a sok meglepő tény, így a medve szó magyar eredete sem. A Medve név Ve része kisebb istent jelent, ami miatt a medvék a méz főnökei, őseink szerint. A finneknél a vasat a medve és a farkas találja fel.  
+> A Medvék neve magyar eredetű, Méz-Evő a jelentése. A `Medvigy` is mézevő. A hun `Medos` Mézös ital, amiben szintén benne van a Méd/Méz szó. De a szumer `Me` (és Mé, Mu) Fény, amely szó Da jelzőt kapva alakul ki a Méd – Méz szó. Ha valaki megtanul magyarul, akkor nem újdonság neki a sok meglepő tény, így a medve szó magyar eredete sem. A Medve név Ve része kisebb istent jelent, ami miatt a medvék a méz főnökei, őseink szerint. A finneknél a vasat a medve és a farkas találja fel.  
 >
 > A Med-Ve névben a Ve kisebb isten, a Va/Ve rendszer alapján, a Med pedig éppen saját egyik népnevünk, a Méd – Megyer alapja. A Medvék népe lennénk[^1]? Bizonyos mértékig talán.  
 > A kínai népi hagyományban Ti-Sa, a névben a Ti – Föld, a Sa – Szellemek ártalmas hatása –, 72 csillag ártó szelleme. A Ti-Sa szemben áll a Nagy Medve csillagainak 36 szellemével, őket Tien-Kannak nevezik, Tien – Ég, Kan – a Nagy Medve. Ti-Sa ugyan csillagok szelleme, de mégis a Föld gonosz erőinek a megtestesülése. Egy ifjú mágus parancsol a Ti-Sa szellemeinek. A két erő, a 72 és 36 a 108 összetevője. A Nagy Medve a Föld forgatásához is kell, Úr Sus az Úr Keze, továbbá a latinban Medve. A mágus a [[P/Precesszió\|precesszió]] ismerője lehet.  
@@ -67,6 +67,7 @@ Majd a 212. oldalon:
 Falvay Károly Nagyboldogasszony című könyvének 297. oldalán a legnagyobb erejű állatok kapcsán azt írja, hogy tulajdonképpen ami északon a medve, az délen az oroszlán és hogy mindkettő kötődne [[A/Artemisz\|Artemisz]]hoz is. [[U/Ursa Maior\|Nagy Medve csillagkép]] és [[O/Oroszlán\|oroszlán]] címnél volt szó arról, hogy a medve nevei inkább az oroszlán névalakjára emlékeztetnek.  
 
 Igen hasonló a medve névhez a lakota mitológia **Mato** (pajkos medveszellem) neve. Az [alábbi](https://en.m.wikipedia.org/wiki/List_of_Lakota_mythological_figures) Wiki oldalon található róla info.  
+Az [ezen](https://dictionary.swodli.com/) dakota-angol szótárban talált `mato` = medve is bizonyítja, hogy a sziúknál ez a névalak medvét jelentett, sőt, az észak-amerikai indiánoknál is [[U/Ursa Maior\|Nagy Medve csillagkép]]et vettek ott, ahol mi, nem Hét Arapapagájt, mint a maják.  
 
 ## Medve jelentésű szavak egyes nyelvekben
 
