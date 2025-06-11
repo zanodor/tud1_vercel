@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Palm/","title":"Palm","created":"2025-06-08T18:26","updated":"2025-06-08T18:27"}
+{"dg-publish":true,"permalink":"/P/Palm/","title":"Palm","created":"2025-06-08T18:26","updated":"2025-06-12T01:39"}
 ---
 
 
@@ -39,4 +39,4 @@ Tomory Zsuzsa Istenes magyar emlékeink II. rész című, Csudaszarvasról és T
 > "Krisztus szent testét cédrusfa tartotta, Az Ő két karját pálmafára nyújtották, Az Ő szent nevét, titkát a fák kutatták..." (8: 126. imádság)  
 > Lehetetlen e képben fel nem ismerni őseink Istenfiát, a pálmafa villájában megjelenő Világ Világát.  
 
-Lásd még [[R/Religion\|religion]]. Lásd még [[P/Palmetta\|palmetta]], továbbá [[T/Tenyér\|tenyér]], [[F/Finger\|finger]] és [[F/Five\|five]].  
+Lásd még [[R/Religion\|religion]]. Lásd még [[T/Tenyér\|tenyér]], [[F/Finger\|finger]] és [[F/Five\|five]].  
