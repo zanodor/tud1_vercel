@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ache/","title":"Ache","created":"2024-03-16T22:48","updated":"2025-06-07T18:44"}
+{"dg-publish":true,"permalink":"/A/Ache/","title":"Ache","created":"2024-03-16T22:48","updated":"2025-06-12T01:37"}
 ---
 
 
@@ -70,5 +70,4 @@ ache -- ágy : ágynak esik (fájdalom)
 
 @enduml
 ```
-
   
