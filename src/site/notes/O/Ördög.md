@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2025-06-12T01:38"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2025-06-13T20:55"}
 ---
 
 
