@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Trianon/","title":"Trianon","tags":["Englishtexttranslated"],"created":"2024-10-27T11:54","updated":"2025-06-07T19:14"}
+{"dg-publish":true,"permalink":"/T/Trianon/","title":"Trianon","tags":["Englishtexttranslated"],"created":"2024-10-27T11:54","updated":"2025-06-13T20:55"}
 ---
 
 
@@ -145,7 +145,7 @@ Rónai Lászlóné Trianon – Avagy az 1100 éves Magyarország keresztre fesz�
 A globalizációs törekvések kezdték szárnyukat bontogatni, s a háborúk oka már nem mindig a területszerzés volt, hanem az újonnan kirajzolódott nagyhatalmi hegemónia vonalának minden áron történő védelme és erősítése, az azt fenyegetni látszó trónfosztókkal szemben. Országunk sorstragédiájának oka is valahol ebben keresendő, mint ahogyan azt már sok kiváló kutatónk, történészünk bebizonyította.  
 
 [^2]: Lábjegyzet:  
-Egy korábbi, az [alábbi](https://youtu.be/sGGK1gkAkzM) saját csatornámra is feltöltött Ne Legyen Áldozatos videó első felében ill. közepetáján sorolja fel Pap Gábor a magyarok felszámolására tett intézkedéseket.  
+Egy korábbi, az [alábbi](https://youtu.be/sGGK1gkAkzM) saját csatornámra is feltöltött Ne Legyen Áldozatos videó első felében ill. közepe táján sorolja fel Pap Gábor a magyarok felszámolására tett intézkedéseket.  
 
 [^3]: Lábjegyzet:  
 Francesco Nitti, Prime Minister of Italy, September 1924: "No country was perished more viciously in Trianon than Hungary. But this country is dwelled by spiritually strong people, who won't be resigned to the demolition of their country. Hungary's dismembering is so dishonourable that no one takes responsibility for it. Everybody acts like they don't know about it, everybody is in coy silence. The reference to the right of nations' self-determination is only an untrue formula... they misused their victory in the most vicious way... There's no French, English or Italian who would accept the conditions forced to Hungary for their own nation..."  
