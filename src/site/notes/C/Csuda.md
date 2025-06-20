@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions"],"created":"2025-06-12T01:36","updated":"2025-06-12T01:37"}
+{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions"],"created":"2025-06-12T01:36","updated":"2025-06-20T23:35"}
 ---
 
 
@@ -235,6 +235,6 @@ head -up->w5 : "Sumér **Utu** napisten"
 @enduml
 ```
 
-Ezzel körbeértünk. Ég, Hegy, Egy, Atya, és, lám még az [[A/Ács\|Ács]] is megjelenik, Teremtő minőségben, hiszen József és Jézus foglalkozásai valójában többletjelentést tartalmaznak, és ezt egy ácsot carpenter-ként ismerő világpolgár nem fogja észrevenni, de mi, csodás nyelvünkkel észrevesszük.  
+Ezzel körbeértünk. Ég, Hegy, Egy, Atya, és, lám még az [[A/Ács\|Ács]] is megjelenik, Teremtő minőségben, hiszen József és Jézus foglalkozásai valójában többletjelentést tartalmaznak, és ezt az ácsot `carpenter`-ként ismerő világpolgár nem fogja észrevenni, de mi, csodás nyelvünkkel észrevesszük.  
 
 Innen még lehetne tovább menni, hogy ha Jézus szarvasfiúként való értelmezése ismert, akkor [[M/Mária\|Mária]] lehet-e pl. szarvas[[M/Marha\|marhá]]val kapcsolatba hozható..? Valószínűbb, hogy a [[M/Magyar Ilona\|Magyar Ilona]] istennőnevet kell keresni benne...amivel visszatérnénk [[E/ÉL\|Él]] istennevünkhöz, a szarvas `elen` alakú neveihez és a többi...  
