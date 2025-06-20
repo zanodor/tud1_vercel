@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2025-06-08T00:59"}
+{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2025-06-20T23:34"}
 ---
 
 
@@ -197,7 +197,7 @@ Götz László Keleten kél a Nap című könyvében is a hivatalos felfogást m
 > | Jellemző talajtípus| feketeföld, barnaföld, öntéstalaj      | öntéstalaj          |
 > 
 
-
+  
 
 #### Bárczy Zoltán Töprengések a hazáról I. rész...
 
