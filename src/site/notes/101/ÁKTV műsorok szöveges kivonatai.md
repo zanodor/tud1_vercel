@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-06-21T00:08"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-06-21T00:23"}
 ---
 
 
@@ -18,7 +18,7 @@
 [250616CN! KODÁLY ORSZÁGA](https://rumble.com/v6uvoul-250616cn-kodly-orszga-kubnyi-tams-ktv.html)  [https://archive.ph/ok84M](https://archive.ph/ok84M)
 [250613CN! SZERETET TANÍTÁS 1](https://rumble.com/v6uqoj5-250613cn-szeretet-tants-1-kubnyi-tams-ktv.html)  [https://archive.ph/cv4JS](https://archive.ph/cv4JS)
 [250612CN! LEVÉL A MINISZTERNEK](https://rumble.com/v6uotzd-250612cn-levl-a-miniszternek-kubnyi-tams-ktv.html)  [https://archive.ph/llqdS](https://archive.ph/llqdS)
-[250611CN! LOVAS ISTVÁN](https://rumble.com/v6un4zr-250611cn-lovas-istvn-kubnyi-tams-ktv.html) [[STICKY/_WEB_CLIPPER/_YT_TRANSCRIPTS/Kubínyi Tamás/250611CN! LOVAS ISTVÁN - Kubínyi Tamás ÁKTV\|250611CN! LOVAS ISTVÁN - Kubínyi Tamás ÁKTV]] [https://archive.ph/yFUh6](https://archive.ph/yFUh6)
+[250611CN! LOVAS ISTVÁN](https://rumble.com/v6un4zr-250611cn-lovas-istvn-kubnyi-tams-ktv.html)  [https://archive.ph/yFUh6](https://archive.ph/yFUh6)
 [250610CN! ULU MADZSAR](https://rumble.com/v6ul6pl-250610cn-ulu-madzsar-kubnyi-tams-ktv.html)  [https://archive.ph/ogluI](https://archive.ph/ogluI)
 [250606CN! UGROS ELIMINANDOS ESSE!](https://rumble.com/v6uelxh-250606cn-ugros-eliminandos-esse-kubnyi-tams-ktv.html)  [https://archive.ph/q3vpB](https://archive.ph/q3vpB)
 [250605CN! MEGMARADÁS](https://rumble.com/v6ucwh5-250605cn-megmarads-kubnyi-tams-ktv.html)  [https://archive.ph/RZ7y2](https://archive.ph/RZ7y2)
