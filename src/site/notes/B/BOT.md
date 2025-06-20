@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/B/BOT/","title":"BOT","created":"2023-11-21T11:37","updated":"2025-06-07T19:53"}
+{"dg-publish":true,"permalink":"/B/BOT/","title":"BOT","created":"2023-11-21T11:37","updated":"2025-06-20T23:36"}
 ---
 
 
 # BOT
 
 [[B/BET\|BET]], [[B/BAT\|BAT]] (továbbá [[P/PET\|PET]], [[E/E\|E]], [[E/ES\|ES]], [[A/AS\|AS]], [[H/HAS\|HAS]], [[H/HA\|HA]], [[K/KA\|KA]] és [[H/HA\|HA]]) szavakhoz hasonlóan, besoroló, csoportosító, szféra, tartomány, ház (és innen hajó) jelentésű etimonok.  
+- [Ezen](https://archive.ph/KafSQ) oldalon a pomorok épp hajókból készített házait látjuk, de a ház mindig a [[N/Nap háza\|Nap háza]] volt eredetileg.
+
 Práczki István Szittya Biblia című könyvének 84. oldalán ír egyetértőleg erről és hasonló szavakról.  
 
 #### Péterfai János írja:
