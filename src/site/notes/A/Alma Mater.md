@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alma Mater/","title":"Alma Mater","tags":["Englishtexttranslated"],"created":"2023-10-11T04:42","updated":"2025-06-02T01:03"}
+{"dg-publish":true,"permalink":"/A/Alma Mater/","title":"Alma Mater","tags":["Englishtexttranslated"],"created":"2023-10-11T04:42","updated":"2025-06-20T23:34"}
 ---
 
 
@@ -13,27 +13,26 @@ A Wiki [alábbi](https://en.m.wikipedia.org/wiki/Alma_mater) oldalának fontosab
 >
 > John Legate's Alma Mater for Cambridge in 1600  
 > Although alma (nourishing) was a common epithet for Ceres, Cybele, Venus, and other mother goddesses, it was not frequently used in conjunction with mater in classical Latin. In the Oxford Latin Dictionary, the phrase is attributed to Lucretius' De rerum natura, where it is used as an epithet to describe an earth goddess:  
-> *Denique caelesti sumus omnes semine oriundi  
-> omnibus ille idem pater est, unde alma liquentis  
-> umoris guttas mater cum terra recepit (2.991-93)  
-> "We are all sprung from that celestial seed,  
-> all of us have same father, from whom earth,  
-> the nourishing mother, receives drops of liquid moisture"*  
+> *Denique caelesti sumus omnes semine oriundi*  
+> *omnibus ille idem pater est, unde alma liquentis*  
+> *umoris guttas mater cum terra recepit (2.991-93)*  
+> *"We are all sprung from that celestial seed,*  
+> *all of us have same father, from whom earth,*  
+> *the nourishing mother, receives drops of liquid moisture"*
 > —  
 > Az alma mater (latinul: `alma mater`, szó szerint "tápláló anya"; pl. \[ritkán használt\] almae matres) egy allegorikus latin kifejezés, amely arra az egyetemre, iskolára vagy főiskolára utal, ahová valaki korábban járt. Az amerikai angol nyelvhasználatban azt az iskolát is jelentheti, ahol valaki végzett. A kifejezést többféleképpen fordítják: "tápláló anya", "szoptató anya" vagy "nevelő anya", ami arra utal, hogy az iskola intellektuális táplálékot nyújt a diákjainak. A képzőművészetben az oktatási intézményeket gyakran ábrázolják egy taláros nőalakkal.
 >
 > A mai használat előtt az alma mater tiszteletbeli cím volt a különböző latin anyaistennők számára, különösen Ceres vagy Cybele, később pedig a katolicizmusban Szűz Máriára. Az akadémiai nyelvhasználatba akkor került be, amikor a Bolognai Egyetem mottóként felvette az **Alma Mater Studiorum** ("a tudományok tápláló anyja") kifejezést, amely a nyugati világ legrégebbi működő egyetemeként való örökségére utal. Kapcsolatban áll az `alumnus` szóval, amelyet az egyetemi végzettségűekre használnak, és szó szerint "csecsemőt" vagy "tápláltat" jelent.
 >
-> John Legate Alma Matere Cambridge-ről, 1600
->
+> John Legate Alma Matere Cambridge-ről, 1600  
 > Bár az `alma` (tápláló) gyakori jelzője volt Ceresnek, Cybelenek, Vénusznak és más anyaistennőknek, a klasszikus latinban nem használták gyakran a `mater` szóval együtt. Az Oxford Latin Szótár szerint a kifejezés Lucretius *De rerum natura* című művéből származik, ahol egy földanya jelzőjeként szerepel:
 >
-> *Denique caelesti sumus omnes semine oriundi  
-> omnibus ille idem pater est, unde alma liquentis  
-> umoris guttas mater cum terra recepit (2.991-93)  
-> "Mindannyian ebből az égi magból származunk,  
-> mindannyiunknak ugyanaz az atyja, akitől a föld,  
-> a tápláló anya, megkapja a folyékony nedvesség cseppjeit"*  
+> *Denique caelesti sumus omnes semine oriundi*  
+> *omnibus ille idem pater est, unde alma liquentis*  
+> *umoris guttas mater cum terra recepit (2.991-93)*  
+> *"Mindannyian ebből az égi magból származunk,*  
+> *mindannyiunknak ugyanaz az atyja, akitől a föld,*  
+> *a tápláló anya, megkapja a folyékony nedvesség cseppjeit"*
 - Viszont ha már kitér az etimológiára, miért nem említi az [[A/Alma#Alma 2)\|alma]] címnél taglalt olasz szót?
 
 #### Robert Graves The White Goddess...
