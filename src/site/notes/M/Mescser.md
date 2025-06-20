@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mescser/","title":"Mescser","created":"2024-05-11T02:30","updated":"2024-10-25T23:26"}
+{"dg-publish":true,"permalink":"/M/Mescser/","title":"Mescser","created":"2024-05-11T02:30","updated":"2025-06-20T23:35"}
 ---
 
 
 # Mescser
 
-[[M/Magyarok neve, nevei\|Magyarok neve, nevei]], [[M/Magyar\|magyar]] és más címnél is szóba kerültek a mescserek.  
+[[M/Magyar népnév és magyarok nevei\|Magyar népnév és magyarok nevei]], [[M/Magyar\|magyar]] és más címnél is szóba kerültek a mescserek.  
 Remete Farkas László Magyarok eredete című tanulmányának [[B/Bulgár\|bulgár]] címnél álló adata szerint a Don-menti magyarok neve **mescser**, a Volga-menti magyaroké **miser**, **mozar**, jugor.  
 
 #### Götz László Keleten kél a Nap...
