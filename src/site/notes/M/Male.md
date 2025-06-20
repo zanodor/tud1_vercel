@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Male/","title":"Male","created":"2025-05-29T22:50","updated":"2025-06-08T01:14"}
+{"dg-publish":true,"permalink":"/M/Male/","title":"Male","tags":["containstransclusions"],"created":"2025-05-29T22:50","updated":"2025-06-20T23:36"}
 ---
 
 
