@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2025-06-07T18:47"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2025-06-20T23:37"}
 ---
 
 
@@ -116,7 +116,7 @@ Az [alábbi](https://youtu.be/Msa4rFmGoU0) ÁKTV műsorban (Czékus Jób féle P
 
 #### Z. Tóth Csaba Ismerjük-e krónikáinkat?...
 
-...című tanulmányában írja ([[M/Magyar népnév ősisége\|magyar népnév ősisége]] címnél):  
+...című tanulmányában írja ([[M/Magyar népnév és magyarok nevei#Magyar népnév ősisége\|magyar népnév ősisége]] címnél):  
 > A szírek gyakran tettek magánhangzót a mássalhangzóval kezdődő idegen nevek elé, például esqlabe, esqlawianu = szláv, Agog = Góg, agpidis = gepida nevek esetében.  
 - [[S/Szláv\|Szláv]] címnél szó volt az arab nevekről.
 
