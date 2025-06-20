@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Ladón/","title":"Ladón","created":"2025-06-05T10:55","updated":"2025-06-05T10:56"}
+{"dg-publish":true,"permalink":"/L/Ladón/","title":"Ladón","tags":["containstransclusions"],"created":"2025-06-05T10:55","updated":"2025-06-20T23:36"}
 ---
 
 
