@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Daru/","title":"Daru","created":"2024-12-18T11:51","updated":"2025-06-07T19:53"}
+{"dg-publish":true,"permalink":"/D/Daru/","title":"Daru","created":"2024-12-18T11:51","updated":"2025-06-20T23:35"}
 ---
 
 
@@ -28,7 +28,7 @@ Ha már [[T/TUR\|TUR]], ezen címnél is szerepelt a szibériai jakut sámánfa 
 A daru idegennyelvű szavai, a perzsa `dornâ`, török `turna`, tatár `torna`, norvég-dán `trane` szavak mind forgásra (torna) és vontatásra (lásd [[T/Train\|train]]) utalóak.  
 
 Magyar Adorján egyéb idevonatkozó írását lásd [[V/Vált\|vált]], [[W/World\|world]] és [[F/Forgó várak másképpen\|forgó várak másképpen]]. [[V/Világ\|Világ]] címnél Magyar Adorján Kérdések című írásában levő hasonló anyaga szerepelt.  
-Robert Graves The White Goddess című könyvében írja, a walesi [[C/Caer Sidi\|Caer Sidi]] = Változó/Forgó vár, de nem veszi észre, hogy az utótag egyezik az ír tündérdombot és tündért jelentő szóval (lásd [[S/Sidhe\|sidhe]]). Szó volt Graves ideáiról [[C/Corona Borealis\|Corona Borealis]] címnél is.  
+Robert Graves The White Goddess című könyvében írja, a walesi [[C/Caer Sidi\|Caer Sidi]] = Változó/Forgó vár, de nem veszi észre, hogy az utótag egyezik az ír tündérdombot és tündért jelentő szóval (lásd [[S/Sidhe\|sidhe]]). Szó volt Graves ideáiról [[C/Corona Borealis csillagkép\|Corona Borealis]] címnél is.  
 
 [[V/Vad\|Vad]] és [[V/Vád\|vád]] szavaknál volt szó a vizes/gázló madarakról, melyekben közös, hogy mind a Tejútanya madár-állatalakjai.  
 És hogy mennyire [[M/Magyar\|Magyar]] istennő állatalakjáról van szó, bizonyítja a román nyelv, melyben `macara` = daru, mely ma már ugyan csak az eszköz neve (\[a szintén forgatásra utaló, [[K/Kukor\|kukor]] címnél említett\] `cocor` a madáré), de a névalak mutatja, hogy eredetileg a [[M/Madár\|madár]] (= [[M/Magyar\|magyar]]) neve volt.  
