@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz","containstransclusions"],"created":"2024-05-09T22:31","updated":"2025-06-07T19:54"}
+{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz","containstransclusions"],"created":"2024-05-09T22:31","updated":"2025-06-20T23:34"}
 ---
 
 
@@ -108,7 +108,7 @@ Reguly Antal és Hunfalvy Pál: A vogul föld és nép című könyvük III. Sza
 > [[M/Magyar\|Magyar]] népnevünket a történészek és nyelvészek két részre bontják, és elfeledkeznek [[M/Magor\|Magor]] ősünkről, akitől a magyarok erednek, és akiről a gyerekek is tudnak. Ennek ellenére erőltetik kitalált értelmezésüket, amit azonban senki sem fogad el.  
 > A Magyar név két része, szerintük, az ugor Manysi, jelentése Ember, valamint a török `Eri`, jelentése Férfi. Sokan komolyan is gondolják, hogy a magyarok elmeháborodott állapotukban a manysikhoz és a törökökhöz esedeztek népnév ügyében. A magyaroknak annyi esze sem volt, hogy saját maguknak saját nyelvükön nevet adhattak volna. Magor (Magur) nevét meg jobb egy nyelvésznek elfeledni, letagadni, mert nagyon egyszerűnek látszik a név értelmezése, és a Magur jelentés szétverheti a finnségi Manysi és török `Eri` eredeztetést. A nagy hamisítás könnyen a dugába dőlhet, még a történészek előtt is.  
 
-Péterfai János a [[M/Madár\|madár]] nevet is felhozhatta volna (rokonításul; nem az az eredete). A [[M/Magyar népnév#A magyar népnév eredeti alakja magyar\|magyar népnév eredeti alakja magyar]] cím/alcímnél is kimondtuk:  
+Péterfai János a [[M/Madár\|madár]] nevet is felhozhatta volna (rokonításul; nem az az eredete). A [[M/Magyar népnév és magyarok nevei#A magyar népnév eredeti alakja magyar\|magyar népnév eredeti alakja magyar]] cím/alcímnél is kimondtuk:  
 
 A mansi/\*mancar > magyar levezetés hirdetői tulajdonképpen a [[M/Magyar népművészet\|magyar népművészet]]et és néplelket nem ismerő, arra fittyet hányó lélektelen, kommunista kufár kalmárok és azok kiszolgálói. Egyértelműen politikai jellegű a tevékenységük.  
 
