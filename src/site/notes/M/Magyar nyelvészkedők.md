@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","created":"2023-11-19T03:30","updated":"2025-04-27T15:21"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","created":"2023-11-19T03:30","updated":"2025-06-20T23:34"}
 ---
 
 
@@ -50,7 +50,7 @@ Ahogy a perzsa [[S/Sag\|sag]] = kutya sem a szagol igénkből ered, ha még szem
 
 ## A dilettánsok részvállalásának okai
 
-Egyrészt az, hogy régóta hallják, a magyar az ősnyelv, illetve – a kevéssé veszélyes fajtából, akik a szerelem és szeretet szavakat házi ezoterikus módon bontogatják (Szer-Elem, "A Szer Etet") – a remény vezeti őket. Ők a magyar futball- és olimpiai arany (ki)szurkolók párjai: a nyomorban jut valami kis öröm, amit lelki és szellemi táplálékká alakítva próbálnak a nehézségeken túljutni. Ők nem okoznak kárt, de egyes ünnepelt előadóik már annál inkább, mert ki is szolgálják a kritikai érzékkel meg nem áldott közönséget: vegye-vigye.  
+Egyrészt az, hogy régóta hallják, a magyar az ősnyelv, illetve – a kevéssé veszélyes fajtából, akik a szerelem, szeretet és hasonló szavakat házi ezoterikus módon bontogatják (Szer-Elem, "A Szer Etet"; vagy Közösség = "Közös Ég") – a remény vezeti őket. Ők a magyar futball- (és olimpiai arany (ki))szurkolók párjai: a nyomorban jut valami kis öröm; ilyen kis lelki és szellemi táplálékmorzsák eszegetésével próbálnak egy erősebb immunrendszert felállítva a nehézségeken túljutni. Ők közvetlenül nem okoznak kárt, de közvetettem igen, amikor egyes ünnepelt előadóik szépen kiszolgálják a kritikai érzékkel meg nem áldott közönséget: "vegye-vigye".  
 
 #### Péterfai János Nyelvészeti gyalázkodások...
 
