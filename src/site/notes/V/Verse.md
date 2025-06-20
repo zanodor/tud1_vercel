@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Verse/","title":"Verse","tags":["Englishtexttranslated"],"created":"2025-05-01T10:22","updated":"2025-05-01T10:23"}
+{"dg-publish":true,"permalink":"/V/Verse/","title":"Verse","tags":["Englishtexttranslated"],"created":"2025-05-01T10:22","updated":"2025-06-20T23:36"}
 ---
 
 
@@ -46,7 +46,7 @@ CzF szótár hasonlót ír:
 
 #### Arató István A világ nyelve...
 
-...című az Ősi Gyökér 2010/4. sz. megjelent cikkében írja:  
+...című, az Ősi Gyökér 2010/4. sz. megjelent cikkében írja:  
 > A magyar nyelv mondatalkotása rendkívül magasrendű. A szavak sorrendje a mondatokban szinte teljesen tetszőleges. A magyarban sokkal rugalmasabban, tömörebben, árnyaltabban, kifejezőbben, érzékletesebben és pontosabban lehet fogalmazni, mint az angolban. A magyarban rendelkezésre álló eszközök sokasága miatt magyarul fogalmazni, verset írni sokkal könnyebb, mint bármilyen más nyelven. A magyar versekre a szabad szárnyalás, a könnyedség, a rugalmasság, hajlékonyság, a színes, képies kifejezésmód jellemző. Nem véletlen, hogy időmértékes verselés a görögön és latinon kívül csak magyarul lehetséges. Ez már önmagában is azt jelenti, hogy a magyar klasszikus nyelv.  
 
 #### Götz László Keleten kél a Nap...
