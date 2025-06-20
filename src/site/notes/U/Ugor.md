@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2025-06-07T18:54"}
+{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2025-06-20T23:35"}
 ---
 
 
@@ -95,7 +95,7 @@ Az Úr – Ugor mint kulminációs legmagasabb pont lehet az ógörög `ákron` 
 [[F/Finnugor elmélet\|Finnugor elmélet]] kapcsán elhangzott valakitől, hogy az elnevezés azért is sántít, mert a magyarokat sohasem nevezték ugoroknak. Ez így nem igaz.  
 Rácz Jenő A székely és magyar nép eredete és ősvallásunk nyomában című könyvében írja, hogy egykori népünket az arab kútfők egy része, és a Dzsagfar történet is általános megnevezéssel baskortoknak nevezi, akiket a türkök és kazárok ugornak hívtak.  
 
-Ez az ugor az, ami az [[O/Onogur\|onogur]] névben is szerepel és a hivatalos történeti forrásokban a [[M/Magyar népnév\|magyar népnev]]et megelőző magyarokra utaló megnevezés.  
+Ez az ugor az, ami az [[O/Onogur\|onogur]] névben is szerepel és a hivatalos történeti forrásokban a [[M/Magyar népnév és magyarok nevei\|magyar népnev]]et megelőző magyarokra utaló megnevezés.  
 
 #### Remete Farkas László Magyarok eredete...
 
@@ -104,7 +104,7 @@ Ez az ugor az, ami az [[O/Onogur\|onogur]] névben is szerepel és a hivatalos t
 > \[...\]  
 > Korabeli leírások szerint az ugorok: az Ugor-hegyek (Kárpátok), és a Don-Oka vonal között éltek. Ahonnan, kényszerből nyugatra (Kárpát-medencébe, Ugor-földre), északabbra (Jugriába), keletre (Volgán túlra, Nagy-Magyarba) és délre (Azovi-tengerhez) költöztek. Az ószláv krónikák fehér és fekete (Ugra-folyótól nyugatra és keletre élő) ugorokról tudósítanak. Adatok szerint, a 14. században még éltek magyar nyelvű népek a Don-forrásvidékén és a Káma folyómentén.  
 > A magyarok ugor nevét továbbá nemcsak az északi szlávok Uhorsko és a szerb Ugarska nevekben találjuk meg (orrhang nélkül). Ne feledjük, a [[P/Pozsonyi csata\|Pozsonyi csata]] címnél taglalt latin szövegben is előjött: "Ugros eliminandos esse."  
-- Azaz amit Remete Farkas [[M/Magyarok neve, nevei\|magyarok neve]] címnél (ahol a fentebbi sorok is megvoltak) ír, hogy az orrhangos változat a latin változat, nem egészen stimmel, mert itt a példa, hogy anélkül is megvolt a latinban.
+- Azaz amit Remete Farkas [[M/Magyar népnév és magyarok nevei#Magyar népnév leírott régi formái a magyarban\|magyar népnév leírott régi formái a magyarban]] címnél (ahol a fentebbi sorok is megvoltak) ír, hogy az orrhangos változat a latin változat, nem egészen stimmel, mert itt a példa, hogy anélkül is megvolt a latinban.
 
 [Ezen](https://qr.ae/Tju8oS) Quora válaszra érkezett szlovén szerzőtől való kommentben írja:  
 > In Slovene language old name for Hungarian is **Oger** (the name of the Austro-Hungarian empire is Avstrogrska in Slovene language), but in many dialects Slovenes say **Voger**. So there are surnames as Vogrič, Vogrin, Vogrinčič. We must know that many Slovenian dialects pronounce 'v' as english 'w' (this would be pretty close to Yugr).We have also a village called Vogrsko near today's Italian border Vogrsko. According to historians, Hungarians had a camp in this place near the entrance of Longobard kingdom in 9th century.  
