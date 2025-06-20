@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-05-16T23:08"}
+{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-06-20T23:34"}
 ---
 
 
@@ -88,6 +88,16 @@ Példaként a germán `geld`/[[G/Gold\|gold]] a Nap Kel-D nevéből ered, a perz
 
 Az alant említett, Erdélyi Zsuzsanna által gyűjtött népi imádságok között is előjön az aranyalma:  
 > *Porodicsom mezijébe Arany szénye leterétve S abba' vagyon egy koporsú S abba' fekszik egy Urjézus. Jobb keziben arany alma, Bal kezibe jaran' vessző S azt az elmát fel-felhajtja, Bal kezivel le-lekapja Felmentyibe úgy zúgadaz, Lejöttyibe s úgy zengedez, Zúg az erdű (e) szép ződágval, Zeng e mezű szép áldásvol...* (V.1:705)  
+
+[Ezen](https://behir.hu/karacsonyi-nepi-vallasossag) weboldalon Harangozó Imre néprajz-kutatóval beszélgetnek:  
+A vidékünkön van egy ismert népi gyermek mondóka – kezdte Harangozó Imre:  
+> *Kerek Isten fája, szép tizenkét ága,*
+> *szép tizenkét ágán ötvenkét hajtása,*
+> *ötvenkét hajtáson három aranyalma,*
+> *aki kitalálja, hull az áldás arra.*
+- Lásd még a tizenkét ág és hónap összefüggéséről kelta vonalon [[P/Perennial\|perennial]].
+
+Mint mondta, a három aranyalma az esztendő három nagyon fontos szegletköve: a [[K/Karácsony\|karácsony]], a [[H/Húsvét\|húsvét]] és [[P/Pünkösd\|pünkösd]]. Ezek közül az első karácsony, ami a mi keresztény kultúrkörünkben Jézus Krisztus születésének az ünnepe. A téli napforduló az örök emberi ünnep, évezredek óta ünneplik.  
 
 ## Aranycsésze
 
