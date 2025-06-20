@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-06-13T22:26"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-06-21T00:08"}
 ---
 
 
@@ -11,6 +11,11 @@
 
 **Videók kivonatokkal**:  
 
+[250620CN! CSONTVÁRY 106](https://rumble.com/v6v2xtb-250620cn-csontvry-106-kubnyi-tams-ktv.html)  [https://archive.ph/xpehw](https://archive.ph/xpehw)
+[250619CN! A MAGYAR FIATALOKHOZ](https://rumble.com/v6v17ah-250619cn-a-magyar-fiatalokhoz-kubnyi-tams-ktv.html)   [https://archive.ph/0MJnb](https://archive.ph/0MJnb)
+[250618CN! HORTHY SZÜLETÉSNAP](https://rumble.com/v6uzb0t-250618cn-horthy-szletsnap-kubnyi-tams-ktv.html)  [https://archive.ph/YFi0P](https://archive.ph/YFi0P)
+[250617CN! PÉLDABESZÉD](https://rumble.com/v6uxib3-250617cn-pldabeszd-kubnyi-tams-ktv.html)  [https://archive.ph/MWs9l](https://archive.ph/MWs9l)
+[250616CN! KODÁLY ORSZÁGA](https://rumble.com/v6uvoul-250616cn-kodly-orszga-kubnyi-tams-ktv.html)  [https://archive.ph/ok84M](https://archive.ph/ok84M)
 [250613CN! SZERETET TANÍTÁS 1](https://rumble.com/v6uqoj5-250613cn-szeretet-tants-1-kubnyi-tams-ktv.html)  [https://archive.ph/cv4JS](https://archive.ph/cv4JS)
 [250612CN! LEVÉL A MINISZTERNEK](https://rumble.com/v6uotzd-250612cn-levl-a-miniszternek-kubnyi-tams-ktv.html)  [https://archive.ph/llqdS](https://archive.ph/llqdS)
 [250611CN! LOVAS ISTVÁN](https://rumble.com/v6un4zr-250611cn-lovas-istvn-kubnyi-tams-ktv.html) [[STICKY/_WEB_CLIPPER/_YT_TRANSCRIPTS/Kubínyi Tamás/250611CN! LOVAS ISTVÁN - Kubínyi Tamás ÁKTV\|250611CN! LOVAS ISTVÁN - Kubínyi Tamás ÁKTV]] [https://archive.ph/yFUh6](https://archive.ph/yFUh6)
