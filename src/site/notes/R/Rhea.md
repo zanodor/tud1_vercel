@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Rhea/","title":"Rhea","tags":["Englishtexttranslated"],"created":"2023-11-13T05:59","updated":"2025-04-29T10:14"}
+{"dg-publish":true,"permalink":"/R/Rhea/","title":"Rhea","tags":["Englishtexttranslated"],"created":"2023-11-13T05:59","updated":"2025-06-20T23:35"}
 ---
 
 
@@ -12,7 +12,7 @@ A Hamlet Malmában elhangzott, hogy a régi pithagoreusok hagyományos nyelvezet
 Supka Géza Kalandozás a kalendáriumban című könyvében értesít róla, hogy létezett Rhea, aki a görög [[K/Kronosz\|Kronosz]] nővére volt, kit el is vett feleségül...  
 - Ez a Rhea volt a krétai Zeusz anyja[^1] (de Zeuszt [[A/Amalthea\|Amalthea]] táplálta tejével).
 
-...valamint Romulus és Remus anyja szintén egy Rhea volt (a `rhea` szó "forrás"-t jelent; Romulus anyja pedig Rhea Silvia, vagyis "erdei forrás" volt).   
+...valamint Romulus és Remus anyja szintén egy Rhea volt (a `rhea` szó "forrás"-t jelent; Romulus anyja pedig Rhea Silvia, vagyis "erdei forrás" volt).
 
 #### Robert Graves The White Goddess...
 
@@ -24,9 +24,9 @@ Supka Géza Kalandozás a kalendáriumban című könyvében értesít róla, ho
 - A történetet általában [[H/Héra\|Héra]] nevéhez kötik; a két név egymás hangugratott változatának is tűnik.
 
 Másutt (is szerepelt):  
-> Here at last I can complete my argument about Arianrhod's Castle and the 'whirling round without motion between three elements'. The sacred oak-king was killed at midsummer and translated to the [[C/Corona Borealis\|Corona Borealis]], presided over by the White Goddess, which was then just dipping over the Northern horizon. But from the song ascribed by Apollonius Rhodius to Orpheus, we know that the Queen of the Cirling Universe, Eurynome, alias Cardea, was identical with Rhea of Crete; thus Rhea lived at the axle of the mill, whirling around without motion, as well as on the Galaxy. This suggests that in a later mythological tradition the sacred king went to serve her at the Mill, not in the Castle; for Samson after his blinding and enervation turned a mill in Delilah's prison-house.  
+> Here at last I can complete my argument about Arianrhod's Castle and the 'whirling round without motion between three elements'. The sacred oak-king was killed at midsummer and translated to the [[C/Corona Borealis csillagkép\|Corona Borealis]], presided over by the White Goddess, which was then just dipping over the Northern horizon. But from the song ascribed by Apollonius Rhodius to Orpheus, we know that the Queen of the Cirling Universe, Eurynome, alias Cardea, was identical with Rhea of Crete; thus Rhea lived at the axle of the mill, whirling around without motion, as well as on the Galaxy. This suggests that in a later mythological tradition the sacred king went to serve her at the Mill, not in the Castle; for Samson after his blinding and enervation turned a mill in Delilah's prison-house.  
 > —  
-> Itt végre befejezhetem az érvelésemet Arianrhod váráról és a "három elem közötti mozgás nélküli örvénylésről". A szent tölgykirályt nyár közepén ölték meg, és a [[C/Corona Borealis\|Corona Borealis]]-ba fordították át, amelynek élén a Fehér Istennő állt, és amely éppen akkor bukott az északi horizont fölé. De az Apollonius Rhodius által Orpheusnak tulajdonított énekből tudjuk, hogy a Körforgó Világegyetem királynője, Eurynome, alias Cardea, azonos volt a krétai Rhea-val; Rhea tehát a malom tengelyénél élt, **mozgás nélkül körbe-körbe kavarogva**, akárcsak a Galaxisban. Ez arra utal, hogy egy későbbi mitológiai hagyomány szerint a szent király a malomhoz ment szolgálni, nem pedig a várba; hiszen Sámson a megvakítása és elzárása után Delila börtönházában malmot forgatott.  
+> Itt végre befejezhetem az érvelésemet Arianrhod váráról és a "három elem közötti mozgás nélküli örvénylésről". A szent tölgykirályt nyár közepén ölték meg, és a [[C/Corona Borealis csillagkép\|Corona Borealis]]-ba fordították át, amelynek élén a Fehér Istennő állt, és amely éppen akkor bukott az északi horizont fölé. De az Apollonius Rhodius által Orpheusnak tulajdonított énekből tudjuk, hogy a Körforgó Világegyetem királynője, Eurynome, alias Cardea, azonos volt a krétai Rhea-val; Rhea tehát a malom tengelyénél élt, **mozgás nélkül körbe-körbe kavarogva**, akárcsak a Galaxisban. Ez arra utal, hogy egy későbbi mitológiai hagyomány szerint a szent király a malomhoz ment szolgálni, nem pedig a várba; hiszen Sámson a megvakítása és elzárása után Delila börtönházában malmot forgatott.  
 
 #### Jankovics Marcell írja:
 
