@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2025-06-08T18:23"}
+{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2025-06-20T23:35"}
 ---
 
 
@@ -32,8 +32,7 @@ Az mondjuk igaz, hogy ezen új nyelvek is korábban magyarul beszélők nyelvei 
 
 Ezen utolsó sornak megfelelő vélemény Götz László Keleten kél a Nap című könyvének 881. oldalán is előfordul:  
 > K. Bouda szélesebb körben vizsgálta a szumér nyelv összefüggéseit. Rokonsági kapcsolatokra valló egyezéseket talált a nyugatkaukázusi nyelvek és a baszk között, amelyek részben a szumérban is megvannak, s ugyanakkor a tibetiben is előfordulnak. Összesen 87 szóegyeztetést sorol fel, amelyeknek majdnem fele a szumérban is adatolható. Végkövetkeztetésében óvatosan utal arra, hogy **a történelemelőtti időkben esetleg számolnunk kell egy hatalmas kiterjedésű ősnyelvszerű képződménnyel, amelybe a szumér is beletartozott** (l. Bouda 1938.). Bouda ezen eredményei azt jelentik, hogy az ősi anatóliai-mediterrán nyelvközösség a szuméron keresztül minden joggal kapcsolatba hozható a Mezopotámiától északra és keletre fekvő területek nyelveivel is, azaz a kutatás számára elsőrangú feladat lenne e térség régi és mai nyelveinek alaprétegi anyagát éppoly módszeresen átvizsgálni, mint ahogy ez Anatólia és a Mediterráneum esetében már részben megkezdődött. Annál inkább, mert az újabb régészeti leletek tényszerűen bebizonyították, hogy az elő-ázsiai kultúráramlat során ezeken a területeken is tömegesen jelentek meg elő-ázsiai földművelő telepesek, akik nyilvánvalóan magukkal vitték eredeti hazájuk nyelvjárásait is (vö. e. könyv 2. fej.).  
-
-Tekintsük sorsszerűnek, hogy éppen egy Bouda nevű kutató ismeri fel a lényeget, de előtte mások – talán éppen Götz könyvében megszólaltatott mások – is hasonló véleményt fogalmaztak meg. (Nem jól emlékeztem, a 414. oldalon arról volt szó, hogy a finnugor, indogermán és szemita nyelvcsaládok egy közös nyelvre való visszavezetése indokolt.)  
+- Tekintsük sorsszerűnek, hogy éppen egy Bouda nevű kutató ismeri fel a lényeget, de előtte mások – talán éppen Götz könyvében megszólaltatott mások – is hasonló véleményt fogalmaztak meg. (Nem jól emlékeztem, a 414. oldalon arról volt szó, hogy a finnugor, indogermán és szemita nyelvcsaládok egy közös nyelvre való visszavezetése indokolt.)
 
 Persze ez lehet éppen óvatosság vagy a szumér erények kisebbítésének szándéka is közrejátszhat.  
 
@@ -153,11 +152,11 @@ Erről szóltunk [[T/Turul#A szarvasfiú valójában madár\|a szarvasfiú való
 
 ### 15.
 
-Bizonyító erejű lehet az is, hogy a sumér [[D/Dingir\|dingir]] a magyar [[T/Tenger\|tenger]]-hez képest nem eredeti, mert a keményebb t hangos nevek eredetibbek. Lásd [[I/Isten\|Isten]] szavunk a hettitában és az egyiptomiban ilyen alakú, de a perzsa már yezdan alakú (mely csak későbbi átvét, a jászon keresztül).  
+Bizonyító erejű lehet az is, hogy a sumér [[D/Dingir\|dingir]] a magyar [[T/Tenger\|tenger]]-hez képest nem eredeti, mert a keményebb t hangos nevek eredetibbek. Lásd [[I/Isten\|Isten]] szavunk a hettitában és az egyiptomiban ilyen alakú, de a perzsa már `yezdan` alakú (mely csak későbbi átvét, a jászon keresztül).  
 
 ### 16.
 
-Nem konkrétan a nyelv, hanem a kultúra kárpáti elsőségére vonatkozó közvetett bizonyíték szerepel az [alábbi](https://youtu.be/CZwvyvBjM3o) karácsonyról szóló Grandpierre Atilla féle előadásban 1:00:00 táján: ha a karácsony mezopotámiai eredetű lenne, akkor a fenyőfát honnan szerezték? Nyilvánvaló, hogy északról délre költözött népek hagyománya ez. Ahogy a [[S/Szarvas\|szarvas]] tisztelete is.  
+Nem konkrétan a nyelv, hanem a kultúra kárpáti elsőségére vonatkozó közvetett bizonyíték szerepel az [alábbi](https://youtu.be/CZwvyvBjM3o) karácsonyról szóló Grandpierre Atilla féle előadásban 1:00:00 táján: ha a karácsony mezopotámiai eredetű lenne, akkor a fenyőfát honnan szerezték? Nyilvánvaló, hogy [[E/Észak és dél#Északi népek délre költözése (és fordítva)\|északról délre költözött népek]] hagyománya ez. Ahogy a [[S/Szarvas\|szarvas]] tisztelete is.  
 
 Utóbbit az egyik legnyomósabb érvnek hoztam fel másutt is, ahogy azt is, hogy [[A/AN, ÁN\|AN, ÁN]]/[[A/Anu\|Anu]] már hímnemű istenség a sumér időktől kezdve, és eredetileg nőnemű, ahogy a [[C/Csudaszarvas\|Csudaszarvas]]unk is.  
 
@@ -168,12 +167,15 @@ Azaz a természetes írásos formájú gondolatközlésben nem szab gátat a tec
 
 ### 18.
 
-Götz László Keleten kél a Nap című könyvének 965-967. oldalán taglalja a [[V/Verse\|vers]]elés sumér eredetét. Magyar párhuzamokat is bemutat és még van győződve a sumér eredetről. Viszont a költészet és [[Z/Zene\|zene]] az emberiség ősállapotába és nem 6000 évre tekint vissza. A magyar mesék ősisége minimum a legkésőbbi korok csillagmitológiai közegében keresendő. Továbbá a magyar nyelv ragozó volta és [[F/Flexió#Magyar hajlítás mint nyelvünk szavainak alapképessége\|hajlítás]]okkali szó- és rímalkotó képessége is legalább annyira alkalmassá tette verselésre, mint az európai eredetű sumér.  
+Götz László Keleten kél a Nap című könyvének 965-967. oldalán taglalja a [[V/Verse\|vers]]elés sumér eredetét. Magyar párhuzamokat is bemutat és még van győződve a sumér eredetről. Viszont a költészet és [[Z/Zene\|zene]] az emberiség ősállapotába és nem 6000 évre tekint vissza. A magyar mesék ősisége minimum a legkésőbbi korok csillagmitológiai közegében keresendő.   
+
 [[L/Ludas Matyi\|Ludas Matyi]] címnél is szóba került sumér-magyar párhuzam.  
 
 ---
 
 A [[T/Tatárlakai napvárta-korong\|tatárlakai korongon]] talált írás régisége (a sumér ékírásos táblák idejével szemben sok kutató elsőként hozza fel a magyarság "ősibbsége" bizonyítékául) kapcsán itt most nem szólanék (lehet ugyanis, hogy nem is írás van rajtuk, továbbá Kubínyi Tamás és Götz László friss adatai szerint nem régebbi az).  
+
+---
 
 Ha már a sumér és magyar nyelvek egyáltalán hasonlíthatók egymással! Honnan máshonnan kapnánk bagatellizáló véleményeket, mint héber oldalról.  
 Az [alábbi](http://www.hebraisztika.hu/attachments/00000353.pdf) oldalon még a nevetséges szó is elhangzik:  
