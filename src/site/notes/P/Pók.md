@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pók/","title":"Pók","tags":["Englishtexttranslated"],"created":"2025-04-15T14:47","updated":"2025-04-15T14:48"}
+{"dg-publish":true,"permalink":"/P/Pók/","title":"Pók","tags":["Englishtexttranslated"],"created":"2025-04-15T14:47","updated":"2025-06-20T23:35"}
 ---
 
 
@@ -45,9 +45,9 @@ Falvay Károly Nagyboldogasszony című könyvének 100. oldalán írja, hogy a 
 Különösen érdekes a pók istennőkkel való kapcsolatba hozatala [[S/Sorsistennők\|sorsistennők]] kapcsán is. A [[N/Nefilim\|Nefilim]] címnél is említett görög **nephila**[^1] pókfaj etimológiai vizsgálata során jutott ez eszembe.  
 
 Az északi amerikai indiánoknál maradva, a montanai blackfoot törzsnél is szerepel Pók isten:  
-> The Spider God ([[C/Corona Borealis\|Corona Borealis]]) sits in his web (Hercules) and watches over the land. Sometime he climbs down the summer Milky Way to visit the Earth.  
+> The Spider God ([[C/Corona Borealis csillagkép\|Corona Borealis]]) sits in his web (Hercules) and watches over the land. Sometime he climbs down the summer Milky Way to visit the Earth.  
 > —  
-> A pókisten ([[C/Corona Borealis\|Corona Borealis]]) a hálójában ül (Herkules) és őrködik a föld felett. Néha lemászik a nyári Tejúton, hogy meglátogassa a Földet.  
+> A pókisten ([[C/Corona Borealis csillagkép\|Corona Borealis]]) a hálójában ül (Herkules) és őrködik a föld felett. Néha lemászik a nyári Tejúton, hogy meglátogassa a Földet.  
 
 [Ezen](https://qr.ae/pGACwZ) Quora válaszban írják, hogy a Pók-Nagyanya több indiánus mitológiában szerepel.  
 
