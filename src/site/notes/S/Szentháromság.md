@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2025-06-07T19:12"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2025-06-20T23:36"}
 ---
 
 
@@ -287,7 +287,7 @@ Bálint Sándor szerint e napsugaras háromszög szentháromság-jelkép volt, s
 > Ennek megfelelően a mai Test, Szellem és Lélek háromság megfeleltethető az Anyag, Energia és Információ háromságnak, továbbmenve a három gyökszóval kifejezett KöR-iS-TeN háromságnak.  
 > A KöRiSTeN kifejezés mindkét változatra vonatkozott, aminek záloga a fraktalitásban rejlik, vagyis abban, hogy ugyanazzal a "Háromság mint egység" \[mások úgy mondják: egyháromság\] szerkezettel találkozunk, bármely léptékben is vizsgálódunk. "Egytengelyû dualitásnak" is nevezhetjük, hiszen a PáRosság feltételez egy láthatatlan fonalnak tűnő kapcsolati TeNgelyt, amit a Földből az Ég felé törő MaG jelöl ki. A Föld női minőséget hordoz ("Anyaföld"), az Ég a férfi megfelelője. A MaG mindkét minőséget egyidejűleg tartalmazza.  
 
-Az [alábbi](https://youtu.be/9Uif7ioQ4T4) Ne Legyen Áldozatos műsorban 7:00 körül Pap Gábor is szól arról, hogy **a mai tudomány anyag, energia és információ hármassággal képezi le a mindenséget**, de PG-ék idejében még csak anyag és energia volt, melyek viszont (lábjegyzetben kimondva) valójában egymásnak megfelelnek, hiszen az anyag nem más, mint bizonyos mértékhatárok alá fékeződött energia. Tehát hiába bontja háromra, ha kettő egymással azonos, míg az információról ugyanúgy semmit sem tud mondani, ahogy a lelket sem tudja definiálni. Pap Gábor ugyebár itt is azt bizonyítja, hogy a három komponensű világ-leképezéshez képest hiányosság van.  
+Az [alábbi](https://youtu.be/9Uif7ioQ4T4) Ne Legyen Áldozatos műsorban 7:00 körül Pap Gábor is szól arról, hogy **a mai tudomány anyag, energia és információ hármassággal képezi le a mindenséget**, de Pap Gáborék idejében még csak anyag és energia volt, melyek viszont (lábjegyzetben kimondva) valójában egymásnak megfelelnek, hiszen az anyag nem más, mint bizonyos mértékhatárok alá fékeződött energia. Tehát hiába bontja háromra, ha kettő egymással azonos, míg az információról ugyanúgy semmit sem tud mondani, ahogy a lelket sem tudja definiálni. Pap Gábor ugyebár itt is azt bizonyítja, hogy a három komponensű világ-leképezéshez képest hiányosság van.  
 9:44-nél az az energiát a szellemiséggel, az anyagot a testiséggel felelteti meg, és akkor nyilván az információ felelne meg a [[L/Lélek\|lélek]]nek (a tudomány egyiket sem tudja ugye definiálni: határok közé foglalni).  
 Lásd még Grandpierre Atilla hasonló tudományos háromságát lentebb.  
 Bakos Attila A Duna Evangéliuma című könyvének 491. oldalán ír az energiáról és az anyagról.  
