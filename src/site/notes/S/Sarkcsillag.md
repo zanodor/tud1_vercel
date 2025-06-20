@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2025-06-08T18:24"}
+{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2025-06-20T23:36"}
 ---
 
 
@@ -138,7 +138,7 @@ Mind a föntiek után nem lesz többé oly érthetetlen előttünk az sem amit n
 
 
 
-Robert Graves The White Goddess című könyvében ugye nem a (Sarkcsillagot valaha is hordozó) Sárkány és Medve csillagképeket, hanem a [[C/Caer Arianrhod\|Caer Arianrhod]]-dal (és mi van [[C/Caer Sidi\|Caer Sidi]]-vel?) is kapcsolatba hozott [[C/Corona Borealis\|Corona Borealis]] csillagképet helyezte előtérbe istennő/tündéri lakóhely értelemben.  
+Robert Graves The White Goddess című könyvében ugye nem a (Sarkcsillagot valaha is hordozó) Sárkány és Medve csillagképeket, hanem a [[C/Caer Arianrhod\|Caer Arianrhod]]-dal (és mi van [[C/Caer Sidi\|Caer Sidi]]-vel?) is kapcsolatba hozott [[C/Corona Borealis csillagkép\|Corona Borealis csillagkép]]et helyezte előtérbe istennő/tündéri lakóhely értelemben.  
 
 Mindegyik csillagképben közös az északon elfoglalt helyük és a hét szám (lásd [[H/Hét#Hét csillag – észak\|hét csillag – észak]] cím/alcímnél is közben írottakat). Talán az adott nép, ha délre vándorol, ahol például az egyenlítő környékén a számunkra legészakibb csillagok nem látszanak jól, kénytelen volt felvenni egy helyettes csillagképet ([[O/Ökörhajcsár csillagkép\|Ökörhajcsár csillagkép]]ről illetve [[B/Bál\|Bál]]-Göncölről, mint Orion-duplikációról már volt szó).  
 
