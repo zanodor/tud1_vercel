@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zodiákus első jegye/","title":"Zodiákus első jegye","tags":["Englishtexttranslated"],"created":"2023-11-08T04:59:00","updated":"2024-10-26T00:53"}
+{"dg-publish":true,"permalink":"/Z/Zodiákus első jegye/","title":"Zodiákus első jegye","tags":["Englishtexttranslated"],"created":"2023-11-08T04:59:00","updated":"2025-06-28T00:02"}
 ---
 
 
@@ -58,8 +58,29 @@ Jankovics Marcell A fa mitológiájában szőlőnél írja:
 > Az ókori közel-keleten az őszi napéjegyenlőség körüli újhold újév- ill. félévkezdő ünnep volt, amikor a szőlő és bor istenének képmását újhold alakú bárkán hordozták körbe.  
 > A zsidók ma is ősszel kezdik az évet \[lásd erről [[S/Szűz csillagkép\|Szűz csillagkép]]\], és az évkezdő ünnepkör fénypontja a hétnapos [[S/Szukkót\|Szukkót]], a sátoros ünnep, mely eredetileg a betakarítás és szüret ünnepe volt.  
 
-A mellékelt képi formában idetett adatsor Baktay Ervin A csillagfejtés könyve című művéből származik. Lásd még [[T/Tavaszpont\|tavaszpont]].  
-![assets/Zodiakuselsojegye_image3.png|invert_dark](/img/user/Z/assets/Zodiakuselsojegye_image3.png)  
+#### Baktay Ervin A csillagfejtés könyve...  
+
+...című művéből származnak az alábbi, [[T/Tavaszpont\|tavaszpont]] címnél is taglalt sorok:  
+> Mert a Földtengely elhajlása folytán a Nap évről-évre az állócsillagképek állatövének más és más pontján éri el az úgynevezett Tavaszpontot, s a Nappálya állatövének jegyeit mindig ettől a ponttól számítjuk. A Nappálya állatövén tehát a Kos jegye a Nap mindenkori Tavaszpontjától kezdődik. akkor is, ha a Nap az állócsillagképek állatövének más csillagcsoportjában van.  
+> \[...\]  
+> Az asztrológiában ez a Nappálya-állatöv, vagyis az állatövi sora szerepel, mert a csillagfejtők évezredek óta megfigyelték. hogy az egyes jegyek hatásai nem az állatövi csillagképekkel, hanem a Nap körútjának fázisaival, szakaszaival függnek össze. Némely régi kultúrkör csillagfejtői, pl. a hindu asztrológusok, manapság is figyelembe veszik a csillagképek állatövét és ennek eltérését az állatövi jegyektől. A Tavaszpont eltolódásának és lassú hátrálásának a csillagképeken át az ősidők bölcsei rendkívül mély jelentőséget tulajdonítottak a földi létben.
+> \[...\]  
+> A Tavaszpont pl. ma már nem esik egybe a Kos csillagkép-szakaszának 0-fokával, hanem kb. a Halak csillagképének elején jár és egyre jobban közeledik a Vízöntő csillagképéhez. A Nappályának 12 szakaszra való beosztását azonban a csillagászok egészen az újkori tudományos csillagászat kialakulásáig megtartották, s ezt a 12 szakaszt, a Tavaszpont hátramaradásának ellenére, továbbra is a csillagképek neveivel jelölték. Eszerint az ekliptika körén két, egymással nem egyező állatövet kell figyelembe vennünk! Az egyik az állandó, valóságos Állatöv, az állócsillagképek köre; a másik a Nap évi kőrútjának Állatöve, amelynek kezdőpontját a mindenkori Tavaszponttól számítjuk. Megkülönböztetésül az állandó Állatöv esetében csillagképekről beszélünk (a Kos, Bika, Ikrek, stb. csillagképei), a Nappálya eltolódó Állatövében viszont nem csillagképekről, hanem úgynevezett állatövi jegyekről van szó (a Kos, Bika, Ikrek, stb. állatövi jegyei). Az állatövi jegyek beosztása eszerint mindenkor változatlanul a Tavaszponttól kezdődik, ez a Kos jegyének 0-foka, tekintet nélkül arra, hogy melyik pontra esik az állatövi csillagképek körén. Az állatövi jegyek fokbeosztása tehát a következő:
+> 
+> | Fokok a Tavaszponttól | Jel | Elnevezés |
+> |-----------------------|-----|-----------|
+> | 0 – 30                | ♈   | Kos       |
+> | 30 – 60               | ♉   | Bika      |
+> | 60 – 90               | ♊   | Ikrek     |
+> | 90 – 120              | ♋   | Rák       |
+> | 120 – 150             | ♌   | Oroszlán  |
+> | 150 – 180             | ♍   | Szűz      |
+> | 180 – 210             | ♎   | Mérleg    |
+> | 210 – 240             | ♏   | Skorpió   |
+> | 240 – 270             | ♐   | Nyilas    |
+> | 270 – 300             | ♑   | Bak       |
+> | 300 – 330             | ♒   | Vízöntő   |
+> | 330 – 360             | ♓   | Halak     |
 
 ## Lábjegyzetek
 
