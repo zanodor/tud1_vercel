@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2025-06-07T21:04"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2025-06-28T00:02"}
 ---
 
 
@@ -144,7 +144,7 @@ Arról Varga Zsigmond nem ír, hogy a fekete és fehér (mely színek egyszerű 
 
 #### Pap Gábor Gondolatok a szkíta nép-nemzeti szertartásrendről...
 
-...című cikke közepétől a szkíta ősbölcsesség sámánisztikus és manicheista leszármazás-vonalának a világos és sötét erőkről szóló hagyományaival kapcsolatban értékelhető jegyek hasonlításakor kimondja, hogy a hazai táltos-hiedelemkörből a fehér és a fekete táltos szerepének definíciószerû elkülönültsége, a kétféle minőség állatalakban történő, szakadatlanul meg-megújuló küzdelme idézhető ide, mely párhuzama a zoroasztrianizmusban is meglévő, manicheista jó és gonosz küzdelme:  
+...című cikke közepétől a szkíta ősbölcsesség sámánisztikus és manicheista leszármazás-vonalának a világos és sötét erőkről szóló hagyományaival kapcsolatban értékelhető jegyek hasonlításakor kimondja, hogy a hazai táltos-hiedelemkörből a fehér és a fekete táltos szerepének definíciószerû elkülönültsége, a kétféle minőség állatalakban történő, szakadatlanul meg-megújuló küzdelme idézhető ide, mely párhuzama a zoroasztrizmusban is meglévő, manicheista jó és gonosz küzdelme:  
 > Evodiusnál (429 előtt) ezt olvashatjuk: Mánész tehát azt mondja, hogy két természet van: az egyik jó, a másik rossz. A jó csinálta a világot, a rossz miatt vált olyanná, amilyen (Adam 1969., 71. o.). Thmuiszi Szerapion (350 körül) szerint pedig ...azt mondják a manicheusok: a Sátán testét viseljük, de a lélek Istené. A test így rossz, a rosszból jött elő, a lélek pedig jó, a jóból veszi kezdetét; tehát kettő az őselv és kettő a lényeg; és a két őselv lett az okozó, az egyik a rossz testé, a másik a jó léleké. (Adam 1969., 59. o.)  
 
 ## Fehér és feketének számítható jó és rossz tündérek, démonok
