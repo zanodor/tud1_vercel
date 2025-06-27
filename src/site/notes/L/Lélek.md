@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2025-06-08T01:12"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2025-06-28T00:02"}
 ---
 
 
@@ -88,7 +88,7 @@ Tehát ez a bizonyos isteni szikra illetve önvaló/énség az isa/[[I/Íz\|íz]
 
 #### Pap Gábor Gondolatok a szkíta nép-nemzeti szertartásrendről...
 
-...című cikkében a zoroasztrianizmusban és manicheizmusban is alapvető tételként mutatkozó jó és gonosz küzdelme kapcsán utóbbi vallás hívői szerinti gondolatok megfogalmazásában igen érdekes összefüggéseket találunk:  
+...című cikkében a zoroasztrizmusban és manicheizmusban is alapvető tételként mutatkozó jó és gonosz küzdelme kapcsán utóbbi vallás hívői szerinti gondolatok megfogalmazásában igen érdekes összefüggéseket találunk:  
 > Evodiusnál (429 előtt) ezt olvashatjuk: Mánész \[Mani\] tehát azt mondja, hogy két természet van: az egyik jó, a másik rossz. A jó csinálta a világot, a rossz miatt vált olyanná, amilyen (Adam 1969., 71. o.). Thmuiszi Szerapion (350 körül) szerint pedig ...azt mondják a manicheusok: **a Sátán testét viseljük, de a lélek Istene**. A test így rossz, a rosszból jött elő, a lélek pedig jó, a jóból veszi kezdetét; tehát kettő az őselv és kettő a lényeg; és a két őselv lett az okozó, az egyik a rossz testé, a másik a jó léleké. (Adam 1969., 59. o.)  
 
 #### Schmidt Irén A magyarok és elődeik istenképe, találkozásuk a kereszténységgel a római térítés előtt 1-2....
