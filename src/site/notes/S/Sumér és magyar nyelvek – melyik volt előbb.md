@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2025-06-20T23:35"}
+{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2025-06-28T00:02"}
 ---
 
 
@@ -90,8 +90,10 @@ A másik érdekes példa a sumér [[N/NUN\|NUN]] = ősvíz; kezdet, melynek más
 A harmadik bizonyíték a [[M/Madár\|madár]] szavunk Dr. Gyárfás Ágnes által megtalált vagy érintett sumér olvasata lehetne:  
 Gyárfás Ágnes az Ősi Gyökér 2010/1-2. sz. közölt Magyar őskutatás a szimbolikák jegyében című cikkében tetszik amit, a lélek mélyén lappangó homályos képekről ír és azokról a jelképekről ([[S/Szarvas\|szarvas]], madár \[[[Turul\|[Turul]]\] és [[T/Tulipán\|tulipán]]), melyek a mélytudat képeit előcsalogató ún. közképek. Meg is említi a **magyar és madár szavak analógiájá**t. A madár nemzeti voltunkat meghatározó jelkép. Ami az etimológiai adatait illeti, lásd alant csatolva.  
 ![assets/Sumeresmagyarnyelvekmelyikvoltelobb_image1.png|invert_dark](/img/user/S/assets/Sumeresmagyarnyelvekmelyikvoltelobb_image1.png)  
-Nos, véleményem szerint ezek is csak azt mutatják, hogy a sumér az átvevő nyelv, nem a magyar eredetét képező. A Labat által említett, [[M/MISZ\|MISZ]] és más címnél hozott, azóta külön taglalt sumér [[M/Musen\|musen]] = madár, szárnyas; szárnyas rovar szót nem is veszi elő itt persze.  
-[[M/Magyar\|Magyar]] címnél pedig egyiptomi hieroglifák vizsgálata kapcsán is kimondtuk, hogy az egyiptomi és sumér utódnyelvek már önkényesen bántak a szótagokkal és önálló jelentéseket adtak nekik. (A kérdés persze az, hogy a Gyárfás Ágnes és Borbola János által bemutatott olvasatok eredetiek vagy saját kezűek.)  
+Nos, véleményem szerint ezek is csak azt mutatják, hogy a sumér az átvevő nyelv, nem a magyar eredetét képező. A Labat által említett, [[M/MISZ\|MISZ]] és más címnél hozott, azóta külön taglalt sumér [[M/Musen\|musen]] = madár, szárnyas; szárnyas rovar szót nem is veszi elő itt.  
+[[M/Magyar\|Magyar]] címnél pedig egyiptomi hieroglifák vizsgálata kapcsán is kimondtuk, hogy az egyiptomi és sumér utódnyelvek már önkényesen bántak a szótagokkal és önálló jelentéseket adtak nekik. (A kérdés persze az, hogy a Gyárfás Ágnes és Borbola János által bemutatott olvasatok eredetiek vagy saját kezűek.) 
+
+Arról pedig [[M/Madár\|madár]] címnél volt szó, hogy nem igazán lehet jól elemezni; inkább a [[M/Magyar\|magyar]] név változatának tűnik és ez a párosítás nem véletlen: a magyar ember úgy tölti be ég és föld közötti közvetítő szerepét, ahogy a madár az ég és föld közötti területet járja (szállja) be.  
 
 ### 4.
 
