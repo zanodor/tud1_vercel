@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-06-21T00:23"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-06-28T00:05"}
 ---
 
 
@@ -11,6 +11,11 @@
 
 **Videók kivonatokkal**:  
 
+[250627CN! SZENT LÁSZLÓ NAPJA](https://rumble.com/v6vespl-250627cn-szent-lszl-napja-kubnyi-tams-ktv.html)  [https://archive.ph/89nHV](https://archive.ph/89nHV)
+[250626CN! A BARTA-TITOK](https://rumble.com/v6vd6zn-250626cn-a-barta-titok-kubnyi-tams-ktv.html)  [https://archive.ph/y6we0](https://archive.ph/y6we0)
+[250625CN! CSAK EGY ÉJSZAKÁRA](https://rumble.com/v6vbc09-250625cn-csak-egy-jszakra-kubnyi-tams-ktv.html)  [https://archive.ph/9l6Tq](https://archive.ph/9l6Tq)
+[250624CN! TISZTÁN LÁTÁS VÉGETT](https://rumble.com/v6v9l0p-250624cn-tisztn-lts-vgett-kubnyi-tams-ktv.html)  [https://archive.ph/9djXK](https://archive.ph/9djXK)
+[250623CN! SZERETET TANÍTÁS 2](https://rumble.com/v6v7v4n-250623cn-szeretet-tants-2-kubnyi-tams-ktv.html)  [https://archive.ph/I6A7Y](https://archive.ph/I6A7Y)
 [250620CN! CSONTVÁRY 106](https://rumble.com/v6v2xtb-250620cn-csontvry-106-kubnyi-tams-ktv.html)  [https://archive.ph/xpehw](https://archive.ph/xpehw)
 [250619CN! A MAGYAR FIATALOKHOZ](https://rumble.com/v6v17ah-250619cn-a-magyar-fiatalokhoz-kubnyi-tams-ktv.html)   [https://archive.ph/0MJnb](https://archive.ph/0MJnb)
 [250618CN! HORTHY SZÜLETÉSNAP](https://rumble.com/v6uzb0t-250618cn-horthy-szletsnap-kubnyi-tams-ktv.html)  [https://archive.ph/YFi0P](https://archive.ph/YFi0P)
