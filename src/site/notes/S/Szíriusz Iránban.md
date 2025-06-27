@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz Iránban/","title":"Szíriusz Iránban","tags":["Englishtexttranslated"],"created":"2023-10-29T06:02","updated":"2025-04-27T15:18"}
+{"dg-publish":true,"permalink":"/S/Szíriusz Iránban/","title":"Szíriusz Iránban","tags":["Englishtexttranslated"],"created":"2023-10-29T06:02","updated":"2025-06-28T00:02"}
 ---
 
 
@@ -12,7 +12,7 @@ Csatolva egy kb. 125 éves angol-perzsa szótár adata, mely kutya és Szíriusz
 A Szíriusz korábbi, Zend Avesztában talált elnevezése [[T/Tistrya\|Tishtrya]]. A kutatók viszont a "Szentháromságban" nem a csillag, hanem a három jelentésre asszociálnak, így egyesek a dogonok által említett Szíriusz A-B-C hármasra, mások – ahogy Jankovics Marcell forrásai is, köztük Tilakkal \[lásd írását [[T/Tistrya\|Tishtrya]]\] – az Orion övcsillagaira, minthogy az ezek által meghúzható egyenes meghosszabbításában van a fényes kutyacsillag:  
 > Another ancient Near East religion, Zoroastrianism, stated in its sacred the Zend-Avesta book that the Supreme God established as Master and Overseer of all the stars the star Sirius, called Tishtriya.  
 > —  
-> Egy másik ókori közel-keleti vallás, a [[Z/Zoroasztrianizmus\|zoroasztrianizmus]], szent könyvében, a Zend-Avesztában azt állította, hogy a Legfelsőbb Isten az összes csillag Mestereként és Felügyelőjeként a Szíriusz csillagot, a Tishtriya nevű csillagot hozta létre.  
+> Egy másik ókori közel-keleti vallás, a [[Z/Zoroasztrizmus\|zoroasztrizmus]], szent könyvében, a Zend-Avesztában azt állította, hogy a Legfelsőbb Isten az összes csillag Mestereként és Felügyelőjeként a Szíriusz csillagot, a Tishtriya nevű csillagot hozta létre.  
 
 ![assets/SziriuszIranban_image2.png|invert_dark](/img/user/S/assets/SziriuszIranban_image2.png)  
 > An association of Sirius with water occurs in the Zend-Avesta, which calls Tishtriya (Sirius) the responsible for rain and the enemy of the daemon of dryness. According to the Zend-Avesta, the Supreme God once made Tishtriya cause a massive flood as punishment for men's wickedness and corruption.  
