@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Napjelkép/","title":"Napjelkép","created":"2023-10-13T12:20","updated":"2024-10-25T23:34"}
+{"dg-publish":true,"permalink":"/N/Napjelkép/","title":"Napjelkép","created":"2023-10-13T12:20","updated":"2025-06-28T00:02"}
 ---
 
 
