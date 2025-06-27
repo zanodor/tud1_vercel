@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BAT/","title":"BAT","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2025-04-30T17:28","updated":"2025-06-07T19:48"}
+{"dg-publish":true,"permalink":"/B/BAT/","title":"BAT","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2025-04-30T17:28","updated":"2025-06-28T00:01"}
 ---
 
 
@@ -34,7 +34,7 @@ Ezen BAT megjelenhet PAD, PÁD, PÁT, PÉT formákban Ég jelentéssel, mint [[B
 [[F/Fazék\|Fazék]] Faz- eleme ugyanilyen módon lehet Ház, de mivel végződése -Ék már egyszer Égre utal, pleonasztikus lenne, így házat jelent. (Vesd össze [[P/Pot\|pot]] címnél hozott obi-ugor `put` = üst, ami égjelkép.)  
 Viszont itt találkozunk azzal az ellentmondással, amivel már [[T/TOK\|TOK]]-nál is találkoztunk. A tok, hüvely, ház (has) mind nőiség, de ahogy kimondottan erről [[B/BOT\|BOT]] címnél is írtunk, van itt egy hímségi vonal is. Hiszen SZ = T alapon BAT = [[B/Basz\|BASZ]], ami hímség.  
 Persze nem lenne az első eset, amikor ezt a kettősséget látjuk, hiszen a [[F/Fenyeget\|fenyeget]] sötét értelmű, de hímségi; lásd még továbbá [[F/Fény és anyag\|fény és anyag]], valamint [[F/Fény és sötétség\|fény és sötétség]] címnél álló szavakat, szópárokat.  
-A fentebb említett [[P/Pazar\|pazarol]] [[P/PAZ\|PAZ]] eleme megegyezik [[B/Basz\|BASZ]] szóval. Miért? Mert az égi nemzés ott történik, ahol a sötét félév váltja a világosat. A magyar nyelv tehát nemcsak a zoroasztrianizmusban is alaptételként ismert dualitást és [[D/Dialektikus ellentét\|dialektikus ellentét]]et képletezi, hanem a kínainak mondott [[J/Jin és jang\|jin-jang]] jelet is: az egész rendszer mozgásban van: ami létrehoz, az pusztít is. Ahogy Falvay Károly idézi Visky Károlyt: a néphit szerint a [[H/Halál\|halál]] [[L/Lakodalom\|lakodalom]]!  
+A fentebb említett [[P/Pazar\|pazarol]] [[P/PAZ\|PAZ]] eleme megegyezik [[B/Basz\|BASZ]] szóval. Miért? Mert az égi nemzés ott történik, ahol a sötét félév váltja a világosat. A magyar nyelv tehát nemcsak a zoroasztrizmusban is alaptételként ismert dualitást és [[D/Dialektikus ellentét\|dialektikus ellentét]]et képletezi, hanem a kínainak mondott [[J/Jin és jang\|jin-jang]] jelet is: az egész rendszer mozgásban van: ami létrehoz, az pusztít is. Ahogy Falvay Károly idézi Visky Károlyt: a néphit szerint a [[H/Halál\|halál]] [[L/Lakodalom\|lakodalom]]!  
 (Az imént említett [[K/Kárpát\|Kárpát]] név, mely medenceként is nőiség kellene legyen, nem lehet [[A/Árpád\|Árpád]] = Ház/Ég Ura értelmével azonos és nem is az.)  
 
 Valójában az ellentmondást az oldja fel, hogy az ember kezdete a vég és a kereszt szárai is merőlegesek egymásra.  
