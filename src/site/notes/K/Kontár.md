@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kontár/","title":"Kontár","created":"2025-03-05T02:30","updated":"2025-06-08T01:08"}
+{"dg-publish":true,"permalink":"/K/Kontár/","title":"Kontár","created":"2025-03-05T02:30","updated":"2025-07-03T01:14"}
 ---
 
 
@@ -23,7 +23,7 @@ Madách Imre Az ember tragédiájából is idézhetünk (Első Szín, Lucifer sz
 Az ördög képzet viszont kiterjedt az ősfelfogásban: egyrészt ellenpárja a fényt szülő Istennek és a fény-árnyék rendszerben a [[K/Kutya\|kutya]] szerepében is ő jelenik meg, valamint csillagászati szempontból az [[A/Alvilág\|alvilág]] (az [[E/Égi egyenlítő\|égi egyenlítő]] alatti tér) ura is lehet.  
 Legutóbb egy Quora válaszadó adatai nyomán [[D/Drug\|drug]] címnél a "húzza a lábát" (azaz [[S/Sánta\|sánta]]) fogalma mellett előjött a kontár fogalmának körülírása is.  
 
-A [[K/Kantár\|kantár]], kontár és a kontra = ellen értelem egy fogalmi körből kerül ki és bár mai értelmezésben a [[L/Ló\|ló]]val (mely ló a Tejút is lehet) kapcsolatos (telluris) kontextus juthat eszünkbe, az etimonok jelentésének ismeretével sikerül asztrális környezetbe visszaemelni.  
+A [[K/Kantár\|kantár]], kontár és a kontra = ellen értelem egy fogalmi körből kerül ki és bár mai értelmezésben a [[L/Ló\|ló]]val (mely ló a Tejút is lehet) kapcsolatos (tellurikus) kontextus juthat eszünkbe, az etimonok jelentésének ismeretével sikerül asztrális környezetbe visszaemelni.  
 
 [[K/Kantár\|Kantár]], [[K/Kuntar\|kuntar]] nevek és a [[C/Contra-\|contra-]], [[C/Centre\|centre]] szavak mellett említhető a [[H/Hunter\|hunter]] is. Valójában ezen nevek, sőt, kiegészülve az [[A/Andra\|Andra]] és [[O/Other\|other]] címnél taglalt An-Dar formával[^1] (és akár az [[A/Anta\|anta]] és [[A/Anti-\|anti-]] = ellen formával, de még a [[H/Hanta\|hanta]] is efféle, logikus név) mind ugyanazt jelölik: Orion kovácsistent/Démiurgoszt, aki sátáni/ördögi szerepkörét úgy nyeri el, hogy a Nap azon égi territóriumba jutva már veszti erejét.  
 Tehát ami a germánban `Hunter` = Vadász, Orionra utalva ([[W/Winter\|winter]] is azonos lehet vele, hisz télen látható), az a magyarban `Kontár` = Orion ördög aspektusa, az aki félmunkát végez, mert a tökéletes munkát csak olyan Isten végezhetne el, aki a sötétséget és a sötét, gonosz mentalitást nem tűrné a földünkön. Igaz, a világ egyensúlya csak úgy jöhet létre, ha létezik ellenerő. Ha nem létezne, elszabadulna minden. Ha nem lenne tél, kiszáradna a Föld.  
