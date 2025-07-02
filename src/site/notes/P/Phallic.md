@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated","titleandheadingonedontmatch"],"created":"2023-11-09T05:11","updated":"2025-06-08T01:44"}
+{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated","titleandheadingonedontmatch"],"created":"2023-11-09T05:11","updated":"2025-07-03T01:16"}
 ---
 
 
@@ -16,8 +16,9 @@ Magyar Adorján jól láthatja a Fa-Ló kapcsolatot, de nem ismeri a [[L/Ló\|L�
 A hasonló magyar szavak közül a [[P/Pálca\|pálca]] és [[P/Pallos\|pallos]] szó mellett felhozható a Csőke Sándor adata szerint magyar `pall` = üt, szelet csap értelmű hímségi ige is, melyet CzF is adatol (és [[P/Pale\|pale]] szóban is megvan) (csak ugye mi legvégső esetben akarunk igékből levezetni).  
 [[P/Pile\|Pile]] és [[P/Pilis\|Pilis]] címnél nem a fa-ló összefüggés jött elő viszont.  
 
-#### Vasváry-Tóth Tibor is érinti:
+#### Vasváry-Tóth Tibor...
 
+...is érinti:  
 > [[F/Fasz\|Fasz]] szavunkkal teljesen egyezik a szanszkrit `faszasz` ([[P/Pasas\|pasas]]) és a görög `feszosz` (peos), phallosz. Ezek ugyanazt jelentik, mint a magyar fasz szó (tudni való, hogy a szanszkritban és a görögben nincsen "[[F/F\|f]]"). A phallosz eredetileg a magyar ló-fasz szóból alakulhatott át. (Phallus, phallos. Ló-s. Fasz-ló. Majd fa-lós és phallos és hasonló lehetett a szó útja.)  
 - Ha nincs f betűjük, miért írta őket ki úgy? A latin [[F/Fascinum\|fascinum]] szóról nem tesz említést.
 
@@ -35,6 +36,7 @@ Vasváry-Tóth írja még:
 Ezen pallos azért is lehet jó nyomvonal, mert a karó és kard szót is használjuk ilyen értelemben; sőt, albán, cigány és perzsa nyelvben is a K-R "teremtőgyök" szerepel a hímtag jelentésű szavakban ([[K/KAR\|kar]], `kár(ó)` ill. [[K/Kir\|kir]]).  
 Ha már teremtőgyök, a pelaszg-palóc nyelven ez P-L, (B-L) mássalhangzóvázzal valósul meg, így lehet [[B/Bál\|Bál]] > Fál (Fal) vonalon is vizsgálni. Hasonlóképp indultunk ki [[B/BIL\|BIL]]/[[P/PIL\|PIL]] etimonoknál illetve [[P/Pale\|pale]] = karó szónál. Itt a megoldás. Mesterházy Zsolt is írja:  
 > Írország közepén, a "tarai dombon áll Fál köve, az a "fállikus" kő, amely felsikoltott, ha az az ember érintette meg, akit királynak szánt a sors", vagyis ez egy "FÁLikus" megalit, ahol a szakrális királyt megválasztották.  
+- Falu közepére tett fallosz kapcsán lásd [[F/Falu#^k17rbq\|itt]].
 
 [[P/Pale\|Pale]] mellett a [[P/PÉL\|PÉL]] címnél említett `péló` is ilyen alakú szó, sőt, a lengyel `wał` = tengely (shaft) is fallikus, sőt, Dorothea lengyel nyelvész szerint figuratív értelemben lehetne akár hímtagra alkalmazott is. A lengyel `wałek` = sodrófa szerinte az iménti szó kicsinyezése lehet.  
 Ugyanakkor nem elképzelhetetlen, hogy a [[C/Cephalic\|cephalic]] szó görög elődje kő/sze előtag nélkül a phallosz.  
