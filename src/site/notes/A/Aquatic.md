@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aquatic/","title":"Aquatic","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T05:35","updated":"2024-10-22T22:17"}
+{"dg-publish":true,"permalink":"/A/Aquatic/","title":"Aquatic","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T05:35","updated":"2025-07-03T00:55"}
 ---
 
 
 # Aquatic
 
-Víz-, vizes. A latin `aqua` szót [[D/Dudás Rudolf\|Dudás Rudolf]] egyik könyvében A-KU-(A) módon bontva tálalja, ahol [[A/A\|A]] jelentése ugye víz, KU (telluris) jelentése föld, kő. A-Ku-A lehet kb. a (Nagy/Első) Vize a Földnek értelmű. Felhoznám még `akó` szavunkat, mely tájiasan hasonlóan hangozhatott.  
+Víz-, vizes. A latin `aqua` szót [[D/Dudás Rudolf\|Dudás Rudolf]] egyik könyvében A-KU-(A) módon bontva tálalja, ahol [[A/A\|A]] jelentése ugye víz, KU (tellurikus) jelentése föld, kő. A-Ku-A lehet kb. a (Nagy/Első) Vize a Földnek értelmű. Felhoznám még [[A/Akó\|akó]] szavunkat, mely tájiasan hasonlóan hangozhatott.  
 De mint alant látni fogjuk, nem ezek a helyes megoldások.  
 
 Götz László Keleten kél a Nap című könyvében szumér-latin és szumér-germán szavak párhuzamait bemutató szavak között találjuk a latin `aqua` és ófelnémet `aha` mellé téve a sumér `A'A` = víz szót.  
@@ -18,7 +18,7 @@ Viszont már eleve az önálló A is vizet jelentene, az alábbiak szerint is:
 
 ...című munkájának adatai megerősítenek:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/f/father/#2loaxu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/F/Father/#2loaxu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
