@@ -1,16 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/B/BAD/","title":"BAD","created":"2024-10-29T16:18","updated":"2024-11-07T00:56"}
+{"dg-publish":true,"permalink":"/B/BAD/","title":"BAD","created":"2024-10-29T16:18","updated":"2025-07-03T00:57"}
 ---
 
 
 # BAD 1)
 
-Bad-Tibira tehát Bad-Szibira, vagyis a magyar Szabirok Városa. Bad a [[P/PAT\|PAT]], [[B/BAT\|BAT]], Város, változata.  
+#### Péterfai János írja:
+
+> Bad-Tibira tehát Bad-Szibira, vagyis a magyar Szabirok Városa. Bad a [[P/PAT\|PAT]], [[B/BAT\|BAT]], Város, változata.  
+
 Bár [[S/Szabad\|Szabad]] szavunkat Péterfai János Szab-Ad tagokra bontja, Sza-Bad felbontásban a Fény Háza jelentésű.  
 
-BAD = víz értelméről [[B/BAD#Bad 2)\|bad]] címnél szóltunk.  
+BAD = víz értelméről [[B/BAD#Bad 2)\|bad]] cím/alcímnél szóltunk.  
 
-BAD sumér és iráni/angol értelmét vizsgáló részt szintén lásd [[B/BAD#Bad 2)\|bad]].  
+BAD sumér és iráni/angol értelmét vizsgáló részt szintén lásd alant [[B/BAD#Bad 2)\|bad]].  
 
 # Bad 2)
 
@@ -29,19 +32,16 @@ Ha már Götz László, Keleten kél a Nap című könyvének 165. és 876. olda
 
 Holott a levezetés telitalálatnak tűnik, létezik más elképzelés is. [[P/Pessimism\|Pessimism]] szónál taglaltuk, hogy amíg a magyar rossz-rosszabb-legrosszabb szavak a romlás fokozatait fejezik ki, a latinban az alsó szinttel, szintre eséssel kapcsolatosak. Hogy az alsó szintre ereszkedés [[B/Beteg\|beteg]]ség és bágyadtság (lásd ezzel kapcsolatosan [[B/Bed\|bed]]) által előidéztetett, alátámasztja a szanszkrit `pádyate` = ő leesik, valamint a modern perzsában és angolban azonos alakú és jelentésű `bad` = rossz szó is.  
 
-Csatolt képek: bad-bed-bágyadt-beteg-pathetic ill. perzsa láb.  
-![assets/Badrossz_image1.png|invert_dark](/img/user/B/assets/Badrossz_image1.png)  
-![assets/Badrossz_image2.png|invert_dark](/img/user/B/assets/Badrossz_image2.png)  
-Amit még hozzá lehet tenni a képhez, hogy a szanszkrit `pádyate` = esik szó a magyar petyhed, petydüdik szavakkal mutat közeli rokonságot.  
+
 
 Latin ped-/pes- = láb (alsó) vonalon lásd még [[P/Pedal\|pedal]] és [[P/Pedestrian\|pedestrian]]. Cipő/alsó vonalon [[S/Super\|super]] és [[H/Hyper\|hyper]].  
 
-Legvégül, még egyszer vad szavunkra visszatérve, az utolsó PAESZ táblázatban foglalt adatok szerint mégis indo-szkíta eredetű a szó ([[V/Vata\|Vata]]), és úgy tűnik, Varga Csabának lesz igaza; sőt, a sumér `bad` = vad szintén.  
+Legvégül, még egyszer `vad` szavunkra visszatérve, indo-szkíta eredetű a szó ([[V/Vata\|Vata]]), és úgy tűnik, Varga Csabának lesz igaza; sőt, a sumér `bad` = vad szintén.  
 
 A bad szót az etimológia szótár bizonytalanul az óangol `bæddel` szóra vezeti vissza, "hermafrodita, nőies férfi" jelentéssel. Noénál is felmerült az [[A/Androgün\|androgün]] mivolta, illetve a magyar nő ([[N/Noé\|Noé]] neve innen származik?) szavunk tagadó, negatív értelemben él tovább az angol nyelvben. A nem nélküli vagy kétnemű, reptilián lények nemcsak más bolygón, de a miénken is előfordultak, előfordulnak. A női szerep hátrányba kerülése a vaskorral hozható összefüggésbe.  
 
-Összegezve, azt kell megállapítani, hogy akár vízzel, akarat- vagy erőbeli gyengeséggel hozzuk kapcsolatba a szót, mindig a nőiségi-telluris vonatkozásait fogjuk megtalálni. A vad szavunkat sokan hímséginek tartanák, de az alábbiak is fényt derítenek valós kilétére:  
-[[M/Magyar szópárok\|Magyar szópárok]]nál is szerepelt a vág és a vég páros, melyhez a vágy szavunk is tehető: bizony, a vágy a véggel kapcsolatos, hisz a [[S/Sárkány\|sárkány]] győzelmét jelenti. A vágy párja lehet a fágy (melynek jelentése fal, habzsol, és ismét anyagi-nőiségi-telluris vetületű, de ide kapcsolódnak az angol [[F/Fag\|fag]] = lélekölő munka, kifáraszt, [[F/Fade\|fade]] = fakul és [[F/Fad\|fad]] = hóbort szavak is), és a fogy-aszt, illetve távolabbról a fog (fogság) is. A vágy, vég tovább boncolgatható vad, vályu, váj, vaj, baj, bal irányokba is, sőt, vályu szó kád szinonimája visz el azon latin `caedere` és `cadere` szavakhoz, melyeket [[C/Circumcision\|circumcision]] szónál is taglaltunk.  
+Összegezve, azt kell megállapítani, hogy akár vízzel, akarat- vagy erőbeli gyengeséggel hozzuk kapcsolatba a szót, mindig a nőiségi-tellurikus vonatkozásait fogjuk megtalálni. A vad szavunkat sokan hímséginek tartanák, de az alábbiak is fényt derítenek valós kilétére:  
+[[M/Magyar szópárok\|Magyar szópárok]]nál is szerepelt a vág és a vég páros, melyhez a vágy szavunk is tehető: bizony, a vágy a véggel kapcsolatos, hisz a [[S/Sárkány\|sárkány]] győzelmét jelenti. A vágy párja lehet a fágy (melynek jelentése fal, habzsol, és ismét anyagi-nőiségi-tellurikus vetületű, de ide kapcsolódnak az angol [[F/Fag\|fag]] = lélekölő munka, kifáraszt, [[F/Fade\|fade]] = fakul és [[F/Fad\|fad]] = hóbort szavak is), és a fogy-aszt, illetve távolabbról a fog (fogság) is. A vágy, vég tovább boncolgatható vad, vályu, váj, vaj, baj, bal irányokba is, sőt, vályu szó kád szinonimája visz el azon latin `caedere` és `cadere` szavakhoz, melyeket [[C/Circumcision\|circumcision]] szónál is taglaltunk.  
 A lent-ség, a víz, mindig a [[R/Rossz\|rossz]] (melyhez hasonlóan a [[R/Rút\|rút]] is a Nap lementéhez, a sötétséghez kapcsolt), ezért is azonos bad [[B/Bath\|bath]]-tal.  
 
 Közben [[P/PAT\|PAT]] címnél írottak alapján (illetve lásd az utóbb betett Nagy Géza féle sumér `bad` = ölni szót fentebb) könnyen lehet, hogy a halál jelentésből indul ki. Igenis, a bad = rossz eredetileg vagy csúnya, vagy hazug vagy [[P/PAT\|pat]] = halál, azaz ilyen fényhiányos értelmű. Fentebb vízről is volt szó, márpedig az mindig a legalacsonyabb pontot találja meg (de a [[P/Pata\|pata]], [[F/Foot\|foot]] = láb is a [[F/Föld\|Föld]]del, vagy mondhatjuk: "*főd*del" érintkezik). Bad tehát az alul (halál) léttel hozható kapcsolatba. A görög `βόθρος` is gödör, árok jelentésű.  
