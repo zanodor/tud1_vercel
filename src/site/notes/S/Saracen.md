@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/S/Saracen/","title":"Saracen","tags":["Englishtexttranslated"],"created":"2023-10-20T09:20","updated":"2025-06-08T18:25"}
+{"dg-publish":true,"permalink":"/S/Saracen/","title":"Saracen","tags":["Englishtexttranslated"],"created":"2023-10-20T09:20","updated":"2025-07-03T01:15"}
 ---
 
 
 # Saracen
 
-Szaracén vagy szerecsennek is mondjuk. Úgy tűnik, mégsem(?) [[S/Sár\|sár]]/[[S/SZAR\|szar]]-színű az értelme, mert nem a szaracénből kellhet kiindulni. Holott a [[M/Mór\|mór]] fekete értelmével passzolna. Persze korántsem biztos, hogy az arab-görög kifejezésekből kell kiindulni; ott ugye a c/sz helyett k van, mely a [[S/Sárkány\|sárkány]] nevet mutatná fel. De mivel a sárkány telluris/fekete/sátáni értelmét értjük, ezért visszatérünk az eredeti kiindulóponthoz.  
+Szaracén vagy szerecsennek is mondjuk. Úgy tűnik, mégsem(?) [[S/Sár\|sár]]/[[S/SZAR\|szar]]-színű az értelme, mert nem a szaracénből kellhet kiindulni. Holott a [[M/Mór\|mór]] fekete értelmével passzolna. Persze korántsem biztos, hogy az arab-görög kifejezésekből kell kiindulni; ott ugye a c/sz helyett k van, mely a [[S/Sárkány\|sárkány]] nevet mutatná fel. De mivel a sárkány tellurikus/fekete/sátáni értelmét értjük, ezért visszatérünk az eredeti kiindulóponthoz.  
 (A sárkány elemzésénél láttuk ugye, hogy van egy fényes Szár-Kan és egy fényhiányos Sár-Kan minősége.)  
 
 Zentai Ákos Történelemírásunk Akhilleusz-sarka című cikkében Sarrukin (Sargon) neve említése után hozza szóba a szaracén/szerecsen nevet. Valóban lehetne akár [[S/Sárkány\|sárkány]] olvasatú (de ezt így ő nem mondja).  
