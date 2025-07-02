@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Rossz/","title":"Rossz","tags":["Englishtexttranslated"],"created":"2024-10-26T21:25","updated":"2024-10-26T21:25"}
+{"dg-publish":true,"permalink":"/R/Rossz/","title":"Rossz","tags":["Englishtexttranslated"],"created":"2024-10-26T21:25","updated":"2025-07-03T01:17"}
 ---
 
 
@@ -9,7 +9,7 @@ Péterfai János nem látszik érteni a nevet. Újabb írásában (a [[R/Ronda\|
 
 Úgy tűnik, a [[Z/Zagrosz\|Zagrosz]] és a [[V/Vörös és a rútság\|vörös és a rútság]] címnél írottak alapján, hogy a Rossz a Nap azon neve, mely a [[R/Rusz\|Rusz]] (Rózsa) és a Rőt (Rút) szavak értelmei alapján a lemenő Napot, így a fényhiányos időszakot (sötétséget, hideget, halált[^1]) jelöli.  
 Hasonló rosszhoz és rúthoz [[R/Ronda\|ronda]] szavunk, mely utóbbiról [[R/Round\|round]] címnél is volt szó.  
-[[R/Rogy\|Rogy]] szavunk szintén nőiségi-telluris. [[R/Rohad\|Rohad]] szónál tovább elemezzük a Nap ilyen állapotát, de [[R/Réz\|réz]] címnél is hasonlókról volt szó.  
+[[R/Rogy\|Rogy]] szavunk szintén nőiségi-tellurikus. [[R/Rohad\|Rohad]] szónál tovább elemezzük a Nap ilyen állapotát, de [[R/Réz\|réz]] címnél is hasonlókról volt szó.  
 [[R/ROT#Rot 2)\|Rot]] címnél is szerepelt, hogy az északi lappoknál **Rohttu** a betegség és halál istene. A rothad, rossz, rút, [[R/Rat\|rat]] = patkány, mind rokon nevek.  
 A [[C/Csúnya\|csúnya]] szavunk szintén a Nap [[K/KUN\|KUN]] (Kuna) nevéből látszik eredni. (Ott, [[C/Csúnya\|csúnyá]]nál is szerepelt, hogy a kelta-ír `grian`/`griain` = Nap és `gránna` = csúnya közt éppoly fogalmi-hangtani viszony látszik fennállni, mint a magyarban.)  
 
