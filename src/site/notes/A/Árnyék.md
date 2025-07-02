@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Árnyék/","title":"Árnyék","created":"2024-04-25T17:21","updated":"2025-06-07T18:48"}
+{"dg-publish":true,"permalink":"/A/Árnyék/","title":"Árnyék","created":"2024-04-25T17:21","updated":"2025-07-03T00:55"}
 ---
 
 
@@ -22,7 +22,7 @@ Borbola János Magor című cikkében úgy fogalmaz, hogy az árnyék elhatárol
 A nőhöz tartozik az [[E/Észak\|észak]], az [[E/Éj\|éj]], a sötét és a [[T/Tudatalatti\|tudatalatti]].  
 
 Inkább a fény negatívját, hiányát jelenti. A fény-árnyék rendben az árnyék a [[S/Sötét oldal\|sötét oldal]], melyhez a nő tartozik. A Nyék gyakorlatilag a [[N/Nyugat\|nyugat]] és nyugszik szavak [[N/Nyug\|nyug]] gyökével azonosítható.  
-Van olyan szavunk is, hogy `árny`, mely inkább afféle szellemként értelmezhető. Nehéz másra gondolni, mint a [[F/Fény\|fény]] és a [[F/Fene\|fene]] páros analógiájára, ahol az árnyék "gyöke," árny az [[A/Arany\|arany]] telluris változata lenne. Sőt, árnyék -ék végződése lehet olyan szó, mint -ok az [[A/Átok\|átok]]ban. Ar-An-Ég vagy efféle összetételben lehetne gondolkodni még. Az árnyékos, sötét oldal tartozik az (Éji) Ég Sát-Án ([[S/Sátán\|Sátán]]) fogalmához is.  
+Van olyan szavunk is, hogy `árny`, mely inkább afféle szellemként értelmezhető. Nehéz másra gondolni, mint a [[F/Fény\|fény]] és a [[F/Fene\|fene]] páros analógiájára, ahol az árnyék "gyöke," árny az [[A/Arany\|arany]] tellurikus változata lenne. Sőt, árnyék -ék végződése lehet olyan szó, mint -ok az [[A/Átok\|átok]]ban. Ar-An-Ég vagy efféle összetételben lehetne gondolkodni még. Az árnyékos, sötét oldal tartozik az (Éji) Ég Sát-Án ([[S/Sátán\|Sátán]]) fogalmához is.  
 Árny-Ég az Ég Árnya lenne, de akkor mi az Árny? Ár-Nu? Úrnő? Mi a [[N/Nyár\|nyár]] értelme? Előző megfordítása, Nu-Ár? A Nyár, a Rákkal az istennő uralma alatt van, talán azért mert, Szíriusszal együttállás van.  
 Hát az [[E/Ernyő\|ernyő]] szavunk? Nyilván a napernyő a nap sugarainak és erejének **ernyesz**tésére szolgál.  
 (Másképpen, az ernyő, ahogy a [[S/Sombrero\|sombrero]] címnél taglalt kalap, árnyékot ad, ami sötétre/fényhiányra utal. Esernyőként eső ellen véd.)  
