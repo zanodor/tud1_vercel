@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2025-06-13T20:55"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2025-07-03T01:15"}
 ---
 
 
@@ -335,7 +335,7 @@ Lásd még [[D/DOG\|DOG]]/[[D/DOG#Dog 2)\|dog]] és [[B/Boldog\|boldog]].
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-[[D/DUG\|DUG]] asztrális, dög telluris.  
+[[D/DUG\|DUG]] asztrális, dög tellurikus.  
 
 [^2]: Lábjegyzet:  
 Lásd még erről [[A/Ahriman\|Ahriman]] és [[D/Dév\|dév]], [[D/Devil\|devil]], valamint Ipolyi Arnold Magyar mythologia című könyvéből talált adatot is másutt, például [[F/Fény és sötétség\|fény és sötétség]] címnél.  
