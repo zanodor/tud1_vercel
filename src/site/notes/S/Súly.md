@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Súly/","title":"Súly","created":"2023-10-30T07:17","updated":"2024-10-26T00:25"}
+{"dg-publish":true,"permalink":"/S/Súly/","title":"Súly","created":"2023-10-30T07:17","updated":"2025-07-03T01:17"}
 ---
 
 
@@ -15,4 +15,4 @@ A [[C/Canopus\|Canopus]] és más címnél előjövő arab **Suhail** csillagné
 Richard H. Allen Star Names című könyvében ugyanis azt írja, hogy a nehezék jelentés azért párosulhatott a csillag arab nevéhez, mert nagy, nehéz csillagként mindig közel volt a horizonthoz. Feljebb északra haladva már nem is látszik.  
 
 Szóba került [[S/Seal\|seal]] címnél is a föníciai-héber [[S/Shekel\|shekel]] kapcsán.  
-Nőiségi-telluris szó, mint a [[S/Süllyed\|süllyed]] és [[Z/Züllik\|züllik]].   
+Nőiségi-tellurikus szó, mint a [[S/Süllyed\|süllyed]] és [[Z/Züllik\|züllik]].   
