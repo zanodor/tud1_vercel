@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/R/ROK/","title":"ROK","created":"2024-10-24T02:27","updated":"2024-10-24T02:27"}
+{"dg-publish":true,"permalink":"/R/ROK/","title":"ROK","created":"2024-10-24T02:27","updated":"2025-07-03T01:16"}
 ---
 
 
 # ROK
 
 Rok a Kor, Kör, Kar szavak megfordításaként szerepel olyan szavakban, mint a magyar `rokka` (Rok-Ka) és a rokka szóhoz köthető a skandináv-germán `rok` = guzsaly, rokka szóban. [[R/Rokka\|Rokka]] lehet ugyanúgy Ró-Ka felbontású is mint [[R/Róka\|róka]]. Rok-Ka is helyes lehet.  
-[[R/Rokon\|Rokon]] is ide tartozik (mégsem Ro-Kon a helyes felbontása). [[R/Rokkan\|Rokkan]] a telluris oldalon áll.  
+[[R/Rokon\|Rokon]] is ide tartozik (mégsem Ro-Kon a helyes felbontása). [[R/Rokkan\|Rokkan]] a tellurikus oldalon áll.  
 Elképzelhető, hogy [[R/Ragnarök\|Ragnarök]] szóban is ez szerepel, míg [[R/Rook\|rook]] szóban nyilvánvaló. A német `rück`, `zurück` = vissza szóban is a Nap újra-felkelése jön elő, mint a [[R/Re- prefixum\|re- prefixum]]ban is.  
 Az orosz nyelv több sors, végzet jelentésű szavak közül egyik a `rok` = sors, végzet. Nyilván összefügg vele a szlovák, cseh, lengyel `rok` = év szó. ([[E/Életkör\|Életkör]]re utalnak mind.)  
 
