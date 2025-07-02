@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zodiákus első jegye/","title":"Zodiákus első jegye","tags":["Englishtexttranslated"],"created":"2023-11-08T04:59:00","updated":"2025-06-28T00:02"}
+{"dg-publish":true,"permalink":"/Z/Zodiákus első jegye/","title":"Zodiákus első jegye","tags":["Englishtexttranslated"],"created":"2023-11-08T04:59:00","updated":"2025-07-03T01:18"}
 ---
 
 
@@ -88,7 +88,7 @@ Jankovics Marcell A fa mitológiájában szőlőnél írja:
 A Vízöntő az, ami a Nagy Évet a Halak/Halál után nyitja. Persze aligha lehet itt összefüggés.  
 
 [^2]: Lábjegyzet:  
-Azaz kimondható, hogy a [[F/Fene\|fene]] szavunk is a [[F/Fény\|fény]] telluris vetületeként (továbbmegyek: a sárkány sáros vetülete, a boszorkány bosszús vetülete, a kutya kutas/kátyús, kussolós vetülete) annyit tesz, hogy önmaga megeszi a fényt, ahogy a rák a sejteket.  
+Azaz kimondható, hogy a [[F/Fene\|fene]] szavunk is a [[F/Fény\|fény]] tellurikus vetületeként (továbbmegyek: a sárkány sáros vetülete, a boszorkány bosszús vetülete, a kutya kutas/kátyús, kussolós vetülete) annyit tesz, hogy önmaga megeszi a fényt, ahogy a rák a sejteket.  
 
 [^3]: Lábjegyzet:  
 A három hónapos diszkrepancia csak úgy számolható el, ha a tavaszi évkezdő évet preferáló tulajdonképp 9 hónapos évvel (mely épp az ember vemhességi ideje is) számol (tkp. a vízöntővel fémjelzett három hónap "megy a levesbe"). Nyilván nem mindegy, milyen földrajzi helyen lakunk, de ahogy [[B/Bal és jobb\|bal és jobb]] címnél is szerepelt, az sem mindegy, hogy hyperboreai (északi sarki) Nap- és fényviszonyokkal számolunk vagy sem...  
