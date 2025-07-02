@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2025-04-04T22:53"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2025-07-03T00:58"}
 ---
 
 
@@ -73,7 +73,7 @@ Az indonéz és maláj nyelven `barat` = nyugat, mely utalhat arra, merre helyez
 ...című könyvében (a PDF 67. oldalán) talált info[^1] alapján a **Bar-At értelem szépen megfér a testvér-brother értelemmel** (és etimológiai levezetési alkalmat nyújt a szláv és germán szavak eredetére nézve is):  
 > Előbb láttuk, hogy az átmeneti magyar imádság a szép, ragyogó Napot "testvér"-nek tiszteli, a Holdat "asszonynénénk"-nek, a Csillagokat "hugaink"-nak, a Szelet "süvünk"-nek, sógornak, a Vizet "ángyikánk"-nak, a Tüzet "urunkbátyánk-nak, a Földet "nagyasszonyunk"-nak.  
 
-Merésznek tűnhet a Bar-At szót a [[K/Kutya\|kutyá]]khoz vagy inkább [[K/Kutyafejű\|kutyafejű]]ekhez kötni? Talán nem, mert a hasonló szerelésű spanyol [[P/Perro\|perro]] (nőnemben perra) szó is ezt jelenti. Ismeretlen eredetűnek vélik. Mivel asztrális kutyát kell benne látni, Per-Ro, Per-Ra felbontásban a Nap Háza értelmű és rokon a barát szavunkkal, mely szerint is tellurisan az ember legjobb, leghűségesebb barátja.  
+Merésznek tűnhet a Bar-At szót a [[K/Kutya\|kutyá]]khoz vagy inkább [[K/Kutyafejű\|kutyafejű]]ekhez kötni? Talán nem, mert a hasonló szerelésű spanyol [[P/Perro\|perro]] (nőnemben perra) szó is ezt jelenti. Ismeretlen eredetűnek vélik. Mivel asztrális kutyát kell benne látni, Per-Ro, Per-Ra felbontásban a Nap Háza értelmű és rokon a barát szavunkkal, mely szerint is tellurikusan az ember legjobb, leghűségesebb barátja.  
 (Az olasz `bracco` = vadászkutya szó is hasonló, melyet szintén nehéz elhelyezni.)  
 Nagyon könnyen elképzelhető, hogy a német `freund`, angol [[F/Friend\|friend]] = barát szavakban is a BAR etimonhoz tartozó [[F/FER, FÉR\|FER, FÉR]] és a kún-germán `hund` (lásd [[H/Hound\|hound]]) = vadászkutya szavak összehúzását kell látni. [[O/Ond\|Ond]], ont, önt (ojt) szavak is elképzelhetőek benne, asztrális kutyanemzésről lévén szó.  
 [[T/Teremtő és teremtett\|Teremtő és teremtett]] szócikknél is volt szó a [[B/BAR\|BAR]] etimonról. Bar At lehet a Teremtő Adó, asztrális [[K/Kutyanemzés\|kutyanemzés]]re értve. Teremtett vonalon [[B/Barom\|barom]] = teremtmény. Azaz első körben volt egy primordiális [[N/Nimrud\|Nimrud]]-féle nemzés, mely a Naprendszerünket szülte, másodikként a Nap (talán szíriuszi Kutyacsillag segítségével) szülte az életet a bolygón.  
