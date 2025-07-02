@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Negyven/","title":"Negyven","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T23:20","updated":"2025-03-05T23:21"}
+{"dg-publish":true,"permalink":"/N/Negyven/","title":"Negyven","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T23:20","updated":"2025-07-03T01:15"}
 ---
 
 
@@ -121,7 +121,7 @@ A negyven napot a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelése]] e
 
 ...című könyvének adatai [[S/Szít\|szít]], [[T/Tél\|tél]], valamint [[B/Barbár\|barbár]] és [[S/Szada-ünnep\|Szada-ünnep]] címhez is bekerültek:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/b/barbar/#5s6xw" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/B/Barbár/#5s6xw" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
