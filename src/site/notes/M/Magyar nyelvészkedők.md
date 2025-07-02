@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","created":"2023-11-19T03:30","updated":"2025-06-20T23:34"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","created":"2023-11-19T03:30","updated":"2025-07-03T01:13"}
 ---
 
 
@@ -11,7 +11,7 @@ A több helyen ([[T/Turanizmus\|turanizmus]] címnél szerepelt a legtöbb) idé
 Az egyes kritikai észrevételeket elnézve abszolút igazuk is lehet egyes esetekben, ugyanis az általuk felsorolt szerzők zöme ki nem forrott elméleteket adnak úgy közre, olyan szófejtésekkel és hasonlításokkal, amelyek [[D/Dudás Rudolf\|Dudás Rudolf]] és Jásdi Kiss Imre esetében is lehetnek tudománytalanok és nevetségesek. (A két illető felkészültsége a témában merőben eltérő, persze.)  
 
 Péterfai János is megteszi a magáét kritika ügyében: hol tévednek az eljárásukban stb.  
-Addig, amíg a kutatók nem jönnek rá, hogy a [[M/Magyar szavak szakrális és profán jelentései\|szavak a nyelv alaprétegüket tekintve csillagvallás-kori és a szavak kettős, asztrális és telluris vonatkozásúak]], addig nem is lesz változás.  
+Addig, amíg a kutatók nem jönnek rá, hogy a [[M/Magyar szavak szakrális és profán jelentései\|szavak a nyelv alaprétegüket tekintve csillagvallás-kori és a szavak kettős, asztrális és tellurikus vonatkozásúak]], addig nem is lesz változás.  
 
 [[V/Végvári József\|Végvári József]] is rámutatott, hogy **szavaink és a köztük fennálló szerves összefüggések magát a világmindenséget képletezik szerkezetében, keletkezésében és működésében egyaránt, tanulmányozásuk – együtt népünk alkotóerejének más megnyilvánulásaival, mint a népművészet különböző ágazatai – a tudás teljességét adhatja meg**.  
 Azóta ennek tudatában rengeteg ember vállalta magára azt a szerepet, hogy megmondja az igazságot a magyarok ősműveltségét illetően, de persze csak kisebb részegységek (téves) kidolgozásáig jutottak (legtöbben). Ők azok, akik a komolyabb kutatókhoz hasonlításra kerülve lejáratják a magyarság ügyét. Több kárt okoznak, mint hasznot. Erről a Quorán lévő fő cikkem végén is szóltam. Ott szóba került a Stockholm – Istókhalma eset is. Állítólag ezt az összefüggést [[H/Horvát István\|Horvát István]]nak tulajdonítják, melyre (vagy más, általa még nem nevezett forrásra hivatkozva)...
