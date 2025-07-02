@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sátor/","title":"Sátor","created":"2025-03-21T22:16","updated":"2025-06-08T18:25"}
+{"dg-publish":true,"permalink":"/S/Sátor/","title":"Sátor","created":"2025-03-21T22:16","updated":"2025-07-03T01:18"}
 ---
 
 
@@ -10,7 +10,7 @@
 > A [[S/SA\|Sa]] a Menny Fia és Népe, a Tor mutatja a Hegy formát. A Sa kifejezetten a magyarok fontos népneve, Sza és Sa a legfontosabb formái.  
 
 Mivel a magyar szavaknak mindig többletjelentése van, ezért, például [[S/Szabad\|szabad]] szavunkhoz hasonlóan, kétféleképpen lehet őket felbontani.  
-Sa-Tor bontásban szakrális, hímségi, Sát-Or felbontásban nőiségi-telluris vonzatú. A sátor szavunk sát- gyökét a nyelvészek CzF óta set-, söt- gyökökkel azonos értelműnek tekintik, bár a [[S/Süt\|süt]] szóéval ellentétes, árnyék alapjelentésű [[S/Sut\|sut]] szó esetében CzF-nek nem sikerült erre az azonosságra lelnie. (Azóta [[S/SAT\|SAT]] címet is felvettünk.)  
+Sa-Tor bontásban szakrális, hímségi, Sát-Or felbontásban nőiségi-tellurikus vonzatú. A sátor szavunk sát- gyökét a nyelvészek CzF óta set-, söt- gyökökkel azonos értelműnek tekintik, bár a [[S/Süt\|süt]] szóéval ellentétes, árnyék alapjelentésű [[S/Sut\|sut]] szó esetében CzF-nek nem sikerült erre az azonosságra lelnie. (Azóta [[S/SAT\|SAT]] címet is felvettünk.)  
 
 #### Magyar Adorján...
 
