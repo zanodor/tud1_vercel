@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2025-06-28T00:02"}
+{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2025-07-03T01:16"}
 ---
 
 
@@ -83,7 +83,11 @@ Egyébiránt a magyar és hun nyelvből is ki lehet mutatni az egyistenhitet. Ug
 
 ### 2.
 
-A másik érdekes példa a sumér [[N/NUN\|NUN]] = ősvíz; kezdet, melynek más nyelvű párhuzamai (cet)hal, mely ugye a vízben él. Igen ám, de a magyar gyereknyelvben megvan `nuna`, `nuni`, mely ugye a nők, kislányok nemi szerve, melyből ugye az élet kerül majd születésre. A magyar nyelv alaprétegéhez tartozó gyermeknyelvi szó egészen biztosan nem afféle sumér asztrológiai vagy zoológiai vagy akár teremtéstörténetbeli úton került a magyar nyelvbe.  
+A másik érdekes példa a sumér [[N/NUN\|NUN]] = ősvíz; kezdet, melynek más nyelvű párhuzamai (cet)hal, mely ugye a vízben él. Igen ám, de a magyar gyereknyelvben megvan `nuna`, `nuni`, mely ugye a nők, kislányok nemi szerve, melyből ugye az élet kerül majd születésre. A magyar nyelv alaprétegéhez tartozó gyermeknyelvi szó egészen biztosan nem afféle sumér asztrológiai vagy zoológiai vagy akár teremtéstörténetbeli úton került a magyar nyelvbe.
+{ #hyujb4}
+
+
+A tágabb összefüggés pedig nyilván Nu-Na = Háza a Nőnek, azaz a nőtől van a Nap(gyermek).  
 
 ### 3.
 
