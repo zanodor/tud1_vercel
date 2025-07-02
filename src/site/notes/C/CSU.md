@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/CSU/","title":"CSU","created":"2024-04-24T01:42","updated":"2025-06-07T19:52"}
+{"dg-publish":true,"permalink":"/C/CSU/","title":"CSU","created":"2024-04-24T01:42","updated":"2025-07-03T01:11"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 #### Péterfai János írja:
 
-> Jelentése csillag, ritkán \[illetve értsd: tellurisan\] víz. A magyar nyelvben a Csu-Da szó Csillag-Ország, több változatban is él nyelvünkben. A felsorolás helyett a Csudi, Csoda alakokat említem csak meg. Mindig azt gondoltam, a magyarok a Csudák, vagyis a Csillagország népe, az észtek és sokan mások a mi rokonaink. A Csúd-tó az egykori magyar birodalomról is kaphatta nevét, az észtek a Visztula torkolatától kezdve egészen a Finn-öbölig éltek, még a gót időkben is.  
+> Jelentése csillag, ritkán \[illetve értsd: tellurikusan\] víz. A magyar nyelvben a Csu-Da szó Csillag-Ország, több változatban is él nyelvünkben. A felsorolás helyett a Csudi, Csoda alakokat említem csak meg. Mindig azt gondoltam, a magyarok a Csudák, vagyis a Csillagország népe, az észtek és sokan mások a mi rokonaink. A Csúd-tó az egykori magyar birodalomról is kaphatta nevét, az észtek a Visztula torkolatától kezdve egészen a Finn-öbölig éltek, még a gót időkben is.  
 >
 > A Bulcsu név jelentése Tűz-Csillag, vagy Tüzes-Víz. Mivel a Csu egyrészt csillag, másrészt lehet víz is, eléggé megdöbbentő az indiánok reagálása, akik tüzes víznek nevezték az alkoholt, amivel itatták őket a hódítók. A csillag és víz fogalom azért alakult ki, mert az ég vizeiből az eső kis csillagok alakjában érkezik a föld felszínére. Logikus tehát a csillag és a vízcsepp szótani azonosítása.  
 > 
