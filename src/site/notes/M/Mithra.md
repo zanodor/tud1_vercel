@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2025-06-08T01:42"}
+{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2025-07-03T01:14"}
 ---
 
 
@@ -137,7 +137,7 @@ Az angol nyelvű wiki oldalon szintén a rejtélyes Ikrek kapcsolata van kihangs
 
 ![assets/Mithra_image5.png|invert_dark](/img/user/M/assets/Mithra_image5.png)  
 A fentieket megoldani látszanak a [[T/Tetra\|tetra]] címnél írottak, amihez annyit kell hozzátenni, hogy Misz-Ra felbontásban nemcsak a [[M/MISZ\|MISZ]] etimont, az angolszász [[M/Missera\|missera]] = fél év nevet, de a [[M/Miss#Miss 2)\|miss 2)]] igét, [[M/Misery\|misery]] szó értelmét is megfejti. A háttérben valóban Napminőségek állnak és semmi több. Mithra naggyá nőtte ki magát Perzsiában és Rómában is, de Misz-Ra nem jelent mást mint ereje teljében lévő Napot a napi, 24 órás viszonylatban, ugyanezt a Kis Évben és, bár a precessziós Nagy Évre vonatkozóan nincs adatunk, feltételezhetjük [[M/MISZ\|MISZ]] etimon és [[M/Missera\|missera]] jelentései alapján, hogy jelentheti az "erős ág" 12960 évét. Hogy Varuna illetve Apam Napat miféle módon alkalmasak ellenpárként, egyelőre nem is érdekes.  
-Mivel Mithra így a halált túlélő, feltámadó Nap megszemélyesítője, ugyanolyan kultikus ember-szerep is kijárt neki, mint [[G/Győző\|Győző]]-Jézusnak, Krishnának és bármely más táltosnak, aki magát szimbolikusan feldaraboltatta. A [[M/Mithra és a bika\|Mithra és a bika]] története így akár lehet asztrális és telluris-táltosi is. Persze leginkább itt mindegyik esetében megszemélyesített Napminőségekről van szó. Magyar párjait lásd Vertráb József Kadocsa tolmácsolásában [[T/Turul\|Turul]] és [[U/Ullu\|Ullu]].  
+Mivel Mithra így a halált túlélő, feltámadó Nap megszemélyesítője, ugyanolyan kultikus ember-szerep is kijárt neki, mint [[G/Győző\|Győző]]-Jézusnak, Krishnának és bármely más táltosnak, aki magát szimbolikusan feldaraboltatta. A [[M/Mithra és a bika\|Mithra és a bika]] története így akár lehet asztrális és tellurikus-táltosi is. Persze leginkább itt mindegyik esetében megszemélyesített Napminőségekről van szó. Magyar párjait lásd Vertráb József Kadocsa tolmácsolásában [[T/Turul\|Turul]] és [[U/Ullu\|Ullu]].  
 [[N/Nibiru\|Nibiru]] címnél sárga táblázatban szerepel Várkonyi Nándor adata, miszerint Nibiru is Napminőség-név: a delelő, tűző Nap neve.  
 
 Legutóbb [[M/Missera\|missera]] átírásában is kiderült, hogy missera és Mithra egy és ugyanaz kifejezés. Mithra értelme alapján missera pedig növekvő fénytartományt jelenti, de csak kétfelé, nem négyfelé osztásról van szó (Mithra konkrétan reggeli Napként egy negyed körcikkelyt kellene megszemélyesítsen, bár [[V/Varuna\|Varuná]]val ikert alkotva mégiscsak feles tagolású lehet).  
