@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2025-06-08T01:00"}
+{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2025-07-03T01:18"}
 ---
 
 
@@ -170,7 +170,7 @@ Az [alábbi](https://en.wikipedia.org/wiki/Cherokee_spiritual_beliefs) oldalon e
 
 [[V/Víz#Álló- és mozgásban levő víz (folyó, eső, örökítőanyag)\|Álló- és mozgásban levő víz (folyó, eső, örökítőanyag)]] cím/alcímnél volt szó hasonló témáról, továbbá [[K/Könny\|könny]] címnél teremtésről.  
 
-[[K/Kanál\|Kanál]], [[K/Kancsó\|kancsó]] és [[K/Kanyar\|kanyar]] szavaknál írottak alapján, a Gangesz ([[G/Ganga\|Ganga]]) folyó neve alapján, valamint [[K/Kankó\|kankó]] és főleg [[K/Könny\|könny]] és [[G/Geny\|geny]] szavak folyadéknemű értelmeit figyelembe véve, úgy tűnik, hogy KAN-nak lehet ilyen telluris értelme – nyilván az örökítő anyag folyadék jellege miatt.  
+[[K/Kanál\|Kanál]], [[K/Kancsó\|kancsó]] és [[K/Kanyar\|kanyar]] szavaknál írottak alapján, a Gangesz ([[G/Ganga\|Ganga]]) folyó neve alapján, valamint [[K/Kankó\|kankó]] és főleg [[K/Könny\|könny]] és [[G/Geny\|geny]] szavak folyadéknemű értelmeit figyelembe véve, úgy tűnik, hogy KAN-nak lehet ilyen tellurikus értelme – nyilván az örökítő anyag folyadék jellege miatt.  
 
 [[G/Gene\|Gene]] címnél Magyar Adorján is említi a kifolyást:  
 
