@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Stand/","title":"Stand","created":"2023-10-17T09:33","updated":"2025-06-07T19:14"}
+{"dg-publish":true,"permalink":"/S/Stand/","title":"Stand","created":"2023-10-17T09:33","updated":"2025-07-03T01:16"}
 ---
 
 
@@ -36,7 +36,7 @@ Megerősíti az elképzelést CzF tét szava:
 - Egyébiránt franciául `tête` = fej.
 
 [[S/Stable\|Stable]] szónál legutóbb [[T/TAM\|TAM]], [[T/TÁM\|TÁM]] szavak kapcsán írtuk, hogy mivel szanszkrit nyelven is `sztambh` v. `sztabh` am. támaszt(ani), ezért gyakorlatilag a TAM/TAT és TÁM/TÁT párosok együttesen lehettek befolyással a szó kialakulására.  
-Az is elképzelhetőnek tűnik, hogy a támasztási pontról kapta nevét (vitte tovább jelentését) a szanszkrit `sztambh`/`sztabh`, ugyanis a [[P/Precesszió\|precesszió]] és [[J/Jump\|jump]] szavaknál előjövő szanszkrit `szkambha` = világtengely, sark, pólus szó szinte azonos vele. Nyilvánvalóan csillagászati fogalmak, szakszavak kerültek telluris használatra. Így kerülünk vissza a [[S/Sarkcsillag\|Sarkcsillag]]hoz és annak kitámasztottságához azaz "statikusan állóságához."  
+Az is elképzelhetőnek tűnik, hogy a támasztási pontról kapta nevét (vitte tovább jelentését) a szanszkrit `sztambh`/`sztabh`, ugyanis a [[P/Precesszió\|precesszió]] és [[J/Jump\|jump]] szavaknál előjövő szanszkrit `szkambha` = világtengely, sark, pólus szó szinte azonos vele. Nyilvánvalóan csillagászati fogalmak, szakszavak kerültek tellurikus használatra. Így kerülünk vissza a [[S/Sarkcsillag\|Sarkcsillag]]hoz és annak kitámasztottságához azaz "statikusan állóságához."  
 
 Legutóbb [[K/Konstantin\|Konstantin]] nevének latin eredete ([[C/Constant\|constant]]) kapcsán értekeztünk. Megállapítottuk, hogy könnyen belső fejlődésű latin szó lehet.  
 Igen ám, de mi a konstans, az állandóságot képviselő? A [[S/Stone\|stone]] címnél álló Varga Géza féle passzus szerint is a Kő (ahogy Wass Albert is írja, "A kő marad"). A [[S/Stone\|stone]], [[I/Isztán\|Isztán]], [[I/Isten\|Isten]] szavak tehát valóban kereshetők a konstans fogalmában. Igaz, akkor a [[S/Stand\|stand]] ige eredetije honnan származik? Nyilván az állandóságot képviselő Nap, Napkirály és annak állama nyomán, vagy pedig az állócsillagok irányában kell keresni eredetét, vagy a napfordulati megállás (`solstitium`) pontja irányában, vagy pedig a [[S/Sarkcsillag\|Sarkcsillag]] fogalmából kiindulva. A Sarkcsillag ([[O/Öregisten\|Öregisten]]) viszont a napfordulati téridőbeli ponthoz mérhető Szíriusszal is kapcsolatba hozatott, ami/aki neje az Ég Urának, aki Jupiter-Orion, minek féme a(z ismét [[I/Isten\|Isten]] szavunkból származó) latin `stannum` = ón.  
