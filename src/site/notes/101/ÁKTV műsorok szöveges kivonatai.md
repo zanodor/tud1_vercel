@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-06-28T00:05"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-07-03T01:09"}
 ---
 
 
@@ -11,6 +11,9 @@
 
 **Videók kivonatokkal**:  
 
+[250702CN! ÉRTŐ SZÓ](https://rumble.com/v6vmqnj-250702cn-rt-sz-kubnyi-tams-ktv.html)  [https://archive.ph/jjEbz](https://archive.ph/jjEbz)
+[250701CN! A CÉDRUS](https://rumble.com/v6vl22r-250701cn-a-cdrus-kubnyi-tams-ktv.html)  [https://archive.ph/988qn](https://archive.ph/988qn)
+[250630CN! PRAGMATICA SANCTIO](https://rumble.com/v6vjct5-250630cn-pragmatica-sanctio-kubnyi-tams-ktv.html)  [https://archive.ph/YwFlz](https://archive.ph/YwFlz)
 [250627CN! SZENT LÁSZLÓ NAPJA](https://rumble.com/v6vespl-250627cn-szent-lszl-napja-kubnyi-tams-ktv.html)  [https://archive.ph/89nHV](https://archive.ph/89nHV)
 [250626CN! A BARTA-TITOK](https://rumble.com/v6vd6zn-250626cn-a-barta-titok-kubnyi-tams-ktv.html)  [https://archive.ph/y6we0](https://archive.ph/y6we0)
 [250625CN! CSAK EGY ÉJSZAKÁRA](https://rumble.com/v6vbc09-250625cn-csak-egy-jszakra-kubnyi-tams-ktv.html)  [https://archive.ph/9l6Tq](https://archive.ph/9l6Tq)
