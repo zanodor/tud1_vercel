@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/E/EM/","title":"EM","created":"2023-11-09T03:57","updated":"2025-02-23T01:46:07Z"}
+{"dg-publish":true,"permalink":"/E/EM/","title":"EM","created":"2023-11-09T03:57","updated":"2025-07-03T01:19"}
 ---
 
 
 # EM
 
-## Telluris értelmezése
+## Tellurikus értelmezése
 
 A földanya, másképpen a sárbolygó és a [[S/Sár\|sár]] = anyag neve, ahogy az M ([[M/MA\|MA]]) is. Lásd [[E/Emese\|Emese]] és [[E/Ember\|ember]] neveinkben úgyszintén.  
 
