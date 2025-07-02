@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2025-06-20T23:37"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2025-07-03T00:55"}
 ---
 
 
@@ -11,7 +11,7 @@
 
 Lehet még "házbafoglaló" értelműként is tekinteni rá; lásd [[A/AS\|AS]] és [[A/Az\|az]] ilyen értelmeit/megközelítését.  
 
-Mivel az ABC is e hanggal kezdődik, nyilván nem véletlenül kerültek ezek a jelentések mellé. Mondhatjuk eztán, hogy első és kezdet, továbbá legnagyobb, legfontosabb jelentései is lehetnek. Hímségi értelemben ez a magas, Isten jelentés a fényre, szellemre irányul, telluris-nőiségként a bolygón lévő vízre és az első élet kialakulására. Véleményem szerint a [[B/Béka\|béka]] szóban is ezen víz értelmet kell vagy lehet keresni 'a' hangjában.  
+Mivel az ABC is e hanggal kezdődik, nyilván nem véletlenül kerültek ezek a jelentések mellé. Mondhatjuk eztán, hogy első és kezdet, továbbá legnagyobb, legfontosabb jelentései is lehetnek. Hímségi értelemben ez a magas, Isten jelentés a fényre, szellemre irányul, tellurikus-nőiségként a bolygón lévő vízre és az első élet kialakulására. Véleményem szerint a [[B/Béka\|béka]] szóban is ezen víz értelmet kell vagy lehet keresni 'a' hangjában.  
 
 #### Gyárfás Ágnes...  
 
