@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Puha/","title":"Puha","created":"2024-02-11T03:04","updated":"2025-06-13T20:55"}
+{"dg-publish":true,"permalink":"/P/Puha/","title":"Puha","created":"2024-02-11T03:04","updated":"2025-07-03T01:16"}
 ---
 
 
@@ -14,7 +14,7 @@ Pu-Ha felbontásban az Üresség Háza vagy – [[B/Bősz\|bősz]] címnél a fe
 
 - Az angolban a himlő `pox`.
 
-A puhaság, gyöngeség mindig nőiségi-telluris, mint ahogy a [[B/Buja\|buja]]ság is. Ezen két szó egymás alaki variánsának is felfogható, kivált az alábbiak alapján (CzF adata):  
+A puhaság, gyöngeség mindig nőiségi-tellurikus, mint ahogy a [[B/Buja\|buja]]ság is. Ezen két szó egymás alaki variánsának is felfogható, kivált az alábbiak alapján (CzF adata):  
 > PUHÁLKODIK (puh-a-al-kod-ik) k. m. puhálkod-tam, ~tál, ~ott. Kéjekben, gyönyörökben, testi élvekben tölti idejét, s ez által testi lelki erejét puhítja, gyöngíti, fogyasztja.  
 
 Puha lehetne még Pog-A bontású, minthogy a [[P/Páhol\|páhol]]ás is puhító eljárás. `Puhol` annyi még mint `püföl`, Borbola János A nádverők és utódaik című az Ősi Gyökér 2007/2-3. sz. megjelent cikkében is megtalált adata szerint.  
