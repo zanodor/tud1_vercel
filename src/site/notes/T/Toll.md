@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Toll/","title":"Toll","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-10-24T01:49","updated":"2025-06-07T18:56"}
+{"dg-publish":true,"permalink":"/T/Toll/","title":"Toll","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-10-24T01:49","updated":"2025-07-03T01:19"}
 ---
 
 
@@ -62,7 +62,7 @@ Varga Géza jól írja, csakhogy ezen Y-ágas jel a Péterfai János által mega
 Az ágas[^1]-kodik (akasz-kodik) mellé tehető az ászok(fa) és a [[R/Rag\|rag]] szó, mely utóbbinak szarufa jelentése is van. [[V/Végvári József\|Végvári József]] írja Ragozó-rügyező nyelvünk című dolgozatában:  
 > A szarufa valóban a tetőt tartja, magasabb létszinten viszont a házat, a falakat köti az éghez, tehát a föld anyagaiból készített falakat, vagyis a földet kapcsolja, illeszti az éghez a fagerenda, mely már élőfa korában is ilyen összekötő szerepet töltött be (népmeséink égig érő fája). A régieknél a [[N/Nász\|nász]]éjszaka a padláson történt meg, ezzel vált teljessé [[E/Ég és föld\|ég és föld]] násza, lásd MeNNY – MeNYasszony – MeNYegző. Végül vegyük figyelembe, hogy a szarufák elkészítése és elhelyezése – ácsmunka, és ács volt a nevelőapja Jézusnak. Ezek nem véletlenszerű körülmények; az ácsmunka lényege szerint illesztő tevékenység, és aki azért jött közénk, hogy bennünket Istenhez illesszen, pontosabban: helyreállítsa az Isten és ember között megromlott, szétcsúszott illeszkedést, ízesülést, annak ács a nevelőapja.  
 
-Ezek alapján érthetővé válik, hogy a toll valóban [[H/Híd\|híd]]pénz alapértelmű, de nem telluris, hanem asztrális értelmű. A híd[^2] pedig nem más, mint az élők (világa: [[S/Sár\|sár]]) és holtak (világa: [[S/Szár\|szár]]) közötti [[E/Életfa\|életfa]], mely leggyakrabban [[T/Tölgy\|tölgy]], ahogy a kelta [[D/Druida\|druida]] hagyományokból is tudjuk.  
+Ezek alapján érthetővé válik, hogy a toll valóban [[H/Híd\|híd]]pénz alapértelmű, de nem tellurikus, hanem asztrális értelmű. A híd[^2] pedig nem más, mint az élők (világa: [[S/Sár\|sár]]) és holtak (világa: [[S/Szár\|szár]]) közötti [[E/Életfa\|életfa]], mely leggyakrabban [[T/Tölgy\|tölgy]], ahogy a kelta [[D/Druida\|druida]] hagyományokból is tudjuk.  
 
 De hidaknak hívják az élők és holtak világát összekötő utat is (Elena Kuzmina Origin of the Indo-Iranians című könyvében írja):  
 
