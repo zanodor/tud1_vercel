@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-06-28T00:05"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-07-03T01:13"}
 ---
 
 
@@ -189,7 +189,7 @@ D'Alembert említi az ősapáinkat, akiknek mindent köszönhetünk és akikről
 #### Isten nyelve – a magyar nyelv szavai mögötti háttértartalomról
 
 Az ősmagyar nyelv egyik törekvése, hogy amennyiben lehetséges, a szavaiban szerepeljen a [[K/Kör\|kör]] alapfogalma, rávilágítva, hogy minden része a mindenségnek és minden körbe foglalható. A kör, továbbiakban nevezzük etimonként [[K/KAR\|KAR]]-nak, hiszen a Kar fogalmában megvan a bot és a gyűrű, azaz az élethez szükséges két princípium (ősképük két gömbszerű, rajzban körrel ábrázolható égitest: a Nap (hím) és a Föld (nőstény)), megjelenhet átalakulva, szabályos (lehet SZ-R, K-L vázú például) és szabálytalan (B-R, B-L, P-L, B-K, P-CS, stb.) változással, de még mindig ugyanazt jelentve (főleg a lélekvivő kutyák, madarak és halak hordozzák ezen szóvázt).  
-Azt be kell látni, hogy minden szóban nem lehet r hang, vagy k hang, mert monotonná és főleg érthetetlenné válna a nyelv. Ezért a továbbiakban nem is kör jelentésűként tekintünk a szavakra, hanem úgy mint, Napot, vagy annak fényét és tüzét (és ellentétesen, tellurisan, ezeknek hiányát) kifejezőkként.  
+Azt be kell látni, hogy minden szóban nem lehet r hang, vagy k hang, mert monotonná és főleg érthetetlenné válna a nyelv. Ezért a továbbiakban nem is kör jelentésűként tekintünk a szavakra, hanem úgy mint, Napot, vagy annak fényét és tüzét (és ellentétesen, tellurikusan, ezeknek hiányát) kifejezőkként.  
 Az is nyilvánvaló, hogy minden szavunkban nem szerepelhet [[N/Nap\|Nap]] vagy [[T/Tűz\|tűz]], ebben a formában kiírva, az előbb említett oknál kifolyólag. [[T/Tűz\|Tűz]] változhat tüs-re [[T/Tüske\|tüske]] szavunkban, tus-ra [[T/Tuskó\|tuskó]] szavunkban, tisz-re [[T/Tiszta\|tiszta]] és [[T/Tisztel\|tisztel]] szavunkban, de a [[D/Dísz\|dísz]] és `dics` szavak is még mindig ebbe a kategóriába tartoznak.  
 (Figyeljük meg a magyar szavak harmóniára való törekvését is: \*tüskó, \*tuske nem hangzik olyan jól. A mély és a magas hangrendnek, valamint a mássalhangzók anyag sűrűségére, testi viszonylatára ([[S/Sár\|sár]] = sárteke = föld = test) vagy anyagtalanságára, légiességére ([[S/Szár\|szár]], = [[S/Szellem\|szellem]]) vonatkozóan szintén lesz jelentősége; vélhetően egyedül csak a magyar nyelvben van értelme az egyes hangzóknak értelmet adni: lásd pl. [[G/Gáll Péter\|Gáll Péter]] rendszerét.)  
 A Nap jelentésű szóelemek ilyen változtatási módok által több mint százra rúgnak (magában a [[R/Rúg\|rúg]] szavunkban is a Nap [[R/RU\|RU]] neve lehet meg).  
