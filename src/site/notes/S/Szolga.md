@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szolga/","title":"Szolga","tags":["Englishtexttranslated"],"created":"2024-10-24T00:03","updated":"2025-06-07T19:14"}
+{"dg-publish":true,"permalink":"/S/Szolga/","title":"Szolga","tags":["Englishtexttranslated"],"created":"2024-10-24T00:03","updated":"2025-07-03T01:16"}
 ---
 
 
 # Szolga
 
 Szol-Ga a Nap Háza értelmet viseli (vendéghang nélkül Szó-Ga a Fény Háza). Ez lenne a rövid megoldás. De csak hosszabb magyarázat után érthető meg, miről is van szó. Úgy döntöttem, hogy mivel alant nagyon sok szöveg összegyűlt, hogy ide az elejére veszem a [[S/Szláv\|szláv]] címnél megfogalmazott végeredményt.  
-Ott arról volt szó, hogy a Szil-Ab (Fényes Víz: Tejút) értelmezése a szláv szónak lehet a leginkább nyomravezető. [[S/Silver\|Silver]] és [[S/Sylph\|sylph]] címnél írottakat lásd. Ez kell a valódi értelem legyen. Ugyanolyan Tejútra utaló név, mint a teuton vagy a magyar. Ezennel itt befejezettnek vélem a dolgot, de egy kissé még mindig zavart, hogy a Szol-Ga szavunk ennyire hasonló (hogy mégsem annak a rontása). De megvan miért: a szolga nem a népre, a Napvallású, Istent szolgáló népre vonatkozik, hanem ez is a Tejútra: a Tejút a Nap Háza, ahonnan a fény és a lelkek is származnak. (Persze egy magyar szónak mindig lehet több jelentés-síkon értelmezhető értelme. Az alant bőven taglalt szolga, szolgálni értelem a másodlagos, telluris.)  
+Ott arról volt szó, hogy a Szil-Ab (Fényes Víz: Tejút) értelmezése a szláv szónak lehet a leginkább nyomravezető. [[S/Silver\|Silver]] és [[S/Sylph\|sylph]] címnél írottakat lásd. Ez kell a valódi értelem legyen. Ugyanolyan Tejútra utaló név, mint a teuton vagy a magyar. Ezennel itt befejezettnek vélem a dolgot, de egy kissé még mindig zavart, hogy a Szol-Ga szavunk ennyire hasonló (hogy mégsem annak a rontása). De megvan miért: a szolga nem a népre, a Napvallású, Istent szolgáló népre vonatkozik, hanem ez is a Tejútra: a Tejút a Nap Háza, ahonnan a fény és a lelkek is származnak. (Persze egy magyar szónak mindig lehet több jelentés-síkon értelmezhető értelme. Az alant bőven taglalt szolga, szolgálni értelem a másodlagos, tellurikus.)  
 
 #### Péterfai János...
 
