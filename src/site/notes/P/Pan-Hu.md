@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pan-Hu/","title":"Pan-Hu","tags":["Englishtexttranslated"],"created":"2023-11-06T12:47","updated":"2025-03-13T03:38"}
+{"dg-publish":true,"permalink":"/P/Pan-Hu/","title":"Pan-Hu","tags":["Englishtexttranslated"],"created":"2023-11-06T12:47","updated":"2025-07-03T01:14"}
 ---
 
 
@@ -9,7 +9,7 @@ A kínai mitológiában egy [[K/Kutya\|kutya]] neve, mely Kan Pao "Sou shen chi"
 
 #### Victor H. Mair Canine Conundrums...
 
-...című esszéjében szól róla. Annyit elöljáróban tisztázni kell, hogy a kínai `hu` és `pan` nevek jelentései torzultak. [[P/PAN#Pan 2)\|Pan]] angolban is serpenyő, de a Nap alakja miatt. `Pan` vagy `p'an` a kínaiban is ilyen másodlagos, telluris értelmű: tányért jelent. [[H/HU\|Hu]] pedig csillag, de mivel a csillag és a víz fogalmak másutt is keveredtek, Hu itt is telluris megjelenésű. De a kínai ráadásul nem is víznek, hanem víztartónak, tökhéjpalacknak hívja. Pan Hu tehát valójában a Mindenség Forrása jelentéssel kellene fordíttasson.  
+...című esszéjében szól róla. Annyit elöljáróban tisztázni kell, hogy a kínai `hu` és `pan` nevek jelentései torzultak. [[P/PAN#Pan 2)\|Pan]] angolban is serpenyő, de a Nap alakja miatt. `Pan` vagy `p'an` a kínaiban is ilyen másodlagos, tellurikus értelmű: tányért jelent. [[H/HU\|Hu]] pedig csillag, de mivel a csillag és a víz fogalmak másutt is keveredtek, Hu itt is tellurikus megjelenésű. De a kínai ráadásul nem is víznek, hanem víztartónak, tökhéjpalacknak hívja. Pan Hu tehát valójában a Mindenség Forrása jelentéssel kellene fordíttasson.  
 ![assets/Pan-Hu_image1.png|invert_dark](/img/user/P/assets/Pan-Hu_image1.png)  
 ![assets/Pan-Hu_image2.png|invert_dark](/img/user/P/assets/Pan-Hu_image2.png)  
 Másodsorban Mair írja, hogy amennyiben Kao-hsin [[H/Huang-ti\|Huang-ti]] császár ükunokája, akkor i.e. 2500 körül kellett élnie és nem i.sz. 2-3. században, mikor is a Han népek a déli népekkel hadakoztak:  
@@ -91,7 +91,7 @@ Számok másutt is előjöttek. [[K/Kutya Kínában\|Kutya Kínában]] címnél 
 
 
 Péterfai János is említi, hogy a kínaiak a hunokat az i.sz. kezdete körül kezdték nevezni kutya rabszolgának, a törökök a magyarokat és más európaiakat [[G/Gyaur\|gyaur]] kutyának. A kutya és a disznó gyakran a becsmérlés jelképállata.  
-Tehát egyszer szó van egy asztrális [[K/Kutyanemzés\|kutyanemzés]]ről (mely mögött nehéz mást látni mint a [[D/Dogon\|dogon]]ok által említett Szíriuszt, mely történetben rókáról is szó van; lásd még [[P/Penis\|penis]], [[F/Fascinate\|fascinate]], [[K/Kuei\|kuei]] és [[S/Sunasepa\|Sunasepa]]) és egy telluris megjelenésről: tudunk a [[K/Kutyafejű\|kutyafejű]] hunok [[K/Koponya-alakítás\|koponya-alakítás]]áról (lásd még [[K/Kutyafejű\|Cynocephalus]]) és miértjeiről (lásd [[H/Harmadik szem\|harmadik szem]]). A kutyafejűség mögött [[A/Atilla hun király\|Atilla]] kapcsán tündérfüleket említ. (A mellékelt képen is megfigyelendők e fülek.)  
+Tehát egyszer szó van egy asztrális [[K/Kutyanemzés\|kutyanemzés]]ről (mely mögött nehéz mást látni mint a [[D/Dogon\|dogon]]ok által említett Szíriuszt, mely történetben rókáról is szó van; lásd még [[P/Penis\|penis]], [[F/Fascinate\|fascinate]], [[K/Kuei\|kuei]] és [[S/Sunasepa\|Sunasepa]]) és egy tellurikus megjelenésről: tudunk a [[K/Kutyafejű\|kutyafejű]] hunok [[K/Koponya-alakítás\|koponya-alakítás]]áról (lásd még [[K/Kutyafejű\|Cynocephalus]]) és miértjeiről (lásd [[H/Harmadik szem\|harmadik szem]]). A kutyafejűség mögött [[A/Atilla hun király\|Atilla]] kapcsán tündérfüleket említ. (A mellékelt képen is megfigyelendők e fülek.)  
 
 Ami a Pan-Hu és [[P/Pan-Ku\|Pan-Ku]] elnevezéseket illeti, Mair szerint külön (idegen nyelvű; persze ő indiai, esetleg ausztro-ázsiai eredetre gondol) forrásból kell származzanak, hisz más-más történeteket is beszélnek el:  
 > The irony of this sort of misidentification is that the names P'an-ku and P'an-hu were both undoubtedly transcriptions of foreign (non-Sinitic) words and that the myths to which the names refer were originally totally separate and unrelated. All that has led to the partial fusion of the two myths is the similarity of their sinographic transcriptions, the fact that the former is cosmogonic and anthropogonic while the latter is anthropogonic and the coincidence that one was almost certainly derived by the Hans from southwestern or northwestern peoples while the other was quite likely applied by the Hans to southern and southwestern peoples.  
