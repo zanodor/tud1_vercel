@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szakáll/","title":"Szakáll","created":"2024-04-21T14:31","updated":"2024-10-26T00:26"}
+{"dg-publish":true,"permalink":"/S/Szakáll/","title":"Szakáll","created":"2024-04-21T14:31","updated":"2025-07-03T01:17"}
 ---
 
 
@@ -71,7 +71,7 @@ Lényegi részét tekintve úgy az angol [[B/Beard\|beard]], ahogy a magyar (tov
 ## Hosszú szakállú kisemberek mesékben
 
 A [[F/Fehérlófia\|Fehérlófia]] mese Koponyányi Monyókjának szakállát mindenki ismeri.  
-A Béka királykisasszony mesében a világfa cserefa legfelső ágán ülő ősz öregember szakálla a földet verte. A fa felfelé nő, kozmikus, a szakáll lefelé lóg, mutatván a telluris kapcsolatot.  
+A Béka királykisasszony mesében a világfa cserefa legfelső ágán ülő ősz öregember szakálla a földet verte. A fa felfelé nő, kozmikus, a szakáll lefelé lóg, mutatván a tellurikus kapcsolatot.  
 A kisember, a manó pedig nem más, mint a fa lakója.  
 A [[P/Pengő királyfi mese\|Pengő királyfi mesé]]ben szereplő bakarasznyi ember, akit a sárból kimentett a legkisebb királyfi, miután a hintóba felült, "a bakarasznyi ember megragadta a királyfi feleségét, belecsavarta a hétrőfös szakállába, s úgy eltűnt vele, mintha a föld nyelte volna el."  
 
