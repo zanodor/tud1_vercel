@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Ruha/","title":"Ruha","created":"2024-04-18T18:33","updated":"2025-06-08T18:23"}
+{"dg-publish":true,"permalink":"/R/Ruha/","title":"Ruha","created":"2024-04-18T18:33","updated":"2025-07-03T01:15"}
 ---
 
 
@@ -31,7 +31,7 @@ Mivel őseink Napjelkép-nagymacskák bőréből készült (párduc)[[K/Kacagán
 ...vörös színnel kapcsolatosan ír róla:  
 > Ru jelent még Vöröset, mint a Ru-Ben héber törzs nevében, a Rub-al-Khali sivatag nevében, a Robin madárka nevében, vagy Robin Hood nevében. A rúd a Vörös-Helye, Ru-D formában. A vörös egykor ruházat színe volt, ezért a Ru-Ha a Vörös-Ház. A Ru Írás és Vörös, ott jöhet egybe, hogy az írások egykor vörös folyadékkal készültek. Ezt nem tudom, de a vérrel készült írások kétségtelenül vörösek voltak.  
 
-Ruha szónak van telluris vetülete is, ami folytán a [[R/Rohad\|rohad]] szó is kapcsolatba hozható vele (persze nem mondható, hogy az egyik szóból ered a másik).  
+Ruha szónak van tellurikus vetülete is, ami folytán a [[R/Rohad\|rohad]] szó is kapcsolatba hozható vele (persze nem mondható, hogy az egyik szóból ered a másik).  
 
 ![assets/Ruha_image1.jpeg|invert_dark](/img/user/R/assets/Ruha_image1.jpeg)  
 
