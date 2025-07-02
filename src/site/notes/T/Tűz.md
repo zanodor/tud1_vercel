@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2025-06-07T18:50"}
+{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2025-07-03T01:19"}
 ---
 
 
@@ -111,7 +111,7 @@ Fáy Elek A magyarok őshona c. könyvének 198, oldalán és Jankovics Marcell 
 
 Magyar nyelvű szavakban a tűz szavunk megbújik olyan szavakban például mint [[D/Dísz\|dísz]], [[D/Disznó\|disznó]], [[D/Duzzad\|duzzad]], [[D/Dús\|dús]], [[D/Dózsa\|Dózsa]], [[D/Dőzsöl\|dőzsöl]], [[T/Tiszta\|tiszta]], [[T/Tisztel\|tisztel]], [[T/Tosz\|tosz]], [[T/Tuskó\|tuskó]] és [[T/Tüske\|tüske]].  
 
-Úgy tűnik, tűz szavunknak is van telluris párja, mégpedig a T>D lágyulással kiadott [[D/DUZ\|DUZ]], mely kimondottan [[D/Duzzad\|duzzad]] szóban fejezi, hogy valami nemcsak hímségi hő, hanem (a hímséginek is felfogható) víz hatására is tágul.  
+Úgy tűnik, tűz szavunknak is van tellurikus párja, mégpedig a T>D lágyulással kiadott [[D/DUZ\|DUZ]], mely kimondottan [[D/Duzzad\|duzzad]] szóban fejezi, hogy valami nemcsak hímségi hő, hanem (a hímséginek is felfogható) víz hatására is tágul.  
 
 ---
 
