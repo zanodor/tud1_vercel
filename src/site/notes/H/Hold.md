@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2025-07-03T01:14"}
+{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2025-07-03T18:38"}
 ---
 
 
 # Hold 1)
 
 Sok magyar szóhoz (főleg a számokhoz) hasonlóan egyszerre több fogalmat tárolni képes szó. Ezért lehet az, hogy magyarázni az ilyen szavakat [[V/Végvári József\|Végvári József]] szócsalád-rendszere alapján lehet igazán (főleg azok számára, akik az etimon-rendszert nem ismerik, de azok számára is, akik ismerik és belátják, hogy a szavakat az ősmagyar nyelvérzék úgy alakítja, hogy bizonyos hangértékeket kis mértékben megváltoztatva új, de rokon fogalmakat lehet létrehozni; lásd erről [[F/Flexió#Magyar hajlítás mint nyelvünk szavainak alapképessége\|flexió]] és [[M/Magyar szavak, szórészek alakváltozatai\|magyar szavak, szórészek alakváltozatai]]).  
-Etimológiájáról esett némi szó [[H/HOL\|hol]] címnél. Azt kiegészítendően (Péterfai János írja):  
+Etimológiájáról esett némi szó [[H/HOL\|hol]] címnél. Azt kiegészítendően...
+
+#### Péterfai János írja:  
+
 > A Hold magyar név egy igen bonyolult eszmerendszer mai terméke. Egyik fő jelentéstartalma a Hal, amely hideg vízi állat, de a Hal ige már az elmúlás felé vezet. A Hál és Hála mellé sorakozik a Holló, amely Fekete, a Hulla, Hull nevekkel együtt. Ezek a Hold nevek a német `Kalt` szóval is rokonok, ami Halt, vagyis Hideg.  
 >
 > A Hold szót összevetik a Hódít, Hódol igékkel[^1]. A [[H/Hód\|hód]] állat szőrméje hasonlatos a Hold színéhez, innen a rokonság. A Hold a [[H/Halad\|halad]] (chalad) igével is rokon, ami a [[H/Hatti\|hatti]]ból ered. Ebben az értelemben a Szülő a Nap, a Hold a Haladás, a Gyerek, mint Család, [[C/Child\|child]], az Unoka a Csillag. Ez a hármas rendszer sokkal régebbi, mint az indoeurópaiak képződése a magyar nemzetségekből.  
@@ -327,9 +330,8 @@ Arról, hogy a [[F/Föld tengelyferdülése\|Föld tengelyferdülésé]]t a Hold
 
 Talán éppen az imént taglalt fogyó Hold fogalma révén alakult ki, vagy inkább a Hold tágabb értelmezése révén a nőiségi elvének megmutatkozását láthatjuk.  
 A Holodomor (éhhalál) kifejezés előtagjáról van szó. Menjünk végig a szláv szavakon:  
-orosz `голод` (gólod) = éhség, éhínség; hiány (a hiány, [[E/Éh\|éh]] = [[I/Ív\|ív]] összefüggéseiről volt szó [[E/Éh#Éh – evés/ivás – ívás\|itt]]) – ukrán `hólod` (ez volt igazán árulkodó), cseh/szlovák `hlad`, szerb-horvát `гла̑д` (glȃd), bolgár `глад` (glad), lengyel `głód`  
-Az óegyházi szláv alak `gladŭ`.  
-A szanszkrit `गृध्र` (gṛ́dhra) = mohón vágyni szó holmi rokonként megállapításával teljesen eltávolodnánk a lényegtől.  
+Orosz `голод` (gólod) = éhség, éhínség; hiány (a hiány, [[E/Éh\|éh]] = [[I/Ív\|ív]] összefüggéseiről volt szó [[E/Éh#Éh – evés/ivás – ívás\|itt]]) – ukrán `hólod` (ez volt igazán árulkodó), cseh/szlovák `hlad`, szerb-horvát `гла̑д` (`glȃd`), bolgár `глад` (`glad`), lengyel `głód`. Az óegyházi szláv alak `gladŭ`.  
+- A szanszkrit `गृध्र` (gṛ́dhra) = mohón vágyni szó hivatalos, holmi rokonként megállapításával teljesen eltávolodnánk a lényegtől.
 
 Alaki azonosa, [[G/Glad\|glad]] a germán nyelvekben boldog (eredetileg fényes) jelentésű; ott is Hold nevünket (korábban [[G/Gyullad\|gyullad]] igénket) hoztunk elő.  
 
