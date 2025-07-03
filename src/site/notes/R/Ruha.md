@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Ruha/","title":"Ruha","created":"2024-04-18T18:33","updated":"2025-07-03T01:15"}
+{"dg-publish":true,"permalink":"/R/Ruha/","title":"Ruha","created":"2024-04-18T18:33","updated":"2025-07-03T18:38"}
 ---
 
 
@@ -20,7 +20,8 @@ Ezen szavakkal egyező a nepáli `rūkha` = fa, roma `ruk` = fa, hiszen a Tejút
 Hasonló összefüggést a [[D/Dame\|dame]], [[D/DIN\|DIN]] és [[B/Boldogasszony\|Boldogasszony]] címnél előjövő aveszta nő, lélek és vallás jelentéssel álló szavak kapcsán is láttunk.  
 Lásd még [[R/Ruga\|Ruga]].  
 
-Amikor a gót eredetűnek meghatározott spanyol `ropa` = ruha jelentésű szót filmben meghallottam, rájöttem, hogy ruha szavunkból ered az angol `robe` is. A gót a hunnak felel meg (de azt nem ismerik, a gótot meg rejtélyes módon igen).  
+Amikor a gót eredetűnek meghatározott spanyol `ropa` = ruha jelentésű szót és francia filmben francia párját meghallottam, egyértelművé vált, hogy ruha szavunkból ered az angol `robe` és elődei is. A gót a hunnak felel meg (de azt nem ismerik, a gótot meg rejtélyes módon igen).  
+- A germán alapszót és a későbbi jelentéseket is a rabolt (vö. [[R/Rob\|rob]]) holmi fogalma alapján közelítik meg, nem ruha alapján. Egyébként ma is mondjuk, ruhára is, hogy "cucc," de ettől még nem válik igazabbá a rabolt holmiból való kiindulás.
 
 Ha már itt tartunk, a ruha, mint öltözék, előjött [[R/Rag#Rag 2)\|rag]] és [[S/Shroud\|shroud]] címnél is és szakrális tartalmat sejtettünk mögötte. Ha [[R/RU\|RU]] valóban embert is jelöl (márpedig a vörös jelentés nemcsak a földdel \[lásd [[V/Vörös és föld\|vörös és föld]]\], de a rajta élő emberrel is kapcsolatba hozandó), akkor Ru-Ha felbontásban az Ember Háza lehet.  
 Mivel őseink Napjelkép-nagymacskák bőréből készült (párduc)[[K/Kacagány\|kacagány]]t viseltek, gondolható, hogy a Ru-Ha ilyenképpen a Nap Házát jelenti. Erről szóltunk [[R/Roe\|roe]] (és [[R/Raw\|raw]]) szavaknál is. Folytatást, sutúl, kurta és egyéb szavakkal is összevetve lásd [[S/Shroud\|shroud]].  
