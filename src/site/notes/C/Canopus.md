@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2025-05-03T10:56"}
+{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2025-07-03T18:38"}
 ---
 
 
