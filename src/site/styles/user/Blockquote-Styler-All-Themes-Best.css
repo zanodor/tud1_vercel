@@ -1,0 +1,31 @@
+/* Blockquote styling for all themes */
+.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote,
+.markdown-preview-view blockquote {
+    border-left: 3px solid var(--interactive-accent);
+    border-radius: 3px;
+    margin: 1em 0;
+    padding: 0.5em 1em;
+    transition: background-color 0.2s ease;
+}
+
+/* Light theme blockquotes */
+.theme-light .markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote,
+.theme-light .markdown-preview-view blockquote {
+    background-color: rgba(0, 0, 0, 0.03);
+}
+
+.theme-light .markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote:hover,
+.theme-light .markdown-preview-view blockquote:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+/* Dark theme blockquotes */
+.theme-dark .markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote,
+.theme-dark .markdown-preview-view blockquote {
+    background-color: rgba(255, 255, 255, 0.03);
+}
+
+.theme-dark .markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote:hover,
+.theme-dark .markdown-preview-view blockquote:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}
