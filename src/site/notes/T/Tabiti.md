@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tabiti/","title":"Tabiti","tags":["Englishtexttranslated"],"created":"2024-12-01T14:02","updated":"2024-12-01T14:02"}
+{"dg-publish":true,"permalink":"/T/Tabiti/","title":"Tabiti","tags":["Englishtexttranslated"],"created":"2024-12-01T14:02","updated":"2025-07-03T18:39"}
 ---
 
 
@@ -13,6 +13,10 @@
 
 ![assets/Tabiti_image1.jpeg](/img/user/T/assets/Tabiti_image1.jpeg)  
 ![assets/Tabiti_image2.png](/img/user/T/assets/Tabiti_image2.png)  
+
+Hasonló ábrázolást látunk [ezen](https://en.wikipedia.org/wiki/Untash-Napirisha#/media/File:Untash_Napirisha_stele_Louvre_Sb12.jpg) oldalon talált, [Untash Napirisha](https://en.wikipedia.org/wiki/Untash-Napirisha) halfarkú, kígyókat tartó istenség sztéléjén (kb. i.e. 1340–1300):  
+![Tabiti_image20250702234851986.jpeg](/img/user/T/assets/Tabiti_image20250702234851986.jpeg)
+
 Tabitát ugyan nem ismerem, de legutóbb [[T/TÁT\|TÁT]] címnél írottak alapján nem lennék meglepve, ha kiderülne, hogy Tabita is Tejútistennő féle alak volt eredetileg.  
 Lásd még [[K/Kígyóistennő\|kígyóistennő]]. Az a(z ismertebb) kép, mely [[K/Kundalini\|Kundalini]] címnél áll, valójában nem Tabitit hanem a szkíta [[A/Anahita\|Anahitá]]t ábrázolja, így a Pozsgai Nikoletta Nagyasszonyról szóló előadásából vett, szintén kígyós Tabiti istennőről való képet mellékelve itt közlöm, míg a másik (Falvay Károly Nagyboldogasszony című könyvének 304. oldaláról illetve Pap Gábor Ki volt Magyar Ilona? c. a Dobogó című újság 2011. 3-4. számában megjelent cikkéből) vett kép a gyerőmonostori templom kígyós leányát vagy ahogy Pap Gábor hívja madárlányt ábrázol.  
 ![assets/Tabiti_image3.png|invert_dark](/img/user/T/assets/Tabiti_image3.png)  
