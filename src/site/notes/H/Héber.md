@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2025-06-08T00:44"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2025-07-04T22:40"}
 ---
 
 
@@ -39,6 +39,8 @@ Péterfai János amit ír:
 > A Héber szó Hé-Ber felbontása Nap-Férfi értelmű magyarul, ami a magyarok és zsidók igen ősi kapcsolataira utal. Mivel visszafelé menve az időben a magyaroknak a zsidókkal feltétlenül találkozni kellett, olyan értelemben, hogy a zsidók elváltak a magyar anyatestről, ezért a magyar nyelv szavai eredhetnek abból a régi időből is.  
 
 Nem feltétlenül ez a helyes eredet. Ahogy [[G/Gabriel\|Gábriel]] névértelmezése kapcsán előjött, a héber `gever` = ember (másutt `gebher`; vö. [[Y/Yazd\|yazd]]-i `gueber` tűzimádót Kállay Ferenc A pogány magyarok vallása c. könyvének 253. oldaláról), mely a héber névnek is megfelel.  
+Még írja:  
+> A már említett Jezd városban, melynek egyik részében mintegy 4000 gueber lakik, a régi tüztemplom romjai ma is láthatók; a vidéken még nyolczezer guebert számithatni, kik jámborok s régi pehlvi irományok birtokában vannak. ([Lásd 262. old.](zotero://open-pdf/library/items/DFI47XPY?page=262&annotation=6LVSWVRA))  
 
 Ez a név pedig már az [[A/Algebra\|algebra]] címnél írottak alapján értelmezendő, azaz az ember itt a csillagkép-ember/óriás Orion – körülbelül úgy, ahogy nálunk ember az [[I/Ikrek csillagkép\|Ikrek]].  
 Lentebb találkozunk a héber `geber` = helytartó szóval, mely a [[V/Vezető\|vezető]], és itt megint egyszerre Orion és az [[I/Ikrek csillagkép\|Ikrek]] cikkelyébe tartozó Kutya kerülhet elő ilyen szerepkörben.  
