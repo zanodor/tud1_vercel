@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-07-03T01:09"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-07-04T22:40"}
 ---
 
 
@@ -11,6 +11,8 @@
 
 **Videók kivonatokkal**:  
 
+[250704CN! HULLAZSÁK](https://rumble.com/v6vq4sz-250704cn-hullazsk-kubnyi-tams-ktv.html)  [https://archive.ph/yGDSo](https://archive.ph/yGDSo)
+[250703CN! TITKOS TANITÁS](https://rumble.com/v6vofrp-250703cn-titkos-tanits-kubnyi-tams-ktv.html)  [https://archive.ph/0CGax](https://archive.ph/0CGax)
 [250702CN! ÉRTŐ SZÓ](https://rumble.com/v6vmqnj-250702cn-rt-sz-kubnyi-tams-ktv.html)  [https://archive.ph/jjEbz](https://archive.ph/jjEbz)
 [250701CN! A CÉDRUS](https://rumble.com/v6vl22r-250701cn-a-cdrus-kubnyi-tams-ktv.html)  [https://archive.ph/988qn](https://archive.ph/988qn)
 [250630CN! PRAGMATICA SANCTIO](https://rumble.com/v6vjct5-250630cn-pragmatica-sanctio-kubnyi-tams-ktv.html)  [https://archive.ph/YwFlz](https://archive.ph/YwFlz)
