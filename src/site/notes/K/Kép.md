@@ -1,12 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2025-06-08T01:07"}
+{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2025-07-04T22:40"}
 ---
 
 
 # Kép
 
-A kép, úgy tűnik a [[K/Kő\|kő]]ből készült bálványkép, mely az istenség képe/arca (feje) is lehet, illetve ezek konflációjáról is lehet szó.  
+A kép, úgy tűnik a [[K/Kő\|kő]]ből készült bálványkép, mely az istenség képe/arca (feje) is lehet, illetve ezek ideák menet közbeni konflációjáról is lehet szó.  
 Ahogy [[B/Build\|build]] címnél is szerepelt, kép megfelel a \*köv szónak.  
+
+Már csak azért is lehet ezzel felfogással számolni, mert az ([[E/Ég\|ég]]ig érő) [[H/Hegy\|hegy]] kapcsán is szóba került, [[S/Szakrális geometria#^ovbsl7\|szakrális geometria]] címnél szereplő diagrammal megtámogatva, hogy Isten ott van, a (Világ)hegy tetején.  
+Márpedig [[K/Kő#Hasonló idegen nyelvű szavak\|kő]] szavunk másutt hegyet jelent és ha lenne `hegy` szavunknak gyöke, egyeztethető is lenne `kő` szóval.  
+
+De itt a `kép` esetében inkább arról van szó, hogy kőből készül az isten szobra, képe, és ahogy lentebb kifejtjük, elsődlegesen a képe = arca, feje lehetett a hangsúlyos (a "fő"), mert idegen szavak ilyen K-P/K-F vázzal megjelennek fej, fő jelentéssel.  
 
 #### Magyar Adorján írja:
 
@@ -40,7 +45,7 @@ Magát kép szavunkat könyvének 132. oldalán veszi elő.
 > Nyelvünk a mitikus alakok mögötti lényeget, tehát a metafizikai értelmet ragadja meg, és mondja ki, az idea szintjén! Merthogy az a metafizikai tudás[^1], hogy az ideák az eredetiek, a többi csak ezek másolata, képe ez benne van a nyelvünkben. Ezért értelmezhető a metafizikai háttér az egyiptomi Kepe-Képe névben is, amely a Napot, mint az Isten, a legfőbb idea másolatát nevezi meg, magyarul.  
 - Ez az isten nyilván nem [[G/Geb\|Geb]] isten, hanem [[H/Hapi\|Hapi]]?  
 
-Kép szavunk tehát a más egyéb K-B és K-P vázú szavakhoz hasonlóan fejet (arcot) is jelent, így a latin `caput` = fej, német `kopf`, valamint a [[C/Cepheus csillagkép\|Cepheus csillagkép]] (Richard H. Allen is fejre utal; lásd ott) és a [[C/Cephalic\|cephalic]] nevek eredete is itt keresendő. Nem elfelejtve persze azt sem, hogy más szóösszetételek is vannak, amelyek hasonlóak. Például a [[K/Kaba\|Kaba]] hasonló.  
+`Kép` szavunk tehát más egyéb K-B és K-P vázú szavakhoz hasonlóan fejet (arcot) is jelent, így a latin `caput` = fej, német `kopf`, valamint a [[C/Cepheus csillagkép\|Cepheus csillagkép]] (Richard H. Allen is fejre utal; lásd ott) és a [[C/Cephalic\|cephalic]] nevek eredete is itt keresendő. Nem elfelejtve persze azt sem, hogy más szóösszetételek is vannak, amelyek hasonlóak. Például a [[K/Kaba\|Kaba]] hasonló.  
 
 Mivel a fej, főség leginkább kutyafej(jel asszociálható), a kép, kep, kip szavunk [[E/EB\|EB]] előtételezésének is felfogható lenne. Ugyanígy [[S/Szép\|szép]] és [[S/Szív\|szív]] szavunk is lehet [[E/EB\|EB]], [[I/IB\|IB]] fogalmakra visszavihető.  
 
