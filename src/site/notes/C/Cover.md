@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cover/","title":"Cover","tags":["Englishtexttranslated"],"created":"2023-11-05T02:53","updated":"2025-05-03T10:57"}
+{"dg-publish":true,"permalink":"/C/Cover/","title":"Cover","tags":["Englishtexttranslated"],"created":"2023-11-05T02:53","updated":"2025-07-04T22:40"}
 ---
 
 
@@ -21,13 +21,14 @@ Fed, fedő.
 [Ezen](https://en.wiktionary.org/wiki/couver) és [ezen](https://www.britannica.com/topic/couvade) oldalon írottak alapján a kiköltés fogalma is ebből a fogalomkörből ered. Kérdés, hogy mi volt előbb (még a tyúk és a tojás téma is pont idevág): a költés vagy a fedés.  
 Maga a [[K/Költ\|költ]] szó is tartalmazza a [[K/KU\|KU]] alapszót, mely a [[C/Coco\|coco]] címnél írottak szerint a tojás neve is lehet.  
 
-Nem először fordul elő, így [[A/Arab szavak\|arab szavak]] címhez is tehető lenne, hogy árja és sémi szavak azonos alakúak (köszönhetően az avar-hun és kabar törzseknek). [Ezen](https://www.whyislam.org/common-ground/whatiskafir/) oldalon is szerepel az arab `kufr` = befed jelentéssel:  
+Nem először fordul elő, így [[A/Arab szavak\|arab szavak]] címhez is tehető lenne, hogy árja és sémi szavak azonos alakúak (köszönhetően az avar-hun és kabar törzseknek). [Ezen](https://www.whyislam.org/common-ground/whatiskafir/) oldalon is szerepel az arab `kufr`, egy itt meg nem nevezett befedni jelentésű igére visszavíve:  
 > Kufr can be used in a neutral/benign sense as the origin of `kufr` in the Arabic language means to cover up. So the farmer who is putting a seed in the ground and covering it up is performing kufr.  
 > —  
-> A kufr semleges/nemleges értelemben is használható, mivel a "kufr" szó eredete az arab nyelvben azt jelenti, hogy befedni. Tehát az a földműves, aki magot vet a földbe és befedi azt, kufr-t követ el.  
+> A kufr semleges/nemleges értelemben is használható, mivel a `kufr` szó eredetét képező ige az arab nyelvben azt jelenti, hogy befedni. Tehát az a földműves, aki magot vet a földbe és befedi azt, kufr-t hajt végre.  
 
 Különösen érdekes a kontextus, melyben ültetésről van szó.  
-A kérdés itt még az, hogy a [[K/Kufár\|kufár]] szó (merthogy a cikk először ott került említésre) milyen összefüggésben lehet a befödéssel. Nyilván a közös kapocs a kutyafej, mely több nyelvben a főséget, vezetőt, akár királyt (közös etimon a megmondója) szimbolizálja. Márpedig a föd igében is benne van a fő főnévi fogalom, nemcsak a födél.  
+A kérdés itt még az, hogy a [[K/Kufár\|kufár]] szó (merthogy a cikk először ott került említésre) milyen összefüggésben lehet a befödéssel?  
+Az igazság elfedéséről van szó. Az arab `كُفْر` (`kufr`) = hitetlenség, tagadás; `كَافِر` (`kāfir`) = hitetlen, (isten)tagadó szavak k-f-r vázú szavai a `كَفَرَ` (`kafara`) befedni igére mennek vissza (de ez állítólag már múlt idejű alak).  
 
 [[K/Koponya\|Koponya]] szónál hasonlókról volt még szó (Magyar Adorján Kérdések című írása nyomán).  
   
