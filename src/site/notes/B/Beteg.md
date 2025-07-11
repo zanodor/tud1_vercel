@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Beteg/","title":"Beteg","tags":["Englishtexttranslated"],"created":"2024-04-20T15:38","updated":"2025-06-07T19:50"}
+{"dg-publish":true,"permalink":"/B/Beteg/","title":"Beteg","tags":["Englishtexttranslated"],"created":"2024-04-20T15:38","updated":"2025-07-12T00:31"}
 ---
 
 
@@ -47,7 +47,7 @@ Menuhin, a híres hegedűművész fia, Mondd el az igazat és szégyenítsd meg 
 > 3\. Ami azt illeti, amit az életetek elleni merényletekről mondtok: tegyétek meg fiaitokat orvosokká és patikusokká, hogy elvehessék a keresztények életét.  
 
 Géczy elmondja, hogy még ma is Pasteur-ből élnek az orvosok és olyan elektro-mikroszkópot használunk ma, mely befolyásolja a vizsgált anyagot, mert elektronokkal bombázza. A 20. század eleji optikai mikroszkóp teljesen megfelelne mai használatra, amelynek nincs ilyen káros hatása.  
-Egyébiránt a neten, az Amazonon például van is egy könyv amely a Pasteur-Béchamp csatát vázolja fel; [ezen](http://maronewellness.com/pasteur-vs-bechamp-an-alternative-view-of-infectious-disease/) oldalon pedig egy cikk angolul. Mivel legutóbb nálam az a weboldal nem működött, [ezen](https://www.scienceforums.com/topic/37217-pasteur-vs-bechamp-an-alternative-view-of-infectious-disease/) oldalról lehet tájékozódni (Géczy mondataival egyetértő dolgok szerepelnek ott, illetve lábjegyzetbe[^2] is beteszem).  
+Egyébiránt a neten, az Amazonon például van is egy könyv amely a Pasteur-Béchamp csatát vázolja fel; [ezen](https://web.archive.org/web/20160506091607/http://maronewellness.com/pasteur-vs-bechamp-an-alternative-view-of-infectious-disease/) oldalon pedig egy cikk angolul. Mivel legutóbb nálam az a weboldal nem működött, [ezen](https://www.scienceforums.com/topic/37217-pasteur-vs-bechamp-an-alternative-view-of-infectious-disease/) oldalról lehet tájékozódni (Géczy mondataival egyetértő dolgok szerepelnek ott, illetve lábjegyzetbe[^2] is beteszem).  
 [Ezen](http://www.medicinacomplementar.com.br/biblioteca/pdfs/Biomolecular/mb-0464.pdf) oldalon további infók szerepelnek Béchampékról és a betegségekről, stb.  
 
 [Ezen](http://www.rifeszoft.hu/) oldalon is elhangzik:  
@@ -88,7 +88,7 @@ You can see this when a group of people go hiking in the woods. It often seems t
 To treat illness, Bechamp's cellular theory also applied. Bechamp was less concerned with killing the infection and focused more on restoring the health of the patient's body through healthy lifestyle choices. Bechamp saw the infection as a footnote to the state of illness and not the primary cause. As the person restored health through diet, hygiene, and detoxification the infection went away on its own-without needing measures to kill it.  
 Pasteur and Bechamp had a long and often bitter rivalry regarding who was right about the true cause of illness. Ultimately Pasteur's ideas were accepted by society and Bechamp was pretty much forgotten. The practice of Western medicine is based on Pasteur's germ phobia which gives rise to the use of vaccinations, antibiotics, and other anti-microbials.  
 The irony is that towards the end of his life, Pasteur renounced the germ theory and admitted that Bechamp was right all along. In the 1920's medical historians also discovered that most of Pasteur's theories were plagiarized from Bechamp's early research work.  
-http://maronewellness.com/pasteur-vs-bechamp-an-alternative-view-of-infectious-disease/ Other interesting articles on the subject:  
+https://web.archive.org/web/20160506091607/http://maronewellness.com/pasteur-vs-bechamp-an-alternative-view-of-infectious-disease/ Other interesting articles on the subject:  
 https://danielleduperret.com/articles-blogs/pasteur-bechamp-the-2-sides-of-medicine/  
 Louis Pasteur (1822 – 1895) was a French chemist and microbiologist born in Dole. He is best known for his remarkable breakthroughs in the causes and prevention of disease. His experiments supported the germ theory of disease. In essence, Pasteur taught that disease came from outside the body in the form of bacteria. For Pasteur, to fight illness is to treat the symptoms. This approach has shaped modern medicine and pharmacology.  
 Few people know that on his deathbed, Pasteur recanted and said "Béchamp was right."  
@@ -110,7 +110,7 @@ Ezt láthatjuk, amikor egy csoport ember túrázni megy az erdőbe. Gyakran úgy
 A betegségek kezelésére Bechamp sejtelméletét is alkalmazták. Bechamp kevésbé foglalkozott a fertőzés elpusztításával, és inkább a beteg szervezetének egészségének helyreállítására összpontosított az egészséges életmóddal. Bechamp a fertőzést a betegség állapotának lábjegyzetének tekintette, nem pedig elsődleges okának. Ahogy a személy az étrend, a higiénia és a méregtelenítés révén helyreállította az egészségét, a fertőzés magától eltűnt – anélkül, hogy szükség lett volna az elpusztítására irányuló intézkedésekre.  
 Pasteur és Bechamp hosszú és gyakran elkeseredett rivalizálást folytatott abban a kérdésben, hogy kinek van igaza a betegség valódi okát illetően. Végül Pasteur elképzeléseit fogadta el a társadalom, Bechamp pedig nagyjából feledésbe merült. A nyugati orvoslás gyakorlata Pasteur baktériumfóbiájára épül, ami a védőoltások, az antibiotikumok és más mikrobaellenes szerek használatához vezetett.  
 Az irónia az, hogy élete vége felé Pasteur lemondott a baktériumelméletről, és elismerte, hogy Bechampnak végig igaza volt. Az 1920-as években az orvostörténészek azt is felfedezték, hogy Pasteur elméleteinek nagy részét Bechamp korai kutatómunkájából plagizálták.  
-http://maronewellness.com/pasteur-vs-bechamp-an-alternative-view-of-infectious-disease/
+https://web.archive.org/web/20160506091607/http://maronewellness.com/pasteur-vs-bechamp-an-alternative-view-of-infectious-disease/
 Egyéb érdekes cikkek a témában:
 https://danielleduperret.com/articles-blogs/pasteur-bechamp-the-2-sides-of-medicine/
 Louis Pasteur (1822 – 1895) francia kémikus és mikrobiológus, aki Dole-ban született. Leginkább a betegségek okainak és megelőzésének feltárása terén elért figyelemre méltó áttöréseiről ismert. Kísérletei alátámasztották a betegségek csíraelméletét. Pasteur lényegében azt tanította, hogy a betegségek a testen kívülről, baktériumok formájában terjednek el. Pasteur számára a betegség leküzdése a tünetek kezelését jelenti. Ez a megközelítés alakította a modern orvostudományt és farmakológiát.  
