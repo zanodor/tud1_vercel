@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/I/Iszlám teremtéstörténet/","title":"Iszlám teremtéstörténet","created":"2024-05-03T12:13","updated":"2024-10-25T22:00"}
+{"dg-publish":true,"permalink":"/I/Iszlám teremtéstörténet/","title":"Iszlám teremtéstörténet","created":"2024-05-03T12:13","updated":"2025-07-12T00:30"}
 ---
 
 
 # Iszlám teremtéstörténet
 
 Volt már [[B/Bibliai teremtéstörténet\|bibliai teremtéstörténet]], [[B/Babiloni teremtéstörténet\|babiloni teremtéstörténet]], [[E/Egyiptomi teremtéstörténet\|egyiptomi teremtéstörténet]], [[I/Indiai teremtéstörténet\|indiai teremtéstörténet]] és más népektől való is.  
-[Ezen](https://sites.google.com/site/okoriidovonal/teremtestoertenetek/iszlam-teremtestoertenet) oldalról való adatsor:  
+[Ezen](web.archive.org/web/20201027100917/https://sites.google.com/site/okoriidovonal/teremtestoertenetek/iszlam-teremtestoertenet) oldalról való adatsor:  
 
 Iszlám teremtéstörténet  
 Az ég, a föld és az angyalok teremtése  
