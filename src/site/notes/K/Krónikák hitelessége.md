@@ -1,16 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/K/Krónikák hitelessége/","title":"Krónikák hitelessége","created":"2024-12-16T18:43","updated":"2025-06-20T23:33"}
+{"dg-publish":true,"permalink":"/K/Krónikák hitelessége/","title":"Krónikák hitelessége","created":"2024-12-16T18:43","updated":"2025-07-12T00:31"}
 ---
 
 
 # Krónikák hitelessége
 
-Nemcsak a krónikák, hanem úgy általában a források, kútfők, egyes szerzők hitelességének és a történelmi tényeknek megkérdőjelezése a hamisítók szokása. A cél: [[T/Történelemhamisítás\|hamis történelem]] azon alapokon, hogy az emberiségen uralkodók mindig hitványak voltak és a rokoni szálak (indo-germán népek) is az emberiség közös leigázására törekedő felekre vonatkoznak, ahol a gyengébbnek kell legelőbb pusztulnia.  
+Nemcsak a krónikák, hanem úgy általában a források, kútfők, egyes szerzők hitelességének és a történelmi tényeknek megkérdőjelezése az emberiséget rabszolgásítani vágyó hamisítók szokása. A cél: [[T/Történelemhamisítás\|hamis történelem]] azon – tulajdonképpen az idő előrehaladásával természetesen kialakuló deszakralizált – alapokon, hogy az emberiségen uralkodók mindig hitványak voltak és a rokoni szálak (indo-germán népek) is az emberiség közös leigázására törekedő felekre vonatkoznak, ahol a gyengébbnek kell legelőbb pusztulnia.  
 
 #### Pálfi Károly A magyar nemzet ősvallása...
 
 ...című könyvében írja:
-> A történetírók panaszkodnak, hogy Géza és Szent István korára vonatkozólag kevés hiteles adattal rendelkeznek. Hogy azonban mégis összefüggő történeti művet nyújthassanak, forrásul fehasználják a magyar és külföldi krónikákat, mondákat, legendákat, egyházi hagyományokat és alapító leveleket. Az említett tárgyak közül az utóbbiak valóban értékes források volnának ha eredetieknek és hiteleseknek bizonyulnának. Ámde éppen ellenkezőleg! Azt megállapítani egyáltalán nem lehet, hogy közöttük melyik a valódi és melyik hamisítvány; az esetleg valódiaknak látszók között pedig, hogy melyik eredeti és melyik másolat; a másolatokban viszont, hogy mi a másolás és mi a betoldás. ([Lásd 89. old.](zotero://open-pdf/library/items/QVETUTRJ?page=89&annotation=V5TRCLQR))  
+> A történetírók panaszkodnak, hogy Géza és Szent István korára vonatkozólag kevés hiteles adattal rendelkeznek. Hogy azonban mégis összefüggő történeti művet nyújthassanak, forrásul felhasználják a magyar és külföldi krónikákat, mondákat, legendákat, egyházi hagyományokat és alapító leveleket. Az említett tárgyak közül az utóbbiak valóban értékes források volnának ha eredetieknek és hiteleseknek bizonyulnának. Ámde éppen ellenkezőleg! Azt megállapítani egyáltalán nem lehet, hogy közöttük melyik a valódi és melyik hamisítvány; az esetleg valódiaknak látszók között pedig, hogy melyik eredeti és melyik másolat; a másolatokban viszont, hogy mi a másolás és mi a betoldás. ([Lásd 89. old.](zotero://open-pdf/library/items/QVETUTRJ?page=89&annotation=V5TRCLQR))  
+
+#### Szántai Lajos...
+
+...egy Szent Lászlóról szóló Agora adásban mondja [04:04](https://www.youtube.com/watch?v=qTfyJhIPjEc&t=244)-től:  
+> [[B/Bonfini\|Bonfini]] majd sokkal későbbi évszázadokban Mátyás király idején leírja, hogy ő meglepetéssel tapasztalja azt, hogy a magyar királyok, úgy általában az európai királyoknak írt krónikák világából kiemelkednek. Miért emelkednek ki? Mert csak a meztelen igazságot fogalmazzák meg. Tehát nem szépítenek, nem torzítanak, hanem megpróbálják az igazságot egyenes mederbe tartani.  
 
 ## Jogigény a Kárpát-medencére
 
@@ -40,7 +45,7 @@ Másutt:
 > [[H/Hunfalvy Pál\|Hunfalvy Pál]] és iskolája...magán az indogermanisztikán belül is annak legszélsőségesebb, nyíltan magyarellenes, Schlözer-féle német-osztrák irányzatát tekintették mérvadónak, s a józanabb, tárgyilagosabb nyugat-európai kutatókat – mert ilyenek is voltak, pl. A. Thierry – figyelembe sem vették.  
 >
 > Fiók Károly élesen szembefordult Hunfalvyval, s alapos ellenérvekkel pontról pontra cáfolta Hunfalvy argumentációját, amellyel ez utóbbi krónikáink hitelét támadta (Őstörténet és kritika). Többek között megállapította, hogy "[[E/Evilath\|Eviláth]] földje" sehol sem található meg a Bibliában. Hogy bibliai kifejezés lenne, azt Hunfalvy egyszerűen kitalálta, hogy ezzel is bizonygathassa: lám, Kézai a Bibliából kompilálta össze a magyarok őstörténetét.  
-- [[H/Hérodotosz\|Hérodotosz]] mellett [[C/Chorenei Mózes\|Chorenei Mózes]] és [[D/Diodórosz Szikulosz\|Diodórosz Szikulosz]] is kritikát kapitt.
+- [[H/Hérodotosz\|Hérodotosz]] mellett [[C/Chorenei Mózes\|Chorenei Mózes]] és [[D/Diodórosz Szikulosz\|Diodórosz Szikulosz]] is kritikát kapott.
 
 > Rohonyi Gyula "A honfoglalás története" című könyvében részletesen foglalkozik krónikáink hitelességének kérdésével, munkájának célkitűzéséből következően főleg Anonymusszal. Higgadt, józan hangon, alapos érveléssel utasítja vissza Hunfalvy krónikáinkról vallott nézeteit, Elöljáróban megemlíti Anonymus külföldi támadóit, akik ellen szerinte már eleve gyanúperrel kell élnünk, mert "többnyire olyan szenvedélyesen írnak ellene, hogy előadásuk a faji gyűlöletet, első pillanatra, elárulja." **Rössler pl. így ír a magyar krónikákról; "tűzbe kell őket vetni"**, majd megállapítja, hogy Hunfalvy teljes mértékben csatlakozott Rössler véleményéhez, s krónikáinkat mint meséket elveti. Nevezetesen Anonymust általában két okból nem tartja megbízható kútfőnek:  
 > 1\. mert sokról nem tud, amiről a bizánci írók tudnak;  
@@ -58,4 +63,5 @@ Előzmény [[H/Heftalita\|heftalita]] címnél:
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Fischer Károly Antal sem fogadta el a szkiták, szarmaták, dahák, szakák iráni származtatását. "Erklärung der skythisch-sarmatischen Namen und Wörter aus der ungarischen Sprache" című könyvében, Nagy Gézához hasonlóan, alapos érvekkel cáfolja Zeuss, Müllenhoff, Tomaschek iráni téziseit. Kifejti, hogy az antik írók adatait a szkitáknak, szarmatáknak, szakáknak a hunokkal, majd a törökökkel való azonosításáról nem lehet egyszerűen toposzként elintézni, mert számos forrás világosan megmondja azt is, hogy utóbbiak a szkiták rokonai voltak. \[Götz László\]  
+Götz László írja:  
+Fischer Károly Antal sem fogadta el a szkiták, szarmaták, dahák, szakák iráni származtatását. "Erklärung der skythisch-sarmatischen Namen und Wörter aus der ungarischen Sprache" című könyvében, Nagy Gézához hasonlóan, alapos érvekkel cáfolja Zeuss, Müllenhoff, Tomaschek iráni téziseit. Kifejti, hogy az antik írók adatait a szkitáknak, szarmatáknak, szakáknak a hunokkal, majd a törökökkel való azonosításáról nem lehet egyszerűen toposzként elintézni, mert számos forrás világosan megmondja azt is, hogy utóbbiak a szkiták rokonai voltak.  
