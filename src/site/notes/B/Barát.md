@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2025-07-03T00:58"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2025-07-12T00:31"}
 ---
 
 
@@ -18,7 +18,7 @@
 > A Védák történelmi korát leíró Brahmalisták nevű szent irat Indiát a Bharatok földjének mondja, s a hivatalos hindu álláspont szerint ez az ős szaka-szkíta nép képezte a későbbi, az ún. árja invázió előtti India partvidéki és folyam-menti lakosságát. A szent hagyomány azt is feljegyzi, hogy a bharaták között szerepelt egy szabar nevű nép is. A későbbi idők folyamán ez India őstörténelmében komoly szerepet játszott Harjasavával, a khusik és [[A/Adzsem\|Adzsem]] királyával.  
 > A történelemelőtti Indiának ebben a korszakában a bharaták, vagyis a keleti szabirok földjén játszódik le a hatalmas terjedelmű indiai hősi eposznak: a [[M/Mahabharata\|Mahabharátá]]nak a cselekménye, a nagy Bharata birodalom története. Ennek legszebb része a védanta civilizáció szépirodalmi remekműve: a [[B/Bhagavad Gita\|Bhagavad Gita]], vagyis a Magasztos éneke. Ez az isteni sugallatú alkotás az indiai vallásbölcselet gyöngyszeme.  
 
-[[R/Rama\|Rama]] címnél volt szó legutóbb a hindu mitológia különböző Bharatáiról. Szerepel [Bharata a Ramayanában](https://wikipedia.org/Bharata_(Ramayana)), de külön Wiki oldal foglalkozik a [Mahabharatából](https://wikipedia.org/Bharata_(Mahabharata)) ismert Bharatával (ha ezek nem egy és ugyanazok, legalább minőségben). ([[T/Taksony\|Taksony]] címnél előjön Bharata fiának, Takshának neve is.)  
+[[R/Rama\|Rama]] címnél volt szó legutóbb a hindu mitológia különböző Bharatáiról. Szerepel [Bharata a Ramayanában](https://en.wikipedia.org/wiki/Bharata_(Ramayana)), de külön Wiki oldal foglalkozik a [Mahabharatából](https://en.wikipedia.org/wiki/Bharata_(Mahabharata)) ismert Bharatával (ha ezek nem egy és ugyanazok, legalább minőségben). ([[T/Taksony\|Taksony]] címnél előjön Bharata fiának, Takshának neve is.)  
 Viszont [[S/Saraswati\|Saraswati]] címnél előjön **Bharati**, mint hindu istennő, Saraswatival azonosítva.  
 Azt se feledjük, hogy Magyar Adorján szerint az avarok napistene Barata néven fut(hat)ott.  
 Az [[A/Avar\|avar]]oknál a Nap és a Tűz istensége, **Barata**, Varuk vagy Barisa és Páris neveken neveztetett, írja Magyar Adorján.  
@@ -133,7 +133,7 @@ A Nap nevei, de legalábbis hímségi értelmű szavak szerepelnek a kér és ka
 > Nézd, mi származik egy ilyen szerelemből,  
 > Az egész égboltot bevilágítja."*  
 
-[Ezen](http://weekly.ahram.org.eg/2004/672/profile.htm) oldal adata szerint az óegyiptomi és arab `samir` = barát (`shamir` pedig a héberben); ez a Szem-Úr, Nap Úr értelmű összetétel olyan, mint a barát: a Nap a legfőbb (egyetlen) barátunk.  
+[Ezen](https://web.archive.org/web/20150221214724/http://weekly.ahram.org.eg/2004/672/profile.htm) oldal adata szerint az óegyiptomi és arab `samir` = barát (`shamir` pedig a héberben); ez a Szem-Úr, Nap Úr értelmű összetétel olyan, mint a barát: a Nap a legfőbb (egyetlen) barátunk.  
 De az [ezen](https://en.wikipedia.org/wiki/Mitra) oldalon említett szanszkrit és indo-árja `mitra` = barát is Napnévből ([[M/Mithra\|Mithra]]) ered és a koreai `csingu` = barát is érthető.  
 Az ónorvég `vinr`, izlandi `vinur` = barát is így Fény-Úr-ként hasonlóan épül fel (hasonló a [[W/Wing\|wing]] eredetije). (Kicsit emlékeztet a [[V/Vendég\|vendég]] szóalkotására).  
 Vladimir Ivanovich Dal orosz értelmező szótárának adata szerint az orosz `konak`[^2] = `kunak` = az ázsiai országokban barát, elvtárs jelentésű (oroszban tehát jövevényszó); ezen szóban is Kun (vagy Kon) = Nap.  
