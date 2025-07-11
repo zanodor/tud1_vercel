@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2025-06-08T01:46"}
+{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2025-07-12T00:27"}
 ---
 
 
@@ -83,7 +83,7 @@ Amiről itt szó van tehát, hogy a pogányoknak mondott magyarok voltak az igaz
 
 Ami pedig azt az analógiát illeti, hogy a gój mögött is megtaláljuk a gulya (nyáj = nép) fogalmát, ahogy a pogány mögött is végső soron megtaláljuk a leigázást, lekötést (lásd [[F/FOG#Állat befogása, népek leigázása, "megbékéltetése"\|állat befogása, népek leigázása, "megbékéltetése"]]), ez azt jelenti, hogy a népit a politikai-birodalmival kell szembe állítani. A szkítizmus is így állítandó szembe a szemitizmussal: a szkíta a szívében hordta az igazságot, a zsidónak már törvénybe iktatták, mi a helyes.  
 
-Az [ezen](https://sg.hu/forum/tema/1112391905?page=11) fórumon író, több címnél említett boleron nevű hozzászóló szerint:  
+Az [ezen](https://web.archive.org/web/20250707231432/https://sg.hu/forum/tema/1112391905?page=11) fórumon író, több címnél említett boleron nevű hozzászóló szerint:  
 > A pogány értelmezése is, minden sok más fogalom esetében, korszakonként változott, jelentéstartalma bővült. De még korszakokon belül is több értelmezése volt. Az itt tárgyalt időszakban, Szt. [[I/István\|István]] esetében, amikor már a nagy vallások gyökeret vertek, elterjedtek vallásos értelemben pogány volt mindenki, aki nem a keresztény vallás híve volt. Kulturális értelemben a műveletlen embert is pogánynak nevezték. Szt. István népe nem volt hitetlen, sőt a keresztény vallással már rég megismerkedett, nem egy törzsi vezető ember meg is keresztelkedett még a bizánci rítus szerint. A nép vallása viszont nem a nagy, akkor már uralkodó vallások közé tartozott, ezért pogánynak nevezte őket a bizánci és a római egyház is.  
 - Amit a témához érteni látszó beíró persze nem tud, mi volt a pogány eredeti jelentése és népünk ősvallása.
 
