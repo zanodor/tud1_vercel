@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Stour/","title":"Stour","tags":["Englishtexttranslated"],"created":"2024-10-23T23:38","updated":"2025-06-08T18:24"}
+{"dg-publish":true,"permalink":"/S/Stour/","title":"Stour","tags":["Englishtexttranslated"],"created":"2024-10-23T23:38","updated":"2025-07-12T00:27"}
 ---
 
 
@@ -13,7 +13,7 @@ Angol dialektikus használatban fennmaradt nagy, magas jelentéssel. A norvégba
 
 Úgy tűnik, a szláv öreget jelentő szó sem a [[S/Star\|star]] nyomán ered, hanem mást kell itt megfigyelni.  
 Ahogy [[B/Bál\|Bál]] és [[B/Balog\|Balog]] címnél szereplő adatok szerint a Nap Orionbani állapotára, magasságára, nagyságára, erősségére vonatkozó szavakat találtunk, itt is a kiinduló a [[T/Thor\|Thor]]/Tur/Tura/[[N/Numi Tórem\|Tórem]], mindössze egy s-mobile-lal (s-elővetés) toldották meg.  
-Innen a [[S/Stark\|stark]] = erős jelentése is.  
+Innen a [[S/Stark\|stark]] = erős jelentése is, ahogy [[U/Ugra\|ugra]] címnél is erre jutottunk.
 
 Viszont akkor a [[B/BAR\|BAR]] etimon nyomán alakul a `berg` = hegy értelme, mely nagy, óriási lenne melléknévként, ha lenne ilyen jelentése; illetve az Aveszta `bereg` = magas jelentésű is, mely azonos `bereg` szavunkkal. `Bérc` szavunk is létezik.  
 
@@ -22,5 +22,6 @@ Ergo ha minden napnévnek lehetnek másodlagos hegy jelentései, azok adják a n
 A hegy kapcsán [[S/Secure#Felfüggesztés vagy támasztás/aládúcolás\|secure]] címnél is volt arról szó, hogy itt ég tartásáról, aládúcolásról lehet szó. Azaz a magas, erős fogalmak mögött állhatatos, állandó fogalmak is kereshetők.
 { #250603}
 
+- Amit utólag szúrok be, hogy [[T/Tűr\|tűr]] igénk éppen ilyen alakú és értelmű, csak s-elővetés nélkül.
 
 A breton `stêr` = folyó érdekes, mert Orion lába a Tejútnál van.  
