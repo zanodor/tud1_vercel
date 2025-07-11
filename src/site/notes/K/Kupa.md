@@ -6,4 +6,6 @@ Annyi biztosnak látszik, hogy az ég ilyen domborulata napi és kis éves időc
 
 ## Ku-Pa – Ku-Tya, A-Pa – A-Tya
 
-Úgy tűnik, hogy a Ku-T(y)a ([[K/Kutya\|kutya]]) összetétel t hang helyett p/b hangokkal is kifejezhető volt egyes nyelvjárásokban, és ahogy a kutya másik, `
+Úgy tűnik, hogy a Ku-T(y)a ([[K/Kutya\|kutya]]) összetétel t hang helyett p/b hangokkal is kifejezhető volt ilyen vagy hasonló jelentésekkel egyes nyelvjárásokban.  
+Kellett hogy legyen a magyar és a későbbi közvetítő (röviden általában szkítának nevezhető) nyelvben a Nap legmagasabb állására vonatkozó K-T vázú (KuTa, KuTya) szava mellett K-P/K-B vázú szava is.  
+- Igaz, mondjuk, a néhány helyen említett szír `
