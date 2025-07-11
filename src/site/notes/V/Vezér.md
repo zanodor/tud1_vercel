@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vezér/","title":"Vezér","tags":["Englishtexttranslated"],"created":"2023-10-20T01:40","updated":"2025-06-07T18:48"}
+{"dg-publish":true,"permalink":"/V/Vezér/","title":"Vezér","tags":["Englishtexttranslated"],"created":"2023-10-20T01:40","updated":"2025-07-12T00:27"}
 ---
 
 
@@ -24,7 +24,7 @@ Vezér [[O/Orion\|Orion]] is (hiszen Ozirisz = Orion) (Péterfai János írja):
 > Vezér csillagisten alakját írja le az angol [[H/Hunter\|Hunter]], aminek a jelentése [[V/Vadász\|vadász]], lásd magyar Vadász és Nimrúd.  
 - Ugyanakkor [[A/Agent\|agent]] és más címnél írottak szerint a vezér/[[V/Vezető\|vezető]] lehet az [[I/Íj csillagkép\|Íj csillagkép]]en keresztül Orionhoz kapcsolódó Kutya(csillag) [[S/Szíriusz\|Szíriusz]] is. Lásd [[V/Vezető\|vezető]].
 
-[Ezen](https://sophialinus.webs.com/egyptiancalendar.htm) oldalon egyébként **Wesir**-nek (is) írják Ozirisz nevét, melynél nem lehet egyértelműbb utalás/bizonyíték arra nézve, hogy magyar név.  
+[Ezen](https://web.archive.org/web/20210305012827/https://sophialinus.webs.com/egyptiancalendar.htm) oldalon egyébként **Wesir**-nek (is) írják Ozirisz nevét, melynél nem lehet egyértelműbb utalás/bizonyíték arra nézve, hogy magyar név.  
 
 ## Vezér mint Nap(isten) vagy Orion (Isten) – Ozirisz sem más mint Nap az Orionban
 
