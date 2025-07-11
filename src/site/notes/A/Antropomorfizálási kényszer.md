@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Antropomorfizálási kényszer/","title":"Antropomorfizálási kényszer","tags":["titleandheadingonedontmatch","Englishtexttranslated"],"created":"2024-04-20T10:48","updated":"2025-06-07T18:47"}
+{"dg-publish":true,"permalink":"/A/Antropomorfizálási kényszer/","title":"Antropomorfizálási kényszer","tags":["titleandheadingonedontmatch","Englishtexttranslated"],"created":"2024-04-20T10:48","updated":"2025-07-12T00:28"}
 ---
 
 
@@ -33,7 +33,7 @@ Nos, valójában a mítosz felépítésének követelménye, hogy az igazságot 
 
 - Az [alábbi](https://youtu.be/ObQpn8Hbe60) ÁKTV műsorban 1:09:33-nál Kubínyi Tamás azt mondja, hogy Ozirisz Erpat-Saber (ha úgy tetszik, Árpád-Zab-Úr) leszármazottja és [[A/Árpád\|Árpád]] pedig [[U/UTU\|UTU]] napisten harmadik fia. Ő itt is istenkirályságról, égi eredetű hatalomról beszél még 1:11:00 után is, Nimróddal is példálódzva (aki Nimródról ugyanezt a nézetet vallja, ahogy másutt bebizonyosodott: élő személy került volna tiszteletül az égre és nem fordítva).
 
-Az [alábbi](https://www.fnord23.com/who-are-the-anunnaki/) oldalon is említi a szerző az evemerizmust és [[S/Sitchin, Zecharia\|Sitchin, Zecharia]] és az Anunnakik kapcsán is hasonlít: tulajdonképpen ugyanarról a jelenségről van szó.   
+Az [alábbi](https://web.archive.org/web/20200928030424/https://www.fnord23.com/who-are-the-anunnaki/) oldalon is említi a szerző az evemerizmust és [[S/Sitchin, Zecharia\|Sitchin, Zecharia]] és az Anunnakik kapcsán is hasonlít: tulajdonképpen ugyanarról a jelenségről van szó.   
 
 Ha már Kubínyi Tamás, az [alábbi](https://youtu.be/UBLJyqTTp40) ÁKTV-s műsorban 1:34:45-től vezeti fel XXIII. János (az utolsó nem zsidó pápa) 1962-es második vatikáni zsinat előtti beszédében közzé tett (remélhetőleg hiteles, de legalábbis neki tulajdonított) pápai közleményét, melyben szintén szó esik antropomorfizálásról ([[J/Judeo-kereszténység\|judeo-kereszténység]] címnél bővebben megvolt):  
 > "Szemináriumainkban alig van ékes-szólástan és a hívek kénytelenek végig kínlódni az új papok gyatra beszédeit és együgyű (naiv), piezotus (jámborkodó) meséit. Tele a fejük dogmával és az "[[O/Ószövetség\|Ószövetség]]" idejétmúlt és megcáfolt antropomorfista nacionalizmusával, s beleizzadnak szegény elneveltek, hogy kihozhassák Isten egyetemes szeretetét, minden népnek adott természeti jogokat és a krisztusi universalitást. Vagyis hamis, ókori nívón mozgunk ma is, amikor pozitív tudomány, a régészet, embertan, földtan, s nem különben a megtalált sumer első biblia (Ur, 1954 Dr. S. N. Kramer: Parallel Biblia, 1956) eredményeit figyelmen kívül hagyjuk, melyek mindent világosan feltártak és megmagyaráztak. Senki nem érti ezt a maradi és már kimúlt ószövetségi fontoskodást, ami nagyrészt egy összelopkodott és átírt ókori hagyománynak és letűnt népeknek (sumer, parthus, káld, babiloni, egyiptomi) megmásított történelme. Szóval kötve vagyunk valami ósdi judaizmussal, pedig nekünk elég Krisztus, az Isten Fia..."  
