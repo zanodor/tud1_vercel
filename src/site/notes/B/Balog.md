@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated"],"created":"2024-10-23T20:07","updated":"2025-06-07T19:47"}
+{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated"],"created":"2024-10-23T20:07","updated":"2025-07-12T00:30"}
 ---
 
 
@@ -25,7 +25,7 @@ Pater, mint Bot-Úr lényegében ugyanazt a (profánnak nevezhető) jelentést v
 Legutóbb [[B/Black\|black]] és [[O/Oláh\|oláh]] címnél próbáltuk megfejteni e szavak eredeti értelmét. Az [alábbi](https://maghon.weebly.com/uploads/2/0/0/3/20035969/balak_-_bulak.pdf) oldalon található törökös vonalat elvetném, bár ami ott érdekes volt az az, hogy a [[B/Black\|black]] címnél hozott perzsa `ablak` = fekete-fehér jelentéshez hasonló tarka fogalom előjött, sőt, ló is.  
 Aztán eszembe jutott, nem-e a Balog név kereshető black és a vlach ([[O/Oláh\|oláh]]) nevek mögött? Rá is kerestem a név jelentésére, eredetére.  
 
-Balog Zoltán Árpád nevű cikkíró az [alábbi](http://www.matrozvar.hu/Balogeredete.pdf) oldalon arra a következésre jutott, hogy ha a hátterében nem a balkezesség van, akkor a jellemzett személy járására vonatkozott és azt jelentette, hogy az illető a bal lábára sántít, biceg.  
+Balog Zoltán Árpád nevű cikkíró az [alábbi](https://web.archive.org/web/20181125193004/http://www.matrozvar.hu/Balogeredete.pdf) oldalon arra a következésre jutott, hogy ha a hátterében nem a balkezesség van, akkor a jellemzett személy járására vonatkozott és azt jelentette, hogy az illető a bal lábára sántít, biceg.  
 Ha csak ennyit írt volna, már akkor is arra gondoltam volna, hogy igen: **a bal oldal a vak, fekete, fene oldala az életkörnek** és ezzel legalább a [[B/Black\|black]] etimológiáját ki tudtam volna pipálni. De hogy a blak/vallach/vlach/oláh (és olasz, valamint walesi) népek is efféle ominózus-fekete jelzőt viselnének népük neveként? Aligha. Azaz a válasz a kérdésünkre kissé összetettebb.  
 
 [Ezen](http://members.chello.at/heinz.pohl/Ortsnamen_E.pdf) szláv toponímákat német nyelvűre cserélést taglaló tanulmányban amikor megláttam egy szlovén folyónevet németre fordítva...  
