@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-07-04T22:40"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-07-12T00:32"}
 ---
 
 
@@ -11,6 +11,11 @@
 
 **Videók kivonatokkal**:  
 
+[250711CN! PRISCOS 1](https://rumble.com/v6w1nx8-250711cn-priscos-1-kubnyi-tams-ktv.html)  [https://archive.ph/qhWXv](https://archive.ph/qhWXv)
+[250710CN! TITKOS ERÉNYEK](https://rumble.com/v6vzxcg-250710cn-titkos-ernyek-kubnyi-tams-ktv.html)  [https://archive.ph/EK27C](https://archive.ph/EK27C)
+[250709CN! SZENT ERZSÉBET 2](https://rumble.com/v6vy8rk-250709cn-szent-erzsbet-2-kubnyi-tams-ktv.html)  [https://archive.ph/CD0IV](https://archive.ph/CD0IV)
+[250708CN! SZENT ERZSÉBET 1](https://rumble.com/v6vwhnw-250708cn-szent-erzsbet-1-kubnyi-tams-ktv.html)  [https://archive.ph/jR8Wf](https://archive.ph/jR8Wf)
+[250707CN! POZSONYI HÁBORÚ 1118.](https://rumble.com/v6vurrr-250707cn-pozsonyi-hbor-1118.-kubnyi-tams-ktv.html)  [https://archive.ph/TdTVs](https://archive.ph/TdTVs) (képes összefoglaló)
 [250704CN! HULLAZSÁK](https://rumble.com/v6vq4sz-250704cn-hullazsk-kubnyi-tams-ktv.html)  [https://archive.ph/yGDSo](https://archive.ph/yGDSo)
 [250703CN! TITKOS TANITÁS](https://rumble.com/v6vofrp-250703cn-titkos-tanits-kubnyi-tams-ktv.html)  [https://archive.ph/0CGax](https://archive.ph/0CGax)
 [250702CN! ÉRTŐ SZÓ](https://rumble.com/v6vmqnj-250702cn-rt-sz-kubnyi-tams-ktv.html)  [https://archive.ph/jjEbz](https://archive.ph/jjEbz)
