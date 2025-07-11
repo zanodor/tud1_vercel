@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Analogikus gondolkodásmód/","title":"Analogikus gondolkodásmód","created":"2024-05-08T13:56","updated":"2024-10-23T20:25"}
+{"dg-publish":true,"permalink":"/A/Analogikus gondolkodásmód/","title":"Analogikus gondolkodásmód","created":"2024-05-08T13:56","updated":"2025-07-12T00:30"}
 ---
 
 
@@ -48,7 +48,7 @@ Több helyen, YouTube kommentfelületén és egy cikkemben Quorán is rámutatta
 
 #### Szarvas Gábor Latin fordításaink és a latinosságok...  
 
-...című [ezen](https://epa.oszk.hu/nyelvtudomanyi_kozlemenyek_1871.pdf) weboldalon elérhető tanulmányában írja (az analitikus gondolkodású embereket feljebbvalónak beállítva):  
+...című [ezen](https://epa.oszk.hu/04100/04182/00026/pdf/EPA04182_nyelvtudomanyi_kozlemenyek_1871_10_1_136-174.pdf) weboldalon elérhető tanulmányában írja (az analitikus gondolkodású embereket feljebbvalónak beállítva):  
 > A második tényező, melynek a latin nyelv sajátságainak jó halmazát köszöni, az objectiv eléadásban fekszik; míg az újabb\[?\] nyelvek annyira saturálva vannak abstract kifejezésekkel, hogy már alig vágyunk képesek öt-hat sort leírni képek nélkül. Íme egy rövid példa:  
 > "Konyecz jó taktikának tartotta Gierig urat tolni maga elé, gondolva, hogy az megszentelt fejű ember; s szava többet ér Bécsben, mint száz lovaskapitányé; az már egyszer leszállította Föhnwald urat a nyeregből, majd most is elbánik vele; csak annak menjen neki." \[Jók. Szer. bol. IV.\]  
 > E momentum nem kevésbé sok eltérést szül nyelvünk és a latin közt s tetemesen nehezíti a fordítást akár latinból magyarra, akár megfordítva. \[Itt példákat sorol.\]  
