@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz","containstransclusions"],"created":"2024-05-09T22:31","updated":"2025-06-20T23:34"}
+{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz","containstransclusions"],"created":"2024-05-09T22:31","updated":"2025-07-12T00:29"}
 ---
 
 
@@ -116,7 +116,7 @@ Egy általam korábban sosem hallott, mára már kihalt, dél-szamojéd nyelv a 
 https://hu.wikipedia.org/wiki/Mator_nyelv  
 Akkor ennyi erővel lehetett volna ezen névből is levezetni akarni a [[M/Magyar\|magyar]] nevet.  
 
-[Ezen](https://czakogabor.hu/userfiles/file/laszlo_gyula_a_fekete_barany.pdf) Czakó Gábor féle, László Gyuláról is szóló írásban Lászlót idézi:  
+[Ezen](https://web.archive.org/web/20250707224240/https://milhir2.wordpress.com/2018/06/23/czako-gabor-laszlo-gyula-igaza-avagy-alavar-nyelvemlekeink/) Czakó Gábor féle, László Gyuláról is szóló írásban Lászlót idézi:  
 > Az Akadémia által elfogadott finnugor származtatás száműzte a kutatók érdeklődési köréből mindazt, ami ellentmondott volna a tannak, és ez az egyoldalúság mind a mai napig uralkodik a magyar őstörténet kutatásában: a régészek szinte csak illusztrációkként szolgálnak a nyelvtudomány tételeihez.  
 
 Borbola János Az uráli tilalomfák című Ősi Gyökér 2006/3. sz. megjelent cikkében szól a finnugor elméletről, tanításáról, és (ha így ki nem is mondja) az [[I/Indo-európai nyelvcsalád\|indo-európai nyelv]]észek és az [[I/Indogermán nyelvészet\|indogermán nyelvészet]] által használt eljárásról, az ősi szavak megtalálása érdekében végzett rekonstrukcióról.  
