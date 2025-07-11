@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2025-07-03T00:55"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2025-07-12T00:29"}
 ---
 
 
@@ -31,7 +31,7 @@ A bengáli `boga` = hímtag szóban is a nap [[B/BOG\|BOG]] neve szerepel és az
 
 A [[D/Duna\|Duna]] és [[T/Tisza\|Tisza]] Tejútfolyamok nevében szintén kvázi felesleges a szóvégi -a, bár Du-Na értelmes. Kalocsa és nyilván más településnevekben szintén szerepelhet a szóvégi -a. Legutóbb [[B/Béna\|béna]] és [[S/Sánta\|sánta]] szavak kapcsán ötlött fel az itteni téma.  
 Hasonló eset lehet `bölcső`, `tüsző`, és hasonló szavakban (amennyiben főnevekről van szó).  
-([Ezen](http://epa.oszk.hu/01400/01445/00015/pdf/acta_hungarica_2016_1_028-032.pdf) oldalon Nógrády Mihály ír az -a képzőről, már ha lehet vele kezdeni valamit.)  
+([Ezen](https://epa.oszk.hu/01400/01445/00015/pdf/EPA01445_acta_hungarica_2016_1_028-032.pdf) oldalon Nógrády Mihály ír az -a képzőről, már ha lehet vele kezdeni valamit.)  
 
 Amikor [ezen](https://qr.ae/pG1gGA) John Comper féle válaszra adott David Mandic féle kommentre válaszoltam, nagyon érdekes dolog ötlött fel. Igazságtartalmát fenntartom (én írom tehát):  
 > Archaic words are made up of one vowel, or a vowel+consonant (usually an extra 'a' or 'u' put at the end of a word for balance: Magyar ana, utu, uru, etc.). Magyar is an archaic language.  
