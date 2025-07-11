@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tibeti teremtéstörténet/","title":"Tibeti teremtéstörténet","created":"2024-05-03T12:14","updated":"2024-10-26T00:38"}
+{"dg-publish":true,"permalink":"/T/Tibeti teremtéstörténet/","title":"Tibeti teremtéstörténet","created":"2024-05-03T12:14","updated":"2025-07-12T00:26"}
 ---
 
 
 # Tibeti teremtéstörténet
 
 Volt már [[B/Bibliai teremtéstörténet\|bibliai teremtéstörténet]], [[B/Babiloni teremtéstörténet\|babiloni teremtéstörténet]], [[E/Egyiptomi teremtéstörténet\|egyiptomi teremtéstörténet]], [[I/Indiai teremtéstörténet\|indiai teremtéstörténet]], és más népektől való is.  
-[Ezen](https://sites.google.com/site/okoriidovonal/teremtestoertenetek/tibeti-teremtestoertenet) oldal adatsora:  
+[Ezen](web.archive.org/web/20201027100917/https://sites.google.com/site/okoriidovonal/teremtestoertenetek/tibeti-teremtestoertenet) oldal adatsora:  
 
 Tibeti teremtéstörténet  
 A teremtés  
