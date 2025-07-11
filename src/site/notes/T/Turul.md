@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-12-18T11:38","updated":"2025-06-07T18:58"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-12-18T11:38","updated":"2025-07-12T00:28"}
 ---
 
 
@@ -133,7 +133,7 @@ Utóbbi oldal adata:
 ## Turul-monda
 
 [[E/Emese\|Emese]] és [[D/Dream\|dream]] címnél már esett szó róla.  
-Bíró Lajos A magyar régmúlt titkai című könyvében is írja, hogy a [Nagyszentmiklósi kincs](https://wikipedia.org/wiki/Nagyszentmiklósi_kincs) 2. számú korsóján nyilvánvalóan Emese álmát ábrázolták: hatalmas madár látható rajta egy várandós nő mögött \[lásd korsó azon képét lentebb jobb oldalon\]. Berze Nagy J. kutatásai szerint a magyar mitologiában a nagy sas (a turul) a főisten madara, képviselője volt.  
+Bíró Lajos A magyar régmúlt titkai című könyvében is írja, hogy a [Nagyszentmiklósi kincs](https://hu.wikipedia.org/wiki/Nagyszentmikl%C3%B3si_kincs) 2. számú korsóján nyilvánvalóan Emese álmát ábrázolták: hatalmas madár látható rajta egy várandós nő mögött \[lásd korsó azon képét lentebb jobb oldalon\]. Berze Nagy J. kutatásai szerint a magyar mitologiában a nagy sas (a turul) a főisten madara, képviselője volt.  
 
 ![assets/Turul_image7.jpeg|invert_dark](/img/user/T/assets/Turul_image7.jpeg)  
 Az [[A/Árpád\|Árpád]] címnél említett Gerberga apátnőnek Gandersheimben megtalált rovásírásos ládikájában talált hímzésen, amit Friedrich Klára az Ősi Gyökér 2019-20/1-4. számában megjelent cikkében bemutat, Fehér M. Jenő Besenyő őstörténet című könyvének adata szerint is azonos mondanivalója van.  
