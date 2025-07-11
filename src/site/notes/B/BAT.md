@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BAT/","title":"BAT","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2025-04-30T17:28","updated":"2025-06-28T00:01"}
+{"dg-publish":true,"permalink":"/B/BAT/","title":"BAT","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2025-04-30T17:28","updated":"2025-07-12T00:29"}
 ---
 
 
