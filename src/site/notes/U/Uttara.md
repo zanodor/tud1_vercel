@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Uttara/","title":"Uttara","tags":["Englishtexttranslated"],"created":"2023-10-17T08:05","updated":"2024-10-25T17:10"}
+{"dg-publish":true,"permalink":"/U/Uttara/","title":"Uttara","tags":["Englishtexttranslated"],"created":"2023-10-17T08:05","updated":"2025-07-12T00:26"}
 ---
 
 
@@ -7,8 +7,8 @@
 
 [[O/Other\|Other]] és [[D/Dexter\|dexter]] címnél, valamint [[T/Tavaszpont\|tavaszpont]] címnél volt róla szó.  
 
-Ezen oldalon:
-http://wiki/pagename
+Wiki oldala:  
+[https://en.wikipedia.org/wiki/Uttar%C4%81](https://en.wikipedia.org/wiki/Uttar%C4%81)
 
 #### René Guenon írja:  
 
