@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Side/","title":"Side","created":"2024-11-05T15:12","updated":"2024-11-19T11:19"}
+{"dg-publish":true,"permalink":"/S/Side/","title":"Side","created":"2024-11-05T15:12","updated":"2025-07-12T00:27"}
 ---
 
 
@@ -17,7 +17,7 @@ Tulajdonképpen egyszerre jelenti a [[S/Süt\|süt]], [[S/Szít\|szít]] = fény
 
 Más ízben is ide jutottam:  
 Ami nálunk kár és szar, a németben `schade` és `scheiße`. Azaz a `kara` = fekete is magyar-hun szó.  
-Vesd össze még a német, holland `scheide` = hasadék (vaginára is értve) szóval (lásd még [itt](https://en.m.wiktionary.org/wiki/shed#English)). Mely utóbbit is side szóhoz hasonlíthatjuk.  
+Vesd össze még a [[S/Sarab#Görög σᾰ́ρᾰβος\|sarab]] címnél említett német, holland `scheide` = hasadék (vaginára is értve) szóval (lásd még [itt](https://en.m.wiktionary.org/wiki/shed#English)). Mely utóbbit is side szóhoz hasonlíthatjuk.  
 Ezek mind [[S/Szét\|szét]] vagy [[S/Sötét\|sötét]] szavunk gyökéhez tarthatók.  
 A finn `sydän` = szív ("rokon" a magyar szív szóval) is tulajdonképpen közepet és így a Tejút sávját jelenti, mely oldalakra tagol. 
 
