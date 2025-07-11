@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aton/","title":"Aton","tags":["Englishtexttranslated"],"created":"2023-10-03T11:47","updated":"2025-06-07T18:48"}
+{"dg-publish":true,"permalink":"/A/Aton/","title":"Aton","tags":["Englishtexttranslated"],"created":"2023-10-03T11:47","updated":"2025-07-12T00:30"}
 ---
 
 
@@ -12,7 +12,7 @@
 
 Péterfai János azt nem írja, hogy Aton és [[A/Atum\|Atum]] nevei illetve alakjai között lehet-e összefüggés. Elvileg más és más istenek.  
 
-[Ezen](http://weekly.ahram.org.eg/2004/672/profile.htm) oldal és Ahmed Osman adata szerint Aton nevéből lett volna a héber Adonai.  
+[Ezen](https://web.archive.org/web/20150221214724/http://weekly.ahram.org.eg/2004/672/profile.htm) oldal és Ahmed Osman adata szerint Aton nevéből lett volna a héber Adonai.  
 
 #### Somplákné Karaffa Katalin Közeleg a haza-tér-és-idő?...
 
