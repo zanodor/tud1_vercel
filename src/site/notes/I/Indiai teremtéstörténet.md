@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/I/Indiai teremtéstörténet/","title":"Indiai teremtéstörténet","created":"2024-05-03T12:14","updated":"2024-10-25T21:57"}
+{"dg-publish":true,"permalink":"/I/Indiai teremtéstörténet/","title":"Indiai teremtéstörténet","created":"2024-05-03T12:14","updated":"2025-07-12T00:30"}
 ---
 
 
 # Indiai teremtéstörténet
 
 Volt már [[B/Bibliai teremtéstörténet\|bibliai teremtéstörténet]], [[I/Iszlám teremtéstörténet\|iszlám teremtéstörténet]], [[B/Babiloni teremtéstörténet\|babiloni teremtéstörténet]], [[E/Egyiptomi teremtéstörténet\|egyiptomi teremtéstörténet]] és más népektől való is.  
-[Ezen](https://sites.google.com/site/okoriidovonal/teremtestoertenetek/indiai-teremtestoertenet) oldalon álló adatsor:  
+[Ezen](web.archive.org/web/20201027100917/https://sites.google.com/site/okoriidovonal/teremtestoertenetek/indiai-teremtestoertenet) oldalon álló adatsor:  
 
 Indiai teremtéstörténet  
 ![assets/Indiaiteremtestortenet_image1.jpeg](/img/user/I/assets/Indiaiteremtestortenet_image1.jpeg)  
