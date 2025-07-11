@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/E/Egyszarvú csillagkép/","title":"Egyszarvú csillagkép","created":"2023-11-04T10:46","updated":"2025-06-07T19:53"}
+{"dg-publish":true,"permalink":"/E/Egyszarvú csillagkép/","title":"Egyszarvú csillagkép","created":"2023-11-04T10:46","updated":"2025-07-12T00:29"}
 ---
 
 
 # Egyszarvú csillagkép
 
 [[G/Gula\|Gula]] címnél volt már szó Dr. Gyárfás Ágnes őstörténész előadásából a Monocérosz csillagképről, melynek (annak ellenére, hogy késői csillagképnek mondják) a helye az, amely elsődlegesen érdekes.  
-A mellékelt, [[K/Karácsony\|Karácsony]] és (függőleges állása miatt érdekes) [[T/Tejút\|Tejút]] címnél is szereplő kép Grandpierre Atilla [alábbi](http://www.grandpierre.hu/site/2013/11/karacsony-es-vonzas-torvenye-oshagyomanyunk-teljesebb-megvilagitasban/) weboldaláról való, és nyilván a Monocérosz téli, karácsonyi állását (is) mutatja.  
+A mellékelt, [[K/Karácsony\|Karácsony]] és (függőleges állása miatt érdekes) [[T/Tejút\|Tejút]] címnél is szereplő kép Grandpierre Atilla [alábbi](https://web.archive.org/web/20241107160002/http://www.grandpierre.hu/site/2013/11/karacsony-es-vonzas-torvenye-oshagyomanyunk-teljesebb-megvilagitasban/) weboldaláról való, és nyilván a Monocérosz téli, karácsonyi állását (is) mutatja.  
 ![assets/Egyszarvúcsillagkep_image1.png|invert_light](/img/user/E/assets/Egyszarv%C3%BAcsillagkep_image1.png)  
 
 A 17. századi elnevezés és rajz azért igen félrevezető, mert a szarvat rosszul rajzolják. Gyárfás Ágnes [[G/Gula\|Gula]] címnél álló rajzán is a [[C/Cassiopeia\|Cassiopeiá]]hoz hasonló módon rajzolja meg a szarvat.  
