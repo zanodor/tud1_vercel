@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-04T04:55","updated":"2025-06-07T19:47"}
+{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-04T04:55","updated":"2025-07-12T00:30"}
 ---
 
 
@@ -152,7 +152,7 @@ Götz László Keleten kél a Nap című könyvének 216. oldalán szól arról,
 #### Schmidt Irén A magyarok és elődeik istenképe, találkozásuk a kereszténységgel a római térítés előtt 1-2....
 
 ...című az Ősi Gyökér 2011/2. és 3. sz. megjelent dolgozatában lábjegyzetben is kimondja:  
-> Önálló írással rendelkező nép semmiképpen nem nevezhető barbárnak! Egyébként a Thuróczy-Krónika első könyvéhez írt előszavában (és máshol is) konkrétan utal az Erdélyben használatos, fába rótt betűkre, írásra. (Thuróczy 1978: 14, 74-75) Rovásírásunk egészen a 18. századig fennmaradt, ma pedig ismét reneszánszát éli. Szégyen, hogy az 1999. évi Frankfurti Könyvvásáron – ahol Magyarország díszvendég volt – a németek rúna-ügyben vélelmezett állítólagos "politikai érzékenységére" való hivatkozással a szervezők nem engedték, hogy hazánk neve rovásírással is föl legyen írva kiállítási pavilonunkra. Úgy látszik, még ma sem kívánatos, hogy Európa kultúrahordozó népként ismerhessen meg bennünket! Friedrich: Ház a hídon. Elektronikus változat: http://www.magtudin.org/Friedrich-Szakács2/htm  
+> Önálló írással rendelkező nép semmiképpen nem nevezhető barbárnak! Egyébként a Thuróczy-Krónika első könyvéhez írt előszavában (és máshol is) konkrétan utal az Erdélyben használatos, fába rótt betűkre, írásra. (Thuróczy 1978: 14, 74-75) Rovásírásunk egészen a 18. századig fennmaradt, ma pedig ismét reneszánszát éli. Szégyen, hogy az 1999. évi Frankfurti Könyvvásáron – ahol Magyarország díszvendég volt – a németek rúna-ügyben vélelmezett állítólagos "politikai érzékenységére" való hivatkozással a szervezők nem engedték, hogy hazánk neve rovásírással is föl legyen írva kiállítási pavilonunkra. Úgy látszik, még ma sem kívánatos, hogy Európa kultúrahordozó népként ismerhessen meg bennünket! Friedrich: Ház a hídon. Elektronikus változat [itt](https://web.archive.org/web/20220419180521/https://www.magtudin.org/Friedrich%20-%20Szakacs%202.htm) található.  
 
 ## Lábjegyzetek
 
