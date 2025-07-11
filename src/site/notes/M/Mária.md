@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2025-06-08T01:10"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2025-07-12T00:26"}
 ---
 
 
@@ -242,7 +242,7 @@ Arról több helyen volt szó, hogy Máriát nyugaton Santa, Szent Máriának mo
 ## Zsidó volt-e Mária? – Anahita kultusz – Mária kultusz
 
 Badiny Jós Ferenc már megállapította, hogy Mária pártus eredetű volt.  
-[Ezen](https://sg.hu/forum/tema/1112391905?page=11) fórumon boleron nevű hozzászóló írja:  
+[Ezen](https://web.archive.org/web/20250707231432/https://sg.hu/forum/tema/1112391905?page=11) fórumon boleron nevű hozzászóló írja:  
 > Máriánál is kérdés a származás, hiszen rokona Erzsébet Lévi törzsbeli volt. Lentebb lesz még adata külön alcím alatt.  
 
 #### Nagyné dr. Fülöp Krisztina Mária előképei a legősibb kultúrákban...
@@ -262,7 +262,7 @@ Nagyné dr. Fülöp Krisztina cikkében még Badiny Jós Ferenc Jézus Király a
 
 Erről másutt bőven volt szó.  
 
-Az [ezen](https://sg.hu/forum/tema/1112391905?page=11) fórumon író, fentebb említett boleron nevű hozzászóló szerint:  
+Az [ezen](https://web.archive.org/web/20250707231432/https://sg.hu/forum/tema/1112391905?page=11) fórumon író, fentebb említett boleron nevű hozzászóló szerint:  
 > Mária szeplőtlen fogantatása egyiptomi történetre épül, hiszen ismert, hogy III. Amenthope anyját Mutemmát maga Ámon isten termékenyítette meg. Vagyis III. Amenthope szeplőtlen fogantatásból született.  
 
 ## Mária szemita megítélése
