@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2025-06-07T19:29"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2025-07-12T00:31"}
 ---
 
 
@@ -499,7 +499,11 @@ Az Ősi Gyökér 2013/3. számában Gyárfás Ágnes által Béka királykisassz
 Ismert a hun íjászok azon módszere, mely szerint menet közben, a lovon hátrafelé, amikor a ló négy lába a magasban volt, kellett lőniük (mindezt a megfelelő szögben és erővel, gondoljunk csak bele!). Erre vonatkozóan valahol valaki képábrázolással is hozott bizonyítékot, de meglepő, hogy – L. Kecskés András Etruszkok – Szabinok. Etruszk – magyarok? című az Ősi Gyökér 2011/4. sz. megjelent cikkében talált képi adat szerint – az etruszkoknál is találunk ilyen ábrázolást.  
 Angolul ezt így hívják: *Parthian shot*.  
 
-Mivel a hátrafelé nézés témájában a szarvas is ismert, nem lehet, hogy itt is évköri értelmezéssel kell (is lehet) számolni?  
+A [brentai csata](https://hu.wikipedia.org/wiki/Brenta_menti_csata) Wiki oldalán is találunk ilyen, magyarokra vonatkozó információként adott képi utalást:  
+![Íj és a nyíl_image20250711184432258.jpeg|invert_dark](/img/user/I/assets/%C3%8Dj%20%C3%A9s%20a%20ny%C3%ADl_image20250711184432258.jpeg)
+*Magyar harcos (10. század) az Aquileiai Patriarchátusból (freskó)*
+
+
 
 Lásd még [[N/Nyíl#Nyíl feltételezett nevei magyar és más szócsoportok szerint\|nyíl feltételezett nevei magyar és más szócsoportok szerint]] cím/alcímet.  
 
