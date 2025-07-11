@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mátyás/","title":"Mátyás","created":"2023-11-17T07:56","updated":"2024-10-25T23:23"}
+{"dg-publish":true,"permalink":"/M/Mátyás/","title":"Mátyás","created":"2023-11-17T07:56","updated":"2025-07-12T00:27"}
 ---
 
 
