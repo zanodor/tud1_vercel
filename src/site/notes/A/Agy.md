@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Agy/","title":"Agy","created":"2023-10-13T12:35","updated":"2025-03-25T20:52"}
+{"dg-publish":true,"permalink":"/A/Agy/","title":"Agy","created":"2023-10-13T12:35","updated":"2025-07-12T00:32"}
 ---
 
 
@@ -8,7 +8,7 @@
 Götz László Keleten kél a Nap című könyvének 487. oldalától tallózik olyan [[B/Budenz József\|Budenz József]] által finnugornak meghatározott szavakból, melyeket [[V/Vámbéry Ármin\|Vámbéry Ármin]] elemzett, majd a TeSz féle származtatásokat is megadja:  
 Oszt. `oñit`, vog. `ant` "szarv".  
 V.: csag `oj` "gondolat, ész".  
-TeSz: bizonytalan eredetű; talán ősi örökség a finnugor korból; vö. mord. `uj` "velő”; fi. `aivo` "halánték, agy". Más finnugor származtatása téves.
+TeSz: bizonytalan eredetű; talán ősi örökség a finnugor korból; vö. mord. `uj` "velő"; fi. `aivo` "halánték, agy". Más finnugor származtatása téves.
 
 #### Péterfai János írja:
 
@@ -20,7 +20,7 @@ TeSz: bizonytalan eredetű; talán ősi örökség a finnugor korból; vö. mord
 
 [[I/Isten\|Isten]] címszó bevezetője alapján az [[E/Egy\|egy]] (minden egy) alaki változata (is), de figyeljük meg, az angol [[M/Mind\|mind]] = elme is a mind(en) szavunkkal hozható kapcsolatba.  
 
-[Ezen](http://altaica.ru/LIBRARY/CLAUSON/Sumerian-Ural-Altaic-Affinities.pdf) cikkben mikor Zakar Andrásra hivatkozva a szerző megemlítette a mongol `eki(n)` = koponya, fej szót, rögtön az [[E/Ég\|ég]], égi, valamint az egy és agy szó ötlött fel. Szinte biztosan agy az [[E/Egy\|egy]] változata.  
+[Ezen](https://web.archive.org/web/20241112025720/https://altaica.ru/LIBRARY/CLAUSON/Clauson_On%20the%20Idea%20of%20Sumerian-Ural-Altaic%20Affinities%201973.pdf) cikkben mikor Zakar Andrásra hivatkozva a szerző megemlítette a mongol `eki(n)` = koponya, fej szót, rögtön az [[E/Ég\|ég]], égi, valamint az egy és agy szó ötlött fel. Szinte biztosan agy az [[E/Egy\|egy]] változata.  
 Lásd még mindenképp legutóbb [[H/Hagyma\|hagyma]] címnél írottakat is (ugyebár [[O/Onion\|onion]] = [[U/Union\|union]] = egy(ség)).  
 Lásd még [[A/AG\|AG]].  
 
