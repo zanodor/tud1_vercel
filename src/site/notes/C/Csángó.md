@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csángó/","title":"Csángó","created":"2025-03-25T22:48","updated":"2025-03-25T22:49"}
+{"dg-publish":true,"permalink":"/C/Csángó/","title":"Csángó","created":"2025-03-25T22:48","updated":"2025-07-12T00:30"}
 ---
 
 
