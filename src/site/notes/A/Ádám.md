@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ádám/","title":"Ádám","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-18T11:49","updated":"2025-06-07T18:45"}
+{"dg-publish":true,"permalink":"/A/Ádám/","title":"Ádám","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-18T11:49","updated":"2025-07-12T00:32"}
 ---
 
 
@@ -61,7 +61,7 @@ Bakos Attila A Duna Evangéliuma című könyvének 253. oldalán az [[A/Aton\|A
 > —  
 > "A guaránik a Mennyei Fa – a Pólus – csúcsán találkoztak újra Ádámmal, Atummal, Turnnal vagy Tamoi-val, aki onnan segítette őket a magasabb életbe való felemelkedésben. Az Élet Fája itt válik a halottak fájává, hogy a mennybe emelje őket. Így az algonkin mítoszban a halottak fája egyfajta lengő rönk volt, amelyen az elhunytak átkelhettek a folyón, mint a mélység hídján, amelyen túl a Kutya, mint a perzsa mítoszban, ott áll és várja a halottak lelkét, ahogyan a Kutya áll az egyiptomiak északi pólusán, és a déli napforduló fáján, a négy negyedig kiterjesztett pólus fáján ábrázolják".  
 
-[Ezen](https://sites.google.com/site/okoriidovonal/hires-szemelyek/adam-es-eva) oldal adatsora:  
+[Ezen](https://web.archive.org/web/20201027101013/https://sites.google.com/site/okoriidovonal/hires-szemelyek/adam-es-eva) oldal adatsora:  
 > A héber Adam név eredete a sumer nyelv "atyám" jelentésű [[A/Adapa\|Adapa]] szava lehetett, amely egyben egy sumer mitológiai alak neve is volt. (Lásd a bibliai történet irodalmi előzményének is tekinthető [[A/Adapa\|Adapa]]-eposzt!)  
 > A héber és az arab nyelvben az `adam` szó egyben "embert", "földből valót" és "vörös színűt" is jelent. A Közel-Kelet ősi kultúráiban úgy gondolták, hogy az embereket a föld anyagából készítették, így a "vörös föld" számukra az emberi fajra általánosságban is utalt. Az arabból a török nyelvekbe is átkerült az Adam név és "ember" jelentése, kazah nyelven például `adamshylyk` "emberiség"-et jelent.  
 > A Sibylline Oracles című műben viszont az Ádám név egy notarikon ami a négy irányának a kezdőbetűjéből áll: `anatolé` (kelet), `düszisz` (nyugat), `arktosz` (észak) és `meszembria` (dél).  
