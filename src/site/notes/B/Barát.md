@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2025-07-12T00:31"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-31T06:45","updated":"2025-07-14T17:43"}
 ---
 
 
@@ -32,18 +32,20 @@ Aztán ott van a [[P/Pártus\|pártus]] címnél előjövő elnevezés (Parathas
 > \[...\]  
 > [[M/Mleccha\|Mleccha]] was substratum language of `bharatiyo` (casters of metal) many of whom lived in dvīpa (land between two rivers – Sindhu and Sarasvati – or islands on Gulf of Kutch, Gulf of Khambat, Makran coast and along the Persian Gulf region of Meluhha).  
 > —  
-> Az aszuráknak a nap imádatával való összekapcsolása összhangban van a mezopotámiai feljegyzésekkel, amelyek szerint az aszurák napimádók voltak. Mind az `asur`, mind az `assur` fémművesek. Mindkettő a Rigvédában említett bhāratam janam (RV 3.53.1: viśvāmitrasya rakṣati brahmedam bhāratam janam). `Bharata` = fémek öntése öntőformába; `bharavum` = kitölteni; beletenni; beleönteni (gudzsarati) bengáli.  
+> Az aszuráknak a nap imádatával való összekapcsolása összhangban van a mezopotámiai feljegyzésekkel, amelyek szerint az aszurák napimádók voltak. Mind az `asur`, mind az `assur` fémművesek. Mindkettő a Rigvédában említett bhāratam janam (RV 3.53.1: viśvāmitrasya rakṣati brahmedam bhāratam janam). `Bharata` = fémek öntése öntőformába; `bharavum` = kitölteni; beletenni; beleönteni a gudzsaráti/bengáli nyelvekben\[?\].  
 > \[...\]  
 > [[M/Mleccha\|Mleccha]] a `bharatiyo` (fémöntők) szubsztrátum nyelve volt, akik közül sokan a dvīpa (két folyó - Sindhu és Sarasvati - közötti földterület vagy a Kutch-öböl, a Khambat-öböl, Makran partvidéke és a Perzsa-öböl Meluhha régiója mentén fekvő szigetek) területén éltek.  
-- Ezen `bharatiyo`-hoz hasonló kifejezést, `bharatiya`-t használ a népek gyűjtőneveként is és ilyen név szerepel egy lexikális glossza az internetről is letölthető [An Indian Lexicon – Comparative Dictionary of 25+ ancient Bharatiya languages](https://mega.nz/file/guN0GCJb#ZFJu-akxj5m6vGPthpSvw_9Z9yguaHnahV57IxQXpAI) című kiadvány címében. <br/>
-Egy másik, szintén letölthető Processions of hieroglyphs are classifiers of metalwork of Indus Script artisans című dolgozatában viszont (a milyen nyelvű?) `barad`, `barat` = ökör jelentéssel megadott de megadja a marathi nyelvű `bharata` = rézötvözet, cin jelentést is (rébuszként).  
+- Ezen `bharatiyo`-hoz hasonló ill. azzal azonos kifejezést, `bharatiya`-t használ a népek gyűjtőneveként is és ilyen név szerepel egy lexikális glossza az internetről is letölthető [An Indian Lexicon – Comparative Dictionary of 25+ ancient Bharatiya languages](https://mega.nz/file/guN0GCJb#ZFJu-akxj5m6vGPthpSvw_9Z9yguaHnahV57IxQXpAI) című kiadvány címében. <br/>
+Egy másik, szintén letölthető Processions of hieroglyphs are classifiers of metalwork of Indus Script artisans című dolgozatában viszont (a milyen nyelvű?) `barad`, `barat` = ökör jelentéssel megadott, de hoz egy marathi nyelvű `bharata` = rézötvözet, cin jelentést is (rébuszként).  
 
 A fentiek alapján is valószínű, hogy az ...
 
 #### Acharia S Suns of God...
 
 ...című könyvében előjövő Bharat/Barát ezen fémműves szaka/szkíta népek neve volt, honnan az indo-szkíta befolyás révén bizonyos (északi) terület ilyen nevet is kapott:  
-Bharat-ot Acharia S (mely forrás alapján?) India eredeti-bennszülött nevének tartja (és maga is [[B/Britain\|Britain]] nevéhez hasonlítja); tény, hogy...
+Bharat-ot Acharia S (mely forrás alapján?) India eredeti-bennszülött nevének tartja (és maga is [[B/Britain\|Britain]] nevéhez hasonlítja).  
+
+Tény, hogy...
 
 #### William F. Warren Paradise Found...
 
@@ -54,15 +56,23 @@ Bharat-ot Acharia S (mely forrás alapján?) India eredeti-bennszülött nevéne
 > ![assets/Barát_image1.png|invert_dark](/img/user/B/assets/Bar%C3%A1t_image1.png){ #rhwol}
 
 
-Bakos Attila A Duna Evangéliuma című könyvének 273. oldalán azt írja, hogy még ma is Baratának hívják országukat a hinduk! Ez lehet, hogy így nem pontos, ugyanis a Quorán ezen (If Tamil is the oldest language in the world, then why doesn't it contain any name for our country? In Sanskrit, we call it "Bharat") kérdésre adott válaszok között szemezgetve az látszik kiderülni, hogy ez a szanszkrit neve (bár a hindu és a szanszkrit nem zárja ki egymást) és a tamilban is megvan. [Ezen](https://qr.ae/pNsxli) válaszban Mohan nevű válaszadó például az érdekes Bharathavar nevet is említi, mely tamil nyelven (hozzákapcsolt) tengerész, halászó jelentésekkel áll. Ez megint azt bizonyítja, hogy a tamil csak átvette a szanszkrit szót, hiszen a tamilok, ahogy többen jól rámutattak, dél-indiaiak, míg a barathák észak-indiaiak voltak. Ez összevág Aradi Éva kutatásaival is.  
+Bakos Attila A Duna Evangéliuma című könyvének 273. oldalán azt írja, hogy még ma is Baratának hívják országukat a hinduk! Ez lehet, hogy így nem pontos, ugyanis a Quorán ezen (If Tamil is the oldest language in the world, then why doesn't it contain any name for our country? In Sanskrit, we call it "Bharat") kérdésre adott válaszok között szemezgetve az látszik kiderülni, hogy ez a szanszkrit neve (bár a hindu és a szanszkrit nem zárja ki egymást) és a tamilban is megvan. [Ezen](https://qr.ae/pNsxli) válaszban Mohan nevű válaszadó például az érdekes **Bharathavar** nevet is említi, mely tamil nyelven (hozzákapcsolt) "tengerész", "halászó" jelentésekkel áll. Ez megint azt bizonyítja, hogy a tamil csak átvette a szanszkrit szót, hiszen a tamilok, ahogy többen jól rámutattak, dél-indiaiak, míg a barathák észak-indiaiak voltak. Ez összevág Aradi Éva kutatásaival is.  
 
 A görögök előtti(?) szanszkrit forrásokban a [[P/Pártus\|pártus]]ok neve **Parāthas**, mely szintén barát szavunkat idézi.  
 
 #### David Gordon White írja:
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/I/India/#l9v6f2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
 > Here, for the time period that concerns us (3rd century B.C. to 6th century A.D.), India's great North passed through the hands of no less than five different peoples or empires. These were the Parthians (Sanskrit: Parâthas), Bactrian Greeks (Yâvanas \[Ionians?\]), Indo-Scythians (Sakas), Tocharians (Kushanas, Tukharas), and Ephthalite Huns (Hūnas).  
 > —  
-> Itt, a minket érintő időszakban (Kr. e. 3. századtól a Kr. u. 6. századig) India nagy északi része nem kevesebb, mint öt különböző nép vagy birodalom kezén ment keresztül. Ezek voltak a parthusok (szanszkritul: Parâthas), a baktriai görögök (Yâvanas \[jónok?\]), az indo-szkíták (Sakas), a tochariak (Kushanas, Tukharas) és a hefthalita hunok (Hūnas).  
+> Itt, a minket érintő időszakban (Kr. e. 3. századtól a Kr. u. 6. századig) India nagy északi része nem kevesebb, mint öt különböző nép vagy birodalom kezén ment keresztül. Ezek voltak a pártusok (szanszkritul: parâthák), a baktriai görögök (jâvanák \[jónok?\]), az indo-szkíták (szakák), a tochariak (kusánok, tukarák) és a hefthalita hunok (hūnák). 
+
+</div></div>
+
 
 Az indonéz és maláj nyelven `barat` = nyugat, mely utalhat arra, merre helyezkedett el a földség, ahol ők laktak; vö. ezen a nyelveken `timur` = kelet (de az arab nyelvben is az égtájak megnevezései hasonlóan működnek).  
 
