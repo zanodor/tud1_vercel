@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Y/Yew/","title":"Yew","created":"2023-10-29T02:36","updated":"2024-10-26T00:52"}
+{"dg-publish":true,"permalink":"/Y/Yew/","title":"Yew","created":"2023-10-29T02:36","updated":"2025-07-14T17:46"}
 ---
 
 
@@ -11,6 +11,7 @@
 
 Előjött Jankovics Marcell A fa mitológiája című könyvében, a Robert Graves által rekonstruált kelta-brit [[O/Ogham\|Ogham]] faábécé/naptár utólagosan említett I betűjénél, mely december 23-át jelzi és a kelta `idho`[^1] = tiszafa név kezdőbetűje.  
 Éppúgy az ív, azaz íj értelmét kell látni benne, mint a tiszafa [[T/Toxic\|toxic]] szónál előjött latin nevénél, `taxus baccata`-nál: azzal kapcsolatosan is az szerepelt, hogy íjakat készítettek belőle.  
+- [[A/Arc#Arc 2)\|Arc]] eredete kapcsán felvetődött ugyanígy boróka.
 
 Minden továbbit lásd [[T/Tiszafa\|tiszafa]].  
 
