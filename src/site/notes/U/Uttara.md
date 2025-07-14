@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Uttara/","title":"Uttara","tags":["Englishtexttranslated"],"created":"2023-10-17T08:05","updated":"2025-07-12T00:26"}
+{"dg-publish":true,"permalink":"/U/Uttara/","title":"Uttara","tags":["Englishtexttranslated"],"created":"2023-10-17T08:05","updated":"2025-07-14T17:46"}
 ---
 
 
@@ -10,7 +10,7 @@
 Wiki oldala:  
 [https://en.wikipedia.org/wiki/Uttar%C4%81](https://en.wikipedia.org/wiki/Uttar%C4%81)
 
-#### René Guenon írja:  
+#### René Guénon írja:  
 
 > In Sanskrit the North is called Uttara, i.e. the highest region; the South is called Dakshina, the region to the right, i.e. the one which is on one's right in turning to the East; the ascending march of the Sun towards the North, beginning with the winter solstice and terminating at the summer solstice, is called [[U/Uttarayana\|Uttarayana]]; the descending march of the Sun towards the South, beginning with the summer solstice and ending at the winter solstice, is called Dakshinayana.  
 > —  

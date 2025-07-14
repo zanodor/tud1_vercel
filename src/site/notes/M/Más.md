@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Más/","title":"Más","tags":["Englishtexttranslated"],"created":"2025-05-29T22:51","updated":"2025-06-09T15:20"}
+{"dg-publish":true,"permalink":"/M/Más/","title":"Más","tags":["Englishtexttranslated"],"created":"2025-05-29T22:51","updated":"2025-07-14T17:48"}
 ---
 
 
@@ -157,7 +157,7 @@ Ahhoz, hogy a más szó kialakulhasson, vagy most egyáltalán értelmezhetővé
 Aztán idővel elég lett volna idővel egy orrhangot betenni és a végződést levenni, hogy a manus/mans formát kapjuk.  
 
 Igaz ugyan, hogy minket jelenleg nem az indo-európai embert jelentő szó kialakulása érdekel, mely eleve később zajlott le, de az idegen nyelvek és szavainak jelentései mindig ötletet adnak a fogalmak keveredése okainak tisztázásása révén az eredeti szóalakok kialakulása módjaira.  
-Az is igaz egyben, hogy a magyar nyelv egyes szavainak kialakulási ideje sem azonos, mert több rétegből tevődik össze az alapszókincs.  
+Az is igaz egyben, hogy a magyar nyelv egyes szavainak kialakulási ideje sem azonos, mert több rétegből tevődik össze a modern magyar nyelv szókincse.  
 
 Segítségünkre vannak más nyelvcsaládok(ba sorolt) szavai:  
 Ezek szerint a sumer-akkád [[M/MAS\|MAS]] = Iker jelentésű is kellett legyen, ha az asszír Mas-Mas = Ikreket jelentett (a régi többes, azaz előbb az ún. "kettes" szám úgy indult ki, hogy a szótagot kettőzték; lásd [[S/Szótagkettőzés\|szótagkettőzés]]; nyilván ebből a MAS-ból lett aztán a többesszám kifejezésére használt [[M/MES\|MES]]); a két fél itt válik el illetve (alapesetben az embereknél is) két ikertag van (hármas- és egyéb ember-ikrek itt most számunkra nem érdekesek).  

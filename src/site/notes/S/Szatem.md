@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szatem/","title":"Szatem","created":"2024-11-05T19:17","updated":"2025-05-29T14:32"}
+{"dg-publish":true,"permalink":"/S/Szatem/","title":"Szatem","created":"2024-11-05T19:17","updated":"2025-07-14T17:46"}
 ---
 
 
@@ -22,7 +22,22 @@ Azt Péterfai János külön nem említi itt, hogy a latin `centum` = száz és 
 Írja, hogy a satem és a kentum alakok szoros szemantikai összefüggésben álló szavakban egy nyelven belül egyidejűleg is megtalálhatók.  
 Arról másutt is volt szó hogy az alapszavakhoz képest alakváltozatokkal rokon értelmű szavakat alkotnak ki a magyaron kívül más nyelvek is.  
 Említi illetve példákkal bemutatja hogy a szemita, sőt, a szumer nyelv jellegzetessége is volt.  
-![assets/Szatemkentum_image1.png|invert_dark](/img/user/S/assets/Szatemkentum_image1.png)  
+
+> | Héber |                                  | Akkád   |                  | Szumér |                    |
+> | ----- | -------------------------------- | ------- | ---------------- | ------ | ------------------ |
+> | H-R-T | (bevág)                          | HARÂM-u | (levág)          | ḪAR    | (bekarcol, rajzol) |
+> |       |                                  |         |                  | GUR₂   | (szétvág)          |
+> | H-R-B | (kés)                            | KARÂT-u | (levés)          | ḪAR₁₀  | (arat)             |
+> |       |                                  | ḪARÂP-u | (arat)           | GIR₂   | (ragyog)           |
+> | H-R-M | (hasít)                          |         |                  |        |                    |
+> | Š-R-T | (csorba, horzsolás);             | ŠARÂM-u | (levág, megnyes) | SAR    | (ír)               |
+> |       | vö. ném *Scharte* (csorba)       | ŠURT-u  | (kés)            | ŠAR    | (levág)            |
+> | Š-R-F | (éles); vö. ném. *scharf* (éles) | SIRAP-u | (olló)           | ŠIR₂   | (levág)            |
+> |       |                                  |         |                  | ŠUR    | (ragyog)           |
+> | Š-R-M | (karcolás); vö. német *Schramme* |         |                  |        |                    |
+> 
+> Tehát a szemita nyelvekben, sőt a szumérban is megtaláljuk a kentum és a satem hangalakú változatokat – mégpedig ugyanazon nyelveken belül – szoros szemantikai összefüggésben álló szavak fonetikai megkülönböztetése vagy szinonimák képzésére. Még ennél is feltűnőbb azonban, hogy a bemutatott indogermán, szemita és szumér szavak kétségkívül egymás között is szoros jelentésbeli és hangalaki összefüggéseket mutatnak.  
+
 Azt viszont hangsúlyozza, hogy itt tendenciák vannak nem külön kentum és szatem nyelvek és tájnyelvi eltérések mutatkoznak jelentésátmenetekkel is melyekre táblázatos formában példákat közöl.  
 Végkövetkeztetése, hogy a különféle nyelvek a "satem-kentum" hangátmenetet jelentéstanilag alkalmazzák tehát ezek sem időbeli "hangfejlődés" jelei.  
 Majd könyve 185-188. oldalán táblázatos adatokkal mutatja be a magyar-sumer/IE/szemita párhuzamokat szavak kentumos és szatemes változataival. Ahogy írja:  
