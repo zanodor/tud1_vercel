@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2024-10-22T18:09"}
+{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2025-07-14T17:47"}
 ---
 
 
@@ -91,7 +91,7 @@ RFL - Remete Farkas László
 RG - Robert Graves  
 RHA - Richard Hinckley Allen  
 RL - René Labat  
-RNG - René Guenon
+RNG - René Guénon
 RT - Robert Temple  
 SSO - Soproni Svetlik Ottó  
 SZL - Szántai Lajos  
