@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-07-12T00:32"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-07-14T17:48"}
 ---
 
 
@@ -540,7 +540,7 @@ Az ember ha lefejti a túlbonyolított mitológiákat, rájön, hogy viszonylag 
 
 #### Mit ér a tudás, ha nincs benne magyar tudás?
 
-Több helyen volt arról szó, hogy az indo-európai (és őket majmoló) kutatók (akár magyarok és nem MTA-sok is) (csak) adatgyűjtésre jók, de a (vég)következtetéseket nem szabad levonniuk. Csak egy érdekességet ide a nagytudású René Guenontól, aki [[N/Navel\|navel]] címnél teljesen körüljárja a Nap fogalmát, de mivel viszont magyarul nem tud, nem igazán jut dűlőre:  
+Több helyen volt arról szó, hogy az indo-európai (és őket majmoló) kutatók (akár magyarok és nem MTA-sok is) (csak) adatgyűjtésre jók, de a (vég)következtetéseket nem szabad levonniuk. Csak egy érdekességet ide a nagytudású René Guénontól, aki [[N/Navel\|navel]] címnél teljesen körüljárja a Nap fogalmát, de mivel viszont magyarul nem tud, nem igazán jut dűlőre:  
 In Greek, [[O/Omphalos\|Omphalos]] signifies 'umbilical', but in a general sense describes everything that is central, and in particular the hub of a wheel. The Sanskrit `nabhi` has the same connotations, as do various words in the Germanic and Celtic languages derived from the same root \[írja ezt úgy, mintha a [[K/Kelta\|kelta]] indo-germán nyelv lenne\], found in the forms 'nab' and 'nav'. In Gaelic, 'nav' or 'naf', which is plainly identical with these, carries the sense of 'chief' \[főség mindig Napnevekből áll\] and is even applied to God \[Napisten\]; so it is indeed the idea of a central \[központi csillagunk, a Nap\] Principal that is being expressed. The meaning of 'hub' is particularly important to this issue as the wheel \[kerék: Napjelkép\] universally symbolizes the world rotating around a fixed point - a symbolism also associated with the [[S/Swastika\|swastika]] \[[[Napjelkép\|[Napjelkép]]\]. In the latter, however, the circumference is not delineated in order to give an immediate indication of the centre: the swastika is not an image of the World, but of the action of the Principle in relation to the World.  
 
 Ki tudja hány ehhez hasonló meddő iromány és ezeknél még sokkal rosszabb és félrevezető írás született meg a tudományok rongálására...  
