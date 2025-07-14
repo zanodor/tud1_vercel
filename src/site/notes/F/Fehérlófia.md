@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehérlófia/","title":"Fehérlófia","created":"2024-12-18T08:01","updated":"2024-12-18T08:01"}
+{"dg-publish":true,"permalink":"/F/Fehérlófia/","title":"Fehérlófia","created":"2024-12-18T08:01","updated":"2025-07-14T17:43"}
 ---
 
 
@@ -32,6 +32,8 @@ A három erős hős lehet az Orion három övcsillaga, ahogy erről volt már sz
 Az alvilág és felvilág a téli napforduló előtti és utáni téridőbeli helyre utal. Konkrétan, ahogy [[F/Fa#Kidöntött fa, kitépett fa, fanyűvés, Tejútfa csavarodása\|kidöntött fa, kitépett fa, fanyűvés, Tejútfa csavarodása]] cím/alcímnél is írtuk, a Koponyányi Monyók által kitépett fa a Tejútfa, mely égi elhelyezkedését tekintve, ha a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]re merőleges Halál-tengellyel, a [[S/Szűz-Halak tengely\|Szűz-Halak tengelly]]el azonosítjuk, akkor azt mondhatjuk, hogy a Szűzzel kezdődő ősz évszakba léptünk a mesében akkor, amikor KM lemenekül az alvilágba.  
 Onnan fog majd Fehérlófia felkerülni a felvilágba, az újjászületéssel, ahol a griffek Turulra utalóak és a visszaragasztott testrészek és a megújult erő a Nap erejének növekedésére utalnak. ([[F/Feldarabolás\|Feldarabolás]] címhez is bekerült.)  
 
+A griffről lásd [[S/Sas#Kétfejű sas\|kétfejű sas]] témát, ahol erre a mesére is kitértünk.  
+
 A Fehérlófia típusú mesékbe tartozó, Gyárfás Ágnes által elemzett [[F/Fadöntő mese\|Fadöntő mesé]]t maga is a precessziós Nagy Éves időkörben vizsgálta.  
 
 Fehérlóra illetve Fejérlóra való utaló név lehet a germán mitológia Freya/[[F/Freyja\|Freyja]] neve is.  (De maga a [[F/Folyó\|folyó]] szavunk is viheti a Fő-Ló értelmet!)  
@@ -43,7 +45,7 @@ Ami Péterfai János Fehérlónak hímségi megfeleltetését illeti, nyilván M
 #### Magyar Adorján Kérdések...  
 
 ...című könyvéből származó anyaga [[N/Numen\|numen]] címnél szerepelt (ott több is):  
-> Nos, nemzeti hagyományunk szerint Hunor és Magyar atyja nem Nimródnak neveztetik-e? Sőt, mi már ősnyelvünk egytagú szavai megfordítása törvényét ismervén, azonnal érteni fogjuk azt is, hogy Nimród neve miért fordul elő még Menrót változatban is, (num, nim-men) valamint azonnal észre vesszük azt is, hogy a név második szótagja a rod vagy rot sem más, mint a Numitor, vagy a Numi tárom tor vagy tár szótagja fordított alakja. Megjegyzendő pedig, hogy ezen vogul num[^3] vagy numi szó megfordítása a mi menny szavunkat képezi, amely szó pedig a felső és magasságbeli értelmeket szintén magában foglalja, sőt, a [[M/Mén\|mén]] szavunk, mint hímséget, s így apaságot jelentő szavunk a Menrót névben szintén felismerhető. (Lásd még: Fehérlófia.)  
+> Nos, nemzeti hagyományunk szerint Hunor és Magyar atyja nem Nimródnak neveztetik-e? Sőt, mi már ősnyelvünk egytagú szavai megfordítása törvényét ismervén, azonnal érteni fogjuk azt is, hogy Nimród neve miért fordul elő még Menrót változatban is, (num, nim-men) valamint azonnal észre vesszük azt is, hogy a név második szótagja a rod vagy rot sem más, mint a Numitor, vagy a Numi tárom tor vagy tár szótagja fordított alakja. Megjegyzendő pedig, hogy ezen vogul `num`[^3] vagy `numi` szó megfordítása a mi `menny` szavunkat képezi, amely szó pedig a felső és magasságbeli értelmeket szintén magában foglalja, sőt, a [[M/Mén\|mén]] szavunk, mint hímséget, s így apaságot jelentő szavunk a Menrót névben szintén felismerhető. (Lásd még: Fehérlófia.)  
 - Magyar Adorján [[S/Sika\|sika]] címnél álló adathalmazában is szó van női és hímségi (csak még nem ló hanem) szarvasról. A Magyar Adorján saját bevallása szerint az ősmagyar mitológiát jól ismerő Magyar Adorján szerint a nőstényszarvas a pettyekkel a Tejútanya és fiában, a Napban is szarvast láttak. Ez mondjuk [[C/Cernunnos\|Cernunnos]] címnél írottak szerint ülhetne is.
 
 Azt láttuk, hogy a Tejútanyából több mitológia (Anu > [[A/Anu\|Anu]]; [[D/Danu\|Danu]] > [[D/Dôn\|Dôn]]/Donnus; [[E/Éva\|Éva]] > [[J/Jahve\|Jahve]]) hímségit csinált. Talán a patriarchális hunoknak köszönhető, hogy Fehérlóból ők is hímségit csináltak vagy lehet egyszerűen – egyfajta kompromisszumként – [[A/Androgün\|androgün]]nek mondani? (A [[J/Jehova\|Jehova]] név J-H-V váza is a nem nélküliségre utalhatna. [[A/Animal\|Animal]] címnél pedig Péterfai János írta, hogy annyit jelentene, hogy nincs neme...)  
