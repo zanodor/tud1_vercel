@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2024-10-25T23:48"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2025-07-14T17:45"}
 ---
 
 
@@ -91,7 +91,7 @@ John Major Jenkins Galactic Alignment c. könyvének 33.oldalán (más kapcsán)
 > We shall see in the Old World's cosmological shift from a polar to a solar orientation, the seven stars of the Big Dipper were mapped (or conceptually relocated) to the seven stars of the Pleiades. The underlying meaning here is that the Pleiades, like the Big Dipper, are the head point of a world-centering axis, with the astronomical reference for the Pleiades, though approximate, being to the Galactic Anticenter. Obviously, the other end of this axis is rooted in the Galactic Center.  
 > —  
 > Látni fogjuk, hogy az Óvilág kozmológiai eltolódása során a sarki tájolásról a szolárisra való áttérés során a Nagy Medve hét csillagát a Plejádok hét csillagához képezték le (vagy helyezték át fogalmilag). Ennek az a mögöttes jelentése, hogy a Plejádok, akárcsak a Nagy Medve, egy világközpontú tengely főpontja, a Plejádok csillagászati vonatkozása pedig, bár közelítőleg, a Galaktikus Anticentrumra vonatkozik. Nyilvánvaló, hogy e tengely másik vége a Tejútközpontban gyökerezik.
-- A témáról René Guenon és John M. Jenkins tolmácsolásában lásd bővebben [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]].
+- A témáról René Guénon és John M. Jenkins tolmácsolásában lásd bővebben [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]].
 
 Könyvének 39. oldalán írja [[C/Chichen Itza\|Chichen Itza]] északi templomáról szólva, hogy a Sarkcsillag(ban összpontosuló sarki központ: köldök, mint Visnu köldöke, amely viszont a védikus asztrológiában a Tejútközpontot jelenti) a déli meridánon áthaladó Tejútközponttal állítható szembe:  
 > Here, because of the North Temple's orientation as viewed from the ball-court, it seems to represent the North Celestial Pole, around which all the stars are observed to revolve. Recall that the polar center counterposes the Galactic Center as it passes through the southern meridian.  
@@ -106,7 +106,7 @@ Varsa Mátyás némiképp másképp gondolja (de nem teljesen rosszul):
 Talán a fenti sorokhoz jól párosítható egy William Brown nevű blogger/kutató anyaga, mely [[S/Szíriusz és a naprendszer\|Szíriusz és a naprendszer]] címnél is szerepelt. Ugyan a Medve/Göncöl itt nem szerepel, de mint tudjuk, a Nap is az Ursa Maior csoport része, valamint vele a [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] is kapcsolatban állnak. Nem akármit állít:  
 A Föld kering a Nap körül, mely a Szíriusz körül, mely az [[A/Alcyone\|Alcyone]] körül, mely pedig a Tejútrendszer középpontja körül kering. Olyan természetességgel írja le, mintha köztudomású lenne, s mint ahogy állítja, régen az is volt:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/a/alcyone/#awqiu5" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A/Alcyone/#awqiu5" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -167,7 +167,7 @@ A Fiastyúk kapcsán visszautalhatunk még a kilenc agancsos táltosra is, hisze
 > A görögöknél Maia a pleiászok egyik csillaga volt, Zeusz szeretője, és a főistennel együtt töltött éjszakák eredményeként Hermész (latin Mercurius) anyja. Ez a planétaistenfi az asztrológia májusi Ikrek jegyében van "otthon". (Általánosságban elmondható, hogy a 7 pleiászt, a Pleiades 7 csillagát a görögök – de mások is – kapcsolatba hozták a [[H/Hét bolygó\|hét bolygó]]val. Ennek nemcsak az volt az oka, hogy a csillagzat szabad szemmel látható csillagainak a száma megegyezett a szabad szemmel látható planétákéval, hanem a helye is: a Nap, a Hold és a bolygók rendszeresen áthaladnak rajta.)  
 - Lásd még említve [[H/Háló csillagzat\|Háló csillagzat]].
 
-A John M. Jenkins és Rene Guenon által több helyen is említett Nagy Medve – Pleiadok kapcsolatát látjuk a Varga Zsigmond Az ősmagyar mitológia című könyvében szereplő burját mondában, miszerint:  
+A John M. Jenkins és René Guénon által több helyen is említett Nagy Medve – Pleiadok kapcsolatát látjuk a Varga Zsigmond Az ősmagyar mitológia című könyvében szereplő burját mondában, miszerint:  
 > A Nagy Medve csillagai ellopták u.i. a Plejádoktól az Alcort, a legkisebb csillagot, így lett az eredetileg hét csillagot számláló plejádok száma hat \[csillagot számláló\] csillagkép. A Plejádok üldözik őket, de sohasem tudják beérni.  
 
 #### Michel-Gerald Boutet Druidical Astrology...
