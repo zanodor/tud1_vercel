@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gyógyít/","title":"Gyógyít","created":"2024-05-14T14:04","updated":"2024-10-25T19:10"}
+{"dg-publish":true,"permalink":"/G/Gyógyít/","title":"Gyógyít","created":"2024-05-14T14:04","updated":"2025-07-16T14:26"}
 ---
 
 
@@ -40,6 +40,8 @@ https://www.waronwethepeople.com/roels-world/
 > A születő félben levő, információs medicinában is találunk példát. Erich Körbler (1938. 05. 13. - 1994. 03. 02.), bécsi rezonancia, természetgyógyász-kutató, fizikus kimutatta, hogy bizonyos formák hatással vannak életünkre. Felismerte az ősi mágusok tudását, a formák, színek, hangok fizikai hatásmechanizmusát, és bebizonyította, hogy ezek a jelek megváltoztatják a bioenergetikai mező (aura) tulajdonságait – a jelek, antennaként működnek. Tény, hogy a jelgyógyászat évezredekre nyúlik vissza. A kutató abból indult ki, hogy egyes természeti népek aktívan rajzolták a jelet a homlokra, ill. fejpántra, majd ezzel gyógyították a beteget. Így az "Y" például a homlok közepére rajzolva a gondolkodást stabilizálhatja – emésztési rendellenességeket, fejfájást csillapít.  
 
 ## Betegség és gyógyítása – alapvető tudnivalók
+
+Oláh Andor szerint a gyógyulás önhipnózis eredménye, írja Jankovics Marcell.  
 
 Dr. Dobos Vadim háziorvos alábbi sorait Kubínyi Tamás egy 2021. novemberi adásában olvasta fel:  
 > Több éve dolgozom háziorvosként és biztosan állítom, hogy hőemelkedéssel vagy lázzal, gyengeséggel vagy izom- és végtagfájdalmakkal, orrfolyással vagy hasmenéssel, köhögéssel vagy hányingerrel, stb. járó fertőző betegségek az év minden hónapjában nagy számban előfordultak a K.ØVID járvány előtt is. Az idén sincs ez másképp. A különbség csak annyi, hogy a KØ.VID hisztéria előtt a lakosság a tünetek súlyosságának megfelelően tudta kezelni ezeket a fertőző betegségeket. A valódi vírus helyzet és annak megoldása az idén is ugyanolyan, mint tavaly vagy 10 évvel ezelőtt volt. Ennek tisztázásában szeretnék segíteni a gondolkodni hajlandó lakosoknak.  
