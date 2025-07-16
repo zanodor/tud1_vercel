@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Napfolt/","title":"Napfolt","tags":["containstransclusions"],"created":"2024-05-01T14:50","updated":"2025-03-13T03:39"}
+{"dg-publish":true,"permalink":"/N/Napfolt/","title":"Napfolt","tags":["containstransclusions"],"created":"2024-05-01T14:50","updated":"2025-07-16T14:25"}
 ---
 
 
@@ -21,7 +21,7 @@ A Jankovics Marcell könyvében folytatódó oknyomozás ...
 
 ...olyan adatával is kiegészül, mely a Ray Tomes által ismertetett ún. [[C/COM hypothesis\|COM hipotézis]]t is látszik említeni:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/c/com-hypothesis/#z2h6a" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/C/COM hypothesis/#z2h6a" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
