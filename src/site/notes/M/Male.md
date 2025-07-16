@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Male/","title":"Male","tags":["containstransclusions"],"created":"2025-05-29T22:50","updated":"2025-06-20T23:36"}
+{"dg-publish":true,"permalink":"/M/Male/","title":"Male","tags":["containstransclusions"],"created":"2025-05-29T22:50","updated":"2025-07-16T14:27"}
 ---
 
 
@@ -34,7 +34,7 @@ Azaz a szó a magyar-sumér-sémi vonalon érkezett volna hős jelentéssel, ame
 A hímségi és nőiségi fogalmak tehát alaposan keverednek, ahogy [[M/Mars\|Mars]] nevében is. De már az alapkiinduló [[H/Hunor és Magor\|Hunor és Magor]] (mely a germánoknál [[A/Ászok és Vánok\|Ászok és Vánok]], indeknél [[D/Dévák és Aszúrák\|Dévák és Aszúrák]], később, a perzsáknál, Firdauszinál [[I/Irán és Turán\|Irán és Turán]]) ikerpárosban is fellelhető a zavar. Mivel a magyarok vallásos jelképe a kör és a hunoké az ék, a magyaroknak kell szükségszerűen a nőiségnek lenni és a hunoknak a hímséginek. Ugyanakkor a [[M/Mag és héj\|mag és héj]] elméletben a hun a burok, a test, az anyag, a magyar a szellem, az erőny. Mintha azt hámozhatnánk ki mindebből, hogy az adott korok (értsd csillagvallás és Aranykor versus Nap- és modern monoteista vallások és Vaskor) határoznák meg, melyik nem milyen előjelű. A matri- és patriarchális társadalmak kialakulása is ide vezethető vissza. Az alapkiindulás persze egyenlőség, ikerviszony (Hunor és Magor ikrek, Nimrud öve tájékából nemzve) és androgyneia. De olyan messzire vissza kell-e mennünk..  
 
 Arról másutt is volt szó, hogy a latin eredetet nem kell mindig kőbe vésettnek tekinteni, hiszen a franciáknak/galloknak és a (cambro-)britonoknak/angoloknak is volt saját, magyar nyelvre épülő nyelvük. Hogy ez a male, mál, málé alakú szó pontosan mi lehetett, erről még korábban ezt írtam:  
-Mivel a mén és hím szavak ([[M/Men\|men]], [[M/Man\|man]] és [[H/Him\|him]]) szavak elkeltek, de a lóhoz köthetőnek vélhetjük e szót is, a málhásló mál gyöke lehet a megoldás. A hímek nagyobb teherbírásúak, jobb fizikai adottságúak. A mál gyököt CzF szótár részletezi.   
+Mivel a mén és hím szavak ([[M/Men\|men]], [[M/Man\|man]] és [[H/Hím\|hím]]) szavak elkeltek, de a lóhoz köthetőnek vélhetjük e szót is, a málhásló mál gyöke lehet a megoldás. A hímek nagyobb teherbírásúak, jobb fizikai adottságúak. A mál gyököt CzF szótár részletezi.   
 A perzsában is a `māl` = birtok, de köznyelvben lovaglásra használt hátasállatot is jelent; a kalmük `mál` = állat elárulja, hogy valójában elsődleges jelentése volt az állat, sőt, málhás állat, mely [[M/Marha\|marha]] és ló is lehet.  
 
 
