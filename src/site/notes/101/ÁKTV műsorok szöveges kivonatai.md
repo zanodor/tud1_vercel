@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-07-12T00:32"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-07-16T14:27"}
 ---
 
 
@@ -11,6 +11,8 @@
 
 **Videók kivonatokkal**:  
 
+[250715CN! A SZFINX ALATT](https://rumble.com/v6w7vmy-250715cn-a-szfinx-alatt-kubnyi-tams-ktv.html)  [https://archive.ph/TgX96](https://archive.ph/TgX96)
+[250714CN! PRISCOS 2](https://rumble.com/v6w68b4-250714cn-priscos-2-kubnyi-tams-ktv.html)  [https://archive.ph/tAriz](https://archive.ph/tAriz)
 [250711CN! PRISCOS 1](https://rumble.com/v6w1nx8-250711cn-priscos-1-kubnyi-tams-ktv.html)  [https://archive.ph/qhWXv](https://archive.ph/qhWXv)
 [250710CN! TITKOS ERÉNYEK](https://rumble.com/v6vzxcg-250710cn-titkos-ernyek-kubnyi-tams-ktv.html)  [https://archive.ph/EK27C](https://archive.ph/EK27C)
 [250709CN! SZENT ERZSÉBET 2](https://rumble.com/v6vy8rk-250709cn-szent-erzsbet-2-kubnyi-tams-ktv.html)  [https://archive.ph/CD0IV](https://archive.ph/CD0IV)
@@ -46,7 +48,7 @@
 [250527CN! MEGBÉKÉLÉS](https://rumble.com/v6tyc1p-250527cn-megbkls-kubnyi-tams-ktv.html)  [https://archive.ph/eaYBg](https://archive.ph/eaYBg)
 [250526CN! 300000000 MAGYAR](https://rumble.com/v6twlrh-250526cn-300000000-magyar-kubnyi-tams-ktv.html)  [https://archive.ph/CpKdd](https://archive.ph/CpKdd)
 [250523CN! PÁRTFÜGGETLENEK](https://rumble.com/v6ts1xz-250523cn-prtfggetlenek-kubnyi-tams-ktv.html)  [https://archive.ph/lOOho](https://archive.ph/lOOho)
-[250522CN! ÁRULÓK](https://rumble.com/v6tqgml-250522cn-rulk-kubnyi-tams-ktv.html)  [https://archive.ph/tornj](https://archive.ph/tornj)
+[250522CN! ÁRULÓK](https://rumble.com/v6tqgml-250522cn-rulk-kubnyi-tams-ktv.html)  [https://archive.ph/63ksc](https://archive.ph/63ksc)
 [250521CN! ÁTLÁTHATÓSÁG](https://rumble.com/v6torwp-250521cn-tlthatsg-kubnyi-tams-ktv.html)  [https://archive.ph/lqulG](https://archive.ph/lqulG)
 [250520CN! A SZÓ EREJE](https://rumble.com/v6tn44b-250520cn-a-sz-ereje-kubnyi-tams-ktv.html)  [https://archive.ph/Kf00D](https://archive.ph/Kf00D)
 [250519CN! HARCOSOK](https://rumble.com/v6tlf03-250519cn-harcosok-kubnyi-tams-ktv.html)  [https://archive.ph/Gz9bQ](https://archive.ph/Gz9bQ)
