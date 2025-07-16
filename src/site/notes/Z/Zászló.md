@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zászló/","title":"Zászló","tags":["containstransclusions"],"created":"2023-10-17T09:23","updated":"2024-10-26T00:53"}
+{"dg-publish":true,"permalink":"/Z/Zászló/","title":"Zászló","tags":["containstransclusions"],"created":"2023-10-17T09:23","updated":"2025-07-16T14:25"}
 ---
 
 
@@ -61,7 +61,7 @@ Bakos Attila A Duna Evangéliuma című könyvének 253. oldalán az ottománok 
 
 ...piros-fehér-zöld fények kapcsán írja:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/e/eszak/#91q9sr" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/E/Észak/#91q9sr" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -71,3 +71,8 @@ Bakos Attila A Duna Evangéliuma című könyvének 253. oldalán az ottománok 
 
 
 </div></div>
+
+
+### Magyar zászló
+
+Lásd [Magyarország zászlóinak képtára](https://hu.wikipedia.org/wiki/Magyarorsz%C3%A1g_z%C3%A1szl%C3%B3inak_k%C3%A9pt%C3%A1ra).
