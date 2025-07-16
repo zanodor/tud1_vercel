@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv ősisége – ősnyelv-e a magyar/","title":"Magyar nyelv ősisége – ősnyelv-e a magyar","tags":["Englishtexttranslated"],"created":"2023-10-09T06:38","updated":"2025-07-14T17:44"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv ősisége – ősnyelv-e a magyar/","title":"Magyar nyelv ősisége – ősnyelv-e a magyar","tags":["Englishtexttranslated"],"created":"2023-10-09T06:38","updated":"2025-07-16T14:23"}
 ---
 
 
@@ -211,7 +211,8 @@ Péterfai igyekszik pontosan fogalmazni:
 > Lehetetlen azt állítani, hogy az ókori nyelvek magyar nyelvek. Csak azt lehet állítani, hogy sok ókori nyelv, így a hatti-hettita is nagyon közeli rokona a mai magyar nyelvnek. Egy régebbi, magyar nyelvnek tekinthető nyelvből származott, amelyik nyelvet Kis-Ázsiában beszéltek, de sok ezer évvel a hatti, hurri, szumir nyelvek előtt.  
 
 Péterfai János Atlantiszról szóló írásában úgy fogalmaz, hogy a magyar nyelv több ősi nyelvjárásból ered.  
-Valóban, a mai magyar nyelv egyes szavainak kialakulási ideje nem azonos. Több rétegből tevődik össze a modern magyar nyelv szókincse. Az alaprétegre rátevődik a "kismagyar" nyelvek szókincse, mely nyelvek egyes magyar nyelvek nyelvjárásaiból, azok napvallások és majd kereszténység idejéből való vallási-mondai rárakódások útján keletkezett rontásaiból és az egymással keveredő népességek nyelvkeveredéseiből jöttek létre.  
+Valóban, a mai magyar nyelv szavainak kialakulási ideje nem azonos. Több rétegből tevődik össze a modern magyar nyelv szókincse. Az alaprétegre rátevődik a "kismagyar" nyelvek szókincse, mely nyelvek egyes magyar nyelvek nyelvjárásaiból, azok napvallások és majd kereszténység idejéből való vallási-mondai rárakódások útján keletkezett rontásaiból és az egymással keveredő népességek nyelvkeveredéseiből jöttek létre.  
+- Egy példa erre [[S/Sapka\|sapka]] szavunk, mely inkább utódnépeinktől származott vissza, minthogy azt mondhatnánk, hogy ez valamilyen őseredeti magyar szó lenne. Az ősi szó inkább k-előtétes volt, mint amilyen a [[K/Kupa\|kupa]] és [[K/Kúp\|kúp]].
 
 [[N/Nosztratikus nyelvcsalád\|Nosztratikus nyelvcsalád]] címnél is szereplő folytatása:  
 > A Nosztratikus Nyelvcsalád nyelvész kutatói helyes úton járnak, csak azt nem látták meg, hogy az általuk kutatott nyelvek egy még ma is létező nyelvből ágaztak ki. Ebből a nyelvből könnyű levezetni a mai nyelvek sok tízezer, sok százezer szavát, ami igazolja a magyar nyelv ősiségét, a konkrét rovás feliratokon és genetikai bizonyítékokon kívül.  
@@ -232,7 +233,7 @@ Valóban, a mai magyar nyelv egyes szavainak kialakulási ideje nem azonos. Töb
 > —  
 > A csodálkozásom egyre nőtt, ahogy folytattam a bantu és a magyar szavak összehasonlítását, ahol mind a forma, mind a tartalom annyira azonos volt, hogy nyilvánvalóvá vált a két nyelv közös eredete. De ez még csak a kezdet volt. Minél több szótárat és nyelvet néztem meg, az eredmény ugyanaz volt. Levettem a szemellenzőt – ami a lovakat hivatott kordában tartani –, és ekkor már 360 fokos ívben kezdtem körbejárni a világ összes nyelvét, hogy megtaláljam a MAGYAR szavakkal azonos szavakat.  
 > **A magyar azonosság a nyelvekben, a mérhetetlen mennyiség, megdöbbentő. Hatalmas mennyiségű anyagról van szó! A katalogizálásuk, rendszerezésük, magyarázatuk egy egész életre szóló odaadást igényel. Az ilyen tanulmányok végeredménye csak egy lehet: A magyar nyelv az emberiség első nyelve, a teremtés nyelve, az ősök nyelve**.  
-- Az itt sorolt bantu szavak [[F/Folyó\|folyó]], [[G/Gólya\|gólya]] és [[K/Kill\|kill]] címhez téve.
+- Az itt sorolt bantu szavak [[F/Folyó\|folyó]], [[G/Gólya\|gólya]] és [[K/Kill\|kill]] címhez is bekerültek.
 
 Még mindig Nagyernyei Szabó Zoltán misszionárius pap Tomory Zsuzsa Magyar-English word origins című könyvéhez csapott addendumában európai ősműveltségünk bizonyítékaiként sorol adatokat. Például:  
 > The American Linguistic Seminar at Bochum University, Germany, including Russian and other linguists accepting The One Language of Mankind as a fact based on up to date computerized linguistic research rejected the existence of a separate Finno-Ugric language family – **elvetvén az u.n. "finnugor nyelvcsalád" külön magábanlétezését** megállapították, hogy egy nyelvezete van az emberiségnek és a magyar nyelvet az ősnyelv elágazásának jelenlegi állapotában az Elámo-Dravida/Uralo-Dravida törzs jellegéhez legközelebbállónak találták, s ezt ennek közelebbi kiágazásaival az Afro-Ázsia-i, kártveli, indoeurópai és altaival együtt egy közös nyelvnek [[N/Nosztratikus nyelvcsalád\|nosztratikus]] névvel jelölt egyik főbb nyelvtörzseként ismertették. Láthatólag ezt a szétvándorlást és nem a nyelvben hordozott ősműveltség belső lelki fejlettségének kifejező erejét vette figyelembe (Walter Koch: Language in the Upper Pleistocene, 1991 Bockmeyer, Bochum, Germany az ősnyelvi elágazások ábráival: az 5.1 számú Koch 1991. kezdetén, az 5.2 számú Vitaly Shevoroskin 1990. évi és az 5.3 számú Bateman 1990-ben készült ábráját mutatja).
