@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-04T04:55","updated":"2025-07-12T00:30"}
+{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-04T04:55","updated":"2025-07-17T22:44"}
 ---
 
 
@@ -98,9 +98,23 @@ A neten is megtaláltam:
 [[P/Pogány\|Pogány]] címnél Pap Gábor szól arról, hogy a másságról nyilatkozó szerint a [[M/Más\|más]] a más nyelvet beszélő és más erkölcsöket képviselő [[I/Idegen\|idegen]]/külföldi. A degradálóról viszont az bizonyosodik be, hogy valójában alacsonyabb műveltségű. Ugyanazt ezt teszi a talmudista zsidó (és a YouTube videókon rögzített izraeli járókelő is), amikor [[J/Jézus\|Jézus]]t senkinek és semminek (a kereszténységet pedig kiirtandónak) tekinti: meg van róla győződve, hogy az ő által képviselt értékrend magasabb, holott könnyen kimutatható, hogy épp fordítva van. Erről [[G/Gentile\|gentile]] címnél és [[M/Magyar népművészet\|magyar népművészet]] bevezetőjében is volt szó.  
 
 [[P/Pogány\|Pogány]] címnél említettük Pap Gábor Gondolatok a szkíta nép-nemzeti szertartásrendről című cikkét, melyben a barbár szó görög és latin bővítményes jelentéseiről is szó esik:  
-Például: görögül `barbaridzó` = barbárként viseli magát... idegen nyelven beszél (az idegen nyelv itt nem-görög nyelvet jelent! – P.G.); `barbariszmosz` = idegen nyelven beszélés, hibás beszéd (Soltész-Szinyei); latinul `barbaricus` = idegen nyelvű, paraszt, kietlen; `barbarizo` = parasztúl szólok; `barbarus` = szólásban parasztos, nem nyelvünkön szóló (Páriz Pápai Ferenc).  
+> Például: görögül `barbaridzó` = barbárként viseli magát... idegen nyelven beszél (az idegen nyelv itt nem-görög nyelvet jelent! – P.G.); `barbariszmosz` = idegen nyelven beszélés, hibás beszéd (Soltész-Szinyei); latinul `barbaricus` = idegen nyelvű, paraszt, kietlen; `barbarizo` = parasztúl szólok; `barbarus` = szólásban parasztos, nem nyelvünkön szóló (Páriz Pápai Ferenc).  
 
-Több helyen szóltam arról, hogy tulajdonképpen a hunok napvallást követő csoportjának, vallásos nézetüknek, ennek hun-utód népességei révén történő elterjedésenek és az általuk képviselt patriachalizmusnak tulajdonítható a legtöbb Földet érő baj. Még azt sem tartom kizártnak, hogy a héber [[G/Gój\|gój]] nemcsak marha, hanem kutya (lásd kínai `gou` = kutya, ír `cù` = kutya, stb.) asszociációkkal illethető és az általuk képviselt felfogás annak szól, hogy ha "Szíriusz távollétében a Szíriuszt tisztelők nem élvezik annak pártfogását, így a világuralom a miénk." \[Azóta kiderült, hogy a [[K/Kutyahit\|kutyahit]] az ősi hit.\]  
+A pogány ugye nem azt jelenti, hogy nem keresztény, hanem azt, hogy nem római (ellenőrzés alatti, nem júdaizáló, hanem szkíta keresztény).  
+Hasonlóan...
+
+####  Kubínyi Tamás mondja:  
+
+> [!check] &nbsp;
+> > Róma "barbárnak" nevezi az ariánusokat, hiába keresztények [52:44](https://rumble.com/v6w9mh0-250716cn-a-nagy-szkizma-1-kubnyi-tams-ktv.html?start=3164).  
+> 
+> > [!check] &nbsp;
+> > Az ariánus kereszténység felvétele a vizigótok számára a rómaiak szemében a "barbárságuk" csökkenését jelentette, de Róma továbbra is barbárnak tekintette őket [53:43](https://rumble.com/v6w9mh0-250716cn-a-nagy-szkizma-1-kubnyi-tams-ktv.html?start=3223). Az ariánus gót kereszténységben nem volt centralizált egyház, helyi közösségekre épült, és a vallás nyelve a népnyelv volt, megőrizve a germán hagyományokat [54:32](https://rumble.com/v6w9mh0-250716cn-a-nagy-szkizma-1-kubnyi-tams-ktv.html?start=3272).
+> 
+
+- Ezzel visszatérünk ahhoz a "népi" vonulathoz, amelyről [[P/Pogány\|pogány]] címnél Pap Gábor nyomán volt szó.
+
+Több helyen szóltam arról, hogy tulajdonképpen a hunok napvallást követő csoportjának, vallásos nézetüknek, ennek hun-utód népességei révén történő elterjedésének és az általuk képviselt patriachalizmusnak tulajdonítható a legtöbb Földet érő baj. Még azt sem tartom kizártnak, hogy a héber [[G/Gój\|gój]] nemcsak marha, hanem kutya (lásd kínai `gou` = kutya, ír `cù` = kutya, stb.) asszociációkkal illethető és az általuk képviselt felfogás annak szól, hogy ha "Szíriusz távollétében a Szíriuszt tisztelők nem élvezik annak pártfogását, így a világuralom a miénk." \[Azóta kiderült, hogy a [[K/Kutyahit\|kutyahit]] az ősi hit.\]  
 
 [[Z/Zsidó\|Zsidó]] címnél (bővebben) szerepelt, hogy a nevük tulajdonképpen lehetne sárkány, vagy lehetne nevük fene, kut/kutya, de mindenképpen szaturnuszi, mint az istenük, [[J/Jahve\|Jahve]] is. A héber Szaturnusz, [[K/Kijjún\|Kijjún]] is a görög `kyon` = kutya átformálásának tűnik. \[...\] Tulajdonképpen kimondható, hogy a dualisztikus világkép magyarok majd zoroasztriánusok általi megismertetése adta az ötletet, hogy ebben is lehet gondolkodni (zsidó) emberként (mely ugye már nem emberi szint). Sőt, a [[K/Kut\|kut]] címnél álló életkör-diagram negatív oldalán álló szavak [[G/Goetia\|Goetia]] és a germán [[G/God\|God]] nevekkel való hasonlítása nyomán kimondható, hogy a vaskori kutyaélet és lélek nélküli élet folyik ma a Földön.  
 
@@ -139,8 +153,11 @@ Mint [[J/Jón\|jón]] címnél, hun vonatkozásban láttuk, a kínai nyelv az id
 
 ## Barbár barbároz
 
-Az óvodások bölcsessége ("aki mondja másra, az mondja magára") érvényes itt is.  
-Götz László Keleten kél a Nap című könyvének 216. oldalán szól arról, hogy a nyugat volt barbár a kelethez képest. Itt most a specifikus eseteket amiket felhozott, nem említve adom:  
+Az óvodások bölcsessége ("aki mondja másra, az mondja magára") érvényes itt is. 
+
+#### Götz László Keleten kél a Nap...  
+
+...című könyvének 216. oldalán szól arról hogy a nyugat volt barbár a kelethez képest. Itt most a specifikus eseteket amiket felhozott nem említve adom:  
 > A nyugatiak érezték, hogy barbároknak tartották őket (valóban azok is voltak nem csak a kelet-rómaiak szemében), s a szellemileg alacsonyabb fokon állók gyűlölete az okosabbak ellen, ez az örök emberi jellegzetesség, az első pillanattól kezdve megmérgezte a kapcsolatokat a két, egymástól olyannyira különböző embercsoport között.  
 
 [[S/Szűzgulyahajtás\|Szűzgulyahajtás]] kapcsán és [[L/Lot\|lot]] címnél szóltam ezen témákról.  
@@ -160,8 +177,8 @@ Götz László Keleten kél a Nap című könyvének 216. oldalán szól arról,
 Erről lásd [[T/Tiger\|tiger]] címnél; például az óperzsa \*šagra = oroszlán; tigris.  
 —  
 Péterfai János is írja:  
-A Barsz tigris is, ami arra utal, hogy a Bar név alatt tényleg értettük a Kardfogú Tigriseket is, amíg ezek a nagymacskák éltek (Kr.e. 8.000).  
+A `Barsz` tigris is, ami arra utal, hogy a Bar név alatt tényleg értettük a Kardfogú Tigriseket is, amíg ezek a nagymacskák éltek (Kr.e. 8.000).  
 
 [^2]: Lábjegyzet:  
 A Czuczor-Fogarasi szótár adata:  
-Eredetije a hellen-latin Barbara. A magyar történetekben nevezetes: Ekebontó Borbála, Zsigmond király neje.  
+Eredetije a hellen-latin **Barbara**. A magyar történetekben nevezetes: Ekebontó Borbála, Zsigmond király neje.  
