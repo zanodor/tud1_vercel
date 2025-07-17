@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2025-06-20T23:34"}
+{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2025-07-17T22:43"}
 ---
 
 
@@ -400,8 +400,8 @@ Lásd még [[V/Vonaldíszes kerámia\|vonaldíszes kerámia]].
 
 Ilyen alcímmel [[Z/Zsidó#A zsidó igény a Kárpát-medencére\|zsidó]] címnél is szerepeltek adatok, de nem tudom, mennyi van itt meg, ami ott nem volt meg. Ott geostratégiáról is volt szó, képekkel.  
 
-Drábik János és Kubínyi Tamás szájából is elhangzott, hogy a zsidó származású Félix Zserzsinszkij és Henry Kissinger is megfogalmazta, hogy akié a Kárpát-medence, az a világ ura.  
-Van egy harmadik személy is, akit az [alábbi](https://youtu.be/kCjynxBzEKY) ÁKTV műsorban Kubínyi Tamás megnevez ilyen kontextusnan. Miután 1:31:40-nél a zsidó Zserzsinszkijt említi, 1:52:20-nál Sir Moses Montefiore kapcsán hozza fel, hogy a zsidóknak a Kárpát-medence megszerzése milyen fontosságú. ([[Z/Zsidó#Zsidó igény a Kárpát-medencére\|Zsidó igény a Kárpát-medencére]] cím/alcímnél lásd többet.)  
+Drábik János és Kubínyi Tamás szájából is elhangzott, hogy a zsidó származású Zbigniew Brzezinski és Henry Kissinger is megfogalmazta, hogy akié a Kárpát-medence, az a világ ura.  
+Van egy harmadik személy is, akit az [alábbi](https://youtu.be/kCjynxBzEKY) ÁKTV műsorban Kubínyi Tamás megnevez ilyen kontextusban. Miután 1:31:40-nél a zsidó Brzezinskit említi, 1:52:20-nál Sir Moses Montefiore kapcsán hozza fel, hogy a zsidóknak a Kárpát-medence megszerzése milyen fontosságú. ([[Z/Zsidó#Zsidó igény a Kárpát-medencére\|Zsidó igény a Kárpát-medencére]] cím/alcímnél lásd többet.)  
 [Ezen](http://www.magtudin.org/Ahogyan_Vilag_Velekedik_a_Magyarokrol1.pdf) oldalon mástól is elhangzik. II. MURAD szultán (1404-1451) kijelentette:  
 "Aki elfoglalja Magyarországot, az ura az egész világnak."  
 
