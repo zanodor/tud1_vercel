@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated"],"created":"2024-04-22T01:48","updated":"2025-06-08T01:12"}
+{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated"],"created":"2024-04-22T01:48","updated":"2025-07-17T22:44"}
 ---
 
 
@@ -146,6 +146,7 @@ A szív mint központ, amennyiben a tökössel/hímtaggal való összefüggései
 A másik, téli/déli központban a [[V/Vulva\|vulva]] van, de a lemniszkáta rajzolatával a hímrész és a vulva egy helyre, fedésbe kerül; úgy is mondhatjuk, hogy a két nemzőrésznek megfelelő két Nyilazó csillagkép (Íj(azó)/Nyilazó és Nyílás-Nyilas csillagkép) és a két [[S/Száj\|száj]] fedésben van, vagy úgy is mondható, hogy a két fényesség ([[P/Penis\|penis]] – [[P/Pina\|pina]]; [[K/Kutya\|kutya]] – kut ([[G/Göd\|Göd]]; [[C/Coot\|coot]], [[C/Cot\|cot]], stb.)/[[C/Cunt\|cunt]]; stb).  
 
 [[S/Szárny\|Szárny]] címnél pedig az alábbiakat:  
+
 ![Lemniszkáta1-excalidraw.jpg|invert_dark](/img/user/L/assets/Lemniszk%C3%A1ta1-excalidraw.jpg)
 
 Ahogy a lemniszkáta és szárny témát vizsgáltam, rá kellett jöjjek, hogy a [[S/Sacchar-\|sacchar-]] címnél is említett [[C/Csokor\|csokor]] (és [[M/Masni\|masni]]), amennyiben háromszögesítem, kiadja a [[S/Szakrális geometria\|szakrális geometria]] címnél taglalt [[V/Világhegy\|Világhegy]]eket, igaz, a függőleges tengelyre tükrözve és 90 fokkal elforgatva, ahogy a képen látható (a háromszögek hegye is szépen mutatja a Szíriusszal való együttállásokat, a napfordulós pontokat; egyúttal érdekesek a keresztek is). [[A/Ahet\|Ahet]] címnél közben a [[S/Székely-magyar rovásírás#B\|rovás B]] jele kapcsán is említettük ezt, téli napfordulós állására kitérve.  
