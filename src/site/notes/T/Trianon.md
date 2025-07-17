@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Trianon/","title":"Trianon","tags":["Englishtexttranslated"],"created":"2024-10-27T11:54","updated":"2025-06-13T20:55"}
+{"dg-publish":true,"permalink":"/T/Trianon/","title":"Trianon","tags":["Englishtexttranslated"],"created":"2024-10-27T11:54","updated":"2025-07-17T22:43"}
 ---
 
 
@@ -106,7 +106,7 @@ Bakos könyvének egy másik erőteljes passzusa [[S/Szemiták és árják#Szemi
 Majd másutt ismét. Bakos könyvének 436-439. oldalán ír [[K/Kőrösi Csoma Sándor\|Kőrösi Csoma Sándor]]ról, arról, hogyan használta fel az angol politika/titkosszolgálat saját céljaira és hogyan gátolta meg abban, hogy a magyarság hasznára váljon.  
 Megmérgezésének két fő oka volt: ne juthasson el Lhászába a Dalai Lámához és semmiképpen ne térhessen haza Magyarországra. A szintén beavatott, és igazi magyar férfi útját járó Gróf Széchényi István nagyon várta, hiszen az általa alapított Akadémia kiemelkedő professzorául szánta szentéletű tudósunkat, Kőrösi Csoma Sándort. A nyugati hatalmaknak fontos volt, hogy hazatérve ne tudjon tanítani, mert a magyarság nemzeti öntudatának nem volt szabad fölébrednie. A Trianonhoz vezető titkos európai tervek már készen álltak.  
 
-Az [alábbi](https://youtu.be/6q18nmOojWY) Szent Korona fény nélkül című VNTV adásban Facsar Imre 45:47-nél felteszi a kérdést: miért pont a Szent Korona országát verték szét Trianonnal? Mert a magyarságot és küldetéstudatát le kellett törni és FI szerint a vizsolyi biblia is előkészítése ennek az ügynek. (Az első, teljes, magyar nyelvű bibliafordítás Vizsolyban látott napvilágot 1590. júl.20-án.)  
+Az [alábbi](https://youtu.be/6q18nmOojWY) Szent Korona fény nélkül című VNTV adásban Facsar Imre 45:47-nél felteszi a kérdést: miért pont a Szent Korona országát verték szét Trianonnal? Mert a magyarságot és küldetéstudatát le kellett törni és Facsar szerint a vizsolyi biblia is előkészítése ennek az ügynek. (Az első, teljes, magyar nyelvű bibliafordítás Vizsolyban látott napvilágot 1590. júl.20-án.)  
 
 [Ezen](http://www.magtudin.org/Treaty%20of%20Trianon.htm) letöltő oldalon rengeteg Trianonnal kapcsolatos tényfeltáró cikk és könyv van (egy Botos László Út a trianoni békeparancshoz című könyvtől eltekintve egyiket sem töltöttem le).  
 
