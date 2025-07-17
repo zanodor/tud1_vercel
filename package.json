@@ -11,7 +11,7 @@
         "build:eleventy": "cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=4096 eleventy",
         "build:sass": "sass src/site/styles:dist/styles --style compressed",
         "get-theme": "node src/site/get-theme.js",
-        "build": "npm-run-all get-theme build:*"
+        "build": "npm-run-all get-theme build:sass build:eleventy"
     },
     "keywords": [],
     "author": "",
@@ -22,7 +22,7 @@
         "cross-env": "^7.0.3",
         "html-minifier-terser": "^7.2.0",
         "node-html-parser": "^6.1.13",
-        "sass": "^1.49.9"
+        "sass": "^1.89.2"
     },
     "dependencies": {
         "@11ty/eleventy-img": "^4.0.2",
