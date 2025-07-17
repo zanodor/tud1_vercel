@@ -1,12 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/M/Más/","title":"Más","tags":["Englishtexttranslated"],"created":"2025-05-29T22:51","updated":"2025-07-14T17:48"}
+{"dg-publish":true,"permalink":"/M/Más/","title":"Más","tags":["Englishtexttranslated"],"created":"2025-05-29T22:51","updated":"2025-07-17T22:44"}
 ---
 
 
 # Más
 
 Mit jelent az, hogy más? Egyrészt nem ilyen, hanem olyan, azaz más = különböző. Ugyanakkor más jelentése is van, úgy, mint mása, képmása, hasonlója.  
-Hogy is van ez? Egyszerre jelenti valami azt, hogy hasonló és különböző? Ez csak úgy lehet, hogy itt ismét [[E/Életkör\|életkör]]ben kell gondolkodni. Ezek alapján értjük meg azt is, hogy szórakozik velünk a hatalom is: mindenről lehet bizonyítani valamit és az ellenkezőjét is. Mikor mi áll érdekében.  
+Hogy is van ez? Egyszerre jelenti valami azt, hogy egy vele ill. hogy különböző?  
+- Hasonló az örök hitvitabéli görög `homoousion` = egylényegű és `homoiousion` = hasonlatos kérdéskörhöz.
+
+> [!check]+ &nbsp;
+> Ez csak úgy lehet, hogy itt ismét [[E/Életkör\|életkör]]ben kell gondolkodni.  
+- Ezek alapján értjük meg azt is, hogy szórakozik velünk a hatalom is: mindenről lehet bizonyítani valamit és az ellenkezőjét is. Mikor mi áll érdekében.  
 
 Korábban az életkör említése nélkül így szerepelt itt:  
 Ki vagy mi a más? Aki, vagy ami nem olyan mint én vagy (a szóban forgó) "ez," mondhatná egy mai, indo-európai, judeo-keresztény dogmákon felnőtt ember. (Lásd még Jankovics Marcell Mély a múltnak kútja című könyvének 221. oldalát, ahol a kulturális másságról szól.)  
@@ -124,7 +129,7 @@ Ha már után, lásd a legutóbb [[A/After\|after]] címnél írottakat. Onnan t
 Más szerepel másvilág kifejezésünkben is. Erről legutóbb [[M/Maat\|Maat]] cím alján volt szó.  
 Ez a másvilág, mint más értelmezhető másik, illuzorikus, fordított, a [[B/Bal és jobb\|bal és jobb]] címnél is említett tükörkép-világként is.  
 ![assets/Más_image1.jpeg|invert_dark](/img/user/M/assets/M%C3%A1s_image1.jpeg)  
-Molnár V. József Világ-Virág című könyvének 109. oldalán a lépcső és a spirál környezete a jelrendszerben alfejezetcímnél olyan dolgokat (a [[F/Fehér és fekete\|fehér és feketé]]ről, mint két létezőről ír, ahol a fekete részek által kiadott kép a fordított "másik" világ) taglal, melyek a [[J/Jin és jang\|jin-jang]] jel értelmezéséhez hasonlóak. A 224. oldalon ismét említi a fordított világot. Ugyebár arról van szó, hogy az egyes képi ábrázolásokat úgy tervezik meg, hogy ha a fehér, üres részekre fókuszál az ember, más alak jön ki, mint akkor, amikor a fekete részekre koncentrál szemével ez ember, mert akkor megint más alakzat vehető ki. Ilyen volt az anno még Twitterre feltett kép is ("The illusion that you are still the instrument that plays me.").  
+Molnár V. József Világ-Virág című könyvének 109. oldalán a lépcső és a spirál környezete a jelrendszerben alfejezetcímnél olyan dolgokat (a [[F/Fehér és fekete\|fehér és feketé]]ről, mint két létezőről ír, ahol a fekete részek által kiadott kép a fordított "másik" világ) taglal, melyek a [[J/Jin és jang\|jin-jang]] jel értelmezéséhez hasonlóak. A 224. oldalon ismét említi a fordított világot. Ugyebár arról van szó, hogy az egyes képi ábrázolásokat úgy tervezik meg, hogy ha a fehér, üres részekre fókuszál az ember, más alak jön ki, mint akkor, amikor a fekete részekre koncentrál szemével ez ember, mert akkor megint más alakzat vehető ki. Ilyen volt az anno még Twitterre feltett kép is (amit a hölgynek képaláírásként írtam: "The illusion that you are still the instrument that plays me.").  
 
 #### Rónai Lászlóné Reinkarnáció...
 
