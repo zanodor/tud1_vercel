@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2025-07-16T14:25"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2025-07-17T22:43"}
 ---
 
 
@@ -8,7 +8,12 @@
 A mai tudomány dogmák rabságában tartja az emberiséget. Minden, különösen a történelem- és nyelvtudomány politikai koncepciók szerint, propaganda és ellenpropaganda jelleggel illetve pusztán a tudomány eszméje és nem az igazság feltárása kedvéért, nem annak szolgálatában létezik. Ahogy lentebb is szó esik róla, nem az életet és így a magyarságot/emberiséget sem szolgálja.  
   
 
-Azzal kezdeném, hogy [[M/Magyar népművészet\|magyar népművészet]] címnél már szerepeltek olyan passzusok, melyek akár ide is tehetők lehettek volna.  
+A mai "tudomány" valójában nem edukáció, hanem diktátum: diktálnak, mit kell elsajátítanunk. A görög-római racionalizmus tetejébe istenhit helyett valami politikai kotyvasztást, népek leigázását – mindezt a civilizáció jegyében persze – és hasonlókat látunk...már ha látjuk. Nem mindenki látja. Vissza is mondja a leckét. Hányszor kellett magyarnak, külföldinek is mondanom, hogy már nem az iskolában vagyunk.  
+Jól látszik a felfogásbeli különbség a Quora kérdező-válaszoló oldalon, ahol pl. a [[S/Sas#Kétfejű sas\|kétfejű sas]]ban Róma nyugati és keleti ágát keresik és egymást veregetik vállon, milyen jól tudják, holott, ahogy [ezen](https://qr.ae/pABY8R) Quora válaszomban is jelzem, Szibériában is megvan az ábrázolás. Akkor nem lehet Rómára vonatkozó.  
+De egy másik távol keleti ellentételezést is hozhatunk, [[P/Pénz\|pénz]] szavunk eredete kapcsán: megint magukat járatják le, amikor latin eredetet gondolnak, holott a kínai nyelvben is szinte azonos szót használnak. 
+Lebuktatják magukat, de nem ismerik el, hogy ez az ő hibájuk lenne. Ők csak megbíztak a "rendszerben," és amúgy is a kínaiak, szibériaiak, magyarok rondák, nincs jó rap zenéjük, és a többi.  
+
+Azzal folytatnám, hogy [[M/Magyar népművészet\|magyar népművészet]] címnél már szerepeltek olyan passzusok, melyek akár ide is tehetők lehettek volna.  
 
 A 2006. augusztus 7-11-ig tartott XI. Magyar Őskutatási Fórumról az Ősi Gyökér 2006/3. számában számolnak be. Ezen cikkben szerepel kezdésként ...
 
