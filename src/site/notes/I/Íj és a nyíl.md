@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2025-07-12T00:31"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2025-07-19T00:55"}
 ---
 
 
@@ -206,7 +206,7 @@ Santillana másutt azték kontextusban szól ([[M/Miscoatl\|Miscoatl]] és [[T/T
 
 - A Mizcoatl (Misz-Kő) név igen érdekes, hiszen ez tulajdonképpen a [[M/Mithra\|Mithra]] és [[M/Missera\|missera]] nevekkel mutat hasonlóságot és itt is a Tejúttal azonosuló [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]] általi felezésről lehet szó. Más kérdés, hogy Santillana a [[T/Tavaszpont\|tavaszpont]] Ikrekbe helyezésével számol, mely helytelen lehet, valamint, hogy a fényes [[N/Nagy Év\|Nagy Év]] fele Nyilastól Ikrekig (a tavaszpont mozgását figyelembe véve Vízöntőtől Oroszlánig) kell tartson és nem fordítva.
 
-Ezen két passzusa alapján valóban nem lenne dőreség az íj – ív (Év – [[N/Nagy Év\|Nagy Év]]) analógiákat vizsgálni, sőt, ez lehet a [[C/Csudaszarvas\|Csudaszarvas]] monda lényege is: a Tejút íve és a napéjegyenlőségi főkör ([[C/Colure\|colure]]) íve a [[P/Precesszió\|precesszió]] miatt elhajlik és a vadászat ehhez mérten folytatódik.  
+Ezen két passzusa alapján valóban nem lenne dőreség az íj – ív (Év – [[N/Nagy Év\|Nagy Év]]) analógiákat vizsgálni, sőt, ez lehet a [[C/Csudaszarvas\|Csudaszarvas]] monda lényege is: a Tejút íve és a napéjegyenlőségi [[C/Colure\|főkör]] íve a [[P/Precesszió\|precesszió]] miatt elhajlik és a vadászat ehhez mérten folytatódik.  
 
 Mexikónál maradva, Robert Burnham Jr. Burnham's Celestial Handbook III. kötetének 630. oldalán álló adata szerint az ómexikói Tejút-megszemélyesítő elnevezés a [[S/Szivárvány\|szivárvány]] húga volt.  
 
