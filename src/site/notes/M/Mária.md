@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2025-07-12T00:26"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2025-07-19T00:55"}
 ---
 
 
@@ -330,10 +330,9 @@ Lásd alant.
 
 Itt nemcsak a [[K/Kehely\|kehely]] = [[H/Hüvely\|hüvely]] összefüggést kell szem előtt tartani, hanem különösen Jankovics Marcell Jézus Napistenként való vizsgálata nyomán azt is, hogy ezzel a homokóraszerű formával, igaz, elforgatva találkoztunk [[L/Lemniszkáta\|lemniszkáta]] címnél is.  
 
-Ami még Mária szüzességi illetve vulvajelképét illeti, fentebb volt szó a mahar = kagylóról és másutt mandala és [[V/Vesica piscis\|Vesica Piscis]] témában is hasonlóról volt szó.  
+Ami még Mária szüzességi illetve vulva jelképét illeti, fentebb volt szó a mahar = kagylóról és másutt mandala és [[V/Vesica piscis\|Vesica Piscis]] témában is hasonlóról volt szó.  
 
-#### Jankovics Marcell írja még:  
-
+Jankovics Marcelltől való az alábbi is:  
 > A zárt kert, zárt kapu – lásd Ezékiel 44,1-2 – általánosságban [[M/Mária\|Mária]] szüzességének volt a jelképe; a középkori zárt kolostorkertek is a szeplőtelen szerzetesi élet jelképeivé váltak.  
 
 A [[P/Phallic\|phallic]] címnél taglalt templom és pap témához jól kapcsolódik Jankovics Marcell adata.  
@@ -361,7 +360,7 @@ Valahol már szerepelt arról adat, hogy Mária az Ős-Éva vagy efféle hasonl�
 > Éva nevével szállt a földre a büntetés átka, Mária nevével a megváltás áldása. Az Isten angyala köszöntésével ÉVA nevét ÁVE-ra fordította.  
 >
 > Az anyaszentegyház nagyszombat hajnalán ünnepli liturgiájában az ősevangélium beteljesedését. A bűn, a romlás az asszonytól vette kezdetét, a megváltás is az asszonytól veszi kezdetét. Évának számkivetett fiait Szűz Mária fia mentette ki a számkivetésből. Szent Bernát írja, hogy "Az Isten asszonytól, de szűztől kívánt megtestesülni, hogy hasonló hasonlóval fizessen, a rosszat jóval gyógyítsa, a bajt okozó tövist kitépje, a bűn adóslevelét eltörölje. Éva volt a tövis, Mária lett a rózsa. Éva tövise sebzett, Mária rózsája szíveket élesztett. Éva tövise halált okozott, Mária rózsája üdvös sorsot hozott. Mária szüzessége által volt fehér rózsa, szeretete által piros rózsa; szűzi fehér volt testében, pirosszínű lelkében. Fehér volt erényeiben, piros a bűn legyőzésében, fehér, mert szerette Istent, piros, mert szeretetből megsajnálta az embert."  
-- Ehhez annyi megjegyzést hadd tegyek, hogy maga a [[S/Sátán\|Sátán]] is egyrészről nőiségi fogalom. Ő, a nő a kezdet, de ő az is, aki a földre lehúz. A nők megítélése és háttérbe szorulása [[A/Anyakultusz – apakultusz\|anyakultusz – apakultusz]] és más címnél taglalásra került.  
+- Ehhez annyi megjegyzést hadd tegyek, hogy maga a [[S/Sátán\|Sátán]] is egyrészről nőiségi fogalom. Ő, a nő a kezdet, de ő az is, aki a földre lehúz. A nők megítélése és háttérbe szorulása [[A/Anyakultusz – apakultusz\|anyakultusz – apakultusz]] és más címnél taglalásra került.
 
 #### Nagyné dr. Fülöp Krisztina Mária élete, édesanyák lelke...
 
