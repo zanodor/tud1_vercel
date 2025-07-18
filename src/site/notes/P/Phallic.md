@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated","titleandheadingonedontmatch"],"created":"2023-11-09T05:11","updated":"2025-07-03T01:16"}
+{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated","titleandheadingonedontmatch"],"created":"2023-11-09T05:11","updated":"2025-07-19T00:55"}
 ---
 
 
@@ -36,7 +36,7 @@ Vasváry-Tóth írja még:
 Ezen pallos azért is lehet jó nyomvonal, mert a karó és kard szót is használjuk ilyen értelemben; sőt, albán, cigány és perzsa nyelvben is a K-R "teremtőgyök" szerepel a hímtag jelentésű szavakban ([[K/KAR\|kar]], `kár(ó)` ill. [[K/Kir\|kir]]).  
 Ha már teremtőgyök, a pelaszg-palóc nyelven ez P-L, (B-L) mássalhangzóvázzal valósul meg, így lehet [[B/Bál\|Bál]] > Fál (Fal) vonalon is vizsgálni. Hasonlóképp indultunk ki [[B/BIL\|BIL]]/[[P/PIL\|PIL]] etimonoknál illetve [[P/Pale\|pale]] = karó szónál. Itt a megoldás. Mesterházy Zsolt is írja:  
 > Írország közepén, a "tarai dombon áll Fál köve, az a "fállikus" kő, amely felsikoltott, ha az az ember érintette meg, akit királynak szánt a sors", vagyis ez egy "FÁLikus" megalit, ahol a szakrális királyt megválasztották.  
-- Falu közepére tett fallosz kapcsán lásd [[F/Falu#^k17rbq\|itt]].
+- Falu közepére tett fallosz kapcsán lásd [[F/Falu#^250717\|itt]], mely [[O/Omphalos\|omphalos]] címnél is szerepelt.
 
 [[P/Pale\|Pale]] mellett a [[P/PÉL\|PÉL]] címnél említett `péló` is ilyen alakú szó, sőt, a lengyel `wał` = tengely (shaft) is fallikus, sőt, Dorothea lengyel nyelvész szerint figuratív értelemben lehetne akár hímtagra alkalmazott is. A lengyel `wałek` = sodrófa szerinte az iménti szó kicsinyezése lehet.  
 Ugyanakkor nem elképzelhetetlen, hogy a [[C/Cephalic\|cephalic]] szó görög elődje kő/sze előtag nélkül a phallosz.  
