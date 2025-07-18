@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arc/","title":"Arc","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2025-03-25T21:17","updated":"2025-06-07T18:48"}
+{"dg-publish":true,"permalink":"/A/Arc/","title":"Arc","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2025-03-25T21:17","updated":"2025-07-19T00:56"}
 ---
 
 
@@ -46,17 +46,19 @@ A grúz `saxe` = arc szóban talán a [[S/Ság\|SÁG]]/[[S/Szág\|SZÁG]] = fő/
 
 # Arc 2)
 
-Latin-angol ív.  
+Latin eredetre visszavezetett angol ív jelentésű főnév.  
 
 #### Magyar Adorján írja:  
 
 > Nyelvünk csodálatos okszerűségeit tehát itt is lépten-nyomon látjuk, de ezenkívül még párhuzamokat is találunk: [[O/Öv\|öv]] = kör szavunknak megfelel [[I/Ív\|ív]] szavunk, amely hiszen a karaj-alakú [[I/Íj\|íj]] egyik neve is. Viszont az ör, örű = kör szavunknak meg a latin `arcus`, `arcuatus` szó felel meg, amely szintén egyúttal jelent görbét, ívet és íjat is \[[[Archer\|archer]] = íjász\].  
 > Láttuk, hogy a kőrös szócsoportbeli magyar karaj, [[K/Karéj\|karéj]] (besenyő és kabar szócsoport szerint ív) szónak a latinban `arcus` egymássalhangzós kőrös szó felel meg.  
-- [[K/Kezdet és vég#^ybz6sf\|Itt]] Fáy Eleknél is megvolt az ív - öv - év hármas egy passzusban.
+- [[K/Kezdet és vég#^ybz6sf\|Itt]] Fáy Eleknél is megvolt az ív - öv - év hármas egy passzusban. Ott is utaltunk az arcus eredetére.
 
 Másutt írja Magyar Adorján:  
 > A medvének is hatalmas karmai vannak és ezenkívül a medve is nagyerejű állat de még inkább ilyen volt a ma kihalt, tudományos nevén "barlangi medvének" (ursus speleus) nevezett, a mainál sokkal nagyobb medvefaj; a medve karmai pedig szintén görbék, amiért is ezeknek lehetett még ar, or alakú egymássalhangzós neve is, amely szóalak kerekséget, kerekdedséget is jelenthetett. És íme: nemcsak hogy az latin-olasz `ursus`-`orso` (urszusz-orszo) = medve, hanem ugyane nyelvekben `arcus`-`arco`, `arcuatus`-`arcuato` = ív, ívelt, hajlott és görbe, sőt az olaszban `artiglio` = karom.  
 - Melyhez Magyar hozzátehette volna, hogy az [[O/Öregisten\|Öregisten]], [[M/Motolla\|motolla]], [[D/Dhruva\|Dhruva]] és [[T/Taweret\|Taweret]] címnél is taglalt örök körforgásra utaló szavak. A Medve is azért `arktosz`, mert nemrég a [[S/Sarkcsillag\|Sarkcsillag]] onnan került ki.
+
+Mindezek után nem állítható, hogy a latin `arcus` szó egy görög `ἄρκευθος` = boróka (lásd [itt](https://en.wiktionary.org/wiki/%E1%BC%84%CF%81%CE%BA%CE%B5%CF%85%CE%B8%CE%BF%CF%82#Ancient_Greek)) szóból eredne; az, hogy abból készítettek íjat, nem jelenti azt, hogy a boróka ilyen neve korábban létezett volna. Tehát a szóképzés fordított irányú lehet, ahogy a – [[T/Toxic\|toxic]] és [[Y/Yew\|yew]] címnél taglalt – [[T/Tiszafa\|tiszafa]] jelentésű óangol `īw` ill. `ēow` elődje is nagy eséllyel a magyar `ív`/`íj` szavak valamelyike.
 
 #### Padányi Viktor Horaha – Harku – Horka, Notes to the Menes-question...
 
