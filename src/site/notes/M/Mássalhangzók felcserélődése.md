@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-06-12T01:38"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-07-19T00:54"}
 ---
 
 
@@ -76,7 +76,7 @@ Egyébként ezek voltak azok a hangok, melyeket [[O/Orrhang\|orrhang]]os [[H/Hun
 > Az átmenetekkel kiegészített sorozatok:  
 > labiális: B, BH, V, P, PH, F, M, U;  
 > dentális: D, DH, T, TH, Z, S, N;  
-> veláris: G, GH, K, KH, CH/H̬, H, N, J (Ng).  
+> veláris: G, GH, K, KH, CH/Ḫ, H, N, J (Ng).  
 
 G-D átmenetről lentebb még lesz szó.  
 
@@ -182,11 +182,12 @@ Lehetséges az is, hogy [[P/Prove\|prove]]/próba eredetileg t-előhangos volt, 
 K>P mássalhangzó-változásról írja Timaru-Kast Sándor:  
 > A "kelta" törvényszerű hangcserének megfelelően a P hang K-ra is válthat (> vö. magyar SIPÍT <> SIKÍT).  
 > A kelta nyelveken belül is észlelhető G>F és a K>P hangcsere (mindkét esetben egy íny- \[toroki) hang áttevődik az ajaki hangképző helyre).  
-- A görög nyelvben is szabályosnak magyarázzák: egy proto-indoeurópai (PIE) mássalhangzó, amely máshol K-szerűvé vált, a görögben P-szerű reflexet mutat. Ez a hangváltozás a proto-indoeurópai _labiovelárisok_ (ajakkal képzett velárisok) esetében következett be a görögben. Pl. szanszkrit `akṣi` = szem szó és más k-s párjaihoz képest a görög `ὤψ` (`ōpsz`) alakú.
+- A görög nyelvben is szabályosnak magyarázzák: egy proto-indoeurópai (PIE) mássalhangzó, amely máshol K-szerűvé vált, a görögben P-szerű reflexet mutat. Ez a hangváltozás a proto-indoeurópai _labiovelárisok_ (ajakkal képzett velárisok) esetében következett be a görögben. Pl. szanszkrit `akṣi` = szem szó és más k-s párjaihoz képest a görög `ὤψ` (`ōpsz`) = szem; arc, látvány jelentésű szó eltérő alakú.
 - [[O/Oven\|Oven]] címnél láttunk G>F (V) változásra példát.
 - [[F/Farr\|Farr]] elvileg K(H)(v)>F változással jött létre.
 
 G>P. Már [[P/PAR\|PAR]] etimonnál esett szó róla. CzF szótárban is találni változatot: `gerjeszt` némelyütt `perjeszt`.  
+
 
 F>K, F>C vagy F>Q átmenet, például fura>queer, farag>carve igen ritka, és szabálytalan, olyannyira, hogy a levezetések revideálandók.
 A walesi `genau` = száj (Timaru-Kast Sándor fenyő szót ír ide?!) szó is arról árulkodik, hogy F>G átmenet elképzelhető.  
