@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","created":"2023-11-19T03:30","updated":"2025-07-03T01:13"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","created":"2023-11-19T03:30","updated":"2025-07-19T00:54"}
 ---
 
 
@@ -61,6 +61,31 @@ Egyrészt az, hogy régóta hallják, a magyar az ősnyelv, illetve – a kevés
 
 ...című könyvének 371. oldalán szól (igaz, nem nyelvészeti, hanem őstörténeti vonatkozásban) annak körülményeiről, hogyan jelennek meg megfelelő elő­képzettséggel nem rendelkező autodidakták hogy megpróbáljanak "rendet rakni[^1]."  
 A kiváltó ok természetesen az, hogy nem hozzáértő és egyenesen hazug ügynökök (ezen vádak felhozásától Götz László persze mindig óvakodik) dolgoznak a magyar őstörténet szétverésén és [[T/Történelemhamisítás\|meghamisításán]].  
+
+### Valamit akarok, de nem ezt
+
+Klasszikus modern kori hozzáállás, amikor az ember nem tudja, mit akar, de azt igen, hogy nem azt amit csinál, vagy ami neki jutott. Ilyenkor megy az ember pszichológushoz, segítségért, de maga a pszichológus is azért van ott, hogy segítséget vagy megerősítéseket kapjon, a betegektől.  
+Persze ezzel nem azt akarom sugallni, hogy minden próbálkozót gyógyszeres kezelésre utaljunk, mert a hatalom oldaláról és hatalom vak követőinek részéről is gyakran kapunk ilyen diagnózisokat és terápiás ötleteket mi, akik megpróbálunk valamit feltárni.  
+
+Egyes kutatók eljutnak odáig, hogy van valami a háttérben, amiről kiderülhet, hogy nem az aminek látszik, de nem fedik fel a titkot, mert nem dolgozzák ki a tételeiket, csak odadobnak valamit azzal, hogy majd más oldja meg helyettük, mert ez nekik nem megy.  
+
+Práczki Istvánnál látunk ilyeneket. Pl.:  
+> A [[B/Betsabé\|Betsabé]] név ismét a történet hősnőjének a legfontosabb "karakterét" jelentette. (Már jeleztem, hogy az ókori nevek nem a családi-neveket jelentették, hanem az ősi mesék alakjait. Ők hol fanyűvők, hol "hegyforgatók", ahogy a cselekmény megköveteli.) Nem volt más Betsabé neve sem, ami -FO= éba-tseb = éva-szép, vagy éva-szebb jelentésű, de "előre" = becsabé =becsapó. Hiszen fiát mindenkit becsapva juttatta a trónra. Persze lehet, hogy ez is csak "véletlen".
+{ #mu11co}
+
+
+Nem oldja meg a problémát, és a végén odaveti, hogy "ez is csak a véletlen", mint a többi amit ő vagy más már feltárt vagy feltárni igyekezett. Ez így nem elég, mert ez a hatalomra ill. tudományos világra jellemző extrapoláció. Kevés esetben vannak logikus összefüggések, de nosza, kiterjesztjük őket univerzális érvényűre és ... hát, gondold oda te, hogy itt valami nagyon logikusat, okosat hallottál, láttál... Mert adjunktus mondta, vagy egy szerző, akinek könyve jelent meg, és te nem tudnál könyvet írni vagy a tévében szerepelni...  
+Tehát viszonylag jól indít, aztán – jobb híján – egy fordított szótagrenddel próbálkozik ([[S/Szómegfordítás#Szótagmegfordítás\|szótagmegfordítás]]sal én is foglalkoztam; lásd ott, elmondtam róla a véleményem is), de ha mégsem fogadnánk el, akkor jöjjön egy egyenes szótagrendű változat: tessék választani, melyik tetszik, illetve a végén a bibliai kontextusból – önkényesen – kiragadott logikai érvelés: "Hiszen fiát mindenkit becsapva juttatta a trónra."  
+
+A helyzet az, hogy a részvállalás oka itt is az, hogy a tételeiket megfelelően ki nem dolgozó szerzők úgy vannak vele, hogy ha mások, a hivatalos dogma képviselőiként megtehetik, hogy egy tudálékos "nesze semmi fogd meg jól" értelmezést adjanak, akkor ő már nem legyen azért megszólva, hogy ő is megpróbálta: ő csak a magyar néphagyomány, őskereszténység, ősnyelvi vonatkozásai alapján próbálta az "igazságot" kideríteni. Ebben vagyunk így egy páran, csak sajnos lesznek olyanok, akik többet ártanak mint használnak és a másik oldalról küldöttek is majd a magyar tévedők táborát erősítik és a magyar ügy lejártatásán ügyködnek.  
+Egyáltalán nem egyszerű a megfelelő kontextus ismerete nélkül kibogozni egy név eredetét, vagy hogy mi lehetett a háttérben az adott történetben.  
+Még a legfelkészültebb kutatóinknál is találkozunk ilyen esetekkel, amikor tudják, de legalábbis érzik, hogy kell itt valaminek lennie, de mire megfogalmazódna, mikor a papírra, szövegszerkesztőbe vagy nyomda elé kerül, már csak azt látjuk, hogy nem talált rá.  
+
+Az tény, hogy ha az eredetinek, hitelesnek, akár történelminek gondolt kontextus cizellált vagy éppen zsidók felé részrehajló mesterkélt értelmezéseit vesszük figyelembe, azok egyenesen hányingert keltőek, de a szerzők jól megélnek belőle és micsoda asztaltársaságokat vonzhattak...  
+Lásd pl. ebben az esetben:  
+[https://bibliakultura.blog.hu/2025/01/22/betsabe](https://bibliakultura.blog.hu/2025/01/22/betsabe)
+
+Hogy [[B/Betsabé\|Betsabé]] esetében mi lehet a valódi háttér, lásd ott.  
 
 Lásd még [[M/Magyar összefogás hátráltató tényezői\|magyar összefogás hátráltató tényezői]].  
 
