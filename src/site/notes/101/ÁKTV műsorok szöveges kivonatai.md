@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-07-16T14:27"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-07-19T00:56"}
 ---
 
 
@@ -7,11 +7,14 @@
 
 
 
-<small>**Megjegyzés**: A Google Gemini-s összefoglalók a Google (YouTube) által automatikusan rendelkezésre bocsátott transzkripciók alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli problémák, melyek mindegyikét nem veszem észre, hogy javíthassam. Kisbetűs vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag," amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattantva ellenőrizni a videón, hogy mi szerepelt az eredeti szövegben.</small>
+<small>**Megjegyzés**: A Google Gemini-s összefoglalók a Google (YouTube) által automatikusan rendelkezésre bocsátott transzkripciók alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli problémák, melyek mindegyikét nem veszem észre, hogy javíthassam. Kisbetűs vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag," amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattintva ellenőrizni a videón, hogy mi szerepelt az eredeti szövegben.</small>
 
 **Videók kivonatokkal**:  
 
-[250715CN! A SZFINX ALATT](https://rumble.com/v6w7vmy-250715cn-a-szfinx-alatt-kubnyi-tams-ktv.html)  [https://archive.ph/TgX96](https://archive.ph/TgX96)
+[250718CN! PARADIGMAVÁLTÁS](https://rumble.com/v6wczg4-250718cn-paradigmavlts-kubnyi-tams-ktv.html)  [https://archive.ph/drpN1](https://archive.ph/drpN1)
+[250717CN! A NAGY SZKIZMA 2](https://rumble.com/v6wbahw-250717cn-a-nagy-szkizma-2-kubnyi-tams-ktv.html)  [https://archive.ph/x0XA6](https://archive.ph/x0XA6)
+[250716CN! A NAGY SZKIZMA 1](https://rumble.com/v6w9mh0-250716cn-a-nagy-szkizma-1-kubnyi-tams-ktv.html)  [https://archive.ph/eKFOh](https://archive.ph/eKFOh)
+[250715CN! A SZFINX ALATT](https://rumble.com/v6w7vmy-250715cn-a-szfinx-alatt-kubnyi-tams-ktv.html)  [https://archive.ph/hLDnM](https://archive.ph/hLDnM)
 [250714CN! PRISCOS 2](https://rumble.com/v6w68b4-250714cn-priscos-2-kubnyi-tams-ktv.html)  [https://archive.ph/tAriz](https://archive.ph/tAriz)
 [250711CN! PRISCOS 1](https://rumble.com/v6w1nx8-250711cn-priscos-1-kubnyi-tams-ktv.html)  [https://archive.ph/qhWXv](https://archive.ph/qhWXv)
 [250710CN! TITKOS ERÉNYEK](https://rumble.com/v6vzxcg-250710cn-titkos-ernyek-kubnyi-tams-ktv.html)  [https://archive.ph/EK27C](https://archive.ph/EK27C)
