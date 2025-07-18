@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2025-07-04T22:40"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2025-07-19T00:55"}
 ---
 
 
@@ -139,9 +139,9 @@ Lásd továbbiakat/kitérőt [[K/Kufár\|kufár]].
 
 Afrika után Európára nyergelünk át. Európa nevét az asszír-babiloni `eribu` = naplemente, sötétség szóból eredeztetik egyesek. E szó párja a héber `erebh` = este. Ezen szavakat az Eufrátesz völgyéhez képest értve veszik alapul az [[A/Arab\|arab]] névre vonatkozólag is ([[E/Európa\|Európa]] és [[A/Arab\|arab]] valóban azonos alakúak).  
 
-Ezen szavakat Dr. Kovács Sándor Gán.Muš – a kígyó kertje avagy a sötétség c. az Ősi Gyökér 2010/1-2. sz. megjelent cikkében is hozza: óakkád `ereb` (šamši) = (nap)nyugta; óhéber `(c)ereb` = est(e), besötétedés, arab `ġarb` = nyugat, `ġurûb` = (nap)nyugta, `ġirbîb` = nagyon sötét. - A Jankovics Marcell valamely könyvében taglalt H/K-R vázú szavak sötét jelentéséhez és az alvilághoz kapcsolódó szavak között ott találjuk például a [[C/Crab\|crab]] és [[C/Creep\|creep]] címnél is említett szumér `H̬ARUB` = rovar, féreg szót, melynek megfelel a görög `herpes` = féreg (vö. görög `herpeton` = hüllő), mely a csúszómászók, hüllők, kígyók jelölésére is használt.
+Ezen szavakat Dr. Kovács Sándor Gán.Muš – a kígyó kertje avagy a sötétség c. az Ősi Gyökér 2010/1-2. sz. megjelent cikkében is hozza: óakkád `ereb` (šamši) = (nap)nyugta; óhéber `(c)ereb` = est(e), besötétedés, arab `ġarb` = nyugat, `ġurûb` = (nap)nyugta, `ġirbîb` = nagyon sötét. - A Jankovics Marcell valamely könyvében taglalt H/K-R vázú szavak sötét jelentéséhez és az alvilághoz kapcsolódó szavak között ott találjuk például a [[C/Crab\|crab]] és [[C/Creep\|creep]] címnél is említett szumér `ḪARUB` = rovar, féreg szót, melynek megfelel a görög `herpes` = féreg (vö. görög `herpeton` = hüllő), mely a csúszómászók, hüllők, kígyók jelölésére is használt.
 
-Ezen szavak mintha [[F/Flexió\|flexió]]s változatai lennének a héber/kabar formáknak. Az mindenesetre feltűnő, hogy a sötét a másik félévre utalóként vehető számba. Ezen szavak párjai a [[C/Carbon\|carbon]] és [[C/Crow\|crow]] címnél taglalt szavaknak, ahol a [[G/Görbe\|görbe]] és [[K/Kurva\|kurva]], valamint a [[L/Lemniszkáta\|lemniszkáta]] ívei is előjöttek. Az ilyen szóalakú [[C/Crab\|crab]] a Rákkal megint stimmel. Ezen szavaknak és társaiknak persze nem héberes szóalakú eredetet keresünk; nem azért térek itt ki rájuk.  
+Ezen szavak mintha [[H/Hangátvetés\|metatézis]]es változatai lennének a héber/kabar formáknak. Az mindenesetre feltűnő, hogy a sötét a másik félévre utalóként vehető számba. Ezen szavak párjai a [[C/Carbon\|carbon]] és [[C/Crow\|crow]] címnél taglalt szavaknak, ahol a [[G/Görbe\|görbe]] és [[K/Kurva\|kurva]], valamint a [[L/Lemniszkáta\|lemniszkáta]] ívei is előjöttek. Az ilyen szóalakú [[C/Crab\|crab]] a Rákkal megint stimmel. Ezen szavaknak és társaiknak persze nem héber szóalakú eredetet keresünk; nem azért térek itt ki rájuk.  
 
 ## Héber – hikszosz kapcsolatok
 
@@ -187,7 +187,7 @@ Kecskebak jelentésű szavakkal folytatja:
 Az indogermán szavak elé/mellé szemita szavakat is talál:  
 > akkád `abrû` = egy állat, héber `'opher` = őzbak és arab `'ufr` = vadkan, disznó és `ghufr` = kőszáli kecske.  
 
-Hasonló eset, amikor két különböző állatnak hasonló neve van, a Götz László Keleten kél a Nap című könyvének 166-167. oldalán szumér-germán szavak párhuzamait bemutató szavak között talált, [[S/Sika\|sika]] címnél is hozott szumér `šeg₈`, `sikka` = kecskebak (vesd össze ófelnémet `ziga` és német `ziege`) és szumér `SAH̬₂` = disznó (germán párjait lásd [[S/Sow\|sow]]).
+Hasonló eset, amikor két különböző állatnak hasonló neve van, a Götz László Keleten kél a Nap című könyvének 166-167. oldalán szumér-germán szavak párhuzamait bemutató szavak között talált, [[S/Sika\|sika]] címnél is hozott szumér `šeg₈`, `sikka` = kecskebak (vesd össze ófelnémet `ziga` és német `ziege`) és szumér `SAḪ₂` = disznó (germán párjait lásd [[S/Sow\|sow]]).
 
 Továbbmenve azt is megállapítja, hogy e szavak töve mind az indogermán, mind pedig a szemita nyelvekben párhuzamos jelentésváltozáson ment keresztül, s egyúttal a vezetés, irányítás általános fogalmának kifejezésére is szolgált: görög `kybernetes` = kormányos, latin `gubernator` = kormányos, kormányzó, óskandináv `jofurr` és csonka hangalakú német `führer`, valamint szemita vonalon akkád `abâru` = erősnek lenni \[vesd össze aveszta [[U/Ugra\|ugra]]\], `gapru` = erős, `kaparru` = pásztor, héber `geber` = helytartó és arab `kebir` = helytartó.  
 
