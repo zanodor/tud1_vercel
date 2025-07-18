@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hole/","title":"Hole","created":"2025-07-12T23:53","updated":"2025-07-12T23:54"}
+{"dg-publish":true,"permalink":"/H/Hole/","title":"Hole","created":"2025-07-12T23:53","updated":"2025-07-19T00:56"}
 ---
 
 
@@ -26,7 +26,7 @@ Ajakhang-betoldással lásd [[H/Hovel\|hovel]].
 
 Magyar Adorján nagyon leragadt a német szavaknál, holott latin szavak is vannak hasonlóak, melyekről lásd [[C/Caelum\|caelum]].  
 
-Götz László Keleten kél a Nap című könyvének 166-167. oldalán szumér-germán szavak párhuzamait bemutató szavak között az ófelnémet `hol` és német `hohl` = üreges szavak mellé a szumér `H̬AL` = kiürít, nyit szót teszi párba.  
+Götz László Keleten kél a Nap című könyvének 166-167. oldalán szumér-germán szavak párhuzamait bemutató szavak között az ófelnémet `hol` és német `hohl` = üreges szavak mellé a szumér `ḪAL` = kiürít, nyit szót teszi párba.  
 
 ## Lábjegyzetek
 
