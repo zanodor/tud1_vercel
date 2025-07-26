@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2025-07-04T22:40"}
+{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2025-07-26T21:31"}
 ---
 
 
 # Kép
 
 A kép, úgy tűnik a [[K/Kő\|kő]]ből készült bálványkép, mely az istenség képe/arca (feje) is lehet, illetve ezek ideák menet közbeni konflációjáról is lehet szó.  
+CzF kápa címénél (lásd [[C/Cap\|cap]]), a latin `caput` és német `Kopf` szavak mellé ajánlja fel összevetésre. Ott is volt szó arról, hogy a fej jelentés nyomán ered a fejfedő jelentés.  
+
 Ahogy [[B/Build\|build]] címnél is szerepelt, kép megfelel a \*köv szónak.  
 
 Már csak azért is lehet ezzel felfogással számolni, mert az ([[E/Ég\|ég]]ig érő) [[H/Hegy\|hegy]] kapcsán is szóba került, [[S/Szakrális geometria#^ovbsl7\|szakrális geometria]] címnél szereplő diagrammal megtámogatva, hogy Isten ott van, a (Világ)hegy tetején.  
