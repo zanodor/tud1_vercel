@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar népművészet/","title":"Magyar népművészet","tags":["Englishtexttranslated"],"created":"2024-05-14T12:18","updated":"2025-06-08T01:10"}
+{"dg-publish":true,"permalink":"/M/Magyar népművészet/","title":"Magyar népművészet","tags":["Englishtexttranslated"],"created":"2024-05-14T12:18","updated":"2025-07-26T21:34"}
 ---
 
 
@@ -208,7 +208,7 @@ Záhonyi András az Ősi Gyökér 2016/3. sz. megjelent cikkében a Magyar Hüpe
 
 Már ezzel vezettem be a szócikket is. Hogy magyar népi műveltség a zsidó-római imperiális eszmeiség tükrében címen keresztül is lehetne bemutatni, miről van szó. Arról, hogy ami a magyarság kollektív népi önkifejezése, az másutt birodalmiként legyártva jelenik meg.  
 Ami egyszer [[E/Erkölcs\|erkölcs]]i indíttatású (magyar), az másutt (zsidóság) [[T/Törvény\|törvény]]ként jelenik meg.  
-Ami a magyaroknál [[P/Pogány\|pogány]] (népi) kereszténység, az a római pápista judeo-kereszténységben a pogányt felülírva, átértelmezve, deszakralizálva, lényegét elhallgatva/hamisítva jelenik meg (a parasztkalendárium évköri jelentésőségű neveit nem létező szentek neveivel cserélik le, stb.). Dúcz László alant idézett írásában is bemutatja a hasonlóságokat a pogány és a katolikus ábrázolások között.  
+Ami a magyaroknál [[P/Pogány\|pogány]] (népi) kereszténység, az a római pápista judeo-kereszténységben a pogányt felülírva, átértelmezve, deszakralizálva, lényegét elhallgatva/hamisítva jelenik meg (a parasztkalendárium évköri jelentőségű neveit nem létező szentek neveivel cserélik le, stb.). Dúcz László alant idézett írásában is bemutatja a hasonlóságokat a pogány és a katolikus ábrázolások között.  
 Ami a népi nyelvezet/szókincsbe tartozó, a valaha magyarajkú Olaszországban, Spanyolországban (magyar ősvallásbeli macaroni, Macarena), az a latin birodalmi lexikális nyelvezetből magyarázott (lásd erről [[N/Nyelvészet mint tudomány\|nyelvészet mint tudomány]] és más címeket).  
 Ezekről a dolgokról mindenütt volt szó, itt-ott.  
 
