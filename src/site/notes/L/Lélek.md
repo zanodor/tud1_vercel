@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2025-06-28T00:02"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2025-07-26T21:33"}
 ---
 
 
@@ -275,7 +275,7 @@ A véleményem az, hogy a Halotti Beszéd isa, por és hamu szavait nem kell biz
 
 Kérdés még, hogy a kún-hun nyelv (valamelyik) lélek jelentésű szava a [[K/Kutya\|kutyá]]val azonos \*kuta, [[G/Guta\|guta]] alakú kellett legyen, akkor már a hun nyelvben is [[D/DOG\|DOG]], [[D/DOH\|DOH]] alakú volt az árnyéklélek neve, tekintve, hogy nemcsak szláv, de még a szenegáli volof nyelvben is ilyen értelmet találtunk, továbbá a [[K/Kutya és szív\|kutya és szív]] címnél is említett csecsen `dog` = szív jelentésű szó nem éppen a lélekszékhelyre mutat?  
 Kell-e egyáltalán itt az egyes szóalakokkal foglalkozni, mármint bizonyítékát keresve az ómagyar elnevezéseknek? Az [ezen](https://en.wiktionary.org/wiki/%D0%B%B2) oldalon talált komi `lov` = lélek; szellem szó is a [[L/LU\|LU]] = fény jelentésű etimon nyomán ered.  
-[[E/Ember#Ember szavunk Eb (Kutya/Szkíta) értelme az Ikrek cikkelyébe tartozó Kutyára vonatkoztatva\|Ember szavunk Eb (Kutya/Szkíta) értelme az Ikrek cikkelyébe tartozó Kutyára vonatkoztatva]] cím/alcímnél volt szó a kut, kuta, guta szavakról és a [[K/Kutyahit\|kutyahit]] címtől áttett információkon keresztül vizsgáljuk a hunok kutyalelkét. Lásd ott.  
+[[E/Ember#Ember szavunk Eb (Kutya/Szkíta) értelme az Ikrek cikkelyébe tartozó Kutyára vonatkoztatva\|Ember szavunk Eb (Kutya/Szkíta) értelme az Ikrek cikkelyébe tartozó Kutyára vonatkoztatva]] cím/alcímnél volt szó a kut, kuta, guta szavakról és a [[K/Kutyahitű\|kutyahit]] címtől áttett információkon keresztül vizsgáljuk a hunok kutyalelkét. Lásd ott.  
 Közben egy MagyarMegmaradásért oldalról levett, több mint tíz éves, azaz a fenti cikkek idejét megelőző,...
 
 #### B. Kántor János Látjátok feleim...
@@ -326,7 +326,7 @@ Folytatja itt azon négy közül három hellyel, ahol isa előfordul (a régies 
 > Jézus egyéb hindi neveivel (Yuz Asaf, Isah Manisih) kapcsolatosan írja Mullah Nadiri az 1400-as években:  
 > "Olvastam a hinduk egyik könyvében, hogy a **próféta neve valójában Hazrat Isa volt, azaz Isten lelke**..."  
 
-A fentiek alapján mondhatjuk, hogy az [[I/Isten\|Isten]] szavunk alakváltozataként tekinthető [[O/Ösztön\|ösztön]] is egyfajta (maga az isteni/isa azaz Szent) lélek, mely – ha az állati ösztönt is idevesszük – a [[K/Kutyahit\|kutyahit]]en keresztül ismét visszakapcsol minket a [[K/Kutya\|kutya]]/[[G/Guta\|guta]] fogalmaihoz és a [[G/God\|God]] cím bevezető soraiban taglaltakhoz: a guta lélek fogalma is adhatja a [[K/Khuda\|Khuda]] és [[G/God\|God]] szavak isten-fogalmát (persze [[G/Göd\|Göd]] címnél írottak alapján a helyzet bonyolultabb).  
+A fentiek alapján mondhatjuk, hogy az [[I/Isten\|Isten]] szavunk alakváltozataként tekinthető [[O/Ösztön\|ösztön]] is egyfajta (maga az isteni/isa azaz Szent) lélek, mely – ha az állati ösztönt is idevesszük – a [[K/Kutyahitű\|kutyahit]]en keresztül ismét visszakapcsol minket a [[K/Kutya\|kutya]]/[[G/Guta\|guta]] fogalmaihoz és a [[G/God\|God]] cím bevezető soraiban taglaltakhoz: a guta lélek fogalma is adhatja a [[K/Khuda\|Khuda]] és [[G/God\|God]] szavak isten-fogalmát (persze [[G/Göd\|Göd]] címnél írottak alapján a helyzet bonyolultabb).  
 
 Por és Pur kapcsán ami még ide tehető.  
 A [[P/Parázs\|parázs]] par- eleme hasonló a [[P/Por\|por]] és [[P/PUR\|pur]] szavakhoz.  
