@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2025-06-08T00:43"}
+{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2025-07-26T21:30"}
 ---
 
 
@@ -53,6 +53,7 @@ Erőss Diána/Bácsi Boglárka is írja:
 #### Péterfai János is írja:
 
 > `Golova`, `Golovüj` orosz szavak. Gyolyó-Fa, Golyó-Fej az utótag magyar megfelelője. Aki látott már Fát, az látja a Fa Fej természetét. Az orosz szóformák Fej jelentésűek, amiben a Go jelenti a Fejet. A Lova, Lovüj még Embert is jelenthet.  
+- Ugyanakkor az orosz `голова` = fej, litván `galvà` = fej, vezető szavak kapcsán már inkább a [[K/Kalap\|kalap]], [[C/Caliph\|kalifa]] és végső soron az arab [[K/Kalb\|kalb]] = kutya eredetét adó Kal-Eb összetétel mutat inkább eredményre, ahogy [[M/Magyar nyelv ősisége – ősnyelv-e a magyar#^250720\|itt]] is írtuk.
 
 Az ember függőleges testtartását hasonlították a fáéhoz (amíg él az ember és a fa, addig áll, ha holt, akkor már nem áll), annak is a [[T/Törzs\|törzs]]éhez; gyökér – \[lásd néppel is kapcsolatba hozva és más egyéb érdekes, Tejútról való leszületéssel kapcsolatos infókkal\] [[T/Törzs\|törzs]] – lomb[[K/Korona\|korona]] (Magyar Adorján is írja, hogy az olasz `braccio` = kart és ágat (elágazást) is jelent, éppúgy, ahogy az oromo `harka`).  
 A családfő kapcsán lásd szintén [[P/PA\|PA]] címnél írottakat is közben, ahol törzsfőről is szó esett.  
