@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lófő/","title":"Lófő","created":"2024-11-05T14:06","updated":"2025-04-27T10:03"}
+{"dg-publish":true,"permalink":"/L/Lófő/","title":"Lófő","created":"2024-11-05T14:06","updated":"2025-07-26T21:38"}
 ---
 
 
 # Lófő
 
-[Ezen](https://magyarmegmaradasert.hu/szerzok/k-n/marton-veronika/item/5920-z) [[M/Marton Veronika\|Marton Veronika]] féle cikkben volt szó Lófő szavunk eredetéről és jelentéséről.  
+[Ezen](https://web.archive.org/web/20240713094449/https://magyarmegmaradasert.hu/szerzok/k-n/marton-veronika/item/5920-z) [[M/Marton Veronika\|Marton Veronika]] féle cikkben volt szó Lófő szavunk eredetéről és jelentéséről.  
 
 > A "lófő" jelentését sokféleképpen magyarázzák, de a Rákosi-korszak egyetemi gyorstalpalóján végzett történelemtanárom meghatározásánál badarabbat, azóta sem hallottam: "Azért lófő, mert a hadba vonuláskor a székelyek a csapat élén levágott lófejet vittek." A középiskolás gyerekeknek fantáziája rögvest megmozdult... Elképzelték, miként masíroztak a székelyek a vértől csöpögő lófej nyomán..."  
 > ![assets/Lófő_image1.png|invert_dark](/img/user/L/assets/L%C3%B3f%C5%91_image1.png)  
 >
 > A csatolt képhez: Kézdimárkosfalvi Barabás Mihály székely hadnagy 1619. júl. 13-án Bethlen Gábortól kapott nemeslevél értelmében lófő lett. A címerében nincs ló, ahogy nincs más lófő címerében sem!
-> 
+>
 > Jelenlegi ismereteink szerint a székelyek vezetőit, első embereit hívták lófőknek. "A székely nemzet hajdani rangsorozása szerint lófő (lovasfő, [[L/Lófejű\|lófejű]]) székelyek ama rendbeliek voltak, kik a hadban lóháton, a maguk lován voltak kötelesek szolgálni. A lófő első írásos említése, "loohfeu" alakban 1050-ből, a második 1096-ból származik.  
 > Csakhogy a X. századi magyar nyelvemlékben, az "I. András király korabeli Imák"-ban az első nemzeti felkelés vezetője, a Békés-megyei illetőségű Vata is lófő, mégpedig "garázda lófő" volt. Ám Békés még a régiségben sem tartozott Erdélyhez.  
 > ![assets/Lófő_image2.png|invert_dark](/img/user/L/assets/L%C3%B3f%C5%91_image2.png)  
