@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2025-06-07T18:46"}
+{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2025-07-26T21:28"}
 ---
 
 
@@ -26,7 +26,7 @@ Hasonló képzet a sumér, melyről...
 Jegyezzük még itt meg, hogy a régi mexikóiak is hasonló módon ábrázolták.  
 ![assets/Ahet_image2.jpeg|invert_dark](/img/user/A/assets/Ahet_image2.jpeg)  
 
-Jankovics Marcell A Nap könyve c. könyvének 64. oldalán írja, hogy a maya [[K/KIN\|KIN]] = "Nap", "nap", "idő" szó képírásjele két keresztbe tett fadarab (lásd 21. rajzot).  
+Jankovics Marcell A Nap könyve c. könyvének 64. oldalán írja, hogy a maja [[K/KIN\|kin]] = "Nap", "nap", "idő" szó képírásjele két keresztbe tett fadarab (lásd 21. rajzot).  
 
 Tibold Makk Szabina az Ősi Gyökér 2016/3. számában osztotta meg a mellékelt képeket (melyeket színesben ezen[^1] videóban is láttunk).  
 ![assets/Ahet_image3.jpeg|invert_dark](/img/user/A/assets/Ahet_image3.jpeg)  
@@ -39,8 +39,8 @@ Megint másutt írja Jankovics Marcell:
 ![assets/Ahet_image5.png|invert_dark](/img/user/A/assets/Ahet_image5.png)  
 Dr. Gyárfás Ágnes az Ősi Gyökér 2010/1-2. sz. közölt Magyar őskutatás a szimbolikák jegyében című cikkében ugyanezt a képet elemzi, de sem nem hozza szóba a két hegyet, sem Samash-t, és ráadásul a nyári napfordulóra gondol, hiszen a Rák csillagképet hozza szóba.  
 \[Hampó József A Kaukázusi juhászkutya ősi pecséthengereken című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében már helyesen téli napfordulósként értékeli.\]  
-(Az általa közölt képpel lecseréltem a Jankovics Marcell által közöltet, mert az rosszabb minőségű volt.)  
-Gyárfás Ágnes említett cikkében szerepel egy másik, Tellóból származó tábla képe is, mely igen valószínűen a [[T/Turul\|Turul]]-madárként megjelenő Napot mutatja a fényhegyek közül kiemelkedve azzal, hogy oroszlánokon állva örökítették meg. Lásd képet csatolva. (Hasonló a [[J/Janus\|Janus]] címnél szereplő Gilgameses ábrázolás. [[J/Janus\|Janus]] címnél ugye a téli napfordulós ábrázolásokról közöltünk képeket. Az kétségtelen viszont, és Gyárfás Ágnes gondolatának helyességét igazolhatná, hogy a jobb oldalon álló kétarcú, [[O/Oannesz\|Oannesz]] címnél kinagyítva adott alak [[J/János\|János]]sága a nyári napfordulóhoz is köthető. Persze a két félév elválasztó pontja lehet nyári és téli napfordulós is.)  
+
+Gyárfás Ágnes említett cikkében szerepel egy másik, Tellóból származó tábla képe is, mely igen valószínűen a [[T/Turul\|Turul]]-madárként megjelenő Napot mutatja a fényhegyek közül kiemelkedve azzal, hogy oroszlánokon állva örökítették meg. Lásd képet csatolva. (Hasonló a [[J/Janus\|Janus]] címnél szereplő Gilgames ábrázolás. [[J/Janus\|Janus]] címnél ugye a téli napfordulós ábrázolásokról közöltünk képeket. Az kétségtelen viszont, és Gyárfás Ágnes gondolatának helyességét igazolhatná, hogy a jobb oldalon álló kétarcú, [[O/Oannesz\|Oannesz]] címnél kinagyítva adott alak [[J/János\|János]]sága a nyári napfordulóhoz is köthető. Persze a két félév elválasztó pontja lehet nyári és téli napfordulós is.)  
 
 A [[L/LÁN\|LÁN]] címnél taglalt két oroszlán témájához való kapcsolódást se feledjük el.  
 
