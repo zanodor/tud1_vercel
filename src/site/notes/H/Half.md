@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Half/","title":"Half","tags":["Englishtexttranslated"],"created":"2025-04-09T15:37","updated":"2025-05-03T11:02"}
+{"dg-publish":true,"permalink":"/H/Half/","title":"Half","tags":["Englishtexttranslated"],"created":"2025-04-09T15:37","updated":"2025-07-26T21:36"}
 ---
 
 
@@ -30,11 +30,41 @@ A kiindulónak tekinthető angol `halve` = felez ige első formájának eredete 
 Az árja s-mobile-os variációk közül pedig lásd a latin `sculpo` = vés igéjét, valamint [[S/Scalpel\|scalpel]] és [[S/Scalp\|scalp]]; s-előtét nélkül pedig [[C/Club\|club]], valamint az azon címnél Magyar Adorján által hozott szavakat.
 { #7c3ct}
 
+```plantuml-svg
+@startuml
+left to right direction
+skinparam BackGroundColor transparent
+skinparam rectangle {
+BackgroundColor #ccbe78
+}
+skinparam card {
+roundCorner 15
+BackgroundColor #f9f5d7
+}
+rectangle "**<color:#e7545c>halve</color>**" as root_verb
+card "<color:#e7545c>halaf</color>" as halaf_node
+card "<color:#e7545c>chalip</color>" as chalip_node
+card "<color:#e7545c>halef</color>" as halef_node
+card "<color:#e7545c>kolapto</color>" as kolapto_node
+card "<color:#e7545c>kalap</color>" as kalap_node
+card "<color:#e7545c>glypho</color>" as glypho_node
+card "<color:#e7545c>galab</color>" as galab_node
+card "<color:#e7545c>sculpo</color>" as sculpo_node
+root_verb -- halaf_node : "héber: kés"
+halaf_node -- chalip_node : "Götz László írásmódja: kés"
+halaf_node -- halef_node : "jiddis: kés"
+root_verb -- kolapto_node : "görög: üt"
+kolapto_node -- kalap_node : "görög: fejsze, üt"
+root_verb -- glypho_node : "görög: bevág"
+root_verb -- galab_node : "héber: vág"
+root_verb -- sculpo_node : "latin: vés (s-mobile variáció)"
+@enduml
+```
 
-Egyébiránt a Wiktionary halbaz (halb proto-germán rekonstrukciója) oldalán még az igen művelt nyelvész kollégák is eljutnak oda, hogy a fél fogalma elvágáshoz kapcsolható:  
-> Possibly from a p-extension of Proto-Indo-European \*(s)kelH- ("to cut") (through a sense "divided"), or from a stem \*ḱol-bʰo-, and cognate with Lithuanian šali̇̀s ("side, strip of land").  
+Egyébiránt a Wiktionary [halbaz](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/halbaz) (halb proto-germán rekonstrukciója) oldalán még az igen művelt nyelvész kollégák is eljutnak oda, hogy a fél fogalma elvágáshoz kapcsolható:  
+> Possibly from a p-extension of Proto-Indo-European \*(s)kelH- ("to cut") (through a sense "divided"), or from a stem \*ḱol-bʰo-, and cognate with Lithuanian `šali̇̀s` ("side, strip of land").  
 > —  
-> Valószínűleg a proto-indoeurópai \*(s)kelH- ("vágni") p-kiterjesztéséből (a "felosztott" értelmen keresztül), vagy egy \*ḱol-bʰo- tőből, és rokon a litván šali̇̀s ("oldal, földcsík") szóval.  
+> Valószínűleg a proto-indoeurópai \*(s)kelH- ("vágni") p-kiterjesztéséből (a "felosztott" értelmen keresztül), vagy egy \*ḱol-bʰo- tőből, és rokon a litván `šali̇̀s` ("oldal, földcsík") szóval.  
 - A rokon szavak lennének [[C/Cleave\|cleave]] és az ott említett [[H/Hieroglyph\|hieroglyph]] címnél hozott szavak.
 
 A félről eszünkbe juthat a [[F/Feleség\|feleség]] szavunk és az [[A/Ádám és Éva\|Ádám és Éva]], valamint [[D/Dogrib\|dogrib]] címnél is taglalt oldalborda. Utóbbi szó szó szerint kutyaborda. A feleség szóban vajon lehet-e ezek szerint a kutya(ős) feleségét keresni?  
