@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv ősisége – ősnyelv-e a magyar/","title":"Magyar nyelv ősisége – ősnyelv-e a magyar","tags":["Englishtexttranslated"],"created":"2023-10-09T06:38","updated":"2025-07-16T14:25"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv ősisége – ősnyelv-e a magyar/","title":"Magyar nyelv ősisége – ősnyelv-e a magyar","tags":["Englishtexttranslated"],"created":"2023-10-09T06:38","updated":"2025-07-26T21:33"}
 ---
 
 
@@ -214,6 +214,16 @@ Péterfai János Atlantiszról szóló írásában úgy fogalmaz, hogy a magyar 
 Valóban, a mai magyar nyelv szavainak kialakulási ideje nem azonos. Több rétegből tevődik össze a modern magyar nyelv szókincse. Az alaprétegre rátevődik a "kismagyar" nyelvek szókincse, mely nyelvek egyes magyar nyelvek nyelvjárásaiból, azok napvallások és majd kereszténység idejéből való vallási-mondai rárakódások útján keletkezett rontásaiból és az egymással keveredő népességek nyelvkeveredéseiből jöttek létre.  
 - Egy példa erre [[S/Sapka\|sapka]] szavunk, mely inkább utódnépeinktől származott vissza, minthogy azt mondhatnánk, hogy ez valamilyen őseredeti magyar szó lenne. Az ősi szó inkább k-előtétes volt, mint amilyen a [[K/Kupa\|kupa]] és [[K/Kúp\|kúp]].
 
+A magyar nyelv szavainak értelmezését az teszi nehézzé, hogy egy logikai síkon lineáris levezetésekkel lehet ugyan (ideiglenesen jól mutató) eredményeket elérni, össze lehet vetni két-három szót, de ekkor a szavakat az ember egyenrangú partnerként tekinti, mintha azok egy homogén közeg részei lennének, majd rájön, az imént vizsgált szavak egy tágabb, mélyebb alapszó halmaz olyan részei, melyek már egy későbbi rétegből kerülnek ki, akár konflációkkal torzultan, és kiderül, hogy már nem tiszta fogalmakkal van dolgunk.  
+Ilyen eset, amikor Péterfai János pl. szépen szól az orosz `golova` = fej kapcsán:  
+> Gyolyó-Fa, Golyó-Fej az utótag magyar megfelelője. Aki látott már Fát, az látja a Fa Fej természetét. Az orosz szóformák Fej jelentésűek, amiben a Go jelenti a Fejet. A Lova, Lovüj még Embert is jelenthet.  
+
+Ugyanakkor az orosz `голова` = fej, litván `galvà` = fej, vezető szavak kapcsán már inkább a [[K/Kalap\|kalap]], [[C/Caliph\|kalifa]] és végső soron az arab [[K/Kalb\|kalb]] = kutya eredetét adó Kal-Eb összetétel mutat inkább eredményre, azaz a fej inkább a Nap éves útjának csúcspontjára utal és persze gondolhatunk Tündér Ilonára, Szíriuszra, mint fejre (a karácsonyfa csúcsdísze is) és ezzel visszatérhetünk a PJI által említett fára, de itt látni kell, hogy a fa nem valódi fa és itt a szakrális szimbolikus háttértartalomban rejlő fogalmak derítendők fel, melyek majd a profán jelentéseket adják.  
+De ahogy mondtam, kikerülnek olyan szókapcsolatok, melyek már egy korábbi magyar szókincsre újként vetülnek rá, és nehéz eldönteni, meddig tiszta a magyar nyelv és mikor válik szkítakori alkotásúvá (az elmúlt 6-8 ezer évben), hogy egy Kal-Eb esetében mondhassuk, hogy eredeti összetétel, holott másutt a fej K-B/K-P vázú, de pl. [[K/Kalap\|kalap]] (fejfedő) szóban újra ott van az [[L/L#L vendéghang\|l vendéghang]].  
+Tehát a kérdés az, hogy meddig magyar a magyar, mert a hivatalos nyelvészet a jelentől számol vissza és csak átvételekről beszél, de valójában itt a múltból kell elindulni és rétegekkel kell számolni. Annyit elismerek, hogy a kezdeti kiindulópontomhoz képest kevesebb szót tartok már tisztán magyar szónak: a magyar nyelvben is történt egy 6-8 ezer évvel ezelőtti és akár arra következő másik (akár több) kiegyenlítődés, hogy a magyar nyelvű szavak bumeráng effektussal visszatérő szavait beépítsük.
+{ #250720}
+
+
 [[N/Nosztratikus nyelvcsalád\|Nosztratikus nyelvcsalád]] címnél is szereplő folytatása:  
 > A Nosztratikus Nyelvcsalád nyelvész kutatói helyes úton járnak, csak azt nem látták meg, hogy az általuk kutatott nyelvek egy még ma is létező nyelvből ágaztak ki. Ebből a nyelvből könnyű levezetni a mai nyelvek sok tízezer, sok százezer szavát, ami igazolja a magyar nyelv ősiségét, a konkrét rovás feliratokon és genetikai bizonyítékokon kívül.  
 > Mivel az ősnyelv a magyar nyelv volt, amit sok kiváló tudós is felismert, a nosztratikus kutatók az ősi egységes nyelvet Kr.e. 15.000 körül gondolják részeire szakadni, ezt az elméletet nagyjából el kell fogadnunk. A magyarnak nevezett ősnyelvből származó más nyelvek keletkezése azonban ma sincs tisztázva. De rengeteg szavuk bizonyíthatóan magyar eredetű, ezért aztán nem lehet vita e nyelvek magyar eredetéről.  
@@ -222,7 +232,7 @@ Valóban, a mai magyar nyelv szavainak kialakulási ideje nem azonos. Több rét
 
 #### Nagyernyei Szabó Zoltán...
 
-...misszionárius pap Let There Be Light című írásából idézem:  
+...misszionárius pap Let There Be Light című írásából vettem:  
 > This appointment brought new spiritual vistas into my life. I studied Hebrew and Greek, and at the same time I studied the Bantu language, the language of Cameroon, in order to translate the Holy Scriptures. This was in addition to the many languages that I had learned from childhood, and the ones I learned during the years of work with different nationalities. I came across the missionary and professor Wange's great dictionary of the Bantu language, entitled "Sumerian, the Sanskrit of N'tu." (N'tu is the plural of the Bantu name.)  
 > —  
 > Ez a kinevezés új spirituális távlatokat hozott az életembe. Héberül és görögül tanultam, és ezzel párhuzamosan a bantu nyelvet, Kamerun nyelvét, hogy lefordíthassam a Szentírást. Mindezt azon a sok nyelven kívül, amelyeket gyermekkoromtól kezdve tanultam, és amelyeket a különböző nemzetiségekkel való munka évei alatt tanultam. Rábukkantam Wange misszionárius és professzor nagyszerű szótárára a bantu nyelvről, amelynek címe "Sumerian, the Sanskrit of N'tu". (A N'tu a bantu név többes száma.)
