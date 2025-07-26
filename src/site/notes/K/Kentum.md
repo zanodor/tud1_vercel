@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kentum/","title":"Kentum","created":"2025-05-29T17:30","updated":"2025-07-16T14:27"}
+{"dg-publish":true,"permalink":"/K/Kentum/","title":"Kentum","created":"2025-05-29T17:30","updated":"2025-07-26T21:36"}
 ---
 
 
@@ -46,5 +46,5 @@ Jó példa a kentum-szatem ágak összetartozóságára a svéd/norvég K hang, 
 
 A Kabar, Kovár a Kentum hangzás alapján kimondott nevek, amelyek *keleties* Szatem hangzás alapján Szabar, Szovár hangzásúak.  
 
-Az, hogy a szatem keleties, lehet, hogy igaz, de legutóbb [[C/Csuda\|csuda]] címnél kifejtettük, hogy a magyar nyelv magában hordozza a lehetőséget arra, hogy egyes kemény hangzói (mint a K) meglehessen s, sz, cs formában is, némi jelentésmódosulattal is. Így a Magyar Adorján által taglalt régi `csod` vagy `csud` = "süt, fény, ég" keményebb, eredetibb párja lehet [[K/Kut\|kut]], [[C/Csuda\|csudá]]nak pedig [[K/Kutya\|kutya]], de eredeti a [[S/Süt\|süt]] is (hisz ez [[T/Tűz\|tűz]] szavunk megfordítása). Az is igaz, hogy [[S/Sapka\|sapka]] szavunk kapcsán meg épp azt feltételeztük, hogy inkább egy k-előtétes szó lehetett eredeti.
+Az, hogy a szatem keleties, lehet, hogy igaz, de legutóbb [[C/Csuda\|csuda]] címnél kifejtettük, hogy a magyar nyelv magában hordozza a lehetőséget arra, hogy egyes kemény hangzói (mint a K) meglehessenek s, sz, cs formában is, némi jelentésmódosulattal is. Így a Magyar Adorján által taglalt régi `csod` vagy `csud` = "süt, fény, ég" keményebb, eredetibb párja lehet [[K/Kut\|kut]], [[C/Csuda\|csudá]]nak pedig [[K/Kutya\|kutya]], de eredeti a [[S/Süt\|süt]] is (hisz ez [[T/Tűz\|tűz]] szavunk megfordítása). Az is igaz, hogy [[S/Sapka\|sapka]] szavunk kapcsán meg épp azt feltételeztük, hogy inkább egy k-előtétes szó lehetett eredeti. ([[S/Száj\|Száj]] párjaként felmerült közben [[K/Káva\|káva]], jegyzem meg.)
 { #i1e0w6}
