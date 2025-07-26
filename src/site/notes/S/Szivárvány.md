@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szivárvány/","title":"Szivárvány","tags":["containstransclusions"],"created":"2023-10-31T11:12","updated":"2025-06-07T19:11"}
+{"dg-publish":true,"permalink":"/S/Szivárvány/","title":"Szivárvány","tags":["containstransclusions"],"created":"2023-10-31T11:12","updated":"2025-07-26T21:36"}
 ---
 
 
@@ -64,7 +64,7 @@ A Kus-Kos nyilas témát itt még nem fejeztük be, ugyanis [ezen alábbi](https
 > —  
 > **Quzaḥ** (arabul: قزح) az időjárás iszlám előtti arab istene, akit Muzdalifa népe imádott. Az őszi napéjegyenlőség után ünnepelt, az iszlám előtti Ifada rítust Quzah szentélye irányába fordulva végezték. Quzah-ra való maradandó utalás a `qaws Quzaḥ` (قوس قزح), "Quzah íja" kifejezés, amely a szivárvány arab kifejezésévé vált.  
 
-Dobos Csanád az [alábbi](https://magyarmegmaradasert.hu/kozerdeku/olvasoink-irjak/item/4754-z) cikkben szintén foglalkozik a szivárvánnyal de nem tekint túl rajta (nem gondol félrefordításra).  
+Dobos Csanád az [alábbi](https://web.archive.org/web/20210509155450/https://magyarmegmaradasert.hu/kozerdeku/olvasoink-irjak/item/4754-z) cikkben szintén foglalkozik a szivárvánnyal de nem tekint túl rajta (nem gondol félrefordításra).  
 
 A Péterfai János által említett Kasszita[^1] nem lehet más, mint a [[B/Banana\|banana]], [[N/Nyilas csillagkép\|Nyilas csillagkép]] és [[K/KUS\|KUS]] címnél is előjövő bibliai-héber `qĕšĕt` szó, mely a [[Z/Zsidó zodiákus\|zsidó zodiákus]] címnél a-hangosan, **Kasshat**-ként (Nyilas) kerül elő, csakhogy a [[K/Khamor\|Khamor]] címnél taglalt akkád **Kumaru** és a [[S/Szkíta\|szkíta]] címnélt taglalt (Sagittarius-Nyilassal szemben lévő) [[I/Íj csillagkép\|Íj csillagkép]] témái alapján elvileg ez a név a másik, szemközti Nyilazó neve is lehet, tekintve, a hogy a Kasszita kapcsán is taglalt Kazár, Kattar nevek, ahogy [[K/Kazár\|kazár]] címnél taglaljuk, Orionra utalnak.  
 
