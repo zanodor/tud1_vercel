@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kalács/","title":"Kalács","tags":["Englishtexttranslated"],"created":"2024-12-18T07:36","updated":"2025-05-29T14:35"}
+{"dg-publish":true,"permalink":"/K/Kalács/","title":"Kalács","tags":["Englishtexttranslated"],"created":"2024-12-18T07:36","updated":"2025-07-26T21:33"}
 ---
 
 
@@ -34,7 +34,7 @@ János neve tehát anyus, az év/Kor(asszony)/Körasszony neve valójában és n
 
 #### Práczki István Gálok eredete...  
 
-...című, [ezen](https://magyarmegmaradasert.hu/erdekkorok/magyarsag/szarmazastan/item/2606-g%25C3%25A1lok-eredete) internetes cikkében is taglalja karácsonyt és előjön maga is a Körasszony névvel (lásd bővebben passzusát [[K/Karácsony\|Karácsony]]; csak ami a kaláccsal kapcsolatos azt tenném ide):  
+...című, [ezen](https://web.archive.org/web/20221005161019/https://magyarmegmaradasert.hu/erdekkorok/magyarsag/szarmazastan/item/2606-g%C3%A1lok-eredete) internetes cikkében is taglalja karácsonyt és előjön maga is a Körasszony névvel (lásd bővebben passzusát [[K/Karácsony\|Karácsony]]; csak ami a kaláccsal kapcsolatos azt tenném ide):  
 > A Körasszony, a várandós anya napja, a Körösztölés és a Kerecsen név torzult \[nem torzult, hanem alakváltozata\] Karácsonnyá, amikor a mákos kalácsot sütötték. \[...\] Ne feledkezzünk azonban el a fonott kalácsról sem, melyet mákkal hintettek be. A mag-, mák a magyarokat jelenti, míg az R = L szabály alapján a Karácson és a kalácsom között csak a "Bach-huszárok" látnak szláv összefüggéseket.  
 
 #### Tomory Zsuzsa Istenes magyar emlékeink III. rész...
