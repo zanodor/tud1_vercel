@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-07-19T00:56"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-07-26T21:29"}
 ---
 
 
@@ -11,6 +11,11 @@
 
 **Videók kivonatokkal**:  
 
+[250725CN! KLÁNOSODÁS](https://rumble.com/v6wof9y-250725cn-klnosods-kubnyi-tams-ktv.html)  [https://archive.ph/sNUFC](https://archive.ph/sNUFC)
+[250724CN! ŐSMANIPULÁCIÓ](https://rumble.com/v6wmul6-250724cn-smanipulci-kubnyi-tams-ktv.html)  [https://archive.ph/x6RGe](https://archive.ph/x6RGe)
+[250723CN! SÁRKÁNYOS VILÁGTERV](https://share.note.sx/7rlblw54)  [https://archive.ph/KeaKN](https://archive.ph/KeaKN)
+[250722CN! ÁKTV-SZÜLETÉSNAP](https://rumble.com/v6wjeb0-250722cn-ktv-szletsnap-kubnyi-tams.html)  [https://archive.ph/1KxF7](https://archive.ph/1KxF7)
+[250721CN! 1456!](https://rumble.com/v6whlr6-250721cn-1456-kubnyi-tams-ktv.html)  [https://archive.ph/z0ULr](https://archive.ph/z0ULr)
 [250718CN! PARADIGMAVÁLTÁS](https://rumble.com/v6wczg4-250718cn-paradigmavlts-kubnyi-tams-ktv.html)  [https://archive.ph/drpN1](https://archive.ph/drpN1)
 [250717CN! A NAGY SZKIZMA 2](https://rumble.com/v6wbahw-250717cn-a-nagy-szkizma-2-kubnyi-tams-ktv.html)  [https://archive.ph/x0XA6](https://archive.ph/x0XA6)
 [250716CN! A NAGY SZKIZMA 1](https://rumble.com/v6w9mh0-250716cn-a-nagy-szkizma-1-kubnyi-tams-ktv.html)  [https://archive.ph/eKFOh](https://archive.ph/eKFOh)
