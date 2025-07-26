@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kő/","title":"Kő","created":"2024-05-08T13:48","updated":"2025-06-12T01:39"}
+{"dg-publish":true,"permalink":"/K/Kő/","title":"Kő","created":"2024-05-08T13:48","updated":"2025-07-26T21:32"}
 ---
 
 
 # Kő
+
+#### A Czuczor-Fogarasi szótár adata:
+
+> A magyarban is módositva kü v. kű, mint Ös-kö, falu Veszprém megyében. Nevét vagy azon kemény tompa hangtól vette, melylyel az ütést viszonozza, vagy benne mindkét hangnak saját értelme egyesűl, minthogy a k hajlót, görbét, az ő hang pedig sűrüen összeszorult tömeget jelent, mint a köt, töm, tömör, több stb. szókban.  
 
 #### Péterfai János írja:
 
@@ -13,6 +17,14 @@
 > Földanya Isten, akinek Csontjai a Stone-ok[^1]. Csont és Stone azonos szerkezetű szó. Továbbá az [[I/Isztán\|Isztán]] is Kő, mint a Csont is Kő a testben, a halál után a csontok megkövesülnek. A magyar nyelv ötven szónál jóval többet használ a föld különböző neveire. Mivel a Földanya őseink szemében élő és női személyiség volt, testének a felépítésében a Kövek alkották a Csontokat, a Stone tehát a Földanya Csontja, Isteni megnyilvánulása. A hegyek a Földanya csontjai, a talaj, mező és egyéb változatok már nem a Földanya csontozatára mutató nevek. Kő szavunk nem általában Isten, hanem kifejezetten a Földanya isteni neve, több változatban is megismerhető. A Csont a Szont, vagyis Szent, a Szton a Szont rontása.  
 - A kő és a csont fogalmainak összefüggésére mutat rá, hogy a szlávban is `koszt` = csont, mint [[C/Csontváry Kosztka Tivadar\|Csontváry Kosztka Tivadar]] nevében is.
 
+## Hasonló idegen nyelvű szavak
+
+#### A Czuczor-Fogarasi szótár adata:
+
+> Rokonok hozzá a sínai `kia` (quidam lapis pretiosus), `keu` (lapis gemmae inferior), `kiái` (quidam lapis niger; sceptrum quoddam lapideum), `kueu` (lapis gemmae similis), a finn nemzetségi: `kiwi`, `käw`, `kew`, `kű`, `ku`, `kow`, `keu`, `koch`; a nyúgoti kaukázi `kau`, `kauch`, és a szláv `kamen`.  
+
+
+
 #### Magyar Adorján Ősműveltség...  
 
 ...című könyvében írja ([[K/Köveszt\|köveszt]] címnél álló bevezetés után folytatjuk itt; a második része [[E/Etymon\|etimon]] és más címnél is szerepelt):  
@@ -21,9 +33,6 @@
 > Az igazi ősszavak ugyanis mindig egytagúak, mivel egyszerű hangadásokból keletkeztek, és természetesen mindig olyan dolgokat neveznek meg, amelyeket már az ősember is ismert, vagyis olyanokat, amelyek a természetben fordulnak elő, mint például kő, főld, víz, fa, fú stb., stb. Mihelyt tehát valamely szó többtagú, akkor az csakis valamely egytagú ős-szó származéka lehet. Eszerint kétségtelen, hogy nemcsak a szláv `kamen`, hanem a finn `kive` = kő szó is a mi kő szavunk származéka. Ugyanígy a magyar kova szó is, amely azon jellegzetesen kemény kőnemet nevezi meg, amelyből az ősember, és mindenesetre a kunok ősei is szerszámaikat és fegyvereiket készítették volt. Ezt igazolja azon tény is, hogy a finn nyelvben `kova` \[kovan\] = kemény, amely szó a mi kova szavunkkal teljesen azonos. Hogy azonban őseink kő, ko vagy ka szavunk továbbképzéseiben nem csak v hangot ejtettek (kova, kavics, köves, kövecs), hanem h hangot is, bizonyítja például az is, hogy Békés megye magyarsága kova szavunkat ma is koha-nak ejti (Lássad: Herman Ottó: "A magyar pásztorok szókincse". Budapest, 1914. 215 oldal.)  
 
 Hasonló utóbbiakhoz a japán `kabe` = fal, mely akár kőből épült is lehet.  
-Melyhez hasonló már egyúttal [[K/Kép\|kép]] szavunk is, ahol szintén szó esett kőről. Lásd még alant.  
-
-## Hasonló idegen nyelvű szavak
 
 A [[K/Kutya\|kutya]] címnél is említett perzsa és hindi `kuh`, `koh` = hegy szavak eredetét lásd [ezen Wiki oldalon](https://en.wiktionary.org/wiki/%DA%A9%D9%88%D9%87), ahol a `kova` szavunknak megfelelő óperzsa `kaufa` = hegy szóra vezetik vissza.  
 
@@ -32,6 +41,8 @@ Az [ezen](https://dictionary.swodli.com/) szótárban talált, hegy szóval is e
 
 
 ## Kőemlékek és bálványok
+
+A fentiekhez hasonló egyúttal [[K/Kép\|kép]] szavunk is, ahol szintén szó esett kőről.  
 
 #### Kállay Ferenc A pogány magyarok vallása...
 
