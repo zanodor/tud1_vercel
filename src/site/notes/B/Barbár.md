@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-04T04:55","updated":"2025-07-17T22:44"}
+{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-04T04:55","updated":"2025-07-26T21:29"}
 ---
 
 
@@ -114,7 +114,7 @@ Hasonlóan...
 
 - Ezzel visszatérünk ahhoz a "népi" vonulathoz, amelyről [[P/Pogány\|pogány]] címnél Pap Gábor nyomán volt szó.
 
-Több helyen szóltam arról, hogy tulajdonképpen a hunok napvallást követő csoportjának, vallásos nézetüknek, ennek hun-utód népességei révén történő elterjedésének és az általuk képviselt patriachalizmusnak tulajdonítható a legtöbb Földet érő baj. Még azt sem tartom kizártnak, hogy a héber [[G/Gój\|gój]] nemcsak marha, hanem kutya (lásd kínai `gou` = kutya, ír `cù` = kutya, stb.) asszociációkkal illethető és az általuk képviselt felfogás annak szól, hogy ha "Szíriusz távollétében a Szíriuszt tisztelők nem élvezik annak pártfogását, így a világuralom a miénk." \[Azóta kiderült, hogy a [[K/Kutyahit\|kutyahit]] az ősi hit.\]  
+Több helyen szóltam arról, hogy tulajdonképpen a hunok napvallást követő csoportjának, vallásos nézetüknek, ennek hun-utód népességei révén történő elterjedésének és az általuk képviselt patriachalizmusnak tulajdonítható a legtöbb Földet érő baj. Még azt sem tartom kizártnak, hogy a héber [[G/Gój\|gój]] nemcsak marha, hanem kutya (lásd kínai `gou` = kutya, ír `cù` = kutya, stb.) asszociációkkal illethető és az általuk képviselt felfogás annak szól, hogy ha "Szíriusz távollétében a Szíriuszt tisztelők nem élvezik annak pártfogását, így a világuralom a miénk." \[Azóta kiderült, hogy a [[K/Kutyahitű\|kutyahit]] az ősi hit.\]  
 
 [[Z/Zsidó\|Zsidó]] címnél (bővebben) szerepelt, hogy a nevük tulajdonképpen lehetne sárkány, vagy lehetne nevük fene, kut/kutya, de mindenképpen szaturnuszi, mint az istenük, [[J/Jahve\|Jahve]] is. A héber Szaturnusz, [[K/Kijjún\|Kijjún]] is a görög `kyon` = kutya átformálásának tűnik. \[...\] Tulajdonképpen kimondható, hogy a dualisztikus világkép magyarok majd zoroasztriánusok általi megismertetése adta az ötletet, hogy ebben is lehet gondolkodni (zsidó) emberként (mely ugye már nem emberi szint). Sőt, a [[K/Kut\|kut]] címnél álló életkör-diagram negatív oldalán álló szavak [[G/Goetia\|Goetia]] és a germán [[G/God\|God]] nevekkel való hasonlítása nyomán kimondható, hogy a vaskori kutyaélet és lélek nélküli élet folyik ma a Földön.  
 
