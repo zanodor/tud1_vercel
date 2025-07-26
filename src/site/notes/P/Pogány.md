@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2025-07-12T00:27"}
+{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2025-07-26T21:35"}
 ---
 
 
@@ -144,7 +144,7 @@ Szűcs László Égre írott történelmében írja ([[K/Kártya\|kártya]] cím
 
 ## Újpogány
 
-[Ezen](https://magyarmegmaradasert.hu/dakoták-1200-éves-magyar-nyelven-beszélnek) cikkhez *leszerelt* nevű hozzászóló írja:  
+[Ezen](https://magyarmegmaradasert.hu/dakoták-1200-éves-magyar-nyelven-beszélnek) cikkhez *leszerelt* nevű hozzászóló írta (már nem elérhető archiválva sem):  
 > Az újpogány szó ugyanazt a célt szolgálja, mint az antiszemitizmus meg a terrorizmus szavak. Mindegyiknek célja egy önkényeskedő diktatúrát ellenző egyén vagy csoport lejáratása és kigúnyolása, meg a gyűlöltetszítás ezen egyének és csoportok ellen. Antiszemitának kikiáltott az, aki leleplezi a zsidóság gonosztetteit. Terroristának pedig az, aki a világhódító cionizmus ellen szót vagy kezet emel, vagy csak gondolni mer ilyesmire.  
 > A "pogány" szó maga "országbelit", azaz "nem idegen"-t, szófejtésben "határjelzőkkel kijelölt terület"-et (latin `pagus`) jelent. Függetlenül attól, hogy mit hisz, mit nem, ma újpogánynak kikiáltott az, aki újonnan ébredt rá a júdeokrisztián (szófejtésben zsidófelkent), önmagát Római Katolikusnak nevező és a magyar nyelvterületeken kereszténynek álcázó egyház hazudozásaira, csalásaira, undorító viselkedésére és gonosztetteire. Kiemelem, hogy itt nem a falusi kispapokra, szerzetesekre, apácákra vagy az erkölcsös életet gyakorló és azért küzdő hívőkre utalok, akiknek általában fogalmuk sincs például se a zsidó Grünwald (Erdő) Péter, a Vatikán magyarországi főkomisszárja kilétéről vagy gonosztetteiről a magyarság ellen, se Calanusról, a "szentszék" pécsi hóhér-püspökéről, aki mérgezett ostyával gyilkolta meg III. Béla ifjú királyunkat (utóbbi adat Botos László: Királygyilkosságok nyomán).  
 > Föltételezhető, hogy a KÉSZ tagjai is ezek a tájékozatlanok közé tartoznak. Nem tudom.  
