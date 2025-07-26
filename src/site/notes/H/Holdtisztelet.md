@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/H/Holdtisztelet/","title":"Holdtisztelet","created":"2025-05-01T16:00","updated":"2025-06-08T00:44"}
+{"dg-publish":true,"permalink":"/H/Holdtisztelet/","title":"Holdtisztelet","tags":["containstransclusions"],"created":"2025-05-01T16:00","updated":"2025-07-27T01:16"}
 ---
 
 
 # Holdtisztelet
 
 [[K/KUN\|KUN]] cím bevezetőjében írtuk:  
-Péterfai János adata szerint a KUN is Nap, és nem Hold, ahogy a sumér és a (régi) finn nyelvben (lásd bővebben adományozó/pusztító Napról [[N/Nap#Nap – pusztító Nap\|Nap – pusztító Nap]] cím/alcímnél és [[S/Suomi\|Suomi]] címnél) (lényegében a Nap-kultuszról Hold-kultuszra átállás a népek délre való költözésével járhatott együtt és a [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]] címnél taglalt időszakra lehet gondolni, illetve a [[H/Hold#A Hold nem a miénk?\|A Hold nem a miénk?]] címnél is volt arról szó, hogy a Szíriusz-tiszteletet válthatta fel a Hold-tisztelet, továbbá a Hold isten*nő*ként való tisztelete is a [[M/Magna Mater\|Magna Mater]] Tejútanya szerepe feledésével járhatott (áttársítás).  
+Péterfai János adata szerint a KUN is Nap, és nem Hold, ahogy a sumér és a (régi) finn nyelvben (lásd bővebben adományozó/pusztító Napról [[N/Nap#Nap – pusztító Nap\|Nap – pusztító Nap]] cím/alcímnél és [[S/Suomi\|Suomi]] címnél) (lényegében a Nap-kultuszról Hold-kultuszra átállás a népek délre való költözésével járhatott együtt és a [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]] címnél taglalt időszakra lehet gondolni, illetve a [[H/Hold#A Hold nem a miénk?\|A Hold nem a miénk?]] címnél is volt arról szó, hogy a Tejútistennő/Szíriusz-tiszteletet válthatta fel a Hold-tisztelet, továbbá a Hold isten*nő*ként való tisztelete is a [[M/Magna Mater\|Magna Mater]] Tejútanya szerepe feledésével járhatott (áttársítás).  
 Itt azért jegyezzük meg, hogy a napvallásról holdvallásra átállás nem az utóbbi korok jellemzője, hisz épp inkább fordítva történt.  
 Azt is jegyezzük meg, hogy [[H/Hold\|Hold]] címnél, külön alcímnél szóltunk archaikus állapotokról, amikor a Nap szerepe/tisztelete nem volt meghatározó.  
 
@@ -43,7 +43,7 @@ Jankovics Marcell szerint általánosságban elmondható, hogy a "nő Nap" "fér
 Amikor Jankovics Marcell A Nap könyve című könyvében arról ír, hogy az asztronómiai istenségek közül rendszerint az eget megszemélyesítő isten vagy a napisten a legrangosabb és legfeljebb a Hold (istene) előzi meg, akkor arra kell gondoljak, hogy ez a csillagvallás tana. Írja még itt, hogy ahol az Ég az úr, ott a Nap rangban rögtön utána következik.  
 Nos, ezek alapján Khoda/[[K/Khuda\|Khuda]]-[[G/God\|God]] kutya/Holdisten is lehetne. A germán nyelvekben God Holdisten már csak azért is lehetne, mert a szintén hun-eredetű török és az egyéb iszlámot felvevő népeknél szintén holdtisztelet volt (de a zsidók holdnaptára is sokatmondó).  
 Bognár Ferenc A magyarok istene című cikkében írja, hogy Mahler Ede szerint a [[J/Jahve\|Jahve]]-féle vallás holdtiszteletre épült.  
-A [[S/Szemiták és árják\|szemiták és árják]]nál viszont avar-hun terjesztésű naptisztelet és náluk a hold ugyanúgy hímségivé lett, mint a Nap. Erre utal, hogy [[K/Kanca\|kanca]]-Honszu-[[K/Konc\|Konc]] még nőiségi, de [[M/Mén\|mén]] már hímségi holdisten, melyről Bakos Attila A Duna Evangéliuma című könyvének 253. oldalán írja:  
+A [[S/Szemiták és árják\|szemiták és árják]]nál viszont avar-hun terjesztésű naptisztelet és náluk a hold ugyanúgy hímségivé lett, mint a Nap. Erre utal, hogy [[K/Kanca\|Kanca]]-Honszu-[[K/Konc\|Konc]] még nőiségi, de [[M/Mén\|mén]] már hímségi holdisten, melyről Bakos Attila A Duna Evangéliuma című könyvének 253. oldalán írja:  
 > A kétjelentésű magyar mén szó egyrészt jelenti, ma már csak népiesen, hogy mén, azaz megy, másrészt a hím lovat. A hímelvű Holdisten ősi neve abból az időből, amikor a Hold még saját fénnyel világított\[?\] és hőt adott.  
 
 Azt is tudni kell, hogy a holdtisztelő hunokat követve a sémiknél is a holdfelkeltével kezdődik az új nap (Mahler Ede Ókori chronologiai kutatások című 1915-ös könyvének 11. oldala alján is ír erről).  
@@ -52,11 +52,22 @@ Azt is tudni kell, hogy a holdtisztelő hunokat követve a sémiknél is a holdf
 
 A csillagvallás idejéből származó égi nyilas-íjas égi szimbolika (lásd [[I/Íj és a nyíl\|íj és a nyíl]], [[V/Vadász\|vadász]], stb.) kötődik:  
 1\. a Naphoz, [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél írottak szerint is (de ott inkább arról volt szó, hogy a Nap az Orionban való állása adja a szimbolika alapját, dacára, hogy a Nap sugarainak jelképe lehet nyílvessző is.  
-2\. a Holdhoz, a holdsarló alakját tekintve. Tomory Zsuzsa Arthur legendakör című tanulmányában olvasható passzust idézi ...
+2\. a Holdhoz, a holdsarló alakját tekintve. Tomory Zsuzsa Arthur legendakör című tanulmányában olvasható passzust idézi...
 
-#### Gyárfás István A jász-kunok története...
+#### Magyar Adorján Ősműveltség...  
 
-...című műve I. kötetéből:  
-> "Ám, hogy a szóban lévő íj és íjász szavunk nem származott a görögből, hanem hogy a görög nyelv örökölte ezt az ősjónoktól azaz jászoktól, íjászoktól, bizonyítja az is, hogy a holdsarló, amikor igen vékony: íjra hasonlít. \[...\] Említettem már a jászok Jón vagy Jázon Holdistenét és hogy a holdkaraj íjhoz hasonlít, ami tehát a török `aj` = Hold és `jaj` = íj szóban is kifejeződik; de ez a görög nyelvben nem fejeződik ki."  
+...című könyvéből:  
 
-Ezek alapján egy-egy, mondhatnánk, de valójában az éji égen (a Tejútistennő territóriuma) látható íjak kézzelfoghatóbbak, mint a Nap sugarainak képletes elképzelése, sőt, Nimrud-Orion Vadász íja is csak az éji égen látható, mikor a Hold van fenn.  
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/J/Jász/#50c741" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> Gyárfás István A jász-kunok története című műve I. kötete 298. oldalán olvashatjuk: 'Ptolemaius a régi Pannoniában lakó népeket előszámlálván Sabaria (Szombathely) környékére Jassius népet helyez. A Magyar Nemzeti Múzeum Savariában, azaz Szombathelyen kiásott római tégláján pedig ez olvasható: 'Lucius Savariensis Jon'. De Gyárfás írja még, többek között, ezt is: "Bizanti István 1694-ben írja: 'Jas, Illuria része, lakói Játák; neveztetik Jonikának is.' Továbbá ugyanezen újgörög grammatikust, Byzanti Istvánt idézve írja még: 'Mursa, városa Jónikának, építménye Adrianusnak.'..Egy római kövön, amely a régi Mursa, ma Eszék várostól nem messze ásatott ki, s Kr.u. 192. év előtti időből való, ez áll: "Divo Comodo Respublica Jasoru." ... A jászok a Dunántúl és Szlavóniában is éltek, valamint hogy ők és földjük neveztettek úgy jász, mint jón, illetve Jónika-, vagy Jónia-nak is. De tudjuk még, hogy régen Erdélyben és Moldavában is éltek jászok. És íme: Gyárfás föl is hozza: "Várhely körül kiásott és Antonius Pius korábul Kr.u. 140 év körül való római kövön többek között ez áll: "pro saluta et felici Pont., Max. et Anniae Faustinae Aug. Coniugi C. Clod. VI. Praef. M. Dacoand cum Jassiorum hanc statuam is Auroria numinibus", stb. másik görög, harmadik latin föliratú kövön: "Axius Aelianus Jonius." áll, melyekből kiderül, hogy Erdélyben avagy Moldovában Kr.u. 153-ban laktak dák-jászok, és hogy a jonius a jassius-szal ugyanazon egy jász nemzet."  
+> "A régi írók a Duna-Tisza közében élt jászokat említve, írják, hogy főképp íjjal, nyíllal harcoltak, valamint a Traján-oszlopon ábrázolt jásziuszok, vagy jazigok kezükben íjjal, nyíllal, fejükön sisakkal, a maguk és lovuk testén pedig pikkelypáncéllal tüntetvék föl. Ám, hogy a szóban lévő íj és íjász szavunk nem származott a görögből, hanem hogy a görög nyelv örökölte ezt az ősjónoktól azaz jászoktól, íjászoktól, bizonyítja az is, hogy a holdsarló, amikor igen vékony: íjra hasonlít, – amiről föntebb már volt szó, márpedig a törökben [[A/AJ\|aj]] = Hold, viszont a törökben, tatárban és ujgurban `jej`, `jaj` = íj, amiből világosan kitűnik, hogy nem a magyar, a török, a tatár és az ujgur nyelv (utóbbi egy régi török nyelvjárás) vette Hold és íj értelmű e szavait a görögből, hanem hogy megfordítva: a görög nyelv örökölte, de ezt már tévesen alkalmazva, [[I/Io\|io]], `iosz` szavát Kréta szigete és a félsziget jász őslakóitól. Említettem már a jászok Jón vagy Jázon Holdistenét és hogy a holdkaraj íjhoz hasonlít, ami tehát a török `aj` = Hold és `jaj` = íj szóban is kifejeződik; de ez a görög nyelvben nem fejeződik ki."  
+> Hozzáteszem: Igaz ugyan, hogy valaki azt is következtethetné, hogy itt csupán valamely nyilazókról van szó, és hogy ezeket rómaiak, az elnevezést a görögből szedve, adták volna a `jonius` nevet. De honnan szedték akkor az ennek csakis a magyar nyelvből magyarázható jász megfelelőjét? Görögül ugyanis `io`, `iosz` = nyíl, de nem íj. Ugyancsak görögül pedig `ijon` = nyilas, vagy nyilazó. Azt is jól tudjuk, hogy a magyar jász népnév íjászt, íjast, de nem nyilazót, nem nyilast, hanem íjjal fölfegyverzettet jelent". (Az Ősműveltség kézirat 1532-1534. old)  
+
+
+</div></div>
+
+
+Ezek alapján "egy-egy", mondhatnánk, de valójában az éji égen (a Tejútistennő territóriuma) látható íjak kézzelfoghatóbbak, mint a Nap sugarainak képletes elképzelése, sőt, Nimrud-Orion Vadász íja is csak az éji égen látható, mikor a Hold van fenn.  
