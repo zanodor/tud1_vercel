@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","created":"2024-04-20T13:37","updated":"2025-07-19T00:55"}
+{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","created":"2024-04-20T13:37","updated":"2025-07-26T21:35"}
 ---
 
 
@@ -109,6 +109,7 @@ Az igaz, hogy a zsidóknak nem volt megengedve a csillagok kémlelése, de előd
 
 Az Óriás pedig a [[V/Vadász\|Vadász]], és több kultúra mitológiájában a vadász a szarvast a Tejút gázlójánál űzi.  
 Lásd Jankovics Marcell idevonatkozó sorait [[C/Csudaszarvas#^3dacwk\|itt]].  
+  
 
 ## Lábjegyzetek
 
