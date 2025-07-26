@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2025-07-03T18:38"}
+{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2025-07-27T01:09"}
 ---
 
 
@@ -307,7 +307,7 @@ Ez a kormeghatározás azért (lett volna) érdekes, mert épp 13000 éve voltun
 
 Arról, hogy a [[F/Föld tengelyferdülése\|Föld tengelyferdülésé]]t a Hold belépése okozta, Joscelyn Godwin Arktos The Polar Myth című könyvének 190. oldalától kezdve volt szó.  
 
-[[H/Hunor és Magor\|Hunor és Magor]] címnél is felvetődött, Magyar Adorján írása alapján, hogy a kúnok/hunok égitestje a Hold volt. Viszont más információk szerint a kúnok/hunok [[I/Iker\|iker]]sége a magyarokkal abban áll, hogy [[N/Nimrud\|Nimrud]]tól két Napminőséget kapunk, így a Hold – az a Hold, amiről az járja, "nem a miénk," – csak felvehette a Kin/Kún [[M/Mozgó név\|mozgó név]]et (a régi finn nyelvben **kún** is Holdat jelentett[^20]).  
+[[H/Hunor és Magor\|Hunor és Magor]] címnél is felvetődött, Magyar Adorján írása alapján, hogy a kúnok/hunok égitestje a Hold volt. Viszont más információk szerint a kúnok/hunok [[I/Iker\|iker]]sége a magyarokkal abban áll, hogy [[N/Nimrud\|Nimrud]]tól két Napminőséget kapunk, így a Hold – az a Hold, amiről az járja, "nem a miénk," – csak felvehette a Kin/Kún [[M/Mozgó név\|mozgó nev]]et (a régi finn nyelvben **kún** is Holdat jelentett[^20]).  
 
 
 ## Hold virágai
