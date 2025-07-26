@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-12-18T11:38","updated":"2025-07-12T00:28"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-12-18T11:38","updated":"2025-07-26T21:35"}
 ---
 
 
@@ -33,7 +33,7 @@ Fentebb szó volt a címerről. Dúcz László Szent madarunk a Turul című tan
 
 ...[[T/Turbo\|turbo]] szónál:  
 > A magasban kóválygó sas régi turul = köröz, kering, kóvályog neve.  
-- Érdekes Aczél József könyvében talált adat turul madarunkra, ahol a görög `trul-` = lármázni szóra azt irja Aczél József, hogy a turul a lármás sas.
+- Érdekes Aczél József Szittya-görög eredetünk című könyvében talált adat turul madarunkra, ahol a görög `trul-` = lármázni szóra azt irja Aczél József, hogy a turul a lármás sas.
 
 Mindkét adattal kapcsolatban azt kell mondjam, hogy más nyelvekben is az igei értelmek utólagosak, azaz a szavak alapértelmeinek meghatározásában csak részben segíthetnek.  
 
