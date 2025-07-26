@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cover/","title":"Cover","tags":["Englishtexttranslated"],"created":"2023-11-05T02:53","updated":"2025-07-04T22:40"}
+{"dg-publish":true,"permalink":"/C/Cover/","title":"Cover","tags":["Englishtexttranslated"],"created":"2023-11-05T02:53","updated":"2025-07-26T21:30"}
 ---
 
 
@@ -21,7 +21,7 @@ Fed, fedő.
 [Ezen](https://en.wiktionary.org/wiki/couver) és [ezen](https://www.britannica.com/topic/couvade) oldalon írottak alapján a kiköltés fogalma is ebből a fogalomkörből ered. Kérdés, hogy mi volt előbb (még a tyúk és a tojás téma is pont idevág): a költés vagy a fedés.  
 Maga a [[K/Költ\|költ]] szó is tartalmazza a [[K/KU\|KU]] alapszót, mely a [[C/Coco\|coco]] címnél írottak szerint a tojás neve is lehet.  
 
-Nem először fordul elő, így [[A/Arab szavak\|arab szavak]] címhez is tehető lenne, hogy árja és sémi szavak azonos alakúak (köszönhetően az avar-hun és kabar törzseknek). [Ezen](https://www.whyislam.org/common-ground/whatiskafir/) oldalon is szerepel az arab `kufr`, egy itt meg nem nevezett befedni jelentésű igére visszavíve:  
+Nem először fordul elő, így [[A/Arab nyelv\|arab szavak]] címhez is tehető lenne, hogy árja és sémi szavak azonos alakúak (köszönhetően az avar-hun és kabar törzseknek). [Ezen](https://www.whyislam.org/common-ground/whatiskafir/) oldalon is szerepel az arab `kufr`, egy itt meg nem nevezett befedni jelentésű igére visszavíve:  
 > Kufr can be used in a neutral/benign sense as the origin of `kufr` in the Arabic language means to cover up. So the farmer who is putting a seed in the ground and covering it up is performing kufr.  
 > —  
 > A kufr semleges/nemleges értelemben is használható, mivel a `kufr` szó eredetét képező ige az arab nyelvben azt jelenti, hogy befedni. Tehát az a földműves, aki magot vet a földbe és befedi azt, kufr-t hajt végre.  
