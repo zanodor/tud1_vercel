@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2025-06-08T01:07"}
+{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2025-07-27T12:01"}
 ---
 
 
@@ -73,7 +73,7 @@ Götz László Keleten kél a Nap című könyvének 513. oldalán hozza az [[I/
 Valójában i nemcsak akármilyen mozgást, hanem körmozgást kifejező. Ezt onnan tudhatjuk, hogy a körívre vonatkozó [[I/Ív\|ív]] szóban a szóvégi v tulajdonképpen másutt betűk összekapcsolására alkalmazott, saját jelentéssel nem rendelkező, kvázi felesleges hang (az íj szóban V = J). Hasonlóan a [[Y/Year\|year]] szónál írottak alapján is tudhatóan is körmozgásra utaló [[J/Jár\|jár]] szavunk sem más, mint i-ar, mely a latin/olasz `ire` = menni, járni szónak is megfelel. A Földről nézve vizsgáljuk a látszólagos útján járó Napot, aki anyján [[M/Magyar Ilona\|Magyar Iloná]]n halad körbe. A kör az Anya szimbóluma; [[A/Annual\|annual]] címnél is láttuk. A körmozgásra utaló, visszatér és hasonló jelentésű ([[M/Matar\|matar]] címnél halálba és ezzel a feltámadás lehetőségéhez, újjászületéshez és annak életkör-vonatkozású értelmeihez hasonló) [[M/Magyar\|magyar]] címnél szereplő szavak és a Borbola János által is körméretnek meghatározott, szintén [[M/Magyar\|magyar]] névből eredő [[M/Meter#Meter 2)\|meter]] is idevehető.  
 Minden az [[E/Életkör\|életkör]]re vonatkozik, és ez ismételten a magyar civilizáció és nyelv csúcsproduktuma, mindezt a nyelvbe, egyetlen i hangba építeni...elképesztő.  
 
-Az i hang változata az é, mely [[E/ÉL\|él]] ([[E/EL\|EL]] = [[I/IL\|IL]]) szavunkban szerepel. Vegyük észre, a szóvégi (másutt vendéghangként is üzemelő) L hang itt sem tesz hozzá értelmileg, maximum a fentebb említett R hanghoz hasonló igeképző értelme van (R = L; erről [[M/Mihály\|Mihály]] és más címnél is volt szó; Mihály eredete megint Machar – Magyar).  
+Az i hang változata az é, mely [[E/ÉL\|Él]] ([[E/EL\|EL]] = [[I/IL\|IL]]) szavunkban szerepel. Vegyük észre, a szóvégi (másutt vendéghangként is üzemelő) L hang itt sem tesz hozzá értelmileg, maximum a fentebb említett R hanghoz hasonló igeképző értelme van (R = L; erről [[M/Mihály\|Mihály]] és más címnél is volt szó; Mihály eredete megint Machar – Magyar).  
 
 [[K/Kinetic\|Kinetic]] címnél is szerepelt az alábbi diagram:  
 ```plantuml-svg
