@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bél/","title":"Bél","tags":["containstransclusions"],"created":"2024-10-24T16:20","updated":"2025-06-07T19:49"}
+{"dg-publish":true,"permalink":"/B/Bél/","title":"Bél","tags":["containstransclusions"],"created":"2024-10-24T16:20","updated":"2025-07-27T11:55"}
 ---
 
 
