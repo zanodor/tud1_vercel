@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-12-18T11:38","updated":"2025-07-26T21:35"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-12-18T11:38","updated":"2025-07-27T14:26"}
 ---
 
 
