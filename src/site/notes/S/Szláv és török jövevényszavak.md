@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szláv és török jövevényszavak/","title":"Szláv és török jövevényszavak","created":"2025-03-08T20:46","updated":"2025-06-07T19:03"}
+{"dg-publish":true,"permalink":"/S/Szláv és török jövevényszavak/","title":"Szláv és török jövevényszavak","created":"2025-03-08T20:46","updated":"2025-07-29T23:23"}
 ---
 
 
@@ -112,8 +112,9 @@ Götz is írja:
 ### -Cs, -csk(a), -ka végződések
 
 Az olyan szavakat, mint [[K/Kovács\|kovács]], [[K/Kalács\|kalács]], [[P/Pogácsa\|pogácsa]], [[P/Pálinka\|pálinka]], stb. automatikusan szláv eredetűnek adják meg (és még ha csak ezekről lenne csak szó).  
-[[Z/Zacskó\|Zacskó]] esetében hoztuk fel, hogy ha a szavak közös szóbokorhoz tartoznak, meg tudjuk őket védeni magyarnak.  
-Kovács és kalács esetében is ezt tettük.  
+`Zacskó` esetében felhozható hogy ha a szavak közös szóbokorhoz tartoznak, meg tudjuk őket védeni magyarnak (kovács és kalács esetében is ezt tettük):  
+CzF jól [írja](https://www.arcanum.com/hu/online-kiadvanyok/Lexikonok-a-magyar-nyelv-szotara-czuczorfogarasi-55BEC/z-7177B/zacsko-717C4/?list=eyJxdWVyeSI6ICJaYWNza1x1MDBmMyJ9), hogy zacskó annyi, mint `zsákocska`.  
+Mindkét esetben, ha a nyelvészet -csk(a) végződéseket talál, azonnal szláv eredetet jelölnek neki, holott [[K/KA#-Ka\|-ka]] -kka formában a finn nyelvben is megvan és a [[C/CS\|cs]] speciális magyar kicsinyítés.  
 
 ## Török (altáji) jövevényszavak
 
