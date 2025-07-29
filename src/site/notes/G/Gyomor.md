@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gyomor/","title":"Gyomor","created":"2024-04-18T14:34","updated":"2024-10-25T19:11"}
+{"dg-publish":true,"permalink":"/G/Gyomor/","title":"Gyomor","created":"2024-04-18T14:34","updated":"2025-07-29T23:08"}
 ---
 
 
@@ -17,5 +17,7 @@ Igen, a gyomor (és a hozzá köthető [[C/Csömör\|csömör]]) a zodiákus-emb
 
 [[B/Barlang\|Barlang]] címnél írtuk, hogy a hegy gyomra a barlang. A barlang pedig nem más, mint a Nap szülőhelye.  
 Itt még a fenti szótagmegfordítás kapcsán annyit, hogy az mégiscsak érdekes, hogy [[M/Magur\|Magur]], [[M/Magura\|Magura]] és [[M/Makara\|Makara]] nevek mind a (barlangra és) barlangban való születésre utalnak, de maga a barlang gyomrának neve, gyomor [[K/Khamor\|Khamor]] alakú. Khamor pedig a kulminációs pontja az évnek és a sémi nyelvben is halom értelmű (halom = hegy). Ez megint olyan téma, melyet [[H/Hunor és Magor\|Hunor és Magor]] címnél külön alcímnél taglaltunk. Ugyanazt tudom itt is elmondani, mint ott is: a [[L/Lemniszkáta\|lemniszkáta]] címnél látott diagramon a két, éggömbön ellentétes pont egymásra csúszva jelentkezik. Azaz a hegy (ami a Világhegy) és a gyomor (az anyaméh) egy és ugyanaz: ezért lehet a [[K/Köldök\|köldök]] is ilyen kétértelmű. [[V/Világhegy\|Világhegy]] címnél, külön alcímnél erről már volt szó.  
+
+Lehet egyszerűen csak arra gondolni, hogy ahogy a német `Bauch` = has üregesség kapcsán volt taglalt, nálunk a gyomor [[H/Homorú\|homorú]] fogalmával kapcsolódik.  
 
 Lásd még [[G/Gyom\|gyom]].  
