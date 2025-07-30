@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bura/","title":"Bura","created":"2023-11-21T10:09","updated":"2024-10-25T15:45"}
+{"dg-publish":true,"permalink":"/B/Bura/","title":"Bura","created":"2023-11-21T10:09","updated":"2025-07-30T03:29"}
 ---
 
 
@@ -16,3 +16,5 @@ Lásd még altaji `bura` = táltos paripa nevet [[B/BUR\|BUR]].
 
 Lásd még a szintén az éggel, annak homályával kapcsolatos [[B/Ború\|ború]] nevet.  
 A [[B/Brow\|brow]] = szemöldök is lehet ég-jelkép és ború vagy inkább bura szavunkkal egyezik is.  
+
+[[P/Por\|Por]] is megfelel borító értelműnek.  
