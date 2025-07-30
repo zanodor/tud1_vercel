@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","created":"2024-04-20T13:37","updated":"2025-07-26T21:35"}
+{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","created":"2024-04-20T13:37","updated":"2025-07-30T03:32"}
 ---
 
 
@@ -99,7 +99,7 @@ Erőss Diána a HM 2015. júliusi számának Világőr-törpék és szélóriás
 ## Rokon hangzású nevek: Urias és Ωριας
 
 Egészen azonosnak látszik az Óriás névvel a bibliai [Uriás](https://en.m.wikipedia.org/wiki/Uriah_the_Hittite) neve. (Uriás Dávid hadvezére volt.)  
-Az, hogy itt egy bibliai csillagkép összefüggés is szóba kerül, az is mutatja a Biblia nem zsidó hátterét. Uriásnak felesége az a Betsabé, aki után Badiny Jós Ferenc adata szerint a zsidók a Cassiopeia csillagképet, Salamon anyjának, Betsabé égi trónjának nevezik, holott Betsabé nem zsidó, hanem hettita volt, az első nagy vaskori birodalom, lótenyésztő, íjfeszítő ősnép tagja, mondja Kubínyi Tamás is [itt](https://rumble.com/v6wbahw-250717cn-a-nagy-szkizma-2-kubnyi-tams-ktv.html?start=6898)), és ez a csillagkép is a Tejúton van, és lám a Teut/Taut néveredetű Dávid képbe is kerül.  
+Az, hogy itt egy bibliai csillagkép összefüggés is szóba kerül, az is mutatja a Biblia nem zsidó hátterét. Uriásnak felesége az a Betsabé, aki után Badiny Jós Ferenc adata szerint a zsidók a Cassiopeia csillagképet, Salamon anyjának, Betsabé égi trónjának nevezik, holott Betsabé nem zsidó, hanem hettita volt, az első nagy vaskori birodalom, lótenyésztő, íjfeszítő ősnép tagja, mondja Kubínyi Tamás is [itt](https://rumble.com/v6wbahw-250717cn-a-nagy-szkizma-2-kubnyi-tams-ktv.html?start=6898)), és ez a csillagkép is a Tejúton van, és lám a Teut/Taut néveredetű [[D/Dávid\|Dávid]] képbe is kerül.  
 - Zajti Ferenc Zsidó volt-e Jézus című könyvében is tesz említést arról, hogy hettiták, azaz szkíták[^3].
 
 A Cassiopeiás információ Badiny Jós Ferenc több írásában is megtalálható: A sorsdöntő államalapítás c. könyvének 167. oldalán, A káld-pártus hagyomány és a magyarok Jézus vallása c. könyvének 226. oldalán és egy régebbi 1985-ös Ősi Gyökér kiadványban is.  
@@ -109,6 +109,7 @@ Az igaz, hogy a zsidóknak nem volt megengedve a csillagok kémlelése, de előd
 
 Az Óriás pedig a [[V/Vadász\|Vadász]], és több kultúra mitológiájában a vadász a szarvast a Tejút gázlójánál űzi.  
 Lásd Jankovics Marcell idevonatkozó sorait [[C/Csudaszarvas#^3dacwk\|itt]].  
+Dávid tehát nem [[N/Nimrud\|Nimród]] duplikáció, mint [[J/Jákob\|Jákob]], [[J/Jahve\|Jahve]] és [[A/Ábrahám\|Ábrahám]] (és [[I/Izmael\|Iszmail]]), annál is inkább mert az óriás Góliát az ellenfele.  
   
 
 ## Lábjegyzetek
