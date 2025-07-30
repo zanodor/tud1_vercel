@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gúnár/","title":"Gúnár","created":"2023-10-23T03:16","updated":"2024-10-25T19:10"}
+{"dg-publish":true,"permalink":"/G/Gúnár/","title":"Gúnár","created":"2023-10-23T03:16","updated":"2025-07-30T03:29"}
 ---
 
 
@@ -7,9 +7,9 @@
 
 A [[L/Lúd\|lúd]] hímje (mondhatjuk akár [[K/KAN\|kan]]nak is, kivált, hogy a fürj hímjét is nevezik kannak). Az óéjszaki Gunnar és germán Günter szóalaki párja, amennyiben [[H/Hunor\|Hunor]] és [[H/Hunter\|hunter]]-nek megfelelő nevek, úgy Gúnár is Kún-Úr, azaz Hunor kell legyen. Ahogy [[H/Hunor\|Hunor]] címnél is íruk, Kun-Úr alkalmas Napistennévnek is. [[K/Karoly\|Karoly]] és [[V/Világügyelő\|világügyelő]] címnél is szerepeltek...
 
-#### Magyar Adorján Csodaszarvasának...
+#### Magyar Adorján Csodaszarvas...  
 
-... sorai:  
+...című könyvének sorai:  
 > Magyart, valamint rokonnépeink a Napistent, őseink egyúttal első mondai királyukként, uralkodó hatalmas fejedelmükként is tisztelték, amit a finn és észt Kalev- és Toll-regék máig is igazolnak. (Bán Aladár említett cikke.) Sőt ezek által maga a magyar király, régiesen királ, karál, kerál, szavunk is, amely a szláv nyelvekből nem magyarázható s így szláv eredetűnek oknélkül tartatott, megfejtésére lel. Vogul rokonnépünk regéi szerint a Napisten vadlúd, azaz gúnár képében szokta a vogul földet körül-körül röpülni s így ügyel népére, így őrködik annak hazája fölött, amiértis ő a [[V/Világügyelő\|világügyelő]] nevet is viseli. Hogy a vogulok miért beszélnek épen gúnárról, itt fejtegetnünk ismét hosszadalmas volna, csak azt emeljük hát ki, hogy ez azonos a magasban kerengő királysassal, a koronás karvallyal, vagyis a turulmadárral, amely számos népnél mindig a királyság és a Nap jelképe volt és az ma is.  
 
 [[K/Khamor\|Khamor]] címnél láttuk, hogy más állat neve is előjön ilyen névalakból.  
