@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2025-06-08T01:13"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2025-07-30T02:30"}
 ---
 
 
 # Megtévesztés
 
-Ma ennek a korát éljük. **Machiavelli A fejedelem** című könyvében ezt tanítja a zsidóknak. Hogyan kell megtévesztéssel operálni, manipulálni.  
+Ma ennek a korát éljük. **Machiavelli A fejedelem** című könyvében ezt tanítja a zsidóknak. Hogyan kell megtévesztéssel manipulálni.  
 Machiavelli is arról írt, hogy nem kell erőből nyerni, hanem elég megtévesztéssel operálni.  
-Bereczkei Tamás A megtévesztés pszichológiája című könyvének kivonata [itt](http://real.mtak.hu/37447/1/0016.2015.70.1.2.pdf) található.  
-[Ilyen](https://index.hu/techtud/2019/01/29/machiavelli_legjobb_modern_tanitvanyai/) cikk is létezik.  
+Bereczkei Tamás A megtévesztés pszichológiája című könyvének letöltésre [itt](https://real.mtak.hu/50276/1/Bereczkei-Machiavellizmus.pdf) elérhető.  
+[Index](https://index.hu/techtud/2019/01/29/machiavelli_legjobb_modern_tanitvanyai/)-es cikk is létezik.  
 
 A megtévesztés és hazudozás nagymesterei a kabbalista zsidók, akiket Yaroslav Kesler The Perception of Open-Ended Time című cikkében [[G/Guile\|guile]] címnél is megemlít. A guile jelentése csel, ravaszság, fortély; ármány. Az általa idézett szövegben "túljárni Isten eszén" (*outwit God*) is szóba kerül.  
 
@@ -380,8 +380,9 @@ Lásd [[I/Igazság és gazság#Igazmondók-e az igazmondók?\|igazmondók-e az i
 
 Ahogy friss műsoraiban Kubínyi Tamás is felhozza, a hazug ember felveszi az igazat mondó stílusjegyeit: szembe nézés, stb. Az igazmondó juhász szerepében megmutatkozó Jakab Péter jobbikos miniszterelnök-jelölt kapcsán is elmondja, hogy a Fideszt tolvajoknak bizonyító képviselő még rosszabb, sátáni programot hozna el Gyurcsány oldalán. Minden egy sátáni színjáték része. A legnagyobb megtévesztés az egészben az, hogy embereknek gondoljuk a politikusainkat és az utca emberét, stb. A legtöbb esetben a gonosz bőrébe bújókról vagy zombikról/biorobotokról van szó.  
 
-#### Gyárfás Ágnes írja egy cikkében:
+#### Gyárfás Ágnes...
 
+...írja egy cikkében:  
 > A Gonosz emberré változtatja magát, méghozzá Úri emberré, hogy minél vonzóbb legyen. (Pénz, bankbetét, kocsi, izomkolosszus.) A babiloni megromlott világ tele van álemberekkel, akik lélekben és erkölcsben leállatiasodtak.  
 
 ### Bizalomba férkőzés és azzal való visszaélés
