@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/PO/","title":"PO","created":"2023-11-21T09:17","updated":"2024-10-25T23:49"}
+{"dg-publish":true,"permalink":"/P/PO/","title":"PO","created":"2023-11-21T09:17","updated":"2025-07-30T03:33"}
 ---
 
 
@@ -15,11 +15,11 @@ Ellenben megfordítása, [[O/Ob\|Ob]] és [[A/AB\|AB]] vízre, folyóra utal.
 
 > [[P/Polip\|Polip]] volt a neve azoknak az állatoknak, amelyeknek a lába a Pa, vagyis Po (Fej) részből nőtt ki, és úgy Lépkedtek. Po-Lip nagyjából Pa-Lép, a Fej-Lépő.  
 
-Folyó, nemcsak Olaszországban (Pó), lásd [[M/Mezopotámia\|Mezopotámia]] nevében is. A Pó is Fő, Padus volt a régi neve, vagyis Csillagos. Itália városainak java részét mi alapítottuk. – Írja Péterfai János.  
+Folyó, nemcsak Olaszországban (Pó), lásd [[M/Mezopotámia\|Mezopotámia]] nevében is. A Pó is Fő, Padus volt a régi neve, vagyis Csillagos. Itália városainak java részét mi alapítottuk, írja Péterfai János.  
 
 Berzsenyi Dániel adata szerint is víz, folyó (po = fo) jelentést is hordoz.  
 
-Nagy Sándor kutatónk [[P/Pozsony\|Pozsony]] nevét Bo-so-on, azaz bővízű (cso, so és szu is víz értelmű) hely olvasattal adja vissza. A Po és Bő szavaink egymásnak kétségtelenül rokonai, és a víz értelmet már so/cso viszi (posvány szóban is). Bő, ár szavainkat vízzel kapcsolatba hozni nem téves, valójában többjelentésű szavakról, etimonokról van szó.  
-Bő és Ár együtt még [[P/Pohár\|pohár]] szavunkat (melyet Gyárfás Ágnes Lúd Anyó meséi – Régi angol gyermekversek ősgyök készlete című az Ősi Gyökér 2011/1. sz. megjelent cikkében a Po víz jelentésűnek megjelölt gyökből vezetne el, tévesen) is kiadhatná, de ott más megoldást találtunk.  
+Nagy Sándor kutatónk [[P/Pozsony\|Pozsony]] nevét Bo-so-on, azaz bővizű (cso, so és szu is víz értelmű) hely olvasattal adja vissza. A Po és Bő szavaink egymásnak kétségtelenül rokonai, és a víz értelmet már so/cso viszi (posvány szóban is). Bő, ár szavainkat vízzel kapcsolatba hozni nem téves, valójában többjelentésű szavakról, etimonokról van szó.  
+Bő és Ár együtt még [[P/Pohár\|pohár]] szavunkat (melyet Gyárfás Ágnes Lúd Anyó meséi – Régi angol gyermekversek ősgyök készlete című az Ősi Gyökér 2011/1. sz. megjelent cikkében a Po víz jelentésűnek megjelölt gyökből vezetne le) is kiadhatná, de ott más megoldást találtunk.  
 
   
