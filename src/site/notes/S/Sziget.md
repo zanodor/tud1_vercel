@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2025-06-07T19:11"}
+{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2025-07-30T03:31"}
 ---
 
 
@@ -30,11 +30,12 @@ Sziget a Nap Tája értelmet adja, de mivel minden Napnévnek van extra hímség
 > Illeték őt nyájas elnyelgő beszéddel,  
 > És a szigetbe őt mélyen vezették el.*  
 
-#### Magyar Adorján Ősműveltségében...
+#### Magyar Adorján Ősműveltség...  
 
-...is ír a [[N/Nász\|nász]] szigetéről, illetve Csodaszarvasában rámutat a (vezérállat) [[S/Szarvas\|szarvas]] nász- azaz párosodási szokásairól:  
+...című könyvében is ír a [[N/Nász\|nász]] szigetéről, illetve Csodaszarvas címet viselő könyvében rámutat a (vezérállat) [[S/Szarvas\|szarvas]] nász- azaz párosodási szokásairól:  
+
 > Számos állatfaj, kezdve a halaktól egészen az emlősökig a párosodás idejére bizonyos helyeket keres föl, millió évek óta mindig ugyan azokat és a párosodás, amely csak bizonyos időszakokban történik, csakis ezen helyeken megy végbe. Ilyen helyeik a szarvasoknak is mindig voltak és vannak most is, ott ahol ez állatok természetes életmódjuk szerint még élhetnek zavartalanul. Amint pedig a mondákból kitűnik, ezen helyek rendesen folyók, tavak vagy tenger szigetei voltak, ahová a szarvasok kora tavasszal, a vízen átúszva, vagypedig gázlókon átlábolva, érkeztek; mindig előbb a nőstények és csak valamivel később a hímek. De tudjuk azt is, hogy a nemi vágy régen az embernél is csak tavasszal, ugyanakkor tehát amikor a szarvasoknál, ébredett, és hogy így van ez például Ausztrália őslakóinál ma is. Sőt még mi is azt tartjuk hogy "tavasz a szerelem ideje".  
-> Nos, ősmondánk nem azt beszéli-e hogy ősatyáinkat, Hunort és Magort, a Csodaszarvas vezette s ez mutatta meg nekik a gázlót, amelyen át, a szarvast követve, gyönyürű szigetre találtak, ahol táncot lejtő leányokra akadtak és ezekközül a legszebb kettőt elragadva és feleségül véve, a szigeten boldogságban éltek és a magyarok és hunok nemzetségeit alapították? Mit jelentsen tehát mindez?  
+> Nos, ősmondánk nem azt beszéli-e hogy ősatyáinkat, Hunort és Magort, a Csodaszarvas vezette s ez mutatta meg nekik a gázlót, amelyen át, a szarvast követve, gyönyürű szigetre találtak, ahol táncot lejtő leányokra akadtak és ezek közül a legszebb kettőt elragadva és feleségül véve, a szigeten boldogságban éltek és a magyarok és hunok nemzetségeit alapították? Mit jelentsen tehát mindez?  
 - A választ tudjuk, de kerüljön mégis ide.
 
 > Azt, hogy tavasszal, azaz a tavaszi napéjegyenlőség idején, amidőn az ősember nemi ösztöne is ébredett, a szarvasokkal együtt, amely állatokkal, amint láttuk, egész életük egyébként is össze volt kötve, ugyanazon szigetekre gyűltek, szintén előbb a nők – mert hiszen a mondánk állítja, hogy *a két ifjú a leányokat már ott találja[^1]* – és utóbb a férfiak, vagy a szarvasokat a gázlón követve, vagypedig, mélyebb vizeknél, azok hátán, szarvaikba kapaszkodva, úszva, vagy későbbi időkben szarvasok bőréből való tömlők segítségével, végül pedig tutajon, csolnakon. Vagyis: a szarvas tehát még ebben is, vagyis a [[N/Nász\|nász]]ban és ennek helyére való átkelésükben is őseink vezetőállataként szerepelt.  
@@ -82,7 +83,7 @@ A két hasadékot másutt is említi (talán a Hegy Úrnője címből vagy más,
 > Jellemző minden nép lelkületére különösen az hogy milyennek képzelte a kereszténység előtti idejében Mennyországát. A magyar nép ezt az Égi [[C/Csallóköz\|Csallóköz]] szigetén (a Tejútban látható sziget) lévőnek képzelte, amelyet Fehérköznek is neveztek, amelyről ma is szól egy dal:  
 > "Tündérek érkezének, Fehérközből jövének, hozzánk betérének, Szép leányt keresnek." Stb.  
 > Úgy képzelték hogy e szigeten gyönyörű gyümölcsös és virágos [[K/Kert\|kert]] van, amelyben az igazak lelkei, akik ezt megérdemelték, a tündérekkel együtt boldogan élnek. Toroczkai-Wigand Ede "Öreg Csillagok" című művében (Budapest 1916.) közöl két a népi csillagképeinket ábrázoló rajzot ("Égabroszunk Csillagai") amelyen e sziget föl van tüntetve és rajta egyik végében ott van a "Tündérek fordulója" a közepén pedig a "Tündérek tánca" nevű csillagkép.  
-- Ugyanez [[C/Csallóköz\|Csallóköz]] címnél bővebben megírva. TWE rajzát lásd [[C/Csillagok magyar népi elnevezései\|csillagok magyar népi elnevezései]].  
+- Ugyanez [[C/Csallóköz\|Csallóköz]] címnél bővebben megírva. Toroczkai-Wigand rajzát lásd [[C/Csillagok magyar népi elnevezései\|csillagok magyar népi elnevezései]].
 
 #### Jankovics Marcell írja:
  
@@ -126,9 +127,9 @@ Szólni kell még itt a [[K/Kapu\|kapu]] fogalmáról és a [[G/Gate\|gate]] sz�
 
 A nőiségi-princípium [[K/Kehely\|kehely]] (= [[H/Hüvely\|hüvely]]) alakot formázó U és V betűk mellett az Y is ilyen. Az Y elágazásról [[T/Trivial\|trivial]] és [[H/Hekate\|Hekate]] címnél is volt szó. A mellékelt kis kép [[Y/Yoni\|yoni]]-val emlékeztetett erre az összefüggésre.  
 
-#### Magyar Adorján Csodaszarvasában...
+#### Magyar Adorján Csodaszarvas...  
 
-...ismét szeméremrészek kapcsán igen érdekeset ír ([[F/Fa#Három ágú fa\|fa]] címnél is szerepelt):  
+...című könyvében ismét szeméremrészek kapcsán igen érdekeset ír ([[F/Fa#Három ágú fa\|fa]] címnél is szerepelt):  
 > A hármas elágazású fáknál a középső ág, mivel az ott kevesebb napfényt kapott, többnyire elcsenevészedett, majd el is száradott, úgy hogy idővel csak kis csonkja maradott meg. Az ilyen fák törzséből azt megfordítva, készítették az ősök hímistenségeik bálványait, az ágcsonkot penisként fogva föl, míg a kétágú villás elágazásúakból nőistenségeik bálványai készültek. Az ilyen fák elágazásában pedig a női szeméremrészhez valóban meglepően hasonlító képződményt látunk.  
 ![assets/Sziget_image7.jpeg|invert_dark](/img/user/S/assets/Sziget_image7.jpeg)  
 
