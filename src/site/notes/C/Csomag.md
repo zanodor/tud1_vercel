@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csomag/","title":"Csomag","created":"2023-10-23T02:51","updated":"2024-10-25T16:36"}
+{"dg-publish":true,"permalink":"/C/Csomag/","title":"Csomag","created":"2023-10-23T02:51","updated":"2025-07-30T03:29"}
 ---
 
 
