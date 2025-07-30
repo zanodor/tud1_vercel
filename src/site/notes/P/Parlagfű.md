@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Parlagfű/","title":"Parlagfű","created":"2024-05-14T14:04","updated":"2024-10-25T23:44"}
+{"dg-publish":true,"permalink":"/P/Parlagfű/","title":"Parlagfű","created":"2024-05-14T14:04","updated":"2025-07-30T03:30"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 A minden betegségre gyógyítólag ható, gyógyszerlobbi által tiltott/irtott parlagfű latin nevében megvan [[A/Ambrosia\|ambrosia]], mely az istenek eledele/itala a görögöknél.  
 
-[Ezen](https://www.fajltube.com/biologia/novenytan/A-PARLAGF-VEDELMEBEN73597.php) oldalról való írás:  
+[Ezen](https://www.fajltube.com/biologia/novenytan/A-PARLAGF-VEDELMEBEN73597.php) oldalról való írás Weixl-Várhegyi László tollából:  
 
 **A PARLAGFŰ VÉDELMÉBEN**
 
