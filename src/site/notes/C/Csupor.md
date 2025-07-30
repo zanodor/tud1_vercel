@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csupor/","title":"Csupor","created":"2023-11-05T02:58","updated":"2024-10-25T16:51"}
+{"dg-publish":true,"permalink":"/C/Csupor/","title":"Csupor","created":"2023-11-05T02:58","updated":"2025-07-30T03:30"}
 ---
 
 
