@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kentum/","title":"Kentum","created":"2025-05-29T17:30","updated":"2025-07-26T21:36"}
+{"dg-publish":true,"permalink":"/K/Kentum/","title":"Kentum","created":"2025-05-29T17:30","updated":"2025-07-30T02:31"}
 ---
 
 
