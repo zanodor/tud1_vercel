@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szivárvány/","title":"Szivárvány","tags":["containstransclusions"],"created":"2023-10-31T11:12","updated":"2025-07-26T21:36"}
+{"dg-publish":true,"permalink":"/S/Szivárvány/","title":"Szivárvány","tags":["containstransclusions"],"created":"2023-10-31T11:12","updated":"2025-07-30T03:32"}
 ---
 
 
@@ -58,7 +58,7 @@ Egyébiránt [[J/Jahve\|Jahve]] címnél arról is ejtettünk szót, hogy Jahve 
 A Kus-Kos nyilas témát itt még nem fejeztük be, ugyanis [ezen alábbi](https://en.wikipedia.org/wiki/Qos_(deity)) oldalon is taglalásra kerül edomita istenség arab párhuzamaként:  
 > **Qōs** became identified with **Quzah**, "the archer" in the north Arabian pantheon, worshiped both as a mountain and a weather god. The similarity of the name would have permitted an assimilation of Qōs to the Arabian god of the rainbow, `qaws quzaḥ`.  
 > —  
-> **Qōs** az észak-arábiai panteonban **Quzah**-val, "az íjásszal" azonosították, akit hegy- és időjárás-istenként is imádtak. A név hasonlósága lehetővé tette volna, hogy Qōs-t a szivárvány arab istenével, `qaws quzaḥ`-val azonosítsák.  
+> **Qōs** az észak-arábiai panteonban **Quzah**-val, "az íjásszal" került azonosításra, akit hegy- és időjárás-istenként is imádtak. A név hasonlósága lehetővé tette volna, hogy Qōs-t a szivárvány arab istenével, `qaws quzaḥ`-val azonosítsák.  
 - Ezen Quzah-ról írja a Wiki oldala:  
 > **Quzaḥ** (Arabic: قزح) is a pre-Islamic Arab god of weather, worshiped by the people of Muzdalifah. The pre-Islamic rite of the Ifada celebrated after the autumnal equinox was performed facing the direction of Quzah's sanctuary. A lasting reference to Quzah is the term `qaws Quzaḥ` (قوس قزح), "Bow of Quzah", which became the Arabic term for rainbow.  
 > —  
