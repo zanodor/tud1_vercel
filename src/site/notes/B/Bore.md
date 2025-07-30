@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bore/","title":"Bore","created":"2023-11-30T08:39","updated":"2024-10-24T22:18"}
+{"dg-publish":true,"permalink":"/B/Bore/","title":"Bore","created":"2023-11-30T08:39","updated":"2025-07-30T02:32"}
 ---
 
 
