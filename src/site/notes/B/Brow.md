@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Brow/","title":"Brow","created":"2024-10-24T16:08","updated":"2024-10-24T22:20"}
+{"dg-publish":true,"permalink":"/B/Brow/","title":"Brow","created":"2024-10-24T16:08","updated":"2025-07-30T02:32"}
 ---
 
 
@@ -16,4 +16,4 @@ Hasonló alakú perzsa szavak árulkodnak még arról, hogy az égről van szó:
 Ha borúsan nézel, azt is a szemöldökkel fejezi ki az angol: `frown` = rossz szemmel néz.  
 A brow [[B/Bura\|bura]] szavunkkal is egyezik. Lényegében a homlok égjelkép, ahogy a szemöldökök is.  
 
-Az ívnél maradva, az [[A/Apsis\|apsis]] címnél taglalt (kapcsol igénkkel is kapcsolatba hozható) görög `(h)apsis` = boltozat, ív jelentésű szó is hasonló.  
+Az ívnél maradva, a (kapcsol igénkkel is kapcsolatba hozható) görög `ἀψίς` (`(h)apsis`) = boltozat, ív jelentésű szó is hasonló.  
