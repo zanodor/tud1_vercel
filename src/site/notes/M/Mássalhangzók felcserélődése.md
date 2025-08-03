@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-07-30T03:29"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-08-03T19:07"}
 ---
 
 
@@ -171,7 +171,7 @@ V>M. Aczél József is felhozza a közönségesnek mondható M-V ajakhang-válto
 P>M változás könnyen végbemegy, ajakhangok lévén. [[M/Madár\|Madár]] címnél fordítottjáról is esett szó.  
 
 V>L. Az l és v hangok a szók elején, közepén, és végén tájdivat szerént fölcseréltetnek, mint: lépik vépik, lápa vápa, kilül kivül, belül bevül, fel palóczosan feü, fev, al, au, av, stb. \[CzF\]  
-L-V mássalhangzó-változás előjött vibrate szónál, és előfordult például CzF által is említett vép-lép szavakban.  
+L-V mássalhangzó-változás előjött vibrate szónál, és előfordult például CzF által is említett vép-lép szavakban. Lék helyen írja még: székelyesen vék, mint lép vép, láz váz, lápa vápa stb. Lásd még [[L/L#Lengyel ł\|lengyel ł]] témát.  
 
 NY>J változás teljesen elképzelhető. A török `yilan` = kígyó könnyen nyíl szavunkból eredhet, de volt szó [[J/Jón\|jón]] címnél proto-mongol adatról, ahol könnyen NY>J változás jöhetett létre.  
 
