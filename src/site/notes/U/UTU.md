@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/U/UTU/","title":"UTU","tags":["containstransclusions"],"created":"2024-11-23T05:02","updated":"2024-11-23T05:02"}
+{"dg-publish":true,"permalink":"/U/UTU/","title":"UTU","tags":["containstransclusions"],"created":"2024-11-23T05:02","updated":"2025-08-03T19:23"}
 ---
 
 
 # UTU
 
-A szumer `Utu` szóhoz nemcsak a Nap maga, hanem Föld Nap körüli mozgásából származó [[I/Idő\|idő]] fogalma is kapcsolódik.  
-Valójában az Ata, Atya, Atyus, orosz `Atyec`, Atta és a d mássalhangzós formák mind a Nap nevei, az Utu, Udu variánsai.  
-Jegyezzük meg, hogy kiinduló itt is [[E/Egy\|Egy]] nevünk, ami eredetileg Istenre vonatkozik, de a [[S/Számosság\|magányosság kontra számosság]] a Napra is utal.  
+Több helyről utaltunk ide, mint egyfajta kiindulószóra. Nos, a sumér Nap(isten) Utu neve származhat egyszerűen [[O/Öt\|öt]] ujjunk napsugarakat formáló volta nyomán.  
+
+A kiinduló valójában [[E/Egy\|Egy]] nevünk, ami eredetileg Istenre vonatkozik, de a [[S/Számosság\|magányosság]] a Napra is utal.  
 ```plantuml-svg
 @startuml
 skinparam BackGroundColor transparent
@@ -53,7 +53,7 @@ Ezen etimont Virág Kálmán sok szó alapját képező üt szavának lehet megf
 [[T/TU\|TU]] és [[U/UT\|UT]] címnél volt arról szó, hogy a nevek összefüggnek, azon kívül, hogy mindketten Napnevek és egymás megfordításai. Olyannyira összefügghetnek, hogy nemcsak a két kezünk két tenyerét lehet a Napokhoz, sugaraihoz hasonlítani, de analógiát lehet felfedezni a Nap és a Nagy Kutya csillagkép Szíriusz A (B) csillaga(i) között.  
 ![assets/UTU_image2.jpeg](/img/user/U/assets/UTU_image2.jpeg)  
 Ergo az a megállapítás, hogy az emberiség két tőről (TU) származik, indokolttá válik.  
-A kettő és öt számok matematikai összefüggései is fontosak. Egyrészt a kétszer öt kiadja az isteni tizet ([[T/TEN\|TEN]]), másrészt más kapcsolódásokat is észrevehetünk (lásd első ábra jobb és második ábra baloldalát): a kettes szám szorzótáblájának eredményei és az ötös szám osztatainak eredményei, ha a számjegyekek összegét tekintjük, harmonikusak. Ugyanez fordítva a másik ábrán. A két szám tehát egymás reciprokai, ahogy az egy, a nyolc és a kilenc önmaguknak.  
+A kettő és öt számok matematikai összefüggései is fontosak. Egyrészt a kétszer öt kiadja az isteni tizet ([[T/TEN#Ten 2)\|ten]]), másrészt más kapcsolódásokat is észrevehetünk (lásd első ábra jobb és második ábra baloldalát): a kettes szám szorzótáblájának eredményei és az ötös szám osztatainak eredményei, ha a számjegyekek összegét tekintjük, harmonikusak. Ugyanez fordítva a másik ábrán. A két szám tehát egymás reciprokai, ahogy az egy, a nyolc és a kilenc önmaguknak.  
 Ezek és egy másik táblázat is szerepel [[K/Kilences számrendszer\|kilences számrendszer]] címnél.  
 
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (első kötetének) 345. oldalán említi a nevet. Az előző oldalon még általa Holddal kapcsolatban említett név a sumér-akkád `Idu`/`Itu` ("hónap"), mely [[I/Idő\|idő]] szavunkkal azonosnak látszik. (Merthogy nemcsak a Nap méri ki az időt.)  
@@ -70,7 +70,7 @@ Ugyanígy a japán `odoru` = táncolni fogalmát is meg lehet magyarázni Odo/Ud
 
 Lásd még extra infókat [[U/UDU\|UDU]] és [[U/Udunita\|Udunita]].  
 
-[[U/U\|U]] címnél (több is) szerepelt (Radics Géza tollából), hogy az út szavunk régies illetve nyelvjárási alakja utu volt:  
+[[U/U\|U]] címnél (több is) szerepelt (Radics Géza tollából), hogy `út` szavunk régies illetve nyelvjárási alakja `utu` volt:  
 > Az utu meg utu \[volt\]. A szóvégi u azóta lekopott. Úgy mutatkozik tehát, hogy nyelvünknek valójában volt egy u-zó nyelvjárása, de az nem lehetett olyan erős, mint az a nyelvemlékekből kitetszik.  
 
 ## Lábjegyzetek
