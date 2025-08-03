@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2025-06-28T00:02"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2025-08-03T18:34"}
 ---
 
 
@@ -80,7 +80,7 @@ Várkonyi Nándor Sziriat oszlopai című könyvében írja, hogy a türk népek
 
 #### Pintye Mihály Hová temették Árpád vezért?...
 
-...(al)című az Ősi Gyökér 2007/1. sz. megjelent cikkében ismét a [[K/Kettős fejedelemség\|kettős fejedelemség]]ről szólva ír a fekete és fehér témáról:  
+...(al)című az Ősi Gyökér 2007/1. sz. megjelent cikkében ismét a [[S/Szakrális kettős királyság, kettős fejedelemség\|kettős fejedelemség]]ről szólva ír a fekete és fehér témáról:  
 > A Képes Krónika szerint Árpád székhelye [[F/Fehérvár\|Fehérvár]]. A szakrális székhely Fehérvár neve összefügg I. András király Fehér András krónikai megnevezésével. Az I.-IV. Béla név fehér jelentésű. Amikor Hunyadi az ország első embere kormányzó lett, Fehér János névvel illették. Az Árpád-ház oldalágainak névadási szokását vizsgálva figyeltem meg, az esetleges trónjogosultságot fehér jelentésű névvel vagy jelzővel tartották számon. Arra az esetre, ha kihalna az uralmon lévő ág. Nők esetében is érvényesült a szeniori rend. Az erdélyi Gyula két leánya Sarold és Karold ([[S/Szár\|szár]] – [[K/Kara\|kara]]) fehér-fekete jelentésű nevet kapott.  
 - [[S/Szár\|Szár]], [[S/SZAR\|SZAR]] nem más, mint [[K/Kara\|kara]] szatem változata; lásd [[S/SZ\|sz]] és [[K/Kara\|kara]] címnél írottakat erről.
 
