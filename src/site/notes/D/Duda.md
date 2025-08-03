@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Duda/","title":"Duda","created":"2023-11-30T09:41","updated":"2024-10-25T17:08"}
+{"dg-publish":true,"permalink":"/D/Duda/","title":"Duda","created":"2023-11-30T09:41","updated":"2025-08-03T19:16"}
 ---
 
 
@@ -13,6 +13,6 @@
 
 A németben `Dudelsack` = duda (szó szerint: dudazsák).
 
-Hangkiadásról, arról, hogy Napnevek szerepelnek benne, volt szó [[B/Beszéd\|beszéd]], [[B/Béget\|béget]], [[V/Vakkant\|vakkant]], [[D/DOH\|DOH]], [[S/SZÓ\|SZÓ]] és legutóbb [[S/Syrinx\|syrinx]] címnél. Itt [[D/DU\|DU]] = Nap.  
+Hangkiadásról, arról, hogy Napnevek szerepelnek benne, volt szó [[B/Beszéd\|beszéd]], [[V/Vakkant\|vakkant]], [[D/DOH\|doh]], [[S/SZÓ\|szó]] és legutóbb [[S/Syrinx\|syrinx]] címnél. Itt [[D/DU\|DU]] = Nap.  
 
 Lásd még [[T/Tüdő\|tüdő]] és [[T/Toot\|toot]].  
