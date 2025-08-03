@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Köszön/","title":"Köszön","created":"2023-10-17T08:48","updated":"2024-10-25T22:26"}
+{"dg-publish":true,"permalink":"/K/Köszön/","title":"Köszön","created":"2023-10-17T08:48","updated":"2025-08-03T19:14"}
 ---
 
 
@@ -8,7 +8,7 @@
 #### Péterfai János írja:
 
 > Köszön igénkben a Kö a Száj, a Szön a Nap (Sun). A Köszönés a Szájból kiröppenő Nap.  
-- Ha az -ön igeképző, mint a germán nyelvekben, akkor viszont gondolata nem helyes; az más kérdés, hogy akkor mi a kösz/küsz.  
+- Ha az -ön igeképző, mint a germán nyelvekben, akkor viszont gondolata nem helyes; az más kérdés, hogy akkor mi a kösz/küsz.
 
 Ugyan Péterfai János elemezése költőien szép, elképezhető, hogy a Kü-Szön, Kö-Szön formákból más jelentéseket olvassunk ki, de a lényegen nem változtat. [[K/KU\|KU]] ugyanis maga Napot is jelenthet és annak teremtményét is (lásd [[K/Kü\|kü]] = kölyök, fi). Így köszön jelentheti azt is, hogy a Nap teremtménye köszöni meg a Napnak áldásos munkáját. A fiatalabbak kell előre köszönnie is, a magyar etika szerint.  
 A cserébe semmit sem visszakérő Napnak úgy is megköszönjük, hogy szinte minden szavunkba beépítettük.  
@@ -40,7 +40,7 @@ Köszön a [[T/Tisztel\|tisztel]] fogalmával azonos, mely címnél [[T/Tistrya\
 Hasonló a görög eredetű [[K/Kudos\|kudos]]-hoz a finn `kiitos` = kösz(önöm).  
 Lehetséges, hogy a hála és tiszteletadás valóban a [[K/Kutya\|Kutyá]]t illette volna és a görög és finn szavak eredetibbek, azaz kösz csak egy későbbi összerántása lenne ezen szavak eredetijének? Igen ám, de mit keresne az -osz az eredeti magyar/hun szóban? Utóvetés lenne?  
 
-Egyébiránt hangkiadásról, és arról, hogy Napnevek szerepelnek benne, volt szó [[B/Beszéd\|beszéd]], [[B/Béget\|béget]], [[B/Bőg\|bőg]], [[V/Vakkant\|vakkant]], [[D/Duda\|duda]], [[D/DOH\|DOH]], [[S/SZÓ\|SZÓ]] (szól) címnél.  
+Egyébiránt hangkiadásról, és arról, hogy Napnevek szerepelnek benne, volt szó [[B/Beszéd\|beszéd]], [[B/Bőg\|bőg]], [[V/Vakkant\|vakkant]], [[D/Duda\|duda]], [[D/DOH\|doh]], [[S/SZÓ\|szó]] (szól) címnél.  
 
 #### Supka Géza Kalandozás a kalendáriumban...
 
