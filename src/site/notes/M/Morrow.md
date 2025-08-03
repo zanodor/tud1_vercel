@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Morrow/","title":"Morrow","created":"2023-10-20T12:56","updated":"2024-10-25T23:32"}
+{"dg-publish":true,"permalink":"/M/Morrow/","title":"Morrow","created":"2023-10-20T12:56","updated":"2025-08-03T19:07"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 Kolumbán Sándor holnap elemzésénél így azonosítja a hol előtagot: [[H/HOL\|hol]] – halvány, azaz fehér, üres, ismeretlen. A másnap még ismeretlen, a holnap elhozza az ő titkait megjelenésekor.  
 A [[M/MOR\|MOR]] etimon ellenben itt nem fehér, hanem éppen hogy fekete. Azt tudni kell, hogy egyes népek a nap kezdetét másképp ítélték meg. A germánok kimondottan hunnak mondható gyökerekkel rendelkeznek, legalábbis a származási helyüket és a szókincsük egy részét tekintve: a hunok az éjszakával kezdték a napot[^1].  
-Nemcsak a germánok (és hunok), hanem a bibliai népek is, köztük a hagyománytolvaj szemita zsidók, kiknek nyelvén – láss csodát – מחר (`mahár`) = holnap, [ezen](https://en.m.wiktionary.org/wiki/מחר) oldal szerint is (az arámi nyelvben is ez volt a szó).  
+Nemcsak a germánok (és hunok), hanem a bibliai népek is, köztük a hagyománytolvaj szemita zsidók, kiknek héber nyelvén – láss csodát – `מחר` (`mahár`) = holnap, [ezen](https://en.m.wiktionary.org/wiki/מחר) oldal szerint is (az arámi nyelvben is ez volt a szó).  
 Azaz [[M/Magyar\|Magyar]] istenanya szűzi ős-sötétje az ami a következő napot, a holnapot indította. Ezért a germán nyelvek M-R szóváza ilyen jelentéssel ugyanolyan összerántás, ahogy a skandináv nyelvekben az anyát (és apát) jelentő szó összerántott a többi indo-európai nyelv anyát jelentő szavaihoz képest és ugyanígy [[M/Mária\|Mária]] nevében is ezt a jelenséget fedeztük fel.  
 A morgen is azonos a svédben sötétet jelentő, angol `murky` szóra hasonlító `mörk` szóval.  
 
