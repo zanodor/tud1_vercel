@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Más/","title":"Más","tags":["Englishtexttranslated"],"created":"2025-05-29T22:51","updated":"2025-07-17T22:44"}
+{"dg-publish":true,"permalink":"/M/Más/","title":"Más","tags":["Englishtexttranslated"],"created":"2025-05-29T22:51","updated":"2025-08-03T19:07"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Mit jelent az, hogy más? Egyrészt nem ilyen, hanem olyan, azaz más = különböző. Ugyanakkor más jelentése is van, úgy, mint mása, képmása, hasonlója.  
 Hogy is van ez? Egyszerre jelenti valami azt, hogy egy vele ill. hogy különböző?  
-- Hasonló az örök hitvitabéli görög `homoousion` = egylényegű és `homoiousion` = hasonlatos kérdéskörhöz.
+- Hasonló az örök hitvitabéli görög `homoousios` = egylényegű és `homoiousios` = hasonlatos kérdéskörhöz.
 
 > [!check]+ &nbsp;
 > Ez csak úgy lehet, hogy itt ismét [[E/Életkör\|életkör]]ben kell gondolkodni.  
