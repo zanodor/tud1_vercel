@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Ság/","title":"Ság","created":"2023-10-14T06:22","updated":"2024-10-26T00:15"}
+{"dg-publish":true,"permalink":"/S/Ság/","title":"Ság","created":"2023-10-14T06:22","updated":"2025-08-03T19:08"}
 ---
 
 
@@ -26,7 +26,9 @@ Igaz, azt [[S/Sacchar-\|sacchar-]], [[S/Sah\|Sahu]] és más címeknél ([[P/Pal
 
 [[S/Szkítizmus\|Szkítizmus]] címnél Cato Töredékeiben előjön Ság mint Szkítia elnevezés (ami talán Saka lenne vagy shah-ra utaló).  
 
+[Csíkménaság](https://hu.wikipedia.org/wiki/Cs%C3%ADkm%C3%A9nas%C3%A1g) nevének értelmezésében előjött egy ság = domb értelmezés, mely a fentiek és [[S/Saka\|saka]] címnél írottak alapján logikailag megállhatja a helyét. Lásd még alant.  
+
 ## Sok szóval való összevetése
 
-Aczél József írja, hogy ság szavunk tömeget, [[S/Számosság\|számosság]]ot (sokat) jelent olyan szavakban mint katonaság.  
-Éppen csak a [[S/Sok\|sok]] szó hiányzik még innen.  
+Aczél József írja, hogy ság szavunk tömeget, [[S/Számosság\|számosság]]ot ([[S/Sok\|sok]]at) jelent olyan szavakban mint katonaság.  
+Éppen hogy a `sok` szó alaki változatának mutatkozik.  
