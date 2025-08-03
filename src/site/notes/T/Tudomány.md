@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2025-07-17T22:43"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2025-08-03T19:08"}
 ---
 
 
@@ -10,7 +10,7 @@ A mai tudomány dogmák rabságában tartja az emberiséget. Minden, különöse
 
 A mai "tudomány" valójában nem edukáció, hanem diktátum: diktálnak, mit kell elsajátítanunk. A görög-római racionalizmus tetejébe istenhit helyett valami politikai kotyvasztást, népek leigázását – mindezt a civilizáció jegyében persze – és hasonlókat látunk...már ha látjuk. Nem mindenki látja. Vissza is mondja a leckét. Hányszor kellett magyarnak, külföldinek is mondanom, hogy már nem az iskolában vagyunk.  
 Jól látszik a felfogásbeli különbség a Quora kérdező-válaszoló oldalon, ahol pl. a [[S/Sas#Kétfejű sas\|kétfejű sas]]ban Róma nyugati és keleti ágát keresik és egymást veregetik vállon, milyen jól tudják, holott, ahogy [ezen](https://qr.ae/pABY8R) Quora válaszomban is jelzem, Szibériában is megvan az ábrázolás. Akkor nem lehet Rómára vonatkozó.  
-De egy másik távol keleti ellentételezést is hozhatunk, [[P/Pénz\|pénz]] szavunk eredete kapcsán: megint magukat járatják le, amikor latin eredetet gondolnak, holott a kínai nyelvben is szinte azonos szót használnak. 
+De egy másik, távol-keleti ellentételezést is hozhatunk, [[P/Pénz\|pénz]] szavunk eredete kapcsán: megint magukat járatják le, amikor latin eredetet gondolnak, holott a kínai nyelvben is szinte azonos szót használnak. 
 Lebuktatják magukat, de nem ismerik el, hogy ez az ő hibájuk lenne. Ők csak megbíztak a "rendszerben," és amúgy is a kínaiak, szibériaiak, magyarok rondák, nincs jó rap zenéjük, és a többi.  
 
 Azzal folytatnám, hogy [[M/Magyar népművészet\|magyar népművészet]] címnél már szerepeltek olyan passzusok, melyek akár ide is tehetők lehettek volna.  
@@ -84,14 +84,17 @@ A mai nézet szerint a [[P/Pogány\|pogány]] annyi, mint hitetlen vagy nem-kere
 
 [[G/Geocentrikus világkép\|Geocentrikus világkép]] címnél volt szó arról, hogy "ha a görög nem tudta, mi kering mi körül, akkor senki sem tudta." **Görög-centrista felfogás**.  
 
-Ha [[C/Columbus\|Columbus]] nem tudta (dehogynem) vagy Nyugat-Európa nem tudta, hogy Amerika létezik, akkor senki sem tudta; felfedezték ([[J/Janus Pannonius\|Janus Pannonius]] tudta). **Euro-centrista felfogás** (egyes amerikai földrészről valók ki is kérik maguknak).
-
 **Hanyatlott buta felfogás** a férfi nemző szerepét nem ismerni, ahogy [[A/Anyakultusz – apakultusz\|anyakultusz – apakultusz]] illetve [[N/Nő és férfi\|nő és férfi]] címnél szóltunk róla. (A [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] csodának vétele is hasonló eset.)  
 
-**Finnugrista kommunista buta felfogás** a sehonnan származtatható [[M/Magyar nyelv ismeretlen eredetű szavai\|magyar szavakat ismeretlen eredetűnek]] besorolni. Számára ismeretlen, mert nem ér fel arra a szintre, hogy pl. egy [[T/Tölgy\|tölgy]] szót értelmezni tudjon.  
+Ha [[C/Columbus\|Columbus]] nem tudta (dehogynem) vagy Nyugat-Európa nem tudta, hogy Amerika létezik, akkor senki sem tudta; felfedezték ([[J/Janus Pannonius\|Janus Pannonius]] tudta). **Euro-centrista felfogás** (egyes amerikai földrészről valók ki is kérik maguknak).
+
+**Indo-euro-centrista felfogás**nak vagy minek nevezhető, amikor a tudomány a nyelv és kultúra vizsgálatában csak a keletről nyugatra történő népmozgásokkal foglalkozik, vagy pl. a sumér kultúra terjedésére vonatkozóan egy dél-északi ill. délnyugat-északkeleti irányultságra mutat rá. Ahogy [ezen](https://qr.ae/pADZIE) Quora válaszban is írtam, ezeknél a jegyüzéreknél csak egyirányú ("csak oda") jegyet vehetsz. A tudomány nem törődik a korábbi mozgásokkal illetve pl. a Pap Gábor előadásaiból is ismert pulzáló mozgásainkkal, amiről [[I/Indo-európai nyelvcsalád#^zvyi26\|itt]] is volt szó.  
+
+A nyelvészet által diktált tudományosságnál maradva, **finnugrista kommunista buta felfogás** a sehonnan származtatható [[M/Magyar nyelv ismeretlen eredetű szavai\|magyar szavakat ismeretlen eredetűnek]] besorolni. Számára ismeretlen, mert nem ér fel arra a szintre, hogy pl. egy [[T/Tölgy\|tölgy]] szót értelmezni tudjon.  
 
 **Zsidó-centrista felfogás**, és ezzel a zsidó-keresztények számára érvényessé tett felfogás, hogy [[B/Bál\|Baal]] mellett [[N/Nimrud\|Nimród]] is ellenséges, utóbbi "Isten" ellen harcolt; csakhogy nem az egyetemes Isten volt az, hanem [[J/Jahve\|Jahve]], a zsidó "isten", keresztény/szkíta-keresztény szempontból a [[S/Sátán\|Sátán]].  
 Egy másik idevehető zsidó téma, hogy pont a zsidó isten hozza a(z egyébként is egyiptomi eredetre visszavezetett) [[T/Tízparancsolat\|Tízparancsolat]]ot (ráadásul a legmocskosabb korban, helyen és negációkban). (Azaz amíg a "Szentírás"-ban nem jelenik meg a "Ne ölj" és más, ún. [[T/Tízparancsolat\|Tízparancsolat]]ban is leközölt "isteni" utasítás, parancs, addig ezek szerint mindenki mindenhol olyan barbár módra élt volna, mint az isteni teremtést követő ember által végzett munkát megunva, a sátáni lebontó erőt követendő példának tartva, rablásra és uzsorára berendezkedett ószövetségi népek (közüli szemiták).  
+
 
 **Az afro-centrista felfogás**, azaz a Darwin-féle vagy az ő kutatási eredményeivel visszaélők felfogása szerint Afrikából származunk (kapóra jön, hogy ott sok a majom), sőt, egyes elméletek szerint az [[E/Etióp\|etióp]]oknak kellene minden kultúrát megköszönni, akikre egyesek-mások azt mondják, hogy ők voltak az igazi zsidók. Értjük mi.  
 
