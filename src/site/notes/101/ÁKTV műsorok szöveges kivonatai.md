@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-07-26T21:29"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-08-03T22:34"}
 ---
 
 
@@ -11,6 +11,11 @@
 
 **Videók kivonatokkal**:  
 
+[250801CN! BÁLINT SÁNDOR](https://rumble.com/v6wzz6o-250801cn-blint-sndor-kubnyi-tams-ktv.html)  [https://archive.ph/zUu4q](https://archive.ph/zUu4q)
+[250731CN! SEGESVÁR](https://rumble.com/v6wy88y-250731cn-segesvr-kubnyi-tams-ktv.html)  [https://archive.ph/BA4MD](https://archive.ph/BA4MD)
+[250730CN! KAMCSATKA](https://rumble.com/v6wwhpy-250730cn-kamcsatka-kubnyi-tams-ktv.html)  [https://archive.ph/faEwY](https://archive.ph/faEwY)
+[250729CN! LÁSZLÓI KERESZTSÉG](https://rumble.com/v6wuvdw-250729cn-lszli-keresztsg-kubnyi-tams-ktv.html)  [https://archive.ph/cEsNB](https://archive.ph/cEsNB)
+[250728CN! IGAZSÁGBESZÉD](https://rumble.com/v6wszrk-250728cn-igazsgbeszd-kubnyi-tams-ktv.html)  [https://archive.ph/fyFUT](https://archive.ph/fyFUT)
 [250725CN! KLÁNOSODÁS](https://rumble.com/v6wof9y-250725cn-klnosods-kubnyi-tams-ktv.html)  [https://archive.ph/sNUFC](https://archive.ph/sNUFC)
 [250724CN! ŐSMANIPULÁCIÓ](https://rumble.com/v6wmul6-250724cn-smanipulci-kubnyi-tams-ktv.html)  [https://archive.ph/x6RGe](https://archive.ph/x6RGe)
 [250723CN! SÁRKÁNYOS VILÁGTERV](https://share.note.sx/7rlblw54)  [https://archive.ph/KeaKN](https://archive.ph/KeaKN)
