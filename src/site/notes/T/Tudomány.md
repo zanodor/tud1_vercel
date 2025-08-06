@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2025-08-03T19:08"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2025-08-06T22:05"}
 ---
 
 
@@ -101,7 +101,7 @@ Egy másik idevehető zsidó téma, hogy pont a zsidó isten hozza a(z egyébké
 Elválasztják az evolúciót az [[K/Kreacionizmus\|isteni teremtés]]től, holott itt sem vagy-vagyban, hanem is-isben kell gondolkodni.  
 
 Még az előzőekre visszatérve, az evolúció elmélet és minden más elmélet a **progresszivista felfogás**, mely szerint minden fejlődik[^4], az ember is a majomból milyen messzire jutott, most már a transzhumanizmus a következő szint.  
-Felfelé ível a görbénk, ami egyenes, mert lineáris a gondolkodás, dacára annak, hogy a természet rendje szerint az élet körszerű; nem lehet lineáris. Így a [[K/Kali Yuga\|Kali Yuga]] borzalmaira, amit át kell élnünk, nincsen felkészítve az emberiség (de legalábbis az a Nyugat, amihez mi is tartozunk, nincs, nem is hallott róla).  
+Felfelé ível a görbénk, ami egyenes, mert lineáris a gondolkodás, dacára annak, hogy a természet rendje szerint [[L/Lineáris kontra cirkuláris\|az élet körszerű; nem lehet lineáris]]. Így a [[K/Kali Yuga\|Kali Yuga]] borzalmaira, amit át kell élnünk, nincsen felkészítve az emberiség (de legalábbis az a Nyugat, amihez mi is tartozunk, nincs, nem is hallott róla).  
 
 Van egy **"hosszista" felfogás** is, mely mindent áthat: a pénz és a hatalom ököljog-elvéből kinőtt "akinek hosszabb a puskája" (vagy nagyobb hatótávolságú a rakétája), annak van igaza. A római birodalom folytatásának kezelhető katolicizmus is mindenek felett álló igazságait a pogányoknak bélyegzettek (lásd pozsonyi csata/háború) ellen küldhető hadakkal védte. Ami akkor isteni igazság, ma angolszász (ir)racionalizmus keretében hirdettetik, és ahogy a katolikus minden mást eretneknek tartott, a zsidó pénzpórázon működő angolszász vezetésű tudományos világ minden mást, ami kultúrprioritási elveinek és magas tudományos fokozatának mércéjében alávalónak tart, áltudományosnak bélyegezve veti el.  
 Ahogy pedig másutt is pedzegettem, a tudományos világ legfőbb bíborosai/rabbijai a nyelvészek, akik áltudományosságuk révén fantom fajokat hoznak létre.  
