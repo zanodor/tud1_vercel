@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-07-12T00:30"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-08-06T22:05"}
 ---
 
 
@@ -62,7 +62,10 @@ A magyar nyelv tehát belső működése szerint egyes hangokban alakváltoztat�
 Nyilván lesznek olyan ellenérdekeltek, akik ebben nem hisznek; nekik sem kell hosszasan magyarázni, hogy a [[H/Hold\|Hold]] neve nyomán keletkezik [[H/Hölgy\|hölgy]] nevünk. Vagy igen?  
 Az egyik legszemléletesebb összetett példa magyar belső flexióra a [[M/Magyar szavak, mondák idegen népek szavaiban, mondáiban felismerhetők#Világ teremtéséről szóló mondák\|magyar szavak, mondák idegen népek szavaiban, mondáiban felismerhetők]] cím/alcímnél említett [[E/Ég\|ég]], [[E/Egy\|egy]] és [[H/Hegy\|hegy]] szavak közös mondai eredetében mutatkozik meg.  
 
-Egy másik másik ilyen az [[E/Egy\|Egy]] – [[A/Atya\|Atya]] ([[U/UTU\|UTU]]; [[A/Ad\|Ad]]) – [[A/Ász\|Ász]]/[[O/Ős\|Ős]] ([[A/Ács\|Ács]]) sorozat, és persze ne felejtsük `egy` számnevünk más számneveinkben (2,4,5,6,7) való előfordulását sem.  
+Egy másik másik ilyen az [[E/Egy\|Egy]] – [[A/Atya\|Atya]] ([[U/UTU\|UTU]]; [[A/Ad\|Ad]]) – [[A/Ász\|Ász]]/[[O/Ős\|Ős]] ([[A/Ács\|Ács]]) sorozat, és persze ne felejtsük `egy` számnevünk más számneveinkben (2,4,5,6,7) való előfordulását sem.
+{ #250806}
+
+
 ```plantuml-svg
 @startuml
 skinparam BackGroundColor transparent
