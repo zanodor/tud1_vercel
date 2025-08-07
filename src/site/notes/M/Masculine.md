@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Masculine/","title":"Masculine","created":"2023-11-12T11:46","updated":"2024-10-25T23:20"}
+{"dg-publish":true,"permalink":"/M/Masculine/","title":"Masculine","created":"2023-11-12T11:46","updated":"2025-08-07T23:47"}
 ---
 
 
@@ -16,7 +16,7 @@ Az összefüggések itt nem érnek véget, ugyanis...
 #### Jankovics Marcell Jelkép-kalendárium...
 
 ...című könyvében írja:  
-> A Bika vállán "kotló" Fiastyúkot ([[P/Pleiadok\|Plejádok]]) eleink Kaptár-huggyának, vagyis Méhkaptár csillagzatnak is hívták. A Kaptár szomszédságában, a Bika mögött és a Kos felett kering egy parányi csillagcsoport, amelyet Andreas Cellarius 1661. évi égatlasza Méheknek (Apes) nevez, eltérően a kortárs Heveliustól, aki viszont Légynek hívta (latinul Muscának). Az Apes elnevezés is szerepel régi csillagtérképeken egyes számban (Apis), amely ugyanúgy hangzik és latinul ugyanúgy is van írva, mint az egyiptomi Ápisz bika neve. Hát nem elgondolkoztató? Akár Méh, akár Légy, mindkét csillagzatnév mitológiailag jól megalapozott. Antik görög mitográfusok szerint a Bika csillagképnek egy tehén, a tehénné változtatott ló istennő volt a névadója, akit egy bogöly kergetett szó szerint a halálba, és aki az egyiptomiak első királyát, a bika-Ápiszt, görögül Epaphoszt szülte. Cellarius és Hevelius névadását Vergilius Georgicája és e görög mítosz egyaránt ihlethette.  
+> A Bika vállán "kotló" [[P/Pleiadok\|Fiastyúk]]ot eleink Kaptár-huggyának, vagyis Méhkaptár csillagzatnak is hívták. A Kaptár szomszédságában, a Bika mögött és a Kos felett kering egy parányi csillagcsoport, amelyet Andreas Cellarius 1661. évi égatlasza Méheknek (Apes) nevez, eltérően a kortárs Heveliustól, aki viszont Légynek hívta (latinul Muscának). Az Apes elnevezés is szerepel régi csillagtérképeken egyes számban (Apis), amely ugyanúgy hangzik és latinul ugyanúgy is van írva, mint az egyiptomi Ápisz bika neve. Hát nem elgondolkoztató? Akár Méh, akár Légy, mindkét csillagzatnév mitológiailag jól megalapozott. Antik görög mitográfusok szerint a Bika csillagképnek egy tehén, a tehénné változtatott ló istennő volt a névadója, akit egy bogöly kergetett szó szerint a halálba, és aki az egyiptomiak első királyát, a bika-Ápiszt, görögül Epaphoszt szülte. Cellarius és Hevelius névadását Vergilius Georgicája és e görög mítosz egyaránt ihlethette.  
 
 #### Magyar Adorján másutt:  
 
