@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-08-03T22:34"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-08-07T23:48"}
 ---
 
 
@@ -11,6 +11,8 @@
 
 **Videók kivonatokkal**:  
 
+[250805CN! ORSZÁGALAPÍTÓK](https://rumble.com/v6x6jae-250805cn-orszgalaptk-kubnyi-tams-ktv.html)  [https://archive.ph/4VET4](https://archive.ph/4VET4)
+[250804CN! DIGITÁLIS ÉBREDÉS](https://rumble.com/v6x4ui2-250804cn-digitlis-breds-kubnyi-tams-ktv.html)  [https://archive.ph/BezTo](https://archive.ph/BezTo)
 [250801CN! BÁLINT SÁNDOR](https://rumble.com/v6wzz6o-250801cn-blint-sndor-kubnyi-tams-ktv.html)  [https://archive.ph/zUu4q](https://archive.ph/zUu4q)
 [250731CN! SEGESVÁR](https://rumble.com/v6wy88y-250731cn-segesvr-kubnyi-tams-ktv.html)  [https://archive.ph/BA4MD](https://archive.ph/BA4MD)
 [250730CN! KAMCSATKA](https://rumble.com/v6wwhpy-250730cn-kamcsatka-kubnyi-tams-ktv.html)  [https://archive.ph/faEwY](https://archive.ph/faEwY)
