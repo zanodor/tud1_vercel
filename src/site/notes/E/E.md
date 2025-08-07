@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/E/","title":"E","created":"2023-11-22T07:06","updated":"2025-06-07T22:58"}
+{"dg-publish":true,"permalink":"/E/E/","title":"E","created":"2023-11-22T07:06","updated":"2025-08-07T23:52"}
 ---
 
 
@@ -22,7 +22,7 @@ Egyébként teljesen igaza van, hiszen az m, n, l, r, s, sz, sőt, ha a [[S/Szé
 Erről a hangról az Ősi Gyökér 2017/3-4. sz. megjelent B. Kovács István Világ vitézë Magyar hősepika című könyvet bemutató cikkben ír a szerkesztő (Záhonyi vagy más):  
 > Már a könyvbemutatón felhívta a figyelmünket a két pontos ë hangra, amely jellegzetesen palóc kiejtés. Ezt az ë hangot használták a 30-as évek színészei. Figyeljék meg a Hyppolit a lakáj című film ízes beszédét! Abba az irodalmi nyelvhasználatba, amit Kazinczy Ferenc írt körül és a borsodi beszélt nyelvet ajánlotta meg, mint nemzeti nyelvhasználatot, bőven benne volt a kétpontos ë, hiszen Miskolctól északra már Szirmabesenyőtől mindenki így beszélt.  
 
-A Kubínyi Tamás műsorába betelefonáló szolnoki tanárnő szerint ez a jászok által használt hang. A "kenyeret" szót kiejtve mutatja be a hangzást.  
+Egy a Kubínyi Tamás műsorába betelefonáló szerint ez a jászok által használt hang. A `kenyeret` szót kiejtve mutatja be a hangzást.  
 
 ## Lábjegyzetek
 
