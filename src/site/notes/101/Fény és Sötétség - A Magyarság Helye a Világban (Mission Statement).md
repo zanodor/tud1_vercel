@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-08-06T22:05"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-08-07T23:50"}
 ---
 
 
@@ -22,7 +22,7 @@ Köszönöm a jó Istennek, hogy magyarnak születhettem és az ezzel járó fel
 
 Köszönöm a családom támogatását; az efféle munkát végezni képes ember földi mivoltában sokszor elviselhetetlen.  
 
-Köszönettel tartozom a velem annak idején magánlevelezéseket is vállaló [Péterfai János István](https://magyarmegmaradasert.hu/kozerdeku/nekunk-irtak/itemlist/tag/P%C3%A9terfai%20J%C3%A1nos%20Istv%C3%A1n)nak, akit beavatómként, mentoromként tisztelhetek. Az ő írásai indítottak arra a pályára, amelyre mindig is szánt az Elküldő.  
+Köszönettel tartozom a velem annak idején magánlevelezéseket vállaló [Péterfai János István](https://web.archive.org/web/20220822210615/http://tunderkiralysag.lapunk.hu/)nak, akit beavatómként, mentoromként tisztelhetek. Az ő írásai indítottak arra a pályára, amelyre mindig is szánt az Elküldő.  
 
 Végezetül hálás vagyok az [Obsidian](https://obsidian.md) nevű program készítőinek, és köszönet illeti a [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) bővítmény készítőjét és segítőit, hogy szintén ingyenesen nyújtanak lehetőséget a webes applikáció (Render, Vercel, Netlify vagy más szolgáltatókon keresztüli) létrehozására. Ezek gyümölcsét látja most az olvasó.  
 
@@ -139,7 +139,7 @@ Elsődleges dolgunk a közös [[D/Dialektika\|dialektika]].
 Az [alábbi](https://youtu.be/sbcMDPICUU0) régebben feltöltött videóm leírásában is arról szóltam, hogy a mai világban (az elmúlt 1-2 évezredben) mást sem látunk, mint a negatív és pozitív fogalmak módszeres, kinevezett "tudósok" általi átdefiniálását, átpolarizálását, amely rendkívül nagy károkat okoz az ember tudatalattijának ilyetén végzett programozása folytán. A [[T/Tudatalatti\|tudatalatti]]ra – főleg a televízió által ránk – gyakorolt hatásokról többen szóltak már.  
 Arról van szó, hogy a szókincsünket és fogalomtárunkat kellene egységesíteni, ugyanis jelenleg – attól függően, hogy ki milyen fejlettségi fokot ért el az igazsághoz vezető úton – minden ember más és mást ért egy dolog alatt (hiszen az agyat "szűrőnek" hívhatjuk) és akár akkor is elbeszélnek egymás mellett, ha ugyanarról akarnának beszélni. Sem a használt fogalmak (és eredeti jelentésük), sem a megfelelő kifejezésmód nincs meg.  
 [[J/Judeo-kereszténység\|Judeo-kereszténység]] címnél szerepeltek adatok arra nézve, hogy az emberek valóságképét hogyan torzítják el és a parafrazálás milyen károkat okoz. Arról itt-ott tettek YouTube felületen is említést, hogy jelenleg ott tartunk, hogy az igazság és a hazugság (vagy mondjuk úgy, hogy a helyes irányba visszatérített eszmék és a még megfelelően nem "helyre-polarizált" ideák) furcsa elegyet alkotnak és minden könyv és minden (sajnos véges tudású) előadó használ és közre ad hamis tudásokat, hamis – akár eleddig vissza nem ellenőrzött – forrásokat felhasználva. (Péterfai János is szól erről: akár évezredekig magunk előtt görgetett hamis tanokról is lehet szó.)  
-[[B/Bika#Bikaistennő\|Bikaistennő]] cím/alcímnél pl. azt látjuk, hogy használatba kerültek olyan kifejezések, mint `nőstény-bika`. Teljesen fals képet vagy értelmezést adnak azzal, hogy nem ismerik a kiinduló fogalmakat és fogalmi változások mikéntjét.  
+[[B/Bika#Bikaistennő\|Bikaistennő]] cím/alcímnél pl. azt látjuk, hogy használatba kerültek olyan kifejezések, mint `nőstény-bika`; nyilván figuratív okokból (pl. Holdnak szarvai vannak, stb.).
 - A bika kérdés egyébként kivált a [[C/Csudaszarvas\|Csudaszarvas]] és [[T/Turul\|Turul]] címnél írottak alapján érthető meg. És még egyszer: a magyar Csodaszarvas: [[U/Ünő\|ünő]]!
 
 Joga lenne tudni azt is mindenkinek, hogy a magyar jóval fejlettebb (a tökéletes!) nyelv, mint az (amerikai) angol[^3].  
