@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-08-06T22:05"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-08-07T23:51"}
 ---
 
 
@@ -20,7 +20,7 @@ Könyvének 133. oldalán tér vissza a témára, indogermán és szemita péld�
 
 ## Hangfejlődés és hajlítás
 
-[[H/Ház\|Ház]] szónál került szóba, hogy k-előtétes szavak másutt h-előhangosak. Ilyenkor a nyelvészet nyilvánvalóan mindig [[N/Nyelvészet mint tudomány#Grimm-féle hangtörvények\|Grimm-féle]] "szabályos" hangfejlődésekben fog gondolkodni. A fókuszba az kerül, hogy adott szavakról adott vizsgálati környezetben, adott(?) szabályszerűségek szerint valami tudományosat kell kanyarítani. Mindeközben megfeledkeznek a régi ember [[A/Analogikus gondolkodásmód\|analógiás gondolkodás]]áról, nyelveik szóalkotásának azon igényéről, hogy a hasonlót a hasonlóval fejezzék ki: tehát nem annyira hangfejlődésekről van (csak) szó; nem szabad figyelmen kívül hagyni, hogy egyes szavak flexiós változatait kell inkább észrevenni (értsd: szándékosan készülnek pl. k- és h-előhangos formák hasonló ideák kifejezésére).  
+[[H/Ház\|Ház]] szónál került szóba, hogy k-előtétes szavak másutt h-előhangosak. Ilyenkor a nyelvészet nyilvánvalóan mindig [[N/Nyelvészet mint tudomány#Grimm-féle hangtörvények\|Grimm-féle]] "szabályos" hangfejlődésekben fog gondolkodni. A fókuszba az kerül, hogy adott szavakról adott vizsgálati környezetben, adott(?) szabályszerűségek szerint valami tudományosat kell kanyarítani. Mindeközben megfeledkeznek a régi ember [[A/Analógikus gondolkodásmód\|analógiás gondolkodás]]áról, nyelveik szóalkotásának azon igényéről, hogy a hasonlót a hasonlóval fejezzék ki: tehát nem annyira hangfejlődésekről van (csak) szó; nem szabad figyelmen kívül hagyni, hogy egyes szavak flexiós változatait kell inkább észrevenni (értsd: szándékosan készülnek pl. k- és h-előhangos formák hasonló ideák kifejezésére).  
 
 ## Magyar hajlítás mint nyelvünk szavainak alapképessége
 
