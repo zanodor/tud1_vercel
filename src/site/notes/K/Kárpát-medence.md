@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2025-07-17T22:43"}
+{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2025-08-07T23:51"}
 ---
 
 
@@ -403,9 +403,9 @@ Ilyen alcímmel [[Z/Zsidó#A zsidó igény a Kárpát-medencére\|zsidó]] címn
 Drábik János és Kubínyi Tamás szájából is elhangzott, hogy a zsidó származású Zbigniew Brzezinski és Henry Kissinger is megfogalmazta, hogy akié a Kárpát-medence, az a világ ura.  
 Van egy harmadik személy is, akit az [alábbi](https://youtu.be/kCjynxBzEKY) ÁKTV műsorban Kubínyi Tamás megnevez ilyen kontextusban. Miután 1:31:40-nél a zsidó Brzezinskit említi, 1:52:20-nál Sir Moses Montefiore kapcsán hozza fel, hogy a zsidóknak a Kárpát-medence megszerzése milyen fontosságú. ([[Z/Zsidó#Zsidó igény a Kárpát-medencére\|Zsidó igény a Kárpát-medencére]] cím/alcímnél lásd többet.)  
 [Ezen](http://www.magtudin.org/Ahogyan_Vilag_Velekedik_a_Magyarokrol1.pdf) oldalon mástól is elhangzik. II. MURAD szultán (1404-1451) kijelentette:  
-"Aki elfoglalja Magyarországot, az ura az egész világnak."  
+> "Aki elfoglalja Magyarországot, az ura az egész világnak."  
 
-[Ezen](https://magyarmegmaradasert.hu/kiletunk/harcaink/item/2608-kárpát-medence-földi-paradicsomkert-1-változat) oldalról érdemes tájékozódni, mi is az, ami a Kárpát-medencét földi paradicsommá teszi és ami miatt kell a zsidóknak. Hervay Tamás ezen cikkét PDF-ben ki is nyomtattam.  
+[Ezen](https://web.archive.org/web/20200114064938/http://magyarmegmaradasert.hu/kiletunk/harcaink/item/2608-k%C3%A1rp%C3%A1t-medence-f%C3%B6ldi-paradicsomkert-1-v%C3%A1ltozat) oldalról érdemes tájékozódni, mi is az, ami a Kárpát-medencét földi paradicsommá teszi és ami miatt kell a zsidóknak.   
 Az [alábbi](https://www.youtube.com/watch?v=cz77fr0ewdM) Ne Legyen Áldozatos beszélgetésben 8:20-nál említi Pap Gábor a már az 1848-as események előtt publikáló, a helyzetet nagyon is jól átlátó Kuthy Lajost, akinek Hazai rejtelmek című regényéből idézi az uzsorás Lőbl Simon és Szalárdy főispán beszélgetését. [Lőbl szájából](https://mek.oszk.hu/07500/07552/html/02.htm) elhangzik:  
 "Így siettetve lesz a jövendő, hogy a magyar föld idegen országok technika provinciájává váljék. Pedig nekünk erre törekednünk kell. Csak így leend az, hogy a folytonos szegényülésben, mi és utódaink bővebb és könnyebb alkalmat nyerünk excellentiátok megtört és fogyott fajában nemzetietlen pénzaristokratiát alapítani meg. \[...\] Nekünk törni, nyomni, eltapodni kell minden csirázó versenyt és vetélyt, elzárni, betemetni minden felfakadó forrást, mely a pénzt, hatalmunk eszközeit, a nemességhez szivárogtatná s új uralgást adna kezébe."  
 15:12-nél Pap Gábor még elmondja, hogy a 16. század második feléből is tudott volna idézni, Bornemissza Péter Ördögi kísértetekjéből vagy Postillákjából (prédikációs gyűjtemények): ugyanezek a jelenségek jönnek elő.  
