@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2025-04-26T14:09"}
+{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2025-08-07T23:49"}
 ---
 
 
@@ -23,7 +23,7 @@ A Bika magyarral azonos egyiptomi Bakh, Bakis, Pakis, P-ka, Pika neveiről lásd
 
 > [[C/Çatal Hüyük\|Çatal Hüyük]] városában a bikák már fontos szerepet játszottak. A király jelképe volt a Bika, akit a térségben Bikakirály fogalommal illettek. Kis-Ázsia déli részén húzódik a Taurus, amely a nevét a Bikáról nyerte. De ez a név is magyar, mivel Ta a Táj, Ország, az Úr a Király, Uralkodó. A névből azt látjuk, hogy a Bikakirály valóban létezett, Ta-Úr neve az Ország Urát jelenti. Az ilyen egyszerű magyar neveket a nem magyarok nehezen, vagy sehogy sem értik meg.  
 > A Bika fontos mitikus állat. Csillagképe is van, éppen Vezér csillagképének közelében. A Bika csillagkép két szarva közül az egyik vörös, a másik fehér színű. Emiatt a Fehér Bika és Vörös Bika képében küzdő táltosok története ismét az égbolthoz kapcsolódik. Ír testvéreinknél is ismeretes a Vörös Bika és Fehér Bika küzdelme. A kozmikus kapcsolatot az írek sem ismerték fel, csak félig. Beregszász városát ott alapították, Tompa egyik regéje szerint, ahol egy szász pásztor viaskodó bikája a földből kincset rúg elő.  
-> 
+>
 > A [[B/Bika csillagkép\|Bika csillagkép]], az ókorban Egyiptom földjén északabbra került rövid időre az [[A/Aján-vonal\|Aján-vonal]]tól, ami miatt nagy riadalom támadt. Mivel a Föld imbolygó keringése miatt hamarosan helyre állt az égi rend, a Bika visszakerült az Aján vonaltól délre, ezért a bölcsek megnyugodtak.  
 > A Bika csillagkép egy része átlendült az [[E/Égi egyenlítő\|égi egyenlítő]]n kicsit, ami miatt azt hitték őseink, hogy összeomlik a világ. A Bikát ezért igyekeztek leölni, amit Mithra, vagy Mithrász is gyakorol (lásd [[M/Mithra és a bika\|Mithra és a bika]]). Természetesen nem egy bikát öl meg, hanem visszalöki az Égi Bikát a helyére. Az Aldebarán és egy másik csillag a Bika Szarva.  
 - Amiről még lehet itt még szólni, hogy a bikaáldozatok is arra a korra tehetők, amikor a precessziós skálán a Bika csillagkép uralkodott: a bika leölésével gyakorlatilag az időt próbálták siettetni.
@@ -54,7 +54,7 @@ Mivel a béka (jelkép) tulajdonképpen nemzés-születés értelmű, és Nimrud
 
 #### Falvay Károly Nagyboldogasszony...  
 
-...című könyvének 186. oldalán furcsamód említi a Bikaistennő kifejezést:  
+...című könyvének 186. oldalán furcsamód említi a "bikaistennő" kifejezést:  
 > Már Boldogasszony könyvünkben (2001) bemutattuk a neolitikus folyamat Kárpát-medencei szellemi továbbfejlődésének "bikaistennő" jelenlétét (Kr. e. 4200), melyet a magyar régészet Temesvár térségében az 1930-as évek óta ismer, a román régészet 1980-85 között tárta föl.  
 
 Könyvének 262. oldalán újfent írja:  
@@ -63,11 +63,11 @@ Könyvének 262. oldalán újfent írja:
 Majd a 270. oldalon:  
 > Mindezek esetében bikaerőre, azaz földöntúli női erőre van szükség. (Csak a nőnek van földöntúli kapcsolata!)  
 
-Falvay könyvének 301. oldalán a [[C/Csudaszarvas\|Csudaszarvas]]ról írva értelmezhetetlenül azaz tévesen (tudja a dörgést, csak mások adatait követi) bikázik ismét, hiszen nem ismeri a csillagmítoszi monda lényegét:  
+Falvay könyvének 301. oldalán a [[C/Csudaszarvas\|Csudaszarvas]]ról írva értelmezhetetlenül azaz tévesen (ismeri a dörgést, csak mások adatait követi) bikázik ismét, hiszen nem ismeri a csillagmítoszi monda lényegét:  
 > A csodaszarvas monda, melyet Arany János is hasonló szellemben dolgozott föl, határozottan szarvasünőt, azaz nőstény szarvast említ. Kétségen kívül biztosan mitikus vadászatról van szó, ami ünő, azaz nőstény állat ellenére szimbolikusan szarvasbikára, azaz jelentős erőre utal. A mitikus esemény ábrázolása ugyanis élelem-adásra utal, ami az életadással azonos képzet volt. Ennek következtében minden olyan megjelenítés, ami e mondával kapcsolatosan nőstény szarvast ábrázol: elfogadhatatlan. Kimondhatjuk: olyan szimbolikus vadászat, ami szarvasünőre irányul, nem létezik. Az egész vadász-inger, mint érzelmi feszültség szimbolikusság nélkül is mindig szarvasbika elejtésére irányul.  
 > \[...\]  
 > A múlt századból vagy a századunk első harmadából ismert pásztor jegyajándékok között, melyek a választott leány számára készültek, az agancsos szarvas ábrázolás igen kedvelt. Ezek is kivétel nélkül szarvasbikák. A nőstény is lehet bika képzet\[?\], akár szarvasról, akár más állatról van szó, például sasról, vagy bölényről.  
-- Itt nem ismeri fel, hogy a rénszarvas fajta esetében a nősténynek is van agancsa?!  
+- A rénszarvas fajta esetében a nősténynek is van agancsa.
 
 #### Bíró Lajos A magyar régmúlt titkai...
 
@@ -127,18 +127,28 @@ A Bikaistennő-képzet kialakulására magyarázatként szolgálhat...
 #### Jankovics Marcell Jelkép-kalendárium...
 
 ...című könyvében álló adata:  
-> A Bika vállán "kotló" Fiastyúkot ([[P/Pleiadok\|Plejádok]]) eleink [[K/Kaptár\|kaptár]]-huggyának, vagyis Méhkaptár csillagzatnak is hívták. A Kaptár szomszédságában, a Bika mögött és a Kos felett kering egy parányi csillagcsoport, amelyet Andreas Cellarius 1661. évi égatlasza Méheknek (Apes) nevez, eltérően a kortárs Heveliustól, aki viszont Légynek hívta (latinul Muscának). Az Apes elnevezés is szerepel régi csillagtérképeken egyes számban (Apis), amely ugyanúgy hangzik és latinul ugyanúgy is van írva, mint az egyiptomi Ápisz bika neve. Hát nem elgondolkoztató? Akár Méh, akár Légy, mindkét csillagzatnév mitológiailag jól megalapozott. Antik görög mitográfusok szerint a **Bika csillagképnek egy tehén, a tehénné változtatott [[I/Io\|Ió]] istennő volt a névadója**, akit egy bögöly kergetett szó szerint a halálba, és aki az egyiptomiak első királyát, a bika-Ápiszt, görögül Epaphoszt szülte. Cellarius és Hevelius névadását Vergilius Georgicája és e görög mítosz egyaránt ihlethette.  
+> A Bika vállán "kotló" [[P/Pleiadok\|Fiastyúk]]ot eleink [[K/Kaptár\|Kaptár]]-huggyának, vagyis Méhkaptár csillagzatnak is hívták. A Kaptár szomszédságában, a Bika mögött és a Kos felett kering egy parányi csillagcsoport, amelyet Andreas Cellarius 1661. évi égatlasza Méheknek (Apes) nevez, eltérően a kortárs Heveliustól, aki viszont Légynek hívta (latinul Muscának). Az Apes elnevezés is szerepel régi csillagtérképeken egyes számban (Apis), amely ugyanúgy hangzik és latinul ugyanúgy is van írva, mint az egyiptomi Ápisz bika neve. Hát nem elgondolkoztató? Akár Méh, akár Légy, mindkét csillagzatnév mitológiailag jól megalapozott. Antik görög mitográfusok szerint a **Bika csillagképnek egy tehén, a tehénné változtatott [[I/Io\|Ió]] istennő volt a névadója**, akit egy bögöly kergetett szó szerint a halálba, és aki az egyiptomiak első királyát, a bika-Ápiszt, görögül Epaphoszt szülte. Cellarius és Hevelius névadását Vergilius Georgicája és e görög mítosz egyaránt ihlethette.  
 
 #### Bognár Ferenc A magyarok istene...
 
 ...című cikkében írja:  
 > A hellének előtti globális vallási helyzetben, a Nagy Istenanya megjelenítője, a világot tápláló Égi Tehén képe lett. Helyesen tehát, minden korai tehén-, és bika-jegyet, a hold-uralmi kapcsolatként kell értelmeznünk. Lásd a mezopotámiai domborműveken lévő uralkodók bikaszarvait!  
 > \[...\]  
-> Valójában a zsidó-keresztény kultúra is a holdanyai ősvallásunkból sarjadt. Kezdve Ábrahámmal, aki a Sineárból, azaz a babiloni Sin holdisten földjéről indult el új hazát keresni, és Kánaánba érve tovább telítődhetett a holdtiszteleti elemekkel. A törvényadó Mózes pedig Egyiptomban meríthetett a hold kultuszából, hiszen [[J/Jahve\|Jahve]] isten nem csupán az egyiptomi Jah holdisten nevét "hordja" de meg volt neki a hold, szokásos bika, ill. tehén alakja is.  
+> Valójában a zsidó-keresztény kultúra is a holdanyai ősvallásunkból sarjadt. Kezdve Ábrahámmal, aki a Sineárból, azaz a babiloni Sin holdisten földjéről indult el új hazát keresni, és Kánaánba érve tovább telítődhetett a holdtiszteleti elemekkel. A törvényadó Mózes pedig Egyiptomban meríthetett a hold kultuszából, hiszen [[J/Jahve\|Jahve]] isten nem csupán az **egyiptomi Jah holdisten** nevét "hordja" de meg volt neki a hold, szokásos bika, ill. tehén alakja is.  
 - A Jah név a görög [[I/Io\|Io]] tehénistennő nevének is megfelel.
 
 Egy másik magyarázatot a magyar nyelven keresztül adhatunk: az [[O/Ökör\|Ökör]] elnevezésünk nyilván az Ég-Úr jelentést viszi, de eredetileg az Eget a Csudaszarvas ünő jelképezte.  
 
+Leginkább csak arról lehet szó, hogy jelképi szinten a nőnemű Hold és a bika szarvai összevegyültek.  
+A Hold valóban számos kultúrában nőnemű entitással, istennővel vagy női energiával van azonosítva. A Hold fázisai, különösen a fiatal, növekvő holdsarló, vizuálisan rendkívül hasonlítanak egy bika vagy tehén szarvaira.
+Ez a vizuális és szimbolikus kapcsolat rendkívül erős és gyakori az ősi mitológiákban és vallásokban:  
+1.  **Hold-szarv kapcsolat:** A holdsarló gyakran a bika vagy tehén szarvát szimbolizálja. Ez a kép összekapcsolja a Hold ciklikusságát, termékenységét és éjszakai erejét a bika/tehén erejével, termékenységével és szent jellegével.
+2.  **Nőnemű istenségek és szarvas attribútumok:** Számos női istenséget ábrázoltak tehén- vagy bika-attribútumokkal, különösen szarvakkal.
+    *   **[[H/Hathor\|Hathor]]:** Az ókori egyiptomi istennő, akit gyakran tehénként, tehénfejjel, vagy emberi alakkal, de tehénszarvakkal és a köztük lévő napkoronggal ábrázoltak. Ő a szerelem, anyaság, zene és termékenység istennője volt, és szoros kapcsolatban állt a Nappal és a Holddal is.
+    *   **[[I/Io\|Io]]:** A görög mitológiában Zeusz szerelme, akit Héra féltékenységből tehénné változtatott. Bár ő egy halandó volt, tehénné válása a szarvas állatokkal való mitológiai kapcsolatot mutatja.
+    *   **Mezopotámia:** Sok mezopotámiai istennőhöz is kapcsolódott a bika vagy a tehén szimbóluma, mint a termékenység és az égi hatalom jele.
+
+Tehát, a "bikaistennő" kifejezés mögött nagyon is állhat az a szimbolikus összefüggés, hogy egy nőnemű istenség (mint a Hold) rendelkezik a bika (vagy tehén) erejével, termékenységével, és vizuálisan is kapcsolódik hozzá a "szarvak" (holdsarló) révén. Ez a figuratív és szimbolikus kapcsolódás teszi érthetővé a "bikaistennő" fogalmát a mitológia és a szimbólumrendszer kontextusában.  
   
 
 ## Lábjegyzetek
