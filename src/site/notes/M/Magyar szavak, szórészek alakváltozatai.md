@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar szavak, szórészek alakváltozatai/","title":"Magyar szavak, szórészek alakváltozatai","created":"2023-11-04T11:49","updated":"2025-06-08T01:12"}
+{"dg-publish":true,"permalink":"/M/Magyar szavak, szórészek alakváltozatai/","title":"Magyar szavak, szórészek alakváltozatai","created":"2023-11-04T11:49","updated":"2025-08-07T23:51"}
 ---
 
 
@@ -17,7 +17,7 @@ Az imént említett...
 
 #### Pitlu János Ősnyelvünk titkai...  
 
-...című az Ősi Gyökér 2011/1. sz. megjelent cikkében (mely egy előadás szövege) a mai analitikus felfogást a régi analógiással való összehasonlítása (ezen passzusa [[R/Rész és egész\|rész és egész]], [[A/Analogikus gondolkodásmód\|analogikus gondolkodásmód]], valamint [[M/Mathematics\|mathematics]] címnél is szerepelt) után maga is írja (valójában itt csak a kövéren kiemelt sor érdekes igazán; annyit hadd tegyünk hozzá hogy a kategórián belüli hangzóváltás a magyar nyelv részéről szándékos míg az idegen rontott utódnyelvek esetében szándékosságról maximum papi nyelvhamisítás kapcsán lehet szó):  
+...című az Ősi Gyökér 2011/1. sz. megjelent cikkében (mely egy előadás szövege) a mai analitikus felfogást a régi analógiással való összehasonlítása (ezen passzusa [[R/Rész és egész\|rész és egész]], [[A/Analógikus gondolkodásmód\|analógikus gondolkodásmód]], valamint [[M/Mathematics\|mathematics]] címnél is szerepelt) után maga is írja (valójában itt csak a kövéren kiemelt sor érdekes igazán; annyit hadd tegyünk hozzá hogy a kategórián belüli hangzóváltás a magyar nyelv részéről szándékos míg az idegen rontott utódnyelvek esetében szándékosságról maximum papi nyelvhamisítás kapcsán lehet szó):  
 > Az analitika, a ráció, rasszokra, részekre szakító kripto-igazsága, a matematikai szám és mennyiségi szemlélet alapja, míg az analógia az intuitív, érzelmi rokonító szemlélete a form a mérhetőségén túli szimbolikus képi világába kalauzol.  
 > Az Ősnyelvek nem véletlenül **képiek, s nem csorbíthatja őket hangzóváltás, a betűírások átírásbeli törékenysége**. A magyar- és az egyetemes őstörténet-kutatásnak létezik tehát egy fizikai leírása, mely egy lineáris idősíkon bemutatja egy nép és kultúrája számszerű változásait. A metafizika a történeti, és történelem-előtti emberiség szemléletében olyan dinamikus életútként vizsgálja a történést, amely a kikelő-kiteljesedő, – s halálával – újjáéledő elvet mutatott ki a teremtett világ valóságának minden szintjén.  
 > Az egyetem célja, tehát Nomen est Omen, az egyetemesre, az egységre és az egészségre való nyitás. A részek téridőbeli szétforgácsoltságát újra a kozmikus rend-szerébe kell helyezni. Az őstörténet és ősnyelv kutatást az ős-emberiség szent iratai által leírt ősbölcsőjéből, mint térből és ősbölcsőjétől, mint időbeli kezdeti pontból kell elindítani. Az Ősforrás, az őskút a tiszta, egyetemes forrást jelenti. Ez a szemlélet valósítja meg azt az ŐSI GYÖKERET, amely a legmélyebbre hatolva szívja fel az éltető tápanyagot, s a törzsén, ágain érlelve a legnagyobb éltetőtől kapja erejét, s gyümölcsével az átminősülő életet szimbolizálva a bort szüli meg.  
