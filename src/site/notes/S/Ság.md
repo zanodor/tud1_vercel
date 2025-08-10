@@ -34,5 +34,3 @@ Aczél József írja, hogy ság szavunk tömeget, [[S/Számosság\|számosság]]
 Éppen hogy a `sok` szó alaki változatának mutatkozik.  
 
 Kovács Éva A Tihanyi összeírás mint helytörténeti forrás c. könyvének 167. oldalán is adatolja a `seg`, `ség` szavakat halom, domb jelentéssel.  
-
-telek
