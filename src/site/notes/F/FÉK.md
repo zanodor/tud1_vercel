@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/FÉK/","title":"FÉK","created":"2024-04-27T02:01","updated":"2025-06-07T22:59"}
+{"dg-publish":true,"permalink":"/F/FÉK/","title":"FÉK","created":"2024-04-27T02:01","updated":"2025-08-10T02:13"}
 ---
 
 
