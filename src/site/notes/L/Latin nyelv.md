@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2025-06-08T01:14"}
+{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2025-08-10T02:14"}
 ---
 
 
@@ -46,7 +46,9 @@ Borbola János Az ember és a magyar című az Ősi Gyökér 2012/2-4. sz. megje
 
 A pidginizáció kifejezéssel angol nyelvű írásban már találkoztam. Jó lesz figyelemmel kísérni. A kereskedelem ill. kalmárkodás igen nagy károkat okozott a nyelv és őskultúra tekintetében.  
 - Aztán Kemény Ferenc olyat is ír, amit én is mindig hajtogatok:  
-> Hogy a latin `imperator` szó az `imperare` igéből levezetve lenne, az nevezetesen tévedés, a valóságban az őslatinok az igéket a főnevekből képezték.  
+> Hogy a latin `imperator` szó az `imperare` igéből levezetve lenne, az nevezetesen tévedés, a valóságban az őslatinok az igéket a főnevekből képezték.
+{ #250809}
+
 
 [[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidginizáció\|Nyelvek keveredéséből létrejött nyelvek – pidginizáció]] cím/alcímnél más is szólt a pidgin nyelvről és a pidginizáció jelenségéről.  
 Lásd még [[L/Latin nyelv#Latin szókincs pidgin szókincsből való eredete\|latin szókincs pidgin szókincsből való eredete]] alcímet alant.  
