@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Ság/","title":"Ság","created":"2023-10-14T06:22","updated":"2025-08-03T19:08"}
+{"dg-publish":true,"permalink":"/S/Ság/","title":"Ság","created":"2023-10-14T06:22","updated":"2025-08-10T02:12"}
 ---
 
 
@@ -32,3 +32,7 @@ Igaz, azt [[S/Sacchar-\|sacchar-]], [[S/Sah\|Sahu]] és más címeknél ([[P/Pal
 
 Aczél József írja, hogy ság szavunk tömeget, [[S/Számosság\|számosság]]ot ([[S/Sok\|sok]]at) jelent olyan szavakban mint katonaság.  
 Éppen hogy a `sok` szó alaki változatának mutatkozik.  
+
+Kovács Éva A Tihanyi összeírás mint helytörténeti forrás c. könyvének 167. oldalán is adatolja a `seg`, `ség` szavakat halom, domb jelentéssel.  
+
+telek
