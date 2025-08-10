@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-06-20T23:34"}
+{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-08-10T02:12"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 #### Péterfai János írja:
 
-> Arany szavunk szintén összetétel, az A-Ran az egyik, az Ar-An a másik lehetőség a név megértését illetően. A spanyol Arantia a narancsszirup neve, ami viszont olyan színű, mint a Nap színe, innen is ered a név. A magyar mai Arany szó az Aran származéka, lásd Aran-Ka női nevünket és növény Aranka nevünket. A névben az A Magas, Isteni, Nagy, a Ran az Ég neve. Elképzelhető, hogy az arany királyi és papi fém, ami miatt ezt a rendkívüli nevet kapta. Az őskorban és ókorban a királyok és főpapok isteni rangúnak számítottak. Aki ebben kételkedett, annak beverték a fejét.  
+> Arany szavunk szintén összetétel, az A-Ran az egyik, az Ar-An a másik lehetőség a név megértését illetően. A spanyol `Arantia` a narancsszirup neve, ami viszont olyan színű, mint a Nap színe, innen is ered a név. A magyar mai Arany szó az Aran származéka, lásd Aran-Ka női nevünket és növény Aranka nevünket. A névben az A Magas, Isteni, Nagy, a Ran az Ég neve. Elképzelhető, hogy az arany királyi és papi fém, ami miatt ezt a rendkívüli nevet kapta. Az őskorban és ókorban a királyok és főpapok isteni rangúnak számítottak. Aki ebben kételkedett, annak beverték a fejét.  
 >
 > Az Arany meg éppenséggel An Árja, a Fény, ami a földön megkövesül, és Ar-An-ná válik, az emberek örömére.  
 >
@@ -16,10 +16,10 @@
 Arról Péterfai János is ír, hogy az [[A/Árja\|árja]] és [[I/Irán\|Irán]] neveket nem lehet összeegyeztetni: az indo-európai nyelvészek teljes tudatlanságban élnek. Az iráni hivatalosan elfogadott eredeztetés szerint Irán Airyana-ból levezetése sem fogadható el: a zavart Arany és Irány szavaink hasonlósága (is) okozza. Lásd erről [[A/Árja\|Aryan]].  
 
 Igen valószínűnek látszik, miután az arany a Nap féme (Kubínyi Tamás egy műsorában azt mondja, hogy **az arany a Napból szakadt ki; a különböző becsapódásoknál mérhető az arany jelenléte**), hogy a Nimródot szintén ősapjuknak tartó jorubák szava Napra, `òrùn`, arany szavunkkal egyező. Ezen szóval is szinte azonos a New Mexico állambeli taosz indián nyelvű `ùruʼúna` = arany.  
-Egyező arany szavunkkal a kelta `aran` = kenyér (a Manx-szigeteken is máig `arran` a kenyér, Írországban is `arán`). Mennyire egyértelműsíti a magyar-kelta rokonságot!  
+Egyező arany szavunkkal a nyelvészek szerint indoeurópai/germán behatásokkal gyanított finn `aurinko` = Nap, a kelta `aran` = kenyér (a Manx-szigeteken is máig `arran` a kenyér, Írországban is `arán`). Mennyire egyértelműsíti a magyar-kelta rokonságot!  
 **Arran** még egy nyugat-skóciai, Clyde-hoz közeli sziget neve is, de [[I/Irán\|Irán]] címnél is előjött az Arran név.  
 
-Kállay Ferenc A pogány magyarok vallása című könyvének [192. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=192&annotation=HMNE92YV) emllíti az osztják `aureaanus` szót, de hogy aranyat, vagy bálványt jelent, de most hogy melyiket, nem derül ki (aranyból készült bálványokról van szó).  
+Kállay Ferenc A pogány magyarok vallása című könyvének [192. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=192&annotation=HMNE92YV) említi az osztják `aureaanus` szót, de hogy aranyat, vagy bálványt jelent, de most hogy melyiket, nem derül ki (aranyból készült bálványokról van szó).  
 
 Nem kizárt, hogy a bibliai Aaron (Áron) név is az arany szavunk és a Napra utal, ahogy Lewis Freemantle The Thirteenth Stone című könyvében erre utal is (nem tudom milyen adat vagy logika alapján):  
 > It having previously been said that Aaron, from whom the Levitical priests are descended, is another version of the sun, and thus the Levites are priests of the temple of the sun.  
@@ -65,7 +65,7 @@ Nem kizárt, hogy a bibliai Aaron (Áron) név is az arany szavunk és a Napra u
 > Aranyos a táj, aranyos a "szórás", amerre a mesehős jár. Aranyerdőn aranyszarvas, aranyagyaras vadkan kószál (Pengő), aranyhátú gyík futkos az avarban (Ribike). Aranymező, aranykert közepén áll az aranyvár (Hogyan nyerte el a szegény csobán az császár leányát). Aranyköles, aranybúza, aranykáposzta terem a földeken (Az aranyköles, Tündér Erzséböt, Az okos kis ló meg a gazdája), aranyalma, aranydió, aranyszőlő a kertekben (Zsuzska és az ördög). Az aranymezőn aranyszőrű, aranyszarvú és -körmű állatokat őriz (A hatalmas síp). Udvarán a boszorkánytól, sárkánytól visszaszerzett aranytojást tojó tyúk, aranyat kerítő kakas kapirgál (Az aranytojó tik, A pénzt terítő kakas), a király ablakában szépen szóló aranytollú madár énekel (A Tűz madár).  
 > Hogy az arany szoláris attribútum a mesékben, azt az arany és a többi fém (érc, kőzet, ásvány) mesebeli viszonya meggyőzően bizonyítja. A jó oldalt képviselő arany, ezüst, réz (Nap, Hold, Csillag) összetartozásáról már beszéltünk, nézzük most, miképpen csap össze az arannyal az ólom, a kő(só), a [[S/Szaturnusz\|Szaturnusz]] és a vas, a Mars attribútuma.  
 
-## Arany az első megmunkált fém (Aranykorban)  
+## Arany mint első megmunkált fém
 
 #### Magyar Adorján A lelkiismeret Aranytükre...  
 
