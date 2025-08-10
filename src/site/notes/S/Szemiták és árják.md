@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szemiták és árják/","title":"Szemiták és árják","tags":["Englishtexttranslated"],"created":"2024-10-27T11:51","updated":"2025-06-07T19:13"}
+{"dg-publish":true,"permalink":"/S/Szemiták és árják/","title":"Szemiták és árják","tags":["Englishtexttranslated"],"created":"2024-10-27T11:51","updated":"2025-08-10T02:12"}
 ---
 
 
@@ -29,7 +29,7 @@ Nézetem szerint a szemita, ahogy a zsidó is inkább ideológia, bár a [[Z/Zsi
 Amikor Bobula Ida Az araráti népek című az Ősi Gyökér 2009/2. sz. megjelent cikkében azt olvasom, hogy a tudományos (nyugati/zsidó) világ hogyan vélekedik a többi nép kapcsán...  
 > A fehér embernek, már az ókorban is csak két jó, tiszteletreméltó családja volt: az indoeurópai és a sémita. Voltak ezeken kívül eső népek is, akikről néha szólni kell; úgy jellemzik őket, hogy "non-semitic and non-indoeuropean". (Lásd például Cambridge History.) Ezekről majdnem mindig egy kis fanyarsággal, kedvetlenséggel szól az európai (nyugati) történetírás. Gyanús, bizonytalan eredetűek, ellenszenves jelleműek, ha lehet róluk valami – valóságos vagy koholt – rosszat mondani, az hangsúlyosan elmondatik.  
 
-...akkor megy fel igazán a pumpa: a genetikailag turáni elődökre visszavezethető, csak Káli Yuga-beli patriarchális felfogásában és (szedett-vetett) "pidgin" nyelvében különböző népek – melyek közül legalább az indo-európait (**Michelangelo Naddeo szavaival élve) fantom-népnek/szellemnépnek** lehet kezelni –, a felmenőiket megtagadva, lenézve, vagy akár korábban (akár teljesen) kiirtva kívánnak eredeti kultúrnépként, ráadásul fehér kultúrnépként magukat feltüntetni akarni úgy, hogy valójában nem veszik észre, hogy ők maguk nem egyebek, mint az eredeti durva másolatai és leginkább az ideológia az, ami változtatást eszközölt rajtuk. Nevezhetjük őket önmagukból kivetkőzött, beteg, kényszerképzetes egyedek csoportjának.
+...akkor megy fel igazán a pumpa: a genetikailag turáni elődökre visszavezethető, csak Kali Yuga-beli patriarchális felfogásában és (szedett-vetett) "pidgin" nyelvében különböző népek – melyek közül legalább az indo-európait (**Michelangelo Naddeo szavaival élve) fantom-népnek/szellemnépnek** lehet kezelni –, a felmenőiket megtagadva, lenézve, vagy akár korábban (akár teljesen) kiirtva kívánnak eredeti kultúrnépként, ráadásul fehér kultúrnépként magukat feltüntetni akarni úgy, hogy valójában nem veszik észre, hogy ők maguk nem egyebek, mint az eredeti durva másolatai és leginkább az ideológia az, ami változtatást eszközölt rajtuk. Nevezhetjük őket önmagukból kivetkőzött, beteg, kényszerképzetes egyedek csoportjának.  
 
 A mai értelemben vett zsidó genetika tehát nem létezik. Az turáni, maximum negroid elemekkel. Tulajdonképpen a zsidó, ha felsőbbrendűnek gondolja magát, akkor fehérként a fehér faji felsőbbrendűséget hirdeti, és éppen válik partnerévé a szintén magát fehérnek tartó indo-európai (európai "fele"; ahol a fél nem az indo- részre utal), viszont valójában mindketten turáni, vagy akár magyar eredetűek. Az más kérdés, hogy az önazonosságát sosem ismerő, leginkább sátáni, ember alatti ösztönű háttérhatalom akkor önmagát: a fehér faj elpusztítását célozza. Miért? Véleményem szerint azért, mert a kereszténység létrehozója, saját anyja, a fehér (de ázsiai-mongol-sziberériainak hazudott) magyar iránti gyűlölete a legnagyobb. Egyes, általam is osztott vélemény szerint az egész Covid plandémia egyik sarkalatos pontja is a magyar irtása volt.  
 
@@ -97,7 +97,7 @@ Az Íjazóra utaló [[K/Khamor\|Khamor]] név változata a [[K/Kimmér\|kimmér]
 
 [[B/Balog\|Balog]] és [[O/Oláh\|oláh]] címnél [[P/Palóc\|palóc]] eredetre mentünk vissza a fontosnak tartott vlach-oláh név megfejtésének ügyében, de maguk a szóalakok is palóc alakúak. És hogy mennyire Balog-Orionról lehet itt szó, mutatja, hogy a B>F változással azonosnak mondható [[F/Flash\|flash]] címnél előjött villám és nyílvessző értelem is. Ami megint csak arra utal, hogy itt a palóc Orion/Íjazó jelentésről van szó: magukat ezen népek még mindig íjfeszítőnek tartják, illetve magukat az [[O/Orion övcsillagai\|Orion övcsillagai]] címnél, külön alcímnél írottak alapján apai ágon Nimrud-Oriontól származónak tartották, de már sem a nyelvük, sem a szokásaik nem hasonlítható a kiinduló népéhez.  
 Azt látjuk tehát, és ennek bizonyítása a célom a könyvemben is, hogy mindenki szinte ebből az íjfeszítő hagyományból, a csillagvallás csillagmítoszi hagyományainak megtartásával lép át a Kali Yugába, de több, kevert nép vallásában is átalakul, összesített értelembe romlik, a kor szellemének megfelelően is, de kimutathatóak nyelvi értelemben is a magyar törzsekből való származásuk. A békére kell törekedni az utódnépek (és persze az anyanép) között.  
-Ha belegondolunk, hihetetlen könnyű látni a mai világban kialakult gondok eredőjét: a marsikus nyilazó patriarchális ([[P/Pater\|pater]] = Orion = [[R/Rudra\|Rudra]] = Marssal is azonosították érthető már miért) szemléletet és persze az ehhez adodó korrumpált napvallást (pénzistennel).  
+Ha belegondolunk, hihetetlen könnyű látni a mai világban kialakult gondok eredőjét: a marsikus nyilazó patriarchális ([[P/Pater\|Pater]] = Orion = [[R/Rudra\|Rudra]] = Marssal is azonosították érthető már miért) szemléletet és persze az ehhez adodó korrumpált napvallást (pénzistennel).  
 
 ## Szemita és indogermán kultúr-prioritás
 
@@ -112,10 +112,20 @@ Aztán futólag megemlíti Fr. Müllert, aki a szemita és indogermán szavak ő
 
 Persze azért nem akarták beadni a derekukat:  
 > A szemita-indogermán szóegyezések kérdését kompromisszummal oldották meg. Az 1929-ben, A. Nehring szerkesztésében újra kiadott "Reallexikon der indogermanischen Altertumskunde" (O. Schrader), az akkori újabb kutatások fényénél így értékeli a problémát: "Vielleicht ist an Entlehnung der Indogermanen und Semiten aus einer dritten Sprache oder Sprachgruppe zu denken." (Magyarul: "Talán az indogermánok és a szemiták egy harmadik nyelvből vagy nyelvcsoportból való kölcsönzésére kell gondolnunk.")  
-![assets/Szemitakesarjak_image1.jpeg|invert_dark](/img/user/S/assets/Szemitakesarjak_image1.jpeg)  
 
 Ezután az egyező vagy messzemenően hasonló szemita-indogermán szavak tömegéből egyetlen példaként a "bika" szó megfeleléseit mutatja be, hallgatólagosan úgy tüntetve fel a kérdést, mintha csupán egy-két ilyen párhuzamról lenne szó \[viszont azt meg kell említeni, hogy jó példát választott, hiszen [[S/Szarvas\|szarvas]] > bika fontos számunkra\].  
 > Vajon milyen "harmadik" nyelvből kölcsönözték a szemiták és az indogerrnánok "bika" szavukat?  
+> 
+> | német   | görög    | latin    | skandináv (Edda) | ószláv    | litván    |
+> |---------|----------|----------|-----------------|-----------|-----------|
+> | STIER   | TAUR-os  | TAUR-us  | THIOR-r         | TUR-u     | TAUR-as   |
+> | (bika)  | (bika)   | (bika)   | (bika)          | (bölény)  | (bölény)  |
+> 
+> | óporosz | asszír   | héber    | etióp   | föníciai | arámi   | arab     |
+> |---------|----------|----------|---------|----------|---------|----------|
+> | TAUR-is | ŠUR-u    | ŠOR      | SOR     | THOR     | TOR     | TAUR     |
+> | (bölény)| (bika)   | (bika)   | (bika)  | (bika)   | (bika)  | (bika)   |
+> 
 > Szumér `SUR` = "Stier, stechen, druchdringen" (bika, szúr, átdöf)  
 > Szumér `TAR` = "Spitze, Stachel, stechen" (csúcs, hegy, tövis, szúr, vö. tőr és taraj is).  
 > Ezt a tényállást a "Reallexikon" gondosan elhallgatja. Inkább valamiféle ismeretlen harmadik nyelvről beszél. Tudnivaló pedig, hogy 1929-ben már jó ideje részletes szumér szótárak álltak a kutatás rendelkezésére (Brünnow, Meissner), sőt A. Deimel monumentális "Sumerisches Lexikon"-jának megfelelő kötete is – amelyből a fenti adatokat vettük – már 1928-ban megjelent (Vollstandige Ideogramm-Sammlung, Band 1.). Nem szükséges bővebben részleteznünk, milyen tudományos színvonalon áll az a nyelvészeti iskola, amely az újonnan megismert ősnyelvi szavakat nem veszi tekintetbe, ha azok nem illenek bele a maga száz évvel korábban kialakított nyelvfejlődési és művelődéstörténeti világképébe. 1929 óta már több mint 50 év telt el, de ezt a "módszert" azóta is szisztematikusan és egyöntetűen betartják: a szumér nyelvet egyszerűen ignorálják.  
