@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2025-07-04T22:37"}
+{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2025-08-10T02:12"}
 ---
 
 
@@ -290,7 +290,7 @@ A Hamlet Malmában is szó volt időháborúkról és In Search of the Cradle of
 > Seth ... eredetileg a Hyadokhoz, a Bika csillagképünk V alakú, fejszerű részéhez kapcsolódott. Mint Ozirisz testvére, az égbolton az Orion szomszédságában helyezkedett el ... egy fontos bírósági döntés Ozirisz hivatalát Hórusznak adta, és Széthet száműzték az Orion "déli" csillagképét hordozó pozícióba...
 - A Hyades-ben lévő [[A/Aldebaran\|Aldebaran]]nal való azonosítás másutt is mintha előjött volna már valahol.
 
-Az [[A/Ászok és Vánok\|Ászok és Vánok]] neveit Péterfai János elemzi, és másutt is megfeleltettük őket Ozirisz (Hórusz) és Széth, [[D/Dévák és Aszúrák\|Dévák és Aszúrák]] tagjaival, de arról [[A/Ashen\|ashen]] szócikknél szóltunk, hogy nemcsak a fényes, hanem egyben a fényhiányos elnevezéseik is megfigyelhetők: Asz(ott)ok és Ván(yadt)ok.   
+Az [[A/Ászok és Vánok\|Ászok és Vánok]] neveit Péterfai János elemzi, és másutt is megfeleltettük őket Ozirisz (Hórusz) és Széth ill. a [[D/Dévák és Aszúrák\|Dévák és Aszúrák]] tagjaival.
 
 ## Szet és Szet – egyiptomi Szet és bibliai Szet (bibliai Set)
 
