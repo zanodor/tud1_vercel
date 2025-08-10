@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","created":"2023-11-19T03:30","updated":"2025-07-19T00:54"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","created":"2023-11-19T03:30","updated":"2025-08-10T02:14"}
 ---
 
 
@@ -86,6 +86,13 @@ Lásd pl. ebben az esetben:
 [https://bibliakultura.blog.hu/2025/01/22/betsabe](https://bibliakultura.blog.hu/2025/01/22/betsabe)
 
 Hogy [[B/Betsabé\|Betsabé]] esetében mi lehet a valódi háttér, lásd ott.  
+
+## Mit engedhet meg magának az ember
+
+Ahogy [[N/Népetimológia\|népetimológia]] címnél is szó volt róla, könnyen rásütik az emberre, hogy ilyen levezetéseket gyárt, de a helyzet az, hogy ezt a kockázatot vállalni kell, mert aki nem hasonlít hasonlóval, nem jut előbbre. Arra támaszkodni, hogy hiteles forrásokat keressen az ember, meg azért nehézkes, mert a legtöbb írással és véleménnyel éppen a deszakralizáló rokonnépeink rendelkeznek és az ő gondolatmenetük is zsákutca.  
+[Ezen](https://www.youtube.com/watch?v=FU-3ZCF33hI&t=2620) Agora műsorban Kubínyi Tamás is zsákutcának véli a népi etimológiás levezetéseket, de Kiss Mao-Tun Istvánnak abban igaza van, hogy az idegen nyelvű szavak segíthetnek még a magyar szavak jelentését is megérteni.  
+Ez egy olyan rostálási folyamat, amelynek csak a végeredményét szabadna látnia mindenkinek, de az együtt gondolkodás reményében megoszthatjuk adatainkat, melyre jó lehetőséget nyújt az internet.  
+Arról pedig Quora cikkekben is szóltam, hogy ma nincs esélye tudnia az embernek, hogy mi a hamis és mi az igaz; ha rálelek az igazságra, arról senki sem fogja tudni, hogy tényleg az az igaz. Leginkább a módszertani elv helyességének igazolásával érünk el valamit: azt, hogy belássuk, a régi ember nem úgy gondolkodott mint mi, és van hová "visszafejlődni."  
 
 Lásd még [[M/Magyar összefogás hátráltató tényezői\|magyar összefogás hátráltató tényezői]].  
 
