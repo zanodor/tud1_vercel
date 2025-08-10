@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-08-10T02:15"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-08-10T02:54"}
 ---
 
 
@@ -11,8 +11,8 @@
 
 **Videók kivonatokkal**:  
 
-[250808CN! ÉGETŐ DOMB](https://rumble.com/v6xboty-250808cn-get-domb-kubnyi-tams-ktv.html) [[STICKY/_WEB_CLIPPER/_YT_TRANSCRIPTS/Kubínyi Tamás/250808CN! ÉGETŐ DOMB - Kubínyi Tamás ÁKTV\|250808CN! ÉGETŐ DOMB - Kubínyi Tamás ÁKTV]] [https://archive.ph/Law7u](https://archive.ph/Law7u)
-[250807CN! KOPPÁNY](https://rumble.com/v6xa232-250807cn-koppny-kubnyi-tams-ktv.html) [[STICKY/_WEB_CLIPPER/_YT_TRANSCRIPTS/Kubínyi Tamás/250807CN! KOPPÁNY - Kubínyi Tamás ÁKTV\|250807CN! KOPPÁNY - Kubínyi Tamás ÁKTV]] [https://archive.ph/aW2qb](https://archive.ph/aW2qb)
+[250808CN! ÉGETŐ DOMB](https://rumble.com/v6xboty-250808cn-get-domb-kubnyi-tams-ktv.html)  [https://archive.ph/Law7u](https://archive.ph/Law7u)
+[250807CN! KOPPÁNY](https://rumble.com/v6xa232-250807cn-koppny-kubnyi-tams-ktv.html)  [https://archive.ph/aW2qb](https://archive.ph/aW2qb)
 [250806CN! FIATALOKRÓL](https://rumble.com/v6x8b1i-250806cn-fiatalokrl-kubnyi-tams-ktv.html)  [https://archive.ph/TPWsO](https://archive.ph/TPWsO)
 [250805CN! ORSZÁGALAPÍTÓK](https://rumble.com/v6x6jae-250805cn-orszgalaptk-kubnyi-tams-ktv.html)  [https://archive.ph/4VET4](https://archive.ph/4VET4)
 [250804CN! DIGITÁLIS ÉBREDÉS](https://rumble.com/v6x4ui2-250804cn-digitlis-breds-kubnyi-tams-ktv.html)  [https://archive.ph/BezTo](https://archive.ph/BezTo)
