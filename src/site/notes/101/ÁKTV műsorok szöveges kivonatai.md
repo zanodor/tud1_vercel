@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-08-10T02:54"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-08-16T00:48"}
 ---
 
 
@@ -9,8 +9,12 @@
 
 <small>**Megjegyzés**: A Google Gemini-s összefoglalók a Google (YouTube) által automatikusan rendelkezésre bocsátott transzkripciók alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli problémák, melyek mindegyikét nem veszem észre, hogy javíthassam. Kisbetűs vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag," amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattintva ellenőrizni a videón, hogy mi szerepelt az eredeti szövegben.</small>
 
-**Videók kivonatokkal**:  
+<small>**Megjegyzés 2**: A web app keresője nem keres és nem talál ezen összefoglalókban!</small>
 
+**Videók archivált összefoglalókkal**:  
+
+[250812CN! TURÁNI ÁTOK](https://rumble.com/v6xhs34-250812cn-turni-tok-kubnyi-tams-ktv.html)  [https://archive.ph/Hj8rl](https://archive.ph/Hj8rl)
+[250811CN! HUNYADI GYÁSZNAP](https://rumble.com/v6xg5ds-25081cn-hunyadi-gysznap-kubnyi-tams-ktv.html)  [https://archive.ph/2nno2](https://archive.ph/2nno2)
 [250808CN! ÉGETŐ DOMB](https://rumble.com/v6xboty-250808cn-get-domb-kubnyi-tams-ktv.html)  [https://archive.ph/Law7u](https://archive.ph/Law7u)
 [250807CN! KOPPÁNY](https://rumble.com/v6xa232-250807cn-koppny-kubnyi-tams-ktv.html)  [https://archive.ph/aW2qb](https://archive.ph/aW2qb)
 [250806CN! FIATALOKRÓL](https://rumble.com/v6x8b1i-250806cn-fiatalokrl-kubnyi-tams-ktv.html)  [https://archive.ph/TPWsO](https://archive.ph/TPWsO)
