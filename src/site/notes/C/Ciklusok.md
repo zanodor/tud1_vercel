@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Ciklusok/","title":"Ciklusok","created":"2024-02-11T14:35","updated":"2024-10-25T16:19"}
+{"dg-publish":true,"permalink":"/C/Ciklusok/","title":"Ciklusok","created":"2024-02-11T14:35","updated":"2025-08-16T00:46"}
 ---
 
 
@@ -29,4 +29,4 @@ Kallipposz-ciklus (3 Metón-ciklus): 76 év
 [[P/Precesszió\|Precesszió]]s Nagy Napév ciklus 25920 év, de 24000 év és más is előjött.  
 
 Lásd még [[H/Hatvan\|hatvan]], [[O/Ötven\|ötven]], [[N/Negyven\|negyven]], [[H/Harminc\|harminc]], [[H/Húsz\|húsz]].  
-Az embert érintő [[H/Hét éves ciklus\|hét éves ciklus]]t lásd ott.  
+Az embert érintő [[H/Hét#Hét éves ciklus\|hét éves ciklus]]t lásd ott.  
