@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehérlófia/","title":"Fehérlófia","created":"2024-12-18T08:01","updated":"2025-07-14T17:43"}
+{"dg-publish":true,"permalink":"/F/Fehérlófia/","title":"Fehérlófia","created":"2024-12-18T08:01","updated":"2025-08-16T15:31"}
 ---
 
 
@@ -22,7 +22,7 @@ Azt viszont tudjuk, legutóbb [[G/Gyne\|gyne]], [[M/Magyar\|magyar]], [[K/Kígy�
 - Lásd még [[L/Lófejű\|lófejű]].
 
 A mese rövid változatát közli Péterfai János:  
-> Fejérlófiát az anyja háromszor [[H/Hét éves ciklus\|hét év]]ig szoptatja[^1], hogy erős legyen. Mivel a szoptatást csakis az anyja végezheti, úgy tűnik, hogy a Fejér (Fej Ér) szó mögött az apja, a király, a Fehér szó mögött az anyja, a királynő fogalmát kell látnunk.  
+> Fejérlófiát az anyja háromszor [[H/Hét#Hét éves ciklus\|hét év]]ig szoptatja[^1], hogy erős legyen. Mivel a szoptatást csakis az anyja végezheti, úgy tűnik, hogy a Fejér (Fej Ér) szó mögött az apja, a király, a Fehér szó mögött az anyja, a királynő fogalmát kell látnunk.  
 > Vándorlása során legnagyobb hőseink közül többel is találkozik, de a mesélő szerint a hősök meglehetősen jellemtelen személyek. Fanyűvő, Vasgyúró és Hegyhengergető társa lesz, de a kis ördög, Koponyányi Monyók elleni küzdelemben nem sok hasznukat veszi. Hegyhengergető nevét Kőmorzsolónak is mondják más mesékben. Koponyányi Monyók egy koponya nagyságú alvilági szörnyeteg, akinek nagy szakálla van. Fejérlófia, miután három társát az ördög legyőzte, a monyókot rettentően elveri, és szakállánál fogva kiköti egy nagy fához. Hétszűnyű Kaponyányi Monyók azonban kitépi a fát, és lemenekül az Alvilágba.  
 > A monyók üldözése levezeti hősünket az Alvilágba, ahol hamarosan megint rátalál Kaponyányira. Társai fennmaradnak Evilágban, mert nem mernek lemenni az Alvilágba. A továbbiakban három sárkányt is megöl Fejérlófia, megszabadítva három szépséges hercegnőt. Amikor az Alvilágból az Evilágba vezető kúton a kosárba rakja a három hercegnőt, a társai odafenn úgy döntenek, hogy maguk veszik feleségül a hercegnőket, Fejérlófiát meg lenn hagyják az Alvilágban, így mindhárman árulókká lesznek.  
 > Fejérlófia az Alvilágban, aminek sok tartománya, rétege van, megment a jégesőtől három [[G/Griff\|griff]] fiókát, ezért az anyjuk felviszi a Felvilágba. A repülés közben elfogy az élelem, ezért Fejérlófia önmagának részeit adja a griff szájába. Amikor megérkeznek Evilágba, a griff visszaragasztja Fejérlófia hiányzó testrészeit, ami által még sokkal erősebb lesz, mint addig. Végül elveszi az egyik királylányt feleségül, három társát meg leereszti az Alvilágba, boldoguljanak ott. Mivel Kuta szumer város mellett, a hagyomány szerint, van egy kút, ami az Alvilágba vezet, nagyon valószínű, hogy a mese megalkotói is ezt a kutat vélték lejáratnak az Alvilágba.  
