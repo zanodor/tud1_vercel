@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Surya/","title":"Surya","created":"2025-08-10T02:48","updated":"2025-08-10T02:49"}
+{"dg-publish":true,"permalink":"/S/Surya/","title":"Surya","created":"2025-08-10T02:48","updated":"2025-08-16T15:32"}
 ---
 
 
@@ -7,6 +7,9 @@
 
 Az ind Nap neve, nyilván [[S/Szúr\|szúr]] szavunk nyomán. Mivel a tamilban `cūriyan` a Nap és a [[D/Dravida\|dravida]] nyelvek megelőzik a hindit, mondhatjuk, hogy belőle fejlődhetett ki, de az is könnyen előfordulhat, hogy hindu szó szorított ki egy korábban használt dravida szót. A szintén dravida telugu nyelven a Nap neve `sūryudu`, azaz a szanszkrit Surya és [[U/UDU\|UDU]] = Nap összevonását látjuk benne. Talán [[U/UTU\|UTU]] (UDU) lehetett a Nap neve a korábbi nyelveken? Ezt most már nem tudjuk meg, mindenesetre Surya a Nap megtermékenyíteni képes szúró tüskéiről kapta a nevét (ugyanúgy, ahogy a [[S/Sün\|sün]] lett a sun neve).  
 Továbbiakat lásd még [[K/Kutyanemzés\|kutyanemzés]] (merthogy a hasonló előtagú [[S/Szíriusz\|Szíriusz]] is Nap, és nélküle nehezen jött volna élet létre a Földön).  
+
+[[S/Szár\|Szár]] címnél előjött a szanszkrit `svàr` = Nap szó is (Surya inkább a Nap megszemélyesítése), azaz a szár arany (és király) jelentéseivel ismét a Napra utalunk (l-es változata [[S/Sol\|Sol]]).  
+
 Illetve Szíriusz és Surya hasonlítása [[S/Szőr\|szőr]] címnél is előjött:  
 A szőr és a sörte a [[S/Sün\|sün]] tüskéihez, a Nap sugaraihoz hasonlíttatott ([[S/Szúr\|szúr]]nak, azaz égető érzést keltenek, mint a Nap sugarai).  
 [[B/Bird\|Bird]] és [[B/Beard\|beard]] címnél (Magyar Adorján passzusát elemezve) is kimondtuk, hogy a haj, sörte és a szőr Napsugár/elektromos-jelkép (dörzsöléssel elektrosztatikus kisülést lehet előidézni).  
