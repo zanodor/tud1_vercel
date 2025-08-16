@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2025-06-20T23:35"}
+{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2025-08-16T15:34"}
 ---
 
 
@@ -77,7 +77,10 @@ Itt még az [[O/Ökör\|ökör]] névre is rá lehet mutatni hasonlóként, mely
 A Nap Úr/Ugor helyéről lásd még [[S/Szent Iván\|Szent Iván]] címet.  
 
 Lásd (ugor igénkről is) [[U/Ugar és ugor\|ugar és ugor]].  
-A kopt `uhor` = kutya témát lásd [[U/UR\|UR]], míg az angolnát jelentő ilyen alakú szláv szavakat lásd ([[A/Angolna\|angolna]] cím helyett) [[A/Angol\|angol]].  
+A kopt `uhor` = kutya témát lásd [[U/UR\|UR]], míg az angolnát jelentő ilyen alakú szláv szavakat lásd ([[A/Angolna\|angolna]] cím helyett) [[A/Angol\|angol]].
+{ #250814}
+
+
 [[U/Uxorial\|Uxorial]] címnél a latin `uxor` = feleség szó eredetének megállapításakor [[O/Ökör\|ökör]] (marha), ugor, [[A/Agar\|agar]] és [[H/Hágár\|Hágár]] fogalmai jöttek elő. A feleség Szíriusz ugye, Orioné. Ismét a nyári napfordulós azonosítás kerül képbe!  
 Ugor, [[A/Akar\|Akar]], [[A/Agár\|agár]], [[J/Jogar\|jogar]], [[B/Bukor\|bukor]], [[Z/Zsugor\|zsugor]], [[C/Csokor\|csokor]], [[K/Kukor\|kukor]] mind nyári napfordulóra utaló szavak (is lehetnek).  
 Ugor nemcsak az [[U/UR\|UR]] széthúzása lehet, hanem Ég-Úr (valamint [[A/Akar\|akar]], [[A/Agar\|agar]], [[I/Iker\|iker]], valamint a [[S/Sacchar-\|sacchar-]] címnél taglalt szavak előhang nélküli[^1]) változata, akár Nimrud-Orionra (és/vagy Kutyájára) vonatkozva (hiszen összetartoznak), akár a [[H/Hunor és Magor\|Hunor és Magor]] nevekkel is fémjelzett Ikrek csillagképre, tudván, hogy [[I/Iker\|Iker]] = Ég-Úr értelmezésű lehet szintén. Ugyanakkor tulajdonképpen Uru-An-Na megfordításaként is értelmezhető Un/On-Ugor. Mivel az Orion övcsillagaiból és a Kutyacsillagból Nyilazó/[[I/Íj csillagkép\|Íj csillagkép]]et alkottak, még a Németh Gyula és társai által kiötlött Tíz Nyíl értelemnek is van valahol értelme, tekintve, hogy valóban a nyári Nyilazó van ott, ahogy a Szkíta név is arra kell utaljon. Az elnevezés már csak azért is Égi (eredetűként) Nyilazóra kell vonatkozzon, mert a germán [[H/Hunger\|hunger]]/[[H/Hanker\|hanker]] szavak is arra a téridőbeli helyre vonatkoznak.  
@@ -88,7 +91,7 @@ Az ugrás fogalma pedig azért érdekes, mert a Nap [[U/Ugor\|Ugor]] állapota (
 [[K/Kutya\|Kutya]] címnél is szerepelt, hogy az urdu `kūdna` = ugorni (کودنا) érthető lehet úgy, hogy ugor téridőbeli helye azonos Kutyáéval.  
 Az Úr – Ugor mint kulminációs legmagasabb pont lehet az ógörög `ákron` eredete. [Ezen](https://en.m.wiktionary.org/wiki/%E1%BC%84%CE%BA%CF%81%CE%BF%CF%82#Ancient_Greek) oldal adata szerint a (nem csak gyorsat jelentő) latin `acer` is lehet Ég-Úr/Ugor.  
 
-[Ezen](https://magyarmegmaradasert.hu/szerzok/k-n/marton-veronika/item/5920-z) [[L/Lófő\|lófő]]ről szóló [[M/Marton Veronika\|Marton Veronika]] féle cikkben szerepel:  
+[Ezen](https://web.archive.org/web/20240713094449/https://magyarmegmaradasert.hu/szerzok/k-n/marton-veronika/item/5920-z) [[L/Lófő\|lófő]]ről szóló [[M/Marton Veronika\|Marton Veronika]] féle cikkben szerepel:  
 > Az ószláv/pravoszláv nyelvben az ugor mindig magyart jelent! Hodinka Antal, az orosz évkönyvek fordítója az ószláv ugor népnevet magyarnak fordítja. Tehát a finn-ugor jelentése finn-magyar.  
 > Az ugor megnevezést a magyar olvasó nemigen vonatkoztatja saját népnevére, a magyarra, hanem valamiféle urali, szibériai "finnugor" népnek tartja. Vajon, észszerű a "finnugor" összetétel első tagját magyarul, másodikat pedig ószláv nyelven használni? Ez nem más, mint megtévesztés.  
 
