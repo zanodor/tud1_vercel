@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-08-16T00:48"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-08-16T15:35"}
 ---
 
 
@@ -13,8 +13,11 @@
 
 **Videók archivált összefoglalókkal**:  
 
+[250815CN! NAGYBOLDOGASSZONY](https://rumble.com/v6xmozk-250815cn-nagyboldogasszony-kubnyi-tams-ktv.html)  [https://archive.ph/V41jy](https://archive.ph/V41jy)
+[250814CN! TŰZSZÜNET ELŐTT](https://rumble.com/v6xl240-250814cn-tzsznet-eltt-kubnyi-tams-ktv.html)  [https://archive.ph/DYLxR](https://archive.ph/DYLxR)
+[250813CN! VAJK](https://rumble.com/v6xjg7i-250813cn-vajk-kubnyi-tams-ktv.html)  [https://archive.ph/Qy45b](https://archive.ph/Qy45b)
 [250812CN! TURÁNI ÁTOK](https://rumble.com/v6xhs34-250812cn-turni-tok-kubnyi-tams-ktv.html)  [https://archive.ph/Hj8rl](https://archive.ph/Hj8rl)
-[250811CN! HUNYADI GYÁSZNAP](https://rumble.com/v6xg5ds-25081cn-hunyadi-gysznap-kubnyi-tams-ktv.html)  [https://archive.ph/2nno2](https://archive.ph/2nno2)
+[250811CN! HUNYADI GYÁSZNAP](https://rumble.com/v6xg5ds-25081cn-hunyadi-gysznap-kubnyi-tams-ktv.html)  [https://archive.ph/u3bAr](https://archive.ph/u3bAr)
 [250808CN! ÉGETŐ DOMB](https://rumble.com/v6xboty-250808cn-get-domb-kubnyi-tams-ktv.html)  [https://archive.ph/Law7u](https://archive.ph/Law7u)
 [250807CN! KOPPÁNY](https://rumble.com/v6xa232-250807cn-koppny-kubnyi-tams-ktv.html)  [https://archive.ph/aW2qb](https://archive.ph/aW2qb)
 [250806CN! FIATALOKRÓL](https://rumble.com/v6x8b1i-250806cn-fiatalokrl-kubnyi-tams-ktv.html)  [https://archive.ph/TPWsO](https://archive.ph/TPWsO)
