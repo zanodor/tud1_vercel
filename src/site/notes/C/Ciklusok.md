@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Ciklusok/","title":"Ciklusok","created":"2024-02-11T14:35","updated":"2025-08-16T00:46"}
+{"dg-publish":true,"permalink":"/C/Ciklusok/","title":"Ciklusok","created":"2024-02-11T14:35","updated":"2025-08-16T15:31"}
 ---
 
 
