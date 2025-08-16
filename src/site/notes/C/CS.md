@@ -1,11 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/C/CS/","title":"CS","created":"2023-10-22T03:23","updated":"2025-08-10T02:13"}
+{"dg-publish":true,"permalink":"/C/CS/","title":"CS","created":"2023-10-22T03:23","updated":"2025-08-16T15:33"}
 ---
 
 
 # CS
 
 
+
+Azaz a már korábban általam másutt is látott vagy hallott (lásd még [[L/Latin betűk használatára való áttérés\|latin abc-re való átállás]]) dolgot próbálják eladni (ha egy szóban – pl. [[K/Kovács\|kovács]] – ott a cs vagy van szavunk, pl. `csacska`, ami olyan szláv hangzású, akkor azonnal oda fognak nyúlni mert semmi sem lehet magyar eredetű), holott alapvetően a kérdésemre adott első Gemini válaszban...
+> A hangrendszerre gyakorolt hatás kevésbé közvetlen, inkább a meglévő hangtani folyamatok megerősödésében vagy bizonyos hangváltozások kiváltásában nyilvánult meg. Például a magyar nyelvben a palatalizált *ty* és *gy* hangok kialakulásában, valamint a *cs* és *dzs* affrikáták elterjedésében is feltételezhető szláv hatás. Emellett a magyar írásbeliség kialakulásakor a latin ábécé adaptálásában is szerepet játszhatott a szláv nyelvek hangjainak leképezése.  
+
+...és amúgy szerintem a nyelvészet által képviselt nézet szerint nem kell ahhoz szláv hatás, hogy a t és s hangokat egymás mellé tegyük.  
+Igaz, más affrikáták is vannak és a lágyságjel, na, az nagyon beindítja a fantáziát, holott összetett mássalhangzók jelölését a [[S/Székely-magyar rovásírás\|székely-magyar rovásírás]]ban is látjuk és aligha kellett szláv közvetítésre várni.  
+Ennek ellenére [[S/Szláv befolyás a magyar nyelv hangjaira, szavaira, vallási kifejezéseire\|szláv befolyás a magyar nyelv hangjaira, szavaira, vallási kifejezéseire]] helyen a Gemini által felmondott lecke megint az, amit a rabtartóink szeretnek hangoztatni.  
 
 #### Péterfai János szerint:  
 
