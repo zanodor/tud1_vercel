@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/S/Ság/","title":"Ság","created":"2023-10-14T06:22","updated":"2025-08-10T02:12"}
+{"dg-publish":true,"permalink":"/S/Ság/","title":"Ság","created":"2023-10-14T06:22","updated":"2025-08-16T15:34"}
 ---
 
 
 # Ság
 
-#### Péterfai János írja:
-
-> Magyar képző, de alapszó is. A Ság Péterfai Jánosnál Uralkodó, Főség jelentéssel adatolt.  
+Magyar képző, de alapszó is. A Ság Péterfai Jánosnál Uralkodó, Főség jelentéssel adatolt.  
 - Gyárfás Ágnes is tudott erről, mert A Halotti Beszéd mondattana című könyvében is elhangzik, hogy a -ság/-ség képző a régiségben fő-t jelentett. Persze ezt a "tévedhetetlen" sumér nyelvből állapíthatta meg. A sumér a magyarnál fiatalabb nyelv, bár az is igaz, hogy a mai magyar szókincs több korból, rétegből áll össze.  
 
-Péterfai János folytatja:  
+#### Péterfai János folytatja:  
+
 > A magyar Ország szó egyik jelentése is Hegyi-Főség. Az Or és Ur egyaránt jelentenek Urat és Hegyet, mivel a hegy egyben úr is, lásd Ur és Uruk városát. A Szág Főség, igen elterjedt a magyar nyelvben, különböző variációi léteznek. Az Or-Szág tehát lehet egy Hegyi-Főség, valamint lehet egy Úr által kormányzott Főség is.A Szaka szóban a Szák, Szág is benne van, ami magyar szó, de a szumer nyelvben is jelen van, és Főség az értelme mindkét nyelvben. Továbbá rokon a Sák, Ság formákkal, amelyek csak az előbbiek változatai. Sőt, a Szék, Szég, Sék, Ség és egyéb formák is csak alaki módosulások. A Sák, Szág egyben jelent Északot is, ami a Dél Országától északra esik. Az Éj-Szak és É-Szak, Éj-Szaka, továbbá a Dél-Szak nevekben is felismerhető a Szak szó, ami a Szaka rokona.  
 
 A Ság perzsa megfelelője a ma is király értelmű [[S/Shah\|shah]].  
