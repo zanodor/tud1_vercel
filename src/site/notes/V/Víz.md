@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Víz/","title":"Víz","created":"2024-11-23T05:38","updated":"2025-07-03T01:19"}
+{"dg-publish":true,"permalink":"/V/Víz/","title":"Víz","created":"2024-11-23T05:38","updated":"2025-08-16T15:33"}
 ---
 
 
@@ -93,7 +93,7 @@ Azt viszont le kell szögezni, hogy Magyar Adorján [[I/Ice\|ice]] címnél is �
 > Víz szavunknak pedig szintén volt egymássalhangzós Isz kiejtése is, amit nem csak isz, iszik igénk, hanem igen nagyszámú folyó Isz kezdetű neve is bizonyít. Egyébként pedig a folyó víz hangja is isz, amiért is több nyelvben a víz és a jég nevében is az isz avagy iz szótag benne.  
 
 Ergo a víz v-s előtételezése nélkül víz és tűz értelmű is lehet ISZ, IZ.  
-De a sumér [[I/ID\|ID]] = víz szintén (honnan – vagy az [[U/Ügy\|ügy]] illetve [[H/Húgy\|húgy]] szavunkból – akkád `hid` = folyó), mely v-sített formája Vid > Víz lenne, de nekünk nem célunk a sumért kiindulónak venni. Több szóváltozat állhat ugyanolyan vagy hasonló jelentéssel a magyar nyelvben. Így lesz vedel is vízre vonatkozó és vádol is. A sumér szóhoz Bíró Lajos a magyar [[U/Ügy\|ügy]] szót rokonítja.  
+De a sumér [[I/ID\|ID]] = víz szintén (honnan – vagy az [[U/Ügy\|ügy]] illetve [[H/Húgy\|húgy]] szavunkból – akkád `hid` = folyó), mely v-sített formája Vid > Víz lenne, de nekünk nem célunk a sumért kiindulónak venni. Több szóváltozat állhat ugyanolyan vagy hasonló jelentéssel a magyar nyelvben. Így lesz `vedel` is vízre vonatkozó és `vádol` is. A sumér szóhoz Bíró Lajos a magyar [[U/Ügy\|ügy]] szót rokonítja.  
 
 A sumérnél maradva, Götz László adata szerint `biz` = "tropfen" (csöpög).  
 
@@ -126,6 +126,16 @@ Arról, hogy a víznek emlékezete van, a fentebb említett Emoto Masaru japán 
 > A gyógyító fürdésre a mutatkozó nyomok szerint még több szertartása volt az ó-vallásnak. A víznek "szólatlan víznek" kellett lenni sok esetben, vagyis hozatala közben valakihez szólani tilalmas volt.  
 
 Az [alábbi](https://youtu.be/5qLoX6R_IGk) Grandpierre Atilla előadásban 16:50-nél ugyanazt mondja, amit tájépítés és vízszabályozás kapcsán én is pedzegettem: a vízzel sokkal könnyebb bánni: a napfényt nem lehet irányítani és a földet is sokkal macerásabb mozgatni.  
+
+## Tó- és folyónevek
+
+Ide lehet sorolni V-D/V-S/V-Z alakú folyóneveket.  
+A német **Weser** folyó latin neve **Visugris**, mely alapján a vizigótok jutnak eszünkbe. Akkor ez is nyugattal lesz inkább kapcsolatos? És mi az ugris?  
+A helyszín azért fontos, mert [[A/Angol\|angol]] helyen arról volt szó, hogy "Angria" volt a neve a Weser folyó mentén fekvő területnek, amelyet a szászok laktak. Azaz angol - angor - agor - ugor nevek igen hasonlóak.
+{ #250814}
+
+
+Veszprémnél a Balaton van, és az is víz.  
 
 ## Álló- és mozgásban levő víz (folyó, eső, örökítőanyag)
 
