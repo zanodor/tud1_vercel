@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2025-06-08T18:26"}
+{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2025-08-16T15:33"}
 ---
 
 
@@ -178,7 +178,7 @@ A négyes tagolás tehát éves szinten 4x3 hónap. A Nagy Évben pedig 4x6480 �
 
 Mivel a hatodik napot is jelöli a hét napjaiban, Hat > Szat változással kell számolni. Nem tartom valószínűnek, ugyanakkor, amikor [ezen](https://www.bitchute.com/video/wH63VIS2VGLM/) műsorban 36:36-nál Kubínyi Tamás azt mondja, hogy Gersom Salom, a Jeruzsálemi Héber Egyetem professzora szerint a [[H/Hatágú csillag\|hatágú csillag]] Szaturnusz-amulett, elbizonytalanodtam. Satur a Hat-Úr lenne?  
 
-A hat (illetve kat) előjön a [[C/Circumcision\|circumcision]] szónál is taglalt latin `caedere` és `cadere`, vágni ill. hullani, meghalni jelentésű szavak gyökében is, és [[H/Hét éves ciklus\|hét éves ciklus]] szócikknél is volt szó arról, hogy Szaturnusszal kezdődik az élet és fejeződik be, azaz így kötendő az újjászületéshez es feltámadáshoz is.  
+A hat (illetve kat) előjön a [[C/Circumcision\|circumcision]] szónál is taglalt latin `caedere` és `cadere`, vágni ill. hullani, meghalni jelentésű szavak gyökében is, és [[H/Hét#Hét éves ciklus\|hét éves ciklus]] szócikknél is volt szó arról, hogy Szaturnusszal kezdődik az élet és fejeződik be, azaz így kötendő az újjászületéshez es feltámadáshoz is.  
 Az, hogy a zsidó kultúrkörben szombaton este[^11] ill. a keresztényeknél vasárnap kezdődik a hét, szintén a Szaturnusz bolygóra utal a szent hetes rendszerben: vele kezdődik és végződik az élet.  
 Az, hogy az angol [[S/SAD#Sad 2)\|sad]] szomorú, az arab-perzsa `šád` = megelégedett, boldog jelentésű, tökéletesen leírja a Szaturnusz bolygó jelentését: a [[K/Kezdet és vég\|kezdet és vég]] bolygója.  
 
