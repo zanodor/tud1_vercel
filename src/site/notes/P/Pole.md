@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pole/","title":"Pole","tags":["Englishtexttranslated"],"created":"2024-04-20T13:44","updated":"2025-06-08T18:20"}
+{"dg-publish":true,"permalink":"/P/Pole/","title":"Pole","tags":["Englishtexttranslated"],"created":"2024-04-20T13:44","updated":"2025-08-17T00:27"}
 ---
 
 
@@ -80,7 +80,7 @@ Különösen a Götz László könyvének 191. oldalán is taglalt sumér `BAL` 
 { #250102}
 
 
-A Götz könyvének 492. oldalán adatolt csagatáj `bulga` "fölkever, megkavar, háborgat"; kazah `bolga` "ráz, fölkavar, forgat" szavak is ide tartoznak. Ami német példaként jobb lett volna talán, az a ([[W/Wife\|wife]] és [[W/Whelm\|whelm]] címnél is említett) német `wölben` = föléível ige.
+A Götz könyvének 492. oldalán adatolt csagatáj `bulga` "fölkever, megkavar, háborgat"; kazah `bolga` "ráz, fölkavar, forgat" szavak is ide tartoznak. Ami német példaként jobb lett volna talán, az a ([[W/Wife\|wife]] és [[W/Whelm\|whelm]] címnél is említett) német `wölben` = fölé ível ige.
 { #m8zkz}
 
 
