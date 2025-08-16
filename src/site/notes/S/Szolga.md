@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szolga/","title":"Szolga","tags":["Englishtexttranslated"],"created":"2024-10-24T00:03","updated":"2025-07-03T01:16"}
+{"dg-publish":true,"permalink":"/S/Szolga/","title":"Szolga","tags":["Englishtexttranslated"],"created":"2024-10-24T00:03","updated":"2025-08-17T00:26"}
 ---
 
 
@@ -46,7 +46,7 @@ Tóth Gyula Maghreb blogján kommentre válaszul írja ([[S/Szláv\|szláv]] cí
 > Szó sincs arról, hogy az itt élő ősnépet nevezték volna avarnak! Sőt, Hérakleiosz korát alaposabban megvizsgálva teljesen egyértelművé válik, hogy Attila hun népét illették a krónikák ezzel a névvel, míg a már korábban is itt élt őshonos eftalitákra a "szláv" névvel hivatkoztak.  
 
 Sanyája/Fabsanyo erre – teljesen jogosan – azt válaszolja:  
-> A kárpátmedencei őshonos népet a latin nyelven írott krónikák a sqlav szóval illették, ami egyértelműen rabszolgát jelentett. Az angolok ezt nehezen tudták kiejteni és igy csináltak a sqlavból slave-et a szláv testvéreink örömére.  
+> A kárpát-medencei őshonos népet a latin nyelven írott krónikák a sqlav szóval illették, ami egyértelműen rabszolgát jelentett. Az angolok ezt nehezen tudták kiejteni és igy csináltak a sqlavból slave-et a szláv testvéreink örömére.  
 
 Amikor Tóth Gyula írását másodjára újraolvastam, arra gondoltam, hogy a [[S/Szláv\|szláv]] annyit jelent, mint [[K/Keresztény\|keresztény]], azaz Jézus (a Nap és a próféta) szolgá(ló)ja (ezzel a szlávok által kitalált ige jelentéssel kapcsolatot is találunk): viszont a zsidó és keresztényüldöző Róma szemében ők szolgák voltak, akiket ők (jámbor keresztényeket) kiszolgáltattak és kihasználni kívántak.  
 
