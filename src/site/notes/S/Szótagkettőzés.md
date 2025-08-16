@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated"],"created":"2023-10-29T05:21","updated":"2025-06-07T19:12"}
+{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated"],"created":"2023-10-29T05:21","updated":"2025-08-17T00:35"}
 ---
 
 
@@ -56,6 +56,8 @@ Lásd még témát említve [[M/Más#Más és több\|más és több]] cím/alcí
 ## A gyerekbeszéd Isten nyelvének beszéde
 
 [Ezen](https://www.reddit.com/r/etymology/comments/1hjy6kd/how_did_%E3%83%90%E3%83%90%E3%82%A2_bab%C4%81_came_to_be/) Reddit helyen is taglalják a témát. Egész jó összefoglalót adtak a használt nevekből: `papa`, `baba`, `mama`, `tata`, `dada`, `nana`.  
+- Nana gyermeknyelvi összefüggéséről szó eset [[N/Néni\|néni]] címnél.
+
 A Reddit posztot megosztó Quora helyen felírtam, amit kellett:  
 
 > A magyar nyelv ezeket az alapszavakat etimon-szinten használja:  
