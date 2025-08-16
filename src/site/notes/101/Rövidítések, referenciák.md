@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2025-07-14T17:47"}
+{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2025-08-16T15:32"}
 ---
 
 
@@ -90,7 +90,7 @@ RB - Robert Brown Jr.
 RFL - Remete Farkas László  
 RG - Robert Graves  
 RHA - Richard Hinckley Allen  
-RL - René Labat  
+RL - René Labat   
 RNG - René Guénon
 RT - Robert Temple  
 SSO - Soproni Svetlik Ottó  
