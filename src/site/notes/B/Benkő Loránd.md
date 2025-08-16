@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Benkő Loránd/","title":"Benkő Loránd","created":"2023-10-23T03:42","updated":"2025-03-13T15:47"}
+{"dg-publish":true,"permalink":"/B/Benkő Loránd/","title":"Benkő Loránd","created":"2023-10-23T03:42","updated":"2025-08-16T15:30"}
 ---
 
 
@@ -29,5 +29,4 @@ Ennek ellenére pozitívan is képes nyilatkozni, ahogy alább látjuk.
 
 ---
 
-Az is kiderül, hogy egy **Bencze Lóránt** nevű nyelvész is létezik, azaz nem elírás, ketten vannak nyelvészek hasonló névvel.  
--  [52:13](https://www.youtube.com/watch?v=PMV1vYUZwhc&t=3133) helyen is majdnem összekeverték őket.
+Az is kiderül, hogy egy [[B/Bencze Lóránt\|Bencze Lóránt]] nevű nyelvész is létezik, azaz nem elírás, ketten vannak nyelvészek hasonló névvel.  
