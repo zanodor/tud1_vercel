@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kentum/","title":"Kentum","created":"2025-05-29T17:30","updated":"2025-07-30T02:31"}
+{"dg-publish":true,"permalink":"/K/Kentum/","title":"Kentum","created":"2025-05-29T17:30","updated":"2025-08-16T15:35"}
 ---
 
 
@@ -11,16 +11,19 @@
 >
 > A germánok, kelták, italicusok adják a kentum csoportot. A szatem csoporthoz tartoznak a szlávok, görögök, indek és mások. A magyar nyelvben mindkét csoport nyelvi jellegzetességei megvannak. Mindkét csoport a magyar nyelvből ered, ez a konklúzió.  
 
-A fő konklúzió az, hogy ez egy magyar flexiós jelenség és a kimmér-szumer példa helyett egy lényegesebbre is felhívhatjuk a figyelmet: tulajdonképpen a [[K/Kutya\|Ku-Ta]] összetétel, mely a kutya szót is alkotja, egyszerre utal a [[S/Süt\|süt]] és [[S/Sötét\|söt(ét)]] fogalmára azzal, hogy a Kutya csillagkép (és főképpen az az mellett lévő Tejút sáv) az éggömböt felezi ill. a fényes és sötét félévet választja el.  
+A fő konklúzió az, hogy ez egy magyar [[F/Flexió\|flexió]]s jelenség és a kimmér-szumer példa helyett egy lényegesebbre is felhívhatjuk a figyelmet: tulajdonképpen a [[K/Kutya\|Ku-Ta]] összetétel, mely a `kutya` szót is alkotja, egyszerre utal a [[S/Süt\|süt]] és [[S/Sötét\|söt(ét)]] fogalmára azzal, hogy a Kutya csillagkép (és főképpen az az mellett lévő Tejút sáv) az éggömböt felezi ill. a fényes és sötét félévet választja el.  
 A kutya mellett a [[S/Suta\|suta]] (lásd még [[C/Csuda\|csuda]]) szavak mutatnak rá a fényes és sötét együttlétére; lásd még [[D/Dialektikus ellentét\|dialektikus ellentét]].  
 - [[E/El Shaddai\|El Shaddai]] címnél pedig rámutattunk, hogy ha Ku-Ta = hegyet is jelent és S-D vázú szó lehet hegy jelentésű, akkor S-T/S-D vázú szavak valamilyen nyelvben előfordulhatnak kutya jelentéssel. Lám, a másutt is említett ajnó/ainu `seta` és a mundari `seta` = kutya jelentésű.
 
 Egy másik jó példa:  
 A francia `dommage` = kár és az angol `damage` = sérülés szavak ilyen jelentései mutatnak rá, hogy a [[K/KÁR\|kár]] = [[S/SZAR\|szar]] = [[S/Sért\|sér]] mind egy.  
 
+A [[S/Szúr\|szúr]] szónak megfelelnek [[K/Kúr\|kúr]], [[G/Gerely\|gerely]] előrésze és a perzsa `kir` = hímtag szó is.  
+Ami felveti, hogy kerál/[[K/Király\|király]] szavunk állhatott volna sz-előtétesen is? Nos, a szanszkrit [[S/Surya\|Surya]] = nap egészen hasonló, nemcsak a [[C/Curoi\|Curoi]] név, és ott van a Szántai Lajos előadásaiban ill. azok címeiben szereplő, korábban kielemzett [[S/Szár\|szár]] név, mely a [[C/Cár\|cár]] elődje is egyben.  
+
 Ugyanígy, [[K/Komor\|komor]] kentumos változata a szatemes [[S/Szomorú\|szomorú]] szónak.  
 
-A török `kan` = vér szó tűnik a [[S/Sanguine\|sanguine]] címnél taglalt nyugati vért jelentő szavak kentumos párjának/elődjének. Már csak azért is mert a kan vér jelentése kötött egy másik fogalomkörhöz, ahogy erről [[K/KAN#Török 'kan' vér jelentése\|török 'kan' vér jelentése]] cím/alcímnél volt szó.
+A török `kan` = vér szó tűnik a [[S/Sanguine\|sanguine]] címnél taglalt nyugati vért jelentő szavak kentumos párjának/elődjének. Már csak azért is, mert a kan vér jelentése kötött egy másik fogalomkörhöz, ahogy erről [[K/KAN#Török 'kan' vér jelentése\|török 'kan' vér jelentése]] cím/alcímnél volt szó.
 { #74sz0y}
 
 
@@ -39,7 +42,7 @@ A Kentum-Szatem nyelvi ágak szétválásáról...
 Azt Péterfai János nem említi, hogy a latin `centum` = száz és az óperzsa `satem` = száz miért és hogyan különültek el.  
 Vajon miért különült el a két szó az indo-európai nyelvi fejlődésben? Az mindenesetre elgondolkodtató, hogy a 100-as szám – akár a germán/angol `hundert`/[[H/Hundred\|hundred]] (angolszász [[H/Hund\|hund]]) esetében – szatem (SZA) és kentum (Kende/ Kend/Ken/Kün/Kun/Hun) szavakban is a magyarokra, hunokra, a menny fiaira, az első népre, Ég és Föld táltosok által ismert kapcsolatára, csillagismeretére, így vélhetően a [[P/Precesszió\|precesszió]]ra és annak tényleges, vélhetően Szíriusszal is kapcsolatos okára utal ([[M/Missera\|missera]] címnél taglaltak alapján is). Inkább a fenti gondolatmenetet kell folytatni és a másutt ([[A/Anunnaki\|Anunnaki]], [[A/Árgyilus\|Árgyilus]], [[H/Hekate\|Hekate]], [[H/Hundred\|hundred]], [[O/Ötven\|ötven]] és [[O/Ötevény\|Ötevény]]) is előforduló kétszer ötven (ötven a Nap száma) fogalmából kiindulni.  
 [[K/Kettő\|Kettő]] szavunk azt jelenti, Két Tu, azaz Két Tőről származunk; ennek a Ke-Tu felbontásnak csak orrhangos változata a latin `centum`. Lásd még bővebben erről a fejtegetést [[C/Cent\|cent]]. Lásd még továbbá [[S/Szatem\|szatem]].  
-Azt a [[S/SZAT\|szat]]/[[S/SZET\|SZET]] nevek kapcsán és [[C/Cet csillagkép\|Cet csillagkép]] neve kapcsán is felhoztuk, hogy egyes fontos nevek k- és sz-előhangosan is megjelenhetnek.  
+Azt a [[S/SZAT\|SZAT]]/[[S/SZET\|SZET]] nevek kapcsán és [[C/Cet csillagkép\|Cet csillagkép]] neve kapcsán is felhoztuk, hogy egyes fontos nevek k- és sz-előhangosan is megjelenhetnek.  
 A finn [[S/Szampó\|Szampó]] k-előhangos [[K/Kampó\|kampó]], [[K/Komp\|komp]] neveiről volt szó több helyen.  
 
 Jó példa a kentum-szatem ágak összetartozóságára a svéd/norvég K hang, melyet S-sel és CS-vel ejtenek. Például a svéd kézilabdázó Jonas Källman nevét Selmannak ejti. A norvég műlesikló Kjetil André Aamodt nevét is Csetilnek kell ejteni.  
