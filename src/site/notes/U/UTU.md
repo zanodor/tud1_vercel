@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/UTU/","title":"UTU","tags":["containstransclusions"],"created":"2024-11-23T05:02","updated":"2025-08-06T22:04"}
+{"dg-publish":true,"permalink":"/U/UTU/","title":"UTU","tags":["containstransclusions"],"created":"2024-11-23T05:02","updated":"2025-08-19T01:06"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Több helyről utaltunk ide, mint egyfajta kiindulószóra. Nos, a sumér Nap(isten) Utu neve származhat egyszerűen [[O/Öt\|öt]] ujjunk napsugarakat formáló volta nyomán.  
 
-A kiinduló valójában [[E/Egy\|Egy]] nevünk, ami eredetileg Istenre vonatkozik, de a [[S/Számosság\|magányosság]] a Napra is utal.  
+A kiinduló valójában [[E/Egy\|Egy]] nevünk, ami eredetileg Istenre vonatkozik, de a [[S/SZÁM#Számosság\|magányosság]] a Napra is utal.  
 ```plantuml-svg
 @startuml
 skinparam BackGroundColor transparent
