@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2025-06-20T23:36"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2025-08-19T01:07"}
 ---
 
 
@@ -193,7 +193,7 @@ Bakos Attila A Duna Evangéliuma című könyvének 477. oldalán az "eredeti" S
 
 #### Bakos Attila Duna Evangéliumának...
 
-...[[N/Numerológia\|numerológia]] címnél is szereplő adatai:  
+...[[S/SZÁM#Numerológia\|numerológia]] címnél is szereplő adatai:  
 > Ég és föld kozmikus [[N/Nász\|nász]]a, egyesülése (1+2=3) mely létrehozza az embert, a lelki és az anyagi világ gyermekét. Ez az aktus teszi teljessé az anyagi teremtést, mely három energiából tevődik össze. Az Istenség saját belső (szanszkrit *antaranga*) energiájából, a külső anyagi vagy anyai természetből (passzív befogadó *bahiranga* energia), amit manipulálnak az emberi lények akik határenergiát képeznek (szanszkrit *tatasthá* azaz föveny \[lásd finnugor párhuzamát [[F/Fű\|fű]]\], már nem tenger, de még nem szárazföld vagyis származásilag transzcendentális lélek, de anyagi testben azaz emberi lény) szellem és anyag együtteseként. A 3 az Atya (múlt), az Anya (jelen) és a Fiú (jövő) téridő dimenzió kifejezője.  
 
 A 2008. augusztus 17.-i magyarság és kelet őstörténeti konferencia szöveges anyaga Fordulat – Hitvilág, mítoszok, legendák címmel elérhető letöltésre; 53. oldalán Dr. Gyárfás Ágnes Lugal Geme nagy Úrasszony, ki Mada című cikkében egy másik szentháromságról ír:  
