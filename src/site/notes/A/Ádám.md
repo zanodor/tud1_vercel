@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ádám/","title":"Ádám","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-18T11:49","updated":"2025-07-12T00:32"}
+{"dg-publish":true,"permalink":"/A/Ádám/","title":"Ádám","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-18T11:49","updated":"2025-08-19T00:51"}
 ---
 
 
@@ -51,7 +51,7 @@ Bakos Attila A Duna Evangéliuma című könyvének 253. oldalán az [[A/Aton\|A
 
 #### Kállay Ferenc A pogány magyarok vallása...
 
-...című könyvében írja azután, hogy azt írja, Bopp keleti Belső-Ázsiában eredteti a [[B/Bál\|Bál]] nevet is:  
+...című könyvében írja azután, hogy azt írja, Bopp keleti Belső-Ázsiában eredetezteti a [[B/Bál\|Bál]] nevet is:  
 > Ádám neve csak a sanskrit `adima` = primus (homo). Noach vagy Noë neve is nem zsidó, hanem indus név. ([Lásd 218. old.](zotero://open-pdf/library/items/DFI47XPY?page=218&annotation=BSPP3TVN))  
 
 #### William F . Warren Paradise Found...  
@@ -88,7 +88,7 @@ A [[B/Bibliai teremtéstörténet\|bibliai teremtéstörténet]] címnél adatok
 > There are numerous parallels to the Genesis stories in the mythologies of many ancient peoples, and I shall briefly recount a few of them for purposes of comparison. The Jehovistic story told of how god fashioned the first man of clay, as a potter might do. Then, having kneaded the model into proper shape, the deity animated it with his breath. The first man was called Adam. In the ancient Hebrew language the word for man was Adam the word for ground, was Adamah; so, man was derived from the ground, or earth.  
 > —  
 > Számos ősi nép mitológiájában számos párhuzamot találunk a Teremtés történetével, és az összehasonlítás kedvéért röviden elmesélek néhányat közülük. A jehovista történet arról szólt, hogyan formálta isten az első embert agyagból, ahogyan egy fazekas is tenné. Aztán, miután a modellt megfelelő formára gyúrta, az istenség a leheletével megelevenítette azt. Az első embert Ádámnak nevezték. Az ősi héber nyelvben az ember szó az Ádám volt, a föld szó pedig az `ádámah`; az ember tehát a földből, vagyis a földből származott.  
-- Az utolsó sor etimológiai szempontból nem állja meg a helyét. Péterfai János sorait kiegészítve nem a föld név illetve az anyaföld elemezendő.
+- Az utolsó sor etimológiai szempontból nem állja meg a helyét. Péterfai János sorait kiegészítve nem a föld név illetve az anyaföld elemzendő.
 
 Jackson egy érdekes párhuzamát is bemutatja:  
 > Among the Shilluks of the White Nile in Africa there is a myth explaining the various complexions of the human race. Juok, the creator, traveled over the world. He made black men out of black earth in the land of the Shilluks; in Egypt, he made brown men out of the mud of the Nile; out of white earth he made white men, and so on.  
