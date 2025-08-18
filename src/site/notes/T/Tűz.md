@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2025-07-03T01:19"}
+{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2025-08-19T01:07"}
 ---
 
 
@@ -42,7 +42,7 @@ Ide tehetők az Ősi Gyökér 2008/1. számában, a [[S/Szentháromság\|Szenth�
 > Őseink – kikelvén magukból a Ház Tűzben élnek, ebből pattan elő annak parazsából a tűzből pattant legény. Ősanyáink ezért szültek a Tűz, Házi Tűz tövénél. A Házi Tűzből, az ott áttelelő Ősökből kapott lelket az újszülött. Nem gondolod-e, hogy a púr = par+ázs?...  
 
 Úgy tetszik tehát, hogy az [[I/Isten\|Isten]] címnél is vitatott kérdés, miszerint lehet-e Isten nőnemű és Nagyboldogasszonnyal azonos, ugyanazt a választ adja, mint ha azt kérdeznénk, lehet-e Zeusz/deus/theos előképe istennő: a válasz egyértelműen igen; a kétnemű [[Z/Zeusz Labrandeosz\|Zeusz Labrandeosz]] címnél írottak alapján (**Zeusz szül is**!) még inkább.  
-Viszont mivel Isten teremt, azaz [[T/Tesz\|tesz]] is, ezért ezen igénk is számításba vehető (még ha általán nem is az igék elemezendők) (valamint a teszés-toszás/nemzés már hímségi feladat).  
+Viszont mivel Isten teremt, azaz [[T/Tesz\|tesz]] is, ezért ezen igénk is számításba vehető (még ha általán nem is az igék elemzendők) (valamint a teszés-toszás/nemzés már hímségi feladat).  
 Azt is láttuk, hogy nem a judaizmussal indult meg az istennő szerepkör kiszorulása; már a sumereknél is [[A/Anu\|Anu]] hímnemű. Időben ezt követően jön létre a görögöknél Zeusz főistenség szerepköre (lehetne itt beszélni az [[I/Idő\|idő]] címnél is taglalt kétféle [[K/Kronosz\|Kronosz]] névről is), de lehetne beszélni az indo-európai nyelvészet által rokonnak megállapított ([[Z/Zeusz\|Zeusz]] címnél is előjövő) \*dyaus = isten formáról is, mely az indo-iráninak tartott [[D/Dév\|dév]], [[D/Déva\|Déva]] és [[D/Devil\|devil]] formákban is visszaköszön, de sz-előtétesen [[S/Siva\|Siva]] neve is ilyen.  
 Ez utóbbiakat illetően, [[H/H, J, V\|H, J, V]] címnél írottak alapján ugyanis nem is annyira tevő és tevés szavainkról lenne ezek szerint szó, mint újfent a Tejútanya tündér ([[D/Dév\|dév]] > gyevuska is ezt mutatja), delnő és banya (ez a [[D/Devil\|devil]] fogalommal párosul) aspekusainak neveiről, hisz minden róla szól: a Napot (mely feltámad és mindig [[G/Győz\|győz]]: Jézus, dyaus és Zeusz nevek közül az első kettő nagyon is győz alakú) szülő [[S/Szűz\|szűz]] (ez ismét egy ilyen Zeuszos név) Tejútanyáról, akinek neve Teut(an), Teus (Tejes, Tej-Us, Tej-Ős, Isten Ős) formákban is értelmezhető. Ezért látjuk [[D/Dame\|dame]] és [[D/Dhanu\|Dhanu]] címnél is előjönni a Tejútanya Ten vagy Tehén nevét is.  
 Ezen a ponton beszélni kell arról is, hogy [[T/Tehén\|tehén]] a [[T/TEN\|TEN]] olyanképpeni széthúzása, mint ahogy Kanból Cahen, [[K/Kohén\|Kohén]] lett? A Tehén eredeti olvasata Tej-Én ugye. Viszont a magyar szavakat többféle módon lehet magyarázni.  
