@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nab/","title":"Nab","created":"2023-10-25T05:00","updated":"2024-10-25T23:34"}
+{"dg-publish":true,"permalink":"/N/Nab/","title":"Nab","created":"2023-10-25T05:00","updated":"2025-08-19T01:03"}
 ---
 
 
