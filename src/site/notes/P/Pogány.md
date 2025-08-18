@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2025-07-26T21:35"}
+{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2025-08-19T01:01"}
 ---
 
 
