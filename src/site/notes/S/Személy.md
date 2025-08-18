@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Személy/","title":"Személy","created":"2024-05-08T22:30:00","updated":"2024-10-26T00:27"}
+{"dg-publish":true,"permalink":"/S/Személy/","title":"Személy","created":"2024-05-08T22:30:00","updated":"2025-08-19T01:06"}
 ---
 
 
