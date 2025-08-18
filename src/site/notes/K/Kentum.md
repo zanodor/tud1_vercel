@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kentum/","title":"Kentum","created":"2025-05-29T17:30","updated":"2025-08-16T15:35"}
+{"dg-publish":true,"permalink":"/K/Kentum/","title":"Kentum","tags":["containstransclusions"],"created":"2025-05-29T17:30","updated":"2025-08-19T00:57"}
 ---
 
 
@@ -19,7 +19,9 @@ Egy másik jó példa:
 A francia `dommage` = kár és az angol `damage` = sérülés szavak ilyen jelentései mutatnak rá, hogy a [[K/KÁR\|kár]] = [[S/SZAR\|szar]] = [[S/Sért\|sér]] mind egy.  
 
 A [[S/Szúr\|szúr]] szónak megfelelnek [[K/Kúr\|kúr]], [[G/Gerely\|gerely]] előrésze és a perzsa `kir` = hímtag szó is.  
-Ami felveti, hogy kerál/[[K/Király\|király]] szavunk állhatott volna sz-előtétesen is? Nos, a szanszkrit [[S/Surya\|Surya]] = nap egészen hasonló, nemcsak a [[C/Curoi\|Curoi]] név, és ott van a Szántai Lajos előadásaiban ill. azok címeiben szereplő, korábban kielemzett [[S/Szár\|szár]] név, mely a [[C/Cár\|cár]] elődje is egyben.  
+Ami felveti, hogy kerál/[[K/Király\|király]] szavunk állhatott volna sz-előtétesen is? Nos, a szanszkrit [[S/Surya\|Surya]] = nap egészen hasonló, nemcsak a [[C/Curoi\|Curoi]] név, és ott van a Szántai Lajos előadásainak címeiben szereplő, korábban kielemzett [[S/Szár\|szár]] név, mely a [[C/Cár\|cár]] elődje is egyben.  
+
+Ha akarom, a magyar [[M/MAG\|mag]] = fiú és a [[M/Mózes\|Mózes]] és [[M/MAS\|MAS]] helyeken is említett [[M/Más\|más]] szavakat is egymás mellé tudnám tenni.  
 
 Ugyanígy, [[K/Komor\|komor]] kentumos változata a szatemes [[S/Szomorú\|szomorú]] szónak.  
 
@@ -36,8 +38,16 @@ A Kentum-Szatem nyelvi ágak szétválásáról...
 #### Bilecz Ferenc Szarvas a magyar nyelvben...
 
 ...című cikkében is ír:  
-> De a cáréhoz hasonló a magyar "király" szó története is. Itt meg I. (Nagy) Károlyt tartják a `král`, `karol` szláv tisztség névadójának, és hát innen lett volna szláv jövevényszó a magyar király is. Mint Cézárnál, itt is a nagyapa volt a névadó. Ő volt Kalapácsos (Martell) Károly (686-741) a Karoling-dinasztia alapítója. A Károly (Carolus, Charles, eredeti kiejtés: charlz), név az ónémet \*karlja, \*karlaz, (szabad ember, jobbágy) titulusból eredeztethető.  
-> Ekkor a magyar ~~protoindoeurópai eredetű~~ `kerál` szó már évezredek óta ismert lehetett és a kentum-szatem nyelvi szétváláskor a magyarban maradt a "ker" gyök, míg a szatem területen ez "szárrá", "cárrá" változott. Míg a magyar "király" szóban a "kör", a szláv `cár` szóban a "sár" (gömb, pld. földgömb, Земной шар) szó jelöli a teljességet, a mindenek feletti uralmat. Ezt a gömböt (nálunk országalmát) tartják a kezükben az ősi istenek, királyok.  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/S/Szatem/#4v0nf7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> De a cáréhoz hasonló a magyar "király" szó története is. Itt meg I. (Nagy) Károlyt tartják a král, karol szláv tisztség névadójának, és hát innen lett volna szláv jövevényszó a magyar király is. Mint Cézárnál, itt is a nagyapa volt a névadó. Ő volt Kalapácsos (Martell) Károly (686-741) a Karoling-dinasztia alapítója. A Károly (Carolus, Charles, eredeti kiejtés: charlz), név az ónémet \*karlja, \*karlaz, (szabad ember, jobbágy) titulusból eredeztethető.  
+> Ekkor a magyar ~~protoindoeurópai eredetű~~ `kerál` szó már évezredek óta ismert lehetett és a kentum-szatem nyelvi szétváláskor a magyarban maradt a "ker" gyök, míg a szatem területen ez "szárrá", "cárrá" változott. Míg a magyar "király" szóban a "kör", a szláv "cár" szóban a "sár" (gömb, pld. földgömb, `Земной шар`) szó jelöli a teljességet \[[[SAR\|[SAR]]-nak van teljes jelentése a sumérben vagy akkádban\], a mindenek feletti uralmat. Ezt a gömböt (nálunk országalmát) tartják a kezükben az ősi istenek, királyok. 
+
+</div></div>
+
 
 Azt Péterfai János nem említi, hogy a latin `centum` = száz és az óperzsa `satem` = száz miért és hogyan különültek el.  
 Vajon miért különült el a két szó az indo-európai nyelvi fejlődésben? Az mindenesetre elgondolkodtató, hogy a 100-as szám – akár a germán/angol `hundert`/[[H/Hundred\|hundred]] (angolszász [[H/Hund\|hund]]) esetében – szatem (SZA) és kentum (Kende/ Kend/Ken/Kün/Kun/Hun) szavakban is a magyarokra, hunokra, a menny fiaira, az első népre, Ég és Föld táltosok által ismert kapcsolatára, csillagismeretére, így vélhetően a [[P/Precesszió\|precesszió]]ra és annak tényleges, vélhetően Szíriusszal is kapcsolatos okára utal ([[M/Missera\|missera]] címnél taglaltak alapján is). Inkább a fenti gondolatmenetet kell folytatni és a másutt ([[A/Anunnaki\|Anunnaki]], [[A/Árgyilus\|Árgyilus]], [[H/Hekate\|Hekate]], [[H/Hundred\|hundred]], [[O/Ötven\|ötven]] és [[O/Ötevény\|Ötevény]]) is előforduló kétszer ötven (ötven a Nap száma) fogalmából kiindulni.  
