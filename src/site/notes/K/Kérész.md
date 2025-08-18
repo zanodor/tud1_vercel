@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kérész/","title":"Kérész","created":"2024-02-11T14:22","updated":"2024-10-25T22:20"}
+{"dg-publish":true,"permalink":"/K/Kérész/","title":"Kérész","created":"2024-02-11T14:22","updated":"2025-08-19T00:58"}
 ---
 
 
