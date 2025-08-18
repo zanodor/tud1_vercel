@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gwendolyn/","title":"Gwendolyn","tags":["Englishtexttranslated"],"created":"2025-06-02T15:57","updated":"2025-06-02T15:58"}
+{"dg-publish":true,"permalink":"/G/Gwendolyn/","title":"Gwendolyn","tags":["Englishtexttranslated"],"created":"2025-06-02T15:57","updated":"2025-08-19T00:54"}
 ---
 
 
@@ -19,7 +19,9 @@ Más könyveiben róla említés sem esik, és Monaghan sem említi, hogy állat
 > A kelta eredetű Gwendolyn női név fehér ünőt jelent, s a mondák vadászok űzte szarvasteheneinek a szőre is rendszerint fehér.  
 
 Nem is annyira kelta, hanem egészen pontosan walesi név, ahol az előtag `gwyn` = fehér[^1], míg az utótag nem látszik ünőre utalni. A walesi `dolen` = ív (íj), gyűrű jelentésű (de az interneten homlok vagy szemöldök jelentés is előjön[^2]; az angol [[B/Bow\|bow]] és [[B/Brow\|brow]] szavak közül utóbbinál történt utalás arra, hogy a kettő egy és ugyanaz végeredményben). A fehér ív/gyűrű nem lehet más, mint a Tejút neve, mely valóban állatalakként a Csudaszarvasünő, de magam ilyen infót nem találtam.  
-Az [[I/Ív\|ív]] = [[E/Ég\|ég]] összefüggése nyomán lehet közvetlenül égboltra utaló, de hasonló alakú szó égboltra a walesiben nincs.  
+Az [[I/Ív\|ív]] = [[E/Ég\|ég]] összefüggése nyomán lehet közvetlenül égboltra utaló, de hasonló alakú szó égboltra a walesiben nincs.
+{ #250819}
+
 
 A Tejútistennő/Szíriusz [[C/Ceridwen\|Ceridwen]] névnél volt szó arról, hogy Ceridwen, [[T/Taliesin\|Taliesin]] és Gwendolyn is mind hasonló neműek. A ragyogó/fényes/fehér homlok/íj/szarvak mind arról árulkodnak, hogy a [[C/Csudaszarvas\|Csudaszarvas]] homlokán a Szíriusz van illetve hogy agancsai között a Napot hordozza.  
 Lásd még [[G/Gw-\|gw-]] arról, hogy miként feleltetik meg f-előhangos ír és v-előhangos latin szavakkal.  
