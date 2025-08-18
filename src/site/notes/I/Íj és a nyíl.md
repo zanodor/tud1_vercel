@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2025-07-19T00:55"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2025-08-19T00:56"}
 ---
 
 
@@ -13,7 +13,7 @@
 Folytassuk nyelvészeti síkon, azzal, hogy íj szavunk az [[I/Ív\|ív]] szó változata. Erről sok helyen, legutóbb [[F/Flash\|flash]] címnél is volt szó (ahol kimutattuk, hogy az alant szexualitás résznél részint érintett hímtag görög formájának, a [[P/Phallic\|fallosz]] szónak eredete is nyílvesszőre, Bál-Ős Bal-Orionra megy vissza).  
 Azóta [[I/I\|i]] címnél, külön alcímnél arra is kitértünk, hogy a szóvégi v/j nem is igazán tesz hozzá.  
 [[Y/Yew\|Yew]] címnél volt szó az óangol `īw` (Gerald Massey A Book of Beginnings című könyve második kötetének 380. oldalán `if` formát is közöl) szóról, mely ugye már nem íj, hanem [[T/Tiszafa\|tiszafa]] jelentéssel maradt fenn.  
-Lásd még [[N/Nyíl\|nyíl]] címszót, nemcsak etimológiai vizsgálatért. Asztrál-szexuális vonatkozást és phallosszal kapcsolatos adatokat lásd [[I/Íj csillagkép\|Íj csillagkép]] címnél. Bognár Ferenc Nimrudi hagyományunk Boldogasszony-tisztelete, és Fekete Madonnái című cikkének idevonatkozó adatait [[I/Io\|Io]] istennőről, íj ajzásáról, stb. lásd ott ill. [[J/Jó\|Jó]] címnél.  
+Lásd még [[N/Nyíl\|nyíl]] címszót, nemcsak etimológiai vizsgálatért. Asztrál-szexuális vonatkozást és phallosszal kapcsolatos adatokat lásd [[I/Íj csillagkép\|Íj csillagkép]] címnél. Bognár Ferenc Nimrudi hagyományunk Boldogasszony-tisztelete, és Fekete Madonnái című cikkének idevonatkozó adatait [[J/Jó#Io istennő\|Io]] istennőről, íj ajzásáról, stb. lásd ott ill. [[J/Jó\|Jó]] címnél.  
 
 Az íj és a nyíl rendszere mögött egy olyan ősi magyar csillagászati-filozófiai rendszer húzódik, mely elképesztő távlatokat nyit meg.  
 A nyíl a nőiség (a nőnek kell nyitni, nyílni; már eleve a nyíl a NI, NÉ = nő alapszóból képzett) és a nyílvessző a hímség. Erre alapul a Nyilas-Nyílás évköri rendszer. A magyar alapszavak megjelennek más nyelvekben; magyar [[N/Nyíl\|nyíl]] > \*níl > latin `nihil`, `nihilum` = semmi (a valami hiánya) (lásd [[N/Nihil\|nihil]]).  
@@ -114,7 +114,9 @@ Ezt megerősítendő, a latin `porcus` = disznó jelentése mellett éppúgy jel
 Péterfai Jánosnál ugyanez (lásd zárójeles megjegyzéseim illetve kiemeléseim):  
 > Amikor Heraklész távozni készült, egy [[I/Íj\|íj]]at, és egy [[O/Öv\|öv]]et adott a \[[[Kígyó\|kígyó]] altestű\] \[**Tejútisten\]nő**nek, aki királynő volt amúgy. "Amikor megnőnek a fiaim, akkor add a kezükbe az íjat és az övet. Amelyik úgy ajzza fel az íjat, mint én, és úgy köti fel az övet, mint én, azt tartsd magadnál, amelyik nem így tesz, azt küldd el!"  
 > Az övön aranycsésze csüngött alá. Heraklész bemutatta az íj felajzását, és az öv felcsatolását, azzal dolgára indult.  
-> Tudnunk kell, hogy az íj a magyar népeknél királyi jelkép, valójában az [[E/Ég\|ég]] és [[I/Ív\|ív]] megszemélyesítője.  
+> Tudnunk kell, hogy az íj a magyar népeknél királyi jelkép, valójában az [[E/Ég\|ég]] és [[I/Ív\|ív]] megszemélyesítője.
+{ #250819}
+
 - Valóban úgy tűnik, hogy az íj és nyíl közül az előbbi a csillagos ég összessége illetve az általunk látható félgömb, míg a nyíl a [[T/Tejút\|Tejút]].
 
 Herkules íja lehet az [[I/Íj csillagkép\|Íj csillagkép]], annál is inkább, mert ha végén arany csésze függött, az csillag kell legyen, bár a Szíriusz inkább ezüstös, míg a Nap aranyszínű.  
