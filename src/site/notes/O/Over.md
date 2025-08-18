@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Over/","title":"Over","created":"2024-05-03T13:24","updated":"2024-10-25T23:41"}
+{"dg-publish":true,"permalink":"/O/Over/","title":"Over","created":"2024-05-03T13:24","updated":"2025-08-19T01:04"}
 ---
 
 
@@ -43,5 +43,8 @@ Szumma szummárum, ahogy közben [[A/Ábrahám\|Ábrahám]] címnél is tárgyal
 
 ## Ég szavunk származékaként való értelmezése
 
-Lehetséges, hogy [[O/OP\|OP]], [[U/Up\|up]] és über/over mind [[E/Ég\|ég]] szavunk G>H>V>P/B fejleményeként értékelendő. Hiszen az ég a szem világára, fentre fogalmilag tökéletesen illik.  
+Lehetséges, hogy [[O/OP\|OP]], [[U/Up\|up]] és über/over mind [[E/Ég\|ég]] szavunk G>H>V>P/B fejleményeként értékelendő. Hiszen az ég a szem világára, fentre fogalmilag tökéletesen illik.
+{ #250819}
+
+
 Erre az eshetőségre éppen [[O/Oven\|oven]] címnél járva gondoltam.  
