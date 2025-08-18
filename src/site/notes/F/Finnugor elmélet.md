@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz","containstransclusions"],"created":"2024-05-09T22:31","updated":"2025-07-14T17:48"}
+{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz","containstransclusions"],"created":"2024-05-09T22:31","updated":"2025-08-19T00:54"}
 ---
 
 
@@ -91,15 +91,14 @@ A finnugrász Hegedűs József Rendhagyó magyar nyelvhasonlítás-történet c�
 > Schlözer hírhedt magyargyűlölete kortársai eőtt is közismert volt. Nézetei között szerepelt, hogy a magyaroknak nincs saját történelmük és nincs helyük Európa fő népei között, nincs joguk nemhogy Erdélyre, de Magyarországra sem!  
 > II. József magyar király (1780-1790) rendeletben tiltotta meg a magyar oknyomozó történelem tanítását s az anyja, Mária Terézia azért ragaszkodott Magyarországon a latin nyelv hivatalos nyelvként való megtartásához jóllehet Európában ez már erősen idejét múlt volt, mert a magyar nyelv visszaszorítását birodalmi érdeknek tekintették. Ráth Mátyás győri evangélikus lelkész 1788-ban mindezt meg is írta az Ueber die Ausrottung der ungarischen Sprache című cikkében (Staatsanzeiger 12. sz.)  
 > A németek körében (Franz von Löher, Rudolf Heinze, Eduard Glatz, Herder, Wattenbach, etc.) általános vélemény volt, hogy Magyarországot a németek és a szlávok varázsolták virágzó országgá, a magyar föld minden értékét a németeknek köszönhetjük, a magyarságnak: nincs is egyéb szerepe, mint előkészíteni a németek tömeges letelepedését a Kárpát-medencében. Paul de Lagerde szerint a magyar nép csak arra jó, hogy csontjaival kövezze ki a németség számára a történelem országútját.  
-
-[Ezen](https://qr.ae/pN2aTo) Quora válaszában Debreczeni Zoltán még korábbra megy:  
+- [Ezen](https://qr.ae/pN2aTo) Quora válaszában Debreczeni Zoltán még korábbra megy:  
 > In the late 15th century, European scholars noted the resemblance of the names Hungaria and Yugria, the names of settlements east of the Ural. They assumed a connection but did not seek linguistic evidence. The Siberian origin of Hungarians was long hypothesized by European scholars. Sigismund von Herberstein's 1549 map of Moscovia shows "Yugra from where the Hungarians originated" (Iuhra inde ungaroru origo), east of the Ob River.  
 > The affinity of Hungarian and Finnish was first proposed in the late 17th century. Three candidates can be credited for the discovery: the German scholar Martin Vogel, the Swedish scholar Georg Stiernhielm and the Swedish courtier Bengt Skytte. Vogel's unpublished study of the relationship, commissioned by Cosimo III of Tuscany, was clearly the most modern of these: he established several grammatical and lexical parallels between Finnish and Hungarian as well as Sami. Stiernhelm commented on the similarities of Sami, Estonian and Finnish, and also on a few similar words between Finnish and Hungarian. These authors were the first to outline what was to become the classification of the Finno-Ugric, and later Uralic family.  
 
-Tulajdonképpen akkor két fő támpont alapján soroltak be minket a mansik/vogulok rokonaként:  
-1\. Párszáz szó és némi nyelvtani hasonlóság (ami a – komoly elnyomásban élő – vogul és más népek magyar ősi nyelvünket megtartó képességét jelezhetné leginkább);  
-2\. Yugriai tartózkodás (holott a magyarok Eurázsiában mindenhol nyomot hagytak.  
-Reguly Antal és Hunfalvy Pál: A vogul föld és nép című könyvük III. Szakasz: A vogulok viszonyai a magyarokhoz című részben egy szuszra sikerül mindent "helyre tenniük":  
+> Tulajdonképpen akkor két fő támpont alapján soroltak be minket a manysik/vogulok rokonaként:  
+> 1\. Párszáz szó és némi nyelvtani hasonlóság (ami a – komoly elnyomásban élő – vogul és más népek magyar ősi nyelvünket megtartó képességét jelezhetné leginkább);  
+> 2\. Yugriai tartózkodás (holott a magyarok Eurázsiában mindenhol nyomot hagytak.  
+> Reguly Antal és Hunfalvy Pál: A vogul föld és nép című könyvük III. Szakasz: A vogulok viszonyai a magyarokhoz című részben egy szuszra sikerül mindent "helyre tenniük":  
 > Következnék azután történelmi oldala, melly tekintetből épen a vogulok látszanak legérdekesebbeknek. Ők szirjän határosaiknál a' jögra nevet viselik, mi nagyon emlékeztet a' régi ugor vagy jugor névre; legalább az orosz, kinek ö hangja nincsen, ezt csak így ejtheti . A' jögra népről nevezték hajdan az egész tájékot Jugriának. De nevezetes ez is: Az oroszok a' magyart is jugrinak nevezik; ' s minthogy a' vogul magát manšinak nevezi : talán így a' magyar név eredetére is juthatunk." Ezt írá Reguly 1841-ben a' magyar Akademiának. Reguly megtette az utazást; a' mit a' voguloktul és róluk hozott, az olvasó előtt van immár, a' mennyiben sikerült azt értelmeznem; 's látjuk, hogy az se nem kevés, se nem becstelen, söt inkább több és becsesebb, mintsem várni mertük volna.  
 > Értelmezője lévén a' Reguly hozományának, szükségesnek tartom arra is megfelelni, a' mi végett ő az éjszaki Uralrà s a' vogulok és osztjákok közzé utazott. Mert látók a' Bevezetésben, hogy a' XVI. század elejétül fogva híre vala Európában annak, hogy a' magyarok Jugriábul jöttek ki, a' melly jelenben is a' vogulok hazája; ennél fogva, úgy gondolják vala az írók, hogy a' magyaroknak szorosabb viszonyban kell állaniok a' vogulokkal, mintsem bármellyik más rokon nyelvü néppel.  
 - Lásd még a témát [[U/Ugor\|ugor]] címnél Götz László tollából.
@@ -108,7 +107,7 @@ Reguly Antal és Hunfalvy Pál: A vogul föld és nép című könyvük III. Sza
 > [[M/Magyar\|Magyar]] népnevünket a történészek és nyelvészek két részre bontják, és elfeledkeznek [[M/Magor\|Magor]] ősünkről, akitől a magyarok erednek, és akiről a gyerekek is tudnak. Ennek ellenére erőltetik kitalált értelmezésüket, amit azonban senki sem fogad el.  
 > A Magyar név két része, szerintük, az ugor Manysi, jelentése Ember, valamint a török `Eri`, jelentése Férfi. Sokan komolyan is gondolják, hogy a magyarok elmeháborodott állapotukban a manysikhoz és a törökökhöz esedeztek népnév ügyében. A magyaroknak annyi esze sem volt, hogy saját maguknak saját nyelvükön nevet adhattak volna. Magor (Magur) nevét meg jobb egy nyelvésznek elfeledni, letagadni, mert nagyon egyszerűnek látszik a név értelmezése, és a Magur jelentés szétverheti a finnségi Manysi és török `Eri` eredeztetést. A nagy hamisítás könnyen a dugába dőlhet, még a történészek előtt is.  
 
-Péterfai János a [[M/Madár\|madár]] nevet is felhozhatta volna (rokonításul; nem az az eredete). A [[M/Magyar népnév és magyarok nevei#A magyar népnév eredeti alakja magyar\|magyar népnév eredeti alakja magyar]] cím/alcímnél is kimondtuk:  
+Péterfai a [[M/Madár\|madár]] nevet is felhozhatta volna (rokonításul; nem az az eredete). A [[M/Magyar népnév és magyarok nevei#A magyar népnév eredeti alakja magyar\|magyar népnév eredeti alakja magyar]] cím/alcímnél is kimondtuk:  
 
 A mansi/\*mancar > magyar levezetés hirdetői tulajdonképpen a [[M/Magyar népművészet\|magyar népművészet]]et és néplelket nem ismerő, arra fittyet hányó lélektelen, kommunista kufár kalmárok és azok kiszolgálói. Egyértelműen politikai jellegű a tevékenységük.  
 
@@ -161,7 +160,7 @@ Egy használható latin kifejezés lett volna az ex cathedra, ami "megkérdőjel
 
 Marácz László A finnugor elmélet tarthatatlansága nyelvészeti szempontból című, letöltésre elérhető magyar nyelvű írásában sok fontos dologról beszél (köztük a kör szóbokor szavairól; lásd [[N/Nyelvészet mint tudomány#Kör szóbokor tagjainak TeSz általi eredeztetése\|kör szóbokor tagjainak TeSz általi eredeztetése]] cím/alcímnél.  
 
-[Ezen](https://magyarmegmaradasert.hu/kiletunk/item/5285-z) oldalon Marácz László A Finnugor Elmélet Az Indogermán Elmélet Egy Fiókelmélete című interjúja is elérhető. Az utolsó válaszra adott kérdését lefordítottam angolra, kiegészítettem egy kicsit és feltettem a [Quorára](https://qr.ae/pNcnYE):  
+[Ezen](https://web.archive.org/web/20200807180727/https://magyarmegmaradasert.hu/kiletunk/item/5285-z) oldalon Marácz László A Finnugor Elmélet Az Indogermán Elmélet Egy Fiókelmélete című interjúja is elérhető. Az utolsó válaszra adott kérdését lefordítottam angolra, kiegészítettem egy kicsit és feltettem a [Quorára](https://qr.ae/pNcnYE):  
 > What you must know about the background of the Finno-Ugric "universal law" (as it pertains to the Hungarian language) is that this topic (too) is heavily politicized.  
 > Even today, those who keep voicing this Finno-Ugric theory belong mainly to the leftist liberal camp. This nonsense must be maintained at all costs, because there are certain interests in it, and at the same time it dictates a kind of Indo-European hegemony. People who cling to the Finno-Ugric theory are thinking in a kind of Euro-centric framework of civilization, or to put it more bluntly, subscribe to a "slaves to our masters" mindset.  
 > **It is not possible to change the Finno-Ugric theory, because then the Indo-European theory will also be overthrown**. The hardly Hungarian Paul Hunsdorfer-Hunfalvy, for example, said that **in Europe only the Greco-Roman-based science would be cultivated**, everything else is precluded. (Don't forget Jewish usury either and the way **Judaism had been attached** on **Scythian-Hunnic Christianity which did not permit taking interest**.)  
@@ -404,7 +403,8 @@ Az [[I/Indogermán nyelvészet\|indogermán nyelvészet]] egyenes következmény
 
 A nyelvi példát lásd [[C/Chiton\|chiton]].  
 
-## A finnugor őshazából származtatott szavak körüli problémák – finnugrászaink lebuknak
+## A finnugor őshazából származtatott szavak körüli problémák
+Avagy: finnugrászaink lebuknak.
 
 [[N/Nyelvészet mint tudomány#Kör szóbokor tagjainak TeSz általi eredeztetése\|Kör szóbokor tagjainak TeSz általi eredeztetése]] cím/alcímnél volt szó a *kör szóbokor* egyes szavainak ilyen-olyan nyelvekből való eredeztetése kapcsán arról, hogy nemcsak hogy tudománytalan, hanem önmagukat buktatták le finnugrászaink.  
 Az alábbiakban is ilyen buktatókra mutatnék rá.  
@@ -418,6 +418,23 @@ Lehetséges, hogy azért nem rokonítottak, mert nem ismerték a szót illetve a
 ### Germán nyelvekben szinte azonos szó szerepel, mégis finnugornak jelölt a szó
 
 Ezt a témát [[H/Ház\|ház]] szavunk eredete kapcsán, a finnugrászaink felé kritikát megfogalmazva Borbola János járta körül; ugyebár a német/angol `Haus`/`house` közelebb áll a magyar szóhoz, mint a finn [[K/Kota\|kota]]. Idegenszívű magyargyűlölő finnugrászainknak más esetekben nem okozott gondot a germánból való eredeztetés, akkor most itt mi volt az akadálya? Mi ezen elgondolás célja? Hát az, hogy 1) növeljék a finnugor egyezéseket/statisztikát (mint ahogy a Covid halálozások statisztikáit is hamisították), 2) a magyarok kezdetleges házainak = kunyhóinak bemutatása kifizetődőbb.  
+
+...És akkor az `eszik` szónak miért kell finnugor eredet (nem is akármilyen nyalánkságok ezek: finn `syödä`, észt `sööma`; előbbit Marácz László [ezen](https://www.youtube.com/watch?v=aaNSau4alnc&t=4673) előadásában is említi)? Mert az ősmagyar fogazata, élelmezési szokásai a tundrához igazítandók?  
+Amikor az [[E/Eat\|eat]] helyen is taglalt német `essen` és latin `edere` igék tökéletesen azonosak a magyar igével, miért nem a németből vezetik le, ha már annyira nem lehet semmi sem magyar szó? Nem mellesleg az [[I/ISZ#Iszik\|iszik]] szó isz eleme nyilvánvalóan az eszik esz elemével van párban és mivel a latin és német nyelvekben az iszik jelentésű szó nem tart az eszik jelentésűekéhez, nyugodtan mondhatjuk, hogy az indo-európai szavak is magyar eredetűek.
+{ #magmaq}
+
+
+### Hangtanilag megfelelő szavak mégsem finnugor eredetűek
+
+Nyilván most nagyon kapnék a fejemre, hiszen nekem azt is tudnom kell, hogy nem csak a hangtan számít, hanem egy csomó olyan dolgot figyelembe kéne vennem, melyeket a magasrangú finnugor nyelvészek figyelembe vesznek. Mégis, kíváncsi vagyok, a [[M/Mász\|mász]] szó TeSz magyarázata vajon min alapul:  
+> Ismeretlen eredetű; finnugor egyeztetése nem meggyőző.  
+
+Nem meggyőző? Kit kell meggyőzni? Milyen százalékos arányú meggyőzöttség szükséges, vagy hogy megy ez? Nem kukacoskodom, csak kérdezem.  
+Mert amikor a Götz László Keleten kél a Nap című könyvének 485. oldalán [[B/Budenz József\|Budenz József]] szóhasonlításaiból tallózva hozott finn `mata`, `mati` "csúszik, mászik", észt `madu` "féreg" és lapp `mode` "csúszik, mászik" szavakat bemutatja, ezek SZ-T/D váltással megfelelnének. Miért mulasztja el [[B/Benkő Loránd\|Benkő Loránd]] és csapata a finnugorból való levezetést? Hozzá lehetne írni még egy szót az eddigiekhez.  
+Hát persze, hogy rokonok a szavak, de hogy sem a magyar, sem a finn nem uráli nyelvek, az is biztos.  
+Egyáltalán, a következetlenségek azok, amiket a tudomány nem szabadna eltűrjön.
+{ #r467qs}
+
 
 ### Szóbokorba tartozó szavak külön-külön helyekről való eredeztetése
 
@@ -464,17 +481,23 @@ Az elavult módszerek témájához még...
 
 ...misszionárius pap Tomory Zsuzsa Magyar-English word origins című könyvéhez csapott addendumában szereplő passzusát is tegyük ide:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Magyar nyelv ősisége – ősnyelv-e a magyar/#x5fd1" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Magyar nyelv ősisége – ősnyelv-e a magyar/#x5fd1n" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-> The American Linguistic Seminar at Bochum University, Germany, including Russian and other linguists accepting The One Language of Mankind as a fact based on up to date computerized linguistic research rejected the existence of a separate Finno-Ugric language family – **elvetvén az u.n. "finnugor nyelvcsalád" külön magábanlétezését** megállapították, hogy egy nyelvezete van az emberiségnek és a magyar nyelvet az ősnyelv elágazásának jelenlegi állapotában az Elámo-Dravida/Uralo-Dravida törzs jellegéhez legközelebbállónak találták, s ezt ennek közelebbi kiágazásaival az Afro-Ázsia-i, kártveli, indoeurópai és altaival együtt egy közös nyelvnek [[N/Nosztratikus nyelvcsalád\|nosztratikus]] névvel jelölt egyik főbb nyelvtörzseként ismertették. Láthatólag ezt a szétvándorlást és nem a nyelvben hordozott ősműveltség belső lelki fejlettségének kifejező erejét vette figyelembe (Walter Koch: Language in the Upper Pleistocene, 1991 Bockmeyer, Bochum, Germany az ősnyelvi elágazások ábráival: az 5.1 számú Koch 1991. kezdetén, az 5.2 számú Vitaly Shevoroskin 1990. évi és az 5.3 számú Bateman 1990-ben készült ábráját mutatja). 
+> The American Linguistic Seminar at Bochum University, Germany, including Russian and other linguists accepting The One Language of Mankind as a fact based on up to date computerized linguistic research rejected the existence of a separate Finno-Ugric language family – **elvetvén az u.n. "finnugor nyelvcsalád" külön magábanlétezését** megállapították, hogy egy nyelvezete van az emberiségnek és a magyar nyelvet az ősnyelv elágazásának jelenlegi állapotában az Elámo-Dravida/Uralo-Dravida törzs jellegéhez legközelebbállónak találták, s ezt ennek közelebbi kiágazásaival az Afro-Ázsia-i, kártveli, indoeurópai és altaival együtt egy közös nyelvnek [[N/Nosztratikus nyelvcsalád\|nosztratikus]] névvel jelölt egyik főbb nyelvtörzseként ismertették. Láthatólag ezt a szétvándorlást és nem a nyelvben hordozott ősműveltség belső lelki fejlettségének kifejező erejét vette figyelembe ([Walter Koch: Language in the Upper Pleistocene, 1991 Bockmeyer, Bochum, Germany](https://mega.nz/file/sjsxQBTb#MrOvsOfpE_eXH89z5iZyuk3mKX-egjgqUuzSXpoUtyQ) az ősnyelvi elágazások ábráival: az 5.1 számú Koch 1991. kezdetén, az 5.2 számú Vitaly Shevoroskin 1990. évi és az 5.3 számú Bateman 1990-ben készült ábráját mutatja). 
+> 
+> | Koch                                                                       | Shevoroskin                                                                | Bateman                                                                    |
+> | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+> | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191129405.jpeg](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191129405.jpeg) | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191212374.jpeg](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191212374.jpeg) | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191308422.jpeg](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191308422.jpeg) |
+> 
+
 
 </div></div>
 
 - A szövegben már egyes nyelvcsalád-nevezetek javított változatát adom. <br/>
 Az angol szöveg magyarul pedig így hangzik:  
-Az amerikai nyelvészeti szeminárium a Bochumi Egyetemen, Németországban, orosz és más nyelvészek részvételével, akik a legmodernebb számítógépes nyelvészeti kutatásokon alapuló eredményekre hivatkozva az emberiség egy nyelvét tényként fogadják el, elutasították egy külön finnugor nyelvcsalád létezését.  
+Az amerikai nyelvészeti szeminárium a Bochumi Egyetemen, Németországban, orosz és más nyelvészek részvételével, akik a legmodernebb számítógépes nyelvészeti kutatásokon alapuló eredményekre hivatkozva az emberiség egy nyelvét tényként fogadják el, elutasították egy külön finnugor nyelvcsalád létezését.
 
 ## Finom célozgatások
 
