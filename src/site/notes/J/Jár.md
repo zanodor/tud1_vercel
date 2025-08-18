@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jár/","title":"Jár","created":"2024-06-04T16:16","updated":"2025-06-08T00:59"}
+{"dg-publish":true,"permalink":"/J/Jár/","title":"Jár","created":"2024-06-04T16:16","updated":"2025-08-19T00:57"}
 ---
 
 
@@ -35,9 +35,8 @@ Magyar Adorján adata szerint a héber `jareah` = Hold szintén a járásáról 
 
 Jó párhuzamait találjuk ezen szavaknak a [[M/Mén\|mén]] címnél is említett bizonyos wembawemba nyelvű `yareman` (jár-mén) szóban és a jávai `jaran` = ló szóban; mindkettő mutatja, hogy a Hold neve lehetett.  
 
-Kandra Kabos Magyar Mythologia c. könyvének (a PDF) 211. oldalán írja, hogy a csillagok nem személyes alakok már többé, hanem "szólásaink szerint mindig jár, jön, fut, szalad a csillag, mintha lába volna."  
-
-Mivel az idő mérése régen sziderikus volt, nem meglepő, hogy ezen igéink az utódnyelvekben az idő mérésével hozhatók kapcsolatba: jár > német `jahr`, angol `year`, arab `jahr`, jön > ind `yana`, fut > future = jövő, szalad > iráni `szala`.  
+Kandra Kabos Magyar Mythologia című könyvének (a PDF) 211. oldalán írja, hogy a csillagok nem személyes alakok már többé, hanem "szólásaink szerint mindig jár, jön, fut, szalad a csillag, mintha lába volna." Még a [[M/Mén\|mén]] és [[H/Halad\|halad]] igék tartozhattak volna a felsorolásba. Mivel az idő mérése régen sziderikus volt, nem meglepő, hogy ezen igéink az utódnyelvekben az idő mérésével hozhatók kapcsolatba: [[J/Jár\|jár]] > német `jahr`, angol [[Y/Year\|year]], arab `jahr`, [[J/Jön\|jön]] > ind `yana`, [[F/Fut\|fut]] > [[F/Future\|future]] = jövő.  
+- Az iráni `سال` (`szal`) = év viszont nem [[S/Szalad\|szalad]] igénkből ered, mert annak r-hangos elődei ismertek.
 
 Egyezik alakban és érteményben jár igénkkel a török `yürümek` = járni.  
 
