@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2025-07-30T03:32"}
+{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2025-08-19T01:07"}
 ---
 
 
@@ -126,7 +126,7 @@ Lásd még említve [[U/Üget\|üget]].
 
 ### I, Ív, Íj Hold kapcsolata
 
-Az [[I/Ion\|ion]] szó kapcsán eszünkbe jut az [[O/ON\|on]] címnél taglalt on = ó képző. Mely alapján ion annyi mint io, mely [[I/Io\|Io]] holdistennő nevével is egyezik. A hold nevei pedig a menéssel, haladással voltak kapcsolatba hozva. Egyúttal valóban ív/íj formájú.  
+Az [[I/Ion\|ion]] szó kapcsán eszünkbe jut az [[O/ON\|on]] címnél taglalt on = ó képző. Mely alapján ion annyi mint io, mely [[J/Jó#Io istennő\|Io]] holdistennő nevével is egyezik. A hold nevei pedig a menéssel, haladással voltak kapcsolatba hozva. Egyúttal valóban ív/íj formájú.  
 
 ## I > J
 
