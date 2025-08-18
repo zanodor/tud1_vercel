@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2025-07-03T01:18"}
+{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2025-08-19T00:57"}
 ---
 
 
@@ -195,7 +195,7 @@ Viszont a csanak és csónak szóban CSA, [[C/CSO\|CSO]] kell utaljon a vízre.
 Érdekes a Baktay Ervin A csillagfejtés könyvében előjövő **Kanta** szó, [[V/Vízöntő csillagkép\|Vízöntő csillagkép]]re használva (ezen ott szereplő versikében talált szó mellett a Kettős áll az Ikrekre és Ollós a Skorpióra értve). [[H/Humbaba\|Humbaba]] címnél taglalt ind Khoumba hasonló név.  
 CzF is adatolja [[K/Kanta\|kantá]]t; lásd ott.  
 
-Legutóbb [[G/Geci\|geci]] címnél is volt erről szó, és arról, hogy [[O/Orion\|Orion]] és más címnél (vízfakasztással kapcsolatosan) előjött a Nap nemzőfolyadékként. [[S/Számosság\|Számosság]] cím alján is volt szó a víz nőiségi és esőcseppekként hímségi megítéléséről.  
+Legutóbb [[G/Geci\|geci]] címnél is volt erről szó, és arról, hogy [[O/Orion\|Orion]] és más címnél (vízfakasztással kapcsolatosan) előjött a Nap nemzőfolyadékként. [[S/SZÁM#Számosság\|Számosság]] hely alján is volt szó a víz nőiségi és esőcseppekként hímségi megítéléséről.  
 
 Buji Ferenc hajlással kapcsolatos [[K/Kány\|kány]] és [[K/KONY\|kony]] címnél álló gondolatai azért fontosak, mert az égi Kan (Szíriusz(ba lépés)) után a Nap valóban a lefelé hajló/hanyatló (lásd [[H/Hanyatlik\|hanyatló]] félévbe lép.  
 A hosszú magas valami hajlik is, így a [[C/Can\|can]] címnél álló görög `kanna` = nád; karcsú növény értelmezés megállja a helyét, másodlagosan. Elsődlegesen KAN és főleg [[K/Kanna\|kanna]] vízzel (ondó [[G/Geny\|geny]] szava is ilyen) kapcsolatos szó. Kanna = Víz Háza (ha elfogadjuk Kant Víz jelentéssel, főleg hogy a Szíriusz Egyiptomban a Nílus kiáradását okozta!).  
