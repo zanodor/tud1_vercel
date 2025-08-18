@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hágár/","title":"Hágár","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-14T00:03","updated":"2025-06-07T23:31"}
+{"dg-publish":true,"permalink":"/H/Hágár/","title":"Hágár","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-14T00:03","updated":"2025-08-19T01:07"}
 ---
 
 
@@ -90,7 +90,7 @@ Itt jön az a rész, ahol Bognár Ferenc felismeri, hogy [[K/Konc\|Konc]]-Honszu
 > Feltűnő egyezéssel, e Honsu tehát szintén épp úgy egyiptomi és Futó, meg holdisten, ahogy Hágár is!  
 >
 > Hágárról a Bibliában, a Hagarenus/Agarenus népe elleni harcot kivéve, gyakorlatilag megszűnnek a hírek. Eltűnése ellenére jelentős karriert futott be az arab kultúrkörben, mellesleg jó példát adva az isten utáni névadásból. Nevét arabul még HAGIR, HAJAR és HADJARA, latin nyelvterületen HADZSAR leirattal adják meg. Itt az arab `HAGAR` = falu[^6] jelentés alapján, a Hadzsar alak testvérének vehetőek a héber "major, tanya," = `HASZAR`, meg a `HACEROT` = "majorság," szavak.  
-> Kánaán 5000 éves hágári hold-tiszteletének emlékeit régészek tárták fel, a róla elnevezett Hacor/Hazor/Khazor/Kazor/Chazor, ősi királyi főváros romjaiból[^7]. Ezt megerősítően, a görög források Kánaánt [[I/Io\|Io]] holdanya földjének tartották[^8].  
+> Kánaán 5000 éves hágári hold-tiszteletének emlékeit régészek tárták fel, a róla elnevezett Hacor/Hazor/Khazor/Kazor/Chazor, ősi királyi főváros romjaiból[^7]. Ezt megerősítően, a görög források Kánaánt [[J/Jó#Io istennő\|Io]] holdanya földjének tartották[^8].  
 > (Itt is előkerül a nyelvtörténeti átpolarizálódás, mert a holdfőváros Hacor nevéből képzett "hacorita/ haszarita" változat, később, a félművelt-félnomád népréteg jelölője lett.)  
 
 Amit itt Bognár Ferenc nem említ, hogy az Afganisztánban élő, [[I/Isztán\|Isztán]] és [[K/Kazár\|kazár]] címnél is említett hazájában üldözött [[H/Hazara\|hazara]] nép neve is innen jön.  
