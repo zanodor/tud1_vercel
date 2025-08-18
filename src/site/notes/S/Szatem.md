@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szatem/","title":"Szatem","created":"2024-11-05T19:17","updated":"2025-07-30T03:32"}
+{"dg-publish":true,"permalink":"/S/Szatem/","title":"Szatem","created":"2024-11-05T19:17","updated":"2025-08-19T01:06"}
 ---
 
 
@@ -13,7 +13,11 @@
 > 
 > A germánok, kelták, italicusok adják a kentum csoportot. A szatem csoporthoz tartoznak a szlávok, görögök, indek és mások. A magyar nyelvben mindkét csoport nyelvi jellegzetességei megvannak. Mindkét csoport a magyar nyelvből ered, ez a konklúzió.  
 
-Azt Péterfai János külön nem említi itt, hogy a latin `centum` = száz és az óperzsa `satem` = száz hogyan válhattak külön.  
+Azt Péterfai külön nem említi itt, hogy a latin `centum` = száz és az óperzsa `satem` = száz hogyan válhattak külön.  
+
+#### A Czuczor-Fogarasi szótár adata:
+
+> Hogy a k, h, s, sz fölcseréltetnek, az az általános emberi hangszervek természetében fekszik. Így jönnek öszve a latin `cornu`, német `Horn`, magyar `szaru`.  
 
 #### Götz László Keleten kél a Nap...  
 
@@ -49,7 +53,9 @@ A Kentum-Szatem nyelvi ágak szétválásáról...
 
 ...című cikkében is ír:  
 > De a cáréhoz hasonló a magyar "király" szó története is. Itt meg I. (Nagy) Károlyt tartják a král, karol szláv tisztség névadójának, és hát innen lett volna szláv jövevényszó a magyar király is. Mint Cézárnál, itt is a nagyapa volt a névadó. Ő volt Kalapácsos (Martell) Károly (686-741) a Karoling-dinasztia alapítója. A Károly (Carolus, Charles, eredeti kiejtés: charlz), név az ónémet \*karlja, \*karlaz, (szabad ember, jobbágy) titulusból eredeztethető.  
-> Ekkor a magyar ~~protoindoeurópai eredetű~~ `kerál` szó már évezredek óta ismert lehetett és a kentum-szatem nyelvi szétváláskor a magyarban maradt a "ker" gyök, míg a szatem területen ez "szárrá", "cárrá" változott. Míg a magyar "király" szóban a "kör", a szláv "cár" szóban a "sár" (gömb, pld. földgömb, Земной шар) szó jelöli a teljességet, a mindenek feletti uralmat. Ezt a gömböt (nálunk országalmát) tartják a kezükben az ősi istenek, királyok.  
+> Ekkor a magyar ~~protoindoeurópai eredetű~~ `kerál` szó már évezredek óta ismert lehetett és a kentum-szatem nyelvi szétváláskor a magyarban maradt a "ker" gyök, míg a szatem területen ez "szárrá", "cárrá" változott. Míg a magyar "király" szóban a "kör", a szláv "cár" szóban a "sár" (gömb, pld. földgömb, `Земной шар`) szó jelöli a teljességet \[[[SAR\|[SAR]]-nak van teljes jelentése a sumérben vagy akkádban\], a mindenek feletti uralmat. Ezt a gömböt (nálunk országalmát) tartják a kezükben az ősi istenek, királyok.
+{ #4v0nf7}
+
 
 A Kabar, Kovár a Kentum hangzás alapján kimondott nevek, amelyek *keleties* Szatem hangzás alapján Szabar, Szovár hangzásúak, írtuk hasonlóan [[A/Algebra\|Algebra]] címnél is.  
 [[K/Khamor\|Khamor]] címnél is szó volt a [[S/Szamár\|szamár]] nevei kapcsán arról, hogy ami az arabban és héberben h-előhangos, az nálunk és az olaszban sz-előhangos. Hasonlóan a [[S/Savant\|savant]] címnél említett arab `khabar` = (meg)ismer, (meg)tud szónak szatem változatának is tarthatjuk a francia `savoir` és a spanyol `saber` = ismer, tud szavakat.  
@@ -65,7 +71,7 @@ A latin `cūdere` = ütni, szanszkrit `kut` = átver, átfúr (lyukat, kutat fú
 ## Kentum-szatem szétválás helyett összevonás
 
 Ez az a [[S/Süt#Kentum kut és szatem süt alakok skut alakba való összevonása\|kentum kut és szatem süt alakok skut alakba való összevonása]] cím/alcímnél taglalt eset, amikor nem s vagy k lesz a szó elején, hanem egy összevont [[S/Sk-\|sk-]] előtétet találunk.  
-[[S/Szláv\|Szláv]] címnél a szklábosz alak kapcsán szóltam már erről:  
+[[S/Szláv\|Szláv]] címnél a `szklábosz` alak kapcsán szóltam már erről:  
 A nyelvészeti munkákban látottak alapján a szavak [[K/Kentum\|kentum]] és szatem változatai néha nem fejeződtek be a szétválásban. Tehát az eredeti Sk- megmarad, és úgy kell olvasni, mint S-t (nem Sh-t). Ennek a maradványát láthatjuk a német Sch-ban, amelyet Sh-nek olvasnak, nem Sz-nek vagy Szk-nak.  
 
 #### Götz László Keleten kél a Nap...
