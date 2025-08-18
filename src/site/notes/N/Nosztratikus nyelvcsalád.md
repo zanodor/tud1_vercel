@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions"],"created":"2024-05-14T11:45","updated":"2025-07-14T17:44"}
+{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions"],"created":"2024-05-14T11:45","updated":"2025-08-19T00:59"}
 ---
 
 
@@ -19,11 +19,17 @@
 
 ...misszionárius pap Tomory Zsuzsa Magyar-English word origins című könyvéhez csapott addendumában európai ősműveltségünk bizonyítékaiként sorol adatokat. Például:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Magyar nyelv ősisége – ősnyelv-e a magyar/#x5fd1" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Magyar nyelv ősisége – ősnyelv-e a magyar/#x5fd1n" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-> The American Linguistic Seminar at Bochum University, Germany, including Russian and other linguists accepting The One Language of Mankind as a fact based on up to date computerized linguistic research rejected the existence of a separate Finno-Ugric language family – **elvetvén az u.n. "finnugor nyelvcsalád" külön magábanlétezését** megállapították, hogy egy nyelvezete van az emberiségnek és a magyar nyelvet az ősnyelv elágazásának jelenlegi állapotában az Elámo-Dravida/Uralo-Dravida törzs jellegéhez legközelebbállónak találták, s ezt ennek közelebbi kiágazásaival az Afro-Ázsia-i, kártveli, indoeurópai és altaival együtt egy közös nyelvnek [[N/Nosztratikus nyelvcsalád\|nosztratikus]] névvel jelölt egyik főbb nyelvtörzseként ismertették. Láthatólag ezt a szétvándorlást és nem a nyelvben hordozott ősműveltség belső lelki fejlettségének kifejező erejét vette figyelembe (Walter Koch: Language in the Upper Pleistocene, 1991 Bockmeyer, Bochum, Germany az ősnyelvi elágazások ábráival: az 5.1 számú Koch 1991. kezdetén, az 5.2 számú Vitaly Shevoroskin 1990. évi és az 5.3 számú Bateman 1990-ben készült ábráját mutatja). 
+> The American Linguistic Seminar at Bochum University, Germany, including Russian and other linguists accepting The One Language of Mankind as a fact based on up to date computerized linguistic research rejected the existence of a separate Finno-Ugric language family – **elvetvén az u.n. "finnugor nyelvcsalád" külön magábanlétezését** megállapították, hogy egy nyelvezete van az emberiségnek és a magyar nyelvet az ősnyelv elágazásának jelenlegi állapotában az Elámo-Dravida/Uralo-Dravida törzs jellegéhez legközelebbállónak találták, s ezt ennek közelebbi kiágazásaival az Afro-Ázsia-i, kártveli, indoeurópai és altaival együtt egy közös nyelvnek [[N/Nosztratikus nyelvcsalád\|nosztratikus]] névvel jelölt egyik főbb nyelvtörzseként ismertették. Láthatólag ezt a szétvándorlást és nem a nyelvben hordozott ősműveltség belső lelki fejlettségének kifejező erejét vette figyelembe ([Walter Koch: Language in the Upper Pleistocene, 1991 Bockmeyer, Bochum, Germany](https://mega.nz/file/sjsxQBTb#MrOvsOfpE_eXH89z5iZyuk3mKX-egjgqUuzSXpoUtyQ) az ősnyelvi elágazások ábráival: az 5.1 számú Koch 1991. kezdetén, az 5.2 számú Vitaly Shevoroskin 1990. évi és az 5.3 számú Bateman 1990-ben készült ábráját mutatja). 
+> 
+> | Koch                                                                       | Shevoroskin                                                                | Bateman                                                                    |
+> | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+> | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191129405.jpeg](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191129405.jpeg) | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191212374.jpeg](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191212374.jpeg) | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191308422.jpeg](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191308422.jpeg) |
+> 
+
 
 </div></div>
 
