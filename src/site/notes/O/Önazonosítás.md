@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated"],"created":"2024-05-09T22:32","updated":"2024-10-25T23:40"}
+{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated"],"created":"2024-05-09T22:32","updated":"2025-08-19T01:00"}
 ---
 
 
@@ -45,7 +45,7 @@ A szanszkritban `sva-pati` - szó szerint a maga ura – [[S/Szabad\|szabad]] sz
 { #6jh-j}
 
 
-...és az Isten jelentésű khoda ([[K/Khuda\|Khuda]]) is [[K/Kut\|kut]] és [[K/Kutya\|kutya]] szavunkkal látszik párhuzamot alkotni, ahogy [[G/God\|God]] címnél írottak alapján láttuk. A kutyáról ([[D/DUG\|DUG]] és [[D/DOG#Dog 2)\|dog]] szónál írottak alapján) tudjuk, hogy szent (hurri `kuta` = szent) állat, valamint [[K/Kutyahit\|kutyahit]] címnél körüljártuk, hogy az [[E/Ember\|ember]] lelke kutyalélek (innen válik érthetővé a khod- visszaható névmás önvaló, lélek (ókínai, hun nyelvben [[K/Kut\|kut]] = életerő, lélek) értelemre való visszavezethetősége).  
+...és az Isten jelentésű khoda ([[K/Khuda\|Khuda]]) is [[K/Kut\|kut]] és [[K/Kutya\|kutya]] szavunkkal látszik párhuzamot alkotni, ahogy [[G/God\|God]] címnél írottak alapján láttuk. A kutyáról ([[D/DUG\|DUG]] és [[D/DOG#Dog 2)\|dog]] szónál írottak alapján) tudjuk, hogy szent (hurri `kuta` = szent) állat, valamint [[K/Kutyahitű\|kutyahit]] címnél körüljártuk, hogy az [[E/Ember\|ember]] lelke kutyalélek (innen válik érthetővé a khod- visszaható névmás önvaló, lélek (ókínai, hun nyelvben [[K/Kut\|kut]] = életerő, lélek) értelemre való visszavezethetősége).  
 Hasonló a törökök `kişi` (baskír, csuvas, stb. `kese`) = egyén, ember, önmaga szava, mely inkább a kicsiségből (talán abból az ideából, hogy a makrokozmosz leképezése a mikrokozmosz) látszik kiindulni, de ugyanilyen elven elemezhető `kendi` és a már ismert `öz` szava is van önmaga jelentéssel ([[C/Candle\|candle]] és [[O/Ős\|ős]] címhez is betéve).  
 - Ezen öz viszont nemcsak ős, hanem [[I/ISZ\|isz]], [[I/Íz\|íz]] szavakkal is kapcsolható, hiszen a Grandpierre Atilla által idézett Vértes Edit Szibériai nyelvrokonaink hitvilága című könyvében árnyéklélek kapcsán a vogul és a nyugati osztják `isz` szó került elő, míg a finnben `itse` = saját maga.
 
