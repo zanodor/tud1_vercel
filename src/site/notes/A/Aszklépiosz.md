@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aszklépiosz/","title":"Aszklépiosz","tags":["Englishtexttranslated"],"created":"2024-05-15T17:34","updated":"2025-07-12T00:29"}
+{"dg-publish":true,"permalink":"/A/Aszklépiosz/","title":"Aszklépiosz","tags":["Englishtexttranslated"],"created":"2024-05-15T17:34","updated":"2025-08-19T00:53"}
 ---
 
 
@@ -86,9 +86,12 @@ Mindez azért is érdekes (és nyilván szláv kutatók számára is a fő jelen
 A görög `skopein` = lát, néz; céloz egy [[L/L#L vendéghang\|l vendéghang]]gal kiegészítve szinte kiadja a szklábosz = szláv nevet, mely kapcsán korábban is feltételeztük, hogy nyári napfordulós téridőbeli helyre utal (és ott a [[B/Bishop\|bishop]] címnél is említett [[K/Kereszt\|kereszt]] összefüggése is megjelent).  
 És ha már égbolt, emlékezzünk, hogy a [[S/Szarvas\|szarvas]] is az égbolt jelképe. A szklábosz ettől sem áll messze.  
 
-Nehéz másra gondolni tehát magyar eredetre való visszavitele kapcsán, mint a [[L/Love\|love]] címnél is közben említett, a lengyelben bolton keresztül semmit sem jelentő sklep párjaként megtalált német `schießen` = lőni szó kapcsán is felfedhető ijazó/nyilazó alapértelmet, melyből az ég(bolt) fogalma is létrejött (ahogy [[E/Ég\|ég]] szavunk is [[I/Íj\|íj]] és [[I/Ív\|ív]] szavakkal hasonlítható).  
-Idegen szavak közül említhető a [[S/Sleep\|sleep]] címnél említett passzus (tegyük ide is):  
-Jegyezzük itt meg a német `schließen` = bezár(ul)ni, befejeződni szó azonos alakját. Ahogy itt a kis éves [[K/Kezdet és vég\|kezdet és vég]] téma kerül szemünk elé, úgy láttuk az abend = este és az [[O/Open\|open]] = nyit fogalmának egyezését. És ahogy a [[B/Bend\|bend]] = hajlani azaz ív/íjjal kapcsolatba hozható értelmű, az Aszklépiosz és [[S/Szláv\|szláv]] nevek kapcsán is előjött a ([[C/Cölöp\|cölöp]] címnél is taglalt) áldozati kereszt és nyilazó összefüggése (a német `schließen` szó pedig csak egy [[L/L#L vendéghang\|l vendéghang]]gal több a [[S/Shoot\|shoot]] párjaként ismert német `schießen` = (íjjal) lőni szóhoz képest) (de ha már német, a `schleifen` = vonszol (= hajszol = hajt = űz = vadászik = íjaz) értelmét is így értjük meg).  
+Nehéz másra gondolni tehát magyar eredetre való visszavitele kapcsán, mint a [[L/Love\|love]] címnél is közben említett, a lengyelben bolton keresztül semmit sem jelentő `sklep` párjaként megtalált német `schießen` = lőni szó kapcsán is felfedhető íjazó/nyilazó alapértelmet, melyből az ég(bolt) fogalma is létrejött (ahogy [[E/Ég\|ég]] szavunk is [[I/Íj\|íj]] és [[I/Ív\|ív]] szavakkal hasonlítható).
+{ #250819}
+
+
+Idegen szavak közül említhető a [[S/Sleep\|sleep]] címnél említett passzus:  
+Jegyezzük itt meg a német `schließen` = bezár(ul)ni, befejeződni szó azonos alakját. Ahogy itt a kis éves [[K/Kezdet és vég\|kezdet és vég]] téma kerül szemünk elé, úgy láttuk a német `abend` = este és az [[O/Open\|open]] = nyit fogalmának egyezését. És ahogy a [[B/Bend\|bend]] = hajlani azaz ív/íjjal kapcsolatba hozható értelmű, az Aszklépiosz és [[S/Szláv\|szláv]] nevek kapcsán is előjött a ([[C/Cölöp\|cölöp]] címnél is taglalt) áldozati kereszt és nyilazó összefüggése (a német `schließen` szó pedig csak egy [[L/L#L vendéghang\|l vendéghang]]gal több a [[S/Shoot\|shoot]] párjaként ismert német `schießen` = (íjjal) lőni szóhoz képest) (de ha már német, a `schleifen` = vonszol (= hajszol = hajt = űz = vadászik = íjaz) értelmét is így értjük meg).  
 
 Ugyanakkor erős a késztetés, hogy a közben [[A/Apocalypse\|apocalypse]] címnél írott passzusban előjövő [[O/Oszlop\|oszlop]] szóval keressük közös eredetét (szinte azonos alakú szavak) (ahogy az [[S/Scale\|scale]] = skála, [[S/Szkílosz\|szkílosz]] nevek is innen kerülnek ki, ha szakrális geometrikus és téridőbeli összefüggéseket tekintjük).  
 Ha viszont a szláv név eredetét keresem, akkor az íjazás ágensének nevét is kereshetem, hiszen a(z arab feljegyzésekből ismert) saqal-ab végződésében megtalálható AB = felső hatalom, apa, mely a kutyás Vadász, Orion téridőbeli helyére is mutat (ahol AB = EB = ív = íj; tehát a Nap útján a legmagasabb EB/AB pontjára jut, ott ahol az egyik Nyilazó csillagkép is van; ahogy [[L/Lemniszkáta\|lemniszkáta]] címnél is írtuk, persze két Nyilazó adja a napfordulati pontokra épülő keretrendszert).  
