@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csillag/","title":"Csillag","created":"2024-05-09T17:16","updated":"2024-10-25T16:33"}
+{"dg-publish":true,"permalink":"/C/Csillag/","title":"Csillag","created":"2024-05-09T17:16","updated":"2025-08-19T00:53"}
 ---
 
 
@@ -27,7 +27,7 @@ Amit Péterfai János így külön nem említ, hogy a Lag/Lak gyakorlatilag olya
 Orrhang nélküli [[L/LÁG\|lág]] szót érteni bele inkább a görög [[L/Logosz\|logosz]]-ba is, mint a Varga Csaba által promotált `lógós`-t.  
 - [[L/Logosz\|Logosz]] címszó mellett [[L/Lack\|lack]] címnél is mint megállapított szót említettük, hisz ilyen lág alakú szó ma nincs.
 
-Ha nem a csillag elemezendő, akkor elemezhető [[C/Csillog\|csillog]]. Igaz, általán a főnév jön előbb. Viszont Csill-Og mintájára illetve értelmezését követve Csill-Ag-ra is kihozhatjuk a Fény-Ég(en) jelentést.  
+Ha nem a csillag elemzendő, akkor elemezhető [[C/Csillog\|csillog]]. Igaz, általán a főnév jön előbb. Viszont Csill-Og mintájára illetve értelmezését követve Csill-Ag-ra is kihozhatjuk a Fény-Ég(en) jelentést.  
 
 Mindenütt azzal találkozunk, hogy a [[V/Vénusz\|Vénusz]] egyik másik neve Csillag (és még Szél). Viszont [[V/Vénusz\|Vénusz]] címnél írottak alapján a Csillag elnevezés, ahogy [[S/Star\|star]] – [[I/Istár\|Istár]] is, Szíriuszra kell utaljon.  
 Lám, [[S/Szkülla és Karübdisz\|Szkülla és Karübdisz]] címnél is előjön egy görög `skylax` = kutya-cápa, kutya elnevezés, mely csillog, csillag szavunkkal azonosítható (azóta lásd még [[S/Szkílosz\|szkílosz]]). A Csillag elnevezés ez alapján sem a Vénuszra utal.  
