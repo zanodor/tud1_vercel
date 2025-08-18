@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2025-08-07T23:49"}
+{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2025-08-19T00:53"}
 ---
 
 
@@ -127,7 +127,7 @@ A Bikaistennő-képzet kialakulására magyarázatként szolgálhat...
 #### Jankovics Marcell Jelkép-kalendárium...
 
 ...című könyvében álló adata:  
-> A Bika vállán "kotló" [[P/Pleiadok\|Fiastyúk]]ot eleink [[K/Kaptár\|Kaptár]]-huggyának, vagyis Méhkaptár csillagzatnak is hívták. A Kaptár szomszédságában, a Bika mögött és a Kos felett kering egy parányi csillagcsoport, amelyet Andreas Cellarius 1661. évi égatlasza Méheknek (Apes) nevez, eltérően a kortárs Heveliustól, aki viszont Légynek hívta (latinul Muscának). Az Apes elnevezés is szerepel régi csillagtérképeken egyes számban (Apis), amely ugyanúgy hangzik és latinul ugyanúgy is van írva, mint az egyiptomi Ápisz bika neve. Hát nem elgondolkoztató? Akár Méh, akár Légy, mindkét csillagzatnév mitológiailag jól megalapozott. Antik görög mitográfusok szerint a **Bika csillagképnek egy tehén, a tehénné változtatott [[I/Io\|Ió]] istennő volt a névadója**, akit egy bögöly kergetett szó szerint a halálba, és aki az egyiptomiak első királyát, a bika-Ápiszt, görögül Epaphoszt szülte. Cellarius és Hevelius névadását Vergilius Georgicája és e görög mítosz egyaránt ihlethette.  
+> A Bika vállán "kotló" [[P/Pleiadok\|Fiastyúk]]ot eleink [[K/Kaptár\|Kaptár]]-huggyának, vagyis Méhkaptár csillagzatnak is hívták. A Kaptár szomszédságában, a Bika mögött és a Kos felett kering egy parányi csillagcsoport, amelyet Andreas Cellarius 1661. évi égatlasza Méheknek (Apes) nevez, eltérően a kortárs Heveliustól, aki viszont Légynek hívta (latinul Muscának). Az Apes elnevezés is szerepel régi csillagtérképeken egyes számban (Apis), amely ugyanúgy hangzik és latinul ugyanúgy is van írva, mint az egyiptomi Ápisz bika neve. Hát nem elgondolkoztató? Akár Méh, akár Légy, mindkét csillagzatnév mitológiailag jól megalapozott. Antik görög mitográfusok szerint a **Bika csillagképnek egy tehén, a tehénné változtatott [[J/Jó#Io istennő\|Ió]] istennő volt a névadója**, akit egy bögöly kergetett szó szerint a halálba, és aki az egyiptomiak első királyát, a bika-Ápiszt, görögül Epaphoszt szülte. Cellarius és Hevelius névadását Vergilius Georgicája és e görög mítosz egyaránt ihlethette.  
 
 #### Bognár Ferenc A magyarok istene...
 
@@ -135,7 +135,7 @@ A Bikaistennő-képzet kialakulására magyarázatként szolgálhat...
 > A hellének előtti globális vallási helyzetben, a Nagy Istenanya megjelenítője, a világot tápláló Égi Tehén képe lett. Helyesen tehát, minden korai tehén-, és bika-jegyet, a hold-uralmi kapcsolatként kell értelmeznünk. Lásd a mezopotámiai domborműveken lévő uralkodók bikaszarvait!  
 > \[...\]  
 > Valójában a zsidó-keresztény kultúra is a holdanyai ősvallásunkból sarjadt. Kezdve Ábrahámmal, aki a Sineárból, azaz a babiloni Sin holdisten földjéről indult el új hazát keresni, és Kánaánba érve tovább telítődhetett a holdtiszteleti elemekkel. A törvényadó Mózes pedig Egyiptomban meríthetett a hold kultuszából, hiszen [[J/Jahve\|Jahve]] isten nem csupán az **egyiptomi Jah holdisten** nevét "hordja" de meg volt neki a hold, szokásos bika, ill. tehén alakja is.  
-- A Jah név a görög [[I/Io\|Io]] tehénistennő nevének is megfelel.
+- A Jah név a görög [[J/Jó#Io istennő\|Io]] tehénistennő nevének is megfelel.
 
 Egy másik magyarázatot a magyar nyelven keresztül adhatunk: az [[O/Ökör\|Ökör]] elnevezésünk nyilván az Ég-Úr jelentést viszi, de eredetileg az Eget a Csudaszarvas ünő jelképezte.  
 
@@ -145,7 +145,7 @@ Ez a vizuális és szimbolikus kapcsolat rendkívül erős és gyakori az ősi m
 1.  **Hold-szarv kapcsolat:** A holdsarló gyakran a bika vagy tehén szarvát szimbolizálja. Ez a kép összekapcsolja a Hold ciklikusságát, termékenységét és éjszakai erejét a bika/tehén erejével, termékenységével és szent jellegével.
 2.  **Nőnemű istenségek és szarvas attribútumok:** Számos női istenséget ábrázoltak tehén- vagy bika-attribútumokkal, különösen szarvakkal.
     *   **[[H/Hathor\|Hathor]]:** Az ókori egyiptomi istennő, akit gyakran tehénként, tehénfejjel, vagy emberi alakkal, de tehénszarvakkal és a köztük lévő napkoronggal ábrázoltak. Ő a szerelem, anyaság, zene és termékenység istennője volt, és szoros kapcsolatban állt a Nappal és a Holddal is.
-    *   **[[I/Io\|Io]]:** A görög mitológiában Zeusz szerelme, akit Héra féltékenységből tehénné változtatott. Bár ő egy halandó volt, tehénné válása a szarvas állatokkal való mitológiai kapcsolatot mutatja.
+    *   **[[J/Jó#Io istennő\|Io]]:** A görög mitológiában Zeusz szerelme, akit Héra féltékenységből tehénné változtatott. Bár ő egy halandó volt, tehénné válása a szarvas állatokkal való mitológiai kapcsolatot mutatja.
     *   **Mezopotámia:** Sok mezopotámiai istennőhöz is kapcsolódott a bika vagy a tehén szimbóluma, mint a termékenység és az égi hatalom jele.
 
 Tehát, a "bikaistennő" kifejezés mögött nagyon is állhat az a szimbolikus összefüggés, hogy egy nőnemű istenség (mint a Hold) rendelkezik a bika (vagy tehén) erejével, termékenységével, és vizuálisan is kapcsolódik hozzá a "szarvak" (holdsarló) révén. Ez a figuratív és szimbolikus kapcsolódás teszi érthetővé a "bikaistennő" fogalmát a mitológia és a szimbólumrendszer kontextusában.  
