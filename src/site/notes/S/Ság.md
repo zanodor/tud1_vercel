@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/S/Ság/","title":"Ság","created":"2023-10-14T06:22","updated":"2025-08-16T15:34"}
+{"dg-publish":true,"permalink":"/S/Ság/","title":"Ság","created":"2023-10-14T06:22","updated":"2025-08-19T01:05"}
 ---
 
 
 # Ság
 
 Magyar képző, de alapszó is. A Ság Péterfai Jánosnál Uralkodó, Főség jelentéssel adatolt.  
-- Gyárfás Ágnes is tudott erről, mert A Halotti Beszéd mondattana című könyvében is elhangzik, hogy a -ság/-ség képző a régiségben fő-t jelentett. Persze ezt a "tévedhetetlen" sumér nyelvből állapíthatta meg. A sumér a magyarnál fiatalabb nyelv, bár az is igaz, hogy a mai magyar szókincs több korból, rétegből áll össze.  
+- Gyárfás Ágnes is tudott erről, mert A Halotti Beszéd mondattana című könyvében is elhangzik, hogy a -ság/-ség képző a régiségben fő-t jelentett. Persze ezt a "tévedhetetlen" sumér nyelvből állapíthatta meg. A sumér a magyarnál fiatalabb nyelv, bár az is igaz, hogy a mai magyar szókincs több korból, rétegből áll össze.
 
 #### Péterfai János folytatja:  
 
@@ -29,7 +29,7 @@ Igaz, azt [[S/Sacchar-\|sacchar-]], [[S/Sah\|Sahu]] és más címeknél ([[P/Pal
 
 ## Sok szóval való összevetése
 
-Aczél József írja, hogy ság szavunk tömeget, [[S/Számosság\|számosság]]ot ([[S/Sok\|sok]]at) jelent olyan szavakban mint katonaság.  
+Aczél József írja, hogy ság szavunk tömeget, [[S/SZÁM#Számosság\|számosság]]ot ([[S/Sok\|sok]]at) jelent olyan szavakban mint katonaság.  
 Éppen hogy a `sok` szó alaki változatának mutatkozik.  
 
 Kovács Éva A Tihanyi összeírás mint helytörténeti forrás c. könyvének 167. oldalán is adatolja a `seg`, `ség` szavakat halom, domb jelentéssel.  
