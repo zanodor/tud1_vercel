@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-08-06T22:05"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-08-19T00:58"}
 ---
 
 
@@ -31,7 +31,9 @@ A legfontosabb, önmagába kígyóként farkába harapó, cirkuláris hangfejlő
 A `sajka` is például angolban `hulk`, ahol a hivatalos etimológia is említi azt a görög `holkasz` szót, melyet Aczél József a szókezdő sz h-ra változása kapcsán említ (vagy őnála inkább fordítva lehetett).  
 Az sz>h mássalhangzó-csere gyakorisága miatt `szer` és főképpen `szörp` szavunk tűnik megfejtésnek `herb` szóra.  
 
-Hogy a k, h, s, sz fölcseréltetnek, az az általános emberi hangszervek természetében fekszik. Így jönnek öszve a latin `cornu`, német `Horn`, magyar `szaru`. \[CzF\]  
+#### A Czuczor-Fogarasi szótár adata:
+
+> Hogy a k, h, s, sz fölcseréltetnek, az az általános emberi hangszervek természetében fekszik. Így jönnek öszve a latin `cornu`, német `Horn`, magyar `szaru`.  
 
 K>CS változásra példák: \*kuna – csúnya, kavar – csavar, kábít – csábít, körlő – csörlő, kopasz – csupasz, kirche – church, caesar – kaiser.  
 SZ>K ill. SZ>G átmenetre számos példa van, mint például `szél` szavunkból eredő angol `gale`.  
@@ -52,10 +54,15 @@ SZ>T változásról [[T/Temise\|Temise]] és [[T/Tamás\|Tamás]] neveknél is v
 
 > A nyelvészek előtt ismeretes, hogy a sziszegő hangok (sz, s, z, zs, cs) igen könnyen változnak t vagy d hanggá, úgyhogy a tem szócsoportot a szem szócsoporttal tulajdonképen azonosnak vehetjük.  
 
+Másutt, [[E/Eat\|eat]] helyen:  
+> Már számtalanszor láttuk, hogy a sziszegő hangok a t, d hangokkal mily könnyen váltakoznak.  
+
 T>C változásra példa bont → boncol.  
 T>CS változásról [[C/Csöcs\|csöcs]] és [[C/Csut\|csut]] címnél volt szó.  
-T>K hangcsere. Gyerekek kakas helyett tatast mondanak, ahogy én is így mondtam. Magyar akol sumerben például utul. Tekint gyöke CzF szerint tek nem egyéb, mint a látásra vonatkozó régies tet-ik szóban a tet gyök módosított alakja, a kemény t hangnak szinte kemény k-ra változtatásával; s e szerént tek-int annyi volna, mint tet-int.  
-T>K hangcserét ejt meg Magyar Adorján is: Sejthető még, hogy az Alvilágnak kezdő k avagy h hangos neve is létezett és hogy ennek nevéből származott a latin `carcer` (karcer) valamint a német `Kerker` = börtön szó is, amely szavak pontos őstörök párhuzama a görög `Tartarosz` = az Alvilág legmélyebb része, vagyis a pokol.  
+T>K hangcsere. Gyerekek kakas helyett tatast mondanak, ahogy én is így mondtam. A magyar `akol` a sumerben például `utul`. Tekint gyöke CzF szerint tek nem egyéb, mint a látásra vonatkozó régies tet-ik szóban a tet gyök módosított alakja, a kemény t hangnak szinte kemény k-ra változtatásával; s e szerént tek-int annyi volna, mint tet-int.  
+T>K hangcserét ejt meg Magyar Adorján is:  
+> Sejthető még, hogy az Alvilágnak kezdő k avagy h hangos neve is létezett és hogy ennek nevéből származott a latin `carcer` (karcer) valamint a német `Kerker` = börtön szó is, amely szavak pontos őstörök párhuzama a görög `Tartarosz` = az Alvilág legmélyebb része, vagyis a pokol.  
+
 T>K hangváltozást látunk akkor is, amikor a magyar kutya és hindi `kutta` helyett a dravida telugu nyelvű `kukka` = kutya szót látjuk.  
 
 T>GY vagy GY>T változásra vagy azonosságra példa Magyar > Matar, Gyám > Tám és Győz > Tűz (utóbbi kettő inkább T>GY változásra példa).  
