@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Negyven/","title":"Negyven","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T23:20","updated":"2025-07-03T01:15"}
+{"dg-publish":true,"permalink":"/N/Negyven/","title":"Negyven","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T23:20","updated":"2025-08-19T01:01"}
 ---
 
 
@@ -111,7 +111,7 @@ A negyven napot a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelése]] e
 
 #### Jankovics Marcell Ahol a madár se jár...
 
-...című könyvének alábbi passzusa is ide illhet ([[N/Numerológia\|numerológia]] címnél is szerepelt):  
+...című könyvének alábbi passzusa is ide illhet ([[S/SZÁM#Numerológia\|numerológia]] címnél is szerepelt):  
 > A bibliai mintájú "negyvenes napok" időjárásjelző napok voltak elsősorban. A várva várt csapadékra nézve jósoltak ezeken a napokon, lásd ama közismert meteorológiai babonát: "Ha Medárdkor esik, számíthatsz még 40 esős napra." Már a Biblia is esőre vonatkozóan említi először a 40 napot: "És esék eső a földre negyven nap és negyven éjjel..." (Ter 7, 12).  
 > Ennek a számítási gyakorlatnak többféle csillagászati oka lehet. Parasztőseink fölismerték például, hogy **az ekliptika mentén lévő csillagok mintegy 40 napra tűnnek el az arra járó Nap fényében. Ez a jelenség csillagóraként működik**; a parasztok munkájukat az eltűnt csillagok újbóli megjelenéséhez (heliakus fölkeléséhez) igazították (lásd még erről alant). Két mesei példa:  
 > A Mirkó királyfi című mesében Kutyafejű 40 mázsás buzogányát 40 mérföldről dobja haza. Ahová esik, ott a földből forrás fakad. A Donát című mesében a hős gonosz anyját egy 40 akós kád elé térdepelteti, bűnhődésül tele kell sírnia.  
