@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejútanya állatalakjai/","title":"Tejútanya állatalakjai","tags":["Englishtexttranslated"],"created":"2023-11-13T02:19","updated":"2025-06-07T18:58"}
+{"dg-publish":true,"permalink":"/T/Tejútanya állatalakjai/","title":"Tejútanya állatalakjai","tags":["Englishtexttranslated"],"created":"2023-11-13T02:19","updated":"2025-08-19T01:07"}
 ---
 
 
@@ -81,7 +81,7 @@ A könyv 293. oldalától majd az állat-istenanyákról szól.
 ## Állatok számossága
 
 Fentebb minden esetben egyetlen Tejútanya-állatalakra koncentráltunk. Valójában több részre bontható.  
-A tejet adó állatok mind a Tejút csillagainak egyenkénti és számosság tekintetében vizsgált megfeleltethetőségéről legutóbb [[S/Számosság\|számosság]] címnél volt szó. Ott is szerepelt, hogy a [[T/Tehén\|tehén]] és [[G/Gulya\|gulya]], valamint [[C/Csorda\|csorda]] címnél is taglalt tehén/marha csoportja (kivált, ha hosszú folyamként hömpölyög) a Tejút egészére utalhat, ahogy a [[J/Juh\|juh]]ok és a kecskék által alkotott [[N/Nyáj\|nyáj]] is. Mindkét esetben a gulyás és a kecskepásztor/juhász az Orion csillagképnek vagy annak duplikációjának felel meg, mint például az [[O/Ökörhajcsár csillagkép\|Ökörhajcsár csillagkép]] esetében. A szintén tejet adó kecskék gyűjtőneve is ugye nyáj, CzF adata szerint is. A [[G/Goat\|goat]]-[[G/Göd\|Göd]] és [[G/Good\|good]] = juh (jó = tej- és vízfolyam) analógiája is mutatja, hogy a kecskéket is számításba vették. Vajon ezek alapján a [[N/Nyáj\|nyáj]] milyen jelentést takar? Nőj/nej? (Nyájról szó esett [[G/Gregarious\|gregarious]] és [[N/Neighbor\|neighbor]] címnél is.)  
+A tejet adó állatok mind a Tejút csillagainak egyenkénti és számosság tekintetében vizsgált megfeleltethetőségéről legutóbb [[S/SZÁM#Számosság\|számosság]] címnél volt szó. Ott is szerepelt, hogy a [[T/Tehén\|tehén]] és [[G/Gulya\|gulya]], valamint [[C/Csorda\|csorda]] címnél is taglalt tehén/marha csoportja (kivált, ha hosszú folyamként hömpölyög) a Tejút egészére utalhat, ahogy a [[J/Juh\|juh]]ok és a kecskék által alkotott [[N/Nyáj\|nyáj]] is. Mindkét esetben a gulyás és a kecskepásztor/juhász az Orion csillagképnek vagy annak duplikációjának felel meg, mint például az [[O/Ökörhajcsár csillagkép\|Ökörhajcsár csillagkép]] esetében. A szintén tejet adó kecskék gyűjtőneve is ugye nyáj, CzF adata szerint is. A [[G/Goat\|goat]]-[[G/Göd\|Göd]] és [[G/Good\|good]] = juh (jó = tej- és vízfolyam) analógiája is mutatja, hogy a kecskéket is számításba vették. Vajon ezek alapján a [[N/Nyáj\|nyáj]] milyen jelentést takar? Nőj/nej? (Nyájról szó esett [[G/Gregarious\|gregarious]] és [[N/Neighbor\|neighbor]] címnél is.)  
 Hogy a szarvasmarhák serege csorda, mint: ökörcsorda, tehéncsorda, vagy gulya, erről volt szó; a lovaké a ménes, a sertéseké a szintén sokatmondó [[K/Konda\|konda]] (CzF csorda szót is hoz sertésre).  
 
 ## Lábjegyzetek
