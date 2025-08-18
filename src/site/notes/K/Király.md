@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated"],"created":"2024-10-27T12:27","updated":"2025-07-16T14:26"}
+{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-10-27T12:27","updated":"2025-08-19T01:00"}
 ---
 
 
@@ -40,8 +40,16 @@ Péterfai János tökéletes levezetéséhez tehető, hogy nem ez az egyetlen he
 #### Bilecz Ferenc Szarvas a magyar nyelvben...  
 
 ...című cikkében ír – többek közt – a [[S/Sár\|sár]]/[[S/Szár\|szár]]-cár és király nevekről:  
-> De a cáréhoz hasonló a magyar "király" szó története is. Itt meg I. (Nagy) Károlyt tartják a král, karol szláv tisztség névadójának, és hát innen lett volna szláv jövevényszó a magyar király is. Mint Cézárnál, itt is a nagyapa volt a névadó. Ő volt Kalapácsos (Martell) Károly (686-741) a Karoling-dinasztia alapítója. A Károly (Carolus, Charles), név az ónémet karlja, karlaz, (szabad ember, jobbágy) titulusból eredeztethető.  
-> Ekkor a magyar ~~protoindoeurópai eredetű~~ `kerál` szó már évezredek óta ismert lehetett és a kentum-szatem nyelvi szétváláskor a magyarban maradt a "ker" gyök, míg a szatem területen ez "szárrá", "cárrá" változott. Míg a magyar "király" szóban a "kör", a szláv "[[C/Cár\|cár]]" szóban a "sár" (gömb, pld. földgömb, Земной шар) szó jelöli a teljességet \[[[SAR\|[SAR]]-nak van teljes jelentése a sumérben vagy akkádban\], a mindenek feletti uralmat. Ezt a gömböt (nálunk országalmát) tartják a kezükben az ősi istenek, királyok.  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/S/Szatem/#4v0nf7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> De a cáréhoz hasonló a magyar "király" szó története is. Itt meg I. (Nagy) Károlyt tartják a král, karol szláv tisztség névadójának, és hát innen lett volna szláv jövevényszó a magyar király is. Mint Cézárnál, itt is a nagyapa volt a névadó. Ő volt Kalapácsos (Martell) Károly (686-741) a Karoling-dinasztia alapítója. A Károly (Carolus, Charles, eredeti kiejtés: charlz), név az ónémet \*karlja, \*karlaz, (szabad ember, jobbágy) titulusból eredeztethető.  
+> Ekkor a magyar ~~protoindoeurópai eredetű~~ `kerál` szó már évezredek óta ismert lehetett és a kentum-szatem nyelvi szétváláskor a magyarban maradt a "ker" gyök, míg a szatem területen ez "szárrá", "cárrá" változott. Míg a magyar "király" szóban a "kör", a szláv "cár" szóban a "sár" (gömb, pld. földgömb, `Земной шар`) szó jelöli a teljességet \[[[SAR\|[SAR]]-nak van teljes jelentése a sumérben vagy akkádban\], a mindenek feletti uralmat. Ezt a gömböt (nálunk országalmát) tartják a kezükben az ősi istenek, királyok. 
+
+</div></div>
+
 
 Gyárfás Ágnes Megbánás és megbocsájtás a régi magyar hitvilágban című az Ősi Gyökér 2011/1. sz. megjelent cikkében a Kör-Áll fogalmának helyességét szerintem nem biztos, hogy a megfelelő jellel magyarázza, amennyiben [[S/SAR#Sar 2)\|sar]]-re utal a jel (a mellékelt kép Botos Lászlótól való):  
 ![assets/Király_image1.jpeg|invert_dark](/img/user/K/assets/Kir%C3%A1ly_image1.jpeg)  
