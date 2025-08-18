@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Germán/","title":"Germán","tags":["Englishtexttranslated"],"created":"2024-10-31T22:47","updated":"2025-06-07T19:19"}
+{"dg-publish":true,"permalink":"/G/Germán/","title":"Germán","tags":["Englishtexttranslated"],"created":"2024-10-31T22:47","updated":"2025-08-19T00:54"}
 ---
 
 
@@ -69,7 +69,7 @@ Ugye az utóbbi időben a [[H/Hunger\|hunger]]/[[H/Hungár\|hungár]] és [[K/Kh
 
 Mindezen fentiek alapján a germán testvér értelme az Ikrekre vonatkozik és Úr-Man, vagy a Men Ura a megfejtés, de ez nem magyarázza meg a germán nép értelmét, ha csak nem a latinok bennük (az avar-hun sötét hajúakban) valóban testvérüket látták.  
 
-Kell itt még szólni arról, hogy érdekes véletlen, hogy a franciák alemannak hívják a németeket, és azzal magyarázzák, hogy a germán törzsek közül ezek voltak a legközelebb hozzájuk. Igen ám, de az aleman név teljesen megfelel a fentebb említett előhang nélküli orman szónak. Könnyen lehet, hogy a latinba hehezetesen jutott el a név, mely abból g-előhangos lett és ma ezt veszik alapul úgy, hogy a [[L/Latin nyelv\|latin nyelv]]ről korábban megállapítottam, hogy recorder nyelv, nem létrehozó. Ergo egyáltalán nem úgy tűnik, hogy a Péterfai János által is vakon elfogadott (Péterfai hibái közül egyik ez: nem megfelelő/eredeti névalakok magyar nyelvből magyarázata) germán névalak elemezendő.  
+Kell itt még szólni arról, hogy érdekes véletlen, hogy a franciák alemannak hívják a németeket, és azzal magyarázzák, hogy a germán törzsek közül ezek voltak a legközelebb hozzájuk. Igen ám, de az aleman név teljesen megfelel a fentebb említett előhang nélküli orman szónak. Könnyen lehet, hogy a latinba hehezetesen jutott el a név, mely abból g-előhangos lett és ma ezt veszik alapul úgy, hogy a [[L/Latin nyelv\|latin nyelv]]ről korábban megállapítottam, hogy recorder nyelv, nem létrehozó. Ergo egyáltalán nem úgy tűnik, hogy a Péterfai János által is vakon elfogadott (Péterfai hibái közül egyik ez: nem megfelelő/eredeti névalakok magyar nyelvből magyarázata) germán névalak elemzendő.  
 Az is érdekes, hogy a [[N/Német\|német]] névvel kapcsolatba hozott [[N/Nemeton\|Nemeton]] is erdő, ahogy orman is, de a teuton név is égi leszármazásra utal.  
 Innentől kezdve kimondható, hogy az [[O/Örmény\|örmény]] névvel azonos névvel van dolgunk.  
 
