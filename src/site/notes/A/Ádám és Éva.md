@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ádám és Éva/","title":"Ádám és Éva","tags":["Englishtexttranslated"],"created":"2023-11-06T01:53","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/A/Ádám és Éva/","title":"Ádám és Éva","tags":["Englishtexttranslated"],"created":"2023-11-06T01:53","updated":"2025-08-20T18:35"}
 ---
 
 
@@ -26,7 +26,7 @@ A Talmud ne legyen megmondója, ugyanis itt két képzet vegyülését látjuk. 
 > Ádám[^2] a magyar ősapa, a szumer Ad, Ada, Adda nevek azt bizonyítják, hogy Ádám neve kapcsolható a szumerokhoz. A magyar Ad ige és Ada városnév is valószínűsíti Ádám magyar eredetét. Adam nevében az Ad ige jelenik meg főnévi értelemben, az Am Hely[^3]. Mindig az Atya Ad, és az Anya Kap, áldást pedig a gyerekek, akik öröklik szüleik vagyonát. Valójában Ádám a Nap, Éva pedig az Év, az adominiták pedig az egyik nagyon régi, őskori magyar törzs. Egy szumer eposzból pontosan meg lehet érteni, hogy Ádám és [[E/Éva\|Éva]] valójában csillagászati fogalmak. Ádám, vagyis Udum jár az égen, ívek szerint, az összes napi ív pedig kiadja az Évet, Éva nevét. A borda is innen ered, mert ha lerajzoljuk a Nap járását, akkor bordákat kapunk, így lett az Év istennője a bordákból teremtve.  
 >
 > Latinul az `Anno` Évet jelent, az An az Ég, a No bizonyára az Úr, mint a japán `Ten-No` (Ten-Úr) névben. Az Év mindig a Naphoz kötendő, akinek a neve Udum, vagy Ádám is lehet. Felesége Éva, egy teljes kör, vagyis 365 Ív, ami kitesz egy Évet. Az Év tehát Ívekből áll, a névben az "A" lehet Isten is. Év-A tehát nem más, mint az Év Istennője, aki Adam jóvoltából jön létre. Adam minden reggel felkel, minden este lenyugszik, megtér Édesanyja házába, közben megtesz egy Ívet, majd 365 alkalom után létrehozza Évát. Akit a Biblia bordának is leír, de a borda nem más, mint egy ív. Gyönyörű a Biblia íróinak költészete, igen magasrendű, tehát a Biblia mondanivalóját költészeti szempontokból is vizsgálni kell. De ezt tudják a felkészültek. Az Anno latin név tehát szoros kapcsolatban van az etruszk magyarok nyelvével.  
-> 
+>
 > Lucifer, az ördög, aki megrontja Ádám, Éva és az Isten Atya szövetségét az almafák meséjével, valójában a Tejút képzete. Kígyó képében jelenik meg Éva előtt, de ez a kígyó nem afféle közönséges kígyó, mert a tudást kínálja. Éva anyánk el is veszi a tudás almáját, ami miatt Isten Atya kiűz minket a Paradicsomból, mert megszegtük a tilalmát. Azonban tudjuk, mert Ő mondta, hogy haragja majd csillapul, és a másik fa gyümölcséből is majd ehetünk, vagyis halhatatlanok leszünk, nem is a távoli jövőben.  
 
 Ez egy fontos megállapítás! A mögöttes tartalmat a zsidók és a [[J/Judeo-kereszténység\|judeo-kereszténység]] már nem ismerte és hús-vér kígyót csinált belőle. Így forgatták ki az eredeti értelmezéseket.  
@@ -60,7 +60,7 @@ Ennél is megdöbbentőbb az [[A/Ádám\|Ádám]] címnél adatokkal jelentkező
 > —  
 > Tahitin az első emberpárt Taaroa isten teremtette. Miután megteremtette a világot, az isten vörös földből készítette az első embert. Aztán elaltatta a férfit, és miután kivett belőle egy csontot (*ivi*), nőt formált belőle. Ezt a történetet William Ellis misszionárius jegyezte fel az utókor számára, aki kijelentette, hogy:
 > Nekem mindig úgy tűnt, hogy ez csupán a teremtés mózesi beszámolója, amelyet valamelyik európaitól hallottak, és soha nem bíztam benne, bár többször elmondták nekem, hogy ez a hagyomány már azelőtt is létezett közöttük, hogy idegenek érkeztek volna. Néhányan azt is állították, hogy a nő neve Ivi volt, amit ők úgy ejtettek ki, mintha Évát írnának. Az Ivi egy őslakos szó, és nemcsak csontot jelent, hanem özvegyet és háborúban megölt áldozatot is. A bennszülöttek állítása ellenére hajlamos vagyok azt gondolni, hogy az Ivi vagy Éva az egyetlen őslakos része a történetnek, amennyiben az emberi faj anyjára vonatkozik. (William Ellis, Polynesian Researches, 2. kiadás, London: 1832-1836, i, 110 és azután, idézi Frazer, Folklore in The Old Testament, Vol. I, London: Macmillan and Co., Ltd., 10. o.).
-> A misszionárius véleménye valószínűleg téves volt, mert hasonló mítoszok egész Polinéziában elterjedtek. A Bowditch-szigeten létezik egy hagyomány, amely szerint miután a teremtő isten megalkotta az első embert, azután a földből létrehozta a nő képmását, aki azonnal élni kezdett. 
+> A misszionárius véleménye valószínűleg téves volt, mert hasonló mítoszok egész Polinéziában elterjedtek. A Bowditch-szigeten létezik egy hagyomány, amely szerint miután a teremtő isten megalkotta az első embert, azután a földből létrehozta a nő képmását, aki azonnal élni kezdett.
 - A szöveg folytatása [[O/Ószövetség\|Ószövetség]] címhez mellé téve.
 
 ## Lábjegyzetek
