@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-12-18T11:38","updated":"2025-08-07T23:50"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-12-18T11:38","updated":"2025-08-20T18:36"}
 ---
 
 
@@ -278,7 +278,7 @@ Folytatást lásd [[T/Taurus#A bika indo-európai neve mire utal?\|a bika indo-e
 > Because *even if mythographers come out and say the stag refers to the mother's son, you can clearly see the son is a bird*, which when translated to Hungarian is `madár`, rebus for Magyar, who as the Sun God was Magor, Magur, who emerges as the Sumero-Akkadian name for Capricorn, which is the zodiacal house the Sun is at "when" the Son is reborn. One of the pieces of evidence is that Magyar is an older language than Sumerian.  
 > —  
 > A Turul a feltámadt Nap szimbóluma (téli napforduló; vö. "kerecsen" sólyom). (Más helyeken főnix, [[S/Szimurgh\|Szimurgh]], vagy páva).  
-> A név a kaukázusi `tur` = szarvas (saját anyja, a Csudaszarvas, a csillagos éjszaka jelképe) és az `door` = a Nap útjának Földről nézett forgás ára utal; vö. [[T/Turn\|turn]] = fordul jelentésű igével.  
+> A név a kaukázusi `tur` = szarvas (saját anyja, a Csudaszarvas, a csillagos éjszaka jelképe) és az `door` = a Nap útjának Földről nézett forgására utal; vö. [[T/Turn\|turn]] = fordul jelentésű igével.  
 > Ez egy asztrotheológiai téma. Valószínűleg a sumér idők előtti időkből; mind a sumér, mind a türk nyelvben a T-R gyökből (`tur`, `tura`) csak a fiú és a születés jelentése származik. Az állat és a motívum magas északról származik és nem a Kr. e. 5. századból.  
 > Így egyébként a különböző ún. nyelvcsaládok szókincse átfedésben van, de a közös témákat és asszociációs mintákat érteni kell. A nyelvészek nem képzettek ebben, és csak szabadon definiálják a gyököket, hogy megkülönböztessék a családokat, anélkül, hogy a teljes képet látnák. Az ő szemléletük nem az egységre és az egy-ségre (Istenre), hanem a tagoltságra és az elidegenedésre összpontosít. Az elidegenedés fokozódik, amikor egy önkényes kultúrprioritási álláspontot kell betartani; az egyik csoport állítólag mindig kölcsönöz szavakat... azoktól, akik maguk semmit sem tudnak a témákról, és nem tesznek erőfeszítést a feltámasztásukra. Vagy amikor megpróbálják, akkor is elrontják, de hát nem tehetnek róla, ugye. Tudjátok, *az "eredeti" indoeurópai mitológiában a szarvas egy szarvasbika*; nos, hogyan szülheti meg egy szarvasbika a Fiút/Napot a téli napfordulón?  
 > Mert *még ha a mitográfusok elő is jönnek, és azt mondják, hogy a szarvas az anya fiára utal, akkor is világosan láthatjuk, hogy a fiú egy madár*, ami magyarul `madár`, a Magyar rébusza, aki Napistenként Magor, Magur volt, aki a Bak szumero-akkád neveként bukkan fel, ami az az állatövi ház, ahol a Nap áll, "amikor" (ahol) a Fiú újjászületik. Ez az egyik bizonyíték arra, hogy a magyar egy régebbi nyelv, mint a sumér.  
