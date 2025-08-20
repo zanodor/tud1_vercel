@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2025-08-19T01:00"}
+{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2025-08-20T18:38"}
 ---
 
 
@@ -119,7 +119,7 @@ A szarvasmarha szaporító szervrendszeréről képekkel lásd [[S/Szarv\|szarv]
 Fentebb esett róla már szó.  
 [[K/Krisztus#Krisztus a szarvasfiú születése az üsző méhéből, a Tejútközpontban\|Krisztus a szarvasfiú születése az üsző méhéből, a Tejútközpontban]] cím/alcímnél szerepeltek az alábbiak:  
 Tulajdonképpen Várkonyi Nándor [[U/Üsző\|üsző]], [[P/Patala\|Patala]] és [[M/Méh\|méh]] címnél álló sorai ezt mondják el, csak éppen Krisztus vagy – a Szarvasnak nézett és Világfánál lenyilazott – Krisztna-[[K/Krishna\|Krishna]] maradt ki (Arjuna viszont Krishna társa és tanítványa volt, aki "leszállt" Pátálába, s ott nőül vette a "nagalik" királyának, Kauravjának Ulupi vagy Ulupl nevű lányát):  
-> Pátála a "verem" is, az Alvilág, az újjászületés helye. Ide szállnak le a beavatandók, s ezért kellett Arjunának "leszállnia". Pátála mélységeit "az új Nap fénye járja át", s ennek dicsőségébe jut az "újszülött", miután átment az "üsző" méhén. Ez a leírás a beavatás rítusait jelzi a szokott képletes módon \[a Nap születéséséről van itt szó inkább\]. Az üsző, **Surabi**, Visnu szent állata, a "bőség borja", a "tej és aludttej forrása", a teremtéskor a Tejtengerből "extrahálták", s innen ered a szarvasmarha vallásos tisztelete Indiában.  
+> Pátála a "verem" is, az Alvilág, az újjászületés helye. Ide szállnak le a beavatandók, s ezért kellett Arjunának "leszállnia". Pátála mélységeit "az új Nap fénye járja át", s ennek dicsőségébe jut az "újszülött", miután átment az "üsző" méhén. Ez a leírás a beavatás rítusait jelzi a szokott képletes módon \[a Nap születéséről van itt szó inkább\]. Az üsző, **Surabi**, Visnu szent állata, a "bőség borja", a "tej és aludttej forrása", a teremtéskor a Tejtengerből "extrahálták", s innen ered a szarvasmarha vallásos tisztelete Indiában.  
 - Valójában ősi képzet; a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]].
 
 Ha már Alvilág, [[P/Pokol\|pokol]] címnél is méhről volt szó Práczki Istvánnál:  
