@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2025-07-19T00:55"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2025-08-20T18:37"}
 ---
 
 
 # Mária
 
-A hivatalos bibilia fáma (a formai-irodalmi és közérthetőséget lebutított verzióként szolgáló érdekek) szerint Gábriel arkangyal értesíti Máriát arról, hogy a [[S/Szentlélek\|Szentlélek]]től fog teherbe esni. Az alábbi fogantatási és születési dátumokról szóló adatsort a [[D/Dionysius Exiguus\|Dionysius Exiguus]] féle XV. Argumentumból adom :  
+A hivatalos bibliai fáma (a formai-irodalmi és közérthetőséget lebutított verzióként szolgáló érdekek) szerint Gábriel arkangyal értesíti Máriát arról, hogy a [[S/Szentlélek\|Szentlélek]]től fog teherbe esni. Az alábbi fogantatási és születési dátumokról szóló adatsort a [[D/Dionysius Exiguus\|Dionysius Exiguus]] féle XV. Argumentumból adom :  
 > Argumentum 15. On the day of the equinox and the solstice.  
 > The day on which the Lord Jesus Christ was born into flesh from the Virgin Mary in Bethlehem is the one on which the day begins to increase. The first equinox is on March 25, when day is equal with night. On this very day Gabriel annunciates to Holy Mary, saying:  
 > The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee. Therefore also that which shall be born of thee shall be called the Son of God. \[Luke 1.35, courtesy King James\] Also on this day Christ has suffered in the flesh. The second solstice is on June 24, from which the day starts to decrease, and also when Saint John the Baptist was born. The second equinox is on September 24, on which day John the Baptist was conceived. And right from then on until the birth of the Lord and Saviour, the day becomes shorter than the night. From March 25 and until December 25, the days number 271. And that number of days after our Lord Christ was conceived on Sunday March 25, our Lord Christ was born on Tuesday December 20. On the day on which he has suffered death, 133 \[? 33\] years and 3 months have elapsed, which are 12 \[thousand\] 414 days. And that number of days after his birth took place on a Tuesday, he suffered death on a Friday: he was born on December 25 and suffered death on March 25. From when our Lord Jesus Christ was baptized, there were 2 years and the days numbered 90, yielding 820, with its leap days, and so he was baptized on the day January 06, a Thursday, and suffered death, as I said above, on March 25, a Friday. With its leap days this yields 12 \[thousand\] 415 days altogether, and 90 days (from) January 06 to March 25.  
