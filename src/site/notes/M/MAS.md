@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2025-06-08T01:13"}
+{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2025-08-27T03:06"}
 ---
 
 
@@ -30,7 +30,7 @@ Ami a [[M/Mózes\|Mózes]] nevéhez is megoldást jelentő `mas` = ifjú/fiú je
 
 MAS tehát lehet [[M/Más\|más]]\(a valaminek, hasonmása, kiköpött mása) és [[M/Második\|második]] szavunkban is szerepel.  
 
-Szintén a [[S/Sumér zodiákus\|sumér zodiákus]]beli (Baknak megfelelő Bakhal jegyet jelentő) [[S/Suhurmasku\|Suhurmasku]] címnél is szerepelt, hogy a (vitatható adatokat is szolgáltató) [[D/Dudás Rudolf\|Dudás Rudolf]] szerint a kecske szó értelme a Körös-kultúra idejében "MÁS"-nak hangzott (Labat 76), a kecskebak pedig MÁS-NITA volt. (Forrásának hitelességét illetőleg nem nyilatkozhatok, de birka jelentést is tulajdonítottak neki Gavin White könyvének adata szerint. [[M/Mastabbagalgal\|Mastabbagalgal]] címnél is szó lesz arról, hogy a hal jelentés hogy jöhetett a képbe. Ami az M-SZ vázú kecske és őz jelentésű szavakat illeti, csokorba összeszedve lásd [[M/MISZ\|MISZ]] címnél.)  
+Szintén a [[S/Sumér zodiákus\|sumér zodiákus]]beli (Baknak megfelelő Bakhal jegyet jelentő) [[S/Suhurmasku\|Suhurmasku]] címnél is szerepelt, hogy a (vitatható adatokat is szolgáltató) [[D/Dudás Rudolf\|Dudás Rudolf]] szerint a kecske szó értelme a Körös-kultúra idejében `MÁS`-nak hangzott (Labat 76), a kecskebak pedig `MÁS-NITA` volt. (Forrásának hitelességét illetőleg nem nyilatkozhatok, de birka jelentést is tulajdonítottak neki Gavin White könyvének adata szerint. [[M/Mastabbagalgal\|Mastabbagalgal]] címnél is szó lesz arról, hogy a hal jelentés hogy jöhetett a képbe. Ami az M-SZ vázú kecske és őz jelentésű szavakat illeti, csokorba összeszedve lásd [[M/MISZ\|MISZ]] címnél.)  
 
 Csatolva lásd MAS piktogramját, ami, meglepő (vagy a [[M/MISZ\|MISZ]] címnél szereplő diagramba építhetősége miatt és [[S/Szarvas\|szarvas]] és a kecske témában is taglalt [[M/Magor\|Magor]] címnél írottak alapján nem is oly meglepő) módon egy [[K/Kereszt\|kereszt]]et formáz.  
 ![assets/MAS_image1.png|invert_dark](/img/user/M/assets/MAS_image1.png)  
