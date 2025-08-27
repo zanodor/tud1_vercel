@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-12-18T11:38","updated":"2025-08-20T18:36"}
+{"dg-publish":true,"permalink":"/T/Turul/","created":"2024-12-18T11:38","updated":"2025-08-20T18:36"}
 ---
 
 
@@ -293,8 +293,43 @@ Imént is és másutt is szó volt a napfordulatra vonatkozó fordulatról. [[T/
 ## Turul és Csudaszarvas
 
 A fentiek folytatásaként következzenek az alábbiak.  
-Az alábbi passzus Nagy J-től, a [[M/Magyar térrendezés\|magyar térrendezés]], [[S/Szakrális geometria\|szakrális geometria]], [[J/Jurta\|jurta]], [[K/Kapu\|kapu]], [[V/Világmodell\|világmodell]], [[L/Ló\|ló]] és más címnél író (nyilván Paksi Zoltántól is tanuló) idősebb bloggertől való:  
-> A Turul népünk szimbolikájában \[a [[S/Szűz csillagkép\|Szűz csillagkép]] címnél taglalt Szűzanya és fia képlettel\] azonos a Csodaszarvast üldöző madárősünkkel. Ezt erősíti László Gyula is, aki szerint **eleink a szarvast ősanyjuknak, a Turult pedig ősapjuknak tekintették**. (Na, ezért sem lehetne az árja [[M/Mother\|mother]] madár, hanem magyar olvasatú.)  
+Először is, látni kell, hogy a lentebb bemutatott ábrázolásokban ellentmondást fedezhetünk fel. Ha fentebb megegyeztünk abban, hogy a szarvas madárfiút szül a téli napfordulón, akkor a paziriki leleten található ábrázoláshoz csak egy passzol: a madarat szoptató szarvas ábrázolás. A többi esetben a madár nemzőként látszik feltűnni, ami azt mutatja, hogy egyes helyeken már nem voltak tisztában azzal, hogy a madár nem kifejlett hím madár, hanem gyermek.  
+
+> [!fail]+ &nbsp;
+> 
+> Sem a szarvas nem lehet kifejlett hímként értelmezhető, sem a madár. Hímet szül az anya, de az nemzőképtelen gyermek a téli napfordulón.
+{ #250827}
+
+- Az igaz, Magyar Adorján is szól arról, Magyar Ilona Magorra történő tavaszi napéjegyenlőségkori násza során venné fel a Magyar nevet Tündér Ilonából (odáig lány), illetve a nyári napfordulóig tart Magor gyermek uralma az évkörön, de a régi szentháromságokon is jól látható, hogy az egyetlen felnőtt az anya:
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/S/Szentháromság/#250827" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+![assets/Szentháromság_image1.png|invert_dark](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image1.png)
+ 
+
+</div></div>
+
+
+Az alábbi passzus Nagy J-től, a [[M/Magyar térrendezés\|magyar térrendezés]], [[S/Szakrális geometria\|szakrális geometria]], [[J/Jurta\|jurta]], [[K/Kapu\|kapu]], [[V/Világmodell\|világmodell]], [[L/Ló\|ló]] és más címnél író bloggertől való:  
+> A Turul népünk szimbolikájában \[a [[S/Szűz csillagkép\|Szűz csillagkép]] címnél taglalt Szűzanya és fia képlettel\] azonos a Csodaszarvast üldöző madárősünkkel. Ezt erősíti László Gyula is, aki szerint **eleink a szarvast ősanyjuknak, a Turult pedig ősapjuknak tekintették**. 
+
+
+
+> [!fail]+ &nbsp;
+> 
+> A turulmadár ősapának vétele hiba, mert a szarvassal együtt ábrázolva a megszülető Napisten (Magyar/Magor) látandó benne.
+- Persze akkor, hogy ha a szarvas évkörben értelmezett. Amennyiben a madár már a lélek hordozója, lehet hímségként gondolni rá, olyan összefüggésben, hogy a szarvas már a teremtett világ, az anyagi világ, a földközpontú, materiális világ megjelenítője. Az [[S/Szarvas#^250529\|ordoszi szarvas]]ban ha csak a lábai alatt látható földet vesszük figyelembe, már állat-szarvasként (holott a szarvas szimbólum, és az égre vonatkozik), akkor lenne értelme Nap (madár) – Föld (szarvas) párosításban gondolkodni.
+
+> [!check]+ &nbsp;
+> 
+> Tehát két helyen csúszhat el az értelmező:  
+> - Az összetartozó szarvas és madár kompozícióban a madár csak gyermek, nem nemző.
+> - A szarvasnak már nem éganyai, hanem földanyai minősége vétetik figyelembe és a madár már egy általánosabb napmadár jelképként bemutatott.
+- Az tény, hogy a régi gondolkozás alapja a Nap-Föld násza/tánca, de amikor egy korábbi, csillagvalláskori szüzsé átértékelődik egy napvalláskori vagy materialisztikusabb értékrend szerint, akkor nekünk kutatóknak rá kell mutatni az eredetire. A szarvas oldalán a pettyekkel és a lángjelkép aganccsal inkább égi, vagy maximum földi-égi, mintsem pusztán földi. Az is igaz, hogy egy Magyar Ilona is lehet ugyanígy égistennőből földistennő, és az `anya` (`ana`) név is éganyaként kezdte és a földi anyákban végezte, hiszen a fent és lent megfeleltetés általános volt.
+
+Nagy J. folytatja:  
 > A [[M/Madár\|madár]], mint a szárnyas lények általában, a felső világhoz tartoznak, az égi, isteni üzenetek hordozói. A puszták embere világában, olyan madár válhatott jelképpé amely szemmel láthatóan bátor és gyors. A ragadozó madár – melynek jellemző támadási taktikája, hogy a Nap irányából támad, így a préda nem látja meg – a földről nézve a Napból száll felénk, így lett a Nap madara, a Napisten égi hírnöke. Népünk egyik eredetmondájában így vált égi hírnökké az [[E/Emese\|Emese]] álmában megjelenő Turul. Mint tudjuk a magyarok a Turult sólyomféle madárnak – kerecsen sólyomnak – tartják. Tekinthetjük-e a képen látható égi hírnököt másnak, mint valamely csillagképnek akkor, amikor valamennyi szereplő megfeleltethető egy-egy csillagképnek. A szárnyas csillagképek közül a Szűz, a Nyilas, a Szarvas csillagképpel együtt a [[S/Sas csillagkép\|Sas csillagkép]] látható. A turul, a sólyom, a sashoz hasonlóan napmadár, a szellemi és lelki felemelkedés, az erő és szabadság jelképe.  
 
 Az [alábbi](https://felvidek.ma/2015/04/kulcsar-ferenc-a-szentesi-turulmadar/) cikkben érdekesmód Emese Szarvasünőként kerül bemutatásra, azaz a Turul és Szarvas itt is találkozik:  
