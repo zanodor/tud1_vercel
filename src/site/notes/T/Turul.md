@@ -296,7 +296,7 @@ A fentiek folytatásaként következzenek az alábbiak.
 Először is, látni kell, hogy a lentebb bemutatott ábrázolásokban ellentmondást fedezhetünk fel. Ha fentebb megegyeztünk abban, hogy a szarvas madárfiút szül a téli napfordulón, akkor a paziriki leleten található ábrázoláshoz csak egy passzol: a madarat szoptató szarvas ábrázolás. A többi esetben a madár nemzőként látszik feltűnni, ami azt mutatja, hogy egyes helyeken már nem voltak tisztában azzal, hogy a madár nem kifejlett hím madár, hanem gyermek.  
 
 > [!fail]+ &nbsp;
-> 
+>
 > Sem a szarvas nem lehet kifejlett hímként értelmezhető, sem a madár. Hímet szül az anya, de az nemzőképtelen gyermek a téli napfordulón.
 { #250827}
 
@@ -313,17 +313,17 @@ Először is, látni kell, hogy a lentebb bemutatott ábrázolásokban ellentmon
 
 
 Az alábbi passzus Nagy J-től, a [[M/Magyar térrendezés\|magyar térrendezés]], [[S/Szakrális geometria\|szakrális geometria]], [[J/Jurta\|jurta]], [[K/Kapu\|kapu]], [[V/Világmodell\|világmodell]], [[L/Ló\|ló]] és más címnél író bloggertől való:  
-> A Turul népünk szimbolikájában \[a [[S/Szűz csillagkép\|Szűz csillagkép]] címnél taglalt Szűzanya és fia képlettel\] azonos a Csodaszarvast üldöző madárősünkkel. Ezt erősíti László Gyula is, aki szerint **eleink a szarvast ősanyjuknak, a Turult pedig ősapjuknak tekintették**. 
+> A Turul népünk szimbolikájában \[a [[S/Szűz csillagkép\|Szűz csillagkép]] címnél taglalt Szűzanya és fia képlettel\] azonos a Csodaszarvast üldöző madárősünkkel. Ezt erősíti László Gyula is, aki szerint **eleink a szarvast ősanyjuknak, a Turult pedig ősapjuknak tekintették**.
 
 
 
 > [!fail]+ &nbsp;
-> 
+>
 > A turulmadár ősapának vétele hiba, mert a szarvassal együtt ábrázolva a megszülető Napisten (Magyar/Magor) látandó benne.
 - Persze akkor, hogy ha a szarvas évkörben értelmezett. Amennyiben a madár már a lélek hordozója, lehet hímségként gondolni rá, olyan összefüggésben, hogy a szarvas már a teremtett világ, az anyagi világ, a földközpontú, materiális világ megjelenítője. Az [[S/Szarvas#^250529\|ordoszi szarvas]]ban ha csak a lábai alatt látható földet vesszük figyelembe, már állat-szarvasként (holott a szarvas szimbólum, és az égre vonatkozik), akkor lenne értelme Nap (madár) – Föld (szarvas) párosításban gondolkodni.
 
 > [!check]+ &nbsp;
-> 
+>
 > Tehát két helyen csúszhat el az értelmező:  
 > - Az összetartozó szarvas és madár kompozícióban a madár csak gyermek, nem nemző.
 > - A szarvasnak már nem éganyai, hanem földanyai minősége vétetik figyelembe és a madár már egy általánosabb napmadár jelképként bemutatott.
