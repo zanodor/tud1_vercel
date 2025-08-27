@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Analógikus gondolkodásmód/","title":"Analógikus gondolkodásmód","created":"2024-05-08T13:56","updated":"2025-08-16T15:30"}
+{"dg-publish":true,"permalink":"/A/Analógikus gondolkodásmód/","title":"Analógikus gondolkodásmód","created":"2024-05-08T13:56","updated":"2025-08-27T02:46"}
 ---
 
 
@@ -12,7 +12,7 @@
 > Az egyetemes, generális szemléletet a görög-római gondolkodással felváltotta az analitika ellentétvető, mindent lebontó specializációjával. A vagy-vagy erő(szak) elve így húz határt definiálva, determinálva, a magasabb és alacsonyabb rendűt részrehajlóan (rendszerint önigazolóan) megállapítva a saját igazát. Nem érti, hogy minden rész és alacsonyabb rendű működés az egészből, az átfogóból ered. A filosofus dicti, a klerikális dogmarendszer így válik kerékkötőjévé az életnek. Amit nem ismer a dogma hirdetője, arra rábélyegzi a 'délibábos', a 'tudománytalan' jelzőt. A nyelv és őstörténet tekintetében ezzel a helyzettel állunk szemben.  
 > Az egyetemes ősi szemléletmódról Hamvas Béla és Várkonyi Nándor komoly összefoglaló munkát készített. Az Ő szemléletük a keleti és az ősgörög doktrina-rendszer szemléletében szintetizálja az analógia és az analitika szemlélet rendszerét.  
 > Az analitika, a ráció, rasszokra, részekre szakító kripto-igazsága, a matematikai szám és mennyiségi szemlélet alapja, míg az analógia az intuitív, érzelmi rokonító szemlélete a form a mérhetőségén túli szimbolikus képi világába kalauzol.  
-> 
+>
 > A megszokott tudományos gondolkodásmód mindig lineáris és kauzális (ok-okozati) a formális látható valóság meghatározott szintjein mozog. Ezért nevezhetjük vízszintes gondolkodásmódnak.  
 > A másik gondolkodásmód az analógiák törvényén alapul. Az analógikus gondolkodásmód függőlegesen fűzi össze a hasonlót a hasonlóval. Az analógia nem ok – okozati összefüggést ír le, hanem mindig, amikor kérdésre ad választ.  
 > ![assets/Analogikusgondolkodásmód_image1.png|invert_dark](/img/user/A/assets/Analogikusgondolkod%C3%A1sm%C3%B3d_image1.png)  
