@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Enki/","title":"Enki","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-26T05:26","updated":"2025-06-07T23:31"}
+{"dg-publish":true,"permalink":"/E/Enki/","title":"Enki","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-26T05:26","updated":"2025-08-27T02:47"}
 ---
 
 
@@ -46,7 +46,6 @@
   
 
 Bobula Ida The Great Stag című dolgozata a sumér Enkiről (akkád megfelelője [[E/EA\|Ea]]) szól. Mivel neki – többek közt – egy Dingir Magur másneve\[?\] is létezett, ezért (Magur helyett) [[M/Magor\|Magor]] címnél került taglalásra.  
-Mivel Enki kapcsolatba hozatott a szarvassal, érdekes lehet az, amit az [alábbi](https://youtu.be/aeRDLskUSZM) Turul és Szarvas II. rész című ÁKA előadásban Kubínyi Tamás 1:05:45-nél mond arról (miután maga is – ahogy ezt közben [[M/Magyar tabu szavak\|magyar tabu szavak]] címnél is taglaltuk – kimondja, hogy a [[F/Farkas\|farkas]] és a [[S/Szarvas\|szarvas]] nem a valódi neve az állatoknak, mert ha a valódi nevét használták volna, megidézték volna; azt mondja, hogy a farkas (mert van farka) név mellett lehetett volna füles vagy bundás is. A toportyán nevét meg nehogy kimondjuk, mert az végzetes lenne (ahogy a szavakat kimondom, meg is teremtem)), hogy a mítoszok, népballadák, népmesék szarvasőzzé változott fiának neve Éni, Eni, és ez az Eni = Én (vagyok) (a szarvas (népe)).  
 
 #### Karcagi Oláh Imre Külföldi és magyar írók a magyar mitológiáról...
 
