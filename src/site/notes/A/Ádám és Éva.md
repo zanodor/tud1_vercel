@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ádám és Éva/","title":"Ádám és Éva","tags":["Englishtexttranslated"],"created":"2023-11-06T01:53","updated":"2025-08-20T18:35"}
+{"dg-publish":true,"permalink":"/A/Ádám és Éva/","title":"Ádám és Éva","tags":["Englishtexttranslated"],"created":"2023-11-06T01:53","updated":"2025-08-27T02:46"}
 ---
 
 
