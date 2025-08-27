@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2025-08-20T18:37"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2025-08-27T02:47"}
 ---
 
 
@@ -55,7 +55,7 @@ A könyv 191. oldalán lábjegyzetben:
 > A provence-i Kosban az Istennő mint az Anyák triászának vagy pentádjának kultusza keresztény álruhában egészen napjainkig fennmaradt, amikor is május 24-től május 28-ig, a galagonya, vagyis a tisztaság hónapjának közepéig ünneplik az ünnepét, de most már hívei nagyrészt cigányok. Hármasként "Provence három Szűz Máriája" vagy "A tenger három Szűz Máriája" néven vált ismertté; ötösként Márta és egy apokrif szolgálóleány, Sára is csatlakozott hozzá.  
 
 Robert Graves White Goddess című könyvében a Háromszoros Istennő a három női fázisnak megfelelő szerepkörben való bemutatásakor – anya, feleség és boszorkány – az utolsót layer-out-nak hívja:  
-> Graves's definition of the ‘capricious and all-powerful Threefold Goddess’ mother, bride and layer-out, or mother, lover, witch – is also applicable to the trio: olive, fig, vine.  
+> Graves's definition of the 'capricious and all-powerful Threefold Goddess' mother, bride and layer-out, or mother, lover, witch – is also applicable to the trio: olive, fig, vine.  
 > —  
 > Graves meghatározása a "szeszélyes és mindenható hármas istennőről" – anya, menyasszony és ki/lefektető, vagy anya, szerető, boszorkány – a hármasra is alkalmazható: olajfa, füge, szőlő.  
 - Ezt a ki/lefektetőt eltemetőjeként fordítottam másutt, hiszen Graves-től ismerjük, hogy az istennő ad életet és veszi el az életét a mitikus hősöknek (a Nap ott hal meg, a Tejútfánál, ahol újra megszületik). 
@@ -155,13 +155,13 @@ Itt tegyük hozzá, hogy a tamil **Māri**, más nevén Mariamman és Mariaai (M
 ![assets/Mária_image2.png|invert_dark](/img/user/M/assets/M%C3%A1ria_image2.png)  
 
 Talán nem véletlen az sem, hogy a tamil `maram` = fa jelentésű.  
-A baszk [[M/Mari\|mari]] szintén eső- és tenger/ég(istennő)(!), kinek férfi párjának neve [[S/Sugar\|sugar]].  
+A baszk [[M/Mari\|Mari]] szintén eső- és tenger/ég(istennő)(!), kinek férfi párjának neve [[S/Sugar\|sugar]].  
 Robert Graves The White Goddess című könyvében említ még egy ciprusi Mari nevű (ég)istennőt.  
 [[C/Csudaszarvas\|Csudaszarvas]] címnél egy Máricsa nevű őz/démon ([[F/Fekete démon\|Fekete démon]] címnél írottak alapján égistennő, az éj istennője; az őz/szarvas a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]]; [[D/Demon\|demon]] lehet akár [[D/Dame\|dame]] eredetű (Ég Dámája/Tehene); illetve jegyezzük meg, hogy a Máricsa és a [[M/Mriga\|mriga]] nevek igen hasonlóak) jön elő.  
 
 Ugyebár a szűzen szülő Mária eredetileg a Jézus-Nap anyja. Igen ám, de több helyről ismert mitológiában a fiú anyját nőül is veszi[^5] (lásd [[I/Incest\|incest]]), azaz ezért lehet, hogy több Mária[^6] is szerepel a bibliai történetben és Mária Magdolna (lásd róla [[M/Magda\|Magda]]) az apokrif hagyományban felesége lesz Jézusnak[^7] (mitológiai/mesei szokás egy személyből leginkább hármat csinálni; lásd [[H/Három istennő\|három istennő]] és [[D/Daughter\|daughter]] vagy a magyar mesék három királyfia).  
 Ezen utóbbi nőül-vételes indíték lehet meg a francia-angol [[M/Marry\|marry]] = házasodni szó mögött is, ha nem a [[M/Marha\|marha]] (Mar-Ha) a kiinduló. Persze a marha sem más, mint maga a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]]!  
-Hogy további bizonyítékot szolgáltassunk a Mária-marha azonosságra, úgy tűnik, a Mária név a csecseneknél Markha (ejtsd: Marha) fomában szerepel (hogy ez szkíta, orosz, csecsen vagy arab névnek minősül-e náluk, azt nem tudom, de nem is érdekes).   
+Hogy további bizonyítékot szolgáltassunk a Mária-marha azonosságra, úgy tűnik, a Mária név a csecseneknél Markha (ejtsd: Marha) formában szerepel (hogy ez szkíta, orosz, csecsen vagy arab névnek minősül-e náluk, azt nem tudom, de nem is érdekes).   
   
 
 #### Nagyné dr. Fülöp Krisztina...
@@ -209,7 +209,7 @@ Arról, hogy a héber [[M/Miriam\|Miriam]] azonos-e a Mária névvel és hogy az
 
 Jankovics Marcellnél Szíriusszal való azonosítás is előjön(!):  
 > Mária és Szíriusz azonosítása nincs ellentmondásban azzal, amit fentebb Mária és a Tejút megfeleléséről írtam.  
-- [[S/Szűzanya\|Szűzanya]] és [[S/Szíriusz mint istenanya\|Szíriusz mint Istenanya]] címnél írottak szerint helytálló is. 
+- [[S/Szűzanya\|Szűzanya]] és [[S/Szíriusz mint istenanya\|Szíriusz mint Istenanya]] címnél írottak szerint helytálló is.
 
 #### Dobos Csanád írja:
 
