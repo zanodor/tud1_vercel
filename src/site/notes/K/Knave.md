@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Knave/","title":"Knave","created":"2024-02-03T06:09","updated":"2024-10-25T22:24"}
+{"dg-publish":true,"permalink":"/K/Knave/","title":"Knave","created":"2024-02-03T06:09","updated":"2025-08-27T03:03"}
 ---
 
 
