@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2025-07-03T01:14"}
+{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2025-08-27T03:05"}
 ---
 
 
@@ -215,9 +215,9 @@ A Mithras személynév feliratos előfordulásait ismerjük, ez volt az etiópok
 Jankovics Marcell A Nap könyve című könyvében említi a sri lankai Szamant, a reggeli Nap istenét, akit a Szamanolakanda-hegyen imádják (e helyet Ádám Ormának is nevezik).  
 
 [^6]: Lábjegyzet:  
-Mithra ugyan elsősorban Napminőség de Orionnal is azonosul. Jelkép-kalendárium című könyvében Jankovics Marcell teljes természetességgel felelteti meg a latin Mithras-t a görög Orionnal. Lásd még [[M/Mithra és a bika\|Mithra és a bika]], ahol arról is lesz szó, hogy John M. Jenkins könyvében a precesszió feltalálásához kötik a Mithraizmus kialakulását: de ez téves. WC sem érthette igazán, hogy eszik vagy isszák – ahogy ő írja – "Mythrát." Lásd még adatot hyperkozmikus Napról és Szíriusszal kapcsolatos infókat ott.  
+Mithra ugyan elsősorban Napminőség de Orionnal is azonosul. Jelkép-kalendárium című könyvében Jankovics Marcell teljes természetességgel felelteti meg a latin Mithras-t a görög Orionnal. Lásd még [[M/Mithra és a bika\|Mithra és a bika]], ahol arról is lesz szó, hogy John M. Jenkins könyvében a precesszió feltalálásához kötik a Mithraizmus kialakulását: de ez téves. Walter Cruttenden sem érthette igazán, hogy eszik vagy isszák – ahogy ő írja – "Mythrát." Lásd még adatot hyperkozmikus Napról és Szíriusszal kapcsolatos infókat ott.  
 
 [^7]: Lábjegyzet:  
-In Middle Iranian languages (Middle Persian, Parthian etc.), `miθra` became `mihr`, from which New Persian مهر `mehr` and Armenian `mihr`/`mehr` ultimately derive.  
+In Middle Iranian languages (Middle Persian, Parthian etc.), `miθra` became `mihr`, from which New Persian `مهر` (`mehr`) and Armenian `mihr`/`mehr` ultimately derive.  
 —  
-A közép-iráni nyelvekben (közép-perzsa, parthus stb.) a `miθra`-ből `mihr` lett, amelyből végül az újperzsa مهر `mehr` és az örmény `mihr`/`mehr` származik.  
+A közép-iráni nyelvekben (közép-perzsa, parthus stb.) a `miθra`-ből `mihr` lett, amelyből végül az újperzsa `مهر` (`mehr`) és az örmény `mihr`/`mehr` származik.  
