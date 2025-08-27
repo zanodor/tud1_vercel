@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Karácsony/","title":"Karácsony","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2025-06-08T01:01"}
+{"dg-publish":true,"permalink":"/K/Karácsony/","title":"Karácsony","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2025-08-27T02:46"}
 ---
 
 
@@ -22,7 +22,7 @@ Amennyiben a Ka szóban valóban a Kapu fogalma van meg, alátámaszthatják a [
 
 Ami karácsony jelentését illeti, Kar-Ács-On Fényt Csináló Ég lehet, hisz ettől a naptól hosszabbodnak a napok, és nem mellékesen, ezen az idő tájt születnek meg a tavaszi napéjegyenlőségkor megfogant történelmi/mitológiai jelentőségű (mitikus) próféták, avatárok (lásd erről ill. magyarázatáról lentebb szereplő Twitterre írt cikket), vagy – kisebb volumenű – fényes elméjű, lelkű Nyilasok.  
 
-Ha a Fényt Csinálás nem tűnne elfogadhatónak, elképzelhető lehetne egy Kar-A-Kon(y) értelmezése is, mely [[K/KON\|Kon]] Nap Nagy Körét jelentené (Csony lehetne éppúgy Kon, ahogy [[C/Csúnya\|csúnya]] Kuna).  
+Ha a Fényt Csinálás nem tűnne elfogadhatónak, elképzelhető egy Kar-A-Kon(y) értelmezése is, mely [[K/KON\|Kon]] Nap Nagy Körét jelentené (Csony lehetne éppúgy Kon, ahogy [[C/Csúnya\|csúnya]] Kuna).  
 Igen, ez idáig elkerülte a figyelmet. A Péterfai János által nehezen azonosítható Csony, úgy tűnik, a Szony (megvan [[A/Asszony\|asszony]] névben is) és Kon(y) variánsa, és szintén Napot jelent.  
 Kar-Á-Csony felbontásban A Magasságos Nap Köre vagy hasonló értelmű lehet. Persze egy ilyen fontos név nyilván sokféleképpen értelmezhető (sok infót, szakralitást hordoz magában).  
 
@@ -34,7 +34,7 @@ Az is lehetséges, hogy a [[K/Kérész\|kérész]] címnél írottak alapján a 
 
 Falvay könyvének 385. oldalán szereplő passzusa nyomán, [[K/Kereszténység\|kereszténység]] és [[B/Boldogasszony\|Boldogasszony]] címnél írottak alapján kimondható, hogy Boldogasszony Bol-Dog nevében ezen Szent Tűz értelem konkrétan a téli napfordulós/karácsonyi szerepköre nyomán alakulhatott ki (de persze, mint alant látjuk, a karácsony szorosan kapcsolódik Szíriuszhoz is).  
 
-Ezen a ponton nem állhatom meg, hogy rámutassak, hogy ezen **Körasszony**[^3] szinte azonosan megvan az óportugál `coraçon` (modern portugál portugál `coração`) és spanyol `corazón` = szív szóban. (Ennek elődjére egy hipotetikus vulgáris latin szót adnak meg.)  
+Ezen a ponton nem állhatom meg, hogy rámutassak, hogy ezen **Körasszony**[^3] szinte azonosan megvan az óportugál `coraçon` (modern portugál `coração`) és spanyol `corazón` = szív szóban. (Ennek elődjére egy hipotetikus vulgáris latin szót adnak meg.)  
 Ezen szavak már előjöttek [[H/Heart\|heart]] címnél is. A Fáy Elek A magyarok őshona c. könyvének 186. oldalán említett közel-keleti [[K/Khoraszán\|Khoraszán]] (melyet biz. Ritter a Nap székhelye[^4] értelemmel ad meg) neve szintén azonos ezekkel (főleg [[K/Kurszán\|Kurszán]] nevével). Milyen mitológiai kapcsolódásokat kell itt látni? Ugyebár karácsonykor (illetve – most már – utána\[?\]) [[S/Szíriusz\|Szíriussz]]al (mely [[H/Heart\|heart]], [[K/Kutya és szív\|kutya és szív]] és [[P/Pilis\|Pilis]] címnél írottak alapján is Tejútközpont(tal való együttállása alapján) = szív) együttállás történik. Ez lenne a közös kapocs?  
 Nos, tehát valójában corazón itt nyilván nem emberi szív, hanem kozmikus központ, Tejútközpont jelentésű. Azaz Körasszony és Karácsony erre az égi területre, az ott történő Napgyermek-szülésre utal.  
 
@@ -310,7 +310,7 @@ A Pálos-rend korábban is megalakulhatott, főleg annak tudatában, hogy beikta
 
 [^6]: Lábjegyzet:  
 [[I/Isten\|Isten]] és [[O/Öregisten\|Öregisten]] címnél és [[K/Király\|király]] címnél is volt arról szó, hogy a ma hímséginek tartott fogalmak valójában mindkét nemre vonatkoznak és kimondottan [[N/Nagyboldogasszony\|Nagyboldogasszony]]ra vonatkoztatható (Öreg/Örök) Isten is.  
-Nagyboldogasszonyra visszatérve, miután igen valószínű, hogy karácsony szavunk előrésze az mely kiadja nemcsak [[C/Create\|create]], hanem [[G/Great\|great]] és a [[G/Gyertya\|gyertya]] címnél állló szavak eredetét is és kimondottan great az, ami itt érdekes azzal, hogy Nagy jelentésű, igen is lehet, hogy Ker-Ata itt nem a Napra utal mégsem. [[K/Kör\|Kör]], [[K/Kér\|kér]], [[K/Kérész\|kérész]], [[K/Kalász\|kalász]], [[K/Kalács\|kalács]] és karácsony címnél egyre inkább a Nagy Istenanya képe jön elő és nem a Nap (nagysága). Még ezen a ponton az is kijelenthető lehet, hogy az Ács, Ász illetve Asszony szavunk előrésze is megfeleltethető [[A/ATA\|ATA]]-val, akár Asza, Acsa vonalon.  
+Nagyboldogasszonyra visszatérve, miután igen valószínű, hogy karácsony szavunk előrésze az mely kiadja nemcsak [[C/Create\|create]], hanem [[G/Great\|great]] és a [[G/Gyertya\|gyertya]] címnél állló szavak eredetét is és kimondottan great az, ami itt érdekes azzal, hogy Nagy jelentésű, igen is lehet, hogy Ker-Ata itt nem a Napra utal mégsem. [[K/Kör\|Kör]], [[K/Kér\|kér]], [[K/Kérész\|kérész]], [[K/Kalász\|kalász]], [[K/Kalács\|kalács]] és karácsony címnél egyre inkább a Nagy Istenanya képe jön elő és nem a Nap (nagysága). Még ezen a ponton az is kijelenthető, hogy az Ács, Ász illetve Asszony szavunk előrésze is megfeleltethető [[A/ATA\|ATA]]-val, akár Asza, Acsa vonalon.  
 
 [^7]: Lábjegyzet:  
 [Ezen](http://www.bandizsuzsanna55.blog.hu/2018/01/31/rovid_kiegeszites_a_magyar_honfoglalas_elso_vezerenek_kerdesehez) oldalon Bándi Zsuzsánna kutató említi ezen nevet és mást is.   
