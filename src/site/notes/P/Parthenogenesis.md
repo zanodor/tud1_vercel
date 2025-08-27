@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Parthenogenesis/","title":"Parthenogenesis","tags":["Englishtexttranslated"],"created":"2023-11-11T12:17","updated":"2025-05-03T11:05"}
+{"dg-publish":true,"permalink":"/P/Parthenogenesis/","title":"Parthenogenesis","tags":["Englishtexttranslated"],"created":"2023-11-11T12:17","updated":"2025-08-27T02:47"}
 ---
 
 
@@ -83,7 +83,7 @@ Legutóbb [[S/Száj\|száj]] és [[K/Kutyanemzés\|kutyanemzés]] címnél szere
 
 [^1]: Lábjegyzet:  
 Magyar Adorján Csodaszarvasában írja:  
-A magyar leány szónak régen szűz értelme is volt. Leány értelme volt az ónémet nyelvben a magd, magda szónak is, csakhogy itten már árja félreértéssel van dolgunk, mert mi tudjuk hogy [[I/Ilona\|Ilona]] Istennőnk épen ellenkezőleg a [[M/Magyar\|magyar]] vagy Magar nevet násza után veszi föl, vagyis amikor már többé nem leány hanem "[[B/Boldogasszony\|Boldogasszony]]."  
+A magyar leány szónak régen szűz értelme is volt. Leány értelme volt az ónémet nyelvben a `magd`, `magda` szónak is, csakhogy itten már árja félreértéssel van dolgunk, mert mi tudjuk hogy [[I/Ilona\|Ilona]] Istennőnk épen ellenkezőleg a [[M/Magyar\|magyar]] vagy Magar nevet násza után veszi föl, vagyis amikor már többé nem leány hanem "[[B/Boldogasszony\|Boldogasszony]]."  
 —  
 Közben [[A/Alma\|alma]] címnél írottakat kicsit kiegészítettük. Az [alábbi](https://en.m.wiktionary.org/wiki/almah#English) oldal adata szerint az angolban ilyen alma/almah néven utaltak egyiptomi énekes/(has)táncos nőre, sőt, prostituáltra is. Utóbbi azért érdekes, mert a [[S/Szajha\|szajha]]/[[K/Kurva\|kurva]] is mindig a Tejútanya tündér/szépasszony-alakja. Mint kiderül ennek a szónak eredetije az arab `ʿālima` = énekes, ahol ugyanez igeként `ʿālima` = tudni (tény, hogy a dalnokok, bárdok is táltosok, azaz mindentudók). Az arab ʿālima eredete talán egy is lehetne a héberével; ki tudja, de azt se feledjük, hogy a tudás fája is almafa volt.  
 Tény, hogy a magyar néphagyományban is az alma kötődik a [[N/Nász\|nász]]hoz, az azt elindító lányhoz.  
