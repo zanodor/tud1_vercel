@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2025-08-27T02:48"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2025-08-27T02:50"}
 ---
 
 
@@ -420,11 +420,10 @@ Az [alábbi](https://www.youtube.com/watch?v=zF2LzLdDRII) Atilla akták 2. rész
 #### Végh Tibor A Szent Korona zománcképein ábrázolt szentek névünnepei naptári sorrendjének egyenes vonalú hálózata...
 
 ...című az Ősi Gyökér 2011/2. sz. megjelent cikkében írja:  
-> A magyar Szent Korona zománcképein ábrázolt isteni (égi) és emberi (földi) személyek láttán nyilvánvalónak tűnik a Szent Korona keresztény jellege. A keresztény hit szerint \[a \[fentebb említett\] unitáriusokat vagy például az eretnek pataréneket kivéve\] Isten 3-személyű. Így, ha a Szent Korona keresztény szellemiségű, akkor elvárható, hogyha 1-nél több isteni személy van megjelenítve rajta (az Atya és a Fiú, avagy a Teremtő és Krisztus), akkor ne csak kettőt, hanem mind a hármat megtaláljuk rajta vagy benne.  
+> A magyar Szent Korona zománcképein ábrázolt isteni (égi) és emberi (földi) személyek láttán nyilvánvalónak tűnik a Szent Korona keresztény jellege. A keresztény hit szerint \[a – fentebb említett – unitáriusokat vagy például az eretnek pataréneket kivéve\] Isten 3-személyű. Így, ha a Szent Korona keresztény szellemiségű, akkor elvárható, hogyha 1-nél több isteni személy van megjelenítve rajta (az Atya és a Fiú, avagy a Teremtő és Krisztus), akkor ne csak kettőt, hanem mind a hármat megtaláljuk rajta vagy benne.  
 > A keresztény hitre vonatkozó meggondoláson felül azt is figyelembe kell venni, hogy a Szent Korona beavató szerepű korona. A beavatáskor pedig a Szentlélek, áldásának közvetítését várjuk tőle, a Szentlélek kiáradását a leendő uralkodó személyére. Ezért nagyon furcsa lenne, ha a Szent Korona a Szentlélekre semmiféle utalást nem tartalmazna.  
 > A Szent Koronán legfelül, a pántok kereszteződésénél a Mindenható Atyaisten képe van, elől középen, az abroncs fölé magasodóan Krisztusé. De hol van a 3. isteni személy, a Szentháromság 3. tagjának, a Szentléleknek a megjelenése a Szent Koronán? Ugyanis olyan óriási rendezettséget, olyan szoros összefüggéseket, olyan feltűnő szabályszerűségeket birtokló alkotásnál, mint amilyen a Szent Korona, méltán tehető fel ez a kérdés. Az első 2 isteni személy, az Atya és a Fiú, emberi alakban is ábrázolható, a Szentlelket azonban nem lehet így ábrázolni. Érthető tehát, hogy olyan képet, mint a meglevők, hiába keresnénk.  
-- VT ezután arról szól, hogy a nyugati keresztény egyházművészetben a galamb szolgált a Szentlélek jelképezésére, nálunk, a régi magyarok és elődeik felfogásában pedig a sólyom. Amihez én teszem hozzá, hogy milyen érdekes, hogy a [[S/Sólyom\|sólyom]] és a [[G/Galamb\|galamb]] sz-előhangos szalambó változatának alakjai meg is egyeznek.
-
+- Végh ezután arról szól, hogy a nyugati keresztény egyházművészetben a galamb szolgált a Szentlélek jelképezésére, nálunk, a régi magyarok és elődeik felfogásában pedig a sólyom. Amihez én teszem hozzá, hogy milyen érdekes, hogy a [[S/Sólyom\|sólyom]] és a [[G/Galamb\|galamb]] sz-előhangos `szalambó` változatának alakjai meg is egyeznek.
 Arra lyukad majd ki, hogy a Szentlelket az egész beavató koronát behálózó sólyomalakú vonalrendszer fejez ki.  
 
 Aztán az Ősi Gyökér 2018/3-4. számában egy egész cikknek ezt a címet adja: A Szent Korona és a Szentlélek. Tulajdonképpen a fentiek ismétlése és kibővített változata.  
@@ -446,7 +445,8 @@ Valószínűleg a későbbi Kusánok, a szasszanida irániak, a Parthusok, és a
 The first Achaemenid king known publicly to have acknowledged "Anāhit(a)." (Az első Achaemenida király, akiről ismert, hogy nyilvánosan elismerte "Anāhit(a)"-t.)  
 
 [^3]: Lábjegyzet:  
-Az ősi Eurázsiában kialakult sajátosan kettős Nagy Istenanya mindenkor és mindenütt nemcsak az embereknek, de minden élőlénynek, a növényeknek és az állatoknak is istenasszonya, úrnője lett. Leánya a földi emberek számára szolgált közreműködőként, mediatrixként, mint azt görög, római párhuzamok is mutatják. \[Írja másutt Falvay Károly.\]  
+Falvay Károly írja:  
+Az ősi Eurázsiában kialakult sajátosan kettős Nagy Istenanya mindenkor és mindenütt nemcsak az embereknek, de minden élőlénynek, a növényeknek és az állatoknak is istenasszonya, úrnője lett. Leánya a földi emberek számára szolgált közreműködőként, mediatrixként, mint azt görög, római párhuzamok is mutatják.  
 
 [^4]: Lábjegyzet:  
 Az a fordulat, ami a kései bronzkorban, mintegy 4-5000 évvel ezel tt megbontotta a két emberi nem szerepköri egyensúlyát, mára mélypontját érte el. A figyelem a ciklikusan megszülető és meghaló "fénygyermek" (férfi) felé fordult, míg korábban az "örökkévalóságot" ténylegesen képviselő szülőanya volt a központ. \[[[Hyperborea-Atlantisz átállás\|[Hyperborea-Atlantisz átállás]] címnél is szerepelt.\]  
