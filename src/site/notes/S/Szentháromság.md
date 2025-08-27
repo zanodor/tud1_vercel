@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2025-08-19T01:07"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2025-08-27T02:48"}
 ---
 
 
@@ -67,15 +67,19 @@ Perzsiában az Achaemenida Artaxerxes II[^2] uralkodó által építtetett szobr
 
 ...című könyvének 135. oldalán iráni, egyiptomi, krétai és magyar párhuzamokra építve írja:  
 > **A legrégibb szentháromság-rendszer az anya-leánya-fiúgyermek hármasság**; e hármas összefüggéséről beszél az iráni, az egyiptomi, a krétai és a mi kultúránk is[^3]. Ez a képzet változott át a bronzkor kései szakaszában[^4] atya-anya-fiú hármasságra, majd a \[judeo-\]kereszténységben teljes férfiúi hármasságra (atya, szentlélek, fiú). A három rendszer változása pontosan követhető emlékeinkben.  
-> ![assets/Szentháromság_image1.png|invert_dark](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image1.png)  
+
+![assets/Szentháromság_image1.png|invert_dark](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image1.png)
+
+{ #250827}
+
 
 Nyilván a [[N/Nagyboldogasszony\|Nagyboldogasszony]] és [[K/Kisasszony\|Kisasszony]] lenne az [[A/Anya#Kettős anyaság\|kettős anyaság]] cím/alcímnél is taglalt két nőiség. 
 A lány az anya fiatalkori önmaga és nem a fiú testvére. A fiú az anya fia: a Nap.  
   
 
-Arról is lehet beszélni, hogy az ősi, csillagászati-kozmikus alapú világkép leginkább az anya-fiú kettősségen alapult (a Napvallások korában az anya jelentősége elhalványult). A kettősségből pedig úgy lesz háromság, hogy a lány az anya fiatalkori énje, míg a fiú felnőve apa lesz (Magorból Hunor-Orion). Ez a fajta szemlélet nyilván kevésbé ismert magyar őskutatási berkekben.  
+Arról is lehet beszélni, hogy az ősi, csillagászati-kozmikus alapú világkép leginkább az anya-fiú kettősségen alapult (a Napvallások korában az anya jelentősége elhalványult). A kettősségből pedig úgy lesz háromság, hogy a lány az anya fiatalkori énje, míg a fiú felnőve apa lesz (Magorból Hunor-Orion). Ez a fajta szemlélet nyilván kevésbé ismert magyar kutatói berkekben.  
 
-Egyébként a magyaroktól árjákhoz került szavakat elnézve Magyar (Ilona) > [[M/Mother\|mother]], Tündér (Ilona) > [[D/Daughter\|daughter]] és Sün/Szony > Sun/[[S/Son\|son]] meg is felelne, de az árják nem olyan régiek. Falvaynak igaza is lehet tehát, de szívesen megnézném azokat az egyiptomi, iráni és krétai istenháromságokat. A mellékelt képek mennyire biztosan azt ábrázolják, amit szeretnénk látni? Magyar részről, Metterciáról lásd itt[^5]. (Egy másik csatolt képen is lásd.)  
+Egyébként a magyaroktól árjákhoz került szavakat elnézve Magyar (Ilona) > [[M/Mother\|mother]], Tündér (Ilona) > [[D/Daughter\|daughter]] és Sün/Szony > Sun/[[S/Son\|Son]] meg is felelne, de az árják nem olyan régiek. Falvaynak igaza is lehet tehát, de szívesen megnézném azokat az egyiptomi, iráni és krétai istenháromságokat. A mellékelt képek mennyire biztosan azt ábrázolják, amit szeretnénk látni? Magyar részről, Metterciáról lásd itt[^5]. (Egy másik csatolt képen is lásd.)  
 ![assets/Szentháromság_image2.png|invert_dark](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image2.png)  
 Még egy pillanatra visszatérve: a [[L/Lány\|lány]]/[[S/Szűz\|szűz]] a későbbi (szülő)anya fiatal önmaga. A lány a magyar nyelvben kettős jelentésű. A germán nyelvekben alakult ki a külön lány (fiatal nő) és a lánya valakinek jelentésű két szó. Igaz, a [[D/Daughter\|daughter]] is éppen az anya fiatalkori tündér/szűz önmagára utal, de ezt már a mai nyelvet használók nem tudják. Ezért is gondolnám, hogy külön a magyar lány-aspektussal nem kellene annyira törődni (dacára a mellékelt mykénéi ábrázolás jelentőségére). [[A/Anya#Kettős anyaság\|kettős anyaság]] cím/alcímnél írottak alapján is a két ábrázolt nő lehet Nagyboldogasszony – Boldogasszony párosa, illetve Boldogasszony – Kisasszony párosa ugye.  
 (Lásd még lány/fiatal nő és szűz jelentésű szavak kapcsolatát és félreérthetőségét [[P/Parthenogenesis\|parthenogenesis]].)  
@@ -83,7 +87,7 @@ A másutt előjövő Falvay Károly által adatolt passzusból kiderül, hogy a 
 ![assets/Szentháromság_image3.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image3.png)  
 [[D/Démétér\|Démétér]] Zeusszal történő nászában inkább a Nagy [[R/Rhea\|Rhea]] Anyának (anyjuknak) a hasonmása volt, aki saját fiával nemzette Perszephonét (más néven a szűz Korét \[= lányt\]), és leányában önmagát szülte újjá. \[Hogy\] erről a misztériumról nyíltan igen keveset meséltek \[érthető is\].  
 
-- Jankovics Marcell írása ugyanerről ([[H/Három istennő\|három istennő]] címnél is szerepelt:  
+- Jankovics Marcell írása ugyanerről [[H/Három istennő\|három istennő]] címnél is szerepelt:  
 > Rhea, Démétér és a Koré időbeli triásza a mezőgazdasági évszakok egymásutánját szimbolizálja. Az "öreg" Rhea a meddő téli földet, az érett Démétér a termőre fordult nyári-őszi földet, az ifjú Koré a magot befogadni kész tavaszi földet.  
 
 Falvay Károly könyve 216-217. oldalán a bolgár Marazov I.: Thrákia és a thrákok című könyvéből idézve írja:  
