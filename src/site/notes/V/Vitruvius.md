@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vitruvius/","title":"Vitruvius","tags":["Englishtexttranslated"],"created":"2023-10-26T03:11","updated":"2025-06-07T18:50"}
+{"dg-publish":true,"permalink":"/V/Vitruvius/","title":"Vitruvius","tags":["Englishtexttranslated"],"created":"2023-10-26T03:11","updated":"2025-08-31T01:56"}
 ---
 
 
@@ -21,7 +21,7 @@ A Molnár V. József Világ-Virág című könyvének 98. oldaláról csatolt k�
 
 #### Robert Graves The White Goddess...
 
-...című könyvének 125. oldalán [[H/Herkules\|Herkules]] haláláról szólva ír a keresztrefeszítés (és/vagy kerékbetörés) azon technikájáról, ahol öt ponton kötözik meg a (Nap)áldozatot:  
+...című könyvének 125. oldalán [[H/Héraklész\|Héraklész]] haláláról szólva ír a keresztrefeszítés (és/vagy kerékbetörés) azon technikájáról, ahol öt ponton kötözik meg a (Nap)áldozatot:  
 > The oak has been lopped until it is T-shaped. He is bound to it with willow thongs in the 'five-fold bond[^1]' which joins wrists, neck and ankles together.  
 
 A [[S/Szakrális geometria\|szakrális geometria]] címnél is említett alak mellett megjegyzendő a [[N/Négyzet\|négyzet]] címnél képpel is jelentkező ülő helyzetű Purusha.  
