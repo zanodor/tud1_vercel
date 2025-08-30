@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Verse/","title":"Verse","tags":["Englishtexttranslated"],"created":"2025-05-01T10:22","updated":"2025-06-20T23:36"}
+{"dg-publish":true,"permalink":"/V/Verse/","title":"Verse","tags":["Englishtexttranslated"],"created":"2025-05-01T10:22","updated":"2025-08-31T01:56"}
 ---
 
 
@@ -19,7 +19,7 @@ Párhuzamot látszik mutatni vele a kelt-ír nyelv is, miután `báire` = versen
 
 A [[V/Varsa\|varsa]] címnél írottakat is lásd: ott arról szóltunk, hogy a varsa (mely akár orsó is lehetne), tökéletesen megfelel az év jelentésének. Körbeforgás a V-R jelentése is.  
 
-Virág Kálmán a sorvégi azonosságokra azt mondja egy verésesek, innen a vers elnevezése. A ver szavunk olyan, mint az üt; sok alapszó ezekből indul ki, Virág Kálmán szerint. Viszont, ahogy üt szónál Nap jelentésű UTU etimont, itt ver szónál BAR (variánsai PUR, PAR, PER) etimont lehet felhozni.  
+Virág Kálmán a sorvégi azonosságokra azt mondja egy verésesek, innen a vers elnevezése. A ver szavunk olyan, mint az üt; sok alapszó ezekből indul ki, Virág Kálmán szerint. Viszont, ahogy üt szónál Nap jelentésű UTU etimont, itt ver szónál BAR (változatai PUR, PAR, PER) etimont lehet felhozni.  
 
 #### Magyar Adorján Csodaszarvas...  
 
