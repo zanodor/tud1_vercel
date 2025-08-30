@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2025-06-08T18:26"}
+{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2025-08-31T01:56"}
 ---
 
 
@@ -73,7 +73,7 @@ Falvay Károly passzusa alapján most már inkább úgy gondolom, hogy [[G/Gula#
 Ur-Gula megjelenne a [[N/Nergal\|Nergal]] címnél is taglalt Nir-Ur-Gula névben, de nyilván etimológiában nem segít (szintén Péterfai János adata):  
 > G. Rawlinson szerint a mezopotámiai hagyományok Amon-kos fiának, a párducfejű turulmadár képével szimbolizált Nimrúdnak két királyi utódot tulajdonítanak. A káld-babiloni pantheon szenthármasságának első tagja Bel-Nimrud, fiai Sin-Magur (Ur), és az asszír nemzetős, Ninip (Ninus). A hagyomány a bibliai Hur (Ur) város megalapítóját, Magurt tartja az öregebbiknek, aki a korabeli feliratokon Nimrud néven is szerepelt, és akit halála után Nir-**ur-gula** ([[N/Nergal\|Nergal]]), vagy szárnyas oroszlánember képében Orion-Arian néven apotheizált.  
 
-Oláh Imre A Nimrud hagyomány című tanulmányában nem akármit állít: [[H/Herkules\|Herkules]] megvolt a suméroknál Urgula-ként! Nos, a nevek egyeztethetők is! Ezzel kellett volna kezdeni. Viszont a [[H/Herkules\|Herkules]] címnél álló eredeztetési kíséreltek is sántítanak. Aztán még ott van annak a kérdése, hogy nemcsak az Oroszlán csillagképnek ismert Ur-Mah – Magur neve, hanem a [[H/Herkules csillagkép\|Herkules csillagkép]] szintén kapott Magorhoz hasonló nevet Robert Brown Jr. adata szerint is.  
+Oláh Imre A Nimrud hagyomány című tanulmányában nem akármit állít: [[H/Héraklész\|Héraklész]] megvolt a suméroknál Urgula-ként! Nos, a nevek egyeztethetők is! Ezzel kellett volna kezdeni. Viszont a [[H/Héraklész\|Héraklész]] címnél álló eredeztetési kíséreltek is sántítanak. Aztán még ott van annak a kérdése, hogy nemcsak az Oroszlán csillagképnek ismert Ur-Mah – Magur neve, hanem a [[H/Herkules csillagkép\|Herkules csillagkép]] szintén kapott Magorhoz hasonló nevet Robert Brown Jr. adata szerint is.  
 És ha már itt tartunk, [[A/Árgyilus\|Árgyilus]] neve is ilyen névalak.  
 Közben [[E/Erkölcs\|erkölcs]] címnél is született egy akkor még sebtiben meg nem szülhető, de azóta logikailag némiképp helyretett írás.  
 
