@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Uttara/","title":"Uttara","tags":["Englishtexttranslated"],"created":"2023-10-17T08:05","updated":"2025-07-14T17:46"}
+{"dg-publish":true,"permalink":"/U/Uttara/","title":"Uttara","tags":["Englishtexttranslated"],"created":"2023-10-17T08:05","updated":"2025-08-31T01:56"}
 ---
 
 
