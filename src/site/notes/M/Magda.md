@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magda/","title":"Magda","tags":["Englishtexttranslated"],"created":"2023-10-21T03:58","updated":"2025-08-27T02:47"}
+{"dg-publish":true,"permalink":"/M/Magda/","title":"Magda","tags":["Englishtexttranslated"],"created":"2023-10-21T03:58","updated":"2025-08-31T02:53"}
 ---
 
 
@@ -22,7 +22,9 @@
 
 > Mindezen Magda, Magdala, Magadda és Megara nevek annyira egyezőek, hogy a véletlent kizárnák még akkor is ha más egyezések nem is kisérnék.  
 > A mi rekonstruálható őshitregéink szerint Magyar Napisten neje és kedvese: Ilona, de akit csak násza előtt neveztek Tündér Ilonának, mivel ősnyelvünkben a Tündér szónak leány és szűz értelme is volt, míg násza után ő a [[M/Magyar Ilona\|Magyar Ilona]] nevet vette föl, ahogy őt a csallóközi leányok bizonyos tavaszi, a házasságról szóló énekeikben napjainkig is nevezték és minthogy a nő a házasságban ma is férje nevét veszi föl.  
-> Világos tehát, hogy mind a fönti nevek Ilona ezen "Magyar" nevéből származtak.  
+> Világos tehát, hogy mind a fönti nevek Ilona ezen "Magyar" nevéből származtak.
+{ #250827}
+
 - A "föntiek" kapcsán lásd [[M/Maid\|maid]].
 
 > Különösen föltünő még a keresztény Magdaléna és a buddhista Magaddai Amra-hitrege egyezése egyebekben is, mert hiszen a Mária és Amra nevek is egymásra nagyon hasonlítanak.  
