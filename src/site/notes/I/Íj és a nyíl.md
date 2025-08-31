@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2025-08-19T00:56"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2025-08-31T02:22"}
 ---
 
 
@@ -106,7 +106,7 @@ Ezt megerősítendő, a latin `porcus` = disznó jelentése mellett éppúgy jel
 #### Bíró Lajos írja:
 
 > [[H/Hérodotosz\|Hérodotosz]] egyik szkíta eredetmondája szerint Héraklész egyszer szkíta földre került, ahol egy asszony-kígyót talált, amelynek felsőteste a farkától felfele asszonyi, az alsó része pedig kígyószerű volt.  
-- [[K/Kígyóistennő\|Kígyóistennő]] = Tejútanya; Héraklész = [[H/Herkules\|Herkules]] = [[M/Magor\|Magor]] = Nap.
+- [[K/Kígyóistennő\|Kígyóistennő]] = Tejútanya; Héraklész = [[H/Héraklész\|Héraklész]] = [[M/Magor\|Magor]] = Nap.
 
 > Végül is a hősnek a kígyóasszonytól 3 fia született, Agathürszosz, Gelónosz és Szküthész[^4] Héraklész egy [[I/Íj\|íj]]at és egy [[O/Öv\|öv]]et (amelynek csatjáról aranycsésze csüngött le – alighanem a Napot és a Nappályát jelképezhette ez) adott át az asszonynak, hogy majd csak az a fia legyen annak a földnek a lakója, amelyik úgy képes felajzani az íját és felövezni magát, mint ő. Erre csak a legkisebbik fiú, Szküthész volt képes.  
 - [[R/Rózsa vitéz mese\|Rózsa vitéz mesé]]beni analógiákért lásd [[R/Rózsa\|rózsa]].
@@ -297,7 +297,7 @@ Roger Ascham Toxophilus című könyvéről másutt (lásd Végvári József ír
 > Az Ikrek havának olümposzi védnöke, Apollón (latin Apollo) elsősorban napisten volt, vagy legalábbis annak egy formája (magát az égitestet a görögök Héliosz néven tisztelték). Neve, amennyiben görög eredetű, talán az apolluó, "megsemmisít" jelentésű igéből ered. Az elbeszélések alapján is úgy tűnik, hogy elsősorban a Nap perzselő, pusztító aspektusát képviselte \[inkább ápolót: a nevében is benne van\]. Mivel a Nap gyilkos sugarai úgy szúrnak, mint a nyilak, Apollónt íjásznak képzelték, "messzenyilazónak", aki a hirtelen halál istene volt. Íja talán az az ókori csillagkép volt, mely épp az Ikrek cikkelyében látható (Nagy Kutya-Hajótat; lásd még erről [[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]]).  
 >
 > Egy másik, célba talált csillagnyíl az Orion oldalából áll ki: ezt az Orion övével azonosították. Az európai műveltségben az állatövi Nyilas ([[S/Sagittarius\|Sagittarius]]) a legismertebb égi "nyilas", ő viszont láthatatlan januárban, mivel ekkor a Nap épp az ő házában tartózkodik.  
-> A Nyilas szomszédságában látható továbbá a térdelve nyilazó [[H/Herkules csillagkép\|Herkules csillagkép]], a görög mitológia nagy íjászának, [[H/Heraklész\|Héraklész]]nek a képmása. Kilőtt nyila, a kis Nyíl csillagkép a Nyilas és a Bak cikkelyének a határán, a Sas és a Hattyú között suhan az égen.  
+> A Nyilas szomszédságában látható továbbá a térdelve nyilazó [[H/Herkules csillagkép\|Herkules csillagkép]], a görög mitológia nagy íjászának, [[H/Héraklész\|Héraklész]]nek a képmása. Kilőtt nyila, a kis Nyíl csillagkép a Nyilas és a Bak cikkelyének a határán, a Sas és a Hattyú között suhan az égen.  
 > A nyílvessző lesből érkező, váratlan halált hozó fegyver. Jelképként is sokszor ilyen értelmű – még napsugárként is a Nap ártó sugarait jelképezte, s [[C/Cupid\|Cupid]]o nyila is a "halálos" szerelem mérgébe volt mártva. A mítoszok számos hőse esett áldozatul orgyilkos nyílvesszőnek, vagy nyíl végzett velük vakeset folytán, a balsors küldötteként.  
 > Nyíl volt régen a sorshúzás eszköze és a népmesékben is a végzeté, istenítéleté (a magasba lőtt nyíl a bűnös fejére visszahullva tesz igazságot). A klasszikus kortól a fertőző betegségek, elsősorban a pestis láthatatlan hordozóját jelképezte, s a Halál attribútuma volt a később általánossá váló kasza helyett. Az ószövetségi szövegek az Úr nyilait tekintik a halál eszközének.  
 >
@@ -587,7 +587,7 @@ Allen's old-fashioned spelling 'Iswara' is a reference to the word 'Ishvara'. Th
 \[Richard Hinckley\] Allen \[a Star Names, Their Lore and Meaning\ szerzője] hozzáteszi: "Az egyiptomi történet szerint ez volt az a bárka, amely Isist és Osirist átvitte az özönvíz felett; míg a hinduk úgy gondolták, hogy ugyanezt a feladatot látta el az ő megfelelőik, Isi és Iswara számára."  
 Allen régies írásmódja, az "Iswara" az "Ishvara" szóra utal. A szanszkrit `ishu` szó jelentését tanulmányozva, amely alapvetően 'nyílvesszőt' jelent, néhány érdekes tényt lehet megtudni. Emlékezzünk vissza az íjnak és a nyílvesszőnek a Szíriusszal való kapcsolatára mind az egyiptomiak, mind a kínaiak körében. (További példákat találunk a Hamlet malma című könyvben, érdekes illusztrációkkal együtt.) Most jegyezzük meg Monier-Williams meghatározó szanszkrit szótárából, hogy az `ishu` nemcsak 'nyílvesszőt', hanem 'fénysugarat' is jelent. Az `ishvasa` jelentése 'íj' vagy 'íjász'. Emlékezzünk a három istennőre, és jegyezzük meg ezt is: az Ishustrikanda, ami szó szerint azt jelenti, hogy 'a háromszoros nyíl', kifejezetten egy csillagkép neve! Monier-Williams szerint 'talán az [[O/Orion övcsillagai\|Orion övé]]t' jelenti (amelynek három kiemelkedő csillaga van). Az érdeklődő olvasónak a Santillana és von Dechend által írt Hamlet's Mill című könyvben kell olvasnia a Szíriusz, az Íj csillagáról szóló részletes tárgyalást.  
 ——  
-Az `ishu` mellett a szanszkritban szintén nyílvesszőt jelentő `बाण` (bāṇa) [[M/Mul.Pan\|Mul.Ban]] címnél is említésre került, mely ugyanígy a hindiben is megjelenik; egy másik szó a hindiben `तीर` (tīr), mely azonos a pártus-perzsa [[T/Tír\|tír]] szóval azonos.  
+Az `ishu` mellett a szanszkritban szintén nyílvesszőt jelentő `बाण` (`bāṇa`) [[M/Mul.Pan\|Mul.Ban]] címnél is említésre került, mely ugyanígy a hindiben is megjelenik; egy másik szó a hindiben `तीर` (`tīr`), mely azonos a pártus-perzsa [[T/Tír\|tír]] szóval azonos.  
 A szanszkrit `ishvara` = úr jelentéssel megadott. Tulajdonképpen az úr szavunk vara változatának egy ős szóval való megfejelése. Lásd még bővebben [[I/Isa#^gtx66\|isa]] címnél.  
 
 [^15]: Lábjegyzet:  
