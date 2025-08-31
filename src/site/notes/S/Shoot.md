@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Shoot/","title":"Shoot","tags":["Englishtexttranslated"],"created":"2024-11-05T19:18","updated":"2025-06-07T19:14"}
+{"dg-publish":true,"permalink":"/S/Shoot/","title":"Shoot","tags":["Englishtexttranslated"],"created":"2024-11-05T19:18","updated":"2025-08-31T02:53"}
 ---
 
 
@@ -91,7 +91,7 @@ Zajti Ferenc Zsidó volt-e Jézus c. könyvének XXI. fejezetében tárgyalja a 
 - Ezek az szóformák más értelmezésekhez vezetnek; úgy mint kb. Égi-Sas, Égi-Süs. A Sution forma nyilván a [[S/Süt\|süt]] igét tartalmazza, viszont hasonló a [[S/Szutek\|Szutek]] címnél taglalt nevekhez is.
 
 A német szóval is egyező [[S/Süt\|süt]] szavunk is kiadhatja, ami (fegyvert) elsüt alakjában egyértelmű:  
-Süt az üt szavunkkal is fogalmi és hangtani rokonságban van, hiszen [[U/UT\|UT]] = Nap forró, tüzes nyilait süti, lövelli a Földre (ezért is hasonlították [[S/Sün\|sün]]höz, mely ismét a süt igevariánsa lehet, ahogy [[T/Tesz\|tesz]]-nek [[T/TEN\|ten]]). Hogy a süt egyúttal értékelhető az [[U/Üt\|üt]] s-előtétes variánsaként, elárulja, hogy a japán `ute` is lő jelentésű és üt szavunkkal azonos.  
+Süt az üt szavunkkal is fogalmi és hangtani rokonságban van, hiszen [[U/UT\|UT]] = Nap forró, tüzes nyilait süti, lövelli a Földre (ezért is hasonlították [[S/Sün\|sün]]höz, mely ismét a süt igevariánsa lehet, ahogy [[T/Tesz\|tesz]]-nek [[T/TEN\|ten]]). Hogy a süt egyúttal értékelhető az [[U/Üt\|üt]] s-előtétes változataként, elárulja, hogy a japán `ute` is lő jelentésű és üt szavunkkal azonos.  
 
 Ahogy [[S/Sut\|sut]] címnél is szerepelt, `sujt` szavunk is van, de ez már közelharci fegyverre utal. Magyar Adorján is szóba hozza, de az elsülést:  
 > Volt már föntebb szó arról, hogy a sündisznót népünk sül-disznónak is nevezi, amely szóalak nem a tűzöni sülni, sütni igéből származik hanem abból hogy a sül, sil, sul szóalak tüske, tövis, valaminek szúrni képes hegye és tű értelmű volt, aminthogy a szerb-horvátban is `silyak` = valaminek tűszerű, szúrni képes hegye. Amely s-l szóalaknak viszont r-es kiejtéssel pontosan megfelel szúr, szúrní, szurkálni igénk. Ide tartozó tehát sulyom szavunk is, amely egy vízinövény tüskés termését jelenti, sülfü pedig egy szúrós fűféle neve, valamint fölhozandó, hogy a finnben `süu` (sziili) = sündisznó. Mindezek alapján aztán következtetnünk kell, hogy nyil szavunk párhuzama ként a nyíl szolim-szarmata neve is szil avagy sil szóalak volt. De következtethető még az is, hogy őseink már a nyíl ellövését is elsülésnek avagy elsüllésnek nevezték (amihez egyébként elszállás szavunk is hasonlít), amely szó eszerint csak utóbb, a mai lőfegyverek korában lett a tüzzel, tüzelő elsüléssei kapcsolatba hozva. Úgyhogy ezek szerint az ll-es elsüll szó értelme elillan, elröppen, elindul is volt.  
