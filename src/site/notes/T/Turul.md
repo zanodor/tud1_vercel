@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","created":"2024-12-18T11:38","updated":"2025-08-20T18:36"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2025-08-31T02:37"}
 ---
 
 
@@ -10,7 +10,7 @@ Ipolyi Arnold Magyar mythologia című könyvének 305. oldalán szól róla.
 #### Péterfai János írja:
 
 > A [[M/Madár\|madar]]ak közül is sok szakrális volt, a szakralitásuk a nyugati magyar elképzelésekhez kapcsolódtak. A Turul a Nap-Rul való madár, a Turul-ház jelképe. A Turul-házból kapott Európa minden minden királyi háza hercegnőt, az Árpád-ház téves megnevezés, mivel az árpádháziak is mind turulháziak. A Turul-ház olyan hatalmas királyi család, amelyhez nincs mérhető, és még senki sem dolgozta fel a történetüket.  
-> A Turul lehet Sas vagy [[S/Sólyom\|sólyom]], a régi ábrázolások szerint. [[A/Atilla hun király\|Atilla]] madara a Turul volt.  
+> A Turul lehet Sas vagy [[S/Sólyom\|Sólyom]], a régi ábrázolások szerint. [[A/Atilla hun király\|Atilla]] madara a Turul volt.  
 - Falvay Károlynál kerecsensólyom-szerű vadászmadár, Aczél Józsefnél lármás sas a turul.
 
 ![assets/Turul_image1.jpeg](/img/user/T/assets/Turul_image1.jpeg)  
@@ -51,7 +51,8 @@ Ha már itt az Anzu szóba került, ez a név annál az [[I/Imdugud\|Imdugud]] c
 > E szócsoportba tartozik Turul szavunk a térül, gurul szavakkal együtt, s ezek az önmagába visszatérő körmozgással kapcsolatosak. Ezek a szavak szép napunk napontai útjának, visszatérésének folyamatát szemléltetik éppen úgy, mint a Nap jelképének, a köröző, térülő-forduló vadászsólyomnak, a Turul madárnak a röpte is. [[A/Arthur\|Arthur]] neve tulajdonképpen Turkát, azaz bikát, tehát Bika embert, Tűz embert, Nap embert jelent, s szerepének a visszatérés szerves része. (V.5) A magyar [[T/Tárkány\|Tárkány]] naptiszteleti méltóságnév és az etruszk származású [[T/Tarquinius\|Tarquinius]]ok nevének eredete is ide vezet. E gondolatkör a Túr folyó nevében és számos magyar helységnévben mentődött át a jelenbe. Néhány Kárpát-medencén kívüli példát felhozva ide tartoznak az angol [[T/Turn\|turn]] (fordul), `return` (visszatér), az angol-francia `tour`, a spanyol `toro` (bika; azaz Taurus is asztrális állatnév!) és `tornare` (visszatér) szavak. A Földközi tenger melletti Tarsus, az olasz Turin, a francia Tours városnevekben ősi naptiszteleti helyeket sejtek, annál is inkább, mert a bikaszarvat tartó földanya domborműve, kit bátran nevezhetünk Turán, Túr-anya első ábrázolásának, Nyugat-Európában maradt fenn a legkorábbi kőkorszakból.  
 
 Tomory Zsuzsának a Gyárfás Ágnes által [[U/Újév\|újév]] és [[K/Kalács\|kalács]] címnél taglalt, a mellékelt képen is látható témáról kellett volna beszélnie, de mivel Magyar Adorján nem tette – hisz ő csak az északi-sarki napjárásról készített rajzot (lásd [[H/Hyperborea\|Hyperborea]]; másik rajzát [[O/Obeliszk\|obeliszk]]) – így ő sem tette.  
-![assets/Turul_image4.png|invert_dark](/img/user/T/assets/Turul_image4.png)  
+![Turul_image20250829221119173.jpeg|invert_dark](/img/user/T/assets/Turul_image20250829221119173.jpeg)
+
 Ez a fajta [[C/Csigavonal\|csigavonal]]ú spirális mozgás az, amit a turul igeként kifejez.  
 
 [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] A nevek titka című írásában közli, hogy [[F/Firdauszi\|Firdauszi]] a Királyok Könyve című művében ír a **Tugral** nevű madárról, amit a perzsák nagy királya Bahram Gúr kap ajándékba a kínai császártól. Ez a madár Devecseri Gábor előszavában is egy hatalmas sólyom, ami képes elkapni akár egy leopárdot is! Mind a madár neve és jellemzői a magyar Turult idézik, amely mitikus madár a türk népeknél toghrul formában jelenik meg.  
@@ -73,7 +74,12 @@ Lásd a csatolt képet Badiny Jós Ferenc Káld-pártus hagyomány című könyv
 Badiny Jós Ferenc Turul, Karácsony napmadara című Ősi Gyökér 2004/4. sz. megjelent cikkében Szöllősi Sándor költő intuíciós képességét méltatja, amikor az a Napisten képmását látja benne. Már fentebb is megállapítottuk, hogy a téli napfordulós Napistenről van szó ([[E/Emese\|Emese]] szülöttje, [[A/Álmos\|Álmos]] is így mitológiai értelemben akkor születik). Itt már csak az a dolgunk, hogy a Nap nevét megkeressük a névben.  
 A Nap [[T/TU\|TU]] nevét ismerjük, de itt a Tur-Ul tagolás tűnik célravezetőbbnek; ugyanakkor Tu-Rul, [[R/Roll\|roll]] címnél írottak alapján, szintén értelmes.  
 Legutóbb [[T/TUR\|TUR]]-nál írottak alapján biztosan Tur-Ul felbontása alapján értelmezhető.  
-Turul olyan alkotású tehát, mint fordul, de hasonló a [[G/GUR\|GUR]]-nál említett `gurul` is. A szóvégi [[L/L\|L]] igeképző, és az [[U/U\|U]] kiejtéskönnyítő átkötő hang.  
+
+Turul olyan alkotású tehát, mint `fordul`, de hasonló a [[G/GUR\|GUR]] helyen említett `gurul` is. A szóvégi [[L/L#L igeképző\|l igeképző]], és az [[U/U\|U]] kiejtéskönnyítő átkötő hang.  
+
+> [!check]+ &nbsp;
+> Ha magyar eredetű a név, a szóvégi l miatt lehet arra gondolni, hogy ez már igeként értelmezendő.
+
 Másutt, több helyen a Turulnak Kurul olvasatát is láttuk. A szingaléz nyelvben `kurullā` = madár.  
 
 Igen ám, de nekünk nem igéket kell keresni, hanem főneveket. Mi lehet akkor [[U/UL\|ul]] értelme itt?  
@@ -95,15 +101,18 @@ Mondtam volna még azt is, hogy nem kell mindenáron fordul jelentéshez napford
 
 Valójában Gyárfás Ágnes Badiny Jós Ferenc Turul, Karácsony napmadara című Ősi Gyökér 2004/4. sz. megjelent cikkének anyagát már ismerhette korábban, aki szintén a sumér `TUR` = fiú értelméből indul ki. [[T/Tura\|Tura]] címnél is volt szó fiúról.  
 Ahogy Badiny elővezeti ([[N/Nap#Nap fia\|nap fia]] cím/alcímnél is megvolt):  
-Úgy véljük, mindenki ismeri az ázsiai hagyományokat, ahol a kínai császárok, a japán uralkodó, és a hun-királyok is királyi titulusként viselték a. "NAP FIA" címet. Az egyiptomi fáraók is hasonlóképpen. A magyarsághoz vonatkoztatható mezopotámiai kultúrkörökben ugyanezt találjuk és éppen LUGAL-ZAG-GI-SI nevű sumir király kultikus poharának a feliratában – mint király titulust: "NAPISTEN KUS-A".  
+> Úgy véljük, mindenki ismeri az ázsiai hagyományokat, ahol a kínai császárok, a japán uralkodó, és a hun-királyok is királyi titulusként viselték a. "NAP FIA" címet. Az egyiptomi fáraók is hasonlóképpen. A magyarsághoz vonatkoztatható mezopotámiai kultúrkörökben ugyanezt találjuk és éppen LUGAL-ZAG-GI-SI nevű sumir király kultikus poharának a feliratában – mint király titulust: "NAPISTEN KUS-A".  
+
 Amit én ott írtam:  
-[[N/Nép\|Nép]] címnél és másutt is volt szó őseink leszármazási felfogásáról. Isten a teremtő a legelső ős. Csillagkép alakja Orion, az Égisten, kinek fia a Nap, kinek fia vagy mása a [[K/Király\|király]]: mindenképpen a feladatkörét látja el és a neve is megfelelő (**király és Turul is azonosnak vehetők**).  
+[[N/Nép\|Nép]] címnél és másutt is volt szó őseink leszármazási felfogásáról. Isten a teremtő a legelső ős. Csillagkép alakja Orion, az Égisten, kinek fia a Nap, kinek fia vagy mása a [[K/Király\|király]]: mindenképpen a feladatkörét látja el és a neve is megfelelő (**a király és Turul nevek azonosnak vehetők**).  
 Badiny úgy folytatja, hogy a fentebbi információját is beleveszi:  
-A TUR-UL névben TUR – "ifjú" jelentésű (L 144) és UL – "pompásan fénylő". (L 441) TURUL ... értelme ... "az ifjú fény"..., és a sumir hitvilágban ez a hivatalos neve a téli napfordulóval új erőre kapó Napistennek, akinek ezen a napon a "leggyengébb" az ereje. Láthatjuk, hogy TURUL valóban a Napistent, vagyis jobban mondva – az ÚJ ERŐRE TÁMADÓ NAPISTENT értelmezi.  
+> A TUR-UL névben TUR – "ifjú" jelentésű (L 144) és UL – "pompásan fénylő". (L 441) TURUL ... értelme ... "az ifjú fény"..., és a sumir hitvilágban ez a hivatalos neve a téli napfordulóval új erőre kapó Napistennek, akinek ezen a napon a "leggyengébb" az ereje. Láthatjuk, hogy TURUL valóban a Napistent, vagyis jobban mondva – az ÚJ ERŐRE TÁMADÓ NAPISTENT értelmezi.  
+
 Ahogy [[T/TUR\|TUR]] címnél is írtam, a fiú és Nap jelentések megegyeznek (ráadásul mindig a Nap az eredeti) és vélhetően a sumér (IE nyelvészek által? megállapított? vagy akkád nyelvből fordított?) jelentés (amennyiben helyes) a [[S/Szentháromság\|Szentháromság]] képzetéből indul ki. Tehát amikor Badiny a sumér szóval magyarázza a Turul név eredetét, nem látja be, hogy éppen ebből a névből vagy a [[T/Turán\|Turán]] névből hozta létre a későbbi sumér nyelv! A későbbi nyelvből nem lehet a régebbi nyelvet magyarázni!  
 Badiny szövegének folytatását lásd lejjebb Csudaszarvas résznél, a Ninhursag templomáról készült képnél.  
-Ne hagyjuk ki az általam zseniálisnak tartott Bobula Idát sem, aki Sumir-magyar rokonság című könyvében írja [[B/Bau\|Bau]] résznél:  
-Az ősi ábrázolások némelyikén feltűnik a Nagyasszony mellett az úgynevezett "lagashi címer" állata, a kiterjesztett szárnyú napmadár, a mindig visszatérő fényes sas. Gondoljunk a régi Árpád-címer és eredetmondánk turul madarára. A sumír TUR szó visszatérést, megifjodást jelent, az UL pedig életerőt.  
+Ne hagyjuk ki Bobula Idát sem, aki Sumir-magyar rokonság című könyvében írja [[B/Bau\|Bau]] résznél:  
+> Az ősi ábrázolások némelyikén feltűnik a Nagyasszony mellett az úgynevezett "lagashi címer" állata, a kiterjesztett szárnyú napmadár, a mindig visszatérő fényes sas. Gondoljunk a régi Árpád-címer és eredetmondánk turul madarára. A sumír TUR szó visszatérést, megifjodást jelent, az UL pedig életerőt.  
+
 Így van. Bobula Ida jól mondja: a visszatérés fogalmából lesz az újjászületés, megifjodás és ifjú, fiú értelem. Az UL = UR vagy inkább ÉL = élet azonosságot pedig a szokásos magánhangzó-harmóniának kell betudni.  
 És ahogy az árja nyelvekben az új fogalmát Nap szavunkból alkotja, úgy a visszatérés is a Nap [[T/TU\|TU]] nevéből képződik -l helyett -r igeképzővel.  
   
@@ -113,7 +122,7 @@ Akár Turul-ban a [[T/Töröl\|töröl]] értelme is meglehet, hiszen tiszta lap
 
 Ami a keltában isteni, a germánban már bűnös, ahogy [[T/Trull\|trull]] = kurva címnél kiderül.
 
-Ami az alant még hollóval kapcsolatba hozott [[U/Ullu\|Ullu]]-t illeti, lásd hindu kapcsolatokat is említve ott (ül, ülepedik szavainkhoz lesz köze; vegyük észre, süly is az ül előtétes variánsa). Összefoglalást lásd [[B/Bak-Rák tengely\|Bak-Rák tengely]] címnél.  
+Ami az alant még hollóval kapcsolatba hozott [[U/Ullu\|Ullu]]-t illeti, lásd hindu kapcsolatokat is említve ott (ül, ülepedik szavainkhoz lesz köze; vegyük észre, süly is az ül előtétes változata). Összefoglalást lásd [[B/Bak-Rák tengely\|Bak-Rák tengely]] címnél.  
 Lásd még [[T/Turn\|turn]]. [[S/Szimurgh\|Szimurgh]] címnél is esett róla szó, Tóth Gyula révén (azt írja, nem madár, hanem sárkány: mindkettő Nap-szimbólum).  
 
 Legutóbb [[K/Konyul\|konyul]] szónál szóltunk arról, hogy Kon-Ul értelmére és képzésére nézve is hasonló Turullal és talán a hunok szava lehetett a "[[K/Keresztre feszített Nap\|keresztre feszített Nap]]" mozgási irányának megváltozására; konyul utalhat a [[G/Göncöl\|Göncöl]]szekér farkának konyulására is).  
@@ -221,13 +230,20 @@ Lentebb Pintye Mihály kettős fejedelemség témája is részint ide tartozhat,
 
 ...című az Ősi Gyökér 2011/2. és 3. sz. megjelent dolgozatában írja:  
 > A magyar nép jelkép-rendszerében meghatározó a madár, a [[S/Szarvas\|szarvas]] és a [[T/Tulipán\|tulipán]]. A [[M/Madár\|madár]] az égi kapcsolat jele – az ókereszténységben is a lélek előképe – a Szentlelket (Szent Szellemet) pedig a [[G/Galamb\|galamb]] jelképezi. A szkítáknál jellemzően a női fejfedőkön látható. A Nagyszentmiklósi kincs 2. sz. korsójának mitologikus madara \[ami, mint látjuk, inkább [[G/Griff\|griff]]\] a termékenység-istennő kísérője[^1].  
-> \[[[Turul#Turul-monda\|Turul-monda]] alcímnél taglalt\] Eredetmondánk szerint [[E/Emese\|Emese]] ősanyánkat is egy reá szálló sas- ill. sólyomféle madár, a turul termékenyítette meg.  
+> \[A [[T/Turul#Turul-monda\|Turul-monda]] alcímnél taglalt\] Eredetmondánk szerint [[E/Emese\|Emese]] ősanyánkat is egy reá szálló sas- ill. sólyomféle madár, a turul termékenyítette meg.  
 > ![assets/Turul_image14.jpeg](/img/user/T/assets/Turul_image14.jpeg)  
 > Ennek párhuzamaként Végh Tibor A Szent Korona zománcképein ábrázolt szentek névünnepei naptári sorrendjének egyenes vonalú hálózata című az Ősi Gyökér 2011/2. sz. megjelent cikkében írja, hogy a nyugati keresztény egyházművészetben a galamb szolgált a Szentlélek jelképezésére, nálunk, a régi magyarok és elődeik felfogásában pedig a sólyom.  
 
 Amihez én teszem hozzá: milyen érdekes, hogy a [[S/Sólyom\|sólyom]] és a [[G/Galamb\|galamb]] sz-előhangos `szalambó` változatának alakjai meg is egyeznek. Az a felfogás, hogy a durvább lelkű népeknél jelenne meg a sólyom és a finomabb lelkűeknél a galamb, azért veszélyes kijelentés, mert a szemiták/zsidók kisajátították a jelképeinket (a szkítákhoz képest a vérengző szemiták nehogy már finomabb lelkűeknek bizonyuljanak).  
 
 Még visszatérve a fenti témára, téridőbeli helyét tekintve is stimmel a turul, hiszen a Nap ([[J/Jézus\|Jézus]]ként is minden ember égi-földi megfelelője, vezérlője, mintát adója vagy atyja) feltámadása ekkor, a téli napfordulón történik.  
+
+## Turul = Jézus
+
+A fenti alcím változataként vehető.  
+Tomory Zsuzsa írja az alábbiakat is:  
+> A Turul a lélek-élet kapcsolat szent hírnöke, maga az Élet, kit népünk imái "fényös Jézus"-nak neveznek. Egy kiragadott példa szerint (V.8:459):  
+> "Én mellettem egy égen ülő madár van, közepében Krisztus Urunk...  
 
 ## Tur/Turul mint szarvasfiú
 
@@ -319,8 +335,8 @@ Az alábbi passzus Nagy J-től, a [[M/Magyar térrendezés\|magyar térrendezés
 
 > [!fail]+ &nbsp;
 >
-> A turulmadár ősapának vétele hiba, mert a szarvassal együtt ábrázolva a megszülető Napisten (Magyar/Magor) látandó benne.
-- Persze akkor, hogy ha a szarvas évkörben értelmezett. Amennyiben a madár már a lélek hordozója, lehet hímségként gondolni rá, olyan összefüggésben, hogy a szarvas már a teremtett világ, az anyagi világ, a földközpontú, materiális világ megjelenítője. Az [[S/Szarvas#^250529\|ordoszi szarvas]]ban ha csak a lábai alatt látható földet vesszük figyelembe, már állat-szarvasként (holott a szarvas szimbólum, és az égre vonatkozik), akkor lenne értelme Nap (madár) – Föld (szarvas) párosításban gondolkodni.
+> A turulmadár ősapának vétele hiba, mert anyjával, a szarvassal együtt ábrázolva a megszülető Napisten (Magyar/Magor) látandó benne.
+- Persze akkor, hogy ha a szarvas évkörben értelmezett. Amennyiben a madár már a lélek hordozója, lehet hímségként gondolni rá, olyan összefüggésben, hogy a szarvas már a teremtett világ, a földközpontú, anyagi világ megjelenítője. Az [[S/Szarvas#^250529\|ordoszi szarvas]]ban ha csak a lábai alatt látható földet vesszük figyelembe, már állat-szarvasként (holott a szarvas szimbólum, és az égre vonatkozik), akkor lenne értelme Nap (madár) – Föld (szarvas) párosításban gondolkodni.
 
 > [!check]+ &nbsp;
 >
@@ -526,14 +542,7 @@ Lásd alant.
 
 Ez a téma (képi ábrázolásokat lásd [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél) Dúcz László Szent madarunk a Turul című tanulmányában írottak olvasása közben is eszembe jutott:  
 ![assets/Turul_image37.jpeg|invert_dark](/img/user/T/assets/Turul_image37.jpeg)  
-Ahmed Vefik szótára szerint a "Toghrul" a legelőkelőbb fejedelmi jelvény volt az oguzoknál, akik már Atilla idején is hun fennhatóság alatt éltek. A hunok ismerték és használták a Turult, mint jelképet – erről Kézai meg is emlékezett –, fennmaradt egy hun fejedelmi jelvény, egy arany Turul. Ezt a jelzést a szasszanida uralkodók is alkalmazták. Először II. Hormuzd (i.sz. 457-459), majd II. Khoszrau és II. Jazdagird is. Igaz többnyire *egyszerűsítve, mert a király koronáján szárnyak jelennek meg,* mint isteni küldetésű uralkodóknak. Bahram Gur (i.sz. 421-438, Atilla kortársa) szasszanida uralkodó kapott egy tughralt, mint solymászmadarat. Külleméről leírás nem maradt, de bizonyos, hogy utándobásból (ökölről indítva) használatos madár volt. Mohamed el Bardzsini solymász könyvében a toghrult tartja a legjobb solymászmadárnak, bár szerinte olyan ritka, hogy sehol sem található. Vagyis, van bizonyos titokzatos vonása.  
-
-## Turul = Jézus
-
-A fentebb már szereplő [[T/Turul#Turul mint Szentlélek\|Turul mint Szentlélek]] alcím variánsaként vehető.  
-Tomory Zsuzsa írja az alábbiakat is:  
-> A Turul a lélek-élet kapcsolat szent hírnöke, maga az Élet, kit népünk imái "fényös Jézus"-nak neveznek. Egy kiragadott példa szerint (V.8:459):  
-> "Én mellettem egy égen ülő madár van, közepében Krisztus Urunk...  
+> Ahmed Vefik szótára szerint a "Toghrul" a legelőkelőbb fejedelmi jelvény volt az oguzoknál, akik már Atilla idején is hun fennhatóság alatt éltek. A hunok ismerték és használták a Turult, mint jelképet – erről Kézai meg is emlékezett –, fennmaradt egy hun fejedelmi jelvény, egy arany Turul. Ezt a jelzést a szasszanida uralkodók is alkalmazták. Először II. Hormuzd (i.sz. 457-459), majd II. Khoszrau és II. Jazdagird is. Igaz többnyire *egyszerűsítve, mert a király koronáján szárnyak jelennek meg,* mint isteni küldetésű uralkodóknak. Bahram Gur (i.sz. 421-438, Atilla kortársa) szasszanida uralkodó kapott egy tughralt, mint solymászmadarat. Külleméről leírás nem maradt, de bizonyos, hogy utándobásból (ökölről indítva) használatos madár volt. Mohamed el Bardzsini solymász könyvében a toghrult tartja a legjobb solymászmadárnak, bár szerinte olyan ritka, hogy sehol sem található. Vagyis, van bizonyos titokzatos vonása.  
 
 ## Lengyel mond(t)a...
 
