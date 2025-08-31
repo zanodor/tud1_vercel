@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Árész/","title":"Árész","tags":["Englishtexttranslated"],"created":"2024-01-23T03:59","updated":"2024-10-22T22:24"}
+{"dg-publish":true,"permalink":"/A/Árész/","title":"Árész","tags":["Englishtexttranslated"],"created":"2024-01-23T03:59","updated":"2025-08-31T02:06"}
 ---
 
 
@@ -27,7 +27,7 @@
 > Az Ertag nevet (Mars napja) már Aventin Erich tagból magyarázta, mint Schneller bajor szótára feljegyzi = Arestag (l. Deutsche myth. von Grimm 2. Aug. 1841. és Jahrb. für wis. kritik Sept. 1845. Nro 51. Allg. Lit. Zeit. 1841. Junius Nro 107). Schrader igy ir: "dies Martis Tyr dagr skandin." Schvab földön Ziestag (Zio névből) Bajor földön Erictac, Ectag régi runa alphabetek kéziratában, Zin, Eor, Ear, Aer = Mars isten (German Myth. p. 152). Schmidt schváb szótára Erichtag, Eridag, Jardag, Zisba ausztriai idioticonja Earchdô, Eardô, Jardô, Erichtag szóformákat közöl (W. J. XXV.B. A. Blatt p. 13). Grotefen szerint Erek, Erich mindegy, a bajor Hercules neve is Aryle, Aergle, mely Aventinben meg van, csak egyre megy ki (Schmidt 1. c. p. 171.). ([Lásd 313. old.](zotero://open-pdf/library/items/DFI47XPY?page=313&annotation=EN86IJAJ))
 - Az **Erik** név innen akkor = erős = hadisten = Mars (vö. örmény `arik` = hős, vitéz). Az -ik/ig végződés az arabban is a mi -os, -as végződésünknek felel meg.  
 [[E/Earl\|Earl]] gyöke is innen jönne akkor.  
-Akkor [[H/Herkules\|Herkules]] nevét is itt kell keresni. Herkules nagyon is lehet Mars-Nap név.
+Akkor [[H/Héraklész\|Héraklész]] nevét is itt kell keresni. Herkules nagyon is lehet Mars-Nap név.
 
 > Hogy már a német `Erich`, `Erek`, csak az örmény `arik` = hős, vitéz ar, er, törzsből (= ér = érő, Hesychius `erros` Zeus neve `εττος`) kételkedni sem lehet, csak azon ellenvetést tehetni, hogy az Ertag, Erichtag nem maga az ördög neve, hanem dies Martis, igy van a dolog a török `Urtag` hegy névvel is, mint fölebb láttuk (Urhegy); de itt könnyebb az eligazodás, mert a türk nyelv járások tisztán felmutatják az `urdük`, `yrdük`, `irduk` szókat, magos, és magosság értelemben, felmutatják az oerton, ortok, ardoch, Irdek hegy-, folyam- s családneveket, legfölebb is hát az Erek, Erich német Mars isten nevét az Aerding, Arding, Erching helyneveket lehetne az ördög névvel rokonitni, de nem az Ertayot, mely csak az Erichtag összehúzása. ([Lásd 314. old.](zotero://open-pdf/library/items/DFI47XPY?page=314&annotation=ENE9YEKR))
 - A Mars [[R/Rudra\|Rudra]] címnél írottak szerint megfelel [[O/Ördög\|ördög]]nek, sőt az oszét `arta` = három szónak.
