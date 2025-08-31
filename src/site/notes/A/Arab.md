@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arab/","title":"Arab","tags":["containstransclusions"],"created":"2024-04-20T11:12","updated":"2024-10-22T22:18"}
+{"dg-publish":true,"permalink":"/A/Arab/","title":"Arab","tags":["containstransclusions"],"created":"2024-04-20T11:12","updated":"2025-08-31T02:05"}
 ---
 
 
@@ -11,7 +11,7 @@
 
 Lehetne Hadak Népe is, de sokaknak biztos az is feltűnt, hogy az [[A/Árja\|árja]] név előtagjával egyezik az előtagja. Márpedig az indo-európai (nyelv)tudósok dilettantizmusát ismerve nem lenne meglepő, hogy ezen kis egyezés miatt keblükre öleljék őket. Igaz, a médek voltak azok, akik magukat Ar-nak, Ari-napok hívták.  
 [[A/Árja\|Árja]] és [[A/Ara\|ara]] címnél viszont szerepelt is mézzel kapcsolatos arab szó, szavak, így Ár-Ab jelentése lehetne a Ár Háza vagy Víz Árja, a Tejútra utalóan. [[A/Ara\|Ara]] címnél legutóbb írottak alapján ez mégsem oly biztos.  
-Persze ugyanúgy felvehették az [[A/Avar\|avar]]ok nevét, ahogy a szemiták a sumérok Szem = Nap ([[S/Samas\|Samash]]) nevét. Péterfai János is másutt az avarok (latinos írású) abar név-variánsát veti össze az arab népnévvel.  
+Persze ugyanúgy felvehették az [[A/Avar\|avar]]ok nevét, ahogy a szemiták a sumérok Szem = Nap ([[S/Samas\|Samash]]) nevét. Péterfai János is másutt az avarok (latinos írású) abar név-változatát veti össze az arab népnévvel.  
 
 [[B/Barabás\|Barabás]] címnél vetettem fel, meglepne, ha a Quorán adott válaszomra valaki kommentként feltenné a kérdést: ha a `bar` = fiú szó avar-hun eredetű, akkor lehetséges-e a hunként jelzett [[A/Avar\|avar]]ok ilyen nevét a ma már sémi nyelveket beszélő arab és héber nép- és nyelvnevekkel azonosítani. Igen: avar szótag-megfordítva lehet arab és a [[H/Héber\|héber]] régies [[E/Éber\|éber]] formája is analóg az avar névvel.  
 [[S/Szómegfordítás#Szótagmegfordítás\|Szótagmegfordítás]] címnél már volt arról szó, hogy a szavak elemeinek sorrendjét cserélve azonos jelentés jön ki. Ilyen alapon Ar-Ab lehet Ab-Ar és Avar.  
@@ -27,7 +27,7 @@ Persze ugyanúgy felvehették az [[A/Avar\|avar]]ok nevét, ahogy a szemiták a 
 
 ...című könyvéből való eredeztetési kísérlet is:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/e/europa/#ex0mza" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/E/Európa/#ex0mza" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
