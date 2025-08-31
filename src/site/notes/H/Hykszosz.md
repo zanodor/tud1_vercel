@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated","renameitmaybe"],"created":"2023-10-31T08:16","updated":"2025-05-03T11:03"}
+{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated","renameitmaybe"],"created":"2023-10-31T08:16","updated":"2025-08-31T02:07"}
 ---
 
 
@@ -96,7 +96,7 @@ A fentebbi bevezető soroknak megfelelően írja Péterfai János is:
 > Némely tudós a hikszoszokat araboknak véli. Tény mindenesetre, hogy az a-rab név az a-var vagy a-bar névvel azonos, mert hiszen ennek csak megfordított kiejtése. Szerintem tehát a dolog a következőkép áll: létezett egy avar avagy abar, azaz a var avagy a bar, nevű s Elő-Ázsiába kiköltözött [[B/Barkó\|barkó]] vagyis avar őstörzsünk, amely utóbb \[hykszosziként\] Egyiptomot is meghódította. Azonban századok múlva, miután őket az egyiptomiak legyőzték, részben Előázsiába menekültek vissza de részben talán a Vörös-Tenger partjaira is. Utóbb azonban az Arábia terméketlen sivatagos tájairól folyton közéjük szivárgó műveletlen de sémita nyelvű beduin féle nép által ugyanúgy boríttattak és semításíttattak el mint ahogy a dalmáciai művelt olaszságot a terméketlen hegységek közül folyton közéjük szivárgó műveletlen szlávság borította és szlávosította el, de átvéve az olaszság műveltségét. Ugyanígy a műveletlen beduinokból és művelt avarokból előállott keveréknép is megtartotta, ha már elhanyatlott alakban is, az ősi avar, azaz abar vagy [[A/Arab\|arab]] műveltséget, de megtartotta az arab nevet is, ugyanúgy mint ahogy például az igazi bolgárokból és szlávokból előállott de már szláv nyelvű keveréknép is megtartotta a bolgár nevet.
 - De [[A/Asera\|asera]] címnél is arról volt szó, hogy az [[A/Asszír\|asszír]] nép neve eredetileg turáni volt.
 
-Péterfai János másutt avarok abar név-variánsát veti össze az [[A/Arab\|arab]] népnévvel.  
+Péterfai János másutt avarok abar név-változatát veti össze az [[A/Arab\|arab]] népnévvel.  
 
 A vitatható levezetésekkel előhozakodó [[D/Dudás Rudolf\|Dudás Rudolf]] is elemzi a nevet, de nem tartom érdemesnek ideírni. Maradjon egyelőre a heka/hékás kiinduló, de tartsuk előtérben az [[E/Egy\|egy]] és [[E/Ég\|ég]] szavakat is.  
   
@@ -122,7 +122,7 @@ Zajti Ferenc Zsidó volt-e Jézus című könyvében idéz egy műből:
 Hyksos volt a neve [[M/Manetho\|Manetho]] és Josephus szerint azon Egyiptom fölött uralkodó idegeneknek, akik a Kr. e. 17. század vége felé törtek be Ázsiából a delta területre és ott 1580-ig tartották magukat. Mindkét történetíró >pásztor-királyok<-nak magyarázza a hyksos nevet; ezen magyarázat mellett csak népetimológiáról lehet szó. Egyiptológusok (W M. Müller, Sethe) a hyksos szót az egyiptomi >hqa chasut< (idegenek uralkodója) kifejezéssel hozzák kapcsolatba. \[Másutt angolul így írják ki a nevet: \*`heqa khasut`, mint például [ezen](https://qr.ae/pN3Zs6) Quora válaszban.\]  
 
 [^5]: Lábjegyzet:  
-Az [alábbi](https://youtu.be/1HozHdd7Lsc) Vidám Vasárnap Klub videóban az idegen hatalom történésze, Grüll Tibor "biztos benne", hogy sémita nyelvet beszéltek...    
+Az [alábbi](https://youtu.be/1HozHdd7Lsc) Vidám Vasárnap Klub videóban az idegen hatalom történésze, Grüll Tibor "biztos benne", hogy sémita nyelvet beszéltek...
 Zajti Ferenc Zsidó volt-e Jézus című könyvében is írja:  
 Nimród népét, ezt a lovas, vitéz és nagy hódításokat véghezvivő népet, a Kr. e. XVIII. században Egyiptomot igája alá hajtó hyksos néppel kell kapcsolatba hoznunk, ugyanis ők adták a hyksos hódítókban a tévesen sémi fajnak tartott, hozzájuk délről csatlakozott, pásztor s lovas tömeget.  
 \[...\]  
