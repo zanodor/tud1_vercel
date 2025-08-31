@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/B/BUN/","title":"BUN","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2024-10-24T16:31","updated":"2025-06-07T19:52"}
+{"dg-publish":true,"permalink":"/B/BUN/","title":"BUN","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2024-10-24T16:31","updated":"2025-08-31T02:06"}
 ---
 
 
 # BUN 1)
 
-[[B/BON\|BON]] variánsa; lásd mindent ott. BUN fényhiányos, nőiségi vetülete [[B/Bűn\|bűn]].  
+[[B/BON\|BON]] változata; lásd mindent ott. BUN fényhiányos, nőiségi vetülete [[B/Bűn\|bűn]].  
 Bunyevác névben BUN és [[V/VASZ\|VASZ]] is szerepel.  
 `Bun,` `bunn` arabul kávébab. A perzsában `bun`-nak igen sok jelentése van: gyökér, alap, valaminek a csúcsa. (Az örményben `bun` = fa törzse. A csúcs jelentéssel vág össze a talysh nyelvű `bun` = háztető, melynek tádzsik párja `bom`.) De ezen szavakat megmagyarázhatja az albán `bung` = tölgyfaféle (Quercus sessiflora) neve.  
 Érdekes a perzsa `bekh u bun` = gyökér és alap (valaminek) kifejezés, mert [[B/BÉK\|BÉK]] és BUN mindketten fontos etimonok (de a kelta-ír `bun` = alap, alj, [[F/Fenék\|fenék]] (F>B) jelentésű szintén; lásd még [[B/Bum\|bum]]).  
