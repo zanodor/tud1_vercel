@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2025-06-07T19:20"}
+{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2025-08-31T02:08"}
 ---
 
 
@@ -130,7 +130,7 @@ Minden folyó prototípusa pedig a Tejút.
 Gula tehát lehetett csillagfolyam/Tehéncsordafolyam értelmű (ahogy a fentebbi közbevetésben erről volt szó [[G/Gulya\|gulya]] kapcsán).  
 De ne feledjük el a Tejútanya egyik fontos madáralakját, a [[G/Gólya\|gólyá]]t sem, mely gulyával, nyilván nem véletlenül, azonos alakú.  
 
-Közben az a gondolatom támadt, hogy Gula nem az eredeti sumér neve a Vízöntőnek. Ahogy a [[C/Cola\|cola]] is, a [[G/Gulya\|gulya]] átvitt folyó jelentéséből lett Vízöntővé, majd istennő nevévé, szerintem. Ugyanakkor azt kevéssé hiszem, hogy Gula nyomán, szembenlévőségük folytán alakult volna ki [[U/Urgula\|Urgula]] neve, és abból aztán [[H/Herkules\|Herkules]] és társai.  
+Közben az a gondolatom támadt, hogy Gula nem az eredeti sumér neve a Vízöntőnek. Ahogy a [[C/Cola\|cola]] is, a [[G/Gulya\|gulya]] átvitt folyó jelentéséből lett Vízöntővé, majd istennő nevévé, szerintem. Ugyanakkor azt kevéssé hiszem, hogy Gula nyomán, szembenlévőségük folytán alakult volna ki [[U/Urgula\|Urgula]] neve, és abból aztán [[H/Héraklész\|Héraklész]] és társai.  
 
 Amiről nem esett szó, az a [[P/Precesszió\|precesszió]]. Ahogy Jankovics Marcell is írja egy helyen, a Vízöntő 5-6000 évvel ezelőtt a [[T/Téli napforduló\|téli napforduló]] csillagképe volt. Ezt az jelenthetné még, hogy Gula egyúttal olyanféle név, mint [[B/Boldogasszony\|Boldogasszony]], kinek nevében a Bol-Dog úgy utal a Tejútközpontra, mint Gula nevében a Gyúl. Ez magyarázhatná meg azt is, miért van lába mellett a Kutya (mely Szíriuszként együttállásban van újévkor).  
 De valójában nem ez a lényeg a [[P/Precesszió\|precesszió]] kapcsán, hanem az, hogy a sumér időkben a [[T/Tejút\|Tejút]] sávja nem a (mai állást tükröző) [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en nyugodott, hanem a [[O/Oroszlán-Vízöntő tengely\|Oroszlán-Vízöntő tengely]]en (lehetséges ez, vagy az nem változik?). (Ami egyúttal az is jelentené, hogy az Oroszlán Urgula neve tulajdonképpen Nagy Éves megfontolásból lett ilyen?)  
