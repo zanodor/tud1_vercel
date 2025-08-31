@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Goat/","title":"Goat","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-12-18T11:22","updated":"2025-06-07T23:00"}
+{"dg-publish":true,"permalink":"/G/Goat/","title":"Goat","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-12-18T11:22","updated":"2025-08-31T02:08"}
 ---
 
 
@@ -9,8 +9,8 @@
 
 #### Magyar Adorján írja:  
 
-> A sok ezredév alatt e két hasonló állat, a kecske és a juh, illetve a kos, neve egymással föl is cserélődhetett, amire nézve elég föl hoznom: török: kos, kocs, német `Gauster` = kos, de viszont német `Geiss` (gájsz), tájszólásos `Goas`, magyar kecske, török `kecsi` = kecske. Egyébként a latin [[A/Aries\|Aries]] = kos szóban az [[A/Argo\|Argo]], argali és a magyar jár szó ismét felkísért.  
-- A téma alaposabb tárgyalását lásd [[K/Kecske és kos\|kecske és kos]].  
+> A sok ezredév alatt e két hasonló állat, a kecske és a juh, illetve a kos, neve egymással föl is cserélődhetett, amire nézve elég föl hoznom: török: `kos`, `kocs`, német `Gauster` = kos, de viszont német `Geiss` (gájsz), tájszólásos `Goas`, magyar kecske, török `kecsi` = kecske. Egyébként a latin [[A/Aries\|aries]] = kos szóban az [[A/Argo\|Argo]], argali és a magyar jár szó ismét felkísért.  
+- A téma alaposabb tárgyalását lásd [[K/Kecske és kos\|kecske és kos]].
 
 Magyarral való megfeleltetés szempontjából a [[K/Kid\|kid]] címnél szóba kerülő gida szavunk talán a legegyértelműbb.  
 
@@ -70,4 +70,4 @@ Egy óörmény `kat'n` = tej lett megjelölve a latin `gutta` = csepp (lásd [[G
 Ha már kabarok, Magyar Adorján Csodaszarvasának (a PDF) 167. oldalán írja, hogy a [[G/Gepárd\|gepárd]] is lehetett náluk a Tejútanya egyik állatalakja, de nem a szarvas, hanem nyilván a [[L/Ló\|ló]] ([[F/Fehérlófia\|Fehérlófia]] anyja) helyettesítőjeként, hiszen a gepárd névben a ló elnevezését látta Magyar Adorján.  
 
 [^4]: Lábjegyzet:  
-Másutt, [[K/Kelta\|kelta]] címnél is szerepelt, hogyan nyelvi bizonyítéknak számít déli származásukra nézve az, hogy a perzsa `mis` = kecskebak szóval azonos kelta `mìs` (mìseach) = kecske, őz kettős jelentésű, holott [[M/MISZ\|MISZ]] címnél írottak szerint tudjuk, hogy eredetileg M-SZ vázú szavak szarvas jelentéssel álltak csak (bizonyíték erre az észak-amerikai eredetű [[M/Moose\|moose]]), ugyanis a szarvas (és így tisztelete) délen a szabiroknál/kabaroknál nem volt meg, így ki kellett váltsa a kecske. Ugyanez áll az aztékokra (a nahuatl `mazatl` = szarvas (őz?) mellett kecske jelentéssel is megadott).  
+Másutt, [[K/Kelta\|kelta]] címnél is szerepelt, hogyan nyelvi bizonyítéknak számít déli származásukra nézve az, hogy a perzsa `mis` = kecskebak szóval azonos kelta `mìs` (`mìseach`) = kecske, őz kettős jelentésű, holott [[M/MISZ\|MISZ]] címnél írottak szerint tudjuk, hogy eredetileg M-SZ vázú szavak szarvas jelentéssel álltak csak (bizonyíték erre az észak-amerikai eredetű [[M/Moose\|moose]]), ugyanis a szarvas (és így tisztelete) délen a szabiroknál/kabaroknál nem volt meg, így ki kellett váltsa a kecske. Ugyanez áll az aztékokra (a nahuatl `mazatl` = szarvas (őz?) mellett kecske jelentéssel is megadott).  
