@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/F/Folyó/","title":"Folyó","tags":["Englishtexttranslated","titleandheadingonedontmatch"],"created":"2024-05-09T01:21","updated":"2025-06-07T19:19"}
+{"dg-publish":true,"permalink":"/F/Folyó/","title":"Folyó","tags":["Englishtexttranslated","titleandheadingonedontmatch"],"created":"2024-05-09T01:21","updated":"2025-08-31T02:07"}
 ---
 
 
 # Folyó, folyik
 
-Az interneten szerepel egy PDF a `folyik` szó etimológiájáról. Arról is szól a szerző, vajon mióta vagy miért ikes az ige. A helyzet az, hogy az etimológiai vizsgálat szempontjából mindegy, mert valójában – a latin és görög szavakhoz hasonlóan – itt sem az – utólag kialkotott – igét kell vizsgálat alá vonni[^1], hanem a `folyó` főnevet.  
+Az interneten szerepel egy PDF a `folyik` szó etimológiájáról. Arról is szól a szerző, vajon mióta vagy miért ikes az ige. A helyzet az, hogy az etimológiai vizsgálat szempontjából mindegy, mert valójában – a latin és görög szavakhoz hasonlóan – itt sem az – utólag kialkotott – igét kell vizsgálat alá vonni[^1], hanem a `folyó` főnevet.
+{ #250809}
+
+
 A Folyó pedig nem más mint Fo-Lyó, Fo-Jó, Fő-Jó. A magyar nyelv szavaiban a hangrendi igazodás figyelhető meg: \*Főlyó rosszul hangzik, így a Jó szóhoz igazodva lesz Folyó.  
 
 #### Péterfai János írja:
