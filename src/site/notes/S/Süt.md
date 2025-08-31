@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2025-07-03T01:17"}
+{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2025-08-31T02:53"}
 ---
 
 
@@ -12,7 +12,7 @@ Amennyiben levezetését nem a [[T/Tűz\|tűz]] megfordítására alapozzuk, nyi
 
 Több szónál előjön utódnyelveinkben, például szláv szvet ([[S/Szvjet\|szvjet]]), angol [[S/Sweet\|sweet]]. A svájciak országának Suisse neve (de az angol átírásban Switzerland is) felismerhetően süt/süss szavunkra üt (ahogy az édeset jelentő germán szavak is). Lásd még [[S/Sweden\|Sweden]].  
 [[S/Shoot\|Shoot]] szónál is szerepelt:  
-Süt az [[U/Üt\|üt]] szavunkkal is fogalmi és hangtani rokonságban van, hiszen [[U/UT\|UT]] = Nap forró, tüzes nyilait süti, lövelli a Földre (ezért is hasonlították sünhöz, mely ismét a süt igevariánsa lehet, ahogy [[T/Tesz\|tesz]]nek [[T/TEN\|TEN]]). Hogy a süt az üt s-előtétes variánsa, elárulja, hogy a japán `ute` is lő jelentésű és üt szavunkkal azonos.  
+Süt az [[U/Üt\|üt]] szavunkkal is fogalmi és hangtani rokonságban van, hiszen [[U/UT\|UT]] = Nap forró, tüzes nyilait süti, lövelli a Földre (ezért is hasonlították sünhöz, mely ismét a süt igevariánsa lehet, ahogy [[T/Tesz\|tesz]]nek [[T/TEN\|TEN]]). Hogy a süt az üt s-előtétes változata, elárulja, hogy a japán `ute` is lő jelentésű és üt szavunkkal azonos.  
 
 Egyébiránt Varga Zsigmond Az ősmagyar mitológia c. könyvének 320. oldalán álló adata szerint a sumérben is volt egy `shad`, `shud` tő, amely fényesnek lenni, fényessé tenni, felragyogni, fény, ragyogás, tisztaság jelentéssel bírt. Lásd [[K/KAT\|KAT]].  
 
