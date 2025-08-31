@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mátyás/","title":"Mátyás","created":"2023-11-17T07:56","updated":"2025-07-12T00:27"}
+{"dg-publish":true,"permalink":"/M/Mátyás/","title":"Mátyás","created":"2023-11-17T07:56","updated":"2025-08-31T02:52"}
 ---
 
 
@@ -55,7 +55,7 @@ Gyárfás Ágnes Milyen volt Mátyás király egyeteme című az Ősi Gyökér 2
 #### Magyar Adorján Csodaszarvas...  
 
 ...című könyvében írja:  
-> Mátyás is Budán a történelmi nevezetességű Szent György tér közepén traui Jakab jeles művész által rézből egy óriási [[H/Herkules\|Herkules]] szobrot emeltetett.  
+> Mátyás is Budán a történelmi nevezetességű Szent György tér közepén traui Jakab jeles művész által rézből egy óriási [[H/Héraklész\|Héraklész]] szobrot emeltetett.  
 > Valószínűvé teszi azt, hogy Mátyás király korában a magyar nép kereszténységre térítése még csak alig-alig lehetett befejezve.  
 
 A több helyütt idézett [ezen](https://youtu.be/nm0RbK1NX_o) Pap Gábor által tartott [[B/Bakócz Tamás\|Bakócz Tamás]]ról, Mediciekről, Fuggerekről, [[D/Dózsa György\|Dózsa György]]ről szóló, a Magyarországon háttérben működő szkíta kereszténységet bizonyító előadásban 1:53:00 után illetve kimondottan 1:55:40-nél a témát boncolgatva szól arról, hogy (a Dózsa György féle parasztháború előtt negyed évszázaddal – még – élő) Mátyásnak a [[F/Finnugor elmélet\|finnugor elmélet]] címnél taglalt II. Pius és IV. Sixtus pápával akadtak gondjai. Az a levél, amit utóbbi pápának küldött, éles hangon figyelmezteti, hogy nem muszáj nekünk – a magunk elveihez ragaszkodó magyaroknak – katolikus (zsidó-keresztény) kötelékbe tartozni (itt okoskodók azt akarták kihozni belőle, hogy Mátyás iszlamizálni akarta volna Magyarországot; szó sincs róla).  
