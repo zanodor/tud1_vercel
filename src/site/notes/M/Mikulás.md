@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mikulás/","title":"Mikulás","tags":["containstransclusions"],"created":"2023-11-03T12:28","updated":"2025-06-08T01:35"}
+{"dg-publish":true,"permalink":"/M/Mikulás/","title":"Mikulás","tags":["containstransclusions"],"created":"2023-11-03T12:28","updated":"2025-08-31T02:52"}
 ---
 
 
@@ -88,5 +88,5 @@ Gondolom a szóalakra szlávot mondanak és valóban van is egy Mikulaskova nev�
 
 [^1]: Lábjegyzet:  
 Magyar Adorján Csodaszarvasában bővebben:  
-Említettük pedig, hogy a bot ugyanolyan hímségi jelkép volt mint az ék és a gömb, valamint említettük, hogy igazi néphagyományunkban [[T/Toldi Miklós\|Toldi Miklós]] is, ugyanúgy mint [[H/Herkules\|Herkules]], hatalmas "öklelő fát", dorongot emelget és avval öklelődzik, avval harcol, hogy kardról Toldival kapcsolatban az eredeti néphagyomány még nem beszél (Bán Aladár "Ethnographia" folyóiratban említett cikk). Toldi Miklósnak is van fivére, aki gonosz indulatú.  
+Említettük pedig, hogy a bot ugyanolyan hímségi jelkép volt mint az ék és a gömb, valamint említettük, hogy igazi néphagyományunkban [[T/Toldi Miklós\|Toldi Miklós]] is, ugyanúgy mint [[H/Héraklész\|Héraklész]], hatalmas "öklelő fát", dorongot emelget és avval öklelődzik, avval harcol, hogy kardról Toldival kapcsolatban az eredeti néphagyomány még nem beszél (Bán Aladár "Ethnographia" folyóiratban említett cikk). Toldi Miklósnak is van fivére, aki gonosz indulatú.  
 Megemlítjük hogy a Miklós név is a [[M/MAG\|mag]] szóval és a [[M/Magor\|Magor]] névvel függ össze és hogy értelme eredetileg Mik-Kolos, Mak-Kolos = Botos-Gyermek, Botos-Férfi volt; ezekkel kapcsolatban fölemlítjük még a régi magyar [[K/Kolos\|Kolos]] személyneveket és a latin `colossus` = óriás, nagy erejű ember szót is, amelyek eredetileg tehát botos, dorongos értelműek voltak, vagyis Magor-Herkules Napistennek tehát Kolos is egyik neve volt. Világos tehát, hogy Kolosvár neve értelme sem volt más mint Magosvár, Herkulesvár.  
