@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pulyka/","title":"Pulyka","created":"2023-10-25T02:46","updated":"2024-10-25T23:54"}
+{"dg-publish":true,"permalink":"/P/Pulyka/","title":"Pulyka","created":"2023-10-25T02:46","updated":"2025-08-31T02:55"}
 ---
 
 
 # Pulyka
 
-A [[P/Poultry\|poultry]] szónál is előjövő puly- szóelem (pulyka szavunkban -ka is kicsinyítés lehet csak) adhatná meg a [[P/Pleiadok\|Plejádok]] nevének eredetét is, de búj szavunkat sem lehet kizárni, mely büj variánsával már a Nap neveihez vinne vissza (persze pulyka és [[P/Pulya\|pulya]] nevekben is [[P/PUL\|PUL]] = BUL, VUL = Nap fény, tűz).  
+A [[P/Poultry\|poultry]] szónál is előjövő puly- szóelem (pulyka szavunkban -ka is kicsinyítés lehet csak) adhatná meg a [[P/Pleiadok\|Plejádok]] nevének eredetét is, de búj szavunkat sem lehet kizárni, mely büj változatával már a Nap neveihez vinne vissza (persze pulyka és [[P/Pulya\|pulya]] nevekben is [[P/PUL\|PUL]] = BUL, VUL = Nap fény, tűz).  
 
 #### Jankovics Marcell...
 
