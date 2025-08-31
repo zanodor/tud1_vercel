@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-08-10T02:12"}
+{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-08-31T02:05"}
 ---
 
 
@@ -101,7 +101,7 @@ Mint mondta, a három aranyalma az esztendő három nagyon fontos szegletköve: 
 
 ## Aranycsésze
 
-[[H/Heraklész\|Héraklész]] övéről is ez csüngött le. Jankovics Marcellnél Héliosz aranycsészéjéről szól, amelyben Héraklész hajózik.  
+[[H/Héraklész\|Héraklész]] övéről is ez csüngött le. Jankovics Marcellnél Héliosz aranycsészéjéről szól, amelyben Héraklész hajózik.  
 
 ## Aranyhaj
 
