@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Buda/","title":"Buda","tags":["Englishtexttranslated"],"created":"2023-12-03T10:25","updated":"2025-06-07T19:51"}
+{"dg-publish":true,"permalink":"/B/Buda/","title":"Buda","tags":["Englishtexttranslated"],"created":"2023-12-03T10:25","updated":"2025-08-31T02:06"}
 ---
 
 
@@ -33,7 +33,7 @@ Eördögh Árpád blogger [ezen](http://nuclearmorphology.hu/tortenelem/hol-lehe
 
 Lásd még [[B/Buddha\|Buddha]] és [[B/Budapest\|Budapest]] neveknél, de Fáy Elek A magyarok őshona című könyvének 27. és 114. oldalán is előjön egy Buda nevű város az egykori ([[A/Adita\|áditá]]k birodalmába tartozó[^1]) Szába vagy Ofir országból. A 76. oldalon (nyilván erre a területre vonatkozó) Buda (és Béla) törzsről szól.  
 
-Hasonló hozzá a kelta [[B/Buada\|Buada]]. A kelta-ír ír `bodach` = vajda (öregember) szót és mást is lásd [[B/Bodag\|bodag]]. [[V/Vajda\|Vajda]] valóban a [[V/Vata\|Vata]], Buda nevek variánsának tűnik.  
+Hasonló hozzá a kelta [[B/Buada\|Buada]]. A kelta-ír ír `bodach` = vajda (öregember) szót és mást is lásd [[B/Bodag\|bodag]]. [[V/Vajda\|Vajda]] valóban a [[V/Vata\|Vata]], Buda nevek változatának tűnik.  
 
 
 
