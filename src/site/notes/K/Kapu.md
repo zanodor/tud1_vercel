@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kapu/","title":"Kapu","created":"2023-10-30T08:56","updated":"2025-06-08T01:00"}
+{"dg-publish":true,"permalink":"/K/Kapu/","title":"Kapu","created":"2023-10-30T08:56","updated":"2025-08-31T02:08"}
 ---
 
 
@@ -68,7 +68,7 @@ A csillaghit nemcsak az évszakok és az év fordulóit tekinti kapuknak, hanem 
 - Lásd még [[Z/Zohar\|Zohar]].  
 
 Érdekes a görög `pülosz` = kapu elnevezés:  
-> Egy hagyomány az Ikreket [[A/Apolló\|Apollón]]nal és [[H/Heraklész\|Hérakléssz]]el azonosítja[^4]. A két isten között van hasonlóság, s több olyan elbeszélés maradt fenn, amelyben együtt szerepelnek, így Apollón védelmezte Püloszt, a "Kaput", melyen Héraklész behatolt, hogy a "túlnanra" jusson. Pülosz, az egyik túlvilági átjáró itt, az Ikrekben található. Amikor az [[A/Argo\|Argo]] hajó (a Tejút déli csillagképe) Héraklésszel átkel az alvilágba vezető hajóút (a [[T/Tejút\|Tejút]]) sziklái közt (ez a **tejúthasadék**), Apollón búcsúztatja, s ő is köszönti a hajót, amikor a "túlpartról" visszatér. Ez egyszer a Nyilas-, másszor az Ikrekbeli átjárót jelenti. Aszerint, hogy Apollón előbb Artemisz ezüst íját tartotta a baljában, utóbb saját arany íját a jobbjában. Ezek az íjak a nappálya félköríveit jelképezik.  
+> Egy hagyomány az Ikreket [[A/Apolló\|Apollón]]nal és [[H/Héraklész\|Hérakléssz]]el azonosítja[^4]. A két isten között van hasonlóság, s több olyan elbeszélés maradt fenn, amelyben együtt szerepelnek, így Apollón védelmezte Püloszt, a "Kaput", melyen Héraklész behatolt, hogy a "túlnanra" jusson. Pülosz, az egyik túlvilági átjáró itt, az Ikrekben található. Amikor az [[A/Argo\|Argo]] hajó (a Tejút déli csillagképe) Héraklésszel átkel az alvilágba vezető hajóút (a [[T/Tejút\|Tejút]]) sziklái közt (ez a **tejúthasadék**), Apollón búcsúztatja, s ő is köszönti a hajót, amikor a "túlpartról" visszatér. Ez egyszer a Nyilas-, másszor az Ikrekbeli átjárót jelenti. Aszerint, hogy Apollón előbb Artemisz ezüst íját tartotta a baljában, utóbb saját arany íját a jobbjában. Ezek az íjak a nappálya félköríveit jelképezik.  
 - Az a furcsa, hogy sem az értelmezők, sem Jankovics Marcell nem ébred rá, hogy [[P/Pollux\|Pollux]] nevével is azonos e görög szó, melyhez hasonlókat lásd még [[P/Pole\|pole]].  
 
 #### Jankovics Marcell Ahol a madár se jár...
