@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutya és macska/","title":"Kutya és macska","tags":["containstransclusions"],"created":"2023-11-17T09:39","updated":"2025-06-08T01:08"}
+{"dg-publish":true,"permalink":"/K/Kutya és macska/","title":"Kutya és macska","tags":["containstransclusions"],"created":"2023-11-17T09:39","updated":"2025-08-31T02:54"}
 ---
 
 
@@ -16,9 +16,9 @@ Másutt, [[K/Kutya\|kutya]] címszó alján, [[B/Basztet\|Basztet]] istennőnél
 
 
 
-> Hewitt writes of Set in his earliest form as [[H/Hapi\|Kapi]], the Ape-God, stars of our [[C/Cepheus\|Cepheus]] marking his head; while at one time on the Nile the [[W/Wain\|Wain]] stars seem to have been **the Dog of Set or of Typhon**. This may have given rise to the title Canis Venatica that La Lande cited, if this be not more correctly considered as the classic Kallisto's hound; and the same idea appears in the **Catuli**, Lap-dogs, and Canes Laconicae, the Spartan Dogs, that Caesius cited for both of the Wains.  
+> Hewitt writes of Set in his earliest form as [[H/Hapi\|Kapi]], the Ape-God, stars of our [[C/Cepheus csillagkép\|Cepheus]] marking his head; while at one time on the Nile the [[W/Wain\|Wain]] stars seem to have been **the Dog of Set or of Typhon**. This may have given rise to the title Canis Venatica that La Lande cited, if this be not more correctly considered as the classic Kallisto's hound; and the same idea appears in the **Catuli**, Lap-dogs, and Canes Laconicae, the Spartan Dogs, that Caesius cited for both of the Wains.  
 > —  
-> Hewitt azt írja, hogy Set a legkorábbi formájában [[H/Hapi\|Kapi]] (helyesen [[H/Hapi\|Hapi]]), a Majomisten, a mi [[C/Cepheus\|Cepheus]]-unk csillagai jelölik a fejét; míg egykor a Níluson a [[W/Wain\|Wain]] \[Göncöl\] csillagok úgy tűnik, hogy **Set vagy Typhon Kutyája** voltak. Ebből adódhatott a La Lande által idézett Canis Venatica elnevezés, ha ezt nem tekintjük helyesebben a klasszikus Kallisto kutyájának; és ugyanez a gondolat jelenik meg a Catuli, ölbeli kutyák és a Canes Laconicae, a spártai kutyák elnevezésében, amelyet Caesius mindkét Wain (Szekér csillagzat) esetében idézett.  
+> Hewitt azt írja, hogy Set a legkorábbi formájában [[H/Hapi\|Kapi]] (helyesen [[H/Hapi\|Hapi]]), a Majomisten, a mi [[C/Cepheus csillagkép\|Cepheus]]-unk csillagai jelölik a fejét; míg egykor a Níluson a [[W/Wain\|Wain]] \[Göncöl\] csillagok úgy tűnik, hogy **Set vagy Typhon Kutyája** voltak. Ebből adódhatott a La Lande által idézett Canis Venatica elnevezés, ha ezt nem tekintjük helyesebben a klasszikus Kallisto kutyájának; és ugyanez a gondolat jelenik meg a Catuli, ölbeli kutyák és a Canes Laconicae, a spártai kutyák elnevezésében, amelyet Caesius mindkét Wain (Szekér csillagzat) esetében idézett.  
 
 
 </div></div>
