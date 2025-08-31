@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pole/","title":"Pole","tags":["Englishtexttranslated"],"created":"2024-04-20T13:44","updated":"2025-08-17T00:27"}
+{"dg-publish":true,"permalink":"/P/Pole/","title":"Pole","tags":["Englishtexttranslated"],"created":"2024-04-20T13:44","updated":"2025-08-31T02:53"}
 ---
 
 
@@ -7,7 +7,9 @@
 
 [[S/Sark\|Sark]], pólus.  
 Richard H. Allen könyvében Kis Medve alfájánál, a Sarkcsillag [[P/Polaris\|Polaris]]-nál írja, hogy Hipparkhosz **Πόλος**-nak hívta és ezen elnevezés egyezik az eufráteszi **Pūl**, **Bīl** nevekkel, melyeket a Sarkcsillagra használtak. Az nyilvánvaló, hogy a csillag nem a fényességéről kapta a nevét, hanem a szerepéről.  
-Rab Wilkie asztrológus írja:  
+
+#### Rab Wilkie asztrológus írja:  
+
 > Within the celestial sphere of reference there's a hierarchy of latitudinal layers or zones, much like the climatic zones of Earth which are controlled in effect by equator, tropics, polar circles. The higher that stars are, the more they symbolically relate to 'higher things' – objectives, goals, aspirations. At the level of the zodiac we are in the arena of current events, mundane issues and reality. The pole-star itself represents the highest aspiration and source of inspiration. This is seen as the ultimate Guide and Heaven's Gate.  
 > —  
 > Az égi vonatkoztatási szférán belül a szélességi rétegek vagy zónák hierarchiája létezik, hasonlóan a földi éghajlati zónákhoz, amelyeket az egyenlítő, a trópusok és a sarkkörök szabályoznak. Minél magasabban vannak a csillagok, annál inkább szimbolikusan kapcsolódnak a "magasabb dolgokhoz" – célokhoz, célokhoz, törekvésekhez. Az állatöv szintjén az aktuális események, a világi kérdések és a valóság színterén vagyunk. Maga a sarkcsillag a legmagasabb törekvést és az inspiráció forrását jelenti. Ezt tekintjük a végső útmutatónak és a Mennyország kapujának.  
@@ -42,7 +44,7 @@ Szántai a Pilist belső és felső szavakhoz is hasonlítja.
 > Az olasz-latin `talus`-`tallone` szónak is van sarok, emberi sarok, de ezenkívül még valamit-tartóság értelme is, mind ami a tengely szavunkat és így ismét a [[V/Világtengely\|Világtengely]]t is eszünkbe juttathatja.  
 
 [[P/Pole#Pole 2)\|Pole]] másik jelentése efféle [[T/Tengely\|tengely]], [[P/Pózna\|pózna]].  
-Hogy a görög-latin szavak a [[P/PÓZ\|PÓZ]] címnél is szereplő polc (póc) szóból is kiindulhatnának, nem tudni, de tény, hogy ezek a szavak összefüggenek, egymás variánsai.  
+Hogy a görög-latin szavak a [[P/PÓZ\|PÓZ]] címnél is szereplő polc (póc) szóból is kiindulhatnának, nem tudni, de tény, hogy ezek a szavak összefüggenek, egymás változatai.  
 
 #### Péterfai János...  
 
@@ -58,7 +60,7 @@ A [[K/Kapu\|kapu]] címnél említett görög `pülosz` = kapu szó pedig azért
 
 #### Jankovics Marcell írja:
 
-> Egy hagyomány az Ikreket [[A/Apolló\|Apollón]]nal és [[H/Heraklész\|Hérakléssz]]el azonosítja[^2]. A két isten között van hasonlóság, s több olyan elbeszélés maradt fenn, amelyben együtt szerepelnek, így Apollón védelmezte Püloszt, a "Kaput", melyen Héraklész behatolt, hogy a "túlnanra" jusson. Pülosz, az egyik túlvilági átjáró itt, az Ikrekben található. Amikor az [[A/Argo\|Argo]] hajó (a Tejút déli csillagképe) Héraklésszel átkel az alvilágba vezető hajóút (a [[T/Tejút\|Tejút]]) sziklái közt (ez a **tejúthasadék**), Apollón búcsúztatja, s ő is köszönti a hajót, amikor a "túlpartról" visszatér. Ez egyszer a Nyilas-, másszor az Ikrekbeli átjárót jelenti. Aszerint, hogy Apollón előbb Artemisz ezüst íját tartotta a baljában, utóbb saját arany íját a jobbjában. Ezek az íjak a nappálya félköríveit jelképezik.  
+> Egy hagyomány az Ikreket [[A/Apolló\|Apollón]]nal és [[H/Héraklész\|Hérakléssz]]el azonosítja[^2]. A két isten között van hasonlóság, s több olyan elbeszélés maradt fenn, amelyben együtt szerepelnek, így Apollón védelmezte Püloszt, a "Kaput", melyen Héraklész behatolt, hogy a "túlnanra" jusson. Pülosz, az egyik túlvilági átjáró itt, az Ikrekben található. Amikor az [[A/Argo\|Argo]] hajó (a Tejút déli csillagképe) Héraklésszel átkel az alvilágba vezető hajóút (a [[T/Tejút\|Tejút]]) sziklái közt (ez a **tejúthasadék**), Apollón búcsúztatja, s ő is köszönti a hajót, amikor a "túlpartról" visszatér. Ez egyszer a Nyilas-, másszor az Ikrekbeli átjárót jelenti. Aszerint, hogy Apollón előbb Artemisz ezüst íját tartotta a baljában, utóbb saját arany íját a jobbjában. Ezek az íjak a nappálya félköríveit jelképezik.  
 
 Vannak még hasonló görög szavak az [alábbi](https://en.m.wikipedia.org/wiki/Tribe) oldalról, melyek a témába vághatnak:  
 > The Greek root `phúō` (φύω) means "to bring forth" and the Greek `phulē` φυλή "clan, race, people" (plural phylai (φυλαί)). The Greek `polis` ("state" or "city") was, like the Roman state, often divided into phylai.  
@@ -94,7 +96,7 @@ Menet közben [[B/Ball\|ball]] címnél viszont [[F/Föld\|Föld]] szavunkat jel
 
 [^1]: Lábjegyzet:  
 Érdekes a görög `pülosz` elnevezés (Jankovics Marcell írja):  
-Egy hagyomány az Ikreket [[A/Apolló\|Apollón]]nal és [[H/Heraklész\|Hérakléssz]]el azonosítja. A két isten között van hasonlóság, s több olyan elbeszélés maradt fenn, amelyben együtt szerepelnek, így Apollón védelmezte Püloszt, a "Kaput", melyen Héraklész behatolt, hogy a "túlnanra" jusson. **Pülosz, az egyik túlvilági átjáró itt, az Ikrekben található**. Amikor az [[A/Argo\|Argo]] hajó (a Tejút déli csillagképe) Héraklésszel átkel az alvilágba vezető hajóút (a [[T/Tejút\|Tejút]]) sziklái közt (ez a **tejúthasadék**), Apollón búcsúztatja, s ő is köszönti a hajót, amikor a "túlpartról" visszatér. Ez egyszer a Nyilas-, másszor az Ikrekbeli átjárót jelenti. Aszerint, hogy Apollón előbb Artemisz ezüst íját tartotta a baljában, utóbb saját arany íját a jobbjában. Ezek az íjak a nappálya félköríveit jelképezik.  
+Egy hagyomány az Ikreket [[A/Apolló\|Apollón]]nal és [[H/Héraklész\|Hérakléssz]]el azonosítja. A két isten között van hasonlóság, s több olyan elbeszélés maradt fenn, amelyben együtt szerepelnek, így Apollón védelmezte Püloszt, a "Kaput", melyen Héraklész behatolt, hogy a "túlnanra" jusson. **Pülosz, az egyik túlvilági átjáró itt, az Ikrekben található**. Amikor az [[A/Argo\|Argo]] hajó (a Tejút déli csillagképe) Héraklésszel átkel az alvilágba vezető hajóút (a [[T/Tejút\|Tejút]]) sziklái közt (ez a **tejúthasadék**), Apollón búcsúztatja, s ő is köszönti a hajót, amikor a "túlpartról" visszatér. Ez egyszer a Nyilas-, másszor az Ikrekbeli átjárót jelenti. Aszerint, hogy Apollón előbb Artemisz ezüst íját tartotta a baljában, utóbb saját arany íját a jobbjában. Ezek az íjak a nappálya félköríveit jelképezik.  
 
 [^2]: Lábjegyzet:  
-Ez azért furcsa, mert [[H/Heraklész\|Héraklész]] ikerestvére már Iphiklész, más nevén Kaun; lásd még erről [[K/Káin és Ábel\|Káin és Ábel]].  
+Ez azért furcsa, mert [[H/Héraklész\|Héraklész]] ikerestvére már Iphiklész, más nevén Kaun; lásd még erről [[K/Káin és Ábel\|Káin és Ábel]].  
