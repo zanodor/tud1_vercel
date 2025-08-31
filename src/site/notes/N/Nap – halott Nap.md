@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2025-06-08T01:15"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2025-08-31T02:51"}
 ---
 
 
@@ -153,7 +153,7 @@ Még a mérgezés is stimmelni látszik, ahogy Jankovics Marcell soraiból kider
 > A dolog pedig úgy történt, hogy Nesszosz, amikor Héraklész mérgezett nyilától találtan haldoklott, rávette az asszonyt, gyűjtse össze a vérét, és mártsa bele férjeura ingét, mondván, ha ezt ráadja, nem fog többé más asszonyba beleszeretni. (A kentaur nem is hazudott.) Déianeira elküldte a maga szőtte, vérbe mártott (veres?) díszinget Héraklésznek, aki éppen áldozatra készült a baljós nevű Kenaion-fokon ("Űr", "Elhagyatott hely", "Hiábavalóság helye"). A hérosz az áldozathoz magára öltötte az inget, sa méreg, amely nem szerette a meleget és a világosságot (hogyan is szerethette volna, hisz a hideg éj képviselőjének a vérében volt), az inggel együtt azonnal beleette magát a húsába. Héraklész tudta, hogy ez a vég. Máglyát rakatott és fellépett rá. A tűz és apja égből lecsapó villámai halandó részét azonnal elhamvasztották, halhatatlan fele megifjodva, gyermekként suhant az égbe Athéné négyesfogatán. A körforgást fejezi ki az a mód, ahogy Déianeira akaratán kívül (?) elveszejti férjét hiszen, ha az ókori elbeszélők nem is mondják ki nyíltan, Nesszosz vérébe a mérget Héraklész halált hozó nyila juttatta.  
 > Úgy mesélték, a Skorpió kapuján át hajtott az égbe, vagyis ott (akkor), ahol (amikor) a naphérosznak meg kellett halnia. Fenn az Olümposzon "halálos" ellensége, Héra – a földön Déianeira is őt képviselte – most helyreállítja az általa felborított egyensúlyt. Újraszüli, s ezzel vér szerinti fiává teszi Héraklészt, s hozzáadja feleségül Zeusztól való egyetlen leánygyermekét: [[H/Hébé\|Hébé]]t, önmaga ifjonti énjét.  
 
-[[H/Herkules\|Herkules]] (valamint [[C/Crucifixion\|crucifixion]]) címnél áll Robert Graves adata arról, hogy Herkules (Héraklész latin neve) vagy a neki megfelelő helyettes hogyan végeztetik ki a nyári napfordulón (vagy lásd Robert Graves The White Goddess című könyvének 125. oldalán).  
+[[H/Héraklész\|Héraklész]] (valamint [[C/Crucifixion\|crucifixion]]) címnél áll Robert Graves adata arról, hogy Herkules (Héraklész latin neve) vagy a neki megfelelő helyettes hogyan végeztetik ki a nyári napfordulón (vagy lásd Robert Graves The White Goddess című könyvének 125. oldalán).  
 [Ezen](https://www.quora.com/Why-was-Buddha-poisoned/answer/Alexander-Duncan?ch=10&share=1c8f1244&srid=51LF) oldalon található (megbízható) információk szerint Buddha egyik lehetséges halál-oka is mérgezés volt. Szó esik disznóhúsról is, mely a másik gyakori elhalálozási okra is felhívja a figyelmet: lásd [[V/Vaddisznók áldozatai\|vaddisznók áldozatai]].  
 
 ## Lábjegyzetek
