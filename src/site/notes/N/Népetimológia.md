@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","created":"2025-07-16T14:23","updated":"2025-08-10T02:13"}
+{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts"],"created":"2025-07-16T14:23","updated":"2025-08-31T02:53"}
 ---
 
 
@@ -48,7 +48,7 @@ Többször találkozunk olyan esettel, amikor egyes szavak korának ismerete né
 Egy jó példát láttunk erre [[N/Nyúl\|nyúl]] címnél, ahol a Várkonyi Nándor által bemutatott Henseling féle adatok feldolgozása nyomán érthetővé vált, milyen kapcsolata lehet a nyúlnak a húsvéthoz vagy Holdhoz, de a germán, olasz, stb. eredeztetésekre szakosodott Supka Géza arra a Henseling féle adatokat nem ismerő etnológus, Solymossy Sándor véleményére ad, aki szerint egyszerű nyelvi botlásról lenne szó:  
 A botlást az egyébként annyira pontos németek követték el, amikor a fiatal, kövér madárnak, a Haselhuhnnak a nevét értették félre Haserlnek, nyulacskának, s azóta – minden természettudományos jobb meggyőződésük ellenére – nyúllal tojatják a piros tojást.  
 A kérdés itt is az, mint másutt, melyik volt előbb, a tojás vagy sem, azaz nem éppen a németek a fentiek miatt nevezték el a tyúkot nyulasan még korábban?  
-Az efféle csapdákat ismerni kell; nem úgy kell a nyelvi botlásra gondolni, hogy egyik az átadó, másik az átvevő, hanem közös eredetű alapnyelv és közös turáni-szkíta-hun nézetrendszerek variánsai alakítják illetve vannak befolyással a másikra úgy, hogy akár az adott hagyományt jobban fenntartó kárára történik a változtatás, mely káros elemek éppen azon indoeurópai és sémi területekről is érkeznek, melyeket Supka szinte állandó jelleggel mutat fel kultúraátadónak, a hivatalos nézeteket követve, nem is sejtve, hogy a logikai buktatókat a Sátán és azok világi papjai szándékosan is állítják élénk (lásd alant).  
+Az efféle csapdákat ismerni kell; nem úgy kell a nyelvi botlásra gondolni, hogy egyik az átadó, másik az átvevő, hanem közös eredetű alapnyelv és közös turáni-szkíta-hun nézetrendszerek változatai alakítják illetve vannak befolyással a másikra úgy, hogy akár az adott hagyományt jobban fenntartó kárára történik a változtatás, mely káros elemek éppen azon indoeurópai és sémi területekről is érkeznek, melyeket Supka szinte állandó jelleggel mutat fel kultúraátadónak, a hivatalos nézeteket követve, nem is sejtve, hogy a logikai buktatókat a Sátán és azok világi papjai szándékosan is állítják élénk (lásd alant).  
 
 Az egész körülbelül olyan, mintha azt mondanánk, hogy az ős szavunkat az "üss" szóval keverve a magyarok kimentek a határhoz, hogy azt mondják, "Űsötök vagyunk, üssetek!" Mondjuk a Jézus féle keresztény felfogás szerint is ezt is várják el a magyaroktól.  
 
