@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/P/PO/","title":"PO","created":"2023-11-21T09:17","updated":"2025-07-30T03:33"}
+{"dg-publish":true,"permalink":"/P/PO/","title":"PO","created":"2023-11-21T09:17","updated":"2025-08-31T02:54"}
 ---
 
 
 # PO
 
-Jelentése hímségileg fő ill. fej, nőiségileg víz (variánsai pocs-olya, pöce, stb). Párja lehet [[P/PU\|PU]].  
+Jelentése hímségileg fő ill. fej, nőiségileg víz (változatai pocs-olya, pöce, stb). Párja lehet [[P/PU\|PU]].  
 
 Sok éves korai adatként több helyen szerepelt a PO víz értelemben vétele, de ahogy [[V/Víz\|víz]] szavunkban és posvány, [[P/POCS\|pocs]]olya, [[P/Pöce\|pöce]], [[P/Poszeidón\|Poszeidón]], [[P/Pozsony\|Pozsony]] szavakban, nevekben is látjuk, egy hang kell még a végére, hogy a vizes minőség kiadódjon.  
 Ami megtévesztő volt, hogy a [[P/PÓ\|Pó]] folyóban hiányzik ez a harmadik hang és a [[F/Folyó\|folyó]] szóból is, amely viszont másképp épülő szó. A [[P/Pohár\|pohár]] szó elejébe is belelátták/láttuk.  
