@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/P/PIK/","title":"PIK","created":"2023-10-21T05:07","updated":"2024-10-25T23:47"}
+{"dg-publish":true,"permalink":"/P/PIK/","title":"PIK","created":"2023-10-21T05:07","updated":"2025-08-31T02:54"}
 ---
 
 
 # PIK
 
-[[B/BÖK\|BÖK]] és [[B/BÉK\|BÉK]] alaki variánsának tekintendő.  
+[[B/BÖK\|BÖK]] és [[B/BÉK\|BÉK]] alaki változatának tekintendő.  
 Ezek után logikus, hogy a [[F/Fuck\|fuck]] és [[P/Pecker\|pecker]] szónak is megfelelően a dán `pik` = hímtag jelentésű ([[D/Duke\|duke]] címnél is megvolt).  
 
 Óegyiptomi nyelven `pik` könyököt (mely kún/hun vallási jelkép), mint mértékegységet jelent.  
