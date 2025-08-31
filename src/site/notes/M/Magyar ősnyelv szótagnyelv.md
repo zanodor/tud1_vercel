@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["containstransclusions"],"created":"2023-10-09T06:36","updated":"2025-07-14T17:44"}
+{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["containstransclusions"],"created":"2023-10-09T06:36","updated":"2025-08-31T02:53"}
 ---
 
 
@@ -39,7 +39,7 @@ Péterfai János jól látta meg, hogy a magyar szótagnyelv. Ezen szótagok ped
 ## Kétszótagú szavak összeállása
 
 Illetve még a fentiek kiegészítéseként inkább kezdjük a legelejéről.  
-Először jönnek a magánhangzók (ahogy Tomory Zsuzsa Szerves magyar nyelvtudomány című az Ősi Gyökér 2004/3. számában megjelenő, itt-ott idézett cikkében írt róluk), ahhoz járulnak a mássalhangzók, melyek közül kimondottan az alant taglalt szócskákat alkotó N és R érdekes (még a G, H, K is, mely az ég és föld kétbetűs szavait alkotják és variánsait, szavak végén gyakorta).  
+Először jönnek a magánhangzók (ahogy Tomory Zsuzsa Szerves magyar nyelvtudomány című az Ősi Gyökér 2004/3. számában megjelenő, itt-ott idézett cikkében írt róluk), ahhoz járulnak a mássalhangzók, melyek közül kimondottan az alant taglalt szócskákat alkotó N és R érdekes (még a G, H, K is, mely az ég és föld kétbetűs szavait alkotják és változatait, szavak végén gyakorta).  
 Az alapszavak mássalhangzó-vázra épülnek, bennük a magánhangzók cserélhetők (a magyar nyelvben nagy a variációs lehetőség, más nyelvekben hiányoznak hangok), általában mély magánhangzó mélyre, magas magasra, de ha az első szótag magas magánhangzós, akkor az általán mély magánhangzósnak ismert szóelem magasra vált, a magánhangzós harmónia szabály miatt.  
 A mássalhangzó-vázban a mássalhangzók szervrokonokkal (kategórián belül) cserélhetők; például [[C/Cölöp\|Cölöp]] Cöl eleme Szül változata.  
 A leginkább ismert és alkalmazott mássalhangzó-változások/cserék a P, B, V, F hangok között vannak (Pater, Bátor, Vezér, Fószer/Fasz-Úr például).  
