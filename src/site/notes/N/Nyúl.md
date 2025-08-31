@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nyúl/","title":"Nyúl","tags":["Englishtexttranslated"],"created":"2023-10-13T01:41","updated":"2025-06-09T15:21"}
+{"dg-publish":true,"permalink":"/N/Nyúl/","title":"Nyúl","tags":["Englishtexttranslated"],"created":"2023-10-13T01:41","updated":"2025-08-31T02:52"}
 ---
 
 
@@ -74,7 +74,7 @@ Hogy a lányok a szebbik nem, ez ismeretes. A latin `lepus` = nyúl is köthető
 
 A germán, olasz, stb. eredeztetésekre szakosodott Supka Géza Kalandozás a kalendáriumban című könyvében persze azt írja, hogy a piros [[T/Tojás\|tojás]]okat tojó nyúllal kapcsolatban, hogy kiváló – de Henseling olvasására idejét nem vesztegető – etnológusunk, Solymossy Sándor kimutatása szerint egyszerű nyelvi botlásból született meg (de a kérdés itt is az, mint másutt, melyik volt előbb a tojás vagy sem, azaz nem éppen a németek a fentiek miatt nevezték el a tyúkot nyulasan?):  
 > A botlást az egyébként annyira pontos németek követték el, amikor a fiatal, kövér madárnak, a Haselhuhnnak a nevét értették félre Haserlnek, nyulacskának, s azóta – minden természettudományos jobb meggyőződésük ellenére – nyúllal tojatják a piros tojást.  
-- [[N/Nyelvészet mint tudomány\|Nyelvészet mint tudomány]], valamint [[N/Népetimológia\|népetimológia]] címnél (ezen utóbbi címnél meg is tárgyaltuk ezt a témát) is szóltunk az efféle csapdákról: nem úgy kell a nyelvi botlásra gondolni, hogy egyik az átadó, másik az átvevő, hanem közös eredetű alapnyelv és közös turáni-szkíta-hun nézetrendszerek variánsai alakítják illetve vannak befolyással a másikra úgy, hogy akár az adott hagyományt jobban fenntartó kárára történik a változtatás, mely káros elemek éppen azon indoeurópai és sémi területekről is érkeznek, melyeket Supka szinte állandó jelleggel mutat fel kultúraátadónak, a hivatalos nézeteket követve.  
+- [[N/Nyelvészet mint tudomány\|Nyelvészet mint tudomány]], valamint [[N/Népetimológia\|népetimológia]] címnél (ezen utóbbi címnél meg is tárgyaltuk ezt a témát) is szóltunk az efféle csapdákról: nem úgy kell a nyelvi botlásra gondolni, hogy egyik az átadó, másik az átvevő, hanem közös eredetű alapnyelv és közös turáni-szkíta-hun nézetrendszerek változatai alakítják illetve vannak befolyással a másikra úgy, hogy akár az adott hagyományt jobban fenntartó kárára történik a változtatás, mely káros elemek éppen azon indoeurópai és sémi területekről is érkeznek, melyeket Supka szinte állandó jelleggel mutat fel kultúraátadónak, a hivatalos nézeteket követve.  
 
 #### Jankovics Marcell Jelkép-kalendárium...  
 
