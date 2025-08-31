@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hydro/","title":"Hydro","created":"2025-05-23T02:06","updated":"2025-05-23T02:07"}
+{"dg-publish":true,"permalink":"/H/Hydro/","title":"Hydro","created":"2025-05-23T02:06","updated":"2025-08-31T02:07"}
 ---
 
 
@@ -17,7 +17,7 @@ Arról Magyar Adorján nem szól, bár Aczél József tesz rá utalást, hogy [[
 Lásd még mindenképpen [[H/HUD\|HUD]] és [[H/Hugya\|hugya]]. Lásd még továbbá [[H/Hydra csillagkép\|Hydra csillagkép]] cím alatt írottakat is.  
 
 Mivel – ahogy Jankovics Marcell egyik könyvéből kiderül – a görög `hűdór` = esőt, nemcsak vizet jelent, ez leegyszerűsíti a kérdést: [[H/Húgy\|húgy]] lenne a keresett szó. Ami a görög szó igepárját illeti, `hüein` = esni (eső) (mely a Hyádok egyik etimológiája lehet (lementükkor áll be az esős évszak) lehet utólag alkotott (ahogy a Robert Graves által adatolt görög `hygra` = tenger szó is), vagy közvetlenül a [[H/HU\|HU]] = csillag jelentéséből kiinduló. Célszerűbb az előbbi mellett voksolni, de közben [[H/HUD\|HUD]] címnél is született egy levezetés:  
-HUD lehet egyszerűen [[U/UD\|UD]] = Nap hehezetes alaki variánsa. A víz (húgy) értelem pedig úgy alakult ki UD > HUD > húgy vonalon, ahogy a hímségi [[V/VID\|VID]]-ből is a (hímséginek is kezelhető) [[V/Víz\|víz]]. De a [[R/Rain\|rain]] = eső is fentről jön, [[R/RÉN\|RÉN]]-től.  
+HUD lehet egyszerűen [[U/UD\|UD]] = Nap hehezetes alaki változata. A víz (húgy) értelem pedig úgy alakult ki UD > HUD > húgy vonalon, ahogy a hímségi [[V/VID\|VID]]-ből is a (hímséginek is kezelhető) [[V/Víz\|víz]]. De a [[R/Rain\|rain]] = eső is fentről jön, [[R/RÉN\|RÉN]]-től.  
 
 Egyébiránt Richard H. Allen könyvéből kiderül, hogy az akkád `hid` = folyó (a Tejutat Hid In-Ni-Naanak, Innana/Istár folyójának nevezték). Magyar A. adata szerint a [[T/Tigris\|Tigris]] folyót a Biblia **Hiddékel**-nek nevezi.  
 - Rokon szavakat lásd még [[H/Hód#^f45wq\|hód]].
@@ -32,4 +32,4 @@ Amit még egyszer elő lehet itt venni, az a Magyar Adorján által fentebb is e
 
 | Jelentés | Hettita | Szanszkrit | Görög | Latin | Angol | Örmény | Tokhár B | Óír | Litván | Albán |
 | -------- | ------- | -------- | ----- | ----- | ------- | -------- | ----------- | --------- | ---------- | -------- |
-| 'víz'    | wātar   | udakám   | hýdōr | —     | water   | —        | war         | uisce     | vanduõ     | ujë      |
+| 'víz'    | wātar   | udakám   | hýdōr | —     | water   | —        | war         | uisce     | vanduő     | ujë      |
