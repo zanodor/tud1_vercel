@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csillag/","title":"Csillag","created":"2024-05-09T17:16","updated":"2025-08-19T00:53"}
+{"dg-publish":true,"permalink":"/C/Csillag/","title":"Csillag","created":"2024-05-09T17:16","updated":"2025-08-31T02:06"}
 ---
 
 
@@ -22,7 +22,7 @@
 > A [[T/TIL\|TIL]], [[D/DIL\|DIL]] önmagában is Csillag. Til-Lak nem más, mint a Csil-Lag régi alakja. De a Csillag magyar szó lehet Csill-Ág is, ebben az esetben a Lak/Lag nem szerepelne a névben. De őseink több értelmű szavakat hoztak létre nagyon sokszor, ezért az összes értelmezésnek létjogosultsága van.  
 - Erről szóltunk [[M/Magyar képrejtvények\|magyar képrejtvények]] szócikknél is.
 
-Amit Péterfai János így külön nem említ, hogy a Lag/Lak gyakorlatilag olyan hely, ahol a láng honol. Csillag szavunkat Nagy Sándor ugyan CSI = kicsi, LAG = láng alakokra bontja fel, de a [[L/LÁG\|LÁG]] valóban úgy tűnik, hogy láng szavunk orrhang nélküli variánsa, mely meglehetett ősnyelvünkben.  
+Amit Péterfai János így külön nem említ, hogy a Lag/Lak gyakorlatilag olyan hely, ahol a láng honol. Csillag szavunkat Nagy Sándor ugyan CSI = kicsi, LAG = láng alakokra bontja fel, de a [[L/LÁG\|LÁG]] valóban úgy tűnik, hogy láng szavunk orrhang nélküli változata, mely meglehetett ősnyelvünkben.  
 
 Orrhang nélküli [[L/LÁG\|lág]] szót érteni bele inkább a görög [[L/Logosz\|logosz]]-ba is, mint a Varga Csaba által promotált `lógós`-t.  
 - [[L/Logosz\|Logosz]] címszó mellett [[L/Lack\|lack]] címnél is mint megállapított szót említettük, hisz ilyen lág alakú szó ma nincs.
