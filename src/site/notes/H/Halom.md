@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/H/Halom/","title":"Halom","created":"2023-12-08T09:21","updated":"2025-04-04T22:56"}
+{"dg-publish":true,"permalink":"/H/Halom/","title":"Halom","created":"2023-12-08T09:21","updated":"2025-08-31T02:07"}
 ---
 
 
 # Halom
 
-[[H/HAL\|HAL]] lehet még [[K/KAL\|KAL]] és [[G/GAL\|GAL]] hehes variánsa, minthogy halom (Hal-Om) szóban is ezt a Nagy-Föld értelmet kell keresni.  
+[[H/HAL\|HAL]] lehet még [[K/KAL\|KAL]] és [[G/GAL\|GAL]] hehes változata, minthogy halom (Hal-Om) szóban is ezt a Nagy-Föld értelmet kell keresni.  
 
 #### Péterfai János írja:
 
