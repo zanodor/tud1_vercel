@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2024-10-26T00:31"}
+{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2025-08-31T02:52"}
 ---
 
 
@@ -64,7 +64,7 @@ A szkíta örökségre törő zsidók és indogermánok közös közvetlen (nyel
 #### Csihák György Gens Hun(gar)orum – magyar nemzet Hun? Szkíta? Avar? Finnugor? Magyar? – Mi vagyok én?...
 
 ...című cikkében a korábbi (felfogás szerinti) sumér nyelv jön elő:  
-> Azt már a nyelvtudomány két óriása, Rawlison \[melyik és tényleg az-e?\] és Lenormant bebizonyította, hogy a köztudatban szumernak nevezett nyelv a szkíták nyelve. A szkíták és az avarok kapcsolata a Folyamközzel és Egyiptommal közismert.  
+> Azt már a nyelvtudomány két óriása, Rawlinson \[melyik és tényleg az-e?\] és Lenormant bebizonyította, hogy a köztudatban szumernak nevezett nyelv a szkíták nyelve. A szkíták és az avarok kapcsolata a Folyamközzel és Egyiptommal közismert.  
 
 ## Tökéletes bizonyíték a szkíták magyar nyelvűekként való bizonyítására
 
@@ -134,7 +134,7 @@ Lovasíjász népeink nyelvét és szavait örökölte (hanyatlott formában) mi
 
 Buji Ferenc passzusa [[C/Cannabis\|cannabis]] címnél is szerepelt:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/c/cannabis/#2zaaap" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/C/Cannabis/#2zaaap" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
