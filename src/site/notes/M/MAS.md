@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2025-08-27T03:06"}
+{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2025-08-31T02:53"}
 ---
 
 
@@ -62,7 +62,7 @@ Jankovics Marcell Jelkép-kalendárium című könyvének adata szerint Szent Hu
 
 Az Ikrek és a gyermek (illetve a kecske kicsinye – eredetileg szarvasfiú) sumer-sémi MAS szavának azért a mi [[M/Más\|más]] szavunk az eredete, mert a [[M/MES\|mes]]-fa – ami a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en van – az, ahonnan a lelkek is származnak. Ahogy [[C/Cölöp\|cölöp]] címnél is írtuk, a Szül-Ep azért érdekes, mert a [[M/Méhlepény\|méhlepény]] egy alternatív neve a [[M/Más\|más]] volt és gyermek születéskor is szokás volt fát ültetni, melyben a gyerek mását, azaz más(ik) lelkét gondolták (ahonnan, mármint a Tejútfáról erednek eleve a lelkek; ez a képzet magyarázata).  
 
-A [[M/Mózes\|Mózes]] címnél is említett szülött jelentés kapcsán annyit, hogy a mítoszok mindig fiúkról szólnak, és a fiú, mint naphős a nyári napfordulóhoz érve férfi lesz. Ezen jelentés van meg a [[M/Man\|man]] és [[M/MISZ\|MISZ]] címnél is említett, itt már felhangosan jelentkező észt `mees` és finn `mies` = férfi, hím; férj szavakban is.  
+A [[M/Mózes\|Mózes]] címnél is említett szülött jelentés[^3] kapcsán annyit, hogy a mítoszok mindig fiúkról szólnak, és a fiú, mint naphős a nyári napfordulóhoz érve férfi lesz. Ezen jelentés van meg a [[M/Man\|man]] és [[M/MISZ\|MISZ]] címnél is említett, itt már felhangosan jelentkező észt `mees` és finn `mies` = férfi, hím; férj szavakban is.  
 
 Lásd még [[M/Más\|más]]. Lásd még szintén sumér-babiloni zodiákus-jegy elnevezés vonalon [[M/MES\|MES]].  
 
@@ -73,3 +73,7 @@ Varga Zsigmond Az ősmagyar mitológia című könyvében más téma kapcsán em
 
 [^2]: Lábjegyzet:  
 Egy korai termékenység isten, akit imádtak, különböző jelzőkkel látták el mindenhol, mint például "oroszlánfejű sas." Cf H. Frankfort: Early Dynastic Sculptured Mace-heads. A. Orientalia 1935, p. 105.  
+
+[^3]: Lábjegyzet:  
+Jankovics Marcell A Nap könyve című könyvének 269. oldalától írja:  
+A név az egyiptomi `messu`, `mose`, "született", "gyermek" szó tulajdonnévi változata, mely "-fi" értelemben fordul elő rendesen nevek utótagjaként (például a Thotmesz, Ramszesz, Ptahmesz, Jahmesz fáraónevekben; e nevek előtagja láthatóan istennév).  
