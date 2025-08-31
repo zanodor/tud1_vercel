@@ -5,7 +5,7 @@
 
 # KUM
 
-A [[K/KUN\|KUN]] Napnév és a [[H/HUM\|HUM]] variánsa. A szamojéd `kum` (Nap)Ember. (Magyar Adorjánnál az áll, hogy a vogul nyelvben is `hum` = ember, férfi[^1].)  
+A [[K/KUN\|KUN]] Napnév és a [[H/HUM\|HUM]] változata. A szamojéd `kum` (Nap)Ember. (Magyar Adorjánnál az áll, hogy a vogul nyelvben is `hum` = ember, férfi[^1].)  
 A zürjének önelnevezése, a [[K/Komi\|komi]] is ilyen név lehet, de a [[H/Hun\|hun]] szóval is rokonítható. Sőt, maga a [[H/Hun\|hun]] minden nép atyja vagy valamilyen rokona. Valójában [[H/Hun\|hun]] címnél írottak alapján a Tejút fényhonából érkező (Menny Fia) embert jelenti. A [[K/Koma\|koma]] is ilyen alakú szó.  
 Jegyezzük meg azt is (erről [[S/Szamojéd\|szamojéd]] és [[F/Finnugor nyelvek\|finnugor nyelvek]] címnél is muszáj volt szólnunk), hogy az [alábbi](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/gum%C3%B4) oldalon taglalt, latin `homo` = ember szó párjaként készített proto-germán \*gumô eredettel megjelölt óangol `guma` is ilyen alakú szó (ahogy [ezen](https://www.wordsense.eu/human/) oldalon is írják, ezt váltotta fel aztán a [[H/Human\|human]]).  
 
