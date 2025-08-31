@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jár/","title":"Jár","created":"2024-06-04T16:16","updated":"2025-08-19T00:57"}
+{"dg-publish":true,"permalink":"/J/Jár/","title":"Jár","created":"2024-06-04T16:16","updated":"2025-08-31T02:08"}
 ---
 
 
@@ -40,7 +40,7 @@ Kandra Kabos Magyar Mythologia című könyvének (a PDF) 211. oldalán írja, h
 
 Egyezik alakban és érteményben jár igénkkel a török `yürümek` = járni.  
 
-Az Ipolyi Arnold Magyar mythologia című könyvében is említett szlovák `jar` és cseh `jaro` = tavasz is egyezik ezen szavakkal (~~de nyár sem áll messze tőlük~~). (Amennyiben nem a skandináv `vår` = tavaszt jelentő szó J-V variánsa.)  
+Az Ipolyi Arnold Magyar mythologia című könyvében is említett szlovák `jar` és cseh `jaro` = tavasz is egyezik ezen szavakkal (~~de nyár sem áll messze tőlük~~). (Amennyiben nem a skandináv `vår` = tavaszt jelentő szó J-V változata.)  
 
 Az [[A/Aalu\|Aalu]] címnél is szerepelő adatok szerint Aalu (változatai Aaru, Jalu vagy Jaru) Egyiptomban a Paradicsom elnevezése volt. A Jaru formával szinte azonos a teleut `jär` = föld[^1] és török `jer` = föld, hely szóval és jár szavunkkal is. (A földön járunk.)  
 A vogul `járkum` = óriás sem vélhetően a várkunokra, hunokra való utalás lehet, ha éppen nem a `jár` = föld értelmet kell keresni itt, míg [[K/KUM\|kum]] = ember.  
