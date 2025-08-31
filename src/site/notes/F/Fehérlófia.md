@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehérlófia/","title":"Fehérlófia","created":"2024-12-18T08:01","updated":"2025-08-16T15:31"}
+{"dg-publish":true,"permalink":"/F/Fehérlófia/","title":"Fehérlófia","created":"2024-12-18T08:01","updated":"2025-08-31T02:07"}
 ---
 
 
@@ -12,7 +12,7 @@ Az [alábbi](https://youtu.be/aeRDLskUSZM) Turul és Szarvas II. rész című Á
 - Amit Péterfai János ír:  
 > [[T/Temetkezés\|Temetkezés]]eknél a halottra szarvasfejet, kosfejet, kecskefejet helyeztek, de nem csak itt, hanem más helyeken is. A [[S/Szarvas\|szarvas]], kos, bak [[A/Agancs\|agancs]]a, szarva egyértelműen [[T/Tejút\|Tejút]] jelkép. Azt segíti elő, hogy a halott lelke a csillagokba távozzon, majd onnan újra megszülethessen a földön. A csavart szarvak az [[A/Aranymetszés\|aranymetszés]] matematikáját tartalmazzák, amit őseink ismertek.  
 
-Azt viszont tudjuk, legutóbb [[G/Gyne\|gyne]], [[M/Magyar\|magyar]], [[K/Kígyóistennő\|kígyóistennő]] és [[H/Herkules\|Herkules]] címnél írottak alapján is, hogy más esetekben, másutt [[T/Tehén\|tehén]] ábrázolást, vagy akár [[K/Kígyó\|kígyó]]ábrázolást (és egyebeket) kap a Tejútanya; ez annak tudható be, hogy ugyanannak a kozmikus mondának több, egymástól földrajzilag és időben is eltérő megjelenése lehet, még közvetlenül magyar ajkú nyelvterületen is (csak gondoljunk bele, milyen régi, akár több százezer vágy több millió éves lehet az első monda).  
+Azt viszont tudjuk, legutóbb [[G/Gyne\|gyne]], [[M/Magyar\|magyar]], [[K/Kígyóistennő\|kígyóistennő]] és [[H/Héraklész\|Héraklész]] címnél írottak alapján is, hogy más esetekben, másutt [[T/Tehén\|tehén]] ábrázolást, vagy akár [[K/Kígyó\|kígyó]]ábrázolást (és egyebeket) kap a Tejútanya; ez annak tudható be, hogy ugyanannak a kozmikus mondának több, egymástól földrajzilag és időben is eltérő megjelenése lehet, még közvetlenül magyar ajkú nyelvterületen is (csak gondoljunk bele, milyen régi, akár több százezer vágy több millió éves lehet az első monda).  
 És hogy a monda magyar eredetű, ennek bizonysága, hogy Fehérló előjön a görög nyelvre fordítva is: Leukippé illetve a Joseph Fontenrose Orionjának 48. oldalán is taglalt Leukippos ugyanis ezt jelenti, de [[L/Leukothea\|Leukothea]] = Fehér Isten(nő) is a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjá]]ra illetve magára a Tejútistennőre utal. Ezek alapján sem lehet a [[T/Tejút\|Tejút]] a német `Milchstrasse`, az angol `Milky Way` vagy a latin `Via Lactea` tükörfordítása.  
 
 #### Péterfai János...
