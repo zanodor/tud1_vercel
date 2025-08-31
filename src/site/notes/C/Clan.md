@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Clan/","title":"Clan"}
+{"dg-publish":true,"permalink":"/C/Clan/","title":"Clan","created":"2025-03-05T02:53","updated":"2025-08-31T02:06"}
 ---
 
 
@@ -13,6 +13,6 @@ Mesterházy Zsolt írja:
 - Mesterházy Zsolt mindenütt Timaru-Kast Sándor adataira támaszkodik.
 
 A csecsenek büszkék skót genetikai rokonságukra(?) (mégis büszkébb arab-muszlimok?!); hozzájuk hasonlóan ők is klánként utalnak felmenőikre. Szokás náluk ill. kötelező 7 generációra visszamenőleg felmenőik ismerete. Szkíta-hun szokással van dolgunk. Skót-keltában `clann`, óírben `cland` ugyanez. A nyelvészet el van tévedve, hogy a latin `planta` = sarj(adék) szóból eredőnek veszi.  
-Erős a késztetés még, hogy a [[K/KAN\|KAN]], [[K/Kán\|kán]] szavak l-vendéghangos variánsának vegyük. A vendéghang épp azt hivatott jelölni, hogy magas magánhangzó van a szóban, így Kán tűnik a helyesnek.  
+Erős a késztetés még, hogy a [[K/KAN\|KAN]], [[K/Kán\|kán]] szavak l-vendéghangos változatának vegyük. A vendéghang épp azt hivatott jelölni, hogy magas magánhangzó van a szóban, így Kán tűnik a helyesnek.  
 
 A fentiekhez csak kiegészítésként írható, hogy a gon- = származás, kezdet szó is számításba jöhet.  
