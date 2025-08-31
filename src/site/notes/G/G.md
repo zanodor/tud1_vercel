@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2025-06-12T01:39"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2025-08-31T02:08"}
 ---
 
 
@@ -43,7 +43,14 @@ Hasonló esetet másutt is láttuk, amikor például [[M/Magor\|Magor]]/[[M/Maga
 ## Török ğ hang
 
 A törökországi törökök tulajdonképpeni önazonosítására használt [[O/Oguz\|oguz]] névben g valójában ğ azaz gh hang, melyről nemcsak a `kağan` név kapcsán, hanem az [[U/UL\|UL]] és [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél taglalt példák kapcsán is volt szó.  
-Az [[O/Oguz\|oguz]] név kapcsán az [alábbi](https://qr.ae/pvAZDU) Quora válasz kommentjében Esra Dur AKA Supplex nevű török lány írja ([[M/Magánhangzók#Hosszú magánhangzók hiánya az utódnyelvekben\|hosszú magánhangzók hiánya az utódnyelvekben]] cím/alcímnél is szerepelt):  
+
+A török `oğul` és jakut (tuvan vagy szaka) `ool` ezt jelenti (a jakut \[beszélő elmondása szerint; Bahador Alast videóban\] inkább boy és nem son jelentésű, de mindegy is). A török szóban a ğ hang alig ejtett (vagy h-ként ejtett). Amikor a török srác a török `iğne` = tű szót kifejtette \[íne\], pontosan azt kaptam, amit vártam. Hosszan ejti az i-t. A hosszú magánhangzók kiírása helyett használják a g/h hangokat.  
+[Ezen](https://qr.ae/pN2kOQ) több helyen idézett Quora válaszban leírják, hogy bizonyos szavakban hogy kell ejteni az azóta [[G/G\|G]] címnél oguz név kapcsán is taglalt ğ hangot. Úgy tűnik, hogy a hosszú mássalhangzók hiánya miatt van betoldás. Azaz úz > oguz.  
+
+Thúry József Török történetírók I. kötetének szójegyzékében a török `tugra` = szultán névjegye szó kapcsán is írja: kiejtve: túra.  
+A [[D/Dear\|dear]] címnél említett (széthúzott) török `değer` = érték (`değerli` = értékes; drága mondhatnánk) jelentésű szóban is megtaláljuk.  
+
+A már kétszer említett oguz név kapcsán az [alábbi](https://qr.ae/pvAZDU) Quora válasz kommentjében Esra Dur AKA Supplex nevű török lány írja ([[M/Magánhangzók#Hosszú magánhangzók hiánya az utódnyelvekben\|hosszú magánhangzók hiánya az utódnyelvekben]] cím/alcímnél is szerepelt):  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Magánhangzók/#5vk3rq" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
