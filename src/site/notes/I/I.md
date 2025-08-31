@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2025-08-19T01:07"}
+{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2025-08-31T02:22"}
 ---
 
 
@@ -139,7 +139,7 @@ Sok esetben, főleg nevek végén i-nek kezelt, a magyar nyelvben is. De idegen 
 # I 2)
 
 [[E/ÉN\|Én]] személyes névmás az angolban.  
-Péterfai János arról ír, hogy Én – Te – Ő személyes névmásaink mind Isten jelentésűek. [[E/EN\|EN]], Én szavunk [[A/AN, ÁN\|AN, ÁN]] variánsa, és mint Eget jelentő etimon, Ég szavunkból alakult ki a német `ich` és angol `I` is.  
+Péterfai János arról ír, hogy Én – Te – Ő személyes névmásaink mind Isten jelentésűek. [[E/EN\|EN]], Én szavunk [[A/AN, ÁN\|AN, ÁN]] változata, és mint Eget jelentő etimon, Ég szavunkból alakult ki a német `ich` és angol `I` is.  
 Lényegében mi a hun AN (ÁN) = ég, menny szavunk nyomán használjuk [[E/ÉN\|ÉN]] szavunkat, a perzsa `man` = én a menny ([[M/Men\|men]]) szóból, a germán `ich` és latin [[E/Ego\|ego]] pedig a magyar [[E/Ég\|ég]] szóból indul ki: mindegyik annak bizonyításául szolgál, hogy az emberek ismerték eredetüket (ahogy erről [[O/Önazonosítás\|önazonosítás]] címnél is volt szó). A népek nevei is hasonlóan alakultak ki, ahogy az országok nevei is.  
 
 #### Magyar Adorján...  
