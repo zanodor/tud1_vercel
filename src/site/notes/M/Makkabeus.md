@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makkabeus/","title":"Makkabeus","created":"2024-05-11T02:24","updated":"2024-10-25T23:17"}
+{"dg-publish":true,"permalink":"/M/Makkabeus/","title":"Makkabeus","created":"2024-05-11T02:24","updated":"2025-08-31T02:54"}
 ---
 
 
 # Makkabeus
 
-Péterfai János írásában szerepel, hogy a szabeus és makkabeus nevekben a szóvégi Beus a Nap Bog/Büj nevének variánsa lehet. Az előtag természetesen a magyarokat, napistenüket jelöli.  
+Péterfai János írásában szerepel, hogy a szabeus és makkabeus nevekben a szóvégi Beus a Nap Bog/Büj nevének változata lehet. Az előtag természetesen a magyarokat, napistenüket jelöli.  
 
 A makkabeusok a héberek hellenizációja (Antiochus Epiphanes) ellen diadalmaskodtak és a történet úgy tartja, hogy [[H/Hanukkah\|Hanukkah]] ünnepe is ehhez a győzelemhez kapcsolók. Mivel Hanukkah a fény győzelmének ünnepe, ahogy minden [[D/Diadal\|diadal]], [[G/Győz\|győz]]elem ([[V/Victory\|victory]]) ahhoz a bizonyos [[T/Téli napforduló\|téli napforduló]]s naphoz köthető, a makkabeus felkelés háttértörténetet utólag gyárthatták hozzá.  
 
