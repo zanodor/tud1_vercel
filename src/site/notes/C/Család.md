@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Család/","title":"Család","created":"2024-11-06T16:18","updated":"2024-11-06T16:18"}
+{"dg-publish":true,"permalink":"/C/Család/","title":"Család","created":"2024-11-06T16:18","updated":"2025-08-31T02:06"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Elsődleges jelentése volt a gyerek és másodlagos a ma elterjedtebb használat, família jelentéssel, írja Péterfai János. Lásd Péterfai János írását (és azóta a sajátomat) is [[C/Child\|child]], valamint még [[H/Hold\|Hold]].  
 
-Mivel a [[C/Child\|child]] címnél is említett kelta `gaol` = (nagy)család, rokonság (`gaolta` = rokonság, család szintén) nem cs-előhangos, ezen szavunknak kellett legyen k-előhangos variánsa is. (Ezek alapján a [[K/Káld\|káld]] is lehetne család értelmű.)  
+Mivel a [[C/Child\|child]] címnél is említett kelta `gaol` = (nagy)család, rokonság (`gaolta` = rokonság, család szintén) nem cs-előhangos, ezen szavunknak kellett legyen k-előhangos változata is. (Ezek alapján a [[K/Káld\|káld]] is lehetne család értelmű.)  
 És lám, a görög nyelvben `kládosz` = családfa ága, honnan `kladí` = faág. Az sem elképzelhetetlen, hogy a [[C/Class\|class]] = osztály szó is a leszármazásra, családra utal (D>SZ).  
 Ezen szavakat közben [[C/Child\|child]] és [[T/Törzs\|törzs]] címnél is említettük. Lásd előbbi címnél írottakat, ha már ide nem kerúltek át.  
 
