@@ -8,7 +8,7 @@
 Első értelmezése szerint annyi, mint [[M/Meddő#Meddő és mező\|meddő]].  
 Más megközelítésben is taglalható.  
 A mező is olyan szó, mely – azon felül, hogy két folyó közt terül el (honnan [[M/Meadow\|meadow]], [[M/Meso-\|meso-]] szavak is) – a Nap által ugyanígy akadálytalanul bevilágított, mint a [[R/Rét\|rét]] (Ré-Ta) vagy a [[S/Sík\|sík]] ([[S/SZIK\|SZIK]]) szavunk által leírt területek. De maga [[T/Tisztás\|tisztás]] szavunk is tiszta, fehér minőséget hordozzák azzal, hogy a tisztás a Tűz/Tíz Tája.  
-Ezek alapján gondolható, hogy [[M/MI\|MI]] > [[M/MISZ\|MISZ]] alapszavaink, melyeknek mez, mesz, mész variánsai is vannak, állhatnak mező szavunk mögött.  
+Ezek alapján gondolható, hogy [[M/MI\|MI]] > [[M/MISZ\|MISZ]] alapszavaink, melyeknek mez, mesz, mész változatai is vannak, állhatnak mező szavunk mögött.  
 
 Viszont mivel [[M/Méz\|méz]], [[M/MES\|MES]] és [[M/MISZ\|MISZ]] kapcsán égi területekről volt szó, itt is az égen kellene keresni mezőt. Hogy is állt másutt? Eredetileg térközt, folyóközt jelent, innen ered [[M/Mezopotámia\|Mezopotámia]] neve vagy Mezo-Amerika elnevezése is.  
 Igen ám, de ha a meghatározás szerint két folyó közötti területről van szó, akkor gondot okoz, hogy a Tejútból csak egy van. Igen ám, de a Tejútnak van egy [[V/Villa\|villá]]s (John M. Jenkinsnél "bifurcated") elágazása is, mely közötti terület neve lehetne a mező. A Tejút két ága közti tengerszigetről [[S/Sziget\|sziget]] címnél is volt szó (lásd Péterfai János ábráját azért ide is csatolva). Ez lenne az égi mező? Lehetne, bizony.  
