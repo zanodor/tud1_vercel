@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2025-06-08T01:12"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2025-08-31T02:52"}
 ---
 
 
@@ -43,7 +43,7 @@ Michel-Gerald Boutet Druidical Astrology című dolgozatában írja (a Duna-ment
 > A Makara jelet időnként krokodilként, de gyakrabban delfinként ábrázolták. A delfin, amely a görög mítoszokban és a kelta mítoszokban is jelen van, mint delfin vagy sellő. Az ősvizekből kiemelkedő szellemet szimbolizálja. Azt lehet állítani, hogy a mítosz Sumérból származik. Mindazonáltal a Lepenski Vir dunai homokkőszobrai, amelyek Kr. e. 6000-5000-re datálhatók, halembereket vagy sellőket ábrázolnak, amelyek párhuzamba állnak a sumér mítoszokkal.  
 
 [[H/Három nap\|Három nap]] és [[V/Vörös\|vörös]] címnél is szerepelt Jankovics Marcell passzusa (a tengeri szörny fogalmára kaptam fel a fejem):  
-> [[H/Heraklész\|Héraklész]], amikor három nap után kivágja magát a tengeri szörny gyomrából, kopasz és vörös, mint egy újszülött.  
+> [[H/Héraklész\|Héraklész]], amikor három nap után kivágja magát a tengeri szörny gyomrából, kopasz és vörös, mint egy újszülött.  
 
 Úgy tűnik, a Makara név a Bakban megszülető Nap (Makar, Magur) nevéről vitetett át az őt szülő szörny illetve tengeri lény nevére.  
 
