@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2025-07-19T00:55"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2025-08-31T02:08"}
 ---
 
 
@@ -51,7 +51,7 @@ Alapvetően a [[L/Light\|light]] címnél írottak érvényesek itt is.
 CzF azt írja ugye, hogy a régi iratokban **éber** formában is közölték a héber nevet. [[H/Habiru\|Habiru]] címnél pedig **Ever** nemzetség héberes v-s változata került elő.  
 
 Az [[E/Éber\|éber]] szavunkat az [[E/EB\|EB]] szóhoz kötöttem, minthogy az Eb ereje abban áll – többek között – hogy éber.  
-Valóban, héber az éber hehezetes variánsa, így gyakorlatilag kétféleképp is igazolt kabar-hun eredetük.  
+Valóban, héber az éber hehezetes változata, így gyakorlatilag kétféleképp is igazolt kabar-hun eredetük.  
 Az Éber nevet Fáy Elek A magyarok őshona című könyvének 20. oldalán is említi, mint zsidó ősatyát (Eb-Úr?).  
 
 Patricia Monaghan Kelta enciklopédiájában egy kelta Éber névnél is szól arról, hogy a Bibliában, a Genezisben előjön Eber neve.
