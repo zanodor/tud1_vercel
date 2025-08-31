@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jel/","title":"Jel","created":"2023-10-26T03:36","updated":"2024-10-25T22:03"}
+{"dg-publish":true,"permalink":"/J/Jel/","title":"Jel","created":"2023-10-26T03:36","updated":"2025-08-31T02:08"}
 ---
 
 
@@ -13,7 +13,7 @@
 > Szumér: gir₃ ="Fuss, Schritt, Weg, Pfad, Tritt, Spur" (láb, lépés, út, csapás, nyom);  
 > `gug` = "Siegel" (pecsét, tulajdonjegy).
 
-Úgy tűnik, [[E/EL\|EL]] ([[E/ÉL\|ÉL]]) szavunk, Istennevünk jejes variánsa.  
+Úgy tűnik, [[E/EL\|EL]] ([[E/ÉL\|ÉL]]) szavunk, Istennevünk jejes változata.  
 
 #### Péterfai János is írja:  
 
