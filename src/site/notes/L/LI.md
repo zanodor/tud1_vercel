@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/LI/","title":"LI","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-09T04:34","updated":"2025-04-27T10:02"}
+{"dg-publish":true,"permalink":"/L/LI/","title":"LI","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-09T04:34","updated":"2025-07-12T00:28"}
 ---
 
 
@@ -35,9 +35,9 @@ Azaz a Magyar etimológia szótár a `kifli` szót adja meg egyfajta prototípus
 - A latin szót [[K/Kép\|kép]] címnél is láttuk, más korábbi szavakkal. Azaz a végső forrás itt sem végső forrás, csak ameddig "kedvük van" lehatolni, vagy ameddig tudnak.
 
 A `virbli` ("kavarodás, zűrzavar") szó kapcsán adott magyarázatot vehetjük mérvadónak:  
-> A német `Wirbel` (‘forgás, forgatag’) átvétele a szillabikus l szokott feloldásával (mint `svindli`, `tipli`).
+> A német `Wirbel` ('forgás, forgatag') átvétele a szillabikus l szokott feloldásával (mint `svindli`, `tipli`).
 
-Germán eredetű szavak (már-már teljes) listája (a fent említett öt kivételével): `gerstli`, `virsli`, `nudli`, `nokedli`, `hokedli`, `sámli`, `kurbli`, `kugli`, `fangli` v. `fandli` v. `fándli`, `stopli`, `dekli`, `stangli`, `puszedli`, `tarkedli`, `bejgli`, `kamásli`, `fásli`, `pemszli`, `csúzli`, `tasli` v. `tacsli`, `frocli`, `cetli`, `sramli`, `stikli`, `bóvli`, `verkli`, `spicli`, `virtigli`, `betli`.   
+Germán eredetű szavak (már-már teljes) listája (a fent említett öt kivételével): `gerstli`, `virsli`, `nudli`, `nokedli`, `hokedli`, `sámli`, `kurbli`, `kugli`, `fangli` v. `fandli` v. `fándli`, `stopli`, `dekli`, `stangli`, `puszedli`, `tarkedli`, `bejgli`, `kamásli`, `fásli`, `pemszli`, `csúzli`, `tasli` v. `tacsli`, `frocli`, `cetli`, `sramli`, `rumli`, `stikli`, `bóvli`, `verkli`, `spicli`, `vinkli`, `virtigli`, `betli`.   
 A [[D/Dear\|dear]] címnél említett török `değerli` = értékes (drága, mondhatnánk) szóban a -li végződés nyilván melléknévképző.  
 
 Ha már török, a -li végződés megvan [[G/Göbekli Tepe\|Göbekli Tepe]] nevében, ahol Göbek = Köpek = kutya, és LI valóban lehet király. De nyilván ez a végződés már egy bejáratott, későbbi korból való.  
