@@ -59,7 +59,7 @@ Lásd még szamár (és kutya)fejű [[S/Széth\|Széth]]-et (ne feledjük a gör
 > Az itáliai [[F/Faun\|faun]]ok nem fa alakúak, hanem emberszerűek, fejükön kis szarvval, jelezve, hogy alsórendű istenkék. A lábuk szőrös, még kecskeláb formában is ábrázolják, ami az égből való származásra mutat rá, a pata miatt. Az éji ég fekete, a fekete a halál színe, innen a patás forma.  
 - Vajh hasonlóan szólna a szatírokról?
 
-Lényegében arról lehet szó, hogy a szatír a Szaturnusz bolygó megszemélyesítése. A dogmatikus kereszténységben minden ördögit neki tulajdonítottak, ezért ábrázolták szarvakkal. Szat-Ír így a Szat-Úr variánsa: élet és halál ura. Minden továbbit lásd [[S/SZAT\|SZAT]] és [[S/Szaturnusz\|Szaturnusz]].  
+Lényegében arról lehet szó, hogy a szatír a Szaturnusz bolygó megszemélyesítése. A dogmatikus kereszténységben minden ördögit neki tulajdonítottak, ezért ábrázolták szarvakkal. Szat-Ír így a Szat-Úr változata: élet és halál ura. Minden továbbit lásd [[S/SZAT\|SZAT]] és [[S/Szaturnusz\|Szaturnusz]].  
 
 Ha már a judeo-kereszténység szóba került, emlékezzünk, hogyan alkották ki [[M/Monster\|monster]], [[T/Terrible\|terrible]], [[H/Horrid\|horrid]], stb. szavaikat. Lásd gondolatmenetet folytatva [[S/Satura\|satura]].  
 
