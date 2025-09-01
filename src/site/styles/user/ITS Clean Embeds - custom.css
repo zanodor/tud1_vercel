@@ -42,3 +42,13 @@
   --blockquote-background-color: linear-gradient(to right, var(--note), transparent);
   --table-border-color: var(--embed-bg);
 }
+
+/* Fix icon position problem 
+ * Source: https://claude.ai/chat/12c0165a-69a7-47fc-b092-0a23b41e4519 
+ * Changed on 010925 */
+
+.embed-clean .internal-embed blockquote,
+.internal-embed blockquote {
+  margin-right: -25px;
+  padding-right: 40px; /* Need more padding to actually avoid the icon */
+}
