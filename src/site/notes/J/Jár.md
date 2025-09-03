@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jár/","title":"Jár","created":"2024-06-04T16:16","updated":"2025-08-31T02:08"}
+{"dg-publish":true,"permalink":"/J/Jár/","title":"Jár","created":"2024-06-04T16:16","updated":"2025-09-03T16:00"}
 ---
 
 
@@ -20,7 +20,7 @@ A szumér példák inkább a (lóval is kapcsolatba hozható) sietős mozgásra 
 > Mi már tudjuk, hogy e kún indul = kel szavunk, valamint a szláv `ide` = halad és a magyar [[I/Idő\|idő]] szavunk egymással, ugyanúgy azonos mint a magyar `jár` szóval a német `jahr` (angol [[Y/Year\|year]]) (jár) = esztendő, mind amiből azután következik, hogy az időnek bizonyára létezett valamely kel, kol avagy kal alakú kőrös szócsoportbeli neve is, amit egyébként az is igazol, hogy habár r-es kiejtéssel, de [[K/Kor\|kor]] szavunk idő értelme ma is megvan.  
 
 A jár szavunk valójában szintén [[K/Kör\|kör]] értelmű (K>J). Valójában a Kör fogalmához nem is szükséges a k-előhang, erről volt szó. Így érthetők meg az itt írott sorok.  
-Képzésére nézve tehát egyértelmű, hogy a mozgást, áramlást és energiát jelentő [[A/AR, ÁR\|AR, ÁR]] etimon jejesítése.  
+Képzésére nézve tehát egyértelmű, hogy a mozgást, áramlást és energiát jelentő [[A/AR, ÁR\|AR, ÁR]] etimon jejesítése. (Igaz, [[T/Teremtőgyökök#Ir teremtőgyök\|ir]] is lehetne kiinduló.)  
 Ezért lehet az, hogy az a [[K/Kanyar\|kanyar]] szavunk nemcsak Kany-Ar, hanem Kan-Jár értelemben is bontható. De Mellár Mihály [[M/Magyar\|magyar]] nevünknek Mag-Yar formában való felbontása sem tűnik teljesen értelmetlennek ezután. \[Péterfai János a [[B/Betyár\|betyár]] nevet elemzi hasonlóan.\]  
 
 #### Péterfai János írja:
@@ -30,7 +30,7 @@ Ezért lehet az, hogy az a [[K/Kanyar\|kanyar]] szavunk nemcsak Kany-Ar, hanem K
 
 Még arab nyelven is `jahr` időtartamot jelent, de a [[S/SZAT\|SZAT]] címnél is szereplő arab `sa'at` = idő, óra is egyezik a német `zeit` = idő szóval (igaz, azt azóta a [[T/Tide\|tide]] szóval azonosítottuk).  
 (Sőt, [[I/Idő\|idő]] szavunkkal veti össze Fáy Elek/Magyar Adorján az arab `aud` = idő szót is.)  
-Magyar Adorján adata szerint a héber `jareah` = Hold szintén a járásáról ([[M/Moon\|moon]] menéséről, [[H/Hold\|Hold]] haladásáról) neveztetett el (azaz az arab `jahr` is a Hold járásához volt kötött és még ma is Hold alapú naptárat használnak).   
+Magyar Adorján adata szerint a héber `jareah` = Hold szintén a járásáról ([[M/Moon\|moon]] menéséről, [[H/Hold\|Hold]] haladásáról) neveztetett el (azaz az arab `jahr` is a Hold járásához volt kötött és még ma is Hold alapú naptárat használnak).
 - A héber szóval kapcsolatban Kállay Ferenc A pogány magyarok vallása c. könyvében [[S/Sárga\|sárga]] szóhoz utasít.
 
 Jó párhuzamait találjuk ezen szavaknak a [[M/Mén\|mén]] címnél is említett bizonyos wembawemba nyelvű `yareman` (jár-mén) szóban és a jávai `jaran` = ló szóban; mindkettő mutatja, hogy a Hold neve lehetett.  
