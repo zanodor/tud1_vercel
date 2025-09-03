@@ -1,14 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arc/","title":"Arc","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2025-03-25T21:17","updated":"2025-07-19T00:56"}
+{"dg-publish":true,"permalink":"/A/Arc/","title":"Arc","tags":["titleandheadingonedontmatch","multipleentries","stitched","containscallouts"],"created":"2025-03-25T21:17","updated":"2025-09-03T15:59"}
 ---
 
 
 # Arc 1)
 
-Arsz az Arc helyes elődje, írja Péterfai János Anakharszisz nevének elemzésekor. Arc lehet Orca is, melynek Orr-Száj értelmet ad Péterfai János. A TeSz véleménye is ez.  
+Arsz az Arc helyes elődje, írja Péterfai János Anakharszisz nevének elemzésekor. Arc lehet `Orca` is, melynek Orr-Száj értelmet ad Péterfai János. A TeSz véleménye is ez.  
+
+> [!check] &nbsp;
+> Arc annyi mint Or-Sz, azaz Orr-Száj.
 
 Az ember arcát nyilvánvalóan a Nap arcához hasonlították. Jankovics Marcell A Nap könyve című könyvében is írja, a Napnak (mosolygós) arca van, és ha a gyerekek valamit rajzolnak, azon rendszerint rajta van a Nap, arccal.  
-Arc tehát lehet a Nap jóságos fényt, meleget ÁRasztó, ARanyos arca. A Napjelkép oroszlán szóban – ahogy a török-perzsa `arslán` (lásd [[O/Oroszlán\|oroszlán]] címet) mutatja – is szerepel arc.  
+Arc tehát lehet a Nap jóságos fényt, meleget *ár*asztó, *ar*anyos arca. A Napjelkép oroszlán szavában – ahogy a török-perzsa `arslán` (lásd [[O/Oroszlán\|oroszlán]] címet) mutatja – is szerepelhet arc.  
 Mivel a napvallások idején a Nap is lehetett Úr (lásd [[H/Hórusz\|Hórusz]] és más neveket), ezért valóban az Úr (a Nap) arcáról lehet szó. Sőt, az Ar-Sz, Ur-Sz megfelel a régi utóvetéses névelős formának: Az-Úr (arca).  
 Ettől még az Orr-Sza(j) is lehet valós eredete, de jegyezzük meg, hogy alant Magyar Adorjánnál megint előjön úr szavunknak más idegen jelentése.  
 
@@ -19,16 +22,16 @@ Másutt:
 #### Jankovics Marcell írja:
 
 > A maja királyok is elsősorban a Nap nevében kormányoztak. Címük "Nap-arcú Úr" volt. A dinasztikus hatalom jelvényét, a két végén sárkányfejekben végződő "égszalagot" a főnökök derekán [[O/Öv\|öv]]ként láthatjuk viszont, és a Nap, Hold, Vénusz, nappal, éj, ég kép írásjegyeinek sora díszíti.  
-- Bakos Attila A Duna Evangéliuma című könyvének 200-201. oldalán az Ar, Ra alapszavakkal való játszadozás után is oda jut, hogy az arc/orca a Napisten arcáról, Rá tükréről van szó.  
+- Bakos Attila A Duna Evangéliuma című könyvének 200-201. oldalán az Ar, Ra alapszavakkal való játszadozás után is oda jut, hogy az arc/orca a Napisten arcáról, Rá tükréről van szó.
 
 Az arc a Napisten arca lehet, az [alábbi](https://youtu.be/t_wCyPF5huk) Szőke István előadás 57:00 perce környékén elmondottak alapján is.  
-Ugyanakkor, mivel az arch(er)/[[A/Arc\|arc]] is ilyen alakú szó és a Hold íve is lehet ívre/íjra utaló (lásd [[A/AJ\|AJ]]), az arc lehet a Hold oldalra fordított arca is.  
+Ugyanakkor, mivel az arch(er)/[[A/Arc#Arc 2)\|arc]] is ilyen alakú szó és a Hold íve is lehet ívre/íjra utaló (lásd [[A/AJ\|AJ]]), az arc lehet a Hold oldalra fordított arca is.  
 
 Ahogy [[A/Art\|art]] címnél is szerepelt:  
 Egyértelműnek tűnik, hogy a vizuális művészetek megjelenése az arc megfelelő, élethű ábrázolásához köthető. ([[A/Ábra\|Ábra]] és ábrázat szavaink is hordozzák ezt a kapcsolatot. Karc-olat is kinézhető belőle, H/K-előhangosan, de arc szavunk telitalálatnak vehető.)  
 [[O/Oroszlán\|Oroszlán]] címnél is szóltunk az oroszlán ([[L/LÁN\|LÁN]]) arszáról. Mivel a Nap volt (építményben pedig a [[S/Sphinx\|Sphinx]]) az első művészeti alkotás, elképzelhető, hogy nevét is innen kapta [[A/Art\|art]]. (Ár eszközünk kétségtelenül karcolásra/rovásra is alkalmas volt.)  
 
-Legutóbb [[S/Szíriusz\|Szíriusz]] címnél írottak szerint (úr, kutya, isten jelentések átfedésben vannak) az [[U/UR\|UR]] = hegy és akár az arc szavakat is idevéve, [[S/Sphinx\|Sphinx]] lehet valóban a [[S/Szíriusz\|Szíriusz]]. Ráadásul a fej és arc hieroglifa lehet kutya/oroszlán/főember.  
+Legutóbb [[S/Szíriusz\|Szíriusz]] címnél írottak szerint (úr, kutya, isten jelentések átfedésben vannak) az [[U/UR\|UR]] = hegy és akár az arc szavakat is ide véve, [[S/Sphinx\|Sphinx]] lehet valóban a [[S/Szíriusz\|Szíriusz]]. Ráadásul a fej és arc hieroglifa lehet kutya/oroszlán/főember.  
 
 Az idegen nyelvek arc (és száj) jelentésű szavai közül tallózva érdekes dolgokat láthatunk.  
 A szakrálisan, spirituálisan is fontos [[S/Száj\|száj]], szájüreg ideája jelenik meg az indiai és szláv nyelvekben arcra vonatkoztatva:  
@@ -40,7 +43,7 @@ A szláv szavak közül a macedón `ótvor` = szájüreg szó egyezik a cseh, sz
 A svéd `mun`, norvég `munn` = száj is egyezik a [[M/MUN\|MUN]] címnél taglalt kínai/japán/koreai kaput jelentő szóval.  
 Hogy a csuvas `śăvar` = száj kapcsolható lehet ilyen analógiával az indo-iráni nyelvek \*csahar = négy (lásd [[C/CSÁR\|CSÁR]]) jelentésű szavaihoz (mert négy fordulópont illetve kapu van), nem tudni.  
 
-A grúz `saxe` = arc szóban talán a [[S/Ság\|SÁG]]/[[S/Szág\|SZÁG]] = fő/fej jelentésű ősszót kell látni, azaz itt is találni képzelettársítást, de valószínűleg inkább maga [[S/Száj\|száj]] szavunkról van itt is szó (hiszen, ahogy fentebb szerepelt, a szanszkrit `mukha` is jelent arcot, nemcsak nyílást, szájat).  
+A grúz `saxe` = arc szóban talán a [[S/Ság\|Ság]]/[[S/Szág\|Szág]] = fő/fej jelentésű ősszót kell látni, azaz itt is találni képzelettársítást, de valószínűleg inkább maga [[S/Száj\|száj]] szavunkról van itt is szó (hiszen, ahogy fentebb szerepelt, a szanszkrit `mukha` is jelent arcot, nemcsak nyílást, szájat).  
 
   
 
@@ -50,19 +53,25 @@ Latin eredetre visszavezetett angol ív jelentésű főnév.
 
 #### Magyar Adorján írja:  
 
-> Nyelvünk csodálatos okszerűségeit tehát itt is lépten-nyomon látjuk, de ezenkívül még párhuzamokat is találunk: [[O/Öv\|öv]] = kör szavunknak megfelel [[I/Ív\|ív]] szavunk, amely hiszen a karaj-alakú [[I/Íj\|íj]] egyik neve is. Viszont az ör, örű = kör szavunknak meg a latin `arcus`, `arcuatus` szó felel meg, amely szintén egyúttal jelent görbét, ívet és íjat is \[[[Archer\|archer]] = íjász\].  
-> Láttuk, hogy a kőrös szócsoportbeli magyar karaj, [[K/Karéj\|karéj]] (besenyő és kabar szócsoport szerint ív) szónak a latinban `arcus` egymássalhangzós kőrös szó felel meg.  
-- [[K/Kezdet és vég#^ybz6sf\|Itt]] Fáy Eleknél is megvolt az ív - öv - év hármas egy passzusban. Ott is utaltunk az arcus eredetére.
+> Nyelvünk csodálatos okszerűségeit tehát itt is lépten-nyomon látjuk, de ezenkívül még párhuzamokat is találunk: [[O/Öv\|öv]] = kör szavunknak megfelel [[I/Ív\|ív]] szavunk, amely hiszen a [[K/Karéj\|karaj]]-alakú [[I/Íj\|íj]] egyik neve is. Viszont az ör, örű = kör szavunknak meg a latin `arcus`, `arcuatus` szó felel meg, amely szintén egyúttal jelent görbét, ívet és íjat is.  
+- Az angol [[A/Archer\|archer]] = íjász.
+
+> Láttuk, hogy a kőrös szócsoportbeli magyar [[K/Karéj\|karaj]], [[K/Karéj\|karéj]] (besenyő és kabar szócsoport szerint ív) szónak a latinban `arcus` egymássalhangzós kőrös szó felel meg.  
+
+[[K/Kezdet és vég#^ybz6sf\|Kezdet és vég]] helyen Fáy Eleknél is megvolt az `ív` - `öv` - `év` hármas egy passzusban. Ott is utaltunk a latin arcus eredetére.  
+A görög `ἀρχή` (`arké`) = kezdet, eredet (továbbá uralom) jelentésével mutat rá, hogy itt életkörről van szó, és az [[O/Örök\|örök]]ös körforgásban az ívek egymást ívik, újítják tova, körbe-körbe.  
+
+> [!check] &nbsp;
+> A görög `arkhé` és latin `arcus` is tulajdonképpen a magyar `örök` szóval való egyenes megfeleltethetőségével mutatja eredetét.
+- Annyi még itt a dolgunk, hogy az örök szóban ör = kör azonosságra rámutassunk.
 
 Másutt írja Magyar Adorján:  
 > A medvének is hatalmas karmai vannak és ezenkívül a medve is nagyerejű állat de még inkább ilyen volt a ma kihalt, tudományos nevén "barlangi medvének" (ursus speleus) nevezett, a mainál sokkal nagyobb medvefaj; a medve karmai pedig szintén görbék, amiért is ezeknek lehetett még ar, or alakú egymássalhangzós neve is, amely szóalak kerekséget, kerekdedséget is jelenthetett. És íme: nemcsak hogy az latin-olasz `ursus`-`orso` (urszusz-orszo) = medve, hanem ugyane nyelvekben `arcus`-`arco`, `arcuatus`-`arcuato` = ív, ívelt, hajlott és görbe, sőt az olaszban `artiglio` = karom.  
 - Melyhez Magyar hozzátehette volna, hogy az [[O/Öregisten\|Öregisten]], [[M/Motolla\|motolla]], [[D/Dhruva\|Dhruva]] és [[T/Taweret\|Taweret]] címnél is taglalt örök körforgásra utaló szavak. A Medve is azért `arktosz`, mert nemrég a [[S/Sarkcsillag\|Sarkcsillag]] onnan került ki.
 
-Mindezek után nem állítható, hogy a latin `arcus` szó egy görög `ἄρκευθος` = boróka (lásd [itt](https://en.wiktionary.org/wiki/%E1%BC%84%CF%81%CE%BA%CE%B5%CF%85%CE%B8%CE%BF%CF%82#Ancient_Greek)) szóból eredne; az, hogy abból készítettek íjat, nem jelenti azt, hogy a boróka ilyen neve korábban létezett volna. Tehát a szóképzés fordított irányú lehet, ahogy a – [[T/Toxic\|toxic]] és [[Y/Yew\|yew]] címnél taglalt – [[T/Tiszafa\|tiszafa]] jelentésű óangol `īw` ill. `ēow` elődje is nagy eséllyel a magyar `ív`/`íj` szavak valamelyike.
+Mindezek után nem állítható, hogy a latin `arcus` szó egy görög `ἄρκευθος` = boróka (lásd [itt](https://en.wiktionary.org/wiki/%E1%BC%84%CF%81%CE%BA%CE%B5%CF%85%CE%B8%CE%BF%CF%82#Ancient_Greek)) szóból eredne; az, hogy abból készítettek íjat, nem jelenti azt, hogy a boróka ilyen neve korábban létezett volna. Tehát a szóképzés fordított irányú lehet, ahogy a – [[T/Toxic\|toxic]] és [[Y/Yew\|yew]] címnél taglalt – [[T/Tiszafa\|tiszafa]] jelentésű óangol `īw` ill. `ēow` elődje is nagy eséllyel a magyar `ív`/`íj` szavak valamelyike.  
 
-#### Padányi Viktor Horaha – Harku – Horka, Notes to the Menes-question...
-
-...című angol nyelvű írását sajnos nem sikerült megtalálni letöltésre. Gyárfás Ágnes Borbola János Az egyiptomi ősmagyar nyelv című könyvének bemutatójában, az Ősi Gyökér 2012/2-4. sz. megjelent cikkében pedig kitér rá:  
+Padányi Viktor Horaha – Harku – Horka, Notes to the Menes-question című angol nyelvű írását sajnos nem sikerült megtalálni letöltésre. Gyárfás Ágnes Borbola János Az egyiptomi ősmagyar nyelv című könyvének bemutatójában, az Ősi Gyökér 2012/2-4. sz. megjelent cikkében pedig kitér rá:  
 > A [[H/Horka\|horka]] méltóságnév eredetét kutatva Padányi Viktor alapján eljutott a folyamközi mintához. `Arku` szó lett elemzésük tárgya és az ékírásból indultak ki.  
 - Azért lenne érdekes, mert az [[A/Arkadash\|arkadash]] név előrészében is felfedezhető Arcus = Íj eredetét keresem (az [[A/Árok\|árok]] címnél említett árok jelentésű török `ark` szóval nem tudom mit lehet kezdeni; ha csak azt nem, hogy a Tejút árka ott van, ahol az egymással szemközti Nyilazó csillagképek).
 - Ezen rejtélyes `arku` igen érdekes alakú. Hor-Ka ugye a (Nap)Úr Háza vagy Uracska értelmű. De ez kevés az üdvösséghez.
