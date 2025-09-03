@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2025-07-03T01:16"}
+{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2025-09-03T15:58"}
 ---
 
 
