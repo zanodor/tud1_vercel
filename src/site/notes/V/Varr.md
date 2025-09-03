@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Varr/","title":"Varr","created":"2024-03-04T16:32","updated":"2025-04-04T22:55"}
+{"dg-publish":true,"permalink":"/V/Varr/","title":"Varr","created":"2024-03-04T16:32","updated":"2025-09-03T16:00"}
 ---
 
 
@@ -8,15 +8,17 @@
 [[V/VAR\|VAR]]-nál és [[V/Varázsló\|varázsló]]nál már esett róla szó, de arról nem, hogy minden szövés, hímzés, varrás szakrális céllal készült (a ruhák szintén szakrális viseletek), ahogy az építmények is ilyen céllal építettek.  
 [[V/Varkocs\|Varkocs]] szóban is meglehet, `varga` szóban egyértelműen megvan.  
 
-Lényegében azt lehet mondani, hogy a [[P/Parázs\|parázs]] = [[V/Varázs\|varázs]] > [[V/Varrás\|varrás]] > varr belső fejlődési úton jött létre.  
+Lényegében azt lehet mondani, hogy a [[P/Parázs\|parázs]] = [[V/Varázs\|varázs]] > [[V/Varrás\|varrás]] > varr belső fejlődési úton jött létre, de valójában inkább az [[T/Teremtőgyökök#Ir teremtőgyök\|ir teremtőgyök]]nek megfelelő [[I/Ír\|ír]] előhangos változata. És valóban, a varrás mintáival képírást hajthatunk végre, de a varr = köt (összeforraszt) értelme is olyan mint az ír főnév gyógyító értelme, ahogy ezt a forraszt fogalmat...
 
-Persze a forraszt (összeragaszt) összefüggése is látható, kivált Götz László Keleten kél a Nap című könyvének 181. oldalán szereplő táblázat-részletében talált hasonló szavak alapján:  
+#### Götz László Keleten kél a Nap...  
 
-| német                              | latin                                    | görög | héber                       | asszír                         | szumér    | magyar                   |
-| ---------------------------------- | ---------------------------------------- | ----- | --------------------------- | ------------------------------ | --------- | ------------------------ |
-| WIR-ken (sző)<br>WIR-tel (motolla) | VER-to (forgat)<br>VIR-ga (fűzfa-vessző) |       | PER-ochet (függöny, szövet) | PAR-âku (csavarodik, hempereg) | BAR (köt) | VARR<br>(össze)-BOR-onál |
-
-A német `wirken` = sző azt más szavakkal egyetemben [[A/Arachnophobia\|arachnophobia]] címnél is szerepelt.  
+...című könyvének 181. oldalán szereplő táblázat részletében talált hasonló szavak alapján éppen meg is találhatjuk:  
+> 
+> | német                              | latin                                    | görög | héber                       | asszír                         | szumér    | magyar                   |
+> | ---------------------------------- | ---------------------------------------- | ----- | --------------------------- | ------------------------------ | --------- | ------------------------ |
+> | WIR-ken (sző)<br>WIR-tel (motolla) | VER-to (forgat)<br>VIR-ga (fűzfa-vessző) |       | PER-ochet (függöny, szövet) | PAR-âku (csavarodik, hempereg) | BAR (köt) | VARR<br>(össze)-BOR-onál |
+> 
+- A német `wirken` = sző azt más szavakkal egyetemben [[A/Arachnophobia\|arachnophobia]] címnél is szerepelt.
 
 #### Ihász Judit Hímzésmintáink értelmezése rovásírásunk segítségével...
 
