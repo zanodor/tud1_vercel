@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2025-08-19T00:52"}
+{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2025-09-03T15:58"}
 ---
 
 
@@ -22,7 +22,7 @@ Az összefüggések itt nem érnek véget, ugyanis...
 A [[B/Baboon\|baboon]] címnél is előjövő [[H/Hapi\|Hapi]] (Péterfai János írja, hogy Hapi a Nílus \[istenének\] neve is, páviánfejjel is ábrázolták) viszont egy a pávián-istennevek közül és éppen az ape név eredetét adhatná, vagy, ami valószínűbb, közös ősre vihetők vissza. Hapi helyett ide teszem még a Götz László Keleten kél a Nap című könyvében szereplő indo-európai párokat: német `affe`, ófelnémet `affo`, óskandináv és óangol `api`, ószláv `opica`, görög `kepos` és óind `kapi`.  
 ![assets/Ape_image1.png|invert_dark](/img/user/A/assets/Ape_image1.png)  
 
-A majom gyakori jelképállat az egyiptomi és hindu mitológiában/ábrázolásokon. Thomas Inman Ancient Pagan and Modern Christian Symbolism című könyvében az alábbi magyarázó szöveget teszi a melléklet kép mellé:  
+A majom gyakori jelképállat az egyiptomi és hindu mitológiában/ábrázolásokon. Thomas Inman Ancient Pagan and Modern Christian Symbolism című könyvében az alábbi magyarázó szöveget teszi a mellékelt kép mellé:  
 > This small Hindoo statuette (from the Mayer Collection in the Free Museum, Liverpool) probably represents Parvati, the Hindu virgin, and her child. The right hand of the figure makes the symbol of the yoni with the forefinger and thumb, the rest of the fingers typifying the triad. In the palm and on the navel is a lozenge, emblematic of woman. The child, perhaps [[K/Krishna\|Krishna]], equivalent to the Egyptian Horus and the Christian Jesus, bears in its hand one of the many emblems of the linga, and stands upon a lotus. The monkey introduced into the group plays the same part as the cat, cow, lioness, and ape in the Egyptian mythology, being emblematic of that desire which eventuates in the production of offspring.  
 > —  
 > Ez a kis hindu szobrocska (a liverpooli Szabadmúzeum Mayer-gyűjteményéből) valószínűleg Parvatit, a hindu szűzlányt és gyermekét ábrázolja. A figura jobb keze a mutatóujjával és hüvelykujjával a yoni szimbólumát formázza, a többi ujj a triádot tipizálja. A tenyérben és a köldökön egy, a nőt jelképező rozettát látunk. A gyermek, talán [[K/Krishna\|Krisna]], aki az egyiptomi Hórusznak és a keresztény Jézusnak felel meg, a kezében a linga számos jelképe közül egyet visel, és egy lótuszon áll. A csoportba bevezetett majom ugyanazt a szerepet játssza, mint a macska, a tehén, az oroszlán és a majom az egyiptomi mitológiában, és annak a vágynak a jelképe, amely utódok létrehozásában nyilvánul meg.  
