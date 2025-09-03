@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/F/Forog/","title":"Forog"}
+{"dg-publish":true,"permalink":"/F/Forog/","title":"Forog","created":"2025-01-30T18:11","updated":"2025-09-03T16:00"}
 ---
 
 
 # Forog
 
 For-Og a Föld, tengelye és a Nap körül. Az -[[O/OG#Og 2)\|og]] szóról volt szó, míg [[F/FOR\|for]]- előrészéről volt szó a helyén.  
-A világunk forog, mint [[H/Hamlet malma\|Hamlet malma]]. Rejtett K-R vázú szó ez: a V-R vázú [[V/Vár\|vár]] is azt jelenti, hogy kőröz, mint a [[V/Varjú\|varjú]]. [[W/World\|World]] szónál írtuk, hogy a német párja, a `Welt` is [[V/Vált\|vált]]-ozik = forog jelentésből indul ki. Ugyanerről szóltunk [[W/Work\|work]] szónál is, amely szó egy az egyben a forog átvétele.  
+A világunk forog, mint [[H/Hamlet malma\|Hamlet malma]]. Rejtett K-R vázú szó ez: a V-R vázú [[V/Vár\|vár]] is azt jelenti, hogy köröz, mint a [[V/Varjú\|varjú]]. [[W/World\|World]] szónál írtuk, hogy a német párja, a `Welt` is [[V/Vált\|vált]]-ozik = forog jelentésből indul ki. Ugyanerről szóltunk [[W/Work\|work]] szónál is, amely szó egy az egyben a forog átvétele.  
+- Ugyanakkor ha az f/v mint előhang vétetik figyelembe, akkor [[O/Örök\|örök]] is ilyen szó, ahol az Ör-Ök = Ég Őrölése/Forgása/Köre.
 
 #### Péterfai János írja:
 
