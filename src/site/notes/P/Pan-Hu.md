@@ -1,17 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pan-Hu/","title":"Pan-Hu","tags":["Englishtexttranslated"],"created":"2023-11-06T12:47","updated":"2025-07-03T01:14"}
+{"dg-publish":true,"permalink":"/P/Pan-Hu/","title":"Pan-Hu","tags":["Englishtexttranslated"],"created":"2023-11-06T12:47","updated":"2025-09-03T15:58"}
 ---
 
 
 # Pan-Hu
 
-A kínai mitológiában egy [[K/Kutya\|kutya]] neve, mely Kan Pao "Sou shen chi" (Records of Searching for the Supernatural) című tekercseiről ismert.  
+A kínai mitológiában egy [[K/Kutya\|kutya]] neve, mely Kan Pao "Sou shen chi" (A természetfeletti keresésének feljegyzései) című tekercseiről ismert.  
 
 #### Victor H. Mair Canine Conundrums...
 
 ...című esszéjében szól róla. Annyit elöljáróban tisztázni kell, hogy a kínai `hu` és `pan` nevek jelentései torzultak. [[P/PAN#Pan 2)\|Pan]] angolban is serpenyő, de a Nap alakja miatt. `Pan` vagy `p'an` a kínaiban is ilyen másodlagos, tellurikus értelmű: tányért jelent. [[H/HU\|Hu]] pedig csillag, de mivel a csillag és a víz fogalmak másutt is keveredtek, Hu itt is tellurikus megjelenésű. De a kínai ráadásul nem is víznek, hanem víztartónak, tökhéjpalacknak hívja. Pan Hu tehát valójában a Mindenség Forrása jelentéssel kellene fordíttasson.  
 ![assets/Pan-Hu_image1.png|invert_dark](/img/user/P/assets/Pan-Hu_image1.png)  
-![assets/Pan-Hu_image2.png|invert_dark](/img/user/P/assets/Pan-Hu_image2.png)  
+
+> It should be noted that the unrestrained elaboration of the P’an-hu myth did not go unchallenged. The eminent historiographer, Liu Chih-ch’i (106) (641–721), in his _Shih t’ung_ (107) (Comprehending History), made the following rather harsh comments:  
+> Fan Yeh selected materials widely from numerous books and crafted them into an account of the Han. When we look at what he has adopted, it is quite a remarkable achievement. However, as for his chapter on occultism (_fang-shu_), and his biography of the various “barbarians” (_man-yi_), he has made records of such figures as Wang Ch’iao, Tso Tz’u, Lin Chün (“Lord of the Granary”), and P’an-hu. His words are absurd and the content is preposterous. One may say that these chapters are blemishes in a beautiful nephrite, flaws in a fine jade. Alas, there is nothing about these chapters that we can affirm.  
+—  
+> Meg kell jegyezni, hogy a P’an-hu-mítosz szabad kifejtése nem maradt viták nélkül. A kiváló történetíró, Liu Chih-ch’i (106) (641–721), a _Shih t’ung_ (107) (A történelem megértése) című művében a következő meglehetősen kemény megjegyzéseket tette:  
+> Fan Yeh számos könyvből gyűjtött össze anyagokat, és ezekből állította össze a Han-dinasztia történetét. Ha megnézzük, amit átvett, ez meglehetősen figyelemre méltó teljesítmény. Azonban, ami az okkultizmusról (_fang-shu_) szóló fejezetét és a különféle "barbárok" (_man-yi_) életrajzát illeti, olyan alakokat is feljegyzett, mint Wang Ch’iao, Tso Tz’u, Lin Chün ("A Magtár Ura"), és P’an-hu. Szavai nevetségesek, tartalmuk képtelenség. Azt lehet mondani, hogy ezek a fejezetek olyanok, mint hibák egy gyönyörű nefritben, repedések egy finom jádében. Sajnos semmi nincs ezekben a fejezetekben, amit megerősíthetnénk.  
+
 Másodsorban Mair írja, hogy amennyiben Kao-hsin [[H/Huang-ti\|Huang-ti]] császár ükunokája, akkor i.e. 2500 körül kellett élnie és nem i.sz. 2-3. században, mikor is a Han népek a déli népekkel hadakoztak:  
 > Kao-hsin, also known as Kao-hsin shih ("of the clan name Kao-hsin"), is Ti-klu ("Emperor Klu"), the mythical great-grandson of Huang-ti ("Yellow Emperor"), allegedly surnamed Kung-sun ("Ducal Grandson"), the supposed founder of Chinese civilization and of the first Chinese state. If it is possible to assign any sort of historicity to the Yellow Emperor, he would have to be placed around the middle of the third millennium BCE and in the northwest of China. Thus, it is highly unlikely that Kao-hsin (if he himself ever existed) could have had anything whatsoever to do with the southern peoples whom the Han people were making contact with during the late second and early third centuries CE and who were the inspiration for the cynanthropomorphic stories about p'an-hu and his descendants. Thus, almost from the beginning of the p'an-hu myth, our suspicions concerning its authenticity as a self-expression of the southern nan-Han peoples are aroused.  
 >
@@ -74,7 +80,9 @@ A 800-as években Fan Ch'o Man shu-jában is kitér rá és tovább bonyolítja 
 
 A Shan-hai ching (Classic of Mountains and Seas) nevű geográfiai iratban viszont nem a déli Marn-ok (vagy csak Man-ok), hanem az északnyugatra és nyugatra lévő Ch'üan-jung (Kün-Hun?) nevű harcias népek jönnek elő: nem kevesebb, mint 35 különböző helyen említ kutyaszerű szörnyembereket, akiknek kutyafejük, farkuk van és ugatnak is. Hunokat persze nem említenek, de tudjuk, hogy a kínaiaktól nyugatra és délre is hunok éltek.  
 
-David Gordon White könyvében előkerül egy másik, későbbi Pan-Hu verzió is, amelyikkel kapcsolatban azt veti fel, hogy jegyezzük le, hisz minél több oldalát ismerjük a történetnek, annál teljesebb a kép. Ez igaz. Magyarországon is a táltosokról szóló gyűjtések is alig 100-150 évesek.  
+#### David Gordon White Myths of the Dog-Man...  
+
+...című könyvében előkerül egy másik későbbi Pan-Hu verzió is amelyikkel kapcsolatban azt veti fel hogy jegyezzük le hisz minél több oldalát ismerjük a történetnek, annál teljesebb a kép. Ez igaz. Magyarországon is a táltosokról szóló gyűjtések is alig 100-150 évesek.  
 Tehát:  
 > In the Hsia-bo variant, P'an Hu brings the head of General Wu to the king (named Pu-k'u rather than Kao-hsin). At this point, the king ordered at once that the dog should be rewarded, given a high rank and better food and accommodation, for it was a meritorious dog. But the dog was not happy at all. The dog then ran into the princess's room with the bloody head and would not come out. Remembering his promise, Pu-k'u then told the dog that it was not fitting that he should marry the princess. "For," said the king, "you are a dog." As soon as the dog heard this, he put his head down on the floor and said to the king, "Put me under a bell for **forty-nine days** and do not allow anyone to peep in during that time." This was done, but on the forty-eighth day, they thought the dog must be dead of hunger and took away the bell. Then they saw a man where the dog had been, but he had not yet had quite enough time to change himself entirely and still had the head of a dog. Pu-k'u then felt obliged to keep his word and married the princess to this dog-headed husband. People called her the dog-headed princess. The princess was ashamed of her dog-headed husband, so they went far away and lived in the forest. The princess was afraid to look at her husband's face, so she dressed her hair up to the top of her head and tied a piece of red cloth to it. When her husband came near, she pulled the red cloth down over her face so as not to see him. The princess had three sons, to whom Pu-k'u gave the names Lui, Pan, and Lan respectively.  
 > —  
@@ -104,7 +112,7 @@ David Gordon White könyvében viszont keveri a két mítoszt, hisz [[H/Hun-Tun\
 > In the Chinese sources, barbarians in general, and P'an Hu in one of his myths in particular, are closely associated with the mythic theme of chaos. This interconnectedness of themes and peoples is quite explicit in Chinese terminology. The terms for [[H/Hsiung-nu\|Hsiung-nu]] or Hun (hun-i), the dog ancestor P'an Hu (Platter Gourd) and hun-tun ("Chaos Gourd," the original unformed mass from which the cosmos was shaped), and "half-breed" (`huri`) are etymologically connected to one another.  
 > —  
 > A kínai forrásokban a barbárok általában, és P'an Hu egyik mítoszában különösen, szorosan kapcsolódnak a káosz mitikus témájához. A témáknak és népeknek ez az összefonódása a kínai terminológiában eléggé egyértelmű. A [[H/Hsiung-nu\|Hsziung-nu]] vagy hun (hun-i), a kutyák őse P'an Hu (Tányértök) és hun-tun ("Káosz-tök", az eredeti, formátlan massza, amelyből a kozmosz kialakult), valamint a "félvér" (`huri`) kifejezések etimológiailag kapcsolódnak egymáshoz.  
-- A kínai(?) huri szó betéve [[C/Cur\|cur]] és [[K/Korcs\|korcs]] szavakhoz is.  
+- A kínai(?) huri szó betéve [[C/Cur\|cur]] és [[K/Korcs\|korcs]] szavakhoz is.
 
 Persze ő az etimológiai kapcsolódásokat nem értheti, mert már a kínai sem tisztán használja a szavakat. Lényegében pedig efféle kozmikus irányú gondolatokat várnánk el az írótól, de a kínai források sem oly tiszták asztrális kutyanemzés kérdésben, mint például a dogonoké.  
 
@@ -154,13 +162,15 @@ David Gordon White rituális [[F/Feldarabolás\|feldarabolás]]-képzet kapcsán
 A [[S/Sárkány csillagkép\|Sárkány csillagkép]] csillagai körülbelül 5000 éve voltak cirkumpolárisak és azt tudjuk, hogy a mindenkori [[S/Sarkcsillag\|Sarkcsillag]] Isten székének fogatott fel. Talán ezért került oda a kutya, de az is lehet, hogy mivel a [[S/Sárkány\|sárkány]] címnél is legutóbb a kutyáról volt szó, a két képzet keveredett. Richard H. Allen könyvében az áll, hogy a Sárkány csk. bétájának neve **Tien Kae**. Egyéb csillagainak neve együttesen Tien Choo = Isten konyhája. Ezen elnevezések Richard H. Allen forrása szerint is a kínai asztronómia kialakulásának idejére tehetők.  
 
 [[T/Thuban\|Thuban]]-Tüphon és [[A/Anu\|Anu]] (lakhelye) kapcsán volt szó arról, hogy a Sárkány csillagkép által hordozott Sarkcsillag volt a székhely és a későbbi Medve elnevezés az arabba is átment.  
-Furcsamód [[K/Kwen-lun\|Kuen-lun]] hiába kerül elő K'un-Lun-ként (nyilván ugyanazt kell jelölje) David Gordon White könyvében többször is, sosem tesz utalást sarkköri hegyre; mindig egy kínai, földrajzilag nyugaton elhelyezkedő területre utal.  
+Furcsamód [[K/Kwen-lun\|Kuen-lun]] hiába kerül elő K'un-Lun-ként (nyilván ugyanazt kell jelölje) David Gordon White könyvében többször is, White sosem tesz utalást sarkköri hegyre; mindig egy kínai, földrajzilag nyugaton elhelyezkedő területre utal.  
 Amikor viszont [[H/Hun-Tun\|Hun-tun]]t tárgyalja, kétségtelenné kell váljon, hogy ez a K'un-Lun Kuen-Lun:  
 > P'an Hu's name means "platter gourd," and from this it is possible to draw several important connections between P'an Hu, Hun-tun, the "chaos egg" or "chaos vessel" (or those lumpy little dumplings in Chinese soup); P'an Ku, the cosmic man and demiurge of Taoism; the flood motif; chaos; and the southern barbarians. First, Hun-tun too is a dancer, one, moreover, who resembles a bear-like, long-haired dog: the source that describes Hun-tun as such says that he lives on Mount K'un-lun.  
 > Hun-tun is said to have a son; in most traditions, this son's name is [[P/Pan-Ku\|P'an Ku]], which is tantalizingly similar to P'an Hu. Moreover, there are several parallels between the P'an Ku, P'an Hu, and Hun-tun themes, all of which originated in south China.  
 > —  
 > P'an Hu neve "tányértököt" jelent, és ebből számos fontos összefüggést lehet levonni P'an Hu, Hun-tun, a "káosz tojás" vagy "káosz edény" (vagy azok a darabos kis gombócok a kínai levesben); P'an Ku, a kozmikus ember és a taoizmus demiurgosza; az árvíz motívuma; a káosz; és a déli barbárok között. Először is, Hun-tun is táncos, ráadásul olyan, aki egy medveszerű, hosszú szőrű kutyára hasonlít: a forrás, amely Hun-tunt ilyennek írja le, azt mondja, hogy a K'un-lun hegyen él.  
-> Hun-tunnak állítólag van egy fia; a legtöbb hagyomány szerint ennek a fiúnak a neve [[P/Pan-Ku\|P'an Ku]], ami kínzóan hasonlít P'an Hu-ra. Sőt, számos párhuzam van a P'an Ku, P'an Hu és Hun-tun témák között, amelyek mindegyike Dél-Kínából származik.  
+> Hun-tunnak állítólag van egy fia; a legtöbb hagyomány szerint ennek a fiúnak a neve [[P/Pan-Ku\|P'an Ku]], ami kínzóan hasonlít P'an Hu-ra. Sőt, számos párhuzam van a P'an Ku, P'an Hu és Hun-tun témák között, amelyek mindegyike Dél-Kínából származik.
+{ #l5gan1}
+
 
 > Hun-tun is basically an amorphous and passive lump. In certain Taoist Writings, most notably a passage from Chuang Tzu, there is a myth of Hun-tun in which two Confucians try to poke him to life. What they in fact do is "bore him to death":  
 > The Emperor of the South was called Shu. The Emperor of the North was called Hu[^6]. And the Emperor of the Center was called Hun-tun. Shu and Hu at times came together and met in Hun-tun's territory. Hun-tun treated them very generously. Shu and Hu, then, discussed how they could reciprocate Hun-tun's virtue, saying: "Men all have seven openings in order to see, hear, eat and breathe. He alone doesn't have any. Let us try boring him some." Each day they bored one hole, and on the seventh day, Hun-tun died.  
@@ -170,11 +180,13 @@ Amikor viszont [[H/Hun-Tun\|Hun-tun]]t tárgyalja, kétségtelenné kell váljon
 - Az ami nem kerek és középen van, a Föld. Az északi és déi császár az északi és déli fúrócsillag, azaz valóban a Hu és Shu a lábjegyzetben érintett Su-Meru-nak és Ku-Meru-nak felel meg.
 
 David Gordon White kifejtésében kiderül, hogy Pan-Hu Hun-tun fiának fogható fel:  
-> Kao-hsin had an old woman who lived in his imperial palace. She contracted a sickness of the ear, and by piercing into it something was taken out that was as large as a cocoon. The lady in waiting placed it in a gourd \[hu\] and covered it with a platter \[p'an\]. After a while it was transformed into a dog with five-color hairs. And so it was named P'an Hu, "Platter Gourd."  
+> Kao-hsin had an old woman who lived in his imperial palace. She contracted a sickness of the ear, and by piercing into it something was taken out that was as large as a cocoon. The lady in waiting placed it in a gourd \[`hu`\] and covered it with a platter \[`p'an`\]. After a while it was transformed into a dog with five-color hairs. And so it was named P'an Hu, "Platter Gourd."  
 > In this short narration, we encounter not only P'an Hu's first association with Kao-hsin and with one of the symbols for the piercing of Hun-tun, but we are also offered an etymology for his name and a prefiguration of the bell under which the dog P'an Hu is placed in order that he become a human, or, as it turns out, a cynocephalic. Most striking is the term used for cocoon in this account: while the common Chinese term is `chien`, here the cocoon inside the old woman's head is called hun-tun P'an Hu is thus the "son" of Hun-tun.  
 > —  
-> Kao-hszinnek volt egy öregasszonya, aki a császári palotában élt. Beteg lett a füle, és a fülébe szúrva kivettek belőle valamit, ami akkora volt, mint egy gubó. A várakozó hölgy egy tökbe \[hu\] tette, és egy tálcával \[p'an\] fedte le. Egy idő múlva egy öt színű szőrzettel rendelkező kutyává alakult át. Így kapta a P'an Hu, "tányér tök" nevet.  
-> Ebben a rövid elbeszélésben nemcsak P'an Hu első kapcsolatával találkozunk Kao-hszinnel és a Hun-tun átdöfésének egyik szimbólumával, hanem nevének etimológiáját is kapjuk, és egy prefigurációját annak a harangnak, amely alá a P'an Hu kutyát helyezik, hogy emberré, vagy, mint kiderül, kutyafejűvé váljon. A legmeglepőbb a gubó kifejezés, amelyet ebben a beszámolóban használnak: míg az általános kínai kifejezés a `chien`, itt az öregasszony fejében lévő gubót hun-tun-nak nevezik P'an Hu tehát a Hun-tun "fia".  
+> Kao-hszinnek volt egy öregasszonya, aki a császári palotában élt. Beteg lett a füle, és a fülébe szúrva kivettek belőle valamit, ami akkora volt, mint egy gubó. A várakozó hölgy egy tökbe \[`hu`\] tette, és egy tálcával \[`p'an`\] fedte le. Egy idő múlva egy öt színű szőrzettel rendelkező kutyává alakult át. Így kapta a P'an Hu, "tányér tök" nevet.  
+> Ebben a rövid elbeszélésben nemcsak P'an Hu első kapcsolatával találkozunk Kao-hszinnel és a Hun-tun átdöfésének egyik szimbólumával, hanem nevének etimológiáját is kapjuk, és egy prefigurációját annak a harangnak, amely alá a P'an Hu kutyát helyezik, hogy emberré, vagy, mint kiderül, kutyafejűvé váljon. A legmeglepőbb a gubó kifejezés, amelyet ebben a beszámolóban használnak: míg az általános kínai kifejezés a `chien`, itt az öregasszony fejében lévő gubót hun-tun-nak nevezik P'an Hu tehát a Hun-tun "fia".
+{ #63wkig}
+
 
 Az ír történet is hasonló, ahol mind [[C/Concobar mac Nessa\|Concobar mac Nessa]], mind mostohafia/unokaöccse [[C/Cuchulainn\|Cúchulainn]] úgy fogantak anyjukban, hogy Nessa és [[D/Dechtire\|Dechtire]] egy kukacot/férget tartalmazó vizet ivott meg[^7].  
 
@@ -197,7 +209,9 @@ A fentebb említett szúrás, szurkálás sok helyen előjött, ahogy a [[M/Mets
 Pan-Hu, az Őskutya(csillag) tehát ugyanúgy Világfánál hal meg, mint a "Keresztrefeszített" Nap. Az ír mitológiában is megtaláljuk párhuzamait:  
 > [[C/Cuchulainn\|Cúchulainn]] died when he violated his geis or sacred vow **never to eat dog meat**. Various versions of his death are given in ancient texts, but one constant is his **refusal to meet death in any other way than standing**. To assure that he would do so, Cúchulainn had himself **chained to a pillar**, where he was attacked by javelins and other weapons even long after his death. Only when the carrion crows, servants of the goddess Badb, flew down to peck at his eyes, was the hero acknowledged to be gone.  
 > —  
-> [[C/Cuchulainn\|Cúchulainn]] meghalt, amikor megszegte a geisét vagy szent fogadalmát, hogy **nem eszik kutyahúst**. Az ősi szövegek különböző változatokat közölnek a haláláról, de az egyik állandó, hogy **nem volt hajlandó a halállal más módon szembenézni, mint állva**. Hogy ezt biztosítsa, Cúchulainn **odaláncoltatta magát egy oszlophoz**, ahol még jóval halála után is dárdák és más fegyverek támadták. Csak akkor ismerték el, hogy a hős eltávozott, amikor a Badb istennő szolgái, a hollókarvalyok leszálltak, hogy a szemét csipkedjék.  
+> [[C/Cuchulainn\|Cúchulainn]] meghalt, amikor megszegte a geisét vagy szent fogadalmát, hogy **nem eszik kutyahúst**. Az ősi szövegek különböző változatokat közölnek a haláláról, de az egyik állandó, hogy **nem volt hajlandó a halállal más módon szembenézni, mint állva**. Hogy ezt biztosítsa, Cúchulainn **odaláncoltatta magát egy oszlophoz**, ahol még jóval halála után is dárdák és más fegyverek támadták. Csak akkor ismerték el, hogy a hős eltávozott, amikor a Badb istennő szolgái, a hollókarvalyok leszálltak, hogy a szemét csipkedjék.
+{ #s9xegl}
+
 
 #### Sir James Frazer The Golden Bough...
 
