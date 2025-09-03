@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2025-08-31T02:22"}
+{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2025-09-03T15:59"}
 ---
 
 
@@ -123,6 +123,8 @@ Mondjuk lehetne annyi mint: I-Tu = I-t csinálni, azaz ívet, ívást csinálni.
 Egyébként a szláv szót ugyanarra a gyökre viszik vissza, mint a latint.  
 
 Lásd még említve [[U/Üget\|üget]].  
+
+Lásd még [[T/Teremtőgyökök#Ir teremtőgyök\|ir teremtőgyök]] témát.  
 
 ### I, Ív, Íj Hold kapcsolata
 
