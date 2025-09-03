@@ -52,3 +52,10 @@
   margin-right: -25px;
   padding-right: 40px; /* Need more padding to actually avoid the icon */
 }
+
+/* Fix icon position problem for regular text/paragraphs */
+.embed-clean .internal-embed p,
+.internal-embed p {
+  margin-right: -25px;
+  padding-right: 40px;
+}
