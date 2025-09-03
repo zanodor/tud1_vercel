@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Letöltések/","title":"Letöltések","created":"2023-12-28T07:46","updated":"2025-07-03T18:38"}
+{"dg-publish":true,"permalink":"/101/Letöltések/","title":"Letöltések","created":"2023-12-28T07:46","updated":"2025-09-03T16:01"}
 ---
 
 
@@ -35,5 +35,5 @@ Használja a keresőt (search) bármely webhelyen a keresett állomány megtalá
 
 
 
-\* A legoptimálisabb megoldás MEGA-ra (https://mega.nz ill. már átirányít ide: https://mega.io) regisztrálni, a 20GB-os ingyenes csomagot választani, és úgy kattintani ezen – a teljes feltöltött állományra vonatkozó – linkekre ([I.](https://mega.nz/folder/ErlUXKhR#tgVUMPOC7r5HcDO5-iRIVQ) és [II.](https://mega.nz/folder/xjk10BgK#4Qq0eXPz1t_6qodJkNItKg)), hogy az ember már be van jelentkezve a saját MEGA-ján, mert így lehetőség nyílik a menteni kívánt file-okat saját MEGA-ra menteni és utána az egyes könyveket, cikkeket kényelmesen egyesével a saját fiókról le lehet tölteni.  
+\* A legoptimálisabb megoldás MEGA-ra (https://mega.nz ill. már átirányít ide: https://mega.io) regisztrálni, a 20GB-os ingyenes csomagot választani, és úgy kattintani ezen – a teljes feltöltött állományra vonatkozó – linkekre ([I.](https://mega.nz/folder/ErlUXKhR#tgVUMPOC7r5HcDO5-iRIVQ) és [II.](https://mega.nz/folder/xjk10BgK#4Qq0eXPz1t_6qodJkNItKg)), hogy az ember már be van jelentkezve a saját MEGA-ján, mert így lehetőség nyílik a kívánt file-okat saját MEGA-ra menteni és utána az egyes könyveket, cikkeket kényelmesen egyesével a saját fiókról le lehet tölteni.  
 (Értelemszerűen a Letöltések I. és Letöltések II. komplett állományainak ilyen módon való elmentéséhez 2x20GB méretű ingyenes fiókra lesz szükség.)  
