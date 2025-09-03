@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2025-08-31T02:52"}
+{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2025-09-03T15:58"}
 ---
 
 
@@ -51,7 +51,7 @@ Könyve 87. oldalán sumér-szkíta temetkezési hasonlósággal fejeli meg:
 Götz másutt írja:  
 > Mészáros Gyula Kelet-Európa néptörténete – Chattiak és skythák című művében alapos forrásvizsgálatokkal, névhasonlításokkal és elmélyedt művészeti motívumelemzésekkel eminens jelentőségű elő­ázsiai-szkita összefüggéseket tárt fel.  
 > A szkíták tehát a Kr. e. 7. századot megelőző időkben a Kaukázustól délre laktak – állapítja meg Mészáros. A fennmaradt szkita helynevek sok esetben azonos hangalakban megtalálhatók Kis-Ázsiában és Transzkaukáziában is, néha az ékírásos hettita időkig visszamenőleg. Ugyancsak szemléltető dokumentumokat találunk a szkita vándorlás kiindulópontjának meghatározására a szkíta személynevek kis-ázsiai párhuzamaiban. Azonos szójelentéssel bíró azonos személynevek tűnnek fel mindkét területen, amelyek Kis-Ázsiában túlnyomórészt a jellegzetes, hettiták előtti hatti ősnyelvi rétegből erednek. Többek között az első ismert szkita királyok nevei, "Partatua" és "Madyas", vitathatatlanul ősi kis-ázsiai nevek.  
-- Folytatást lásd [[H/Hettita#Hettita nyelv\|hettita nyelv]] cím/alcímnél.  
+- Folytatást lásd [[H/Hettita#Hettita nyelv\|hettita nyelv]] cím/alcímnél.
 
 [Ezen](https://qr.ae/pGTezy) Quora válaszban a szkíták iráni nyelve mellett kardoskodó perzsa illető az Sir Harold Walter Bailey által írt khotáni szaka szótárra hivatkozva írja amit ír.  
 
@@ -71,7 +71,7 @@ A szkíta örökségre törő zsidók és indogermánok közös közvetlen (nyel
 A szkíta ember eredetileg hun, ami magyar. Így eredendően a szkíta nyelv (mely valóban egy tág fogalom, [[H/Hun nyelv\|hun nyelv]] címnél írottak szerint is) magyar volt. Erre ad bizonyítékot [[M/Magyar képrejtvények\|magyar képrejtvények]] címnél Péterfai János:  
 > Dárius Kr.e. 513-ban támadta meg Thrákiát, és ebben az évben támadta meg a szkítákat is. A Dáriusnak küldött üzenet jellegzetesen magyar nyelvű, ami döntő bizonyíték a szkíták magyar nyelvűségét illetően. A szkíták királyai követet küldtek a perzsákhoz, Dáriushoz. A követ ajándékot adott Dáriusnak, egy madarat, egy egeret, egy békát, és öt nyilat. A követ azt mondta, a perzsák, ha elég okosak, megfejthetik az ajándék értelmét.  
 > A perzsák tanácsot tartottak a követ távozása után. Dárius úgy vélekedett, hogy a szkíták meghódoltak előtte, de Gobrüasz perzsa főúr más véleményen volt. Gobrüasz így értelmezte az ajándékot: "Ha nem repültök el a levegőben, perzsák, mint a madarak, ha nem bújtok a föld alá, mint az egerek, ha nem ugráltok be a tavak vizébe, mint a békák, akkor sose tértek haza, mert ezek a nyílvesszők fúrnak át benneteket."  
-> Sem Dárius, sem Gobrüasz nem értelmezte helyesen a rejtvényt[^2], amit az ajándékba rejtettek a szkíta királyok. A perzsák a valóságban megfejtették az üzenet valódi mondanivalóját. Ezt onnan tudhatjuk, hogy a bekövetkező események pontosan úgy zajlanak, mint amit a rejtvény mond.  
+> Sem Dárius, sem Gobrüasz nem értelmezte helyesen a rejtvényt[^1], amit az ajándékba rejtettek a szkíta királyok. A perzsák a valóságban megfejtették az üzenet valódi mondanivalóját. Ezt onnan tudhatjuk, hogy a bekövetkező események pontosan úgy zajlanak, mint amit a rejtvény mond.  
 ![assets/Szkítanyelv_image1.png|invert_dark](/img/user/S/assets/Szk%C3%ADtanyelv_image1.png)  
 > Dárius embereinek ki kellett találni az üzenet mondanivalóját, amit ki is találtak. Onnan tudjuk, hogy azt cselekedték a perzsák, amit a szkíták üzentek. Nagyon fontos a küldemény sorrendje, mert segít az üzenet megértésében.  
 > A perzsák megfejtették az üzenetet, és elvonultak táborukból. Valakik tehát tudtak magyarul Dárius táborában.  
@@ -175,7 +175,7 @@ A [[P/Pater\|pater]] név kapcsán már volt a témáról szó. Legutóbb pedig 
 
 Első körben tisztázzuk: a hettita az annyi mint szkíta.  
 [[B/Bedrich Hrozný\|Bedrich Hrozný]]-t magyar körökben lehúzzák, holott ki kell mondani, van igazsága. A folyamatosan specializálódó hettita-szkíta nyelv valóban képezheti a később indo-európainak nevezett nyelvek szókincsét.  
-Tudományos körökben Hrozny-nak[^3] köszönhetően terjedt el a hír, hogy a hettita nyelv az első indo-európai nyelv. Meg is kezdték a ferdítéseket azok az indogermán kutatók \[innen Péterfai János folytatja\]:  
+Tudományos körökben Hrozny-nak[^2] köszönhetően terjedt el a hír, hogy a hettita nyelv az első indo-európai nyelv. Meg is kezdték a ferdítéseket azok az indogermán kutatók \[innen Péterfai János folytatja\]:  
 > ...akik észrevették ennek a területnek írását, majd megkezdték maguk irányába fordítani a feliratok jelentését, de nem vették figyelembe az írások alkotóinak valódi nyelvét.  
 
 #### Péterfai János írja:
@@ -199,12 +199,9 @@ Lásd még [[S/Szaka#Szaka nyelv\|szaka nyelv]], [[A/Alán#Alán nyelv\|alán ny
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Ezt a zavart leginkább a görög történetírók okozták, akik előszeretettel teremtettek mítoszokat és fantázia szülte meséket a közép-keleti népekről, akiket nem értettek igazán.  
-
-[^2]: Lábjegyzet:  
 Melyet Ipolyi Arnold Magyar mythologia című könyvének 580. oldalán futólag is említ.  
 
-[^3]: Lábjegyzet:  
+[^2]: Lábjegyzet:  
 Péterfai János István írja:  
 Bonyolítja a helyzetet a cseh Bedrich Hrozny kutatása, aki a hettita nyelvet indoeurópainak minősítette. Ezzel hatalmas kárt okozott a nyelvészetnek, félrevezette az indogermán kutatókat, akik amúgy is hajlamosak minden elé önmagukat tolni, ezáltal minden valódi igazságot megsemmisíteni, és indogermánná tenni.  
 Svetlik Ottó "A hettita nyelv" című írásában ismerteti Bedrich Hrozny eljárását.  
