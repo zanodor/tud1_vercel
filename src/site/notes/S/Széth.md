@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2025-08-31T02:37"}
+{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2025-09-03T15:57"}
 ---
 
 
@@ -63,7 +63,7 @@ A poláris korszakról [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz
 Fáy Elek A magyarok őshona című könyvében szó van arról, hogy kívülről ([[K/Keta\|keták]]tól, azaz hunoktól) Egyiptomba hozott istenség lehet Széth (a setét aspektusról lásd lejjebb):  
 > Valószínűleg ezen ős közösség magyarázza meg, hogy az egyiptomi Horusz napisten nevével majdnem azonos volt a dontői őshazánkban és annak környékén tisztelt napistené, Korosz-é. A Horusz egyiptomi istennel, mint – atyja, Ozirisz megbosszulójával – naponta megküzdő Szet (máskép Szutek vagy Tifon) istent a tudósok határozottan is Ázsiából és még pedig a hikszószok és keták által Egyiptomba bevitt istenségnek állítják. Hogy pedig a Horusz napistennel naponta küzdő Szet isten nevében az általa személyesített setétnek és ezzel összefüggő estének magyar szavai rejlenek, azt egyfelől a Szet név etimológiájaként Brugsch által felhívott kopt: `eszet`-nek = alul, lefelé értelme tanúsítja, amely azt a kopt szót tehát a magyar estével, mint a nap esésével azonosítja. Hiszen még ma is élünk a `napestig` azaz a nap eséséig szólásformával. Másrészt pedig ugyan e jelentést igazolja az egyiptomi Hathor istennő egyik bubasztiszi lokális alakja, Setat nevének (Brugsch szerint): geheimnisvolle, verborgene, dunkle jelentősége is.  
 
-Felveti mindez azt is, hogy – a legutóbb [[H/Héraklész\|Héraklész]] címnél szereplő megjegyzésem alapján is – Széthnek nemcsak a Szíriusz, NagyGöncöl, Sarkcsillag és netán Szaturnusz azonosítását kell elfogadni, hanem (kiinduló) [[M/Magor\|Magor]] Nappal való azonosítását is. (Amennyiben elfogadjuk, hogy Magor árnyék-aspektusa Hunor, illetve Hunor is csak épp ennyit jelentene.)  
+Felveti mindez azt is, hogy – a legutóbb [[H/Héraklész\|Héraklész]] címnél szereplő megjegyzésem alapján is – Széthnek nemcsak a Szíriusz, Nagy Göncöl, Sarkcsillag és netán Szaturnusz azonosítását kell elfogadni, hanem (kiinduló) [[M/Magor\|Magor]] Nappal való azonosítását is. (Amennyiben elfogadjuk, hogy Magor árnyék-aspektusa Hunor, illetve Hunor is csak épp ennyit jelentene.)  
 Viszont ez a Magorral való azonosítás is csak akkor fogadható el, ha a Vaskorba érkezve teljesen megfeledkezünk a [[P/Precesszió\|precesszió]]ért, magának a korszakváltozásokért felelős [[S/Szíriusz\|Szíriusz]] kozmológiai jelentőségéről, mint ahogy ezt a mindenütt hatalomra jutó papságok nemcsak hogy titkolták, de Széthet és kultuszát démonizálták is (a mitográfusok szemében kvázi azzal az ürüggyel, hogy nemrég, Ozirisszal indult volna be a növénytermesztés, stb).  
 
 #### Zajti Ferenc Zsidó volt-e Jézus...
@@ -311,6 +311,15 @@ Ha már a [[H/Hét\|hét]] szóba került, feltűnő, hogy Széth neve, akár H>
 
 ## Lábjegyzetek
 
+A Wikipédiáról hasonló info (sokatmondó az `onager` név, mert `kulan` rokona):  
+The god Set was usually depicted as a man with a head resembling that of the **sha**, usually with a long, slightly curved nose, and erect ears, squared at the tops. Occasionally he was represented in animal form as the sha itself, although he was also depicted in the form of an onager or as a black pig.  
+—  
+Set istent általában férfiként ábrázolták, akinek a feje a **sha** fejére hasonlított, általában hosszú, enyhén ívelt orral és felálló, a tetején szögletes fülekkel. Alkalmanként állati alakban ábrázolták, mint magát a sha-t, bár ábrázolták onager vagy fekete disznó alakjában is.  
+——  
+Huszárik László Denderai csillagképek, hónapok és mítoszok című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében némileg váratlanul közli, hogy az antilop Széth egyik állati megtestesülése:  
+Hóruszt az ábrázolások gyakran mutatják a kártékony állatok legyőzőjeként, skorpió is megmarta, Thot mentette meg. A legyőzött állatok gyakran Széth megjelenések, ostobának \[mint a szamár\] tartott állatok, mint a krokodil, víziló és antilop.  
+Később írja, hogy a disznó szintén "Széth állat," amelytől az istenek undorodtak.
+
 [^1]: Lábjegyzet:  
 Vigyázat, mert a Hamlet Malmában is a Széth és Hóruszt köpülés közben ábrázoló képhez fűzött magyarázatban is az írók kijelentik, hogy egyes tudósok azt képzelték, hogy azt jelenti, hogy együtt kormányozták az országot:  
 Ezt az ábrázolást rendszeresen félreértelmezik, mint a "két ország egyesítését." (Lásd a könyv 208. oldalán.)  
@@ -336,15 +345,6 @@ Akkor Hórusz, mint a napisten és Sut, **a sötétség hatalmának** legyőzőj
 [^6]: Lábjegyzet:  
 Jankovics Marcell írja:  
 Ábrázolásai az istent nem szamárfejűnek mutatják, hanem – Egyiptomban egyedülálló módon – fantázialénynek, amelynek a tapíréra (**kuda** nevű indiai tapírnév létezik!) emlékeztető rövid ormánya és hosszú, de a végén lekerekített vagy vágott füle van, s talán egy mára kihalt állat volt a modellje. A ma élő afrikai állatok közül leginkább a földi malacéra hasonlít a feje.  
-
-A Wikipédiáról hasonló info (sokatmondó az `onager` név, mert `kulan` rokona):  
-The god Set was usually depicted as a man with a head resembling that of the **sha**, usually with a long, slightly curved nose, and erect ears, squared at the tops. Occasionally he was represented in animal form as the sha itself, although he was also depicted in the form of an onager or as a black pig.  
-—  
-Set istent általában férfiként ábrázolták, akinek a feje a **sha** fejére hasonlított, általában hosszú, enyhén ívelt orral és felálló, a tetején szögletes fülekkel. Alkalmanként állati alakban ábrázolták, mint magát a sha-t, bár ábrázolták onager vagy fekete disznó alakjában is.  
-——  
-Huszárik László Denderai csillagképek, hónapok és mítoszok című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében némileg váratlanul közli, hogy az antilop Széth egyik állati megtestesülése:  
-Hóruszt az ábrázolások gyakran mutatják a kártékony állatok legyőzőjeként, skorpió is megmarta, Thot mentette meg. A legyőzött állatok gyakran Széth megjelenések, ostobának \[mint a szamár\] tartott állatok, mint a krokodil, víziló és antilop.  
-Később írja, hogy a disznó szintén "Széth állat," amelytől az istenek undorodtak.  
 
 [^7]: Lábjegyzet:  
 Ezzel furcsamód Hórusz – Széth csatározásának egy egészen bagatell napfogyatkozás-értelmezést is adtak (Jankovics Marcell A Nap könyve című könyvéből):  
