@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2025-08-19T01:06"}
+{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2025-09-03T15:59"}
 ---
 
 
@@ -100,7 +100,7 @@ Az is elképzelhető ezután, hogy a tupi indiánoktól ismert [[J/Jaguar\|jagua
 Azaz, a görög és latin igékre visszautalva lehet agar magyar ige értelme hajtani, akár [[A/Akar\|akar]]ni. Ahol írtuk legutóbb: Szíriusz-Orion hajtja a csillagképeket és valóban az ott említett életkörről van szó, mely félévekre tagolható ([[F/Félév\|félév]] címnél lásd Gyárfás Ágnes Szíriuszos adatait).  
 Ezek alapján is kimondható, hogy a hajt és akar (óhajt, vágy, sóvárog, stb.) fogalmai összefüggenek, úgy ahogy az [[I/Íj\|íj]] és [[E/Éh\|éh]] fogalmak/szavak és a [[H/Hunger\|hunger]]/hanker a Hungár-Hunor-[[K/Khamor\|Khamor]]-ral. Az elmúlt időszakban főleg ezen szavak gyűjtésével és vizsgálatával foglalkoztam.  
 
-Joseph Fontenrose Orionjában mindenféle isten folyton vadászik. Úgy tűnik, a vadászat azt jelenti, hogy űzni a (Csuda)szarvast, azaz kőrözni az égen (nemzés-teremtés az életkörben). Márpedig a [[K/KÁR\|KÁR]] = vadász(?) szóban is K-R/kör váz szerepel.  
+Joseph Fontenrose Orionjában mindenféle isten folyton vadászik. Úgy tűnik, a vadászat azt jelenti, hogy űzni a (Csuda)szarvast, azaz körözni az égen (nemzés-teremtés az életkörben). Márpedig a [[K/KÁR\|KÁR]] = vadász(?) szóban is K-R/kör váz szerepel.  
 Valóban vadászni nem más, mint szexuálisan űzni. Ilyen értelemben a kár = cigány `káró` és perzsa [[K/Kir\|kir]] = hímtag értelme is tisztázott. Vegyük észre, az Orionnal azonosított [[N/Nimrud\|Nimrud]] nevében – Tomory Zsuzsa szerint is – a Nemző Rúd, azaz a hímtag értelem van meg. Ezen témáról [[M/Magyar istencsalád\|magyar istencsalád]] és [[H/Hunor csillagkép\|Hunor csillagkép]] címnél is volt szó.  
 
 #### Varsa Mátyás A legrégibb magyar mítosz...
@@ -112,7 +112,7 @@ Valóban vadászni nem más, mint szexuálisan űzni. Ilyen értelemben a kár =
 > A vadászat és a házasság \[szexualitás\] között mitikus kapcsolat van. Hogy ez így volt a mi ősi kultúránkban is, azt mutatják [[S/Szeret\|szeret]]-szerez, talán bír-birkózik, [[O/Öl\|öl]]-ölel szavaink, és kettős értelmű ajz \[honnan a török [[A/AJ\|aj]] = hold\] szavunk. Továbbá, hogy a por frátria asszonyait a rege a Fiastyúkkal azonosítja, a Fiastyúk pedig szemben áll az égi vadásszal.  
 - A szemben kifejezés kissé pontatlan: a közben a fajd eredetre visszavitt [[P/Pleiadok\|Plejádok]]ra szegezi az íjat. <br/>
 Lásd még hasonlókról [[F/Fuvar\|fuvar]].  
-Legutóbb [[J/Játék\|játék]] és [[G/Game\|game]] címnél volt szó arról, hogy a játék valójában véresen komoly és a nemzésről, az életkörön való kőrözésről van szó.  
+Legutóbb [[J/Játék\|játék]] és [[G/Game\|game]] címnél volt szó arról, hogy a játék valójában véresen komoly és a nemzésről, az életkörön való körözésről van szó.  
 A [[H/Hazard\|hazard]]-dal kapcsolatba hozható ([[S/Szerencse\|szerencse]])játék témához itt vissza is térünk.  
 
 #### Falvay Károly Nagyboldogasszony...
