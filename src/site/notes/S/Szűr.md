@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szűr/","title":"Szűr","created":"2023-11-19T02:58","updated":"2025-07-03T01:17"}
+{"dg-publish":true,"permalink":"/S/Szűr/","title":"Szűr","created":"2023-11-19T02:58","updated":"2025-09-03T16:00"}
 ---
 
 
@@ -15,7 +15,7 @@ Igeként hasonló funkciót lát el, mint a [[S/Szita\|szita]]: tisztít. (A fé
 
 De szakrális vonatkozású a szűr viselet neve is. A szakralitása abban áll, hogy egyrészt a napjelkép [[S/Szőr\|szőr]] ideája foglaltatik benne, másrészt észrevétlenül magában foglalja a Kör fogalmát.  
 Arról már [[K/KAR\|KAR]], [[S/Szer\|szer]] és más címnél ([[M/Madár\|madár]]neveknél, mint [[S/Sirály\|sirály]] és [[S/Seregély\|seregély]]) volt szó, hogy a Kör fogalma hogy jelenik meg átalakulva szavainkban.  
-Ha valaki nem értené: a szűrrel rokon a [[S/Sürög\|sürög]] sür eleme, mely a [[F/Forog\|forog]] párja. A forog meg a kering, kőröz rokona.  
+Ha valaki nem értené: a szűrrel rokon a [[S/Sürög\|sürög]] sür eleme, mely a [[F/Forog\|forog]] párja. A forog meg a kering, köröz rokona.  
 Tellurikus párja, ugyanígy az életkörből kiindulva, lehet [[Z/Zűr\|zűr]].  
 
 Megfelel neki az igeképző nélküli [[S/Sző\|sző]] szavunk, mely címnél Götz László ide tehető adatait is táblázatos adatként szerepeltettünk.  
