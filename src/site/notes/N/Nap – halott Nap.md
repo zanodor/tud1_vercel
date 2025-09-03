@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2025-08-31T02:51"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2025-09-03T15:58"}
 ---
 
 
@@ -83,7 +83,7 @@ Legutóbb [[M/Mithra\|Mithra]] címnél is arról volt szó, hogy Mithra Ozirisz
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (első kötetének) 267. oldalán szól a témáról, de olyan jól nem fejti ki, mint Jankovics Marcell tette nyilván újabb, pontosított forrásai alapján. Ami RB könyvéből ide tehető, hogy a sumér-akkád Mar-Gidda a Göncölszekér elnevezése ugyan, de a [[M/MAR\|MAR]] kimondottan a hálálra látszik utalni inkább. ([[A/Aganna\|Aganna]] címnél lásd még akkád Göncölszekér elnevezést.)  
 
 Egy eleddig nem említett fontos(?) analógia a Sarkcsillag és a Nap között (saját idea):  
-A Sarkcsillag az az éjszakai Nap, mely körül ugyanúgy kőröznek a csillagok, ahogy a Nap körül a bolygók.  
+A Sarkcsillag az az éjszakai Nap, mely körül ugyanúgy köröznek a csillagok, ahogy a Nap körül a bolygók.  
 
 A Nap – halott Nap és [[N/Nap#Nap – Ellen-Nap\|ellen-Nap]] cím/alcímeket eleddig nem kapcsoltam össze. Ugye a [[S/Sarkcsillag\|Sarkcsillag]] címnél is volt [[S/Sarkcsillag#Sarkcsillag és Szíriusz azaz miben áll Sarkcsillag – Szíriusz kapcsolata\|Sarkcsillag és Szíriusz azaz miben áll Sarkcsillag – Szíriusz kapcsolata]] alcím. Az a közös kapocs.  
 A halott Nap kapcsán érdekes még a [[K/Kelet és észak\|kelet és észak]] címnél szereplő passzus.  
