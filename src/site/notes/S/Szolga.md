@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szolga/","title":"Szolga","tags":["Englishtexttranslated"],"created":"2024-10-24T00:03","updated":"2025-08-17T00:26"}
+{"dg-publish":true,"permalink":"/S/Szolga/","title":"Szolga","tags":["Englishtexttranslated"],"created":"2024-10-24T00:03","updated":"2025-09-03T15:59"}
 ---
 
 
