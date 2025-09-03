@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arab nyelv/","title":"Arab nyelv","created":"2023-11-18T09:37","updated":"2025-06-07T19:41"}
+{"dg-publish":true,"permalink":"/A/Arab nyelv/","title":"Arab nyelv","created":"2023-11-18T09:37","updated":"2025-09-03T16:00"}
 ---
 
 
@@ -49,7 +49,7 @@ Arról [[A/Alborz\|Alborz]] (és más) szócikknél is volt szó, hogy a szókin
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Ezzel azonos az okinavai japán `hiijaa` = kecske. Márpedig a Tejút két állatalakjáról van szó. [[I/Ilona\|Ilona]] címnél is írtuk, hogy az egyes állatalakok nevei más és más nyelvekben megjelenhetnek más és más jelentéssel. A Csudaszarvasünő – Tündér Ilona – Tejútanya – Tejút – Kígyó – [[K/Kígyóistennő\|kígyóistennő]] analógián haladva nem elképzelhetetlen, hogy Ilona (Illan?) neve kihat egyes nyelvek kígyó jelentésű szavának keletkezésére; lásd üzbég `ilon` = kígyó, tatár `elan`, továbbá jejesen török, baskír `yilan`. (A kirgizben `zsilan`, a tuvánban `csilan` (csillan?).)  
+Ezzel azonos az okinavai japán `hiijaa` = kecske. Márpedig a Tejút két állatalakjáról van szó. [[I/Ilona\|Ilona]] címnél is írtuk, hogy az egyes állatalakok nevei más és más nyelvekben megjelenhetnek más és más jelentéssel. A Csudaszarvasünő – Tündér Ilona – Tejútanya – Tejút – Kígyó – [[K/Kígyóistennő\|kígyóistennő]] analógián haladva nem elképzelhetetlen, hogy Ilona (Illan?) neve kihat egyes nyelvek kígyó jelentésű szavának keletkezésére; lásd üzbég `ilon` = kígyó, tatár `elan`, továbbá jejesen török, baskír `yilan`. (A kirgizben `zsilan`, a tuvaiban `csilan` (csillan?).)  
 Ide tehető még, hogy a finn `keiju` = tündér (`keijukainen` a kisebb méretű szárnyas) szó kígyó szavunkkal egyeztethetősége által is rámutat, hogy Tündér Ilonának milyen állatalakjai vannak. A másik szava (emberszerű) tündérre a (nőnemű) `haltijatar`, melynek `tijatar` része egyezik az ugor `tugater` = lány szóval (lásd [[D/Daughter\|daughter]]) és [[T/Tündér\|tündér]] szavunkra vezethető vissza.  
 A [[K/Kilo-\|kilo-]] címnél taglalt görög `khilioi` = ezer is lehet \*kijó eredetű, mivel sok ezer csillag alkotja a Tejutat.  
 [[G/Göd\|Göd]] címnél pedig G-T vázú kígyót jelentő szavak jöttek elő, melyek [[G/Gőte\|gőte]] szavunkkal is mind azonosíthatók.  
