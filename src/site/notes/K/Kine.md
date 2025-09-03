@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kine/","title":"Kine","tags":["Englishtexttranslated"],"created":"2024-02-03T05:35","updated":"2024-10-25T22:23"}
+{"dg-publish":true,"permalink":"/K/Kine/","title":"Kine","tags":["Englishtexttranslated"],"created":"2024-02-03T05:35","updated":"2025-09-03T16:00"}
 ---
 
 
