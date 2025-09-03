@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2025-06-07T19:15"}
+{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2025-09-03T15:58"}
 ---
 
 
@@ -109,7 +109,11 @@ John M. Jenkins Galactic Alignment című könyvében írja a Tejút-jelkép [[K
 > A maja kozmológiával kapcsolatos kutatásaim során felfedeztem, hogy sok hagyományos kultúrában a Plejádok és a Skorpió-Nyilas szembenállást látnak – gyakran egy óriási égi kígyó farkának és fejének tekintik. Ebben a felfogásban a kígyó a Tejút, mivel a Tejút az égbolt egyik oldalán közvetlenül a Plejádok mellett halad el, a másik oldalon pedig a Skorpió-Nyilason keresztül. Mivel a Tejútközpont a Nyilas közelében van, a sugallt tengely valójában egy galaktikus szintű fogalmi dél-észak tengely, amely a Nyilas melletti Tejútközponttól a Földön keresztül a Plejádok galaktikus anticentrum régiója felé fut.  
 
 ![assets/Galacticanticentre_image9.png|invert_dark](/img/user/G/assets/Galacticanticentre_image9.png)  
-A mellékelt diagram [[D/Dzsed\|dzsed]] címnél is szerepelt, és egyesíti a John M. Jenkins által fejtegetett központokat egy ábrán. A függőleges tengely elfektetve É-D orientációjú Tejút-világoszlopként is értelmezhető, ahogy erre Jankovics Marcell könyveiben ki is tér; lásd [[T/Tejút\|Tejút]].  
+
+{ #250903}
+
+
+A mellékelt diagram [[D/Dzsed\|dzsed]] és más címnél is szerepelt, és egyesíti a John M. Jenkins által fejtegetett központokat egy ábrán. A függőleges tengely elfektetve É-D orientációjú Tejút-világoszlopként is értelmezhető, ahogy erre Jankovics Marcell könyveiben ki is tér; lásd [[T/Tejút\|Tejút]].  
 Ennél is fontosabb annak felismerése, hogy **Széth azért hozható kapcsolatba Szíriusszal és a Sarkcsillaggal is, mert ezen aspektusai a galaktikus mozgások más és más térbeli síkra való kivetülései**. (Vagy ha úgy tetszik, az idő fogaskerekeinek vízszintesen forgó eleméhez egy függőleges (erőátviteli elem) is kapcsolható, mely ismét kapcsolódik egy kisebb fogaskerékhez, mely a cirkumpoláris csillagképek forgatásáért felelős. Az egész egy rendszer.)  
 John M. Jenkins ugyan Széthet nem említi, de a galaktikus központ, azaz Tejútközpont ([[G/Galactic centre\|Galactic centre]]) (és így a Szíriusszal való együttállás, melyet szintén nem említ), és a [[S/Sarkcsillag\|Sarkcsillag]] kapcsolata John M. Jenkins könyvének első felében minduntalan előjön. Ennek eredménye a [[D/Dzsed\|dzsed]], [[K/Kezdet és vég\|kezdet és vég]], valamint a [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]] címnél megjelent anyag, mely utóbbinál azt tárgyaltuk, hogy a poláris kozmikus felfogás és a szoláris egymástól elkülöníthető-e, azaz egyikből jött a másik vagy sem.  
 
