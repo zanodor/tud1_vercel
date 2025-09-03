@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2025-07-27T12:56"}
+{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2025-09-03T15:03"}
 ---
 
 
@@ -11,8 +11,7 @@ Hogy a kereszt szóban az `e` hang másutt is ismert volt, lásd [[K/Krisztus#Kr
 
 #### László Gyula Kettős honfoglalás...
 
-...című könyvében idézett...  
-[[K/Kniezsa István\|Kniezsa István]][^1] természetesen szlávozik:  
+...című könyvében idézett...[[K/Kniezsa István\|Kniezsa István]][^1] természetesen szlávozik:  
 > "Hogy a magyarság kitől vette át a kereszténységet, a magyar kutatást már régóta foglalkoztatja. Krónikáinkból és legendáinkból úgy tudjuk, Géza udvarának megtérítésében német papokon kívül Adalbert prágai püspöknek volt nagy része. Ebből tehát az következnék, hogy a keresztény terminológia is főként német, esetleg cseh eredetű volna.  
 > A kereszténységre vonatkozó kifejezések legrégibb rétege a szlávból származik; kereszt (görög-keleti szláv `krьst`), keresztény, régebben a katolikusoknál is keresztyén (`krestjan`), bérmál (`birmati`), szent (`svet` \[lásd még [[S/Szvjet\|szvjet]]; miért nem latin?\]), malaszt (`milost`), pap (`pop`), apát (`opát`). \[...\] A kifejezések egy része (kereszt, érsek) határozottan görög szertartású szláv nyelvből származik, míg a másik része latin szertartású délnyugati szláv nyelvekre (szlovén, horvát) mutat, és egy sincs, amelyik cseh eredet mellett szólna."  
 - A [[Z/Zsidó\|zsidó]] szót is szlávból átvettnek tartja; lásd ott.
@@ -22,10 +21,13 @@ Hogy a kereszt szóban az `e` hang másutt is ismert volt, lásd [[K/Krisztus#Kr
 Még az egyiptomi [[A/Ankh\|ankh]] kapcsán jegyezzük meg, hogy az élet keresztje, tehát itt is szerepel az élet fogalma és a kör is bele került.  
 
 Az alábbiakban arról lesz szó, hogy a kereszt fogalma a magyarban mit jelent. Jelentheti a kör-oszt ([[N/Négy\|négy]] cikkelyre [[O/Oszt\|oszt]]) fogalmát és az egymást keresztező (metsző, vágó) égi (kör)pályákat, főköröket ([[C/Colure\|colure]]) is. Lényegében, mint látni fogjuk, a két dolog egy és ugyanaz.  
-A(z azóta csillagászati infókkal is tárgyalt) [[K/Keresztre feszített Nap\|keresztre feszített Nap]] maga Jézus [[K/Krisztus\|Krisztus]], kinek második nevéből határozzák meg a [[K/Keresztény\|keresztény]] nevet (latin Christianus, Christus). Hát ilyen hülyének nézik a magyarokat? Igen, úgy tűnik, eddig lehetett. Lásd még [[K/Köristen\|Köristen]].  
+A [[K/Keresztre feszített Nap\|keresztre feszített Nap]] maga Jézus [[K/Krisztus\|Krisztus]], kinek második nevéből határozzák meg a [[K/Keresztény\|keresztény]] nevet (latin Christianus, Christus). Hát ilyen hülyének nézik a magyarokat? Igen, úgy tűnik, eddig lehetett. Lásd még [[K/Köristen\|Köristen]].  
 
-Amikor Molnár V. József Világ-Virág című könyvének 13. oldalán a kör és négyzet alakú jelek osztatlan egész képzetéről szól, ezzel elárulja, hogy fel is lehet őket osztani. És valóban (ahogy talán könyvében később utal is majd rá), a Kör-Oszt-ásával adódik ki a Kereszt, illetve Köröszt.  
+Amikor Molnár V. József Világ-Virág című könyvének 13. oldalán a kör és négyzet alakú jelek osztatlan egész képzetéről szól, ezzel elárulja, hogy fel is lehet őket osztani. És valóban (ahogy talán könyvében később utal is majd rá), a Kör Oszt-ásával adódik ki a Kereszt, illetve Köröszt.  
 Molnár V. József könyvének 14. és 18. oldalán a [[N/Négyzet\|négyzet]]ről beszél úgy, hogy ez a forma volt eredetileg az, ami kapcsán az oszthatóság először felmerült, illetve hogy a négyzetből következik a kör. Nos, lehetséges, viszont négy-oszt szavunk nincs, viszont [[K/Kör\|kör]]-[[O/Oszt\|oszt]] nyomán származik a kereszt szavunk.  
+
+A török `dört` számnév négy jelentésével a kör osztására utal. Ez is bizonyítja a kereszt kör-oszt formában való felbontásának helyességét.  
+
 Egyébiránt Jankovics Marcell lentebb szereplő sorát ennek megerősítésére tegyük ide a kétkedőknek (még ha ez nem is a bizonyítás felsőfoka):  
 > A "kerék" és a "kereszt" szavak – nem csak a magyarban – a "kör"-re mennek vissza, de legalábbis egy tőről erednek. L. lat. `circus` = "kör", `crux` = "kereszt", `currus` = "szekér".  
 
