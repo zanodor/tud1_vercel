@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2025-06-07T19:47"}
+{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2025-09-03T15:59"}
 ---
 
 
@@ -94,11 +94,11 @@ A bálványnak van egy másik jelentése is.
 ...című cikkében írja (összekötve a két jelentést):  
 > A régi palóc ház [[B/Boldoganya\|boldoganya]] nevű, [[M/Mestergerenda\|mestergerendá]]t tartó oszlopát, hagyománytiszteletből, minden újonnan épült házba beállítottak. Igen ám, de két ilyen oszlop is volt, a másikat már csak simán bálványnak[^1] hívták. Rejtett kultikus összetartozásukat mutatva, együtt jelent meg a Boldoganya és a bálvány. A női isten-fél, a Boldogasszony, lényegtelensége miatt tovább élt a keresztény jegyek alatt rejtve és rangvesztve, de a pogány hím riválisnak, Boldog Istennek mindenképpen el kellett tűnnie, s maradt helyette a "nevesincs" azaz csak utaló, bálvány szó.  
 
-Kubínyi Tamás mondja egy ÁKTV műsorában, hogy a televízió váltotta fel a [[H/Házioltár\|házioltár]] szerepét. Másutt továbbmegy és úgy fogalmaz, hogy bálványimádó (az imádat tárgya a házioltár szerepét átvevő készülék).  
+Kubínyi Tamás mondja egy ÁKTV műsorában, hogy a televízió váltotta fel a [[H/Házioltár\|házioltár]] szerepét. Másutt továbbmegy és úgy fogalmaz, hogy a bálványimádat tárgya (az imádat tárgya a házioltár szerepét átvevő készülék).  
 
 ## Bálványimádó Jahvista zsidók
 
-Amikor a [[K/Kabbalah\|Kabbalah]] címnél említett, [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél is előjövő ausztrál, magyar nyelvet ősnyelvnek tanító Goz nevű illető a kabbalisták által elferdített istenképről beszél, elszalasztott egy jó lehetőséget annak kimondására, hogy ha a szerinte az [[I/Ige\|ige]] címnél is említett magyar nyelv maga az isten, ami a tudatunkon és lelkünkön keresztül létezik, akkor az egyénen kívül helyezett istenkép, mint amilyen a zsidóké, az bálványimádásnak tekinthető. Tehát pont azok a zsidók beszélnek Jézus kapcsán bálványimádásról, akik maguk is bálványimádók. Klasszikus esete a projekciónak.  
+Amikor a [[K/Kabbalah\|Kabbalah]] címnél említett, [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél is előjövő ausztrál, magyar nyelvet ősnyelvnek tanító Goz nevű illető a kabbalisták által elferdített istenképről beszél, elszalasztott egy jó lehetőséget annak kimondására, hogy ha a szerinte az [[I/Ige\|ige]] címnél is említett magyar nyelv maga az isten, ami a tudatunkon és lelkünkön keresztül létezik, akkor az egyénen kívül helyezett istenkép – mint amilyen a zsidóké – bálványimádásnak tekinthető. Tehát pont azok a zsidók beszélnek Jézus kapcsán bálványimádásról, akik maguk is bálványimádók. Klasszikus esete a projekciónak.  
 
 
 ## Fabálvány
@@ -114,4 +114,4 @@ Amikor a [[K/Kabbalah\|Kabbalah]] címnél említett, [[M/Magyar nyelv és nyelv
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-A palóc építészet jellegzetes eleme a mestergerenda s a rajta nyugvó padlás biztosítására szolgáló **boldoganya** (bódoganya), egy tölgyfából készült hasábos vagy hengeres oszlop, mely a szoba közepén áll a mestergerenda alatt. Nem csak teherhordó szerepe volt, úgy tűnik, pusztán babonás félelemből is alkalmazták. Van aki két ilyen mestergerendát tartó oszlopot említ, az egyik, melyen a szoba (ház) közepe táján a mestergerenda pihen: a [[B/Bálvány\|bálvány]]; a másik a bejárat mellett: a boldoganya, (vagy: a bódoganya, amelyik az asztalhoz állott közel, a másik pedig a bálvány a kemencénél) telefaragva "cifra emblémákkal," talán régi rovás jelekkel. A gyermekek este imádkozás után, lefekvés előtt a bódoganyát (más forrás szerint a rajta lévő jeleket) megcsókolták, és ugyanezt tették büntetésből, ha csínyt követtek el. A bódoganya szerepel a palóc mondásokban is. A gazdasszony gondosan elzárta a kamarát, mert "a gyerekek megennék még a bódoganyát is, ha szalonnából volna."  
+A palóc építészet jellegzetes eleme a mestergerenda s a rajta nyugvó padlás biztosítására szolgáló **boldoganya** (bódoganya), egy tölgyfából készült hasábos vagy hengeres oszlop, mely a szoba közepén áll a mestergerenda alatt. Nem csak teherhordó szerepe volt, úgy tűnik, pusztán babonás félelemből is alkalmazták. Van aki két ilyen mestergerendát tartó oszlopot említ, az egyik, melyen a szoba (ház) közepe táján a mestergerenda pihen: a **bálvány**; a másik a bejárat mellett: a boldoganya, (vagy: a bódoganya, amelyik az asztalhoz állott közel, a másik pedig a bálvány a kemencénél) telefaragva "cifra emblémákkal," talán régi rovás jelekkel. A gyermekek este imádkozás után, lefekvés előtt a bódoganyát (más forrás szerint a rajta lévő jeleket) megcsókolták, és ugyanezt tették büntetésből, ha csínyt követtek el. A bódoganya szerepel a palóc mondásokban is. A gazdasszony gondosan elzárta a kamarát, mert "a gyerekek megennék még a bódoganyát is, ha szalonnából volna."  
