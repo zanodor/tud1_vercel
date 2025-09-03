@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Culminate/","title":"Culminate","created":"2025-03-13T02:22","updated":"2025-03-13T02:23"}
+{"dg-publish":true,"permalink":"/C/Culminate/","title":"Culminate","created":"2025-03-13T02:22","updated":"2025-09-03T16:00"}
 ---
 
 
@@ -19,7 +19,9 @@ Mintha a latin `collis` és culmen szavak is ennek a képzeteit takarnák (ha m�
 
 ...adatsora is idetehető:  
 > A Nap, a Hold, a bolygók, az állócsillagok, vagy valamely meghatározott égi pont átvonulásának különösen feltűnő helyzetei vannak, a Föld adott pontjához, az észlelőhelyhez viszonyítva. Ilyenek: 1. az illető égitest vagy pont felkelése (aszcenziója), amikor keleten a láthatár fölé emelkedik; 2. tetőzése (kulminációja), amikor átvonuló kőrútján eléri a legmagasabb pontot az észlelőhely fölött; 3. lenyugvása (deszcenziója, amikor nyugaton a láthatár alá merül. A Nap tetőzését valamely földi pont fölött delelésnek nevezzük; az illető ponton ekkor van délidő.  
-> Csillagászati művekben gyakran használják a "delelés" szót a többi égitesttel vagy égi pontokkal kapcsolatban is. De a "dél, delelés" fogalma a köznyelvben annyira összeforrt a Nappal, hogy helyesebb a kulminációt a "tetőzés" szóval kifejezni.  
+> Csillagászati művekben gyakran használják a "delelés" szót a többi égitesttel vagy égi pontokkal kapcsolatban is. De a "dél, delelés" fogalma a köznyelvben annyira összeforrt a Nappal, hogy helyesebb a kulminációt a "tetőzés" szóval kifejezni.
+{ #dxqvbo}
+
 
 Az albán `kulm`, melyet szintén a latin `culmen`-ből eredeztetnek, viszont nemcsak halom, hanem hullám jelentést is takar. Márpedig a [[H/Hullám\|hullám]] jelentés asztrális értelemben itt fontosabb.  
 
