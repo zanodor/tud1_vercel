@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/AR, ÁR/","title":"AR, ÁR","tags":["containstransclusions"],"created":"2024-10-31T14:37","updated":"2025-06-07T19:33"}
+{"dg-publish":true,"permalink":"/A/AR, ÁR/","title":"AR, ÁR","tags":["containstransclusions"],"created":"2024-10-31T14:37","updated":"2025-09-03T15:59"}
 ---
 
 
@@ -62,12 +62,11 @@ Götz László Keleten kél a Nap című könyvének 872-873. oldalán találhat
 A mozgás pedig mindig körmozgás, ahogy több helyen kifejtettük.  
 
 [[E/ER\|ER]] és [[P/Péter\|Péter]] címnél is szerepelt:  
-Minden etimon, mely r hangot tartalmaz, leginkább fényerőre és annak forrására (a Napra, és meg annak (forgására – körre, [[E/Életkör\|életkör]]re)) utal.  
-
-![assets/ArAr_image1.jpeg|invert_dark](/img/user/A/assets/ArAr_image1.jpeg)  
+Minden etimon, mely r hangot tartalmaz, leginkább fényerőre és annak forrására – a Napra, és meg annak (forgására – körre, [[E/Életkör\|életkör]]re) – utal.  
 
 Borbola János Magor című cikkében a [[M/Magyar\|magyar]] nevet Mag-Ar formában való bontásakor azt az észrevételt teszi, hogy minden maggal végezhető művelet tetemes részét az ár tőre lehet visszavezetni (kissé sajátos a lista és az eljárás is, de majdnem jól ráérzett, hogy az [[E/Életkör\|életkör]]ben értelmezhető életenergiáról van szó):  
 > BetakARít, tARol, szÉRű, sARló, mARok, tARló (MAG)-tÁR, hombÁR, csŐR, vERem, udvAR, Áru, csERe, de (ÁR)tÉR, hatÁR, Árnyék, sÁR, mocsÁR, kÁR, kORom stb.  
+> ![assets/ArAr_image1.jpeg|invert_dark](/img/user/A/assets/ArAr_image1.jpeg)
 
 A Tibold Szabina Ágnes Fényben járni, fénnyé válni című Ősi Gyökér 2006/4. sz. megjelenő cikkében talált lakota közmondás is ezt magyarázza: "Minden, amit az Erő tesz, teszi azt körökben." Azaz az Ar/Er/Ör mind erő és kör értelmű egyben.  
 
@@ -104,8 +103,14 @@ A mellékelt kép Godwin könyvének 152. oldaláról való és [[H/Henger\|heng
 
 Fentebb Péterfai János soraiban már szerepelt az Ar (Ár) és Ra (Rá) párosa. Tudjuk, hogy a Rá a Nap, melyből [[R/Ragyog\|ragyog]] szavunk is ered. De a Héraklitosznak tulajdonított `panta rhei` = minden változik/áramlik/folyik kifejezésben rhei is ennek az áramlásnak, folyásnak a szava.  
 AR az energia alapszava.  
-ÁR jejesítésével adódik ki (szintén kört jelentő) [[J/Jár\|jár]] szavunk.   
+ÁR jejesítésével adódhat ki (szintén kört jelentő) [[J/Jár\|jár]] szavunk.   
 Lásd még továbbá [[A/ÁR\|ÁR]], [[A/Árgyilus\|Árgyilus]], [[A/Arany\|arany]], [[A/Árja\|Aryan]], [[A/Airyana Vaeja\|Airyana Vaeja]] és [[A/Arrow\|arrow]]. Továbbá még [[A/Ardent\|ardent]] és [[A/Arduous\|arduous]].  
+
+## AR, ÁR eredetije IR?
+
+[[T/Teremtőgyökök#Ir teremtőgyök\|Ir teremtőgyök]] helyen egy teoretikus gyököt adtunk meg, abból kiindulva, hogy az [[I/I#I mint mozgást kifejező, életkörre utaló szócska\|i mozgást kifejező, életkörre utaló szócska]] már [[I/Ív\|ív]] és [[J/Jó\|jó]] szavak alapgyöke is lehet.  
+Valljuk be, itt, Ar esetében is leginkább azért esett a választás valamiféle kiindulóalapként tekinteni rá, mert az a betű nyitja az ábécét és mert az [[A/A\|A]] címnél álló diagramon is a legtöbb három hangos fontos szóban 'a' hang szerepelt. De miért ne lehetne `ir` eredetibb?  
+És akkor a fentebbi kijelentést is utólag feltételes módba tettem: ÁR jejesítésével adódhat ki (szintén kört jelentő) `jár` szavunk. Ha nem ir (vö. `iram`) változata...  
 
 ## UR (AR, ÁR) és párjainak (ÉL, IL) előtételezése
 
