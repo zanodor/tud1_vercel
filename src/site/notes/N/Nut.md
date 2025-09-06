@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nut/","title":"Nut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2025-05-29T16:57","updated":"2025-09-03T15:58"}
+{"dg-publish":true,"permalink":"/N/Nut/","title":"Nut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2025-05-29T16:57","updated":"2025-09-06T17:11"}
 ---
 
 
@@ -29,7 +29,7 @@ Nut-nál, [[M/Mut\|Mut]]-nál és másutt is kimondtuk: miután minden [[I/Isten
 
 #### Jankovics Marcell Ahol a madár se jár...
 
-...című könyvében öntudatlanul(?) is magyarból próbálja etimológizálni Nut nevét:  
+...című könyvében öntudatlanul(?) is magyarból próbálja etimologizálni Nut nevét:  
 > Nut úgy nyújtózik az egyiptomi sírok, templomok mennyezetén, mint a parasztház hosszában a [[M/Mestergerenda\|mestergerenda]].  
 
 Nyújt szavunk valóban igen hasonló, csak ki kell venni a jejességet. [[N/Nút\|Nút]] szavunk berovás, barázda értelmű (szintén nőiség).  
