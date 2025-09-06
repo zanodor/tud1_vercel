@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kota/","title":"Kota","created":"2024-11-08T15:22","updated":"2025-08-31T02:09"}
+{"dg-publish":true,"permalink":"/K/Kota/","title":"Kota","created":"2024-11-08T15:22","updated":"2025-09-06T17:11"}
 ---
 
 
@@ -98,3 +98,4 @@ kut -- kut2 : Magyar Adorján adata
 
 @enduml
 ```
+- Az angol [[H/Hut\|hut]] = viskó is betehető lett volna.
