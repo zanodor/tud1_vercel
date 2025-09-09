@@ -97,3 +97,6 @@
 
 .callout[data-callout="warning"] .callout-title-inner strong { display: none; }
 .callout[data-callout="warning"] .callout-title-inner::before { content: "Figyelmeztetés "; }
+
+.callout[data-callout="details"] .callout-title-inner strong { display: none; }
+.callout[data-callout="details"] .callout-title-inner::before { content: "Részletek"; }

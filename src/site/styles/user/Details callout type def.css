@@ -1,0 +1,8 @@
+/* Custom callout: [!details] */
+.callout[data-callout="details"] {
+  --callout-color: #d77f33; /* accent stripe + icon */
+  --callout-icon: lucide-eye; /* magnifying glass icon */
+
+  background-color: rgba(215, 127, 51, 0.2); /* filled background */
+  border: none; /* remove default border */
+}
