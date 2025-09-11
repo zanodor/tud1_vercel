@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/W/Weöres Sándor De Profundis verse/","title":"Weöres Sándor De Profundis verse","tags":["titleandheadingonedontmatch"],"created":"2023-12-29T02:48","updated":"2025-06-02T01:03"}
+{"dg-publish":true,"permalink":"/W/Weöres Sándor De Profundis verse/","title":"Weöres Sándor De Profundis verse","tags":["titleandheadingonedontmatch"],"created":"2023-12-29T02:48","updated":"2025-09-11T16:57"}
 ---
 
 
