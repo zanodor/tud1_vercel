@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makariszmák/","title":"Makariszmák","created":"2023-11-22T01:09","updated":"2025-08-31T02:54"}
+{"dg-publish":true,"permalink":"/M/Makariszmák/","title":"Makariszmák","created":"2023-11-22T01:09","updated":"2025-09-11T16:57"}
 ---
 
 
