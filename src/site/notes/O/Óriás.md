@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","created":"2024-04-20T13:37","updated":"2025-07-30T03:32"}
+{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","created":"2024-04-20T13:37","updated":"2025-09-11T16:56"}
 ---
 
 
@@ -104,7 +104,7 @@ Az, hogy itt egy bibliai csillagkép összefüggés is szóba kerül, az is muta
 
 A Cassiopeiás információ Badiny Jós Ferenc több írásában is megtalálható: A sorsdöntő államalapítás c. könyvének 167. oldalán, A káld-pártus hagyomány és a magyarok Jézus vallása c. könyvének 226. oldalán és egy régebbi 1985-ös Ősi Gyökér kiadványban is.  
 
-Az igaz, hogy a zsidóknak nem volt megengedve a csillagok kémlelése, de elődeiknek, akiktől a történetek valók, igen. Betsabé nevének egyik elterjedt, [[H/Hét#Hét lány\|Hét Lány]] jelentése pedig éppen illik tipikus csillagkép nevezetekbe, akár a Cassiopeia irányának megfelelő irányt nézzük, akár a Hetevény-Fiastyúk irányát, mely irány már csak azért is érdekes, mert Richard H. Allen Star Names című könyvében szerepel egy érdekes kopt, de görög átírású **Ωριας** (Órias) név, de nem Orionra, hanem a Bikára vagy [[P/Pleiadok\|Plejádok]]ra értve.  
+Az igaz, hogy a zsidóknak nem volt megengedve a csillagok kémlelése[^4], de elődeiknek, akiktől a történetek valók, igen. Betsabé nevének egyik elterjedt, [[H/Hét#Hét lány\|Hét Lány]] jelentése pedig éppen illik tipikus csillagkép nevezetekbe, akár a Cassiopeia irányának megfelelő irányt nézzük, akár a Hetevény-Fiastyúk irányát, mely irány már csak azért is érdekes, mert Richard H. Allen Star Names című könyvében szerepel egy érdekes kopt, de görög átírású **Ωριας** (Órias) név, de nem Orionra, hanem a Bikára vagy [[P/Pleiadok\|Plejádok]]ra értve.  
 - Bár azt ki kell jelenteni, hogy a kutatók sok hibát vétettek az azonosításokkal. De még azon indo-európaiaknak, akinek van szeme, láthatják, hogy az Orion névvel azonos és azt is tudnák, hogy jelentése sem lehet "jó évszak."
 
 Az Óriás pedig a [[V/Vadász\|Vadász]], és több kultúra mitológiájában a vadász a szarvast a Tejút gázlójánál űzi.  
@@ -124,3 +124,6 @@ Ipolyi Arnold Magyar mythologia című könyvének 182. oldalán is van szó has
 
 [^3]: Lábjegyzet:  
 Megmutatásul viszont, hogy hasonló esetben hogyan járt volna el a zsidó lelkület, csupán Dávid esetére hivatkozom, aki mindjárt uralkodása elején, hogy hozzájusson a zsidó zsoldban harcoló hettiták hadvezérének, Uriásnak, ugyancsak hettita vérű, csinos külsejű feleségéhez, a Biblia szavai szerint kiadja parancsban, hogy a harc hevében fussanak el Uriás mellől, hogy így pusztuljon el az ellenség keze által.  
+
+[^4]: Lábjegyzet:  
+Az [ezen](https://www.youtube.com/watch?v=M60FUPVtq9k) Talmuddal kapcsolatos videóban 10:54-nél említett AKUM (Avodat Kochavim U'Mazalot = csillagok és csillagképek imádata) mozaikszó kapcsán jött elő a téma ill. az [ezen](https://www.youtube.com/watch?v=M60FUPVtq9k) videóban 26:26-nál, Talmudból való vizsgálat során.  
