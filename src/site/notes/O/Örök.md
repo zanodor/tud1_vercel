@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Örök/","title":"Örök","created":"2025-09-03T14:38","updated":"2025-09-03T14:39"}
+{"dg-publish":true,"permalink":"/O/Örök/","title":"Örök","created":"2025-09-03T14:38","updated":"2025-09-11T16:58"}
 ---
 
 
@@ -17,3 +17,5 @@ Hangátvetve lásd (Ő-Kör) [[O/Ökör\|ökör]].
 Kört írnak le az [[O/Örül és őrül\|örül és őrül]] is. A magyar nyelv temérdek kör alakú szava mellett léteznek előhang nélküli kört leíró szavak is ([[O/Őröl\|örü]], örv).  
 
 Ha elemezni akarnánk, Örök annyi mint Ör-Ök = Ég Őrölése/Forgása/Köre (Ök = Ég).  
+
+Görög szavakért lásd [[A/Archaic\|archaic]] helyet.  
