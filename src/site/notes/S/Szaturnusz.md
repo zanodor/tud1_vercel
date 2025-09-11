@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2025-08-16T15:33"}
+{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2025-09-11T16:54"}
 ---
 
 
@@ -9,7 +9,10 @@ Az alábbiakban sok mindenről lesz szó, de talán kezdjük azzal, ami [[L/Love
 A Szaturnusz nem más, mint a [[K/Kutya\|Kutya]] sötét minősége.  
 
 [[S/Széth\|Széth]]-Szaturnusz **sha**-állatjele is kutya.  
-Más értelmezésben Ozirisz-Orion sötét fele/ikre, de ahogy több helyen szerepelt, a Oriontól nem választható el a Kutya, valamint ami egyszer Ikrekhez, másutt Orionhoz (lásd [[U/UR#Ég-Úr összetételű szókapcsolatok és idegen nyelvű változatai\|Ég-Úr összetételű szókapcsolatok és idegen nyelvű változatai]]) kapcsolódik.  
+
+Más értelmezésben Ozirisz-Orion sötét fele/ikre, de ahogy több helyen szerepelt, a Oriontól nem választható el a Kutya, valamint ami egyszer Ikrekhez, másutt Orionhoz (lásd [[U/UR#Ég-Úr összetételű szókapcsolatok és idegen nyelvű változatai\|Ég-Úr összetételű szókapcsolatok és idegen nyelvű változatai]]) kapcsolódik.
+{ #250907}
+
 
 Szaturnuszra, mint lassan haladó, Öreg Napra is illik az [[O/Öregisten\|ÖregIsten]][^1] kifejezés, mely [[O/Odin\|Odin]] nevének tulajdonképpeni értelme is.  
 
@@ -51,7 +54,7 @@ Folytatásként Jankovics Marcell A Nap könyve című könyvének passzusa jöj
 
 Másutt írja is: [[K/Kronosz\|Kronosz]], aki Hellász lakóinak egyik első napistene volt.  
 
-Jankovics a Napból Jupiterré és Szatunusszá vált istenek kapcsán generációs istenszerepváltásról szól:  
+Jankovics a Napból Jupiterré és Szaturnusszá vált istenek kapcsán generációs istenszerepváltásról szól:  
 > A Nap istenéből, ahogy öregszik, előbb Jupiter, majd a Szaturnusz bolygó istene, végül a "külső" ég istene (gör. Uránosz) lesz. A mítoszok tanúsága szerint a generációs funkcióváltás emelkedést is jelent a mennyei hierarchiában, és együttjár a transzcendencia felé mutató fokozatos "átszellemüléssel", amiben kulcsszerepet játszanak a halállal és a lélekhittel kapcsolatos képzetek.  
 - Ezen passzus és még több [[U/Uránosz\|Uránosz]] címnél is szerepelt, de fontosabb, hogy azóta [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] címhez is bekerült egy hosszasabb gondolatmenet arról, hogyan hozhatók kapcsolatba mindezek a két Nap képzetével.
 
@@ -198,7 +201,7 @@ Valpy adatai alapján (merthogy nincs idő lefordítani és beírni) pedig az de
 > Az angolszász `sædere`, a gót `sadur` jelentése vető, a `sæda` szóból származik, melynek jelentése vetni, ebből ered a `sæd`, azaz mag. Varro hasonló eredetet tulajdonít a latin névnek: "Ab sătu est dictus Saturnus" (Saturnus a vetésből ered). Wachter: "Baxter a Turnus és Saturnus neveket a kelta `teyrn` szóból eredezteti, melynek jelentése zsarnok, király, valamint a kelta sa névelőből. Ez utóbbi nem annyira egyértelmű. Azt tudom, hogy a sa a gót, a se pedig az angolszász névelő." Jamieson egy jegyzetben megjegyzi: "Őseink, mondja Macrobius, Saturnust παρὰ τὴν σάθην-nak nevezték, melynek jelentése férfi nemi szerv. A gót `sater` szinonimája a `σάθη`-nak."  
 
 Ahogy [[S/Season\|season]] szónál is szó volt róla, a SZET-tel (és `sejt`-tel) szinte azonos szed, mint a betakarítás szava, könnyen felcserélhetett az utódnyelvekben (el sem tudjuk valójában dönteni, hogy szetet vagy szedet veszik át ugye), hiszen a vetés, mint hímségi megtermékenyítésre váró aktus és a szedés, mint halál egymást végtelenségig követő folyamatok a természet rendje szerint. Szaturnusz is így a kezdet és a halál istene, bolygója.  
-SZAT pedig SZET mély hangrendű variánsa, bár sokszor látni é-vel írva: lásd latin Saeturnus, és szász Seater, valamint szintén angolszászban is a szombat neve sæternes-dæg.  
+SZAT pedig SZET mély hangrendű változata, bár sokszor látni é-vel írva: lásd latin Saeturnus, és szász Seater, valamint szintén angolszászban is a szombat neve sæternes-dæg.  
 
 Érdekes info a Zend Avesztából, Däniken tolmácsolásában:  
 > Csillagászati idők  
@@ -231,7 +234,7 @@ Hamlet Malmában (is) szólnak arról, hogyan válhatott Szaturnusz az Idő Urá
 > Mint mondják, Szaturnusz levágta atyjának, Caelusnak \[[[Uránosz\|[Uránosz]]nak\] a nemiszervét, bedobta a tengerbe, s ebből született [[V/Vénusz\|Vénusz]], aki a habról (`aphros`) melyből született, fölvette az Aphrodité nevet. Ebből arra következtetnek, hogy amikor káosz volt, idő nem létezett, amennyiben az idő az égbolt forgásából levezetett, kiszabott mérték. Az idő ott kezdődik; és úgy vélik, hogy ebből született meg Kronosz, aki azonos Khronosszal, mint korábban mondottuk.  
 > Arról van szó, hogy "a világ szülőinek szétválasztása", mely Uranosz kiherélésével történt meg, az **ekliptika ferdeségének beállítását** (lásd [[F/Föld tengelyferdülése\|Föld tengelyferdülése]]) jelenti: a mérhető idő kezdetét. (Ugyanezt az eseményt Milton a Paradicsomból való kiűzetésként értelmezte \[lásd 13. függelék\].) És azért Szaturnuszt "jelölték" ki arra, hogy azt beállítsa, mert ő a legkülső (látható) bolygó[^13], legközelebb az állócsillagok szférájához.  
 > "Ezt a bolygót tekintették úgy, mint amely mozgást közöl az Univerzummal, és aki úgyszólván annak királya," írja Schlegel Kínáról (L'Uranographie Chinoise, pp. 628ff.).  
-> 
+>
 > A Szaturnusz, a kozmosz mértékeinek adója, Babilonban a "Törvény és Igazságosság Csillaga", a "Nemezis Csillaga" Egyiptomban, de a Szükségszerűség és Megtorlás Uralkodója, röviden a Császár. Kínában Szaturnusznak a címe "Génie du pivot", mint a Középpont felett ügyelő isten, s ugyanezt a címet kapja a [[S/Sarkcsillag\|Sarkcsillag]].  
 >
 > Az a megfogalmazás, hogy "bizonyára az aszurák \[lásd erről [[D/Dévák és Aszúrák\|Dévák és Aszúrák]] és [[M/Moron\|moron]]\] eredetileg igazságosak, jók és adakozók voltak", érvényes a titánokra is, az első világkorszak erőire. De ha az ezt megelőző helyzet "szemüvegén" át nézzük, a titánok, aszurák és a hozzájuk hasonlók követtek el először "szörnyűségeket." De így tett Szaturnusz is, az "idők kezdeményezője", drasztikus tettével, mellyel keresztülvitte "a világ szülőinek szétválasztását", ami **az egyenlítő és a nappálya tengelyeinek szétválását** jelenti. E szétválasztás előtt idő nem létezett. Ezek az "egyesült szülők" – Macrobius szívtelenül a "káosz" nevet használja – megnehezteltek azért, hogy az eredeti örökkévalóságot felszámolták azok az erők, melyek titokban gonoszságot (igazságtalanságot) műveltek. Ezek az erők, ahogyan az [[E/Enuma Elish\|Enuma Elis]]-ben – az úgynevezett Babiloni Teremtés-eposzban megjelennek – Apszú és Tiámat gyermekei, akik betolakodtak szüleik közé. "Megzavarták Tiámatot, ahogy ide-oda özönlöttek; igen, elrontották [[T/Tiamat\|Tiamat]] hangulatát. Apszú nem tudta zajongásukat csökkenteni... Kifogásolható volt a viselkedésük, erőszakosak voltak."  
