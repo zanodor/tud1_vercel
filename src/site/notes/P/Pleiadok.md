@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2025-08-31T02:37"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2025-09-11T16:55"}
 ---
 
 
@@ -91,7 +91,7 @@ John Major Jenkins Galactic Alignment c. könyvének 33.oldalán (más kapcsán)
 > We shall see in the Old World's cosmological shift from a polar to a solar orientation, the seven stars of the Big Dipper were mapped (or conceptually relocated) to the seven stars of the Pleiades. The underlying meaning here is that the Pleiades, like the Big Dipper, are the head point of a world-centering axis, with the astronomical reference for the Pleiades, though approximate, being to the Galactic Anticenter. Obviously, the other end of this axis is rooted in the Galactic Center.  
 > —  
 > Látni fogjuk, hogy az Óvilág kozmológiai eltolódása során a sarki tájolásról a szolárisra való áttérés során a Nagy Medve hét csillagát a Plejádok hét csillagához képezték le (vagy helyezték át fogalmilag). Ennek az a mögöttes jelentése, hogy a Plejádok, akárcsak a Nagy Medve, egy világközpontú tengely főpontja, a Plejádok csillagászati vonatkozása pedig, bár közelítőleg, a Galaktikus Anticentrumra vonatkozik. Nyilvánvaló, hogy e tengely másik vége a Tejútközpontban gyökerezik.
-- A témáról René Guénon és John M. Jenkins tolmácsolásában lásd bővebben [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]].
+- A témáról René Guénon és John M. Jenkins tolmácsolásában lásd bővebben [[P/Poláris-szoláris átállás\|poláris-szoláris átállás]].
 
 Könyvének 39. oldalán írja [[C/Chichen Itza\|Chichen Itza]] északi templomáról szólva, hogy a Sarkcsillag(ban összpontosuló sarki központ: köldök, mint Visnu köldöke, amely viszont a védikus asztrológiában a Tejútközpontot jelenti) a déli meridánon áthaladó Tejútközponttal állítható szembe:  
 > Here, because of the North Temple's orientation as viewed from the ball-court, it seems to represent the North Celestial Pole, around which all the stars are observed to revolve. Recall that the polar center counterposes the Galactic Center as it passes through the southern meridian.  
