@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2025-08-27T03:03"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2025-09-11T16:54"}
 ---
 
 
@@ -73,7 +73,7 @@ Perzsiában az Achaemenida Artaxerxes II[^2] uralkodó által építtetett szobr
 { #250827}
 
 
-Nyilván a [[N/Nagyboldogasszony\|Nagyboldogasszony]] és [[K/Kisasszony\|Kisasszony]] lenne az [[A/Anya#Kettős anyaság\|kettős anyaság]] cím/alcímnél is taglalt két nőiség. 
+Nyilván a [[N/Nagyboldogasszony\|Nagyboldogasszony]] és [[K/Kisasszony\|Kisasszony]] lenne az [[A/Anya#Kettős anyaság\|kettős anyaság]] cím/alcímnél is taglalt két nőiség.
 A lány az anya fiatalkori önmaga és nem a fiú testvére. A fiú az anya fia: a Nap.  
   
 
@@ -448,7 +448,7 @@ Falvay Károly írja:
 Az ősi Eurázsiában kialakult sajátosan kettős Nagy Istenanya mindenkor és mindenütt nemcsak az embereknek, de minden élőlénynek, a növényeknek és az állatoknak is istenasszonya, úrnője lett. Leánya a földi emberek számára szolgált közreműködőként, mediatrixként, mint azt görög, római párhuzamok is mutatják.  
 
 [^4]: Lábjegyzet:  
-Falvay Károly írja ([[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]] címnél is szerepelt):  
+Falvay Károly írja ([[P/Poláris-szoláris átállás\|poláris-szoláris átállás]] címnél is szerepelt):  
 Az a fordulat, ami a kései bronzkorban, mintegy 4-5000 évvel ezelőtt megbontotta a két emberi nem szerepköri egyensúlyát, mára mélypontját érte el. A figyelem a ciklikusan megszülető és meghaló "fénygyermek" (férfi) felé fordult, míg korábban az "örökkévalóságot" ténylegesen képviselő szülőanya volt a központ.  
 
 [^5]: Lábjegyzet:  
