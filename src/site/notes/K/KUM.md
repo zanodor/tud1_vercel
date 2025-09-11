@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/K/KUM/","title":"KUM","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-09T04:40","updated":"2025-08-31T02:54"}
+{"dg-publish":true,"permalink":"/K/KUM/","title":"KUM","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-09T04:40","updated":"2025-09-11T16:57"}
 ---
 
 
 # KUM
 
-A [[K/KUN\|KUN]] Napnév és a [[H/HUM\|HUM]] változata. A szamojéd `kum` (Nap)Ember. (Magyar Adorjánnál az áll, hogy a vogul nyelvben is `hum` = ember, férfi[^1].)  
-A zürjének önelnevezése, a [[K/Komi\|komi]] is ilyen név lehet, de a [[H/Hun\|hun]] szóval is rokonítható. Sőt, maga a [[H/Hun\|hun]] minden nép atyja vagy valamilyen rokona. Valójában [[H/Hun\|hun]] címnél írottak alapján a Tejút fényhonából érkező (Menny Fia) embert jelenti. A [[K/Koma\|koma]] is ilyen alakú szó.  
-Jegyezzük meg azt is (erről [[S/Szamojéd\|szamojéd]] és [[F/Finnugor nyelvek\|finnugor nyelvek]] címnél is muszáj volt szólnunk), hogy az [alábbi](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/gum%C3%B4) oldalon taglalt, latin `homo` = ember szó párjaként készített proto-germán \*gumô eredettel megjelölt óangol `guma` is ilyen alakú szó (ahogy [ezen](https://www.wordsense.eu/human/) oldalon is írják, ezt váltotta fel aztán a [[H/Human\|human]]).  
+A [[K/KUN\|KUN]] Napnév és a [[H/HUM\|HUM]] változata. A szamojéd `kum` (Nap)Ember. Magyar Adorjánnál is úgy áll, hogy a vogul nyelvben is `hum` = ember, férfi[^1].  
+
+A zürjének önelnevezése, a [[K/Komi\|komi]] is ilyen név lehet, de a `hun` szóval is rokonítható. [[H/Hun\|Hun]] címnél írottak alapján a Tejút "fényhonából" érkező (Menny Fia) embert jelenti, de lehet, hogy inkább az [[K/KAN#An/Kan Köre\|An/Kan Köre]] és [[E/Ember#Ember szavunk Íjas (Íjász) értelme az Ikrek jegyére vonatkoztatva\|Ember szavunk Íjas (Íjász) értelme az Ikrek jegyére vonatkoztatva]] helyeken megfogalmazottak alapján értékelendő.  
+A [[K/Koma\|koma]] is ilyen alakú szó.  
+
+Jegyezzük meg azt is, amiről [[S/Szamojéd\|szamojéd]] és [[F/Finnugor nyelvek\|finnugor nyelvek]] címnél is muszáj volt szólnunk, hogy az [alábbi](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/gum%C3%B4) oldalon taglalt, latin `homo` = ember szó párjaként készített proto-germán \*gumô eredettel megjelölt óangol `guma` is ilyen alakú szó (ahogy [ezen](https://www.wordsense.eu/human/) oldalon is írják, ezt váltotta fel aztán a [[H/Human\|human]]).  
 
 A törököknél a `Kum` a [[H/Homok\|homok]]sivatag neve.  
 Előjön Kum (Hum) Richard H. Allen Star Names című könyvében, a [[V/Vízöntő csillagkép\|Vízöntő csillagkép]] régi neveit vizsgálva:  
@@ -41,6 +44,8 @@ Az alábbi CzF-féle sorok [[C/Come\|come]] szónál is szerepeltek:
 > KUM v. KÚM  
 > önh. m. kum-tam, ~tál, ~ott. Dunántúl több vidéken am. hunyósdi játék alkalmával valamely szögletbe húzza magát, és szemeit behunyja, míg a játszótársak elbúnak. Mondják a napról is, hogy `lekum`, midőn lenyugszik. Alapfogalom benne a hunyás, sunyás, mindkettő a testnek némi meghajlásával szokott történni. Rokonai a kun, kuny, kúny, suny és szúny. Hogy a k, h, s, sz fölcseréltetnek, az az általános emberi hangszervek természetében fekszik. Így jönnek öszve a latin `cornu`, német `Horn`, magyar szaru; így a magyar kup, hupa. A kum gyökből mint görbét, kereket jelentőből származnak: kumasz, kumak kikerített darab koncz, karéj, például kumasz kenyér; kummog, meggörbedve lépdegel, például lesben járván. Mondják ezt is: kezét bekumni azaz behajtani, öszveszorítni.  
 
+A görbedés ilyen gyöke a héberben is meglenni látszik: az [ezen](https://www.youtube.com/watch?v=M60FUPVtq9k) Talmuddal kapcsolatos videóban 02:41-nél előjövő `עקום` (akúm) = hajlott, görbe szó (párjai: `עקם` (ikam) = hajlít, csavar; `עקימה` (akimá) = hajlat) először számomra az [[E/Ég\|ég]] és [[I/Ív\|ív]] szavak párjának tűnt, de miután a 10:54-nél említett AKUM (Avodat Kochavim U'Mazalot = csillagok és csillagképek imádata) mozaikszó, elvetettem, hogy itt `ég` szavunkról lenne szó.   
+
 A görög `kōma` = mély álom és a koreai `kkum` = álmot, alvást jelentő szavak párja a CzF által is adatolt kum.  
 Viszont a hajlást jelentő kum ellentétes értelmet is felvehetne, [[H/Homály\|homály]] címnél írottak alapján (nem mindegy, hogy jön vagy megy a Nap), abból kiindulva, hogy Ku/Hu = görbedést kifejező: a [[K/KU\|KU]] címnél is említett kínai `hú` = ív, körív és ainu `ku` = íj szavakról van szó.  
 
@@ -50,7 +55,7 @@ Itt azt kell eldönteni, hogy a homály Ku-Mul vagy akár Kum-Ul felbontásban a
 (Hasonló szemantikai vagy szemanto-logikai eltérések láthatók [[F/Fakó\|fakó]] és [[H/Halvány\|halvány]] megítélésében is.)  
 Kumul tulajdonképpen pedig azon [[K/Konyul\|konyul]] szavunk párja, mely szintén a nyári napfordulós esésére utal a Napnak (ahogy a [[K/Khamor\|Khamor]]-Hunor névből eredő szavak is arra utalnak).  
 
-A germán nyelvek \*kom = jön, megy szava (mely \[kum\] kiejtésű a holland nyelvben, \[kumm\] a bajor nyelvjárásban és Roger Federer kiejtésében is ilyesmi volt: "kumm jetzt") a KUM hímségi jön, megy, mozog, halad (a koreaiban `khum` = tánc[^2]) jelentéséből ered. (Akár [[C/Comet\|comet]] szóban sem csak a csóvájának jelentése van meg.)  
+A germán nyelvek \*kom = jön, megy szava (mely \[kum\] kiejtésű a holland nyelvben, \[kumm\] a bajor nyelvjárásban és Roger Federer kiejtésében is ilyesmi volt: "kumm jetzt" = "gyerünk") a KUM hímségi jön, megy, mozog, halad (a koreaiban `khum` = tánc[^2]) jelentéséből ered. (Akár [[C/Comet\|comet]] szóban sem csak a csóvájának jelentése van meg.)  
 Lásd még [[J/Jön és megy\|jön és megy]].  
 
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (első kötetének) 273. oldalán halom jelentésű sémi szavakat hoz fel (lásd [[K/Khamor\|Khamor]] címnél). Lám, a halom és a hullám a magyarban is egyezik, azaz a kún-hun kum igen sok jelentésű volt.  
@@ -59,7 +64,7 @@ Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylon
 
 [^1]: Lábjegyzet:  
 Bíró Lajos adata szerint a manysi `kom`, `kum` = hím, férfi. [[H/Hím\|Hím]] szavunknak is megfelel.  
-—   
+—
 A vogul `járkum` = óriás szóban is a `jár` = föld értelmet kell keresni itt, míg `kum` = ember. (Azaz itt is a férfi és ember jelentések fedésben vannak.)  
 
 [^2]: Lábjegyzet:  
