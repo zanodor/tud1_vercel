@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hegy és barlang/","title":"Hegy és barlang","created":"2023-11-09T04:49","updated":"2024-10-25T19:17"}
+{"dg-publish":true,"permalink":"/H/Hegy és barlang/","title":"Hegy és barlang","created":"2023-11-09T04:49","updated":"2025-09-11T16:57"}
 ---
 
 
@@ -21,4 +21,4 @@ Ugyan látszólag messze kerültünk a barlangtól, mégis van mód visszakanyar
 A Szimbólumtár [[B/Barlang\|barlang]] címnél is álló adata szerint:  
 > Szemben a hegy férfiúi princípiumot kifejező jelével, a barlang mint női princípium jele a lefelé csúcsosodó háromszög.  
 
-Arról továbbá, hogy a poláris gondolkodás hogyan egyeztethető össze a szolárissal (hogyan jutunk el vissza a Tejútanya méhéhez), lásd [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]], valamint [[G/Galactic centre\|Galactic centre]].  
+Arról továbbá, hogy a poláris gondolkodás hogyan egyeztethető össze a szolárissal (hogyan jutunk el vissza a Tejútanya méhéhez), lásd [[P/Poláris-szoláris átállás\|poláris-szoláris átállás]], valamint [[G/Galactic centre\|Galactic centre]].  
