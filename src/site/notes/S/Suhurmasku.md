@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Suhurmasku/","title":"Suhurmasku","tags":["Englishtexttranslated"],"created":"2023-11-04T10:20","updated":"2025-06-08T18:24"}
+{"dg-publish":true,"permalink":"/S/Suhurmasku/","title":"Suhurmasku","tags":["Englishtexttranslated"],"created":"2023-11-04T10:20","updated":"2025-09-11T16:54"}
 ---
 
 
@@ -41,10 +41,14 @@ A KU piktogram jól jelzi, hogy itt is egy hozzákapcsolt értelemről van szó.
 Nos, [[G/GA\|GA]] címnél írottak szerint (mely halat is jelentene) összeáll a kép. Ott is volt szó delfinről és anyaméhről. Márpedig téridőben stimmel is: a Nyilas és Bak váltópontján bújik elő a Nap innen.  
 
 Sok esetben csillagmondai eredetűek a rontások. Jól éreztem, hogy a Suhurmasku név valahogy nemigen látszik kiadni Bakhal értelmű konstelláció/jegy nevét, hanem inkább tulajdonképpen Szarvas-Fénye, Szarma-Fénye, Szarvas-Fi (kölyök, poronty, ivadék; lásd [[K/Kü\|Kü]]) az értelme.  
-És hogy lássuk az eredeti értelem hátterét, azt kell tudnunk, [[M/Magor\|Magor]], [[M/Makara\|Makara]] és [[M/Makara Sankrati\|Makara Sankrati]] címnél írottak alapján, hogy nem ez volt az egyetlen eufráteszi neve a Bakhalnak. Az [[E/Enki\|Enki]] alakjához kötött Dingir Magur cím mellett Kakkab Ma-Gur csillagképnév és más hasonló nevek kötődnek a Bakhalhoz. Az is megerősíti elképzelésünket, hogy a [[M/MAS\|MAS]] piktogramjában ott a négyzet a kereszttel. Bobula Ida The Great Stag című dolgozatában (magyar fordításában) is írja:  
-> Úgy tűnik, a Zodiákus volt a témája a sumér kori elméleteknek – talán pre-sumér asztrológusoknak. A Közel-Kelet korai művészetében mindenhol szarvas állatokat találunk – őzet, szarvast, kecskét – **akik a szarvaik között hordják a Napkorongot vagy a szimbólumát, ami lehet egy négyzet, vagy egyenlő szárú kereszt** vagy épp egy nap-madár, mint a sas[^1].  
+És hogy lássuk az eredeti értelem hátterét, azt kell tudnunk, [[M/Magor\|Magor]], [[M/Makara\|Makara]] és [[M/Makara Sankrati\|Makara Sankrati]] címnél írottak alapján, hogy nem ez volt az egyetlen eufráteszi neve a Bakhalnak. Az [[E/Enki\|Enki]] alakjához kötött Dingir Magur cím mellett Kakkab Ma-Gur csillagképnév és más hasonló nevek kötődnek a Bakhalhoz. Az is megerősíti elképzelésünket, hogy a [[M/MAS\|MAS]] piktogramjában ott a négyzet a kereszttel.  
 
-Hogy írta [[A/Artemisz\|Artemisz]] címnél Huszka József? "Ornamentikánk szarvasa egyenesen Ázsiából hozott Istár-Asztarté-Artemisz-jelkép. Az **egyenlő szárú kereszt**, a hold és a szarvas a vadászat istennőjének kísérője...a régi népeknél, Ázsia nyugati felén..."  
+#### Bobula Ida The Great Stag...  
+
+...című dolgozatában (magyar fordításában) is írja:  
+> Úgy tűnik, a Zodiákus volt a témája a sumér kori elméleteknek – talán pre-sumér asztrológusoknak. A Közel-Kelet korai művészetében mindenhol szarvas állatokat találunk – őzet, szarvast, kecskét – **akik a szarvaik között hordják a Napkorongot vagy a szimbólumát, ami lehet egy négyzet, vagy egyenlő szárú kereszt** vagy épp egy nap-madár, mint a sas[^1].  
+- Hogy írta [[A/Artemisz\|Artemisz]] címnél Huszka József? "Ornamentikánk szarvasa egyenesen Ázsiából hozott Istár-Asztarté-Artemisz-jelkép. Az **egyenlő szárú kereszt**, a hold és a szarvas a vadászat istennőjének kísérője...a régi népeknél, Ázsia nyugati felén..."
+
 > Amikor a Nap feltűnik a mennyei szarvas szarvai között – [[T/Téli napforduló\|téli napforduló]] – a tél elmúlik, a Nap visszanyeri korábbi erejét, a nappalok egyre hosszabbak, egy új ciklus, új év kezdődik. A korongnak vagy a madárnak a szarvak közt a Nagy Szarvast kellett jelképeznie aki visszahozza a Napot a szarvai között.  
 > A téli sötétség megsemmisítése és a Nap visszaszerzése kellett, hogy jelentse a lehető legnagyobb szolgálatot egy többé-kevésbé primitív emberi társadalomnak. Nem csoda, hogy a jótevő kultusza fennmaradt ilyen sokáig.  
 
