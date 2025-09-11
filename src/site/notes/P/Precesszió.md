@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2025-06-08T01:45"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2025-09-11T16:53"}
 ---
 
 
@@ -221,7 +221,7 @@ A precesszió 25920 évét [[K/Kilences számrendszer\|kilences számrendszer]]b
 
 A kérdés az, mi idézi elő valójában a precessziót? A precesszió a [[F/Föld tengelyferdülése\|Föld tengelyferdülése]] előtt megvolt-e? (Nyilván az általunk ismert precesszió értelmét tekintve nem.) Hiszen a Föld nem teljesen gömb alakú, mint mondják. Ergo a kérdés nem az, hogy a [[H/Hyperborea\|hyperboreai]] aranykori magyarok végeztek-e csillagászati vizsgálatokat, hanem az, hogy megalkothatták-e a 26000 éves(?) [[N/Nagy Év\|Nagy Év]] fogalmát és ha ezzel tartjuk kapcsolatosnak Hunort, akkor szintén előfordultak-e kataklizmák? Sok a kérdés, és sok szól a [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] elmélet ellen. A tengelyferdülés idejét sem ismerjük, de akár millió évvekkel ezelőtt lehetett vagy legalább félmillió éve.  
 
-Közben John Major Jenkins Galactic Alignment c. könyvének 90. oldalán írottak alapján feltehető a kérdés: lehet, hogy a hyperboreai-atlantiszi (polárisról szoláris) átállás nem is olyan rég ment végbe? Erről a (nagy) témáról lásd [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]].
+Közben John Major Jenkins Galactic Alignment c. könyvének 90. oldalán írottak alapján feltehető a kérdés: lehet, hogy a hyperboreai-atlantiszi (polárisról szoláris) átállás nem is olyan rég ment végbe? Erről a (nagy) témáról lásd [[P/Poláris-szoláris átállás\|poláris-szoláris átállás]].
 > A Földtengely az említett elmozdulás körét a Nap látszólagos körútjának irányával ellenkező irányban írja le s vele együtt az egyenlítő síkja is elmozdul, a Nappályának az egyenlítővel való metszéspontjai a két napéjegyenlőségi pont szintén eltolódnak, még pedig a Nap mozgásával ellenkező irányban, hátrafelé haladva az állatöv csillagképeinek során. Ezt a praecessió jelenségének, magyarul a Tavaszpont tovahaladásának nevezzük. E jelenség folytán a Nap bármely év március 21-én az ekliptikának nem ugyanazon a pontján halad át az egyenlítőn, mint a megelőző év március 21-én, hanem mindig kb. 50 másodperccel hátrább. Az elmondottakból nyilvánvaló módon következik, hogy ha a Föld tengelyének elmozdulása 25920 év alatt ír le egy egész kört, akkor a Tavaszpont praecessiója is ugyanennyi idő alatt halad körül visszafelé az ekliptikán s az ezen fekvő Állatövön: évenkint kb. 50 és 1/4 másodpercet, 72 év alatt kb. egy fokot, 2160 év alatt pedig kb. 30 fokot, vagyis egy állatövi jegynek megfelelő ívet tesz meg. (72 x 30=2160, 2160 × 12 = 25920).
 
 ## Mi okozza a precessziót?
