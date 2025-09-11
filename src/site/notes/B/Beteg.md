@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Beteg/","title":"Beteg","tags":["Englishtexttranslated"],"created":"2024-04-20T15:38","updated":"2025-07-12T00:31"}
+{"dg-publish":true,"permalink":"/B/Beteg/","title":"Beteg","tags":["Englishtexttranslated"],"created":"2024-04-20T15:38","updated":"2025-09-11T16:56"}
 ---
 
 
@@ -63,7 +63,7 @@ Egyébiránt a neten, az Amazonon például van is egy könyv amely a Pasteur-B�
 
 A betegség az egészség utáni vágyból üzen a magyar embernek, hogy valami gond van, amit ki kell javítani. Valahogy így hallottam Kubínyi Tamástól megfogalmazni. Nyilván magyarként élve leginkább legegyszerűbb felfedezni, hogy baj van, világszinten. Egy szörfdeszkáról nézve a világ pompás.  
 
-[Ezen](https://magyarmegmaradasert.hu/erdekkorok/egeszseg-gyogyitas/egeszseguenkert/item/5631-z) oldalon is szerepel, hogy a Bechamp vs Pasteur vitában utóbbi azt mondta, hogy kívülről jön a patogén, előbbi azt mondja, hogy belül kell keresni a problémát, a táptalaj a gond (nem megfelelő életvitel, étel, immunrendszer).  
+[Ezen](https://web.archive.org/web/20230604064009/https://www.magyarmegmaradasert.hu/erdekkorok/egeszseg-gyogyitas/egeszseguenkert/item/5631-z) oldalon is szerepel, hogy a Bechamp vs Pasteur vitában utóbbi azt mondta, hogy kívülről jön a patogén, előbbi azt mondja, hogy belül kell keresni a problémát, a táptalaj a gond (nem megfelelő életvitel, étel, immunrendszer).  
 
 [Ezen](https://mega.nz/file/k3cATBLT#mX1gHLH2Vm1Rnbd-2t_ZxHFxUCxgdom5DZzul0_Wki0) ÁKTV videóban egy igen jól megírt összefoglalást találunk a témáról; a szerző kitér Rudolf Steinerre is, aki 100 évvel ezelőtt megjósolta az oltást.  
 
