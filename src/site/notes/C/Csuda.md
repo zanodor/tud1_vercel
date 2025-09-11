@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions"],"created":"2025-06-12T01:36","updated":"2025-06-20T23:35"}
+{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions"],"created":"2025-06-12T01:36","updated":"2025-09-11T16:56"}
 ---
 
 
@@ -108,7 +108,7 @@ Ez az isten-hegy aztán az [[E/El Shaddai\|El Shaddai]] istennév elemzésében 
 Kapcsolódhat hozzá negatív és pozitív jelentés is, ahogy a [[K/Kutya\|kutya]] névhez is.  
 
 Összefoglalva, az elképzelt [[V/Világhegy\|Világhegy]]/Istenhegy az égig ér, az eget támasztja alá, a régiek világnézete szerint, mely ég állatjelképe a szarvas, mely kozmikus jelképe a [[S/Szarvas#^250529\|szarvas]] címnél szereplő ordoszi csodaszarvas ábrázolással érthető meg, és azzal, hogy az agancs láng, tűz jelkép, melyet csúcsával felfelé álló háromszöggel is szokás volt jelölni, és ezért tarthatók a piramisok kozmosz-redukcióknak.  
-A hegy csúcsán az [[A/Atya\|Atya]] = [[E/Egy\|Egy]] = Isten van, mely istennek a régi Mezopotámiában a Sarkcsillag volt a lakóhelye. Idővel pedig, a [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]] átállás helyen taglalt polárisról szolárisra való átállás során kialakult az a nézet, hogy a Sarkcsillagban mozdulatlan rendező elv, Isten helye a Nap erejének teljét mutató nyári napfordulós helyen, az elképzelt hegy csúcsán van. A Nap a Kutya csillagképbe érve éri el ezt a helyet, és mivel a Ku-Ta összetétel a régi alapszavakra építő nyelv szerint nem csak a kutyát (pontosabban: a Nap Kutyába való érését) jelentette, egy alternatív hegy jelentés nyomán eredt aztán az istent jelentő név szkíta-hun utódnépeinknél.  
+A hegy csúcsán az [[A/Atya\|Atya]] = [[E/Egy\|Egy]] = Isten van, mely istennek a régi Mezopotámiában a Sarkcsillag volt a lakóhelye. Idővel pedig, a [[P/Poláris-szoláris átállás\|polárisról szolárisra való átállás]] során kialakult az a nézet, hogy a Sarkcsillagban mozdulatlan rendező elv, Isten helye a Nap erejének teljét mutató nyári napfordulós helyen, az elképzelt hegy csúcsán van. A Nap a Kutya csillagképbe érve éri el ezt a helyet, és mivel a Ku-Ta összetétel a régi alapszavakra építő nyelv szerint nem csak a kutyát (pontosabban: a Nap Kutyába való érését) jelentette, egy alternatív hegy jelentés nyomán eredt aztán az istent jelentő név szkíta-hun utódnépeinknél.  
 
 Isten és hegy összefüggését mutatja még a magyar [[I/Isten\|Isten]] név és a germán `Stein`/[[S/Stone\|Stone]] = kő szavak alaki kapcsolata is (mert amúgy honnan jönnének azon szavak), mely [[K/Kő#Hasonló idegen nyelvű szavak\|kő]] szavunk indo-iráni nyelvekben hegyet jelent.  
 
@@ -237,4 +237,4 @@ head -up->w5 : "Sumér **Utu** napisten"
 
 Ezzel körbeértünk. Ég, Hegy, Egy, Atya, és, lám még az [[A/Ács\|Ács]] is megjelenik, Teremtő minőségben, hiszen József és Jézus foglalkozásai valójában többletjelentést tartalmaznak, és ezt az ácsot `carpenter`-ként ismerő világpolgár nem fogja észrevenni, de mi, csodás nyelvünkkel észrevesszük.  
 
-Innen még lehetne tovább menni, hogy ha Jézus szarvasfiúként való értelmezése ismert, akkor [[M/Mária\|Mária]] lehet-e pl. szarvas[[M/Marha\|marhá]]val kapcsolatba hozható..? Valószínűbb, hogy a [[M/Magyar Ilona\|Magyar Ilona]] istennőnevet kell keresni benne...amivel visszatérnénk [[E/ÉL\|Él]] istennevünkhöz, a szarvas `elen` alakú neveihez és a többi...  
+Innen még lehetne tovább menni, hogy ha Jézus szarvasfiúként való értelmezése ismert, akkor [[M/Mária\|Mária]] lehet-e pl. szarvas[[M/Marha\|marhá]]val kapcsolatba hozható..? Valószínűbb, hogy a [[M/Magyar Ilona\|Magyar Ilona]] istennőnevet kell keresni benne...amivel visszatérnénk [[E/ÉL\|ÉL]] istennevünkhöz, a szarvas `elen` alakú neveihez és a többi...  
