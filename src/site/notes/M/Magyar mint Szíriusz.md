@@ -1,20 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:48","updated":"2025-08-31T02:52"}
+{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:48","updated":"2025-09-11T16:56"}
 ---
 
 
 # Magyar mint Szíriusz
 
-Egyre több adat – köztük a frissen [[M/Magyar mint Jupiter\|Magyar mint Jupiter]] címhez berakottak – mutat oda, hogy – annak ellenére, hogy [[H/Hunor\|Hunor]]ral kellene Szíriuszt megfeleltetni, (a közben komi és cseremisz nyelveken ívre, írja utaló szavakhoz egyébként teljesen jól illeszkedően) – Magur/Magor féle nevek is előjönnek Szíriuszra értve.  
+Egyre több adat – köztük a [[M/Magyar mint Jupiter\|Magyar mint Jupiter]] címhez berakottak – mutat oda, hogy – annak ellenére, hogy [[H/Hunor\|Hunor]]ral kellene Szíriuszt megfeleltetni, (a közben komi és cseremisz nyelveken ívre, írja utaló szavakhoz egyébként teljesen jól illeszkedően) – Magur/Magor féle nevek is előjönnek Szíriuszra értve.  
+
 Előbb felsorolom a mellette és hatodikként az ellene szóló érveket és más következtetéseket próbálok levonni (mely végén kiderül, hogy nem Magor mint Szíriuszról van szó, hanem **Magyar mint Szíriusz**ról, éppen ahogy [[S/Szíriusz mint istenanya\|Szíriusz mint Istenanya]] címnél írottak alapján várnánk is):  
 <br/>1\. Dr. Gyárfás Ágnes az Ősi Gyökér 2007/1. PDF 71. oldalán Eb a hite kölykei című cikkében közli Dr. [[K/Kovács Sándor\|Kovács Sándor]] (másutt tévesen Kovács Kálmán név alatt hivatkozik a cikkre) adatát, aki a Labat szótár segítségével \[önkényesen\] kimutatta, hogy a Nagy Kutya csillagkép \[akkor ezek szerint nem a Szíriuszé?\] neve MA-GAR, s el is nevezte a "Magyarok Csillagának" (Stella Hungarorum).  
 Akkor most a csillagé a név? Kovács cikkének neve Stella Hungarorum (Ősi Gyökér 1999), közben sikerült letölteni; anyagát lásd [[N/Ninurta\|Ninurta]] és [[U/UR\|UR]] címnél. Gyárfás Ágnes más cikkében[^1] Mahgar-nak[^2] írja. Megint másutt Gyárfás Ágnes Ur Magar-ként is utal rá. Könnyen lehet, hogy az [[U/UR\|UR]] az, ami viszi benne a kutya értelmet, annál is inkább mert kutyafejjel jelzik ezt a szót.  
 <br/>2\. A kelta-ír `madra` = kutya szó is ilyen Magyar alakú[^3].  
-<br/>3\. [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] A nevek titka című dolgozatából való infók alapján is arra kell gyanakodni, hogy a másutt (lásd [[D/Dread\|dread]] és [[T/Therio-\|therio-]]) is Szíriusszal kapcsolatba hozott rettegést kifejező szavak kapcsán Szíriuszra vagy azzal való együttállásra kell gondolni (persze lehet mindkét szó eredője [[T/Tart\|tart]] szavunk):  
+<br/>3\. [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] A nevek titka című dolgozatából való infók alapján is arra kell gyanakodni, hogy a másutt (lásd [[P/Panic\|panic]], [[D/Dread\|dread]] és [[T/Therio-\|therio-]]) is Szíriusszal kapcsolatba hozott rettegést kifejező szavak kapcsán Szíriuszra vagy azzal való együttállásra kell gondolni (persze lehet mindkét szó eredője [[T/Tart\|tart]] szavunk):  
 > Az eredeti héber Ószövetséget elővéve, azt adott esetekben a szó eredeti formáját használva annak lefordítása helyett azt vehetjük észre, hogy a héberek által teljesen idegennek tekintett népünk neve a félelem, iszonyat és, az isteni ítélet hordozójának szinonimájává vált. Erről jó 80 esetben emlékeznek meg az Ószövetség írói a "mgr" betűcsoport és annak hangzósított magur(ah), magor(ah), magar(ah), mager(ah) formáiban, ahol az "-ah" végződés Isten "Jah" nevének jele. A héber szerzők reményt is adnak az olvasóiknak, hogy eljön majd az idő amikor azok fognak félni tőlük, akiktől most ők rettegnek. Ez az utóbbi gondolat mintha csak egybecsengne a név lehetséges sumer magyarázataival és kísértetiesen előrevetítené azt a helyzetet, ami felé a magyarság vészesen sodródik. Néhány példa az előfordulásra:  
 > • Magar, vagy Magor (félelem): Ezék 21:12, Ezra 6:12, Iza 31:9, Jer 20:4;  
 > • Magor misszabib (iszonyat mindenhol, iszonyat mindenhonnan): Jer 20:10, Jer 20:3, Jer 46:5, Jer 49:29, Jer 6:25, JSir 2:22, Zsolt 31:13  
 > • Magorah, vagy Magurah (rettegés, borzadás): Péld 10:24, Hag 2:19, Iza 66:4, Zsolt 34:4  
+
+> [!details]- &nbsp;
+> A héber nyelvben a szavak alapvetően mássalhangzókból állnak, és a magánhangzókat (ún. niqqud, vagy pontozás) később, főleg a bibliai szövegek standardizálásakor adták hozzá a kiejtés pontosítására.  
+> Ezért a tudósok, amikor héber szavakat írnak át latin betűkkel (transzliterálnak), ezeket a különböző magánhangzósításokat is feltüntetik. Ugyanabból a hárombetűs gyökből (mint például az M-G-R) számos különböző szó származhat, amelyeknek eltérő a magánhangzó-pontozása, és ezáltal eltérő a jelentése, illetve a nyelvtani szerepe (pl. főnév, ige, különböző igeidők vagy alakok).  
+> Az  említett példák is ezt illusztrálják. A magánhangzók eltérése miatt különböző szavakként, különböző jelentésárnyalatokkal jelennek meg a Bibliában. A tudományos átírások célja, hogy ezeket a finom különbségeket is pontosan visszaadják.
+> 
+> 1.  `magor` (`מָגוֹר`): jelentése "félelem", "rettegés", "iszonyat".
+>     *   Példák: Ezékiel 21:12, Ezsdrás 6:12, Ézsaiás 31:9, Jeremiás 20:4.
+> 2.  `magor missabib` (`מָגוֹר מִסָּבִיב`): jelentése "iszonyat mindenfelől", "rettegés mindenhol".
+>     *   Példák: Jeremiás 20:3, Jeremiás 20:10, Jeremiás 46:5, Jeremiás 49:29, Jeremiás 6:25, Siralmak 2:22, Zsoltárok 31:13.
+> 3.  `megurah` (`מְגוּרָה`): jelentése "rettegés", "borzadás", "félelem".
+>     *   Példák: Példabeszédek 10:24, Haggeus 2:19, Ézsaiás 66:4, Zsoltárok 34:4.
 
 <br/>4\. [Ezen](https://qr.ae/pNuu62) Quora válaszomra kommentben írtam, hogy az indo-európai Mater = Anya a [[T/Tejútanya\|Tejútanya]] és (amit már így nem írtam oda) az egy csillagba sűrített önmagaként [[S/Szíriusz\|Szíriusz]] is lehet, de eredetileg ugye [[T/Tündér Ilona\|Tündér Ilona]]ként. Magyar Ilona nem lehet Szíriusz? Csak a Tejútközponttal lehet azonosítani?  
 <br/>5\. A [[M/Magyar\|magyar]] címnél a görög [[M/Megara\|Megara]] mellett/után említett Mégaira könnyen lehet szuka (másodlagos) jelentésével ide köthető.  
