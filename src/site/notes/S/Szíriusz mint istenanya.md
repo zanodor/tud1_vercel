@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mint istenanya/","title":"Szíriusz mint istenanya","created":"2023-11-30T08:53","updated":"2025-03-17T21:50"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mint istenanya/","title":"Szíriusz mint istenanya","created":"2023-11-30T08:53","updated":"2025-09-11T16:57"}
 ---
 
 
 # Szíriusz mint istenanya
 
 Nem más, mint [[T/Tündér Ilona\|Tündér Ilona]] vagy [[S/Szűzanya\|Szűzanya]]. Lásd még [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]].  
-Az alant írottak alapján a cím inkább Szíriusz, az Istenanya/Tejútanya feje lehetne inkább. De ne feledjük el itt azt sem, hogy Szíriusz hímségi minőség is[^1].  
+Az alant írottak alapján a cím inkább Szíriusz, az Istenanya/Tejútanya feje lehetne inkább.  
+- Szíriusz hímségi minőség is[^1].
 
 #### Jankovics Marcell írja:  
 
