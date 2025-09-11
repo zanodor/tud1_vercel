@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2025-09-03T15:56"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2025-09-11T16:54"}
 ---
 
 
@@ -93,8 +93,8 @@ Ha [[C/Columbus\|Columbus]] nem tudta (dehogynem) vagy Nyugat-Európa nem tudta,
 A nyelvészet által diktált tudományosságnál maradva, **finnugrista kommunista buta felfogás** a sehonnan származtatható [[M/Magyar nyelv ismeretlen eredetű szavai\|magyar szavakat ismeretlen eredetűnek]] besorolni. Számára ismeretlen, mert nem ér fel arra a szintre, hogy pl. egy [[T/Tölgy\|tölgy]] szót értelmezni tudjon.  
 
 **Zsidó-centrista felfogás**, és ezzel a zsidó-keresztények számára érvényessé tett felfogás, hogy [[B/Bál\|Baal]] mellett [[N/Nimrud\|Nimród]] is ellenséges, utóbbi "Isten" ellen harcolt; csakhogy nem az egyetemes Isten volt az, hanem [[J/Jahve\|Jahve]], a zsidó "isten", keresztény/szkíta-keresztény szempontból a [[S/Sátán\|Sátán]].  
-Egy másik idevehető zsidó téma, hogy pont a zsidó isten hozza a(z egyébként is egyiptomi eredetre visszavezetett) [[T/Tízparancsolat\|Tízparancsolat]]ot (ráadásul a legmocskosabb korban, helyen és negációkban). (Azaz amíg a "Szentírás"-ban nem jelenik meg a "Ne ölj" és más, ún. [[T/Tízparancsolat\|Tízparancsolat]]ban is leközölt "isteni" utasítás, parancs, addig ezek szerint mindenki mindenhol olyan barbár módra élt volna, mint az isteni teremtést követő ember által végzett munkát megunva, a sátáni lebontó erőt követendő példának tartva, rablásra és uzsorára berendezkedett ószövetségi népek (közüli szemiták).  
-
+Egy másik idevehető zsidó téma, hogy pont a zsidó isten hozza a(z egyébként is egyiptomi eredetre visszavezetett) [[T/Tízparancsolat\|Tízparancsolat]]ot – ráadásul a legmocskosabb korban, helyen és negációkban. Azaz amíg a "Szentírás"-ban nem jelenik meg a "Ne ölj" és más, ún. [[T/Tízparancsolat\|Tízparancsolat]]ban is leközölt "isteni" utasítás, parancs, addig ezek szerint *mindenki mindenhol* olyan barbár módra élt volna, mint az isteni teremtést követő ember által végzett munkát megunva, a sátáni lebontó erőt követendő példának tartva, rablásra és uzsorára berendezkedett ószövetségi népek (már a szemitizmusra térve).  
+(A messiás fogalmát tekintve, nem fogadja el a keresztények Jézusát, az univerzális messiást, neki saját messiása lesz, és ha lesz, az a keresztény felfogásban az [[A/Antikrisztus\|Antikrisztus]] lesz.)  
 
 **Az afro-centrista felfogás**, azaz a Darwin-féle vagy az ő kutatási eredményeivel visszaélők felfogása szerint Afrikából származunk (kapóra jön, hogy ott sok a majom), sőt, egyes elméletek szerint az [[E/Etióp\|etióp]]oknak kellene minden kultúrát megköszönni, akikre egyesek-mások azt mondják, hogy ők voltak az igazi zsidók. Értjük mi.  
 
