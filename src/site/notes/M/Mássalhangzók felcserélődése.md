@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-08-31T02:51"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-09-11T16:55"}
 ---
 
 
@@ -226,10 +226,10 @@ H>P átmenetet CzF több helyütt természetesnek\[?\] vette. Például `hord` �
 
 F>H átmenet az előbbi megfordítása. Lásd `fiú` szavunk (akár a latin `filius` szón keresztül) a spanyolban `hijo` ill. `hija` = fia, lánya valakinek. Valójában az F>V>H átmenet alapján érthető ez meg. Viszont akár tekinthetnénk úgy is rá, hogy (görögös) F > PH > H változással adódik ki. Persze felesleges, hiszen a F egy kategória a V-vel és a V pedig a H-val. Vesd össze a latin `ferrarius` és a spanyol `herrero` = kovács szavakat, de a spanyol `hermoso` = csodás is állítólag a latin `formoso` = mutatós, formás szó változata, ahogy a spanyol `hada` = tündér szót is a latin `fata` nyomán eredeztetik.  
 Érdekes eset a `parázs` fogalmából indítottnak tűnő avar-hun-arab `faraz` = (kanca)ló szó és az avar-hun-angol `horse` = ló kapcsolata ([[H/Horse\|horse]] inkább [[G/Gyors\|gyors]] szavunkból ered).  
-Vagy ott van a nemrég felvetett Winter – Hunter és a [[W/Wing\|wing]] címnél említett ónorvég `vængr` = szárny kapcsán megfogalmazott Venger – Hungár kapcsolat. Lehet-e ezeket komolyan venni? A kérdés tehát lényegében az, hogy a `Hun` lehet-e azonos Fén-nel, Vén-nel. Hiszen azt az [[A/A\|A]] címnél álló MindMap-en is látjuk, hogy az An, Án ill. En szócskára épülő, ilyen-olyan előhangos, akár fog- akár torokhangos szavak lényegében megegyeznek jelentésüket tekintve. De úgy is mondhatjuk, hogy HU és KU = fény alapjelentésükből kiindulva is lehet Hun = fény (háza) értelmű.  
+Vagy ott van a nemrég felvetett Winter – Hunter és a [[W/Wing\|wing]] címnél említett ónorvég `vængr` = szárny kapcsán megfogalmazott Venger – Hungár kapcsolat. Lehet-e ezeket komolyan venni? A kérdés tehát lényegében az, hogy a Hun lehet-e azonos Fén-nel, Vén-nel. Hiszen azt az [[A/A\|A]] címnél álló MindMap-en is látjuk, hogy az An, Án ill. En szócskára épülő, ilyen-olyan előhangos, akár fog- akár torokhangos szavak lényegében megegyeznek jelentésüket tekintve. De úgy is mondhatjuk, hogy HU és KU = fény alapjelentésükből kiindulva is lehet Hun = fény (háza) értelmű.  
 (Azt se felejtsük el, hogy mind a KAN (kony, kány, KUN) jelenthet véget, farkat, ahogy PEN/FEN is jelenthet ilyen (kutya) farkát, de mint [[F/Fin\|fin]], [[F/Finger\|finger]] és [[W/Wing\|wing]] szavaknál láttuk, más, a testből kiálló nyúlványt nevét is adhatja.)  
 
-D>H változás lehetősége is fennáll, D>Th>H fejlődési sorrendben. Pl. [[Medico\|medico]] szót a spanyolban majdnem mehiko-nak hallani.  
+D>H változás lehetősége is fennáll, D>Th>H fejlődési sorrendben. Pl. `medico` szót a spanyolban majdnem mehiko-nak hallani.  
 
 D>L mássalhangzó-váltásra (lambdacizmus: dentális stopból likvidává változás) egy példa a latin `dingua` (nyelv a szájban) és `lingua` (beszélt nyelv). (Mivel [[L/Language\|language]] [[L/Láng\|láng]]gal hozatott kapcsolatba, ez nem lesz jó példa.)  
 Efféle változásról illetve hasonló esetekről másutt elvétve volt szó, például [[A/Alder\|alder]] címnél, de legutóbb a magyar nyelvben is találtam ilyet, ha erről van szó. Ugyanis a `medence` és a `melence` mindkettő nőiségi vályu/teknő forma, efféle fogalom.  
