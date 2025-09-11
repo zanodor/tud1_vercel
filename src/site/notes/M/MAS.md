@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2025-08-31T02:53"}
+{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2025-09-11T16:57"}
 ---
 
 
@@ -43,9 +43,8 @@ Csatolva lásd MAS piktogramját, ami, meglepő (vagy a [[M/MISZ\|MISZ]] címné
 
 Ott az is felvetődött, hogy az sem kizárt, hogy a Suhur-Mas összetétel nem más, mint Szarvas szavunk ([[M/Magor\|Magor]] címnél lásd Szarvas csillagképről) szavunk tulajdonképpeni elferdítése. Sokatmondó lehet a MAS piktogramjában a négyzet a kereszttel, hiszen Bobula Ida The Great Stag című dolgozatában (magyar fordításában) is írja:  
 > Úgy tűnik, a Zodiákus volt a témája a sumér korai elméleteknek – talán pre-sumér asztrológusoknak. A Közel-Kelet korai művészetében mindenhol szarvas állatokat találunk – őzet, szarvast, kecskét – **akik a szarvaik között hordják a Napkorongot vagy a szimbólumát, ami lehet egy négyzet, vagy egyenlő szárú kereszt** vagy épp egy nap-madár, mint a sas[^2].  
-- Amikor a Nap feltűnik a mennyei szarvas szarvai között – a [[T/Téli napforduló\|téli napforduló]]n – a tél elmúlik, a Nap visszanyeri korábbi erejét, a nappalok egyre hosszabbak, egy új ciklus, új év kezdődik. A korongnak vagy a madárnak a szarvak közt a Nagy Szarvast kellett jelképeznie aki visszahozza a Napot a szarvai között.
-
-A téli sötétség megsemmisítése és a Nap visszaszerzése kellett, hogy jelentse a lehető legnagyobb szolgálatot egy többé-kevésbé primitív emberi társadalomnak. Nem csoda, hogy a jótevő kultusza fennmaradt ilyen sokáig.  
+-Amikor a Nap feltűnik a mennyei szarvas szarvai között – a [[T/Téli napforduló\|téli napforduló]]n – a tél elmúlik, a Nap visszanyeri korábbi erejét, a nappalok egyre hosszabbak, egy új ciklus, új év kezdődik. A korongnak vagy a madárnak a szarvak közt a Nagy Szarvast kellett jelképeznie aki visszahozza a Napot a szarvai között.  
+> A téli sötétség megsemmisítése és a Nap visszaszerzése kellett, hogy jelentse a lehető legnagyobb szolgálatot egy többé-kevésbé primitív emberi társadalomnak. Nem csoda, hogy a jótevő kultusza fennmaradt ilyen sokáig.  
 
 [[N/Négy#Négy sarok – a világ (és a ház/szoba) négy sarka – négy angyal\|Négy sarok – a világ (és a ház/szoba) négy sarka – négy angyal]] cím/alcímnél is (bővebben) szereplő Molnár V. József Világ-Virág című könyvének 16. oldaláról való adatok szerint a négyzet átlóinak keresztező pontjából származó középpont a "[[M/Más\|más]] minőség," melyet népi imádságaink is számon tartják. (Imádságokat lásd [[N/Négy\|négy]] címnél.)  
 Mindez azért nagyon érdekes, mert fentebb négyzet és kereszt is megrajzolásra került.  
