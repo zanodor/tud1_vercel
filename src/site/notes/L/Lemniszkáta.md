@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated"],"created":"2024-04-22T01:48","updated":"2025-08-31T02:52"}
+{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated"],"created":"2024-04-22T01:48","updated":"2025-09-11T16:55"}
 ---
 
 
@@ -119,6 +119,12 @@ A fentebb említett, [[K/Khamor#Khamor – Makor Íjazók\|Khamor – Makor Íja
 A Czeglédi Katalin Magyar-török nyelvviszony című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében talált mari `kagyr-mygyr` = hajlítani ide-oda és csuvas `kukăr-makăr` = ferde, hajlott összetételek/szókapcsolatok igen-igen érdekesek abból a szempontból, hogy az egyik elem a [[M/Magor\|Magor]] névvel azonos, a másik pedig a [[H/Hungár\|hungár]] és [[H/Hunger\|hunger]] (ahol ezek szerepeltek is) név orrhang nélküli, [[K/Kukor\|kukor]] szónak megfelelő változata.  
 
 Itt még csak annyit ismétlésként, hogy az egymásra tükrözött görbék együtt az Ikrek asztrológiai jelét adják ki és az egyik Magor, másik Hunornak felel meg.  
+
+## Magor mint Jupiter és Hunor-Khamor mint Szaturnusz
+
+A lemniszkáta kötőpontnál húzott ívek bal oldalija nemcsak Magor és jobb oldalija nemcsak Hunor nevekkel adható meg, hanem Jupiter és Szaturnusz nevekkel is.
+{ #250907}
+
 
 ## Lemniszkáta és futó kutya
 
