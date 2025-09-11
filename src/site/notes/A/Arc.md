@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arc/","title":"Arc","tags":["titleandheadingonedontmatch","multipleentries","stitched","containscallouts"],"created":"2025-03-25T21:17","updated":"2025-09-03T15:59"}
+{"dg-publish":true,"permalink":"/A/Arc/","title":"Arc","tags":["titleandheadingonedontmatch","multipleentries","stitched","containscallouts"],"created":"2025-03-25T21:17","updated":"2025-09-11T16:57"}
 ---
 
 
@@ -59,11 +59,11 @@ Latin eredetre visszavezetett angol ív jelentésű főnév.
 > Láttuk, hogy a kőrös szócsoportbeli magyar [[K/Karéj\|karaj]], [[K/Karéj\|karéj]] (besenyő és kabar szócsoport szerint ív) szónak a latinban `arcus` egymássalhangzós kőrös szó felel meg.  
 
 [[K/Kezdet és vég#^ybz6sf\|Kezdet és vég]] helyen Fáy Eleknél is megvolt az `ív` - `öv` - `év` hármas egy passzusban. Ott is utaltunk a latin arcus eredetére.  
-A görög `ἀρχή` (`arké`) = kezdet, eredet (továbbá uralom) jelentésével mutat rá, hogy itt életkörről van szó, és az [[O/Örök\|örök]]ös körforgásban az ívek egymást ívik, újítják tova, körbe-körbe.  
+Az [[A/Archaic\|archaic]] helyen más görög szavakkal egyetemben bemutatott `ἀρχή` (`arké`) = kezdet, eredet (továbbá uralom) jelentésével mutat rá, hogy itt életkörről van szó, és az [[O/Örök\|örök]]ös körforgásban az ívek egymást ívik, újítják tova, körbe-körbe.  
 
 > [!check] &nbsp;
 > A görög `arkhé` és latin `arcus` is tulajdonképpen a magyar `örök` szóval való egyenes megfeleltethetőségével mutatja eredetét.
-- Annyi még itt a dolgunk, hogy az örök szóban ör = kör azonosságra rámutassunk.
+- Annyi még itt a dolgunk, hogy az örök szóban [[K/Kör#Kör előhang nélküli változatai\|ör = kör azonosság]]ra rámutassunk.
 
 Másutt írja Magyar Adorján:  
 > A medvének is hatalmas karmai vannak és ezenkívül a medve is nagyerejű állat de még inkább ilyen volt a ma kihalt, tudományos nevén "barlangi medvének" (ursus speleus) nevezett, a mainál sokkal nagyobb medvefaj; a medve karmai pedig szintén görbék, amiért is ezeknek lehetett még ar, or alakú egymássalhangzós neve is, amely szóalak kerekséget, kerekdedséget is jelenthetett. És íme: nemcsak hogy az latin-olasz `ursus`-`orso` (urszusz-orszo) = medve, hanem ugyane nyelvekben `arcus`-`arco`, `arcuatus`-`arcuato` = ív, ívelt, hajlott és görbe, sőt az olaszban `artiglio` = karom.  
