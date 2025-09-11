@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Méz/","title":"Méz","tags":["Englishtexttranslated"],"created":"2024-11-23T05:28","updated":"2025-06-08T01:44"}
+{"dg-publish":true,"permalink":"/M/Méz/","title":"Méz","tags":["Englishtexttranslated"],"created":"2024-11-23T05:28","updated":"2025-09-11T16:56"}
 ---
 
 
@@ -30,6 +30,8 @@ card **víz** as w1 {
 }
 card **méz** as w2 {
 }
+card "vese (vö. latin <color:#e7545c>vesica</color> = húgyhólyag)" as w2b {
+}
 card vidra as w3 {
 }
 card vedel as w4 {
@@ -57,6 +59,7 @@ card "<color:#e7545c>mix</color>" as w13 {
 
 head --> w1
 head --> w2
+w1 --> w2b : [Z←→S]
 w1 --> w3 : [Z←→D]
 w1 --> w4 : [Z←→D]
 w1 --> w5 : [Z←→D]
