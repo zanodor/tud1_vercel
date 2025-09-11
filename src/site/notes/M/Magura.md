@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magura/","title":"Magura","tags":["Englishtexttranslated"],"created":"2023-10-29T08:17","updated":"2025-08-27T02:47"}
+{"dg-publish":true,"permalink":"/M/Magura/","title":"Magura","tags":["Englishtexttranslated"],"created":"2023-10-29T08:17","updated":"2025-09-11T16:57"}
 ---
 
 
@@ -30,8 +30,8 @@ Dr. Horkovics-Kováts János Őstörténelmünk helyretétele\[?\] című YouTub
 
 #### Pap Gábor Ki volt Magyar Ilona?...
 
-...című a Dobogó című újság 2011. 3-4. számában megjelent cikkében szintén említi, de mint Oroszlán (barlangot/évköri jegyet):  
-> A "`magura`" névváltozat jelentése \[milyen nyelven?\] viszont "forrásbarlang", és ezzel a szemközti Vízöntőt idézi meg.  
+...című a Dobogó című újság 2011. 3-4. számában megjelent cikkében szintén említi, de mint Oroszlán (barlangot/évköri jegyet), de a nyelvet nem nevezi meg:  
+> A "`magura`" névváltozat jelentése viszont "forrásbarlang", és ezzel a szemközti Vízöntőt idézi meg.  
 - Viszont [[M/Makara\|Makara]] neve Bakként is figurál.
 
 Ez egy nagyon érdekes gondolat, mármint hogy az [[U/UR\|UR]] és [[U/Urgula\|Urgula]] címnél is taglalt sumér Ur-Mah szótagmegfordított változataként ismert Magur nevéből az oroszlán > barlang jelentésváltozás lehetőségére is felhívja a figyelmet, valamint az is, hogy forrást is említ, mely a héberben is `makor` = forrás (lásd ezen szót is [[M/Magyar\|magyar]]).  
