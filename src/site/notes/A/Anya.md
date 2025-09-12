@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anya/","title":"Anya","created":"2024-11-08T00:20","updated":"2025-01-22T15:40"}
+{"dg-publish":true,"permalink":"/A/Anya/","title":"Anya","created":"2024-11-08T00:20","updated":"2025-09-13T00:10"}
 ---
 
 
@@ -10,7 +10,7 @@ Ana, anya, Boldogasszony/Anya és [[S/Szíriusz mint istenanya\|Szíriusz mint i
 
 ## Anya szavunk ny hangja
 
-[[N/Nyelvtani nemek\|Nyelvtani nemek]] címnél volt már arról szó, hogy a puha hangzók a nőnemet, a kemények a hímnemet fejezték ki a magyarban. Falvay Károly szól arról könyvében, hogy az árja nyelvekben hímségi az [[E/Ég\|eg]]et és mennyet jelentő szó. Véleményem szerint ez [[E/Egy\|egy]] nem az [[E/Ég\|ég]] becézése, ahogy Péterfai János írta, hanem nőnemű formája azzal, hogy lágyultan jelenik meg.  
+[[N/Nyelvtani nemek\|Nyelvtani nemek]] címnél volt már arról szó, hogy a puha hangzók a nőnemet, a kemények a hímnemet fejezték ki a magyarban. Falvay Károly szól arról könyvében, hogy az árja nyelvekben hímségi az [[E/Ég\|eg]]et és mennyet jelentő szó. Véleményem szerint [[E/Egy\|egy]] nem az [[E/Ég\|ég]] becézése, ahogy Péterfai János írta, hanem nőnemű formája azzal, hogy lágyultan jelenik meg.  
 
 Péterfai több helyen a [[N/Ny\|ny]] hangos szavak "eredetijének" bemutatásakor az n-hangos formát idézve utóbbit régiesebbnek mondja (`anya` szónál `ana` nála is régibb). Talán menny szónál is mondja/gondolná, hogy a [[M/Men\|men]] alak a régibb. Holott az általa igen réginek mondott [[S/Székely-magyar rovásírás\|székely-magyar rovásírás]]ban megvannak a lágy hangok betűjelei!  
 Az efféle kijelentésekkel vigyázni kell, ugyanis akaratlanul is a magyar-idegen, magyargyűlölő akadémisták kezére játszunk (`anya` szavunkat finnugor vagy ótörök eredetűnek mondják). Azért sem mondhatjuk, hogy az ny régies formája n és a puhulás később (a jelenhez közel) jött létre, mert a [[S/Székely-magyar rovásírás\|székely-magyar rovásírás]]ban szerepel minden lágyított hang betűjele.  
