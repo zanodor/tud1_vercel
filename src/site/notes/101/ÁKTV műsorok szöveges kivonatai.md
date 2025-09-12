@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-09-06T17:10"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-09-13T00:12"}
 ---
 
 
@@ -11,8 +11,13 @@
 
 <small>**Megjegyzés 2**: A web app keresője nem keres és nem talál ezen összefoglalókban!</small>
 
-**Videók archivált összefoglalókkal**:  
+**Videók archivált összefoglalókkal**:   
 
+[250912CN! JÓZSEF ATTILA](https://rumble.com/v6yuxhi-250912cn-jzsef-attila-kubnyi-tams-ktv.html)  [https://archive.ph/GBKBS](https://archive.ph/GBKBS)
+[250911CN! KIRK-GYILKOSSÁG](https://rumble.com/v6yt4ey-250911cn-kirk-gyilkossg-kubnyi-tams-ktv.html)  [https://archive.ph/4QQ5H](https://archive.ph/4QQ5H)
+[250910CN! MAGYAR MÉRCE](https://rumble.com/v6yr7y2-250910cn-magyar-mrce-kubnyi-tams-ktv.html)  [https://archive.ph/d737A](https://archive.ph/d737A)
+[250909CN! BALHÉPÁRT](https://rumble.com/v6ypk7a-250909cn-balhprt-kubnyi-tams-ktv.html)  [https://archive.ph/OYnpc](https://archive.ph/OYnpc)
+[250908CN! KRÚBI BŰNE](https://rumble.com/v6yo7u0-250908cn-krbi-bne-kubnyi-tams-ktv.html)  [https://archive.ph/Jkyzs](https://archive.ph/Jkyzs)
 [250905CN! ÜZENET A Z-GENERÁCIÓNAK](https://rumble.com/v6yk9d6-250905cn-zenet-a-z-genercinak-kubnyi-tams-ktv.html)  [https://archive.ph/hm4OE](https://archive.ph/hm4OE)
 [250904CN! FELHÍVÁS](https://rumble.com/v6yi6ha-250904cn-felhvs-kubnyi-tams-ktv.html)  [https://archive.ph/grtGl](https://archive.ph/grtGl)
 [250903CN! ABSZURD](https://rumble.com/v6ygklm-250903cn-abszurd-kubnyi-tams-ktv.html)  [https://archive.ph/BzQCo](https://archive.ph/BzQCo)
