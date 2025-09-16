@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Maid/","title":"Maid","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-21T03:53","updated":"2025-08-27T03:03"}
+{"dg-publish":true,"permalink":"/M/Maid/","title":"Maid","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-21T03:53","updated":"2025-09-16T13:24"}
 ---
 
 
@@ -28,7 +28,7 @@ Az elmondottakhoz még tehető, hogy [[D/Daughter\|daughter]] címnél közben k
 ...című könyvében még amit ír:  
 > A magyar leány szónak régen [[S/Szűz\|szűz]] értelme is volt. Leány értelme volt az ónémet nyelvben a `magd`, `magda` szónak is, csakhogy itten már árja félreértéssel van dolgunk, mert mi tudjuk hogy [[I/Ilona\|Ilona]] Istennőnk épen ellenkezőleg a [[M/Magyar\|magyar]] vagy Magar nevet [[N/Nász\|nász]]a után veszi föl, vagyis amikor már többé nem leány hanem "[[B/Boldogasszony\|Boldogasszony]]."  
 
-Az [alábbi](https://www.cell.com/current-biology/pdf/S0960-9822(15)00782-4.pdf) tanulmány (melyből [[P/Parthenogenesis\|parthenogenesis]] címnél idéztünk) adata szerint a héber `almah` = szűz. Ugyan első megérzésem az volt, hogy ez alma szavunkkal azonos (márpedig [[A/Alma Mater\|Alma Mater]] is ilyen fontos név), könnyen lehet, hogy az Al itt névelő és a szóvégi h nem hagyható el. Azaz mah = mag, mint a [[M/Magda\|Magda]] és [[M/Maiden\|maiden]] nevekben illetve elődjében. A lényeg, ahogy az [alábbi](https://carm.org/bible-difficulties/isaiah-714-in-hebrew-means-maiden-not-virgin-therefore-it-is-not-a-prophecy/) oldal is taglalja, hogy félrefordítás történt (a héber `almah` = maiden, nem virgin, azaz lány, nem szűz; több címnél volt arról szó, hogy a szűz aspektusa a Tejútanyának (násza előtt) lány, tündér):  
+Az [alábbi](https://www.cell.com/current-biology/pdf/S0960-9822(15)00782-4.pdf) tanulmány (melyből [[P/Parthenogenesis\|parthenogenesis]] címnél idéztünk) adata szerint a héber `almah` = szűz. Ahogy az [alábbi](https://carm.org/bible-difficulties/isaiah-714-in-hebrew-means-maiden-not-virgin-therefore-it-is-not-a-prophecy/) oldal is taglalja, félrefordítás történt (a héber `almah` = maiden, nem virgin, azaz lány, nem szűz; több címnél volt arról szó, hogy a szűz aspektusa a Tejútanyának (násza előtt) lány, tündér):  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/P/Parthenogenesis/#fug3hb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
