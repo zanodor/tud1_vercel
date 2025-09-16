@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Evil/","title":"Evil","created":"2024-11-23T04:54","updated":"2025-05-03T09:31"}
+{"dg-publish":true,"permalink":"/E/Evil/","title":"Evil","created":"2024-11-23T04:54","updated":"2025-09-16T13:24"}
 ---
 
 
@@ -34,4 +34,4 @@ w2 -- w3
 @enduml
 ```
 
-Érdekes a hettita `huwappi` ("rosszul bánni, zaklatni") és `huwappa` ("gonoszság, rosszaság"), gondolván apa végződésre, de még a [[J/Jehova\|Jehova]] alakhoz is hasonló. Jehova – ha nem lenne ismert a Jahve forma – Ég-Apa is lehetne (de a [[J/Jahve\|Jahve]] nevet is lehet ekként magyarázni, miért ne).  
+Érdekes a hettita `huwappi` ("rosszul bánni, zaklatni") és főleg a hettita `huwappa` ("gonoszság, rosszaság"), gondolván apa végződésre, de még a [[J/Jahve\|Jahve]] alakhoz is hasonló. Jahve Ég-Apa olvasatú is lehetne.  
