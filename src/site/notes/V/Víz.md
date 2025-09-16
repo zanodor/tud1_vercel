@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Víz/","title":"Víz","created":"2024-11-23T05:38","updated":"2025-08-16T15:33"}
+{"dg-publish":true,"permalink":"/V/Víz/","title":"Víz","created":"2024-11-23T05:38","updated":"2025-09-16T13:24"}
 ---
 
 
@@ -31,6 +31,8 @@ card **víz** as w1 {
 }
 card **méz** as w2 {
 }
+card "vese (vö. latin <color:#e7545c>vesica</color> = húgyhólyag)" as w2b {
+}
 card vidra as w3 {
 }
 card vedel as w4 {
@@ -45,6 +47,8 @@ card "<color:#e7545c>fish</color>, <color:#e7545c>bath</color>, <color:#e7545c>b
 }
 card "germán <color:#e7545c>wet</color> és <color:#e7545c>Wiese</color>" as w14 {
 }
+card mos as w8b {
+}
 card "japán <color:#e7545c>mizu</color>" as w9 {
 }
 card vegyít as w10 {
@@ -58,6 +62,7 @@ card "<color:#e7545c>mix</color>" as w13 {
 
 head --> w1
 head --> w2
+w1 --> w2b : [Z←→S]
 w1 --> w3 : [Z←→D]
 w1 --> w4 : [Z←→D]
 w1 --> w5 : [Z←→D]
@@ -68,6 +73,7 @@ note right of w8 {
 	e szavakat lásd a helyükön
 }
 w1 --> w14 : [V–W]
+w1 --> w8b : [V→M]
 w1 --> w9 : [V→M]
 w1 --> w10 : [Z←→D=GY]
 w1 --> w13 : [V→M]
