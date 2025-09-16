@@ -1,4 +1,5 @@
-/* Source: https://claude.ai/chat/1c35f659-9560-4bb0-85fe-6ed4daa39314 & https://claude.ai/chat/d58a5174-19f0-4348-81bc-105be2bc9e9f */
+/* Source: https://claude.ai/chat/1c35f659-9560-4bb0-85fe-6ed4daa39314 & https://claude.ai/chat/d58a5174-19f0-4348-81bc-105be2bc9e9f and
+ * https://claude.ai/chat/3b9812f6-e932-48e3-9faa-97684bd634d7 */
 /* Digital Garden version - Reading mode only, no Live Preview or drag handles */
 
 /* Base table styling */
@@ -23,6 +24,8 @@
     vertical-align: top !important;
     outline: none !important;
     box-shadow: none !important;
+    background: transparent !important; /* Override theme alternating backgrounds */
+    background-color: transparent !important; /* Additional override */
 }
 
 /* Additional targeting for stubborn elements */
@@ -30,10 +33,31 @@
 .headerless-borderless-table table tr td {
     line-height: 1.80 !important;
     border: none !important;
+    border-bottom: none !important; /* Explicitly remove header divider */
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
     padding: 0 !important;
     margin: 0 !important;
     outline: none !important;
     box-shadow: none !important;
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+/* Target table rows to override alternating backgrounds */
+.headerless-borderless-table table tr {
+    background: transparent !important;
+    background-color: transparent !important;
+    border: none !important;
+}
+
+/* Specific targeting for odd/even rows that themes often style */
+.headerless-borderless-table table tr:nth-child(odd),
+.headerless-borderless-table table tr:nth-child(even) {
+    background: transparent !important;
+    background-color: transparent !important;
+    border: none !important;
 }
 
 /* Force line height on all possible table elements */
@@ -41,14 +65,36 @@
     line-height: 1.80 !important;
 }
 
-/* Header styling */
+/* Header styling - specifically target to remove bold and borders */
 .headerless-borderless-table table th {
     font-weight: normal !important;
-    background: none !important;
+    background: transparent !important;
+    background-color: transparent !important;
+    border-bottom: none !important; /* Remove header underline */
+    border: none !important;
+}
+
+/* Target header row specifically */
+.headerless-borderless-table table thead tr {
+    border-bottom: none !important;
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+.headerless-borderless-table table thead tr th {
+    border-bottom: none !important;
+    font-weight: normal !important;
+    background: transparent !important;
+    background-color: transparent !important;
 }
 
 /* Add spacing between first and second column only if needed */
 .headerless-borderless-table table td:first-child {
+    padding-right: 15px !important;
+}
+
+/* Also apply spacing to header cells */
+.headerless-borderless-table table th:first-child {
     padding-right: 15px !important;
 }
 
@@ -74,4 +120,11 @@
 .headerless-borderless-table table th,
 .headerless-borderless-table table td {
     line-height: var(--table-line-height) !important;
+}
+
+/* Additional theme override targeting - for Gruvbox and other themes */
+.headerless-borderless-table table tbody tr:nth-child(odd) td,
+.headerless-borderless-table table tbody tr:nth-child(even) td {
+    background: transparent !important;
+    background-color: transparent !important;
 }
