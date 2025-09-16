@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Agg/","title":"Agg","created":"2023-10-13T12:40","updated":"2025-06-07T18:46"}
+{"dg-publish":true,"permalink":"/A/Agg/","title":"Agg","created":"2023-10-13T12:40","updated":"2025-09-16T13:24"}
 ---
 
 
@@ -51,8 +51,6 @@ card "<color:#e7545c>songλ</color>" as songl
 Agg -- songl : "cseremisz 'öreg'"
 card "<color:#e7545c>áak</color>" as aak
 Agg -- aak : "egyiptomi 'agg ember, öreg'"
-card "<color:#e7545c>akka</color>" as akka
-Agg -- akka : "svéd"
 card "<color:#e7545c>okāsan</color>" as okasan
 Agg -- okasan : "japán 'anya'"
 
