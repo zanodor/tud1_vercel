@@ -1,24 +1,77 @@
-/* Source: https://claude.ai/chat/1c35f659-9560-4bb0-85fe-6ed4daa39314 */
-/* This is the Render and Vercel version, without touching the wikilink underlines. */
+/* Source: https://claude.ai/chat/1c35f659-9560-4bb0-85fe-6ed4daa39314 & https://claude.ai/chat/d58a5174-19f0-4348-81bc-105be2bc9e9f */
+/* Digital Garden version - Reading mode only, no Live Preview or drag handles */
 
-/* Remove table borders and header formatting for specific notes */
+/* Base table styling */
 .headerless-borderless-table table {
     border: none !important;
     border-collapse: collapse !important;
-    line-height: 1.80 !important; /* Set line spacing for entire table */
+    line-height: 1.80 !important;
+    outline: none !important;
+    box-shadow: none !important;
 }
 
+/* Cell styling - web reading mode */
 .headerless-borderless-table table th,
 .headerless-borderless-table table td {
     border: none !important;
     font-weight: normal !important;
-    padding: 0 15px 0 0 !important;
-    line-height: 1.80 !important; /* Set line spacing for cells */
+    padding: 0 !important;
+    margin: 0 !important;
+    line-height: 1.80 !important;
     text-align: justify !important;
     text-justify: inter-word !important;
+    vertical-align: top !important;
+    outline: none !important;
+    box-shadow: none !important;
 }
 
+/* Additional targeting for stubborn elements */
+.headerless-borderless-table table tr th,
+.headerless-borderless-table table tr td {
+    line-height: 1.80 !important;
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+/* Force line height on all possible table elements */
+.headerless-borderless-table * {
+    line-height: 1.80 !important;
+}
+
+/* Header styling */
 .headerless-borderless-table table th {
     font-weight: normal !important;
     background: none !important;
+}
+
+/* Add spacing between first and second column only if needed */
+.headerless-borderless-table table td:first-child {
+    padding-right: 15px !important;
+}
+
+/* Link styling */
+.headerless-borderless-table a {
+    text-decoration: none !important;
+}
+
+.headerless-borderless-table a:hover {
+    text-decoration: underline !important;
+}
+
+/* CSS custom properties for easier adjustment */
+:root {
+    --table-line-height: 1.80;
+}
+
+.headerless-borderless-table {
+    --table-line-height: 1.80;
+}
+
+.headerless-borderless-table table,
+.headerless-borderless-table table th,
+.headerless-borderless-table table td {
+    line-height: var(--table-line-height) !important;
 }
