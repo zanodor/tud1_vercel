@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:48","updated":"2025-09-11T16:56"}
+{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-10-29T07:48","updated":"2025-09-16T15:02"}
 ---
 
 
