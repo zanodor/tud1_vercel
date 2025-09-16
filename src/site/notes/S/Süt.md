@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2025-09-16T13:33"}
+{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2025-09-16T15:03"}
 ---
 
 
@@ -10,7 +10,7 @@ Alant, külön alcím alatt tovább boncolgatjuk a dolgot.
 
 Amennyiben levezetését nem a [[T/Tűz\|tűz]] megfordítására alapozzuk, nyilván Su-Tu olyan alkotás, amire Péterfai János is gondolna. A Tu végződést [[D/DO#Do 2)\|do]] címnél láttuk ilyen minőségben, [[S/SU\|SU]] pedig ismert, mint ami `süvít` szóban is szerepel.  
 
-Több szónál előjön utódnyelveinkben, például szláv szvet ([[S/Szvjet\|szvjet]]), angol [[S/Sweet\|sweet]]. A svájciak országának Suisse neve (de az angol átírásban Switzerland is) felismerhetően süt/süss szavunkra üt (ahogy az édeset jelentő germán szavak is). Lásd még [[S/Sweden\|Sweden]].  
+Több szónál előjön utódnyelveinkben, például szláv `szvet` ([[S/Szvjet\|szvjet]]), angol [[S/Sweet\|sweet]]. A svájciak országának Suisse neve (de az angol átírásban Switzerland is) felismerhetően süt/süss szavunkra üt (ahogy az édeset jelentő germán szavak is). Lásd még [[S/Sweden\|Sweden]].  
 [[S/Shoot\|Shoot]] szónál is szerepelt:  
 Süt az [[U/Üt\|üt]] szavunkkal is fogalmi és hangtani rokonságban van, hiszen [[U/UT\|UT]] = Nap forró, tüzes nyilait süti, lövelli a Földre (ezért is hasonlították sünhöz, mely ismét a süt igevariánsa lehet, ahogy [[T/Tesz\|tesz]]nek [[T/TEN\|TEN]]). Hogy a süt az üt s-előtétes változata, elárulja, hogy a japán `ute` is lő jelentésű és üt szavunkkal azonos.  
 
