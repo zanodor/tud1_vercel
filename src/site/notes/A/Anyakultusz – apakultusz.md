@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2025-09-11T16:55"}
+{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2025-09-16T13:23"}
 ---
 
 
@@ -11,7 +11,7 @@
 > \[A heta\] [[A/Alalu\|Alalu]] fia [[A/Anu\|Anu]]. A szumir égisten neve An, azután Anu. Ez a név kétségtelenül magyar eredetű. An formában is gyakori a magyar nyelvben, de az Anu változat is magyar nyelvű. Nem vitatható, hogy az An-U és az A-Nu is értelmes magyar nyelven. Az előbbi Égi-Magasságos, Örökkévaló, Végtelen, az utóbbi Isteni-Nő értelmű. Valahol itt kapcsolódik egybe a matriarchátus és patriarchátus, ami a magyaroknál mindenkor egyenlő volt. A magyarok nem éltek sem patriarchátusban, sem matriarchátusban, mert társadalmukban a nemek egyenlőek voltak. Az igaz, hogy az amazonoknál nőuralom volt, de nagy valószínűséggel seregeikben férfiak is szolgáltak.  
 
 Bakos Attila A Duna Evangéliuma című könyvének 200. oldalán úgy indít, hogy ez emberiség első vallása az ős-[[T/Tantra\|tantra]] volt. Aztán a meglepettségemen oldva azzal folytatja, hogy a régi ember mindent az anyától származónak tartott.  
-Nem tartom kizártnak, hogy a tantra név is a [[T/Tündér\|tündér]] szavunkból ered. Főleg azok alapján, amit másutt ír, miszerint a férfiasság, a hímelvűség útja a [[Y/Yoga\|jóga]], a nőelvűség, az asszonyiság útja pedig a tantra. Mintha a [[J/Jehova\|Jehova]]-féle hímelvet látnám a jóga névben is, a Trójában is áldozat tantrában pedig a betört tündért (kiből szajha lett). Megint azt látjuk, hogy a csillagmitológiai háttér alapot szolgáltat a vallások degenerált képéhez dogmatizálás folytán.  
+Nem tartom kizártnak, hogy a tantra név is a [[T/Tündér\|tündér]] szavunkból ered. Főleg azok alapján, amit másutt ír, miszerint a férfiasság, a hímelvűség útja a [[Y/Yoga\|jóga]], a nőelvűség, az asszonyiság útja pedig a tantra. Mintha a [[J/Jahve\|Jahve]]-féle hímelvet látnám a jóga névben is, a Trójában is áldozat tantrában pedig a betört tündért (kiből szajha lett). Megint azt látjuk, hogy a csillagmitológiai háttér alapot szolgáltat a vallások degenerált képéhez dogmatizálás folytán.  
 
 #### Győriné Luca Ágnes Ősiség, tudatfosztás és a darwini származáselmélet...
 
