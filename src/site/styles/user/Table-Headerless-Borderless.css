@@ -1,0 +1,24 @@
+/* Source: https://claude.ai/chat/1c35f659-9560-4bb0-85fe-6ed4daa39314 */
+/* This is the Render and Vercel version, without touching the wikilink underlines. */
+
+/* Remove table borders and header formatting for specific notes */
+.headerless-borderless-table table {
+    border: none !important;
+    border-collapse: collapse !important;
+    line-height: 1.80 !important; /* Set line spacing for entire table */
+}
+
+.headerless-borderless-table table th,
+.headerless-borderless-table table td {
+    border: none !important;
+    font-weight: normal !important;
+    padding: 0 15px 0 0 !important;
+    line-height: 1.80 !important; /* Set line spacing for cells */
+    text-align: justify !important;
+    text-justify: inter-word !important;
+}
+
+.headerless-borderless-table table th {
+    font-weight: normal !important;
+    background: none !important;
+}
