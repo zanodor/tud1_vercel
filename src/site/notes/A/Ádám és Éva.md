@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ádám és Éva/","title":"Ádám és Éva","tags":["Englishtexttranslated"],"created":"2023-11-06T01:53","updated":"2025-08-27T02:46"}
+{"dg-publish":true,"permalink":"/A/Ádám és Éva/","title":"Ádám és Éva","tags":["Englishtexttranslated"],"created":"2023-11-06T01:53","updated":"2025-09-17T22:27"}
 ---
 
 
@@ -9,8 +9,6 @@
 
 ...című könyvében írja, hogy a zsidók ezt is a parszizmusból vették:  
 > A zendavestából egyszerűen átvették az egész teremtés történetét egy kevés módosítással. Masiát és Masiánát, Ádám és Éva szóval helyettesítették, a teremtés ottani hat korszakát ők hat napra változtatták; a fáradtságos munkával való kenyérkeresést pedig, melyet Zarathustra az ember legfőbb erényének és kötelességének állít, ők – erkölcstanukkal egybehangzóan – büntetésnek minősítették. Egyébként azonban a Mózes könyvében leírt kígyó, szabadító és az ember teremtésének kettős változata, sőt még az egyes kifejezések is, mint például "az ő nemük szerint" egyeznek a zendavesztával.  
-
-![assets/Adameseva_image1.png|invert_dark](/img/user/A/assets/Adameseva_image1.png)  
 
 #### Várkonyi Nándor...
 
@@ -54,12 +52,12 @@ Ennél is megdöbbentőbb az [[A/Ádám\|Ádám]] címnél adatokkal jelentkező
 #### John G. Jackson Christianity before Christ...
 
 ...című könyvében talált Frazer-től vett információ:  
-> In Tahiti, the first human couple were made by the god Taaroa. After creating the world, the god made the first man out of red earth. Then he put the man to sleep, and after extracting from him a bone (*ivi*), fashioned it into a woman. This story was recorded for posterity by the missionary William Ellis, who declared that:  
-> This always appeared to me a mere recital of the Mosaic account of creation, which they had heard from some European, and I never placed any reliance on it, although they have repeatedly told me it was a tradition among them before any foreigner arrived. Some have also stated that the woman's name was Ivi, which would be by them pronounced as if written Eve. Ivi is an aboriginal word, and not only signifies a bone, but also a widow, and a victim slain in war. Notwithstanding the assertion of the natives, I am disposed to think that Ivi or Eve is the only aboriginal part of the story, as far as it respects the mother of the human race. (William Ellis, Polynesian Researches, 2nd Ed., London: 1832-1836, i, 110 seq., cited in Frazer, Folklore in The Old Testament, Vol. I, London: Macmillan and Co., Ltd., p. 10.)  
+> In Tahiti, the first human couple were made by the god Taaroa. After creating the world, the god made the first man out of red earth. Then he put the man to sleep, and after extracting from him a bone (`ivi`), fashioned it into a woman. This story was recorded for posterity by the missionary William Ellis, who declared that:  
+> This always appeared to me a mere recital of the Mosaic account of creation, which they had heard from some European, and I never placed any reliance on it, although they have repeatedly told me it was a tradition among them before any foreigner arrived. Some have also stated that the woman's name was **Ivi**, which would be by them pronounced as if written Eve. Ivi is an aboriginal word, and not only signifies a bone, but also a widow, and a victim slain in war. Notwithstanding the assertion of the natives, I am disposed to think that Ivi or Eve is the only aboriginal part of the story, as far as it respects the mother of the human race. (William Ellis, Polynesian Researches, 2nd Ed., London: 1832-1836, i, 110 seq., cited in Frazer, Folklore in The Old Testament, Vol. I, London: Macmillan and Co., Ltd., p. 10.)  
 > The opinion of the missionary was probably erroneous, for similar myths are current throughout Polynesia. In Bowditch Island there is a tradition that after the creator god made the first man, he then from earth produced the image of the woman, who immediately began to live.  
 > —  
-> Tahitin az első emberpárt Taaroa isten teremtette. Miután megteremtette a világot, az isten vörös földből készítette az első embert. Aztán elaltatta a férfit, és miután kivett belőle egy csontot (*ivi*), nőt formált belőle. Ezt a történetet William Ellis misszionárius jegyezte fel az utókor számára, aki kijelentette, hogy:
-> Nekem mindig úgy tűnt, hogy ez csupán a teremtés mózesi beszámolója, amelyet valamelyik európaitól hallottak, és soha nem bíztam benne, bár többször elmondták nekem, hogy ez a hagyomány már azelőtt is létezett közöttük, hogy idegenek érkeztek volna. Néhányan azt is állították, hogy a nő neve Ivi volt, amit ők úgy ejtettek ki, mintha Évát írnának. Az Ivi egy őslakos szó, és nemcsak csontot jelent, hanem özvegyet és háborúban megölt áldozatot is. A bennszülöttek állítása ellenére hajlamos vagyok azt gondolni, hogy az Ivi vagy Éva az egyetlen őslakos része a történetnek, amennyiben az emberi faj anyjára vonatkozik. (William Ellis, Polynesian Researches, 2. kiadás, London: 1832-1836, i, 110 és azután, idézi Frazer, Folklore in The Old Testament, Vol. I, London: Macmillan and Co., Ltd., 10. o.).
+> Tahitin az első emberpárt Taaroa isten teremtette. Miután megteremtette a világot, az isten vörös földből készítette az első embert. Aztán elaltatta a férfit, és miután kivett belőle egy csontot (`ivi`), nőt formált belőle. Ezt a történetet William Ellis misszionárius jegyezte fel az utókor számára, aki kijelentette, hogy:
+> Nekem mindig úgy tűnt, hogy ez csupán a teremtés mózesi beszámolója, amelyet valamelyik európaitól hallottak, és soha nem bíztam benne, bár többször elmondták nekem, hogy ez a hagyomány már azelőtt is létezett közöttük, hogy idegenek érkeztek volna. Néhányan azt is állították, hogy a nő neve **Ivi** volt, amit ők úgy ejtettek ki, mintha Évát írnának. Az Ivi egy őslakos szó, és nemcsak csontot jelent, hanem özvegyet és háborúban megölt áldozatot is. A bennszülöttek állítása ellenére hajlamos vagyok azt gondolni, hogy az Ivi vagy Éva az egyetlen őslakos része a történetnek, amennyiben az emberi faj anyjára vonatkozik. (William Ellis, Polynesian Researches, 2. kiadás, London: 1832-1836, i, 110 és azután, idézi Frazer, Folklore in The Old Testament, Vol. I, London: Macmillan and Co., Ltd., 10. o.).
 > A misszionárius véleménye valószínűleg téves volt, mert hasonló mítoszok egész Polinéziában elterjedtek. A Bowditch-szigeten létezik egy hagyomány, amely szerint miután a teremtő isten megalkotta az első embert, azután a földből létrehozta a nő képmását, aki azonnal élni kezdett.
 - A szöveg folytatása [[O/Ószövetség\|Ószövetség]] címhez mellé téve.
 
