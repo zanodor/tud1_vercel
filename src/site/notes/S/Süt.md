@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2025-09-16T19:23"}
+{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2025-09-17T15:13"}
 ---
 
 
@@ -89,9 +89,7 @@ Persze a Süt/Szít/Sat/Sát/Sut/Söt/Set tulajdonképpen a [[S/Szatem\|szatem]]
 [[K/Kutya\|Kutya]] cím (újra)bevezetőjében is volt arról szó, miért is alakulhatott ki a hajlandóság arra, hogy a kemény hangzókat lecseréljék.  
 [[D/Dialektikus ellentét\|Dialektikus ellentét]] és [[H/Hunor és Magor\|Hunor és Magor]] címnél is szerepeltek az alábbiak:  
 
-| Az ellentétes értelmek kialakulásának eredete ugyanoda vihető vissza, mint amiről [[H/Hunor és Magor\|Hunor és Magor]] címnél az ellentmondásokat taglaló résznél már szóltunk. A nyári napfordulós pont az, ami a süt és [[S/Sötét\|sötét]] fogalmai azonosságát adja: ott süt a legmagasabban a Nap, de onnantól kezdve kezd sötétülni, hunyni/kumni/sunyni is. | ![Süt_image2025142337.excalidraw.png](/img/user/S/assets/S%C3%BCt_image2025142337.excalidraw.png) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
-
+Az ellentétes értelmek kialakulásának eredete ugyanoda vihető vissza, mint amiről [[H/Hunor és Magor\|Hunor és Magor]] címnél az ellentmondásokat taglaló résznél már szóltunk. A nyári napfordulós pont az, ami a süt és [[S/Sötét\|sötét]] fogalmai azonosságát adja: ott süt a legmagasabban a Nap, de onnantól kezdve kezd sötétülni, hunyni/kumni/sunyni is.  ![Süt_image2025142337.excalidraw.png|right](/img/user/S/assets/S%C3%BCt_image2025142337.excalidraw.png)
 Legutóbb a [[H/Hódol\|hódol]] és [[H/Hódít\|hódít]] szavak passzív és aktív értelmeinek vizsgálata kapcsán szóba hoztuk az [[I/Íj és a nyíl\|íj és a nyíl]] cím bevezetőrészében említett témát: miszerint egyaránt megtaláljuk a nőiségi és hímségi ideákat ott, egy helyen, a nyári napfordulós téridőbeli helyen. Ez az oka az ellentétes értelmeket adó azonos alakú vagy gyökű szavaknak. A sötét félév váltása a fényesről ott történik (de a nemzés is ott történik, ellenben a téli napfordulón már nincs hím, csak a napgyermek, aki megszületik).  
 ([[S/Szutek\|Szutek]] címnél, külön alcímnél pedig hasonló témában volt szó arról, hogy a Jupiter és Szaturnusz nevek illetve mögöttes fogalmai szintén hasonló elven alakulnak ki.)  
 Még itt a nyelvi szórészek tükörképes és [[S/Szómegfordítás#Szótagmegfordítás\|szótagmegfordítás]]os jellegzetességei kapcsán említsük meg, hogy minden a [[T/Tükörképes világkép\|tükörképes világkép]]re épül és elsősorban a világos és sötét félévet elválasztó téridőbeli helyen lévő [[I/Ikrek csillagkép\|Ikrek csillagkép]]nek megfelelő és az Ikrek alatti Íjazók/Nyilazók) tükörképes, egymásnak háttal állását, a hátuk (a [[L/Lemniszkáta\|lemniszkáta]] két köríve) görbületeinek tükörképét – ahogy a kul-oba-i kurgán [[H/Hunor és Magor\|Hunor és Magor]]t ábrázoló "[[A/Arkadash\|arkadash]]"-os leletén tökéletesen látjuk –, kell itt észrevenni. Erre a képre épülnek az [[E/Ellentétes értelmek\|ellentétes értelmek]], [[D/Dialektikus ellentét\|dialektikus ellentét]], [[H/Hunor és Magor\|Hunor és Magor]] és [[F/Fény és sötétség\|fény és sötétség]] címnél taglalt témák is.  
