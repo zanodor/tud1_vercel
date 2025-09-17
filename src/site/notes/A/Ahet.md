@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2025-07-26T21:28"}
+{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2025-09-17T22:27"}
 ---
 
 
@@ -36,17 +36,18 @@ Megint másutt írja Jankovics Marcell:
 > "Hegynaptár" lehetett az első egyiptomi kalendárium is. Erről tanúskodik a "látóhatár" hieroglifa (ahet), mely két hegy között lenyugvó napkorongot ábrázol (22. rajz). Erről vallanak a kelet-nyugat iránynak tájolt egyiptomi templomok bejáratát őrző hegyszerű pülonok \[kapuk\], amelyek közt a templomhoz vezető út felöl nézve a Nap felkelni vagy lenyugodni látszik. A kettős pülon egyiptomi neve azt jelenti: "az ég fényhegyű horizontja". Már a dinasztikus kor előtt (Kr. e. 3800 k.) ábrázolják a Napot és a hegyet együtt, és az első piramisok mint a "fényhegyek" gigantikus kőmásolatai ebből a megfigyelési módszerből következően nőnek ki, s uralkodnak máig az egyiptomi sivatagi fennsíkon. A piramisszövegek a napkeltét az isten két hegy közti megjelenésének nevezik.  
 > Egy Kr. e. 2300 körüli akkád pecséthengeren Samast látjuk, amint egy fűrésszel kivágja magát két hegy \[Jankovics Marcell zárójelbe rakhatta volna a [[S/Szümplegádok\|szümplegádok]]at itt, mely címnél legutóbb említettük is az itt álló témát\] közül. Naram Szín akkád király sztéléjén (Kr. e. 2250 k.) a győztes uralkodó egy hegycsúcs felé lépdel, felettük három Nap (vagy a Nap, Hold, Vénusz?) látható. "Látóhatárnaptárt" használtak a kaukázusi oszétok (a szarmaták utódai és a mi jászaink helyben maradt rokonai) még e század első éveiben is. Választott "napfigyelő" leste minden napnyugtakor a nyugati látóhatárt, amelyen 40-50 megfigyelési pont jelezte az év számontartandó napjait, és szájról szájra hagyományozódott versek őrizték a rájuk vonatkozó tudnivalót. Láthattuk, ugyanúgy működött (működik?) a pueblo-indiánok "hegynaptára".  
 
-![assets/Ahet_image5.png|invert_dark](/img/user/A/assets/Ahet_image5.png)  
 Dr. Gyárfás Ágnes az Ősi Gyökér 2010/1-2. sz. közölt Magyar őskutatás a szimbolikák jegyében című cikkében ugyanezt a képet elemzi, de sem nem hozza szóba a két hegyet, sem Samash-t, és ráadásul a nyári napfordulóra gondol, hiszen a Rák csillagképet hozza szóba.  
 \[Hampó József A Kaukázusi juhászkutya ősi pecséthengereken című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében már helyesen téli napfordulósként értékeli.\]  
 
+![assets/Ahet_image5.png|right](/img/user/A/assets/Ahet_image5.png)  
 Gyárfás Ágnes említett cikkében szerepel egy másik, Tellóból származó tábla képe is, mely igen valószínűen a [[T/Turul\|Turul]]-madárként megjelenő Napot mutatja a fényhegyek közül kiemelkedve azzal, hogy oroszlánokon állva örökítették meg. Lásd képet csatolva. (Hasonló a [[J/Janus\|Janus]] címnél szereplő Gilgames ábrázolás. [[J/Janus\|Janus]] címnél ugye a téli napfordulós ábrázolásokról közöltünk képeket. Az kétségtelen viszont, és Gyárfás Ágnes gondolatának helyességét igazolhatná, hogy a jobb oldalon álló kétarcú, [[O/Oannesz\|Oannesz]] címnél kinagyítva adott alak [[J/János\|János]]sága a nyári napfordulóhoz is köthető. Persze a két félév elválasztó pontja lehet nyári és téli napfordulós is.)  
 
 A [[L/LÁN\|LÁN]] címnél taglalt két oroszlán témájához való kapcsolódást se feledjük el.  
 
 Jelkép-kalendáriumában Jankovics Marcell írja még:  
 > Az őszpont a természet haldoklásának kezdete, Mihály \[ünnepnapja szeptember 29.\] már a tél sötétülő kapujában áll, hogy kezében az ítélet pallosával és az igazság mérlegével fogadja a holtak lelkeit. (A naptári sarokpontok jelképes "[[K/Kapu\|kapu]]", "hegy" neve – lásd a Mérleg-jel mintájául szolgáló \[ahet\] "fényhegy" hieroglifát – és a városkapuk, hegyek Mihálynak, korábban Thot-Mercuriusnak való ajánlása között belátható az összefüggés.)  
-![assets/Ahet_image6.jpeg](/img/user/A/assets/Ahet_image6.jpeg)  
+
+![assets/Ahet_image6.jpeg|right](/img/user/A/assets/Ahet_image6.jpeg)  
 
 [[F/Feltámadás\|Feltámadás]] címnél is szerepelt a Borbola János Az ősi hitvilág ábrázolása című az Ősi Gyökér 2017/3-4. sz. megjelent cikkéből vett, feltehetően a Holtak könyvéből származó, [[I/Ízisz\|Ízisz]]t és [[N/Nephthys\|Nephthys]]t ábrázoló kép, ahol mindenki felemelt kézzel látható. Fent kétszer három majom, középen a [[D/Dzsed\|dzsed]] és a Napkorongot szintén felemelt [[A/Ankh\|ankh]]-karokkal tartó [[A/AN, ÁN\|AN, ÁN]] isten. Mivel kétoldalt a púpok a fényhegyeket illetve [[S/Szümplegádok\|szümplegádok]]at látszanak mutatni, itt a megszülető Napot ünnepelhetik.  
 
@@ -66,7 +67,7 @@ Nos, [[H/Hét#Hét csillag\|hét csillag]] cím/alcímnél írottak alapján a h
 Ott ahol a Bakban a szarvasfiú/napgyermek megszületik. És lám, a [[S/Székely-magyar rovásírás#B\|székely-magyar rovásírás B]] betűjének jele egészen ilyen, ahogy a [[M/MAS\|MAS]] címnél látott egyik jel is.  
 Amennyiben a rovás B felső és alsó szárvégeit vízszintesen összekötnénk, azt a [[L/Lemniszkáta\|lemniszkáta]] címnél látott csokrot kapnánk, melyet a nyári napforduló mellett téli napfordulósként is értelmeztünk.  
 
-![assets/Ahet_image9.jpeg](/img/user/A/assets/Ahet_image9.jpeg)  
+![assets/Ahet_image9.jpeg|right](/img/user/A/assets/Ahet_image9.jpeg)  
 Hampó József A Kaukázusi juhászkutya ősi pecséthengereken című az Ősi Gyökér 2012/2-4. sz. megjelent cikkéből a Pritchard James: The Ancient Near East in Pictures. Princeton Univ. Press. 1954. 526. sz. ábra egy részletét mutatom be.  
 A nála (is) (a fentebbi oroszlánok helyett kutyaként látott/láttatott) két kutyát mint egy szögletes formájú székben egymást keresztezve egymást mutatja be.  
 Kérdés, hogy az Egyiptomban egyértelműen látszó oroszlánokból miért vált (volna) Kutya (mely nevek már a sumér nyelvben is azonos nevűek: az oroszlán a nagy kutya, Ur-Mah). Az évkezdés mikorjainak eltérései adhatják meg erre a választ. Ezen a ponton még a [[S/Szűz csillagkép\|Szűz csillagkép]] címnél írottak (valamint az ott taglalt Szűz és Nagy Kutya közös nevezőre hozásának problematikája kapcsán írottak) jutnak eszembe.  
