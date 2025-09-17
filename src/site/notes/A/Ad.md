@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ad/","title":"Ad","created":"2024-11-23T04:59","updated":"2025-06-28T00:01"}
+{"dg-publish":true,"permalink":"/A/Ad/","title":"Ad","created":"2024-11-23T04:59","updated":"2025-09-17T22:27"}
 ---
 
 
@@ -75,24 +75,24 @@ Ahogy CzF az abr elvont gyöknél (mely az abrosz, abroncs gyöke) írja:
 ### Olasz dai és orosz davaj
 
 E két szó rokonnak tűnik. Mintha a szláv szó előbbi széthúzása lenne.  
-
-Valóban, van egy érdekes kapcsolat az orosz `давай` (davaj) és az olasz felszólító módú `dai` között:  
-1. **Orosz "давай" (davaj)**:
-   - **Jelentés**: Oroszul a "давай" kettős célt szolgál:
-     1. A **"давать"** (davat') **felszólító módú** alakja, ami azt jelenti, hogy **"adj!"**. Például:
-        - "Давай пойдём!" (davaj pojdёm!) azt jelenti, hogy **"Menjünk!"**.
-        - "Давай покурим!" (davaj pokurim!) azt jelenti, hogy **"Gyújtsunk rá!"**.
-     2. Emellett **buzdító partikulaként** is működik, hasonlóan az angol **"come on!"** vagy **"go on, then"** kifejezésekhez. Például:
-        - "Давай, садись!" (davaj, sadis'!) azt jelenti, hogy **"Gyere, ülj le!"**
-        - "Давай побыстрее, уже поздно!" (davaj pobystree, uže pozdno) azt jelenti, hogy **"Gyere, siess, már késő van!"**
-
-2. **Olasz "dai"**:
-   - **Jelentés**: Olaszul a **"dai"** a **"dare"** (adni) felszólító módú alakja. Hasonlóan használják a cselekvésre való buzdításra:
-     - "Dai!" azt jelenti, hogy **"Gyere!"** vagy **"Hajrá!"**—egy ösztönzés a folytatásra.
-     - Tehát az orosz és az olasz is osztozik ebben a buzdító szellemben a "davaj" és a "dai" megfelelő alakjaival.
-
-3. **Eredet és hatás**:
-   - Bár a pontos eredet nem biztos, lehetséges, hogy a hasonlóság **latin gyökerekből** ered. Az **"adni"** szónak egy ősi indoeurópai **"da/do"** gyökere van, amely megtalálható a latinban, a görögben, a szlávban, a baltiban, a szanszkritban és a hindiben.  
+> [!details]- &nbsp;
+> Valóban, van egy érdekes kapcsolat az orosz `давай` (davaj) és az olasz felszólító módú `dai` között:  
+> 1. **Orosz "давай" (davaj)**:
+>    - **Jelentés**: Oroszul a "давай" kettős célt szolgál:
+>      1. A **"давать"** (davat') **felszólító módú** alakja, ami azt jelenti, hogy **"adj!"**. Például:
+>         - "Давай пойдём!" (davaj pojdёm!) azt jelenti, hogy **"Menjünk!"**.
+>         - "Давай покурим!" (davaj pokurim!) azt jelenti, hogy **"Gyújtsunk rá!"**.
+>      2. Emellett **buzdító partikulaként** is működik, hasonlóan az angol **"come on!"** vagy **"go on, then"** kifejezésekhez. Például:
+>         - "Давай, садись!" (davaj, sadis'!) azt jelenti, hogy **"Gyere, ülj le!"**
+>         - "Давай побыстрее, уже поздно!" (davaj pobystree, uže pozdno) azt jelenti, hogy **"Gyere, siess, már késő van!"**
+> 
+> 2. **Olasz "dai"**:
+>    - **Jelentés**: Olaszul a **"dai"** a **"dare"** (adni) felszólító módú alakja. Hasonlóan használják a cselekvésre való buzdításra:
+>      - "Dai!" azt jelenti, hogy **"Gyere!"** vagy **"Hajrá!"**—egy ösztönzés a folytatásra.
+>      - Tehát az orosz és az olasz is osztozik ebben a buzdító szellemben a "davaj" és a "dai" megfelelő alakjaival.
+> 
+> 3. **Eredet és hatás**:
+>    - Bár a pontos eredet nem biztos, lehetséges, hogy a hasonlóság **latin gyökerekből** ered. Az **"adni"** szónak egy ősi indoeurópai **"da/do"** gyökere van, amely megtalálható a latinban, a görögben, a szlávban, a baltiban, a szanszkritban és a hindiben.
 
 ### Kivételek
 
@@ -109,4 +109,4 @@ A [[T/Tűz\|tűz]] fogalma kapcsán volt szó arról, hogy nemcsak hímségi leh
 
 ## Átad
 
-Úgy tűnik, [[A/Át\|át]] szavunk, ad szóhoz hasonlóan az At = Atya szóból ered. Ezek szerint átad pleonazmus, hibás használat.
+Úgy tűnik, [[A/Át\|át]] szavunk, ad szóhoz hasonlóan az At = Atya szóból ered. Ezek szerint átad pleonazmus, hibás használat.  
