@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Akkád/","title":"Akkád","created":"2023-10-20T06:53","updated":"2025-06-07T18:46"}
+{"dg-publish":true,"permalink":"/A/Akkád/","title":"Akkád","created":"2023-10-20T06:53","updated":"2025-09-17T22:27"}
 ---
 
 
@@ -25,10 +25,9 @@ Práczki Istvánnál a [[K/KÁD\|Kád]] elem a Dák, Daha nép, a szokásos megf
 De egyébként sem ez a megoldás.  
 
 Az Agade-t mutató kis térkép [[G/Gutium\|Gutium]] címnél is szerepelt.  
-![assets/Akkád_image1.png|invert_dark](/img/user/A/assets/Akk%C3%A1d_image1.png)  
 
 #### Péterfai János írja:
-
+![assets/Akkád_image1.png|right](/img/user/A/assets/Akk%C3%A1d_image1.png)  
 > Vigyázni kell a szumer nevekkel kapcsolatban azért, mert a könyvek gyakran nem választják el a szumer és a szemita, mint az akkád neveket egymástól. Az akkád nyelv irdatlan nagy mennyiségben tartalmaz magyar szavakat, de a szumer istennevek némelyike mintha messzebb állna a magyar nyelvtől, mint az akkád megfelelője. A szumerok szumerul, az akkádok meg szemita nyelven beszéltek, a kettőt nem lenne szabad összekeverni.  
 > Újabban egyes kutatók azt állítják, hogy az akkádok magyar nyelvet beszéltek, sémi nyelvtannal keverve.  
 - Pl. Soproni Szvetlik Ottóra gondolhat Péterfai János.  
