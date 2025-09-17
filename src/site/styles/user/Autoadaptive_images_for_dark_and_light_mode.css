@@ -1,12 +1,13 @@
-.theme-dark img[alt*="invert_dark"] {
-  filter: invert(87.5%);
-  /* mix-blend-mode: screen; */
-}
+/* SINCE THE FOLLOWING IS ADDED TO 'ITS - Image Adjustments by SIRvb-custom.css', to be used with left, right, center paramaters in Reading Mode and Live Preview works with no floater paramaters as well, I can go ahead and comment these out */
+/*.theme-dark img[alt*="invert_dark"] { */
+/*  filter: invert(87.5%); */
+  /*mix-blend-mode: screen;*/
+/*}
 
-.theme-light img[alt*="invert_light"] {
-  filter: invert(90%) sepia(44%) contrast(107%);
-  /* mix-blend-mode: screen; */
-}
+/*.theme-light img[alt*="invert_light"] { */
+/*  filter: invert(90%) sepia(44%) contrast(107%); */
+  /*mix-blend-mode: screen;*/
+/*} */
 
 /* PlantUML rendered images elaborate conversion for dark mode -- now useless as one can set transparent background -- I'll leave it here for reference */
 /* Sok hűhőt okoztam azzal, hogy a GruvBox Light Theme-jének hátteréhez igazítottam a diagramok hátterét (`skinparam backgroundcolor transparent`), majd ennek invertáló plusz sepias megoldását akartam elérni CSS-ben, hogy Dark Theme-ben is beolvadjon a háttérbe: */
