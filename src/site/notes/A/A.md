@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2025-07-12T00:29"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2025-09-19T00:12"}
 ---
 
 
@@ -67,7 +67,7 @@ Megpróbálom egy gyors skiccel felvázolni, miről van szó, de ennél sokkal s
 [[E/Eire\|Eire]] címnél pedig szöveges háttéranyag is szerepel.  
 Az előhang nélküli és előhangos állatnevek kapcsán legutóbb [[U/UR#UR szóval képzett állatnevek\|UR szóval képzett állatnevek]] cím/alcímnél is szóltunk, továbbá lásd még [[T/Teremtő és teremtett#Napistennevek kialakulása más magyar dialektusokban\|napistennevek kialakulása más magyar dialektusokban]] cím/alcímnél írottakat.  
 
-![assets/A_image1.png|invert_dark](/img/user/A/assets/A_image1.png)  
+![assets/A_image1.png|fix_light](/img/user/A/assets/A_image1.png)  
 
 { #d2n56}
 
