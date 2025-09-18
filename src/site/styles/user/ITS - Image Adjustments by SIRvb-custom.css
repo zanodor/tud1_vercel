@@ -128,6 +128,14 @@ span.image-embed:is([src*="#cover"], [src*="#cvr"]) img {
   --image-adj-size-w: 100%;
 }
 
+.image-embed[alt*=wfull]:not([alt*=relative]) {
+  width: 100% !important;
+}
+
+.image-embed[alt*=wfull]:not([alt*=relative]) img {
+  width: 100% !important;
+}
+
 .image-embed[alt][alt*=relative],
 div:not(.image-embed) > img[alt][alt*=relative] {
   --micro: 10%;
@@ -432,17 +440,17 @@ img[alt*=portrait],
   object-fit: cover;
 }
 
-.image-embed[src~="#portrait"] {
+.image-embed[src*="#portrait"] {
   height: var(--small-med);
   width: 40%;
 }
 
-.image-embed[src~="#portrait+small"] {
+.image-embed[src*="#portrait+small"] {
   height: var(--small);
   width: 25%;
 }
 
-.image-embed[src~="#portrait+tall"] {
+.image-embed[src*="#portrait+tall"] {
   height: 500px;
   width: 50%;
 }
