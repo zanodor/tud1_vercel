@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/NU/","title":"NU","created":"2023-11-15T01:36","updated":"2025-05-29T17:33"}
+{"dg-publish":true,"permalink":"/N/NU/","title":"NU","created":"2023-11-15T01:36","updated":"2025-09-18T15:21"}
 ---
 
 
@@ -10,7 +10,8 @@
 > Du a Nap neve. Du-Na szavunk egyszerűen a Nap-Háza. Dana szavunk Da földanya istennő Háza. Tánc esetén a földön dübörgünk, egyes táncfélék esetén, és Danászunk hozzá. Kelta testvér Danu istennőjének neve magyar eredetű, Da a Földanya, Nu a Nő, Danu tehát Föld-Nő, vagyis Földanya.  
 - Péterfai János [[N/Nut\|Nut]] nevének elemzésekor is kimondja, hogy – ahogy alant is szerepel – a Nu = Nő.
 
-[[N/NO\|NO]], azaz hímségi nő, növekszik értelme is van, melyet kifejezni látszik a latin `nuere` = megmozdul, biccent ige is (lásd [[N/Nod\|nod]], [[N/Node\|node]], [[N/Nutation\|nutation]] szavaknál).  
+[[N/NO\|NO]], azaz hímségi nő, növekszik értelme is van, melyet kifejezni látszik a latin `nuere` = megmozdulni, biccenteni ige is (lásd [[N/Nod\|nod]], [[N/Node\|node]], [[N/Nutation\|nutation]] és [[N/Numen\|numen]] szavaknál).  
+
 Varga Zsigmond Az ősmagyar mitológia című könyvének adata szerint a sumér `nu`, `na`, `nam` és `bara` tagadó szócskák. Ezek közül a nu és nam formák az egyszerű tagadást, a bara és a na pedig inkább a tiltást fejezik ki.  
 Másutt nála még `nu` = nincsen, mint a `kur-nu-gi` alvilágnévben.  
 Lásd még hasonló tagadó [[M/MA\|MA]].  
