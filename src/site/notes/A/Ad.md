@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ad/","title":"Ad","created":"2024-11-23T04:59","updated":"2025-09-17T22:27"}
+{"dg-publish":true,"permalink":"/A/Ad/","title":"Ad","created":"2024-11-23T04:59","updated":"2025-09-19T00:11"}
 ---
 
 
@@ -7,10 +7,9 @@
 
 Az Ad ige az [[A/AT\|AT]] (Ata, Atya) lágyult formája. Az Ad, mint hímségi princípium (a férfi illetve a Nap ad), [[A/Adapa\|Adapa]] és [[A/Ádám\|Ádám]] nevében is előfordul, illetve még Fáy Elek A magyarok őshona című könyvének 25. oldaláról származó adata szerint az (alant Magyar Adorján által is érintett) [[A/Adita\|aditák]] mitológiai ősatyjának neve is **Ad**.  
 
-Mellékelve lásd Dr. Gyárfás Ágnes A képjelekről – Tenger – Szabir ország c. könyvéből Labat jelét.  
-![assets/Ad_image1.png|invert_dark](/img/user/A/assets/Ad_image1.png)  
-Gyárfás Ágnes A szakrális nyelv elemei c. az Ősi Gyökér 2008/1. sz. megjelent cikkében is megoszt Labat féle jelet és értetlenkedik a jel és a hozzá kapcsolt hímségi jelentés láttán, mondván, hogy a batyu vagy jel anyaméh jelkép kell legyen.  
-![assets/Ad_image2.jpeg|invert_dark](/img/user/A/assets/Ad_image2.jpeg)  
+Mellékelve lásd Dr. Gyárfás ![assets/Ad_image1.png|right](/img/user/A/assets/Ad_image1.png)  Ágnes A képjelekről – Tenger – Szabir ország c. könyvéből Labat jelét.  
+
+Gyárfás Ágnes A szakrális nyelv ![assets/Ad_image2.jpeg|fix_dark fix_light right|100](/img/user/A/assets/Ad_image2.jpeg)  elemei c. az Ősi Gyökér 2008/1. sz. megjelent cikkében is megoszt Labat féle jelet és értetlenkedik a jel és a hozzá kapcsolt hímségi jelentés láttán, mondván, hogy a batyu vagy jel anyaméh jelkép kell legyen.  
 - [[A/ATA\|ATA]] címhez is bekerült; ott (és [[A/Acsa\|acsa]] címnél) volt szó arról, hogy nőiség is lehet.
 
 #### Péterfai János írja:
