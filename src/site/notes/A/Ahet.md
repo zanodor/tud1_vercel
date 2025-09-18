@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2025-09-18T15:26"}
+{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2025-09-18T15:35"}
 ---
 
 
@@ -40,7 +40,7 @@ Dr. Gyárfás Ágnes az Ősi Gyökér 2010/1-2. sz. közölt Magyar őskutatás 
 \[Hampó József A Kaukázusi juhászkutya ősi pecséthengereken című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében már helyesen téli napfordulósként értékeli.\]  
 
 
-Gyárfás Ágnes említett cikkében szerepel egy másik, Tellóból származó tábla képe is, mely igen valószínűen a [[T/Turul\|Turul]]-madárként megjelenő Napot mutatja a fényhegyek közül kiemelkedve azzal, hogy oroszlánokon állva örökítették meg. Lásd képet csatolva. ![assets/Ahet_image5.png|right](/img/user/A/assets/Ahet_image5.png)  
+Gyárfás Ágnes említett cikkében szerepel egy másik, Tellóból származó tábla képe is, mely igen valószínűen a [[T/Turul\|Turul]]-madárként megjelenő Napot mutatja a fényhegyek közül kiemelkedve azzal, hogy oroszlánokon állva örökítették meg. Lásd képet csatolva. ![assets/Ahet_image5.png|invert_dark right|240](/img/user/A/assets/Ahet_image5.png)  
 (Hasonló a [[J/Janus\|Janus]] címnél szereplő Gilgames ábrázolás. [[J/Janus\|Janus]] címnél ugye a téli napfordulós ábrázolásokról közöltünk képeket. Az kétségtelen viszont, és Gyárfás Ágnes gondolatának helyességét igazolhatná, hogy a jobb oldalon álló kétarcú, [[O/Oannesz\|Oannesz]] címnél kinagyítva adott alak [[J/János\|János]]sága a nyári napfordulóhoz is köthető. Persze a két félév elválasztó pontja lehet nyári és téli napfordulós is.)  
 
 A [[L/LÁN\|LÁN]] címnél taglalt két oroszlán témájához való kapcsolódást se feledjük el.  
@@ -48,7 +48,7 @@ A [[L/LÁN\|LÁN]] címnél taglalt két oroszlán témájához való kapcsolód
 Jelkép-kalendáriumában Jankovics Marcell írja még:  
 > Az őszpont a természet haldoklásának kezdete, Mihály \[ünnepnapja szeptember 29.\] már a tél sötétülő kapujában áll, hogy kezében az ítélet pallosával és az igazság mérlegével fogadja a holtak lelkeit. (A naptári sarokpontok jelképes "[[K/Kapu\|kapu]]", "hegy" neve – lásd a Mérleg-jel mintájául szolgáló \[ahet\] "fényhegy" hieroglifát – és a városkapuk, hegyek Mihálynak, korábban Thot-Mercuriusnak való ajánlása között belátható az összefüggés.)  
 
-![assets/Ahet_image6.jpeg|right](/img/user/A/assets/Ahet_image6.jpeg)  
+![assets/Ahet_image6.jpeg|invert_dark right|228](/img/user/A/assets/Ahet_image6.jpeg)  
 
 [[F/Feltámadás\|Feltámadás]] címnél is szerepelt a Borbola János Az ősi hitvilág ábrázolása című az Ősi Gyökér 2017/3-4. sz. megjelent cikkéből vett, feltehetően a Holtak könyvéből származó, [[I/Ízisz\|Ízisz]]t és [[N/Nephthys\|Nephthys]]t ábrázoló kép, ahol mindenki felemelt kézzel látható. Fent kétszer három majom, középen a [[D/Dzsed\|dzsed]] és a Napkorongot szintén felemelt [[A/Ankh\|ankh]]-karokkal tartó [[A/AN, ÁN\|AN, ÁN]] isten. Mivel kétoldalt a púpok a fényhegyeket illetve [[S/Szümplegádok\|szümplegádok]]at látszanak mutatni, itt a megszülető Napot ünnepelhetik.  
 
@@ -63,12 +63,11 @@ A Jankovics Marcell által látóhatár és fényhegy hieroglifának nevezett ah
 > Az Ahet – Fényhegy név az A-Hét egyiptomi megjelenése. Azt jelenti, hogy "A" isten Hétszeresen ragyog, amit a Fény legmagasabb helyzetére értettek, vagyis a Fény ereje a hegycsúcsok magasságában tündököl.  
 
 Nos, [[H/Hét#Hét csillag\|hét csillag]] cím/alcímnél írottak alapján a hét lehet csillagképre értendő is és így északra (kopt `hit` = észak). Az észak persze nem sokat mond abban az értelemben, hogy a régi felfogás szerint a szemközti (tehát a 6 hónappal korábban vagy későbben látható) csillagképeket összekötötték, viszont az ahet mégiscsak a téli napfordulós Napszületésre kell utaljon.  
-![assets/Ahet_image7.png|invert_dark](/img/user/A/assets/Ahet_image7.png)  
-![assets/Ahet_image8.png|invert_dark](/img/user/A/assets/Ahet_image8.png)  
-Ott ahol a Bakban a szarvasfiú/napgyermek megszületik. És lám, a [[S/Székely-magyar rovásírás#B\|székely-magyar rovásírás B]] betűjének jele egészen ilyen, ahogy a [[M/MAS\|MAS]] címnél látott egyik jel is.  
+
+Ott ahol a Bakban a szarvasfiú/napgyermek megszületik. ![assets/Ahet_image7.png|invert_dark right|144](/img/user/A/assets/Ahet_image7.png)  És lám, a [[S/Székely-magyar rovásírás#B\|székely-magyar rovásírás B]] betűjének jele (![assets/Ahet_image8.png|invert_dark|29](/img/user/A/assets/Ahet_image8.png)) egészen ilyen, ahogy a [[M/MAS\|MAS]] címnél látott egyik jel is.  
 Amennyiben a rovás B felső és alsó szárvégeit vízszintesen összekötnénk, azt a [[L/Lemniszkáta\|lemniszkáta]] címnél látott csokrot kapnánk, melyet a nyári napforduló mellett téli napfordulósként is értelmeztünk.  
 
-Hampó József A Kaukázusi juhászkutya ősi pecséthengereken című az Ősi Gyökér 2012/2-4. sz. megjelent cikkéből a Pritchard James: The Ancient Near East in Pictures. Princeton Univ. Press. 1954. 526. sz. ábra egy részletét mutatom be. ![assets/Ahet_image9.jpeg|right](/img/user/A/assets/Ahet_image9.jpeg)  
+Hampó József A Kaukázusi juhászkutya ősi pecséthengereken című az Ősi Gyökér 2012/2-4. sz. megjelent cikkéből a Pritchard James: The Ancient Near East in Pictures. Princeton Univ. Press. 1954. 526. sz. ábra egy részletét mutatom be. ![assets/Ahet_image9.jpeg|right|350](/img/user/A/assets/Ahet_image9.jpeg)  
 A nála (is) (a fentebbi oroszlánok helyett kutyaként látott/láttatott) két kutyát mint egy szögletes formájú székben egymást keresztezve egymást mutatja be.  
 Kérdés, hogy az Egyiptomban egyértelműen látszó oroszlánokból miért vált (volna) Kutya (mely nevek már a sumér nyelvben is azonos nevűek: az oroszlán a nagy kutya, Ur-Mah). Az évkezdés mikorjainak eltérései adhatják meg erre a választ. Ezen a ponton még a [[S/Szűz csillagkép\|Szűz csillagkép]] címnél írottak (valamint az ott taglalt Szűz és Nagy Kutya közös nevezőre hozásának problematikája kapcsán írottak) jutnak eszembe.  
 Ne feledjük azt sem, hogy a több esetben Szíriusszal azonosított istennők egyik [[L/LÁB\|láb]]ukkal oroszlánon állásról is volt már szó.  
