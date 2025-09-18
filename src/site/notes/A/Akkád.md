@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Akkád/","title":"Akkád","created":"2023-10-20T06:53","updated":"2025-09-17T22:27"}
+{"dg-publish":true,"permalink":"/A/Akkád/","title":"Akkád","created":"2023-10-20T06:53","updated":"2025-09-19T00:13"}
 ---
 
 
