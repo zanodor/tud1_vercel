@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nevel és növel/","title":"Nevel és növel","created":"2025-02-24T19:19","updated":"2025-06-08T01:39"}
+{"dg-publish":true,"permalink":"/N/Nevel és növel/","title":"Nevel és növel","created":"2025-02-24T19:19","updated":"2025-09-18T15:20"}
 ---
 
 
 # Nevel és növel
 
   
-A Czuczor-Fogarasi szótár adata ne- gyökből eredőnek gondolja a nevel, nevelkedik, nevendék (növendék), nő, továbbá a nép, népség szavakat.  
+A Czuczor-Fogarasi szótár adata ne- gyökből eredőnek gondolja a nevel, nevelkedik, nevendék (növendék), `nő`, továbbá a `nép`, népség szavakat.  
 
 Azért is kerültek egymás mellé, mert úgy tűnik, hogy `nevel` annyi mint `növel`. Nevelni nem azt jelenti, hogy névvel látom el, hanem azt, hogy teszek arról, hogy nőjön, testileg, lelkileg, szellemileg.  
 
@@ -38,4 +38,11 @@ Vesd össze az alábbiakat:
 - északi-lapp `áhkká` = nagyanya – svéd `öka` = nevel, emel.
 
 A svéd szó indoeurópai párjait és egyáltalán a kapcsolat lehetőségét [[E/Ég#Ég(anya) és (égbe) emel, növel kapcsolata\|ég(anya) és (égbe) emel, növel kapcsolata]] cím/alcímnél taglaljuk.  
+
+## Növel és emel
+
+A svéd `öka` úgy aránylik az istenség lakhelyére utaló `ég` szóhoz, ahogy különböző igék más, istenre utaló szóalakjaihoz.  
+Vö. [[N/Numen\|numen]] és `nuere` = mozogni, ahol `nő` igénk mutatkozik meg, de a `növ` lehet `Nap` is és a napvallások idején a Nap legmagasabb állása volt az a pont, ahol Istent (vö. [[K/Kutya\|Ku-Ta]] és [[K/Khuda\|Khoda]]/[[G/God\|God]]) elképzelték (a fiú isten lett a főisten).  
+Ugyanígy az [[E/EL\|EL]] ([[E/ÉL\|Él]]) istennévhez is kapcsolódik a magas(ra mozgás) ideája: sumér `IL` = magas; felemelkedni, héber `עוֹלָה` (`olá`) = ami felszáll, és latin `elatus` = emelkedett, magas, magasztos.  
+
 Lásd még [[E/EM#Emel\|emel]].  
