@@ -320,13 +320,20 @@ img[alt*="p+bcc"], .image-embed[src*="#p+bcc"] img {
   object-position: 50% 90%;
 }
 
+
 /*Invert Colors*/
 .theme-dark img[alt*="invert_dark"], .theme-dark .image-embed[src*="#invert_dark"] {
   filter: invert(87.5%);
 }
 
-.theme-light img[alt*="invert_light"], .theme-light .image-embed[src*="#invert_light"] {
+.theme-light img[alt*="invert_light"]:not([alt*="invert_dark"]),
+.theme-light .image-embed[src*="#invert_light"]:not([src*="#invert_dark"]) {
   filter: invert(90%) sepia(44%) contrast(107%);
+}
+
+.theme-light img[alt*="invert_dark"][alt*="invert_light"],
+.theme-light .image-embed[src*="#invert_dark"][src*="#invert_light"] {
+  filter: sepia(90%) hue-rotate(-10deg) saturate(230%) brightness(0.96) contrast(1.0);
 }
 
 img:is([alt*=flip-x],
