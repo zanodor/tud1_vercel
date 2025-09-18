@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/EM/","title":"EM","created":"2023-11-09T03:57","updated":"2025-07-03T01:19"}
+{"dg-publish":true,"permalink":"/E/EM/","title":"EM","created":"2023-11-09T03:57","updated":"2025-09-18T15:20"}
 ---
 
 
@@ -18,7 +18,7 @@ A földanya, másképpen a sárbolygó és a [[S/Sár\|sár]] = anyag neve, ahog
 ### Emel
 
 Az [[E/Emlék\|emlék]] szónál is említett `emel` ige gyökeleme is em-. Akkor az anya itt is lehet éganya (lásd hasonló témát [[A/Anya#Ég(anya) és föld(anya)\|ég(anya) és föld(anya)]]), és ez esetben EM = sumér `AN` = ég (lásd [[A/AN, ÁN\|AN, ÁN]]).  
-Lásd még a témáról [[N/Nevel és növel\|nevel és növel]].  
+Lásd még a témáról [[N/Nevel és növel#Növel és emel\|növel és emel]].  
 
 ### Említ
 
