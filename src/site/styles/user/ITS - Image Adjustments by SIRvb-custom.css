@@ -321,18 +321,18 @@ img[alt*="p+bcc"], .image-embed[src*="#p+bcc"] img {
 }
 
 
-/*Invert Colors*/
-.theme-dark img[alt*="invert_dark"], .theme-dark .image-embed[src*="#invert_dark"] {
+/*Fix (formerly only Invert) Colors*/
+.theme-dark img[alt*="fix_dark"], .theme-dark .image-embed[src*="#fix_dark"] {
   filter: invert(87.5%);
 }
 
-.theme-light img[alt*="invert_light"]:not([alt*="invert_dark"]),
-.theme-light .image-embed[src*="#invert_light"]:not([src*="#invert_dark"]) {
+.theme-light img[alt*="fix_light"]:not([alt*="fix_dark"]),
+.theme-light .image-embed[src*="#fix_light"]:not([src*="#fix_dark"]) {
   filter: invert(90%) sepia(44%) contrast(107%);
 }
 
-.theme-light img[alt*="invert_dark"][alt*="invert_light"],
-.theme-light .image-embed[src*="#invert_dark"][src*="#invert_light"] {
+.theme-light img[alt*="fix_dark"][alt*="fix_light"],
+.theme-light .image-embed[src*="#fix_dark"][src*="#fix_light"] {
   filter: sepia(90%) hue-rotate(-10deg) saturate(230%) brightness(0.96) contrast(1.0);
 }
 
