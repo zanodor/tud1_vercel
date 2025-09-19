@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2025-06-13T20:55"}
+{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2025-09-20T01:57"}
 ---
 
 
@@ -14,11 +14,10 @@ Perzsa nyelven `asb` = ló. `Aspa` ló aveszta nyelvben, `asp` a pahlaviban, az 
 Előjönni látszik egy bizonyos perzsa **Visasp** tűzmágus nevében, kit Ipolyi Arnold Magyar mythologia című könyvének 251. oldala alján említ, az [[A/Arimaszpa\|arimaszposz]] névben, valamint az Oláh Imre Ősi jelképiség c. az Ősi Gyökér 2011/4. sz. megjelent cikkében Denkarttól idézett, Feridunra vonatkoztatott **Aspigan** névben.  
 
 Lehet viszont csillagászati név is, annál is inkább, mert a talán hun-magyar eredetű holdház/[[N/Nakshatra\|nakshatra]], Ashvini nevében is megvan. Ashvinit az Ashvinok feleségének tartják, minthogy az -i végződés (inkább -ni = né, mint a Tilak által adatolt Indrani névben) nőiséget jelent. Az Ashvin Ős-Fény, Ász-Fény lehet, és lófejű ikrekre utal (ennek ellenére mégsem az [[I/Ikrek csillagkép\|Ikrek csillagkép]]hez tartozó holdház, ahogy a mellékelt képen is látni, és nyilván nem a precesszió miatt).  
-![assets/Asb_image1.png|invert_dark](/img/user/A/assets/Asb_image1.png)  
-![assets/Asb_image2.jpeg|invert_dark](/img/user/A/assets/Asb_image2.jpeg)  
- 
-[[A/Agni\|Agni]]ról szólva, [[J/Janus\|Janus]] címnél írottak szerint kiderül, hogy a (zoroasztriánus Iránhoz hasonlóan; lásd [[T/Tavaszi évkezdés\|tavaszi évkezdés]]) Kossal szokták kezdeni az évet.  
-[Ezen](https://en.m.wikipedia.org/wiki/List_of_Nakshatras) oldal adatai alapján pedig az derül ki, hogy Indiában a [[B/Bárány\|bárány]] szavunkkal azonos Bharani viszont már nem a kezdő nakshatra, mert a szintén kettős, Ikrekből Kosba valamiféleképpen átkerült Ashvini lett az első, míg Bharani a második helyre szorult. Hogy hogyan került a lófejű ikerpár a tavaszi évkezdő helyre, nos, talán az lehet, hogy elfeledték Agni bárányságát/kétfejűségét, vagy valószínűbben a valaha évkezdő Ikrek (Tilak Orionjából is ismerjük a nyári évkezdést) emlékének adózva átmentették. ([[T/Tavaszi évkezdés\|Tavaszi évkezdés]] címhez is betéve.)  
+![assets/Asb_image1.png|fix_dark fix_light|780](/img/user/A/assets/Asb_image1.png)  
+
+[[A/Agni\|Agni]]ról szólva, [[J/Janus\|Janus]] címnél írottak szerint kiderül, hogy a (zoroasztriánus Iránhoz hasonlóan; lásd [[T/Tavaszi évkezdés\|tavaszi évkezdés]]) Kossal szokták kezdeni az évet. ![assets/Asb_image2.jpeg|fix_dark fix_light right|300](/img/user/A/assets/Asb_image2.jpeg)  
+[Ezen](https://en.m.wikipedia.org/wiki/List_of_Nakshatras) oldal adatai alapján pedig az derül ki, hogy Indiában a [[B/Bárány\|bárány]] szavunkkal azonos Bharani viszont már nem a kezdő nakshatra, mert a szintén kettős, Ikrekből Kosba valamiféleképpen átkerült Ashvini lett az első, míg Bharani a második helyre szorult. Hogy hogyan került a lófejű ikerpár a tavaszi évkezdő helyre, nos, talán az lehet, hogy elfeledték Agni bárányságát/kétfejűségét, vagy valószínűbben a valaha évkezdő Ikrek (Tilak Orionjából is ismerjük a nyári évkezdést) emlékének adózva átmentették.   
 
 Hogy most valójában az Asva vagy az Asvin a kiinduló szó, nehéz megmondani, de nyilván – egészen biztosan – asztrális kifejezésről van szó és a [[L/Ló\|ló]] szavunk is fény értelmű és [[G/Göd\|Göd]] címnél írottak alapján a Tejútra vonatkozik.  
 Lehetséges, hogy a bővítményesként megjelenő adatot, a többes számot vette át az ind, aztán abból lett utána `asva`, az óperzsa `aspa` és a perzsában `asb`. De Ashvini Ász-Fény olvasata mellett [[O/Ösvény\|ösvény]] is lehetne, mivel a Tejút sávja is ott van.  
