@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aszklépiosz/","title":"Aszklépiosz","tags":["Englishtexttranslated"],"created":"2024-05-15T17:34","updated":"2025-08-19T00:53"}
+{"dg-publish":true,"permalink":"/A/Aszklépiosz/","title":"Aszklépiosz","tags":["Englishtexttranslated"],"created":"2024-05-15T17:34","updated":"2025-09-20T01:59"}
 ---
 
 
@@ -7,8 +7,7 @@
 
 Aszklépiosz \[görög neve: Ἀσκληπιός\] a gyógyítás félistene. Nem más, mint Imhotep, aki sokkal régebbi, mint Aszklépiosz.  
 
-![assets/Aszklépiosz_image1.png|invert_dark](/img/user/A/assets/Aszkl%C3%A9piosz_image1.png)  
-Egy botra tekeredő kígyó a jelképe, aminek görög magyarázata téves. Állítólag a kígyók magyarázták meg a növények hatóanyagait. Valójában a botra tekeredő kígyó a [[T/Tejút\|Tejút]] jelképe, [[T/Thot\|Thot]] isten tudása. Maga Thot isten neve is a Teut magyar formából ered.  
+Egy botra ![assets/Aszklépiosz_image1.png|fix_dark fix_light right|85](/img/user/A/assets/Aszkl%C3%A9piosz_image1.png)tekeredő kígyó a jelképe, aminek görög magyarázata téves. Állítólag a kígyók magyarázták meg a növények hatóanyagait. Valójában a botra tekeredő kígyó a [[T/Tejút\|Tejút]] jelképe, [[T/Thot\|Thot]] isten tudása. Maga Thot isten neve is a Teut magyar formából ered.  
 Lentebbi passzusban még előjön Thot és Aszklépiosz együtt említve.  
 Lásd még [[C/Caduceus\|caduceus]], [[O/Ouroboros\|ouroboros]], stb.  
 
