@@ -99,7 +99,7 @@
 /* Content size revamp */
 
 body {
-  --file-line-width: 760px;
+  --file-line-width: 780px;
   --font-text-size: 20px;
 }
 
@@ -107,5 +107,6 @@ body {
   max-width: var(--file-line-width) !important;
   font-size: var(--font-text-size) !important;
   margin-left: calc(50% - (var(--file-line-width) / 2) - 40px) !important;
-  margin-right: auto !important;
+
+  padding-right: 40px !important;
 }
