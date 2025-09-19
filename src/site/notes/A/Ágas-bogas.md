@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ágas-bogas/","title":"Ágas-bogas","created":"2023-10-22T02:40","updated":"2025-09-19T21:37"}
+{"dg-publish":true,"permalink":"/A/Ágas-bogas/","title":"Ágas-bogas","created":"2023-10-22T02:40","updated":"2025-09-20T02:00"}
 ---
 
 
@@ -28,7 +28,7 @@
 A [[S/Szarvas\|szarvas]]ság[^1] (bundája pettyein kívül: lásd új Magyar Adorján féle adatokkal [[S/Sika\|sika]]) egyik lényege ugyanis az agancs-[[K/Korona\|koroná]]ja. A Napfogyatkozásoknál vizsgált Napkitörések illetve a Napkorona igen hasonlók az alábbi rajzokhoz (már ami a kicsapódásokat illeti).  
 Őseinek gondolkodásában mindig ilyen analógiákat kell keresni. Ezt Magyar Adorján is jól tudta.  
 
-Érdekes analógiát sikerült ![assets/Ágas-bogas_image3.png|fix_dark fix_light right|350](/img/user/A/assets/%C3%81gas-bogas_image3.png)  felfedezni a lengyel nyelvben. A mai lengyelben ugyan a `wół` = ökör többese `woły`, de [ezen](https://commons.wikimedia.org/wiki/File:Bronze_oxen,_Bytyn.jpg) oldalon a lengyel Wołki z Bytynia szókapcsolatban az előrész egy k-t is tartalmaz, mely szó egyezik a lengyel `wołki` = zsizsi szóval is, mely rovaroknak szintén van szarva, ahogy a szarvasmarhának is.  
+Érdekes analógiát sikerült ![assets/Ágas-bogas_image3.png|fix_dark fix_light right|300](/img/user/A/assets/%C3%81gas-bogas_image3.png)  felfedezni a lengyel nyelvben. A mai lengyelben ugyan a `wół` = ökör többese `woły`, de [ezen](https://commons.wikimedia.org/wiki/File:Bronze_oxen,_Bytyn.jpg) oldalon a lengyel Wołki z Bytynia szókapcsolatban az előrész egy k-t is tartalmaz, mely szó egyezik a lengyel `wołki` = zsizsi szóval is, mely rovaroknak szintén van szarva, ahogy a szarvasmarhának is.  
 A lengyel `wilk` = farkas is hasonló alakú szó, mely persze inkább [[F/Falka\|falka]] és [[F/Farkas\|farkas]] szavunkkal azonosul.  
 A lengyel `wielka` = nagy melléknév is nyilván [[B/Bél\|Bél]] nevéből ered.  
 
