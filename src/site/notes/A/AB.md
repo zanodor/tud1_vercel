@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/AB/","title":"AB","tags":["Englishtexttranslated"],"created":"2023-10-20T05:11","updated":"2025-09-19T00:11"}
+{"dg-publish":true,"permalink":"/A/AB/","title":"AB","tags":["Englishtexttranslated"],"created":"2023-10-20T05:11","updated":"2025-09-20T01:59"}
 ---
 
 
@@ -27,8 +27,8 @@ Vízszintre utaló `apad` szavunkat (a víz mindig a legalsó helyet keresi) ugy
 
 Az AB ház jelentéséről [[H/Hab\|hab]] címnél is volt szó. Ott is szerepelt Rasmus Bjørn Foreign elements in the Proto-Indo-European vocabulary című írásának 67-68. oldaláról való adata; hasonló hehes (nem víz hanem) folyó jelentésű szavakat hoz fel[^2]; a víz és a folyó értelmek nem összeegyeztethetetlenek, sőt fentebb Péterfai János ilyen szinonim jelentéseket is megad.  
 
-![assets/AB_image1.png|fix_light](/img/user/A/assets/AB_image1.png)  
-![assets/AB_image2.png|fix_light](/img/user/A/assets/AB_image2.png)  
+![assets/AB_image1.png|fix_dark fix_light|550](/img/user/A/assets/AB_image1.png)  
+![assets/AB_image2.png|fix_dark fix_light|550](/img/user/A/assets/AB_image2.png)  
 [Ezen](https://qr.ae/pNzgNw) Quora oldalon egy jó táblázat szerepel, nemcsak vizet jelentő román szóval.  
 
 AB az [[A/Aba\|aba]] és [[A/Abu\|abu]] szavakban alkotóelem, így Ábrám/[[A/Ábrahám\|Ábrahám]] nevében is ez van meg (vagy Eb).  
