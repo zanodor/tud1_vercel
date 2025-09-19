@@ -239,6 +239,22 @@ img:is([alt*=ctr], [alt*=center]) {
   margin-right: auto !important;
 }
 
+/*Reading Mode support again had to be added by me*/
+
+.image-embed[alt*=center],
+.image-embed[alt*=ctr] {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.image-embed[alt*=center] img,
+.image-embed[alt*=ctr] img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
 /*Left & Right*/
 .markdown-rendered img:is([alt*=left], [alt*=locl]), .markdown-rendered img:is([src*="#left"], [src*="#locl"]), .markdown-rendered .image-embed:is([alt*=left], [alt*=locl]), .markdown-rendered .image-embed:is([src*="#left"], [src*="#locl"]) {
   float: left;
@@ -252,6 +268,22 @@ img:is([alt*=ctr], [alt*=center]) {
   margin-left: 2%;
   margin-bottom: 0px;
   float: inline-end;
+}
+
+/* Increase specificity to override .internal-embed rules */
+.internal-embed.image-embed[alt*=right],
+.internal-embed.image-embed[alt*=right] img {
+  float: right !important;
+  margin-left: 2% !important;
+  margin-bottom: 0px !important;
+}
+
+.internal-embed.image-embed[alt*=left],
+.internal-embed.image-embed[alt*=left] img {
+  float: left !important;
+  margin-right: 2% !important;
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
 }
 
 /*--Image Position--*/
