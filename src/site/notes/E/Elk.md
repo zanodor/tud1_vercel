@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/E/Elk/","title":"Elk","tags":["Englishtexttranslated"],"created":"2023-10-11T04:43","updated":"2025-06-07T22:58"}
+{"dg-publish":true,"permalink":"/E/Elk/","title":"Elk","tags":["Englishtexttranslated"],"created":"2023-10-11T04:43","updated":"2025-09-19T17:30"}
 ---
 
 
 # Elk
 
-Az európai [[J/Jávor\|jávor]]szarvas neve angolul (az amerikai neve [[M/Moose\|moose]]). Lásd [[O/Oak\|oak]] szóval való hasonlóságát (a két dolog egymással [[A/Ágas\|ágas]] szavunk nyomán megfeleltehető, sőt, az ónorvég `eik` = (tölgy)fa is hasonló ezen szóhoz). Viszont alant látjuk, hogy az [[A/Ág\|ág]] > [[E/Ég\|ég]] > eik > elk levezetésen kívül másképp is értelmezhető.  
+Az európai [[J/Jávor\|jávor]]szarvas neve angolul (az amerikai angol neve [[M/Moose\|moose]]). Lásd [[O/Oak\|oak]] szóval való hasonlóságát (a két dolog egymással [[A/Ágas\|ágas]] szavunk nyomán megfeleltehető, sőt, az ónorvég `eik` = (tölgy)fa is hasonló ezen szóhoz). Viszont alant látjuk, hogy az [[A/Ág\|ág]] > [[E/Ég\|ég]] > eik > elk levezetésen kívül másképp is értelmezhető.  
 
 #### Magyar Adorján írja:
 
