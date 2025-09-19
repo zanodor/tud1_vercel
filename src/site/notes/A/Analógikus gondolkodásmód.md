@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Analógikus gondolkodásmód/","title":"Analógikus gondolkodásmód","created":"2024-05-08T13:56","updated":"2025-08-27T02:46"}
+{"dg-publish":true,"permalink":"/A/Analógikus gondolkodásmód/","title":"Analógikus gondolkodásmód","created":"2024-05-08T13:56","updated":"2025-09-19T17:20"}
 ---
 
 
@@ -15,7 +15,7 @@
 >
 > A megszokott tudományos gondolkodásmód mindig lineáris és kauzális (ok-okozati) a formális látható valóság meghatározott szintjein mozog. Ezért nevezhetjük vízszintes gondolkodásmódnak.  
 > A másik gondolkodásmód az analógiák törvényén alapul. Az analógikus gondolkodásmód függőlegesen fűzi össze a hasonlót a hasonlóval. Az analógia nem ok – okozati összefüggést ír le, hanem mindig, amikor kérdésre ad választ.  
-> ![assets/Analogikusgondolkodásmód_image1.png|invert_dark](/img/user/A/assets/Analogikusgondolkod%C3%A1sm%C3%B3d_image1.png)  
+> ![assets/Analogikusgondolkodásmód_image1.png|wfull](/img/user/A/assets/Analogikusgondolkod%C3%A1sm%C3%B3d_image1.png)  
 > A bal agyfélteke értelmen alapuló gondolkodás, ami racionális az vízszintes gondolkodásmód, férfias jellegű (tudományos). A jobb agyféltekés gondolkodás, amely intuitív, az függőleges gondolkodásmód, nőies princípium (művészi). A bal agyfélteke beszél a logikus nyelven (amit a jobb oldali teremtett) így nehéz leírnia a jobb oldali tartalmakat.  
 > Egy példával illusztrálom a két gondolkodásmód közötti különbséget: "Azért fogyott ki a víz a tartályból, mert a vízszintjelző nullára állt (vízszintes gondolkodásmód) vagy "Amíg a víz elfogyott a vízszintjelző nullára állt." (függőleges gondolkodásmód).  
 > Összefoglalva a világ megismerésének módszertani különbségeit a tudomány analizál (szétválaszt, keresi a különbséget), - az ezoteria, a művészet szintetizál (egységet teremt, keresi a hasonlóságot). A vízszintes gondolkodásmód ok-okozati láncolattal keres, - a függőleges analógiákkal (a hasonlók egybefűzésével).  
