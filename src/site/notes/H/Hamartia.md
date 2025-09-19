@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hamartia/","title":"Hamartia","tags":["containscallouts","Englishtexttranslated"],"created":"2025-09-19T16:11","updated":"2025-09-19T16:12"}
+{"dg-publish":true,"permalink":"/H/Hamartia/","title":"Hamartia","tags":["containscallouts","Englishtexttranslated"],"created":"2025-09-19T16:11","updated":"2025-09-19T18:10"}
 ---
 
 
@@ -79,6 +79,7 @@ Az [alábbi](https://qr.ae/pNr19s) Quora oldalra érkezett válaszban is szerepe
 
 Amikor Szécsi Leventének válaszként YouTube-felületre kommentben írtam, annak során érdekes beszélgetés alakult ki:  
 > [!details]- &nbsp;
+> 
 > > [!|noicon]
 > > > [[B/Bűn\|Bűn]] szavunknak nincs köze a bön valláshoz. A bűn szavunk alanyi jogú és ősibb, a magyar nyelv alaprétegéhez tartozhat, hiszen évköri értelme van. A bűn a [[B/Buta\|buta]] és [[S/Sötét\|sötét]] szavak szinonimájaként az árnyékos félévre és annak kezdőpontjára utal. (Az angol [[S/Sin\|sin]] = bűn is – nyilván latin úton – a sinylődik, senyved, szenved fényhiányos értelmeket fedi fel.)  
 > > 
