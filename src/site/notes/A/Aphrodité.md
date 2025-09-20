@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aphrodité/","title":"Aphrodité","tags":["Englishtexttranslated"],"created":"2025-07-29T22:30","updated":"2025-07-29T22:31"}
+{"dg-publish":true,"permalink":"/A/Aphrodité/","title":"Aphrodité","tags":["Englishtexttranslated"],"created":"2025-07-29T22:30","updated":"2025-09-20T02:01"}
 ---
 
 
@@ -33,9 +33,9 @@ Falvay Károly Nagyboldogasszony című könyvének 279-281. oldalán tárgyalja
 - Aphrodité lehet Afar-Avar szerű név, sőt, mivel a Vénusz istenségek eredetileg Szíriusszal voltak azonosultak, ahogy [[I/Istár\|Istár]] és [[A/Anahita\|Anahita]] esetében is láttuk, nem kizárt, hogy itt is erről lehet szó; azaz a fentebb már pedzegetett Hab-Úr/Eb-Úr lehet az előrész és Disz/Tisz lehet az utórész. Az [[A/Afrika\|Afrika]] címnél taglalt vadkan is stimmel, kan szempontból, de a vadkan állatot jelképként a Mars kapta, mely [[R/Rudra\|Rudrá]]nál írottak szerint is lehet Szíriusz bolygó-megfelelője (nyáron). Ha pedig disznóról ([[E/Emse\|Emse]] is a Szíriusz Eme és Ama nevéhez tartható) van szó, akkor sincs probléma.
 
 Ugyebár Aphrodité azonosítása Szíriusszal azért is indokolt, mert Aphrodité nemcsak szerelemistennő, hanem a háború istennője is. Neve pedig nem Vénuszra, hanem Szíriuszra utal.  
-![assets/Aphrodité_image1.jpeg|invert_dark](/img/user/A/assets/Aphrodit%C3%A9_image1.jpeg)  
+
 A mellékelt kép Merlin Stone When God Was a Woman című könyvéből való, az alábbi képaláírással:  
-> Ritual cymbal in hand, Aphrodite, as she was known in Thapsus, Carthage, during the Roman period. Though generally designated as the Goddess of Love, Aphrodite was also revered as a battle goddess and Mother of All Deities.  
+> Ritual ![assets/Aphrodité_image1.jpeg|fix_dark fix_light right|135](/img/user/A/assets/Aphrodit%C3%A9_image1.jpeg)cymbal in hand, Aphrodite, as she was known in Thapsus, Carthage, during the Roman period. Though generally designated as the Goddess of Love, Aphrodite was also revered as a battle goddess and Mother of All Deities.  
 > —  
 > Aphrodité rituális cimbalommal a kezében, ahogyan a római korban Thapsusban, Karthágóban ismerték. Bár Aphroditét általában a szerelem istennőjeként jelölték, harcistennőként és minden istenség anyjaként is tisztelték.  
 
