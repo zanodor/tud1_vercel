@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-31T06:45","updated":"2025-07-14T17:43"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-31T06:45","updated":"2025-09-20T02:20"}
 ---
 
 
@@ -49,11 +49,10 @@ Tény, hogy...
 
 #### William F. Warren Paradise Found...
 
-...című könyvében is említi a Bharata nevet (képet lásd [[M/Mahabharata\|Mahabharata]]):  
-> First, of course, we come to the Himalaya range, the Himavat of Indian geography. All that portion of the earth lying between this mountain range and the great ocean to the South constitutes one of the seven, or nine, varshas, or divisions of the habitable (upper) hemisphere. Its name is **Bharata**.  
+...című könyvében is említi a Bharata nevet:  
+> First, ![assets/Barát_image1.png|fix_dark fix_light right|240](/img/user/B/assets/Bar%C3%A1t_image1.png)of course, we come to the Himalaya range, the Himavat of Indian geography. All that portion of the earth lying between this mountain range and the great ocean to the South constitutes one of the seven, or nine, varshas, or divisions of the habitable (upper) hemisphere. Its name is **Bharata**.  
 > —  
-> Először természetesen a Himalája hegyvonulatához, az indiai földrajz Himavatjához érkezünk. A Földnek az e hegyvonulat és a déli nagy óceán között fekvő része alkotja a hét vagy kilenc varsa, vagyis a lakható (felső) félteke egyikét. A neve **Bharata**.
-> ![assets/Barát_image1.png|invert_dark](/img/user/B/assets/Bar%C3%A1t_image1.png){ #rhwol}
+> Először természetesen a Himalája hegyvonulatához, az indiai földrajz Himavatjához érkezünk. A Földnek az e hegyvonulat és a déli nagy óceán között fekvő része alkotja a hét vagy kilenc varsa, vagyis a lakható (felső) félteke egyikét. A neve **Bharata**.  { #rhwol}
 
 
 Bakos Attila A Duna Evangéliuma című könyvének 273. oldalán azt írja, hogy még ma is Baratának hívják országukat a hinduk! Ez lehet, hogy így nem pontos, ugyanis a Quorán ezen (If Tamil is the oldest language in the world, then why doesn't it contain any name for our country? In Sanskrit, we call it "Bharat") kérdésre adott válaszok között szemezgetve az látszik kiderülni, hogy ez a szanszkrit neve (bár a hindu és a szanszkrit nem zárja ki egymást) és a tamilban is megvan. [Ezen](https://qr.ae/pNsxli) válaszban Mohan nevű válaszadó például az érdekes **Bharathavar** nevet is említi, mely tamil nyelven (hozzákapcsolt) "tengerész", "halászó" jelentésekkel áll. Ez megint azt bizonyítja, hogy a tamil csak átvette a szanszkrit szót, hiszen a tamilok, ahogy többen jól rámutattak, dél-indiaiak, míg a barathák észak-indiaiak voltak. Ez összevág Aradi Éva kutatásaival is.  
