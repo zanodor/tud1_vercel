@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2025-09-20T02:11"}
+{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2025-09-20T14:10"}
 ---
 
 
@@ -65,7 +65,7 @@ A 373. oldalon írja:
 
 Majd eztán írja:  
 > Az anyaistennők között fennálló közös képzet-alapot csak az időszak természeti tulajdonságainak azonos szimbólumaiban kereshetjük. Az időszak az aratás, a gyümölcsök, a termés beérésének, az életadó élelem biztosításának az időszaka. Az antikvitásban mindezt egyik oldalról az [[O/Oroszlán csillagkép\|Oroszlán csillagkép]] férfierővel azonos megjelenése fogalmazta meg, amit a Kutya csillagképek megjelenése kísért. A "[[C/Canicular\|kánikula]]" latin kifejezés mai napig ismerős nyelvünkben, ami a kutyák "tüzelését" jelenti, azaz jelzi a nagy meleg megérkezését. Ugyane képzetekből eredően az időszak tulajdonságát a Nap határozza meg a napszak (és nem az évszak) felének világosság tartományában. Ez a jelenség maga után vonja a nap csökkenő fényű, azaz sötétségbe hajló felének második augusztusi időszakában az uralkodó megjelenésű telihold hasonló mértékű teremtő tiszteletét. A Nap és a Hold együttes, párhuzamos alakzatú látványa fogalmazza meg ugyanis az emberi létezés szimbólumát, amelynek a férfi mellett az asszony a működést felmutató teremtő letéteményese. Kybele istenasszonyt ezért ábrázolják oroszlánnal az ölében, vagy azon állva, vagy oroszlánok vontatott kocsin. Keresztény képzetekben ugyanez a képzet az anya és ölében a fiúgyermek látványa. Középkori ábrázoláson Szűz Mária is oroszlános trónon ül.  
-> ![assets/Augusztustizenot_image1.png|fix_dark fix_light|780](/img/user/A/assets/Augusztustizenot_image1.png)  
+> ![assets/Augusztustizenot_image1.png|fix_dark fix_light|840](/img/user/A/assets/Augusztustizenot_image1.png)  
 - [[U/Urgula\|Urgula]] címhez is bekerült, de a kép nem.
 
 A Nagy Kutyánál és Szíriusznál maradva, a kínai kultúrkörben a Kutyacsillag Szíriusz illetve **Pan-Hu kapcsán is előkerül a nyolcadik hold(hónap)**, és annak furcsasága is, hogy most akkor mikor is kezdődött az év.  
@@ -99,7 +99,7 @@ Falvay Károly Nagyboldogasszony című könyvének 382. oldalán is szól a [[S
 
 A telihold ünnepek matriarchális ünnepek voltak eredetileg, ez egyértelmű. Olyannyira igaz ez a kijelentés, hogy maga az [[I/Idő\|idő]] fogalma is az Istenanyához tartozik. Ezért van az, hogy az [[A/Annual\|annual]] címnél taglalt latin `annus` = év az anya/anyus szavunkból ered és vélhetően az ősanyát jelentő [[E/Edda\|Edda]] is [[I/Idő\|idő]] szavunkból ered, ahogy [[E/Éva\|Éva]] az [[E/Év\|év]] szavunkkal mutat kapcsolatot. És ha már augusztus 15., lásd legutóbb (a szintén idő szavunkból eredő) [[I/Idus\|idus]] címnél írottakat is.  
 
-![assets/Augusztustizenot_image2.jpeg|fix_dark fix_light|780](/img/user/A/assets/Augusztustizenot_image2.jpeg)  
+![assets/Augusztustizenot_image2.jpeg|fix_dark fix_light|840](/img/user/A/assets/Augusztustizenot_image2.jpeg)  
 Végh Tibor korona-kutató Megszólalt a Szent Korona című az Ősi Gyökér 2018/1-2. sz. megjelent cikkében (is) említi a Korona u.n. "Boldogasszony-központúságát":
 > Ami a zománcképek névünnepi dátumaiból vett naptári időadatok alapján kialakuló évköri rendszerben augusztus 15-ére, Nagyboldogasszony napjára mutat. De **augusztus 15-e egyúttal a január 1.-jével kezdődő év aranymetszési pontja** is! (365 x 0,618034 = 225,6 és január 01. → augusztus 15. = 226 nap.) Márpedig az aranymetszés a műben – Einstein szerint is – elősegíti a jó létrejöttét és kizárja a rosszét. Lásd az 1. sz. ábrát.  
 
