@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BAD/","title":"BAD","created":"2024-10-29T16:18","updated":"2025-09-20T02:17"}
+{"dg-publish":true,"permalink":"/B/BAD/","title":"BAD","created":"2024-10-29T16:18","updated":"2025-09-20T14:11"}
 ---
 
 
