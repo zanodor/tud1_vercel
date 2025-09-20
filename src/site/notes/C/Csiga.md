@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csiga/","title":"Csiga","created":"2023-11-18T09:03","updated":"2025-01-22T16:44"}
+{"dg-publish":true,"permalink":"/C/Csiga/","title":"Csiga","created":"2023-11-18T09:03","updated":"2025-09-20T23:50"}
 ---
 
 
@@ -30,13 +30,12 @@ Magyar Adorján [[P/Polip\|polip]] címnél említi csiga szavunkat hangalaki le
 > A nyári időszakban a csigavonal sűrűbb formában rajzolódott ki, a téli időszakban kicsit lazább csigaformák jelentek meg. A Nap útja tehát tudományosan is bizonyítva, egy sokszoros spirál, azaz egy csigavonal. Ha ez a forma kicsi, inkább kezdeményszerű, akkor csírának nevezzük, mint tavasszal a föld alól kibújó kis növényeket. A kalocsai asszonyok hímzéseiken ezt karikónak hívják. A Nap útja tehát a nyári és téli napforduló idején csiga-vonalat ír le.  { #gscxfn}
 
 
-Molnár V. József Világ-Virág című könyvének 94. oldaláról való a [[S/Spiral\|spiral]] címhez is betett két kép.  
-![assets/Csiga_image1.jpeg|invert_dark](/img/user/C/assets/Csiga_image1.jpeg)  
+![assets/Csiga_image1.jpeg|fix_dark fix_light right|100](/img/user/C/assets/Csiga_image1.jpeg)Molnár V. József Világ-Virág című könyvének 94. oldaláról való a [[S/Spiral\|spiral]] címhez is betett két kép.  
 [[R/Rózsa#Forgórózsa\|Forgórózsa]] cím/alcímnél is szerepeltek más hasonló adatai.  
 Dr. Kovács Sándor Gán.Muš – a kígyó kertje avagy a sötétség című az Ősi Gyökér 2010/1-2. sz. megjelent cikkében áll, hogy a majáknál a tengeri csiga volt a [[N/Nulla\|nulla]] jele.  
 
 ## Csigák párzása
 
 A képen kerti csigák párzás közben (szimultán hermafroditákként párosodnak):  
-![Csiga_image20240114140645591.jpg](/img/user/C/assets/Csiga_image20240114140645591.jpg)  
+![Csiga_image20240114140645591.jpg|840](/img/user/C/assets/Csiga_image20240114140645591.jpg)  
 - A kép [innen](https://en.wikipedia.org/wiki/Hermaphrodite) való.
