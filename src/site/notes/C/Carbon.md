@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Carbon/","title":"Carbon","created":"2023-11-19T06:37","updated":"2025-03-17T21:52"}
+{"dg-publish":true,"permalink":"/C/Carbon/","title":"Carbon","created":"2023-11-19T06:37","updated":"2025-09-20T23:27"}
 ---
 
 
@@ -20,4 +20,4 @@ Lásd [[C/Char\|char]]. Lásd még [[C/Cremate\|cremate]].
 
 Máshonnan való:  
 > A szénkörforgásban a bomlástermékek lebontják a növények és más élőlények elhalt anyagát, és szén-dioxidot bocsátanak ki a légkörbe, ahol az a növények rendelkezésére áll a fotoszintézishez.  
-> ![Carbon_image1.png](/img/user/C/assets/Carbon_image1.png)  
+> ![Carbon_image1.png|840](/img/user/C/assets/Carbon_image1.png)  
