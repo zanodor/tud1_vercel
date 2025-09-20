@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Árnyék/","title":"Árnyék","created":"2024-04-25T17:21","updated":"2025-07-03T00:55"}
+{"dg-publish":true,"permalink":"/A/Árnyék/","title":"Árnyék","created":"2024-04-25T17:21","updated":"2025-09-20T02:03"}
 ---
 
 
@@ -83,6 +83,5 @@ Maga az árnyék szó egy kicsit hasonló az ármány (lásd [[A/Ahriman\|Ahrima
 #### Molnár V. József Világ-Virág...
 
 ...című könyvének 18-19. oldalán írja:  
-> A természetben élő ember lakóhelyét, ezen belül önmagát a Föld, illetve a mindenség középpontjának tekinti. Észlelését "modellezi" (17. ábra). A modell, illetve annak középpontja és a Nap, a legfontosabb égi jelző segítségével megkülönböztet: keletet-nyugatot, északot-délt és a közbülső égtájakat. Kapcsolatot teremt a fönt és lent között, életét a Nap járáshoz, a fönthöz igazítja. A megfelelő irányokat az árnyék rajzolja ki számára. (A somogyi kanászokat egyebek között a kútágas árnyéka igazította el mind a napszakot és évszakot, mind az égtájat illetően. Éjszaka az irányt adó, időt jelző Hold, csillag vagy csillagkép jelent meg a kútágas csúcsán, annak koronájaként.)  
-> ![assets/Árnyék_image1.jpeg|invert_dar](/img/user/A/assets/%C3%81rny%C3%A9k_image1.jpeg)  
+> A természetben élő ember lakóhelyét, ezen belül önmagát a Föld, illetve a mindenség középpontjának tekinti. Észlelését "modellezi" (17. ábra). A modell, illetve annak középpontja és a Nap, a legfontosabb égi jelző segítségével megkülönböztet: keletet-nyugatot, északot-délt és a közbülső égtájakat. Kapcsolatot teremt a fönt és lent között, életét a Nap járáshoz, a fönthöz igazítja. ![assets/Árnyék_image1.jpeg|fix_dark fix_light right|300](/img/user/A/assets/%C3%81rny%C3%A9k_image1.jpeg)A megfelelő irányokat az árnyék rajzolja ki számára. (A somogyi kanászokat egyebek között a kútágas árnyéka igazította el mind a napszakot és évszakot, mind az égtájat illetően. Éjszaka az irányt adó, időt jelző Hold, csillag vagy csillagkép jelent meg a kútágas csúcsán, annak koronájaként.)    
 > A mellékelt képen egy észak-olaszországi, Brixen környékéről való, helyreállított kőkori modellt látunk. A tájékozódás egyik alapeszköze. Az árnyék olvassa le (rajzolja ki) a kőbe vésett négyzetek osztásrendjét.  
