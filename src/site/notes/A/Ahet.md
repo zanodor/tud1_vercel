@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2025-09-20T02:00"}
+{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2025-09-20T14:02"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 ...című könyvében írja:  
 > Egyiptomban az [[O/Oroszlán\|oroszlán]] Nappal kapcsolatos csillagászati fogalmakat is jelölt. A Föld ([[A/Aker\|Aker]]) hieroglifája egy két végén oroszlánfejekben végződő vízszintes szalag volt. A "két horizont"-ot: a napkelte és a napnyugta helyét két egymásnak háttal ülő oroszlánnal, köztük a napkoronggal vagy az ahet hieroglifával jelölték (22. rajz).  
-![assets/Ahet_image1.png|fix_dark fix_light|780](/img/user/A/assets/Ahet_image1.png)  
+![assets/Ahet_image1.png|fix_dark fix_light|840](/img/user/A/assets/Ahet_image1.png)  
 
 Horizont jelentéssel láttam ahet-et én is másutt; az '[[E/E\|e]]' szokásos betoldás.  
 
@@ -24,15 +24,15 @@ Hasonló képzet a sumér, melyről...
 > A [[V/Világhegy\|Világhegy]] a monumentális emlékeken, különösen pedig a pecsétcilinderek ábrázolatain két csúcsúnak van ábrázolva. E jelenség oka a kozmosz és a körforgás egymásnak való megfelelésében bírja a magyarázatát. A világhegy fogalma mellett ismerik a sémi-babiloniak a szintén **kétcsúcsú napfelkelte és napnyugta hegyét** is. Különösen pecsétcilindereken gyakori. Az elsőnek a neve `harsag Babbara` vagy `kur Babbar` (világos hegy), a másodiké `harsag gigga`, vagy `kur gig` (fekete hegy \[lásd [[G/Gig\|gig]]\]). E nevek is a kozmosz és a körforgás lényegi azonosságában bírják alapjukat és a kettős hegycsúcs a napjárásnak az égfelületén hegy és völgy között való föl- és leszállását akarja érzékeltetni.  
 
 Jegyezzük még itt meg, hogy a régi mexikóiak is hasonló módon ábrázolták.  
-![assets/Ahet_image2.jpeg|fix_dark fix_light|780](/img/user/A/assets/Ahet_image2.jpeg)  
+![assets/Ahet_image2.jpeg|fix_dark fix_light|840](/img/user/A/assets/Ahet_image2.jpeg)  
 
 Jankovics Marcell A Nap könyve c. könyvének 64. oldalán írja, hogy a maja [[K/KIN\|kin]] = "Nap", "nap", "idő" szó képírásjele két keresztbe tett fadarab (lásd 21. rajzot).  
 
 Tibold Makk Szabina az Ősi Gyökér 2016/3. számában osztotta meg a mellékelt képeket (melyeket színesben ezen[^1] videóban is láttunk).  
-![assets/Ahet_image3.jpeg|fix_dark fix_light|780](/img/user/A/assets/Ahet_image3.jpeg)  
+![assets/Ahet_image3.jpeg|fix_dark fix_light|840](/img/user/A/assets/Ahet_image3.jpeg)  
 
 Megint másutt írja Jankovics Marcell:  
-> ![assets/Ahet_image4.png|fix_dark fix_light|780](/img/user/A/assets/Ahet_image4.png)  
+> ![assets/Ahet_image4.png|fix_dark fix_light|840](/img/user/A/assets/Ahet_image4.png)  
 > "Hegynaptár" lehetett az első egyiptomi kalendárium is. Erről tanúskodik a "látóhatár" hieroglifa (ahet), mely két hegy között lenyugvó napkorongot ábrázol (22. rajz). Erről vallanak a kelet-nyugat iránynak tájolt egyiptomi templomok bejáratát őrző hegyszerű pülonok \[kapuk\], amelyek közt a templomhoz vezető út felöl nézve a Nap felkelni vagy lenyugodni látszik. A kettős pülon egyiptomi neve azt jelenti: "az ég fényhegyű horizontja". Már a dinasztikus kor előtt (Kr. e. 3800 k.) ábrázolják a Napot és a hegyet együtt, és az első piramisok mint a "fényhegyek" gigantikus kőmásolatai ebből a megfigyelési módszerből következően nőnek ki, s uralkodnak máig az egyiptomi sivatagi fennsíkon. A piramisszövegek a napkeltét az isten két hegy közti megjelenésének nevezik.  
 > Egy Kr. e. 2300 körüli akkád pecséthengeren Samast látjuk, amint egy fűrésszel kivágja magát két hegy \[Jankovics Marcell zárójelbe rakhatta volna a [[S/Szümplegádok\|szümplegádok]]at itt, mely címnél legutóbb említettük is az itt álló témát\] közül. Naram Szín akkád király sztéléjén (Kr. e. 2250 k.) a győztes uralkodó egy hegycsúcs felé lépdel, felettük három Nap (vagy a Nap, Hold, Vénusz?) látható. "Látóhatárnaptárt" használtak a kaukázusi oszétok (a szarmaták utódai és a mi jászaink helyben maradt rokonai) még e század első éveiben is. Választott "napfigyelő" leste minden napnyugtakor a nyugati látóhatárt, amelyen 40-50 megfigyelési pont jelezte az év számontartandó napjait, és szájról szájra hagyományozódott versek őrizték a rájuk vonatkozó tudnivalót. Láthattuk, ugyanúgy működött (működik?) a pueblo-indiánok "hegynaptára".  
 
