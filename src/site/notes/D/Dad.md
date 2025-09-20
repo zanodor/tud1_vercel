@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dad/","title":"Dad","tags":["Englishtexttranslated"],"created":"2024-04-25T12:55","updated":"2024-10-25T16:53"}
+{"dg-publish":true,"permalink":"/D/Dad/","title":"Dad","tags":["Englishtexttranslated"],"created":"2024-04-25T12:55","updated":"2025-09-21T00:00"}
 ---
 
 
 # Dad
 
 Apa. Atya szavunk tata formába válása után T>D változással lett dad. Természetesen nem [[D/DA\|DA]] földanya etimonjáról van szó.  
-Lásd még érdekességképpen a táblázatot.  
-![assets/Dad_image1.png|invert_dark](/img/user/D/assets/Dad_image1.png)  
+Lásd még érdekességképpen a PAESZ táblázatot.  
+![Dad_image20250920235909303.jpeg|fix_dark fix_light|840](/img/user/D/assets/Dad_image20250920235909303.jpeg)
+
 [[D/Déd\|Déd]] szavunk, mint láttuk, inkább a [[D/Dzsed\|dzsed]] névvel azonosul, de ide is tehető, hisz általánosan elterjedt jelentése úgy tűnik bármilyen ős, felmenő. A mai nyelvhasználatban például a nagyapa/anya szülője, de korábban eggyel idősebb, éppen negyedik generációt jelölt (CzF adata):  
 > DÉD (1)  
 >  fn. tt. déd-ět. A fölmenő nemzedéki ágban negyed ízigleni ős, t. i. nagyapámnak vagy nagyanyámnak nagyapja vagy nagyanyja, ezen fokozat szerént: apa, nagy apa, ős- vagy szépapa, dédapa. Dédős, dédük. Némely régi iróknál csak nagyapa is értetik alatta. Dédapa (avus), dédanya (avia).  
