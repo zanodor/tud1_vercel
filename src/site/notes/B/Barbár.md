@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-04T04:55","updated":"2025-08-31T02:06"}
+{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-04T04:55","updated":"2025-09-20T02:22"}
 ---
 
 
@@ -32,7 +32,7 @@ Péterfai János megspórolt volna nekem némi időt és néhány Quora oldalon 
 > A sumér "farkas" szó az urbarra, ami szó szerint azt jelenti: "a szabadban (bar) élő kutya (ur)".  
 
 [Ezen](http://www.assyrianlanguages.org/akkadian/dosearch.php?searchkey=barbaru&language=rawakkadian) oldalon álló adatokat nézzük:  
-![assets/Barbár_image3.png|invert_dark](/img/user/B/assets/Barb%C3%A1r_image3.png)  
+![assets/Barbár_image3.png|fix_dark fix_light|780](/img/user/B/assets/Barb%C3%A1r_image3.png)  
 Azt írják még, hogy a sémita nyelvekben a proto-sémi megállapított \*barbar = farkas, sakál jelentésű lehetett (nem ismerik a BAR jelentéseit persze) és hogy arab `babr` = tigris jelentésű szó hasonló. (A tigris és a fentebb említett oroszlán szintén egyes nyelvekben szintén azonos szóval jelzett; lásd [[T/Tiger\|tiger]].)  
 
 Az hogy a tigris is Napállat, ahogy a többi, kivált a kutya, mely kutyát jelentő idegen szavakban mindig a fény és a tűz jelentésű etimonok jönnek elő, ezért lehet, hogy a...  
@@ -61,7 +61,7 @@ Ettől én még hajlanék arra, hogy a barbaru eredeti(bb) jelentése párduc, h
 Az már egy másik kérdés illetve vizsgálati vonal, hogy [[A/Atilla hun király\|Atillá]]hoz (és a barbár hunokhoz) melyik állat kapcsolható inkább: a [[P/Párduc\|párduc]] (mely eleve a [[P/Pártus\|pártus]] nevet is kiadná), a farkas vagy a kutya, de aztán ott van még az oroszlán és a sárkány (a Turul későbbi). Itt nyilván az sem mindegy, hogy fehér vagy fekete hunokról van szó.  
 
 [Ezen](https://qr.ae/pNVLFu) Quora válaszban a török Timur Altay Sari is hozza a sumér Ur.Bar.Ra nevet és az akkád nevet is. A kommentelő görög Dimitris a Robert Beekes féle etimológiai szótár adatát adja meg, mely szerint nem sumér vagy babiloni eredetű lenne a szó:  
-> An onomatopoeic reduplicated formation, which originally referred to the language of the foreigner. One may compare Skt. (post-Vedic) `barbara` 'stammer', a designation of non-Aryan peoples. In spite of Sumer. `barbar` ‘foreigner’ not of Babylonian or Sumerian origin. From `ßápßapos` was borrowed Lat. `barbarus`. Comparable formations in other IE languages are mentioned in Pok. 91f. and Mayrhofer EW Aia 2: 217 s.v. balbalā-.  
+> An onomatopoeic reduplicated formation, which originally referred to the language of the foreigner. One may compare Skt. (post-Vedic) `barbara` 'stammer', a designation of non-Aryan peoples. In spite of Sumer. `barbar` 'foreigner' not of Babylonian or Sumerian origin. From `ßápßapos` was borrowed Lat. `barbarus`. Comparable formations in other IE languages are mentioned in Pok. 91f. and Mayrhofer EW Aia 2: 217 s.v. balbalā-.  
 > —  
 > Onomatopoetikus reduplikált képződmény, amely eredetileg az idegen nyelvére utalt. Összehasonlíthatjuk a szanszkrit (poszt-védikus) `barbara` 'dadogás', a nem árja népek megnevezésére. A sumér. `barbar` 'idegen' \[megléte\] ellenére nem babiloni vagy sumér eredetű. A `ßápßapos`-ból kölcsönözték a lat. `barbarus`-t. Hasonló képződmények más IE nyelvekben a Pok. 91f. és Mayrhofer EW Aia 2: 217 s.v. balbalā-.  
 
@@ -93,7 +93,7 @@ A neten is megtaláltam:
 
 > Még [[H/Homer\|Homérosz]] költeményein is átcsillan az epigoni magatartás, a "kultúrfölény" érzetének hiánya az ősökkel és a "primitív" népekkel szemben. "A bűntelen etiópok, akiknek áldozata a legkedvesebb az istenek előtt", - mondja Homérosz Afrika színesbőrűiről. Az ellenkező magatartás a zsidóknál jelenik meg először a "választott nép" és a "[[G/Gój\|goj]]im" ideológiájában, majd a rómaiak "**barbarus**" fogalmában, melynek ők adták az alacsonyabb rendű, a durva, a műveletlen jelentést, míg a görögök eredetileg egyszerűen idegen nyelvű, érthetetlen beszédű embert értettek rajta (bar-bar = dadogó). Nem csoda, hogy aztán a neandervölgyi ős unokájából a kulturális képességgel együtt kihalt a szerénység is.  
 
-![assets/Barbár_image1.png|invert_dark](/img/user/B/assets/Barb%C3%A1r_image1.png)  
+![assets/Barbár_image1.png|fix_dark fix_light|780](/img/user/B/assets/Barb%C3%A1r_image1.png)  
 
 [[P/Pogány\|Pogány]] címnél Pap Gábor szól arról, hogy a másságról nyilatkozó szerint a [[M/Más\|más]] a más nyelvet beszélő és más erkölcsöket képviselő [[I/Idegen\|idegen]]/külföldi. A degradálóról viszont az bizonyosodik be, hogy valójában alacsonyabb műveltségű. Ugyanazt ezt teszi a talmudista zsidó (és a YouTube videókon rögzített izraeli járókelő is), amikor [[J/Jézus\|Jézus]]t senkinek és semminek (a kereszténységet pedig kiirtandónak) tekinti: meg van róla győződve, hogy az ő által képviselt értékrend magasabb, holott könnyen kimutatható, hogy épp fordítva van. Erről [[G/Gentile\|gentile]] címnél és [[M/Magyar népművészet\|magyar népművészet]] bevezetőjében is volt szó.  
 
@@ -103,15 +103,10 @@ A neten is megtaláltam:
 A pogány ugye nem azt jelenti, hogy nem keresztény, hanem azt, hogy nem római (ellenőrzés alatti, nem júdaizáló, hanem szkíta keresztény).  
 Hasonlóan...
 
-####  Kubínyi Tamás mondja:  
+#### Kubínyi Tamás mondja:  
 
-> [!check] &nbsp;
-> > Róma "barbárnak" nevezi az ariánusokat, hiába keresztények [52:44](https://rumble.com/v6w9mh0-250716cn-a-nagy-szkizma-1-kubnyi-tams-ktv.html?start=3164).  
-> 
-> > [!check] &nbsp;
-> > Az ariánus kereszténység felvétele a vizigótok számára a rómaiak szemében a "barbárságuk" csökkenését jelentette, de Róma továbbra is barbárnak tekintette őket [53:43](https://rumble.com/v6w9mh0-250716cn-a-nagy-szkizma-1-kubnyi-tams-ktv.html?start=3223). Az ariánus gót kereszténységben nem volt centralizált egyház, helyi közösségekre épült, és a vallás nyelve a népnyelv volt, megőrizve a germán hagyományokat [54:32](https://rumble.com/v6w9mh0-250716cn-a-nagy-szkizma-1-kubnyi-tams-ktv.html?start=3272).
-> 
-
+> Róma "barbárnak" nevezi az ariánusokat, hiába keresztények [52:44](https://rumble.com/v6w9mh0-250716cn-a-nagy-szkizma-1-kubnyi-tams-ktv.html?start=3164).  
+> Az ariánus kereszténység felvétele a vizigótok számára a rómaiak szemében a "barbárságuk" csökkenését jelentette, de Róma továbbra is barbárnak tekintette őket [53:43](https://rumble.com/v6w9mh0-250716cn-a-nagy-szkizma-1-kubnyi-tams-ktv.html?start=3223). Az ariánus gót kereszténységben nem volt centralizált egyház, helyi közösségekre épült, és a vallás nyelve a népnyelv volt, megőrizve a germán hagyományokat [54:32](https://rumble.com/v6w9mh0-250716cn-a-nagy-szkizma-1-kubnyi-tams-ktv.html?start=3272).  
 - Ezzel visszatérünk ahhoz a "népi" vonulathoz, amelyről [[P/Pogány\|pogány]] címnél Pap Gábor nyomán volt szó.
 
 Több helyen szóltam arról, hogy tulajdonképpen a hunok napvallást követő csoportjának, vallásos nézetüknek, ennek hun-utód népességei révén történő elterjedésének és az általuk képviselt patriachalizmusnak tulajdonítható a legtöbb Földet érő baj. Még azt sem tartom kizártnak, hogy a héber [[G/Gój\|gój]] nemcsak marha, hanem kutya (lásd kínai `gou` = kutya, ír `cù` = kutya, stb.) asszociációkkal illethető és az általuk képviselt felfogás annak szól, hogy ha "Szíriusz távollétében a Szíriuszt tisztelők nem élvezik annak pártfogását, így a világuralom a miénk." \[Azóta kiderült, hogy a [[K/Kutyahitű\|kutyahit]] az ősi hit.\]  
@@ -153,7 +148,7 @@ Mint [[J/Jón\|jón]] címnél, hun vonatkozásban láttuk, a kínai nyelv az id
 
 ## Barbár barbároz
 
-Az óvodások bölcsessége ("aki mondja másra, az mondja magára") érvényes itt is. 
+Az óvodások bölcsessége ("aki mondja másra, az mondja magára") érvényes itt is.
 
 #### Götz László Keleten kél a Nap...  
 
