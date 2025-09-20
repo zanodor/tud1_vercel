@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Edgar Dacqué/","title":"Edgar Dacqué","created":"2023-11-18T09:14","updated":"2024-10-25T17:12"}
+{"dg-publish":true,"permalink":"/E/Edgar Dacqué/","title":"Edgar Dacqué","created":"2023-11-18T09:14","updated":"2025-09-21T01:23"}
 ---
 
 
@@ -11,7 +11,7 @@
 > 
 > Dacque, Edgar "Urwelt Sage und Menschheit" (München und Berlin, 1938.) című könyvében részletesen foglalkozik az egyszemű, illetve háromszemű lényekről szóló mondákkal, valamint azon természeti tényekkel, amelyek ilyen lények egykori létezettségét bizonyítják.  
 
-![assets/EdgarDacque_image2.png](/img/user/E/assets/EdgarDacque_image2.png)  
+![assets/EdgarDacque_image2.png|840](/img/user/E/assets/EdgarDacque_image2.png)  
 
 A Hihetetlen Magazin adatsora:  
 > A gyíkemberek a mi őseink?  
