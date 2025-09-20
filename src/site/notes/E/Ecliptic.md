@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ecliptic/","title":"Ecliptic","tags":["Englishtexttranslated"],"created":"2023-11-17T06:56","updated":"2024-10-25T17:13"}
+{"dg-publish":true,"permalink":"/E/Ecliptic/","title":"Ecliptic","tags":["Englishtexttranslated"],"created":"2023-11-17T06:56","updated":"2025-09-21T01:22"}
 ---
 
 
@@ -21,7 +21,7 @@ Angol magyarázat (internetről):
 > Az ekliptika a Föld Nap körüli pályájának körpályája. E mozgás során klasszikusan 12 (valójában 13) csillagképet, amelyek a Napon túl a háttérben vannak, a Nap egymás után eltakar a látóteréből.  
 > Ha a Nap középpontjában(!) állhatnánk, és megfigyelhetnénk a Föld keringését, akkor azt látnánk, hogy a Föld a keringése során a háttérben lévő állatövi csillagképekkel szemben egy pályát ír le – ugyanazt a pályát, amit mi a Napot látjuk leírni, de az ellenkező irányból nézve. Ezért az ekliptika, amellett, hogy a Nap látszólagos útja a háttércsillagok előtt, a Föld pályájának a térbe vetített síkjának is tekinthető.  
 
-![assets/Ecliptic_image1.png|invert_dark](/img/user/E/assets/Ecliptic_image1.png)  
+![assets/Ecliptic_image1.png|fix_dark fix_light|840](/img/user/E/assets/Ecliptic_image1.png)  
 
 #### Jankovics Marcell A Nap könyve...
 
@@ -36,12 +36,12 @@ Angol magyarázat (internetről):
 ...című könyvében írja:  
 > Az uráli népek északi lakhelyüknél fogva, ahol a Sarkcsillag a zenithez közel ragyog, **az ekliptika pedig alig válik el a horizonttól**, az eget alulnézetben ábrázolták. Dobjaik olyan egyszerűsített égtérképként írhatók le, melyek az északi égboltot a látvány, a délit az ellentétpárokra épülő gondolkodásmódnak megfelelően annak tükörképeként jelenítik meg. (Ezzel szemben, a tőlük délebbre lakó altaji népek az eget oldalnézetben ábrázolták.)  
 
-Lásd még öt csatolt képet.  
-![assets/Ecliptic_image2.png](/img/user/E/assets/Ecliptic_image2.png)  
-![assets/Ecliptic_image3.png|invert_light](/img/user/E/assets/Ecliptic_image3.png)  
-![assets/Ecliptic_image4.png|invert_light](/img/user/E/assets/Ecliptic_image4.png)  
-![assets/Ecliptic_image5.png|invert_light](/img/user/E/assets/Ecliptic_image5.png)  
-![assets/Ecliptic_image6.png](/img/user/E/assets/Ecliptic_image6.png)  
+Lásd még az alább csatolt öt képet.  
+![assets/Ecliptic_image2.png|840](/img/user/E/assets/Ecliptic_image2.png)  
+![assets/Ecliptic_image3.png|fix_light|840](/img/user/E/assets/Ecliptic_image3.png)  
+![assets/Ecliptic_image4.png|fix_light|840](/img/user/E/assets/Ecliptic_image4.png)  
+![assets/Ecliptic_image5.png|fix_light|840](/img/user/E/assets/Ecliptic_image5.png)  
+![assets/Ecliptic_image6.png|840](/img/user/E/assets/Ecliptic_image6.png)  
 
 #### Jankovics Marcell írja:
 
@@ -80,7 +80,7 @@ Másrészt a kerékagy világkerék (nevezhetjük [[H/Hamlet malma\|Hamlet malm�
 
 John M. Jenkins egyik fontosnak tekinthető észrevétele, hogy a Tejút rávetíthető a földi hegyvonulatok vonalára. [[S/Szikla\|Szikla]] és [[S/Szümplegádok\|szümplegádok]] címnél volt arról még szó, hogy a Tejút nemcsak folyó, de hegyvonulat is lehet.  
 Érdekes, hogy a berajzolás alapján az ekliptika az [[O/Oroszlán-Vízöntő tengely\|Oroszlán-Vízöntő tengely]]re kerül. Lásd a csatolt képen.  
-![assets/Ecliptic_image7.png|invert_dark](/img/user/E/assets/Ecliptic_image7.png)  
+![assets/Ecliptic_image7.png|fix_dark fix_light|840](/img/user/E/assets/Ecliptic_image7.png)  
 
 Az Analemma-görbe a nap éves járása, de nyilván nem csillagászati, hanem fotós kifejezés lehet.  
 
