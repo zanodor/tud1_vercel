@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Buda/","title":"Buda","tags":["Englishtexttranslated"],"created":"2023-12-03T10:25","updated":"2025-08-31T02:06"}
+{"dg-publish":true,"permalink":"/B/Buda/","title":"Buda","tags":["Englishtexttranslated"],"created":"2023-12-03T10:25","updated":"2025-09-20T23:19"}
 ---
 
 
@@ -40,9 +40,9 @@ Hasonló hozzá a kelta [[B/Buada\|Buada]]. A kelta-ír ír `bodach` = vajda (ö
 ## Buda nevének elgermánosítása
 
 Otto Maenchen-Helfen The Language of the Huns című könyvének IX. fejezetében foglalkozik [[A/Atilla hun király\|Atilla hun király]], Buda, [[R/Ruga\|Ruga]], stb. neveivel (és elgermánosításukkal). [Ezen](http://www.kroraina.com/huns/mh/mh_4.html) oldal segítségével adom anyagát "Bleda"-ról:  
-> Attila's older brother. The Greek sources have ![assets/Buda_image2.jpg|invert_dark](/img/user/B/assets/Buda_image2.jpg), the Latin *Bleda*[^2]. The Arian bishop whom Marcian sent as his ambassador to Geiseric[^3], and one of Totila's generals[^4] had the same name. It is generally agreed that Bleda is Germanic, the short form of a name like OHG *Bladardus*, *Blatgildus*, *Blatgisus*[^5]. Bleda of Marcellinus Comes (*s.a.* 442) appears in [[B/Bede\|Bede]]'s *Chronicle* in the strange form Blædla[^6]. The English scribes "corrected" the name; they knew it as Blædla from oral tradition where the name was adapted to Ætla[^7].  
+> Attila's older brother. The Greek sources have ![assets/Buda_image2.jpg|fix_dark fix_light|66](/img/user/B/assets/Buda_image2.jpg), the Latin *Bleda*[^2]. The Arian bishop whom Marcian sent as his ambassador to Geiseric[^3], and one of Totila's generals[^4] had the same name. It is generally agreed that Bleda is Germanic, the short form of a name like OHG *Bladardus*, *Blatgildus*, *Blatgisus*[^5]. Bleda of Marcellinus Comes (*s.a.* 442) appears in [[B/Bede\|Bede]]'s *Chronicle* in the strange form Blædla[^6]. The English scribes "corrected" the name; they knew it as Blædla from oral tradition where the name was adapted to Ætla[^7].  
 > —  
-> Attila idősebb testvére. A görög forrásokban ![assets/Buda_image2.jpg|invert_dark](/img/user/B/assets/Buda_image2.jpg), a latin *Bleda*[^2]. Az ariánus püspök, akit Marcianus követként küldött Geiseric-hez[^3], és Totila egyik hadvezére[^4] ugyanezt a nevet viselte. Általánosan elfogadott, hogy a Bleda germán eredetű, az ófelnémet *Bladardus*, *Blatgildus*, *Blatgisus*[^5] nevekhez hasonló név rövidített formája. Marcellinus Comes Bleda (*s.a.* 442) [[B/Bede\|Bede]] *Krónikájában* a Blædla[^6] furcsa alakban jelenik meg. Az angol írástudók "kijavították" a nevet; ők Blædla néven ismerték a szájhagyományból, ahol a nevet Ætla[^7]-ra igazították.  
+> Attila idősebb testvére. A görög forrásokban ![assets/Buda_image2.jpg|fix_dark fix_light|66](/img/user/B/assets/Buda_image2.jpg), a latin *Bleda*[^2]. Az ariánus püspök, akit Marcianus követként küldött Geiseric-hez[^3], és Totila egyik hadvezére[^4] ugyanezt a nevet viselte. Általánosan elfogadott, hogy a Bleda germán eredetű, az ófelnémet *Bladardus*, *Blatgildus*, *Blatgisus*[^5] nevekhez hasonló név rövidített formája. Marcellinus Comes Bleda (*s.a.* 442) [[B/Bede\|Bede]] *Krónikájában* a Blædla[^6] furcsa alakban jelenik meg. Az angol írástudók "kijavították" a nevet; ők Blædla néven ismerték a szájhagyományból, ahol a nevet Ætla[^7]-ra igazították.  
 
 ## Buda és Atilla neveinek esetleges összefüggése
 
@@ -62,10 +62,10 @@ Dr. Moore "The Saxons of the East and West" című, 1861-ben nyomtatott művéb�
 Moravcsik *BT* 2, 91; Schönfeld 1911, 51.
 
 [^3]: Lábjegyzet:  
-Priscus, *EL* 15126, 1521 (![assets/Buda_image3.jpg|invert_dark](/img/user/B/assets/Buda_image3.jpg)).
+Priscus, *EL* 15126, 1521 (![assets/Buda_image3.jpg|fix_dark fix_light|66](/img/user/B/assets/Buda_image3.jpg)).
 
 [^4]: Lábjegyzet:  
-Procopius VII, 5, 1 (![assets/Buda_image4.jpg|invert_dark](/img/user/B/assets/Buda_image4.jpg)).
+Procopius VII, 5, 1 (![assets/Buda_image4.jpg|fix_dark fix_light|66](/img/user/B/assets/Buda_image4.jpg)).
 
 [^5]: Lábjegyzet:  
 Schönfeld 1911, 51.
