@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2025-07-03T18:38"}
+{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2025-09-20T23:26"}
 ---
 
 
@@ -15,11 +15,9 @@ A Canopus (α Carinae, Alpha Carinae) egy első fényrendű csillag a Carina (Ha
 > Az égi egyenlítőtől 52° 38' délre, a Szíriusz alatt körülbelül 35°-ra fekvő csillag a megfigyelők számára a 37. szélességi körtől északra láthatatlan; de ott éppen a horizont felett van február 6-án este kilenckor, és jól látható Georgia, Florida és Öböl menti államainkból. Sirius körülbelül húsz perccel követi a csúcspont elérésében.  
 
 Canopus jelentése a görög nyelv irányából is figyelemre méltó: a "[[K/Kutya\|kutya]] szeme." A név szinte utal a közeli Nagy Kutya csillagkép [[S/Szíriusz\|Szíriusz]] csillagára, veti fel Dobos Csanád is. ~~(Valóban, neve a Kan, [[O/Optics\|optics]]-nál elemzett Op és -Us tagokra bontható.)~~  
-![assets/Canopus_image1.jpeg](/img/user/C/assets/Canopus_image1.jpeg)  
-![assets/Canopus_image2.png|invert_dark](/img/user/C/assets/Canopus_image2.png)  
-![assets/Canopus_image3.png](/img/user/C/assets/Canopus_image3.png)  
-
-A mellékelt kép adatai alapján Mellár Mihály kén-bűzzel hozza kapcsolatba (katasztrófáról lásd [[T/Trója\|Trója]] és [[S/Szantorini\|Szantorini]]).
+![assets/Canopus_image2.png|fix_dark fix_light|840](/img/user/C/assets/Canopus_image2.png)  
+![assets/Canopus_image3.png|fix_dark fix_light|840](/img/user/C/assets/Canopus_image3.png)  
+A mellékelt kép adatai alapján Mellár Mihály kén-bűzzel hozza kapcsolatba (katasztrófáról lásd [[T/Trója\|Trója]] és [[S/Szantorini\|Szantorini]]).  
 
 A Wikipédia adata szerint:  
 > "Kanobos, or Kanopos (Greek: Κάνωπος), after a mythological commander of a Greek fleet supposedly buried there."... "In Greek mythology, Canopus (or Canobus) was the pilot of the ship of King Menelaus of Sparta during the Trojan War. He is described as a young handsome man, who was loved by Theonoe, the Egyptian prophetess, but never answered her feelings. According to legend, while visiting the coasts of Egypt, he was bitten by a serpent and died. His master erected a monument to him at the mouth of the River Nile, around which the town of Canopus later developed."  
@@ -60,7 +58,7 @@ Négy kutyáról már másutt is esett szó...
 Ipolyi Arnold Magyar mythologia című könyvének 322. oldalán váratlanul előjön egy eddig még nem taglalt Ka-Nap felbontási lehetőség is. Ka-Nap lehet Háza a Napnak és Királyi Nap értelmű így.  
 
 Robert E. Briggs idézete akár a magyar párostánc lényegét fogalmazná meg. A férfi (jelen esetben Ozirisz) irányít és a ragyogó nő (Ízisz) körbetáncolja a férfit. Ennek megfelelően az Ízisz-Szíriusz helyett akkor kerül előtérbe az Ízisz-Spica (SZŰZ csillagkép fő csillaga), amikor a **Föld precessziós mozgása eredményeként több ezer évig a Szíriusz sem tudott a horizont fölé lépni**.  
-![assets/Canopus_image4.png|invert_dark](/img/user/C/assets/Canopus_image4.png)  
+![assets/Canopus_image4.png|fix_dark fix_light|840](/img/user/C/assets/Canopus_image4.png)  
 Nem tudott, mert a Szíriusznak is követni kellett Canopust a láthatatlanságba. Így amikor Canopus-Ozirisz helyét időszakosan az Orion (Hórusz) csillagkép veszi át, akkor a Szíriusz-Íziszét a Szűz csillagkép fő csillaga, a [[S/Spica\|Spica]]. \[Mivel viszont a precesszió Szíriuszra nem vonatkozik, a mellékelt ábra Dobos Csanádtól hasztalan.\]  
 
 Canopus mint a Kan Szeme érdekes elnevezés, mert – ahogy Robert Temple Szíriuszról szóló könyve szól róla – a [[D/Dogon\|dogon]]okkal rokon Mali-beli Bozo törzs a Szíriusz B-t ([[S/Sothis\|Sothis]]?) tartják szem-csillagnak, míg az egyiptomiak As-Art, azaz Oziriszt illették szemmel. [[O/OG\|OG]] etimon szem és óriás jelentése itt kapcsolódik össze.  
