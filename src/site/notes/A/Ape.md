@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2025-09-20T02:01"}
+{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2025-09-20T14:07"}
 ---
 
 
@@ -35,7 +35,7 @@ Edward Topsell The History of Four-footed Beasts című 1607-es kiadású könyv
 > —  
 > **Cynocephales**, azaz **kutyafejű majmok**, a majmok egy fajtája, melyeknek a feje kutyaszerű, a többi testrészük pedig emberhez hasonló; ezért fordította őket *Gaza* *Canicipites*-nek, ami (azaz) kutyafejűeket jelent. Francia, német és illír nyelveken egyesek *Babion*-nak nevezik őket, az olaszban pedig a *Babuino* egy kis majomfajta; de *Arisztotelész* azt mondja, hogy a *Cynocephale* nagyobb, mint egy majom. Angolul *Babouns*-nak hívják őket.
 > Sokféle *Baboon* létezik, amelyek közül némelyek nagyon szeretnek halászni, úgyhogy egész nap mélyen a vízben maradnak halászva, és végül nagy tömegben jönnek elő. Ismét, vannak olyanok, amelyek utálják a halat (ahogy *Orus* mondja), ezt a fajtát az egyiptomiak jelképesen használják...  
-> ![assets/Ape_image2.jpeg|fix_dark fix_light|780](/img/user/A/assets/Ape_image2.jpeg)  
+> ![assets/Ape_image2.jpeg|fix_dark fix_light|840](/img/user/A/assets/Ape_image2.jpeg)  
 
 Különösen hangsúlyos a hasonlításnál a farkuk. Várkonyi Nándor is említi a kutyafarkat ([[M/Majom\|majom]] címnél is megvolt):  
 > A tlascalák, quichék, guatemalai, costaricai, továbbá a zsidó, tibeti, kínai és a Fidzsi-szigeti mondákban az ember testalkatának (habitusának) változása is említtetik: majommá lesz, vagy kutyafarkat kap, megcsúful stb.; ez aránylag ritka motívum, s legérthetőbb magyarázatát Szuchisz, az egyiptomi pap adja meg Szolónnak: visszasüllyedés primitív körülmények, állati életformák közé a nagy pusztulás után. Hasonló értelemben ír Platón.  
