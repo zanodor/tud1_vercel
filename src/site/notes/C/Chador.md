@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Chador/","title":"Chador","created":"2024-01-30T06:49","updated":"2024-10-24T22:23"}
+{"dg-publish":true,"permalink":"/C/Chador/","title":"Chador","created":"2024-01-30T06:49","updated":"2025-09-20T23:44"}
 ---
 
 
@@ -8,8 +8,8 @@
 Muszlim nők fekete mindent eltakaró ruhája, mely a perzsa `čādar` = fátyol szóból ered. E szó olyannyira [[S/Sátor\|sátor]] szavunkból ered, hogy a perzsa szó valódi jelentése is sátor és a ruha/fátyol jelentés csak később rakódott rá.  
 
 Ha megnézzük a ruhát, tökéletes égjelkép (sok más viselethez hasonlóan): csak a csillagok hiányoznak róla. Szinte megegyező a kereszténység nővéreinek ruházatával.  
-![assets/Chador_image1.png](/img/user/C/assets/Chador_image1.png)  
-![assets/Chador_image2.jpeg](/img/user/C/assets/Chador_image2.jpeg)  
+![assets/Chador_image1.png|840](/img/user/C/assets/Chador_image1.png)  
+![assets/Chador_image2.jpeg|840](/img/user/C/assets/Chador_image2.jpeg)  
 Könnyen lehet, hogy mindkét szokás egy tőről ered és papnők szertartásos viselete lehetett.  
 
 A női [[H/Haj\|haj]], mint ősi szexuális szimbólum (ahogy a [[T/Talmud\|Talmud]] mondja, *széár beisá ervá*, vagyis "a nő haja erogén") eltakarásának magyar eredete lehet, hogy a szüzességét elvesztő lányok haját levágták illetve a férjezett asszonyok fejét bekötötték. Lásd erről Magyar Adorján adatát [[H/Hair\|hair]] és [[P/Párta\|párta]].  
