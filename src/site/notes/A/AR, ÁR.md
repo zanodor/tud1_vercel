@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/AR, ÁR/","title":"AR, ÁR","tags":["containstransclusions"],"created":"2024-10-31T14:37","updated":"2025-09-20T02:01"}
+{"dg-publish":true,"permalink":"/A/AR, ÁR/","title":"AR, ÁR","tags":["containstransclusions"],"created":"2024-10-31T14:37","updated":"2025-09-20T14:09"}
 ---
 
 
@@ -66,7 +66,7 @@ Minden etimon, mely r hangot tartalmaz, leginkább fényerőre és annak forrás
 
 Borbola János Magor című cikkében a [[M/Magyar\|magyar]] nevet Mag-Ar formában való bontásakor azt az észrevételt teszi, hogy minden maggal végezhető művelet tetemes részét az ár tőre lehet visszavezetni (kissé sajátos a lista és az eljárás is, de majdnem jól ráérzett, hogy az [[E/Életkör\|életkör]]ben értelmezhető életenergiáról van szó):  
 > BetakARít, tARol, szÉRű, sARló, mARok, tARló (MAG)-tÁR, hombÁR, csŐR, vERem, udvAR, Áru, csERe, de (ÁR)tÉR, hatÁR, Árnyék, sÁR, mocsÁR, kÁR, kORom stb.  
-> ![assets/ArAr_image1.jpeg|fix_dark fix_light|780](/img/user/A/assets/ArAr_image1.jpeg)
+> ![assets/ArAr_image1.jpeg|fix_dark fix_light|840](/img/user/A/assets/ArAr_image1.jpeg)
 
 A Tibold Szabina Ágnes Fényben járni, fénnyé válni című Ősi Gyökér 2006/4. sz. megjelenő cikkében talált lakota közmondás is ezt magyarázza: "Minden, amit az Erő tesz, teszi azt körökben." Azaz az Ar/Er/Ör mind erő és kör értelmű egyben.  
 
@@ -79,7 +79,7 @@ A Tibold Szabina Ágnes Fényben járni, fénnyé válni című Ősi Gyökér 20
 [[J/Johan Oldenkamp\|Johan Oldenkamp]] többször is idézett Wholly Science tanulmányában és előadásaiban is foglalkozik a világunk működésével, leképezésével, de a magyar ősnyelv ismerete hiányában több tévesztése van és ezáltal rossz következtetéseket von le, de Grandpierre Atilla Élő Világegyetem című előadásából is hiányoznak a nyelvi alátámasztások (többek közt). Minden továbbit lásd [[F/Fény és anyag\|fény és anyag]] illetve [[F/Fény és sötétség\|fény és sötétség]].
 - A mellékelt képen szereplő szinusz (lásd [[S/Sine\|sine]]) szó használata azért fantasztikus, mert a szín és a szün szavaink utalnak a fény és fényhiány váltakozására (hasonlóan a [[J/Jin és jang\|jin és jang]] princípiumokhoz és a [[H/Hegy és völgy\|hegy és völgy]] váltakozásokhoz a hullámban).
 
-![assets/ArAr_image2.png|fix_dark fix_light|780](/img/user/A/assets/ArAr_image2.png)  
+![assets/ArAr_image2.png|fix_dark fix_light|840](/img/user/A/assets/ArAr_image2.png)  
 [[A/Alma\|Alma]] címnél is szerepelt Oldenkamp adata:  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A/Alma/#e7ru8" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
