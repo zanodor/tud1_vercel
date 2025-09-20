@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2025-09-20T01:57"}
+{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2025-09-20T14:10"}
 ---
 
 
@@ -14,7 +14,7 @@ Perzsa nyelven `asb` = ló. `Aspa` ló aveszta nyelvben, `asp` a pahlaviban, az 
 Előjönni látszik egy bizonyos perzsa **Visasp** tűzmágus nevében, kit Ipolyi Arnold Magyar mythologia című könyvének 251. oldala alján említ, az [[A/Arimaszpa\|arimaszposz]] névben, valamint az Oláh Imre Ősi jelképiség c. az Ősi Gyökér 2011/4. sz. megjelent cikkében Denkarttól idézett, Feridunra vonatkoztatott **Aspigan** névben.  
 
 Lehet viszont csillagászati név is, annál is inkább, mert a talán hun-magyar eredetű holdház/[[N/Nakshatra\|nakshatra]], Ashvini nevében is megvan. Ashvinit az Ashvinok feleségének tartják, minthogy az -i végződés (inkább -ni = né, mint a Tilak által adatolt Indrani névben) nőiséget jelent. Az Ashvin Ős-Fény, Ász-Fény lehet, és lófejű ikrekre utal (ennek ellenére mégsem az [[I/Ikrek csillagkép\|Ikrek csillagkép]]hez tartozó holdház, ahogy a mellékelt képen is látni, és nyilván nem a precesszió miatt).  
-![assets/Asb_image1.png|fix_dark fix_light|780](/img/user/A/assets/Asb_image1.png)  
+![assets/Asb_image1.png|fix_dark fix_light|840](/img/user/A/assets/Asb_image1.png)  
 
 [[A/Agni\|Agni]]ról szólva, [[J/Janus\|Janus]] címnél írottak szerint kiderül, hogy a (zoroasztriánus Iránhoz hasonlóan; lásd [[T/Tavaszi évkezdés\|tavaszi évkezdés]]) Kossal szokták kezdeni az évet. ![assets/Asb_image2.jpeg|fix_dark fix_light right|300](/img/user/A/assets/Asb_image2.jpeg)  
 [Ezen](https://en.m.wikipedia.org/wiki/List_of_Nakshatras) oldal adatai alapján pedig az derül ki, hogy Indiában a [[B/Bárány\|bárány]] szavunkkal azonos Bharani viszont már nem a kezdő nakshatra, mert a szintén kettős, Ikrekből Kosba valamiféleképpen átkerült Ashvini lett az első, míg Bharani a második helyre szorult. Hogy hogyan került a lófejű ikerpár a tavaszi évkezdő helyre, nos, talán az lehet, hogy elfeledték Agni bárányságát/kétfejűségét, vagy valószínűbben a valaha évkezdő Ikrek (Tilak Orionjából is ismerjük a nyári évkezdést) emlékének adózva átmentették.   
@@ -24,12 +24,15 @@ Lehetséges, hogy a bővítményesként megjelenő adatot, a többes számot vet
 
 Ló(fejű?)-ikerpár az angolszász mondakörben is előjön: lásd [[H/Hengist és Horsa\|Hengist és Horsa]]. Ezen mondai kör, ahogy az ind is magyar-hun elődre kell visszamenjen.  
 [[F/Fehér és fekete#Fehér és fekete ló\|Fehér és fekete ló]] cím/alcímnél Csontváry-nál és és az ott is említett [[S/Szent László és a leányszöktető kun\|Szent László legendá]]ban is megjelennek az ikerlovak, fehér és fekete leosztásban.  
-Amikor Angelo de Gubernatis Zoological Mythology című könyvének (a PDF) 489. oldalán kutyákkal kapcsolatban jönnek elő...  
+
+#### Angelo de Gubernatis Zoological Mythology...  
+
+...című könyvének (a PDF) 489. oldalán kutyákkal kapcsolatban jönnek elő:  
 > Of the two Açvinau, one is in especial relation with the moon, and the other with the sun, so, of the two dogs of mythology, one is especially lunar, and the other especially solar.  
 > —  
-> A két Açvinâu közül az egyik különösen a Holddal, a másik pedig a Nappal áll kapcsolatban, így a mitológia két kutyája közül az egyik különösen holdi, a másik pedig különösen szoláris.  
+> A két Açvinâu közül az egyik különösen a Holddal, a másik pedig a Nappal áll kapcsolatban, így a mitológia két kutyája közül az egyik különösen lunáris, a másik pedig különösen szoláris.  
 
-...akkor azt kell tudni, hogy ami egyszer Ikrek vagy Íjazó, az máskor Kutya csillagkép (előtte már kitér a ló és a kutya szerepére, de nem csillagászati úton).  
+Ezzel kapcsolatban azt kell tudni, hogy ami egyszer Ikrek vagy Íjazó, az máskor Kutya csillagkép (előtte már kitér a ló és a kutya szerepére, de nem csillagászati úton).  
 De a szanszkrit nyelvben összefüggés látszik a ló és a kutya nevei közt. Zajti Ferencnél `acvamukha` = lófejűek és `cvamukha` kutyafejűek \[mint a régi, Romakasiddhanta című, indiai szanszkrit nyelvű munkában Kacmira, Kína, Hungarasthana, (Dzsungarastana?), Mugalasthana és Barbarasthana lakói\]. Esetleg az asva tűnik adni a sva- kutya jelentésű szót (belső fejlődéssel), azaz nem fordítva [[S/Śvan\|svan]] = kutya szóból (svan a kutya rendes főnévi alakja, míg sva- szerepel összetételekben) ered a ló neve.  
 
 [[K/Kuda\|Kuda]] címnél már találkoztunk a kutya és ló azonos szóalakjával és [[E/Epona\|Epona]] névalakja kapcsán is feltételeztük, hogy a ló indoreurópai neve [[E/EB\|EB]] eredetű lehet; a fentiek oda is betéve.  
@@ -88,7 +91,7 @@ A két jegy a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en egymással szem
 
 ## A latin equus az indo-iráni asva/asb rokona?
 
-Közben feltűnt, hogy Péterfainak is köszönhetően az indo-iráni szónak feladtam az equus/aqwa szavakkal való azonosíthatóságát és mindkét szó külön került elemzésre.  
+Közben feltűnt, hogy Péterfainak is köszönhetően feladtam az indo-iráni szó equus/aqwa szavakkal való azonosíthatóságát és mindkét szó külön került elemzésre.  
 
 Amennyiben közös nevező alá vesszük őket, akkor hasonló esetet látunk, mint [[A/Asszony\|asszony]] szavunk esetében. Ott is volt olyan értelmezés, ami szerint előrésze Ah/Ak/Ég, mely az equus eredeti elgondolás szerinti eredete.  
 
@@ -109,4 +112,4 @@ Irantxe, also known as Münkü and Menku, is an indigenous American language tha
 Az irantxe, más néven münkü és menku(!), egy őshonos amerikai nyelv, amelyet a brazíliai Mato Grossóban körülbelül 200-an beszélnek. Adathiány miatt általában besorolatlanul hagyják.  
 
 [^2]: Lábjegyzet:  
-Kenneth Grant The Magical Revival című A. Crowley anyagát feldolgozó könyvéből való. Wordsense-nél penis alatt nem jött elő. Steingass szótárában penis-re keresve nem jön elő (vagy 15 szava van az arabnak erre; az egyik [[A/Atar\|atar]] = tűz szóval egyező).  
+Kenneth Grant The Magical Revival című A. Crowley anyagát feldolgozó könyvéből való. Wordsense-nél penis alatt nem jött elő. Steingass szótárában penis-re keresve nem jön elő (vagy 15 szava van erre az arabnak; az egyik [[A/Atar\|atar]] = tűz szóval egyező).  
