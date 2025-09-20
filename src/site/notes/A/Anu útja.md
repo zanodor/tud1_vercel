@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anu útja/","title":"Anu útja","tags":["Englishtexttranslated"],"created":"2023-10-04T02:42","updated":"2025-09-20T02:01"}
+{"dg-publish":true,"permalink":"/A/Anu útja/","title":"Anu útja","tags":["Englishtexttranslated"],"created":"2023-10-04T02:42","updated":"2025-09-20T14:07"}
 ---
 
 
@@ -10,7 +10,7 @@ The Way of Anu – így hívják a delelő Nap szintjeit(?) (ezt már nem emlék
 [[A/Angle\|Angle]] címnél is téridő-beosztásról volt szó.  
 
 Z. Tóth Csaba Tropikus vagy sziderikus című cikkében azt írja, hogy Babilonban az égboltot három szférára osztották, az istenek fölső/északi, középső/egyenlítői, és alsó/déli "útjára", s a mai zodiákus elődei egyaránt kerültek a három szféra valamelyikébe.  
-![assets/Anuutja_image1.jpeg|fix_dark fix_light|780](/img/user/A/assets/Anuutja_image1.jpeg)  
+![assets/Anuutja_image1.jpeg|fix_dark fix_light|840](/img/user/A/assets/Anuutja_image1.jpeg)  
 *A mellékelt kép a babiloni világképről C. W. Ceram A régészet könyve című könyvéből való*
 
 Bakos Attila A Duna Evangéliuma című könyvének 92. oldalán úgy fogalmaz, hogy Anu a zodiákus vándorló égi napútjának megszemélyesítője; (ha igaz) Anu-t mutatja be hajlított [[T/Térd\|térd]]del a bika hátán.  
@@ -23,9 +23,9 @@ Bakos Attila A Duna Evangéliuma című könyvének 92. oldalán úgy fogalmaz, 
 > Egy hagyomány szerint három egymás fölött elhelyezkedő égbolt volt, amelyek közül a legalsó a csillagokat tartalmazta, a középső az Igigū otthona volt, a legfelső pedig Anu (An)é. Egy másik, csillagászati hagyomány szerint a keleti horizontot három függőleges sávra, Enlil, Anu (An) és Ea (Enki) "útjaira" osztották, amelyeket a Kr. e. 1000 körül ismert tizennyolc állatövi csillagkép helyzetének meghatározására használtak. Később ezt a tizennyolc csillagképet egyenként vagy párosával a tizenkét hónaphoz rendelték, ami a későbbi állatöv előképe.  { #htyhqg}
 
 
-![assets/Anuutja_image2.jpg|fix_dark fix_light|780](/img/user/A/assets/Anuutja_image2.jpg)  
+![assets/Anuutja_image2.jpg|fix_dark fix_light|840](/img/user/A/assets/Anuutja_image2.jpg)  
 A mellékelt képi anyag alsó része Wayne Horowitz Mesopotamian Cosmic Geography-jából való, a felső része (bár bárhonnan is származhatott volna) Hermann Hunger and David Pingree MUL\.APIN: An Astronomical Compendium in Cuneiform (1989) című könyvéből származik. Kérdés, hogy mire építi Horowitz az elképzelést.  
-![assets/Anuutja_image3.jpeg|fix_dark fix_light|780](/img/user/A/assets/Anuutja_image3.jpeg)  
+![assets/Anuutja_image3.jpeg|fix_dark fix_light|840](/img/user/A/assets/Anuutja_image3.jpeg)  
 Lényegében ha jól értelmezem, arról van szó, hogy annak megállapítására, hogy hol tartottak éppen az évkörben, a delelő Nap magassági szintjeit mérték le az égen: itt ezt a téridő-leosztást kell látni. Ahogy Pap Gábor mondja (nem teljesen érthetően): déli irányban kell vizsgálódni, egy oszlopot elképzelni, melynek alja a [[V/Világhegy\|Világhegy]], **ahol a Nap sosem jár**, van egy alacsony maximum (ez a téli napforduló a [[T/Télpont\|télpont]]tal), egy középső (ezek a napéjegyenlőségek) és egy felső maximum (ez a nyári napforduló a [[N/Nyárpont\|nyárpont]]tal). Ilyenképp képezhető le hármas tagolás. ([[D/Dél\|Dél]] és [[T/Tél\|tél]] címszavakhoz is betéve.)  
 
 Ré [[A/Apep\|Apep]]-Apóphisz elleni küzdelme kapcsán a három világ függőleges tagozódása..
