@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-09-13T00:12"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-09-20T19:06"}
 ---
 
 
@@ -13,6 +13,11 @@
 
 **Videók archivált összefoglalókkal**:   
 
+[250919CN! TUTSEKOLÁS](https://rumble.com/v6z6ti0-250919cn-tutsekols-kubnyi-tams-ktv.html)  [https://archive.ph/3YvGO](https://archive.ph/3YvGO)
+[250918CN! NEM TÁNCDAL](https://rumble.com/v6z5960-250918cn-nem-tncdal-kubnyi-tams-ktv.html)  [https://archive.ph/AciHM](https://archive.ph/AciHM)
+**[250917CN! KÖZÜGY](https://rumble.com/v6z3bg0-250917-kzgy-kubnyi-tams-ktv.html)**  **[https://archive.ph/UD5wL](https://archive.ph/UD5wL)**
+[250916CN! MATUSKÁK](https://rumble.com/v6z1mbs-250916cn-matuskk-kubnyi-tams-ktv.html)  [https://archive.ph/i72AT](https://archive.ph/i72AT)
+[250915CN! SÁTÁNI](https://rumble.com/v6yzsmo-250915cn-stni-kubnyi-tams-ktv.html)  [https://archive.ph/sYX2d](https://archive.ph/sYX2d)
 [250912CN! JÓZSEF ATTILA](https://rumble.com/v6yuxhi-250912cn-jzsef-attila-kubnyi-tams-ktv.html)  [https://archive.ph/GBKBS](https://archive.ph/GBKBS)
 [250911CN! KIRK-GYILKOSSÁG](https://rumble.com/v6yt4ey-250911cn-kirk-gyilkossg-kubnyi-tams-ktv.html)  [https://archive.ph/4QQ5H](https://archive.ph/4QQ5H)
 [250910CN! MAGYAR MÉRCE](https://rumble.com/v6yr7y2-250910cn-magyar-mrce-kubnyi-tams-ktv.html)  [https://archive.ph/d737A](https://archive.ph/d737A)
