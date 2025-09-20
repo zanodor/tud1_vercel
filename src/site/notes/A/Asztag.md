@@ -1,15 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asztag/","title":"Asztag","created":"2023-10-11T05:44","updated":"2024-10-22T22:30"}
+{"dg-publish":true,"permalink":"/A/Asztag/","title":"Asztag","created":"2023-10-11T05:44","updated":"2025-09-20T02:07"}
 ---
 
 
 # Asztag
 
-1\. Régies: Felhalmozott gabonakévék, a learatott gabona kévéiből rakott széles, terjedelmes, több méter magas halom; alakja házra emlékeztet; így védik a gabonát az esőtől, beázástól a cséplésig.  
-![assets/Asztag_image1.png|invert_dark](/img/user/A/assets/Asztag_image1.png)  
-Ma, a kombájnok korában már nem látni asztagokat a földeken, mert az aratógép rögtön ki is csépeli a gabonaszemeket. Régen fáradságos munka volt a kévék asztagba rakása.  
-2\. Átvitt értelemben: Nagy tömeg, nagy mennyiség; egyféle dologból nagyon sok.  
-A kutató a könyvtárban ki se látszott a könyvek asztagából. A búvárok az elsüllyedt 16. századi hajón aranyérmékkel teli ládaasztagot találtak.  
+#### A Magyar Néprajzi Lexikon adatsora:
+
+> 1\. Régies: ![assets/Asztag_image1.png|fix_dark fix_light right|300](/img/user/A/assets/Asztag_image1.png)  Felhalmozott gabonakévék, a learatott gabona kévéiből rakott széles, terjedelmes, több méter magas halom; alakja házra emlékeztet; így védik a gabonát az esőtől, beázástól a cséplésig.  
+> Ma, a kombájnok korában már nem látni asztagokat a földeken, mert az aratógép rögtön ki is csépeli a gabonaszemeket. Régen fáradságos munka volt a kévék asztagba rakása.  
+> 2\. Átvitt értelemben: Nagy tömeg, nagy mennyiség; egyféle dologból nagyon sok.  
+> A kutató a könyvtárban ki se látszott a könyvek asztagából. A búvárok az elsüllyedt 16. századi hajón aranyérmékkel teli ládaasztagot találtak.  
 
 Egyezik vele a perzsa: `ászti`, román: `stogi`, a szláv: `stog`, `stoh`, `stok`. Nyilván az angol `stock` is egyező lehet vele.  
 CzF úgy elemezné, mint az [[A/Asztal\|asztal]] szót. Szláv eredetűnek is mondják, illetve asztag < aszít (szárít, aszal) + -ag (főnévképző) formában is értelmezik. Most akkor melyik? Talán egyik sem. Könnyen lehet, hogy ez is asztrális alakú szó vagy legalábbis a jelképiséget kell mögötte keresni.  
