@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Buzogány/","title":"Buzogány","created":"2023-10-13T05:36","updated":"2024-10-24T22:22"}
+{"dg-publish":true,"permalink":"/B/Buzogány/","title":"Buzogány","created":"2023-10-13T05:36","updated":"2025-09-20T23:19"}
 ---
 
 
@@ -15,8 +15,9 @@ A buzogány a végére szerelt tüskés kiképzésű gömbjéről kapta a nevét
 A gömb pedig maga a Nap, mely gömb gomb is, ahogy a buzogány is – \*baszogányként – úgy végződik ilyen kialakításban, mint a Napisten [[B/Bunkó\|bunkó]]ja (lásd [[M/Mace\|mace]] – [[M/Makk\|makk]]) illetve a férfi nemzővesszejének makkja. ([[K/Kalapács\|Kalapács]] szavunkat is hasonlóan értelmeztük.)  
 [[B/Boszorkány\|Boszorkány]] címnél is említettük a hímségi funkciót, csak nem nemzés, hanem sérülés okozása kapcsán.  
 
-#### Jankovics Marcell A Nap könyvében írja:
+#### Jankovics Marcell A Nap könyve...  
 
+...című könyvében írja:  
 > A buzogány a mesehősök jellegzetes fegyvere, és a fanyűvés is jellegzetes mesemotívum, emellett tipikusan nap- és csillaghéroszhoz illő cselekedet. Az ókorban a kentaurokat, a középkorban Sámsont fanyűvőnek képzelték el (146. rajz). A kép a Tejút (a fa), illetve bizonyos tejútcsillagképek, Orion, Nyilas, Kentaur és a Nap együttállásán alapszik.
 
 #### A Czuczor-Fogarasi szótár adata:
@@ -32,7 +33,7 @@ A gömb pedig maga a Nap, mely gömb gomb is, ahogy a buzogány is – \*baszog�
 > Alapértelménél fogva jelent valami bogosat, bunkósat, miszerint gyöke boz azon bod, bot, pot gyökökkel rokon, melyekből boda, bodor, botk, pota származtak. Vagy átvetve a bog gyöktől am. bog oz-ány, bogozó (csomódzó). Egyezik vele a persa `buzghah` (securis falcata), török `bozdogan`.  
 
 Pap Gábor művészettörténész Icai fekete kövek rejtélye című három részes előadássorozata [első részében](https://www.youtube.com/watch?v=EkK4R1UaIEY) 1:45:10-nél mutatja a képen a buzogánynak megfelelő csillagábrát.  
-![assets/Buzogány_image1.png](/img/user/B/assets/Buzog%C3%A1ny_image1.png)  
+![assets/Buzogány_image1.png|fix_dark fix_light|840](/img/user/B/assets/Buzog%C3%A1ny_image1.png)  
 Valóban, a buzogány feje olyan, mint egy sün. Ezért is a [[B/BUZ\|BUZ]] Napnév, ahogy a [[B/Basz\|basz]] is hímség.  
 
 Képzésére, hangtanára nézve hasonló [[B/Boszorkány\|boszorkány]].  
