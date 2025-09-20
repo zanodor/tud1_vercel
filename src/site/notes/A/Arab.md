@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arab/","title":"Arab","tags":["containstransclusions"],"created":"2024-04-20T11:12","updated":"2025-08-31T02:05"}
+{"dg-publish":true,"permalink":"/A/Arab/","title":"Arab","tags":["containstransclusions"],"created":"2024-04-20T11:12","updated":"2025-09-20T02:02"}
 ---
 
 
@@ -43,10 +43,9 @@ Tehát amikor egy Quora válaszban azt írtam, hogy nem tudni a név eredetét, 
 Annyit azért elfogulatlanul jegyezzünk meg, hogy [[E/Európa\|Európa]] neve és az arab népnév igen hasonlóak.  
 
 Legutóbb [[M/Magyar\|magyar]] címnél írtuk, hogy az arab nép és nyelv neve az egyiptomi magyarok önelnevezése nyomán terjedt el, de már mint sémi nép és nyelv: az arab **Masr** = Egyiptom, a [[M/Maghreb\|Maghreb]] kifejezés, a Tejút Al Majarrah neve, a Tejútanya vulváját jelképező kagyló `mahar` neve és az ismét csak önelnevezésre utaló, [[M/Magar\|Magar]] címnél bővebben taglalt és [[M/Migrate\|migrate]] címnél is említett `muhajir` és `muhājirūn` szavak, sőt a szaracén (sárszinű?) [[M/Mór\|mór]] is mind magyarokra utalnak. Azaz mivel a [[H/Héber\|héber]] is lehet avar, arab is lehet avar de magyar is. Az, hogy a magyar és hun/szkíta/avar nevek vagy jellegzetességeik egyazon területen is előfordulnak, talán azzal magyarázható, hogy az országok neve felváltva lehet Magyar és Hun, olyan megfontolás alapján, ahogy Egyiptom is Magaru és Hun felekre volt osztva: az égi területek vannak a földre leképezve.  
-Azóta még újabb adatok kerültek felszínre. Kiderült, hogy a pre-iszlámok is magyarok voltak, hiszen legutóbb [[M/Magar\|Magar]] címnél írottak szerint a görög és szír források ilyen nevekkel utaltak rájuk: magaritai és mhaggrē. Az arab `muhajir` = elvándoroló, migráns szó többes száma, az arab `muhājirūn` azokra a (nevükben legalábbis) magyarokra utalnak, akikből a muszlimokat gyúrták. Erről legutóbb [[M/Migrate\|migrate]] címnél is ejtettem szót. [[J/Jehova-program\|Jehova-program]] címnél is volt szó átideologizált magyarokról/szkítákról.  
+Azóta még újabb adatok kerültek felszínre. Kiderült, hogy a pre-iszlámok is magyarok voltak, hiszen legutóbb [[M/Magar\|Magar]] címnél írottak szerint a görög és szír források ilyen nevekkel utaltak rájuk: magaritai és mhaggrē. ![assets/Arab_image2.png|fix_dark fix_light right|300](/img/user/A/assets/Arab_image2.png)  Az arab `muhajir` = elvándoroló, migráns szó többes száma, az arab `muhājirūn` azokra a (nevükben legalábbis) magyarokra utalnak, akikből a muszlimokat gyúrták. Erről legutóbb [[M/Migrate\|migrate]] címnél is ejtettem szót. [[J/Jehova-program\|Jehova-program]] címnél is volt szó átideologizált magyarokról/szkítákról.  
 
 Van még egy másik értelmezési vonal, mely [ezen](https://qr.ae/pN21fq) Quora válaszban talált (ki tudja mennyire megbízható) térképen az az **arabu** név is előjön, mely név teljesen megfelelő, magyaros alakú név.  
-![assets/Arab_image2.png|invert_dark](/img/user/A/assets/Arab_image2.png)  
 Ar-Abu az Orion Apa Árja értelmű lenne (azaz nem igazán térünk el a fentebb megfogalmazottaktól).  
 
 ## Arab és aram
@@ -58,9 +57,8 @@ Lásd [[A/Arám\|arám]].
 ## Arab és harap
 
 A két szó feltűnően hasonló. Erre akkor jöttem rá, amikor Quorán arról láttam kérdést, hogy a törökök miért hívják Arap néven kutyáikat (azaz az arabokra utalva).  
-[Ezen](https://qr.ae/pN3zru) Quora válaszban az áll, hogy fekete (vagy más szerint sötét) kutyáknak adták az Arap nevet és félreértésen alapszik (mert hogy az arabok nem feketék). De mi van ha nem? Hiszen Afrika Afar = disznó fogalmán keresztül még a kutyához is eljutunk.  
+[Ezen](https://qr.ae/pN3zru) Quora válaszban az áll, hogy fekete (vagy más szerint sötét) kutyáknak adták az Arap nevet és félreértésen alapszik (mert hogy az arabok nem feketék). De mi van ha nem? Hiszen Afrika Afar = disznó fogalmán keresztül még a kutyához is eljutunk.  ![assets/Arab_image3.png|right|130](/img/user/A/assets/Arab_image3.png)
 A kérdés itt még az, hogy az arabok neve lehetett-e volna [[H/Harap\|harap]]? A harap és kutya fogalmi viszonya egyértelmű.  
 Nem elképzelhetetlen, hogy az arab név a magyar harappal úgy függ össze, hogy a [[K/Kutyafejű\|kutyafejű]] arabokról van szó. Az interneten már több ízben láttam kutyafejűnek nevezett arabokat és afgánokat. Adom itt csatolva az egyiptomi Omar Yahia képét és egy másik arabét.  
-![assets/Arab_image3.png](/img/user/A/assets/Arab_image3.png)  
 
 Lásd még [[A/Arab nyelv\|arab nyelv]].  
