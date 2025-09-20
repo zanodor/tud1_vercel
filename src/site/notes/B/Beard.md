@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Beard/","title":"Beard","created":"2024-04-21T15:48","updated":"2024-10-24T22:12"}
+{"dg-publish":true,"permalink":"/B/Beard/","title":"Beard","created":"2024-04-21T15:48","updated":"2025-09-20T21:28"}
 ---
 
 
@@ -29,7 +29,7 @@ CzF adata:
 
 [[B/Barkó\|Barkó]] viszont az [[A/Avar\|avar]] nép, kikből vélhetően a szemiták és perzsák is lettek. Ezeknél mindig megtaláljuk a szakállt, illetve a szemita muszlimoknál és zsidóknál máig. (Arról, hogy a [[S/Szemiták és árják\|szemiták és árják]] avar eredetűek, lásd ott.)  
 
-![assets/Beard_image1.png|invert_dark](/img/user/B/assets/Beard_image1.png)  
+![assets/Beard_image1.png|fix_dark fix_light|840](/img/user/B/assets/Beard_image1.png)  
 
 [[S/Szakáll\|Szakáll]] címnél volt arról szó, hogy a hosszú szőrszálak napsugár-jelképek, azaz a Nap avar [[B/BAR\|BAR]] neve nyomán alakult ki a szakáll másodlagos jelentés. Az avarok utódnépeinél (mint amilyenek a perzsák), nagy divat volt a szakáll, mely szokás a szemita vallásokban is kifejeződik. A szőlő héber neve is mintha kapcsolatos lenne a szakáll nevével, és lám, a Magyar Adorján által is felhozott [[F/Fürt\|fürt]] meg is jelenhet a szintén avar eredetű germánok beard szavában (de bread eredetéhez hasonlóan lehet ennek is Bar-Ata eredete).  
 [[F/Fürt\|Fürt]] szavunkat (már magában [[B/Borosta\|borosta]] szavunkban is ott a Bor) szintén rokonnak tekinti CzF ([[F/Fruit\|fruit]] szóban egyértelmű(bb)). Ipolyi Arnold Magyar mythologia című könyvének 83. oldala alján előjön egy J. Grimm által adatolt, Donarnak tulajdonított `donnerbart` = mennydörgő fű kifejezés, mely szintén rámutat, hogy a szakáll növényzetnek fogatott fel.  
