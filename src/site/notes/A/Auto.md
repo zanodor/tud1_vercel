@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/A/Auto/","title":"Auto","created":"2024-11-23T05:02","updated":"2024-11-23T05:02"}
+{"dg-publish":true,"permalink":"/A/Auto/","title":"Auto","created":"2024-11-23T05:02","updated":"2025-09-20T02:14"}
 ---
 
 
 # Auto
 
-![assets/Auto_image1.png|invert_dark](/img/user/A/assets/Auto_image1.png)  
-
 #### Péterfai János írja:
 
-> Autó nem más, mint az A-Utó, az Isteni-Nap. Utó magyar isten az Utu névcsoporthoz tartozik.  
+> Autó nem más, mint az A-Utó, az Isteni-Nap. [[U/UTÓ\|Utó]] magyar isten az [[U/UTU\|Utu]] névcsoporthoz tartozik.  
 
-Görög nyelvben saját, magán jelentésű. Lásd még [[O/Önazonosítás\|önazonosítás]].  
+
+Görög nyelven saját, magán jelentésű. Lásd még [[O/Önazonosítás\|önazonosítás]].  
