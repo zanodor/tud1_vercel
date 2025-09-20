@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2025-06-07T19:52"}
+{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2025-09-21T01:09"}
 ---
 
 
 # Deer
 
-Őzet és szarvast is jelent, elsősorban szarvast; az őzek a szarvasok családjába tartoznak. A különbség abban áll, hogy a rénszarvasoknál nemcsak a hímnek lehet [[A/Agancs\|agancs]]a.  
-![assets/Deer_image1.png](/img/user/D/assets/Deer_image1.png)  
+Őzet ![assets/Deer_image1.png|right|200](/img/user/D/assets/Deer_image1.png)  és szarvast is jelent, elsősorban szarvast; az őzek a szarvasok családjába tartoznak. A különbség abban áll, hogy a rénszarvasoknál nemcsak a hímnek lehet [[A/Agancs\|agancs]]a.  
 Ahogy a [[D/Dear\|dear]] és főleg a [[R/Reindeer\|reindeer]] szónál (és [[T/Tarka\|tarka]] szavunkban) is, itt is a Dér szó csillagot, a csillagos eget illetve magát a Tejutat jelenti (a Tejút csillagfolyam, ahogy [[I/Iszter\|Ister]] és más címnél taglaltuk).  
 A Tejútanya szarvasalakjának és [[S/Szarvas\|szarvas]] nevének szár/szar = fényes előtagjának SZ>D változásos formáját láthatjuk a deer és dear szavakban (melyek közül utóbbinak akár persze csonka formái is lehetnek egy 5-6 betűs szókapcsolatnak; drága, sárga, Daramah, Sarama, stb.).  
 
@@ -76,7 +75,7 @@ Ami innen lemaradt, és utólag került ide, hogy a [[T/Törvény\|törvény]] �
 Úgy tűnik eztán, hogy az életkör/Tejút-forgás leképezése a kún-hun népeknél [[K/KU\|ku]]-[[K/Kut\|kut]]-[[K/Kutya\|kutya]] (továbbá [[G/Goat\|goat]]-[[K/Köd\|köd]]-[[G/Göd\|Göd]]-[[G/God\|God]] és [[K/KUS\|KUS]]) alapján, az avar/szabír/szavárd/török/kelta népek szókészlete szerint Darál/Tar(ul)/Dar/Szar/Zár(ul) szavak szerint, míg a magyaroknál MISZ/MES/MÁS/MASZ/MAT/MATA szavak szerint történik, viszont amíg az utóbbi két népnél szarvasról (a nahuatl `mazatl` és a pipil nyelvű `masat`, `mazat` = szarvas (kecske) és [[M/Moose\|moose]] = jávorszarvas szavakról [[M/MISZ\|MISZ]] címnél is tettünk említést) van szó, a kún-hunnál kecskéről (plusz kutyáról).  
 
 A fentiek által készített ([[K/Kut\|kut]] és [[M/MISZ\|MISZ]] címnél is szereplő[^11]) diagram így fest:  
-![assets/Deer_image2.png|invert_dark](/img/user/D/assets/Deer_image2.png)  
+![assets/Deer_image2.png|fix_dark fix_light|840](/img/user/D/assets/Deer_image2.png)  
 Ami még itt a T-R, D-R vázú szavakat illeti Tejút és Tejútkapuk kapcsán, lásd [[T/Tree\|tree]], [[D/Door\|door]], [[T/Tölgy\|tölgy]] és [[T/Taurus\|Taurus]] címnél írottakat. De ha már Tejút(kapuk), Jankovics Marcell írásai alapján is tudjuk, hogy a [[K/Kötél\|kötél]], [[L/Létra\|létra]] és [[H/Híd\|híd]] jelentésű szavak is ide kapcsolódnak. A koreai `dari` = híd is így ide tartozhat, ahogy a hozzá alakilag hasonló szuahéli `daraja` és a skót-kelta `drochaid` = híd; a tahitii `'ē'a turu` is érdekes alak (T-L vázzal pedig a tagalog `tulay` = híd).  
 Érdekes a **szláv `díra` = lyuk**, hiszen a [[K/Kut\|kut]] diagramban is `kút` = lyuk, mely [[K/Köz\|köz]] címnél írottak alapján nemcsak földlyuk, hanem a égi-földi anya szemérem-lyuka is.  
 Ami nem fért a diagramba, az a Götz László Keleten kél a Nap című könyvének adataként hozott, [[T/Tract\|tract]] címnél is szerepeltetett szumér `DIR` = megy, vonul, út, űz, hajt, áthalad) és `DIRIG` = utat tesz.  
