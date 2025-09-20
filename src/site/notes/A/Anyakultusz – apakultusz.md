@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2025-09-16T13:23"}
+{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2025-09-20T02:01"}
 ---
 
 
@@ -195,10 +195,9 @@ Legutóbb [[S/Szemiták és árják#Déli- vagy fekete magyarok/hunok, arabok, k
 Könnyen lehet, hogy a hegyen, állattartással foglalkozók körében terjedt el az isten Atya kultusz és a sík területeken, völgyekben/medencékben élő, elsődlegesen növénytermesztéssel foglalkozó népek voltak az istent Anyaként felfogó népek.  
 Egyébiránt [ezen](https://qr.ae/pNs7rV) oldalon a Why was the Hungarian language spoken almost exclusively in the flat areas of the Kingdom of Hungary? kérdés ide tartozhat, persze nem mindegy melyik idősíkban gondolkodunk (így a válaszokat sem tartom sokra). Az tény, hogy a matriarchális(abb) magyarok inkább voltak növénytermesztők, és azok fogyasztása is aranykori szokás.  
 
-A matriarchátus és a patriarchátus intézményrendszeréről Antal István Tündéres, derengő című Ősi Gyökér 2005/4. sz. megjelent cikkében ír [[N/Nép#Nép és nemzet\|nép és nemzet]] cím/alcímnél.  
+A matriarchátus ![assets/Anyakultuszapakultusz_image1.png|fix_dark fix_light right|300](/img/user/A/assets/Anyakultuszapakultusz_image1.png)  és a patriarchátus intézményrendszeréről Antal István Tündéres, derengő című Ősi Gyökér 2005/4. sz. megjelent cikkében ír [[N/Nép#Nép és nemzet\|nép és nemzet]] cím/alcímnél.  
 
 Gyárfás Ágnes Három óriás és az öreg király – a nyári égbolt híres férfi-csillagképei című Ősi Gyökér 2006/2. sz. megjelent cikkéből való a mellékelt kép.  
-![assets/Anyakultuszapakultusz_image1.png|invert_dark](/img/user/A/assets/Anyakultuszapakultusz_image1.png)  
 
 [[K/Kaptár\|Kaptár]] és [[K/Kalács\|kalács]] címnél példákkal mutattuk be, hogy a napvallások kialakulása előtt Tejútanya-tisztelet volt.  
 Lásd még [[H/Hímség és nőiség\|hímség és nőiség]].  
