@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BOL/","title":"BOL","created":"2024-10-24T01:40","updated":"2025-08-19T00:53"}
+{"dg-publish":true,"permalink":"/B/BOL/","title":"BOL","created":"2024-10-24T01:40","updated":"2025-09-20T23:14"}
 ---
 
 
@@ -18,9 +18,9 @@ Egy másik értelmezés szerint [[B/BOL\|BOL]], [[B/BOLY\|BOLY]] bolygó:
 [[S/SZAT\|SZAT]] és [[E/Égitestek\|égitestek]] címnél is szerepelt:  
 CzF szótár `satrat` = ide-oda kap, csavarog jelentéséből kiindulva SAT/SZAT is lehet bolygónév. Ismeretes, hogy az [[E/Égitestek\|égitestek]] közül a bolygókat tartották eleink kiszámíthatatlan mozgásúnak, a csillagokéhoz képest. Figyeljük meg, ezen satrat ige egyező értelmű a [[K/Kutya\|kutya]] szóhoz is kötött kószál (kotródik, kódul, honnan a latin `cedere`) szóéval. Kószál viszont a bolyong szó értelméhez is hasonul, és mivel bolyong szavunkból ered a bolygó (melyből BOLY lehet az égitest neve), gondolható, hogy [[K/KU\|KU]] égitest jelentése mellett [[S/SZAT\|SZAT]] is állhatott égitest jelentéssel. Valóban, ma is használjuk a szatellit = kisérő szót hold, műhold jelentéssel, továbbá valóban az árja [[S/Satavaesa\|Satavaesa]] és a [[S/Szaturnusz\|Szaturnusz]] nevében is szerepel, bár Szaturnusz más egyéb módon is bontható, nehéz és fontos név.  
 Legutóbb [[H/Hold\|Hold]] (halad) címnél is szerepelt, hogy az égitestek nevei (de a vizet jelentő szavaknál is erre lehet asszociálni: tenger teng, víz visz, folyó folyik) a mozgásukkal kapcsolatos szavakkal azonosak.  
-
-![assets/BOL_image1.jpeg|invert_dark](/img/user/B/assets/BOL_image1.jpeg)  
 Az ókori és középkori asztrológiai égtérképeken botos illetve vándor emberalakok személyesítették meg a bolygókat (a görögök `planetes asteres` = vándorló ill. bolyongó csillagoknak[^1] hívták őket). Lásd Fomenko könyvéből csatolt képet.  
+![assets/BOL_image1.jpeg|fix_dark fix_light|840](/img/user/B/assets/BOL_image1.jpeg)  
+
 [[K/KU\|KU]], [[K/Kut\|kut]] nevekről bőven volt szó, lásd ott. Az őket mozgató erőkről lásd [[F/FU\|FU]].  
 
 ## Lábjegyzetek
