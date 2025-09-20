@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arám/","title":"Arám","created":"2023-10-20T06:58","updated":"2024-10-22T22:19"}
+{"dg-publish":true,"permalink":"/A/Arám/","title":"Arám","created":"2023-10-20T06:58","updated":"2025-09-20T02:02"}
 ---
 
 
@@ -38,7 +38,7 @@ Akárhogy is, az arám név három névvel való kapcsolatát sem szabad kizárn
 - Az igaz, hogy a [[H/Három\|három]] címnél taglalt ország címerek és az [[O/Orion övcsillagai#Orion mint ős (nemzés tekintetében) vagy az ősök háza – hárommal való jelzése\|Ősök háza]] témájában taglaltak alapján akkor bármely ország vagy térség lehetne ilyen Arám/Három nevű.
 
 Ezen arám név hangátvetve a mellékelt képen taglalt ([[L/Luhunga\|Luhunga]] címnél szövegesen is szereplő) Amar is lehet (nos, ha átvetjük, lehet).  
-![assets/Arám_image1.png|invert_dark](/img/user/A/assets/Ar%C3%A1m_image1.png)  
+![assets/Arám_image1.png|fix_dark fix_light|780](/img/user/A/assets/Ar%C3%A1m_image1.png)  
 Ez viszont akár lehet valamiféleképp a [[R/Ram\|ram]] = kos nevére utaló (az arab `ārām` = gazellák is erre utalhat, bár ennek egyes száma `iram`!) és ezen a ponton magam is engedek a csábításnak, hogy a ram megfordításában a magyarok (Kos, [[K/KUS\|Kus]] = Életfa/Tejút népe; vesd össze latin `ramus` = ág: lásd [[R/Ramify\|ramify]]) Mar nevét lássam meg.  
 [[H/Haram\|Haram]] is hasonló név hehesen.  
 Arám nevű, Arméniával kapcsolatba hozott őskirályról és az arámi népről Fáy Elek A magyarok őshona című könyvének 12-13. oldalán ír. (Lásd még [[O/Örmény\|Armen]].)  
