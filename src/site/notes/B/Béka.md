@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Béka/","title":"Béka","created":"2024-04-21T14:29","updated":"2024-10-23T23:29"}
+{"dg-publish":true,"permalink":"/B/Béka/","title":"Béka","created":"2024-04-21T14:29","updated":"2025-09-20T23:10"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 > A Béka neve két részből áll, a Bék és az A részekből. A Bék egyértelműen az Öröklét és a Pokol[^1] neve, az A itt Víz. Pokol a Vízben, Öröklét a Vízben, ez a Bék-A. A Békás-szoros valóban Pokol-szoros, a Békás-patak vize hideg, mint a jég. A [[B/Boszorkány\|boszorkány]]ok kedvelt állata a béka. A tündérek békává változtatták a gyenge jellemű embereket, hogy megtanulják, hogyan kell viselkedni.  
 > 
-> A Béka rokon a Béke szóval. A Bék, például Szent-Bék-Kálla településünk nevében, Fehér, ami az öröklét \[és a gyász\] színe a feketével együtt. A Pék éjjel dolgozik a liszttel, ruhája fehér. Egyiptomban Pek-Hel egy lejárat az Alvilágba. A Baker is Pék, a nagy Bach ősapja magyar volt. A Beke hátsó ember. A Béke "öröklét", a Bék-A pokol a vízben.  
+> A Béka rokon a Béke szóval. A Bék, például Szent-Bék-Kálla településünk nevében, Fehér, ami az öröklét \[és a gyász\] színe a feketével együtt. A Pék éjjel dolgozik a liszttel, ruhája fehér. Egyiptomban Pek-Hel egy lejárat az Alvilágba. A `Baker` is Pék, a nagy Bach ősapja magyar volt. A Beke hátsó ember. A Béke "öröklét", a Bék-A pokol a vízben.  
 
 Lásd még alternatív megközelítését Végvári József írásával is [[B/BÉK\|BÉK]]. Lásd még [[B/Béke\|béke]] és [[B/Béklyó\|béklyó]].  
 Lényegében arról lehet szó, hogy a béka kétnemű ill. nemet tud váltani, valamint kétéltű őse az emberiségnek is. (Lásd még erről [[M/Mocsár-mitológia\|mocsár-mitológia]].)  
@@ -28,11 +28,9 @@ A béka jelképiségéről írja Jankovics Marcell:
 > Egy meseváltozatban a szerencsétlenség oka, hogy a fa ezüstkincsét, amiből a fa ezüstkörtéi teremnek, egy gyökerei közt élő varangy szívja el (A szerencsés óra). Egy harmadik variánsban a baj oka, hogy a varangy a szájában szentostyát "tart fogva".  
 > A pénzszívó varangy, a béka, ostyával a szájában a születés előtti pillanat metaforái. A béka a női nemi szerv állatjelképe volt. Értelemszerűen, amikor pénzt szív, vagy ostyát kap be, akkor fogamzik (vö. pénzmag ~ férfimag), a mesemondó mondja is, hogy a varangy az ostyától hatalmasra hízik; amikor pedig kiveszik a szájából a pénzt, ostyát, akkor szül (l. még az aranypénztől teherbe eső Danaé mítoszát).  
 
-![assets/Béka_image1.png|invert_dark](/img/user/B/assets/B%C3%A9ka_image1.png)  
-A béka jelképről lásd még Magyar Adorján írását [[F/Frog\|frog]]. Ott arról volt szó, hogy a béka ősidők óta méh- és vulva-jelkép is. A béka méhhel való hasonlóságáról [[H/Hysteria\|hysteria]] címnél is volt szó, ahol e kép szintén szerepelt.  
+A béka ![assets/Béka_image1.png|fix_dark fix_light right|300](/img/user/B/assets/B%C3%A9ka_image1.png)  jelképről lásd még Magyar Adorján írását [[F/Frog\|frog]]. Ott arról volt szó, hogy a béka ősidők óta méh- és vulva-jelkép is. A béka méhhel való hasonlóságáról [[H/Hysteria\|hysteria]] címnél is volt szó, ahol e kép szintén szerepelt.  
 [[M/Mádra\|Mádra]] címnél is arról volt szó, hogy a népi elképzelés szerint pókhoz, békához hasonló statikai-energetikai központ van a hasban.  
 A négylábú Tejútanya-állatalak ([[P/Párduc\|párduc]], [[G/Gepárd\|gepárd]]) pettyeiről lásd Magyar Adorján írását [[G/Gepárd\|gepárd]]. Ott is szóba került az anyaméh-jelképállat béka, melynek szintén van pettyes faja (rana béka). De ha már a pettyekről, cseppekről van szó, a [[K/Kutya\|kutya]] kapcsán is taglalt latin `gutta` = csepp is érdekes (egy óörmény `kat'n` = tej szó lett megjelölve a latin `gutta` = csepp eredetére megjelölve). De mi van, ha csepp ott is, a latinban petty, folt, azaz csillag értelmű? (Amelyből hitték az eső esését is, mely ugye megtermékenyítő hatású (és az időjós békák is hogy izgalomba jönnek előtte).) (A [[K/Kutya\|kutya]] is csillag, Kutyacsillag értelmű, egy csepp a Tejút-Tejtengerből/folyamból, épp mellette. Ezen ideákról legutóbb [[F/Folt\|folt]] címnél is volt szó.)  
-![assets/Béka_image2.png|invert_dark](/img/user/B/assets/B%C3%A9ka_image2.png)  
 
 #### Magyar Adorján...
 
@@ -43,7 +41,7 @@ Más mitológiákban az életfa alján, gyökerében kerül megjelenítésre.
 
 Márpedig még maga a [[V/Vulva\|vulva]], ahogy kimutattuk, is könnyen utalhat a Tejútközpontra (lásd [[G/Galactic centre\|Galactic centre]]), a Tejútistennő szeméremnyílására (Nyílás > Nyilas). Ezek alapján a Bék-A a Nap születési helyére kell utaljon. (Erről [[M/MAG\|MAG]], [[K/KUN\|KUN]], [[S/SZAG\|SZAG]], [[N/Nap\|Nap]], [[S/Szül\|szül]] és más címnél is volt szó.)  
 
-A [[H/Hunahpu\|Hunahpu]] címnél írottak szintén ezt támasztják alá:  
+A [[H/Hunahpu\|Hunahpu]] címnél írottak szintén ezt támasztják alá:  ![assets/Béka_image2.png|fix_dark fix_light right|300](/img/user/B/assets/B%C3%A9ka_image2.png)  
 A mellékelt, [[K/Keresztre feszített Nap\|keresztre feszített Nap]] és [[O/Orant\|orant]] címnél is szereplő képen Hun Hunahpu (Egy Hunahpu) a kozmikus békából (a Tejútistennő méhéből/vulvájából) kel ki/támad fel. A béka másutt John M. Jenkinsnél jaguár-varangy, de a lényegen nem változtat.  
 
 John Major Jenkins Galactic Alignment című könyvében is írja, hogy David Kelley kutató szerint is a fejét felfelé tartó, nyitott szájú béka születés értelmű.  
@@ -59,7 +57,7 @@ Arról [[M/Mézga\|mézga]] címnél volt szó, hogy a [[T/Tejútanya állatalak
 Ipolyi Arnold Magyar mythologia című könyvének 310. oldalán ír tej és [[K/Kígyó\|kígyó]] kapcsolatáról. Másutt madár tejéről/szoptatásáról is volt szó.  
 
 A mellékelt képi anyag Bakos Attila A Duna Evangéliuma című könyvének 138. oldaláról való.  
-![assets/Béka_image3.jpeg|invert_dark](/img/user/B/assets/B%C3%A9ka_image3.jpeg)  
+![assets/Béka_image3.jpeg|fix_dark fix_light|840](/img/user/B/assets/B%C3%A9ka_image3.jpeg)  
 
 Rostás László Mit lehet tudni a hunok és magyarok kapcsolatáról? című az Ősi Gyökér 2008/2. sz. megjelent cikkében írja, hogy egy nagyon érdekes adatot találunk a földműves hun-szkíták területén (jelenleg Mongólia, az Ordosz felett), ahol még ma is ismert teremtés története. A lényeg, hogy a béka ellopja a mag-ot és leviszi a tenger fenekére, melyet onnan egy vízi madár hoz fel. Egyébként ez a jelenet található a Nagyszentmiklósi kancsó nyakán is, és ezért van, hogy a magyar hagyományok szerint a gyermeket, aki a magságot képviseli, a [[G/Gólya\|gólya]] hozza, nem úgy, mint a hinduknál a lótuszvirágban vagy a franciáknál a káposztában születik. Az élő néphit még ma is a terhesség megállapításához a békát használja, vagy ha valaki állapotos lesz, akkor tréfás szólásmondásként azt mondják, hogy lenyelte a békát.  
 
@@ -75,8 +73,7 @@ A Szimbólumtár adatai:
 > • Az alkimista ikonográfiában a természet sötét oldalát, alsó, de termékeny rétegét, az üledéket, a földi anyagot jelképezte.  
 > • A magyar folklórban a szerelmi varázslat (a **szoknya alsó szegélyébe varrt béka** a szoknya viselőjének a szeretett férfi hűségét biztosította), a gyógyítás, valamint a rontás megelőzésének és megszüntetésének eszköze volt.
 
-![assets/Béka_image4.png](/img/user/B/assets/B%C3%A9ka_image4.png)  
-![assets/Béka_image5.png](/img/user/B/assets/B%C3%A9ka_image5.png)  
+![assets/Béka_image4.png|right|110](/img/user/B/assets/B%C3%A9ka_image4.png)![assets/Béka_image5.png|right|110](/img/user/B/assets/B%C3%A9ka_image5.png)  
 Molnár V. József Világ-Virág című könyvének 155. oldalán elemzi a pápuai pajzsot: nála a törzs nem békát, hanem halat idéz, míg az alsó nemzővessző kapcsán említi a magyar néprajzból is ismert ún. "tökös" motívum hármasát (így [[M/Mony\|mony]] címhez is bekerült).  
 A másik mellékelt képen pápuai fatál, melyen szintén béka-alakú az ember.  
 [[U/Ung\|Ung]] címnél álló Magyar Adorján féle adat szerint is a béka emberre hasonlít:  
