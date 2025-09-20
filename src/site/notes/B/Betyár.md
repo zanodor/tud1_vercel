@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/B/Betyár/","title":"Betyár","created":"2023-10-05T03:21","updated":"2024-10-23T23:43"}
+{"dg-publish":true,"permalink":"/B/Betyár/","title":"Betyár","created":"2023-10-05T03:21","updated":"2025-09-20T23:12"}
 ---
 
 
 # Betyár
 
-Betyárokról esett szó [[R/Rogue\|rogue]] és [[R/Robin Hood\|Robin Hood]] címnél. De [[P/Patriot\|patriot]] szónál is szóba került:  
-![assets/Betyár_image1.jpeg](/img/user/B/assets/Bety%C3%A1r_image1.jpeg)  
-Betyár szavunk is közrejátszhatott kialakulásában, nemcsak a latin [[P/Pater\|pater]]. A betyár többet tesz a népért, mint a politikus.  
+Betyárokról esett szó [[R/Rogue\|rogue]] és [[R/Robin Hood\|Robin Hood]] címnél. De [[P/Patriot\|patriot]] szónál is szóba került: 
+Betyár ![assets/Betyár_image1.jpeg|right|300](/img/user/B/assets/Bety%C3%A1r_image1.jpeg)  szavunk is közrejátszhatott kialakulásában, nemcsak a latin [[P/Pater\|pater]]. A betyár többet tesz a népért, mint a politikus.  
 Ami a név elemzését illeti, hasonló hozzá [[B/Bátor\|Bátor]] és [[P/Péter\|Péter]] (melyek mindketten a latin [[P/Pater\|pater]]-rel is összevethetők, de [[P/Patron\|patron]] szónál pátyolgatásról is volt szó), mely az Erő Háza értelmű. Robin Hood nevében [[R/Robin\|robin]] a Nap Házát jelenti.  
 Bet-Jár értelemben kb. ott a háza, ahol jár, azaz sehol, vagy éppen a dutyiban, vagy Pit-Jár értelemben úgy és ott jár, mint a csillagok, és mielőtt lehunyja a szemét, azokat látja (szabad ég alatt alszik).  
 
@@ -34,7 +33,7 @@ Sokatmondó a Siklósi András Rózsa Sándor, a leghíresebb betyár című cik
 > betyár lennék a csárdában,  
 > betyár – az Isten házában!"*  
 
-![assets/Betyár_image3.png|invert_dark](/img/user/B/assets/Bety%C3%A1r_image3.png)  
+![assets/Betyár_image3.png|fix_dark fix_light|840](/img/user/B/assets/Bety%C3%A1r_image3.png)  
 Molnár V. József Világ-Virág című könyvének 168. oldalán közli a "[[V/Verekedő betyárok\|Verekedő betyárok]]"-at. A 166. oldalon elemzi is a képet, némiképp másként mint Pap Gábor teszi egyik-másik előadásában. A képet (színes változatában) [[E/Ember#Ember szavunk Íjas (Íjász) értelme az Ikrek jegyére vonatkoztatva\|ember]] címnél, Ikrek témában is bemutatom.  
 Híres betyárunk a fentebb említett Rózsa Sándor.  
 
