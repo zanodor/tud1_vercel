@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Atum/","title":"Atum","tags":["Englishtexttranslated"],"created":"2023-10-03T11:35","updated":"2025-09-20T02:10"}
+{"dg-publish":true,"permalink":"/A/Atum/","title":"Atum","tags":["Englishtexttranslated"],"created":"2023-10-03T11:35","updated":"2025-09-20T14:10"}
 ---
 
 
@@ -47,9 +47,9 @@ Az At Random: Thoughts and Observations on Life, Morality, Sex, Time, Truth and 
 Mivel [[N/Nimrud\|Nimrud]] neve Nemző Rúd és [[O/Orion\|Orion]] címnél volt szó vízfakasztás kapcsán másról is, mondható Atum Orionnal egyeztethető Atya istennek?  
 
 Borbola János A magyarok istene című Ősi Gyökér 2005/1. sz. megjelent tanulmányából való a mellékelt kép. Mutatja, hogy a név másképp is olvasható.  
-![assets/Atum_image1.jpeg|fix_dark fix_light|780](/img/user/A/assets/Atum_image1.jpeg)  
+![assets/Atum_image1.jpeg|fix_dark fix_light|840](/img/user/A/assets/Atum_image1.jpeg)  
 [Ezen](https://www.borbolajanos.com/images/stories/cikkek/Birok.pdf) már nem működő és archivált oldalon sem elérhető oldaláról származó másik képén tovább erőlteti a temető olvasatot, ami kezdetben nem volt szimpatikus, de [[M/Makar#Makar/Makaru boldog- illetve üdvhalál értelmezése\|Makar/Makaru boldog- illetve üdvhalál értelmezése]] helyen írottak alapján akár még bele is férhet.  
-![assets/Atum_image2.png|fix_dark fix_light|780](/img/user/A/assets/Atum_image2.png)  
+![assets/Atum_image2.png|fix_dark fix_light|840](/img/user/A/assets/Atum_image2.png)  
 
 Egészen hasonló név hozzá az Aten változataként is ismert [[A/Aton\|Aton]]. Az Atum Tum-je lehetne [[D/DON\|DON]] és [[T/TEN\|TEN]] nevekkel összevethető.  
 Szóba került a [[T/TÜN#Quora cikk\|TÜN]] címnél szereplő Quora cikkben is.  
