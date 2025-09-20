@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/A/Angkor/","title":"Angkor","created":"2023-10-13T01:21","updated":"2025-09-20T02:01"}
+{"dg-publish":true,"permalink":"/A/Angkor/","title":"Angkor","created":"2023-10-13T01:21","updated":"2025-09-20T14:05"}
 ---
 
 
 # Angkor
 
 A várostájoláshoz a legjobb analógiákat a hinduizmus kultúrterülete nyújtja, így Angkor: több városból van mintegy "szerkesztve", mindegyik négyzet formájú, árokkal, fallal körülvett, derékszögben kereszteződő utcákkal, középpontjukban templom- és palota-piramisokkal.  
-![assets/Angkor_image1.png|fix_dark fix_light|780](/img/user/A/assets/Angkor_image1.png)  
-![assets/Angkor_image2.png|fix_dark fix_light|780](/img/user/A/assets/Angkor_image2.png)  
+![assets/Angkor_image1.png|fix_dark fix_light|840](/img/user/A/assets/Angkor_image1.png)  
+![assets/Angkor_image2.png|fix_dark fix_light|840](/img/user/A/assets/Angkor_image2.png)  
 *(A mellékelt képek Falvay Károly Nagyboldogasszony című könyvéből valók.)*
 
 Minden ily városnegyed körülbelül egy kilométer oldalhosszúságú, vagyis nagyjából megegyezik a titicacai Acapana-kerület (vár) nagyságával; egymás mellé helyezésük pedig az amerikanista Walter Rubent Chan-Chan tervrajzára emlékezteti, Peru partvidékén. Ezek a városok azonban nem lakónegyedek, hanem az "Ég" mintájára épített szenthelyek, ahogy másutt még látni fogjuk: a lakosság rajtuk kívül élt, nemcsak itt, hanem a világ minden táján.
