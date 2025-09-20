@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bárka/","title":"Bárka","created":"2023-11-09T07:32","updated":"2025-09-20T21:26"}
+{"dg-publish":true,"permalink":"/B/Bárka/","title":"Bárka","created":"2023-11-09T07:32","updated":"2025-09-20T21:27"}
 ---
 
 
@@ -23,12 +23,16 @@ Tehát az elterjedt hiedelem szerint a **Göncölszekér szállítja a túlvilá
 
 #### Várkonyi Nándor...
 
-...[[A/Aalu\|Aalu]] címnél szereplő adata szerint a halott (Nap) bárkájának óegyiptomi neve kher ([[K/KER\|KER]] a Nap neve is ugye):  
+...[[A/Aalu\|Aalu]] címnél szereplő adata szerint a halott (Nap) bárkájának óegyiptomi neve `kher` ([[K/KER\|KER]] a Nap neve is ugye):  
 > A szent folyó neve, melynek ágai Aalu boldog szigetét öntözik: Ak-her-nuti vagy Khernuti; ebből származik a görög-latin Acheron. A halottat vivő bárka neve kher, "a lelkek összegyűjtője", a révészé Kharp-ua, "Nun bárkájának kormányosa" (vö. a görög Charonnal; lásd [[K/Kharón\|Kharón]]).  
 
 A Napbárka/csónak történet előjön a Naphős [[M/Mózes\|Mózes]]nél (és másoknál), kit gyermekkorában kitettek a folyóra (ami a Tejút). Mily nevetséges ezen történeteket valóságosnak felfogni, ha megtudjuk, hogy szimbolikus jelentésűek!  
 
-Bárka úgy tűnik, nemcsak a Napot, hanem a Szíriusz-Napot is szállíthatja. Dr. Gyárfás Ágnes az Ősi Gyökér 2012/1. sz. megjelent Szíriusz Boldogasszonyként való ábrázolása című cikkében írja:  
+Bárka úgy tűnik, nemcsak a Napot, hanem a Szíriusz-Napot is szállíthatja.  
+
+#### Gyárfás Ágnes Szíriusz Boldogasszonyként való ábrázolása...  
+
+...című az Ősi Gyökér 2012/1. sz. megjelent cikkében írja:  
 > A központi ![assets/Bárka_image4.png|fix_dark fix_light right|300](/img/user/B/assets/B%C3%A1rka_image4.png)szereplő két oldalán a Szíriusz csillagának két állapota. Bal oldalon egyszerű csillag, jobb oldalon sárkánybárka sarlóján áll.  
 > Szíriusz a keleti hitvilág felfogásában Sárkánybárkán tette meg az utat az alvilágba és vissza. Ez a kis bárka azonban [[S/Sarló\|sarló]] alakú, nem is kíván másféle képet ölteni.  
 
