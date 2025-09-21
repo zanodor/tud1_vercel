@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzó-torlódás/","title":"Mássalhangzó-torlódás","created":"2024-05-10T03:45","updated":"2024-10-25T23:22"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzó-torlódás/","title":"Mássalhangzó-torlódás","created":"2024-05-10T03:45","updated":"2025-09-21T22:03"}
 ---
 
 
@@ -21,7 +21,7 @@ Majd példákat közöl táblázatos formában, az alábbi megjegyzéssel:
 
 Ezek a magánhangzókiesések az egyes indogermán nyelvek rokon szavaiban gyakran látszólag annyira különböző hangalakokhoz vezetnek, hogy a nyelvtudomány sok esetben metatézist, hangátvetést tételez fel.  
 A bemutatott példákból \[lásd táblázatos adatait könyvében\] világosan megállapítható, hogy ezeknél a különféleképpen vokalizált szóalakoknál nem magánhangzó-[[H/Hangátvetés\|metatézis]]ekról, hanem a hangsúlytalan magánhangzó kieséséről van szó.  
-![assets/Mássalhangzó-torlódás_image1.jpeg|invert_dark](/img/user/M/assets/M%C3%A1ssalhangz%C3%B3-torl%C3%B3d%C3%A1s_image1.jpeg)  
+![assets/Mássalhangzó-torlódás_image1.jpeg|fix_dark fix_light|840](/img/user/M/assets/M%C3%A1ssalhangz%C3%B3-torl%C3%B3d%C3%A1s_image1.jpeg)  
 Könyvének 145. oldalán mássalhangzólekopás címmel folytatja a témát.  
 > Igen jellegzetes hangváltozásnak tartják az indogermán nyelvekben – ezeken belül különösen a germánoknál – a szavak első mássalhangzójának lekopását. Hasonlóan az első szótag magánhangzójának kieséséhez, ez a hanglekopás is felléphet a hangsúly hátrahelyezése következtében is. De nem csak ekkor. Valódi értelemben vett lekopásoknál először többnyire a magánhangzó esik ki, majd a szókezdő mássalhangzó zöngésból zöngétlenbe megy át, illetve mindinkább elhalkul, leheletszerűvé válik és végül teljesen eltűnik.  
 
