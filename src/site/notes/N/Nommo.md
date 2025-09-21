@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nommo/","title":"Nommo","tags":["containstransclusions"],"created":"2024-02-15T00:23","updated":"2025-06-08T01:42"}
+{"dg-publish":true,"permalink":"/N/Nommo/","title":"Nommo","tags":["containstransclusions"],"created":"2024-02-15T00:23","updated":"2025-09-22T01:56"}
 ---
 
 
@@ -24,14 +24,14 @@
 </div></div>
 
 
-![assets/Nommo_image2.png|invert_dark](/img/user/N/assets/Nommo_image2.png)  
+![assets/Nommo_image2.png|fix_dark fix_light|840](/img/user/N/assets/Nommo_image2.png)  
 
 Ezt az alakot Jankovics Marcell is felhozza:  
 > Nommo, az afrikai dogonok [[P/Prométheusz\|Prométheusz]]a, aki ellop egy darab Napot, hogy tűzzel szolgáljon a dogon kovácsoknak, kétnemű lény, kígyószerű végtagokkal.  
 
 Dacára annak, amit Magyar Adorján [[O/Oannesz\|Oannesz]] címnél írt, én magam oda hajlok, hogy a dogon törzs Nommo nevű kultúrhéroszában inkább csillagképet kell látni, mintsem élőlényt. Ez úgy általában az állatokra, ábrázolásukra jellemző is, de Jankovics iménti sorai is ezt látszanak alátámasztani.  
 A kép a mellékelt "magyarázattal" Drunvalo Melchizedek egy könyvéből való. Ő ilyen tüdővel lélegző halat Peruban és Egyiptomban is látott (lásd csatolt képet abüdoszi templomból).  
-![assets/Nommo_image1.png](/img/user/N/assets/Nommo_image1.png)  
+![assets/Nommo_image1.png|fix_dark fix_light|840](/img/user/N/assets/Nommo_image1.png)  
 Nem tartom kizártnak, kivált [[A/Abydos\|Abüdosz]] címnél írottak alapján, hogy itt a Halál (Hal-Áll) fogalmát kell keresni.  
 
 Igen hasonló a név a sumér [[N/Nammu\|Nammu]]hoz.  
