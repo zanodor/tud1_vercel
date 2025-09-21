@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2025-09-21T21:20"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2025-09-21T21:21"}
 ---
 
 
@@ -560,7 +560,7 @@ Kubínyi Tamás több ízben említette a "kísérletet", melyben az ember súly
 #### Antal Zsuzsanna az Ősi Gyökér 2011/1. sz. megjelent cikkében...
 
 ...így summázza, illetve teszi hozzá megjegyzéseit:  
-> A Tejút régi neve: Lelkek Útja. A Csaba-monda szerint is a lelkek otthona a csillagösvény. A hős kiszáradó testét elhagyja az utazás (révülés) erejéig, majd visszatér a testbe (lásd: Platón írásait. A görögök a lelket a szkítákkal való találkozásig felesleges, járulékos elemnek gondolták (ld. Meuli, E.R. Dodds szerzők műveit.)). A lélekutazás legismertebb módszerei: - álom, életveszély, szerelem, tánc, zene – a zene is "kozmikus járműként" üzemel, egy másik világba repíti az embert (szerintem ez a katarzis érzésével lehet összefüggésben). Földöntúli hatalmakkal kerülünk kapcsolatba.  
+> A Tejút régi neve: Lelkek Útja. A Csaba-monda szerint is a lelkek otthona a csillagösvény. A hős kiszáradó testét elhagyja az utazás (révülés) erejéig, majd visszatér a testbe (lásd: Platón írásait). A görögök a lelket a szkítákkal való találkozásig felesleges, járulékos elemnek gondolták (ld. Meuli, E.R. Dodds szerzők műveit.). A lélekutazás legismertebb módszerei: álom, életveszély, szerelem, tánc, zene – a zene is "kozmikus járműként" üzemel, egy másik világba repíti az embert (szerintem ez a katarzis érzésével lehet összefüggésben). Földöntúli hatalmakkal kerülünk kapcsolatba.  
 
 Lásd még a lélek útjának stációiról [[S/Sphere\|sphere]], [[L/Létra\|létra]], [[F/FOK\|fok]], valamint hermetikus adatot [[M/Magyar számok\|magyar számok]].  
 
