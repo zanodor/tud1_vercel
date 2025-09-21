@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Iszlám teremtéstörténet/","title":"Iszlám teremtéstörténet","created":"2024-05-03T12:13","updated":"2025-07-12T00:30"}
+{"dg-publish":true,"permalink":"/I/Iszlám teremtéstörténet/","title":"Iszlám teremtéstörténet","created":"2024-05-03T12:13","updated":"2025-09-21T17:48"}
 ---
 
 
@@ -11,8 +11,7 @@ Volt már [[B/Bibliai teremtéstörténet\|bibliai teremtéstörténet]], [[B/Ba
 Iszlám teremtéstörténet  
 Az ég, a föld és az angyalok teremtése  
 A Korán és a Hadíth nyomán  
-Allah megparancsolta a víz felett lebegő párának, emelkedjék a magasba. És két nap alatt megalkotta az eget. Ezután elválasztotta az eget a földtől, és létrehozta a hét eget és a hét földet.  
-![assets/Iszlámteremtéstörténet_image1.jpeg](/img/user/I/assets/Iszl%C3%A1mteremt%C3%A9st%C3%B6rt%C3%A9net_image1.jpeg)  
+Allah ![assets/Iszlámteremtéstörténet_image1.jpeg|right|300](/img/user/I/assets/Iszl%C3%A1mteremt%C3%A9st%C3%B6rt%C3%A9net_image1.jpeg)  megparancsolta a víz felett lebegő párának, emelkedjék a magasba. És két nap alatt megalkotta az eget. Ezután elválasztotta az eget a földtől, és létrehozta a hét eget és a hét földet.  
 
 Amikor Allah megalkotta a földeket, megparancsolta a szélnek, hogy kavarja fel a vizet. A víz megmozdult, és tajtékzott, magas hullámok tornyosultak, és sűrű pára képződött. Allah elrendelte a tajtéknak: szilárduljon meg, és a tajték megszilárdult. Ebből alkotta meg két nap alatt a víz színén a földeket. Ekkor megparancsolta a hullámoknak: álljanak meg. A hullámok megmeredtek, és ezekből alkotta Allah a hegyeket.  
 
@@ -20,8 +19,7 @@ A föld pedig – akár egy bárka – a vizek színén ringott. Allah előhívo
 
 Történt egy napon, hogy Iblísz az ördög rávette a bálnát, vesse le hátáról a súlyos terhet. A bálna hajlott az ördög szavára. Allah ekkor egy parányi férget alkotott, s a féreg bebújt a bálna orrlyukába, és meg sem állt a roppant állat agyvelejéig. Bahmut szenvedett, nyöszörgött, és rimánkodott Allahhoz, szabadítsa meg kínjaitól. Allah megkönyörült teremtményén, megszabadította a fájdalomtól, de megparancsolta a féregnek, hogy maradjon örökké a bálna közelében, nehogy az újra kísértésbe jöjjön, és ledobja hátáról a bikát, egész terhével.  
 
-Íme a hét ég, amelyet Allah teremtett: Az első ég zöld smaragd, és tehén alakú angyalok lakják; a második vérpiros rubin, keselyű formájú angyalokkal benépesítve; a harmadik sárga rubin, lakói hatszárnyú, sas alakú angyalok; a negyedik színezüst, ló formájú szárnyas angyalokkal; az ötödik bíborszínű arany, angyalai hurikhoz hasonlóak; a hatodik csillogó igazgyöngy, benne gyermek formájú angyalok, kerubok röpködnek; végül a hetedik mennyország ragyogó fényből készült, és boldog lakosait ember formára teremtette az alkotó.  
-![assets/Iszlámteremtéstörténet_image2.jpeg](/img/user/I/assets/Iszl%C3%A1mteremt%C3%A9st%C3%B6rt%C3%A9net_image2.jpeg)  
+Íme ![assets/Iszlámteremtéstörténet_image2.jpeg|right|300](/img/user/I/assets/Iszl%C3%A1mteremt%C3%A9st%C3%B6rt%C3%A9net_image2.jpeg)  a hét ég, amelyet Allah teremtett: Az első ég zöld smaragd, és tehén alakú angyalok lakják; a második vérpiros rubin, keselyű formájú angyalokkal benépesítve; a harmadik sárga rubin, lakói hatszárnyú, sas alakú angyalok; a negyedik színezüst, ló formájú szárnyas angyalokkal; az ötödik bíborszínű arany, angyalai hurikhoz hasonlóak; a hatodik csillogó igazgyöngy, benne gyermek formájú angyalok, kerubok röpködnek; végül a hetedik mennyország ragyogó fényből készült, és boldog lakosait ember formára teremtette az alkotó.  
 
 És íme, a hét föld, amint Allah megteremtette:  
 
