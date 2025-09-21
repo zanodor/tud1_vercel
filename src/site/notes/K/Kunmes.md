@@ -1,17 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kunmes/","title":"Kunmes","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-04T10:42","updated":"2025-06-08T01:08"}
+{"dg-publish":true,"permalink":"/K/Kunmes/","title":"Kunmes","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-04T10:42","updated":"2025-09-21T21:02"}
 ---
 
 
 # Kunmes
 
-A [[S/Sumér zodiákus\|sumér zodiákus]] Halak jegynek megfelelő neve Kun-Mes. A nyelvészek Farkak jelentéssel adatolják ezt a csillagképet, minthogy Kun (ahogy [[K/Kûn\|kûn]], [[K/KONY\|KONY]] és [[K/Konyec\|konyec]] szavaknál is láttuk) farkat, a ló farkát (vagy ékalakú pofáját) jelenti, Mes pedig a többesszámot(?). [[M/MES\|MES]] Péterfai Jánosnál Ifjú, Hős jelentésű, de [[M/MISZ\|MISZ]]-hez, mézhez is köthető lehet. [[M/MES\|MES]] címnél legutóbb alternatív levezetése is született Kunmes-nek: MES a mes-fa, a messzi fa, a Világfa, a Tejút neve és ennek alsó vaskori ideje a Halak (mikor is a [[T/Tavaszpont\|tavaszpont]][^1] a Halakba ér).  
-![assets/Kunmes_image1.png|invert_dark](/img/user/K/assets/Kunmes_image1.png)  
+A [[S/Sumér zodiákus\|sumér zodiákus]] Halak jegynek megfelelő neve Kun-Mes. A Gavin White által követett nyelvészek Farkak jelentéssel adatolják ezt a csillagképet, minthogy Kun (ahogy [[K/Kûn\|kûn]], [[K/KONY\|KONY]] és [[K/Konyec\|konyec]] szavaknál is láttuk) farkat, a ló farkát (vagy ékalakú pofáját) jelenti, Mes pedig a többesszámot(?). [[M/MES\|MES]] Péterfai Jánosnál Ifjú, Hős jelentésű, de [[M/MISZ\|MISZ]]-hez, mézhez is köthető lehet. [[M/MES\|MES]] címnél legutóbb alternatív levezetése is született Kunmes-nek: MES a mes-fa, a messzi fa, a Világfa, a Tejút neve és ennek alsó vaskori ideje a Halak (mikor is a [[T/Tavaszpont\|tavaszpont]][^1] a Halakba ér).  
+
+
+
+> The constellation of the Tails is written _Mul Kun-meš_
+> In Akkadian these signs are read as _zibbātu_ – the ‘tail’ of an animal, the ‘tail-end’ of an army.
+> The **Kun-sign** depicts an animal’s tail with a tuft of hairs at the end. The name may allude to the constellation rising in month 12, the ‘tail-end’ of the year. This sign can also be used to write ‘canal outlet’ – a use that is probably inspired by the astrological association of the Tails-constellation with rivers and irrigation agriculture.  
+> The **Meš-sign** simply demarks the plural; it is always placed at the end of a name.  
+> —  
+> A Farkak csillagképet _Mul Kun-meš_ néven írják.  
+> ![Kunmes_image20250921205857115.jpeg|fix_dark fix_light center|200](/img/user/K/assets/Kunmes_image20250921205857115.jpeg)
+> Akkádul ezeket a jeleket _zibbātu_-nak olvassák – egy állat "farka", egy hadsereg "farokvége".  
+> A **Kun-jel** egy állat farkát ábrázolja, melynek végén szőrpamacs van. A név utalhat arra, hogy a csillagkép a 12. hónapban, az év "végén" kel fel. Ez a jel a "csatornakifolyó" írására is használható – ez a használat valószínűleg a Farkok csillagkép folyókkal és öntözéses mezőgazdasággal való asztrológiai kapcsolatából ered.  
+> A **Meš-jel** egyszerűen a többes számot jelöli; mindig egy név végére kerül.
 
 #### Gavin White Babylonian Star Lore...
 
-...című könyvében ír róla:  
-
+...című könyvében még amit ír róla:  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/S/Suhurmasku/#d1gisc" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -59,7 +70,7 @@ A [[S/Sumér zodiákus\|sumér zodiákus]] Halak jegynek megfelelő neve Kun-Mes
 > Minden okunk megvan azt hinni, hogy a zsinór gondolatát csak az 1. évezred második felében alkalmazták ezekre a csillagokra, amikor a tavaszi napéjegyenlőség helyét jelölték. Ezt megelőzően a zsinór két alkotóelemét Mezopotámia két nagy folyójának, a Tigrisnek és az Eufrátesznek képzelték el. A két zsinórt egyesítő "csomó" eredete a Shat-al-Arabot jelképezi, ahol a két nagy folyó egyesül, mielőtt a Bahreini-öbölbe ömlene.  
 > Ez a két folyó képe a Halak szimbolikájának végső eredete - mivel a folyókat a babilóniai művészetben jellemzően hullámos vonalak párjaként ábrázolták, amelyek mentén apró halakat helyeztek el, hogy tovább hangsúlyozzák vizes jellegüket (lásd a 2. ábrát). Az egész képet a természetből másolták, mivel az év 12. hónapja, amelyet a Farkasok felkelése jelöl, az az évszak, amikor a folyami pontyok a hegyek olvadékvizei által felduzzasztott folyókban úsznak felfelé a szaporodóhelyeikre.
 > Mivel Mezopotámia alapvető gazdasága az öntözéses mezőgazdaságon alapult, a Tigris és az Eufrátesz árvizei nélkülözhetetlenek voltak az ország folyamatos jólétéhez. A Farkak így a közeli Mező csillagképre összpontosító mezőgazdasági szimbolika szerves részének tekinthetők. Ha a Farok kedvező fényszögben áll, akkor jó árvizeket jósolnak: "Ha a Vadjuh megközelíti a Tigris-csillagot: eső és áradás lesz"; és a bőséges áradás természetesen bőséges termést hoz magával: "Ha a Jupiter a Farokban áll: a Tigris és az Eufrátesz megtelik iszappal; jólét és bőség lesz a földön".  
-> ![assets/Kunmes_image3.png|invert_dark](/img/user/K/assets/Kunmes_image3.png)
+> ![assets/Kunmes_image3.png|fix_light](/img/user/K/assets/Kunmes_image3.png)
 > A Farok csillagkép először a "Hold útjának csillagai" között jelenik meg, a Mul-Apinban felsorolt 16 ekliptikus csillagkép között, amelyek a 12 állatövi csillagkép babiloni előfutárai. Maga a csillagkép olyan benyomást kelt, mintha egy újonnan kialakított alakzat lenne, amelyet kifejezetten az év 12. hónapjának jelölésére terveztek. Amint azt teljes neve is elárulja - "az Anunitum és a Fecske farka" -, a Farok valójában egy összetett csillagkép, amelyet más, már korábban létező csillagképek részeiből állítottak össze. A név csak a fenti illusztráció (147. ábra) fényében válik érthetővé, amely a Halak modern képét helyezi a megfelelő babiloni csillagképekre. Ebből kitűnik, hogy a Halak halai lényegesen kisebbek, mint babiloni társaik - és hogy a megfelelő csillagképeknek valójában csak a farkuk felel meg egymásnak.  
 
 Gavin White könyvének interneten elérhető kivonataiban tallózva az előző jegy a Vízöntő [[G/Gula#Gula 2)\|Gula]], a következő jegy pedig a Kos/Béres [[L/Luhunga\|Luhunga]].  
