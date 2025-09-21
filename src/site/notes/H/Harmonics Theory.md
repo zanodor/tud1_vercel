@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Harmonics Theory/","title":"Harmonics Theory","tags":["Englishtexttranslated"],"created":"2024-04-22T12:54","updated":"2025-09-03T16:00"}
+{"dg-publish":true,"permalink":"/H/Harmonics Theory/","title":"Harmonics Theory","tags":["Englishtexttranslated"],"created":"2024-04-22T12:54","updated":"2025-09-21T16:34"}
 ---
 
 
@@ -20,7 +20,7 @@ Az univerzum elemei egy [[P/Pythagorasz\|Pythagorasz]]nak (lásd ott) tulajdoní
 > Liszt Ferenc szerint: A zene a mennyország előcsarnoka." Érdekes, ma már a kutatás is a fentiek mellett szól. Ugyanis a BBC híradása most közölte, hogy a csillagászok lehallgatták a Kozmosz moraját, a kozmikus szimfóniát.  
 
 Kon-Fu-Cse mondta talán: "Arra a kérdésre, hogy vajon egy királyságot megfelelően, netán jó vagy rossz erkölcsök szerint igazgatják, a választ zenekultúrájának minősége adja meg."  
-![assets/HarmonicsTheory_image1.png](/img/user/H/assets/HarmonicsTheory_image1.png)  
+![assets/HarmonicsTheory_image1.png|840](/img/user/H/assets/HarmonicsTheory_image1.png)  
 Ezzel egyet értően mondja Kubínyi Tamás a náci propaganda miniszter Göbbels kapcsán, hogy ő adta ki utasításban, hogy a természetre hangolt zenei A hang 432 Hz-ét 440-re emeljék (erről internetes konteók is születtek). Kubínyi arról nem szól, hogy ma Indiában használt 450 Hz-re van belőve, de a 440 tény, hogy nem [[K/Kilences számrendszer\|kilences számrendszer]]ű, nem harmonikus, így az erre a hangfrekvenciára épülő hangskála egyensúlyt bontó, akár DNS-szintű behatást okoz. Lásd a csatolt képen levő infókat is. (A vízre okozott hatás azért fontos, mert a testünk 70%-a víz, azaz minket programoznak!)  
 A Magyar Királyságban, ha egyszer lesz újra ilyen (Habsburgok és fajtársaik nélkül), az első rendelkezések között a természetes harmonikus frekvenciákra való visszaállás kell szerepeljen.  
 
