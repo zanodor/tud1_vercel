@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nowruz/","title":"Nowruz","created":"2023-11-09T05:04","updated":"2024-10-25T23:37"}
+{"dg-publish":true,"permalink":"/N/Nowruz/","title":"Nowruz","created":"2023-11-09T05:04","updated":"2025-09-22T01:59"}
 ---
 
 
 # Nowruz
 
 A perzsa [[U/Újév\|újév]] napja, mely a tavaszi napéjegyenlőség napjával egyezik (északi féltekén). Now tagja nyilvánvalóan Nap szavunk (ahogy [[N/New\|new]] szó is), ahogy a Ruz (lásd [[R/Rusz\|rusz]]) is Napot jelent.  
-![assets/Nowruz_image1.png|invert_dark](/img/user/N/assets/Nowruz_image1.png)  
 
 A [[T/Tavasz\|tavasz]] az újjászületés időszaka. Iránban és másutt is az év kezdete, Nowruz március 20./21.-ére esik. (Ha már Irán, a perzsa `tavalod` = születés is a távolodás és tavasz ideáját hordozhatja magában.)
 
