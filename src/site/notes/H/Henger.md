@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Henger/","title":"Henger","tags":["Englishtexttranslated"],"created":"2024-11-19T11:20","updated":"2025-05-03T11:02"}
+{"dg-publish":true,"permalink":"/H/Henger/","title":"Henger","tags":["Englishtexttranslated"],"created":"2024-11-19T11:20","updated":"2025-09-21T16:41"}
 ---
 
 
@@ -7,8 +7,7 @@
 
 A henger test egészen biztosan fontos fizikai és metafizikai mondanivalóval kell szolgáljon. CzF nem elemzi a szót, talán mert egyértelműnek gondolja, hogy például a hen-, heny- "gyökkel" kell számolnunk vagy \*hemper-edik ([[G/Gémber\|gémber]]edik; vö. [[G/Gömb\|gömb]]) ige gyökének változatával? Másutt kimondott egyértelmű dolgokat.  
 
-Nyilván a hengeres testeken és testekben való elforgás azaz mindenképpen a körmozgás a lényeg, amit meg kell ragadnunk. Gondoljunk egy spirál-mozgásra, amit hengerbe tudunk zárni (lásd képet).  
-![assets/Henger_image1.png|invert_dark](/img/user/H/assets/Henger_image1.png)  
+Nyilván a hengeres testeken és testekben ![assets/Henger_image1.png|fix_dark fix_light right|300](/img/user/H/assets/Henger_image1.png)  való elforgás azaz mindenképpen a körmozgás a lényeg, amit meg kell ragadnunk. Gondoljunk egy spirál-mozgásra, amit hengerbe tudunk zárni (lásd képet).  
 A hengermalom (miután a [[M/Malom\|malom]] is forgó [[V/Világmodell\|világmodell]]) képzetét is ide kell venni.  
 
 Ami e név elemzését illeti, hehezet nélkül az inger, inga és inog szavakkal lehet kapcsolatot keresni, továbbá a H < K (vissza)változással az elhajlást, görbedést, konyulást kifejező K-N, K-M vázú szavakkal. Ilyen például a [[K/Kunkor\|kunkor]].  
