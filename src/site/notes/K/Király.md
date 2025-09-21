@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-10-27T12:27","updated":"2025-08-19T01:00"}
+{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-10-27T12:27","updated":"2025-09-21T20:56"}
 ---
 
 
@@ -52,7 +52,7 @@ Péterfai János tökéletes levezetéséhez tehető, hogy nem ez az egyetlen he
 
 
 Gyárfás Ágnes Megbánás és megbocsájtás a régi magyar hitvilágban című az Ősi Gyökér 2011/1. sz. megjelent cikkében a Kör-Áll fogalmának helyességét szerintem nem biztos, hogy a megfelelő jellel magyarázza, amennyiben [[S/SAR#Sar 2)\|sar]]-re utal a jel (a mellékelt kép Botos Lászlótól való):  
-![assets/Király_image1.jpeg|invert_dark](/img/user/K/assets/Kir%C3%A1ly_image1.jpeg)  
+![assets/Király_image1.jpeg|fix_dark fix_light|840](/img/user/K/assets/Kir%C3%A1ly_image1.jpeg)  
 A király szavunkat a közel-keleti képjel-írásban egy körrel tudjuk leírni, ami egyben a Teljességet, a Világmindenséget is jelenti.  
 
 A név tehát Ker-Ál, Kir-Ál felbontásban kb. Kör-Állót, Körben Állót, Élőt is jelent, de tulajdonképp az Él, Al (Hal) szavak maguk is levezethetők a Kör fogalmából, ahogy a [[K/KAR\|KAR]] címnél szereplő diagramon és az [[A/A\|A]] címnél álló MindMap-on is fel van tüntetve.  
@@ -157,6 +157,10 @@ Gyárfás Ágnes A magyar múlt és jövő képe 13 erős, időtálló és megbo
 
 ...című az Ősi Gyökér 2013/4. sz. megjelent cikkében írja:  
 > Ma, a huszonegyedik század elején, az ország jövőképében előkerültek olyan törekvések is, melyek a királyi személy kiválasztásának adtak hangot. Ezek a törekvések csak az utolsó egységes 1505-ös országgyűlés értékeit figyelembe véve válhatnak legitim iránnyá. A nemzeti királynak királyságra jelölt családja 7 feltételnek, kell, hogy megfeleljen: Ősi főnemesi múlt, családfája mohácsi vész előtti kell, hogy legyen, királyválasztó zászlós úr legyen az őse, az ősök nemzeti király oldalán működtek, mint Mátyás és I. János király, de Habsburg uralkodók által adományozott ranggal nem rendelkezik, a nemzeti ellenállásban részt vett a családja, mint a Rákóczi- szabadságharcban vagy a 1848-as szabadságharcban. Nem volt a diktatúra időszakában a fasiszta, illetve a kommunista pártnak a tagja. Ez a 7 feltétel teszi az 1000 éves ország hiteles királyává és az európai uralkodóházakkal egyenértékűvé.  
+
+## Utolsó magyar vérű király
+
+Hunyadi Mátyással kapcsolatosan szokás említeni, hogy ez ő halála után nincs már magyar vérű királyunk. Ez nem igaz, mert [Szapolyai János](https://hu.wikipedia.org/wiki/I._J%C3%A1nos_magyar_kir%C3%A1ly) volt az utolsó magyar vérű király.  
 
 ## Király a magyar népmesékben
 

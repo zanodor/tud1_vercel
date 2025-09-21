@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kupa/","title":"Kupa","tags":["containstransclusions"],"created":"2023-11-14T06:29","updated":"2025-08-19T01:00"}
+{"dg-publish":true,"permalink":"/K/Kupa/","title":"Kupa","tags":["containstransclusions"],"created":"2023-11-14T06:29","updated":"2025-09-21T21:04"}
 ---
 
 
@@ -20,8 +20,8 @@ A fejjel lefelé fordított, [[S/Szoba#Szoba szakrális geometrikus értelmezés
 #### Péterfai János írja:
 
 > Mivel Szkythaország hossza 360 stádium, teljesen világos számunkra, hogy az adat a kör fokait nevezi meg. A 360 fok azt a kört írja le, amit a Föld felszínére helyezhetünk, és egy teljes kört láthatunk. A teljes kör a horizont, vagyis a látóhatár. A közepében vagyunk mi, vagyis az a személy, aki a környéket meg akarja pillantani. A világ közepe mindig ott van, ahol mi vagyunk. Meséink erről a tényről világosan beszélnek. Csudaország szélessége 180 stádium, Thuróczy Jánosnál, Kézai Simon mesternél 190 stadium. A 10 stádium eltérés sok gondolatra indíthatja a kutakodót. Thuróczy János adata azonos a félkör fokainak a számával. Tehát arról van szó, hogy a 360 fokos kört alkotó látóhatár felett létezik a 180 fokos félkört alkotó égbolt. Bizony, a 180 stádium az égboltot jelenti számunkra. A Csudaországot.  
-> ![Kupa_image20250414141348516.jpeg|invert_dark](/img/user/K/assets/Kupa_image20250414141348516.jpeg)
-> Szkytha, Csuta, Csuda = az Égbolt
+> ![Kupa_image20250414141348516.jpeg|fix_light](/img/user/K/assets/Kupa_image20250414141348516.jpeg)
+> *Szkytha, Csuta, Csuda = az Égbolt*
 > \[...\]  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/K/Koponya/#31vx84" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

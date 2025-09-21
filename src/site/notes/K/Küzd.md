@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Küzd/","title":"Küzd","created":"2025-04-22T15:54","updated":"2025-06-08T01:09"}
+{"dg-publish":true,"permalink":"/K/Küzd/","title":"Küzd","created":"2025-04-22T15:54","updated":"2025-09-21T21:13"}
 ---
 
 
@@ -15,9 +15,8 @@ A kiinduló gyökszó viszont mégis csak [[K/KU\|KU]] lehet, annál is inkább,
 Küzd bekerült így a [[K/Kut\|kut]] címnél lévő életkör-diagramba is.  
 
 [[M/Magyar istencsalád\|Magyar istencsalád]] címnél is szerepelt:  
-Ahogy [[H/Hierogamy\|hierogamy]] és [[G/Gemini\|Gemini]] címnél is írtuk, a magyar istencsalád hím és női tagjai itt, ezen a téridőbeli pontos tartják szent nászukat (ahol a [[K/Kutyanemzés\|kutyanemzés]] is található). Mondhatnánk azt is, hogy a [[J/Jin és jang\|jin és jang]] ábra rögzített állapotában a találkozás (nász) középen van. Ott azon címnél is szerepelt:  
+Ahogy [[H/Hierogamy\|hierogamy]] és [[G/Gemini\|Gemini]] címnél is írtuk, a ![assets/Küzd_image1.png|right|122](/img/user/K/assets/K%C3%BCzd_image1.png)  magyar istencsalád hím és női tagjai itt, ezen a téridőbeli pontos tartják szent nászukat (ahol a [[K/Kutyanemzés\|kutyanemzés]] is található). Mondhatnánk azt is, hogy a [[J/Jin és jang\|jin és jang]] ábra rögzített állapotában a találkozás (nász) középen van. Ott azon címnél is szerepelt:  
 A régi kínai felfogás szerint a világmindenség két fő princípiuma a jin és a jang, a negatív vagy női, és a pozitív vagy férfi.  
-![assets/Küzd_image1.png](/img/user/K/assets/K%C3%BCzd_image1.png)  
 Ennek a kettőnek a küzdelme, illetve olykor egymásba való átcsapása hoz létre minden mozgást (mely már az [[E/Eros\|Eros]] címnél írottakat idézi; [[K/Kinetic\|kinetic]] címnél írottakat is lásd mozgásról).  
 Ez a küzdelem nem más, mint az, amit a **Szíriuszhoz kapcsolt háború- és szerelem-istennő szerepkörök**ben is látunk: a küzdelem a szerelmi és háborús csatározásra értendő, illetve leginkább **annak évköri helyé**re: ott a küzdelem helye ([[B/Barát és ellenség\|barát és ellenség]] találkozóhelye), ahol az ellenhatás, a [[N/Negatív visszacsatolás\|negatív visszacsatolás]].
 { #250503}

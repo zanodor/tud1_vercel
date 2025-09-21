@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar népművészet/","title":"Magyar népművészet","tags":["Englishtexttranslated"],"created":"2024-05-14T12:18","updated":"2025-08-27T02:46"}
+{"dg-publish":true,"permalink":"/M/Magyar népművészet/","title":"Magyar népművészet","tags":["Englishtexttranslated"],"created":"2024-05-14T12:18","updated":"2025-09-21T21:29"}
 ---
 
 
@@ -103,8 +103,7 @@ Internetes oldalról:
 > Az életcsíra ábrázolás a Mag népénél nem lehet meglepő. Az Élet Virága közelében volt egy hasonló, de kisebb rajzolat, amit az Élet Magjának neveznek. Ez 7 körből, illetve gömbből áll. A 7 gömb jelentheti a teremtés 7 napját, a 7 alaphangot (Dó, Ré, Mi, Fá, Szó, Lá, Ti, majd ismétlődik a Dó-val tovább) és ábrázolhatja a sejt osztódását is a fogantatás után, valamint az ember energiaközpontjait (csakráit/csokrait). Az Élet Magjának megszerkesztéséből kiolvasható a Teremtés első 7 mozdulata, az élővilág megteremtésének története.  
 >
 > Csatolva lásd: a nő mint életfa ábrázolása – Faragott székely ládáról – Háromszékről  
->
-> ![assets/Magyarnepmuv_image1.png|invert_dark](/img/user/M/assets/Magyarnepmuv_image1.png)  
+> ![assets/Magyarnepmuv_image1.png|fix_dark fix_light right|300](/img/user/M/assets/Magyarnepmuv_image1.png)
 > "A hagyomány formái változhatnak, de lényege ugyanaz marad, amíg él a nép, amelynek lelkét kifejezi. S eljön az idő, amikor a művelt réteg a néptől átvett hagyományt új, művészi formába öntve újra átadhatja a nemzeti közösségnek, a nemzetté vált népnek." – Kodály Zoltán  
 - Lásd még folytatásként, képekkel [[V/Világmodell\|világmodell]], valamint [[M/Magyar térrendezés\|magyar térrendezés]].
 
@@ -212,9 +211,8 @@ Ami a magyaroknál [[P/Pogány\|pogány]] (népi) kereszténység, az a római p
 Ami a népi nyelvezet/szókincsbe tartozó, a valaha magyarajkú Olaszországban, Spanyolországban (magyar ősvallásbeli macaroni, Macarena), az a latin birodalmi lexikális nyelvezetből magyarázott (lásd erről [[N/Nyelvészet mint tudomány\|nyelvészet mint tudomány]] és más címeket).  
 Ezekről a dolgokról mindenütt volt szó, itt-ott.  
 
-![assets/Magyarnepmuv_image3.jpeg|invert_dark](/img/user/M/assets/Magyarnepmuv_image3.jpeg)  
 Dúcz László Szent madarunk a Turul című tanulmányának sorait [[T/Turul\|Turul]] címnél szerepeltettük. Ott is azt láttuk, hogy mind a népi/házi motívumok és a hun "birodalmi" (ami eredetileg isteni-istenkirályi) motívumok (lásd [[C/Címer\|címer]] és [[Z/Zászló\|zászló]] arról, hogy a birodalmi felfogás valóban helytelen) egyaránt ugyanazon háttérből, a magyar néplélekből és népi hitvallásból táplálkozik. Dúcz László [[T/Turul\|Turul]] címhez be nem tehető adatát is ide tenném inkább (hogy a konyhai használati tárgyakra is kitérjünk):  
-Szerintem, a képen látható lisztmerő kanál a Turul-monda (Emese álma) legszebb újkori megformázása. A kanálról jól látszik, hogy a madár ragadozó. Görbe a csőre, szeme, füle megformázott, taraja, szárnya csak jelölt. Tehát az ősi szkíta füles madárról van szó. A madár hátán a Napkorong, ami jelzi, hogy ő az Atya küldöttje. A napkoronggal szemben a (kanál pereme) Hold-sarló: a nő, azaz az anya. Mindez akkor kezd "működni", amikor a kenyeret sütő asszony megmeríti a kanalat a lisztben. Még ma is igen sok helyen a kenyeret életnek nevezik. Itt az élet a "szemünk láttára" keletkezik az Úr akaratából – melyet a madár közvetít az anya "ölébe". Csodálatos emléke ősi műveltségünknek, és semmiképpen nem mondható totemhitnek.  
+> Szerintem, ![assets/Magyarnepmuv_image3.jpeg|fix_dark fix_light right|200](/img/user/M/assets/Magyarnepmuv_image3.jpeg)a képen látható lisztmerő kanál a Turul-monda (Emese álma) legszebb újkori megformázása. A kanálról jól látszik, hogy a madár ragadozó. Görbe a csőre, szeme, füle megformázott, taraja, szárnya csak jelölt. Tehát az ősi szkíta füles madárról van szó. A madár hátán a Napkorong, ami jelzi, hogy ő az Atya küldöttje. A napkoronggal szemben a (kanál pereme) Hold-sarló: a nő, azaz az anya. Mindez akkor kezd "működni", amikor a kenyeret sütő asszony megmeríti a kanalat a lisztben. Még ma is igen sok helyen a kenyeret életnek nevezik. Itt az élet a "szemünk láttára" keletkezik az Úr akaratából – melyet a madár közvetít az anya "ölébe". Csodálatos emléke ősi műveltségünknek, és semmiképpen nem mondható totemhitnek.  
 
 [[P/Perzsa#Perzsa művészet\|Perzsa művészet]] cím/alcímnél volt szó arról, hogy a perzsák Mezopotámiából kölcsönzött művészethez semmit sem tettek hozzá, ellenkezőleg: náluk merev, sematikus, mindennemű fejlődési tendencia nélküli udvari művészetté csökevényesedett, amely mindvégig csupán a királyi család reprezentációs igényeinek kielégítésére szolgált, és nem tudott mélyebb gyökereket ereszteni (Ghirshman: i.m.).  
 Ugyanezt látjuk mindenhol a világban: amíg más (eredeti: szkíta-magyar) a készítő (vagy nyelv esetében a beszélő), addig egyéni/népi és magasrangú (persze mások kultúrájának öregbítése gyanánt, mert magyar semmi sem lehet), aztán a másolatok már silányok, csökevényes vackok, illetve a csillagvallás alapú vallásfilozófiai tételek is elferdítve jelennek meg (lásd [[J/Judeo-kereszténység#Judeo-keresztény teológia\|judeo-keresztény teológia]] cím/alcímnél).  

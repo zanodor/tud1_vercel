@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kundalini/","title":"Kundalini","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-12T07:24","updated":"2025-05-03T09:30"}
+{"dg-publish":true,"permalink":"/K/Kundalini/","title":"Kundalini","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-12T07:24","updated":"2025-09-21T20:56"}
 ---
 
 
@@ -14,51 +14,51 @@ Kenneth Grant The Magical Revival című A. Crowley anyagát feldolgozó könyv�
 Internetes forrásból:  
 
 > Kundalini root meaning  
-> 
+>
 > Kun is the Earth... add the "d" (sometimes spelt "t") and its the little pot of earth (one cell) in the earth (physical manifestation).. and the bits added to the end which some transcribe as "lin" are the perpetual consciousness of the 'alpha and the omega'expressed as potential.. Kundalini is the Refiner's Fire which straightens out the mind's distortions of Life and Nature  
-> 
+>
 > Kundalini is, thus, the energy of our natural physical beingness the life energy of each cell of the Physical Body--particularly the 'stem cells".  
-> 
+>
 > Kundalini is the latent potential of the Feminine Principle of Creation the Life-Force and life consciousness of every cell of all physical life. We are all born with Kundalini already awakened.. we would be very dead if it wasn't.  
-> 
+>
 > Without Kundalini, the Divine Marriage' would never happen and the Tantric Union that gives rise and realisation of the Christos' would be impossible. Love would never be real.  
-> 
+>
 > Kundalini symptoms and experiences  
-> 
+>
 > The experiences some call Kundalini are symptoms of your remembering and the whole of your being awakening to the truth of you as your life force synergy, your inner Holy Spirit, the Divine Fire moves through the body clearing the holding patterns of the memories, beliefs and conditioning of the past. Imagine a taut and twisted elastic band.. unraveling when it is let go.  
 > All of a sudden, the subtle energies.. the nervous system.. starts to function at a much higher level than previously experienced.  
-> 
+>
 > Kundalini rising is not a crisis  
-> 
+>
 > Kundalini is the body's way of re-awakening to the truth of itself. Its like a dam bursting.. a dam that has been holding back the inherent power of the truth of the physical body..  
 > It can often be quite scary as the dam bursts. All of our beliefs, limiting decisions and behavioral patterns from the past are brought to consciousness along with all of the self judgments we have ever made.. and judgments from others that we have taken on. Seemingly, there is nowhere to go.. and we become caught between personality splits.
-> 
+>
 > Kundalini energy is depicted as a serpent coiled at the base of the spine. According to occultism, its function there is to keep us anchored and asleep in the illusion, thus it has a soporific influence in that state. This implies that Kundalini is an energy associated with the Corrupt Demiurge. On the other hand, its activation and discharge up the spine in a prepared initiate is said to bring enlightenment and psychic powers, meaning full etheric activation, which implies that Kundalini is an energy associated with the Logos or, in Christian terminology, the Holy Spirit.  
-> 
+>
 > According to Victoria LePage, the eight outer regions of the kingdom of Shambhala represent eight states of consciousness, accompanied by pain and conflict that lead to the ninth, the "radiant mind of enlightenment". In Kundalini Yoga, it is said that when Kundlini (the evolutionary serpent-like energy that is dormant in the base chakra of unawakened people), ascends the subtle channel of the spine (the sushumna) and reaches the Anahata chakra, then the soul awakens. Now recall that the Hopi say at the next Emergence, consciousness will reverse its direction, back from solar plexus to heart.  
 > —  
 > Kundalini gyökér jelentése
 >
 > Kun a Föld... ha hozzáadjuk a "d"-t (néha "t"-nek írják), akkor a föld (egy sejt) a földben (fizikai megnyilvánulás)... és a végére hozzáadott bitek, amit néhányan "lin"-nek írnak át, az "alfa és az omega" örökös tudatossága, ami potenciálként fejeződik ki.... A Kundalini a Finomító Tűz, amely kiegyenesíti az elme torzulásait az Életről és a Természetről.
-> 
+>
 > A Kundalini tehát a természetes fizikai létünk energiája, a fizikai test minden egyes sejtjének életenergiája – különösen az "őssejteké".  
 >
 > A Kundalini a Teremtés Női princípiumának lappangó potenciálja minden fizikai élet minden sejtjének életereje és élet-tudata. Mindannyian úgy születünk, hogy a Kundalini már felébredt... nagyon halottak lennénk, ha nem így lenne.  
-> 
+>
 > Kundalini nélkül az "Isteni Házasság" soha nem történne meg, és a "Krisztosz" létrejöttét és megvalósulását eredményező tantrikus egyesülés lehetetlen lenne. A szerelem soha nem lenne valódi.  
-> 
+>
 > Kundalini tünetek és tapasztalatok
 >
 > Az egyesek által Kundalininek nevezett tapasztalatok az emlékezésed tünetei, és egész lényed felébred az igazságra, ahogy az életerőd szinergiája, a belső Szentlelked, az Isteni Tűz átvonul a testen, megtisztítva a múlt emlékeinek, hiedelmeinek és kondicionálásainak tartási mintáit. Képzeljetek el egy feszes és csavart gumiszalagot... amely kibomlik, amikor elengedjük.  
 > Hirtelen a finom energiák... az idegrendszer... sokkal magasabb szinten kezd el működni, mint korábban tapasztaltuk.  
-> 
+>
 > A Kundalini emelkedése nem válság
 >
 > A Kundalini a test módja annak, hogy újra ráébredjen önmaga igazságára. Olyan, mint egy gát átszakadása... egy gát, ami visszatartotta a fizikai test igazságának eredendő erejét...
 > Gyakran elég ijesztő lehet, amikor a gát átszakad. Minden hiedelmünk, korlátozó döntésünk és viselkedési mintánk a múltból a tudatosságba kerül, az összes önértékeléssel együtt, amit valaha is tettünk... és a másoktól átvett értékítéletekkel együtt. Úgy tűnik, nincs hová mennünk... és a személyiség kettészakadása között ragadunk.
-> 
+>
 > A Kundalini energiát a gerinc alján feltekeredett kígyóként ábrázolják. Az okkultizmus szerint ott az a funkciója, hogy lehorgonyozva tartson bennünket és álomban tartson az illúzióban, így ebben az állapotban altató hatása van. Ez arra utal, hogy a Kundalini a Korrupt Demiurgoszhoz kapcsolódó energia. Másrészt, aktiválása és a gerincen felfelé történő kisülése egy felkészült beavatottban állítólag megvilágosodást és pszichikai erőket hoz, ami teljes éteri aktiválást jelent, ami arra utal, hogy a Kundalini a Logoszhoz vagy keresztény terminológiában a Szentlélekhez kapcsolódó energia.  
-> 
+>
 > Victoria LePage szerint Shambhala királyságának nyolc külső régiója a tudatosság nyolc állapotát képviseli, amelyeket fájdalom és konfliktus kísér, és amelyek a kilencedikhez, a "megvilágosodás sugárzó tudatához" vezetnek. A Kundalini jógában azt mondják, hogy amikor a Kundlini (az evolúciós kígyószerű energia, amely a fel nem ébredt emberek alapcsakrájában szunnyad), felemelkedik a gerinc finom csatornáján (a sushumnán), és eléri az Anahata csakrát, akkor a lélek felébred. Most emlékezzünk arra, hogy a hopik azt mondják, hogy a következő felemelkedéskor a tudatosság megfordítja az irányát, vissza a napfonattól a szív felé.  
 
 ---

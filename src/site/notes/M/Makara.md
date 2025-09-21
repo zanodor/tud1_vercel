@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2025-08-31T02:52"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2025-09-21T21:34"}
 ---
 
 
@@ -33,9 +33,8 @@ A leírása alapján ez a Jankovics Marcell Jelkép-kalendárium című könyvé
 Tilak Orionjában is volt szó szájról, de ott arról volt szó, hogy a nakshatrakban kimért év száját, vagy a nakshatrak száját hívták az év kezdőjének. Lehet, hogy lényegében egy és ugyanarról van szó, téli napfordulós évkezdésről (hogy ezt az évkezdést most még viszonyították első holdtöltéhez, vagy sem, most mindegy is). Lásd erről [[M/Makara Sankrati\|Makara Sankrati]].  
 A [[M/Magyar\|magyar]] címnél említett japán (sintoista ünnepekre értett) `matsuri` = ünnep szó is könnyen lehet, hogy évkezdő (akár téli napfordulós) ünnep neve volt eredetileg.  
 
-Iain Forbes a LastoftheDruids című oldalról való anyaga szerint Makara nem más, mint a kecskebakhal (Suhurmasku-Capricorn), melyet Magyar Adorján Csodaszarvasában is Szarvassal azonosított (azóta kiderült, hogy a [[S/Skorpió\|skorpió]] is Szarvas). Lásd a mellékelt képen kívül minden egyebet, Forbes írását is [[S/Suhurmasku\|Suhurmasku]] illetve egy részét alant.  
+Iain Forbes ![assets/Makara_image1.png|right|200](/img/user/M/assets/Makara_image1.png)  a LastoftheDruids című oldalról való anyaga szerint Makara nem más, mint a kecskebakhal (Suhurmasku-Capricorn), melyet Magyar Adorján Csodaszarvasában is Szarvassal azonosított (azóta kiderült, hogy a [[S/Skorpió\|skorpió]] is Szarvas). Lásd a mellékelt képen kívül minden egyebet, Forbes írását is [[S/Suhurmasku\|Suhurmasku]] illetve egy részét alant.  
 Itt még csak annyit, hogy a mellékelt képen [[G/Ganga\|Ganga]] (Tejútistennő) "járműve" a Makara.  
-![assets/Makara_image1.png](/img/user/M/assets/Makara_image1.png)  
 
 Michel-Gerald Boutet Druidical Astrology című dolgozatában írja (a Duna-menti műveltséget is szóba hozva):  
 > The Makara sign was at times represented as a crocodile but more often as a dolphin. The dolphin, which is also present in Greek myths and in Celtic myths as the porpoise or merman. It symbolises spirit emerging from the primordial waters. It may be argued that the myth originated in Sumer. Nevertheless, the Lepenski Vir sandstone sculptures of the Danube dated 6000-5000 BCE represent fish-men or mermen that parallel the Sumerian myths.  

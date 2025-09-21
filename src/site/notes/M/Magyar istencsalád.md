@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar istencsalád/","title":"Magyar istencsalád","tags":["Englishtexttranslated"],"created":"2023-11-30T10:05","updated":"2025-06-08T01:10"}
+{"dg-publish":true,"permalink":"/M/Magyar istencsalád/","title":"Magyar istencsalád","tags":["Englishtexttranslated"],"created":"2023-11-30T10:05","updated":"2025-09-21T21:28"}
 ---
 
 
@@ -9,8 +9,7 @@ A [[M/Magyar ősvallás\|magyar ősvallás]] csillagászati tudáson, alapokon n
 
 A teljes isteni-emberi viszonyrendszer felvázolva:  
 Legfelül áll [[N/Nagyboldogasszony\|Nagyboldogasszony]]/[[T/Tejútanya\|Tejútanya]], kinek fia a [[N/Nap\|Nap]] és azok [[N/Nép\|nép]]ei az emberek (egyes csoportjai, különböző törzsi- és népneveken), de apa szerepben (ahogy Gyárfás Ágnes is jól látja; nála viszont [[H/Hunor és Magor\|Hunor és Magor]] az Ikrek; [[C/Castor és Pollux\|Castor és Pollux]] címnél tisztázza magát; én magam pedig [[E/Ember\|ember]] címnél teszem meg) a Tejútanya/[[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]] fia[^1]?-férje [[O/Orion\|Orion]] (annak is az övcsillagai a leginkább érdekesek, Szíriusszali összekötése végett is \[ezek szerint Szíriusz égi helyzete mégis állandó?!\]) (kimondható, hogy [[S/Szíriusz\|Szíriusz]] egyszerre nőiségi és hímségi, hisz a ([[S/Száj\|száj]]on általi) nemzés ott megy végbe, és a szülés helye lesz más, a szemközti Nyilasban; ez a [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] csillagászati háttere).  
-Ahogy [[H/Hierogamy\|hierogamy]] és [[G/Gemini\|Gemini]] címnél is írtuk, a magyar istencsalád hím és női tagjai itt, ezen a téridőbeli pontos tartják szent nászukat (ahol a [[K/Kutyanemzés\|kutyanemzés]] is létrejön). Mondhatnánk azt is, hogy a [[J/Jin és jang\|jin és jang]] ábra rögzített állapotában a közben [[K/Konty\|konty]] címnél is említett találkozás (nász) középen (a [[L/Lemniszkáta\|lemniszkáta]] címnél taglalt kötőpontban) van. Ott, [[K/Konty\|konty]] címnél is szerepelt:  
-![assets/Magyaristencsalad_image1.png|invert_dark](/img/user/M/assets/Magyaristencsalad_image1.png)  
+Ahogy [[H/Hierogamy\|hierogamy]] és [[G/Gemini\|Gemini]] címnél ![assets/Magyaristencsalad_image1.png|right|122](/img/user/M/assets/Magyaristencsalad_image1.png)  is írtuk, a magyar istencsalád hím és női tagjai itt, ezen a téridőbeli pontos tartják szent nászukat (ahol a [[K/Kutyanemzés\|kutyanemzés]] is létrejön). Mondhatnánk azt is, hogy a [[J/Jin és jang\|jin és jang]] ábra rögzített állapotában a közben [[K/Konty\|konty]] címnél is említett találkozás (nász) középen (a [[L/Lemniszkáta\|lemniszkáta]] címnél taglalt kötőpontban) van. Ott, [[K/Konty\|konty]] címnél is szerepelt:  
 A régi kínai felfogás szerint a világmindenség két fő princípiuma a [[J/Jin és jang\|jin és jang]], a negatív vagy női, és a pozitív vagy férfi. Ennek a kettőnek a küzdelme, illetve olykor egymásba való átcsapása hoz létre minden mozgást (mely már az [[E/Eros\|Eros]] címnél írottakat idézi, de [[K/Kinetic\|kinetic]] címnél írottakat is lásd mozgásról).  
 
 #### Rónai Lászlóné Reinkarnáció...

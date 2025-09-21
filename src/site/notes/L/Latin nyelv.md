@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2025-08-10T02:14"}
+{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2025-09-21T21:13"}
 ---
 
 
@@ -146,4 +146,4 @@ Az előző alcím folytatása.
 ## Színek a latin nyelvben
 
 A canus [Wiktionary oldaláról](https://en.wiktionary.org/wiki/canus) való adatsor (az eredeti színeket lásd világos módban):  
-![assets/Latinnyelv_image1.jpeg|invert_dark](/img/user/L/assets/Latinnyelv_image1.jpeg)  
+![assets/Latinnyelv_image1.jpeg|fix_dark fix_light|840](/img/user/L/assets/Latinnyelv_image1.jpeg)  

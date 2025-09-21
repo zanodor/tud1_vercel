@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kína/","title":"Kína","tags":["Englishtexttranslated"],"created":"2023-11-21T09:12","updated":"2025-04-27T10:02"}
+{"dg-publish":true,"permalink":"/K/Kína/","title":"Kína","tags":["Englishtexttranslated"],"created":"2023-11-21T09:12","updated":"2025-09-21T20:55"}
 ---
 
 
@@ -30,7 +30,6 @@ A másik a Huna név, melyből ugyanúgy lehetett létrejött Kína, mint ahogy 
 > Scythian is really an adjective meaning bow-stretcher, referring to Huns who colonised the people you know as Chinese today. But even China = Chuna = Huna = Hun.  
 > —  
 > A szkíta valójában egy melléknév, amely íjfeszítőt jelent, és a hunokra utal, akik gyarmatosították azt a népet, amelyet ma kínai néven ismerünk. De még Kína = Chuna = Huna = Hun.  
-
 
 #### A Czuczor-Fogarasi szótár...
 

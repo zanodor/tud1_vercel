@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Martu/","title":"Martu","tags":["Englishtexttranslated"]}
+{"dg-publish":true,"permalink":"/M/Martu/","title":"Martu","tags":["Englishtexttranslated"],"created":"2025-02-24T23:25","updated":"2025-09-21T21:41"}
 ---
 
 
@@ -11,17 +11,15 @@ Fáy Elek A magyarok őshona című könyvében a 15-16. oldalon ír Marturól.
 #### Jeremy Black és Anthony Green Gods, Demons and Symbols in Ancient Mesopotamia...
 
 ...című könyvükből való:  
-> Amurru/Martu was probably a western Semitic god originally. He is sometimes described as a 'shepherd' or as a storm god, and as a son of the sky-god Anu. He is sometimes called bêlu šadī or bêl šadê, 'lord of the mountain'; dúr-hur-sag-gá sikil-a-ke, 'He who dwells on the pure mountain'; and kur-za-gan ti-\[la\], 'who inhabits the shining mountain'. In Cappadocian Zinčirli inscriptions he is called ì-li a-bi-a, 'the god of my father'.  
-> Accordingly, it has been suggested by L. R. Bailey (1968) and Jean Ouelette (1969), that this Bêl Šadê might be the same as the Biblical 'Ēl Šaddāi who is the God of Abraham, Isaac, and Jacob in the "Priestly source" of narrative, according to the documentary hypothesis. Bêl Šadê could also have become the fertility-god 'Ba'al', possibly adopted by the Canaanites, a rival and enemy of the Hebrew God YHWH, and famously combatted by the Hebrew prophet Elijah.  
-> Amurru also has storm-god features. Like Adad, Amurru bears the epithet ramān 'thunderer', and he is even called bāriqu 'hurler of the thunderbolt' and Adad ša a-bu-be 'Adad of the deluge'. Yet his iconography is distinct from that of Adad, and he sometimes appears alongside Adad with a baton of power or throwstick, while Adad bears a conventional thunderbolt.  
+> Amurru/Martu was probably a western Semitic god originally. He is sometimes described as a 'shepherd' or as a storm god, and as a son of the sky-god Anu. He is sometimes called `bêlu šadī` or `bêl šadê`, 'lord of the mountain'; dúr-hur-sag-gá sikil-a-ke, 'He who dwells on the pure mountain'; and kur-za-gan ti-\[la\], 'who inhabits the shining mountain'. In Cappadocian Zinčirli inscriptions he is called `ì-li a-bi-a`, 'the god of my father'.  
+> Accordingly, it has been suggested by L. R. Bailey (1968) and Jean Ouelette (1969), that this Bêl Šadê might be the same as the Biblical [[E/El Shaddai\|'Ēl Šaddāi]] who is the God of Abraham, Isaac, and Jacob in the "Priestly source" of narrative, according to the documentary hypothesis. Bêl Šadê could also have become the fertility-god 'Ba'al', possibly adopted by the Canaanites, a rival and enemy of the Hebrew God YHWH, and famously combatted by the Hebrew prophet Elijah.  
+> Amurru also has storm-god features. Like Adad, Amurru bears the epithet `ramān` 'thunderer', and he is even called `bāriqu` 'hurler of the thunderbolt' and Adad ša a-bu-be 'Adad of the deluge'. Yet his iconography is distinct from that of Adad, and he sometimes appears alongside Adad with a baton of power or throwstick, while Adad bears a conventional thunderbolt.  
 > —  
-> Az Amurru/Martu valószínűleg eredetileg egy nyugati sémi isten volt. Néha "pásztorként" vagy viharistenként, valamint Anu égi isten fiaként írják le. Néha bêlu šadī-nak vagy bêl šadê-nek, "a hegy urának" nevezik; dúr-hur-sag-gá sikil-a-ke, "aki a tiszta hegyen lakozik"; és kur-za-gan ti-\[la\], "aki a ragyogó hegyen lakozik". A kappadókiai Zinčirli feliratokban ì-li a-bi-a-nak, "apám istenének" nevezik.  
-> Ennek megfelelően L. R. Bailey (1968) és Jean Ouelette (1969) azt sugallta, hogy ez a Bêl Šadê azonos lehet a bibliai "Ēl Šaddāi-jal, aki Ábrahám, Izsák és Jákob Istene a narratíva "papi forrásában", a dokumentumhipotézis szerint. Bêl Šadê a termékenységisten "Ba'al" is lehetett, akit esetleg a kánaániták fogadtak el, a héber YHWH Isten riválisa és ellensége, akivel a héber próféta, Illés híresen harcolt.  
-> Amurrunak viharisten-jellemzői is vannak. Adadhoz hasonlóan Amurru is viseli a ramān "mennydörgő" jelzőt, sőt bāriqu "mennydörgés dobálója" és Adad ša a-bu-be "az özönvíz Adadja" néven is emlegetik. Mégis, ikonográfiája különbözik Adadétól, és néha Adad mellett jelenik meg hatalmi bottal vagy dobóbotokkal, míg Adad egy hagyományos villámot tart.
-{ #0-7c8}
+> Az Amurru/Martu ![assets/Martu_image1.png|fix_dark fix_light right|300](/img/user/M/assets/Martu_image1.png)valószínűleg eredetileg egy nyugati sémi isten volt. Néha "pásztorként" vagy viharistenként, valamint Anu égi isten fiaként írják le. Néha `bêlu šadī`-nak vagy `bêl šadê`-nek, "a hegy urának" nevezik; dúr-hur-sag-gá sikil-a-ke, "aki a tiszta hegyen lakozik"; és kur-za-gan ti-\[la\], "aki a ragyogó hegyen lakozik". A kappadókiai Zinčirli feliratokban `ì-li a-bi-a`-nak, "apám istenének" nevezik.  
+> Ennek megfelelően L. R. Bailey (1968) és Jean Ouelette (1969) azt sugallta, hogy ez a Bêl Šadê azonos lehet a bibliai [[E/El Shaddai\|El Shaddai]]-jal, aki Ábrahám, Izsák és Jákob Istene a narratíva "papi forrásában", a dokumentumhipotézis szerint. Bêl Šadê a termékenységisten "Ba'al" is lehetett, akit esetleg a kánaániták fogadtak el, a héber YHWH Isten riválisa és ellensége, akivel a héber próféta, Illés híresen harcolt.  
+> Amurrunak viharisten-jellemzői is vannak. Adadhoz hasonlóan Amurru is viseli a `ramān` "mennydörgő" jelzőt, sőt `bāriqu` "mennydörgés dobálója" és Adad ša a-bu-be "az özönvíz Adadja" néven is emlegetik. Mégis, ikonográfiája különbözik Adadétól, és néha Adad mellett jelenik meg hatalmi bottal vagy dobóbotokkal, míg Adad egy hagyományos villámot tart.
+{ #077c8}
 
-
-![assets/Martu_image1.png|invert_dark](/img/user/M/assets/Martu_image1.png)  
 
 #### Péterfai János írja:
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv ősisége – ősnyelv-e a magyar/","title":"Magyar nyelv ősisége – ősnyelv-e a magyar","tags":["Englishtexttranslated"],"created":"2023-10-09T06:38","updated":"2025-08-19T00:57"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv ősisége – ősnyelv-e a magyar/","title":"Magyar nyelv ősisége – ősnyelv-e a magyar","tags":["Englishtexttranslated"],"created":"2023-10-09T06:38","updated":"2025-09-21T21:33"}
 ---
 
 

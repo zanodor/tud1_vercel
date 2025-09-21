@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutia/","title":"Kutia","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-11T11:23","updated":"2025-06-08T01:08"}
+{"dg-publish":true,"permalink":"/K/Kutia/","title":"Kutia","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-11T11:23","updated":"2025-09-21T21:09"}
 ---
 
 
@@ -7,7 +7,9 @@
 
 [[K/Kutya\|Kutya]] írásmódja is ismert ennek a már [[C/Cuccia\|cuccia]] címnél is említett Szicíliában is ismert (megdöbbentő, hogy ott is, de Magyarországon nem) karácsonyi (Szicíliában [[L/Luca\|Luca]]-napi volt, de tudjuk, hogy a régi Luca-nap december 21.-ére vonatkozott) pudding-hoz hasonlított desszertnek. (Az angolok Christmas pudding-ja más elven készül.)  
 [Ezen](https://www.everydayhealthyrecipes.com/polish-kutia-recipe-wheat-berry-pudding/) és [ezen](https://en.avtodid.pp.ua/17395/1/kutia.html) oldalakon lehet olvasni róla.  
-![assets/Kutia_image1.png](/img/user/K/assets/Kutia_image1.png)  
+![Kutia_image20250921210705299.jpeg](/img/user/K/assets/Kutia_image20250921210705299.jpeg)
+*'Kutia' (vagy 'kutya') egy hagyományos Szentestén fogyasztott étel, nemcsak Lengyelországban, hanem Ukrajnában, Fehéroroszországban, Oroszországban és Litvániában is. Az étel lengyel változata Kelet-Lengyelországból származik, és a II. világháború után vált népszerűvé az egész országban.*  
+
 Lényegében a lengyel receptet követve búzaszemeket vagy búzacsírát főznek, majd mákkal is keverik. Magyarországon mi is ilyenkor, karácsonykor mákos gubát (de csak parasztosan, kifliből) illetve mákos (és diós) bejglit fogyasztunk.  
 De itt elsősorban még a harmadik legfontosabb alkotóelemre, a benne lévő mézre hívom fel a figyelmet, mely [[M/MISZ\|MISZ]] címnél is előjött, Plinius [[S/Szíriusz\|Szíriusz]] mézzel való kapcsolatba hozatala kapcsán (itt csak magyarul adom):  
 > Furcsa módon Plinius a Szíriuszt is a méz eredetével hozta összefüggésbe a felemelkedése idején:
@@ -20,8 +22,8 @@ A [[M/Mák\|mák]] lehet Magorra utaló, vagy a mákszemek a búzaszemekhez haso
 Igen furcsának tartom, hogy a magyaroknál ilyen étel nem maradt meg, de a szicíliai és szláv kapcsolatok azt mutatják, hogy Görögországban még ismert volt és onnan kerülhetett tovább.  
 Mint ahogy [ezen](https://en.wikipedia.org/wiki/Kutia) oldal szerint más orthodox keresztény népeknél is megtaláljuk, de más néven.  
 Az, ami itt áll, miszerint a kutia név a görög `kókkosz` = gabona(szem) szóból eredne, nem elfogadható. Ez, ahogy [[C/Coco\|coco]] címnél is szerepelt, inkább a tojás és tojásalakra utaló név.  
-![assets/Kutia_image2.png](/img/user/K/assets/Kutia_image2.png)  
-Itt jön a megdöbbentő adat ismét, ugyanis ezekben az országokban az étel neve a [[K/Kalb\|kalb]] címnél taglalt, szintén (Nagy) Kutyát jelentő Kal-Eb vázhoz hasonlítható: bolgár `koleva`, román `coliva`, melyeket [ezen](https://en.wiktionary.org/wiki/koliva) oldal alapján szintén görög eredetre visznek vissza:  
+
+Itt ![assets/Kutia_image2.png|right|200](/img/user/K/assets/Kutia_image2.png)  jön a megdöbbentő adat ismét, ugyanis ezekben az országokban az étel neve a [[K/Kalb\|kalb]] címnél taglalt, szintén (Nagy) Kutyát jelentő Kal-Eb vázhoz hasonlítható: bolgár `koleva`, román `coliva`, melyeket [ezen](https://en.wiktionary.org/wiki/koliva) oldal alapján szintén görög eredetre visznek vissza:  
 > A dish made of sweetened boiled wheat, optionally mixed with nuts and spices, and used in Eastern Orthodox rituals to commemorate the dead or at slava.  
 > From Ancient Greek `κόλλυβα` (kólluba, "small cakes"), from `κόλλυβος` (kóllubos, "small coin").  
 > —  
