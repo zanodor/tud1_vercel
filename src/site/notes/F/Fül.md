@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["Englishtexttranslated"],"created":"2023-10-03T09:41","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["Englishtexttranslated"],"created":"2023-10-03T09:41","updated":"2025-09-21T12:00"}
 ---
 
 
@@ -13,9 +13,8 @@ A CzF szótár a fül szóban a fel(álló) (és kiálló) értelmet keresi, azz
 Fül szavunkkal mutat egyezést a francia `feuille` = (fa)levél (talán a kutya füléhez hasonlíttatott). [[F/File\|File]] címnél is előjött fül.  
 Igeként fül a fől és fűt (és a fú(j)) szavainkkal rokon. Valószínűbb, hogy a francia szó és a latin `folium` = levél elődje inkább [[F/Fúj\|fúj]] (szél) szavunkkal rokonítandó.  
 Fül rokon a [[F/Fürj\|fürj]] für elemével is.  
-![assets/Fül_image1.png|invert_dark](/img/user/F/assets/F%C3%BCl_image1.png)  
 
-A fül megint csak egy olyan szó, melybe többféle ideát kellett belesuvasztani. Egyrészt valóban rokon vele a [[F/Fel\|fel]], hiszen a figyelmes [[K/Kutya\|kutya]] felfelé álló füle [[S/Szarv\|szarv]]ként volt értelmezett. A másik használható fogalmi kapcsolódás a [[F/Fél\|fél]] szavunkkal van. A két fül két iránya a téridőnek és a teremtett világ dualisztikus rendjének felel meg. A fülben így tündéri füleket, mint a szellem házából, a fejből kivezetett függelékeket, apró szárnyakat kell látni. Olyanokat, melyekről [[D/Dió\|dió]] és frissen [[F/Fin\|fin]] címnél is volt szó.  
+A fül megint ![assets/Fül_image1.png|fix_dark fix_light right|300](/img/user/F/assets/F%C3%BCl_image1.png)  csak egy olyan szó, melybe többféle ideát kellett belesuvasztani. Egyrészt valóban rokon vele a [[F/Fel\|fel]], hiszen a figyelmes [[K/Kutya\|kutya]] felfelé álló füle [[S/Szarv\|szarv]]ként volt értelmezett. A másik használható fogalmi kapcsolódás a [[F/Fél\|fél]] szavunkkal van. A két fül két iránya a téridőnek és a teremtett világ dualisztikus rendjének felel meg. A fülben így tündéri füleket, mint a szellem házából, a fejből kivezetett függelékeket, apró szárnyakat kell látni. Olyanokat, melyekről [[D/Dió\|dió]] és frissen [[F/Fin\|fin]] címnél is volt szó.  
 
 A nagy fül az elefántokra és az elefántokra hasonlító cigány és indiai emberekre is jellemző. Nem lehet tehát véletlen, hogy a héber `pil` és (a nyilván arab-)perzsa `fil` = elefánt jelentésű.  
 Az [alábbi](https://www.youtube.com/watch?v=d5dtZEVQk6Q) Bahador Alast (perzsa és héber szavakat hasonlító) videóban volt róluk szó.  
