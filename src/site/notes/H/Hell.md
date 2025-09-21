@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hell/","title":"Hell","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-11-20T04:58","updated":"2024-11-20T04:58"}
+{"dg-publish":true,"permalink":"/H/Hell/","title":"Hell","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-11-20T04:58","updated":"2025-09-21T16:41"}
 ---
 
 
@@ -22,7 +22,7 @@ Magyar Adorján a német `hölle` = pokol szót joggal a magyar [[H/Halál\|hal�
 `Hél` Erdélyben és némelyütt a Dunántúl is = a háztető alatti padlás ürege, írja Magyar Adorján.  
 
 Asztrológiai tanokat követve is a pokol a Helios, Nap a Kis Év azon 6 [[A/Alvilág\|alvilág]]i hónapját jelenti, mely szeptember 23-tól március 20-ig tart. A felső fél a "Kingdom of Heaven," a Menny Királysága.  
-![assets/Hell_image1.png|invert_dark](/img/user/H/assets/Hell_image1.png)  
+
 Azaz Hell valóban a [[H/HAL\|HAL]]/[[A/AL\|AL]] etimonok szerint értendő.  
 
 
@@ -51,7 +51,7 @@ Egyébként a Wiktionary amit ír:
 
 Majd maga is az [[E/ÉL\|él]] gyökhöz hasonlít:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/s/sol/#6p2hw" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/S/Sol/#6p2hw" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
