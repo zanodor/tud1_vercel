@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mátyás/","title":"Mátyás","created":"2023-11-17T07:56","updated":"2025-08-31T02:52"}
+{"dg-publish":true,"permalink":"/M/Mátyás/","title":"Mátyás","created":"2023-11-17T07:56","updated":"2025-09-21T22:34"}
 ---
 
 
@@ -62,11 +62,9 @@ A több helyütt idézett [ezen](https://youtu.be/nm0RbK1NX_o) Pap Gábor által
 A bíborosi karnak pedig arról ír, hogy a kettős keresztet kész hármas keresztté változtatni. Azaz a kereszténységen belül át tudunk mi menni egy másik irányba; nem lesz jó packázni velünk.  
 2:03:00-nál pedig azzal teszi az i-re a pontot, hogy a Dózsa György féle háttér a [[P/Pálos\|pálos]] rendből való, akik dolga a magyar nép tudásának őrzése. A pálos rend volt az egyetlen legális fóruma/útja a [[S/Szkítizmus\|szkítizmus]] címnél taglalt szkíta népi szertartásrend judeo-keresztény környezetben való továbbörökítésének (erre létesült, ezért patronálta Mátyás saját tekintélyét latba vetve a pápánál).  
 
-![assets/Mátyás_image1.jpeg|invert_dark](/img/user/M/assets/M%C3%A1ty%C3%A1s_image1.jpeg)  
-
 ## Mátyás Corvinus neve
 
-Mátyás Corvinus (hollós) neve utalás ugye a Hunyadiak hollós címerére és magának Mátyásnak melléknevében is ezért jelenik meg, ahogy annál a [[C/Crow\|crow]] (varjút jelentő) szónál/címnél is írtuk, ahol szintén megjegyeztük, hogy az ott előjövő [[K/Karoly\|karoly]] szóba jött [[K/Király\|király]] címnél is, ahol legutóbb varjú-holló témában értekeztünk.  
+Mátyás Corvinus (hollós) neve utalás ugye a Hunyadiak ![assets/Mátyás_image1.jpeg|fix_dark fix_light right|300](/img/user/M/assets/M%C3%A1ty%C3%A1s_image1.jpeg)  hollós címerére és magának Mátyásnak melléknevében is ezért jelenik meg, ahogy annál a [[C/Crow\|crow]] (varjút jelentő) szónál/címnél is írtuk, ahol szintén megjegyeztük, hogy az ott előjövő [[K/Karoly\|karoly]] szóba jött [[K/Király\|király]] címnél is, ahol legutóbb varjú-holló témában értekeztünk.  
 
 ## Mátyás megmérgezése
 
