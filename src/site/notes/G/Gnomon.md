@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gnomon/","title":"Gnomon","tags":["Englishtexttranslated"],"created":"2025-05-01T10:29","updated":"2025-05-01T10:30"}
+{"dg-publish":true,"permalink":"/G/Gnomon/","title":"Gnomon","tags":["Englishtexttranslated"],"created":"2025-05-01T10:29","updated":"2025-09-21T15:26"}
 ---
 
 
@@ -8,7 +8,7 @@
 Napóra mutatójának hívja Oxford, de hívhatjuk egyszerűen árnyékvető pálcának is. Aczél József adata szerint görög `gnóma` = ismertető jel, `gnómón` = nyomozó. Magyar [[N/Nyom\|nyom]] szavunkból. Lásd még [[G/Gnome\|gnome]] és [[G/Gnostic\|gnostic]]. (Jankovics Marcell A Nap könyve című könyvében szintén azt írja, hogy a görög `gnószisz` = megismerés szóval egy tőről ered a szó. Könyvének egyéb adatait lásd alant.)  
 
 Az ókori Egyiptomban alkalmazták az első komoly csillagászati műszereket: nap- és vízórákat, bemetszett pálcákat, egyszerű szögmérő eszközöket és a függőónt (ezzel a földfelszínre merőleges irányt lehetett megállapítani).  
-![assets/Gnomon_image1.png|invert_dark](/img/user/G/assets/Gnomon_image1.png)  
+![assets/Gnomon_image1.png|fix_dark fix_light|840](/img/user/G/assets/Gnomon_image1.png)  
 A legfontosabb eszközük a gnomon (árnyékvető pálca) volt. A gnomon talán a legősibb és legegyszerőbb csillagászati eszköz, egy függőlegesen földbe szúrt pálca. Segítségével lehetett pontosan meghatározni az észak-déli irányt (a pálca legrövidebb árnyéka jelölte ki). Napóraként is szolgált.  
 
 Az egyiptomi Karnakban i.e. kb. 1470-ben állították fel azt a 30 m magas obeliszket, amely árnyékát Re napisten templomának romjaira veti. Amikor a Nap keletről nyugatra vonul (szaggatott vonal), az árnyék ellentétes irányban vándorol − tehát nyugatról keretre − az obeliszket körülvevő ovális területen. A rajzon látható három árnyékot az obeliszk napfelkeltekor, délben és napnyugtakor veti.  
@@ -35,7 +35,7 @@ Jankovics Marcell folytatja:
 > Az ókori Görögországban Anaximandrosznak tulajdonítják az évszakokat és a napéjegyenlőséget is mutató napóra, valamint a kvadráns használatát.  
 > A napórák (gnómónok) gondos megfigyelése alapján meg lehetett állapítani azokat a napokat, amelyeken adott földrajzi ponton a déli árnyék a legrövidebb. Sokévi tapasztalat alapján a két-két ilyen nap közötti időávolságot meglehetős pontossággal határozták meg. Így a napévet mint két egymás utáni nyári napforduló közötti időtartamot adták meg.  
 > Ez a típusú napóra nemcsak az órát, hanem az évszakot (hónapot, illetve a zodiákus megfelelő csillagképét) is figyelembe vette. A delet jelző vonal (lásd csatolt képen, oldalnézeten: PMG) meghosszabbításában volt a mutató (gnómon) beillesztési helye. Hosszúsága azonos volt a beillesztési pontnak a hálózat kezdőpontjától való távolságával (az oldalnézeten: GH).  
-> ![assets/Gnomon_image2.png|invert_dark](/img/user/G/assets/Gnomon_image2.png)  
+> ![assets/Gnomon_image2.png|fix_dark fix_light|840](/img/user/G/assets/Gnomon_image2.png)  
 > A mutató árnyéka a csonkakúpszerően kiképzett és köríves-sugaras hálózattal ellátott medencére esett, s az időt az árnyék végpontja jelezte. A medence kávájától a napóra széle oly módon húzódik beljebb, hogy a függőlegessel az illető hely szélességi fokával azonos szöget zárjon be. Ez Szamosz szigetén 371/2°, az itt ábrázolt napórán kb. 38°.  
 > A külllőszerően szétágazó sugarak az órákat jelzik (középütt a delet jelző sugár), a három félkörív a téli napfordulót (fent), a napéjegyenlőséget (középütt), illetve a nyári napfordulót (lent) jelzi. Az ilyen órák a napot napkeltétől napnyugtáig 12 egyenlő részre osztották, a nyári időzak órái tehát hosszabbak a téli időszakénál. A mutatót az ilyen típusú napóráknál vízszintesen helyezték el. Ez a napóra, amelyet 1957-ben rekonstruáltak, kb. 10 perces pontossággal mutatta az időt.  
 
@@ -43,10 +43,9 @@ Jankovics Marcell folytatja:
 
 ...című könyvének 62. oldalától szerepelnek információk még a gnomónról. Innen tallózva:  
 > Prométheusz Kronosz-Khronosszal azonos, az Idő Atyával, akinek időjelző kozmikus varázspálcája, gnómonja a földtengely; a mindenség órájának összes mutatója látszólag e körül forog. A tűzcsiholó fúró szexuális jelkép is, az égisten erektált nemzőszerve, amelyet a földanyába fúrva új tüzet, új életet gerjeszt. (L. a siva[[L/Lingam\|lingam]]ot, a hindu Siva isten templomainak szentélyeiben ágaskodó kőfalloszt, mely eredeti gnómon jellegét rég elvesztette, s csak mint termékenység-jelkép funkcionál. Észak-Európában is sok fallikus gnómont találunk a megalit építmények maradványai között.)  
+- Én magam ezeket inkább [[O/Obeliszk\|obeliszk]]eknek nevezném.
 
-Én magam ezeket inkább [[O/Obeliszk\|obeliszk]]eknek nevezném.  
-> ![assets/Gnomon_image3.png](/img/user/G/assets/Gnomon_image3.png)  
-> Nemcsak kőszirt, hanem élőfa is lehetett természet adta gnómon. A fák a "nézők" sok-sok nemzedékét kiszolgálhatják, bár nem halhatatlanok, s hogy fontos szerepet játszhattak a csillagászati mérésekben, arra a [[F/Fa\|fa]] és a Nap (valamint a többi égitest) szoros és eleven hiedelmi kapcsolatából következtethetünk. Fa tövén kelő, fa ágai közt lebegő Nap képével minden műveltségben találkozunk. Megtaláljuk szibériai sámándobon (27. rajz), japán selyemfestményen, kínai írásjelen, egyiptomi bronzedényen, mexikói kódex-miniatúrán, a keresztény művészetben, a népművészetben, egyszóval mindenütt. Százszámra idézhetnénk a fa-Nap kapcsolat szöveges példáit.  
+> Nemcsak ![assets/Gnomon_image3.png|fix_dark fix_light right|300](/img/user/G/assets/Gnomon_image3.png)kőszirt, hanem élőfa is lehetett természet adta gnómon. A fák a "nézők" sok-sok nemzedékét kiszolgálhatják, bár nem halhatatlanok, s hogy fontos szerepet játszhattak a csillagászati mérésekben, arra a [[F/Fa\|fa]] és a Nap (valamint a többi égitest) szoros és eleven hiedelmi kapcsolatából következtethetünk. Fa tövén kelő, fa ágai közt lebegő Nap képével minden műveltségben találkozunk. Megtaláljuk szibériai sámándobon (27. rajz), japán selyemfestményen, kínai írásjelen, egyiptomi bronzedényen, mexikói kódex-miniatúrán, a keresztény művészetben, a népművészetben, egyszóval mindenütt. Százszámra idézhetnénk a fa-Nap kapcsolat szöveges példáit.  
 - Lásd ezeket A fa mitológiájából kimásolva sokkal részletesebben (mint ahogy itt kitér rá) [[F/Fa\|fa]], [[F/Fa és nő\|fa és nő]], [[N/Nut\|Nut]] és [[T/Tejút\|Tejút]].
 
 > A természetes jelfát az idők során faragott [[P/Pózna\|pózna]] vagy kőrakás (herma), kőoszlop ([[O/Obeliszk\|obeliszk]]) váltja fel, később valóságos oszloperdő a különböző nézési irányoknak megfelelően. A hegyet pedig mesterséges halom, [[P/Piramis\|piramis]], "templomhegy", így alakul ki az a több értelmű jelrendszer, mely az ókori építészetet jellemzi. A mérőműszerek ugyanis nemcsak földi jelzőként működtek, hanem – láttuk – égi jelenségeknek is nevet adtak, és a (csillag)vallás központjaivá váltak. Az a gnómon, amely mögül a napisten egy ki-tüntetett időpontjában kibukkan, vagy amely mögött lenyugszik, nyilván a legalkalmasabb hely a neki szóló áldozat bemutatására, és gyermekének, a királynak trónra emelésére illetve eltemetésére.  
