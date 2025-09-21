@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Huta/","title":"Huta","tags":["Englishtexttranslated"],"created":"2023-11-05T03:19","updated":"2025-06-08T00:45"}
+{"dg-publish":true,"permalink":"/H/Huta/","title":"Huta","tags":["Englishtexttranslated"],"created":"2023-11-05T03:19","updated":"2025-09-21T16:56"}
 ---
 
 
@@ -32,10 +32,8 @@ A francia `côte` = domb is idevehető. A sziget = hegy fogalmainak összetartoz
 Borbola János [[H/Ház\|ház]] címnél taglalt A kota és a ház című az Ősi Gyökér 2008/2. sz. megjelent cikkében a viskó és ház jelentésű szavak bemutatása után a hutára is kitér, majd a cikk végén egyiptomi alakját is bemutatja a szónak.  
 (57 Hannig R., Großes Handwörterbuch Ägyptisch-Deutsch (Mainz, 1995), 490. 58 Budge E.A.W., An Egyptian hieroglyphic dictionary, Vol 1. (Dover Edition 1978), 444a)  
 
-Dr. Kovács Sándor Gán.Muš – a kígyó kertje avagy a sötétség című az Ősi Gyökér 2010/1-2. sz. megjelent cikkében, lábjegyzetben az óegyiptomi nyelvben megjelenő ómagyar szó(variáns)ok között bemutatja: ház> egyiptomi `h3t` \[hat\] (ház) szót (vö. az obdorszki osztják (hanti) `hat` (ház) ekvivalensével).  
-A Borbola János által csatolt egyiptomi `hwt` (hut)...  
-![assets/Huta_image1.jpeg|invert_dark](/img/user/H/assets/Huta_image1.jpeg)  
-...kut alakban előjött Magyar Adorjánnál [[K/Kufu\|Kufu]] címnél, ahol Magyar megadja a jelentéseket is:  
+Dr. Kovács Sándor Gán.Muš – a kígyó kertje avagy a sötétség című az Ősi Gyökér 2010/1-2. sz. megjelent cikkében, lábjegyzetben az óegyiptomi nyelvben megjelenő ómagyar szó(variáns)ok között bemutatja: ház> egyiptomi `h3t` \[hat\] (ház) szót (vö. az obdorszki osztják (hanti) `hat` (ház) ![assets/Huta_image1.jpeg|fix_dark fix_light right|300](/img/user/H/assets/Huta_image1.jpeg)  ekvivalensével).  
+A Borbola János által csatolt egyiptomi `hwt` (hut) kut alakban előjött Magyar Adorjánnál [[K/Kufu\|Kufu]] címnél, ahol Magyar megadja a jelentéseket is (de az egyiptológia nem ismeri `kut` néven a piramisokat, csak `mr` néven):  
 > A piramisok egyiptomi neve `kha` vagy `ku` (lásd [[K/KU\|ku]]), sőt éppen Keopszé, vagyis Kufué, egyiptomi nyelven [[K/Kut\|kut]], holott ez utóbbi szóalak a kún szó csoport egyik alapszava.  
 > E neveket az egyiptomi nyelvből "korona, tüzes, világos" értelműnek magyarázzák.  
 - [[K/Kota#Szent ház\|Kota]] címnél, külön alcímnél kitértünk a finnugor szent házakra is.
