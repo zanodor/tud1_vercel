@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hágár/","title":"Hágár","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-14T00:03","updated":"2025-08-19T01:07"}
+{"dg-publish":true,"permalink":"/H/Hágár/","title":"Hágár","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-14T00:03","updated":"2025-09-21T16:23"}
 ---
 
 
@@ -51,22 +51,18 @@ A szöveg:
 > 1\. Nem csupán a héber, de a középkori keresztény források is (h)Agar-enusnak ([[A/Agarénus\|agarénus]]) ismertek minket.  
 >
 > 2\. A Hágár név héber Futó jelentése[^1] összecseng a népnevünkkel egyező görög `Angaros` = lovasfutár (lovas Futó) szóval.  
-- Viszont itt ne feledjük el, hogy az [[A/Agár\|agár]] is jó futó és a lentebb szóba kerülő Khonsu is lehet [[K/Kanca\|Kanca]], mely lehet Tejút- és Holdállat. Hágár tehát vélhetően Tejút-állatnév és lehet a Szíriusz neve is.  
+- Viszont itt ne feledjük el, hogy az [[A/Agár\|agár]] is jó futó és a lentebb szóba kerülő Khonsu is lehet [[K/Kanca\|Kanca]], mely lehet Tejút- és Holdállat. Hágár tehát vélhetően Tejút-állatnév és lehet a Szíriusz neve is.
 
 > 3\. Egyik hitelesítő bizonyítéknak tekinthető, hogy a keleti Hágár/Agrei névnek is volt két GG-s írott változata, aminek NG azaz Angrei/Hangrei a helyes olvasata. Épp úgy, mint a görög `angaros` = lovasfutárnak az írott aggaros formája.  
-> ![assets/Hágár_image1.png|invert_dark](/img/user/H/assets/H%C3%A1g%C3%A1r_image1.png)  
+> ![assets/Hágár_image1.png|fix_dark fix_light|840](/img/user/H/assets/H%C3%A1g%C3%A1r_image1.png)  
 >
-> 4\. A másik meggyőző bizonyíték, hogy régen keleten, a Hágárnak valóban szinonimája volt a Magyar. Ugyanis a régi történetíróknál az arábiai Agarenus/Hagarenus népet, néhol el-MAGAR-IN néven is említették, ráadásul az örmények, VIII. sz.-i Hágár-fi (Szaracén) hódítóikat nem tartották semita népnek![^2]  
-> ![assets/Hágár_image2.png|invert_dark](/img/user/H/assets/H%C3%A1g%C3%A1r_image2.png)  
+> 4\. A másik ![assets/Hágár_image2.png|fix_dark fix_light right|300](/img/user/H/assets/H%C3%A1g%C3%A1r_image2.png)meggyőző bizonyíték, hogy régen keleten, a Hágárnak valóban szinonimája volt a Magyar. Ugyanis a régi történetíróknál az arábiai Agarenus/Hagarenus népet, néhol el-MAGAR-IN néven is említették, ráadásul az örmények, VIII. sz.-i Hágár-fi (Szaracén) hódítóikat nem tartották semita népnek![^2]   
 >
-> 5\. Hágár és Hungár nevek egyezését a XII. sz-i hivatalos magyar állami használat is bizonyítja! II. Géza királyi pecsétjén, kb. 1160, országunk neve Hugarie felirattal látható[^3]!  
+> 5\. Hágár és Hungár nevek egyezését a XII. sz-i hivatalos magyar állami használat is bizonyítja! II. Géza királyi pecsétjén, kb. 1160, országunk neve **Hugarie** felirattal látható[^3]!  
 >
-> Továbbá a Gesta Ungarorum bécsi kéziratában "HUGARII," ... a VII.sz-i Szent Isidornál "UGRIOS," ... Georgikosz Monachosz Világtörténelmében, görög nyelven két GG-vel "OUGGRI," ... és az ebből merítő Nesztornál szláv módra már "UGRI," ... Teofülaktosz Szimokattánál "OUGOR" formában áll népnevünk.
+> Továbbá a Gesta Ungarorum bécsi kéziratában "HUGARII," ... a VII.sz-i Szent Isidornál "UGRIOS," ... Georgikosz Monachosz Világtörténelmében, görög nyelven két GG-vel "OUGGRI," ... és az ebből merítő Nesztornál szláv módra már "UGRI," ... Teofülaktosz Szimokattánál "OUGOR" formában áll népnevünk.    
 >
-> ![assets/Hágár_image3.png|invert_dark](/img/user/H/assets/H%C3%A1g%C3%A1r_image3.png)  
->
-> 6\. A bibliai Hágár mitikus alakján hold-jelleg csillog. Hágárt ugyanis a babiloni Sin holdistennel azonosították, ezért az arábiai Sinai hegyet (azaz Hold-hegyet) egykor Hágár néven ismerték[^4]. A késői arab preiszlám hagyományokban Hagar-Kaham néven, már férfi holdistenként találjuk.  
-
+> 6\. A bibliai Hágár mitikus alakján hold-jelleg csillog. Hágárt ugyanis a babiloni Sin holdistennel azonosították, ezért az arábiai Sinai hegyet (azaz Hold-hegyet) egykor Hágár néven ismerték[^4]. ![assets/Hágár_image3.png|fix_dark fix_light right|150](/img/user/H/assets/H%C3%A1g%C3%A1r_image3.png)A késői arab preiszlám hagyományokban Hagar-Kaham néven, már férfi holdistenként találjuk.  
 > A római Ioannes Franciscus 1557-ben készült térképén a szentföldi helynevekről készült képen valóban látszik, miről beszél Bognár Ferenc. A kinagyított részlet jobb oldali oszlopának második bekezdése:  
 > Sina, Sinai, Mons dei, Hagar, Thur. Sin holdisten Sinai hegyét (Mons dei = Istennő hegye) Hágár hegyének tartották. Később Gebel el Tur.  
 - Ez [alábbi](https://www.raremaps.com/gallery/detail/24738/palestinae-sive-terre-sancte-descriptio-mdlvii-franciscus) oldalról való az általam szerzett kép(részlet).
@@ -76,7 +72,7 @@ A szöveg:
 > Tudósaink tehát Kohn Sámuel rabbi közléséből elfogadták az "ókori tévedés tényét," és lezárva az ügyet, Hungár népnevünk Ábrahám korára vonatkozó, kora-középkori szövegkörnyezetben való előfordulását, vizsgálat nélkül hagyták.
 >
 > Vétkes mulasztás, hiszen Némäti Kálmán már 1912-ben felfedezte, hogy az arabok ősanyjaként "egyiptomi szolgálónak" lefestett Hágár, egy Nimródtól származó királylány volt:  
-> ![assets/Hágár_image4.png|invert_dark](/img/user/H/assets/H%C3%A1g%C3%A1r_image4.png)  
+> ![assets/Hágár_image4.png|fix_dark fix_light|840](/img/user/H/assets/H%C3%A1g%C3%A1r_image4.png)  
 >
 > "A többnyelvű Szentbibliában sikerült felkutatnom a fényképen ide mellékelt Nimród-okmányt, melyet Jonathan ben Uziel, a Kr.u. VII. században összegyűjtött, régi zsidórabbi följegyzések alapján chald nyelven szerkesztett, ami hangtanilag meg jelentéstanilag dr. Krauss Samu rabbiképző tanár szives oktatása nyomán így szól:  
 > ..."És nem lesz szükségünk fiára Hágárnak, aki leánya Fáraonak, aki fia Nimródnak.""  
