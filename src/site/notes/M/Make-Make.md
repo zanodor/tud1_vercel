@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/M/Make-Make/","title":"Make-Make","created":"2024-05-11T04:13","updated":"2024-10-25T23:16"}
+{"dg-publish":true,"permalink":"/M/Make-Make/","title":"Make-Make","created":"2024-05-11T04:13","updated":"2025-09-21T21:34"}
 ---
 
 
 # Make-Make
 
 Húsvét-szigeti madáristenség. A magyar név így kétszeresen van meg benne: mag > mak, magyar – madár.  
-![assets/Make-Make_image1.png|invert_dark](/img/user/M/assets/Make-Make_image1.png)  
 
 Tomory Zsuzsa a magyarok hitvilágának és kifejezésmódjának tündérkori időkből fennmaradt hatásait emeli ki; mások talán földönkívülit látnának ezen ábrázolásban, de a neve ezen istenségnek kétségtelenül Magort idézi.  
 Tomory Zsuzsa írja még:  
-> A világ másik oldalán, Polinézia első lakói szintén őseink naptiszteletének emlékét őrizték meg. Oltáraik – a Húsvét szigeteken – hatalmas kőasztalok, s ezek felett jelenik meg a felkelő nap. Csillagvártáik híresek, mint a Rano Kao tűzhányón. Műveltségűk inka előtti nyomokat őrzött meg, s szintén tündérkori emlékek. Kutatások eredményei hangsúlyozzák, hogy első lakói egy már kiforrott, s magasrendű műveltséget hoztak magukkal, mely semmi rokonságot nem mutat a többi sziget műveltségével. Életük a nap mozgásával kapcsolatos, s megfigyelésére igen nagy gondot fordítottak. Teremtőjüket kerekfejű emberként ábrázolták. Neve Makemake, Mag, illetve Magor nevének visszhangjaként. A G hang a húnok K hangjára változott, kik – mint korábban mutattam – köves, sziklás területeken voltak honosak. Makemake emberei ugyancsak kiváló kőfaragók, olyannyira, hogy kőkitermelő szenvedélyük áltozatává váltak a sziget erdei.  
+> A ![assets/Make-Make_image1.png|fix_dark fix_light right|200](/img/user/M/assets/Make-Make_image1.png)világ másik oldalán, Polinézia első lakói szintén őseink naptiszteletének emlékét őrizték meg. Oltáraik – a Húsvét szigeteken – hatalmas kőasztalok, s ezek felett jelenik meg a felkelő nap. Csillagvártáik híresek, mint a Rano Kao tűzhányón. Műveltségűk inka előtti nyomokat őrzött meg, s szintén tündérkori emlékek. Kutatások eredményei hangsúlyozzák, hogy első lakói egy már kiforrott, s magasrendű műveltséget hoztak magukkal, mely semmi rokonságot nem mutat a többi sziget műveltségével. Életük a nap mozgásával kapcsolatos, s megfigyelésére igen nagy gondot fordítottak. Teremtőjüket kerekfejű emberként ábrázolták. Neve Makemake, Mag, illetve Magor nevének visszhangjaként. A G hang a húnok K hangjára változott, kik – mint korábban mutattam – köves, sziklás területeken voltak honosak. Makemake emberei ugyancsak kiváló kőfaragók, olyannyira, hogy kőkitermelő szenvedélyük áltozatává váltak a sziget erdei.  
 
 Minden továbbit lásd Várkonyi Nándor Sziriat oszlopai című könyvének 414. oldala körül.  
 Lásd még [[M/Makalii\|Makalii]].  
