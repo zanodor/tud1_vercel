@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Istár/","title":"Istár","tags":["Englishtexttranslated"],"created":"2024-12-18T11:25","updated":"2025-06-08T00:59"}
+{"dg-publish":true,"permalink":"/I/Istár/","title":"Istár","tags":["Englishtexttranslated"],"created":"2024-12-18T11:25","updated":"2025-09-21T17:47"}
 ---
 
 
@@ -8,13 +8,13 @@
 #### Péterfai János írja:
 
 > Az Istár név Fény-Tár, rövidülve Sztár.  
-> Istár a szerelem \[[[Inanna\|[Inanna]] címnél úgy állt, hogy ez szerelem- míg Istár már háború-istennő\] és termékenység istennője a szumiroknál, hetitáknál, hurriknál, szemitáknál. Színtiszta magyar név. Nevének két eleme gazdag elterjedtségű. Az Is előtag értelme Izzás, Tűz, Fény. A szó változatai az Iz, talán Iz Boszorkány is Istár, És, Et/Ét, Ész, Es és hasonlók. Az Iszter (Duna), Isztrosz (Duna), Észt nép, angol East, vagy Kur-Ten-Iz, Izisz Iszet, az Et-Na Tűz-Háza, és még sok szó jelzi elterjedtségét.  
+> Istár a szerelem és termékenység istennője a szumiroknál, hetitáknál, hurriknál, szemitáknál. Színtiszta magyar név. Nevének két eleme gazdag elterjedtségű. Az Is előtag értelme Izzás, Tűz, Fény. A szó változatai az Iz, talán Iz Boszorkány is Istár, És, Et/Ét, Ész, Es és hasonlók. Az Iszter (Duna), Isztrosz (Duna), Észt nép, angol `East`, vagy Kur-Ten-Iz, Izisz Iszet, az Et-Na Tűz-Háza, és még sok szó jelzi elterjedtségét.  
 > A Tár magyar ige. Rengeteg szóban megjelenik, lásd Győgyszertár, Kaptár, Magtár, Oktár hun király, stb. A finneknél Ilma-Tár főisten nevében is szerepel, ráadásul a finn Tár Nő jelentésű. Istár tehát az Is, a Fény Tárolója, hasonló Is-Ten szavunkhoz, aki viszont a Fény Istene. Istár, vagy Isztár neve elöl rövidülve adja a Sztár, vagyis Csillag nevet. A Sztarüj, Sztaraja magyar szó a szláv nyelvekben, Öreg jelentéssel, mivel az öreg halad a csillag állapothoz, meghal, csillag lesz belőle. Ez az elképzelés is a magyar csillagvallás alapján jött létre.  
 > A magyar [[E/Eszter\|Eszter]] szintén Isztár-Istár nevének változata. Ész-Ter a pontos jelentés, az Eszterek az Ész, a Világosság Terének hölgyei.  
 > Szent István pecsétjén az [[I/Iszter\|Ister]] szó szerepel.  
+- [[I/Inanna\|Inanna]] címnél úgy állt, hogy ő szerelem-, míg Istár már háború-istennő. Nos, a [[B/Barát és ellenség\|barát és ellenség]] helyen írottak alapján mindkettő ([[S/Szíriusz\|Szíriusz]]hoz való kötődés folytán).
 
-A mellékelt kép Antal Csaba Lánc, lánc, eszterlánc című az Ősi Gyökér 2016/3. sz. megjelent cikkéből való.  
-![assets/Istár_image1.jpeg|invert_dark](/img/user/I/assets/Ist%C3%A1r_image1.jpeg)  
+A ![assets/Istár_image1.jpeg|fix_dark fix_light right|225](/img/user/I/assets/Ist%C3%A1r_image1.jpeg)  mellékelt kép Antal Csaba Lánc, lánc, eszterlánc című az Ősi Gyökér 2016/3. sz. megjelent cikkéből való.  
 
 Istár – sumerül Innin –, istennő, a termékenység legelterjedtebb istene. Megszemélyesíti és irányítja az Élet, a vegetáció dialektikus teljességét, tehát éltető és ölő, szűz és parázna, béke és háború, anya és meddő. Az esthajnalcsillaggal (Venus) azonosították, s ez szemléletesen fejezte ki a vegetációisten eredetileg önmagában-termékeny, majd hím- és nőneműnek átértelmezett természetét.  
 
@@ -28,7 +28,7 @@ Istár – sumerül Innin –, istennő, a termékenység legelterjedtebb istene
 
 - A magyar [[D/DÉR\|dér]] nem jelent lányt; nyilván a [[T/Tündér\|tündér]] szóból vették fel forrásai.
 
-![assets/Istár_image3.jpeg|invert_dark](/img/user/I/assets/Ist%C3%A1r_image3.jpeg)  
+![assets/Istár_image3.jpeg|fix_light](/img/user/I/assets/Ist%C3%A1r_image3.jpeg)  
 
 #### Magyar Adorján írja:
 
@@ -83,9 +83,12 @@ Ha már a görög `hustera` = anyaméh szóba került, ezzel azonos az ógörög
 Még egy gondolat a görög szó kapcsán. A Magyar tájszótár 112. oldalának és Cserey Elek adata szerint a székely `ester` = magtalan jelentésű. Aczél József is említette; lásd [[E/Eszter\|Eszter]] és [[S/Sterile\|sterile]]. ([[H/Hágár\|Hágár]] címnél írottak szerint [[S/Sára\|Sára]] is meddő volt: azaz a meddő = szűz összefüggést tárhatjuk fel, ahol szűz = [[S/Szűzanya\|Szűzanya]].)  
 
 A hal női nemi szerv jelképe is lehet. De a hal lehet a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]] is (Tomory Zsuzsa Istenes magyar emlékeink II. rész című Ősi Gyökér 2005/2. sz. megjelent cikkében is azt írja, hogy a jászok alant taglalt jizétere: a Tejút).  
-Magyar Adorján Ősműveltségében nem így fogja meg (nem a Tejútra, a csillagfolyamra, csak csillagra asszociál), amikor ilyen alakú idegen szavakat mutat be (igaz, a bemutatott képen tényleg csillagok sorakoznak, de itt is a sorozat, a többes szám jelentkezik) (bizonyos nevek nyomdai hibákat tartalmazhatnak, így majd ellenőrizendők):  
-![assets/Istár_image4.jpeg|invert_dark](/img/user/I/assets/Ist%C3%A1r_image4.jpeg)  
+
+#### Magyar Adorján Ősműveltség...  
+
+...című könyvében nem így fogja meg (nem a Tejútra, a csillagfolyamra, csak csillagra asszociál), amikor ilyen alakú idegen szavakat mutat be (igaz, a bemutatott képen tényleg csillagok sorakoznak de itt is a sorozat, a többes szám jelentkezik) (bizonyos nevek nyomdai hibákat tartalmazhatnak így majd ellenőrizendők):  
 > Hogy azonban vannak vagy voltak sokkal határozottabban is csillagalakú páncélpikkelyekkel bíró tokhal-félék, ezt kétségtelenné teszik e halfeléknek a nyelvekben meglévő csillagértelmű nevei. Ezek egyike a latin-olasz `surio`-`storione` = viza vagy tok. A tok másik latin neve acipenser stellatus (lássad Brehmnél), amely név e hal tövises, tüskés pikkelyeiről származott, mivel `acies` = tövis, valaminek hegye vagy éle, `stellatus` pedig ~ csillagos. Herman Ottó viszont ugyane halról még azt is írja, hogy a magyar nép "halak királyá"-nak is nevezi és hogy: "a csillagalakú vértek kiváló dísze avathatja királlyá". Amihez megjegyezem, hogy több népmesénkben is szó van úgy a "halak királyá"-ról mint a "kígyók királyá"-ról is. Továbbá a kecsegét – amely a tokhalak egyik kisebb fajtája – a németben `Sterlet`, `Stir`, egyik német neve Sternhausen (Brehm), viszont a tokot meg `Stör` néven nevezik, amely nevek világosan mind az `aszter`, `Stern`, `star`, `stella` = Csillag szavakból származtak.  
+> ![assets/Istár_image4.jpeg|fix_dark fix_light|840](/img/user/I/assets/Ist%C3%A1r_image4.jpeg)
 
 #### Magyar Adorján...
 
