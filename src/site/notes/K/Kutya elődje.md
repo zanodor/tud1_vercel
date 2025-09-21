@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutya elődje/","title":"Kutya elődje","tags":["Englishtexttranslated"],"created":"2023-11-05T03:05","updated":"2024-10-25T22:30"}
+{"dg-publish":true,"permalink":"/K/Kutya elődje/","title":"Kutya elődje","tags":["Englishtexttranslated"],"created":"2023-11-05T03:05","updated":"2025-09-21T21:10"}
 ---
 
 
 # Kutya elődje
 
-[Ezen](https://www.ancient-origins.net/history/mighty-bear-dogs-breathless-bulldogs-how-human-manipulation-has-changed-shape-canines-021341) Ancient Origins oldalon sok érdekes dolog szerepel (még hogy a medve és a kutya őse is egy lett volna):  
+[Ezen](https://www.ancient-origins.net/history/mighty-bear-dogs-breathless-bulldogs-how-human-manipulation-has-changed-shape-canines-021341) Ancient Origins oldalon sok érdekes dolog szerepel (még az is, hogy a medve és a kutya őse is egy lett volna):  
 > The early ancestors of Gray Wolves were a group of carnivores named the creodonts that roamed the northern hemisphere between 100 and 120 million years ago. About 55 million years ago, the creodonts gave rise to the carnassials, a group of wolf-like animals that had specialized jaws for eating meat. One member of this family, Miacis, is thought to be the common ancestor of ALL present-day wolves, dogs, bears, raccoons, and weasels.  
-> ![assets/Kutyaelődje_image1.png](/img/user/K/assets/Kutyael%C5%91dje_image1.png)  
-> 60-55 million years ago: a species of dog existed known Miacis, which is a common ancestor to almost all modern-day carnivores, including canines.  
+> 60-55 ![assets/Kutyaelődje_image1.png|right|300](/img/user/K/assets/Kutyael%C5%91dje_image1.png)million years ago: a species of dog existed known Miacis, which is a common ancestor to almost all modern-day carnivores, including canines.  
 > 45-2 million years ago: a massive species known as Bear Dogs (amphicyonidae; see pic) roamed North America, Europe, Africa, and Asia. Canis Lupus shared its existence with Bear Dogs and are one of the closest relatives to the Gray Wolf (Canis Lupus).  
 > 25 million years ago: a species known as Cynodictis split in two, evolving into African hunting dogs and Eurasian wolves and dogs. Tomarctus, with its incredibly powerful biting jaw, long tail, and sharp claws existed for around 7 million years and inhabited much of North America.  
 > For millions of years, humans and wolves shared bounty rich forests and hunting planes. It is unknown exactly when domestic dogs (Canis familiaris) evolved from the Gray Wolf (Canis lupus) but recent studies of dog mitochondrial DNA suggest they evolved alongside each other over 100,000 years ago. Until 2009, most experts believed domestication occurred about 14,000 years ago, but that idea was tipped on its head with the discovery of several dog skulls which had been ritually buried in a cave in the Czech Republic – dated to 30,000 BC.  
