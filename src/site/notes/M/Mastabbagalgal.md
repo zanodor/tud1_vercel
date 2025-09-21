@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2025-06-08T01:13"}
+{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2025-09-21T22:33"}
 ---
 
 
@@ -10,17 +10,20 @@ Helyesen Mas-Tab-Ba-Gal-Gal a sumér-babiloni zodiákus Ikrek jegyének neve, me
 #### Gavin White Babylonian Star Lore...
 
 ...című könyvének adatai:  
-![assets/Mastabbagalgal_image1.png|invert_dark](/img/user/M/assets/Mastabbagalgal_image1.png)  
 
-> The name of the Great Twins is written 'Mul Maš-tab-ba-gal-gal'  
-> The Great Twins are known as `tū'amū rabûtu` in Akkadian. The Sumerian word `Maš`, meaning 'twin or companion' has also entered Akkadian as `māšū`.  
-> In Sumerian 'twin' can be conveyed by the Maš-sign alone, but more often 'twin' is written in a longer form as `Maštabba`. As an independent sign Tab signifies a 'companion or partner', so the idea of the 'twins' can be more literally translated as 'the two companions'.  
-> It is not known what the Gal-sign actually depicts suggestions include a crown or headdress of some sort. The sign is commonly used to mean 'great or big'. In the cuneiform writing system the final adjective (Gal) is often doubled to indicate plurality.  
+> The name of the Great Twins is written ‘Mul Maš-tab-ba-gal-gal’
+> The Great Twins are known as *tū’āmū rabûtu* in Akkadian. The Sumerian word **Maš**, meaning ‘twin or companion’ has also entered Akkadian as *māšū*.
+> In Sumerian ‘twin’ can be conveyed by the **Maš-sign** alone, but more often ‘twin’ is written in a longer form as **Maštabba**. As an independent sign **Tab** signifies a ‘companion or partner’, so the idea of the ‘twins’ can be more literally translated as ‘the two companions’.
+> It is not known what the **Gal-sign** actually depicts – suggestions include a crown or headdress of some sort. The sign is commonly used to mean ‘great or big’. In the cuneiform writing system the final adjective (**Gal**) is often doubled to indicate plurality.  
 > —  
-> A Nagy Ikrek nevét úgy írják, hogy "Mul Maš-tab-ba-gal-gal".
-> A Nagy Ikreket akkád nyelven "tū'amū rabűtu"-ként ismerik. A sumér `Maš` szó, amely 'ikertestvér vagy társ' jelentésű, az akkád nyelvbe is bekerült `māšū` néven.  
-> A sumérben az "iker" kifejezést a Maš-jel önmagában is kifejezheti, de gyakrabban az "iker" szót hosszabb formában `Maštabba`-ként írják. Önálló jelként a Tab 'társat, partnert' jelent, így az 'ikrek' gondolata szó szerint 'a két társ' jelentéssel fordítható.  
-> Nem ismert, hogy a Gal-jel valójában mit ábrázol, a javaslatok szerint valamilyen koronát vagy fejdíszt. A jelet általában 'nagy' jelentéssel használják. Az ékírásos írásrendszerben az utolsó melléknév (Gal) gyakran megduplázódik, hogy a többes számot jelezze.  
+> A Nagy Ikrek nevét "Mul Maš-tab-ba-gal-gal" alakban írják.  
+> ![Mastabbagalgal_image20250921222819710.jpeg|fix_dark fix_light center|300](/img/user/M/assets/Mastabbagalgal_image20250921222819710.jpeg)
+> A Nagy Ikrek akkádul `tū’āmū rabûtu` néven ismertek. A sumér **Maš** szó, jelentése "iker vagy társ", szintén bekerült az akkádba *māšū* formában.
+> Sumérul az "iker" jelentés önmagában a **Maš-jellel** is kifejezhető, de gyakrabban hosszabb formában, **Maštabba** alakban írják. Független jelként a **Tab** "társat vagy partnert" jelent, így az "ikrek" fogalma szó szerint "a két társ"-ként fordítható.  
+> Nem ismert, hogy a **Gal-jel** valójában mit ábrázol – a javaslatok között szerepel egy korona vagy valamilyen fejfedő. A jelet általánosan "nagy" vagy "óriási" jelentésben használják. Az ékírásban a végső melléknevet (**Gal**) gyakran megkettőzik a többes szám jelzésére.  
+
+
+
 - Varga Zsigmond Ősmagyar mitológia című könyvének (a PDF) 65-66. oldalán talált adat szerint a kettőzés itt többesszámot jelent; például `dingir gal-gal` = nagy istenek. <br/>
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 73. oldala alján máshogy is magyarázza a nevet.  
 Lásd még [[G/Galgal\|galgal]].  
@@ -57,9 +60,7 @@ A Mastabbagalgal tehát Nagy Ikrek, és ahogy a lentebb szereplő adatok is muta
 ...című könyvének további adatai:  
 
 > THE SUMMER SOLSTICE PERIOD  
->
-> ![assets/Mastabbagalgal_image4.png|invert_dark](/img/user/M/assets/Mastabbagalgal_image4.png)
->
+> 
 > The next distinct group of symbols is made up from the constellations that rise during the summer. These stars mark the hot dry season, which, unlike the milder climes of Europe, is regarded as the time of death in Mesopotamia. At this time the lands are ravished by drought and plague, and even nature herself becomes barren – the life-giving rains have ceased and river levels decline, the harvest is finished and all vegetation dies back under the scorching summer sun.  
 > As the sun approached the peak of his powers, [[T/Tammuz\|Dumuzi]] had foreboding dreams of his own death. His premonitions came true at the summer solstice and his funeral rites were performed amidst wailings and lamentations in month 4, immediately after the solstice. As Dumuzi walked the path of the dead, he took the sorrows of the worlds with him to the land of the shades.  
 > Rituals dedicated to the dead also dominated month 5, which fell in late summer. At this time, when the veil between life and death was at its thinnest, the great Brazier festival was celebrated. This festival commemorated the ancestors, who were invited back to the world of the living for an annual feast in their descendant's homes. The rites involved lighting torches and braziers to guide the departed ghosts of the ancestors back from the darkness of the underworld. The stars rising around the time of the summer solstice are thus fittingly informed by images of death, war and travel between the worlds.  
@@ -76,7 +77,7 @@ A Mastabbagalgal tehát Nagy Ikrek, és ahogy a lentebb szereplő adatok is muta
 >
 > —  
 > A NYÁRI NAPFORDULÓS IDŐSZAK
->
+> ![assets/Mastabbagalgal_image4.png|fix_dark fix_light|840](/img/user/M/assets/Mastabbagalgal_image4.png)
 > A szimbólumok következő különálló csoportját a nyár folyamán felkelő csillagképek alkotják. Ezek a csillagok a forró, száraz évszakot jelölik, amelyet Mezopotámiában – ellentétben Európa enyhébb éghajlatával – a halál időszakának tekintenek. Ebben az időszakban a földeket aszály és járványok sújtják, és még maga a természet is meddővé válik – az életadó esőzések elmaradnak, a folyók vízszintje csökken, a termésnek vége, és a perzselő nyári nap alatt minden növényzet visszahal.  
 > Ahogy a nap közeledett hatalma csúcsához, [[T/Tammuz\|Dumuzi]] vészjósló álmokat látott saját haláláról. Előérzései a nyári napforduló idején valóra váltak, és a temetési szertartásokat jajgatás és siránkozás közepette a 4. hónapban, közvetlenül a napforduló után végezték el. Ahogy Dumuzi végigjárta a holtak útját, magával vitte a világok bánatát az árnyak földjére.  
 > A halottaknak szentelt szertartások uralták az 5. hónapot is, amely a nyár végére esett. Ebben az időszakban, amikor az élet és a halál közötti fátyol a legvékonyabb volt, ünnepelték a nagy brazíri fesztivált. Ez a fesztivál az ősökre emlékezett, akiket évente meghívtak az élők világába, hogy a leszármazottaik otthonában lakomát tartsanak. A szertartások során fáklyákat és parazsat gyújtottak, hogy az ősök eltávozott szellemeit visszavezessék az alvilág sötétségéből. A nyári napforduló idején felkelő csillagok így a halál, a háború és a világok közötti utazás képeihez illeszkednek.  
@@ -92,8 +93,7 @@ A Mastabbagalgal tehát Nagy Ikrek, és ahogy a lentebb szereplő adatok is muta
 > A háború istennőjét a nyári csillagok között is ábrázolják az Íj csillagkép formájában. Szent Oroszlánjával együtt a nyarat a háború évszakaként jelöli, amikor a tavasszal megkezdett hadjáratok végre gyümölcsözővé válnak. Dicsőséget és győzelmet ad királyi kegyeltjeinek, akiket az égen az Oroszlán mellén álló Királycsillag képvisel.  
 
 > THE GREAT TWINS  
->
-> ![assets/Mastabbagalgal_image5.png|invert_dark](/img/user/M/assets/Mastabbagalgal_image5.png)  
+>  
 > In Babylonia, the zodiac constellation of Gemini was known as the Great Twins, and like their Greek counterparts, the Dioscuri, the Babylonian Twins were depicted as a pair of warriors armed to the hilt. A Neo-Assyrian text describes their constellation figures as 'two bearded males'. The front twin carries a weapon called a hinšu (possibly a type of mace) in his right hand, while the rear twin 'carries a sickle-axe in his left hand'.  
 > The war-like nature of the Great Twins is vividly portrayed throughout the corpus of celestial omens: 'If Venus stands between the Great Twins: the land will become altogether hostile'. 'If the Strange Star (Mars) approaches the Twins: the prince will die and hostilities will arise'.  
 > The Twins were envisioned, weapons at the ready, guarding one of the entrances to the underworld. **In Babylonian tradition, there are actually two entrances to the underworld, each of which is associated with one of the solstices**. The wintertime entrance is primarily used by discarnate souls journeying to the afterlife, but the summer entrance, located in the region of the Crab, is used by the spirits of the ancestors when they return to earth to visit their family homes for the great ancestral festival celebrated in month 5. The summertime entrance is also the route that the souls of newborn babies use to enter into the world of men. The Twins probably guard this entrance to prevent the ingress of evil demons, which are sometimes said to use this otherworldly portal to bring plague and disease to mankind.  
@@ -105,7 +105,7 @@ A Mastabbagalgal tehát Nagy Ikrek, és ahogy a lentebb szereplő adatok is muta
 >
 > A NAGY IKREK  
 >
-> Babilóniában az Ikrek csillagképet a Nagy Ikrek néven ismerték, és görög megfelelőikhez, a Dioszkurokhoz hasonlóan a babilóniai Ikreket is fegyveres harcospárként ábrázolták. Egy újasszír szöveg a csillagkép alakjait "két szakállas férfiként" írja le. Az elülső ikerpár jobb kezében egy hinšu nevű fegyvert (valószínűleg egyfajta buzogányt) tart, míg a hátsó ikerpár "bal kezében sarlóbaltát tart".  
+> Babilóniában az ![assets/Mastabbagalgal_image5.png|fix_dark fix_light right|300](/img/user/M/assets/Mastabbagalgal_image5.png)Ikrek csillagképet a Nagy Ikrek néven ismerték, és görög megfelelőikhez, a Dioszkurokhoz hasonlóan a babilóniai Ikreket is fegyveres harcospárként ábrázolták. Egy újasszír szöveg a csillagkép alakjait "két szakállas férfiként" írja le. Az elülső ikerpár jobb kezében egy hinšu nevű fegyvert (valószínűleg egyfajta buzogányt) tart, míg a hátsó ikerpár "bal kezében sarlóbaltát tart".  
 > A Nagy Ikrek háborús jellege élénken jelenik meg az égi ómenek egész korpuszában: "Ha a Vénusz a Nagy Ikrek közé áll: a föld teljesen ellenséges lesz". "Ha a Furcsa Csillag (Mars) megközelíti az Ikreket: a herceg meghal, és ellenségeskedés támad".  
 > Az Ikreket úgy képzelték el, hogy fegyverrel a kezükben őrzik az alvilág egyik bejáratát. **A babiloni hagyomány szerint az alvilágnak valójában két bejárata van, amelyek mindegyike az egyik napfordulóhoz kapcsolódik**. A téli bejáratot elsősorban a túlvilágra utazó, megtestesült lelkek használják, de a nyári bejáratot, amely a Rák vidékén található, az ősök szellemei használják, amikor visszatérnek a földre, hogy meglátogassák a családi otthonaikat az 5. hónapban ünnepelt nagy ősök ünnepén. A nyári bejárat az az útvonal, amelyen az újszülöttek lelkei is belépnek az emberek világába. Az Ikrek valószínűleg azért őrzik ezt a bejáratot, hogy megakadályozzák a gonosz démonok behatolását, akik állítólag néha ezt a túlvilági kaput használják arra, hogy járványokat és betegségeket hozzanak az emberiségre.  
 >
