@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flink Attila/","title":"Flink Attila","tags":["Englishtexttranslated"],"created":"2025-01-17T01:25","updated":"2025-01-17T01:25"}
+{"dg-publish":true,"permalink":"/F/Flink Attila/","title":"Flink Attila","tags":["Englishtexttranslated"],"created":"2025-01-17T01:25","updated":"2025-09-21T11:56"}
 ---
 
 
@@ -12,7 +12,7 @@ Flink Attila nevét [ezen](https://www.bibliotecapleyades.net/esp_australia04.ht
 Másutt Flinck-nek is láttam írva nevét, szóval így is érdemes rá keresni, alkalomadtán.  
 
 [Ezen](https://www.youtube.com/watch?v=RLtMujQ6AQs&t=119s) Kiss Balázs féle videóban ausztrál törzsneveket és Flink Atilla fényképét[^1] is bemutatja.  
-![assets/FlinkAttila_image1.jpg](/img/user/F/assets/FlinkAttila_image1.jpg)  
+![assets/FlinkAttila_image1.jpg|840](/img/user/F/assets/FlinkAttila_image1.jpg)  
 Menet közben vélhetően Flink tasmán-magyar szószedetéből ad be szópárokat, melyeket egy Varga Géza féle blogoldalról vehetett, mely adatok a Flinket személyesen ismerő [[S/Szabó Ágnes\|Szabó Ágnes]] nevű ausztráliai magyar cikkeiből valók; lásd letöltőlinket ott.  
 
 [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|Ausztráliai magyar nyelv]] cím/alcímnél bemutatásra került [egy videó](https://youtu.be/EnJ_qFgkdZ8), mely kommentjeiben Flink késői ausztrál tanítványa, Goz írja, egyes témákban erős túlzásokba esve:  
@@ -20,7 +20,7 @@ Menet közben vélhetően Flink tasmán-magyar szószedetéből ad be szópárok
 > Attila Flink grew up in the Hungarian countryside and was interested in linguistics from a very young age. He said the country dialects were older and less scratched than the city dialects and that the original Tasmanians spoke more eloquently than the Hungarian country folk as their Magyar language dialect was older still and had not one scratch on the language parse.  
 > Attila found many old Magyar words in **Ugar/Australia** that are no longer in modern Hungarian dictionaries and this has been done on purpose so people can't trace the linguistic roots. However Attila had a very thick Magyar-English dictionary from pre-1920 that he could find these older Magyar words in Ugar/Australia and worldwide in other places. Unless modern Hungarians are working with a decent old Magyar/English dictionary, they are going to struggle doing this linguistic work properly. Attila had a hard time showing these linguistic proofs to average TV watching Hungarians with no real linguistic comprehension but with well known well educated linguists such as Professor Badiny (Jós Ferenc), he had no problem at all.  
 > Chidanepübakéning is the English word appendix decoded back into a Magyar compound word. It is a Táltos comprehension not many would comprehend. Look at the energetic function of an appendix and how it connects with the omniverse like other body organs do through centering. This usually requires initiation in order to know unless one is disciplined and patient enough to do the real work independently.  
-> 
+>
 > There are a lot of imported confused tongue language words into modern Hungarian Magyar language now whilst the Jesuit/Levite priest linguists have simultaneously eliminated the old Magyar words that these imported words have replaced.  
 > Attila Flink was the first person to translate the [[H/Halotti beszéd\|Halotti beszéd]]. He was the best linguist of our time. ASIO stole his work in 1972 and copied it all and then gave it back to him and warned him not to make his work public.  
 > I spent years getting to know Attila as a friend and learnt an incredible amount from his knowledge. He was constantly gang stalked by Freemasons and other agents sent in to steal his work and make his life difficult so he couldn't finish his work on the Tasmanian and Sydney languages, let alone the accumulation of over 50 years research hard evidence he had in his attic.  
