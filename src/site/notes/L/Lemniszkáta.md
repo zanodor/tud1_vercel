@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated"],"created":"2024-04-22T01:48","updated":"2025-09-11T16:55"}
+{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated"],"created":"2024-04-22T01:48","updated":"2025-09-21T21:24"}
 ---
 
 
@@ -24,9 +24,9 @@ A [[B/Balance\|balance]] címnél is említett [[B/Bilincs\|bilincs]] kapcsán g
 
 [[A/Alma\|Alma]] és [[S/Szív\|szív]] címnél is a lemniszkáta két felét láttuk, valamint képeken már korábban hasonlót [[E/Ecliptic\|ecliptic]] és [[T/Tejút-kapuk\|Tejút-kapuk]] címnél (két kört egymás mellett).  
 Azaz az az érdekessége, hogy az éggömb, illetve a csillagtérkép is ilyen felbontású. Gyárfás Ágnes írásai kapcsán lemniszkáta időkörök részt (kiegészítve az éggömb két körével) lásd [[U/Újév\|újév]] és [[K/Kalács\|kalács]].  
-![assets/Lemniszkáta_image1.png|invert_dark](/img/user/L/assets/Lemniszk%C3%A1ta_image1.png)  
+![assets/Lemniszkáta_image1.png|fix_dark fix_light|840](/img/user/L/assets/Lemniszk%C3%A1ta_image1.png)  
 Előbbi címtől lett átmentve a mellékelt Gyárfás Ágnes féle rajz is (de az [[B/Bal és jobb\|bal és jobb]] címhez is bekerült), melyen azt látjuk, hogy a második, bal oldalon mutatott félév hosszabb (mely kapcsán [[H/Hét\|hét]] címnél arról volt szó[^1], hogy valahogy a hat és hét számok által adott 13 holdhónap leosztását el kell intézni, vagy [[B/Boldogasszony hava\|Boldogasszony hava]] vagy [[S/Szűz hava\|Szűz hava]] kezdéssel \[na ez még nincs megoldva\]).  
-![assets/Lemniszkáta_image2.png|invert_dark](/img/user/L/assets/Lemniszk%C3%A1ta_image2.png)  
+![assets/Lemniszkáta_image2.png|fix_light](/img/user/L/assets/Lemniszk%C3%A1ta_image2.png)  
 Ahogy [[S/Sárkány#Hétfejű sárkány\|hétfejű sárkány]] cím/alcímnél az ott is csatolt Ninurta a hétfejű sárkány elleni viaskodása kapcsán szóltunk róla, a levágott fejek utalhatnak a sötét félévbe tartozó holdhónapok múlására is, míg a másik oldalon a kígyószerű test kunkora a lemniszkáta másik felét idézi (csak éppen itt a kép a Gyárfás Ágnes által közölt rajzhoz képest fordított helyzetű).  
 Az mondjuk a képből jól/úgy látszik, hogy a hetedik (a felső két levágott fej csonkja/nyaka közül a bal oldali) inkább a bal oldali lemniszkáta-félhez tartozna, viszont ez talán semmit sem jelent (egyszerűen így rajzolta meg).  
 
@@ -45,7 +45,7 @@ Egyúttal hadd utaljak vissza azon korábban pedzegetett témára, miszerint kö
 Még a lánc és kutya kapcsán: "Lánc, lánc, Eszterlánc..." gyermekdalunkban [[E/Eszter\|Eszter]] felel meg a Kutyának lényegében.  
 
 A csatolt Hoppál-Jankovics-Nagy-Szemadám Jelképtár című könyvükből való képen szerintük a [[T/Tejút\|Tejút]] ábrázolásait láthatjuk, de a legfelső és legalsó inkább tűnik Napútnak (így [[S/Sine\|sine]] címhez is bekerült), míg a második lemniszkáták/Halak láncolatát is idézi.  
-![assets/Lemniszkáta_image3.jpeg|invert_dark](/img/user/L/assets/Lemniszk%C3%A1ta_image3.jpeg)  
+![assets/Lemniszkáta_image3.jpeg|fix_light](/img/user/L/assets/Lemniszk%C3%A1ta_image3.jpeg)  
 A csillagban nem tudok mást látni, mint a Kutyacsillagot (nyári és téli napfordulós együttállásait).  
 
 A lemniszkáta meg[[K/Köt\|köt]]ő [[K/Közép\|közép]]ső pontjával kapcsolatosan a [[M/Masni\|masni]], [[C/Csokor\|csokor]], [[H/Hurok\|hurok]], [[G/Gúzs\|gúzs]], [[K/Köt\|köt]]és fogalmain keresztül vizsgálandó [[K/Knot\|knot]] és [[L/Loop\|loop]] szavak közül utóbbival foglalkoztunk bőven, míg a [[K/Knot\|knot]] szóban a [[K/KAN\|KAN]] van meg, mert a Kutya a kötőpont ([[K/Közép\|közép]]pont).  
@@ -55,13 +55,13 @@ Megkötni a kutyát szokták, és [[K/Köt\|köt]], [[K/Kut\|kut]], [[K/Kutya\|k
 A kutya kötésére használt [[P/Póráz\|póráz]] szavunk Tilak Orionjának 145. oldalán is megjelenni látszik. [[O/Orion övcsillagai\|Orion övcsillagai]] címszó alján szóltunk legutóbb arról, hogy Tilak szerint az öv Orion övére utal. Viszont a póráz a kutyára, a Kutyacsilagra, annak megkötöttségére kell utaljon, vagy a Nappályához, vagy (látszólagosan?) Orionhoz.  
 [[L/Loop\|Loop]] címnél írtuk legutóbb, hogy [[R/Rope\|rope]]-pal közös eredetük lehet. Az imént taglalt megkötöttség pedig a lemniszkátára utal.  
 Az [[I/Idő\|idő]] és [[G/Galactic centre\|Galactic centre]] címnél is taglalt tizenkettesség előjött [[D/Dél#Dél és éjfél\|dél és éjfél]] cím/alcímnél, ahol szintén szóba került a lemniszkáta:  
-![assets/Lemniszkáta_image4.png|invert_dark](/img/user/L/assets/Lemniszk%C3%A1ta_image4.png)  
+![assets/Lemniszkáta_image4.png|fix_light](/img/user/L/assets/Lemniszk%C3%A1ta_image4.png)  
 [Ezen](https://www.youtube.com/watch?v=kj00fWcqHCs) műsorban Pap Gábor elmondta, hogy Keleten nem a Nap-Föld viszonyhoz, hanem az eggyel nagyobb minőséghez, a Tejútnak a rendszeréhez viszonyítottak: a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]] adja meg az egész időrendszer tengelyét[^2]. Amit Pap Gábor nem említ, hogy a 12-es rendszerű kettősóra analógiáját[^3] megtaláljuk népünk ajkáról: a Jankovics Marcell A fa mitológiája című könyvének 160. oldaláról származó képileg mellékelt adata alapján az derül ki, hogy (az ellenlábasról szóló részben előjövő) eb, kutya fent, északon de déli 12 órára utalóan kerül említésre, míg a téli napfordulós [[L/Luca\|Luca]] nap éjfélre vonatkozik. Az [[E/Ebéd\|ebéd]] szavunk tehát valóban azt jelenti, amit Péterfai János mondott.  
 A téma ott folytatható, ahol [[B/Bal és jobb\|bal és jobb]], [[K/Kör#Kör – két kör\|kör – két kör]], [[F/Félév\|félév]], [[K/Kalács\|kalács]], lemniszkáta és más címnél abbahagytuk: a tizenkettesség 24 órára, a kis és nagy éves időkörben 6 sötét és világos hónapra bontva lemniszkátára ültethető!  
 
 A [[K/Khamor#Khamor – Makor Íjazók\|Khamor – Makor Íjazók]] cím/alcímnél hosszasan kidolgozott téma végére azt írtuk, hogy lemniszkáta domború bal oldala Magor/Bukor/Bog-Úr, jobb oldala [[K/Khamor\|Khamor]], homorú. Azóta [[M/Meter#Meter 2)\|meter]] címnél írottak alapján arra jutottunk, hogy a [[M/Magyar\|magyar]]/[[M/Magor\|Magor]] nemcsak ívet, de kört is jelenthet (az állatkört is akár).  
 Lásd még idevágó témát lentebb.  
-![assets/Lemniszkáta_image5.png|invert_dark](/img/user/L/assets/Lemniszk%C3%A1ta_image5.png)  
+![assets/Lemniszkáta_image5.png|fix_light](/img/user/L/assets/Lemniszk%C3%A1ta_image5.png)  
 
 [[A/Arkadash\|Arkadash]] és [[I/Ikrek csillagkép\|Ikrek csillagkép]] címnél is szerepelt a mellékelt kép. Jól látszik a domború és homorú íve a lemniszkátának, melyek együttesen adják az Ikrek asztrológiai jelét (♊) és az Kul-Oba-i kurgán [[A/Arkadash\|arkadash]] címnél is taglalt Hunor és Magor íjazó (ív = íj) alakjait.  
 Ugyebár az évet a fentebb említett két körrel/félévvel is tudom ábrázolni, ahol a két alak olyan mód áll egymásnak háttal, mint amikor gyerekként a sót törtük testnevelés órán.  
@@ -91,9 +91,7 @@ Lemniszkáta időtémához említhető az [[I/Idő#Idő szövése\|idő szövés
 
 ## Lemniszkáta-kötőpontra vonatkozó összefüggések ív szavunk magyar és idegen nyelvű változataival
 
-![Lemniszkáta_image20250405031632388.jpeg|invert_dark](/img/user/L/assets/Lemniszk%C3%A1ta_image20250405031632388.jpeg)
-
-### Ív (vö. év, avul) szavunk előhangos változatai más nyelvekben is bőséggel előfordulnak
+![Lemniszkáta_image20250405031632388.jpeg|fix_dark fix_light|840](/img/user/L/assets/Lemniszk%C3%A1ta_image20250405031632388.jpeg)
 
 
 
@@ -133,12 +131,11 @@ A fentebb említett lánc témának folytatásaként is kezelhetőek az alábbia
 #### L. Kecskés András Az avarok muzsikájáról...
 
 ...című az Ősi Gyökér 2010/3. sz. megjelent cikkében amikor megláttam az alábbi sorokat, rögtön éreztem, hogy egy újabb rész került a helyére:  
-> A szebényi-hímesházai ásatások 11-es és a 43-as avar sírok leletei \[lásd csatolt képet\] között egymás mellett találták azokat a szíjvégeket, melyeknek összevetése során kiderül, hogy a díszítőmotívumként ismételt, egymásba kapaszkodó és folytatódó nyitott körök a szkíta csőrös totem, a magát megadó, női minőségű, lekushadt szarvasnak a végletekig leegyszerűsödött jelzése.  
-> ![assets/Lemniszkáta_image6.jpeg|invert_dark](/img/user/L/assets/Lemniszk%C3%A1ta_image6.jpeg)  
+> A ![assets/Lemniszkáta_image6.jpeg|fix_dark fix_light right|220](/img/user/L/assets/Lemniszk%C3%A1ta_image6.jpeg)szebényi-hímesházai ásatások 11-es és a 43-as avar sírok leletei \[lásd csatolt képet\] között egymás mellett találták azokat a szíjvégeket, melyeknek összevetése során kiderül, hogy a díszítőmotívumként ismételt, egymásba kapaszkodó és folytatódó nyitott körök a szkíta csőrös totem, a magát megadó, női minőségű, lekushadt szarvasnak a végletekig leegyszerűsödött jelzése.   
 > Elgondolkodtató szándékkel itt említjük meg a magyar "csőrös dinoszaurusz" maradványainak közelmúlti felfedezését. Minden jel arra mutat, hogy a végtelennek, a **fekvő nyolcasnak az eredetét is itt kell keresnünk. Képzőművészetben "futó kutyának" is mondják a szóban forgó és ebből eredő díszítő elemet**.  
 
-L. Kecskés András A magyar zene évezredei 1. rész című az Ősi Gyökér 2018/1-2. sz. megjelent cikkében egy másik képet is közöl; amit ír, hogy a hanghullám fényes igazolása egy orgonasíp hangjának füstben formálódott "futókutya" alakja.  
-![assets/Lemniszkáta_image7.jpeg|invert_dark](/img/user/L/assets/Lemniszk%C3%A1ta_image7.jpeg)  
+L. Kecskés András A magyar zene évezredei 1. rész ![assets/Lemniszkáta_image7.jpeg|fix_dark fix_light right|100](/img/user/L/assets/Lemniszk%C3%A1ta_image7.jpeg)  című az Ősi Gyökér 2018/1-2. sz. megjelent cikkében egy másik képet is közöl; amit ír, hogy a hanghullám fényes igazolása egy orgonasíp hangjának füstben formálódott "futókutya" alakja.  
+
 Amikor a "futó kutya" motívumnak, művészettörténeti kifejezésnek utánanéztem, ismét meglepődtem; [ezen](http://kkatakepzo.blogspot.com/2009/01/mvszettrtneti-fogalmak-f-i.html) oldal definíciója szerint:  
 > A tengeri hullámok tarajának stilizált és ismétlődő motívuma, ahol a fekete illetve sötét, és fehér illetve világos színek foltértékére törekedtek.  
 
@@ -155,7 +152,7 @@ A másik, téli/déli központban a [[V/Vulva\|vulva]] van, de a lemniszkáta ra
 
 [[S/Szárny\|Szárny]] címnél pedig az alábbiakat:  
 
-![Lemniszkáta1-excalidraw.jpg|invert_dark](/img/user/L/assets/Lemniszk%C3%A1ta1-excalidraw.jpg)
+![Lemniszkáta1-excalidraw.jpg|fix_dark fix_light|840](/img/user/L/assets/Lemniszk%C3%A1ta1-excalidraw.jpg)
 
 Ahogy a lemniszkáta és szárny témát vizsgáltam, rá kellett jöjjek, hogy a [[S/Sacchar-\|sacchar-]] címnél is említett [[C/Csokor\|csokor]] (és [[M/Masni\|masni]]), amennyiben háromszögesítem, kiadja a [[S/Szakrális geometria\|szakrális geometria]] címnél taglalt [[V/Világhegy\|Világhegy]]eket, igaz, a függőleges tengelyre tükrözve és 90 fokkal elforgatva, ahogy a képen látható (a háromszögek hegye is szépen mutatja a Szíriusszal való együttállásokat, a napfordulós pontokat; egyúttal érdekesek a keresztek is). [[A/Ahet\|Ahet]] címnél közben a [[S/Székely-magyar rovásírás#B\|rovás B]] jele kapcsán is említettük ezt, téli napfordulós állására kitérve.  
 Utalást tettem a tündér/rovar fejére is, ahol a (be nem rajzolt) korona [[S/Szíriusz\|Szíriusz]]nak felel meg, de a kötőpontnak is, mely kapcsán volt szó arról, hogy a [[F/Félelem\|félelem]], rettegés, szorongás (agg-ódás, ang- gyök, melyről [[H/Hunger\|hunger]] és [[F/Félelem\|félelem]] címnél is volt szó) hozzá kötődik, valamint [[K/Kezdet és vég\|kezdet és vég]] címnél is taglalt [[Z/Zár\|zár]]ó (zéró) pont is – itt egyszerre a nyári és téli napfordulós pont – is itt található.  
@@ -167,7 +164,7 @@ A [[S/Szárny\|szárny]] címnél berajzolt háromszögek mellé a homokóra és
 ## Lemniszkáta napi időkörben való értelmezése
 
 A Johan Oldenkamp féle diagramok mellé jól illik az időzónákat mutató diagramról készített kép.  
-![assets/Lemniszkáta_image9.jpeg|invert_dark](/img/user/L/assets/Lemniszk%C3%A1ta_image9.jpeg)  
+![assets/Lemniszkáta_image9.jpeg|fix_dark fix_light|840](/img/user/L/assets/Lemniszk%C3%A1ta_image9.jpeg)  
 
 
 ## Lemniszkáta lehetséges szóeredetének vizsgálata
