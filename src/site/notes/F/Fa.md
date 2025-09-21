@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2025-07-26T21:30"}
+{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2025-09-21T03:04"}
 ---
 
 
@@ -20,7 +20,7 @@ Ezen passzus is onnan való:
 
 Ahogy lentebb szerepelt, a Fa a Tejút jelképe.  
 [[P/PA\|Pa]] egyúttal a Fa ősibb alakjának is mondatik. Záhonyi András László Gyula és Karácsony Sándor szemével című az Ősi Gyökér 2011/2. sz. megjelent cikkében a sumér `PA` kapcsán írja, hogy elágazást is jelent, ami egyes vélemények szerint a(z imént említett) [[T/Tejút\|Tejút]] és a Napút elágazására utal (mindezt [[P/Pabilsag\|Pabilsag]] kontextusában).  
-![assets/Fa_image2.jpeg|invert_dark](/img/user/F/assets/Fa_image2.jpeg)  
+![assets/Fa_image2.jpeg|fix_dark fix_light right|840](/img/user/F/assets/Fa_image2.jpeg)  
 (A Labat 295-ös kettőskereszt jelek közül az első a tatárlakai, a második a szumér.)  
 A Zakar András Sumerian-Ural-Altaic Affinities féle PDF-ben helyet kapó Deimel féle adat szerint:  
 > At the same time, it is also true that Sumerian `pa` has the same meaning as Hungarian `fa` 'tree'. According to Deimel (1934):  
@@ -39,13 +39,12 @@ Fa szavunknál írja CzF:
 > Rokonok vele takele nyelven Áfrikában: `fa`, továbbá a parszi és pehlvi `van`, zend `vana`, szanszkrit `vana` (erdő), persa `bun`, sínai `mu` (arbor; lignum), finn `pun`, német `Baum`, goth `bagm`, angol `beam`. A perzsa `bam`, s héber `bamah` pedig magast jelentenek, épen úgy mint az egyszerű magyar fe, mely alapfogalomban a növények legmagasabb nemét jelentő fa-val egy értelmű.  { #jh206l}
 
 
-Jankovics Marcell A fa mitológiája című könyvében is említi, hogy a fa lehet kettős (nőiségi és hímségi) megítélésű[^1]. [[E/Erikafa\|Erikafa]] címnél is írtuk:  
+Jankovics Marcell ![assets/Fa_image3.png|fix_dark fix_light right|250](/img/user/F/assets/Fa_image3.png)  A fa mitológiája című könyvében is említi, hogy a fa lehet kettős (nőiségi és hímségi) megítélésű[^1]. [[E/Erikafa\|Erikafa]] címnél is írtuk:  
 Az [[E/Erikapeosz\|Erikapeosz]] Örök-Apa/Öreg-Apa értelmezése azért visszás, mert a Tejútfa inkább nőiségi, de Jankovics Marcell [[F/Fa és nő\|fa és nő]] címnél álló adata szerint (a törzs [[L/Lingam\|lingam]]-ként való értelmezése \[vö. fa – fasz\] nyomán) hímségi is lehet.  
 (Ahogy [[A/Asera\|asera]] címnél erről szintén volt szó.)  
 
 Egyébiránt ugyanígy a FA/PA szóelemből (is) levezethető [[B/BOT\|BOT]] (Bo-Ta) ugyanígy kétféle értelmezésű: bot lehet fallikus és a Nap Háza értelemben nőiség.  
 
-![assets/Fa_image3.png|invert_dark](/img/user/F/assets/Fa_image3.png)  
 Az is ismeretes, hogy az **ember maga is fához hasonlíttatott**. Lásd erről Zobor László Az ősminták ereje című tanulmányában szereplő anyagából [[V/Világkép\|világkép]].  
 Erőss Diána/Bácsi Boglárka is írja:  
 > Világképünket nemcsak szociokulturális környezetünk sajátosságai határozzák meg: függőleges, az ég irányába mutató testhelyzetünk alapján következtetünk a kozmosz hierarchikus tagoltságára, vertikális rendjére. Felül a szellem, közében az érzelmek, alul a zsigeri késztetések erőközpontjait véltük megtalálni. Szimbolikus értelemben lényünk a transzcendens és az immanens tartományokat egyesíti: nem véletlen a gerincoszlop misztikus vonatkozásának feltételezése. Folyamatos az áramlás, a csatornában mindig csúcsforgalom van, hiszen határvidék lakói vagyunk. Nyilván a fa sem ok nélkül telítődött metafizikus jelentéstartalommal: a földből szívja fel táplálékát a gyökérzet, míg a lombkoronát az isteni napsugarak éltetik.  
@@ -108,7 +107,7 @@ A fa és a nő hiedelmi megfeleltetéséről lásd [[F/Fa és nő\|fa és nő]].
 Jankovics Marcell A fa mitológiája című könyvének 93-94. oldalán példázza a [[F/Füge\|füge]]fa-istennőket és a szent tejet adó fügefákat ([[R/Rumen\|Rumen]] címnél is volt róluk szó illetve [[L/Lac\|lac]] és [[H/Honey\|honey]] címszókhoz is be lett téve említésként némi info).  
 Arról, hogy ez ember "lemászott a fáról," lásd Jankovics Marcell anyagát is [[D/Darwin, Charles és elméletének cáfolata\|Charles Darwin és elméletének cáfolata]].  
 
-Az archaikus népi imádságban nagyon szépen kapcsolódik össze az életfa és minden fontos szereplő:  
+Az ![assets/Fa_image4.png|fix_dark fix_light right|300](/img/user/F/assets/Fa_image4.png)  archaikus népi imádságban nagyon szépen kapcsolódik össze az életfa és minden fontos szereplő:  
 *Ég szülte Földet,  
 Föld szülte fát,  
 Fa szülte ágát,  
@@ -119,7 +118,6 @@ Mária szülte Krisztus Urunkat,
 a világ megváltóját!*  
 
 Jankovics Marcell Jelkép-kalendárium című könyvének 327. oldalán kicsit máshogy áll a szöveg; lásd csatolva.  
-![assets/Fa_image4.png|invert_dark](/img/user/F/assets/Fa_image4.png)  
 Falvay Károly Nagyboldogasszony című könyvének 402. oldalán Erdélyi Zsuzsannától egy hosszabbat is közöl, amelyben viszont már egy Kárpát-medencére nem jellemző pálmafa szerepel; lásd csatolt képen.  
 
 Dr. Gyárfás Ágnestől való egy másik:  
@@ -290,15 +288,14 @@ Lásd még [[T/Trow#Trow 2)\|trow]].
 ## Fa keresztmetszete
 
 Őseink a kivágott/feldarabolt fa törzsének és ágainak vizsgálatakor nagy érdeklődéssel vizsgálhatták annak koncentrikus köreit, kivált, hogy a Tejútfa = Tejútanya = Köranya (Időanya, Évanya).  
-![assets/Fa_image6.png|invert_dark](/img/user/F/assets/Fa_image6.png)  
+![assets/Fa_image6.png|fix_dark fix_light|840](/img/user/F/assets/Fa_image6.png)  
   
-![assets/Fa_image7.jpeg|invert_dark](/img/user/F/assets/Fa_image7.jpeg)  
 
 ### Évgyűrűvizsgálat – dendrokronológiai kormeghatározás
 
 *(És hibái)*
 
-Egy Max Igan féle videóban is elhangzott, hogy a radiokarbon kormeghatározó mérések megbízhatatlanok, igaz, Igant meg éppen az ősszlávista/[[S/Szláv#Pánszlávizmus\|pánszlávista]] figurák vihetik félre.  
+Egy Max ![assets/Fa_image7.jpeg|fix_dark fix_light right|300](/img/user/F/assets/Fa_image7.jpeg)  Igan féle videóban is elhangzott, hogy a radiokarbon kormeghatározó mérések megbízhatatlanok, igaz, Igant meg éppen az ősszlávista/[[S/Szláv#Pánszlávizmus\|pánszlávista]] figurák vihetik félre.  
 
 Megbízhatatlanságáról lásd Götz László Keleten kél a Nap című könyvének 893. oldalán. Több kutató elutasítja az egyedül C¹⁴ mérési eredményeken alapuló abszolút kormeghatározásokat.  
 A 918. oldalon a [[T/Tatárlakai napvárta-korong\|tatárlaki lelet]] téves kormeghatározását vizsgáló Makkay János két tanulmányának ("Sumer jelek Erdélyből?" és "A whisky-próba") adatait közli.  
