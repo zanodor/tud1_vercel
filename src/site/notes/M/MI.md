@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MI/","title":"MI","created":"2025-05-29T14:32","updated":"2025-06-08T18:20"}
+{"dg-publish":true,"permalink":"/M/MI/","title":"MI","created":"2025-05-29T14:32","updated":"2025-09-22T01:17"}
 ---
 
 
@@ -47,7 +47,7 @@ Aztán a többes szám fogalmának fontosságára mutat rá az is, hogy dualitá
 Holmi éneklősdi helyett Gyárfás Ágnes fókuszálhatott volna inkább arra az általa is ismert tényre, hogy én és te is mi mind egy közös forrásból (fényből) valók vagyunk. Ahogy [[L/Lélek\|lélek]] címnél is írtuk, az [[E/EN\|EN]] = isteni lényeg értelműnek meghatározott, ahogy [[I/Isa\|isa]], [[I/Íz\|íz]] is, azaz ez is egy isteni fényre vonatkozó fogalmunk, a többes me = Mi szintén.  
 
 Gyárfás Ágnes idézett (Lúd Anyós) cikkének végén egy újabb bizonyítékot mutat fel (lásd csatolt képet), de külön már nem hangsúlyozza ki, hogy itt miről van szó.  
-![assets/MI_image1.jpeg|invert_dark](/img/user/M/assets/MI_image1.jpeg)  
+![assets/MI_image1.jpeg|fix_light](/img/user/M/assets/MI_image1.jpeg)  
 Látható mi egyes számra(?) vonatkozó névmási jelentése.  
 
 
@@ -66,11 +66,11 @@ Götz László Keleten kél a Nap című könyvének 872-873. oldalán találhat
 
 ...című könyvében írja:
 > A személyes névmások nemcsak a szemita és az indogermán nyelvekben párhuzamosak, hanem ugyanez a helyzet az uráli-finnugor és az altáji nyelvekben is, s a szoros megfelelések közös forrása a szumér nyelv volt:  
-
-|indogermán|uráli|altáji|szumér|
-|---|---|---|---|
-|\*me-|\*mi|\*mi-, \*män-|me; men₂ (én)|
-|\*te-|*ti|\*ti(n)-|za; za-e (te)|
+> 
+> |indogermán|uráli|altáji|szumér|
+> |---|---|---|---|
+> |\*me-|\*mi|\*mi-, \*män-|me; men₂ (én)|
+> |\*te-|*ti|\*ti(n)-|za; za-e (te)|
 
 Varga Zsigmond Ősmagyar mitológia című könyvének adatsorát lásd még [[M/Mine\|mine]].  
 
