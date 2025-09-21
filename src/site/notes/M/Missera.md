@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2025-07-03T01:13"}
+{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2025-09-22T01:26"}
 ---
 
 
@@ -56,7 +56,7 @@ Továbbá, a görögöknél:
 - A kérdés is felvetődik: [[H/Hunor és Magor\|Hunor és Magor]] is ilyen félesztendőkön utalkodó Napok? Lásd erről [[F/Fehér és fekete#Fehér és fekete Napistenek ill. mitológiai alakok – világos és sötét félév ikeristenségei\|fehér és fekete]] címnél.  
 
 Az ekliptika csatolt szinusz-görbéje is két (kis éves) félévre osztható. Igaz, a tagolás itt napéjegyenlőségi pontoktól napéjegyenlőségi pontokig tart, nem napfordulóktól napfordulókig.  
-![assets/Missera_image1.png|invert_light](/img/user/M/assets/Missera_image1.png)  
+![assets/Missera_image1.png|fix_light|840](/img/user/M/assets/Missera_image1.png)  
 
 Ami a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] (élet)útjának négyes felosztását, annak kettőre való egyszerűsítését illeti, egyrészt a csatolt szinusz-görbe mutat rá, miért kellett felezni, másrészt pedig az, hogy mi okoz fontosabb változást a Nap-Föld fényviszonyok napi, éves és [[N/Nagy Év\|Nagy Év]]es ciklusában.  
 
@@ -95,19 +95,6 @@ Egyelőre azzal zárom le itt a mondandót, hogy [[M/Missera\|missera]], [[A/Ara
 
 Joscelyn Godwin Arktos The Polar Myth című könyvének 29. oldalán Jean-Sylvain Bailly gondolatait osztja meg. ([[B/Bailly, Jean-Sylvain\|Bailly, Jean-Sylvain]] személye azért érdekes, mert a 18. században még úgy tűnik, élt annak hagyománya, hogy a szkíták az első nép: ezt ő ki is mondja.)  
 Az ott írottak alapján missera fél év jelentésére vélhetően szintén hyperboreai eredetet mondana (emlékezzünk Magyar Adorján írására is: 1 nap volt 1 (fél)év). Meg is említi, hogy az ő idejében a kamcsatkaiak még mindig 6 hónapos évvel számoltak (kérdés, hány naposak voltak a hónapjaik).  
-
-  
-  
-  
-  
-  
-  
--   
-  
--   
-  
-  
-  
 
 
 [[B/Bal és jobb\|Bal és jobb]] címnél és Tilak Orion című könyvében írottak alapján kiderül, hogy a védikus ind nyelvben a (Napút) félév(ének) neve `ayana`, ahol `yana` = (Nap)út. Azaz nem Mitra nevével számol.  
@@ -166,7 +153,7 @@ Ugye a Kos havaként március azért is alkalmas erre a szerepre, mert a nyugati
 </div></div>
   
 - Az alsó/sehol/túl világ nem azonos az alvilággal; [[A/Annwfn\|Annwfn]] a kelták másvilága, se mennyország, se pokol, hanem egy e világgal párhuzamos világ.  
-![assets/Missera_image2.png|invert_dark](/img/user/M/assets/Missera_image2.png)
+
 - Minden továbbit lásd Druidical Astrology című írásában.  
 
 ## Lábjegyzetek
