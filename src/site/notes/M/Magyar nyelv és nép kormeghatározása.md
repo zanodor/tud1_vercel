@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv és nép kormeghatározása/","title":"Magyar nyelv és nép kormeghatározása","created":"2023-10-14T06:06","updated":"2025-05-01T17:01"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv és nép kormeghatározása/","title":"Magyar nyelv és nép kormeghatározása","created":"2023-10-14T06:06","updated":"2025-09-21T21:32"}
 ---
 
 
@@ -7,10 +7,10 @@
 
 A [[M/Magyar\|magyar]] maga az emberiség. Így az ember őstörténete a magyar őstörténet. [[K/Kárpát-medence\|Kárpát-medence]] és [[F/Fajok\|fajok]] címnél már volt ezen témákról szó, kormegjelöléssel, ilyen-olyan adatokkal.  
 
-Ahogy [[S/Székely-magyar rovásírás\|székely-magyar rovásírás]] címnél bemutattuk, a magyar nép és nyelv korát egyes (DNS-vizsgálatok \[[[Genetika\|genetika]]\] adataira építkező) információk alapján 40 ezer, más, Péterfai János által megosztott információk alapján 200 ezer, a vértesszőlősi (vajon milyen nyelvet, ha nem magyart beszélő) Samu kora alapján 350-400000 évre lehet taksálni, de Grandpierre Atilla szerint jó bizonyítékok szolgálnak arra nézve, hogy **10 millió éves is lehet**[^1]. Ő csillagászati tudását is latba tudja vetni, de Magyar Adorján könyvének adatai is arra engednek következtetni, hogy a magyarság már élt a [[F/Föld tengelyferdülése\|Föld tengelyferdülése]] előtt, melynek idejét ugyan nem tudjuk, de azt igen, hogy a [[D/Dinosaur\|dinosaur]] cím alatt szereplő infók alapján az emberiség már együtt élhetett a hüllőkkel. Tehát vagy 50-60 milliós éves, vagy a hüllők kissé/sokkal később haltak ki.  
+Ahogy [[S/Székely-magyar rovásírás\|székely-magyar rovásírás]] címnél bemutattuk, a magyar nép és nyelv korát egyes (DNS-vizsgálatok \[[[Genetika\|genetika]]\] adataira építkező) információk alapján 40 ezer, más, Péterfai János által megosztott információk alapján 200 ezer, a vértesszőlősi (vajon milyen nyelvet, ha nem magyart beszélő) Samu kora alapján 350-400000 évre lehet taksálni, de [[G/Grandpierre Atilla\|Grandpierre Atilla]] szerint jó bizonyítékok szolgálnak arra nézve, hogy **10 millió éves is lehet**[^1]. Ő csillagászati tudását is latba tudja vetni, de Magyar Adorján könyvének adatai is arra engednek következtetni, hogy a magyarság már élt a [[F/Föld tengelyferdülése\|Föld tengelyferdülése]] előtt, melynek idejét ugyan nem tudjuk, de azt igen, hogy a [[D/Dinosaur\|dinosaur]] cím alatt szereplő infók alapján az emberiség már együtt élhetett a hüllőkkel. Tehát vagy 50-60 milliós éves, vagy a hüllők kissé/sokkal később haltak ki.  
 
 Arról [[Z/Zodiac\|zodiac]] címnél is volt szó, hogy minimum 70-100000 évre lenne szükség, hogy a csillagképeknek megfelelő nevet lehessen adni.  
-![assets/Magyarnyelvesnepkormeghatározása_image1.png](/img/user/M/assets/Magyarnyelvesnepkormeghat%C3%A1roz%C3%A1sa_image1.png)  
+![assets/Magyarnyelvesnepkormeghatározása_image1.png|fix_dark fix_light 840 right|230](/img/user/M/assets/Magyarnyelvesnepkormeghat%C3%A1roz%C3%A1sa_image1.png)  
 Az Ősi Gyökér 2005/3. sz. megjelent (szenzációszámba menő) avasi őskőkori kovakőről és hőkezeléses technikáról szóló cikkben is éppen ennyi idő jön elő: Parázs István 70-100000 évvel ezelőtt Kárpát-medencei adatokat mutat be. A téma kapcsán többet lásd [[K/Kárpát-medence\|Kárpát-medence]].  
 
 70000 évről Péterfai János is cikkez:  
@@ -18,19 +18,22 @@ Az Ősi Gyökér 2005/3. sz. megjelent (szenzációszámba menő) avasi őskőko
 > A nehéz időket átvészelő 2.000 embertől eredeztethetjük az egész emberiséget? Akkor a többi elmélet elvethető? A 2.000 (vagy 5.000) élve maradt ember talán egyetlen populációt alkotott? Akkor egyetlen nyelvet is beszélt. Talán ez a nyelv volt az ősnyelv?  
 > Kapcsolódik a katasztrófa időpontjához egy másik fontos esemény. A ruhatetű a fejtetű fajból származik. Megvizsgálták a parazita rovar génjeit. A vizsgálat szerint a ruhatetű 72.000 éve jött létre, előtte nem létezett. Viszont ez a vizsgálati tény azt is bizonyítja, hogy a ruha, tehát a szövés-fonás tudománya, ekkoriban jött létre. Az emberi testet már régebben is védhette állati bőr, de ebben a ruhatetű képtelen megélni. Ebből pedig az következik, hogy valamivel 72.000 év előtt alkották meg őseink a szövőgépet. Talán a ruha feltalálása összefüggésben lehet a kérdéses katasztrófával? A Toba vulkán kitörése annyira lehűtötte a levegőt, hogy az emberek többsége kihalt, a megmaradtak feltalálták a szövés-fonás tudományát? Ebben az időben már fejlett nyelvnek kellett lennie, amelyben a szövőgép nevei már megvoltak. Eljutottunk a 70.000 évvel ezelőtti időkbe. A jégkorban ekkor melegedés állt be. Nem tudni, az emberek hol éltek? A Szaharában vagy Dél-Európában? Ettől az időtől kezdve egyre több nyomot találunk az emberek vándorlására, tehát a nyelvük terjedésére. Azonban a helyzet nem ennyire egyszerű. Mivel a neandervölgyieknek is volt nyelvük, az óriások meg csak részlegesen pusztultak ki, a nyelvük sem tűnhetett el teljesen.  
 
-[[G/Grandpierre Atilla\|Grandpierre Atilla]] szól arról is A királyi mágusok című dolgozatában, hogy mivel az uráli népcsoport éppen a magyar, ukrán, lengyel és horvát nép őse (Szabó, 2004, 60), amelynek nyelvét ma már csak a magyarság őrzi, ezért régészetileg alátámasztott álláspont, hogy a magyar királyság több mint húszezer éves múltra tekinthet vissza. Nem lehet véletlen, hogy a Hihetetlen Magazin különszámainak címe is ez volt.  
-Hogy világosabban lássuk a mágusok, királyok és a magyarság tér- és időhatárait, táblázatot készítettünk (2. táblázat).  
+#### Grandpierre Atilla A királyi mágusok...  
 
-|                            | Mágusok                                                   | (Nap)királyság    | magyarság                                                 |
-| -------------------------- | --------------------------------------------------------- | ----------------- | --------------------------------------------------------- |
-| Időhatár, hivatalos        | i. e. 9. századtól                                        | i. e. 4. évezred  | i. e. 4.–1. évezred                                       |
-| Időhatár, új, tárgyi       | i. e. 6. évezredtől                                       | i. e. 26. évezred | i. e. 40 000-től*                                         |
-| Időhatár, új, művészet     | i. e. 40 000-től                                          | ?                 | i. e. 40 000-től                                          |
-| Időhatár, új, logikai      | több millió év                                            | több millió év    | több millió év                                            |
-| térbeli határok, hivatalos | Perzsia                                                   | világszerte       | Ob torkolata, ill. később a Kárpát-medence                |
-| térbeli határok, új        | Kárpát-medence és<br>központok világszerte,<br>ősidők óta | világszerte       | Kárpát-medence és<br>központok világszerte,<br>ősidők óta |
-
-*(2) Táblázat. A mágusok, a (Nap)királyság és a magyarság tér- és időhatárai a ma uralkodó nézet és az itt nyert új eredmények tükrében genetikai bizonyítékok alapján, ld. GKE-GA (2006, 18, 178-180).*  
+...című dolgozatában írja:  
+> Mivel az uráli népcsoport éppen a magyar, ukrán, lengyel és horvát nép őse (Szabó, 2004, 60), amelynek nyelvét ma már csak a magyarság őrzi, ezért régészetileg alátámasztott álláspont, hogy a magyar királyság több mint húszezer éves múltra tekinthet vissza. Nem lehet véletlen, hogy a Hihetetlen Magazin különszámainak címe is ez volt.  
+> Hogy világosabban lássuk a mágusok, királyok és a magyarság tér- és időhatárait, táblázatot készítettünk (2. táblázat).  
+> 
+> |                            | Mágusok                                                   | (Nap)királyság    | magyarság                                                 |
+> | -------------------------- | --------------------------------------------------------- | ----------------- | --------------------------------------------------------- |
+> | Időhatár, hivatalos        | i. e. 9. századtól                                        | i. e. 4. évezred  | i. e. 4.–1. évezred                                       |
+> | Időhatár, új, tárgyi       | i. e. 6. évezredtől                                       | i. e. 26. évezred | i. e. 40 000-től*                                         |
+> | Időhatár, új, művészet     | i. e. 40 000-től                                          | ?                 | i. e. 40 000-től                                          |
+> | Időhatár, új, logikai      | több millió év                                            | több millió év    | több millió év                                            |
+> | térbeli határok, hivatalos | Perzsia                                                   | világszerte       | Ob torkolata, ill. később a Kárpát-medence                |
+> | térbeli határok, új        | Kárpát-medence és<br>központok világszerte,<br>ősidők óta | világszerte       | Kárpát-medence és<br>központok világszerte,<br>ősidők óta |
+> 
+> *(2) Táblázat. A mágusok, a (Nap)királyság és a magyarság tér- és időhatárai a ma uralkodó nézet és az itt nyert új eredmények tükrében genetikai bizonyítékok alapján, ld. GKE-GA (2006, 18, 178-180).*  
 
 ## Lábjegyzetek
 
