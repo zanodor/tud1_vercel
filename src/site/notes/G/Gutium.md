@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gutium/","title":"Gutium","tags":["Englishtexttranslated"],"created":"2025-05-01T15:55","updated":"2025-05-01T15:56"}
+{"dg-publish":true,"permalink":"/G/Gutium/","title":"Gutium","tags":["Englishtexttranslated"],"created":"2025-05-01T15:55","updated":"2025-09-21T16:16"}
 ---
 
 
@@ -7,13 +7,10 @@
 
 #### Péterfai János írja:
 
-> Az Urami-tó felé esett Gutium, vagyis Guti területe. A gutiak és lullubiak rokonsága nem világos előttünk, de bizonyára rokonok voltak. A lullubiaktól délre élő kassziták később lépnek a porondra, de kétségtelenül régebben is azon a területen éltek. Ők a magyar Kasz (Kesz) törzs egyik fontos ágát képviselik. A Gutiak szemita névalakja Qutu, amely szóban az U azonos a Guti I hangjával, mindkettő többes számot jelent. A Guti mai magyar családnév!, a Qutu jelentése Quti, vagyis Gutok, Qutok. Ha a Qutu a Kutyu szóval rokon, akkor a területen hunok laktak, mert hun testvéreink tartották magukat kutyáknak, Vezér égi követőinek. Kutyák, farkasok, sakálok, a szabad nép tagjai.  
+> Az Urami-tó felé ![assets/Gutium_image2.jpeg|fix_dark fix_light right|540](/img/user/G/assets/Gutium_image2.jpeg)esett Gutium, vagyis Guti területe. A gutiak és lullubiak rokonsága nem világos előttünk, de bizonyára rokonok voltak. A lullubiaktól délre élő kassziták később lépnek a porondra, de kétségtelenül régebben is azon a területen éltek. Ők a magyar Kasz (Kesz) törzs egyik fontos ágát képviselik. A Gutiak szemita névalakja Qutu, amely szóban az U azonos a Guti I hangjával, mindkettő többes számot jelent. A Guti mai magyar családnév!, a Qutu jelentése Quti, vagyis Gutok, Qutok. Ha a Qutu a Kutyu szóval rokon, akkor a területen hunok laktak, mert hun testvéreink tartották magukat kutyáknak, Vezér égi követőinek. Kutyák, farkasok, sakálok, a szabad nép tagjai.  
 > A Gutiak, Qutuk azonosak a Kasszitákkal, a [[K/Kos#"Kosiak"\|Kosiak]]kal, a Keszi magyar törzzsel, a Kosokkal, Kusitákkal, Kocsokkal, Kusánokkal, úgy tűnik. Egy hatalmas őskori népről van szó, amely sok területen élt.  
-> A szumer hatalom összeomlása után a szumer vezetők a hegyi népektől kértek segítséget. **A guti nép a "Hegyek sárkányai", vagy "Ugatnak, mint a kutyák" jelzőket kapják a szumeroktól**. A síkság népei nem rajongtak a hegyi rokonokért, mert a hegyi csapatok is elnyomók voltak.  
-> A guti seregek szétverik az akkád hatalmat, megsemmisítik az akkád seregeket. Később összeütközésbe kerülnek a szumerokkal, akik kiverik őket az országból. 
-
-![assets/Gutium_image1.png|invert_dark](/img/user/G/assets/Gutium_image1.png)  
-![assets/Gutium_image2.jpeg|invert_dark](/img/user/G/assets/Gutium_image2.jpeg)  
+> A szumer hatalom összeomlása után a szumer vezetők a hegyi népektől kértek segítséget. **A guti nép a "Hegyek sárkányai", vagy "Ugatnak, mint a kutyák" jelzőket kapják a szumeroktól**. ![assets/Gutium_image1.png|fix_dark fix_light right|300](/img/user/G/assets/Gutium_image1.png)A síkság népei nem rajongtak a hegyi rokonokért, mert a hegyi csapatok is elnyomók voltak.  
+> A guti seregek szétverik az akkád hatalmat, megsemmisítik az akkád seregeket. Később összeütközésbe kerülnek a szumerokkal, akik kiverik őket az országból.
 
 Ami a szóvégi -um végződést illeti, úgy tűnik, nem latinos névről van szó, mert a Wikipédia sumér névnek írja: Gu-Ti-Umki.  
 
