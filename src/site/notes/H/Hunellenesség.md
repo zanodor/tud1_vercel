@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hunellenesség/","title":"Hunellenesség","created":"2024-05-01T15:12","updated":"2025-06-08T00:45"}
+{"dg-publish":true,"permalink":"/H/Hunellenesség/","title":"Hunellenesség","created":"2024-05-01T15:12","updated":"2025-09-21T16:54"}
 ---
 
 
@@ -12,7 +12,7 @@ Erre mondhatná valaki és Hargita Csaba is hasonlóan fogalmaz, hogy kölcsönk
 Az [alábbi](https://youtu.be/rSlGVN_ZBxI) Atilla Adventje I. rész című előadásban Kubínyi Tamás szól az Atillát és hunjait megvető nyugatról.  
 Még az I. világháborúban is megkülönböztetik a hunokat, hun származású népeket és a nyugati civilizáció népeit.  
 Bemutat az első világháborús időből amerikai kötvényeket reklámozó képeket, melyeket módszeresen fel van tüntetve a hun nép neve. Például Hun or Home?  
-![assets/Hunellenesség_image1.png](/img/user/H/assets/Hunelleness%C3%A9g_image1.png)  
+![assets/Hunellenesség_image1.png|840](/img/user/H/assets/Hunelleness%C3%A9g_image1.png)  
 Nagyon érdekes, hogy 100 éve még igen nagy szálka voltunk Amerika szemében.  
 Az [alábbi](https://www.youtube.com/watch?v=zF2LzLdDRII) Atilla akták 2. rész című ÁKA előadásban Kubínyi Tamás 02:33-nál ismét bemutatja az amerikai hun-ellenes (itt a hunok alatt a germánokat (is) értették) propagandát.  
 
