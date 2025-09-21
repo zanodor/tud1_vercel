@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hathor/","title":"Hathor","created":"2024-12-18T11:23","updated":"2024-12-18T11:23"}
+{"dg-publish":true,"permalink":"/H/Hathor/","title":"Hathor","created":"2024-12-18T11:23","updated":"2025-09-21T16:34"}
 ---
 
 
@@ -17,7 +17,7 @@ Háthor volt az "Ég Tehene" és Ápisz anyja, akit az egész égbolt megtestes�
 > A tej halhatatlanná tevő erejében az ókori Egyiptomban is hittek. A halott Ozirisz isten létének folytonosságát a jelképes sírjába helyezett 365(!) edény biztosította, belőlük a tej nem fogyhatott ki soha. (Az anyaistennő állatalakot is ölthet, szerepe szerint Ízisz ilyenkor Hathorrá válik, az "Ég Tehenévé", s tőgyéből szoptatja isten- és fáraó-gyermekeit.)  
 - Megjegyzés: mind [[N/Nut\|Nut]], [[I/Ízisz\|Ízisz]] és állatalakban Hathor is a Tejút női megszemélyesítései, ahogy a germán [[F/Freyja\|Freyja]], görög [[H/Héra\|Héra]] és a magyar [[I/Ilona\|Ilona]] is.  
 
-![assets/Hathor_image1.png|invert_dark](/img/user/H/assets/Hathor_image1.png)  
+![assets/Hathor_image1.png|fix_dark fix_light|840](/img/user/H/assets/Hathor_image1.png)  
 A Hathor Hórusz Háza jelentést Jankovics Marcell A Nap könyvében is adatolta, de nála – [[I/Ízisz\|Ízissz]]el azonosulva – [[H/Hórusz\|Hórusz]] anyja:  
 > Az egyiptomi Hórusz napisten anyja, Háthor ("Hórusz háza"), az "ég tehene" címet viselte, és azonosult Ízisszel, a "másik" napanya-istennővel, aki ugyan már nem tehénalakú, de a fején néha ő is szarvakat, s azok közt napkorongot visel (75. rajz). Fiukat, a Napot ezért az istenanya borjaként is ábrázolták (76. rajz).  
 - Persze [[I/Incest\|incest]] címnél írottak alapján nem meglepő hogy a testvér vagy fiú egyben férj is lehet.
