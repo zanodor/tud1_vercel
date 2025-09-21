@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gilgames/","title":"Gilgames","created":"2024-10-25T19:00","updated":"2025-06-07T19:19"}
+{"dg-publish":true,"permalink":"/G/Gilgames/","title":"Gilgames","created":"2024-10-25T19:00","updated":"2025-09-21T15:24"}
 ---
 
 
@@ -7,9 +7,8 @@
 
 #### Péterfai János írja:
 
-> Gilgames nevét akkádnak minősítik, holott színmagyar név. A név helyesen Gil-Ga-Mes elemekből áll. Mind a három elem magyar szó, semmi köze az akkádokhoz, hacsak az akkádok nem magyarul beszéltek. Gil a Galamb egyik neve, lásd Gilice, ami galambot jelent, és a Gil becézése. A perzsa `Gil` szintén galamb, a perzsa szó kétségtelenül a magyar nyelvből ered, csak vessük össze a két nyelv létezésének idejét. A Ga egyértelműen Ház, a Mes Ifjú, mint a Mes-E szavunkban is. Ez a Galamb-Házi-Ifjú jelentés a hős galamb lelkű viselkedésére vonatkozik. Elsősorban édesanyja nevezte Gilnek, gyakran Gisnek.  
-> Nevét aztán később, a Gil elemet Gyilnek értelmezve, a Gyilkosság-Házának-Ifja jelentésre módosították. A Gil, Gyil, Kil tényleg jelent gyilkost is. Gilgames az egyik legnagyobb magyar király, akinek tetteiről később eposzokat írtak.  
-![assets/Gilgames_image1.jpeg](/img/user/G/assets/Gilgames_image1.jpeg)  
+> Gilgames ![assets/Gilgames_image1.jpeg|right|196](/img/user/G/assets/Gilgames_image1.jpeg)nevét akkádnak minősítik, holott színmagyar név. A név helyesen Gil-Ga-Mes elemekből áll. Mind a három elem magyar szó, semmi köze az akkádokhoz, hacsak az akkádok nem magyarul beszéltek. Gil a Galamb egyik neve, lásd Gilice, ami galambot jelent, és a Gil becézése. A perzsa `Gil` szintén galamb, a perzsa szó kétségtelenül a magyar nyelvből ered, csak vessük össze a két nyelv létezésének idejét. A Ga egyértelműen Ház, a Mes Ifjú, mint a Mes-E szavunkban is. Ez a Galamb-Házi-Ifjú jelentés a hős galamb lelkű viselkedésére vonatkozik. Elsősorban édesanyja nevezte Gilnek, gyakran Gisnek.  
+> Nevét aztán később, a Gil elemet Gyilnek értelmezve, a Gyilkosság-Házának-Ifja jelentésre módosították. A Gil, Gyil, Kil tényleg jelent gyilkost is. Gilgames az egyik legnagyobb magyar király, akinek tetteiről később eposzokat írtak.   
 
 #### Badiny Jós Ferenc közlése:  
 
@@ -67,7 +66,7 @@ Ezen MES egyezőnek látszik a török `meşe` = [[T/Tölgy\|tölgy]] szóval é
 
 [[G/Galga\|Galgamácsa]] településünk neve vajon milyen eredetű? Nem bizonyíték arra nézve, hogy a [[G/Galgamás\|Galgamás]] a helyes név? ([[G/Galga\|Galga]] előrészű településnév még több is van.)  
 
-![assets/Gilgames_image2.png|invert_dark](/img/user/G/assets/Gilgames_image2.png)  
+![assets/Gilgames_image2.png|fix_dark fix_light right|96](/img/user/G/assets/Gilgames_image2.png)  
 Dr. Gyárfás Ágnes A kék emlékkő című Ősi Gyökér 2005/2. sz. megjelent cikkében és a Fordulat – Hitvilág, mítoszok, legendák című PDF 53. oldalától szereplő Lugal Geme nagy Urasszony ki Mada című írásában, valamint [[G/GA\|GA]] és [[M/Milk\|milk]] címnél szó esett a GA tej jelentéséről.  
 Gyárfás Ágnes A kék emlékkő című cikkében Galgamás nevében is keresi a GA szót.  
 Lehet-e Gal-Ga-Más a Tejút Hőse, a Nagy(ok) Házának Mása/Hőse/Ifjúja értelmű?  
