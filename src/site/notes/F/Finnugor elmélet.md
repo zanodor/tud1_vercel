@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz","containstransclusions"],"created":"2024-05-09T22:31","updated":"2025-08-19T00:54"}
+{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz","containstransclusions"],"created":"2024-05-09T22:31","updated":"2025-09-21T11:55"}
 ---
 
 
@@ -502,7 +502,7 @@ Az amerikai nyelvészeti szeminárium a Bochumi Egyetemen, Németországban, oro
 ## Finom célozgatások
 
 A finnugor nyelvtudomány új online etimológia [szótárában](https://uesz.nytud.hu/index.html) ha nem találunk meg egy szót keresésre, egy medvetort és eggyúttal büdös halszagot megúszó kedves állat képét látjuk (majd leveszik, hogy ne tudjam mással is reprodukáltatni az eredményt – így szokott menni ez):  
-![Finnugor elmélet_image20250327031324520.jpg|invert_dark](/img/user/F/assets/Finnugor%20elm%C3%A9let_image20250327031324520.jpg)
+![Finnugor elmélet_image20250327031324520.jpg|fix_dark fix_light|840](/img/user/F/assets/Finnugor%20elm%C3%A9let_image20250327031324520.jpg)
 
 ## Lábjegyzetek
 
