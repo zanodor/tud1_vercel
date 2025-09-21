@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2025-08-31T02:08"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2025-09-21T16:39"}
 ---
 
 
@@ -155,12 +155,15 @@ Lásd [[H/Hykszosz#^wsupgg\|hikszosz]] címnél.
 
 Egy ideje érlelődik bennem, hogy a [[S/Szemiták és árják\|szemiták és árják]] címnél írottak folytatásaként a görög demokráciának szemita eredetet kell keresni.  
 
-A Quorán az albán nacionalista Ken Pira hívja fel a figyelmet a görög nevet érintő Etymonline adatára:  
+Az Etymonline adatára itt különösen az Epir név miatt hívnám fel a figyelmet, a héber szó összevetésének lehetősége miatt:  
 > Old English Grecas, Crecas (plural) "Greeks, inhabitants of Greece," early Germanic borrowing from Latin Graeci "the Hellenes," apparently from Greek Graikoi. Aristotle, who was the first to use Graikhos as equivalent to Hellenes ("Meteorologica" I.xiv), wrote that it was the name originally used by Illyrians for the Dorians in Epirus, from Graii, native name of the people of Epirus.  
-- Itt különösen az Epir névre hívnám fel a figyelmet, a héber szó összevetésének lehetősége miatt. [Ezen](https://en.wikipedia.org/wiki/Epirus) oldalon arról van szó, hogy ez a hegyes terület lenne az ókori Görögország szárazföldi része. Még az is lehet, hogy a név hegyre utal.  
+> —  
+> Óangol Grecas, Crecas (többes szám) "görögök, Görögország lakói," korai germán átvétel a latin Graeci "a hellének" szóból, feltehetően a görög Graikoi szóból. Arisztotelész, aki elsőként használta a Graikhos szót a hellének megfelelőjeként ("Meteorologica" I.xiv), azt írta, hogy ez volt az illírek által eredetileg az epiruszi dórokra használt név, a Graii szóból, amely Epirusz népének saját neve volt.
+- [Ezen](https://en.wikipedia.org/wiki/Epirus) oldalon arról van szó, hogy ez a hegyes terület lenne az ókori Görögország szárazföldi része. Még az is lehet, hogy a név hegyre utal.  
 A Wiki oldal etimológiai része:  
-> The name Epirus is derived from the Greek: Ἤπειρος, romanized: Ḗpeiros (Doric Greek: Ἄπειρος, romanized: Ápeiros), meaning "mainland" or terra firma. It is thought to come from an Indo-European root \*apero- 'coast', and was originally applied to the mainland opposite Corfu and the Ionian islands. The local name was struck on the coinage of the unified Epirote commonwealth: "ΑΠΕΙΡΩΤΑΝ" (Ancient Greek: Ἀπειρωτᾶν, romanized: Āpeirōtân, Attic Greek: Ἠπειρωτῶν, romanized: Ēpeirōtôn, i.e. "of the Epirotes", see image right). The Albanian name for the region, which derives from the Greek, is Epiri.  
-> ![assets/Héber_image1.png|invert_dark](/img/user/H/assets/H%C3%A9ber_image1.png)  
+> The name Epirus is derived from the Greek: Ἤπειρος, romanized: Ḗpeiros (Doric Greek: Ἄπειρος, Romanized: Ápeiros), meaning "mainland" or terra firma. It is thought to come from an Indo-European root \*apero- 'coast', and was originally applied to the mainland opposite Corfu and the Ionian islands. The local name was struck on the coinage of the unified Epirote commonwealth: "ΑΠΕΙΡΩΤΑΝ" (Ancient Greek: Ἀπειρωτᾶν, romanized: Āpeirōtân, Attic Greek: Ἠπειρωτῶν, Romanized: Ēpeirōtôn, i.e. "of the Epirotes", see image right). The Albanian name for the region, which derives from the Greek, is Epiri.  
+> —  
+> Az Epirusz név a görög: Ἤπειρος, átírva: Ḗpeiros (dór görögül: Ἄπειρος, átírva: Ápeiros) szóból származik, jelentése "szárazföld" vagy "terra firma". Úgy vélik, egy indoeurópai \*apero- "part" tőből ered, és ![assets/Héber_image1.png|fix_dark fix_light right|300](/img/user/H/assets/H%C3%A9ber_image1.png)eredetileg a Korfuval és a Jón-szigetekkel szemközti szárazföldre vonatkozott. A helyi név az egyesült epeiroszi államszövetség pénzveretén is szerepelt: "ΑΠΕΙΡΩΤΑΝ" (ókori görögül: Ἀπειρωτᾶν, átírva: Āpeirōtân, attikai görögül: Ἠπειρωτῶν, átírva: Ēpeirōtôn, azaz "az epeirosziaké", lásd a jobb oldali képen). A régió albán neve, amely a görögből származik, Epiri.
 
 A szövegben érdekes a fentebb már említett/tárgyalt part jelentésűnek meghatározás. A Tejút két partra osztja az eget. Mivel másutt (például [[R/Range\|range]] címnél) volt szó arról, hogy a Tejút hegyvonulatok nevét is adhatja, itt is lehet erről szó, de nem kizárt, hogy a héber [[H/Habiru\|Habiru]] címnél sorolt ilyen-olyan változatainak egy újabb instanciájáról van szó.
 
