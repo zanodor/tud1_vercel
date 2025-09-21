@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2025-08-20T18:38"}
+{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2025-09-21T22:42"}
 ---
 
 
@@ -63,15 +63,13 @@ Práczki István Szittya Biblia című könyvében mindenütt méhet és mézet 
 > Napállatkák voltak azok a szárnyas rovarok, melyeknek Naphoz társítható tulajdonságaik vannak és hasznosak \[lásd Varga Zsigmond írását [[F/Féreg\|féreg]]\]. (Vannak kivételek. A mesékben, a mesék keleti hősének párhuzamaiban az aranyhajú naphérosz feje olykor bizony tetves. A mesélő csak annyira szépíti az élet eme tudomásul vett tényét, amennyire az a Naphoz illik: aranyhajában aranybogarak tenyésznek.)  
 > A méh. Arany színű állatka, mely az aranyló mézet és a világításra szolgáló [[G/Gyertya\|gyertya]] viaszát állítja elő. Fullánkjának fájdalmas csípése a napsugarak okozta leégést asszociálja (l. még napszúrás). Első kirajzása a tavaszi napéjegyenlőség, Húsvét idejére esik Európában; ezt jelzik a "méheresztö" szentek ünnepei (Patrik: márc. 17., József: márc. 19., Benedek: márc. 21., Ambrus: ápr. 4., György: ápr. 24.)  
 > A méh "államalkotó" rovar. A méhállam uralkodóját, a hatalmasra duzzadt potrohú királynőt úgy gondozzák alattvalói, mintha istennőjük lenne. Gyermekei, a dolgozók életüket áldozzák a kaptár védelmében, férjei, a herék pedig belehalnak a vele való egyesülésbe. Csupa napmítoszi mozzanat. Figyelemre méltó, hogy a méh háziasítása a Nagy Istennő, az anyajog egyeduralmának az idejére esik (Kr. e. 6-5. évezred). A Nap anyját egyik alakjában "Nagy Méh" néven tisztelték a Közel-Keleten.  
-- Az [[A/ANA\|ANA]] címnél képpel is bemutatot hurrita/heta Hannahannah istennő is ilyen.  
+- Az [[A/ANA\|ANA]] címnél képpel is bemutatott hurrita/heta Hannahannah istennő is ilyen.  
 ![assets/Méh_image1.png](/img/user/M/assets/M%C3%A9h_image1.png)  
 
-#### Jankovics Marcell folytatja:  
-
+Jankovics Marcell folytatja:  
 > Egyiptomban azt tartották a méhről, hogy Ré könnyeiből keletkezett. Alsó-Egyiptom szimbóluma volt – [[N/Neith\|Neith]] istennő delta vidéki templomát Szaiszban a "Méh házá"-nak nevezték –, az országrész első királyainak a jelzői között szerepelt: "Ő, aki a méhhez tartozik."  
 > Egy Kréta szigetén előkerült aranyfüggő két méhet vagy darazsat ábrázol (53. rajz). Egy kerek lépet fognak közre; szárnyaikról és összeérő potrohukról három kisebb és dísztelenebb korongocska függ. A lép a delelő (nyári) Nap teli "mézes bödönjét" jelképezheti – gyöngyös borítása utal a sejtekből kigyöngyöző mézre –, de az elrendezés és a díszítésmód arra enged következtetni, hogy a három másik, "belül üres" korongocska is napjelkép lehetett; a Nap "oldalsó" és "alsó": tavaszi és őszi, illetve téli állását szimbolizálhatták. A méhkultusz középpontja háziasításának színtere, Kisázsia volt. Méh és oroszlán kísérte Kübelét, a kisázsiai napanyaistennőt.  
 - Az epheszoszi [[A/Artemisz\|Artemisz]]ról nem szól; a mellékelt, őt ábrázoló képen is látni, hogy a méh szerepel rajta.
-
 ![assets/Méh_image2.png](/img/user/M/assets/M%C3%A9h_image2.png)  
 Carla Ionescu, a torontói egyetem hallgatójának The Enduring Goddess: Artemis and Mary, Mother of Jesus című disszertációjában további idevágó adatok szerepelnek[^1].  
 
@@ -85,14 +83,14 @@ Várkonyi Nándor [[P/Patala\|Patala]] címnél álló sorai ide is illenek az �
 - Valójában ősi képzet; a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]].  
 
 Mivel a méh nemcsak az Artemisz-szobron szerepel, hanem külön érméken is (más érmék szarvas-állatalakját mutatják), ez is bizonyítéka lehet annak, hogy i.e. 300-ban és korábban még magyarul beszélő illetve értő emberek alkották meg a kultuszt és verték az érméket. Ugyanis csak magyar nyelven hordozza méh ezen kettős jelentést. Ha az itt szereplő két érme ugyanazon érme két oldala lenne, az lenne igazán csak az igazi, mert rámutatna, hogy az alant még taglalt [[S/Szarvas\|szarvas]] méhéről van szó.  
-![assets/Méh_image3.png|invert_dark](/img/user/M/assets/M%C3%A9h_image3.png)  
+![assets/Méh_image3.png|fix_dark fix_light|840](/img/user/M/assets/M%C3%A9h_image3.png)  
 Tulajdonképpen arra is rámutatna, hogy az akkori emberiség már előre tudta/várta a mayák által is kiszámolt születésnapot (lásd [[G/Galactic centre\|Galactic centre]]).  
 
 ## Anyaméh
 
 Ha a [[H/Ház\|ház]] (szavunk) a Tejútra (és lényegében a **Tejútanyának hasára/méhére**!) vonatkozik, és emse-[[E/Emese\|Emese]] is a Tejútanya (állat- és ember)alakja, akkor a [[K/Koca\|koca]]/coca is az, de mivel a koca név közvetlenül a kota, [[K/Kútya\|kútya]] = ház értelmű szavakkal azonos, ezért gyakorlatilag ezen (koca nőstény)állat neve is közvetlenül asztrális eredetű lehet.  
 Az igazság az, hogy a [[K/Köldök\|köldök]]/méh/[[V/Vulva\|vulva]]/[[P/Pina\|pina]] fogalmak nem igazán határolódnak el egymástól a régi és a mai felfogás szerint sem. A méhszáj például ugyanolyan száj/nyílás, mint a külső szeméremnyílás, melyet a vagina köt össze, de a vagina ma már leginkább pina értelemben használatos. De ilyenek a [[K/Kútya\|kútya]] címnél előjövő doboz és vagina jelentésű szavak és az angol szleng [[B/Box\|box]] is, mely buksza szavunkkal is azonos. [[D/Doboz\|Doboz]] is annyit jelent mint [[N/Nap háza\|Nap háza]] ismét.  
-[[M/MAG\|MAG]] címnél is volt arról szó, hogy a dolga, hogy a méhbe jusson.  
+[[M/MAG\|Mag]] címnél is volt arról szó, hogy a dolga, hogy a méhbe jusson.  
 [[K/Kutya\|Kutya]] cím bevezetőjében lábjegyzetben szerepelt:  
 Méh szavunk kétértelmű. Jelenti a Napot szülő Tejútanya (és a földi nők) méhét de jelenti a Napállat méhét is. Mivel a Tejútanya nemzését (legalábbis kis éves vonatkozásban) a (még meg nem született) fia (vagy annak [[S/Széth\|Széth]]-minőségű árnyék-énje) végzi, ezért a Napállat méh alkalmas neve lehet a [[S/Skorpió csillagkép\|Skorpió csillagkép]]nek is. Minden továbbit lásd ott. (Közben a Skorpióról kiderült, hogy Szarvas szavunkból ered. [[S/Skorpió csillagkép\|Skorpió csillagkép]]nél új méhes infók is szerepeltek.)  
 
@@ -139,9 +137,9 @@ Több helyen volt erről szó[^3]. Nyilván Péterfai János is említi, de Borb
 
 Jankovics Marcell ezen passzusa másutt, [[H/Hunor és Magor#Égi területek földre tükrözése\|égi területek földre tükrözése]] cím/alcímnél is szerepelt. Ezen adatát is annak bizonyítékául fogtuk fel – a méh-anyaméh-Nyilas csillagkép analógia mentén – hogy a sötét félév (ahol a [[S/Skorpió csillagkép\|Skorpió csillagkép]] és a Tejútanya [[A/Anyaméh\|anyaméh]]e is van) Alsó-Egyiptomhoz tartozik, így a Péterfai János által megadott Hun alternatív név Alsó-Egyiptomra szintén megfelel elnevezésként.  
 
-Nagy Károly A sakkjáték eredetének története című az Ősi Gyökér 2013/3. sz. megjelent cikkében mikor a [[N/Narmer-paletta\|Narmer-palettá]]n ábrázolt összecsavarodott hosszú nyakú szörnyekkel jelképezett Felső- és Alsó-Egyiptom egyesítésének említése után azt írja, hogy az egyiptomi nyelvben a SZEMA "egyesíteni" hieroglifa az ország egységére utal, akkor a [[S/Semi-\|semi-]] szó és a fél-egész téma ötlött fel rögtön, és aztán amikor azzal folytatja, hogy az óegyiptomi írásban **Felső-Egyiptomot a SÁS, míg *Alsó*-Egyiptomot a MÉH jelképezi**, akkor a sás indo-európai hatot (lásd [[S/Six\|six]]) jelentő szavainak lehetséges kapcsolatára gondoltam (a téridő 12-es rendszerének fele 6).  
-![assets/Méh_image4.jpeg|invert_dark](/img/user/M/assets/M%C3%A9h_image4.jpeg)  
+Nagy Károly A sakkjáték eredetének története című az Ősi Gyökér 2013/3. sz. megjelent cikkében mikor a [[N/Narmer-paletta\|Narmer-palettá]]n ábrázolt összecsavarodott hosszú nyakú szörnyekkel jelképezett ![assets/Méh_image4.jpeg|fix_dark fix_light right|360](/img/user/M/assets/M%C3%A9h_image4.jpeg)  Felső- és Alsó-Egyiptom egyesítésének említése után azt írja, hogy az egyiptomi nyelvben a SZEMA "egyesíteni" hieroglifa az ország egységére utal, akkor a [[S/Semi-\|semi-]] szó és a fél-egész téma ötlött fel rögtön, és aztán amikor azzal folytatja, hogy az óegyiptomi írásban **Felső-Egyiptomot a SÁS, míg *Alsó*-Egyiptomot a MÉH jelképezi**, akkor a sás indo-európai hatot (lásd [[S/Six\|six]]) jelentő szavainak lehetséges kapcsolatára gondoltam (a téridő 12-es rendszerének fele 6).  
 Írja még itt, hogy az egyiptomi nyelvben a szobrok mágikus funkciójával kapcsolatos megelevenítő szót SZANH-nak nevezik.  
+
 Borbola Jánostól nád jön elő sás helyett, de A Nílus-völgyi hitvilág című Ősi Gyökér 2005/4. sz. megjelent cikkében amikor említést tesz a nád népéről, pont fordítva, Alsó-Egyiptomot ír:  
 > Hunn Íjász a Nílus-delta nádban gazdag vidékének volt korlátlan ura. Számos település, és még több vízi út tarkította ezt a termékeny területet, a szakirodalom elnevezésében Alsó-Egyiptomot. Megítélésünk szerint a nád népe alatt az itt élő hunokat értették.  
 
