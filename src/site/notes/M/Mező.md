@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mező/","title":"Mező","created":"2024-05-11T04:05","updated":"2025-06-08T01:43"}
+{"dg-publish":true,"permalink":"/M/Mező/","title":"Mező","created":"2024-05-11T04:05","updated":"2025-09-22T01:16"}
 ---
 
 
@@ -12,7 +12,7 @@ Ezek alapján gondolható, hogy [[M/MI\|MI]] > [[M/MISZ\|MISZ]] alapszavaink, me
 
 Viszont mivel [[M/Méz\|méz]], [[M/MES\|MES]] és [[M/MISZ\|MISZ]] kapcsán égi területekről volt szó, itt is az égen kellene keresni mezőt. Hogy is állt másutt? Eredetileg térközt, folyóközt jelent, innen ered [[M/Mezopotámia\|Mezopotámia]] neve vagy Mezo-Amerika elnevezése is.  
 Igen ám, de ha a meghatározás szerint két folyó közötti területről van szó, akkor gondot okoz, hogy a Tejútból csak egy van. Igen ám, de a Tejútnak van egy [[V/Villa\|villá]]s (John M. Jenkinsnél "bifurcated") elágazása is, mely közötti terület neve lehetne a mező. A Tejút két ága közti tengerszigetről [[S/Sziget\|sziget]] címnél is volt szó (lásd Péterfai János ábráját azért ide is csatolva). Ez lenne az égi mező? Lehetne, bizony.  
-![assets/Mező_image1.png|invert_dark](/img/user/M/assets/Mez%C5%91_image1.png)  
+![assets/Mező_image1.png|fix_dark fix_light|840](/img/user/M/assets/Mez%C5%91_image1.png)  
 De ezzel nincs vége, mert hasonló szavak [[K/Közép\|közép]] jelentéssel is állnak az utódnyelvekben (sőt, a szanszkrit `madhu` = mézet, tejet, nektárt is jelentő szóhoz is hasonló alakúak). Az árja szavak alakisága és a kún-hun alakú [[K/Közép\|közép]] (és akár [[C/Centre\|centre]]?) címnél írottak alapján azt lehetne mondani, hogy a **mező tulajdonképpen közép jelentésű**.  
 
 Igen ám, de közép(en lévőséget) máshogy is lehet értelmezni. A közép jelentésű szavakat, (terület)neveket [[M/Middle\|middle]] címnél taglaltuk. Már ott és a [[M/MISZ\|MISZ]] címnél levő életkör-diagramban volt szó arról, hogy a [[T/Tejút\|Tejút]] általi **középen felezés** adja a két félt, és arról, hogy az eget két [[F/Fél\|fél]]re [[O/Oszt\|oszt]]ó Tejutat jelölő szavak nyomán alakult ki valójában a közép és felezés jelentés.  
