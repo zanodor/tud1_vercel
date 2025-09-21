@@ -96,17 +96,16 @@
   }
 }
 
-/* Content size revamp */
-
-body {
-  --file-line-width: 780px;
-  --font-text-size: 20px;
-}
-
-.content {
-  max-width: var(--file-line-width) !important;
-  font-size: var(--font-text-size) !important;
-  margin-left: calc(50% - (var(--file-line-width) / 2) - 40px) !important;
-
-  padding-right: 40px !important;
+/* Content size revamp - Desktop only */
+@media screen and (min-width: 1920px) {
+  body {
+    --file-line-width: 780px;
+    --font-text-size: 20px;
+  }
+  .content {
+    max-width: var(--file-line-width) !important;
+    font-size: var(--font-text-size) !important;
+    margin-left: calc(50% - (var(--file-line-width) / 2) - 40px) !important;
+    padding-right: 40px !important;
+  }
 }
