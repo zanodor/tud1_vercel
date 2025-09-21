@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2025-08-07T23:51"}
+{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2025-09-21T18:13"}
 ---
 
 
@@ -116,8 +116,7 @@ Grandpierre Atilla: Ősi Magyarország, a Kárpát-medence és a Selyemút népe
 > Ősi Magyarország című könyvünk természetföldrajzi fejezetében kimutattuk, hogy a civilizáció kifejlődése számára kedvező tulajdonságok együttesen világviszonylatban kiemelkedő mértékben adottak a Kárpát-medencében, és jelentős mértékben a Kárpát-medencétől északon a tundráig, keleten a Csendes-óceánig, délen Észak-Indiáig terjedő, 20-25 millió km² területű eurázsiai Pusztán, az ősi Selyemúton. Természetföldrajzi alapon azt várhatjuk, hogy az ősidőktől mindaddig, amíg az emberiség történelmében a természetföldrajzi feltételek voltak a meghatározók, vagyis a legutóbbi évezredekig, ez a két körzet adott otthont az első nagy civilizációnak.  
 > Mit mondanak a régészeti tények e körzet ősműveltségéről? A hárommillió éves időtartamú kőkorszakban a könnyen pattintható és csiszolható kovakövek számítottak a legértékesebb nyersanyagnak. Nem eléggé ismert, hogy a Kárpát-medencében, világelsőként, már 90 000-100 000 évvel ezelőtt nemcsak hogy bányásztak, hanem fejlett hőkezelési technológiát alkalmaztak az avasi kovakőbányában (Ringer, 2006). A ma ismert adatok alapján a kőkorszak ezen kiemelkedő vívmánya, a kovakő hőkezelési technológiája a Kárpát-medencéből, az Avasról terjedt el egész Eurázsiában (uo.).  
 
-![assets/Kárpát-medence_image1.png|invert_dark](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image1.png)  
-[[M/Magyar nyelv és nép kormeghatározása\|Magyar nyelv és nép kormeghatározása]] címnél is szóba került az Ősi Gyökér 2005/3. sz. megjelent (szenzációszámba menő) avasi őskőkori kovakőről és hőkezeléses technikáról szóló cikk: Parázs István 70-100000 évvel ezelőtt Kárpát-medencei adatokat mutat be.  
+[[M/Magyar nyelv és nép kormeghatározása\|Magyar nyelv és nép kormeghatározása]] ![assets/Kárpát-medence_image1.png|fix_dark fix_light right|300](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image1.png)  címnél is szóba került az Ősi Gyökér 2005/3. sz. megjelent (szenzációszámba menő) avasi őskőkori kovakőről és hőkezeléses technikáról szóló cikk: Parázs István 70-100000 évvel ezelőtt Kárpát-medencei adatokat mutat be.  
 A lentebb taglalt [ezen](https://www.youtube.com/watch?v=reuuRpJNnT0) Dr. Bognár László féle, Emlékezés Magyar Adorjánra című előadásban 17:20-nál jön elő a téma. Harsányi Ildikó: Fekete magyarok, fehér magyarok (Fríg Kiadó. 2005.) című könyve 43. oldalán írja:  
 > "1995 nyarán a miskolci Avason olyan kovakőbányát találtak, ahol már hetvenezer éve hőkezeléssel dolgoztak, vagyis a világ első kohászati technikája hazánkban működött. A lelet a régészek szerint átírja az őstörténelmet."  
 > A Kárpát-medence volt az "obszidián-út" és a "só-út" kiindulópontja, valamint a "selyem-út" és a "borostyán-út" végállomása.  
@@ -127,7 +126,7 @@ Dr. Bognár László[^1] [ezen](https://www.youtube.com/watch?v=reuuRpJNnT0) Eml
 > "Kr.e. 40000-5500-ig (ekkor fogytak el a rénszarvas leletek a Kárpát-medencében) a rénszarvasok vonulásakor minden évben két alkalommal – a harántvölgyek terelésében, a folyó menti vadásztanyákon vártak eleink a bőséges zsákmányra. A Dunakanyarban ilyen volt Szob, Zebegény, Nagymaros, Verőce. Itt a Duna legalacsonyabb teraszán voltak a rénszarvasok átkelő helyei, ahol a kis harántvölgyek terelték a csordákat." (Magyarország története. Szerk.: Pach Zsigmond Pál Akadémiai Kiadó. Budapest. 1984. 1. k. 54. és 111.oldal)  
 
 Utána Gábori Miklós és Gáboriné Csánk Vera: Az ősember Magyarországon. Gondolat. Kiadó. Budapest. 1980. 131-151. oldaláról és Gábori Miklós: Magyarország története. Akadémiai Kiadó, Budapest,1984. I. k. 96-97. oldaláról való információra hívja fel a figyelmet (Péterfai Jánosnál hasonló adat megvolt):  
-![assets/Kárpát-medence_image2.png|invert_light](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image2.png)  
+![assets/Kárpát-medence_image2.png|fix_light|840](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image2.png)  
 
 > "Az érdi telep a Würm óta (50.000 év) lakott. Egyedül itt található az 50000 éves 7300 kg hús tárolására alkalmas jégverem, ahová beszállítás folyt, hiszen több a combcsont maradványa, mint amennyi állat volt, tehát máshol darabolták."  
 > Evan Hadingham, a Harvard Egyetem embertannal foglalkozó professzora, Secrets of the Ice Age. New York. Walkerand Co. 1979. 64. oldalán hasonló adattal szolgál:  
@@ -135,10 +134,9 @@ Utána Gábori Miklós és Gáboriné Csánk Vera: Az ősember Magyarországon. 
 
 A Magyar Nemzeti Múzeum Kelet és Nyugat határán kiállítás 2. terem érdekességei kapcsán [ezen](https://mnm.hu/hu/kiallitasok/allando/kelet-es-nyugat-hataran) és [ezen](https://mnm.hu/hu/kiallitasok/kelet-es-nyugat-hataran/ujkokor-rezkor) oldalon, ahogy Bognár László előadásában is szót ejt róla, nagyon érdekes dolgokkal találkozunk:  
 Kelet és nyugat határa – A magyar föld népének története Kr. e. 40.000 - Kr. u. 804-ig. (Lásd: Magyar Nemzeti Múzeum Honlapján)  
-"Az Alföld településsűrűsége az újkőkor idején elérte, sőt meghaladta a mai települések számát, a lakóházak mérete gyakran jelentősen meghaladta a mai átlagos lakóházak méretét."  
+"Az ![assets/Kárpát-medence_image3.png|right|200](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image3.png)Alföld településsűrűsége az újkőkor idején elérte, sőt meghaladta a mai települések számát, a lakóházak mérete gyakran jelentősen meghaladta a mai átlagos lakóházak méretét."  
 
-![assets/Kárpát-medence_image3.png](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image3.png)  
-![assets/Kárpát-medence_image4.png](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image4.png)  
+![assets/Kárpát-medence_image4.png|right|200](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image4.png)  
 A Magyar Néprajzi Lexikonból idéz itt még Bognár:  
 > A vesszőfal a népi építészet egyik legrégibb e legelterjedtebb falszerkezete. A vesszőfonás ősrégi technika, Európában a neolitikumtól ismert. Mo.-on vessző falú házat a honfoglalás korától\[?\] építettek, a 16-19. sz.-ban az egyik legjelentősebb falszerkezet volt. Vesszőfallal építettek lakóházat, csűrt, istállót, ólat, kukorica górét, gabonást, sőt templomot és más középületet is.  
 - [Ezen](http://magyarokeredete.blogspot.com/p/iii5-regeszet-bronzkor.html) oldalról való a sokházikós kép egyébként.
@@ -152,7 +150,8 @@ Itt még az Archeopark 5500 éves településének bemutatóját adja közre ké
   
 24:50-nél David Keys: Europe's Oldest Civilization. The Independent (2005) című és Cahal Milmo: How the 7000-years-old temples reveal the elaborate culture of Europe. The Independent (2005) források alapján mondja ki:  
 > "Ez az európai civilizációt megteremtő nép a Kárpát-medencéből indult ki i.e. 4800 körül. Ez a régészeti felfedezés átírja a történelmet." (Ezt a sort így egyik cikkben sem láttam.  
-![assets/Kárpát-medence_image5.png|invert_dark](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image5.png)  
+
+![assets/Kárpát-medence_image5.png|fix_dark fix_light|840](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image5.png)  
 - A mellékelt kép, ahol ugyanez elhangzik, egy 2013-as Ősi Gyökeres számból lett idetéve.
 
 A fentebbi (PDF-ben nem szereplő) képet[^2] azután közli, miután a [[G/Genetika\|genetika]] címnél tett kitérőt megtettük: Nem jöttünk mi sehonnan sem.  
@@ -432,8 +431,8 @@ Hasonló (nem tudom mire vélhető) adatot találunk ...
 > a.) A képen pontosan megtalálható a Föld, rajta a kontinensek és szigetek körvonalai, különösen pedig Atlantis két nagy szigete.  
 > b.) De pontosan megállapítható az is, hogy a Földnek ekkor még két Holdja volt.  
 
-![assets/Kárpát-medence_image7.jpeg](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image7.jpeg)  
-![assets/Kárpát-medence_image8.jpeg](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image8.jpeg)  
+![assets/Kárpát-medence_image7.jpeg|840](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image7.jpeg)  
+![assets/Kárpát-medence_image8.jpeg|840](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image8.jpeg)  
 
 A 2006. augusztus 7-11-ig tartott XI. Magyar Őskutatási Fórumról az Ősi Gyökér 2006/3. számában számolnak be. Ezen cikkben számolnak be Ujj Dénes elképzeléséről, aki felvetítette Eurázsia térképét, s beazonosította Kárpát-medencét a Draco, azaz [[S/Sárkány csillagkép\|Sárkány csillagkép]]pel, vagyis a Kárpát-medence égi mása a Sárkány csillagkép \[amely valóban északi\], az égbolt hajdani pólusa \[talán itt a Magyar Adorján féle témát is vegyíteni kellene?\]. Szerinte a kozmikus háttérsugárzás eredménye az a sok földi energiaközpont, amely a Kárpát-medencében fellelhető.  
 Annyi igaz lehet, hogy a Kárpát haza [[O/Ország\|ország]]a égi mennyország földre tükrözése és női terület, ahogy észak is, ahol a Sárkány csillagkép is van és ahol Magyarországot is Magyar Adorján egykor az északi sarkra képzelte el. Ugyanakkor felveti mindez azt is, hogy 1) nem-e azért kezdték tisztelni az északot, északi csillagképeket, mert egykor maguk is ott éltek vagy 2) fordítva. Inkább a harmadik variáció lehet igaz: is-is illetve a nő és az anya tisztelete mindenek felett való.  
