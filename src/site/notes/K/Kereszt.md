@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2025-09-21T20:23"}
+{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2025-09-21T20:25"}
 ---
 
 
@@ -595,7 +595,7 @@ A kereszténység ideje előtti keresztek mindig érdekes téma. Itt csak felsor
 
 ## Forgó keresztek
 
-Lásd lentebb (keress rá).  
+Lásd [[K/Kereszt – változó kereszt\|kereszt – változó kereszt]].  
 
 ## Kereszt szavunk idegen nyelvekben
 
@@ -616,7 +616,7 @@ Az avar hatástól nem érintett abesziniai kereszténység a keresztet valláso
 Egyezik a vícsol indiánok Napjának nevével, Tau-val. Viszont tau a görög T neve is, melyről lásd [[T/T\|T]].  
 
 [^5]: Lábjegyzet:  
-Sergei Tokarev is kategorikusan kijelenti:  
+Szergej Tokarev is kategorikusan kijelenti:  
 The cult of the cross, for instance, had nothing to do with the supposed instrument used for Christ's execution. The Romans did in fact crucify people on crosses, but they were in the form of the letter "T". The Christian cross is an extremely ancient religious symbol that can be found in Egyptian, Cretan and other art work. Its origin is hard to establish, but it is certain the cult of the cross had nothing to do with **the legend of the crucification of Christ**.  
 —  
 A kereszt kultuszának például semmi köze nem volt ahhoz az állítólagos eszközhöz, amelyet Krisztus kivégzéséhez használtak. A rómaiak valóban keresztre feszítettek embereket, de azok a "T" betű formáját öltötték. A keresztény kereszt egy rendkívül ősi vallási szimbólum, amely megtalálható egyiptomi, krétai és más művészeti alkotásokban. Eredetét nehéz megállapítani, de az biztos, hogy **a kereszt kultuszának semmi köze Krisztus keresztre feszítésének legendájához**.  
@@ -626,7 +626,7 @@ Itt többféle kereszt alakú jelet találunk.
 
 [^7]: Lábjegyzet:  
 Varga Gézát (és forrásasait) félrevezették más modellek:  
-A felülnézeti világmodellek legegyszerűbb formája a körbe, illetve négyzetbe zárt kereszt vagy X. Ilyen a kínaiak és az asztrológia "Föld", az egyiptomiak "település" fogalomjele, valamint a székely "f' (Föld) rovásjel. Ezek a teremtett, rendezett világot térképszerűen ábrázolják. A jelforma amerikai indián ábrázolásokról is kimutatható. Közel áll ezekhez a képszerűbb elemekből építkező római *crux invicta* "győzhetetlen kereszt", a keleti mandala, a "négyszarvú" antik oltártípus, a regölyi hun ezüstcsat, a szarmata bronztükrök szokásos díszítése, a kelet-ázsiai "szélrózsa" [[T/Teknős\|teknős]]e, stb.  
+A felülnézeti világmodellek legegyszerűbb formája a körbe, illetve négyzetbe zárt kereszt vagy X. Ilyen a kínaiak és az asztrológia "Föld", az egyiptomiak "település" fogalomjele, valamint a [[S/Székely-magyar rovásírás#F\|székely 'f']] (Föld) rovásjel. Ezek a teremtett, rendezett világot térképszerűen ábrázolják. A jelforma amerikai indián ábrázolásokról is kimutatható. Közel áll ezekhez a képszerűbb elemekből építkező római *crux invicta* "győzhetetlen kereszt", a keleti mandala, a "négyszarvú" antik oltártípus, a regölyi hun ezüstcsat, a szarmata bronztükrök szokásos díszítése, a kelet-ázsiai "szélrózsa" [[T/Teknős\|teknős]]e, stb.  
 Nemcsak Varga Gézánál, de Jankovics Marcell Jelkép-kalendárium című könyvében is a szokásos értelmezés kerül elő: a Föld archaikus, asztrológiában is használatos jele a körbe írt égtájkereszt: kör = anyaméh, kereszt = nap-fiú-magzat.  
 
 [^8]: Lábjegyzet:  
@@ -674,4 +674,4 @@ Az egyenlő oldalú keresztet egykor széles körben használták az esőt hozó
 
 [^18]: Lábjegyzet:  
 Jankovics Marcell írja:  
-A Jupiter bolygó jele keresztet ábrázol, "kezében" sarlóval. A [[K/Kereszt\|kereszt]] mint égtáj-jel az égbolt jelképe, de stilizált emberalakot is formáz, s mint ilyen az égboltot megszemélyesítő égatya szimbóluma. A sarló (holdsarló) Kronosz-Szaturnusz egykori hatalmi jele, melyet fia elragadott tőle. Mint szabad szemmel látható 6 planétatársa, a Jupiter is kapott a hétből napot. A csütörtök az övé (latin dies lovis), amint ezt a nap francia (jeudi), olasz (giovedi), angol (Thursday) és német neve (Donnerstag) is jelzi. Az utóbbi kettő az isten germán megfelelőjének, Thornak, Donarnak a nevéből képződött. Az asztrológia Jupiteréhez a fehér fémeket (ónt, horganyt), és a kék, zöldeskék ékköveket (jáspist, lapis lazulit, türkizt) társították – gyaníthatóan a derült ég színei nyomán.
+A Jupiter bolygó jele keresztet ábrázol, "kezében" sarlóval. A [[K/Kereszt\|kereszt]] mint égtáj-jel az égbolt jelképe, de stilizált emberalakot is formáz, s mint ilyen az égboltot megszemélyesítő égatya szimbóluma. A sarló (holdsarló) Kronosz-Szaturnusz egykori hatalmi jele, melyet fia elragadott tőle. Mint szabad szemmel látható 6 planétatársa, a Jupiter is kapott a hétből napot. A csütörtök az övé (latin dies lovis), amint ezt a nap francia (jeudi), olasz (giovedi), angol (Thursday) és német neve (Donnerstag) is jelzi. Az utóbbi kettő az isten germán megfelelőjének, Thornak, Donarnak a nevéből képződött. Az asztrológia Jupiteréhez a fehér fémeket (ónt, horganyt), és a kék, zöldeskék ékköveket (jáspist, lapis lazulit, türkizt) társították – gyaníthatóan a derült ég színei nyomán.  
