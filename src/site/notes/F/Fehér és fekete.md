@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2025-08-03T18:34"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2025-09-21T03:06"}
 ---
 
 
@@ -200,7 +200,7 @@ A két kutya, kétfejű sas, két szarvas, két kígyó [[J/Janus\|Janus]] és [
 Kubínyi Tamás egy műsorában azt mondja, hogy a perzsa ősvallás Ahura Mazda és Ahriman szembenállásának, a jó és a gonosz küzdelmének folytatása látható Szent László legendájában: a **fehér és a fekete ló** ellentétére hívja itt fel a figyelmet. A [[S/Szent László és a leányszöktető kun\|Szent László és a leányszöktető kun]] címnél mellékelt képen látszanak is.  
 
 Zarándoklás a cédrusokhoz Libanonban Csontváry Kosztka Tivadar képe (csak részletét adom).  
-![assets/Feheresfekete_image1.png](/img/user/F/assets/Feheresfekete_image1.png)  
+![Fehér és fekete_image20250921030406860.jpeg|840](/img/user/F/assets/Feh%C3%A9r%20%C3%A9s%20fekete_image20250921030406860.jpeg)
 Itt is látunk lovakat. Középen fehér és fekete ló mutat(hat)ja az év felezését. Még ellenkező irányba is néznek.  
 
 Az év felezése [[A/Arkadash\|arkadash]] címnél taglaltak szerint annak az Ikreknek felel meg, mely Ikrek irányában van a félév-határoló Kutya is. Ezért lehet az, hogy az [[A/Asb\|asb]] címnél taglalt ind Ashvini-k lófejű ikrek és az ott említett angolszász [[H/Hengist és Horsa\|Hengist és Horsa]] kettőse is lóra utaló nevek.  
