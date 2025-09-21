@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2025-09-11T16:56"}
+{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2025-09-21T15:12"}
 ---
 
 
@@ -9,16 +9,14 @@ A Wikipédia adata szerint a Tejútközponttal szemben az [[A/Auriga\|Auriga]] v
 > The galactic anticenter is a direction in space directly opposite to the Galactic Center, as viewed from Earth. This direction corresponds to a point on the celestial sphere. From the perspective of an observer on Earth, the galactic anticenter is located in the constellation Auriga, and Beta Tauri is the bright star that appears nearest this point.  
 > In terms of the galactic coordinate system, the Galactic Center (in Sagittarius) corresponds to a longitude of 0°, while the anticenter is located exactly at 180°. In the equatorial coordinate system, the anticenter is found at roughly RA 05h 46m, dec +28° 56'.  
 > —  
-> A galaktikus anticentrum a Földről nézve a Tejútközponttal (Tejútközponttal) közvetlenül ellentétes irány a térben. Ez az irány az éggömb egy pontjának felel meg. Egy földi megfigyelő szemszögéből nézve a galaktikus anticentrum az Auriga csillagképben található, és a Beta Tauri az a fényes csillag, amely ehhez a ponthoz legközelebb látszik.  
+> A galaktikus ![assets/Galacticanticentre_image1.png|fix_dark fix_light right|400](/img/user/G/assets/Galacticanticentre_image1.png)anticentrum a Földről nézve a Tejútközponttal (Tejútközponttal) közvetlenül ellentétes irány a térben. Ez az irány az éggömb egy pontjának felel meg. Egy földi megfigyelő szemszögéből nézve a galaktikus anticentrum az Auriga csillagképben található, és a Beta Tauri az a fényes csillag, amely ehhez a ponthoz legközelebb látszik.  
 > A galaktikus koordinátarendszer szempontjából a galaktikus középpont (a Nyilasban) 0°-os hosszúságnak felel meg, míg az anticentrum pontosan 180°-on helyezkedik el. Az egyenlítői koordinátarendszerben az anticentrum nagyjából az RA 05h 46m, dec +28° 56' ponton található.  
-> ![assets/Galacticanticentre_image1.png|invert_dark](/img/user/G/assets/Galacticanticentre_image1.png)  
 - Még meg is rajzolja nekünk a segédvonalat, hogy könnyen megtalálhassuk.  
 A fentebb említett [[S/Szekeres csillagkép\|Szekeres csillagkép]] jelentőségéről már Szántai Lajos is szólt; lásd ott. A Szekeres fényes alfája, [[C/Capella\|Capella]] pedig, ahogy [[N/Ninurta\|Ninurta]] címnél is szerepelt, a [[T/Tejútoszlopok\|Tejútoszlopok]] egyike.
 
-Itt csak az a kérdés, mennyire pontosan számoltak (mármint azzal, hogy a Tejútközpontot belőjék).  
-Nos, [ezen](https://en.wikipedia.org/wiki/Galactic_coordinate_system) oldalon álló adatok szerint jól járnak el. (Radio source Sagittarius A*, which is the best physical marker of the true galactic center, is located at 17h 45m 40.0409s, −29° 00′ 28.118″ (J2000).)  
+Itt csak ![assets/Galacticanticentre_image2.png|fix_dark fix_light right|300](/img/user/G/assets/Galacticanticentre_image2.png)  az a kérdés, mennyire pontosan számoltak (mármint azzal, hogy a Tejútközpontot belőjék).  
+Nos, [ezen](https://en.wikipedia.org/wiki/Galactic_coordinate_system) Wiki oldalon álló adatok szerint jól járnak el. (Radio source Sagittarius A*, which is the best physical marker of the true galactic center, is located at 17h 45m 40.0409s, −29° 00′ 28.118″ (J2000).)  
 Onnan való a mellékelt kép is.  
-![assets/Galacticanticentre_image2.png|invert_dark](/img/user/G/assets/Galacticanticentre_image2.png)  
 
 Ami igen érdekes, hogy a galaktikus észak az a [[C/Coma Berenice csillagkép\|Coma Berenice csillagkép]] iránya lenne, amely Lewis Freemantle The Thirteenth Stone című könyvében a Szűzzel együtt olyan fontos jelentőségűnek ([[S/Szűz csillagkép#Szűz mint kezdet\|Szűz mint kezdet]] cím/alcímnél nulladik/első csillagképnek) volt meghatározva. Az [[E/Észak\|észak]] tudjuk, hogy a női istenséghez tartozik. De figurálhatott-e régen a táltosaink számára valamiféleképpen? A Sculptor azaz Szobrász csillagkép déli irányát úgy kell elképzelni, hogy a [[C/Cet csillagkép\|Cet csillagkép]] és a [[V/Vízöntő csillagkép\|Vízöntő csillagkép]] között-alatt helyezkedik el.  
 
@@ -57,8 +55,7 @@ John M. Jenkins alábbi passzusa (teljesebben) [[T/Tánc\|tánc]] és [[S/Szíri
 > Másodszor, ha az Ízisz valóban a Szíriusznak felel meg, akkor emlékeztethetünk arra, hogy a Szíriusz ugyanazt a meridiánt \[lásd még erről [[M/Mithra és a bika\|Mithra és a bika]]\] foglalja el, mint a Galaktikus Anticentrum – mindketten egyszerre haladnak át a déli meridiánon, bár a Szíriusz magassága alacsonyabb. Az én elképzelésem itt spekulatív, bár csillagászatilag nagyon is igaz. További kutatások talán világosabban megmutatják, hogy a Szíriusz hogyan lehetett a Tejútközpontból kiinduló galaktikus tengely jelölője.  
 - Erre én is gondoltam, hogy mi van, ha csak marker, azaz jelzőcsillag Szíriusz és semmi egyéb. Persze félév-határoló szerepe fontos, és ahogy több helyen aposztrofáltam: a Tejút(sáv) egy pontba (csillagba) sűrített önvalója.  
 
-![assets/Galacticanticentre_image3.png](/img/user/G/assets/Galacticanticentre_image3.png)  
-![assets/Galacticanticentre_image4.png|invert_light](/img/user/G/assets/Galacticanticentre_image4.png)  
+![assets/Galacticanticentre_image4.png|fix_light|840](/img/user/G/assets/Galacticanticentre_image4.png)![assets/Galacticanticentre_image3.png|840](/img/user/G/assets/Galacticanticentre_image3.png)  
 
 Egyébként ha nem lett volna elég egyértelmű, hogy miről van szó, Jankovics Marcell elmondja:  
 > Abban a gondolatrendszerben, mely a Tejutat a nagy istennővel azonosítja, a téli [[K/Kapu\|kapu]], a tejúthasadék az istennő ölének, szeméremnyílásának \[[[Vulva\|vulva]], [[P/Pina\|pina]], stb.\] felel meg, ahol a napisten és többi gyermeke a világra jön, \[az éggömb ennek ellentétes oldalán lévő\] **szájának pedig a nyári kapu**, ahol \[például [[N/Nut\|Nut]] a mítosz szerint\] gyermekeit elnyeli és újra foganja.  
@@ -75,25 +72,26 @@ Más forrás(ok)ból:
 > This black and white chart shows all of our featured objects and can be saved and printed out for use at the telescope. I've added the outline of Simeis 147.  
 > —  
 > A Tejútrendszer galaktikus középpontja a Nyilas irányában helyezkedik el, majd a ködös fény izzó sávja egészen az Aurigában található anticentrumig húzódik, mielőtt visszatérne a Nyilasba.  
-> ![assets/Galacticanticentre_image5.png|invert_light](/img/user/G/assets/Galacticanticentre_image5.png)  
+> ![assets/Galacticanticentre_image5.png|fix_light right|840](/img/user/G/assets/Galacticanticentre_image5.png)
 > A Föld és a Nap nagyjából kétharmadnyi távolságra van a galaxisunk középpontjától egy homályosan meghatározott peremig. A Tejútközpont felé a Nyilasban a Tejút tehát széles és sűrű, míg a másik irányban, 180 fokkal távolabb, az Anticentrum felé a Bika és az Auriga határán (lásd a mellékelt képet) a csillagok sokkal vékonyabb takaróján keresztül nézünk, ami a Tejutat halványabbá és nehezebben kivehetővé teszi.  
 > A Tejút anticentruma a Béta (β) Tauri (Elnath) csillag közelében van, amely a Bika és az Auriga közös csillaga. Amikor az anticentrum felé nézünk, tekintetünk először az Orion-sarknak nevezett keskeny spirálkaron hatol át, ahol Naprendszerünk és sok éjszakai csillag otthonra lel. Körülbelül 6000 fényévnyire innen a Tejútrendszer Perseus-karjával találkozunk, amely a következő spirálkar a galaktikus középponttól kifelé, és amely a híres Perseus kettős csillaghalmaznak ad otthont.  
 > Ez egy művészi ábrázolása annak, hogy hogyan nézne ki a galaxisunk, ha kívülről láthatnánk.  
-> ![assets/Galacticanticentre_image6.png](/img/user/G/assets/Galacticanticentre_image6.png)  
+> ![assets/Galacticanticentre_image6.png|840](/img/user/G/assets/Galacticanticentre_image6.png)  
 > A Nap a lapos korongban van, körülbelül a középponttól a széléig félúton. A spirálkarok mindegyikének megvan a saját neve, és hozzáadtam a középpont és az anticentrum helyét.  
 > A Simeis 147, más néven a Spagettiköd egy nagy, halvány szupernóva-maradvány a galaktikus anticentrum irányában.  
 > A Simeis 147 szupernóva-maradványt Sharpless 2-240 vagy Spagettiköd néven is ismerik. Ez a hidrogéngázból álló, izzó szirmokkal rendelkező nagy vörös rózsa nagyon közel, 3000 fényévnyire található a galaxis anticentrum irányához. Valódi átmérője 150 fényév, és a Földről nézve mintegy 3°-ot tesz ki.  
-> ![assets/Galacticanticentre_image7.png|invert_dark](/img/user/G/assets/Galacticanticentre_image7.png)  
+> ![assets/Galacticanticentre_image7.png|fix_dark fix_light right|840](/img/user/G/assets/Galacticanticentre_image7.png)
 > Ez a fekete-fehér térkép az összes bemutatott objektumot mutatja, és elmenthető, illetve kinyomtatható a távcsőnél való használathoz. Hozzáadtam a Simeis 147 körvonalát.  
 
 John Major Jenkins Galactic Alignment című könyvének 33. oldalán írja, hogy a kölcsönös megfeleltethetőség alapján a [[G/Göncöl\|Göncöl]] és a [[P/Pleiadok\|Plejádok]], mivel mindketten hét-hét csillagból (lásd [[H/Hét\|hét]] címnél ilyen alcímmel) állnak, más és más szerepkört egymástól átvállalhattak a Tejút-szimbolikán belül:  
-![assets/Galacticanticentre_image8.png|invert_dark](/img/user/G/assets/Galacticanticentre_image8.png)  
 > We shall see in the Old World's cosmological shift from a polar to a solar orientation, the seven stars of the Big Dipper were mapped (or conceptually relocated) to the seven stars of the Pleiades.  
 > The underlying meaning here is that the Pleiades, like the Big Dipper, are the head point of a world-centering axis, with the astronomical reference for the Pleiades, though approximate, being to the Galactic Anticenter. Obviously, the other end of this axis is rooted in the [[G/Galactic centre\|Galactic centre]].  
 > —  
 > Látni fogjuk, hogy az Óvilág kozmológiai eltolódása során a sarki tájolásról a szolárisra való áttérés során a Nagy Medve hét csillagát a Plejádok hét csillagához képezték le (vagy helyezték át fogalmilag).  
 > A mögöttes jelentés itt az, hogy a Plejádok, akárcsak a Nagy Medve, egy világközpontú tengely főpontja, a Plejádok csillagászati vonatkozása pedig, bár közelítőleg, a Galaktikus Anticentrumra vonatkozik. Nyilvánvaló, hogy ennek a tengelynek a másik vége a [[G/Galactic centre\|Tejútközpont]]ban gyökerezik.  
 - Jenkins, ahogy látjuk, viszont nem köldököt említ, hanem a világtengely fejére utal.
+
+![assets/Galacticanticentre_image8.png|fix_dark fix_light|840](/img/user/G/assets/Galacticanticentre_image8.png)  
 
 > By way of the ballcourt's solstitial alignment with the Milky Way, which is nevertheless a north-south alignment, the north-south axis of Chichen is conflated with polar north and Galactic Center south. While the Pole Star hovers some 20° above the northern horizon, the nuclear bulge of the Galactic Center can be seen to pass through the southern meridian at twice that height-thus again the north-south dialogue between polar and galactic centers. Although on one level an opposition between the Galactic Center and the northern polar region can be viewed (as just described), a primary axial opposition between the Galactic Center and the Pleiades also exists.  
 > —  
@@ -108,7 +106,7 @@ John M. Jenkins Galactic Alignment című könyvében írja a Tejút-jelkép [[K
 > —  
 > A maja kozmológiával kapcsolatos kutatásaim során felfedeztem, hogy sok hagyományos kultúrában a Plejádok és a Skorpió-Nyilas szembenállást látnak – gyakran egy óriási égi kígyó farkának és fejének tekintik. Ebben a felfogásban a kígyó a Tejút, mivel a Tejút az égbolt egyik oldalán közvetlenül a Plejádok mellett halad el, a másik oldalon pedig a Skorpió-Nyilason keresztül. Mivel a Tejútközpont a Nyilas közelében van, a sugallt tengely valójában egy galaktikus szintű fogalmi dél-észak tengely, amely a Nyilas melletti Tejútközponttól a Földön keresztül a Plejádok galaktikus anticentrum régiója felé fut.  
 
-![assets/Galacticanticentre_image9.png|invert_dark](/img/user/G/assets/Galacticanticentre_image9.png)  
+![assets/Galacticanticentre_image9.png|fix_dark fix_light|840](/img/user/G/assets/Galacticanticentre_image9.png)  
 
 { #250903}
 
