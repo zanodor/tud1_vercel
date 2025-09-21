@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Harkály/","title":"Harkály","created":"2023-10-21T04:51","updated":"2024-10-25T19:15"}
+{"dg-publish":true,"permalink":"/H/Harkály/","title":"Harkály","created":"2023-10-21T04:51","updated":"2025-09-21T16:33"}
 ---
 
 
@@ -8,8 +8,6 @@
 #### Péterfai János írja:
 
 > A Harkály neve a Harka méltóságnévvel rokon. Fekete-Fehér-Vörös színe szintén nagyon fontos, ez a színkombináció egykor méltóságjelvény volt. A Hőcsik neve furcsa, Hő-Napocska jelentése számomra most nem érthető. A Fakopáncs értelmét a név mutatja.  
-
-![assets/Harkály_image1.png](/img/user/H/assets/Hark%C3%A1ly_image1.png)  
 
 #### Komlóssy Zsuzsanna...
 
