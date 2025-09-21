@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Free/","title":"Free","created":"2024-04-20T13:51","updated":"2024-10-25T18:54"}
+{"dg-publish":true,"permalink":"/F/Free/","title":"Free","created":"2024-04-20T13:51","updated":"2025-09-21T12:00"}
 ---
 
 
@@ -11,7 +11,7 @@ Egy valamire való filológus észre kell vegye, hogy a [[L/Light\|light]] szó 
 
 A free a [[F/Fairy\|fairy]] azaz tündér légies, könnyed szárnyalása, képessége. A magyarban Feri nevünknek felel meg.  
 Mellékelve találjuk a szicíliai Addura (beszédes név ez is) barlangrajzát, repkedő tündérekkel.  
-![assets/Free_image1.png|invert_dark](/img/user/F/assets/Free_image1.png)  
+![assets/Free_image1.png|fix_dark fix_light|840](/img/user/F/assets/Free_image1.png)  
 
 Berzsenyi Dániel szerint a német `Friede`, fi-ir-idő, szép idő. (Persze ő mindenre szép, nagy értelmet ír, mondván ez volt őseink felfogása.)  
 
