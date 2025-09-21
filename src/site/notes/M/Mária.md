@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2025-08-27T02:47"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2025-09-21T21:36"}
 ---
 
 
@@ -19,9 +19,7 @@ A hivatalos bibliai fáma (a formai-irodalmi és közérthetőséget lebutított
 ...című könyvében írja a mellékelt kép alá:  
 > Figure 114 is taken from a mediæval woodcut, lent to me by my friend, Mr. John Newton, to whom I am indebted for the sight of, and the privilege to copy, many other figures. In it the virgin Mary is seen as the Queen of Heaven, nursing her infant, and identified with the crescent moon, the emblem of virginity. Being before the sun, she almost eclipses its light. Than this, nothing could more completely identify the Christian mother and child with Isis and Horus, Ishtar, Venus, Juno, and a host of other pagan goddesses, who have been called Queen of Heaven,' 'Queen of the Universe,' 'Mother of God,' 'Spouse of God,' the Celestial Virgin,' the 'Heavenly Peace Maker,' etc.  
 > —  
-> A 114. ábra egy középkori fametszetről származik, amelyet barátom, John Newton úr adott kölcsön, akinek köszönhetem, hogy sok más ábrát is láthattam és lemásolhattam. Ezen a képen Szűz Mária az ég királynőjeként látható, amint csecsemőjét szoptatja, és a félholddal, a szüzesség jelképével azonosítható. A Nap előtt állva szinte háttérbe szorítja annak fényét. Ennél semmi sem azonosíthatja jobban a keresztény anyát és gyermekét Ízisz és Hórusz, Isztár, Vénusz, Juno és egy sor más pogány istennővel, akiket az "Ég királynőjének", "a világegyetem királynőjének", "Isten anyjának", "Isten hitvesének", az "égi szűznek", a "mennyei béketeremtőnek" stb. neveztek.  
-> ![assets/Mária_image1.png|invert_dark](/img/user/M/assets/M%C3%A1ria_image1.png)
-
+> A 114. ábra ![assets/Mária_image1.png|fix_dark fix_light right|380](/img/user/M/assets/M%C3%A1ria_image1.png)egy középkori fametszetről származik, amelyet barátom, John Newton úr adott kölcsön, akinek köszönhetem, hogy sok más ábrát is láthattam és lemásolhattam. Ezen a képen Szűz Mária az ég királynőjeként látható, amint csecsemőjét szoptatja, és a félholddal, a szüzesség jelképével azonosítható. A Nap előtt állva szinte háttérbe szorítja annak fényét. Ennél semmi sem azonosíthatja jobban a keresztény anyát és gyermekét Ízisz és Hórusz, Isztár, Vénusz, Juno és egy sor más pogány istennővel, akiket az "Ég királynőjének", "a világegyetem királynőjének", "Isten anyjának", "Isten hitvesének", az "égi szűznek", a "mennyei béketeremtőnek" stb. neveztek.   
 #### Jankovics Marcell Jelkép-kalendárium...
 
 ...című könyvének Szent Annáról szóló fejezetében leírja ki kicsoda:  
@@ -152,10 +150,10 @@ Itt tegyük hozzá, hogy a tamil **Māri**, más nevén Mariamman és Mariaai (M
 > Mariamman egy tamil népi istennő, akinek imádata valószínűleg a pre-védikus Indiából származik. Ő a fő tamil anyaistennő, aki Tamil Nadu vidéki területein uralkodik. A poszt-védikus időszakban Mārit olyan hindu istennőkkel társították, mint [[P/Parvati\|Parvati]], Kali és Durga, valamint észak-indiai megfelelőjével, Shitaladevivel és kelet-indiai megfelelőjével, Manasával.  
 > A Mari szó (kiejtése: /maari/) sangam tamil eredetű, jelentése "eső", az Amman tamil szó pedig "anya". Az ősi tamilok úgy tisztelték őt, mint az eső és így a jólét hozóját, mivel termésük bősége nagymértékben függött a megfelelő csapadéktól. Az anyaistennő kultuszát a nőiességet tisztelő társadalom jeleként kezelik. Úgy tűnik, hogy a Sangam-korszak templomaiban, főként Maduraiban, papnői voltak az istenségnek, amely szintén túlnyomórészt istennőként jelenik meg. A Sangam-irodalomban részletes leírás található a Kurava papnő által a Palamutircholai szentélyben végzett rítusokról.  
 - A mellékelt képen jól látszik, mekkora tiszteletben részesítették. A keret egy [[I/Íj és a nyíl\|íj és a nyíl]]at formáz, magát az eget! (Ugyan egyesek lándzsát látnak benne, én nyilat, nyílvesszőt; vö. össze még a [[D/Doromb\|doromb]]bal.)  
-![assets/Mária_image2.png|invert_dark](/img/user/M/assets/M%C3%A1ria_image2.png)  
+![assets/Mária_image2.png|fix_light](/img/user/M/assets/M%C3%A1ria_image2.png)  
 
 Talán nem véletlen az sem, hogy a tamil `maram` = fa jelentésű.  
-A baszk [[M/Mari\|Mari]] szintén eső- és tenger/ég(istennő)(!), kinek férfi párjának neve [[S/Sugar\|sugar]].  
+A baszk [[M/Mari\|Mari]] szintén eső- és tenger/ég(istennő)(!), kinek férfi párjának neve [[S/Sugar\|Sugar]].  
 Robert Graves The White Goddess című könyvében említ még egy ciprusi Mari nevű (ég)istennőt.  
 [[C/Csudaszarvas\|Csudaszarvas]] címnél egy Máricsa nevű őz/démon ([[F/Fekete démon\|Fekete démon]] címnél írottak alapján égistennő, az éj istennője; az őz/szarvas a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]]; [[D/Demon\|demon]] lehet akár [[D/Dame\|dame]] eredetű (Ég Dámája/Tehene); illetve jegyezzük meg, hogy a Máricsa és a [[M/Mriga\|mriga]] nevek igen hasonlóak) jön elő.  
 
@@ -369,8 +367,7 @@ Valahol már szerepelt arról adat, hogy Mária az Ős-Éva vagy efféle hasonl�
 
 ## Mária és Johanna
 
-![assets/Mária_image4.png](/img/user/M/assets/M%C3%A1ria_image4.png)  
-Tomory Zsuzsa Istenes magyar emlékeink III. rész című Ősi Gyökér 2005/3. sz. megjelent cikkében hozza az alábbi mészkő csonttartó képét, melyre állítólag Mária és Joanna ([[J/Johanna\|Johanna]]) neveit vésték volna fel (biztosan hamisítvány: rámondás).  
+Tomory Zsuzsa Istenes ![assets/Mária_image4.png|fix_dark fix_light right|400](/img/user/M/assets/M%C3%A1ria_image4.png)  magyar emlékeink III. rész című Ősi Gyökér 2005/3. sz. megjelent cikkében hozza az alábbi mészkő csonttartó képét, melyre állítólag Mária és Joanna ([[J/Johanna\|Johanna]]) neveit vésték volna fel (biztosan hamisítvány: rámondás).  
 Felmerül a kérdés, hogy mi adja annak apropóját, hogy ezen két szereplő közösködjön? Nyilván a hivatalos fáma szerint Jézust, miután az meggyógyította, követte, szemtanúja volt Jézus feltámadásának, stb. Tehát ő is közel álló személy volt. Már a neve, Jó-Anya is sokatmondó, de az is, hogy férje a feltűnően [[K/Kutya\|kutya]] nevet viselni látszó, Heródes háztartását vezető(?) (Chuza.  
 Ez azért is érdekes, mert [[M/Miriam\|Miriam]] férje is kutya nevet visel: [[C/Caleb\|Caleb]].  
 
