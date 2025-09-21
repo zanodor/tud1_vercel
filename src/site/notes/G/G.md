@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2025-08-31T02:08"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2025-09-21T12:06"}
 ---
 
 
@@ -9,9 +9,8 @@ Immáron két sumér szót találtam, melyek elején szerepel egy feleslegesnek 
 
 Ismert még a szumer `sal` = asszony, nő (vö. a főképpen René Labat adataira támaszkodó [[D/Dudás Rudolf\|Dudás Rudolf]] közlése alapján ismert szinte azonos alakú sumér `ŠUL` = férfi, hős szóval).  
 
-Gyárfás Ágnesnek van egy több helyen említett Lugal Geme című tanulmánya, melyben szintén előjön Geme.  
-![assets/G_image1.png|invert_dark](/img/user/G/assets/G_image1.png)  
-A csatolt jelet – nyilvánvaló okokból – [[P/Pina\|pina]] címnél is szerepeltettük.  
+Gyárfás Ágnesnek ![assets/G_image1.png|fix_dark fix_light right|111](/img/user/G/assets/G_image1.png)  van egy több helyen említett Lugal Geme című tanulmánya, melyben szintén előjön Geme.  
+A csatolt L554 jelet – nyilvánvaló okokból – [[P/Pina\|pina]] címnél is szerepeltettük.  
 Záhonyi András A káld-szabír (sumer) képjelek, hangértékek rejtett üzenetei című az Ősi Gyökér 2021/1. sz. megjelent cikke alján is említi futólag.  
 
 Megjegyzés: Götz László adata szerint a [[G/Gyne\|gyne]] és [[Q/Queen\|queen]] címnél is említett sumér `GIN` = nőszemély, rabnő jelentésű (hasonló alakú).  
