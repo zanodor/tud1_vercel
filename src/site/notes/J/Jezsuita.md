@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jezsuita/","title":"Jezsuita","tags":["Englishtexttranslated"],"created":"2023-10-09T06:12","updated":"2025-06-08T18:19"}
+{"dg-publish":true,"permalink":"/J/Jezsuita/","title":"Jezsuita","tags":["Englishtexttranslated"],"created":"2023-10-09T06:12","updated":"2025-09-21T17:56"}
 ---
 
 
@@ -32,7 +32,7 @@ Az [alábbi](https://hu.wikipedia.org/wiki/Jezsuita_összeesküvés-elméletek) 
 
 
 Egy másik [előadásban](https://youtu.be/ff7V_iqpucE) Kubínyi Tamás Robert Ware fenti 1689-es esküjét nevezi meg és 1:09:00-től el is mondja (a fenti szöveget). Az alábbi szöveget is felolvassa II. Rákóczi Ferenctől (maradjon így képileg):  
-![assets/Jezsuita_image1.png|invert_light](/img/user/J/assets/Jezsuita_image1.png)  
+![assets/Jezsuita_image1.png|840](/img/user/J/assets/Jezsuita_image1.png)  
 
  
 
