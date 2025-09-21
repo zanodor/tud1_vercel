@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Indiai teremtéstörténet/","title":"Indiai teremtéstörténet","created":"2024-05-03T12:14","updated":"2025-07-12T00:30"}
+{"dg-publish":true,"permalink":"/I/Indiai teremtéstörténet/","title":"Indiai teremtéstörténet","created":"2024-05-03T12:14","updated":"2025-09-21T17:30"}
 ---
 
 
@@ -9,11 +9,10 @@ Volt már [[B/Bibliai teremtéstörténet\|bibliai teremtéstörténet]], [[I/Is
 [Ezen](web.archive.org/web/20201027100917/https://sites.google.com/site/okoriidovonal/teremtestoertenetek/indiai-teremtestoertenet) oldalon álló adatsor:  
 
 Indiai teremtéstörténet  
-![assets/Indiaiteremtestortenet_image1.jpeg](/img/user/I/assets/Indiaiteremtestortenet_image1.jpeg)  
 
 A világ teremtése  
 
-A Világéjszaka sötét, mindent elborító, mozdulatlan tengerének színén összecsavarodva nyugodott Ananta, a Végtelenség Kígyója, s rajta álomba merülve pihent Visnu, a mindenség létesítője és fenntartója, az egyetlen hatalom. Bensejében a világ egész tartalma mint nyugvó gondolat derengett, rajta kívül nem volt élet, nem mozdult semmi. Álmában egyszerre megrezdült benne a gondolat, és Visnu felébredt. Kinyitotta szemét, és látott. Abban a szempillantásban megindult a mozgás az odáig nyugvó ősanyagban. Visnu létesítő akarata kisarjadt, és köldökéből egy lótusz nőtt elő. A lótusz széttárta szirmait, és íme, a lótusz kelyhében ült Brahmá, az Egynek Teremtő Ereje.  
+A ![assets/Indiaiteremtestortenet_image1.jpeg|right|300](/img/user/I/assets/Indiaiteremtestortenet_image1.jpeg)  Világéjszaka sötét, mindent elborító, mozdulatlan tengerének színén összecsavarodva nyugodott Ananta, a Végtelenség Kígyója, s rajta álomba merülve pihent Visnu, a mindenség létesítője és fenntartója, az egyetlen hatalom. Bensejében a világ egész tartalma mint nyugvó gondolat derengett, rajta kívül nem volt élet, nem mozdult semmi. Álmában egyszerre megrezdült benne a gondolat, és Visnu felébredt. Kinyitotta szemét, és látott. Abban a szempillantásban megindult a mozgás az odáig nyugvó ősanyagban. Visnu létesítő akarata kisarjadt, és köldökéből egy lótusz nőtt elő. A lótusz széttárta szirmait, és íme, a lótusz kelyhében ült Brahmá, az Egynek Teremtő Ereje.  
 Brahmá körül akart tekinteni, de nem moccant meg. Hogy mindenfelé láthasson, négy arca keletkezett. A gyökeret azonban, amelyből létre fakadt, nem látta, s ezért azt gondolta, hogy egyedül ő van, kívüle nincsen öntudat. Csak a lótuszt látta, mely őt hordozta, s ez a lótusz a világmindenség volt. Gondolkozni kezdett: "Honnan származott ez a lótusz? Honnan jöttem én magam?" Hosszú-hosszú időkig elmélkedett e kérdéseken, míg végül a szívében, lénye legmélyén felderengett egy kép: a mindenség sötét vizén s a Végtelenség Kígyóján nyugvó Egynek, a Világ Gyökerének a képe. Hódolva fordult hozzá.  
 
 Mi az én teendőm?  
