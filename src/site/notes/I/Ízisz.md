@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated"],"created":"2023-11-15T04:40","updated":"2025-06-08T00:59"}
+{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated"],"created":"2023-11-15T04:40","updated":"2025-09-21T17:55"}
 ---
 
 
@@ -22,8 +22,7 @@ Lásd még témát lejjebb.
 > Izisz szent állata a [[T/Tehén\|tehén]] volt, aki azonosult [[N/Neith\|Neith]] istennővel és Holdistennőként is tisztelték, ugyanúgy mint a görögöknél [[A/Artemisz\|Artemisz]]t. Neit istennő üszőtehénnel, Artemisz pedig üsző-szarvastehénnel is jelképeztetett, a rómaiaknál pedig, amint láttuk, tehénszarvakkal. Igaz ugyan, hogy némely ábrázolaton Artemisz szarvasát bár nősténynek de mégis szarvakkal ábrázolták, holott a mai közönséges szarvastehén szarvatlan. Ez azonban onnan ered, hogy az ős-óriásszarvasoknak nősténye is bírt szarvakkal, bírt ugyanúgy mint a mai iramszarvasok nősténye is, és egyébként a közönséges tehén is. Ismeretes azonban, hogy Izisz istennő elgörögösített neve s hogy e név a görögök egyiptomi uralma előtti időkben csak Izi, Ézi és Sziszi alakú volt. (Movers F. "Die Phönizíer". és Creuzer Friedrích dr.: "Symbolik u. Mythologie". Leipzíg u. Darmstadt 1821.,9. old.). Márpedig mi más e három név, mint a mi [[U/Üsző\|üsző]] és [[S/Szűz\|szűz]] szavaink? Hogy pedig a szüzesség a szerelemmel kapcsolatban az édességgel is összefügg, ezt magyaráznunk nem kell, elég ha fölemlítem, hogy németül ma is `süss` (züsz) = édes.  
 - No igen, minél több névalak ismert, annál könnyebb a magyar alapfogalmat kitalálni; az Ízisz névből akár nyílra is asszociálhatnánk, [[I/Issue\|issue]] címnél álló adatok alapján is.
 
-#### Magyar Adorján másutt írja:
-
+Magyar Adorján másutt írja:  
 > Izisz és [[S/Szemirámisz\|Szemirámisz]] egymássali azonosságát már a tudósok is megállapították, mi pedig meg kell állapítsuk hogy Szemiramisz is azonos a mi [[T/Tündér Ilona\|Tündér Iloná]]nkkal.  
 
 #### Jankovics Marcell A fa mitológiája...
@@ -32,7 +31,7 @@ Lásd még témát lejjebb.
 > A [[G/Galactic centre\|tejúthasadék]] egy sötét lyuk az égen, amit a Tejút két ága ölel körül: a régiek ezt tekintették a nagy istennő [[V/Vulva\|vulvá]]jának. Az égi szikomorfa ([[N/Nut\|Nut]]) hasítéka, amiből Ré napisten a világra jön, a tejúthasadék. Ide repül a [[H/Hattyú csillagkép\|Hattyú csillagkép]] – a mítoszban Zeusz –, hogy a Tejútistennőt megtermékenyítse, ide hatol be a Kígyó csillagkép farka, amikor Eurünoméval, a mindenség úrnőjével a világot "hozza össze" (a hattyúnyak, kígyófarok ősi phallikus jelképek). A Skorpiót az asztrológia a nemi szervek és a végbélnyílás állatjelképének tartja, sok afrikai nép pedig az állatban egyenesen a női nemi szerv megtestesítőjét látja; mérges fullánkját – az égen a Skorpió veres Antares csillagát – a clitorisszal azonosítja.  
 > [[N/Nut\|Nut]] és [[G/Geb\|Geb]] két gyermeke, Ozirisz (az [[O/Orion\|Orion]] csillagkép) és Ízisz (a [[S/Szíriusz\|Szíriusz]] csillag) a Tejúton látható egymás mellett, s kettősük jelezte az egyiptomi év elejét és végét (114. kép).  
 > Az egyiptomiak kereken 365 napos évvel számoltak, ebből az utolsó 5 nap külön figyelemben részesült, mivel [[N/Nut\|Nut]] és [[G/Geb\|Geb]] másik két gyermeke, valamint Hórusz, Ozirisz és Ízisz fia is ekkor született. A Szíriusz csillag évenkénti eltűnését (terhességét Hórusszal, azaz együttállását a Nappal) követő újbóli megjelenése (heliakus felkelése) elvben az új év kezdetét és a Nílus áradását jelentette. (Csak azért elvben, mert az egyiptomi év egy negyed nappal rövidebb lévén a valóságosnál, az újév napja 4 évenként 1 teljes nappal eltolódott a Szíriusz felkeléséhez és az áradás kezdetéhez képest.)  
-> ![assets/Ízisz_image1.png|invert_dark](/img/user/I/assets/%C3%8Dzisz_image1.png)  
+> ![assets/Ízisz_image1.png|fix_dark fix_light|840](/img/user/I/assets/%C3%8Dzisz_image1.png)  
 - Íziszről és Ozirisz phalloszáról lásd lejjebb.
 
 A Wikipédia anyaga elé helyezett Edward P. Butler anyagát kell majd idevenni (és persze majd Gerald Massey Ancient Egypt és más című könyvének és Wallis Budge munkájának adatai is jöhetnek). 
@@ -48,9 +47,8 @@ A Szimbólumtár adatsora:
 #### Thomas Inman Ancient Pagan and Modern Christian Symbolism...  
 
 ...című könyvében szereplő adata szerint a [[H/Harang\|harang]] régtől fogva a [[S/Szűz\|szűz]]esség jelképe. A mellékelt képen (igaz, furcsa 6+8-as elosztásban) szerepel a szűzen(?) szülő Ízisz ábrázoláson is.  
-![assets/Ízisz_image2.png](/img/user/I/assets/%C3%8Dzisz_image2.png)  
 Amit Inman ír:  
-> The bell was of old a symbol of virginity, for Eastern maidens wore them until marriage (see Isa. iii. 16). The origin of this custom was the desire that every maiden should have at her marriage, or sale, that which is spoken of in the Pentateuch as "the token of virginity." It was supposed that this membrane, technically called "the hymen," might be broken by too long a stride in walking or running, or by clambering over a stile or wall. To prevent such a catastrophe, a light chain or cord was worn, under or over the dress, at the level of the knees of just above. Its length only permitted a short step and a mincing gait.  
+> The ![assets/Ízisz_image2.png|right|300](/img/user/I/assets/%C3%8Dzisz_image2.png)bell was of old a symbol of virginity, for Eastern maidens wore them until marriage (see Isa. iii. 16). The origin of this custom was the desire that every maiden should have at her marriage, or sale, that which is spoken of in the Pentateuch as "the token of virginity." It was supposed that this membrane, technically called "the hymen," might be broken by too long a stride in walking or running, or by clambering over a stile or wall. To prevent such a catastrophe, a light chain or cord was worn, under or over the dress, at the level of the knees of just above. Its length only permitted a short step and a mincing gait.  
 > Slight bells were used as a sort of ornament, and when the bearer was walking their tinkling was a sort of proclamation that the lady who bore them was in the market as a virgin. After "the flower" had been plucked, the bells were no longer of use. They were analogous to the virgin snood worn on the head of Scotch maidens.  
 > —  
 > A harang régen a szüzesség jelképe volt, mert a keleti leányok a házasságig viselték (lásd Ézs. iii. 16). E szokás eredete az a vágy volt, hogy minden leánynak a házasságkötéskor vagy eladáskor legyen nála az, amiről a Pentateuch úgy beszél, mint "a szüzesség jeléről". Feltételezték, hogy ez a hártya, amelyet szaknyelven "szűzhártyának" neveznek, elszakadhat a túl hosszú járás vagy futás, vagy egy lépcsőfokon vagy falon való átmászás következtében. Az ilyen katasztrófa megelőzése érdekében a ruha alatt vagy fölött, a térd magasságában vagy éppen fölötte egy könnyű láncot vagy zsinórt viseltek. Hossza csak rövid lépést és szapora járást tett lehetővé.  
@@ -75,13 +73,12 @@ De kezdjük a hivatalos adatokkal. Isis Wiki oldalán szólnak a név eredete ka
 > —  
 > Nevének hieroglifikus írása magában foglalja a trón jelét, amelyet Ízisz szintén a fején visel identitásának jeleként. A szimbólum fonogramként szolgál, a névben szereplő st hangokat írja le, de az is lehet, hogy a tényleges trónokkal való kapcsolatot is jelentette. A trónt jelölő egyiptomi kifejezés szintén st volt, és talán közös etimológiája volt Isis nevével. Ezért Kurt Sethe egyiptológus azt javasolta, hogy eredetileg a trónok megszemélyesítője volt. Henri Frankfort egyetértett ezzel, és úgy vélte, hogy a trónt a király anyjának, és így istennőnek tekintették, mivel hatalma révén a férfit királlyá tehette. Más tudósok, például Jürgen Osing és Klaus P. Kuhlmann vitatták ezt az értelmezést, mivel Isis neve és a trónt jelölő szó között eltérések vannak, illetve nincs bizonyíték arra, hogy a trónt valaha is istenítették volna.  
 
-![assets/Ízisz_image3.jpeg](/img/user/I/assets/%C3%8Dzisz_image3.jpeg)  
 [Ezen](https://isiopolis.com/2013/12/14/what-is-isis-connection-with-the-throne/) oldalon:  
-> **Iset** or **Aset** is an Ancient Egyptian name, meaning "(She) of the throne". It was the name of the goddess better known by her Greek name Isis.  
+> **Iset** ![assets/Ízisz_image3.jpeg|fix_dark fix_light right|103](/img/user/I/assets/%C3%8Dzisz_image3.jpeg)or **Aset** is an Ancient Egyptian name, meaning "(She) of the throne". It was the name of the goddess better known by her Greek name Isis.  
 > —  
-> **Iset** vagy **Aset** óegyiptomi név, jelentése "(Ő) a trónról". Ez volt az istennő neve, akit jobban ismertek görög Ízisz nevén.  
+> **Iset** vagy **Aset** óegyiptomi név, jelentése "(Ő) a trónon". Ez volt az istennő neve, akit jobban ismertek görög Ízisz nevén.  
 
-![assets/Ízisz_image4.jpeg](/img/user/I/assets/%C3%8Dzisz_image4.jpeg)  
+![assets/Ízisz_image4.jpeg|840](/img/user/I/assets/%C3%8Dzisz_image4.jpeg)  
 Azaz Ízisz hieroglif és egyéb ábrázolásában is megjelenik a szék, trónus, melyről tudjuk, hogy az Isten égi széke.  
 [[T/Throne\|Throne]] és [[S/SZÉK\|SZÉK]], valamint [[O/Öregisten\|Öregisten]], [[S/Sarkcsillag\|Sarkcsillag]] és több más címnél volt szó a témáról.  
 Ami tehát egyszer megjelenik [[C/Centre\|centre]]-ként Szíriuszban, másutt a Sarkcsillagban, [[A/Anu\|Anu]] égi lakhelyében.  
@@ -91,17 +88,15 @@ Ami tehát egyszer megjelenik [[C/Centre\|centre]]-ként Szíriuszban, másutt a
 #### J. E. Cirlot A Dictionary of Symbols....  
 
 ...című könyvében a [[S/Szarvas\|szarvas]] címnél Badiny Jós Ferenc által említett As, Az kapcsán írja:  
-> A szarvakat régente szentséges szimbólumnak tekintették. Az egyiptomi hieroglif írásban a szarvnak több elvont jelentéstartalma volt. Az egyik, úgy mond, az amely "a fej fölött van", (a Nap, az ég, a csillagok... stb.) Ebből adódik egy másik értelem: az önnön felsőbb tudatunkhoz vezető "útnak a kitárása/megnyitása". De ugyanakkor emelkedettséget, magasztosságot, tekintélyt és dicsőséget is jelentett. Míg Mezopotámiában, a szarv közé helyezett tűz láng, csillag jel együttes, az egykori Paradicsomot jelképezte.  
+> A szarvakat ![assets/Ízisz_image5.jpeg|right|83](/img/user/I/assets/%C3%8Dzisz_image5.jpeg)régente szentséges szimbólumnak tekintették. Az egyiptomi hieroglif írásban a szarvnak több elvont jelentéstartalma volt. Az egyik, úgy mond, az amely "a fej fölött van", (a Nap, az ég, a csillagok... stb.) Ebből adódik egy másik értelem: az önnön felsőbb tudatunkhoz vezető "útnak a kitárása/megnyitása". De ugyanakkor emelkedettséget, magasztosságot, tekintélyt és dicsőséget is jelentett. Míg Mezopotámiában, a szarv közé helyezett tűz láng, csillag jel együttes, az egykori Paradicsomot jelképezte.  
 
-![assets/Ízisz_image5.jpeg](/img/user/I/assets/%C3%8Dzisz_image5.jpeg)  
-![assets/Ízisz_image6.jpeg|invert_dark](/img/user/I/assets/%C3%8Dzisz_image6.jpeg)  
 #### Greg Rigby The God Secret...  
 
-...című könyvének 93. oldalán az Íziszt és Ízisz-Hathort ábrázoló képeken is helyesen a szarvak által körülhatárolásban [[K/Kehely\|kehely]]t vesz észre (előbb azt gondoltam, hogy bennük a Nap kétszer is szerepel; a szarvak közt és a [[H/Hórusz\|Hórusz]]ként a karjában tartva, de a fentiek alapján mégsem; [[C/Csudaszarvas\|Csudaszarvas]] címnél homlokról is volt szó, azaz ezen képzetek Egyiptomban már egyszerűsítettek illetve rénszarvasuk sem volt; alternatív esetekről (gyakori homlokon való megjelenésről és egyebekről) lásd [[C/Csudaszarvas#Napot agancsai között hordó Csudaszarvas – mi van a Csudaszarvas homlokán\|Napot agancsai között hordó Csudaszarvas – mi van a Csudaszarvas homlokán]] cím/alcímet egy összefoglaló anyaggal). A kehely a [[M/Mozsár\|mozsár]]hoz hasonlóan méhjelkép, azaz a méh és szarvak összefüggését itt is megtaláljuk, ahogy [[S/Szarv\|szarv]] címhez betéve is írtuk.  
+...című ![assets/Ízisz_image6.jpeg|fix_dark fix_light right|300](/img/user/I/assets/%C3%8Dzisz_image6.jpeg)  könyvének 93. oldalán az Íziszt és Ízisz-Hathort ábrázoló képeken is helyesen a szarvak által körülhatárolásban [[K/Kehely\|kehely]]t vesz észre (előbb azt gondoltam, hogy bennük a Nap kétszer is szerepel; a szarvak közt és a [[H/Hórusz\|Hórusz]]ként a karjában tartva, de a fentiek alapján mégsem; [[C/Csudaszarvas\|Csudaszarvas]] címnél homlokról is volt szó, azaz ezen képzetek Egyiptomban már egyszerűsítettek illetve rénszarvasuk sem volt; alternatív esetekről (gyakori homlokon való megjelenésről és egyebekről) lásd [[C/Csudaszarvas#Napot agancsai között hordó Csudaszarvas – mi van a Csudaszarvas homlokán\|Napot agancsai között hordó Csudaszarvas – mi van a Csudaszarvas homlokán]] cím/alcímet egy összefoglaló anyaggal). A kehely a [[M/Mozsár\|mozsár]]hoz hasonlóan méhjelkép, azaz a méh és szarvak összefüggését itt is megtaláljuk, ahogy [[S/Szarv\|szarv]] címhez betéve is írtuk.  
 Rigby hasonló megfogalmazással él, ahogy én szoktam Nap az Orionban-nal:  
 > Between these two protrusions is an orb, conventionally believed to represent the sun. As throne, horns and cup are all aspects of Ursa Major, the head-dress could therefore suggest 'the sun in Ursa Major'.  
 > —  
-> E két kiemelkedés között egy gömb van, amelyről úgy tartják, hogy a Napot jelképezi. Mivel a trón, a szarvak és a kehely mind az [[U/Ursa Maior\|Ursa Maior]] aspektusai, a fejdísz ezért utalhat a "Nap az Ursa Majorban" jelképre.  
+> E két kiemelkedés között egy gömb van, amelyről úgy tartják, hogy a Napot jelképezi. Mivel a trón, a szarvak és a kehely mind az [[U/Ursa Maior\|Ursa Maior]] aspektusai, a fejdísz ezért utalhat a "Nap a Nagy Medvében" jelképre.  
 
 Az igazsághoz hozzátartozik, hogy – ahogy [[O/Ozirisz és Széth\|Ozirisz és Széth]] címnél láttuk – Ozirisz nevének hieroglif jelei közül az első szintén trónus, melyhez az usz \[ws\] hangérték járult, ez pedig szinte teljesen megegyezik az Asz/Esz/Íz hangértékkel.  
 
@@ -112,9 +107,8 @@ Ami még a [[S/SZÉK\|SZÉK]] és [[S/Seat\|seat]] szavakat illeti, mindkettő c
 
 ## Ízisz Íj csillagképre utaló ábrázolásai
 
-A Szíriusz az [[I/Íj csillagkép\|Íj csillagkép]] alkotója. Istár kapcsán is szóba jött a Ban ([[M/Mul.Pan\|Mul.Ban]]) csillagkép.  
-![assets/Ízisz_image7.jpeg|invert_dark](/img/user/I/assets/%C3%8Dzisz_image7.jpeg)  
-Ezek után nem meglepő, hogy Greg Rigby The God Secret című könyvének 91. oldalán nyílvesszős ábrázolásokat találunk hieroglif jelében (melyeket GR és forrása helytelenül hajnalra utaló napsugár-motívumnak tart) (ezen jeleket sehol sem találtam a neten; azért kerestem, mert nem írja ki, hogy Goddess alatt Íziszt vagy esetleges a korábbi passzusban szintén szóba hozott [[N/Nephthys\|Nephthys]]t érti alatta).  
+A Szíriusz az [[I/Íj csillagkép\|Íj csillagkép]] alkotója. Istár kapcsán is szóba jött a Ban csillagkép ([[M/Mul.Pan\|Mul.Ban]]).  
+Ezek ![assets/Ízisz_image7.jpeg|fix_dark fix_light right|300](/img/user/I/assets/%C3%8Dzisz_image7.jpeg)  után nem meglepő, hogy Greg Rigby The God Secret című könyvének 91. oldalán nyílvesszős ábrázolásokat találunk hieroglif jelében (melyeket GR és forrása helytelenül hajnalra utaló napsugár-motívumnak tart) (ezen jeleket sehol sem találtam a neten; azért kerestem, mert nem írja ki, hogy Goddess alatt Íziszt vagy esetleges a korábbi passzusban szintén szóba hozott [[N/Nephthys\|Nephthys]]t érti alatta).  
   
 
 ## Ízisz és Hórusz
@@ -137,15 +131,15 @@ Bakos Attila A Duna Evangéliuma című könyvének 262. oldalán ír róluk, ar
 ### Ízisz és Ozirisz phallosza és általa való megtermékenyítése
 
 Két ízben találkozhatunk Ozirisz phallosszával Ízisz történetében. Először még a Széth általi feldarabolás előtt, majd után.  
-![assets/Ízisz_image8.png](/img/user/I/assets/%C3%8Dzisz_image8.png)  
+![assets/Ízisz_image8.png|840](/img/user/I/assets/%C3%8Dzisz_image8.png)  
 Falvay Károly Nagyboldogasszony című könyvének 277-278. oldalán az egész történetet elmeséli. Az előzményt ismerjük: Széth koporsóba fekteti Oziriszt, a Nílusra ereszti, majd Ízisz megtalálja. \[...\] Itt a történetek több változatot is ismernek. Egyik változatban, amikor az oszlopot fecskeként körülrepkedte, már akkor elképzelte magának az Ozirisztól születű fiát Hóruszt. Más változatban sasként a fekvő Ozirisz fölé repült, s az élő magjával megtermékenyítette őt stb. Ez utóbbi jelenetet számos domborművön megörökítették. (A madáristennők a korai neolitikumból még sokáig élők maradtak, [[E/Emese\|Emese]] és a Turul történetét mindannyian ismerjük).  
 Isis itt a Nílus deltájának ingoványaiban elrejtette a koporsót mert Butóba kellett menjen, hogy fiát Hóruszt megszülhesse.  
 Ugyanebben az időben Séth a telihold fényében vadászaton volt. Vaddisznókra vadászott. A telihold fényében ráakadt a nádak között Ozirisz koporsójára. 14 darabra törte szét Ozirisz testét és szétszórta őket az egész Felső-, és Alsó-Egyiptomban. Mindeniket különböző helyen. Ozirisz phalloszát pedig bedobta a Nílusba. \[Magyarán azt is levágta: ezért a 14 és nem 13 darab.\] \[Ezen téma lehetséges téridőbeli jelentősége miatt bekerült [[S/Szűz csillagkép\|Szűz csillagkép]] címhez, külön egyiptomi vadkanos alcím alá.\]  
 Amikor Isis ezt megtudta, újra kutatni kezdett férje után, vitorlázva a nádból készült hajóval, a mocsarakon keresztül. Ekkor [[N/Nephthys\|Nephthys]], a gonosz Séth felesége segítette őt, ugyanígy Anubisz, a félelmetes, aki sakálfejű volt. A sólyomfejű kis Hórusz már elég idős volt, hogy szintén segítsen neki. Ezek Thothhoz, a Holdistenhez csatlakoztak, akinek íbiszfeje volt és tudott majomfejű \[páviánistenként neve [[A/Astennu\|Astennu]]\] is lenni. Ezek együtt összeszedték Oziris minden darabját, kivéve a phalloszát, mert azt, amikor Séth bedobta a Nílusba egy hal bekapta. \[A [[H/HAL\|hal]] női és férfi szemérem szimbólum is, de itt nem ez a lényeg; lásd lejjebb.\]  
 Isis a megtalált Oziris testének egy darabját a szertartás követelményeinek megfelelően eltemette. Elkészítette a phallosz másolatát is és nagy szertartással beszentelve, a helyére tette. Mindennek a törvényes szertartásos folyamatát Anubisz a balzsamozó pap szerepkörében el tudta végezni, mert összeállította azokat, mint egy múmiát, átváltoztató mágiával szorosan bepólyázva, vászon szalagokba. Ekkor Oziris kezdett feléledni az Örökkévalóság, az Örök Időtlenség szereplőjének.  
 
-Egy másik hasonló jellegű kép Bakos Attila A Duna Evangéliuma című könyvének 266. oldalán jött elő (én itt már egy jobb minőségű képet közlök).  
-![assets/Ízisz_image9.jpeg|invert_light](/img/user/I/assets/%C3%8Dzisz_image9.jpeg)  
+Egy másik hasonló jellegű kép Bakos Attila A Duna Evangéliuma című könyvének 266. oldalán jött elő.  
+![assets/Ízisz_image9.jpeg|fix_light|840](/img/user/I/assets/%C3%8Dzisz_image9.jpeg)  
 A képaláírás szerint a haldokló...  
 - Ugye a nyári napfordulós téridőbeli pont a haldoklás kezdetének helye és a hatalomátadás helye, egyúttal a nemzés ([[K/Kutyanemzés\|kutyanemzés]]) helye.  
 
@@ -195,4 +189,4 @@ A mindenütt a Nagy Medve csillagképet kereső Greg Rigby The God Secret című
 Robert Bauval írja:  
 That the Osirian year originally consisted of thirteen twenty-eight day months, with one day over, is suggested by the legendary length of Osiris's reign, namely twenty-eight years-years in mythology often stand for days, and days for years-and by the number of pieces into which he was torn by Set, namely thirteen apart from his phallus which stood for the extra day. When Isis reassembled the pieces, the phallus had disappeared, eaten by a letos-fish. This accounts for the priestly fish-taboo in Egypt, relaxed only one day in the year.  
 —  
-Azt, hogy az Ozirisz-év eredetileg tizenhárom huszonnyolc napos hónapból állt, egy nappal többel, Ozirisz uralkodásának legendás hossza sugallja, nevezetesen huszonnyolc év - a mitológiában az évek gyakran napokat, a napok pedig éveket jelentenek -, valamint az, hogy hány darabra tépte őt Szet, nevezetesen tizenháromra, eltekintve a falloszától, amely a plusz napot jelentette. Amikor Ízisz újra összerakta a darabokat, a fallosz eltűnt, egy letosz-hal ette meg. Ez magyarázza az egyiptomi papi hal-tabut, amely csak egy napot pihent az évben.  
+Azt, hogy az Ozirisz-év eredetileg tizenhárom huszonnyolc napos hónapból állt, egy nappal többel, Ozirisz uralkodásának legendás hossza sugallja, nevezetesen huszonnyolc év – a mitológiában az évek gyakran napokat, a napok pedig éveket jelentenek –, valamint az, hogy hány darabra tépte őt Szet, nevezetesen tizenháromra, eltekintve a falloszától, amely a plusz napot jelentette. Amikor Ízisz újra összerakta a darabokat, a fallosz eltűnt, egy letosz-hal ette meg. Ez magyarázza az egyiptomi papi hal-tabut, amely csak egy napot pihent az évben.  
