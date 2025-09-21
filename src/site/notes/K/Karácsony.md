@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Karácsony/","title":"Karácsony","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2025-08-31T02:08"}
+{"dg-publish":true,"permalink":"/K/Karácsony/","title":"Karácsony","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2025-09-21T18:08"}
 ---
 
 
@@ -95,11 +95,11 @@ A magyarok legfontosabb ünnepe lévén nem csoda, hogy a szóból ilyen-olyan �
 
 Dobos Csanád interneten megosztott Miért december 25 karácsony napja című cikkében azt feszegeti, hogy karácsony nem a szoláris évhez, hanem a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelésé]]hez kapcsolandó – ezen okfejtése szerint egyiptomi – eredete:  
 > 11515 körül (+/-100 év) a planetárium program szerint a Szíriusz eléri az legszélső naptári dátumát, és mindezt december 25-én. Meglepő módon ezt követően immár többet nem tapasztalható a Nappal együttes hajnali "színre lépése" több, mint öt ezer évig!  
-> ![assets/Karácsony_image1.png|invert_dark](/img/user/K/assets/Kar%C3%A1csony_image1.png)
+> ![assets/Karácsony_image1.png|fix_dark fix_light|840](/img/user/K/assets/Kar%C3%A1csony_image1.png)
 
 Ezzel a levezetésével "csak" annyi a baj, hogy [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelése]] címnél felfedtük, hogy a Szíriusznak nem lenne szabad vándorolnia, ergo a planetárium szoftverek is olyan NASA-féle adatokat használnak, mely a téves [[P/Precesszió\|precesszió]]-jelenségre építenek (szándékosan, vagy sem, most mindegy: lásd erről még [[T/Tavaszpont\|tavaszpont]] és [[Z/Zodiac\|zodiac]]).  
 Az kétségtelen viszont, hogy január 1-4 környékén a Föld perihelion pontjához jut.  
-![assets/Karácsony_image2.png|invert_dark](/img/user/K/assets/Kar%C3%A1csony_image2.png)  
+![assets/Karácsony_image2.png|fix_light](/img/user/K/assets/Kar%C3%A1csony_image2.png)  
 [[J/Johan Oldenkamp\|Johan Oldenkamp]], más úton, hasonló eredményre jut:  
 > After being dead for three days, on December 25th, the Messiah \[the Sun\] rises up from the dead and starts to move higher in the sky every following day (up until the summer solstice). By drawing a straight line from the three stars (also known as the Three Kings) in the Belt of Orion through the star Sirius (which the Kings followed), the crossing of that line with the horizon marked exactly the location of the rising Helios (or (re-) birth of Christ) on December 25th. The biblical version is just a personalized version of this celestial dynamics.  
 > —  
@@ -166,7 +166,7 @@ Az [alábbi](https://youtu.be/4S66tL5ZKKI) Matek Kamill előadásban 33:40-nél 
 
 A csony képzőt és jelentőségét Forray Sándortól kölcsönzi okfejtésébe de nem magyarázza meg megfelelően (hogyan is passzolna a KA és RÁ után hogy egy teljes kép rajzolódjon ki, bár egy diagramot közöl de nem tartom érdemesnek idevenni).  
 
-![assets/Karácsony_image5.png](/img/user/K/assets/Kar%C3%A1csony_image5.png)  
+![assets/Karácsony_image5.png|840](/img/user/K/assets/Kar%C3%A1csony_image5.png)  
 Lásd még Grandpierre Atillától való infót [[K/Karácsonyfa\|karácsonyfa]] és "babiloni karácsony" [[S/Sakaea\|sakaea]].  
 Közben letöltésre elérhetővé vált [Grandpierre Atilla Karácsony eredete és jelentősége](https://mega.nz/file/pzNzhKJB#KXz_bvQtrp_QYzmqFqWwIpf4TSn31z4Fn4bUVLJ8jpA) című dolgozata, mely a kiadott könyvének bizonyos fejezeteiből készült kivonat. Érdekessége, hogy sorra taglalja különböző kultúrák K-R vázú mitológiai neveit. A mellékelt képek és egyéb infók az [alábbi](https://youtu.be/CZwvyvBjM3o) előadásából valók. (Ami onnan [[K/Karácsonyfa\|karácsonyfá]]ról szól, oda téve.)  
 15:37-nél az előadásban Pap Gábortól idéz[^12], mi látható a csillagos égen karácsonykor éjfélkor[^13]. Sajnos az általam majd könyvemben kifejtendő lényeget Pap Gábor és Grandpierre Atilla sem látja át. Csak arról szólnak, hogy Nimród[^14] és fiai, [[H/Hunor és Magor\|Hunor és Magor]] (az Ikrekben) láthatók ilyenkor[^15], amint "Nimród átadja helyét utódainak." (Illetve azóta Pap Gábor Ne Legyen Áldozatos videóinak feldolgozása [[B/Betlehem\|Betlehem]], [[S/Szamár\|szamár]], [[J/Jászol\|jászol]], [[M/Manger\|manger]], [[P/Precesszió\|precesszió]] és [[O/Ökör\|ökör]] címnél megtörtént és azok fontos adatok. Lásd még [[Z/Zenith\|zenit]], melyről [[K/Karácsonyfa\|karácsonyfa]] címnél is lesz szó.)  
@@ -176,7 +176,7 @@ Különösen még a [[M/Metsz\|metsz]]/[[M/MES\|MES]] címnél taglalt égtér f
 [[S/Sylph\|Sylph]] címnél a [[C/Cölöp\|cölöp]] téma kapcsán írtam:  
 Itt még nem zárnám ki azt sem, hogy a Kal-Eb Nagy Kutya (arab [[K/Kalb\|kalb]]) névnek szatemes változata is létezhetett és mivel a kutyát fel is négyelték, a [[K/Kereszt\|kereszt]] fogalmát is lehet így keresni. A kereszt = áldozati fa = Tejútfa (az Élet és Halál fája, mely [[K/Karácsony\|Karácsony]] címnél taglaltak szerint akkor függőleges!) összefüggésén keresztül lehetséges, hogy fa jelentésű szót is találunk valamelyik nyelvben, illetve a [[C/Cölöp\|cölöp]] címnél taglalt `sylph` = falakó tündér szóalakját és értelmét is így értjük meg.  
 
-![assets/Karácsony_image6.png|invert_dark](/img/user/K/assets/Kar%C3%A1csony_image6.png)  
+![assets/Karácsony_image6.png|fix_dark fix_light|840](/img/user/K/assets/Kar%C3%A1csony_image6.png)  
 Alul látszik még a Dr. Gyárfás Ágnes által hangsúlyosnak tartott [[E/Egyszarvú csillagkép\|Egyszarvú csillagkép]], mely címnél is szerepelt a másik mellékelt kép, Grandpierre Atilla alábbi[^17] weboldaláról.  
 A harmadik képhez tartozó szöveg (amellett, hogy Grandpierre Atilla is beszél hozzá az előadásban) Szántai Lajostól is részint megvolt [[S/Szekeres csillagkép\|Szekeres csillagkép]] címnél. Ekkor van az az idő, amikor az isteni energiák a Tejút függőleges oszlopán érkeznek le hozzánk.  
 Ha már képekről van szó, [[H/Háromkirályok\|Háromkirályok]] címnél is szerepel egy; szintén Jézus születési időpontja kapcsán érdekes.  
