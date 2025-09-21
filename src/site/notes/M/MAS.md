@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2025-09-11T16:57"}
+{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2025-09-21T22:02"}
 ---
 
 
@@ -32,11 +32,9 @@ MAS tehát lehet [[M/Más\|más]]\(a valaminek, hasonmása, kiköpött mása) é
 
 Szintén a [[S/Sumér zodiákus\|sumér zodiákus]]beli (Baknak megfelelő Bakhal jegyet jelentő) [[S/Suhurmasku\|Suhurmasku]] címnél is szerepelt, hogy a (vitatható adatokat is szolgáltató) [[D/Dudás Rudolf\|Dudás Rudolf]] szerint a kecske szó értelme a Körös-kultúra idejében `MÁS`-nak hangzott (Labat 76), a kecskebak pedig `MÁS-NITA` volt. (Forrásának hitelességét illetőleg nem nyilatkozhatok, de birka jelentést is tulajdonítottak neki Gavin White könyvének adata szerint. [[M/Mastabbagalgal\|Mastabbagalgal]] címnél is szó lesz arról, hogy a hal jelentés hogy jöhetett a képbe. Ami az M-SZ vázú kecske és őz jelentésű szavakat illeti, csokorba összeszedve lásd [[M/MISZ\|MISZ]] címnél.)  
 
-Csatolva lásd MAS piktogramját, ami, meglepő (vagy a [[M/MISZ\|MISZ]] címnél szereplő diagramba építhetősége miatt és [[S/Szarvas\|szarvas]] és a kecske témában is taglalt [[M/Magor\|Magor]] címnél írottak alapján nem is oly meglepő) módon egy [[K/Kereszt\|kereszt]]et formáz.  
-![assets/MAS_image1.png|invert_dark](/img/user/M/assets/MAS_image1.png)  
+Csatolva lásd MAS piktogramját, ami, meglepő ![assets/MAS_image1.png|fix_dark fix_light right|50](/img/user/M/assets/MAS_image1.png)  (vagy a [[M/MISZ\|MISZ]] címnél szereplő diagramba építhetősége miatt és [[S/Szarvas\|szarvas]] és a kecske témában is taglalt [[M/Magor\|Magor]] címnél írottak alapján nem is oly meglepő) módon egy [[K/Kereszt\|kereszt]]et formáz.  
 
-[[S/Suhurmasku\|Suhurmasku]] címnél MAS₂ piktogramja egy élére állított \[[[Négyszögletes Föld\|négyszögletes Föld]]re utaló, [[S/Szakrális geometria\|szakrális geometria]] és [[S/Szarvas\|szarvas]] címhez is közben betett\] [[N/Négyzet\|négyzet]]tel kiegészítve kerül elő.  
-![assets/MAS_image2.png|invert_dark](/img/user/M/assets/MAS_image2.png)  
+[[S/Suhurmasku\|Suhurmasku]] címnél ![assets/MAS_image2.png|fix_dark fix_light right|50](/img/user/M/assets/MAS_image2.png)  MAS₂ piktogramja egy élére állított \[[[Négyszögletes Föld\|négyszögletes Föld]]re utaló, [[S/Szakrális geometria\|szakrális geometria]] és [[S/Szarvas\|szarvas]] címhez is közben betett\] [[N/Négyzet\|négyzet]]tel kiegészítve kerül elő.  
 - Vö. a [[S/Szarvas#^250529\|szarvas]] címnél szereplő ordoszi csodaszarvas ábrázolással.
 { #250529}
 
@@ -51,9 +49,7 @@ Mindez azért nagyon érdekes, mert fentebb négyzet és kereszt is megrajzolás
 
 Záhonyi András László Gyula és Karácsony Sándor szemével című az Ősi Gyökér 2011/2. sz. megjelent cikkében viszont MAS = 1/2 (még csak nem is fél\[ként kiírt\]) jelentést ad (éppen az iker = kettő reciprokaként) (forrása?). A [[M/MISZ\|MISZ]], [[M/MES\|MES]] valóban felezi az éggömböt/téridőt, és kijelöli a [[M/Más\|más]]odik félévet, de MAS keresztje a Bakban való születéssel az első félév kezdetére utal.  
 
-![assets/MAS_image3.png|invert_dark](/img/user/M/assets/MAS_image3.png)  
-![assets/MAS_image4.png|invert_dark](/img/user/M/assets/MAS_image4.png)  
-Dr. Gyárfás Ágnes A képjelekről – Tenger – Szabir ország című könyvének 114. és 117. oldalán hozza a hegyi kecske és annak gidája képjelét. Itt a fentebbi képjel X-keresztje már egészen megegyezik a [[S/Székely-magyar rovásírás#B\|székely-magyar rovásírás B]] betűjével (mely Bak-ként meg is felel).  
+Dr. Gyárfás Ágnes A képjelekről – Tenger – Szabir ország ![assets/MAS_image3.png|fix_dark fix_light right|125](/img/user/M/assets/MAS_image3.png)![assets/MAS_image4.png|fix_dark fix_light right|125](/img/user/M/assets/MAS_image4.png)  című könyvének 114. és 117. oldalán hozza a hegyi kecske és annak gidája képjelét. Itt a fentebbi képjel X-keresztje már egészen megegyezik a [[S/Székely-magyar rovásírás#B\|székely-magyar rovásírás B]] betűjével (mely Bak-ként meg is felel).  
 
 A MAS piktogramokról/jelekről [[S/Szarvas\|szarvas]] és [[K/Krisztus\|Krisztus]] címnél szóltunk. Ott utóbb megadtuk MAS Péterfai János által is hirdetett jelentését is:  
 Jankovics Marcell Jelkép-kalendárium című könyvének adata szerint Szent Hubertus szarvasa agancsai közt sugárzó kereszt mutatkozott: a kereszt a Napot is jelképezi, aki fiú. Ilyenképpen a MAS jel mögöttes értelme is (szarvas/keresztes)fiú, ahogy hasonló szóval és eredettel magyarázzák [[M/Mózes\|Mózes]] nevét is, valamint a [[M/Messiás\|Messiás]] héber elődje kapcsán is MAS nevet hoztam fel [ezen](https://qr.ae/pGm0ah) Quora válaszomban is.  
