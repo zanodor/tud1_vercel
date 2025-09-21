@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutya és macska/","title":"Kutya és macska","tags":["containstransclusions"],"created":"2023-11-17T09:39","updated":"2025-08-31T02:54"}
+{"dg-publish":true,"permalink":"/K/Kutya és macska/","title":"Kutya és macska","tags":["containstransclusions"],"created":"2023-11-17T09:39","updated":"2025-09-21T21:11"}
 ---
 
 
@@ -40,8 +40,7 @@ Utólag azzal egészíteném ki, hogy évköri elhelyezkedésüket tekintve a Ku
 #### Gyárfás Ágnes...
 
 ...[[M/Molnár Ferkó mese\|Molnár Ferkó mese]] elemzésében (Ősi Gyökér 2005/4. sz. megjelent cikkében) a Ferkó által először megvett macska és kutya Gyárfás Ágnesnél a keleti állatövben értelmezett és a mi Szűz-ünknek és Kos-unknak felel meg. Ez is jól értelmezhetőnek tűnik, kivált a rajzolt képpel:  
-> Ferkó élet-halál tengelye az Oroszlán-Szűz-Mérleg és szemben a Bika-Kos-Halak tengely nyolcasában zajlik. Sorsának ez a fekvő nyolcasa válik létének talpkövévé. Itt történnek a küzdelmei, s földi javaihoz is itt jut hozzá. A nyolcas középpontjában a Sárkány /Draco/ csillagkép kis erdejében megkapta a gyűrűt, és ettől kezdve három óriás engedelmeskedik neki.  
-> ![assets/Kutyaesmacska_image1.jpeg|invert_dark](/img/user/K/assets/Kutyaesmacska_image1.jpeg)  
+> Ferkó ![assets/Kutyaesmacska_image1.jpeg|fix_dark fix_light right|300](/img/user/K/assets/Kutyaesmacska_image1.jpeg)élet-halál tengelye az Oroszlán-Szűz-Mérleg és szemben a Bika-Kos-Halak tengely nyolcasában zajlik. Sorsának ez a fekvő nyolcasa válik létének talpkövévé. Itt történnek a küzdelmei, s földi javaihoz is itt jut hozzá. A nyolcas középpontjában a Sárkány /Draco/ csillagkép kis erdejében megkapta a gyűrűt, és ettől kezdve három óriás engedelmeskedik neki.   
 
 A [[K/Kutya\|kutya]] címnél Gurdjieffről író blogger adata és másutt is volt szó a két állat különbségeiről, illetve [[C/Cat\|cat]] címnél arról, hogy a macska keleti és keletről behozott (hun alakú) nevének kutyás alakja lenne. Azóta rájöttem, hogy a [[M/Macska\|macska]] a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]]ként értelmezve az ami ketté osztja a téridőt (ez jelenik meg a [[C/Cut\|cut]] szóban is).  
 Az óegyházi szláv `котъка` = macska szóalak is mintha a kutya és macska összetétele lenne. Tulajdonképpen a [[H/Hunor és Magor\|Hunor és Magor]] címnél taglalt párhuzamos elnevezések mellé kerül a kutya és a macska.  
