@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-09-20T19:06"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-09-21T18:16"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 
 
-<small>**Megjegyzés**: A Google Gemini-s összefoglalók a Google (YouTube) által automatikusan rendelkezésre bocsátott transzkripciók alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli problémák, melyek mindegyikét nem veszem észre, hogy javíthassam. Kisbetűs vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag," amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattintva ellenőrizni a videón, hogy mi szerepelt az eredeti szövegben.</small>
+<small>**Megjegyzés**: A Google Gemini-s összefoglalók a Google (YouTube) által automatikusan rendelkezésre bocsátott feliratozás alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli problémák, melyek mindegyikét nem veszem észre, hogy javíthassam. Kisbetűs vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag", "az előadó szerint", amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattintva ellenőrizni a videón, hogy mi szerepelt az eredeti hang- ill. képanyagban.</small>
 
 <small>**Megjegyzés 2**: A web app keresője nem keres és nem talál ezen összefoglalókban!</small>
 
