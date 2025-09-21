@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2025-08-05T13:03"}
+{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2025-09-21T15:21"}
 ---
 
 
@@ -20,7 +20,7 @@ Frawley azóta 6°40'-re "pontosította," de John M. Jenkins ír arról, hogy m�
 > Ez a kijelentés a Tejútközpont–Tejút-Anticentrum tengelyt írja le.  
 - Halkan jegyzem meg: a [[H/HAT\|hat]] és [[H/Hatalom\|hatalom]] szavunk miért éppen a hatos számmal hozható kapcsolatba: miért nem a héthez köthető? Lásd azóta [[H/HAT\|hat]] és [[H/Hét\|hét]] címnél írottakat. Persze a precesszió miatt ezen gondolatsor értelmezhetetlen.
 
-![assets/Galcen_image1.png|invert_dark](/img/user/G/assets/Galcen_image1.png)  
+![assets/Galcen_image1.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image1.png)  
 A mellékelt rádió-térkép Robert Burnham Jr. a Burnham's Celestial Handbook III. kötetéből való. Akár egy emberalakot is ki lehet venni, ahol a központ lehetne a [[M/Méh\|méh]].  
 
 Igen ám, de mint kiderül, ez a 6°40' csak a sziderikus adat és ma a tropikálissal számolnak (lásd témát [[C/Csillagászat – tropikus kontra sziderikus\|csillagászat – tropikus kontra sziderikus]]):  
@@ -47,14 +47,13 @@ Ezen a ponton arra gyanakodnék, hogy két holdháznyit csúszott a dolog (kisz�
 Még mindig árulás van, pedig nekem mégis az az érzésem, hogy túl sok adat mutat arra, hogy az Anuradha holdházba kellett essen a Tejútközpont.  
 
 Ezen alábbi adat is erről tanúskodna:  
-![assets/Galcen_image3.png|invert_light](/img/user/G/assets/Galcen_image3.png)  
 
-Csatolva lásd a Tejútközpontot a Nyilas alfájával, Rukbattal, amelynek Richard H. Allen könyvének adata szerint (egy közelebbről meg nem határozott) eufráteszi neve is igen meggyőző: **Nibat Anu**. Hogy itt [[A/Anu\|Anu]] istenségről van inkább szó, mint a Tejútanya-Anu vulvájáról, valószínű, viszont Anu istenség neve a Tejútanya Anu nevéből kell eredjen.  
+Csatolva ![assets/Galcen_image3.png|fix_light right|300](/img/user/G/assets/Galcen_image3.png)  lásd a Tejútközpontot a Nyilas alfájával, Rukbattal, amelynek Richard H. Allen könyvének adata szerint (egy közelebbről meg nem határozott) eufráteszi neve is igen meggyőző: **Nibat Anu**. Hogy itt [[A/Anu\|Anu]] istenségről van inkább szó, mint a Tejútanya-Anu vulvájáról, valószínű, viszont Anu istenség neve a Tejútanya Anu nevéből kell eredjen.  
 
 
 
 Nehéz volt/lenne elengedni a tényt, hogy Anu neve a Tejútközponthoz kapcsolható legyen, annál is inkább, mert majdnem Anu, Aña előjön az Amazonas északnyugati régiójában, a brazíliai tukano indiánoknál is: Aña nevezetű a Skorpió-Nyilas felőli égtáj az alábbi adatok szerint.  
-![assets/Galcen_image4.png|invert_dark](/img/user/G/assets/Galcen_image4.png)  
+![assets/Galcen_image4.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image4.png)  
 (Az "angolként" megadott Jararaca jelentés alatt egy tupi nyelven megfejtett nagy vipera féle kígyót kell érteni. A [[K/Kígyó\|kígyó]] a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]] is, de épp az önmagából megújulás jelképe is.)  
 Igaz, itt is a december előtti időszakról van szó.  
 
@@ -95,7 +94,7 @@ Láthatósága:
 
 
 A mellékelt kép a Szigetről Péterfai Jánostól való.  
-![assets/Galcen_image5.png|invert_dark](/img/user/G/assets/Galcen_image5.png)  
+![assets/Galcen_image5.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image5.png)  
 Ezen [[S/Sziget\|sziget]] ugyanaz, mint amit másutt Csudaországgal azonosít:  
 > Úgy gondolom, hogy az égbolt 40. foka Szkythia, vagyis Csudaország egyik oldala.  
 > Hérodotosz jegyezte fel, hogy a szkytháknál, (vagyis magyaroknál, a csudák népénél), ha meghal valaki, 40 napig hordják körbe az országban a holttestet. Majd a 40 nap elteltével a holttestet elégetik. Az égetés során a Lélek a Mennyekbe száll.
@@ -130,7 +129,7 @@ Mint alant látjuk, a mayák [[X/Xibalba\|Xibalba]] nevet kapcsolnak hozzá. Err
 
 Varga Géza is szól a Tejúthasadékról és nála "Us" -t (lásd [[U/Us#US 2)\|Us]]) jelent:  
 > Több ezer éves pogány jelkép keresztény változata a mandorla (mandula alakú ívben Krisztus, vagy Mária és a kisded képe). Eredetileg az istenanya [[V/Vulva\|vulvá]]jára, a Tejút mandula alakú hasadékára utalt, amelyben Karácsonykor kél az isteni őst jelképező Nap.  
-> ![assets/Galcen_image6.jpeg|invert_dark](/img/user/G/assets/Galcen_image6.jpeg)  
+> ![assets/Galcen_image6.jpeg|fix_dark fix_light|840](/img/user/G/assets/Galcen_image6.jpeg)  
 >
 > A mandorla lineáris megfelelője a hatti "isten" hieroglifa, a sumér napisten szimbóluma (René Labat: Manuel d'épigraphle akkadienne, 68. oldal \[de értelmet nem ír mellé\]) és a székely "-us" (ős) rovásjel. Fejdíszként szerepel Szibéria újkőkori sámánábrázolásain (Hoppál Mihály: Sámánok, lelkek és jelképek, 1994, 37. oldal), előfordul mongóliai és horezmi sziklarajzokon, valamint hun és avar tárgyak hieroglifikus felirataiban is.  
 
@@ -150,9 +149,8 @@ Jankovics Marcell Varga Géza által megosztott adata szerint a [[S/Székely-mag
 > ...kettőskereszt szára a Tejút (az eget-földet összekötő [[V/Világfa\|világfa]]), amelyet a nappálya a két napforduló idején két különböző helyen keresztez. **Az elmúlt kétezer évben a téli és a nyári napfordulókor a Nap éppen ott tartózkodott, ahol a Tejút metszi a pályát**. A meghaló és feltámadó napisten egy éves életciklusára utal (vö: [[E/Esztendő\|esztendő]] = "isten idő"), ezért a kettős keresztet néha arccal ellátva megszemélyesítik, vagy a kereszteződéseibe napot rajzolnak.  
 - Több infót lásd tőle [[T/Tejút\|Tejút]].
 
-Jankovics Marcell A fa mitológiája című könyvének 203. oldalától kezdve szól az egyiptomi mitológiáról, benne [[N/Nut\|Nut]] szerepéről (túl sok a kép, így ahhoz a címhez sem került be). Amit fontosnak láttam ide betenni:  
-![assets/Galcen_image7.png|invert_dark](/img/user/G/assets/Galcen_image7.png)  
-> A tejúthasadék egy sötét lyuk az égen, amit a Tejút két ága ölel körül: a régiek ezt tekintették a nagy istennő vulvájának. Az égi szikomorfa (Nut) hasítéka, amiből Ré napisten a világra jön, a tejúthasadék. Ide repül a [[H/Hattyú csillagkép\|Hattyú csillagkép]] – a mítoszban Zeusz –, hogy a Tejútistennőt megtermékenyítse, ide hatol be a Kígyó csillagkép farka, amikor Eurünoméval, a mindenség úrnőjével a világot "hozza össze" (a hattyúnyak, kígyófarok ősi phallikus jelképek). A Skorpiót az asztrológia a nemi szervek és a végbélnyílás állatjelképének tartja, sok afrikai nép pedig az állatban egyenesen a női nemi szerv megtestesítőjét látja; mérges fullánkját – az égen a Skorpió veres Antares csillagát – a clitorisszal azonosítja.  
+Jankovics Marcell A fa mitológiája című könyvének 203. oldalától kezdve szól az egyiptomi mitológiáról, benne [[N/Nut\|Nut]] szerepéről. Amit fontosnak láttam ide betenni:  
+> A tejúthasadék egy sötét lyuk az égen, amit a Tejút két ága ölel körül: a régiek ezt tekintették a nagy istennő vulvájának. Az égi szikomorfa (Nut) hasítéka, amiből Ré napisten a világra jön, a tejúthasadék. Ide repül a [[H/Hattyú csillagkép\|Hattyú csillagkép]] – a mítoszban Zeusz –, hogy a Tejútistennőt megtermékenyítse, ide hatol be a Kígyó csillagkép farka, amikor Eurünoméval, a mindenség úrnőjével a világot "hozza össze" (a hattyúnyak, kígyófarok ősi phallikus jelképek). A Skorpiót az asztrológia a nemi szervek és a végbélnyílás állatjelképének tartja, sok ![assets/Galcen_image7.png|fix_dark fix_light right|300](/img/user/G/assets/Galcen_image7.png)afrikai nép pedig az állatban egyenesen a női nemi szerv megtestesítőjét látja; mérges fullánkját – az égen a Skorpió veres Antares csillagát – a clitorisszal azonosítja.  
 > Nut és Geb két gyermeke, Ozirisz (az [[O/Orion\|Orion]] csillagkép) és Ízisz (a Szíriusz csillag) a Tejúton látható egymás mellett, s kettősük jelezte az egyiptomi év elejét és végét (114. kép).  
 > Az egyiptomiak kereken 365 napos évvel számoltak, ebből az utolsó 5 nap külön figyelemben részesült, mivel Nut és Geb másik két gyermeke, valamint Hórusz, Ozirisz és Ízisz fia is ekkor született. A Szíriusz csillag évenkénti eltűnését (terhességét Hórusszal, azaz együttállását a Nappal) követő újbóli megjelenése (heliakus felkelése) elvben az új év kezdetét és a Nílus áradását jelentette. (Csak azért elvben, mert az egyiptomi év egy negyed nappal rövidebb lévén a valóságosnál, az újév napja 4 évenként 1 teljes nappal eltolódott a Szíriusz felkeléséhez és az áradás kezdetéhez képest.)  
 > Nutot minden égitest anyjának tartották, aki nyugaton nap mint nap felfalja, keleten pedig világra hozza őket. Más szóval, úgy hitték, hogy az éppen nem látható planéták és csillagok Nut testében a Tejút alvilági, déli szakaszán járnak. És mivel az egyiptomi túlvilághitben a lelkeket a csillagokkal azonosították (a magyar néphitben: ha lehull egy csillag, meghalt valaki), Nut, a Tejút valóban a lelkek útja. Lélekút volt Nut a fián, Oziriszen keresztül is. Ozirisz volt a halottak alvilági királya, aki miniszterével, a kutyafejű Anubisszal (az Orionnal szomszédos Nagy Kutya csillagképpel) fogadja a Tejúton érkező lelkeket. (Az Oriont ma az "övén" keresztezi az égi egyenlítő, ezért félig északi, félig déli csillagképnek minősül, de az ókorban, az Ozirisz-kultusz első virágzása idején még a feje fölött haladt el, vagyis akkor még déli, alvilági csillagkép volt.[^5])  
@@ -160,15 +158,14 @@ Jankovics Marcell A fa mitológiája című könyvének 203. oldalától kezdve 
 
 > A téli és nyári átjárók, "kapuk" közül, ahogy az ókorban nevezték, a téli kapu a fontosabb, mivel ez volt az ég kapuja, az év fordulójának helye is. Kapu formája is inkább a téli átjárónak van, mivel a Tejút itt nemcsak kiszélesedik, hanem egy "[[F/Fekete lyuk\|fekete lyuk]]at[^6]" közrefogva két ágra, "kapufélfára" is hasad. Mindez a téli átjáró gazdagabb mitológiájában is kifejeződik.  
 
-![assets/Galcen_image8.png|invert_dark](/img/user/G/assets/Galcen_image8.png)  
-
 **Erős a kísértés, hogy a "dark rift" és fekete lyuk elnevezéseket innentől a csillagászatból ismert fekete lyukkal is egyúttal azonosítsuk, annál is inkább, mert a tejútközpont valóban a galaxis középén van, ahol a tudósok szerint a fekete lyuk is**. (Lásd a csatolt képen szereplő infót is erről.)  
+![assets/Galcen_image8.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image8.png)  
 
-![assets/Galcen_image9.jpeg](/img/user/G/assets/Galcen_image9.jpeg)  
+![assets/Galcen_image9.jpeg|840](/img/user/G/assets/Galcen_image9.jpeg)  
 
 Bíró Lajos Táltosokról szóló előadásában is említi a fekete lyukat a Tejút középpontjában és felveti, nem-e azért volt érdekes [[T/Táltos\|táltos]]aink számára, mert ott párhuzamos dimenziókba lehet jutni.  
 
-![assets/Galcen_image10.png|invert_light](/img/user/G/assets/Galcen_image10.png)  
+![assets/Galcen_image10.png|fix_light|840](/img/user/G/assets/Galcen_image10.png)  
 > Abban a gondolatrendszerben, mely a [[T/Tejút\|Tejut]]at a nagy istennővel azonosítja, a téli kapu, a tejúthasadék az istennő ölének, szeméremnyílásának ([[V/Vulva\|vulva]]) felel meg, ahol a napisten és többi gyermeke a világra jön[^7], [[S/Száj\|száj]]ának pedig a nyári kapu, ahol gyermekeit elnyeli és újra foganja.  
 
 Itt Jankovics Marcell mesepéldákat hoz fel.  
@@ -185,8 +182,8 @@ John M. Jenkins vagy más adata volt:
 > Az ősi mezoamerikai csillagászok a rendelkezésükre álló egyszerű technológiával elképesztő munkát végeztek. Nemcsak megmérték a precessziós ciklus hosszát, hanem egy figyelemre méltó összehangolással is lehorgonyozták azt, a téli napforduló Napjának (nem a tavaszi napéjegyenlőségnek, amit a nyugati asztrológia használ) és magának a galaxisnak, a Tejútrendszer sávjának a találkozásával. Mivel galaxisunk korong alakú, a Tejúton keresztül egy egyenlítőszerű síkot húzhatunk, és bejelölhetjük, hol metszi az ekliptikát, a Föld Nap körüli pályájának síkját.  
 > Ez a Tejútközpont a Nyilas és a Skorpió között helyezkedik el, és az ősi maják úgy gondoltak rá, mint a teremtés helyére az égen, a Nagy Anya méhére. **A napforduló napjának és a Tejútközpontnak ez az együttállása 13 000 évente egyszer fordul elő**[^8]. Ez a dél és az éjfél pillanataival egyenértékű[^9].  
 
-![assets/Galcen_image11.png|invert_light](/img/user/G/assets/Galcen_image11.png)  
-![assets/Galcen_image12.png|invert_dark](/img/user/G/assets/Galcen_image12.png)  
+![assets/Galcen_image11.png|fix_light|840](/img/user/G/assets/Galcen_image11.png)  
+![assets/Galcen_image12.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image12.png)  
 
 #### Jankovics Marcell Ahol a madár se jár...
 
@@ -200,7 +197,7 @@ John M. Jenkins vagy más adata volt:
 John Major Jenkins elméletét támadja Keith Hunter és mások[^10], de Jenkins mellett az szól, hogy ő független kutatóként tud az általános, mainstream indo-európai gondolkodástól elvonatkoztatni és olyasmikról szól, mely a legalul szereplő Jankovics Marcell féle anyaggal szépen passzol.  
 - [[T/Tavaszpont\|Tavaszpont]] valamint [[V/Vízöntő korszak\|Vízöntő korszak]] címnél szóltunk arról, hogy mivel a maják a Télpont Tejútközpontba való behatolását tekintették korszakváltónak (a Nap speciális születésnapját tartották ilyenkor, hiszen a fény győzelmét minden [[K/Karácsony\|Karácsony]]kor megtartjuk, de ezen jeles esemény, ahogy Pap Gábor elmondása alapján is (lásd a Megváltó születése és a betlehemi játékok kapcsán [[P/Precesszió\|precesszió]] és [[O/Ökör\|ökör]] címnél írottakat[^11]) mintegy 26000 évente egyszer fordul elő) és ez tulajdonképpen napjainkban meg is történt(?), ezért szükségszerűen a Tavaszpont is át kellett hogy mozduljon a Vízöntőbe attól függetlenül, hogy más és más csillagtudósok még több száz éves várakozást prognosztizálnak.  
 
-![assets/Galcen_image13.png|invert_light](/img/user/G/assets/Galcen_image13.png)  
+![assets/Galcen_image13.png|fix_light|840](/img/user/G/assets/Galcen_image13.png)  
 Paksi Zoltán könyvéből származik az alábbi kékes kép, melyen jól látszik a Nyilas és Skorpió között duzzadni látszó Tejút-központ, felette a Kígyótartóval és a Kígyó csillagképpel.  
 
 Az Astronomy 2015. májusi számában szó van arról, hogy az északi féltekéről szinte lehetetlen a duzzadó pontot, a Tejút középpontját látni (ezért is lehet az, hogy a nagy csillagtudósok inkább a déli féltekéről valók, azaz ezért is kellett táltosainknak vándorolni?). Érdemes felfigyelni a hatvanas-hetvenes éveiben járó szerző mitikus hangvételére is:  
@@ -212,8 +209,8 @@ Az Astronomy 2015. májusi számában szó van arról, hogy az északi félteké
 > De ahogy a Poison nevű zenekar énekelte: "Minden rózsának megvan a maga tövise". Az imént leírt jelenet nem tipikus, mert a déli féltekén télen, napnyugta után következik be. Nyáron a Tejút egy gyenge szakasza – a Perseustól a Veláig – alacsonyan a keleti horizont fölött magasodik, ahol a légkör miatt, amin átnézek, fakónak tűnik. A Tejút helyébe a zenitnél a sivár déli galaktikus pólus lép, amely a Sculptorban ül, nagyrészt vérszegény csillagképekkel körülvéve. A látvány a kora esti téli égbolt ellentéte, és aki a déli féltekére utazik, és a galaktikus nagyság víziói táncolnak a fejében, biztosan csalódni fog.  
 > Az északi szélességi körök közepén élő megfigyelőknek szintén drámaian változik a Tejútrendszer látványa, de összességében kevésbé szerencsések. Amikor a Tejút télen a fejünk felett van, a galaktikus anticentrum a legmagasabb ponton van az égen. Amikor pedig a lenyűgöző központ megjelenik, mindig alacsonyan a déli horizont fölött magasodik. Ez azt jelenti, hogy a Tejút egyik legszebb régiója – amely a Centaurustól a Carináig terjed – láthatatlan ebből a térségből.  
 
-![assets/Galcen_image14.jpeg|invert_dark](/img/user/G/assets/Galcen_image14.jpeg)  
-![assets/Galcen_image15.png](/img/user/G/assets/Galcen_image15.png)  
+![assets/Galcen_image14.jpeg|fix_dark fix_light|840](/img/user/G/assets/Galcen_image14.jpeg)  
+![assets/Galcen_image15.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image15.png)  
 **Bruce Scofield** The Mountain Astrologer című folyóiratban megjelent, internetre feltöltött és onnan letölthető The Long and Short of the Mayan Calendar című cikkében (hasonló hangvétellel mint Keith Hunter[^12]) arról szól, hogy a John Major Jenkins által 2012-re tett téli napfordulós ponton bekövetkező ekliptika és Tejút-egyenlítő metszése vagy korábban bekövetkezett, vagy egészen pontosan nem is belőhető (nem fogalmaz túl világosan):  
 > The truth is that December 21, 2012, marks the beginning of a new phase in the precession of the winter solstice – but only if you accept that the dark band in the Milky Way constitutes the most important anchor point in the entire cycle. If you are looking for the point when the solstice point aligns exactly with the galactic equatorial plane itself, then look behind you. This alignment occurred during 1998.  
 > —  
@@ -231,7 +228,7 @@ Keith Hunter blogger – nyilván a híres, témával is foglalkozó csillagász
 A [[P/Pünkösd\|Pünkösd]] címnél szereplő, valamely internetes asztrológiai blog-ról szedett info is említi ezt a 36 évet:  
 > Fontos megemlíteni, hogy nem csak a 2012-es téli napforduló, de a 2012-es ablakban, 1980-tól 2016-ig minden napforduló galaktikus egybeesést alkot.  
 
-![assets/Galcen_image16.png|invert_dark](/img/user/G/assets/Galcen_image16.png)  
+![assets/Galcen_image16.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image16.png)  
 Azt itt azért hozzá kell tenni, hogy a Tejútközpont, Tejút-sík (galactical plane) és a [[X/Xibalba\|Xibalbá]]val jelzett fekete "sötét hasadék" (lásd csatolt képen) elég messze vannak egymástól ahhoz, hogy több idő teljen el az együttállásokhoz, illetve a méricskélés (mi mihez képest) lehet igen önkényes is.  
 Hiszen parallaxis-hiba léphet fel. Egyébként ezért is volt szükség a [[B/Bolygóegyüttállások\|bolygóegyüttállások]] címnél és [[P/Precesszió\|precesszió]] bevezetőjében említett J-SZ együttállásokat segítségként hívni (amennyiben nem a tavaszpont vándorlását vették figyelembe).  
 
@@ -271,7 +268,7 @@ Aztán megosztja Patrick Wallace-szal való magánlevelezését, ahol a 2021-es,
 > A téli napforduló Napja és a Tejútközpont 2225-ben ugyanazon a látszólagos helyű meridiánon van.  
 > Patrick Wallace Starlink projektvezető Rutherford Appleton Laboratory Chilton, Didcot, Oxon OX11 0QX, UK
 
-![assets/Galcen_image17.png|invert_dark](/img/user/G/assets/Galcen_image17.png)  
+![assets/Galcen_image17.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image17.png)  
 A mellékelt sztéléket bemutató anyag ...
 
 #### John Major Jenkins...
@@ -281,7 +278,7 @@ A mellékelt sztéléket bemutató anyag ...
 > —  
 > Mindez a szimbolizmus és csillagászat az Izapa labdapályán egy ritka csillagászati együttállásra utal, amely a 2012 körüli években következik be: A decemberi napforduló napjának a Tejút és az ekliptika "kereszteződéséhez" való igazodása, a Tejút sötét hasadékának déli végpontjánál. Ez a sokat félreértett "galaktikus együttállás" vagy "napforduló-galaxis" együttállás. Ez egy lassú konvergencia az égen, amelyet a napéjegyenlőségek precessziója okoz a decemberi napforduló napjának lassan változó helyzete és a Keresztút sziderikus helyzete között. Úgy is felfogható, mint a Tejút lassú ereszkedése, amely a fejünk felett ível a decemberi napforduló napfelkeltéje felé a horizonton.  
 
-![assets/Galcen_image18.png|invert_dark](/img/user/G/assets/Galcen_image18.png)  
+![assets/Galcen_image18.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image18.png)  
 John Major Jenkins Galactic Alignment című könyvében jobban elmagyarázza (illetve ezt már valójában én következtetem ki írásából): arról lehet szó, hogy mítoszalkotó eleinknek az lehetett a fontos, hogy a [[T/Tejútanya\|Tejútanya]] méhe éppen a horizontra ereszkedjen, és ez idővel, a [[P/Precesszió\|precesszió]] jelensége miatt – állítólag – be is következik, ahogy a mellékelt képen látszik. Jankovics Marcell könyveiben is volt arról szó, hogy (ideális esetben?) a Földből[^15] látszik megszületni a Nap: mivel ez minden nap és minden évben megtörténik, kellett egy olyan képzet is, mely ezt még tökéletesebbé teszi: akkorra, amikor a Tejút ezen része ténylegesen a horizonttal együtt áll, és december 21-én itt, ebben a részben látszik előbújni a Nap. (Lásd tehát John M. Jenkins könyvének 213. oldaláról származó 18.4. jelű képet.)  
 
 Hogy pontosan milyen együttállásokkal és főleg milyen földrajzi fekvéseken lehet (kell) számolni (hiszen ez változó), némileg bonyolítja a helyzetet. Másutt, Peruval kapcsolatban is írja:
@@ -289,7 +286,7 @@ Hogy pontosan milyen együttállásokkal és főleg milyen földrajzi fekvéseke
 > —  
 > A napforduló napjának a galaxishoz való igazodása akár 1500 évre is érvényes lehet (mivel a Tejútrendszer széles, és az igazodás általánosítható). Ez a tartomány magában foglalja az inka birodalmat, valamint a Tiahuanaco-i megszállás legutóbbi szakaszát (kb. Kr. u. 600).  
 
-![assets/Galcen_image19.png|invert_dark](/img/user/G/assets/Galcen_image19.png)
+![assets/Galcen_image19.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image19.png)
 Leenőriztem John M. Jenkins adatát az előbbi képen csatolt infora nézve. Szíriusz nagyon nem moccan ebből a "nadir(?)" pontból az égi egyenlítő alatt. Csak balra, jobbra mozog az évezredek során. Precesszió ugye bele van táplálva.  { #kq3rso}
 
 - Így nem sokat mond az info, legalábbis arra vonatkozólag, hogy milyen égi dinamika játszhat itt szerepet. Olyan program kellene, ami Szíriusz és a Naprendszerünk valós mozgásaira vonatkozó adatokkal van betáplálva. Olyan meg – legalábbis közkézre adva – nem lesz.
@@ -312,7 +309,7 @@ Majd ezt írja:
 > (Ez a csillagászati forgatókönyv talán megmagyarázza a görög irodalom egyik legrejtélyesebb utalását: Vajon Platón legendája Atlantisz elsüllyedéséről – és későbbi újbóli felemelkedéséről – ebben az égi folyamatban gyökerezik?)
 > Még lenyűgözőbb az a tény, hogy mivel a **Galaxisközpont a mi korszakunkban éri el a legalacsonyabb meridián-átvonulását, most kezd "feljebb emelkedni "**. És, a "megfordulásának" korszakai a napforduló-galaxis együttálláshoz vannak kötve! Más szóval, az i.e. 10.800-as és az i.sz. 1998-as napéjegyenlőség-galaxis együttállások a galaktikus tudatosság "bukását" és "emelkedését" jelzik, olyan módon, ami teljesen különbözik minden korábban tárgyaltól. **A jelenség mögött álló csillagászati dinamika azon a tényen alapul, hogy az aktuális Sarkcsillag az ekliptika sarkkörének a Tejútközponttól távoli oldalán van**, amint az a 14.1. ábrán látható.  
 
-![assets/Galcen_image20.png|invert_dark](/img/user/G/assets/Galcen_image20.png)  
+![assets/Galcen_image20.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image20.png)  
 
 Korábbi adata, mely [[O/Orion övcsillagai\|Orion övcsillagai]] címnél is szerepelt, arról szól, hogy az Tejútközpont-Antiközpont tengely másik, déli felén mi játszódik le a libikóka során:  
 > Orion is not exactly on the ecliptic, therefore[^17] its meridian extremes oscillate over a 40,000-year period.  
@@ -335,18 +332,18 @@ R. H. Allen Star Names című könyvében szerepel, hogy az Orion övcsillagai 4
 > Az éves ciklus körkörös ábrázolásában a napfordulók természetüknél fogva a "legmagasabb" és a "legalacsonyabb" pontot foglalják el. Az óramutató járásával megegyező szokásos mozgást feltételezve a júniusi napfordulót kell a csúcsra helyezni, ahol a csökkenő napfénybe való süllyedés kezdődik. Ebből következik, hogy a napéjegyenlőségeket a három és a kilenc órai pozícióba kell helyezni.
 > Guénon rámutat, hogy a napforduló pontjaiból húzott érintővonalak vízszintesek lesznek, és a napéjegyenlőségi pontokon keresztül húzott hasonló egyenesek függőlegesek. Ha a kört ajtónyílásként képzeljük el, akkor a függőleges napéjegyenlőségi vonalak oszlopokká válnak, amelyek az ajtónyílás oldalait keretezik, míg a napfordulók a boltív és a küszöb lesznek.  
 
-![assets/Galcen_image21.png|invert_dark](/img/user/G/assets/Galcen_image21.png)
+![assets/Galcen_image21.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image21.png)
 
 John M. Jenkins könyvének 202. oldalán szól a perui inkákról, hogy náluk milyen jelentőséggel bírt a Tejútközpont. Gary Urton At the Crossroads of the Earth and the Sky című könyvének adatait használja fel:  
 > In South America, the region of the Milky Way containing the Galactic Center is very high overhead. This fact, combined with pristine viewing conditions in the high altiplano of Peru, makes the nuclear bulge in Sagittarius-Scorpio dramatic and impossible to ignore. The Milky Way is so distinct that, in addition to the great cleft running north of Sagittarius that interested the Maya, many dark-cloud features along the Milky Way were identified by the Inca (see fig. 17.2[^18]).  
 > These dark-cloud "constellations" include the Fox, Toad, Tinamou, Snake, and Mother Llama and her suckling baby. The latter two represent the life-nurturing quality that we see in the Virgin Mary motif. Perhaps it is no coincidence that the Mother Llama and her baby are located on the Galactic Center. The Fox is close by, and in his book The Secret of the Incas William Sullivan argued that the Fox is involved in Incan precessional mythology.  
 > —  
 > Dél-Amerikában a Tejútnak a Tejútközpontot tartalmazó régiója nagyon magasan van a fejünk felett. Ez a tény, valamint a perui magas altiplano érintetlen megfigyelési körülményei a Nyilas-Skorpióban lévő galaxismag-dudort drámaivá és figyelmen kívül hagyhatatlanná teszik. A Tejút annyira határozott, hogy a Nyilas északi részén futó nagy hasadékon kívül, amely a majákat érdekelte, az inkák számos sötétfelhő-vonulatot azonosítottak a Tejút mentén (lásd a 17.2. ábrát[^18]).  
-> ![assets/Galcen_image22.png|invert_dark](/img/user/G/assets/Galcen_image22.png)
+> ![assets/Galcen_image22.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image22.png)
 > E sötét felhő "csillagképek" közé tartozik a Róka, a Varangy, a Tinamou, a Kígyó és a Lámaanya és szoptatós gyermeke. Az utóbbi kettő azt az életet tápláló minőséget képviseli, amelyet a Szűz Mária-motívumban látunk. Talán nem véletlen, hogy a Lámaanya és csecsemője a Tejútközpontban található. A Róka a közelben van, és William Sullivan Az inkák titka című könyvében azt állította, hogy a Róka részt vesz az inkák precessziós mitológiájában.  
 - A [[R/Róka\|róka]] megjelenik a dogonoknál is.
 
-![assets/Galcen_image23.png|invert_dark](/img/user/G/assets/Galcen_image23.png)  
+![assets/Galcen_image23.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image23.png)  
 Egy másik fontosnak tekinthető észrevétele, hogy a Tejút rávetíthető a földi hegyvonulatok vonalára.  
 Érdekes, hogy a berajzolás alapján az ekliptika az [[O/Oroszlán-Vízöntő tengely\|Oroszlán-Vízöntő tengely]]re kerül.  
 Lásd a csatolt képen. John M. Jenkins folytatja:  
@@ -354,7 +351,7 @@ Lásd a csatolt képen. John M. Jenkins folytatja:
 > —  
 > Az Oroszlán kora Tibetben/Indiában azt a korszakot jelképezi, amikor a decemberi napforduló Napja a galaktikus anticentrummal állt egy vonalban, ahol a Tejút áthalad az Ikrekben. Így a Vízöntő kora Amerikában azt a korszakot képviseli, amelyben a decemberi napforduló napja a Tejútközponttal állt egy vonalba. A földi földrajz két szélsősége, amelyeket a Föld legmagasabb hegyvonulatai koronáznak, a precesszió két szélsőségével – az idő alfájával és ómegájával – párosul. Ez a modell a téridő egyfajta "egységes elméletét" kódolja, ahol az emberi történelem valamiféle esszencia, amelyet a civilizációs impulzust irányító folyamat generál.  
 
-![assets/Galcen_image24.png|invert_light](/img/user/G/assets/Galcen_image24.png)  
+![assets/Galcen_image24.png|fix_light|840](/img/user/G/assets/Galcen_image24.png)  
 Még egy dologról kell szólni itt. Arról, hogy a [[T/Tavaszpont\|tavaszpont]] jelen pillanatban szinte egy teljes 30°-kal el van csúszva, így a Nap nem a horoszkópoknak megfelelő helyén van. [[T/Tavaszi évkezdés\|Tavaszi évkezdés]] címnél szerepelt már egy kép arról, hogy április 20-án, amikor a Kosból majdnem teljesen ki kellene lépnünk, még talán be sem léptünk abba (tény, hogy a Halak nagyobb kiterjedésű csillagkép, mint a Kos, de itt nem erről van szó). Itt szintén egy hónapos elcsúszás látható. A fentiek alapján tudjuk, hogy a Nap és a Föld minden évben együtt áll a Tejútközponttal, csak éppen mindig más időpontban. 2012. december 21.-ére olyan együttállást prognosztizáltak/propagáltak, mely éppen a [[T/Télpont\|télpont]]on rendezné meg a Nagy Együttállást, Föld-Nap-Tejútközpont résztvevőkkel. Ez nem történt meg, de nem is történhetett volna meg, hisz a kép tanúsága szerint (ugyan a kép két évvel azelőtti állapot mutat, de két év nem változtat szinte semmit 2160 éves Világhónapok időléptékéhez mérten) december 21.-én még nem voltunk/vagyunk a Bakban, hanem éppen hogy csak a Nyilasba most léptünk bele?  
 
 #### Paksi Zoltán...
@@ -370,7 +367,7 @@ De ha már Stellarium: talán épp ezzel a programmal kapcsolatban panaszkodott 
 Továbbmegyek: az elmúlt 20-30, max. 40 év számítógépes software-vívmányai (akár NASA szintű, akár házi) pontosan akkor készültek, amikor a Szíriusztól gyakorlatilag legtávolabb kerültünk és a Naprendszer mozgása is szinte olyan lassúvá vált, hogy szinte megállt (sőt, gyakorlatilag mondhatjuk, hogy – ha kívülről nézhetnénk – Naprendszerünk ugyanúgy megállni látszhatott, ahogy a napfordulókon a Földről szemlélve a Napunk). Mindezen körülmények hozzájárultak ahhoz, hogy a kész élképzelésünk legyen a múltról és a jövőről, de nincsenek. Még az sem elképzelhetetlen, és erről talán fentebb tettem utalást, hogy a mayák által prognosztizált korszakváltás pont arra az időpontra utal, mely a Szíriusztól való legtávolabbi pontot jelenti és az onnan való elmozdulással új korszak jön el; az, hogy öt cikkelyre osztják a 26000 évet, még jelentékeny is lehet, hiszen a legtávolabbi pontra kerülés azt jelenti, hogy a felfelé ágon elindulva még ugyanaz a Vaskor lesz érvényes, ami már jó ideje tart (5200/2 = 2600 éve már tart a Vaskor).  
 És akkor még nem beszéltünk arról, hogy vajon annyit írunk-e valójában, amennyit mondanak (ennek kiderítésére szolgálna épp a [[T/Tavaszpont\|tavaszpont]] elmozdulásának mérése, de ennek pontos mérésében is igen nagy hibák vannak, lásd ott).  
 Arról, hogy a csillagjegyek miként változnak a Nagy Évben haladva, annak eredményeként, hogy a Szíriusszal bináris rendszerben vagyunk, lásd [[Z/Zodiac\|zodiac]].  
-![assets/Galcen_image25.png|invert_dark](/img/user/G/assets/Galcen_image25.png)  
+![assets/Galcen_image25.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image25.png)  
 Az itt csatolt, Fomenko-tól származó adat szerint is csak az elmúlt 2500 évben értelmezhetők a hónapok és a csillagképek egymással való megfeleltetései. Igen ám, de a fenti programból vett kép alapján ez már nem igaz, hiszen csúszás van, nem is kevés, kb. egy csillagképnyi. Az is érdekes, hogy kiemeli, julián-hónapokról van szó. \[Lásd még [[G/Gergely-naptár\|Gergely-naptár]] címet.\]  
 
 Fentebb volt már arról szó ([[T/Tavaszpont\|tavaszpont]] valamint [[V/Vízöntő korszak\|Vízöntő korszak]] címnél is), hogy a mayák a Télpont Tejútközpontba való behatolását tekintették korszakváltónak (még ha az pontatlan is lenne, ellenőrzés- illetve méréstechnikai szempontból (de J-SZ együttállásokkal lehetett ugye pontosítani)): a Nap speciális születésnapját tartották ilyenkor, hiszen a fény győzelmét minden [[K/Karácsony\|Karácsony]]kor megtartjuk, de ezen jeles esemény, ahogy Pap Gábor elmondása alapján is (lásd a Megváltó születése és a betlehemi játékok kapcsán [[P/Precesszió\|precesszió]] és [[O/Ökör\|ökör]] címnél írottakat[^19]) mintegy 26000 évente egyszer fordul elő.  
@@ -386,7 +383,7 @@ A [[S/Sumér zodiákus\|sumér zodiákus]]ban a Nyilas neve [[P/Pabilsag\|Pabils
 
 Paksi Zoltán írja:  
 > A Galaxis középpontja a [[N/Nyilas csillagkép\|Nyilas csillagkép]] irányában van. Az itt érzékelhető lüktetés, dobogás a szív analógiáján keresztül válhat számunkra üzenetté. A dobogás ritmusa, mindig kozmikus ritmus! A szeretet állapotának a ritmusa, éltető lüktetése, mely termékenyítő erőként jelenik meg! Földi megfelelője, földi pólusa, a magyarországi "rejtélyes-különös" hegy, a [[P/Pilis\|Pilis]]. Az avatottak számára "hallható" a dobogás, a szív lüktetése e helyen mely biztos "véletlenül" kapta a [[D/Dobogókő\|Dobogókő]] nevet.... A beavatás Orion Nimród, és a révülés-szárnyalás [[A/Aquila\|Aquila]] szent, csillagaira ezért építettek itt kolostorokat és szentélyeket a pálos szerzetesek! Mint már említettem, a pálosok attribútuma a [[H/Holló\|holló]]. Az 1200-as évek közepén, mikor a rend magalakult[^22], a Holló csillagkép az őszi világtengelyen állt. A Nyilas csillagkép Tejút-erők 90°-os, tehát racionalizáló fényszög kapcsolatban álltak, állnak a Holló csillagaival! Az égi barlangból érkező mágikus erők, a földi barlangokban és a mellette-benne lakó szerzetesek szívébe érkeztek!  
-![assets/Galcen_image27.jpeg](/img/user/G/assets/Galcen_image27.jpeg)  
+> ![assets/Galcen_image27.jpeg|840](/img/user/G/assets/Galcen_image27.jpeg)  
 
 #### Jankovics Marcell A fa mitológiája...
 
