@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habsburg/","title":"Habsburg","created":"2023-11-17T07:57","updated":"2025-07-26T21:31"}
+{"dg-publish":true,"permalink":"/H/Habsburg/","title":"Habsburg","created":"2023-11-17T07:57","updated":"2025-09-21T16:19"}
 ---
 
 
@@ -79,7 +79,6 @@ Pap Gábor családi maffiának aposztrofálja a Habsburg bandát, amely a Pragma
 
 Egy kiállítás kincsei – A bécsi Kunstkammer világhírű gyűjteménye vajon még mennyi eltulajdonított magyarországi értéket rejt? címmel Csurka Dóra írt egy cikket:  
 > Évekig tartó felújítási munkálatok után, március 1-jétől újra látogatható a Habsburgok kincseskamrája, a bécsi Kunstkammer. Húsz teremben kétezernél is több rendkívüli arany- és ezüsttárgyat, műkincset csodálhatnak meg az érdeklődők a Habsburgok évszázadokon át tartó gyűjtőszenvedélyének köszönhetően.  
-> ![assets/Habsburg_image1.png](/img/user/H/assets/Habsburg_image1.png)  
 >
 > A nagy művészettörténeti esemény nem feledtetheti, hogy az összesen mintegy nyolcezer darabból álló különleges gyűjtemény háromnegyede továbbra is rejtve marad a nagyközönség elől, mint ahogyan az a tény is, hogy ennek a világviszonylatban is rangos kollekciónak egy részét a 16-17. században ellopott páratlan magyar kincsek alkotják. A tárgyak többségének beazonosítása – gondolom – mára lehetetlen, hiszen a Habsburgok évszázadok óta gondosan ügyeltek arra, hogy az eredetet bizonyító megkülönböztetéseket eltüntessék.  
 > A magyar régmúlt meghamisítása és európai hegemóniájuk biztosítása érdekében loptak, aztán fúrtak, faragtak, kapartak... (Elég csak a Szent Koronán elvégzett barbár műveleteikre – Szűz Mária képének felcserélése Dukasz Mihályéval – vagy a Képes Krónika nekik nem tetsző részeinek kikaparásaira gondolni.)  
