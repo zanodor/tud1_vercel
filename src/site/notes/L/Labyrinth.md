@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2025-05-23T19:21"}
+{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2025-09-21T21:13"}
 ---
 
 
@@ -52,7 +52,7 @@ A témát kifejtve, újraértelmezve lásd még [[L/Love\|love]].
 Egy fontos szót Jankovics Marcell sehol sem említ: a latin-francia-angol [[L/Labour\|labour]] jelentése szülés.  
 
 Dr. Gyárfás Ágnes az Ősi Gyökér 2005/1-2. sz. megjelent Kecskehal című cikkének bevezetőjében említ örvényt és labirintust, mely passzust lásd [[T/Téli napforduló\|téli napforduló]].  
-Majd a folyóirat 58. oldalán ismét szóba kerül, mint állítólagos képjele a Ma, Mah, Mada neveknek, melyeket persze a magyarokkal, népnevükkel hoz kapcsolatba, de inkább földet jelentenek. A labirintus-piktogram így (![assets/Labyrinth_image2.png|invert_dark|18](/img/user/L/assets/Labyrinth_image2.png) – Labat 342) néz ki. Hogy hogyan lehet [[M/Magyar\|Magyar]] istenanya méhének jele, itt most megmondani nem tudom (kontextusban kellene látni, de a sumér kontextus sem sokat segít, ismerve az önkényes jelentés-asszociációs gyakorlatokat). Az 59. oldalon még (érthetetlenül) Magur képjelének is mondja (két piktogramból kellene álljon). Az tény, hogy mindezen dolgokról Kecskehalról szóló cikkében ír és [[M/Makara\|Makara]] címnél elő is jön Magur Bak(hal)ra értve.  
+Majd a folyóirat 58. oldalán ismét szóba kerül, mint állítólagos képjele a Ma, Mah, Mada neveknek, melyeket persze a magyarokkal, népnevükkel hoz kapcsolatba, de inkább földet jelentenek. A labirintus-piktogram így (![assets/Labyrinth_image2.png|fix_dark fix_light|18](/img/user/L/assets/Labyrinth_image2.png) – Labat 342) néz ki. Hogy hogyan lehet [[M/Magyar\|Magyar]] istenanya méhének jele, itt most megmondani nem tudom (kontextusban kellene látni, de a sumér kontextus sem sokat segít, ismerve az önkényes jelentés-asszociációs gyakorlatokat). Az 59. oldalon még (érthetetlenül) Magur képjelének is mondja (két piktogramból kellene álljon). Az tény, hogy mindezen dolgokról Kecskehalról szóló cikkében ír és [[M/Makara\|Makara]] címnél elő is jön Magur Bak(hal)ra értve.  
 Gyárfás Ágnes cikke záró sorában kimondja, hogy a barlang-labirintus az ősanya Boldogasszony méhének szimbóluma, mélytudatunk legrejtettebb pontja; mégsem sikerült a cikkben megfelelően kifejteni, mi is a Bak jelentősége és a Magyar és Magur nevek hogyan és miért jelennek meg keleten.  
 
 Dr. Gyárfás Ágnes egy másik cikkében is szól csigavonalról. [[U/Újév\|Újév]] és [[K/Kalács\|kalács]] címnél ábrával szereplő írását lásd.  
