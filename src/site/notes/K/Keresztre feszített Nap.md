@@ -1,17 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/K/Keresztre feszített Nap/","title":"Keresztre feszített Nap","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-13T03:43","updated":"2025-09-03T15:59"}
+{"dg-publish":true,"permalink":"/K/Keresztre feszített Nap/","title":"Keresztre feszített Nap","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-13T03:43","updated":"2025-09-21T20:51"}
 ---
 
 
 # Keresztre feszített Nap
 
 Számtalan helyen volt róla szó, másutt, [[N/Négy\|négy]] és [[C/Crucifixion\|crucifixion]] (valamint [[C/CSÁR\|CSÁR]]) címnél, és azóta egy [[J/Jézus#Jézus keresztrefeszítése\|Jézus keresztrefeszítése]] cím/alcímet is felvettünk. Legutóbb [[N/Négyszögletes Nap\|négyszögletes Nap]] címnél szerepelt Jankovics Marcell adata.  
-![assets/Keresztrefeszitettnap_image1.png|invert_dark](/img/user/K/assets/Keresztrefeszitettnap_image1.png)  
+
 [[O/Orant\|Orant]] címnél is szerepeltek az alábbiak:  
-A kiterjesztett karú isten ábrázolása megjelenik a maja ábrázolásokban, szimbolikában is. A mellékelt anyag John Major Jenkins Astronomy and Mythology: Reconstructing What 2012 Meant to the Ancient Maya című internetről elérhető cikkéből való. A kitárt kar a keresztre feszített Napot ábrázolja (mivel mayákról van szó, az azték [[Q/Quetzalcoatl\|Quetzalcoatl]] maya párja Itzamma, így hát gondolhatjuk, hogy őt ábrázolja, viszont [[H/Hunahpu\|Hunahpu]] címnél álló infók alapján az Első Atya Hun Hunahpu (Egy Hunahpu)); lényegében az indo-európai tudósok is hasonlóképpen értelmezik (lásd a képek alatti szöveget).  
+A kiterjesztett karú isten ábrázolása megjelenik a maja ábrázolásokban, szimbolikában is. A mellékelt anyag...
+
+#### John Major Jenkins Astronomy and Mythology: Reconstructing What 2012 Meant to the Ancient Maya...  
+
+...című internetről elérhető cikkéből való:  
+> ![Keresztre feszített Nap_image20250921204348953.jpeg|fix_dark fix_light|840](/img/user/K/assets/Keresztre%20fesz%C3%ADtett%20Nap_image20250921204348953.jpeg)
+> *Figure 3. Izapa Stela 67 (left): First Father in the middle of the Milky Way canoe. Compare to Izapa Stela 11 (right): First Father as the December solstice sun deity being reborn from the mouth of the Milky Way jaguar-toad (the dark rift in the Milky Way). Drawings by the author*  
+> *—*  
+> *3\. ábra. Izapa 67. sztélé (balra): Az Első Atya a Tejút-kenu közepén. Összehasonlítva az Izapa 11. sztélével (jobbra): Az Első Atya mint a decemberi téli napforduló napistene, aki újjászületik a Tejút jaguár-békájának szájából (a Tejút sötét hasadéka). A szerző rajzai*
+> 
+> For a third noteworthy element in the ballcourt, we find Stela 67 in the middle of the north wall. (As an aside, immediately above and behind this stela, on a higher tier of the court, we see Stela 69, which, although fragmented, depicts the bird deity fleeing from one of the Hero Twins). Stela 67 is symbolically similar to Stela 11 (which is in Group B), in that they both show a First Father solar deity within a cleft, in an arms-outstretched gesture. On Stela 67, the cleft is the seating declivity of a canoe; on Stela 11 it is the cleft of a toad-jaguar’s mouth. The arms-outstretched gesture is interpreted by iconographers as symbolizing the measuring act performed by one of the primordial First Father deities, and thus is a “period initiator” sign (also conversely thought of as a “period-ending” gesture).  
+> All of this symbolism and astronomy in the Izapa ballcourt points to a rare astronomical alignment that occurs in the years around 2012: *The alignment of the December solstice sun with the “Crossroads” of the Milky Way and the ecliptic, at the southern terminus of the dark rift in the Milky Way*. This is the much-misunderstood “galactic alignment” or “solstice-galaxy” alignment. It is a slow convergence in the sky, caused by the precession of the equinoxes, between the slowly shifting position of the December solstice sun and the sidereal position of the Crossroads. It can also be conceived as the slow descent of the Milky Way, arching overhead, toward the December solstice sunrise at the horizon.  
+> —  
+> A labdapálya harmadik figyelemre méltó elemeként a 67-es sztélét találjuk az északi fal közepén. (Mellékesen megjegyezve, közvetlenül e sztélé fölött és mögött, a pálya egy magasabb szintjén láthatjuk a 69-es sztélét, amely, bár töredékes, a madáristenséget ábrázolja, amint menekül az egyik Hős Ikertől.) A 67-es sztélé szimbolikusan hasonló a 11-es sztéléhez (amely a B csoportban található) abban, hogy mindkettő egy hasadékban, kitárt karokkal ábrázolja az Első Atya napisten alakját. A 67-es sztélén a hasadék egy kenu ülőmélyedése; a 11-es sztélén pedig egy varangy-jaguár szájának hasadéka. A kitárt karú mozdulatot az ikonográfusok úgy értelmezik, mint az egyik ősi Első Atya istenség által végrehajtott mérési aktus szimbólumát, és így egy "időszak-indító" jel (vagy éppen ellenkezőleg, "időszak-lezáró" mozdulatként is értelmezik). Mindez a szimbolika és csillagászat az Izapa labdapályán egy ritka csillagászati együttállásra utal, amely a 2012 körüli években fordul elő: *A decemberi téli napforduló napjának együttállása a Tejút és az ekliptika "útkereszteződésével", a Tejút sötét hasadékának déli végpontjánál*. Ez a sokat félreértett "galaktikus együttállás" vagy "napforduló-galaxis" együttállás. Ez egy lassú égbolti közeledés, amelyet a napéjegyenlőségek precessziója okoz, a decemberi téli napforduló napjának lassan változó pozíciója és az Útkereszteződés sziderikus pozíciója között. Úgy is felfogható, mint a Tejút lassú leereszkedése, amely a fejünk fölött ível, a decemberi téli napforduló napfelkelte felé a horizonton.
+{ #q4gb72}
+
+
+A kitárt kar a keresztre feszített Napot ábrázolja (mivel mayákról van szó, az azték [[Q/Quetzalcoatl\|Quetzalcoatl]] maja párja Itzamma, így hát gondolhatjuk, hogy őt ábrázolja, viszont [[H/Hunahpu\|Hunahpu]] címnél álló infók alapján az Első Atya Hun Hunahpu (Egy Hunahpu)); lényegében az indo-európai tudósok is hasonlóképpen értelmezik (lásd a képek alatti szöveget).  
 (A témáról bővebben lásd [[G/Galactic centre\|Galactic centre]].)  
 
-![assets/Keresztrefeszitettnap_image2.png|invert_dark](/img/user/K/assets/Keresztrefeszitettnap_image2.png)  
 Arról, hogy a négyes felbontás hogyan egyszerűsödik felezésre, lásd [[M/Missera\|missera]], de [[G/Gate\|gate]] címnél is írtuk:  
 A hun-germán `gate` (gát, gátor) szó K-T vázával, kapu jelentésével a két fontos égi kapura kell utaljon; annál is inkább, mert az eget két félgömbre osztó Tejút hun (alakú) neve megszemélyesítve is [[G/Göd\|Göd]] (a [[K/Köd\|köd]] pedig tejet jelent), továbbá [[K/Két\|két]] [[K/Kutya\|kutya]] áll a Tejút két felén. Ezek a fontos K-T vázú szavak egy [[K/Köt\|köt]]ött rendszerre utalnak: melyekhez csatlakozik még [[K/Kétu\|Kétu]] és az a [[C/Cata- prefixum\|cata- prefixum]] is, mely az alsó, vaskori kapura utal.  
 (Ezzel még nem biztos, hogy a gát, gátor utalás a két szavukra, de ahogy [[T/Tehén\|tehén]] és [[M/Missera\|missera]] címnél is szerepelt, a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] négy stációi közül leginkább kettő a fontos, és ez a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengelly]]el azonos két Tejút-kapu.  
