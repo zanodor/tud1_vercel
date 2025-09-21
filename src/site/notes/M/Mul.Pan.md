@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mul.Pan/","title":"Mul.Pan","tags":["Englishtexttranslated"],"created":"2023-10-29T06:48","updated":"2025-06-08T01:42"}
+{"dg-publish":true,"permalink":"/M/Mul.Pan/","title":"Mul.Pan","tags":["Englishtexttranslated"],"created":"2023-10-29T06:48","updated":"2025-09-22T01:45"}
 ---
 
 
 # Mul.Pan
 
-[[P/Pán\|Pán]], [[P/Panther\|Panther]] és [[B/Banana\|banana]] címnél Mul.Ban-ként volt már szó róla. Mivel a [[M/Mulapin\|Mulapin]]-ban Mul.Pan-ként írják ki, maradjunk ennél a formánál.  
+[[P/Pán\|Pán]], [[P/Panther\|Panther]] és [[B/Banana\|banana]] címnél Mul.Ban-ként volt már szó róla. Mivel a [[M/Mulapin\|Mulapin]] csillagkép jegyzékben Mul.Pan-ként írják ki, maradjunk ennél a formánál.  
+
 De hol is volt pontosan ez a csillagkép? Nos, a Mul.Apin adatai alapján kell kikövetkeztetni:  
 > mulPAN diš-tar ELAM.MAtu DUMU.MUNUS dEN.LIL₂ = the Bow: Ištar the Elamite, Enlil's daughter.  
 
@@ -36,7 +37,7 @@ Tehát az Bika után 20 nappal emelkedik Orion, azután 35 nappal a Nyílvessző
 > Bár szorosan kapcsolódik az Íj csillagképhez, a nyilat a babiloni hagyomány mindig külön kezeli. A Nyíl éves kelése a nyári napfordulót jelezte, amikor a Nap a legnagyobb magasságban volt a horizont felett. Valószínűleg azért választották a Nyilat erre a szerepre, mert ez az az ember alkotta tárgy, amely a legmagasabbra képes felnyúlni az égboltra. Hasonlóképpen, a magasan ülő madár, amely gyakran látható a nyíl mellett az ősi művészeti alkotásokon, szintén a Napot jelképezi a legmagasabb pontján.  
 > Íj (Puppis - az Argo fedélzete)  
 > Az Íj Inanna-Ishtart ábrázolja a háború istennőjének és a győzelem adományozójának szerepében. Csillaga a nyár derekán kel fel, amikor a tavasszal megkezdett hadjáratok természetes eredményre jutnak. A mitikus szövegek gyakran írják le az istennőt véres részletességgel a csata kellős közepén.
-- A háború-istennő aspektus sem az eredeti-követendő.  
+- A háború-istennő aspektus sem az eredeti követendő.
 
 A kérdés ugye az, hogy miben különbözik Mul.Ban vagy Mul.Pan a [[S/Szíriusz\|Szíriusz]], [[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]], valamint [[N/Nimrud#Nimrud mint Ninurta\|Nimrud mint Ninurta]] cím/alcímnél taglalt Mul.Kaksisa-tól vagy például a [[K/Khamor\|Khamor]] címnél taglalt Párduc Válla jelentéssel megadott Kumaru-tól.  
 Másutt egyértelműen kimondják:  
@@ -47,7 +48,7 @@ Másutt egyértelműen kimondják:
 > Magát a Szíriuszt az ókori sumérok és az ókori babiloniak is "Nyílnak" nevezték (Britton & Walker 1996; lásd a 2.13. ábrát). A nyílvesszőt nyilvánvalóan Orion íjából lőtték ki.  
 > A babiloni aszterizmust "íjnak és nyílnak" (MUL.BAN, Chapman-Rietschi 1995) nevezték, és a δ CMa csillagot tartalmazta. A Szíriusz volt a nyílhegy csúcsán (Brecher 1979).  
 > A későbbi perzsák a Szíriuszra [[T/Tír\|Tír]]-ként utaltak, ami szintén "a nyílvesszőt" jelentette.  
-- Ez a pártus-perzsa **Tír** felel meg annak az arab **Jauzah**-nak, melyről [[J/Jász\|jász]] címnél volt szó. Mint kiderül, a jász név eredete is ugyanaz, mint a [[S/Szkíta\|szkítá]]é: a nyári napfordulós Nyilazó/Íj csillagkép a névadó.  
+- Ez a pártus-perzsa **Tír** felel meg annak az arab **Jauzah**-nak, melyről [[J/Jász\|jász]] címnél volt szó. Mint kiderül, a jász név eredete is ugyanaz, mint a [[S/Szkíta\|szkítá]]é: a nyári napfordulós Nyilazó/Íj csillagkép a névadó.
 
 A [[N/Ninurta\|Ninurta]] és [[U/UR\|UR]] címnél anyaggal jelentkező ...
 
@@ -55,18 +56,26 @@ A [[N/Ninurta\|Ninurta]] és [[U/UR\|UR]] címnél anyaggal jelentkező ...
 
 ...című az Ősi Gyökér 1999/1-4. sz. megjelent cikkében adatolja Szíriusz általam sosem látott MUL.GAG.BAN nevét (GAG nyilván a [[S/Szíriusz\|Szíriusz]] címnél látott nevekben szereplő KAK-kal azonos):  
 > A Nagy Kutya csillagkép kékesfehér fényben ragyogó csillaga (Canis Maioris) az északi égi égbolt legfényesebb csillaga (**MUL.GAG.BAN**) (Sirius) – amit ma "Tündérfő" név alatt ismerünk – ez vezérelhette a magyarokat a Hadak Útján, ez volt minden bizonnyal a Magyarok Csillaga. Baráthosi-Balogh Benedek szavaival: "Felkél még a magyar égnek ez a legszebb csillaga!"  
-> Záhonyi András csillagképek és égitestek neveit is taglaló Sumer szó- és jeltár című könyvében 47-es jelként előjön `BAN` "Nagy Kutya a Sirius nélkül" olvasatban ill. megjegyzéssel, a fentieknek éppen ellent nem mondó adatként.  
+- Záhonyi András csillagképek és égitestek neveit is taglaló Sumer szó- és jeltár című könyvében 47-es jelként előjön `BAN` "Nagy Kutya a Sirius nélkül" olvasatban ill. megjegyzéssel, a fentieknek éppen ellent nem mondó adatként.  
 
 Ami [[P/Pán\|Pán]] címnél a fenti adatok alapján szerepelt:  
-A Nap megfordításaként értelmezett Pán arra mutathat, [[S/Szómegfordítás\|szómegfordítás]] és [[H/Hunor és Magor#Hunor mint ellen-Nap\|Hunor mint ellen-Nap]] cím/alcímnél írottak alapján, hogy a Nap a nyári napfordulóig Nap (ahogy Magor addig Magor), aztán Pánba/Szíriusz-Orionba (a sumér Mul.Ban ill. Mul.Pan = Íj/Hunor/Hunter csillagkép \[Szíriusz felőli oldala, így is mutatva **Pán "Szíriuszságát"**) érve Pán lesz Napból, ahogy Magorból Hunor (azaz tulajdonképpen [[H/Huny\|Huny]]or).  
+A Nap megfordításaként értelmezett Pán arra mutathat, [[S/Szómegfordítás\|szómegfordítás]] és [[H/Hunor és Magor#Hunor mint ellen-Nap\|Hunor mint ellen-Nap]] cím/alcímnél írottak alapján, hogy a Nap a nyári napfordulóig Nap (ahogy Magor addig Magor), aztán Pánba/Szíriusz-Orionba (a sumér Mul.Ban ill. Mul.Pan = Íj/Hunor/Hunter csillagkép \[Szíriusz felőli oldala, így is mutatva **Pán "Szíriuszságát"**) érve Pán lesz Napból, ahogy Magorból Hunor (azaz tulajdonképpen [[H/Huny\|Huny]]or)\].  
 
-![assets/Mul.Pan_image1.png|invert_dark](/img/user/M/assets/Mul.Pan_image1.png)  
-Az alábbi csatolt kép [[I/Íj csillagkép\|Íj csillagkép]] címről való. Ott is a Nyilasról volt szó. Mi a közel-keleti neve az Íj/Nyíl csillagképnek? Nos, van néhány, amit ismerünk:  
+Az alábbi csatolt kép [[I/Íj csillagkép\|Íj csillagkép]] címtől való. Ott is a Nyilasról volt szó. Mi a közel-keleti neve az Íj/Nyíl csillagképnek? Nos, van néhány, amit ismerünk:  
+![Mul.Pan_image20250828161843631.jpeg|fix_dark fix_light|840](/img/user/M/assets/Mul.Pan_image20250828161843631.jpeg)
+
 A [[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]] címnél taglalt babiloni **MUL.KAK-SI-DI** a Nyílvessző Csillagkép és a szintén babiloni **MUL.BAN** = Ív/[[I/Íj csillagkép\|Íj csillagkép]] a Szíriusz-nyílheggyel (melyről [[B/Banana\|banana]] címnél is volt szó), míg a harmadik a szintén asszír-babiloni, William Tyler Olcott Star Lore of All Ages című anyagában előjövő **Sukudu**, mely megjelenik Szíriuszra utalva az [[I/Íj csillagkép\|Íj csillagkép]] részeként Fáy Elek A magyarok őshona c. könyvének 285. oldalának adata szerint. Ugyanis a [[S/Szkíta\|szkíta]] népnév eredete kapcsán felhozza az ezzel nyilván azonos asszír `sukutu` = nyíl szót. (Ezen infók [[S/Szkíta\|szkíta]] címnél is szerepeltek.)  
-A Mul.Ban sumér-akkád elnevezés és nem az asszír időkből való (ezt bizonyítja, hogy a [[M/MUL\|MUL]] előtét szerepel [[K/Kakkab\|kakkab]] helyett).  
+A Mul.Ban sumér-akkád elnevezés és nem az asszír időkből való.  
+- Ezt bizonyítja, hogy a [[M/MUL\|MUL]] előtét szerepel [[K/Kakkab\|kakkab]] helyett, továbbá [[M/Mulapin\|Mulapin]] helyen is látjuk a számokat indexbe téve, amely eljárás sumér szavakra használt.
 
-Huszárik László Enkidu a Kentaur – a csillagképek nevének eredete című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXVIII./2. sz. megjelent cikke végén a táblázatban is Ban-t az Íjjal/Istárral és a mai Nagy Kutya csillagképpel azonosítja.  
-![assets/Mul.Pan_image2.png|invert_dark](/img/user/M/assets/Mul.Pan_image2.png)  
+Huszárik László Enkidu a Kentaur – a csillagképek nevének eredete című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXVIII./2. sz. megjelent cikke végén a táblázatban is Ban-t az Íjjal/Istárral és a mai Nagy Kutya csillagképpel azonosítja:  
+
+> | Szám | Név       | Jelentés       | Csillagkép            |
+> |------|-----------|----------------|-----------------------|
+> | 6.   | BAN       | Az Íj, Istár   | Nagy Kutya (Canis Major) |
+> | 6.   | DAR.LUGAL | Kakas          | Nyúl (Lepus)          |
+> | 6.   | LU.CHUN.GA| Pásztor        | Szekeres (Auriga)     |
+
 - A 6. szám a kapcsolódó Gilgames-eposz fejezetet jelenti.
 
-Még Indiában is megvannak a nevek köznévként: a több helyen említett szanszkrit `ishu` = nyílvessző mellett a szanszkritban szintén nyílvesszőt jelentő `बाण` (bāṇa) éppen ilyen alakú, mely ugyanígy a hindiben is megjelenik; egy másik szó a hindiben `तीर` (tīr), mely azonos a pártus-perzsa [[T/Tír\|tír]] szóval azonos.  
+Még Indiában is megvannak a nevek köznévként: a több helyen említett szanszkrit `ishu` = nyílvessző mellett a szanszkritban szintén nyílvesszőt jelentő `बाण` (`bāṇa`) éppen ilyen alakú, mely ugyanígy a hindiben is megjelenik; egy másik szó a hindiben `तीर` (`tīr`), mely azonos a pártus-perzsa [[T/Tír\|tír]] szóval azonos.  
