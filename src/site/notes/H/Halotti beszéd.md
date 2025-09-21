@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/H/Halotti beszéd/","title":"Halotti beszéd","created":"2024-12-20T06:52","updated":"2025-06-08T00:44"}
+{"dg-publish":true,"permalink":"/H/Halotti beszéd/","title":"Halotti beszéd","created":"2024-12-20T06:52","updated":"2025-09-21T16:33"}
 ---
 
 
 # Halotti beszéd
 
 A halotti beszéd eredeti szövege a Pray-kódex 136. lapján. Az egyházi szertartáskönyvbe másolt, magyar nyelven írt vendégszöveget tartalmazó lap szövegtörzse két részből áll: itt most csak a 26 soros temetési beszéd szövegét adom:  
-![assets/Halottibeszed_image1.jpeg](/img/user/H/assets/Halottibeszed_image1.jpeg)  
+![assets/Halottibeszed_image1.jpeg|840](/img/user/H/assets/Halottibeszed_image1.jpeg)  
 
 Látjátuk feleim szümtükhel, mik vogymuk: isȧ, por ës homou vogymuk. Mënyi milosztben terömtevé elevé miü isëmüköt Ádámot, ës aduttȧ valá neki pȧrȧdicsumot hȧzoá. Ës mënd pȧrȧdicsumben valou gyimilcsëktűl mondá neki élnië. Hëon tilutoá űt igy fá gyimilcsétűl. Gye mondoá neki, mérët nüm ënëik : isȧ, ki napon ëmdöl az gyimilcstűl, hȧlálnek hȧláláȧl holsz. Hȧdlȧvá holtát terömtevé Istentűl, gye feledevé. Engedé ürdüng intetüinek, ës ëvék az tilvot gyimilcstűl. Ës az gyimilcsben hȧlálut evék. Ës az gyimilcsnek úl keseröü valá vizë, hugy turkokȧt migé szakasztja valá. Nüm hëon mogánek, gye mënd ű fajánek hȧlálut ëvék. Haraguvék Isten, ës vetevé űt ez munkás világ belé: és lëün hȧlálnek ës pukulnek fëszë, ës mënd ű nemének. Kik azok? Miü vogymuk. Hugy ës tiü látjátuk szümtükhel: isȧ, ës nüm igy embër múlhatjȧ ez vermöt, isȧ mënd azhuz járou vogymuk. Vimádjuk Uromk Isten këgyilmét ez lélekért, hugy jorgasson ű neki, ës kegyigy-gyën, ës bulcsássȧ mënd ű bűnét!  
 Ës vimádjok szen\[t\] ȧhszin Máriát és boudog Miháël ȧrhȧngyëlt ës mënd ȧngyëlkot, hugy vimádjanak érëttë! Ës vimádjok szent Pétër urat, kinek adot hatalm oudaniȧ ës këtnië, hugy oudjȧ mënd ű bűnét! Ës vimádjok mënd szentököt, hugy lëgyenek neki segéd Uromk színë eleüt, hugy Isten iü vimádságok miá bulcsássȧ ű bűnét! Ës szobadohhȧ űt ürdüng ildetüitűl ës pukul kínzatujátúl, ës vezessë űt pȧrȧdicsum nyugalmȧ belí, ës adjon neki münyi uruszág belé utat ës mënd jouben részët! Ës kíássátuk Uromkhuz hármúl: kyrie eleison!  
