@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Horse/","title":"Horse","created":"2024-05-16T01:54","updated":"2024-10-25T21:50"}
+{"dg-publish":true,"permalink":"/H/Horse/","title":"Horse","created":"2024-05-16T01:54","updated":"2025-09-21T16:51"}
 ---
 
 
@@ -19,7 +19,7 @@ Azonban le lehet(ett volna) vezetni abból a sumer `assa` = ló szóból is, mel
 Hehezettel és r vendéghanggal toldva eljuthatunk a horse szóhoz. De ez már csak megint játék a szavakkal.  
 
 Csak elrettentésül közlöm a horse szó indo-európai etimológiáját (sok különböző magyar szót bele tudtak zsúfolni; ennél már csak az indo-európai kutyát jelentő szó megoldása cifrább, \*kwon alá minden indo-európai szót képesek voltak bepréselni).  
-![assets/Horse_image1.png|invert_dark](/img/user/H/assets/Horse_image1.png)  
+![assets/Horse_image1.png|fix_dark fix_light|840](/img/user/H/assets/Horse_image1.png)  
 
 Valójában úgy tűnik, hogy az eredete ugyanaz, mint az arab `faraz` = (kanca)ló szónak és végül is a Tejút lóalakjára utal: a [[P/Parázs\|parázs]], [[P/Parád\|Parád]] ([[P/Párd\|párd]] címnél is volt szó lovakról, nemcsak párducról és gepárdról) a kiinduló alapfogalom, melyből P>F>(V)>H vonalon lett h-előhangos szó. Ezek szerint a [[G/Gyors\|gyors]] szavunkkal való azonossága véletlen és a hasonlóság csak abban rejlik, hogy a [[K/Kör\|kör]] és körben [[J/Jár\|jár]]ás fogalmaiban mind megvan az [[A/AR, ÁR\|AR, ÁR]] alapszó.  
 
