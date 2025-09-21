@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated","renameitmaybe"],"created":"2023-10-31T08:16","updated":"2025-08-31T02:07"}
+{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated","renameitmaybe"],"created":"2023-10-31T08:16","updated":"2025-09-21T17:20"}
 ---
 
 
@@ -39,10 +39,9 @@ Az [[A/Avar\|avar]] viszont valóban a [[H/Héber\|héber]] nép(név) eredetét
 Golenya Ágnes a Jakab Istvánnal folytatott ([[J/Jehova-program\|Jehova-program]]ról szóló) beszélgetésében is úgy említi őket, mint azon népet, melyből a későbbi zsidókat "gyártották." (Nos, közben [[S/Szemiták és árják\|szemiták és árják]] címnél írottak alapján jobban látjuk, miről lehetett szó.)  
 Péterfai János lentebbi passzusában is szerepel az azonosítás.  
 
-Kubínyi Tamás Turul és szarvas [című](https://youtu.be/VlJJdkm4AWE) YouTube-os előadás-sorozatának első részében 1:14:37-től kezdve tárgyalja a [[Z/Zsidó\|zsidó]]k valódi kilétét, a hykszoszokat (akik ragozó nyelvet beszéltek[^2]) és [[J/Jeruzsálem\|Jeruzsálem]]et. 1:20:30-nál képi szöveges adat is árulkodik arról, hogy Egyiptomból való kivonulásuk után Jeruzsálemben telepedtek le.  
-![assets/Hykszosz_image1.png|invert_light](/img/user/H/assets/Hykszosz_image1.png)  
+Kubínyi Tamás Turul ![assets/Hykszosz_image1.png|fix_light right|300](/img/user/H/assets/Hykszosz_image1.png)  és szarvas [című](https://youtu.be/VlJJdkm4AWE) YouTube-os előadás-sorozatának első részében 1:14:37-től kezdve tárgyalja a [[Z/Zsidó\|zsidó]]k valódi kilétét, a hykszoszokat (akik ragozó nyelvet beszéltek[^2]) és [[J/Jeruzsálem\|Jeruzsálem]]et. 1:20:30-nál képi szöveges adat is árulkodik arról, hogy Egyiptomból való kivonulásuk után Jeruzsálemben telepedtek le.  
 J. Fitzgerald Lee Josephus Flavius, Plutarkhosz és Eusebius adatai alapján írta ezt le. 1:23:36-nál azt mondja, hogy a [[J/Júda\|Júda]] törzsnek a lakóhelye, a mai Judea, ősi néven, még Kr. 600-ban is Kosként volt számon tartva. A Szentírás jebuzeusoknak, hittitáknak, húroknak (hurrik) nevezi őket. Itt még arról szól Kubínyi Tamás, hogy régen is elismerték, hogy ragozó nyelv a hykszoszok nyelve.  
-Ezen a ponton álljunk meg, ugyanis míg nálam Júda [[K/Kutya\|kutya]] olvasatú volt, addig a kos vagy a kecske is G-T, G-D vázú az árja nyelvb en, de a sémiben is G-D vázú szavakat találni (lásd [[G/GAD\|gad]], [[G/Goat\|goat]] és [[K/Kid\|kid]] címnél). Azt se feledjük, hogy a Kos a keleti állatövben Kutya, továbbá ne feledjük, hogy Zajti Ferenc Zsidó volt-e Jézus című könyvének [[K/KUS\|KUS]] és [[S/Szkíta\|szkíta]] címnél álló adatai[^3] alapján is azt azt a következtetést vontuk le, hogy a kutyának vagy Kut-nak volt Kucs, Kusz, Kus névalakja is, de legalábbis a két név és fogalom együvé látszik tartozni, [[G/Göd\|Göd]] címnél írottak alapján is. A [[K/KUS\|KUS]] az életfa és a Tejútfa, Tejút neve is lehet, ahogy a [[M/MISZ\|MISZ]], mely rendszerben a Kutya-Szíriusz fontos szerepet játszik (és akkor még nem szóltunk a női szemérem és az íj ilyen alakú nevéről).  
+Ezen a ponton álljunk meg, ugyanis míg nálam Júda [[K/Kutya\|kutya]] olvasatú volt, addig a kos vagy a kecske is G-T, G-D vázú az árja nyelvben, de a sémiben is G-D vázú szavakat találni (lásd [[G/GAD\|gad]], [[G/Goat\|goat]] és [[K/Kid\|kid]] címnél). Azt se feledjük, hogy a Kos a keleti állatövben Kutya, továbbá ne feledjük, hogy Zajti Ferenc Zsidó volt-e Jézus című könyvének [[K/KUS\|KUS]] és [[S/Szkíta\|szkíta]] címnél álló adatai[^3] alapján is azt azt a következtetést vontuk le, hogy a kutyának vagy Kut-nak volt Kucs, Kusz, Kus névalakja is, de legalábbis a két név és fogalom együvé látszik tartozni, [[G/Göd\|Göd]] címnél írottak alapján is. A [[K/KUS\|KUS]] az életfa és a Tejútfa, Tejút neve is lehet, ahogy a [[M/MISZ\|MISZ]], mely rendszerben a Kutya-Szíriusz fontos szerepet játszik (és akkor még nem szóltunk a női szemérem és az íj ilyen alakú nevéről).  
 Kubínyi Tamás még a hykszosz név etimológiája kapcsán is előjön Kos-os formával, de az egy furcsa ferdítés lehet.  
 Elmondja még, hogy a személyesen helyszínen járó [[H/Hérodotosz\|Hérodotosz]] a kánaáni területen egyetlen sémi népet sem nevez meg (mindez i.e. 450 körül). Firdauszi közléseit is említi.  
 [[S/Szutek\|Szutek]] címnél (többek között) az állt, hogy a keta/hykszoszi-egyiptomi napisten [[S/Széth\|Széth]]tel azonos lehetett (valójában a süt <> set/söt ellenpárt inkább láttatja).  
@@ -54,7 +53,7 @@ Elmondja még, hogy a személyesen helyszínen járó [[H/Hérodotosz\|Hérodoto
 
 [Ezen](https://youtu.be/veRiCjnJ_YQ) Jeruzsálem ősi neve című ÁKTV műsorban Kubínyi Tamás 1:22:00 után a név esetleges alternatív alakjait ízlelgetve Gis-Kus formát is említ, mely már ugye Kus Fia Nimród összefüggést takarhatna, de itt Kubínyi Gis-Kus = Király Szkíta értelemmel jön elő.  
 Itt még elmondja, hogy visszacsapó nyilat és különleges nyílhegyeket használtak. Lóvontatású harci szekerei voltak abban az időben, amikor másnak ilyen nem volt. Egyiptomi faliképek örökítették meg a hykszoszokat.  
-![assets/Hykszosz_image2.jpeg](/img/user/H/assets/Hykszosz_image2.jpeg)  
+![assets/Hykszosz_image2.jpeg|840](/img/user/H/assets/Hykszosz_image2.jpeg)  
 Josephus Flaviuson kívül Eusebius, Plutarkosz és az újabbak között Fitzgerald Lee neveit említi, akik a hykszoszokkal foglalkoztak. Említi [[A/Avarisz\|Avarisz]] várost és az [[A/Avar\|avar]] nevet, majd a háborúskodás utáni Jeruzsálem felé való kivonulást.  
 Ezek az események a bibliai Exodussal egybevágóak, és a Kubínyi Tamás által ezen műsorában irodalomként használt,...  
 
