@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fekete lyuk/","title":"Fekete lyuk","tags":["Englishtexttranslated"],"created":"2023-11-18T08:58","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/F/Fekete lyuk/","title":"Fekete lyuk","tags":["Englishtexttranslated"],"created":"2023-11-18T08:58","updated":"2025-09-21T11:55"}
 ---
 
 
@@ -23,10 +23,10 @@ Ha a fekete lyuk ősmagyar nyelvű megfelelőjét keresnénk, a [[H/Hue\|hue]] (
 Fekete lyukat is érintő passzust Jankovics Marcelltől lásd [[T/Téli napforduló\|téli napforduló]]. Magánál [[L/Lyuk\|lyuk]] címnél is szóba került.  
 Dr. Gyárfás Ágnes az Ősi Gyökér 2005/1-2. sz. megjelent Kecskehal című cikkének bevezetőjében említ örvényt és labirintust, mely passzust lásd szintén [[T/Téli napforduló\|téli napforduló]] címnél.  
 
-[[T/Tejút\|Tejút]] címnél is szerepelt:  
-Mellesleg számomra hatalmas rejtély az **Architeuthis** óriás[[P/Polip\|polip]][^1] neve. Ha az Architeuthis feltekeredik, akkor pontosan olyan, mint egy spirális galaxis kinézete \[sőt, a képen szépen látszik a fekete lyukként mutatkozó [[S/Száj\|száj]]a (ami a [[V/Vulva\|vulva]] ugye) is\].  
-
-![assets/Feketelyuk_image1.jpeg|invert_light](/img/user/F/assets/Feketelyuk_image1.jpeg)  
+[[T/Tejút\|Tejút]] címnél is szerepelt Péterfai János sora:  
+> Mellesleg számomra hatalmas rejtély az **Architeuthis** óriás[[P/Polip\|polip]][^1] neve. Ha az Architeuthis feltekeredik, akkor pontosan olyan, mint egy spirális galaxis kinézete.  
+- Sőt, a képen szépen látszik a fekete lyukként mutatkozó [[S/Száj\|száj]]a (ami a [[V/Vulva\|vulva]] ugye) is.
+![Fekete lyuk_image20250921115413960.jpeg|840](/img/user/F/assets/Fekete%20lyuk_image20250921115413960.jpeg)
 
 #### Péterfai János írja:
 
