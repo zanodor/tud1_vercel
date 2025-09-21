@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/IL/","title":"IL","tags":["titleandheadingonedontmatch"],"created":"2025-09-18T15:19","updated":"2025-09-18T15:20"}
+{"dg-publish":true,"permalink":"/I/IL/","title":"IL","tags":["titleandheadingonedontmatch"],"created":"2025-09-18T15:19","updated":"2025-09-21T17:30"}
 ---
 
 
@@ -13,8 +13,7 @@ Olyan nevekben, szavakban szerepel, mint [[I/Ilona\|Ilona]], illan és illik. [[
 IL nyilvánvalóan az [[E/ÉL\|ÉL]] (mely igeként Él Isten nevéből ered) változata. Az [[E/Élet\|élet]] címnél taglalt, [[N/Nevel és növel#Növel és emel\|növel és emel]] cím/alcímnél is említett latin `elatus` = emelkedett, magas, magasztos az [[E/EL\|EL]]/IL = magas értelméből indul ki, hiszen az élet fentről jön, többszörösen is (lélek a Tejútról, napfény a Naptól).  
 A baszk nyelvben `hil`, `il` = meghalni.  
 
-![assets/IL_image1.png|invert_dark right|66](/img/user/I/assets/IL_image1.png)  
-A [[D/Dél\|dél]] szót Dudás Rudolf a DÉ alapszóból, (UD)-DÉ-IL tagokra bontással fejti meg: a felemelkedett Nap jelentéssel, ahonnan az [[U/UD\|UD]] = Nap előhangja kikopott, és `IL` = magas értelműnek vett. Lásd piktogramját csatolva.  
+A [[D/Dél\|dél]] ![assets/IL_image1.png|fix_dark fix_light right|60](/img/user/I/assets/IL_image1.png)  szót Dudás Rudolf a DÉ alapszóból, (UD)-DÉ-IL tagokra bontással fejti meg: a felemelkedett Nap jelentéssel, ahonnan az [[U/UD\|UD]] = Nap előhangja kikopott, és `IL` = magas értelműnek vett. Lásd piktogramját csatolva.  
 
 #### Magyar Adorján írja:
 
