@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2025-08-27T03:05"}
+{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2025-09-22T01:40"}
 ---
 
 
@@ -36,7 +36,12 @@ A hindu holdház [[A/Anuradha\|Anuradha]] istensége Mitra, mely rámutathat, ho
 Érdekessége még a holdháznak, hogy amellett, hogy istensége Mitra, szimbóluma pedig a [[L/Lótusz\|lótusz]] (lásd lótusz-szülésről is ott), mely fontos jelkép: nyilvánvalóan a (Zarathustra/Buddha/Jézus-)Napot szülő Tejútanyáról van szó. További egyezés lehet, hogy a görög [[M/Metro\|metro]] = anyaméh[^1] jelentést hordoz (egy másik (a három anyaméhet jelentő) görög szó (közül) a (`delphus`-on kívül) a görög `hustera` [[I/Istár\|Istár]] neve nyomán ered).  
 Viszont a Tejútközpontot [[M/Mula\|Mulá]]ban találjuk, tropikus értelmezés szerint. Kifejtve lásd [[G/Galactic centre\|Galactic centre]].  
 Nehéz volt/lenne elengedni a tényt, hogy Anu neve a Tejútközponthoz kapcsolható legyen, annál is inkább, mert majdnem Anu, Aña előjön az Amazonas északnyugati régiójában, a brazíliai tukano indiánoknál is: Aña nevezetű a Skorpió-Nyilas felőli égtáj az alábbi adatok szerint.  
-![assets/Mithra_image1.png|invert_dark](/img/user/M/assets/Mithra_image1.png)  
+
+| Name | Animal    | Western Constellation | Time of Year                                                     |
+| ---- | --------- | --------------------- | ---------------------------------------------------------------- |
+| Aña  | Jararaca  | Scorpio / Sagittarius | September, October and November – from late November to December |
+| Pamõ | Armadillo | Aquila / Dolphin      | December                                                         |
+*Tukano constellations with non-indigenous correspondence / Tukano csillagképek nem őslakos párhuzamokkal*
 
 (Az "angolként" megadott Jararaca jelentés alatt egy tupi nyelven megfejtett nagy vipera féle kígyót kell érteni. A [[K/Kígyó\|kígyó]] a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]] is, de épp az önmagából megújulás jelképe is.)  
 Mivel a tukanóknál is december előtti téridő-régióról van szó, ezért "meg van bocsájtva" az indeknek. Mindjárt ki is derül, miért.  
@@ -49,12 +54,12 @@ A Mithra névhez visszatérve igen hasonló, sőt azonos alakú és kiejtésű v
 Ez a villa tehát a [[G/Galactic centre\|Galactic centre]] és [[S/Sziget\|sziget]] címnél képen is ábrázolt égi területen keresendő.  
 Az észt `hang` és finn `hanko` = vasvilla szavak azért érdekesek, mert egyező alakúnak mondhatók velük a [[H/Honey\|honey]] címnél álló méz jelentésű szavak, továbbá a germán [[H/Hang#Hang 2)\|hang]] = felakaszt szó is (de arról is lehet beszélni, hogy az [[A/Angel\|angel]] = angyal eredete is lehet hang szavunk és persze arról is, hogy a [[T/Toll#Toll 2)\|toll]], [[G/Göd\|Göd]] és más címnél rajzolt [[A/Ágas\|ágas]] és akaszt szavunk is összefüggenek, illetve hogy a hangvilla lehetett-e ősi magyar eszköz).  
 Na mármost [[T/Travail\|travail]] címnél legutóbb szintén szerepelt a háromágúnak mondott `tripalium`-ot ábrázoló kínzóeszköz, mely nyilvánvalóan egyezik a [[T/Tejút\|Tejút]] [[I/Iszter\|Ister]]/[[E/Eszter\|Eszter]]/Ösztör nevéből alkotott [[O/Ösztörű\|ösztörű]] szavunkból származónak vélt görög `sztaurósz` = áldozati karó, kereszt és a [[F/Furka\|furka]] ("Széth furkája") rendeltetésével is (ismét ne feledjük, hogy a görög `hustera` = méh jelentésű). [[C/Crucifixion\|Crucifixion]] és [[O/Önfeláldozás\|önfeláldozás]] címnél írottak alapján tudjuk, hogy a kínzóeszközök eredetileg Naphősök számára fából készült tákolmányok voltak és melyek előképe az égen keresendő és ezennel meg is találtuk.  
-![assets/Mithra_image2.jpeg|invert_dark](/img/user/M/assets/Mithra_image2.jpeg)  
+![assets/Mithra_image2.jpeg|fix_light](/img/user/M/assets/Mithra_image2.jpeg)  
 Még azt is mondhatjuk ezennel, hogy úgy a germán [[H/Hang#Hang 2)\|hang]] ige, mint az említett ilyen alakú finnségi szavak az [[A/Ankh\|ankh]] = kereszt szóval is azonosíthatók lehetnének. Az is nyilvánvalóvá válik, hogy [[J/Jézus\|Jézus]] keresztje és halálának mikéntje, az [[O/Ördög\|ördög]] vasvillája és a kereszt Y és T alakjai (lásd még róluk [[S/Székely-magyar rovásírás\|székely-magyar rovásírás]]) is mind asztrális eredetűek.  
 A szavak arról árulkodnak, hogy a Nap égi pályáján azon pontra ér, amikor haldoklik, majd feltámad. Ezért is fontosak az Richard H. Allen által eufráteszinek adatolt, [[A/Anu\|Anu]] címnél említett Anu Nibat (a Sagittarius alfája lenne), az ind Anuradha és a tukanó Aña nevei, de tovább mehetünk az [[A/Annual\|annual]] és [[J/Janus\|Janus]] címnél előjövő szóformákkal is, melyek mind arra utalnak, hogy az év vége (halál) és az újév (feltámadás) jelzőhatárához érkezünk. [[O/Ötven\|Ötven]], [[H/Hekate\|Hekate]], [[T/Trivial\|trivial]] és más címnél szereplő adatok alapján lassan elegendő adat áll rendelkezésre egyszer és mindenkorra helyre tenni a dolgokat.  
 
 Joscelyn Godwin Arktos The Polar Myth című könyvének 162. oldalán lévő adata szerint a zoroasztianizmusban Mithra megjelenik poláris istenként, minthogy ([[A/Apolló\|Apollón]]hoz és [[A/Arthur\|Arthur]]hoz hasonlóan szoláris de hyperboreai-poláris istenként) az iráni `Hara` Albordzs [[V/Világhegy\|Világhegy]]en, illetve a felett lakik.  
-- Ehhez annyit, hogy Jankovics Marcell adatai szerint a [[N/Nap – halott Nap\|Nap – halott Nap]] (de innen feltámadó is!) lakóhelyének képzeltetett az északi Sarkcsillag. Mithra viszont nem halottt Nap, hanem épp a feltámadó, fiatal Nap kell legyen.  <br/>
+- Ehhez annyit, hogy Jankovics Marcell adatai szerint a [[N/Nap – halott Nap\|Nap – halott Nap]] (de innen feltámadó is!) lakóhelyének képzeltetett az északi Sarkcsillag. Mithra viszont nem halottt Nap, hanem épp a feltámadó, fiatal Nap kell legyen. <br/>
 Az tény, hogy (főleg a hanyatló tudású népek számára) kellett egy olyan isten is, aki a Föld tengelyforgásáért felelős, mely forgás valóban független a Nap körül végzett forgásunktól. Ha egyáltalán a lehanyatlott tudású népek tudták-e, hogy valójában nem a Nap kering a Föld körül, hanem fordítva. Rengeteg problémát okoz, hogy a hanyatlott tudású népek adatai alapján és az azt értelmező indo-európai kutatók alapján kell okosnak lennünk. Ezért kell mindig a nevek jelentése és a feltételezett eredeti funkciójuk alapján magunknak (magyar kutatóknak) mindent újraértelmezni, helyre tenni.  
 Amennyiben Mithrában tehát a szuperkozmikus, mindenféle világtengelyek hajtásáért felelős Sarkcsillag felett lakó Istent látják, mint a Teremtő (Ten) Isten (egyik megnyilvánulásá)t, ám legyen, de ő – dualisztikus világképben csak az egyik szereplő, így szükségszerűen együtt kell említeni másik társával, aki, ha igaz, Varuna.  
 
@@ -94,9 +99,8 @@ Neve a babiloni [[M/Marduk\|Marduk]]éhoz hasonlóan (Mit/MISZ-Ra felbontás ill
 
 Új, [[M/MISZ\|MISZ]]-nél taglalt információk szerint szabályos SZ>T változással MIT is fehér, fényes, stb. jelentéseket takar, mely szépen összevágni látszik a reggeli, dél felé, azaz ereje teljébe tartó Nap minőségének deskripciójával.  
 
-![assets/Mithra_image3.png|invert_dark](/img/user/M/assets/Mithra_image3.png)  
-
-Ha már Napminőségekről van szó, Jankovics Marcell A Nap könyve c. könyvének [[H/Háromszögletű Nap\|háromszögletű Nap]] címnél is szereplő adata szerint az ókori Egyiptomban [[N/Négy\|négy]] Napot azaz Napminőséget különböztettek meg: a kelő, delelő és a lenyugvó Nap alkotta a nappali triászt, mely kiegészült az éjszakai (halott: lásd [[N/Nap – halott Nap\|Nap – halott Nap]]) napisten személyével. Magyar analógiája is létezik mindennek. Beszámol ugyanis biz. Bosnyák Sándor arról, hogy a szegedi házhomlokzatok, tetők mintázatában "a szegedi parasztok a napfelkeltét, a delelést, a napnyugtát, a alul a zárt rekeszekben az éjszakát látják."
+Ha már Napminőségekről van szó, Jankovics Marcell A Nap könyve c. könyvének [[H/Háromszögletű Nap\|háromszögletű Nap]] címnél is szereplő adata szerint az ókori Egyiptomban [[N/Négy\|négy]] Napot azaz Napminőséget különböztettek meg: a kelő, delelő és a lenyugvó Nap alkotta a nappali triászt, mely kiegészült az éjszakai (halott: lásd [[N/Nap – halott Nap\|Nap – halott Nap]]) napisten személyével. Magyar analógiája is létezik mindennek. Beszámol ugyanis biz. Bosnyák Sándor arról, hogy a szegedi házhomlokzatok, tetők mintázatában "a szegedi parasztok a napfelkeltét, a delelést, a napnyugtát, a alul a zárt rekeszekben az éjszakát látják."  
+![assets/Mithra_image3.png|fix_light](/img/user/M/assets/Mithra_image3.png)  
 
 #### Jankovics Marcell írja:
 
@@ -111,7 +115,7 @@ Walter Cruttenden írja:
 > According to Michael S. Heiser, a [[C/Cuneiform\|cuneiform]] scholar of the highest magnitude, the Sumerians said the celestial object "Nibiru" drove precession.  
 > —  
 > Michael S. Heiser, a legnagyobb nagyságrendű ékírás tudós szerint a sumérok szerint a "Nibiru" nevű égi objektum vezérelte a precessziót.  
-- Ez a Heiser nem (vagy csak kezdetben?) volt [[S/Sitchin, Zecharia\|Sitchin, Zecharia]]-követő; ő volt az, aki tézisét támadta: lásd [[N/Nibiru\|Nibiru]]; ahol arról is szó esik, hogy nem igazán objektumról van szó.  <br/>
+- Ez a Heiser nem (vagy csak kezdetben?) volt [[S/Sitchin, Zecharia\|Sitchin, Zecharia]]-követő; ő volt az, aki tézisét támadta: lásd [[N/Nibiru\|Nibiru]]; ahol arról is szó esik, hogy nem igazán objektumról van szó. <br/>
 Nem győzöm azt sem hangsúlyozni, hogy egy 120 éves perzsa-angol szótárban olyan természetességgel áll dog címnél a Szíriusz és maga Sirius címnél is a helyén, mintha csak egy perzsa fűszer neve lenne! (Lásd képecskéket róla [[S/Szíriusz Iránban\|Szíriusz Iránban]].) 
 
 #### Karcagi Oláh Imre Külföldi és magyar írók a magyar mitológiáról...
@@ -135,10 +139,10 @@ Az angol nyelvű wiki oldalon szintén a rejtélyes Ikrek kapcsolata van kihangs
 > —  
 > A Rigvéda 5.3.1-ben ez áll: "A Rigveda 10.8.5: "Te leszel a nagy `ṛta` \[= az avesztai `aša`\] szeme és védelmezője – te leszel Varuṇa, mivel ṛta nevében lépsz be, te leszel [[A/Apam Napat\|Apām Napāt]]"." Továbbá, a Savitṛval kapcsolatban a Kauṣītaki-Brāhmaṇa 18.9. azt mondja: "Amikor a \[sun\] elsüllyed a vízben, Varuṇa lesz belőle". Varuṇát ezenfelül úgy szólítják meg, mint "a vizek gyermeke" (`apām śiśur`, Vājasaneyisaṃhitā 10.7, lásd H. Lüders, Varuṇa, Göttingen, 1951-59, I, 50-51. o.), és rendszeresen a vízzel hozzák kapcsolatba, és a tenger istenének tekintik (ibid., 9. o.). \[Forrás: Apam Napat, Encyclopedia Iranica\]  
 
-![assets/Mithra_image5.png|invert_dark](/img/user/M/assets/Mithra_image5.png)  
+
 A fentieket megoldani látszanak a [[T/Tetra\|tetra]] címnél írottak, amihez annyit kell hozzátenni, hogy Misz-Ra felbontásban nemcsak a [[M/MISZ\|MISZ]] etimont, az angolszász [[M/Missera\|missera]] = fél év nevet, de a [[M/Miss#Miss 2)\|miss 2)]] igét, [[M/Misery\|misery]] szó értelmét is megfejti. A háttérben valóban Napminőségek állnak és semmi több. Mithra naggyá nőtte ki magát Perzsiában és Rómában is, de Misz-Ra nem jelent mást mint ereje teljében lévő Napot a napi, 24 órás viszonylatban, ugyanezt a Kis Évben és, bár a precessziós Nagy Évre vonatkozóan nincs adatunk, feltételezhetjük [[M/MISZ\|MISZ]] etimon és [[M/Missera\|missera]] jelentései alapján, hogy jelentheti az "erős ág" 12960 évét. Hogy Varuna illetve Apam Napat miféle módon alkalmasak ellenpárként, egyelőre nem is érdekes.  
 Mivel Mithra így a halált túlélő, feltámadó Nap megszemélyesítője, ugyanolyan kultikus ember-szerep is kijárt neki, mint [[G/Győző\|Győző]]-Jézusnak, Krishnának és bármely más táltosnak, aki magát szimbolikusan feldaraboltatta. A [[M/Mithra és a bika\|Mithra és a bika]] története így akár lehet asztrális és tellurikus-táltosi is. Persze leginkább itt mindegyik esetében megszemélyesített Napminőségekről van szó. Magyar párjait lásd Vertráb József Kadocsa tolmácsolásában [[T/Turul\|Turul]] és [[U/Ullu\|Ullu]].  
-[[N/Nibiru\|Nibiru]] címnél sárga táblázatban szerepel Várkonyi Nándor adata, miszerint Nibiru is Napminőség-név: a delelő, tűző Nap neve.  
+[[N/Nibiru\|Nibiru]] címnél szerepel Várkonyi Nándor adata, miszerint Nibiru is Napminőség-név: a delelő, tűző Nap neve.  
 
 Legutóbb [[M/Missera\|missera]] átírásában is kiderült, hogy missera és Mithra egy és ugyanaz kifejezés. Mithra értelme alapján missera pedig növekvő fénytartományt jelenti, de csak kétfelé, nem négyfelé osztásról van szó (Mithra konkrétan reggeli Napként egy negyed körcikkelyt kellene megszemélyesítsen, bár [[V/Varuna\|Varuná]]val ikert alkotva mégiscsak feles tagolású lehet).  
 Ugyanerről szól Jankovics Marcell Robert Graves-re utalva:  
