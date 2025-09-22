@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated","titleandheadingonedontmatch"],"created":"2023-11-09T05:11","updated":"2025-07-19T00:55"}
+{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated","titleandheadingonedontmatch"],"created":"2023-11-09T05:11","updated":"2025-09-22T21:13"}
 ---
 
 
@@ -69,8 +69,7 @@ Lásd még [[P/Pilis\|Pilis]], mindenképpen Jankovics Marcell írását is [[P/
 > Sometimes with this "cord" the rod is associated; and those who have read the trial of Father Gerard, for his seduction of Miss Cadiere under a saintly guise, will know that Christianity does not always go hand in hand with propriety.  
 > With the Hindu custom compare that which was done by Liber on the grave of Prosumnus (Arnobius adversus Gentes, translated by Bryce and Campbell, T. and T. Clark, Edinburgh, pp. 252, 253), which is far too gross to be described here; and as regards the sanctity of a stone whose top had been anointed with oil, see first sentence of paragraph 39, ibid., page 31. The whole book will well repay perusal.  
 > —  
-> \[Ez az ábra\] a keleti falvakban oly gyakori kör alakú és függőleges követ ábrázolja. A kettő a férfit és a nőt jelöli.  
-> ![assets/Phallic_image1.png](/img/user/P/assets/Phallic_image1.png)  
+> \[Ez az ábra\] a keleti falvakban oly gyakori kör alakú és függőleges követ ábrázolja. A kettő a férfit és a nőt jelöli.   ![assets/Phallic_image1.png|fix_dark fix_light right|200](/img/user/P/assets/Phallic_image1.png)
 > Egy Indiában élő orvos barátom elmondta, hogy látott már nőket az alsó kőre felszállni, és tiszteletteljesen leülni az egyenesre, miután előbb megigazították a ruhájukat, hogy az ne zavarja őket a miniatűr obeliszkkel való tökéletes érintkezésben. Ülés közben mintha egy rövid ima suhant volna át az imádkozók ajkán, de az egész ügynek hamarosan vége lett.  
 > Ha már ennél a témánál tartunk, joggal hívjuk fel a figyelmet arra a tényre, hogy a Teremtő élő és **szervetlen képviselőit is használták már a nők ugyanilyen határozott céllal**. Az uralkodó gondolat az, hogy az emblémával, az istenség evilági képviselőjével való érintkezés önmagában áldást ad. Ahogyan sok hindu nő a saját jóniját a felszentelt lingára helyezve keres jótékony hatást, úgy néhányan a maharadzsák szektájának bizonyos főpapjaival való érintkezést Visnu megtestesülésének tekintik, és fizetnek azért a kiváltságért, hogy az isten házastársaivá váljanak.  
 > Egyiptomban, ahol a kecske szent állat volt, voltak vallásos nők, akik a kecskével egyesülve keresték a szerencsét. Hallottunk olyan brit vallásprofesszorokról, akik arra próbálták rávenni a bűnbánóikat, hogy a tisztaságot olyasmivel szerezzenek, amit mások bemocskolásnak és szégyennek neveznének. A "Szent Ferenc zsinórja" pedig a kőből készült "linga" helyébe lép.  
@@ -122,8 +121,7 @@ Fentebb volt már szó istenszobrokról és a szóeredeztetés kapcsán arról, 
 > Eszünkbe kell azonban mindez juttassa azt is, hogy a cölöp, oszlop nem csupán a hímtag jelképe volt, hanem jelképezte magát a hímistenséget is, azaz a besenyőknél tehát Peter, Petur vagy Peszer, Beszer-aba Napistent is.  
 - Phallosz esetében itt nyilván a [[P/Palóc\|palóc]] napisten nevét kell keresni.
 
-> Hogy a legrégibb hímistenség-szobrok egyszerű cölöpök is voltak, ezt a görögök történelméből is tudjuk E jelképes cölöpöknek utóbb fejet is faragtak de eleintén csak simát, arcábrázolat nélkül, ami által azonban az ilyen cölöp avagy oszlop, ha akár fából akár kőből való volt is, úgy emberi alakot, mint hímtagot is jelképezhetett Az ilyen cölöpök, azaz tehát bálványok (idolus) feje a besenyőknél természetesen csöpp- azaz csúp (csúcs, csúcsos) alakúra voltak faragva s ilyeneket népünk például kapuoszlopokul ma is készít és "kapubálvány"-oknak nevezi is Ezek némelyike nem csak gazdagon faragásos, hanem rajta a faragások színesen festettek is. Az olyanok pedig amelyeken fönt még egy kis bemetszés is van, ma is amellett tanúskodnak, hogy a hímtag ábrázolatai, azaz helyesebben csak jelképei voltak.  
-> ![assets/Phallic_image2.jpeg](/img/user/P/assets/Phallic_image2.jpeg)
+> Hogy a legrégibb hímistenség-szobrok ![assets/Phallic_image2.jpeg|fix_dark fix_light right|300](/img/user/P/assets/Phallic_image2.jpeg)egyszerű cölöpök is voltak, ezt a görögök történelméből is tudjuk E jelképes cölöpöknek utóbb fejet is faragtak de eleintén csak simát, arcábrázolat nélkül, ami által azonban az ilyen cölöp avagy oszlop, ha akár fából akár kőből való volt is, úgy emberi alakot, mint hímtagot is jelképezhetett Az ilyen cölöpök, azaz tehát bálványok (idolus) feje a besenyőknél természetesen csöpp- azaz csúp (csúcs, csúcsos) alakúra voltak faragva s ilyeneket népünk például kapuoszlopokul ma is készít és "kapubálvány"-oknak nevezi is Ezek némelyike nem csak gazdagon faragásos, hanem rajta a faragások színesen festettek is. Az olyanok pedig amelyeken fönt még egy kis bemetszés is van, ma is amellett tanúskodnak, hogy a hímtag ábrázolatai, azaz helyesebben csak jelképei voltak.  
 
 ## Ízisz és Ozirisz phallosza
 
@@ -172,7 +170,7 @@ Itt Bauvalt nem értem, mert Falvay Károly lentebb szereplő adatsora alapján 
 
 [[I/Ízisz#Ízisz és Ozirisz phallosza és általa való megtermékenyítése\|Ízisz és Ozirisz phallosza és általa való megtermékenyítése]] cím/alcímnél már elővezettük.  
 Két ízben találkozhatunk Ozirisz phallosszával Ízisz történetében. Először még a Széth általi feldarabolás előtt, majd után.  
-![assets/Phallic_image3.png](/img/user/P/assets/Phallic_image3.png)  
+![assets/Phallic_image3.png|fix_dark fix_light|840](/img/user/P/assets/Phallic_image3.png)  
 
 #### Falvay Károly Nagyboldogasszony...  
 
@@ -190,8 +188,10 @@ Ezen téma lehetséges téridőbeli jelentősége miatt bekerült [[S/Szűz csil
 
 > Isis a megtalált Oziris testének egy darabját a szertartás követelményeinek megfelelően eltemette. Elkészítette a phallosz másolatát is és nagy szertartással beszentelve, a helyére tette. Mindennek a törvényes szertartásos folyamatát Anubisz a balzsamozó pap szerepkörében el tudta végezni, mert összeállította azokat, mint egy múmiát, átváltoztató mágiával szorosan bepólyázva, vászon szalagokba. Ekkor Oziris kezdett feléledni az Örökkévalóság, az Örök Időtlenség szereplőjének.  
 
-![assets/Phallic_image4.jpeg|invert_light](/img/user/P/assets/Phallic_image4.jpeg)  
-Egy másik hasonló jellegű kép Bakos Attila A Duna Evangéliuma című könyvének 266. oldalán jött elő (én itt már egy jobb minőségű képet közlök). A képaláírás szerint a haldokló Ozirisz, akit bátyja Széth ölt meg, átadja isteni magvát feleségének Ízisznek – egyiptomi őstantrikus ábrázolás a Kr.e. IV. századból.  
+Egy másik hasonló jellegű kép Bakos Attila A Duna Evangéliuma című könyvének 266. oldalán jött elő:  
+![assets/Phallic_image4.jpeg|fix_light|840](/img/user/P/assets/Phallic_image4.jpeg)  
+*A haldokló Ozirisz, akit bátyja Széth ölt meg, átadja isteni magvát feleségének Ízisznek – egyiptomi őstantrikus ábrázolás a Kr.e. IV. századból.*  
+
 Bakos Attila más hasonló jellegű képeit lásd tantrikus-fallikus vonalon [[G/Geb\|Geb]].  
 
 A phallosz másolatáról [[I/Íj csillagkép\|Íj csillagkép]] és [[O/Ötven\|ötven]] címnél már volt szó.  
