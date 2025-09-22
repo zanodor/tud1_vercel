@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pogácsa/","title":"Pogácsa","created":"2025-03-08T20:43","updated":"2025-03-08T20:44"}
+{"dg-publish":true,"permalink":"/P/Pogácsa/","title":"Pogácsa","created":"2025-03-08T20:43","updated":"2025-09-22T21:27"}
 ---
 
 
@@ -14,5 +14,4 @@ Megegyezik vele az olasz-angol [[F/Focaccia\|focaccia]]. A görögben is `phóg`
 #### Gyárfás Ágnes Hattyú vitéz...  
 
 ...című az Ősi Gyökér 2015/3-4. sz. megjelent meseelemzésében szerepel az alábbi:  
-> A remeték Thébai Szent Pál utódai a krisztusi tanítások sértetlen továbbadói. Az évszázadok alatt mindig barlangokban és a barlang elé állított leveles-gallyas-folyondáros kalibákban éltek. Melkizédek rendjének rítusát őrizték: révültek, tanítottak, gyógyítottak, kereszteltek, áldottak. Szent Mihály napján bementek a városba és a gyermekeknek kis kenyérkéket (pogácsa) osztogattak. Ennek tetejét bevagdosták MAG jelkép formájára. A gyerekek a ropogós kockákat vidáman rágcsálták.  
-> ![assets/Pogácsa_image1.jpeg|invert_dark](/img/user/P/assets/Pog%C3%A1csa_image1.jpeg)  
+> A remeték Thébai Szent Pál utódai a krisztusi tanítások sértetlen továbbadói. Az évszázadok alatt mindig barlangokban és a barlang elé állított leveles-gallyas-folyondáros kalibákban éltek. Melkizédek rendjének rítusát őrizték: révültek, tanítottak, gyógyítottak, kereszteltek, áldottak. Szent Mihály napján bementek a városba és a gyermekeknek kis kenyérkéket (pogácsa) osztogattak. Ennek tetejét bevagdosták MAG jelkép ![assets/Pogácsa_image1.jpeg|fix_dark fix_light right|82](/img/user/P/assets/Pog%C3%A1csa_image1.jpeg)formájára. A gyerekek a ropogós kockákat vidáman rágcsálták.  
