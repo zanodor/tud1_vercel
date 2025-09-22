@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Örmény/","title":"Örmény","tags":["Englishtexttranslated"],"created":"2023-10-20T06:56","updated":"2024-10-25T23:40"}
+{"dg-publish":true,"permalink":"/O/Örmény/","title":"Örmény","tags":["Englishtexttranslated"],"created":"2023-10-20T06:56","updated":"2025-09-22T20:36"}
 ---
 
 
@@ -18,9 +18,8 @@
 Armenia névről Fáy Elek A magyarok őshona című könyvének (lásd Arám nevű, Arméniával kapcsolatba hozott őskirályról és az [[A/Arám\|arámi]] népről) 12-13. oldalán ír. A Quorán is van kérdés, mely az arámi és örmény kapcsolatokra kérdez. Persze vannak, akik látnak kapcsolatot (hivatalos adatokra támaszkodva).  
 Érdekesebb még ennél is az alant taglalt [[A/Ahriman\|Ármány]] szóval való igen nagy hasonlósága (közös eredetről vagy későbbi konflációról lenne szó?).  
 
-[[A/Ahriman\|Ahriman]] és [[J/Jereván\|Jereván]] címnél írottak alapján próbáljuk értelmezni a nevet. Lehetséges, hogy a Jereván név eredetije megegyezik az Armenia névvel (vagy a mögöttes idea egy és ugyanaz).  
+[[A/Ahriman\|Ahriman]] és [[J/Jereván\|Jereván]] címnél ![assets/Örmény_image1.png|right|300](/img/user/O/assets/%C3%96rm%C3%A9ny_image1.png)  írottak alapján próbáljuk értelmezni a nevet. Lehetséges, hogy a Jereván név eredetije megegyezik az Armenia névvel (vagy a mögöttes idea egy és ugyanaz).  
 Nagyon úgy tűnik, hogy itt ugyanazt látjuk, mint amit az [[A/Angra Manju\|Angra Manju]], [[A/Angerona\|Angerona]], [[H/Hungár\|Hungár]] nevek mögött és a [[S/Sátán\|Sátán]] és [[S/Széth\|Széth]] nevek mögött: adott egy nép, ami istennőjéről neveztetik el (lásd a csatolt képet [ezen](https://en.wikipedia.org/wiki/Mother_Armenia) oldalról), de ez a perzsáknál már a sötét félévre utaló Ahriman/Ármány névben mutatkozik meg.  
-![assets/Örmény_image1.png](/img/user/O/assets/%C3%96rm%C3%A9ny_image1.png)  
 
 A [[J/Jereván\|Jereván]] címnél csatolt Quora válaszom végére már nem akartam odatenni ezen sort:  
 > Judging from Jerusalem's original name, Jer can also be Ur/Uru, meaning Lord, which Lord is halved into the dark half as Ahriman also.  
