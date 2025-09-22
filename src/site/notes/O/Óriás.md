@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","created":"2024-04-20T13:37","updated":"2025-09-11T16:56"}
+{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","created":"2024-04-20T13:37","updated":"2025-09-22T20:35"}
 ---
 
 
@@ -66,8 +66,7 @@ Szintén Várkonyi Nándor ír róla valahol, hogy az óriás gyakran a bolygók
 Lásd még a [[G/Germán mitológia\|germán mitológia]] [[Y/Ymir\|Ymir]] óriását.  
 
 Tehát arról már volt szó, hogy Péterfai János – helyesen – az óriásokat az [[O/Orion\|Orion]] csillagképhez köti (a magyarok [[N/Nimrud\|Nimrud]] atyától is származtatják magukat). A Biblia is erről szól a [[N/Nefilim\|Nefilim]]ek kapcsán.  
-![assets/Óriás_image1.png|invert_dark](/img/user/O/assets/%C3%93ri%C3%A1s_image1.png)  
-Bakos Attila a Duna evangéliumának 60. oldalán a prádzsapátikat felelteti meg velük (ott is közös szál az Orion). Aztán ugyanazon az oldalon még a magyar név sumér Mah-Gar, és ind Mahar/Maha váltotazaiból, annak nagy, hatalmas jelentéseiből kiindulva azt mondja, hogy a Biblia szövegének egyes helyeit ki is lehetne cserélni a Mah-Gar = óriás fogalmával (lásd csatolt képet).  
+Bakos Attila a Duna evangéliuma c. könyvének 60. oldalán a prádzsapátikat felelteti meg velük (ott is közös szál az Orion). Aztán ugyanazon az oldalon még a magyar név sumér Mah-Gar, és ind Mahar/Maha váltotazaiból, ![assets/Óriás_image1.png|fix_dark fix_light right|360](/img/user/O/assets/%C3%93ri%C3%A1s_image1.png)  annak nagy, hatalmas jelentéseiből kiindulva azt mondja, hogy a Biblia szövegének egyes helyeit ki is lehetne cserélni a Mah-Gar = óriás fogalmával (lásd csatolt képet).  
 Persze mindez nem jelenti azt, hogy a [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]] címhez azt a kiegészítést kellene tennünk, hogy a Magyar Orionra is vonatkozik.  
 
 #### Péterfai János...
