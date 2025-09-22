@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/PI/","title":"PI","created":"2024-05-10T03:21","updated":"2025-09-03T16:00"}
+{"dg-publish":true,"permalink":"/P/PI/","title":"PI","created":"2024-05-10T03:21","updated":"2025-09-22T21:17"}
 ---
 
 
@@ -41,9 +41,8 @@ A `π` a későbbi Ludolf van Ceulen-féle szám, értékét 1596-ban 36 tizedes
 #### Borbola János A Nílus-völgyi hitvilág...
 
 ...című Ősi Gyökér 2005/4. sz. megjelent cikkében a pi = 3,14-ről és a [[M/Meter#Meter 2)\|meter]] alhangos változatáról és így [[M/Magyar\|magyar]] kapcsolatáról írja:  
-> Röviden összefoglalva a 31,6 cm-es láb (Fl. Petrie elnevezésében északi láb) a szokásos méreteknél jóval nagyobb. Ezzel a mérettel, mint átmérővel képezett kör kerülete 1 méter: 31,6 cm x 3,16 (πA) ≈ 100 cm. A méter szót ebben az értelemben leírva sehol sem láttuk, helyette az 'f' hieratikus jeléhez hasonló jellel találkoztunk. Övnek neveztük el \[[[Meter#Meter 2)\|meter]] címnél én meg ívnek\]. Másrészt a méter mélyhangú változatát, a matart (vö.: \[[[Magyar\|magyar]] címnél makheru résznél taglalt\] matar/makar, azaz igazmondó) népünk nevével azonosítottuk, elképzelhető, hogy az igazmondókat lábuk nagysága is megkülönböztette másoktól.  
-> ![assets/PI_image1.png|invert_dark](/img/user/P/assets/PI_image1.png)  
-> A Rhind Matematikai Papirusz 42-41-50-es példáiban a körlábúak, azaz a matarok nagyságrenddel találkoztunk. Megállapítottuk, hogy a méter fogalom olyan idős, mint a kör maga, mert aki ismerte a 31,6 cm-es északi lábat és birtokában volt az akkori alapszám a (8/9)²-nek, az játszi könnyedséggel kiszámolhatta a körkerületet méter mértékegységben is. Ezek alapján feltételeztük, hogy egymás mellett két méretet ismertek.  
+> Röviden összefoglalva a 31,6 cm-es láb (Fl. Petrie elnevezésében északi láb) a szokásos méreteknél jóval nagyobb. Ezzel a mérettel, mint átmérővel képezett kör kerülete 1 méter: 31,6 cm x 3,16 (πA) ≈ 100 cm. A méter szót ebben az értelemben leírva sehol sem láttuk, helyette az 'f' hieratikus jeléhez hasonló jellel találkoztunk. Övnek neveztük el \[[[Meter#Meter 2)\|meter]] címnél én meg ívnek\]. Másrészt a méter mélyhangú változatát, a matart (vö.: \[[[Magyar\|magyar]] címnél makheru résznél taglalt\] matar/makar, azaz igazmondó) népünk nevével azonosítottuk, elképzelhető, hogy az igazmondókat lábuk nagysága is megkülönböztette másoktól.   
+> A Rhind Matematikai Papirusz 42-41-50-es példáiban a körlábúak (![assets/PI_image1.png|fix_dark fix_light|18](/img/user/P/assets/PI_image1.png)), azaz a matarok nagyságrenddel találkoztunk. Megállapítottuk, hogy a méter fogalom olyan idős, mint a kör maga, mert aki ismerte a 31,6 cm-es északi lábat és birtokában volt az akkori alapszám a (8/9)²-nek, az játszi könnyedséggel kiszámolhatta a körkerületet méter mértékegységben is. Ezek alapján feltételeztük, hogy egymás mellett két méretet ismertek.  
 
 #### Dobos Csanád...
 
@@ -60,4 +59,4 @@ Az égigérő paszuly (lásd [[F/Fable\|fable]]) elemzésénél Christopher Knig
 #### Borbola János A Rhind Matematikai Papirusz piramispéldáinak hetes egységű modellje...
 
 ...című az Ősi Gyökér 2013/3. sz. megjelent cikkében (melyből [[H/Hét#Hetedhét egység\|hetedhét egység]] cím/alcímnél idéztünk) írja zársoraként:  
-> Összevetve a Rhind Matematikai Papirusz 48-59.B terjedő példáival elmondhatjuk, hogy az ősi geometria a π és √2, pontosabban az irracionális számok ismeretének hiányában a 9-es és a 7-es modellt használta a kör és a piramis jellemzőinek kiszámításához, építéséhez.  
+> Összevetve a Rhind Matematikai Papirusz 48-59.B terjedő példáival elmondhatjuk, hogy az ősi geometria a π és $\sqrt{2}$, pontosabban az irracionális számok ismeretének hiányában a 9-es és a 7-es modellt használta a kör és a piramis jellemzőinek kiszámításához, építéséhez.  
