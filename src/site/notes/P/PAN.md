@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/PAN/","title":"PAN","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-05T01:18","updated":"2024-12-03T17:14"}
+{"dg-publish":true,"permalink":"/P/PAN/","title":"PAN","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-05T01:18","updated":"2025-09-22T20:50"}
 ---
 
 
@@ -21,4 +21,3 @@ A francia palacsintasütő (`poêle`) nevét [[B/Bál\|Bál]] nevéből lehet le
 # Pan 3)
 
 Minden jelentésű görög eredetű előtag. Lásd [[P/Pán\|Pán]].  
-![assets/Panthree_image1.png|invert_dark](/img/user/P/assets/Panthree_image1.png)  
