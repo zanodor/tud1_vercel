@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pünkösd/","title":"Pünkösd","tags":["Englishtexttranslated"],"created":"2024-12-18T11:44","updated":"2025-06-08T01:46"}
+{"dg-publish":true,"permalink":"/P/Pünkösd/","title":"Pünkösd","tags":["Englishtexttranslated"],"created":"2024-12-18T11:44","updated":"2025-09-22T23:06"}
 ---
 
 
@@ -23,7 +23,7 @@ A hagyományaink egyértelműen arra mutatnak, hogy az Ikrek és a Bika között
 [[N/Nap#Napba öltözött asszony\|Napba öltözött asszony]] cím/alcímnél szerepelt Fister Mária Magdolna: Cigléd, a titokzatos Pálos hely című az Ősi Gyökér 2012/1. sz. megjelent cikkében Pünkösd kapcsán, hogy ekkor öltözne Napba, a nyári napforduló idején és hogy ünnepe mindig változó, sohasem esik egybe a nyári napforduló idejével. Hol ide, hol oda kerül az ünnep.  
 [Ezen](https://hu.wikipedia.org/wiki/S%C3%A1vu%C3%B3t) oldalon a héber Sávuót nevéről illetve az ünnepről olvashatunk. A zsidó naptár szerint: napja a \[[[Seven\|seven]] névvel nyilván véletlenül azonos\] [[S/Sziván\|Sziván]] 6.  
 A mellékelt képecskén látjuk, hogy valóban a nyári napfordulóhoz közeli napra is eshet a közben [[S/Sabbath\|Sabbath]] címnél is taglalt Sávuót.  
-![assets/Pünkösd_image1.png|invert_dark](/img/user/P/assets/P%C3%BCnk%C3%B6sd_image1.png)  
+![assets/Pünkösd_image1.png|fix_light](/img/user/P/assets/P%C3%BCnk%C3%B6sd_image1.png)  
 
 Internet blogon hasonló olvasható:  
 > A Tejút a létezés galaktikus síkjának külső, látható megnyilvánulása, mely összhangban van az isteni világgal, a zodiákus pedig a szemünk számára is láthatóvá teszi a szellemi világgal összhangban lévő kozmoszunk határát. Ennek a két körnek a metszéspontjai a Nyilas első fokain (az ellenkező oldalon pedig az Ikrek első fokain) **kapukat** jelölnek a szellemi világból az isteni világba, melyeken keresztül az isteni világból impulzusok áramolhatnak a szellemi világba, vagyis a mi kozmoszunkba. A metszéspontok területei (az Ikrek és a Nyilas kezdeti fokai) ezért magas nyomás és magas feszültség helyei. Nem csoda, hogy gyakran történnek egyfelől isteni kinyilatkoztatások, másfelől krízisek[^1], amikor ezeken a helyeken áthalad a Nap, a Hold, vagy más bolygó. Elég arra gondolni, hogy Pünkösdkor a Nap az Ikrek 2,5 fokán állt. Ekkor a Szent Szellem melyet a tanítványok fejére szálló lángnyelvek alakjában írnak le, a galaktikus síkról árad be az isteni világból, mint ennek a világnak az ősképi megnyilatkozása.  
@@ -43,9 +43,9 @@ John Major Jenkins is szól május elsejei dátumról, a Nap zeniten való átha
 > —  
 > A napévben két dátumot jeleznek Izapában: a nap zenitjének átvonulásának időpontját (amelyből valójában kettő van: május 1. és augusztus 12.), valamint december 21-ét (a decemberi napforduló). A kapcsolódó ikonográfia megerősíti annak valószínűségét, hogy az izapaiak tudatosan használták ezeket a dátumokat. Feltűnő, hogy augusztus 12. és december 21. csillagászati szempontból a Hosszú Számlálás 13 baktun ciklusának kezdő és záró dátumának zárójelét jelenti, ami arra utal, hogy a Hosszú Számlálás izapai megfogalmazása során mind a Kr. e. 3114-et, mind a Kr. u. 2012-t előrevetítették (vagy kiszámították).
 - Valahol olvasom (lásd csatolt képen), hogy a *solar zenith passage*, mely fontos volt a mayáknak, csak a trópusokon fordul elő (amit nem értek, mert a Nap legmagasabb pontján mindig áthalad, csak a földtengely ferdesége miatt az évszaktól függően ez magasabb vagy alacsonyabb).  
-![assets/Pünkösd_image2.png|invert_dark](/img/user/P/assets/P%C3%BCnk%C3%B6sd_image2.png)  
+![assets/Pünkösd_image2.png|fix_dark fix_light|840](/img/user/P/assets/P%C3%BCnk%C3%B6sd_image2.png)  
 
-![assets/Pünkösd_image3.png](/img/user/P/assets/P%C3%BCnk%C3%B6sd_image3.png)  
+![assets/Pünkösd_image3.png|840](/img/user/P/assets/P%C3%BCnk%C3%B6sd_image3.png)  
 
 A csatolt képen is szerepel azon adat, hogy a [[T/Téli napforduló\|téli napforduló]] és a május elseje(i zeniten való áthaladás) közt éppen 130 nap telik el, mely a 260 napos év fele. Ezen 130 nap előjött legutóbb [[K/Kutyaáldozás\|kutyaáldozás]] címnél, amikor a kutyaáldozatokkal kapcsolatba hozható római ünnepek dátumait vizsgáltuk:  
 A [[R/Robigalia\|Robigalia]] mellett a [[L/Lupercalia\|Lupercalia]] és a [[F/Furinalia\|Furinalia]] is kapcsolatba hozatott kutyaáldozással.
