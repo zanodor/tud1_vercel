@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2025-07-03T01:15"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2025-09-22T20:32"}
 ---
 
 
@@ -265,8 +265,7 @@ Közben [[J/Jón\|jón]] címnél találtunk adatokat, köztük egy proto-mongol
 
 De ha már a kutyáról, sőt, a Kutyáról van szó, vegyük észre, a [[K/Kut\|kut]] maga is életkört (honnan a török nyelvben `kut` = szerencse) jelent. A [[J/Jin és jang\|jin és jang]] is lényegében, ha úgy vesszük, a fehér és fekete kutya egymás felett bucskázása.  
 
-![assets/Ördög_image3.jpeg|invert_dark](/img/user/O/assets/%C3%96rd%C3%B6g_image3.jpeg)  
-A török etimológia szótár csatolt adata szerint – a cigány nyelvben is ilyen kettős, isten és ördög jelentéssel álló, [[D/Dévák és Aszúrák\|Dévák és Aszúrák]] címnél taglalt `devla` szóval azonos(!) – arab `dawla` szó(nak is kettős/váltakozó) jelentésének megfelelő, az isten és ördög/sátán határvonalán álló [[K/Kutya\|kutya]] fogalmából eredő török [[K/Kut\|kut]]-nak is éppen (váltakozóan, azaz életkörre utalóan) jó és rossz (szerencse) értelmet is tulajdonítanak! Az alant hozott török `kötücül` = gonosz és a török `kutsal` = szent melléknevek is hasonlítank egymásra éppen.  
+A török etimológia szótár ![assets/Ördög_image3.jpeg|fix_dark fix_light right|300](/img/user/O/assets/%C3%96rd%C3%B6g_image3.jpeg)  csatolt adata szerint – a cigány nyelvben is ilyen kettős, isten és ördög jelentéssel álló, [[D/Dévák és Aszúrák\|Dévák és Aszúrák]] címnél taglalt `devla` szóval azonos(!) – arab `dawla` szó(nak is kettős/váltakozó) jelentésének megfelelő, az isten és ördög/sátán határvonalán álló [[K/Kutya\|kutya]] fogalmából eredő török [[K/Kut\|kut]]-nak is éppen (váltakozóan, azaz életkörre utalóan) jó és rossz (szerencse) értelmet is tulajdonítanak! Az alant hozott török `kötücül` = gonosz és a török `kutsal` = szent melléknevek is hasonlítank egymásra éppen.  
 (Lásd még [[D/Dévák és Aszúrák\|Dévák és Aszúrák]] és a Szíriusszal kapcsolatba hozott [[D/Debella\|debella]] címnél említett szlovák `dewla` = vén ló, vén dög szót.)  
 
 Még a törökre visszatérve, [[E/EB\|EB]] címnél, külön alcímnél is említettük az [[E/Evil\|evil]] címhez is betett, 'evil' – 'ebül' fogalmi párosítás igazolására is alkalmas, kutyás alakú, [[K/Kut\|kut]] címnél is említett török török `kutsal` = szent szónak szinte alakmásaként belátható török **kötü**cül = gonosz szót (lásd még ott, [[K/Kut\|kut]] címnél az egyáltalán nem érdektelen cigány devla és arab `dawla` kettős értelmét; a sátán = `ördög` (devil) = kutya összefüggése egyértelmű kell legyen mindenki számára már csak a fentiek alapján). Ugyebár a gonosz félév, [[B/Bűn\|bűn]] címnél írottak szerint is a [[M/Más\|más]]odik, [[S/Sötét oldal\|sötét félév]]. Az elválasztó elem az a Kutya, mely ilyen és olyan megítélésű is lehet (a mellékelt info szerint is; tehát nemcsak a szóalaki egyeztetési kényszer miatt a [[K/Kut\|kut]] = [[G/Good\|good]] = jó, szent értelmezést kell figyelembe venni), illetve az évkezdést illetően, azaz naptári funkcióját tekintve is fontos volt (vagy téli láthatósága, együttállása, zenitelése miatt, vagy, ahogy Egyiptomban, nyári évkezdőként) (választotta el a régi és új évet).  
@@ -299,9 +298,7 @@ Lásd fentebb. Lásd még alant.
 
 ## Ördögábrázolások
 
-![assets/Ördög_image4.jpeg|invert_dark](/img/user/O/assets/%C3%96rd%C3%B6g_image4.jpeg)  
-
-Gyárfás Ágnes Eretnekség a korai középkorban című az Ősi Gyökér 2011/3. sz. megjelent cikkében írja, hogy az ördög ábrázolásának formavilága a turániak pecséthenger-kultúrájáról terjedt el. A pecséthengereken ábrázolt, az emberi mivoltából kifordult lények [[P/Pata\|patá]]val és farokkal jelennek meg. Így szerepel azóta is a sátán, az ördög minden művészi alkotásban, mesében, rémtörténetben, legendában.  
+Gyárfás Ágnes Eretnekség a korai középkorban című, ![assets/Ördög_image4.jpeg|fix_dark fix_light right|300](/img/user/O/assets/%C3%96rd%C3%B6g_image4.jpeg)  az Ősi Gyökér 2011/3. sz. megjelent cikkében írja, hogy az ördög ábrázolásának formavilága a turániak pecséthenger-kultúrájáról terjedt el. A pecséthengereken ábrázolt, az emberi mivoltából kifordult lények [[P/Pata\|patá]]val és farokkal jelennek meg. Így szerepel azóta is a sátán, az ördög minden művészi alkotásban, mesében, rémtörténetben, legendában.  
 Gyárfás Ágnes [[V/Vízi Péter és Vízi Pál mese\|Vízi Péter és Vízi Pál mese]]: Nemzeti hősmonda mesében elbeszélve című az Ősi Gyökér 2011/4. sz. megjelent cikkében közöl (lásd képet [[P/Pokol\|pokol]]) egy általam nehezen kivehető pecséthenger képét amelyen ördögöt láthatunk két szarvval.  
 
 #### Jankovics Marcell...
@@ -325,7 +322,7 @@ Ezen mondat is szerepelt ott:
 Menet közben kiderül, hogy ördög szavunkból ered a szláv [[D/Drug\|drug]] = társ, barát jelentésű szó. Csak amíg a [[B/Barát\|barát]] fogalma nálunk a Föld-Nap viszonyában az életadó/tápláló Nap neveként jelenik meg, addig a szlávban és irániban ([[D/Druj\|druj]]) a kis éves, nálunk inkább ellenségre utaló fogalomként.  
 
 Rostás László A Sínai Szent Katalin kolostor Krisztus ikonja című az Ősi Gyökér 2015/1-2. sz. megjelent cikkében Csontváry Kosztka Tivadar Öreg Halász c. képén mutatja be, hogy a két arcfél közül az egyik istené, a másik az ördögé.  
-![assets/Ördög_image5.jpeg|invert_dark](/img/user/O/assets/%C3%96rd%C3%B6g_image5.jpeg)  
+![assets/Ördög_image5.jpeg|fix_light](/img/user/O/assets/%C3%96rd%C3%B6g_image5.jpeg)  
 Nagy Attila az Ősi Gyökér 2007/4. sz. megjelent A Tükör trükkje című cikkében ír angyal és ördögről helyenként erőltetett szójátékokkal fűszerezve. Ha lenne időm rá, elolvasnám. Alkalomadtán.  
 
 [[S/Sátán\|Sátán]] címnél láttuk már, hogy megjelenhet személynévként. Ördög Nóra neve mellett említhető [ezen](http://nuclearmorphology.hu/tortenelem/hol-lehet-az-eredeti-buda/) blogposztjáról [[P/Portus Moger\|Portus Moger]] címnél említett Eördögh Árpád blogger neve.  
