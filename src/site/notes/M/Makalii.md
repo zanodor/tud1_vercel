@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makalii/","title":"Makalii","created":"2024-05-11T04:14","updated":"2024-10-25T23:15"}
+{"dg-publish":true,"permalink":"/M/Makalii/","title":"Makalii","created":"2024-05-11T04:14","updated":"2025-09-22T21:26"}
 ---
 
 
@@ -25,4 +25,4 @@ Másutt:
 
 Itt azt kell észrevenni, és ez [[M/Magyar\|magyar]] címhez is bekerült, hogy a Fiastyúk = Madár = Anya (indo-európai nyelvekben anya), akinek az, hogy fiai vannak, mutatja, hogy Anya.  
 
-Azóta Jankovics Marcell révén egy [[H/Háló csillagzat\|Háló csillagzat]] cím is született.  
+Azóta Jankovics Marcell révén egy [[H/Háló#Háló csillagzat\|Háló csillagzat]] cím/alcím is született.  
