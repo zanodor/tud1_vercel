@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2025-09-11T16:55"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2025-09-22T21:26"}
 ---
 
 
@@ -61,8 +61,8 @@ Orion vadász Pleiadokra szegezett nyiláról írja Varsa Mátyás A legrégibb 
 > Mint már utaltunk rá, a csillagzat uráli elnevezéseinek egyik csoportját a Fiastyúkkal és a görög Pleiadesszel (Galambok) rokon nevek alkotják. Ilyen például a Vadkacsa-fészakalja, Récefészek, Ég Kacsa, Verébcsapat elnevezés. A másik csoportja viszont arról árulkodik, hogy az uráli népek e madárrajban, fészekalja fiókában nőket láttak. Ezek az elnevezések, mint a mitológiai vonatkozású nevek általában, többféleképpen fordíthatók: Mesebeli Nőkkel Teli Háznak, Boszorkányokkal Teli Háznak, Húgaimmal Teli Háznak, sőt Elhalt Nősténymedvékkel (Medveasszony-szellemekkel) Teli Háznak is. Nőcsoportot láttak e csillagokban az északi germánok, részben az oroszok, valamint – említettük már – a régi görögök is.  
 > \[...\]  
 > Nemcsak az északi regékből következik, hogy a Fiastyúk az istenek családi, egyben szerelmi fészke volt. Említettem már, hogy Órión görög hérósz is szerelmével üldözte a leányokat \[úgy mint [[P/Prajapati\|Prajapati]] Rohinit – írhatta volna\] (azaz, mint vadászisten, hálójával akarta kézre keríteni a galambrajt). Egy másik görög mítosz szerint Zeusz (Jupiter) foga is megfájdult egyikükre, akit Artemisz (Diana, azaz a Hold), hogy a főisten zaklatásától megmenekítse, szarvassá változtatott. Hiába, mert Zeusz utolérte és teherbe ejtette. E csillagleánykörből házasodott Sziszüphosz is, aki eredetileg napisten volt.  
-> A híres történet, mely szerint Héphaisztosz ([[V/Vulcanus\|Vulcanus]]) egy hálóban kapta rajta feleségét, [[A/Aphrodité\|Aphrodité]]t (Venust) Árésszal (Marssal), szintén itt esett, lévén a régiek hite szerint a Vénusz bolygó a Bika, a Mars a szomszédos Kos csillagkép ura, míg a Háló ez esetben nem más, mint a két szomszédvárat összekötő Fiastyúk egy harmadik névváltozata ([[H/Háló\|háló]], illetve Szita csillagzat típusú nevei ismertek mind a rokonaiknál, mind a magyarban).  
-> ![assets/Pleiadok_image2.jpeg|invert_light](/img/user/P/assets/Pleiadok_image2.jpeg)  
+> A híres történet, mely szerint Héphaisztosz ([[V/Vulcanus\|Vulcanus]]) egy hálóban kapta rajta feleségét, [[A/Aphrodité\|Aphrodité]]t (Venust) Árésszal (Marssal), szintén itt esett, lévén a régiek hite szerint a Vénusz bolygó a Bika, a Mars a szomszédos Kos csillagkép ura, míg a Háló ez esetben nem más, mint a két szomszédvárat összekötő Fiastyúk egy harmadik névváltozata ([[H/Háló#Háló csillagzat\|Háló]], illetve Szita csillagzat típusú nevei ismertek mind a rokonaiknál, mind a magyarban).  
+> ![assets/Pleiadok_image2.jpeg|fix_light|840](/img/user/P/assets/Pleiadok_image2.jpeg)  
 > A felsorolt példákból kiderült, hogy a legtöbb planétaisten megjárta a csillaghölgyek ágyasházát. Jó oka van ennek. Először is mind a planétáknak, mind a Fiastyúk csillagainak [[H/Hét\|hét]] a száma (s hét a Nagy [[G/Göncöl\|Göncöl]]é is!), ami magában véve is magyarázza, miért válhattak a csillagocskák az akkor ismert planéták képviselőivé és fordítva. Még fontosabb azonban, hogy a **Fiastyúk pontosan az ekliptika vonalában fekszik, így rajta a Nap minden évben áthalad, de a többi planéta is megfordul a "házában"** időről időre. Ráadásul egy időben világkorszak-jelző \[inkább évszak-jelző\] határcsillagzat volt. Eltűnése, vagyis az az időpont, amelytől kezdve a Nappal együtt kelt föl, jelezte a tavasz beköszöntét. Ez az időszak épp az ókori civilizációk virágzására esett. A tavasz azonban nemcsak a mezőgazdasági munkák és a hajózás kezdetét jelezte, hanem a természet termékeny periódusának kezdetét is, mely az állatok – többek közt az őzek \[mint amilyen [[R/Rohini\|Rohini]] is\] – nászának is ideje. Igaz, a szarvasok ez alól kivételek, hisz' a szarvasbőgés közismerten őszre esik, viszont ez idő tájt hozzák világra kicsinyeiket! A mitikus gondolkodásmód analógiákra épül, nem csoda hát, hogy a mítoszteremtő ember állatbőrbe bújt isteneinek üzekedését ez időben a Fiastyúk csillagainak eltűnéséhez kapcsolta.  
 > A csillagraj az eddig alig említett szarvasvadásszal, pontosabban annak íjával is sok helyütt együtt szerepel.  
 - Itt nyilván a keleti Nyíl/Íj csillagképre gondol, melyet lásd [[S/Szíriusz Iránban\|Szíriusz Iránban]], valamint [[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]].
@@ -157,15 +157,16 @@ William F. Warren könyvének adata szerint a görög [[M/Meropisz\|Meropisz]] a
 Legutóbb [[T/TÜN\|TÜN]] etimonnál is szóba került a neve.  
 
 Dacára annak, hogy a Fiastyúk másik neve, Hetevény kimondja, hogy [[H/Hét\|hét]] csillagról van szó, mások kilencről is szólnak:  
-![assets/Pleiadok_image3.png|invert_light](/img/user/P/assets/Pleiadok_image3.png)  
-A Fiastyúk (Pleiádok) a Bika (Taurus) csillagkép része. Késő ősszel és télen lehet könnyen megtalálni a tűhegynyi csillagok alkotta "fészket". A Bika és benne a Fiastyúk csillagkép az égi szarvasok közé tartozik. A Fiastyúkot másképpen Fagyhozó csillagnak is mondják, mert amikor már kora este látható az égen, akkor közel a tél. Tehát évszakcsillag is volt.  
-A Fiastyúk kapcsán visszautalhatunk még a kilenc agancsos táltosra is, hiszen kilenc legfényesebb (szabad szemmel is jól látható) csillagának népi elnevezése a "Kilenc Tátos."  
+> A Fiastyúk (Pleiádok) a Bika (Taurus) csillagkép része. Késő ősszel és télen lehet könnyen megtalálni a tűhegynyi csillagok alkotta "fészket". A Bika és benne a Fiastyúk csillagkép az égi szarvasok közé tartozik. A Fiastyúkot másképpen Fagyhozó csillagnak is mondják, mert amikor már kora este látható az égen, akkor közel a tél. Tehát évszakcsillag is volt.  
+> A Fiastyúk kapcsán visszautalhatunk még a kilenc agancsos táltosra is, hiszen kilenc legfényesebb (szabad szemmel is jól látható) csillagának népi elnevezése a "Kilenc Tátos."  
+
+![assets/Pleiadok_image3.png|fix_light](/img/user/P/assets/Pleiadok_image3.png)  
 
 #### Jankovics Marcell Jelkép-kalendárium...
 
 ...című könyvében írja:  
 > A görögöknél Maia a pleiászok egyik csillaga volt, Zeusz szeretője, és a főistennel együtt töltött éjszakák eredményeként Hermész (latin Mercurius) anyja. Ez a planétaistenfi az asztrológia májusi Ikrek jegyében van "otthon". (Általánosságban elmondható, hogy a 7 pleiászt, a Pleiades 7 csillagát a görögök – de mások is – kapcsolatba hozták a [[H/Hét bolygó\|hét bolygó]]val. Ennek nemcsak az volt az oka, hogy a csillagzat szabad szemmel látható csillagainak a száma megegyezett a szabad szemmel látható planétákéval, hanem a helye is: a Nap, a Hold és a bolygók rendszeresen áthaladnak rajta.)  
-- Lásd még említve [[H/Háló csillagzat\|Háló csillagzat]].
+- Lásd még említve [[H/Háló#Háló csillagzat\|Háló csillagzat]].
 
 A John M. Jenkins és René Guénon által több helyen is említett Nagy Medve – Pleiadok kapcsolatát látjuk a Varga Zsigmond Az ősmagyar mitológia című könyvében szereplő burját mondában, miszerint:  
 > A Nagy Medve csillagai ellopták u.i. a Plejádoktól az Alcort, a legkisebb csillagot, így lett az eredetileg hét csillagot számláló plejádok száma hat \[csillagot számláló\] csillagkép. A Plejádok üldözik őket, de sohasem tudják beérni.  
