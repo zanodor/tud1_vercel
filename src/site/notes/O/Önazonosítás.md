@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated"],"created":"2024-05-09T22:32","updated":"2025-08-31T02:52"}
+{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated"],"created":"2024-05-09T22:32","updated":"2025-09-22T20:06"}
 ---
 
 
@@ -22,7 +22,7 @@ Az én jelentésű pehlevi `az` kapcsán [[A/Ász\|Ász]] címnél alcím nevek�
 A témát lentebb folytatjuk (illetve már korábban ott megvolt).  
 
 [[S/Saját\|Saját]] szavunkban is SAJ a Nap (fényének) neve. A mellékelt indián ábrázoláson is látni, hogy nem tulajdonítottak jelentőséget az arcvonásoknak, ill. annak, hogy egy specifikus embert azonosítsanak.  
-![assets/Önazonosítás_image1.png](/img/user/O/assets/%C3%96nazonos%C3%ADt%C3%A1s_image1.png)  
+![assets/Önazonosítás_image1.png|fix_dark fix_light|840](/img/user/O/assets/%C3%96nazonos%C3%ADt%C3%A1s_image1.png)  
 Az alábbi analógiákat találjuk különböző nyelvekben ([[S/Same\|same]] címnél is szerepeltek):  
 A legtöbb nyelven [[M/Man\|man]] = ember, mert egyrészt a mennyből ([[M/Men\|men]]) származik, másrészt mindannyian [[F/Fehérlófia\|Fehérlófia]]i (Mén = Ló = Nyilas) vagyunk eredendően, de a magyarok mindenképp. Nemcsak a hindu [[M/Manu\|Manu]], vagy perzsa `man`[^2] = én szó felelős a germán `man`, `mann`, `mensch` szavak eredetéért, ahogy gondolni vélik az indo-európaiak. Ott van még a manysik neve is, mely szintén embert, férfit jelent. A man = férfi jelentése pedig egyrészt a mén = hímló, másrészt a fényes menny jelentéséből alakult ki. De [[M/Mane\|mane]]-je is csak hímnek lehet.  
 ([[M/Menog\|Menog]] címnél is szóba került az önazonosítás.)  
@@ -36,7 +36,7 @@ A szanszkritban `sva-pati` - szó szerint a maga ura – [[S/Szabad\|szabad]] sz
 > The German `ich` is not 'ish'. It is a h/k, as in Latin [[E/Ego\|ego]]. Both come from Hungarian [[E/Ég\|ég]] = sky, that is abode of God (ancient people identified themselves with their Godly spirit/soul, not with their bodies and money; compare also Scytho-Iranic [[K/Khuda\|Khuda]] = God and reflexive use of Persian `khod`).  
 > This God has its counterpart Devil/Satan. Compare Persian words for friend and enemy. They have the Hungarian `tűz` = fire word in them. Proving that the Zoroastrian dualistic worldview is pre-Iranic and that the words are actually based on European words from a pre-Indo-European stratum would take more than just a few lines.  
 > A piece of friendly advice to Iranians: don't accept the Western expert opinions, because 1) they don't care about pre-Indo-Europeans and pre-Semites 2) they are *hired with the money of those who identify themselves with their bodies and their (dirty, usury-gained) money*.  
-> A friend (enemy?) from Hungary    
+> A friend (enemy?) from Hungary
 > —  
 > A német `ich` nem 'ish'. Ez egy h/k, mint a latin [[E/Ego\|ego]]-ban. Mindkettő a magyar [[E/Ég\|ég]], azaz Isten lakhelye szóból származik (az ősi emberek isteni szellemükkel/lelkükkel azonosították magukat, nem pedig testükkel és pénzükkel; vö. még a szkíta-iráni [[K/Khuda\|Khuda]] = Isten és a perzsa `khod` reflexív használata).  
 > Ennek az Istennek megvan a megfelelője, az Ördög/Sátán. **Vö. a barát és ellenség jelentésű perzsa szavakkal**. Ezekben a magyar `tűz` szó is benne van. Annak bizonyítására, hogy a zoroasztriánus [[D/Dualisztikus világkép\|dualisztikus világkép]] Irán előtti, és hogy a szavak valójában egy indoeurópai előtti rétegből származó európai szavakra épülnek, többre lenne szükség, mint néhány sor.  
@@ -63,12 +63,12 @@ Hasonló kínai példát ír le Péterfai János, mely ide tehető szintén:
 Érdekes a tasmán `munger` = én, mivel mintha a [[M/Magyar\|magyar]] név változata lenne.  
 - Viszont ezen szavak hitelességével kapcsolatban fenntartásai voltak [[F/Flink Attila\|Flink Attilá]]nak is, így vigyázni kell velük.
 
-Az [[I/Íz\|íz]] és főleg [[I/Isa\|isa]] címnél taglalt föníciai és héber szavakat elnézve azt mondhatjuk, hogy az isten valóban lehet ősten (a legelső őse az embernek isten) (de lásd még [[U/Üst\|üst]] címnél írottakat is), ill. akkor, ha az is = az isteni lényeg ([[I/Íz\|íz]] = árnyéklélek is), ami ugye bennünk is megvan (ezen sor [[O/Ős\|ős]] címnél is megvolt és [[I/Isten\|Isten]] címnél is újra vettük a témát).  
+Az [[I/Íz\|íz]] és főleg [[I/Isa\|isa]] címnél taglalt föníciai és héber szavakat elnézve azt mondhatjuk, hogy az isten valóban lehet \*ősten (a legelső őse az embernek isten) (de lásd még [[U/Üst\|üst]] címnél írottakat is), ill. akkor, ha az is = az isteni lényeg ([[I/Íz\|íz]] = árnyéklélek is), ami ugye bennünk is megvan (ezen sor [[O/Ős\|ős]] címnél is megvolt és [[I/Isten\|Isten]] címnél is újra vettük a témát).  
 Még mindig ezen szó kapcsán, ...
 
 #### Grandpierre Atilla Karácsony eredete és jelentősége...
 
-...című  [letöltésre elérhetővé tett](https://mega.nz/file/pzNzhKJB#KXz_bvQtrp_QYzmqFqWwIpf4TSn31z4Fn4bUVLJ8jpA) cikkében Vértes Edit Szibériai nyelvrokonaink hitvilága című könyvéből idéz az árnyéklélek kapcsán ([[L/Lélek\|lélek]] és [[I/Íz\|íz]] címnél is szerepelt (több is)) (azóta lásd még [[I/Isa\|isa]]-t is):  
+...című [letöltésre elérhetővé tett](https://mega.nz/file/pzNzhKJB#KXz_bvQtrp_QYzmqFqWwIpf4TSn31z4Fn4bUVLJ8jpA) cikkében Vértes Edit Szibériai nyelvrokonaink hitvilága című könyvéből idéz az árnyéklélek kapcsán ([[L/Lélek\|lélek]] és [[I/Íz\|íz]] címnél is szerepelt (több is)) (azóta lásd még [[I/Isa\|isa]]-t is):  
 > Az obi-ugoroknál az árnyéklélek mindenütt ismert fogalom, s mint ilyen, feltehetően az ősi örökségbe tartozik, jóllehet nincs egységes neve. A legelterjedtebb a voguloknál és a nyugati osztjákoknál az `isz` szó, a finn `itse` 'saját maga' megfelelője.  
 - És hogy azt már Czeglédi Katalin írásaiból is láttuk, hogy a [[F/Finnugor nyelvek\|finnugor nyelvek]] szavai mennyire jól párosulnak türk szavakkal, az is mutatja, hogy ezen szavak párja a fentebb és [[O/Ős\|ős]] címnél is említett török `öz` = önmaga szó is.
 
