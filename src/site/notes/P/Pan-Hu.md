@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pan-Hu/","title":"Pan-Hu","tags":["Englishtexttranslated"],"created":"2023-11-06T12:47","updated":"2025-09-03T15:58"}
+{"dg-publish":true,"permalink":"/P/Pan-Hu/","title":"Pan-Hu","tags":["Englishtexttranslated"],"created":"2023-11-06T12:47","updated":"2025-09-22T20:51"}
 ---
 
 
@@ -10,7 +10,7 @@ A kínai mitológiában egy [[K/Kutya\|kutya]] neve, mely Kan Pao "Sou shen chi"
 #### Victor H. Mair Canine Conundrums...
 
 ...című esszéjében szól róla. Annyit elöljáróban tisztázni kell, hogy a kínai `hu` és `pan` nevek jelentései torzultak. [[P/PAN#Pan 2)\|Pan]] angolban is serpenyő, de a Nap alakja miatt. `Pan` vagy `p'an` a kínaiban is ilyen másodlagos, tellurikus értelmű: tányért jelent. [[H/HU\|Hu]] pedig csillag, de mivel a csillag és a víz fogalmak másutt is keveredtek, Hu itt is tellurikus megjelenésű. De a kínai ráadásul nem is víznek, hanem víztartónak, tökhéjpalacknak hívja. Pan Hu tehát valójában a Mindenség Forrása jelentéssel kellene fordíttasson.  
-![assets/Pan-Hu_image1.png|invert_dark](/img/user/P/assets/Pan-Hu_image1.png)  
+![assets/Pan-Hu_image1.png|fix_dark fix_light|840](/img/user/P/assets/Pan-Hu_image1.png)  
 
 > It should be noted that the unrestrained elaboration of the P’an-hu myth did not go unchallenged. The eminent historiographer, Liu Chih-ch’i (106) (641–721), in his _Shih t’ung_ (107) (Comprehending History), made the following rather harsh comments:  
 > Fan Yeh selected materials widely from numerous books and crafted them into an account of the Han. When we look at what he has adopted, it is quite a remarkable achievement. However, as for his chapter on occultism (_fang-shu_), and his biography of the various “barbarians” (_man-yi_), he has made records of such figures as Wang Ch’iao, Tso Tz’u, Lin Chün (“Lord of the Granary”), and P’an-hu. His words are absurd and the content is preposterous. One may say that these chapters are blemishes in a beautiful nephrite, flaws in a fine jade. Alas, there is nothing about these chapters that we can affirm.  
