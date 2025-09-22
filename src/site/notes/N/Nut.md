@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nut/","title":"Nut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2025-05-29T16:57","updated":"2025-09-06T17:11"}
+{"dg-publish":true,"permalink":"/N/Nut/","title":"Nut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2025-05-29T16:57","updated":"2025-09-22T19:58"}
 ---
 
 
 # Nut 1)
 
 Nut-Ízisz (Ízisz később következett) megfelel a sumér-babiloni [[I/Inanna\|Inanna]]-[[I/Istár\|Istár]]nak és így a [[M/Magna Mater\|Magna Mater]] fogalmának, valamint a [[M/Magyar\|magyar]] [[T/Tündér Ilona\|Tündér Iloná]]nak és [[B/Boldogasszony\|Boldogasszony]]nak, valamint a római [[D/Diana\|Dianá]]nak és [[J/Juno\|Junó]]nak, a görög [[H/Héra\|Hérá]]nak, [[A/Artemisz\|Artemisz]]nek, a szír-asszír [[S/Szemirámisz\|Szemirámisz]]nak és sok más alaknak.  
-![assets/NutGoddess_image1.png|invert_dark](/img/user/N/assets/NutGoddess_image1.png)  
-![assets/NutGoddess_image3.png|invert_dark](/img/user/N/assets/NutGoddess_image3.png)  
+![assets/NutGoddess_image1.png|fix_dark fix_light|840](/img/user/N/assets/NutGoddess_image1.png)  
+![assets/NutGoddess_image3.png|fix_dark fix_light|840](/img/user/N/assets/NutGoddess_image3.png)  
 
 #### Péterfai János írja:
 
@@ -41,7 +41,10 @@ Persze a fenti névértelmezésekhez ez csak kiegészítés, játék a szavakkal
 
 ...ír róla[^1] (Fáy Elek A magyarok őshona című könyvének 190. oldala alapján is):  
 > Az egyiptomi mythologiában pedig Nut, más nevén [[N/Neith\|Neith]] istennő az ős-nőiség és az ős-víz, ős-nedvesség istennője volt. Amely névvel azonban nem csak a magyar [[N/Nedű\|nedű]][^2] (ma romlottan: nedv) szó, hanem a finnugor `neite`, `neiti` = lány, kisasszony s még inkább mint az oromo `nadde`, `niti` = nő, feleség szó, azonosul. Hogy pedig ugyane szavak ma, na, nő, mat, mer, mul kiejtései a legkülönbözőbb nyelvekben is nőt, anyát jelentenek, elég megemlítenünk, de fölemlíthetem itt a mi Temes folyónk nevét, a görögök Artemisz istennőjét, továbbá a Thames és a Tamar angolországi, valamint a számos Tana, Tanaisz, Don, Duna stb. folyóneveket is. Mindezek a legszorosabban összefüggenek a görög Athene nevével (a névelővel), aki azonos az egyiptomiak Neit istennőjével, és akit tudvalévőleg a görögök is jelképeztek volt tehénnel; a tehén, azaz tulajdonképpen teién, teien szavunk pedig a neit szónak csak megfordított alakja. Hogy az Athéné név kezdő a hangja csak névelő, tanúsítja azon tény, hogy őt különböző kultuszhelyein a görögök még Tanaisz, Tanait, Tanith nevek alatt is tisztelték. (Movers F.: "Die Phönizier." I. köt 615. old.).  
-![assets/NutGoddess_image4.png|invert_dark](/img/user/N/assets/NutGoddess_image4.png)  
+> \[...\]  
+> ![Nut_image20250922183536603.jpeg|fix_dark fix_light|840](/img/user/N/assets/Nut_image20250922183536603.jpeg)
+> Az egyiptomiaknál a mennyboltot megszemélyesítő istennő neve Nut volt. Ha pedig őt az egyiptomiak úgy is ábrázolták ahogy an ezt e saját képükön látjuk, azt tartva hogy „lábai Keleten, kezei Nyugaton vannak és őt középen Szet a Földisten tartja”, akkor ebben mi mást láthatunk mint a mi középoszlop (hímség) által tartott hupolagunk (nőiség) valósága és utóbbinak Tündér Ilonát jelképező költői eszméje másolatát, de úgy, hogy ami nálunk még egy létezővalóságnak csak költői hasonlata volt, az itt már szószerint véve s ízléstelenül erőltetett elképzeléssé és ábrázolássá válott. Az egyiptomiak összevissza keveredett, zavarosan átvett mythologiájában a tartó oszlopként szerepelő alak ugyan még férfi, de már a gonoszság és sötétség istenségévé Szet-té lett, akiről még az is mondva, hogy a Föld istensége, holott hiszen mi tudjuk, hogy a Föld: nőiség. Ellenben az ily torzan ábrázolt Nut istennő valóban az égboltot, ennek kupoláját kellett jelentse, de így helyesebben félgömbölyű ívként, félgömbölyű buborékként kellett volna ábrázolva lennie, nem pedig szögletesre tördelve, mint az ilyen egyiptomi képeken fordul elő. Ezeken viszont az hogy neki szárny is adva, valószínűleg a légiességet, a szálló levegőt is akarja jelenteni De előfordul ezen ábrázolatnak olyan változata is amelyen Nut testén Csillagok, hátán pedig a Nap és a Hold vannak. (Lássad például: Mahler Ede: „Ókori Egyiptom.” Budapest, 1909., 155. oldal.)
+> \[...\]  
 > De ugyanígy van ez [[A/Artemisz\|Artemisz]] nevében (ar = az), aki azonos volt a [[T/Tehén\|tehén]]nel[^3], de még üsző, azaz szűz tehénnel szintén jelképezett egyiptomi Ízisz Istennővel, akit az egyiptomiak Sziszi, Ezi nevek alatt tiszteltek. De a tudósok azt is megállapították, hogy az egyiptomi Neit kétségtelenül azonos [[A/Athéné\|Athéné]]vel, valamint a líbiaiak Tehenu vagy Tahenu istennőjével is, aki ugyanúgy mint Athene is, tehénnel jelképeztetett.  
 > Hogy Nut mennyire a nedvesség megszemélyesítése is volt, bizonyítja az is, hogy szent állata a [[B/Béka\|béka]] volt, amiért is őt békafejűnek is szokták volt ábrázolni. Mi pedig már tudjuk hogy őseinknél a béka a nőiségnek, sőt az anyaméhnek is jelképe volt, amiért is népünk az [[A/Anyaméh\|anyaméh]]et békának is nevezi.  
 
@@ -56,42 +59,43 @@ Igen érdekes dolgokat mond el VI. Ramszesz sírjával kapcsolatosan:
 > —  
 > VI. Ramszesz (i. e. 1151-1143) a Királyok Völgyében építtetett egy pompás sírkamrát (KV 9), amely már a késő ókortól nyitva állt 28 . Ebben a sírban fordul elő először a Föld könyve, míg a csillagászati mennyezet a Nappal és az Éjjel könyvének képeit egyesíti, Nut \[lásd 3(A) ábra\] kinyújtott nappali és éjszakai ﬁguráival együtt. Itt ﬁgyelhetünk egy részletes ábrázolásra a szarkofágkamra mennyezetén. Nut kétszer is meg van festve kolosszális méretben, a nappali és az éjszakai égboltot ábrázolva \[lásd 3(A) és 3(B) ábra\].  
 > Nut teste aranysárgára van festve, arcvonásai és haja feketére vannak festve, akárcsak a testén lévő csillagok. A napkorongot vörösre festették. A napisten a bárkáján Nut túlzóan megnyúlt teste mentén hajózik estig, amikor a napkorong az égi istennő szájához közeledik, hogy elnyelje, a szája közelében nagyobbnak ábrázolva. A Nap napi járását kísérő csillagok sokasága is ábrázolva van. A nap a csillagokkal együtt biztonságban utazik az éjszakai órákon át az istennő testében. Hajnalban, amelynek vörös ragyogását az egyiptomiak Nut leányának (zȝt Nw.t) nevezték, a napkorong szárnyas szkarabeuszként bújik ki újból a szeméremtestéből, hogy fényt és a megújulás ígéretét hozza a világnak. A háttér sötétkék színben ábrázolt, két oldalán aranysárgára festett asztrális istenségek és dekánok, valamint számos hieroglifás feliratoszlop látható. A képi ábrázolás különböző szinteken működik, a Napot mint korongot mutatja, amelyet az istennő méhéből elnyel és újjászületik, és mint istent a ﬁrmament égi vizein hajózó napbárkában.  
-- Tehát a Nap az éjszakai órákban végigvándorol a testén és a hajnal vörös fényében (melyet Nut lányának hívtak) szárnyas szkarabeuszként hozza világra vulvájából a Nap(korong)ot. A képeket lásd a dolgozatban.
+- Tehát a Nap az éjszakai órákban végigvándorol a testén és a hajnal vörös fényében (melyet Nut lányának hívtak) szárnyas szkarabeuszként hozza világra vulvájából a Nap(korong)ot.
 
 #### Gyárfás Ágnes A Szondi-féle négy ösztöntengely és a magyar népmese...
 
 ...című Ősi Gyökér 2006/3. sz. megjelent cikkében is így írja:  
 > Valószínűleg Szondi is ismerte az egyiptomi mítoszt a világ keletkezéséről. Ahhoz, hogy a kelő és nyugvó Napnak tartója legyen, Nut egy [[T/Tehén\|tehen]]et tett alá, s a Nap ezen a tehénen minden nap megtette útját. A tehén kiterjesztett [[N/Négy\|négy]] lába a négy égtáj, a négy évszak, a négy világfenntartó hatalom, a kereszténységben a négy apostol, az Évkörben a négy sarkalatos pont.  
-> Akár még azt is mondhatnánk, hogy a Nut név a Négy szavunkkal is egyeztethető, illetve megfordítva: ez a képzet adhatná meg a négy szavunk eredetét.  
-> ![assets/NutGoddess_image5.png|invert_dark](/img/user/N/assets/NutGoddess_image5.png)  
+- Akár még azt is mondhatnánk, hogy a Nut név a `négy` szavunkkal is egyeztethető.
+
+#### Jankovics Marcell írja:  
+
 > Az ókori magaskultúrák anyaistennőinek egyik növényi alakja a tejet adó [[F/Füge\|füge]]félék valamelyike volt. Indiában az asvattha- és a banjanfát (Ficus religiosa, F. indica) ma is szentnek tartják, Egyiptomban Nut, Hathor vagy Ízisz szederfüge (F. sycomorus) képében szoptatta fáraógyermekét, a kisázsiai Adónisz anyja Szmünnafüge volt. Rómában a fügét "[[R/Rumen\|Rumina]] fügefája" néven tisztelték. Rumina ("Emlő") Junónak mint a szoptató anyák és a dajkák védő istenasszonyának volt a neve, s az ő fája alatt szoptatta a mítosz szerint [[R/Romulus és Remus\|Romulus és Remus]]t farkas dajkájuk. A Ficus Ruminalis kapcsolata az ikerkultusszal, világfaként való felfogása (Róma fája = a világ fája), összefüggése a mitikus "szoptatás"-rnotívummal az Ikreken átnyúló tejútfa révén foglalható gondolati egységbe. Idetartozik, hogy amikor a Nap a Rák csillagképben jár, az éjszakában az állatövi csillagképek közül az átellenben lévő Bak uralkodik, s hogy az ókorban július elején, miután a Nap elhagyja a napfordulót, ismét látható lett a Tejúton ragyogó, [[A/Amalthea\|Amalthea]] kecske után elnevezett [[C/Capella\|Capella]] csillag. A Caprotina ünnep a mondottakkal függ össze, kiegészítve azzal, hogy a füge virágzása júliusig tart, s ilyenkor termi első gyümölcsét  
 
 A fenti mellékelt képen egy egyiptomi bronzedényen az élet vizét záporosztató Nut istennő látható, kinek testéből, mintha fa törzse lenne, leveles ágak sarjadnak. Az ábrázolás igen hasonló az [[A/Ardvisura Anahita\|Ardvisura Anahita]] címnél látható képhez.  
 Jankovics Marcell A fa mitológiája című könyvének 87-88. oldalától kezdve szól a nő-fa szimbólumokról: lásd még itt-ott infókat, például [[P/Parthenogenesis\|parthenogenesis]], valamint [[F/Fa és nő\|fa és nő]] címnél, valamint másoktól is származó anyagot [[N/Nagyboldogasszony\|Nagyboldogasszony]].  
-Nut-tal kapcsolatos adatait lásd a csatolt képen, kiegészítve a hivatkozott fotókkal.  
+  
+> Az egyiptomi mitológiában Nut az ég istennője, [[G/Geb\|Geb]] a föld\[?\] istene – (testvérekként) házasok. Gyermekeik a csillagok, akiket Nut naponta fölfal[^4] és reggel újra szüli őket (ez a nappal és az éjszaka váltakozása). (Ezért látható Nut szájánál nyugaton és ágyékánál keleten egy-egy napkorong.)  
+- Zobor László teszi hozzá:  
+> Amikor ezen összevesznek, "Su" a szülőjük – a levegő istene – szétválasztja őket: Gebet lent hagyta, Nutot az égbe emelte.  
 
-![assets/NutGoddess_image6.png|invert_dark](/img/user/N/assets/NutGoddess_image6.png)  
-![assets/NutGoddess_image7.png|invert_dark](/img/user/N/assets/NutGoddess_image7.png)  
-Az egyiptomi mitológiában Nut az ég istennője, [[G/Geb\|Geb]] a föld\[?\] istene – (testvérekként) házasok. Gyermekeik a csillagok, akiket Nut naponta fölfal[^4] és reggel újra szüli őket (ez a nappal és az éjszaka váltakozása). (Ezért látható Nut szájánál nyugaton és ágyékánál keleten egy-egy napkorong.)  
-Amikor ezen összevesznek, "Su" a szülőjük – a levegő istene – szétválasztja őket: Gebet lent hagyta, Nutot az égbe emelte. \[Zobor László\]  
-Lásd még újfent a Jankovics Marcell A fa mitológiája című könyvéből származó részt is.  
+Lásd még újfent a Jankovics Marcell A fa mitológiája című könyvének 180. oldaláról származó részt is:  
+> A holt – élő, férfi – nő, alul – felül ellentétpárok ![Nut_image20250922185127743.jpeg|fix_dark fix_light right|300](/img/user/N/assets/Nut_image20250922185127743.jpeg)kozmikus megszemélyesítői a fekvő (halott) erektált phalloszú isten és a fölé hajoló, vele lovagló ülésben szeretkező vagy őt felfaló istennő. A tengelyt (oszlopszerűségénél fogva) az eraktált phallosz jelképezi: a ![assets/NutGoddess_image6.png|fix_dark fix_light right|300](/img/user/N/assets/NutGoddess_image6.png)világtengelyt megszemélyesítő görög [[P/Prométheusz\|Prométheusz]] neve a "tűzcsiholó fúró" jelentésű szanszkrit `pramantha` szóra vezethető vissza. A Tejút, mint a világfa is, a párja fölé hajló istennőkben személyesül meg. A világfa jellemző nőies tulajdonsága a tejesség, és a vele azonosítható istennők is anyák vagy szoptatós dajkák. A tejességnek (fehérségnek) a láthatatlan világtengelyre vonatkoztatva semmi értelme, annál inkább illik a "tejes" csillagútra.  
 
-#### Jankovics Marcell írja:
-
+Másutt írja:  
 > Egyiptom első számú gyermekszülő faistennője Nut anya volt. Általában az égbolttal szokás azonosítani. Fivérével, [[G/Geb\|Geb]] földistennel nemzette ikergyermekeit: [[I/Ízisz\|Ízisz]]t és [[O/Ozirisz\|Ozirisz]]t, [[N/Nephthys\|Nephthüsz]]t és [[S/Széth\|Szeth]]et. Őt tekintik Ré napisten anyjának is. Legjellemzőbb ábrázolásain ívben hajol Geb fölé, lábaival és kezeivel az ég tartóoszlopaival a keleti, illetve nyugati horizontra támaszkodik. Mítosza szerint **esténként fölfalja, reggelente újraszüli égitestgyermekeit**. Ezért látható a [[S/Száj\|száj]]ánál (nyugaton) és ágyékánál (keleten) egy-egy napkorong, sőt néha a testében is, mivel úgy képzelték, a **Nap éjjel Nut testén halad keresztül**.  
 > Az orális-szűzi-fogantatás tana (ld. a mesehőst, akinek anyja szőlőszem elfogyasztásától esik teherbe) összefügg a napjárás körkörösségével, és Nut mítoszából érthető meg. Mivel a Nap nem ott kél (születik), ahol lenyugodott (meghalt, ill. fogamzott), a fiúistennek, hérosznak, mesehősnek, akiknek karakterét mindig színezi néhány napisteni vonás, a fogantatása sem mehet a szokott módon végbe (42. kép). Nut istennő testesül meg az Oziriszt szülő és szoptató szikomorfában, ő a "szent Ised-fa az obeliszkek házában", mely Ré napistent a világra hozta. Úgy mondták: Ré kettéhasítja a fa törzsét, úgy lép belőle a világra. Ez a kép látni fogjuk a téli napfordulókor "megnyíló" tejúthasadékból kelő Nap metaforája.  
 > A III. Thotmesz sírjában lévő falfestményen (6. kép) Nut mint szikomorfa saját gyermekeként szoptatja az elhunyt fáraót. A fáraó életében a Nap (Ré) megtestesülése volt, halálában viszont "Ozirisszá" lett, vagyis megtért Ozirisznak, az alvilág királyának a kebelére. A fáraó tehát életében és holtában Nut fiának tekinthette magát. (Az összefüggéseket még szorosabbra fűzi, hogy Ozirisz – Szethtel – együtt Egyiptom első mitikus királya volt). Az elhunyt és Ozirisszá lett fáraó visszatér Nut méhébe, mint az esténként meghaló és Nut által elnyelt Nap. Így válhat a majdani újjászületés reményében ő is az örök körforgás részévé. Ez a képzet ölt formát a koporsóban, amit szikomorfából, "nutból" ácsoltak az egyiptomiak, és belső oldalára a halott fölé boruló örök éjszaka képmásaként Nut alakját festették (43. kép). Az istennő által elnyeletve a halott újranemzi önmagát, ilyen értelemben a fáraó holtteste fölé boruló Nutképmás képletesen asszonyi vigaszt is nyújt neki, hisz helyzeténél fogva: koporsóban fekve, föld alá temetve az ő férjének, Gebnek részévé vált.  
 
 Jankovics Marcell A fa mitológiája című könyvének 203-205. oldalán további információkat hoz Nutról és Gebről, még további képekkel.  
 
-[[E/Eire\|Eire]] címnél volt szó arról legutóbb, hogy az egyiptomi Nut – Geb felfogás (nő felül, mint lég/ég és férfi alul, mint föld\[?\]) meglehet [[E/Éva\|Éva]] – Ádám (innen jöhet föld jelentése is) viszonylatában, miután az Éva/Héva nevekhez hasonló szavak sorakoznak lég jelentéssel. \[Közben [[G/Geb\|Geb]] címnél megjelent annak cáfolata, hogy földet jelentene.\]
+[[E/Eire\|Eire]] címnél volt szó arról legutóbb, hogy az egyiptomi Nut – Geb felfogás (nő felül, mint lég/ég és férfi alul, mint föld\[?\]) meglehet [[E/Éva\|Éva]] – Ádám (innen jöhet föld jelentése is) viszonylatában, miután az Éva/Héva nevekhez hasonló szavak sorakoznak lég jelentéssel.  
+- [[G/Geb\|Geb]] címnél pedig megjelent annak cáfolata, hogy földet jelentene.
 
-Ami másutt ([[G/Galactic centre\|Galactic centre]] és [[O/Ozirisz és Széth\|Ozirisz és Széth]] címnél) is szerepelt:  
-A tejúthasadék egy sötét lyuk az égen, amit a Tejút két ága ölel körül: a régiek ezt tekintették a nagy istennő [[V/Vulva\|vulvá]]jának. Az égi szikomorfa (Nut) hasítéka, amiből Ré napisten a világra jön, a tejúthasadék. Ide repül a [[H/Hattyú csillagkép\|Hattyú csillagkép]] – a mítoszban Zeusz –, hogy a Tejútistennőt megtermékenyítse, ide hatol be a [[K/Kígyó csillagkép\|Kígyó csillagkép]] farka, amikor Eurünoméval, a mindenség úrnőjével a világot "hozza össze" (a hattyúnyak, kígyófarok ősi phallikus jelképek). A Skorpiót az asztrológia a nemi szervek és a végbélnyílás állatjelképének tartja, sok afrikai nép pedig az állatban egyenesen a női nemi szerv megtestesítőjét látja; mérges fullánkját – az égen a Skorpió veres Antares csillagát – a clitorisszal azonosítja.  
-![assets/NutGoddess_image8.png|invert_dark](/img/user/N/assets/NutGoddess_image8.png)  
-Nut és Geb két gyermeke, Ozirisz (az [[O/Orion\|Orion]] csillagkép) és Ízisz (a [[S/Szíriusz\|Szíriusz]] csillag) a Tejúton látható egymás mellett, s kettősük jelezte az egyiptomi év elejét és végét (114. kép).  
-Az egyiptomiak kereken 365 napos évvel számoltak, ebből az utolsó 5 nap külön figyelemben részesült, mivel Nut és Geb másik két gyermeke, valamint [[H/Hórusz\|Hórusz]], Ozirisz és Ízisz fia is ekkor született. A Szíriusz csillag évenkénti eltűnését (terhességét Hórusszal, azaz együttállását a Nappal) követő újbóli megjelenése (heliakus felkelése) elvben az új év kezdetét és a Nílus áradását jelentette. (Csak azért elvben, mert az egyiptomi év egy negyed nappal rövidebb lévén a valóságosnál, az újév napja 4 évenként 1 teljes nappal eltolódott a Szíriusz felkeléséhez és az áradás kezdetéhez képest.)  
-Nutot minden égitest anyjának tartották, aki nyugaton nap mint nap felfalja, keleten pedig világra hozza őket.  
+Jankovics Marcell A fa mitológiája című könyvének 203. oldalától szereplő, [[G/Galactic centre\|Galactic centre]] és [[O/Ozirisz és Széth\|Ozirisz és Széth]] címnél is hozott passzusa is kerüljön ide:  
+> A [[G/Galactic centre\|tejúthasadék]] egy sötét lyuk az égen, amit a Tejút két ága ölel körül: a régiek ezt tekintették a nagy istennő [[V/Vulva\|vulvá]]jának. Az égi szikomorfa (Nut) hasítéka, amiből Ré napisten a világra jön, a tejúthasadék. Ide repül a [[H/Hattyú csillagkép\|Hattyú csillagkép]] – a mítoszban Zeusz –, hogy a Tejútistennőt megtermékenyítse, ide hatol be a [[K/Kígyó csillagkép\|Kígyó csillagkép]] farka, amikor Eurünoméval, a mindenség úrnőjével a világot "hozza össze" (a hattyúnyak, kígyófarok ősi phallikus jelképek). A Skorpiót az asztrológia a nemi szervek és a végbélnyílás állatjelképének tartja, sok afrikai nép pedig az állatban egyenesen a női nemi szerv megtestesítőjét látja; mérges fullánkját – az égen a Skorpió veres Antares csillagát – a clitorisszal azonosítja.  
+> Nut és Geb ![assets/NutGoddess_image8.png|fix_dark fix_light right|300](/img/user/N/assets/NutGoddess_image8.png)  két gyermeke, Ozirisz (az [[O/Orion\|Orion]] csillagkép) és Ízisz (a [[S/Szíriusz\|Szíriusz]] csillag) a Tejúton látható egymás mellett, s kettősük jelezte az egyiptomi év elejét és végét (114. kép).  
+> Az egyiptomiak kereken 365 napos évvel számoltak, ebből az utolsó 5 nap külön figyelemben részesült, mivel Nut és Geb másik két gyermeke, valamint [[H/Hórusz\|Hórusz]], Ozirisz és Ízisz fia is ekkor született. A Szíriusz csillag évenkénti eltűnését (terhességét Hórusszal, azaz együttállását a Nappal) követő újbóli megjelenése (heliakus felkelése) elvben az új év kezdetét és a Nílus áradását jelentette. (Csak azért elvben, mert az egyiptomi év egy negyed nappal rövidebb lévén a valóságosnál, az újév napja 4 évenként 1 teljes nappal eltolódott a Szíriusz felkeléséhez és az áradás kezdetéhez képest.)  
+> Nutot minden égitest anyjának tartották, aki nyugaton nap mint nap felfalja, keleten pedig világra hozza őket.  
 
 #### Pálfi Ágnes József Attila költészete és a nagy Nap-év...
 
@@ -121,8 +125,7 @@ A [[G/Geb\|Geb]], [[S/Sziget\|sziget]], [[S/Skorpió csillagkép\|Skorpió csill
 - Azt azért jegyezzük meg, hogy [[A/Arianrhod\|Arianrhod]], [[M/MISZ\|MISZ]] és [[Z/Zodiac\|zodiac]] címnél folyamatosan arról szóltunk (Jankovics Marcell is tulajdonképpen megerősítette), hogy a Tejút nem összeegyeztethetetlen az állatöv/ekliptika fogalmával, miután a Nap ezen utat járja be.  
 \[Új adat közben: magyar [[R/Remese\|remese]] = végbél.\]  
 
-A Wikipédia adata szerint a mitológikus gondolkodás Nut két kezét és lábát a négy kardinális (lásd [[C/Cardinal\|cardinal]]) iránynak feleltette meg:  
-![assets/NutGoddess_image10.png|invert_dark](/img/user/N/assets/NutGoddess_image10.png)  
+A Wikipédia adata szerint a mitologikus gondolkodás Nut két kezét és lábát a négy kardinális (lásd [[C/Cardinal\|cardinal]]) iránynak feleltette meg:  
 > Nut is also the barrier separating the forces of chaos from the ordered cosmos in the world. She was pictured as a woman arched on her toes and fingertips over the earth; her body portrayed as a star-filled sky. Nut's fingers and toes were believed to touch the four cardinal points or directions of north, south, east, and west.  
 > —  
 > Nut egyben a káosz erőit a világ rendezett kozmoszától elválasztó gát is. Lábujjhegyen és ujjhegyeken a föld fölé ívelő nőként ábrázolták; testét csillagokkal teli égboltként ábrázolták. Nut ujjairól és lábujjairól úgy hitték, hogy a négy kardinális pontot vagy irányt érintik: észak, dél, kelet és nyugat.  
@@ -142,13 +145,17 @@ Ehhez képest a mindenben a Nagy Medve csillagképet kereső ...
 > The picture of the beginning of the world (Fig 39) shows Nut assisted by various ram-headed gods with curly horns. In addition and perhaps as significantly, the shape of Nut as she spans creation is the same shape as the cup of Ursa Major (inset) with interior angles of 108⁰.  
 > —  
 > A világ kezdetét ábrázoló képen (39. ábra) Nut különböző kosfejű, göndör szarvú istenek segítségével látható. Ezenkívül, és talán ugyanilyen jelentős, a teremtést átívelő Nut alakja megegyezik az Ursa Major csészéjének alakjával (mellékelt kép), amelynek belső szögei 108⁰.  
-> ![assets/NutGoddess_image12.jpeg|invert_dark](/img/user/N/assets/NutGoddess_image12.jpeg)  
+> ![assets/NutGoddess_image12.jpeg|fix_light](/img/user/N/assets/NutGoddess_image12.jpeg)  
 - Egyébként tényleg hasonlít hozzá, viszont fentebb más ábrázolásokban nem volt hangsúlyos a 108⁰-ot bezáró alakzat.  
 
 A Tejútanya különböző testrészeit, arról, hogy mi minek feleltethető meg, lásd például [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]]. (Illetve alant valamiféle összefoglalás készül.)  
+![assets/NutGoddess_image10.png|fix_dark fix_light|840](/img/user/N/assets/NutGoddess_image10.png)  
+
+{ #250903}
+
 
 Nutnak (szerepét később Ízisz[^8] és állatalakban [[H/Hathor\|Hathor]][^9] is átvette) más mitológiában megfelel a görög [[A/Artemisz\|Artemisz]] és Héra, római Diána, a germán [[F/Freyja\|Freyja]], magyar [[T/Tündér Ilona\|Tündér Ilona]]. (Teljesebb felsorolást lásd [[M/Magna Mater\|Magna Mater]].)  
-![assets/NutGoddess_image13.png|invert_dark](/img/user/N/assets/NutGoddess_image13.png)  
+![assets/NutGoddess_image13.png|fix_dark fix_light|840](/img/user/N/assets/NutGoddess_image13.png)  
 
 Lásd még [[N/Nudd\|Nudd]] és [[N/Nutar\|Nutar]]. Hasonló egyiptomi nevek [[N/Neith\|Neith]] és [[M/Mut\|Mut]].  
 [[N/Neith\|Neith]]et azonosnak mondja Magyar Adorján Nuttal, míg Jankovics Marcell Neithet [[A/Artemisz\|Artemissz]]el, aki akár mint Héra, vagy Diána azonos Nuttal.  
@@ -205,7 +212,7 @@ Elgondolkozhatunk azon is, hogy mint Amanda-Alice Maravelia Nut and her relation
 > —  
 > Nut ábrázolása és az égi boltozat alátámasztása Shu által, amelyet IV. Ramesszé sírjában találtak (fent). Alul:  
 > Részlet ugyanebből a jelenetből, amelyen Nut hátsó része és Shu felső része, valamint a szöveg egy része látható (Nut könyve és az Éjszaka könyve). A képen az égistennő csillagokat hordozó hátsó részének katoptrikus ábrázolása is látható. Az **istennő végbélnyílásának és szeméremtestének** közelében Sothis Sirius és Sah (Orion) hieroglifikus neve látható.  
-> ![assets/NutGoddess_image14.png](/img/user/N/assets/NutGoddess_image14.png)  
+> ![assets/NutGoddess_image14.png|840](/img/user/N/assets/NutGoddess_image14.png)  
 > Figyeljük meg az élénk színeket: az aranysárga Nut teste, amely a napfényre utal; és az égszínkék háttér, amely az ősi vizes óceánra (Nun), az energia és a teremtés virtuális forrására utal.  
 
 Egyébként már Jankovics Marcellnél is szóba került anus és vulva kapcsán Nut és Geb ([[G/Geb\|Geb]], [[S/Skorpió csillagkép\|Skorpió csillagkép]], [[S/Sziget\|sziget]] és [[Z/Zodiac\|zodiac]] címnél is szerepelt):  
@@ -230,7 +237,7 @@ Ha már a latinnál tartunk, CzF (éj címnél álló) adata szerint a dió héj
 - Ez azért is érdekes, mert az olasz `noce` = dió egyezik a spanyol `noche` = éj(szaka) szóval is. (Igaz, a latin `nux`, nuc [[M/Makk\|makk]] és [[M/MAG\|mag]] szavainkkal való egyeztetése nyomán akár vakvágány is lehet ez a vonal.)  
 
 Ergo a dió jelentésében is meg kell lennie a [[N/Nyug\|nyug]] (halál/újjászületés) illetve a nő(iség) fogalomnak. Úgy tűnik, hogy a kelta-ír `cnù` = dió is valójában nyu, vagy hangátvetve kún, mely a nyug megfordítása is (pontosabban a (el)hunyni, kihúnyni azaz meghalni jelentésű szó megfordítása adja a nyugszik, [[N/Nyugat\|nyugat]] szavak gyökét). A kelta-ír `cnù` alakjával azonos [[G/Gnu\|gnu]] ((hosszúkásfejű(!)) nagytestű antilopféle, azaz tulajdonképpen szarvas/őz/ős) is ugyanígy vizsgálandó: ünő (előtéttel: günő, gönye = emse, de gondolhatunk rá üszőként is), azaz nem más, mint a égi [[C/Csudaszarvas\|Csudaszarvas]] (csak éppen délen jelenik meg, nem a rénszarvasok hazájában).  
-![assets/NutDio_image1.png|invert_dark](/img/user/N/assets/NutDio_image1.png)  
+![assets/NutDio_image1.png|fix_dark fix_light|840](/img/user/N/assets/NutDio_image1.png)  
 Szumma szummárum, a nux, nut és cnù nevekben az (g)ünő és nyug-szik értelmek keverednek.  
 A mellékelt, [[D/Dió\|dió]] címnél is meglévő információ alapján még az sem elképzelhetetlen, hogy [[T/Tündér\|tündér]] szavunk [[T/TÜN\|TÜN]] elemének megfordításával, vagy [[N/Nyű\|nyű]] szavunkkal, annak valamely jelentésével van dolgunk (gondoljunk Fanyűvő nevére és Jankovics Marcell adatára, miszerint a fanyűvés azt jelenti, hogy a Tejútfa/Csudaszarvas a precessziós Nagy Évben elfordul).  
 
