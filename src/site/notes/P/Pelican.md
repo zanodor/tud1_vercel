@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pelican/","title":"Pelican","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-07-29T22:53","updated":"2025-07-29T22:54"}
+{"dg-publish":true,"permalink":"/P/Pelican/","title":"Pelican","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-07-29T22:53","updated":"2025-09-22T21:10"}
 ---
 
 
@@ -46,14 +46,13 @@ A [[P/Pelaszg\|pelaszg]] és [[P/Peregrine\|peregrine]] név gyökével is szép
 > Virágos, kertes házban lakik a Pelikán király. Amikor hazatér, háza fénnyel teli meg (*A pelikán király*). A templomba járó ember érthette, kire utal e kép. A pelikán annak szimbóluma volt, aki követőinek örök világosságot ígért \[Jézusra gondolt\].  
 - Márpedig, és ezt Jankovics Marcell sem tudta, peli ([[B/Bél\|Bél]], [[B/Béla\|Béla]]) utal a Nap fényére, Kán pedig úr, mint például a [[V/Vulcan\|Vulcan]] névben.
 
-![assets/Pelican_image1.png](/img/user/P/assets/Pelican_image1.png)  
-![assets/Pelican_image2.png](/img/user/P/assets/Pelican_image2.png)  
-
 #### Molnár V. József Világ-Virág...
 
 ...című könyvének 114. oldalán írja:  
-> A lépcsőből induló [[S/Spiral\|spirál]]: az önmagába csípő pelikán, az önfeláldozó élet képjele. (Az élet, a megújulás feltétele az áldozat. Gondoljunk csak a földbe került mag szerepére. A mag a létezés szélső helyzete, a szemmé sűrűsödött tétlen képesség. A Nap, a "sugárzó" parancsára lesz a csíra szülője, tápláló anyja, s miután a növény fényre bontja leveleit, magléte megszűnik, másik alakban él tovább. Számtalan templomunk szószékének koronája a kitárt szárnyú pelikán madár: Jézus jelölője.) A pelikán képjelből spirállal indító lépcső pedig a hattyú: a halál, a másik világ megidézője, a visszafelé út az új kezdetig – a pelikán képjel "csavart" fordítottja. Az azték pajzs lépcső-spirálját (158. ábra) Nap koronázza, a sugárral teremtő, az "áldott".  
-> A lépcsőspirál alakú cserépedényt (159. ábra) a nazcai műveltségben feltehetően termékenységvarázsló szertartásokon használták. Az oldalfalára írt folyamatábra a harc, az áldozattal megújuló élet jelölője. A lépcső és a spirál ivókáját a fogantyú köti össze, mintegy átívelve a halál (áldozat) és az élet (megújulás) között látszólagos szakadékot. A szakadék, a lépcső és a spirál közös belső tere (az általuk határolt "üresség") pedig nem más, mint szerveződésük alapja, az [[L/L#L-alak\|L-alak]]: a bennük és általuk megőrzött múlt, a közvetve jelenlévő "ős-szülő" lelke.  
+> A lépcsőből induló [[S/Spiral\|spirál]]: az önmagába csípő pelikán, az önfeláldozó élet képjele. (Az élet, a megújulás feltétele az áldozat. Gondoljunk csak a földbe került mag szerepére. A mag a létezés szélső helyzete, a szemmé sűrűsödött tétlen képesség. A Nap, a "sugárzó" parancsára lesz a csíra szülője, tápláló anyja, s miután a növény fényre bontja leveleit, magléte megszűnik, másik alakban él tovább. Számtalan ![assets/Pelican_image2.png|fix_dark fix_light right|200](/img/user/P/assets/Pelican_image2.png)templomunk szószékének koronája a kitárt szárnyú pelikán madár: Jézus jelölője.) A pelikán képjelből spirállal indító lépcső pedig a hattyú: a halál, a másik világ megidézője, a visszafelé út az új kezdetig – a pelikán képjel "csavart" fordítottja. Az azték pajzs lépcső-spirálját (158. ábra) Nap koronázza, a sugárral teremtő, az "áldott".  
+> A lépcsőspirál alakú cserépedényt (159. ábra) a nazcai műveltségben feltehetően termékenységvarázsló szertartásokon használták. Az oldalfalára írt folyamatábra a harc, az áldozattal megújuló élet jelölője.  
+> ![assets/Pelican_image1.png|fix_dark fix_light|840](/img/user/P/assets/Pelican_image1.png)  
+> A lépcső és a spirál ivókáját a fogantyú köti össze, mintegy átívelve a halál (áldozat) és az élet (megújulás) között látszólagos szakadékot. A szakadék, a lépcső és a spirál közös belső tere (az általuk határolt "üresség") pedig nem más, mint szerveződésük alapja, az [[L/L#L-alak\|L-alak]]: a bennük és általuk megőrzött múlt, a közvetve jelenlévő "ős-szülő" lelke.  
 - [[B/Búza\|Búza]], [[F/Feltámadás\|Feltámadás]], [[S/Spiral\|spiral]] és [[H/Hattyú\|hattyú]] címnél is szerepelt.
 
 A 123. oldalon ismét említi a pelikán és hattyú jelét, majd a 124. oldalon madárrá, pelikánná változásról, annak lehetőségéről szól növény-virág lépcsőspiráljai kapcsán, majd a 126. oldalon tarnaszentmáriai templom kőbe faragott képjelei elemzésénél önmagába csípő pelikánt lát, a 127. oldalon így meg nem nevezett önmagába csípő spirálmadárt említ (szöveget ahhoz bővebben lásd [[S/Szarv\|szarv]] és [[S/Spiral\|spiral]]).  
