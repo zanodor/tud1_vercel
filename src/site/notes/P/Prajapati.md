@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Prajapati/","title":"Prajapati","tags":["Englishtexttranslated"],"created":"2024-10-23T20:04","updated":"2024-12-18T10:51"}
+{"dg-publish":true,"permalink":"/P/Prajapati/","title":"Prajapati","tags":["Englishtexttranslated"],"created":"2024-10-23T20:04","updated":"2025-09-22T21:31"}
 ---
 
 
@@ -11,20 +11,19 @@ Az indiai mitológiában a Teremtmények Ura címet azért érdemelhette ki, mer
 Jankovics Marcell írása [[O/Orion\|Orion]] címnél arról is szól, hogy a precesszió miatt változott Orion mitológiája; ergo ez akár arra is rámutathatna, hogy a védikus irodalom mely korra tehető. Ezzel kapcsolatosan is lásd Tilak Orionját.  
 
 A pontos eredetét a mítosznak feledvén a hinduk olyannyira nem voltak tisztában valódi kilétével, hogy egy Teremtő Isten[^1] titulusa mellé sok más, hindu "szent iratokból" ismert istennévvel kapcsolatba hozták. A Wikipédia szerint:  
-> The term also connotes many different gods, depending on the Hindu text, ranging from being the creator god to being same as one of the following: Brahma, Vishnu, Shiva, Agni, Indra, Vishvakarma, Bharata, Kapila and many others.  
+> The term ![assets/Prajapati_image1.jpeg|fix_dark fix_light right|150](/img/user/P/assets/Prajapati_image1.jpeg)also connotes many different gods, depending on the Hindu text, ranging from being the creator god to being same as one of the following: Brahma, Vishnu, Shiva, Agni, Indra, Vishvakarma, Bharata, Kapila and many others.  
 > —  
 > A kifejezés a hindu szövegtől függően sokféle istent is jelent, a teremtő istentől kezdve a következő istenek egyikével való azonosságig: Brahma, Visnu, Siva, Agni, Indra, Vishvakarma, Bharata, Kapila és még sokan mások.  
-> ![assets/Prajapati_image1.jpeg|invert_dark](/img/user/P/assets/Prajapati_image1.jpeg)  
 
 Így magyarázza a furcsa jelenséget George Williams:  
 > According to George Williams, the inconsistent, varying and evolving Prajapati concept in Hindu mythology reflects the diverse Hindu cosmology.  
 > —  
 > George Williams szerint a hindu mitológia ellentmondásos, változó és fejlődő Pradzsapati-fogalma a hindu kozmológia sokszínűségét tükrözi.  
 - Inkább a zavart jellemzi, de indo-európainak meg kell tudni magyarázni mindent. Azaz "magyarázni" sosem tudja: anglicizálni, szemitizálni, stb. tudja. Lásd még a csatolt képet arról, mennyire nem tudja senki hová elhelyezni eredetét, jelentőségét.  
-![assets/Prajapati_image2.png|invert_dark](/img/user/P/assets/Prajapati_image2.png)  
+![assets/Prajapati_image2.png|fix_dark fix_light|840](/img/user/P/assets/Prajapati_image2.png)  
 
 Ami tehát a név etimológiáját illeti, Prajapati előtagja Praja = teremtmények (gyakorlatilag a sarj szavunk b-előhangos változata lehet \*barj = barom; lásd még [[T/Teremtő és teremtett\|Teremtő és teremtett]]), utótagja Pati = úr, de tulajdonképpen a latin `pater` gyökével való egyeztethető és úgy tűnik, inkább becézett alak, mintsem Pat-I alakban bontandó. Pátyolgatónak is lehet venni. Lásd még erről [[P/Pater\|pater]], [[P/Patriot\|patriot]], [[B/Betyár\|betyár]] szavakat.  
-~~(Nem elképzelhetetlen, hogy eredeti nevéről csak egy átmódosított név ez és eredetileg kb. Előre-Lépegetőt jelentett. Lásd arról alant, hogy valójában miért üldözte szerelmével lányát.)~~  
+
 Ugyanakkor alant előjövő Mrajapati forma alapján lehet a [[M/Mriga\|mriga]] eredetben gondolkodni; annál is inkább, mert a történet szerint is szarvas-apa, és akkor ezt neve is tökéletesen tükrözné.  
 
 Említ még a Wiki adatot arra nézve, hogy temetési kultuszt kötöttek nevéhez Bali szigetén is:  
@@ -36,12 +35,12 @@ Ami azért érdekes, mert Ozirisz-Vezér-Kilenc-Vadász-Kaszás-Orion is a holta
 Érdekesmód a Wikipedia oldalán egyetlen említést sem tesznek arról, hogy Prajapati csillagkép lenne, holott ez a lényeg. Illetve az Aitareya Brahmana történetét röviden ismerteti:  
 > The Aitareya Brahmana offers a different myth, wherein Prajapati having created the gods, metamorphosed into a stag and approached his daughter \[[[Rohini\|[Rohini]]\] at dawn who was in the form of a doe, to produce other earthly beings. The gods were horrified by the incest, and joined forces to produce angry destructive [[R/Rudra\|Rudra]] to punish Prajapati for "doing what is not done". Prajapati was killed by Rudra.  
 > —  
-> Az Aitareya Brahmana egy másik mítoszt kínál, amelyben Pradzsapati, miután megteremtette az isteneket, szarvassá változott, és hajnalban megközelítette lányát \[[[Rohini\|[Rohini]]\], aki őzike alakban volt, hogy más földi lényeket teremtsen. Az istenek elborzadtak a vérfertőzéstől, és egyesítették erőiket, hogy létrehozzák a dühös pusztító [[R/Rudra\|Rudrá]]t, hogy megbüntessék Pradzsapatit, amiért "azt teszi, amit nem tesz". Pradzsapatit Rudra megölte.  
+> Az Aitareya Brahmana egy másik mítoszt kínál, amelyben Pradzsapati, miután megteremtette az isteneket, szarvassá változott, és hajnalban megközelítette lányát \[[[Rohini\|[Rohini]]t\], aki őzike alakban volt, hogy más földi lényeket teremtsen. Az istenek elborzadtak a vérfertőzéstől, és egyesítették erőiket, hogy létrehozzák a dühös pusztító [[R/Rudra\|Rudrá]]t, hogy megbüntessék Pradzsapatit, amiért "azt teszi, amit nem tesz". Pradzsapatit Rudra megölte.  
 
 ## Csillagisme
 
-Az indiai mitológiában [[O/Orion\|Orion]] neve PrajaPáti, "Az égi óriás", aki szerelmével üldözi saját lányát, [[R/Rohini\|Rohini]]t, a Bika [[A/Aldebaran\|Aldebaran]]ját, de Rudra-Szíriusz, a "Bosszúálló" nyilával megöli[^2]. A **testébe fúródó nyíl az Orion-öv**.  
-Tilak Orionjában foglaltak szerint Prajapati nem más, mint [[M/Mrigashira\|Mrigashira]], kinek őzfejébe (ezt is jelentené a név, magyarul Jankovics Marcellnél is Szarvasfő) fúródik ez a nyíl. Lásd képen is ábrázolva ott.  
+Az indiai mitológiában [[O/Orion\|Orion]] neve PrádzsaPáti, "Az égi óriás", aki szerelmével üldözi saját lányát, [[R/Rohini\|Rohini]]t, a Bika [[A/Aldebaran\|Aldebaran]]ját, de Rudra-Szíriusz, a "Bosszúálló" nyilával megöli[^2]. A **testébe fúródó nyíl az Orion-öv**.  
+Tilak Orionjában foglaltak szerint Prajapati nem más, mint [[M/Mrigashira\|Mrigashira]], kinek őzfejébe (ezt is jelentené a név, magyarul Jankovics Marcellnél is "Szarvasfő") fúródik ez a nyíl. Lásd képen is ábrázolva ott.  
 
 #### Jankovics Marcell A fa mitológiája...
 
