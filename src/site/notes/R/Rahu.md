@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Rahu/","title":"Rahu","tags":["Englishtexttranslated"],"created":"2023-11-02T01:34","updated":"2024-10-25T23:57"}
+{"dg-publish":true,"permalink":"/R/Rahu/","title":"Rahu","tags":["Englishtexttranslated"],"created":"2023-11-02T01:34","updated":"2025-09-23T20:32"}
 ---
 
 
@@ -38,7 +38,7 @@ A lényeget tekintve persze mindegy: csata együttállásokra értendő, ezt kor
 > The Navagraha reliefs are eighth- and ninth-century sculptures that portray the seven planetary deities together with the additional eighth and ninth "planets"-the lunar south and north nodes, Ketu and Rahu. In figure 6.8 we can see, on the far right, the monster head, Rahu, and the half-fish  its coiled or knotted tail.  
 > —  
 > A Navagraha domborművek nyolcadik és kilencedik századi szobrok, amelyek a hét bolygóistenséget ábrázolják a további nyolcadik és kilencedik "bolygóval" - a hold déli és északi csomópontjával, Ketu és Rahuval együtt. A 6.8. ábrán a jobb szélső jobb oldalon a szörnyfejű Rahu és a félhalas kígyó-sárkány Ketu látható, tekervényes vagy csomós farkával.  
-> ![assets/Rahu_image1.png](/img/user/R/assets/Rahu_image1.png)  
+> ![assets/Rahu_image1.png|fix_dark fix_light|840](/img/user/R/assets/Rahu_image1.png)  
 
 A Hamlet Malmában is szó esik a nyolcadik és kilencedik "bolygóról," azaz szféráról:  
 > A (sámánisztikus világkép) hét helyett [[K/Kilenc\|kilenc]] ege, az állócsillagok szféráján belül, abból a szokásból ered, hogy a bolygók közé számítják a "Sárkány" (láthatatlan) "fejét" és "farkát", azaz a holdcsomópontokat, melyek közelében bekövetkező együttállások vagy oppozíciók váltják ki a nap- és holdfogyatkozásokat; e "drakonikus" pontok egy fordulata kb. 181/2 évet tesz ki.  
