@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2025-09-16T13:23"}
+{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2025-09-23T22:55"}
 ---
 
 
@@ -243,8 +243,6 @@ A Hamlet Malma című könyv adatait vizsgáló alternatív kutatók, mint péld
 
 ## Szaturnusz az asztrológiában
 
-![assets/Szaturnusz_image4.png|invert_dark](/img/user/S/assets/Szaturnusz_image4.png)  
-![assets/Szaturnusz_image5.png|invert_dark](/img/user/S/assets/Szaturnusz_image5.png)  
 
 Kiegészítés a fenti Jankovics Marcell passzus mellé:  
 A Szaturnusz a Nap által uralt Oroszlán jeggyel szemközti[^15] Bak és Vízöntő jegyekben uralkodik. Napi szinten legfőképpen az éjfél utáni órákban hangsúlyos. (Éjfél után 1-4 órákban születnek meg a nagy gondolkodók ötletei, de ilyenkor dolgoznak a tolvajok is.) Ergo a képen az alsó fél (a pokol, [[H/Hell\|hell]]: ez a kép ott is szerepel) felelős az introvertált gondolkodásért, a felső az extrovertáltért.  
