@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2025-09-20T14:00"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2025-09-23T16:49"}
 ---
 
 
@@ -143,6 +143,6 @@ A szumer nyelvet négy magánhangzóval értelmezik, az U, A, E, I hangzókkal, 
 
 [^3]: Lábjegyzet:  
 [Ezen](https://qr.ae/pNZVWF) Quora válaszban a román író is a balkáni nyelvek azon funkciójáról szól, mely szerint a szavak végéhez csapják szintén a névelőt:  
-In Romanian, `vulturul`, meaning "the vulture" is the declension of the noun "vultur", "-ul" being an enclitic definite article, equivalent to the English "the". Romanian, in addition to being a Romance language, is also part of the Balkan Sprachbund, wherein definite articles are enclitic.  
+In Romanian, `vulturul`, meaning "the vulture" is the declension of the noun `vultur`, "-ul" being an enclitic definite article, equivalent to the English "the". Romanian, in addition to being a Romance language, is also part of the Balkan Sprachbund, wherein definite articles are enclitic.  
 —  
-A román nyelvben a `vulturul`, azaz "a keselyű" a "vultur" főnév deklinációja, az "-ul" pedig az angol "the" szóval egyenértékű enklitikus határozott névelő. A román nyelv, amellett, hogy román nyelv, a balkáni nyelvkészlet része is, ahol a határozott névelők enklitikusak.  
+A román nyelvben a `vulturul`, azaz "a keselyű" a `vultur` főnév deklinációja, az "-ul" pedig az angol "the" szóval egyenértékű enklitikus határozott névelő. A román nyelv, amellett, hogy román nyelv, a balkáni nyelvkészlet része is, ahol a határozott névelők enklitikusak.  
