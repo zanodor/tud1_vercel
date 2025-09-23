@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Surya/","title":"Surya","created":"2025-08-10T02:48","updated":"2025-08-16T15:32"}
+{"dg-publish":true,"permalink":"/S/Surya/","title":"Surya","created":"2025-08-10T02:48","updated":"2025-09-23T21:35"}
 ---
 
 
@@ -20,7 +20,7 @@ Ezért lehet az, hogy az indben lehet Surya = Nap és [[S/Szíriusz\|Szíriusz]]
 ...című könyvének 71. oldalán írja:  
 > A régiek alapvetően három tüzet különböztettek meg: a Napét, a villámét, és a földi, vulkanikus tüzet. Mindháromnak saját istene volt, a hinduizmusban például Surya, [[I/Indra\|Indra]] és [[A/Agni\|Agni]].  
 
-![Surya_image20250810024733095.jpeg|invert_dark](/img/user/S/assets/Surya_image20250810024733095.jpeg)
+![Surya_image20250810024733095.jpeg|fix_dark fix_light|840](/img/user/S/assets/Surya_image20250810024733095.jpeg)
 
 Dr. Dukkon Ágnes Szláv mitológia című cikkében hozza a **Zorja**/**Zarja** neveket a Nap húga jelentéssel. Azzal hogy, a szanszkrit Surya Napisten (hímség), egyrészt felveti, hogy a [[S/Sister\|sister]] és a [[B/Brother\|brother]] nevek milyen istencsalád-felállást elevenítenek meg, másrészt azt, hogy a szláv és ind mitológia is szkíta eredetű.  
 Nos, valójában nem ezt az összefüggést kell keresni. A szláv Zorja ugyanis a Vámbéry Ármin Égitestek a török-tatár nép kultúrájában című dolgozatának 7. oldalán említett perzsa **Zohra** = Vénusz (azaz Hajnalcsillag) névvel egészen azonosnak látszik (csak hangugrás történt).  
