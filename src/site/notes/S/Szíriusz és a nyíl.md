@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:54","updated":"2025-06-07T19:11"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:54","updated":"2025-09-23T23:36"}
 ---
 
 
@@ -15,7 +15,7 @@ Persze a görög ábrázolásokon is Nimrud íját a Bika Csk. irányába feszí
 [[N/Nimrud#Nimrud vadász íja – merre áll és mint öl/nemz\|Nimrud vadász íja – merre áll és mint öl/nemz]] cím/alcímnél közben egy újszerű gondolatot vetettem fel: Nimrud íja/nyila a Tejútközpontban lévő vulva irányába is szegeztethet, hiszem szemből nem lehetett megrajzolni.  
 Ez az elképzelés mondjuk ellentmond [[S/Száj\|száj]] és más címnél írottaknak, az igaz.  
 
-![assets/Szirnyil_image1.png|invert_dark](/img/user/S/assets/Szirnyil_image1.png)  
+![assets/Szirnyil_image1.png|fix_light](/img/user/S/assets/Szirnyil_image1.png)  
 
 #### Noah Brosch Sirius Matters...
 
@@ -25,10 +25,9 @@ Ez az elképzelés mondjuk ellentmond [[S/Száj\|száj]] és más címnél írot
 
 
 
-> The square zodiac at Denderah shows α CMa in the form of a five-pointed star between the horns of a cow carried in a boat (Figure 2.10). The boat is followed by the goddess Satet, carrying a bow and an arrow pointed at Sirius, an image probably linked with the Nile flooding. We shall see later that other civilizations adopted a link between Sirius and a bow-and-arrow configuration.  
+> The ![assets/Sothis_image4.png|fix_dark fix_light right|300](/img/user/S/assets/Sothis_image4.png)square zodiac at Denderah shows α CMa in the form of a five-pointed star between the horns of a cow carried in a boat (Figure 2.10). The boat is followed by the goddess Satet, carrying a bow and an arrow pointed at Sirius, an image probably linked with the Nile flooding. We shall see later that other civilizations adopted a link between Sirius and a bow-and-arrow configuration.  
 > —  
 > A [[E/Egyiptomi szalag zodiákus\|denderai szögletes állatöv]] az [[C/Canis Maior\|Canis Maior]] alfáját (Szíriusz) egy ötágú csillag formájában mutatja egy tehén szarvai között, amelyet egy csónakban visznek. A csónakot [[S/Satet\|Szatet]] istennő követi, aki íjat és nyilat tart a Szíriuszra irányítva, mely kép valószínűleg összefügg a Nílus áradásával. Később látni fogjuk, hogy más civilizációk is átvették a Szíriusz és az íj-nyíl alakzat kapcsolatát.  
-> ![assets/Sothis_image4.png|invert_dark](/img/user/S/assets/Sothis_image4.png)
 
 
 </div></div>
@@ -44,16 +43,16 @@ Ez az elképzelés mondjuk ellentmond [[S/Száj\|száj]] és más címnél írot
 > A későbbi perzsák a Szíriuszra [[T/Tír\|Tír]]-ként utaltak, ami szintén "a nyílvesszőt" jelentette.  
 
 A csatolt kép Gavin White Babylonian Star Lore című könyvéből való és [[U/Urgula\|Urgula]] címnél is szerepelt. Iráni és indiai csillagtérkép hiányában (utóbbit lásd [[M/Mrigashira\|Mrigashira]]) megteszi.  
-![assets/Szirnyil_image2.png|invert_dark](/img/user/S/assets/Szirnyil_image2.png)  
+![assets/Szirnyil_image2.png|fix_dark fix_light|840](/img/user/S/assets/Szirnyil_image2.png)  
 
-Babilonban Szíriusz neve MUL.KAK.SI.DI: a Hamlet Malma írói szerint, "aki megméri a tengerek mélyét[^1]". A "[[M/MUL\|Mul]]" egy csillagokat jelölő előképző, KAK.SI.DI jelentése "nyílvessző", s épp ez a nyílvessző áll a legtöbb meghökkentő íjásztörténet hátterében. Az íj, melyből kiröpítik, az [[A/Argo\|Argo]] és [[C/Canis Maior\|Canis Maior]] csillagaiból alkotott csillagkép, s jól ismert Mezopotámia, Egyiptom és Kína övezeteiben. És mivel Istár nevén Vénusz és Szíriusz osztozik, lehet tudni, ki "keveri föl az Apszút Ea előtt".  
+Babilonban Szíriusz neve MUL\.KAK\.SI\.DI: a Hamlet Malma írói szerint, "aki megméri a tengerek mélyét[^1]". A "[[M/MUL\|Mul]]" egy csillagokat jelölő előképző, KAK.SI.DI jelentése "nyílvessző", s épp ez a nyílvessző áll a legtöbb meghökkentő íjásztörténet hátterében. Az íj, melyből kiröpítik, az [[A/Argo\|Argo]] és [[C/Canis Maior\|Canis Maior]] csillagaiból alkotott csillagkép, s jól ismert Mezopotámia, Egyiptom és Kína övezeteiben. És mivel Istár nevén Vénusz és Szíriusz osztozik, lehet tudni, ki "keveri föl az Apszút Ea előtt".  
 
 #### Noah Brosch írja:  
 
 > Dittrich (1928) found evidence in Babylonian writings for a red Sirius. He quoted the writing on a stele dated from king A´sur-nasir-apal (885-860 BCE) that these were the days of KAK.SI.DI, which shone as red as copper. KAK.SI.DI was apparently the name Babylonians gave to Sirius; it formed the tip of the arrow in the depiction of one of their constellations as Figure 2.13 show (Brecher 1979).  
 > —  
 > Dittrich (1928) a babiloni írásokban bizonyítékot talált a vörös Szíriuszra. Egy A´sur-nasir-apal király (i. e. 885-860) korabeli sztélén található írást idézett, amely szerint ezek a napok a KAK.SI.DI napjai voltak, amely vörösként ragyogott, mint a réz. A KAK.SI.DI nyilvánvalóan a babiloniak neve volt a Szíriuszra; ez alkotta a nyíl hegyét az egyik csillagképük ábrázolásán, amint azt a 2.13. ábra mutatja (Brecher 1979).  
-> ![assets/Szirnyil_image3.jpeg|invert_dark](/img/user/S/assets/Szirnyil_image3.jpeg)  
+> ![assets/Szirnyil_image3.jpeg|fix_dark fix_light|840](/img/user/S/assets/Szirnyil_image3.jpeg)  
 
 A [[T/Tír\|tír]] valóban nyíl ma is a perzsában (CzF a tör (vagy tőr?) szóhoz rokonítja).  
 A Szíriusz korábbi iráni Zend elnevezését, szintén íjász-kapcsolódással, Jankovics Marcelltől és Tilaktól származó passzussal kiegészítve lásd [[S/Szíriusz Iránban\|Szíriusz Iránban]].  
