@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szekér/","title":"Szekér"}
+{"dg-publish":true,"permalink":"/S/Szekér/","title":"Szekér","created":"2025-02-24T18:12","updated":"2025-09-23T22:55"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 #### Péterfai János írja:
 
-> Szekér szavunk a Szék (Nap) és Ér (Úr) szóelemekből áll. A Szek-Ér tehát valójában Nap-Úr. A Nap a Szekerén ülve robog át az Ég kék mezején, ezért a szekér egyfajta ülőhely is. A Szekér, mint általában a nagyon régi és mágikus szavak, több jelentésűek. Sze-Kér formában Fény-Kerék, Fény-Kör az értelme. A Sze gyakran Fény, a Kér a Kör társszava. A Szekér kereke kétségtelenül [[N/Napjelkép\|Napjelkép]] volt. Középen a [[T/Tengely\|tengely]], amiből a Küllők ágaznak ki, amelyek a Nap sugaraival vethetőek össze. Kívül van a Kör, Ker alakban. Maga a Ker-Ék szó is Kör-Csillag értelmű. Az Abroncs a külső kör neve, ami Ab-Ron-Cs formában értelmezendő, Háza – a Rohanásnak, a Cs kicsinyítés, utalva arra, hogy nem szabad túl gyorsan rohanni a kerékkel. A magyarokat szekeres népnek is ábrázolták. A Harci szekerek félelmetes támadó eszközök voltak egykor, Kr.e. 4.000 körül találták fel a magyarok. 
+> Szekér szavunk a Szék (Nap) és Ér (Úr) szóelemekből áll. A Szek-Ér tehát valójában Nap-Úr. A Nap a Szekerén ülve robog át az Ég kék mezején, ezért a szekér egyfajta ülőhely is. A Szekér, mint általában a nagyon régi és mágikus szavak, több jelentésűek. Sze-Kér formában Fény-Kerék, Fény-Kör az értelme. A Sze gyakran Fény, a Kér a Kör társszava. A Szekér kereke kétségtelenül [[N/Napjelkép\|Napjelkép]] volt. Középen a [[T/Tengely\|tengely]], amiből a Küllők ágaznak ki, amelyek a Nap sugaraival vethetőek össze. Kívül van a Kör, Ker alakban. Maga a Ker-Ék szó is Kör-Csillag értelmű. Az Abroncs a külső kör neve, ami Ab-Ron-Cs formában értelmezendő, Háza – a Rohanásnak, a Cs kicsinyítés, utalva arra, hogy nem szabad túl gyorsan rohanni a kerékkel. A magyarokat szekeres népnek is ábrázolták. A Harci szekerek félelmetes támadó eszközök voltak egykor, Kr.e. 4.000 körül találták fel a magyarok.
 > A Szekeres névben ma azt látjuk, hogy egy szekéren ülő embert jelöl, a szó -s végződése pedig jelző. Eszünkbe sem jut, hogy az As-Es Házat is jelent, ami miatt a Szeker-Es olyan ember is lehet, akinek szekér a háza. A szekéren lakik, amikor vándorol, és a magyarok is vándoroltak egykoron. A Szeker-Es tehát Szekér-Házi jelentésű elsődlegesen.  
 
 #### Bakos Attila A Duna Evangéliuma...
@@ -29,7 +29,7 @@
 #### Soproni Svetlik Ottó A magyar nyelv szkíta szókincsében...
 
 ...megadja az asszír-babiloni `sekēru` = elzár, akadályoz igét és az alábbiakkal szolgál (a szekér eredeti napistenre vonatkozó fogalmát nem ismeri):  
-> Szekér szavunk bizonyíték a magyarok és a szkítát szoros kapcsolatára, csak mi magyarok ejtjük hasonlóan az akk.-assz. szóhoz! A `sekēru` (szekér) szó akk.-assz. eredetű, Európa egyetlen más nyelvében sem található meg, csak a szkítákon keresztül kerülhetett a magyar nyelvbe, vagyis a szekér szkíta és egyben magyar szó is. A szekér szó jelentésváltozáson ment keresztül a szkítáknál, elvesztette eredeti jelentését, a szkíták nem foglalkoztak mezőgazdasággal, öntözéssel, nem építettek gátakat, a szekeret csak hadi célokra használták, mint szekérvár. A szekér valószínűleg kerekeken guruló mesterséges torlasz volt eredetileg, gátaknál, csatornáknál használták, melyet lovak vagy ökrök húztak a helyszinre, később kezdték a hadászatban is alkalmazni, majd békés célokra használva is megtartotta eredeti nevét. Ezt az állítást megerősíti az akk.-assz. katonai címet, rangot jelentő `sakrumaš` szó is, ez egy összetett szó (sum. `LÚ.KIR₄.DAB`), magyar jelentése 'szekér hajtó, szekér vezető' vagyis, a szekeret "hajtották" már az asszírok idejében is hadászati eszközként. 
+> Szekér szavunk bizonyíték a magyarok és a szkítát szoros kapcsolatára, csak mi magyarok ejtjük hasonlóan az akk.-assz. szóhoz! A `sekēru` (szekér) szó akk.-assz. eredetű, Európa egyetlen más nyelvében sem található meg, csak a szkítákon keresztül kerülhetett a magyar nyelvbe, vagyis a szekér szkíta és egyben magyar szó is. A szekér szó jelentésváltozáson ment keresztül a szkítáknál, elvesztette eredeti jelentését, a szkíták nem foglalkoztak mezőgazdasággal, öntözéssel, nem építettek gátakat, a szekeret csak hadi célokra használták, mint szekérvár. A szekér valószínűleg kerekeken guruló mesterséges torlasz volt eredetileg, gátaknál, csatornáknál használták, melyet lovak vagy ökrök húztak a helyszinre, később kezdték a hadászatban is alkalmazni, majd békés célokra használva is megtartotta eredeti nevét. Ezt az állítást megerősíti az akk.-assz. katonai címet, rangot jelentő `sakrumaš` szó is, ez egy összetett szó (sum. `LÚ.KIR₄.DAB`), magyar jelentése 'szekér hajtó, szekér vezető' vagyis, a szekeret "hajtották" már az asszírok idejében is hadászati eszközként.
 > TESZ: A szekér bizonytalan eredetű. Talán honfoglalás előtti iráni jövevényszó, vö. középiráni \*sukar 'szekér'. A középiráni \*sukar nem lehetett a magyar szekér szó átadója! A proto-finnugor szekér: \*säkVrV, a szekér szó a Khanty (Ostyak): `liker` (V), `ikǝr` (Vj.), `jikǝr` (VK), német 'Schlitten; Narte', magy. 'szánkó, csúszik'. A proto-finnugor \*säkVrV (szekér) szó a magyar szekér és a khanty `liker`, `jikǝr` szavakból lett "rekonstruálva" helytelenül, a szekér akk.-assz. szó, amelyik a szkítákon keresztül terjedt el. A szekér szó finnugor származtatása téves.  
 > Az akk.-assz. `sekēru` változatai: `sakāru`, `sakkiru`, `sēkiru`, `sēkirūtu`, `sekkiru`, `sekretu`, `sekru` B, `sikkūru`, `sikru`, `sukurtu`, `se-ke-rum`. A szekérről ír Czeglédi Katalin is:  
 > "A szekér-nek pedig olyan 'kerék' jelentésű szó szolgált alapul, amely az elnevezéskor a szekér volt, pontosabban a szekér névadáskori ejtése. Ez a szó összefügg a [[T/Teker\|teker]], [[C/Csavar\|csavar]] stb. szavakkal. A magyar népnév valamint a `možara` ~ `mažara` szekérnév egyaránt egy ponthoz, maghoz tartozót jelent."  
@@ -39,7 +39,7 @@ Kerék és szekér jelentésű akkád `magarru`, `mugirru` szavakat lásd [[M/Ma
 Igen érdekes az akkád `naggār magarri` = kerék- és kocsikészítő ([[B/Bognár\|bognár]], honnan [[W/Wagon\|wagon]]er), hiszen mindkét szó magar eredetre megy vissza. ([[N/Nagar\|Naggar]] címhez is betéve.)  
 
 Az [alábbi](https://youtu.be/DqMogRPokq8) Turul és Szarvas IV. rész című ÁKA előadás első felét a [[L/Luca\|Luca]] napnak és a lucázásnak szenteli.  
-![assets/Szekér_image1.png|invert_dark](/img/user/S/assets/Szek%C3%A9r_image1.png)  
+![assets/Szekér_image1.png|fix_light](/img/user/S/assets/Szek%C3%A9r_image1.png)  
 A mellékelt képen az Amerikába és Japánba is meghívott, mondhatni világhírű képíró-asszony, a galgamácsai Vankóné Dudás Juli néni rajza található, mely megörökíti, mit csináltak Luca napján az emberek (mely tréfákról a fonóban és másutt hosszú ideig beszéltek): az hogy a ház vagy a fa ([[V/Világfa\|világfa]], életfa: Tejút) tetejére vitték a szekér darabjait és ott – nagy nehézségek árán – összeszerelték, nálam azt jelenti, hogy a Szék-Úrt, a napot analógiás mágiával akarták magasabbra emelni (a delelő magasság nő is december 24. után). A Luca-szék kifejezésben is a [[S/SZÉK\|Szék]] = Nap, mely ugye [[N/Négy\|négy]] lábú is (bár Kubínyi Tamás 27:40-nél azt mondja és képeket is hoz, hogy ez nem az eredeti: háromlábú széket is bemutat, mondván, tán ez lenne az eredeti).  
 
 Hogy a szekér nem csak a Nap lehet, erről [[S/Szekeres csillagkép\|Szekeres csillagkép]] címnél is volt szó.  
@@ -65,12 +65,12 @@ Bárczy Zoltán Töprengések a hazáról I. című az Ősi Gyökér 2008/2. sz.
 
 #### Wikipédia adata:  
 
-> A szekérvár egy olyan (elsősorban) védekező jellegű hadi taktika, amikor a sereg szekereit a tábor körül védelmi pozíciókba rendezik. A taktikát már az ókorban is használták. A kalandozó magyarok kör alakú szekérvárakban töltötték az éjszakákat. 
+> A szekérvár egy olyan (elsősorban) védekező jellegű hadi taktika, amikor a sereg szekereit a tábor körül védelmi pozíciókba rendezik. A taktikát már az ókorban is használták. A kalandozó magyarok kör alakú szekérvárakban töltötték az éjszakákat.
 
 #### Kiss István és Kiss Álmos Péter Atilla palotája...
 
 ...című az Ősi Gyökér 2010/4. sz. megjelent cikkükben írják:  
-> A hun hadsereg menetközben könnyen felállítható és lebontható nemezsátrakban töltötte az éjszakát és váratlan ellenséges rajtaütésre számítva szekérvárral vették körül a tábort. Ez a táborverés és szekérvár védelem sokkal ésszerűbb volt, mint a római táborverési mód. A gyalogos légióknak ugyanis nap, mint nap, a kötelező, kimerítő gyalogmenet után nehéz földmunkával készített, földfeltöltéssel, valamint karósánccal védett tábort/castrumot kellett építeniük. A római légiósoknak derékszögű négyszögű úthálózattal felosztott táborterületen kellett kötélzettel kikötött, bőrsátraikat felállítani, és továbbinduláskor lebontani.  
+> A hun hadsereg menetközben könnyen felállítható és lebontható nemezsátrakban töltötte az éjszakát és váratlan ellenséges rajtaütésre számítva szekérvárral vették körül a tábort. Ez a táborverés és szekérvár védelem sokkal észszerűbb volt, mint a római táborverési mód. A gyalogos légióknak ugyanis nap, mint nap, a kötelező, kimerítő gyalogmenet után nehéz földmunkával készített, földfeltöltéssel, valamint karósánccal védett tábort/castrumot kellett építeniük. A római légiósoknak derékszögű négyszögű úthálózattal felosztott táborterületen kellett kötélzettel kikötött, bőrsátraikat felállítani, és továbbinduláskor lebontani.  
 
 ## Lábjegyzetek
 
