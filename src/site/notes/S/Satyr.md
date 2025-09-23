@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Satyr/","title":"Satyr","created":"2023-11-13T05:21","updated":"2025-06-08T18:25"}
+{"dg-publish":true,"permalink":"/S/Satyr/","title":"Satyr","created":"2023-11-13T05:21","updated":"2025-09-23T20:55"}
 ---
 
 
@@ -11,8 +11,10 @@ Szatír. Jelentett erdei embert is (`orangutan` is ezt jelenti). Az erdei embere
 
 > A hun-magyar mondákban a Tetejetlen Fa (Arany Atyácska lakóhelye) mögött állt a "Nagy Hegy", ott volt "Arany Atyácska erdeje." Az erdőben laktak a tündér-(sumérul: "dingir", isten)-ek. Az erdőbe nem volt szabad bárkinek bemenni – főleg annak nem, aki "rossz fát tett a tűzre" – és nem volt szabad azt tönkretenni. Az "erdő" az "isten" háza volt és ezt közösen használták az emberek. Ez így a mai napig fennmaradt a székelyeknél. Az erdőt mindig is a székely (akárcsak a kelta) falvak lakói közösen használták, mert senki emberfia tulajdonában nem lehetett. Az erdő az "ÚR"-é, az Úr "háza" = ÚR-TA ("TA" keltául ház). ERDÉLY Magyarországon – ARDENNE Franciaországban, mindkettő "erdő-táj".  
 
-![assets/Satyr_image1.png](/img/user/S/assets/Satyr_image1.png)  
-![assets/Satyr_image2.jpeg](/img/user/S/assets/Satyr_image2.jpeg)  
+|                              |                                    |
+| ---------------------------- | ---------------------------------- |
+| ![assets/Satyr_image1.png](/img/user/S/assets/Satyr_image1.png) | ![[assets/Satyr_image2.jpeg\|310]] |
+
 Az alábbiakban sok mindenről lesz szó és egyelőre hagyom is őket, de időközben sikerült a szatír kilétére fényt deríteni.  
 Az áttörést/megoldást [[C/CSÁR\|CSÁR]], [[T/TUR\|TUR]], [[T/Turul\|Turul]] és [[T/Taurus\|Taurus]] címszavaknál előjövő, hasonló alakú görög `sztaurósz` = [[K/Kereszt\|kereszt]] szó hozta meg. Azt kell látni, hogy a táltosok-druidák-vrâtyák az erdőben, a tölgyfáknál szertartásokat végeztek és gyakorlatilag (eredetileg) önmagukat (később, elbutult korokban más, kijelölt személyeket, mint Mezo-Amerikában és Húsvét szigeteken is) gyötörték meg, feszítették keresztre. A témával kapcsolatosan lásd [[O/Önfeláldozás\|önfeláldozás]] és [[C/Crucifixion\|crucifixion]].  
 
