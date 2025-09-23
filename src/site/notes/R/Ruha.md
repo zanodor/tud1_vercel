@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/R/Ruha/","title":"Ruha","created":"2024-04-18T18:33","updated":"2025-07-03T18:38"}
+{"dg-publish":true,"permalink":"/R/Ruha/","title":"Ruha","created":"2024-04-18T18:33","updated":"2025-09-23T20:42"}
 ---
 
 
 # Ruha
+
+Az alábbiakban a magyar `ruha` szót és más nyelvek hasonló alakú szavait mutatjuk be.  
 
 Mandaeanus (délnyugat iráni és iraki gnosztikusok; lásd [[M/Mandeus\|mandeus]]) korai hagyományban Rūhā és Ur nevek teremtő szellemek nevei, R. H. Allen könyvének adata szerint. Egy kisszótár szerint ennek megfelelően `rúah` a zsidók nyelvén szellemi, spirituális lélek.  
 A héber szó az arámiban még `ruha`, de az indonézben és törökben is – nyilván az arab hódítások következtében – `ruh` = lélek, szellem.  
@@ -34,19 +36,15 @@ Mivel őseink Napjelkép-nagymacskák bőréből készült (párduc)[[K/Kacagán
 
 Ruha szónak van tellurikus vetülete is, ami folytán a [[R/Rohad\|rohad]] szó is kapcsolatba hozható vele (persze nem mondható, hogy az egyik szóból ered a másik).  
 
-![assets/Ruha_image1.jpeg|invert_dark](/img/user/R/assets/Ruha_image1.jpeg)  
-
 #### Magyar Adorján Csodaszarvas...  
 
 ...című könyvében írja:  
-> A mondák szerint pedig az első emberek ártatlan és boldog életet éltek, harcot, öldöklést nem ismertek és csak gyümölccsel, magvakkal, tejjel és mézzel táplálkoztak, testüket pedig csak a fák leveleiből és füvekből készült ruhával födték, nem pedig állatbőrökkel, ahogyan azt a mai tudósok képzelik. Az emberiség eredeti ártatlan és boldog életéről valamint falevélruhájáról, későbbi küzdelmes életéről és állatbőrruhájáról szól a Biblia is, de ugyanezeket tükrözi vissza a görögök hiperboreus-mondái is.  
+> A mondák ![assets/Ruha_image1.jpeg|fix_dark fix_light right|150](/img/user/R/assets/Ruha_image1.jpeg)szerint pedig az első emberek ártatlan és boldog életet éltek, harcot, öldöklést nem ismertek és csak gyümölccsel, magvakkal, tejjel és mézzel táplálkoztak, testüket pedig csak a fák leveleiből és füvekből készült ruhával födték, nem pedig állatbőrökkel, ahogyan azt a mai tudósok képzelik. Az emberiség eredeti ártatlan és boldog életéről valamint falevélruhájáról, későbbi küzdelmes életéről és állatbőrruhájáról szól a Biblia is, de ugyanezeket tükrözi vissza a görögök hiperboreus-mondái is.  
 - Lásd még könyvének 296. oldalán bővebben.
-
-Ruha-öltözék kapcsán néhány szót. 
 
 #### Falvay Károly Nagyboldogasszony...  
 
 ...című könyvében írja:  
 > A sámán keleten az átváltozás női tulajdonsága következtében elsősorban női foglalkozás, s a szertartás ott is az éjszakához kötött. Ha férfi sámánkodik, többségében női ruhát ölt. (Falvay K.: A sámánszertartások szimbolizmusához.)  
 
-Valóban azt látjuk, hogy régi öltözetek unisex lepelszerűek voltak és mind égjelkép. A Ru-Ha Nap Háza fogalom az égre, Égistennőre vonatkozik.  
+Valóban azt látjuk, hogy régi öltözetek lepelszerű unisex viseletek voltak és mind égjelkép. A Ru-Ha Nap Háza fogalom az égre, Égistennőre vonatkozik.  
