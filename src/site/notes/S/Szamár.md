@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2025-06-08T18:26"}
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2025-09-23T21:38"}
 ---
 
 
@@ -85,8 +85,7 @@ A **Szimbólumtár** adatsora:
 > • Az ősi egyiptomi hit szerint az alvilág kapuját szamárfejű démonok őrzik. Az Oziriszt meggyilkoló [[S/Széth\|Széth]] állata; gyakran ábrázolják magát az istent is szamárfejjel. A trombita szamárordításra emlékeztető hangja miatt tiltott hangszer volt Egyiptomban, mivel Széthre, a pusztító, gonosz istenségre utal. Hórusz évenkénti, Széth felett aratott győzelmét szamáráldozattal ünnepelték. Két szamár tartja az [[A/Ahet\|ahet]] hieroglifát, amely a nyári napfordulót jelképezi: Széth csillaga, a Szaturnusz ilyenkor veszi át az uralmat. \[Valójában nem Szaturnusz, hanem a mögöttes opponáló Hunor-Orion értendő alatta. Lásd összefüggéseket [[S/Szaturnusz\|Szaturnusz]] címnél *Szaturnusz és Orion*.\]  
 > • A görög-római mitológiában Dionüszosz, ill. a kíséretéhez tartozó Szilénosz/Silenus hátasa. Priaposzt, a termékenység fallikus istenét szamáralakban is tisztelték, áldozati állatai közé tartozott a szamár (fallosz). A szamár misztérium-hordozó szerepe antik hagyományokban gyökerezik. Arisztophanész Békák c. komédiájában a Dionüszosszal az alvilág felé tartó rabszolga, Xanthiasz ezt mondja: "a szentségvivő szamár vagyok." Oknosz mítoszában is pusztító elvként szerepel: az alvilágban kötelet fonó Oknosz munkájának eredményét szamara minduntalan felfalja (kötél). Apollón, Midasz frígiai király érzéki csábításokra hajló füle helyére – amiért Pán sípjátékát többre becsülte az ő hangszerének hangjánál – szamárfület varázsolt (Ovid. Met., XI. 161-179). Rómában Venus szent állataként tisztelték. Apuleius Az aranyszamár c. regényének hőse, a túlbuzgó testi vágyaiért és a boszorkányság iránti kíváncsiságáért szamár alakban vezeklő Lucius, csak Ízisz temploma előtt, Ízisz rózsakoszorúját elfogyasztva változhat vissza. Lucius kilépése a szamárbőrből lelki feltámadást, szellemi, vallásos rajongásban való újjászületést jelent.  
 > • A zsidó és keresztény hagyományban a bírák, a királyok és a próféták szent állata. Bileam (Bálám) szamara (Szám 22,23) okosabb gazdájánál, hamarabb felismeri az Isten által útjukba állított angyalt. A Ter 49,11 ("A szőlőtőhöz köti csikaját, és a szőlővesszőhöz a nőstény szamár fiát") keresztény értelmezése az "Én vagyok a szőlőtő" (Jn 15,1) alapján, a nőstényszamarat a zsidósággal, a nemes venyigét Krisztussal, a szamár csikaját pedig az általa megszabadított pogánysággal azonosítja. A középkori művészetben csökönyössége miatt az Eklézsia és Zsinagóga ábrázolásain az utóbbit megszemélyesítő allegorikus alak állata.
->
-> ![assets/Szamár_image1.png](/img/user/S/assets/Szam%C3%A1r_image1.png)  
+> ![assets/Szamár_image1.png|fix_dark fix_light|300](/img/user/S/assets/Szam%C3%A1r_image1.png)  
 > *Eklézsia és Zsinagóga a Megváltás fájánál (Biblia Pauperum, 1330 k., Bp., Szépm. Múz.).*
 >
 > A keresztény szimbolikában emellett a béke és az alázat jelképe. Krisztus életének számos epizódjában fontos szerepet kap. Krisztus születésének hagyományos ábrázolásain – "az ökör megismeri gazdáját, és a szamár urának jászolát" (Iz 1,3) –, ill. Pszeudo-Máté apokrif evangéliuma alapján a szamár az istállóban, az ökör társaságában jelenik meg. Az ökröt mint áldozati állatot Krisztus áldozatának szimbólumaként, a szamarat mint teherhordót pedig a világ bűneit magára vevő Krisztusként is értelmezték. Az Egyiptomba való menekülés ábrázolásain Mária szamárháton ül a gyermekkel, míg József gyalogszerrel kíséri őket. Zakariás jövendölését (amelyben a szamár a harci ménnel szemben a szelídség megtestesítője: Zak 9,9) Jézusra vonatkoztatták, aki egy "szamárnak csikaján" vonult be Jeruzsálembe. Fra Angelico Jézus élete című táblakép-sorozatának Jézus születése, A Szent család menekülése Egyiptomba és a Bevonulás Jeruzsálembe c. részein szerepel (1450 k., Firenze, Museo San Marco).  
@@ -129,7 +128,7 @@ Fentebb már Jankovics Marcell soraiban kiemeltük ezt a részt.
 
 Fentebb volt szó a szamár hátán lévő kereszt alakú jelről is és egy Jézus keresztrefeszítését ábrázoló képen is ott volt a szamár.  
 Na most, milyen érdekes, hogy Rómában egy (Jézus keresztrefeszítésének bizonyítékául bemutatott?) rajzon szamarat látunk keresztrefeszítve. (Forrás: Wikipédia Crucifixion oldal.)  
-![assets/Szamár_image2.jpeg|invert_dark](/img/user/S/assets/Szam%C3%A1r_image2.jpeg)  
+![assets/Szamár_image2.jpeg|fix_light](/img/user/S/assets/Szam%C3%A1r_image2.jpeg)  
 A szamarat "mint teherhordót" nem a világ bűneit magára vevő Krisztusként kell itt értelmezni, hanem mint évköri jelképállatot kell meglátni.  
 Tulajdonképpen a szamár azért is választatott a Rák váltóállatának, mert a kereszt a [[C/Colure\|colure]] címnél is taglalt napfordulós metszéspontra, keresztezésre utal.  
 
