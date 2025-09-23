@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Trivial/","title":"Trivial","tags":["Englishtexttranslated"],"created":"2023-10-30T01:48","updated":"2025-06-07T18:58"}
+{"dg-publish":true,"permalink":"/T/Trivial/","title":"Trivial","tags":["Englishtexttranslated"],"created":"2023-10-30T01:48","updated":"2025-09-24T00:43"}
 ---
 
 
@@ -8,15 +8,15 @@
 Jelentéktelen, hétköznapias, elcsépelt. A [[T/Trivium\|trivium]] értelme vajon hogyan vált ilyen jelentésűvé? Nyilvánvalóan valamiféle [[J/Judeo-kereszténység\|judeo-keresztény]] tiltás, démonizálás áll hátterében.  
 
 [[H/Hekate\|Hekate]] ([[S/SZAT\|SZAT]], [[S/Száz\|száz]], [[H/Hundred\|hundred]]) és [[T/Toll#Toll 2)\|toll]] címszavaknál is szerepeltek az alábbi képecskék.  
-![assets/Trivial_image1.png|invert_dark](/img/user/T/assets/Trivial_image1.png)  
-Különösen a három ágas jelkép utal az alant bemutatott Tejút elágazásra(?) (bár az alsó szárát is beleszámolva az már négy ágassá válik; [[T/Travail\|travail]] címnél is ilyen négy ágas forma szerepel, de valójában a középső elem csak tartóelem).  
+
+Különösen a ![assets/Trivial_image1.png|fix_dark fix_light right|200](/img/user/T/assets/Trivial_image1.png)  három ágas jelkép utal az alant bemutatott Tejút elágazásra(?) (bár az alsó szárát is beleszámolva az már négy ágassá válik; [[T/Travail\|travail]] címnél is ilyen négy ágas forma szerepel, de valójában a középső elem csak tartóelem).  
 Ami a [[S/Száz\|száz]] rovásírás-jelet illeti, látjuk, hogy három ág találkozása formázza. Azt tudjuk, hogy az elágazásoknál, keresztutakon állítottak [[H/Hekate\|Hekaté]]nek oszlopokat és a kutyák is az elágazásokhoz, átjárókhoz köthetők (lásd például [[C/Cerberus\|Cerberus]]).  
 Minden ami az Életfára, pogány vallásra utal, tiltva lett, de az elnevetségesítés, vagy jobb szóval, profanizálás volt a másik eszközük.  
 
 Jankovics Marcell A fa mitológiája című könyvének 133. oldalán ír a keresztfa útkereszteződések jelzőoszlopaként való használatáról és arról, hogy a mesék (lásd például [[R/Rózsa vitéz mese\|Rózsa vitéz mesé]]ben két vadászkutya is szerepel az elágazásnál) fái is vagy "középen" vagy "hármasúton" nőnek, és az égi világfa is a világ közepén, vagy égi utak kereszteződésében áll.  
-![assets/Trivial_image2.jpeg|invert_light](/img/user/T/assets/Trivial_image2.jpeg)  
+![assets/Trivial_image2.jpeg|fix_light right|200](/img/user/T/assets/Trivial_image2.jpeg)  
 Jankovics Marcell A fa mitológiája című könyvének 173. oldalán szól a háromágú világfáról: az emberi életút fontosabb állomásain ugyanis életfák zöldellnek; a sírra tűzött termőág és a lakodalmi életfa is háromágú.  
-![assets/Trivial_image3.png](/img/user/T/assets/Trivial_image3.png)  
+![assets/Trivial_image3.png|840](/img/user/T/assets/Trivial_image3.png)  
 Ha már az [[E/Életfa\|életfa]] szóba került, szépen kapcsolódik ide az, amit Pap Gábor mond a Fehérlófia-mese három férfiú-alakjáról, miszerint az útjaik elválása jellegzetes Kos tulajdonság. Arról [[K/Kos csillagkép\|Kos csillagkép]]nél is volt szó, hogy a [[K/KUS\|KUS]], az életfa (fenyő) a többlet- (vagy alap)jelentése.  
 
 #### David Gordon White...
@@ -27,7 +27,7 @@ Ha már az [[E/Életfa\|életfa]] szóba került, szépen kapcsolódik ide az, a
 > Számos kultúrában tehát a kutya pásztori, cinegetikus és védelmező szerepe az élők világán túl a holtak világára is kiterjed. Így a **pszükhopomposz**okat, a pokol kapujának őrzőit, a pokolkutyákat és magukat a halottak lelkét is gyakran kutyaként ábrázolják. Valójában nem annyira arról van szó, hogy a kutya szerepe túlmutat az élők világán a holtak világába, hanem inkább arról, hogy a kutya helye az egyik és a másik világ között van. Ahogyan a Szíriusz helye a [[C/Canicular\|kutyanapok]] alatt a keleti horizonton van közvetlenül napkelte előtt (innen a "[[S/Szíriusz heliakus kelése\|heliákus kelés]]" kifejezés), úgy a kutya helye szinte mindenben, amit az emberrel való kapcsolatában tesz, [[L/Liminal\|liminális]]. A kutya az indoeurópai hagyományokban számos égi vagy időbeli küszöböt őriz, többek között a hajnalt és az alkonyatot, az új- és teliholdat, valamint **a nyári és a téli napfordulót**. Ez az éjszakai égbolton különböző kutyás csillagképekben mutatkozik meg, amelyeken a Nap áthalad az ekliptikán, és mivel az égi boltozat útjai – a Tejút, a nap-ekliptika, a Hold pályája stb. – azonosíthatók a halottak útjaival, az égi kutyák gyakran állomásoznak veszélyes égi kereszteződéseknél és hidaknál.  
 
 Hármas elágazásról lásd még a görög [[Y/Y\|Y]] (üpszilon) betűt, mely valóban többféleképpen ejthető.  
-![assets/Trivial_image4.png|invert_dark](/img/user/T/assets/Trivial_image4.png)  
+![assets/Trivial_image4.png|fix_light](/img/user/T/assets/Trivial_image4.png)  
 A nőiségi-princípium [[K/Kehely\|kehely]] (= [[H/Hüvely\|hüvely]]) alakot formázó U és V betűk mellett az Y is ilyen. A mellékelt kis kép [[Y/Yoni\|yoni]]-val emlékeztetett erre az összefüggésre.  
 Ezen görög betűjel viszont megegyezik a [[S/Székely-magyar rovásírás#TY\|székely-magyar rovásírás TY]] betűjével, melynél a fentiekhez hasonló kép is szerepelt. A villástengelyt formáló Y alak valóban egyezik a latin [[T/Trivium\|trivium]] = három út fogalmával.  
 De ilyen villát láttunk már szintén női szeméremrész kapcsán [[S/Sziget\|sziget]] címnél is.  
@@ -40,8 +40,7 @@ Igen érdekes, amit...
 > A hármas elágazású fáknál a középső ág, mivel az ott kevesebb napfényt kapott, többnyire elcsenevészedett, majd el is száradott, úgy hogy idővel csak kis csonkja maradott meg. Az ilyen fák törzséből azt megfordítva, készítették az ősök hímistenségeik bálványait, az ágcsonkot penisként fogva föl, míg a kétágú villás elágazásúakból nőistenségeik bálványai készültek. Az ilyen fák elágazásában pedig a női szeméremrészhez valóban meglepően hasonlító képződményt látunk.  
 
 Ősműveltségében bővebben ír erről:  
-> ![assets/Trivial_image5.jpeg|invert_dark](/img/user/T/assets/Trivial_image5.jpeg)  
-> Magát az egész hársfát ősvallási fölfogásunk szerint nőnemű fának tekinthetjük, azért mert fája lágy és mert sohasem ilyen háromágú elágazású mint például az igen kemény fájú kőris, hanem mindig kettős, azaz egyszerű villás elágazású; azt pedig már láttuk hogy a páratlan számok hímneműekként voltak fölfoghatók, a párosak pedig nőneműekként. Ezenkívül a hársfa minden villája elágazásában, a fa növekedése által a kéreg egy a nő ágyékrészéhez csodálatosan hasonlító ránc képződik. Képződik ugyan ehhez némileg hasonló ránc más kettős ágazású fáknál is, például a jegenyénél, de a nő említett részéhez sohasem annyira hasonlóan mint a hársfánál. Az egyetlen dolog ami a hársfánál nem egyező, az hogy virágai ötszirmúak. A hársfáról azonban bővebben palóc őstörzsünk fakultuszával kapcsolatban kellend írnom. (Lássad 11. számú rajzon a c-t.)  
+> Magát az ![assets/Trivial_image5.jpeg|fix_dark fix_light right|142](/img/user/T/assets/Trivial_image5.jpeg)egész hársfát ősvallási fölfogásunk szerint nőnemű fának tekinthetjük, azért mert fája lágy és mert sohasem ilyen háromágú elágazású mint például az igen kemény fájú kőris, hanem mindig kettős, azaz egyszerű villás elágazású; azt pedig már láttuk hogy a páratlan számok hímneműekként voltak fölfoghatók, a párosak pedig nőneműekként. Ezenkívül a hársfa minden villája elágazásában, a fa növekedése által a kéreg egy a nő ágyékrészéhez csodálatosan hasonlító ránc képződik. Képződik ugyan ehhez némileg hasonló ránc más kettős ágazású fáknál is, például a jegenyénél, de a nő említett részéhez sohasem annyira hasonlóan mint a hársfánál. Az egyetlen dolog ami a hársfánál nem egyező, az hogy virágai ötszirmúak. A hársfáról azonban bővebben palóc őstörzsünk fakultuszával kapcsolatban kellend írnom. (Lássad 11. számú rajzon a c-t.)  
 
 Arról, hogy a háromágú, [[T/Trident\|trident]]-szerű villák hogyan váltak az ördög eszközévé, lásd ott. Lásd tehát még szintén [[T/Travail\|travail]].  
 
