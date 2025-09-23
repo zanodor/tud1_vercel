@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Teocalli/","title":"Teocalli","tags":["Englishtexttranslated"],"created":"2025-05-01T10:28","updated":"2025-06-13T20:55"}
+{"dg-publish":true,"permalink":"/T/Teocalli/","title":"Teocalli","tags":["Englishtexttranslated"],"created":"2025-05-01T10:28","updated":"2025-09-23T20:31"}
 ---
 
 
@@ -30,9 +30,13 @@ ORIGIN: Nahuatl, from teotl god, and calli house
 
 > A Teo-Kalli név is Ten (Isten) Háza értelmű. Megdöbbentő a Teo szó használata az indián nyelvekben. A Kalli Ház. A magyar Kálló, Kálla is településnév, a török `Kala` Erőd, ír testvéreink `Ceall` – `Keall`, `Cill` – `Kill` szavai templomot jelentenek. A magyar `Kalyiba` felbontása Kalyi-Ba formában Házacska, a Kalyi és a Kalli meglehetősen közel áll egymáshoz.  
 
-#### Várkonyi Nándor írja:
+#### Várkonyi Nándor Sziriat oszlopai...  
 
+...című könyvében írja:  
 > A mayák földjén, csupán Yucatánban tucatjával állanak még templom-városok: Chichén Itzá, a "szent kút városa", Cabah, Uxmal, Uaxactun, Co-pán, Palenqué, Yaxchilán, Bonampac, Labná, Mayapán, Aké, Sabacche, Bolonchén, Itzamál, Tikal, Sayil, Tulun. Micsoda képet nyújthattak ezek nyolc-tíz templomukkal, melyek mindegyike külön lépcsőzetes piramis tetején, teocallin állt!  
 
-Az elveszett Paradicsomban Várkonyi Nándor sorra veszi a különböző népek [[V/Világhegy\|Világhegy]]-hagyományait és kimondja, hogy a sumér zikkuratok (vélhetően ahogy a babiloni Bábel torony is), a világ minden táján a piramisok és az amerikai földrész teocalli-jai is ezen Világhegy mintájára épültek:  
-> Az aztékok a spanyol hódítás idején még eredeti, ép Paradicsomhegy-hagyományt ápoltak. A katolizált indián Clavigero jegyezte fel: Tlapallannak, a boldog országnak legmagasabb hegye, a közepén emelkedik, csúcsa a felhőkbe ér, rajta székel Halok, a Paradicsom ura, a vizek szelleme; onnan küldi az esőt és a folyóvizeket a föld megtermékenyítésére. [[Q/Quetzalcoatl\|Quetzalcoatl]], "az első ember" (az isteni ősatya, a paradicsomi Ádám \[másoknál Vénusz!\]), miután Hesikában felvirágoztatta az aranykort, [[T/Teszkatlipoka\|Tescatlipoca]] istennő intelme folytán oda ment vissza, s ott elnyerte a halhatatlanság italát. Azonban vissza fog térni, s újból megteremti az aranykort. E szenthegy jelképéül és másául építette Xelhua óriás a cholulai teokallit "a középső tartomány középpontján", a négy világtáj irányában. (Clavigero.) – A hagyomány ebben a formában későinek vagy másodlagosnak látszik: az Esőisten természetmítosza keveredett benne a Quetzalcoatl-mondával. A [[V/Világhegy\|Világhegy]] ugyanis szabály szerint az emberiség születéshelyével azonos, a tolték-aztékoknak megvolt az erről szóló, szabatos regéjük: a Keleti tengerben, az Atlanti óceánban fekvő szigeten, a fehér, fekete és vörösbőrű emberek békés boldogságban éltek, de kivándoroltak, mielőtt a vízözön elnyelte volna hazájukat.  
+#### Várkonyi Nándor Az elveszett Paradicsom...  
+
+...című könyvében sorra veszi a különböző népek [[V/Világhegy\|Világhegy]]-hagyományait és kimondja hogy a sumér zikkuratok (vélhetően ahogy a babiloni Bábel torony is), a világ minden táján a piramisok és az amerikai földrész teocalli-jai is ezen Világhegy mintájára épültek:  
+> Az aztékok a spanyol hódítás idején még eredeti, ép Paradicsomhegy-hagyományt ápoltak. A katolizált indián Clavigero jegyezte fel: Tlapallannak, a boldog országnak legmagasabb hegye, a közepén emelkedik, csúcsa a felhőkbe ér, rajta székel Halok, a Paradicsom ura, a vizek szelleme; onnan küldi az esőt és a folyóvizeket a föld megtermékenyítésére. [[Q/Quetzalcoatl\|Quetzalcoatl]], "az első ember" (az isteni ősatya, a paradicsomi Ádám \[másoknál Vénusz!\]), miután Hesikában felvirágoztatta az aranykort, [[T/Teszkatlipoka\|Tescatlipoca]] istennő intelme folytán oda ment vissza, s ott elnyerte a halhatatlanság italát. Azonban vissza fog térni, s újból megteremti az aranykort. E szenthegy jelképéül és másául építette Xelhua óriás a cholulai teokallit "a középső tartomány középpontján", a négy világtáj irányában. (Clavigero.) – A hagyomány ebben a formában későinek vagy másodlagosnak látszik: az Esőisten természetmítosza keveredett benne a Quetzalcoatl-mondával. A [[V/Világhegy\|Világhegy]] ugyanis szabály szerint az emberiség születéshelyével azonos, a tolték-aztékoknak megvolt az erről szóló, szabatos regéjük: a Keleti tengerben, az Atlanti óceánban fekvő szigeten, a fehér, fekete és vörösbőrű emberek békés boldogságban éltek, de kivándoroltak, mielőtt a vízözön elnyelte volna hazájukat.
+{ #52z23y}
