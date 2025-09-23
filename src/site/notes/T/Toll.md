@@ -1,19 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/T/Toll/","title":"Toll","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-10-24T01:49","updated":"2025-07-03T01:19"}
+{"dg-publish":true,"permalink":"/T/Toll/","title":"Toll","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-10-24T01:49","updated":"2025-09-24T00:40"}
 ---
 
 
 # Toll 1)
 
-A tollak a szárny alkotórészei, mely [[S/Szárny\|szárny]] szavunk is a [[S/Szár\|szár]] hímségi szócsoportba tartozik. A tollak nyilvánvalóan napsugár-jelképek. A bennszülött indiánok is ezért hordtak tollas fejdíszeket.  
+A tollak a szárny alkotórészei, mely [[S/Szárny\|szárny]] szavunk is a [[S/Szár\|szár]] hímségi szócsoportba tartozik. A tollak nyilvánvalóan napsugár-jelképek. A bennszülött indiánok is ezért viseltek tollas fejdíszeket.  
 
 #### Grandpierre Atilla írja:
 
 > Krisánu, íjász, nyílvesszője egyetlen tollát találta el a madárnak, és abból készítették a halhatatlanság italát (u. ott, 62). Vessük össze ezt a magyar népmesék ismert elemével, amelyben az aranytollú Napmadár csak egy tollát veszti el évente, de feltámad, és halhatatlan.  
 
+
+
 [[B/Bolyh\|Bolyh]] címnél írtuk, hogy az [alábbi](https://youtu.be/TiS8PomD78w) szomáli és oromo szavakat hasonlító Bahador videóban előjövő oromo `bál`, `bále` = toll (feather) is nyilván [[B/Bál\|Bál]] napisten sugaraira utal.  
 
-[[F/Feather\|Feather]] címnél a toll fedő minőségéről is volt szó.  
+[[F/Feather\|Feather]] címnél a toll "fedő" minőségéről is volt szó.  
 
 A magyar szó értelmére, eredetére nézve lásd még alant.  
 
@@ -21,15 +23,16 @@ A magyar szó értelmére, eredetére nézve lásd még alant.
 
 Vám, (őrlési(!)) gabonavám; helypénz. Jelenti áldozatok számát is, bizonyos kifejezésekben.  
 Más jelentéseiben harangszó és megkondul (a harang).  
-![assets/TollTwo_image1.png|invert_dark](/img/user/T/assets/TollTwo_image1.png)  
-![assets/TollTwo_image2.png|invert_dark](/img/user/T/assets/TollTwo_image2.png)  
+
+![assets/TollTwo_image1.png|fix_light](/img/user/T/assets/TollTwo_image1.png)  
 Látjuk a csatolt kép alapján, hogy Oxford viszonylag egyszerűen levezeti. Amivel nem számol, a [[D/Dole\|dole]] szónál előjövő latin `dolor` = kín, fájdalom és `dolere` = szenvedni szavak.  
+
 Azt már láttuk, hogy mind a vám/rév (lásd [[F/Ferry\|ferry]], [[R/Rave\|rave]]), mind a [[F/Fárad\|fárad]]ság, kínzás (lásd [[F/Fare\|fare]], [[F/FAR#Far 2)\|far]], [[F/Fatigue\|fatigue]], [[T/Tire\|tire]], [[T/Trouble\|trouble]], [[T/Travail\|travail]]) a [[T/Táltos\|táltos]]hoz, a [[T/Tölgy\|tölgy]]/világfa megmászásához, a táltos illetve a naphős (maga a Nap emberi eljátszója) asztrálutazásához illetve áldozatához köthető. De lehet pusztán arról is szó, hogy a világoszlop-tengely maga a [[T/Tölgy\|tölgy]], amely forog ([[D/DOL\|dol]]gozik) és tartja az eget. A mellékelt, [[T/Táltos\|táltos]] szónál is szereplő adat is erről szól.  
 Számossággal kapcsolatban viszont [[T/Tally\|tally]] szó hasonló.  
 
-![assets/TollTwo_image3.png|invert_dark](/img/user/T/assets/TollTwo_image3.png)  
 Hasonlóképp ír ezen ideákról Magyar Adorján, sőt, [[T/Tölgy\|tölgy]] vonalon előjönnek a Toll/Toldi nevek is:  
-> Az ilyen, [[V/Villa\|villá]]s ágasokon nyugvó, tetők azután a költői elképzelés által összehasonlíttattak az égbolttal, míg maga az ágas a regebeli "égígérő fával", a mennyboltot tartó képzeletbeli nagy [[A/Ágas\|ágas]]sal, oszloppal lett azonosítva, amiről már föntebb is, a szélmalmokkal valamint a mesebeli "kakaslábon forgó vár"-ral vagy "palota"-val kapcsolatban is volt szó. Amely eszme – amint láttuk – az egyiptomiaknál is megvolt, akiknél az [[A/Ágas\|ágas]] (illetve a hímtag) az Eget tartó istenségben lett megszemélyesítve, ugyanúgy mint a görög regében [[A/Atlasz\|Atlasz]] óriásban; aminthogy valószínű is, hogy e névben az -asz csak görög végzés és hogy a név valamikor a tol, a tal, a dol = a fa, az oszlop, az óriás értelmű volt és eszerint észt rokonaink Nagy Toll óriásával és a mi [[T/Toldi Miklós\|Toldi Miklós]]unkkal is kapcsolatban volt. Az olasz-latin **`talus`-`tallone` szónak is van sarok, emberi sarok, de ezenkívül még valamit-tartóság értelme** is, mind ami a [[T/Tengely\|tengely]] szavunkat és így ismét a világtengelyt is eszünkbe juttathatja.  
+> Az ilyen, ![assets/TollTwo_image3.png|fix_dark fix_light right|300](/img/user/T/assets/TollTwo_image3.png)[[V/Villa\|villá]]s ágasokon nyugvó, tetők azután a költői elképzelés által összehasonlíttattak az égbolttal, míg maga az ágas a regebeli "égígérő fával", a mennyboltot tartó képzeletbeli nagy [[A/Ágas\|ágas]]sal, oszloppal lett azonosítva, amiről már föntebb is, a szélmalmokkal valamint a mesebeli "kakaslábon forgó vár"-ral vagy "palota"-val kapcsolatban is volt szó. Amely eszme – amint láttuk – az egyiptomiaknál is megvolt, akiknél az [[A/Ágas\|ágas]] (illetve a hímtag) az Eget tartó istenségben lett megszemélyesítve, ugyanúgy mint a görög regében [[A/Atlasz\|Atlasz]] óriásban; aminthogy valószínű is, hogy e névben az -asz csak görög végzés és hogy a név valamikor a tol, a tal, a dol = a fa, az oszlop, az óriás értelmű volt és eszerint észt rokonaink Nagy Toll óriásával és a mi [[T/Toldi Miklós\|Toldi Miklós]]unkkal is kapcsolatban volt. Az olasz-latin **`talus`-`tallone` szónak is van sarok, emberi sarok, de ezenkívül még valamit-tartóság értelme** is, mind ami a [[T/Tengely\|tengely]] szavunkat és így ismét a világtengelyt is eszünkbe juttathatja.  
+- Tölgyfa egyes helyeken `tulfa` módon kerültek lejegyzésre, és a legfőbb fa a tölgy, a görög `drüsz` többféle jelentése alapján és a germán fát jelentő szavak kelta tölgyet jelentő szavával való azonossága alapján.
 
 Mivel a német [[O/Oak\|Eiche]] = tölgy [[Y/Ygg\|Ygg]] és [[E/Ég\|ég]] szavakkal azonos, itt is lehet a Tölgy gyökével számolni.  
 
@@ -50,12 +53,11 @@ Aztán (bővebben lásd [[S/Sánta\|sánta]] címnél):
 > —  
 > A Jézus király című könyvemhez illusztrációként reprodukált hettita hengerpecséten a trónra való három lépcsőfok megmászása után megkoronázásra készülő király szent sarkát egy kutyadémon védi. Latinul ezeket a szandálokat `talaria`-nak nevezték a `talus` szóból, ami sarok: a kockákat pedig `tali`, mert a Hermésznek vagy Merkúrnak szentelt juhok vagy kecskék sarokcsontjából készültek, bár a megvilágosodottak a `boibali`-kat, a líbiai antilop csontjait jobban becsülték.  
 
-Közbevetőleg jegyzem meg, hogy a támfa és áldozati fa/karó jelentéssel is megadott (közben a több helyen is említett görög `sztaurósz` = áldozati karó, kereszt szó eredeteként meghatározott) [[O/Ösztörű\|ösztörű]] szavunk ösztölü más nevének utótagja lehet toll elődje szintén. Lásd még mindenképp a [[T/Travail\|travail]] címnél talált háromágú kínzóeszközt.  
-(Ezen képek régi-új értelmezéssel szerepeltek [[G/Göd\|Göd]] cím alján is.)  
+Közbevetőleg jegyzem meg, hogy a támfa és áldozati fa/karó jelentéssel is megadott, közben a több helyen is említett görög `sztaurósz` = áldozati karó, kereszt szó eredeteként meghatározott [[O/Ösztörű\|ösztörű]] szavunk `ösztölü` más nevének utótagja lehet toll elődje szintén. Lásd még mindenképp a [[T/Travail\|travail]] címnél talált háromágú kínzóeszközt.  
 
-![assets/TollTwo_image4.png|invert_dark](/img/user/T/assets/TollTwo_image4.png)  
-![assets/TollTwo_image5.png|invert_dark](/img/user/T/assets/TollTwo_image5.png)  
-> E villástengely jel a legegyszerűbb épületszerkezetek központi elemének: a domboldalnak támaszkodó szőlőkalibák egyetlen [[A/Ágas\|ágas]]fájának (3. ábra), vagy a kör alaprajzú szárazmalmok forgó tengelyének rajza. Az antik gondolkodásban a ház (a [[J/Jurta\|jurta]]) a világ modellje, a tető az égbolté, a központi ágasfa pedig a megszemélyesített világoszlopé.  
+
+> E villástengely ![assets/TollTwo_image4.png|fix_dark fix_light right|118](/img/user/T/assets/TollTwo_image4.png)jel a legegyszerűbb épületszerkezetek központi elemének: a domboldalnak támaszkodó szőlőkalibák egyetlen [[A/Ágas\|ágas]]fájának (3. ábra), vagy a kör alaprajzú szárazmalmok forgó tengelyének rajza. Az antik gondolkodásban a ház (a [[J/Jurta\|jurta]]) a világ modellje, a tető az égbolté, a központi ágasfa pedig a megszemélyesített világoszlopé.  
+> ![assets/TollTwo_image5.png|fix_dark fix_light|840](/img/user/T/assets/TollTwo_image5.png)
 
 Varga Géza jól írja, csakhogy ezen Y-ágas jel a Péterfai János által megadott íráskészletben nem a [[S/Székely-magyar rovásírás#T\|rovás t]], hanem a [[S/Székely-magyar rovásírás#Ty\|ty]] betűt jelöli. Kétségtelen, hogy hasonlóak a jelek, de mégiscsak fel kellett volna tűnjön ez Varga Gézának. (A TY betű jelének Atya olvasatot adott és mivel nem tudta ide megfeleltetni, átnyargalt a T betűjel értelmeihez. Ez így önkényes, de tény, hogy a TY-re Péterfai János által is megadott Tyú sem tűnik kielégítőnek, viszont ty-vel nemigen kezdődnek más szavak.) Az ellentmondást feloldja, ha egy pillantást vetünk a Magyar Adorján-féle ábécére, ahol a T valóban Y-alakú villástengelyt formát, míg a TY betű más, bonyolultabb.  
 
@@ -91,7 +93,7 @@ A fentebb megjelölt [[T/Tölgy\|tölgy]], mint a toll szó eredete persze félm
 #### Száraz György...
 
 ...kelta megalitokról szóló cikkében kitér a [[D/Dolmen\|dolmen]] szó előtagjára:  
-> Figyeljük meg a dolmen, vagy dolmén elnevezést. Azonnal felfedezhetjük benne a Mén nevet, amely a már említett logika alapján az istenséggel kapcsolatos \[nem a menny \[[[Men\|men]]\] szavunkra koncentrál\]. Valóban, a dolmenek mellett az archeológusok rendszeresen találtak a Napistenre utaló szimbólumokat: bárkát, fokost, korongot, edényeket. A kérdés még izgalmasabbá válik, amikor a "dol" szótag jelentését keressük.  
+> Figyeljük meg a dolmen, vagy dolmén elnevezést. Azonnal felfedezhetjük benne a Mén nevet, amely a már említett logika alapján az istenséggel kapcsolatos \[nem a [[M/Men\|menny]] szavunkra koncentrál\]. Valóban, a dolmenek mellett az archeológusok rendszeresen találtak a Napistenre utaló szimbólumokat: bárkát, fokost, korongot, edényeket. A kérdés még izgalmasabbá válik, amikor a "dol" szótag jelentését keressük.  
 > A dolmeneket ugyanis az "**Óriás** ágyának" vagy "Óriás hálószobájának" nevezik. Az összefüggés: a Dol-Mén funkcióját tekintve arra az időszakra való, amikor a Napisten nem kocsikázik át az égbolton, vagyis éjszakára. Kvázi itt alszik, itt pihen meg a Napisten éjszaka, ami utalhat a túlvilágra vagy a másvilágban való tartózkodásra is. Ebből következik, hogy a dolmen sokak szerint a halotti kultusszal is kapcsolatba hozható.  
 > Ez pedig egyáltalán nem elképzelhetetlen s nem is egyedülálló, mert Hérodotosztól arról értesülhetünk, hogy Mezopotámiában például a nagytemplom legfelső emeletén egy nagy hálószobát alakítottak ki, ahol egyetlen ágyat helyeztek el nem más okból, mint hogy éjszaka a Napisten ott aludhasson.  
 
