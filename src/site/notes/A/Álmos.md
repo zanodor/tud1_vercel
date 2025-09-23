@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","created":"2023-10-11T04:38","updated":"2025-09-20T02:00"}
+{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","created":"2023-10-11T04:38","updated":"2025-09-23T17:03"}
 ---
 
 
