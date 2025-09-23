@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejút a zodiákusban/","title":"Tejút a zodiákusban","tags":["Englishtexttranslated"],"created":"2023-10-30T04:26","updated":"2025-06-07T18:57"}
+{"dg-publish":true,"permalink":"/T/Tejút a zodiákusban/","title":"Tejút a zodiákusban","tags":["Englishtexttranslated"],"created":"2023-10-30T04:26","updated":"2025-09-23T23:53"}
 ---
 
 
 # Tejút a zodiákusban: kilépés a Tejútba
 
 Lásd bevezetésül [[T/Tejút\|Tejút]]. Bíró Lajos Táltosok könyvében írja:  
-![assets/Tejutazodiakusban_image1.jpeg](/img/user/T/assets/Tejutazodiakusban_image1.jpeg)  
+![assets/Tejutazodiakusban_image1.jpeg|840|840](/img/user/T/assets/Tejutazodiakusban_image1.jpeg)  
 A zodiákus zárt köréből a Tejútra két helyen nyílik [[K/Kapu\|kapu]]: ahol a Tejút a Nappályát metszi: a Bika-Ikrek és a Skorpió-Nyilas határvidékén. Az óhajtott együttállás, amikor az égi Út megnyílik a Föld lakója számára, a Nap, a Hold, a Vénusz és a Tejút találkozását jelenti, az Ikrek és Nyilas havabeli [[U/Újhold\|újhold]] idejét, amikor még a Vénusz is e jegyekben tartózkodik, ott, ahol a Nap és Hold. (Ilyenkor a Tejút Napos-Holdas égigérő fává lesz).  
 
-![assets/Tejutazodiakusban_image2.png](/img/user/T/assets/Tejutazodiakusban_image2.png)  
+![assets/Tejutazodiakusban_image2.png|840](/img/user/T/assets/Tejutazodiakusban_image2.png)  
 John M. Jenkins könyvének magyar fordítása:  
 > ...ember a téli napfordulónak a galaktikus ekvátorral való egybeeséséről 2012. december 21-i időponttal, a maja naptár végső dátumával? Mivel harminchat évig tart a Napnak, hogy keresztülhaladjon a galaktikus ekvátoron, 1998 a középpontja annak az időszaknak, mely 1980-tól 2016-ig tart. Ahelyett hogy "2012"-ről beszélnénk, "2012-es Ablak-ról kellene beszélnünk, abban az értelemben, hogy a maja naptár pontos végső dátuma, 2012. december 21., ebbe az 1998. évi középpontú, harminchat éves periódusba esik.  
 > Bár kezdetben csalódottnak érezhetjük magunkat, hogy az időpont, melyet korábban olyan pontosnak hittünk az ősi maják azonosításában, valójában egy harminchat éves időtáv, fontoljuk csak meg a hatalmas időtartamot az egybeesések között: a napfordulónak vagy a napéjegyenlőségnek a galaktikus ekvátorral való egybeesése csak a precessziós kör minden egynegyedénél történik meg. vagyis 6.480 évenként. A napforduló következő egy vonalba esése 12.960 éven belül fog csak megtörténni. Az hogy a maja naptár, mely valószínűsíthetően messzebbre nyúlik vissza az időben, mint a mi keresztény naptárunk, ilyen pontossággal rögzíteni tudta ezt a ritka, egyedi, asztronómiai eseményt ilyen pontossággal, igen meglepő. Létezhetnek még más naptárak is hasonló előrelátással?  
@@ -18,7 +18,7 @@ John M. Jenkins könyvének magyar fordítása:
 > A Tejút a létezés galaktikus síkjának külső, látható megnyilvánulása, mely összhangban van az isteni világgal, a zodiákus pedig a szemünk számára is láthatóvá teszi a szellemi világgal összhangban lévő kozmoszunk határát. Ennek a két körnek a metszéspontjai a Nyilas első fokain (az ellenkező oldalon pedig az Ikrek első fokain) **kapukat** jelölnek a szellemi világból az isteni világba, melyeken keresztül az isteni világból impulzusok áramolhatnak a szellemi világba, vagyis a mi kozmoszunkba. A metszéspontok területei (az Ikrek és a Nyilas kezdeti fokai) ezért magas nyomás és magas feszültség helyei. Nem csoda, hogy gyakran történnek egyfelől isteni kinyilatkoztatások, másfelől krízisek, amikor ezeken a helyeken áthalad a Nap, a Hold, vagy más bolygó. Elég arra gondolni, hogy [[P/Pünkösd\|Pünkösd]]kor a Nap az Ikrek 2,5 fokán állt. Ekkor a Szent Szellem melyet a tanítványok fejére szálló lángnyelvek alakjában írnak le, a galaktikus síkról árad be az isteni világból, mint ennek a világnak az ősképi megnyilatkozása.  
 - A mellékelt Krisztus és a maja naptár című magyarra fordított könyvből való kép és a másik is a weboldalról való.
 
-![assets/Tejutazodiakusban_image4.png](/img/user/T/assets/Tejutazodiakusban_image4.png)  
+![assets/Tejutazodiakusban_image4.png|fix_dark fix_light|840](/img/user/T/assets/Tejutazodiakusban_image4.png)  
 
 #### Jankovics Marcell Jelkép-kalendárium...
 
@@ -44,12 +44,12 @@ Sokatmondó az Ikrek csillagkép arab **Tejat** neve, mely, mint ahogy a mellék
 
 Lásd még [[P/Pünkösd\|Pünkösd]] címszót.  
 Egyéb képeket [[G/Galactic centre\|Galactic centre]] cím alatt. Lásd még [[I/Idő nullpontja\|idő nullpontja]] és [[A/Aranykor és annak vége\|Aranykor és annak vége]]. [[M/Miss#Miss 2)\|Miss]] és [[L/Lack\|lack]] hiányt kifejező igéknél esett arról szó, hogy a [[N/Nagy Év\|Nagy Év]]et figyelembe véve olyankor "kevés a tej," azaz vannak távol a kapuk. Elődeink nem Aranykor és Vaskor elnevezéseket használtak, hanem így, képekben beszélve fejezték ki a fény és árnyék vonatkozásait. De [[M/Mithra\|Mithra]] neve sem tűnik kimondott Napisten-névnek, inkább kozmikus-temporális minőséget kifejező szakszó, annak kifejezésére, hogy a erősödő, vagy gyengülő Nap- ill. fényhatásokról van szó (Mithra a reggel, mely név megvan [[V/Vishvamitra\|Vishvamitra]] nevében is).  
-![assets/Tejutazodiakusban_image5.png](/img/user/T/assets/Tejutazodiakusban_image5.png)  
+![assets/Tejutazodiakusban_image5.png|840](/img/user/T/assets/Tejutazodiakusban_image5.png)  
 De [[S/SZAT\|SZAT]] címnél bővebben esik szó, ha nem is Tejút-kapukról, de a Tejút két oldalán egymással szemben álló erőkről, [[S/Sakk\|sakk]] illetve [[S/Satrandzs\|satrandzs]] kontextusában is.  
 
 Az Égigérő fa típusú mesékben a fa a Tejutat szimbolizálja, mely a [[B/Bika-Skorpió tengely\|Bika-Skorpió tengely]]en nyugszik illetve látszik meghúzódni.  
 
-![assets/Tejutazodiakusban_image6.png|invert_dark](/img/user/T/assets/Tejutazodiakusban_image6.png)  
+![assets/Tejutazodiakusban_image6.png|fix_dark fix_light|840](/img/user/T/assets/Tejutazodiakusban_image6.png)  
 Két oldalon állásról volt szó [[V/Vízöntő paradoxon\|Vízöntő paradoxon]], [[S/Swastika\|swastika]] (a mellékelt kép is innen való) és [[K/Küszöb\|küszöb]] címnél, de lásd még [[P/Psychopomp\|psychopomp]] címnél azon adatot is, amely makedón katonák kutyafelszabdalására utal (illetve alant is megvan[^1]). [[S/Sarama\|Sarama]] címnél magáról az átjutásról, nehézségeiről volt szó, da ha már Sarama = Szíriusz, lásd [[S/Szíriusz mozgása\|Szíriusz mozgása]] címnél írottakat is.  
 
 Legutóbb [[S/Szent Kristóf\|Szent Kristóf]] címnél is szerepelt:  
@@ -89,7 +89,7 @@ Hasonló a makedón szokáshoz:
 
 
 Szó van arról is, hogy a Szíriusz korábban a Tejút másik oldalán volt:  
-![assets/Tejutazodiakusban_image7.png|invert_dark](/img/user/T/assets/Tejutazodiakusban_image7.png)  
+![assets/Tejutazodiakusban_image7.png|fix_dark fix_light|840](/img/user/T/assets/Tejutazodiakusban_image7.png)  
 > At this point, and considering the perceived motion of Sirius among the stars, it is interesting to mention a proposition by Gore[^2] (1903) based on one of the Arabic names of Sirius: al-schira al-abur ("Sirius which has passed across"). Gore linked this name with Al Sufi's mention of a mythological explanation that Sirius crossed the Milky Way in the direction of Canopus. This obviously happened during the Stone Age and, if correctly representing the human memory of an astronomical event, is truly amazing.  
 > 60,000 years ago Sirius was located on the eastern border of the Milky Way, whereas it is now located on its western border. This is the result of its proper motion, a combination of its orbit around the center of the Milky Way galaxy and of the similar motion of the Sun and Earth.  
 > —  
