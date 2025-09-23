@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szikla/","title":"Szikla","tags":["Englishtexttranslated"],"created":"2023-10-29T05:00","updated":"2024-10-26T00:29"}
+{"dg-publish":true,"permalink":"/S/Szikla/","title":"Szikla","tags":["Englishtexttranslated"],"created":"2023-10-29T05:00","updated":"2025-09-23T23:26"}
 ---
 
 
@@ -40,10 +40,9 @@ Tehát mivel a [[S/Szümplegádok\|szümplegádok]] címnél írottak szerint is
 Ez a Szük-La már lehetne akár [[C/Cycle\|cycle]] eredete is (az évköri ciklus értelmezés helyesebbnek tűnik, mint a napi "kéklős").  
 
 Szumma szummárum, a szikla nevében benne foglaltatik a szümplegádok téma mellett az is, hogy tájolásra használták. Ilyen, ehhez hasonló témákat lásd [[G/Gnomon\|gnomon]] és [[O/Obeliszk\|obeliszk]].  
-![assets/Szikla_image1.png|invert_dark](/img/user/S/assets/Szikla_image1.png)  
 
 Jankovics Marcell A Nap könyve című könyvének szól a gnomónokról.  
-> Nemcsak kőszirt, hanem élőfa is lehetett természet adta gnómon. A fák a "nézők" sok-sok nemzedékét kiszolgálhatják, bár nem halhatatlanok, s hogy fontos szerepet játszhattak a csillagászati mérésekben, arra a [[F/Fa\|fa]] és a Nap (valamint a többi égitest) szoros és eleven hiedelmi kapcsolatából következtethetünk. Fa tövén kelő, fa ágai közt lebegő Nap képével minden műveltségben találkozunk. Megtaláljuk szibériai sámándobon (27. rajz), japán selyemfestményen, kínai írásjelen, egyiptomi bronzedényen, mexikói kódex-miniatúrán, a keresztény művészetben, a népművészetben, egyszóval mindenütt. Százszámra idézhetnénk a fa-Nap kapcsolat szöveges példáit.  
+> Nemcsak ![assets/Szikla_image1.png|fix_dark fix_light right|300](/img/user/S/assets/Szikla_image1.png)kőszirt, hanem élőfa is lehetett természet adta gnómon. A fák a "nézők" sok-sok nemzedékét kiszolgálhatják, bár nem halhatatlanok, s hogy fontos szerepet játszhattak a csillagászati mérésekben, arra a [[F/Fa\|fa]] és a Nap (valamint a többi égitest) szoros és eleven hiedelmi kapcsolatából következtethetünk. Fa tövén kelő, fa ágai közt lebegő Nap képével minden műveltségben találkozunk. Megtaláljuk szibériai sámándobon (27. rajz), japán selyemfestményen, kínai írásjelen, egyiptomi bronzedényen, mexikói kódex-miniatúrán, a keresztény művészetben, a népművészetben, egyszóval mindenütt. Százszámra idézhetnénk a fa-Nap kapcsolat szöveges példáit.  
 - Lásd ezeket A fa mitológiájából kimásolva [[F/Fa\|fa]], [[F/Fa és nő\|fa és nő]], [[N/Nut\|Nut]] és [[T/Tejút\|Tejút]].  
 
 Ami még Jankovics Marcelltől ide tehető:  
