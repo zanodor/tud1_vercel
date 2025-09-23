@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2025-08-27T03:04"}
+{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2025-09-23T22:54"}
 ---
 
 
@@ -19,19 +19,14 @@ Többször utaltunk rájuk amolyan kozmikus (isteni igét, szellemiséget fogni 
 > A szarvakat régente szentséges szimbólumnak tekintették. Az egyiptomi hieroglif írásban a szarvnak több elvont jelentéstartalma volt. Az egyik, úgy mond, az amely "a fej fölött van", (a Nap, az ég, a csillagok... stb.) Ebből adódik egy másik értelem: az önnön felsőbb tudatunkhoz vezető "útnak a kitárása/megnyitása". De ugyanakkor emelkedettséget, magasztosságot, tekintélyt és dicsőséget is jelentett. Míg Mezopotámiában, a szarv közé helyezett tűz láng, csillag jel együttes, az egykori Paradicsomot jelképezte.  
 - Lásd erről Az/Ász témát [[I/Ízisz\|Ízisz]], [[A/Ász\|Ász]] és [[S/Szarvas\|szarvas]].
 
-![assets/Szarv_image1.png](/img/user/S/assets/Szarv_image1.png)  
-
 #### Pap Gábor...
 
 ...megkülönbözteti az [[A/Agancs\|agancs]]ot a szarvaktól abban, hogy a bivaly-, bika-, ökör-, tülök- stb. szarvak behúzzák az energiát, az agancsok pedig kifelé sugároznak. Mindkettő a Tejút energiáival gazdálkodik.  
 Ha elfogadjuk Pap Gábor szarvas agancs és a Tejútrendszer közti megfeleltetésre vonatkozó megállapításait, akkor ezekből már következik a tűz-villám-csillagok-agancs kapcsolat is. Sőt ahogy a [[K/Korona\|korona]] és a glória is fényt sugárzáshoz, a fényáradathoz kapcsolódik, úgy az [[A/Agancs\|agancs]] is.  
 
-#### Molnár V. József...
+Molnár V. József (azóta más adatokkal is kiegészített) témáját arról, hogy a Holdnak szarvai vannak, lásd [[H/Hold\|Hold]].  
 
-...(azóta más adatokkal is kiegészített) témáját arról, hogy a Holdnak szarvai vannak, lásd [[H/Hold\|Hold]].  
-![assets/Szarv_image2.png|invert_dark](/img/user/S/assets/Szarv_image2.png)  
-![assets/Szarv_image3.png|invert_dark](/img/user/S/assets/Szarv_image3.png)  
-Az ott szereplő sámándobról készült ábrának mégis csak a bal oldali, (más címeknél is bemutatott) Nap-ábráját mutatnám itt be kicsiben. Azért is, mert a [[C/Csudaszarvas\|Csudaszarvas]] címnél is taglalt Szarvasfiúnak is lehet szarva, de nemcsak szarvasnak, hanem az alant még taglalt Kosnak. És ha már kos, Wiki oldalról és egy japán filmből bemutatom az egyetemes OK-jelet, és a sátánisták szarv-jelét is sorban, csakhogy lássuk, a szimbolika hogyan íveli át az évezredeket (a japán filmben még a lemenő (felkelő is lehetne) Nap is szépen mutatkozik).  
+Az ott szereplő sámándobról ![assets/Szarv_image3.png|fix_dark fix_light right|200](/img/user/S/assets/Szarv_image3.png)  készült ábrának mégis csak a bal oldali, (más címeknél is bemutatott) Nap-ábráját mutatnám itt be kicsiben. Azért is, mert a [[C/Csudaszarvas\|Csudaszarvas]] címnél is taglalt Szarvasfiúnak is lehet szarva, de nemcsak szarvasnak, hanem az alant még taglalt Kosnak. És ha már kos, Wiki oldalról és egy japán filmből bemutatom az egyetemes OK-jelet, és a sátánisták szarv-jelét is sorban, csakhogy lássuk, a szimbolika hogyan íveli át az évezredeket (a japán filmben még a lemenő (felkelő is lehetne) Nap is szépen mutatkozik).  
 
 #### Péterfai János írja:  
 
@@ -89,13 +84,13 @@ Lásd még [[K/KAR\|KAR]] (és [[S/SZAR\|SZAR]]), [[S/Szarvas\|szarvas]], [[C/Cs
 
 A szarvas, kos, bak agancsa, szarva egyértelműen Tejút jelkép, írja Péterfai János. Ez így is van, de miképpen? Vagy hogyan másképpen? Azt tudjuk, hogy a régi képi-költői felfogásban a hasonló dolgok között analógiát fedeztek fel. Ugyan az alábbi témának nem igen van irodalma (vagy csak nem találom), az alábbi képi analógiákról beszélni kell.  
 Kezdjük azzal, hogy a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] közül (a lovat leszámítva) leginkább a szarvas, agancsos állatok (rén/iramszarvas és szarvasmarha, valamint kecske) figuráltak, annak is a tejet adni képes tehenei. Tejet adni képes állat az, amely szülni képes (Napgyermeket szülni). Ezeknek az állatoknak [[M/Méh\|méh]]e van, illetve nemi részei és szaporító szervrendszerük. [[M/Méh\|Méh]], [[H/Ház\|ház]] és [[P/Pina\|pina]] (valamint [[L/Labyrinth\|labyrinth]]) címnél volt már szó a témáról. (A [[N/Nap háza\|Nap háza]] a Tejútanya, annak is leginkább a méhe.)  
-![assets/Szarv_image4.png|invert_dark](/img/user/S/assets/Szarv_image4.png)  
+![assets/Szarv_image4.png|fix_dark fix_light|840](/img/user/S/assets/Szarv_image4.png)  
 Amiről nem volt szó, az konkrétan a szaporító szervrendszer. Figyeljük meg az alábbi képen a tehén szaporító szervrendszerét, melynek szintén van felül két szarva. Az embereknél (alsó kép) hasonló a helyzet. (A lovaknál[^2] szintén.)  
 [[K/Kürt\|Kürt]] címnél volt szó a szarvval azonos jelentésről.  
 > Méhkürt: A méhből kétoldalt kiinduló, 12 cm hosszú, hullámos lefutású, üreges nyúlványok, más néven petevezetékek, melyek a szabad hasüregbe nyílnak a petefészkek közelében. Amikor egy érett petesejt kiszabadul valamelyik petefészekből, e két vezeték valamelyikébe kerül, hogy eljusson a méhüregbe.  
 
 Ha ezen képeken látott formát összehasonlítjuk a [[L/Lily\|liliom]] (lásd a heraldikában a [[F/Fleur de lis\|fleur de lis]] címert) és (a kiindulónak tekintendő) [[T/Tulipán\|tulipán]] formákkal, kirajzolódik előttünk egy tágabb kép (melyet kibontva Gyárfás Ágnes adataival lásd még lentebb).  
-![assets/Szarv_image5.jpeg|invert_dark](/img/user/S/assets/Szarv_image5.jpeg)  
+![assets/Szarv_image5.jpeg|fix_dark fix_light|840](/img/user/S/assets/Szarv_image5.jpeg)  
 Ami pedig fantasztikus, hogy a latinban is éppen `cervix` névvel rögzítették (csak ott nyakat jelent és a szarvak alatt helyezkedik el).  
 Az ötletet egyébként a torontói egyetem hallgatójának...  
 
@@ -112,8 +107,8 @@ Véleményem szerint a liliom, tulipán és a szaporító szervek között ideá
 
 #### Falvay Károly Nagyboldogasszony...
 
-...című könyvében a mellékelt maori istenanya teste is ezen szarvformát, azaz a szaporító szervrendszert idézi (a Kosnak is ilyen jele van, de mivel [[K/KUS\|KUS]] életfa, mely inkább nőiségi, ne akarjuk a Kos állatövi jegyet keresni benne, ha csak azért nem, mert abban az időben kerül nemzésre a nő, hogy karácsonykor szülhessen; lásd még [[K/Köz\|köz]] címnél írottakat is pináról).  
-![assets/Szarv_image6.png](/img/user/S/assets/Szarv_image6.png)  
+...című könyvében a mellékelt maori istenanya teste is ezen szarv formát, azaz a szaporító szervrendszert idézi (a Kosnak is ilyen jele van, de mivel [[K/KUS\|KUS]] életfa, mely inkább nőiségi, ne akarjuk a Kos állatövi jegyet keresni benne, ha csak azért nem, mert abban az időben kerül nemzésre a nő, hogy karácsonykor szülhessen; lásd még [[K/Köz\|köz]] címnél írottakat is pináról).  
+![assets/Szarv_image6.png|fix_dark fix_light|840](/img/user/S/assets/Szarv_image6.png)  
 Falvay a lényeges részt nem is elemzi:  
 > A központi alak két oldalán szörnyalakok látszanak, amint a borzalmas istennő féken tartja őket. Ábránk részlete csak az istennőt mutatja be, szemérmére, a teremtő változás helyére, csúcsára állított négyzetet faragott alkotója. Ez a hely az ember földi létezésének megjelenési helye, s mint később látni fogjuk, azonos a létezésből távozás helyével is.  
 
@@ -137,7 +132,7 @@ A Napot agancsai között hordozó Csudaszarvas jelképe így tulajdonképpen az
 > A virágemberek nemzetségében vezérlő elem a tulipán. Ennek a tulipán nőelvű volta az oka. Alakjából bontakozik ki az anyaméh formavilága s a mezopotámiai kultúra Inanna istenanya képjele. Ez a jel élt és kelengyésládákat díszített még a 17. században is.  
 - A csatolt képek önmagukért beszélnek (kérdés, hogy melyik oldal a férfi és melyik a női oldal).
 
-![assets/Szarv_image7.png](/img/user/S/assets/Szarv_image7.png)  
+![assets/Szarv_image7.png|fix_dark fix_light|840](/img/user/S/assets/Szarv_image7.png)  
 
 A [[S/Sarab#Görög σᾰ́ρᾰβος\|sarab]] címnél előjövő görög `σᾰ́ρᾰβος` = vulva akkor valóban lehet `szarv` szavunk, utalva a Nap születési helyére (Szarvas/Bak).  
 
@@ -170,39 +165,37 @@ A [[S/Sarab#Görög σᾰ́ρᾰβος\|sarab]] címnél előjövő görög `σ�
 > A Clinical Anatomy című folyóiratban nemrég megjelent új cikk azt sugallta, hogy a reneszánsz művész, Michelangelo titkos női anatómiai képeket rejtett el a firenzei Medici-kápolnában. De vajon tudta ez a 16. századi ember, hogy valójában hogyan néz ki a méh?
 >
 > Tanulmányukban, melynek címe "Pogány szimbólumok a női anatómiával kapcsolatban a Medici-kápolnában, Michelangelo Buonarroti műveiben", egy Deivis De Campos vezette brazil kutatócsoport azt kívánja bemutatni, hogy a San Lorenzo-bazilika Sagrestia Nuovájában található három síremléken rejtett női anatómiai képek találhatók. Konkrétan a szerzők bika-/koskoponyákról, zsinórokkal összekötött gömbökről vagy körökről és kagylókról beszélnek. De a lista első eleme az, ami igazán mellélő.
-> ![assets/Szarv_image8.png](/img/user/S/assets/Szarv_image8.png)  
+> ![assets/Szarv_image8.png|fix_dark fix_light|840](/img/user/S/assets/Szarv_image8.png)  
 > *Csatolás, amely a síremlékek azon oldalait mutatja, amelyek a bika-/koskoponyákat, a zsinórokkal összekötött gömböket/köröket és a kagylót tartalmazzák (A). Figyeljük meg a koponya és a szarvak hasonlóságát a méhhez, illetve a petevezetékekhez (B). Az A képen látható kagyló egyértelműen hasonlít a Sandro Botticelli "Vénusz születése" (1483) című képén, az Uffizi Képtárban, Firenzében, Olaszországban található kagylóra (C). B kép a méhről és a függelékeiről a Netter's Atlas of Human Anatomy-ból, engedéllyel, Philadelphia: Elsevier.*  
 > A szerzők azt sugallják, hogy "az ókorban a bika/kos koponyáját és szarvát női szimbólumként imádták, mert a koponya alakja a méhre, a szarvak pedig a petevezetőkre hasonlítottak." Klasszika archeológusként ez az állítás, amely semmilyen forrásra nem hivatkozik, különösen furcsának tűnt számomra, mivel ezt a szimbólumot, az úgynevezett `bucranium`-ot (bika- vagy ökörkoponya; többes szám: `bucrania`), az ókori világ számos lelőhelyéről ismerem. A szerzők azonban azt is feltételezik, hogy Michelangelo tudta, hogyan néznek ki ezek a női szervek, ami nem egyeztethető össze az orvostudomány történetével.  
 >
 > Az ökörkoponyák valóban elég sokat szerepelnek a reneszánsz művészetben, mint utalás a klasszikus ókorra. Ez a szimbólum az egész ősi Mediterráneumban és azon túl is megtalálható, a neolitikus lelőhelyektől a minószin át a görög-római korig. És még sokkal újabb neoklasszikus építészetben is fennmaradt, például Thomas Jefferson Monticellójában és a Virginiai Egyetemen. De az ökörkoponyákat általában az isteneknek szóló áldozati felajánlásokra való utalásként fogadják el, legalábbis a görög-római rituális gyakorlatokban, ahol a legtöbb bizonyítékunk van. Egy szertartás során állatot vágtak le az oltáron – Apollónnak és Marsnak bikákat, Jupiternek ökröt.
 >
 > Iain Davidson, a New England Egyetem régésze elmondta nekem, hogy ennek a szimbólumnak a története jóval a klasszikus ókor elé nyúlik vissza. "Az ökörkoponyákat gyakran kiállították Çatal Hüyükben a vadmarhák megőrzött szarvcsontjainak formájában. A lelőhely legalább 9000 éves." Fontosabb azonban, hogy Davidson megjegyzi: "ezek nagy hím állatok tényleges részei voltak, nem pedig a női emberi reproduktív szervek szimbólumai."  
-> ![assets/Szarv_image9.png](/img/user/S/assets/Szarv_image9.png)  
+> ![assets/Szarv_image9.png|840](/img/user/S/assets/Szarv_image9.png)  
 > *Ökörkoponyák egy hellenisztikus korabeli építészeti rotundán a szamothrakéi szentélyben.*  
 > Még ha figyelembe is vesszük, hogy egy olyan szimbólum jelentése, mint a bika- vagy ökörkoponya, évezredek alatt megváltozhatott, továbbra is fennáll a kérdés, hogy egy 16. századi művész, mint Michelangelo, párhuzamot vont volna-e e forma és a női reproduktív szervek között. És itt jön be az orvostörténet, mert amit ma a méh és a petevezetékek általános ábrázolásának gondolunk – egyfajta koronális metszet vagy elölnézet róluk – valójában meglehetősen új keletű.
 > Az első tömegesen előállított és jól ábrázolt modern anatómia Andreas Vesaliusé volt, akinek a De humani corporis fabrica című műve évszázadokon át arany standard tankönyvvé vált. Vesalius 1543-ban adta ki ezt a művet – egy évtizeddel azután, hogy De Campos és kollégái szerint Michelangelo befejezte a Medici-kápolnát. Ami azonban fontosabb, Vesalius nem úgy ábrázolta a méhet, ahogy mi ma tesszük.
 >
 > Megkértem Helen King neves klasszikus tanulmányok professzorát és az ókori orvostörténet szakértőjét, hogy tisztázza a női anatómiai ismeretek idővonalát. King szerint Vesalius "nagyon eltérően mutatja be a méhet a tankönyveinkben látható képtől, a méhet és a hüvelyt egyetlen szervként kezelve, ahol a hüvely a 'méh nyaka'." Fontos megjegyezni, hogy Vesalius soha nem mutatja be a petefészkeket vagy a petevezetékeket, mert – ahogy King megjegyzi – "Falloppio csak 1561-ben nevezi el a vezetékeket." Vesalius rajza a hüvelycsatornáról kifejezetten úgy készült, hogy a pénisz képét idézze.  
-> ![assets/Szarv_image10.png|invert_dark](/img/user/S/assets/Szarv_image10.png)  
+> ![assets/Szarv_image10.png|fix_light](/img/user/S/assets/Szarv_image10.png)  
 > *Ezen az Andreas Vesalius De fabrica humani corporis című művéből származó illusztráción a hüvelycsatorna egy fordított péniszre hasonlít*. (Az alábbi oldalról véve: https://sites.fas.harvard.edu/~chsi/bok/02.html)
 >
 > Használhatott-e Michelangelo régebbi anatómiai szöveget a női anatómiai ismereteinek megalapozásához? Ez is valószínűtlen. King megemlíti Jacopo Berengario da Carpi 1522-es Isagogae breves című szövegét, aki **a női anatómiát lényegében a férfi anatómia fordított változatának ábrázolja**[^3] – a 'női herék' és a 'spermatikus erek' mintegy a petefészkekre és a petevezetékekre hasonlítanak, de King arra a következtetésre jut, hogy "az összhatás nagyon eltér a modern tankönyvektől, és egyáltalán nem hasonlít az ökörkoponyák képére!"  
-> ![assets/Szarv_image11.jpeg|invert_dark](/img/user/S/assets/Szarv_image11.jpeg)  
+> ![assets/Szarv_image11.jpeg|fix_light](/img/user/S/assets/Szarv_image11.jpeg)  
 > *Berengario ábrázolása a méhről az Isagogae breues, perlucidae ac uberrimae, in anatomiam humani corporis a communi medicorum academia usitatam című művében.*
 >
 > Nem ez az első alkalom, hogy De Campos és kollégái az ökörkoponyákat nézve méhet látnak. Egy korábbi [cikkben](https://doi.org/10.1002/ca.22764) a tavalyi Clinical Anatomy folyóiratban ugyanígy a női reproduktív szerveknek tulajdonítják a szimbólumot Michelangelo Sixtus-kápolnájában. Annak az ötletnek a megerősítésére, miszerint Michelangelo úgy láthatta az anatómiát, ahogy mi ma, egy esetlegesen apokrif történetet idéznek Leonardo da Vinciről és két sírrablóról, akik egy testet boncoltak. Úgy gondolják, hogy Leonardo több tucat testet boncolt, de hogy átadta-e ezt a tudást – amelyet teljesen illegális tevékenységekből szerzett – megoldatlan kérdés.
 > Röviden, az az elképzelés, hogy Michelangelo a termékenység, az újjászületés vagy a bőség szimbólumait építette be a művébe, egyáltalán nem problémás, és De Campos és kollégáinak az azonosítása, miszerint a gömbök, körök, zsinórok és kagylók ezek a szimbólumok, működhet. Azonban a neolitikumba visszanyúló ökörkoponya szimbólum összekapcsolása egy olyan női anatómiai szemlélettel, amely csak jóval Michelangelo halála után vált széles körben ismertté, meglehetősen erőltetett. Ahogy King összegzi: "Néha a szivar csak szivar."  
 
 [Ezen](https://naturalshaman.blogspot.com/2012/10/womb-symbolism-rams-head.html) sületlenségeket is író blogger cikkében is hasonlítja a méhet a kosfejjel, de a kos sátáni összefüggéseivel először félrevisz, bár utána rámutat, hogy semmi sátáni nincs benne.  
-![assets/Szarv_image12.png|invert_dark](/img/user/S/assets/Szarv_image12.png)  
+![assets/Szarv_image12.png|fix_dark fix_light|840](/img/user/S/assets/Szarv_image12.png)  
 Ami érdekes lehet tőle:  
 > In Pagan symbolism, Pan is the god of the wild, shepherds and flocks, nature, of mountain wilds, hunting, music, libido and fertility. His season is spring and he is associated with the Mother Goddess.  
 > —  
 > A pogány szimbolikában Pán a vadon, a pásztorok és a nyájak, a természet, a hegyi vadon, a vadászat, a zene, a libidó és a termékenység istene. Évszaka a tavasz, és az anyaistennővel hozzák kapcsolatba.  
 
-![assets/Szarv_image13.png|invert_dark](/img/user/S/assets/Szarv_image13.png)  
-
-Viszont azt tudni kell, hogy [[P/Pán\|Pán]] nem a Kossal, hanem a Bakkal hozatott kapcsolatba. Az tény, hogy szarvak itt és ott is vannak.  
+Viszont azt tudni kell, hogy [[P/Pán\|Pán]] nem a Kossal, ![assets/Szarv_image13.png|fix_dark fix_light right|80](/img/user/S/assets/Szarv_image13.png)  hanem a Bakkal hozatott kapcsolatba. Az tény, hogy szarvak itt és ott is vannak.  
 Aztán a cikkíró megkér minket, nézzük meg a Kos jelét, hogy mire emlékeztet minket. Valóban az általa is említett Istennőre, annak méhére (és még ahogy írja, a menstruális ciklusra) utal.  
 A Kos/szarv jel tehát együttesen jelezheti, hogy Napfiú ezen a Magyar Adorján által is [[N/Nász\|nász]]ünnepélynek tartott március 21.-i tavaszi napéjegyenlőségi napon fogan meg (hogy 9 hónap múlva a Napfiú megszülethessen): a Molnár V. József könyvében kettős-spirál néven is nevezett Kos/szarv jel ezen felfelé álló [[F/Fleur de lis\|fleur de lis]] szerű állapotában nőiségi (szaporító szervrendszer) jelképként ([[K/KUS\|KUS]] = tűz, ahogy [[V/Vulva\|vulva]] a Tejútközpontban is a [[T/Tűz\|tüz]]es lába köze az istennőnek) mutatkozik, viszont fejjel lefelé nézve egy hímtagot formázna a két monnyal. Azaz visszatérünk a fentebbi "a hím és női ivarszervek egymás inverzei" kérdéshez. Az [[E/Egy\|egy]] címnél taglalt egyháromság témához így tehetőek az alábbiak:  
 Ahhoz, hogy a nemzés létrejöhessen, a(z egymás inverzének is felfogható) férfi és női nemi szervek háromságának megfelelően kell működnie. A férfinél nem elég a pénisz (annak is erekt állapota), ha nem működik a hormontermelés (herék). A nőnél a petefészek hasonló fontosságú. A két szervrendszer egyháromsága együtt hozza létre az életet. (Arról pedig több helyen volt szó, hogy a magyar-hun azaz [[H/Hunor és Magor\|Hunor és Magor]] rendszerben a hunok a nemzésért, magyarok a szülésért felelősek.)  
@@ -210,27 +203,24 @@ Ahhoz, hogy a nemzés létrejöhessen, a(z egymás inverzének is felfogható) f
 #### Pető Imre Nimród és fiai...
 
 ...című az Ősi Gyökér 2012/1. sz. megjelent cikkében is ír a témáról:  
-> Ezen a fibulán a tárgyi elemek együttesen is, külön-külön is a nemiséget ábrázolják, a férfi jelleget a naturális pénisz-idommal, a női minőséget a petefészekre is utaló "fészkelő" madarakkal.  
-> ![assets/Szarv_image14.png](/img/user/S/assets/Szarv_image14.png)  
+> Ezen a fibulán ![assets/Szarv_image14.png|right|240](/img/user/S/assets/Szarv_image14.png)a tárgyi elemek együttesen is, külön-külön is a nemiséget ábrázolják, a férfi jelleget a naturális pénisz-idommal, a női minőséget a petefészekre is utaló "fészkelő" madarakkal.  
 > Apró gyöngyöcskék sorai díszítenek, emellett hordozzák a férfi-nő egységének tudatát a szerelem, a sokasodás, termékenység, szaporaság eszményeit. Ez is lehet a legfőbb fémbe öntött gondolat: a harcos élet próbára teszi a népet és az embert, áldozatokat követel, a jövő záloga pedig az elveszítettek pótlása, a megújuló élet.  
 - A Pető által írott sorok alapján érthető lehet még az is, miért Kos/[[K/KUS\|KUS]] alakú a madár neve keleten.
 
-#### Molnár V. József Világ-virág c. könyvének 126. oldalától...
+#### Molnár V. József Világ-virág...
 
-... közölt spirálkettőst ábrázoló képei kapcsán nem hozza (hozhatja[^4]) szóba az anyaméhet, de [[S/Spiral\|spiral]] címnél Bakos Attila passzusában már szóba került.  
+...című könyvének 126. oldalától közölt spirálkettőst  ![assets/Szarv_image16.jpeg|right|300](/img/user/S/assets/Szarv_image16.jpeg)ábrázoló képei kapcsán nem hozza (hozhatja[^4]) szóba az anyaméhet, de [[S/Spiral\|spiral]] címnél Bakos Attila passzusában már szóba került.  
 Az első három képen a felfelé álló, vagy ha úgy tetszik, az alulról szerveződő irányultságú állapotot látjuk. Az első képen erdélyi mázas cseréptányér, a másodikon a [[K/Kos csillagkép\|Kos csillagkép]] címnél is közölt sárközi főkötő szokásos képjele, a harmadikon általános keresztszemes minta látható. Mindhárom jelben közös, hogy a sugárzás-növekedés felül lépcsősen, alul spirálisan jelentkezik.  
-![assets/Szarv_image15.png](/img/user/S/assets/Szarv_image15.png)  
-A negyedik képen már lefelé álló jelet látunk: az [[E/Életfa\|életfa]] címnél is bemutatott szkíta aranytárgy életfájának pirossal jelzett részét lásd.  
-![assets/Szarv_image16.jpeg](/img/user/S/assets/Szarv_image16.jpeg)  
-Amit elemzésük gyanánt ír:  
-> A század eleji erdélyi tányéron (174. ábra), a sárközi fökötő összetett jelében (175. ábra), a keresztszemes motívum (176. ábra) és a szkíta életfa jelrendszerében (177. ábra) egyazon alakzat idézi meg a "sugárzást" és a növényi temészetű növekedést (M37. ábra).  
-> A sugárzás és növekedés lépcsősen jelölődik, s ehhez csatlakozik, ebből alakul, a sugárzással ellentétes – az őt kiegészítő – nedves, alsó erők megidézője, a spirál. A sugárzás és a spirál együittese az életfa elemi kettőssége is egyben: a fönt (fényes) és a lent (sötét, termő, televény) jelölődik benne.  
 
-Aztán a másik két képhez való szövege (na itt már az [[A/Anyaméh\|anyaméh]] is szóba kerül):  
-![assets/Szarv_image17.png](/img/user/S/assets/Szarv_image17.png)  
-![assets/Szarv_image18.png](/img/user/S/assets/Szarv_image18.png)  
-> A japán közép-jomon periódus és a kukuteni műveltség terrakotta nőalakja (179., 180. ábra) a sugárzás és a spirál jelölte erők képviselője. Ez utóbbinál a kulcscsont, a csatlakozás pontja spirál, s a "méh fölé" hajol kétoldalról a levéltestű, önmagába csípő "spirál-madár". A más-más minőségű spirálokat tengelyre, illetve egyéb csomópontra ragozott lépcsős sugárzás ellenpontozza.  
+A negyedik ![assets/Szarv_image15.png|right|110](/img/user/S/assets/Szarv_image15.png)képen már lefelé álló jelet látunk: az [[E/Életfa\|életfa]] címnél is bemutatott szkíta aranytárgy életfájának pirossal jelzett részét lásd.  
+Amit elemzésük gyanánt ír:  
+> A század eleji erdélyi tányéron (174. ábra), a sárközi főkötő összetett jelében (175. ábra), a keresztszemes motívum (176. ábra) és a szkíta életfa jelrendszerében (177. ábra) egyazon alakzat idézi meg a "sugárzást" és a növényi természetű növekedést (M37. ábra).  
+> A sugárzás és növekedés lépcsősen jelölődik, s ehhez csatlakozik, ebből alakul, a sugárzással ellentétes – az őt kiegészítő – nedves, alsó erők megidézője, a spirál. A sugárzás és a spirál együttese az életfa elemi kettőssége is egyben: a fönt (fényes) és a lent (sötét, termő, televény) jelölődik benne.  
+
+Aztán a másik két képhez való szövege (na, itt már az [[A/Anyaméh\|anyaméh]] is szóba kerül):  
+> A japán közép-jomon periódus és a kukuteni ![assets/Szarv_image17.png|right|200](/img/user/S/assets/Szarv_image17.png)műveltség terrakotta nőalakja (179., 180. ábra) a sugárzás és a spirál jelölte erők képviselője. Ez utóbbinál a kulcscsont, a csatlakozás pontja spirál, s a "méh fölé" hajol kétoldalról a levéltestű, önmagába csípő "spirál-madár". A más-más minőségű spirálokat tengelyre, illetve egyéb csomópontra ragozott lépcsős sugárzás ellenpontozza.  
 > A jelértékű nőalakban mindig és mindenütt a világ növekedő természete mutatja meg magát, a folyton működő, a sugárzást magába fogadó, fény által foganó ősanya. Népünk ősi hitében ő a [[B/Boldogasszony\|Boldogasszony]]: őt azonosította később a néphit a keresztény műveltség Szűz vagy Szent Máriájával. A gyimesi csángók a Boldogasszonyt, a szép Szűz Máriát Babbának nevezik, ugyanúgy, mint a Holdat – amely egyben égi megfelelője is.  
+> ![assets/Szarv_image18.png|840](/img/user/S/assets/Szarv_image18.png)
 
 #### Molnár V. József Világ-Virág c. könyvének 154. oldalán...
 
@@ -247,18 +237,18 @@ Kos-Úr így a Napra utalna. Ezen utóbbiból kiindulva gondolnám azt, hogy a k
 #### Berényi László Géza Holisztikus világszemlélet 7000 éve a Kárpát-medencében...
 
 ...(a KöR-iS-TeN fraktál) c. Ősi Gyökér 2007/1. sz. megjelent cikkében, [[K/Kalács\|kalács]] címnél is szereplő képen is a [[M/Mézeskalács\|mézeskalács]] petefészek-[[A/Anyaméh\|anyaméh]] jelképiséget látjuk.  
-![assets/Szarv_image20.jpeg|invert_dark](/img/user/S/assets/Szarv_image20.jpeg)  
+![assets/Szarv_image20.jpeg|fix_light](/img/user/S/assets/Szarv_image20.jpeg)  
 
 [[S/Szív\|Szív]] címnél szintén volt szó a témáról.  
 [[B/Béka\|Béka]] és [[H/Hysteria\|hysteria]] címnél a méh békához való hasonlításáról volt még szó. Sőt, legutóbb egy teoretikus [[B/Béka csillagkép\|Béka csillagkép]] is született a Bak alteregójaként: tehát nemcsak a Kos, hanem a Bak csillagkép is anyaistennő-anyaméh vonatkozású lehet. Ezen témához kapcsolható lenne az alábbi korábban itt álló adat:  
 A szaporító szervrendszer ugye a petefészekből és az [[A/Anyaméh\|anyaméh]]ből áll. A [[M/Méh\|méh]] a magyarban okkal homonima.  
-![assets/Szarv_image21.png](/img/user/S/assets/Szarv_image21.png)  
+![assets/Szarv_image21.png|fix_dark fix_light|840](/img/user/S/assets/Szarv_image21.png)  
 A [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] címnél taglalt méh nemcsak az Artemisz-szobron szerepel, hanem külön érméken is (más érmék szarvas-állatalakját mutatják), ez is bizonyítéka lehet annak, hogy i.e. 300-ban és korábban még magyarul beszélő illetve értő emberek alkották meg a kultuszt és verték az érméket. Ugyanis csak magyar nyelven hordozza méh ezen kettős jelentést. Ha az itt alant szereplő két érme ugyanazon érme két oldala lenne, az lenne igazán csak az igazi, mert rámutatna, hogy a Szarvas méhéről lenne szó. Márpedig a Szarvas a Bak megfelelője is lehet, mely méhként lehet Béka (viszont ha egy érme két oldala lenne, egy békát is rajzolhattak volna rá, persze az nem lett volna illő).  
 
 #### Greg Rigby The God Secret...
 
 ...című könyvének 93. oldalán bemutatott [[I/Ízisz\|Ízisz]]t ábrázoló képen is helyesen a szarvak által körülhatárolásban kelyhet vesz észre (előbb azt gondoltam, hogy itt a Nap kétszer is szerepel; a szarvak közt és a [[H/Hórusz\|Hórusz]]ként a karjában tartva.  
-![assets/Szarv_image22.jpeg](/img/user/S/assets/Szarv_image22.jpeg)  
+![assets/Szarv_image22.jpeg|fix_light](/img/user/S/assets/Szarv_image22.jpeg)  
 Ugyanakkor [[I/Ízisz\|Ízisz]] címnél, külön alcímnél Szék/Trónus, azaz Sarkcsillagról is volt szó, és [[C/Csudaszarvas\|Csudaszarvas]] címnél homlokról is, azaz ezen képzetek Egyiptomban már egyszerűsítettek). A kehely a [[M/Mozsár\|mozsár]]hoz hasonlóan méhjelkép, azaz a méh és szarvak összefüggését itt is megtaláljuk.  
 
 #### Magyar Adorján írja:  
@@ -270,10 +260,11 @@ Az alma paradicsom is. **Czeglédi Katalin** Gyárfás Ágnes A Halotti Beszéd 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-https://en.wiktionary.org/wiki/%CE%BA%CE%AD%CF%81%CE%B1%CF%8  
+https://en.wiktionary.org/wiki/%CE%BA%CE%AD%CF%81%CE%B1%CF%82
 
 [^2]: Lábjegyzet:  
-Lásd például itt: http://www.omafra.gov.on.ca/english/livestock/horses/facts/10-099.htm  
+Lásd például itt:  
+https://web.archive.org/web/20240219121239/https://www.ontario.ca/page/anatomy-physiology-and-reproduction-mare
 
 [^3]: Lábjegyzet:  
 Az [alábbi](https://sites.fas.harvard.edu/~chsi/bok/02.html) oldalon így írnak róla:  
@@ -288,7 +279,7 @@ Galénoszt Catherine Gallagher és Thomas Walter Laqueur idézi a "The Making of
 Hiszen annak jele, mint fentebb láttuk, lefelé kunkorodó spirál.  
 
 [^5]: Lábjegyzet:  
-**Greg Rigby** The God Secret című könyvében szól Merkúr szárnyai kapcsán a szarvakkal való kapcsolatáról és még meg is dicsértem az észrevételért.  
+Greg Rigby The God Secret című könyvében szól Merkúr szárnyai kapcsán a szarvakkal való kapcsolatáról és még meg is dicsértem az észrevételért.  
 —  
-**Supka Géza** Kalandozás a kalendáriumban című könyvében is szóba hozza:  
+Supka Géza Kalandozás a kalendáriumban című könyvében is szóba hozza:  
 Tudjuk, hogy a keresztény egyház iparkodott az antik istenségek emlékezetét eltörölni, illetőleg keresztény fogalmakkal helyettesíteni: így került a pokol fejedelme a halottakat vezető Hermész helyébe, s így került a Merkúr- vagy a Hermész-kalapon lévő két kis szárny helyébe a két kis ördögszarv. S ha ezt tudjuk, akkor megértjük az [[H/Harlequin\|Arlekin]] név rejtelmét is.  
