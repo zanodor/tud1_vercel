@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tamana/","title":"Tamana","created":"2023-11-03T03:14","updated":"2024-10-26T00:33"}
+{"dg-publish":true,"permalink":"/T/Tamana/","title":"Tamana","created":"2023-11-03T03:14","updated":"2025-09-23T23:51"}
 ---
 
 
@@ -19,7 +19,7 @@ Az [alábbi](https://naput.hu/index.php/g-mainmenu-30/483-tamana) oldalon olvash
 
 TAMANA – EGY TUDOMÁNY SZÜLETÉSE  
 
-![assets/Tamana_image1.png](/img/user/T/assets/Tamana_image1.png)  
+![assets/Tamana_image1.png|fix_dark fix_light|840](/img/user/T/assets/Tamana_image1.png)  
 > Mi a Tamana?  
 > 
 > Volt egy lápos, mocsaras őrfalu a délvidéki Bácska megyében. Ez a kis falu a Tamana nevet viselte ősidők óta.  
@@ -64,7 +64,7 @@ TAMANA – EGY TUDOMÁNY SZÜLETÉSE
 Dr. Bognár László [ezen](https://www.youtube.com/watch?v=reuuRpJNnT0) Emlékezés Magyar Adorjánra című előadásában 38:20-nál jön elő (két több ezer éves kárpát-medencei edény között bemutatva) a név nélküli, interneten sehol sem talált (ki tudja milyen régi) ismerős (alkalomadtán megkeresendő) aranylemez(?) életfa-ábrázolással, ahol szintén bal oldalon van a Hold és jobb oldalon a Nap (a két [[K/Kerék\|kerék]] tulajdonképpen a Hunor és Magor [[L/Lemniszkáta\|lemniszkáta]]-feleknek felel meg, illetve az Osiris és Set féle időharcot jeleníti meg), felül pettyként talán a [[S/Sarkcsillag\|Sarkcsillag]] a hét északi csillaggal, alul pedig a hármashalom életfával (tetején tulipánnal vagy oldalnézetben madárral) és [[S/Székely-magyar rovásírás\|székely-magyar rovásírás]]sal **Tamana** felirat ([[B/Bal és jobb\|bal és jobb]], valamint [[H/Három\|három]] és [[H/Hét\|hét]] címhez is bekerült).  
 ![assets/Tamana_image2.jpeg](/img/user/T/assets/Tamana_image2.jpeg)  
 
-Kubínyi Tamás ÁKTV műsorában azt mondja, hogy a Tamana kutatás humbug (de azon kívül, hogy Stockholmot Istókhalmának mondókhoz hasonlítaná őket, nem hiszem, hogy sokat tudott róla).  
+
 
 A [[M/Magyar nyelvészkedők\|magyar nyelvészkedők]], [[M/Magyar ősvallás\|magyar ősvallás]] és közben [[T/Turanizmus\|turanizmus]] címnél is említett, érdekes....
 
@@ -79,4 +79,4 @@ A [[M/Magyar nyelvészkedők\|magyar nyelvészkedők]], [[M/Magyar ősvallás\|m
 Az viszont tény marad, hogy az -[[A/ANA\|ANA]] végződésű nevek azért fontosak, mert az istenanya [[O/Ország\|ország]]a kerül mindenütt leképezésként. A [[D/Dame\|dame]] címnél írottak alapján pedig a Tam lehet Tehénre utaló név.  
 Lásd még [[T/TAM\|TAM]].  
 
-Az is érdekes, hogy biz. Andis Kaulins Das Tanum System-ében is előjön hasonló név.  
+Az is érdekes, hogy bizonyos Andis Kaulins Das Tanum System-ében is előjön hasonló név.  
