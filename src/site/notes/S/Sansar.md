@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sansar/","title":"Sansar","created":"2023-11-18T11:36","updated":"2024-10-26T00:17"}
+{"dg-publish":true,"permalink":"/S/Sansar/","title":"Sansar","created":"2023-11-18T11:36","updated":"2025-09-23T20:51"}
 ---
 
 
@@ -11,5 +11,13 @@ Lásd még szintén mongol, újévet jelentő `tsagaan sar`-t [[S/SAR\|SAR]] cí
 
 Hasonló hozzá a szanszkrit(ból ismert) [[S/Samsara\|Samsara]]. Sar itt szár jelentéssel értendő. Sansar kb. a Szent Fényesség.  
 A mongol-angol szótár egyenesen a szanszkrit `samsara` szóból eredőnek veszi. Mondhatjuk joggal, tekintve a mongol hitvilág buddhizmussal átitatott voltát. Egy 2018-as keltezésű, Religious revival in modern Buryatia című dolgozatban is erről ír a szerző.  
-A mellékelt anyag a mongol-angol szótárból származik.  
-![assets/Sansar_image1.png|invert_dark](/img/user/S/assets/Sansar_image1.png)  
+
+A mellékelt anyag a mongol-angol szótárból származik:  
+> **SANSAR / САНСАР**  
+> \[S. saṃsāra\] _n._ Samsara, sansara, circle of transmigrations, material or phenomenal world.  
+> -- _un dalai._ The ocean of rebirths.  
+> -- _un kyrdy(n)._ Wheel or circle of transmigration.  
+> -- _un zobalaŋ._ The sufferings of the phenomenal world.
+> 
+> **SANSARLIG**  
+> \[Go.\] _n._ Those who live in the sansar, q.v.  
