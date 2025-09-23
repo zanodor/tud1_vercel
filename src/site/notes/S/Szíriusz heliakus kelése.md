@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2025-06-07T19:12"}
+{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2025-09-23T23:37"}
 ---
 
 
@@ -35,7 +35,7 @@ Az egyiptomiak kereken 365 napos évvel számoltak, ebből az utolsó 5 nap kül
 Lásd további matematikát erről [[S/Sothic\|Sothic]].  
 
 Jankovics Marcell adata, hogy a Szíriusz eltűnése és újbóli megjelenése között 70 nap telik el.  
-![assets/Sziriuszheliakuskelese_image3.png|invert_dark](/img/user/S/assets/Sziriuszheliakuskelese_image3.png)  
+![assets/Sziriuszheliakuskelese_image3.png|fix_light](/img/user/S/assets/Sziriuszheliakuskelese_image3.png)  
 
 A Dobos Csanád által szolgáltatott (nyilván planetárium szoftverből szedett) Szíriusz heliakus kelésével kapcsolatos adatok (lásd csatolt képet) azt mutatják, hogy a Szíriusz heliakális kelése csak bizonyos évezredekben nyújthatott lehetőséget az egyiptomi szoláris év alapjául tekinthetőségére, mindezek által tökéletesen belőve a késői egyiptomi kultúra idejét, ill. téridőben (zodiákuson) elfoglalt helyét.  
 Megjegyzés: a planetárium szoftverekbe a Szíriuszra vonatkozó precessziós adatok is be vannak táplálva, így az adat semmitmondó.  
@@ -65,7 +65,7 @@ A Walter Cruttenden által is hivatkozott Jed Buchwald, a Caltech Egyetem profes
 Persze az egyiptomi kultúrát hivatalosan időben úgy helyezik el, hogy beleilleszkedjen a zsidó teremtéstörténetbe, így mondhatják, hogy ezekben az időkben még látható volt az – egyébként általánosan pusztán fényes marker-csillagként kezelt – Szíriusz.  
 Ez a Dobos Csanád féle levezetési hiba tehát abból származik, hogy a planetárium szoftverek is olyan NASA-féle adatokat használnak, mely a téves [[P/Precesszió\|precesszió]]-jelenségre építenek (szándékosan, vagy sem, most mindegy). ([[K/Karácsony\|Karácsony]] címnél is szerepeltek Dobos Csanád interneten megosztott Miért december 25 karácsony napja című cikkéből szedett adatai: ott is helyre kellett tenni a dolgot.)  
 
-![assets/Sziriuszheliakuskelese_image4.png|invert_dark](/img/user/S/assets/Sziriuszheliakuskelese_image4.png)  
+![assets/Sziriuszheliakuskelese_image4.png|fix_dark fix_light|840](/img/user/S/assets/Sziriuszheliakuskelese_image4.png)  
 Cikke vége felé ennél is továbbmegy Buchwald:  
 > Because of Sirius' position, and the latitudes at which the Egyptians observed the sky, both Sirius' heliacal rising and the summer solstice remained nearly the same number of days apart throughout Egyptian history even though the zodiac moves slowly around the ecliptic.  
 > The rising of Sirius, the brightest star in the heavens and important to Egyptians as the signal for the annual flooding of the Nile, was assumed by the French physicists to move with relation to the sun as do the constellations of the zodiac. It does not, however, as we see here.  
@@ -84,7 +84,7 @@ J. Ellard Gore Astrological curiosities című könyvének adata szerint i.e. 40
 
 [[P/Precesszió\|Precesszió]] és [[S/Szíriusz és a naprendszer\|Szíriusz és a naprendszer]] címnél szereplő W. Cruttenden-féle adatok viszont szintén azt fedik fel, hogy a Szíriusz nem változtatja helyét, mert egyenesen az okozza a precessziót!  
 Itt két dolgot lehet felhozni. Egyrészt, hogy szélességében valóban nem változtathatja, de mi van hosszúságában (deklinációjában)? Másrészt, máshol Dobos Csanád azt vélte észrevételezni, mintha a planetárium szoftverek is be lennének programozva a Gregorian-naptár csalására (Julian-naptár szerint jó adat jött neki ki): a program tehát vagy a NASA hivatalos adatait használja, vagy pusztán azért vándorol a heliákus felkelés, mert ezt – a hivatalos nézet szerint – a sziderikus és tropikus napév diszkrepanciája hozza létre. (Uwe Holmannék szerint nincs is négyperces eltérés!)  
-![assets/Sziriuszheliakuskelese_image5.png|invert_dark](/img/user/S/assets/Sziriuszheliakuskelese_image5.png)  
+![assets/Sziriuszheliakuskelese_image5.png|fix_light](/img/user/S/assets/Sziriuszheliakuskelese_image5.png)  
 
 William Brown blogger is írja:  
 > If the equinoxes and solstices were occurring at different locations then Sirius could not have a precise helical rising every July 23rd from the latitude of Egypt!  
@@ -93,7 +93,7 @@ William Brown blogger is írja:
 - Richard Hinckley Allen Star Names and their Meanings című könyvében említi Oppertet, aki azt nyilatokozta, hogy a káldeusok i.e. 300 körül végzett Szíriusz mozgásainak lejegyzése csak olyan csillagászati periódusok ismeretéből származhat, aminek alapját egy, az i.e. 11542. április 29-én, csütörtökön, a perzsa-öbölbeli Zylos nevű szigetről tett megfigyelés képezte.
 
 Nyilván arra gondol (és ennek utána lehetne nézni), hogy a Szíriusz több ezer évig eltűnt a láthatárból, ahogy Dobos Csanád is írt róla.  
-![assets/Sziriuszheliakuskelese_image6.png|invert_dark](/img/user/S/assets/Sziriuszheliakuskelese_image6.png)  
+![assets/Sziriuszheliakuskelese_image6.png|fix_dark fix_light|840](/img/user/S/assets/Sziriuszheliakuskelese_image6.png)  
 
 Itt még említendő:  
 > Schaefer (2000) found that in order for Sirius to be visible at heliacal rising, its altitude must be ∼6° while the Sun must be ∼5° below the horizon.  
