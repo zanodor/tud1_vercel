@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tükör/","title":"Tükör","created":"2024-05-01T14:30","updated":"2025-06-07T18:59"}
+{"dg-publish":true,"permalink":"/T/Tükör/","title":"Tükör","created":"2024-05-01T14:30","updated":"2025-09-24T00:43"}
 ---
 
 
@@ -31,7 +31,7 @@
 
 Korábban [[T/Tyche\|Tyche]] címnél szerepelt:  
 Bíró Lajos Táltosok könyvében a táltosok varázseszközei között említi a mindentlátás tükrét és közöl egy [[T/Tabiti\|Tabiti]] szkíta istennőt (és élet vizét ivó harcost) ábrázoló képet is. Lásd csatolva.  
-![assets/Tükör_image1.png|invert_dark](/img/user/T/assets/T%C3%BCk%C3%B6r_image1.png)  
+![assets/Tükör_image1.png|fix_dark fix_light|400](/img/user/T/assets/T%C3%BCk%C3%B6r_image1.png)  
 
 [[H/Házioltár\|Házioltár]] címnél is szerepelt:  
 A [[M/Mestergerenda\|mestergerenda]] alatt a déli oldalon elhelyezett tükör is a ház gerincoszlopának szakrális jellegét mutatja, a tükörkép, a fordított világ (őseink hite szerint a másvilág a fordított világ) változtatja a tükröt dimenzió kapuvá, átjáróvá a valós, és a szellemvilág között.  
