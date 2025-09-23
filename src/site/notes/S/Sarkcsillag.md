@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2025-06-20T23:36"}
+{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2025-09-23T20:51"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Azon csillag, mely az égkör sarkához legközelebb áll. A mi éjszaki égkörünkön azon csillag a [[U/Ursa Minor\|Kis Medve csillagkép]]ben, mely az éjszaki sarknak legközelében van. Másképp: gönczcsillag. (Stella polaris). A Föld tengelye megközelítőleg 4320 évenként mindig egy másik csillagképre, jelenleg az Ursa Minor (Kisgöncöl) csillagképben lévő [[P/Polaris\|Polaris]] nevű csillag irányába mutat.  
 A mellékelt képen a Sarkcsillag [[P/Precesszió\|precesszió]] következtébeni vándorlását láthatjuk.  
-![assets/Sarkcsillag_image1.jpeg|invert_dark](/img/user/S/assets/Sarkcsillag_image1.jpeg)  
+![assets/Sarkcsillag_image1.jpeg|fix_dark fix_light|840](/img/user/S/assets/Sarkcsillag_image1.jpeg)  
 
 #### Gesztesi Albert csillagász A világ négy sarka...
 
@@ -39,7 +39,7 @@ Az alábbiak Hamlet Malmából származnak és szintén az előbb említett [[A/
 
 Azt pedig William F. Warren könyvéből is tudjuk, hogy az istenek hyperboreai északi sarki trónja a – későbbi mindenkori – Sarkcsillag, mely ma is Polaris, az Kis Medve alfája.  
 
-![assets/Sarkcsillag_image2.png|invert_dark](/img/user/S/assets/Sarkcsillag_image2.png)  
+![assets/Sarkcsillag_image2.png|fix_dark fix_light|840](/img/user/S/assets/Sarkcsillag_image2.png)  
 A régi korok népei szerint, ha – mi már tudjuk hogy a [[P/Precesszió\|precesszió]] eredményeként (illetve a magyarok is ismerték, de a szájhagyomány nem őrzi meg a tudományos okfejtést, ez a terület a táltosok privilégiuma) – a sarkcsillagot hordozó csillagkép leeseik az égről, akkor eljön a világvége.  
 Néhány példa a Hamlet Malma című könyvből:  
 > A szibériai kirgizek a Kis Göncölnek a Sarkcsillaghoz legközelebb eső, és ívet formázó három csillagát "kötélnek" nevezik, melyhez a csillagkép két nagyobb csillaga, a két ló hozzá van kötve. Az egyik ló fehér, a másik kékesszürke. A Nagy Göncöl hét csillagát a hét őrnek nevezik, akiknek feladata megvédeni a lovakat az ólálkodó farkastól. Ha egyszer a farkasnak sikerül megölnie a lovakat, eljön a világvége.  
