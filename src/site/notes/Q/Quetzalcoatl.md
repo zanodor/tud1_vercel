@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Q/Quetzalcoatl/","title":"Quetzalcoatl","tags":["Englishtexttranslated"],"created":"2024-12-18T11:34","updated":"2025-06-12T01:38"}
+{"dg-publish":true,"permalink":"/Q/Quetzalcoatl/","title":"Quetzalcoatl","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-12-18T11:34","updated":"2025-09-23T20:32"}
 ---
 
 
@@ -7,34 +7,35 @@
 
 #### Jankovics Marcell írja:
 
-> Azték istenség, más néven Tollaskígyó. Ő az amerikai demiurgoszok, műveltségteremtők és -hordozók klasszikus alakja: később beolvadt a régi mitológiákba, s a Tollaskígyó isteni lényébe költözött.  
+> Azték istenség, más néven Tollaskígyó. ![assets/Quetzalcoatl_image3.png|fix_dark fix_light right|300](/img/user/Q/assets/Quetzalcoatl_image3.png)Ő az amerikai demiurgoszok, műveltségteremtők és -hordozók klasszikus alakja: később beolvadt a régi mitológiákba, s a Tollaskígyó isteni lényébe költözött.  
 > Quetzalcoatl neve Guatemalában Cucumatz, Yucatánban Kukulcán. Mayaföldön Itzamma volt a neve. Mind mexikói neve (Quetzalcoatl), mind pedig a guatemalai (Cucumatz) és a yucatáni (Kukulcán) \[hozzákapcsolt jelentésében\] "tollas kígyót" jelent. Pontos értelme: kígyó, hosszú tollas farkkal, mint a szent **quetzal** madáré.  
 >
 > Quetzalcoatl legtöbb változatában mint szakállas istenség, kultúrhérosz jelenik meg, a tengerrel való kapcsolatát jelzi a szárnyaskígyó, azaz sárkány alakja. Valójában a vízből jött elő. Nagy bölcs, vallásalapító, a szelíd erkölcsök és hasznos tudományok tanítója, az aranykor fejedelme; küldetése végén az Égbe száll, de más hagyomány szerint visszatér a tengerre kígyóbőrből(!) készült csónakon. Hasonló szakállas isteneket találunk Nicaraguában, Peruban és Bolíviában; Bochica, Huiracocha, Pachacamac, Tonapa: mind Keletről vagy ismeretlen helyről jönnek, és éppoly titokzatosan eltűnnek, visszajövetelüket ígérve, mint Quetzalcoatl.  
-- Körüljártuk mindezt [[F/Fajok\|fajok]] címnél is.  
+- Körüljártuk mindezt [[F/Fajok\|fajok]] címnél is.
 
-#### Várkonyi Nándor írja:
+#### Várkonyi Nándor Sziriat oszlopai...  
 
+...című könyvében írja:  
 > Kevés legenda van, mely annyira sugározná a népnek és tanítójának egymáshoz való szeretetét, mint Quetzalcoatlé. Életének és megjelenésének minden kis részletére emlékeznek. Fehér arca, szakálla idegen volt a csupasz vörös bőrűek között, hosszú, fehér köntöst viselt[^1], melyet vörös keresztecskék díszítettek; fejét királyi koronához hasonló, magas mitra födte (néha azonban napkoronggal, glóriával ábrázolják, ami ázsiai motívum); durva cipője inkább szegény zarándokhoz illett volna, s hosszú vándorbottal járt. Hangja hol lágyan szólt, mint a kolibri csicsergése, hol fenyegetőn zúgott, mint a tenger; szeme úgy fénylett, hogy nem lehetett sokáig beletekinteni. Tisztaszívű volt, mint a gyermek, asszonyt nem ismert, s szakálla ellenére ártatlan lányhoz hasonlított.  
-- Várkonyi Nándor [[N/Napvallás\|Napvallás]] címnél szereplő anyagában Quetzalcoatlt, mint szárnyas napkorongot viselő Napistent látszik bemutatni, miután a Quetzalt napmadárnak adja meg.  
+- Várkonyi [[N/Napvallás\|Napvallás]] címnél szereplő anyagában Quetzalcoatlt, mint szárnyas napkorongot viselő Napistent látszik bemutatni, miután a Quetzalt napmadárnak adja meg.
 
 Benyák Atilla HM 2016. júliusi számának 73. oldalán is ír róla:  
 > Akkor tehát a Tollaskígyó, vagyis az azték világban Quetzalcoatl-ként (vagyis: Kecalkoatl) ismert istenség nem szó szerint jelenti a "repülő" vagy "szálló" kígyó fogalmát, sokkal inkább maga a kecal szó fenségest" fényest" vagy ragyogót" jelenthetett a régmúltban. Úgy gondolom, a fentiek tükrében, hogy a Kecsua (Kicse) indiánok neve spanyolul: Quechua ugye, ismerős forma? (Quechua-Quetzalcoatl) is valami hasonló jelentéssel bírt, illetve a Quetzal madár is ugyanez a fogalom, ...  
 - Felveti, azon kívül, hogy meggyőződése, minden nép a Magar őscsalád leszármazottja, hogy Kece, Kecel szavaink adják a név előtagját ("Kis kece lánya, fehérbe vagyon" magyar népdalt is említ).
+- CzF adatsora:  
+> [!details]- <span style="font-weight:normal"></span>
+> > KECZE (kecz-e) fn. tt. keczét. 1) Csúcsos, zsákforma háló, melyet a víz fenekén húznak. Törzsöke a csúcsos hosszukást jelentő kecz, mely rokon a kěcsěg (tejes fazék), és kěcsěge (hegyes orru hal) szók kecs törzsökével. 2) Tisza mellékén kecze jelenti azon ihar- vagy bükfa lábacskát is, mely a hegedűn a húrt fentartja. Ez értelemben rokon a fa kecske és keczke szókkal. V. ö. KECZKE. 3) Ficzkándozó mozgás a keczebecze szóban.  
+> >
+> > KECZEL  
+> > fn. tt. keczel-t, tb. ~ěk, harm. szr. ~e. Székely tájszó, jelent kutyakölyköt, eb- v. kutya czenket. Gyöke az ugrándozást jelentő kecz, kecze.  
+> >
+> > KĚCZĚL  
+> > (kěcz-ěl) elavult ige, melyből kěczěle származott. Valamit beburogat, különösen fejét vagy derekát beköti, általköti. Igeneve kěczělő, keczele. Törzsöke a csomós gömbölyüt jelentő kět köt v. kěcz köcz. És így kěczěl köczöl am. kětěl kötöl; mert mondják, kětény és fejkětő e helyett: kötény, fejkötő.
 
-![assets/Quetzalcoatl_image2.png](/img/user/Q/assets/Quetzalcoatl_image2.png)  
-
-CzF ezt tudja:  
-> KECZE (kecz-e) fn. tt. keczét. 1) Csúcsos, zsákforma háló, melyet a víz fenekén húznak. Törzsöke a csúcsos hosszukást jelentő kecz, mely rokon a kěcsěg (tejes fazék), és kěcsěge (hegyes orru hal) szók kecs törzsökével. 2) Tisza mellékén kecze jelenti azon ihar- vagy bükfa lábacskát is, mely a hegedűn a húrt fentartja. Ez értelemben rokon a fa kecske és keczke szókkal. V. ö. KECZKE. 3) Ficzkándozó mozgás a keczebecze szóban.  
->
-> KECZEL  
-> fn. tt. keczel-t, tb. ~ěk, harm. szr. ~e. Székely tájszó, jelent kutyakölyköt, eb- v. kutya czenket. Gyöke az ugrándozást jelentő kecz, kecze.  
->
-> KĚCZĚL  
-> (kěcz-ěl) elavult ige, melyből kěczěle származott. Valamit beburogat, különösen fejét vagy derekát beköti, általköti. Igeneve kěczělő, keczele. Törzsöke a csomós gömbölyüt jelentő kět köt v. kěcz köcz. És így kěczěl köczöl am. kětěl kötöl; mert mondják, kětény és fejkětő e helyett: kötény, fejkötő.
-
+Várkonyi folytatja:  
 > A híres Quetzalcoatl isten fogalma Európából került át Amerikába. A Quetzal-Coatl jelentésében a Kvezal madár, és a Coatl – Kígyó értelme van benne. Európában is ismert volt a Napisten kígyózó mozgása, a földtengely imbolygó mozgása miatt. Ezért a Tollas-Kígyó fogalma Európából ered, bonyolult csillagászati mozgások megnevezése. Itt már be kell hatolni őseink magas csillagászati tudományába, amelyek leírják a Föld mozgásait, nem csak a precesszió ismeretét, hanem más ismereteket is. A Napot olykor tollal, és kígyóval ábrázolták, Egyiptomban és Nyugat-Ázsiában. Quetzalcoatl fogalma széles körben el volt terjedve, a mayáknál Kukulkán a neve, aki sok mesében szerepel, és mindig győztes istenség.  
-![assets/Quetzalcoatl_image3.png|invert_dark](/img/user/Q/assets/Quetzalcoatl_image3.png)  
+
+
 
 Péterfai János másutt a szóvégi Tl-t főnévképzőnek véli (én Földre-leképezőnek hívom, ahogy Ma, Om, D, T, angol Th képzőket is). A megmaradt Coa ránézésre kő szavunk, de nekünk kígyó kell. Magyar Adorján írja kígyó szavunkról, hogy kij majd kijó alakú volt. A kígyóval nemcsak a folyókat, de kört is (univerzum, élet körforgását) ábrázoltak. Ezen szavak származéka lehet a kajla és esetleg a szlávból is ismert [[K/KOL\|KOL]] (angol [[W/Wheel\|wheel]]) = kerék. Coa tehát akár kaj olvasatú is lehet. Az egész nevet egybeolvasva Quetzalcoatl KecelKajTl. Érdekes megfigyelni koponyatorzított fejét: lásd erről [[K/Kutya\|kutya]] (kecel: kutyakölyök az ő neve is, ne feledjük) és [[K/Kutyafejű\|Cynocephalus]].  
 (A névvel kapcsolatos ítéletet ezen gondolatmenet kapcsán is lásd legalul.)  
@@ -43,11 +44,21 @@ Elképzelhető, hogy mégsem (hisz hozzákapcsolt jelentés) tollaskígyót jele
 
 #### Jankovics Marcell A Nap könyve...
 
-...című könyvében írja, igaz, Huitzilopochtli (lásd [[Q/Quetzalcoatl és Huitzilopochtli\|Quetzalcoatl és Huitzilopochtli]]) személye kapcsán (több helyen szerepelt):  
+...című könyvében írja, igaz, [[Q/Quetzalcoatl és Huitzilopochtli\|Huitzilopochtli]] személye kapcsán:  
 > Az indián napistenek a kukorica védőszellemeiben inkarnalódtak. A fehér, sárga, piros és fekete színben pompázó kukoricacsövek az égtájak szerint jelképezték a kelő (kikelő), delelő (beérő), lenyugvó (learatott) és eltávozott (elvetett) napmagot. Vicilopocstli évente két ízben megült nagy ünnepén az ő képére és hasonlatosságára kukoricalisztből mézzel kalácsszobrot gyúrtak, amit az ünnepet megkoronázó lakomán a résztvevők darabokra tördeltek és elfogyasztottak. Pontosabban nem őt, hanem földanyától született fiát, földi megtestesülését, a kukoricaistent ették meg a hívek eucharistiaként.  
 
-Az elveszett Paradicsomban Várkonyi Nándor sorra veszi a különböző népek [[V/Világhegy\|Világhegy]]-hagyományait és kimondja, hogy a sumér [[C/Cikkurat\|cikkurat]]ok (vélhetően ahogy a babiloni [[B/Bábel tornya\|Bábel tornya]] is), a világ minden táján a [[P/Piramis\|piramis]]ok és az amerikai földrész [[T/Teocalli\|teocalli]]-jai is ezen Világhegy mintájára épültek:  
-> Az aztékok a spanyol hódítás idején még eredeti, ép Paradicsomhegy-hagyományt ápoltak. A katolizált indián Clavigero jegyezte fel: Tlapallannak, a boldog országnak legmagasabb hegye, a közepén emelkedik, csúcsa a felhőkbe ér, rajta székel Halok, a Paradicsom ura, a vizek szelleme; onnan küldi az esőt és a folyóvizeket a föld megtermékenyítésére. Quetzalcoatl, "az első ember" (az isteni ősatya, a paradicsomi Ádám), miután Hesikában felvirágoztatta az aranykort, Tescatlipoca istennő intelme folytán oda ment vissza, s ott elnyerte a halhatatlanság italát. Azonban vissza fog térni, s újból megteremti az aranykort. E szenthegy jelképéül és másául építette Xelhua óriás a cholulai teokallit "a középső tartomány középpontján", a négy világtáj irányában. (Clavigero.) – A hagyomány ebben a formában későinek vagy másodlagosnak látszik: az Esőisten természetmítosza keveredett benne a Quetzalcoatl-mondával. A Világhegy ugyanis szabály szerint az emberiség születéshelyével azonos, a tolték-aztékoknak megvolt az erről szóló, szabatos regéjük: a Keleti tengerben, az Atlanti óceánban fekvő szigeten, a fehér, fekete és vörösbőrű emberek békés boldogságban éltek, de kivándoroltak, mielőtt a vízözön elnyelte volna hazájukat.  
+#### Várkonyi Nándor Az elveszett Paradicsom...  
+
+...című könyvében sorra veszi a különböző népek [[V/Világhegy\|Világhegy]]-hagyományait és kimondja hogy a sumér zikkuratok (vélhetően ahogy a babiloni Bábel torony is), a világ minden táján a piramisok és az amerikai földrész teocalli-jai is ezen Világhegy mintájára épültek:  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/T/Teocalli/#52z23y" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> Az aztékok a spanyol hódítás idején még eredeti, ép Paradicsomhegy-hagyományt ápoltak. A katolizált indián Clavigero jegyezte fel: Tlapallannak, a boldog országnak legmagasabb hegye, a közepén emelkedik, csúcsa a felhőkbe ér, rajta székel Halok, a Paradicsom ura, a vizek szelleme; onnan küldi az esőt és a folyóvizeket a föld megtermékenyítésére. [[Q/Quetzalcoatl\|Quetzalcoatl]], "az első ember" (az isteni ősatya, a paradicsomi Ádám \[másoknál Vénusz!\]), miután Hesikában felvirágoztatta az aranykort, [[T/Teszkatlipoka\|Tescatlipoca]] istennő intelme folytán oda ment vissza, s ott elnyerte a halhatatlanság italát. Azonban vissza fog térni, s újból megteremti az aranykort. E szenthegy jelképéül és másául építette Xelhua óriás a cholulai teokallit "a középső tartomány középpontján", a négy világtáj irányában. (Clavigero.) – A hagyomány ebben a formában későinek vagy másodlagosnak látszik: az Esőisten természetmítosza keveredett benne a Quetzalcoatl-mondával. A [[V/Világhegy\|Világhegy]] ugyanis szabály szerint az emberiség születéshelyével azonos, a tolték-aztékoknak megvolt az erről szóló, szabatos regéjük: a Keleti tengerben, az Atlanti óceánban fekvő szigeten, a fehér, fekete és vörösbőrű emberek békés boldogságban éltek, de kivándoroltak, mielőtt a vízözön elnyelte volna hazájukat. 
+
+</div></div>
+
 
 Amiről nem esett szó, hogy Quetzalcoatl maga a Nap és éppoly ábrázolásokat kapott, mint [[J/Jézus\|Jézus]]. [[F/Fate\|Fate]] szónál szerepelt, hogy a keresztre (áldozati/halálos fára) feszített Jézus oldalába szúrt lándzsa motívuma szintén egyetemes; az ott szereplő Acharia S féle info volt, hogy *fatal tree* (halálos fa) szókapcsolattal aposztrofálják a keresztet, nem is tudván, hogy már maga a [[F/Fate\|fatal]] szó viszi a [[F/Fa\|fa]] jelentését.  
 
@@ -60,7 +71,7 @@ Lásd még továbbá [[Q/Quetzalcoatl és Huitzilopochtli\|Quetzalcoatl és Huit
 > —  
 > Quetzalcoatl először Teotihuacanban jelent meg istenségképként, és kimutatták, hogy legkorábbi csillagászati kapcsolata a Plejádokkal volt. De hozzátenném, hogy naptársadalmi attribútumokkal is rendelkezett, és úgy is gondolhatunk rá, mint a Napra és a Plejádokra együttesen. A mezoamerikai táj fölött délről észak felé tartó repülését úgy is elképzelhetnénk, hogy visszatér a zenit középpontjában lévő trónjára, és lassan észak felé haladva különböző régiókat fürdet meg jelenlétével. Visszatérése éves volt (ahogy a Plejádok heliakus felemelkedése), de a zenit trónján csak egy adott régióban, egy adott korszakban történt meg. Talán ez magyarázza a maja kultúra általános északi irányú mozgását, a messze délen, Izapában és Copanban kezdődő kezdetektől a Peten és Palenque szélességi körén át, északabbra, Yucatánig.  
 
-![assets/Quetzalcoatl_image5.png|invert_dark](/img/user/Q/assets/Quetzalcoatl_image5.png)  
+![assets/Quetzalcoatl_image5.png|fix_dark fix_light|840](/img/user/Q/assets/Quetzalcoatl_image5.png)  
 Lásd csatolt képet; a [[K/Kígyó\|kígyó]] ugye, ahogy [[S/Serpent\|serpent]] címnél is láttuk, nemcsak Tejút-, hanem Nappálya-jelkép). A magyarázó szöveg már a könyv 24. oldalán kezdődik.  
 
 Másutt furcsamód az áll, hogy Quetzalcoatlt a [[V/Vénusz\|Vénusz]] bolygóval azonosították (nyilván azért, mert a Naphoz közel álló bolygó fontos kultikus és naptári jelentőséggel bírt, nemcsak Babilonban, hanem Mezo-Amerikában is[^2]).  
@@ -106,7 +117,7 @@ A lényeg a Tejút és a két kutya és hogy az istenek a precessziós féléves
 
 [Ezen](https://en.wiktionary.org/wiki/coatl) oldalon kiderül, hogy a mexikói spanyol `cuate` = barát eredetét is képező szónak nemcsak kígyó, hanem iker jelentése is volt. A Tejútkígyó ott, az Ikreknél vágja ketté az éggömböt. [[K/Kettő\|Kettő]] szavunk is ilyen.  
 
-Kecelhez hasonló szavakat (például kiszil) borzas, torz alakú báb, böjt illetve télkihordás kapcsán lásd Ipolyi Arnold Magyar mythologia című könyvének 363. oldalán. Márpedig a tél és nyári napfordulós ünnepek a legfontosabbak és Quetzalcoatl is az egyik félév ura. A tésztabábok pedig szintén előjönnek Mezo- és Dél-Amerikában.  
+A `kecel` szóhoz hasonló szavakat (például `kiszil`) borzas, torz alakú báb, böjt illetve télkihordás kapcsán lásd Ipolyi Arnold Magyar mythologia című könyvének 363. oldalán. Márpedig a tél és nyári napfordulós ünnepek a legfontosabbak és Quetzalcoatl is az egyik félév ura. A tésztabábok pedig szintén előjönnek Mezo- és Dél-Amerikában.  
 
 ## Lábjegyzetek
 
