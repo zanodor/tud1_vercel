@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejútanya-testtájékok/","title":"Tejútanya-testtájékok","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-01T02:57","updated":"2025-06-07T18:57"}
+{"dg-publish":true,"permalink":"/T/Tejútanya-testtájékok/","title":"Tejútanya-testtájékok","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-01T02:57","updated":"2025-09-23T23:54"}
 ---
 
 
@@ -92,7 +92,7 @@ A zavart mélyíti, hogy másutt száj és vagina/végbélnyílás egynek kezelt
 > A mágikus szimbolizmus szempontjából a Nílus az anyaistennőt képviselte, akinek éves áradása szó szerint megteremtette Egyiptom földjét azáltal, hogy a partjainál felhalmozódott gazdag iszapot lerakta. A "fizikai földrajz" legősibb formája a női alakon alapult; a lenti nő volt a föld; a magasban lévő nő (azaz az égi [[N/Nut\|Nut]]) az ég; és akár a lenti nő, a Nagy Medve csillagkép – a Hét Csillag Istennője – felé mutató lábakkal, akár maga a Nagy Medve, Belső-Afrika volt a világ méhe, Egyiptom volt a vulva vagy az északi kijárat, maga a Nílus pedig a "lenti" nő vulvája.  
 - Az "Égi Nő" Nu neve a [[T/T#T nőnemet jelölő végződés\|nőnemet jelölő 't' végződés]]sel már egyiptomi, de nem nehéz meglátni a magyar [[N/Nő\|nő]] (vö. kínai `nü` = nő) szavunkat.  
 
-![Tejútanya-testtájékok_image1.png|invert_dark](/img/user/T/assets/Tej%C3%BAtanya-testt%C3%A1j%C3%A9kok_image1.png)  
+![Tejútanya-testtájékok_image1.png|fix_dark fix_light|840](/img/user/T/assets/Tej%C3%BAtanya-testt%C3%A1j%C3%A9kok_image1.png)  
 Az [alábbi](https://youtu.be/BKlduHsQOTc) előadásban (lásd 21:50-nél) Dr. Gyárfás Ágnes a mellékelt ábra várát a címének megfelelően Tündérszép Ilona várának mondja és nyilván [[G/Gula\|Gula]] vagy [[B/Bau\|Bau]] istennővel azonosítaná, de így nem mondja ki.  
 Az Academia.edu oldalon Srini Kalyanaraman is Gulával azonosítja:  
 > Depicted above the socle on one of the seals is a seated dog, the symbol of the goddess Gula, and flanking the other are symbols of Ea.  
