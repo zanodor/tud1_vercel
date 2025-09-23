@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Rusz/","title":"Rusz","created":"2024-10-26T21:20","updated":"2024-10-26T21:20"}
+{"dg-publish":true,"permalink":"/R/Rusz/","title":"Rusz","tags":["Englishtexttranslated"],"created":"2024-10-26T21:20","updated":"2025-09-23T20:47"}
 ---
 
 
@@ -52,8 +52,27 @@ Kimondottan ez a kelta szó és a hozzá kapcsolható Nyilas bizonyítja jól a 
 —  
 
 [[F/Fomenko, Anatolij\|Anatolij Fomenko]] és csapata mindent elkövet, hogy egyrészt a Biblia eseményeit későbbre datálja és az orosz hadat (az egy helyen egyenesen proto-rusznak beállított) [[A/Atilla hun király\|Atilla]] hun hadjaival azonosítsa (másutt a germánokat is szlávokból eredeztesse). Az általánosságban is elmondható, hogy – különösen a 20. századtól kezdve – az indo-európai kutatók különböző nyelvi-levezetési malőrök útján jutnak ilyen (egy ilyen gyöngyszem: Aryan = Orion) következtetésekre vagy támasztják alá azokat.  
-![assets/Rusz_image1.png|invert_dark](/img/user/R/assets/Rusz_image1.png)  
-Lásd a csatolt képen Assur – Russa megfeleltetést. Hihetetlen.  
+Az egyik kötet Assur – Russa megfeleltetése ezen a szinten hihetetlen:  
+> [!details]- &nbsp;
+> > **Commentary:** The fact is that whenever the Bible reports a Syrian (occasionally also _Aramean_) or _Assyrian_ invasion, we immediately see either _Germans (Prussians)_, or _Goths_, or _Huns_ invade the Third Roman Empire from the north. As for the word _Ashur_ or _Ashr_, (“_Assyrian_”) in \[544\], Volume 2, the following translation was offered: leader-mentor. _Ashur_ and _Ashri_ means “to walk straight”, “to lead others”, similar to the German form “Führer” – leader. In the Biblical Books of Kings, _Assyrians_ are described as a powerful militant nation. In _Chron5_ we have formulated the hypothesis that the country described in the Bible under the name of _Assyria_ is the medieval Russia, providing argumentation in its support. Thus, the biblical names:  
+> > _Assiria_ or _Assur_, same as  
+> > _Asur_ or _Syria_, same as  
+> > _Ashur_ – being simply the reverse spelling of the three famous medieval names of the country:  
+> > _Rossiya_ (modern name of Russia) = _Assiria_ or _Assur_,  
+> > _Russ_ (the archaic name of Russia) = _Asur_ or _Syria_,  
+> > _Russia_ = _Ashur_.
+> > 
+> > Let us point towards the fact that the English name for the country (_Russia_) is virtually identical to “Ashur” reversed phonetically. See also _Chron6_.  
+> > —  
+> > **Kommentár:** Tény, hogy valahányszor a Biblia szíriai (alkalmanként _arámi_) vagy _asszír_ invázióról számol be, azonnal azt látjuk, hogy vagy _germánok (poroszok)_, vagy _gótok_, vagy _hunok_ támadják meg északról a Harmadik Római Birodalmat. Ami az _Ashur_ vagy _Ashr_ szót illeti, ("_asszír_") a [544]-ben, 2. kötet, a következő fordítást javasolták: vezető-mentor. Az _Ashur_ és _Ashri_ jelentése "egyenesen járni", "másokat vezetni", hasonlóan a német "Führer" – vezető – formához. A Biblia Királyok könyveiben az _asszírokat_ hatalmas, harcias népként írják le. A _Chron5_-ben azt a hipotézist fogalmaztuk meg, hogy a Bibliában _Asszíria_ néven leírt ország a középkori Oroszország, érvelést nyújtva annak alátámasztására. Így a bibliai nevek:  
+> > _Assiria_ vagy _Assur_, ugyanaz, mint  
+> > _Asur_ vagy _Szíria_, ugyanaz, mint  
+> > _Ashur_ – egyszerűen az ország három híres középkori nevének fordított írásmódja:  
+> > _Rossiya_ (Oroszország modern neve) = _Assiria_ vagy _Assur_,  
+> > _Russ_ (Oroszország archaikus neve) = _Asur_ vagy _Szíria_,  
+> > _Russia_ = _Ashur_.
+> > 
+> > Mutassunk rá arra a tényre, hogy az ország angol neve (_Russia_) fonetikailag visszafelé olvasva gyakorlatilag azonos az "Ashur"-ral. Lásd még a _Chron6_-ot is.
 
 ## Lábjegyzetek
 
