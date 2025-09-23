@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a naprendszer/","title":"Szíriusz és a naprendszer","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-13T05:21","updated":"2025-06-07T19:04"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a naprendszer/","title":"Szíriusz és a naprendszer","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-13T05:21","updated":"2025-09-23T23:32"}
 ---
 
 
@@ -30,7 +30,7 @@ Volt idő, hogy Szíriuszt nagyon is a **Naprendszer tagjának minősítették**
 > Az égbolt legfényesebb csillagát a késő antikvitás a "Nagy Pánnal" is azonosította, és mint **nyolcadik, "tiszteletbeli" bolygót és a bolygók vezetőjét fölvette a planétaistenek sorába**. Egykorú források szerint a "Nagy Pán halott!" kijelentés Tiberius császár idejében nem a pogányság végére vonatkozott, mint azt sokan hiszik, hanem arra, hogy a [[P/Precesszió\|precesszió]] miatt a Szíriusz többé nem akkor kelt fel, amikor kellett volna, vagyis július végén, hogy a Nílus áradását jelezze.  
 - Paksi Zoltánnál Pán a [[B/Bak csillagkép\|Bak csillagkép]] megszemélyesítője. Ez ugyan ellentmond Jankovics Marcell fentebbi sorainak, de egyet is ért vele, hiszen a Szíriusz másik együttállása a Bak havában esedékes.
 
-![assets/Szirnap_image1.png|invert_dark](/img/user/S/assets/Szirnap_image1.png)  
+![assets/Szirnap_image1.png|fix_dark fix_light|840](/img/user/S/assets/Szirnap_image1.png)  
 
 A mellékelt kép és az ahhoz fűzött magyarázat szerint a Nílus áradásáról van szó, de ahogy [[S/Swastika\|swastika]] címnél is (bővebben) szerepelt, nem zárható ki, hogy a női alak inkább a Vízöntő korszakra utal, azaz arra, hogy a Nagy Éves ciklusban ott indulunk meg felfelé.  
 
@@ -40,9 +40,9 @@ A mellékelt kép és az ahhoz fűzött magyarázat szerint a Nílus áradásár
 > A meglévő adatok nagyon eltérőek, mivel a csillagászok nem használnak közös referenciapontot a térben. Kézenfekvő lenne azt hinni, hogy mindannyian **a Napunkat használják referenciapontként**, de a legtöbbjük nem ezt teszi. Ehelyett **többségük a Szíriusz kettős csillagrendszert használja, mert tudják, hogy mi is körülötte keringünk**.  
 - Neveket vagy valami bizonyítékot szolgáltathatott volna.
 
-Száraz György nyilván a Walter Cruttenden által vezetett Binary Research Institute adatait taglaló internetes portálok és kutatók adatai alapján írta cikkjét.  
+Száraz György nyilván a Walter Cruttenden által vezetett Binary Research Institute adatait taglaló internetes portálok és kutatók adatai alapján írta cikkét.  
 A [Binary Research Institute](http://binaryresearchinstitute.com/bri/introduction/) még 2016-ban és utána is adott ki új információs csomagokat, tehát érdemes követni ténykedésüket.  
-![assets/Szirnap_image2.png](/img/user/S/assets/Szirnap_image2.png)  
+![assets/Szirnap_image2.png|fix_dark fix_light|840](/img/user/S/assets/Szirnap_image2.png)  
 
 Egy, a munkásságukat követő William Brown nevű blogger is írja:  
 > Is there a candidate for binary revolution among the visible stars? Logically we could begin with the closest star to our own, which is Alpha Centauri. At a distance of 4.37 light years, it is the third brightest star and, as is common, it is itself a binary system.  
@@ -68,7 +68,7 @@ A Binary Research Institue döntő fontosságú tételének látszik, hogy a [[P
 - Képet magyarázó szöveggel lásd [[S/Szíriusz heliakus kelése\|Szíriusz heliakális kelése]].  
 
 Az alábbi ábrák és magyarázatok William Brown-tól származnak:  
-![assets/Szirnap_image3.png|invert_dark](/img/user/S/assets/Szirnap_image3.png)  
+![assets/Szirnap_image3.png|fix_dark fix_light|840](/img/user/S/assets/Szirnap_image3.png)  
 > The Helical rising of Sirius in the summer, showing how the Sun and Sirius become aligned along the horizon of the Earth as it rotates into the light of the Sun. Similarly, the Sun and Sirius are aligned in the winter as well, however, because Sirius is on the outside it appears directly above the Sun as it rises in the winter. This is the source of the Star of Bethlehem. It is the star Sirius.  
 > The Solstice would occur at A, but because of the retrograde wobble of the axis (b), winter now occurs at C.  
 > —  
@@ -139,9 +139,9 @@ A jobb alsó ábrához tartozó részben jól írja [[N/Nibiru\|Nibiru]]-ról, h
 
 [[M/Maja naptár\|Maja naptár]] és [[I/Idő#Kétféle idő\|kétféle idő]] cím/alcímnél kezdtünk el beszélni Valum Votan – Az élő prófécia című angolból magyarra Tibold Makk Szabina által fordított, az Ősi Gyökér 2008/2. sz. megjelent cikkéről. Aztán [[A/Apocalypse\|apocalypse]] és [[P/Precesszió\|precesszió]] címnél szóltunk a 26000 éves, mayák által is ismert ciklusról.  
 Aztán amikor TMSZ az internetes New Age-s [[A/Alcyone\|Alcyone]] csillaggal kapcsolatos, de nála némileg eltérő információt említi...  
-- E \[26000 éves\] ciklus ugyanakkor egybeesik azzal a 26000 éves kapcsolattal, melyben a Napunk megkerüli Alcyont, a 7 Nővér, a [[P/Pleiadok\|Plejádok]] konstellációjának központi Csillagát.  
+- E \[26000 éves\] ciklus ugyanakkor egybeesik azzal a 26000 éves kapcsolattal, melyben a Napunk megkerüli Alcyont, a 7 Nővér, a [[P/Pleiadok\|Plejádok]] konstellációjának központi Csillagát.
 
-...akkor ötlött fel, hogy 1) a precessziós ciklus a Naprendszer mozgására utal és 26000 évről beszélnek megint, 2) az [[A/Alcyone\|Alcyone]] névben megvan a Kyon = Kutya, mely Szíriuszra utalhat (a Pleiadok generális iránya épp arrafelé is lenne). Nem lehetséges, hogy kettészedtek itt valamilyen információt?  
+...akkor ötlött fel, hogy 1) a precessziós ciklus a Naprendszer mozgására utal és 26000 évről beszélnek megint, 2) az [[A/Alcyone\|Alcyone]] névben megvan a Kyon = Kutya, mely Szíriuszra utalhat (a Plejádok generális iránya épp arrafelé is lenne). Nem lehetséges, hogy kettészedtek itt valamilyen információt?  
 
 [[P/Precesszió\|Precesszió]] címnél szerepelt, hogy – a nyilván William Brown által is figyelt – Uwe Holmann nem kevesebbet állít, minthogy a sziderikus és tropikus/szoláris év közt nincs differencia! Szíriusz azért nem változtatja helyét, mert egyenesen az okozza a precessziót!  
 A sziderikus és tropikus napév hivatalosan terjesztett diszkrepanciájáról[^3] szóló elméletet cáfolja az idősebbik Homann fia, Uwe, ki megosztotta mindezt a Binary Research Institute-tal:  
@@ -189,9 +189,9 @@ A [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]], [[M/Miscoatl\|Miscoatl]], [[
 </div></div>
 
 
+![assets/Szirnap_image4.png|fix_dark fix_light|840](/img/user/S/assets/Szirnap_image4.png)  
 A mellékelt, [[M/MISZ\|MISZ]] címnél is szereplő képet jól kiegészíti (az ott is szerepeltetett) Jankovics Marcelltől származó passzus:  
-![assets/Szirnap_image4.png|invert_dark](/img/user/S/assets/Szirnap_image4.png)  
-[[J/Jézus\|Jézus]] ebben az összefüggésben a Nap, aki az égi [[K/Kapu\|kapu]]kon áthalad. A metafora arra az ősi és általános felfogásra vezethető vissza, mely a Napot, a nappali világosságot az [[E/Éj\|éj]], az éjszakai és hajnali [[E/Ég\|ég]] gyermekének tekinti, és aminek a szellemében a Hold, a Vénusz vagy a [[S/Szíriusz\|Szíriusz]], hiába a Nap után legfényesebb égitestek, mint az éjszaka lámpásai az éjanyához tartoznak az ég hatalmas csillagfolyamával, a [[T/Tejút\|Tejút]]tal együtt. ([[V/Vénusz\|Vénusz]] a legtöbb nép képzeletvilágában "szembenáll", "harcol" a Nappal, hiszen napkeltével veszti el a fényét és napnyugtával nyeri vissza. Mondhatnók, felváltva élnek, halnak. Jézus és Mária vonatkozásában ez a kontraszt visszafogottan, árnyaltan fejeződik ki a Születés, Pietá és Mária elszenderülése ábrázolásokon.) A [[N/Nyári napforduló\|nyári napforduló]] körüli Szűzanya-szimbolika ezért kap a szokásosnál nagyobb hangsúlyt. Ekkor halad át ugyanis a Nap a Tejúton, akit a görögök a nagy Fehér Istennővel, a Nap és a Hold szülőjével azonosítottak (ld. "fehér rózsa, Mária"), hasonlóképpen az egyiptomiak. **Ekkor áll együtt a Szíriusszal**, s történik mindez a "nőies" Rák jegy uralma alatt, mely a Hold jelképes "otthona". - Egyiptomban a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelése]] a Nílus áradásának kezdetét jelezte. A várva várt eseményt méltó módon ünnepelték meg. Ez volt Egyiptomban az [[U/Újév\|újév]] napja (júl. 19.), amelyen **Szíriusz és a Nap a nászát ülte**. (Egyesülésük a Földről nézve a valóságban is végbemegy; a hajnali égen fölragyogó csillag fénye beleolvad a kelő Nap vakító sugaraiba.) Az eseményt elbeszélő mítoszt az ünnepen el is játszották. A denderai Hathor templomban Szíriuszt Hathor-Ízisz, a Napot Hórusz személyesítette meg. (A Nap és csillag vagy csillagzat együttállása nemcsak egyesülést, hanem azonosulást is jelenthetett, így lesz a Kos csillagkép a rajta áthaladó Nap fényében aranygyapjas kos, az Orion a feje fölé érkező Napnak köszönhetően naphérosz, a Tejutat keresztező Nap a világfán termő aranyalma.)  
+> [[J/Jézus\|Jézus]] ebben az összefüggésben a Nap, aki az égi [[K/Kapu\|kapu]]kon áthalad. A metafora arra az ősi és általános felfogásra vezethető vissza, mely a Napot, a nappali világosságot az [[E/Éj\|éj]], az éjszakai és hajnali [[E/Ég\|ég]] gyermekének tekinti, és aminek a szellemében a Hold, a Vénusz vagy a [[S/Szíriusz\|Szíriusz]], hiába a Nap után legfényesebb égitestek, mint az éjszaka lámpásai az éjanyához tartoznak az ég hatalmas csillagfolyamával, a [[T/Tejút\|Tejút]]tal együtt. ([[V/Vénusz\|Vénusz]] a legtöbb nép képzeletvilágában "szembenáll", "harcol" a Nappal, hiszen napkeltével veszti el a fényét és napnyugtával nyeri vissza. Mondhatnók, felváltva élnek, halnak. Jézus és Mária vonatkozásában ez a kontraszt visszafogottan, árnyaltan fejeződik ki a Születés, Pietá és Mária elszenderülése ábrázolásokon.) A [[N/Nyári napforduló\|nyári napforduló]] körüli Szűzanya-szimbolika ezért kap a szokásosnál nagyobb hangsúlyt. Ekkor halad át ugyanis a Nap a Tejúton, akit a görögök a nagy Fehér Istennővel, a Nap és a Hold szülőjével azonosítottak (ld. "fehér rózsa, Mária"), hasonlóképpen az egyiptomiak. **Ekkor áll együtt a Szíriusszal**, s történik mindez a "nőies" Rák jegy uralma alatt, mely a Hold jelképes "otthona". – Egyiptomban a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelése]] a Nílus áradásának kezdetét jelezte. A várva várt eseményt méltó módon ünnepelték meg. Ez volt Egyiptomban az [[U/Újév\|újév]] napja (júl. 19.), amelyen **Szíriusz és a Nap a nászát ülte**. (Egyesülésük a Földről nézve a valóságban is végbemegy; a hajnali égen fölragyogó csillag fénye beleolvad a kelő Nap vakító sugaraiba.) Az eseményt elbeszélő mítoszt az ünnepen el is játszották. A denderai Hathor templomban Szíriuszt Hathor-Ízisz, a Napot Hórusz személyesítette meg. (A Nap és csillag vagy csillagzat együttállása nemcsak egyesülést, hanem azonosulást is jelenthetett, így lesz a Kos csillagkép a rajta áthaladó Nap fényében aranygyapjas kos, az Orion a feje fölé érkező Napnak köszönhetően naphérosz, a Tejutat keresztező Nap a világfán termő aranyalma.)  
 
 Jankovics Marcell passzusa [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél is szerepelt:  
 > Lászlót az ének csillagként köszönti ("Csillagok közt fényességes csillag"), hogy felmagasztalásának közvetlen **oka egy Nappal együtt delelő csillag, mely csillag az időpont (1192. június 27.) ismeretében** csak az Orionnak vagy valamely szomszédos csillagképnek a fényes csillaga, **leginkább a Szíriusz lehetett**, amit a pápai küldöttek éppen láthattak is volna[^6], ha akkor napfogyatkozás sötétíti el az eget. Ez azonban nem szükségszerű. Elég az, s ez egészen bizonyos, hogy jártasak voltak a csillagászatban, tudták tehát, hogy a mondott időben mely csillagok között tartózkodik a Nap, továbbá azt is, hogy a szentté avatásnak naptári-csillagászati feltételei vannak – így kívánta a korszellem (meg a nálunk még eleven pogány gondolkodásmód). Csakis tudatos program lehetett, hogy "Mithrast" csináltak belőle. (Leghíresebb legendájának elemzéséből ugyanerre a következtetésre jutunk. [[S/Szent László és a leányszöktető kun\|Szent László és a leányszöktető kun]] legendájának falképciklusban megörökített képsora a világosság és a sötétség küzdelmét jeleníti meg.)  
@@ -208,7 +208,7 @@ Jankovics Marcell passzusa [[S/Szíriusz és a medvék\|Szíriusz és a medvék]
 > Secret teachings within Mithraism might have been about the end of the previous Golden Age, long ago, and the impending dawn of a new one. The grades of Mithraic initiation led the seeker through the seven planetary spheres to the abode of Pater (Saturn), associated with Capricorn. Beyond the seventh level, a secret teaching reveals an eighth "house" where the Hypercosmic Sun was located[^7], accessed through a celestial doorway that appeared when the Sun was in Capricorn.  
 > —  
 > A mithraizmuson belüli titkos tanítások a régmúlt aranykor végéről és egy új korszak közelgő hajnaláról szólhattak. A mithrai beavatás fokozatai a hét bolygószférán keresztül vezették a keresőt a Bakhoz kapcsolódó Pater (Szaturnusz) lakhelyére. A hetedik szinten túl egy titkos tanítás felfed egy nyolcadik "házat", ahol a hiperkozmikus Nap tartózkodott[^7], és ahová egy égi kapun keresztül lehetett bejutni, amely akkor jelent meg, amikor a Nap a Bakban állt.  
-> ![assets/Szirnap_image5.png|invert_light](/img/user/S/assets/Szirnap_image5.png)
+> ![assets/Szirnap_image5.png|fix_light|840](/img/user/S/assets/Szirnap_image5.png)
 
 Ezzel a hyperkozmikus Nappal kapcsolatban írja:  
 > David Ulansey, "Mithras and the Hypercosmic Sun," in Hinnells, Studies in Mithraism; also posted on Ulansey's Web site: www.well.com/user/davidu/
@@ -243,10 +243,9 @@ John M. Jenkins könyvének 115.oldalán írja ([[T/Tánc\|tánc]] és [[K/Kunda
 
 </div></div>
 
-- Erre én is gondoltam, hogy mi van, ha csak marker, azaz jelzőcsillag Szíriusz és semmi egyéb, viszont mind a Szíriusz, mind a Pleiadok az ellentétes irányban vannak, sőt, [[A/Alcyone\|Alcyone]]-nál szereplő adatok ezeket össze is kötik.  
+- Erre én is gondoltam, hogy mi van, ha csak marker, azaz jelzőcsillag Szíriusz és semmi egyéb, viszont mind a Szíriusz, mind a Pleiadok az ellentétes irányban vannak, sőt, [[A/Alcyone\|Alcyone]]-nál szereplő adatok ezeket össze is kötik.
 
-A legutolsó mellékelt kép a [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] címnél felvetődött témáról szól: mi volna, ha másképp fognánk fel Szíriusz áldásos tevékenységét.  
-![assets/Szirnap_image6.png|invert_dark](/img/user/S/assets/Szirnap_image6.png)  
+
 Lásd még [[S/Szíriusz mozgása\|Szíriusz mozgása]].  
 
 ## Lábjegyzetek
