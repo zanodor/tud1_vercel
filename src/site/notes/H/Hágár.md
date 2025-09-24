@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hágár/","title":"Hágár","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-14T00:03","updated":"2025-09-21T16:23"}
+{"dg-publish":true,"permalink":"/H/Hágár/","title":"Hágár","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-14T00:03","updated":"2025-09-24T13:44"}
 ---
 
 
