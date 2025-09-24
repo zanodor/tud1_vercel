@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Edgar Dacqué/","title":"Edgar Dacqué","created":"2023-11-18T09:14","updated":"2025-09-21T01:23"}
+{"dg-publish":true,"permalink":"/E/Edgar Dacqué/","title":"Edgar Dacqué","created":"2023-11-18T09:14","updated":"2025-09-24T13:55"}
 ---
 
 
