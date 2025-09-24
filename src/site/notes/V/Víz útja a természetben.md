@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Víz útja a természetben/","title":"Víz útja a természetben","created":"2023-12-23T05:49","updated":"2024-10-26T00:49"}
+{"dg-publish":true,"permalink":"/V/Víz útja a természetben/","title":"Víz útja a természetben","created":"2023-12-23T05:49","updated":"2025-09-24T13:19"}
 ---
 
 
@@ -10,7 +10,8 @@ Az alábbi kép Zobor László Az [[O/Ősminták\|ősminták]] ereje című tanu
 #### Jankovics Marcell is írja:  
 
 > Tisztában voltak a víz körforgásával. (A Biblia a tanú rá: "Hogyha magához szívja a vízcseppeket, ködéből mint eső cseperegnek alá, amelyet a fellegek özönnel öntenek..." Jób 36, 27-28.)  
-![assets/Vízútjaatermészetben_image1.png|invert_dark](/img/user/V/assets/V%C3%ADz%C3%BAtjaaterm%C3%A9szetben_image1.png)  
+
+![assets/Vízútjaatermészetben_image1.png|fix_dark fix_light|840](/img/user/V/assets/V%C3%ADz%C3%BAtjaaterm%C3%A9szetben_image1.png)  
 
 #### Zobor László írja:  
 
