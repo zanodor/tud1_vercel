@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Árnyék/","title":"Árnyék","created":"2024-04-25T17:21","updated":"2025-09-20T02:03"}
+{"dg-publish":true,"permalink":"/A/Árnyék/","title":"Árnyék","created":"2024-04-25T17:21","updated":"2025-09-24T13:50"}
 ---
 
 
