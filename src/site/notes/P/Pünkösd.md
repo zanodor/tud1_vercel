@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pünkösd/","title":"Pünkösd","tags":["Englishtexttranslated"],"created":"2024-12-18T11:44","updated":"2025-09-22T23:06"}
+{"dg-publish":true,"permalink":"/P/Pünkösd/","title":"Pünkösd","tags":["Englishtexttranslated"],"created":"2024-12-18T11:44","updated":"2025-09-24T13:45"}
 ---
 
 
