@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Betyár/","title":"Betyár","created":"2023-10-05T03:21","updated":"2025-09-20T23:12"}
+{"dg-publish":true,"permalink":"/B/Betyár/","title":"Betyár","created":"2023-10-05T03:21","updated":"2025-09-24T13:55"}
 ---
 
 
