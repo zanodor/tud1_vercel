@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arab/","title":"Arab","tags":["containstransclusions"],"created":"2024-04-20T11:12","updated":"2025-09-20T02:02"}
+{"dg-publish":true,"permalink":"/A/Arab/","title":"Arab","tags":["containstransclusions"],"created":"2024-04-20T11:12","updated":"2025-09-24T13:54"}
 ---
 
 
@@ -59,6 +59,6 @@ Lásd [[A/Arám\|arám]].
 A két szó feltűnően hasonló. Erre akkor jöttem rá, amikor Quorán arról láttam kérdést, hogy a törökök miért hívják Arap néven kutyáikat (azaz az arabokra utalva).  
 [Ezen](https://qr.ae/pN3zru) Quora válaszban az áll, hogy fekete (vagy más szerint sötét) kutyáknak adták az Arap nevet és félreértésen alapszik (mert hogy az arabok nem feketék). De mi van ha nem? Hiszen Afrika Afar = disznó fogalmán keresztül még a kutyához is eljutunk.  ![assets/Arab_image3.png|right|130](/img/user/A/assets/Arab_image3.png)
 A kérdés itt még az, hogy az arabok neve lehetett-e volna [[H/Harap\|harap]]? A harap és kutya fogalmi viszonya egyértelmű.  
-Nem elképzelhetetlen, hogy az arab név a magyar harappal úgy függ össze, hogy a [[K/Kutyafejű\|kutyafejű]] arabokról van szó. Az interneten már több ízben láttam kutyafejűnek nevezett arabokat és afgánokat. Adom itt csatolva az egyiptomi Omar Yahia képét és egy másik arabét.  
+Nem elképzelhetetlen, hogy az arab név a magyar `harap` szóval úgy függ össze, hogy a [[K/Kutyafejű\|kutyafejű]] arabokról van szó. Az interneten már több ízben láttam kutyafejűnek nevezett arabokat és afgánokat. Adom itt csatolva az egyiptomi Omar Yahia képét és egy másik arabét.  
 
 Lásd még [[A/Arab nyelv\|arab nyelv]].  
