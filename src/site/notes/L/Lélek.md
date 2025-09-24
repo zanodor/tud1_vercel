@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2025-09-21T21:21"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2025-09-24T13:39"}
 ---
 
 
