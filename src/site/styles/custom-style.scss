@@ -97,7 +97,7 @@
 }
 
 /* Content size revamp - Desktop only */
-@media screen and (min-width: 1920px) {
+@media (min-width: 1365px) {
   body {
     --file-line-width: 780px;
     --font-text-size: 20px;
