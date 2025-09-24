@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2025-08-19T00:57"}
+{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2025-09-24T13:42"}
 ---
 
 
@@ -160,7 +160,7 @@ Az [alábbi](https://en.wikipedia.org/wiki/Cherokee_spiritual_beliefs) oldalon e
 #### Práczki István Szittya Biblia...  
 
 ...című könyvében írja:  
-> Az ógörög nyelv szerint Németország egyik ősi neve volt Askánia, ami = Ős-kunia, az ős-kunok hazáját jelentette. (A kunok a hunok egyik törzse voltak. A mai Németország főereje Poroszország volt, melynek latin neve Borussia – Prussia = /boros-ország/, bordó-ország volt, akik a hunok egyenes leszármazottjai. Köztük éltek azok a kunok, az "as-kánok", az ős-kunok, kikről az askenázi név származik.) A fentiek helyességét bizonyítja a zsidók annyira kedvelt Kón-Khón neve is, ami eredetileg a hun-magyaros kun-kán (K-N) szónak az átvétele. A kón-kán vezért és főnököt jelentett őseinknél és ez a név ezért lett népszerű a zsidóknál is. A zsidók "europaizált keveréknyelve" a jiddis sem más, mint az elhéberesitett német nyelv.  
+> Az ógörög nyelv szerint Németország egyik ősi neve volt Askánia, ami = Ős-kunia, az ős-kunok hazáját jelentette. (A kunok a hunok egyik törzse voltak. A mai Németország főereje Poroszország volt, melynek latin neve Borussia – Prussia = /boros-ország/, bordó-ország volt, akik a hunok egyenes leszármazottjai. Köztük éltek azok a kunok, az "as-kánok", az ős-kunok, kikről az askenázi név származik.) A fentiek helyességét bizonyítja a zsidók annyira kedvelt Kón-Khón neve is, ami eredetileg a hun-magyaros kun-kán (K-N) szónak az átvétele. A kón-kán vezért és főnököt jelentett őseinknél és ez a név ezért lett népszerű a zsidóknál is. A zsidók "európaizált keveréknyelve" a jiddis sem más, mint az elhéberesített német nyelv.  
 
 **Kanni** egy dél-indiai (tamil) tenyésztett kutyafajta neve; a tamil `kanni` = tiszta szóból eredeztetik nevét.  
 ![assets/KAN_image2.png](/img/user/K/assets/KAN_image2.png)  
