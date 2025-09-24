@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fo-kutya/","title":"Fo-kutya","tags":["Englishtexttranslated"],"created":"2023-11-05T04:33","updated":"2025-09-21T11:59"}
+{"dg-publish":true,"permalink":"/F/Fo-kutya/","title":"Fo-kutya","tags":["Englishtexttranslated"],"created":"2023-11-05T04:33","updated":"2025-09-24T13:52"}
 ---
 
 
