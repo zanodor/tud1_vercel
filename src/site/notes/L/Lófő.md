@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lófő/","title":"Lófő","created":"2024-11-05T14:06","updated":"2025-09-21T21:26"}
+{"dg-publish":true,"permalink":"/L/Lófő/","title":"Lófő","created":"2024-11-05T14:06","updated":"2025-09-24T13:52"}
 ---
 
 
