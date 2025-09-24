@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mitre/","title":"Mitre","tags":["Englishtexttranslated"],"created":"2023-10-14T06:10","updated":"2025-09-22T01:45"}
+{"dg-publish":true,"permalink":"/M/Mitre/","title":"Mitre","tags":["Englishtexttranslated"],"created":"2023-10-14T06:10","updated":"2025-09-24T13:57"}
 ---
 
 
