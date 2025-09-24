@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2025-09-20T02:01"}
+{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2025-09-24T13:42"}
 ---
 
 
