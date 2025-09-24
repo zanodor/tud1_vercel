@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Növényi ornamentika/","title":"Növényi ornamentika","created":"2024-05-14T12:19","updated":"2025-09-22T01:58"}
+{"dg-publish":true,"permalink":"/N/Növényi ornamentika/","title":"Növényi ornamentika","created":"2024-05-14T12:19","updated":"2025-09-24T13:55"}
 ---
 
 
