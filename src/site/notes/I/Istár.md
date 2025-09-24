@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Istár/","title":"Istár","tags":["Englishtexttranslated"],"created":"2024-12-18T11:25","updated":"2025-09-21T17:47"}
+{"dg-publish":true,"permalink":"/I/Istár/","title":"Istár","tags":["Englishtexttranslated"],"created":"2024-12-18T11:25","updated":"2025-09-24T13:46"}
 ---
 
 
