@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Egylényegűség/","title":"Egylényegűség","tags":["containscallouts"],"created":"2024-11-08T00:24","updated":"2025-08-31T02:06"}
+{"dg-publish":true,"permalink":"/E/Egylényegűség/","title":"Egylényegűség","tags":["containscallouts"],"created":"2024-11-08T00:24","updated":"2025-09-24T13:55"}
 ---
 
 
