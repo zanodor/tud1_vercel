@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gnomon/","title":"Gnomon","tags":["Englishtexttranslated"],"created":"2025-05-01T10:29","updated":"2025-09-21T15:26"}
+{"dg-publish":true,"permalink":"/G/Gnomon/","title":"Gnomon","tags":["Englishtexttranslated"],"created":"2025-05-01T10:29","updated":"2025-09-24T13:48"}
 ---
 
 
