@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","created":"2023-10-11T04:38","updated":"2025-09-23T17:03"}
+{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","created":"2023-10-11T04:38","updated":"2025-09-24T17:01"}
 ---
 
 
@@ -50,7 +50,7 @@ Híre ment annak, hogy Álmost valamilyen szakrális áldozatnak vetették volna
 Az Almus név mellett előjön egy másik hasonló név. Tóth Gyula írja:  
 > Ibn Fadhlan egyik munkájában a volgai bolgárok uralkodóját Almis-t a saqlabok királyának nevezi! Ugyanezt teszi Yaqut "Az országok lexikona" című földrajzi szótárában, ahol így ír:  
 > "Miután Almis ibn Šilki Baltawar, a saqaliba király levele al-Muqtadir Billah, az igazhívők parancsnoka részére megérkezett, amelyben kérte őt, hogy küldjön hozzá valakit, aki őt a vallásjogban kioktatná, az iszlám vallási törvényeivel megismertetné..."  
-> Álljunk meg tehát egy pillanatra és gondoljuk végig! Almis, akit a volgai bolgárok királyának tart a hivatalos történelemkutatás, akinek neve soha senki által meg nem magyarázott módon kísérteties hasonlóságot mutat honfoglaló fejedelmünk apjának, Álmosnak nevével, e fenti idézetben saqaliba királyként jelenik meg! Persze ha figyelembe vesszük mindazt, amit a bolgárokról szóló fejezetben leírtam, különös tekintettel Fóthi Erzsébet kutatási eredményeire, mely szerint a korai bolgárok és a honfoglaló magyarok feltűnő antropológiai egyezéseket mutatnak (értsd: azonosak!), és tudjuk, hogy a \[[[Szláv\|szláv]] címnél szereplő\] saqlab kifejezés eredetileg a székely hunokra vonatkozott, akkor rögtön érthetővé válik minden!  
+> Álljunk meg tehát egy pillanatra és gondoljuk végig! Almis, akit a volgai bolgárok királyának tart a hivatalos történelemkutatás, akinek neve soha senki által meg nem magyarázott módon kísérteties hasonlóságot mutat honfoglaló fejedelmünk apjának, Álmosnak nevével, e fenti idézetben saqaliba királyként jelenik meg! Persze ha figyelembe vesszük mindazt, amit a bolgárokról szóló fejezetben leírtam, különös tekintettel Fóthi Erzsébet kutatási eredményeire, mely szerint a korai bolgárok és a honfoglaló magyarok feltűnő antropológiai egyezéseket mutatnak (értsd: azonosak!), és tudjuk, hogy \[a [[S/Szláv\|szláv]] címnél szereplő\] saqlab kifejezés eredetileg a székely hunokra vonatkozott, akkor rögtön érthetővé válik minden!  
 
 Borbola János Ősmagyarul című az Ősi Gyökér 2018/1-2. sz. megjelent cikkében egy alternatív olvasatát adja a névnek: Ál-Mos nála az "Élő Mása"...  
 
