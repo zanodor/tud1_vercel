@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aszklépiosz/","title":"Aszklépiosz","tags":["Englishtexttranslated"],"created":"2024-05-15T17:34","updated":"2025-09-20T01:59"}
+{"dg-publish":true,"permalink":"/A/Aszklépiosz/","title":"Aszklépiosz","tags":["Englishtexttranslated"],"created":"2024-05-15T17:34","updated":"2025-09-24T13:48"}
 ---
 
 
