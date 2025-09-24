@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Q/Quetzalcoatl/","title":"Quetzalcoatl","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-12-18T11:34","updated":"2025-09-23T20:32"}
+{"dg-publish":true,"permalink":"/Q/Quetzalcoatl/","title":"Quetzalcoatl","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-12-18T11:34","updated":"2025-09-24T13:48"}
 ---
 
 
@@ -44,7 +44,7 @@ Elképzelhető, hogy mégsem (hisz hozzákapcsolt jelentés) tollaskígyót jele
 
 #### Jankovics Marcell A Nap könyve...
 
-...című könyvében írja, igaz, [[Q/Quetzalcoatl és Huitzilopochtli\|Huitzilopochtli]] személye kapcsán:  
+...című könyvében írja, igaz, [[H/Huitzilopochtli\|Vicilopocstli]] személye kapcsán:  
 > Az indián napistenek a kukorica védőszellemeiben inkarnalódtak. A fehér, sárga, piros és fekete színben pompázó kukoricacsövek az égtájak szerint jelképezték a kelő (kikelő), delelő (beérő), lenyugvó (learatott) és eltávozott (elvetett) napmagot. Vicilopocstli évente két ízben megült nagy ünnepén az ő képére és hasonlatosságára kukoricalisztből mézzel kalácsszobrot gyúrtak, amit az ünnepet megkoronázó lakomán a résztvevők darabokra tördeltek és elfogyasztottak. Pontosabban nem őt, hanem földanyától született fiát, földi megtestesülését, a kukoricaistent ették meg a hívek eucharistiaként.  
 
 #### Várkonyi Nándor Az elveszett Paradicsom...  
