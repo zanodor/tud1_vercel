@@ -375,9 +375,10 @@ img[alt*="p+bcc"], .image-embed[src*="#p+bcc"] img {
 }
 
 /* Light theme: keep invert option alive as well with old invert param */
-.theme-light img[alt*="invert_light"] {
+.theme-light img[alt*="invert_light"],
+.theme-light .image-embed img[alt*="invert_light"] {
   filter: invert(90%) sepia(44%) contrast(107%);
-  mix-blend-mode: screen;
+  /* mix-blend-mode: screen;  <-- remove this: cannot be used in light mode! */
 }
 
 img:is([alt*=flip-x],
