@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/UTU/","title":"UTU","tags":["containstransclusions"],"created":"2024-11-23T05:02","updated":"2025-08-31T01:56"}
+{"dg-publish":true,"permalink":"/U/UTU/","title":"UTU","tags":["containstransclusions"],"created":"2024-11-23T05:02","updated":"2025-09-24T13:16"}
 ---
 
 
@@ -49,16 +49,17 @@ head -up->w5 : Sumér **Utu** napisten
 
 Ezen etimont Virág Kálmán sok szó alapját képező üt szavának lehet megfeleltetni. Az üt-tel hasonlatos ver szavunk pedig a [[B/BAR\|BAR]]/[[P/PAR\|PAR]]/[[P/PER\|PER]]/stb. etimonokkal vethető össze.  
 
-![assets/UTU_image1.jpeg](/img/user/U/assets/UTU_image1.jpeg)  
-[[T/TU\|TU]] és [[U/UT\|UT]] címnél volt arról szó, hogy a nevek összefüggnek, azon kívül, hogy mindketten Napnevek és egymás megfordításai. Olyannyira összefügghetnek, hogy nemcsak a két kezünk két tenyerét lehet a Napokhoz, sugaraihoz hasonlítani, de analógiát lehet felfedezni a Nap és a Nagy Kutya csillagkép Szíriusz A (B) csillaga(i) között.  
-![assets/UTU_image2.jpeg](/img/user/U/assets/UTU_image2.jpeg)  
-Ergo az a megállapítás, hogy az emberiség két tőről (TU) származik, indokolttá válik.  
-A kettő és öt számok matematikai összefüggései is fontosak. Egyrészt a kétszer öt kiadja az isteni tizet ([[T/TEN#Ten 2)\|ten]]), másrészt más kapcsolódásokat is észrevehetünk (lásd első ábra jobb és második ábra baloldalát): a kettes szám szorzótáblájának eredményei és az ötös szám osztatainak eredményei, ha a számjegyekek összegét tekintjük, harmonikusak. Ugyanez fordítva a másik ábrán. A két szám tehát egymás reciprokai, ahogy az egy, a nyolc és a kilenc önmaguknak.  
+[[T/TU\|TU]] és [[U/UT\|UT]] címnél volt arról szó, hogy a nevek összefüggnek, azon kívül, hogy mindketten Napnevek és egymás megfordításai.  
+
+![assets/UTU_image1.jpeg|420](/img/user/U/assets/UTU_image1.jpeg)![assets/UTU_image2.jpeg|420](/img/user/U/assets/UTU_image2.jpeg)  
+
+  
+A kettő és öt számok matematikai összefüggései is fontosak. Egyrészt a kétszer öt kiadja az isteni tizet ([[T/TEN#Ten 2)\|ten]]), másrészt más kapcsolódásokat is észrevehetünk (lásd első ábra jobb és második ábra bal oldalát): a kettes szám szorzótáblájának eredményei és az ötös szám osztatainak eredményei, ha a számjegyek összegét tekintjük, harmonikusak. Ugyanez fordítva a másik ábrán. A két szám tehát egymás reciprokjai, ahogy az egy, a nyolc és a kilenc önmaguknak.  
 Ezek és egy másik táblázat is szerepel [[K/Kilences számrendszer\|kilences számrendszer]] címnél.  
 
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (első kötetének) 345. oldalán említi a nevet. Az előző oldalon még általa Holddal kapcsolatban említett név a sumér-akkád `Idu`/`Itu` ("hónap"), mely [[I/Idő\|idő]] szavunkkal azonosnak látszik. (Merthogy nemcsak a Nap méri ki az időt.)  
 
-Ugyanakkor a [[K/Kereszt\|kereszt]] és [[T/Templom\|templom]] címnél is taglalt [[T/Téridő\|téridő]] viszonylatában csak a Nap és Föld relációja értelmezhető és a kapcsolat nyelvi szinten is megmutatkozik. [[U/UT\|Út]] szavunk a Nap látszólagos útja a Földről nézve, [[I/Idő\|idő]] szavunk üdő formája is a Nap Utu nevéhez köthető és nyilvánvalóan szoláris időre vonatkozik.  
+Ugyanakkor a [[K/Kereszt\|kereszt]] és [[T/Templom\|templom]] címnél is taglalt [[T/Téridő\|téridő]] viszonylatában csak a Nap és Föld relációja értelmezhető és a kapcsolat nyelvi szinten is megmutatkozik. [[U/UT\|Út]] szavunk a Nap látszólagos útja a Földről nézve, [[I/Idő\|idő]] szavunk `üdő` formája is a Nap Utu nevéhez köthető és nyilvánvalóan szoláris időre vonatkozik.  
 
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (első kötetének) 361. oldalán szereplő adata szerint az általunk igen könnyen [[N/Nap háza\|Nap háza]] értelműnek meghatározható akkád `Kas Utu` az ekliptika elnevezése (a másik amit itt említ ugyanilyen értelemmel a sémi Kharrán Samsi).  
 
