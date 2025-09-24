@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zodiákus első jegye/","title":"Zodiákus első jegye","tags":["Englishtexttranslated"],"created":"2023-11-08T04:59:00","updated":"2025-07-03T01:18"}
+{"dg-publish":true,"permalink":"/Z/Zodiákus első jegye/","title":"Zodiákus első jegye","tags":["Englishtexttranslated"],"created":"2023-11-08T04:59:00","updated":"2025-09-24T13:22"}
 ---
 
 
@@ -42,8 +42,8 @@ A precessziós [[N/Nagy Év\|Nagy Év]] köréhez képest egy jeltartománnyal v
 Baktay Ervin írja:  
 > Valamikor, abban az időben, amikor a középtengeri művelődéskör csillagtulósai a Nappálya sarkalatos pontjait megállapították, a Tavaszpont a Kos csillagképének 0-fokára esett. Ezért a Nappályát is tizenkét szakaszra osztották és minden ilyen 30-30 fokos szakaszt az Állatöv egy-egy csillagképéről neveztek el.  
 
-Ahogy a Bak csillagkép látszik kezdőnek az alábbi, Krizsai Mónika Tudományos társaságok (akadémiák) a XV. századi Magyarországon című az Ősi Gyökér 2008/2. sz. megjelent cikkében csatolt, Vitéz János esztergomi studiolójának, Várnai Dezső által készített rekonstruktív rajzán, ahol a Zodiákus ívét jelenítette meg.   
-![assets/Zodiakuselsojegye_image2.png|invert_dark](/img/user/Z/assets/Zodiakuselsojegye_image2.png)  
+Ahogy a Bak csillagkép látszik kezdőnek az alábbi, Krizsai Mónika Tudományos társaságok (akadémiák) a XV. századi Magyarországon című az Ősi Gyökér 2008/2. sz. megjelent cikkében csatolt, Vitéz János esztergomi studiolójának, Várnai Dezső által készített rekonstruktív rajzán, ahol a Zodiákus ívét jelenítette meg.  
+![assets/Zodiakuselsojegye_image2.png|fix_dark fix_light|840](/img/user/Z/assets/Zodiakuselsojegye_image2.png)  
 Bal szélen a Bak, jobb szélen záróként a Nyilas szerepel. (Ezen alábbi (epitesz5.html) oldalon található írásban szerepelt a már idetett jobb minőségű kép.)  
 
 Más.  
