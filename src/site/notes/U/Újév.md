@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2025-07-30T03:31"}
+{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2025-09-24T12:51"}
 ---
 
 
@@ -20,8 +20,8 @@ Még Rómára visszatérve...,
 > A régi Rómában márciussal kezdődött az esztendő, csak Kr. e. 153-ban esett meg első ízben, hogy az állam legfőbb tisztviselői nem március elsején, hanem január elsején léptek hivatalba, ettől fogva nagyrészt januárral kezdték az évet. A nap azonban még igen-igen sok ideig bizonytalan volt, hiszen az első  
 > holdváltozástól függött, amely napon a pontifex maximus kikiáltotta (caleo) a hónap első napját (Calendae). Sőt még a kereszténység is több mint másfél ezer éven keresztül bizonytalankodott az Újév dolgában: hol december 25-én, hol január 6-án, hol meg általában az ádventtel kezdte az évet. Mindössze 1691-ben történt, hogy XII. Ince pápa végérvényesen január 1-jére helyezte az év kezdetét.  
 
-![assets/Újév_image1.png|invert_dark](/img/user/U/assets/%C3%9Aj%C3%A9v_image1.png)  
-![assets/Újév_image2.png|invert_dark](/img/user/U/assets/%C3%9Aj%C3%A9v_image2.png)  
+![assets/Újév_image1.png|fix_dark fix_light|840](/img/user/U/assets/%C3%9Aj%C3%A9v_image1.png)  
+![assets/Újév_image2.png|fix_dark fix_light|840](/img/user/U/assets/%C3%9Aj%C3%A9v_image2.png)  
 
 #### Gyárfás Ágnes az Ősi Gyökér 2012/1. sz. megjelent Szíriusz Boldogasszonyként való ábrázolása...
 
@@ -57,7 +57,7 @@ Itt lenne jó tudni azt is, hogy az északi sarkon hol van ilyenkor Szíriusz.
 - Ami érdekes a témával kapcsolatban, és amiért [[K/Kalács\|kalács]] címhez is bekerültek a fentiek az az, hogy ott is szó volt **a végtelen jeléről és karácsony/újév**ről.  
 
 Ahogy mondják, a Föld napközeli ([[P/Perihelion\|perihelion]]) pontja január másodika táján van, akkor, amikor a Nap, a Szíriusz és Föld egy vonalban helyezkednek el (akkor halad át a Föld).  
-![assets/Újév_image3.png|invert_dark](/img/user/U/assets/%C3%9Aj%C3%A9v_image3.png)  
+![assets/Újév_image3.png|fix_light](/img/user/U/assets/%C3%9Aj%C3%A9v_image3.png)  
 [[J/Johan Oldenkamp\|Johan Oldenkamp]] egyik videójában szintén szól az újévről és meggyőződése, hogy ennek, idejének Szíriuszhoz van köze (az ő [[T/Time\|time]] címnél lévő ábráján január harmadikára van írva a perihelion pont).  
 Johan Oldenkamp írja:  
 > After being dead for three days, on December 25th, the Messiah \[the Sun\] rises up from the dead and starts to move higher in the sky every following day (up until the summer solstice). By drawing a straight line from the three stars (also known as the Three Kings) in the Belt of Orion through the star Sirius (which the Kings followed), the crossing of that line with the horizon marked exactly the location of the rising Helios (or (re-) birth of Christ) on December 25th. The biblical version is just a personalized version of this celestial dynamics.  
@@ -123,7 +123,7 @@ Hasonló problémával találkoztunk [[K/Kutya\|kutya]] bevezetőjében is, miko
 > Secret teachings within Mithraism might have been about the end of the previous Golden Age, long ago, and the impending dawn of a new one. The grades of Mithraic initiation led the seeker through the seven planetary spheres to the abode of Pater (Saturn), associated with Capricorn. Beyond the seventh level, a secret teaching reveals an eighth "house" where the Hypercosmic Sun was located, accessed through a celestial doorway that appeared when the Sun was in Capricorn.  
 > —  
 > A mithraizmuson belüli titkos tanítások a régmúlt aranykor végéről és egy új korszak közelgő hajnaláról szólhattak. A mithrai beavatás fokozatai a hét bolygószférán keresztül vezették a keresőt a Bakhoz kapcsolódó Pater (Szaturnusz) lakhelyére. A hetedik szinten túl egy titkos tanítás felfed egy nyolcadik "házat", ahol a hiperkozmikus Nap tartózkodott, és ahová egy égi kapun keresztül lehetett bejutni, amely akkor jelent meg, amikor a Nap a Bakban állt.  
-> ![assets/Újév_image4.png|invert_light](/img/user/U/assets/%C3%9Aj%C3%A9v_image4.png)
+> ![assets/Újév_image4.png|fix_light|840](/img/user/U/assets/%C3%9Aj%C3%A9v_image4.png)
 
 Ezen hiperkozmikus Nappal kapcsolatban írja:  
 > David Ulansey, "Mithras and the Hypercosmic Sun," in Hinnells, Studies in Mithraism; also posted on Ulansey's Web site: www.well.com/user/davidu/
@@ -190,7 +190,7 @@ Kátay-Barba Rafael Péter Kynologia című írásában szerepelt még ugye:
 > Az együttállás a Tejút szélessége miatt ma is érvényben van: karácsonykor a Nap ma még mindig csak a Tejút közepén jár.  
 > Mivel a Tejút két ponton keresztezi az Állatövet és a látóhatárt, a lélekjárásra még egyszer kínálkozik kedvező alkalom, mégpedig karácsonnyal átellenben, a [[N/Nyári napforduló\|nyári napforduló]]t köszöntő Szent Iván-napkor. Megjegyzendő, hogy amiképp a precesszió okán a decemberi ünnepek, de főleg karácsony lettek a november elsejei szokások továbbéltetői, azonmód veszi át Szent Iván-nap [[P/Pünkösd\|Pünkösd]] közvetítésével a régi május elsejék örökét. (Május 1. úgy állt szemben november elsejével a kelta naptárban, mint Szent Iván karácsonnyal a miénkben.) A május 1-jei (pünkösdi) hidasjátékban például a híd a Tejutat jelképezte. A játék értelmében a hídra (Tejútra) lépés csak úgy lehetséges, ha a hidasmester (a Hold) megnyitja az "aranykaput." Ő azonban csak akkor engedi a hídra lépni a kérelmezőket, ha azok az eltört hídlábat (az ég és Föld között megszakadt kapcsolatot) sárarannyal (a Nap fémével: fényével) helyreállítják, azaz létrejön a kívánatos Föld-Hold-Nap-Tejút együttállás.  
 - Ide kapcsolódik Dobos Csanád interneten megosztott Miért december 25 karácsony napja c. cikkének felvetése, hogy karácsony nem a szoláris évhez, hanem a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelésé]]hez kapcsolandó – ezen okfejtése szerint egyiptomi – eredete: 11515 körül (+/-100 év) a planetárium program szerint a Szíriusz eléri az legszélső naptári dátumát, és mindezt DECEMBER 25-ÉN.  
-![assets/Újév_image6.png|invert_dark](/img/user/U/assets/%C3%9Aj%C3%A9v_image6.png)  
+![assets/Újév_image6.png|fix_dark fix_light|840](/img/user/U/assets/%C3%9Aj%C3%A9v_image6.png)  
 Meglepő módon ezt követően immár többet nem tapasztalható a Nappal együttes hajnali "színre lépése" több, mint öt ezer évig!  
 Ezzel a levezetésével "csak" annyi a baj, hogy [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelése]] címnél felfedtük, hogy a Szíriusznak nem lenne szabad vándorolnia, ergo a planetárium szoftverek is olyan NASA-féle adatokat használnak, mely a téves [[P/Precesszió\|precesszió]]-jelenségre építenek (szándékosan, vagy sem, most mindegy: lásd erről még [[T/Tavaszpont\|tavaszpont]] és [[Z/Zodiac\|zodiac]]).  
 Az kétségtelen viszont, hogy január 1-4 környékén a Föld perihelion pontjához jut.  
