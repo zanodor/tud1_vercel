@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Broch/","title":"Broch","created":"2023-12-03T10:33","updated":"2025-09-20T23:15"}
+{"dg-publish":true,"permalink":"/B/Broch/","title":"Broch","created":"2023-12-03T10:33","updated":"2025-09-24T13:59"}
 ---
 
 
