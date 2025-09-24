@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutya elődje/","title":"Kutya elődje","tags":["Englishtexttranslated"],"created":"2023-11-05T03:05","updated":"2025-09-21T21:10"}
+{"dg-publish":true,"permalink":"/K/Kutya elődje/","title":"Kutya elődje","tags":["Englishtexttranslated"],"created":"2023-11-05T03:05","updated":"2025-09-24T13:54"}
 ---
 
 
