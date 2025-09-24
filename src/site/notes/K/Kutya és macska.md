@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutya és macska/","title":"Kutya és macska","tags":["containstransclusions"],"created":"2023-11-17T09:39","updated":"2025-09-21T21:11"}
+{"dg-publish":true,"permalink":"/K/Kutya és macska/","title":"Kutya és macska","tags":["containstransclusions"],"created":"2023-11-17T09:39","updated":"2025-09-24T13:54"}
 ---
 
 
