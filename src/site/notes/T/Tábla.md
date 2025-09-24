@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tábla/","title":"Tábla","tags":["Englishtexttranslated"],"created":"2024-11-20T04:19","updated":"2025-06-03T01:53"}
+{"dg-publish":true,"permalink":"/T/Tábla/","title":"Tábla","tags":["Englishtexttranslated"],"created":"2024-11-20T04:19","updated":"2025-09-24T13:57"}
 ---
 
 
@@ -17,7 +17,7 @@ Götz László Keleten kél a Nap című könyvében a latin `tabula` = tábla m
 [[D/DUB\|DUB]] és [[D/DUBA\|DUBA]] címnél volt szó égetett, ékírásos táblákról. A Práczki István Szittya Biblia című könyvében említett arab `kitāb` = könyv valóban lehet kő-táb(la). A tábla pedig ugye égetett, ezért szerepel benne a TAB. Ezért nem is meglepő, hogy a latin `tābere` ige jelentése Valpy adata szerint elolvadni.  
 
 Lásd érdekességképpen PAESZ szumér eredetből kiinduló táblázatát.  
-![Tábla_image1.png|invert_dark](/img/user/T/assets/T%C3%A1bla_image1.png)  
+![Tábla_image1.png|fix_light](/img/user/T/assets/T%C3%A1bla_image1.png)  
 
 Inkább a magyar tábla szótól ered az angol `table` és `tablet`. De szinte minden nyelv kölcsönözte a szót: latin `tabula`, perzsa `tablah`, stb.  
 
