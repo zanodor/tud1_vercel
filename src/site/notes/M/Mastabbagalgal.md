@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2025-09-21T22:33"}
+{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2025-09-24T13:45"}
 ---
 
 
