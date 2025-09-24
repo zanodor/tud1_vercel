@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Őz/","title":"Őz","tags":["Englishtexttranslated"],"created":"2023-11-14T03:20","updated":"2025-09-22T20:44"}
+{"dg-publish":true,"permalink":"/O/Őz/","title":"Őz","tags":["Englishtexttranslated"],"created":"2023-11-14T03:20","updated":"2025-09-24T13:56"}
 ---
 
 
