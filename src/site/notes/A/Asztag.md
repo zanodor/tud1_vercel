@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asztag/","title":"Asztag","created":"2023-10-11T05:44","updated":"2025-09-20T02:07"}
+{"dg-publish":true,"permalink":"/A/Asztag/","title":"Asztag","created":"2023-10-11T05:44","updated":"2025-09-24T13:57"}
 ---
 
 
