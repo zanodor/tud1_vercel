@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Beard/","title":"Beard","created":"2024-04-21T15:48","updated":"2025-09-20T21:28"}
+{"dg-publish":true,"permalink":"/B/Beard/","title":"Beard","created":"2024-04-21T15:48","updated":"2025-09-24T13:54"}
 ---
 
 
