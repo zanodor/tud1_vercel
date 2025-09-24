@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Glozeli leletek/","title":"Glozeli leletek","created":"2023-10-16T08:17","updated":"2025-09-21T15:24"}
+{"dg-publish":true,"permalink":"/G/Glozeli leletek/","title":"Glozeli leletek","created":"2023-10-16T08:17","updated":"2025-09-24T13:57"}
 ---
 
 
