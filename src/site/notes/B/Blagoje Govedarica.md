@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Blagoje Govedarica/","title":"Blagoje Govedarica","created":"2023-10-23T05:42","updated":"2025-09-20T23:13"}
+{"dg-publish":true,"permalink":"/B/Blagoje Govedarica/","title":"Blagoje Govedarica","created":"2023-10-23T05:42","updated":"2025-09-24T13:57"}
 ---
 
 
