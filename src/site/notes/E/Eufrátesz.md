@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Eufrátesz/","title":"Eufrátesz","created":"2024-04-26T11:29","updated":"2025-09-21T01:25"}
+{"dg-publish":true,"permalink":"/E/Eufrátesz/","title":"Eufrátesz","created":"2024-04-26T11:29","updated":"2025-09-24T13:58"}
 ---
 
 
