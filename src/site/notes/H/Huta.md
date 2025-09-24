@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Huta/","title":"Huta","tags":["Englishtexttranslated"],"created":"2023-11-05T03:19","updated":"2025-09-21T16:56"}
+{"dg-publish":true,"permalink":"/H/Huta/","title":"Huta","tags":["Englishtexttranslated"],"created":"2023-11-05T03:19","updated":"2025-09-24T13:55"}
 ---
 
 
