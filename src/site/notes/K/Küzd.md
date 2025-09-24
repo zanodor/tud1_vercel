@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Küzd/","title":"Küzd","created":"2025-04-22T15:54","updated":"2025-09-21T21:13"}
+{"dg-publish":true,"permalink":"/K/Küzd/","title":"Küzd","created":"2025-04-22T15:54","updated":"2025-09-24T13:56"}
 ---
 
 
