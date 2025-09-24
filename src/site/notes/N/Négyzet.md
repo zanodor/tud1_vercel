@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Négyzet/","title":"Négyzet","created":"2023-10-26T05:19","updated":"2025-09-22T01:55"}
+{"dg-publish":true,"permalink":"/N/Négyzet/","title":"Négyzet","created":"2023-10-26T05:19","updated":"2025-09-24T13:55"}
 ---
 
 
