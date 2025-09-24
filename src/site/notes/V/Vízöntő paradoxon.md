@@ -1,24 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vízöntő paradoxon/","title":"Vízöntő paradoxon","created":"2024-12-18T07:42","updated":"2025-06-08T18:24"}
+{"dg-publish":true,"permalink":"/V/Vízöntő paradoxon/","title":"Vízöntő paradoxon","created":"2024-12-18T07:42","updated":"2025-09-24T13:21"}
 ---
 
 
 # Vízöntő paradoxon
 
 Az állatövről (állapotövről) beszélve Pap Gábor több előadásában szól arról, hogy a 12 jelből álló zodiákus valójában 10 jegyre korlátozódik azzal, hogy az [[O/Oroszlán-Vízöntő tengely\|Oroszlán-Vízöntő tengely]] "kiesik," azzal, hogy virtuális: egészen másképp viselkedik, mint a többi tengely. (Lentebb már azóta mást is mond: az Oroszlán miért is esne ki?)  
-![assets/Vizontoparadoxon_image1.png|invert_dark](/img/user/V/assets/Vizontoparadoxon_image1.png)  
+![assets/Vizontoparadoxon_image1.png|fix_dark fix_light|840](/img/user/V/assets/Vizontoparadoxon_image1.png)  
 Igen érdekes, hogy a [[S/Sumér zodiákus\|sumér zodiákus]]ban ezen jegyek nevei szinte azonosak. Az Oroszlán neve UR.GU.LA ([[U/Urgula\|Urgula]]), míg a Vízöntőé GU.LA ([[G/Gula#Gula 2)\|Gula]]). Gavin White-nak, a Babylonian Star Lore című könyv írójának ez az azonosság mintha fel sem tűnt volna. [[O/Oroszlán-Vízöntő tengely\|Oroszlán-Vízöntő tengely]] címnél szó lesz ezen nevekről, Szíriuszt ábrázoló kutyák kapcsán is.  
 Ezen tengely pedig nem más, mint a [[S/Szűz-Halak tengely\|Szűz-Halak tengely]] "túlsó (Nagy Év világos felét kezdő) fele." A virtualitás pedig talán csak(?) abban jelentkezik, hogy a Szűz-Halak által képviselt állapotok nem szűnnek meg...?  
 
 Pap Gábor maga is többször védi magát azzal, hogy senki sem érti a paradoxonát és hadd gúnyolják érte. Ugyanakkor valami mégiscsak történik ezen a tengelyen, tekintve, hogy ez a tengely valamiféle kapcsolatban lehet\[?\] a Szíriuszhoz való közeledéssel, akár úgy, hogy a Naprendszerünk itt felgyorsul és [[I/Időanomáliák\|időanomáliák]]at élünk meg. Ide kapcsolódhatnak a [[P/Pólusváltás\|pólusváltás]] címnél írottak is.  
-![assets/Vizontoparadoxon_image2.jpeg|invert_dark](/img/user/V/assets/Vizontoparadoxon_image2.jpeg)  
+![assets/Vizontoparadoxon_image2.jpeg|fix_light](/img/user/V/assets/Vizontoparadoxon_image2.jpeg)  
 Vagy ahogy a paradoxonról szintén tudó Bakos Attila A Duna Evangéliuma című könyvének 100. oldalán fogalmaz, átlépünk a ([[H/Halak korszak\|Halak korszak]]nak megfelelő) [[K/Kali Yuga\|Kali yugá]]ból az új korba ([[G/Gilgames\|Gilgames]] és Enkidu [[H/Humbaba\|Humbaba]] elleni harcáról írja).  
 Na most, ez igazából azért is érdekes, mert [[H/Humbaba\|Humbaba]] címnél neve kapcsán már volt szó a Vízöntőről: Indiában (abban az Indiában, ahol a [[M/Makara\|Makara]] nevet is átvették Bakra) Khumba és Kunbaja\[?\] neveken szerepelt a Vízöntő, mely – ahogy [[P/Precesszió\|precesszió]] címnél és másutt is írtuk – a Vízöntő két világhónappal ezelőtt a [[T/Téli napforduló\|téli napforduló]] csillagképe volt. Erről volt szó [[V/Vízöntő csillagkép\|Vízöntő csillagkép]] címnél is [[K/Krishna\|Krishna]] halála kapcsán.  
 
 A fentebb mellékelt kép Farkas Zoltán, Az Égigérő Fa című könyvecskéjéből való. A benne szereplő adatok szépen összevágnak azzal, amit korábban gondoltam a Szíriusz-Nap csillagok táncával kapcsolatban (melyről lásd még [[Z/Zodiac\|zodiac]]).  
 Hogy a rendellenességet "hivatalosan" mi okozza, annak "kultúrtörténeti és egyéb vonatkozásai vannak," írja, Farkas, és utal arra, hogy Pap Gábor Sors-könyvében szól róluk, de aligha hihetjük, hogy a Szíriusszal jönne benne elő.  
 
-![assets/Vizontoparadoxon_image3.png|invert_dark](/img/user/V/assets/Vizontoparadoxon_image3.png)  
+![assets/Vizontoparadoxon_image3.png|fix_light](/img/user/V/assets/Vizontoparadoxon_image3.png)  
 Pálfi Ágnes József Attila költészete és a nagy Nap-év című Ősi Gyökér 2006/2. sz. megjelent cikkében is szolgáltat Pap Gábortól származó adatot. A hozzá való szöveg tőle nem érdekes; Pap Gábortól érdekesebb lenne, ha meg lenne a könyve.  
 Amit itt a képen látunk, hasonló gondolat, mint amilyen nekem volt korábban. Csak nálam a tojás/ellipszis sokkal elnyújottabb.  
 
@@ -31,7 +31,7 @@ Egyébiránt időnyúlásra utaló információt rejtenek a Puranák yugákra, a
 Mint ahogy Pálfi Ágnes cikkéből [[K/Kereszt – fix kereszt\|kereszt – fix kereszt]] címnél írottak alapján kiderül, már Király Gyula Dosztojevszkij és az orosz próza (Akadémiai, Bp. 1983. 285-343.) című könyvében is végzett olyan elemzést, mely a Vízöntő paradoxonnal azonosítható időzavarral foglalkozik, mert (Pálfi) ezt írja:  
 > Király Gyula a Shakespeare-dráma hősének és Dosztojevszkij Raszkolnyikovjának tipológiai rokonságát vizsgálva, intellektuális, pszichológiai és egzisztenciális ambícióik egyidejű, ám széttartó, illetve egymással ellentétes irányba ható aktivitásformáit elemezve valójában az apokaliptikus Vízöntő-korszak \[valóban az [[A/Apocalypse\|apocalypse]] és ez az új korszak egy és ugyanarra utal\] jellegzetes paradoxonára tapint rá: az "időzavar" problematikájának poétikai modellelemzését kísérli meg.  
 
-![assets/Vizontoparadoxon_image4.jpeg|invert_dark](/img/user/V/assets/Vizontoparadoxon_image4.jpeg)  
+![assets/Vizontoparadoxon_image4.jpeg|fix_light](/img/user/V/assets/Vizontoparadoxon_image4.jpeg)  
 Gyárfás Ágnes Az arany nyílvessző – Apokalipszis a turáni kultúrában című az Ősi Gyökér 2009/1. sz. megjelent cikkében hasonló ábrát és szöveget szintén közreadott. Lásd a csatolt képet.  
 
 A Vízöntő paradoxon fő lényegét, Pap Gábor gondolatai alapján pár mondatban össze lehet foglalni, ahogy Dobos Csanád megteszi:  
@@ -39,11 +39,11 @@ A Vízöntő paradoxon fő lényegét, Pap Gábor gondolatai alapján pár monda
 > 
 > Továbbá a precessziós Vízöntő időszak helyén időszakadék tátong, mely által az IDŐ, mint fogalom elveszti az értelmét. (Ahogy Odüsszeusz a Kalüpszói időszakadék homályába zuhant, úgy az emberiségre is ez a sors vár(hat), hiszen már itt szerencsétlenkedünk az időszakadék szélén. De ahogy Odüsszeusznak, úgy talán nekünk is van még némi reményünk, hogy lesz majd valaki, aki önfeláldozóan a Távolban Harcol értünk – de ehhez méltónak kell lennünk erre.)  
 
-![assets/Vizontoparadoxon_image5.png|invert_dark](/img/user/V/assets/Vizontoparadoxon_image5.png)  
+![assets/Vizontoparadoxon_image5.png|fix_light](/img/user/V/assets/Vizontoparadoxon_image5.png)  
 A mellékelt képhez kapcsolódó Dobos Csanád (Odüsszeai Napút-elemzéséből való) magyarázata (illetve annak kivonata):  
 > A szomszédos Halak és Bak világkorszakokra ráhullámzó Vízöntő világkorszak lényegében "megduplázza" önmagát, mely a duplázódás a Vízöntő dekádjait is érinti. A "nyitott könyv" ábrán ezért tükröződik tengelyesen a vízöntői ráhullámzás a dekádjaival együtt. Az eredeti három dekádnyi idő helyett immár 6 dekádnyi időt fed le a szétáramló Vízöntő világkorszak, mely egyben megfeleltethető Telemakhosz 6 napi utazásának is.  
 
-![assets/Vizontoparadoxon_image6.png|invert_dark](/img/user/V/assets/Vizontoparadoxon_image6.png)  
+![assets/Vizontoparadoxon_image6.png|fix_dark fix_light|840](/img/user/V/assets/Vizontoparadoxon_image6.png)  
 > Ahogy a "nyitott könyvlapok" dekádjai egymásra hullámoznak, úgy az eposz indulásánál a napok eseményei is ismétlődnek. Ezért Telemakhosz számára kétnaponként duplázódva jelentkeznek az események.  
 > Azaz az időszakadékból kiáramló hullámok vízöntő dekádja az első és a hatodik dekád fölött (a nyitott könyv mindkét szélénél) azonos időt eredményez- a vízöntő világkorszak azonos vízöntői dekádjait! A vízöntő paradoxonnak megfelelően az eposz kezdetekor az események egymásba mosódnak, nincsenek tisztán elkülönült dekád időszakok, mint ahogy elkülönült napok sem. Ezért ismétli magát szinte minden esemény kétszeresen az eltelt napok alatt. És hasonló ismétlődés tapasztalható az első és a hatodik nap is. Ez a két nap is egy újabb párost alkot, annak ellenére, hogy a hagyományos lineáris időgondolkodásban nincsenek egymást mellett.  
 > 
@@ -74,7 +74,7 @@ Itt viszont sajnos Pap Gábor az emberek által robotmunkára/profittermelésre 
 
 Amikor Pap Gábor (a [[S/Szűz\|szűz]] címnél is taglalt) az angyal = Szűz összefüggésről beszél, akkor jut eszembe, hogy az [[A/Angel\|angel]] = [[A/Angle\|angle]], azaz a világ négy oszlopának egyikéről, korszakváltó sarokpontról van szó. (Az angyal, ahogy [[S/Sátán\|Sátán]] címnél [[L/Lucifer\|Lucifer]] részben is szó volt róla, csillag(kép)re utal.)
 
-![assets/Vizontoparadoxon_image7.png|invert_dark](/img/user/V/assets/Vizontoparadoxon_image7.png)  
+![assets/Vizontoparadoxon_image7.png|fix_light](/img/user/V/assets/Vizontoparadoxon_image7.png)  
 
 A fentebb említett Pálfi Ágnes József Attila költészete és a nagy Nap-év c. Ősi Gyökér 2006/2. sz. megjelent cikkében bemutatott Dürer (Dürer ismét csak előjött [[A/Apocalypse\|apocalypse]] címnél is) fametszeten \[tökéletes látja meg, hogy\] **a Vízöntő képviselője a testetlen angyal** – egyik lábazatával a víz (Halak), a másikkal a föld (Bak) közegében. (Nyilván Dobos Csanád erre a képre utal Dürertől.)  
 
@@ -86,8 +86,7 @@ Jankovics Marcell Mély a múltnak kútja c. könyvének 61. oldalán talált ad
 Hangsúlyos lehet a [[L/LÁB\|láb]]a Mithrának (lásd képet [[M/Mithra és a bika\|Mithra és a bika]]) is, de nem Vízöntő-kapcsolatban. Hangsúlyos volt még Ozirisz [[L/LÁB\|láb]]a a [[D/Dzsed\|dzsed]]-oszlop kép-elemzésnél is.  
 [[D/Daru\|Daru]] címnél szintén még volt szó egy lábon állásról.  
 
-![assets/Vizontoparadoxon_image8.png|invert_dark](/img/user/V/assets/Vizontoparadoxon_image8.png)  
-
+![assets/Vizontoparadoxon_image8.png|fix_light](/img/user/V/assets/Vizontoparadoxon_image8.png)  
 Alexander Hislop könyvéből származó képét idetéve is egyértelmű, hogy az élet körforgását szimbolizáló [[K/Kígyó\|kígyó]] lábbal való eltaposása is arra utal, hogy a két láb két világhónapon áll ill. az új világhónap kezdete hozza el a halált-megújhodást (Vízöntő?). Minden továbbit lásd [[K/Kígyó\|kígyó]], vagy inkább a még több infót tartalmazó [[S/Sárkány\|sárkány]].
 
 [[S/Sarok\|Sarok]] kapcsán is szóba került futólag a téma.  
@@ -99,17 +98,17 @@ A Pap Gábor féle asztrálmítoszi keretrendszer elméletét követő Born Gerg
 
 Előtte Madách Imre Az ember tragédiájából idézett (Madáchnál a tér és az anyag egyetlen tételnek számít és az eszme hozta létre):  
 > Gábriel arkangyal (így köszönti az Urat):  
-> *Ki a végetlen ürt kimérted,  
-> Anyagot alkotván beléje,  
-> Mely a nagyságot s messzeséget  
-> Egyetlen szódra hozta létre:  
-> Hozsána néked, Eszme!*  
-> Mihály arkangyal (emígy köszönti az Urat):  
-> *Ki az örökké változandót,  
-> S változatlant egyesíted,  
-> Végetlent s időt alkotva,  
-> Egyéneket és nemzedéket:  
-> Hozsána néked, Erő!*  
+> *Ki a végetlen ürt kimérted,*  
+> *Anyagot alkotván beléje,*  
+> *Mely a nagyságot s messzeséget*  
+> *Egyetlen szódra hozta létre:*  
+> *Hozsána néked, Eszme!**  
+> *Mihály arkangyal (emígy köszönti az Urat):*  
+> *Ki az örökké változandót,*  
+> *S változatlant egyesíted,*  
+> *Végetlent s időt alkotva,*  
+> *Egyéneket és nemzedéket:*  
+> *Hozsána néked, Erő!*
 
 Itt mondja Pap Gábor, hogy két kiterjedése van az időnek, az emberi minőség szempontjából: az is egyén időegysége a 365/366 napból áll kis napév, míg a nemzedéké a [[P/Precesszió\|precesszió]]snak nevezett [[N/Nagy Év\|Nagy Év]] (25920 kis év).  
 Az időt az emberhez viszonyítva teremti meg Madách Ura/Teremtő.  
