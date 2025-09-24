@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bárka/","title":"Bárka","created":"2023-11-09T07:32","updated":"2025-09-20T21:27"}
+{"dg-publish":true,"permalink":"/B/Bárka/","title":"Bárka","created":"2023-11-09T07:32","updated":"2025-09-24T13:54"}
 ---
 
 
