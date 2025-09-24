@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzó-torlódás/","title":"Mássalhangzó-torlódás","created":"2024-05-10T03:45","updated":"2025-09-21T22:03"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzó-torlódás/","title":"Mássalhangzó-torlódás","created":"2024-05-10T03:45","updated":"2025-09-24T13:55"}
 ---
 
 
