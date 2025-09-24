@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2025-09-21T21:13"}
+{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2025-09-24T13:50"}
 ---
 
 
