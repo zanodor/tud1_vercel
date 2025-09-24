@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2025-09-21T16:13"}
+{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2025-09-24T13:43"}
 ---
 
 
@@ -101,7 +101,7 @@ A kérdés itt az, hogy ez a fekete démon illetve kezdet istennője (ősanya(g)
 
 # Gula 2)
 
-A [[S/Sumér zodiákus\|sumér zodiákus]] Vízöntőnek megfelelő csillagjegye, helyesen Gu-La. Mielőtt rátérnénk a név etimológiájára, meg kell jegyezni, ahogy [[V/Vízöntő paradoxon\|Vízöntő paradoxon]] és [[U/Urgula\|Urgula]] címnél is megtettük, hogy a sumér zodiákusban az Oroszlán és Vízöntő jegyek nevei is szinte azonosak. Az Oroszlán neve UR.GU.LA (lásd [[U/Urgula\|Urgula]]), míg a Vízöntőé GU.LA.  
+A [[S/Sumér zodiákus\|sumér zodiákus]] Vízöntőnek megfelelő csillagjegye, helyesen Gu-La. Mielőtt rátérnénk a név etimológiájára, meg kell jegyezni, ahogy [[V/Vízöntő paradoxon\|Vízöntő paradoxon]] és [[U/Urgula\|Urgula]] címnél is megtettük, hogy a sumér zodiákusban az Oroszlán és Vízöntő jegyek nevei is szinte azonosak. Az Oroszlán neve UR\.GU\.LA (lásd [[U/Urgula\|Urgula]]), míg a Vízöntőé GU\.LA.  
 
 Fentebb volt szó Monoceros és más északi oldalról, ha csillagkép témában egyáltalán [[G/Gula#Gula 1)\|Gula]] tárgyalható. Ahogy ott is kimondtuk, itt éppen az éggömbön ellentétes déli-téli oldalról lesz szó (igaz, a szemközti Urgula nevében is van Gula).  
 
@@ -123,12 +123,12 @@ Gu-La helyes megfejtésében követelmény, hogy meg kell felelni a szemközti O
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvében a két Gula név azonosságára csak azt írja, hogy "szójáték."  
 Hogy a Vízöntő jegy neve akkor is az lett volna, ami lett, ha nem létezne Oroszlán jegy, nem tudni, de a [[G/Gúla\|gúla]] lefelé fordítva valóban kehely/vödör formát ad ki. Lényegében az egyik jegy mindig hímségi, fénytöbbletes, a másik nőiségi, hiányos. (A szemközti jegyek közül is mindig az egyik a szellemiségre, a másik a testiségre utal.)  
 
-Legutóbb [[H/HAT\|hat]] és [[H/Hét\|hét]] címnél írtuk, hogy ezek a magyar számok a precessziós [[N/Nagy Év\|Nagy Év]]ben a Napnak [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en való helyzetére utalhatnak. Az Oroszlán-Vízöntő tengely viszont épp a következő idősáv (melynek ugye 13000 évvel lesz jelentősége: lásd [[Z/Zep Tepi\|Zep Tepi]]). Igen is valószínű, hogy a Gula név utalás a [[G/Gula\|Gula]] címnél vizsgált Gyula/kutya értelemre.  
+Legutóbb [[H/HAT\|hat]] és [[H/Hét\|hét]] címnél írtuk, hogy ezek a magyar számok a precessziós [[N/Nagy Év\|Nagy Év]]ben a Napnak [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en való helyzetére utalhatnak. Az Oroszlán-Vízöntő tengely viszont épp a következő idősáv (melynek ugye 13000 évvel lesz jelentősége: lásd [[Z/Zep Tepi\|Zep Tepi]]). Igen is valószínű, hogy a Gula név utalás a Gyula/kutya értelemre.  
 
 Gula (eredete) azonos is lehet [[K/Kulacs\|kulacs]] szavunkkal.  
 Azokat a K-L/G-L/GY-L vázú szavakat, melyek különösen a Nagy Évben Napot megszülő Tejútanyára (Nutra) vonatkoznak, lásd [[C/Cataclysm\|cataclysm]].  
 
-A kutyával kapcsolatba hozott [[G/Gula\|Gula]] = szkíla (szuka) értelmezési vonalra visszatérve fontos lehet megjegyezni, hogy az első(?) [[K/Kelta#Kelta zodiákus\|kelta zodiákus]]ban (és ahogy ott láttuk, az ónémetben) is a Vizöntőnek Farkas felelt meg. Márpedig a farkas és a kutya rokonok. Talán viszont mégiscsak arra történik utalás, hogy a kutya/Kuta/[[K/Kut\|kut]] életkörben elindulunk a felső KUT irányába. A [[K/Kut\|kut]] címnél álló diagram párjait lásd [[K/KUR\|KUR]] és [[S/Szakrális geometria\|szakrális geometria]].  
+A kutyával kapcsolatba hozott [[G/Gula\|Gula]] = [[S/Szkílosz\|szkíla]] (szuka) értelmezési vonalra visszatérve fontos lehet megjegyezni, hogy az első(?) [[K/Kelta#Kelta zodiákus\|kelta zodiákus]]ban (és ahogy ott láttuk, az ónémetben) is a Vízöntőnek Farkas felelt meg. Márpedig a farkas és a kutya rokonok. Talán viszont mégiscsak arra történik utalás, hogy a kutya/Kuta/[[K/Kut\|kut]] életkörben elindulunk a felső KUT irányába. A [[K/Kut\|kut]] címnél álló diagram párjait lásd [[K/KUR\|KUR]] és [[S/Szakrális geometria\|szakrális geometria]].  
 
 Lehet egyszerűen is megközelíteni, a [[G/Gula\|Gula]] és [[C/Cola\|cola]] címnél írottak alapján. Ott folyás, folyó és enyv értelmekről volt szó.  
 Minden folyó prototípusa pedig a Tejút.  
@@ -211,7 +211,7 @@ Gavin White könyvének interneten elérhető kivonataiban tallózva az előző 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-[[S/Sumér zodiákus\|Sumér zodiákus]] címnél láttuk, hogy **PA.BIL.SAG** a Nyilas jegy neve volt. Azóta születetett [[P/Pabilsag\|Pabilsag]] címszó.  
+[[S/Sumér zodiákus\|Sumér zodiákus]] címnél láttuk, hogy **PA\.BIL\.SAG** a Nyilas jegy neve volt. Azóta születetett [[P/Pabilsag\|Pabilsag]] címszó.  
 
 [^2]: Lábjegyzet:  
 In Western astronomy, Monoceros is a relatively modern constellation, not one of Ptolemy's 48 in the Almagest. Its first certain appearance was on a globe created by the Dutch cartographer Petrus Plancius in 1612 or 1613 and it was later charted by German astronomer Jakob Bartsch as Unicornu on his star chart of 1624.  
