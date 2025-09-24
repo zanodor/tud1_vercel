@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arcturus/","title":"Arcturus","tags":["Englishtexttranslated"],"created":"2023-10-13T12:49","updated":"2025-09-20T02:02"}
+{"dg-publish":true,"permalink":"/A/Arcturus/","title":"Arcturus","tags":["Englishtexttranslated"],"created":"2023-10-13T12:49","updated":"2025-09-24T13:55"}
 ---
 
 
