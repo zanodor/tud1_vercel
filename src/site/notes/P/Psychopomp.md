@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Psychopomp/","title":"Psychopomp","tags":["Englishtexttranslated"],"created":"2023-10-27T08:46","updated":"2025-09-22T23:02"}
+{"dg-publish":true,"permalink":"/P/Psychopomp/","title":"Psychopomp","tags":["Englishtexttranslated"],"created":"2023-10-27T08:46","updated":"2025-09-24T13:42"}
 ---
 
 
