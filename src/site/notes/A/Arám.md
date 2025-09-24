@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arám/","title":"Arám","created":"2023-10-20T06:58","updated":"2025-09-20T14:09"}
+{"dg-publish":true,"permalink":"/A/Arám/","title":"Arám","created":"2023-10-20T06:58","updated":"2025-09-24T13:53"}
 ---
 
 
@@ -50,7 +50,7 @@ A 93. oldalon is előjön az Urartu-val való azonosítás és fontosabban az, h
 
 > A Közel-Keleten a bronzkorban magyarok laktak, akiknek a nyelve degenerálódott, vagy másképpen fejlődött, és szem nyelvek fejlődtek ki belőle. Jeruzsálemben is az arámi nyelv volt elterjedve, amelynek a régebbi változata magyar nyelv volt, és amiből egy fiatalabb szemita arámi nyelv alakult ki.  
 
-A [[H/Haram\|haram]] és [[H/Haramia\|haramia]] címnél legutóbb írottak alapján a [[K/Khamor\|Khamor]] eredetűnek megállapított [[A/Amorita\|amorita]] név hangátvetett változata lehet, harom, haram, hram, arám fejlődéssel.  
+A [[H/Haram\|haram]] és [[H/Haramia\|haramia]] címnél legutóbb írottak alapján a [[K/Khamor\|Khamor]] eredetűnek megállapított [[A/Amorita\|amorita]] név hangátvetett változata lehet, harom > haram > hram > arám fejlődéssel.  
 
 Az [alábbi](https://en.m.wikipedia.org/wiki/Aramaic_language) oldal tanúsága szerint az arámi nyelv azonos a [[S/SZÍR\|szír]] nyelvvel.  
 
