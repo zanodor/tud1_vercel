@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2025-09-20T14:10"}
+{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2025-09-24T13:45"}
 ---
 
 
