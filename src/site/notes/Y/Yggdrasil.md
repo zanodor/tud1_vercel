@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Y/Yggdrasil/","title":"Yggdrasil","tags":["Englishtexttranslated"],"created":"2024-01-02T06:47","updated":"2025-06-07T18:48"}
+{"dg-publish":true,"permalink":"/Y/Yggdrasil/","title":"Yggdrasil","tags":["Englishtexttranslated"],"created":"2024-01-02T06:47","updated":"2025-09-24T13:51"}
 ---
 
 
@@ -17,7 +17,7 @@ Vasváry-Tóth Tibor szerint visszafelé kell olvasni: Drasil – Lizard. [[R/Ra
 
 Jankovics Marcell A fa mitológiájában a hivatalos jelentést hozza: Ygg lova. Említi azt is, hogy ez a fa kőrisfa, "világkőris". A Drasil Dra eleme fára ([[T/Tree\|tree]]) látszik utalni, míg [[S/SZIL\|SZIL]] = fényes. A ló jelentésben nyilván a táltosparipa indítékának belemosódását kell felfedezni.  
 
-![assets/Yggdrasil_image1.png](/img/user/Y/assets/Yggdrasil_image1.png)  
+![assets/Yggdrasil_image1.png|fix_light](/img/user/Y/assets/Yggdrasil_image1.png)  
 Jankovics Marcell [[E/Életfa\|életfa]] címnél is szereplő passzusa elemzi a mellékelt képet.  
 > A Tejutat gyakran két, felül összeboruló fának képzelik el. Ilyen esetben a Tejút a világtengellyel együtt 3 fát, vagy egy 3 törzsű (de nem három ágú) fát alkothat (az ágak mást jelentenek). Így ábrázolja egy 18. századi dán konstrukció a skandinávok világfáját. Az Yggdrászil az alvilágban, az ég déli pólusán gyökerezik, majd 3 szárra, törzsre bomlik. A középső egyenes törzs a Világhegyet árfúrva, az északi ég pólusa körül bont koronát, a két szélső törzs a korong alakú Föld pereménél bukkan a "felső világra," majd az éggömb íve mentén a középső törzs felé hajol. Hasonló felfogású világfaábrázolással a népművészetben is találkozhatunk. Ezek az ábrázolások a Tejút és a világtengely viszonyát modellezik a Föld központú világkép szerint. Persze a 2, 3 vagy több törzsű fa is értelmezhető másképp. Felfogható folyamatábrának is: ha a szárak egy tőből erednek, vagy tövük egy középpont felé mutat, a tejútforgást jelképezhetik; égtájjelként a Napnak a Tejúthoz viszonyított főbb állomásait. Ilyen 3, a tövével együtt igazából 4 szárú világfa a [[K/Kereszt\|kereszt]].  
 
@@ -37,7 +37,7 @@ Jankovics Marcell [[E/Életfa\|életfa]] címnél is szereplő passzusa elemzi a
 > Yggdrasil törzse a világtengely, és három gyökere van. Tetején óriás sasmadár található, éppúgy, mint a népmesékben.  
 >
 > Honnan ered, és mit jelenthet az Yggdrasil szó? Meglepő, de a lovas népek jelképrendszeréből. Legáltalánosabban elterjedt értelmezése szerint az "ygg" jelentése megegyezik a skandináv mitológia főhősének nevével, [[O/Odin\|Odin]]-éval, a "drasil" pedig azt jelenti: táltos. **Yggdrasil így azt jelenti: Odin táltosa**.  
-- Hát, ez már egy csúsztatás lehet, de ne feledjük, a tölgyfa neve nyomán eredne a [[D/Druida\|druida]] név is.  
+- Hát, ez már egy csúsztatás lehet, de ne feledjük, a tölgyfa neve nyomán eredne a [[D/Druida\|druida]] név is.
 
 > Ha így van, kérdés marad, mit jelenthetett eredetileg Odin neve? Odin nevének értelmezésében segítségünkre lehet a tény, hogy Yggdrasil jelentését ismerjük, és ez: Világfa.  
 > Hogyan lehet Odin táltosa, egy mozgó, vágtázó táltos ugyanakkor Világfa? A fák egyik jellemző tulajdonsága, hogy nem képesek helyváltoztató mozgásra. Itt tehát látszólag ellentét feszül. Az ellentét feloldását abban találhatjuk meg, hogy a Világfa nem mindenben olyan, mint a szokásos fák. A Világfa maga a Világegyetem \[[[TÉR\|[TÉR]]\], és a Világegyetem maga az örök változás és változatlanság egysége. Ha a táltos, ahogy meséinkben is, röpítő erő, akkor a Világfában is kell lennie röpítő erőnek. Tudjuk, hogy minden fában van a röpítő erőhöz hasonló, hiszen a fa testnedveit csakis egy hasonló mozgatóerő képes eljuttatni a fa tetejéig. A fa mozgatóereje a fa éltető ereje. Ha a Világfa, vagyis a norvég mitológiában Yggdrasil jelentése: Odin táltosa, akkor ez az elnevezés a Világfa mozgatóerejére, vagyis a Mindenség életerejére utal.  
