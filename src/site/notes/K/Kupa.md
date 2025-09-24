@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kupa/","title":"Kupa","tags":["containstransclusions"],"created":"2023-11-14T06:29","updated":"2025-09-21T21:04"}
+{"dg-publish":true,"permalink":"/K/Kupa/","title":"Kupa","tags":["containstransclusions"],"created":"2023-11-14T06:29","updated":"2025-09-24T13:54"}
 ---
 
 
