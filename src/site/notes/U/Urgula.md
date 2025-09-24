@@ -5,7 +5,7 @@
 
 # Urgula
 
-A [[S/Sumér zodiákus\|sumér zodiákus]] Oroszlánnak megfelelő csillagjegye, helyesen Ur-Gu-La. Mielőtt rátérnénk a név etimológiájára, meg kell jegyezni, ahogy [[V/Vízöntő paradoxon\|Vízöntő paradoxon]] címnél is megtettük, hogy a sumér zodiákusban az Oroszlán és Vízöntő jegyek nevei szinte azonosak. Az Oroszlán neve **UR.GU.LA**, míg a Vízöntőé **GU.LA** (lásd [[G/Gula#Gula 2)\|Gula]]).  
+A [[S/Sumér zodiákus\|sumér zodiákus]] Oroszlánnak megfelelő csillagjegye, helyesen Ur-Gu-La. Mielőtt rátérnénk a név etimológiájára, meg kell jegyezni, ahogy [[V/Vízöntő paradoxon\|Vízöntő paradoxon]] címnél is megtettük, hogy a sumér zodiákusban az Oroszlán és Vízöntő jegyek nevei szinte azonosak. Az Oroszlán neve **UR\.GU\.LA**, míg a Vízöntőé **GU\.LA** (lásd [[G/Gula#Gula 2)\|Gula]]).  
 
 > In earlier texts the Lion is usually called 'Mul Ur-mah' – the 'Exalted Lion', but from the middle of the 2nd millennium its name is usually written 'Mul Ur-Gu-la'  
 > The Sumerian word was borrowed into Akkadian as `urgulû`. The **Ur-sign** depicts a lion's head; it is best translated as 'large carnivore' as the sign can also refer to dogs and wolves. The combination **Gu-la** appears to be an alternative way of writing the Sumerian word Gal, which simply means 'great or big'.  
