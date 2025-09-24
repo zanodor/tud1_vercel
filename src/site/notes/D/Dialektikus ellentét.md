@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","created":"2023-10-06T12:03","updated":"2025-07-03T01:13"}
+{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","created":"2023-10-06T12:03","updated":"2025-09-24T13:43"}
 ---
 
 
