@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2025-09-21T16:51"}
+{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2025-09-24T13:41"}
 ---
 
 
