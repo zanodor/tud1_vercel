@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/COM hypothesis/","title":"COM hypothesis","created":"2024-04-22T12:50","updated":"2025-09-20T23:45"}
+{"dg-publish":true,"permalink":"/C/COM hypothesis/","title":"COM hypothesis","created":"2024-04-22T12:50","updated":"2025-09-24T13:59"}
 ---
 
 
