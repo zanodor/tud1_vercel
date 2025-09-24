@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2025-09-17T15:13"}
+{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2025-09-24T13:50"}
 ---
 
 
@@ -24,7 +24,7 @@ Idevehetők [[B/Buddha\|Buddha]] és atyja neve is: Siddhartha herceg és Suddho
 Az Ipolyi Arnold Magyar mythologia című könyvének 336. oldalán lábjegyzetben előjövő (S-T váltással finn és észt [[T/TÁT\|TÁT]] címnél taglalt szavakhoz is hasonlító) vogul `sauht` = csillag nyilván süt szavunkkal azonos.  
 
 A francia `chaud` = forró is innen ered, nem a latin `calidus` szótól.  
-![assets/Süt_image1.png|invert_dark](/img/user/S/assets/S%C3%BCt_image1.png)  
+![Süt_image20250921003029161.jpeg|fix_dark fix_light|840](/img/user/S/assets/S%C3%BCt_image20250921003029161.jpeg)
 
 A mellékelt táblázat aveszta SZU-DAR alakjai érdekesek, minthogy a férj elnevezése ezek szerint onnan származik, hogy rendelkezik megtermékenyítő folyadékkal. De lehet hogy itt inkább a Süt-Rá értelmezést kell helyesnek vélni. ([[S/Sutra\|Sutra]] pedig szintén létező szó.)
 
