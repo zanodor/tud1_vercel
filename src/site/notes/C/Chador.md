@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Chador/","title":"Chador","created":"2024-01-30T06:49","updated":"2025-09-20T23:44"}
+{"dg-publish":true,"permalink":"/C/Chador/","title":"Chador","created":"2024-01-30T06:49","updated":"2025-09-24T13:55"}
 ---
 
 
