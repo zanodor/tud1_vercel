@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Más/","title":"Más","tags":["Englishtexttranslated","containscallouts"],"created":"2025-05-29T22:51","updated":"2025-08-31T02:52"}
+{"dg-publish":true,"permalink":"/M/Más/","title":"Más","tags":["Englishtexttranslated","containscallouts"],"created":"2025-05-29T22:51","updated":"2025-09-24T13:46"}
 ---
 
 
@@ -127,8 +127,8 @@ Ha már után, lásd a legutóbb [[A/After\|after]] címnél írottakat. Onnan t
 ## Más mint másvilág
 
 Más szerepel másvilág kifejezésünkben is. Erről legutóbb [[M/Maat\|Maat]] cím alján volt szó.  
-Ez a másvilág, mint más értelmezhető másik, illuzorikus, fordított, a [[B/Bal és jobb\|bal és jobb]] címnél is említett tükörkép-világként is.  
-![assets/Más_image1.jpeg|invert_dark](/img/user/M/assets/M%C3%A1s_image1.jpeg)  
+Ez a másvilág, mint más értelmezhető másik, illuzórikus, fordított, a [[B/Bal és jobb\|bal és jobb]] címnél is említett tükörkép-világként is.  
+![assets/Más_image1.jpeg|fix_light](/img/user/M/assets/M%C3%A1s_image1.jpeg)  
 Molnár V. József Világ-Virág című könyvének 109. oldalán a lépcső és a spirál környezete a jelrendszerben alfejezetcímnél olyan dolgokat (a [[F/Fehér és fekete\|fehér és feketé]]ről, mint két létezőről ír, ahol a fekete részek által kiadott kép a fordított "másik" világ) taglal, melyek a [[J/Jin és jang\|jin-jang]] jel értelmezéséhez hasonlóak. A 224. oldalon ismét említi a fordított világot. Ugyebár arról van szó, hogy az egyes képi ábrázolásokat úgy tervezik meg, hogy ha a fehér, üres részekre fókuszál az ember, más alak jön ki, mint akkor, amikor a fekete részekre koncentrál szemével ez ember, mert akkor megint más alakzat vehető ki. Ilyen volt az anno még Twitterre feltett kép is (amit a hölgynek képaláírásként írtam: "The illusion that you are still the instrument that plays me.").  
 
 #### Rónai Lászlóné Reinkarnáció...
