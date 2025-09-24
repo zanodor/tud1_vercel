@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Buda/","title":"Buda","tags":["Englishtexttranslated"],"created":"2023-12-03T10:25","updated":"2025-09-20T23:19"}
+{"dg-publish":true,"permalink":"/B/Buda/","title":"Buda","tags":["Englishtexttranslated"],"created":"2023-12-03T10:25","updated":"2025-09-24T13:51"}
 ---
 
 
