@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Analógikus gondolkodásmód/","title":"Analógikus gondolkodásmód","created":"2024-05-08T13:56","updated":"2025-09-20T14:05"}
+{"dg-publish":true,"permalink":"/A/Analógikus gondolkodásmód/","title":"Analógikus gondolkodásmód","created":"2024-05-08T13:56","updated":"2025-09-24T13:51"}
 ---
 
 
