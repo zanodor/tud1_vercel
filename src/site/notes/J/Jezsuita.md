@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jezsuita/","title":"Jezsuita","tags":["Englishtexttranslated"],"created":"2023-10-09T06:12","updated":"2025-09-21T17:56"}
+{"dg-publish":true,"permalink":"/J/Jezsuita/","title":"Jezsuita","tags":["Englishtexttranslated"],"created":"2023-10-09T06:12","updated":"2025-09-24T13:50"}
 ---
 
 
