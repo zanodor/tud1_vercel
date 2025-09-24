@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2025-08-31T02:37"}
+{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2025-09-24T12:49"}
 ---
 
 
@@ -34,7 +34,7 @@ Ugyanígy a Luk azaz [[L/Lyuk\|lyuk]] nőiség, de hímségi [[L/LU\|LU]]-ból k
 [[H/Hesztia\|Hesztia]] és [[V/Vesta\|Vesta]] (szkíta [[T/Tabiti\|Tabiti]]) tűzistennők. Ez is rámutat, hogy a tűz és az istennő fogalmak megférnek egymással. Legutóbb [[H/Hesztia\|Hesztia]] és [[E/East\|East]] címnél arról volt szó, hogy [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]] lenne a tűzistennő, ha máshogy nem, úgy, hogy a nyári napfordulón tüzével rásegít a Nap tüzére ("kánikula"), a téli napfordulós együttálláskor pedig szintén tüzel, de már az éji csillagos égen. A kutyaszuka is éppen (körülbelül) kétszer tüzel az évben.  
 A napi időkörbeli sötét és fényes periódusok (menny (és sötétje) és az ég – hímségi, azzal hogy a Nap fenn van) váltakozáshoz hasonlóan a másik két időkör sötét és fényes féléveinek váltakozása hozta magával az utódnyelvek [[D/Deus\|deus]]/tűz <> [[D/Deuce\|deuce]] = ördög (satöbbi névformák is sorolhatók) névváltozatait.
 - Kállay Ferenc A pogány magyarok vallása című könyvének [265. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=265&annotation=YMBDZA76) szereplő adatában is az alábbi formák tűz szavunk széthúzásának tarthatók (az ilyen alakú túzok megjelenése is érdekes):  
-> A \[kurd jezidek\] sátánt **Malek Tavos** név alatt tisztelik, mint az isten egyik hatalmas szolgáját, ez a **Taoos** vagy **Taous** a [[T/Túzok\|túzok]] madárképe gyertyatartóra állitva.
+> A \[kurd jezidek\] sátánt **Malek Tavos** név alatt tisztelik, mint az isten egyik hatalmas szolgáját, ez a **Taoos** vagy **Taous** a [[T/Túzok\|túzok]] madárképe gyertyatartóra állitva.  
 
 A nyáritól a téli napfordulóig a sötét és fordítva a fényes [[F/Félév\|félév]] a Kis Évben és a Halak-Vízöntő határától vissza a sötét és onnantól a fényes Nagy Év félév meghatározható. Viszont úgy tűnik, hogy például az ind mitológiában a [[D/Dévák és Aszúrák\|Dévák és Aszúrák]] ellenségeskedése más időszakhoz kapcsolandó, vagy lásd az [[I/Irán és Turán\|Irán és Turán]] címnél (Bobula Ida által is) írottakat. Aztán az [[I/Íj csillagkép\|Íj csillagkép]] és [[S/Szkíta\|szkíta]] címnél (és [[S/Sátán\|Sátán]] címnél!) írottakat. És persze ne feledjük a [[B/Bal és jobb\|bal és jobb]] és [[D/Devil\|devil]] címnél írottakat sem (lásd [[U/Uttarayana\|Uttarayana]], stb.).  
 És ne feledjük, [[A/ATA\|ATA]] és [[A/Atar\|Atar]] címnél írottakat tűz kapcsán sem: az ős a Tejútanya, annak is legfőbb csillaga lenne, Szíriusz?   
@@ -237,7 +237,7 @@ Ami azért érdekes, mert a [[S/Sweet\|sweet]] – [[S/Süt\|süt]] analógiáj�
 
 A tűz jelentésű idegen nyelvű szavak közül az alábbi [[S/Szkíta\|szkíta]] és [[K/Kutya\|kutya]] címnél is szerepelt:  
 Megdöbbentő, de a kanadai bennszülött [[C/Cree\|cree]] indiánok [[A/Algonquian\|algonkin]] nyelvében `ishkuteu` = tűz[^3], mely Isz-Kutya, azaz mondhatni, szkíta értelmet visel. Mellékelve lásd írásukat.  
-![assets/Tűz_image2.png|invert_dark](/img/user/T/assets/T%C5%B1z_image2.png)  
+![assets/Tűz_image2.png|fix_light](/img/user/T/assets/T%C5%B1z_image2.png)  
 A háromszög/gúla/hegy piktogramjuk is sokatmondó.  
 
 Ha már szkíta, a litván `didžioji` = nagy, hatalmas tűz szavunkból eredő lehet (de amikor először megláttam a szót, [ezen](https://lt.m.wikipedia.org/wiki/Didžioji_Orda) oldalon, akkor Szkítia arab Dzsiddija neve ötlött fel, és annak mentén a [[Z/Zsidó\|zsidó]] név).  
