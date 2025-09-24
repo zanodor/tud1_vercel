@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fonetika/","title":"Fonetika","created":"2024-04-28T20:59","updated":"2025-09-21T11:59"}
+{"dg-publish":true,"permalink":"/F/Fonetika/","title":"Fonetika","created":"2024-04-28T20:59","updated":"2025-09-24T13:59"}
 ---
 
 
