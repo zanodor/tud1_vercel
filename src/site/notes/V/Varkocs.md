@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Varkocs/","title":"Varkocs","created":"2024-05-08T15:40","updated":"2024-10-26T00:46"}
+{"dg-publish":true,"permalink":"/V/Varkocs/","title":"Varkocs","created":"2024-05-08T15:40","updated":"2025-09-24T13:17"}
 ---
 
 
@@ -32,8 +32,7 @@
 Szintén Jankovics Marcell adatsora:  
 > Arany hajkorona. A napsugarak jelképeként a napisten arcát arany (szőke, fehér, vörös) hajfürtök keretezik. Apollón nyíratlan, hosszú hajú isten. Archaikus szobrain fonatokban vagy kibontva terül a vállára, a híres Belvederei Apolló kontyot visel a feje búbján, pont olyant, mint a Buddha.  
 > A napisten hajának hosszúsága erőnlétét jelzi. Sámson szintén nyíratlan, azért olyan erős. A hajában van az ereje, mint a Napnak a sugaraiban. Amikor Delila "lenyíratta az ő fejének hét fonatékát (...), eltávozék tőle az ő ereje." (Bír 16,19.) Héraklész, amikor [[H/Három nap\|három nap]] után kivágja magát a tengeri szörny gyomrából, kopasz és vörös, mint egy újszülött.  
-> Az obi-ugorok "aranyhajfürtös"-nek nevezik a Napot, "az ő hajfürtjeinek erejénél fogva nyár, van tél." Az Ob jege megolvad, ha "Aranyfejedelem 'hajfürtjeit szétereszti'. Vízirovarok sütkéreznek a hajában, és hajfürtjén ott áll a nap." A haját ő is vagy kontyban viseli, vagy 7 ágba fonva. "Hét ágra süt a Nap" – mondjuk verőfényes napsütésben. A 7-es szám ugyanilyen jelentéssel bukkan föl az obi-ugor "napimákban": "Nyisd ki hét oldalú házad hét ajtaját, és engedd ki a Nap sugarait". "Hét szögletű szent nyergedreaz előbukkanó Nap arany sugárkévéjét ... sugároztasd föl."(RÓHEIM 1984: 96-97. Vö. azzal, hogy ókínai felfogás szerint a Nap 7 stációt jár végig mindennap, Mithras-Solnak 7 ágú sugárkoronája van, s a manicheusok 7-szer imádkoztak hozzá naponta.)  
-> ![assets/Varkocs_image1.png|invert_dark](/img/user/V/assets/Varkocs_image1.png)
+> Az obi-ugorok "aranyhajfürtös"-nek nevezik a Napot, "az ő hajfürtjeinek erejénél fogva nyár, van tél." Az Ob jege megolvad, ha "Aranyfejedelem 'hajfürtjeit szétereszti'. Vízirovarok sütkéreznek a hajában, és hajfürtjén ott áll a nap." A haját ő is vagy kontyban viseli, vagy 7 ágba fonva. "Hét ágra süt a Nap" – mondjuk verőfényes napsütésben. A 7-es szám ugyanilyen jelentéssel bukkan föl az obi-ugor "napimákban": "Nyisd ki hét oldalú házad hét ajtaját, és engedd ki a Nap sugarait". "Hét szögletű szent nyergedreaz előbukkanó Nap arany sugárkévéjét ... sugároztasd föl." ![assets/Varkocs_image1.png|fix_dark fix_light right|256](/img/user/V/assets/Varkocs_image1.png) (RÓHEIM 1984: 96-97. Vö. azzal, hogy ókínai felfogás szerint a Nap 7 stációt jár végig mindennap, Mithras-Solnak 7 ágú sugárkoronája van, s a manicheusok 7-szer imádkoztak hozzá naponta.)  
 > A nagyszentmiklósi kincs "lánghajú" fejedelme is minden bizonnyal a napistent, mégpedig a nyárban diadalmaskodót ábrázolta. (A korsón látható másik három jelenet a többi évszak szimbóluma. 87. rajz.)  
 
 A varkocs szót CzF nem adatolja, és Péterfai János levezetése sem teljes/elégséges.  
