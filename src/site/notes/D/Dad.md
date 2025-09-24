@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dad/","title":"Dad","tags":["Englishtexttranslated"],"created":"2024-04-25T12:55","updated":"2025-09-21T00:00"}
+{"dg-publish":true,"permalink":"/D/Dad/","title":"Dad","tags":["Englishtexttranslated"],"created":"2024-04-25T12:55","updated":"2025-09-24T13:53"}
 ---
 
 
