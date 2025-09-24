@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aphrodité/","title":"Aphrodité","tags":["Englishtexttranslated"],"created":"2025-07-29T22:30","updated":"2025-09-20T02:01"}
+{"dg-publish":true,"permalink":"/A/Aphrodité/","title":"Aphrodité","tags":["Englishtexttranslated"],"created":"2025-07-29T22:30","updated":"2025-09-24T13:52"}
 ---
 
 
