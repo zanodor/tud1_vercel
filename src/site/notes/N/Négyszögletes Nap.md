@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Négyszögletes Nap/","title":"Négyszögletes Nap","created":"2025-06-09T15:19","updated":"2025-09-22T01:51"}
+{"dg-publish":true,"permalink":"/N/Négyszögletes Nap/","title":"Négyszögletes Nap","created":"2025-06-09T15:19","updated":"2025-09-24T13:54"}
 ---
 
 
@@ -31,6 +31,6 @@ Lásd még [[H/Háromszögletű Nap\|háromszögletű Nap]]. Az ott szereplő, i
 > Bálint Sándor szerint e napsugaras háromszög szentháromság-jelkép volt, szerintem napszimbólum is. (A két nézet nemhogy megfér egymás mellett, az ókori Egyiptomban össze is tartozott; a kelő, delelő és a lenyugvó Nap alkotta a nappali triászt, mely kiegészült az éjszakai napisten személyével.)  
 
 A négyesség másutt is előkerül (szintén Jankovics Marcell tollából):  
-> Az indián napistenek a kukorica védőszellemeiben inkarnalódtak. A fehér, sárga, piros és fekete színben pompázó kukoricacsövek az égtájak (lásd még [[S/Színkódok\|színkódok]]) szerint jelképezték a kelő (kikelő), delelő (beérő), lenyugvó (learatott) és eltávozott (elvetett) napmagot. Vicilopocstli évente két ízben megült nagy ünnepén az ő képére és hasonlatosságára kukoricalisztből mézzel kalácsszobrot gyúrtak, amit az ünnepet megkoronázó lakomán a résztvevők darabokra tördeltek és elfogyasztottak. Pontosabban nem őt, hanem földanyától született fiát, földi megtestesülését, a kukoricaistent ették meg a hívek eucharistiaként.  
+> Az indián napistenek a kukorica védőszellemeiben inkarnalódtak. A fehér, sárga, piros és fekete színben pompázó kukoricacsövek az égtájak (lásd még [[S/Színkódok\|színkódok]]) szerint jelképezték a kelő (kikelő), delelő (beérő), lenyugvó (learatott) és eltávozott (elvetett) napmagot. [[H/Huitzilopochtli\|Vicilopocstli]] évente két ízben megült nagy ünnepén az ő képére és hasonlatosságára kukoricalisztből mézzel kalácsszobrot gyúrtak, amit az ünnepet megkoronázó lakomán a résztvevők darabokra tördeltek és elfogyasztottak. Pontosabban nem őt, hanem földanyától született fiát, földi megtestesülését, a kukoricaistent ették meg a hívek eucharistiaként.  
 
 Mihez még hozzátenném, hogy a napállat-holdállat [[K/Kutya\|kutya]], ahogy [[K/Kéz\|kéz]] és [[C/Cautha\|Cautha]] címnél szerepelt, négy kezű illetve lábú. Márpedig a négy a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] száma, melyek egy-egy stációt jelölnek, a kelő, delelő, lemenő és éjjeli/halott Napét.  
