@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fekete lyuk/","title":"Fekete lyuk","tags":["Englishtexttranslated"],"created":"2023-11-18T08:58","updated":"2025-09-21T11:55"}
+{"dg-publish":true,"permalink":"/F/Fekete lyuk/","title":"Fekete lyuk","tags":["Englishtexttranslated"],"created":"2023-11-18T08:58","updated":"2025-09-24T13:51"}
 ---
 
 
