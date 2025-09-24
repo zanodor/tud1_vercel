@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pelican/","title":"Pelican","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-07-29T22:53","updated":"2025-09-22T21:10"}
+{"dg-publish":true,"permalink":"/P/Pelican/","title":"Pelican","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-07-29T22:53","updated":"2025-09-24T13:55"}
 ---
 
 
