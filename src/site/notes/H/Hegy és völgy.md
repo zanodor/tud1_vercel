@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2025-09-21T16:39"}
+{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2025-09-24T13:50"}
 ---
 
 
@@ -110,9 +110,9 @@ A hegy és völgy jelentésű szavakban közös még, hogy az [[E/Életkör\|él
 
 Makoldi Sándor – Szarvasvadászat című képének elemzésrészletében:  
 > Az ékek sorának szimbolikája a háromszögek jelképiségére vezethető vissza. Az egyenlő oldalú háromszög isteni jelkép, a harmónia, a tökéletesség, a szenthármasság – és nem csak keresztényi értelemben –, a harmónia és stabilitás szimbóluma. Az ékek sorában fellelhető hármas-hármasság ősvallásunk alapeleme is. A csúcsukkal felfelé álló, világos ékek a férfi, az ég és a tűz, míg a csúcsával lefelé néző sötét háromszögek a nő, a föld és a víz jelképei. A mitológia világa számtalan vízben született, vagy onnan kiemelkedő, az égi folyón érkező isteni lényt, héroszt, és nemzet alapító személyiséget ismer. A magyar mondavilág ilyen személyei Csaba királyfi, Álmos, vagy Hunor és Magor. Képírásunkban a hullámvonal a víz, a folyó, és a tenger szimbóluma, de áttételesen utal az istenre, vagy annak jelenlétére is. Az Isten, Ten, Tengri, Yo Tengrit, Ős Thana nevek általában az "ős tenger végtelen" kifejezésre vezethetők vissza. Ebben a megközelítésben az Isten jelenlétére utaló hullámvonal, a történet isteni eredetére, illetve a születő ikerpár istenségére, vagy isteni kiválasztottságára utal. A vadászmondák Csodaszarvasa üldözőit a vízen túlra vezeti, mely víz az élet-halál vize. A Szarvassá vált fiúk balladájában is megkülönböztetett szerepe van a víznek. A halhatatlanság és halál jelképe:  
-> *A mi szájunk többé  
-> Nem iszik pohárból,  
-> Csak hűvös forrásból.*  
+> *A mi szájunk többé*  
+> *Nem iszik pohárból,*  
+> *Csak hűvös forrásból.*  
 > ![assets/Hegyesvolgy_image1.png|840](/img/user/H/assets/Hegyesvolgy_image1.png)
 
 Legutóbb [[H/Henger\|henger]] címnél is említettük a hegy és völgy váltakozásait.  
