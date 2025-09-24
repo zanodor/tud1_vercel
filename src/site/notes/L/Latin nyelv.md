@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2025-09-21T21:13"}
+{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2025-09-24T13:46"}
 ---
 
 
