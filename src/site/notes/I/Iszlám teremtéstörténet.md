@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Iszlám teremtéstörténet/","title":"Iszlám teremtéstörténet","created":"2024-05-03T12:13","updated":"2025-09-21T17:48"}
+{"dg-publish":true,"permalink":"/I/Iszlám teremtéstörténet/","title":"Iszlám teremtéstörténet","created":"2024-05-03T12:13","updated":"2025-09-24T13:54"}
 ---
 
 
