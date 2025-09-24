@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Parád/","title":"Parád","created":"2023-10-04T12:40","updated":"2024-10-25T23:44"}
+{"dg-publish":true,"permalink":"/P/Parád/","title":"Parád","created":"2023-10-04T12:40","updated":"2025-09-24T13:58"}
 ---
 
 
