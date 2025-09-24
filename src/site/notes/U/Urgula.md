@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2025-08-31T01:56"}
+{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2025-09-24T12:56"}
 ---
 
 
 # Urgula
 
 A [[S/Sumér zodiákus\|sumér zodiákus]] Oroszlánnak megfelelő csillagjegye, helyesen Ur-Gu-La. Mielőtt rátérnénk a név etimológiájára, meg kell jegyezni, ahogy [[V/Vízöntő paradoxon\|Vízöntő paradoxon]] címnél is megtettük, hogy a sumér zodiákusban az Oroszlán és Vízöntő jegyek nevei szinte azonosak. Az Oroszlán neve **UR.GU.LA**, míg a Vízöntőé **GU.LA** (lásd [[G/Gula#Gula 2)\|Gula]]).  
-![assets/Urgula_image1.png|invert_dark](/img/user/U/assets/Urgula_image1.png)  
 
 > In earlier texts the Lion is usually called 'Mul Ur-mah' – the 'Exalted Lion', but from the middle of the 2nd millennium its name is usually written 'Mul Ur-Gu-la'  
-> The Sumerian word was borrowed into Akkadian as `urgulû`. The Ur-sign depicts a lion's head; it is best translated as 'large carnivore' as the sign can also refer to dogs and wolves. The combination Gu-la appears to be an alternative way of writing the Sumerian word Gal, which simply means 'great or big'.  
+> The Sumerian word was borrowed into Akkadian as `urgulû`. The **Ur-sign** depicts a lion's head; it is best translated as 'large carnivore' as the sign can also refer to dogs and wolves. The combination **Gu-la** appears to be an alternative way of writing the Sumerian word Gal, which simply means 'great or big'.  
 > —  
 > A korábbi szövegekben az oroszlán neve általában "Mul Ur-mah" – a "Magasztos Oroszlán", de a 2. évezred közepétől kezdve a nevét általában "Mul Ur-Gu-la"-nak írják.  
-> A sumér szót az akkád nyelvbe `urgulű` néven vették át. Az Ur-jel egy oroszlánfejet ábrázol; a legjobb fordítása 'nagy húsevő', mivel a jel utalhat kutyákra és farkasokra is. A Gu-la kombináció a sumér `Gal` szó alternatív írásmódjának tűnik, amely egyszerűen azt jelenti, hogy "nagy".  
+> ![Urgula_image20250924125428664.jpeg|fix_dark fix_light center|300](/img/user/U/assets/Urgula_image20250924125428664.jpeg)
+> A sumér szót az akkád nyelvbe `urgulű` néven vették át. Az **Ur-jel** egy oroszlánfejet ábrázol; a legjobb fordítása 'nagy húsevő', mivel a jel utalhat kutyákra és farkasokra is. A **Gu-la** kombináció a sumér `Gal` szó alternatív írásmódjának tűnik, amely egyszerűen azt jelenti, hogy "nagy".  
 
 Gavin White-nak, a Babylonian Star Lore című könyv írójának táblázatos adatai nyilván valamelyik sumerológustól valók; a Gu-La [[G/GAL\|GAL]] olvasatát nem fogadnám el – lentebb még visszatérünk rá.  
 Az [[U/UR\|UR]], ahogy a vendéghajat vagy inkább a Bobula Ida szerint is kutyafejet ábrázoló piktogram mutatja, Úr jelentésű. [[G/GU\|GU]] több jelentésű etimon, [[L/LA\|LA]] pedig helyet és fényt is jelent.  
@@ -87,8 +87,6 @@ Az alábbiakban...
 
 > THE SUMMER SOLSTICE PERIOD  
 >
-> ![assets/Urgula_image2.png|invert_dark](/img/user/U/assets/Urgula_image2.png)  
->
 > The next distinct group of symbols is made up from the constellations that rise during the summer. These stars mark the hot dry season, which, unlike the milder climes of Europe, is regarded as the time of death in Mesopotamia. At this time the lands are ravished by drought and plague, and even nature herself becomes barren – the life-giving rains have ceased and river levels decline, the harvest is finished and all vegetation dies back under the scorching summer sun.  
 > As the sun approached the peak of his powers, [[T/Tammuz\|Dumuzi]] had foreboding dreams of his own death. His premonitions came true at the summer solstice and his funeral rites were performed amidst wailings and lamentations in month 4, immediately after the solstice. As Dumuzi walked the path of the dead, he took the sorrows of the worlds with him to the land of the shades.  
 > Rituals dedicated to the dead also dominated month 5, which fell in late summer. At this time, when the veil between life and death was at its thinnest, the great Brazier festival was celebrated. This festival commemorated the ancestors, who were invited back to the world of the living for an annual feast in their descendant's homes. The rites involved lighting torches and braziers to guide the departed ghosts of the ancestors back from the darkness of the underworld. The stars rising around the time of the summer solstice are thus fittingly informed by images of death, war and travel between the worlds.  
@@ -107,7 +105,7 @@ Az alábbiakban...
 >
 > A NYÁRI NAPFORDULÓS IDŐSZAK
 >
-> A szimbólumok következő különálló csoportját a nyár folyamán felkelő csillagképek alkotják. Ezek a csillagok a forró, száraz évszakot jelölik, amelyet Mezopotámiában – ellentétben Európa enyhébb éghajlatával – a halál időszakának tekintenek. Ebben az időszakban a földeket aszály és járványok sújtják, és még maga a természet is meddővé válik – az életadó esőzések elmaradnak, a folyók vízszintje csökken, a termésnek vége, és a perzselő nyári nap alatt minden növényzet visszahal.  
+> A szimbólumok ![assets/Urgula_image2.png|fix_dark fix_light right|400](/img/user/U/assets/Urgula_image2.png)következő különálló csoportját a nyár folyamán felkelő csillagképek alkotják. Ezek a csillagok a forró, száraz évszakot jelölik, amelyet Mezopotámiában – ellentétben Európa enyhébb éghajlatával – a halál időszakának tekintenek. Ebben az időszakban a földeket aszály és járványok sújtják, és még maga a természet is meddővé válik – az életadó esőzések elmaradnak, a folyók vízszintje csökken, a termésnek vége, és a perzselő nyári nap alatt minden növényzet visszahal.  
 > Ahogy a nap közeledett hatalma csúcsához, [[T/Tammuz\|Dumuzi]] vészjósló álmokat látott saját haláláról. Előérzései a nyári napforduló idején valóra váltak, és a temetési szertartásokat jajgatás és siránkozás közepette a 4. hónapban, közvetlenül a napforduló után végezték el. Ahogy Dumuzi végigjárta a holtak útját, magával vitte a világok bánatát az árnyak földjére.  
 > A halottaknak szentelt szertartások uralták az 5. hónapot is, amely a nyár végére esett. Ebben az időszakban, amikor az élet és a halál közötti fátyol a legvékonyabb volt, ünnepelték a nagy brazíri fesztivált. Ez a fesztivál az ősökre emlékezett, akiket évente meghívtak az élők világába, hogy a leszármazottaik otthonában lakomát tartsanak. A szertartások során fáklyákat és parazsat gyújtottak, hogy az ősök eltávozott szellemeit visszavezessék az alvilág sötétségéből. A nyári napforduló idején felkelő csillagok így a halál, a háború és a világok közötti utazás képeihez illeszkednek.  
 >
