@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mestergerenda/","title":"Mestergerenda","created":"2024-04-28T22:34","updated":"2025-09-22T01:12"}
+{"dg-publish":true,"permalink":"/M/Mestergerenda/","title":"Mestergerenda","created":"2024-04-28T22:34","updated":"2025-09-24T13:50"}
 ---
 
 
