@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hunellenesség/","title":"Hunellenesség","created":"2024-05-01T15:12","updated":"2025-09-21T16:54"}
+{"dg-publish":true,"permalink":"/H/Hunellenesség/","title":"Hunellenesség","created":"2024-05-01T15:12","updated":"2025-09-24T13:57"}
 ---
 
 
