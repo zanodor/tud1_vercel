@@ -374,6 +374,12 @@ img[alt*="p+bcc"], .image-embed[src*="#p+bcc"] img {
   filter: sepia(90%) hue-rotate(-10deg) saturate(230%) brightness(0.96) contrast(1.0);
 }
 
+/* Light theme: keep invert option alive as well with old invert param */
+.theme-light img[alt*="invert_light"] {
+  filter: invert(90%) sepia(44%) contrast(107%);
+  mix-blend-mode: screen;
+}
+
 img:is([alt*=flip-x],
 [alt*=flip-horizontal]) {
   transform: scale(-1, 1);
