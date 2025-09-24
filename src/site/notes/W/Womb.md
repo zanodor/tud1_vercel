@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/W/Womb/","title":"Womb","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-07-29T23:06","updated":"2025-07-29T23:07"}
+{"dg-publish":true,"permalink":"/W/Womb/","title":"Womb","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-07-29T23:06","updated":"2025-09-24T13:56"}
 ---
 
 
@@ -10,7 +10,7 @@ Az eddigi tapasztalatok alapján nem kizárt, hogy asztrális eredetű a szó é
 Könnyen lehet, hogy a [[V/Vemhes\|vemhes]] szavunkból alakult (CzF ott álló adata is erre mutat).  
 Feltűnő a [[W/Woman\|woman]] szó wom- előrészével való azonossága (kivált, hogy a szóvégi -b néma).  
 
-![assets/Womb_image1.png|invert_dark](/img/user/W/assets/Womb_image1.png)  
+![assets/Womb_image1.png|fix_light](/img/user/W/assets/Womb_image1.png)  
 [[H/Humbaba\|Humbaba]] címnél is szerepeltek az alábbiak:  
 Robert Temple Sirius Msytery című könyvében szól arról, hogy a Humbaba-fej mintha belekből lenne kialkotva. [[M/Mithra\|Mithra]] címnél legutóbb írottak kapcsán vetődött fel, hogy ez a belek = méh = mostani világkorszakbeli Skorpió csillagkép körüli terület lehet a [[G/Gilgames és Enkidu\|Gilgames és Enkidu]] mítoszában[^1] de ellenőrizni kell.  
 Az tény, hogy a baba szerepel a névben és a womb = méh az ind Khumba-val azonos szó, továbbá ide tehető még Richard H. Allen Star Names című könyvének 48. oldaláról:  
