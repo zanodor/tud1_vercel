@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Humbaba/","title":"Humbaba","tags":["Englishtexttranslated"],"created":"2023-10-23T03:13","updated":"2025-09-21T16:54"}
+{"dg-publish":true,"permalink":"/H/Humbaba/","title":"Humbaba","tags":["Englishtexttranslated"],"created":"2023-10-23T03:13","updated":"2025-09-24T13:50"}
 ---
 
 
