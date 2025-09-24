@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2025-09-21T20:25"}
+{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2025-09-24T13:39"}
 ---
 
 
@@ -11,7 +11,7 @@ Hogy a kereszt szóban az `e` hang másutt is ismert volt, lásd [[K/Krisztus#Kr
 
 #### László Gyula Kettős honfoglalás...
 
-...című könyvében idézett...[[K/Kniezsa István\|Kniezsa István]][^1] természetesen szlávozik:  
+...című könyvében idézett [[K/Kniezsa István\|Kniezsa István]][^1] természetesen "szlávozik":  
 > "Hogy a magyarság kitől vette át a kereszténységet, a magyar kutatást már régóta foglalkoztatja. Krónikáinkból és legendáinkból úgy tudjuk, Géza udvarának megtérítésében német papokon kívül Adalbert prágai püspöknek volt nagy része. Ebből tehát az következnék, hogy a keresztény terminológia is főként német, esetleg cseh eredetű volna.  
 > A kereszténységre vonatkozó kifejezések legrégibb rétege a szlávból származik; kereszt (görög-keleti szláv `krьst`), keresztény, régebben a katolikusoknál is keresztyén (`krestjan`), bérmál (`birmati`), szent (`svet` \[lásd még [[S/Szvjet\|szvjet]]; miért nem latin?\]), malaszt (`milost`), pap (`pop`), apát (`opát`). \[...\] A kifejezések egy része (kereszt, érsek) határozottan görög szertartású szláv nyelvből származik, míg a másik része latin szertartású délnyugati szláv nyelvekre (szlovén, horvát) mutat, és egy sincs, amelyik cseh eredet mellett szólna."  
 - A [[Z/Zsidó\|zsidó]] szót is szlávból átvettnek tartja; lásd ott.
@@ -350,7 +350,7 @@ Egy műsorában mondja Kubínyi Tamás Ady-ról hogy az alkoholizás és a szifi
 
 Az [alábbi](https://youtu.be/9Uif7ioQ4T4) Ne Legyen Áldozatos műsorban 23:50 körül beszél Pap Gábor arról, hogy minden nagy természettudós bevallotta, hogy nem a matematika vagy az értelem útján jutott a nagy felfedezésekhez, hanem, abban az ihletett pillanatban közbeszólt valami, amit Pap Gábor itt a [[L/Lélek\|lélek]]kel azonosít.  
 
-Az [alábbi](https://youtu.be/WsxN4DyIXMw) Ne Legyen Áldozatos videóban Pap Gábor 9:53-nál szól röviden arról, hogy a valódi útra keresztben lefektetett [[B/Bal és jobb\|bal és jobb]] és [[M/Megtévesztés\|megtévesztés]] címnél is taglalt ál-ellentétekre építettek régen és ma is. A háttérhatalom tehát úgy gondolkodik, hogy mindig kettőben kell fellépni és úgy kell tenni (elhitetni), hogy mintha állandóan egymást támadnák. Pap Gábor itt a Fugger és [[M/Medici\|Medici]] féle bankházakról beszélt (igaz, megjegyzi, hogy ezek valóban versengtek is egymással és majd tulajdonképpen ugyanazt a képet festi le, mint Facsar Imre, a református és katolikus szétválasztódással kapcsolatosan is).
+Az [alábbi](https://youtu.be/WsxN4DyIXMw) Ne Legyen Áldozatos videóban Pap Gábor 9:53-nál szól röviden arról, hogy a valódi útra keresztben lefektetett [[B/Bal és jobb\|bal és jobb]] és [[M/Megtévesztés\|megtévesztés]] címnél is taglalt ál-ellentétekre építettek régen és ma is. A háttérhatalom tehát úgy gondolkodik, hogy mindig kettőben kell fellépni és úgy kell tenni (elhitetni), hogy mintha állandóan egymást támadnák. Pap Gábor itt a Fugger és [[M/Medici\|Medici]] féle bankházakról beszélt (igaz, megjegyzi, hogy ezek valóban versengtek is egymássa.
 
 Amiről Pap Gábor nem beszél, hogy ennek a látszólagos ellentét-párnak a gyökerei is az évkör két, fényes és sötét kategóriáiban keresendők.  
 Ami a keresztirányú lefeketést (vonalat) illeti, erről volt szó fentebb is.  
