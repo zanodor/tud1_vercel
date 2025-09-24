@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutia/","title":"Kutia","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-11T11:23","updated":"2025-09-21T21:09"}
+{"dg-publish":true,"permalink":"/K/Kutia/","title":"Kutia","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-11T11:23","updated":"2025-09-24T13:53"}
 ---
 
 
@@ -12,10 +12,10 @@
 
 Lényegében a lengyel receptet követve búzaszemeket vagy búzacsírát főznek, majd mákkal is keverik. Magyarországon mi is ilyenkor, karácsonykor mákos gubát (de csak parasztosan, kifliből) illetve mákos (és diós) bejglit fogyasztunk.  
 De itt elsősorban még a harmadik legfontosabb alkotóelemre, a benne lévő mézre hívom fel a figyelmet, mely [[M/MISZ\|MISZ]] címnél is előjött, Plinius [[S/Szíriusz\|Szíriusz]] mézzel való kapcsolatba hozatala kapcsán (itt csak magyarul adom):  
-> Furcsa módon Plinius a Szíriuszt is a méz eredetével hozta összefüggésbe a felemelkedése idején:
-> Ez az anyag a levegőből keletkezik, főleg a csillagképek kelésekor, és különösen akkor, amikor a Szíriusz ragyog... (A természetrajz XI. könyv 12.)
-> És minőségével és édességével is!  
-> Ha a mézet a Szíriusz felkelésekor vesszük, és ha a Vénusz, a Jupiter vagy a Merkúr felemelkedése történetesen ugyanarra a napra esik, ahogy ez gyakran előfordul, az anyag édessége és az az erénye, amellyel rendelkezik, hogy az embereket életre kelti, nem marad el azoktól, amelyeket az istenek nektárjának tulajdonítanak. (A természetrajz XI. könyve 14.)  
+Furcsa módon Plinius a Szíriuszt is a méz eredetével hozta összefüggésbe a felemelkedése idején:
+Ez az anyag a levegőből keletkezik, főleg a csillagképek kelésekor, és különösen akkor, amikor a Szíriusz ragyog... (A természetrajz XI. könyv 12.)
+És minőségével és édességével is!  
+Ha a mézet a Szíriusz felkelésekor vesszük, és ha a Vénusz, a Jupiter vagy a Merkúr felemelkedése történetesen ugyanarra a napra esik, ahogy ez gyakran előfordul, az anyag édessége és az az erénye, amellyel rendelkezik, hogy az embereket életre kelti, nem marad el azoktól, amelyeket az istenek nektárjának tulajdonítanak. (A természetrajz XI. könyve 14.)  
 
 Úgy tűnik tehát, hogy az egyes összetevőknek jelentősége – már maga a [[K/Kutya\|kutya]] elnevezés [[S/Szíriusz\|Szíriussz]]al való kapcsolatán túl – abban áll, hogy a más (általán törzsi társadalmi) népeknél is gabonaszemekből álló [[T/Tejút\|Tejút]] ilyenkor [[K/Karácsony\|Karácsony]]kor függőlegesen áll és Szíriusz a Nappal és Földdel vonalban.  
 A [[M/Mák\|mák]] lehet Magorra utaló, vagy a mákszemek a búzaszemekhez hasonlóan a Tejutat alkotó csillagokat jelképezik. [Ezen](https://en.wiktionary.org/wiki/kutia) és [ezen](https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%82%D1%8F#Ukrainian) oldalon foglalkoznak magukkal az elnevezésekkel.  
