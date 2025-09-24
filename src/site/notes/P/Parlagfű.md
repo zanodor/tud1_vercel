@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Parlagfű/","title":"Parlagfű","created":"2024-05-14T14:04","updated":"2025-09-22T23:00"}
+{"dg-publish":true,"permalink":"/P/Parlagfű/","title":"Parlagfű","created":"2024-05-14T14:04","updated":"2025-09-24T13:45"}
 ---
 
 # Parlagfű
