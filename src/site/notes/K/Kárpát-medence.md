@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2025-09-21T18:13"}
+{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2025-09-24T13:40"}
 ---
 
 
@@ -283,9 +283,7 @@ Erre az időszakra vonatkozóan ...
 >
 > 1\.\ században: Római Birodalom kiterjeszti hatalmát a Duna vonaláig, elfoglalva a kelták által uralt területeket. Szarmaták vonulnak az Alföldre és a Felvidékre. Velük együtt egyes "keleti- és északi kárpáti" csoportok is visszatérnek. Germán törzsek elérik az É-Kárpátok helyvidékét. Római nyomásra a dákok visszaszorulnak. "Meotisi-kárpátiak" pontusi, majd római uralom alá kerülnek.  
 > 2-4.\ században: Északon a szarmaták a Visztula-folyóig hatolnak. Az "észak-kárpáti" \[vegier\] népesség szarmata uralom alá kerül. Szarmaták egy része elfoglalja az Alföldet és Erdélyt, részben délebbre (Moesiába) települnek, egyes csoportok dunántúli római provinciákat támadnak. Kárpátaljától Erdélyig gót és vandál törzsek kerülnek hatalomra. Ellenük, a Kárpát-medencei szarmaták és "helyi-kárpátiak" védőárok-rendszert építenek (Csörsz-árka). "Keleti-kárpáti", és "meotisi-kárpáti" népcsoportok nagy része gót, majd hun fennhatóság alá kerül.  
-
-#### Bakk István Miért itt Farkasinszky Tibortól idéz ismét:  
-
+> 
 > A harmadik hullámban a hunokkal jött magyarok érkeztek a Kárpát-medencébe, az északi ágból a mater nép, valamint rokon nép: a székely-magyarok 2/b nemzetségei a 4-5. században.  
 
 #### Remete Farkas László Magyarok eredete...  
