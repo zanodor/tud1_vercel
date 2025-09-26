@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2025-09-24T13:41"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2025-09-27T01:43"}
 ---
 
 
@@ -17,10 +17,13 @@ A **csalás művészeté**ről [[D/Dialektika\|dialektika]] bevezető soraiban i
 Az alábbiakban a [[S/Sátán\|Sátán]] **hatalomtechnikai eszközei**ről lesz szó, külön alcímek alatt, nemcsak a megtévesztésről.  { #ypmbnt}
 
 
-Az [alábbi](https://youtu.be/Vlu5QxrwHEs) ÁKTV műsorban Czékus Jób beszél arról, hogy egyes tévéműsorokat úgy készítenek el, hogy a nemzetérzelmű embert szólítják meg, 60-80%-ban az igazat látszanak mondani és belekevernek olyan torzításokat, hazugságokat, hogy az egészről végül kiderül, hogy az ellenségeink nézőpontját akarja ránk erőltetni, belénk nevelni. Ha az ember 10-ből 6-8 dolgot hall, amiről érzi, tudja, hogy igaz lehet, akkor azt gondolja, hogy a többi is. Ami az egészben érdekes, hogy éppen egy nappal ezen műsor előtt is ezt a kritikát fogalmaztam meg a csatorna-üzelmeltető felé:  
-> Érdekes "tájszólással" beszélsz. Végigfutottam a palettád. A bevált módi, hogy 80%-a az anyagnak (másoknál is) kvázi közérdekű, olyan, amilyen a világ bármely helyén bármilyen konteós fórumon megjelenhet, aztán a maradék 20%-ban Németh Sándor unokaöccseként operálva magyartalan módon disszektálod a Bibliát.  
+Az [alábbi](https://youtu.be/Vlu5QxrwHEs) ÁKTV műsorban Czékus Jób beszél arról, hogy egyes tévéműsorokat úgy készítenek el, hogy a nemzetérzelmű embert szólítják meg, 60-80%-ban az igazat látszanak mondani és belekevernek olyan torzításokat, hazugságokat, hogy az egészről végül kiderül, hogy az ellenségeink nézőpontját akarja ránk erőltetni, belénk nevelni. Ha az ember 10-ből 6-8 dolgot hall, amiről érzi, tudja, hogy igaz lehet, akkor azt gondolja, hogy a többi is.  
+
 
 [Ezen](https://www.youtube.com/watch?v=cqfShBeC6fI) ÁKTV műsorban János betelefonáló mondja a cigány származású Oláh Sándorról, hogy "a mondandójának helyzetértékelési fele akár rendszerint teljes igazságok elmondásán is alapulhat – mert most már ők ezt is megtehetik, hogy bizonyos igazságokat kimondjanak \[...\] de olyan célokat fogalmaz meg, az igazságokra alapozva, ami lehetetlenre irányul."  
+
+Szokták a pszichológiából ismert *priming* kifejezést is használni. Pl. [ezen](https://videa.hu/videok/nagyvilag/250905cn-uzenet-a-z-generacionak-magyar-X9LoL9WleIWatii9?start=2024) helyen Kubínyi Tamás is, de a marketing kontextusban.  
+Az [előfeszítés](https://hu.wikipedia.org/wiki/El%C5%91fesz%C3%ADt%C3%A9s_(pszichol%C3%B3gia)) fordítást kicsit szerencsétlennek tartom, lehetne simán előkészítésnek nevezni. A priming nyilván akkor káros, ha szándékos megtévesztés vagy manipuláció eszköze: pl. az előadó szándékosan kihasználja a hallgatóban már meglévő pozitív asszociációt és reakciót (ismerős dolgok hallatán -> taps), hogy aztán ezt a pozitív reakciót átvigye egy olyan tartalomra, aminek igazságtartalmáról ill. potenciálisan káros hatásairól már nincs meggyőződve. Itt már van egy tudatos szándék a hallgató viselkedésének vagy véleményének manipulálására, kihasználva a korábban beépített pozitív érzéseket vagy reflexeket.  
 
 Kontrollált oppozíciónak hívta Max Igan Alex Jonest is. Azaz ezek a megmondó emberek is, ahogy egyáltalán a másik oldal is, mindig ugyanazon háttérből irányítottak.  
 
@@ -115,7 +118,7 @@ A Covid-terror során is azt állítják nekünk, hogy a rendelkezések értünk
 
 [[K/Kapitalizmus\|Kapitalizmus]] és [[K/Kommunizmus\|kommunizmus]] címnél volt szó külön alcím alatt a látszólagos ellentétekről.  
 Itt is a szokásos megtévesztéses játékot játszották le. Két táborba terelni a csordát. Látszólag ellentétesek, de összejátszanak. Ahogy Facsar Imre írja/mondja egy helyen:  
-A kommunista pénzmaffia végig összejátszott a kapitalistával, hiszen eredetileg is úgy tervezték. Ezt Trockíij le is írta a naplójában 100-évvel ezelőtt. Lásd Vladimir Stepin könyvét "A cionizmus természete" címmel.  
+> A kommunista pénzmaffia végig összejátszott a kapitalistával, hiszen eredetileg is úgy tervezték. Ezt Trockíij le is írta a naplójában 100-évvel ezelőtt. Lásd Vladimir Stepin könyvét "A cionizmus természete" címmel.  
 
 Kubínyi Tamás is egy műsorában saját maga írásából olvassa fel: a közvéleménynek azt állítják/tanítják, hogy a kommunizmus a munkások mozgalma azért, hogy elpusztítsák a [[K/Kapitalizmus\|kapitalizmus]]t. Valójában ez a két rendszer ugyanazon kézből indított és irányított volt.  
 [Ezen](https://en.wikipedia.org/wiki/L._Fry) oldalon is szerepel, hogy Leslie Fry alias Paquita Louise de Shishmareff Waters Flowing Eastward (1931) című írásában is bizonyítani igyekezett, hogy a Cion bölcseinek jegyzőkönyvében megfogalmazták hogy a két rendszer látszólagos ellentétet képez:  
@@ -132,14 +135,15 @@ Ahogy [[B/Bal és jobb\|bal és jobb]] címnél Pap Gábor adatai alapján is l�
 
 [Ezen](https://www.youtube.com/watch?v=oNULoLMuX8w) Ne Legyen Áldozatos videóban 14:20-nál úgy fogalmaz, hogy a hazugság nem az igazsággal szemben fogalmazódik meg, hanem ahhoz képest derékszögben (használja korábban a lólépés kifejezést is), de a gond az (a csalók leleplezésénél), hogy nem tudjuk, hogy hol tért le az útról. Ha szembe hazudna, könnyebb lenne, mert ugyanazon a pályán vagyunk, szembe jönne, egyszerűbb is lenne.  
 [Ezen](https://youtu.be/I58ziLg1GZc) Szántai Lajos Mágusok című 2012-es négyrészes előadássorozat 1. rész című videóban 43:30-nál mesemotívumainkat elemezve mondja Szántai Lajos, hogy a mesékben a [[S/Sárkány\|sárkány]] szemtől-szembe harcol ("gyere ki a szérűre, birkózzál meg velem"), míg a [[B/Boszorkány\|boszorkány]] mindig máshonnan, valamilyen sötét, élettelen helyről (a fa tetején gubbaszt példájáról az [[E/Észak\|észak]] jut eszembe). \[Folytatást lásd [[V/Vízi Péter és Vízi Pál mese\|Vízi Péter és Vízi Pál mese]].\]  
-Ez a derékszög megfogalmazás megint arra a keresztirányra hajaz, melyrel [[B/Bal és jobb\|bal és jobb]] címnél Antal István írása kapcsán is utaltunk.  
+Ez a derékszög megfogalmazás megint arra a keresztirányra hajaz, melyre [[B/Bal és jobb\|bal és jobb]] címnél Antal István írása kapcsán is utaltunk.  
 De éppen [[B/Bal és jobb\|bal és jobb]] címnél szerepelt ...
 
 #### Pap Gábor...
 
 ...alábbi passzusa is (a 2006. augusztus 7-11-ig tartott XI. Magyar Őskutatási Fórumról az Ősi Gyökér 2006/3. számában számolnak be; e cikkben szerepel Pap Gábor előadásának összefoglalója (teljességében lásd [[T/Tudomány\|tudomány]] címnél); onnan való):  
 > A két agyféltekénk működésével világította meg az ember különleges képességét, mely szerint nemcsak a realitások regisztrálására vagyunk képesek (bal agyfélteke), hanem az érzékelhető világon túli rezgések, jelek, képek, üzenetek és ismeretek felfogására is (jobb agyfélteke). Ha csak az egyik oldalt, a kézenfekvőt, az evilágit szolgáljuk, elveszítjük a lelki, szellemi szabadságunkat, a független gondolkodásmódunkat, s a tudományosság nagyképűségével leplezett szolgai állapotba süllyedünk. Ez az út vezette az akadémiát a magyartalanítás vonalára. Ez a magyartalanító módszer nem szemtől szembenállva működik, hanem lóugrásszerűen. A hazugság ellentéte ugyanis nem az igazság, hanem egy ellentétes tartalmú hazugság.  
-> Ahogy Pap Gábor mondja több előadásában: beöltöztetnek minket két tábort képviselően két színbe és megvárják, amíg lövünk egymásra (kér minket: "ne lőjünk egymásra!").  
+
+Ahogy Pap Gábor mondja több előadásában: beöltöztetnek minket két tábort képviselően két színbe és megvárják, amíg lövünk egymásra (kér minket: "ne lőjünk egymásra!").  
 
 A bilaterális technika már többször szóba került. [[F/Finnugor elmélet\|Finnugor elmélet]] címnél is, hogy "választhatsz a szamojéd/mansi vagy török eredet között." Vagy amikor egy (talán Christopher Hutton Linguistics and the Third Reich – Mother Tongue Fascism, Race and the Science of Language című) könyvben nyelvészeti alapon lefektetik, hogy a világegyetem vagy indogermán, vagy zsidó, de legalábbis ezen két félből állhat. A politikai választhatsz bal és jobb oldalból témáról volt szó.  
 Itt még csak a tudományos/vizsgálati vonal kapcsán arról, hogy hogyan járnak el.  
@@ -160,10 +164,10 @@ A legnagyobb "cover-up" az elmúlt 2000 évben a szkíta pogány kereszténység
 [Ezen](https://youtu.be/GlqDV7MM-7s) saját csatornára feltett videóban (pár perc az egész) Kubínyi Tamás elmondja, hogy [[D/Democracy\|demokrácia]] sohasem volt.  
 Ugyanezt mondja Drábik János: demokrácia nincs és nem is volt; a demokrácia káosz (a háttér illetve meghatározó uralkodási forma a despotizmus, az önkényuralom).  
 A demokrácia olyan fogalom, mint a (szkíta-)[[K/Kereszténység\|kereszténység]]: mögé lehet bújni a diktatúra képviselőinek és a zsidóknak.  
-[Ezen](https://www.bitchute.com/video/K6HkO8QanR5g/) ÁKTV műsorban Kubínyi Tamás is említi, hogy a [[D/Democracy\|demokrácia]] egy fedőterv a globális pénzdiktatúrának.  
+[Ezen](https://www.bitchute.com/video/K6HkO8QanR5g/) ÁKTV műsorban Kubínyi Tamás is említi, hogy a demokrácia egy fedőterv a globális pénzdiktatúrának.  
 A rendszerváltás \["gengszter-váltás"\] fogalma hasonlóan működik: az emberek azt gondolják, a [[K/Kommunizmus\|kommunizmus]]nak vége, csak éppen más néven fut. A megtévesztés egyik formája, hogy *bejelentik, hogy egy adott címke alatt futó ideaológiának, korszakának vége*, holott nagyon is folytatódik. Kubínyi Tamás is szokta mondani, hogy amikor a kommunizmusban ha valamiről kiadták, hogy vége, az azt jelentette, hogy most kezdődik csak igazán.  
 
-A fedősztori kifejezést ismerjük. Az [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél említett Max Igan féle videóban 22:30-nál is arról volt szó, hogy a spanyol judeo-keresztény hódítók nem az aranyat ellopni mentek oda, hanem kiirtani az ősi nyelven beszélőket. Az arany, mint kézenfekvő ösztönző ellopása csak figyelemelterelés (*red herring*-ről is volt itt szó más alcím alatt), a fedősztori volt.  
+A *fedősztori* kifejezést ismerjük. Az [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél említett Max Igan féle videóban 22:30-nál is arról volt szó, hogy a spanyol judeo-keresztény hódítók nem az aranyat ellopni mentek oda, hanem kiirtani az ősi nyelven beszélőket. Az arany, mint kézenfekvő ösztönző ellopása csak figyelemelterelés (*red herring*-ről is volt itt szó más alcím alatt), a fedősztori volt.  
 
 ### Levédés
 
@@ -191,7 +195,7 @@ Kubínyi Tamás számtalanszor elmondja (legutóbb Marosvásárhely magyar de Hi
 
 ## Figyelemelterelés – red herring
 
-A Kubínyi Tamás egyik műsorában bejátszott Dr. Bardócz Zsuzsanna biokémikus által bemutatott, angolul red herring-nek nevezett módszer a terelés, azaz figyelemelterelés módszere. Ha van valami komoly problémánk vagy egy nagyon jó megoldásunk, amiről nem akarják, hogy az emberek tudjanak és beszéljenek, akkor bevezetnek egy álproblémát, vagy egy kisebb jelentőségű problémát, és egy álmegoldást, vagy csak egy részmegoldást ajánlanak fel, és hagyják, hogy erről beszéljenek, vitatkozzanak az emberek (mondjuk leszállítani egy Bill Gates vagy Varga Judit válást egy férfi-nő anyagi szintre, amikor komoly dolgok vannak a háttérben). Így aztán mindig el tudják érni a céljukat: az információ eltussolása (lásd *elhallgatás*), vagy az emberek gondolkodásmódjának megváltoztatása.  
+A Kubínyi Tamás egyik műsorában bejátszott Dr. Bardócz Zsuzsanna biokémikus által bemutatott, angolul *red herring*-nek nevezett módszer a terelés, azaz figyelemelterelés módszere. Ha van valami komoly problémánk vagy egy nagyon jó megoldásunk, amiről nem akarják, hogy az emberek tudjanak és beszéljenek, akkor bevezetnek egy álproblémát, vagy egy kisebb jelentőségű problémát, és egy álmegoldást, vagy csak egy részmegoldást ajánlanak fel, és hagyják, hogy erről beszéljenek, vitatkozzanak az emberek (mondjuk leszállítani egy Bill Gates vagy Varga Judit válást egy férfi-nő anyagi szintre, amikor komoly dolgok vannak a háttérben). Így aztán mindig el tudják érni a céljukat: az információ eltussolása (lásd *elhallgatás*), vagy az emberek gondolkodásmódjának megváltoztatása.  
 
 Új probléma/vizsgálati elem fókuszba állítása (arrébb csúsztatás), figyelemelterelés témájában [ezen](https://youtu.be/XPS5kTZiiZM) Ne Legyen Áldozatos Szent István király uralkodása 4. rész című videóban Pap Gábor is szól.  
 Szent István koronázási palástjáról szólva 17:00 után említi az egyik (az országalmát tartó – valójában nem tartja, az a kéz felett lebeg) kéz kapcsán, hogy az elemzők szerint mintha 6 ujja lenne egyik kezén: beültetik az emberek számára, hogy akkor az egész témában ez legyen a legfontosabb rész: hogy táltoskirály volt! Holott valójában utólag hímeztek bele (hamisították a palástot).  
@@ -388,13 +392,13 @@ Ahogy friss műsoraiban Kubínyi Tamás is felhozza, a hazug ember felveszi az i
 
 ### Bizalomba férkőzés és azzal való visszaélés
 
-Ahogy a gyermek viselkedését tükrözi az ember, ahogy hozzá leguggolva gyereknyelven gügyög neki, úgy épít ki rapportot a tanár vagy a bizalomba férkőzni igyekvő személy. Aztán ezzel a bizalommal visszaél. Ez egy másik ismert eset. Például a Hit Gyűlekezete sátánista szektavezér az odajáró hívek/megtévesztettek számára lelki-spirituális vezető de nem az. Erről a tömegmanipulációról lesz szó alant.  
+Ahogy a gyermek viselkedését tükrözi az ember, ahogy hozzá leguggolva gyereknyelven gügyög neki, úgy épít ki rapportot a tanár vagy a bizalomba férkőzni igyekvő személy. Aztán ezzel a bizalommal visszaél. Ez egy másik ismert eset. Például a Hit Gyülekezete sátánista szektavezér az odajáró hívek/megtévesztettek számára lelki-spirituális vezető de nem az. Erről a tömegmanipulációról lesz szó alant.  
 
 ## A tömeg manipulációja
 
 Azt már a Zion bölcseinek jegyzőkönyvébe lapozgatással kiderítettem, hogy az emberiség ellenségei feltérképezték az emberi pszichét. Pontosan tudják, hogyan kell őket manipulálni. [[P/Politikai korrektség\|Politikai korrektség]] és [[T/Televízió\|televízió]] címnél is volt szó tele-manipulációról.  
 
-[Ezen](https://www.youtube.com/watch?v=_Ss4RC1gd7A) ÁKTV műsorban 51:10-nél Kubínyi Tamás nagyszerűen látja és mondja, hogy **a tömeg lelkületében leginkább a kisgyerekhez hasonlítható**, akiknek nem egyetemi képleteket és tanulmányokat kell bemutatni, hanem egyszerű, érzelmekre ható dolgokat. Ahogy a Nagy francia forradalomban ezt a hosszú kenyeret, a bagetett használták fel...először kiéheztették a párizsi népet, majd pedig a forradalmárok elkezdték osztani. És persze hogy ez életben maradás ösztöne diktál és persze hogy a párizsi nép támogatta a forradalmat (már azon az áron, hogy aznap ehessen). Ezekkel az egyszerű módszerekkel lehet manipulálni a tömeget. \[[[Francia forradalom\|[Francia forradalom]] címhez is betéve.\]  
+[Ezen](https://www.youtube.com/watch?v=_Ss4RC1gd7A) ÁKTV műsorban 51:10-nél Kubínyi Tamás nagyszerűen látja és mondja, hogy **a tömeg lelkületében leginkább a kisgyerekhez hasonlítható**, akiknek nem egyetemi képleteket és tanulmányokat kell bemutatni, hanem egyszerű, érzelmekre ható dolgokat. Ahogy a Nagy francia forradalomban ezt a hosszú kenyeret, a bagetett használták fel...először kiéheztették a párizsi népet, majd pedig a forradalmárok elkezdték osztani. És persze hogy ez életben maradás ösztöne diktál és persze hogy a párizsi nép támogatta a forradalmat (már azon az áron, hogy aznap ehessen). Ezekkel az egyszerű módszerekkel lehet manipulálni a tömeget. ([[F/Francia forradalom\|Francia forradalom]] címhez is betéve.)  
 
 Lásd még [[T/Tömegpszichózis\|tömegpszichózis]].  
 
@@ -445,7 +449,7 @@ De hát ez az inverz felfogás mindenhol ott van, például [ezen](https://qr.ae
 > Ne használd egyik terméküket sem (vagy csak addig, amíg nem vagy igazán talpraesett és okos az álságos módszereikkel szemben), és egyszerűen mondj nemet.  
 > Mondj nemet a fegyverkezésre (háborúban) is. Ti csak a gyalogjaik vagytok egy sakktáblán, amit már régen darabokra kellett volna törni.  
 > Ma a dezinformációt valódi információként, az igazságkeresők dolgait pedig spamként tüntetik fel. Hadd emlékeztesselek, hogy **Istent is kidobták és a Sátánnal helyettesítették korábban. Ezért van a zsidó-kereszténység**; ez felelős több százmillió ember tömeges meggyilkolásáért, akiknek se autójuk, se okostelefonjuk, se lexikonjuk nem volt. Nem nagy veszteség, igaz? Nos, hadd emlékeztesselek titeket, vannak olyan tervek, hogy hamarosan ti sem rendelkeztek semmivel. A Sátán a főnök, és te neki drukkolsz, anélkül, hogy valójában tudnád, hogy így van. Itt van az információ. A leghasznosabb információ, amit egész életedben kaptál.  
-- Használtam a szövegben az irónia kifejezést. Ez is érdekes, mert éppen az inverz gondolkodásra mutat rá. Hogy úgy tűnik, mintha egyetértenék, de közben kiderül, hogy nem. A szerepek megcseréléséről van szó.  
+- Használtam a szövegben az irónia kifejezést. Ez is érdekes, mert éppen az inverz gondolkodásra mutat rá. Hogy úgy tűnik, mintha egyetértenék, de közben kiderül, hogy nem. A szerepek megcseréléséről van szó.
 
 Mindennek a kiindulójaként ott van az Isten és Sátán küzdelme (ahogy Max Igan is jól érzékeli, jelenleg egy spirituális háború zajlik a Földön) (üdvtörténet szavuk nyilván nincs). Ahogy láttuk, az ördög neve is istenéből jön létre.  
 Maga a megtévesztés szó mentén pedig azon [[T/Téved\|téved]] és [[T/Tévely\|tévely]] (illetve [[T/Téboly\|téboly]]) szavakat lásd, melyek egyértelműen [[D/Devil\|devil]] vonatkozásúak.  
