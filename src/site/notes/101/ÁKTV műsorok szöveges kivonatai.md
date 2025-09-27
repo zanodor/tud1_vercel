@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-09-27T22:14"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-09-27T22:23"}
 ---
 
 
@@ -7,19 +7,24 @@
 
 
 
-<small>**Megjegyzés**: A Google Gemini-s összefoglalók a Google (YouTube) által automatikusan rendelkezésre bocsátott transzkripciók alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli problémák, melyek mindegyikét nem veszem észre, hogy javíthassam. Kisbetűs vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag," amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattintva ellenőrizni a videón, hogy mi szerepelt az eredeti szövegben.</small>
+<small>**Megjegyzés**: A Google Gemini-s összefoglalók a Google (YouTube) által automatikusan rendelkezésre bocsátott feliratozás alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli problémák, melyek mindegyikét nem veszem észre, hogy javíthassam. Kisbetűs vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag", "az előadó szerint", amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattintva ellenőrizni a videón, hogy mi szerepelt az eredeti hang- ill. képanyagban.</small>
 
 <small>**Megjegyzés 2**: Újabban (20250925 óta?) a Rumble-ra tett videók nem játszhatók le, így Videa linkeken megy az időbélyegre kattintásokkal a videó.</small>
 
 <small>**Megjegyzés 3**: A web app keresője nem keres és nem talál ezen összefoglalókban!</small>
 
-**Videók archivált összefoglalókkal**:  
+**Videók archivált összefoglalókkal**:   
 
 [250926CN! KIS TEMPLOMA](https://videa.hu/videok/nagyvilag/250926cn-kis-temploma-kubinyi-tamas-magyar-8Kh7Z9PXiAg1MERi)  [https://archive.ph/lMkfX](https://archive.ph/lMkfX)
 [250925CN! A BRENTAI HÁBORÚ](https://videa.hu/videok/nagyvilag/250925cn-a-brentai-haboru-kubinyi-magyar-jI1cy4rKIoS6S08c)  [https://archive.ph/HDJbT](https://archive.ph/HDJbT)
 [250924CN! STÍLUS](https://videa.hu/videok/nagyvilag/250924cn-stilus-kubinyi-tamas-aktv-magyar-jL7dOK7yTSPtI1Wg)  [https://archive.ph/rHquZ](https://archive.ph/rHquZ)
 [250923CN! BELZEBUB-VÁD](https://videa.hu/videok/nagyvilag/250923cn-belzebub-vad-kubinyi-tamas-magyar-Zaqkv3o6tXmsxN4P)  [https://archive.ph/V7cDG](https://archive.ph/V7cDG)
 [250922CN! TANMESE](https://rumble.com/v6zblny-250922cn-tanmese-kubnyi-tams-ktv.html)  [https://archive.ph/ZYoMz](https://archive.ph/ZYoMz)
+[250919CN! TUTSEKOLÁS](https://rumble.com/v6z6ti0-250919cn-tutsekols-kubnyi-tams-ktv.html)  [https://archive.ph/3YvGO](https://archive.ph/3YvGO)
+[250918CN! NEM TÁNCDAL](https://rumble.com/v6z5960-250918cn-nem-tncdal-kubnyi-tams-ktv.html)  [https://archive.ph/AciHM](https://archive.ph/AciHM)
+**[250917CN! KÖZÜGY](https://rumble.com/v6z3bg0-250917-kzgy-kubnyi-tams-ktv.html)**  **[https://archive.ph/UD5wL](https://archive.ph/UD5wL)**
+[250916CN! MATUSKÁK](https://rumble.com/v6z1mbs-250916cn-matuskk-kubnyi-tams-ktv.html)  [https://archive.ph/i72AT](https://archive.ph/i72AT)
+[250915CN! SÁTÁNI](https://rumble.com/v6yzsmo-250915cn-stni-kubnyi-tams-ktv.html)  [https://archive.ph/sYX2d](https://archive.ph/sYX2d)
 [250912CN! JÓZSEF ATTILA](https://rumble.com/v6yuxhi-250912cn-jzsef-attila-kubnyi-tams-ktv.html)  [https://archive.ph/GBKBS](https://archive.ph/GBKBS)
 [250911CN! KIRK-GYILKOSSÁG](https://rumble.com/v6yt4ey-250911cn-kirk-gyilkossg-kubnyi-tams-ktv.html)  [https://archive.ph/4QQ5H](https://archive.ph/4QQ5H)
 [250910CN! MAGYAR MÉRCE](https://rumble.com/v6yr7y2-250910cn-magyar-mrce-kubnyi-tams-ktv.html)  [https://archive.ph/d737A](https://archive.ph/d737A)
