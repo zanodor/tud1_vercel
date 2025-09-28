@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2025-09-24T12:50"}
+{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2025-09-28T21:17"}
 ---
 
 
@@ -13,7 +13,7 @@ Először is a névhez használati utasítás. A [[F/Finnugor elmélet\|finnugor
 > Az ugor szót nem finnugor, ill. ugor = magyar, manysi (vogul) és hanti (osztják) nép és nyelv szokásos értelmezésében, hanem a turin \[gondolom turáni akár lenni\] eredetű mitológiai értelmében használjuk.  
 
 Az éppen ezen cikkben említett Gombocz Zoltán féle elmélet cáfolatát bemutató, [[J/Julianus barát\|Julianus barát]] címnél említett Ősi Gyökér 1974. 2-6. számában megjelentetett cikkben (a cáfolatot képviselő Halasi Kun Tibor bizonyítása után következő adatként) ugor így (amolyan "[[I/Idegen\|idegen]]" jelentésű szláv szóként) kerül azonosításra Badiny és társai által:  
-> [[B/Budenz József\|Budenz]] a török "ogur-oguz" szavakat is az ugor szó variációinak tekintette, és aki nem tudta, hogy az ugor szó az ősi szláv szóból származik, melyet a szlávok is olyan értelemben használtak mint a görögök a [[B/Barbár\|barbár]]-szót – az északi rokonnépek egyik ágát önkényesen \[[[Jugria\|[Jugria]] nyomán?\] "ugor"-nak nevezte el, pedig még a "finn" szó is svéd \[nem svéd, hanem hun-germán\] eredetű szó! A vogulok (manysik) a 16. században, amikor fejedelmüket az orosz írott emlékek még – "Ugorszkij veliki knyaz" – (A vogulok nagyfejedelme!) néven nevezték, sokkal délibb területen éltek, mint ma, mert a 16. század óta állandóan északibb területekre vonulnak.  
+> [[B/Budenz József\|Budenz]] a török "ogur-oguz" szavakat is az ugor szó variációinak tekintette, és aki nem tudta, hogy az ugor szó az ősi szláv szóból származik, melyet a szlávok is olyan értelemben használtak mint a görögök a [[B/Barbár\|barbár]]-szót – az északi rokonnépek egyik ágát önkényesen \[nyilván [[J/Jugria\|Jugria]] név nyomán?\] "ugor"-nak nevezte el, pedig még a "finn" szó is svéd \[nem svéd, hanem hun-germán\] eredetű szó! A vogulok (manysik) a 16. században, amikor fejedelmüket az orosz írott emlékek még – "Ugorszkij veliki knyaz" – (A vogulok nagyfejedelme!) néven nevezték, sokkal délibb területen éltek, mint ma, mert a 16. század óta állandóan északibb területekre vonulnak.  
 > A szlávok azonban [[I/Idegen\|idegen]]t jelentő ősi\[?\] szavukkal nemcsak a vogulokat, hanem a barna, mongolos népeket, s így a honfoglaló magyarokat is "ugornak" nevezték.  
 - Az [[O/Oguz\|oguz]] nevet lásd még külön.  
 
@@ -129,7 +129,7 @@ Azt Magyar Adorján Ősműveltségéből is tudjuk, hogy nedvesség mindig nőis
 #### Zentai Ákos Méd kulcs őstörténetünk megfejtéséhez...
 
 ...című cikkében magyar alakú (azaz Magyar Ilonára, a Tejútra utaló) szavakat talált más nyelveken nedves jelentéssel (ő a méz fogalmából indul ki; tökéletes találat, hiszen [[H/Hímség és nőiség\|hímség és nőiség]] címnél is levezettük, milyen szavak hímségiek és nőiségiek; [[N/Nether\|nether]] címnél is volt szó erről):  
-> A méz med változata az eredete az édes italnak a nedünek és ennek érezhető formája, ha valami nedves. Nagyon érdekes, hogy ebben a görög, balti és szláv nyelveken újabb visszaigazolást kapunk. A nedves délszláv nyelveken `mokar`, bolgárul `mokür`, lengyelül `mokro`, csehül, szlovákul `mokry`, észtül `marg`, finnül `marka` és **görögül ugrosz**. Ez mind a makar, magar népre utal. A görög ugrosz \[valóban, ellenőriztem: ezt jelenti `ugrósz`\] is a magyarokra használt kifejezés.  
+> A méz med változata az eredete az édes italnak a nedünek és ennek érezhető formája, ha valami nedves. Nagyon érdekes, hogy ebben a görög, balti és szláv nyelveken újabb visszaigazolást kapunk. A nedves délszláv nyelveken `mokar`, bolgárul `mokür`, lengyelül `mokro`, csehül, szlovákul `mokry`, észtül `marg`, finnül `marka` és **görögül `ugrosz`**. Ez mind a makar, magar népre utal. A görög ugrosz \[valóban, ellenőriztem: ezt jelenti `ugrósz`\] is a magyarokra használt kifejezés.  
 
 ## Ugor-magyar nyelv
 
