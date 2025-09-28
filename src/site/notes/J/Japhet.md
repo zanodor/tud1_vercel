@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Japhet/","title":"Japhet","tags":["Englishtexttranslated"],"created":"2023-10-23T05:34","updated":"2024-10-25T22:03"}
+{"dg-publish":true,"permalink":"/J/Japhet/","title":"Japhet","tags":["Englishtexttranslated"],"created":"2023-10-23T05:34","updated":"2025-09-28T21:33"}
 ---
 
 
