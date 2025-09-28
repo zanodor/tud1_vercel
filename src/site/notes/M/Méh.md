@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2025-09-24T13:44"}
+{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2025-09-28T21:22"}
 ---
 
 
@@ -84,7 +84,7 @@ Várkonyi Nándor [[P/Patala\|Patala]] címnél álló sorai ide is illenek az �
 
 Mivel a méh nemcsak az Artemisz-szobron szerepel, hanem külön érméken is (más érmék szarvas-állatalakját mutatják), ez is bizonyítéka lehet annak, hogy i.e. 300-ban és korábban még magyarul beszélő illetve értő emberek alkották meg a kultuszt és verték az érméket. Ugyanis csak magyar nyelven hordozza méh ezen kettős jelentést. Ha az itt szereplő két érme ugyanazon érme két oldala lenne, az lenne igazán csak az igazi, mert rámutatna, hogy az alant még taglalt [[S/Szarvas\|szarvas]] méhéről van szó.  
 ![assets/Méh_image3.png|fix_dark fix_light|840](/img/user/M/assets/M%C3%A9h_image3.png)  
-Tulajdonképpen arra is rámutatna, hogy az akkori emberiség már előre tudta/várta a mayák által is kiszámolt születésnapot (lásd [[G/Galactic centre\|Galactic centre]]).  
+Tulajdonképpen arra is rámutatna, hogy az akkori emberiség már előre tudta/várta a mayák által is kiszámolt születésnapot (lásd [[G/Galactic centre\|Tejútközpont]]).  
 
 ## Anyaméh
 
