@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kinetic/","title":"Kinetic","created":"2024-11-23T05:18","updated":"2025-09-24T13:50"}
+{"dg-publish":true,"permalink":"/K/Kinetic/","title":"Kinetic","created":"2024-11-23T05:18","updated":"2025-09-28T21:26"}
 ---
 
 
@@ -29,10 +29,10 @@ Hogy a (bináris?) Naprendszerünk mozgatásáért a Kin/Kün/Kan (sárkan = [[S
 Lásd még kozmikus széllel kapcsolatban viszont [[F/FU\|FU]].  
 
 
-Kinetic-ről szó esett legutóbb [[K/Kezdet és vég\|kezdet és vég]] címnél is.  
 Lásd még összefoglalást [[S/Színkódok\|színkódok]]. Lásd még Péterfai János írását [[M/MAR\|MAR]] etimonnál: a színek megoszlása a Nap kelet>nyugat irányába tett mozgásán is alapszik.  
 
-[[C/Caduceus\|Caduceus]] illetve [[K/Káin\|Káin]] (lásd lábjegyzetben) címnél arról is volt szó, hogy nem-e a kion/küon = kígyó (Magyar Adorján adata szerint kígyó szavunk népi alakja kió, régi kion = csúszó jelentésű) mozgásáról van szó.  
+[[C/Caduceus\|Caduceus]] illetve [[K/Káin\|Káin]] (lásd lábjegyzetben) címnél járva vetődött fel, hogy nem-e a kion/küon = kígyó (Magyar Adorján adata szerint kígyó szavunk népi alakja kió, régi kion = csúszó jelentésű) mozgásáról van szó. Vagyis inkább a [[K/Kezdet és vég#^ybz6sf\|kezdet és vég]] helyen található Fáy Elek féle passzus alapján kellene gondolni rá.  
+
 Ezen szóelem egyúttal azonos a [[G/Gene\|gene]] más címnél taglalt nemzést jelentő szavakkal. A nemzés nyomán jön létre az élet, és – ahogy [[I/I#I mint mozgást kifejező, életkörre utaló szócska\|i]] címnél taglaltuk – az mozog ami él.  
 
 A nemzés oldaláról vegyük figyelembe az alábbiakat is:  
