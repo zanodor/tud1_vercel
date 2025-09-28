@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated","titleandheadingonedontmatch"],"created":"2023-11-09T05:11","updated":"2025-09-24T13:43"}
+{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated","titleandheadingonedontmatch"],"created":"2023-11-09T05:11","updated":"2025-09-28T21:19"}
 ---
 
 
@@ -9,7 +9,7 @@ Fallikus.
 
 #### Magyar Adorján írja:  
 
-> Görögül `phallos` (fallosz) = hímtag, de szóvégi sz hang csak azon szóvégzés, amelyet a görögök az idegenből átvett szavakhoz is hozzá szoktak volt tenni. Ámde hiszen ezen fallo- szóval teljesen azonos a magyar `faló` szó is, márpedig úgy a [[T/Trója\|Trójá]]ról szóló regében, mint a magyar mesében is fa-lóról van szó. Ha pedig a magyar [[F/Fa\|fa]] szóhoz csak egy sz hangot teszünk hozzá, akkor is a hímtag \[[[Fasz\|fasz]]\] nevét kapjuk.  
+> Görögül `phallos` (fallosz) = hímtag, de szóvégi sz hang csak azon szóvégzés, amelyet a görögök az idegenből átvett szavakhoz is hozzá szoktak volt tenni. Ámde hiszen ezen fallo- szóval teljesen azonos a magyar `faló` szó is, márpedig úgy a [[T/Trója\|Trójá]]ról szóló regében, mint a magyar mesében is fa-lóról van szó. Ha pedig a magyar [[F/Fa\|fa]] szóhoz csak egy sz hangot teszünk hozzá, akkor is a hímtag \[ti. [[F/Fasz\|fasz]]\] nevét kapjuk.  
 
 Magyar Adorján jól láthatja a Fa-Ló kapcsolatot, de nem ismeri a [[L/Ló\|LÓ]]/[[L/LU\|LU]] többjelentésű alapszót. Fa-Lu a [[L/Lingam\|lingam]]-nál is előjött erotikus jelképként értelmezhető fatörzs, mely olykor a phallosz helyett áll (a faodú viszont mindig az [[A/Anyaméh\|anyaméh]], nyílása pedig a [[V/Vulva\|vulva]] szimbóluma; lásd férfi témában is [[F/Fa és nő\|fa és nő]]).  
 
