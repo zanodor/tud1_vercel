@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Psychopomp/","title":"Psychopomp","tags":["Englishtexttranslated"],"created":"2023-10-27T08:46","updated":"2025-09-24T13:42"}
+{"dg-publish":true,"permalink":"/P/Psychopomp/","title":"Psychopomp","tags":["Englishtexttranslated"],"created":"2023-10-27T08:46","updated":"2025-09-28T21:18"}
 ---
 
 
@@ -9,7 +9,7 @@ A pszükhopomposz a görög mitológiában a holt lelkek (haza)vezetője, lélek
 
 #### Jankovics Marcell írja:
 
-> A keresztény művészetben egyedülálló módon, a keleti egyház kutyafejjel ábrázolta \[[[Szent Kristóf\|[Szent Kristóf]]\] szentünket, a legendai magyarázat szerint azért, mert őkelme pogány korában nem vetette meg az emberhúst.  
+> A keresztény művészetben egyedülálló módon, a keleti egyház kutyafejjel ábrázolta \[ti. [[S/Szent Kristóf\|Szent Kristóf]]\] szentünket, a legendai magyarázat szerint azért, mert őkelme pogány korában nem vetette meg az emberhúst.  
 > A [[K/Kutya\|kutya]] viszont éppen azért lett a halál, az [[A/Alvilág\|alvilág]] jelképes állata, mert a tapasztalat szerint megeszi a dögöt, és ha a szükség úgy hozza, az emberi tetemet is kikezdi. A hullatakarító négylábú az egyiptomi [[A/Anubisz\|Anubisz]]ban nemesült istenné. Ozirisz szolgájaként e kutya- vagy sakál-fejű isten mérte meg az elhunyt szivét az Alvilági Ítélet Csarnokában, Ozirisz, Thot és 42 (!) másik isten jelenlétében.  
 - Lásd még erről többet [[O/Orion\|Orion]].
 
