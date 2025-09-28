@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aegis/","title":"Aegis","created":"2025-04-29T10:03","updated":"2025-09-24T13:56"}
+{"dg-publish":true,"permalink":"/A/Aegis/","title":"Aegis","created":"2025-04-29T10:03","updated":"2025-09-28T21:32"}
 ---
 
 
@@ -25,7 +25,8 @@ Oltalom, védőszárny, égisz. [[E/Ég\|Ég]] szavunkból.
 
 Jankovics Marcell kimondja a lényeget: a ránk boruló [[E/Ég\|ég]] jelképe (ég > égisz = ég fénye).  
 Másutt is szóba jön a görög szó:  
-> Aegidiust (Egyedet) Ladó János "Pajzshordozónak" fordítja, mivel a név a görög égisz (`aigisz`) "pajzs" szóra vezethető vissza. Ez illő név is a szarvasok védőpajzsához, ám ne feledjük, hogy az égisz csak átvitt értelemben jelent pajzsot. Első jelentése: "kecskebőrből való" (`aigeiosz` = "kecske" \[[[Ágas\|ágas]] címhez is betéve\]). Az eredeti "égisz", [[A/Athéné\|Athéné]] köpenye annak az [[A/Amalthea\|Amalthea]] kecskének a bőréből készült, amely egy barlangban Zeuszt táplálta tejével, s amelynek képmása az égen (a [[C/Capella\|Capella]] csillag) legfeltűnőbben ősszel ragyog. A szarvas és a kecske rendszertanilag sem áll oly messze egymástól – már az ókorban egy rendbélinek tekintették őket (III Móz 11;3) – így a neve ilyenformán is illik a (kecske)szőrcsuhát viselő remetéhez. Tegyük hozzá, Egyedet a jószág és a pásztorok védőszentjeként is tisztelték.  
+> Aegidiust (Egyedet) Ladó János "Pajzshordozónak" fordítja, mivel a név a görög égisz (`aigisz`) "pajzs" szóra vezethető vissza. Ez illő név is a szarvasok védőpajzsához, ám ne feledjük, hogy az égisz csak átvitt értelemben jelent pajzsot. Első jelentése: "kecskebőrből való" (`aigeiosz` = "kecske"). Az eredeti "égisz", [[A/Athéné\|Athéné]] köpenye annak az [[A/Amalthea\|Amalthea]] kecskének a bőréből készült, amely egy barlangban Zeuszt táplálta tejével, s amelynek képmása az égen (a [[C/Capella\|Capella]] csillag) legfeltűnőbben ősszel ragyog. A szarvas és a kecske rendszertanilag sem áll oly messze egymástól – már az ókorban egy rendbélinek tekintették őket (III Móz 11;3) – így a neve ilyenformán is illik a (kecske)szőrcsuhát viselő remetéhez. Tegyük hozzá, Egyedet a jószág és a pásztorok védőszentjeként is tisztelték.  
+- A kecske jelentésű szó [[E/Ég\|ég]] és [[A/Ágas\|ágas]] címhez is betéve.
 - Ez a passzus is jól mutatja, hogy Athéné = Tejútistennő és Amalthea (kecske-állatalakja) egy és ugyanaz.
 
 Ne feledjük a [[C/Csudaszarvas\|Csudaszarvas]] címnél szereplő passzusban szereplő nevet sem:  
