@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2025-09-24T13:52"}
+{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2025-09-28T21:28"}
 ---
 
 
@@ -34,7 +34,7 @@ Szintén a [[S/Sumér zodiákus\|sumér zodiákus]]beli (Baknak megfelelő Bakha
 
 Csatolva lásd MAS piktogramját, ami, meglepő ![assets/MAS_image1.png|fix_dark fix_light right|50](/img/user/M/assets/MAS_image1.png)  (vagy a [[M/MISZ\|MISZ]] címnél szereplő diagramba építhetősége miatt és [[S/Szarvas\|szarvas]] és a kecske témában is taglalt [[M/Magor\|Magor]] címnél írottak alapján nem is oly meglepő) módon egy [[K/Kereszt\|kereszt]]et formáz.  
 
-[[S/Suhurmasku\|Suhurmasku]] címnél ![assets/MAS_image2.png|fix_dark fix_light right|50](/img/user/M/assets/MAS_image2.png)  MAS₂ piktogramja egy élére állított \[[[Négyszögletes Föld\|négyszögletes Föld]]re utaló, [[S/Szakrális geometria\|szakrális geometria]] és [[S/Szarvas\|szarvas]] címhez is közben betett\] [[N/Négyzet\|négyzet]]tel kiegészítve kerül elő.  
+[[S/Suhurmasku\|Suhurmasku]] címnél ![assets/MAS_image2.png|fix_dark fix_light right|50](/img/user/M/assets/MAS_image2.png)  MAS₂ piktogramja egy élére állított ([[N/Négyszögletes Föld\|négyszögletes Föld]]re utaló, [[S/Szakrális geometria\|szakrális geometria]] és [[S/Szarvas\|szarvas]] címhez is közben betett) [[N/Négyzet\|négyzet]]tel kiegészítve kerül elő.  
 - Vö. a [[S/Szarvas#^250529\|szarvas]] címnél szereplő ordoszi csodaszarvas ábrázolással.
 { #250529}
 
