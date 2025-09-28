@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Agg/","title":"Agg","created":"2023-10-13T12:40","updated":"2025-09-16T13:24"}
+{"dg-publish":true,"permalink":"/A/Agg/","title":"Agg","created":"2023-10-13T12:40","updated":"2025-09-28T21:33"}
 ---
 
 
@@ -7,7 +7,8 @@
 
 #### Péterfai János írja:
 
-> Az [[A/AG\|Ag]] névnek Magas értelme van. Ez az Ag a koponya tekintetében az Agy neve, ami a fej felső része. Az Ag kimondottan Fejtető, az Agy neve, és az Ág neve a fákon. Ha az Ag már magasba került, \[[[Ég\|[Ég]]\] Isten közelébe, akkor a neve Agg. Az Ag, Agg, Ág sok nevet fejlesztett ki később.  
+> Az [[A/AG\|Ag]] névnek Magas értelme van. Ez az Ag a koponya tekintetében az Agy neve, ami a fej felső része. Az Ag kimondottan Fejtető, az Agy neve, és az Ág neve a fákon. Ha az Ag már magasba került, Isten közelébe, akkor a neve Agg. Az Ag, Agg, Ág sok nevet fejlesztett ki később.  
+- Ag Isten = [[E/Ég\|Ég]] Isten.
 - [[A/Aggastyán\|Aggastyán]] címnél is így értelmeztük.
 
 Götz László Keleten kél a Nap című könyvének 487. oldalától tallózik olyan [[B/Budenz József\|Budenz József]] által finnugornak meghatározott szavakból, melyeket [[V/Vámbéry Ármin\|Vámbéry Ármin]] elemzett, majd a TeSz féle származtatásokat is megadja (az osztják szó több helyre betéve):  
