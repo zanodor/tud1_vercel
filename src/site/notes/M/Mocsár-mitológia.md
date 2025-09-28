@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mocsár-mitológia/","title":"Mocsár-mitológia","created":"2023-11-18T09:11","updated":"2025-07-03T01:14"}
+{"dg-publish":true,"permalink":"/M/Mocsár-mitológia/","title":"Mocsár-mitológia","created":"2023-11-18T09:11","updated":"2025-09-28T21:26"}
 ---
 
 
@@ -36,7 +36,7 @@ Továbbá:
 > A hattyak valamint más madarak is, tavasszal, szerelmi vágyukat egymásnak szárnyaik lebegtetésével, libegtetésével fejezik ki; jól tudjuk pedig, hogy a szerelem férfiistenségét szép ifjúként de hattyúszárnyakkal ábrázolták volt. Ez fejti meg és bizonyítja be, hogy a latin [[L/Libido\|libido]] = szerelemvágy, kívánság, amely szó tehát a hattyú [[L/Libéd\|libéd]] nevével teljesen azonos őspalóc eredetű, de amivel ugyanúgy azonos a német `Liebe` = szerelem szó is, amelynek régebbi alakja még `Liebde` volt.  
 
 Magyar Adorján írja ismét:  
-> Hogy viszont a hattyú inkább a testi szerelem jelképévé lett, ennek fő oka az, hogy a hattyúnak igen fejlett hímtagja van, ami madaraknál ritkaság. Ami azonban nem jelenti azt, hogy a hattyú is ne szerepelt volna palóc őstörzsünknél a lélek jelképeként is, ami hogy megvolt mutatják a lebéd, libéd = hattyú szó de még inkább a hattyúhoz többé-kevésbé hasonlító más madarak libe, libuc, lile és lilik magyar nevei, amely szavak mint le-, li- kezdetűek sőt a lilek a [[L/Lélek\|lélek]] szavunkkal teljesen azonos is. Mind az itt elmondottak alapján kétségtelenné válik az is, hogy a csehek Libussza vagy Libusa mondai nőalakja, aki Prága város megalapítója és úrnőjeként szerepel, sem más mint Tündér Ilonánk palóc megfelelője, akit e törzsünk nőstény hattyúval \[[[Liba\|libá]]ról is szólhatott volna\] is jelképezett, vagyis hogy e monda is őspalóc eredetű s a mai csehországi lakosságnak a kereszténységre térése következtébeni elszlávosodása előtti időből származik.  
+> Hogy viszont a hattyú inkább a testi szerelem jelképévé lett, ennek fő oka az, hogy a hattyúnak igen fejlett hímtagja van, ami madaraknál ritkaság. Ami azonban nem jelenti azt, hogy a hattyú is ne szerepelt volna palóc őstörzsünknél a lélek jelképeként is, ami hogy megvolt mutatják a lebéd, libéd = hattyú szó de még inkább a hattyúhoz többé-kevésbé hasonlító más madarak libe, libuc, lile és lilik magyar nevei, amely szavak mint le-, li- kezdetűek sőt a lilek a [[L/Lélek\|lélek]] szavunkkal teljesen azonos is. Mind az itt elmondottak alapján kétségtelenné válik az is, hogy a csehek Libussza vagy Libusa mondai nőalakja, aki Prága város megalapítója és úrnőjeként szerepel, sem más mint Tündér Ilonánk palóc megfelelője, akit e törzsünk nőstény hattyúval \[a [[L/Liba\|libá]]ról is szólhatott volna\] is jelképezett, vagyis hogy e monda is őspalóc eredetű s a mai csehországi lakosságnak a kereszténységre térése következtébeni elszlávosodása előtti időből származik.  
 
 #### Magyar Adorján...
 
