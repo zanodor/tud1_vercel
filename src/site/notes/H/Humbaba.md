@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Humbaba/","title":"Humbaba","tags":["Englishtexttranslated"],"created":"2023-10-23T03:13","updated":"2025-09-24T13:50"}
+{"dg-publish":true,"permalink":"/H/Humbaba/","title":"Humbaba","tags":["Englishtexttranslated"],"created":"2023-10-23T03:13","updated":"2025-09-28T21:27"}
 ---
 
 
@@ -26,7 +26,7 @@ Robert Temple ![assets/Humbaba_image2.png|fix_dark fix_light right|300](/img/use
 
 Az [alábbi](https://qr.ae/pNr3PT) Quora oldalon is leírtam válaszomban, hogy a Gilgames eposzban olvasható cédrus [[E/Erdő\|erdő]] az Istennő [[V/Vulva\|vulvá]]ját jelképezi (az eredő helye, hogy a fa a nimfa/tündér, aki [[B/Baba\|baba]] is lehet, és hogy a szavak átvezetnek más nyelvekbe, de leginkább azt kell látni, hogy az első mesék, mítoszok magyar nyelvűek voltak). Humbabára is kitértem, arra, hogy a [[W/Womb\|womb]] eredete mi lehet.  
 Az tény, hogy a baba szerepel a névben és a [[W/Womb\|womb]] = méh is hasonló, sőt, azonosnak látszó szó, Richard H. Allen Star Names című könyvének 48. oldalának adatára alapozva:  
-> On the Ganges, as in China, Acquarius began the circle of the zodiacal signs; and Al Biruni said that at one time in India it was Khumba[^2], or Kumbaba, which recalls the Elamite divinity of that name, the Κόμβη, or Storm God, of Hesychios. This, too, was the Tamil title for it; La Lande writing it Coumbum.  
+> On the Ganges, as in China, Aquarius began the circle of the zodiacal signs; and Al Biruni said that at one time in India it was Khumba[^2], or Kumbaba, which recalls the Elamite divinity of that name, the Κόμβη, or Storm God, of Hesychios. This, too, was the Tamil title for it; La Lande writing it Coumbum.  
 > —  
 > A Gangesznél, akárcsak Kínában, a Vízöntő kezdte az állatövi jegyek körét; és Al Biruni szerint Indiában egykor Khumba vagy Kumbaba volt a neve, ami az ilyen nevű elámi istenségre, vagy Hesychios Viharistenére, Κόμβη-ra emlékeztet. Ez volt a tamil elnevezése is; La Lande Coumbumnak írja.  
 
