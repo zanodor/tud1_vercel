@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2025-09-24T13:42"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2025-09-28T21:18"}
 ---
 
 
@@ -160,7 +160,7 @@ Dacára annak, hogy a Fiastyúk másik neve, Hetevény kimondja, hogy [[H/Hét\|
 > A Fiastyúk (Pleiádok) a Bika (Taurus) csillagkép része. Késő ősszel és télen lehet könnyen megtalálni a tűhegynyi csillagok alkotta "fészket". A Bika és benne a Fiastyúk csillagkép az égi szarvasok közé tartozik. A Fiastyúkot másképpen Fagyhozó csillagnak is mondják, mert amikor már kora este látható az égen, akkor közel a tél. Tehát évszakcsillag is volt.  
 > A Fiastyúk kapcsán visszautalhatunk még a kilenc agancsos táltosra is, hiszen kilenc legfényesebb (szabad szemmel is jól látható) csillagának népi elnevezése a "Kilenc Tátos."  
 
-![assets/Pleiadok_image3.png|fix_light](/img/user/P/assets/Pleiadok_image3.png)  
+![assets/Pleiadok_image3.png|invert_light](/img/user/P/assets/Pleiadok_image3.png)  
 
 #### Jankovics Marcell Jelkép-kalendárium...
 
