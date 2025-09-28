@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2025-06-09T15:21"}
+{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2025-09-28T21:25"}
 ---
 
 
@@ -64,9 +64,9 @@ James Barr Philo of Byblos and his Phoenician history című írásában a 25. o
 
 [Ezen](https://www.masonicperiodicals.org/static/media/periodicals/119-FQR-1849-09-30-001-SINGLE.pdf) szabadkőműves kiadvány 247. oldalán is a föníciaiak napistenének említik, mint **Seadhac**-ot.
 - A Seadhac névforma Godfrey Higgins The Celtic Druids című könyvének 180. oldalán is előjön:  
-> The supreme God above the rest was called, **Seadhac** and Baal. Seadhac is the **Sydic** of Eusebius of whom the Cabiri were the sons. In the ancient Hebrew books, the book Sohar and Sopher Jetziro, Beresit Rabba, translate the word \[the Hebrew\] `sdk`, *Zeus*. The Irish **Seadh**[^2] looks very like the Hebrew `sdi`, **Saddai** \[[[El Shaddai\|[El Shaddai]]\], the Omnipotent.  
+> The supreme God above the rest was called, **Seadhac** and Baal. Seadhac is the **Sydic** of Eusebius of whom the Cabiri were the sons. In the ancient Hebrew books, the book Sohar and Sopher Jetziro, Beresit Rabba, translate the word \[the Hebrew\] `sdk`, *Zeus*. The Irish **Seadh**[^2] looks very like the Hebrew `sdi`, **Saddai**, the Omnipotent.  
 > —  
-> A többiek felett álló legfőbb Istent **Seadhac**-nak és Baalnak hívták. Seadhac Eusebius **Szidak**-ja, akinek fiai a kabírok voltak. Az ősi héber könyvekben, a Szoharban és a Széfer Jecirában, a Beresit Rabba a \[héber] `sdk` szót *Zeusz*-ként fordítja. Az ír **Seadh**[^2] nagyon hasonlít a héber `sdi`-re, **Szaddaj**-ra \[[[El Shaddai\|[El Shaddai]]], a Mindenhatóra.  
+> A többiek felett álló legfőbb Istent **Seadhac**-nak és Baalnak hívták. Seadhac Eusebius **Szidak**-ja, akinek fiai a kabírok voltak. Az ősi héber könyvekben, a Szoharban és a Széfer Jecirában, a Beresit Rabba a \[héber] `sdk` szót *Zeusz*-ként fordítja. Az ír **Seadh**[^2] nagyon hasonlít a héber `sdi`-re, **Szaddaj**-ra \[ld. [[E/El Shaddai\|El Shaddai]]], a Mindenhatóra.  
 - `Seadh` írül állítólag megerősítést jelent (igen, úgy van, valóban). Hasonló [[O/Ossian\|Ossian]] anyjának, [Sadhbh](https://en.wikipedia.org/wiki/Sadhbh)-nak neve.
 
 Jacob Bryant Analysis Of Ancient Mythology című könyvének (első kötetének) elején az Eusebius által adatolt **Sydic** forma került elő, melyet Banier (M. l'abbé, Antoine) The Mythology and Fables of the Ancients c. négykötetes művének (a PDF) 116. oldalán is megtalálunk.  
