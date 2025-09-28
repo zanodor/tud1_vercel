@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Meszehtiu/","title":"Meszehtiu","tags":["containstransclusions"],"created":"2023-11-09T05:37","updated":"2025-09-24T13:53"}
+{"dg-publish":true,"permalink":"/M/Meszehtiu/","title":"Meszehtiu","tags":["containstransclusions"],"created":"2023-11-09T05:37","updated":"2025-09-28T21:30"}
 ---
 
 
@@ -43,7 +43,7 @@ Jankovics Marcell folytatja:
 - Folytatást Jankovics könyvének 119. oldalán.
 
 Egy kérdés közben: a marhacomb/bikacomb és [[S/Széth sakála\|Széth sakála]] egy és ugyannak az alternatív nevei? Nos, a [[D/Dendera\|dendera]]i zodiákuson külön vannak (Huszárik írja):  
-> Ezek az északi pólus körül látható csillagképek: a Marhacomb és Ökörcombnak is nevezett Mellsőláb, mellette a Sakál, Vízilószörny \[[[Taweret\|[Taweret]]\] és Pávián jegyek.  
+> Ezek az északi pólus körül látható csillagképek: a Marhacomb és Ökörcombnak is nevezett Mellsőláb, mellette a Sakál, Vízilószörny \[ld. [[T/Taweret\|Taweret]]\] és Pávián jegyek.  
 
 J. Norman Lockyer The Dawn of Astronomy című könyvének 154. oldaláról is kiderül, hogy Széth sakálának [[W/Wepwawet\|Wepwawet]] felel meg.  
 
@@ -59,4 +59,4 @@ J. Norman Lockyer The Dawn of Astronomy című könyvének 154. oldaláról is k
 Cölöp jegyhez kötözött Széth istenről szól Huszárik László, és mivel ő csillagkép helyett szinte mindig jegy-et ír, ez egy csillagkép (lásd képet [[T/Taweret\|Taweret]]).  
 
 A később, Bika résznél szereplő passzusa alapján értjük meg, honnan jön a bika alakja:  
-> [[H/Hórusz\|Hórusz]] szintén harcba indult, mint Gilgames. A Bika figuráját az egyiptomiak is a büntetéssel, halállal kötötték össze, Bika jegyük magába olvasztotta a Plejádokat. A Bika legfényesebb csillaga káld\[?\] Al Debaran \[[[Aldebaran\|[Aldebaran]]\] 'követő, vezető' jelentéssel használták. Béta csillagát az arabok El Nathja 'sebesült' vagy 'leölt' értelmű szóval jelölték. Hórusz "az erős bika" többször is háborút indított Széth ellen, aki trónkövetelő volt. A Bika eredeti színe azonban vörösesbarna, az egyiptomi áldozati rítusok előírták a vörös szín használatát például a káosz erőit jelképező viaszfiguráknál. Széth a káosz erőit képviselte. Küzdelme során Hórusz a Széth bikát ökörré változtatta. A másik, szalag zodiákus ábrázoláson viszont Ápisz bika tűnik fel Ozirisz lelkét képviselve. Plutarkhosz is hivatkozik rá, hogy egyfajta misztikus egység van a két isten között.  
+> [[H/Hórusz\|Hórusz]] szintén harcba indult, mint Gilgames. A Bika figuráját az egyiptomiak is a büntetéssel, halállal kötötték össze, Bika jegyük magába olvasztotta a Plejádokat. A Bika legfényesebb csillaga káld\[?\] [[A/Aldebaran\|Al Debaran]] 'követő, vezető' jelentéssel használták. Béta csillagát az arabok El Nathja 'sebesült' vagy 'leölt' értelmű szóval jelölték. Hórusz "az erős bika" többször is háborút indított Széth ellen, aki trónkövetelő volt. A Bika eredeti színe azonban vörösesbarna, az egyiptomi áldozati rítusok előírták a vörös szín használatát például a káosz erőit jelképező viaszfiguráknál. Széth a káosz erőit képviselte. Küzdelme során Hórusz a Széth bikát ökörré változtatta. A másik, szalag zodiákus ábrázoláson viszont Ápisz bika tűnik fel Ozirisz lelkét képviselve. Plutarkhosz is hivatkozik rá, hogy egyfajta misztikus egység van a két isten között.  
