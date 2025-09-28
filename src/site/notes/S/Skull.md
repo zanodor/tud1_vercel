@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Skull/","title":"Skull","tags":["Englishtexttranslated"],"created":"2023-11-05T03:03","updated":"2025-09-23T20:56"}
+{"dg-publish":true,"permalink":"/S/Skull/","title":"Skull","tags":["Englishtexttranslated"],"created":"2023-11-05T03:03","updated":"2025-09-28T21:30"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 Az, hogy [[S/Skol\|szkol]]t mondanak koccintáskor, nem feltétlenül a koponyákból készült ivókupákra kell utaljon, de tény, hogy a [[K/Kupa\|kupa]] = koponyát, fejet és ivóedényt is jelent. Itt kellhet skull eredetét keresni. Vagy inkább persze fordítva: a koccintás ered a koponya nyomán.  
 
-Tény az is, hogy a helyes eredeztetés kulcsa maga a megfelelő kulcs megtalálása. Márpedig a [[S/Sköll\|Sköll]] és a [[G/Gula\|Gula]] címnél (és azóta másutt is) vizsgált a(z ó)görögben `κύων`-on (és egy szintén ezidáig számomra ismeretlen, közben [[T/Travel\|travel]] címnél taglalt ógörög `τραβίτης`-en) kívül szintén kutyát jelentő (ógörög) `σκύλαξ`, `σκυλλος` és (újgörög) `σκύλος` \[[[Szkílosz\|szkílosz]]\] szóalakok, melyeket [[G/Gyullad\|gyullad]] szónál is vizsgáltunk, mutatnak rá, hogy másutt is kereshető az eredete.  
+Tény az is, hogy a helyes eredeztetés kulcsa maga a megfelelő kulcs megtalálása. Márpedig a [[S/Sköll\|Sköll]] és a [[G/Gula\|Gula]] címnél (és azóta másutt is) vizsgált a(z ó)görögben `κύων`-on (és egy szintén ezidáig számomra ismeretlen, közben [[T/Travel\|travel]] címnél taglalt ógörög `τραβίτης`-en) kívül szintén kutyát jelentő (ógörög) `σκύλαξ`, `σκυλλος` és (újgörög) `σκύλος` ([[S/Szkílosz\|szkílosz]]) szóalakok, melyeket [[G/Gyullad\|gyullad]] szónál is vizsgáltunk, mutatnak rá, hogy másutt is kereshető az eredete.  
 
 Lehet itt még a [[G/Gyula\|Gyula]] méltóságnevet is szóba hozni rokonításként, de végeredményben elképzelhető ([[K/Kobak\|kobak]] címnél írottak alapján is), hogy vagy a kutya koponyájáról van szó, vagy pedig inkább a Nap Kutyacsillagbani helyzetéről.  
 Ami annyit jelent, hogy a Nap téridőbeli felső helyzete adja a hegy és fej jelentéseket és ahogy másutt láttuk, a fej, a koponya, a kutya és a ló fogalmai gyakran közös eredetűek, illetve egymásba játszanak át: vagyis a görög `σκύλος` = kutya) is eredetileg a koponya, fej jelentésköréhez tartozhatott, ahogy a lóval, fejjel, koponyával kapcsolatos szavak is számos nyelvben összefonódnak. Így a kutya szó is fejet, koponyát, sőt lófejet jelentő szóval feleltethető meg, és ez a jelentésmező a magyar, finn, szláv, latin, görög és más nyelvekben is visszaköszön (a görög `κεφαλή` (`kephalé`) = fej szó más nyelvekben lovat jelent).  
