@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Babba Mária/","title":"Babba Mária","created":"2024-11-21T07:51","updated":"2025-09-24T13:46"}
+{"dg-publish":true,"permalink":"/B/Babba Mária/","title":"Babba Mária","created":"2024-11-21T07:51","updated":"2025-09-28T21:24"}
 ---
 
 
@@ -44,7 +44,7 @@ Ami még ide tehető:
 #### Schmidt Irén A magyarok és elődeik istenképe, találkozásuk a kereszténységgel a római térítés előtt 1-2....
 
 ...című az Ősi Gyökér 2011/2. és 3. sz. megjelent dolgozatában írja:  
-> Szent Gellért püspök egy alkalommal a \[[[Nap\|[Nap]] címnél ilyen alcímnél taglalt\] "Napba öltözött asszony"-ról (Jelenések 12. 1-2.) beszélt a székesfehérvári bazilikában és nem sejthette, hogy a magyarok Csíksomlyón (Erdély) 1000 év múlva pont ezen a néven fogják tisztelni a csángók "Babba Máriáját". A Babba név jelentése "Szép Szűz Mária". A szó "bába" formája szülésznőt jelent!  
+> Szent Gellért püspök egy alkalommal a "Napba öltözött asszony"-ról (Jelenések 12. 1-2.) beszélt a székesfehérvári bazilikában és nem sejthette, hogy a magyarok Csíksomlyón (Erdély) 1000 év múlva pont ezen a néven fogják tisztelni a csángók "Babba Máriáját". A Babba név jelentése "Szép Szűz Mária". A szó "bába" formája szülésznőt jelent!  
 > A "babba" és "bába" szavak közötti hasonlóság egyáltalán nem véletlen! "Babba Mária" a kismamák védőszentje (Nagyboldogasszony néven termékenység-istennő – lásd korábbi magyarázatunkat), a bába pedig a termékenység "eredményének", a gyermeknek világra segítője! MNLex. 1977/ 1. kötet: 178-179  
 > Egy pogány kori mitológia nyomán a csángók Babba Máriát a Holdban látják, és egész életükben hozzá fohászkodnak.  
 
