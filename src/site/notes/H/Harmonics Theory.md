@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Harmonics Theory/","title":"Harmonics Theory","tags":["Englishtexttranslated"],"created":"2024-04-22T12:54","updated":"2025-09-24T13:52"}
+{"dg-publish":true,"permalink":"/H/Harmonics Theory/","title":"Harmonics Theory","tags":["Englishtexttranslated"],"created":"2024-04-22T12:54","updated":"2025-09-28T21:29"}
 ---
 
 
@@ -13,14 +13,16 @@ Az univerzum elemei egy [[P/Pythagorasz\|Pythagorasz]]nak (lásd ott) tulajdoní
 
 ...című Ősi Gyökér 2004/3. számában megjelent cikkében írja (több helyen szerepelt):  
 > S hogy nyelvünk nem egy akármilyen szedett-vedett mozaiknyelv, arról maga a híres angol költő Sir John Bowring tanúskodik legszebben: "...Aki megfejti, az az isteni titkot fogja boncolni, annak is az első tételét: Kezdetben vala az Ige, és az Ige vala az istennél és az Isten vala az Ige." (The Poetry of the Magyars.)  
-> Ennek az "Ige" szónak, (nem nyelvtani fogalmak, hanem belső tartalom szerint) többféle értelme van. Egyfelől a Genezis szerint, például a hangra (a kínai Nagy Hang a Kung megszólalására \[[[Hang\|hang]], kong magyar szavainkkal azonos\]) indult meg a teremtés a Nagy mélység vizében.  
+> Ennek az "Ige" szónak, (nem nyelvtani fogalmak, hanem belső tartalom szerint) többféle értelme van. Egyfelől a Genezis szerint, például a hangra (a kínai Nagy Hang a Kung megszólalására) indult meg a teremtés a Nagy mélység vizében.  
+- [[H/Hang\|Hang]], `kong` magyar szavainkkal azonos.
+
 > Egy másik jóval ősibb keletű – hindusztáni bölcsészeti rendszer értelmezése alapján: az [[I/Ige\|Ige]] a [[S/Szentháromság\|Szentháromság]] egyike. De vizsgálatunk kiindulópontjaként szolgáljon itt prof. Badiny Ferenc mérvadó észrevétele: A nagy szarv között látható gömb/csillag, (\*) jelentése Áz, amely azonos a hindu bölcselet Barahmá gondolatával. Mármost, ha az istenség eszméjét, a Teremtő-elv: Brahmá lényegének legkezdettebb értelméhez kapcsolódó ősfogalmat elemezzük, akkor a Szentháromság hittitok alapgondolatához jutunk. Ugyanis a Szatapatha Bráhmana ezt írja: "Brahmá, egy szarvas képében (hímnemű princípium), Vakhal a szarvasünővel (női princípium), egybekelvén teremté meg a Kozmoszt." A kommentár szerint: A Nőnemű-logosz, az "Ige", a "verbum"; maga az isteni hang. Tehát az isteni hang, amely rokon értelmű az Igével vagy szóval, a hindu bölcseletben az első indíték ereje, úgy is mondhatni: Brahmán női fele. Eszerint a hindu [[V/Vach\|Vach]] az "ős női" eszme, az Ige fogalma, és a "szférák zenéje" voltaképpen egy és ugyanaz.  
 > Patandzsali: Az Ő (Brahma) megnyilvánulása az ős-ige (az ős hang: Aum.) A mai emberiség számára a kung-gong helyébe ez az AUM lépett "a Nagy malom örök zúgásával". Tehát, ha azt vesszük, a világ alapja az éterrezgés, melynek eredője, ezoterikus értelemben véve: a kongó-bongó [[H/Hang\|hang]].  
 > Baktay Ervin: Az AUM elmélyedő ismétlése a mindenség létesítő áramát remegteti végig bennünk. Az AUM az isteni eredetű létáramba kapcsolja be a szellemet, s ez meggyorsítja a kibontakozást, az egyesítettség elérését. Hasonló gondolatot fejez ki a Védák "éneklő tehene/szarvasa", és Boetius Musica mundanja, aki szimbólumként értelmezte a zenei kozmológiát. Ugyanúgy a zenei kozmológiához csatlakozott Kepler is, mikor a bolygópályákra vonatkozóan keresett zenei analógiát. (Harmonices mundi. Libri v.)  
 > Liszt Ferenc szerint: A zene a mennyország előcsarnoka." Érdekes, ma már a kutatás is a fentiek mellett szól. Ugyanis a BBC híradása most közölte, hogy a csillagászok lehallgatták a Kozmosz moraját, a kozmikus szimfóniát.  
 
 Kon-Fu-Cse mondta talán: "Arra a kérdésre, hogy vajon egy királyságot megfelelően, netán jó vagy rossz erkölcsök szerint igazgatják, a választ zenekultúrájának minősége adja meg."  
-![assets/HarmonicsTheory_image1.png](/img/user/H/assets/HarmonicsTheory_image1.png)  
+![assets/HarmonicsTheory_image1.png|fix_light|840](/img/user/H/assets/HarmonicsTheory_image1.png)  
 Ezzel egyet értően mondja Kubínyi Tamás a náci propaganda miniszter Göbbels kapcsán, hogy ő adta ki utasításban, hogy a természetre hangolt zenei A hang 432 Hz-ét 440-re emeljék (erről internetes konteók is születtek). Kubínyi arról nem szól, hogy ma Indiában használt 450 Hz-re van belőve, de a 440 tény, hogy nem [[K/Kilences számrendszer\|kilences számrendszer]]ű, nem harmonikus, így az erre a hangfrekvenciára épülő hangskála egyensúlyt bontó, akár DNS-szintű behatást okoz. Lásd a csatolt képen levő infókat is. (A vízre okozott hatás azért fontos, mert a testünk 70%-a víz, azaz minket programoznak!)  
 A Magyar Királyságban, ha egyszer lesz újra ilyen (Habsburgok és fajtársaik nélkül), az első rendelkezések között a természetes harmonikus frekvenciákra való visszaállás kell szerepeljen.  
 
