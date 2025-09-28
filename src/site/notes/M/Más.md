@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Más/","title":"Más","tags":["Englishtexttranslated","containscallouts"],"created":"2025-05-29T22:51","updated":"2025-09-24T13:46"}
+{"dg-publish":true,"permalink":"/M/Más/","title":"Más","tags":["Englishtexttranslated","containscallouts"],"created":"2025-05-29T22:51","updated":"2025-09-28T21:24"}
 ---
 
 
@@ -88,7 +88,7 @@ A kettősségeknél maradva egyébként a **maoriknál az otthont és a méhlep�
 ...című könyvében magyarázza el a [[S/Saturnalia\|Saturnalia]] ünnepének menetéhez hasonló babiloni módit ami a szolga-úr szerepcserére vonatkozó hagyomány eredetét mármint hogy a feláldozandó király helyett helyettest kerestek. Előbb a király fiát áldozták volna fel utána a [[H/Hostile\|hostile]] címnél is említett módon idegent használtak fel erre a célra. A lényeg persze itt Isten fiának Jézusnak keresztrefeszítésének előzményei megkeresése volt. Nemcsak a más fiú értelmére jöhetünk itt rá:  
 > In the primitive sacrificial rites, the victim was originally the king or chief of the tribe or clan. The prosperity of the group was supposed to have a magical relation to the health of the king. If the ruler became old and feeble, it was thought that the nation or tribe would suffer a similar decline, so the king, considered to be a god in human form, was sacrificed for the good of all and then replaced with a younger and more vigorous successor. In later times the king's son was chosen as the scapegoat, and, being of divine origin, was called the son of the god.  
 > —  
-> Az ősi áldozati szertartásokban az áldozat eredetileg a törzs vagy klán királya vagy főnöke volt. A csoport jóléte varázslatos módon összefüggött a király egészségével. Ha az uralkodó megöregedett és elgyengült, úgy gondolták, hogy a nemzet vagy törzs hasonló hanyatlást szenved el, ezért a királyt, akit emberi formában lévő istennek tekintettek, feláldozták mindenki javára, majd egy fiatalabb és erőteljesebb utóddal helyettesítették. Később a király fiát \[[[Más\|más]], [[H/Helyettes\|helyettes]]\] választották bűnbaknak, és mivel isteni eredetű volt, az isten fiának nevezték.
+> Az ősi áldozati szertartásokban az áldozat eredetileg a törzs vagy klán királya vagy főnöke volt. A csoport jóléte varázslatos módon összefüggött a király egészségével. Ha az uralkodó megöregedett és elgyengült, úgy gondolták, hogy a nemzet vagy törzs hasonló hanyatlást szenved el, ezért a királyt, akit emberi formában lévő istennek tekintettek, feláldozták mindenki javára, majd egy fiatalabb és erőteljesebb utóddal helyettesítették. Később a király fiát \[= [[M/Más\|más]], [[H/Helyettes\|helyettes]]\] választották bűnbaknak, és mivel isteni eredetű volt, az isten fiának nevezték.
 { #n2uiv}
 
 - [[T/TUR\|Tur]]/[[T/Tura\|Tura]] ezért is jelenthet fiút is.
