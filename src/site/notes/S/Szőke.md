@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szőke/","title":"Szőke","created":"2024-04-27T02:39","updated":"2024-10-26T00:32"}
+{"dg-publish":true,"permalink":"/S/Szőke/","title":"Szőke","created":"2024-04-27T02:39","updated":"2025-09-28T21:32"}
 ---
 
 
