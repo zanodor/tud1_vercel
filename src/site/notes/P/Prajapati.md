@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Prajapati/","title":"Prajapati","tags":["Englishtexttranslated"],"created":"2024-10-23T20:04","updated":"2025-09-24T13:47"}
+{"dg-publish":true,"permalink":"/P/Prajapati/","title":"Prajapati","tags":["Englishtexttranslated"],"created":"2024-10-23T20:04","updated":"2025-09-28T21:25"}
 ---
 
 
@@ -33,9 +33,9 @@ Említ még a Wiki adatot arra nézve, hogy temetési kultuszt kötöttek nevéh
 
 Ami azért érdekes, mert Ozirisz-Vezér-Kilenc-Vadász-Kaszás-Orion is a holtak lelkeit tereli a másvilágra.  
 Érdekesmód a Wikipedia oldalán egyetlen említést sem tesznek arról, hogy Prajapati csillagkép lenne, holott ez a lényeg. Illetve az Aitareya Brahmana történetét röviden ismerteti:  
-> The Aitareya Brahmana offers a different myth, wherein Prajapati having created the gods, metamorphosed into a stag and approached his daughter \[[[Rohini\|[Rohini]]\] at dawn who was in the form of a doe, to produce other earthly beings. The gods were horrified by the incest, and joined forces to produce angry destructive [[R/Rudra\|Rudra]] to punish Prajapati for "doing what is not done". Prajapati was killed by Rudra.  
+> The Aitareya Brahmana offers a different myth, wherein Prajapati having created the gods, metamorphosed into a stag and approached his daughter at dawn who was in the form of a doe, to produce other earthly beings. The gods were horrified by the incest, and joined forces to produce angry destructive [[R/Rudra\|Rudra]] to punish Prajapati for "doing what is not done". Prajapati was killed by Rudra.  
 > —  
-> Az Aitareya Brahmana egy másik mítoszt kínál, amelyben Pradzsapati, miután megteremtette az isteneket, szarvassá változott, és hajnalban megközelítette lányát \[[[Rohini\|[Rohini]]t\], aki őzike alakban volt, hogy más földi lényeket teremtsen. Az istenek elborzadtak a vérfertőzéstől, és egyesítették erőiket, hogy létrehozzák a dühös pusztító [[R/Rudra\|Rudrá]]t, hogy megbüntessék Pradzsapatit, amiért "azt teszi, amit nem tesz". Pradzsapatit Rudra megölte.  
+> Az Aitareya Brahmana egy másik mítoszt kínál, amelyben Pradzsapati, miután megteremtette az isteneket, szarvassá változott, és hajnalban megközelítette lányát \[ti. [[R/Rohini\|Rohini]]t\], aki őzike alakban volt, hogy más földi lényeket teremtsen. Az istenek elborzadtak a vérfertőzéstől, és egyesítették erőiket, hogy létrehozzák a dühös pusztító [[R/Rudra\|Rudrá]]t, hogy megbüntessék Pradzsapatit, amiért "azt teszi, amit nem tesz". Pradzsapatit Rudra megölte.  
 
 ## Csillagisme
 
