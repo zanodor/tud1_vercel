@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mace/","title":"Mace","created":"2024-05-09T01:27","updated":"2025-06-08T01:13"}
+{"dg-publish":true,"permalink":"/M/Mace/","title":"Mace","created":"2024-05-09T01:27","updated":"2025-09-28T21:31"}
 ---
 
 
@@ -7,12 +7,12 @@
 
 [[B/Buzogány\|Buzogány]]; jogar, kormánypálca. Szerencsedió jelentése is van (itt is a [[M/MAG\|MAG]] ([[M/Makk\|makk]]) értelem van meg – [[D/Dió\|dió]] címnél makkról szó is esett!).  
 A hímségi [[M/MAG\|mag]] szó származéka, ahogy a magyar [[M/Megy\|megy]], meggy, méz, máj, máz, mező, mák, matat, mozog, továbbá maya, Mexikó(?), Madeira, Média, mágia, stb.  
-Gyakorlatilag [[M/Magor\|Magor]] Napisten botjáról van szó, ahogy [[H/Herkules\|Herkules]] nevében is a Kul tag (lehetne) a kalló neve, ahogy Magyar Adorján írja a kőrös fejezetben.  
+Gyakorlatilag [[M/Magor\|Magor]] Napisten botjáról van szó, ahogy [[H/Héraklész\|Héraklész]] nevében is a Kul tag (lehetne) a kalló neve, ahogy Magyar Adorján írja a kőrös fejezetben.  
 
 #### Magyar Adorján...
 
 ...érintőlegesen említi a mace szót is magyar fejezetében:  
-> A mai olasz nyelvben létezik a `mazza` (ejtsed macca) szó, amely bunkósbotot és nagy kalapácsot jelent, amely szóból származik a \[[[Matar\|matar]] címnél taglalt\] `amazzare` = agyonütni, megölni szó ezen mazza szó ugyan szemere-besenyő, azaz szabin kiejtésű, de hogy e szónak kellett létezzen még makka kiejtésű alakja is, bizonyítja az olaszban ma is létező `amaccare` = behorpasztani. Világos, hogy ez eredetileg egy makka nevű bottal a koponya betörését jelentette, ugyanúgy mint a magyar "agyonütni" is, mivel ez régi nyelvünkben csak főbeütést jelentett.  
+> A mai olasz nyelvben létezik a `mazza` (ejtsed macca) szó, amely bunkósbotot és nagy kalapácsot jelent, amely szóból származik \[a [[M/Matar\|matar]] címnél taglalt\] `amazzare` = agyonütni, megölni szó ezen mazza szó ugyan szemere-besenyő, azaz szabin kiejtésű, de hogy e szónak kellett létezzen még makka kiejtésű alakja is, bizonyítja az olaszban ma is létező `amaccare` = behorpasztani. Világos, hogy ez eredetileg egy makka nevű bottal a koponya betörését jelentette, ugyanúgy mint a magyar "agyonütni" is, mivel ez régi nyelvünkben csak főbeütést jelentett.  
 > A meggyfa bot tulajdonképpeni ősmagyar neve megyer, makar, makka alakú lehetett.  
 
 Közvetlenül a [[M/Makk\|makk]] szavunkkal is lehet azonosítani, hiszen a Napisten botja a fallosza is lehet (lásd még [[P/Penis\|penis]]). A fallosz, a tetején levő boggal, makkal fegyverként, buzogányként (baszogányként) is megjelenhet.  
