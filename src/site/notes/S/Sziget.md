@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2025-09-23T23:25"}
+{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2025-09-28T21:21"}
 ---
 
 
@@ -62,7 +62,7 @@ Másutt írja még:
 > A Boldogok szigete, mely azonos a heszperiszek, tulajdonképpen [[H/Héra\|Héra]] almáskertjével, mint azt a maga helyén már megírtam, Szaturnusz csillagzatának, a Baknak a szomszédságában található, a tejútágak – almafaágak – által körülölelt sötét sziget ez.  
 
 Másutt jelentőségteljesebben:  
-> [[N/Nut\|Nut]]ot minden égitest anyjának tartották, aki nyugaton nap mint nap felfalja, keleten pedig világra hozza őket. Más szóval, úgy hitték, hogy az éppen nem látható planéták és csillagok Nut testében a Tejút alvilági, déli szakaszán \[[[Duat\|duat]]\] járnak.  
+> [[N/Nut\|Nut]]ot minden égitest anyjának tartották, aki nyugaton nap mint nap felfalja, keleten pedig világra hozza őket. Más szóval, úgy hitték, hogy az éppen nem látható planéták és csillagok Nut testében a Tejút alvilági, déli szakaszán \[ld. [[D/Duat\|duat]]\] járnak.  
 
 Ami [[R/Remese\|remese]] címnél is szerepelt (saját kútfőből):  
 A végbéltraktus helyét a Skorpióba teszik a mitográfusok, tehát a kis éves időkörben a születés/feltámadás előtti stációnál járunk. A has/gyomor, végbél és végbélnyílás nyilvánvalóan a méh, szülőcsatorna-hüvely és vulva fogalmakkal egyeztethető és vélhetően azért volt szükség erre az analógiára, mert a Napgyermek apja nem (szabad, hogy) ismert(té váljon), nem fontos vagy mert a [[S/Száj\|száj]] címnél is taglalt primordiális önnemzés fogalmát akarták ide venni[^6].  
@@ -104,7 +104,7 @@ A képet újabb gondolatokkal [[L/LÁB\|láb]], [[H/Harmony\|harmony]] és [[O/O
 #### Molnár V. József Világ-virág...
 
 ...című könyvének 154-155. oldalán elemzi a mellékelt képen látható sámándobot (a jobb-bal Hold-Nap leosztás miatt [[B/Bal és jobb\|bal és jobb]] címhez is bekerült; az alsó három pötty nyilván nem az [[O/Orion övcsillagai\|Orion övcsillagai]]ra utal, hiszen a [[H/Ház\|ház]] leginkább az itt, ezen címnél is taglalt méh, Orionnal szemben; a Molnár V. József által aposztrofált "ősök háza" szintén érdekes kifejezés):  
-> A sámándobon ![assets/Sziget_image4.png|fix_dark fix_light right|300](/img/user/S/assets/Sziget_image4.png)(212. ábra) az emberről homlokát szellemet idéző madár ékesíti, az alsó világra a láb terpesze utal, belső terében, az "ősök házában" három "mag"-karika folytatja a gerinc útját. A "kar" kettős szerkezetű: a felső szalagsugaras, az alsó boltozatos holdívű. A dob-mezőn az emberalak jobbja felől, a Hold "birtokán" csillagképek, lefele sugárzó fenyő, s állatalakok idézik a Hold erejét; balja felől, a Nap "országában" csillagképek, a sámán lova: Nap-dob karika, s az emberkettős képviseli a Nap erejét.  
+> A sámándobon (212. ábra) ![assets/Sziget_image4.png|fix_dark fix_light right|300](/img/user/S/assets/Sziget_image4.png)az emberről homlokát szellemet idéző madár ékesíti, az alsó világra a láb terpesze utal, belső terében, az "ősök házában" három "mag"-karika folytatja a gerinc útját. A "kar" kettős szerkezetű: a felső szalagsugaras, az alsó boltozatos holdívű. A dob-mezőn az emberalak jobbja felől, a Hold "birtokán" csillagképek, lefele sugárzó fenyő, s állatalakok idézik a Hold erejét; balja felől, a Nap "országában" csillagképek, a sámán lova: Nap-dob karika, s az emberkettős képviseli a Nap erejét.  
 
 #### Falvay Károly Nagyboldogasszony...
 
