@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szegény/","title":"Szegény","created":"2024-04-25T13:43","updated":"2025-03-21T21:52"}
+{"dg-publish":true,"permalink":"/S/Szegény/","title":"Szegény","created":"2024-04-25T13:43","updated":"2025-09-28T21:28"}
 ---
 
 
