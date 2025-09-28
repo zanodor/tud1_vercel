@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/PIT/","title":"PIT","created":"2024-05-16T01:39","updated":"2025-06-08T01:44"}
+{"dg-publish":true,"permalink":"/P/PIT/","title":"PIT","created":"2024-05-16T01:39","updated":"2025-09-28T21:32"}
 ---
 
 
@@ -27,7 +27,7 @@ A CzF szótárban foglaltak alapján a pitvar pit gyöke nyílás, rokonságban 
 
 A gödör, árok, verem, akna, tárna, völgyelet, mint a hegy, domb inverze szükségszerűen nőiségi. Kb. Pics, Pisz szavak kellenének ide ilyen jelentéssel ([[P/Piss\|piss]] is nőiségi, mert víz).   
 
-Oxford egyébiránt germán eredetet ad neki és egy latin `puteus` = kút \[[[Pöce\|pöce]]?\] szót is felhoz, az indo-európai korrektség kedvéért. Görög szót nem említ, még Eric Partridge sem, holott Jankovics Marcell A Nap könyve című könyvében említ egy görög `pithosz` szót efféle jelentéssel:  
+Oxford egyébiránt germán eredetet ad neki és egy latin `puteus` = kút ([[P/Pöce\|pöce]]?) szót is felhoz, az indo-európai korrektség kedvéért. Görög szót nem említ, még Eric Partridge sem, holott Jankovics Marcell A Nap könyve című könyvében említ egy görög `pithosz` szót efféle jelentéssel:  
 > A kentaurok barlangban laktak (Phólosz nevében ott is a "kapu"). Ez a "Föld szája", mely a napistent elnyeléssel fenyegeti. Eurüsztheusznak, ennek az alvilági figurának és a kentauroknak a pithosza is azt jelképezi.  
 
 A pöce kapcsán felrémlik [[P/Poszeidón\|Poszeidón]] neve, aki bár égisten, valójában nőiségi kellett volna legyen (éppúgy, ahogy [[D/Dôn\|Dôn]] eredetileg [[D/Danu\|Danu]] volt).  
