@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-14T04:19","updated":"2025-09-24T13:46"}
+{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-14T04:19","updated":"2025-09-28T21:23"}
 ---
 
 
@@ -49,7 +49,8 @@ De nemcsak a magyar nyelvben létezik azonosság:
 
 #### Jankovics Marcell írja:
 
-> Az uráli mitológiában a [[H/HAL\|hal]] és a [[H/Háló\|háló]] a halott ember lelkének, illetve a halálnak, a halál alvilági \[[[Halcyon\|[Halcyon]] szóban is megvan hal\] urának, Khul Aternek, ("Hal Atya") szimbóluma volt.  
+> Az uráli mitológiában a [[H/HAL\|hal]] és a [[H/Háló\|háló]] a halott ember lelkének, illetve a halálnak, a halál alvilági urának, Khul Aternek, ("Hal Atya") szimbóluma volt.  
+- [[H/Halcyon\|Halcyon]] szóban is megvan hal.
 
 A kilencedik századi Abu Mashar – akit Al Biruni csillagászati kérdésekben sokat tévedőnek tart de mégicsak hallgassunk meg – szerint, ahogy...  
 
@@ -127,8 +128,6 @@ A [[S/Székely-magyar rovásírás#B\|rovás b]] és (főleg) [[S/Székely-magya
 
 Ide vehető még ![assets/Halakcsillagkep_image10.jpeg|fix_dark fix_light right|300](/img/user/H/assets/Halakcsillagkep_image10.jpeg)  Jankovics Marcell A Nap könyve című könyvének 64. oldalán szereplő adata. Azt írja, hogy a maja [[K/KIN\|kin]] = "Nap", "nap", "idő" szó képírásjele két keresztbe tett fadarab (lásd 21. rajzot); ugyanis ilyen napnéző mérőműszert alkalmaztak és nyilván a hun-magyarok is.  
 Erre mondom én, hogy az időt (felezését) az Ebcsillag Szíriusz jelöli ki.  
-
-Lásd még [[H/Halcyon\|Halcyon]].  
 
 ## Lábjegyzetek
 
