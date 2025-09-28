@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ünnep/","title":"Ünnep","created":"2023-10-25T05:26","updated":"2024-10-26T00:44"}
+{"dg-publish":true,"permalink":"/U/Ünnep/","title":"Ünnep","created":"2023-10-25T05:26","updated":"2025-09-28T21:30"}
 ---
 
 
@@ -10,7 +10,7 @@ Ipolyi Arnold Magyar mythologia című könyvének 604. oldalán ír az ünnepek
 Internetes cikk írójától:  
 > Mindenekelőtt ebben a világban azért volt rend, mert ritmus hatotta át. Ritmusban következtek a napok, hetek, évek, s a ritmust alapvetően a Nap szabta meg, de a Hold is társult hozzá és valamennyi bolygó. A csillagok pedig az öröklétről, a változatlanságról, állandóságról tanúskodtak. A Nap a fényt adja és ciklikus változásaival befolyásolja a természetet is. Élete van és életútja. Télen, a sötétség mélypontján megszületik, tavasszal legyőzi a sötétséget, nyáron életereje teljében van és ősszel visszahúzódik, megöregszik, majd meghal, hogy újjászülethessen. A Nap életének sarokpontjai jelölik ki a legfontosabb időpontokat az ünnepekhez: ezek a napfordulók és a napéjegyenlőségek. Évezredeken keresztül csak a Nap járását vették figyelembe ezekhez, így volt állandó ünnep a [[T/Téli napforduló\|téli napforduló]]kor az, amit mi Karácsonynak nevezünk, a tavaszi napéjegyenlőségkor a Húsvét, [[N/Nyári napforduló\|nyári napforduló]]kor az, ami ma Szentivánéj. Az őszi napéjegyenlőség ünnepe eltűnt, alig vannak nyomai.  
 >
-> A Nap éves ciklusa jelöli a szent idő \[[[Idő\|idő]] is üdő > [[U/UT\|UT]], [[U/UD\|UD]]\] egy nagyobb egységnyi ritmusát, a szent tér pedig ez a háromrétegű világmindenség. A szent tér és a szent idő pedig úgy találkozik, hogy a Napút és a Tejút-Világfa találkozási pontjainál is történik egy-egy csoda. Mégpedig az, hogy ilyenkor megnyílik a Túlvilág felső és alsó kapuja...  
+> A Nap éves ciklusa jelöli a szent idő \[az [[I/Idő\|idő]] is üdő > [[U/UT\|UT]], [[U/UD\|UD]]\] egy nagyobb egységnyi ritmusát, a szent tér pedig ez a háromrétegű világmindenség. A szent tér és a szent idő pedig úgy találkozik, hogy a Napút és a Tejút-Világfa találkozási pontjainál is történik egy-egy csoda. Mégpedig az, hogy ilyenkor megnyílik a Túlvilág felső és alsó kapuja...  
 >
 > A Napút sarokpontjaihoz, a napfordulók és napéjegyenlőségek ünnepeihez – eredetileg a Karácsony, a Húsvét és a Szentivánéj ezek lennének – így csatlakozik még két ünnep: Pünkösd és Halottak napja. Előbbi az Ikrek jegyéhez kapcsolódik, amikor a Nap az Állatövön megtett éves útja során elér a Tejút felső végéhez az Ikrek jegyénél. Itt nyílik meg a világfa tetején a felső világ, a Menny kapuja. Ezért állítottak régen ekkor májusfát és énekelték: "...nyitva van az aranykapu, csak bújjatok rajta!". Ezzel átellenben, az év második felében a Nap a Skorpió jegyében találkozik a Tejút másik végével, a Világfa tövéhez érkezve, ahol az alsó világ, azaz az Alvilág felé nyílik meg az út. Vagyis a "másvilág", a holtak birodalma felé. Ezért van ekkor a Halottak napja.  
 
