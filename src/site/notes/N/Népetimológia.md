@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts"],"created":"2025-07-16T14:23","updated":"2025-08-31T02:53"}
+{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts"],"created":"2025-07-16T14:23","updated":"2025-09-28T21:27"}
 ---
 
 
@@ -9,10 +9,12 @@ Sok előítélet kapcsolódik ahhoz a tevékenységhez, amit ezzel a kifejezéss
 
 #### Jankovics Marcell Mély a múltnak kútja...  
 
-...című könyvének 66. oldalán írja:  
+...című könyvének 29 és 66. oldalán írja:  
+> ...a hagyományos jelképalkotásban a nyelvi homofónia kulcsszerepet játszott...  
+> \[...\]
 > Emlékeztetnék arra, hogy a fogalmak közötti összefüggés olykor csupán a szavak homofóniáján alapuló "népi etimológizálás" következménye: mindazonáltal az ember jelképteremtő kedvének ez nem szabott gátat a későbbiekben sem.  
 
-Épp ez a lényeg. A nép alkotja, bővíti a szókincsét, "hasonlót  a hasonlóval" alapon, a [[F/Flexió\|flexió]] címnél taglalt apró hajlításokkal. A nyelv alakítása nem papi privilégium és a nyelvek nem a népek patriarchalizálódása folyamán keletkeztek, hanem olyan (a beláthatatlanul messzi múltba vesző) időben, amikor az [[A/Analógikus gondolkodásmód\|analógiás gondolkodás]] volt a meghatározó.  
+Épp ez a lényeg. A nép alkotja, bővíti a szókincsét, "hasonlót a hasonlóval" alapon, a [[F/Flexió\|flexió]] címnél taglalt apró hajlításokkal. A nyelv alakítása nem papi privilégium és a nyelvek nem a népek patriarchalizálódása folyamán keletkeztek, hanem olyan (a beláthatatlanul messzi múltba vesző) időben, amikor az [[A/Analógikus gondolkodásmód\|analógiás gondolkodás]] volt a meghatározó.  
 A nép tehát nem nyelvészkedett, nem a szavak eredetét akarta meghatározni, nem holmi papi szektákból később kialakult nyelvész szekták megélhetését akarta elvenni, pusztán használni a nyelvet és a nyelvhasználat során a szókincset bővíteni, népi műveltségének keretei között.  
 - Arról több helyen volt szó, hogy az idegen nyelven eltérő szavai úgy alakulnak ki, hogy egy közös ősi mondai vagy szakrális indíték más mondanivalóval szolgál és a régi szóhoz egy új jelentést társítanak. Kis gyakorlattal (lehetőség szerint a megfelelő mondai környezet ismeretével) ezeket észre lehet venni. Csak ugye amikor ezeket a szövegkörnyezeteket vizsgálni kezdi az ember, akkor jönnek: "népetimológia!" És ők "nyertek".
 
