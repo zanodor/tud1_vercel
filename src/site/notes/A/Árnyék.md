@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Árnyék/","title":"Árnyék","created":"2024-04-25T17:21","updated":"2025-09-24T13:50"}
+{"dg-publish":true,"permalink":"/A/Árnyék/","title":"Árnyék","created":"2024-04-25T17:21","updated":"2025-09-28T21:26"}
 ---
 
 
@@ -55,7 +55,8 @@ Márpedig minden szent helynek és azok sarkainak, ahogy a [[K/Kutyaáldozás\|k
 ...című tanulmányának alábbi sorai [[E/Észak és dél\|észak és dél]] címnél is szerepeltek:  
 > Ha földbe tűzünk egy pálcát, megfigyelhetjük, hogy akkor legrövidebb az árnyéka, amikor a nap épp delelőn áll. Ilyenkor az árnyék hajszálpontosan észak felé mutat, a nap pedig mindig déli irányban látható. A zeniten álló nap az északi félteke bármely pontján déli irányba esik tőlünk. A nap útja, "nyomvonala" kétfelé osztja a világot. Az "aranykapun" túl Dél birodalma látszik, az ellenkező irányban pedig az éj szaka található. Az éj szakasza együtt mozog az árnyékkal, mindig átellenben a nappal. Amikor a nap az égen jár, az éj szaka a föld alatt van.  
 > \[...\]  
-> Ahová a nap nem tud besütni, ott azonnal előtűnik az alapvető valóság, az éj egy darabkája, az árnyék. Az [[E/Ember – régi ember\|ember – régi ember]] tehát nem a nappalt tekintette a mindenség kiinduló állapotának – negatívabb világszemléletű volt nálunk. Ez mutatkozik meg a mitológiákban is általánosságban, a sötétség a kezdet \[[[Sátán\|[Sátán]]nak éppen ilyen két jelentése is van\], ő az anya, amelyből megszületik a fény. És ez a magyarázata annak is, hogy az ősi kultúrákban miért kap olyan jelentős szerepet az árnyék. Az árnyék a dolgokban és az emberben lévő éj; amelynek szakába visszalép amikor alszik, elájul, megrémül vagy révületbe esik; ilyenkor abba a világba kerül, ahol a halála előtt élt, és ahová majd a halála után jut.  
+> Ahová a nap nem tud besütni, ott azonnal előtűnik az alapvető valóság, az éj egy darabkája, az árnyék. Az [[E/Ember – régi ember\|ember – régi ember]] tehát nem a nappalt tekintette a mindenség kiinduló állapotának – negatívabb világszemléletű volt nálunk. Ez mutatkozik meg a mitológiákban is általánosságban, a sötétség a kezdet, ő az anya, amelyből megszületik a fény. És ez a magyarázata annak is, hogy az ősi kultúrákban miért kap olyan jelentős szerepet az árnyék. Az árnyék a dolgokban és az emberben lévő éj; amelynek szakába visszalép amikor alszik, elájul, megrémül vagy révületbe esik; ilyenkor abba a világba kerül, ahol a halála előtt élt, és ahová majd a halála után jut.  
+- Sötétség és kezdet: [[S/Sátán\|Sátán]]nak éppen ilyen két jelentése is van.
 
 Varsa Mátyás tanulmányának [[L/Lélek#Lélek – lélekmadár\|lélek – lélekmadár]] cím/alcímnél álló sorai közül ide tehető, hogy a vogul nyelvben "árnyék"- vagy ha úgy tetszik "álomlélek" `ulum isz` (ahol isz megfelel [[I/Íz\|íz]]-nek) alakú. Ez azért lehet fontos, mert az árnyék és az [[A/Álom\|álom]] között is jelentésbeli átfedést kell látni. Épp a fentebbi Varsa féle sorok bizonyítják ezt.  
 
