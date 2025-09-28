@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szivárvány/","title":"Szivárvány","tags":["containstransclusions"],"created":"2023-10-31T11:12","updated":"2025-07-30T03:32"}
+{"dg-publish":true,"permalink":"/S/Szivárvány/","title":"Szivárvány","tags":["containstransclusions"],"created":"2023-10-31T11:12","updated":"2025-09-28T21:27"}
 ---
 
 
@@ -66,7 +66,7 @@ A Kus-Kos nyilas témát itt még nem fejeztük be, ugyanis [ezen alábbi](https
 
 Dobos Csanád az [alábbi](https://web.archive.org/web/20210509155450/https://magyarmegmaradasert.hu/kozerdeku/olvasoink-irjak/item/4754-z) cikkben szintén foglalkozik a szivárvánnyal de nem tekint túl rajta (nem gondol félrefordításra).  
 
-A Péterfai János által említett Kasszita[^1] nem lehet más, mint a [[B/Banana\|banana]], [[N/Nyilas csillagkép\|Nyilas csillagkép]] és [[K/KUS\|KUS]] címnél is előjövő bibliai-héber `qĕšĕt` szó, mely a [[Z/Zsidó zodiákus\|zsidó zodiákus]] címnél a-hangosan, **Kasshat**-ként (Nyilas) kerül elő, csakhogy a [[K/Khamor\|Khamor]] címnél taglalt akkád **Kumaru** és a [[S/Szkíta\|szkíta]] címnélt taglalt (Sagittarius-Nyilassal szemben lévő) [[I/Íj csillagkép\|Íj csillagkép]] témái alapján elvileg ez a név a másik, szemközti Nyilazó neve is lehet, tekintve, a hogy a Kasszita kapcsán is taglalt Kazár, Kattar nevek, ahogy [[K/Kazár\|kazár]] címnél taglaljuk, Orionra utalnak.  
+A Péterfai János által említett Kasszita[^1] nem lehet más, mint a [[B/Banana\|banana]], [[N/Nyilas csillagkép\|Nyilas csillagkép]] és [[K/KUS\|KUS]] címnél is előjövő bibliai-héber `qĕšĕt` szó, mely a [[Z/Zsidó zodiákus\|zsidó zodiákus]] címnél a-hangosan, **Kasshat**-ként (Nyilas) kerül elő, csakhogy a [[K/Khamor\|Khamor]] címnél taglalt akkád **Kumaru** és a [[S/Szkíta\|szkíta]] címnél taglalt (Sagittarius-Nyilassal szemben lévő) [[I/Íj csillagkép\|Íj csillagkép]] témái alapján elvileg ez a név a másik, szemközti Nyilazó neve is lehet, tekintve, a hogy a Kasszita kapcsán is taglalt Kazár, Kattar nevek, ahogy [[K/Kazár\|kazár]] címnél taglaljuk, Orionra utalnak.  
 
 Felvetődik itt még, hogy a [[F/Frigyláda\|frigyláda]], angolul *Ark of the Covenant*, nem lenne más mint Arc of the Covenant? Persze nem az angol fordításokból kell kiindulni és a Genesis-ben nincs is róla szó.  
 
