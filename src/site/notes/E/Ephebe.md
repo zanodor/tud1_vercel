@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ephebe/","title":"Ephebe","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-27T10:24","updated":"2024-10-25T17:18"}
+{"dg-publish":true,"permalink":"/E/Ephebe/","title":"Ephebe","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-27T10:24","updated":"2025-09-28T21:33"}
 ---
 
 
@@ -8,7 +8,7 @@
 Az `ephebos` az ókori Görögországban 18-20 év közötti katonai kiképzésben részesülő ifjú neve. A szó felbontható [[E/Epi-\|epi-]] = közel előtagra és arra a `hébé` = korai férfikor jelentésűnek megadott szóra, mely [[H/Hébé\|Hébé]] fiatalság-istennő nevével egyező és a helyén [[S/Szép\|szép]] szavunkkal feleltettük meg.  
 [[P/Psychopomp\|Psychopomp]] címnél is szerepelt az alábbi:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/p/psychopomp/#ehxpdl" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/P/Psychopomp/#ehxpdl" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
