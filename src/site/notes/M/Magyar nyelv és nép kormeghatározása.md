@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv és nép kormeghatározása/","title":"Magyar nyelv és nép kormeghatározása","created":"2023-10-14T06:06","updated":"2025-09-24T13:53"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv és nép kormeghatározása/","title":"Magyar nyelv és nép kormeghatározása","created":"2023-10-14T06:06","updated":"2025-09-28T21:29"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 A [[M/Magyar\|magyar]] maga az emberiség. Így az ember őstörténete a magyar őstörténet. [[K/Kárpát-medence\|Kárpát-medence]] és [[F/Fajok\|fajok]] címnél már volt ezen témákról szó, kormegjelöléssel, ilyen-olyan adatokkal.  
 
-Ahogy [[S/Székely-magyar rovásírás\|székely-magyar rovásírás]] címnél bemutattuk, a magyar nép és nyelv korát egyes (DNS-vizsgálatok \[[[Genetika\|genetika]]\] adataira építkező) információk alapján 40 ezer, más, Péterfai János által megosztott információk alapján 200 ezer, a vértesszőlősi (vajon milyen nyelvet, ha nem magyart beszélő) Samu kora alapján 350-400000 évre lehet taksálni, de [[G/Grandpierre Atilla\|Grandpierre Atilla]] szerint jó bizonyítékok szolgálnak arra nézve, hogy **10 millió éves is lehet**[^1]. Ő csillagászati tudását is latba tudja vetni, de Magyar Adorján könyvének adatai is arra engednek következtetni, hogy a magyarság már élt a [[F/Föld tengelyferdülése\|Föld tengelyferdülése]] előtt, melynek idejét ugyan nem tudjuk, de azt igen, hogy a [[D/Dinosaur\|dinosaur]] cím alatt szereplő infók alapján az emberiség már együtt élhetett a hüllőkkel. Tehát vagy 50-60 milliós éves, vagy a hüllők kissé/sokkal később haltak ki.  
+Ahogy [[S/Székely-magyar rovásírás\|székely-magyar rovásírás]] címnél bemutattuk, a magyar nép és nyelv korát egyes (DNS-vizsgálatok ([[G/Genetika\|genetika]]) adataira építkező) információk alapján 40 ezer, más, Péterfai János által megosztott információk alapján 200 ezer, a vértesszőlősi (vajon milyen nyelvet, ha nem magyart beszélő) Samu kora alapján 350-400000 évre lehet taksálni, de [[G/Grandpierre Atilla\|Grandpierre Atilla]] szerint jó bizonyítékok szolgálnak arra nézve, hogy **10 millió éves is lehet**[^1]. Ő csillagászati tudását is latba tudja vetni, de Magyar Adorján könyvének adatai is arra engednek következtetni, hogy a magyarság már élt a [[F/Föld tengelyferdülése\|Föld tengelyferdülése]] előtt, melynek idejét ugyan nem tudjuk, de azt igen, hogy a [[D/Dinosaur\|dinosaur]] cím alatt szereplő infók alapján az emberiség már együtt élhetett a hüllőkkel. Tehát vagy 50-60 milliós éves, vagy a hüllők kissé/sokkal később haltak ki.  
 
 Arról [[Z/Zodiac\|zodiac]] címnél is volt szó, hogy minimum 70-100000 évre lenne szükség, hogy a csillagképeknek megfelelő nevet lehessen adni.  
 ![assets/Magyarnyelvesnepkormeghatározása_image1.png|fix_dark fix_light 840 right|230](/img/user/M/assets/Magyarnyelvesnepkormeghat%C3%A1roz%C3%A1sa_image1.png)  
