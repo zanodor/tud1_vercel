@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2025-09-24T13:40"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2025-09-28T21:17"}
 ---
 
 
@@ -34,7 +34,7 @@
 
 Ismét joggal tehetjük fel a kérdést: a Bakban lehetett-e a Tejútközpont? ([[M/Makara Sankrati\|Makara Sankrati]] címnél ezen passzus/adatok kapcsán precessziós okokat már felhoztunk.)  
 Ugyanakkor nemcsak a téli napfordulós kérdés érdekes itt, hanem az is, hogy ha a Tejút az égteret kétfelé [[M/MES\|mes]]i, szakítja, akkor hogy teszi ezt meg úgy, hogy a [[T/Tejút\|Tejút]] [[M/Más\|más]]ik (sötét) oldalára jutó [[F/Félév\|félév]] egyúttal a nyári napforduló által is legyen kijelölve...Erről lesz szó még alant, de közben még a legutóbb [[R/Rák csillagkép\|Rák csillagkép]] címnél írottakat tegyük ide a téma kapcsán, hogy nem mindig egyértelmű, hogy az Ikrekhez tartozik a Kutya és az Orion a Rákba:  
-Például a törökben úgy maradt meg a Kutya, mint a nyári napfordulót (a kánikulához is köthető tűz \[[[Kut\|[Kut]], Ku-Ta\] illetve tűzugratás ünnepi helyét mutatva) jelölő Rák nevére alkalmazott név (**Kuçik** = Rák csillagkép), dacára annak, hogy a Kutyacsillag és Nagy Kutya csillagkép az Ikrek cikkelyébe tartozik. Ennek ártatlan oka is lehet (ahogy a Magor-pár [[H/Hunor\|Hunor]] [[H/Hun\|Hun]] előrészének [[K/KAN\|KAN]]-nal való egyezése kapcsán is láttuk, hogy a latin [[C/Cancer\|Cancer]] = Rák nevében is megjelenik és a japán **Kani** = Rák nevében ugyanúgy), de lehet oka a precesszió is (bár ugyanakkor elvileg a Szíriuszra az nem vonatkozott volna; de ugyanúgy a "túloldalon" a Tejútközpont sem ott van, ahol a Nyilasból Bakba érő Nap születési helyét kellene meghatározza; ezt a kérdést egyszer és mindenkorra tisztázni kellene végre).  
+Például a törökben úgy maradt meg a Kutya, mint a nyári napfordulót (a kánikulához is köthető tűz ([[K/Kut\|Kut]], Ku-Ta) illetve tűzugratás ünnepi helyét mutatva) jelölő Rák nevére alkalmazott név (**Kuçik** = Rák csillagkép), dacára annak, hogy a Kutyacsillag és Nagy Kutya csillagkép az Ikrek cikkelyébe tartozik. Ennek ártatlan oka is lehet (ahogy a Magor-pár [[H/Hunor\|Hunor]] [[H/Hun\|Hun]] előrészének [[K/KAN\|KAN]]-nal való egyezése kapcsán is láttuk, hogy a latin [[C/Cancer\|Cancer]] = Rák nevében is megjelenik és a japán **Kani** = Rák nevében ugyanúgy), de lehet oka a precesszió is (bár ugyanakkor elvileg a Szíriuszra az nem vonatkozott volna; de ugyanúgy a "túloldalon" a Tejútközpont sem ott van, ahol a Nyilasból Bakba érő Nap születési helyét kellene meghatározza; ezt a kérdést egyszer és mindenkorra tisztázni kellene végre).  
 
 > [!|noicon]
 > Azt mindenesetre jegyezzük meg, hogy:  
@@ -154,7 +154,7 @@ Nem érdektelen megemlíteni, hogy az [[A/Anchor\|anchor]] és [[A/Angle\|angle]
 
 A tulajdonképpeni [[V/Világhónap\|világhónap]] addig tart, amíg a [[T/Tavaszpont\|tavaszpont]], az a pont, amelyen a Nap március 21-én áll, egy állatövi jegynyit továbbhalad. Egy Világhónap tartama 2160 év, tehát nem földi ember-léptékű a dolog.  
 Asztrológiai szempontok szerint a Világhónap ez: a gondolatban meghosszabbított Föld-tengely 25920 év alatt egyszer futja át az állatövet, mégpedig visszafelé. Ezt a körmozgást a Föld-tengely elmozdulása okozza, amelyet precessziónak nevezünk. A Nap és a Hold vonzerejének következtében ugyanis a Föld-tengely eltolódik az állócsillag égbolthoz viszonyítva, mégpedig évenként 50 ívmásodperccel, tehát 72 év alatt 1 fokkal, és körülbelül 25920 év alatt egy teljes körrel.  
-Egy teljes körfutam neve Platonikus év, azaz Világév \[[[Nagy Év\|[Nagy Év]]\]. Ha ezt 12-vel elosztjuk (ennyi állatövi jegy van), akkor 12 Világhónapot kapunk eredményül.  
+Egy teljes körfutam neve Platonikus év, azaz Világév ([[N/Nagy Év\|Nagy Év]]). Ha ezt 12-vel elosztjuk (ennyi állatövi jegy van), akkor 12 Világhónapot kapunk eredményül.  
 
 #### Dobos Csanád írja:  
 
