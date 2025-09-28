@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Béka/","title":"Béka","created":"2024-04-21T14:29","updated":"2025-09-24T13:49"}
+{"dg-publish":true,"permalink":"/B/Béka/","title":"Béka","created":"2024-04-21T14:29","updated":"2025-09-28T21:26"}
 ---
 
 
@@ -39,7 +39,7 @@ A négylábú Tejútanya-állatalak ([[P/Párduc\|párduc]], [[G/Gepárd\|gepár
 
 Más mitológiákban az életfa alján, gyökerében kerül megjelenítésre.  
 
-Márpedig még maga a [[V/Vulva\|vulva]], ahogy kimutattuk, is könnyen utalhat a Tejútközpontra (lásd [[G/Galactic centre\|Galactic centre]]), a Tejútistennő szeméremnyílására (Nyílás > Nyilas). Ezek alapján a Bék-A a Nap születési helyére kell utaljon. (Erről [[M/MAG\|MAG]], [[K/KUN\|KUN]], [[S/SZAG\|SZAG]], [[N/Nap\|Nap]], [[S/Szül\|szül]] és más címnél is volt szó.)  
+Márpedig még maga a [[V/Vulva\|vulva]], ahogy kimutattuk, is könnyen utalhat a [[G/Galactic centre\|Tejútközpont]]ra, a Tejútistennő szeméremnyílására (Nyílás > Nyilas). Ezek alapján a Bék-A a Nap születési helyére kell utaljon. (Erről [[M/MAG\|MAG]], [[K/KUN\|KUN]], [[S/SZAG\|SZAG]], [[N/Nap\|Nap]], [[S/Szül\|szül]] és más címnél is volt szó.)  
 
 A [[H/Hunahpu\|Hunahpu]] címnél írottak szintén ezt támasztják alá:  ![assets/Béka_image2.png|fix_dark fix_light right|300](/img/user/B/assets/B%C3%A9ka_image2.png)  
 A mellékelt, [[K/Keresztre feszített Nap\|keresztre feszített Nap]] és [[O/Orant\|orant]] címnél is szereplő képen Hun Hunahpu (Egy Hunahpu) a kozmikus békából (a Tejútistennő méhéből/vulvájából) kel ki/támad fel. A béka másutt John M. Jenkinsnél jaguár-varangy, de a lényegen nem változtat.  
@@ -87,7 +87,7 @@ Csak még annyit ide, hogy...
 #### Magyar Adorján Csodaszarvas...  
 
 ...című könyvéből kiderül, hogy nem érti a béka nevet:  
-> Béka szavunk azonban kabar eredetű, míg gál \[[[Kál\|kál]]?\] törzseink ezt réka-nak ejtették, amivel aztán egy regebeli [[R/Réka\|Réka]] királynéról szóló mondák függenek össze, amelyek csak később hozattak kapcsolatba Atillával és feleségével. E regék többnyire vízalatti palotákról, városokról szólanak, ahova földi emberek csodás dolgokat tanulni járnak. Ide tartozik például a kaldeai [[O/Oannesz\|Oannesz]]-monda is, amely a vízből kijáró és az embereket oktató halemberekről szól. (Lássad például Benedek Eleknél "Szekfűhajú János" meséjét.) De ide tartozik például a szegény halászról szóló mesénk is, aki hálójába a Békakirályné ismételten egy kerek követ tesz, amelyről, mikor a rátapadott iszaptól megtisztul, kitűnik hogy hatalmas gyémánt.  
+> Béka szavunk azonban kabar eredetű, míg gál törzseink ezt réka-nak ejtették, amivel aztán egy regebeli [[R/Réka\|Réka]] királynéról szóló mondák függenek össze, amelyek csak később hozattak kapcsolatba Atillával és feleségével. E regék többnyire vízalatti palotákról, városokról szólanak, ahova földi emberek csodás dolgokat tanulni járnak. Ide tartozik például a kaldeai [[O/Oannesz\|Oannesz]]-monda is, amely a vízből kijáró és az embereket oktató halemberekről szól. (Lássad például Benedek Eleknél "Szekfűhajú János" meséjét.) De ide tartozik például a szegény halászról szóló mesénk is, aki hálójába a Békakirályné ismételten egy kerek követ tesz, amelyről, mikor a rátapadott iszaptól megtisztul, kitűnik hogy hatalmas gyémánt.  
 
 Mi sem mutatja jobban, hogy tűz megvan a névben, mint az, a [[K/Kutya Egyiptomban\|kutya Egyiptomban]] címnél is szereplő adat szerint Antef király egyik kutyájának neve **Behka** \[vö. maja `pek` = kutya\]. Antef egyébként nagy kutyabarát lehetett, Behkán kívül négy kutyája is látható mellette: Pehtesz, Abaker, Tekeru, Tekner.  
 
