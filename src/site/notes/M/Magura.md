@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magura/","title":"Magura","tags":["Englishtexttranslated"],"created":"2023-10-29T08:17","updated":"2025-09-11T16:57"}
+{"dg-publish":true,"permalink":"/M/Magura/","title":"Magura","tags":["Englishtexttranslated"],"created":"2023-10-29T08:17","updated":"2025-09-28T21:31"}
 ---
 
 
@@ -20,7 +20,7 @@ Másutt hegy ismét:
 > **Makarhegy**en, a Mecsek hegységben, csillagvizsgáló intézményük is volt a muzulmánoknak és a század végén a Domonkos-rendiek pécsi kolostoránál már működő nyelviskolában "arab nyelvet is tanítottak" (305). A jegyzőkönyvek adatai szerint az itteni Sandur nevű tudóst is megidézte a Szegedről kiinduló inkvizíció, mert birtokában volt egy "albatenii Liber astronomie" című munka.  
 > Visszaadták tulajdonosának Hont Pázmány János pécsi püspök közbenjárására. A könyvet visszajuttató végzés szerint: "a tiszteletreméltó dominus Sandur mestere volt a Makarhegyen levő szaracén csillagvizsgálónak" (306).  
 
-Továbbá igen hasonló hegy név jön elő még biz. Páter Szelényi Imrétől, aki azt írja, hogy [[N/Nimrud\|Nimrud]] Etiópiában született, Kash-Urban, a **Maguar hegy** lábánál, a kis Bakk pataknál nevelkedett. \[[[Bacchus\|[Bacchus]] címnél is szerepelt ezen adata.\]  
+Továbbá igen hasonló hegy név jön elő még biz. Páter Szelényi Imrétől, aki azt írja, hogy [[N/Nimrud\|Nimrud]] Etiópiában született, Kash-Urban, a **Maguar hegy** lábánál, a kis Bakk pataknál nevelkedett. ([[B/Bacchus\|Bacchus]] címnél is szerepelt ezen adata.)  
 
 Elképzelhető, hogy a kutatói körökben mostanság gyakran előjövő Mag Ura kifejezés is innen ered?  
 Dr. Horkovics-Kováts János Őstörténelmünk helyretétele\[?\] című YouTube-ra feltöltött [előadásának](http://www.youtube.com/watch?v=xqATRxzDbVk) első részében (ahol 18:20-nál egyéb Magura települések jönnek elő) arról szól, hogy vélhetően a naptisztelő magyarok eredeti neve Magura lehetett, vagy magukat így hívhatták, mert a [[J/Jégkorszak\|jégkorszak]]ban ők hordozták az emberiség magját magukban, akiken keresztül az emberiség fennmaradt. Ezzel két problémám van. A Mag-Ura lehet csak a hegyekre utaló (mert a Naphoz való közelség miatt is oda mentek fel istentiszteletet tartani, sőt, ezen hegyek tájépített hegyek is lehetnek), másrészt a Napvallás előtt [[C/Csillagvallás\|Csillagvallás]] és [[N/Nagyboldogasszony\|Nagyboldogasszony]] illetve [[M/Magyar\|Magyar]] (istennő) v. [[M/Magyar Ilona\|Magyar Ilona]] tisztelet volt.  
