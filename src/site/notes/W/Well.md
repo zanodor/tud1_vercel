@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/W/Well/","title":"Well","tags":["titleandheadingonedontmatch","containstransclusions","multipleentries","stitched"],"created":"2025-09-24T16:18","updated":"2025-09-24T16:19"}
+{"dg-publish":true,"permalink":"/W/Well/","title":"Well","tags":["titleandheadingonedontmatch","containstransclusions","multipleentries","stitched"],"created":"2025-09-24T16:18","updated":"2025-09-28T21:33"}
 ---
 
 
@@ -17,7 +17,7 @@ A bor, forr szavak magyarban is rokon szavak, a B-F változás gyakorinak mondha
 Lásd még [[K/Kehely\|kehely]]-alakról is [[V/V\|V]].  
 
 [[V/Vályú\|Vályú]] szavunkat számtalanszor említettük másutt, de e szó ezen szavunkból is eredhet.  
-Tomory Zsuzsa \*vella szót is felhoz, mint v alakú nyílást, mint amilyen a [[V/Váj\|vájat]] is lehet.  
+Tomory Zsuzsa \*vella szót is felhoz, mint v alakú nyílást, mint amilyen a vájat is lehet.  
 
 Az alábbi Magyar Adorján féle sorok [[W/Wave\|wave]] címnél szerepeltek:  
 
