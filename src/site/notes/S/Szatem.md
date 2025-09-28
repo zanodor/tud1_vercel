@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szatem/","title":"Szatem","created":"2024-11-05T19:17","updated":"2025-08-19T01:06"}
+{"dg-publish":true,"permalink":"/S/Szatem/","title":"Szatem","created":"2024-11-05T19:17","updated":"2025-09-28T21:28"}
 ---
 
 
@@ -8,9 +8,9 @@
 #### Péterfai János írja:
 
 > A [[K/Kimmer\|Kimmer]] névnek a K hangja az Sz-C-K hídon keresztül rokon az Sz hanggal. Ezt nevezik [[K/Kentum\|Kentum]] és Szatem nyelvi ágnak, mivel a K az Sz hanggal cserélődhet. Csak ez a cserélődés a magyar nyelvre is jellemző, és az indoeurópai cserélődés a magyarból keletkezett.  
-> 
+>
 > A Kimmer név kentum alakú, szatem alakban lenne Szimmer a formája. A görög nyelvet újabban a szatem csoportba sorolják.  
-> 
+>
 > A germánok, kelták, italicusok adják a kentum csoportot. A szatem csoporthoz tartoznak a szlávok, görögök, indek és mások. A magyar nyelvben mindkét csoport nyelvi jellegzetességei megvannak. Mindkét csoport a magyar nyelvből ered, ez a konklúzió.  
 
 Azt Péterfai külön nem említi itt, hogy a latin `centum` = száz és az óperzsa `satem` = száz hogyan válhattak külön.  
@@ -39,7 +39,7 @@ Említi illetve példákkal bemutatja hogy a szemita, sőt, a szumer nyelv jelle
 > | Š-R-F | (éles); vö. ném. *scharf* (éles) | SIRAP-u | (olló)           | ŠIR₂   | (levág)            |
 > |       |                                  |         |                  | ŠUR    | (ragyog)           |
 > | Š-R-M | (karcolás); vö. német *Schramme* |         |                  |        |                    |
-> 
+>
 > Tehát a szemita nyelvekben, sőt a szumérban is megtaláljuk a kentum és a satem hangalakú változatokat – mégpedig ugyanazon nyelveken belül – szoros szemantikai összefüggésben álló szavak fonetikai megkülönböztetése vagy szinonimák képzésére. Még ennél is feltűnőbb azonban, hogy a bemutatott indogermán, szemita és szumér szavak kétségkívül egymás között is szoros jelentésbeli és hangalaki összefüggéseket mutatnak.  
 
 Azt viszont hangsúlyozza, hogy itt tendenciák vannak nem külön kentum és szatem nyelvek és tájnyelvi eltérések mutatkoznak jelentésátmenetekkel is melyekre táblázatos formában példákat közöl.  
@@ -53,7 +53,7 @@ A Kentum-Szatem nyelvi ágak szétválásáról...
 
 ...című cikkében is ír:  
 > De a cáréhoz hasonló a magyar "király" szó története is. Itt meg I. (Nagy) Károlyt tartják a král, karol szláv tisztség névadójának, és hát innen lett volna szláv jövevényszó a magyar király is. Mint Cézárnál, itt is a nagyapa volt a névadó. Ő volt Kalapácsos (Martell) Károly (686-741) a Karoling-dinasztia alapítója. A Károly (Carolus, Charles, eredeti kiejtés: charlz), név az ónémet \*karlja, \*karlaz, (szabad ember, jobbágy) titulusból eredeztethető.  
-> Ekkor a magyar ~~protoindoeurópai eredetű~~ `kerál` szó már évezredek óta ismert lehetett és a kentum-szatem nyelvi szétváláskor a magyarban maradt a "ker" gyök, míg a szatem területen ez "szárrá", "cárrá" változott. Míg a magyar "király" szóban a "kör", a szláv "cár" szóban a "sár" (gömb, pld. földgömb, `Земной шар`) szó jelöli a teljességet \[[[SAR\|[SAR]]-nak van teljes jelentése a sumérben vagy akkádban\], a mindenek feletti uralmat. Ezt a gömböt (nálunk országalmát) tartják a kezükben az ősi istenek, királyok.
+> Ekkor a magyar ~~protoindoeurópai eredetű~~ `kerál` szó már évezredek óta ismert lehetett és a kentum-szatem nyelvi szétváláskor a magyarban maradt a "ker" gyök, míg a szatem területen ez "szárrá", "cárrá" változott. Míg a magyar "király" szóban a "kör", a szláv "cár" szóban a "sár" (gömb, pld. földgömb, `Земной шар`) szó jelöli a teljességet \[vö. [[S/SAR\|SAR]]-nak van teljes jelentése a sumérben vagy akkádban\], a mindenek feletti uralmat. Ezt a gömböt (nálunk országalmát) tartják a kezükben az ősi istenek, királyok.
 { #4v0nf7}
 
 
@@ -66,7 +66,7 @@ De ha már Szat/Szet, [[S/Szít#Szít, süt, söt(ét)\|szít, süt, söt(ét)]]
 Az, hogy a szatem keleties, lehet, hogy igaz, de legutóbb [[C/Csuda\|csuda]] címnél kifejtettük, hogy a magyar nyelv magában hordozza a lehetőséget arra, hogy egyes kemény hangzói (mint a K) meglehessen s, sz, cs formában is, némi jelentésmódosulattal is. Így a Magyar Adorján által taglalt régi \*csod vagy \*csud = süt, fény keményebb, eredetibb párja lehet [[K/Kut\|kut]], csudának pedig kutya, de eredeti a [[S/Süt\|süt]] is (hisz ez [[T/Tűz\|tűz]] szavunk megfordítva), valamint [[H/HUD\|HUD]], [[G/GUD\|GUD]] formák is léteznek ilyen fény jelentéssel.  
 
 [[C/Concussion\|Concussion]] címnél is szerepeltek az alábbiak:  
-A latin `cūdere` = ütni, szanszkrit `kut` = átver, átfúr (lyukat, kutat fúr?), sőt, a kecsua `kutay` = ököllel üt, koccanás, és egy Ősi Gyökeres Tibold Makk Szabina adataként előjövő japán `kodo` = szívdobbanás (lásd róla [[D/Dob\|dob]]) olyan szavak, melyek elárulják (lásd még hasonlókat [[K/Kite\|kite]] és [[S/Sagittarius\|Sagittarius]] címnél is), hogy a hímségi ([[U/UT\|UT]] Napnévből képzett) üt[^1] szavunknak s-előhangos (mint süt – elsüt; lásd [[S/Shoot\|shoot]]) változata mellett k-előhangos kún-hun eredetű változata is létezett. Hogy az ütés itt nemző (mint [[K/Kutyanemzés\|kutyanemzés]]) vagy test sérülésére irányuló, nos, hímségiek lévén, "egy kutya." 
+A latin `cūdere` = ütni, szanszkrit `kut` = átver, átfúr (lyukat, kutat fúr?), sőt, a kecsua `kutay` = ököllel üt, koccanás, és egy Ősi Gyökeres Tibold Makk Szabina adataként előjövő japán `kodo` = szívdobbanás (lásd róla [[D/Dob\|dob]]) olyan szavak, melyek elárulják (lásd még hasonlókat [[K/Kite\|kite]] és [[S/Sagittarius\|Sagittarius]] címnél is), hogy a hímségi ([[U/UT\|UT]] Napnévből képzett) üt[^1] szavunknak s-előhangos (mint süt – elsüt; lásd [[S/Shoot\|shoot]]) változata mellett k-előhangos kún-hun eredetű változata is létezett. Hogy az ütés itt nemző (mint [[K/Kutyanemzés\|kutyanemzés]]) vagy test sérülésére irányuló, nos, hímségiek lévén, "egy kutya."
 
 ## Kentum-szatem szétválás helyett összevonás
 
