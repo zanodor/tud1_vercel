@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zodiákus első jegye/","title":"Zodiákus első jegye","tags":["Englishtexttranslated"],"created":"2023-11-08T04:59:00","updated":"2025-09-24T13:22"}
+{"dg-publish":true,"permalink":"/Z/Zodiákus első jegye/","title":"Zodiákus első jegye","tags":["Englishtexttranslated"],"created":"2023-11-08T04:59:00","updated":"2025-09-28T21:27"}
 ---
 
 
@@ -15,9 +15,10 @@ Nem mindenütt volt az, például a kínaiaknál és a hinduknál is a Vízönt�
 
 #### Richard H. Allen:
 
-> On the Ganges, as in China, **Acquarius began the circle of the zodiacal signs**; and Al Biruni said that at one time in India it was Khumba, or Kumbaba \[[[Humbaba\|[Humbaba]]?\], which recalls the Elamite divinity of that name, the Κόμβη, or Storm God, of Hesychios. This, too, was the Tamil title for it; La Lande writing it Coumbum.  
+> On the Ganges, as in China, **Aquarius began the circle of the zodiacal signs**; and Al Biruni said that at one time in India it was Khumba, or Kumbaba, which recalls the Elamite divinity of that name, the Κόμβη, or Storm God, of Hesychios. This, too, was the Tamil title for it; La Lande writing it Coumbum.  
 > —  
 > A Gangesznél, akárcsak Kínában, a Vízöntő kezdte az állatövi jegyek körét; és Al Biruni szerint Indiában egykor Khumba vagy Kumbaba volt a neve, ami az ilyen nevű elámi istenségre, vagy Hesychios Viharistenére, Κόμβη-ra emlékeztet. Ez volt a tamil elnevezése is; La Lande Coumbumnak írja.  
+- Kumbaba [[H/Humbaba\|Humbaba]]?
 
 A kínaiaknál viszont a 12 éves ciklusok számolását tekintve a Patkány (Ikrek) az első:  
 > For thousands of years, a twelve-year cycle named after various real or mythological animals has been used in Southeast Asia. This twelve-year cycle, sometimes referred to as the "Chinese zodiac," associates each year in turn with a certain creature, in a fixed order of twelve animals, after which it returns to the first in the order, the Rat. The eleventh in the cycle is the Dog.  
