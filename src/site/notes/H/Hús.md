@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hús/","title":"Hús","created":"2023-10-23T05:24","updated":"2025-06-08T00:45"}
+{"dg-publish":true,"permalink":"/H/Hús/","title":"Hús","created":"2023-10-23T05:24","updated":"2025-09-28T21:32"}
 ---
 
 
@@ -12,7 +12,7 @@
 
 Vagy pedig lehet afféle magyar szó, melyben több idea bújik meg. Elsőként a [[H/HAS\|has]]hoz (leginkább ott is húsos az ember) hasonlóan a [[H/Ház\|ház]] fogalma: a test (a [[B/Börtön\|börtön]] és [[K/Kagyló\|kagyló]] fogalmaihoz hasonlatosan), annak húsa: a lélek háza. [[Z/Zarathustra\|Zarathustra]] nevében is ez a Ház fogalom lehet meg, ha nem [[I/Istár\|Istár]]ra utal az utórész. Kétségtelen, hogy Péterfai János meglátása is jó, de ő nyilván a [[H/Húsvét\|húsvét]] szóból indul ki.  
 
-Tóth Alfrédnál talált adat szerint a sumér `kus` = bőr (lásd még párjait [[H/Hide\|hide]]), mely mellé kéreg szavunkat tette (de miért?). Ha számít valamit, a régi [[T/Temetkezés\|temetkezés]]i szokások szerint állatbőrbe csavarták őket. Inkább a kusok = etiópok égetett bőrére utal, ahogy fentebb volt róla szó. Vagy inkább hús szavunkra egyszerűen. A bőr ugye [[H/Ház\|ház]], ahogy a hús is. \[[[KUS\|[KUS]] címnél is szerepelt.\]  
+Tóth Alfrédnál talált adat szerint a sumér `kus` = bőr (lásd még párjait [[H/Hide\|hide]]), mely mellé kéreg szavunkat tette (de miért?). Ha számít valamit, a régi [[T/Temetkezés\|temetkezés]]i szokások szerint állatbőrbe csavarták őket. Inkább a kusok = etiópok égetett bőrére utal, ahogy fentebb volt róla szó. Vagy inkább hús szavunkra egyszerűen. A bőr ugye [[H/Ház\|ház]], ahogy a hús is. ([[K/KUS\|KUS]] címnél is szerepelt.)  
 
 Megegyezik vele a görög `ὗς` (hŷs) = sertés egyébiránt. Mely alakok akár hízó szavunkra is emlékeztetnek.  
 A Borbola János A kota és a ház című az Ősi Gyökér 2008/2. sz. megjelent cikkében [[H/Ház\|ház]] fogalmának kapcsán elővett [[H/Híz\|híz]] ige is a hús főnévhez tartható: aki hízik, több a húsa.  
