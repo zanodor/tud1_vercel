@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ádám és Éva/","title":"Ádám és Éva","tags":["Englishtexttranslated"],"created":"2023-11-06T01:53","updated":"2025-09-17T22:27"}
+{"dg-publish":true,"permalink":"/A/Ádám és Éva/","title":"Ádám és Éva","tags":["Englishtexttranslated"],"created":"2023-11-06T01:53","updated":"2025-09-28T21:26"}
 ---
 
 
@@ -9,6 +9,7 @@
 
 ...című könyvében írja, hogy a zsidók ezt is a parszizmusból vették:  
 > A zendavestából egyszerűen átvették az egész teremtés történetét egy kevés módosítással. Masiát és Masiánát, Ádám és Éva szóval helyettesítették, a teremtés ottani hat korszakát ők hat napra változtatták; a fáradtságos munkával való kenyérkeresést pedig, melyet Zarathustra az ember legfőbb erényének és kötelességének állít, ők – erkölcstanukkal egybehangzóan – büntetésnek minősítették. Egyébként azonban a Mózes könyvében leírt kígyó, szabadító és az ember teremtésének kettős változata, sőt még az egyes kifejezések is, mint például "az ő nemük szerint" egyeznek a zendavesztával.  
+- [[A/ANA\|Ana]] Masiana nevében kereshető, mint [[A/Anahita\|Anahita]] nevében?
 
 #### Várkonyi Nándor...
 
@@ -32,7 +33,7 @@ Ez egy fontos megállapítás! A mögöttes tartalmat a zsidók és a [[J/Judeo-
 #### Jankovics Marcell A Nap könyve...
 
 ...című könyvében áll:  
-> Ami Ádámot (a "Vörös"-t[^4]!) és Évát illeti, ők a zsidó-keresztény szimbolikában alighanem egyiptomi és perzsa mintára Nap-Hold ikrekként jelentek meg \[[[Káin és Ábel\|[Káin és Ábel]]re is ezt mondta\]. A Biblia erre vonatkozóan csak annyit árul el, hogy Évát Isten Ádám testéből teremtette. Egy testből, vagyis egy anyagból valók voltak, amint azt a régiek az égitestekről hitték, s amit a tudomány végül is igazolt.  
+> Ami Ádámot (a "Vörös"-t[^4]!) és Évát illeti, ők a zsidó-keresztény szimbolikában alighanem egyiptomi és perzsa mintára Nap-Hold ikrekként jelentek meg \[ugye [[K/Káin és Ábel\|Káinra és Ábelre]] is ezt mondta\]. A Biblia erre vonatkozóan csak annyit árul el, hogy Évát Isten Ádám testéből teremtette. Egy testből, vagyis egy anyagból valók voltak, amint azt a régiek az égitestekről hitték, s amit a tudomány végül is igazolt.  
 > Az egyiptomi mitológiában a testvérházasságok istennemzedékeken át ismétlődnek Su és Tefnut, majd Géb és [[N/Nut\|Nut]], végül Ozirisz és Ízisz ikerpárosában. A mintát legalábbis formálisan követik a "Nap fiai", a fáraók is, amennyiben feleségüket nővérüknek nevezik. A mitologikus iráni dinasztiák uralkodó párjait a költői szövegek – láttuk – a Naphoz és a Holdhoz hasonlítják.  
 
 Az [[I/Íj és a nyíl\|íj és a nyíl]] bevezetőjében látott kép alapján gondolhatnánk, hogy Ádám a nyílvessző és Éva az [[I/Íj\|íj]] ([[I/Ív\|ív]]).  
