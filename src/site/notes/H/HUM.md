@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/HUM/","title":"HUM","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-11-09T03:46","updated":"2025-02-24T22:11:10Z"}
+{"dg-publish":true,"permalink":"/H/HUM/","title":"HUM","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-11-09T03:46","updated":"2025-09-28T21:32"}
 ---
 
 
@@ -25,9 +25,10 @@ Fontos adatnak tűnik (de legalábbis rámutat a HUM = víz jelentésére[^1] is
 
 #### Richard H. Allen írja:
 
-> On the Ganges, as in China, **Acquarius began the circle of the zodiacal signs**; and Al Biruni said that at one time in India it was Khumba, or Kumbaba, which recalls the Elamite divinity of that name, the Κόμβη, or Storm God, of Hesychios. This, too, was the Tamil title for it; La Lande writing it Coumbum.  
+> On the Ganges, as in China, **Aquarius began the circle of the zodiacal signs**; and Al Biruni said that at one time in India it was Khumba, or Kumbaba, which recalls the Elamite divinity of that name, the Κόμβη, or Storm God, of Hesychios. This, too, was the Tamil title for it; La Lande writing it Coumbum.  
 > —  
-> A Gangesznél, akárcsak Kínában, a Vízöntő kezdte az állatövi jegyek körét; és Al Biruni szerint Indiában egykor Khumba vagy Kumbaba \[[[Humbaba\|[Humbaba]]?\] volt a neve, ami az ilyen nevű elámi istenségre, vagy Hesychios Viharistenére, Κόμβη-ra emlékeztet. Ez volt a tamil elnevezése is; La Lande Coumbumnak írja.  
+> A Gangesznél, akárcsak Kínában, a Vízöntő kezdte az állatövi jegyek körét; és Al Biruni szerint Indiában egykor Khumba vagy Kumbaba volt a neve, ami az ilyen nevű elámi istenségre, vagy Hesychios Viharistenére, Κόμβη-ra emlékeztet. Ez volt a tamil elnevezése is; La Lande Coumbumnak írja.  
+- [[H/Humbaba\|Humbaba]] neve egészen hasonló.
 
 Lásd még [[K/KUM\|KUM]].  
 
