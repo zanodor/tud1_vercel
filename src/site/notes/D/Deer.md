@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2025-09-24T13:47"}
+{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2025-09-28T21:24"}
 ---
 
 
@@ -13,7 +13,7 @@ A [[C/Csuda\|csuda]] a Csillagos Égbolt, aminek az egyik megtestesítője a [[S
 
 [[D/Dream\|Dream]] (és [[D/Dharma\|dharma]]) címnél előjött egy Fórika Éva által adatolt (általam sem sumér, sem akkád nyelvanyagban nem talált) sumér `Dar-Mah` = szarvas jelentésű szó[^1].  
 D-R (T-R) vázú szarvas jelentésű szó a sumérben nem lenne egyedülálló, de valójában nem is annyira a (négylábú) szarvast jelenti.  
-Ezen a ponton felmerül, hogy ha az [[U/UR\|UR]] és [[U/Urgula\|Urgula]] címnél is előjövő sumér `Ur-Mah` = oroszlán tagjait megfordítjuk (a [[S/Szómegfordítás#Szótagmegfordítás\|szótagmegfordítás]] címnél írottak szerint ugyanolyan alapon, mint ahogy [[A/Anzu\|Anzu]] An és Zu tagjai is felcserélhetők), és így Mah-Ur, Magur, Magor \[[[Mriga\|mriga]]?\] alakot kapunk, akkor felcserélhetjük-e Dar-Mah tagjait is, hogy Mah-Dar, azaz Magyar alakot kapjunk? Ugyanis [[M/Magyar\|magyar]] címnél Hargita Csaba tollából előjöttek ha nem is szarvas, de szarvas rejteke/barlangja jelentésű közel-keleti szavak. Márpedig [[M/Magor\|Magor]] és [[M/Makara\|Makara]] címnél szintén előjött a Szarvas (Bak csillagkép), de előjött John M. Jenkins-től végső soron a barlang (így kapcsolódik össze a szarvas és a barlang), hiszen a [[B/Barlang\|barlang]] nem más mint Tejútanya-vulva jelkép:  
+Ezen a ponton felmerül, hogy ha az [[U/UR\|UR]] és [[U/Urgula\|Urgula]] címnél is előjövő sumér `Ur-Mah` = oroszlán tagjait megfordítjuk (a [[S/Szómegfordítás#Szótagmegfordítás\|szótagmegfordítás]] címnél írottak szerint ugyanolyan alapon, mint ahogy [[A/Anzu\|Anzu]] An és Zu tagjai is felcserélhetők), és így Mah-Ur, Magur, Magor ([[M/Mriga\|mriga]]?) alakot kapunk, akkor felcserélhetjük-e Dar-Mah tagjait is, hogy Mah-Dar, azaz Magyar alakot kapjunk? Ugyanis [[M/Magyar\|magyar]] címnél Hargita Csaba tollából előjöttek ha nem is szarvas, de szarvas rejteke/barlangja jelentésű közel-keleti szavak. Márpedig [[M/Magor\|Magor]] és [[M/Makara\|Makara]] címnél szintén előjött a Szarvas (Bak csillagkép), de előjött John M. Jenkins-től végső soron a barlang (így kapcsolódik össze a szarvas és a barlang), hiszen a [[B/Barlang\|barlang]] nem más mint Tejútanya-vulva jelkép:  
 
 #### John Major Jenkins Galactic Alignment...
 
@@ -121,7 +121,7 @@ Hasonló név szerepel a lapp mitológia **Tiermesz** alakjának nevében; lásd
 
 [^6]: Lábjegyzet:  
 A fenno-skandináviai ún. hegyi rén- vagy tarándszarvas (Rangifer tarandus tarandus) nyáron sötétszürkés-barnás, télen világosabb színű (télen hosszabb is a szőrzet), nyakán hosszú, világos szőrrel.  
-A ma már ugyancsak egyre ritkábban felbukkanó taránd, tarándszarvas szavaink mögött a rénszarvas latin nyelvű tudományos elnevezése, a Rangifer tarandus állhat. A magyar nyelvhasználatban a tarándszarvas az eurázsiai, a Spitzbergáktól Mongóliáig előforduló alfajok összefoglaló neve, az Észak-Amerikában előforduló alfajokat karibunak \[[[caribou\|[caribou]]\] nevezzük. \[Falk Nóra disszertációjából, mely a réntartásról és terminológiájáról szól.\]  
+A ma már ugyancsak egyre ritkábban felbukkanó taránd, tarándszarvas szavaink mögött a rénszarvas latin nyelvű tudományos elnevezése, a Rangifer tarandus állhat. A magyar nyelvhasználatban a tarándszarvas az eurázsiai, a Spitzbergáktól Mongóliáig előforduló alfajok összefoglaló neve, az Észak-Amerikában előforduló alfajokat karibunak ([[C/Caribou\|caribou]]) nevezzük. \[Falk Nóra disszertációjából, mely a réntartásról és terminológiájáról szól.\]  
 
 [^7]: Lábjegyzet:  
 Onofrio Caruba olasz kutató adatát angolra fordítva adom:  
