@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2025-09-24T13:39"}
+{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2025-09-28T21:16"}
 ---
 
 
@@ -231,7 +231,7 @@ Varga Géza előtt mások is Földdel azonosították a körbe rajzolt kereszt j
 
 ...című könyvének 134. oldalán is írja:  
 > Az egyenlő szárú kereszt tér-idő jelként is szolgált az égtájak, ill. nap- és évszakok jelölésére. A Nap látszólagos pályáját követve térben az égtájak, időben a nap- és évszakok térnek vissza kört alkotva önmagukba.  
-> Időjelként az örök körforgást, térjelként az állandóságot \[[[Dzsed\|dzsed]]-oszlopt is így értelmezik\] jelképezte a kereszt: az ókori Egyiptomban a "település" hieroglifája körbe írt kereszt volt (a települések közepe rendszerint a rajtuk áthaladó, tájolt főútvonalak kereszteződésébe esik[^9]), az asztrológia ezt a Föld jeléül választotta.  
+> Időjelként az örök körforgást, térjelként az állandóságot \[a [[D/Dzsed\|dzsed]]-oszlopot is így értelmezik\] jelképezte a kereszt: az ókori Egyiptomban a "település" hieroglifája körbe írt kereszt volt (a települések közepe rendszerint a rajtuk áthaladó, tájolt főútvonalak kereszteződésébe esik[^9]), az asztrológia ezt a Föld jeléül választotta.  
 
 ![assets/Kereszt_image24.jpeg|fix_dark fix_light|840](/img/user/K/assets/Kereszt_image24.jpeg)  
 
@@ -252,7 +252,7 @@ De ha már a kereszteknél tartunk, vajon miért kereszt formájú a [[M/MAS\|MA
 
 ...című könyvének 185-186. oldaláról származnak az alábbiak (ez a passzus [[T/Tejút\|Tejút]] és [[E/Életfa\|életfa]] címnél is szerepelt utóbbinál képekkel kiegészítve is):  
 > A Tejutat gyakran két, felül összeboruló fának képzelik el. Ilyen esetben a Tejút a világtengellyel együtt 3 fát, vagy egy 3 törzsű (de nem három ágú) fát alkothat (az ágak mást jelentenek). Így ábrázolja egy 18. századi dán konstrukció a skandinávok világfáját. Az [[Y/Yggdrasil\|Yggdrászil]] az alvilágban, az ég déli pólusán gyökerezik, majd 3 szárra, törzsre bomlik. A középső egyenes törzs a Világhegyet átfúrva, az északi ég pólusa körül bont koronát, a két szélső törzs a korong alakú Föld pereménél bukkan a "felső világra," majd az éggömb íve mentén a középső törzs felé hajol. Hasonló felfogású világfaábrázolással a népművészetben is találkozhatunk. Ezek az ábrázolások a Tejút és a világtengely viszonyát modellezik a Föld központú világkép szerint. Persze a 2, 3 vagy több törzsű fa is értelmezhető másképp. Felfogható folyamatábrának is: ha a szárak egy tőből erednek, vagy tövük egy középpont felé mutat, a tejútforgást jelképezhetik; égtájjelként a Napnak a Tejúthoz viszonyított főbb állomásait. Ilyen 3, a tövével együtt igazából 4 szárú világfa a **kereszt**.  
-- Jankovics Marcell itt írhatta volna, ha már viszonyításról volt szó, hogy mindent – a [[G/Geocentrikus világkép\|geocentrikus világkép]] értelmében – a Földről vizsgálunk. A Földről nézve ez úgy látszik, hogy a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] (a négy fordulópont adja a keresztet, **a kereszt középpontjában a Föld[^10] és a rajta élő ember van**) a táltosok-mágusok által megalkotott zodiákus (állatöv = állatkör = életkör) egyes stációin végighaladva úgy ír le egy teljes kört, hogy a [[K/Kezdet és vég\|kezdet és vég]] (megfordítva a halál és a [[F/Feltámadás\|feltámadás]], a Napra vonatkoztatva) téridőbeli helye a [[T/Téli napforduló\|téli napforduló]]ra, [[K/Karácsony\|Karácsony]]ra essék (ez időpontban nemcsak a Tejútközpont \[[[Galactic centre\|[Galactic centre]]\] lényeges, hanem a [[S/Szíriusz\|Szíriusz]] is).
+- Jankovics Marcell itt írhatta volna, ha már viszonyításról volt szó, hogy mindent – a [[G/Geocentrikus világkép\|geocentrikus világkép]] értelmében – a Földről vizsgálunk. A Földről nézve ez úgy látszik, hogy a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] (a négy fordulópont adja a keresztet, **a kereszt középpontjában a Föld[^10] és a rajta élő ember van**) a táltosok-mágusok által megalkotott zodiákus (állatöv = állatkör = életkör) egyes stációin végighaladva úgy ír le egy teljes kört, hogy a [[K/Kezdet és vég\|kezdet és vég]] (megfordítva a halál és a [[F/Feltámadás\|feltámadás]], a Napra vonatkoztatva) téridőbeli helye a [[T/Téli napforduló\|téli napforduló]]ra, [[K/Karácsony\|Karácsony]]ra essék (ez időpontban nemcsak a Tejútközpont ([[G/Galactic centre\|Galactic centre]]) lényeges, hanem a [[S/Szíriusz\|Szíriusz]] is).
 
   
 
@@ -373,8 +373,8 @@ Ha tehát az élet vonala a függőleges és a halál vonala[^15] a vízszintes 
 #### Borbola János A Nílus-völgyi hitvilág...
 
 ...című Ősi Gyökér 2005/4. sz. megjelent cikkében (Borbola János A keresztút c. az Ősi Gyökér 2015/3-4. sz. megjelent cikkében külön)...
+- Utóbbi cikkben érdekes azon gondolatmenete, mely alapján azt mondhatjuk, hogy a kereszt közepén van az Atya: ahogy a Szent Koronán is a Pantokrátor.
 
-Utóbbi cikkben érdekes azon gondolatmenete, mely alapján azt mondhatjuk, hogy a kereszt közepén van az Atya: ahogy a Szent Koronán is a Pantokrátor.  
 ...taglalt keresztút is érdekes, mely a fentiek alapján függőleges kellene legyen (az elbírálás témája miatt és Matar előjövetele miatt [[M/Maat\|Maat]] és [[M/Magyar\|magyar]] címnél is szerepelt):  
 > Az egyiptomiak kezdettől fogva egyistenhívők voltak. A teremtőt An-nak nevezték, akihez az utat meg kellett találni. Ez volt a keresztút, az élők útja.  
 > Érdekes módon a keresztutat kérni, megérdemelni kellett. A fohászok meghallgatása esetén a keresztút feléledt, kivirult. Elképzelésünk szerint kivilágosodott, felragyogott.
@@ -389,7 +389,7 @@ A keresztény [keresztút](https://wikipedia.org/wiki/Keresztút) valami más:
 > A keresztút (lat. `via crucis`, `via dolorosa`) eredetileg az a kb. 1,5 km-es útvonal, melyen a keresztény hagyomány szerint Jézus a kereszttel a Praetoriumtól (Gabbata) kiment a [[G/Golgotha\|Golgotá]]ra. Ma olyan ájtatosság, aminek segítségével a keresztény hívek Jézus szenvedésein és keresztre feszítésének eseményein elmélkedhetnek. Ennek gyakorlásához zárt térben (általában templomban) vagy szabadban (általában hegyen) elhelyeznek 14 állomást (stációt). Protestáns felekezetek nem gyakorolják.  
 
 Borbola János viszont félreértelmezést sejt (több szinten) (Borbola A keresztút című az Ősi Gyökér 2015/3-4. sz. megjelent cikkében is foglalkozik még vele):  
-> A fentiek elemzésekor akaratlanul is a názáreti Jézus keresztútja, alakját tekintve a Szent Kereszt jut eszünkbe. Ha Ő a Kör, a Szám, az Egyetlenegy, akkor a keresztút alatt nem a Golgotára vezető utat kell értenünk, hanem a \[[[Makar\|[Makar]] címnél hasonló témában taglalt\] halott/feltámadott útját teremtőjéhez. A kereszt jelének mélyebb értelmét senki sem ismeri. Egyszerűen elfogadtuk vallásunk, a kereszténység alapismérvének, lám megváltónk, Jézus Krisztus is így halt meg. A kereszt valójában a rómaiak megszégyenítő, kivégző eszköze volt, köztudott, hogy a szemita népek helyette mindmáig a megkövezést választják.  
+> A fentiek elemzésekor akaratlanul is a názáreti Jézus keresztútja, alakját tekintve a Szent Kereszt jut eszünkbe. Ha Ő a Kör, a Szám, az Egyetlenegy, akkor a keresztút alatt nem a Golgotára vezető utat kell értenünk, hanem \[a [[M/Makar\|Makar]] címnél hasonló témában taglalt\] halott/feltámadott útját teremtőjéhez. A kereszt jelének mélyebb értelmét senki sem ismeri. Egyszerűen elfogadtuk vallásunk, a kereszténység alapismérvének, lám megváltónk, Jézus Krisztus is így halt meg. A kereszt valójában a rómaiak megszégyenítő, kivégző eszköze volt, köztudott, hogy a szemita népek helyette mindmáig a megkövezést választják.  
 - Itt még a [[K/Kereszténység\|kereszténység]] görög nevére is kitér, de mintha hibásan írta volna ki. Lásd azon témát [[K/Krisztus\|Krisztus]].
 
 Kitér a Szent Koronára is:  
@@ -574,10 +574,10 @@ René Guénon The Symbolism of the Cross című könyve is érdeklődésre tarth
 ...című Ősi Gyökér 2005/4. sz. megjelent cikkében az égen megmutatkozó férfi-női párok bemutatásakor egy olyan három dimenzióban értelmezhető keresztet mutat be, melyről [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] és más címnél tettünk már említést:  
 > Úgy tűnik, mintha egyfajta keresztbe rendeződés a Tejúton is kimutatható lenne. Pontosabban látok egy keresztet, aminek három végén három különböző jellegű férfi-nő viszony érzékelhető, míg a kereszt negyedik, alsó végénél semmi. Itt lenn nagyon sötét van. A kereszt egyik vízszintes végén, a keletin \[nálam ez észak\], ahol a Bika és az Ikrek között a Tejút és a Napút találkozik, ott az Orion \[női párjában viszont nem Szíriuszt mutatja be, ahogy [[M/Magyar istencsalád\|magyar istencsalád]] címnél Gyárfás Ágnes teszi, hanem az asztrológiában is anyai megítélésű Rák csillagképet és az ahhoz köthető két kisebb csillagcsoportot, a Fiastyúkot és a Méhkast (Pleiadok és Hyadok)\].  
 > A kereszt átellenes vízszintes végén, ahol a Skorpió és a Nyilas között fut a Tejút s keresztezi a Naputat, a Kígyótartó csillagkép a tengelyjelölő.  
+- Itt a Nyilasnak megfelelő [[S/Sánta koldus\|Sánta koldus]] és a [[S/Szépasszony\|Szépasszony]] párosát mutatja be.
 
-Itt a Nyilasnak megfelelő [[S/Sánta koldus\|Sánta koldus]] és a [[S/Szépasszony\|Szépasszony]] párosát mutatja be.  
- A kereszt álló szárának felső vége a Sarkcsillagnál böki az eget. Itt a Cassiopeia és Cepheus csillagkép kettős, mint etióp királyi pár, uralkodik. Ám a pár női tagja, a királynő uralkodik. Teljes az összhang, de a nő uralkodik. A magyar népi csillagnevek – Cefeusz: Részögember; Kassziopeia: Korcsma – is ugyanezt jelzik: teljes az összhang közöttük, de a kocsma piaci értéke magasabb, mint a részeg emberé. Itt a női szerep neve: nagyasszony, bábaasszony.  
-> A kereszt alsó végéről \[[[Canopus\|[Canopus]]nál taglalt alsó fúrócsillag\] már elmondtam, nem tudom, mi van itt. Valójában az égboltnak ez a része soha nem látható, ez az égi alvilág.
+> A kereszt álló szárának felső vége a Sarkcsillagnál böki az eget. Itt a Cassiopeia és Cepheus csillagkép kettős, mint etióp királyi pár, uralkodik. Ám a pár női tagja, a királynő uralkodik. Teljes az összhang, de a nő uralkodik. A magyar népi csillagnevek – Cefeusz: Részögember; Kassziopeia: Korcsma – is ugyanezt jelzik: teljes az összhang közöttük, de a kocsma piaci értéke magasabb, mint a részeg emberé. Itt a női szerep neve: nagyasszony, bábaasszony.  
+> A kereszt alsó végéről \[a [[C/Canopus\|Canopus]] címnél taglalt alsó fúrócsillagról\] már elmondtam, nem tudom, mi van itt. Valójában az égboltnak ez a része soha nem látható, ez az égi alvilág.
 
 Itt aztán olyanokat ír az alvilágról, amik valójában a Szépasszonyhoz illő szövegek lehettek volna, egyébként meg sajnos nem teljesen jó hasonlításokkal jön elő a későbbi magyarázatokban sem, mert nem ismeri Hunor és Magor rendszerét.  
 
