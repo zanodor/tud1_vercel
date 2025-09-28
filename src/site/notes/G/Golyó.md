@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Golyó/","title":"Golyó","created":"2025-05-24T19:04","updated":"2025-05-24T19:05"}
+{"dg-publish":true,"permalink":"/G/Golyó/","title":"Golyó","created":"2025-05-24T19:04","updated":"2025-09-28T21:33"}
 ---
 
 
@@ -7,7 +7,10 @@
 
 #### Magyar Adorján írja:
 
-> Golyóbis szavunkat természetesen a latin `globus` szóból származtatták, holott az afrikai oromo nyelvben `guiugi` = térdkalács. Igaz ugyan, hogy ezen oromo szó egy golyó jelentésű szónak csak igen elágazó származéka lehet, csakhogy a birtokomban levő olasz-oromo-olasz szótár kisebb terjedelmű s így belőle sok szó hiányozhat is. Szerintem annyi azonban bizonyos, hogy a latin `globus`, az árja magánhangzókihagyás előtt golobusnak hangzott és goló ősszavunk származéka. Aminthogy mindezen golyó- és gömbölyűség jelentésű szavak nem-árja eredetét a \[[[Gyúl\|gyúl]] címnél is említett\] török `gülle` = golyó és az oromo `kalle` = labda szó is bizonyítja.  
+> Golyóbis szavunkat természetesen a latin `globus` szóból származtatták, holott az afrikai oromo nyelvben `guiugi` = térdkalács. Igaz ugyan, hogy ezen oromo szó egy golyó jelentésű szónak csak igen elágazó származéka lehet, csakhogy a birtokomban levő olasz-oromo-olasz szótár kisebb terjedelmű s így belőle sok szó hiányozhat is. Szerintem annyi azonban bizonyos, hogy a latin `globus`, az árja magánhangzókihagyás előtt golobusnak hangzott és goló ősszavunk származéka. Aminthogy mindezen golyó- és gömbölyűség jelentésű szavak nem-árja eredetét a török `gülle` = golyó és az oromo `kalle` = labda szó is bizonyítja.
+{ #a84w7y}
+
+- A török szót [[G/Gyúl\|gyúl]] címnél is említettük.
 
 Magyar Adorján másutt:  
 > Habár mirigy szavunk is r hangos, de tény, hogy a mirigyek egyes gömböcsei nem egészen lágyak, keménykések és hogy ha az ilyen mirigyet ujjaink között tartva nyomkodjuk, úgy olyan érzésünk van amelyet, hangokkal ugyan, de e mirigy szavunk igen jól fejez ki. Továbbá a mirigyeket illetőleg kiemelhető még, hogy ezek latin neve: `glans`, kicsinyítve `glandula`, de amely szónak, ugyancsak a latinban, megfelel a `galla` = makk szó, úgyhogy világos miszerint e latin szavak a magyar golyó, tájszólásos goló, továbbá galacsin, gölődi, galagonya stb. és a török `gülle` = golyó szavakra vezetendők vissza.  
