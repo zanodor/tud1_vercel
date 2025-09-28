@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2025-09-24T13:42"}
+{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2025-09-28T21:19"}
 ---
 
 
@@ -89,7 +89,7 @@ Más cikkében így írja:
 > A hatalmi struktúra kettéhasadt, érdekellentétbe került a pap, és a király, és vele a lélek és az ész útja is. Testvér a testvérrel került halálos ellentétbe a valóság történelmi színpadán, ahogy a lélekvezető eszmék hím-, és női-jellegre hasadtak az emberiség belső oldalában.  
 > A modern kori viselkedés kutatás tudományos eredményeinek tükrében, e társadalmi átalakulásokat generáló és kísérő lélektani folyamatok domináns jellemzői, jól felismerhetően egybecsengenek féltekéin nemi jellegekhez köthető működési dominanciáival. Más szavakkal mondva, a régi, női kultúra, a nőiesnek titulált féltekénk érzelmi jellemzői szerint szemlélte és modellezte a világot, ellentétben a hímelvű idők értelmi megközelítésével.  
 > E belső elválás során rivalizálás kezdődött, és a nappali értelemhez kötődött, "hím," én-tudatosság, szinte feloldhatatlan ellentétbe került a "női," érzelmi-alapú mélytudat tartalmaival. Lassan, az értelem szemében ellenségessé vált mélytudat átlátatlan és uralhatatlan lelki világából Pokol lett, és a nőelvű nimrudi utat folytatók pedig gonosz Sátán-imádóknak minősültek.  
-> Mindez szükségszerűen kivetült az élet és társadalmi folyamatok minden területére, és ma már csak a végeredményt látjuk. Bár a Shahnameh-ban nincs említve a régi vallás, - mert az érzelmi alapú anya-tiszteletnek, bizonyos okokból még az emléke is törlendővé vált értelmi világunkban, - de szinte biztosak lehetünk benne, hogy ami hellén területen zajlott Zeusz előretörésével, azaz a hím elv harca az anya-vallások ellen, az indult el vele kb. egy időben közép-Ázsiában, a zoroaszteri vallásreformációval is, és az indiai hősköltemény, a [[M/Mahabharata\|Mahabharata]] is erről szól.  
+> Mindez szükségszerűen kivetült az élet és társadalmi folyamatok minden területére, és ma már csak a végeredményt látjuk. Bár a Shahnameh-ban nincs említve a régi vallás, – mert az érzelmi alapú anya-tiszteletnek, bizonyos okokból még az emléke is törlendővé vált értelmi világunkban –, de szinte biztosak lehetünk benne, hogy ami hellén területen zajlott Zeusz előretörésével, azaz a hím elv harca az anya-vallások ellen, az indult el vele kb. egy időben közép-Ázsiában, a zoroaszteri vallásreformációval is, és az indiai hősköltemény, a [[M/Mahabharata\|Mahabharata]] is erről szól.  
 > A nimrudi női hit főszereplői is mind, gonosz, kerülendő alakokká váltak a hímfelfogás szemében, és lassan az alvilág népes táborát sokasították. Az eredetileg napminőséget hordozó Bál istenből is, ördögi Belzebub és Belfegor lett. (Bált, Nimruddal azonosítja Chorenei Mózes, örmény történetíró.)  
 - Bognár Ferenc nimrudi női hit összefüggése kissé furcsa, de értjük, mire gondol.
 
