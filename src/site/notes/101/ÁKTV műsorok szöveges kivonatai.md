@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-09-27T22:23"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-09-28T22:19"}
 ---
 
 
@@ -19,7 +19,7 @@
 [250925CN! A BRENTAI HÁBORÚ](https://videa.hu/videok/nagyvilag/250925cn-a-brentai-haboru-kubinyi-magyar-jI1cy4rKIoS6S08c)  [https://archive.ph/HDJbT](https://archive.ph/HDJbT)
 [250924CN! STÍLUS](https://videa.hu/videok/nagyvilag/250924cn-stilus-kubinyi-tamas-aktv-magyar-jL7dOK7yTSPtI1Wg)  [https://archive.ph/rHquZ](https://archive.ph/rHquZ)
 [250923CN! BELZEBUB-VÁD](https://videa.hu/videok/nagyvilag/250923cn-belzebub-vad-kubinyi-tamas-magyar-Zaqkv3o6tXmsxN4P)  [https://archive.ph/V7cDG](https://archive.ph/V7cDG)
-[250922CN! TANMESE](https://rumble.com/v6zblny-250922cn-tanmese-kubnyi-tams-ktv.html)  [https://archive.ph/ZYoMz](https://archive.ph/ZYoMz)
+[250922CN! TANMESE](https://videa.hu/videok/nagyvilag/250922cn-tanmese-kubinyi-tamas-aktv-magyar-g9wvUIwSChkyJRIk)  [https://archive.ph/T0RIy](https://archive.ph/T0RIy)
 [250919CN! TUTSEKOLÁS](https://rumble.com/v6z6ti0-250919cn-tutsekols-kubnyi-tams-ktv.html)  [https://archive.ph/3YvGO](https://archive.ph/3YvGO)
 [250918CN! NEM TÁNCDAL](https://rumble.com/v6z5960-250918cn-nem-tncdal-kubnyi-tams-ktv.html)  [https://archive.ph/AciHM](https://archive.ph/AciHM)
 **[250917CN! KÖZÜGY](https://rumble.com/v6z3bg0-250917-kzgy-kubnyi-tams-ktv.html)**  **[https://archive.ph/UD5wL](https://archive.ph/UD5wL)**
