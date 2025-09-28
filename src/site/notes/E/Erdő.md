@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Erdő/","title":"Erdő","created":"2023-11-13T05:47","updated":"2025-06-07T22:59"}
+{"dg-publish":true,"permalink":"/E/Erdő/","title":"Erdő","created":"2023-11-13T05:47","updated":"2025-09-28T21:29"}
 ---
 
 
@@ -15,7 +15,7 @@ Nemcsak az `earth` hasonló szó, hanem a Götz László Keleten kél a Nap cím
 
 Az erdőről, mint a [[K/Kutyafejű\|kutyafejű]] népek liminális helyéről sok szó esik David Gordon White könyvében; lásd [[J/Jungle\|jungle]], [[V/Vrâtya\|Vrâtya]], [[R/Rogue\|rogue]], [[S/Satyr\|Satyr]] és más címszavaknál.  
 Legutóbb a [[D/Dream\|dream]] címnél előjött görög `δρυµός` (drümósz) = erdő is a Tejútra utaló és nem földi erdő.  
-Erdő és [[K/Kert\|kert]] Tejút-specifikus égi elnevezések, melyek közvetlenül a Tejútanya [[V/Vulva\|vulvá]]janak, [[O/Odú\|odú]]jának, [[B/Barlang\|barlang]]jának, [[O/Öl\|öl]]ének (lásd [[G/Galactic centre\|Galactic centre]]) tájára utalhatnak.  
+Erdő és [[K/Kert\|kert]] Tejút-specifikus égi elnevezések, melyek közvetlenül a Tejútanya [[V/Vulva\|vulvá]]janak, [[O/Odú\|odú]]jának, [[B/Barlang\|barlang]]jának, [[O/Öl\|öl]]ének (lásd [[G/Galactic centre\|Tejútközpont]]) tájára utalhatnak.  
 Az [alábbi](https://qr.ae/pNr3PT) Quora oldalon is leírtam válaszomban, hogy az erdő az eredő helye, hogy a fa a nimfa/tündér, aki baba is lehet, és hogy a szavak átvezetnek más nyelvekbe, de leginkább azt kell látni, hogy az első mesék, mítoszok magyar nyelvűek voltak.  
 Ezért lehet az, hogy a mes, messze, mész, méz, stb. szavainkat csoportosító [[M/MISZ\|MISZ]] etimonnál szerepeltettük a török `meşe` = tölgy szó (elődjével) rokonnak tekinthető azeri `meşə` = erdő, lett `mežs` = erdő, finn `metsä` = erdő, karéliai `meččä` szavakat.  
 Említendő még itt a kelta `meas`, walesi `mes` = gyümölcs; tölgy gyümölcse, a makk!  
