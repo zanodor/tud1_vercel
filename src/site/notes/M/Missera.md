@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2025-09-24T13:43"}
+{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2025-09-28T21:20"}
 ---
 
 
@@ -19,7 +19,7 @@ Tehát itt is bizonyos, hogy csillagászati szempontokat kell figyelembe venni: 
 Ezek alapján is azt lehetne mondani, hogy a [[S/Száz\|száz]], hasonlóan a [[S/Szűz\|szűz]] (Péterfai János által megadott) jelentéséhez, teljeset, egészet kell jelentsen, míg az ötven ennek a felét.  
 
 Száz etimonjánál, [[S/SZAT\|SZAT]]-nál más, de hasonló jelentéseket is megadtunk. A teljes jelentés is odakerült, utólag. A SZAT-tal kapcsolatba hozott [[C/Csata\|csata]] címnél pedig [[H/HAT\|HAT]] számunkról is volt szó: ott arra a következetésre jutottunk, hogy a hat azon állapot, amikor [[N/Nagy Év\|Nagy Év]] [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]e alsópontjáról megindulunk a hét, a felső pont felé. Mondhatni 6 és 7 között annyi idő telik el, mint a 100 fele, 50 alatt, azaz 13000 év. Persze amennyiben igaz, hogy az ötven kódszám.  
-Igen valószínűen az. Már [[O/Ötevény\|Ötevény]] címnél is szóltunk arról, hogy – dacára annak, hogy ez az elnevezés egyszerűen Ösvény és Ős-Fény olvasatú is lehet – hogy a Tejút ezen neve és az [[O/Ötven\|ötven]] számunk között összefüggés kell legyen. Mégpedig az, hogy a Nagy Évben a Nap 13000 évente halad át a Tejúton, annak is egy fontos pontján, a Tejútközponton (minden John M. Jenkins-től származó infót lásd [[G/Galactic centre\|Galactic centre]]). Ez is igazolja az 50 és a 13000 "azonosságát."  
+Igen valószínűen az. Már [[O/Ötevény\|Ötevény]] címnél is szóltunk arról, hogy – dacára annak, hogy ez az elnevezés egyszerűen Ösvény és Ős-Fény olvasatú is lehet – hogy a Tejút ezen neve és az [[O/Ötven\|ötven]] számunk között összefüggés kell legyen. Mégpedig az, hogy a Nagy Évben a Nap 13000 évente halad át a Tejúton, annak is egy fontos pontján, a Tejútközponton (minden John M. Jenkins-től származó infót lásd [[G/Galactic centre\|Tejútközpont]]). Ez is igazolja az 50 és a 13000 "azonosságát."  
 Ez a 13000 évenkénti egyszer a Tejút egyik, egyszer másik oldalán létünk lehet magyarázat arra is, hogy miért van a [[P/Procyon\|Procyon]] és a Szíriusz egyszer az egyik, mássszor a másik "Tejútparton."  
 De az sem mellékes, hogy 13000/50 = 260, és ez a [[M/Maja naptár\|maja naptár]] napokban mért hossza, illetve megközelítőleg az ember-embrió méhen belüli fejlődési ideje is.  
 Talán éppen ez a számítás az, ami elvetni látszik a Joscelyn Godwin Arktos The Polar Myth című könyvében taglalt Drayson 32000 éves és Milankovitch 41000 éves ciklusait. Persze korántsem tudjuk, hogy például 6-8 ezer évvel ezelőtt, vagy éppen 32-34 ezer évvel ezelőtt milyen szög alatt állt a Föld tengelye az ekliptikához képest, és hogy éppen a Szíriusszal való tánc pontosan hogyan befolyásolja a Naprendszerünk mozgását és a Föld tengelyének ferdeségét, melyről azt állítják, hogy változik.  
