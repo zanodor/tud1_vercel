@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szép Miklós mese/","title":"Szép Miklós mese","created":"2023-10-25T05:16","updated":"2024-10-26T00:28"}
+{"dg-publish":true,"permalink":"/S/Szép Miklós mese/","title":"Szép Miklós mese","created":"2023-10-25T05:16","updated":"2025-09-28T21:21"}
 ---
 
 
@@ -155,7 +155,7 @@ Na, kezére adja a vén boszorkány Szép Miklósnak a három lovat. De milyen l
 Hej, uramisten, mérgelődött a boszorkány, de nem szólt Miklósnak semmit, hanem egy vasrudat megtüzesített, azzal kiment az istállóba, megverte mind a három lovat, hogy csak úgy nyögtek, nyerítettek szegények, s azt mondta nekik:  
 – Megálljatok, kutyák! Ha még egyszer elfog az a legény, lenyúzom a bőrötöket!  
 Pedig elfogta Miklós másnap is. Akkor nyulakká változtak a lovak. De jöttek a Miklós táltosai [[A/Agár\|agár]] képében, s elfogták a nyulakat. Még a föld is sírt belé, úgy megverte a boszorkány a három táltost. De verhette, harmadnap is elfogta Miklós. Akkor csirkévé változtak a vén boszorkány lovai, de eljöttek a Miklós táltosai is, három [[R/Róka\|róka]] képében, közrevették a csirkéket, Miklós egyre rápattant, mindjárt lovakká változtak, s vitte haza őket.  
-– Na, Miklós – mondta a vén boszorkány –, kiszolgálád az esztendőt \[[[Három nap\|három nap]] után?!\]. Ilyen szolgát még nem láttam napom csillagjában, kívánj, amit akarsz, akármit adok.  
+– Na, Miklós – mondta a vén boszorkány –, kiszolgálád az esztendőt. Ilyen szolgát még nem láttam napom csillagjában, kívánj, amit akarsz, akármit adok.  
 – Nem kívánok én sokat, öreganyám, csak adja nekem ezt a sánta, bogos csikót, ezt a vasderes szőrűt, ni. Aztán adjon még három bárányt, öreganyám, hadd legyen, amit egyem az úton.  
 Nagyot kacagott a vén boszorkány.  
 – Ó, te világ bolondja, te, mit akarsz avval a sánta csikóval? Hisz a városból sem tud az kimenni.  
