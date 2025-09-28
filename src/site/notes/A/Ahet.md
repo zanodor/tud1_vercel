@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2025-09-23T17:00"}
+{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2025-09-28T21:28"}
 ---
 
 
@@ -21,7 +21,10 @@ Hasonló képzet a sumér, melyről...
 #### Varga Zsigmond Az ősmagyar mitológia...  
 
 ...című könyvében ír:  
-> A [[V/Világhegy\|Világhegy]] a monumentális emlékeken, különösen pedig a pecsétcilinderek ábrázolatain két csúcsúnak van ábrázolva. E jelenség oka a kozmosz és a körforgás egymásnak való megfelelésében bírja a magyarázatát. A világhegy fogalma mellett ismerik a sémi-babiloniak a szintén **kétcsúcsú napfelkelte és napnyugta hegyét** is. Különösen pecsétcilindereken gyakori. Az elsőnek a neve `harsag Babbara` vagy `kur Babbar` (világos hegy), a másodiké `harsag gigga`, vagy `kur gig` (fekete hegy \[lásd [[G/Gig\|gig]]\]). E nevek is a kozmosz és a körforgás lényegi azonosságában bírják alapjukat és a kettős hegycsúcs a napjárásnak az égfelületén hegy és völgy között való föl- és leszállását akarja érzékeltetni.  
+> A [[V/Világhegy\|Világhegy]] a monumentális emlékeken, különösen pedig a pecsétcilinderek ábrázolatain két csúcsúnak van ábrázolva. E jelenség oka a kozmosz és a körforgás egymásnak való megfelelésében bírja a magyarázatát. A világhegy fogalma mellett ismerik a sémi-babiloniak a szintén **kétcsúcsú napfelkelte és napnyugta hegyét** is. Különösen pecsétcilindereken gyakori. Az elsőnek a neve `harsag Babbara` vagy `kur Babbar` (világos hegy), a másodiké `harsag gigga`, vagy `kur gig` (fekete hegy). E nevek is a kozmosz és a körforgás lényegi azonosságában bírják alapjukat és a kettős hegycsúcs a napjárásnak az égfelületén hegy és völgy között való föl- és leszállását akarja érzékeltetni.
+{ #9f6abo}
+
+- Lásd még [[G/Gig\|gig]].
 
 Jegyezzük még itt meg, hogy a régi mexikóiak is hasonló módon ábrázolták.  
 ![assets/Ahet_image2.jpeg|fix_dark fix_light|840](/img/user/A/assets/Ahet_image2.jpeg)  
