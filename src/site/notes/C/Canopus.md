@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2025-09-24T13:44"}
+{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2025-09-28T21:22"}
 ---
 
 
@@ -34,7 +34,7 @@ A Canopus csillag a déli félteke egyik legjobb irányjelzője. Ahogy a [[S/Sar
 A fényes Canopus a bolygóközi (például Voyager) űrszondák számára is egyik legfontosabb navigációs pont.  
 Canopus kopt vagy egyiptomi eredetű neve a "Golden Earth" is mintha erre utalna. \[Aristides alapján tudjuk, hogy Kahi Nub = Golden Earth volt a kopt-egyiptomi neve.\]  
 
-Plutarkhosz határozottan állitja, hogy [[O/Ozirisz\|Ozirisz]] nem az [[O/Orion\|Orion]] csillagképhez, hanem a Canopus csillaghoz köthető, hiszen az Orion csillagkép Hórusznak felelt meg. És Plutarkhosz a kijelentéseivel nincs egyedül. Több forrás és kutató szintén megerősíti ezt. \[[[Szíriusz és a medvék\|[Szíriusz és a medvék]] címnél meg északi cirkumpolárisként is be akarják állítani.\]  
+Plutarkhosz határozottan állitja, hogy [[O/Ozirisz\|Ozirisz]] nem az [[O/Orion\|Orion]] csillagképhez, hanem a Canopus csillaghoz köthető, hiszen az Orion csillagkép Hórusznak felelt meg. És Plutarkhosz a kijelentéseivel nincs egyedül. Több forrás és kutató szintén megerősíti ezt. ([[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél meg északi cirkumpolárisként is be akarják állítani.)  
 Robert E. Briggs így is fogalmaz:  
 > "Ez logikus lenne: Szíriusz/Izisz a legfényesebb csillag, mely házassága a második legfényesebb csillaggal a Canopusszal? ... Izisz a legfényesebb, de mégis Canopuszé a legfontosabb pozíció, "az égi trón", ő a Déli-sark csillag, amely körül forgott Szíriusz."  
 
