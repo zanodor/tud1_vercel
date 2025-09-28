@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2025-09-24T13:41"}
+{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2025-09-28T21:18"}
 ---
 
 
@@ -382,8 +382,9 @@ Koronája [[E/Észak\|észak]] ([[S/Szíriusz\|Szíriusz]], [[T/Tündér Ilona\|
 > A mitologikus észjárás érdekes példája az alma, a [[F/Füge\|füge]] és a Bak jelképi kapcsolata. A görög `melón` "juhot, kecskét, almát", általában "gömbölyded fagyümölcsöt", és "emlőt" jelent. A héber nyelvben pedig egész sor olyan homofón szóalak fordul elő, melynek gömbölyű gyümölccsel, elsősorban szőlővel, illetve báránnyal, kossal kapcsolatos a jelentése. Nem véletlen nyilván, hogy a zsidó félévkezdő ünnepek ([[P/Pészah\|Pészáh]] és [[S/Szukkót\|Szukkót]]) a "bárány" és a "szőlő" jegyében zajlanak, s hogy e kettő lett a Messiásnak is két legfontosabb újszövetségi jelképe. Az Énekek énekében így énekel Salamon:  
 > *"Mint az almafa az erdőnek fái közt, olyan az én szerelmesem az ifjak közt.* (2,3)  
 > *A te két emlőd olyan, mint két vadkecske."* (4,5)  
-> [[Z/Zagreusz\|Zagreusz]] gödölye, a "szíve" viszont fügegyümölcs, amelyet az istennő a feje tetején tálban, a fügefa pedig a koronáján hord levelek között. Kecskefügének hívják azt a fügefélét, mely a Bakkal átellenben a Rák havában, július 7-én a római istennőkultuszban főszerephez jutott. És – lett-légyen alma vagy füge a termése – **az égi világfa tövén is, csúcsán is egyaránt csillagkecskék legelnek**. A tövén a karácsonyi Bak, lombja közt a [[C/Capella\|Capella]] és a \[[[Göd\|[Göd]] és [[H/Höd\|Höd]] névvel is hasonlítható\] Hoedi, a Kecske és a Gödölyéi.  
+> [[Z/Zagreusz\|Zagreusz]] gödölye, a "szíve" viszont fügegyümölcs, amelyet az istennő a feje tetején tálban, a fügefa pedig a koronáján hord levelek között. Kecskefügének hívják azt a fügefélét, mely a Bakkal átellenben a Rák havában, július 7-én a római istennőkultuszban főszerephez jutott. És – lett-légyen alma vagy füge a termése – **az égi világfa tövén is, csúcsán is egyaránt csillagkecskék legelnek**. A tövén a karácsonyi Bak, lombja közt a [[C/Capella\|Capella]] és a Hoedi, a Kecske és a Gödölyéi.  
 - [[K/Kabar\|Kabar]] címnél, külön alcímnél kecske téma kapcsán is említettük.
+- [[G/Göd\|Göd]] és [[H/Höd\|Höd]] névvel is hasonlítható Hoedi.
 
 ## Fejjel lefelé álló fa
 
