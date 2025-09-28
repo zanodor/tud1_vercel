@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Palást/","title":"Palást","created":"2025-04-29T10:02","updated":"2025-09-24T13:56"}
+{"dg-publish":true,"permalink":"/P/Palást/","title":"Palást","created":"2025-04-29T10:02","updated":"2025-09-28T21:32"}
 ---
 
 
@@ -22,7 +22,7 @@ Többször említettük, hogy a [[F/Fátyol\|fátyol]], [[S/Szűr\|szűr]], [[S/
 #### Magyar Adorján Csodaszarvas...  
 
 ...című könyvében a szarvasjelmez-palást tulajdonképpen égtakaró (arról korábban ír – illetve nem ír, mert így nem mondja ki – , hogy mivel a mellékelt képen hím/bika alakot formázó férfi szerepel, ez egy késői, már jégkorszaki torzulás lehet, hiszen oldalán pettyes/[[T/Tarka\|tarka]] rénszarvas-tehén eredetileg az ég illetve a Tejút; lásd még [[S/Sika\|sika]]):  
-> Sebestyén Gyula ![assets/Palást_image1.png|fix_dark fix_light right|300](/img/user/P/assets/Pal%C3%A1st_image1.png)"A regösök" című könyvében bemutatja a mongolok "cam" nevű táncában \[[[Come\|come]] címhez is betéve\] előforduló szarvasálarcos alakot, amellyel együtt még egy bikaálarcos is ábrázolva, amely pedig a mi egykori "Bözön Biká"-nkkal azonos. Megemlíti Sebestyén, hogy ilyenek a tibetiek újévi ünnepségein szintén szerepelnek. Azon körülmény, hogy a szarvasálarcos ember táncol is, azt sejtteti, hogy itt már nem őseredeti szertartással van dolgunk, mert tudván hogy ez valamikor magát a főistent jelképezte, a táncolást ennek méltóságán alulinak érezzük, bár ellenvethető, hogy a tánc ősidőkben époly szent valaminek tarthatott mint ma a vallásos éneklés. A Sebestyén által bemutatott szarvasjelmez ruháját már igen szép, művészi **palást** képezi, amely állatbőrre már egyáltalán nem emlékeztet, de teljes, az ember arcát és fejét is befödő szarvasfeje is van, agancsokkal. Azt már tudjuk, hogy az egykori újév egyúttal Karácsony is volt, vagyis a Napisten évvégi halála és újévi újjászületése napja, illetve éjszakája, egyaránt.  
+> Sebestyén Gyula ![assets/Palást_image1.png|fix_dark fix_light right|300](/img/user/P/assets/Pal%C3%A1st_image1.png)"A regösök" című könyvében bemutatja a mongolok "cam" nevű táncában előforduló szarvasálarcos alakot, amellyel együtt még egy bikaálarcos is ábrázolva, amely pedig a mi egykori "Bözön Biká"-nkkal azonos. Megemlíti Sebestyén, hogy ilyenek a tibetiek újévi ünnepségein szintén szerepelnek. Azon körülmény, hogy a szarvasálarcos ember táncol is, azt sejtteti, hogy itt már nem őseredeti szertartással van dolgunk, mert tudván hogy ez valamikor magát a főistent jelképezte, a táncolást ennek méltóságán alulinak érezzük, bár ellenvethető, hogy a tánc ősidőkben époly szent valaminek tarthatott mint ma a vallásos éneklés. A Sebestyén által bemutatott szarvasjelmez ruháját már igen szép, művészi **palást** képezi, amely állatbőrre már egyáltalán nem emlékeztet, de teljes, az ember arcát és fejét is befödő szarvasfeje is van, agancsokkal. Azt már tudjuk, hogy az egykori újév egyúttal Karácsony is volt, vagyis a Napisten évvégi halála és újévi újjászületése napja, illetve éjszakája, egyaránt.  
 
 Magyar Adorján Csodaszarvasának szalmaköpenyéről szóló írását lásd [[S/Szalma\|szalma]].  
 
