@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mint istenanya/","title":"Szíriusz mint istenanya","created":"2023-11-30T08:53","updated":"2025-09-11T16:57"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mint istenanya/","title":"Szíriusz mint istenanya","created":"2023-11-30T08:53","updated":"2025-09-28T21:29"}
 ---
 
 
@@ -38,7 +38,7 @@ Több helyen szó volt arról, hogy a [[C/Csudaszarvas\|Csudaszarvas]] a Napot �
 #### Magyar Adorján Magyar építőízlés...
 
 ...című kötetében írottak tulajdonképpen ugyanezt mondják el:  
-> [[D/Diadalkapu\|Diadalkapu]]t tehát, ha valaha ismét építendünk, azt okvetlen úgy kellend állítanunk, hogy a téli napforduló reggelén (az ősi, igazi Karácsony éje utáni reggelen) a fölkelő Napot annak középső nyílásában láthassuk föltűnni, akkor ha a kapuval pontosan szemben állandunk. Őseinknél ennek az időszámításban volt nagy fontossága, azért mert ez éj után kezdenek a napok hosszabbodni, az éjek rövidülni, amiért is ez volt náluk Újesztendő hajnala, vagyis a Napisten újjászületése napja is. Hitregéjük szerint ugyanis a Napisten ez éjszaka éjfele előtt fehérhajú öregként búcsúzik gyermekeitől az emberektől, de éjfél után \[[[Magor\|[Magor]]ként\] újjá születik[^6] és az égi [[C/Csudaszarvas\|Csodaszarvas]] őt a szarvai között ringó bölcsőben aranyhajú kisdedként hozza vissza.  
+> [[D/Diadalkapu\|Diadalkapu]]t tehát, ha valaha ismét építendünk, azt okvetlen úgy kellend állítanunk, hogy a téli napforduló reggelén (az ősi, igazi Karácsony éje utáni reggelen) a fölkelő Napot annak középső nyílásában láthassuk föltűnni, akkor ha a kapuval pontosan szemben állandunk. Őseinknél ennek az időszámításban volt nagy fontossága, azért mert ez éj után kezdenek a napok hosszabbodni, az éjek rövidülni, amiért is ez volt náluk Újesztendő hajnala, vagyis a Napisten újjászületése napja is. Hitregéjük szerint ugyanis a Napisten ez éjszaka éjfele előtt fehérhajú öregként búcsúzik gyermekeitől az emberektől, de éjfél után újjá születik[^6] és az égi [[C/Csudaszarvas\|Csodaszarvas]] őt a szarvai között ringó bölcsőben aranyhajú kisdedként hozza vissza.  
 
 Legfelül azt írtam, hogy a címadás nem teljesen megfelelő. De ha már maradt, akkor emlékezzünk a [[D/Deus\|deus]], [[Z/Zeusz\|Zeusz]], [[T/Tűz\|tűz]] és [[S/Szűz\|szűz]] címeknél álló hosszabb passzus tartalmára: az ott írottak alapján a szkíták tűzistennője lehet Szíriusz.  
 Szíriusz mint istenanya szóba került [[H/Három\|három]] és [[M/Martu\|Martu]] címnél is.  
