@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["Englishtexttranslated"],"created":"2023-10-03T09:41","updated":"2025-09-24T13:53"}
+{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["Englishtexttranslated"],"created":"2023-10-03T09:41","updated":"2025-09-28T21:30"}
 ---
 
 
@@ -36,7 +36,7 @@ A felfelé álló fülek (nem csak kutyáé) kapcsán...
 ...több helyen említett passzusát tegyük még ide:
 > A szólás, hogy "letörte a szarvát", az ősi bikaáldozatra utal (Héraklész Akhelóiosz fölötti győzelme e szólás mítoszi forrása), s ugyancsak halál-jelentése lehetett eredetileg az e szólással látszólag éppen ellentétes értelmű felszarvazásnak". A túlvilágra költöző uralkodót, hőst, áldozatot ékesítették föl a csak "istent" megillető szarvakkal. Így illett a már túlnan lévők sorába. (Zolnay 1983: 272 skk.) Újabb kori értelmét a kifejezés annak köszönheti, hogy az elhunyt asszonyait utóda örökölte meg – nem egyszer épp az a személy, aki életét is kioltotta. Az alvilág fejedelmét, az ördögöt ([[K/Krampusz\|krampusz]]t) és a boszorkányt szarvas lénynek képzelték, ezért voltak "[[S/Szarvas\|szarvas]]" \[szarv-as\] állatok a kísérőik (bakkecske, fülesbagoly). A sorba illik maga a szarvas is (gör. `keraosz` "szarvas").  
 
-Mindenféle kinövés, kivált a fejből felfelé, szarvakhoz hasonlítható – [[S/Széth\|Széth]] állata (sha) és fülüket hegyező \[[[Hegy\|hegy]] = [[H/HAR\|HAR]] = [[E/Ear\|ear]]\] kutyák kapcsán is említett – fül isteni attributum (az isteni logosz – vesd össze [[E/Ég\|ég]] és [[I/Ige\|Ige]] – vételére is értve).  
+Mindenféle kinövés, kivált a fejből felfelé, szarvakhoz hasonlítható – [[S/Széth\|Széth]] állata (sha) és fülüket hegyező ([[H/Hegy\|hegy]] = [[H/HAR\|HAR]] = [[E/Ear\|ear]]) kutyák kapcsán is említett – fül isteni attributum (az isteni logosz – vesd össze [[E/Ég\|ég]] és [[I/Ige\|Ige]] – vételére is értve).  
 
 Ha már Egyiptom, ...
 
