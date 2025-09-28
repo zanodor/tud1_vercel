@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tiermesz/","title":"Tiermesz","created":"2023-10-13T12:47","updated":"2024-10-26T00:38"}
+{"dg-publish":true,"permalink":"/T/Tiermesz/","title":"Tiermesz","created":"2023-10-13T12:47","updated":"2025-09-28T21:30"}
 ---
 
 
@@ -32,7 +32,7 @@ Még mindig északon járunk, egészen pontosan a lappoknál, ahol két M-SZ, M-
 
 > A precesszió következtében az égitestek koordinátái is állandóan változnak. 13000 évvel ezelőtt tehát a nyári égboltunkon ragyogtak azok a csillagképek, amelyek ma a téli égbolton láthatók, némiképp az egykoritól különböző alakban. Ugyanis ha lassan is, de a csillagokat is elmozdulni látjuk egymáshoz képest. "Mai" – legalább 4-5000 éve tartó – téli csillagkép voltuk magyarázza, miért vált a szarvas a téli ünnepkör állatává, s természetesen azt is, miért folyik a lapp, s tegyük hozzá, a legtöbb finnugor mondában a vadászat sítalpon, hótalpon.  
 
-A név tehát lehet Orion+Tejút \[[[MISZ\|[MISZ]]\] összetételű, majd talán a finnségiek északra való visszatérése után északi csillagképre cserélhették.  
+A név tehát lehet [[M/MES\|MES]]-fai tier = [[D/Deer\|deer]] = szarvas ill. Orion+Tejút ([[M/MISZ\|MISZ]]) összetételű, majd talán a finnségiek északra való visszatérése után északi csillagképre cserélhették.  
 Még utólag: az előtag a pártus-perzsa [[T/Tír\|tír]] szóban nyílvessző jelentésű volt.  
 Előrésze ugyanakkor a másutt sumérnek megadott `Darama`, `Daramah` = szarvas jelentéssel megadott nevekhez hasonlítható. A [[S/Szarvas\|szarvas]] a régi isten. 
 Az utótag pedig lehetne a vadász (= férfi; vö. finn `mies` = hím, férfi, férj és finn `metsän`, `mesä` = erdő \[vadászterület\]) értelem.  
@@ -40,7 +40,7 @@ Az utótag pedig lehetne a vadász (= férfi; vö. finn `mies` = hím, férfi, f
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-A szláv nyelvekben `medved` a medve, de a `miska` is előjön az oroszban és mackó szavunkhoz hasonló szláv szót is találni.  
+A szláv nyelvekben `medved` a medve, de a `miska` is előjön az oroszban és `mackó` szavunkhoz hasonló szláv szót is találni.  
 
 [^2]: Lábjegyzet:  
 Könnyen lehet T-R vázú neve miatt és [[O/Ökörhajcsár csillagkép\|Ökörhajcsár csillagkép]] címnél írottak alapján is, hogy eredetileg Orion-név volt.  
