@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hound/","title":"Hound","tags":["Englishtexttranslated"],"created":"2023-10-30T01:01","updated":"2024-11-19T11:41"}
+{"dg-publish":true,"permalink":"/H/Hound/","title":"Hound","tags":["Englishtexttranslated"],"created":"2023-10-30T01:01","updated":"2025-09-28T21:30"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 #### Péterfai János írja:
 
-> A Hound Vadászkutya, Véreb \[[[Agár\|[Agár]]\]; a Hun név azért van ebben az angol szóban is jelen, mert valójában az égi kutyákról van szó. [[H/Hunter\|Hun-Ter]], a Vad-Ász két kísérője a Nagy Kutya és a Kis Kutya. A Hunok, mint csillagok, a Vadász csillagkép követői, de a Vadásszal is azonosak.  
+> A Hound Vadászkutya, Véreb \[vagy [[A/Agár\|Agár]]\]; a Hun név azért van ebben az angol szóban is jelen, mert valójában az égi kutyákról van szó. [[H/Hunter\|Hun-Ter]], a Vad-Ász két kísérője a Nagy Kutya és a Kis Kutya. A Hunok, mint csillagok, a Vadász csillagkép követői, de a Vadásszal is azonosak.  
 >
 > A név a Hun szóból ered \[mely ősgermán nyelven óriás, de hasonló szóval gúnyt is kifejez\]. Ami fenn van, lenn is – mondja Thoth, vagyis [[H/Hermész\|Hermész]] Triszmegisztosz. Az egyiptomi Thoth istenről tudható, hogy magyar isten, a Teut – Tejút tudója, Platónnál a neve Theuth, ami döntő bizonyosságot ad Teuta – Tejuta nevünk jelenlétére a nagy tudós Thoth, Theuth isten nevében. Thoth a Tejút istene, ez világos minden magyar számára, hacsak nem teljesen képzetlen saját nyelvében. Hound az Óriás, vagyis Hun követője, az égen kettő is van belőlük. A Nagy Kutya és a Kis Kutya, a hűség jelképei. A kutyánál hűségesebb állat talán nincs is a bolygón, kitűnő segítő a vadászatokon, őrző és terelő, meg védő és nyomozó, nem is tudható, mennyi fontos szolgálatot tesz naponta az embereknek. Még van a Vadászebek csillagkép is, ne feledkezzünk meg róla sem, mert így három csillagkép is jelzi az emberek kutyák iránti szeretetét.  
 >
