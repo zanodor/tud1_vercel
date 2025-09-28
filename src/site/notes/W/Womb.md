@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/W/Womb/","title":"Womb","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-07-29T23:06","updated":"2025-09-24T13:56"}
+{"dg-publish":true,"permalink":"/W/Womb/","title":"Womb","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-07-29T23:06","updated":"2025-09-28T21:31"}
 ---
 
 
@@ -14,9 +14,10 @@ Feltűnő a [[W/Woman\|woman]] szó wom- előrészével való azonossága (kivá
 [[H/Humbaba\|Humbaba]] címnél is szerepeltek az alábbiak:  
 Robert Temple Sirius Msytery című könyvében szól arról, hogy a Humbaba-fej mintha belekből lenne kialkotva. [[M/Mithra\|Mithra]] címnél legutóbb írottak kapcsán vetődött fel, hogy ez a belek = méh = mostani világkorszakbeli Skorpió csillagkép körüli terület lehet a [[G/Gilgames és Enkidu\|Gilgames és Enkidu]] mítoszában[^1] de ellenőrizni kell.  
 Az tény, hogy a baba szerepel a névben és a womb = méh az ind Khumba-val azonos szó, továbbá ide tehető még Richard H. Allen Star Names című könyvének 48. oldaláról:  
-> On the Ganges, as in China, Acquarius began the circle of the zodiacal signs; and Al Biruni said that at one time in India it was Khumba, or Kumbaba \[[[Humbaba\|[Humbaba]]?\], which recalls the Elamite divinity of that name, the Κόμβη, or Storm God, of Hesychios. This, too, was the Tamil title for it; La Lande writing it Coumbum.  
+> On the Ganges, as in China, Aquarius began the circle of the zodiacal signs; and Al Biruni said that at one time in India it was Khumba, or Kumbaba, which recalls the Elamite divinity of that name, the Κόμβη, or Storm God, of Hesychios. This, too, was the Tamil title for it; La Lande writing it Coumbum.  
 > —  
 > A Gangesznél, akárcsak Kínában, a Vízöntő kezdte az állatövi jegyek körét; és Al Biruni szerint Indiában egykor Khumba vagy Kumbaba volt a neve, ami az ilyen nevű elámi istenségre, vagy Hesychios Viharistenére, Κόμβη-ra emlékeztet. Ez volt a tamil elnevezése is; La Lande Coumbumnak írja.  
+- Kumbaba = [[H/Humbaba\|Humbaba]]?
 
 Márpedig a Vízöntő két világhónappal ezelőtt a [[T/Téli napforduló\|téli napforduló]] csillagképe volt. Erről volt szó [[V/Vízöntő csillagkép\|Vízöntő csillagkép]] címnél is Krishna halála kapcsán.  
 [[A/Anyaméh\|Anyaméh]] témát illetve a Tejútanya méhének témáját lásd még [[M/Makara\|Makara]], [[M/Makara Sankrati\|Makara Sankrati]], [[D/Delfin csillagkép\|Delfin csillagkép]], [[D/Dolphin\|dolphin]], [[M/Méh\|méh]], [[H/Ház\|ház]], stb.  
