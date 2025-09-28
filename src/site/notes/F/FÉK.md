@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/FÉK/","title":"FÉK","created":"2024-04-27T02:01","updated":"2025-08-10T02:13"}
+{"dg-publish":true,"permalink":"/F/FÉK/","title":"FÉK","created":"2024-04-27T02:01","updated":"2025-09-28T21:29"}
 ---
 
 
@@ -11,7 +11,7 @@ Mint kiderül, CzF nem igazán érti a szót, de a közmondásokból ki lehet h�
 > FÉK (fe-ek v. fé-k, gyöke fe v. fé, azaz fő, fej, mily tájdivatilag most is fölcseréltetik fékötő szóban; eredeti jelentése is tehát am. fej- vagy főkeritő, fejszoritó, vagy általán: felkötő; egyébiránt rokon vele a héber `פח` (pah), aram `focho`, arab `fach`; ide tartozó a hellen `sjhkow` \[öszveszorítom\], innen: `sjhkwma` \[sisakkötő\], továbbá: `sjiggw` \[sinórozom, öszvekötöm\], innen: `sjiggion` \[sineg; nyakkötő\]; származási tekintetben leghasonlóbb hozzá a finn `pää` \[fej\] szóból származott `päitsi` \[fék\]; fn. tt. fék-et. Jelent tulajd. ló fejére való szerszámot, kötőt, valamint nyakló am. nyakravaló, hasló, hasat átkötő, szügyelő, farmatring, mindannyi lószerszámok. Innen: kötőfék. A ló kötőfékkel jár. (Km.). A hol a féket megkapják, a lovat is ott szokták keresni. (Km.). Fékszáron tartani a lovat. Fékzabola. Lánczos fék, zabolás fék, vendég fékszár. Átv. ért. szigorú felügyelés, fegyelem.  
 > Féken fogni a kicsapongásra hajlandó ifjút. Nem tűrni a féket. Féken tartani a szenvedelmeket.  
 - A fék ugye a sebesség vissza*fog*ására való, így jogos [[F/FOG\|fog]] szavunkkal rokonítani.  
-Azon címnél Götz László adatával elő is jött a két szó egymás mellé téve, a [[B/Béklyó\|béklyó]] címnél taglalt békó és bog szavakkal együtt.  
+Azon címnél Götz László adatával elő is jött a két szó egymás mellé téve, a [[B/Béklyó\|béklyó]] címnél taglalt `békó` és `bog` szavakkal együtt.
 
 A fék nemcsak a sebesség, hanem a fény csökkentésére utal, egyúttal kontrollra, kontrára, honnan azonossága a [[B/Back\|back]] angol szóval is.  
 
