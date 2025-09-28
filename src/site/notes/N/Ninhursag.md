@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2025-09-24T13:52"}
+{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2025-09-28T21:29"}
 ---
 
 
@@ -15,7 +15,7 @@
 #### Jankovics Marcell...
 
 ...talán a Hegy Úrnője címből vagy más, megalapozott adatból kiindulva Ninhursagot olyan Tejútistennőnek tartja, mint amilyen [[N/Nut\|Nut]] volt Egyiptomban:  
-Ninhurszág, sumer "Világhegyúrnő" alsó testnyílásai, az alvilág bejáratai, az alsó és felső tejúthasadékot jelképezik. \[[[Sziget\|[Sziget]] címhez is betéve.\]  
+Ninhurszág, sumer "Világhegyúrnő" alsó testnyílásai, az alvilág bejáratai, az alsó és felső tejúthasadékot jelképezik. ([[S/Sziget\|Sziget]] címhez is betéve.)  
 Másutt is írja:  
 > A "hasadék" legfényesebb csillagának, a Skorpió csillagzat vörös Antaresének Szépasszon volt a magyar neve, mégpedig annak a Szépasszony nevű, felemás hiedelmi alaknak a nyomán, akiről azt tartották eleink, hogy bűbájával a férfiakat "erdős hasadékába" csalja, s azok e kalandba bele is pusztulnak. (Afrikában ma is tartja magát a hiedelem, hogy a skorpió a női nemiszerv "állata". A rovar mérges fullánkja ott a csiklót jelképezi, amit a feketék a férfiakra veszélyesnek hisznek. Ezért "metélik körül" Afrikában milliószámra ma is a nőket, azaz metszik ki a csiklójukat. Vö. azzal, hogy a sumer Ninhurszag "Világhegy-Úrnő" ágyékát skorpió-ijászok őrzik, a Gilgames-eposzban az alvilág bejáratát skorpióemberek vigyázzák. E skorpiók nyilvánvalóan a tejúthasadék állatövi csillagképére, a Skorpióra utalnak. Ez az a "ház" az asztrológiai szimbolikában, amelyben évről évre [[N/Nap – halott Nap#A Nap halála\|meghal a Nap]].  
 
