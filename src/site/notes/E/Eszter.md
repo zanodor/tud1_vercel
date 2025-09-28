@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Eszter/","title":"Eszter","tags":["Englishtexttranslated"],"created":"2023-10-22T02:45","updated":"2025-05-03T09:28"}
+{"dg-publish":true,"permalink":"/E/Eszter/","title":"Eszter","tags":["Englishtexttranslated"],"created":"2023-10-22T02:45","updated":"2025-09-28T21:27"}
 ---
 
 
@@ -42,7 +42,8 @@ Az, hogy a tehén meddősége szóba jött, azért is érdekes, mert [[S/Szarv\|
 
 Mindenképp meg kell itt említeni a latin [[S/Striga\|striga]] = boszorkány szót is, mely Eszter-Ga felbontásával annyit tesz, hogy Eszter Házából való. Ez így nem sokat mondana, de a legutóbb [[M/Mithra\|Mithra]] címnél írottak alapján el tudjuk képzelni, miről van szó. Ahogy a [[B/Boszorkány\|boszorkány]] (illetve szintén a magyar mesékben a [[G/Gödény\|gödény]]) felelős a naphős elpusztításáért illetve a világosság felzabálásáért, az egyiptomi [[N/Nut\|Nut]] úgy felelős égitest-gyermekeinek felfalásáért nyugaton, hogy keleten világra hozza őket.  
 Jankovics Marcell írja:  
-> Más szóval, úgy hitték, hogy az éppen nem látható planéták és csillagok Nut testében a Tejút alvilági, déli szakaszán \[[[Duat\|duat]]\] járnak.  
+> Más szóval, úgy hitték, hogy az éppen nem látható planéták és csillagok Nut testében a Tejút alvilági, déli szakaszán járnak.  
+- A déli szakasz: [[D/Duat\|duat]].
 
 [[M/Mithra\|Mithra]] címnél szótani vizsgálat alapján kiderült, hogy az akasztásnak, keresztrefeszítésnek helye hol történik és milyen eszközöket alkottak a földön égi mintára. Az [[O/Ösztörű\|ösztörű]] is szóba került, ahogy a német `mistgabel` = vasvilla és arab `midrāh` = vasvilla, melyek előrésze utal az égi helyükre éppúgy, ahogy ösztörű nevében `Eszter` = Tejút.  
 Az éppilyen alakú osztriga szóról lásd [[O/Oyster\|oyster]]. `Estrogen` előrésze is ilyen. **Österreich**-ot lásd [[O/Osztrák\|osztrák]] és lásd még Péterfai János írását [[A/Austral\|austral]], de [[S/Street\|street]] és sok más szó eredete [[I/Istár\|Istár]]/[[I/Iszter\|Iszter]]/Eszter.  
@@ -50,8 +51,8 @@ Az éppilyen alakú osztriga szóról lásd [[O/Oyster\|oyster]]. `Estrogen` el�
 Czeglédi Katalin A földrajzi nevek és a magyar őstörténet az Iszter folyó kapcsán című az Ősi Gyökér 2016/3. sz. megjelent cikkéből [[I/Iszter\|Iszter]] címnél idéztünk adatokat. Helységnevek közül említi: Eszterháza, Esztár, Eszteregnye neveket. [[E/Esztergom\|Esztergom]] nevéről, Sturovo említésével is lásd ott.  
 Ami még itt érdekes, az a Kemestaródfánál jobb oldal felől a Pinkába torkolló patak romlott Strém nevének Ösztörmen és Eszturmen magyar eredetijei, igaz, patak jelentéssel az angol [[S/Stream\|stream]] a szláv romlott névvel azonos. A -men nyilván menny ([[M/Men\|men]]). Ezzel megint igazoltuk, hogy az égi folyam kerül a földre leképezésre.  
 Egyéb adatok CzK-tól:  
-> Szlovák `štúr` = (kárpáti) skorpió, `št'úrec` = fülbemászó, `štúrec` = szigony, valamint a [[S/Striga\|striga]] szóval hasonlítható szlovák `struga` = vízfolyás, patak, meder. [[S/Strike\|Strike]] is ilyen szó.  
-> Lásd még esztrangás kb. 'számadó juhász', sztrongás vö. 'bizonyos fajta pásztoradó', eszkotár 'számadó juhász, juhászgazda'.  
+Szlovák `štúr` = (kárpáti) skorpió, `št'úrec` = fülbemászó, `štúrec` = szigony, valamint a [[S/Striga\|striga]] szóval hasonlítható szlovák `struga` = vízfolyás, patak, meder. [[S/Strike\|Strike]] is ilyen szó.  
+Lásd még esztrangás kb. 'számadó juhász', sztrongás vö. 'bizonyos fajta pásztoradó', eszkotár 'számadó juhász, juhászgazda'.  
 
 Czeglédi K. [[E/Eszterha\|eszterha]] címnél szereplő, az angol [[S/Straw\|straw]] szó (alakjának és) jelentésének megfelelő szóalak szlávból való, szalma jelentéssel meghatározott adatát (a [[M/Magyar mondókák\|magyar mondókák]] címnél más anyaggal jelentkező) ...
 
