@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Rusz/","title":"Rusz","tags":["Englishtexttranslated"],"created":"2024-10-26T21:20","updated":"2025-09-23T20:47"}
+{"dg-publish":true,"permalink":"/R/Rusz/","title":"Rusz","tags":["Englishtexttranslated","containscallouts"],"created":"2024-10-26T21:20","updated":"2025-09-28T21:26"}
 ---
 
 
