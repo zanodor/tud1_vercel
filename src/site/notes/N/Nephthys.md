@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nephthys/","title":"Nephthys","tags":["Englishtexttranslated"],"created":"2023-10-25T02:58","updated":"2025-06-08T01:43"}
+{"dg-publish":true,"permalink":"/N/Nephthys/","title":"Nephthys","tags":["Englishtexttranslated"],"created":"2023-10-25T02:58","updated":"2025-09-28T21:27"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 #### Péterfai János írja:
 
-> Húga \[[[Ízisz\|[Ízisz]]nek\] neve Ne-Bet-Het, vagy Ne-Bet-Hut, akinek a neve abszolút magyar nyelvű (mint a többi istennek is). Ne a Né, Bet a Ház, mint a Bet-Eg és más szavunkban. A Bet-Eg tehát azt jelenti, hogy a Háza (Bet) Ég. Vagyis a teste lázas, meleg, ég a teste. A Het azonos Hét szavunkkal, ami a számok rendjében Király, Uralkodó értelmű. Ebből az következik, hogy az istennő egyiptomi neve Nő-Ház-Uralkodó értelmű, amit a lexikonokban így találunk meg: A Ház-Úr-Nője. Tökéletes megfejtés, de magyarul van a név, amihez csak azt fűzhetjük hozzá, mi akadályozza meg a kutatókat az egyiptomi név magyar azonosításában?  
+> Húga \[ti. [[I/Ízisz\|Ízisz]]nek\] neve Ne-Bet-Het, vagy Ne-Bet-Hut, akinek a neve abszolút magyar nyelvű (mint a többi istennek is). Ne a Né, Bet a Ház, mint a Bet-Eg és más szavunkban. A Bet-Eg tehát azt jelenti, hogy a Háza (Bet) Ég. Vagyis a teste lázas, meleg, ég a teste. A Het azonos Hét szavunkkal, ami a számok rendjében Király, Uralkodó értelmű. Ebből az következik, hogy az istennő egyiptomi neve Nő-Ház-Uralkodó értelmű, amit a lexikonokban így találunk meg: A Ház-Úr-Nője. Tökéletes megfejtés, de magyarul van a név, amihez csak azt fűzhetjük hozzá, mi akadályozza meg a kutatókat az egyiptomi név magyar azonosításában?  
 >
 > Nephthysz a másik neve, amit görögnek mondanak, de nem görög név ez sem, hanem magyar. Mivel a görög kultúra és nyelv a magyarból fejlődött át a görögbe, igen nagy az átfedés a két nyelv között. De a görög nyelv csak Kr.e. 1.200 körül kezd átváltozni a magyarból, ezért régebbi időben nem beszélhetünk görög nyelvről. Ellenben a kérek és károk, pelaszgok, trójai tarjánok, etruszkok – türszének és még sok magyar nép élt a területen, nem beszélve az egyiptomiak szumer, hun, magar részéről, akiktől kaphatták a magyar neveket az istenek, istennők.  
 >
