@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Freyja/","title":"Freyja","created":"2023-10-05T03:45","updated":"2025-08-31T02:07"}
+{"dg-publish":true,"permalink":"/F/Freyja/","title":"Freyja","created":"2023-10-05T03:45","updated":"2025-09-28T21:31"}
 ---
 
 
@@ -21,9 +21,12 @@ Hogy Freyja neve így a Tejút megszemélyesítője, erről...
 
 #### Magyar Adorján is ír:
 
-> Írtam arról, hogy a rómaiak Bona-Deája (Jó Istennő, de egyúttal Tehén-Istennő is) tulajdonképpen azonos a főisten Jupiter (a jó apa) nejével Juno-val, amely utóbbi név tehát jó nő értelmű. Mindezzel tökéletesen összevág az, hogy a germán mythologusok is azonosítják Frigg avagy Frei istennőt Odin[^1] főisten nejével, Freya-val, amely nevekből származtatják a német `Frau` = asszony szót is, de amely szónak a németben nő értelme is van, bár utóbbi értelemben a `Weib` \[[[Wife\|wife]]\] szót is használják.  
-> Ámde Freyát még Frau-Gade-nak is nevezték (Buschan: "Die Sitten der Völker"), ami hiszen szintén jó-asszony, vagy jó-nő értelmű. Világos tehát, hogy mindez istennők a Tejút megszemélyesítései voltak \[[[Tündér Ilona\|[Tündér Ilona]], [[N/Nut\|Nut]], Héra, stb.\], akit a mi őseink tehénnel \[csak hát itt eredetileg [[C/Csudaszarvas\|Csudaszarvas]]-ünő a tehén: szarvastehén\] is jelképeztek volt, ugyanúgy, mint később a görögök Zeusz főisten nejét Herát, akit a tudósok meg [[J/Jó#Io istennő\|Io]] vagy Jo tehénistennővel azonosítanak, azt pedig tudjuk, hogy a magyar jó szavunknak úgy ó, mint jú alakban juh értelme is van, de amely szónak tehát még tehén értelme is lehetett; aminthogy szanszkrit `gó`, német `Kuh` = tehén ([[C/Cow\|cow]]).  
-- A fehérnép = nő összefüggés alapján a német `Frau` és Freyja is fehér szavunk származéka lehet.
+> Írtam arról, hogy a rómaiak Bona-Deája (Jó Istennő, de egyúttal Tehén-Istennő is) tulajdonképpen azonos a főisten Jupiter (a jó apa) nejével Juno-val, amely utóbbi név tehát jó nő értelmű. Mindezzel tökéletesen összevág az, hogy a germán mythologusok is azonosítják Frigg avagy Frei istennőt Odin[^1] főisten nejével, Freya-val, amely nevekből származtatják a német `Frau` = asszony szót is, de amely szónak a németben nő értelme is van, bár utóbbi értelemben a `Weib` szót is használják.  
+- Weib az angol [[W/Wife\|wife]].
+
+> Ámde Freyát még Frau-Gade-nak is nevezték (Buschan: "Die Sitten der Völker"), ami hiszen szintén jó-asszony, vagy jó-nő értelmű. Világos tehát, hogy mindez istennők a Tejút megszemélyesítései voltak, akit a mi őseink tehénnel \[csak hát itt eredetileg [[C/Csudaszarvas\|Csudaszarvas]]-ünő a tehén: szarvastehén\] is jelképeztek volt, ugyanúgy, mint később a görögök Zeusz főisten nejét Herát, akit a tudósok meg [[J/Jó#Io istennő\|Io]] vagy Jo tehénistennővel azonosítanak, azt pedig tudjuk, hogy a magyar jó szavunknak úgy ó, mint jú alakban juh értelme is van, de amely szónak tehát még tehén értelme is lehetett; aminthogy szanszkrit `gó`, német `Kuh` = tehén ([[C/Cow\|cow]]).  
+- A Tejút megszemélyesítései voltak [[M/Magyar Ilona\|Magyar Ilona]], [[N/Nut\|Nut]], [[H/Héra\|Héra]], Freyja, stb. Lásd még [[T/Tejútanya\|Tejútanya]].
+	- A fehérnép = nő összefüggés alapján a német `Frau` és Freyja is fehér szavunk származéka lehet.
 
 Korábban úgy gondoltam, hogy Írország és Magyarország mellett sok nép nem tartja fenn istennő-tiszteletét (akár csak úgy, hogy nevében hordozza a nevet), de a dán himnuszt hallva, szövegét olvasva meglepődtem, hiszen Freya neve is úgy szerepel benne, mint ahogy egy nép, amit régen tisztelt, nem engedte el egészen.  
 
