@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mátyás/","title":"Mátyás","created":"2023-11-17T07:56","updated":"2025-09-24T13:47"}
+{"dg-publish":true,"permalink":"/M/Mátyás/","title":"Mátyás","created":"2023-11-17T07:56","updated":"2025-09-28T21:24"}
 ---
 
 
@@ -38,7 +38,7 @@ Gergely cikke ide tehető:
 > A krónikák szerint [[H/Hunyadi\|Hunyadi]] János anyja görög származású volt, a görög császári család leszármazottja. Hogy apja Zsigmond király volt, Heltai Gáspár krónikáján kívül egyéb források is bizonyítják, tehát fogadjuk el tényként.  
 > \[...\]  
 > A görög rokonság Hunyadi Mátyást a török szultáni családdal is összekötötte: 1489. januárjában a pápai legátusnak vall erről: "Dzsem – a szultán trónkövetelő testvére, akit Mátyás igyekezett kiváltani a velenceiek fogságából és trónra segíteni – emellett vérrokon is, mert nagyanyám nővérétől származik, ki török fogságba jutva, a császár felesége lett."  
-> Mátyás származásáról a krónikák megemlítik még Attila \[[[Atilla hun király\|Atilla]]\] nemzetségét és **a római ősöket**. Morzsinai Erzsébet révén mindkettő igaznak bizonyulhat. Attiláról tudjuk, hogy egyik felesége Honorius császár (Theodosius fia) lánya volt, gyermekei számát pedig egy egész hadseregnyire becsülték. Apjuk halála után némelyik sorsát nyomon tudjuk követni egy ideig, némelyikét nem. Többen mehettek vissza nagyapjukhoz Görögországba, sőt olyan hírek is vannak róluk, hogy Konstantinápolyban, az udvarban kereszténnyé lettek. Leszármazottaik sorsáról csak feltételezések láttak napvilágot.  
+> Mátyás származásáról a krónikák megemlítik még [[A/Atilla hun király\|Attila]] nemzetségét és **a római ősöket**. Morzsinai Erzsébet révén mindkettő igaznak bizonyulhat. Attiláról tudjuk, hogy egyik felesége Honorius császár (Theodosius fia) lánya volt, gyermekei számát pedig egy egész hadseregnyire becsülték. Apjuk halála után némelyik sorsát nyomon tudjuk követni egy ideig, némelyikét nem. Többen mehettek vissza nagyapjukhoz Görögországba, sőt olyan hírek is vannak róluk, hogy Konstantinápolyban, az udvarban kereszténnyé lettek. Leszármazottaik sorsáról csak feltételezések láttak napvilágot.  
 > Mivel bizonyosságot nem tudunk, miért ne lehetne feltételezni, hogy Morzsinai Erzsébet családja Attila leszármazottai közül került ki, és nem lehetetlen, hogy Alamizsnás János is a leszármazottja. 1453-ban, amikor a törökök elfoglalták Konstantinápolyt, lerombolták a keresztény emlékeket, templomaikat berendezték a maguk hite szerint. Vajon hogyan maradhatott épségben Alamizsnás Szent János teste, amikor tudjuk, hogy a török az emberi testet még ábrázolásaiban sem, nemhogy ereklyei mivoltában megtűrte volna. Az egyetlen magyarázat: valaki védőszárnyai alá vette, aki érzelmileg kötődött a testhez. Ez a valaki lehetett például a szultán azon felesége, akit Mátyás király nagynénjének tekintett.  
 
 Krizsai Mónika Egy különös kéziratról, mely Mátyás király beszédeit tartalmazza Borbálához, Corvin János anyjához című az Ősi Gyökér 2010/4. sz. megjelent cikkét alkalomadtán elolvasni.  
