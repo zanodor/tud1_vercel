@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Napjelkép/","title":"Napjelkép","created":"2023-10-13T12:20","updated":"2025-06-28T00:02"}
+{"dg-publish":true,"permalink":"/N/Napjelkép/","title":"Napjelkép","created":"2023-10-13T12:20","updated":"2025-09-28T21:31"}
 ---
 
 
@@ -20,4 +20,4 @@ Imitt-amott már esett szó napjelképekről, például ilyen a [[T/Tükör\|tü
 
 Napszimbólum még a növény termése, mint például [[B/Búza\|búza]], [[R/Rozs\|rozs]] (ezért is Napnevek alkotják). Napszimbólum a [[S/Sztúpa\|sztúpa]]. Továbbá [[S/Szalma\|szalma]] (vesd össze [[S/Szellem\|szellem]]), [[T/Toll\|toll]], stb.  
 A Nap kerek. Minden kerek forma, ami felfogható szimbólumnak, vagy jel kiindulási alapja lehet (kinyílt virág tányérja, gömbölyű gyümölcs, kerek [[A/Arc\|arc]], [[T/Tenyér\|tenyér]], [[T/Tányér\|tányér]], [[H/Hordó\|hordó]], vödör, pajzs, [[K/Kerék\|kerék]] és millió más), kapcsolatba hozható vele.  
-Félig-meddig tréfás metaforákban, találós kérdésekben a Nap bármilyen kerek tárgy képében megjelenhet. Lehet koszorú, diszkosz ([[D/Disc\|disc]]), tányér, tepsi, tál, serpenyő (amiben sül éppen valami; lásd angol [[P/PAN#Pan 2)\|pan]]), kút-vödör, (zsíros, vajas, mézes) bödön, (boros) kupa, lepény \[lásd [[K/Kenyér\|kenyér]], [[L/LEB\|LEB]] és [[L/Loaf\|loaf]]\], labda, gombolyag \[[[Ball\|ball]] [[B/Bál\|Bál]] nyomán\], [[D/Dinnye\|dinnye]], [[T/Tök\|tök]], (piros, arany) kerek gyümölcs.  
+Félig-meddig tréfás metaforákban, találós kérdésekben a Nap bármilyen kerek tárgy képében megjelenhet. Lehet koszorú, diszkosz ([[D/Disc\|disc]]), tányér, tepsi, tál, serpenyő (amiben sül éppen valami; lásd angol [[P/PAN#Pan 2)\|pan]]), kút-vödör, (zsíros, vajas, mézes) bödön, (boros) kupa, lepény \[lásd [[K/Kenyér\|kenyér]], [[L/LEB\|LEB]] és [[L/Loaf\|loaf]]\], labda, gombolyag ([[B/Ball\|ball]] [[B/Bál\|Bál]] nyomán), [[D/Dinnye\|dinnye]], [[T/Tök\|tök]], (piros, arany) kerek gyümölcs.  
