@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","created":"2024-04-20T13:37","updated":"2025-09-24T13:48"}
+{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","tags":["Englishtexttranslated"],"created":"2024-04-20T13:37","updated":"2025-09-28T21:25"}
 ---
 
 
@@ -14,13 +14,21 @@ Ipolyi könyvének 212. oldalán szóba kerül [[T/Tana\|Tana]] neve is, ki az e
 Említettem a skandinávokat. Az ónorvég vagy óészaki [[G/Germán mitológia\|germán mitológia]]i teremtéstörténetben is szerepelnek az óriások.  
 John G. Jackson Christianity before Christ című könyvének 21. oldalától sorolja vázlatosan a különböző népek teremtéstörténeteinek főbb mozzanatait; például egyiptomi, babiloni, kínai, japán, kelta, stb. (A kínai és kelta kapcsán [[M/Magyar ősvallás\|magyar ősvallás]] címnél lábjegyzetes adatként tettem be infóit.)  
 Amit a skandinávok felfogásáról ír:  
-> a) In the beginning was a yawning abyss \[[[Ginunga Gap\|[Ginunga Gap]]\], bordered on one side by mist and cold and on the other side by fire.  
+> a) In the beginning was a yawning abyss, bordered on one side by mist and cold and on the other side by fire.  
 > b) A spark from the fire melted some cold vapor, producing a giant.  
 > c) This giant then gave birth to a race of giants.  
 > d) The original giant had a cow which by licking a brine-covered rock produced the father of the gods.  
 > e) Other gods were engendered, and they in turn slew the giant and created the world from his body.  
 > f) The earth, covered with water, was lifted out of it by the gods.  
 > g) Finally, two figures were formed from trees, and were given life and understanding by the gods.  
+> —  
+> a) Kezdetben volt egy tátongó mélység \[ld. [[G/Ginunga Gap\|Ginunga Gap]]\], melyet az egyik oldalán köd és hideg, a másikon pedig tűz határolt.
+> b) A tűzből kipattant egy szikra, ami megolvasztott némi hideg gőzt, és így egy óriás jött létre.
+> c) Ez az óriás ezután életet adott egy óriásfajnak.
+> d) Az eredeti óriásnak volt egy tehene, amely egy sós vízzel borított sziklát nyalogatva létrehozta az istenek atyját.
+> e) Más istenek is születtek, akik aztán megölték az óriást, és a testéből megteremtették a világot.
+> f) Az istenek kiemelték a vízzel borított földet.
+> g) Végül két alakot formáltak fákból, akiknek az istenek életet és értelmet adtak.
 
 #### Péterfai János írja:
 
