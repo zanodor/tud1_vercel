@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Germán/","title":"Germán","tags":["Englishtexttranslated"],"created":"2024-10-31T22:47","updated":"2025-08-19T00:54"}
+{"dg-publish":true,"permalink":"/G/Germán/","title":"Germán","tags":["Englishtexttranslated"],"created":"2024-10-31T22:47","updated":"2025-09-28T21:22"}
 ---
 
 
@@ -47,7 +47,7 @@ Az [alábbi](https://youtu.be/ILKAy450uf8) A mindenséggel mérd magad 16/3. cí
 
 Érdekes a Jankovics Marcell Mély a múltnak kútja című könyvének azon adata, mely szerint a [[S/Szláv mitológia\|szláv mitológiá]]ban German (Dzserman) esőszellem. Nyilván itt is az [[O/Orion\|Orion]] címnél is taglalt vízfakasztás (víz = ondó) ideáját kell látni.  
 
-A régi angol nyelvben `german` = testvér \[[[Gyermek\|gyermek]] szavunk majdnem stimmel\] jelentésű volt, mint a [[S/Sibling\|sibling]] szó is. Ennek megfelelően a spanyol `hermano` = fiútestvér; a latin `germānus` 'of (one's own) kin, real, full' nyomán, a nyelvészet szerint.  
+A régi angol nyelvben `german` = testvér ([[G/Gyermek\|gyermek]] szavunk majdnem stimmel) jelentésű volt, mint a [[S/Sibling\|sibling]] szó is. Ennek megfelelően a spanyol `hermano` = fiútestvér; a latin `germānus` 'of (one's own) kin, real, full' nyomán, a nyelvészet szerint.  
 [Ezen](https://qr.ae/pN3eRS) Quora válasz alapján is tudható, hogy a portugál `irmão` and `irmã` = fiú- és lánytestvér szavak innen jönnek, a latin nyomán.  
 Viszont ez meg – mily érdekes – éppen [[I/Irmag\|irmag]] szóval azonos.  
 
