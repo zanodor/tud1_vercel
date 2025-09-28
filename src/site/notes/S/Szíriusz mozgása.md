@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2025-09-23T23:44"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2025-09-28T21:19"}
 ---
 
 
@@ -10,8 +10,8 @@ Kezdjük Szíriusz helyzetével, mely azért fontos számunkra, hogy a Tejútren
 > —  
 > A Nap és a Szíriusz a Tejútrendszer galaxisának ugyanabban a "karközi" régiójában található. A Nap és közvetlen szomszédsága, beleértve a Szíriuszt is, a Helyi Kar (Orion-Cygnus) belső széle közelében található.  
 
-![assets/Sziriuszmozgasa_image1.jpeg|fix_light](/img/user/S/assets/Sziriuszmozgasa_image1.jpeg)  
-![assets/Sziriuszmozgasa_image2.png|fix_light](/img/user/S/assets/Sziriuszmozgasa_image2.png)  
+![assets/Sziriuszmozgasa_image1.jpeg|invert_light](/img/user/S/assets/Sziriuszmozgasa_image1.jpeg)  
+![assets/Sziriuszmozgasa_image2.png|invert_light](/img/user/S/assets/Sziriuszmozgasa_image2.png)  
 
 Lásd a másik ábrát is, mely a Galaxis Tejútközponttal szemközti oldalát mutatja (persze hivatalosan az Aurigában van az anti-központ: lásd [[G/Galactic anticentre\|Galactic anticentre]]). Az ábra alapján Szíriusz Napunk és az Orion között helyezkedik el.  
 John Major Jenkins még azt is írja, hogy Szíriusz ugyanazon a meridiánon van, mint a Galaktikus Antiközpont:  
@@ -110,7 +110,7 @@ Ez az érdekesebbik része, annak megértésében, hogy a Nagy Év hanyatló és
 [[M/Missera\|Missera]] címnél arról volt szó, hogy a teljes precessziós időkör kódneve a [[K/Kilences számrendszer\|kilences számrendszer]]ű 108, egyszerűsítve ("műveleti okokból") 100, melynek etimonja [[S/SZAT\|SZAT]], mely (tér)idő jelentésű.  
 A száznak értelmezett egész két félre osztható, ikresített [[O/Ötven\|ötven]] tagokra, mely ötven egyrészt a 13000 év kódszáma, másrészt a felező tengely, a Tejút [[O/Ötevény\|Ötevény]][^4] nevével is egyező. (Ha nagyon bele akarunk menni, ezek szerint az ötven lehetett az első szám, mely ezt a V-N vázú végződést kapta, és ennek mintájára mondjuk, hogy negyven, hatvan, stb.)  
 A SZAT-tal kapcsolatba hozott [[C/Csata\|csata]] címnél pedig [[H/HAT\|HAT]] számunkról is volt szó: ott arra a következetésre jutottunk, hogy a hat azon állapot, amikor Nagy Év Nyilas-Ikrek tengelye alsópontjáról megindulunk a hét, a felső pont felé. Mondhatni 6 és 7 Nagy Év időkörére vonatkozó számok-stációk között annyi idő telik el, mint a 100 fele, 50 alatt, azaz 13000 év.  
-John M. Jenkins adatai alapján is tudjuk, hogy a Nagy Évben a Nap 13000 évente halad át a Tejúton, annak is egy fontos pontján, a Tejútközponton (minden John M. Jenkins-től származó infót lásd [[G/Galactic centre\|Galactic centre]]). Ez is igazolja az 50 és a 13000 "azonosságát."  
+John M. Jenkins adatai alapján is tudjuk, hogy a Nagy Évben a Nap 13000 évente halad át a Tejúton, annak is egy fontos pontján, a Tejútközponton (minden John M. Jenkins-től származó infót lásd [[G/Galactic centre\|Tejútközpont]]). Ez is igazolja az 50 és a 13000 "azonosságát."  
 Ez a 13000 évenkénti egyszer a Tejút egyik, egyszer másik oldalán létünk lehet magyarázat arra is, hogy miért van a [[P/Procyon\|Procyon]] és a Szíriusz egyszer az egyik, mássszor a másik "Tejútparton."  
 De az sem mellékes, hogy 13000/50 = 260, és ez a [[M/Maja naptár\|maja naptár]] napokban mért hossza, illetve megközelítőleg az ember-embrió méhen belüli fejlődési ideje is.  
 Talán éppen ez a számítás az, ami elvetni látszik a Joscelyn Godwin Arktos The Polar Myth című könyvében taglalt Drayson 32000 éves és Milankovitch 41000 éves ciklusait. Persze korántsem tudjuk, hogy például 6-8 ezer évvel ezelőtt, vagy éppen 32-34 ezer évvel ezelőtt milyen szög alatt állt a Föld tengelye az ekliptikához képest, és hogy éppen a Szíriusszal való tánc pontosan hogyan befolyásolja a Naprendszerünk mozgását és a Föld tengelyének ferdeségét, melyről azt állítják, hogy változik.  
@@ -217,7 +217,7 @@ Leenőriztem John M. Jenkins adatát az előbbi képen csatolt infora nézve. Sz
 
 [[K/Kovács és a kutya\|Kovács és a kutya]] címnél tettük fel legutóbb a kérdést, hogy jó lenne tudni, Szíriusz miképpen lép ki az [[O/Orion övcsillagai\|Orion övcsillagai]] által összekötött és abból tovább húzott egyeneshez mérten (ha egyáltalán, hiszen úgy mondják, a [[P/Precesszió\|precesszió]] nem hat a Szíriuszra). Mert hát a mítosz csillagászati, csak érteni kell. A [[D/Dzsed\|dzsed]] címnél is említett, [alábbi](https://youtu.be/6FUOz2WibiM) Szent Koronáról szóló, Németh Gergely féle ÁKA előadásban 18:27-nél esik szó arról, hogy a Szíriusz a [[P/Precesszió\|precesszió]] függvényében (ezek szerint nem oldalirányú, hanem) oszcillálló, "ketyegő" mozgást végez (már ha ez az igazságot takarja); másutt pedig arról, hogy a precesszió mellett a Föld folyamatos tengelyferdülését is számításba kell venni.  
 [[T/Tengely\|Tengely]] címnél tettem arról említést, hogy ez a jelenség kifejeződhet a magyar és magyar-utód nyelvekben.  
-![assets/Sziriuszmozgasa_image14.jpeg|fix_light](/img/user/S/assets/Sziriuszmozgasa_image14.jpeg)  
+![assets/Sziriuszmozgasa_image14.jpeg|invert_light](/img/user/S/assets/Sziriuszmozgasa_image14.jpeg)  
 ![assets/Sziriuszmozgasa_image15.png|fix_light](/img/user/S/assets/Sziriuszmozgasa_image15.png)  
 Az eredeti [alábbi](https://www.youtube.com/watch?v=V67qv9QbkPg) Jézuspasszport – Az Időkód II. című videóban 4:00-tól van szó a témáról. A képen a Kheopsz (Kufu) piramis és a Szíriusz.  
 A másik csillag baloldalt nyilván a [[S/Sarkcsillag\|Sarkcsillag]], míg maga a piramis felfogható a [[V/Világhegy\|Világhegy]]en kívül a világtengelynek, illetve a libikóka központi felfüggesztési pontjának. [[K/Kantár\|Kantár]] címnél is írtuk:  
