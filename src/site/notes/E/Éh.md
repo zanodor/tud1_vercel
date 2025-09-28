@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Éh/","title":"Éh","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-11-06T16:20","updated":"2025-08-19T00:53"}
+{"dg-publish":true,"permalink":"/E/Éh/","title":"Éh","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-11-06T16:20","updated":"2025-09-28T21:30"}
 ---
 
 
@@ -51,7 +51,7 @@ De ami még ennél is fontosabb, [[C/Cuchulainn\|Cúchulainn]] is így születet
 Az éhséget kielégítő evés tehát a sötét fénnyel való táplálkozására és szexuális értelemben az az által való megtermékenyülésre vonatkozik.  
 Egyébiránt a [[V/Vízi Péter és Vízi Pál mese\|Vízi Péter és Vízi Pál mese]] is teljesen hasonló képpel nyit.  
 [[S/Száj\|Száj]] címnél írottakat kihagytam. Szájon át nemzés = evés.  
-Megfelel neki eszik [[E/ESZ\|esz]]- eleme is. Ez körülbelül olyan, mint amiről [[P/Pina\|pina]] (és [[S/Száj\|száj]]) címnél is volt szó (de a [[G/Göd\|Göd]] név kapcsán taglalt Ku-T(a) = tűz és és [[K/Kut\|kut]] \[[[Coot\|coot]]\] = pina is nevek azonossága is ilyen; [[T/Tűz\|tűz]] címnél pedig a pina tüzéről volt szó, talán hibás elméletet gondolva ott?). Nevezetesen, hogy a tűz a lyukon bemegy és ki is jön (nemzés és szülés; [[S/Száj\|száj]] címnél pedig beszéd kapcsán volt még erről szó, de a szájba való bevitel is tűz vagy víz: [[E/ESZ\|ESZ]] és [[I/ISZ\|ISZ]], melyek egylényegűek, ahogy [[V/Víz\|víz]] is lehet [[V/VID\|VID]]).  
+Megfelel neki eszik [[E/ESZ\|esz]]- eleme is. Ez körülbelül olyan, mint amiről [[P/Pina\|pina]] (és [[S/Száj\|száj]]) címnél is volt szó (de a [[G/Göd\|Göd]] név kapcsán taglalt Ku-T(a) = tűz és és [[K/Kut\|kut]] ([[C/Coot\|coot]]) = pina is nevek azonossága is ilyen; [[T/Tűz\|tűz]] címnél pedig a pina tüzéről volt szó, talán hibás elméletet gondolva ott?). Nevezetesen, hogy a tűz a lyukon bemegy és ki is jön (nemzés és szülés; [[S/Száj\|száj]] címnél pedig beszéd kapcsán volt még erről szó, de a szájba való bevitel is tűz vagy víz: [[E/ESZ\|ESZ]] és [[I/ISZ\|ISZ]], melyek egylényegűek, ahogy [[V/Víz\|víz]] is lehet [[V/VID\|VID]]).  
 
 Lásd még [[H/Hunor és Magor#Evés és éhség Magor és Khamor/Hunger alakú nevei és lehetséges évköri értelmezésük\|evés és éhség Magor és Khamor/Hunger alakú nevei és lehetséges évköri értelmezésük]] cím/alcímet.  
 
