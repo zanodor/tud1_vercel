@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejútanya állatalakjai/","title":"Tejútanya állatalakjai","tags":["Englishtexttranslated"],"created":"2023-11-13T02:19","updated":"2025-08-19T01:07"}
+{"dg-publish":true,"permalink":"/T/Tejútanya állatalakjai/","title":"Tejútanya állatalakjai","tags":["Englishtexttranslated"],"created":"2023-11-13T02:19","updated":"2025-09-28T21:23"}
 ---
 
 
@@ -36,9 +36,9 @@ Az tény, ahogy [[F/Féreg\|féreg]] és más címnél is szerepelt, hogy a [[L/
 A rovar-alaknál maradva, több szempontból a legmegfelelőbb rovar az epheszoszi [[A/Artemisz\|Artemisz]]t is jelképző [[M/Méh\|méh]] a Tejútanya ábrázolására:  
 Egyrészt a méh a [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] jelképe[^9], így alkalmas a Tejútanya állatalakjaként, másrészt a méh kettős jelentésű: a Tejútanya méhében hordozza a Napgyermeket is. A [[S/Skorpió csillagkép\|Skorpió csillagkép]]nél (ma így hívjuk) van tehát a Tejút-Szarvasünő/tehén méhe/méhszája/[[V/Vulva\|vulvá]]ja.  
 Mivel a méh nemcsak az Artemisz-szobron szerepel, hanem külön érméken is (más érmék szarvas-állatalakját mutatják), ez is bizonyítéka lehet annak, hogy i.e. 300-ban és korábban még magyarul beszélő illetve értő emberek alkották meg a kultuszt és verték az érméket. Ugyanis csak magyar nyelven hordozza méh ezen kettős jelentést. Ha az itt szereplő két érme ugyanazon érme két oldala lenne, az lenne igazán csak az igazi, mert rámutatna, hogy a Szarvas méhéről van szó ([[S/Szarv\|szarv]] címnél a szaporító szervrendszerről volt szó).  
-Tulajdonképpen arra is rámutatna, hogy az akkori emberiség már előre tudta/várta a mayák által is kiszámolt születésnapot (lásd [[G/Galactic centre\|Galactic centre]]).  
+Tulajdonképpen arra is rámutatna, hogy az akkori emberiség már előre tudta/várta a mayák által is kiszámolt születésnapot (lásd [[G/Galactic centre\|Tejútközpont]]).  
 
-Megkülönböztetendő azonban a Tejútanya anya (delnő) és tündér alakja \[[[Tündér\|tündér]] és [[S/Szűz\|szűz]] címnél körül is járjuk a különbségeket\]. Kimondottan tündéri rovar-állatalak a [[K/Kérész\|kérész]] ([[T/Tiszavirág\|tiszavirág]]) és a [[S/Szitakötő\|szitakötő]], melynek magyar és idegen névváltozatai alapján viszont merészeltük azt mondani, hogy a méh-hez hasonlóan Tejútanya állatalak, sőt, a [[S/Szita\|szita]] névben a [[S/Szűz\|szűz]] nevét láttuk.  
+Megkülönböztetendő azonban a Tejútanya anya (delnő) és tündér alakja ([[T/Tündér\|tündér]] és [[S/Szűz\|szűz]] címnél körül is járjuk a különbségeket). Kimondottan tündéri rovar-állatalak a [[K/Kérész\|kérész]] ([[T/Tiszavirág\|tiszavirág]]) és a [[S/Szitakötő\|szitakötő]], melynek magyar és idegen névváltozatai alapján viszont merészeltük azt mondani, hogy a méh-hez hasonlóan Tejútanya állatalak, sőt, a [[S/Szita\|szita]] névben a [[S/Szűz\|szűz]] nevét láttuk.  
 Aztán a rovarok között ott van a [[P/Pillangó\|pillangó]], mely nemcsak szárnyas alakjával, hanem az átváltozásával is felhívta őseink figyelmét.  
 
 Általán a magyar/hun nyelvben a K-T vázú állatnevek (igaz, nem sok van belőlük) alvilági állatokra utalnak. Mivel – nevükben – a hunok képviselik a lebontó erőket, az ő szócsoportjukhoz tartoznak. Így kell tekinteni összességében a [[K/Kutya\|kutya]], cet és [[C/Cod\|cod]] névre, de ennél persze bonyolultabb a helyzet.  
