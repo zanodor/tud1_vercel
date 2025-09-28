@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2025-09-24T13:47"}
+{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2025-09-28T21:24"}
 ---
 
 
@@ -58,7 +58,7 @@ John M. Jenkins alábbi passzusa (teljesebben) [[T/Tánc\|tánc]] és [[S/Szíri
 ![assets/Galacticanticentre_image4.png|fix_light|840](/img/user/G/assets/Galacticanticentre_image4.png)![assets/Galacticanticentre_image3.png|840](/img/user/G/assets/Galacticanticentre_image3.png)  
 
 Egyébként ha nem lett volna elég egyértelmű, hogy miről van szó, Jankovics Marcell elmondja:  
-> Abban a gondolatrendszerben, mely a Tejutat a nagy istennővel azonosítja, a téli [[K/Kapu\|kapu]], a tejúthasadék az istennő ölének, szeméremnyílásának \[[[Vulva\|vulva]], [[P/Pina\|pina]], stb.\] felel meg, ahol a napisten és többi gyermeke a világra jön, \[az éggömb ennek ellentétes oldalán lévő\] **szájának pedig a nyári kapu**, ahol \[például [[N/Nut\|Nut]] a mítosz szerint\] gyermekeit elnyeli és újra foganja.  
+> Abban a gondolatrendszerben, mely a Tejutat a nagy istennővel azonosítja, a téli [[K/Kapu\|kapu]], a tejúthasadék az istennő ölének, szeméremnyílásának felel meg, ahol a napisten és többi gyermeke a világra jön, \[az éggömb ennek ellentétes oldalán lévő\] **szájának pedig a nyári kapu**, ahol \[például [[N/Nut\|Nut]] a mítosz szerint\] gyermekeit elnyeli és újra foganja.  
 
 Más forrás(ok)ból:  
 > The rotational Galactic Center of the Milky Way lies in the direction of Sagittarius, with the glowing band of hazy light then stretching all the way across to its anticenter in Auriga, before returning back to Sagittarius.  
@@ -76,7 +76,7 @@ Más forrás(ok)ból:
 > A Föld és a Nap nagyjából kétharmadnyi távolságra van a galaxisunk középpontjától egy homályosan meghatározott peremig. A Tejútközpont felé a Nyilasban a Tejút tehát széles és sűrű, míg a másik irányban, 180 fokkal távolabb, az Anticentrum felé a Bika és az Auriga határán (lásd a mellékelt képet) a csillagok sokkal vékonyabb takaróján keresztül nézünk, ami a Tejutat halványabbá és nehezebben kivehetővé teszi.  
 > A Tejút anticentruma a Béta (β) Tauri (Elnath) csillag közelében van, amely a Bika és az Auriga közös csillaga. Amikor az anticentrum felé nézünk, tekintetünk először az Orion-sarknak nevezett keskeny spirálkaron hatol át, ahol Naprendszerünk és sok éjszakai csillag otthonra lel. Körülbelül 6000 fényévnyire innen a Tejútrendszer Perseus-karjával találkozunk, amely a következő spirálkar a galaktikus középponttól kifelé, és amely a híres Perseus kettős csillaghalmaznak ad otthont.  
 > Ez egy művészi ábrázolása annak, hogy hogyan nézne ki a galaxisunk, ha kívülről láthatnánk.  
-> ![assets/Galacticanticentre_image6.png|840](/img/user/G/assets/Galacticanticentre_image6.png)  
+> ![assets/Galacticanticentre_image6.png|invert_light|840](/img/user/G/assets/Galacticanticentre_image6.png)  
 > A Nap a lapos korongban van, körülbelül a középponttól a széléig félúton. A spirálkarok mindegyikének megvan a saját neve, és hozzáadtam a középpont és az anticentrum helyét.  
 > A Simeis 147, más néven a Spagettiköd egy nagy, halvány szupernóva-maradvány a galaktikus anticentrum irányában.  
 > A Simeis 147 szupernóva-maradványt Sharpless 2-240 vagy Spagettiköd néven is ismerik. Ez a hidrogéngázból álló, izzó szirmokkal rendelkező nagy vörös rózsa nagyon közel, 3000 fényévnyire található a galaxis anticentrum irányához. Valódi átmérője 150 fényév, és a Földről nézve mintegy 3°-ot tesz ki.  
@@ -112,7 +112,7 @@ John M. Jenkins Galactic Alignment című könyvében írja a Tejút-jelkép [[K
 
 
 A mellékelt diagram [[D/Dzsed\|dzsed]] és más címnél is szerepelt, és egyesíti a John M. Jenkins által fejtegetett központokat egy ábrán. A függőleges tengely elfektetve É-D orientációjú Tejút-világoszlopként is értelmezhető, ahogy erre Jankovics Marcell könyveiben ki is tér; lásd [[T/Tejút\|Tejút]].  
-Ennél is fontosabb annak felismerése, hogy **Széth azért hozható kapcsolatba Szíriusszal és a Sarkcsillaggal is, mert ezen aspektusai a galaktikus mozgások más és más térbeli síkra való kivetülései**. (Vagy ha úgy tetszik, az idő fogaskerekeinek vízszintesen forgó eleméhez egy függőleges (erőátviteli elem) is kapcsolható, mely ismét kapcsolódik egy kisebb fogaskerékhez, mely a cirkumpoláris csillagképek forgatásáért felelős. Az egész egy rendszer.)  
+Ennél is fontosabb annak felismerése, hogy **Széth azért hozható kapcsolatba Szíriusszal és a Sarkcsillaggal is, mert ezen aspektusai a galaktikus mozgások más és más térbeli síkra való kivetülései**. (Vagy ha úgy tetszik, az idő fogaskerekeinek vízszintesen forgó eleméhez egy függőleges (erőátviteli elem) is kapcsolható, mely ismét kapcsolódik egy kisebb fogaskerékhez, mely a cirkumpoláris csillagképek forgatásáért felelős. Az egész *egy* rendszer.)  
 John M. Jenkins ugyan Széthet nem említi, de a galaktikus központ, azaz [[G/Galactic centre\|Tejútközpont]] (és így a Szíriusszal való együttállás, melyet szintén nem említ), és a [[S/Sarkcsillag\|Sarkcsillag]] kapcsolata John M. Jenkins könyvének első felében minduntalan előjön. Ennek eredménye a [[D/Dzsed\|dzsed]], [[K/Kezdet és vég\|kezdet és vég]], valamint a [[P/Poláris-szoláris átállás\|poláris-szoláris átállás]] címnél megjelent anyag, mely utóbbinál azt tárgyaltuk, hogy a poláris kozmikus felfogás és a szoláris egymástól elkülöníthető-e, azaz egyikből jött a másik vagy sem.  
 
 ## Lábjegyzetek
