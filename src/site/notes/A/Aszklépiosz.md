@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aszklépiosz/","title":"Aszklépiosz","tags":["Englishtexttranslated"],"created":"2024-05-15T17:34","updated":"2025-09-24T13:48"}
+{"dg-publish":true,"permalink":"/A/Aszklépiosz/","title":"Aszklépiosz","tags":["Englishtexttranslated"],"created":"2024-05-15T17:34","updated":"2025-09-28T21:25"}
 ---
 
 
@@ -30,12 +30,12 @@ Másutt, szebben:
 
 Robert Graves szerint Aszklépiosz lelke, mint általában a jósdai héroszoké és a meghaló isteneké, halála után kígyóba költözött. E képzet – a meghaló és föltámadó istenekre vonatkoztatva – abban a hiedelemben gyökeredzik, amely a kígyók sűrű vedléséből az állat halhatatlanságára következtetett. A kígyó égi képmása a téli napfordulat helye előtt az évente meghaló napistent jelképezte, föltámadását pedig a téli napfordulat helye után felröppenő Sas csillagkép. Ez a képzet még ma sem vesztette el teljesen csillagászati érvényét. Késői szép példái a Kígyóvőlegény mesék. \[Jankovics Marcell Jelkép-kalendárium\]  
 
-## Aszklépiosz Kutyás vagy északi csillagképpel való kapcsolatbahozatala
+## Aszklépiosz Kutyás vagy északi csillagképpel való kapcsolatba hozatala
 
 Kutyákkal, kutyával való gyógyítással (melyről lásd még [[T/Therapy\|therapy]]) is kapcsolatba hozatott:  
-> Just like both its beloved goddesses \[[[Hekate\|[Hekate]] és [[A/Artemisz\|Artemis]]-[[D/Diana\|Diana]]\], the dog was closely related to magical medicine and its great healer Asclepius (Toynbee 1973: 123), with whom it was depicted in many works of art[^1].  
+> Just like both its beloved goddesses, the dog was closely related to magical medicine and its great healer Asclepius (Toynbee 1973: 123), with whom it was depicted in many works of art[^1].  
 > —  
-> Kedvenc istennőihez \[[[Hekate\|Hekaté]] és [[A/Artemisz\|Artemisz]]-[[D/Diana\|Diana]]\] hasonlóan a kutya szorosan kapcsolódott a mágikus orvosláshoz és annak nagy gyógyítójához, Aszklépioszhoz (Toynbee 1973: 123), akivel számos műalkotáson ábrázolták[^1].
+> Kedvenc istennőihez ([[H/Hekate\|Hekaté]] és [[A/Artemisz\|Artemisz]]-[[D/Diana\|Diana]]) hasonlóan a kutya szorosan kapcsolódott a mágikus orvosláshoz és annak nagy gyógyítójához, Aszklépioszhoz (Toynbee 1973: 123), akivel számos műalkotáson ábrázolták[^1].
 
 A sumér gyógyítás istennő [[G/Gula\|Gula]] éppúgy kötődik a kutyához, mint Aszklépiosz, a kelta istennő [[S/Sirona\|Sirona]], vagy a kelta-gall (Szajna-parti) istennő [[S/Sequana\|Sequana]]. [[T/Therapy\|Therapy]] és [[P/Psychopomp\|psychopomp]] címnél szerepelt, hogy a kutyákat magukhoz dörzsölve gyógyították magukat.  
 Továbbá:  
