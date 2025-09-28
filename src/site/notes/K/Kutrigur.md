@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutrigur/","title":"Kutrigur","created":"2024-05-08T15:26","updated":"2024-10-25T22:29"}
+{"dg-publish":true,"permalink":"/K/Kutrigur/","title":"Kutrigur","created":"2024-05-08T15:26","updated":"2025-09-28T21:32"}
 ---
 
 
