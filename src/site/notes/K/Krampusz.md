@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Krampusz/","title":"Krampusz","created":"2024-03-21T19:08","updated":"2025-05-03T11:45"}
+{"dg-publish":true,"permalink":"/K/Krampusz/","title":"Krampusz","created":"2024-03-21T19:08","updated":"2025-09-28T21:32"}
 ---
 
 
@@ -10,7 +10,7 @@ Toldy Géza Varázsrontójának 497. oldalán próbálja eredetét megfejteni. A
 #### Jankovics Marcell Jelkép-kalendárium...
 
 ...című könyvének Szent Eligiusról szóló fejezetében ("Kilóg a lóláb") is előveszi a szó eredetét:  
-> Az ausztriai német eredetű `krampusz` elnevezés (ismert egyébként a szlovákok, szlovének és horvátok körében is) mintha krotoszi[^1] mintára keletkezett volna. Feltevésem szerint jelentése illik a füstös-kormos képű ördöginasra: lásd német `Krampe` = "csákány", "csípőfogó", "szorítóvas", "krampácsoló szerszám"; `krampfen` = "görcsöl", "szorul", "tömörödik", "összehúzódik"; angol `clamp` = összekapcsol, összeszorít"; [[C/Club\|club]] = "bunkó"; `club-footed` = "tuskólábú"; szláv eredetű\[?\] magyar [[K/Kalapács\|kalapács]]. A felsoroltak arról árulkodnak, hogy a téli időszak ördögszelleme nem esetlegesen kísértett [[K/Kovács\|kovács]]műhelyekben. Talán épp a kovácsszerszámok megszemélyesítője volt. (Tudjuk, hogy a kovácsmestérséget régente "ördögi praktikának", varázslatnak tartották, s hogy [[V/Vulcanus\|Vulcanus]] kovácsisten, ha nem is lópatájú, mindenesetre bicebóca \[[[Sánta\|sánta]]\] volt, akit rendes lábak helyett görcsbe rándult satnya végtagokkal vert meg isteni anyja.)  
+> Az ausztriai német eredetű `krampusz` elnevezés (ismert egyébként a szlovákok, szlovének és horvátok körében is) mintha krotoszi[^1] mintára keletkezett volna. Feltevésem szerint jelentése illik a füstös-kormos képű ördöginasra: lásd német `Krampe` = "csákány", "csípőfogó", "szorítóvas", "krampácsoló szerszám"; `krampfen` = "görcsöl", "szorul", "tömörödik", "összehúzódik"; angol `clamp` = összekapcsol, összeszorít"; [[C/Club\|club]] = "bunkó"; `club-footed` = "tuskólábú"; szláv eredetű\[?\] magyar [[K/Kalapács\|kalapács]]. A felsoroltak arról árulkodnak, hogy a téli időszak ördögszelleme nem esetlegesen kísértett [[K/Kovács\|kovács]]műhelyekben. Talán épp a kovácsszerszámok megszemélyesítője volt. (Tudjuk, hogy a kovácsmestérséget régente "ördögi praktikának", varázslatnak tartották, s hogy [[V/Vulcanus\|Vulcanus]] kovácsisten, ha nem is lópatájú, mindenesetre bicebóca \[ld. [[S/Sánta\|sánta]]\] volt, akit rendes lábak helyett görcsbe rándult satnya végtagokkal vert meg isteni anyja.)  
 
 #### Supka Géza Kalandozás a kalendáriumban...
 
