@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kalács/","title":"Kalács","tags":["Englishtexttranslated"],"created":"2024-12-18T07:36","updated":"2025-09-24T13:46"}
+{"dg-publish":true,"permalink":"/K/Kalács/","title":"Kalács","tags":["Englishtexttranslated"],"created":"2024-12-18T07:36","updated":"2025-09-28T21:23"}
 ---
 
 
@@ -64,7 +64,7 @@ A végtelen jele Gyárfás Ágnes az Ősi Gyökér 2012/1. sz. megjelent Szíriu
 ![assets/Kalács_image1.png|fix_dark fix_light|840](/img/user/K/assets/Kal%C3%A1cs_image1.png)  
 December 21. Téli napforduló. Szülés, istenszületés.  
 Július 1. A Szíriusz alászáll. Sarlós Boldogasszony ünnepe. Az év közepe.  
-Január 1. Szíriusz delelése, **boldog** állapota[^1]. Az év eleje. \[[[Janus\|[Janus]] címnél más, ide be nem férő Gyárfás Ágnes adatokat is lásd.\]  
+Január 1. Szíriusz delelése, **boldog** állapota[^1]. Az év eleje. ([[J/Janus\|Janus]] címnél más, ide be nem férő Gyárfás Ágnes adatokat is lásd.)  
 Március 21. Tavaszi napéjegyenlőség.  
 Szeptember 23. Őszi napéjegyenlőség.  
 
