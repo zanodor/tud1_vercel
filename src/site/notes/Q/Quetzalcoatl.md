@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Q/Quetzalcoatl/","title":"Quetzalcoatl","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-12-18T11:34","updated":"2025-09-24T13:48"}
+{"dg-publish":true,"permalink":"/Q/Quetzalcoatl/","title":"Quetzalcoatl","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2024-12-18T11:34","updated":"2025-09-28T21:25"}
 ---
 
 
