@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Negyven/","title":"Negyven","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T23:20","updated":"2025-09-24T13:44"}
+{"dg-publish":true,"permalink":"/N/Negyven/","title":"Negyven","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T23:20","updated":"2025-09-28T21:21"}
 ---
 
 
@@ -111,7 +111,7 @@ A negyven napot a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelése]] e
 
 #### Jankovics Marcell Ahol a madár se jár...
 
-...című könyvének alábbi passzusa is ide illhet ([[S/SZÁM#Numerológia\|numerológia]] címnél is szerepelt):  
+...című könyvének alábbi passzusa is ide illhet:  
 > A bibliai mintájú "negyvenes napok" időjárásjelző napok voltak elsősorban. A várva várt csapadékra nézve jósoltak ezeken a napokon, lásd ama közismert meteorológiai babonát: "Ha Medárdkor esik, számíthatsz még 40 esős napra." Már a Biblia is esőre vonatkozóan említi először a 40 napot: "És esék eső a földre negyven nap és negyven éjjel..." (Ter 7, 12).  
 > Ennek a számítási gyakorlatnak többféle csillagászati oka lehet. Parasztőseink fölismerték például, hogy **az ekliptika mentén lévő csillagok mintegy 40 napra tűnnek el az arra járó Nap fényében. Ez a jelenség csillagóraként működik**; a parasztok munkájukat az eltűnt csillagok újbóli megjelenéséhez (heliakus fölkeléséhez) igazították (lásd még erről alant). Két mesei példa:  
 > A Mirkó királyfi című mesében Kutyafejű 40 mázsás buzogányát 40 mérföldről dobja haza. Ahová esik, ott a földből forrás fakad. A Donát című mesében a hős gonosz anyját egy 40 akós kád elé térdepelteti, bűnhődésül tele kell sírnia.  
@@ -142,19 +142,19 @@ Még mindig a kutyás csillagoknál maradva, [[P/Procyon\|Procyon]] címnél sze
 >
 > Másfél sziderikus holdhónap kereken negyven napot tesz ki (sziderikus holdhónap 27.3 nap, a szinodikus 29.5 nap).  
 > Figyelembe kell vennünk bizonyos számítástechnikai szempontokat is. Az egyiptomiak például tiszta szoláris naptárral rendelkeztek. Kerek 360 napos napévvel számoltak, amit évente 5 szökőnappal egészítettek ki (s minden negyedik évben még egy hatodikkal). A szép kerek 360-as szám jól osztható, kínálja magát a szakaszolásra: 12x30, 9x40, 8x45, 4x(40+50) egyaránt 360-at tesz ki. A tények azonban arra figyelmeztetnek, hogy eredetét tekintve nem elvont matematikai szempont, hanem egy csillagászati megfigyelés eredménye a 40 napos időegység. A Nap évi járását megfigyelve az ember ugyanis rájött arra, hogy a nappálya mentén lévő csillagok fényét az arra járó Nap mintegy 40 napra homályosítja el saját fényével. Más szóval, az ekliptika környékének csillagai az év 40 napján nem látszanak. Hésziodosz (i.e. 700 körül) már megénekelte ezt:  
-> *"Pléjaszok, Atlasz lányai, hogy  
-> feltűnnek az égen,  
-> kezdj el aratni, s amint eltűnnek,  
-> kezd el a szántást.  
-> Negyvenszer kél s nyugszik a nap,  
-> míg rejtve maradnak,  
-> közben az esztendő lassan  
-> tovagördül az útján..."  
+> *"Pléjaszok, Atlasz lányai, hogy*  
+> *feltűnnek az égen,*  
+> *kezdj el aratni, s amint eltűnnek,*  
+> *kezd el a szántást.*  
+> *Negyvenszer kél s nyugszik a nap,*  
+> *míg rejtve maradnak,*  
+> *közben az esztendő lassan*  
+> *tovagördül az útján..."*
 
 Jankovics Marcell másutt:  
 > A kereszténységgel május 1-je a pünkösdi ünnepkör része lett. A luni-szoláris naptár szerint húsvét után a 40. nap áldozócsütörtök (Krisztus mennybemenetele), az 50. nap [[P/Pünkösd\|Pünkösd]] (a Szentlélek eljövetele). Ha – ideális esetben – a húsvéti feltámadás a tavaszi napéjegyenlőség idejére esik, a rákövetkező 40. nap épp május 1-je vigiliája lesz. A luniszoláris naptár, amilyen a zsidó, római és a kelta kalendárium is volt, teszi érthetővé a régi májusok komor, böjtös jellegét. Már eddig is láttuk, hogy a naptárban az év 40-50 napos egységekre tagolódik[^1], amelyek felváltva örömteliek (dúskálóak) és gyászosak (böjtösök). Karácsonnyal "40 napos" vidámság köszönt be, amit "40 napos" böjt követ, húsvéttal új vidám időszak jő, ennek "húshagyója" áldozócsütörtök, amikor a hús-vér Krisztus elhagyja a földet. Ezzel újabb (istenre) várakozó időszak kezdődik, amely majd a nyárközépi ünnepségekkel ér véget.  
 >
-> A \[[[Szent Kristóf\|[Szent Kristóf]]ról szóló\] legenda azt is elmeséli, hogy hite miatt a megtért óriást börtönbe zárták, és melléje két utcalányt csuktak, hátha csáberejük hatására megtagadja hitét. Fordítva történt, Kristóf térítette meg a kéjhölgyeket, akik vele együtt a vértanúhalált is vállalták. Negyven(!) íjász próbálta halálra nyilazni Kristófot, sikertelenül. A csoda folytán eltérülő nyilak egyike vissza is fordult, és Kristóf pogány bírájának, Lükia királyának a szemébe állt.  
+> \[A [[S/Szent Kristóf\|Szent Kristóf]]ról szóló\] legenda azt is elmeséli, hogy hite miatt a megtért óriást börtönbe zárták, és melléje két utcalányt csuktak, hátha csáberejük hatására megtagadja hitét. Fordítva történt, Kristóf térítette meg a kéjhölgyeket, akik vele együtt a vértanúhalált is vállalták. Negyven(!) íjász próbálta halálra nyilazni Kristófot, sikertelenül. A csoda folytán eltérülő nyilak egyike vissza is fordult, és Kristóf pogány bírájának, Lükia királyának a szemébe állt.  
 
 Jankovics alábbi sorai (sőt, több is) [[S/Szent Márton\|Szent Márton]] címnél is szerepeltek:  
 > [[M/Márton\|Márton]] napja (nov. 11.) nyilvánvalóan határünnepnap volt. Erre utal, hogy mindenszentekkel együtt kezelték, mintha a két ünnep között "megszűnne az idő". Régi göcseji neve Minciénmárton (Mindszentmárton) volt, s a rábaközi "szentmártonrétes" neve másképp mencinrétes (szintén a "mindszent" szóból). Erre utal továbbá, hogy Márton és a [[T/Téli napforduló\|téli napforduló]] között **negyven**, Márton és karácsony között 43 nap telik el. Mindenszentekkor ér véget az előző 40 napos ciklus, mely az őszi napéjegyenlőségkor kezdődik, s hogy a téli napfordulóig, illetve karácsonyig kijöjjön a "negyven lépés", be kell iktatni a 10 napos ünnepközt. A Mártonnal kezdődő karácsony előtti 40 nap a középkorban ugyanolyan böjtös időszaknak számított Európa-szerte, mind a farsang és húsvét közti nagyböjt. Neve: Szent Márton böjtje (angol Saint Martin's Lent, német Martinifasten). Ezzel az év végi böjti ciklussal zárul a naptári év felváltva böjtös, vígságos időinek sora. Ez természetesen a Márton-napi magyar eszmekörben és szokásrendben is tükröződik. Mint Bod Péter írja 1757-ben, a "Martinalia... olyan második [[F/Farsang\|fársáng]] is volt ezen a régieknél. Sült Ludat ettek, s új Bort ittak," Általános szokás volt Európában, hogy Márton napján az idei libapecsenyére újborral teli poharat ürítettek a böjtre való felkészülésként (a lagzikat is farsang mellett főleg Márton napja táján ülték).  
