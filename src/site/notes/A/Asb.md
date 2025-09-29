@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2025-09-24T13:49"}
+{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2025-09-29T02:33"}
 ---
 
 
@@ -103,6 +103,11 @@ Amennyiben közös nevező alá vesszük őket, akkor hasonló esetet látunk, m
 > Az "aspasiak" népnév az Aral-tó környékén Kr. e. 230 körül tűnik fel először. Majd kb. száz évvel később, ugyancsak az Aral-tó vidékéről törnek délre az "asi" és a "pasiani" vagy "pasiak" nevű népek (Strabon), kiknek neveit – az "aspasiak" szót; száz évvel előbb – nyilvánvalóan összevonva adja meg: "as" + "pasian" illetve "as" + "pasiak" = "aspasiak". Feltehetőleg törzsszövetséget alkothattak annak idején.  
 
 Esetleg az asb szó egy újabb magyarázata lehetne?  
+
+## Sabartoi asphaloi elnevezésben való meglétéről
+
+[[M/Magyar népnév és magyarok nevei\|Magyar népnév és magyarok nevei]] címnél Z. Tóth Csaba Ismerjük-e krónikáinkat? című írásában erre tesz utalást:  
+> A magyarok régi neve Sabartoiasphaloi, rendíthetetlen vagy lovas szavárd: De administrando imperio (DAI) 38.
 
 ## Lábjegyzetek
 
