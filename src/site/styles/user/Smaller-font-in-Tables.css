@@ -1,9 +1,0 @@
-/* Live Preview / Editing Mode */
-.markdown-source-view.mod-cm6 .cm-table-widget .table-cell-wrapper {
-    font-size: 18px;
-}
-
-/* Reading Mode */
-.markdown-rendered table {
-    font-size: 18px;
-}

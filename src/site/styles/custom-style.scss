@@ -109,3 +109,39 @@
     padding-right: 40px !important;
   }
 }
+
+/* Table font size override - Mobile */
+.table-view-table {
+    font-size: 15px;
+}
+
+.table-view-table > thead > tr > th,
+.table-view-table > tbody > tr > td {
+    font-size: 15px;
+}
+
+/* Standard markdown tables - Mobile */
+.cm-s-obsidian table,
+.cm-s-obsidian table th,
+.cm-s-obsidian table td {
+    font-size: 15px;
+}
+
+/* Table font size override - Desktop */
+@media (min-width: 1365px) {
+    .table-view-table {
+        font-size: 18px;
+    }
+
+    .table-view-table > thead > tr > th,
+    .table-view-table > tbody > tr > td {
+        font-size: 18px;
+    }
+
+    /* Standard markdown tables - Desktop */
+    .cm-s-obsidian table,
+    .cm-s-obsidian table th,
+    .cm-s-obsidian table td {
+        font-size: 18px;
+    }
+}
