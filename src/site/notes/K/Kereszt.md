@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2025-09-28T21:16"}
+{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2025-09-29T18:44"}
 ---
 
 
@@ -367,7 +367,7 @@ Ahogy [[S/Stand\|stand]] címnél is írtuk, az áll fogalma nem is annyira hely
 A két vonal találkozásában van a Föld és Isten.  
 A mozdulatlan örök/Öreg istent a Sarkcsillagban is elképzelték, hiszen az statikus és így az egyetlen biztos ([[A/Anchor\|anchor]], [[S/Secure\|secure]]) pont, de ez a pont átvitetett a másik északi, a nyári napfordulós téridőbeli pontra is. Ez a két hely az Isten égi helye, androgünként és inkább nőiségként a [[S/Szíriusz és a Sarkcsillag\|Szíriusz és a Sarkcsillag]]ban, és hímségként Nimrud-Orionban.  
 
-A [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]] az, ami John M. Jenkinsnél a [[G/Galactic centre\|galactic Centre]] – [[G/Galactic anticentre\|Galactic Anticentre]] tengelynek felel meg. Mindkét irányban Nyilazó csillagképek állnak. Ezért hívhatjuk a napfordulós tengelyt teremtő tengelynek is. A vele 90⁰-ot bezáró [[S/Szűz-Halak tengely\|Szűz-Halak tengely]] a napéjegyenlőségi tengely, az ún. "Halál-tengely."  
+A [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]] az, ami John M. Jenkinsnél a [[G/Galactic centre\|Galactic Centre]] – [[G/Galactic anticentre\|Galactic Anticentre]] tengelynek felel meg. Mindkét irányban Nyilazó csillagképek állnak. Ezért hívhatjuk a napfordulós tengelyt teremtő tengelynek is. A vele 90⁰-ot bezáró [[S/Szűz-Halak tengely\|Szűz-Halak tengely]] a napéjegyenlőségi tengely, az ún. "Halál-tengely."  
 Ha tehát az élet vonala a függőleges és a halál vonala[^15] a vízszintes (a [[K/Kutya\|kutya]] vízszintes gerincoszlopával is éppen ezért alkalmas [[P/Psychopomp\|psychopomp]]-ként; vesd össze a [[D/Dzsed\|dzsed]] címnél is taglalt, [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]nek megfelelő élőfa/[[E/Életfa\|életfa]] verticumát a kivágott, holt fa helyzetével is), akkor ezek alapján a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]] is az élet tengelye[^16]; [[N/Nap#Csillagképek iránya\|csillagképek iránya]] cím/alcímnél írottak szerint pedig ez az Észak-Dél irányoknak felel meg, de fordítottan: Ikrek észak, Nyilas dél (honnan [[D/Dél\|dél]] = [[T/Tél\|tél]] is).  
 
 #### Borbola János A Nílus-völgyi hitvilág...
