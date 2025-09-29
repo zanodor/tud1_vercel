@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Darab/","title":"Darab","created":"2025-03-30T00:44","updated":"2025-06-07T19:52"}
+{"dg-publish":true,"permalink":"/D/Darab/","title":"Darab","created":"2025-03-30T00:44","updated":"2025-09-29T16:50"}
 ---
 
 
@@ -13,9 +13,9 @@ Vesd össze héber `daraš` = csépel.
 Másutt hozza a sumér ige mellé a görög `tryphos` = darab, orosz `drobi` = törmelék, német `trümmer` = tördelék, `trumm` = rom, asszír `tarâku` = széttör, szétver és héber `ţerep` = törmelék szavakat (utóbbi [[C/Cserép\|cserép]] szavunknak is megfelel).  
 Götz László könyvének 179. oldaláról való táblázatos adata:  
 
-| német                                                                    | latin                        | arab       | asszír                           | szumér                                   | magyar                                  |
-| ------------------------------------------------------------------------ | ---------------------------- | ---------- | -------------------------------- | ---------------------------------------- | --------------------------------------- |
-| DRE-schen (csépel)<br>zers-TÖR-en (elpusztít)<br>zer-TRÜ-mmern (szétzúz) | TER-o (csépel, szétzúr-zsöl) | D-R-b (üt) | TAR-ȃku (széttör, szétver, leüt) | DAR, TAR (széttör, szétver, szétdarabol) | DAR-ab DAR-abol DAR-ál<br>TÖR<br>TAR-ol |
+| német                                                                          | latin                           | arab       | asszír                              | szumér                                      | magyar                                        |
+| ------------------------------------------------------------------------------ | ------------------------------- | ---------- | ----------------------------------- | ------------------------------------------- | --------------------------------------------- |
+| DRE-schen<br>(csépel)<br>zers-TÖR-en<br>(elpusztít)<br>zer-TRÜ-mmern (szétzúz) | TER-o<br>(csépel, szétzúr-zsöl) | D-R-b (üt) | TAR-ȃku<br>(széttör, szétver, leüt) | DAR, TAR<br>(széttör, szétver, szétdarabol) | DAR-ab<br>DAR-abol<br>DAR-ál<br>TÖR<br>TAR-ol |
 
 #### Götz László Keleten kél a Nap...
 
