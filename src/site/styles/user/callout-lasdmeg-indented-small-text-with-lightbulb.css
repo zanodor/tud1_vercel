@@ -1,0 +1,25 @@
+.callout[data-callout*=lasdmeg] {
+    --callout-icon: lightbulb;
+    --callout-color: inherit;
+    font-size: 80%;
+    line-height: 1.2em;
+    
+    /* Use width instead of max-width for reliable sizing */
+    width: 98%;
+    
+    /* Spacing - combined the margin rules */
+    margin: 4px 0 1em 15px;
+    padding: 8px;
+    
+    float: right;
+    clear: both;
+    
+    border: none;
+    
+    text-align: justify;
+}
+
+/* Hide fold icon */
+.callout[data-callout*=lasdmeg] .callout-fold .svg-icon {
+    display: none;
+}
