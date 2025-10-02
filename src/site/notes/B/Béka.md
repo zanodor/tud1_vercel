@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Béka/","title":"Béka","created":"2024-04-21T14:29","updated":"2025-09-28T21:26"}
+{"dg-publish":true,"permalink":"/B/Béka/","title":"Béka","created":"2024-04-21T14:29","updated":"2025-10-02T21:42"}
 ---
 
 
@@ -13,7 +13,7 @@
 
 Lásd még alternatív megközelítését Végvári József írásával is [[B/BÉK\|BÉK]]. Lásd még [[B/Béke\|béke]] és [[B/Béklyó\|béklyó]].  
 Lényegében arról lehet szó, hogy a béka kétnemű ill. nemet tud váltani, valamint kétéltű őse az emberiségnek is. (Lásd még erről [[M/Mocsár-mitológia\|mocsár-mitológia]].)  
-CzF adata szerint a szanszkritban szintén `bhéka`, a perzsában `bak` (másutt `bek`) a neve.  
+CzF adata szerint a szanszkritban szintén `bhéka`, míg a perzsában `bak` (másutt `bek`) a neve és a törökben is `bagha`.  
 
 Sokatmondó Jankovics Marcell adata:  
 > Japánban a vízbe hanyatló, vízből kievickélő Napot béka jelképezi. A futamigaurai tengerparton, ahol a japánok újévkor köszöntik a felkelő Napot, óriás bronzbéka látható a parti köveken, amint éppen kimászik a tengerből.  
@@ -45,7 +45,7 @@ A [[H/Hunahpu\|Hunahpu]] címnél írottak szintén ezt támasztják alá:  ![as
 A mellékelt, [[K/Keresztre feszített Nap\|keresztre feszített Nap]] és [[O/Orant\|orant]] címnél is szereplő képen Hun Hunahpu (Egy Hunahpu) a kozmikus békából (a Tejútistennő méhéből/vulvájából) kel ki/támad fel. A béka másutt John M. Jenkinsnél jaguár-varangy, de a lényegen nem változtat.  
 
 John Major Jenkins Galactic Alignment című könyvében is írja, hogy David Kelley kutató szerint is a fejét felfelé tartó, nyitott szájú béka születés értelmű.  
-Ez összevág azzal, hogy a [[S/SZOL\|SZOL]] Napnévből származik Szül igénk (mely pedig a [[S/Szűz\|szűz]] névhez kapcsolódhat), éppúgy, ahogy a BÉK Napnév kiadja a Béka nevet. De a [[L/Labour\|labour]] szó is szüléssel kapcsolatos (lehet nőiségi de hímségi etimont is találni benne).  
+Ez összevág azzal, hogy a [[S/SZOL\|Szol]] Napnévből származik Szül igénk (mely pedig a [[S/Szűz\|szűz]] névhez kapcsolódhat), éppúgy, ahogy a Bék Napnév kiadja a Béka nevet.   
 
 Arról [[M/Mézga\|mézga]] címnél volt szó, hogy a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]]nak (szarvas/ló/tehén/kecske/stb.) teje azonos a Tejútfa tejével, mézgájával és a Tejútfa odvában a méhek által termelt [[M/Méz\|méz]]zel is.  
 
@@ -73,20 +73,21 @@ A Szimbólumtár adatai:
 > • Az alkimista ikonográfiában a természet sötét oldalát, alsó, de termékeny rétegét, az üledéket, a földi anyagot jelképezte.  
 > • A magyar folklórban a szerelmi varázslat (a **szoknya alsó szegélyébe varrt béka** a szoknya viselőjének a szeretett férfi hűségét biztosította), a gyógyítás, valamint a rontás megelőzésének és megszüntetésének eszköze volt.
 
-![assets/Béka_image4.png|right|110](/img/user/B/assets/B%C3%A9ka_image4.png)![assets/Béka_image5.png|right|110](/img/user/B/assets/B%C3%A9ka_image5.png)  
+![assets/Béka_image4.png|fix_dark fix_light right|110](/img/user/B/assets/B%C3%A9ka_image4.png)![assets/Béka_image5.png|fix_dark fix_light right|110](/img/user/B/assets/B%C3%A9ka_image5.png)
 Molnár V. József Világ-Virág című könyvének 155. oldalán elemzi a pápuai pajzsot: nála a törzs nem békát, hanem halat idéz, míg az alsó nemzővessző kapcsán említi a magyar néprajzból is ismert ún. "tökös" motívum hármasát (így [[M/Mony\|mony]] címhez is bekerült).  
 A másik mellékelt képen pápuai fatál, melyen szintén béka-alakú az ember.  
-[[U/Ung\|Ung]] címnél álló Magyar Adorján féle adat szerint is a béka emberre hasonlít:  
+[[U/Ung\|Ung]] címnél álló...
+
+#### Magyar Adorján...
+
+...féle adat szerint is a béka emberre hasonlít:  
 > A Karszt hegység barlangvizeiben élő ungfajta, amelyet németül `Menschenfischlein` = Ember-halacska néven neveznek, a szlávok pedig ugyanott `čovječja ribica`-nak, ami ugyanazt jelenti.  
 > Ennek első lábain vagy kezein valóban három, hátsó lábain csak két ujja van. lehet ugyan, hogy ez csak elkorcsosulás, de ugyanúgy lehet őseredeti sajátság is. Honnan veszi azonban a nép, hogy ez állatnak "ember" nevet adjon, holott ez emberre egyáltalán nem hasonlít? Igen hosszú teste, lapos és uszonyos farka, nyakán pedig rojtos kopoltyúi vannak mindenesetre egy közönséges béka is emberre sokkal inkább hasonlít, mint ez a különös ung (szalamandra) fajta. Szerintem tehát ez elnevezésben egy ősrégi hagyomány maradványa él még, amelyet az ottani szláv és német lakosság az ugyanott azelőtt élt fajunkbeli ősnéptől örökölt.  
 
-Annyit jegyezzünk itt még, hogy Magyar Adorján esetleg tudhatta volna, hogy a Tejútanya emberalakjának állatalakokat képzeltek el, másrészt, konkrétan az [[A/Angolna\|angolna]] címnél írottak alapján kiderül, hogy a [[H/Hungár\|hungár]] (alakú nevek) = [[E/Ember\|ember]] = Ikrek a Tejút mellett.  
+> [!lasdmeg] &nbsp;
+> Annyit jegyezzünk itt még, hogy Magyar Adorján esetleg tudhatta volna, hogy a Tejútanya emberalakjának állatalakokat képzeltek el, másrészt, konkrétan az [[A/Angolna\|angolna]] címnél írottak alapján kiderül, hogy a [[H/Hungár\|hungár]] (alakú nevek) = [[E/Ember\|ember]] = Ikrek a Tejút mellett.
 
-Csak még annyit ide, hogy...
-
-#### Magyar Adorján Csodaszarvas...  
-
-...című könyvéből kiderül, hogy nem érti a béka nevet:  
+A Csodaszarvas című könyvéből kiderül, hogy nem érti a béka nevet:  
 > Béka szavunk azonban kabar eredetű, míg gál törzseink ezt réka-nak ejtették, amivel aztán egy regebeli [[R/Réka\|Réka]] királynéról szóló mondák függenek össze, amelyek csak később hozattak kapcsolatba Atillával és feleségével. E regék többnyire vízalatti palotákról, városokról szólanak, ahova földi emberek csodás dolgokat tanulni járnak. Ide tartozik például a kaldeai [[O/Oannesz\|Oannesz]]-monda is, amely a vízből kijáró és az embereket oktató halemberekről szól. (Lássad például Benedek Eleknél "Szekfűhajú János" meséjét.) De ide tartozik például a szegény halászról szóló mesénk is, aki hálójába a Békakirályné ismételten egy kerek követ tesz, amelyről, mikor a rátapadott iszaptól megtisztul, kitűnik hogy hatalmas gyémánt.  
 
 Mi sem mutatja jobban, hogy tűz megvan a névben, mint az, a [[K/Kutya Egyiptomban\|kutya Egyiptomban]] címnél is szereplő adat szerint Antef király egyik kutyájának neve **Behka** \[vö. maja `pek` = kutya\]. Antef egyébként nagy kutyabarát lehetett, Behkán kívül négy kutyája is látható mellette: Pehtesz, Abaker, Tekeru, Tekner.  
@@ -100,4 +101,5 @@ Gyárfás Ágnes az Ősi Gyökér 2013/3. sz. megjelent cikkében békameséket 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-H. Bosch Poklot megjelenítő képeinek gyakori motívuma, például a Szent Antal megkísértése című triptichonján látható békafigura az ördögi fajtalanság megtestesítője (1505-1506, Lisszabon, Museu Nacional de Arte Antigua). \[Szimbólumtár\]  
+A Szimbólumtár adatsora:  
+H. Bosch Poklot megjelenítő képeinek gyakori motívuma, például a Szent Antal megkísértése című triptichonján látható békafigura az ördögi fajtalanság megtestesítője (1505-1506, Lisszabon, Museu Nacional de Arte Antigua).  
