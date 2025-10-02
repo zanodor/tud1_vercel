@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated"],"created":"2024-05-09T22:32","updated":"2025-09-28T21:24"}
+{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated"],"created":"2024-05-09T22:32","updated":"2025-10-02T21:42"}
 ---
 
 
@@ -76,8 +76,9 @@ Az [alábbi](https://youtu.be/0Gb-b7yuLT8) ÁKTV műsorban Kubínyi Tamás 1:27:
 [[S/Sati\|Sati]] és [[V/Vaddisznók áldozatai\|vaddisznók áldozatai]] címnél is volt arról szó, hogy nemcsak a hinduk, hanem az ószláv asszonyok szokása is volt a férjeik után a halálba menni, mely szintén arra mutat rá, hogy ismerték a lélek halhatatlanságát és magukat nem a testükkel azonosították.  
 
 [[F/Fény és anyag\|Fény és anyag]] címnél is szerepelt, hogy a fontos párt alkotó [[P/Por\|por]] ("porból lettünk, porrá leszünk") és **pür**/**pír** rámutat, hogy helyesebben az idézet így szólana: "purból lettünk, purrá leszünk." Azaz halhatatlan tűzből/fényből tűzből/fénnyé; a por-állapotunk ideiglenes és kevésbé érdekes. A por mondható csillagpornak is.  
-[[N/Név\|Név]] és [[N/Nép\|nép]] címnél is szerepelt, hogy a nép a Nap fénye alatt egyesülő emberek csoportjának a neve, akik népnevüket is Napuk neve alapján választják meg: a magyar [[M/Magor\|Magor]]ét, a kún [[K/KUN\|KUN]]-t, az avar [[B/BAR\|BAR]]-t és így tovább.  
-A témához szervesen kapcsolódnak a [[T/Teremtő és teremtett\|Teremtő és teremtett]] címnél szereplő adatok, valamint szó volt [[E/Együvé tartozás\|együvé tartozás]]ról [[V/Vallás\|vallás]] címnél is, ahol arról szóltunk, hogy a magyar és az utódnyelvek is az együtt és közös értelmű szavaikat a Nap különböző elnevezéseiből alkotják ki. A magyar -val, -vel (ahogy vall és vél is) vélhetően [[B/Bál\|Bál]], [[B/Bél\|Bél]] nevekből ered, [[W/With\|with]] egyértelműen [[V/VID\|VID]]-ből, míg a [[S/Syn-\|syn-]] és [[C/Con- prefixum\|con- prefixum]]ok is a Nap Sün (lásd [[S/Sun\|Sun]]) illetve Kon/Kun/Kün neveiből.  
+[[N/Név\|Név]] és [[N/Nép\|nép]] címnél is szerepelt, hogy a nép a [[N/Nap\|Nap]] fénye alatt egyesülő emberek csoportjának a neve, akik népnevüket is Napuk (vagy akár a Hold) neve alapján választják meg: a magyar [[M/Magor\|Magor]]ét, a kún-hun [[K/KUN\|Kun]]-t (lásd még [[K/KIN\|Kin]], [[K/KÖN\|Kön]], [[K/KEN\|Ken]], stb.), az avar [[B/BAR\|BAR]]-t és így tovább.  
+A témához szervesen kapcsolódnak a [[T/Teremtő és teremtett\|Teremtő és teremtett]] címnél szereplő adatok, valamint szó volt [[E/Együvé tartozás\|együvé tartozás]]ról [[V/Vallás\|vallás]] címnél is, ahol arról értekeztünk, hogy a magyar és az utódnyelvek is az "együtt" és "közös" értelmű szavaikat a Nap különböző elnevezéseiből alkotják ki. A magyar -val, -vel (ahogy `vall` és `vél` is) vélhetően [[B/Bál\|Bál]], [[B/Bél\|Bél]] nevekből ered, [[W/With\|with]] [[V/VID\|VID]]-ből, míg a [[S/Syn-\|syn-]] és [[C/Con- prefixum\|con- prefixum]]ok is a Nap Sün (lásd [[S/Sun\|Sun]]) illetve Kon/Kun/Kün neveiből.  
+- Igaz, amióta [[C/Canberra\|Canberra]] nevének bennszülött értelmezését ismerjük, azóta a con- prefixum évköri értelmezésére nyílott lehetőség, azaz [[K/Khamor\|Khamor]] és [[H/Hunor és Magor\|Hunor és Magor]] címnél írottak alapján közelítendő meg.
 
 [[V/VID\|VID]] címnél szerepelt a Tóth Gyula által említett sárkányölő Vid Vitéz (Vit-Ész) neve, kinek neve szintén a fehér, fény (erkölcsi) győzelmének történetét írja le önmagunk = a [[S/Sárkány\|sárkány]] felett. Önmagunkra Szár-Kanként kell gondolnunk, akinek felül kell kerekednie a materializmus lehúzó vágykeltő erőin.  
 Ki lehet még térni itt az egyes nyelvek személyes névmásaira, melyekről egy jó összefoglalást CzF is adatol. Péterfai János szerint minden magyar személyes névmás Isteni mivoltunkra mutat rá.  
