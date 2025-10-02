@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2025-09-28T21:17"}
+{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2025-10-02T21:42"}
 ---
 
 
@@ -282,7 +282,7 @@ Másutt viszont, [[K/Kovács és a kutya\|kovács és a kutya]] címnél is arr�
 Fentebb sok mindenről volt szó és elég jól körüljártuk. Csak éppen a lényeg, vagy a legegyszerűbb értelmezési módja maradt le. Miről is van szó?  
 
 [[S/Szutek#Szutek Napisten/Égisten (Orion isten) > Jupiter névadójává válása\|Szutek Napisten/Égisten (Orion isten) > Jupiter névadójává válása]] cím/alcímnél írtuk:  
-Azt másutt is láttuk, például a [[P/Pater\|pater]] név elemzése kapcsán, hogy az Orionnak megfelelő égisten behelyettesíthető [[J/Jupiter\|Jupiter]]nek, ill. olykor Szaturnusznak. Nyilván általánosságban véve és jelen helyzetet is vizsgálva az Orion "Magornak, Ozirisznek megfelelő jó oldala" adná a Jupiter nevet és a rossz/sötét oldala, mint amilyen [[S/Széth\|Széth]]-nek és akár [[S/Szutek\|Szutek]]/[[S/Szutyok\|szutyok]]-nak is megfelel, adhatja Szaturnusz nevét és lám, [[S/SZAT\|szat]]- meg is van a névben. Itt még az is stimmel, és ez újabb bizonyíték a Szkíta Íjfeszítő név nyári napfordulós állására utalva, hogy a [[S/Szkíta\|szkíta]] is ilyen alakú név.  
+Azt másutt is láttuk, például a [[P/Pater\|pater]] név elemzése kapcsán, hogy az Orionnak megfelelő égisten behelyettesíthető [[J/Jupiter\|Jupiter]]nek, ill. olykor Szaturnusznak. Nyilván általánosságban véve és jelen helyzetet is vizsgálva az Orion "Magornak, Ozirisznek megfelelő jó oldala" adná a Jupiter nevet és a rossz/sötét oldala, mint amilyen [[S/Széth\|Széth]]nek és akár [[S/Szutek\|Szutek]]/[[S/Szutyok\|szutyok]]-nak is megfelel, adhatja Szaturnusz nevét és lám, [[S/SZAT\|szat]]- meg is van a névben. Itt még az is stimmel, és ez újabb bizonyíték a Szkíta Íjfeszítő név nyári napfordulós állására utalva, hogy a [[S/Szkíta\|szkíta]] is ilyen alakú név.  
 Tehát a télitől nyári napfordulóig értelmezett félév Nap-aspektusa adja Jupiter nevét és a nyáritól téli napfordulóig tartó sötét félév helyettesítendő be a Szaturnusz értelmezését tekintve.  
 
 ## Bolygóadatok
