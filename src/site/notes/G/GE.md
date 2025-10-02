@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/GE/","title":"GE","tags":["titleandheadingonedontmatch"],"created":"2024-04-29T00:06","updated":"2024-10-27T01:21"}
+{"dg-publish":true,"permalink":"/G/GE/","title":"GE","tags":["titleandheadingonedontmatch"],"created":"2024-04-29T00:06","updated":"2025-10-02T21:42"}
 ---
 
 
