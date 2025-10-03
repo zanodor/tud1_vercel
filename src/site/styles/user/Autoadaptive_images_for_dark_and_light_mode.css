@@ -31,3 +31,27 @@
   /* filter: invert(92.66%) sepia(73.54%); */
   /* mix-blend-mode: screen; */
 /* } */
+
+/* Local cssclasses (add 'invert_for_excalidraw' as value) support for Excalidraw images, to be safe */
+
+/* Live Preview */
+.theme-dark .invert_for_excalidraw img.excalidraw-embedded-img {
+  filter: invert(92.66%) sepia(73.54%);
+  mix-blend-mode: screen;
+}
+.theme-dark .invert_for_excalidraw img.excalidraw-svg.excalidraw-embedded-img.excalidraw-canvas-immersive {
+  filter: invert(92.66%) sepia(73.54%);
+  mix-blend-mode: screen;
+}
+
+/* Reading Mode - descendant selector from body or view container */
+.theme-dark body:has(.invert_for_excalidraw) img.excalidraw-embedded-img,
+.theme-dark .view-content:has(.invert_for_excalidraw) img.excalidraw-embedded-img {
+  filter: invert(92.66%) sepia(73.54%);
+  mix-blend-mode: screen;
+}
+.theme-dark body:has(.invert_for_excalidraw) img.excalidraw-svg.excalidraw-embedded-img.excalidraw-canvas-immersive,
+.theme-dark .view-content:has(.invert_for_excalidraw) img.excalidraw-svg.excalidraw-embedded-img.excalidraw-canvas-immersive {
+  filter: invert(92.66%) sepia(73.54%);
+  mix-blend-mode: screen;
+} 
