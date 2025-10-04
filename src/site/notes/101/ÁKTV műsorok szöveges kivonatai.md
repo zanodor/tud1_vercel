@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-09-28T22:19"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-10-04T17:59"}
 ---
 
 
@@ -13,8 +13,13 @@
 
 <small>**Megjegyzés 3**: A web app keresője nem keres és nem talál ezen összefoglalókban!</small>
 
-**Videók archivált összefoglalókkal**:   
+**Videók archivált összefoglalókkal**:  
 
+[251003CN! SZŐLŐ UTCA](https://videa.hu/videok/nagyvilag/251003cn-szolo-utca-kubinyi-tamas-magyar-9oj6VhLxmxrjL7T8)  [https://archive.ph/W1334](https://archive.ph/W1334)
+[251002CN! BOCSKAY](https://videa.hu/videok/nagyvilag/250102cn-bocskay-kubinyi-tamas-aktv-magyar-CbPFo2LXHSZgIBj9)  [https://archive.ph/29wAM](https://archive.ph/29wAM)
+[251001CN! FORD T](https://videa.hu/videok/nagyvilag/251001cn-ford-t-kubinyi-tamas-magyar-OsJOV00YejUzyiXL)  [https://archive.ph/3uN7o](https://archive.ph/3uN7o)
+[250930CN! JÓSKA BÁTYÁM](https://videa.hu/videok/nagyvilag/250930cn-joska-batyam-kubinyi-tamas-magyar-vnW82XipCcsEHO0q)  [https://archive.ph/K5vtj](https://archive.ph/K5vtj)
+[250929CN! PÁKOZD, 1848](https://videa.hu/videok/nagyvilag/250929cn-pakozd-1848.-kubinyi-tamas-magyar-7lz5u2G9p020R1UZ)  [https://archive.ph/zGNVr](https://archive.ph/zGNVr)
 [250926CN! KIS TEMPLOMA](https://videa.hu/videok/nagyvilag/250926cn-kis-temploma-kubinyi-tamas-magyar-8Kh7Z9PXiAg1MERi)  [https://archive.ph/lMkfX](https://archive.ph/lMkfX)
 [250925CN! A BRENTAI HÁBORÚ](https://videa.hu/videok/nagyvilag/250925cn-a-brentai-haboru-kubinyi-magyar-jI1cy4rKIoS6S08c)  [https://archive.ph/HDJbT](https://archive.ph/HDJbT)
 [250924CN! STÍLUS](https://videa.hu/videok/nagyvilag/250924cn-stilus-kubinyi-tamas-aktv-magyar-jL7dOK7yTSPtI1Wg)  [https://archive.ph/rHquZ](https://archive.ph/rHquZ)
