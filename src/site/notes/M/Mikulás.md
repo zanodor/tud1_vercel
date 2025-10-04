@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mikulás/","title":"Mikulás","tags":["containstransclusions"],"created":"2023-11-03T12:28","updated":"2025-09-24T13:49"}
+{"dg-publish":true,"permalink":"/M/Mikulás/","title":"Mikulás","tags":["containstransclusions"],"created":"2023-11-03T12:28","updated":"2025-10-04T18:01"}
 ---
 
 
@@ -29,9 +29,9 @@
 > Szinte magától értetődik mindezek után, hogy a Mik-kolos névvel ellentétben kellett létezzen Mak-kolos, azaz tehát nagybotos = ember-botos, férfi-botos név is[^1].  
 
 Az év végén viszont, vagyis a tizenkettedik hónap végén, ma is szerepelő öreg "Mikulás", azaz Toldi Miklós "estéje" következik be.  
-Azaz a Mikulás nem más, mint [[T/Toldi Miklós\|Toldi Miklós]], a Nap neve, viszont Magyar Adorján ugyanúgy az északi-sarki Nappal kapcsolatban hozza fel, mint Charles Upton is. (Lásd keretes részt.)  
+Azaz a Mikulás nem más, mint [[T/Toldi Miklós\|Toldi Miklós]], a Nap neve, viszont Magyar Adorján ugyanúgy az északi-sarki Nappal kapcsolatban hozza fel, mint Charles Upton is.  
 
-Gondolom a szóalakra szlávot mondanak és valóban van is egy Mikulaskova nevű kézilabdázónő is. Ez persze nem jelent semmit. A Mikulás mögé a szlávok nem látnak. Sőt, éppen a szláv nyelvek jellemzője a magánhangzók kiiktatása, így a Mikulás magyarosabb még a Miklós névnél is.  
+Gondolom a szóalakra szlávot mondanak és valóban vannak hasonló szláv nekevek, pl. létezik egy Mikulaskova nevű kézilabdázónő is. Ez persze nem jelent semmit. A Mikulás mögé a szlávok nem látnak. Sőt, éppen a szláv nyelvek jellemzője a magánhangzók kiiktatása, így a Mikulás magyarosabb még a Miklós névnél is.  
 
 #### Magyar Adorján írja:
 
