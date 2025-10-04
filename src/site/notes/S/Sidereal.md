@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sidereal/","title":"Sidereal","created":"2025-04-27T10:20","updated":"2025-04-27T10:21"}
+{"dg-publish":true,"permalink":"/S/Sidereal/","title":"Sidereal","created":"2025-04-27T10:20","updated":"2025-10-04T18:01"}
 ---
 
 
@@ -9,6 +9,8 @@ Csillag-, csillagászati-. *Sidereal year* = csillagászati, sziderikus év. A l
 Ezen latin `sidus` előjön a [[C/Consider\|consider]] és [[D/Desire\|desire]] szavakban is és [[S/Side\|side]] címnél is, ahol Szíriuszról és ainu és mundari nyelvű kutyát jelentő szavakról volt szó. Valóban, a sziderikus csillagászat alapja Szíriuszhoz való számítás volt, Egyiptomban is, ahol az évet a Kutyával kezdték. (Ezt a témát, mármint hogy a Szíriuszhoz való igazítás, számítás egyszerűbb, mint a [[G/Galactic centre\|Tejútközpont]]hoz, azon címnél is taglaltuk.)  
 
 A latin `sidus` és perzsa `setâre` = csillag a [[L/Love\|love]] és [[T/Tisztel\|tisztel]] címnél taglalt perzsa téma alapján tehát egy Süt-Úr összetétel csökevényei is lehetnek és a csillag egy bizonyos csillagra, a Szíriuszra (Shooter = [[I/Íj csillagkép\|Íj csillagkép]]) utal. Persze [[S/Star\|star]] eredetét Is-Tar ([[I/Istár\|Istár]] = Szíriusz) formában korábban megállapítottuk. Ergo az Istar > Star > Setar (setâre, Sider-) > Sidus fejlődési sorozat elképzelhető, de az sem kizárható, hogy a [[S/Szómegfordítás#Szótagmegfordítás\|szótagmegfordítás]] címnél írottakat kell figyelembe venni: hogy a szótag-elemek cserélődhettek (Szikora névnél vezettük le a megoldást).  
+
+
 
 #### Várkonyi Nándor Az idő szívverése...
 
