@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2025-09-27T01:43"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2025-10-04T18:00"}
 ---
 
 
@@ -37,8 +37,9 @@ Ellentétesen is működik a dolog. A Zugtáltos Facebook oldalon bemutatnak 5-6
 > Népmeseformában fennmaradt őstörténeteink mindegyikében csúnya a [[G/Gonosz\|gonosz]], és gonoszsága elkövetéséhez *szépnek kell álcáznia magát*.  
 - Ha csak elég lenne mindenkinek magyar népmeséket olvasni, milyen jól lenne...  
 A gonosz szót azért emeltem ki, mert Gyárfás Ágnes több jó gondolata ott szerepelt.  
+...Gyárfás Ágnes leánya...
 
-#### Gyárfás Ágnes leánya, Tibold Szabina Földi utunk a Mindenség felé...
+#### Tibold Szabina Földi utunk a Mindenség felé...
 
 ...című az Ősi Gyökér 2015/3-4. sz. megjelent cikkében a [[Z/Zsidó\|zsidó]]król (mint patriarchális népről) sem fél véleményt alkotni:  
 > *A gonosz egyik taktikája a szemfényvesztés, a másik az ellentmondásba keverés, a harmadik a kísértésbe ejtés.* Erre a három fonákságra kell odafigyelnünk. Nem hinni semmiben, amit a jóérzésünk, erkölcsi tisztánlátásunk nem támaszt alá. Soha ne essünk zavarba az ellentmondásoktól, hanem tisztítsuk le egy logikus következtetésre, aminek pozitív kimenetele lesz. A szemfényvesztés a bűvészek trükkje. A gonosz a legjobb bűvész, soha nem adja ki a titkát mutatványainak, s mégis leleplezhető, ha nem a szemünkkel, hanem lelki tisztaságunk szűrőjén át figyeljük füst és tükör mutatványait. A gonosz leghatásosabb trükkje a **kísértésbe ejtés**, mert észre sem vesszük, hogy beleestünk annak feneketlen kútjába. A kísértés annyi formában tud ránk köszönteni, amennyi képzettel magunk felruházzuk vágyainkat. A jól ismert mondás, hogy "Nagyon vigyázz arra mit kívánsz, mert valóra válhat!", pontosan a kísértésbe eshetőségünkre figyelmeztet.  
@@ -48,7 +49,7 @@ A másik trükk, amikor nem is akarja magát alcázni. Székely Ildikó ÁKTV m�
 
 [Ezen](https://youtu.be/d0vsD0g7jnI) másutt taglalt YouTube-os videó leírásában találjuk:  
 > **Az ismeretlen háttérhatalom földi helytartói már rég rájöttek a hatalomgyakorlás egyik mesterfogására: akinek nincsenek titkai, azt leleplezni se lehet**. A társadalom a megigézettség (hipnózis) állapotában van. Az igézők már rég nem rejtőzködnek, már rég nem titkolják szándékaikat. Mi, leleplezők pedig az igézők nyitott kapuit döngetjük, ahelyett, hogy a megigézetteket végre kivonnánk az igézők hatása alól.  
-- Megjegyzés: a hipnózis alatt állókat hogy lehetne egy csettintéssel észhez téríteni[^1]?  
+- Megjegyzés: a hipnózis alatt állókat hogy lehetne egy csettintéssel észhez téríteni[^1]?
 
 Quorán fő cikkemben is írtam, hogy ha – valaki odáig fajul, hogy – hazudni kell, a legnagyobb hazugságot kell választani, olyat, amiről senki sem gondolná, hogy át lehetett volna vele verni. Lám, Adolf [[H/Hitler, Adolf\|Hitler, Adolf]] is klasszikus példa arra a tényre, hogy "Ha kellően nagy hazugságot mondasz, és elég gyakran ismétled, elhiszik." "A hazugság legyen nagy, legyen egyszerű, ismételd sokszor, és végül el fogják hinni."  
 ("If you tell a big enough lie and tell it frequently enough, it will be believed." "Make the lie big, make it simple, keep saying it and eventually they will believe it." – Adolf Hitler and his Propaganda Minister Joseph Goebbels (both used this tactic and quoted it)).  
@@ -77,13 +78,13 @@ Mások másutt úgy szokták mondani, hogy a tudatlan ember számára vannak vé
 Kicsit hasonló, sőt, nagyon is hasonló a helyzet a háttérhatalom üzelmeinek leleplezéséhez: a legtöbb ember a háborúkat és a vírusokat véletlennek gondolja, holott nagyon is irányított eseményekről van szó.  
 Ha már itt tartunk, a jogban ismert tétel, hogy a jogszabály nem ismerete nem ment fel a bűnelkövetésre kiszabott büntetési tétel alól (tehát a Magyarországra bevándorló muszlim férfi fiatal miniszoknyás lányon elkövetett erőszakos cselekménye büntetőjogi felelősségének tudatában nem léte ellenére büntetést kap).  
 
-A [[F/Felforgatás\|felforgatás]] (angolul *subversion*: "aláforgatás") a másik eszköze a zsidóknak (és nem csak az ott említett Sun Tzu-nak és szovjet KGB-seknek).  
+A [[F/Felforgatás\|felforgatás]] (angolul *subversion*: szó szerint: "aláforgatás") a másik eszköze a zsidóknak (és nem csak az ott említett Sun Tzu-nak és szovjet KGB-seknek).  
 
 Az [alábbi](https://youtu.be/84QfjzsT5GM) ÁKTV műsorban 1:54:50-nél mondja Kubínyi Tamás [[S/Szent Pál\|Szent Pál]]lal kapcsolatban, hogy tipikus esete annak a Cion Bölcseinek Jegyzőkönyvében is megfogalmazott stratégiának, hogy ha máshogy nem lehet kívülről megállítani valamit, *épülj be, állj az élére*. A kereszténységet akkor nem lehetett megállítani.  
 
 Amikor Hervay Tamás alábbi sorait egy Ősi Gyökeres cikkében ([[S/Sárkány\|sárkány]] címnél volt róla szó) olvastam, akkor a [[P/Parazitizmus\|parazitizmus]] címnél taglalt téma ötlött fel. Az állatvilágban sokszor a parazita rátelepedik a gazda-állatra. Amit Hervay Tamás ír:  
 > Keleten máig a tanítások közt találjuk az ún. tigrislovaglás művészetét. Ez abban áll, hogy ha olyan erőkkel találkozol, melyek nálad erősebbek, akkor azokkal ne szembe szállj, hanem pattanj fel rájuk \[mint [[S/Szent Pál\|Szent Pál]] a kereszténység élére\], lovagold meg őket, de úgy, hogy végül te irányítod a lefolyásukat, így azok szinte magukkal ragadva, de mégis az általad kitűzött célba juttatnak.  
-- De ennek kapcsán meg a [[F/Felforgatás\|felforgatás]] címnél említett Yuri Bezmenov féle szintén keleti, harcművészeti fogás ötlött fel: az erősebb ütését ne kivédeni akard, hanem az ütés irányába húzva a karját repítsd az embert tova útján (míg közben kitérsz előle).  
+- De ennek kapcsán meg a [[F/Felforgatás\|felforgatás]] címnél említett Yuri Bezmenov féle szintén keleti, harcművészeti fogás ötlött fel: az erősebb ütését ne kivédeni akard, hanem az ütés irányába húzva a karját repítsd az embert tova útján (míg közben kitérsz előle).
 
 A másik eszköz a [[P/Politikai korrektség\|politikai korrektség]] fogalma és eljárása. A Polkorrekt 1. rész című [ezen](https://www.bitchute.com/video/89ErNuRN2M7N/) oldalon található ÁKA előadásban 18:00 körül Kubínyi Tamás kimondja, hogy nyugaton (Amerikában) már tudják, hogy a polkorrektség egyenlő a hazugsággal: ha valamit nem nevezhetek nevén vagy szépítve adom elő, az nem ugyanaz. Ha a polkorrekt fogalmakat használjuk, onnantól nem fogunk őszintén beszélgetni egymással, mert minden szavunkat ki lehet forgatni/gyomlálni és egy olyan fajta öncenzúrát fognak ránk kényszeríteni, amely tarthatatlan, természetellenes. Az évezredek alatt kialakult hagyományos gondolkodás soha sem volt polkorrekt.  
 Mondja még Kubínyi Tamás a PC-t bunkósbotnak, vállalhatatlan modorosságnak is.  
@@ -434,7 +435,7 @@ De hát ez az inverz felfogás mindenhol ott van, például [ezen](https://qr.ae
 > Ezek az emberek (botok, algoritmusok) meg akarnak menteni titeket. Ők (a) filantrópok termékei. Azt akarják, hogy megfelelő információkkal, megfelelő oktatással, megfelelő (vagy mondhatnám: *tutkó*) világnézettel rendelkezzetek.  
 > Vagy azt hiszed, hogy ironizálok?  
 > Ezt kaptam ma, mivel az orosz invázió valós hátteréről szóló válaszomat leszedték.  
-- A képet most nem csatolom.  
+- A képet most nem csatolom.
 
 > They don't want my take on it. I was deemed important enough (despite the fact that the answer was shown to only 6-7 people, while other answers mirroring the worldwide propaganda is shown to thousands, easily) to have someone or something take down my measly view on the world, which by the way, was not really mine, either, as it was mostly a video made by a Hungarian politician (one of the good(?) ones out there) who had taken FaceBook to court for censoring him and deleting his account before (right before election time, no less; I mean how disgusting is that; well, just as disgusting as the Ukrainian president's gay-dance on prime-time TV, featured in the video as well).  
 > This is what's happening, folks. What they have in the way of mass manipulation, the equivalent of weapons of mass destruction (soon to be used on all of us Europeans if push comes to shove; that's what the philantrophists in "Captain America"-land want anyway) is simply not enough for them to feel secure, they want to dispossess you of your own homemade little slingshot as well, that's how insecure, petty and cowardly little scum they are.  
