@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2025-09-28T21:18"}
+{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2025-10-04T18:00"}
 ---
 
 
@@ -107,18 +107,23 @@ A fa és a nő hiedelmi megfeleltetéséről lásd [[F/Fa és nő\|fa és nő]].
 Jankovics Marcell A fa mitológiája című könyvének 93-94. oldalán példázza a [[F/Füge\|füge]]fa-istennőket és a szent tejet adó fügefákat ([[R/Rumen\|Rumen]] címnél is volt róluk szó illetve [[L/Lac\|lac]] és [[H/Honey\|honey]] címszókhoz is be lett téve említésként némi info).  
 Arról, hogy ez ember "lemászott a fáról," lásd Jankovics Marcell anyagát is [[D/Darwin, Charles és elméletének cáfolata\|Charles Darwin és elméletének cáfolata]].  
 
-Az ![assets/Fa_image4.png|fix_dark fix_light right|300](/img/user/F/assets/Fa_image4.png)  archaikus népi imádságban nagyon szépen kapcsolódik össze az életfa és minden fontos szereplő:  
-*Ég szülte Földet,  
-Föld szülte fát,  
-Fa szülte ágát,  
-Ága szülte bimbaját,  
-Bimbaja szülte Szent Annát,  
-Szent Anna szülte Máriát,  
-Mária szülte Krisztus Urunkat,  
-a világ megváltóját!*  
+Az archaikus népi imádságban nagyon szépen kapcsolódik össze az életfa és minden fontos szereplő:  
+> *Ég szülte Földet,*  
+> *Föld szülte fát,*  
+> *Fa szülte ágát,*  
+> *Ága szülte bimbaját,*  
+> *Bimbaja szülte Szent Annát,*  
+> *Szent Anna szülte Máriát,*  
+> *Mária szülte Krisztus Urunkat,*  
+> *a világ megváltóját!*
 
-Jankovics Marcell Jelkép-kalendárium című könyvének 327. oldalán kicsit máshogy áll a szöveg; lásd csatolva.  
-Falvay Károly Nagyboldogasszony című könyvének 402. oldalán Erdélyi Zsuzsannától egy hosszabbat is közöl, amelyben viszont már egy Kárpát-medencére nem jellemző pálmafa szerepel; lásd csatolt képen.  
+Jankovics Marcell Jelkép-kalendárium című könyvének 327. oldalán kicsit máshogy áll a szöveg:  
+> *Gyökér adja fáját, fája adja ágát,*
+> *ága adja bimbaját,*
+> *Bimbó adja virágát, virág adja almáját,*
+> *köszöntsük a Boldogságos Szűz Máriát!*
+
+Falvay Károly Nagyboldogasszony című ![assets/Fa_image4.png|fix_dark fix_light right|300](/img/user/F/assets/Fa_image4.png)könyvének 402. oldalán Erdélyi Zsuzsannától egy hosszabbat is közöl, amelyben viszont már egy Kárpát-medencére nem jellemző pálmafa szerepel; lásd csatolt képen.  
 
 Dr. Gyárfás Ágnestől való egy másik:  
 > *Világtenger közepében aranyasztal  
