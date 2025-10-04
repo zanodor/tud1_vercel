@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pohár/","title":"Pohár","created":"2023-11-21T09:42","updated":"2025-07-30T03:31"}
+{"dg-publish":true,"permalink":"/P/Pohár/","title":"Pohár","created":"2023-11-21T09:42","updated":"2025-10-04T18:02"}
 ---
 
 
 # Pohár
 
-Pohár már első látásra széthúzása a [[B/BOR\|bor]] szónak, mely vizet is jelentetett. A szóvégi -ar egyes nyelvekben igenév lett, így pohárhoz hasonló szó a franciában vagy másutt lehetséges is. Éppen [[B/Beverage\|beverage]] bever- eleme ilyen is, ahol, lám, lám, korábban említettük azt az ófrancia `boivre` szót, mely tökéletesen azonos pohár szavunkkal. A perzsa nyelvben szintén megvan ez a szóalak.  
+Pohár már első látásra széthúzása a [[B/BOR\|bor]] szónak, mely vizet is jelentetett. A szóvégi -ar egyes nyelvekben igenév lett, így pohárhoz hasonló szó a franciában vagy másutt lehetséges is. Éppen `beverage` bever- eleme ilyen is, ahol, lám, lám, korábban említettük azt az ófrancia `boivre` szót, mely tökéletesen azonos pohár szavunkkal. A perzsa nyelvben szintén megvan ez a szóalak.  
   
 
 Ilyen szóalak még az angol [[P/Pour\|pour]] = önteni.  
