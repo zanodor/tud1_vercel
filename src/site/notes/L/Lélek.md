@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2025-09-28T21:17"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2025-10-04T18:00"}
 ---
 
 
@@ -273,7 +273,7 @@ A színszimbolikát figyelembe véve a hamu fehér, de felfogható fekete-fehér
 
 A véleményem az, hogy a Halotti Beszéd isa, por és hamu szavait nem kell bizonyító erejűnek tekinteni annak vonatkozásában, hogy a magyarok mit ismertek milyen néven. Ki tudja hány nevünk volt az évezredek során ilyen-olyan fogalomra. A [[K/Kutya\|kutya]] alakú, lélekkel, lélekerővel ill. életerővel, lélegzettel kapcsolatba hozható [[G/Guta\|guta]], [[K/Kut\|kut]], [[G/Gőz\|gőz]] és hasonló kifejezésekkel Gyárfás Ágnes mikor foglalkozott, ha egyáltalán?  
 
-Kérdés még, hogy a kún-hun nyelv (valamelyik) lélek jelentésű szava a [[K/Kutya\|kutyá]]val azonos \*kuta, [[G/Guta\|guta]] alakú kellett legyen, akkor már a hun nyelvben is [[D/DOG\|DOG]], [[D/DOH\|DOH]] alakú volt az árnyéklélek neve, tekintve, hogy nemcsak szláv, de még a szenegáli volof nyelvben is ilyen értelmet találtunk, továbbá a [[K/Kutya és szív\|kutya és szív]] címnél is említett csecsen `dog` = szív jelentésű szó nem éppen a lélekszékhelyre mutat?  
+Kérdés még, hogy a kún-hun nyelv (valamelyik) lélek jelentésű szava a [[K/Kutya\|kutyá]]val azonos \*kuta, [[G/Guta\|guta]] alakú kellett legyen, akkor már a hun nyelvben is [[D/DOG\|DOG]], [[D/DOH\|DOH]] alakú volt az árnyéklélek neve, tekintve, hogy nemcsak szláv, de még a szenegáli volof nyelvben is ilyen értelmet találtunk (`dog` = íz, (árny)lélek (szó szerint: ami megmarad a halál után)), továbbá a [[K/Kutya és szív\|kutya és szív]] címnél is említett csecsen `dog` = szív jelentésű szó nem éppen a lélekszékhelyre mutat?  
 Kell-e egyáltalán itt az egyes szóalakokkal foglalkozni, mármint bizonyítékát keresve az ómagyar elnevezéseknek? Az [ezen](https://en.wiktionary.org/wiki/%D0%B%B2) oldalon talált komi `lov` = lélek; szellem szó is a [[L/LU\|LU]] = fény jelentésű etimon nyomán ered.  
 [[E/Ember#Ember szavunk Eb (Kutya/Szkíta) értelme az Ikrek cikkelyébe tartozó Kutyára vonatkoztatva\|Ember szavunk Eb (Kutya/Szkíta) értelme az Ikrek cikkelyébe tartozó Kutyára vonatkoztatva]] cím/alcímnél volt szó a kut, kuta, guta szavakról és a [[K/Kutyahitű\|kutyahit]] címtől áttett információkon keresztül vizsgáljuk a hunok kutyalelkét. Lásd ott.  
 Közben egy MagyarMegmaradásért oldalról levett, több mint tíz éves, azaz a fenti cikkek idejét megelőző,...
