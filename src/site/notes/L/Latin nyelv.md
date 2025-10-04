@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2025-09-24T13:46"}
+{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2025-10-04T18:01"}
 ---
 
 
@@ -19,7 +19,7 @@ Götz könyvének 875-876. oldalán található szumér és latin szavakat hason
 > A latin nyelv legmélyebb alaprétegében szervesen beletartozik az indogermánok előtti újkőkori – korai fémkori kisázsiai-mediterrán nyelvközösségbe, s ezen keresztül az elő-ázsiai szumér nyelvi koinéval is igen szoros kapcsolatokban áll. Mindebből viszont az következik, hogy az ősi anatóliai-égei-tirréni nyelvcsoport nyelvjárásaiban is tömegesen kellett lenniük az elő-ázsiai-mezopotámiai nyelvi koiné szókincséből származó szavaknak. Nyilvánvaló ugyanis, hogy a fenti szumér-latin és a már korábban megismert szumér görög szómegfelelések túlnyomó része nem közvetlenül a szumérből került bele a latinba, ill. a görögbe, hanem egyrészt az etruszkból, a ligurból és más ősi itáliai nyelvekből, másrészt pedig a mínoszi krétai nyelvből, a mykénei kultúrkör közlekedő nyelvéből és a prachellén anatóliał nyelvjárásokból. Minden valószínűség szerint ezen többé-kevésbé egységes kisázsiai-mediterrán nyelvi alapréteg domináns hatásaival magyarázható az is, hogy a nyugati indogermán nyelvcsoportokon belül a görög és a latin állnak legközelebb egymáshoz.  
 
 Másutt már talán szóltam róla, de ha nem, akkor Quorán is írtam valakinek válaszul (vagy kommentként), hogy a latin nyelv műnyelv és az egyes újlatin nyelvek nem feltétlenül egy vulgáris/polgári (tört) latinból jöttek létre. Túl sok az extrapolációs hajlam a nyelvészek részéről.  
-Két példa. A [[K/Karácsony\|Karácsony]] címnél taglalalt spanyol `corazón` és portugál párja eredetibbnek tűnnek, mint a latin `cor` = szív. A [[M/Macerate\|macerate]], [[M/Macaroni\|macaroni]] és [[M/Mozsár\|mozsár]] címnél taglalt ideák alapján nem a `macer` = ösztövér szó a kiinduló, mert az nem más, mint egy szótári bejegyzés: a spanyol és főleg olasz területeken élő népek ősvallásának átcsillanása látszik meg a szavakban, azaz olyan időkből származhat, amikor a hivatalos/birodalmi latin nem is lézetett.  
+Két példa. A [[K/Karácsony\|Karácsony]] címnél taglalt spanyol `corazón` és portugál párja eredetibbnek tűnnek, mint a latin `cor` = szív. A [[M/Macerate\|macerate]], [[M/Macaroni\|macaroni]] és [[M/Mozsár\|mozsár]] címnél taglalt ideák alapján nem a `macer` = ösztövér szó a kiinduló, mert az nem más, mint egy szótári bejegyzés: a spanyol és főleg olasz területeken élő népek ősvallásának átcsillanása látszik meg a szavakban, azaz olyan időkből származhat, amikor a hivatalos/birodalmi latin nem is lézetett.  
 
 [[G/Görög#Görög nyelv használói\|Görög nyelv használói]] cím/alcímnél is kitértünk arra, hogy a görög mögött nem görög birodalmi görögöt kell érteni. A görög valamikor magyar volt, és későbbi magyar/hun használói is akadtak.  
 [[N/Nyelvészet mint tudomány\|Nyelvészet mint tudomány]] címnél is elővettem a `macer` szót:  
@@ -112,7 +112,7 @@ Akkor ennyi lenne az indoeurópai nyelvek szavainak létrejöttének receptje?
 ### Latin szavakhoz képest a kelta, albán, spanyol, ófrancia stb. eredetibbnek tűnik
 
 Erről is volt szó több helyen. Példákat lehet majd ide gyűjteni. Például:  
-A [[B/Beverage\|beverage]] címnél taglalt ófrancia `boivre` = inni a pohár szóhoz képest eredetibb, mint a latin `bibere`, amennyiben persze a [[B/BOR\|BOR]] szavunk széthúzásának megállapított [[P/Pohár\|pohár]] régebbi, mint a latin és ófrancia szavak.  
+Az ófrancia `boivre` = inni a pohár szóhoz képest eredetibb, mint a latin `bibere`, amennyiben persze a [[B/BOR\|BOR]] szavunk széthúzásának megállapított [[P/Pohár\|pohár]] régebbi, mint a latin és ófrancia szavak.  
 
 A latin `sæculum` és szekuláris időszámítás (generációkat időtartamként számoló) témában [[G/Gergely-naptár\|Gergely-naptár]] és [[S/Second\|second]] címnél és másutt is idézett, az Új kronológiát felállító Anatolij [[F/Fomenko, Anatolij\|Fomenko, Anatolij]] (munkásságát követők) köréhez tartozó Yaroslav Kesler The Perception of Open-Ended Time című cikkét olvasva vesszük észre, hogy a végnapjait élő emberre utaló olasz `vecchio` = öreg; régi szó sem holmi latin `vetus` szóra megy vissza, hanem [[V/Vég\|vég]] szavunkra. Ilyenképpen azt is állíthatnánk, hogy az olasz régebbi nyelv a latinnál.  
 Persze a V-K vázú szó valahol meglehet a latinban is, csak a nyelvészek más szót találtak eredetre (igaz, attól még vetus azt jelenti, amit jelent).  
