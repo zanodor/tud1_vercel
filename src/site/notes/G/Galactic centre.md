@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2025-09-21T15:21"}
+{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2025-10-04T18:00"}
 ---
 
 
@@ -109,7 +109,8 @@ Közbevetőleg tegyük ide a több helyen idézett...
 > A 2012-es téli napfogyatkozásnál, a déli Nap tökéletesen együtt áll majd a Nap és a galaktikus tér elliptikus útjának metszőpontjával, ami ugyanakkor közeli konjunkcióban lesz a galaxis központjával is.  
 > Jenkins továbbá kifejti, hogy ez az óriási kozmikus kereszt az időben szimbolizálja a Maya Életfát, amely a Maya Kozmológia magva.  
 
-Mivel a [[V/Világfa\|világfa]] egyetemes Tejút-jelkép, és a fák hasadéka mindig az Ősanya [[V/Vulva\|vulvá]]jának, méhének (lásd még [[B/Barlang\|barlang]]) fogatott fel, a Tejúthasadék az, mely a Napot szülő Nagy Istenanya ([[K/Kígyóistennő\|kígyóistennő]]) vulvája, így a születésnek helyét és idejét is defininiáló hely, melynek elsősorban a maja hagyományok alapján kerül itt vizsgálat alá.  
+Mivel a [[V/Világfa\|világfa]] egyetemes Tejút-jelkép, és a fák hasadéka mindig az Ősanya [[V/Vulva\|vulvá]]jának, méhének (lásd még [[B/Barlang\|barlang]]) fogatott fel, a Tejúthasadék az, mely a Napot szülő Nagy Istenanya ([[K/Kígyóistennő\|kígyóistennő]]) vulvája, így a születésnek helyét és idejét is definiáló hely, melynek elsősorban a maja hagyományok alapján kerül itt vizsgálat alá.  
+- Jankovics Marcell A fa mitológiája című könyvének 120. oldalán arról szól, hogy a kozmo-mitológiai (téli napfordulós Tejút-szigetnek) Tündérkert földi mását a néphit helyezte Csallóköz szigetére és Erdélybe. Igen ám, de Jankovics nem tudott a magyar nép ősiségéről és arról, hogy a néphitnek, néphagyományoknak mennyi köze van ahhoz, hogy az akár több millió éves magyarság, nyelvével, kultúrájával fennmaradt.
 
 Hasonló név még a [[N/NUN\|NUN]] címnél előjövő Nunki. Péterfai János írja:  
 > A Nyilasban, a Tejútközpont irányában van bizonyos Nunki:  
