@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Psychopomp/","title":"Psychopomp","tags":["Englishtexttranslated"],"created":"2023-10-27T08:46","updated":"2025-09-29T16:00"}
+{"dg-publish":true,"permalink":"/P/Psychopomp/","title":"Psychopomp","tags":["Englishtexttranslated"],"created":"2023-10-27T08:46","updated":"2025-10-04T18:01"}
 ---
 
 
@@ -14,7 +14,7 @@ A pszükhopomposz a görög mitológiában a holt lelkek (haza)vezetője, lélek
 - Lásd még erről többet [[O/Orion\|Orion]].
 
 Két szópár is bizonyítja nyelvi szinten a kutya lélekvezető szerepét. [[G/Guta\|Guta]] címnél írottak mellett lásd a [[K/Kutya és szív\|kutya és szív]] címnél írottakat. (Korábban itt állt:  
-Ennek a bizonyságául szolgál, hogy az afrikai volof nyelvű `dog` = szellem, árnylélek (mely egyezőnek tekinthető a szláv, román `duh` = szellem szóval) szó egy az egyben megegyezik az angol [[D/DOG#Dog 2)\|dog]] = kutya szóval.)  
+Ennek a bizonyságául szolgál, hogy az afrikai volof nyelvű `dog` = íz, (árny)lélek (szó szerint: ami megmarad a halál után) (mely egyezőnek tekinthető a szláv, román `duh` = szellem szóval) szó egy az egyben megegyezik az angol [[D/DOG#Dog 2)\|dog]] = kutya szóval.)  
 De valójában a [[S/Sánta Kata\|Sánta Kata]] név [[K/Kata\|Kata]] (halál) tagja is utalhat arra, hogy a holt lelkek vezetőjéről van szó. Egy cseroki indián csillagmonda is arra utal, hogy a kutyák a halál állatai:  
 > There are two dogs (alpha and beta Canis Majori) who guard the path (Milky Way) to the land of souls. To get past the dogs one should bring food. Be warned, if you give food to the first dog (alpha) he will let you pass, but if you fail to save some food for the second dog (beta) you will be trapped between them forever.  
 > —  
