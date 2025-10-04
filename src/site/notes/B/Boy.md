@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Boy/","title":"Boy","created":"2025-04-27T09:54","updated":"2025-04-27T09:55"}
+{"dg-publish":true,"permalink":"/B/Boy/","title":"Boy","tags":["Englishtexttranslated"],"created":"2025-04-27T09:54","updated":"2025-10-04T18:01"}
 ---
 
 
@@ -10,6 +10,11 @@
 > A Pi-Fi csillag jelentésű szók társa a [[B/BOJ\|boj]], mint a Boj-Tár szóban ezt látjuk, aki Tároló-Fiú. A Boj azonban inkább Nap, a [[B/BOG\|BOG]], [[B/BOK\|BOK]] csoportba tartozik. Angol `Boy` Fiú, finn `Pojka` Fijúka, magyar Fióka Fijúka, továbbá Bokka-Negra Fiú-Fekete, vagy Boca Juniors Ifjú Fiúk. A magyar Boka jelentése Nap, kétségtelenül a lányok bokája ez a Nap.  
 - Boka arabban/perzsában `sák`; azaz szintén fénnyel kapcsolatos, így Péterfai János meglátását szépen igazolja.  
 A (svédben is meglévő) finn `poika` = fiú, fia valakinek szóról lásd még [[P/PI\|PI]].
+
+Ennek ellenére vannak lexikográfusok, akiknek nehéz volt, és még Oxford is ismeretlen eredettel rukkolt elő:  
+> In Medium Ævum, October 1940 (IX, 121–54), The Etymology and Meaning of `boy` and again in 1943 (XII, 71–76), Middle English and Middle Dutch `boye` – Dr E. J. Dobson has scrupulously and lengthily surveyed the problem, yet arrived at no firm solution. Oxford also deem it of **unknown origin**.  
+> —  
+> A Medium Ævum folyóiratban, 1940 októberében (IX, 121–54), A `boy` szó etimológiája és jelentése címmel, valamint ismét 1943-ban (XII, 71–76), közép-angol és közép-holland `boye` címmel – Dr. E. J. Dobson aprólékosan és hosszan vizsgálta a problémát, mégsem jutott egyértelmű megoldásra. Oxford is **ismeretlen eredetűnek** tartja.
 
 ---
 
