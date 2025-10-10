@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tesub/","title":"Tesub","tags":["Englishtexttranslated"],"created":"2023-10-07T10:07","updated":"2025-06-07T18:58"}
+{"dg-publish":true,"permalink":"/T/Tesub/","title":"Tesub","tags":["Englishtexttranslated"],"created":"2023-10-07T10:07","updated":"2025-10-10T21:56"}
 ---
 
 
@@ -22,7 +22,7 @@ A Wiki adatsora:
 
 
 ![assets/Tesub_image1.png](/img/user/T/assets/Tesub_image1.png)  
-A mellékelt, [innen](https://www.peopleofar.com/2015/08/26/why-a-roman-god-wears-an-armenian-tiara/amp/) való képen a testtartást figyelembe véve azt látjuk, hogy [[B/Bál\|Bál]] (lásd ott [[B/Bál#Bál mint Nimród\|Bál mint Nimród]] alcímet) testtartására, azaz Orion testtartására emlékeztet. [[T/Tarhuntas\|Tarhun]] igen is lehet Nimród/Hunor csillagkép.  
+A mellékelt, [innen](https://web.archive.org/web/20190909035126/https://www.peopleofar.com/2015/08/26/why-a-roman-god-wears-an-armenian-tiara/amp/) való képen a testtartást figyelembe véve azt látjuk, hogy [[B/Bál\|Bál]] (lásd ott [[B/Bál#Bál mint Nimród\|Bál mint Nimród]] alcímet) testtartására, azaz Orion testtartására emlékeztet. [[T/Tarhuntas\|Tarhun]] igen is lehet Nimród/Hunor csillagkép.  
 
 Mivel a Tesub név Tesup formában is megtalálható, illetve ami a késői hurri Tesheba nevet illeti, Tesz-Apa/Tűz-Apa tökéletesen megfelel Égistennek/Orionnak. Még a dilettáns SzM-nak is Nimród jut eszébe a képről. A [[T/Taru\|Taru]] névvel kapcsolatos értekezést lásd ott.  
 
