@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Japhet/","title":"Japhet","tags":["Englishtexttranslated"],"created":"2023-10-23T05:34","updated":"2025-09-28T21:33"}
+{"dg-publish":true,"permalink":"/J/Japhet/","title":"Japhet","tags":["Englishtexttranslated"],"created":"2023-10-23T05:34","updated":"2025-10-10T21:56"}
 ---
 
 
@@ -29,4 +29,4 @@ Valójában Kállay Ferenc A pogány magyarok vallása című könyvének 56. ol
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Kubínyi Tamás – nem is sejtve, hogy nyilván a mítoszkutató karlendítő Erőss Diána AKA Bácsfi Boglárka a szerző –, [ezen](https://vilagfigyelo.com/eltitkolt-osi-profeciak-a-vegiteletrol-a-hun-magyarsag-neperol/) oldalról olvas fel műsorában, ahol ez a téma említésre kerül.  
+Kubínyi Tamás – nem is sejtve, hogy nyilván a mítoszkutató karlendítő Erőss Diána AKA Bácsfi Boglárka a szerző –, [ezen](https://web.archive.org/web/20201130205013/https://vilagfigyelo.com/eltitkolt-osi-profeciak-a-vegiteletrol-a-hun-magyarsag-neperol/) oldalról olvas fel műsorában, ahol ez a téma említésre kerül.  
