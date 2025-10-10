@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Crest/","title":"Crest","tags":["Englishtexttranslated"],"created":"2023-11-03T06:36","updated":"2025-09-24T13:56"}
+{"dg-publish":true,"permalink":"/C/Crest/","title":"Crest","tags":["Englishtexttranslated"],"created":"2023-11-03T06:36","updated":"2025-10-10T21:56"}
 ---
 
 
@@ -8,7 +8,7 @@
 (Kakas)taréj, bóbita; dombtető, hullámtaréj (innen még átvitt értelemben címnek a teteje, legmagasabb foka); sisakforgó; címerpajzs.  
 Oxford is természetesen a latin `crista` = búb, taréj, [[C/Címer\|címer]], stb. jelentésű szóból eredőnek véli. [[C/Cretin\|Cretin]]hez hasonlóan itt is [[K/Kereszt\|kereszt]] szavunk lehet a kiinduló. Könnyen lehet, hogy ez a taréj eredetileg kereszt volt, akár fejfedőn, koronán, mint amilyen a Szent Korona is. Ez a kereszt viszont már mást jelentett később.  
 Hát nem érdekes, hogy a [[H/Három\|három]] címnél taglalt magyar címerben is a kereszt éppen domb(ok) tetején van? Hova kellett Jézusnak a keresztjét felcipelni? Dombra, a [[G/Golgotha\|Golgotá]]ra, mely a nevének jelentésével is a mesei boszorkánytanyák koponyáit idézi. Nocsak, nocsak.  
-Még a crest-re visszatérve, a *family crest* kifejezésben családi címert jelent crest, de ott is inkább a tetejére utal, míg a coat of arms kifejezés nyilván később kiváltotta a (latinban még címert is jelentő) `crest`-et, miután olyan címerekre már nem lett volna értelme használni, ahol a tetején/közepén nincs kereszt (nem úgy, mint a magyar címerben, például ez [alábbi](http://hungarians.weebly.com/uploads/2///3/235969/gabor_pap_-_pictographic_message_of_the_hungarian_crest.pdf) írásban, címében is).  
+Még a crest-re visszatérve, a *family crest* kifejezésben családi címert jelent crest, de ott is inkább a tetejére utal, míg a coat of arms kifejezés nyilván később kiváltotta a (latinban még címert is jelentő) `crest`-et, miután olyan címerekre már nem lett volna értelme használni, ahol a tetején/közepén nincs kereszt (nem úgy, mint a magyar címerben, például ez [alábbi](https://mega.nz/file/Q3VUkLaL#G2CVcluC3zk0ar1hPHQVsp6feCe790NTGXmhEh33bqU) írásban, címében is).  
 
 #### Zentai Ákos Történelemírásunk Akhilleusz-sarka...
 
