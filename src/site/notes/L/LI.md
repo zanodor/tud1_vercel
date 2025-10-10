@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/LI/","title":"LI","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-09T04:34","updated":"2025-09-28T21:31"}
+{"dg-publish":true,"permalink":"/L/LI/","title":"LI","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-09T04:34","updated":"2025-10-10T21:56"}
 ---
 
 
@@ -38,7 +38,7 @@ A `kurfli` viszont nem kerül szóba, és a kifli is ugyanúgy görbe, mint a [[
 A `virbli` ("kavarodás, zűrzavar") szó kapcsán adott magyarázatot vehetjük mérvadónak:  
 > A német `Wirbel` ('forgás, forgatag') átvétele a szillabikus l szokott feloldásával (mint `svindli`, `tipli`).
 
-Germán eredetű szavak (már-már teljes) listája (a fent említett öt kivételével): `gerstli`, `virsli`, `nudli`, `nokedli`, `hokedli`, `sámli`, `kurbli`, `kurfli`, `kugli`, `fangli` v. `fandli` v. `fándli`, `stopli`, `dekli`, `stangli`, `puszedli`, `tarkedli`, `bejgli`, `kamásli`, `fásli`, `pemszli`, `csúzli`, `tasli` v. `tacsli`, `frocli`, `cetli`, `sramli`, `rumli`, `stikli`, `bóvli`, `verkli`, `spicli`, `vinkli`, `virtigli`, `betli`.   
+Germán eredetű szavak (már-már teljes) listája (a fent említett öt kivételével): `gerstli`, `virsli`, `nudli`, `nokedli`, `hokedli`, `sámli`, `kurbli`, `kurfli`, `kugli`, `fangli` v. `fandli` v. `fándli`, `stopli`, `dekli`, `stangli`, `puszedli`, `tarkedli`, `bejgli`, `kamásli`, `fásli`, `pemszli`, `csúzli`, `tasli` v. `tacsli`, `frocli`, `rapli`, `kripli`, `cetli`, `sramli`, `rumli`, `stikli`, `bóvli`, `verkli`, `spicli`, `vinkli`, `virtigli`, `betli`.   
 A [[D/Dear\|dear]] címnél említett török `değerli` = értékes (drága, mondhatnánk) szóban a -li végződés nyilván melléknévképző.  
 
 Ha már török, a -li végződés megvan [[G/Göbekli Tepe\|Göbekli Tepe]] nevében, ahol Göbek = Köpek = kutya, és LI valóban lehet király. De nyilván ez a végződés már egy bejáratott, későbbi korból való.  
