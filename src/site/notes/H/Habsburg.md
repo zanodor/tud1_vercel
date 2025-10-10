@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habsburg/","title":"Habsburg","created":"2023-11-17T07:57","updated":"2025-09-24T13:45"}
+{"dg-publish":true,"permalink":"/H/Habsburg/","title":"Habsburg","created":"2023-11-17T07:57","updated":"2025-10-10T21:53"}
 ---
 
 
@@ -20,7 +20,7 @@ Szöllősi Ildikó említi egy műsorában, hogy a római zsidó származású H
 A Habsburgok Róma zsidó gettójából[^1] származnak és sohasem tagadták meg zsidó gyökereit. Maga Ferenc József is, amikor Jeruzsálembe látogatott hitsorsosaival, a városkapu előtt találkozott és ők vezették be a siratófalhoz. A korabeli jeruzsálemi lapok cikkeiben Ferenc József maga is elismerte a zsidó vért. Ugyanakkor amikor a Meyers Konversations-Lexikon (1887) megjelent, amelyben a zsidó hitről a katolikus kereszténységre áttértek neve a maga teljességében a Habsburgokkal együtt megjelent, akkor a bécsi titkosszolgálat felvásároltatta és bezúzatta az összes példányt. De ezzel is igazolást adtak arra vonatkozóan, hogy zsidó származású keresztényként nem tudtak kereszténnyé válni.  
 
 [[S/Szabadkőműves\|Szabadkőműves]] címnél álló C. Knight és R. Lomas féle adatok szerint a Habsburgok is a Dávid-féle zsidó vérvonalhoz tartoznak.  
-A Habsburgok zsidóságát az is bizonyítja, hogy a szemitákra jellemző belterjességet gyakorolták. Gyakori volt az unokahúgokkal és más közeli családtaggal való házasságkötés és az abból származó utód. [Ezen](https://line.17qq.com/articles/gpooooojz.html) oldalon és az [alábbi](https://youtu.be/HPUkY38lZrA?si=LxzdwMlq4deNGJRj) videóban bőven látunk képeket a megannyi torz, elsősorban állaikkal különleges Habsburgról.  
+A Habsburgok zsidóságát az is bizonyítja, hogy a szemitákra jellemző belterjességet gyakorolták. Gyakori volt az unokahúgokkal és más közeli családtaggal való házasságkötés és az abból származó utód. Az interneten sima kereséssel és az [alábbi](https://youtu.be/HPUkY38lZrA?si=LxzdwMlq4deNGJRj) videóban bőven látunk képeket a megannyi torz, elsősorban állaikkal különleges Habsburgról.  
 Kubínyi Tamás egy műsorában azt mondja, hogy nemcsak a csontszerkezetben, hanem a belső szervekben is anomáliákat mutattak ki.  
 
 Nemcsak (bizonyítottan) Fráter Györgyöt, hanem Zrínyi Miklóst, gróf Széchenyi Istvánt (hazugság, hogy öngyilkos lett volna) és még sokakat ők tettek el láb alól.  
