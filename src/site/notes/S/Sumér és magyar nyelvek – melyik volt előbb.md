@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2025-09-28T21:23"}
+{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2025-10-10T21:54"}
 ---
 
 
@@ -47,7 +47,7 @@ A Halotti Beszédben megtetszik neki a következő szöveg: *Halalnek halalaal h
 Sumerből ismert(?) tagokból összeállítja, ad hoc módon, majd a mai nyelvünkön értelmes "Halálnak halálával halsz" szövegnek megadja a "sumer szó szerinti fordítását": Teljes pusztulásnak, teljes pusztulásával, pusztulsz el.  
 Tulajdonképpen abban a korban, amikor a magyar (már ha nem idegen, magyarul rosszul tudó papok követték el a szövegeket) küszködik a latin írásmóddal, furcsa szóalakokat használ, a sumerológus ráveti magát és megerőszakolja a szöveget.  
 
-Egy másik Novotny-tól:  
+Egy másik Novotnytól:  
 > Népünk ajkáról a csodálkozás kifejezéseként gyakran halljuk ezt a felkiáltást: "Atya Úristen!"  
 > Ennek sumir prototipusa: AT-HA (ADDA-ból) – UR-US-TEN. Ha ezt a szöveget, a mai szórendünkhöz alkalmazkodva, helyesen akarjuk értelmezni, úgy a szórendet teljesen meg kell változtatni és pedig a következőképpen: Élet (Tin v. TEN) – halál (US v. IS) őriző (UR) atyja (AT-HA). Ez tehát fordított szórend!  
 
