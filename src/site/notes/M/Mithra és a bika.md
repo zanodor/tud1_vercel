@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra és a bika/","title":"Mithra és a bika","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T02:41","updated":"2025-09-24T13:43"}
+{"dg-publish":true,"permalink":"/M/Mithra és a bika/","title":"Mithra és a bika","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T02:41","updated":"2025-10-10T21:52"}
 ---
 
 
@@ -186,4 +186,4 @@ Erre értheti Jankovics Marcell:
 Mithras létrájának van egy nyolcadik foka is, ez a boiygószférákon túli égi kapu az istené, amiben értelemszerűen benne foglaltatik, hogy Mithras nem Nap, nem a "hetek" egyike, csak időről időre, mint a kapuban álló Orion is, egyesül vele.  
 
 [^3]: Lábjegyzet:  
-John M. Jenkins és Szántai Lajos (2017-ben) is azt mondja, hogy a csillagok a Tejútrendszerből, Tejútközpontból származnak, nem az Orionból. Erről volt szó [[G/Galactic centre\|Galactic centre]] címnél is. Nem különböztetik meg Napunk anyját és apját.  
+John M. Jenkins és Szántai Lajos (2017-ben) is azt mondja, hogy a csillagok a Tejútrendszerből, Tejútközpontból származnak, nem az Orionból. Erről volt szó [[G/Galactic centre\|Tejútközpont]] címnél is. Nem különböztetik meg Napunk anyját és apját.  
