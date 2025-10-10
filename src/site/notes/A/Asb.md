@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2025-09-29T02:33"}
+{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2025-10-10T21:54"}
 ---
 
 
@@ -23,7 +23,7 @@ Hogy most valójában az Asva vagy az Asvin a kiinduló szó, nehéz megmondani,
 Lehetséges, hogy a bővítményesként megjelenő adatot, a többes számot vette át az ind, aztán abból lett utána `asva`, az óperzsa `aspa` és a perzsában `asb`. De Ashvini Ász-Fény olvasata mellett [[O/Ösvény\|ösvény]] is lehetne, mivel a Tejút sávja is ott van.  
 
 Ló(fejű?)-ikerpár az angolszász mondakörben is előjön: lásd [[H/Hengist és Horsa\|Hengist és Horsa]]. Ezen mondai kör, ahogy az ind is magyar-hun elődre kell visszamenjen.  
-[[F/Fehér és fekete#Fehér és fekete ló\|Fehér és fekete ló]] cím/alcímnél Csontváry-nál és és az ott is említett [[S/Szent László és a leányszöktető kun\|Szent László legendá]]ban is megjelennek az ikerlovak, fehér és fekete leosztásban.  
+[[F/Fehér és fekete#Fehér és fekete ló\|Fehér és fekete ló]] cím/alcímnél Csontvárynál és és az ott is említett [[S/Szent László és a leányszöktető kun\|Szent László legendá]]ban is megjelennek az ikerlovak, fehér és fekete leosztásban.  
 
 #### Angelo de Gubernatis Zoological Mythology...  
 
