@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2025-09-28T21:29"}
+{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2025-10-10T21:55"}
 ---
 
 
@@ -38,7 +38,7 @@ Egyébként Falvay könyvének adatait olvasva a nála (is) nőiségi mennyről,
 
 [[O/Ország\|Ország]] (és még [[K/Kalama\|Kalama]] és [[K/Korona\|korona]]) címnél írottak alapján egyértelművé válik (és miután [[K/KUR\|KUR]] is lehet hegy és ország és KUR = HUR is lehet), hogy Ninhursag neve sem jelent mást, mint (Égi/Menny)Ország Úrnője/Hercegnője.  
 Az [alábbi](https://mek.oszk.hu/01200/01267/html/01kotet/01r02f04.htm) Nagy Képes Világtörténet internetes oldalán előjön egy khaldeai **Kharszag Kalamma** kifejezés, melyet "szent hegység," "az istenek hegysége" értelemmel adnak meg.  
-Ez a névváltozat is mutatja, hogy [[O/Ország\|ország]] szavunknak több írott változata volt. Ezen passzus [[H/Herceg\|herceg]] címnél is szerepelt, ahogy a hozzá tartozó, [ezen](http://www.gpedia.com/en/m/gpedia/Wikipedia:Articles_for_deletion/Kharsag) linkre is ott felhívtam a figyelmet.  
+Ez a névváltozat is mutatja, hogy [[O/Ország\|ország]] szavunknak több írott változata volt. Ezen passzus [[H/Herceg\|herceg]] címnél is szerepelt, ahol a hozzá tartozó, [ezen](https://en.m.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Kharsag) linkre is ott felhívtam a figyelmet.  
 
 A Falvay Károly Nagyboldogasszony című könyvének 302. oldalán Marija Gimbutastól vett szarvassal kapcsolatba hozott sumér istennő nevét nem sikerült eddig megtalálni. [[D/Damkina\|Damkina]] vagy Ninhursag lesz. Közös bennük, hogy mindketten En-Ki nejei. Márpedig Bobula Ida The Great Stag című dolgozatában Enki-Ea istenséggel hozatott kapcsolatba szarvas, de nekünk ünő kell.  
 ![assets/Ninhursag_image2.png|fix_dark fix_light|840](/img/user/N/assets/Ninhursag_image2.png)  
