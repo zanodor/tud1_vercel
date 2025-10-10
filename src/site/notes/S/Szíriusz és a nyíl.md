@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:54","updated":"2025-09-23T23:36"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:54","updated":"2025-10-10T21:52"}
 ---
 
 
@@ -32,7 +32,7 @@ Ez az elképzelés mondjuk ellentmond [[S/Száj\|száj]] és más címnél írot
 
 </div></div>
 
-- José Lull és Juan Antonio Belmonte The Constellations of Ancient Egypt című dolgozatukban a Brosch által elővetített képet pontosítva szólnak arról, hogy a két hasonló név, Sothis és Satet nem egy és ugyanaz; azt írják, hogy (későbbi befolyás miatt?) tulajdonképpen kétszer van meg Szíriusz az Állatövi csillagképek között. Arról is van szó, hogy ez egy későbbi, idegen hatás eredménye is lehet. Ezt Brosch elmulasztja megemlíteni. Lásd a dolgozatot képekkel [[S/Sothis\|Sothis]].  
+- José Lull és Juan Antonio Belmonte The Constellations of Ancient Egypt című dolgozatukban a Brosch által elővetített képet pontosítva szólnak arról, hogy a két hasonló név, Sothis és Satet nem egy és ugyanaz; azt írják, hogy (későbbi befolyás miatt?) tulajdonképpen kétszer van meg Szíriusz az Állatövi csillagképek között. Arról is van szó, hogy ez egy későbbi, idegen hatás eredménye is lehet. Ezt Brosch elmulasztja megemlíteni. Lásd a dolgozatot képekkel [[S/Sothis\|Sothis]].
 
 > Sirius itself was called "the Arrow" both by ancient Sumerians and ancient Babylonians (Britton & Walker 1996; see Figure 2.13). The arrow was apparently fired from Orion's bow.  
 > The Babylonian asterism was called "bow and arrow" (MUL.BAN, Chapman-Rietschi 1995; lásd [[M/Mul.Pan\|Mul.Ban]]), and it contained the star δ CMa. Sirius was at the tip of the arrow (Brecher 1979).  
@@ -81,7 +81,7 @@ Minden továbbit erről, Tilak Orionját követve is lásd [[M/Mrigashira\|Mriga
 > The star Sirius, the dog-star of Western tradition, is called the Celestial Wolf (Tien-lang) in China. A common Chinese theme describes three stars in Canis Major and one star from Argo as an arrow pointed at the Celestial Wolf. There is no direct evidence to link this case of shooting the wolf of heaven with the shooting of various mythic or sacrificial dogs. The hound and wolf of heaven are brought together, however, in their function: both guard the celestial palace of [[S/Shang-ti\|Shang-ti]][^2], the constellation of **Ursa Major**, itself a land of the heroic dead in ancient Chinese thought.  
 > —  
 > A Szíriusz csillagot, a nyugati hagyomány kutya-csillagát Kínában égi farkasnak (Tien-lang) nevezik. A kínaiaknál gyakran a Canis Major három csillaga és az Argo egyik csillaga az Égi Farkasra mutató nyílvesszőként jelenik meg. Nincs közvetlen bizonyíték arra, hogy az égi farkas kilövésének ezt az esetét összekapcsolnánk a különböző mitikus vagy áldozati kutyák kilövésével. Az égi kopó és az égi farkas azonban funkciójukat tekintve összeforr: mindkettő őrzi [[S/Shang-ti\|Shang-ti]] égi palotáját[^2], a **Ursa Major** csillagképet, amely maga is a hősi halottak földje az ősi kínai gondolkodásban.  
-- Lásd még [[S/Szíriusz Kínában\|Szíriusz Kínában]].  
+- Lásd még [[S/Szíriusz Kínában\|Szíriusz Kínában]].
 
 Egy újdonsült ("fringe" kutatóként[^3] nyilván rengeteg zagyvalékkal, de hátha hasznos dolgokkal is előálló) kutató,...  
 
@@ -93,7 +93,7 @@ Egy újdonsült ("fringe" kutatóként[^3] nyilván rengeteg zagyvalékkal, de h
 > —  
 > A Második Világ Bárkája azonosítható az Argóval, már csak azért is, mert az Argo egy hajó volt, és 50 csillag volt rajta, a Második Világ szent száma. Mindkét korszak a Szíriuszhoz kapcsolódik, amely szintén mindkét korszak mérője volt[^4]. A Szíriuszt egy nyíllal azonosították (talán az idő nyilának szimbólumának eredete?), és állítólag árvizeket okozott. A babiloni újévben a Szíriusz a mul.KAK.SI.DI, 'aki a tenger mélységét mériʼ néven volt ismert. A [[M/MUL\|mul]] a csillagot jelentő előtag, a KAK.SI.DI jelentése 'nyílʼ, és ez a nyíl a mélység – a mélység mérője. Ez közvetlenül kapcsolódik a mélység sós vizének mítoszához, amely az özönvizet okozta. A fa kivágása okozta az örvény létrejöttét. Ezt a kozmikus tengelynek vagy a Világ köldökének nevezték. A köldök az emberi testben lévő "lyuk", amely összekötötte annak belsejét az anyával, a táplálóval, a gyermek és a szülő közötti "kozmikus tengelyt".  
 > A legendák szerint **ha nyilat lőttek a nyílásba, az tüzet okozott**. Így amikor a Szíriusz a mélységet mérte, és beledobta a nyilát, azt mondták, hogy tüzet okozott a mélységben.
-- A nyíl, mint [[V/Villám\|villám]]köteg viszont a teremtést ([[K/Kutyanemzés\|kutyanemzés]]t: lásd Jankovics Marcell írását alant) is szimbolizálja, azaz itt a tűz alatt lényegében olyan sugárzást lehet érteni, melyről [[H/Henry Kroll\|Henry Kroll]] is szólt könyvében.  
+- A nyíl, mint [[V/Villám\|villám]]köteg viszont a teremtést ([[K/Kutyanemzés\|kutyanemzés]]t: lásd Jankovics Marcell írását alant) is szimbolizálja, azaz itt a tűz alatt lényegében olyan sugárzást lehet érteni, melyről [[H/Henry Kroll\|Henry Kroll]] is szólt könyvében.
 
 > But – and this is the key aspect that got parked outside of the debate – Sirius was not the only star that made this 'arrowʼ, that was part of the 'plumb lineʼ measuring the Abyss. Its colleague in those tasks was [[C/Canopus\|Canopus]], which we have already identified with the plumb line, if only in its concept of 'heavy.' One of the reasons why Sirius and Canopus are deemed to measure the Abyss is because Canopus is situated virtually directly South from Sirius. Visually, a line connecting Sirius and Canopus would thus be considered a 'plumb line,' with Canopus the weight at the bottom of it. As Canopus was the star of the 'opening' we must realise this 'measuring of the Deepʼ was not solely the work of Sirius – for the measuring would obviously take the measurement from Canopus, the 'ceilingʼ to which the waters of the Deep could rise before the cistern overflowed and deluged the fresh waters. To conclude with a final series of quotes from The Canopus Revelation: "So in astronomical mythology, Sirius and Canopus seemed to play with the hole Canopus was blocking. If Canopus, in the form of a tree, was felled, it opened the Abyss and its salt water: a Deluge. If at the same time Sirius dropped into the hole of Canopus, measuring the depth of the Abyss, the result was fire.  
 > —  
