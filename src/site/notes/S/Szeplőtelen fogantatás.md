@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2025-09-28T21:21"}
+{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2025-10-10T21:52"}
 ---
 
 
@@ -197,7 +197,7 @@ Még ami itt érdekes, az az, amit...
 
 ## Szűznemzésre képes állatok
 
-A méhekről és a növényekről volt szó fentebb. [Ezen](https://index.hu/tudomany/gyik061221/) oldalon komodói varánusz (sárkánygyíknak is nevezik) önnemzéséről volt szó, nemrég pedig [ezen](https://msn.com/hu-hu/hirek/other/képes-a-szűznemzésre-a-veszélyeztetett-kaliforniai-kondor/) oldalon kaliforniai kondorról jegyezték fel ezt a képességet (két hím fióka kelt ki egy-egy meg nem termékenyített tojásból).  
+A méhekről és a növényekről volt szó fentebb. [Ezen](https://index.hu/tudomany/gyik061221/) oldalon komodói varánusz (sárkánygyíknak is nevezik) önnemzéséről volt szó, nemrég pedig [ezen](https://index.hu/techtud/2021/10/30/keselyu-kaliforniai-kondor-szuznemzes/) oldalon kaliforniai kondorról jegyezték fel ezt a képességet (két hím fióka kelt ki egy-egy meg nem termékenyített tojásból).  
 Ezek után nem véletlen, hogy a [[T/Tojás\|tojás]] (a nőiség, a női istennő szimbóluma) az eredetmítoszok állandó kelléke és hogy a [[S/Sárkány\|sárkány]] a [[T/Tejútanya állatalakjai\|Tejútanya egyik mitikus-állatalakja]].  
 
 #### Greg Rigby The God Secret...
