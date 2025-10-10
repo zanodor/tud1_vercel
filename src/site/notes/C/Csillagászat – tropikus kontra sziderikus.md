@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csillagászat – tropikus kontra sziderikus/","title":"Csillagászat – tropikus kontra sziderikus","tags":["Englishtexttranslated"],"created":"2023-11-09T12:57","updated":"2025-09-28T21:22"}
+{"dg-publish":true,"permalink":"/C/Csillagászat – tropikus kontra sziderikus/","title":"Csillagászat – tropikus kontra sziderikus","tags":["Englishtexttranslated"],"created":"2023-11-09T12:57","updated":"2025-10-10T21:53"}
 ---
 
 
@@ -63,7 +63,7 @@ Más kérdés, hogy milyen egyiptomi adatok (akár egyiptomi naptár szerint kif
 
 Például Az egyiptomi naptárrendszer (Szóthisz-periódus ([[S/Sothic\|Sothic]] cycle)) keletideje – az alexandriai Theon szerint – csillagászati pontossággal i.e. 4241. július 19. Azaz (a maják időszámításával való szinkronizáláshoz hasonlóan) úgy számolnak, hogy több mint 6000 éve is július 19.-én volt a Szíriusz heliákus kelése. Priskin Gyula a Dendera zodiacs című tanulmányában is ilyen adattal (A reliable source for its timing in Dendera in the 1st century BCE is the foundation date of the temple, 16 July 54 BCE) jön elő és végül kimondja, hogy a Julián-év majdnem teljesen megegyetik a Sothis-évvel (amely M. F. Ingham The Length of the Sothic Cycle c. cikkének adata szerint is mindig kb. 365 1/4 nap).  
 
-[[S/Sothic\|Sothic]] címnél állnak a különböző dátumok az egyiptomi Szíriusz heliákus kelésekre (mind hasonló, július 16. körüli dátum). Ezen dátumoknak viszont megfelelnek egy másik naptárral számoló, kínai és koreai kutyaünneppel ([[P/Pan-Hu\|Pan-Hu]]) vagy kutyaevéssel (lásd friss NY Times cikket [[K/Kutya\|kutya]]) magukra figyelmet felhívó távol-keleti népek dátumai is. Természetesen ezek is a nyugati rendszerre átszámítottak, ezért felelnek meg egymásnak. (A nyugati ember nem értené meg, mint jelent Thot 1, vagy mittudomén "Xiang Lu." Ezért van lefordítva. Csak ha ugye a nyelvet is hamisítom, akkor a fordítás is más lesz...Ha naptárt hamisítom, akkor az időpont lesz más.)  
+[[S/Sothic\|Sothic]] címnél állnak a különböző dátumok az egyiptomi Szíriusz heliákus kelésekre (mind hasonló, július 16. körüli dátum). Ezen dátumoknak viszont megfelelnek egy másik naptárral számoló, kínai és koreai kutyaünneppel ([[P/Pan-Hu\|Pan-Hu]]) vagy kutyaevéssel (lásd NY Times cikket [[K/Kutya\|kutya]]) magukra figyelmet felhívó távol-keleti népek dátumai is. Természetesen ezek is a nyugati rendszerre átszámítottak, ezért felelnek meg egymásnak. (A nyugati ember nem értené meg, mint jelent Thot 1, vagy mittudomén "Xiang Lu." Ezért van lefordítva. Csak ha ugye a nyelvet is hamisítom, akkor a fordítás is más lesz...Ha naptárt hamisítom, akkor az időpont lesz más.)  
 
 Nem az áll a Julian- és Gergely-naptár hátterében, hogy le akarták fagyasztani az időt a Vaskorban?  
 
@@ -71,8 +71,8 @@ Lehet, hogy csak a Szíriusz-tisztelet elfeledtetése állna a Julián- és [[G/
 Ezeknek a dolgoknak pontos kiderítése várat még magára, egész egyszerűen azért (is), mert sok a fehér folt.  
 
 Az alábbi okfejtés vajon mit ér:  
-[[S/Sidereal\|Sidereal]] (és [[S/Side\|side]]) címnél szerepelt legutóbb, hogy a latin `sidus` = csillag a Szíriuszra utaló név (az elképzelést támogatja, hogy az ainu és mundari nyelvben `seta` = kutya; [[S/Széth\|Széth]] neve valóban ilyen még) és arról is szóltunk, hogy Egyiptomban is vele kezdték az évet. Mennyivel könnyebb is egy csillaghoz mérni a számítást, mint a Tejútközponthoz, melyen való Napáthaladás sokkal nehezebben mérhető (a kis éves évszámítást tekintve is). Aztán arról persze lehet szó, hogy a Szíriuszhoz képest be tudták mérni majd a másik, innenső (déli) oldalt is, csakhogy a Szíriusz úgy tudom, nem pontosan méri ki a felet. ([[G/Galactic centre\|Galactic centre]] címnél lábjegyzetben szerepelt.)  
-[[G/Galactic centre\|Galactic centre]] címnél az is előjött egyébként, hogy csak a sziderikus számítás szerint van a Tejútközpont a Nyilas 6. fokán.  
+[[S/Sidereal\|Sidereal]] (és [[S/Side\|side]]) címnél szerepelt legutóbb, hogy a latin `sidus` = csillag a Szíriuszra utaló név (az elképzelést támogatja, hogy az ainu és mundari nyelvben `seta` = kutya; [[S/Széth\|Széth]] neve valóban ilyen még) és arról is szóltunk, hogy Egyiptomban is vele kezdték az évet. Mennyivel könnyebb is egy csillaghoz mérni a számítást, mint a Tejútközponthoz, melyen való Napáthaladás sokkal nehezebben mérhető (a kis éves évszámítást tekintve is). Aztán arról persze lehet szó, hogy a Szíriuszhoz képest be tudták mérni majd a másik, innenső (déli) oldalt is, csakhogy a Szíriusz úgy tudom, nem pontosan méri ki a felet. ([[G/Galactic centre\|Tejútközpont]] címnél lábjegyzetben szerepelt.)  
+Utóbbi címnél az is előjött egyébként, hogy csak a sziderikus számítás szerint van a Tejútközpont a Nyilas 6. fokán.  
 Sagittarius Wiki oldalán álló adatsor:  
 > As of 2002, the Sun appears in the constellation Sagittarius from 18 December to 18 January. In tropical astrology, the Sun is considered to be in the sign Sagittarius from 22 November to 21 December, and in sidereal astrology, from 16 December to 14 January.  
 > —  
@@ -99,7 +99,7 @@ Bolygónk az óramutató járásával ellentétes irányba haladva 365,256 nap a
 —  
 "Mi, tudósok azt állítanánk, hogy a precesszió hiányában a trópusi év és a sziderikus év egyenlő lenne." – Prof. Douglas P. Hube, Albertai Egyetem Fizika Tanszék, IAU-tag, a Karl-Heinz Homann által neki benyújtott kézirathoz fűzött megjegyzéseiben, 1997.  
 ——  
-Az [ezen](https://therealastrology.com/information/about-astrology/17-tropical-vs-sidereal.html) oldalon író Kevin Burk adatai tropikus kontra sziderikus zodiákus kérdésben [[T/Tavaszi évkezdés\|tavaszi évkezdés]] címnél szerepeltek.  
+Az [ezen](https://web.archive.org/web/20201029132835/https://therealastrology.com/information/about-astrology/17-tropical-vs-sidereal.html) oldalon író Kevin Burk adatai tropikus kontra sziderikus zodiákus kérdésben [[T/Tavaszi évkezdés\|tavaszi évkezdés]] címnél szerepeltek.  
 
 [^3]: Lábjegyzet:  
 Time Equivalence of the Tropical Year and the Sidereal Year PDF  
