@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2025-10-04T18:00"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2025-10-10T21:51"}
 ---
 
 
@@ -73,7 +73,7 @@ A csúsztatás egyik példájáról [[S/Szemitizmus#Antiszemitizmus\|antiszemiti
 
 A csúsztatás egyik példája, hogy ha [[F/Firdauszi\|Firdauszi]] megírja, hogy [[I/Irán és Turán\|Irán és Turán]] testvérek, akkor az iráni és turáni népek is egyidősnek tekintendők, nem igaz? Egy frászt. De viszont az, hogy [[S/Széth\|Széth]] is régebbi isten (igaz, korábbinak mondják), mint Ozirisz, már nem jelenthető ki, mert itt nem lehet geneológiai sorrendről beszélni. Ahogy másutt bővebben írtam, a lineáris gondolkodást ki kell dobni.  
 
-Meg kell említeni a véletlen fogalmát is. Ezen alábbi, saját csatornámra feltöltött Őszi szemeszternyitó című ÁKA [előadásban](https://www.youtube.com/watch?v=xWeQi7rQE98) Kubínyi Tamás azzal kezdi, hogy azt mondja, hogy "a véletlen a Jóisten udvariassága," mert meghagyja az embernek, "higyjed azt, hogy véletlen," de semmi sem véletlen.  
+Meg kell említeni a véletlen fogalmát is. Ezen alábbi, saját csatornámra feltöltött Őszi szemeszternyitó című ÁKA [előadásban](https://www.youtube.com/watch?v=xWeQi7rQE98) Kubínyi Tamás azzal kezdi, hogy azt mondja, hogy "a véletlen a Jóisten udvariassága," mert meghagyja az embernek, "higgyed azt, hogy véletlen," de semmi sem véletlen.  
 Mások másutt úgy szokták mondani, hogy a tudatlan ember számára vannak véletlenek, de az aki ismeri a dolgok, a történelem menetét, a dolgok összefüggéseit, azok számára nincsenek véletlenek.  
 Kicsit hasonló, sőt, nagyon is hasonló a helyzet a háttérhatalom üzelmeinek leleplezéséhez: a legtöbb ember a háborúkat és a vírusokat véletlennek gondolja, holott nagyon is irányított eseményekről van szó.  
 Ha már itt tartunk, a jogban ismert tétel, hogy a jogszabály nem ismerete nem ment fel a bűnelkövetésre kiszabott büntetési tétel alól (tehát a Magyarországra bevándorló muszlim férfi fiatal miniszoknyás lányon elkövetett erőszakos cselekménye büntetőjogi felelősségének tudatában nem léte ellenére büntetést kap).  
