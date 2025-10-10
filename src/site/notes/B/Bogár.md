@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bogár/","title":"Bogár","created":"2025-03-30T03:51","updated":"2025-03-30T03:52"}
+{"dg-publish":true,"permalink":"/B/Bogár/","title":"Bogár","created":"2025-03-30T03:51","updated":"2025-10-10T21:56"}
 ---
 
 
@@ -12,12 +12,14 @@ Azért tartalmazza a [[B/BOG\|Bog]] Napnevet (Bog-Ár: Nap Úr; angol [[B/BUG#Bu
 ...passzusa is idetehető:  
 > [[M/Magor\|Magor]] és a magyar törzsek jelképe a gömb, illetve a mag és gyümölcs, az alkotás, termékenyítés e szimbólumai voltak. Magor szent állata volt elsősorban a szarvas, de szent állataik voltak a magvakat terjesztő madarak, továbbá a hímport és megtermékenyülést közvetítő bogarak és legyecskék, pillangók is, különösen a gömbölyded alakúak, amilyen a [[K/Katicabogár\|katicabogár]] is, amely szent volt azért is mert a levéltetveket pusztítja, úgyhogy nélküle számos növény termelése egyáltalán lehetetlen volna.  
 
-Fáy Elek is jól látja, amikor A magyarok őshona című könyvének 176. oldalán kb. azt írja, hogy a bogár és a [[M/Madár\|madár]] a mag-erőt tudják lehozni (lásd még csatolt képi adatát [[M/Madár\|madár]]) (bogár témát lásd még [[F/Féreg\|féreg]]).  
+Fáy Elek is jól látja, amikor A magyarok őshona című könyvének 176. oldalán kb. azt írja, hogy a bogár és a [[M/Madár\|madár]] a mag-erőt tudják lehozni (lásd még csatolt adatát [[M/Madár\|madár]]) (bogár témát lásd még [[F/Féreg\|féreg]]).  
 
 #### Magyar Adorján Kérdések...  
 
 ...című könyvében írja:  
 > Véletlen-e, hogy a magyar bogár szónak teljesen megfelel az olasz `bacarozzo`, római tájszólásban `bagarozzo`? Az olaszban -ozzo, -azzo, -occio (olvasd: -occo, -acco, -occso) ugyanaz, mint a magyar -ocs, -acs, például a kapocs, labdacs, kövecs, bogaracska szavakban.  
+
+[Ezen](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/b%C7%ABbar%D1%8A) Wiktionary oldalon kiderül, hogy más nyelvekben is vannak hasonló alakok, méh, dongó, és bogár jelentésekkel: szanszkrit `bambharaḥ` = méh, szerb-horvát `бу̏мба̄р` = dongó, stb.  
 
 #### Kállay Ferenc A pogány magyarok vallása...
 
