@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated"],"created":"2023-11-15T04:40","updated":"2025-09-24T13:44"}
+{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated"],"created":"2023-11-15T04:40","updated":"2025-10-10T21:52"}
 ---
 
 
@@ -117,7 +117,7 @@ Rigby könyvének 93. oldalán szól kettősükről. Fentebb is szó volt róluk
 
 ## Ízisz és Ozirisz
 
-Plutarkhosznak írása ez [alábbi](https://penelope.uchicago.edu/Plutarch/Isis_and_Osiris) oldalon található róluk.  
+Plutarkhosz írása róluk [ezen](https://penelope.uchicago.edu/thayer/e/roman/texts/plutarch/moralia/isis_and_osiris*/a.html) oldalon található angolul.  
 
 #### Thomas Inman Ancient Pagan and Modern Christian Symbolism...  
 
