@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Naga/","title":"Naga","tags":["Englishtexttranslated"],"created":"2023-10-13T01:24","updated":"2024-10-25T23:34"}
+{"dg-publish":true,"permalink":"/N/Naga/","title":"Naga","tags":["Englishtexttranslated"],"created":"2023-10-13T01:24","updated":"2025-10-10T21:56"}
 ---
 
 
@@ -12,14 +12,16 @@
 
 #### Péterfai János...
 
-...Bakos Attila könyve megjelenése után írhatja:  
+...írja:  
 > A Naga [[K/Kígyó\|kígyó]] neve a mai Nagy szavunk változata, továbbá a Nagák az egyik fontos ősi magyar nép. Na-Ga értelemben Nagy-Ház magyarul, ami az égboltra vonatkozik. A nagák szkythafélék, vagyis magyarok a csudaországból. A Nagák, mint tipikus magyar nép, nyugatról indultak útnak, és keleten messze Japánig jutottak. Japán egyik magyar törzse, akik betelepítették a nagy szigeteket.  
+
+Az az érdekes, hogy a japán `長` (`naga`) = hosszú jelentésű. Ami keskeny, az hosszú (nagy); lásd [[M/Meagre\|meagre]].  
 
 #### Varsa Mátyás A legrégibb magyar mítosz...
 
 ...című tanulmányában előjön az Naga névhez hasonló ugor mitológiai név, és nyilván itt is az égből való leszármazásra kell gondolni:  
 > Nga teljes neve Ljuba-Nga, mely szó szerinti jelentésben: "istenárva." Az enyecekkel közeli rokonságban lévő nganaszánok mitológiájában a Ljuba-Nga-nak megfelelő alakot Djuba-Nga-nak vagy Djojba-Nguo-nak hívják (a név jelentése ugyanaz: "istenárva;" egyébként maga a nganaszán név is a törzs istentől való származására mutat). Djuba-Nga sokszor megkettőződve létezik. Az egyik Djuba-Nga az árva hős, a másik Dia, vagyis ugyanaz a Djuba-Nga, égi síelőként, cselvetőként és csalóként.  
-- Az istenárva fordítást illetően nyilván hozzákapcsolt jelentésről van szó.  
+- Az istenárva fordítást illetően nyilván hozzákapcsolt jelentésről van szó.
 
 #### Péterfai János folytatja:
 
@@ -32,16 +34,18 @@ Arról másutt is volt szó, hogy a kígyó és a sárkány sokszor ugyanígy ke
 
 A Kígyó a Tejút, ami Út. Ezért lehet az arab `nahj` (názs) = út, ösvény.  
 
-David Gordon White könyvében említi a ma is élő Naga néppel kapcsolatban, hogy a [[S/Szabir\|szabir]] népnevünkkel azonosuló Sabara néphez hasonlóan nagy tiszteletben tartják a kutyát és magukat is tőlük származtatják:  
+#### David Gordon White Myths of the Dog-Man...  
+
+...című könyvében említi a ma is élő Naga néppel kapcsolatban, hogy a [[S/Szabir\|szabir]] népnevünkkel azonosuló Sabara néphez hasonlóan nagy tiszteletben tartják a kutyát és magukat is tőlük származtatják:  
 > The Sabaras are among the few indigenous peoples in India today for whom the dog plays an auspicious role. Pet dogs, whom they honor as brothers, are given burial rites by the Sabaras. The Ao Nâgas, another tribal group, also revere the dog, and are the sole people of the subcontinent to have a dog ancestry myth. One cannot discount the possibility that the orthodox association of these peoples with the dog had a certain ethnographic element.  
 > —  
 > A szabarák azon kevés őslakos népek közé tartoznak ma Indiában, akik számára a kutya szerencsehozó szerepet játszik. A szabarák temetési szertartást tartanak a házi kutyáknak, akiket testvérként tisztelnek. Az ao-nagák, egy másik törzsi csoport, szintén tiszteli a kutyát, és ők az egyetlen nép a szubkontinensen, amelynek van egy kutya-ősökről szóló mítosza. Nem zárható ki annak a lehetősége, hogy e népek kutyával való ortodox társításának volt egy bizonyos néprajzi eleme.  
 
-Bakos Attila A Duna Evangéliuma című könyvének 169-171. oldalán mint az atlantiszi kultúra átmentőit tárgyalja a mayákat, naga-mayákat (amennyiben figyelembe veendő). A 183. oldalról a Rámáyana költemény naga-mayáit tárgyalja.  
+Bakos Attila A Duna Evangéliuma című könyvének 169-171. oldalán mint az atlantiszi kultúra átmentőit tárgyalja a mayákat, naga-mayákat (amennyiben figyelembe veendő). A 183. oldalról a [[R/Ramayana\|Rámáyana]] költemény naga-mayáit tárgyalja.  
 
-A szanszkrit `naga` = hegy jelentéséhez még jól passzol az óperzsa `nagan` = kenyér (hegy és kenyér jelentésű szavak mögött Napnevek állnak), melyből lett összehúzva a pahlavi/perzsa/ind `nân` = kenyér. De hol itt a Napnév? Nagy szabunk a Magy-Ar illetve a Na-Ga összetételből is levezethető. Folytatást lásd [[N/Nagy\|nagy]].  
+A szanszkrit `naga` = hegy jelentéséhez még jól passzol az óperzsa `nagan` = kenyér (hegy és kenyér jelentésű szavak mögött Napnevek állnak), melyből lett összehúzva a pahlavi/perzsa/szanszkrit `nân` = kenyér. De hol itt a Napnév? Nagy szabunk a Magy-Ar illetve a Na-Ga összetételből is levezethető. Folytatást lásd [[N/Nagy\|nagy]].  
 
-[[M/Magyar\|Magyar]] címnél, amikor a sémi `nahar` = folyó szóról (mely az arab Al Nahr = Tejút nevet is adja) volt szó, felvetődött bennem, hogy mivel az égi folyam égi kígyó, hogy a Naga név igenis lehet a Nagar (mely amúgy nemcsak a sémiben, hanem Indiában is ismert alak) és így a [[M/Magyar\|magyar]] névből származó.  
+[[M/Magyar\|Magyar]] címnél, amikor a sémi `nahar` = folyó szóról (mely az arab Al Nahr = Tejút nevet is adja) volt szó, felvetődött bennem, hogy mivel az égi folyam égi kígyó, hogy a Naga név igenis lehet a Nagar (mely amúgy nemcsak a sémiben, hanem Indiában is ismert alak) és így a `Magyar` névből származó.  
 Annál is inkább, mert létezett egy [[M/Magoraga\|Magoraga]] nevű kígyóistenség m-előhangosan.  
 
 Lásd még [[N/Nagar\|nagar]]. Lásd még [[N/Naga Vasuki\|Naga Vasuki]].  
