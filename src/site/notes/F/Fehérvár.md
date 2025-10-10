@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehérvár/","title":"Fehérvár","created":"2024-12-18T11:39","updated":"2025-09-24T13:52"}
+{"dg-publish":true,"permalink":"/F/Fehérvár/","title":"Fehérvár","created":"2024-12-18T11:39","updated":"2025-10-10T21:55"}
 ---
 
 
 # Fehérvár
 
 Kubínyi Tamás egy nemrégi műsorában és Szántai Lajos is egy előadásában kifejti, hogy bizonyos szövegek értelmezése alapján (Fehérvár és Buda egy szövegkörnyezetben úgy jön elő, mint kis távolság) sem lehet Fehérvár Székesfehérvárra utaló, hanem – a nem Fehér Várat jelentő – Visegrád értendő alatta.  
-Bakk István Miért apostoli királyság Magyarország 2. rész című az Ősi Gyökér 2013/4. sz. megjelent cikkében is ezt írja.  
+Bakk István Miért apostoli királyság Magyarország 2. rész című az Ősi Gyökér 2013/4. sz. megjelent cikkében is ezt fejti ki.  
 
 #### Bíró Lajos...  
 
@@ -14,7 +14,7 @@ Bakk István Miért apostoli királyság Magyarország 2. rész című az Ősi G
 > Mindez világosan mutatja, hogy Árpádnak, a Kendének (jelentése: hajnali Nap) Fehérvár, a későbbi Székes-Fehérvár\[?!\] volt a székhelye, Fejér megyében. Míg a másik fejedelem, a Gyula (jelentése: tűz, tűz-pap) az erdélyi Gyula-Fehérvárt alapította, az erdélyi Fehér megyében! Székes-Fehérvár és Gyula-Fehérvár tehát már 1300 éves fehér-magyar (= szabír, "kései avar") városok, és míg Székes-Fehérvár a Kende országrészének, Gyula-Fehérvár a Gyula országának, Erdélynek a központja lehetett. Ráadásul Árpádot egy Boldogasszonynak szentelt Fejér-egyháznál temették el egy kis patak forrása fölött. (Anonymus, 52. fej.) Az sem véletlen, hogy a kazár (= szabír!) főváros, Sarkel neve is "fehér ház"-at jelent, ahogy a háráni szabírok által igen tisztelt ókori Egyiptom fővárosának neve sokáig "Fehér Fal" volt.  
 > Az is figyelemre méltó, hogy [[R/Róma\|Róma]] régebbi neve **Alba Longa** volt (= hosszú fehér), és éppen mellette volt a szabin-szabell (vö.: szabir!) nép településterülete.  
 
-[Ezen](http://hierarhia.hu/kepek-magyarazatai/fehervar-alba-regale/) Okrona Tamás weboldaláról való részlet Dr. Lánszki Imre Fehérvár című előadásából:  
+[Ezen](https://web.archive.org/web/20220206151341/http://hierarhia.hu/kepek-magyarazatai/fehervar-alba-regale/) Okrona Tamás weboldaláról való részlet Dr. Lánszki Imre Fehérvár című előadásából:  
 ![assets/Fehérvár_image1.png|fix_dark fix_light|840](/img/user/F/assets/Feh%C3%A9rv%C3%A1r_image1.png)  
 > "Időrendi sorrendet nem tartva másodikként hadd citáljam azt a korabeli metszetet, amit a készítője talán 1685-ben alkotott (Magyar Nemzeti Múzeum), s ami a töröknek a mai budavári kiűzettetése (1686) előtt egy évvel datálódott. Az "IL ERO DISSEGNODELLA CITTA DI ALBA REGALE IN ONGARIA" feliratozású metszet egy négyosztatú várat ábrázol, amin egy központi pajzs vagy vasalólap formájú rész mellett egy előudvar, két hátsó udvar vagy várrész látható. Siklóssy Gyula, a mai székesfehérvári ásatások vezetője szerint ez egy hamis metszet, mert az ásatások Székesfehérvárott ennek korábbi létét nem igazolták. Váljon becsületére Siklóssy Gyulának, hogy ezt a metszetet a munkájában nem szerepelteti, hiszen ez az, amit pontosan az ökológiai és geomorfológiai sajátosságok, tünetek alapján tudok Budakalász mellé azonosítani!  
 > Sokan, többek között Bradák, Sashegyi, Szörényi, Noszlopi Németh Péter is elemezték ezt a dokumentumot, s keresték a fellelhetőségét valahol a Pilis környékén, de a Duna közvetlen közelségében. Elképzelésük abból indult ki, hogy az előváros előtt és annak a központi résszel való összeköttetésében mintha híd, netán legalábbis palló helyezkedik el, s a metszeten látható vár ábrázolás körül első értelmezésre én is folyó vizet vélelmeznék. Tekintettel arra, hogy ez a metszet a Magyar Nemzeti Múzeum metszettárában leltári tárgyként megtekinthető, engedje meg a kedves olvasó, hogy ökológiai alapon bizonyítsam be, hogy az ezen a metszeten látható vár igenis létezett, nem azonos, nem azonosítható a mai Székesfehérvárral, s nem a Duna közvetlen környezetében, hanem Budakalász, Üröm, Pilisborosjenő, Csobánka, Pomáz által körülhatárolt területen, a Kevélyek keleti oldalán volt és van."  
