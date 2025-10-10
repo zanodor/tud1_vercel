@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pünkösd/","title":"Pünkösd","tags":["Englishtexttranslated"],"created":"2024-12-18T11:44","updated":"2025-09-28T21:22"}
+{"dg-publish":true,"permalink":"/P/Pünkösd/","title":"Pünkösd","tags":["Englishtexttranslated"],"created":"2024-12-18T11:44","updated":"2025-10-10T21:53"}
 ---
 
 
@@ -116,7 +116,7 @@ Ezzel szemben 1914 augusztus elsején, amikor a Szaturnusz az Ikrek 4 fokán ál
 Az égen a Szaturnusz átszelte az isteni világba nyíló átjárót, a galaktikus középponttal való együttállásba (Nyilas 2 fok) október 17.-én került, mindössze nyolc nappal a Fekete Pénteki krach előtt.  
 Látható hogy az ilyen galaktikus együttállások rendkívűl erősek akár pozitív (Pünkösd) akár negatív (krízisek) értelmében.  
 Fontos megemlíteni, hogy nem csak a 2012-es téli napforduló, de a 2012-es ablakban, 1980-tól 2016-ig minden napforduló galaktikus egybeesést alkot.  
-Erről a 36 évről esett szó [[G/Galactic centre\|Galactic centre]] címnél.  
+Erről a 36 évről esett szó [[G/Galactic centre\|Tejútközpont]] címnél.  
 
 [^2]: Lábjegyzet:  
 Májusfáról és hasonló indiai hagyományairól lásd Sir James Frazer The Golden Bough című könyvének 70. oldalától és az ő adatait is feldolgozó Jankovics Marcell A fa mitologiája c. könyvének 157. oldalától.  
