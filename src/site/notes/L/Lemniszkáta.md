@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated"],"created":"2024-04-22T01:48","updated":"2025-09-24T13:44"}
+{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated"],"created":"2024-04-22T01:48","updated":"2025-10-10T21:52"}
 ---
 
 
@@ -54,12 +54,12 @@ Ami [[K/Kötél\|kötél]] címnél állt:
 Megkötni a kutyát szokták, és [[K/Köt\|köt]], [[K/Kut\|kut]], [[K/Kutya\|kutya]] és másutt írottak alapján a Szíriusz nem is változtatja helyét (hivatalos [[P/Precesszió\|precesszió]] elmélet ide vagy oda): ki van kötve a Nappályánkhoz.  
 A kutya kötésére használt [[P/Póráz\|póráz]] szavunk Tilak Orionjának 145. oldalán is megjelenni látszik. [[O/Orion övcsillagai\|Orion övcsillagai]] címszó alján szóltunk legutóbb arról, hogy Tilak szerint az öv Orion övére utal. Viszont a póráz a kutyára, a Kutyacsilagra, annak megkötöttségére kell utaljon, vagy a Nappályához, vagy (látszólagosan?) Orionhoz.  
 [[L/Loop\|Loop]] címnél írtuk legutóbb, hogy [[R/Rope\|rope]]-pal közös eredetük lehet. Az imént taglalt megkötöttség pedig a lemniszkátára utal.  
-Az [[I/Idő\|idő]] és [[G/Galactic centre\|Galactic centre]] címnél is taglalt tizenkettesség előjött [[D/Dél#Dél és éjfél\|dél és éjfél]] cím/alcímnél, ahol szintén szóba került a lemniszkáta:  
+Az [[I/Idő\|idő]] és [[G/Galactic centre\|Tejútközpont]] címnél is taglalt tizenkettesség előjött [[D/Dél#Dél és éjfél\|dél és éjfél]] cím/alcímnél, ahol szintén szóba került a lemniszkáta:  
 ![assets/Lemniszkáta_image4.png|fix_light](/img/user/L/assets/Lemniszk%C3%A1ta_image4.png)  
 [Ezen](https://www.youtube.com/watch?v=kj00fWcqHCs) műsorban Pap Gábor elmondta, hogy Keleten nem a Nap-Föld viszonyhoz, hanem az eggyel nagyobb minőséghez, a Tejútnak a rendszeréhez viszonyítottak: a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]] adja meg az egész időrendszer tengelyét[^2]. Amit Pap Gábor nem említ, hogy a 12-es rendszerű kettősóra analógiáját[^3] megtaláljuk népünk ajkáról: a Jankovics Marcell A fa mitológiája című könyvének 160. oldaláról származó képileg mellékelt adata alapján az derül ki, hogy (az ellenlábasról szóló részben előjövő) eb, kutya fent, északon de déli 12 órára utalóan kerül említésre, míg a téli napfordulós [[L/Luca\|Luca]] nap éjfélre vonatkozik. Az [[E/Ebéd\|ebéd]] szavunk tehát valóban azt jelenti, amit Péterfai János mondott.  
 A téma ott folytatható, ahol [[B/Bal és jobb\|bal és jobb]], [[K/Kör#Kör – két kör\|kör – két kör]], [[F/Félév\|félév]], [[K/Kalács\|kalács]], lemniszkáta és más címnél abbahagytuk: a tizenkettesség 24 órára, a kis és nagy éves időkörben 6 sötét és világos hónapra bontva lemniszkátára ültethető!  
 
-A [[K/Khamor#Khamor – Makor Íjazók\|Khamor – Makor Íjazók]] cím/alcímnél hosszasan kidolgozott téma végére azt írtuk, hogy lemniszkáta domború bal oldala Magor/Bukor/Bog-Úr, jobb oldala [[K/Khamor\|Khamor]], homorú. Azóta [[M/Meter#Meter 2)\|meter]] címnél írottak alapján arra jutottunk, hogy a [[M/Magyar\|magyar]]/[[M/Magor\|Magor]] nemcsak ívet, de kört is jelenthet (az állatkört is akár).  
+A [[K/Khamor#Khamor – Makor Íjazók\|Khamor – Makor Íjazók]] cím/alcímnél hosszasan kidolgozott téma végére azt írtuk, hogy lemniszkáta domború bal oldala Magor/Bukor/Bog-Úr, jobb oldala [[K/Khamor\|Khamor]], homorú. Azóta [[M/Meter#Meter 2)\|meter]] címnél írottak alapján arra jutottunk, hogy a [[M/Magyar\|Magyar]]/[[M/Magor\|Magor]] nemcsak ívet, de kört is jelenthet (az állatkört is akár).  
 Lásd még idevágó témát lentebb.  
 ![assets/Lemniszkáta_image5.png|fix_light](/img/user/L/assets/Lemniszk%C3%A1ta_image5.png)  
 
@@ -108,7 +108,7 @@ Az [[E/End\|end]] címnél taglalt hullám jelentésű latin `unda` és olasz `o
 Egészen elképesztő, hogy ami az egyik nyelvben H-N-G vagy rokon vázzal jelenik meg csatlakozik jelentéssel, egy másikban M-G(y)-R vázzal. Ezek a [[J/Join\|join]] címnél említett latin `jungere` (H>J) és a [[M/Magyar\|magyar]] címnél is említett japán `madzsiru` = összekapcsolni igék.  
 A Nógrády Mihály által [[M/Musen\|musen]] címnél adatolt akkád `mêsiru` = kötelék, póráz, kötél, lánc, béklyó, bilincs szó a japán ige párjának vehető. ([[M/Musen\|Musen]] címnél is írtam, hogy azt jegyezzük meg, hogy a [[M/Magyar\|magyar]] névnek megfelelő [[M/Madár\|madár]] is az ég és föld közötti kapcsolatban összekötő szerepet tölt be. Azt pedig a lentebb taglalt szárny témánál is látjuk, hogy szárnyas alak el is képzelhető.)  
 
-A Huszárik László Denderai csillagképek, hónapok és mítoszok című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében táblázatos adatként közölt asszír, az Ikrek csillagjegynek megfelelő Simanu hónap jelentését is 'kötelem', 'kötelezettség', 'lekötelezés', 'szerződés' értelműnek adja meg (míg a még itt említett `isimmanu` 'utazik',' bejár', 'utazás', 'előzetes készülődés', 'gondoskodás', 'úti terv' értelmű szó a [[H/Héber\|héber]], [[P/Pészah\|Pészah]] és [[V/Vándor\|vándor]] címnél írottakat idézi; ugye a kereszt, keresztezés az egyben kötőpont).  
+A Huszárik László Denderai csillagképek, hónapok és mítoszok című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében táblázatos adatként közölt asszír, az Ikrek csillagjegynek megfelelő Simanu hónap jelentését is 'kötelem', 'kötelezettség', 'lekötelezés', 'szerződés' értelműnek adja meg (míg a még itt említett `isimmanu` 'utazik', 'bejár', 'utazás', 'előzetes készülődés', 'gondoskodás', 'úti terv' értelmű szó a [[H/Héber\|héber]], [[P/Pészah\|Pészah]] és [[V/Vándor\|vándor]] címnél írottakat idézi; ugye a kereszt, keresztezés az egyben kötőpont).  
 
 (Szóba került iungere [[C/Compare\|compare]] címnél is, minthogy ezen szavak tulajdonképpen egymás alakváltozatainak is felfoghatók:  
 Arra is felhívom eztán a figyelmet, hogy a [[J/Join\|join]], [[H/Hunger\|hunger]] és [[K/Khamor\|Khamor]] címnél álló latin `iungere` ill. `jungere` = összekapcsolni igen ezen compare szónak éppen H/K > J és MP/MB > NG változata.)  
