@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2025-09-28T21:19"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2025-10-10T21:51"}
 ---
 
 
@@ -200,7 +200,7 @@ Nem tartom elképzelhetetlennek, hogy ilyesfajta meridián-áthaladás lehet [[N
 
 ### Szíriusz nadir helyzete
 
-[[G/Galactic centre\|Galactic centre]] címnél volt szó róla:  
+[[G/Galactic centre\|Tejútközpont]] címnél volt szó róla:  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/G/Galactic centre/#kq3rso" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -222,7 +222,7 @@ Leenőriztem John M. Jenkins adatát az előbbi képen csatolt infora nézve. Sz
 Az eredeti [alábbi](https://www.youtube.com/watch?v=V67qv9QbkPg) Jézuspasszport – Az Időkód II. című videóban 4:00-tól van szó a témáról. A képen a Kheopsz (Kufu) piramis és a Szíriusz.  
 A másik csillag baloldalt nyilván a [[S/Sarkcsillag\|Sarkcsillag]], míg maga a piramis felfogható a [[V/Világhegy\|Világhegy]]en kívül a világtengelynek, illetve a libikóka központi felfüggesztési pontjának. [[K/Kantár\|Kantár]] címnél is írtuk:  
 [[H/Hunter\|Hunter]]-Orionról volt szó [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél, [[H/Hunor csillagkép\|Hunor csillagkép]] és [[I/Íj csillagkép\|Íj csillagkép]] címnél is. Az ég illetve a téridő egyik sarokpontja a nyári napforduló. Úgy tűnik, hogy [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél írottak alapján is, hogy Hunter és a Sarkcsillag kapcsolatban állnak egymással. Ezt a két csillagot, a Sarkcsillagot és a Szíriuszt (minthogy Hunter-ben az Orion övcsillagai és a Szíriusz összetartoznak) figyelték a Kheopsz/Kufu piramisból is.  
-Hogy ez mennyiben befolyásolja a [[D/Dzsed\|dzsed]] címnél boncolgatott dolgokat, az majd még kiderül. Mindenesetre ha lesz előrehaladás a témában, akkor az eredményeket oda is be kell tenni. [[O/Orion\|Orion]] oszcillálásáról egyébként volt szó [[G/Galactic centre\|Galactic centre]] címnél. Ott 40000 év jött elő. A másik mellékelt kép [[O/Orion övcsillagai\|Orion övcsillagai]] címnél is szerepelt.  
+Hogy ez mennyiben befolyásolja a [[D/Dzsed\|dzsed]] címnél boncolgatott dolgokat, az majd még kiderül. Mindenesetre ha lesz előrehaladás a témában, akkor az eredményeket oda is be kell tenni. [[O/Orion\|Orion]] oszcillálásáról egyébként volt szó [[G/Galactic centre\|Tejútközpont]] címnél. Ott 40000 év jött elő. A másik mellékelt kép [[O/Orion övcsillagai\|Orion övcsillagai]] címnél is szerepelt.  
 
 ## Lábjegyzetek
 
