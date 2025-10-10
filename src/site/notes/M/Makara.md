@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2025-09-24T13:45"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2025-10-10T21:53"}
 ---
 
 
@@ -117,9 +117,9 @@ Az orosz szó viszont hasonlítható a komi `megyr` 'ív, hajlított forma', `my
 [[H/Hát#Hátra, vissza téridőbeli értelmezése – Magor újjászületése\|Hátra, vissza téridőbeli értelmezése – Magor újjászületése]] cím/alcímnél írottak is támogatják a fentieket:  
 A hát, vissza fogalmainak idegen nyelvekbeni megjelenését tekintve érdekes, hogy Magor neveit, annak változatát és lecsapott formáját találjuk meg.  
 1\. [[B/Back\|back]] szóban; Magor > Begar > Back.  
-2\. a [[M/Makara\|Makara]] és [[M/Magyar\|magyar]] címnél is említett, [ezen](https://www.wisdomlib.org/maghara) oldalon talált marathi `māghāra` = vissza; csökken, visszahúzódik, visszatér; visszatérés (például lázé) jelentésű szóban is a [[L/Lemniszkáta\|lemniszkáta]] féléveinek görbéiről van szó, csak éppen nem a nyári, hanem a téli váltásra ([[T/Turul\|Turul]]) utalva.  
+2\. a [[M/Makara\|Makara]] és [[M/Magyar\|magyar]] címnél is említett, [ezen](https://www.wisdomlib.org/definition/maghara) oldalon talált marathi `māghāra` = vissza; csökken, visszahúzódik, visszatér; visszatérés (például lázé) jelentésű szóban is a [[L/Lemniszkáta\|lemniszkáta]] féléveinek görbéiről van szó, csak éppen nem a nyári, hanem a téli váltásra ([[T/Turul\|Turul]]) utalva.  
 A magara forma vissza(tér) jelentését tehát az életkörben, a fentebb írottak alapján, valamint a [[H/Hunor és Magor\|Hunor és Magor]] címnél (lásd Blavatsky téma környékén) írottak alapján kell értelmezni.  
-Hasonló szavakat [[M/Magyar\|magyar]] címnél láttunk, melyek ugyanide tartoznak: japán `meguru` = körbejár and `magaru` = fordul, komi `megyr` 'ív, hajlított forma', `mygör` 'figura, alak, forma ....', és mari `mykyr` 'görbeség.' Másutt Czeglédi K. hozza a mari `kagyr-mugyr` 'hajlítani ide-oda' és csuv. `kukăr-măkăr` 'ferde' szavakat.  
+Hasonló szavakat [[M/Magyar\|magyar]] címnél láttunk, melyek ugyanide tartoznak: japán `meguru` = körbejár and `magaru` = fordul, komi `megyr` 'ív, hajlított forma', `mygör` 'figura, alak, forma ....', és mari `mykyr` 'görbeség.' Másutt Czeglédi K. hozza a mari `kagyr-mugyr` 'hajlítani ide-oda' és csuvas `kukăr-măkăr` 'ferde' szavakat.  
 
 A [[T/Turul#Turul és Csudaszarvas\|Turul és Csudaszarvas]] cím/alcímnél előjövő szanszkrit `mayūra` = páva jelentésű szó pedig megint a téli napfordulós Nap-visszatérésre/újjászületésre utal, [[M/Magyar\|Magyar]] istenanya Magort megszülésére.  
 
@@ -156,7 +156,7 @@ A Pallas Nagy Lexikona adataként egy [[M/Makár\|makár]] nevű halat is talál
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Ugyanakkor a Tejútanya vulvája a [[M/Mula\|Mula]] holdházban lenne. Viszont a precesszióval számolni kell, ahogy [[G/Galactic centre\|Galactic centre]] címnél is szóltunk róla (lásd szürkével kiemelve illetve az alatta szereplő részt is).  
+Ugyanakkor a Tejútanya vulvája a [[M/Mula\|Mula]] holdházban lenne. Viszont a precesszióval számolni kell, ahogy [[G/Galactic centre\|Tejútközpont]] címnél is szóltunk róla (lásd szürkével kiemelve illetve az alatta szereplő részt is).  
 
 [^2]: Lábjegyzet:  
 The heads of the mythical creatures, the Indian composite marine creature, makara, and the Central Asian dragon, were sometimes portrayed in a stylistically closely related manner. Since only the head is portrayed, it is impossible to identify it with a degree of certainty as belonging to either creature, though both the makara and the Central Asian dragon can to a large extent be considered semantically equivalent.  
