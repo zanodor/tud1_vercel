@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2025-09-29T18:44"}
+{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2025-10-10T21:50"}
 ---
 
 
@@ -344,7 +344,7 @@ Az [alábbi](https://www.youtube.com/watch?v=XIB7tmuFFtc) Atilla akták 1. rész
 
 Az [alábbi](https://youtu.be/fQsQD35s3sQ) ÁKTV műsorban Kubínyi Tamás 1:41:30-nál a meditációra használt [[M/Mandala\|mandala]] középpontjára (melybe fókuszálni kell) értve használja újfent az irracionális pont kifejezést: ezen ponton keresztül a megfelelő lelkületű ember az élet és halál határát is képes megtapasztalni (hisz valóban erre van szükség a beavatottnak/táltosnak a révülésre/transzállapot elérésére \[erről [[G/Gond\|gond]] és [[B/Bal és jobb\|bal és jobb]] címnél is volt szó\]).  
 
-Egy műsorában mondja Kubínyi Tamás Ady-ról hogy az alkoholizás és a szifilisz halálközeleségét elősegítő állapot adja a tisztánlátását. Szó szerint:  
+Egy műsorában mondja Kubínyi Tamás Adyról hogy az alkoholizás és a szifilisz halálközeleségét elősegítő állapot adja a tisztánlátását. Szó szerint:  
 > A szifilisz és az alkohol Ady számára hajtóanyag, hiszen mindegyik az élet végességére irányítja a figyelmét, és fokozza a költői tisztánlátását.  
 - Előtte mondja még, hogy az érzékeny idegrendszerű jobban látja előre, mi közeledik (a kommunizmus előszeleiről írt).
 
@@ -385,7 +385,7 @@ Majd később:
 Megint másutt már egyértelműbben:  
 > A halál végleges, utána már nincs feltámadás. Mindez a megméretéskor dőlt el. Ha a jó tettek túlsúlyba kerültek, akkor a nagy útra (olvasatainkban keresztútra) készülőt felavatták **matar**nak, a szakirodalom szerint igazmondónak, de ha valaki a megméretéskor könnyűnek találtatott, a reliefek, falfestmények tanúsága szerint nem sokat teketóriáztak vele, mint azt már bemutattuk, egy krokodilpofájú szörny azonnal felfalta.  
 
-A keresztény [keresztút](https://wikipedia.org/wiki/Keresztút) valami más:  
+A keresztény [keresztút](https://hu.wikipedia.org/wiki/Kereszt%C3%BAt) valami más:  
 > A keresztút (lat. `via crucis`, `via dolorosa`) eredetileg az a kb. 1,5 km-es útvonal, melyen a keresztény hagyomány szerint Jézus a kereszttel a Praetoriumtól (Gabbata) kiment a [[G/Golgotha\|Golgotá]]ra. Ma olyan ájtatosság, aminek segítségével a keresztény hívek Jézus szenvedésein és keresztre feszítésének eseményein elmélkedhetnek. Ennek gyakorlásához zárt térben (általában templomban) vagy szabadban (általában hegyen) elhelyeznek 14 állomást (stációt). Protestáns felekezetek nem gyakorolják.  
 
 Borbola János viszont félreértelmezést sejt (több szinten) (Borbola A keresztút című az Ősi Gyökér 2015/3-4. sz. megjelent cikkében is foglalkozik még vele):  
@@ -399,6 +399,7 @@ Kitér a Szent Koronára is:
 Másféle keresztútról lásd [[T/Tejút\|Tejút]] címnél Jankovics Marcell ilyen-olyan passzusait.  
 
 #### Jankovics Marcell A fa mitológiája...
+
 
 ...című könyvének 217. oldaláról való adatsora szintén ide tartozik ([[T/Téli napforduló\|téli napforduló]] címnél is szerepelt akkád pecséthenger mellékszövegeként):  
 > A keresztút nemcsak fordulópont, hanem átkelőhely is a Nap számára. Átkelőhely egyik évszakból a másikba, a Föld alól a levegőégbe: a felvilágba, s onnét ismét a látóhatár mögé: az alvilágba. (Átkelőhely a másik két keresztút is, a tavaszi és őszi napéjegyenlőség helye, ahol a nappálya és az égi egyenlítő metszi egymást. Csillagászati szempontból ui. az egyenlítő választja el az északi és a déli égboltot. Amikor a Nap ősszel az egyenlítő alá merül, akkor lép be tk. az alvilág kapuján, és amikor tavasszal az egyenlítő fölé emelkedik, akkor tér vissza a felvilágba.) A téli és nyári átjárók, "kapuk" közül, ahogy az ókorban nevezték (lásd a pecséthenger képét), a téli kapu a fontosabb, mivel ez volt az év kapuja, az év fordulójának a helye is. Kapu formája is inkább a téli átjárónak van, mivel a Tejút itt nemcsak kiszélesedik, hanem egy "fekete lyukat" közrefogva két ágra, "kapufélfára" is hasad. Mindez a téli átjáró gazdagabb mitológiájában is kifejeződik.  
