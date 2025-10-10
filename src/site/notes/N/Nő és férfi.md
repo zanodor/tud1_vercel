@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nő és férfi/","title":"Nő és férfi","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-14T03:03","updated":"2025-06-08T01:42"}
+{"dg-publish":true,"permalink":"/N/Nő és férfi/","title":"Nő és férfi","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-14T03:03","updated":"2025-10-10T21:53"}
 ---
 
 
@@ -93,14 +93,14 @@ Falvay Károly folytatja (a 143. oldalon):
 A megjegyzésem mindehhez az, hogy aligha hiszem el, hogy egy több százezer vagy több millió évvel ezelőtt élő "proto-táltos" ne tudta volna, hogy nem a gólya hozza a gyereket.  
 Itt nem arról van szó, hogy a férfi szerepét nem ismerték volna fel, inkább arról, hogy az első civilizációk hitrendszere tudatosan nőközpontú volt, mert egyrészt csak az anya a biztos, másrészt tudatosan így is alkották meg a mitológiájukat. Ennek még az is állt a háttérében, hogy az első ember is a [[H/Hermaphrodite\|hermafroditá]]k és a kétéltűek előtt, ami/aki önmagából létre tudta hozni, afféle [[S/Szűznemzés\|szűznemzés]]sel az életet a nő volt. Ennek a tudásnak a fenntartását kell még itt látni. Beszélhetnénk itt még sok mindenről, például az [[O/Ösztön\|ösztön]] és [[I/Isten\|Isten]] kapcsolatáról is.  
 Ezt a gondolatot Robert Graves The White Goddess című könyvének 389. oldaláról vette Jankovics Marcell. Ez hasonlóan téves következtetés, mint azt mondani, hogy Kopernikuszig sehol Európában nem volt ismert a Föld-Nap relációja vagy azt, hogy a magyar paraszt a zsidó Tízparancsolat alapján értesült arról, hogy ölni vagy a szomszédasszonyt elszeretni nem szabad. (Egyéb példákat lásd még [[T/Tudomány\|tudomány]].)  
-Graves (és ezek szerint Jankovics Marcell) nem ismerte a magyar szupercivilizációt és ősvallását. [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]] és [[I/Isten\|Isten]] címnél szerepeltek adatok arra vonatkozólag, miként váltotta fel a csillagvallást a Napvallás, majd a modern politikai vallások. Itt nem arról van szó, hogy az apa nemző szerepe nem volt ismert (hisz komplex [[N/Nimrud\|Nimrud]]-mitológiát is költöttek), hanem arról, hogy akkor még az anyáknak nagyobb tisztelet járt ki (ezért is mondom, hogy a hunoknak illetve hun-származék népeknek "köszönhetjük" a magyarságot elnyomó irányzatok elterjedését).  
+Graves (és ezek szerint Jankovics Marcell) nem ismerte a magyar szupercivilizációt és ősvallását. [[P/Poláris-szoláris átállás\|Poláris-szoláris átállás]] és [[I/Isten\|Isten]] címnél szerepeltek adatok arra vonatkozólag, miként váltotta fel a csillagvallást a Napvallás, majd a modern politikai vallások. Itt nem arról van szó, hogy az apa nemző szerepe nem volt ismert (hisz komplex [[N/Nimrud\|Nimrud]]-mitológiát is költöttek), hanem arról, hogy akkor még az anyáknak nagyobb tisztelet járt ki (ezért is mondom, hogy a hunoknak illetve hun-származék népeknek "köszönhetjük" a magyarságot elnyomó irányzatok elterjedését).  
 Egyébiránt Robert Graves hosszú lére eresztett passzusát lásd [[A/Anyakultusz – apakultusz\|anyakultusz – apakultusz]] címnél. Onnan most csak ezt emelném ki:  
 > The revolutionary institution of fatherhood, imported into Europe from the East, brought with it the institution of individual marriage. Hitherto there had been only group marriages of all female members of a particular totem society with all members of another; **every child's maternity was certain, but its paternity debatable and irrelevant**.  
 > —  
 > Az apaság forradalmi intézménye, amelyet keletről hoztak be Európába, magával hozta az egyéni házasság intézményét is. Eddig csak csoportos házasságok léteztek egy adott totemtársadalom összes női tagjának egy másik totemtársadalom összes tagjával; **minden gyermek anyasága biztos volt, de apasága vitatható és lényegtelen**.  
 - A késői-vaskori matriarchális viszonyokból illetve felfogásból nem lehet kiindulni. A késői anyajogúság sok szempontból olyan elvetélt kezdeményezés volt/lehetett, mint a mai feminizmus. Nem szabad csak az elmúlt 2-3000 év anyagát/adatait felhasználni és csak azokat elemzés alá vonni és azok alapján extrapolálni.
 
-Lásd még például [[K/KUN\|KUN]] és hozzá hasonló Nap jelentésű szavaink eredetét illetve [[N/Nut\|Nut]] és [[G/Galactic centre\|Galactic centre]] címnél írottakat.  
+Lásd még például [[K/KUN\|KUN]] és hozzá hasonló Nap jelentésű szavaink eredetét illetve [[N/Nut\|Nut]] és [[G/Galactic centre\|Tejútközpont]] címnél írottakat.  
 
 #### Bakos Attila A Duna Evangéliuma...
 
