@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MA/","title":"MA","tags":["Englishtexttranslated"],"created":"2024-04-21T14:10","updated":"2025-06-08T01:12"}
+{"dg-publish":true,"permalink":"/M/MA/","title":"MA","tags":["Englishtexttranslated"],"created":"2024-04-21T14:10","updated":"2025-10-10T21:55"}
 ---
 
 
@@ -59,8 +59,8 @@ Megye, határ, föld szavunk a sumérben [[M/Mada\|Mada]]. Lásd még [[D/DA\|DA
 
 Kínai és koreai filmekben hallás alapján `māma` = felség(es hölgy) (királynő/név címe). A kínai dungán[^1] nyelvben `ma` = anya. (Kínai filmben henani srác is `má`-nak hívta anyját.)  
 
-Érdekességképpen a kínaiban (továbbá a vietnámiban és laosziban) `ma`, `má` = lovat jelent. Itt talán inkább a [[M/MAG\|mag]] > mah > ma vonalon szakrális-asztrális-hímségi vetületet kell felfedezni, hiszen a Ló a keleti állatövben a Nyilasnak felel meg, így a magyarokra, Napjukra (Napunkra) kell inkább utaljon a szó, mintsem a nőiségi Földre, a bolygóra. Ugyanakkor a [[L/Ló\|ló]] holdállat is, és lám, a perzsában is `máh` = Hold, hónap.  
-Persze lehet ezen ma, má = ló a [[F/Fehérlófia\|Fehérlófia]] anyját jelentő [[T/Tejútanya\|Tejútanya]] lóalakja, ki földistennőként valóban Ma. MA/[[A/AMA\|AMA]] viszont lehet a Szíriusz is. Így a [[L/Ló#Fehér ló\|fehér ló]] cím/alcímnél írottak alapján is lehet Szíriusz.  
+Érdekességképpen a kínaiban (továbbá a vietnámiban és laosziban) a `马` (`má`) = lovat jelent. Itt talán inkább a [[M/MAG\|mag]] > mah > ma vonalon szakrális-asztrális-hímségi vetületet kell felfedezni, hiszen a Ló a keleti állatövben a Nyilasnak felel meg, így a magyarokra, Napjukra (Napunkra) kell inkább utaljon a szó, mintsem a nőiségi Földre, a bolygóra. Ugyanakkor a [[L/Ló\|ló]] holdállat is, és lám, a perzsában is `máh` = Hold, hónap.  
+Persze lehet ezen `má` = ló a [[F/Fehérlófia\|Fehérlófia]] anyját jelentő [[T/Tejútanya\|Tejútanya]] lóalakja, ki földistennőként valóban Ma. MA/[[A/AMA\|AMA]] viszont lehet a Szíriusz is. Így a [[L/Ló#Fehér ló\|fehér ló]] cím/alcímnél írottak alapján is lehet Szíriusz.  
 Viszont lehet egyszerű eredete is. A kínai lovat jelentő szó kialakulását illetően [[M/Magyar#Szekeres István A magyar népnév történeti összehasonlító etimológiája\|Szekeres István A magyar népnév történeti összehasonlító etimológiája]] című cikkében megfogalmazott sorai után is írtuk, hogy megfordítandó Szekeres gondolatmenete: a magyar népnév jelentése nem a kínai `ma` (ló) szó alapján és egy 'lovasnép' jelentésű kifejezés nyomán ered, hanem éppen fordítva: a magyar lovas nép magyar nevéből képezte a ma szavát a kínai, meg a maradék tudálékoskodást (gondolok itt a [[K/Kínai magyar nyelvjárás\|kínai magyar nyelvjárás]] címnél is taglalt levezetésre) is abból alkotta meg (ahogy a görög szokta).  
 
 A dogon nyelvek közé sorolt bangi nyelvben `mma` = szeret az anya(föld) szeretete lehet. [[A/Ámor\|Ámor]] am- gyöke is csak ennek megfordítása ([[A/AMA\|AMA]] is lehet anya). Ámor lehet persze [[K/Khamor\|Khamor]] is.  
@@ -73,7 +73,7 @@ Vagy fogalmazzunk így: a nap a 24 órás időkör neve, ahogy ma is erre utal. 
 
 ## MA esetleges negatív értelmet kifejező szócska
 
-Nem jelentésére vonatkozó adatot [itt](https://www.peterclings.com/post/a-possible-origin-of-the-name-magyar) már a magyar-román-kanadai Peter Clings-nél is láttam; ki szerint: Ma-Gyaur = Nem Hitetlen értelmű lenne.  
+Nem jelentésére vonatkozó adatot [itt](https://web.archive.org/web/20230904184318/https://www.peterclings.com/post/a-possible-origin-of-the-name-magyar) már a magyar-román-kanadai Peter Clings-nél is láttam; ki szerint: Ma-Gyaur = Nem Hitetlen értelmű lenne.  
 
 Clings viszont önkényesen Turkic negation prefix 'ma'-ról beszél, de valójában ez a szóelem szuffixumként használt:  
 > Negation in verbs is conveyed through the suffix –me or –ma. This suffix is added to the verb stem, forming the negative infinitive.  
