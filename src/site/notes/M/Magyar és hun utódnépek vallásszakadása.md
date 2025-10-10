@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar és hun utódnépek vallásszakadása/","title":"Magyar és hun utódnépek vallásszakadása","tags":["Englishtexttranslated"],"created":"2025-09-29T02:09","updated":"2025-09-29T02:10"}
+{"dg-publish":true,"permalink":"/M/Magyar és hun utódnépek vallásszakadása/","title":"Magyar és hun utódnépek vallásszakadása","tags":["Englishtexttranslated"],"created":"2025-09-29T02:09","updated":"2025-10-10T21:53"}
 ---
 
 
@@ -7,14 +7,15 @@
 
 Nem igazán jó a cím, de nehéz volt jó címet adni. Az utód- szócskát ki lehetne venni, de akkor nem igazán lenne mégsem helyes a kép. Vallástörténelem, vallásváltás, [[M/Magyar ősvallás\|magyar ősvallás]] (szétesése), [[M/Monoteizmus\|monoteizmus]], bibliai vallás kialakulása, és sok más egyéb címhez lehetett volna tehető, de mégis itt az a lényeg, hogy azt mutassuk be, hogy a magyar mindig magasabb szintet képviselt, mint a (sok szempontból kutyájának – vagy nevezzük héjnak: [[M/Mag és héj\|mag és héj]] címnél írottakat lásd – tekintett) hun (amely viszont mégiscsak egyre inkább úgy tűnik, azonos a magyarral; ezért beszélünk a [[M/Magyar nép részekre szakadása\|magyar nép részekre szakadásá]]ról is lejjebb).  
 
-Egy vallásszakadásról már [[D/Dévák és Aszúrák\|dévák és aszúrák]] címnél már volt szó. [Ezen](https://www.cais-soas.com/CAIS/shamasastry_India_under_iranians.htm) oldalon írottakat vedd figyelembe.  
+Egy vallásszakadásról már [[D/Dévák és Aszúrák\|dévák és aszúrák]] címnél már volt szó. [Ezen](https://www.cais-soas.com/CAIS/Culture/impact/shamasastry_India_under_iranians.htm) oldalon írottakat vedd figyelembe.  
 
-[[P/Poláris-szoláris átállás\|Poláris-szoláris átállás]] címnél is volt szó a [[C/Csillagvallás\|Csillagvallás]]ról [[N/Napvallás\|Napvallás]]ra (és: Szíriusz-spirituális kutyavallásról, [[K/Kutyahitű\|kutyahit]]ről Napvallásra) való áttérésről.  
+[[P/Poláris-szoláris átállás\|Poláris-szoláris átállás]] címnél is volt szó a [[C/Csillagvallás\|Csillagvallás]]ról [[N/Napvallás\|Napvallás]]ra való áttérésről.  
 
 #### Falvay Károly Nagyboldogasszony...
 
 ...című könyvében írja:  
-> Az a fordulat, ami a kései bronzkorban, mintegy 4-5000 évvel ezelőtt (Péterfai János ugye akár 8000 évesnek mondja a Napvallás kialakulását, nem tudom mi alapján) megbontotta a két emberi nem szerepköri egyensúlyát, mára mélypontját érte el. A figyelem a ciklikusan megszülető és meghaló "fénygyermek" (férfi) felé fordult, míg korábban az "örökkévalóságot" ténylegesen képviselő szülőanya volt a központ.  
+> Az a fordulat, ami a kései bronzkorban, mintegy 4-5000 évvel ezelőtt megbontotta a két emberi nem szerepköri egyensúlyát, mára mélypontját érte el. A figyelem a ciklikusan megszülető és meghaló "fénygyermek" (férfi) felé fordult, míg korábban az "örökkévalóságot" ténylegesen képviselő szülőanya volt a központ.  
+- Péterfai János ugye akár 8000 évvel ezelőttre datálja a Napvallás kialakulását.
 
 A vallási, spirituális vezető [[N/Nagyboldogasszony\|Nagyboldogasszony]] égisze alatt a magyar volt, a nyelve is magyar. Ha rá tudunk (és akarunk) mutatni a világ bajainak kialakulásának tényezőire, úgy gondolom nagy csel, ha nem másban ([[Z/Zsidó\|zsidó]]k), hanem (nemcsak egyéni szinten) magunkban keressük a hibát. Amennyiben a hunok is mi vagyunk. Vállaljuk a hunságot, de csak úgy, ha elfogadják a hunság ([[H/Hunor\|Hunor]]ság; valódi évköri) értelmét, kateróriáját. Ha engedik nekünk megmagyarázni, és velünk együtt vezekelnek. (Hiszen ha mi mindig másokat, zsidókat, szemitákat, árjákat, szlávokat, románokat, cigányokat, bárkit hibáztatunk, ellenszenvet és azok védekezési reakcióját váltjuk ki. Individuális szinten is a békésség útjára úgy léphetünk, ha meghunyászkodunk és megmondjuk, hogy mi (is) tévedtünk; ekkor van esélyünk a másik fél belátására. Mindenképpen cselhez kell folyamodni, ezt régóta gondolom, de a magyar üdvtörténet kiemelése a végső cél.)  
 Az alábbiakban azt szeretném felvázolni, hogy valószínűsíthetően a hunok Naptisztelő ága, az ún. avar-hunok és azok "[[A/Árja\|árjá]]vá alakult" maradékai azok, akik felelőssé tehetők (a hunoknál is volt [[H/Holdtisztelet\|holdtisztelet]]).  
