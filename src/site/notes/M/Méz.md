@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Méz/","title":"Méz","tags":["Englishtexttranslated"],"created":"2024-11-23T05:28","updated":"2025-09-16T13:23"}
+{"dg-publish":true,"permalink":"/M/Méz/","title":"Méz","tags":["Englishtexttranslated"],"created":"2024-11-23T05:28","updated":"2025-10-10T21:54"}
 ---
 
 
@@ -135,7 +135,7 @@ Több infót lásd mézzel kapcsolatosan [[H/Honey\|honey]].
 Minden továbbit lásd persze [[M/MISZ\|MISZ]].  
 
 Egy összefoglaló írás Mész – Méz – Méh/Anyaméh szavakról illetve jelképiségükről:  
-A lényege az kell legyen, hogy azon túl, hogy közös bennük a ([[M/Mécs\|mécs]]ben is meglévő) [[M/ME\|ME]] = fény, mely fény egyrészt ([[S/Száj\|száj]] címnél írottak alapján) a Tejútanyát (szájon át) megtermékenyíti, majd az [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]]a után méhében kihordja a Napot és megszüli, azaz a fényt, forrását, a Napot világra hozza (napi szinten keleten reggel, kis éves szinten december 21-24.-én a [[T/Téli napforduló\|téli napforduló]]kor, [[N/Nagy Év\|Nagy Év]]es szinten pedig a [[G/Galactic centre\|Galactic centre]] címnél írottak szerinti módon), ahol a szülőcsatorna illetve a [[V/Vulva\|vulva]] nem más, mint a vele azonos Tejútfa azon [[O/Odú\|odv]]a, ahol a (Napállat) [[M/Méh\|méh]]ek a [[K/Kaptár\|kaptár]]ban termelik a [[M/Méz\|méz]]et (és ahol a Nap is megszületik, illetve ezzel analóg, az a hely, ahonnan az emberek lelkei származnak).  
+A lényege az kell legyen, hogy azon túl, hogy közös bennük a ([[M/Mécs\|mécs]]ben is meglévő) [[M/ME\|ME]] = fény, mely fény egyrészt ([[S/Száj\|száj]] címnél írottak alapján) a Tejútanyát (szájon át) megtermékenyíti, majd az [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]]a után méhében kihordja a Napot és megszüli, azaz a fényt, forrását, a Napot világra hozza (napi szinten keleten reggel, kis éves szinten december 21-24.-én a [[T/Téli napforduló\|téli napforduló]]kor, [[N/Nagy Év\|Nagy Év]]es szinten pedig a [[G/Galactic centre\|Tejútközpont]] címnél írottak szerinti módon), ahol a szülőcsatorna illetve a [[V/Vulva\|vulva]] nem más, mint a vele azonos Tejútfa azon [[O/Odú\|odv]]a, ahol a (Napállat) [[M/Méh\|méh]]ek a [[K/Kaptár\|kaptár]]ban termelik a [[M/Méz\|méz]]et (és ahol a Nap is megszületik, illetve ezzel analóg, az a hely, ahonnan az emberek lelkei származnak).  
 
 #### Bíró Lajos A magyar régmúlt titkai...  
 
