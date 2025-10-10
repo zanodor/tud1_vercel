@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-09-24T13:48"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-10-10T21:54"}
 ---
 
 
@@ -103,6 +103,9 @@ Továbbá flexiós kapcsolatot találunk [[H/Huny\|huny]], [[H/Hany\|hany]] (min
 
 Ott van még a [[S/Süt\|süt]] ige [[S/Sötét\|sötét]]/[[S/Sötét\|setét]] szavak gyökével való megfelelése, [[K/Kör\|kör]] szóbokrunk olyan tagjai, mint [[G/Gyűrű\|gyűrű]], `gördül`, [[F/Fal\|fal]] főnév [[F/Fél\|fél]] szóval alkotott flexiós viszonya, vagy például felhívhatjuk a figyelmet [[E/Éh\|éh]] = [[A/Áhít\|áhít]], [[A/Akar\|akar]] szavak gyökeinek azonosságára.  
 A kutyára visszatérve, [[E/EB\|eb]] és [[A/Apa\|apa]] szavaink [[I/Ív\|ív]] szavunkkal való viszonya említhető még ilyen szinten (lásd [[G/Gene#^eeeksm\|gene]] címnél található diagramot megjegyzésekkel ill. még témát [[L/Lemniszkáta\|lemniszkáta]]), de például magánhangzó cserével a [[M/Más\|más]] (lásd még [[M/MAS\|MAS]]) fiú, hős jelentése az, ami majd a [[M/Mese\|mese]] szavunk létrehozója is lesz.  
+Más, ilyen fel- és alhangos párok közül itt van a [[H/Hang\|hang]] és [[E/Ének\|ének]]; akkor látszik jól, hogy azonosak, ha a szóelejei [[A/Ang\|hehezetet eltávolítjuk]] (a török `ong` = hang és japán `ongaku` = zene szóban sincs meg).  
+A [[E/Év#maja haab\|maja haab]] is `év` szavunkkal feleltethető meg.  
+
 Sok más szópár ismert: [[I/Isten\|Isten]] – [[O/Ösztön\|ösztön]], [[V/Vessző\|vessző]] – [[F/Fasz\|fasz]]; [[V/Víz\|víz]] szavunk [[V/Vedel\|vedel]], [[V/Vödör\|vödör]], [[V/Vád\|vád]]ol, [[V/Vese\|vese]] szavakban ugyanúgy megtalálható; fentebb említett [[H/Ház\|ház]] szavunk (közös gyöke) ismerendő fel olyan szavakban, mint [[H/HAS\|has]], [[K/KAS\|kas]], [[K/KÁD\|kád]], [[K/Kagyló\|kagyló]], [[H/HAT\|hat]], mint [[H/Hathor\|Hathor]] névben, stb.  
 M>N változásra sok példa van; itt csak a magyar [[M/Magas\|magas]] szó gyökét mutassuk be [[N/Nagy\|nagy]] szavunk párjaként.  
 [[M/Magyar szavak, szórészek alakváltozatai\|Magyar szavak, szórészek alakváltozatai]] címnél korábban más példákat is bemutattunk.  
