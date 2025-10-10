@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Taut/","title":"Taut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-10-20T02:21","updated":"2025-05-03T11:08"}
+{"dg-publish":true,"permalink":"/T/Taut/","title":"Taut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-10-20T02:21","updated":"2025-10-10T21:55"}
 ---
 
 
@@ -25,7 +25,7 @@ Tomory Zsuzsa Istenes magyar emlékeink III. rész című Ősi Gyökér 2005/3. 
 > A táltos szóval genetikus összefüggő nevek (egyiptomi Thot, etruszk khalkhas és föníciai Taautosz) rendszere az ősvallás jelentőségére és hatókörzetére utal. nem véletlen egyezés, hanem írástörténeti tények tükröződése, hogy Thot az egyiptomi, Taautosz pedig a föníciaiak szerint az írás megteremtője volt.  
 > Taautosznak, a bölcsesség istenének képzete a [[T/Thot\|Thot]]-mítoszok hatására alakult ki a nyugati sémi népeknél. Taautosz az írásbeliség megteremtője, akit kései föníciai hagyományokból ismerünk. Úgy hitték, ő írta a világ teremtéséről szóló könyvet, amelyet valószínûleg Jevo beriti templomában őriztek, és feltehetően bübloszi pszeudohieroglifákkal írtak. Elképzelhető, hogy ez a könyv azonos az ammoniták szent iratával, amelyeket Philón Bübliosz szerint Szankhuniathón felhasznált teremtéstörténetének megírásához (Mitológiai Enciklopédia I/521)[^1]. Ehhez két megjegyzés: Jevo[^2] neve a magyar javas és jó szavaknak (istenünk állandó jelzőjének) a megfelelője. A bübloszi pszeudohieroglifák közül pedig mintegy 20 jel formailag azonosítható székely rovásjelekkel.  
 
-Az [alábbi](https://www.aut.edu/phoenician.html) oldalon hasonló adat:  
+Az [alábbi](https://web.archive.org/web/20170104012138/https://www.aut.edu/phoenician.html) oldalon hasonló adat:  
 > According to the Egyptians language is attributed to Taautos who was the father of [[T/Tautology\|tautology]] or imitation. He invented the first written characters two thousand years BC or earlier. Taautos came from Byblos, Phoenicia, that shows a continuous cultural tradition going back as far as 8,000 B.C. Taautos played his flute to the chief deity of Byblos who was a moon-goddess Ba'alat Nikkal.  
 > Note: Taautos was called Thoth by the Greeks and the Egyptians called him Djehuti. The mythology of Taautos appears in that of Thoth and Dionysus, or Njörth the snake priest who was, at times, the consort to the moon-goddess. The snake priest was also represented by the symbol of a pillar, a wand or a caduceus. This symbol would itself become a god Hermes or Mercury. The Greeks equated Thoth with the widely-traveled Hermes. According to Egyptian tradition Osiris traveled the world with Thoth. Under the protective umbrella of Hindu culture, snake charmers playing their nasal punji echo the same tradition.  
 —  
@@ -55,5 +55,5 @@ Philón tehát, miután a Sanchuniathon egész művét kilenc könyvre osztotta,
 
 [^2]: Lábjegyzet:  
 Az [alábbi](https://en.m.wikipedia.org/wiki/Tetragrammaton) oldal szerint:  
-Porphyry (meghalt kb. 305-ben) Eusebius (meghalt 339-ben) alapján a `Iευώ` (Ieuo) formát adta meg Jahve nevének. A Wikipédia oldal Patristic writings című részénél számos variánsa lejegyzése előjön az isten nevének.  
+Porphyry (meghalt kb. 305-ben) Eusebius (meghalt 339-ben) alapján a `Iευώ` (Ieuo) formát adta meg Jahve nevének. A Wikipédia oldal Patristic writings című részénél számos változata lejegyzése előjön az isten nevének.  
 Az [alábbi](https://phoenicia.org/theomythology.html) oldalon is sok érdekesség áll.  
