@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Macska/","title":"Macska","created":"2023-11-17T11:07","updated":"2025-06-08T01:12"}
+{"dg-publish":true,"permalink":"/M/Macska/","title":"Macska","created":"2023-11-17T11:07","updated":"2025-10-10T21:54"}
 ---
 
 
@@ -11,7 +11,7 @@
 > Másik fontos állatcsoportunk a Macskák. Nevük a [[M/Makacs\|Makacs]] szóból származik, mivel makacsabb szolgánk, barátunk nincsen, mint a macska. Állandóan a saját feje után megy, ráadásul **ő tekint minket szolgának**, akik kötelesek vagyunk őt finom ételekkel ellátni, cirógatni, babusgatni. Ennek fejében kifejezi szeretetét irányunkban, továbbá leöli a sok káros és veszélyes rágcsálót a környezetünkben. Rendkívül kiváló vadász, de néha a hasznos madarakat is elkapja. Azt már sikerült elérni, hogy a tyúkokat, kacsákat, libákat nem tekinti zsákmánynak. Az embergyerekeket rendkívüli módon szereti. Sok mese hőse. A 7 vagy 12 éves macska boszorkánnyá vagy macskakirálynővé válhat. A macska második hű szolgánk.  
 
 Amennyiben Péterfai János szerint a macska a magányos és [[M/Makacs\|makacs]] ideák nyomán vizsgálandó, akkor gyorsan itt fel kell eleveníteni azt, amit Magyar Adorján írt a magányosságról, minthogy hímségi princípium.  
-A macska szavunkban így a Macs a Makk, [[M/MAG\|Mag]] változata, csillag, Nap, hímségi kell legyen: a nagymacskák mindenütt Napjelképek. De Nap Háza értelmű a [[K/Kutya\|Kutya]] is, sőt, a Kin/Kün/Kan nevek is Napnevek. A kutya ugyanúgy asztrális név, mint a macska. A [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] szócikk alatt is szerepelt, hogy ez a két fontos háziállatunk, a kutya és a (nagy)macska tulajdonképpen [[H/Hunor és Magor\|Hunor és Magor]] kergetőzése kell legyen az égen. Persze a kutya inkább kergeti a macskát, mintsem fordítva.   
+Macska szavunkban így a Macs a Makk, [[M/MAG\|Mag]] változata, csillag, Nap, hímségi kell legyen: a nagymacskák mindenütt Napjelképek. De Nap Háza értelmű a [[K/Kutya\|Kutya]] is, sőt, a Kin/Kün/Kan nevek is Napnevek. A kutya ugyanúgy asztrális név, mint a macska. A [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] szócikk alatt is szerepelt, hogy ez a két fontos háziállatunk, a kutya és a (nagy)macska tulajdonképpen [[H/Hunor és Magor\|Hunor és Magor]] kergetőzése kell legyen az égen. Persze a kutya inkább kergeti a macskát, mintsem fordítva.   
 
 A Péterfainak nem tetsző mancs – macska levezetésre visszatérve; a kelta-ír `màg` = mancs mutat rá, hogy ez a szó [[O/Orrhang\|orrhang]] nélkül, torokhanggal is szerepelt. Elképzelhető eztán, hogy macska is szerepelt \*makka alakban. Mivel viszont -ka kicsinyítés is lehet, visszatérünk oda, hogy a macska sem más, mint Mag = Nap.  
 
@@ -59,13 +59,14 @@ Hasonló felépítését tekintve [[K/Kecske\|kecske]].
 
 A macska ezen alakjában nem a megfejtendő szó. A macska nem a kiinduló magyar szó. Ez a szó az elszlávosodott palócainktól került olyanképpen hozzánk (vagy fogalmazzunk úgy, hogy több szavunk volt rá és erre esett a választás), hogy a négylábú macska makacs jellemzőjével konflatálódott a korábbi csillagmitológiai macska, melynek a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]]ként illetve a fentebb említett Szűz csillagkép aspektusának neveként [[M/Magyar\|magyar]] volt a neve. (Más kérdés, hogy a [[K/Kutya és macska#Kutya és macska megfelel Hunornak és Magornak\|kutya és macska megfelel Hunornak és Magornak]] cím/alcímnél és alant említett `mačor`/macsor alak a szláv nyelvben már a hím macskát jelentette.)  
 
-Az [ezen](https://qr.ae/pvA4Pz) Quora válaszban a cat szó eredetét egyébként profi módon körüljáró nyelvész cikkére érkezett kommentek között láttam meg egy szanszkrit és szerb-horvát nyelvet beszélők között létrejött diskurzusban, hogy a szerb-horvát nyelvben nemcsak `mačka`, hanem a [[M/Magyar\|magyar]] alakú `mačor` is jelentheti a macskát (kandúrt), mely utóbbi a Shyam Kumar nevű beíró által előtte felhozott szanszkrit `mārjāra` = macska szóval illetve eredetéhez vezető párjaival, ahogy [ezen](https://en.m.wiktionary.org/wiki/%E0%A4%AE%E0) oldalon is látjuk, azonos:  
-Maharastri Prakrit 𑀫𑀁𑀚𑀸𑀭 (`maṃjāra`), from Sanskrit मार्जार (`mārjāra`). Cognate to Konkani माजर (`māzar`), Gujarati મંજાર (`mañjār`), Hindi मँजार (`mañjār`), मंजार (`mañjār`).  
-A szerb szó párjai: bulgár és macedón `máčor` és ukrán `mácúr`.  
+Az [ezen](https://qr.ae/pvA4Pz) Quora válaszban a cat szó eredetét egyébként profi módon körüljáró nyelvész cikkére érkezett kommentek között láttam meg egy szanszkrit és szerb-horvát nyelvet beszélők között létrejött diskurzusban, hogy a szerb-horvát nyelvben nemcsak `mačka`, hanem a [[M/Magyar\|magyar]] alakú `mačor` is jelentheti a macskát (kandúrt), mely utóbbi a Shyam Kumar nevű beíró által előtte felhozott szanszkrit `mārjāra` = macska szóval illetve eredetéhez vezető párjaival, ahogy [ezen](https://en.m.wiktionary.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%9C%E0%A4%B0#Marathi) oldalon is látjuk, azonos:  
+> Maharastri Prakrit `𑀫𑀁𑀚𑀸𑀭` (`maṃjāra`), from Sanskrit `मार्जार` (`mārjāra`). Cognate to Konkani `माजर` (`māzar`), Gujarati `મંજાર` (`mañjār`), Hindi `मँजार` (`mañjār`), `मंजार` (`mañjār`).  
+- A szerb szó párjai: bulgár és macedón `máčor` és ukrán `mácúr`.
 - Az okinavai `mayaa` = macska is tulajdonképpen ilyen ([[M/Maja\|Maja]]/[[M/Magyar\|Magyar]] istennő) alakú.
+- Az [ezen](https://www.ulster.ac.uk/__data/assets/pdf_file/0006/942459/0604.pdf) oldalon bemutatott, Alexandriai Hészükhiosz lexikonából vett, görög leírású, de keltának meghatározott `μάταν` (`mátan`) = nőstény hiúz gyöke ismét megfelel macska gyökének.
 
 Ugyanakkor a másik összefüggés az, hogy a [[K/Kutya\|Kutya]] a [[N/Nyári napforduló\|nyári napforduló]]hoz tartozik, a [[M/Macska\|Macska]] a télihez, ahol a Tejútanya nemi része van és ahol megszüli [[M/Magor\|Magor]]t.  
-Azt másutt is láttuk, hogy a nemi rész neve a nőre, férfira vonatkozó: az [[A/Asera\|asera]] címnél előjövő héber `qobbah` = vulva szó azonos [[E/Éva\|Éva]] hehes nevével, továbbá a női szemérem a törökben (`am`) az anya [[A/AMA\|AMA]] nevére megy vissza, illetve ami nálunk [[P/Pasas\|pasas]], az a szanszkritban hímtag (de a pasi = faszi = fasz azonosságát sem kell ecsetelni).  
+Azt másutt is láttuk, hogy a nemi rész neve a nőre, férfira vonatkozó: az [[A/Asera\|asera]] címnél előjövő héber `qobbah` = vulva szó azonos [[E/Éva\|Éva]] hehes nevével, továbbá a női szemérem a törökben (`am`) az anya [[A/AMA\|ama]] nevére megy vissza, illetve ami nálunk [[P/Pasas\|pasas]], az a szanszkritban hímtag (de a pasi = faszi = fasz azonosságát sem kell ecsetelni).  
 Ergo macska tulajdonképpen a női nemi rész kicsinyítése, és macs valóban jelent anyát, pl. lengyel nyelvben, de ne feledjük, a [[M/Magyar\|magyar]] címnél is taglalt lengyel `maciora` volt a régi anyát jelentő szó.  
 
 ## Lábjegyzetek
@@ -73,4 +74,5 @@ Ergo macska tulajdonképpen a női nemi rész kicsinyítése, és macs valóban 
 [^1]: Lábjegyzet:  
 Az angol [[M/Miss\|miss]] = kisasszony tehát nem más, mint Boldogasszony lánya, Kisasszony. Falvay Károly Nagyboldogasszony című könyvében is írja:  
 A magyar hagyományban Nagyboldogasszony szűz leánya Kisboldogasszony, más néven Kisasszony.  
+—  
 Ez számomra arra is enged következtetni, hogy ami [[K/Kis\|kis]] alakban megvolt a hun-magyarban, az a magyarban m-előhangosan is meglehetett. Arra más esetekben is láttuk példát (akár teoretikusat), hogy a kemény előhang helyett megjelenhet puha ajakhang a szó elején.  
