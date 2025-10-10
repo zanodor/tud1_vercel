@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2025-10-04T18:00"}
+{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2025-10-10T21:50"}
 ---
 
 
@@ -235,11 +235,11 @@ Hiszen parallaxis-hiba léphet fel. Egyébként ezért is volt szükség a [[B/B
 
 Bruce Scofield fent említett cikkének jegyzetei közt találni az alábbi adatát:  
 > The **winter-solstice Sun is closest to the galactic centre in 2219**, with a couple of years either side. The distance to the galactic center at the 2219 solstice is 0.8 degrees closer than in 1998. See Patrick Wallace.  
-> http://edj.net/mc2012/truezone.htm  
+> [http://edj.net/mc2012/truezone.htm](https://web.archive.org/web/20200615090337/http://edj.net/mc2012/truezone.htm)  
 > One could argue that the passage of the winter solstice point, which is on the ecliptic, over the galactic equator marks the point at which our solar system is aligned to the galaxy. When either of the equinoxes cross the galactic equator, which won't occur for a very long time, then both the Earth and the solar system are aligned with the galaxy. This is because the plane of the Earth's equator crosses the plane of the Earth's orbit at the equinoxes, not the solstices, and this means both will align with the galactic equator. If tidal forces are any guide to some sort of "effect," then this triple nodal alignment should be more signficant. However, it is true that the winter solstice point, which is on the ecliptic and which lies well below the equator, is closer to the actual galactic center.  
 > —  
 > A **téli napforduló Napja 2219-ben** van a legközelebb a Tejútközponthoz, néhány évvel később. A 2219-es napfordulónál a Tejútközponttól mért távolság 0,8 fokkal közelebb van, mint 1998-ban. Lásd Patrick Wallace.  
-> http://edj.net/mc2012/truezone.htm
+> [http://edj.net/mc2012/truezone.htm](https://web.archive.org/web/20200615090337/http://edj.net/mc2012/truezone.htm)
 > Azt lehet állítani, hogy a téli napfordulópontnak az ekliptikán való áthaladása a galaktikus egyenlítő felett jelzi azt a pontot, amikor a Naprendszerünk a galaxishoz igazodik. Amikor valamelyik napéjegyenlőség átlépi a galaktikus egyenlítőt, ami még nagyon sokáig nem fog bekövetkezni, akkor a Föld és a Naprendszer is a galaxishoz igazodik. Ez azért van így, mert a Föld egyenlítőjének síkja a napéjegyenlőségeknél keresztezi a Föld pályájának síkját, nem pedig a napfordulóknál, és ez azt jelenti, hogy mindkettő a galaktikus egyenlítőhöz igazodik. Ha az árapályerők valamiféle "hatásra" utalnak, akkor ennek a hármas csomóponti igazodásnak jelentősebbnek kell lennie. Az azonban igaz, hogy a téli napforduló pontja, amely az ekliptikán van, és amely jóval az egyenlítő alatt fekszik, közelebb van a tényleges Tejútközponthoz.  
 
 Patrick Wallace véleményét valójában Jenkins kérte ki, és a mellékelt weblap-cím is az ő domain-címe. Jenkins ezen fenti honlapcímén álló anyagából kiderül, hogy bőséggel foglalkoztak csillagászok az együttállással (de az is, hogy eltérő vélemények adódtak):  
