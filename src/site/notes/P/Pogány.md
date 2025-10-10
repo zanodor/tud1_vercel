@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2025-08-19T01:01"}
+{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2025-10-10T21:53"}
 ---
 
 
@@ -121,7 +121,7 @@ Finn nyelvben hallottam ki a `pahan` szót, melyről kiderült, hogy már ragozo
 > Valószínűleg a protogermán \*bāǥa-ból. Vö. ónorvég `bágr` ("nehéz").  
 - Valójában a [[P/Pohjola\|Pohjola]] címnél írottak alapján kell figyelni rá.
 
-Megjelenni látszik az előgörög eredetűnek vélt (ó)görög `pōgōn` = szakáll szóban is ([lásd Wiki oldalán](https://en.wiktionary.org/wiki/%25CF%2580%25CF%258E%25CE%25B3%25CF%2589%25CE%25BD)). Talán a pogányok szakállat viseltek? Nos, mivel a [[S/Szakáll\|szakáll]] azon címnél legutóbb írottak szerint maga az istenkirály vagy istenkirályi cím elnevezése, és az istenkirály/napkirály [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél szereplő képek szerint nyilas/íjas attribútumokkal is rendelkezett, könnyen lehet, hogy a szakállas < íjász képzetátvitelről lehet szó, de valószínűbben a [[P/POG\|pog]], [[B/BOG\|bog]] = Nap közvetlen használata (hajszál, szőr Napsugár-jelkép) áll hátterében és a pogány fogalmával nem rokon.  
+Megjelenni látszik az előgörög eredetűnek vélt (ó)görög `pōgōn` = szakáll szóban is ([lásd Wiki oldalán](https://en.wiktionary.org/wiki/%CF%80%CF%8E%CE%B3%CF%89%CE%BD)). Talán a pogányok szakállat viseltek? Nos, mivel a [[S/Szakáll\|szakáll]] azon címnél legutóbb írottak szerint maga az istenkirály vagy istenkirályi cím elnevezése, és az istenkirály/napkirály [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél szereplő képek szerint nyilas/íjas attribútumokkal is rendelkezett, könnyen lehet, hogy a szakállas < íjász képzetátvitelről lehet szó, de valószínűbben a [[P/POG\|pog]], [[B/BOG\|bog]] = Nap közvetlen használata (hajszál, szőr Napsugár-jelkép) áll hátterében és a pogány fogalmával nem rokon.  
 
 [Ezen](https://en.wiktionary.org/wiki/pohon) oldal adata szerint a maláj és indonéz `pohon` = fa, valamint kezdet jelentésű. Helyben vagyunk, hiszen a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en (melyek végén [[P/Págony\|págony]] = nyilazó csillagzatok vannak) ülő [[T/Tejút\|Tejút]] a [[F/Fa\|fa]] és egyben a naptári év kezdetét is kijelölő nyári és téli napfordulós helyek is ott találhatóak.  
 - [[F/Fa#Fa mint kezdet\|Fa mint kezdet]] cím/alcímhez is bekerült.
