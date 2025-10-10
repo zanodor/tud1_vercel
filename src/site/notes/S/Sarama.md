@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarama/","title":"Sarama","tags":["Englishtexttranslated"],"created":"2023-11-17T05:34","updated":"2024-10-26T00:17"}
+{"dg-publish":true,"permalink":"/S/Sarama/","title":"Sarama","tags":["Englishtexttranslated"],"created":"2023-11-17T05:34","updated":"2025-10-10T21:52"}
 ---
 
 
@@ -35,7 +35,8 @@ Ott ([[D/Drumó\|drumó]] és [[D/Dream\|dream]] címnél) a tél időszaka is e
 ...című könyvében másutt Śabala és Śyåma a nevük:  
 > Indo-European dogs of the dead generally moved around in pairs, however: when they were not twin brothers, they could be represented as two dogs in one, as in the well-known case of Cerberus. Most often, **one of these dogs was black and the other white**, symbols of a path that led not only from a past life to a present death, but also from death to a future life. Among such canine twins may be counted the Indian Syâma and Sabala, the Germanic Gifr and Geri (or Frekr), the Armenian Spitak and Siaw, the two "devil dogs" of Celtic mythology, and an Iranian pair that is perhaps identified with Sraosa and Rasnu. The grey-red canine psychopomp of Welsh mythology may also be an instance of such pairing.  
 > —  
-> Az indoeurópai holtak kutyái azonban általában párban mozogtak: ha nem voltak ikertestvérek, akkor két kutyaként is ábrázolhatták őket, mint a jól ismert [[C/Cerberus\|Kerberosz]] esetében. Leggyakrabban **az egyik kutya fekete, a másik fehér volt**, egy olyan út szimbólumaként, amely nemcsak a múltbeli életből a jelenbeli halálba, hanem a halálból a jövőbeli életbe is vezetett. Az ilyen kutyakettősök közé sorolható az indiai Syâma és Sabala, a germán Gifr és Geri (vagy Frekr), az örmény Spitak és Siaw, a kelta mitológia két "ördögi kutyája", valamint egy iráni pár, amelyet talán Sraosával és Rasnuval azonosítanak. A walesi mitológia szürkésvörös kutya-[[P/Psychopomp\|pszükhopomposz]]a szintén ilyen párosítás lehet.  { #itxfzr}
+> Az indoeurópai holtak kutyái azonban általában párban mozogtak: ha nem voltak ikertestvérek, akkor két kutyaként is ábrázolhatták őket, mint a jól ismert [[C/Cerberus\|Kerberosz]] esetében. Leggyakrabban **az egyik kutya fekete, a másik fehér volt**, egy olyan út szimbólumaként, amely nemcsak a múltbeli életből a jelenbeli halálba, hanem a halálból a jövőbeli életbe is vezetett. Az ilyen kutyakettősök közé sorolható az indiai Syâma és Sabala, a germán Gifr és Geri (vagy Frekr), az örmény Spitak és Siaw, a kelta mitológia két "ördögi kutyája", valamint egy iráni pár, amelyet talán Sraosával és Rasnuval azonosítanak. A walesi mitológia szürkésvörös kutya-[[P/Psychopomp\|pszükhopomposz]]a szintén ilyen párosítás lehet.  { #itxfzr}
+
 
 - Tilak Orionjában `shabalau` = pöttyös, [[T/Tarka\|tarka]]. Mely akár képviselhetné bármelyik oldalt is.
 
@@ -107,7 +108,7 @@ Magyar párhuzamának tartható:
 - A görög `orthros` jelentése sokatmondóan hajnal.  
 A wayfarer kimondottan [[N/Nibiru\|Nibiru]]-ra látszik utalni.  
 
-Nem elképzelhetetlen, ahogy [[G/Galactic centre\|Galactic centre]] címnél is frissen szóltam róla, hogy a Nibiru a Tejúton való áthaladáshoz köthető.  
+Nem elképzelhetetlen, ahogy [[G/Galactic centre\|Tejútközpont]] címnél is frissen szóltam róla, hogy a Nibiru a Tejúton való áthaladáshoz köthető.  
 > Nibiru, which [[S/Sitchin, Zecharia\|Zecharia Sitchin]] called "the Planet of the Crossing", means "ferry, ferryman, ford", according to Santillana and Von Dechend. This connects it with the later Greek concept of the dead paying the ferryman to get across the river Styx to meet [[C/Cerberus\|Cerberus]], the three-headed dog. It has been correlated to Jupiter, like Marduk, by various "experts", also to [[C/Canopus\|Canopus]], the North pole, the summer solstice, but perhaps most significantly, a comet!  
 > Adrian Gilbert claims that the original version of the Styx, was the Milky Way, since the Egyptians believed that Paradise was located in Orion, and that the ritual bringing of a dead body across the Nile for a ceremony in the pyramid, represented the soul's journey across the Milky Way to Orion. However, Sirius is also implicated here, since the shaft in the King's Chamber pointed to Orion, but the shaft in the Queens Chamber pointed to Sirius, and it is this shaft that leads to the Secret Chamber.  
 > —  
@@ -152,7 +153,7 @@ Sarama hímnemű társának neve [[S/Sisara\|Sisara]]:
 
 Igen érdekes, hogy a perzsában a [[T/Tél\|tél]] a perzsa-angol szótárban elsőként adatolt neve `sarma`: Szár-Ma, Fényes Föld, mely azonosnak mondható Sarama nevével. Márpedig ezen elnevezések mögött nyilván az a csillagászati kapcsolódás lehet meg, hogy egyrészt a Kis Évben a téllel kezdődik a fény növekedése, másrészt [[U/Újév\|újév]]kor van Szíriusz-Nap-Föld együttállás (vagy csak egyszerűen: télen látszik a Szíriusz az éji égen).  
 
-Azt, hogy a Sarama sokatmondó, magyarul jól érthető név és a [[S/Származás\|származás]] szavunk is ilyen alakú, és hogy a kapcsolat a két szókapcsolat között nyilvánvaló, Dr. Gyárfás Ágnes az Ősi Gyökér 2007/1. Eb a hite kölykei című cikkében olvasott passzusa \[lásd [[K/Kutyahit\|kutyahit]]\] alapján értettem meg: a származás, származik szavak Szár-Ma alapváza a Tejútról és a Kutyától, Szíriuszról való leszármazásra utal.  
+Azt, hogy a Sarama sokatmondó, magyarul jól érthető név és a [[S/Származás\|származás]] szavunk is ilyen alakú, és hogy a kapcsolat a két szókapcsolat között nyilvánvaló, Dr. Gyárfás Ágnes az Ősi Gyökér 2007/1. Eb a hite kölykei című cikkében olvasott passzusa \[lásd [[K/Kutyahitű\|kutyahit]]\] alapján értettem meg: a származás, származik szavak Szár-Ma alapváza a Tejútról és a Kutyától, Szíriuszról való leszármazásra utal.  
 Erre vonatkozólag Bíró Lajos írja segítségként:  
 > A szarmaták nevét is a magyar nyelv alapján lehet értelmezni: a régi magyar "szárm" = vízág \[vesd össze: csuvas `śyrma` = árok, patak, szakadék \[CzK\]\] szó lehet a gyökere (vö. **szanszkrit `sarma` = folyam**).  
 - Vesd össze a Götz László Keleten kél a Nap című könyvének 144. oldalán talált  igével.
