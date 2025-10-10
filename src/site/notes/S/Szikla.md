@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szikla/","title":"Szikla","tags":["Englishtexttranslated"],"created":"2023-10-29T05:00","updated":"2025-09-23T23:26"}
+{"dg-publish":true,"permalink":"/S/Szikla/","title":"Szikla","tags":["Englishtexttranslated"],"created":"2023-10-29T05:00","updated":"2025-10-10T21:55"}
 ---
 
 
@@ -17,7 +17,7 @@ A [[K/Kufu\|Kufu]] piramis is lényegében egy ilyen szikla, csak sokkal "többe
 #### Péterfai János...
 
 ...is előveszi a szikla témát [[P/Péter\|Péter]] értelmét vizsgálva:  
-> Baráth Tibor az Erpet névvel veti egybe Árpád nevünket. Erpet az Úr-Háza, ami nem más, mint Pet-Er (és [[P/Pater\|pater]]). A Pet az Ég, mint az Úr Háza, az Er az Úr, amiből egyszerűen következik, hogy Pet-Er az Ég-Ura értelmű. Jézus nagyon is tudta, kire építi a kereszténységet. Az Erpet, mint Árpád, eléggé jól megfelelő szótanilag. Pét-Er tehát az Ég-Ura, a szikla értelmezés a görögöknél arra utal, hogy az Ég Ura égi útján néha elfárad, és megpihen a sziklacsúcsokon, amik szintén Peter nevet kaptak. Az biztos, hogy az egyiptomi, görög, héber nevek mind magyar alapokról erednek. Arpad egyiptomi fáraó, nem csak az egyesítő, hanem a XI. Dinasztia alapítója is.  
+> Baráth Tibor az Erpet névvel veti egybe Árpád nevünket. Erpet az Úr-Háza, ami nem más, mint Pet-Er (és [[P/Pater\|Pater]]). A Pet az Ég, mint az Úr Háza, az Er az Úr, amiből egyszerűen következik, hogy Pet-Er az Ég-Ura értelmű. Jézus nagyon is tudta, kire építi a kereszténységet. Az Erpet, mint Árpád, eléggé jól megfelelő szótanilag. Pét-Er tehát az Ég-Ura, a szikla értelmezés a görögöknél arra utal, hogy az Ég Ura égi útján néha elfárad, és megpihen a sziklacsúcsokon, amik szintén Peter nevet kaptak. Az biztos, hogy az egyiptomi, görög, héber nevek mind magyar alapokról erednek. Arpad egyiptomi fáraó, nem csak az egyesítő, hanem a XI. Dinasztia alapítója is.  
 
 Amiről viszont nem szó, hogy a szikla hegy-alakját tekintve utalhat a nyári napfordulós kulminációs pontra, melyről [[S/Sacchar-\|sacchar-]] címnél is volt szó. Lám, az ott említett tamil `szigaram` = hegycsúcs szóban (szikaram-ként írják de inkább g-sen ejtik; az -am a végéről megint csak lenyisszandó) szóban is ezt a szóformát látjuk.  
 
