@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2025-09-23T23:45"}
+{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2025-10-10T21:52"}
 ---
 
 
@@ -148,7 +148,7 @@ Buji Ferenc passzusa [[C/Cannabis\|cannabis]] címnél is szerepelt:
 
 
 Az [alábbi](https://youtu.be/k1Jktk9Ioao) internet-szenzációt okozó videóban két vadász proto-indo-európai nyelven beszél egymással. A rengeteg hozzászólás ellenére senki sem hozza fel a szkíták nevét, illetve nyelvét, ami kissé furcsa.  
-Igaz, a nyelvészet semmit sem tud a [szkíták nyelvéről](https://wikipedia/Scythian_languages):  
+Igaz, a nyelvészet semmit sem tud a [szkíták nyelvéről](https://en.wikipedia.org/wiki/Scythian_languages):  
 > Fragments of their speech known from inscriptions and words quoted in ancient authors as well as analysis of their names indicate that it was an Indo-European language, more specifically from the Iranian group of Indo-Iranian languages. Alexander Lubotsky summarizes the known linguistic landscape as follows:  
 > "Unfortunately, we know next to nothing about the Scythian of that period \[Old Iranian\] – we have only a couple of personal and tribal names in Greek and Persian sources at our disposal – and cannot even determine with any degree of certainty whether it was a single language."  
 > —  
