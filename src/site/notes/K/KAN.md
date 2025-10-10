@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2025-09-28T21:19"}
+{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2025-10-10T21:51"}
 ---
 
 
@@ -208,7 +208,7 @@ A KAN fényhiányos értelmére látszik rámutatni a kelta-ír `gann` = alig (m
 
 ### Könny/Geny/KAN nemzés/nemzettség
 
-[[G/Gene\|Gene]] címnél taglaltuk azon szavakat, melyek a könny/geny és KAN szóalakok által mutatnak a nemzésre, szülésre. Azok közül leginkább a Götz László által megadott sumér `GAN` = szül szó, valamint a saját gyűjtésű észak-kurd `gan` = baszni (lásd [itt](https://en.wiktionary.org/wiki/gan#Northern_Kurdish)) és mandarin-kínai `gàn` = cseszni, baszni (megcsinálni) szavak érdekesek.  
+[[G/Gene\|Gene]] címnél taglaltuk azon szavakat, melyek a könny/geny és KAN szóalakok által mutatnak a közben [[H/Hen\|hen]] helyen is együtt taglalt nemzésre/szülésre. Azok közül leginkább a Götz László által megadott sumér `GAN` = szül szó, valamint a saját gyűjtésű észak-kurd `gan` = baszni (lásd [itt](https://en.wiktionary.org/wiki/gan#Northern_Kurdish)) és mandarin-kínai `gàn` = cseszni, baszni (megcsinálni) szavak érdekesek.  
 
 
 De mit szóljunk a [[H/Halcyon\|halcyon]] eredetvizsgálatában említett görög `kyōn` = fogantatás szóhoz, mely ilyen szóalakkal "rendesen" kutyát jelentene?  
@@ -223,7 +223,7 @@ A sok hasonló, hol előhangos (H vagy K, valamikor SZ, mint [[S/Szamár\|szamá
 [[A/AN, ÁN\|AN, ÁN]] Körére, [[H/Hun\|HUN]] Körére vagy KAN Körére utaló nevek: az Ég(anya) Körére, Hun/Fény Körére ill. kimondottan az utóbbiból (és a Rák és [[S/Szamár csillagkép\|Szamár csillagkép]] nevei alapján: Cancer, Szamár, Homár) kiindulva a nyári napfordulós évkezdési pontra vagy másképpen a világos félév végére/a sötét félév kezdőpontjára utaló.  
 
 Megjelenhetnek:  
-> 1a) nép/ország/földrész/folyó, istennő (démonizált) neveként ([[U/Ugor\|Ugor]]/[[H/Hágár\|Hágár]], [[H/Hungár\|hungár]], Szingár-Szumer/[[S/Sumer\|sumer]]/Kangár/Kiengir, [[V/Vandal\|Vandal]], [[A/Angol\|angol]]), [[U/Umbria\|Umbria]], [[C/Cumbria\|Cumbria]], ([[A/Ankara\|Ankara]] város), ([[A/Angara\|Angara]] földrész, folyó), ([[A/Angerona\|Angerona]] istennő, [[H/Hukairya\|Hukairya]]/[[H/Hungária\|Hungária]]/Hunyor is lehet istennő; vesd össze [[H/Hágár\|Hágár]], [[U/Üngür\|Üngür]] démon) ([[W/Wing\|wing]][^4] alapján is madáristennő összefüggés[^5] sem kizárt);
+> 1a) nép/ország/földrész/folyó, istennő (démonizált) neveként ([[U/Ugor\|Ugor]]/[[H/Hágár\|Hágár]], [[H/Hungár\|hungár]], Szingár-Szumer/[[S/Sumer\|Sumer]]/Kangár/Kiengir, [[V/Vandal\|Vandal]], [[A/Angol\|angol]]), [[U/Umbria\|Umbria]], [[C/Cumbria\|Cumbria]], ([[A/Ankara\|Ankara]] város), ([[A/Angara\|Angara]] földrész, folyó), ([[A/Angerona\|Angerona]] istennő, [[H/Hukairya\|Hukairya]]/[[H/Hungária\|Hungária]]/Hunyor is lehet istennő; vesd össze [[H/Hágár\|Hágár]], [[U/Üngür\|Üngür]] démon) ([[W/Wing\|wing]][^4] alapján is madáristennő összefüggés[^5] sem kizárt);
 > 
 > 1b) tejre, Tejútra/állatalakra utaló szavakként (méz jelentésű perzsa `ang`, germán `honig`/[[H/Honey\|honey]], és az ezzel közös eredetűnek látszó latin `unguere` = illatos olajjal bekenni ige[^6]) ([[H/Hungár\|hungár]] lehet-e Tejútnév?; [[A/Angara\|Angara]] folyó) ([[A/Angol\|angol]] címnél taglalt angolna és kígyó jelentésű szavak; lásd még [[C/Conger\|conger]]);
 > 
