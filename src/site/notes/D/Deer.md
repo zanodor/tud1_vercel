@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2025-09-28T21:24"}
+{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2025-10-10T21:54"}
 ---
 
 
@@ -108,7 +108,7 @@ Egyébiránt a Dar-Mah név szó szerint Nagy Szarvast jelentene (Badinynál \*d
 Lásd még azóta [[S/Szarvas\|szarvas]] és [[K/Krisztus\|Krisztus]] címnél írottakat.  
 
 [^2]: Lábjegyzet:  
-Ugyanakkor a Tejútanya vulvája a [[M/Mula\|Mula]] holdházban lenne. Viszont a precesszióval számolni kell, ahogy [[G/Galactic centre\|Galactic centre]] címnél is szóltunk róla (lásd szürkével kiemelve illetve az alatta szereplő részt is).  
+Ugyanakkor a Tejútanya vulvája a [[M/Mula\|Mula]] holdházban lenne. Viszont a precesszióval számolni kell, ahogy [[G/Galactic centre\|Tejútközpont]] címnél is szóltunk róla (lásd szürkével kiemelve illetve az alatta szereplő részt is).  
 
 [^3]: Lábjegyzet:  
 A [[V/Vad\|vad]]állatról [[F/Feral\|feral]] és [[B/Beast\|beast]] címnél is volt szó. Utóbbi is utalni látszik a Tejútanyára, ha elfogadjuk Aleister Crowley éppen elmésnek mondható összekapcsolását az egyiptomi [[B/Basztet\|Basztet]] istennővel.  
