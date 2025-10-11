@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-10-04T17:59"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-10-11T20:14"}
 ---
 
 
@@ -9,12 +9,17 @@
 
 <small>**Megjegyzés**: A Google Gemini-s összefoglalók a Google (YouTube) által automatikusan rendelkezésre bocsátott feliratozás alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli problémák, melyek mindegyikét nem veszem észre, hogy javíthassam. Kisbetűs vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag", "az előadó szerint", amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattintva ellenőrizni a videón, hogy mi szerepelt az eredeti hang- ill. képanyagban.</small>
 
-<small>**Megjegyzés 2**: Újabban (20250925 óta?) a Rumble-ra tett videók nem játszhatók le, így Videa linkeken megy az időbélyegre kattintásokkal a videó.</small>
+<small>**Megjegyzés 2**: Újabban (20250925 óta?) a Rumble-ra tett videók nem mindig játszhatók le, így az eredeti Videa linkeken megy az időbélyegre kattintásokkal a videó. Ha a Videáról eltávolításra kerülnek a műsorok, a Rumble-ra vissza lehet nézni, de az időbélyegekre kattintás nem fog működni.</small>
 
 <small>**Megjegyzés 3**: A web app keresője nem keres és nem talál ezen összefoglalókban!</small>
 
 **Videók archivált összefoglalókkal**:  
 
+[251010CN! KÉT PÓLUS](https://videa.hu/videok/nagyvilag/251010cn-ket-polus-kubinyi-tamas-magyar-IxgKfRqQQBtLHpm3)  [https://archive.ph/khrsA](https://archive.ph/khrsA)
+[251009CN! SÁTÁNTANGÓ](https://videa.hu/videok/nagyvilag/251009cn-satantango-kubinyi-tamas-aktv-magyar-6M2kLqTJDgN80T8j)  [https://archive.ph/xQJHj](https://archive.ph/xQJHj)  
+[251008CN! SZAKÁCS ÁRPÁD](https://videa.hu/videok/nagyvilag/251008cn-szakacs-arpad-kubinyi-tamas-magyar-oQEclsSfokyaYOPz)  [https://archive.ph/YvEJY](https://archive.ph/YvEJY)
+[251007CN! TISZTULÁS](https://videa.hu/videok/nagyvilag/251007cn-tisztulas-kubinyi-tamas-aktv-magyar-irkXAGpdlo8uKxOu)  [https://archive.ph/6sx4c](https://archive.ph/6sx4c)  
+[251006CN! ARADI 13](https://videa.hu/videok/nagyvilag/251006cn-aradi-13-kubinyi-tamas-magyar-YFcwOAqXavLCKjUy)  [https://archive.ph/IWfzX](https://archive.ph/IWfzX)
 [251003CN! SZŐLŐ UTCA](https://videa.hu/videok/nagyvilag/251003cn-szolo-utca-kubinyi-tamas-magyar-9oj6VhLxmxrjL7T8)  [https://archive.ph/W1334](https://archive.ph/W1334)
 [251002CN! BOCSKAY](https://videa.hu/videok/nagyvilag/250102cn-bocskay-kubinyi-tamas-aktv-magyar-CbPFo2LXHSZgIBj9)  [https://archive.ph/29wAM](https://archive.ph/29wAM)
 [251001CN! FORD T](https://videa.hu/videok/nagyvilag/251001cn-ford-t-kubinyi-tamas-magyar-OsJOV00YejUzyiXL)  [https://archive.ph/3uN7o](https://archive.ph/3uN7o)
