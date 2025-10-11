@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-10-10T21:57"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-10-11T20:13"}
 ---
 
 
@@ -575,7 +575,7 @@ Graves felfogásában a vizuális ikonográfia is fontos volt. Graves megalkotta
 Mircea Eliade Myth and Reality című könyvének 182-183. oldalán szól Hunor és Magor kapcsán arról, hogy a magyar felső vezetésnek szüksége volt egy ősiséget bizonyító mondára és a Hunor-Magor rege kapóra jött. Közvetlenül a "kitalált nép" Románia létrejötte után (Eliade román származású) előjönni egy ilyen témával...nem éppen szerencsés. Eliade sem érti a Hunor és Magor neveket, de legalább az ikeristenségek funkciója alapján gyanakodhatna, de nem teszi, vagy a nyilvánosság előtt nem vallja be.  
 
 [^8]: Lábjegyzet:  
-Ipolyi Arnold Magyar mythologia című könyvének 434. oldalán [[K/Kísér\|kísér]] szavunkat is úgy próbálta elemezni, hogy utótagját sír főnevünkkel vetette össze, mely gyakorlata arra utalhat, hogy nem gyökökben, hanem szótagnyelvben gondolkodott. Ezt részint Fáy-nál is látni.  
+Ipolyi Arnold Magyar mythologia című könyvének 434. oldalán [[K/Kísér\|kísér]] szavunkat is úgy próbálta elemezni, hogy utótagját sír főnevünkkel vetette össze, mely gyakorlata arra utalhat, hogy nem gyökökben, hanem szótagnyelvben gondolkodott. Ezt részint Fáynál is látni.  
 
 [^9]: Lábjegyzet:  
 Számtalan helyen volt arról szó, hogy a nyelvek a főneveket veszik át inkább és az igék is utólag képzettek. Lám, Varga Zsigmond könyvében is írja:  
