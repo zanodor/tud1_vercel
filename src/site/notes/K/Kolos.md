@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kolos/","title":"Kolos","created":"2024-05-06T12:29","updated":"2025-08-31T02:09"}
+{"dg-publish":true,"permalink":"/K/Kolos/","title":"Kolos","created":"2024-05-06T12:29","updated":"2025-10-17T01:45"}
 ---
 
 
@@ -22,7 +22,7 @@ Az is kiderül, hogy több névben is megmutatkozik. Kezdjük a [[M/Miklós\|Mik
 > Megemlítjük hogy a Miklós név is a [[M/MAG\|mag]] szóval és a [[M/Magor\|Magor]] névvel függ össze és hogy értelme eredetileg Mik-Kolos, Mak-Kolos = Botos-Gyermek, Botos-Férfi volt; ezekkel kapcsolatban fölemlítjük még a régi magyar Kolos személyneveket és a latin `colossus` = óriás, nagy erejű ember szót is, amelyek eredetileg tehát botos, dorongos értelműek voltak, vagyis Magor-Herkules Napistennek tehát Kolos is egyik neve volt. Világos tehát, hogy Kolosvár neve értelme sem volt más mint Magosvár, Herkulesvár.  
 
 A másik név az imént említett [[H/Héraklész\|Héraklész]]:  
-> Viszont a kal, kel, kole, a Herkules névben kul szótag, kétségtelenül nem más mint a nagy bunkósbot a kalló (szerb-horvát `kolac` = bot, karő, rúd), vagyis Heraklesz jellegzetes, őt magát is jelképező fegyvere, de amelyről mi már tudjuk, hogy ez egyúttal a hímtag és tehát a hímség jelképe is volt.  
+> Viszont a kal, kel, kole, a Herkules névben kul szótag, kétségtelenül nem más mint a nagy bunkósbot a kalló (szerb-horvát `kolac` = bot, karó, rúd), vagyis Heraklesz jellegzetes, őt magát is jelképező fegyvere, de amelyről mi már tudjuk, hogy ez egyúttal a hímtag és tehát a hímség jelképe is volt.  
 > A latin `colossus` (kolosszusz) = óriás szó eredeti értelme is kolos = dorongos, nagybotos kellett legyen és amely a Kolos személynevünkben máig is fönnmaradott.  
 
 Amely utolsó mondatában az az érdekes, hogy [[K/KOL\|KOL]] már egyszer kör értelemben megjelent, azaz ugyanúgy járulhat kör és kar/bot jelentés hozzá, mint [[K/KAR\|KAR]]-hoz, de [[R/ROT\|ROT]] címnél is szó volt a kör és rúd (valamint út) kettős (hármas) értelméről.  
