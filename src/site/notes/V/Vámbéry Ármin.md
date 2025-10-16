@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vámbéry Ármin/","title":"Vámbéry Ármin","created":"2023-10-13T05:10","updated":"2024-10-26T00:46"}
+{"dg-publish":true,"permalink":"/V/Vámbéry Ármin/","title":"Vámbéry Ármin","created":"2023-10-13T05:10","updated":"2025-10-17T01:45"}
 ---
 
 
