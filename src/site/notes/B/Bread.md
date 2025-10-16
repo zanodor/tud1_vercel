@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bread/","title":"Bread","created":"2024-11-04T16:16","updated":"2024-11-04T16:16"}
+{"dg-publish":true,"permalink":"/B/Bread/","title":"Bread","created":"2024-11-04T16:16","updated":"2025-10-17T01:45"}
 ---
 
 
