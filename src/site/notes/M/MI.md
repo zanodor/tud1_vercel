@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MI/","title":"MI","created":"2025-05-29T14:32","updated":"2025-09-24T13:51"}
+{"dg-publish":true,"permalink":"/M/MI/","title":"MI","created":"2025-05-29T14:32","updated":"2025-10-17T01:45"}
 ---
 
 
@@ -24,8 +24,11 @@ Az alábbiak elé azt is jegyezzük meg, hogy mi = mé = [[M/Méh\|méh]] egyez�
 
   
 
-Gyárfás Ágnes Lúd Anyó meséi – Régi angol gyermekversek ősgyök készlete című az Ősi Gyökér 2011/1. sz. megjelent cikkében Gosztony Kálmánt (Gosztony Kálmán: Összehasonlító szumér nyelvtan 41. old.) követve kimondja, hogy régen nem volt [[E/ÉN\|ÉN]] névmásunk, csak a többes MI volt használatban (ez kapóra jön Gyárfás Ágnesnek, mert az angol `me` névmást épp előtte vette számba). Gosztony is abba a hibába esik, hogy a sumerből akarja levezetni a magyart (és persze indo-európai sumerológusokat követ).  
-Micsoda (il)logikai bravúr és önkényesség részéről, hogy én szavunkat énekléshez köti ("az éneklők közösségének egy tagja"-ra vonatkozna [[E/ÉN\|ÉN]] szavunk szerinte). Azzal nem is foglalkozik, hogy több nyelvben én szavunkhoz hasonló, egyes szám első személyt kifejező szó jelen volt/van.  
+Gyárfás cikkében nem látom, hogy említette volna az etruszk nyelvet, ahol – [ezen](https://web.archive.org/web/20060212140157/http://www.continuitas.com/morrisrev1.pdf) helyen álló információ szerint is – valóban azt látjuk (ahogy [[M/MI#Sumér és etruszk alakok\|lentebb]] is), hogy az etruszk `mi` = én jelentésű.  
+Ez persze onnan is keletkezhetett, hogy a magyar (és más) nyelv(ek)ben a birtokrag 'm'. A `my` és `mine` is innen jöhet, nem `mi` szavunk nyomán.  
+
+Gyárfás Ágnes Lúd Anyó meséi – Régi angol gyermekversek ősgyök készlete című az Ősi Gyökér 2011/1. sz. megjelent cikkében Gosztony Kálmánt (Gosztony Kálmán: Összehasonlító szumér nyelvtan 41. old.) követve kimondja, hogy régen nem volt [[E/ÉN\|én]] névmásunk, csak a többes MI volt használatban (ez kapóra jön Gyárfásnak, mert az angol `me` névmást épp előtte vette számba). Gosztony is abba a hibába esik, hogy a sumérből akarja levezetni a magyart (és persze indo-európai sumerológusokat követ).  
+Micsoda (il)logikai bravúr és önkényesség részéről, hogy én szavunkat énekléshez köti (szerinte "az éneklők közösségének egy tagja"-ra vonatkozna `én` szavunk). Azzal nem is foglalkozik, hogy több nyelvben én szavunkhoz hasonló, egyes szám első személyt kifejező szó jelen volt/van.  
 Kiderült, kitől vette az ötletet:  
 
 #### Borbola János Ősmagyarul...  
@@ -54,17 +57,16 @@ Látható mi egyes számra(?) vonatkozó névmási jelentése.
 Az [ezen](http://www.languagesgulper.com/eng/Pahlavi.html) oldalon is megtalált, [ezen](https://www.youtube.com/watch?v=VEwAuVTSIUo) Bahador Alast féle videóban is hallott pehlevi (közép-perzsa) egyes szám első személyű névmás (én) direkt alakja `az` megegyezik az Isten [[A/Ász\|Ász]] nevével, de a weboldalon azt írják, hogy `an`-nak kellene hangzósítani, mely [[E/ÉN\|én]] szavunkkal azonos.  
 Amennyiben As-ként is értelmes lenne, az itt taglalt téma alapján is vizsgálható lenne, hiszen a hasonló alakú, tárgyas (nemcsak angolban, skandináv nyelvekben is meglévő) [[U/Us#Us 3)\|us]] is többes szám első személyű.  
 
-A német `uns` = minket, bennünket szóban is az AN/ÉN látszik meg, vagy ez iménti szóelem orrhangos változatanak tekintendő.  
+A német `uns` = minket, bennünket szóban is az AN/ÉN látszik meg, vagy ez iménti szóelem orrhangos változatának tekintendő.  
 
-Mi szavunkkal egyezik a lengyel `my` és angol `we`/német `wir`.  
+`Mi` szavunkkal egyezik a lengyel `my` és angol `we`/német `wir`.  
 
 ## Sumér és etruszk alakok
 
-Götz László Keleten kél a Nap című könyvének 872-873. oldalán található szumér és etruszk szavakat hasonlító szószedetében találjuk a szumér `MA₃-E`, `ME-E`, `MEN₂` = én, `ME`, `MI` = mi és etruszk `MI`, `ME`, `MI NI`, `ME NE` = névmás első személye: én, engem szavakat.  
+#### Götz László Keleten kél a Nap...  
 
-#### Götz László Keleten kél a Nap...
-
-...című könyvében írja:
+...című könyvének 872-873. oldalán található szumér és etruszk szavakat hasonlító szószedetében találjuk a szumér `MA₃-E`, `ME-E`, `MEN₂` = én, `ME`, `MI` = mi és etruszk `MI`, `ME`, `MI NI`, `ME NE` = névmás első személye: én, engem szavakat.  
+Amit még ír:  
 > A személyes névmások nemcsak a szemita és az indogermán nyelvekben párhuzamosak, hanem ugyanez a helyzet az uráli-finnugor és az altáji nyelvekben is, s a szoros megfelelések közös forrása a szumér nyelv volt:  
 > 
 > |indogermán|uráli|altáji|szumér|
@@ -72,7 +74,7 @@ Götz László Keleten kél a Nap című könyvének 872-873. oldalán találhat
 > |\*me-|\*mi|\*mi-, \*män-|me; men₂ (én)|
 > |\*te-|*ti|\*ti(n)-|za; za-e (te)|
 
-Varga Zsigmond Ősmagyar mitológia című könyvének adatsorát lásd még [[M/Mine\|mine]].  
+Varga Zsigmond Ősmagyar mitológia című könyvének adatsorát lásd még [[M/Mine#^kpgmtn\|mine]].  
 
 Lásd még [[M/ME\|ME]], [[M/MIL\|MIL]], [[M/Million\|million]] és [[M/MIR\|MIR]], [[M/Mirror\|mirror]].  
 
