@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kenyér/","title":"Kenyér","tags":["Englishtexttranslated"],"created":"2024-11-04T16:25","updated":"2025-10-16T19:37"}
+{"dg-publish":true,"permalink":"/K/Kenyér/","title":"Kenyér","tags":["Englishtexttranslated"],"created":"2024-11-04T16:25","updated":"2025-10-17T01:45"}
 ---
 
 
@@ -8,7 +8,7 @@
 #### Buji Ferenc A kány-szócsalád...  
 
 ...című 1996-os dolgozatában írja:  
-> Régebben a kenyér alakja nem olyan boltozatos volt, mint manapság, hanem lapos, akárcsak a [[T/Tenyér\|tenyér]]é és a [[T/Tányér\|tányér]]é, de hasonló alakra utal a más fonetikai szerkezetű  a [[L/LEB\|LEB]] címnél taglalt `lepény` szavunk is.  
+> Régebben a kenyér alakja nem olyan boltozatos volt, mint manapság, hanem lapos, akárcsak a [[T/Tenyér\|tenyér]]é és a [[T/Tányér\|tányér]]é, de hasonló alakra utal a más fonetikai szerkezetű `lepény` szavunk is.  
 - Lásd még a török és iráni lapos `pide` kenyereket, az indiai `naan`-t, görög `pita`-t, stb.
 
 Ami a szófejtést illeti, nyilvánvalóan nem Keny-Ér a megfejtés, azaz nem arról van szó, hogy kenjük, vajjal, margarinnal, stb...  
@@ -49,8 +49,8 @@ Az [alábbi](https://qr.ae/pNywlr) Quora válaszban írtam:
 
 ![Kenyér_image20251016193051720.jpeg|invert_dark|840](/img/user/K/assets/Keny%C3%A9r_image20251016193051720.jpeg)
 
-Magyarul még csak annyit ide, hogy a magánhangzó harmónia szabály miatt nem Keny-Úr, hanem Kenyér lesz a szavunk végződése (kivétel a kényúr, mely egyébként sem hétköznapi szó). Hasonló eseteket láttuk másutt, például [[V/Vezér\|vezér]], [[E/Éber\|éber]], [[I/Illír\|illír]] és [[A/Avatar\|avatar]] esetében. De [[K/Kalmár\|kalmár]] is Halom-Úr értelmű lehet.  
-Felvetődik még a kérdés, hogy ha az Úr szavunknak lehet Ár/Ér változata a szavak végén, akkor lehet-e az [[A/AN, ÁN\|AN, ÁN]] = Ég jelentésű szónak [[E/ÉN\|ÉN]], [[I/IN\|in]], stb. formában álló változata? Véleményem szerint lehet és éppen erről is lehet szó [[S/Szegény\|szegény]] esetében is, de Péterfai János ottani megoldása ettől frappáns marad.  
+Még csak annyit ide, hogy a magánhangzó harmónia szabály miatt nem Keny-Úr, hanem Kenyér lesz a szavunk végződése (kivétel a kényúr, mely egyébként sem hétköznapi szó). Hasonló eseteket láttuk másutt, például [[V/Vezér\|vezér]], [[E/Éber\|éber]], [[I/Illír\|illír]] és [[A/Avatar\|avatar]] esetében. De [[K/Kalmár\|kalmár]] is Halom-Úr értelmű lehet.  
+Felvetődik még a kérdés, hogy ha az Úr szavunknak lehet Ár/Ér változata a szavak végén, akkor lehet-e az [[A/AN, ÁN\|An]] = Ég jelentésű szónak [[E/ÉN\|én]], [[I/IN\|in]], stb. formában álló változata? Véleményem szerint lehet és éppen erről is lehet szó [[S/Szegény\|szegény]] esetében is, de Péterfai János ottani megoldása ettől frappáns marad.  
 
 ## Kenyér – cipó – kalács
 
