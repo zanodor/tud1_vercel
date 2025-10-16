@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bolt/","title":"Bolt","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-10T10:45","updated":"2025-06-07T19:50"}
+{"dg-publish":true,"permalink":"/B/Bolt/","title":"Bolt","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-10T10:45","updated":"2025-10-17T01:45"}
 ---
 
 
@@ -11,18 +11,20 @@ Pap Gábor Icai fekete kövek rejtélye című három részes [előadássorozata
 
 Az angol `bar` hasonlóan fényes hely, de a `shop` is lehet szép dolgokat áruló hely. Lásd még lejjebb.  
 
-A ([[B/Bodega\|bodega]] és) [[B/Boutique\|boutique]] szónak megfelelő dán `butik` = bolt szó láttán ötlött fel, hogy bolt szavunk bót formája az, amit [[B/BOT\|BOT]], [[B/BAT\|BAT]] = ház, kis ház (bódé) jelentéssel ismertünk.  
+[[B/Bolt\|Bolt]] szavunk `bót` formája az, amit [[B/BOT\|BOT]], [[B/BAT\|BAT]] = ház, kis ház (`bódé`) jelentéssel ismertünk. Ez a szó is elemezhető tehát így is úgy is.  
+- Az egyik a `bolt` [[B/BOL\|BOL]]/[[B/BUL\|BUL]] = tűz (minthogy `ég` is megvan igeként ilyen jelentéssel) irányából való megközelítés, a másik pedig az, hogy a több helyen említett egyiptomi `pt` (`pet`) = égbolt szó kialakulását is indokolni kell.
 
 Bolt másik jelentése megjelenik a [[V/Vault\|vault]] szóban. Hasonló eset a [[K/Khamor\|Khamor]] címnél taglalt kamra, de [[S/Szoba\|szoba]] szavunk sémi k-előtétes szópárjai kapcsán is a boltozatos helység jött elő.  
 
 [[W/Whelm\|Whelm]] címnél szereplő CzF adatsor alapján a [[V/Vált\|vált]] szavunk gyökének megfelelő BOL gyök alapján is lehet elemezni, minthogy az ég forog is.  
+De egyúttal akkor [[F/Föld\|föld]] szavunk is megfelel `bolt` szavunknak.  
 
 #### Péterfai János...
 
-...is említi:  
+...is említi, de `égbolt` kapcsán nem említi, hogy pleonasztikus:  
 > Az Égbolt szóban a Bolt az Ég neve, ami ragyog. A Bol és Bul Tűz értelmű, a Bolt neve innen ered. Az egyszerű boltok is Fényes helyek, ahol étel, ital is van. A Boltozat az Égbolt ívelt formájának a leírása építészetileg és szótanilag.  
 
-Amennyiben Ég-Bót felfogásban tekintünk rá, akkor BOT = Ház, természetesen a csillagoknak és a Napnak. Az óegyiptomi `p-t` = égbolt szót is a maga helyén ház jelentésű etimonnal hasonlítottuk ([[P/PET\|PET]] vagy [[P/PIT\|PIT]] címnél, de [[P/PÁT\|PÁT]] és [[P/PÁD\|PÁD]] is lehet ilyen).  
+Amennyiben Ég-Bót felfogásban tekintünk rá, akkor BOT = Ház, azaz háza a csillagoknak és a Napnak. Az óegyiptomi `p-t` = égbolt szót is a maga helyén ház jelentésű etimonnal hasonlítottuk ([[P/PET\|PET]] vagy [[P/PIT\|PIT]] címnél, de [[P/PÁT\|PÁT]] és [[P/PÁD\|PÁD]] is lehet ilyen).  
 
 Boltos fiúk jönnek elő a [[Z/Zöld király mese\|Zöld király mesé]]ben; a boltos azt jelenti, hogy az égbolton kell keresni eredetüket.  
 
