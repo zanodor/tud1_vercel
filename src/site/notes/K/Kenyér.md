@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kenyér/","title":"Kenyér","tags":["Englishtexttranslated"],"created":"2024-11-04T16:25","updated":"2025-10-16T18:04"}
+{"dg-publish":true,"permalink":"/K/Kenyér/","title":"Kenyér","tags":["Englishtexttranslated"],"created":"2024-11-04T16:25","updated":"2025-10-16T19:37"}
 ---
 
 
@@ -47,7 +47,7 @@ Az [alábbi](https://qr.ae/pNywlr) Quora válaszban írtam:
 > A "Kenyér" tehát Nap Urat jelent. Eredeti formája olyan kör alakú volt, mint a pizzáé (amely nem olasz találmány, jegyezd meg). A tésztába kereszt alakot vágtak, mielőtt a sütőbe tették (sokkal azelőtt, hogy a hivatalos kereszténység létrejött volna), akárcsak a pizzát (vagy bármilyen pitét vagy akár várost) négyfelé osztottak. Tehát amikor arról olvasol, hogy Szent István (nem az első!) magyar király négyfelé vágta ellensége, [[K/Koppány\|Koppány]] testét, gondolj arra (kétkedjünk jószándékkal), hogy ez csak jelképesen történt. Nem embereket, hanem kutyákat vágtak négyfelé. És még ennek is csillagászati jelentősége volt. Mint mindennek, ami magyar. (A tudósok tudják, hogy az első tudomány a csillagászat volt.)  
 > Itt beszélhetnék Jézusról a kereszten, és arról, hogy eredetileg nem Jézus (szimbolikus) testét ("Corpus Christi") ették, hanem az Anyaistennőét, de itt először hagyom, hogy mindez leülepedjen.  
 
-![Kenyér_image20251016173425736.jpeg|invert_dark|840](/img/user/K/assets/Keny%C3%A9r_image20251016173425736.jpeg)
+![Kenyér_image20251016193051720.jpeg|invert_dark|840](/img/user/K/assets/Keny%C3%A9r_image20251016193051720.jpeg)
 
 Magyarul még csak annyit ide, hogy a magánhangzó harmónia szabály miatt nem Keny-Úr, hanem Kenyér lesz a szavunk végződése (kivétel a kényúr, mely egyébként sem hétköznapi szó). Hasonló eseteket láttuk másutt, például [[V/Vezér\|vezér]], [[E/Éber\|éber]], [[I/Illír\|illír]] és [[A/Avatar\|avatar]] esetében. De [[K/Kalmár\|kalmár]] is Halom-Úr értelmű lehet.  
 Felvetődik még a kérdés, hogy ha az Úr szavunknak lehet Ár/Ér változata a szavak végén, akkor lehet-e az [[A/AN, ÁN\|AN, ÁN]] = Ég jelentésű szónak [[E/ÉN\|ÉN]], [[I/IN\|in]], stb. formában álló változata? Véleményem szerint lehet és éppen erről is lehet szó [[S/Szegény\|szegény]] esetében is, de Péterfai János ottani megoldása ettől frappáns marad.  
