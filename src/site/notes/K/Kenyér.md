@@ -1,11 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kenyér/","title":"Kenyér","tags":["Englishtexttranslated"],"created":"2024-11-04T16:25","updated":"2025-05-30T23:45"}
+{"dg-publish":true,"permalink":"/K/Kenyér/","title":"Kenyér","tags":["Englishtexttranslated"],"created":"2024-11-04T16:25","updated":"2025-10-16T18:04"}
 ---
 
 
 # Kenyér
 
-Régebben a kenyér alakja nem olyan boltozatos volt, mint manapság, hanem lapos, akárcsak a [[T/Tenyér\|tenyér]]é és a [[T/Tányér\|tányér]]é, de hasonló alakra utal a más fonetikai szerkezetű  a [[L/LEB\|LEB]] címnél taglalt `lepény` szavunk is. (Lásd még a török és iráni lapos `pide` kenyereket, az indiai `naan`-t, görög `pita`-t, stb.)  
+#### Buji Ferenc A kány-szócsalád...  
+
+...című 1996-os dolgozatában írja:  
+> Régebben a kenyér alakja nem olyan boltozatos volt, mint manapság, hanem lapos, akárcsak a [[T/Tenyér\|tenyér]]é és a [[T/Tányér\|tányér]]é, de hasonló alakra utal a más fonetikai szerkezetű  a [[L/LEB\|LEB]] címnél taglalt `lepény` szavunk is.  
+- Lásd még a török és iráni lapos `pide` kenyereket, az indiai `naan`-t, görög `pita`-t, stb.
 
 Ami a szófejtést illeti, nyilvánvalóan nem Keny-Ér a megfejtés, azaz nem arról van szó, hogy kenjük, vajjal, margarinnal, stb...  
 Keny-Ér valójában [[K/KEN\|KEN]]-Ér/Úr olvasatú: lásd kún/hun Napot [[K/KIN\|KIN]], [[K/King\|king]]. A latin és újlatin, pl. francia nyelvben a kenyér a Nap [[P/Pán\|Pán]]-os megfordításából tevődik ki:  latin `panis`, francia `pain`.  
@@ -18,7 +22,7 @@ Jankovics Marcell Mély a múltnak kútja című könyvében is írja, hogy a ke
 ...című könyvében írja:  
 > Szent napszimbólum ([[N/Napjelkép\|Napjelkép]]) volt régen minden kenyér. Elég, ha csak a kenyérrel kapcsolatos, mára kiveszőben lévő előírásokra és tilalmakra gondolunk; arra, hogy késsel keresztet rajzoltak rá megszegése előtt, vagy hogy halálos bűn volt rálépni, vagy egyszerűen arra, hogy kerekre formálták. Középen lyukas volt az ószövetségi zsidók kerek lepénykenyere – mint a Nap jele, a pontos kör –, mert botra fűzve szállították. Ezért írja a Szentírás az éhezőkről, hogy "eltört kenyerük botja" (Lev 26,26; Ez4,16; Zsolt 105,16). (Vö. [[K/Kalács\|kalács]], blg. `kolács`, "középen lyukas, kerek kenyér"; az ősszláv alapszó: `kolaéü` "kerék alakú, kerek tárgy" jelentésű.) Az evangéliumokban a kenyér és a [[B/Búza\|búza]] Jézus csodáinak és példázatainak egyik legsűrűbben előforduló eszköze és tárgya. ("Az aratni való sok.,.": Mt 9,37; kalásztépés és gyógyítás szombaton: 12,1; a magvető példázata: 13,18skk; "őrizkedjetek a farizeusok és a szadduceusok kovászától": 16,6; a szérű megtisztításáról: Lk 3,17.)  
 > Különösen napistenhez illő a kenyér szaporítás csodája. Ki mástól függne kenyerünk szaporasága: az élet, ahogy a magyar ember régen a kenyérgabonát nevezte? (Dionüszoszt mint Plutoszt, azaz a "Bőség"-et is ábrázolták teli kenyereskosárral.) A Megváltó által megszaporított kenyér és hal s e kettő megjelenése az utolsó látomásban a világra szóló fordulatot hangsúlyozza; a Nap (kenyér) tavasszal a Halak csillagképbe (hal) lép mostantól fogva (Mt 14; Jn21,9). Keresztény legendák kedvelt motívuma a szent remetéket (Benedeket, Pált) kenyérrel tápláló holló csodája (a [[H/Holló\|holló]] napmadár). A képet Illés próféta történetéből kölcsönözték. Illést az elbeszélő több napisteni tulajdonsággal felruházta; barlangban lakik, szárazságot, esőt tud csinálni, lehívja az Úr tüzét az égből, halottat támaszt fel, egy özvegy kenyerét és olaját megszaporítja, tüzes szekéren az égbe megy (lKir 17-18).
-{ #46-5w}
+{ #4645w}
 
 
 #### Pálfi Károly A magyar nemzet ősvallása...
@@ -43,7 +47,9 @@ Az [alábbi](https://qr.ae/pNywlr) Quora válaszban írtam:
 > A "Kenyér" tehát Nap Urat jelent. Eredeti formája olyan kör alakú volt, mint a pizzáé (amely nem olasz találmány, jegyezd meg). A tésztába kereszt alakot vágtak, mielőtt a sütőbe tették (sokkal azelőtt, hogy a hivatalos kereszténység létrejött volna), akárcsak a pizzát (vagy bármilyen pitét vagy akár várost) négyfelé osztottak. Tehát amikor arról olvasol, hogy Szent István (nem az első!) magyar király négyfelé vágta ellensége, [[K/Koppány\|Koppány]] testét, gondolj arra (kétkedjünk jószándékkal), hogy ez csak jelképesen történt. Nem embereket, hanem kutyákat vágtak négyfelé. És még ennek is csillagászati jelentősége volt. Mint mindennek, ami magyar. (A tudósok tudják, hogy az első tudomány a csillagászat volt.)  
 > Itt beszélhetnék Jézusról a kereszten, és arról, hogy eredetileg nem Jézus (szimbolikus) testét ("Corpus Christi") ették, hanem az Anyaistennőét, de itt először hagyom, hogy mindez leülepedjen.  
 
-Magyarul csak annyit ide, hogy a magánhangzó harmónia szabály miatt nem Keny-Úr, hanem Kenyér lesz a szavunk végződése (kivétel a kényúr, mely egyébként sem hétköznapi szó). Hasonló eseteket láttuk másutt, például [[V/Vezér\|vezér]], [[E/Éber\|éber]], [[I/Illír\|illír]] és [[A/Avatar\|avatar]] esetében. De [[K/Kalmár\|kalmár]] is Halom-Úr értelmű lehet.  
+![Kenyér_image20251016173425736.jpeg|invert_dark|840](/img/user/K/assets/Keny%C3%A9r_image20251016173425736.jpeg)
+
+Magyarul még csak annyit ide, hogy a magánhangzó harmónia szabály miatt nem Keny-Úr, hanem Kenyér lesz a szavunk végződése (kivétel a kényúr, mely egyébként sem hétköznapi szó). Hasonló eseteket láttuk másutt, például [[V/Vezér\|vezér]], [[E/Éber\|éber]], [[I/Illír\|illír]] és [[A/Avatar\|avatar]] esetében. De [[K/Kalmár\|kalmár]] is Halom-Úr értelmű lehet.  
 Felvetődik még a kérdés, hogy ha az Úr szavunknak lehet Ár/Ér változata a szavak végén, akkor lehet-e az [[A/AN, ÁN\|AN, ÁN]] = Ég jelentésű szónak [[E/ÉN\|ÉN]], [[I/IN\|in]], stb. formában álló változata? Véleményem szerint lehet és éppen erről is lehet szó [[S/Szegény\|szegény]] esetében is, de Péterfai János ottani megoldása ettől frappáns marad.  
 
 ## Kenyér – cipó – kalács
