@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2025-10-10T21:50"}
+{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2025-10-17T01:44"}
 ---
 
 
@@ -288,7 +288,7 @@ Hogy pontosan milyen együttállásokkal és főleg milyen földrajzi fekvéseke
 > A napforduló napjának a galaxishoz való igazodása akár 1500 évre is érvényes lehet (mivel a Tejútrendszer széles, és az igazodás általánosítható). Ez a tartomány magában foglalja az inka birodalmat, valamint a Tiahuanaco-i megszállás legutóbbi szakaszát (kb. Kr. u. 600).  
 
 ![assets/Galcen_image19.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image19.png)
-Leenőriztem John M. Jenkins adatát az előbbi képen csatolt infora nézve. Szíriusz nagyon nem moccan ebből a "nadir(?)" pontból az égi egyenlítő alatt. Csak balra, jobbra mozog az évezredek során. Precesszió ugye bele van táplálva.  { #kq3rso}
+Leellenőriztem John M. Jenkins adatát az előbbi képen csatolt infora nézve. Szíriusz nagyon nem moccan ebből a "nadir(?)" pontból az égi egyenlítő alatt. Csak balra, jobbra mozog az évezredek során. Precesszió ugye bele van táplálva.  { #kq3rso}
 
 - Így nem sokat mond az info, legalábbis arra vonatkozólag, hogy milyen égi dinamika játszhat itt szerepet. Olyan program kellene, ami Szíriusz és a Naprendszerünk valós mozgásaira vonatkozó adatokkal van betáplálva. Olyan meg – legalábbis közkézre adva – nem lesz.
 
