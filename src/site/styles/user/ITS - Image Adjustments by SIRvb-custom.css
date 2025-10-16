@@ -381,6 +381,12 @@ img[alt*="p+bcc"], .image-embed[src*="#p+bcc"] img {
   /* mix-blend-mode: screen;  <-- remove this: cannot be used in light mode! */
 }
 
+/* Dark theme: keep invert option alive as well trying to match #1d2021 */
+.theme-dark img[alt$="invert_dark"],
+.theme-dark .image-embed img[alt$="invert_dark"] {
+  filter: invert(1) sepia(25%) saturate(0%) brightness(1.13) contrast(0.85);
+}
+
 img:is([alt*=flip-x],
 [alt*=flip-horizontal]) {
   transform: scale(-1, 1);
