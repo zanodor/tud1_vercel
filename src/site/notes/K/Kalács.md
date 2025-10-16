@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kalács/","title":"Kalács","tags":["Englishtexttranslated"],"created":"2024-12-18T07:36","updated":"2025-09-28T21:23"}
+{"dg-publish":true,"permalink":"/K/Kalács/","title":"Kalács","tags":["Englishtexttranslated"],"created":"2024-12-18T07:36","updated":"2025-10-17T01:45"}
 ---
 
 
 # Kalács
 
 A hivatalos, szlávozó álláspont szerint eredete a kerek (édes)süteményt, tortát jelentő `kolac` szó nyomán eredne a magyar.  
-[[K/Kenyér#^46-5w\|Ezen]] passzusban Jankovics Marcell a bolgár `kolács` = középen lyukas, kerek kenyér szót hozza fel. Szerintem is mindennapi sós étek lenne a kiinduló.  
+[[K/Kenyér#^4645w\|Ezen]] passzusban Jankovics Marcell a bolgár `kolács` = középen lyukas, kerek kenyér szót hozza fel. Szerintem is mindennapi sós étek lenne a kiinduló.  
 
 #### Péterfai János írja:
 
@@ -25,7 +25,7 @@ Péterfai János is mintha arra látszana utalni (sejtelmesen fogalmazza meg), h
 ...című könyvében több helyen taglalt nőiség által képviselt örökkévalóság (a **végtelen jelé**re is kitér a könyvének 251. oldalán) kerül megformálásra. Fantasztikus analógiás módon gondolkodott a magyar. Amit Falvay Károly ír (az első fele másutt is megvolt):  
 > A Nagy Istennő, [[M/Magna Mater\|Magna Mater]], a \[Szent [[A/Anna\|Anná]]val azonosuló\] magyar Nagyboldogasszony december 8-án fogant és a következő év [[S/Szeptember 8\|szeptember 8]]-án szülte meg leányát a Kisasszonyt \[ki így [[M/Mária\|Mária]] lenne\]. Mind a két időszak az év sötét időszaka, amelyből az új élet kél föl.  
 > Ennek felel meg az évkör Állatövében is a [[S/Szűz\|szűz]] időszak, kezdet fogalmunkkal együtt. A magyar nyelv ennek megfelelően nevezte el Szűz Máriának Jézus anyját, ami sajátos, magyar nyelvi eredetű kifejezés \[Santa Maria azaz Szent Mária szerepel más népeknél\].  
-- De ez nem magyarázza meg elégségesen a [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] fogalmát.  
+- De ez nem magyarázza meg elégségesen a [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] fogalmát.
 
 > Évezredekkel vagy évszázadokkal később kapott figyelmet a fiú születése \[hát azért ez nem így van (lásd Hórusz, Mithra, mind Jézushoz hasonló élettörténeteit)\], aki március 25-én Virágvasárnap fogan és december 25-én születik meg. Mindkét dátum az évkör világos felében van. Azzal a különbséggel, hogy amíg a leány születése két évkör időszakát kívánja (a két kör egymás mellé helyezve fekvő [[N/Nyolc\|nyolc]]ast mutat, ami a matematikai végtelen jele!) addig a fiú ugyanabban az évkörben, azaz egy ciklusban születik és hal meg. Itt a "kettes" és "egyes", azaz páros és páratlan szám női-férfi kettősségét kell számba vegyük, mely következményeket mutat. A "kettes" páros szám a női örökkévalóságot, a férfi "egyes" páratlan száma a ciklikusan meghaló létet ábrázolja. Az örökkévalóság fogalma azonos a Föld örökkévalóságával, s így a nő Földanya szerepbe kerül, megvalósítva az anya Nagyboldogasszony, a leánya a Kisasszony kettősséget.  
 - Falvay Károly Nagyboldogasszony c. könyvének 334. oldalán szól a [[L/Lakodalom\|lakodalmi]] szertartás örömkalácsáról, vagy más nevén a kulcsos kalácsról, virágos kalácsról (melyet a torta váltott fel). Szent János neve itt is szóba kerül.
@@ -105,14 +105,14 @@ A kép [[S/Szarv\|szarv]] címhez is bekerült.
 A kulcsos kalácsról az [alábbi](https://netfolk.blog.hu/2016/10/26/kulcsos_kalacs) oldalon esik szó. Érdekes, hogy már maga a [[K/Kulcs\|kulcs]] szó is hasonló a kalácshoz. (Kalocsa is hasonló név.)  
 
 A [[K/Kalász\|kalász]] ![assets/Kalács_image6.png|right|300](/img/user/K/assets/Kal%C3%A1cs_image6.png)  is a nőiség jelve. Nem véletlenül azonos alakúak is a szavak, hiszen a kalács fonatai kalászosak.  
-De a kaláccsal mondhatni egy alakúnak is mondható a [[H/Halak csillagkép\|Halak csillagkép]] neve is. Ott is volt szó legutóbb a fektetett nyolcasról, a végtelen jeléről ([[L/Lemniszkáta\|lemniszkáta]]). Amit tehát egymástól függetlenül Falvay Károly és Gyárfás Ágnes is (**mindketten fekvő nyolcassal**) hangsúlyozni látszik az, hogy az ősök a kalács formában rögzítették a Naprends zer működését. De amíg a kalács és [[K/Karácsony\|Karácsony]] összefüggése a kis évben fontos csak, addig Falvay Károly írása a [[N/Nagy Év\|Nagy Év]] működésére is rá látszik minket vezetni azzal, hogy a [[S/Szűz\|szűz]] = kezdet értelme ott is értelmezhető. A [[S/Szűz-Halak tengely\|Szűz-Halak tengely]] az, amiről el kell mozdulni ahhoz, hogy a Nagy Év fényes félévébe jussunk.  
+De a kaláccsal mondhatni egy alakúnak is mondható a [[H/Halak csillagkép\|Halak csillagkép]] neve is. Ott is volt szó legutóbb a fektetett nyolcasról, a végtelen jeléről ([[L/Lemniszkáta\|lemniszkáta]]). Amit tehát egymástól függetlenül Falvay Károly és Gyárfás Ágnes is (**mindketten fekvő nyolcassal**) hangsúlyozni látszik az, hogy az ősök a kalács formában rögzítették a Naprendszer működését. De amíg a kalács és [[K/Karácsony\|Karácsony]] összefüggése a kis évben fontos csak, addig Falvay Károly írása a [[N/Nagy Év\|Nagy Év]] működésére is rá látszik minket vezetni azzal, hogy a [[S/Szűz\|szűz]] = kezdet értelme ott is értelmezhető. A [[S/Szűz-Halak tengely\|Szűz-Halak tengely]] az, amiről el kell mozdulni ahhoz, hogy a Nagy Év fényes félévébe jussunk.  
 
 **Istenkalácsa ![assets/Kalács_image7.png|right|130](/img/user/K/assets/Kal%C3%A1cs_image7.png)  a Hold egyik régi neve**, ahogy Antal István Tündéres, derengő című Ősi Gyökér 2005/4. sz. megjelent cikkében is említi.  
 [Ezen](https://qr.ae/pNdLh6) Quora kérdésre adott válaszok és kommentek közül kihámozott infók alapján az az érdekes, hogy a magyar kalács nem kerek, valamint inkább kenyérféle, mintsem édesség (szemben az északi szlávval).  
 [Ezen](https://en.wikipedia.org/wiki/Kolach_(bread)) Wiki oldalon viszont az alábbi képet osztják meg:  
 ![Kalács_image20241206180244915.jpg|840](/img/user/K/assets/Kal%C3%A1cs_image20241206180244915.jpg)
 
-[Ezen](https://qr.ae/pNdLnA) válaszban a szlovák illető egy kereket és kerek alakú kalácsot mutat be (a lengyel Dorotheától kapott adat szerint: `kolacz` lengyelül kerek esküvői torta). Akkor jöttem rá, hogy a [[K/Kolos\|Kolos]] (mely a Küllős névvel is azonos) Napistennév a kiinduló. Abban valóban igaza van a szlovák válaszadónak, hogy kereknek kellene lennie a(z akár édes (mint a Nap cirógatása)) kenyérfélének. Sőt Kolos L>R Körös, ahol Kör = Nap. Az ugyan igaz, hogy eredetileg a Tejútanya testét fogyasztották, nem a Napistenét; a mi kalácsunk inkább a Tejútra utaló alakú. De hasonló témát boncolgattunk a Kör név kapcsán is: lehet a Tejút-galaxis köre is. Tehát az is elképzelhető, hogy a Nagy-Ős korábban a Tejútanya volt és a nevet megörökölte a Napisten. Így a magyar kalács formája a régi-eredeti forma maradt volna és a szláv a napvallás korához illeszkedően kerek.  
+[Ezen](https://qr.ae/pNdLnA) válaszban a szlovák illető egy kereket és kerek alakú kalácsot mutat be (a lengyel Dorotheától kapott adat szerint: `kolacz` lengyelül kerek esküvői torta). A [[K/Kolos\|Kolos]] (mely a Küllős névvel is azonos) Napistennév a kiinduló. Abban valóban igaza van a szlovák válaszadónak, hogy kereknek kellene lennie a(z akár édes (mint a Nap cirógatása)) kenyérfélének. Sőt Kolos L>R Körös, ahol Kör = Nap. Az ugyan igaz, hogy eredetileg a Tejútanya testét fogyasztották, nem a Napistenét; a mi kalácsunk inkább a Tejútra utaló alakú. De hasonló témát boncolgattunk a Kör név kapcsán is: lehet a Tejút-galaxis köre is. Tehát az is elképzelhető, hogy a Nagy-Ős korábban a Tejútanya volt és a nevet megörökölte a Napisten. Így a magyar kalács formája a régi-eredeti forma maradt volna és a szláv a napvallás korához illeszkedően kerek.  
 Tulajdonképpen azt kell látni, hogy a magyar fonott kalács alakját tekintve egészen megegyezik a [[K/Kalász\|kalász]] alakjával, a szavak alakját tekintve is (lásd alant).  
 Az egyes fonott kalácsok képeit elnézegetve az interneten azt látjuk, hogy teljesen hasonló régi istennő-ábrázolásokhoz is ([[V/Venus\|Venus]], [[A/Artemisz\|Artemisz]]).  
 Nehéz tudni, hogy pontosan mi hogyan történhetett, de az biztos, hogy a Kolos/Kolozs név és változatai (Kalas, Kalász, stb.) mind megvannak a magyar nyelvben, de a szlávban nincsenek.  
@@ -127,7 +127,7 @@ Egyébiránt a fentieket felírtam az idézett Quora-kérdésre [válaszként](h
 > [Ebben](https://qr.ae/psLNQ2) a válaszban a szlovák beszélő néhány "meggyőző" érvet fogalmaz meg a (szláv) sütemény kerék alakjával kapcsolatban. Úgy gondolja, hogy az eredetnek (minek az eredetének?) köze van a kerékhez. Valójában részben igaza van.  
 > De amit nem tud, az az, hogy **a kerék a Nap szimbóluma**, és **a Nap-vallásokat a matriarchátus előzi meg**, amelyben a Nap Anyjának tisztelete volt az elsődleges (**Anya nélkül nincs Fiú** vagy Nap) (**magyarok nélkül szlávok sincsenek**).
 > ![assets/Kalács_image8.png|840](/img/user/K/assets/Kal%C3%A1cs_image8.png)
-> A kerék alak mögötti fő érv abban bukik meg, hogy a magyar "kalács" nem kör alakú, hanem búzakalászra hasonlít, amit – tessék trombitálni – *[[K/Kalász\|kalász]]*-nak hívunk magyarul.  
+> A kerék alak mögötti fő érv abban bukik meg, hogy a magyar "kalács" nem kör alakú, hanem búzakalászra hasonlít, amit – fanfárok szólaljatok – *[[K/Kalász\|kalász]]*-nak hívunk magyarul.  
 > Azonnal felismerjük, hogy a "kalász" és a "kalács" elnevezése nem véletlen. Azt is felismerjük, hogy a "kalász" (és a *kalács*) nem a Nap (Isten) szimbóluma vagy attribútuma, hanem az Anyja.  
 - Amit a Quorára nem írtam fel, hogy ez az Anya Szűzanya, kinek csillagképének, a Szűznek lucidája az a [[S/Spica\|Spica]], amely kalászt is jelent.
 
@@ -148,7 +148,7 @@ Egyébiránt a fentieket felírtam az idézett Quora-kérdésre [válaszként](h
 > Azt mondani, hogy ilyen és olyan szavak szláv vagy bármilyen eredetűek, elég lusta módja a dolgok kezelésének. Ennek a lustaságnak más területeken is meg kell szűnnie az életünkben.  
 - Bakonyi Gábor nevű állandóan törököző illető jelzi nekem, hogy `kalász` szavunk (mely állítólag megvan másutt is: orosz `kolos` = kalász és üzbég `quloq` = kalász) szó eredetét nem tisztáztam. Valójában a Kal-Ász, Kal-Ács etimonokból álló összetételek és magyarázatai is kimaradtak, de neki válaszban elárultam.
 
-[[P/Perec\|Perec]] szavunk is igen valószínűen csillagászati összefüggésre (perdül, fordul) utal. Ráadásul ott szintén szó esett Szíriuszról, egyiptomi kontextusban (`Peret Sopdet`/Sepdet).  
+[[P/Perec\|Perec]] szavunk is utalhat csillagászati összefüggésre (perdül, fordul). Ráadásul ott szintén szó esett Szíriuszról, egyiptomi kontextusban (`Peret Sopdet`/Sepdet).  
 
 ## Kalács – Galaxy kapcsolat
 
