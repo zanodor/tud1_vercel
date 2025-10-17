@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-10-11T20:14"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-10-17T23:32"}
 ---
 
 
@@ -15,6 +15,11 @@
 
 **Videók archivált összefoglalókkal**:  
 
+[251017CN! CSÚCS ELŐTT](https://videa.hu/videok/nagyvilag/251017cn-csucs-elott-kubinyi-tamas-magyar-lp6VGL7qmySI2tTW)  [https://archive.ph/h9qLp](https://archive.ph/h9qLp)
+[251016CN! DIADALMENET](https://videa.hu/videok/nagyvilag/251016cn-diadalmenet-kubinyi-tamas-aktv-magyar-TavAYcc5UxDYDuwI)  [https://archive.ph/fxaHq](https://archive.ph/fxaHq)
+[251015CN! SZEMFELNYITÓ](https://videa.hu/videok/nagyvilag/25015cn-szemfelnyito-kubinyi-tamas-aktv-magyar-lbAA7GUyYg2OXsI3)  [https://archive.ph/zIls0](https://archive.ph/zIls0)
+[251014CN! A GÓLEM](https://videa.hu/videok/nagyvilag/251014cn-a-golem-kubinyi-tamas-magyar-RAfr3kcWcF5CgdjS)  [https://archive.ph/Ir0z3](https://archive.ph/Ir0z3)
+[251013CN! SZICS és TÁRSAI](https://videa.hu/videok/nagyvilag/251013cn-szics-es-tarsai-kubinyi-magyar-OCVROKdcTNqj6QqM)  [https://archive.ph/zyNhZ](https://archive.ph/zyNhZ)
 [251010CN! KÉT PÓLUS](https://videa.hu/videok/nagyvilag/251010cn-ket-polus-kubinyi-tamas-magyar-IxgKfRqQQBtLHpm3)  [https://archive.ph/khrsA](https://archive.ph/khrsA)
 [251009CN! SÁTÁNTANGÓ](https://videa.hu/videok/nagyvilag/251009cn-satantango-kubinyi-tamas-aktv-magyar-6M2kLqTJDgN80T8j)  [https://archive.ph/xQJHj](https://archive.ph/xQJHj)  
 [251008CN! SZAKÁCS ÁRPÁD](https://videa.hu/videok/nagyvilag/251008cn-szakacs-arpad-kubinyi-tamas-magyar-oQEclsSfokyaYOPz)  [https://archive.ph/YvEJY](https://archive.ph/YvEJY)
