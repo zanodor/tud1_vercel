@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-08-31T02:05"}
+{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-10-25T02:36"}
 ---
 
 
@@ -12,11 +12,12 @@
 > Az Arany meg éppenséggel An Árja, a Fény, ami a földön megkövesül, és Ar-An-ná válik, az emberek örömére.  
 >
 > Bogár László nagy magyar közgazdász sokszor beszél az Arany, Arány és Erény nevek szoros összefüggéséről. Teljes mértékben igaza van. Az Aran (Arany) égi fém, az Arány az ég csillagainak és bolygóinak mozgásához szükséges fogalom, az Erény viszont az Ég által meghatározott erkölcs, szokások és jogok összessége, amit nem illik megszegni. Az E-Rény tehát Háza az Égnek, a Rén Csudaszarvasnak, ha ez jobban tetszik. E nevekben, és másokban is, az Arany, Arány, Erény nevekben, vagy az Irány, Parány, Korány és még sok száz nevünkben az Y kicsinyítés, a J kicsinyítő képző változata. Tehát a Rán és Rén a Nagy Ég, viszont a Rány és Rény csak kisebb hasonmása az Égnek. Mindebből következik, hogy az Arany, Arány és Erény a földi fogalmakra, a kisebb területre vonatkozik, nem pedig az Égre.  
+- Ha már spanyol, a baszk `aran` = szilva jelentésű.
  
 Arról Péterfai János is ír, hogy az [[A/Árja\|árja]] és [[I/Irán\|Irán]] neveket nem lehet összeegyeztetni: az indo-európai nyelvészek teljes tudatlanságban élnek. Az iráni hivatalosan elfogadott eredeztetés szerint Irán Airyana-ból levezetése sem fogadható el: a zavart Arany és Irány szavaink hasonlósága (is) okozza. Lásd erről [[A/Árja\|Aryan]].  
 
 Igen valószínűnek látszik, miután az arany a Nap féme (Kubínyi Tamás egy műsorában azt mondja, hogy **az arany a Napból szakadt ki; a különböző becsapódásoknál mérhető az arany jelenléte**), hogy a Nimródot szintén ősapjuknak tartó jorubák szava Napra, `òrùn`, arany szavunkkal egyező. Ezen szóval is szinte azonos a New Mexico állambeli taosz indián nyelvű `ùruʼúna` = arany.  
-Egyező arany szavunkkal a nyelvészek szerint indoeurópai/germán behatásokkal gyanított finn `aurinko` = Nap, a kelta `aran` = kenyér (a Manx-szigeteken is máig `arran` a kenyér, Írországban is `arán`). Mennyire egyértelműsíti a magyar-kelta rokonságot!  
+Egyező arany szavunkkal a nyelvészek szerint indoeurópai/germán behatásokkal gyanított finn `aurinko` = Nap, a skót-kelta `aran` = kenyér (a Manx-szigeteken is máig `arran` a kenyér, Írországban is `arán`). Mennyire egyértelműsíti a magyar-kelta rokonságot!  
 **Arran** még egy nyugat-skóciai, Clyde-hoz közeli sziget neve is, de [[I/Irán\|Irán]] címnél is előjött az Arran név.  
 
 Kállay Ferenc A pogány magyarok vallása című könyvének [192. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=192&annotation=HMNE92YV) említi az osztják `aureaanus` szót, de hogy aranyat, vagy bálványt jelent, de most hogy melyiket, nem derül ki (aranyból készült bálványokról van szó).  
