@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nemzetgyilkossági kísérlet/","title":"Nemzetgyilkossági kísérlet","created":"2025-10-17T00:42","updated":"2025-10-17T00:43"}
+{"dg-publish":true,"permalink":"/N/Nemzetgyilkossági kísérlet/","title":"Nemzetgyilkossági kísérlet","created":"2025-10-17T00:42","updated":"2025-10-25T02:37"}
 ---
 
 
 # Nemzetgyilkossági kísérlet
 
 Pap Gábor [[T/Trianon\|Trianon]]nal és a kitalált középkorral kapcsolatban használta ezen kifejezést.  
+
+
 (Mint kiderül, ez a cím Dr. Vecseklőy József Trianonnal kapcsolatos könyvének címe, Nemzetgyilkossági kísérlet címmel.)  
 
 Csak a két festmény, amit említ, elegendő lehet annak bizonyítására, hogy ellenünk nemzet-gyilkossági kísérlet történt:  
