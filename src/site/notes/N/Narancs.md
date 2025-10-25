@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Narancs/","title":"Narancs","created":"2024-10-31T14:35","updated":"2024-10-31T14:35"}
+{"dg-publish":true,"permalink":"/N/Narancs/","title":"Narancs","created":"2024-10-31T14:35","updated":"2025-10-25T02:36"}
 ---
 
 
@@ -9,10 +9,11 @@ A szanszkritban `nāranga`, perzsában `nārang`, arabul `nāranj`.
 
 #### Péterfai János írja:  
 
-> Az Orange szó helyesen Úr-An-Ge, ahol a Ge a Földanya, az An az Ég, az Úr a Nap. Ez a Narancs = Orange nevében is megjelenik, a Narancsfa termése a Nap kicsinyített gömbje. Orange – Oranzs – Narancs, a magyar Narancs szó az Orange szóból származik. Az Orange meg a magyar Or-An-Ge szavakból.  
+> Az `Orange` szó helyesen Úr-An-Ge, ahol a Ge a Földanya, az An az Ég, az Úr a Nap. Ez a Narancs = Orange nevében is megjelenik, a Narancsfa termése a Nap kicsinyített gömbje. Orange – Oranzs – Narancs, a magyar Narancs szó az Orange szóból származik. Az Orange meg a magyar Or-An-Ge szavakból.  
 
 Másutt, a spanyol `arantia` szót (melyhez hasonló spanyol női név is van) helyesebben [[A/Arany\|arany]] szavunkhoz kötötte Péterfai János:  
-> Arany szavunk szintén összetétel, az A-Ran az egyik, az Ar-An a másik lehetőség a név megértését illetően. A spanyol Arantia a narancsszirup neve, ami viszont olyan színű, mint a Nap színe, innen is ered a név. A magyar mai Arany szó az Aran származéka, lásd Aran-Ka női nevünket és növény Aranka nevünket. A névben az A Magas, Isteni, Nagy, a Ran az Ég neve. Elképzelhető, hogy az arany királyi és papi fém, ami miatt ezt a rendkívüli nevet kapta. Az őskorban és ókorban a királyok és főpapok isteni rangúnak számítottak. Aki ebben kételkedett, annak beverték a fejét.  
+> Arany szavunk szintén összetétel, az A-Ran az egyik, az Ar-An a másik lehetőség a név megértését illetően. A spanyol `Arantia` a narancsszirup neve, ami viszont olyan színű, mint a Nap színe, innen is ered a név. A magyar mai Arany szó az Aran származéka, lásd Aran-Ka női nevünket és növény Aranka nevünket. A névben az A Magas, Isteni, Nagy, a Ran az Ég neve. Elképzelhető, hogy az arany királyi és papi fém, ami miatt ezt a rendkívüli nevet kapta. Az őskorban és ókorban a királyok és főpapok isteni rangúnak számítottak. Aki ebben kételkedett, annak beverték a fejét.  
+- Ha már spanyol, a baszk `aran` = szilva jelentésű.
 
 A narancs színével és alakjával alkalmas [[N/Napjelkép\|Napjelkép]]. 
 [[A/AR, ÁR#UR (AR, ÁR) és párjainak (ÉL, IL) előtételezése\|UR (AR, ÁR) és párjainak (ÉL, IL) előtételezése]] cím/alcímnél Kállay n-előhangos példái nyomán is megállapítható, hogy mivel a narancs másutt is n-előtét nélkül van meg, akkor [[N/Nyár\|nyár]] is tulajdonképpen: (fény)ár (időszaka). Azaz narancs annyi mint Arany-Ka = Nap-Ocska. 
