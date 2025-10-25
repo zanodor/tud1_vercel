@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kenyér/","title":"Kenyér","tags":["Englishtexttranslated"],"created":"2024-11-04T16:25","updated":"2025-10-17T01:45"}
+{"dg-publish":true,"permalink":"/K/Kenyér/","title":"Kenyér","tags":["Englishtexttranslated"],"created":"2024-11-04T16:25","updated":"2025-10-25T02:36"}
 ---
 
 
@@ -12,7 +12,7 @@
 - Lásd még a török és iráni lapos `pide` kenyereket, az indiai `naan`-t, görög `pita`-t, stb.
 
 Ami a szófejtést illeti, nyilvánvalóan nem Keny-Ér a megfejtés, azaz nem arról van szó, hogy kenjük, vajjal, margarinnal, stb...  
-Keny-Ér valójában [[K/KEN\|KEN]]-Ér/Úr olvasatú: lásd kún/hun Napot [[K/KIN\|KIN]], [[K/King\|king]]. A latin és újlatin, pl. francia nyelvben a kenyér a Nap [[P/Pán\|Pán]]-os megfordításából tevődik ki:  latin `panis`, francia `pain`.  
+Keny-Ér valójában [[K/KEN\|Ken]]-Ér/Úr olvasatú: lásd a kún/hun Napot [[K/KIN\|KIN]], [[K/King\|king]]. A latin és újlatin, pl. a francia nyelvben a kenyér a Nap [[P/Pán\|Pán]]-os megfordításából tevődik ki:  latin `panis`, francia `pain`.  
 Hasonló szó a [[K/KON\|KON]] címnél előjövő perzsa `khoncheh`.  
 
 Jankovics Marcell Mély a múltnak kútja című könyvében is írja, hogy a kenyér (kimondottan a régi kerek fajta) a Napisten megtestesülésének számított.  
