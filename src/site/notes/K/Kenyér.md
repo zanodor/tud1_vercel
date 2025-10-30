@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kenyér/","title":"Kenyér","tags":["Englishtexttranslated"],"created":"2024-11-04T16:25","updated":"2025-10-26T02:17"}
+{"dg-publish":true,"permalink":"/K/Kenyér/","title":"Kenyér","tags":["Englishtexttranslated"],"created":"2024-11-04T16:25","updated":"2025-10-30T02:33"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 ...című 1996-os dolgozatában írja:  
 > Régebben a kenyér alakja nem olyan boltozatos volt, mint manapság, hanem lapos, akárcsak a [[T/Tenyér\|tenyér]]é és a [[T/Tányér\|tányér]]é, de hasonló alakra utal a más fonetikai szerkezetű `lepény` szavunk is.  
-- Lásd még a török és iráni lapos `pide` kenyereket, az indiai `naan`-t, görög `pita`-t, stb.
+- Lásd még a török/iráni lapos `pide` kenyereket, az indiai `naan`-t, görög `pita`-t, stb.
 
 Ami a szófejtést illeti, nyilvánvalóan nem Keny-Ér a megfejtés, azaz nem arról van szó, hogy kenjük, vajjal, margarinnal, stb...  
 Keny-Ér valójában [[K/KEN\|Ken]]-Ér/Úr olvasatú: lásd a kún/hun Napot [[K/KIN\|KIN]], [[K/King\|king]]. A latin és újlatin, pl. a francia nyelvben a kenyér a Nap [[P/Pán\|Pán]]-os megfordításából tevődik ki:  latin `panis`, francia `pain`.  
