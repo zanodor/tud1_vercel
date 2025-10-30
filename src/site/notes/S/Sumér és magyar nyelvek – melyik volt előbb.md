@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2025-10-10T21:54"}
+{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2025-10-30T02:33"}
 ---
 
 
@@ -36,9 +36,9 @@ Ezen utolsó sornak megfelelő vélemény Götz László Keleten kél a Nap cím
 
 Persze ez lehet éppen óvatosság vagy a szumér erények kisebbítésének szándéka is közrejátszhat.  
 
-## Magyart sumérból levezetők és eljárásaik
+## Magyart sumér nyelvből levezetők és eljárásaik
 
-[[N/Novotny Elemér\|Novotny Elemér]], [[D/Dudás Rudolf\|Dudás Rudolf]], [[F/Farkasinszky Tibor\|Farkasinszky Tibor]], [[B/Badiny Jós Ferenc\|Badiny Jós Ferenc]], [[G/Gyárfás Ágnes\|Gyárfás Ágnes]] és sokan mások [[R/René Labat\|René Labat]] adatai alapján haladva állítják össze a magyar szavak értelmét a sumér alapján, ami helytelen. Maga az eljárás már azért is kritizálandó, mert indo-európaiak készítették a sumér-akkád szótárat, de már a sumér maga is önkényesen bánik a szórészekkel: önkényesen bántak a szótagokkal és önálló jelentéseket adtak nekik. Az igaz, hogy Péterfai János is részint ezek alapján határozza meg az alapszavak jelentéseit. A sumér mankó, de nem az alapnyelv.  
+[[N/Novotny Elemér\|Novotny Elemér]], [[D/Dudás Rudolf\|Dudás Rudolf]], [[F/Farkasinszky Tibor\|Farkasinszky Tibor]], [[B/Badiny Jós Ferenc\|Badiny Jós Ferenc]], Gyárfás Ágnes és sokan mások [[R/René Labat\|René Labat]] adatai alapján haladva állítják össze a magyar szavak értelmét a sumér alapján, ami helytelen. Maga az eljárás már azért is kritizálandó, mert indo-európaiak készítették a sumér-akkád szótárat, de már a sumér maga is önkényesen bánik a szórészekkel: önkényesen bántak a szótagokkal és önálló jelentéseket adtak nekik. Az igaz, hogy Péterfai János is részint ezek alapján határozza meg az alapszavak jelentéseit. A sumér mankó, de nem az alapnyelv.  
 Ennél merészebb és kiábrándítóbb már csak az, amikor hosszabb magyar szókapcsolatokat, szövegeket sumerizál valaki (mint Dudás a Tápiószentmárton nevet) és azok helyérték szerinti értelmezésén keresztül használja fel az általunk tökéletesen értett magyar szöveg értelmi "feltuningolására." Az Ősi Gyökér 1974/2-6. sz. megjelent, Badiny Jós Ferenc által is leközölt cikkében – próbálom visszafogni magam a jelzővel: "garázdálkodó", a más esetekben oly éles eszűnek mutatkozó — Novotny Elemérről van szó.  
 
 Novotny Elemér csúcsra járatta nyelvünk sumér nyelven keresztüli bemutatását. Így jár az, aki – a történelmet nem ismerve, vagy például Horvát István írásait nem ismerve – a sumér nyelvből akarja a magyart meghatározni. Ha a fejlődési irányt megfordítjuk, akkor ilyen megborult elmék elméletei jönnek elő alapjában véve értelmes emberektől.  
@@ -113,8 +113,11 @@ Lásd még [[E/Észak és dél#Északi népek délre költözése (és fordítva
 
 ### 6.
 
-A hatodikként említhető példa/bizonyíték is érdekes. A [[P/Pabilsag\|Pabilsag]] nevet hímséginek tekinti Gyárfás Ágnes és Bakos is (lásd [[O/Orion#Orion mint Nyilas/Vadász – Orion/Aryan és Pabilsag problematika\|Orion mint Nyilas/Vadász – Orion/Aryan és Pabilsag problematika]] cím/alcímnél). A sumér itt is a maga elképzelése alapján használja az ideogrammákat. Ugyebár arról van szó, hogy a Nyilas Nyílás (fő/mellék)értelmét már a sumerok nem ismerték-értették (ahogy ezek szerint [[A/Anu\|Anu]] nevét sem), úgy bánhattak önkényesen (el) más csillagképek neveivel is.  
+A hatodikként említhető példa/bizonyíték is érdekes. A [[P/Pabilsag\|Pabilsag]] nevet hímséginek tekinti Gyárfás Ágnes és Bakos is (lásd [[O/Orion#Orion mint Nyilas/Vadász – Orion/Aryan és Pabilsag problematika\|Orion mint Nyilas/Vadász – Orion/Aryan és Pabilsag problematika]] cím/alcímnél). A sumér itt is a maga elképzelése alapján használja az ideogrammákat. Ugyebár arról van szó, hogy a Nyilas `Nyílás` (fő/mellék)értelmét már a sumerok nem ismerték-értették (ahogy ezek szerint [[A/Anu\|Anu]] nevét sem), úgy bánhattak önkényesen (el) más csillagképek neveivel is.  
 Már Gyárfás Ágnes adatait olvasva, [[P/Pabilsag\|Pabilsag]] címnél írottak alapján is felvetődött bennem, hogy Nyilas nem lehet Atya, ahogy Gyárfás Ágnes (és nyilván a sumér nyelvet ismerő forrásai) ilyen értelemmel ill. nemi előjellel megadták. A Tejútközpont a szülőhely, az anyaméh, ahonnan csak az anyai/istennői energiák jöhetnek, az én értelmezésem szerint.  
+Az igaz viszont, hogy a Nyilas olyan hely, ahol a Nap már öreg, de a lényeg az, hogy ha van két Nyilazó csillagkép, és a nyári ([[M/Mul.Pan\|Mul.Pan]]) a nemző, akkor azt veszem hímséginek, nem a téli napfordulós Nyilazót, kivált, hogy a Nyilas-Nyílás magyarul rámutat, hogy itt egy nőiségi lényeget kell megfognom.
+{ #250929}
+
 
 ### 7.
 
