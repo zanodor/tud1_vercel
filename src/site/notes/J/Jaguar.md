@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jaguar/","title":"Jaguar","tags":["Englishtexttranslated"],"created":"2023-11-05T10:32","updated":"2025-09-28T21:28"}
+{"dg-publish":true,"permalink":"/J/Jaguar/","title":"Jaguar","tags":["Englishtexttranslated"],"created":"2023-11-05T10:32","updated":"2025-10-30T02:33"}
 ---
 
 
@@ -34,8 +34,7 @@ Legutóbb [[A/Ape\|ape]] címnél is volt szó arról, hogy a majmokat is kutyaf
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians c. könyvének (második kötetének) 70. oldalán is írja, hogy a kutya több állat nevének formálásánál kiinduló (mire lehet ez bizonyíték?):  
 > The dog is frequently a point of departure in idea with respect to animal names. Thus, with the Sumero-Akkadai, as the Hyena is the Striped-dog the Wolf is the Greedy-dog and the Lion the Big-dog. So, with the Eskimo, the Polar-bear is the White-dog and, in the Vendidad (Fargard, xiii), the Hedgehog is the Dog with the prickly back. The Ak. `Likbarra` is also rendered by (Sem.) `Barbaru`, which is generally translated Leopard. As with respect to colours, so in reference to animals, there is often a great vagueness of terminology in ancient literature.  
 > —  
-> A kutya gyakran kiindulópont az állatnevek \[adásának\] elgondolásában. Így a sumero-akkádoknál, ahogy a hiéna a csíkos kutya, a farkas a mohó kutya és az oroszlán a nagykutya. Így az eszkimóknál a jegesmedve a Fehér kutya, a Vendidadban (Fargard, xiii) pedig a sün a tüskés hátú kutya. Az akkád Likbarra-t is a (sémi) Barbaru adja vissza, amit általában Leopárdnak fordítanak. Ahogy a színek tekintetében, úgy az állatokra vonatkoztatva is gyakran nagy a terminológiai homály az ókori irodalomban.  { #cmhp48}
-
+> A kutya gyakran kiindulópont az állatnevek \[adásának\] elgondolásában. Így a sumero-akkádoknál, ahogy a hiéna a csíkos kutya, a farkas a mohó kutya és az oroszlán a nagykutya. Így az eszkimóknál a jegesmedve a Fehér kutya, a Vendidadban (Fargard, xiii) pedig a sün a tüskés hátú kutya. Az akkád `Likbarra`-t is a (sémi) `Barbaru` adja vissza, amit általában Leopárdnak fordítanak. Ahogy a színek tekintetében, úgy az állatokra vonatkoztatva is gyakran nagy a terminológiai homály az ókori irodalomban.  { #cmhp48}
 
 - [[B/Barbár\|Barbár]] és [[C/Cynosure\|Cynosure]] címhez is bekerült.
 
