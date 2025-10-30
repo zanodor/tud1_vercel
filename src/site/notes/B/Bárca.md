@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bárca/","title":"Bárca","tags":["containstransclusions"],"created":"2023-12-27T06:21","updated":"2025-10-17T01:45"}
+{"dg-publish":true,"permalink":"/B/Bárca/","title":"Bárca","tags":["containstransclusions"],"created":"2023-12-27T06:21","updated":"2025-10-30T16:37"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 #### A Czuczor-Fogarasi szótár adata:
 
-> Pléhlemezből készült jegy, különféle használás végett, például amilyet a festők térítvényűl adnak a festőbe adott vászonért, vagy a birkanyírők kapnak minden egyes birka megnyirésétől, s munka bevégeztével ezek száma szerint fizettetnek. Nyelvünkből elemezve ezt látszik tenni: kis borító, t. i. a bar = bor, bur. Egyébiránt rokonok vele a szanszkrit `marsz` (megkülönböztetni, megismerni), franczia `marque`, német `Marke`.  
+> Pléhlemezből készült jegy, különféle használás végett, például amilyet a festők térítvényűl adnak a festőbe adott vászonért, vagy a birkanyírók kapnak minden egyes birka megnyirésétől, s munka bevégeztével ezek száma szerint fizettetnek. Nyelvünkből elemezve ezt látszik tenni: kis borító, t. i. a bar = bor, bur. Egyébiránt rokonok vele a szanszkrit `marsz` (megkülönböztetni, megismerni), franczia `marque`, német `Marke`.  
 - Angol [[M/Mark\|mark]] címtől utalunk is ide.
 
 #### Péterfai János írja:
@@ -30,5 +30,5 @@
 </div></div>
 
 
-Lényegében ugyanúgy elemzendő, mint [[P/Pálca\|pálca]], csak itt az avar Napistennév van meg előtagjában.  
--Ca lehet tehát Sza = Fény, de lehet az Ata módosulata is (így a felbontása lehet Bat-Ata, mely összetétel sok germán szót adott ki; lásd [[B/Barát\|barát]]). A száj értelmezés itt nem annyira értelmes.  
+Lényegében ugyanúgy elemzendő, mint [[P/Pálca\|pálca]], csak itt az avar Napistennévnek megfelelő r-es forma van meg előtagjában.  
+-Ca lehet tehát Sza = Fény, de lehet inkább az Ata módosulata is (így a felbontása lehet Bat-Ata, mely összetétel sok germán szót adott ki; lásd [[B/Barát\|barát]]). A száj értelmezés itt nem annyira értelmes.  
