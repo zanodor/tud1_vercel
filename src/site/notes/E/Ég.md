@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ég/","title":"Ég","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-10-18T17:53","updated":"2025-10-18T17:54"}
+{"dg-publish":true,"permalink":"/E/Ég/","title":"Ég","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-10-18T17:53","updated":"2025-10-30T02:32"}
 ---
 
 
@@ -272,8 +272,7 @@ Lám, egy másik szarvas/őzféle állatot is találtunk; a szóvégén [[U/U\|U
 Egy másik szarvakkal bíró állat a Kos. Ag- elemet hordozó szavakat láttunk [[A/Agony\|agony]] címnél: latin `agna` = jerke, nőstény bárány ill. `agnus` = áldozati kos.  
 
 A [[S/Süt\|süt]] és [[S/SZU\|SZU]] címnél bemutatott PAESZ táblázatban szereplő `xsaudra` és más szavak kapcsán ötlött fel, hogy a [[J/Júda\|Júda]] és [[K/Khuda\|Khuda]] jelentései/értelmezései a [[C/Csudaszarvas\|Csudaszarvas]] nevünk [[C/Csuda\|Csuda]] = Ég = Isten jelentést felvevő előtagjából kerülnek inkább ki és nem a Kutyából.  
-
-Az [ezen](https://en.wiktionary.org/wiki/%CE%A3%CE%BA%CF%8D%CE%B8%CE%B7%CF%82#Ancient_Greek) oldalon talált perzsa **Skudra** is hasonló és Thrákiára vonatkozott volna.  
+- Az [ezen](https://en.wiktionary.org/wiki/%CE%A3%CE%BA%CF%8D%CE%B8%CE%B7%CF%82#Ancient_Greek) oldalon talált perzsa **Skudra** is hasonló és Thrákiára vonatkozott volna.
 
 Ugyebár Ég és [[I/Isten\|Isten]] címnél volt szó arról, hogy ilyen jelentésű szavak több nyelvben ugyanazon szóval fejeztetnek ki. Az ég jelképe a szarvas és onnan jön az eső is, mely a viharisten terméke is. Ergo [[T/Thor\|Thor]] és más [[T/Teremtő\|Teremtő]] istenek neve is Szarvas/Bika isten (Tur) nevei.  
 
@@ -319,5 +318,5 @@ Kérdés, hogy vajon az ónorvég `eign` = vagyon, tulajdon (lásd [[O/Own\|own]
 > Aztán van 4-5 vagy néha 10-20 oldalam más témákban (hasonló összefüggéseket bizonyító szavak gyűjteménye). Az én "bűnöm" az, hogy ingyen dolgozom (ki dolgozik manapság ingyen?...hozzád is és minden mozdulatodhoz dollárérték kapcsolódik, ugye...ez a sátánizmus) és keresem az összefüggéseket, és nem tagadom az általam talált összefüggéseket. Arra törekszem, hogy bizonyítsak és ne cáfoljak. Istené (Egy) vagyok és nem a Sátáné, melynek az Akadémia dolgozik...  
 > Szóval amikor több száz, sőt több ezer (nem a judaista-kommunista kufár-uzsorás banda által működtetett Akadémia által összegyűjtött) szó közös mindenhol, akkor ezt mivel magyarázod? Vagy ezek a szavak tényleg proto-/pánszláv, proto-/pán-török stb. szavak? Persze a címkézés mindig a könnyebbik út. A csaló útja. Az emberek útja ma az önámítás és mások megtévesztése. Ez az a kor, amelyben élünk. Önmagunk és egymás becsapása, még önmagunk ellenére is. Az ipari szintű félretájékoztatás kora. Mindannyiunkat fiatal korban kezdenek el indoktrinálni. Ne legyetek tehát fiatalok és hiszékenyek.  
 > Talpra, hunok.  
-- Lehetett volna még említeni a baszk `ogi` = kenyér szót, azon az alapon, hogy sütik. A kelta `aran`, `arán` = kenyér is aranybarna színére utal, továbbá [[B/Baguette\|baguette]] helyen volt sütésről.
+- Lehetett volna még említeni az `ég` szavunkkal azonosnak látszó baszk `ogi` = kenyér szót, azon az alapon, hogy sütik. A kelta `aran`, `arán` = kenyér is aranybarna színére utal, továbbá [[B/Baguette\|baguette]] helyen volt sütésről.
 
