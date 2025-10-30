@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Krónikák hitelessége/","title":"Krónikák hitelessége","created":"2024-12-16T18:43","updated":"2025-07-12T00:31"}
+{"dg-publish":true,"permalink":"/K/Krónikák hitelessége/","title":"Krónikák hitelessége","created":"2024-12-16T18:43","updated":"2025-10-30T02:33"}
 ---
 
 
@@ -16,6 +16,10 @@ Nemcsak a krónikák, hanem úgy általában a források, kútfők, egyes szerz�
 
 ...egy Szent Lászlóról szóló Agora adásban mondja [04:04](https://www.youtube.com/watch?v=qTfyJhIPjEc&t=244)-től:  
 > [[B/Bonfini\|Bonfini]] majd sokkal későbbi évszázadokban Mátyás király idején leírja, hogy ő meglepetéssel tapasztalja azt, hogy a magyar királyok, úgy általában az európai királyoknak írt krónikák világából kiemelkednek. Miért emelkednek ki? Mert csak a meztelen igazságot fogalmazzák meg. Tehát nem szépítenek, nem torzítanak, hanem megpróbálják az igazságot egyenes mederbe tartani.  
+
+
+> [!note] &nbsp;
+> [14:09](https://www.youtube.com/watch?v=VwZEOz6HUl4&t=849) Bonfini szerint "a magyar krónikák abban különböznek más népek krónikáitól, hogy csak a pőre, meztelen igazságot írják le."
 
 ## Jogigény a Kárpát-medencére
 
