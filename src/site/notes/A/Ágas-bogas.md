@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ágas-bogas/","title":"Ágas-bogas","created":"2023-10-22T02:40","updated":"2025-09-20T14:01"}
+{"dg-publish":true,"permalink":"/A/Ágas-bogas/","title":"Ágas-bogas","created":"2023-10-22T02:40","updated":"2025-10-30T02:33"}
 ---
 
 
@@ -22,14 +22,14 @@
 >
 > Az egymással ilyen összefüggésben lévő állatok, növények és természeti tárgyak formaritmusának egyezése a természetnek ma nem ismert törvényein alapszik, amelyeket azonban őseink, illetve ezek táltosai, ismertek és ez volt egyik legfontosabb tudományuk, amelynek igen sok gyakorlati hasznát vették, valamint részben ezen, de főkép a formák és hangok egymásnak való megfelelésén alapultak őseink ható varázsigéi és énekei is. E tudomány kulcsára tanulmányaim rávezettek és tudom hogy ha az ebbeli tanulmányokat a megfelelő szükséges eszközökkel tovább folytathatnók, úgy ezen egész megbecsülhetetlen tudománynak ismét birtokába juthatnánk.  
 > A ma, csontmaradványokból, legismertebb ős-szarvasfajnak azonban lapátos szarvai voltak, mint a mai jávorszarvasnak és részben a dámszarvasnak is; itt azonban megjegyezem, bár e dolog kimutatása nem tartozik ide s ennek kifejtésére is igen sok mindent kellene megírnom, hogy a lapátos-szarvú szarvasfélék főkép jász őstörzseink szent állatai voltak, bár szerepeltek a palócoknál is, de hogy a magyar törzsek szarvasa egy valóban ágas és bogas agancsú szarvas kellett hogy legyen. Hogy az őskorban egymástól menyire eltérő alakú szarvakkal bíró szarvasfajok léteztek, erre nézve összehasonlításul álljon itt e rajz.  
-- Ezen utóbbi rajzok kapcsán írhatta volna Magyar Adorján, hogy tűz-, illetve [[L/Láng\|láng]]-nyalábokra hasonlítanak.  
-![assets/Ágas-bogas_image2.png|fix_dark fix_light|840](/img/user/A/assets/%C3%81gas-bogas_image2.png)
-
+- Ezen utóbbi rajzok kapcsán írhatta volna Magyar Adorján, hogy tűz-, illetve [[L/Láng\|láng]]nyalábokra hasonlítanak.  
+![assets/Ágas-bogas_image2.png|fix_dark fix_light|840](/img/user/A/assets/%C3%81gas-bogas_image2.png)  
 A [[S/Szarvas\|szarvas]]ság[^1] (bundája pettyein kívül: lásd új Magyar Adorján féle adatokkal [[S/Sika\|sika]]) egyik lényege ugyanis az agancs-[[K/Korona\|koroná]]ja. A Napfogyatkozásoknál vizsgált Napkitörések illetve a Napkorona igen hasonlók az alábbi rajzokhoz (már ami a kicsapódásokat illeti).  
 Őseinek gondolkodásában mindig ilyen analógiákat kell keresni. Ezt Magyar Adorján is jól tudta.  
 
-Érdekes analógiát sikerült ![assets/Ágas-bogas_image3.png|fix_dark fix_light right|300](/img/user/A/assets/%C3%81gas-bogas_image3.png)  felfedezni a lengyel nyelvben. A mai lengyelben ugyan a `wół` = ökör többese `woły`, de [ezen](https://commons.wikimedia.org/wiki/File:Bronze_oxen,_Bytyn.jpg) oldalon a lengyel Wołki z Bytynia szókapcsolatban az előrész egy k-t is tartalmaz, mely szó egyezik a lengyel `wołki` = zsizsi szóval is, mely rovaroknak szintén van szarva, ahogy a szarvasmarhának is.  
+Érdekes analógiát sikerült felfedezni a lengyel nyelvben. A mai lengyelben ugyan a `wół` = ökör többese `woły`, de [ezen](https://commons.wikimedia.org/wiki/File:Bronze_oxen,_Bytyn.jpg) oldalon a lengyel Wołki z Bytynia szókapcsolatban az előrész egy k-t is tartalmaz, mely szó egyezik a lengyel `wołki` = zsizsi szóval is, mely rovaroknak szintén van szarva, ahogy a szarvasmarhának is.  
 A lengyel `wilk` = farkas is hasonló alakú szó, mely persze inkább [[F/Falka\|falka]] és [[F/Farkas\|farkas]] szavunkkal azonosul.  
+![assets/Ágas-bogas_image3.png|fix_dark fix_light right|300](/img/user/A/assets/%C3%81gas-bogas_image3.png)  
 A lengyel `wielka` = nagy melléknév is nyilván [[B/Bél\|Bél]] nevéből ered.  
 
 A (néggyel és csavarással is kapcsolatba hozott, [[S/Star\|star]]-ral is szinte azonos [[C/CSÁR\|CSÁR]] címnél is taglalt görög `sztaurósz` = áldozati karó, kereszt szóval azonosított) [[O/Ösztörű\|ösztörű]] szónál szerepelt biz. Szabó D. adata, miszerint eredeti értelme szerint (többek közt) **ágas-bogas fa**. [[E/Eszter\|Eszter]] címnél Tejúttal kapcsolatos fejtegetés is szerepelt.  
