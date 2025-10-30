@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated"],"created":"2024-05-09T22:31","updated":"2025-10-10T21:50"}
+{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:31","updated":"2025-10-30T16:49"}
 ---
 
 
