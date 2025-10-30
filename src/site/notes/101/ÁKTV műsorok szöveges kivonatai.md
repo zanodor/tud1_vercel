@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-10-25T02:38"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-10-30T02:30"}
 ---
 
 
@@ -15,7 +15,10 @@
 
 **Videók archivált összefoglalókkal**:  
 
-[251022CN! UTOLSÓ FIGYELMEZTETÉS](https://videa.hu/videok/nagyvilag/251022cn-utolso-figyelmeztetes-kubinyi-tamas-magyar-DpcsrSrALqKXbVFl)  [https://archive.ph/bXulZ](https://archive.ph/bXulZ)
+[251029CN! KULCSMONDAT](https://videa.hu/videok/nagyvilag/251029cn-kulcsmondat-kubinyi-tamas-aktv-magyar-vlWcTB3tyDAF2Rqx)  [https://archive.ph/1oGBm](https://archive.ph/1oGBm)
+[251028CN! TISZAKÉCSKE](https://videa.hu/videok/nagyvilag/251028cn-tiszakecske-kubinyi-tamas-aktv-magyar-FlVRRTNqXXD3GpX1)  [https://archive.ph/wvdh3](https://archive.ph/wvdh3)
+[251027CN! BENYOVSZKY](https://videa.hu/videok/nagyvilag/251027cn-benyovszky-kubinyi-tamas-aktv-magyar-mzvYrLYwfM3WW8jV)  [https://archive.ph/oDWa9](https://archive.ph/oDWa9)
+**[251022CN! UTOLSÓ FIGYELMEZTETÉS](https://videa.hu/videok/nagyvilag/251022cn-utolso-figyelmeztetes-kubinyi-tamas-magyar-DpcsrSrALqKXbVFl)**  **[https://archive.ph/bXulZ](https://archive.ph/bXulZ)**
 [251021CN! ROBBANÁS](https://videa.hu/videok/nagyvilag/2501021cn-robbanas-kubinyi-tamas-aktv-magyar-zjiJGR2XgFXj4zOY)  [https://archive.ph/mjtpw](https://archive.ph/mjtpw)
 [251020CN! ÉLET-HALÁL KÉRDÉS](https://videa.hu/videok/nagyvilag/251020cn-elet-halal-kerdes-kubinyi-magyar-3Q6vendbFkA0ZEvt)  [https://archive.ph/zo4tD](https://archive.ph/zo4tD)
 [251017CN! CSÚCS ELŐTT](https://videa.hu/videok/nagyvilag/251017cn-csucs-elott-kubinyi-tamas-magyar-lp6VGL7qmySI2tTW)  [https://archive.ph/h9qLp](https://archive.ph/h9qLp)
