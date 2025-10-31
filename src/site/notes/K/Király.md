@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-10-27T12:27","updated":"2025-09-21T20:56"}
+{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-10-27T12:27","updated":"2025-10-31T01:49"}
 ---
 
 
@@ -46,10 +46,12 @@ Péterfai János tökéletes levezetéséhez tehető, hogy nem ez az egyetlen he
 
 
 > De a cáréhoz hasonló a magyar "király" szó története is. Itt meg I. (Nagy) Károlyt tartják a král, karol szláv tisztség névadójának, és hát innen lett volna szláv jövevényszó a magyar király is. Mint Cézárnál, itt is a nagyapa volt a névadó. Ő volt Kalapácsos (Martell) Károly (686-741) a Karoling-dinasztia alapítója. A Károly (Carolus, Charles, eredeti kiejtés: charlz), név az ónémet \*karlja, \*karlaz, (szabad ember, jobbágy) titulusból eredeztethető.  
-> Ekkor a magyar ~~protoindoeurópai eredetű~~ `kerál` szó már évezredek óta ismert lehetett és a kentum-szatem nyelvi szétváláskor a magyarban maradt a "ker" gyök, míg a szatem területen ez "szárrá", "cárrá" változott. Míg a magyar "király" szóban a "kör", a szláv "cár" szóban a "sár" (gömb, pld. földgömb, `Земной шар`) szó jelöli a teljességet \[[[SAR\|[SAR]]-nak van teljes jelentése a sumérben vagy akkádban\], a mindenek feletti uralmat. Ezt a gömböt (nálunk országalmát) tartják a kezükben az ősi istenek, királyok. 
+> Ekkor a magyar ~~protoindoeurópai eredetű~~ `kerál` szó már évezredek óta ismert lehetett és a kentum-szatem nyelvi szétváláskor a magyarban maradt a "ker" gyök, míg a szatem területen ez "szárrá", "cárrá" változott. Míg a magyar "király" szóban a "kör", a szláv "cár" szóban a "sár" (gömb, pld. földgömb, `Земной шар`) szó jelöli a teljességet \[vö. [[S/SAR\|SAR]]-nak van teljes jelentése a sumérben vagy akkádban\], a mindenek feletti uralmat. Ezt a gömböt (nálunk országalmát) tartják a kezükben az ősi istenek, királyok. 
 
 </div></div>
 
+
+Az iménti soroknak leginkább annyi haszna volt, hogy ráébredjünk, hogy a `király` valamilyen sz-előhangos név [[K/Kentum\|kentum]]os változata lehet. Tehát Sz-R-L alakú név kerestetik, elsősorban fényes, ragyogó jelentéssel, minthogy a király isteni legitimáció révén kerül hatalomra: ő maga is fény. Szár-Úr, Szár-El, Kár-El, Ker-Ál útvonalon eljuthatnánk a névhez.  
 
 Gyárfás Ágnes Megbánás és megbocsájtás a régi magyar hitvilágban című az Ősi Gyökér 2011/1. sz. megjelent cikkében a Kör-Áll fogalmának helyességét szerintem nem biztos, hogy a megfelelő jellel magyarázza, amennyiben [[S/SAR#Sar 2)\|sar]]-re utal a jel (a mellékelt kép Botos Lászlótól való):  
 ![assets/Király_image1.jpeg|fix_dark fix_light|840](/img/user/K/assets/Kir%C3%A1ly_image1.jpeg)  
@@ -92,7 +94,7 @@ Ennek a Tejútanyának feje, koronája [[S/Szíriusz\|Szíriusz]], mellyel Szét
 Mivel a régi időkben még ismerték Szíriusz valós, [[P/Precesszió\|precesszió]]s [[N/Nagy Év\|Nagy Év]]re vonatkozó tevékenységét\[?\] és belőle származik az asztrális kutyatisztelet is, nem nehéz kitalálni, hogy a sárkányi erők magához Szíriuszhoz köthetők. Sár-kány minősége a Vaskorban (Halak-Vízöntő korszak), Szár-Kan minősége az Aranykorban (Szűz-Oroszlán korszak) érvényesül. A sárkány szimbólum a precessziós érvénytartományban így vázolható fel.  
 
 Legutóbb [[S/Szent Grál\|Szent Grál]] címnél is azt fejtegettük, a [[G/Grail\|grail]] = király összefüggés kapcsán, hogy a király lényegében Nap-név és konkrétan a születendő Nap neve. Ezért lehet azonos a madár jelentésű szingaléz szóval és K-T váltással a [[T/Turul\|Turul]] névvel is. Ami [[S/Szent Grál\|Szent Grál]] címnél állt:  
-Tehát azzal, hogy a grál edény, kehely és ezáltal méh-jelkép is lehet és király szavunkból kell eredjen, valóban rámutat arra, amit [[M/Magyar\|magyar]], [[P/Pina\|pina]] és [[S/Szül\|szül]] címnél is írtunk, hogy azonos neveken futhat az életet adó anya neve és fia neve is. De ez magyarázza meg a [[N/Napistennő\|Napistennő]] problematikát is. De akár ez magyarázhatja meg a [[S/Szűz\|szűz]] = [[T/Tűz\|tűz]] alaki (és fogalmi?) azonosságot is.  
+Tehát azzal, hogy a grál = edény, kehely és ezáltal méh-jelkép is lehet és `király` szavunkból kell eredjen, valóban rámutat arra, amit [[M/Magyar\|magyar]], [[P/Pina\|pina]] és [[S/Szül\|szül]] címnél is írtunk, hogy azonos neveken futhat az életet adó anya neve és fia neve is. De ez magyarázza meg a [[N/Napistennő\|Napistennő]] problematikát is. De akár ez magyarázhatja meg a [[S/Szűz\|szűz]] = [[T/Tűz\|tűz]] alaki (és fogalmi?) azonosságot is.  
 A téli napfordulós születéskor a Nap együtt áll a Tejút-Szíriusszal és a Földdel is, amely kettő a Nap anyja. Lényegében amit Jankovics Marcell [[K/Kehely\|kehely]] címnél is leírt, teljesen jónak mondható.  
 
 Egyébként könnyen lehet, hogy a szó nem magyar, hanem (annak ellenére, hogy az udmurtban is megvan) (egy későbbi, akár) hun korban jött létre. Azért gondolnám, mert a későbbi nyelvekben ilyen alakú (ha nem is a holló, hanem) a varjú neve ([[C/Crow\|crow]]) és mivel [[M/Mátyás\|Mátyás]]ék sem véletlenül (hogy most Remete Szent Pál legendás-mesés története nyomán, miszerint a bujdosni kényszerülő, barlangban tanító Pálnak holló hozta a kenyeret, vagy sem, ezt a lehetőséget én kizárom; a holló más mesében is segítő állat ill. mitológiákban gyakori) választották madaruknak, korábban sem lenne véletlen ilyen nevet választani. Sőt, a király holló fogalmában az a tetszetős, hogy a nőiség is megvan benne (sötét) és hogy az egyik legintelligensebb madár a földön.  
@@ -125,7 +127,7 @@ Kubínyi Tamás egy műsorában idézi az Szent István király intelmei Imre he
 **A szakrális királyság eszméje magyar eredetű**. A madár [[M/Magyar népművészet\|magyar népművészet]]i vizsgálata (a [[M/Madár\|madár]]ról népművészeink ma ezt mondják: "Sem nem kicsi, sem nem nagy, éppen akkora, amekkora az eget a Földdel összeköti," azaz feladata a kapcsolattartás Isten és ember között; épp mint a [[M/Magyar\|magyar]]nak) és a [[M/Madár#Madaras koronák\|madaras koronák]] cím/alcímnél taglaltak alapján mondhatjuk ki.  
 [Ezen](https://youtu.be/ZDxpS9YJwI4&t=1658) előadásban [[G/Grandpierre Atilla\|Grandpierre Atilla]] 27:38-nál mondja, hogy a napkirálynak az a feladata, hogy felemelje a népét, úgy ahogy a Nap hatására a növények felemelik a fejüket és kivirágzanak. [[H/Huang-ti\|Huang-ti]] kapcsán is fontos észrevételeket tesz.  
 
-[[K/Khvarena\|Khvarena]] és [[K/Korona\|korona]] címnél esik még szó a legitimációról, mennyei mandátumról.  
+[[K/Khvarena\|Khvarena]] ill. [[F/Farr\|farr]] címnél, [[K/Korona\|korona]] címnél és [[K/Kut\|kut]] címnél esik még szó a legitimációról, mennyei mandátumról.  
 
 #### Oláh Imre Ősi jelképiség...  
 
