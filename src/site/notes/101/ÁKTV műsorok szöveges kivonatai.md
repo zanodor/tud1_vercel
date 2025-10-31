@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-10-30T02:30"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-10-31T20:21"}
 ---
 
 
@@ -15,6 +15,7 @@
 
 **Videók archivált összefoglalókkal**:  
 
+[251030CN! NEHÉZ IDŐK](https://videa.hu/videok/nagyvilag/251030cn-nehez-idok-kubinyi-tamas-magyar-OQqGKAgHYoANEqEH)  [https://archive.ph/LmDnS](https://archive.ph/LmDnS)
 [251029CN! KULCSMONDAT](https://videa.hu/videok/nagyvilag/251029cn-kulcsmondat-kubinyi-tamas-aktv-magyar-vlWcTB3tyDAF2Rqx)  [https://archive.ph/1oGBm](https://archive.ph/1oGBm)
 [251028CN! TISZAKÉCSKE](https://videa.hu/videok/nagyvilag/251028cn-tiszakecske-kubinyi-tamas-aktv-magyar-FlVRRTNqXXD3GpX1)  [https://archive.ph/wvdh3](https://archive.ph/wvdh3)
 [251027CN! BENYOVSZKY](https://videa.hu/videok/nagyvilag/251027cn-benyovszky-kubinyi-tamas-aktv-magyar-mzvYrLYwfM3WW8jV)  [https://archive.ph/oDWa9](https://archive.ph/oDWa9)
