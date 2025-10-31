@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vacsora/","title":"Vacsora","tags":["titleandheadingonedontmatch"],"created":"2024-03-04T16:35","updated":"2025-08-03T18:52"}
+{"dg-publish":true,"permalink":"/V/Vacsora/","title":"Vacsora","tags":["titleandheadingonedontmatch"],"created":"2024-03-04T16:35","updated":"2025-10-31T16:05"}
 ---
 
 
@@ -15,6 +15,9 @@
 [[C/Csen\|Csen]] címnél az olasz `cenno` = harangszó kapcsán gondoltam arra, hogy az olasz `cena` = vacsora jelentése is innen kerül ki, mármint hogy egyházi/templomi jelzés (csengő, harangszó) jelzi idejét. Ami tehát a Vacs-Ora szóban az órát jelenti, ott az órát ütött jelzés nyomán neveztethetett el az olaszban.  
 Egyébként a tízórai és ötórai (tea) elnevezésében is megtalálható az időpont (a reggeli önmagáért beszél, míg az [[E/Ebéd\|ebéd]] nyilván – nálunk – délre utal).  
 Lásd még [[V/VACS\|VACS]].  
+
+A `vacsoracsillag` népies kifejezés, aminek a jelentése esthajnalcsillag, Vénusz.  
+Nyilván a keresett szavunknak nincs közvetlen kapcsolata a Vénusszal.  
 
 ## Alternatív értelmezése
 
