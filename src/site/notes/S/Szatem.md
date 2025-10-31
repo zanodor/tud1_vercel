@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szatem/","title":"Szatem","created":"2024-11-05T19:17","updated":"2025-09-28T21:28"}
+{"dg-publish":true,"permalink":"/S/Szatem/","title":"Szatem","created":"2024-11-05T19:17","updated":"2025-10-31T01:50"}
 ---
 
 
@@ -82,7 +82,8 @@ A nyelvészeti munkákban látottak alapján a szavak [[K/Kentum\|kentum]] és s
 Még amit az s (š; német `sch`) hang kapcsán ír:  
 > A német S (sch) hang a régi nyelvemlékek tanúsága szerint az SK hangcsoport összevonása útján keletkezett. A gót és az ófelnémet szövegekben a mai német "sch" azaz S helyett rendszeresen SC-t (kiejtve "szk") találunk. De erre vallanak a német nyelv görög és latin jövevényszavai is, amelyek SK (SC) hangjaiból a németben mindig S (sch) lett.  
 
-A [[S/Scorpion\|scorpion]] címnél említett görög `skōr` (szkór) = gané szó is hasonló eset: először azt gondoltam, olyan, mintha a [[S/SZAR\|szar]] és [[K/Kór\|kór]] szavak keveredése lenne.  
+A [[S/Scorpion\|scorpion]] címnél említett görög `skōr` (szkór) = gané szó is hasonló eset: először azt gondoltam, olyan, mintha a `szar` és `kór` szavak keveredése lenne.  
+- Igen, a [[S/SZAR\|szar]] értelmezhető [[K/KÁR\|kár]] és [[K/Kór\|kór]] szavak szatemes változataként.
 
 [[K/Kutya\|Kutya]] cím (újra)bevezetőjében is volt arról szó, miért is alakulhatott ki a hajlandóság arra, hogy a kemény hangzókat lecseréljék.  
 Lásd még [[S/SZAT\|SZAT]] és [[S/SZAD\|szad]].  
