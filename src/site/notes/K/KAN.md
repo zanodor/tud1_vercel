@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2025-10-10T21:51"}
+{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2025-10-31T20:21"}
 ---
 
 
@@ -61,7 +61,7 @@ Fáy Elek A magyarok őshona című könyvének 174-175. oldalán szól a kan (�
 
 Ahogy [[T/Teremtő és teremtett#HUN, KUN\|teremtő és teremtett]] címnél, Kun szócsoportnál írtuk, a Kan jelentései leginkább a latin eredetű, együtt jelentésű [[C/Con- prefixum\|con- prefixum]]ban és a [[S/Sárkány\|sárkány]] és [[C/Canicular\|canicular]] címnél taglaltak szerint érhetők tetten: a kan hímivarú állat ([[K/Kutya\|kutya]] és [[D/Disznó\|disznó]]/[[V/Vadkan\|vadkan]], azaz bestia) is, ember is.  
 Kresznerics Ferenc deák szótárában sárkány címnél és Ipolyi Arnold Magyar mythologia című könyvében is előjön egy latin `coeni` szó is, mely ezek szerint kant jelentene és az egyiptomi Kutyacsillagra utaló cahen (lásd [[K/Kohén\|kohén]]) szóból eredhetne.  
-Ezt a kettős jelentést jól kifejezi a [[F/Fascinum\|fascinum]] szónál is előjövő, [[B/Boszorkány\|boszorkány]] szavunkkal is azonosítható ógörög `βάσκανος` (bászkanosz, "baszó kan/kutya") = varázsló (a varázsló jelentés itt is hozzákapcsolt, másodlagos, mint oly sokszor az utónyelvekben) szó.  
+Ezt a kettős jelentést jól kifejezi a [[F/Fascinum\|fascinum]] szónál is előjövő, [[B/Boszorkány\|boszorkány]] szavunkkal is azonosítható ógörög `βάσκανος` (bászkanosz, "baszó kan/kutya") = varázsló (a varázsló jelentés itt is hozzákapcsolt, másodlagos, mint oly sokszor az utódnyelvekben) szó.  
 
 A pápuai kobon nyelvű `kain` = kutya szóra mondanák sokan, hogy a véletlen műve, hogy a latin `canis`-szal azonos ([[D/DOG\|DOG]] címnél volt szó hasonló témáról). Még a [[K/Káin\|Káin]] név is ilyen lehet.  
 
