@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions"],"created":"2025-06-12T01:36","updated":"2025-09-11T16:56"}
+{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions"],"created":"2025-06-12T01:36","updated":"2025-10-31T01:49"}
 ---
 
 
@@ -8,7 +8,7 @@
 Bár alanyi jogon is értelmezhető, [[K/Kutya\|kutya]] szavunk (és [[S/Suta\|suta]] szavunk) alakváltozatának tekinthető.  
 Utóbbi címnél egy levezetésbe is bocsátkoztunk.  
 
-Végeredményben Csoda/Csuda lehet [[I/Isten\|Isten]] neve/jelzője. [[I/Isten\|Isten]] címnél kifejtettük, hogy Isten valójában inkább istennő, kinek állatalakbani megnyilvánulása az a [[C/Csudaszarvas\|Csudaszarvas]], mely (egyrészt [[S/Szarvas\|szarvas]] címnél Isten fogalmával vétetett össze) az egész csillagos eget és a Tejút sávját is szimbolizálja (bár mivel leginkább a Tejútrendszer csillagait látjuk a csillagos égen, ezért a kettő egy és ugyanaz). Ezen Csoda szóval azonos viszont a [[K/Kutya\|kutya]] és a Kutyacsillag Szíriuszról tudjuk, hogy az is istennő (de – Orionból irányuló – hímségi aspektusa is van) és hogy a Kutya nem választható el a Tejúttól (legalábbis isteni felfogásukat tekintve). Ez a Csoda és Kutya az, amely jó eséllyel a [[S/Szkíta\|szkíta]] és perzsa Khoda/[[K/Khuda\|Khuda]] és a germán [[G/God\|God]] nevek eredetét adja meg. Viszont a [[G/Göd\|Göd]] nevet se felejtsük el.  
+Végeredményben Csoda/Csuda lehet Isten neve/jelzője. [[I/Isten\|Isten]] címnél kifejtettük, hogy Isten valójában inkább istennő, kinek állatalakbani megnyilvánulása az a [[C/Csudaszarvas\|Csudaszarvas]], mely (egyrészt [[S/Szarvas\|szarvas]] címnél Isten fogalmával vétetett össze) az egész csillagos eget és a Tejút sávját is szimbolizálja (bár mivel leginkább a Tejútrendszer csillagait látjuk a csillagos égen, ezért a kettő egy és ugyanaz). Ezen Csoda szóval azonos viszont a [[K/Kutya\|kutya]] és a Kutyacsillag Szíriuszról tudjuk, hogy az is istennő (de – Orionból irányuló – hímségi aspektusa is van) és hogy a Kutya nem választható el a Tejúttól (legalábbis isteni felfogásukat tekintve). Ez a Csoda és Kutya az, amely jó eséllyel a [[S/Szkíta\|szkíta]] és perzsa Khoda/[[K/Khuda\|Khuda]] és a germán [[G/God\|God]] nevek eredetét adja meg. Viszont a [[G/Göd\|Göd]] nevet se felejtsük el.  
 
 A csoda, csuda szavunk tulajdonképpeni értelme [[F/Fény\|fény]], írja Magyar Adorján (lásd külön alcímet lentebb). (De a [[M/Mirage\|mirage]] és [[M/Miracle\|miracle]] = csoda szóban található [[M/MIR\|MIR]] is fényt jelent.)  
 Igen ám, de mivel a csuda a szarvas mellékneve, és az az éji égen keresendő, ezért nem a napközbeni süt fogalmával párosítunk, hanem az éjszakai csillagfényekre.  
