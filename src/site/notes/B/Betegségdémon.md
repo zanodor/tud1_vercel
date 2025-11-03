@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/B/Betegségdémon/","title":"Betegségdémon","created":"2024-04-20T15:37","updated":"2024-10-24T22:12"}
+{"dg-publish":true,"permalink":"/B/Betegségdémon/","title":"Betegségdémon","created":"2024-04-20T15:37","updated":"2025-11-03T17:39"}
 ---
 
 
 # Betegségdémon
 
+Régen az emberek nem ismerték a betegségek tudományos okait, ezért gyakran démoni erőknek vagy gonosz szellemeknek tulajdonították a betegségek kialakulását.  
+
 Varga Zsigmond Az ősmagyar mitológia című könyvében több helyen ír róluk. Például [[L/Lélek\|lélek]] címnél állnak adatai, és [[I/Íz\|íz]] címnél. [[A/Asag\|Asag]] címnél is volt szó betegségdémonról.  
-Varga Zsigmond könyvében arról is volt szó, hogy a szülők gyerekek neveit sem adták meg vagy épppen azokat megváltoztatták hasonló okokból (hogy a betegségdémonok ne árthassanak nekik); lásd erről [[N/Namtar\|namtar]] vagy [[N/Name\|name]].  
+Varga Zsigmond könyvében arról is volt szó, hogy a szülők gyerekek neveit sem adták meg vagy éppen azokat megváltoztatták hasonló okokból (hogy a betegségdémonok ne árthassanak nekik); lásd erről [[N/Namtar\|namtar]] vagy [[N/Name\|name]].  
 
 #### Komlóssy Zsuzsanna Ősi magyar természetgyógyászati hagyományok egy XIII. századi kódex nyomán...
 
