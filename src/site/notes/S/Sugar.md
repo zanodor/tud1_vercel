@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sugar/","title":"Sugar","tags":["titleandheadingonedontmatch","containstransclusions"],"created":"2025-10-17T00:43","updated":"2025-10-17T00:44"}
+{"dg-publish":true,"permalink":"/S/Sugar/","title":"Sugar","tags":["titleandheadingonedontmatch","containstransclusions"],"created":"2025-10-17T00:43","updated":"2025-11-06T01:50"}
 ---
 
 
@@ -14,9 +14,13 @@
 > A Sugár matematikai név is.  
 
 A Sugar szó talán felbontható Sug-Ár elemekre is, Sok Ár jelentéssel, de valószínűbb, hogy az ind [[S/Surya\|Surya]] nevet is kiadó [[S/Szór\|szór]], [[S/Szúr\|szúr]] szavunk széthúzásáról lesz szó.  
+De hogy mennyire [[S/Szarv\|szarv]] gyökével is azonosítható, jól látszik Kálmány Lajos Mythologiai nyomok a magyar nép nyelvében és szokásaiban: a hold nyelvhagyományainkban c. ![Sugar_image20251106013938319.jpeg|fix_dark fix_light right|400](/img/user/S/assets/Sugar_image20251106013938319.jpeg)1887-es dolgozatának 13. oldaláról, ahol egy klárafalvai adat alapján megállapítja, hogy a **Holdnak szarva, másként sugara** van.  
+
+> [!note] &nbsp;
+> Azt már megállapítottuk, hogy a Csodaszarvas agancsa fény/lángjelkép, honnan [[C/Csuda\|csuda]] = ég (akár igeként is).
 
 Badiny Jós Ferenc A világuralom 5000 évvel előttünk és ma című Ősi Gyökér 2004./3. sz. megjelent cikkében, illetve annak Tudástárba [[J/Jahve#Földönkívüli messiásvárás a zsidó jahvizmusban?\|földönkívüli messiásvárás a zsidó jahvizmusban?]] cím/alcímhez tett soraiban említi a sumér(nak összeállított?) Su-Gar-Ra szót, tulajdonképpen antenna jelentéssel: a bemutatott istennő homlokán lévő, két szarv alakú végződés neve: "sugára". Az írástudók úgy mondják: "Ez köti össze az Istennőt az égiekkel."  
-[[K/Kutya\|Kutya]] címnél már volt szó szarvakról (és [[K/KUS\|KUS]] címnél is).  
+[[K/Kutya\|Kutya]] és [[K/KUS\|kus]] címnél már volt szó szarvakról.  
 Molnár V. József Világ-Virág című könyvének 88-90. oldalán szól a sugár(zás)ról. Az a rész, amit Diószegi Vilmostól idéz (miszerint sugár, a Nap sugara hozza a lelket az anyai materiális szülés előtt), az [[A/Álmos\|Álmos]] és [[J/Jézus\|Jézus]] fogantatása kapcsán taglalt témához illeszkedik.  
 
 Péterfai János említhette volna még a baszk **Sugar** istenséget is, kinek nőtársa/neje a [[M/Mária\|Mária]] címnél is előjövő [[M/Mari\|Mari]], aki szintén eső- és tenger/ég(istennő), mint a tamil Mari. Kicsi a világ. Sugar nevét nem értik, mert kígyóból vezetnék le (így születik ezek szerint a baszk `suge` = kígyó szó, utólagos hozzákapcsolással). Mivel kígyókból álló [[S/Swastika\|swastika]]-jellel ábrázolják, ezért Napisten kellett legyen. Napsugár, mondhatjuk.  
@@ -44,7 +48,7 @@ Tulajdonképpen kimondható, hogy a magyar nyelvben is már kimutatható az egyb
 A belső magánhangzó diftongusokra, kettős magánhangzókra tagolódás és ezen hangok közötti [[H/H, J, V\|H, J, V]] félhangok önkéntelen kiejtése figyelhető tehát meg. (Így lesz végül is Bál/Pálból Paul és a szlávban végül Pavel. De a magyar hó > havas változás is erről szól, illetve hasonló a Quorán általam taglalt fiú – fijú kiejtési eset).  
 Az tény, és nem is szabadna összetéveszteni, hogy a szóközepi torokhang olyan hasonló alakú szavakban, mint [[S/Szekér\|szekér]] és [[S/Sikér\|sikér]] megjelenik, de már a Szek/Szik/Sik = Nap neveként. Utóbbi szóval kapcsolatban érdekes, hogy glutén jelentésével éppúgy a cukorra és a melasz-szerű ragacsosságára is utal. (Így értjük meg a [[G/Glucose\|glucose]] szó (szőlő)cukor eredetét is.)  
 
-A [[S/Sár\|sár]] és [[S/Szár\|szár]] témát leginkább a [[S/Sárkány\|sárkány]] címnél írottak alapján, a sárkány jelképállat révén lehet megérteni. Minden az égi fény és tiszta erkölcs és a materializmus sárba taszító, erkölcstelen életmódjának a szembeállítása alapján értendő meg. A magyar-zsidó ellentétek is. Az Annunaki téma kapcsán azt írtam, hogy nem a Sitchin féle aranybányászatról van szó, hanem arról, hogy régen a `sár` és `szár` szavakkal fejezték ki a materialista és erkölcsös életet.  
+A [[S/Sár\|sár]] és [[S/Szár\|szár]] témát leginkább a [[S/Sárkány\|sárkány]] címnél írottak alapján, a sárkány jelképállat révén lehet megérteni. Minden az égi fény és tiszta erkölcs és a materializmus sárba taszító, erkölcstelen életmódjának a szembeállítása alapján értendő meg. A magyar-zsidó ellentétek is. Az Anunnaki téma kapcsán azt írtam, hogy nem a Sitchin féle aranybányászatról van szó, hanem arról, hogy régen a `sár` és `szár` szavakkal fejezték ki a materialista és erkölcsös életet.  
 
 A fényét szóró ([[S/Szór\|szór]] is ilyen szó, mint a szár) Napisten cirógató simogatása tehát édes érzés. A fény és az édesség előjött [[F/Fennel\|fennel]] és [[S/Sweet\|sweet]] szavaknál is. Ellenpárja a fanyarúság. A fanyal nevű növény nem véletlenül mély hangrendű, továbbá éppen árnyékos helyen tenyészik.  
 Lásd még [[S/Sug\|sug]].  
