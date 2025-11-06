@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Apocatastasis/","title":"Apocatastasis","tags":["Englishtexttranslated"],"created":"2025-03-13T03:13","updated":"2025-06-07T18:47"}
+{"dg-publish":true,"permalink":"/A/Apocatastasis/","title":"Apocatastasis","tags":["Englishtexttranslated"],"created":"2025-03-13T03:13","updated":"2025-11-06T19:10"}
 ---
 
 
@@ -25,7 +25,7 @@ Másutt is, számtalanszor felmerült, hogy az adott szavak nem azt jelentik, am
 Bármi is a szó eredeti jelentése, végtére is tudjuk, mi történt ill. fog történni.  
 Másrészt belső fejlődésű görög szóról is van szó.  
 
-#### Várkonyi Nándor írja Sziriat Oszlopai...
+#### Várkonyi Nándor írja Sziriat oszlopai...
 
 ...című művében:  
 > A legrészletesebb emlék Platón elbeszélése (Timaiosz), melyben Szuchisz, [[S/Szaisz\|Szaisz]]-Szaj templomának papja, így foglalja össze Szólón számára a világpusztulásokról szóló egyiptomi tudományt:  
