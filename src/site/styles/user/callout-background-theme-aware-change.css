@@ -1,0 +1,25 @@
+/* Theme-aware callout background adjustments */
+
+/* Light theme: slightly darker callouts */
+.theme-light .callout {
+  background-color: rgba(0, 0, 0, 0.05) !important;
+}
+
+/* Dark theme: slightly lighter callouts */
+.theme-dark .callout {
+  background-color: rgba(255, 255, 255, 0.025) !important;
+}
+
+/* Alternative approach using Gruvbox's actual color values */
+/* Uncomment this section if the above doesn't work well */
+/* Well, it would be okay to use this if I was in Gruvbox locally, but no, I am in Default theme */
+/* Well, of course, I can make different css for DG and for local use... */
+/*
+.theme-light .callout {
+  background-color: #ebdbb2 !important;
+}
+
+.theme-dark .callout {
+  background-color: #3c3836 !important;
+}
+*/
