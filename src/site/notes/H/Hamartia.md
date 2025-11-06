@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hamartia/","title":"Hamartia","tags":["containscallouts","Englishtexttranslated"],"created":"2025-09-19T16:11","updated":"2025-09-19T18:10"}
+{"dg-publish":true,"permalink":"/H/Hamartia/","title":"Hamartia","tags":["containscallouts","Englishtexttranslated"],"created":"2025-11-06T19:08","updated":"2025-11-06T19:09"}
 ---
 
 
@@ -77,18 +77,16 @@ Az [alábbi](https://qr.ae/pNr19s) Quora oldalra érkezett válaszban is szerepe
 
 [[M/Miss#Miss 2)\|Miss]] és [[K/Khamor\|Khamor]] (valamint [[B/Bűn\|bűn]], [[C/Cél\|cél]] és [[K/Kereszt\|kereszt]]) címnél taglaltuk a témát bővebben. A lényeg az, hogy a görög `hamartia` = bűn valójában nyilazás értelmű kell legyen az akkád Kumaru és a héber `hamor`, `hamorim` ilyen jelentései alapján. A Nap a Tejúton haladva elér majd egy pontra (északi Nyilazó csillagkép, azaz [[I/Íj csillagkép\|Íj csillagkép]]), amely különös jelentőségű. Ahogy [[B/Bűn\|bűn]] címnél is közben közbevetettük, a bűn fogalma a nyári napfordulón stafétát átvevő [[H/Hunor\|Hunor]] személyéhez kötendő (ahogy a hamartia is [[K/Khamor\|Khamor]] < Hunor fogalmából látszik kiindulni).  
 
-Amikor Szécsi Leventének válaszként YouTube-felületre kommentben írtam, annak során érdekes beszélgetés alakult ki:  
-> [!details]- &nbsp;
+Amikor egy YouTube-felületre kommentben írtam, annak során érdekes beszélgetés alakult ki:  
+> [!|noicon]
+> > [[B/Bűn\|Bűn]] szavunknak nincs köze a bön valláshoz. A bűn szavunk alanyi jogú és ősibb, a magyar nyelv alaprétegéhez tartozhat, hiszen évköri értelme van. A bűn a [[B/Buta\|buta]] és [[S/Sötét\|sötét]] szavak szinonimájaként az árnyékos félévre és annak kezdőpontjára utal. (Az angol [[S/Sin\|sin]] = bűn is – nyilván latin úton – a sinylődik, senyved, szenved fényhiányos értelmeket fedi fel.)  
 > 
-> > [!|noicon]
-> > > [[B/Bűn\|Bűn]] szavunknak nincs köze a bön valláshoz. A bűn szavunk alanyi jogú és ősibb, a magyar nyelv alaprétegéhez tartozhat, hiszen évköri értelme van. A bűn a [[B/Buta\|buta]] és [[S/Sötét\|sötét]] szavak szinonimájaként az árnyékos félévre és annak kezdőpontjára utal. (Az angol [[S/Sin\|sin]] = bűn is – nyilván latin úton – a sinylődik, senyved, szenved fényhiányos értelmeket fedi fel.)  
-> > 
-> > Erre jött Alexander Chryst meglepően hasznos válasza:  
-> > > A bűn szó latinul `peccatum` = céltévesztés. Annyit tudok vallásfilozófus tanáromtól, hogy ezt a szót íjászmesterek használták, amikor a tanítványok elvétették a célt. Tisztán vallási értelemben viszont: "Origanele peccatum", ami az eredendő bűnt fejezi ki.  
-> > - Rokon értelmű szó a bűnre latinul, `lapsum` = bűnbeesés, lesüllyedés, csúszás, zuhanás.
-> > 
-> > Erre én:  
-> > > Amire én gondoltam, az a latin `sine` = nélkül: fényhiányos. És tessék a szinusz-görbéről, annak nem latin eredetéről is gondolkodni. A céltévesztést illetően pedig a görögöknél hamartia jelenti ugyanezt, mely pedig akár a héber `hamor`-on keresztül a Khamor és Hunor nevekből ered (a hunok meditációs eszköze volt az íj és a nyíl, valamint két csillagképük). A latin szavak – melyeket köszönünk – közül is utóbbi évköri, a Nap ekliptikán való süllyedésére utal.
+> Erre jött Alexander Chryst meglepően hasznos válasza:  
+> > A bűn szó latinul `peccatum` = céltévesztés. Annyit tudok vallásfilozófus tanáromtól, hogy ezt a szót íjászmesterek használták, amikor a tanítványok elvétették a célt. Tisztán vallási értelemben viszont: "Origanele peccatum", ami az eredendő bűnt fejezi ki.  
+> - Rokon értelmű szó a bűnre latinul, `lapsum` = bűnbeesés, lesüllyedés, csúszás, zuhanás.
+> 
+> Erre én:  
+> > Amire én gondoltam, az a latin `sine` = nélkül: fényhiányos. És tessék a szinusz-görbéről, annak nem latin eredetéről is gondolkodni. A céltévesztést illetően pedig a görögöknél hamartia jelenti ugyanezt, mely pedig akár a héber `hamor`-on keresztül a Khamor és Hunor nevekből ered (a hunok meditációs eszköze volt az íj és a nyíl, valamint két csillagképük). A latin szavak – melyeket köszönünk – közül is utóbbi évköri, a Nap ekliptikán való süllyedésére utal.  
 - Az Alexander által említett szavak közül a latin `peccatum` és `peccare` = vétkezni, és a lapsum szavakat még vizsgálni kell. Ahogy írtam, a `lapsum` nyilván a nappálya esésére utal (v.ö. angol [[F/Fall\|fall]] = ősz), illetve mondható, hogy lapos szavunkból ered. A peccatum gyökét ugyanilyen okkal a [[B/BUK\|BUK]] szavunkkal lehet megfeleltetni.
 
 Legutóbb [[E/Errand\|errand]] és [[E/Errant\|errant]] szavaknál is szóba került a célt tévesztés.  
