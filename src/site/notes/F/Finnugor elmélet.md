@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:31","updated":"2025-10-30T16:49"}
+{"dg-publish":true,"permalink":"/F/Finnugor elmélet/","title":"Finnugor elmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:31","updated":"2025-11-06T19:10"}
 ---
 
 
@@ -73,7 +73,7 @@ R. F. Kaindlnek (Studien zu den Geschichtsquellen, VII., VIII.) kellett a száza
 > A Hunfalvy-iskola azonban, mindennek ellenére, kitörölhetetlenül rányomta bélyegét történelemtudományunkra. A 19. század 70-es éveitől kezdve – rövid megszakítással századunk húszas, harmincas éveiben – Hunfalvyék szemlélete maradt a magyar történetkutatás különféle feltevéseinek, következtetéseinek úgyszólván egyedüli kiindulási alapja. Néhány kivételtől eltekintve még napjainkban is a Hunfalvy-iskola nézetei jellemzik hangadó történelmi irodalmunkat, amint ez az előbb idézett Illyés-nyilatkozatból is egyértelműen kiviláglik.  
 
 > [[F/Fischer Károly Antal\|Fischer Károly Antal]] "Erklärung der skythisch-sarmatischen Namen und Wörter aus der ungarischen Sprache" című könyvében finnugor elméletről megállapítja, hogy csakis nyelvi rokonságról beszélhetünk, fajiról azonban nem.  
-- Lásd a témát bővebben [[F/Finnugor rokonság#Fajelmélet\|fajelmélet]] cím/alcímnél.
+- Lásd a témát bővebben [[F/Finnugor rokonság#Finnugor fajelmélet\|fajelmélet]] cím/alcímnél.
 
 > A nyelvhasonlítás igen nagy segítséget nyújthat a történésznek, de csak akkor, ha módszeresen, a történelmi adatokból, forrásokból indul ki, s ezeket sohasem hagyja figyelmen kívül nyelvtörténeti következtetéseinél. Pontosan ez a módszeresség hiányzik azonban a finnugor szemléletű magyar nyelvészetből és [[T/Történelemtudomány\|történelemtudomány]]ból. Ez odáig vezetett, hogy nyelvészeink szerint a magyaroknak nem is olyan sok idővel a honfoglalás előtt úgyszólván nem volt nyelvük, mert szinte minden szavukat azóta kölcsönözték különféle idegen népektől. Különös jelenség nálunk az is – írja Fischer –, hogy tudósaink kézzel-lábbal kapálóznak az ellen a többszörösen kimutatható történelmi adat ellen, hogy legalábbis részben a hunoktól, illetve ezeken keresztül a szkitáktól származunk. Még különösebb azonban az az igyekezetük, hogy minden magyar sajátosságról – legyen az akár művészeti teljesítmény, ipari tárgy, szellemi fogalom vagy magasabb műveltségre mutató szó – bebizonyítsák: mindazokat más népektől, nyelvekből kölcsönöztük.  
 
@@ -260,7 +260,9 @@ Tipikus eljárás a vagy (ezt) vagy (azt választhatod) technikája, amelyet a "
 
 Folyamatok helyett nyelveket (magyar, szumér) is lehetett volna írni.  
 
-Götz László Keleten kél a Nap című könyvéből valóak az alábbiak is:  
+#### Götz László Keleten kél a Nap...  
+
+...című könyvéből valóak az alábbiak is:  
 > A délről érkezett művelődési és nyelvi hatások a magyarok legdélebbre lakó elődeinek közvetítésével jutottak el az északabbi finnugor törzsekhez. Vagyis, még ha a finnugor iskolával összhangban elvben el is fogadjuk valamiféle laza ősi egység esetleges egykori létezését, akkor sem zárkózhatunk el eleve az elő-ázsiai primér kultúrák észszerű módon, minden joggal feltehető művelődési és nyelvi hatásainak kutatásától.  
 - Götz nem számol a szumér (és egyiptomi) kultúra sem északi, sem atlantiszi, stb. eredetével és így érvei fundamentálisan helytelenek, mivel időben és lokálisan korlátozott elvek szerint vonja le következtetéseit. Ettől még részleteiben rendkívül értékesek közlései.
 
@@ -501,11 +503,11 @@ Az elavult módszerek témájához még...
 
 - A szövegben már egyes nyelvcsalád-nevezetek javított változatát adom. <br/>
 Az angol szöveg magyarul pedig így hangzik:  
-Az amerikai nyelvészeti szeminárium a Bochumi Egyetemen, Németországban, orosz és más nyelvészek részvételével, akik a legmodernebb számítógépes nyelvészeti kutatásokon alapuló eredményekre hivatkozva az emberiség egy nyelvét tényként fogadják el, elutasították egy külön finnugor nyelvcsalád létezését.
+Az amerikai nyelvészeti szeminárium a Bochumi Egyetemen, Németországban, orosz és más nyelvészek részvételével, akik a legmodernebb számítógépes nyelvészeti kutatásokon alapuló eredményekre hivatkozva az emberiség egy nyelvét tényként fogadják el, elutasították egy külön finnugor nyelvcsalád létezését.  
 
 ## Finom célozgatások
 
-A finnugor nyelvtudomány új online etimológia [szótárában](https://uesz.nytud.hu/index.html) ha nem találunk meg egy szót keresésre, egy medvetort és eggyúttal büdös halszagot megúszó kedves állat képét látjuk (majd leveszik, hogy ne tudjam mással is reprodukáltatni az eredményt – így szokott menni ez):  
+A finnugor nyelvtudomány új online etimológia [szótárában](https://uesz.nytud.hu/index.html) ha nem találunk meg egy szót keresésre, egy medvetort és egyúttal büdös halszagot megúszó kedves állat képét látjuk (majd leveszik, hogy ne tudjam máskor is reprodukáltatni az eredményt – így szokott menni ez):  
 ![Finnugor elmélet_image20250327031324520.jpg|fix_dark fix_light|840](/img/user/F/assets/Finnugor%20elm%C3%A9let_image20250327031324520.jpg)
 
 ## Lábjegyzetek
