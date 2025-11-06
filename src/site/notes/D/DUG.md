@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/DUG/","title":"DUG","created":"2023-10-13T02:24","updated":"2025-06-07T19:53"}
+{"dg-publish":true,"permalink":"/D/DUG/","title":"DUG","created":"2023-10-13T02:24","updated":"2025-11-06T19:10"}
 ---
 
 
@@ -35,9 +35,9 @@ Természetesen nehéz egyértelműen kinevezni egy-egy szót eredetként úgy, h
 A God, Dog, Dug (mely tej értelmű perzsában, lásd azóta átírt [[D/Daughter\|daughter]]) szavakban keveredik a kutya, szent, tej, tehén értelem. A [[K/KU\|KU]] etimon tisztázásával felfedjük a rejtélyt, mely alapján pontossá válik God értelme is.  
 A KU viszont kúszik igénk kiindulója, gyöke is, és a táltosokról, druidákról – ahogy [[E/Életfa\|életfa]] címnél szó esett róla – tudjuk, hogy fára, [[T/Tölgy\|tölgy]]fára másztak. A [[T/Tölgy\|tölgy]] szónál és a [[M/MISZ\|MISZ]] etimonnál szóltunk arról, hogy a tölgyfa a Tejút jelképezője, így a tölgy valójában tőgy: ahonnan a tej jön. Ír nyelvben egyébként udder, azaz [[T/Tőgy\|tőgy]], `ùth`, mondhatni "Tej-Úth."  
 
-[[T/Tölgy\|Tölgy]] szónál új információkat is szerepeltettünk azóta. Ezek alapján dugh valójában a tölgy > tőgy (tud, minthogy Fehérlófia is a Tejút-tudást a kanca = ló = Nyilas csillagkép tejéből nyeri) származási vonalon érthető meg. A tőgy tűgy kiejtésű is lehetett, T>D és GY>G szabályos hangfejlődéssel könnyen eljutunk a [[D/Dugh\|dugh]] szóhoz. De mondom közben: azóta a valódi megoldás megszületett.  
+[[T/Tölgy\|Tölgy]] szónál új információkat is szerepeltettünk azóta. Ezek alapján dugh valójában a tölgy > tőgy (tud, minthogy Fehérlófia is a Tejút-tudást a kanca = ló = Nyilas csillagkép tejéből nyeri) származási vonalon érthető meg. A tőgy \*tűgy kiejtésű is lehetett, T>D és GY>G szabályos hangfejlődéssel könnyen eljutunk a [[D/Dugh\|dugh]] szóhoz. De mondom közben: azóta a valódi megoldás megszületett.  
 
-#### Várkonyi Nándor Sziriat Oszlopai...  
+#### Várkonyi Nándor Sziriat oszlopai...  
 
 ...című művében találjuk az egyiptomi `duch` szót, mely igen érdekes:  
 > A legrészletesebb emlék Platón elbeszélése (Timaiosz), melyben Szuchisz, [[S/Szaisz\|Szaisz]]-Szaj templomának papja, így foglalja össze Szólón számára a világpusztulásokról szóló egyiptomi tudományt:  
@@ -50,7 +50,7 @@ Hogy a DUG megtermékenyítő értelmű, erről lásd még [[K/Kutyanemzés\|kut
 
 Peter Hogan sumér ékírásos szótárának (a PDF) 43. oldalán hozza a `dug-ga-gu`, `dug-ga-ni` = baszni szavakat. Körbeértünk.  
 
-A török `düzmek` = dug, baszik (a másik szava rá a [[S/Sex\|sex]]-nél említett `szikmek`).  
+A török `düzmek` = dug, baszik (a másik szava rá a [[S/Sex\|sex]] címnél említett `szikmek`).  
 
 Götz László Keleten kél a Nap című könyvének 531. oldalán a szumér `tag` = "pflanzen" (ültet, ti. növényt) szó mellé teszi dug szavunkat.  
 

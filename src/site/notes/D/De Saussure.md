@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/De Saussure/","title":"De Saussure","created":"2024-04-25T13:30","updated":"2024-10-25T17:02"}
+{"dg-publish":true,"permalink":"/D/De Saussure/","title":"De Saussure","created":"2024-04-25T13:30","updated":"2025-11-06T19:10"}
 ---
 
 
