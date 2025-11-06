@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2025-10-04T18:01"}
+{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2025-11-06T19:10"}
 ---
 
 
@@ -114,8 +114,8 @@ Akkor ennyi lenne az indoeurópai nyelvek szavainak létrejöttének receptje?
 Erről is volt szó több helyen. Példákat lehet majd ide gyűjteni. Például:  
 Az ófrancia `boivre` = inni a pohár szóhoz képest eredetibb, mint a latin `bibere`, amennyiben persze a [[B/BOR\|BOR]] szavunk széthúzásának megállapított [[P/Pohár\|pohár]] régebbi, mint a latin és ófrancia szavak.  
 
-A latin `sæculum` és szekuláris időszámítás (generációkat időtartamként számoló) témában [[G/Gergely-naptár\|Gergely-naptár]] és [[S/Second\|second]] címnél és másutt is idézett, az Új kronológiát felállító Anatolij [[F/Fomenko, Anatolij\|Fomenko, Anatolij]] (munkásságát követők) köréhez tartozó Yaroslav Kesler The Perception of Open-Ended Time című cikkét olvasva vesszük észre, hogy a végnapjait élő emberre utaló olasz `vecchio` = öreg; régi szó sem holmi latin `vetus` szóra megy vissza, hanem [[V/Vég\|vég]] szavunkra. Ilyenképpen azt is állíthatnánk, hogy az olasz régebbi nyelv a latinnál.  
-Persze a V-K vázú szó valahol meglehet a latinban is, csak a nyelvészek más szót találtak eredetre (igaz, attól még vetus azt jelenti, amit jelent).  
+A latin `sæculum` és szekuláris időszámítás (generációkat időtartamként számoló) témában [[G/Gergely-naptár\|Gergely-naptár]] és [[S/Second\|second]] címnél és másutt is idézett, az Új kronológiát felállító [[F/Fomenko, Anatolij\|Fomenko, Anatolij]] (munkásságát követők) köréhez tartozó Yaroslav Kesler The Perception of Open-Ended Time című cikkét olvasva vesszük észre, hogy a végnapjait élő emberre utaló olasz `vecchio` = öreg; régi szó sem holmi latin `vetus` szóra megy vissza, hanem [[V/Vég\|vég]] szavunkra. Ilyenképpen azt is állíthatnánk, hogy az olasz régebbi nyelv a latinnál.  
+Persze a V-K vázú szó valahol meglehet a latinban is, csak a nyelvészek más szót találtak eredetre (igaz, attól még `vetus` azt jelenti, amit jelent).  
 
 Legutóbb a hasonló [[P/Profit\|profit]], [[P/Prophet\|prophet]] és profess/[[P/Professor\|professor]] szavak kapcsán is szóba került Kessler, Fomenko és más általam idézett szerzők azon állítása, hogy "ősi" latin szavak előfordulása később mutatkozik, mint például [[A/Antique\|antique]] esetében is.  
 
