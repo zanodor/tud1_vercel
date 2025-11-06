@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zürjén/","title":"Zürjén","created":"2023-11-09T04:33","updated":"2024-10-26T00:53"}
+{"dg-publish":true,"permalink":"/Z/Zürjén/","title":"Zürjén","created":"2023-11-09T04:33","updated":"2025-11-06T19:10"}
 ---
 
 
