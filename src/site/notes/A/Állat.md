@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Állat/","title":"Állat","tags":["Englishtexttranslated"],"created":"2025-05-29T16:52","updated":"2025-05-29T17:35"}
+{"dg-publish":true,"permalink":"/A/Állat/","title":"Állat","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-05-29T16:52","updated":"2025-11-08T02:06"}
 ---
 
 
@@ -15,15 +15,20 @@ Igen ám, de a Szűz jelentése teljes, egész is (bár lehet, hogy csak emberi 
 Egykoron az állatok nem voltak olyan élesen elhatároltak az emberektől, mint ma \[barom szavunkban is `bar` = ember, teremtmény\]. Ma is mondjuk, hogy az ember tudatos, tervezni képes állat vagy hogy kibújt belőle az állat. A világ számos táján az állatoknak ugyanúgy lelket tulajdonítottak, mint az embernek (sőt, az animizmus tanai szerint lelke van a növényeknek, köveknek is).  
 Az óiráni iratok arról szólnak, hogy az ember akkor vesztette el különleges képességét, amikor elkezdett állathúst enni. A vegetáriánus étkezés ma is leginkább azon észak-indiai lakossághoz köthető, akik leginkább megőrizték hun-magyar hagyományaikat.  
 
-Az [[E/Ember\|ember]] átmenet állat és [[I/Isten\|Isten]] között. Ezt talán Mircae Eliade írta. Lásd még [[E/Emberállat\|emberállat]].  
+Az [[E/Ember\|ember]] átmenet állat és [[I/Isten\|Isten]] között. Ezt talán Mircea Eliade írta. Lásd még [[E/Emberállat\|emberállat]].  
 Az állatokról, mint jelképekről sok helyen volt szó, például [[M/Magyar képrejtvények\|magyar képrejtvények]]nél, így az [[Z/Zodiac\|állatövi jegyek]] elnevezése, ahogy a csillagképeké sem arbitráris.  
 Az állattal megszemélyesített istenségek, mint Anubisz (sakál), Artemisz (medve), római Panas (kecske), görög Demetra (ló), stb. a régebbi korok jellemzői, melyet felváltottak az istenek anthropomorfizálása. Ezt az emberi gondolkodás fejlettségi előrehaladásának tudják be a tudósok, holott éppen hogy hanyatlásról van szó.  
 
-Arról is volt szó, hogy egyes népcsoportok egyedei azokkal az állatokkal mutatnak arcbeli hasonlóságot, akiket imádtak, vagy oly sok – akár telepatikus kommunikációs – időt töltöttek velük, hogy elkezdtek hozzájuk hasonlítani: elefántarcú indek, perzsák, cigányok; kutyafejű arabok; ló- és malacfejű angolok; hűllőszerű kínaiak, indonézek; tündéri magyarok; mélyenülő szemű, állatias, harcias ógermánok; és ne felejtsük el, hogy egyes nézetek szerint a majmok is valaha emberek voltak és nem fordítva. ([[F/Fajok\|Fajok]] címnél bővebb listát adok.)  
 
-#### Magyar Adorján is írja:  
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/F/Fajok/#l1616h" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-> Azt pedig hogy a kabarok és kazárok arcjellege ilyenné lett, vagyis hogy a kecskéére és a koséra hasonlított, megokolhatja egyrészt az, hogy ez állatokkal együtt és azonos életkörülmények között élve, az ezredévek alatt természetszerűleg is, testük ezekéhez hasonló jellegeket kezdett ölteni, másrészt, az ilyen arcjelleg válván szépségeszményükké is, szerelmi kiválasztódás útján is, náluk ez arcjelleg szaporodhatott leginkább el. Hasonló dolgot, de a kutyával és farkassal kapcsolatban, már a kunoknál is láttunk.  
+
+
+Egyes népcsoportok egyedei azokkal az állatokkal mutatnak arcbeli hasonlóságot, amelyeket imádtak, vagy oly sok – akár "telepatikus kommunikációs" – időt töltöttek velük, hogy elkezdtek hozzájuk hasonlítani: lásd elefánt- és vaddisznóarcú indek, perzsák, cigányok; fekete-cicaszemű arabok, perzsák; madárarcú asszírok/perzsák; kutyafejű arabok; ló- és malacfejű angolok; hüllőszerű, kígyóarcú maják, kínaiak, indonézek; tündéri, szétálló fülű kelták és magyarok; mélyen ülő szemű, állatias, harcias ógermánok, prognát képű és kecskefejű zsidók; és ne felejtsük el, hogy egyes nézetek szerint a majmok is valaha emberek voltak és nem fordítva (maradjunk abban, hogy távoli unokatestvérek).  
+Persze azt nehéz elképzelni, miféle módon tudták volna evolúciós változásukat gondolatban kieszközölni; inkább lenne hihető, hogy olyan állatokat választottak tisztelendőként, amelyek rájuk hasonlítottak. De ez sem látszik járható útnak.  
+
+</div></div>
+
 
 Ezekről a hasonlóságokról és végső soron a későbbi, mai rasszok kialakulásáról próbáljuk lerántani a leplet: lásd [[F/Fajok\|fajok]], [[K/Kutyafejű\|Cynocephalus]], [[H/Hunor és Magor\|Hunor és Magor]] és másutt.  
 
