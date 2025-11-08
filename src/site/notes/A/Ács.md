@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ács/","title":"Ács","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-05-29T14:33","updated":"2025-10-31T01:49"}
+{"dg-publish":true,"permalink":"/A/Ács/","title":"Ács","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-05-29T14:33","updated":"2025-11-08T23:15"}
 ---
 
 
@@ -17,7 +17,7 @@ Igaz, [ezen](https://qr.ae/pvydY8) ács szavunk magyar eredetét védő ([[K/Kov
 > Ami az ács szót illeti, a "tudomány" szerint ótörök eredetű. És mit látunk? Megint összetételeket: türkmén `agacchi`, kirgiz `zigacchi`, ujgur `jagashchi` mind faipari munkást, azaz ácsot jelent.  
 > Hadd emlékeztessem Önöket, hogy az összetett szavak alkotásához szükség van arra, hogy az alkotó szavak (időnként szótagok/etimonok) készen és rendelkezésre álljanak. Így működik az agglutináció. Ne azt mondjuk, hogy ti (mármint mi magyarok) csak az ótörök szó második részét örököltétek az ácsra. Ha ez – törökből való átvétel – történt volna, akkor a magyar az egész szót átvette volna, anélkül, hogy tudta volna, mit jelent a török \*ag – amely szó egyébként is megvan nekünk (`ág`), de ez most mindegy.  
 
-Ergo szókapcsolatból akarják megfejteni a szavunkat, de a szókapcsolathoz korábban létező elemekre van szükség, ergo ugyanolyan logikátlan mindez, mint a [[F/Finnugor elmélet\|finnugor elmélet]] címnél is említett `kör` szavunkat `körül` elvonásából magyarázni.  
+Ergo szókapcsolatból akarják megfejteni a szavunkat, de a szókapcsolathoz korábban létező elemekre van szükség, ergo ugyanolyan logikátlan mindez, mint a [[F/Finnugor nyelvelmélet\|finnugor nyelvelmélet]] címnél is említett `kör` szavunkat `körül` elvonásából magyarázni.  
 
 Egyébiránt [[A/Ágas\|ágas]] címnél már találkoztunk hasonló fát jelentő szavakkal:  
 A türk karakalpak nyelvben is `ag'ash` = fa, illetve a török (tatár, türkmén) `ağaç` is ezt jelenti.  
