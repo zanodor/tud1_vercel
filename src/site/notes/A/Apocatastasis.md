@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Apocatastasis/","title":"Apocatastasis","tags":["Englishtexttranslated"],"created":"2025-03-13T03:13","updated":"2025-11-06T19:10"}
+{"dg-publish":true,"permalink":"/A/Apocatastasis/","title":"Apocatastasis","tags":["Englishtexttranslated"],"created":"2025-03-13T03:13","updated":"2025-11-08T02:05"}
 ---
 
 
@@ -25,14 +25,14 @@ Másutt is, számtalanszor felmerült, hogy az adott szavak nem azt jelentik, am
 Bármi is a szó eredeti jelentése, végtére is tudjuk, mi történt ill. fog történni.  
 Másrészt belső fejlődésű görög szóról is van szó.  
 
-#### Várkonyi Nándor írja Sziriat oszlopai...
+#### Várkonyi Nándor Sziriat oszlopai...
 
-...című művében:  
+...című művében írja:  
 > A legrészletesebb emlék Platón elbeszélése (Timaiosz), melyben Szuchisz, [[S/Szaisz\|Szaisz]]-Szaj templomának papja, így foglalja össze Szólón számára a világpusztulásokról szóló egyiptomi tudományt:  
 > "Sokszor és sokféle módon pusztultak már el az emberek, leggyakrabban tűz és víz által. Mert az, amit nálatok Phaéthonról, Héliosz fiáról beszélnek: mint szállt fel atyja kocsijára, s miután nem tudta atyja \[a Nap\] útját megtartani, mint égett el minden a Földön, s őt magát villám ölte meg – ez persze úgy hangzik, mint egy mese, de igaz magva az, hogy a Föld körül keringő égitestek mozgása megváltozott, s hogy időnként nagy tűz semmisít meg minden földi lényt... Ti csak egy vízözönről tudtok, holott oly sok előzte már meg..." – A pusztulás azonban felújulással, újrakezdéssel jár együtt, s ez háromszoros vagy háromféle volt és lesz (vagy csak a neve három): nem-duch: az élet megújulása, nem-anch: az Ég megújulása és nem-maszu: a voltak ismétlődései.  
 > E világciklusok azonosak az orphikus **apokatasztaszisz**okkal: az égitestek letérnek pályáikról, s mindent tűz emészt meg a Földön; ekkor áll be az apokatasztaszisz: a csillagok újból olyan együttállásba jutnak, aminőben a világ elején voltak, s a Mindenség élete újrakezdődik.  
 >
-> A vízözön- és tűzözön-ciklusok tanát megtaláljuk a babiloni hagyományok őrzőjénél, [[B/Berossus\|Berossus]]-nál is: a világ élete "nagy évek" sorozatából áll, melyek mindegyikének megvan a tele és nyara. A tél akkor áll be, midőn a bolygók a Vízöntő vagy a Halak csillagképében találkoznak; a nyár akkor, ha az Oroszlán vagy a Rák jegyében. Minden tél vízözönnel kezdődik, minden nyár tűzözönnel. Ez az egyiptomi-babiloni tanítás később átment a görög természetfilozófiába az időszakos világáradás (`hüdatoszisz`) és világégés (`ekpüroszisz`) formájában. Egymásra következésüket Arisztotelész nagy esztendőnek nevezte, melynek végén a Nap, a Hold és a többi bolygó **visszatér** helyére.  
+> A vízözön- és tűzözön-ciklusok tanát megtaláljuk a babiloni hagyományok őrzőjénél, [[B/Berossus\|Berossus]]nál is: a világ élete "nagy évek" sorozatából áll, melyek mindegyikének megvan a tele és nyara. A tél akkor áll be, midőn a bolygók a Vízöntő vagy a Halak csillagképében találkoznak; a nyár akkor, ha az Oroszlán vagy a Rák jegyében. Minden tél vízözönnel kezdődik, minden nyár tűzözönnel. Ez az egyiptomi-babiloni tanítás később átment a görög természetfilozófiába az időszakos világáradás (`hüdatoszisz`) és világégés (`ekpüroszisz`) formájában. Egymásra következésüket Arisztotelész nagy esztendőnek nevezte, melynek végén a Nap, a Hold és a többi bolygó **visszatér** helyére.  
 
 - Hasonlóan értelmezik Chambers Dictionary-ban a platóni évet is:  
 > Platonic year (or great year or perfect year)  
