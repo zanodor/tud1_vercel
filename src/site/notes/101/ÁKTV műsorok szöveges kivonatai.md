@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-10-31T20:21"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-11-08T02:05"}
 ---
 
 
@@ -15,6 +15,11 @@
 
 **Videók archivált összefoglalókkal**:  
 
+[251107CN! LÉTFELTÉTEL](https://videa.hu/videok/nagyvilag/25107cn-letfeltetel-kubinyi-tamas-aktv-magyar-ylFzgIHItAkwtlA8)  [https://archive.ph/mg5hw](https://archive.ph/mg5hw)
+[251106CN! TRÓNFOSZTÁS](https://videa.hu/videok/nagyvilag/25106cn-tronfosztas-kubinyi-tamas-aktv-magyar-BnHyFX6RJMiqPP0T)  [https://archive.ph/TiTzC](https://archive.ph/TiTzC)
+[251105CN! PRIMER TITKOK](https://videa.hu/videok/nagyvilag/251105cn-primer-titkok-kubinyi-tamas-magyar-lon4yVvEMNxdPZ4U)  [https://archive.ph/iCL45](https://archive.ph/iCL45)
+[251104CN! KÖZÖTTÜNK VANNAK](https://videa.hu/videok/nagyvilag/251104cn-kozottunk-vannak-kubinyi-tamas-magyar-B5bZHOzRpxs3BsF2)  [https://archive.ph/t4fZN](https://archive.ph/t4fZN)
+[251103CN! REJTETT TAN](https://videa.hu/videok/nagyvilag/251103cn-rejtett-tan-kubinyi-tamas-magyar-WhOwqfAYxCpCMSHk)  [https://archive.ph/7dLpa](https://archive.ph/7dLpa)
 [251030CN! NEHÉZ IDŐK](https://videa.hu/videok/nagyvilag/251030cn-nehez-idok-kubinyi-tamas-magyar-OQqGKAgHYoANEqEH)  [https://archive.ph/LmDnS](https://archive.ph/LmDnS)
 [251029CN! KULCSMONDAT](https://videa.hu/videok/nagyvilag/251029cn-kulcsmondat-kubinyi-tamas-aktv-magyar-vlWcTB3tyDAF2Rqx)  [https://archive.ph/1oGBm](https://archive.ph/1oGBm)
 [251028CN! TISZAKÉCSKE](https://videa.hu/videok/nagyvilag/251028cn-tiszakecske-kubinyi-tamas-aktv-magyar-FlVRRTNqXXD3GpX1)  [https://archive.ph/wvdh3](https://archive.ph/wvdh3)
