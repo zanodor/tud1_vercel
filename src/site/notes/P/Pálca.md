@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pálca/","title":"Pálca","created":"2025-10-30T16:37","updated":"2025-10-30T16:38"}
+{"dg-publish":true,"permalink":"/P/Pálca/","title":"Pálca","created":"2025-10-30T16:37","updated":"2025-11-08T02:07"}
 ---
 
 
