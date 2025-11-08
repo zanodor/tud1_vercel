@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2025-09-28T21:17"}
+{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2025-11-08T23:14"}
 ---
 
 
 # Ugor
 
-Először is a névhez használati utasítás. A [[F/Finnugor elmélet\|finnugor elmélet]] tagadói ha meghallják az ugor nevet, már menekülnek, vagy tiltakoznak. Nem kell. Csak helyre kell tenni a dolgokat.  
+Először is a névhez használati utasítás. A [[F/Finnugor nyelvelmélet\|finnugor nyelvelmélet]] tagadói ha meghallják az ugor nevet, már menekülnek, vagy tiltakoznak. Nem kell. Csak helyre kell tenni a dolgokat.  
 
 #### Bakk István és Bakk Erzsébet: Magna Hungaria – Nagy-Magyarország és a blakusok...
 
@@ -95,7 +95,7 @@ Az Úr – Ugor mint kulminációs legmagasabb pont lehet az ógörög `ákron` 
 > Az ószláv/pravoszláv nyelvben az ugor mindig magyart jelent! Hodinka Antal, az orosz évkönyvek fordítója az ószláv ugor népnevet magyarnak fordítja. Tehát a finn-ugor jelentése finn-magyar.  
 > Az ugor megnevezést a magyar olvasó nemigen vonatkoztatja saját népnevére, a magyarra, hanem valamiféle urali, szibériai "finnugor" népnek tartja. Vajon, észszerű a "finnugor" összetétel első tagját magyarul, másodikat pedig ószláv nyelven használni? Ez nem más, mint megtévesztés.  
 
-[[F/Finnugor elmélet\|Finnugor elmélet]] kapcsán elhangzott valakitől, hogy az elnevezés azért is sántít, mert a magyarokat sohasem nevezték ugoroknak. Ez így nem igaz.  
+[[F/Finnugor nyelvelmélet\|Finnugor nyelvelmélet]] kapcsán elhangzott valakitől, hogy az elnevezés azért is sántít, mert a magyarokat sohasem nevezték ugoroknak. Ez így nem igaz.  
 Rácz Jenő A székely és magyar nép eredete és ősvallásunk nyomában című könyvében írja, hogy egykori népünket az arab kútfők egy része, és a Dzsagfar történet is általános megnevezéssel baskortoknak nevezi, akiket a türkök és kazárok ugornak hívtak.  
 
 Ez az ugor az, ami az [[O/Onogur\|onogur]] névben is szerepel és a hivatalos történeti forrásokban a [[M/Magyar népnév és magyarok nevei\|magyar népnev]]et megelőző magyarokra utaló megnevezés.  
