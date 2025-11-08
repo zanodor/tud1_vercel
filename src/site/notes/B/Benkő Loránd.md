@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Benkő Loránd/","title":"Benkő Loránd","created":"2023-10-23T03:42","updated":"2025-08-16T15:30"}
+{"dg-publish":true,"permalink":"/B/Benkő Loránd/","title":"Benkő Loránd","created":"2023-10-23T03:42","updated":"2025-11-08T23:15"}
 ---
 
 
@@ -19,7 +19,7 @@ Ennek ellenére pozitívan is képes nyilatkozni, ahogy alább látjuk.
 #### László Gyula idézi:  
 
 > "A kiterjedt turkológiai és finnugrisztikai vizsgálatok mellett és mögött nem bontakozott ki eléggé, sőt mondhatni nagyon lemaradt, az a kutatási kör, amelyben őstörténetünk kérdései a szorosabb értelemben vett magyar nyelvtudomány oldaláról is megvilágíthatók."  
-- Más adatát lásd [[F/Finnugor elmélet\|finnugor elmélet]].
+- Más adatát lásd [[F/Finnugor nyelvelmélet\|finnugor nyelvelmélet]].
 
 #### Götz László Keleten kél a Nap...  
 
