@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv ismeretlen eredetű szavai/","title":"Magyar nyelv ismeretlen eredetű szavai","tags":["Englishtexttranslated"],"created":"2023-12-27T05:53","updated":"2024-10-25T22:43"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv ismeretlen eredetű szavai/","title":"Magyar nyelv ismeretlen eredetű szavai","tags":["Englishtexttranslated"],"created":"2023-12-27T05:53","updated":"2025-11-08T02:06"}
 ---
 
 
 # Magyar nyelv ismeretlen eredetű szavai
 
-Az interneten azt látom, hogy szókincsünk mintegy 9 százalékát jelentené. Többre is emlékszem. Akár harminc százalékra is.  
+Az interneten egyes helyeken azt látom, hogy szókincsünk mintegy 9 százalékát jelentené. Másutt, Keneseinél a bizonytalan eredetű szavakat harminc százalékra teszi:  
+![Magyar nyelv ismeretlen eredetű szavai_image20251106201705882.jpeg|fix_light](/img/user/M/assets/Magyar%20nyelv%20ismeretlen%20eredet%C5%B1%20szavai_image20251106201705882.jpeg)
+
 Persze bármilyen számadat is kerüljön ide, a burkolt célzás az, hogy a maradék sikeresen meg lett fejtve. Ez nem igaz, ahogy [ezen](https://qr.ae/pvYGHs) Quora válaszban is kifejtem (részlet):  
 > You see, **the phrase “words of unknown origin” implies that the rest have been successfully covered. It is another lie**. It is like saying, “oh, Hungarian economy is going strong, despite Covid, we’ve managed to record a 5-6 percent increase in economic rates…” but they will never tell you that the economy is not Hungarian but multinational and globalist and will never tell you how many Hungarian entrepreneurs have been destroyed or how many creditees have been made bankrupt. It is just the nature of today’s news industry and science. They will tell you what they want you to know. They twist and turn you about like a dog does with a bone in its snout.
 >
