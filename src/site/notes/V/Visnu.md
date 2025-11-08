@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Visnu/","title":"Visnu","created":"2024-10-29T17:01","updated":"2025-09-24T13:18"}
+{"dg-publish":true,"permalink":"/V/Visnu/","title":"Visnu","created":"2024-10-29T17:01","updated":"2025-11-08T02:06"}
 ---
 
 
@@ -12,10 +12,12 @@
 Legutóbb [[O/Orion#Orion mint Nyilas/Vadász – Orion/Aryan és Pabilsag problematika\|Orion mint Nyilas/Vadász – Orion/Aryan és Pabilsag problematika]] cím/alcímnél esett róla szó, illetve a Tejútközponttal azonosított [[V/Vishnunabhi\|Vishnunabhi]] kapcsán több helyen. Bizony a Tejútközponttal nem hímségi, hanem nőiségi fogalom/isten kell kapcsolatba hozasson (főleg a köldökkel is, amely az előbbi szanszkrit összetétel utórésze). -Nu végződésű istenséget férfinak felfogni csak úgy lehet, ha már félreértelmezik az ősi magyar tanokat. Ez történt [[A/Anu\|Anu]]-val is Sumerban.  
 Azt mondjuk közben ott is meg kellett jegyezni, hogy Jankovics Marcell Visnut (vagy forrásai alapján) Orionnal azonosította.  
 
+Holott Várkonyi Nándor [[K/Kali Yuga#^opkfah\|ezen]] helyen talált passzusában is arról van szó, hogy Visnu hal alakjában száll a Földre. A Hal a Vízben él.  
+
 #### Bakos Attila A Duna Evangéliuma...  
 
 ...című könyvének 133. oldalán álló képi/szöveges adat is arra utal hogy Visnu Vízi-Nő.  
-Bakos könyvének 201. oldalán nem Visnu neve kapcsán nagyon jól írja:  
+Bakos könyvének 201. oldalán nem Visnu neve kapcsán jól írja:  
 > A magyar nyelvet nem beszélő nyugati tudósok saját nyelveikből kifolyólag az istenek nemének meghatározására kényszerülnek, mert a nyugati nyelvekben a nevekből nem következik természetszerűleg a nemek meghatározhatósága. A magyar nyelv és észjárás nem ad [[N/Nyelvtani nemek\|nem]]et a főneveinek, hanem azok jelentése miatt magától értetődő, hogy férfi, vagy női minőséggel állunk-e szemben. Ha valaki nem tud magyarul (tehát nem érti mit jelent a név maga) képtelen eldönteni, hogy Istenről vagy Istennőről van-e szó.  
 
 ![assets/Visnu_image1.jpeg|fix_light](/img/user/V/assets/Visnu_image1.jpeg)  
