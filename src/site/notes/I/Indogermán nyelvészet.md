@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/I/Indogermán nyelvészet/","title":"Indogermán nyelvészet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated"],"created":"2025-06-12T01:33","updated":"2025-06-12T01:34"}
+{"dg-publish":true,"permalink":"/I/Indogermán nyelvészet/","title":"Indogermán nyelvészet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated"],"created":"2025-06-12T01:33","updated":"2025-11-08T23:14"}
 ---
 
 
 # Indogermán nyelvészet
 
 [[I/Indo-európai nyelvcsalád\|Indo-európai nyelvcsalád]] címnél korábban bőven taglaltuk a témát.  
-Az indogermán nyelvészet eredménye és oka az indogermán faji ideológia, hiszen mindent a nyelvészetre alapozva építettek fel. Ennek a teóriának az egyenes következménye és fiókelmélete a [[F/Finnugor elmélet\|finnugor elmélet]]. (Ezzel kapcsolatosan folytatást lásd még lentebb külön alcímnél.)  
+Az indogermán nyelvészet eredménye és oka az indogermán faji ideológia, hiszen mindent a nyelvészetre alapozva építettek fel. Ennek a teóriának az egyenes következménye és fiókelmélete a [[F/Finnugor nyelvelmélet\|finnugor nyelvelmélet]]. (Ezzel kapcsolatosan folytatást lásd még lentebb külön alcímnél.)  
 Külön lásd még [[I/Indogermán őshaza\|indogermán őshaza]].  
 - A finnugor elméletben a legfontosabb a magyarokat mindenféle civilizációtól távoli őshazába száműzni. És ha a magyaroknak megvan az őshazájuk, akkor a germánoknak nem ott lesz, hanem zsírosabb (kevésbé halzsírosabb) helyeken, lehetőleg ott, ahol a kerék és szekér feltalálására utaló régészeti leletek sűrűsödnek...
 
@@ -241,14 +241,14 @@ Ami másutt még nem szerepelt tőle:
 ## Az indogermán nyelvi/fajelméleti doktrínákhoz való magyar ragaszkodás
 
 Kérdés, ki a "magyar."  
-Legfelül elhangzott, hogy az indogermán faji ideológiát nyelvészetre alapozva építették fel. Ennek a teóriának az egyenes következménye és fiókelmélete a [[F/Finnugor elmélet\|finnugor elmélet]]. Azaz amikor...
+Legfelül elhangzott, hogy az indogermán faji ideológiát nyelvészetre alapozva építették fel. Ennek a teóriának az egyenes következménye és fiókelmélete a [[F/Finnugor nyelvelmélet\|finnugor nyelvelmélet]]. Azaz amikor...
 
 #### Götz László Keleten kél a Nap...
 
 ...című könyvének 246. oldalán az [[A/Árja\|árja]] címnél is szereplő passzusában az alábbiakat olvassuk, annyi hiányérzetünk támad, hogy Götz László nem tér ki arra, hogy a jóisten népét kell legjobban alávetni és hogy ezek talmudista ügynökök, akikről "magyarként" beszél:  
 > A most közölt adatokból, valamint az idevágó irodalomból nyilvánvalóan megállapítható, hogy igen szükséges lenne az 1945 előtti külföldi – különösen a német – tudományos munkák alapos felülvizsgálása és átértékelése mind történelmi, mind nyelvészeti téren. Itt pedig nemcsak kimondottan a hitleri időszak tudományos termelésére gondolunk, hanem jó messzire, a 19. század közepére vissza kell mennünk ennél a revíziónál. Abban ugyanis – reméljük – mindenki egyetért velünk, hogy az ún. "Harmadik Birodalom" ideológiai alátámasztása, az indogermán "Übermensch" elmélete, nem Hitlerék találmánya volt, hanem e meggyőződés mélyen gyökerezik a 19. századi indogermán szemléletű történelem- és nyelvtudományban. Különös, hogy e túlzó, tudományosnak éppenséggel nem nevezhető, a "Deutschland, Deutschland über alles" ideológiájából kinőtt történeti és nyelvészeti művek kritikája Magyarországon – a jelek szerint – még mindig nem kezdődött meg, annak ellenére sem, hogy magában Németországban – mindkét felében – ma már nagyon sokat tettek a kutatók ezen a téren. A magyar történelemtudomány – még inkább a nyelvészet mórészt ma is az indogermanisztikától annak idején átvett 19. századi történelemszemlélet – és nyelvtörténeti elképzelések – alapján áll, a 19. századi indogermanisztika módszereivel dolgozik, de különös módon alig veszi figyelembe egykori példaképének, az indogermán nyelv- és történelemkutatásnak újabb módszereit, felismeréseit és eredményeit.  
 
-Azt viszont Götz kifejti, mi is oka ennek a ragaszkodásnak (hasonló okfejtés már [[F/Finnugor elmélet\|finnugor elmélet]] címnél is szerepelt (Borbola Jánostól is):  
+Azt viszont Götz kifejti, mi is oka ennek a ragaszkodásnak (hasonló okfejtés már [[F/Finnugor nyelvelmélet\|finnugor nyelvelmélet]] címnél is szerepelt (Borbola Jánostól is):  
 > Ennek oka nyilvánvalóan abban keresendő, hogy kizárólagos finnugor származásunk egyoldalú tézise annak idején a 19, századi indogermanocentrikus történelemszemléletből nőtt ki, annak szerves része volt; kézenfekvő tehát, hogy csakis az indogermán kultúrprioritási képzetekhez való ragaszkodással, a 19. századi módszerek további alkalmazásával lehet azt úgy-ahogy fenntartani. Abban a pillanatban ugyanis, amelyikben a merev nyelvcsalád-elméletet, a közös ősnyelv és ősnép elavult téziseit a modern indogermanisztikához hasonlóan feladják, összeomlik az egész, főleg a "vogul gyökökre" épített nyelv történeti és művelődéstörténeti hipotézis-gúla is, és a kutatást úgyszólván elölről kell kezdeni. Elismerjük, ehhez igen nagy kritikai érzék, főleg pedig lelkierő szükséges, de ugyanakkor szilárd meggyőződésünk szerint e konzekvenciák levonása előbb-utóbb elengedhetetlenül szükségessé válik. Mindenesetre jobb lenne előbb, mint utóbb. Az indogermán szakirodalom átértékelése ezen új szemlélet kialakításának első, legfontosabb előfeltétele.  
 
 Másutt az időrendről szólva írja:  
