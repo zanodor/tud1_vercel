@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hun-magyar rokonság avagy azonosság/","title":"Hun-magyar rokonság avagy azonosság","created":"2024-03-01T21:37","updated":"2025-06-08T00:44"}
+{"dg-publish":true,"permalink":"/H/Hun-magyar rokonság avagy azonosság/","title":"Hun-magyar rokonság avagy azonosság","created":"2024-03-01T21:37","updated":"2025-11-08T23:15"}
 ---
 
 
@@ -7,7 +7,7 @@
 
   
 
-A [[F/Finnugor elmélet\|finnugor elmélet]] kiötlői, támogatói és karbantartói tagadják.  
+A [[F/Finnugor nyelvelmélet\|finnugor nyelvelmélet]] kiötlői, támogatói és karbantartói tagadják.  
 A rokonság és azonosság kapcsán ismét fel kell említenem, hogy a hunok egy része a [[N/Napvallás\|Napvallás]]ok erőre kapásának idejétől fogva egyre inkább elvesztette magyar identitását, valamint azt is, hogy a szkíta-hun-avar-magyar történeti folytonosság nem lineáris, mert a szkíta hunok európai magyarok voltak eredetileg.  
 
 A Századok 1940. január-márciusi kiadványban helyet kapó [[C/Carlile Aylmer Macartney\|Carlile Aylmer Macartney]] Pascua Romanurum című írásában a hun-magyar rokonságot bizonyító iratok hiányáról és meglétéről esik szó. Például amikor Widukindot (Rerum Gestarum Saxonicarum) említi, azt írja róla, hogy azonosítja a magyarokat a hunokkal. A továbbiakban továbbra is kétkedve tekint az alábbi azonosításokra is:  
