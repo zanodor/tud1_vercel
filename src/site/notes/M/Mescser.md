@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mescser/","title":"Mescser","created":"2024-05-11T02:30","updated":"2025-06-20T23:35"}
+{"dg-publish":true,"permalink":"/M/Mescser/","title":"Mescser","created":"2024-05-11T02:30","updated":"2025-11-08T23:15"}
 ---
 
 
@@ -20,5 +20,5 @@ Remete Farkas László Magyarok eredete című tanulmányának [[B/Bulgár\|bulg
 
 A mecsér szó bekerült [[M/Makar\|Makar]] címhez is.  
 
-Ezután a [[F/Finnugor elmélet\|finnugor elmélet]] összefüggésében kimondja:  
+Ezután a [[F/Finnugor nyelvelmélet\|finnugor nyelvelmélet]] összefüggésében kimondja:  
 > A magyar nyelvi rokonság abban a finn nyelvi alcsoportban a legnagyobb, amely a történelmi adatok szerint még a 16.században is a keleten maradt magyarok (mozsarok, mescserek) egyik nagyobb csoportjának közvetlen szomszédságában élt, s amelybe e magyarok minden valószínűség szerint később részben beolvadtak. Ezzel egyúttal jelentős alátámasztást nyertünk abbeli feltevésünkhöz is, hogy az egyes finnugor nyelvek eltérő fokú magyar nyelvi rokonsága sokkal nagyobb valószínűséggel magyarázható ismételt és különböző intenzitású areális nyelvi ráhatásokkal, mint a manapság már minden joggal elavultnak tekinthető finnugor nyelvcsaládfa-elmélettel (l. 508-509. old.).  
