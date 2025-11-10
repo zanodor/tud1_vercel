@@ -1,7 +1,12 @@
 /* Minimal fix for Image Converter plugin 1.2.16+ vertical alignment */
+/* Digital Garden version - targets different selectors */
 
 .markdown-preview-view .internal-embed.image-embed img,
-.markdown-source-view.mod-cm6 .cm-line .internal-embed.image-embed img {
+.markdown-source-view.mod-cm6 .cm-line .internal-embed.image-embed img,
+/* Digital Garden specific selectors */
+.markdown-rendered .internal-embed.image-embed img,
+.image-embed img,
+.internal-embed.image-embed img {
     vertical-align: middle !important;
     transform: none !important;
 }
