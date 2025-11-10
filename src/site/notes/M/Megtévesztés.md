@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2025-10-10T21:51"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2025-11-10T21:32"}
 ---
 
 
@@ -146,7 +146,7 @@ De éppen [[B/Bal és jobb\|bal és jobb]] címnél szerepelt ...
 
 Ahogy Pap Gábor mondja több előadásában: beöltöztetnek minket két tábort képviselően két színbe és megvárják, amíg lövünk egymásra (kér minket: "ne lőjünk egymásra!").  
 
-A bilaterális technika már többször szóba került. [[F/Finnugor elmélet\|Finnugor elmélet]] címnél is, hogy "választhatsz a szamojéd/mansi vagy török eredet között." Vagy amikor egy (talán Christopher Hutton Linguistics and the Third Reich – Mother Tongue Fascism, Race and the Science of Language című) könyvben nyelvészeti alapon lefektetik, hogy a világegyetem vagy indogermán, vagy zsidó, de legalábbis ezen két félből állhat. A politikai választhatsz bal és jobb oldalból témáról volt szó.  
+A bilaterális technika már többször szóba került. [[F/Finnugor nyelvelmélet\|Finnugor nyelvelmélet]] címnél is, hogy "választhatsz a szamojéd/mansi vagy török eredet között." Vagy amikor egy (talán Christopher Hutton Linguistics and the Third Reich – Mother Tongue Fascism, Race and the Science of Language című) könyvben nyelvészeti alapon lefektetik, hogy a világegyetem vagy indogermán, vagy zsidó, de legalábbis ezen két félből állhat. A politikai választhatsz bal és jobb oldalból témáról volt szó.  
 Itt még csak a tudományos/vizsgálati vonal kapcsán arról, hogy hogyan járnak el.  
 A vita kereszttüzébe állítanak két elméletet és csak ezen két tábor szólhat bele! ezzel meghatározzák a vita lényegét képző problémát és annak vizsgálati szabályait (hasonló eset a sportban: birkózók szőnyegen, táncosok parketten, strandröplabdások homokban, stb.). Onnantól kezdve mindenki mást kirekesztenek. Az **igazság kirekesztésének módszere** ez. A red herring féle félrevezetésről lentebb lesz szó.  
 
@@ -281,11 +281,11 @@ A hazugság és a megtévesztés egyik formája a meg nem nevezés és az olyan 
 
 Legutóbb [ezen](https://qr.ae/pNgBjb) válaszomban is írtam proto-szlávok kapcsán[^3].  
 
-Hasonlóan működik a(z épp előbb is példaként említett) negáció, melyről sok helyen volt szó. [[C/Címke\|Címke]] címnél is, de azóta [[N/Negatív imperatívusz\|negatív imperatívusz]] cím is született.  
+Hasonlóan működik a(z épp előbb is példaként említett) negáció, melyről sok helyen volt szó. [[C/Címke\|Címke]] címnél is, de azóta [[N/Negáció#Negatív imperatívusz\|negatív imperatívusz]] cím/alcím is született.  
 
 ## Extrapoláció, visszavetítés
 
-A "tudományban" alkalmazott eljárás: a mai állapotok alapján levont következtetéseket, az általam "igazságként" látott/ismertetett/bizonyított "valóságot" (álvalóságot, illúziót) a múltra vonatkoztatva is érvényesnek tekintem (mármint ők). Így operál a nyelvészet, de a [[S/Szemiták és árják\|szemiták és árják]] címnél szemiták/zsidók kapcsán tárgyalt genetikai kategorizálás is helytelen. Tulajdonképpen ez is a címkézéshez tartozó témakör, ha úgy vesszük. Kitalálok egy címkét vagy kategóriát és ahhoz tetszés (azaz politikai irányultság/célirány) szerint válogatva gyűjtöm, mehet-e ide vagy inkább oda. A [[F/Finnugor elmélet\|finnugor elmélet]] is így született, kirekesztés alapon.  
+A "tudományban" alkalmazott eljárás: a mai állapotok alapján levont következtetéseket, az általam "igazságként" látott/ismertetett/bizonyított "valóságot" (álvalóságot, illúziót) a múltra vonatkoztatva is érvényesnek tekintem (mármint ők). Így operál a nyelvészet, de a [[S/Szemiták és árják\|szemiták és árják]] címnél szemiták/zsidók kapcsán tárgyalt genetikai kategorizálás is helytelen. Tulajdonképpen ez is a címkézéshez tartozó témakör, ha úgy vesszük. Kitalálok egy címkét vagy kategóriát és ahhoz tetszés (azaz politikai irányultság/célirány) szerint válogatva gyűjtöm, mehet-e ide vagy inkább oda. A [[F/Finnugor nyelvelmélet\|finnugor nyelvelmélet]] is így született, kirekesztés alapon.  
 De így operál – hatalmas anachronizmusos csúsztatással és démonizáló címkézéssel – az az izraeli forgatókönyvíró (gárda), aki gyermekeknek készült bábműsorban Jézust nácinak(!) aposztrofálják.  
 
 [[R/Reneszánsz\|Reneszánsz]] címnél legutóbb arról volt szó, hogy elég a címkével ("újjászületés") azt a látszatot kelteni, hogy a régit visszahozzuk, holott éppen az időszakban találjuk ki, melyet visszavetítünk a múltba (hogy aztán reneszánsz címén újra visszahozhassuk).  
