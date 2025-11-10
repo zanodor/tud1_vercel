@@ -1,15 +1,38 @@
-/* Minimal fix for Image Converter plugin 1.2.16+ vertical alignment */
-/* Digital Garden version - targets different selectors */
+/* Fix for Digital Garden image vertical alignment */
 
-.markdown-preview-view .internal-embed.image-embed img,
-.markdown-source-view.mod-cm6 .cm-line .internal-embed.image-embed img,
-/* Digital Garden specific selectors */
+/* Base fix for all images */
+img {
+    vertical-align: baseline !important;
+    transform: none !important;
+    position: relative !important;
+    top: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* Specific fix for embedded images */
 .markdown-rendered .internal-embed.image-embed img,
 .image-embed img,
-.internal-embed.image-embed img {
-    vertical-align: middle !important;
+.internal-embed.image-embed img,
+.markdown-preview-view .internal-embed.image-embed img {
+    vertical-align: baseline !important;
     transform: none !important;
-    margin-top: auto !important;
-    margin-bottom: auto !important;
-    float: none !important;
+    position: relative !important;
+    top: 0.125em !important; /* Fine-tune this value */
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    display: inline-block !important;
+}
+
+/* Override any line-height or positioning issues */
+.content p,
+.content span,
+.content div {
+    line-height: 1.6 !important; /* Ensure consistent line height */
+}
+
+.content img {
+    vertical-align: baseline !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
