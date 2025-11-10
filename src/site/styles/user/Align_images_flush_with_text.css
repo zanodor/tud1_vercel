@@ -9,4 +9,7 @@
 .internal-embed.image-embed img {
     vertical-align: middle !important;
     transform: none !important;
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+    float: none !important;
 }
