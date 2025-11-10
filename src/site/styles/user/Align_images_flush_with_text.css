@@ -1,0 +1,7 @@
+/* Minimal fix for Image Converter plugin 1.2.16+ vertical alignment */
+
+.markdown-preview-view .internal-embed.image-embed img,
+.markdown-source-view.mod-cm6 .cm-line .internal-embed.image-embed img {
+    vertical-align: middle !important;
+    transform: none !important;
+}
