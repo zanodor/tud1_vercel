@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2025-08-16T15:32"}
+{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2025-11-16T00:05"}
 ---
 
 
@@ -105,7 +105,7 @@ VCs - Varga Csaba
 VG - Varga Géza  
 VHM - Victor H. Mair  
 VJ - Végvári József  
-VJK - Vertráb József Kadocsa  
+VJK - Vetráb József Kadocsa  
 VK - Virág Kálmán  
 VM - Varsa Mátyás  
 VN - Várkonyi Nándor  
