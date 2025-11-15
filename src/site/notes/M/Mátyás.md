@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mátyás/","title":"Mátyás","created":"2023-11-17T07:56","updated":"2025-11-08T23:15"}
+{"dg-publish":true,"permalink":"/M/Mátyás/","title":"Mátyás","created":"2023-11-17T07:56","updated":"2025-11-16T00:05"}
 ---
 
 
@@ -48,7 +48,7 @@ Krizsai Mónika Tudományos társaságok (akadémiák) a XV. századi Magyarorsz
 
 Kríza Ildikó Mátyás kultusz és a nemzeti identitás című az Ősi Gyökér 2008/3-4. sz. megjelent cikkében Mátyás a folklórban és a nemzeti irodalomban megjelenő alakját taglalja.  
 
-Gyárfás Ágnes Milyen volt Mátyás király egyeteme című az Ősi Gyökér 2008/2. sz. megjelent cikkével azonos, Vertráb József Kadocsa Milyen volt Mátyás király egyeteme című kiegészítő írása alkalomadtán feldolgozandó.  
+Gyárfás Ágnes Milyen volt Mátyás király egyeteme című az Ősi Gyökér 2008/2. sz. megjelent cikkével azonos, Vetráb József Kadocsa Milyen volt Mátyás király egyeteme című kiegészítő írása alkalomadtán feldolgozandó.  
 
 ## Mátyás alatti pálosok által őrzött kereszténység és a pápákkal adódó gondjai
 
