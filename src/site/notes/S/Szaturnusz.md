@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2025-10-02T21:42"}
+{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2025-11-16T00:05"}
 ---
 
 
@@ -352,7 +352,8 @@ Szaturnusz eredetileg agráristen volt, aki a csillaghit szerint épp aratáskor
 
 [^10]: Lábjegyzet:  
 Szaturnusz egyik szanszkrit neve: **Kála**, melynek jelentései "idő" és "halál" és "kékesfekete." Lásd még etimológiai levezetését [[K/Kali Yuga\|Kali Yuga]].  
-Ide kapcsolódik Diodórosz illetve Varga Zsigmond közlése: a babiloni zikurtornyok a plánéták színeire voltak festve. A napnak arany volt a színe, a holdé ezüst, a Vénuszé tarka, a Merkúré vörös, a Jupiteré fehér, a Marsé zöld, a Saturnuszé pedig fekete. Néha a színek felcserélődnek, de a Szaturnusz mindig fekete marad.  
+Péterfai János írja:  
+Ide kapcsolódik Diodórosz illetve Varga Zsigmond közlése: a babiloni [[Z/Zikkurat\|zikurtornyok]] a plánéták színeire voltak festve. A napnak arany volt a színe, a holdé ezüst, a Vénuszé tarka, a Merkúré vörös, a Jupiteré fehér, a Marsé zöld, a Saturnuszé pedig fekete. Néha a színek felcserélődnek, de a Szaturnusz mindig fekete marad.  
 
 [^11]: Lábjegyzet:  
 Frank Dénes Dániel Nem az égben van című könyvében írja:  
