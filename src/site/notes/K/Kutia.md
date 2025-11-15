@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutia/","title":"Kutia","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-11T11:23","updated":"2025-10-30T16:49"}
+{"dg-publish":true,"permalink":"/K/Kutia/","title":"Kutia","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-11T11:23","updated":"2025-11-16T00:06"}
 ---
 
 
@@ -64,7 +64,7 @@ Grúziában is ünneplik, és legyünk figyelmesek a naptári számok eltolódá
 > Grúziában Szent Barbara napját december 17-én (a régi naptár szerint december 4-én[^2]) Barbaroba néven ünneplik. A hagyományos ünnepi étel a lobiani, babos töltelékkel sült kenyér.  
 
 Közben [ezen](https://qr.ae/pNDfzL) Quora válaszban felírásra került angolul is.   
-Egészen hasonló hozzá alakra a [[K/Kutya\|kutya]] címnél szintén említett ind `chutiya`.  
+Egészen hasonló hozzá alakra a [[K/Kutya\|kutya]] címnél szintén említett hindi `कुतिया` (`kutiyā`) = szuka, megvetendő nő.  
 
 ## Lábjegyzetek
 
