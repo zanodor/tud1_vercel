@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated"],"created":"2023-11-15T04:40","updated":"2025-10-10T21:52"}
+{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-15T04:40","updated":"2025-11-16T00:06"}
 ---
 
 
@@ -100,8 +100,16 @@ Rigby hasonló megfogalmazással él, ahogy én szoktam Nap az Orionban-nal:
 
 Az igazsághoz hozzátartozik, hogy – ahogy [[O/Ozirisz és Széth\|Ozirisz és Széth]] címnél láttuk – Ozirisz nevének hieroglif jelei közül az első szintén trónus, melyhez az usz \[ws\] hangérték járult, ez pedig szinte teljesen megegyezik az Asz/Esz/Íz hangértékkel.  
 
-Az alábbi passzus [[E/Észak és dél#Északi népek délre költözése (és fordítva)\|északi népek délre költözése (és fordítva)]] cím/alcímnél is szerepelt:  
-Rigby ugyebár (forrásai alapján, azaz nem saját kútfőből) a három híres istenség, Ozirisz, Széth és Ízisz égi helyét a cirkumpoláris csillagképeknél keresi. Mivel Egyiptomban a halotti kultusznak komoly hagyományai voltak és mivel náluk ezen Medve és más csillagképek a látóhatár közelében voltak láthatóak és mivel a napi időciklusban a Nap a Földbe tér meghalni és onnan is támad fel (lásd még hasonló témát precessziós Nagy Éves vonalon John M. Jenkins adatai mentén [[G/Galactic centre\|Galactic centre]]), valamint mivel az északi csillagképek kapcsán szó volt arról, hogy a [[N/Nap – halott Nap\|Nap – halott Nap]] helyét jelölik, valamint mivel a halál, ahogy Jankovics Marcell több helyen leírta, a Napra nézve magzati lét, és mivel a magzat anyaméhben fejlődik, és mivel az [[E/Ég\|ég]] címnél egyiptomi kontextusban méhről és Medvéről is esett szó, ugyanazon (szóalakiságú) `ah` illetve `ak` szavak kapcsán, Ízisz méhén/anyaistennő szerepén keresztüli kapcsolata az északi Rigby által taglalt csillagképhez indokoltnak mondható, de ez nem eredeti képzet: az északról levándorolt népek új csillagmitológiai képzeteket vettek fel. Ezzel szemben az egyiptológusok/amatőr kutatók azt gondolják, hogy Egyiptomban minden eredeti, a nyelv és a csillagászati alapú képzetek és ábrázolások is. Nem. Már eleve az döntő jelentőségű, hogy az északi szarvas délen egyszer szarvasmarha (illetve kecske) lesz, másrészt medve (arab `dubb`) hogy kerül képbe náluk? Csak úgy magyarázható mindez, ha belátjuk, északi népek költöztek délre.  
+Az alábbi passzus [[E/Észak és dél#Északi népek délre költözése (és fordítva)\|északi népek délre költözése (és fordítva)]] cím/alcímnél is szerepelt: 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/E/Észak és dél/#57wdlf" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+Rigby ugyebár (nyilván forrásai alapján, azaz nem saját kútfőből) a három híres istenség, Ozirisz, Széth és Ízisz égi helyét a cirkumpoláris csillagképeknél keresi. Mivel Egyiptomban a halotti kultusznak komoly hagyományai voltak és mivel náluk ezen Medve és más csillagképek a látóhatár közelében voltak láthatóak és mivel a napi időciklusban a Nap a Földbe tér meghalni és onnan is támad fel (lásd még hasonló témát precessziós Nagy Éves vonalon John M. Jenkins adatai mentén [[G/Galactic centre\|Galactic centre]]), valamint mivel az északi csillagképek kapcsán szó volt arról, hogy a [[N/Nap – halott Nap\|Nap – halott Nap]] helyét jelölik, valamint mivel a halál, ahogy Jankovics Marcell több helyen leírta, a Napra nézve magzati lét, és mivel a magzat anyaméhben fejlődik, és mivel az [[E/Ég\|ég]] címnél egyiptomi kontextusban méhről és Medvéről is esett szó, ugyanazon (szóalakiságú) `ah` illetve `ak` szavak kapcsán, Ízisz méhén/anyaistennő szerepén keresztüli kapcsolata az északi Rigby által taglalt csillagképhez indokoltnak mondható, de ez nem eredeti képzet: az északról levándorolt népek új csillagmitológiai képzeteket vettek fel. Ezzel szemben az egyiptológusok/amatőr kutatók azt gondolják, hogy Egyiptomban minden eredeti, a nyelv és a csillagászati alapú képzetek és ábrázolások is. Nem. Már eleve az döntő jelentőségű, hogy az északi szarvas délen egyszer szarvasmarha illetve kecske lesz, másrészt medve (arab `dubb`) hogy kerül képbe náluk? Csak úgy magyarázható mindez, ha belátjuk, északi népek költöztek délre. 
+
+</div></div>
+
 
 Ami még a [[S/SZÉK\|SZÉK]] és [[S/Seat\|seat]] szavakat illeti, mindkettő csillag jelentésű eredetre vihető vissza. Lásd [[S/Sacchar-\|sacchar-]] és [[S/Sidereal\|sidereal]].  
 
