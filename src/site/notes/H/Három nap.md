@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Három nap/","title":"Három nap","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2025-06-08T00:43"}
+{"dg-publish":true,"permalink":"/H/Három nap/","title":"Három nap","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2025-11-16T00:04"}
 ---
 
 
@@ -112,4 +112,4 @@ A 3 nap jelképes. Utalhat egy meditatív állapotban töltött időre, egy elr�
 
 [^4]: Lábjegyzet:  
 Táltosaink még a XIII. században is megülték a [[T/Turul\|Turul]] ünnepét a téli napfordulón, kivonultak a Szent ligetbe, vagy egy tiszta forrás mellé és fiatal kerecseny sólymokat; "ráró" madarakat röptettek.  
-Az ezt követő három napon, ahogyan eleink mondták: "megállt a nap", hiszen mindig az ég azonos pontján jött el a pirkadat. \[Vertráb\]  
+Az ezt követő három napon, ahogyan eleink mondták: "megállt a nap", hiszen mindig az ég azonos pontján jött el a pirkadat. \[Vetráb\]  
