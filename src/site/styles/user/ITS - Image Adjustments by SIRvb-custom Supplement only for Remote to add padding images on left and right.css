@@ -1,0 +1,116 @@
+/* ============================================
+   DIGITAL GARDEN REMOTE RENDERING FIXES
+   ============================================ */
+
+/* ============================================
+   FLOATED IMAGES - Override base padding/margin
+   More specific selectors to override the base rules above
+   ============================================ */
+
+/* RIGHT-FLOATED IMAGES - Need left padding/margin */
+.markdown-rendered img[alt*=right],
+.markdown-rendered img[alt*=locr],
+.markdown-preview-view img[alt*=right],
+.markdown-preview-view img[alt*=locr] {
+    float: right !important;
+    margin-left: 2% !important;
+    padding-left: 8px !important;
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.markdown-rendered .image-embed[alt*=right],
+.markdown-rendered .image-embed[alt*=locr],
+.markdown-preview-view .image-embed[alt*=right],
+.markdown-preview-view .image-embed[alt*=locr] {
+    float: right !important;
+    margin-left: 2% !important;
+    padding-left: 8px !important;
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.markdown-rendered .internal-embed.image-embed[alt*=right] img,
+.markdown-rendered .internal-embed.image-embed[alt*=locr] img,
+.markdown-preview-view .internal-embed.image-embed[alt*=right] img,
+.markdown-preview-view .internal-embed.image-embed[alt*=locr] img {
+    float: right !important;
+    margin-left: 2% !important;
+    padding-left: 8px !important;
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* LEFT-FLOATED IMAGES - Need right padding/margin */
+.markdown-rendered img[alt*=left],
+.markdown-rendered img[alt*=locl],
+.markdown-preview-view img[alt*=left],
+.markdown-preview-view img[alt*=locl] {
+    float: left !important;
+    margin-right: 2% !important;
+    padding-right: 8px !important;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.markdown-rendered .image-embed[alt*=left],
+.markdown-rendered .image-embed[alt*=locl],
+.markdown-preview-view .image-embed[alt*=left],
+.markdown-preview-view .image-embed[alt*=locl] {
+    float: left !important;
+    margin-right: 2% !important;
+    padding-right: 8px !important;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.markdown-rendered .internal-embed.image-embed[alt*=left] img,
+.markdown-rendered .internal-embed.image-embed[alt*=locl] img,
+.markdown-preview-view .internal-embed.image-embed[alt*=left] img,
+.markdown-preview-view .internal-embed.image-embed[alt*=locl] img {
+    float: left !important;
+    margin-right: 2% !important;
+    padding-right: 8px !important;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* ============================================
+   BORDERED IMAGES - Need padding on all sides
+   ============================================ */
+.markdown-rendered img[alt*=border],
+.markdown-rendered .internal-embed[alt*=border] img,
+.markdown-preview-view img[alt*=border],
+.markdown-preview-view .internal-embed[alt*=border] img {
+    border: var(--image-border-width, 1px) solid var(--image-border-color, #ccc) !important;
+    padding: var(--image-border-padding, 8px) !important;
+    background: var(--image-border-background, transparent) !important;
+}
+
+/* ============================================
+   CENTER IMAGES - Reset any float/padding
+   ============================================ */
+.markdown-rendered img[alt*=center],
+.markdown-rendered img[alt*=ctr],
+.markdown-rendered .image-embed[alt*=center],
+.markdown-rendered .image-embed[alt*=ctr],
+.markdown-preview-view img[alt*=center],
+.markdown-preview-view img[alt*=ctr],
+.markdown-preview-view .image-embed[alt*=center],
+.markdown-preview-view .image-embed[alt*=ctr] {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    float: none !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
