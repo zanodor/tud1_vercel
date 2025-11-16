@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2025-09-29T16:00"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2025-11-16T14:37"}
 ---
 
 
@@ -88,7 +88,7 @@ A mai nézet szerint a [[P/Pogány\|pogány]] annyi, mint hitetlen vagy nem-kere
 
 Ha [[C/Columbus\|Columbus]] nem tudta (dehogynem) vagy Nyugat-Európa nem tudta, hogy Amerika létezik, akkor senki sem tudta; felfedezték ([[J/Janus Pannonius\|Janus Pannonius]] tudta). **Euro-centrista felfogás** (egyes amerikai földrészről valók ki is kérik maguknak).
 
-**Indo-euro-centrista felfogás**nak vagy minek nevezhető, amikor a tudomány a nyelv és kultúra vizsgálatában csak a keletről nyugatra történő népmozgásokkal foglalkozik, vagy pl. a sumér kultúra terjedésére vonatkozóan egy dél-északi ill. délnyugat-északkeleti irányultságra mutat rá. Ahogy [ezen](https://qr.ae/pADZIE) Quora válaszban is írtam, ezeknél a jegyüzéreknél csak egyirányú ("csak oda") jegyet vehetsz. A tudomány nem törődik a korábbi mozgásokkal illetve pl. a Pap Gábor előadásaiból is ismert pulzáló mozgásainkkal, amiről [[I/Indo-európai nyelvcsalád#^zvyi26\|itt]] is volt szó.  
+**Indo-euro-centrista felfogás**nak nevezhető, amikor a tudomány a nyelv és kultúra vizsgálatában csak a keletről nyugatra történő népmozgásokkal foglalkozik, vagy pl. a sumér kultúra terjedésére vonatkozóan egy dél-északi ill. délnyugat-északkeleti irányultságra mutat rá. Ahogy [ezen](https://qr.ae/pADZIE) Quora válaszban is írtam, ezeknél a jegyüzéreknél csak egyirányú ("csak oda") jegyet vehetsz. A tudomány nem törődik a korábbi mozgásokkal illetve pl. a Pap Gábor előadásaiból is ismert pulzáló mozgásainkkal, amiről [[I/Indo-európai nyelvcsalád#^zvyi26\|itt]] is volt szó.  
 
 A nyelvészet által diktált tudományosságnál maradva, **finnugrista kommunista buta felfogás** a sehonnan származtatható [[M/Magyar nyelv ismeretlen eredetű szavai\|magyar szavakat ismeretlen eredetűnek]] besorolni. Számára ismeretlen, mert nem ér fel arra a szintre, hogy pl. egy [[T/Tölgy\|tölgy]] szót értelmezni tudjon.  
 
@@ -100,8 +100,9 @@ Egy másik idevehető zsidó téma, hogy pont a zsidó isten hozza a(z egyébké
 
 Elválasztják az evolúciót az [[K/Kreacionizmus\|isteni teremtés]]től, holott itt sem vagy-vagyban, hanem is-isben kell gondolkodni.  
 
-Még az előzőekre visszatérve, az evolúció elmélet és minden más elmélet a **progresszivista felfogás**, mely szerint minden fejlődik[^4], az ember is a majomból milyen messzire jutott, most már a transzhumanizmus a következő szint.  
-Felfelé ível a görbénk, ami egyenes, mert lineáris a gondolkodás, dacára annak, hogy a természet rendje szerint [[L/Lineáris kontra cirkuláris\|az élet körszerű; nem lehet lineáris]]. Így a [[K/Kali Yuga\|Kali Yuga]] borzalmaira, amit át kell élnünk, nincsen felkészítve az emberiség (de legalábbis az a Nyugat, amihez mi is tartozunk, nincs, nem is hallott róla).  
+Még az előzőekre visszatérve, az evolúció elmélet és minden más elmélet a **progresszivista felfogás**, mely szerint minden fejlődik[^4]; az ember is a majomból milyen messzire jutott, most már a transzhumanizmus a következő szint.  
+Felfelé ível a görbénk, ami egyenes, mert lineáris a gondolkodás, dacára annak, hogy a természet rendje szerint [[L/Lineáris kontra cirkuláris\|az élet körszerű; nem lehet lineáris]]. Így a [[K/Kali Yuga\|Kali Yuga]] borzalmaira, amit át kell élnünk, nincsen felkészítve az emberiség (de legalábbis az a Nyugat, amihez mi is tartozunk, nem is hallott róla).  
+Ugyanígy a magyar őstörténet kutatói körökben elterjedt **szkíta-hun-avar-magyar kontinuitás** egy időbeli linearitásra épül, holott ha a tágabb összefüggéseket vizsgáljuk, a magyar nyelv korábbi elterjedése messzire túlnyúlik a szkíta-hun kereteken és a magyar név maga is megtalálható korábbról és más, nem szkítának nevezendő helyeken.  
 
 Van egy **"hosszista" felfogás** is, mely mindent áthat: a pénz és a hatalom ököljog-elvéből kinőtt "akinek hosszabb a puskája" (vagy nagyobb hatótávolságú a rakétája), annak van igaza. A római birodalom folytatásának kezelhető katolicizmus is mindenek felett álló igazságait a pogányoknak bélyegzettek (lásd pozsonyi csata/háború) ellen küldhető hadakkal védte. Ami akkor isteni igazság, ma angolszász (ir)racionalizmus keretében hirdettetik, és ahogy a katolikus minden mást eretneknek tartott, a zsidó pénzpórázon működő angolszász vezetésű tudományos világ minden mást, ami kultúrprioritási elveinek és magas tudományos fokozatának mércéjében alávalónak tart, áltudományosnak bélyegezve veti el.  
 Ahogy pedig másutt is pedzegettem, a tudományos világ legfőbb bíborosai/rabbijai a nyelvészek, akik áltudományosságuk révén fantom fajokat hoznak létre.  
@@ -110,17 +111,24 @@ Ahogy pedig másutt is pedzegettem, a tudományos világ legfőbb bíborosai/rab
 
 ## Ki mit tud és milyen következetesen (adja elő)
 
-Az élsportolótól elvárják, hogy mindig a legjobb teljesítményt adja. A magyar kutató ill. tudor részéről is ez az elvárás, mert a leggyöngébb levezetései, pillanatai alapján ítélhetik meg és ott hagy támadási felületet.  
+Az élsportolótól elvárják, hogy mindig a legjobb teljesítményt adja. A magyar kutató ill. tudor részéről is ez az elvárás; legyen következetes, mert a leggyöngébb levezetései, pillanatai alapján ítélhetik meg és ott hagy támadási felületet, még belső kutatói körök részéről ért kritikára se adjon okot.  
 Egy komplett életmű dobható sutba azzal, hogy a kevésbé jól kidolgozott tételei alapján rásütik, hogy tőle minden hasonlóan gyenge szintet üt meg.  
 
 A következetesség (mely a hivatalos tudomány részéről nem követelmény) elvárható, főleg elismert előadók, tanítók részéről.  
 A magyaroknál maradva, néhány példa.  
 
-- Ha – ahogy [[B/Bál#^ob3cds\|ezen]] helyen volt szó róla – Vitéz János a fiatal Mátyásnak azt mondja, hogy [[B/Bál\|Bál]] a keresztények istene volt, még nem akkora hiba, de ha kiterjesztjük oda, hogy a magyarok istene is lett volna, már nagyobb hiba, tekintve, hogy a magyaroknak istenanyjuk volt/van, Bál pedig (pelaszg ill. filiszteus/palesztin) napistenből lett – hogy már a sémi időkben vagy még a napvallások kialakulása idején, az előtt, ez kérdés – főistenné, tehát nem a magyar istene volt.  
+- Ha – ahogy [[B/Bál#^ob3cds\|ezen]] helyen volt szó róla – Vitéz János a fiatal Mátyásnak azt mondja, hogy [[B/Bál\|Bál]] a keresztények istene volt, még nem akkora hiba, de ha kiterjesztjük oda, hogy a magyarok istene is lett volna, már nagyobb hiba, tekintve, hogy a magyaroknak istenanyjuk volt/van, Bál pedig (pelaszg ill. filiszteus-palesztin) napistenből lett – hogy már a sémi időkben vagy még a napvallások kialakulása idején, az előtt, ez kérdés – főistenné, tehát nem a magyar istene volt.  
 
 - Pap Gábor művészettörténész kenyere az [[A/Asztrálmítoszi keretrendszer\|asztrálmítoszi keretrendszer]]. Mégis, legalábbis egyes videókban (talán írásaiban nem?) elfelejti megragadni a lehetőséget, hogy megragadja a lényeget.
 	- A 2010-es Kurultajon készült [videóban](https://www.youtube.com/watch?v=dKFWoE5OJ8U&t=150) Hunor és Magor nyilainak irányzékai kapcsán nem utal fény-árnyék rendszerre. Elszalasztja a lényeget. Nem olvasta Fáy Eleket és Magyar Adorjánt? Utóbbit biztosan, előbbit vélhetően. Akkor? Hunor és Magorról kialakult képe kell(ett volna) legyen. De nem ez: lefelé meg felfelé "lőnek".
-	- Egy 2016-os, hanti/manysi előadásról szóló [beszámolóban](https://youtu.be/TvAkxyqc_78&t=285) is azt hozza ki példázatban, hogy "szükségképpen van a gonosz is a világban", de a "puhos és púpos" kapcsán éppen nem említi meg a jin-jang jelet, mely ráadásul nem is kínai, tehát még a Kárpát-hazát is be tudta volna ide emelni.
+	- Egy 2016-os, hanti/manysi előadásról szóló [beszámolóban](https://youtu.be/TvAkxyqc_78&t=285) is azt hozza ki példázatban, hogy "szükségképpen van a gonosz is a világban", de a "puhos és púpos" kapcsán éppen nem említi meg a lényeget, a jin-jang jelet, mely ráadásul nem is kínai, tehát még a Kárpát-hazát is be tudta volna ide emelni.
+
+## Extrapolációk és prekoncepciók
+
+Mindenkivel előfordul, nemcsak a dilettánsoknál, hanem a tudományt művelők körében is. (Így velem is, de én legalább felismerem, hogy van mire odafigyelni.)  
+Az extrapoláció a kevés adatból általánosítás jelensége.  
+Ha teszem azt, életemben minden általam megismert Zsuzsi vagy Orsi szőke kövérkés (de legalábbis nem vékony testalkatú) volt, akkor tudat alatt az ülepszik le, hogy minden Zsuzsi és Orsi olyan, amilyennek megismertem őket. Ha szembe jön egy filigrán brünett és Orsiként mutatkozik be, akár azt is mondhatom, "Orsi? A neved nem lehet Orsi!"  
+Valahogy így működik a tudomány is. Főleg a magyar (és sumér) tabut kikerülő, amely olyan prekoncepciók alapján, olyan önkorlátozó eljárás szerint működik, amely mindent a maga javára ír fel, még ha kevés bizonyíték is áll rendelkezésre (akkor majd csúsztat).  
 
 ## Tudományok valláspolitikai befolyásoltsága
 
