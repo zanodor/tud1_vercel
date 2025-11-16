@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-11-08T02:05"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-11-16T14:38"}
 ---
 
 
@@ -7,14 +7,20 @@
 
 
 
-<small>**Megjegyzés**: A Google Gemini-s összefoglalók a Google (YouTube) által automatikusan rendelkezésre bocsátott feliratozás alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli problémák, melyek mindegyikét nem veszem észre, hogy javíthassam. Kisbetűs vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag", "az előadó szerint", amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattintva ellenőrizni a videón, hogy mi szerepelt az eredeti hang- ill. képanyagban.</small>
-
-<small>**Megjegyzés 2**: Újabban (20250925 óta?) a Rumble-ra tett videók nem mindig játszhatók le, így az eredeti Videa linkeken megy az időbélyegre kattintásokkal a videó. Ha a Videáról eltávolításra kerülnek a műsorok, a Rumble-ra vissza lehet nézni, de az időbélyegekre kattintás nem fog működni.</small>
-
-<small>**Megjegyzés 3**: A web app keresője nem keres és nem talál ezen összefoglalókban!</small>
+ > [!info]- <span style="font-weight:normal"><small> Kattintsd a fülecskére a legördülő megjegyzésekért!</small></span> &nbsp;
+> <small>**Megjegyzés**: A Google Gemini-s összefoglalók a Google (YouTube) által automatikusan rendelkezésre bocsátott feliratozás alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli problémák, melyek mindegyikét nem veszem észre, hogy javíthassam. Kisbetűs vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag", "az előadó szerint", amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattintva ellenőrizni a videón, hogy mi szerepelt az eredeti hang- ill. képanyagban.</small>
+> 
+> <small>**Megjegyzés 2**: Újabban (20250925 óta?) a Rumble-ra tett videók nem mindig játszhatók le, így az eredeti Videa linkeken megy az időbélyegre kattintásokkal a videó. Ha a Videáról eltávolításra kerülnek a műsorok, a Rumble-ra vissza lehet nézni, de az időbélyegekre kattintás nem fog működni.</small>
+> 
+> <small>**Megjegyzés 3**: A web app keresője nem keres és nem talál ezen összefoglalókban!</small>
 
 **Videók archivált összefoglalókkal**:  
 
+[251114CN! TORMA ZSÓFIA](https://videa.hu/videok/nagyvilag/251114cn-torma-zsofia-kubinyi-tamas-magyar-HlvVAm0mdOC121t9)  [https://archive.ph/LuTfY](https://archive.ph/LuTfY)
+[251113CN! CSAK EGY ÉVRE？](https://videa.hu/videok/nagyvilag/251113cn-csak-egy-evre-kubinyi-magyar-LhGr2VSue66nOvb5)  [https://archive.ph/7jslq](https://archive.ph/7jslq)
+[251112CN! MÁLENKIJ ROBOT](https://videa.hu/videok/nagyvilag/251112cn-malenkij-robot-kubinyi-tamas-magyar-i6eBh7R12xKIS6iU)  [https://archive.ph/iayuO](https://archive.ph/iayuO)
+[251111CN! SZENT MÁRTON](https://videa.hu/videok/nagyvilag/25111cn-szent-marton-kubinyi-tamas-magyar-6UuLXnvs0wYnEk9B)  [https://archive.ph/15ehF](https://archive.ph/15ehF)
+[251110CN! A JÓSÁG](https://videa.hu/videok/nagyvilag/251110cn-a-josag-kubinyi-tamas-magyar-rqZHWmUiTBsuH5F4)  [https://archive.ph/PsnD3](https://archive.ph/PsnD3)
 [251107CN! LÉTFELTÉTEL](https://videa.hu/videok/nagyvilag/25107cn-letfeltetel-kubinyi-tamas-aktv-magyar-ylFzgIHItAkwtlA8)  [https://archive.ph/mg5hw](https://archive.ph/mg5hw)
 [251106CN! TRÓNFOSZTÁS](https://videa.hu/videok/nagyvilag/25106cn-tronfosztas-kubinyi-tamas-aktv-magyar-BnHyFX6RJMiqPP0T)  [https://archive.ph/TiTzC](https://archive.ph/TiTzC)
 [251105CN! PRIMER TITKOK](https://videa.hu/videok/nagyvilag/251105cn-primer-titkok-kubinyi-tamas-magyar-lon4yVvEMNxdPZ4U)  [https://archive.ph/iCL45](https://archive.ph/iCL45)
