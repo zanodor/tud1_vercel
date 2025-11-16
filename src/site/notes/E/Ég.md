@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ég/","title":"Ég","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-10-18T17:53","updated":"2025-10-30T02:32"}
+{"dg-publish":true,"permalink":"/E/Ég/","title":"Ég","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-10-18T17:53","updated":"2025-11-16T01:30"}
 ---
 
 
@@ -239,7 +239,7 @@ Onnan továbbmenve [ezen](https://en.wiktionary.org/wiki/%E0%A4%85%E0%A4%B9%E0%A
 Ég szavunk megjelenni látszik az örmény `eġǰeru` = szarvas, `eġnik` = őz nevekben (bár az örmény ġ lehet olyan csendes g/h, mint a török ğ; mindegy lenne, mert a Szarvas az éji ég jelképállata).  
 
 A Wallis Budge An Egyptian Hieroglyphic Dictionary című könyvében a 7. oldalán hozott óegyiptomi `ah`, `aha` = tehén, tehénistennő utalhat az ég tehenén keresztül az égre ([[A/AG\|AG]] = Ég).  
-![Ég_image20250417144726792.jpeg|fix_light](/img/user/E/assets/%C3%89g_image20250417144726792.jpeg)
+![Ég_image20250417144726792.jpeg|fix_dark fix_light|300](/img/user/E/assets/%C3%89g_image20250417144726792.jpeg)
 Az Ég Tehene kapcsán lásd Jankovics Marcell írását ([[H/Hathor\|Hathor]] istennőt, az Ég Tehenét az egész égbolt megtestesüléseként tiszteltét Egyiptomban; keress még rá Jelkép-kalendárium című könyvének Szent Ágotáról szóló részében):  
 > Ízisz ilyenkor [[H/Hathor\|Hathor]]rá válik, az "Ég Tehenévé".  
 
