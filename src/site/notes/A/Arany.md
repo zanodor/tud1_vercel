@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-10-25T02:36"}
+{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-11-16T14:37"}
 ---
 
 
@@ -81,6 +81,41 @@ A pénz és arany jelentésű szavak vizsgálata alapján kiderül, hogy eredeti
 Példaként a germán `geld`/[[G/Gold\|gold]] a Nap Kel-D nevéből ered, a perzsa [[Z/Zar\|zar]] = arany, pénz jelentésű, a [[S/Szár\|szár]] nyomán, a (kínai eredettel jelölt) japán [[K/KIN\|kin]] = arany és pénz értelmű is, de például a lengyel pénznem `zloty` esetét vizsgálva, az [alábbi](https://en.wiktionary.org/wiki/z%C5%82oty) oldal és [[S/Szár\|szár]] címnél szereplő adatok alapján kiderül, hogy az arany (`zlato` = arany) itt is alapértemény, ahogy a régi holland `gulden` esetében is ezt látjuk.  
 
 ## Aranyalma
+
+Az [alábbi](https://videa.hu/videok/nagyvilag/251112cn-malenkij-robot-kubinyi-tamas-magyar-i6eBh7R12xKIS6iU?start=5939) helyen olvassa fel Kubínyi Tamás:  
+A magyar mitológia a Világfa (Égigérő fa) köré épül:  
+```plantuml-svg
+@startuml
+skinparam BackgroundColor transparent
+skinparam rectangle {
+    BackgroundColor #ccbe78
+}
+skinparam card {
+    roundCorner 15
+    BackgroundColor #f9f5d7
+}
+
+rectangle "<b>Magyar mitológia</b>\n<b>(Világfa)</b>" as head
+card "Felső Világ" as felso
+card "Középső Világ" as kozep
+card "Alsó Világ" as also
+card "Tengri (Ég ura)" as tengri
+card "Földanya" as foldanya
+card "Turul (a fa tetején)" as turul
+card "Aranyalma" as alma
+card "Rossz Szellemek/Démonok" as rossz
+
+head -down-> felso : Jó szellemek lakhelye
+head -down-> kozep : Emberi élet világa\n(Fizikai valóság)
+head -down-> also : Alvilág (Gyökerek körül)
+
+felso -down-> tengri
+kozep -down-> foldanya : Ég és Föld násza
+felso --right-> turul
+felso --left-> alma
+also -down-> rossz
+@enduml
+```
 
 #### Grandpierre Atilla...
 
