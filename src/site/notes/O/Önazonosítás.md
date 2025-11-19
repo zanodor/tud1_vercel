@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated"],"created":"2024-05-09T22:32","updated":"2025-10-02T21:42"}
+{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated"],"created":"2024-05-09T22:32","updated":"2025-11-19T01:39"}
 ---
 
 
@@ -11,11 +11,11 @@ Különösen a [[G/God\|God]] és [[K/Khuda\|Khuda]] címnél taglalt perzsa `kh
 Az [[E/Ember – régi ember\|ember – régi ember]] magát nem a testével, hanem a [[S/Szellem\|szellem]]ével, fénytermészetével, fénnyel (Nappal) azonosította. (Ez megegyezik Grandpierre Atilla Lélek és a világegyetem című könyvében megfogalmazottakkal[^1].)  
 "Énazonosításnak" is hívhatnók, hiszen Én = [[E/EN\|En]] = Isten(i lény(em)). A [[S/Személyes névmások\|személyes névmások]] a magyar nyelvben, egyes számban, istennevek, írja Péterfai János is. Én és ön is az [[A/AN, ÁN\|AN, ÁN]] = ég (egy, isten(anya)) változata, felhangos párja.  
 
-Lényegében mi a hun [[A/AN, ÁN\|AN, ÁN]] = ég, menny szavunk nyomán használjuk én szavunkat, a perzsa `man` = én a menny ([[M/Men\|men]]) szóból (a tamilban is `nan`), a germán `ich` és társai pedig a magyar [[E/Ég\|ég]] szóból indul ki: mindegyik annak bizonyításául szolgál, hogy az emberek ismerték eredetüket. A népek nevei is hasonlóan alakultak ki, ahogy az országok nevei is.
+Lényegében mi a hun [[A/AN, ÁN\|AN, ÁN]] = ég, menny szavunk nyomán használjuk én szavunkat, a perzsa `man` = én a [[M/Men\|menny]] szóból (a tamilban is `nan`) (lehet persze mindkettő pusztán `én` előtételezése, a latin [[E/Ego\|ego]], germán `ich` és társai pedig a magyar [[E/Ég\|ég]] szóból indulnak ki: mindegyik annak bizonyításául szolgál, hogy az emberek ismerték eredetüket. A népek nevei is hasonlóan alakultak ki, ahogy az országok nevei is.  
 
-A latin [[E/Ego\|ego]] = én szó tehát nem annyira a Nap [[E/Égő\|égő]] nevéből képzett, hanem [[E/Ég\|ég]] és [[E/Egy\|egy]] szavunkból, ahogy erről [[I/I#I 2)\|I]] és [[A/AN, ÁN\|AN, ÁN]] címnél is volt szó.  
+A latin `ego` = én szó tehát nem annyira a Nap tkp. [[E/Égő\|égő]] nevéből képzett, hanem [[E/Ég\|ég]] és [[E/Egy\|egy]] szavunkból, ahogy erről [[I/I#I 2)\|I]] és [[A/AN, ÁN\|AN, ÁN]] címnél is volt szó.  
 
-A latin ego-hoz hasonló [[E/Each\|each]] szónál volt szó ék és ég szavakról és hogy Tomory Zsuzsa is felhozza ezen angol szót, de kelta nyelvben ember jelentéssel (nem találom ilyen alakkal a szót). (Talán Tomory Zsuzsa félreérti. Az ír nyelvben `iochd` jelent embert, emberiséget (de vélhetően a kiinduló idea kelta nyelvben a `joht`: jóság, könyörületesség).) Ott, [[E/Each\|each]] címnél egy szavunkat hoztuk ki azóta.  
+A latin ego-hoz hasonló [[E/Each\|each]] szónál volt szó ék és ég szavakról és hogy Tomory Zsuzsa is felhozza ezen angol szót, de kelta nyelvben ember jelentéssel (nem találom ilyen alakkal a szót). (Talán Tomory félreérti. Az ír nyelvben `iochd` jelent embert, emberiséget (de vélhetően a kiinduló idea kelta nyelvben a `joht`: jóság, könyörületesség).) Ott, [[E/Each\|each]] címnél egy szavunkat hoztuk ki azóta.  
 
 [[E/ÉN\|ÉN]] illetve [[A/AN, ÁN\|ÁN]] szavunkkal látszik egyezni a kelta `àin` = fény, hő szó, mely előtagként megvan azon `aingeal` = fény, tűz szóban, mely ugyanilyen formában, Alex MacBain etimológia szótárában alatta külön szócikkben `aingeal` = [[A/Angel\|angyal]] jelentéssel is meg van adva, de mindkét szót más és más levezetésekkel illet. Ezekről a szavakról lásd még [[A/Angel\|angel]].  
 Az én jelentésű pehlevi `az` kapcsán [[A/Ász\|Ász]] címnél alcím neveként fogalmaztuk meg, hogy az Az illetve Ász isteni énként értelmezendő (ahogy [[I/Isa\|Isa]] [[J/Jézus\|Jézus]] Isa/Isza nevében is).  
