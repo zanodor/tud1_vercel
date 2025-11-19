@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Köldök/","title":"Köldök","tags":["containstransclusions"],"created":"2025-03-05T03:15","updated":"2025-11-19T01:39"}
+{"dg-publish":true,"permalink":"/K/Köldök/","title":"Köldök","tags":["containstransclusions"],"created":"2025-03-05T03:15","updated":"2025-11-19T01:42"}
 ---
 
 
@@ -117,7 +117,7 @@ Visnu köldökéről (a Tejútközponttal azonosított Vishnunabhi-ról) lásd [
 #### Kecskés András Szolfa a magyar zene életfája...
 
 ...című az Ősi Gyökér 2007/2-3. sz. megjelent cikkében a köldök és sámánfa/világfa kapcsán sámándob kontextusban írja:  
-> Érdemes pár pillanatot szentelni és megvizsgálni azt a tényt, hogy a nyelvcsaládunk rokonsági fokában kissé távol eső evenki sámándob fogó keresztfája, azaz a dob keresztvasa az "uT", és középen a lyuk a "föld (ez esetben a világmindenség) köldöke" nevet viselte. Témánkhoz vágó jelentős evenki szó még a "[[T/Turu\|tuRu]]", mely ugyancsak az egész világmindenséget jelentette \[világfa jelentésel ismertem\], ma "TaLaJ", anyag, föld értelmemmel. (Bartók-Kodály-Kerényi: A Magyar Népzene Tára. I. Gyermekjátékok. Bp., 1951.)  
+> Érdemes pár pillanatot szentelni és megvizsgálni azt a tényt, hogy a nyelvcsaládunk rokonsági fokában kissé távol eső evenki sámándob fogó keresztfája, azaz a dob keresztvasa az "uT", és középen a lyuk a "föld (ez esetben a világmindenség) köldöke" nevet viselte. Témánkhoz vágó jelentős evenki szó még a "[[T/Turu\|TuRu]]", mely ugyancsak az egész világmindenséget jelentette \[világfa jelentésel ismertem\], ma "TaLaJ", anyag, föld értelmemmel. (Bartók-Kodály-Kerényi: A Magyar Népzene Tára. I. Gyermekjátékok. Bp., 1951.)  
 
 Ha a [[H/Ház\|ház]] (szavunk) a Tejútra (és lényegében a **Tejútanyának hasára/méhére**!) vonatkozik, és emse-[[E/Emese\|Emese]] is a Tejútanya (állat- és ember)alakja, akkor a [[K/Koca\|koca]]/coca is az, de mivel a koca név közvetlenül a [[K/Kota\|kota]], [[K/Kútya\|kútya]] = ház értelmű szavakkal azonos, ezért gyakorlatilag ezen (nőstény)állat neve is közvetlenül asztrális eredetű lehet.  
 Az igazság az, hogy a köldök/[[M/Méh\|méh]]/[[V/Vulva\|vulva]]/[[P/Pina\|pina]] fogalmak nem igazán határolódnak el egymástól a régi és a mai felfogás szerint sem. A méhszáj például ugyanolyan száj/nyílás, mint a külső szeméremnyílás, melyet a vagina köt össze, de a vagina leginkább pina értelemben használatos. De ilyen a [[K/Kútya\|kútya]] címnél előjövő doboz és vagina jelentésű szavak és az angol szleng [[B/Box\|box]] is, mely buksza szavunkkal is azonos. [[D/Doboz\|Doboz]] is annyit jelent mint Nap Háza ismét.  
