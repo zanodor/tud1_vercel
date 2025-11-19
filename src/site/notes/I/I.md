@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2025-09-03T15:59"}
+{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2025-11-19T01:39"}
 ---
 
 
@@ -32,7 +32,6 @@ Nemcsak a magyar [[I/Itt\|itt]] szó, de a régi francia `içi` illetve modern f
 ## I birtokrag
 
 Már mintha valahol lett volna szó arról, hogy nemcsak a magyarban lenne használatos. Dorogból így lesz dorogi (személynévként Dorogi), stb.  
-[[A/Assisi Szent Ferenc\|Assisi Szent Ferenc]] nevében az az érdekes, hogy az Assisi szóvégi -i hangjának helyre való vonatkozása magyarul érthetően található meg.  
 Hasonló hozzá ilyen értelemben -[[I/Ia\|ia]].  
 
 ## I mint a többes szám jelölője
@@ -136,7 +135,8 @@ Több helyen volt szó az i-ről j-re (és jo/ju- ra, stb.) változásról; lás
 
 ## Y mint I
 
-Sok esetben, főleg nevek végén i-nek kezelt, a magyar nyelvben is. De idegen szavakban bizonyos hangok után (G, N, T) az i-nek hasonló lágyító szerepe van, mint nálunk az y-nak. Például Francis Tiafoe neve lehetne Tyafó/Gyafó.  
+Sok esetben, főleg nevek végén i-nek kezelt, a magyar nyelvben is. De idegen szavakban bizonyos hangok után (G, N, T) az i-nek hasonló lágyító szerepe van, mint nálunk az y-nak. Az olasz `maggiore` = nagyobb szóban is hasonló jelölésű.  
+  
 
 # I 2)
 
