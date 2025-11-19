@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-11-16T14:38"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-11-19T01:39"}
 ---
 
 
@@ -16,6 +16,13 @@
 
 **Videók archivált összefoglalókkal**:  
 
+---
+
+[251118CN! FARKASOK - 3. rész](https://rumble.com/v71woza-251118cn-farkasok-3.-rsz-kubnyi-tams-ktv.html)  [https://archive.ph/Oal9Z](https://archive.ph/Oal9Z)
+[251117CN! FARKASOK - 2. rész](https://rumble.com/v71uf7a-251117cn-farkasok-2.-rsz-kubnyi-tams-ktv.html)  [https://archive.ph/YXzPk](https://archive.ph/YXzPk)
+[240118 ÁKA - FARKASOK - 1. rész](https://rumble.com/v71ujew-240118-ka-farkasok-1.-rsz-kubnyi-tams.html)  [https://archive.ph/Q5Xaz](https://archive.ph/Q5Xaz)
+
+---
 [251114CN! TORMA ZSÓFIA](https://videa.hu/videok/nagyvilag/251114cn-torma-zsofia-kubinyi-tamas-magyar-HlvVAm0mdOC121t9)  [https://archive.ph/LuTfY](https://archive.ph/LuTfY)
 [251113CN! CSAK EGY ÉVRE？](https://videa.hu/videok/nagyvilag/251113cn-csak-egy-evre-kubinyi-magyar-LhGr2VSue66nOvb5)  [https://archive.ph/7jslq](https://archive.ph/7jslq)
 [251112CN! MÁLENKIJ ROBOT](https://videa.hu/videok/nagyvilag/251112cn-malenkij-robot-kubinyi-tamas-magyar-i6eBh7R12xKIS6iU)  [https://archive.ph/iayuO](https://archive.ph/iayuO)
@@ -184,10 +191,16 @@
 [250304CN! JÖVŐTITKOK](https://rumble.com/v6q6e1y-250304cn-jvtitkok-kubnyi-tams.html):  [https://archive.ph/IIIcQ](https://archive.ph/IIIcQ)  
 [240604CN! TRIANONI HARANGSZÓ](https://rumble.com/v6qcpdu-240604cn-trianoni-harangsz-kubnyi-tams-ktv.html):  [https://archive.ph/NDibX](https://archive.ph/NDibX)  
 
+---
+
 [240423CN! VILÁGTERV](https://rumble.com/v6qfeg2-vilgterv-ktv-240423cn.html):  [https://archive.ph/7rRo8](https://archive.ph/7rRo8)  
+
+---
 
 [230727CN! Keniták - Zsidók és álzsidók 2](https://rumble.com/v6qj25e-zsidk-s-lzsidk-2.html):  [https://archive.ph/OOq0h](https://archive.ph/OOq0h)  
 [230726CN! Keniták - Zsidók és álzsidók](https://rumble.com/v6qj226-zsidk-s-lzsidk.html):  [https://archive.ph/7AlcL](https://archive.ph/7AlcL)  
+
+---
 
 [200921CN! POLKORREKT 3. rész](https://rumble.com/v6qnlis-200921cn-polkorrekt-3.-rsz-kubnyi-tams-ktv.html)  [https://archive.ph/2vvWV](https://archive.ph/2vvWV)  
 [200916CN! POLKORREKT 2. rész](https://rumble.com/v6qnlh2-200916cn-polkorrekt-2.-rsz-kubnyi-tams-ktv.html)  [https://archive.ph/8sKWJ](https://archive.ph/8sKWJ)  
