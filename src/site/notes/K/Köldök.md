@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Köldök/","title":"Köldök","tags":["containstransclusions"],"created":"2025-03-05T03:15","updated":"2025-06-08T01:07"}
+{"dg-publish":true,"permalink":"/K/Köldök/","title":"Köldök","tags":["containstransclusions"],"created":"2025-03-05T03:15","updated":"2025-11-19T01:39"}
 ---
 
 
@@ -7,18 +7,21 @@
 
 #### A Czuczor-Fogarasi szótár adata:
 
-> Széles ért. kerekded mélyedés vagy kidudorodás valamely ivded testen. Így neveztetik a boltozatban azon zárkő, mely kerekdeden kinyomúl. A kerekpaizson köldöknek mondják a közepén látszó kidudorodást. A burgonyának köldökeit teszik azon kis mélyedések, melyekből a csira kifakad. 2) Szoros és szokott ért. az emberek és állatok hasán azon kerekded mélyedés, melynek közepében az elmetszett köldökzsinór csomós vége vagyon. E szóban a kerekdedség alapfogalma rejlik, melyet a kö gyök fejez ki. Rokonok hozzá: kölődör, azaz csomóba, gömbölyüen öszvegyűrt tészta, gömböcz, gombócz, és a buczkót jelentő kölöncz, vastag hangon koloncz. Képzésre nézve olyan, mint: nyomdok, szurdok, szándok, undok, s a szemöldök második alkatrésze öldök stb.  
+> Széles ért. kerekded mélyedés vagy kidudorodás valamely ivded testen. Így neveztetik a **boltozatban azon zárkő**, mely kerekdeden kinyomúl. A kerekpaizson köldöknek mondják a közepén látszó kidudorodást. A burgonyának köldökeit teszik azon kis mélyedések, melyekből a csira kifakad. 2) Szoros és szokott ért. az emberek és állatok hasán azon kerekded mélyedés, melynek közepében az elmetszett köldökzsinór csomós vége vagyon. E szóban a kerekdedség alapfogalma rejlik, melyet a kö gyök fejez ki. Rokonok hozzá: kölődör, azaz csomóba, gömbölyüen öszvegyűrt tészta, gömböcz, gombócz, és a buczkót jelentő kölöncz, vastag hangon koloncz. Képzésre nézve olyan, mint: nyomdok, szurdok, szándok, undok, s a szemöldök második alkatrésze öldök stb.  
 
 Ami a szó felbontását, értelmezését illetiKöl előtagja a Kör fogalmára utal, [[D/DÖK\|DÖK]] pedig Napnév, de elsősorban a halott (és egyúttal a megszületendő) Napra utal, mint ahogy a [[T/Tegnap\|tegnap]] név előtagja is erre utal.  
-Igen is, hatalmas jelentőségű, hogy a köldök nem más, mint a Tejútanya köldöke (tulajdonképpen méhe) kell legyen, ahonnan a halott Napot (Dök) ki[[K/Költ\|költ]]i, újjászüli. Köl tehát valójában [[K/KEL\|KEL]] értelmű. Azaz köldök is egy újabb asztrális eredetű szavunk.  
+Igen is, hatalmas jelentőségű, hogy a köldök nem más, mint a Tejútanya köldöke (tulajdonképpen méhe) kell legyen, ahonnan a halott Napot (Dök) ki[[K/Költ\|költ]]i, újjászüli. Köl tehát valójában [[K/KEL\|kel]] értelmű. Azaz köldök is egy újabb asztrális eredetű szavunk.  
 Érdekes, miután a [[G/Gomb\|gomb]] (angol [[B/Button\|button]]) jelentésű szavak Nap (N-P) alakúak egyes nyelvekben (finn `nappi`, észt `nööp`, német `knopf`, skandináv `knap(p)`, cseh `knoflík` stb.), hogy talán itt is kereshető asztrális tartalom: az ég [[K/Ködmön\|ködmön]]e, [[P/Palást\|palást]]ja, [[S/Suba\|subá]]ja, [[S/Szűr\|szűr]]je, [[S/Sátor\|sátor]]a, bárhogy is nevezzük, akkor van begombolva, amikor a Nap együttáll a Tejútközponttal. (A gomb ugye gömb is.)  
 És kinek a feladata, hogy a gombot bedugja (perzsa nyelven is `dogme`, törökül is `düğme` = gomb) a helyére? Nyilván a [[K/Kutyanemzés\|kutyanemzés]]t végző Szíríuszé kell legyen...  
-Ha már török, a doğma jelentése pedig születés, kezdet. A szavak mindenütt beszédesek.  
+Ha már török, a `doğma` jelentése pedig születés, kezdet. A szavak mindenütt beszédesek.  
 
-Az is lehetséges, hogy a köldök és [[T/Tündök\|tündök]] szavak -ök utórésze olyan, mint [[A/Átok\|átok]], [[S/Szádok\|szádok]], stb. szavak utórésze. Csak amíg [[T/Tündök\|tündök]] szóban a szóvégi -ök lehet [[O/OG\|OG]]/[[E/Ég\|ÉG]], addig a köldök szóban kevéssé valószínű: ha a köldök a Földön van, akkor semmiképp. Igen ám, de a köldök is csak egy égről földre tükrözött fogalom, ha a Tejútanya köldökéről van szó.  
-Ami a Köld előrészt illeti, mi lehet benne a d? Nyilván t hang, így köldök lehetne a.m. költök.  
+Az is lehetséges, hogy a köldök és a szintén északra utaló `tündök` szavak -ök utórésze olyan, mint [[A/Átok\|átok]], [[S/Szádok\|szádok]], stb. szavak utórésze. Csak amíg [[T/Tündök\|tündök]] szóban a szóvégi -ök lehet [[O/OG\|OG]]/[[E/Ég\|ÉG]], addig a köldök szóban kevéssé valószínű: ha a köldök a Földön van, akkor semmiképp. Igen ám, de a köldök is csak egy égről földre tükrözött fogalom, ha a Tejútanya köldökéről van szó.  
+Ami a Köld előrészt illeti, mi lehet benne a d? Nyilván t hang, így köldök lehetne a.m. "költök".  
 
-Hol található az égen vagy a téridőben a köldök? Nos, a helyzet hasonlóan nehéz, mint a [[C/Centre\|centre]] azaz [[K/Közép\|közép]] fogalmai kapcsán. Több középpont is elképzelhető. Lehet a [[S/Sarkcsillag\|Sarkcsillag]], a Tejútközpont, [[S/Szíriusz\|Szíriusz]], [[O/Orion övcsillagai\|Orion övcsillagai]], a Föld, a [[V/Világhegy\|Világhegy]] (utóbbi kettő egy és ugyanaz, a [[V/Világ közepe\|világ közepe]]).  
+Hol található az égen vagy a téridőben a köldök? Nos, a helyzet hasonlóan nehéz, mint a [[C/Centre\|centre]] azaz [[K/Közép\|közép]] fogalmai kapcsán. Több középpont is elképzelhető. Lehet a [[S/Sarkcsillag\|Sarkcsillag]], a Tejútközpont, [[S/Szíriusz\|Szíriusz]], [[O/Orion övcsillagai\|Orion övcsillagai]], valamint a Föld és a [[V/Világhegy\|Világhegy]] (utóbbi kettő egy és ugyanaz, a [[V/Világ közepe\|világ közepe]]).  
+
+> [!note]+ &nbsp;
+> Többféle központ, köldök is elképzelhető, de a régi [[P/Poláris-szoláris átállás\|poláris]] felfogás szerint a Sarkcsillag volt a köldök. A fent kiemelt boltozat (= ég) fogalom is szépen mutat erre.
 
 Közben több helyen is szerepelt az alábbi passzus (arról is, hogy a köldök kétértelmű):  
 Az [[E/Ecliptic\|ecliptic]] és [[S/Sine\|sine]] címnél bemutatott szinusz-görbe hegy és völgy amplitúdó-pontjai a [[L/Lemniszkáta\|lemniszkáta]] diagramon egy pontba konvergálva jelennek meg.  
@@ -33,15 +36,18 @@ A [[Z/Zodiákus-ember\|zodiákus-ember]] köldökét nem sikerült megfelelő he
 A legutóbb [[H/Hostile\|hostile]] címnél szereplő sorokban is a téli napfordulós köldökről volt szó:  
 Miután a latin hehezet nélküli ostium = ajtó, bejárat szó (létezett Ostia helynév is) valójában égi [[F/Ford\|ford]]ulópontra kell utaljon, mégpedig a [[T/Téli napforduló\|téli napforduló]]ra, minden a helyére kerül.  
 A Nap a [[T/Tejútanya\|Tejútanya]] köldökén kel ki halott-magzati állapotából a [[T/Téli napforduló\|téli napforduló]]n, és ahogy Tilak Orion című könyéből is kiderül, az áldozati szereket ilyen jeles napokon tartották.  
-A sumér [[U/Us#US 2)\|Us]], usz halál, halott értelme is így érthető meg (Usz a Nap neve is, ahogy [[D/DÖK\|DÖK]] is, de elsősorban a halott és feltámadó Napé: ezért jelent árja nyelvekben [[T/TAK\|tak]] hétközi napot).  
+A sumér [[U/Us#US 2)\|us]], usz halál, halott értelme is így érthető meg (Usz a Nap neve is, ahogy [[D/DÖK\|DÖK]] is, de elsősorban a halott és feltámadó Napé: ezért jelent árja nyelvekben [[T/TAK\|tak]] hétközi napot).  
 
 [[T/Tejút\|Tejút]] címnél is szerepelt:  
-A tejútfát tekintve a középpont a látóhatárnak azt a részét jelenti, ahol a csillagfolyam a Földdel érintkezni látszik. Mivel a **Tejút (a csillagos ég) a Földhöz képest naponta, évente, illetve világévente (26000 év alatt) körbefordul**, számtalan ilyen érintkezési pont adódik. Ráadásul a Tejút íve két helyen találkozik a Föld peremével, így – a világtengelyt is figyelembe véve – egyidejűleg **3 lehetséges "középpont" \[köldök\] van a Földön**. Ezért oly gyakori a [[V/Világhegy\|Világhegy]] "hármas halomként" való ábrázolása; ez térben jelzi a három egyidejű metszéspontot, időben viszont a Tejút-látóhatármetszéspont vándorlására utalhat. \[Itt Jankovics Marcell szerintem túlspilázza, mert nem ismeri a [[H/Három\|három]] jelentését. Bár tény, ahogy az [[I/Idő nullpontja\|idő nullpontja]] címnél is szerepelt, hogy a Hamlet Malma írói is ezt a hármas találkozást vették fontosnak.\]  
+> A tejútfát tekintve a középpont a látóhatárnak azt a részét jelenti, ahol a csillagfolyam a Földdel érintkezni látszik. Mivel a **Tejút (a csillagos ég) a Földhöz képest naponta, évente, illetve világévente (26000 év alatt) körbefordul**, számtalan ilyen érintkezési pont adódik. Ráadásul a Tejút íve két helyen találkozik a Föld peremével, így – a világtengelyt is figyelembe véve – egyidejűleg **3 lehetséges "középpont" \[köldök\] van a Földön**. Ezért oly gyakori a [[V/Világhegy\|Világhegy]] "hármas halomként" való ábrázolása; ez térben jelzi a három egyidejű metszéspontot, időben viszont a Tejút-látóhatármetszéspont vándorlására utalhat.  
+- Itt talán Jankovics Marcell mellélőhet, mert nem ismeri a [[H/Három\|három]] jelentését. Bár tény, ahogy az [[I/Idő nullpontja\|idő nullpontja]] címnél is szerepelt, hogy a Hamlet Malma írói is ezt a hármas találkozást vették fontosnak.
 
-Falvay Károly Nagyboldogasszony című könyvének 147. oldalán a köldököt ugyanúgy a [[S/Sarkcsillag\|Sarkcsillag]]gal azonosítja mint Jankovics Marcell:  
+#### Falvay Károly Nagyboldogasszony...  
+
+...című könyvének 147. oldalán a köldököt ugyanúgy a [[S/Sarkcsillag\|Sarkcsillag]]gal azonosítja mint Jankovics:  
 > Földi viszonylatban a geometriai gondolkodás szerint ez a\[z origo\] pont a föld "közepe", az emberi test hasonlatában "köldöke". A mennyei rendszerben a "nyugvás helye", a Sarkcsillag. A két pontot összekötő tengely, az adott helyhez tartozó világtengely, "[[E/Életfa\|életfa]]". E körül forog éjszakáról-éjszakára a látható mennybolt. Az ember képzeteiben ez a "forgás" alakította ki a "működés, majd később a "működtetés" hiedelmekkel összefüggő világát, amivel saját emberi világát azonosította.  
 
-[[N/Négy#Négy és az ötödik irány\|Négy és az ötödik irány]] cím/alcímnél (Molnár V. József más adatai ill. az ott) írottak szerint valóban lehet a [[V/Világhegy\|Világhegy]] felülnézeti modelljének, a négyzet átlói metszésével nyert középpont a [[S/Sarkcsillag\|Sarkcsillag]] és így egyben a köldök is, Molnár V. József Világ-Virág c. könyvének 18. oldaláró vett anyaga szerint is:  
+[[N/Négy#Négy és az ötödik irány\|Négy és az ötödik irány]] cím/alcímnél – Molnár V. József más adatai ill. az ott – írottak szerint valóban lehet a [[V/Világhegy\|Világhegy]] felülnézeti modelljének, a négyzet átlói metszésével nyert középpont a [[S/Sarkcsillag\|Sarkcsillag]] és így egyben a köldök is, Molnár V. József Világ-Virág c. könyvének 18. oldaláró vett anyaga szerint is:  
 > Természetesen mindez nem jelenti azt, hogy a kör jelértéke kisebb, mint a négyzeté. A kör a teljesség, az osztatlan egész tökéletes jelölője, éppen ezért nem szolgálhat kezdőpontul. A kör az ésszel megfoghatatlan végső érték, amelyre csak lelkünknek adatik meg kivételes pillanatokban rácsodálkoznia. Ha a régi kínaiak az égnek emeltek templomot, kör alakú elemeket használtak, a földi uralkodónak viszont négyzetes karakterű palotát építettek. A magyar kereszténység korai templomai közül feltűnően sok a kör alaprajzú.  
 > Az alaposztással (M3b ábra) két-két négyzetből álló felső, illetve alsó részt, bal, illetve jobb oldalt különböztethetünk meg, de megkülönböztethetünk átlósan is: bal felső és alsó, illetve jobb felső és alsó négyzetet. Osztunk, tehát tájékozódunk! S e tájékozódás alapja a négyzet középpontja, annak "köldöke".  
 > A moldvai csángók szerint "....a föld küldükirű, ha van szó, az mindenkinek az a hely, hul született, ahul ősapáink tájai, ahul él az ember, ahul nyeri mindennapi kenyerit, ott hul ismeri az egész világat..."  
@@ -101,7 +107,7 @@ Visnu köldökéről (a Tejútközponttal azonosított Vishnunabhi-ról) lásd [
 
 #### Varga Zsigmond Az ősmagyar mitológia...
 
-...című könyvének 294-295. oldalán is erről a világ közepe köldökről szól, melyből a világoszlop nő ki:  
+...című könyvének 294-295. oldalán is erről a "világ közepe" köldökről szól, melyből a világoszlop nő ki:  
 > A világoszlop mesterségesen előállított világfa. A szent liget nyír-, esetleg nyárfájából készítették. A török-tatár törzseken kívül feltalálható Északszibéria népeinél, az obi-ugoroknál, roncsaiban magyar népünknél is, a szamojédoknál, s végül a lappoknál. Az volt a rendeltetése, hogy a föld köldökén emelkedve, az eget alulról támassza alá, nehogy összedüljön. Különböző nevekkel illetik, de a szumirban és az ugor népeknél [[T/TIR\|tir]] nevet visel.  
 - Tir össze lett kapcsolva [[T/Tree\|tree]]-vel.
 
