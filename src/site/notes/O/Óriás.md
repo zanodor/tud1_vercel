@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","tags":["Englishtexttranslated"],"created":"2024-04-20T13:37","updated":"2025-09-28T21:25"}
+{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","tags":["Englishtexttranslated"],"created":"2024-04-20T13:37","updated":"2025-11-28T21:21"}
 ---
 
 
@@ -8,7 +8,7 @@
 Kezdjük ott, hogy az Ipolyi Arnold Magyar mythologia című könyvének Óriás és Hős fejezetében taglalt óriások és azoktól származó hun-magyar, germán/skandináv, finn, stb. nemzetősök egyértelműen arra a képzetre viendők vissza, hogy (azon kívül, hogy a Nap anyja a [[T/Tejútanya\|Tejútanya]]), a Nap(ok) atyja Orion[^1], és mivel az emberiség, a [[N/Nép\|nép]] a [[N/Nap\|Nap]] fiai, ezért a nemzetalapító hősök, elődök is Napokként, [[N/Nimrud\|Nimrud]]-Orion (és innen más óriások) leszármazottjaiként kezeltettek.  
 Péterfai János [[F/Fomori\|Fomori]] címnél is írja, hogy az óriás alatt őst kell érteni.  
 
-Az már más kérdés, hogy különösen a Vaskorba érve az óriások és azok fiai már a szelíd polgáriasodott népeket leigázni akaró ragadozó [[B/Barbár\|barbár]] népekkel azonosítottak és így általán az égi ősök tiszteletét fenntartó (magas?) hunokkal, később tatárokkal. (A [[H/Hune\|hune]]/`hüne` innen a németben is óriás, de talán a vogul `járkum` = óriás is a várkunokra, hunokra való utalás lehet, ha éppen nem a `jár` = föld értelmet kell keresni itt, míg `kum` = ember.)  
+Az már más kérdés, hogy különösen a Vaskorba érve az óriások és azok fiai már a szelíd polgáriasodott népeket leigázni akaró ragadozó [[B/Barbár\|barbár]] népekkel azonosítottak és így általán az égi ősök tiszteletét fenntartó (magas?) hunokkal, később tatárokkal. (A [[H/Hüne\|hüne]] innen a németben is óriás, de talán a vogul `járkum` = óriás is a várkunokra, hunokra való utalás lehet, ha éppen nem a `jár` = föld értelmet kell keresni itt, míg `kum` = ember.)  
 Ipolyi könyvének 212. oldalán szóba kerül [[T/Tana\|Tana]] neve is, ki az egyik krónikás hagyomány szerint Nimrud atyjának bemutatott. Ez csak úgy értelmezhető, hogy a Teremtő, a FőIsten, a Legfőbb Lény hozta létre a világmindenséget és így a csillagokat, csillagképeket is, melyek közül kiemelt szerepe a [[K/Kovács\|kovács]]istenségnek beillő [[O/Orion\|Orion]]nak van, aki övcsillagaiból verte ki, nemzette (Nim-Rud-ja által) a [[H/Hunor és Magor\|Hunor és Magor]] napokat, melyek közül utóbbi, mint központi Nap maga Isten fiának is mondott, ha a fizikai nemzést nem számoljuk.  
 
 Említettem a skandinávokat. Az ónorvég vagy óészaki [[G/Germán mitológia\|germán mitológia]]i teremtéstörténetben is szerepelnek az óriások.  
@@ -53,7 +53,7 @@ A fentebb említett görög átírású névvel és óriás szavunkkal azonos az
 
 > **Plinius**, a polihisztor egyáltalán nem kételkedik egykori óriások és csontjaik létében, úgy véli, hogy az emberi nem egyre kisebbedik, mert közeledik a világ vége, a tűzözön: "Általában teljes bizonyossággal meg lehet figyelni, hogy az emberiség napról napra kisebb lesz – írja –, amennyiben a fiúk ritkán nagyobbak apjuknál, minthogy az elégés \[tűzözön\] korszaka, amely felé a mi időnk közeledik, csökkenti az ondó termékenységét. Krétán egy földrengés által felhasított hegyben nagy álló testet találtak, ezt egyesek Orionnak, mások Otisznak vélik. Oresztész teste, melyet a jóshely parancsára újból elástak, a hagyományok szerint hét könyök \[a görög ill. római könyök kb. fél méter\] volt. Igen, már majdnem ezer évvel ezelőtt panaszkodott a nagy költő, Homérosz, hogy az ő idejében az emberek kisebbek voltak, mint a régiek."
 
-[[H/Hune\|Hune]] címnél is szóltunk arról, de [[S/Szent Kristóf\|Szent Kristóf]] neve kapcsán is előjött, hogy a [[K/Kutyafejű\|kutyafejű]]ség és a magas termet kéz a kézben jártak (és félelem, valamint gúny, megvetés tárgyává is váltak, minthogy ónémetül `hun` = gúny), főleg az alábbi, [[H/Harmadik szem\|harmadik szem]] cím alatt is szereplő adatok alapján mondható ki mindez:  
+[[H/Hüne\|Hüne]] címnél is szóltunk arról, de [[S/Szent Kristóf\|Szent Kristóf]] neve kapcsán is előjött, hogy a [[K/Kutyafejű\|kutyafejű]]ség és a magas termet kéz a kézben jártak (és félelem, valamint gúny, megvetés tárgyává is váltak, minthogy ónémetül `hun` = gúny), főleg az alábbi, [[H/Harmadik szem\|harmadik szem]] cím alatt is szereplő adatok alapján mondható ki mindez:  
 > A homlokfalan, hátrafutó koponyájú **Homo magus** élte át a mítoszokat, teremtette meg a kultúrát. Utóda, a magashomlokú, rövidfejű Homo sapiens átlépett az okkereső értelem világába, s megteremtette a civilizációt.  
 > Ha a [[T/Tobozmirigy\|tobozmirigy]]et gyermekkorban megroncsoljuk \[és erre a koponya-torzítás során van is esély\], testi és szellemi koraérettség következik be, s esetleg **óriásnövés**.  
 
