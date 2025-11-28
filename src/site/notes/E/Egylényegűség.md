@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Egylényegűség/","title":"Egylényegűség","tags":["containscallouts"],"created":"2024-11-08T00:24","updated":"2025-09-24T13:55"}
+{"dg-publish":true,"permalink":"/E/Egylényegűség/","title":"Egylényegűség","tags":["containscallouts"],"created":"2024-11-08T00:24","updated":"2025-11-29T00:13"}
 ---
 
 
@@ -8,7 +8,7 @@
 #### Karcagi Oláh Imre Külföldi és magyar írók a magyar mitológiáról...
 
 ...című Ősi Gyökér 2005/2. sz. megjelent cikkében írja:  
-> Tehát itt már az eredetibb "egylényegű"-ségről (homooúsziosz) fogalmáról s nem az isteni hasonlóság -ról, a "hasonlényegű"-ségről (homoiúsziosz) esik szó. De hát nincs új dolog a Nap alatt. Ebből kerekedett hajdan az a ménkű nagy vita, a Nagy Konstantin császár által összehívott híres niceai zsinaton, midőn egy "ióta" miatt, - mire lecsitultak a kedélyek – az eminens egyházfiak kiátkozták egymást az anyaszentegyházból.  
+> Tehát itt már az eredetibb "egylényegű"-ségről (`homooúsziosz`) fogalmáról s nem az isteni hasonlóság -ról, a "hasonlényegű"-ségről (`homoiúsziosz`) esik szó. De hát nincs új dolog a Nap alatt. Ebből kerekedett hajdan az a ménkű nagy vita, a Nagy Konstantin császár által összehívott híres niceai zsinaton, midőn egy "ióta" miatt, - mire lecsitultak a kedélyek – az eminens egyházfiak kiátkozták egymást az anyaszentegyházból.  
 
 #### Oláh Imre Ősi jelképiség...
 
@@ -30,5 +30,7 @@ Az [[A/Ariánus\|ariánus]] eretnekek szerint Jézus hasonló Istenhez, míg az 
 > [!check] &nbsp;
 > A vallási dogmák körüli viták, mint az "egylényegű" és "hasonló lényegű" kérdése, történelmileg hatalmi harcok fedezékéül szolgáltak. Ez a mintázat a mai napig megfigyelhető, ahol ideológiai vagy vallási különbségeket használnak fel a társadalmi megosztottság és konfliktusok szítására, elterelve a figyelmet a valódi hatalmi érdekekről. – [01:26:03](https://rumble.com/v6wwhpy-250730cn-kamcsatka-kubnyi-tams-ktv.html?start=5163)
 
-Arról már volt szó, hogy a keresztény teológia – az anyai eszme kifelejtésével – a hímségi hármasságot – Apa, Fiú, Szentlélek – tekinti egynek. Ez a felfogás olyanoknak nem tetszik, mint például Bognár Ferenc, aki több cikkében az anyakultusz ősiségét mutatja be. Nekem is ellenérzéseim voltak az osztályozás ilyetén megoldásával, amíg rá nem jöttem, hogy 1) két [[S/Szentháromság\|Szentháromság]] van (amiből egyet gyúrtak), 2) az isteni Szent Szellem, Jézus és a Szentlélek valóban vehető egynek, amennyiben Jézust nem materiális-történelmi személynek tekintem. [[J/Jézus\|Jézus]] címnél, két egymás alatti alcímnél taglaltuk ezt a témát.  
+Arról már volt szó, hogy a keresztény teológia – az anyai eszme kifelejtésével – a hímségi hármasságot – Apa, Fiú, Szentlélek – tekinti egynek. Ez a felfogás olyanoknak nem tetszik, mint például Bognár Ferenc, aki több cikkében az [[A/Anyakultusz – apakultusz\|anyakultusz – apakultusz]] ősiségét mutatja be. Ellenérzéseim nekem is voltak az osztályozás ilyetén megoldásával, amíg rá nem jöttem, hogy...
+1. két [[S/Szentháromság\|Szentháromság]] van (amiből egyet gyúrtak), 
+2. az isteni Szent Szellem, Jézus és a Szentlélek valóban vehető egynek, amennyiben Jézust nem materiális-történelmi személynek tekintem. [[J/Jézus\|Jézus]] címnél, két egymás alatti alcímnél taglaltuk ezt a témát.  
 - Ha már Jézus, A Kagylókürt 2010. 54. számából letöltésre elérhető Szendrei László: Az ősmagyar vallásosságról – A Szent István előtti magyarság vallási élete című jól megírt, több helyen idézett cikkében elhangzik, hogy a középkortól Úristenen a magyarok már Jézust is értik.
