@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/G/Glozeli leletek/","title":"Glozeli leletek","created":"2023-10-16T08:17","updated":"2025-10-10T21:56"}
+{"dg-publish":true,"permalink":"/G/Glozeli leletek/","title":"Glozeli leletek","created":"2023-10-16T08:17","updated":"2025-11-28T21:21"}
 ---
 
 
 # Glozeli leletek
 
-1924-ben egy francia faluban, Glozelben egyéb leletek mellett olyan írásjeleket találtak kerámialapokon, csontokon, köveken, amelyek nagymértékben hasonlítanak az ősi magyar írás betűihez. Különösen érdekes a Csudaszarvast ábrázoló 15000 évesre becsült kő, melyet lásd csatolva.  
+1924-ben egy francia faluban, Glozelben egyéb leletek mellett olyan írásjeleket találtak kerámialapokon, csontokon, köveken, amelyek nagymértékben hasonlítanak az ősi magyar írás betűihez. Különösen érdekes a Csudaszarvast ábrázoló 15000 évesre becsült kő.  
 ![assets/Glozelileletek_image1.jpeg|840](/img/user/G/assets/Glozelileletek_image1.jpeg)  
 Az interneten elérhetők további képek:  
 [http://www.glozel.net/ceramic_artifacts.html](https://web.archive.org/web/20170113130156/http://www.glozel.net/ceramic_artifacts.html)  
@@ -18,3 +18,7 @@ Az interneten elérhetők további képek:
 > Atlantisz fővárosának pusztulása után, amit Kr.e. 9.600-ra tettek az egyiptomiak, még sokáig élt a kultúra, de az is mondható, hogy a birodalom területén elterülő mai államok mind az atlantiszi magyar birodalom örökösei. Különösen Glozel leletei érdemelnek kiemelkedő figyelmet, de sok más lelet is ismert, amelyek magyar jelenlétet bizonyítanak Atlantiszban. A mai Franciaország Atlantisz egyik nagyon fontos területe, de nem kizárólagosan birtokolja a régi birodalom örökségét.  
 > \[...\]  
 > A Magdaléni kor megszűnése után Nyugat-Európában még sokáig keletkeznek magyar feliratok. Franciaországban Glozel leletei Kr.e. 4.000 körül nagy tömegben jelennek meg. Ez a tény azt bizonyítja, hogy a Magdaléni periódus elmúltával nem vesztek ki a magyarul író emberek Franciaországban. Sőt, inkább megsűrűsödtek.  
+
+## Más forrás
+
+Lásd [https://szkitahun.wordpress.com/2011/03/27/a-glozeli-rovasirasos-kovek-becsult-kora-15000-ev/](https://szkitahun.wordpress.com/2011/03/27/a-glozeli-rovasirasos-kovek-becsult-kora-15000-ev/).
