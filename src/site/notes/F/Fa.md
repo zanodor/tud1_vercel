@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2025-10-04T18:00"}
+{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2025-11-28T21:21"}
 ---
 
 
@@ -272,6 +272,8 @@ A Szíriusz a Tejút sávja mellett helyezkedik el. A [[K/Kovács és a kutya\|k
 A Fehérlófia mesében a Koponyányi Monyók egy koponya nagyságú alvilági szörnyeteg, akinek nagy szakálla van. Fejérlófia \[Péterfai János írja nevét így\], miután három társát (Fanyűvő, Vasgyúró és Hegyhengergető) az ördög legyőzte, a monyókot rettentően elveri, és szakállánál fogva kiköti egy nagy fához. Hétszűnyű Koponyányi Monyók azonban kitépi a fát, és lemenekül az Alvilágba.  
 
 ## Kidöntött fa, kitépett fa, fanyűvés, Tejútfa csavarodása
+
+
 
 Imént volt szó Fehérlófiáról, valamint a kidöntött = holt fáról (a vízszintes vonal a halálé; lásd [[K/Kereszt\|kereszt]]). A másik eset a fa dőlése kapcsán szóba hozott Tejútfa csavarodás, melyet korszakváltozások kapcsán szóba hoztunk [[T/Therio-\|therio-]] és [[T/Tör\|tör]] címnél is például lásd még [[F/Fanyűvő\|Fanyűvő]] és [[D/Dzsed\|dzsed]]. Lásd [[F/Fadöntő mese\|Fadöntő mesé]]t is.  
 A Koponyányi Monyók által kitépett fa a Tejútfa, mely égi elhelyezkedését tekintve, ha a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]re merőleges Halál-tengellyel, a [[S/Szűz-Halak tengely\|Szűz-Halak tengelly]]el azonosítjuk, akkor azt mondhatjuk, hogy a Szűzzel kezdődő ősz évszakba léptünk a mesében akkor, amikor KM lemenekül az alvilágba.  
