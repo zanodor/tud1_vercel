@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-11-22T16:30"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-11-28T21:21"}
 ---
 
 
@@ -7,21 +7,28 @@
 
 
 
- > [!info]- <span style="font-weight:normal"><small> Kattintsd a fülecskére a legördülő megjegyzésekért!</small></span> &nbsp;
-> <small>**Megjegyzés**: A Google Gemini-s összefoglalók a Google (YouTube) által automatikusan rendelkezésre bocsátott feliratozás alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli problémák, melyek mindegyikét nem veszem észre, hogy javíthassam. Kisbetűs vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag", "az előadó szerint", amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattintva ellenőrizni a videón, hogy mi szerepelt az eredeti hang- ill. képanyagban.</small>
+> [!attention] &nbsp;
+> A teljes Tudástár weboldal megfelelő használata érdekében a Firefox böngészőt és a videók zavartalan, hirdetésmentes eléréséhez javaslom az ezen böngészőre telepíthető [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) bővítményt használni (Videa, Rumble, YouTube és más platformok videóihoz is jó). (A Chrome jelenleg ezt a bővítményt nem engedi telepíteni.)
+
+ > [!info]- <span style="font-weight:normal"><small> Kattintsd e sorra vagy oldalt a fülecskére további megjegyzésekért!</small></span> &nbsp;
+> <small>**Megjegyzés**: A mesterséges intelligencia Google Geminis összefoglalói a Google (YouTube) által automatikusan rendelkezésre bocsátott feliratozás alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli problémák, melyek mindegyikét nem veszem észre, hogy javíthassam. Kisbetűs vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag", "az előadó szerint", amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattintva ellenőrizni a videón, hogy mi szerepelt az eredeti hang- ill. képanyagban.</small>
 > 
-> <small>**Megjegyzés 2**: 20250925-től (kb.) 20251114-ig az eredeti Videa linkeken megy az időbélyegre kattintásokkal a videó, de az ez idő alatt Rumble-on nem jól működő videólinkek elérhetők, azaz ha Videa videók eltávolításra kerülnek, a Rumble-on vissza lehet nézni a videókat, de a Videa videókra igazított időbélyegekre kattintás módi nem fog működni.</small>
+> <small>**Megjegyzés 2**: 20250922-től 20251114-ig az időbélyegre kattintásokkal a videó az eredeti Videa linkeken ment, mivel ez idő alatt Rumble-ra feltett videók linkjeit nem mindig játszotta le, de továbbra is elérhetők maradtak, azaz ha a Videa videók eltávolításra kerülnek, a Rumble-on vissza lehet nézni a videókat, viszont a Videa videókra igazított időbélyegekre kattintás módi nem fog működni.</small>
 > 
 > <small>**Megjegyzés 3**: A web app keresője nem keres és nem talál ezen összefoglalókban!</small>
 
 **Videók archivált összefoglalókkal**:  
 
+[251127CN! HÜKSZOSZOK](https://rumble.com/v72bje4-251127cn-hkszoszok-kubnyi-tams-ktv.html)  [https://archive.ph/2IpKQ](https://archive.ph/2IpKQ)
+[251124CN! KINIZSI PÁL](https://rumble.com/v7272cu-251124cn-kinizsi-pl-kubnyi-tams-ktv.html)  [https://archive.ph/cpqps](https://archive.ph/cpqps)
 [251121CN! ÉG és FÖLD](https://rumble.com/v7223au-251121cn-g-s-fld-kubnyi-tams-ktv.html)  [https://archive.ph/sUke1](https://archive.ph/sUke1)
 [251120CN! SZENT ERZSÉBET](https://rumble.com/v720diu-251120cn-szent-erzsbet-kubnyi-tams-ktv.html)  [https://archive.ph/tYnq8](https://archive.ph/tYnq8)
 
 ---
 
-[251119CN FARKASOK - 4. rész](https://rumble.com/v71yp06-251119cn-farkasok-4.-rsz-kubnyi-tams-ktv.html)  [https://archive.ph/N63T5](https://archive.ph/N63T5)
+[251126CN! FARKASOK - 6. rész](https://rumble.com/v72a2fk-251126cn-farkasok-6.-rsz-kubnyi-tams-ktv.html)  [https://archive.ph/99y28](https://archive.ph/99y28)
+[251125CN! FARKASOK - 5. rész](https://rumble.com/v728lwm-251125cn-farkasok-5.-rsz-kubnyi-tams-ktv.html)  [https://archive.ph/4PRta](https://archive.ph/4PRta)
+[251119CN! FARKASOK - 4. rész](https://rumble.com/v71yp06-251119cn-farkasok-4.-rsz-kubnyi-tams-ktv.html)  [https://archive.ph/N63T5](https://archive.ph/N63T5)
 [251118CN! FARKASOK - 3. rész](https://rumble.com/v71woza-251118cn-farkasok-3.-rsz-kubnyi-tams-ktv.html)  [https://archive.ph/Oal9Z](https://archive.ph/Oal9Z)
 [251117CN! FARKASOK - 2. rész](https://rumble.com/v71uf7a-251117cn-farkasok-2.-rsz-kubnyi-tams-ktv.html)  [https://archive.ph/YXzPk](https://archive.ph/YXzPk)
 [240118 ÁKA - FARKASOK - 1. rész](https://rumble.com/v71ujew-240118-ka-farkasok-1.-rsz-kubnyi-tams.html)  [https://archive.ph/Q5Xaz](https://archive.ph/Q5Xaz)
