@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-11-28T21:21"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-11-29T00:13"}
 ---
 
 
@@ -19,6 +19,7 @@
 
 **Videók archivált összefoglalókkal**:  
 
+[251128CN! MÁTYÁS HALÁLA](https://rumble.com/v72cxda-251128cn-mtys-halla-kubnyi-tams-ktv.html)  [https://archive.ph/r0VOI](https://archive.ph/r0VOI)
 [251127CN! HÜKSZOSZOK](https://rumble.com/v72bje4-251127cn-hkszoszok-kubnyi-tams-ktv.html)  [https://archive.ph/2IpKQ](https://archive.ph/2IpKQ)
 [251124CN! KINIZSI PÁL](https://rumble.com/v7272cu-251124cn-kinizsi-pl-kubnyi-tams-ktv.html)  [https://archive.ph/cpqps](https://archive.ph/cpqps)
 [251121CN! ÉG és FÖLD](https://rumble.com/v7223au-251121cn-g-s-fld-kubnyi-tams-ktv.html)  [https://archive.ph/sUke1](https://archive.ph/sUke1)
