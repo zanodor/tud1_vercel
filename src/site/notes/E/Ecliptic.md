@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ecliptic/","title":"Ecliptic","tags":["Englishtexttranslated"],"created":"2023-11-17T06:56","updated":"2025-09-24T13:49"}
+{"dg-publish":true,"permalink":"/E/Ecliptic/","title":"Ecliptic","tags":["Englishtexttranslated"],"created":"2023-11-17T06:56","updated":"2025-12-01T02:27"}
 ---
 
 
@@ -86,8 +86,10 @@ Az Analemma-görbe a nap éves járása, de nyilván nem csillagászati, hanem f
 
 ## Ekliptika etimológiai vizsgálata
 
-Ami az etimológiai vizsgálatot illeti, ekliptik lehetne ég(i)-lépték, mely ellentmond [[E/Eclipse\|eclipse]] szó hivatalos etimológiájával. Már maga a két szó is különbözőt jelent, hiszen ecliptic nem tekinthető eclipse melléknévi alakjának. Ha kihagyásnak, fogyatkozásnak fordítják `ekleipsis`-t, ugyanezen szó hogy jelentheti a Nap látszólagos mozgását is egyúttal?  
+  
 Baktay Ervin A csillagfejtés könyvében írja, hogy az `eklipszisz` görögül fogyatkozást jelent, s ebből a szóból ered a nappálya körének, az ekliptikának elnevezése is, minthogy a Nap- és Holdfogyatkozások csak ezen a körön következhetnek be.  
+
+Nem kell magyarításával foglalkozni, mert belső fejlődésű szónak tűnik.  
 
 ## Tejút és az ekliptika
 
