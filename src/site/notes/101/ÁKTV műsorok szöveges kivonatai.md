@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-11-29T00:13"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-12-06T18:22"}
 ---
 
 
@@ -19,6 +19,11 @@
 
 **Videók archivált összefoglalókkal**:  
 
+[251205CN! VILÁGHARMÓNIA](https://rumble.com/v72nana-251205cn-vilgharmnia-kubnyi-tams-ktv.html)  [https://archive.ph/QwWdK](https://archive.ph/QwWdK)
+[251204CN! AKASSZUK FEL!](https://rumble.com/v72lvic-251204cn-akasszuk-fel-kubnyi-tams-ktv.html)  [https://archive.ph/BV1BT](https://archive.ph/BV1BT)
+[251203CN! JUHÁSZ FERENC](https://rumble.com/v72k6ni-251203cn-juhsz-ferenc-kubnyi-tams-ktv.html)  [https://archive.ph/bvzRR](https://archive.ph/bvzRR)
+[251202CN! FÉNYHOZÓ NAP](https://rumble.com/v72ilwq-251202cn-fnyhoz-nap-kubnyi-tams-ktv.html)  [https://archive.ph/wjCHo](https://archive.ph/wjCHo)
+[251201CN! ADVENTI ÜZENET](https://rumble.com/v72h2ti-251201cn-adventi-zenet-kubnyi-tams-ktv.html)  [https://archive.ph/sr1w0](https://archive.ph/sr1w0)
 [251128CN! MÁTYÁS HALÁLA](https://rumble.com/v72cxda-251128cn-mtys-halla-kubnyi-tams-ktv.html)  [https://archive.ph/r0VOI](https://archive.ph/r0VOI)
 [251127CN! HÜKSZOSZOK](https://rumble.com/v72bje4-251127cn-hkszoszok-kubnyi-tams-ktv.html)  [https://archive.ph/2IpKQ](https://archive.ph/2IpKQ)
 [251124CN! KINIZSI PÁL](https://rumble.com/v7272cu-251124cn-kinizsi-pl-kubnyi-tams-ktv.html)  [https://archive.ph/cpqps](https://archive.ph/cpqps)
