@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Latin/","title":"Latin","tags":["Englishtexttranslated"],"created":"2024-05-07T21:44","updated":"2025-05-03T11:04"}
+{"dg-publish":true,"permalink":"/L/Latin/","title":"Latin","tags":["Englishtexttranslated"],"created":"2024-05-07T21:44","updated":"2025-12-06T18:21"}
 ---
 
 
@@ -17,3 +17,5 @@ Az alábbi Szergej Tokarevtől származó adat szerint a latin ugyanúgy lehetet
 A Lat-En felbontása azért lehet megfontolandó, mert Latium régi közép-nyugati régió neve volt Itáliában és mai Lazio neve is a Lat, Láz fogalmakat látszik takarni. Ettől még La-Tin helyesebbnek tűnik.  
 
 Újragondolva Latin szerintem [[L/Lady\|Lady]]/[[L/Latona\|Latona]] eredetű, akár Latium-on ([[E/Éden\|Éden]]hez hasonló, "égi terület földön") keresztül.  
+
+Az kevésbé valószínű, hogy mondjuk [[I/Itália\|Itália]] nevének Ital részének megfordításából jött volna létre.  
