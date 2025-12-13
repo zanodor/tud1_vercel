@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cet csillagkép/","title":"Cet csillagkép","created":"2023-10-23T02:27","updated":"2024-10-25T16:17"}
+{"dg-publish":true,"permalink":"/C/Cet csillagkép/","title":"Cet csillagkép","created":"2023-10-23T02:27","updated":"2025-12-13T22:07"}
 ---
 
 
