@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szatem/","title":"Szatem","created":"2024-11-05T19:17","updated":"2025-10-31T01:50"}
+{"dg-publish":true,"permalink":"/S/Szatem/","title":"Szatem","created":"2024-11-05T19:17","updated":"2025-12-13T22:07"}
 ---
 
 
@@ -61,8 +61,9 @@ A Kabar, Kovár a Kentum hangzás alapján kimondott nevek, amelyek *keleties* S
 [[K/Khamor\|Khamor]] címnél is szó volt a [[S/Szamár\|szamár]] nevei kapcsán arról, hogy ami az arabban és héberben h-előhangos, az nálunk és az olaszban sz-előhangos. Hasonlóan a [[S/Savant\|savant]] címnél említett arab `khabar` = (meg)ismer, (meg)tud szónak szatem változatának is tarthatjuk a francia `savoir` és a spanyol `saber` = ismer, tud szavakat.  
 A svéd nyelvben a szóeleji (csak a szóeleji?) K helyett (nyilván nem mindegy, milyen magánhangzók állnak ott) S hangot ejtenek. Például Kallman név Selman, vagy a kangaroo s-sel ejtett szintén.  
 [[K/Követ\|Követ]] címnél szláv és török K-N illetve SZ-N vázú szavakat rokonítottunk egymással.  
-Azt a [[S/SZAT\|szat]]/[[S/SZET\|SZET]] nevek kapcsán és [[C/Cet csillagkép\|Cet csillagkép]] neve kapcsán is felhoztuk, hogy egyes fontos nevek k- és sz-előhangosan is megjelenhetnek.  
+Azt a [[S/SZAT\|szat]]/[[S/SZET\|szet]] nevek kapcsán és [[C/Cet csillagkép\|Cet csillagkép]] neve kapcsán is felhoztuk, hogy egyes fontos nevek k- és sz-előhangosan is megjelenhetnek.  
 De ha már Szat/Szet, [[S/Szít#Szít, süt, söt(ét)\|szít, süt, söt(ét)]] cím/alcímnél is írtuk, hogy a Süt/Szít/Sut/Söt/Set tulajdonképpen a szatemes változata a [[K/Kut\|kut]] és társainak.  
+Ugyanígy [[S/Szunnyad\|szunnyad]] és [[H/Huny\|huny]] (koreai `kkum` és görög `kōma`) egymás párjai.  
 Az, hogy a szatem keleties, lehet, hogy igaz, de legutóbb [[C/Csuda\|csuda]] címnél kifejtettük, hogy a magyar nyelv magában hordozza a lehetőséget arra, hogy egyes kemény hangzói (mint a K) meglehessen s, sz, cs formában is, némi jelentésmódosulattal is. Így a Magyar Adorján által taglalt régi \*csod vagy \*csud = süt, fény keményebb, eredetibb párja lehet [[K/Kut\|kut]], csudának pedig kutya, de eredeti a [[S/Süt\|süt]] is (hisz ez [[T/Tűz\|tűz]] szavunk megfordítva), valamint [[H/HUD\|HUD]], [[G/GUD\|GUD]] formák is léteznek ilyen fény jelentéssel.  
 
 [[C/Concussion\|Concussion]] címnél is szerepeltek az alábbiak:  
