@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-12-06T18:27"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-12-13T22:07"}
 ---
 
 
@@ -19,6 +19,11 @@
 
 **Videók archivált összefoglalókkal**:  
 
+[251212CN! TILTOTT TÉMÁK](https://rumble.com/v72xya0-251212cn-tiltott-tmk-kubnyi-tams-ktv.html)  [https://archive.ph/N9uNQ](https://archive.ph/N9uNQ)
+[251211CN! FANARIÓTÁK](https://rumble.com/v72wb4i-251211cn-fanaritk-kubnyi-tams-ktv.html)  [https://archive.ph/gU9M8](https://archive.ph/gU9M8)
+[251210CN! PALLAVICINI ANTAL](https://rumble.com/v72uu76-251210cn-pallavicini-antal-kubnyi-tams-ktv.html)  [https://archive.ph/lHeeN](https://archive.ph/lHeeN)
+[251209CN! ERŐ SZAK](https://rumble.com/v72t902-251209cn-er-szak-kubnyi-tams-ktv.html)  [https://archive.ph/taJOA](https://archive.ph/taJOA)
+[251208CN! ISTENISMERET](https://rumble.com/v72rni8-251208cn-istenismeret-kubnyi-tams-ktv.html)  [https://archive.ph/l9kFn](https://archive.ph/l9kFn)
 [251205CN! VILÁGHARMÓNIA](https://rumble.com/v72nana-251205cn-vilgharmnia-kubnyi-tams-ktv.html)  [https://archive.ph/QwWdK](https://archive.ph/QwWdK)
 [251204CN! AKASSZUK FEL!](https://rumble.com/v72lvic-251204cn-akasszuk-fel-kubnyi-tams-ktv.html)  [https://archive.ph/BV1BT](https://archive.ph/BV1BT)
 [251203CN! JUHÁSZ FERENC](https://rumble.com/v72k6ni-251203cn-juhsz-ferenc-kubnyi-tams-ktv.html)  [https://archive.ph/bvzRR](https://archive.ph/bvzRR)
