@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Köldök/","title":"Köldök","tags":["containstransclusions"],"created":"2025-03-05T03:15","updated":"2025-11-19T01:42"}
+{"dg-publish":true,"permalink":"/K/Köldök/","title":"Köldök","tags":["containstransclusions","containscallouts"],"created":"2025-03-05T03:15","updated":"2025-12-20T12:16"}
 ---
 
 
