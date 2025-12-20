@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-14T04:19","updated":"2025-09-28T21:23"}
+{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-14T04:19","updated":"2025-12-20T11:22"}
 ---
 
 
 # Halak csillagkép
 
 A bölcsek szerint az életben egy biztos, a halál. Viszont az is biztosnak látszik, a csillagászati/asztrológiai kis éves és precessziós [[N/Nagy Év\|Nagy Év]]es évkört tekintve, hogy a Halak jeltartomány (ami igaz, nem egyezik a Halak csillagképpel is, de mégis ide kell ezt tenni) az évkör utolsó fázisa (hiszen a Halak – Halál): akár a Kosból indulok a kis éves évkörön, vagy a precessziós fényminimumból a Halak utáni Vízöntőből ellentétes irányba, a Halak az utolsó állomás[^1].  
-![assets/Halakcsillagkep_image1.png|fix_light|840](/img/user/H/assets/Halakcsillagkep_image1.png)  
+![assets/Halakcsillagkep_image1.png|invert_light|840](/img/user/H/assets/Halakcsillagkep_image1.png)  
 
 #### Paksi Zoltán írja:  
 
@@ -140,10 +140,10 @@ As we shall see in chapter 16, this complication derives from using the equinox 
 Amint azt a 16. fejezetben látni fogjuk, ez a bonyodalom abból adódik, hogy az egyes állatövi korszakok jelölésére a napéjegyenlőséget és nem a napfordulót használják; így a fontos napfordulós utalás valójában három jegyre van. Más szóval azt mondhatnánk, hogy "a Vízöntő napéjegyenlőségi kora" egyenértékű a "Skorpió napfordulós korával". Mivel a Halak az állatöv tizenkettedik és egyben utolsó jegye, a Halak korának vége – ahol most vagyunk – egy teljes 26000 éves precessziós ciklus, vagy védikus kifejezéssel manvantara végét jelzi.  
 
 [^2]: Lábjegyzet:  
-[[T/Tavaszi évkezdés\|Tavaszi évkezdés]] címnél írottak alapján is logikus, illetve nyilván más a Kis Év és a Nagy Év, bár az is tény, hogy régen a [[T/Téli napforduló\|téli napforduló]] után kezdődött az újév. Azt kellene valahogy megtudni, vagy eldönteni, hogy egyrészt mennyire lehet Magyar Adorjánnak igaza arról, hogy a tavaszi évkezdés hyperboreai hagyomány (abból az időből származik, amikor a magyarok az északi sarkkörön éltek, vagyis amikor a Kárpát-medence volt az északi sarkon), másrészt hogy a magyar-maya felfogás szerint hogyan álltak a dolgok.  
+[[T/Tavaszi évkezdés\|Tavaszi évkezdés]] címnél írottak alapján is logikus, illetve nyilván más a Kis Év és a Nagy Év, bár az is tény, hogy régen a [[T/Téli napforduló\|téli napforduló]] után kezdődött az újév. Azt kellene valahogy megtudni, vagy eldönteni, hogy egyrészt mennyire lehet Magyar Adorjánnak igaza arról, hogy a tavaszi évkezdés hyperboreai hagyomány (abból az időből származik, amikor a magyarok az északi sarkkörön éltek, vagyis amikor a Kárpát-medence volt az északi sarkon), másrészt hogy a magyar-maja felfogás szerint hogyan álltak a dolgok.  
 
 [^3]: Lábjegyzet:  
-Wallis Budge An Egyptian Hieroglyphic Dictionary című könyvében nem sikerült ugyan megtalálni ilyen jelentéssel, de hasonló szavakat igen. Például a 7. oldalon `ah`, `aha` = tehén, tehénistennő utalhat az ég tehenén keresztül az égre ([[A/AG\|AG]] is az ég párja, ahogy [[A/Akar\|akar]] és [[A/Aquatic\|aquatic]] címnél Budge féle adatokkal is láttuk), míg a 8. oldalon `akhakh` = menny virágai (csillagok) is az égre, a csillagos égre utal. Massey nem tudom honnan vette adatát, de nagyon jónak tűnik. Minél több több információ áll rendelkezésünkre, annál könnyebben ki lehet következtetni a magyar ősnyelv kiinduló szavát és az elhajló vagy mindet átfogó jelentéseket. Ott van még például a Budge által megadott, [[A/Akar\|akar]] címnél is taglalt egyiptomi `ag` = akar; hiányt szenved jelentésű ige. Az [[E/Éva\|Éva]] név kapcsán előjövő [[E/Éh\|éh]] az éhom szóban is ilyen alakú, mely rámutat, hogy a közös kiinduló az [[E/Ég\|ég]]istennő.  
+Wallis Budge An Egyptian Hieroglyphic Dictionary című könyvében nem sikerült ugyan megtalálni ilyen jelentéssel, de hasonló szavakat igen. Például a 7. oldalon `ah`, `aha` = tehén, tehénistennő utalhat az – [[O/Ökör\|ökör]] szón keresztül akár – ég tehenén keresztül az égre ([[A/AG\|AG]] is az ég párja, ahogy [[A/Akar\|akar]] és [[A/Aquatic\|aquatic]] címnél Budge féle adatokkal is láttuk), míg a 8. oldalon `akhakh` = menny virágai (csillagok) is az égre, a csillagos égre utal. Massey nem tudom honnan vette adatát, de nagyon jónak tűnik. Minél több több információ áll rendelkezésünkre, annál könnyebben ki lehet következtetni a magyar ősnyelv kiinduló szavát és az elhajló vagy mindet átfogó jelentéseket. Ott van még például a Budge által megadott, [[A/Akar\|akar]] címnél is taglalt egyiptomi `ag` = akar; hiányt szenved jelentésű ige. Az [[E/Éva\|Éva]] név kapcsán előjövő [[E/Éh\|éh]] az éhom szóban is ilyen alakú, mely rámutat, hogy a közös kiinduló az [[E/Ég\|ég]]istennő.  
 
 [^4]: Lábjegyzet:  
 Kisboldogasszony a magyar hagyományban Nagyboldogasszony szűz leánya, más néven Kisasszony. (Emiatt nem lehet azonos Szűz Máriával.) A néphitben idővel a Kisasszony és a Boldogasszony szerepe összefonódott, a Kisboldogasszony helyett.  
