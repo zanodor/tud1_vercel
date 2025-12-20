@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-12-13T22:07"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-12-20T11:20"}
 ---
 
 
@@ -19,6 +19,13 @@
 
 **Videók archivált összefoglalókkal**:  
 
+**2025 és a korábbiak:**
+
+[251219CN! ÁLDOTT KARÁCSONYT!](https://rumble.com/v738dvi-251219cn-ldott-karcsonyt-kubnyi-tams-ktv.html)  [https://archive.ph/LsgCb](https://archive.ph/LsgCb)
+[251218CN! A HEGYI ÖREG](https://rumble.com/v736u5g-251218cn-a-hegyi-reg-kubnyi-tams-ktv.html)  [https://archive.ph/RoreB](https://archive.ph/RoreB)
+[251217CN! KÁNA](https://rumble.com/v7359jc-251217cn-kna-kubnyi-tams-ktv.html)  [https://archive.ph/FuEkH](https://archive.ph/FuEkH)
+[251216N! RONTÁS ELLEN](https://rumble.com/v733puo-251216n-ronts-ellen-kubnyi-tams-ktv.html)  [https://archive.ph/aHTlV](https://archive.ph/aHTlV)
+[251215CN! LUCA](https://rumble.com/v7326p6-251215cn-luca-kubnyi-tams-ktv.html)  [https://archive.ph/Vhm6L](https://archive.ph/Vhm6L)
 [251212CN! TILTOTT TÉMÁK](https://rumble.com/v72xya0-251212cn-tiltott-tmk-kubnyi-tams-ktv.html)  [https://archive.ph/N9uNQ](https://archive.ph/N9uNQ)
 [251211CN! FANARIÓTÁK](https://rumble.com/v72wb4i-251211cn-fanaritk-kubnyi-tams-ktv.html)  [https://archive.ph/gU9M8](https://archive.ph/gU9M8)
 [251210CN! PALLAVICINI ANTAL](https://rumble.com/v72uu76-251210cn-pallavicini-antal-kubnyi-tams-ktv.html)  [https://archive.ph/lHeeN](https://archive.ph/lHeeN)
