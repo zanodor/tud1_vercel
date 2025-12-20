@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csöcs/","title":"Csöcs","tags":["titleandheadingonedontmatch"],"created":"2023-11-21T02:37","updated":"2024-11-07T01:01"}
+{"dg-publish":true,"permalink":"/C/Csöcs/","title":"Csöcs","tags":["titleandheadingonedontmatch"],"created":"2023-11-21T02:37","updated":"2025-12-20T12:16"}
 ---
 
 
