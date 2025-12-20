@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cél/","title":"Cél","tags":["Englishtexttranslated"],"created":"2025-11-20T22:21","updated":"2025-11-20T22:22"}
+{"dg-publish":true,"permalink":"/C/Cél/","title":"Cél","tags":["Englishtexttranslated","containscallouts"],"created":"2025-11-20T22:21","updated":"2025-12-20T12:16"}
 ---
 
 
