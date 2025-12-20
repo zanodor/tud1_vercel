@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ég/","title":"Ég","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-10-18T17:53","updated":"2025-11-16T01:30"}
+{"dg-publish":true,"permalink":"/E/Ég/","title":"Ég","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-10-18T17:53","updated":"2025-12-20T11:22"}
 ---
 
 
@@ -100,7 +100,7 @@ Ha már Egyiptomban járunk, ...
 { #rh6-d}
 
 
-Wallis Budge An Egyptian Hieroglyphic Dictionary című könyvében nem sikerült ugyan megtalálni ilyen jelentéssel, de hasonló szavakat igen. Például a 7. oldalon az imént [[H/Hathor\|Hathor]] kapcsán említett `ah`, `aha` = tehén, tehénistennő utalhat az ég tehenén keresztül az égre ([[A/AG\|AG]] is az ég párja, ahogy [[A/Akar\|akar]] és [[A/Aquatic\|aquatic]] címnél Budge féle adatokkal is láttuk), míg a 8. oldalon `akhakh` = menny virágai (csillagok) is az égre, a csillagos égre utal. Massey nem tudom honnan vette adatát, de jónak tűnik. Minél több több információ áll rendelkezésünkre, annál könnyebben ki lehet következtetni a magyar ősnyelv kiinduló szavát és az elhajló vagy mindet átfogó jelentéseket. Ott van még például a Budge által megadott, [[A/Akar\|akar]] címnél is taglalt egyiptomi `ag` = akar; hiányt szenved jelentésű ige. Az [[E/Éva\|Éva]] név kapcsán előjövő [[E/Éh\|éh]] az éha/éhom szókban is ilyen alakú, mely rámutat, hogy a közös kiinduló az ég(istennő).  
+Wallis Budge An Egyptian Hieroglyphic Dictionary című könyvében nem sikerült ugyan megtalálni ilyen jelentéssel, de hasonló szavakat igen. Például a 7. oldalon az imént [[H/Hathor\|Hathor]] kapcsán említett `ah`, `aha` = tehén, tehénistennő utalhat az – [[O/Ökör\|ökör]] szón keresztül akár – ég tehenén keresztül az égre ([[A/AG\|AG]] is az ég párja, ahogy [[A/Akar\|akar]] és [[A/Aquatic\|aquatic]] címnél Budge féle adatokkal is láttuk), míg a 8. oldalon `akhakh` = menny virágai (csillagok) is az égre, a csillagos égre utal. Massey nem tudom honnan vette adatát, de jónak tűnik. Minél több több információ áll rendelkezésünkre, annál könnyebben ki lehet következtetni a magyar ősnyelv kiinduló szavát és az elhajló vagy mindet átfogó jelentéseket. Ott van még például a Budge által megadott, [[A/Akar\|akar]] címnél is taglalt egyiptomi `ag` = akar; hiányt szenved jelentésű ige. Az [[E/Éva\|Éva]] név kapcsán előjövő [[E/Éh\|éh]] az éha/éhom szókban is ilyen alakú, mely rámutat, hogy a közös kiinduló az ég(istennő).  
 
 A Greg Rigby The God Secret című könyvének 97. oldalán idézett J. Norman Lockyer The Dawn of Astronomy, a study of the temple-worship and mythology of the ancient Egyptians című könyvének 200.oldalán talált `āk` medvével való kapcsolatba hozatala pedig azért érdekes, mert az udmurt és komi `oh` = medve szintén:
 > (In relation to the alignment of the great Temple of Hathor at Denderah, he quotes the temple hieroglyphic inscriptions:)  
@@ -238,7 +238,7 @@ Onnan továbbmenve [ezen](https://en.wiktionary.org/wiki/%E0%A4%85%E0%A4%B9%E0%A
 
 Ég szavunk megjelenni látszik az örmény `eġǰeru` = szarvas, `eġnik` = őz nevekben (bár az örmény ġ lehet olyan csendes g/h, mint a török ğ; mindegy lenne, mert a Szarvas az éji ég jelképállata).  
 
-A Wallis Budge An Egyptian Hieroglyphic Dictionary című könyvében a 7. oldalán hozott óegyiptomi `ah`, `aha` = tehén, tehénistennő utalhat az ég tehenén keresztül az égre ([[A/AG\|AG]] = Ég).  
+A Wallis Budge An Egyptian Hieroglyphic Dictionary című könyvében a 7. oldalán hozott óegyiptomi `ah`, `aha` = tehén, tehénistennő utalhat az ég tehenén keresztül az égre ([[A/AG\|AG]] = Ég), de lehetne [[O/Ökör\|ökör]] szavunk előrészével is azonosítható.  
 ![Ég_image20250417144726792.jpeg|fix_dark fix_light|300](/img/user/E/assets/%C3%89g_image20250417144726792.jpeg)
 Az Ég Tehene kapcsán lásd Jankovics Marcell írását ([[H/Hathor\|Hathor]] istennőt, az Ég Tehenét az egész égbolt megtestesüléseként tiszteltét Egyiptomban; keress még rá Jelkép-kalendárium című könyvének Szent Ágotáról szóló részében):  
 > Ízisz ilyenkor [[H/Hathor\|Hathor]]rá válik, az "Ég Tehenévé".  
