@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ajtó/","title":"Ajtó","created":"2023-10-21T03:07","updated":"2025-06-07T18:46"}
+{"dg-publish":true,"permalink":"/A/Ajtó/","title":"Ajtó","created":"2023-10-21T03:07","updated":"2025-12-20T11:22"}
 ---
 
 
@@ -42,4 +42,4 @@ A mai értelemben használva viszont, jelentősége meghaladja a kapuét, hiszen
 
 ## Ajtó – hajtó
 
-A hajtókutyának mondott kopót és agarat is az égen is megtaláljuk és téridőbeli helye az égi kapunak megfelel. Az ajtó átjáró is, de a liminális/határmenti [[P/Psychopomp\|psychopomp]] kutya szintén átjár, ahogy [[H/Héber\|héber]] címnél sémi igék kapcsán is szóltunk erről.  
+A hajtókutyának mondott kopót és agarat az égen is megtaláljuk és téridőbeli helye az égi kapunak megfelel. Az ajtó átjáró is, de a liminális/határmenti [[P/Psychopomp\|pszükhopomposz]] kutya szintén átjár, ahogy [[H/Héber\|héber]] címnél sémi igék kapcsán is szóltunk erről.  
