@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2025-11-10T21:32"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2026-01-01T17:05"}
 ---
 
 
@@ -141,14 +141,68 @@ De éppen [[B/Bal és jobb\|bal és jobb]] címnél szerepelt ...
 
 #### Pap Gábor...
 
-...alábbi passzusa is (a 2006. augusztus 7-11-ig tartott XI. Magyar Őskutatási Fórumról az Ősi Gyökér 2006/3. számában számolnak be; e cikkben szerepel Pap Gábor előadásának összefoglalója (teljességében lásd [[T/Tudomány\|tudomány]] címnél); onnan való):  
+...alábbi passzusa is (a 2006. augusztus 7-11-ig tartott XI. Magyar Őskutatási Fórumról az Ősi Gyökér 2006/3. számában számolnak be; e cikkben szerepel Pap Gábor előadásának összefoglalója; teljességében lásd [[T/Tudomány\|tudomány]] címnél, onnan való):  
 > A két agyféltekénk működésével világította meg az ember különleges képességét, mely szerint nemcsak a realitások regisztrálására vagyunk képesek (bal agyfélteke), hanem az érzékelhető világon túli rezgések, jelek, képek, üzenetek és ismeretek felfogására is (jobb agyfélteke). Ha csak az egyik oldalt, a kézenfekvőt, az evilágit szolgáljuk, elveszítjük a lelki, szellemi szabadságunkat, a független gondolkodásmódunkat, s a tudományosság nagyképűségével leplezett szolgai állapotba süllyedünk. Ez az út vezette az akadémiát a magyartalanítás vonalára. Ez a magyartalanító módszer nem szemtől szembenállva működik, hanem lóugrásszerűen. A hazugság ellentéte ugyanis nem az igazság, hanem egy ellentétes tartalmú hazugság.  
 
 Ahogy Pap Gábor mondja több előadásában: beöltöztetnek minket két tábort képviselően két színbe és megvárják, amíg lövünk egymásra (kér minket: "ne lőjünk egymásra!").  
 
-A bilaterális technika már többször szóba került. [[F/Finnugor nyelvelmélet\|Finnugor nyelvelmélet]] címnél is, hogy "választhatsz a szamojéd/mansi vagy török eredet között." Vagy amikor egy (talán Christopher Hutton Linguistics and the Third Reich – Mother Tongue Fascism, Race and the Science of Language című) könyvben nyelvészeti alapon lefektetik, hogy a világegyetem vagy indogermán, vagy zsidó, de legalábbis ezen két félből állhat. A politikai választhatsz bal és jobb oldalból témáról volt szó.  
+A bilaterális technika már többször szóba került. [[F/Finnugor nyelvelmélet\|Finnugor nyelvelmélet]] címnél is, a kapcsán, hogy "választhatsz a szamojéd/manysi vagy török eredet között." Vagy amikor egy (talán Christopher Hutton Linguistics and the Third Reich – Mother Tongue Fascism, Race and the Science of Language című) könyvben nyelvészeti alapon lefektetik, hogy a világegyetem vagy indogermán, vagy zsidó, de legalábbis ezen két félből állhat. A politikai választhatsz bal és jobb oldalból témáról volt szó.  
 Itt még csak a tudományos/vizsgálati vonal kapcsán arról, hogy hogyan járnak el.  
 A vita kereszttüzébe állítanak két elméletet és csak ezen két tábor szólhat bele! ezzel meghatározzák a vita lényegét képző problémát és annak vizsgálati szabályait (hasonló eset a sportban: birkózók szőnyegen, táncosok parketten, strandröplabdások homokban, stb.). Onnantól kezdve mindenki mást kirekesztenek. Az **igazság kirekesztésének módszere** ez. A red herring féle félrevezetésről lentebb lesz szó.  
+
+### Happening: megtervezett színjáték - mindkét oldalon az ő embereik képviselik magukat
+
+[[B/Bal és jobb\|Bal és jobb]] címnél és másutt is volt szó arról, hogy mindkét oldalt ugyanaz az irányelveket valló erő képviselteti magát és csak látszólagos a szembenállás.  
+
+A **megtervezett színjáték**ban ugyanazok szervezik a különböző, emberiségre, a társadalomra káros ideológiákra épülő szervezeteket, rendezvényeket és az ellenoldalba beépülve, vagy élére állva a másik oldalt is ők szervezik le vagy pénzelik; a rendezvényeken megjelenő tüntetők kis száma pedig majd a hírekben megjelenve azt jelenti: minden rendben van, nem sokan ellenzik például a buzi-propagandát vagy a gyermekek megrontására irányuló ténykedéseiket, akkor mehet, ez az irányelv elfogadott. Holott valójában ez ellenzők száma nagy, csak nem képviselik magukat. Erről [ezen](https://youtu.be/3PEyB7p_cAk) ÁKTV műsorban volt szó, amikor Kubínyi Tamás válaszol kb. 1:43:00-nál Máriának: ő **happening**-nek nevezi: mindkét oldalt ugyanaz szervezi.  
+
+A sztárokat (színészek, sportolók, zenészek, valóságshow-szereplők) semmi másért nem tartják, mint azért, hogy közvetítsék a háttérhatalom akaratát. Valahol ebben a műsorban arról is beszél Kubínyi Tamás, hogy a sztárokat hogyan használják fel céljaikra. Például a pop-rock és hippie kultúrát ötvöző, New Age-ista köntösben előadott Hair zsidó musical szereplői nem is tudhatták, hogy ez a kör az [[V/Vízöntő korszak\|Vízöntő korszak]]kal elkövetkező Új Világgal ("Aranykor" – egy frászt) mit is tervez. De Madonna Eurovíziós dalfesztiválon való fellépését (gázálarcos táncos show azzal az üzenettel, hogy "Nem mindenki jön velünk a jövőbe") se felejtsük el.  
+A sztárok közé tartoznak az internetes/instagramos "influencer"-ek, melyek nevében is benne van a befolyásolás.  
+
+### Kontrollált/Kitalált ellenzék: Hamász mint példa
+
+A Hamász nevű szervezet legalábbis mai formájában (az eredeti "kődobálós" militáns csoportot már rég felszámolták) valójában Izrael által irányított vagy létrehozott kontrollált ellenzék, amelynek célja Izrael tetteinek igazolása és a palesztin nép elleni népirtás leplezése. Ez a taktika, miszerint az ellenfél hozza létre vagy tartja fenn a "másik oldalt" a saját céljai érdekében, jól illeszkedik a megtévesztés és a színjáték témakörébe. Az ISIS példája is hasonló, ahol az elkövetőket gyakran maguk az elkövetők hozzák létre.  
+
+
+
+## Titkosszolgálati előkészítés és leleplezés
+
+Hasonló megrendezett akció, amikor az átlag összeesküvés elméletes színvonalára visznek le egy témát, pl. Merkel asszony, Theresa May és von der Leyen asszony neve három fiatal lány fényképe alá bekerül, a mai képükkel és neveikkel alá vágva, arra utalva, hogy őket már fiatalon beszervezték (Rothschildok), de aztán egy pár év múlva jön a nagy leleplezés, amiben elmondják, hogy csak Merkel van a képen és a másik kettő valami születésnapi zsúr résztvevői, akik jelentéktelenek.  
+Tehát a titkosszolgálatok saját kezűleg vagy megrendelésre létrehoz(at)nak olyan, a pl. nemzeti érzelmű emberek körében elterjesztett áltanokat, majd várnak néhány évet, mert ennyi idő alatt bőven bejárják az internet blogjait, vlogjait, hogy aztán lerántsák a leplet: sosem létezett ilyen-olyan nevű japán történész, ahogy pl. [[T/Történelemhamisítás#^9toygg\|történelemhamisítás]] helyen erről beszámoltunk. A gyanútlan olvasó pedig kiábrándul abból, hogy a nemzeti oldalon ennyi a kókler meg hazudozó.  
+
+Lehetséges, hogy David Icke is beszervezett, vagy legalábbis nem veszik komolyan, mert több valótlant (hüllőemberek) állít, mint igazat és amúgy is kevés a támogatottsága globális szinten. [[F/Fomenko, Anatolij\|Anatolij Fomenko]] ténykedése kapcsán ilyenről nincs szó, inkább KGB-s akcióra gondolnak, de az [[I/Iszfaháni kódex\|Iszfaháni kódex]], [[B/Bowring, John\|John Bowring]] és más témák kapcsán felvetődött, hogy ezek is kamu témák vagy egyes részek a történetben manipulatív betoldások.  
+
+## A hegeli dialektika "tézis, antitézis, szintézis"-e nyomán "probléma-reakció-megoldás"
+
+Az elmélet legismertebb népszerűsítője **David Icke**, de nem kell Icke-nak lenni, hogy belássuk, it tényleg a filozófus eredeti gondolatának átültetéséről van szó. A valódi dialektika a világ természetes fejlődését írja le: egy tézis kiváltja az ellentétét (antitézis), majd ebből kialakul egy magasabb szintű szintézis. A manipulátorok azonban ezt **mesterségesen** alkalmazzák:  
+1. **Tézis (probléma)**: Ők maguk hozzák létre a válságot (pl. gazdasági összeomlás, járvány, társadalmi feszültség). A cél az, hogy a lakosság körében félelmet, bizonytalanságot vagy haragot keltsenek.  
+2. **Antitézis (reakció)**: A tömeg a félelem hatására határozott fellépést és védelmet követel. A közvélemény azt mondja: „Valamit tenni kell!” Ebben a szakaszban a nép önként kéri a beavatkozást, akár alapvető jogok feladása árán is.  
+3. **Szintézis (megoldás)**: A hatalom előáll azzal a megoldással, a "mentő" tervükkel, amelyet már a válság kirobbantása előtt eltervezett, de amit a nép normális körülmények között soha nem fogadott volna el. Ez általában nagyobb központi hatalmat, szigorúbb ellenőrzést vagy új adókat jelent.  
+
+A jegyzetben már említett példákkal:  
+- **Covid-terror**: A vírus (probléma) → félelem (reakció) → oltás, digitális ellenőrzés (megoldás)
+- **Demokrácia**: A "szabadság" látszata (probléma) → választási láz (reakció) → globális pénzdiktatúra (megoldás)
+- **Rendszerváltás**: Kommunizmus (probléma) → rendszerváltási láz (reakció) → ugyanazok vagy leszármazottaik más néven (álruhában) megmaradnak (megoldás)
+
+A lényeg: a probléma és a megoldás is ugyanattól a háttérerőtől származik, a nép pedig csak reagál, azt hiszi, hogy ő dönt, de valójában a manipulátorok által előre megírt forgatókönyv szerint játszódik le minden. Ez a **"probléma-reakció-megoldás"** lényege.  
+
+## Figyelemelterelés – red herring
+
+A Kubínyi Tamás egyik műsorában bejátszott Dr. Bardócz Zsuzsanna biokémikus által bemutatott, angolul *red herring*-nek nevezett módszer a terelés, azaz figyelemelterelés módszere. Ha van valami komoly problémánk vagy egy nagyon jó megoldásunk, amiről nem akarják, hogy az emberek tudjanak és beszéljenek, akkor bevezetnek egy álproblémát, vagy egy kisebb jelentőségű problémát, és egy álmegoldást, vagy csak egy részmegoldást ajánlanak fel, és hagyják, hogy erről beszéljenek, vitatkozzanak az emberek (mondjuk leszállítani egy Bill Gates vagy Varga Judit válást egy férfi-nő szintre, vagy anyagi szintre, amikor komoly dolgok vannak a háttérben). Így aztán mindig el tudják érni a céljukat: az információ eltussolása (lásd *elhallgatás*), vagy az emberek gondolkodásmódjának megváltoztatása.  
+
+Új probléma/vizsgálati elem fókuszba állítása (arrébb csúsztatás), figyelemelterelés témájában [ezen](https://youtu.be/XPS5kTZiiZM) Ne Legyen Áldozatos Szent István király uralkodása 4. rész című videóban Pap Gábor is szól.  
+Szent István koronázási palástjáról szólva 17:00 után említi az egyik (az országalmát tartó – valójában nem tartja, az a kéz felett lebeg) kéz kapcsán, hogy az elemzők szerint mintha 6 ujja lenne egyik kezén: beültetik az emberek számára, hogy akkor az egész témában ez legyen a legfontosabb rész: hogy táltoskirály volt! Holott valójában utólag hímeztek bele (hamisították a palástot).  
+Ez a taktika: innentől kezdve már senkit nem érdekel, hogy hamisítvány, tehát hogy áthímezték, hanem "ez táltos volt, táltos király volt!" Kihúztam a problémát az eredeti medréből, és itt már csak egy másik problémán engedem, hogy a diskurzus folytatódjék; így tudják a figyelmet máshová irányítani. Itt elmondja Pap Gábor az alábbi székely viccet is illusztráció gyanánt (nála nem teljesen így szerepel, de ez most mindegy):  
+*Öreg székely és a fia üldögélnek a szobában. Egyszer a fiú iszonyat büdöset érez:  
+– Idesapám, Kend fingott?  
+– A bodri vót az!  
+A fiú szétnéz.  
+– Dehát bent sincs??  
+– Majd begyün!*  
+Adva van egy probléma. Először egy aránylag könnyen cáfolható állítást melléteszek, ő megörül, hogy cáfolni tudja (nincs bent az állat) – innen már senki nem beszél a pukkról, csak az állatról, mellyel kapcsolatban azzal zárja le, hogy majd csak begyün.  
+Elmondja, hogy ezzel etetnek (ezzel a taktikával találkozunk) nap mint nap.  
+Itt még Pap Gábor kitér (nagy vonalakban, nem egyértelműen szólva; itt már én kiegészítve adom) a Covid-járványra, hogy az eredeti kínos problémát (lehet gazdasági válság illetve túlnépesedés, stb.) elhallgatom \[lásd még *elhallgatás*\], abba a mederbe terelem a diskurzust, hogy van-e vírus, vagy nincs vírus (innentől kezdve a probléma nem is kerül az asztalra), akkor ha ez is kínossá válik, akkor tolom tovább (segít-e a vakcina), stb. Így lehet mindig egy újabb témával foglalkozni úgy, hogy már régen senki sem tudja, hogy mi is volt a legelején.  
+Azzal is ki lehet egészíteni, hogy akkor véletlenül vagy szándékosan szabadult el a vírus a wuhani laborból? Amíg ezen megy az adok-kapok, addig megfeledkeznek arról, hogy 1) Chemtrail mérgezés áldozatai 2) 5G rádiósugárzás áldozatai vagyunk (és még ezen kettőről sem tudjuk, melyik, de akár a második felerősíti az elsőt).  
 
 ## Címkézés, fedőterv, lefedés
 
@@ -193,24 +247,6 @@ Kubínyi Tamás számtalanszor elmondja (legutóbb Marosvásárhely magyar de Hi
 ...című Ősi Gyökér 2005/4. sz. megjelent cikkében hasonlóan írja:  
 > A tündérmesékben gyakori, hogy a tóban fürdőző tündér madárruháját – általában hattyú képében jelenik meg, de a fekete tóban például kiskacsa fürdik – elrabolja a leselkedő legény, és a tündér itt ragad, emberi alakban. A későbbiekben emberi ruhát kap, és beilleszkedik a család életébe.  
 > Mint tudjuk, ember az, aki úgy néz ki, mint én – azaz aki a mi kisközösségünknek megfelelő ruházatot hord, a mi viselkedési szokásainknak megfelelően viselkedik, a mi dalainkat dalolja, a mi ételeinket főzi... Közibénk való. Egy-egy faluban nemrég még három generációra visszamenőleg meg tudták mondani, kik az odavalók, és kik a gyüttek. És ez nagyon fontos megkülönböztetés volt.  
-
-## Figyelemelterelés – red herring
-
-A Kubínyi Tamás egyik műsorában bejátszott Dr. Bardócz Zsuzsanna biokémikus által bemutatott, angolul *red herring*-nek nevezett módszer a terelés, azaz figyelemelterelés módszere. Ha van valami komoly problémánk vagy egy nagyon jó megoldásunk, amiről nem akarják, hogy az emberek tudjanak és beszéljenek, akkor bevezetnek egy álproblémát, vagy egy kisebb jelentőségű problémát, és egy álmegoldást, vagy csak egy részmegoldást ajánlanak fel, és hagyják, hogy erről beszéljenek, vitatkozzanak az emberek (mondjuk leszállítani egy Bill Gates vagy Varga Judit válást egy férfi-nő anyagi szintre, amikor komoly dolgok vannak a háttérben). Így aztán mindig el tudják érni a céljukat: az információ eltussolása (lásd *elhallgatás*), vagy az emberek gondolkodásmódjának megváltoztatása.  
-
-Új probléma/vizsgálati elem fókuszba állítása (arrébb csúsztatás), figyelemelterelés témájában [ezen](https://youtu.be/XPS5kTZiiZM) Ne Legyen Áldozatos Szent István király uralkodása 4. rész című videóban Pap Gábor is szól.  
-Szent István koronázási palástjáról szólva 17:00 után említi az egyik (az országalmát tartó – valójában nem tartja, az a kéz felett lebeg) kéz kapcsán, hogy az elemzők szerint mintha 6 ujja lenne egyik kezén: beültetik az emberek számára, hogy akkor az egész témában ez legyen a legfontosabb rész: hogy táltoskirály volt! Holott valójában utólag hímeztek bele (hamisították a palástot).  
-Ez a taktika: innentől kezdve már senkit nem érdekel, hogy hamisítvány, tehát hogy áthímezték, hanem "ez táltos volt, táltos király volt!" Kihúztam a problémát az eredeti medréből, és itt már csak egy másik problémán engedem, hogy a diskurzus folytatódjék; így tudják a figyelmet máshová irányítani. Itt elmondja Pap Gábor az alábbi székely viccet is illusztráció gyanánt (nála nem teljesen így szerepel, de ez most mindegy):  
-*Öreg székely és a fia üldögélnek a szobában. Egyszer a fiú iszonyat büdöset érez:  
-– Idesapám, Kend fingott?  
-– A bodri vót az!  
-A fiú szétnéz.  
-– Dehát bent sincs??  
-– Majd begyün!*  
-Adva van egy probléma. Először egy aránylag könnyen cáfolható állítást melléteszek, ő megörül, hogy cáfolni tudja (nincs bent az állat) – innen már senki nem beszél a pukkról, csak az állatról, mellyel kapcsolatban azzal zárja le, hogy majd csak begyün.  
-Elmondja, hogy ezzel etetnek (ezzel a taktikával találkozunk) nap mint nap.  
-Itt még Pap Gábor kitér (nagy vonalakban, nem egyértelműen szólva; itt már én kiegészítve adom) a Covid-járványra, hogy az eredeti kínos problémát (lehet gazdasági válság illetve túlnépesedés, stb.) elhallgatom \[lásd még *elhallgatás*\], abba a mederbe terelem a diskurzust, hogy van-e vírus, vagy nincs vírus (innentől kezdve a probléma nem is kerül az asztalra), akkor ha ez is kínossá válik, akkor tolom tovább (segít-e a vakcina), stb. Így lehet mindig egy újabb témával foglalkozni úgy, hogy már régen senki sem tudja, hogy mi is volt a legelején.  
-Azzal is ki lehet egészíteni, hogy akkor véletlenül vagy szándékosan szabadult el a vírus a wuhani laborból? Amíg ezen megy az adok-kapok, addig megfeledkeznek arról, hogy 1) Chemtrail mérgezés áldozatai 2) 5G rádiósugárzás áldozatai vagyunk (és még ezen kettőről sem tudjuk, melyik, de akár a második felerősíti az elsőt).  
 
 ## Elhallgatás – létezést tagadás
 
@@ -311,13 +347,6 @@ Arról is kell szólni, hogy a hírhez képest a tény lenne az, amivel foglalko
 
 Ugyanazok végzik, ugyanazzal a narratívával, mint akik a fake news/álhír rovatokat adják elő.  
 [[M/Media#Média manipuláció\|Média manipuláció]] címnél is szerepelt, hogy a Reuters hírügynökség természetesen zsidó bankárok kezében van, és hogy az igazságot kiforgató fact-check-eléseket is ők végzik. A különböző, oltás helyett használható, népinek nevezhető gyógymódokról is azt terjesztik, hogy nem használ, mert az oltásterrort végre kell hajtani, kivált a keresztény Európában (izraeli mintára).  
-
-## Happening: megtervezett színjáték – mindkét oldalon az ő embereik képviselik magukat
-
-[[B/Bal és jobb\|Bal és jobb]] címnél és másutt is volt szó arról, hogy mindkét oldalt ugyanaz az irányelveket valló erő képviselteti magát és csak látszólagos a szembenállás.  
-A megtévesztés másik formája a megtervezett színjáték. Ugyanazok szervezik a különböző, emberiségre, a társadalomra káros ideológiákra épülő rendezvényeket és az ellenoldalba beépülve, vagy élére állva a másik oldalt is ők szervezik le vagy pénzelik; a rendezvényeken megjelenő tüntetők kis száma pedig majd a hírekben megjelenve azt jelenti: minden oké, nem sokan ellenzik például a buzi-propagandát vagy a gyermekek megrontására irányuló ténykedéseiket, akkor mehet, ez az irányelv elfogadott. Holott valójában ez ellenzők száma nagy csak nem képviselik magukat. Erről [ezen](https://youtu.be/3PEyB7p_cAk) ÁKTV műsorban volt szó, amikor Kubínyi Tamás válaszol kb. 1:43:00-nál Máriának: ő happening-nek nevezi: mindkét oldalt ugyanaz szervezi.  
-A sztárokat (színészek, sportolók, zenészek, valóságshow-szereplők) semmi másért nem tartják, mint azért, hogy közvetítsék a háttérhatalom akaratát. Valahol ebben a műsorban arról is beszél Kubínyi Tamás, hogy a sztárokat hogyan használják fel céljaikra. Például a pop-rock és hippie kultúrát ötvöző, New Age-ista köntösben előadott Hair zsidó musical szereplői nem is tudhatták, hogy ez a kör az [[V/Vízöntő korszak\|Vízöntő korszak]]kal elkövetkező Új Világgal ("Aranykor" – egy frászt) mit is tervez. De Madonna Eurovíziós dalfesztiválon való fellépését (gázálarcos táncos show azzal az üzenettel, hogy "Nem mindenki jön velünk a jövőbe") se felejtsük el.  
-A sztárok közé tartoznak az internetes/instagramos "influencer"-ek, melyek nevében is benne van a befolyásolás.  
 
 ## Erőszakkal vagy kényszerítés által "elfogadtatás"
 
