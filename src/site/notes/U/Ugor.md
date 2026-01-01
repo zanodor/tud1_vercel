@@ -1,11 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2025-11-08T23:14"}
+{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2026-01-01T17:03"}
 ---
 
 
 # Ugor
 
 Először is a névhez használati utasítás. A [[F/Finnugor nyelvelmélet\|finnugor nyelvelmélet]] tagadói ha meghallják az ugor nevet, már menekülnek, vagy tiltakoznak. Nem kell. Csak helyre kell tenni a dolgokat.  
+[Ezen](https://www.youtube.com/watch?v=uhEvgkwSf6w&t=2957) videóban – a névhasonlóságot kihasználva – Pap Gábor is menekül az ugor névtől az [[U/Ujgur\|ujgur]] felé:  
+
+> A finnugor elnevezés is hibás, mivel az `ugor` valójában `ujgur` volt, és a finnek már régen kijelentették, hogy nincs közük ehhez az elmélethez [49:17](https://www.youtube.com/watch?v=uhEvgkwSf6w&t=2957). 
+
+> [!check] &nbsp;
+> Alapvetően nem kéne ennyire fejvesztve menekülni a finnugor nyelvi rokonság elől, tekintve, hogy amikor a magyar nyelvé kevésbé, a finnugor nyelvek szavai máskor jobban megfelelnek olyan nyelvek szavainak, mint az etruszk, sumér vagy óegyiptomi. Ami azt bizonyítja, hogy a finnek nyelve sem onnan származik, ahonnan a magyarok nyelvének (sőt, fajának) eredetét helyezik.
+
+{ #uotkkt}
+
+- Ehhez hasonlóan fogalmaztunk [[F/Finnugor rokonság#Az archeogenetikai kutatás kálváriája\|az archeogenetikai kutatás kálváriája]] cím/alcímnél.
 
 #### Bakk István és Bakk Erzsébet: Magna Hungaria – Nagy-Magyarország és a blakusok...
 
@@ -31,7 +41,7 @@ Ezen kultúrák északi eredete vagy ennek lehetősége nem kerül szóba.
 4\. Azaz nem kerül szóba, hogy magasrendű kultúrák északon léteztek (valójában a Kárpát-medencétől vagy Nyugat-Európától keletre végig a sztyeppén), amelyek egyes populációi a [[J/Jégkorszak\|jégkorszak]] miatt délre költöztek.  
 5\. Az ugor-magyar ill. finn-ugor viszonylatban az uráli (és szibériai) őshaza északra helyezésének egyik oka, hogy a magasrendű kultúrák jelen korunkhoz közelebb eső hatásai, vívmányai – eurocentrista szempontból – délen-délkeleten (Egyiptomtól Indiáig) jöttek létre; északon nincs semmi, és Kína általában véve figyelemre sem igen érdemes, mint magasrendű kultúra az európai (értsd: judeo-keresztény, jezsuita európai) szemléletben.  
 A finnugor népek őshazáját nyelvészetileg úgy határozzák meg, mint akik ott hozták volna létre – szerény képességeik birtokában – nyelvüket és kultúrájukat: onnan pattantak volna ki a földből. Nem számít előéletük, vagy a tény, hogy a nyelvet fel lehet venni, más magasabb rendű néptől (erről lesz szó lentebb és volt róla szó másutt is).  
-6\. Ahogy másutt is meg lett fogalmazva, a tudomány célja alapvetően a kívánt végeredmény kijelölése és ezen eredményhez adatok illetve logikai kapcsolatok felállítása (olyan népek tudálékoskodásai alapján akik nemcsak hogy előnépeik hanyatlott tudását bírták már csak, hanem a korábbi nyelvek degradált, [[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidginizáció\|pidgin-nyelvek]] kialakulásához hasonló módon létrejött változatait beszélték) és a jelenlegi jezsuita-zsidó világuralom és status quo fenntartása, az adósrabszolgaság-uzsoracivilizáció és világuralom feletti kontroll (gondoljunk a be nem jelentett technológiai forradalmak káros hatásaira is) globális szintre emelésével.  
+6\. Ahogy másutt is meg lett fogalmazva, a tudomány célja alapvetően a kívánt végeredmény kijelölése és ezen eredményhez adatok illetve logikai kapcsolatok felállítása (olyan népek tudálékoskodásai alapján akik nemcsak hogy előnépeik hanyatlott tudását bírták már csak, hanem a korábbi nyelvek degradált, [[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidzsinizáció\|pidgin-nyelvek]] kialakulásához hasonló módon létrejött változatait beszélték) és a jelenlegi jezsuita-zsidó világuralom és status quo fenntartása, az adósrabszolgaság-uzsoracivilizáció és világuralom feletti kontroll (gondoljunk a be nem jelentett technológiai forradalmak káros hatásaira is) globális szintre emelésével.  
 7\. A tudomány látszatának fenntartásának eszköze, hogy Magyarországon legyenek (az indogermánoknak hódoló) finnugristák, turkológusok és szlávológusok, akik lefedik a nyelvészeti és egyúttal a történelmi palettát is, mert a türk vonalhoz ragaszkodók is max. 1500 éves múltra tekintenek vissza. Óegyiptomi és sumér nyelvhasonlítókat nem alkalmazunk, azon nyelvvel foglalkozókat mentális képességeik hiányosságaira nézve hiteltelenítjük.  
 8\. A kör bezárult. A nagyobb körből egy kisebbet kapunk. Az aprót. A többit megtartják, lefedik, arra hivatkozva, hogy róluk (ősibb népekről) nem tudunk, nem ismerjük írásukat (vagy majd indogermán és/vagy szemita nyelvű "tudós" "jól megfejti," hogy legyen mit az egyetemen tanítani és a Wikipédiára feltenni), stb. Nem is akarják. Mert még kiderülne, hogy azon népek lelkiekben-szellemiekben magasabb rendűek voltak: nem rabolták ki szomszédjukat, ölték meg testvérüket, mert azok jobbak voltak vagy több volt nekik – valamiből, ami Jahvét, választott népét vagy azok csicskásait illeti.  
 
