@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Három nap/","title":"Három nap","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2025-11-16T00:04"}
+{"dg-publish":true,"permalink":"/H/Három nap/","title":"Három nap","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2026-01-01T17:02"}
 ---
 
 
@@ -70,6 +70,13 @@ Az [alábbi](https://youtu.be/Hp-NEJ0Sipw) videó 12:12-nél is taglalja a tém�
 ...című az Ősi Gyökér 2008/2. sz. megjelent cikkében is felhozza:  
 > Horus, Zarathustra, Mithras, Dionysos és Jézus – sőt Krishna is – mindnyájan szűztől születtek, (3 nap után) feltámadtak, jövetelüket keleti csillag jelezte. Többüket is keresztre feszítették, 3 király látogatta meg őket. Lehet, hogy azonos csillagászati okok rejlenek mindegyik említett vallásalapító sorsa, tanai mögött?  
 > A Dél keresztje (a Szűz csillagképtől északra) – vagy a Nyilas keresztet formáló, Skorpióhoz közeli része – a Nap mögött = "keresztre feszítés", az Orion övcsillagai = "[[H/Háromkirályok\|Háromkirályok]]", a Sirius (Egyiptomban Isis csillaga) = "[[S/Szűzanya\|Szűzanya]]" stb.  
+
+## Háromnapos sötétség
+
+Az interneten mindenféle posztban és videóban terjesztenek valótlanságokat, amelyek lényegében semmi másról nem szólnak, mint a téli napfordulós solstitium-ról. 
+Még Wikipédia oldala is van: lásd [itt](https://hu.wikipedia.org/wiki/H%C3%A1romnapos_s%C3%B6t%C3%A9ts%C3%A9g). Ott is előjön Jónás a cetben. Ennyit erről.  
+
+
 
 ## Három nap Hold kapcsolata
 
