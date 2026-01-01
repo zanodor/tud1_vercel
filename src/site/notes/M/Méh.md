@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2025-09-28T21:22"}
+{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2026-01-01T17:02"}
 ---
 
 
@@ -103,7 +103,7 @@ A Szimbólumtár anyaméh címnél álló adata:
 Japán étel körülírásakor indirekt módon kiderült(?), hogy a *womb* és a *bee*, azaz a magyar méh két jelentése japánul ugyanúgy homoním szó, mint a magyarban! (A Wordsense.eu oldalról szedett japán szavak viszont nem mutatnak egyezést, de ez nem jelent semmit. Egyébként rákérdeztem Quorán, de mindenhol negatív választ kaptam.)  
 Erről [[V/Végvári József\|Végvári József]] sem szól És mégsem mozog... című írásában, de felemlíti, hogy a latinban van átfedés a szavak közt:  
 > A latin-magyar szótár szerint: `alváriam` = méhkas; `alveus` = teknő, csónak, kaptár; `alvus` = has, hajó ürege, anyaméh, méhkas (Györkösy 1986: 34).  
-- A (víz)ágy (alap)jelentésű, a[[L/Latin nyelv#Latin szókincs pidgin szókincsből való eredete\|latin nyelv]]] címnél is említett `alveus` és párja, `alvus` mintha `alvós`, [[A/Álmos\|álmos]] alakú lenne, márpedig ágyban alszunk és tudjuk, hogy az álom és halál (Jankovics Marcellnél asztrológiai kiindulással) magzati állapotra utal, mely magzat helye a méh.
+- A (víz)ágy (alap)jelentésű, a[[L/Latin nyelv#Latin szókincs pidzsin szókincsből való eredete\|latin nyelv]] címnél is említett `alveus` és párja, `alvus` mintha `alvós`, [[A/Álmos\|álmos]] alakú lenne, márpedig ágyban alszunk és tudjuk, hogy az álom és halál (Jankovics Marcellnél asztrológiai kiindulással) magzati állapotra utal, mely magzat helye a méh.
 
 Lásd még legutóbb [[K/Kaptár\|kaptár]] címnél írottakat.  
 Lásd még [[M/Masculine\|masculine]] és [[M/ME\|ME]].  
