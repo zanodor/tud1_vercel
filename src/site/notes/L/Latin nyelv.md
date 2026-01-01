@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2025-11-06T19:10"}
+{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2026-01-01T17:02"}
 ---
 
 
@@ -35,7 +35,7 @@ A görög igékhez hasonlóan, sokszor utólag képzettek, hozzákapcsolt jelent
 Többször feltűnt, hogy az ófrancia, katalán és albán nyelvben talált (hun/szabin/kelta-)latin szavak eredetibbnek tűnnek a latinoknál. Az ófrancia nyelv kelta-gall vázát illetve egyáltalán a kelta nyelv létjogosultságát a nyelvészet nem igazán ismeri el, mert (annak ellenére hogy [[K/Kelta\|kelta]] címnél szó volt a nyelv indo-germanizálásáról) ezzel olyan lavinát indítana el, mely a magyar, továbbá sumer rokonság elismerésével átírná az eddig elfogadott képet. (Az, hogy mit értünk kelta nyelv alatt is érdekes, mert egyes régi nézetek szerint a kimmér-walesi lehet az eredeti kelta, mely a brit nyelv vázát alkothatta.)  
 A latin szavakra visszavezetett újlatin, albán, kelta (mellyel kapcsolatosan tehát felmerült, hogy több esetben lehet ő az átadó, mintsem gondolnánk) szavakkal kapcsolatosan az az ember érzése, hogy régen ezeken a területeken nem ezen a nyelven beszélt a lakosság, hanem a vallás/politika határozta meg, hogy mely szavakat kell használni. Azaz gyakorlatilag Nyugat-Európában is az játszódott le, mint Közép- és Dél-Amerikában a spanyol nyelv behozatalával: a politikai helyzet megkívánta, hogy az új nyelvet használják, elsősorban az államigazgatási körökben. Magyarország területén is volt a latin hivatalos nyelv, az ország viszont ellenállt, és nem terjedt el.  
 
-## Latin és román nyelvek a magyar-eurázsiai ősnyelv pidginizációjából keletkeznek
+## Latin és román nyelvek a magyar-eurázsiai ősnyelv pidzsinizációjából keletkeznek
 
 Borbola János Az ember és a magyar című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében...
 
@@ -50,8 +50,8 @@ A pidginizáció kifejezéssel angol nyelvű írásban már találkoztam. Jó le
 { #250809}
 
 
-[[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidginizáció\|Nyelvek keveredéséből létrejött nyelvek – pidginizáció]] cím/alcímnél más is szólt a pidgin nyelvről és a pidginizáció jelenségéről.  
-Lásd még [[L/Latin nyelv#Latin szókincs pidgin szókincsből való eredete\|latin szókincs pidgin szókincsből való eredete]] alcímet alant.  
+[[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidzsinizáció\|Nyelvek keveredéséből létrejött nyelvek – pidzsinizáció]] cím/alcímnél más is szólt a pidzsin nyelvről és a pidzsinizáció jelenségéről.  
+Lásd még [[L/Latin nyelv#Latin szókincs pidzsin szókincsből való eredete\|latin szókincs pidzsin szókincsből való eredete]] alcímet alant.  
 
 ## Latin birodalmi nyelv – egységesként kezelésének hibája
 
@@ -96,9 +96,9 @@ A latin lexikai szófelvétel kapcsán biztos hogy igazam van: egységes homogé
 [[F/Finnugor nyelvek\|Finnugor nyelvek]] címnél soroltunk néhány szót, azóta kiderült, hogy a latin [[A/Aquila\|aquila]] = sas megvolt\[?\] az oszmán-törökben is, ahol `aqilla` = sas szintén.  
 Több esetben a török szó a latinnal vagy olasszal azonos, pl. a [[C/Column\|column]] címnél említett török `kolon` = oszlop.  
 
-## Latin szókincs pidgin szókincsből való eredete
+## Latin szókincs pidzsin szókincsből való eredete
 
-[[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidginizáció\|Pidginizáció]]ról már esett szó fentebb is.  
+[[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidzsinizáció\|Pidzsinizáció]]ról már esett szó fentebb is.  
 Lássunk egy példát:  
 A [[V/Végvári József\|Végvári József]] sem szól És mégsem mozog... című írásában [[M/Méh\|méh]] címnél említett latin `alveus` szó (víz)ágy (alap)jelentésű. Mintha `alvós` szavunk lenne ez, de legalábbis `alvás` szavunk ismert és ágyban alszunk.  
 Akkor ennyi lenne az indoeurópai nyelvek szavainak létrejöttének receptje?  
