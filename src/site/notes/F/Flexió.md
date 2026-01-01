@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2025-10-16T19:37"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2026-01-01T17:04"}
 ---
 
 
@@ -98,6 +98,8 @@ head --w4 : "Jézus ácsként isteni\nmunkát végez (teremtés)"
 head -up->w5 : "Sumér **Utu** napisten"
 @enduml
 ```
+
+Fontos a [[T/Tűz\|tűz]] = [[T/Tesz\|tesz]] ([[T/Tosz\|tosz]]) = [[T/Tiszta\|tiszta]] stb. szavak hímségi teremtői, tűz ágensre vetíthető, közös belső fejlődési vonalon létrejövő szavak szóbokrának felismerése, kiegészítve az indoeurópai nyelvekben szintén istent (és ördögöt) jelentő szavak magyar [[T/Tevő\|tevő]] és [[T/Tév\|tév]]/[[T/Tévely\|tévely]]/[[T/Téved\|téved]] közös eredetét alkotó szavakkal.  
 
 Továbbá flexiós kapcsolatot találunk [[H/Huny\|huny]], [[H/Hany\|hany]] (mint [[H/Hanyatlik\|hanyatlik]]), [[H/Henyél\|henye]], [[H/Henyél\|henyél]], [[K/KONY\|kony]] ([[K/Konyul\|konyul]]), [[K/KUM\|kum]] (`lekum` a Nap), valamint a Nap [[E/Ecliptic\|ekliptiká]]n való esésének téridőbeli pontját jelölő [[K/KAN\|kan]] ([[C/Canis Maior\|Canis Maior]]) (mely a [[G/Gonosz\|gon]]osz félévet nyitja), és sok más magyar-utód elnevezés (a Rák [[C/Cancer\|Cancer]] nevének előtagja, a Rák japán neve, stb.) között. Mind a [[H/Hun\|hun]] nevet magyarázzák a [[H/Hunor és Magor\|Hunor-Magor]] rendszerben.  
 
