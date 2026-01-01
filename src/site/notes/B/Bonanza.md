@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bonanza/","title":"Bonanza","created":"2023-11-21T02:13","updated":"2025-01-22T15:46"}
+{"dg-publish":true,"permalink":"/B/Bonanza/","title":"Bonanza","created":"2023-11-21T02:13","updated":"2026-01-01T17:04"}
 ---
 
 
@@ -10,7 +10,7 @@
 Gazdag érclelőhely, "aranybánya," szerencsés lelet.  
 A kiinduló mögöttes idea viszont az újlatin-spanyol (tengeri vitorlázás szempontjából értett) jó idő, jó szél kifejezés. Bon-An-Za (Jó Anya Száj) felbontása lehetséges, mely szókapcsolatból az ismeretlennek tűnő (de azóta teoretikus etimonná avanzsált) [[B/BON\|BON]] értelmezése elsődleges:  
 [[B/Bovine\|Bovine]] szónál a bo elemet bő-ség szavunkkal adtuk vissza. Idekívánkozik [[B/Bonus\|bonus]] szónál bővebben szereplő Magyar Adorján írása:  
-> Írtam arról, hogy a rómaiak Bona-Deája (Jó Istennő, de egyúttal Tehén-Istennő is) tulajdonképpen azonos a főisten Jupiter (a jó apa) nejével [[J/Juno\|Juno]]-val, amely utóbbi név tehát jó nő értelmű.  
+> Írtam arról, hogy a rómaiak Bona-Deája (Jó Istennő, de egyúttal Tehén-Istennő is) tulajdonképpen azonos a főisten Jupiter (a jó apa) nejével [[J/Juno\|Juno]]-val, amely utóbbi név tehát "jó nő" értelmű.  
 
 [[B/Benefit\|Benefit]] szónál is felmerült, hogy a latin-újlatin `bene`/`bona` kapcsolható lehet egyrészről gabona = élet szavunkhoz, melyben bo nyilván bő-ség szavunk. Azaz a latin-újlatin szavak mögött valójában a Nap bő fényáradatából termő gabona, a Nap és a munka szeretete áll, illetve a tehén teje, mely a [[T/Tejút\|Tejút]]tal is összefügg.  
 A fő táplálékként szolgáló tejet (és Indiában a tejet adó tehenet is) szentnek tekintették eleink, fehér színe miatt is. A perzsa nyelvben [[D/Dugh\|dugh]] a tej (lásd még erről [[M/MISZ\|MISZ]] és [[D/Daughter\|daughter]]), mely a [[B/Boldog\|boldog]] szavunk [[D/DUG\|DUG]] elemével egyeztethető.  
