@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor rokonság/","title":"Finnugor rokonság","tags":["containscallouts"],"created":"2025-11-08T23:12","updated":"2025-11-08T23:13"}
+{"dg-publish":true,"permalink":"/F/Finnugor rokonság/","title":"Finnugor rokonság","tags":["containscallouts","containstransclusions"],"created":"2025-11-08T23:12","updated":"2026-01-01T17:01"}
 ---
 
 
@@ -126,6 +126,19 @@ Először is, a saját véleményem hadd mondjam el, pontokba szedve:
 - Ahogy a nyelvészeti, úgy a genetikai vizsgálatok is szabadon válogathatók, pro és kontra, azon az elven, hogy milyen kritériumoknak kell megfelelni. Alapvetően a helyzet az, hogy más népekkel ezt nem csinálnák meg; ott negyed- vagy tizedannyira egyértelmű dolgokból vagy ha [[J/Jamnaja kultúra\|Jamnaja kultúrá]]ra gondolunk, zéró bizonyíték alapján is nagyon egyértelmű eredményeket mutatnak fel, mert éppúgy előre szabják meg a kívánt eredményt, mint a mi esetünkben: nekünk csak a [[S/Szemiták és árják\|szemiták és árják]] által felzabált múlt jelentéktelen maradéka jut.
 	- Arról pedig, hogy ki hogy néz ki, megint csak annyit, amit másutt is elmondtam: teljesen mindegy, hogy ki hogy néz ki, az isteni küldetés, a szakralitás, szellemiség, lelkiség a lényeg, de a tudomány ezen mezsgyén nem akar haladni. Amúgy is, minden szellemi produktumot mi csak átvehetünk.
 - Személy szerint én **nem utasítom el** a finnugor rokonságot, azon egyszerű oknál fogva, hogy a [[C/Csudaszarvas\|Csudaszarvas]] mondánk eredete (beleértve a rénszarvas ünőjét, mint a szarvasfiú agancsot viselő anyját) is északra mutat és a [[T/Termékeny félhold\|termékeny félhold]] kultúrája sem helyben jön létre, hanem északról vándorolnak le eleink, valamint az [[E/Etruszk#Etruszk nyelv\|etruszk nyelv]], [[S/Sumér és akkád nyelvek\|sumér nyelv]] és [[E/Egyiptomi nyelv\|egyiptomi nyelv]] is mutat a magyaron kívül finnugor nyelvi rokonságot, ahogy erről [[F/Finnugor nyelvek\|finnugor nyelvek]] címnél volt szó. Az elmúlt évezredekben a közlekedő nyelv több helyen inkább finnségi/finnugor volt, és a magyar csak zárványszerűen kezd már csak mutatkozni.
+	- Ahogy [[U/Ugor\|másutt]] is megjegyeztem:
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/U/Ugor/#uotkkt" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> [!check] &nbsp;
+> Alapvetően nem kéne ennyire fejvesztve menekülni a finnugor nyelvi rokonság elől, tekintve, hogy amikor a magyar nyelvé kevésbé, a finnugor nyelvek szavai máskor jobban megfelelnek olyan nyelvek szavainak, mint az etruszk, sumér vagy óegyiptomi. Ami azt bizonyítja, hogy a finnek nyelve sem onnan származik, ahonnan a magyarok nyelvének (sőt, fajának) eredetét helyezik.
+ 
+
+</div></div>
+
+
 - Ami a szkíta/hun-avar-magyar azonosságot illeti, a hun és magyar egy nép, azon az alapon, hogy a névadó [[H/Hunor és Magor\|Hunor és Magor]] nevek egy évköri konstrukció szerves részei.
 	- A magyarok manysikkal való faji keverése elsődlegesen a [[H/Honfoglalás\|Honfoglalás]] tényére és a kiindulópont kulturális ürességére összpontosít, míg a szlávok szinte külön faji státuszt kapnak. Tisztázni kell a szlávok fehér hun eredetét.
 
