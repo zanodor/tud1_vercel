@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Holdtisztelet/","title":"Holdtisztelet","tags":["containstransclusions"],"created":"2025-05-01T16:00","updated":"2025-09-11T16:57"}
+{"dg-publish":true,"permalink":"/H/Holdtisztelet/","title":"Holdtisztelet","tags":["containstransclusions"],"created":"2025-05-01T16:00","updated":"2026-01-01T17:04"}
 ---
 
 
@@ -37,7 +37,7 @@ Holdtiszteletről és a Holddal kapcsolatos babonákról szól Kandra Kabos Magy
 
 ...című könyvében írott sorai ([[A/Artemisz\|Artemisz]] címnél bővebben megvolt):  
 > A szarvasünő ősanyaként való tisztelete jellegzetes szkíta-magyar hagyomány. Huszka József szerint "ornamentikánk szarvasa egyenesen Ázsiából hozott Istár-Asztarté-Artemisz-jelkép. Az egyenlő szárú kereszt, a hold és a szarvas a vadászat istennőjének kísérője...a régi népeknél, Ázsia nyugati felén..."  
-> Artemisz istennő kisázsiai eredetû, akárcsak Apollón: mindkettejük tiszteletét az ősi anatóliai népektől vették át a görögök. A magyarok nő-elvi ágánál kezdettől fogva Hold (és szarvas-, valamint bika-) kultusz volt, míg a hímelvi ág a Nap-vallást követte. A honfoglaláskori Magyarországon volt egy terület, ahol dominánsan érvényesült a bika-kultusz (ez nagyjából egybeesik Tolna megyével).  
+> Artemisz istennő kisázsiai eredetű, akárcsak Apollón: mindkettejük tiszteletét az ősi anatóliai népektől vették át a görögök. A magyarok nő-elvi ágánál kezdettől fogva Hold (és szarvas-, valamint bika-) kultusz volt, míg a hímelvi ág a Nap-vallást követte. A honfoglaláskori Magyarországon volt egy terület, ahol dominánsan érvényesült a bika-kultusz (ez nagyjából egybeesik Tolna megyével).  
 
 Jankovics Marcell szerint általánosságban elmondható, hogy a "nő Nap" "férfi Hold" páros az archaikusabb mítoszokra jellemző.  
 Amikor Jankovics Marcell A Nap könyve című könyvében arról ír, hogy az asztronómiai istenségek közül rendszerint az eget megszemélyesítő isten vagy a napisten a legrangosabb és legfeljebb a Hold (istene) előzi meg, akkor arra kell gondoljak, hogy ez a csillagvallás tana. Írja még itt, hogy ahol az Ég az úr, ott a Nap rangban rögtön utána következik.  
