@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2025-12-20T12:19"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-01-01T17:02"}
 ---
 
 
@@ -262,7 +262,7 @@ Péterfai János István etimonjaiból a szavak rekonstruálhatók. Ebből a cso
 D₁) Mondatrész-osztályokon áthatoló, azonos fogalmi körön belüli szavak például külalak, minőség, eszköz, cél, stb. kifejezésére (természeti megfigyelések útján) válhatnak főnévből igévé, főnévből melléknévvé, határozóból igévé, stb. A legtöbb, legérdekesebb előfordulásokat produkáló szavak csoportja.  
 Például [[D/Derű\|derű]] → [[T/True\|true]] (igaz), (sír)domb → [[D/Dumb\|dumb]] (süket), bont → [[B/Bone\|bone]] (csont). Ebből az önkényesen felállított(?) csoportból ritkán gyűjt Varga Csaba, Tomory Zsuzsa és Péterfai János István.  
 
-D₂) Összetartozó kifejezések, szószerkezetek, ún. idiómák szintjén: nem a megfelelő szót/értelmet viszi tovább. Ebből a csoportból nem gyűjt szinte senki. Persze ezek korántsem biztos, hogy így is jöttek létre, de [[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidginizáció\|pidginizációs]] folyamatok feltárásában segíthetnek. Például:  
+D₂) Összetartozó kifejezések, szószerkezetek, ún. idiómák szintjén: nem a megfelelő szót/értelmet viszi tovább. Ebből a csoportból nem gyűjt szinte senki. Persze ezek korántsem biztos, hogy így is jöttek létre, de [[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidzsinizáció\|pidzsinizációs]] folyamatok feltárásában segíthetnek. Például:  
 • [[M/Magyar\|Magyar]] istenanya (Tejútanya) → arab Al Madzsarrah Tejút és IE [[M/Mater\|mater]] = anya.  
 • [[L/Láng\|Láng]] → lángnyelv → fr. `langue`, ang. [[L/Language\|language]] = nyelv.  
 - "Vörös hús" → A vörös mint a hús (és halál) színe jelenik meg hús jelentéssel. Lásd [[V/Vörös#Vörös vér, vörös hús\|vörös vér, vörös hús]] cím/alcímnél írottakat.  
