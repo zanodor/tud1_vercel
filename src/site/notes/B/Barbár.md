@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-04T04:55","updated":"2025-09-28T21:23"}
+{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-04T04:55","updated":"2026-01-05T21:37"}
 ---
 
 
@@ -47,7 +47,7 @@ Az hogy a tigris is Napállat, ahogy a többi, kivált a kutya, mely kutyát jel
 
 > The dog is frequently a point of departure in idea with respect to animal names. Thus, with the Sumero-Akkadai, as the Hyena is the Striped-dog the Wolf is the Greedy-dog and the Lion the Big-dog. So, with the Eskimo, the Polar-bear is the White-dog and, in the Vendidad (Fargard, xiii), the Hedgehog is the Dog with the prickly back. The Ak. `Likbarra` is also rendered by (Sem.) `Barbaru`, which is generally translated Leopard. As with respect to colours, so in reference to animals, there is often a great vagueness of terminology in ancient literature.  
 > —  
-> A kutya gyakran kiindulópont az állatnevek \[adásának\] elgondolásában. Így a sumero-akkádoknál, ahogy a hiéna a csíkos kutya, a farkas a mohó kutya és az oroszlán a nagykutya. Így az eszkimóknál a jegesmedve a Fehér kutya, a Vendidadban (Fargard, xiii) pedig a sün a tüskés hátú kutya. Az akkád Likbarra-t is a (sémi) Barbaru adja vissza, amit általában Leopárdnak fordítanak. Ahogy a színek tekintetében, úgy az állatokra vonatkoztatva is gyakran nagy a terminológiai homály az ókori irodalomban.  
+> A kutya gyakran kiindulópont az állatnevek \[adásának\] elgondolásában. Így a sumero-akkádoknál, ahogy a hiéna a csíkos kutya, a farkas a mohó kutya és az oroszlán a nagykutya. Így az eszkimóknál a jegesmedve a Fehér kutya, a Vendidadban (Fargard, xiii) pedig a sün a tüskés hátú kutya. Az akkád `Likbarra`-t is a (sémi) `Barbaru` adja vissza, amit általában Leopárdnak fordítanak. Ahogy a színek tekintetében, úgy az állatokra vonatkoztatva is gyakran nagy a terminológiai homály az ókori irodalomban.  
 
 
 </div></div>
@@ -76,13 +76,14 @@ Ahogy [[B/Barbara\|Barbara]] címnél írtuk, egészen nyilvánvalóan azon név
 
 Zajti Ferenc Zsidó volt-e Jézus című könyvében előjön egy régi, Romakasiddhanta című, indiai szanszkrit nyelvű munkában **Barbarasthana**, Hungarasthana, (Dzsungarastana?) és Mugalasthana mellett, kiknek lakói az `acvamukha` = lófejűek és az `cvamukha` = kutyafejűek.  
 
-Az [alábbi](https://youtu.be/4S66tL5ZKKI) Matek Kamill előadásban 46:19-nél említ egy görög Agathias nevű szerzőt aki az alábbiakat mondja:  
-> Mindazon barbarus népek, melyek az Imauson belül laknak, szkítáknak vagy hunnusoknak neveztetnek.  
+A görög Agathias nevű szerző az alábbiakat mondja:  
+> Mindazon barbarus népek, melyek az Imauson (havasokon) belül laknak scytháknak vagy hunnusoknak neveztetnek.  
 
-A neten is megtaláltam:  
-> A szkíta-hun nép azonosságát igazolta Agathias (szül i.e. 301.) könyve 154. oldalán: "Mindazon barbarus népek, melyek az Imauson belül laknak scytháknak vagy hunnusoknak neveztetnek."  
-> Ptolemaus Claudius (i.e. 138-180) III. könyve, 5. fejezet, 19 oldal, írja: "A scytha alánok fölött laknak a roxolánok, pannonok és hunok, mind testvérek."  
-> Hippocrates (i.e. 456-366.) "Európában él a szittya nép, melyet szarmatáknak, szakáknak, szabiroknak, gepidáknak, pártusoknak, pannonoknak, médeknek, jazigoknak \[jászoknak\], hunnusoknak és avaroknak is neveznek..."  
+> [!lasdmeg] &nbsp;
+> A neten is megtaláltam:  
+> > A szkíta-hun nép azonosságát igazolta Agathias (szül i.e. 301.) könyve 154. oldalán: "Mindazon barbarus népek, melyek az Imauson belül laknak scytháknak vagy hunnusoknak neveztetnek."  
+> > Ptolemaus Claudius (i.e. 138-180) III. könyve, 5. fejezet, 19 oldal, írja: "A scytha alánok fölött laknak a roxolánok, pannonok és hunok, mind testvérek."  
+> > Hippocrates (i.e. 456-366.) "Európában él a szittya nép, melyet szarmatáknak, szakáknak, szabiroknak, gepidáknak, pártusoknak, pannonoknak, médeknek, jazigoknak \[jászoknak\], hunnusoknak és avaroknak is neveznek..."
 
 #### Márai Sándor írja:  
 
@@ -91,7 +92,7 @@ A neten is megtaláltam:
 
 #### Várkonyi Nándor írja:
 
-> Még [[H/Homer\|Homérosz]] költeményein is átcsillan az epigoni magatartás, a "kultúrfölény" érzetének hiánya az ősökkel és a "primitív" népekkel szemben. "A bűntelen etiópok, akiknek áldozata a legkedvesebb az istenek előtt", - mondja Homérosz Afrika színesbőrűiről. Az ellenkező magatartás a zsidóknál jelenik meg először a "választott nép" és a "[[G/Gój\|goj]]im" ideológiájában, majd a rómaiak "**barbarus**" fogalmában, melynek ők adták az alacsonyabb rendű, a durva, a műveletlen jelentést, míg a görögök eredetileg egyszerűen idegen nyelvű, érthetetlen beszédű embert értettek rajta (bar-bar = dadogó). Nem csoda, hogy aztán a neandervölgyi ős unokájából a kulturális képességgel együtt kihalt a szerénység is.  
+> Még [[H/Homer\|Homérosz]] költeményein is átcsillan az epigoni magatartás, a "kultúrfölény" érzetének hiánya az ősökkel és a "primitív" népekkel szemben. "A bűntelen etiópok, akiknek áldozata a legkedvesebb az istenek előtt", – mondja Homérosz Afrika színesbőrűiről. Az ellenkező magatartás a zsidóknál jelenik meg először a "választott nép" és a "[[G/Gój\|goj]]im" ideológiájában, majd a rómaiak "**barbarus**" fogalmában, melynek ők adták az alacsonyabb rendű, a durva, a műveletlen jelentést, míg a görögök eredetileg egyszerűen idegen nyelvű, érthetetlen beszédű embert értettek rajta (bar-bar = dadogó). Nem csoda, hogy aztán a neandervölgyi ős unokájából a kulturális képességgel együtt kihalt a szerénység is.  
 
 ![assets/Barbár_image1.png|fix_dark fix_light|840](/img/user/B/assets/Barb%C3%A1r_image1.png)  
 
@@ -109,7 +110,7 @@ Hasonlóan...
 > Az ariánus kereszténység felvétele a vizigótok számára a rómaiak szemében a "barbárságuk" csökkenését jelentette, de Róma továbbra is barbárnak tekintette őket [53:43](https://rumble.com/v6w9mh0-250716cn-a-nagy-szkizma-1-kubnyi-tams-ktv.html?start=3223). Az ariánus gót kereszténységben nem volt centralizált egyház, helyi közösségekre épült, és a vallás nyelve a népnyelv volt, megőrizve a germán hagyományokat [54:32](https://rumble.com/v6w9mh0-250716cn-a-nagy-szkizma-1-kubnyi-tams-ktv.html?start=3272).  
 - Ezzel visszatérünk ahhoz a "népi" vonulathoz, amelyről [[P/Pogány\|pogány]] címnél Pap Gábor nyomán volt szó.
 
-Több helyen szóltam arról, hogy tulajdonképpen a hunok napvallást követő csoportjának, vallásos nézetüknek, ennek hun-utód népességei révén történő elterjedésének és az általuk képviselt patriarchalizmusnak tulajdonítható a legtöbb Földet érő baj. Még azt sem tartom kizártnak, hogy a héber [[G/Gój\|gój]] nemcsak marha, hanem kutya (lásd kínai `gou` = kutya, ír `cù` = kutya, stb.) asszociációkkal illethető és az általuk képviselt felfogás annak szól, hogy ha "Szíriusz távollétében a Szíriuszt tisztelők nem élvezik annak pártfogását, így a világuralom a miénk." \[Azóta kiderült, hogy a [[K/Kutyahitű\|kutyahit]] az ősi hit.\]  
+Több helyen szóltam arról, hogy tulajdonképpen a hunok napvallást követő csoportjának, vallásos nézetüknek, ennek hun-utód népességei révén történő elterjedésének és az általuk képviselt patriarchalizmusnak tulajdonítható a legtöbb Földet érő baj. Még azt sem tartom kizártnak, hogy a héber [[G/Gój\|gój]] nemcsak marha, hanem kutya (lásd kínai `gou` = kutya, ír `cù` = kutya, stb.) asszociációkkal illethető. Tény, hogy a [[J/Júda\|Júda]] név is a kutya változata (sötét, áruló minőség, mint az az egyiptomi Széth, melynek [[E/El Shaddai\|El Shaddai]] névváltozata is ismert, a Bibliából is).  
 
 [[Z/Zsidó\|Zsidó]] címnél (bővebben) szerepelt, hogy a nevük tulajdonképpen lehetne sárkány, vagy lehetne nevük fene, kut/kutya, de mindenképpen szaturnuszi, mint az istenük, [[J/Jahve\|Jahve]] is. A héber Szaturnusz, [[K/Kijjún\|Kijjún]] is a görög `kyon` = kutya átformálásának tűnik. \[...\] Tulajdonképpen kimondható, hogy a dualisztikus világkép magyarok majd zoroasztriánusok általi megismertetése adta az ötletet, hogy ebben is lehet gondolkodni (zsidó) emberként (mely ugye már nem emberi szint). Sőt, a [[K/Kut\|kut]] címnél álló életkör-diagram negatív oldalán álló szavak [[G/Goetia\|Goetia]] és a germán [[G/God\|God]] nevekkel való hasonlítása nyomán kimondható, hogy a vaskori kutyaélet és lélek nélküli élet folyik ma a Földön.  
 
