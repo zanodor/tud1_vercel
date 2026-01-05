@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2025-09-28T21:20"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2026-01-05T21:37"}
 ---
 
 
@@ -145,7 +145,7 @@ Másutt is láttunk hasonló esetet: az [[A/Apocalypse\|apocalypse]] utótagja, 
 
 Götz László Keleten kél a Nap című könyvében még korábban, a 128. oldalon szól a nyelvészet által ismert R>L>N váltásról.  
 L>N ill. N > L váltásra példa a [[C/Comrade\|comrade]] címnél taglalt Hunor > Khamor > latin `gemellus` > `geminus` = iker és az [[A/Animal\|animal]] címnél látott anima > alma.  
-N>L változást említ Záhonyi András: szerinte a sumér `dingir` Inanna Tündér Ilona nevéből származna. [[D/Dal\|Dal]] címnél is volt szó arról, hogy esetleg a dan(a)-ból lett dal.  
+N>L változást említ Záhonyi András: szerinte a sumér `dingir` Inanna Tündér Ilona nevéből származna. [[D/Dal\|Dal]] címnél is volt szó arról, hogy esetleg a dan(a)-ból lett dal (`danol` = `dalol`).  
 
 ### F, V, B, P hangok gyakori cseréje
 
