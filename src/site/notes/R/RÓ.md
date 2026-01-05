@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/RÓ/","title":"RÓ","created":"2023-10-25T05:12","updated":"2024-10-26T00:14"}
+{"dg-publish":true,"permalink":"/R/RÓ/","title":"RÓ","created":"2023-10-25T05:12","updated":"2026-01-05T21:39"}
 ---
 
 
@@ -13,4 +13,4 @@
 
 Lásd még [[R/Ráró\|ráró]], [[R/Róka\|róka]], [[R/Rokon\|rokon]], valamint például [[R/Run\|run]].  
 
-[Ezen](http://www.renshaworks.com/jastro/constell.htm) japán csillagképneveket taglaló oldal adata szerint a japán `ro` = tűzhely.  
+[Ezen](https://web.archive.org/web/20210329195833/http://www.renshaworks.com/jastro/constell.htm) japán csillagképneveket taglaló oldal adata szerint a japán `ro` = tűzhely.  
