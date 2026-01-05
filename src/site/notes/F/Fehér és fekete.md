@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2025-12-20T11:21"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2026-01-05T21:36"}
 ---
 
 
@@ -42,9 +42,17 @@ A szlávnál maradva, ezét lehet a szláv `západ` = nyugat [[S/Sápad\|sápad]
 > Bodor a Székely Oklevéltár 1548-as és 1557-es szabályozása szerint mutatja be ezt a fejlődést, mely időszakos zavarok után visszatérést, szabályozott rendezést mutat az irányító személyek nemenkénti ciklusos változásában, melynek részletei már nem témánkhoz tartozóak.  
 > Fontos Árpád-kori kozmikus emlékünk II. András király első nagypecsétje, mely az Aranybullán viasznyomatként és arany domborításban is ránk maradt. Az első nagy pecséten a Hold és a Nap – a Bizánci császárságból ismert szimbólumok – mellett, a Vénusz csillag is szerepel, mely csak a sumer-akkád és a babiloni kultúrából ismert hármasság; más Árpád-kori emlékeink között nincs hasonló. II. András későbbi, második nagypecsétjén híre sincs efféle szimbólumoknak. Vajon mi lehet az oka a kiemelkedően fontos tárgyi emlékünk tudományos érdektelenségének?!  
 
-Varsa Mátyás A legrégibb magyar mítosz című tanulmányában említi az obi-ugorok mosz és por nevű frátriáit, melyekről azt írja, hogy keresztbe kellett házasodniuk (mosz nőnek por férfival és fordítva), de ami itt számunkra érdekesebb, az az, amit Molnár V. József Világ-Virág c. könyvének 35. oldalán ír, miszerint a (voguloknál) a mosz – az égi nép – fehér, a por – a földi nép – fekete színű állattal áldozott. ([[M/Madár#Madarak és kutyák\|Madarak és kutyák]] cím/alcímhez is betéve.)  
+## Fehér és fekete frátriák
 
-Molnár V. József Világ-Virág című könyvének 109. oldalán a lépcső és a spirál környezete a jelrendszerben alfejezetcímnél olyan dolgokat (a fehér és feketéről, mint két létezőről ír, ahol a fekete a fordított "[[M/Más\|más]]ik" világ) taglal, melyek a [[J/Jin és jang\|jin-jang]] jel értelmezéséhez hasonlóak.  
+Varsa Mátyás A legrégibb magyar mítosz című tanulmányában említi az obi-ugorok mosz és por nevű frátriáit, melyekről azt írja, hogy *keresztbe kellett házasodniuk* (mosz nőnek por férfival és fordítva.  
+- Ez egybevág azzal, amit magam is hangoztatok (Magyar Adorján írásai nyomán is), hogy a [[G/Göd#Tejút nyugati partja\|folyó két oldalán]] letelepedők az ellenkező oldal képviselőivel kötöttek házasságot (akár a Magyar Adorján féle szent nász szigetén).
+
+> [!note] &nbsp;
+> Ami még a – vogul por és mosz frátria-szerű – leosztást illeti, már másutt is kimondtam, hogy a magyar néppel ellentétben az utódnépek a nyári napfordulós állás Napistenével (Hunor, Bál/Balázs/Balog, stb.) azonosították magukat.
+
+Molnár V. József Világ-Virág c. könyvének 35. oldalán is írja, hogy a (voguloknál) a mosz – az égi nép – fehér, a por – a földi nép – fekete színű állattal áldozott. ([[M/Madár#Madarak és kutyák\|Madarak és kutyák]] cím/alcímhez is betéve.)  
+
+Molnár V. József könyvének 109. oldalán a lépcső és a spirál környezete a jelrendszerben alfejezetcímnél olyan dolgokat (a fehér és feketéről, mint két létezőről ír, ahol a fekete a fordított "[[M/Más\|más]]ik" világ) taglal, melyek a [[J/Jin és jang\|jin-jang]] jel értelmezéséhez hasonlóak.  
 Másutt[^4] tükörképről volt szó, mely [[T/Tükör\|tükör]] szó a [[T/Teker\|teker]] = fordít szóhoz aránylik szintén.  
 
 ## Fehér és fekete hunok és magyarok
@@ -389,8 +397,6 @@ A fekete nadrág és fehér ing viselete is [[S/Szakrális geometria\|szakrális
 > ...  
 > Az Erdélyből hiányzó acélzöld, valamint a Magyarország központi vidékein csak szórványosan előforduló világoszöld szűrszegélyszín megtalálható külföldön, mégpedig például Dalmáciában, Ragusa vecchia (ma Dubrovnik) környékén, pontosan azon a vidéken, ahová Baján avar kagán a források szerint 10 000 kutrigur harcost telepített le, akik Bíborbanszületett Kostantin tanúsága szerint ott is maradtak. Ezen a tájon – írja Fischer – a magyaros díszítésmódok, a szűk magyar nadrág, különféle magyar szokások, mint pl. a halotti tor, a halottőrzés, még ma is megtalálhatók, sok magyarosan hangzó helységnév kíséretében.
 - Egyáltalán nem rossz elmélet, hiszen a fekete nadrág és fehér ing kapcsán is feltételeztem, hogy kozmikus összefüggés keresendő.
-
-Ami pedig a – vogul por és mosz frátria-szerű – leosztást illeti, már másutt is kimondtam, hogy a magyar néppel ellentétben az utódnépek a nyári napfordulós állás Napistenével (Hunor, Bál/Balázs/Balog, stb.) azonosították magukat.  
 
 Lásd még [[V/Vörös és fekete\|vörös és fekete]], valamint [[S/Szürke\|szürke]]. Lásd még [[T/Tarka\|tarka]], [[B/Bonta\|bonta]], [[A/Ablak\|ablak]].  
 
