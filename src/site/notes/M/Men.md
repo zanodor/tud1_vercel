@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Men/","title":"Men","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-09-28T19:59","updated":"2025-09-28T20:00"}
+{"dg-publish":true,"permalink":"/M/Men/","title":"Men","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-09-28T19:59","updated":"2026-01-05T21:37"}
 ---
 
 
@@ -128,7 +128,7 @@ Ezen a ponton kívánkozik ide Péterfai János passzusa:
 
 Kétségtelen, éppen ahogy a régi nyelv megkülönböztette a hajnalt, pitymallatot, pirkadatot, megkülönböztette az ég (hagymahéjszerű) rétegeit, melyekről [[H/Héj\|héj]] és [[S/Sphere\|sphere]] címnél is volt szó.  
 
-Falvay Károly könyvének 107. oldalán pedig arról szól, hogy a (judeo-)keresztény felfogásban a mennyország atyai terület. Ez ellenkezik a magyar ősfelfogással. (Bakos Attila A Duna Evangéliuma című könyvének 228. oldalán az Úr-Szék összefüggésben látja az [[O/Ország\|ország]] értelmét, miután a Mennyország szavunkat Mén-Úr-Szék-ként említi. Bakos nem veszi észre, hogy az elnevezés patriarchalizmus előtti.)  
+Falvay Károly könyvének 107. oldalán pedig arról szól, hogy a (judeo-)keresztény felfogásban a mennyország atyai terület. Ez ellenkezik a magyar ősfelfogással. (Bakos Attila A Duna Evangéliuma című könyvének 228. oldalán az Úr-Szék összefüggésben látja az [[O/Ország\|ország]] értelmét, miután a Mennyország szavunkat Mén-Úr-Szék-ként említi. Az elnevezés a patriarchátus előtti.)  
 Több helyen szól arról, hogy egyes indo-európai szavak hímneműként jelölnek meg olyan fogalmakat, melyek nőneműnek kell lennie (az olasz `la notte` nőneműsége például stimmel):  
 > A német nyelvű `der Himmelsgöttin` = égistennő hímnemű fogalom, ami önmagában képtelenség.  
 
