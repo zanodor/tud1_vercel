@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kontár/","title":"Kontár","created":"2025-03-05T02:30","updated":"2025-07-03T01:14"}
+{"dg-publish":true,"permalink":"/K/Kontár/","title":"Kontár","created":"2025-03-05T02:30","updated":"2026-01-05T21:39"}
 ---
 
 
@@ -37,6 +37,68 @@ A Kontár-Ördög szaturnikus is. Az alábbi, Hamlet Malmából való, [[S/Sarkc
 > A\[z Orion csillagképhez köthető bolygó-istenség\] Szaturnusz, a kozmosz mértékeinek adója, Babilonban a "Törvény és Igazságosság Csillaga", a "Nemezis Csillaga" Egyiptomban, de a Szükségszerűség és Megtorlás Uralkodója, röviden a Császár. Kínában Szaturnusznak a címe "Génie du pivot", mint a **Középpont felett ügyelő isten, s ugyanezt a címet kapja a Sarkcsillag**.  
 
 Lásd még a rokon alapszavakat tartalmazó [[H/HAN\|HAN]] és [[G/Gonosz\|gonosz]].  
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/H/HAN/#han-hany-huny-diagram" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# han-hany-huny diagram
+
+</div>
+
+
+## Han-hany-huny diagram
+
+A sötétbe borulással járó konyul, ellen(tartás), gonosz, stb. jelentésű szavakat Hun(or-Khamor)/Han (Kan) alapszavakra bontás után kiviláglik, hogy az egész földön egyazon szóalak és annak változatai terjedt el:  
+```plantuml-svg
+@startuml
+left to right direction
+
+skinparam BackGroundColor transparent
+skinparam rectangle {
+  BackgroundColor #ccbe78
+}
+skinparam card {
+  roundCorner 15
+  BackgroundColor #f9f5d7
+}
+
+rectangle "<b>HUN-HAN</b>" as head
+
+card "<color:#e7545c>huny</color>, <color:#e7545c>hanyatlik</color>" as w1
+card "<color:#e7545c>gonosz</color>" as w2
+card "<color:#e7545c>hamis</color>, <color:#e7545c>hanta</color>, <color:#e7545c>kancsal</color>" as w3
+card "<color:#e7545c>kantár</color>, <color:#e7545c>kontra</color>" as w4
+card "<color:#e7545c>Kani</color>, <color:#e7545c>gan</color>" as w5
+card "<color:#e7545c>hany</color>, <color:#e7545c>hány</color>" as w6
+card "**Hunor-Khamor** alakváltozatok:\n\n<color:#e7545c>hón</color> = váll, finn <color:#e7545c>kumara</color> = <color:#e7545c>homorú</color>\ngörög <color:#e7545c>kamara</color> = boltív, latin <color:#e7545c>camur</color> = görbe" as w7
+card "<color:#e7545c>kam</color>, <color:#e7545c>gom</color>, <color:#e7545c>kanyar</color>, <color:#e7545c>konyul</color>" as w8
+card "<color:#e7545c>hangya</color>, <color:#e7545c>kánya</color>, <color:#e7545c>sárkány</color>" as w9
+card "<color:#e7545c>geny</color>, <color:#e7545c>könny</color>, <color:#e7545c>kontár</color>" as w11
+card "**Hun Achab**" as w12
+card "**Han**" as w13
+card "<color:#e7545c>oni</color>, <color:#e7545c>hantu</color>" as w14
+
+head -- w1 : "jelentése: szem lehunyása; hanyatló félév"
+head -- w2 : "perzsa <color:#e7545c>gonah</color> = bűn; finn <color:#e7545c>huono</color> = rossz\nfinn, karéliai<color:#e7545c>kehno</color> = rossz, silány; ördögi minőség"
+head -- w3 : "latin <color:#e7545c>hamus</color> = görbe; nem egyenes\nnémet <color:#e7545c>hämisch</color> = gonosz; ferde/torz látás"
+head -- w4 : "jelentése: ellentartás; fék\nvö. elavult angol <color:#e7545c>gain</color>"
+head -- w5 : "japán : jelentése: Rák csillagkép és rák; sötét félév kezdete"
+w5 -- w6 : "huny, hanyatlik a Canis Maior\nEb (Kan) csillagképtől kezdve"
+head -- w7 : "latin <color:#e7545c>(h)umerus</color>; jelentése: váll\nvö. akkád **Kumaru**: nyári napfordulós Ív/Íj csillagkép"
+head -- w8 : "jelentése: ív; csomó; égi hajlás; lekonyulás"
+head -- w9 : "jelentése: alvilági lény; káros madár; fényhiányos"
+head -- w11 : "jelentése: anyagi (manicheizmusban a sátán felelős érte) nemzés;\nörökítő anyag; ördögi"
+head -- w12 : "maja mitológia: jelentése: a pokol ura"
+head -- w13 : "lakota mitológia: jelentése: alvilági szellem"
+head -- w14 : "japán/maláj mitológia: démon; szellem"
+@enduml
+```
+
+
+</div></div>
+
 
 ## Lábjegyzetek
 
