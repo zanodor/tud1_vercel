@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts"],"created":"2025-07-16T14:23","updated":"2025-09-28T21:27"}
+{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts"],"created":"2025-07-16T14:23","updated":"2026-01-05T21:38"}
 ---
 
 
@@ -38,6 +38,13 @@ Valahol még szóltam arról a jelenségről is, amikor két hasonló alakú sz�
 A konfláció tipikus példáját láttuk [[C/Calendar\|calendar]] eredete kapcsán. Egyértelmű, hogy a `kelt` szó dátumra való használata a [[C/Call\|call]] (eredetéhez) hasonlósága miatt utóbb lett kihirdet értelemmel magyarázva.  
 
 Egy Quora válaszomra érkezett kommentben azt a kritikát kaptam, hogy a megoldások népetimológiaiak. Ott úgy próbáltam megközelíteni a választ kommentben, hogy inkább a magasabb szintű, szakrális mágusi értelmezést kell célul kitűzni. A népetimológia e szintű értelmezést aligha éri el. Az más kérdés, hogy a magyar paraszti tudásra és észre hallgatni lehet és kell. Ehhez képest az emberiséget kihasználó papságok éppen azok, akikre kevésbé kellene figyelni.  
+
+Ez a szemléletmód egy olyan alapvető egyenlettel írható le, amely összeköti a vallástörténeti és nyelvészeti torzításokat:  
+
+> [!important] Az alap-egyenlet
+> Ahogy a kereszténységről kimondták (Jackson és elődei, mint Massey, Frazer vagy Weigall), hogy **pogány gyökerű**, azaz alulról szerveződik a szerves műveltségből (mire a politikai judeo-kereszténység csak utólag rátelepedett), úgy a nyelvek sem bizonyos "kiválasztott" (szemita vagy indo-európai) fajok saját, elszigetelt termékei, hanem **természeti népek korábbi nyelvi rétegeinek szerves folytatásai**.
+
+Ezzel kapcsolódunk a [[J/Judeo-kereszténység\|judeo-kereszténység]] címnél is taglaltakhoz: a nyelvészeti és teológiai "szakértők" ugyanazt a hatalmi technikát alkalmazzák – elvágják a gyökereket, hogy saját dogmáikat ültethessék a helyükbe.
 
 ## Népetimológia – későbbi szóval eredetit magyarázni
 
