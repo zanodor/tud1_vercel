@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor rokonság/","title":"Finnugor rokonság","tags":["containscallouts","containstransclusions"],"created":"2025-11-08T23:12","updated":"2026-01-01T17:01"}
+{"dg-publish":true,"permalink":"/F/Finnugor rokonság/","title":"Finnugor rokonság","tags":["containscallouts","containstransclusions"],"created":"2025-11-08T23:12","updated":"2026-01-05T21:37"}
 ---
 
 
 # Finnugor rokonság
 
 Bevezetést lásd [[F/Finnugor nyelvelmélet\|finnugor nyelvelmélet]] és [[F/Finnugor nyelvek\|finnugor nyelvek]].  
-Az alábbiak [[S/Suomi\|Suomi]] címnél is szerepeltek:  
-A finn ezen a szuomi néven azonosítja magát (ahogy mi magunk is magyaroknak, de mégis a legtöbben hunoknak, [[H/Hungár\|hungár]]oknak hívnak minket az árja nyelveken). Hogy valóban Víz/Tóföldinek nevezik-e magukat ([[S/SZU\|SZU]] = víz, [[O/OM\|OM]] = föld), elképzelhető, de több adat arra mutat, hogy nem erről van szó. Egyrészt, hogy a szuomi inkább lapp nyelven számi, mely az önazonosító (lásd [[S/Same\|same]] és [[S/Személy\|személy]]) szavuk, ahogy a komiknak a komi, magyarnak a magyar.  
+Az alábbiak [[S/Suomi\|szuomi]] címnél is szerepeltek:  
+A finn ezen a `szuomi` néven azonosítja magát (ahogy mi magunk is magyaroknak, de mégis a legtöbben hunoknak, [[H/Hungár\|hungár]]oknak hívnak minket az árja nyelveken). Hogy valóban Víz/Tóföldinek nevezik-e magukat ([[S/SZU\|SZU]] = víz, [[O/OM\|OM]] = föld), elképzelhető, de több adat arra mutat, hogy nem erről van szó. Egyrészt, hogy a `szuomi` inkább lapp nyelven `számi`, mely önazonosító (lásd [[S/Same\|same]] és [[S/Személy\|személy]]) szavuk, ahogy a komiknak a komi, magyarnak a magyar.  
 Valahol, vagy akár több helyen is említi Péterfai János, hogy a finnek szumer eredetűek. Nem csak a Szem(Ur)-hoz hasonló nevük, hanem az is alátámasztani látszik ezt a feltevést, hogy a hun nyelvben Nap-elnevezésként használt [[K/KUN\|KUN]] mind a sumerban, mind a régi finnben Holdat jelent. Ez csak úgy lehetséges, hogy az adott tájegységben a Nap nem adományozó, hanem pusztító jellegű (erről lásd még [[N/Nap#Nap – pusztító Nap\|Nap – pusztító Nap]]). Pap Gábor adata szerint is ezen helyeken a Hold-kultusz elterjedtebb.  
 
 #### Jankovics Marcell A Nap könyve...  
@@ -133,7 +133,7 @@ Először is, a saját véleményem hadd mondjam el, pontokba szedve:
 
 
 > [!check] &nbsp;
-> Alapvetően nem kéne ennyire fejvesztve menekülni a finnugor nyelvi rokonság elől, tekintve, hogy amikor a magyar nyelvé kevésbé, a finnugor nyelvek szavai máskor jobban megfelelnek olyan nyelvek szavainak, mint az etruszk, sumér vagy óegyiptomi. Ami azt bizonyítja, hogy a finnek nyelve sem onnan származik, ahonnan a magyarok nyelvének (sőt, fajának) eredetét helyezik.
+> Alapvetően nem kéne ennyire fejvesztve menekülni a finnugor nyelvi rokonság elől, tekintve, hogy amikor a magyar nyelvé kevésbé, a finnugor nyelvek szavai máskor jobban megfelelnek olyan nyelvek szavainak, mint az etruszk, sumér vagy óegyiptomi. Ami azt bizonyítja, hogy a finnek nyelve sem onnan származik, ahová a magyarok nyelvének (sőt, fajának) eredetét helyezik.
  
 
 </div></div>
@@ -147,9 +147,9 @@ A lényeg az, hogy nem vagy odavaló, ahová Isten teremtett, mert másnak is ke
 
 #### A tudományos világ álláspontjaiban beálló változások
 
-Ahogy [ezen](https://www.youtube.com/watch?v=8a6z6l_VOYg&t=248s) angol nyelvű videóban az adott helyen is elmondom, ez a tingli-tangli nem történhetne meg, ha megalapozott tudásra épülő igazságkeresés lenne az elsődleges. Itt hatalmi játszmák határozzák meg, hogy mit lehet, meddig lehet elmenni, stb. És ha a videóban bemutatott hun király nevét ([[M/Muager\|Maugerisz]]) az ötödik osztályosainknak eddig taníthatták, most mi lesz? Megyünk vissza a Mansi-Er összetételhez, hogy az lesz a [[M/Magyar\|magyar]] nevünk eredete? Néhány évente változtatjuk a nemzeti tananyagot úgy, hogy az Orbán kormányt még le sem váltották?  
+Ahogy [ezen](https://www.youtube.com/watch?v=8a6z6l_VOYg&t=248s) angol nyelvű videóban az adott helyen is elmondom, ez a tingli-tangli nem történhetne meg, ha megalapozott tudásra épülő igazságkeresés lenne az elsődleges. Itt hatalmi játszmák határozzák meg, hogy mit lehet, meddig lehet elmenni, stb. És ha a videóban bemutatott hun király nevét ([[M/Muager\|Maugerisz]]) az ötödik osztályosainknak eddig taníthatták, most mi lesz? Megyünk vissza a Mansi-Er összetételhez? Ismét az lesz [[M/Magyar\|magyar]] nevünk eredete? Néhány évente változtatjuk a nemzeti tananyagot úgy, hogy az Orbán kormányt még le sem váltották?  
 
-> [!fail] &nbsp;
+> [!note] &nbsp;
 > A [VálaszOnline](https://archive.ph/xx05A) nevű weboldal részletesen beszámol a változásokról.
 
 Tehát amíg a 2022. szeptemberében az RTL Klub [műsorában](https://www.youtube.com/watch?v=73Niwa2CSPA) is megjelent álláspont kedvező volt a magyar füleknek, mert a kárpát-medencei jelenlétünk folytonosságára utaló adatokkal szolgáltak, azóta a már leváltott főigazgató, Horváth-Lugossy Gábor ellenében feltűnő hangadók eredményei lettek meghatározók.  
