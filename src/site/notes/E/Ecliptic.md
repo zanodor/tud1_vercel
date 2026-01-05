@@ -1,11 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ecliptic/","title":"Ecliptic","tags":["Englishtexttranslated"],"created":"2023-11-17T06:56","updated":"2025-12-01T02:27"}
+{"dg-publish":true,"permalink":"/E/Ecliptic/","title":"Ecliptic","tags":["Englishtexttranslated"],"created":"2023-11-17T06:56","updated":"2026-01-05T21:38"}
 ---
 
 
 # Ecliptic
 
 Ekliptikus; ekliptika, azaz nappálya. Nos, valójában a Nap látszólagos útja, amit akkor tenne meg, ha a Föld körül keringene.  
+
+A `napút` kifejezést is ismerjük, bár annak kicsit más jelentése van:  
+
+> [!check] &nbsp;
+> Pap Gábor előadásában hangzik el:  
+> > A *Napút* kifejezést Fazekas Mihály (költő és csillagász) használta először nyomtatásban, egy szakcikk keretében 1826-ban [02:06](https://www.youtube.com/watch?v=KKpixzBXA8Q&t=126).
+> >
+> > A *Napút* (állatöv) rendszere, amivel a magyar műveltség foglalkozik, nem azonos a modern asztrológiával és a horoszkópokkal. Ez egy olyan keret, amelynek minden lényeges tudnivalója szabad szemmel ellenőrizhető, bárki számára hozzáférhető [07:37](https://www.youtube.com/watch?v=KKpixzBXA8Q&t=457)
 
 #### E. W. Bullinger The Witness of the Stars...  
 
