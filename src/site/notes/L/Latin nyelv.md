@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2026-01-01T17:02"}
+{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2026-01-05T21:38"}
 ---
 
 
@@ -74,7 +74,8 @@ Pulgram [[I/Indogermán nyelvészet#Homogén ős-indogermán alapnyelv kikövetk
 ### Nem-birodalmi szavak latinból való levezetésének képtelensége
 
 [[E/Ember#Ember szavunk Íjas értelme az Ikrek jegyére vonatkoztatva\|Ember szavunk Íjas értelme az Ikrek jegyére vonatkoztatva]] cím/alcímnél a spanyol `hombre` és `hambre` szavak, valamint például [[S/Sombre\|sombre]] címnél is a spanyol és más szavak kapcsán is arra jutottunk, hogy amit a nyelvészet eredeztetés gyanánt kihoz, az nem életszerű.  
-A spanyol és portugál szívet jelentő [[K/Karácsony\|Karácsony]] címnél taglalt szavak is tisztán láthatóan a latin birodalmi nyelvtől függetlenül jöttek létre.  
+A spanyol és portugál szívet jelentő, [[K/Karácsony\|Karácsony]] címnél taglalt szavak is tisztán láthatóan a latin birodalmi nyelvtől függetlenül jöttek létre.  
+A latin eredettel magyarázhatatlan, ezért kibúvóként [[H/Hangutánzó szavak\|hangutánzó]] eredettel megadott spanyol `pitar` = fütyül is jól mutatja, hogy a szavak mélyebb gyökerűek, és mind a [[F/FU\|FU]] gyökre mennek vissza.  
 
 ### Vulgáris latin nyelvek
 
@@ -87,7 +88,7 @@ Ezzel szemben a fentebb említett görög (és szláv, a magyaron kívül) a kel
 
 ## Latin lexikai szavak képzése felülíró módszerrel
 
-Az `instinct` szó francia változatának hallatán ötlött fel, hogyan történhetett az, hogy a magyar [[O/Ösztön\|ösztön]] szó már használatban volt az adott (már magyarnak nem hívható) nép nyelvében, majd jött a "lexikális rendőrség" és felülírta a saját (görögökre, rómaiakra jellemző) logikájával, mégpedig az [[I/IN\|in]]- beható fogalmát ötvözve bele. Az utótag tekintetében bármi (stinguere) megfelelt neki. Ki tudja hány ilyet követett el a latin nyelv. Összefésülést, konflációt.  
+Az `instinct` szó francia változatának hallatán ötlött fel, hogyan történhetett az, hogy a magyar [[O/Ösztön\|ösztön]] szó már használatban volt az adott (már magyarnak nem hívható) nép nyelvében, majd jött a "lexikális rendőrség" és felülírta a saját (görögökre, rómaiakra jellemző) logikájával, mégpedig az [[I/IN\|in]]- beható fogalmát ötvözve bele. Az utótag tekintetében bármi (stinguere) megfelelt neki. Ki tudja hány ilyet követett el a latin nyelv: összefésülést, konflációt.  
 Angol szavak etimológiai vizsgálatában láttam hasonlót: már meglévő szót egy másik hasonló szó kissé átalakít, főként konflációval.  
 A latin lexikai szófelvétel kapcsán biztos hogy igazam van: egységes homogén ólatin nyelv nem létezett; menet közben rakódott össze, ahogy ma a feketék által beszélt és második nyelvként beszélt angol nyelvet beszélő alakítja a nyelvet, főleg Amerikában: az új Rómában.  
 
