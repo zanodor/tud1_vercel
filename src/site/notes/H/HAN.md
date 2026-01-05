@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/HAN/","title":"HAN","created":"2025-04-25T20:34","updated":"2025-10-10T21:55"}
+{"dg-publish":true,"permalink":"/H/HAN/","title":"HAN","created":"2025-04-25T20:34","updated":"2026-01-05T21:38"}
 ---
 
 
@@ -10,7 +10,9 @@
 > An-U jelentése Égi-Magasságos, lehet válogatni az [[U/U\|U]] jelentései között. Az U önálló szó, a magánhangzók családjába tartozik, változata az Ü és Ő. De Anu isten neve mindentől függetlenül, az Ég, An nevéből képződött. [[D/Dialektikus ellentét\|Dialektikus ellentét]]e az An névnek az Ördög, amit Han, Hány alakban írunk. An az Ég, de változata az Ördög, sok név alatt. An ugyanis nálunk mindig Ég, ige és főnév, de éjjel fekete, nincs fenn a Napisten, illetve Napkirály. A fekete szín a végzet színe, az ördögök éjjel járnak elsősorban kísérteni. Ha Anu jellegtelen ősisten, aki már a szumerok korában is az idők homályába vész, akkor csakis magyar istenség lehet, mert mi írunk sok tízezer év óta, nem a szumirok. A Han, szinte teljesen biztos, az An szóból keletkezett, hasonlóan a Jan szócsoporthoz. A Han-Ság nagy mocsár, az ördög területe. [[H/Hany Istók\|Hany Istók]] nem más, mint Ördög Istók. Akit megszállt az ördög, azt Hánytatni kell, hogy kijöjjön belőle a rossz. Matematikában a Hány? kérdőszó az ördöghöz, a Mennyi? kérdőszó a Mennyhez (eredetileg Mén) tartozik. A hánykolódik, hányja-veti magát és egyéb szavaink a rossz állapotot írják le.  
 > De a Kor-Hány, Kur-Gán halotti építmények nevében is szerepel a Hány. A Kur és Kor itt egyértelműen Hegy, de előfordul Ország jelentése is. Ám a Kor lehet Kör is, mivel a felhányt hegyek kör alakúak, a Kör szó viszont a Nap sajátja, elterjedt a magyar földrajzi nevekben. Különösen a Gán szó fura, mert a király jelentésű Kán szóval is rokon, ami Gán és Hán alakra fejlődött a törököknél. A Kán magyar szó, a Kan változata, amiből kialakult a Gan és Han. Han Tengri értelme Tengri Király, de akkor mi a kapcsolat a Kán és az ördögöt jelentő Hán között? A magyar nyelv nem utóda a török nyelvnek, a származás éppen fordított, magyarból ered a török, de a Han, mint kínai Hanok népe, a Han Tengri, és a magyar Hany Istók, Hány kérdőszó, az An, vagyis égi eredetű szavakat jelöli, esetleg a bukott angyalt is, aki az Anból ered, de Hanná, ördöggé változott.  
 > A Hant szavunkra is ki kell térni. A Han az égi temetkező hely, magaslat. Lehet néhány deciméter, de lehetett régebben sok méter magas, vagyis Hegy, Kur. Manapság a temetőkben a nép Hant alá temetkezik. A régi, több ezer éves magyar temetkezések Korhányai, Kurgánjai mára kicsi dombokká szelidültek, a temetőkben járva ezrével láthatjuk népünk mai temetkezését.  
-> Még egy nevet meg kell vizsgálni, mielőtt tovább lehet haladni. Ez a név a Hangya. Emberi családnév is. A [[H/Hangya\|Hangya]] olyan lény, aki a tetemeket eltűnteti, felfalja, széthordja, de az Alvilágból, a földből jön elő, és oda is megy vissza. A termeszeknek nem rokona, a Hártyásszárnyúak közé tartozik, értelmi képességei nagyon magasak. A Hangya szó Ant az angoloknál. Mivel a Han-Gya magyar név egyértelműen a Han névre utal, a Gya meg a Ga alapján Ház, ezért a Hangya népek a Han alapján építenek Házakat, a házuk az Alvilágban van, ahol az ördögök uralkodnak, de nem mindenhol. Vannak hangyavárak is, mint az erdei hangyáknak, a vöröshangyák ugyanis várakat építenek.  
+> Még egy nevet meg kell vizsgálni, mielőtt tovább lehet haladni. Ez a név a Hangya. Emberi családnév is. A [[H/Hangya\|Hangya]] olyan lény, aki a tetemeket eltűnteti, felfalja, széthordja, de az Alvilágból, a földből jön elő, és oda is megy vissza. A termeszeknek nem rokona, a Hártyásszárnyúak közé tartozik, értelmi képességei nagyon magasak. A Hangya szó Ant az angoloknál. Mivel a Han-Gya magyar név egyértelműen a Han névre utal, a Gya meg a Ga alapján Ház, ezért a Hangya népek a Han alapján építenek Házakat, a házuk az Alvilágban van, ahol az ördögök uralkodnak, de nem mindenhol. Vannak hangyavárak is, mint az erdei hangyáknak, a vöröshangyák ugyanis várakat építenek.
+{ #sgpvca}
+
 
 A Han tehát egy sötét minőség, mely a Hun/[[H/Huny\|Huny]] fogalmában is látható. A [[K/Kán\|kán]] viszont fehér, fényes (kutyahitre/fejűségre utaló magas/vezetői/királyi és persze [[K/Kutya\|kutya]]) minőség. De [[G/Gond\|gond]] címnél is azt láttuk, hogy mintha a fényes "kanos/kutyás" Hund minőség sötét minősége lenne. [[O/Ördög#Ördög: fekete kutya; Isten: fehér kutya\|Ördög: fekete kutya; Isten: fehér kutya]] cím/alcímnél az egészet úgy magyaráztuk, hogy a kétféle minőség úgy járulhat ugyanahhoz, hogy belátjuk, egy van Szíriuszból és hozzá tartozik egy fehér kutyaként értelmezett isteni (innen Khoda/[[K/Khuda\|Khuda]]) és egy fekete kutyaként értelmezett ördögi/sátáni aspektus azzal, hogy ő választja két [[F/Fél\|fél]]re a téridőt. A [[S/Sárkány\|sárkány]] elemzésénél is azt láttuk, hogy van egy fényes Szár-Kan és egy fényhiányos Sár-Kan minősége.  
 [[H/Hun#Hun fény jelentése\|Hun fény jelentése]] cím/alcímnél, valamint [[H/Hunter\|hunter]] és [[F/Fény csökkenése\|fény csökkenése]] címnél volt már a [[F/Fény\|fény]] szavunkról, ilyen jelentésről és az alábbiakról:  
@@ -62,6 +64,54 @@ Benyák Attila (melyik?) cikkében ír Hun Achab-ról: a maja hagyományok szeri
 Megfelel nagyjából neki a (furcsamód nem perzsa eredetűnek tartott) perzsa `khanum` = asszonyom és a görög [[G/Gyne\|gyne]]. Hasonló eset lehet, mint a [[S/Sátán\|Sátán]] címnél taglalt Nárt eposz Satana-ja esetében.  
 Hány és mennyi témát lásd bővebben [[H/Hány\|hány]].  
 Lásd még [[H/Hiány\|hiány]].  
+
+## Han-hany-huny diagram
+
+A sötétbe borulással járó konyul, ellen(tartás), gonosz, stb. jelentésű szavakat Hun(or-Khamor)/Han (Kan) alapszavakra bontás után kiviláglik, hogy az egész földön egyazon szóalak és annak változatai terjedt el:  
+```plantuml-svg
+@startuml
+left to right direction
+
+skinparam BackGroundColor transparent
+skinparam rectangle {
+  BackgroundColor #ccbe78
+}
+skinparam card {
+  roundCorner 15
+  BackgroundColor #f9f5d7
+}
+
+rectangle "<b>HUN-HAN</b>" as head
+
+card "<color:#e7545c>huny</color>, <color:#e7545c>hanyatlik</color>" as w1
+card "<color:#e7545c>gonosz</color>" as w2
+card "<color:#e7545c>hamis</color>, <color:#e7545c>hanta</color>, <color:#e7545c>kancsal</color>" as w3
+card "<color:#e7545c>kantár</color>, <color:#e7545c>kontra</color>" as w4
+card "<color:#e7545c>Kani</color>, <color:#e7545c>gan</color>" as w5
+card "<color:#e7545c>hany</color>, <color:#e7545c>hány</color>" as w6
+card "**Hunor-Khamor** alakváltozatok:\n\n<color:#e7545c>hón</color> = váll, finn <color:#e7545c>kumara</color> = <color:#e7545c>homorú</color>\ngörög <color:#e7545c>kamara</color> = boltív, latin <color:#e7545c>camur</color> = görbe" as w7
+card "<color:#e7545c>kam</color>, <color:#e7545c>gom</color>, <color:#e7545c>kanyar</color>, <color:#e7545c>konyul</color>" as w8
+card "<color:#e7545c>hangya</color>, <color:#e7545c>kánya</color>, <color:#e7545c>sárkány</color>" as w9
+card "<color:#e7545c>geny</color>, <color:#e7545c>könny</color>, <color:#e7545c>kontár</color>" as w11
+card "**Hun Achab**" as w12
+card "**Han**" as w13
+card "<color:#e7545c>oni</color>, <color:#e7545c>hantu</color>" as w14
+
+head -- w1 : "jelentése: szem lehunyása; hanyatló félév"
+head -- w2 : "perzsa <color:#e7545c>gonah</color> = bűn; finn <color:#e7545c>huono</color> = rossz\nfinn, karéliai<color:#e7545c>kehno</color> = rossz, silány; ördögi minőség"
+head -- w3 : "latin <color:#e7545c>hamus</color> = görbe; nem egyenes\nnémet <color:#e7545c>hämisch</color> = gonosz; ferde/torz látás"
+head -- w4 : "jelentése: ellentartás; fék\nvö. elavult angol <color:#e7545c>gain</color>"
+head -- w5 : "japán : jelentése: Rák csillagkép és rák; sötét félév kezdete"
+w5 -- w6 : "huny, hanyatlik a Canis Maior\nEb (Kan) csillagképtől kezdve"
+head -- w7 : "latin <color:#e7545c>(h)umerus</color>; jelentése: váll\nvö. akkád **Kumaru**: nyári napfordulós Ív/Íj csillagkép"
+head -- w8 : "jelentése: ív; csomó; égi hajlás; lekonyulás"
+head -- w9 : "jelentése: alvilági lény; káros madár; fényhiányos"
+head -- w11 : "jelentése: anyagi (manicheizmusban a sátán felelős érte) nemzés;\nörökítő anyag; ördögi"
+head -- w12 : "maja mitológia: jelentése: a pokol ura"
+head -- w13 : "lakota mitológia: jelentése: alvilági szellem"
+head -- w14 : "japán/maláj mitológia: démon; szellem"
+@enduml
+```
 
 ## Han nép
 
