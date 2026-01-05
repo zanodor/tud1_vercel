@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2026-01-01T17:03"}
+{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2026-01-05T21:36"}
 ---
 
 
@@ -11,7 +11,7 @@ Először is a névhez használati utasítás. A [[F/Finnugor nyelvelmélet\|fin
 > A finnugor elnevezés is hibás, mivel az `ugor` valójában `ujgur` volt, és a finnek már régen kijelentették, hogy nincs közük ehhez az elmélethez [49:17](https://www.youtube.com/watch?v=uhEvgkwSf6w&t=2957). 
 
 > [!check] &nbsp;
-> Alapvetően nem kéne ennyire fejvesztve menekülni a finnugor nyelvi rokonság elől, tekintve, hogy amikor a magyar nyelvé kevésbé, a finnugor nyelvek szavai máskor jobban megfelelnek olyan nyelvek szavainak, mint az etruszk, sumér vagy óegyiptomi. Ami azt bizonyítja, hogy a finnek nyelve sem onnan származik, ahonnan a magyarok nyelvének (sőt, fajának) eredetét helyezik.
+> Alapvetően nem kéne ennyire fejvesztve menekülni a finnugor nyelvi rokonság elől, tekintve, hogy amikor a magyar nyelvé kevésbé, a finnugor nyelvek szavai máskor jobban megfelelnek olyan nyelvek szavainak, mint az etruszk, sumér vagy óegyiptomi. Ami azt bizonyítja, hogy a finnek nyelve sem onnan származik, ahová a magyarok nyelvének (sőt, fajának) eredetét helyezik.
 
 { #uotkkt}
 
