@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2025-09-28T21:19"}
+{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2026-01-05T21:36"}
 ---
 
 
@@ -144,7 +144,7 @@ Graves később a fentiek lényegét összefoglalja (a múzsákra hegyezi ki, de
 > Next, she becomes enlarged in number, though reduced in power, to a bevy of nine little departmental goddesses of inspiration, under the tutelage of the former male twin.  
 > Finally, the male twin, Apollo, proclaims himself the Eternal Sun, and the Nine Muses become his ladies-in-waiting. He delegates their functions to male gods who are himself in multiplication.  
 > —  
-> A Hármas Múzsa, vagy a Három Múzsa, vagy a Kilencszeres Múzsa, vagy [[C/Ceridwen\|Ceridwen]], vagy bárhogyan is nevezzük, eredetileg a Nagy Istennő költői vagy varázslói jellegében. Van egy fia, aki egyben a szeretője és az áldozata is, a Csillag-fiú, vagy a Gyarapodó Év Démona. Váltakozik a kedvében a tanista Pitonnal, a Bölcsesség Kígyójával, a fogyó év démonával, sötétebbik énjével.  
+> A Hármas Múzsa, vagy a Három Múzsa, vagy a Kilencszeres Múzsa, vagy [[C/Ceridwen\|Ceridwen]], vagy bárhogyan is nevezzük, eredetileg a Nagy Istennő költői vagy varázslói jellegében. Van egy fia, aki egyben a szeretője és az áldozata is, a Csillag-fiú, vagy a Gyarapodó Év Démona. Váltakozik a kedvében helyettesével, Pitonnal, a Bölcsesség Kígyójával, a fogyó év démonával, sötétebbik énjével.  
 > Ezután a Mennydörgés-isten (egy lázadó, a keleti patriarchalizmustól megfertőzött Csillag-fiú) udvarol neki, és ikrei születnek tőle, egy férfi és egy nő - a walesi költészetben Merddin és Olwen néven. Ő marad a varázslás istennője, de szuverenitásának egy részét, különösen a törvényhozás és az eskü tanúságtétele terén, átadja a Mennydörgés-istennek.  
 > Ezután megosztja a költői varázslás hatalmát ikrei között, akiknek szimbóluma a hajnalcsillag és az esthajnalcsillag, a női iker maga a hanyatlóban lévő, a férfi pedig a Csillag-fiú újjáéledése.  
 > Ezután számában megnövekszik, bár hatalmában csökken, és kilenc kis részleg istennőből álló, az ihlet kis istennőjévé válik, akik a korábbi férfi ikertestvér gyámsága alatt állnak.  
@@ -182,11 +182,12 @@ Tehát egyrészt Orion és Szíriusz egymástól el nem választhatósága adja 
 [[I/Időanya\|Időanya]] címnél is volt arról szó, hogy az istennőkből istenek lettek. [[K/Kronosz\|Kronosz]] is hímségi lett. Egyiptomban [[T/Thot\|Thot]] szintén hímségi lett. Indiában [[B/Brahma\|Brahma]], [[V/Visnu\|Visnu]]. Sumerben [[A/Anu\|Anu]] (mely szintén lehet Évanya értelmű; lásd [[A/Annual\|annual]]) is hímségi lett.  
 Van amikor az egyik névből egy másik nemű taghoz ez előző nevéből hasonlót gyártanak: pl. [[S/Széth\|Széth]] párja [[S/Satet\|Satet]]. [[A/Amphictyonis\|Amphictyonis]] címnél Robert Graves írja még pótalakról:  
 > Amphiktyon Amphiktyonisz férfi pótalakja volt, ahogyan Don Dublin and Lochlin királya az ír [[D/Danu\|Danu]] istennőjé.  
+- Nála a *tanist* kifejezést látjuk több helyen, "helyettes," "másik én" jelentéssel.
 
 Bakos Attila A Duna Evangéliuma című könyvében sok helyen már a patriarchátus rendjét veszi kiindulónak. Ilyet is le mert írni egy helyen: a "Csodaszarvas felesége!" A Csudaszarvas ünő; a hím egyed pedig a fia.  
   
 
-Robert Graves könyvének 400. oldalán a nők szexuális prédáiról szól röviden, majd a 401. oldalon kitér arra, hogy a patriarchalizmus térnyerésével a férfi kezdi [[U/Űz\|űz]]ni a nőt. Nos, a helyzet az, hogy (ezt Péterfai János is megírta) régen nem volt patriarchalizmus és matriarchalizmus. Fentebb már kitértem ennek csillagászati vonatkozásaira is (Orion és Szíriusz kapcsán).  
+Robert Graves könyvének 400. oldalán a nők szexuális prédáiról szól röviden, majd a 401. oldalon kitér arra, hogy a patriarchalizmus térnyerésével a férfi kezdi [[U/Űz\|űz]]ni a nőt. Nos, a helyzet az, hogy (ezt Péterfai János is [[A/AN, ÁN#^1184a2\|megírta]]) régen a magyaroknál nem volt patriarchátus és matriarchátus (az egyik fél sem lehet a másik elnyomója, nem mehet a másik rovására). Fentebb már kitértem ennek csillagászati vonatkozásaira is (Orion és Szíriusz kapcsán).  
 
 
 
