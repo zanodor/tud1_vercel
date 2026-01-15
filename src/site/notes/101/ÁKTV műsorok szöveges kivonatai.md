@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2025-12-20T12:19"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-01-15T16:57"}
 ---
 
 
@@ -18,6 +18,12 @@
 > <small>**Megjegyzés 3**: A web app keresője nem keres és nem talál ezen összefoglalókban!</small>
 
 **Videók archivált összefoglalókkal**:  
+
+**2026:**
+
+[260114CN! NEMZETÁRULÓ HABSBURG](https://rumble.com/v74c0hy-260114cn-nemzetrul-habsburg-kubnyi-tams-ktv.html)  [https://archive.ph/YGniw](https://archive.ph/YGniw)
+[260113CN! MADÉFALVIAK](https://rumble.com/v74ad9g-260113cn-madfalviak-kubnyi-tams-ktv.html)  [https://archive.ph/AE1hN](https://archive.ph/AE1hN)
+[260112CN! Dr. DRÁBIK HAGYATÉK](https://rumble.com/v748t52-260112cn-dr.-drbik-hagyatk-kubnyi-tams-ktv.html)  [https://archive.ph/NkhGy](https://archive.ph/NkhGy)
 
 **2025 és a korábbiak:**
 
