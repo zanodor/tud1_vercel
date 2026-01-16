@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sugar/","title":"Sugar","tags":["titleandheadingonedontmatch","containstransclusions","containscallouts"],"created":"2025-10-17T00:43","updated":"2025-11-08T02:06"}
+{"dg-publish":true,"permalink":"/S/Sugar/","title":"Sugar","tags":["titleandheadingonedontmatch","containstransclusions","containscallouts"],"created":"2025-10-17T00:43","updated":"2026-01-17T00:12"}
 ---
 
 
@@ -14,6 +14,8 @@
 > A Sugár matematikai név is.  
 
 A Sugar szó talán felbontható Sug-Ár elemekre is, Sok Ár jelentéssel, de valószínűbb, hogy az ind [[S/Surya\|Surya]] nevet is kiadó [[S/Szór\|szór]], [[S/Szúr\|szúr]] szavunk széthúzásáról lesz szó.  
+- Jól mutatja, hogy sugár = szór, hogy az olyan kifejezések, mint *műsor sugárzás* és *műsorszórás* egyenértékűek.
+
 De hogy mennyire [[S/Szarv\|szarv]] gyökével is azonosítható, jól látszik Kálmány Lajos Mythologiai nyomok a magyar nép nyelvében és szokásaiban: a hold nyelvhagyományainkban c. ![Sugar_image20251106013938319.jpeg|fix_dark fix_light right|400](/img/user/S/assets/Sugar_image20251106013938319.jpeg)1887-es dolgozatának 13. oldaláról, ahol egy klárafalvai adat alapján megállapítja, hogy a **Holdnak szarva, másként sugara** van.  
 
 > [!note] &nbsp;
