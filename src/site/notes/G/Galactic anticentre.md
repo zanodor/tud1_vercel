@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2025-09-28T21:24"}
+{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2026-01-17T00:11"}
 ---
 
 
@@ -106,9 +106,7 @@ John M. Jenkins Galactic Alignment című könyvében írja a Tejút-jelkép [[K
 > —  
 > A maja kozmológiával kapcsolatos kutatásaim során felfedeztem, hogy sok hagyományos kultúrában a Plejádok és a Skorpió-Nyilas szembenállást látnak – gyakran egy óriási égi kígyó farkának és fejének tekintik. Ebben a felfogásban a kígyó a Tejút, mivel a Tejút az égbolt egyik oldalán közvetlenül a Plejádok mellett halad el, a másik oldalon pedig a Skorpió-Nyilason keresztül. Mivel a Tejútközpont a Nyilas közelében van, a sugallt tengely valójában egy galaktikus szintű fogalmi dél-észak tengely, amely a Nyilas melletti Tejútközponttól a Földön keresztül a Plejádok galaktikus anticentrum régiója felé fut.  
 
-![assets/Galacticanticentre_image9.png|fix_dark fix_light|840](/img/user/G/assets/Galacticanticentre_image9.png)  
-
-{ #250903}
+![assets/Galacticanticentre_image9.png|fix_dark fix_light|840](/img/user/G/assets/Galacticanticentre_image9.png)  { #250903}
 
 
 A mellékelt diagram [[D/Dzsed\|dzsed]] és más címnél is szerepelt, és egyesíti a John M. Jenkins által fejtegetett központokat egy ábrán. A függőleges tengely elfektetve É-D orientációjú Tejút-világoszlopként is értelmezhető, ahogy erre Jankovics Marcell könyveiben ki is tér; lásd [[T/Tejút\|Tejút]].  
