@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2025-11-28T21:21"}
+{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2026-01-17T00:10"}
 ---
 
 
@@ -9,8 +9,7 @@ Fa szavunk az egyik legalapvetőbb, legelemibb fontos szavunk. A fa jelképről 
 
 #### Jankovics Marcell A fa mitológiája...
 
-...című könyvét.  
-Ezen passzus is onnan való:  
+...című könyvét. Ezen passzus is onnan való:  
 > Csomózott az idő végtelen kötele, így könnyebben araszolgatunk rajta. Kevésbé talányosan szólva, az égi jelenségek összjátéka: a földtengely ferdesége és billegése, a földforgás sebessége, a holdváltozások időtartama, a Föld Nap körüli keringése teszi lehetővé az idő periodizációját, azaz mérését: felosztását napokra, hónapokra, évekre. A régiek ezért az időt kettős természetűnek tartották. Végtelennek és megfordíthatatlannak (irreverzibilis idő), illetve körkörösnek (periodikus vagy ciklikus idő). Az előbbi az időszámítás és a keltezés alapja, az utóbbi a naptáré. Az idő e kétértelműsége a fa-szimbolikában is jelen van. Hosszú életével **a fa az irreverzibilis idő, az időmúlás jelképe** (az "idő vén fája", történelem fája, családfák, emlékfák), életének éves ritmusával viszont a periodikus időt, az örök körforgást jelképezi ([[E/Életfa\|életfa]], [[V/Világfa\|világfa]]).  
 
 #### Falvay Károly Nagyboldogasszony...  
@@ -36,8 +35,10 @@ A Zakar András Sumerian-Ural-Altaic Affinities féle PDF-ben helyet kapó Deime
 `A-Pa` előjön Varga Zsigmond Az ősmagyar mitológia című könyvének 297. oldalán, a lagasi Gudea templomtornyának neveként.  
 
 Fa szavunknál írja CzF:  
-> Rokonok vele takele nyelven Áfrikában: `fa`, továbbá a parszi és pehlvi `van`, zend `vana`, szanszkrit `vana` (erdő), persa `bun`, sínai `mu` (arbor; lignum), finn `pun`, német `Baum`, goth `bagm`, angol `beam`. A perzsa `bam`, s héber `bamah` pedig magast jelentenek, épen úgy mint az egyszerű magyar fe, mely alapfogalomban a növények legmagasabb nemét jelentő fa-val egy értelmű.  { #jh206l}
+> Rokonok vele takele nyelven Áfrikában: `fa`, továbbá a parszi és pehlvi `van`, zend `vana`, szanszkrit `vana` (erdő), persa `bun`, sínai `mu` (arbor; lignum), finn `pun`, német `Baum`, goth `bagm`, angol `beam`. A perzsa `bam`, s héber `bamah` pedig magast jelentenek, épen úgy mint az egyszerű magyar fe, mely alapfogalomban a növények legmagasabb nemét jelentő fa-val egy értelmű.  { #250603}
 
+
+A portugál `pau` = fa(darab) szót ugyan a latin `palus` = karó, cölöp szóból eredeztetik, de kérdés, hogy nem-e a fa = pa azonosság (és egyúttal egy korábbi nyelv) keresendő.  
 
 Jankovics Marcell ![assets/Fa_image3.png|fix_dark fix_light right|250](/img/user/F/assets/Fa_image3.png)  A fa mitológiája című könyvében is említi, hogy a fa lehet kettős (nőiségi és hímségi) megítélésű[^1]. [[E/Erikafa\|Erikafa]] címnél is írtuk:  
 Az [[E/Erikapeosz\|Erikapeosz]] Örök-Apa/Öreg-Apa értelmezése azért visszás, mert a Tejútfa inkább nőiségi, de Jankovics Marcell [[F/Fa és nő\|fa és nő]] címnél álló adata szerint (a törzs [[L/Lingam\|lingam]]-ként való értelmezése \[vö. fa – fasz\] nyomán) hímségi is lehet.  
@@ -93,7 +94,7 @@ Plinius szerint **az első templomok fák voltak**[^4]. Az alábbi sorok pedig e
 
 #### Péterfai János írja:
 
-> A faistennők gyakorlatilag azonosak a magyar nymfákkal, vagyis Nűmfákkal \[lásd még [[S/Sylph\|sylph]]\]. Lényegében a Fa a Tejút jelképe, ez a Világfa, a Tetejetlen Fa, a mai magyar mitológia nagyon ősi eszméje. A Fa termést ad, ez a [[G/Gyerek\|Gyerek]] \[mely szó is lehet [[T/Tree\|tree]] = fa vonatkozású\]. A Termés szó szerint Csillag-Ifjú. A Ter Csillag, a Mes Ifjú. A Tejút is csillagot ad, vagyis gyereket. Csodálatos szépségű képzetekkel van tele a magyar mitológia \[és az ahhoz kötődő nyelv\], amelyhez hasonló nincs is máshol. A többi mitológia a magyar mitológiának szétesett darabjait őrzi \[ahogy a nyelvek is a magyar nyelv szétesései\].  
+> A faistennők gyakorlatilag azonosak a magyar nymfákkal, vagyis Nűmfákkal \[lásd még [[S/Sylph\|sylph]]\]. Lényegében a Fa a Tejút jelképe, ez a Világfa, a Tetejetlen Fa, a mai magyar mitológia nagyon ősi eszméje. A Fa termést ad, ez a [[G/Gyerek\|Gyerek]] \[mely szó is lehet Terek/[[T/Tree\|Tree]] = fa vonatkozású\]. A Termés szó szerint Csillag-Ifjú. A `Ter` Csillag, a `Mes` Ifjú. A Tejút is csillagot ad, vagyis gyereket. Csodálatos szépségű képzetekkel van tele a magyar mitológia \[és az ahhoz kötődő nyelv\], amelyhez hasonló nincs is máshol. A többi mitológia a magyar mitológiának szétesett darabjait őrzi \[ahogy a nyelvek is a magyar nyelv szétesései\].  
 
 A latinban [[F/Fanum\|fanum]] is templomot, szentélyt jelentett (innen [[F/Fanatic\|fanatic]] és [[P/Profane\|profane]] szavak is).  
 
@@ -228,7 +229,7 @@ Lásd még [[F/Fa – ikerfa\|fa – ikerfa]].
 ## Fa – élőfa és holt fa
 
 Arról már volt szó, hogy az ember függőlegesen [[A/Áll\|áll]] és így [[E/ÉL\|él]], ahogy a fa is. A kidöntött fa meghal. A német `holz` = faanyag is [[H/Holt\|holt]] szavunkból ered.  
-Itt még csak annyit, mely nyelvekben használják ugyanazon szóalakot az élő és holt fára is. A magyar fa szón kívül a japán `moku` = fa és faanyag, az ainu `ni` = fa és faanyag szintén, a Borbola János adataként talált egyiptomi `ht` = fa(anyag) és (élő)fa jelentésű szó szóalakjának megfelelő walesi `coeden` = fa és coed = faanyag, valamint a svéd `träd` = fa és `trä` = faanyag szinte azonosak.  
+Itt még csak annyit, mely nyelvekben használják ugyanazon szóalakot az élő és holt fára is. A magyar fa szón kívül a japán `moku` = fa és faanyag, az ainu `ni` = fa és faanyag szintén, a Borbola János adataként talált egyiptomi `ht` = fa(anyag) és (élő)fa jelentésű szó szóalakjának megfelelő walesi `coeden` = fa és `coed` = faanyag, valamint a svéd `träd` = fa és `trä` = faanyag szinte azonosak.  
 
 ## Fa mint Tejútfa
 
