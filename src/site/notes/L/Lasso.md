@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lasso/","title":"Lasso","tags":["Englishtexttranslated"],"created":"2023-10-15T09:24","updated":"2024-10-25T22:31"}
+{"dg-publish":true,"permalink":"/L/Lasso/","title":"Lasso","tags":["Englishtexttranslated"],"created":"2023-10-15T09:24","updated":"2026-01-17T00:12"}
 ---
 
 
