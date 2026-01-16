@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-01-15T16:57"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-01-17T00:23"}
 ---
 
 
@@ -21,6 +21,8 @@
 
 **2026:**
 
+[260116CN! BÍRÁK HAMISSÁGA](https://rumble.com/v74fevi-260116cn-brk-hamissga-kubnyi-tams-ktv.html)  [https://archive.ph/jReU3](https://archive.ph/jReU3)  
+[260115CN! MEGYE, VAGY VÁRMEGYE？](https://rumble.com/v74dqj0-260115cn-megye-vagy-vrmegye-kubnyi-tams-ktv.html)  [https://archive.ph/qO9xS](https://archive.ph/qO9xS)
 [260114CN! NEMZETÁRULÓ HABSBURG](https://rumble.com/v74c0hy-260114cn-nemzetrul-habsburg-kubnyi-tams-ktv.html)  [https://archive.ph/YGniw](https://archive.ph/YGniw)
 [260113CN! MADÉFALVIAK](https://rumble.com/v74ad9g-260113cn-madfalviak-kubnyi-tams-ktv.html)  [https://archive.ph/AE1hN](https://archive.ph/AE1hN)
 [260112CN! Dr. DRÁBIK HAGYATÉK](https://rumble.com/v748t52-260112cn-dr.-drbik-hagyatk-kubnyi-tams-ktv.html)  [https://archive.ph/NkhGy](https://archive.ph/NkhGy)
