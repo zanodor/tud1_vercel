@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sofa/","title":"Sofa","created":"2023-11-08T05:36","updated":"2024-10-26T00:22"}
+{"dg-publish":true,"permalink":"/S/Sofa/","title":"Sofa","created":"2023-11-08T05:36","updated":"2026-01-17T00:12"}
 ---
 
 # Sofa
@@ -23,6 +23,11 @@ Más megoldás is létezhet a skandináv alvást jelentő szavakra. De azt le ke
 Sofa inkább azonos a [[S/Sick\|sick]] és a magyar [[S/Szűk\|szük]]ség, azaz a skandináv hiányt kifejező szavakkal.  
 Még az is jól mutatja, hogy helyes az elképzelés, hogy a norvég és dán nyelvben `jeg savner` = I miss, de a svéd nyelvben `jag saknar` jelenti ugyanezt, azaz a szóközepi hangokban K > H > V átmenetről van szó.  
 Ez történhetett az alvást jelentő szóval is: K> H > V. Az más kérdés, hogy a német és angol szó ezekből torzult-e.  
+
+## Arab 'szobh' szó
+
+Az arab `صبح` (`szobh`) = hajnal, reggel vagy virradat jelentésű (perzsába is átkerült) szó azért érdekes, mert az este és a reggel is kezdhet új napot és nem kizárt, hogy ezeknek valahol egy eredete lehet.  
+De ha nem, akkor is, a [[H/Hajnal\|hajnal]] címnél taglalt hajlás = ív; [[S/Szoba\|szoba]] szónál ívről volt is szó.  
 
 ## Lábjegyzetek
 
