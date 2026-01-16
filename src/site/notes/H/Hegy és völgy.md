@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2025-09-24T13:50"}
+{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2026-01-17T00:11"}
 ---
 
 
@@ -20,11 +20,15 @@ A [[G/Gyomor\|gyomor]] címnél említett szótagmegfordítás kapcsán annyit, 
 
 [[V/Völgy\|Völgy]] szavunk igen érdekes; előbb csak az tűnt fel, hogy [[F/Föld\|föld]] szavunknak felel meg: a völgy a lent létet, alsó állapotot mutatja, ahogy az alaki azonos föld is az éghez ([[E/Ég\|ég]] = [[H/Hegy\|hegy]]) képest lent van.  
 
-De ha jobban megnézzük, HeGy H>V szabályos váltással és [[L/L#L vendéghang\|l vendéghang]]gal kiadja VöLGy-et. Érdekes, hogy a hehezetes [[H/Hölgy\|hölgy]] idegen [[L/Lady\|lady]] (lásd még [[L/Lada\|Lada]], [[L/Latona\|Latona]], stb.) nevébe is [[L/LAD\|LAD]] = hegy jelentésű etimont láttunk bele.  
+De ha jobban megnézzük, HeGy H>V szabályos váltással és [[L/L#L vendéghang\|l vendéghang]]gal kiadja VöLGy-et. Érdekes, hogy a hehezetes [[H/Hölgy\|hölgy]] idegen [[L/Lady\|lady]] (lásd még [[L/Lada\|Lada]], [[L/Latona\|Latona]], stb.) nevébe is [[L/LAD\|LAD]] = hegy jelentésű etimont láttunk bele (Péterfai János gondolata alapján).  
 
 ### KUT(a)
 
 [[K/Kutya\|Ku-Ta]] a hegy, [[K/Kút\|kút]] az inverze.  
+
+### FEN (fenn) – fenék
+
+Az ún. pannon szócsoportban is megtaláljuk ezt a kettősséget. Lásd [[F/FEN\|FEN]] és [[F/Fenék\|fenék]].  
 
 ### SZIN
 
