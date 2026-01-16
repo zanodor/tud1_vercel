@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Forr/","title":"Forr","created":"2023-10-26T02:49","updated":"2024-10-25T18:52"}
+{"dg-publish":true,"permalink":"/F/Forr/","title":"Forr","created":"2023-10-26T02:49","updated":"2026-01-17T00:13"}
 ---
 
 
