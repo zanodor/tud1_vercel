@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/HAN/","title":"HAN","created":"2025-04-25T20:34","updated":"2026-01-05T21:38"}
+{"dg-publish":true,"permalink":"/H/HAN/","title":"HAN","created":"2025-04-25T20:34","updated":"2026-01-17T00:11"}
 ---
 
 
@@ -98,7 +98,7 @@ card "**Han**" as w13
 card "<color:#e7545c>oni</color>, <color:#e7545c>hantu</color>" as w14
 
 head -- w1 : "jelentése: szem lehunyása; hanyatló félév"
-head -- w2 : "perzsa <color:#e7545c>gonah</color> = bűn; finn <color:#e7545c>huono</color> = rossz\nfinn, karéliai<color:#e7545c>kehno</color> = rossz, silány; ördögi minőség"
+head -- w2 : "perzsa <color:#e7545c>gonah</color> = bűn; finn <color:#e7545c>huono</color> = rossz\nfinn, karéliai <color:#e7545c>kehno</color> = rossz, silány; ördögi minőség"
 head -- w3 : "latin <color:#e7545c>hamus</color> = görbe; nem egyenes\nnémet <color:#e7545c>hämisch</color> = gonosz; ferde/torz látás"
 head -- w4 : "jelentése: ellentartás; fék\nvö. elavult angol <color:#e7545c>gain</color>"
 head -- w5 : "japán : jelentése: Rák csillagkép és rák; sötét félév kezdete"
