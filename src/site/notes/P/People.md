@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/People/","title":"People","created":"2023-12-03T05:18","updated":"2024-10-25T23:46"}
+{"dg-publish":true,"permalink":"/P/People/","title":"People","created":"2023-12-03T05:18","updated":"2026-01-17T00:12"}
 ---
 
 
@@ -11,7 +11,7 @@ A Pop-Ul szó értelmezése...
 #### Péterfai János...
 
 ...segítségével:  
-> Latin neve a `Populus`, aminek jelentése "Nép". A monda szerint a rómaiak a rezgő nyárt ([[P/Poplar\|poplar]]) így nevezték el, mivel a levelei, mint az embertömeg, folytonosan mozog, izgalomban él. A római leírás igen képszerű, csak annyit kell hozzátenni, hogy a Populus név magyar eredetű, mint Populónia város neve is. A Pop Ul ugyanis magyarul a Pap, Papa Fia értelmet tartalmazza, a nép a papák fiai. A Pap, Papa név gyakran O magánhangzót kap, különösen a déli területeken, például An így lesz On.  { #vybm52}
+> Latin neve a `Populus`, aminek jelentése "Nép". A monda szerint a rómaiak a rezgő nyárt \[ld. [[P/Poplar\|poplar]]\] így nevezték el, mivel a levelei, mint az embertömeg, folytonosan mozog, izgalomban él. A római leírás igen képszerű, csak annyit kell hozzátenni, hogy a Populus név magyar eredetű, mint Populónia város neve is. A Pop Ul ugyanis magyarul a Pap, Papa Fia értelmet tartalmazza, a nép a papák fiai. A Pap, Papa név gyakran O magánhangzót kap, különösen a déli területeken, például An így lesz On.  { #vybm52}
 
 
 Hasonló név a Popol; lásd [[P/Popol Vuh\|Popol Vuh]]. 
