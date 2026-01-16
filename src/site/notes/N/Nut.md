@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nut/","title":"Nut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2025-05-29T16:57","updated":"2025-09-23T23:13"}
+{"dg-publish":true,"permalink":"/N/Nut/","title":"Nut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2025-05-29T16:57","updated":"2026-01-17T00:10"}
 ---
 
 
@@ -151,9 +151,7 @@ Ehhez képest a mindenben a Nagy Medve csillagképet kereső ...
 - Egyébként tényleg hasonlít hozzá, viszont fentebb más ábrázolásokban nem volt hangsúlyos a 108⁰-ot bezáró alakzat.  
 
 A Tejútanya különböző testrészeit, arról, hogy mi minek feleltethető meg, lásd például [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]]. (Illetve alant valamiféle összefoglalás készül.)  
-![assets/NutGoddess_image10.png|fix_dark fix_light|840](/img/user/N/assets/NutGoddess_image10.png)  
-
-{ #250903}
+![assets/NutGoddess_image10.png|fix_dark fix_light|840](/img/user/N/assets/NutGoddess_image10.png)  { #250903}
 
 
 Nutnak (szerepét később Ízisz[^8] és állatalakban [[H/Hathor\|Hathor]][^9] is átvette) más mitológiában megfelel a görög [[A/Artemisz\|Artemisz]] és Héra, római Diána, a germán [[F/Freyja\|Freyja]], magyar [[T/Tündér Ilona\|Tündér Ilona]]. (Teljesebb felsorolást lásd [[M/Magna Mater\|Magna Mater]].)  
