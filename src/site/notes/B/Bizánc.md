@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bizánc/","title":"Bizánc","created":"2024-10-24T16:10","updated":"2026-01-01T17:03"}
+{"dg-publish":true,"permalink":"/B/Bizánc/","title":"Bizánc","created":"2024-10-24T16:10","updated":"2026-01-17T00:12"}
 ---
 
 
@@ -20,9 +20,7 @@ Az ugyan lehetséges, hogy a Földre vetített zodiákusban a Vízöntőnek fele
 > #### Szántóné Veréb Irén Hollós Corvinus Hunyadi János...  
 > 
 > ...című anyagában is [elmondja](zotero://open-pdf/library/items/9WKSM2FH?page=259) ezt és mást is.  
-> Folytatást lásd [[N/NISZ#^94nmbm\|NISZ]].
-
-{ #u7x5re}
+> Folytatást lásd [[N/NISZ#^94nmbm\|NISZ]].{ #u7x5re}
 
 
 [[R/Rex\|Rex]] címnél pedig Götz László írja:  
