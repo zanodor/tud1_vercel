@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2026-01-05T21:37"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2026-01-17T00:11"}
 ---
 
 
@@ -84,8 +84,7 @@ Egyébként ezek voltak azok a hangok, melyeket [[O/Orrhang\|orrhang]]os [[H/Hun
 > labiális: B, BH, V, P, PH, F, M, U;  
 > dentális: D, DH, T, TH, Z, S, N;  
 > veláris: G, GH, K, KH, CH/Ḫ, H, N, J (Ng).  
-
-G-D átmenetről lentebb még lesz szó.  
+- G-D átmenetről lentebb még lesz szó.
 
 A 154-155. oldalon hozott szópárok kapcsán írja:  
 > Nem igazi metatézisek azonban a következő szópárok:  
@@ -106,6 +105,7 @@ G>B változás értelmezhető úgy, mint G>(V)>B változás. Az egyik ilyen isme
 Az ugor – uar – avar nevek voltaképpen egy és ugyanazok. [[A/Avar#Avar (Obor) – Ugor (Uhor) – Várhun\|Avar (Obor) – Ugor (Uhor) – Várhun]] cím/alcímnél volt erről szó legutóbb (és arról, hogy a közös kiinduló voltaképpen az alant kopt szó eredete kapcsán is előjövő Úr szavunk).  
 A kelta-ír `barantas` = garancia. A G>B változás hasonló az ugorka – uborka esethez, de egy másik pl. az alkudozik jelentésű tájszólásos árguvál, árgovál, árbuvál szóalakokban látott változás.  
 
+[[A/Ashmog\|Ashmog]] címnél is előjött d hang g helyett.  
 D>G változásra példa: Víg szavunk régiesen víd volt, CzF szótár szerint. (A közös a két hangban, hogy gy-re lágyul mindkettő.)
 
 ## M-N és kéthangos változások
