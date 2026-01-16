@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2025-09-28T21:17"}
+{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2026-01-17T00:10"}
 ---
 
 
@@ -195,7 +195,9 @@ Götz László Keleten kél a Nap című könyvében is a hivatalos felfogást m
 > | Terület            | 330 000 km²                            | 12 000 km²          |
 > | Csapadék           | 500–750 mm/év                          | 0–250 mm/év         |
 > | Jellemző talajtípus| feketeföld, barnaföld, öntéstalaj      | öntéstalaj          |
-> 
+>
+{ #i2ao2z}
+
 
   
 
