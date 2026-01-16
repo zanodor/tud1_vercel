@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Golyó/","title":"Golyó","created":"2025-05-24T19:04","updated":"2025-09-28T21:33"}
+{"dg-publish":true,"permalink":"/G/Golyó/","title":"Golyó","created":"2025-05-24T19:04","updated":"2026-01-17T00:12"}
 ---
 
 
@@ -17,7 +17,7 @@ Magyar Adorján másutt:
 
 Az [ezen](https://www.wisdomlib.org/definition/gula) oldalon talált pali `gula` = golyó, labda (cukor, melaszból).  
 
-Az olaszul tudó Magyar Adorján nem említi az olasz `coglion`, `coglione` = here szót, mely szintén golyó szavunkból ered.  
+Az olaszul tudó Magyar Adorján nem említi az olasz `coglion`, `coglione` = here szót, mely szintén golyó szavunkból ered, ahogy a német `Kugel` = golyó is.  
 A szó párja [[K/Kujon\|kujon]] címnél szerepelt: a heregolyó jelentésű spanyol `cojón`is nyilván közös eredetű a francia `coïon` szóval; ezek viszont lehetnek [[K/KAN\|KAN]] széthúzott, szóközepén jejes változatai, vagy akár szóba jöhet a lingam-kígyó (vesd össze magyar [[M/Mony\|mony]] lehet tojás és lingam jelentésű szintén).  
 - [[C/Csúnya\|Csúnya]] címnél hasonló olasz szó jött elő.
 
