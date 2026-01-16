@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kadesh/","title":"Kadesh","tags":["Englishtexttranslated"],"created":"2023-11-03T02:51","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/K/Kadesh/","title":"Kadesh","tags":["Englishtexttranslated"],"created":"2023-11-03T02:51","updated":"2026-01-17T00:12"}
 ---
 
 
