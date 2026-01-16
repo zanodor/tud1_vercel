@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2025-09-28T21:16"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2026-01-17T00:09"}
 ---
 
 
@@ -143,9 +143,7 @@ Szintén ide tehető a tűzfúró-szerszám [[T/Terebra\|terebra]] címnél is s
 ![assets/Ijesnyil_image6.png|fix_dark fix_light|840](/img/user/I/assets/Ijesnyil_image6.png)  
 A képekhez tartozó Magyar Adorján féle magyarázatot lásd a lábjegyzetben[^7].  
 A saját diagramon pedig összefoglalva lásd, miként képzelhették el az eget.  
-![assets/Ijesnyil_image7.png|fix_dark fix_light|840](/img/user/I/assets/Ijesnyil_image7.png)  
-
-{ #250903}
+![assets/Ijesnyil_image7.png|fix_dark fix_light|840](/img/user/I/assets/Ijesnyil_image7.png)  { #250903}
 
 
 Borbola János ![assets/Ijesnyil_image9.jpeg|fix_dark fix_light right|360](/img/user/I/assets/Ijesnyil_image9.jpeg)  A keresztút című az Ősi Gyökér 2015/3-4. sz. megjelent cikkében mutatja be Hannig R.: Großes Handwörterbuch Ägyptisch-Deutsch című könyvéből adatát és a fentieknek megfelelő adatokat is szolgáltat. Amit ír, érdekes: az RMP43-as példájának 18. jele is a félgömb bemutatására a hímvesszőt, mint a gömb sugarát állítja példaképpen. (Az RMP a Rhind Matematikai Papirusz rövidítése.)  
