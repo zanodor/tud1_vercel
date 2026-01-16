@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/LI/","title":"LI","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-09T04:34","updated":"2025-10-25T02:37"}
+{"dg-publish":true,"permalink":"/L/LI/","title":"LI","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-09T04:34","updated":"2026-01-17T00:12"}
 ---
 
 
@@ -38,7 +38,10 @@ A `kurfli` viszont nem kerül szóba, és a kifli is ugyanúgy görbe, mint a [[
 A `virbli` ("kavarodás, zűrzavar") szó kapcsán adott magyarázatot vehetjük mérvadónak:  
 > A német `Wirbel` ('forgás, forgatag') átvétele a szillabikus l szokott feloldásával (mint `svindli`, `tipli`).
 
-Germán eredetű szavak (már-már teljes) listája (a fent említett öt kivételével): `gerstli`, `virsli`, `nudli`, `nokedli`, `hokedli`, `sámli`, `kurbli`, `kurfli`, `kugli`, `fangli` v. `fandli` v. `fándli`, `stopli`, `dekli`, `stangli`, `puszedli`, `tarkedli`, `bejgli`, `kamásli`, `fásli`, `pemszli`, `csúzli`, `tasli` v. `tacsli`, `frocli`, `rapli`, `kripli`, `cetli`, `sramli`, `rumli`, `stikli`, `bóvli`, `verkli`, `spicli`, `vinkli`, `virtigli`, `betli`, `pumukli`.   
+Germán eredetű szavak (már-már teljes) listája (a fent említett öt kivételével): `gerstli`, `vurstli`, `virsli`, `nudli`, `nokedli`, `hokedli`, `sámli`, `kurbli`, `kurfli`, `kugli`, `fangli` v. `fandli` v. `fándli`, `stopli`, `dekli`, `stangli`, `puszedli`, `tarkedli`, `bejgli`, `kamásli`, `fásli`, `pemszli`, `csúzli`, `tasli` v. `tacsli`, `frocli`, `rapli`, `kripli`, `cetli`, `sramli`, `rumli`, `stikli`, `bóvli`, `verkli`, `spicli`, `vinkli`, `virtigli`, `betli`, `pumukli`.   
+- A `kugligolyó` kifejezés pleonazmus, hiszen a német `Kugel` = golyó, sőt, a hangátvetést rendezve vissza is jutunk [[G/Golyó\|golyó]] szavunkhoz.
+
+
 A [[D/Dear\|dear]] címnél említett török `değerli` = értékes (drága, mondhatnánk) szóban a -li végződés nyilván melléknévképző.  
 
 Ha már török, a -li végződés megvan [[G/Göbekli Tepe\|Göbekli Tepe]] nevében, ahol Göbek = Köpek = kutya, és LI valóban lehet király. De nyilván ez a végződés már egy bejáratott, későbbi korból való.  
