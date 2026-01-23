@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2025-11-16T14:37"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2026-01-23T21:09"}
 ---
 
 
@@ -9,9 +9,113 @@ A mai tudomány dogmák rabságában tartja az emberiséget. Minden, különöse
   
 
 A mai "tudomány" valójában nem edukáció, hanem diktátum: diktálnak, mit kell elsajátítanunk. A görög-római racionalizmus tetejébe istenhit helyett valami politikai kotyvasztást, népek leigázását – mindezt a civilizáció jegyében persze – és hasonlókat látunk...már ha látjuk. Nem mindenki látja. Vissza is mondja a leckét. Hányszor kellett magyarnak, külföldinek is mondanom, hogy már nem az iskolában vagyunk.  
-Jól látszik a felfogásbeli különbség a Quora kérdező-válaszoló oldalon, ahol pl. a [[S/Sas#Kétfejű sas\|kétfejű sas]]ban Róma nyugati és keleti ágát keresik és egymást veregetik vállon, milyen jól tudják, holott, ahogy [ezen](https://qr.ae/pABY8R) Quora válaszomban is jelzem, Szibériában is megvan az ábrázolás. Akkor nem lehet Rómára vonatkozó.  
+Jól látszik a felfogásbeli különbség a Quora kérdező-válaszoló oldalon, ahol pl. a [[S/Sas#Kétfejű sas\|kétfejű sas]]ban Róma nyugati és keleti ágát keresik és egymást veregetik vállon, milyen jól tudják, holott, ahogy [ezen](https://qr.ae/pABY8R) Quora válaszomban is jelzem, Szibériában is megvan az ábrázolás. Akkor nem lehet Rómából kiindulni.  
 De egy másik, távol-keleti ellentételezést is hozhatunk, [[P/Pénz\|pénz]] szavunk eredete kapcsán: megint magukat járatják le, amikor latin eredetet gondolnak, holott a kínai nyelvben is szinte azonos szót használnak. 
 Lebuktatják magukat, de nem ismerik el, hogy ez az ő hibájuk lenne. Ők csak megbíztak a "rendszerben," és amúgy is a kínaiak, szibériaiak, magyarok rondák, nincs jó rap zenéjük, és a többi.  
+
+A gondokat részletesebben, komolyabban [ezen](https://qr.ae/pCJkVb) Quora válaszban tártam fel, mely szöveg magyar fordítását lásd:  
+> [!details]- &nbsp;
+> # A modern kor árnyéktudása
+> 
+> ## A szakrális keretek felszámolásáról és az értelmezés intézményes börtönéről
+> 
+> ## A jelen kor állapota
+> 
+> A modern világ uralkodó világnézete nem semleges, nem véletlen, és nem pusztán ideiglenes. Egy hosszú történeti folyamat eredménye, amelyet **szűkülés** jellemez: annak fokozatos beszűkülése, hogy mi számíthat valóságosnak, megismerhetőnek és értelmesnek. Számos hagyomány ezt az állapotot egy késői, „sötét” korszak sajátosságaként írja le — olyan időszakként, amelyben a minőségi, vertikális megértés visszahúzódik, és helyét a mennyiségi mérés, a technikai kontroll és az élettől elszakadt absztrakció veszi át.
+> 
+> Ezt a kort nem az intelligencia vagy az információ hiánya határozza meg, hanem a vertikális mélység elvesztése. A tudás ma horizontálisan terjeszkedik – több adat, több specializáció, több eszköz – miközben vertikálisan összeomlik, elszakítva a metafizikai alapoktól, a szimbolikus koherenciától és a szakrális tájékozódástól. Ebben a kontextusban a jó és rossz fogalma is ellaposodik, elsősorban horizontális síkon létezve, mivel az a transzcendens vertikális dimenzió, amelyet gyakran isteni vagy szakrális forrással társítanak, egyre inkább hiányzik. A mai világ alapvető válsága ezért nem elsősorban politikai vagy gazdasági természetű, hanem **ontológiai**: annak válsága, hogy mit tekintünk létezőnek és mit engedünk egyáltalán számításba venni.
+> 
+> Ebben az állapotban a modern tudomány nem csupán megismerési módszerként működik, hanem **civilizációs szűrőként**. Meghatározza, milyen kérdések tehetők fel, milyen tudásformák számítanak elfogadhatónak, és melyeket zárja ki eleve „elavultként”, „nem tudományosként” vagy „értelmetlenként”. Ez a szűrés nem ártatlan. Rendszerszerűen kiszorítja azokat a régebbi, integrált kereteket, amelyekben tudás, jelentés és lét egységet alkotott.
+> 
+> Az eredmény egy olyan világ, amely racionálisnak és felvilágosultnak látszik, miközben **szándékosan redukált valóságmodellekre** épül — olyan modellekre, amelyeket véglegesnek állítanak be, noha eleve részlegesek.
+> 
+> ---
+> 
+> ## Az egész felváltása pótlékokkal
+> 
+> Amikor egy integrált tudásrend felbomlik, nem tűnik el nyomtalanul. **Helyettesítik.** Az eredeti megértés töredékei megmaradnak, de meggyengített, torzított vagy pusztán instrumentális formában, miközben az őket összetartó alapelvek eltűnnek.
+> 
+> Ez a cserefolyamat jól felismerhető mintát követ: leegyszerűsített narratívák, amelyekből hiányzik a szimbolikus mélység és a metafizikai összefüggés, fokozatosan kiszorítják a gazdagabb tudásformákat. Idővel a pótlék válik megszokottá, intézményesítetté és megkérdőjelezhetetlenné, míg az eredeti keret eltűnik a kollektív emlékezetből. Ami egykor az emberi életet jelentéshez és transzcendenciához kötötte, azt „mítosznak”, „népi hiedelemnek” vagy „pre-tudományos tévedésnek” minősítik.
+> 
+> Ebben a folyamatban **gyengébb magyarázó rendszerek** szorítják ki az erősebbeket — nem azért, mert jobban írják le a valóságot, hanem mert jobban illeszkednek az adminisztratív irányításhoz, a gazdasági kitermeléshez és az ideológiai menedzsmenthez. Ami fennmarad, nem a teljesség igazsága, hanem az, ami _hasznos_ az uralkodó rend számára.
+> 
+> ---
+> 
+> ## A részleges igazság mint hatalmi eszköz
+> 
+> A leghatékonyabb torzítás nem a nyílt hazugság. Hanem az **önmagát teljesnek feltüntető rész-igazság**.
+> 
+> Egy keret sok jelenséget pontosan leírhat, miközben észrevétlenül átértelmezi azok jelentését. Amint ezek az új definíciók megszilárdulnak, minden következtetés, amely a kereten belül születik, megerősíti az eredeti torzítást. A rendszer belülről konzisztensnek, empirikusnak és önkorrekciónak tűnik — miközben soha nem juthat el ahhoz a mélyebb struktúrához, amelyet eleve kizárt.
+> 
+> Így működnek a modern tudományos paradigmák, amikor módszerből **világnézetté** válnak. A mérések pontosak, a számítások helyesek, az előrejelzések működnek — de maga a **keret** határozza meg csendben, hogy a valóság mi lehet egyáltalán. Ami nem fér bele, azt nem cáfolják meg: egyszerűen láthatatlanná teszik.
+> 
+> A torzítás felelőssége ritkán tudatos. A legtöbb résztvevő már kész keretet örököl. Ebben képzik ki, ezért jutalmazzák, és ettől való eltérésre — gyakran kimondatlanul — büntetés jár. Idővel eltűnik a különbség modell és valóság között. A modell válik „azzá, ami van”.
+> 
+> ---
+> 
+> ## A mesterséges komplexitás mint figyelemelterelés
+> 
+> A modern tudásrendszerek egyik alapvonása a **lényegtelen komplexitás** elszaporodása. Ahelyett, hogy a figyelmet az alapstruktúrák felé terelnék, intézmények végtelen módszertani vitákat, technikai részletkérdéseket és belső szakmai konfliktusokat termelnek, amelyek lekötik az értelmiségi energiát anélkül, hogy az alapfeltevéseket veszélyeztetnék.
+> 
+> A komplexitás státusszimbólummá válik. A hozzáértést nem a belátás mélysége, hanem a zsargon és az eljárások ismerete jelzi. Az, aki az első elveket kérdőjelezi meg, naivnak számít; az, aki eligazodik a labirintusban, tekintélyt nyer — akkor is, ha soha nem érinti a lényeget.
+> 
+> Ez nem előrelépés, hanem **zajkezelés**. A megértés nem mélyül, hanem széttöredezik.
+> 
+> ---
+> 
+> ## 4. Kondicionálás és engedelmesség előállítása
+> 
+> Ez a redukált tudásrend nem kizárólag erőszakkal marad fenn. **Bele van nevelve** az emberbe.
+> 
+> A gyermek még ösztönösen vizsgálja az állításokat: megfelelnek-e a tapasztalatnak, van-e bennük fölösleges „ráadás”, hiányzik-e belőlük valami lényegi. Ez a belső ellenőrzés fokozatosan elhalványul. Az oktatás az előírt válaszok reprodukcióját jutalmazza, az eltérést bünteti. Az egyén megtanulja, hogy a siker nem a tiszta látáson, hanem az elfogadott értelmezések visszamondásán múlik.
+> 
+> Történeti példák mutatják, hogy amikor egy régi tudásrendet fel kell számolni, a támadás gyakran a **térbeli rendet, a szimbolikus orientációt és a rítusokat** célozza. Amint ezek megszakadnak, a hagyomány gyorsan meggyengül. A tudás gyökértelenné válik, absztrakttá és könnyen cserélhetővé.
+> 
+> ---
+> 
+> ## 5. A keret mint kognitív börtön
+> 
+> A modern gondolkodás egyik alapvető tévedése az, hogy **összekeveri az eszközt a valósággal**.
+> 
+> Ha a feladat „fény előállítása”, az elfogadott megoldások technológiaiak: infrastruktúra, eszközök, hálózatok. Ezek működnek — a kereten belül. De a keret közben kizárja a jelenség természetesebb értelmezéseit. A fény azonosul a technológiával, a technológia pedig a hatalommal és az ellenőrzéssel.
+> 
+> Ami a kereten kívül esik, azt nem alternatívaként, hanem értéktelenként kezelik. A börtön hatékonysága abban áll, hogy nem tűnik börtönnek. „Józan észnek” látszik.
+> 
+> ---
+> 
+> ## 6. Nyelvi aszimmetria és a kritika semlegesítése
+> 
+> A modern tudásrendszer saját határait **nyelvileg** is védi. Meghatározza, mi számít adatnak, bizonyítéknak, érvnek. Ami nem fordítható le erre a nyelvre, az kiesik a vizsgálatból.
+> 
+> Ez strukturális egyenlőtlenséget hoz létre: a régebbi, szimbolikus vagy kulturálisan eltérő keretekből érkező állításokat olyan mércével mérik, amely eleve alkalmatlan a befogadásukra. Amikor az értés elakad, a hibát a beszélőre hárítják, nem a mércére.
+> 
+> E ponton a vita gyakran elmozdul az igazságkereséstől az **identitásvédelem** felé. Már nem az a kérdés, hogy az állítás feltár-e valamit a valóságból, hanem az, hogy illeszkedik-e az intézmény önképéhez.
+> 
+> ---
+> 
+> ## 7. Miért áll ellen a rendszer a korrekciónak
+> 
+> A modern kereten belül annak lecserélése irracionális. Túl sok minden függ tőle: karrierek, pozíciók, presztízs, finanszírozás. A rendszer jutalmazza fenntartását és marginalizálja azokat, akik vakfoltjaira mutatnak rá.
+> 
+> A vita ezért aszimmetrikus. Az egyik fél a szabályokat védi, a másik magukat a szabályokat kérdőjelezi meg. Az eredmény előre eldől: amit nem lehet az uralkodó „valutában” elszámolni, azt értéktelennek nyilvánítják — függetlenül valódi jelentőségétől.
+> 
+> Így záródik be egy rendszer úgy, hogy közben nyitottnak mutatja magát.
+> 
+> ---
+> 
+> ## Zárszó: az árnyéktól az egész felé
+> 
+> A feladat nem az, hogy egy elszegényített kereten belül finomítsuk az elméleteket, hanem hogy felismerjük: **maga a keret történeti konstrukció**, amely gazdagabb, régebbi és integráltabb valóságmodelleket váltott fel.
+> 
+> A veszteség nem nosztalgikus. Strukturális. Az ember korábban egy olyan világban élt, amely egészként volt érthető. Ezt az orientációt tudatosan bontották le, mert korlátozta az absztrakció, az adminisztráció és az ellenőrzés hatalmát.
+> 
+> Akik a jelen rendet fenntartják — tudatosan vagy kondicionált engedelmességgel — a valódi megértés helyreállítása ellen hatnak. Nem feltétlenül rosszindulatból, hanem mert az általuk szolgált rendszer összeegyeztethetetlen az egésszel.
+> 
+> A továbblépéshez nem elég a kritika. Emlékeznünk kell arra, hogy a valóság nem merül ki a mérésben, hogy a tudás nem intézményi tulajdon, és hogy az igazság nem konszenzus terméke.
+> 
+> Vissza kell térni az **integritáshoz**: olyan megértési modellekhez, amelyek újra egyesítik a jelentést, a tapasztalatot és a létet — nem töredékekként, hanem élő egészként.
+
+
 
 Azzal folytatnám, hogy [[M/Magyar népművészet\|magyar népművészet]] címnél már szerepeltek olyan passzusok, melyek akár ide is tehetők lehettek volna.  
 
