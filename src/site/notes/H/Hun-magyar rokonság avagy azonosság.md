@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hun-magyar rokonság avagy azonosság/","title":"Hun-magyar rokonság avagy azonosság","created":"2024-03-01T21:37","updated":"2026-01-05T21:38"}
+{"dg-publish":true,"permalink":"/H/Hun-magyar rokonság avagy azonosság/","title":"Hun-magyar rokonság avagy azonosság","created":"2024-03-01T21:37","updated":"2026-01-24T00:10"}
 ---
 
 
@@ -7,7 +7,11 @@
 
   
 
+Wiki oldalát lásd itt: [A hun-magyar rokonság elmélete](https://hu.wikipedia.org/wiki/A_hun%E2%80%93magyar_rokons%C3%A1g_elm%C3%A9lete).  
+
 A [[F/Finnugor nyelvelmélet\|finnugor nyelvelmélet]]/[[F/Finnugor rokonság\|finnugor fajelmélet]] kiötlői, támogatói és karbantartói tagadják, de le kell szögezni, nekünk sem árt tudni, hogy rokonságról van szó (és milyen alapon) vagy azonosságról. Ahogy [[U/Ugor\|ugor]] helyen is említem, nagyon sok kutató megijed a finnugor nézetektől és fontos információk híján nem képes "is-is" felfogásban gondolkodni.  
+
+Alapvetően a probléma az, hogy a nemzeti oldalon gondolkodók is a napvallások idejének késői szakaszában és az intézményes vallások (ránk vonatkozóan: kereszténység) idejében működő és vizsgálható, mondhatjuk: patriarchális népek folyományaként értelmezik a magyart, holott a magyar a régebbi, sokkal inkább matriarchátusra, azon belül is csillagvallás idejére teendő minőség.  
 
 #### [[C/Carlile Aylmer Macartney\|Carlile Aylmer Macartney]] Pascua Romanurum...
 
