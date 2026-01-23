@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2025-10-30T02:33"}
+{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2026-01-24T00:10"}
 ---
 
 
 # Sumér és magyar nyelvek – melyik volt előbb
 
 Szögezzük le: a sumér a magyarnál fiatalabb nyelv, bár az is igaz, hogy a mai magyar szókincs több korból, rétegből áll össze. Tehát a [[S/Ság\|ság]] fő jelentése kapcsolható lehet vagy mondjuk úgy, megfejthető lehet a sumér alapszóból illetve annak segítségével. Viszont a sumér szó eredete akkor mi? Az óegyiptomi [[S/Sah\|Sah]]? És az óegyiptomi nem ugyanúgy ősi magyar nyelv (származéka)?  
+
+Bouda [[S/Sumér és magyar nyelvek – melyik volt előbb#^nehg7t\|lentebb]] szereplő adata alapján azt gondolhatjuk, hogy a sumér valamilyen finnségi és magyar nyelv keveréke lehetett.  
 
 #### Götz László Keleten kél a Nap...  
 
@@ -31,7 +33,9 @@ Az mondjuk igaz, hogy ezen új nyelvek is korábban magyarul beszélők nyelvei 
 > Ám akkor nem gondoltak arra, hogy magok a sumér-akkádok csak kései örökösei voltak ennek az előttük már réges-rég letűnt egyetemes értékű kultúrának, amelynek gyökerei az időtlen múltba, az aranykorba nyúlnak vissza.  
 
 Ezen utolsó sornak megfelelő vélemény Götz László Keleten kél a Nap című könyvének 881. oldalán is előfordul:  
-> K. Bouda szélesebb körben vizsgálta a szumér nyelv összefüggéseit. Rokonsági kapcsolatokra valló egyezéseket talált a nyugatkaukázusi nyelvek és a baszk között, amelyek részben a szumérban is megvannak, s ugyanakkor a tibetiben is előfordulnak. Összesen 87 szóegyeztetést sorol fel, amelyeknek majdnem fele a szumérban is adatolható. Végkövetkeztetésében óvatosan utal arra, hogy **a történelemelőtti időkben esetleg számolnunk kell egy hatalmas kiterjedésű ősnyelvszerű képződménnyel, amelybe a szumér is beletartozott** (l. Bouda 1938.). Bouda ezen eredményei azt jelentik, hogy az ősi anatóliai-mediterrán nyelvközösség a szuméron keresztül minden joggal kapcsolatba hozható a Mezopotámiától északra és keletre fekvő területek nyelveivel is, azaz a kutatás számára elsőrangú feladat lenne e térség régi és mai nyelveinek alaprétegi anyagát éppoly módszeresen átvizsgálni, mint ahogy ez Anatólia és a Mediterráneum esetében már részben megkezdődött. Annál inkább, mert az újabb régészeti leletek tényszerűen bebizonyították, hogy az elő-ázsiai kultúráramlat során ezeken a területeken is tömegesen jelentek meg elő-ázsiai földművelő telepesek, akik nyilvánvalóan magukkal vitték eredeti hazájuk nyelvjárásait is (vö. e. könyv 2. fej.).  
+> K. Bouda szélesebb körben vizsgálta a szumér nyelv összefüggéseit. Rokonsági kapcsolatokra valló egyezéseket talált a nyugatkaukázusi nyelvek és a baszk között, amelyek részben a szumérban is megvannak, s ugyanakkor a tibetiben is előfordulnak. Összesen 87 szóegyeztetést sorol fel, amelyeknek majdnem fele a szumérban is adatolható. Végkövetkeztetésében óvatosan utal arra, hogy **a történelemelőtti időkben esetleg számolnunk kell egy hatalmas kiterjedésű ősnyelvszerű képződménnyel, amelybe a szumér is beletartozott** (l. Bouda 1938.). Bouda ezen eredményei azt jelentik, hogy az ősi anatóliai-mediterrán nyelvközösség a szuméron keresztül minden joggal kapcsolatba hozható a Mezopotámiától északra és keletre fekvő területek nyelveivel is, azaz a kutatás számára elsőrangú feladat lenne e térség régi és mai nyelveinek alaprétegi anyagát éppoly módszeresen átvizsgálni, mint ahogy ez Anatólia és a Mediterráneum esetében már részben megkezdődött. Annál inkább, mert az újabb régészeti leletek tényszerűen bebizonyították, hogy az elő-ázsiai kultúráramlat során ezeken a területeken is tömegesen jelentek meg elő-ázsiai földművelő telepesek, akik nyilvánvalóan magukkal vitték eredeti hazájuk nyelvjárásait is (vö. e. könyv 2. fej.).
+{ #nehg7t}
+
 - Tekintsük sorsszerűnek, hogy éppen egy Bouda nevű kutató ismeri fel a lényeget, de előtte mások – talán éppen Götz könyvében megszólaltatott mások – is hasonló véleményt fogalmaztak meg. (Nem jól emlékeztem, a 414. oldalon arról volt szó, hogy a finnugor, indogermán és szemita nyelvcsaládok egy közös nyelvre való visszavezetése indokolt.)
 
 Persze ez lehet éppen óvatosság vagy a szumér erények kisebbítésének szándéka is közrejátszhat.  
