@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-01-17T00:23"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-01-24T00:09"}
 ---
 
 
@@ -21,6 +21,11 @@
 
 **2026:**
 
+[260123CN! TUTSEKOLÁS 2](https://rumble.com/v74r40e-260123cn-tutsekols-2.-kubnyi-tams-ktv.html)  [https://archive.ph/gnDh5](https://archive.ph/gnDh5)
+[260122CN! A HIMNUSZ](https://rumble.com/v74pcxw-260122cn-a-himnusz-kubnyi-tams-ktv.html)  [https://archive.ph/KTQm5](https://archive.ph/KTQm5)  
+[260121CN! A HÁLÓZAT](https://rumble.com/v74nk4e-260121cn-a-hlzat-kubnyi-tams-ktv.html)  [https://archive.ph/hpxJq](https://archive.ph/hpxJq)
+[260120CN! FIATALOKNAK](https://rumble.com/v74lxcm-260120cn-fiataloknak-kubnyi-tams-ktv.html)  [https://archive.ph/KMt2D](https://archive.ph/KMt2D)
+[260119CN! PROVOKÁTOROK](https://rumble.com/v74k2fc-260119cn-provoktorok-kubnyi-tams-ktv.html)  [https://archive.ph/DXmDC](https://archive.ph/DXmDC)
 [260116CN! BÍRÁK HAMISSÁGA](https://rumble.com/v74fevi-260116cn-brk-hamissga-kubnyi-tams-ktv.html)  [https://archive.ph/jReU3](https://archive.ph/jReU3)  
 [260115CN! MEGYE, VAGY VÁRMEGYE？](https://rumble.com/v74dqj0-260115cn-megye-vagy-vrmegye-kubnyi-tams-ktv.html)  [https://archive.ph/qO9xS](https://archive.ph/qO9xS)
 [260114CN! NEMZETÁRULÓ HABSBURG](https://rumble.com/v74c0hy-260114cn-nemzetrul-habsburg-kubnyi-tams-ktv.html)  [https://archive.ph/YGniw](https://archive.ph/YGniw)
