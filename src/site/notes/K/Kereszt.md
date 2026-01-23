@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2025-10-10T21:50"}
+{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2026-01-24T00:09"}
 ---
 
 
@@ -240,7 +240,7 @@ A [[G/Geocentrikus világkép\|geocentrikus világkép]] (ahonnan a képi anyag 
 ![assets/Kereszt_image25.png|fix_dark fix_light|840](/img/user/K/assets/Kereszt_image25.png)  
 Ilyen téridő keresztábrát ismerünk már a Kolumbusz előtti Amerikából is (lásd a közép-amerikai misték (mixtec) képeskönyvből származó ábrát elemzésével együtt [[F/Fa\|fa]] címnél).  
 
-Jankovics Marcell A Nap könyve című könyvében a Napvárosokról szólva mutatja be a Varga Géza által is említett egyiptomi település, falu hieroglifát, ami viszont nem körbe írt kereszt, hanem X alakot formáz:  
+Jankovics Marcell A Nap könyve című könyvében a Napvárosokról szólva mutatja be a Varga Géza által is említett egyiptomi település, falu hieroglifát, ami körben X alakot formáz:  
 ![assets/Kereszt_image26.png|fix_dark fix_light|840](/img/user/K/assets/Kereszt_image26.png)  
 ![assets/Kereszt_image27.png|fix_dark fix_light|840](/img/user/K/assets/Kereszt_image27.png)  
 Éppúgy, mint a mexikói Mexcaltitlan alaprajza – lásd csatolt képet.  
