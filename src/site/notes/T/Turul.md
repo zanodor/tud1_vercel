@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2025-11-16T01:28"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-01-24T00:09"}
 ---
 
 
 # Turul
 
 Ipolyi Arnold Magyar mythologia című könyvének 305. oldalán szól róla.  
+Varga Géza [ezen](https://archive.ph/bBMFh) blog posztjában adja hiteles ábrázolásait; a Képes Krónika ábrázolását ezek szerint nem veszi hitelesnek?  
 
 #### Péterfai János írja:
 
@@ -16,9 +17,12 @@ Ipolyi Arnold Magyar mythologia című könyvének 305. oldalán szól róla.
 [[M/Madár\|Madár]] címnél Érdy Miklós ![assets/Turul_image2.jpeg|fix_dark fix_light right|200](/img/user/T/assets/Turul_image2.jpeg)  adataként szerepelt az – alant adatokkal bőven jelentkező – Dúcz László cikkéből mellékelt képen is látható ordosi hun fejedelmi jelvény (korona) tetején elhelyezett madár kapcsán, hogy sasnál kisebb méretű sólymot kell keresni benne. ([[K/Kutya\|Kutya]] címnél is bemutattuk a fejék kiterített rajzát.)
 
 Itt a Turul-háznál álljunk meg egy pillanatra. A történelemhamisító finnugrász Akadémia [[A/Árpád#Árpád-ház\|Árpád-ház]]inak hívja királyainkat, de Kubínyi Tamás szerint is minimum Álmos-házinak kellene hívni, ugyanakkor már a Kézai geszta és a ![assets/Turul_image1.jpeg|right|200](/img/user/T/assets/Turul_image1.jpeg)  Képes krónika is szól arról, hogy Atilla királyi pajzsán Turul volt.  
-Az "[[A/Árpád#Árpád-ház\|Árpád-ház]]" egy mesterségesen létrehozott elnevezés. Nincs olyan, hogy Árpád-ház. Turul-ház volt. Atilla is már Turulos pajzzsal ábrázolt volt, míg [[A/Álmos\|Álmos]] születésének legendája is ezt a leszármazást mutatja, de krónikáink is folytonosságot mutatnak Atilla és a későbbi magyar királyok közt. Az Árpád-ház kifejezés a mesterséges [[H/Honfoglalás\|honfoglalás]] és a [[F/Finnugor nyelvelmélet\|finnugor nyelvelmélet]] mellé járuló, azokat kiegészítő, alátámasztó kívánó [[T/Történelemhamisítás\|történelemhamisítás]] kútfői.  
+
+> [!note] &nbsp;
+> Az "[[A/Árpád#Árpád-ház\|Árpád-ház]]" egy mesterségesen létrehozott elnevezés. Nincs olyan, hogy Árpád-ház. Turul-ház volt. Atilla is már Turulos pajzzsal ábrázolt volt, míg [[A/Álmos\|Álmos]] születésének legendája is ezt a leszármazást mutatja, de krónikáink is folytonosságot mutatnak Atilla és a későbbi magyar királyok közt. Az Árpád-ház kifejezés a mesterséges [[H/Honfoglalás\|honfoglalás]] és a [[F/Finnugor nyelvelmélet\|finnugor nyelvelmélet]] mellé járuló, azokat kiegészítő, alátámasztó kívánó [[T/Történelemhamisítás\|történelemhamisítás]] kútfői.
+
 Kézai Simon gesztájában, az 1280-as években keletkezett Gesta Hunnorum et Hungarorum (a Hunok és Magyarok viselt dolgai) című művében jelenik meg a latin szövegben magyarul a turul szó:  
-> "Banerium quoque regis Ethelae, quod in proprio scuto gestare consueverat, similitudinem avis habebat, quae Hungaricae turul dicitur, in capite cum corona. Istud enim banerium Hunni usque tempora ducis Geichae, dum se regerent pro communi, in exercitu semper secum gestavere."  
+> "Banerium quoque regis Ethelae, quod in proprio scuto gestare consueverat, similitudinem avis habebat, quae Hungaricae **turul** dicitur, in capite cum corona. Istud enim banerium Hunni usque tempora ducis Geichae, dum se regerent pro communi, in exercitu semper secum gestavere."  
 > "Ethele király címerén is, melyet tulajdon pajzsán szokott volt hordani, koronás fejű madár vala ábrázolva, melyet magyarul turulnak hívnak. Mert ezt a címert hordták volt magokkal a hunok mindig a hadban Gyeics vezér idejéig, míg magokat községben kormányozták." (Szabó Károly fordítása)  
 >
 > Ugyanez a Képes Krónika (és a Budai Krónika) szövegezésében így tűnik fel: (Banerium) "quoque regis Atile, quod in suo scuto gestare consueverat, similititudinem austuris in capite habebat cum corona. Quod signum Hungari, dum se regerent per communitatem, usque tempora ducis Geyche filii Toxun, in exercitu semper communium gestavere."  
@@ -319,7 +323,7 @@ Először is, látni kell, hogy a lentebb bemutatott ábrázolásokban ellentmon
 
 
 ![assets/Szentháromság_image1.png|fix_dark fix_light|840](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image1.png)
- 
+
 
 </div></div>
 
