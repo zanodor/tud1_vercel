@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2026-01-05T21:37"}
+{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2026-01-24T00:10"}
 ---
 
 
@@ -129,6 +129,7 @@ Ha már Afrika, [[H/Hunor és Magor#Hunor és Magor, azaz Magor és Hunor Makara
 Kan szerepel olyan latin eredetű szavakban mint `canere` = énekel (lásd [[C/Chant\|chant]]), [[C/Candid\|candid]], [[C/Candle\|candle]] és [[C/Candidate\|candidate]]. Hasonlóképp alakulhatott ki a héber szó `khannáh` = [[K/Kegy\|kegy]], kellem, mely CzF szerint [[A/Anna\|Anna]] személynevet adná. Természetesen khannáh ugyanúgy a kan szent, fehér, fényes (hímségi) jelentéseit takarja, mint a latin `canis` (lásd [[C/Candle\|candle]] és [[C/Canicular\|canicular]]) is. [[A/Anna\|Anna]] egyértelműen anya nevünkből alakult ki, ahogy Johanna is lehet Jó Anya és Susanna [[S/Szűzanya\|Szűzanya]].  
 
 Hasonló szó a perzsa `khâneh` = ház szó, mely nyilván olyasféle háztáj, melyet tűz (élet és étel) vesz körül (hasonló a latin [[L/Lares\|lares]], az otthon tüzére, melegére asszociálva). Ez valójában, mint kiderül, [[H/Hon\|hon]] szavunk.  
+A nahuatl `chan` (KAN) = ház (a [[T/Teocalli\|teocalli]] szóban is meglévő `calli` = ház mellett). A navajo nyelvben is K-N vázú: `kin` = ház.  
 
 A hawaii `kāne` = férfi a hun kan/kán szóval azonos, de a [[T/Tana\|Tana]] címnél is említett maori, tahitii `tāne` = férfi alak is efféle (K-T változás, ahogy fentebb is szó volt róla, megengedett, de könnyen lehet külön utakon járó a két szó).  
 
@@ -145,7 +146,7 @@ Az óegyiptomi Nagy Kutyának beillő csillagkép [[K/Kenemet\|Kenemet]] lehet K
 
 Ha már Egyiptom, [[K/Kohén\|Cohen]], [[C/Canopus\|Canopus]], [[P/Procyon\|Procyon]], [[C/Cynosure\|Cynosure]], [[S/Szigor\|szigor]] és [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél volt szó az óegyiptomi (eredetűnek tartott de talán csak csillag/csillagkép nevében használt?) `cahen` = kutya szóról, mely a kan középen hehes változata.  
 
-De ha már az égre tévedtünk, a szanszkrit Chândra = Hold is Kán-Dár ([[K/Kantár\|kantár]], mint [[C/Centre\|centre]]?) is Kanok/Kánok csillaga értelmű, ahogy nyilván a [[S/Szíriusz\|Szíriusz]] is. Egyébiránt a hindi `kendra` = középpont is hasonló hozzá. Mindezek legutóbb [[C/Centre\|centre]] címhez is bekerültek (egy legutóbb finn [[K/Kuntar\|kuntar]] = Holdleány névvel is magyarázva).  
+De ha már az égre tévedtünk, a szanszkrit **Chândra** = Hold is Kán-Dár ([[K/Kantár\|kantár]], mint [[C/Centre\|centre]]?) is Kanok/Kánok csillaga értelmű, ahogy nyilván a [[S/Szíriusz\|Szíriusz]] is. Egyébiránt a hindi `kendra` = középpont is hasonló hozzá. Mindezek legutóbb [[C/Centre\|centre]] címhez is bekerültek (egy legutóbb finn [[K/Kuntar\|kuntar]] = Holdleány névvel is magyarázva).  
 
 [[B/Bors vitéz\|Bors vitéz]] neve Patricia Monaghan-nél Bors de **Gan**is.  
 Orlane **Kanor** és Juri **Knorr** francia és német kézilabdázók ([[H/Hunor\|Hunor]]ból is alakulható) neve is érdekes. Az ír O'Connor név is ilyen (a Maguire név viszont nem Magor). Ha már a Kan-Úr összetételnél tartunk, lásd mindenképpen [[K/Khamor\|Khamor]].  
@@ -159,8 +160,6 @@ K-N vázú a zazaki nyelvű `khan` = régi (ezen a nyelven talán hal szavunkkal
 
 A laoszi `khan-thanuu` = íj szóban is megvan (az utólag megvan a thai tánoo és az urdu `dhanuš` = íj szavakban is). \[Ezen szavak [[D/Dame\|dame]], [[D/Danu\|Danu]] és [[I/Íj és a nyíl\|íj és a nyíl]] címnél is szerepeltek.\]  
 A legtöbb nyelven a tánc ilyen dans(i) alakú; kivétel a kún alakúak közül a tamil `koottu`, koreai `khum` és a maori `kanikani` (a malájban `tari`, a szlovénben `ples`, a kazah/kirgizben `bi(j)`).  
-
-A nahuatl `chan` (KAN) = ház (a [[T/Teocalli\|teocalli]] szóban is meglévő `calli` = ház mellett). A navajo nyelvben is K-N vázú: `kin` = ház.  
 
 A japán [[S/Sintoizmus\|sintoista]] papok neve **Kannushi**. (De a japán-kínai buddhista szerzetesek nevében, [[B/Bonze\|bonze]]-ban [[B/Bonc\|bonc]] nevünket és [[B/BON\|BON]] = Nap etimont találjuk.)  
 
@@ -194,7 +193,7 @@ Az [alábbi](https://en.wikipedia.org/wiki/Cherokee_spiritual_beliefs) oldalon e
   
 
 Akár Tejútanyára (állatalakja: [[K/Kanca\|kanca]] is) vonatkozó értelme is lehet, ahogy a legtöbb [[F/Fény és anyag\|fény és anyag]] címnél is szereplő hímségi-fény értelmű szónak (de megfordítva a [[V/Víz\|víz]] is lehet hímségi, ahogy [[O/Olt\|olt]] is lehet két ellentétes értelmű).  
-- [[H/Hun szavak\|Hun szavak]] címnél is szerepelt a szomáliai `caano` (kánó) = tej. (Mely azonos a maja `kan` = kígyó szóval, hiszen a Tejútról van szó. Ezen szavak [[C/Candle\|candle]] és [[K/Káin\|Káin]] címhez is bekerültek.)
+- [[H/Hun szavak\|Hun szavak]] címnél is szerepelt a szomáli `caano` (kánó) = tej. (Mely azonos a maja `kan` = kígyó szóval, hiszen a Tejútról van szó. Ezen szavak [[C/Candle\|candle]] és [[K/Káin\|Káin]] címhez is bekerültek.)
 
 
 Viszont a csanak és csónak szóban CSA, [[C/CSO\|CSO]] kell utaljon a vízre.  
@@ -216,6 +215,8 @@ A KAN fényhiányos értelmére látszik rámutatni a kelta-ír `gann` = alig (m
 
 
 ### Könny/Geny/KAN nemzés/nemzettség
+
+Kan (a Nap Kutyacsillagban állása) az a téridőbeli hely, amikor az év folyamán a Nap nemzőereje legteljében van (vö. a fentebb említett óegyiptomi `cahen`, továbbá `ken`/`qen` = erős, bátor), tehát a patriarchalizálódó népek ill. az uralkodó elit felfogásában a király a legalkalmasabb apa (hun-türk [[K/Kán\|kán]], [[K/Kagán\|kagán]], stb.; ótörök `qan` = apa = aki nemzett) minden utód számára.  
 
 [[G/Gene\|Gene]] címnél taglaltuk azon szavakat, melyek a könny/geny és KAN szóalakok által mutatnak a közben [[H/Hen\|hen]] helyen is együtt taglalt nemzésre/szülésre. Azok közül leginkább a Götz László által megadott sumér `GAN` = szül szó, valamint a saját gyűjtésű észak-kurd `gan` = baszni (lásd [itt](https://en.wiktionary.org/wiki/gan#Northern_Kurdish)) és mandarin-kínai `gàn` = cseszni, baszni (megcsinálni) szavak érdekesek.  
 
