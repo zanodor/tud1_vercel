@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2026-01-17T00:09"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2026-01-29T21:34"}
 ---
 
 
@@ -8,12 +8,12 @@
 #### Grandpierre Atilla A magyar nemzettudat történelmi alapjai...
 
 ...című, [innen letölthető](https://mega.nz/file/56USlBpC#VdRsxEWHyOwl0TQP_xS6twiz7f9C7O3b7YxfhI_G-Iw) cikkében írja:  
-> Az emberi civilizáció főútján a következő korszakalkotó lépés a nyíl, az íj használata. Az istállóskői barlangban talált leletek szerint az íjat a [[K/Kárpát-medence\|Kárpát-medencé]]ben találta fel a későbbiekben nyílhegyeiről [[G/Gravetti\|gravetti]] népnek nevezett \[számára előadásában inkább íjfeszítőnek nevezendő\] nép i. e. 35 000 körül (Gáboriné Csánk Vera, 1980, 177.). A mai Franciaország területén hasonló régészeti leletek csak 5-6000 évvel későbbiek (uo., 178). A gravetti műveltség a [[S/Selyemút\|Selyemút]] övezetében őrződött meg legtovább, egészen az újkőkorig, amikor a civilizáció fejlődésének vezérfonalát átadta a Kárpát-medencében kifejlődött Ősi Európa civilizációnak.  
+> Az emberi civilizáció főútján a következő korszakalkotó lépés a nyíl, az íj használata. Az istállóskői barlangban talált leletek szerint az íjat a [[K/Kárpát-medence\|Kárpát-medencé]]ben találta fel a későbbiekben nyílhegyeiről [[G/Gravetti\|gravetti]] népnek nevezett \[számára előadásában inkább íjfeszítőnek nevezendő\] nép i. e. 35000 körül (Gáboriné Csánk Vera, 1980, 177.). A mai Franciaország területén hasonló régészeti leletek csak 5-6000 évvel későbbiek (uo., 178). A gravetti műveltség a [[S/Selyemút\|Selyemút]] övezetében őrződött meg legtovább, egészen az újkőkorig, amikor a civilizáció fejlődésének vezérfonalát átadta a Kárpát-medencében kifejlődött Ősi Európa civilizációnak.  
 
 Folytassuk nyelvészeti síkon, azzal, hogy íj szavunk az [[I/Ív\|ív]] szó változata. Erről sok helyen, legutóbb [[F/Flash\|flash]] címnél is volt szó (ahol kimutattuk, hogy az alant szexualitás résznél részint érintett hímtag görög formájának, a [[P/Phallic\|fallosz]] szónak eredete is nyílvesszőre, Bál-Ős Bal-Orionra megy vissza).  
 Azóta [[I/I\|i]] címnél, külön alcímnél arra is kitértünk, hogy a szóvégi v/j nem is igazán tesz hozzá.  
 [[Y/Yew\|Yew]] címnél volt szó az óangol `īw` (Gerald Massey A Book of Beginnings című könyve második kötetének 380. oldalán `if` formát is közöl) szóról, mely ugye már nem íj, hanem [[T/Tiszafa\|tiszafa]] jelentéssel maradt fenn.  
-Lásd még [[N/Nyíl\|nyíl]] címszót, nemcsak etimológiai vizsgálatért. Asztrál-szexuális vonatkozást és phallosszal kapcsolatos adatokat lásd [[I/Íj csillagkép\|Íj csillagkép]] címnél. Bognár Ferenc Nimrudi hagyományunk Boldogasszony-tisztelete, és Fekete Madonnái című cikkének idevonatkozó adatait [[J/Jó#Io istennő\|Io]] istennőről, íj ajzásáról, stb. lásd ott ill. [[J/Jó\|Jó]] címnél.  
+Lásd még [[N/Nyíl\|nyíl]] címszót, nemcsak etimológiai vizsgálatért. Asztrál-szexuális vonatkozást és phallosszal kapcsolatos adatokat lásd [[I/Íj csillagkép\|Íj csillagkép]] címnél. Bognár Ferenc Nimrudi hagyományunk Boldogasszony-tisztelete, és Fekete Madonnái című cikkének idevonatkozó adatait [[J/Jó#Io istennő\|Io]] istennőről, íj ajzásáról, stb. lásd ott ill. [[J/Jó\|jó]] címnél.  
 
 Az íj és a nyíl rendszere mögött egy olyan ősi magyar csillagászati-filozófiai rendszer húzódik, mely elképesztő távlatokat nyit meg.  
 A nyíl a nőiség (a nőnek kell nyitni, nyílni; már eleve a nyíl a NI, NÉ = nő alapszóból képzett) és a nyílvessző a hímség. Erre alapul a Nyilas-Nyílás évköri rendszer. A magyar alapszavak megjelennek más nyelvekben; magyar [[N/Nyíl\|nyíl]] > \*níl > latin `nihil`, `nihilum` = semmi (a valami hiánya) (lásd [[N/Nihil\|nihil]]).  
@@ -136,11 +136,14 @@ Arról a [[D/Daughter\|daughter]], [[D/Dame\|dame]], [[D/Danu\|Danu]] és [[T/Ta
 - Folytatást lásd ott, bár sok érdekes nem hangzik el.
 
 [[M/Mestergerenda\|Mestergerenda]] és [[I/Ideg\|ideg]] címnél írottak szerint érthető meg (a régi magyarok ugyanis tudvalevőleg az íjat kifeszítő [[H/Húr\|húr]]t nevezték volt idegnek, aminthogy ezt mai irodalmi nyelvünk is nevezi még így), miről is van szó.  
-Magyar Adorján nagy szolgálatot tett rajzával is. ![assets/Ijesnyil_image5.png|fix_dark fix_light right|200](/img/user/I/assets/Ijesnyil_image5.png)  Ugyanis Id-Eg annyit tesz, mint Isten Ege, és mivel íjról is szó van és a fentiek alapján tudjuk, hogy az íj = ív = év = ég és a nyíl = Níl(us) = Tejút, valamint hogy a húr nemcsak bél jelentésű de a [[T/Teknős\|teknős]] és [[L/Lapos Föld\|lapos Föld]] címnél is említett [[H/Horizon\|horizon]] szónak kiadója is, hogy itt [[S/Szakrális geometria\|szakrális geometria]] újabb és egyben legalapvetőbb példájával állunk szemben.  
+Magyar Adorján nagy szolgálatot tett rajzával is. ![assets/Ijesnyil_image5.png|fix_dark fix_light right|188](/img/user/I/assets/Ijesnyil_image5.png)  Ugyanis Id-Eg annyit tesz, mint Isten Ege, és mivel íjról is szó van és a fentiek alapján tudjuk, hogy az íj = ív = év = ég és a nyíl = Níl(us) = Tejút, valamint hogy a húr nemcsak bél jelentésű de a [[T/Teknős\|teknős]] és [[L/Lapos Föld\|lapos Föld]] címnél is említett [[H/Horizon\|horizon]] szónak kiadója is, hogy itt [[S/Szakrális geometria\|szakrális geometria]] újabb és egyben legalapvetőbb példájával állunk szemben.  
 (Mellékelve lásd még a látható ég félgömbjét, a hupolagot, melyet Péterfai János [[C/Csuda\|csudá]]nak hív.)  
 
 Szintén ide tehető a tűzfúró-szerszám [[T/Terebra\|terebra]] címnél is szereplő képe, mely nagyon hasonló az íj és a nyíl együtteséhez.  
-![assets/Ijesnyil_image6.png|fix_dark fix_light|840](/img/user/I/assets/Ijesnyil_image6.png)  
+
+![assets/Ijesnyil_image6.png|fix_dark fix_light|840](/img/user/I/assets/Ijesnyil_image6.png)  { #fboj2b}
+
+
 A képekhez tartozó Magyar Adorján féle magyarázatot lásd a lábjegyzetben[^7].  
 A saját diagramon pedig összefoglalva lásd, miként képzelhették el az eget.  
 ![assets/Ijesnyil_image7.png|fix_dark fix_light|840](/img/user/I/assets/Ijesnyil_image7.png)  { #250903}
