@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Khoshgel/","title":"Khoshgel","created":"2023-11-05T03:41","updated":"2024-10-25T22:22"}
+{"dg-publish":true,"permalink":"/K/Khoshgel/","title":"Khoshgel","created":"2023-11-05T03:41","updated":"2026-01-29T21:35"}
 ---
 
 
@@ -21,4 +21,6 @@ Perzsa nyelven szép, gyönyörű.
 A megadott török szavak fogalmi viszonya egyébként azonos az orosz `krásznüj` = piros, vörös és `krászívüj` = szép szavak között.  
 
 Összefoglalva lásd [[V/Vörös és szépség\|vörös és szépség]].  
-Hasonló szó a [[G/Gőz\|gőz]] és [[K/Köszön\|köszön]] szavunknál is előjövő perzsa `khwush` = boldog, melyben úgy tűnik, az alapfogalom a hála, köszönet.  
+Hasonló szó a [[G/Gőz\|gőz]] és [[K/Köszön\|köszön]] szavunknál is előjövő perzsa `khwush` = boldog, melyben úgy tűnik, az alapfogalom a hála, köszönet, bár éppen lehet a ragyogás is, azaz [[K/KUS\|KUS]] irányában lehet gondolkodni.  
+
+Érdekes az azeri `gözəl gözlər` = csodás szemek (törökül `güzel gözler`), mert a [[S/SZEM\|szem]] már eleve a fényt fogadja be és a fényes adja a szép fogalmát is.  
