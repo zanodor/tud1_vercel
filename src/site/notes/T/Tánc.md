@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tánc/","title":"Tánc","tags":["containstransclusions"],"created":"2023-11-12T05:06","updated":"2024-10-26T00:34"}
+{"dg-publish":true,"permalink":"/T/Tánc/","title":"Tánc","tags":["containstransclusions"],"created":"2023-11-12T05:06","updated":"2026-01-29T21:34"}
 ---
 
 
@@ -47,30 +47,6 @@ Tánc, tántorog, teng-leng ([[T/Tango\|tango]]), [[T/Tengely\|tengely]], mind [
 - Lásd [[S/Sakk\|sakk]], és olyan [[L/Labdajáték\|labdajáték]]okat, mint például [[F/Football\|football]].  
 Lásd még Jankovics Marcell írását [[I/Ismétlés\|ismétlés]] és [[R/Ritual\|ritual]].  
 
-#### John Major Jenkins Galactic Alignment...
 
-...című könyvében írja ([[S/Szíriusz és a naprendszer\|Szíriusz és a Naprendszer]] címnél is szerepelt):  
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/m/mithra-es-a-bika/#o50g9i" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-> Sharron Rose advocates for the relationship between Isis and the serpent power that awakens seekers through their dancing embodiment of the Goddess energy. Having studied sacred dance in India on two Fullbright scholarships, Rose realized that dance movements told complex stories and in fact encoded lost wisdom.  
-> When she began studying Egyptian sacred dance and the rituals associated with Isis, she noticed similarities with the Tantric practices of India, in which the latent serpent power at the base of the spine is awakened to rise and unfold into the seeker's life.  
-> Similarly, Isis is the mother power at the root of the world that awakens and transforms (she resurrected Osiris). Thus, Isis performs a similar function to [[K/Kundalini\|Kundalini]], the creative force at the galactic root that manifests as the muladhara chakra within the human microcosm.  
-> Second, if Isis does indeed correspond to Sirius, then we can recall that Sirius occupies the same meridian as the Galactic Anticenter-they both pass through the southern meridian at the same time, although Sirius is lower in altitude.  
-> My idea here is speculative, though astronomically very true. Further research may show more clearly how Sirius may have been a marker for the galactic axis that emanates from the Galactic Center.  
-> —  
-> Sharron Rose az Isis és a kígyóerő közötti kapcsolat mellett érvel, amely az Istennő energiájának táncos megtestesülésén keresztül ébreszti fel a keresőket. Miután két Fullbright-ösztöndíjjal szakrális táncot tanult Indiában, Rose rájött, hogy a táncmozdulatok összetett történeteket mesélnek el, és valójában elveszett bölcsességet kódolnak.  
-> Amikor elkezdte tanulmányozni az egyiptomi szent táncot és az Íziszhez kapcsolódó rituálékat, hasonlóságot fedezett fel az indiai tantrikus gyakorlatokkal, amelyekben a gerinc alján lappangó kígyóerőt felébresztik, hogy felemelkedjen és kibontakozzon a kereső életében.  
-> Hasonlóképpen, Ízisz a világ gyökerénél lévő anyai erő, amely felébreszt és átalakít (ő támasztotta fel Oziriszt). Így Isis hasonló funkciót tölt be, mint [[K/Kundalini\|Kundalini]], a galaktikus gyökérnél lévő teremtő erő, amely az emberi mikrokozmoszban a muladhara csakraként nyilvánul meg.  
-> Másodszor, ha Isis valóban megfelel a Szíriusznak, akkor emlékeztethetünk arra, hogy a Szíriusz ugyanazt a meridiánt foglalja el, mint a Galaktikus Anticentrum - mindketten egyszerre haladnak át a déli meridiánon, bár a Szíriusz alacsonyabb magasságban van.  
-> Az elképzelésem itt spekulatív, bár csillagászatilag nagyon is igaz. További kutatások talán világosabban megmutatják, hogyan lehetett a Szíriusz a Tejútközpontból kiinduló galaktikus tengely jelölője.  
-
-
-</div></div>
-
-- Erre én is gondoltam, hogy mi van, ha csak marker, azaz jelzőcsillag Szíriusz és semmi egyéb.  
-
-A táncról Ipolyi Arnold Magyar mythologia című könyvének 600-601. oldalán szól.  
-Magyar Adorján Csodaszarvasának (a PDF) 383. oldalán ír a táncról. Az ott szereplő adatai alapján is gondoltam, hogy [[T/Trance\|trance]] akár tánc szavunkból vagy változatából is eredhet, de akár a fentebb említett [[T/Tantra\|Tantra]] is.  
+Táncról Ipolyi Arnold Magyar mythologia című könyvének 600-601. oldalán szól.  
+Magyar Adorján Csodaszarvasának (a PDF) 383. oldalán ír a táncról. 
