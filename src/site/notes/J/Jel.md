@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jel/","title":"Jel","created":"2023-10-26T03:36","updated":"2025-08-31T02:08"}
+{"dg-publish":true,"permalink":"/J/Jel/","title":"Jel","created":"2023-10-26T03:36","updated":"2026-01-30T22:55"}
 ---
 
 
@@ -10,7 +10,7 @@
 ...című könyvének 513. oldalától tallózik Lakó-Rédei A Magyar szókészlet finnugor elemei című etimológiai szótárából és szumér megfelelőkkel bizonyítja, hogy a célszerűen válogatott példáik közül, mennyi a finnugor eredetű szó:  
 > jel "Zeichen, Signal, Merkmal"; jegy "Zeichen, Kennzeichen, Merkmal"; az eredeti jelentés "nyom, folt, vonal; Spur, Fleck, Strich" lehetett.  
 > Finnugor alapalak: \*jälke.  
-> Szumér: gir₃ ="Fuss, Schritt, Weg, Pfad, Tritt, Spur" (láb, lépés, út, csapás, nyom);  
+> Szumér: `gir₃` = "Fuss, Schritt, Weg, Pfad, Tritt, Spur" (láb, lépés, út, csapás, nyom);  
 > `gug` = "Siegel" (pecsét, tulajdonjegy).
 
 Úgy tűnik, [[E/EL\|EL]] ([[E/ÉL\|ÉL]]) szavunk, Istennevünk jejes változata.  
