@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2025-09-23T22:54"}
+{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2026-01-30T22:54"}
 ---
 
 
@@ -91,7 +91,11 @@ Amiről nem volt szó, az konkrétan a szaporító szervrendszer. Figyeljük meg
 
 Ha ezen képeken látott formát összehasonlítjuk a [[L/Lily\|liliom]] (lásd a heraldikában a [[F/Fleur de lis\|fleur de lis]] címert) és (a kiindulónak tekintendő) [[T/Tulipán\|tulipán]] formákkal, kirajzolódik előttünk egy tágabb kép (melyet kibontva Gyárfás Ágnes adataival lásd még lentebb).  
 ![assets/Szarv_image5.jpeg|fix_dark fix_light|840](/img/user/S/assets/Szarv_image5.jpeg)  
-Ami pedig fantasztikus, hogy a latinban is éppen `cervix` névvel rögzítették (csak ott nyakat jelent és a szarvak alatt helyezkedik el).  
+
+Ami pedig fantasztikus, az az, hogy a latinban is éppen `cervix` névvel rögzítették (csak ott nyakat jelent és a szarvak alatt helyezkedik el), továbbá, hogy az aveszta nyelvben `garewa` = méh jelentésű (vö. `szarv` szavunk másik kentumos változataként ismertethető [ezen](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/korva) oldalon sorolt tehenet jelentő szláv szavakkal, pl. orosz `коро́ва` (`koróva`), lengyel `krowa`, szlovén és bolgár `kráva`).  
+![Szarv_image20260130185218275.jpeg|fix_dark fix_light|840](/img/user/S/assets/Szarv_image20260130185218275.jpeg){ #82fznl}
+
+
 Az ötletet egyébként a torontói egyetem hallgatójának...  
 
 #### Carla Ionescu The Enduring Goddess: Artemis and Mary, Mother of Jesus...
@@ -154,7 +158,7 @@ A [[S/Sarab#Görög σᾰ́ρᾰβος\|sarab]] címnél előjövő görög `σ�
 > The first mass-produced and well-diagrammed modern anatomy was that of Andreas Vesalias, whose De humani corporis fabrica became the gold-standard textbook for centuries. Vesalius published this work in 1543 – a decade after De Campos and colleagues list Michelangelo as finishing the Medici Chapel. More to the point, though, Vesalius did not depict the uterus the way we do today.  
 >
 > I asked noted professor of classical studies and expert in ancient medical history, Helen King, to clarify the timeline of female anatomical knowledge. King says that Vesalius "shows the womb very differently from our textbook image, focusing on the womb and vagina as one organ with the vagina as the 'neck of the womb.'" Notably, Vesalius never shows the ovaries or the fallopian tubes because, King notes, "Falloppio doesn't name the tubes until 1561." Vesalius's drawing of the vaginal canal is specifically rendered to evoke the image of a penis.  
-> *In this illustration from De fabrica humani corporis by Andreas Vesalius, the vaginal canal resembles an inverted penis*. (Taken from the following site: https://sites.fas.harvard.edu/~chsi/bok/02.html)  
+> *In this illustration from De fabrica humani corporis by Andreas Vesalius, the vaginal canal resembles an inverted penis*. (Taken from the following site: [https://sites.fas.harvard.edu/~chsi/bok/02.html](https://web.archive.org/web/20240818093203/https://sites.fas.harvard.edu/~chsi/bok/02.html))  
 >
 > Could Michelangelo have used an older anatomy text to inform his knowledge of the female anatomy? This is also unlikely. King mentions a 1522 text called Isagogae breves by Jacopo Berengario da Carpi, who depicts **the female anatomy as, essentially, a reverse version of the male anatomy**[^3] – 'female testicles' and 'spermatic vessels' are sort of like ovaries and fallopian tubes, but King concludes that "the overall effect is very different from the modern textbooks and doesn't look like the bucranium image at all!"  
 > *Berengario's depiction of a uterus in his Isagogae breues, perlucidae ac uberrimae, in anatomiam humani corporis a communi medicorum academia usitatam.*
@@ -179,7 +183,7 @@ A [[S/Sarab#Görög σᾰ́ρᾰβος\|sarab]] címnél előjövő görög `σ�
 >
 > Megkértem Helen King neves klasszikus tanulmányok professzorát és az ókori orvostörténet szakértőjét, hogy tisztázza a női anatómiai ismeretek idővonalát. King szerint Vesalius "nagyon eltérően mutatja be a méhet a tankönyveinkben látható képtől, a méhet és a hüvelyt egyetlen szervként kezelve, ahol a hüvely a 'méh nyaka'." Fontos megjegyezni, hogy Vesalius soha nem mutatja be a petefészkeket vagy a petevezetékeket, mert – ahogy King megjegyzi – "Falloppio csak 1561-ben nevezi el a vezetékeket." Vesalius rajza a hüvelycsatornáról kifejezetten úgy készült, hogy a pénisz képét idézze.  
 > ![assets/Szarv_image10.png|fix_light](/img/user/S/assets/Szarv_image10.png)  
-> *Ezen az Andreas Vesalius De fabrica humani corporis című művéből származó illusztráción a hüvelycsatorna egy fordított péniszre hasonlít*. (Az alábbi oldalról véve: https://sites.fas.harvard.edu/~chsi/bok/02.html)
+> *Ezen az Andreas Vesalius De fabrica humani corporis című művéből származó illusztráción a hüvelycsatorna egy fordított péniszre hasonlít*. (Az alábbi oldalról véve: [https://sites.fas.harvard.edu/~chsi/bok/02.html](https://web.archive.org/web/20240818093203/https://sites.fas.harvard.edu/~chsi/bok/02.html))
 >
 > Használhatott-e Michelangelo régebbi anatómiai szöveget a női anatómiai ismereteinek megalapozásához? Ez is valószínűtlen. King megemlíti Jacopo Berengario da Carpi 1522-es Isagogae breves című szövegét, aki **a női anatómiát lényegében a férfi anatómia fordított változatának ábrázolja**[^3] – a 'női herék' és a 'spermatikus erek' mintegy a petefészkekre és a petevezetékekre hasonlítanak, de King arra a következtetésre jut, hogy "az összhatás nagyon eltér a modern tankönyvektől, és egyáltalán nem hasonlít az ökörkoponyák képére!"  
 > ![assets/Szarv_image11.jpeg|fix_light](/img/user/S/assets/Szarv_image11.jpeg)  
@@ -260,14 +264,14 @@ Az alma paradicsom is. **Czeglédi Katalin** Gyárfás Ágnes A Halotti Beszéd 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-https://en.wiktionary.org/wiki/%CE%BA%CE%AD%CF%81%CE%B1%CF%82
+Lásd [itt](https://en.wiktionary.org/wiki/%CE%BA%CE%AD%CF%81%CE%B1%CF%82#Ancient_Greek).  
 
 [^2]: Lábjegyzet:  
 Lásd például itt:  
 https://web.archive.org/web/20240219121239/https://www.ontario.ca/page/anatomy-physiology-and-reproduction-mare
 
 [^3]: Lábjegyzet:  
-Az [alábbi](https://sites.fas.harvard.edu/~chsi/bok/02.html) oldalon így írnak róla:  
+Az [alábbi](https://web.archive.org/web/20240818093203/https://sites.fas.harvard.edu/~chsi/bok/02.html) oldalon így írnak róla:  
 Another recurrent myth was that the female reproductive organs were an inversion of the male's penis and testes, as described by Galen:  
 "Turn outward the women's, turn inward so to speak, and fold double the man's, and you will find the same in both in every respect...Think first please, of the man's \[external genitalia\] turned in and extending inward between the rectum and the bladder. If this should happen, the scrotum would necessarily take the place of the uterus with the tests lying outside, next to it on either side...Think too, please, of the converse, the uterus turned outward and projecting. Would not the testes (ovaries) then necessarily be inside it? Would it not contain them like a scrotum? Would not the next (the cervix), hitherto concealed inside the perineum but now pendant, be made into the male member? You could not find a single male part left over that had not simply changed its position." – Galen, as quoted in "The Making of the Modern Body: Sexuality and Society in the Nineteenth Century" by Catherine Gallagher and Thomas Walter Laqueur (University of California Press, 1987).  
 —  
