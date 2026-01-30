@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated"],"created":"2025-04-20T14:27","updated":"2026-01-17T00:11"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions"],"created":"2025-04-20T14:27","updated":"2026-01-30T22:54"}
 ---
 
 
@@ -66,11 +66,16 @@ T>K hangcserét ejt meg Magyar Adorján is:
 T>K hangváltozást látunk akkor is, amikor a magyar kutya és hindi `kutta` helyett a dravida telugu nyelvű `kukka` = kutya szót látjuk.  
 
 T>GY vagy GY>T változásra vagy azonosságra példa Magyar > Matar, Gyám > Tám és Győz > Tűz (utóbbi kettő inkább T>GY változásra példa).  
-[[K/KUS\|Kus]]-ról is elmondtuk, hogy egészen hasonló hozzá T>K váltással [[T/Tűz\|tűz]].  
+[[K/KUS\|Kus]] szóról is elmondtuk, hogy egészen hasonló hozzá T>K váltással [[T/Tűz\|tűz]].  
 
 ### B-D-G mássalhangzók változásai  
 
-A legszemléletesebb példa a [[G/Gömb\|gömb]] és [[D/Domb\|domb]] szavaink hangalaki és fogalmi párhuzama.  
+A furcsasága ezen változásoknak, hogy a g egészen más helyen képzett hang, mint a másik kettő, de mégis, mintha a magyarban találnánk meg a legszemléletesebb példát, a [[G/Gömb\|gömb]] és [[D/Domb\|domb]] szavaink hangalaki és fogalmi párhuzama révén.  
+
+> [!info] &nbsp;
+> Mivel a magyar nyelvben van [[G/GY\|gy]] hang, mi legalább mondhatjuk, hogy a 'g' és a 'd' közti átjárást ezen 'gy' adhatja meg; igaz, \*gyomb nincs meg a magyarban ezen példák átkötésére.
+
+
 
 Egyébként ezek voltak azok a hangok, melyeket [[O/Orrhang\|orrhang]]os [[H/Hungár\|hungár]] és más neveink ([[E/Ember\|ember]], [[A/Andor\|Andor]], stb.) kapcsán úgy említettem, hogy nehéz eldönteni, hogy az n/m hangok a betoldások, vagy ezek.  
 
