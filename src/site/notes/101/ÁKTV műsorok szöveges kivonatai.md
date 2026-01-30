@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-01-30T14:25"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-01-30T22:54"}
 ---
 
 
@@ -21,6 +21,7 @@
 
 **2026:**
 
+[260130CN! IRODA LOM](https://rumble.com/v752ri2-260130cn-iroda-lom-kubnyi-tams-ktv.html)  [https://archive.ph/JHvlH](https://archive.ph/JHvlH)
 [260129CN! ZÁSZLÓANYÁNK](https://rumble.com/v7513ju-260129cn-zszlanynk-kubnyi-tams-ktv.html)  [https://archive.ph/bFddu](https://archive.ph/bFddu)
 [260128CN! NYOLC ÉV MÚLVA](https://rumble.com/v74zezo-260128cn-nyolc-v-mlva-kubnyi-tams-ktv.html)  [https://archive.ph/7uUIz](https://archive.ph/7uUIz)
 [260127CN! A JAKAB-BOTRÁNY](https://rumble.com/v74xln8-260127cn-a-jakab-botrny-kubnyi-tams-ktv.html)  [https://archive.ph/OtwZH](https://archive.ph/OtwZH)
