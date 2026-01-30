@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zár/","title":"Zár","tags":["titleandheadingonedontmatch"],"created":"2023-11-19T03:41","updated":"2025-09-11T16:57"}
+{"dg-publish":true,"permalink":"/Z/Zár/","title":"Zár","tags":["titleandheadingonedontmatch"],"created":"2023-11-19T03:41","updated":"2026-01-30T14:25"}
 ---
 
 
@@ -31,4 +31,7 @@ A szolim-szarmata fejezetében pedig:
 
 [[S/Sorrow\|Sorrow]] címnél finn szavakkal is szó volt a témáról.  
 
-Amennyiben a zár főnévi értelmét vesszük alapul, még egyértelműbb a helyzet. A zár itt is a kör, hiszen kulcslyukba helyezzük a hímségi kulcsot. Ezen ideákról [[F/Fény és anyag\|fény és anyag]] címnél is volt szó, nemcsak [[K/KAR\|KAR]] bevezetőjében.  
+Zár igénkkel rokon a héber `צורה` (`curá`) = (körbezárt) forma és a héber `צַר` (`car`) = szűk, szoros szó is.  
+Hogy a zár = kör értelmű, az is mutatja, hogy az örményben `cir`/`dzir` = kör.  
+
+Amennyiben a `zár` főnévi értelmét vesszük alapul, még egyértelműbbnek mutatkozik a helyzet. A zár itt is a kör, hiszen a kulcslyukba helyezzük a hímségi kulcsot. Ezen ideákról [[F/Fény és anyag\|fény és anyag]] címnél is volt szó, nemcsak [[K/KAR\|KAR]] bevezetőjében.  
