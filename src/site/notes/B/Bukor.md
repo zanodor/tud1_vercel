@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bukor/","title":"Bukor","created":"2024-04-21T13:26","updated":"2025-06-07T19:51"}
+{"dg-publish":true,"permalink":"/B/Bukor/","title":"Bukor","created":"2024-04-21T13:26","updated":"2026-01-30T22:55"}
 ---
 
 
@@ -27,7 +27,7 @@ Bukor magyar vezetéknév is. Buk-Or Nap Úr értelmű.
 Szinte azonos vele [[B/Bokor\|bokor]].  
 
 Lásd még [[C/Csokor\|csokor]]. [[U/Ugor\|Ugor]], [[A/Akar\|akar]], [[A/Agár\|agár]], [[J/Jogar\|jogar]], bukor, [[Z/Zsugor\|zsugor]], [[C/Csokor\|csokor]], [[K/Kukor\|kukor]] mind nyári napfordulóra utaló szavak (is lehetnek).  
-[[K/Khamor#Khamor – Makor Íjazók\|Khamor – Makor Íjazók]] cím/alcímnél álló adatokat mégsem teszem ide, nagy terjedelme miatt, dacára annak, hogy több címről ([[F/Figure\|figure]] és más címtől) ide utaltam. Csak annyit tennék ide, hogy ami előjöhet B-K-R vagy B-G-R szóvázzal, az előjöhet M-K-R/M-G-R szóvázzal, a [[B/Bow\|bow]]-nak megfelelő hajol, ív/íj, stb. jelentéssel. Illetve amit sebtiben mégis idetennék, az ...
+[[K/Khamor#Khamor – Makor íjazók\|Khamor – Makor íjazók]] cím/alcímnél álló adatokat mégsem teszem ide, nagy terjedelme miatt, dacára annak, hogy több címről ([[F/Figure\|figure]] és más címtől) ide utaltam. Csak annyit tennék ide, hogy ami előjöhet B-K-R vagy B-G-R szóvázzal, az előjöhet M-K-R/M-G-R szóvázzal, a [[B/Bow\|bow]]-nak megfelelő hajol, ív/íj, stb. jelentéssel. Illetve amit sebtiben mégis idetennék, az ...
 
 #### Czeglédi Katalin A keleti magyar sezserék nyelvi tanulságai...
 
