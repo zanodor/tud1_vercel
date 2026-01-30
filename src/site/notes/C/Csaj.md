@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csaj/","title":"Csaj","tags":["Englishtexttranslated"],"created":"2024-04-23T00:13","updated":"2024-10-25T16:24"}
+{"dg-publish":true,"permalink":"/C/Csaj/","title":"Csaj","tags":["Englishtexttranslated"],"created":"2024-04-23T00:13","updated":"2026-01-30T22:55"}
 ---
 
 
@@ -24,4 +24,4 @@ Pető Imre Hun nyelvi tanulmányokjában álló adat szerint a szkíta/hun neve 
 Megvan a cigány eredetű svéd `tjej` = csaj szóban is, mely kapcsán a Wiktionary írja:  
 > Attested since 1851. From Tavringer Romani `tjej`, from Romani `ćhaj` (“girl”), a feminine form of `ćhavo` (“boy”). Derived from the root found in the Sauraseni Prakrit `chāva`, corresponding to Pali `chāpa` (“the young of an animal”).  
 > —  
-> 1851 óta igazolt. A tavringeri romani `tjej` szóból, a romani `ćhaj` (“lány") szóból, a `ćhavo` (“fiú") nőnemű alakjából. A sauraseni prákrit `chāva` gyökeréből származik, amely megfelel a páli `chāpa` (“állat kölyke") szónak.  
+> 1851 óta igazolt. A tavringeri romani `tjej` szóból, a romani `ćhaj` (“lány") szóból, a `ćhavo` (“fiú") nőnemű alakjából. A sauraseni prakrit `chāva` gyökeréből származik, amely megfelel a páli `chāpa` (“állat kölyke") szónak.  
