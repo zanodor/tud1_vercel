@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kamat/","title":"Kamat","created":"2026-01-23T21:07","updated":"2026-01-23T21:08"}
+{"dg-publish":true,"permalink":"/K/Kamat/","title":"Kamat","tags":["containstransclusions"],"created":"2026-01-23T21:07","updated":"2026-02-06T23:03"}
 ---
 
 
@@ -8,8 +8,8 @@
 A kamat fogalmáról már [[P/Pénz\|pénz]], [[G/Gombeen\|gombeen]], [[I/Interest\|interest]] és [[K/Kapitalizmus\|kapitalizmus]] címnél és azóta [[U/Uzsora\|uzsora]] címnél is volt szó.  
   
 
-Itt főleg/előbb a szó eredetét, jelentését vizsgáljuk.  
-Görögül `kamatosz` = sanyarú munka, keresmény, azaz zsidó hatás (itt még) nem érződik rajta: munkával kapcsolatos. A [[M/Munka\|munka]] szavunkat egyébiránt a szláv `muka` = gyötrelem szóból eredeztetik; nos, a zsidó felfogás ezen is érződik, mondhatnánk, de azóta másképp is megközelítettük.  
+Itt előbb a szó eredetét, jelentését vizsgáljuk.  
+Görögül `kamatosz` = sanyarú munka, keresmény, azaz zsidó hatás (itt még) nem érződik rajta: munkával kapcsolatos. A [[M/Munka\|munka]] szavunkat egyébiránt a szláv `muka` = kín, gyötrelem szóból eredeztetik; nos, a zsidó felfogás ezen is érződik, mondhatnánk, de azóta másképp is megközelítettük.  
 
 #### Práczki István Szittya Biblia...
 
@@ -30,6 +30,9 @@ Hogy mennyire a Napról van itt szó, mutatja, hogy az azonos hún [[K/Kamaty\|k
 Amiről nem volt szó, hogy mivel hozamot jelent, ezért azon germán [[C/Come\|come]] ige is megvan benne, mely annak a [[K/Khamor\|Khamor]] névnek is előrésze, mely előrész megjelenik a [[H/Hazard\|hazard]] címnél említett héber `hamar` = hazardírozik igében is. Ott is szóba került az anyagi nyereség fogalma.  
 
 Péterfai János a jelenlegi istent haszonistennek hívja. Nyilván [[M/Mammon\|Mammon]]ra, nemcsak Jehovára gondol.  
+
+Kubínyi Tamás egy Galamb Józsefre emlékező műsorában közli:  
+> Henry Ford a világ leggazdagabb embere lett [01:43:45](https://rumble.com/v75911u-260203cn-magyar-sors-kubnyi-tams-ktv.html?start=6225), és jól belelátott a pénzgyártás két módszerébe: a munkával és sikerrel gazdagodásba, valamint a passzív jövedelembe (banki kamatok) [01:43:57](https://rumble.com/v75911u-260203cn-magyar-sors-kubnyi-tams-ktv.html?start=6237). Az utóbbi szerinte a tunyasághoz, kapzsisághoz és telhetetlenséghez vezet [01:44:29](https://rumble.com/v75911u-260203cn-magyar-sors-kubnyi-tams-ktv.html?start=6269). Ford könyve a kufárokról [01:44:54](https://rumble.com/v75911u-260203cn-magyar-sors-kubnyi-tams-ktv.html?start=6294) ma is releváns, és a világ két természetét mutatja be: az isteni teremtett világ rendjét, vagy az Istennel szembeszálló, háborút és gyilkosságot szító hatalmat [01:45:36](https://rumble.com/v75911u-260203cn-magyar-sors-kubnyi-tams-ktv.html?start=6336).  
 
 [Ezen](https://youtu.be/nm0RbK1NX_o) a Pap Gábor által tartott [[B/Bakócz Tamás\|Bakócz Tamás]]ról, [[M/Medici\|Medici]]ekről, Fuggerekről, [[D/Dózsa György\|Dózsa György]]ről, [[R/Reneszánsz\|reneszánsz]]ról szóló, a Magyarországon háttérben működő szkíta kereszténységet bizonyító előadásban 1:12:35-nél szól a Kagylókürt folyóiratban (2001. 29. sz.) megjelent...
 
@@ -64,16 +67,16 @@ A pénz alapvető strukturális hibája tehát nem csak azon alapul, hogy felhal
 ...a [[K/Kali Yuga\|Káli Yugá]]ról (Márkandéja risi próféciája[^1] a Mahábháratából):  
 > "A Kali-jugában mindenki őszintétlen lesz. Az emberek csak a hírnév kedvéért gyakorolják az adakozást és áldozatokat. Egyre több lesz a bestiális ember. A bráhmanák a súdrák dolgát végzik majd, a súdrák pedig felvirágzanak. Bűnözők kerülnek a királyi trónra, az emberek életének hossza és testének magassága is csökken. A kereskedők csalók lesznek, hamis súlyt használnak. Egyre kevesebb lesz az erényes ember s mind több a bűnös. Az emberek pénzért adják majd a rizst; a papok a Védákat, a nők pedig ölüket bocsájtják áruba. A bráhmanák koldusbotra jutnak, a bölcsek kereskedőkké válnak. A bráhmanák ok nélkül hagyják megnőni hajukat és körmüket és senki sem követi majd hitelesen lelki életrendje előírásait. A tanítványok mestereik ágyát gyalázzák majd meg. Hét-nyolc éves gyereklányok teherbe esnek, ilyen korú fiúk apák lesznek. Tizenhat éves fiatalemberek megőszülnek, s az öregemberek továbbra is úgy akarnak élni, mintha fiatalok volnának. A feleségek a szolgákkal állnak össze, sőt utcanővé válnak, bár a férjük még él. Az ember ízlelő és szaglóképessége csökken, majd megszűnik. A tehenek egyre kevesebb tejet adnak, s kevesebb lesz a gyümölcs és a virág is, ezzel szemben egyre több varjú lesz. Az eső összevissza hull majd, sok helyütt nem nő majd sem fű sem fa. Az emberek tömegesen halnak éhen. Mindenfelé halomra ölik majd az embereket."  
 
-[Ezen](https://youtu.be/xWeQi7rQE98) ÁKA előadásban Kubínyi Tamás 15:30-nál beszél arról, hogy azt tanítják, hogy a középkorban nem volt kamat. Ez nem igaz. [[U/Uzsora\|Uzsora]] is létezett.  
+[Ezen](https://youtu.be/xWeQi7rQE98) ÁKA előadásban Kubínyi Tamás 15:30-nál beszél arról, hogy azt tanítják, hogy a középkorban nem volt kamat. Nos, tiltani tilthatták. [[U/Uzsora\|Uzsora]] is létezett.  
 Érinti a zsidó kamatot, mely hetente 2 százalék volt, de ha nem fizette vissza a kölcsönző egy évig, akkor a kamatos kamat 1000 százalékra is felrúghatott.  
 
 [[S/Szerencsés Imre\|Szerencsés Imre]] Wiki oldalán olvasható:  
-> A középkor végén a törvényes zsidó-kamat heti 2% volt. Amennyiben az adós nem fizette meg határidőre adósságát, azután kétszeresével, majd újabb határidő elmulasztása esetén annak kétszeresével – és így tovább – tartozott. Ha II. Lajos 1525. január 1-én száz aranyat kapott kölcsön Szerencsés Imrétől, 1526. január 1-én ezemégyszáz aranyat kellett visszafizetnie. Az alkincstárnok 1526 nyarán már nem adott kölcsönt a királyának, pont rosszkor, mert a szultán hadjárata miatt se pénz, se hadsereg nem volt, ezért Lajos ezüst étkészletét zálogosította el.  
+> A középkor végén a törvényes zsidó-kamat heti 2% volt. Amennyiben az adós nem fizette meg határidőre adósságát, azután kétszeresével, majd újabb határidő elmulasztása esetén annak kétszeresével – és így tovább – tartozott. Ha II. Lajos 1525. január 1-én száz aranyat kapott kölcsön Szerencsés Imrétől, 1526. január 1-én ezernégyszáz aranyat kellett visszafizetnie. Az alkincstárnok 1526 nyarán már nem adott kölcsönt a királyának, pont rosszkor, mert a szultán hadjárata miatt se pénz, se hadsereg nem volt, ezért Lajos ezüst étkészletét zálogosította el.  
 
 22:27-nél Kubínyi Tamás még elmondja, hogy 1520 környékén 11000 zsidó él Magyarországon az 5 milliós lakosságból. Azzal folytatja, hogy miként juthattak haszonélvezeti joghoz a zsidók.  
 
-[[J/Jézus\|Jézus]] mondja a kamatról (nem biztos, hogy pontos idézet):  
-Ha pénzetek van, kamatra ne adjátok, adjátok annak, akitől nem kapjátok vissza.  
+[[J/Jézus\|Jézus]] mondja a kamatról (Tamás evangéliuma):  
+> Ha pénzetek van, kamatra ne adjátok, adjátok annak, akitől nem kapjátok vissza.  
 
 A szkíta-kereszténységben a kamatszedés tilos volt. Hasonlóan az [[I/Iszlám\|iszlám]]ban, ahogy [ezen](https://youtu.be/1f8oACbgA6A) VNTV műsorban Drábik János is szól róla 30:00-nál: olyan pénz, amely mögött nincs teljesítmény, nincs munka, az iszlám szerint nem tehető zsebre.  
 Szávai Ferenc A helyi pénz gazdaságtörténeti vonatkozásai című írásában:  
