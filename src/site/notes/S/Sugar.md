@@ -1,15 +1,34 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sugar/","title":"Sugar","tags":["titleandheadingonedontmatch","containstransclusions","containscallouts"],"created":"2025-10-17T00:43","updated":"2026-01-17T00:12"}
+{"dg-publish":true,"permalink":"/S/Sugar/","title":"Sugar","tags":["titleandheadingonedontmatch","containstransclusions","containscallouts"],"created":"2025-10-17T00:43","updated":"2026-02-06T23:04"}
 ---
 
 
 # Sugar, sugár
 
+Kezdjük a magyar `sugár` szóval, annak is a hivatalos levezetésével:  
+> A sugár szó etimológiája: sugár (1479, 1541) származékszó, a hangutánzó eredetű [[S/Sug\|súg]] igéből keletkezett az -ár főnévképzővel. A suhogó hanghatás megjelenítésére szolgált, így a sugár eredeti jelentése 'suhogó tárgy' lehetett (Zaicz Gábor: Etimológiai szótár, 755. oldal).  
+
+> [!fail] &nbsp;
+> Mondhatjuk, hogy a nyelvet nem értők számára a mindenütt alkalmazható kibúvó itt is a [[H/Hangutánzó szavak\|hangutánzás]].  
+
+Másutt azt is megtudjuk, hogy szoros kapcsolatban áll a [[S/Sudár\|sudár]] szavunkkal, amely ugyanennek a tőnek volna egy alakváltozata.  
+
+Tehát az eljárás az, hogy a finnugor (uráli) "alapnyelvből" nem találtak rá semmit (pedig az [[E/ESZ\|eszik]] szó hivatalos levezetése után már tudjuk, hogy elég ha egy 'sz' hang megvan az uráli eredetűnek tartott nyelvek szavainak valamelyikében) és az ún. indoeurópai kapcsolatot nem merték bolygatni.  
+
+> [!info] &nbsp;
+> A hasonló alakú [[S/Szekér\|szekér]] szavunknál sem merték bolygatni.
+- Szekér: a Nap járműve, és miért ne lehetne – az [[I/Isten\|isten]] szavunk eredeténél kapóra jövő – jászokra hivatkozni, ugye akik már több mint egy évezreddel korábban éppen a Kárpát-medencében harcoltak a rómaiak ellen?
+
+Holott a szanszkrit `शुक्र` (`śukrá`) = ragyogó, tiszta (főnévként ragyogás; ondó(!)) jelentésű, [ezen](https://en.wiktionary.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B0#Sanskrit) Wiktionary oldalon taglalt szó megfelelt volna (vö. cigány `sukár` = szép és a hindu asztrológiában **Shukra** a Vénusz neve).  
+
+> [!check] &nbsp;
+> A Nap sugara, fénye más esetekben is a szépséggel és megtermékenyítő hatásával hozatott kapcsolatba. Vö. [[M/Magor\|Magor]] napisten – [[M/MAG\|mag]] = ondó.
+
 #### Péterfai János írja:
 
 > Csodálatos szépségű Sugár szavunk két részből áll, a Su és a Gár elemekből. A Su jelentése Kéz, a Gár jelentése Kar. Egy ősi képet kell elővenni, aminek alapján megérthetjük e magyar nevet. A Napisten sugarakat bocsát le a földre, a sugarak végén öt ujj látható. A Napból kinyúló Kar a Gár, a kar végén a Kéz a Su. A két szót összeolvasva Su-Gár formát kapunk. A Su-Gár tehát magyar nyelvű, az ősi magyar szómérnökök alkotása és Kéz-Kar a jelentése. Miért nem a Kéz-Kar forma terjedt el a Su-Gár forma helyett? Azért, mert a Kéz a Kész, Készít rokona, a kéz készítő funkciójára használt név, míg a Su a magasból lefelé sugárzás neve, talán éppen itt kapcsolódik a Su Levegőisten értelmével. A Napisten su-kara (su-gára) az embereket és a földeket simogatja. Egyiptomból szép ábrázolásokat ismerünk a Su-Gár szó pontos megértéséhez.  
 > A Napisten cirógató simogatása édes érzés. Ez a cukor érzés, mivel az édes és a cukor jelentéstanilag közel van egymáshoz. A Cukor szó tehát a Sugár változata, felbontása Cu-Kor, ami a Su-Kar változata.  
-> A Su, mint Kéz, formája lehet akár Szu, Cu, Csu, és talán Tu, Du, Zu is. Az angol `Sugar` ~~keresztnév~~ ejtése Szugar.  
+> A Su, mint Kéz, formája lehet akár Szu, Cu, Csu, és talán Tu, Du, Zu is.    
 > A magyar nyelvészet odáig jutott, hogy a Cukor szó eredetét az olasz `Zucchero`, Zuccher, Zuccar, vagy az újfelnémet `Zucker` nevekben látja, végső eredete egy perzsa szó lenne. A Sugár azonban egy Su ige (jelentése Suhog) származéka, ami alapján látjuk, nem értették meg ezt a nagyon ősi magyar szót.  
 > A Sugár matematikai név is.  
 
@@ -21,7 +40,7 @@ De hogy mennyire [[S/Szarv\|szarv]] gyökével is azonosítható, jól látszik 
 > [!note] &nbsp;
 > Azt már megállapítottuk, hogy a Csodaszarvas agancsa fény/lángjelkép, honnan [[C/Csuda\|csuda]] = ég (akár igeként is).
 
-Badiny Jós Ferenc A világuralom 5000 évvel előttünk és ma című Ősi Gyökér 2004./3. sz. megjelent cikkében, illetve annak Tudástárba [[J/Jahve#Földönkívüli messiásvárás a zsidó jahvizmusban?\|földönkívüli messiásvárás a zsidó jahvizmusban?]] cím/alcímhez tett soraiban említi a sumér(nak összeállított?) Su-Gar-Ra szót, tulajdonképpen antenna jelentéssel: a bemutatott istennő homlokán lévő, két szarv alakú végződés neve: "sugára". Az írástudók úgy mondják: "Ez köti össze az Istennőt az égiekkel."  
+Badiny Jós Ferenc A világuralom 5000 évvel előttünk és ma című Ősi Gyökér 2004./3. sz. megjelent cikkében, illetve annak [[J/Jahve#Földönkívüli messiásvárás a zsidó jahvizmusban?\|földönkívüli messiásvárás a zsidó jahvizmusban?]] cím/alcímhez tett soraiban említi a sumér(nek összeállított?) Su-Gar-Ra szót, tulajdonképpen antenna jelentéssel: a bemutatott istennő homlokán lévő, két szarv alakú végződés neve: "sugára". Az írástudók úgy mondják: "Ez köti össze az Istennőt az égiekkel."  
 [[K/Kutya\|Kutya]] és [[K/KUS\|kus]] címnél már volt szó szarvakról.  
 Molnár V. József Világ-Virág című könyvének 88-90. oldalán szól a sugár(zás)ról. Az a rész, amit Diószegi Vilmostól idéz (miszerint sugár, a Nap sugara hozza a lelket az anyai materiális szülés előtt), az [[A/Álmos\|Álmos]] és [[J/Jézus\|Jézus]] fogantatása kapcsán taglalt témához illeszkedik.  
 
@@ -45,7 +64,7 @@ A (turáni) akkád `zikaru` = férfi (lásd a [[T/Transzliteráció\|transzliter
 A perzsa és urdu `shohar` = férj ugyanezen sémi\[?\] eredetű szó. Az arab `zakar` (zekernek ejtik) = hím; hímtag értelműnek megadott (az arab `ḏakar` = hímtag szintén). Az alapértelem itt úr, mint férfi. Ahogy az ilyen alakú szavakat gyűjtőhelyként használt [[S/Sacchar-\|sacchar-]] címnél is szóltunk erről, a [[S/Szár\|szár]] = fényes, királyi, uras és a szar (piszok) értelmek megjelennek az utódnyelvekben is. Mivel a hímtag jelentés előjön az arabbal, arra is lehet gondolni, hogy a kutya képbe kerülhet. Igaz, az arab `kalb` = kutya nem ilyen alakú, de a szkíták és az óperzsa/perzsa `szaka`/`sag`/ság/[[S/Shah\|shah]] neve úr ([[U/UR\|UR]] is előjön sumérben kutyaként) szóval kiegészülve szintén alkothatja a szókapcsolatot, ahogy hasonlókról a hasonló alakú latin `socer` (lásd [[S/Social\|social]]) és [[S/Sógor\|sógor]] szavak kapcsán volt szó.  
 Az arab zakkarral azonos Zakar András neve is.  
 
-[[D/Dudás Rudolf\|Dudás Rudolf]] adata szerint a sumer `sahar` = kavics, homok, por, mely így a Szahara névvel párosul. Figyeljük meg, hogy a homok már számosság, nőiség. Ebben az esetben sár és nem szár fogalma keresendő.  
+[[D/Dudás Rudolf\|Dudás Rudolf]] adata szerint a sumer `sahar` = kavics, homok, por, mely így a Szahara névvel párosul. Figyeljük meg, hogy a homok már számosság, nőiség. Ebben az esetben a sár és nem a szár fogalma keresendő.  
 Tulajdonképpen kimondható, hogy a magyar nyelvben is már kimutatható az egybenlévő vagy összehúzott és a széthúzott forma. Hogy ez mennyire tudatos a magyar nyelv részéről vagy mennyire a (tájias) kiejtés változásának tudható be, nem tudni. Tény, hogy a [[F/FER, FÉR\|FER, FÉR]] alapszó megjelenhet széthúzva [[F/Fehér\|fehér]] és fejérként és [[S/Szár\|szár]] is suhár/sukár/sugár/szaharként, vagy akár (lásd erről [[D/Dame\|dame]] címet) [[T/TEN\|TEN]] is [[T/Tehén\|tehén]]ként és [[T/TÁT\|TÁT]]/[[T/Tátos\|tátos]] is lehet Tejút/Tejutas értelmű. Jelen esetben a `szár` = fény jelentése jelenik meg például a héberben [[Z/Zohar\|Zohar]] = fényként (más nyelvekben hajnal; lásd [[S/Sacchar-\|sacchar-]]) azért, mert az á hangot leírni nem tudták már (vagy akár kimondani sem).  
 A belső magánhangzó diftongusokra, kettős magánhangzókra tagolódás és ezen hangok közötti [[H/H, J, V\|H, J, V]] félhangok önkéntelen kiejtése figyelhető tehát meg. (Így lesz végül is Bál/Pálból Paul és a szlávban végül Pavel. De a magyar hó > havas változás is erről szól, illetve hasonló a Quorán általam taglalt fiú – fijú kiejtési eset).  
 Az tény, és nem is szabadna összetéveszteni, hogy a szóközepi torokhang olyan hasonló alakú szavakban, mint [[S/Szekér\|szekér]] és [[S/Sikér\|sikér]] megjelenik, de már a Szek/Szik/Sik = Nap neveként. Utóbbi szóval kapcsolatban érdekes, hogy glutén jelentésével éppúgy a cukorra és a melasz-szerű ragacsosságára is utal. (Így értjük meg a [[G/Glucose\|glucose]] szó (szőlő)cukor eredetét is.)  
@@ -56,4 +75,4 @@ A fényét szóró ([[S/Szór\|szór]] is ilyen szó, mint a szár) Napisten cir
 Lásd még [[S/Sug\|sug]].  
 
 Molnár V. József Világ-Virág című könyvének 182. oldalán írja, hogy a 3x3-as jelrendszer átlószimmetrikus alakja, a sugár természetű erő, a napsugár hegyén érkező lélek jelölője. Az ősi indiai hitvilágban, ahogy még itt írja, a "Királyok és a hősök mind-mind a Mennyei Fényesség testet öltött sugarai, az örök istenség lényegének parányai emberi alakban."  
-A sugár forgásképletéről folytatást lásd könyvében.  
+A sugár forgásképletéről folytatást lásd [Molnár V. József Világ-Virág című könyvében](https://mega.nz/file/N60mFJDI#DiiQtGtjNpeHrf6X9sk7AqfVC4HHwHOhwGwwbaer5A0).  
