@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mete/","title":"Mete","created":"2023-10-20T07:13","updated":"2024-10-25T23:27"}
+{"dg-publish":true,"permalink":"/M/Mete/","title":"Mete","created":"2023-10-20T07:13","updated":"2026-02-06T23:04"}
 ---
 
 
