@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2026-01-30T22:54"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2026-02-06T23:03"}
 ---
 
 
 # Tudomány
+
+> [!quote] &nbsp;
+> "Az a baj a világgal, hogy a hülyék mindenben holtbiztosak, az okosak meg tele vannak kételyekkel." – Bertrand Russell
 
 A mai tudomány dogmák rabságában tartja az emberiséget. Minden, különösen a történelem- és nyelvtudomány politikai koncepciók szerint, propaganda és ellenpropaganda jelleggel illetve pusztán a tudomány eszméje és nem az igazság feltárása kedvéért, nem annak szolgálatában létezik. Ahogy lentebb is szó esik róla, nem az életet és így a magyarságot/emberiséget sem szolgálja.  
   
