@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sátor/","title":"Sátor","created":"2025-03-21T22:16","updated":"2025-07-03T01:18"}
+{"dg-publish":true,"permalink":"/S/Sátor/","title":"Sátor","created":"2025-03-21T22:16","updated":"2026-02-06T23:04"}
 ---
 
 
@@ -42,7 +42,7 @@ A sátor mint tudjuk égjelkép. Itt már csak annak eldöntése kell következz
 #### Jankovics Marcell...
 
 ...[[S/Szent Márton\|Szent Márton]]ról szóló fejezetében (ott több is áll) írja:  
-> **Az ég palástja pedig valóban kettéhasad, mégpedig egy nyári és egy teli égfélre az Ikrek meg a Skorpió csillagkép között. A látható repedés a tejútágak közrefogta sötét hasadék lehet, ahol a keresztény időszámítás kezdetén még novemberben tartózkodott a Nap**. Az új időszámítás kezdetét jelzi Jézus evangéliumi történetében, hogy halála bekövetkeztével a jeruzsálemi templom kárpitja meghasad. Megjegyezni kívánom, hogy az egyházi év nem január 1-jével, hanem egy hónappal korábban, advent beköszöntével kezdődik ma is, s hogy november naptári szimbolikájában a kelta hatás (az eredeti november 1-jei évkezdés szokása) sem elhanyagolandó. (Emlékeztetném az olvasót az észak-európai szent, Hubertus égi stólájára. A latin `stola` "palástot", "karinget" jelentett eredetileg.)  
+> **Az ég palástja pedig valóban kettéhasad, mégpedig egy nyári és egy téli égfélre az Ikrek meg a Skorpió csillagkép között. A látható repedés a tejútágak közrefogta sötét hasadék lehet, ahol a keresztény időszámítás kezdetén még novemberben tartózkodott a Nap**. Az új időszámítás kezdetét jelzi Jézus evangéliumi történetében, hogy halála bekövetkeztével a jeruzsálemi templom kárpitja meghasad. Megjegyezni kívánom, hogy az egyházi év nem január 1-jével, hanem egy hónappal korábban, advent beköszöntével kezdődik ma is, s hogy november naptári szimbolikájában a kelta hatás (az eredeti november 1-jei évkezdés szokása) sem elhanyagolandó. (Emlékeztetném az olvasót az észak-európai szent, Hubertus égi stólájára. A latin `stola` "palástot", "karinget" jelentett eredetileg.)  
 > A repedés az égen lehet maga a Tejút is. A képzet ilyen formában Szibériából és Belső-Ázsiából ismert. A sátorlakó nomádok költészetében a csillagok az ég sátorán átszüremlő fények, a **Tejút pedig varrat az égi sátortakarón**.  
 
 Antal István Tündéres, derengő című Ősi Gyökér 2005/4. sz. megjelent cikkében nyugati forrásból idézi a [[P/Piroska és a farkas\|Piroska és a farkas]] mesének egy rövid változatát, ahol a farkas szájába adva előjön az alábbi kérdés: "És melyik úton mész, a gombostűk vagy a varrótűk útján?"  
