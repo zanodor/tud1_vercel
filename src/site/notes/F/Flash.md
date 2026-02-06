@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flash/","title":"Flash","created":"2024-11-21T18:15","updated":"2025-06-07T22:59"}
+{"dg-publish":true,"permalink":"/F/Flash/","title":"Flash","created":"2024-11-21T18:15","updated":"2026-02-06T23:04"}
 ---
 
 
@@ -10,7 +10,7 @@ Felvillanás, felvillanó fény; pillanat; villant.
 #### Magyar Adorján...
 
 ...Fáy Elek A magyarok őshona című könyvének 208. oldala alapján írja:  
-> Mivel pedig az említett \[nyíl jelentésű\] \[görög\] `bélosz`, \[német\] `Pfeil`, \[francia\] `flèche`, valamint az angol flash szóalaknak még villámlás és villám értelmük is van (például magyar villan, [[V/Villám\|villám]], német `Blitz` és `blinken` = villám és villanni), eszerint következtethető, hogy a nyíl őspalóc neve vil, vill avagy esetleg vall szóalak lehetett, aminthogy népünk némelyütt a villám szót vellámnak is ejti.  
+> Mivel pedig az említett \[nyíl jelentésű\] \[görög\] `bélosz`, \[német\] `Pfeil`, \[francia\] `flèche`, valamint az angol `flash` szóalaknak még villámlás és villám értelmük is van (például magyar villan, [[V/Villám\|villám]], német `Blitz` és `blinken` = villám és villanni), eszerint következtethető, hogy a nyíl őspalóc neve vil, vill avagy esetleg vall szóalak lehetett, aminthogy népünk némelyütt a villám szót vellámnak is ejti.  
 - [[O/Oláh\|Oláh]] címhez is bekerült.
 
 Jankovics Marcell Uránosz és Kronosz harcának leírásakor említi [[I/Ixion\|Ixion]] apjának nevét, Phlegüaszt, mely mivel villámlót jelent, így Zeuszra utalónak volt gondolt.  
