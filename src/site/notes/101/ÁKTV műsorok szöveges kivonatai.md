@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-01-30T22:54"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-02-06T23:03"}
 ---
 
 
@@ -21,6 +21,11 @@
 
 **2026:**
 
+[260206CN! A MUNKA TISZTESSÉGE](https://rumble.com/v75e9gc-260206cn-a-munka-tisztessge-kubnyi-tams-ktv.html)  [https://archive.ph/fKTwr](https://archive.ph/fKTwr)
+[260205CN! LÁTHATÓ és LÁTHATATLAN](https://rumble.com/v75cigq-260205cn-lthat-s-lthatatlan-kubnyi-tams-ktv.html)  [https://archive.ph/ejKwX](https://archive.ph/ejKwX)
+[260204CN! KÉT MÁRTÍR](https://rumble.com/v75av2s-260204cn-kt-mrtr-kubnyi-tams-ktv.html)  [https://archive.ph/oXp1h](https://archive.ph/oXp1h)
+[260203CN! MAGYAR SORS](https://rumble.com/v75911u-260203cn-magyar-sors-kubnyi-tams-ktv.html)  [https://archive.ph/rhMpS](https://archive.ph/rhMpS)
+[260202CN! AKNÁK](https://rumble.com/v757c6c-260202cn-aknk-kubnyi-tams-ktv.html)  [https://archive.ph/0vLK0](https://archive.ph/0vLK0)
 [260130CN! IRODA LOM](https://rumble.com/v752ri2-260130cn-iroda-lom-kubnyi-tams-ktv.html)  [https://archive.ph/JHvlH](https://archive.ph/JHvlH)
 [260129CN! ZÁSZLÓANYÁNK](https://rumble.com/v7513ju-260129cn-zszlanynk-kubnyi-tams-ktv.html)  [https://archive.ph/bFddu](https://archive.ph/bFddu)
 [260128CN! NYOLC ÉV MÚLVA](https://rumble.com/v74zezo-260128cn-nyolc-v-mlva-kubnyi-tams-ktv.html)  [https://archive.ph/7uUIz](https://archive.ph/7uUIz)
