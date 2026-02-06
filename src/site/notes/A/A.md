@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2026-01-17T00:11"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2026-02-06T23:03"}
 ---
 
 
@@ -129,6 +129,12 @@ A szláv nevet szintén taglaló [[A/Aszklépiosz\|Aszklépiosz]] címnél tagla
 Adná magát, hogy ami a magyarban határozott névelő, az az angolban is lehet névelő, még ha határozatlan is.  
 Viszont annál bonyolultabb a helyzet, hogy a magyar szót az angol közvetlen elődjeként tartsuk számon. Ugyanis az angolban (magánhangzóval kezdődő szavak előtt, szintén határozatlan névelőként használt) `an` = egy a [[O/One\|one]] = egy számnévvel azonos.  
 Innen nézve valószínűbb, hogy az -n kopott le, hogy sima a hangként használják mássalhangzók előtt.  
+
+## Sémi határozott névelők
+
+Ezek is hasonlóak a magyarhoz (gyakori vendéghangok, az 'l' és 'h' kerülnek be 'a' mellé):  
+- arab `al`
+- héber `ha`
 
 ## Lábjegyzetek
 
