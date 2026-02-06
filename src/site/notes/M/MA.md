@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MA/","title":"MA","tags":["Englishtexttranslated"],"created":"2024-04-21T14:10","updated":"2025-10-10T21:55"}
+{"dg-publish":true,"permalink":"/M/MA/","title":"MA","tags":["Englishtexttranslated"],"created":"2024-04-21T14:10","updated":"2026-02-06T23:04"}
 ---
 
 
@@ -71,17 +71,11 @@ Ma időhatározóként a mai napot is jelenti. Mivel Magyar Adorján [[M/Magyar 
 
 Vagy fogalmazzunk így: a nap a 24 órás időkör neve, ahogy ma is erre utal. A Föld-Nap relációjáról van (mindig) szó: a nap a Nap után, a ma a Ma = Föld után kapja nevét. Ilyen képpen azt is mondhatnánk, hogy a *mai nap(on)* összetétel pleonasztikus.  
 
-## MA esetleges negatív értelmet kifejező szócska
+## Ma negatív értelmet kifejező szócska
 
-Nem jelentésére vonatkozó adatot [itt](https://web.archive.org/web/20230904184318/https://www.peterclings.com/post/a-possible-origin-of-the-name-magyar) már a magyar-román-kanadai Peter Clings-nél is láttam; ki szerint: Ma-Gyaur = Nem Hitetlen értelmű lenne.  
 
-Clings viszont önkényesen Turkic negation prefix 'ma'-ról beszél, de valójában ez a szóelem szuffixumként használt:  
-> Negation in verbs is conveyed through the suffix –me or –ma. This suffix is added to the verb stem, forming the negative infinitive.  
-> vermek “to give” ver- >> ver + me >> vermemek “not to give”  
-> almak “to take” al- >> al + ma >> almamak “not to take”  
-> To form the negative verb in the Present Tense, the vowels a and e in –ma and –me change into the vowels ı,u or i,ü through Vowel Harmony.  
 
-Az igaz, hogy az Apocalypto című film 7:42-nél szereplő adata szerint a maja `ma` = nem jelentésű lenne. Ugyanúgy a nőiség jelentené tehát a negatívumot, mint másutt nő, ne, stb.  
+Az Apocalypto című film [7:31-nél](https://videa.hu/videok/film-animacio/apocalypto-2006-UVkPGMrx10odPDcV?start=451) és [34:05-nél](https://videa.hu/videok/film-animacio/apocalypto-2006-UVkPGMrx10odPDcV?start=2044) szereplő adata szerint a maja `ma` = nem jelentésű lenne. Ugyanúgy a nőiség jelentené tehát a negatívumot, mint [[N/Negative\|másutt]] nő, ne, stb.  
 
 ## Lábjegyzetek
 
