@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Stour/","title":"Stour","tags":["Englishtexttranslated"],"created":"2024-10-23T23:38","updated":"2025-07-12T00:27"}
+{"dg-publish":true,"permalink":"/S/Stour/","title":"Stour","tags":["Englishtexttranslated"],"created":"2024-10-23T23:38","updated":"2026-02-08T03:32"}
 ---
 
 
@@ -15,7 +15,7 @@ Angol dialektikus használatban fennmaradt nagy, magas jelentéssel. A norvégba
 Ahogy [[B/Bál\|Bál]] és [[B/Balog\|Balog]] címnél szereplő adatok szerint a Nap Orionbani állapotára, magasságára, nagyságára, erősségére vonatkozó szavakat találtunk, itt is a kiinduló a [[T/Thor\|Thor]]/Tur/Tura/[[N/Numi Tórem\|Tórem]], mindössze egy s-mobile-lal (s-elővetés) toldották meg.  
 Innen a [[S/Stark\|stark]] = erős jelentése is, ahogy [[U/Ugra\|ugra]] címnél is erre jutottunk.
 
-Viszont akkor a [[B/BAR\|BAR]] etimon nyomán alakul a `berg` = hegy értelme, mely nagy, óriási lenne melléknévként, ha lenne ilyen jelentése; illetve az Aveszta `bereg` = magas jelentésű is, mely azonos `bereg` szavunkkal. `Bérc` szavunk is létezik.  
+Viszont akkor a [[B/BAR\|BAR]] etimon nyomán alakul a `berg` = hegy értelme, mely nagy, óriási lenne melléknévként, ha lenne ilyen jelentése; illetve az Aveszta `bereg` = magas jelentésű is, mely azonos `bérc` szavunkkal.  
 
 Ergo ha minden napnévnek lehetnek másodlagos hegy jelentései, azok adják a nagy, hatalmas, magas jelentésű szavakat is. Lásd pl. [[M/MAG\|Mag]] napnév > szanszkrit [[M/Maha\|maha]], sumér `mah` = nagy, illetve M-N váltással [[N/Nagy\|nagy]].  
 
