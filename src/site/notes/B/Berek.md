@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/B/Berek/","title":"Berek","created":"2024-01-20T11:22","updated":"2024-10-24T22:12"}
+{"dg-publish":true,"permalink":"/B/Berek/","title":"Berek","created":"2024-01-20T11:22","updated":"2026-02-08T03:32"}
 ---
 
 
 # Berek
-
-Szent áldozati hely, ahogy [[B/Bereg\|bereg]] címnél is szerepelt.  
 
 #### Péterfai János írja:
 
