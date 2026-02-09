@@ -1,19 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2026-02-06T23:03"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2026-02-09T01:25"}
 ---
 
 
 # Tudomány
 
-> [!quote] &nbsp;
-> "Az a baj a világgal, hogy a hülyék mindenben holtbiztosak, az okosak meg tele vannak kételyekkel." – Bertrand Russell
-
-A mai tudomány dogmák rabságában tartja az emberiséget. Minden, különösen a történelem- és nyelvtudomány politikai koncepciók szerint, propaganda és ellenpropaganda jelleggel illetve pusztán a tudomány eszméje és nem az igazság feltárása kedvéért, nem annak szolgálatában létezik. Ahogy lentebb is szó esik róla, nem az életet és így a magyarságot/emberiséget sem szolgálja.  
+> [!warning] &nbsp;
+> A mai tudomány dogmák rabságában tartja az emberiséget. Minden, különösen a történelem- és nyelvtudomány politikai koncepciók szerint, propaganda és ellenpropaganda jelleggel illetve pusztán a tudomány eszméje és nem az igazság feltárása kedvéért, nem annak szolgálatában létezik. Ahogy lentebb is szó esik róla, nem az életet és így a magyarságot/emberiséget sem szolgálja.  
   
 
 A mai "tudomány" valójában nem edukáció, hanem diktátum: diktálnak, mit kell elsajátítanunk. A görög-római racionalizmus tetejébe istenhit helyett valami politikai kotyvasztást, népek leigázását – mindezt a civilizáció jegyében persze – és hasonlókat látunk...már ha látjuk. Nem mindenki látja. Vissza is mondja a leckét. Hányszor kellett magyarnak, külföldinek is mondanom, hogy már nem az iskolában vagyunk.  
-Jól látszik a felfogásbeli különbség a Quora kérdező-válaszoló oldalon, ahol pl. a [[S/Sas#Kétfejű sas\|kétfejű sas]]ban Róma nyugati és keleti ágát keresik és egymást veregetik vállon, milyen jól tudják, holott, ahogy [ezen](https://qr.ae/pABY8R) Quora válaszomban is jelzem, Szibériában is megvan az ábrázolás. Akkor nem lehet Rómából kiindulni.  
-De egy másik, távol-keleti ellentételezést is hozhatunk, [[P/Pénz\|pénz]] szavunk eredete kapcsán: megint magukat járatják le, amikor latin eredetet gondolnak, holott a kínai nyelvben is szinte azonos szót használnak. 
+Jól látszik a felfogásbeli különbség a Quora kérdező-válaszoló oldalon, ahol pl. a [[S/Sas#Kétfejű sas\|kétfejű sas]]ban Róma nyugati és keleti ágát keresik és egymást vállon veregetik, milyen jól tudják, holott, ahogy [ezen](https://qr.ae/pABY8R) Quora válaszomban is jelzem, Szibériában is megvan az ábrázolás. Akkor nem lehet Rómából kiindulni.
+De egy másik, távol-keleti ellentételezést is hozhatunk, [[P/Pénz\|pénz]] szavunk eredete kapcsán: megint magukat járatják le, amikor latin eredetűnek gondolják, holott a kínai nyelvben is szinte azonos szót használnak. 
 Lebuktatják magukat, de nem ismerik el, hogy ez az ő hibájuk lenne. Ők csak megbíztak a "rendszerben," és amúgy is a kínaiak, szibériaiak, magyarok rondák, nincs jó rap zenéjük, és a többi.  
 
 A gondokat részletesebben, komolyabban [ezen](https://qr.ae/pCJkVb) Quora válaszban tártam fel, mely szöveg magyar fordítását lásd:  
@@ -205,7 +203,7 @@ Egy másik idevehető zsidó téma, hogy pont a zsidó isten hozza a(z egyébké
 
 **Az afro-centrista felfogás**, azaz a Darwin-féle vagy az ő kutatási eredményeivel visszaélők felfogása szerint Afrikából származunk (kapóra jön, hogy ott sok a majom), sőt, egyes elméletek szerint az [[E/Etióp\|etióp]]oknak kellene minden kultúrát megköszönni, akikre egyesek-mások azt mondják, hogy ők voltak az igazi zsidók. Értjük mi.  
 
-Elválasztják az evolúciót az [[K/Kreacionizmus\|isteni teremtés]]től, holott itt sem vagy-vagyban, hanem is-isben kell gondolkodni.  
+Elválasztják az evolúciót az [[K/Kreacionizmus\|isteni teremtés]]től, holott itt sem "vagy-vagy"-ban, hanem "is-is"-ben kell gondolkodni.  
 
 Még az előzőekre visszatérve, az evolúció elmélet és minden más elmélet a **progresszivista felfogás**, mely szerint minden fejlődik[^4]; az ember is a majomból milyen messzire jutott, most már a transzhumanizmus a következő szint.  
 Felfelé ível a görbénk, ami egyenes, mert lineáris a gondolkodás, dacára annak, hogy a természet rendje szerint [[L/Lineáris kontra cirkuláris\|az élet körszerű; nem lehet lineáris]]. Így a [[K/Kali Yuga\|Kali Yuga]] borzalmaira, amit át kell élnünk, nincsen felkészítve az emberiség (de legalábbis az a Nyugat, amihez mi is tartozunk, nem is hallott róla).  
@@ -224,11 +222,19 @@ Egy komplett életmű dobható sutba azzal, hogy a kevésbé jól kidolgozott t�
 A következetesség (mely a hivatalos tudomány részéről nem követelmény) elvárható, főleg elismert előadók, tanítók részéről.  
 A magyaroknál maradva, néhány példa.  
 
-- Ha – ahogy [[B/Bál#^ob3cds\|ezen]] helyen volt szó róla – Vitéz János a fiatal Mátyásnak azt mondja, hogy [[B/Bál\|Bál]] a keresztények istene volt, még nem akkora hiba, de ha kiterjesztjük oda, hogy a magyarok istene is lett volna, már nagyobb hiba, tekintve, hogy a magyaroknak istenanyjuk volt/van, Bál pedig (pelaszg ill. filiszteus-palesztin) napistenből lett – hogy már a sémi időkben vagy még a napvallások kialakulása idején, az előtt, ez kérdés – főistenné, tehát nem a magyar istene volt.  
+- Ha – ahogy [[B/Bál#^ob3cds\|ezen]] helyen volt szó róla – Vitéz János a fiatal Mátyásnak azt mondja, hogy [[B/Bál\|Bál]] a keresztények istene volt, még nem akkora hiba, de ha kiterjesztjük oda, hogy Bál a magyarok istene is lett volna, már nagyobb hiba, tekintve, hogy a magyaroknak istenanyjuk volt/van, Bál pedig (pelaszg ill. filiszteus-palesztin) napistenből lett – hogy már a sémi időkben vagy még a napvallások kialakulása idején, az előtt, ez kérdés – főistenné, tehát nem a magyarok istene volt.  
 
 - Pap Gábor művészettörténész kenyere az [[A/Asztrálmítoszi keretrendszer\|asztrálmítoszi keretrendszer]]. Mégis, legalábbis egyes videókban (talán írásaiban nem?) elfelejti megragadni a lehetőséget, hogy megragadja a lényeget.
 	- A 2010-es Kurultajon készült [videóban](https://www.youtube.com/watch?v=dKFWoE5OJ8U&t=150) Hunor és Magor nyilainak irányzékai kapcsán nem utal fény-árnyék rendszerre. Elszalasztja a lényeget. Nem olvasta Fáy Eleket és Magyar Adorjánt? Utóbbit biztosan, előbbit vélhetően. Akkor? Hunor és Magorról kialakult képe kell(ett volna) legyen. De nem ez: lefelé meg felfelé "lőnek".
 	- Egy 2016-os, hanti/manysi előadásról szóló [beszámolóban](https://youtu.be/TvAkxyqc_78&t=285) is azt hozza ki példázatban, hogy "szükségképpen van a gonosz is a világban", de a "puhos és púpos" kapcsán éppen nem említi meg a lényeget, a jin-jang jelet, mely ráadásul nem is kínai, tehát még a Kárpát-hazát is be tudta volna ide emelni.
+
+### Ha több megoldás létezik
+
+> [!quote] &nbsp;
+> "Az a baj a világgal, hogy a hülyék mindenben holtbiztosak, az okosak meg tele vannak kételyekkel." – Bertrand Russell
+
+
+- Úgy is lehet fogalmazni, hogy a tudomány mindig egy bebiflázandó dogmát ad, a tökéletességre törekvő magyarnak pedig el kell magyarázni, hogy azzal, hogy több közös gyökerű megoldást ad, az nem biztos a kétely jele, hanem az alaposságé. A "vagy-vagy"-ban gondolkodás helyett" is-is"-ben kell gondolkodni, illetve pl. a nyelvi levezetésekben ismerni kell a kontextust és a jelképes hátteret.
 
 ## Extrapolációk és prekoncepciók
 
