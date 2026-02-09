@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated"],"created":"2023-10-29T05:21","updated":"2025-08-17T00:35"}
+{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated"],"created":"2023-10-29T05:21","updated":"2026-02-09T17:31"}
 ---
 
 
@@ -58,6 +58,9 @@ Lásd még témát említve [[M/Más#Más és több\|más és több]] cím/alcí
 [Ezen](https://www.reddit.com/r/etymology/comments/1hjy6kd/how_did_%E3%83%90%E3%83%90%E3%82%A2_bab%C4%81_came_to_be/) Reddit helyen is taglalják a témát. Egész jó összefoglalót adtak a használt nevekből: `papa`, `baba`, `mama`, `tata`, `dada`, `nana`.  
 - Nana gyermeknyelvi összefüggéséről szó eset [[N/Néni\|néni]] címnél.
 
+`Kaka` is ide tartozik.
+- Eric Partridge etimológiai szótárában jól jegyzi meg, hogy a [[K/KAK\|KAK]] helyen taglalt latin `cacāre` és a görög `kakké` óvodai szókincs részei.
+
 A Reddit posztot megosztó Quora helyen felírtam, amit kellett:  
 
 > A magyar nyelv ezeket az alapszavakat etimon-szinten használja:  
@@ -85,5 +88,5 @@ Varga Csaba A kettős kereszt – hármas halom jelentése című cikkében írj
 Az ősi írás fontos szabályai: 1. a jel önmagában egyes számú; 2. ha kettőzött: a szó többes számban olvasandó. (Írja még, hogy ha három, akkor soknak értelmezendő; ezért [[M/Második\|második]] címhez is bekerült.)  
 
 [^2]: Lábjegyzet:  
-Kolumbán Sándor is írja (érdekesen):  
+Kolumbán Sándor is írja, viszont a baba mélyebb jelentésréteget hordoz:  
 A kisbaba a baba szót nem önmagára, hanem a vele szemben levő, az ő szemeiben nagyon nagy felnőtt személyre mondja. Nagyon nagy vagy az ő kis szemeiben, ezért ejti kétszer. Lásd a régi képi írásnál: nagyobb tömeg, többes szám, kettős jelölés.  
