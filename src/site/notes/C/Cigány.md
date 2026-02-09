@@ -1,0 +1,79 @@
+---
+{"dg-publish":true,"permalink":"/C/Cigány/","title":"Cigány","tags":["Englishtexttranslated"],"created":"2026-02-09T00:59","updated":"2026-02-09T01:00"}
+---
+
+
+# Cigány
+
+#### Aczél József írja:
+
+> A `cigány` szó a szittyából jutott be a nyugati nyelvekbe is. Eredetileg sötét színt jelentett, mint ma is; cigányfekete, cigánymeggy stb. A görögben is `sztüganosz` = sötétszínű.  
+
+Mint kiderül a cigányok az őslakos [[S/Szikan\|szikan]]ok nevét bírják.  
+Az alak eredetileg \*Szigány és Szikan is lehetett. A Szig/Szeg/Szik/Tzi a Nap neve, Ány az An istenség, az Ég neve. Szép nevük van!  
+
+#### Péterfai János írja:  
+
+> A Szikan nép Európa egyik régi népe. Szicíliában éltek, bőrük állítólag barna volt. A Szikan névben a Szik a Nap, az An az Ég, de újabb esetekben az -an/-en csak jelző szerepű. Így a Szikan népnév lehet Nap az Égen, de lehet Napos jelentésű is, ami utóbbi értelem megfelel a bőr barna színének. Nagy kár, hogy nagyon keveset tudunk a szikanokról. A Szikulok, vagyis a székelyek szoros kapcsolatba kerültek velük, és Szicíliában keletről nyugatra szorították vissza a szikanokat. A Szikan népnév a Cigan (Cigány) népnévvel is összefügg, a Szikkan magyar ige a barna, napégette, barnára sült fogalmakat tartalmazza.  
+
+#### Csihák György Gens Hun(gar)orum – magyar nemzet...
+
+...című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXI./1. sz. megjelent cikkében is írja:  
+> Feltehetően a legtöbb cigány se tudja, hogy a cigányok – ezzel a névvel! – évezredeken át éltek a [[S/Selyemút\|Selyemút]] mentén. Három fő csoportjuk volt. Egyesek ügyes kézművesként letelepedve várták, vagy kisérték a karavánokat. Mások az út mentén rablók és fegyveres őrök voltak. Harmadik részük kitűnő muzsikus volt. Ez utóbbit görög és római források is említik. Spanyolországban, ahová nagy tömegben érkeztek, a spanyol krónikák megemlítik, hogy Szicilia szigetén a Kr. előtti 11, 12. és 13. századi 'sicaner királyság'-ból érkeztek. **Oda állítólag Egyiptomból menekültek** (talán akkor, amikor a szemiták elűzték onnan az őslakosokat, miként a Folyamközből is).  
+
+#### Péterfai János folytatja:  
+
+> A Puránák beszéltek [[M/Manu\|Manu]] isten népéről, akik a manavák. A manavák az árjákkal azonosak, tehát eredetileg magyarok. Azután szó van a Nagákról, akiknek a neve Na-Ga értelemben Nagy-Ház magyarul, ami az égboltra vonatkozik. A nagák szkythafélék, vagyis magyarok a Csudaországból. Zászlajukon kígyó a jelkép, de mi tudjuk, hogy a kígyó a Tejút egyik jelképe. A cigányok itt kapcsolódnak hozzánk, mint a kígyó népe, vagyis nagyon régi koroktól kezdve vehetjük a testvérséget. Arról nem beszélek, hogy a mai magyar és cigány vezetőknek mennyi bepillantása van az ősi korokba.  
+- Ez [alábbi](https://sites.google.com/site/kdgyuri/a-romak-vedikus-toertenelme) oldalon is efféle hangot ütnek meg.  
+
+Sándor Avraham avagy Avram Sándor nevű szerzőtől az [internetről letölthető](https://mega.nz/file/sn9EQZRR#wlUmm3x4tRj2KWbJ-QrP952L6gkkmEzhF1y1xjf66ok) egy, a cigányok eredetét taglaló írás. Érdekes benne például az, hogy az arabok cigányokra alkalmazott **zott** neve az indiai jászok [[J/Jat\|Jat]] nevéből eredne.  
+A tanulmányra [ezen](https://kuruc.info/r/33/10355/) cikkben is felhívják a figyelmet. A cikk azzal indít, hogy már egy Kyösti Roth által írt, finn nyelvû tanulmány is taglalja a zsidó-cigány azonosságot. Sajnos a linkek a cikkben már nem működnek, sőt, Avram Sándor (alias [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]]?; a kurucos cikkben azonosítják őket egymással) Imninalu.net oldalán sem működnek éppen rendesen a dolgok. Talán a zsidó háttérerők machinációját kellene itt sejteni?  
+A tanulmány lényege, hogy a cigányok csak nyelvük szerint indiai származásúak, de korábban héberek, zsidók voltak, így a Kubínyi Tamás által is ismert(etett) szemita azonosság mellett az egyiptomi kiinduló is valószínű.  
+
+Az [alábbi](https://youtu.be/zWDcsCmCJ6k) Tamana videó előadója (a Quorán a kovács név etimológiáját taglaló írásom köszönője), Paposi-Jobb Andor szerint a cigány a [[S/Szegény\|szegény]] szó rossz kiejtése nyomán jött létre. Valóban hasonlóak a szavak, de Péterfai János etimonjainak ismerete híján alkotott vélemény.  
+> [!warning] &nbsp;
+> Nagyon fontos, hogy amikor két hasonló nevet találunk, ne az egyiket a másikból akarjuk levezetni, hanem értelmezni (a szakrális hátterét) kell a neveket. Így amikor azt mondaná valaki, hogy Atilla testvére [[B/Buda\|Buda]] [[B/Buddha\|Buddhá]]ról kapta a nevét, ez így nem igaz. Érteni kell a Bu-Da (vagy Bud-A) nevet.  
+> Hasonlóan, amikor Paposi-Jobb azt mondja, hogy a `cigány` a `szegény` módosulata, nem említi meg a szikan nevet.  
+> Vagy amikor Gyárfás Ágnes azt mondja, hogy [[S/Szíria\|Szíria]] a Szíriuszról kapja a nevét, ez így megint nem igaz. Különösen külföldi kutatók futnak bele ilyen hibákba (például [[I/Irán\|Irán]] = [[A/Árja\|Aryan]], a [[T/Turán\|Turán]] név Turk (Türk) név, vlach-[[O/Oláh\|oláh]] nevek nem megfelelő feltárása, stb.), de nekünk nem szabad.  
+> 
+> Már [[L/Light\|light]] címnél is erre hívtuk fel a figyelmet. Egy valamire való filológus észre kell vegye, hogy ha egyezikis két szó, mélyebb kapcsolat fedezhető fel.  
+> [[S/Sakaea\|Sakaea]] címnél is arról volt szó, hogy nem feltétlenül a szakák/szkíták ünnepe volt, ahogy Grandpierre Atilla véleményezte, hanem arról lehet szó, hogy a szaka és a Szakaea nevek azonos értelmi kiindulásúak.  
+> Azon elképzelések, hogy a népek királyukról kapják a nevüket, a mi esetünkben a magyar egy [[M/Muager\|Maugerisz]] nevű királyról, megint nem helyes. A király a Napról ([[M/Magor\|Magor]], Magur ebben az esetben) és a nép is a Naptól (vagy anyjától, esetünkben [[M/Magyar\|Magyar]] ([[M/Magyar Ilona\|Ilona]]) istennőtől) kapja a nevét. Nem mindegy mit mivel kötünk össze. A közös eredet kell és a csillagmítoszi háttér feltárása szükséges.  
+
+Tehát amikor tisztázottnak véljük, hogy a cigány a szikan nevet (és a palóc>vlach kultúrát \[ezzel a roma-román fogalmak összevetése is indokolttá válik\]) sajátítja ki, akkor jön az az info, [ezen](https://qr.ae/pNccap) Quora kérdés-válasz alapján, hogy az olaszok **zingaro** néven hívják őket, mely kisértetiesen megegyezik a Fáy Elek által is Sumérrel azonosított Szungár és a Varga Zsigmond által (lásd [[H/Hungár\|hungár]] címnél lábjegyzetben) hozott Singár-Szingár (és az ebből képzett [[C/Cingár\|cingár]]) névvel. A cigányok nevei folyamatosan magyar nevek és ezen adat talán arra is mutathat, hogy régebbiek, mint gondolnánk. Ellenben akkor a románok roma(n) neve is a cigányok rum/romani nevéből származna és nem a konstantinápolyi Róma/Rum (honnan rumun) név nyomán?  
+
+A Quora válaszban a görög válaszadó Eleftherios Tserkezis szerint a név persze görög:  
+> The Italian `zingaro`, along with ethnonyms for the Romani people in many languages (e.g. Portuguese: `cigano`, Albanian: `cigan`, Turkish: `çigan`, \[German: `Zigeuner`\], modern Greek: `τσιγγάνος` / tsinganos), can be traced back to the medieval Greek `ἀθίγγανος` / athinganos. Athinganos comes from alpha privative and the verb `θιγγάνω` / thinganō "to touch." Thus, athinganos means "untouchable."  
+> The Athinganoi mentioned in 9th-century Byzantine sources were a judaizing sect living in Asia Minor, mainly Phrygia. Sometimes emperors appealed to them (e.g. Nicephorus I), but persecution was not out of the question either. Michael II the Amorian is said to have been an Athinganos or at least too friendly to them, although that may have been propaganda by the Macedonian dynasty.  
+> From the 11th century onward, the name Athinganoi was applied to the Romani, although they had practically nothing in common with their namesakes of the 9th century – there's a reason why nomenclature should be approached carefully. Byzantine authors viewed the Romani as wandering blacksmiths, magicians, beggars, thieves or fortune tellers, hence the name `κατσίβελος` \[katsivelos\] = "wanderer."  
+> —  
+> Az olasz `zingaro`, valamint a roma nép etnonimái számos nyelven (pl. portugál: `cigano`, albán: `cigan`, török: `çigan`, \[német: `Zigeuner`\], újgörög: `τσιγγάνος` / tsinganos) a középkori görög `ἀθίγγανος` / athinganos szóra vezethetők vissza. Az athinganos az alfa privativumból és a `θιγγάνω` / thinganō "érinteni" igéből származik. Így az athinganos jelentése "érinthetetlen".
+> A 9. századi bizánci forrásokban említett athinganoi egy judaizáló szekta volt, amely Kis-Ázsiában, főleg Frígiában élt. Néha a császárok hozzájuk fordultak (pl. I. Niképhorosz), de az üldöztetés sem volt kizárt. II. Mihály Amóriairól azt mondják, hogy athinganos volt, vagy legalábbis túl barátságos volt velük, bár ez a makedón dinasztia propagandája is lehetett.
+> A 11. századtól kezdve az athinganoi nevet a romákra alkalmazták, bár gyakorlatilag semmi közük nem volt a 9. századi névrokonaikhoz – van rá ok, hogy miért kell óvatosan közelíteni a nómenklatúrához. A bizánci szerzők a romákat vándorló kovácsmestereknek, mágusoknak, koldusoknak, tolvajoknak vagy jövendőmondóknak tekintették, innen a `κατσίβελος` \[katsivelos\] = "vándorló" név.
+
+Azaz olyan hasonló érinthetetlen jelző ragadna nevükhöz, mint amilyet az indiai kasztrendszerből ismerünk. Ami a kritikát illeti, nos, valóban az érint jelentésű indo-európai szó ilyen T-K vázú, de ezt csak egy dolog. Azt viszont nem magyarázza meg, hogyan lett az orrhang a görög és olasz névben. Az már érdekesebb, hogy a [[J/Judaizmus\|judaizmus]] szóba kerül; Kubínyi Tamás is (dacára annak, hogy tisztában van indo-európai nyelv-eredetükkel) több ízben szemitázta a cigányokat.  
+Gondoltam, hogy írok az illetőnek, például mivel magyarázza a(z általam hirtelen a neten fel nem lelt) görög `sztünagosz` = sötét színű szót akkor (hogy reagál a magyar-szkíta eredetre), de nem tettem.  
+[Ezen](https://qr.ae/pNmmWu) Quora válaszban (ahol arról mertem írni, hogy mi vagyunk az igazi cigányok – azaz a mi neveinket vették fel zsidó módra a cigányok) is felhasználtam az olasz `zingaro` szót, és azóta más válaszban is.  
+
+Avram Sándor tanulmányának idevonatkozó részét viszont mindenképpen csatolni szeretném. Ugyanis [[G/Görög#Görög-zsidó kapcsolatok\|görög]] címnél, *görög-zsidó kapcsolatok* alcímnél is említésre került, hogy az Athinganoi nem feltétlenül cigányokra volt értett. Avram Sándor (azaz Hargita Csaba Ferenc) írja:  
+> Van egyébként még egy görög szó, amelyet szintén a romák megnevezésére használtak Bizáncban: "Athinganoi" ‒ \[nem!\] ebből ered a cigány, tsigan, zingaro stb. név. A bizánciak a romákkal azonosították az Athinganoiokat. Valóban, az a kevés, amit erről a népcsoportról tudunk, számos tekintetben megegyezik azzal a leírással, ami a mai romákról adható. Nincs persze elegendő bizonyítékunk arra, hogy az Athinganoi-ok romák lettek volna, de arra sem, hogy ennek az ellenkezőjét állítsuk. Az egyetlen ok, ami miatt az Athinganoi-oknak a romákkal való azonosításának elmélete mégis megbukott, az, hogy ezt a népet már a 6. század elején említik, márpedig ekkor – legalábbis a megcsontosodott indiai-eredet hívei szerint – a romák nem lehettek még Anatóliában. Az Athinganoi nevet a rituális tisztálkodási törvényeik miatt kapta ez a nép, mert ezek a törvények tisztátalan dolognak tekintettek minden testi kontaktust ‒ és ez nagyon hasonlít a romák "gádzsók"-ra (nemcigányokra) vonatkozó törvényeire. Az Athinganoiok foglalkoztak mágiával, jövendőmondással, kígyóbűvöléssel stb., vallásuk pedig a "reform-judaizmus" és a kereszténység (vagy esetleg a zoroastrizmus) egyfajta keveréke. A Shabat-ot és a Tóra más előírásait követték, hittek az Isten egységében, ugyanakkor a körülmetélés szokását már nem követték, viszont bemerítkeztek (ez egyébként nem kizárólag keresztény rítus, a tűzimádó vallások ismert aktusa is). **Az Athinganoiokkal kapcsolatban a Zsidó Enciklopédia kijelenti, hogy "zsidóknak lehet őket tekinteni"**.  
+
+A spanyol `gitano` és francia `gitan` = cigány a zsidó névvel egészen egyező. A végződés lehet-e olyan mint `putain` esetében. A Wiktionary oldal adata:
+> Borrowed from Spanish `gitano`, itself derived from apheresis of older `egiptano` ("Egyptian"), from the ~~mistaken~~ belief that gypsies originated from Egypt.  
+
+Egyébiránt Hargita Csaba [ezen](http://www.imninalu.net/romagyar.htm) oldalán is megvan írása (nem tudom, mennyi az átfedés a másikkal, vagy ugyanaz-e; úgy tűnik, az).  
+
+Valóban, Avram Sándor cikke nélkül is gondoltam (főleg Péterfai János adatai alapján persze), hogy a cigányok roma neve és az, hogy az angolok [[G/Gypsy\|gypsy]]-nek, egyiptominak hívják őket, arra utal, hogy nem India óta követnek minket. [[M/Mószerol\|Mószerol]] címnél írottak szerint is erre gondoltam.  
+Az [alábbi](https://adtplus.arcanum.hu/hu/view/MagyarNyelv_1969/) kiadvány 332. oldalán fáró címnél olvasható sorok szerint:  
+> Heinrich Moritz Gottlieb Grellmann megemlíti, hogy a cigányokat Magyarországon régen fáraók-nak: Pharaoner – a Pharao Népének nevezték, és Erdélyben még most is (ti. a szerző korában) ez a nevük. Az angolok nem sokban térnek el ettől, a cigányokat ők egyiptomiak-nak (Aegyptier – Gypsies) nevezik, hasonlóképpen a portugálok és spanyolok is: Gitanos (i. m. 16). Szerinte ebben része van annak a legendának, amelyet Európában kóborló cigányok szánalomkeltés céljából terjesztenek magukról. Eszerint isteni büntetésből kell évekig zarándokolniuk és a kereszténység alamizsnáiból élniük, mivel őseik Jézust, midőn ez szüleivel Heródes üldözése elől menekült, nem fogadták be maguk közé.  
+> \[...\]  
+> Grellmann szerint a cigányok a hinduk legalacsonyabb osztályából származnak, a parei-ek, vagy amint őket Hindosztánban hívják, a szuder-ek közül, akiket a Malabári-félszigeten, amelynek alkotmánya hasonló a Hindusztánéhoz, [[P/Pariah\|pariah]]-nak neveznek. A páriák a többi kaszt megvetett, lenézett, tisztátalannak tartott szolgái, akiknek egy része Timur Lenk hódítása idejében, ennek üldözése elől a XV. század elején menekült nyugatra a velük különben is mostohán bánó őshazából. Grellmann nem mondja ki határozottan, de szinte érezteti, hogy a fáraó elnevezés tulajdonképpen a – nyugatiak számára keveset jelentő – pária szónak népi etimológiás, vagyis inkább tudálékos elferdítése, asszociatív kapcsolódással az egyiptomi elnevezéshez.  
+
+Egy utalást arra, hogy a cigány nyelvhez kötött [[K/Kaja\|kaja]] szavunk Egyiptomban is megvolt, lásd ott. A roma `chhon` = Hold szó is lehet egyiptomi örökség.  
+Érdekes, hogy a roma nyelvben a [[J/Jackal\|jackal]] szóval azonos `zhukel`/`dzsukel` = kutya, mely újfent bizonyíthatja a cigányok nemcsak ind származását.  
+Avram írja még, hogy maga a `roma` szó "ember"-t jelent, és csupán egyetlen nyelvben van megfelelője: az óegyiptomi `rom` szó, melynek hasonló a jelentése. [Megjegyzés: ott a Nap könnyeiből születőnek határozták meg az embert; a Nap Ra/Ré/Ró, az -M a földre születésre utal; innen az ember értelem.]  
+
+Az [alábbi](https://youtu.be/LO1eLMWQauI) Ne Legyen Áldozatos videóban 14:20-nál Pap Gábor elmondja, hogy ciganológustól tudja, hogy a cigány az általánosabb kifejezés és a roma a cigányok egy csoportjára utal. Tehát nem minden cigány roma, de minden roma cigány.  
+
+Az [[E/Ember teremtése\|ember teremtésé]]nek lényeges mozzanata, hogy agyagból formázással készült az emberi test. Igen elterjedt az a monda, amely az agyagemberek szárításának, ill. égetésének menetét mondja el, s így a különböző színű emberfajok kialakulását magyarázza. Isten, amikor az első embert tette kemencébe, túl sokáig benn tartotta, fekete lett, néger. A másodiknál már hamarabb kivette, de még mindig sötét lett a bőre, tőle származnak a sárga bőrűek. A harmadikat már nagyon gyorsan kivette, ez fehér bőrű lett. Igen elterjedt a cigányok fekete bőrének az a magyarázata, hogy túl sokáig szárította Isten a napon azt az agyagembert, akiből az első cigány lett.  
+Lásd még [[G/Gypsy\|gypsy]].  
