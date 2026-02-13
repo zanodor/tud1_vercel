@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2025-09-23T23:13"}
+{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2026-02-13T23:22"}
 ---
 
 
@@ -169,7 +169,7 @@ William F. Warren adata szerint Plutarkhosz[^9] épp az északi cirkumpoláris [
 A nappálya esésével jelzett alvilágot nyitó [[R/Rák csillagkép\|Rák csillagkép]] egy Alan Alford által valahonnan megadott (talán sumér-babiloni) [[D/DUB\|DUB]] neve (sumérnek [[A/Allul\|Allul]] volt megállapítva) neve lehet [[T/Typhon\|Typhon]] alakjának szülője, mely az összes többi jelentést magával hozta. Mivel Tüphon Széth görög neve és Széthet a [[G/Göncöl\|Göncöl]] csillagzattal is kapcsolatba hozták, nem érdemtelen megemlíteni, hogy Richard H. Allen Star Names című könyvének 437. oldalának adata szerint **Dubb** (**Dubhe** a Nagy Medve alfájának a neve is) a Medve (csillagkép) neve is egyúttal. (`Dubb` az arabban és arab-perzsában is medvét jelent. Perzsa alapszó medvére `khirs`.)  
 De ezzel nem mondtunk el mindent. Kiderül ugyanis, hogy Széth = [[T/Typhon\|Typhon]] = [[T/Thuban\|Thuban]], mely a [[S/Sárkány csillagkép\|Sárkány csillagkép]]beni [[S/Sarkcsillag\|Sarkcsillag]] volt korábban és [[A/AN, ÁN\|AN, ÁN]]/[[A/Anu\|Anu]] isten(nő) égi székhelye. Tehát ahogy az Anya lehet [[S/Szíriusz\|Szíriusz]] és a [[S/Sarkcsillag\|Sarkcsillag]] is, úgy az ő nemzője Széth is, hisz Széth a nemző minősége mellett az a sötét minőség is, mely az istenanya kiinduló minősége is. Erről [[S/Sátán\|Sátán]] címnél is volt szó legutóbb.  
 
-Plutarkhosz magyarázata még az lehetett volna, hogy a Nagy[[G/Göncöl\|Göncöl]] neve az óegyiptomiaknál [[S/Széth sakála\|Széth Sakála]]/Kutyája néven volt ismert. Csakhogy már az egyiptomiak sem igazán tudhatták, miért kapcsolták Széth-et vagy sakálát (nem is mindegy, illetve igen, ha Széth fejét elnézzük) az [[U/Ursa Maior\|Ursa Maior]]-hoz. Ahogy [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél is írtam: ez már egy utólagosan hozzákapcsolt, indirekt értelmezés lehet (a körbeforgás így is, úgy is bekövetkezik, csak valódi okát feledték el).  
+Plutarkhosz magyarázata még az lehetett volna, hogy a Nagy[[G/Göncöl\|Göncöl]] neve az óegyiptomiaknál [[S/Széth sakála\|Széth Sakála]]/Kutyája néven volt ismert. Csakhogy már az egyiptomiak sem igazán tudhatták, miért kapcsolták Széthet vagy sakálát (nem is mindegy, illetve igen, ha Széth fejét elnézzük) az [[U/Ursa Maior\|Ursa Maior]]-hoz. Ahogy [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél is írtam: ez már egy utólagosan hozzákapcsolt, indirekt értelmezés lehet (a körbeforgás így is, úgy is bekövetkezik, csak valódi okát feledték el).  
 
 #### Jankovics Marcell Jelkép-kalendárium...
 
