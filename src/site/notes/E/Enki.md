@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Enki/","title":"Enki","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-26T05:26","updated":"2025-08-27T02:47"}
+{"dg-publish":true,"permalink":"/E/Enki/","title":"Enki","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-26T05:26","updated":"2026-02-13T23:28"}
 ---
 
 
@@ -21,6 +21,9 @@
 - De másutt is előjön a képzet. Az At Random: Thoughts and Observations on Life, Morality, Sex, Time, Truth and War című könyvben az áll, hogy az egyiptomi [[A/Atum\|Atum]] isten is hasonló maszturbálás és magömlés révén hozta volna létre a Nílust:  
 > Male masturbation was an even more important image in ancient Egypt: when performed by a god it could be considered a creative or magical act: the god Atum was believed to have created the universe by masturbating to ejaculation.  
 > The ancient Greeks also regarded masturbation as a normal and healthy substitute for other forms of sexual pleasure. Most information about masturbation in ancient Greece comes from surviving works of ancient Greek comedy and pottery. Masturbation is frequently referenced in the surviving comedies of Aristophanes, which are the most important sources of information on ancient Greek views on the subject. In ancient Greek pottery, satyrs are often depicted masturbating.  
+> —  
+> A férfi maszturbáció még fontosabb kép volt az ókori Egyiptomban: ha egy isten végezte, akkor azt kreatív vagy mágikus aktusnak tekintették: Atum istenről úgy hitték, hogy az univerzumot úgy teremtette meg, hogy magömlésig maszturbált.
+> Az ókori görögök is a maszturbációt a szexuális örömszerzés más formáinak normális és egészséges helyettesítőjének tekintették. Az ókori görögországi maszturbációról a legtöbb információ az ókori görög komédiák és kerámiák fennmaradt műveiből származik. A maszturbációra gyakran utalnak Arisztophanész fennmaradt komédiáiban, amelyek a legfontosabb információforrások az ókori görögök e témával kapcsolatos nézeteiről. Az ókori görög kerámiákon a szatírokat gyakran ábrázolják maszturbálva.  
 - Az észak-amerikai zuni indiánok választottja egy szent mesa-ra állva maszturbálással próbálta a vadakat visszaterelni magukhoz.
 
 #### Péterfai János írja:
@@ -61,14 +64,34 @@ Majd Enki és valamiféle megkötés kapcsán lábjegyzetben írja:
 ...című könyvében írja:
 > A szumir szövegekben még [[E/Enlil\|Enlil]] a világteremtő, Enki és Ninmagh az ember teremtői, az életadó istenek.  
 
-Varga Zsigmondnál En-Ki egyszerűen csak az Alsó Ura, másutt Földisten. ([[K/KI\|KI]] = Föld jelentésű ugye, ami az éghez képest alul van.)  
+Varga Zsigmondnál En-Ki egyszerűen csak az "Alsó Ura", másutt Földisten. ([[K/KI\|KI]] = Föld jelentésű ugye, ami az éghez képest alul van.)  
 
 Varga Zsigmond könyvének 251. oldalán írja még:  
 > A föld istene, En-ki a későbbi szumir teológiában hímnemű istenné alakul át. De csalhatatlan jelek igazolják, hogy a föld démona, illetve istene kezdetben nőnemű principium és az ég felesége volt. Döntő jelentőségű e tekintetben az, hogy En-lil az An és Ki közös nemzése, egy kétnyelvű szövegben pedig azt olvassuk, hogy Ki az An felesége, s mint ilyen Antu-nak hangzik. Az ural-altáji mitológiában mindenütt nőnemű a föld, aki az éggel él házastársi viszonyban. Innen "földanya" neve így lesz a finnben `Maan` emő, a vogul-osztjákban pedig Ha-ankw – Földanya.  
 - Nem Ma az a Ha? Egyébként [[M/Ménkű\|ménkű]] címnél is előjött ilyen név már. Mintha a menny földre tükrözésével lenne itt is dolgunk.  
 
-A Hihetetlen Magazinnál a lapszám-eladás van előtérben és [[S/Sitchin, Zecharia\|Sitchin, Zecharia]] viszi a prímet:  
+A Hihetetlen Magazinnál a lapszám eladás van előtérben és [[S/Sitchin, Zecharia\|Sitchin, Zecharia]] viszi a prímet:  
 > Enki isten titkos kútjai  
 > A sumer mitológia ismer egy történetet arról, hogyan jött létre a Föld körüli energiaháló az ezt alkotó meridiánokkal együtt. Eszerint valójában az egészet Enki, a földisten "húzta rá" a Földre, hogy rendet szabjon az emberek életének. Addig ugyanis tér és idő nélkül, egyfajta végtelen aranykori boldogságban éltek a Föld lakói. Az istenekhez hasonlóan élettartamuk vég nélküli volt, így nem volt szükségük naptárra, időmérésre. Korlátlanul utaztak a térben és az időben, szabadon váltogatva a különféle dimenziók közt. A féltékeny istenek azonban véget akartak vetni ennek a nagy szabadságnak. Anu, az istenek atyja megparancsolta Enkinek, készítsen egy hálót, mely pont ráillik a Földre. Miután Enki ezt bolygónk köré illesztette, a földi élet gyökeresen megváltozott. Megszületett a tér és az idő, az emberek élete pedig immár korlátok közé szorult. Ettől függetlenül a sumerok a háló létét áldásosnak tartották. Véleményük szerint a jóindulatú Enki titkos kutakat rejtett el a Föld-háló bizonyos pontjain, hogy segítsen az embereknek. E kutakból ugyanis olyan víz árad, melyet ha valaki megtalál és elfogyaszt, képes lesz térben és időben utazni, miként a háló előtti korban az ősök. E kutak sokak szerint a Ley-vonalak metszéspontjain képződő "energiacsapdák" lehetnek, melyek képesek teleport-kapukként, féregjáratokként működni – így valóban lehetővé tehetik a dimenziók közti közlekedést. "Vizük" pedig természetesen nem fizikális víz, hanem energia.  
 
 Enki-Eáról lásd még kétarcúsága kapcsán [[J/Janus\|Janus]].  
+
+## En-Ki kontra An-Ki
+
+A baszk nyelvhez hasonlóan a sumér nyelvben is előfordulnak páros összetételek, pl. An-Ki jelentése Ég-Föld.  
+
+A sumer Enki isten viszont különbözik az An-Ki kozmológiai fogalomtól, bár mindkét kifejezés tartalmazza a *Ki* (Föld) elemet.
+
+1.  **EN\.KI**
+    *   A név jelentése: **„a Föld Ura”.**
+    *   Az *En* jelentése: „Úr” vagy „Mester” (gyakran utalva templomi papra vagy uralkodóra).
+    *   A *Ki* jelentése: „Föld” vagy „Talaj”.
+    *   Enki az Abzu (a föld alatti édes vizek), a bölcsesség, a mágia, a művészetek, a kézművesség és a teremtés istene volt.
+
+2.  **AN\.KI**
+    *   Ez a kozmológiai fogalom jelentése: **„Ég-Föld”** vagy „az univerzum/kozmosz”.
+    *   Az *An* jelentése: „Ég” vagy „Menny” (és egyben az ősi Égisten neve is).
+    *   A *Ki* jelentése: „Föld”.
+    *   Az An-Ki a kozmosz eredeti, differenciálatlan totalitását jelképezi, amelyet később fiuk, Enlil (a Levegő/Szél Istene) választott szét az égre (An) és a földre (Ki).
+
+Ennélfogva Enki a „Föld Ura”, míg az An-Ki az „Ég-Föld” összegzésének kifejezése. Kapcsolatban állnak abban az értelemben, hogy Enki egy hatalmas istenség, akinek a területe a Földre (`Ki`) és az alatta lévő vizekre összpontosul, és az An-Ki szerkezetén belül létezik.  
