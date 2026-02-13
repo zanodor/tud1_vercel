@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héj/","title":"Héj","created":"2025-09-28T17:38","updated":"2025-09-28T17:39"}
+{"dg-publish":true,"permalink":"/H/Héj/","title":"Héj","created":"2025-09-28T17:38","updated":"2026-02-13T23:29"}
 ---
 
 
@@ -19,3 +19,5 @@ Ennek megfelelően [ezen](https://en.wikipedia.org/wiki/Kai_(name)) oldal tanús
 
 Lásd még Magyar Adorján írását [[H/Héja\|héja]].  
 Egyező vele a [[H/Hely\|hely]] szó.  
+
+[[B/BUJ\|BUJ]] alakja alapján héj és haj is tulajdonképpen [[H/Ház\|ház]] szavunk változataként is felfogható ([[H/HA\|HA]] = ház → héj = házacska), [[K/Korpa\|korpa]] címnél írottak alapján és különösen [[K/Kagyló\|kagyló]] kagy- elemével való egyeztethetősége alapján.  
