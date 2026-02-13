@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kentum/","title":"Kentum","tags":["containstransclusions"],"created":"2025-05-29T17:30","updated":"2025-08-19T00:57"}
+{"dg-publish":true,"permalink":"/K/Kentum/","title":"Kentum","tags":["containstransclusions"],"created":"2025-05-29T17:30","updated":"2026-02-13T23:28"}
 ---
 
 
@@ -44,7 +44,7 @@ A Kentum-Szatem nyelvi ágak szétválásáról...
 
 
 > De a cáréhoz hasonló a magyar "király" szó története is. Itt meg I. (Nagy) Károlyt tartják a král, karol szláv tisztség névadójának, és hát innen lett volna szláv jövevényszó a magyar király is. Mint Cézárnál, itt is a nagyapa volt a névadó. Ő volt Kalapácsos (Martell) Károly (686-741) a Karoling-dinasztia alapítója. A Károly (Carolus, Charles, eredeti kiejtés: charlz), név az ónémet \*karlja, \*karlaz, (szabad ember, jobbágy) titulusból eredeztethető.  
-> Ekkor a magyar ~~protoindoeurópai eredetű~~ `kerál` szó már évezredek óta ismert lehetett és a kentum-szatem nyelvi szétváláskor a magyarban maradt a "ker" gyök, míg a szatem területen ez "szárrá", "cárrá" változott. Míg a magyar "király" szóban a "kör", a szláv "cár" szóban a "sár" (gömb, pld. földgömb, `Земной шар`) szó jelöli a teljességet \[[[SAR\|[SAR]]-nak van teljes jelentése a sumérben vagy akkádban\], a mindenek feletti uralmat. Ezt a gömböt (nálunk országalmát) tartják a kezükben az ősi istenek, királyok. 
+> Ekkor a magyar ~~protoindoeurópai eredetű~~ `kerál` szó már évezredek óta ismert lehetett és a kentum-szatem nyelvi szétváláskor a magyarban maradt a "ker" gyök, míg a szatem területen ez "szárrá", "cárrá" változott. Míg a magyar "király" szóban a "kör", a szláv "cár" szóban a "sár" (gömb, pld. földgömb, `Земной шар`) szó jelöli a teljességet \[vö. [[S/SAR\|SAR]]-nak van teljes jelentése a sumérben vagy akkádban\], a mindenek feletti uralmat. Ezt a gömböt (nálunk országalmát) tartják a kezükben az ősi istenek, királyok. 
 
 </div></div>
 
@@ -59,5 +59,5 @@ Jó példa a kentum-szatem ágak összetartozóságára a svéd/norvég K hang, 
 
 A Kabar, Kovár a Kentum hangzás alapján kimondott nevek, amelyek *keleties* Szatem hangzás alapján Szabar, Szovár hangzásúak.  
 
-Az, hogy a szatem keleties, lehet, hogy igaz, de legutóbb [[C/Csuda\|csuda]] címnél kifejtettük, hogy a magyar nyelv magában hordozza a lehetőséget arra, hogy egyes kemény hangzói (mint a K) meglehessenek s, sz, cs formában is, némi jelentésmódosulattal is. Így a Magyar Adorján által taglalt régi `csod` vagy `csud` = "süt, fény, ég" keményebb, eredetibb párja lehet [[K/Kut\|kut]], [[C/Csuda\|csudá]]nak pedig [[K/Kutya\|kutya]], de eredeti a [[S/Süt\|süt]] is (hisz ez [[T/Tűz\|tűz]] szavunk megfordítása). Az is igaz, hogy [[S/Sapka\|sapka]] szavunk kapcsán meg épp azt feltételeztük, hogy inkább egy k-előtétes szó lehetett eredeti. ([[S/Száj\|Száj]] párjaként felmerült közben [[K/Káva\|káva]], jegyzem meg.)
+Az, hogy a szatem keleties, lehet, hogy igaz, de legutóbb [[C/Csuda\|csuda]] címnél kifejtettük, hogy a magyar nyelv magában hordozza a lehetőséget arra, hogy egyes kemény hangzói (mint a K) meglehessenek s, sz, cs formában is, némi jelentésmódosulattal is. Így a Magyar Adorján által taglalt régi `csod` vagy `csud` = "süt, fény, ég" keményebb, eredetibb párja lehet [[K/Kut\|kut]], [[C/Csuda\|csudá]]nak pedig [[K/Kutya\|kutya]], de eredeti a [[S/Süt\|süt]] is (hisz ez [[T/Tűz\|tűz]] szavunk megfordítása). Az is igaz, hogy [[S/Sapka\|sapka]] szavunk kapcsán meg épp azt feltételeztük, hogy inkább egy k-előtétes szó lehetett eredeti. ([[S/Száj\|Száj]] párjaként felmerült közben [[K/Káva\|káva]], jegyzem meg, illetve a [[S/SZA\|SZA]] hasonló fény; száj jelentésekkel áll, mint [[K/KU\|KU]].)
 { #i1e0w6}
