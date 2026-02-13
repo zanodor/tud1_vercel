@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2025-10-31T01:49"}
+{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2026-02-13T23:28"}
 ---
 
 
@@ -39,7 +39,7 @@ Megint másutt írja Jankovics Marcell:
 > "Hegynaptár" lehetett az első egyiptomi kalendárium is. Erről tanúskodik a "látóhatár" hieroglifa (ahet), mely két hegy között lenyugvó napkorongot ábrázol (22. rajz). Erről vallanak a kelet-nyugat iránynak tájolt egyiptomi templomok bejáratát őrző hegyszerű pülonok \[kapuk\], amelyek közt a templomhoz vezető út felöl nézve a Nap felkelni vagy lenyugodni látszik. A kettős pülon egyiptomi neve azt jelenti: "az ég fényhegyű horizontja". Már a dinasztikus kor előtt (Kr. e. 3800 k.) ábrázolják a Napot és a hegyet együtt, és az első piramisok mint a "fényhegyek" gigantikus kőmásolatai ebből a megfigyelési módszerből következően nőnek ki, s uralkodnak máig az egyiptomi sivatagi fennsíkon. A piramisszövegek a napkeltét az isten két hegy közti megjelenésének nevezik.  
 > Egy Kr. e. 2300 körüli akkád pecséthengeren Samast látjuk, amint egy fűrésszel kivágja magát két hegy \[Jankovics Marcell zárójelbe rakhatta volna a [[S/Szümplegádok\|szümplegádok]]at itt, mely címnél legutóbb említettük is az itt álló témát\] közül. Naram Szín akkád király sztéléjén (Kr. e. 2250 k.) a győztes uralkodó egy hegycsúcs felé lépdel, felettük három Nap (vagy a Nap, Hold, Vénusz?) látható. "Látóhatárnaptárt" használtak a kaukázusi oszétok (a szarmaták utódai és a mi jászaink helyben maradt rokonai) még e század első éveiben is. Választott "napfigyelő" leste minden napnyugtakor a nyugati látóhatárt, amelyen 40-50 megfigyelési pont jelezte az év számontartandó napjait, és szájról szájra hagyományozódott versek őrizték a rájuk vonatkozó tudnivalót. Láthattuk, ugyanúgy működött (működik?) a pueblo-indiánok "hegynaptára".  
 
-Dr. Gyárfás Ágnes az Ősi Gyökér 2010/1-2. sz. közölt Magyar őskutatás a szimbolikák jegyében című cikkében ugyanezt a képet elemzi, de sem nem hozza szóba a két hegyet, sem Samash-t, és ráadásul a nyári napfordulóra gondol, hiszen a Rák csillagképet hozza szóba.  
+Dr. Gyárfás Ágnes Magyar őskutatás a szimbolikák jegyében című, az Ősi Gyökér 2010/1-2. sz. közölt cikkében ugyanezt a képet elemzi, de sem nem hozza szóba a két hegyet, sem Samash-t, és ráadásul a nyári napfordulóra gondol, hiszen a Rák csillagképet hozza szóba.  
 \[Hampó József A Kaukázusi juhászkutya ősi pecséthengereken című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében már helyesen téli napfordulósként értékeli.\]  
 
 
