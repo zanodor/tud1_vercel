@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-02-13T23:29"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-02-14T00:54"}
 ---
 
 
@@ -178,7 +178,7 @@ A magyar nemcsak nép és nyelv, hanem szellemiség, ősműveltség, életfiloz�
 
 "A magyar lélek az európai léleknek egy és más tekintetben felette áll." – Kodály Zoltán  
 
-"A magyar nép nyelve mindig magyar volt. Nem volt az se szumér, sem pedig finnugor; de mindkettőnek elődje és tanítója." – Jókai Mór  
+"A magyar nép nyelve mindig magyar volt. Nem volt az se szumér, sem pedig finnugor; de mindkettőnek elődje és tanítója." – Jókai Mór
 
 "Az eredeti "syllabikus" táblák fejezik ki legjobban a "magyar nyelv lingua primogenitum" (a világon legelső) voltát. Ezek kb. 20,000 évesek. Felfedezőik: Torma Zsófia, Marija Gimbutas és Varga Csaba." – Dudás Rudolf  
 
