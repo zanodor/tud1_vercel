@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2025-09-24T13:50"}
+{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2026-02-13T23:28"}
 ---
 
 
@@ -12,7 +12,7 @@ Amennyiben levezetését nem a [[T/Tűz\|tűz]] megfordítására alapozzuk, nyi
 
 Több szónál előjön utódnyelveinkben, például szláv `szvet` ([[S/Szvjet\|szvjet]]), angol [[S/Sweet\|sweet]]. A svájciak országának Suisse neve (de az angol átírásban Switzerland is) felismerhetően süt/süss szavunkra üt (ahogy az édeset jelentő germán szavak is). Lásd még [[S/Sweden\|Sweden]].  
 [[S/Shoot\|Shoot]] szónál is szerepelt:  
-Süt az [[U/Üt\|üt]] szavunkkal is fogalmi és hangtani rokonságban van, hiszen [[U/UT\|UT]] = Nap forró, tüzes nyilait süti, lövelli a Földre (ezért is hasonlították sünhöz, mely ismét a süt igevariánsa lehet, ahogy [[T/Tesz\|tesz]]nek [[T/TEN\|TEN]]). Hogy a süt az üt s-előtétes változata, elárulja, hogy a japán `ute` is lő jelentésű és üt szavunkkal azonos.  
+Süt az [[U/Üt\|üt]] szavunkkal is fogalmi és hangtani rokonságban van, hiszen [[U/UT\|UT]] = Nap forró, tüzes nyilait süti, lövelli a Földre (ezért is hasonlították sünhöz, mely [[S/Sün\|sün]] ismét a `süt` igevariánsa lehet, ahogy [[T/Tesz\|tesz]]nek [[T/TEN\|ten]]). Hogy a süt az üt s-előtétes változata, elárulja, hogy a japán `ute` is lő jelentésű és üt szavunkkal azonos.  
 
 Egyébiránt Varga Zsigmond Az ősmagyar mitológia c. könyvének 320. oldalán álló adata szerint a sumérben is volt egy `shad`, `shud` tő, amely fényesnek lenni, fényessé tenni, felragyogni, fény, ragyogás, tisztaság jelentéssel bírt. Lásd [[K/KAT\|KAT]].  
 
@@ -85,7 +85,7 @@ Gyakorlatilag a SZET, SZÉT, SZÍT, SZAT, SÜT, SÖT, SUT, SAT szavak alapján u
 [[S/SAD#Sad 2)\|Sad]] címnél írtuk legutóbb:  
 A `sad` fogalmában az ül ([[S/Sit\|sit]]) fogalma is meglehet. Ahogy a [[K/Kutya\|kutya]] szónak megvan a [[K/Kushad\|kushad]] kapcsolata, itt is ezt kell keresni. Egyébiránt az ainu és mundari nyelvben `seta` = kutya. Kapcsolatai: [[S/Szít\|szít]]; Szíriusz; kánikula, honnan utána jön a sötét térfél. Lényegében ez a megoldás is: a szomorú jelentésű angol `sad` szót a `sötét` szóval kell párhuzamba állítani.  
 Így lehet megérteni a fentebbi, idővel kapcsolatos szavakat is: idő = téridő = élet/állatkör, melyben a váltó/felezőpont a Kutyacsillag Szíriusz.  
-Persze a Süt/Szít/Sat/Sát/Sut/Söt/Set tulajdonképpen a [[S/Szatem\|szatem]]es változata [[K/Kut\|Kut]]-nak és társainak. Ott ([[S/Szatem\|szatem]] címnél) szóba került még a [[C/Csuda\|csuda]] címnél is kifejtett téma: hogy a magyar nyelv magában hordozza a lehetőséget arra, hogy egyes kemény hangzói (mint a K) meglehessen s, sz, cs formában is, némi jelentésmódosulattal is. Így a Magyar Adorján által taglalt régi `csod` vagy `csud` = süt, fény keményebb, eredetibb párja lehet [[K/Kut\|kut]], csudának pedig [[K/Kutya\|kutya]], de eredeti a [[S/Süt\|süt]] is (hisz ez [[T/Tűz\|tűz]] szavunk megfordítva), valamint [[H/HUD\|HUD]], [[G/GUD\|GUD]] formák is léteznek ilyen fény jelentéssel.  
+Persze a Süt/Szít/Sat/Sát/Sut/Söt/Set tulajdonképpen a szatemes változata [[K/Kut\|Kut]]-nak és társainak. [[S/Szatem\|Szatem]] címnél szóba került még a [[C/Csuda\|csuda]] címnél is kifejtett téma: hogy a magyar nyelv magában hordozza a lehetőséget arra, hogy egyes kemény hangzói (mint a K) meglehessen s, sz, cs formában is, némi jelentésmódosulattal is. Így a Magyar Adorján által taglalt régi `csod` vagy `csud` = süt, fény keményebb, eredetibb párja lehet [[K/Kut\|kut]], csudának pedig [[K/Kutya\|kutya]], de eredeti a [[S/Süt\|süt]] is (hisz ez [[T/Tűz\|tűz]] szavunk megfordítva), valamint [[H/HUD\|HUD]], [[G/GUD\|GUD]] formák is léteznek ilyen fény jelentéssel.  
 [[K/Kutya\|Kutya]] cím (újra)bevezetőjében is volt arról szó, miért is alakulhatott ki a hajlandóság arra, hogy a kemény hangzókat lecseréljék.  
 [[D/Dialektikus ellentét\|Dialektikus ellentét]] és [[H/Hunor és Magor\|Hunor és Magor]] címnél is szerepeltek az alábbiak:  
 
