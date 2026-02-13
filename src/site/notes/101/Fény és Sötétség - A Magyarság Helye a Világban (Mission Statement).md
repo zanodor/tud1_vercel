@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-02-14T00:54"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-02-14T00:55"}
 ---
 
 
@@ -171,7 +171,7 @@ A magyar nemcsak nép és nyelv, hanem szellemiség, ősműveltség, életfiloz�
 
 "Minden nép annyira sikeres, amennyi magyar öröksége van." – Péterfai János István  
 
-"Elbukik az emberiség, ha elbuknak a magyarok. Ezért segíteni kellene a magyaroknak, nem pusztítani őket. Mindenki saját, jól felfogott érdekében. Ez nem fenyegetés, ez csak az igazság, és az emberiség jövője." – Péterfai János István  
+"Elbukik az emberiség, ha elbuknak a magyarok. Ezért segíteni kellene a magyaroknak, nem pusztítani őket. Mindenki saját, jól felfogott érdekében. Ez nem fenyegetés, ez csak az igazság, és az emberiség jövője." – Péterfai János István
 
 
 "Nagyon nehéz felvenni a hátunkra olyan súlyos terheket, amelyek azt igazolják, hogy a magyar nyelvből erednek az emberiség legszentebb szavainak jelentős része." – Péterfai János István
