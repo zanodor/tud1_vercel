@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated","renameitmaybe"],"created":"2023-10-31T08:16","updated":"2025-11-28T21:21"}
+{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated","renameitmaybe"],"created":"2023-10-31T08:16","updated":"2026-02-13T23:25"}
 ---
 
 
@@ -122,7 +122,7 @@ Ahogy a cuth szóban a chald th a héberben "sin"-nek ejtetett ki cuth helyett c
 
 [^4]: Lábjegyzet:  
 Zajti Ferenc Zsidó volt-e Jézus című könyvében idéz egy műből:  
-Hyksos volt a neve [[M/Manetho\|Manetho]] és Josephus szerint azon Egyiptom fölött uralkodó idegeneknek, akik a Kr. e. 17. század vége felé törtek be Ázsiából a delta területre és ott 1580-ig tartották magukat. Mindkét történetíró >pásztor-királyok<-nak magyarázza a hyksos nevet; ezen magyarázat mellett csak népetimológiáról lehet szó. Egyiptológusok (W M. Müller, Sethe) a hyksos szót az egyiptomi >hqa chasut< (idegenek uralkodója) kifejezéssel hozzák kapcsolatba. \[Másutt angolul így írják ki a nevet: \*`heqa khasut`, mint például [ezen](https://qr.ae/pN3Zs6) Quora válaszban.\]  
+Hyksos volt a neve [[M/Manetho\|Manetho]] és Josephus szerint azon Egyiptom fölött uralkodó idegeneknek, akik a Kr. e. 17. század vége felé törtek be Ázsiából a delta területre és ott 1580-ig tartották magukat. Mindkét történetíró >pásztor-királyok<-nak magyarázza a hyksos nevet; ezen magyarázat mellett csak népetimológiáról lehet szó. Egyiptológusok (W M. Müller, Sethe) a hyksos szót az egyiptomi >hqa chasut< (idegenek uralkodója) kifejezéssel hozzák kapcsolatba. \[Másutt angolul így írják ki a nevet: **heqa khasut**, mint például [ezen](https://qr.ae/pN3Zs6) Quora válaszban.\]  
 
 [^5]: Lábjegyzet:  
 Az [alábbi](https://youtu.be/1HozHdd7Lsc) Vidám Vasárnap Klub videóban az idegen hatalom történésze, Grüll Tibor "biztos benne", hogy sémita nyelvet beszéltek...
