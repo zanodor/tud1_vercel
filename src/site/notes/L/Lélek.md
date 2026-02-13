@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2025-10-10T21:50"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2026-02-13T23:21"}
 ---
 
 
@@ -451,7 +451,7 @@ Az [alábbi](https://youtu.be/aeRDLskUSZM) Turul ![assets/Lélek_image5.png|fix_
 
 Mindig, mindenütt azt hangoztatom és erről [[D/Dogma\|dogma]] és [[C/Címke\|címkézés]] címnél is volt szó, hogy a mai fogalmak tisztázása a magyar nyelv alapján mennyire fontos. Ennél is fontosabb a jelképek és a magyar szavak vizsgálata, ugyanis az analógiás/képi gondolkodásra építő őseink a mélyen a tudatalattinkba átmentett tudását kell felszínre hozni ahhoz, hogy a magyarság és a világ megmeneküljön. Ez a kulcs. Ezt lefordítva lehetne betenni a Quora főcikkem aljára is.  
 
-Dr. Gyárfás Ágnes az Ősi Gyökér 2010/1-2. sz. közölt Magyar őskutatás a szimbolikák jegyében című cikkének bevezetőjében szereplő képet lásd csatolva. Tetszik amit, a lélek mélyén lappangó homályos képekről ír és azokról a jelképekről (szarvas, madár \[Turul\] és tulipán), melyek a mélytudat képeit előcsalogató ún. közképek.  
+Dr. Gyárfás Ágnes Magyar őskutatás a szimbolikák jegyében című, az Ősi Gyökér 2010/1-2. sz. közölt cikkének bevezetőjében szereplő képet lásd csatolva. Tetszik amit, a lélek mélyén lappangó homályos képekről ír és azokról a jelképekről (szarvas, madár \[Turul\] és tulipán), melyek a mélytudat képeit előcsalogató ún. közképek.  
 
 ## Csoportlélek
 
