@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2025-10-10T21:54"}
+{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2026-02-13T23:27"}
 ---
 
 
@@ -53,7 +53,7 @@ Ezek alapján ezt lehet mondani, hogy az asva (Ász-Fa) és az asvin (Ász-Fény
 
 Itt még Péterfai János [[A/Ass\|ass]] címnél szereplő adata is érdekes/érvényes lehet(ett volna), minthogy ott ló, szamár, öszvér jelentésekről is volt szó. A lovak és az ősök/ászok olyannyira összemosódtak, hogy a [[C/Centaur\|centaur]] is innen kaphatta nevét, és ahogy tudjuk, a Nyilas jegy is Ló a kínai asztrológiában.  
 Arról is lehetne beszélni, hogy a hímló [[M/Mén\|mén]] [[H/Halad\|halad]] jelentésű és a malom [[M/MUN\|MUN]]-nál szereplő neve is összefügghet vele úgy, ahogy a [[H/Honey\|honey]] és [[H/Hamlet malma\|Hamlet malma]] címnél előjövő perzsa malom(kő) jelentésű `āsyā`, `āsiyā` a lovat jelentő `asva`/`aspa` nevekkel.  
-Az is tény, hogy más nyelvekben is szerepel az ász illetve ős (mint Tejútanya; vesd össze némely nyelvek `asu` = kutya jelentésével és láttuk, hogy a kutya szóval azonos [[K/Kuda\|kuda]] egyes nyelveken ló jelentésű) név ló jelentéssel önállóan is: fidzsi-szigeteki `ose` = ló, kriol nyelvű `os`, míg a török, kirgiz, kazah, stb. nyelvekeni `at` = ló mint Atyára utaló jön elő, de itt már nyilván nem a Tejútra, hanem a (holdtisztelőknél) a Holdra utalva. Ennek bizonyítéka lehetne az igen érdekes irántxe[^1] nyelvű `wirapu` (Vér/Vir-Apu) = Hold szó is.  
+Az is tény, hogy más nyelvekben is szerepel az ász illetve ős (mint Tejútanya; vesd össze némely nyelvek `asu` = kutya jelentésével és láttuk, hogy a kutya szóval azonos [[K/Kuda\|kuda]] egyes nyelveken ló jelentésű) név ló jelentéssel önállóan is: fidzsi-szigeteki `ose` = ló, kriol nyelvű `os`, míg a török, kirgiz, kazah, stb. nyelvekbeni `at` = ló mint Atyára utaló jön elő, de itt már nyilván nem a Tejútra, hanem a (holdtisztelőknél) a Holdra utalva. Ennek bizonyítéka lehetne az igen érdekes irántxe[^1] nyelvű `wirapu` (Vér/Vir-Apu) = Hold szó is.  
 
 CzF szótárban huszár címnél:  
 > Figyelmet érdemelnek a perzsa `aszvár` v. `szuvár`, a pehlvi `aszbár`, ékirati `aszbára`, valamennyien am. lovag, a szanszkrit `aszva`, zend `aszpa`, perzsa `aszp`, `aszb` szóktól.  
