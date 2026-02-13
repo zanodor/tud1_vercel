@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2026-01-17T00:10"}
+{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2026-02-13T23:22"}
 ---
 
 
@@ -106,7 +106,7 @@ Az északi-sarki Paradicsom istenének/fájának neve az egyiptomi hagyományban
 
 A fa és a nő hiedelmi megfeleltetéséről lásd [[F/Fa és nő\|fa és nő]].  
 Jankovics Marcell A fa mitológiája című könyvének 93-94. oldalán példázza a [[F/Füge\|füge]]fa-istennőket és a szent tejet adó fügefákat ([[R/Rumen\|Rumen]] címnél is volt róluk szó illetve [[L/Lac\|lac]] és [[H/Honey\|honey]] címszókhoz is be lett téve említésként némi info).  
-Arról, hogy ez ember "lemászott a fáról," lásd Jankovics Marcell anyagát is [[D/Darwin, Charles és elméletének cáfolata\|Charles Darwin és elméletének cáfolata]].  
+Arról, hogy ez ember "lemászott a fáról," lásd Jankovics Marcell anyagát is [[D/Darwin, Charles és elméletének cáfolata#A fáról lemászás nem majomősre utal\|Charles Darwin és elméletének cáfolata]].  
 
 Az archaikus népi imádságban nagyon szépen kapcsolódik össze az életfa és minden fontos szereplő:  
 > *Ég szülte Földet,*  
