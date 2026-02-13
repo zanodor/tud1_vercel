@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-01-24T00:09"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-02-13T23:22"}
 ---
 
 
@@ -95,9 +95,9 @@ Ugyanígy Turul Ul része is lehet `El`/Úr változata.
 
 Mondtam volna még azt is, hogy nem kell mindenáron fordul jelentéshez napfordulóval kapcsolatos jelentést társítani, hiszen az égi madár is ilyen mozgást végez. Ugyanakkor minden szó asztrális és asztronómiai értelmű első körben. Továbbá az alant taglalt forduló/kapu értelem is elárulja, hogy ez a helyes értelmezési út. Azaz ismét főneveket keresünk. A magyar fogalmakat, ha egy mód van rá, ne igékből kívánjuk megfejteni. Az már kérdés, és igen lényeges, hogy a régi nyelvben az ige(i funkció) nem különölt el a névszói szerkezetet alkotó főnév(i szerkezet)től.  
 
-#### Dr. Gyárfás Ágnes az Ősi Gyökér 2010/1-2. sz. közölt Magyar őskutatás a szimbolikák jegyében...
+#### Dr. Gyárfás Ágnes Magyar őskutatás a szimbolikák jegyében...
 
-...című cikkében is előveszi a Turul nevet. Úgy tűnik, Badiny téli napfordulós adatát nem ismeri. Ott álló adata szerint az UL "gyök" madarat és szentet \[és nem fiút?\] jelentene:  
+...című, az Ősi Gyökér 2010/1-2. sz. közölt cikkében is előveszi a Turul nevet. Úgy tűnik, Badiny téli napfordulós adatát nem ismeri. Ott álló adata szerint az UL "gyök" madarat és szentet \[és nem fiút?\] jelentene:  
 > Madárvoltunkat mi sem bizonyítja jobban, mint királyi családunk eredete. A Turul nevű szent madár lett az őse szent királyainknak. A [[T/TUR\|TUR]] ősi mezopotámiai szógyök fiú jelentésű. Az UL gyök madarat és szentet jelent. Innen ered a [[H/Holló\|holló]] szavunk és szent voltára Mátyás király emlékezett, amikor címerállatául fogadta, s neve elé tette: Hollós Mátyás király. Ő is turullu volt, fény-fiú, szent, tiszta.  
 
 Valójában Gyárfás Ágnes Badiny Jós Ferenc Turul, Karácsony napmadara című Ősi Gyökér 2004/4. sz. megjelent cikkének anyagát már ismerhette korábban, aki szintén a sumér `TUR` = fiú értelméből indul ki. [[T/Tura\|Tura]] címnél is volt szó fiúról.  
