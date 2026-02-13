@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-02-06T23:03"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-02-13T23:21"}
 ---
 
 
@@ -21,6 +21,11 @@
 
 **2026:**
 
+[260213CN! BUDAPEST és DREZDA 1945](https://rumble.com/v75pt6m-260213cn-budapest-s-drezda-1945-kubnyi-tams-ktv.html)  [https://archive.ph/LjMtz](https://archive.ph/LjMtz)
+[260212CN! FENYEGETÉS](https://rumble.com/v75o5vg-260212cn-fenyegets-kubnyi-tams-ktv.html)  [https://archive.ph/x2utF](https://archive.ph/x2utF)
+[260211CN! DOBÓ és BALASSA](https://rumble.com/v75memw-2602111cn-dob-s-balassa-kubnyi-tams-ktv.html)  [https://archive.ph/5HzRd](https://archive.ph/5HzRd)
+[260210CN! KITÖRÉS](https://rumble.com/v75krci-260210cn-kitrs-kubnyi-tams-ktv.html)  [https://archive.ph/jD9Gd](https://archive.ph/jD9Gd)
+[260209CN! TITKOS HÁTTÉR](https://rumble.com/v75j30e-260209cn-titkos-httr-kubnyi-tams-ktv.html)  [https://archive.ph/CQxU9](https://archive.ph/CQxU9)
 [260206CN! A MUNKA TISZTESSÉGE](https://rumble.com/v75e9gc-260206cn-a-munka-tisztessge-kubnyi-tams-ktv.html)  [https://archive.ph/fKTwr](https://archive.ph/fKTwr)
 [260205CN! LÁTHATÓ és LÁTHATATLAN](https://rumble.com/v75cigq-260205cn-lthat-s-lthatatlan-kubnyi-tams-ktv.html)  [https://archive.ph/ejKwX](https://archive.ph/ejKwX)
 [260204CN! KÉT MÁRTÍR](https://rumble.com/v75av2s-260204cn-kt-mrtr-kubnyi-tams-ktv.html)  [https://archive.ph/oXp1h](https://archive.ph/oXp1h)
