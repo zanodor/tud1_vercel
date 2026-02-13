@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2026-01-17T00:10"}
+{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2026-02-13T23:22"}
 ---
 
 
@@ -457,7 +457,7 @@ Több helyen volt szó arról, hogy egy szivet formáz a Kárpát-medence és ar
 > Sokaknak feltűnt már, hogy a világűrből a Földre tekintve a Kárpát-medence egy emberi agyra emlékeztető formát ad ki. Ha megkeressük a tobozmirigy helyét, akkor hogy-hogy nem, éppen a Pilis térségénél találjuk. Aki már foglalkozott egy kicsit ezotériával, tudhatja, hogy a korona csakrához tartozó belső elválasztású mirigy éppen a tobozmirigy. Akár igaz ez a fejtegetés, akár nem, a Pilisben található energiák léteznek, valódiak és valóban erőteljesen hatnak az ember harmadik szem és korona csakrájára, vagyis a két fejen található, a látással és a tiszta szellemiséggel kapcsolatos energiaközpontunkra.  
 
 3\. [[P/Ponty\|Ponty]]  
-Kubínyi Tamás Álmos Király TV műsorának felvezetőjében a [[K/Kárpát\|Kárpát]] képének mutogatása közben egy ponty-szerű halat is betett, és ezen a ponton eszembe ötlött: innen, a Kárpátok nevéből származik a latin és orosz ponty jelentésű szavuk (angolul is [[C/Carp\|carp]])! Kubínyi nagy tudású ember, ez tény.  
+Kubínyi Tamás Álmos Király TV műsorának felvezetőjében a [[K/Kárpát\|Kárpát]] képének mutogatása közben egy ponty-szerű halat is betett, és ezen a ponton felötlött: innen, a Kárpátok nevéből származik a latin és orosz ponty jelentésű szavuk (angolul is [[C/Carp\|carp]])?  
 
 [[M/Magyar#Magyar a Nyilas népe\|Magyar a Nyilas népe]] cím/alcímnél taglaljuk még a témát.  
 
