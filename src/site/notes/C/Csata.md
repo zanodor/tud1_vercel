@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csata/","title":"Csata","tags":["Englishtexttranslated"],"created":"2023-11-02T01:48","updated":"2025-05-29T14:35"}
+{"dg-publish":true,"permalink":"/C/Csata/","title":"Csata","tags":["Englishtexttranslated"],"created":"2023-11-02T01:48","updated":"2026-02-13T23:29"}
 ---
 
 
@@ -8,10 +8,13 @@
 #### Péterfai János írja:
 
 > Csata szavunk Csa és Ta elemei valószínűleg a Vízért folyó küzdelem értelméből fakadnak. Csa a Víz, a Ta a Táj, Ország, Hely. A Csa-Ta képzete nagyon ősi lehet, messze régebbi, mint az ókor ideje. Csata szavunkból ered a Csattog, Csattan, Csatár, és mások.  
+- Én magam a Tejútra gondolok, ha már a víz szóba került. Lásd legalul lemniszkáta témát.
+
+Korábban itt álló ötletelések:  
 
 Kún-hun alakú szó, mely "rendesen" [[K/Kata\|kata]] alakú lehetett. Szó volt róla [[S/SZAT\|SZAT]] és [[S/Szata\|SZATA]] címnél, minthogy a szó nem a földi, hanem égi csatákra utal (ahogy az asztrális eredetű [[S/Sakk\|sakk]] is a Bolygók Csatájának hívatott). Az ott szereplő adatok szerint [[B/Bolygóegyüttállások\|bolygóegyüttállások]]ra, vagy más, égitestek vagy időkörök találkozására utalhat (kezdet és egyben végpontokra), illetve pályák metszéspontjára (a [[K/Kereszt\|kereszt]] címnél is taglalt keresztezés helyett az átvág értelem van meg a [[C/Cut\|cut]] szóhoz is tartható csata szóban).  
 
-Legutóbb [[C/Cadaver\|cadaver]] és [[O/Ősz\|ősz]] címnél arról volt szó, hogy akár a Nappálya ([[E/Ecliptic\|ecliptic]]) és az [[E/Égi egyenlítő\|égi egyenlítő]] metszéspontjaira (a szinusz-görbe zérópontjaira) is utalhat, bár, kimondottan a hun-latin `casus` = bukás, romlás (biztosan fényviszonyokra utaló) szó és a hun-görög eredetű [[C/Cata- prefixum\|cata- prefixum]] kapcsán azt várnánk, hogy a Nappálya eséséből adodó égi találkozásokra, metszéspontokra utalhatna, annak dacára, hogy a szintén kún-hun [[K/Konyul\|konyul]] és [[K/Kanyar\|kanyar]] szavak közül kivált előbbi már hordoz ilyen jelentést és lehetőséget magában.  
+Legutóbb [[C/Cadaver\|cadaver]] és [[O/Ősz\|ősz]] címnél arról volt szó, hogy akár a Nappálya ([[E/Ecliptic\|ecliptic]]) és az [[E/Égi egyenlítő\|égi egyenlítő]] metszéspontjaira (a szinusz-görbe zérópontjaira) is utalhat, bár, kimondottan a hun-latin `casus` = bukás, romlás (biztosan fényviszonyokra utaló) szó és a hun-görög eredetű [[C/Cata- prefixum\|cata- prefixum]] kapcsán azt várnánk, hogy a Nappálya eséséből adódó égi találkozásokra, metszéspontokra utalhatna, annak dacára, hogy a szintén kún-hun [[K/Konyul\|konyul]] és [[K/Kanyar\|kanyar]] szavak közül kivált előbbi már hordoz ilyen jelentést és lehetőséget magában.  
 
 [[R/Rahu\|Rahu]] címnél is szerepeltek az alábbiak:  
 
@@ -35,8 +38,12 @@ A csata tehát azért jelenti a hétköznapi értelemben vett ütközetet, harco
 
 Alant írottak alapján [[C/Csatár\|csatár]] visszaképzése is megadhatja eredetét.  
 
-Elképzelhető, mivel a háború és szerelem istennője Szíriusz, a Kutyacsillag, mely kutya a [[C/Csat\|csat]] szónál is előjövő [[K/Köt\|köt]] szót tartalmazza, hogy a [[L/Lemniszkáta\|lemniszkáta]] középső kötőpontja a csata.  
-
 A kata szóvázát némileg követő, de m-előhangos [[M/Meet\|meet]] is olyan találkozás, mely pályák metszőpontjára utal. `Encounter` eredeti értelme is hasonló.  
+
+## Tisztázat
+
+Mivel a háború és szerelem istennője Szíriusz, a Kutyacsillag, mely kutya a [[C/Csat\|csat]] szónál is előjövő [[K/Köt\|köt]] szót tartalmazza, ezért a [[L/Lemniszkáta#Lemniszkáta-kötőpontra vonatkozó hajlik, valamint köt jelentésű germán szavak\|lemniszkáta]] középső kötőpontja kell a csata értelmét adja. Lásd még [[S/Szét és össze\|szét és össze]].  
+
+## Idegen nyelvekbeni megjelenései
 
 Idegen nyelvekben is megtalálható a szó: finn `sota` = csata és a walesi `cad` is ezt jelenti.  
