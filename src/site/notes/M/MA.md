@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MA/","title":"MA","tags":["Englishtexttranslated"],"created":"2024-04-21T14:10","updated":"2026-02-06T23:04"}
+{"dg-publish":true,"permalink":"/M/MA/","title":"MA","tags":["Englishtexttranslated"],"created":"2024-04-21T14:10","updated":"2026-02-13T23:28"}
 ---
 
 
@@ -75,7 +75,12 @@ Vagy fogalmazzunk így: a nap a 24 órás időkör neve, ahogy ma is erre utal. 
 
 
 
-Az Apocalypto című film [7:31-nél](https://videa.hu/videok/film-animacio/apocalypto-2006-UVkPGMrx10odPDcV?start=451) és [34:05-nél](https://videa.hu/videok/film-animacio/apocalypto-2006-UVkPGMrx10odPDcV?start=2044) szereplő adata szerint a maja `ma` = nem jelentésű lenne. Ugyanúgy a nőiség jelentené tehát a negatívumot, mint [[N/Negative\|másutt]] nő, ne, stb.  
+Az Apocalypto című film [7:31-nél](https://videa.hu/videok/film-animacio/apocalypto-2006-UVkPGMrx10odPDcV?start=451) és [34:05-nél](https://videa.hu/videok/film-animacio/apocalypto-2006-UVkPGMrx10odPDcV?start=2044) szereplő adata szerint a maja `ma` = nem jelentésű. Ugyanúgy a nőiség jelentené tehát a negatívumot, mint [[N/Negative\|másutt]] nő, ne, stb.  
+
+A török nyelvben szuffixumként `ma`és `me` szók hasonló tagadó értelemmel használatosak. 
+Mivel a `me` alak a `ne` alak N>M váltásos változata lehet, úgy tűnik, hogy a `ma` sem egyéb, mint a `me` olyan változata, ami mély hangrendű igékhez járul. Pl.:  
+`gel` (gyere) → `gelme` (ne gyere)
+`oku` (olvass) → `okuma` (ne olvass)
 
 ## Lábjegyzetek
 
