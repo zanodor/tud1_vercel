@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szemiták és árják/","title":"Szemiták és árják","tags":["Englishtexttranslated"],"created":"2024-10-27T11:51","updated":"2025-08-10T02:12"}
+{"dg-publish":true,"permalink":"/S/Szemiták és árják/","title":"Szemiták és árják","tags":["Englishtexttranslated"],"created":"2024-10-27T11:51","updated":"2026-02-13T23:25"}
 ---
 
 
@@ -97,7 +97,7 @@ Az Íjazóra utaló [[K/Khamor\|Khamor]] név változata a [[K/Kimmér\|kimmér]
 
 [[B/Balog\|Balog]] és [[O/Oláh\|oláh]] címnél [[P/Palóc\|palóc]] eredetre mentünk vissza a fontosnak tartott vlach-oláh név megfejtésének ügyében, de maguk a szóalakok is palóc alakúak. És hogy mennyire Balog-Orionról lehet itt szó, mutatja, hogy a B>F változással azonosnak mondható [[F/Flash\|flash]] címnél előjött villám és nyílvessző értelem is. Ami megint csak arra utal, hogy itt a palóc Orion/Íjazó jelentésről van szó: magukat ezen népek még mindig íjfeszítőnek tartják, illetve magukat az [[O/Orion övcsillagai\|Orion övcsillagai]] címnél, külön alcímnél írottak alapján apai ágon Nimrud-Oriontól származónak tartották, de már sem a nyelvük, sem a szokásaik nem hasonlítható a kiinduló népéhez.  
 Azt látjuk tehát, és ennek bizonyítása a célom a könyvemben is, hogy mindenki szinte ebből az íjfeszítő hagyományból, a csillagvallás csillagmítoszi hagyományainak megtartásával lép át a Kali Yugába, de több, kevert nép vallásában is átalakul, összesített értelembe romlik, a kor szellemének megfelelően is, de kimutathatóak nyelvi értelemben is a magyar törzsekből való származásuk. A békére kell törekedni az utódnépek (és persze az anyanép) között.  
-Ha belegondolunk, hihetetlen könnyű látni a mai világban kialakult gondok eredőjét: a marsikus nyilazó patriarchális ([[P/Pater\|Pater]] = Orion = [[R/Rudra\|Rudra]] = Marssal is azonosították érthető már miért) szemléletet és persze az ehhez adodó korrumpált napvallást (pénzistennel).  
+Ha belegondolunk, hihetetlen könnyű látni a mai világban kialakult gondok eredőjét: a marsikus nyilazó patriarchális ([[P/Pater\|Pater]] = Orion = [[R/Rudra\|Rudra]] = Marssal is azonosították érthető már miért) szemléletet és persze az ehhez adódó korrumpált napvallást (pénzistennel).  
 
 ## Szemita és indogermán kultúr-prioritás
 
