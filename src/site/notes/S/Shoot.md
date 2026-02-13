@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Shoot/","title":"Shoot","tags":["Englishtexttranslated"],"created":"2024-11-05T19:18","updated":"2025-08-31T02:53"}
+{"dg-publish":true,"permalink":"/S/Shoot/","title":"Shoot","tags":["Englishtexttranslated"],"created":"2024-11-05T19:18","updated":"2026-02-13T23:28"}
 ---
 
 
@@ -18,7 +18,7 @@ Lényegében a `shoot` egészen nyilvánvalóan a nyíllövés, nyilazás (és a
 
 #### Bognár Ferenc A magyarok istene...
 
-...című cikkének [[V/Vadász\|vadász]] címnél álló adatainak folytatásaként szerepeljen, hogy a Biblia Gen 21.20.-nál szereplő "íjas vadász lett" rész különböző nyelvekeni fordításai alapján is arra a következtetésre jutott, mint Bíró Lajos:  
+...című cikkének [[V/Vadász\|vadász]] címnél álló adatainak folytatásaként szerepeljen, hogy a Biblia Gen 21.20.-nál szereplő "íjas vadász lett" rész különböző nyelvekbeni fordításai alapján is arra a következtetésre jutott, mint Bíró Lajos:  
 > Nézzük az íjas-vadász megfelelőit!  
 > Ez a német `bogen-schütze`, a norvég `bue-skytter`, és dán `bue-skytte`.  
 > Ahol a bogen és bue jelenti az íjat, a lövész-vadászt pedig a schütze/skytter/skytte/kütt tagok.  
