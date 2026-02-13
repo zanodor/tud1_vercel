@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2025-09-24T13:43"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2026-02-13T23:25"}
 ---
 
 
@@ -181,7 +181,7 @@ A nő a férfi csecsemőt imádja, nem a felnőtt férfit: ez az ő istenségén
 
 [^4]: Lábjegyzet:  
 [[K/Kata\|Kata]] címnél is erről volt szó:  
-Legutóbb [[C/Cadaver\|cadaver]] és [[O/Ősz\|ősz]] címnél arról volt szó, hogy akár a Nappálya ([[E/Ecliptic\|ecliptic]]) és az [[E/Égi egyenlítő\|égi egyenlítő]] metszéspontjaira (a szinusz-görbe zérópontjaira) is utalhat (a [[N/Nap – halott Nap#A Nap halála\|Nap halálá]]ra), bár, kimondottan a hun-latin `casus` = bukás, romlás (biztosan fényviszonyokra utaló) szó és a hun-görög eredetű [[C/Cata- prefixum\|cata- prefixum]] kapcsán azt várnánk, hogy a Nappálya eséséből adodó égi találkozásokra, metszéspontokra utalhatna, annak dacára, hogy a szintén kún-hun [[K/Konyul\|konyul]] és [[K/Kanyar\|kanyar]] szavak közül kivált előbbi már hordoz ilyen jelentést és lehetőséget magában.  
+Legutóbb [[C/Cadaver\|cadaver]] és [[O/Ősz\|ősz]] címnél arról volt szó, hogy akár a Nappálya ([[E/Ecliptic\|ecliptic]]) és az [[E/Égi egyenlítő\|égi egyenlítő]] metszéspontjaira (a szinusz-görbe zérópontjaira) is utalhat (a [[N/Nap – halott Nap#A Nap halála\|Nap halálá]]ra), bár, kimondottan a hun-latin `casus` = bukás, romlás (biztosan fényviszonyokra utaló) szó és a hun-görög eredetű [[C/Cata- prefixum\|cata- prefixum]] kapcsán azt várnánk, hogy a Nappálya eséséből adódó égi találkozásokra, metszéspontokra utalhatna, annak dacára, hogy a szintén kún-hun [[K/Konyul\|konyul]] és [[K/Kanyar\|kanyar]] szavak közül kivált előbbi már hordoz ilyen jelentést és lehetőséget magában.  
 Érdekes a japán `kado`, mely jelent sarokpontot(!) (küszöböt?) és innen, ajtót, kaput is (betéve [[G/Gate\|gate]] címhez is, de más jelentése szerint `kado` = képesség, tehetség, szellemesség).  
 Igen is, nagyon valószínű, hogy a görög `kata` = alá, le, mögé szó a Nap halálára, alábukására utal.  
 
