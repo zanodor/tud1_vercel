@@ -116,7 +116,7 @@ A gondokat részletesebben, komolyabban [ezen](https://qr.ae/pCJkVb) Quora vála
 > 
 > Vissza kell térni az **integritáshoz**: olyan megértési modellekhez, amelyek újra egyesítik a jelentést, a tapasztalatot és a létet — nem töredékekként, hanem élő egészként.
 
-
+[[STICKY/_AI_IDE_BRAINSTORMING/Nyelvészeti és teológiai párhuzamok\|nyelvészeti és teológiai párhuzamok]]
 
 Azzal folytatnám, hogy [[M/Magyar népművészet\|magyar népművészet]] címnél már szerepeltek olyan passzusok, melyek akár ide is tehetők lehettek volna.  
 
