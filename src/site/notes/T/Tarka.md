@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tarka","title":"Tarka","tags":["Englishtexttranslated"],"created":"2023-10-11T04:42","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/T/Tarka/","title":"Tarka","created":"2023-11-14T03:20","updated":"2026-02-14T18:13"}
 ---
+
 
 # Tarka
 
