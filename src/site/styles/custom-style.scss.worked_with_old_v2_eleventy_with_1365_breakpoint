@@ -1,0 +1,147 @@
+/***
+  ADD YOUR CUSTOM STYLING HERE. (OUTSIDE ANY SELECTOR.)
+  IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+***/
+
+
+/*** Transcluded elements double blockquote fix ***/
+
+.markdown-preview-view .markdown-embed-content .markdown-rendered blockquote {
+  margin-left: -60px;
+  padding-left: 12px;
+}
+
+.internal-embed .markdown-rendered blockquote {
+  margin-left: 0px;
+  padding-left: 20px;
+}
+
+
+/*** Mermaid diagram background changes to blend in with Gruvbox backgrounds ***/
+
+/* For mermaid elements within callouts - Light Mode */
+.theme-light .markdown-preview-view pre.mermaid {
+  background: #f9f5d7 !important;
+  border-radius: 25px;
+  padding: 10px;
+  text-align: center;
+}
+
+/* For mermaid elements within callouts - Dark Mode */
+.theme-dark .markdown-preview-view pre.mermaid {
+  background: #1f1f1f !important;
+  border-radius: 25px;
+  padding: 10px;
+  text-align: center;
+}
+
+/* For standalone mermaid elements - Light Mode */
+.theme-light .mermaid {
+  background: #f9f5d7 !important;
+  border-radius: 25px;
+  padding: 10px;
+  text-align: center;
+}
+
+/* For standalone mermaid elements - Dark Mode */
+.theme-dark .mermaid {
+  background: #1f1f1f !important;
+  border-radius: 25px;
+  padding: 10px;
+  text-align: center;
+}
+
+/*** Search-related styling ***/
+/* Light theme */
+.theme-light {
+  .search-loading-status {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin: 5px 0;
+    text-align: center;
+  }
+
+  .search-status {
+    margin: 0 0 10px 0;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+
+  .searchresult strong {
+    background-color: #f9f5d7;
+    font-weight: bold;
+    color: var(--text-accent);
+  }
+}
+
+/* Dark theme */
+.theme-dark {
+  .search-loading-status {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin: 5px 0;
+    text-align: center;
+  }
+
+  .search-status {
+    margin: 0 0 10px 0;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+
+  .searchresult strong {
+    background-color: rgba(251, 241, 199, 0.15);
+    font-weight: bold;
+    color: var(--text-accent);
+  }
+}
+
+/* Content size revamp - Desktop only */
+@media (min-width: 1365px) {
+  body {
+    --file-line-width: 780px;
+    --font-text-size: 20px;
+  }
+  .content {
+    max-width: var(--file-line-width) !important;
+    font-size: var(--font-text-size) !important;
+    margin-left: calc(50% - (var(--file-line-width) / 2) - 40px) !important;
+    padding-right: 40px !important;
+  }
+}
+
+/* Table font size override - Mobile */
+.table-view-table {
+    font-size: 15px;
+}
+
+.table-view-table > thead > tr > th,
+.table-view-table > tbody > tr > td {
+    font-size: 15px;
+}
+
+/* Standard markdown tables - Mobile */
+.cm-s-obsidian table,
+.cm-s-obsidian table th,
+.cm-s-obsidian table td {
+    font-size: 15px;
+}
+
+/* Table font size override - Desktop */
+@media (min-width: 1365px) {
+    .table-view-table {
+        font-size: 18px;
+    }
+
+    .table-view-table > thead > tr > th,
+    .table-view-table > tbody > tr > td {
+        font-size: 18px;
+    }
+
+    /* Standard markdown tables - Desktop */
+    .cm-s-obsidian table,
+    .cm-s-obsidian table th,
+    .cm-s-obsidian table td {
+        font-size: 18px;
+    }
+}

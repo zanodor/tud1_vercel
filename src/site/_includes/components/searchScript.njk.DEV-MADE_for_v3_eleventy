@@ -329,13 +329,13 @@
             showPreview(parseInt(results[newIndex].dataset.index));
         }
 
-        const debouncedSearch = debounce(search, 600, false);
-    window.field = document.querySelector('#term');
-    field.addEventListener('keydown', (e) => {
-        if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp' && e.key !== 'Enter') {
-            debouncedSearch();
-        }
-    });
+        const debouncedSearch = debounce(search, 200, false);
+        window.field = document.querySelector('#term');
+        field.addEventListener('keydown', (e) => {
+            if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp' && e.key !== 'Enter') {
+                debouncedSearch();
+            }
+        });
         window.resultsDiv = document.querySelector('#search-results');
 
         const params = new URL(location.href).searchParams;
@@ -363,12 +363,6 @@
             if (searchLayout) searchLayout.classList.add('no-preview');
             return;
         }
-
-        // Prevent freezing on very short queries
-        if (searchQuery.length < 2) {
-            return;
-        }
-
         if (searchQuery === lastSearch) return;
 
         window.lastSearch = searchQuery;
@@ -377,7 +371,7 @@
         resultsDiv.innerHTML = loadingSvg;
         hidePreview();
 
-        const results = await offlineSearch(searchQuery);
+        const results = offlineSearch(searchQuery);
         window.searchResults = results;
 
         if (!results.length) {
@@ -438,15 +432,15 @@
 
     // ===== Offline Search =====
 
-    async function offlineSearch(searchQuery) {
+    function offlineSearch(searchQuery) {
         const data = window.docs;
         const isTagSearch = searchQuery[0] === "#" && searchQuery.length > 1;
 
         const searchResults = isTagSearch
-            ? await index.searchAsync(searchQuery.substring(1), [{ field: "tags" }])
-            : await index.searchAsync(searchQuery, [
-                { field: "title", limit: 50 },
-                { field: "content", limit: 100 }
+            ? index.search(searchQuery.substring(1), [{ field: "tags" }])
+            : index.search(searchQuery, [
+                { field: "title", limit: 5 },
+                { field: "content", limit: 10 }
             ]);
 
         const getByField = (field) => {
