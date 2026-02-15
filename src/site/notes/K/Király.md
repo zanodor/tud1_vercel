@@ -1,9 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-10-27T12:27","updated":"2025-10-31T01:49"}
+{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-10-27T12:27","updated":"2026-02-15T23:09"}
 ---
 
 
 # Király
+
+A `király` név nem Nagy Károly neve alapján ered, hanem a [[T/Turul\|Turul]] név k-előhangos változatáról van szó.  
+
+> [!check] &nbsp;
+> A király eszmeiségét csak magyarul érthetjük meg.
+
+Ahogy a felvilágnak megfelelő [[K/Korona#Szent Korona\|Szent Korona]] "maga alá" Isten és ember közé királyt kíván, úgy járja be ég és föld távolságát a magasra repülni tudó madár (sólyom, sas) (és ugyanilyen analógiával a [[M/Magyar\|magyar]] = [[M/Madár\|madár]] feladata a többi nép felé is az isten és ember közti kapcsolat megismertetése, ennek közvetítése).  
+
+Lásd még [[M/Madár#Madaras koronák\|madaras koronák]].
 
 #### Péterfai János írja:
 
@@ -11,8 +20,8 @@
 > \[...\]  
 > Arikan Atilla felesége. Ari az Arany becézése, a Kan Királynő. Őseink a királynőket is királynak nevezték, mert valóban királyok voltak. A női ügyekben férfi király nem ítélkezhetett, mert be sem engedték a nők a férfi királyt az ítélkezéseik vitájába.  
 
-Alant többféle szófejtés szóba kerül, de azt kell mondjam, Péterfai János nagyon szépen kikerülte a problémát és egy nagyon frappáns megoldással rukkolt elő.  
-Amikor más nyelveket említ Péterfai János, nyilván a lengyel `kraj` = ország, poétikus-ironikus orosz `kraj` = ország, szlovák és ukrán `krajina` = ország és még főképp a török `kral` = király és `kraliçe` = királyné/nő szavakra gondolt.  
+Alant többféle szófejtés szóba kerül, de azt kell mondjam, Péterfai János a j-végződéses Ráj formát megfejtéséhez figyelembe véve nagyon szépen *kikerülte a problémát* és amúgy egy nagyon frappáns megoldási *kísérlettel* rukkolt elő.  
+Amikor más nyelveket említ Péterfai, nyilván a lengyel `kraj` = ország, poétikus-ironikus orosz `kraj` = ország, szlovák és ukrán `krajina` = ország és még főképp a török `kral` = király és `kraliçe` = királyné/nő szavakra gondolt.  
 Péterfai János másutt szereplő adata szerint az udmurt/votják `koroló` = király.  
 Nem hihető, hogy Nagy Károly...  
 - [Ezen](https://en.wikipedia.org/wiki/Charlemagne) oldalon azt állítják, hogy innen eredne a királyt jelentő szó mindenütt (patetikus):  
@@ -21,7 +30,10 @@ Nem hihető, hogy Nagy Károly...
 > Károly eredményei új jelentést kölcsönöztek a nevének. Európa számos nyelvében a "király" szó maga az ő nevéből származik; pl. lengyel: `król`, ukrán: `король` (korol'), cseh: `král`, szlovák: `kráľ`, magyar: `király`, litván: `karalius`, lett: `karalis`, orosz: `король`, macedón: `крал`, bolgár: `крал`, szerb-horvát: `краљ`/`kralj`, török: `kral`.  
 - Lentebb Bilecz Ferencnél lásd még a témát.
 
-...híre hozzájuk eljutott volna (na ezen finnugor szót ki is hagyták a felsorolásból) vagy hogy az udmurtok is töltögettek volna magánhangzókat (persze az udmurt szó is lehet későbbi szlávból átvét, ugyanakkor a szóalak nem látszik ezt alátámasztani). Egyébként ez a név igen hasonló a szingaléz `kurullā` = madár névhez, melyhez a több helyen, [[K/Karoly\|karoly]] címnél is említett albán `kurrillë` = darumadár jelentésű szó is hasonló.  
+...híre hozzájuk eljutott volna (na ezen finnugor szót ki is hagyták a felsorolásból) vagy hogy az udmurtok is töltögettek volna magánhangzókat (persze az udmurt szó is lehet későbbi szlávból átvét, ugyanakkor a szóalak nem látszik ezt alátámasztani).  
+
+> [!check] &nbsp;
+> Egyébként ez a név igen hasonló a szingaléz `kurullā` = madár névhez, melyhez a több helyen, [[K/Karoly\|karoly]] címnél is említett albán `kurrillë` = darumadár jelentésű szó is hasonló.
 
 Ha a Wiki féle adatot nem számoljuk, akkor ezen a ponton nagy fejfájást okozunk a magyarellenes MTA-nak, mert most akkor török vagy szláv eredetűnek fogják meghatározni király szavunkat? Zaicz Gábor Magyar etimológia szótárából kiderül, hogy (nyelvészként ismét matematikáznak) "átlagolnak", azaz nem északi, hanem dél-szláv eredetűnek lövik be (mily zseniális és kényelmes megoldás lett volna, de aztán megjelenik mégis csak a "hivatalos" nézet, Nagy Károly neve) (micsoda kanyarral kerül a németségtől a magyarokat kihagyva a déli szlávokhoz, hogy aztán nagy sebbel-lobbal átvegyék a magyarok tőlük):  
 > Déli szláv, valószínűleg horvát-szerb jövevényszó, vö. horvát-szerb `kralj`, bolgár `kral`, szlovén `kralj`: 'király'. A szláv szavak az ófelnémet Karl ~ Karal személynévre, Nagy Károly frank uralkodó nevére vezethetők vissza.  
@@ -53,9 +65,13 @@ Péterfai János tökéletes levezetéséhez tehető, hogy nem ez az egyetlen he
 
 Az iménti soroknak leginkább annyi haszna volt, hogy ráébredjünk, hogy a `király` valamilyen sz-előhangos név [[K/Kentum\|kentum]]os változata lehet. Tehát Sz-R-L alakú név kerestetik, elsősorban fényes, ragyogó jelentéssel, minthogy a király isteni legitimáció révén kerül hatalomra: ő maga is fény. Szár-Úr, Szár-El, Kár-El, Ker-Ál útvonalon eljuthatnánk a névhez.  
 
-Gyárfás Ágnes Megbánás és megbocsájtás a régi magyar hitvilágban című az Ősi Gyökér 2011/1. sz. megjelent cikkében a Kör-Áll fogalmának helyességét szerintem nem biztos, hogy a megfelelő jellel magyarázza, amennyiben [[S/SAR#Sar 2)\|sar]]-re utal a jel (a mellékelt kép Botos Lászlótól való):  
-![assets/Király_image1.jpeg|fix_dark fix_light|840](/img/user/K/assets/Kir%C3%A1ly_image1.jpeg)  
-A király szavunkat a közel-keleti képjel-írásban egy körrel tudjuk leírni, ami egyben a Teljességet, a Világmindenséget is jelenti.  
+#### Gyárfás Ágnes Megbánás és megbocsájtás a régi magyar hitvilágban...  
+
+...című az Ősi Gyökér 2011/1. sz. megjelent cikkében a Kör-Áll fogalmának helyességét szerintem nem biztos hogy a megfelelő jellel magyarázza amennyiben [[S/SAR#Sar 2)\|SAR]]-ra utal a jel (a mellékelt kép Botos Lászlótól való):  #### Gyárfás Ágnes Megbánás és megbocsájtás a régi magyar hitvilágban című az Ősi Gyökér 2011/1. sz. megjelent cikkében a Kör-Áll fogalmának helyességét...  
+
+...szerint em nem biztos hogy a megfelelő jellel magyarázza amennyiben [[S/SAR#Sar 2)\|SAR]]-ra utal a jel (a mellékelt kép Botos Lászlótól való):  
+> A király szavunkat a közel-keleti képjel-írásban egy körrel tudjuk leírni, ami egyben a Teljességet, a Világmindenséget is jelenti.  
+> ![assets/Király_image1.jpeg|fix_dark fix_light|840](/img/user/K/assets/Kir%C3%A1ly_image1.jpeg)
 
 A név tehát Ker-Ál, Kir-Ál felbontásban kb. Kör-Állót, Körben Állót, Élőt is jelent, de tulajdonképp az Él, Al (Hal) szavak maguk is levezethetők a Kör fogalmából, ahogy a [[K/KAR\|KAR]] címnél szereplő diagramon és az [[A/A\|A]] címnél álló MindMap-on is fel van tüntetve.  
 Ezen felbontás már a [[K/Karoly\|karoly]] címnél taglalt adatok alapján értelmezhető tovább.  
