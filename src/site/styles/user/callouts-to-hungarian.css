@@ -1,4 +1,5 @@
 /* Now applies globally: Hungarian callout titles for all Obsidian callout types */
+/* Renames via https://share.google/aimode/0rzJ1IzwwwMo9EF8P */
 
 /* Flexbox layout for callout headers */
 .callout-title {
@@ -15,7 +16,7 @@
 
 /* Hide the English callout type and inject Hungarian titles */
 .callout[data-callout="check"] .callout-title-inner strong { display: none; }
-.callout[data-callout="check"] .callout-title-inner::before { content: "Tudd "; }
+.callout[data-callout="check"] .callout-title-inner::before { content: "Áll "; }
 
 .callout[data-callout="important"] .callout-title-inner strong { display: none; }
 .callout[data-callout="important"] .callout-title-inner::before { content: "Fontos "; }
@@ -69,7 +70,7 @@
 .callout[data-callout="help"] .callout-title-inner::before { content: "Segítség "; }
 
 .callout[data-callout="hint"] .callout-title-inner strong { display: none; }
-.callout[data-callout="hint"] .callout-title-inner::before { content: "Tipp "; }
+.callout[data-callout="hint"] .callout-title-inner::before { content: "Útmutatás "; }
 
 .callout[data-callout="info"] .callout-title-inner strong { display: none; }
 .callout[data-callout="info"] .callout-title-inner::before { content: "Információ "; }
