@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2026-01-30T14:25"}
+{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2026-02-15T23:08"}
 ---
 
 
@@ -226,6 +226,14 @@ De mit szóljunk a [[H/Halcyon\|halcyon]] eredetvizsgálatában említett görö
 #### Török 'kan' vér jelentése
 
 Itt már nem annyira a folyadék mellékértelmet kell keresni. Arról van szó, hogy a KAN nemzés értelme mentén alakul ki a vér (genetika) továbbadása révén a vér jelentés. A háttérben pedig a szokásos alapfogalom: a Nap legmagasabb pontján a Kannál (Nagy Kutya) van, amikor nemző ereje teljében van.  
+
+## KAN (istenkirály) tudás értelme
+
+Adódik, hogy ha a KAN a Nap legmagasabb helyet jelöli az évkörben, akkor nemcsak a nemzőképesség, hanem a tudás/törvénykezés (jóság, igazság) legfőbb birtokosaként és adományozójaként is alkalmas feladata betöltésére.  
+Ergo a nemcsak héber nyelvben ilyen szent tudásra vonatkozó jelentéssel mutatkozó [[K/Kohén\|kohén]] az indoeurópai és türk nyelvekben ezért jelenhet meg rokon jelentésekkel: lásd [[K/KA\|KA]] (főleg a lábjegyzet részt) és [[K/Kagán\|kagán]].   
+
+> [!check] &nbsp;
+> Megállapíthatjuk, hogy a kohén = kaján = kagán kapcsolatok alapján a tudás szava akkor az istenkirály ([[K/Kán\|kán]]) fogalomkörből ered, az pedig a KAN-ból.
 
 ## An/Kan Köre
 
