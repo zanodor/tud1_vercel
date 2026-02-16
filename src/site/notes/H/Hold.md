@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2025-09-24T13:41"}
+{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2026-02-16T16:20"}
 ---
 
 
@@ -73,10 +73,10 @@ Ki kell azt is jelenteni, hogy a [[K/Kutya\|kutya]] (kuta) és Hold szavaink ugy
 > A lapp földön `hald` s `kald` = hold (Révai Ant. h. p. 76), finnül `kod` és `kuh` (Fehér Incun. p. 33.), Kézában(p. 74.), lacus `hoold`, melynek különböző alakjai a dubniczai s más krónikákban, hohot, hodolt, hoholduni, hodolth, mint Endlicher közli (W. J.B.XXXIII. A. Blatt), ([Lásd 243. old.](zotero://open-pdf/library/items/DFI47XPY?page=243&annotation=RMLJ4L6E))
 >
 > A német `hold`, `huld` = hold istenasszony neve. ([Lásd 244. old.](zotero://open-pdf/library/items/DFI47XPY?page=244&annotation=L6KNIDRT))
-- Graves-nél **Held**.  
+- Graves-nél **Held**.
 
 > A német mythologia szerint Bertha és Holda istennők egy személy, Schrader igy ir: "Berchtel, Perchtel, Perahte = die leuchtende, wie Frau Holda, von Huld, Hold. ([Lásd 244. old.](zotero://open-pdf/library/items/DFI47XPY?page=244&annotation=EBS3GR4B))
-- Itt még a német és magyar szöveg folytatódik.  
+- Itt még a német és magyar szöveg folytatódik.
 
 > ...a XIV. századbeli isiandi mondát is, hogy Hulda nevű igéző asszony Odhinnak kedvese volt. ([Lásd 245. old.](zotero://open-pdf/library/items/DFI47XPY?page=245&annotation=Q67MMELC))
 >
@@ -132,7 +132,7 @@ Ki kell azt is jelenteni, hogy a [[K/Kutya\|kutya]] (kuta) és Hold szavaink ugy
 - [[H/Havā\|Havā]] már volt felvéve nálam.  
 
 > A zsidó arab `khalad` ige = perennavit, duravit, honnan `kheled` = tempus, `khulda` = nomen profetissae a 70 fordítók Oldá-ja, valamint a szinte közös `khadash` ige = novus fuit, honnan `khodesch` novilunium, dies festus (Wiener p. 304, 326), a hold s hód egyszerü gyökformákat tüntetik fel, valamint a magyar `halad`, zsidó, chaldaeai `halad` és `jalad` = ivit, profectus est, honnan `heled` = haladás, a hold s nap járásaira vonatkozó igék voltak kezdetben, arabul `hall`, syrusul `halhal` gyök kettőztetéssel. ([Lásd 251. old.](zotero://open-pdf/library/items/DFI47XPY?page=251&annotation=V2J6AHH6))
-- Halad – hold.  
+- Halad – hold.
 
 #### Falvay Károly Nagyboldogasszony...
 
