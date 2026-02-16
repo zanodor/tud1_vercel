@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2025-10-31T01:50"}
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2026-02-16T16:20"}
 ---
 
 
@@ -39,7 +39,7 @@ Ha a fentieket nem vennénk figyelembe (mert nem lennének ilyen összefüggése
 
 [[K/Khamor\|Khamor]] címnél is szerepeltek az alábbiak:  
 A héber `hamorim` = íjász, nyilazó értelemmel megadott szó szó szerint valójában (bolondokat, ellenálló szkítákat) szamarakat jelent, márpedig [[S/Széth\|Széth]] \[egyik\] állata a szamár, másrészt a szamár mindig a szabadságszerető magyarokról/hunokról neveztetett el (azóta csillagképekről: Rák = [[S/Szamár csillagkép\|Szamár csillagkép]]ről is volt szó).  
-A héber `hamorim` szót ezért sem sikerült íjazók értelemmel megtalálni, viszont a (szintén Íjász/Vadász) [[N/Nimrud\|Nimrud]]-nak megfelelő (héberben) lázadó jelentést...
+A héber `hamorim` szót ezért sem sikerült íjazók értelemmel megtalálni, viszont a (szintén Íjász/Vadász) [[N/Nimrud\|Nimrud]]nak megfelelő (héberben) lázadó jelentést...
 
 #### Harold I. Saperstein Witness from the Pulpit...  
 
