@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szemiták és árják/","title":"Szemiták és árják","tags":["Englishtexttranslated"],"created":"2024-10-27T11:51","updated":"2026-02-13T23:25"}
+{"dg-publish":true,"permalink":"/S/Szemiták és árják/","title":"Szemiták és árják","tags":["Englishtexttranslated"],"created":"2024-10-27T11:51","updated":"2026-02-16T16:20"}
 ---
 
 
@@ -76,9 +76,9 @@ Ami még a [[K/KUS\|kus]]ok feketeségét illeti, [[M/Madár#Madarak és kutyák
 Itt még csak annyit, hogy a kutyák kapcsán több helyen szó volt arról, hogy a fekete kutyát baljósnak tartották. Ennek a képzetnek az az eredete, hogy a Szíriusszal való nyári együttállás után a sötét térfélbe/[[F/Félév\|félév]]be kerül a Nap.  
 A [[G/Goetia\|Goetia]] címnél taglalt fekete mágiát se felejtsük el.  
 
-## Árja és szemita good/God = jó/Isten és Juda, juh = jó kapcsolatok
+## Árja és szemita good/God = jó/Isten, Júda és juh = jó kapcsolatok
 
-[[J/Júda\|Júda]] címnél írottak után kerültünk ide. Azaz hogy ami ott szerepelt, ide teszem:  
+[[J/Júda\|Júda]] címnél írottak után kerültünk ide. Azaz hogy ami ott szerepelt, ide is teszem:  
 És akkor azt is észre kell venni, és ezt a fentebb írottak folytatásaként is lehet kezelni, hogy ami az avarokból lett germánoknál [[G/God\|God]], az az avarokból, héberekből lett szemitává lett zsidóknál Jud/[[J/Júda\|Júda]], vélhetően közös eredetre visszavezethetően. A közös a képzetkörben a Magyar Adorján által [[J/Juh\|juh]] és [[G/Good\|good]] címnél, valamint másutt Bona-Deán keresztül is bemutatott, Tejút(anya) (tejes) gondoskodó minőségén keresztül az a jóság, melyet a juhok ([[J/Jó\|jó]] = [[J/Juh\|juh]]) déli, melegebb égövben megélő párjában, a kecskében ([[G/Goat\|goat]] = gut, [[G/Good\|good]]) láttak a filiszteus-zsidók. A [[J/Jó\|jó]] viszont a [[F/Folyó\|folyó]] szavunkban is szerepel, mely a Tejút, mely földi mása a folyó, mely vizében a halak is jó étkek. És mit látunk a [[B/Bárány#Tatár bárány – szkíta bárány\|tatár bárány – szkíta bárány]] cím/alcímnél a történetben? A juh húsát a haléhoz hasonlítja. Ez egy újabb bizonyíték a képzetkör magyar eredetére.  
 Ami pedig még a [[J/Juh\|juh]] nevet illeti, már legutóbb [[J/Jahve\|Jahve]] címnél is arra gondoltam, hogy a juhász képzetkör és (az íjász névvel [[J/J\|J]] címnél írottak alapján azonosnak vehető) [[J/Juhász\|juhász]] névvel lehetne kezdeni valamit, csak hát, még egyszer mondom: ahol a zsidók éltek, ott kecske volt juh helyett.  
 
