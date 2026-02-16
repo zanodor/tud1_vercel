@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ábrahám/","title":"Ábrahám","created":"2023-10-21T04:40","updated":"2025-06-07T18:43"}
+{"dg-publish":true,"permalink":"/A/Ábrahám/","title":"Ábrahám","created":"2023-10-21T04:40","updated":"2026-02-16T16:20"}
 ---
 
 
@@ -47,7 +47,7 @@ Másutt írja:
 A [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] közreműködésével készült A magyarok őstörténete – a magyar-héber kapcsolat című dolgozatban szerepel (pontatlanul, így javítva):  
 > Ábrahámot nem nevezik egynek a kászdik közül, hanem felszólították, hogy hagyja el a várost ahol lakik, ami a kászdiké. Őt tulajdonképpen a kezdetektől fogva ʺhabirnakʺ (Teremtés 14:13.) hívják, és sosem káldeusnak, testvérei pedig arámiak (Teremtés 25:20.), \[ezzel nem!\] bizonyítva, hogy ők szemiták \[minthogy az arámi nyelv sem volt szemita eredetileg\].  
 > Őt az egyiptomiak egyértelműen \[a [[H/Habiru\|Habiru]] címnél is említett apiru változataként számítható\] apirként azonosították, de azt tudjuk, hogy az apir kifejezés nem egy jól meghatározott nemzetiséget jelölt, hanem sokkal inkább társadalmi helyzetet.  
-- Nos, valójában címet jelöl, melynek égi eredete van. Azt is vegyük észre, hogy az Ábrahám név előrésze és az apiru is igen hasonlóak.  
+- Nos, valójában címet jelöl, melynek égi eredete van. Azt is vegyük észre, hogy az Ábrahám név előrésze és az apiru is igen hasonlóak.
 
 Hargita Csaba Ferenc honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán és [[H/Habiru\|Habiru]] címnél szereplő nemzetségtábláján a leszármazása megtekinthető.  
 Az előbb említett cikkben akkádnak és hébernek, azaz szemitának mondja.  
@@ -57,7 +57,7 @@ Az előbb említett cikkben akkádnak és hébernek, azaz szemitának mondja.
 A Teremtés 17:1-12-ben így áll:  
 > "Amikor Abrám kilencvenkilenc éves volt, megjelent Abrámnak az ÚR, és ezt mondta neki: Én vagyok a mindenható Isten. Járj énelőttem, és légy feddhetetlen! Megajándékozlak szövetségemmel, és nagyon megszaporítom utódaidat. Ekkor Abrám arcra borult, Isten pedig így szólt hozzá: Ez lesz az én szövetségem veled: Sok nép atyja leszel! Nem neveznek többé Abrámnak, hanem Ábrahám lesz a neved, mert sok nép atyjává teszlek."  
 
-Hogy miért és hogyan rendelkezne [[J/Jahve\|Jahve]] a név csekély módosításáról, ezt nehezen értem (még a Jákob-Izrael cserét értem). Itt egy egyszerű h-betoldásról van szó, mint Juda-jehuda esetében. [[H/H\|H]] címnél is leírtuk, hogy tulajdonképpen a zsidó papok meg akarják magyarázni, hogy a nyelvészeti túlkapásaik vallási eredetűek, pedig nem.  
+Hogy miért és hogyan rendelkezne [[J/Jahve\|Jahve]] a név csekély módosításáról, ezt nehezen értem (még a Jákob-Izrael cserét értem). Itt egy egyszerű h-betoldásról van szó, mint Júda-jehuda esetében. [[H/H\|H]] címnél is leírtuk, hogy tulajdonképpen a zsidó papok meg akarják magyarázni, hogy a nyelvészeti túlkapásaik vallási eredetűek, pedig nem.  
 
 #### Jankovics Marcell...
 
