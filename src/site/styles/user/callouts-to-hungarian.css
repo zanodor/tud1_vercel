@@ -16,7 +16,7 @@
 
 /* Hide the English callout type and inject Hungarian titles */
 .callout[data-callout="check"] .callout-title-inner strong { display: none; }
-.callout[data-callout="check"] .callout-title-inner::before { content: "Áll "; }
+.callout[data-callout="check"] .callout-title-inner::before { content: "Érv "; }
 
 .callout[data-callout="important"] .callout-title-inner strong { display: none; }
 .callout[data-callout="important"] .callout-title-inner::before { content: "Fontos "; }
