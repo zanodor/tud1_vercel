@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2025-09-24T13:43"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2026-02-16T16:20"}
 ---
 
 
@@ -12,9 +12,11 @@
 [[B/Barabás\|Barabás]] címnél Péterfai János magyar-héber kapcsolatokról ír:
 > A Bar ma is gyakori zsidó névrész, megtartva eredeti és ősi magyar jelentését. A Bar is mérhetetlenül erős magyar-héber kapcsolatoknak a bizonyítéka.  
 
-Nos, valójában itt inkább hun, azon belül is avar-hun hatást kell látni.  
+> [!check] &nbsp;
+> Nos, valójában itt inkább hun, azon belül is avar-hun hatást kell látni.
+
 [[B/Barabás\|Barabás]] címnél vetettem fel, hogy meglepne, ha a Quorán adott válaszomra valaki kommentként feltenné a kérdést: ha a héber `bar` = fiú szó avar-hun eredetű, akkor lehetséges-e a hunként jelzett [[A/Avar\|avar]]ok ilyen nevét a ma már sémi nyelveket beszélő arab és héber nép- és nyelvnevekkel azonosítani. Igen: avar szótag-megfordítva lehet [[A/Arab\|arab]] és a héber (alant említett/taglalt) régies [[E/Éber\|éber]] formája is analóg az avar névvel.  
-- Ugyanakkor legutóbb [[M/Magyar\|magyar]], valamint [[A/Arab\|arab]] és [[H/Hunor és Magor\|Hunor és Magor]] címnél is írtuk (annak kapcsán, hogy az arab nép és nyelv neve az egyiptomi magyarok önelnevezése nyomán terjedt el, de már mint sémi nép és nyelv[^1]), hogy a héber is lehet avar, arab is lehet avar de magyar is. Az, hogy a magyar és hun/szkíta/avar nevek vagy jellegzetességeik egyazon területen is előfordulnak, talán azzal magyarázható, hogy az országok neve felváltva lehet Magyar és Hun, olyan megfontolás alapján, ahogy Egyiptom is Magaru és Hun felekre volt osztva: az égi területek vannak a földre leképezve.  
+- Ugyanakkor legutóbb [[M/Magyar\|magyar]], valamint [[A/Arab\|arab]] és [[H/Hunor és Magor\|Hunor és Magor]] címnél is írtuk (annak kapcsán, hogy az arab nép és nyelv neve az egyiptomi magyarok önelnevezése nyomán terjedt el, de már mint sémi nép és nyelv[^1]), hogy a héber is lehet avar, arab is lehet avar de magyar is. Az, hogy a magyar és hun/szkíta/avar nevek vagy jellegzetességeik egyazon területen is előfordulnak, talán azzal magyarázható, hogy az országok neve felváltva lehet Magyar és Hun, olyan megfontolás alapján, ahogy Egyiptom is Magaru és Hun felekre volt osztva: az égi területek vannak a földre leképezve.
 
 [[H/Hykszosz\|Hykszosz]] címnél is szóba került az avar/keta-szkíta hikszoszok héber-zsidókként való későbbi értelmezése.  
 
@@ -69,7 +71,9 @@ Adott tehát egy Tejutas és egy kutyás levezetési lehetőség. Igen ám, de a
 Visszatérve az Éber – Héber párhuzamra, valahol Péterfai János is úgy írta (talán Fáy és mások adata nyomán), hogy az Éber a Héber változata. [[E/Éber\|Éber]]nek Eb-Úr (nem Eb-Erő) olvasatot ad, mondhatjuk helyesen.  
 Na mármost a [[S/Scot\|Scot]] és [[S/Szkíta\|szkíta]] címnél (főleg előbbinél) John Carey (és azóta mások) írása nyomán szóba került a kelta-héber kapcsolat, azért is mert a keltáknál is szerepelt egy Éber Scot (másutt Ebur Scot) nevű ős/törzsfő, mely név azonos a héber Éber ősapa-névvel. Több weboldal és szerző foglalkozik a kelták héber eredetével (ahogy az angolok szkíta eredetével is a brit izraeliták).  
 
-Craig White The True Roots and Origin of the Scots című skótokat zsidó származásúnak beállító kiskönyvében írja:  
+#### Craig White The True Roots and Origin of the Scots...  
+
+...című skótokat zsidó származásúnak beállító kiskönyvében írja:  
 > A theory that has been in circulation is that the descendants of Shelah and Er intermarried with the Canaanites/Phoenicians which created an interwoven mixture which was anti-Israel and anti-Judah. It is this group which gave rise, at least in part, to the anti-British Sinn-Fein in Ireland (~~a name likely derived from Phoenician and Fenian~~). Their attitude seems to be derived from their forefathers (Num 33:55). Indeed, the region of [[S/Spain\|Spain]] that the Canaanites/Phoenicians settled in Spain was known in ancient times as Eis Feine.  
 > This is also possibly why Ireland was known as Erin or Erin's Land, named after Er. Later, Ireland was known as Ierne or Hibernia derived from their ancient forefather, Eber or Heber. The northern islands of Hebrides were originally known as the Hebrides and the Irish language as Erse.  
 > To this day southern Ireland is called Eire and the name Shelagh is popular there.  
