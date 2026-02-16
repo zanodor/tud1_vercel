@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-10-27T12:27","updated":"2026-02-15T23:09"}
+{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-10-27T12:27","updated":"2026-02-16T16:20"}
 ---
 
 
@@ -22,7 +22,7 @@ Lásd még [[M/Madár#Madaras koronák\|madaras koronák]].
 
 Alant többféle szófejtés szóba kerül, de azt kell mondjam, Péterfai János a j-végződéses Ráj formát megfejtéséhez figyelembe véve nagyon szépen *kikerülte a problémát* és amúgy egy nagyon frappáns megoldási *kísérlettel* rukkolt elő.  
 Amikor más nyelveket említ Péterfai, nyilván a lengyel `kraj` = ország, poétikus-ironikus orosz `kraj` = ország, szlovák és ukrán `krajina` = ország és még főképp a török `kral` = király és `kraliçe` = királyné/nő szavakra gondolt.  
-Péterfai János másutt szereplő adata szerint az udmurt/votják `koroló` = király.  
+Péterfai másutt szereplő adata szerint az udmurt/votják `koroló` = király.  
 Nem hihető, hogy Nagy Károly...  
 - [Ezen](https://en.wikipedia.org/wiki/Charlemagne) oldalon azt állítják, hogy innen eredne a királyt jelentő szó mindenütt (patetikus):  
 > Charles' achievements gave a new meaning to his name. In many languages of Europe, the very word for "king" derives from his name; e.g., Polish: `król`, Ukrainian: `король` (korol'), Czech: `král`, Slovak: `kráľ`, Hungarian: `király`, Lithuanian: `karalius`, Latvian: `karalis`, Russian: `король`, Macedonian: `крал`, Bulgarian: `крал`, Serbo-Croatian: `краљ`/kralj, Turkish: `kral`.
@@ -67,9 +67,7 @@ Az iménti soroknak leginkább annyi haszna volt, hogy ráébredjünk, hogy a `k
 
 #### Gyárfás Ágnes Megbánás és megbocsájtás a régi magyar hitvilágban...  
 
-...című az Ősi Gyökér 2011/1. sz. megjelent cikkében a Kör-Áll fogalmának helyességét szerintem nem biztos hogy a megfelelő jellel magyarázza amennyiben [[S/SAR#Sar 2)\|SAR]]-ra utal a jel (a mellékelt kép Botos Lászlótól való):  #### Gyárfás Ágnes Megbánás és megbocsájtás a régi magyar hitvilágban című az Ősi Gyökér 2011/1. sz. megjelent cikkében a Kör-Áll fogalmának helyességét...  
-
-...szerint em nem biztos hogy a megfelelő jellel magyarázza amennyiben [[S/SAR#Sar 2)\|SAR]]-ra utal a jel (a mellékelt kép Botos Lászlótól való):  
+...című az Ősi Gyökér 2011/1. sz. megjelent cikkében a Kör-Áll fogalmának helyességét szerintem nem biztos hogy a megfelelő jellel magyarázza amennyiben [[S/SAR#Sar 2)\|SAR]]-ra utal a jel (a mellékelt kép Botos Lászlótól való):  
 > A király szavunkat a közel-keleti képjel-írásban egy körrel tudjuk leírni, ami egyben a Teljességet, a Világmindenséget is jelenti.  
 > ![assets/Király_image1.jpeg|fix_dark fix_light|840](/img/user/K/assets/Kir%C3%A1ly_image1.jpeg)
 
@@ -77,7 +75,9 @@ A név tehát Ker-Ál, Kir-Ál felbontásban kb. Kör-Állót, Körben Állót, 
 Ezen felbontás már a [[K/Karoly\|karoly]] címnél taglalt adatok alapján értelmezhető tovább.  
 Kubínyi Tamás egyik műsorában is kerálnak mondja királyt.  
 
-Zentai Ákos Történelemírásunk Akhilleusz-sarka című cikkében írja, hogy (a nyelvi antizseni) Szántai Lajostól hallotta, hogy a király szavunk a kerülj igével hozható kapcsolatba, ami az uralkodók szakrális ország-kerüléseiben öltött testet. A [[T/Turul\|Turul]]madár keringő mozgása ugyanezt minőséget képviseli, ráadásul a turul régies formája a turuj, ami már közvetlen kapcsolatba hozható a [[T/Taraj\|taraj]] szavunkkal \[ajjaj\].  
+Zentai Ákos Történelemírásunk Akhilleusz-sarka című cikkében írja, hogy Szántai Lajostól hallotta, hogy a király szavunk a `kerülj` igével hozható kapcsolatba, ami az uralkodók szakrális ország-kerüléseiben öltött testet (akkor már a közigazgatással kapcsolatos régente használt `kar` szavunkat is felhozhatta volna). A [[T/Turul\|Turul]]madár keringő mozgása ugyanezt minőséget képviseli, ráadásul a turul régies formája \*turuj, ami már közvetlen kapcsolatba hozható a [[T/Taraj\|taraj]] szavunkkal.  
+> [!note] &nbsp;
+> Tulajdonképpen visszavezetett `turul` nevünkhöz, és ebben akkor ezt keressük pozitívumként.
 
 [[U/Ural\|Ural]] szavunk k-előhangos változata is lehet egyszerűen király. De ha már itt tartunk, vegyük észre, [[U/UR\|UR]], [[S/Szíriusz\|Szíriusz]], [[S/Sag\|sag]] ([[S/Shah\|shah]]), [[D/Duke\|duke]] (= [[D/DOG\|DOG]]/[[D/DOG#Dog 2)\|dog]]), [[S/Sire\|sire]], [[K/Kalb\|kalb]] ([[C/Caliph\|caliph]]) és más címnél írottak alapján is, hogy a kutya és a fej/fő = főnök, vezető és király fogalmak sok nyelvben összecsengenek. Eképpen a király kuroly változatában a Kur (kúr) is benne lenne. Persze ez is csak azt mondja el, hogy több idea van beleépítve egy fontos névbe, tehát nem csak erre kell fókuszálni, mert a név szakralitását rontaná (mai prűd és kutyaellenes gondolkodásunk eredményeképpen főleg).  
 Bakos Attila A Duna Evangéliuma című könyvének 230. oldalán valamilyen (nála szokásossá vált) egyiptomi névvel kombinálva adja meg a saját verzióját, de nem sokra adom. Illetve tippet adhat, mármint hogy király lehetne (ha figyelembe vesszük, hogy a fontos szavakba több idea kerül) Ki-Rá-Él, Nap-Isten Föld(i uralkodója), vagy akár Ku-Rá-Él, Él Isten Kúrója/Napfénye.  
@@ -88,13 +88,22 @@ Timaru Kast Sándornál láttam a kelta [[C/Curoi\|Cu Roi]] névvel való hasonl
 Bakos könyvének 454. oldalán egy Ki-Rá-La szókapcsolatot említ, mely szintén lehet jó megoldás, tekintve, hogy [[O/Ország\|ország]] és [[W/Widow\|widow]] címnél írottak alapján hogyan is gondolkodhatunk a királyról. Ki-Rá-La a Napisten Földi Helye értelmű lenne. Ott is uralkodik.  
 Ahogy [[K/Korona\|korona]] címnél szerepelt:  
 **A király az ország istennője alattvalójaként szolgál**. Amikor Szent István az országot felajánlotta Boldogasszonynak, azt is jelenti, hogy mindig is az övé volt.  
-Rostás László "Lehel-kürt" és a "Szent László legenda" ikonográfiai azonossága a szkíta kereszténység tükrében című az Ősi Gyökér 2008/3-4. sz. megjelent cikkében is hasonlóan írja:  
+
+#### Rostás László "Lehel-kürt" és a "Szent László legenda" ikonográfiai azonossága a szkíta kereszténység tükrében...  
+
+...című az Ősi Gyökér 2008/3-4. sz. megjelent cikkében is hasonlóan írja:  
 > Ezért nevezi az ősi hagyomány a Magyar Szent Koronát Szkíta (Káldeus, Babiloni) Keresztény Beavató koronának, mert **nem a király viseli, azaz nem a királyon van, hanem a király van alatta**, mint a Ter-em-tő nemzetének, egylényegű, egyenlő, azaz nemes nemzetes tagja, ugyanúgy mint a pásztor királyok és nemesek is.  
 
-Még Bakos előtt a neki támpontot adó Baráth Tibor 1988-ban a Krónika folyóiratban, Magyar istennevek a régi Egyiptomban című cikkében, Wallis Budge The Gods of the Egyptians c. könyvének egyes helyeire utalva írja, [[H/Hórusz\|Hórusz]] neve kapcsán:  
+Még Bakos előtt a neki támpontot adó...
+
+#### Baráth Tibor Magyar istennevek a régi Egyiptomban...  
+
+...című az 1988-ban a Krónika folyóiratban megjelent cikkében Wallis Budge The Gods of the Egyptians címet viselő könyvének egyes helyeire utalva írja [[H/Hórusz\|Hórusz]] neve kapcsán:  
 > Ki volt Horus? Neve a szent iratokban a legkorábbi dinasztikus időktől kezdve szakadatlanul szerepel, mindig a trónon lévő uralkodót jelentve. A hieroglifek így írják a nevet KH-ER-RA-JU (I. 78), aminek helyes átírása Király. Van az írásjeleknek egy második olvasata is, ami HORUS: Úr-Ős. De akár királyt, akár ÚrŐst olvasunk, a címet mindig az uralkodóra vonatkoztatják (I. 78). Ezt megerősíti az uralkodó totem-állata is, az oroszlán, lévén neve A KHERU UR: A király (II. 323. 360 és 361). Személyazonosságát képírással is írták, s azt így olvassuk: Ősmagyar isten, Honok ura.  
 
-[[G/Grandpierre Atilla\|Grandpierre Atilla]] A királyi mágusok című dolgozatában írja (igen érdekesek a koronázási szertartásról, beavatásról szóló infói is):  
+#### Grandpierre Atilla A királyi mágusok...  
+
+...című dolgozatában írja (igen érdekesek a koronázási szertartásról beavatásról szóló infói is):  
 > A hun-magyar királyok a Napisten földi kép-viselői voltak. A koronázási jelvények, a korona, a jogar, a palást, a gömb, a trónszék mind a Nap-képzetekkel függnek össze és a Napistenre vezethetők vissza. Maga a koronázás sem más őseredeti értelmében, mint szent aranykörrel való felékesítés, a Naptól született gyermekké való felavatás. Maga a király szó is, miként a szótő mutatja, éppúgy, mint [[K/Korona\|korona]] szavunk töve, [[K/Kör\|kör]] ősszavunkat rejti, s az égi szent körre, a Napra, a Napistenre utal, arra, hogy mindezek a szertartások az ősi Napistenhit keretébe tartoznak és a Napisten képmásává történő felavatást jelzik. Mindezek ma is élő magyar ősszavak. Az ősfogalmaknak, a koronázás tárgyi jelképeinek, szertartásainak ősforrása a szkíta-hun magyarság. A koronázási fogalmak és szertartások innen terjedtek el világszerte, tőlünk vette át azt a világ valamennyi népe, anélkül, hogy ismerné e szavak, jelvények ősértelmét (GKE, 1996b).  
 
 [[S/Sárkány\|Sárkány]] címnél (legalul, összefoglalás résznél) szerepeltek az alábbiak:  
