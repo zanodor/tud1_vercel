@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aladár/","title":"Aladár","created":"2023-10-17T08:02","updated":"2024-10-22T21:45"}
+{"dg-publish":true,"permalink":"/A/Aladár/","title":"Aladár","created":"2023-10-17T08:02","updated":"2026-02-17T17:07"}
 ---
 
 
