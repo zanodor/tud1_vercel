@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-10-27T12:27","updated":"2026-02-16T16:20"}
+{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-10-27T12:27","updated":"2026-02-17T17:06"}
 ---
 
 
@@ -187,7 +187,7 @@ Gyárfás Ágnes A magyar múlt és jövő képe 13 erős, időtálló és megbo
 
 ## Utolsó magyar vérű király
 
-Hunyadi Mátyással kapcsolatosan szokás említeni, hogy ez ő halála után nincs már magyar vérű királyunk. Ez nem igaz, mert [Szapolyai János](https://hu.wikipedia.org/wiki/I._J%C3%A1nos_magyar_kir%C3%A1ly) volt az utolsó magyar vérű király.  
+Hunyadi Mátyással kapcsolatosan szokás említeni, hogy az ő halála után nincs már magyar vérű királyunk. Ez nem igaz, mert [Szapolyai János](https://hu.wikipedia.org/wiki/I._J%C3%A1nos_magyar_kir%C3%A1ly) volt az utolsó magyar vérű király.  
 
 ## Király a magyar népmesékben
 
