@@ -13,9 +13,11 @@ module.exports = async (data) => {
   let logoPath = "";
   if (logoFiles.length > 0) {
     // Use the first match and convert to site-relative path
-    logoPath = "/" + logoFiles[0].split("src/site/")[1];
+    const normalizedLogo = logoFiles[0].replace(/\\/g, '/');
+    logoPath = "/" + normalizedLogo.split("src/site/")[1];
   }
   if (themeStyle) {
+    themeStyle = themeStyle.replace(/\\/g, '/');
     themeStyle = themeStyle.split("site")[1];
   }
   let bodyClasses = [];

@@ -1,0 +1,83 @@
+<div class="theme-switch-container">
+    <a id="emailme" href="mailto:zoltndor@yahoo.co.uk?subject=Regarding {{title}}&body=Discussing {{meta.siteBaseUrl}}{{permalink}}" class="theme-btn" title="Írjon nekem">
+        <i icon-name="mail-plus" aria-hidden="true"></i>
+    </a>
+    <div class="theme-btn light" onclick="setTheme('light')" title="Világos mód">
+        <i class="svg-icon" icon-name="sun" aria-hidden="true"></i>
+    </div>
+    <div class="theme-btn dark" onclick="setTheme('dark')" title="Sötét mód">
+        <i class="svg-icon" icon-name="moon" aria-hidden="true"></i>
+    </div>
+    <div class="theme-btn auto" onclick="setTheme('auto')" title="Automatikus mód">
+        <i class="svg-icon" icon-name="sun-moon" aria-hidden="true"></i>
+    </div>
+</div>
+
+<script>
+    function getSystemTheme() {
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if (prefersDark) {
+            return 'dark';
+        }
+        return 'light';
+    }
+
+    function setTheme(theme) {
+        
+        // Remove existing classes
+        document.body.classList.remove('theme-light');
+        document.body.classList.remove('theme-dark');
+        
+        if (theme === 'auto') {
+            localStorage.removeItem('theme');
+            const systemTheme = getSystemTheme();
+            
+            // Set the class based on resolved system theme
+            document.body.classList.add('theme-' + systemTheme);
+            
+            // Update tooltip for debugging
+            const autoBtns = document.querySelectorAll('.theme-btn.auto');
+            autoBtns.forEach(btn => {
+                btn.title = "Automatikus mód (Rendszer: " + systemTheme.toUpperCase() + ")";
+            });
+        } else {
+            // Manual selection
+            document.body.classList.add('theme-' + theme);
+            localStorage.setItem('theme', theme);
+        }
+        
+        setThemeIcon(theme);
+    }
+
+    function setThemeIcon(theme) {
+        document.querySelectorAll('.theme-btn').forEach(el => el.classList.remove('active'));
+        let selector = '.theme-btn.' + (theme || 'auto');
+        document.querySelectorAll(selector).forEach(el => el.classList.add('active'));
+    }
+
+    function initializeTheme() {
+        const savedTheme = localStorage.getItem('theme');
+        setTheme(savedTheme || 'auto');
+        
+        // Listen for system changes
+        if (window.matchMedia) {
+            const darkQuery = window.matchMedia('(prefers-color-scheme: dark)');
+            const lightQuery = window.matchMedia('(prefers-color-scheme: light)');
+            
+            const handleChange = (e) => {
+                if (!localStorage.getItem('theme')) {
+                    setTheme('auto');
+                }
+            };
+            
+            darkQuery.onchange = handleChange;
+            lightQuery.onchange = handleChange;
+        }
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initializeTheme);
+    } else {
+        initializeTheme();
+    }
+</script>
