@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Család/","title":"Család","created":"2024-11-06T16:18","updated":"2026-02-13T23:29"}
+{"dg-publish":true,"permalink":"/C/Család/","title":"Család","created":"2024-11-06T16:18","updated":"2026-02-18T22:59"}
 ---
 
 
