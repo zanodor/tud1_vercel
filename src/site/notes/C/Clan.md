@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Clan/","title":"Clan","created":"2025-03-05T02:53","updated":"2026-02-13T23:29"}
+{"dg-publish":true,"permalink":"/C/Clan/","title":"Clan","created":"2025-03-05T02:53","updated":"2026-02-18T22:59"}
 ---
 
 
