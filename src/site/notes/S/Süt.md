@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2026-02-13T23:28"}
+{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2026-02-18T22:57"}
 ---
 
 
