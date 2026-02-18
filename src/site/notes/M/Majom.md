@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Majom/","title":"Majom","tags":["Englishtexttranslated"],"created":"2025-04-14T13:29","updated":"2025-04-14T13:30"}
+{"dg-publish":true,"permalink":"/M/Majom/","title":"Majom","tags":["Englishtexttranslated"],"created":"2025-04-14T13:29","updated":"2026-02-18T22:53"}
 ---
 
 
@@ -10,7 +10,7 @@ Több helyütt szóltunk arról, hogy az ember nem a majmokból keletkezett. Mé
 #### Várkonyi Nándor írja:
 
 > "A vizek kisodortatva az Ég Tűzhelyéről, Huracánból \[hurrikán, orkán\] forrni kezdtek, és nagy áradat zúdult minden teremtményre... Égő szurok \[vagy gyanta\] hullt az Égből, fekete eső zuhogott éjjel és nappal, a Föld arca elsötétült, és az Égben zaj hallatszott, mint a tomboló lángoké. A tűzhelyekre rakott kövek kiugrottak a tűzből, egyenesen az emberek fejéhez vágódtak, és fájdalmat okoztak. Az emberek kétségbeesve futkostak, felmásztak a háztetőkre, de a házak összedőltek, és a földre dobták őket, felkúsztak a fákra, de a fák lerázták őket, barlangokba akartak bújni, de a barlangok kilökték őket. A víz és tűz megsemmisített mindent. Ilyen volt az emberek romlása, akiket teremtettek és formáltak, az embereké, akiket pusztulásra és megsemmisülésre csináltak; szájuk és arcuk szétmarcangoltatott. És azt mondják, hogy az ő ivadékaik a majmok, melyek most az erdőkben élnek, és ez minden, ami belőlük maradt..."  
-> 
+>
 > A tlascalák, quichék, guatemalai, costaricai, továbbá a zsidó, tibeti, kínai és a Fidzsi-szigeti mondákban az ember testalkatának (habitusának) változása is említtetik: majommá lesz, vagy kutyafarkat kap, megcsúful stb.; ez aránylag ritka motívum, s legérthetőbb magyarázatát Szuchisz, az egyiptomi pap adja meg Szolónnak: visszasüllyedés primitív körülmények, állati életformák közé a nagy pusztulás után. Hasonló értelemben ír Platón.  
 
 Pap Gábor [ezen](https://youtu.be/m1u5rbo1vXo) Ne Legyen Áldozatos [[A/Az igazmondó góbé még igazabb kalandjai mese#Az igazmondó góbé még igazabb kalandjai\|Az igazmondó góbé még igazabb kalandjai]] 1. rész című műsorban elemzi a mesét.  
