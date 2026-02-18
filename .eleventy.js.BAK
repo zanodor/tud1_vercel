@@ -222,13 +222,8 @@ module.exports = function(eleventyConfig) {
         const imageName = tokens[idx].content;
         //"image.png|metadata?|width"
         const [fileName, ...widthAndMetaData] = imageName.split("|");
-
-        if (widthAndMetaData.length === 0) {
-          return defaultImageRule(tokens, idx, options, env, self);
-        }
-
         const lastValue = widthAndMetaData[widthAndMetaData.length - 1];
-        const lastValueIsNumber = !isNaN(lastValue) && lastValue.trim() !== "";
+        const lastValueIsNumber = !isNaN(lastValue);
         const width = lastValueIsNumber ? lastValue : null;
 
         let metaData = "";
@@ -240,8 +235,6 @@ module.exports = function(eleventyConfig) {
           metaData += ` ${lastValue}`;
         }
 
-        metaData = metaData.trim();
-
         if (width) {
           const widthIndex = tokens[idx].attrIndex("width");
           const widthAttr = `${width}px`;
@@ -249,22 +242,6 @@ module.exports = function(eleventyConfig) {
             tokens[idx].attrPush(["width", widthAttr]);
           } else {
             tokens[idx].attrs[widthIndex][1] = widthAttr;
-          }
-        }
-
-        if (metaData) {
-          const altIndex = tokens[idx].attrIndex("alt");
-          if (altIndex < 0) {
-            tokens[idx].attrPush(["alt", metaData]);
-          } else {
-            tokens[idx].attrs[altIndex][1] = metaData;
-          }
-          tokens[idx].content = metaData;
-          if (tokens[idx].children && tokens[idx].children.length > 0) {
-            tokens[idx].children[0].content = metaData;
-            if (tokens[idx].children.length > 1) {
-              tokens[idx].children.splice(1);
-            }
           }
         }
 
@@ -525,10 +502,6 @@ module.exports = function(eleventyConfig) {
     if (!isMarkdownPage(this.page.inputPath)) {
       return str;
     }
-    // Force full resolution images to avoid picture transform issues with wikilinks
-    // Commented out the transform logic to fix dark mode issues
-    return str;
-    /*
     if (process.env.USE_FULL_RESOLUTION_IMAGES === "true") {
       return str;
     }
@@ -551,14 +524,12 @@ module.exports = function(eleventyConfig) {
           if (meta) {
             fillPictureSourceSets(src, cls, alt, meta, width, imageTag);
           }
-        } catch (e) {
+        } catch {
           // Make it fault tolarent.
-          console.error("Image transform failed for: " + src, e);
         }
       }
     }
     return str && parsed.innerHTML;
-    */
   });
 
   eleventyConfig.addTransform("table", function(str) {

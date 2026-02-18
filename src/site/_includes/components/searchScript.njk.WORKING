@@ -223,12 +223,6 @@
         const previewBody = previewContent.querySelector('.preview-body');
         if (previewBody && window.searchTerms) {
             highlightTextNodes(previewBody, window.searchTerms);
-
-            // Scroll to first match
-            const firstHighlight = previewBody.querySelector('.search-highlight');
-            if (firstHighlight) {
-                firstHighlight.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            }
         }
 
         window.currentPreviewIndex = index;
@@ -267,126 +261,9 @@
         return contentIndex;
     }
 
-    // ===== Search Highlight (Jump to result) =====
-
-    function handleSearchHighlight() {
-        const params = new URLSearchParams(window.location.search);
-        const term = params.get('term');
-        if (!term) return;
-
-        // Add styles
-        if (!document.getElementById('search-highlight-style')) {
-            const style = document.createElement('style');
-            style.id = 'search-highlight-style';
-            style.textContent = `
-                .temp-highlight {
-                    background-color: var(--text-accent, #ffeb3b);
-                    color: var(--background-primary, #000);
-                    border-radius: 2px;
-                    padding: 0 2px;
-                }
-                .temp-highlight.fade-out {
-                    background-color: transparent !important;
-                    color: inherit !important;
-                    transition: all 0.5s ease-out;
-                }
-            `;
-            document.head.appendChild(style);
-        }
-
-        // Increase initial delay and add a loading check
-        let attempts = 0;
-        const startHighlight = () => {
-            attempts++;
-            const content = document.querySelector('.content, .cm-s-obsidian, article, main');
-            if (!content || !content.offsetHeight) {
-                // Content not fully loaded yet, retry in 500ms, max 10 attempts (5 seconds)
-                if (attempts < 10) {
-                    setTimeout(startHighlight, 500);
-                }
-                return;
-            }
-
-            // Once content is loaded, add highlights
-            const highlights = [];
-            // Escape special chars and use word boundaries if needed, but strict matching is requested
-            const regex = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
-            
-            const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT, null, false);
-            const textNodes = [];
-            while (walker.nextNode()) {
-                // Skip if already inside a script, style, or existing highlight
-                const parent = walker.currentNode.parentNode;
-                if (parent.tagName === 'SCRIPT' || 
-                    parent.tagName === 'STYLE' ||
-                    parent.tagName === 'NOSCRIPT' ||
-                    parent.tagName === 'TEXTAREA') continue;
-                textNodes.push(walker.currentNode);
-            }
-            
-            // Limit processing to first 1000 nodes to prevent UI freeze on massive pages
-            const nodesToProcess = textNodes.slice(0, 2000);
-            
-            nodesToProcess.forEach(node => {
-                if (node.textContent.match(regex)) {
-                    const span = document.createElement('span');
-                    // We don't put the class on the container span, but on the matches inside
-                    span.innerHTML = node.textContent.replace(regex, '<span class="temp-highlight">$1</span>');
-                    node.parentNode.replaceChild(span, node);
-                    
-                    // Collect the highlighted elements
-                    span.querySelectorAll('.temp-highlight').forEach(el => highlights.push(el));
-                }
-            });
-
-            if (highlights.length > 0) {
-                // Scroll to first match
-                highlights[0].scrollIntoView({ 
-                    behavior: 'smooth', 
-                    block: 'center'
-                });
-
-                // Start timer only after scroll completes
-                setTimeout(() => {
-                    const removeHighlights = () => {
-                        highlights.forEach(el => {
-                            el.classList.add('fade-out');
-                            // After fade out, we could unwrap, but just leaving them transparent is safer/easier
-                            // to avoid DOM shifting or complex restoration logic.
-                        });
-                    };
-
-                    // Add event listeners for early removal
-                    window.addEventListener('scroll', removeHighlights, { once: true });
-                    document.addEventListener('click', removeHighlights, { once: true });
-
-                    // Set timeout for automatic removal
-                    setTimeout(removeHighlights, 15000); 
-                }, 1000); // Wait 1s after scroll
-            }
-        };
-
-        // Start the highlight process
-        setTimeout(startHighlight, 500);
-
-        // Clean URL (remove term param so refresh doesn't highlight again if desired, or keep it? 
-        // MY_VERSION kept it but had a line to clean it: window.history.replaceState({}, '', window.location.pathname);
-        // I will include the cleaning.
-        try {
-            const newUrl = new URL(window.location.href);
-            newUrl.searchParams.delete('term');
-            window.history.replaceState({}, '', newUrl.toString());
-        } catch (e) {
-            console.error(e);
-        }
-    }
-
     // ===== Initialization =====
 
     async function init() {
-        // Handle jump-to-result highlighting
-        handleSearchHighlight();
-
         // Fetch search index (browser caches based on query param)
         const docs = await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}').then(r => r.json());
         const index = createIndex(docs);
@@ -452,13 +329,13 @@
             showPreview(parseInt(results[newIndex].dataset.index));
         }
 
-        const debouncedSearch = debounce(search, 350, false);
-        window.field = document.querySelector('#term');
-        field.addEventListener('keydown', (e) => {
-            if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp' && e.key !== 'Enter') {
-                debouncedSearch();
-            }
-        });
+        const debouncedSearch = debounce(search, 600, false);
+    window.field = document.querySelector('#term');
+    field.addEventListener('keydown', (e) => {
+        if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp' && e.key !== 'Enter') {
+            debouncedSearch();
+        }
+    });
         window.resultsDiv = document.querySelector('#search-results');
 
         const params = new URL(location.href).searchParams;
@@ -480,12 +357,18 @@
         const searchQuery = field.value.trim();
         const searchLayout = document.getElementById('search-layout');
 
-        if (!searchQuery || searchQuery.length < 3) {
+        if (!searchQuery) {
             resultsDiv.innerHTML = '';
             hidePreview();
             if (searchLayout) searchLayout.classList.add('no-preview');
             return;
         }
+
+        // Prevent freezing on very short queries
+        if (searchQuery.length < 2) {
+            return;
+        }
+
         if (searchQuery === lastSearch) return;
 
         window.lastSearch = searchQuery;
@@ -494,7 +377,7 @@
         resultsDiv.innerHTML = loadingSvg;
         hidePreview();
 
-        const results = offlineSearch(searchQuery);
+        const results = await offlineSearch(searchQuery);
         window.searchResults = results;
 
         if (!results.length) {
@@ -525,14 +408,12 @@
                 ? `<div class="result-tags">${r.tags.map(tag => `<span class="tag">#${tag}</span>`).join('')}</div>`
                 : '';
 
-            const urlWithTerm = `${r.url}?term=${encodeURIComponent(searchQuery)}`;
-
             resultsHTML += `
                 <div class="searchresult${index === 0 ? ' active' : ''}"
                      data-index="${index}"
-                     data-url="${urlWithTerm}"
+                     data-url="${r.url}"
                      onmouseenter="showPreview(${index})"
-                     onclick="window.location.href='${urlWithTerm}'">
+                     onclick="window.location.href='${r.url}'">
                     <span class="result-title">${highlightedTitle}</span>
                     ${tagsHTML}
                     <div class="result-excerpt">${highlightedExcerpt}</div>
@@ -557,29 +438,16 @@
 
     // ===== Offline Search =====
 
-    function offlineSearch(searchQuery) {
+    async function offlineSearch(searchQuery) {
         const data = window.docs;
         const isTagSearch = searchQuery[0] === "#" && searchQuery.length > 1;
 
-        if (isTagSearch) {
-            const searchResults = index.search(searchQuery.substring(1), [{ field: "tags" }]);
-            const getByField = (field) => {
-                const results = searchResults.filter((x) => x.field === field);
-                if (results.length === 0) return [];
-                return [...results[0].result];
-            };
-            const tagIds = [...getByField("tags")];
-            return tagIds.map((id) => {
-                const result = { ...data[id] };
-                result.tags = result.tags.filter((x) => x !== "gardenEntry" && x !== "note");
-                return result;
-            });
-        }
-
-        const searchResults = index.search(searchQuery, [
-            { field: "title", limit: 50 },
-            { field: "content", limit: 50 }
-        ]);
+        const searchResults = isTagSearch
+            ? await index.searchAsync(searchQuery.substring(1), [{ field: "tags" }])
+            : await index.searchAsync(searchQuery, [
+                { field: "title", limit: 50 },
+                { field: "content", limit: 100 }
+            ]);
 
         const getByField = (field) => {
             const results = searchResults.filter((x) => x.field === field);
@@ -587,34 +455,19 @@
             return [...results[0].result];
         };
 
-        const titleIds = new Set(getByField("title"));
-        const contentIds = new Set(getByField("content"));
+        const allIds = new Set([
+            ...getByField("title"),
+            ...getByField("content"),
+            ...getByField("tags")
+        ]);
 
-        const titleResults = [];
-        const contentResults = [];
-
-        // Process title matches
-        for (const id of titleIds) {
+        const dataIds = [...allIds];
+        const finalResults = dataIds.map((id) => {
             const result = { ...data[id] };
             result.tags = result.tags.filter((x) => x !== "gardenEntry" && x !== "note");
-            titleResults.push(result);
-        }
-        
-        // Sort title results alphabetically by title
-        titleResults.sort((a, b) => a.title.localeCompare(b.title));
+            return result;
+        });
 
-        // Process content matches (excluding those already in title matches)
-        for (const id of contentIds) {
-            if (!titleIds.has(id)) {
-                const result = { ...data[id] };
-                result.tags = result.tags.filter((x) => x !== "gardenEntry" && x !== "note");
-                contentResults.push(result);
-            }
-        }
-
-        // Sort content results alphabetically by title
-        contentResults.sort((a, b) => a.title.localeCompare(b.title));
-
-        return [...titleResults, ...contentResults];
+        return finalResults;
     }
 </script>
