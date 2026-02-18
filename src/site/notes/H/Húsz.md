@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Húsz/","title":"Húsz","created":"2026-02-12T22:41","updated":"2026-02-12T22:42"}
+{"dg-publish":true,"permalink":"/H/Húsz/","title":"Húsz","created":"2026-02-12T22:41","updated":"2026-02-18T23:00"}
 ---
 
 
