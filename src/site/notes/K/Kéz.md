@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kéz/","title":"Kéz","created":"2023-10-13T02:12","updated":"2026-02-13T23:28"}
+{"dg-publish":true,"permalink":"/K/Kéz/","title":"Kéz","created":"2023-10-13T02:12","updated":"2026-02-18T22:58"}
 ---
 
 
