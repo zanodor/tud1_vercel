@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2026-02-13T23:22"}
+{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2026-02-18T22:55"}
 ---
 
 
@@ -19,10 +19,10 @@ A könyv 279. oldalán is érdekes dolgokat ír. Például:
 > A zavaros állapotok után Séth az új rendet szolgálta. Tudomásul vette, hogy a világegyetem szabályozatlan erői lettek az urak. A mozgásba jött új renddel a létezés követelményeiből eredően segítette fönntartani[^1] azt. Az Oziris fesztiválokon ezek után Séth volt a hajón a kapitány, amely vitte Oziris képmását végig a Níluson. Vitte a Napot, az éjszaka vizes mélységein keresztül.  
 
 A mellékelt kép(en, ahol **Sít** nevűnek adatolt) Archibald Henry Sayce, Gaston Maspero – The Dawn of Civilization – Egypt and Chaldæa című könyvük 133. oldaláról való.  
-![assets/Széth_image1.png|fix_light](/img/user/S/assets/Sz%C3%A9th_image1.png)  
+![assets/Széth_image1.png|fix_dark fix_light](/img/user/S/assets/Sz%C3%A9th_image1.png)  
 
 Egy bazaltfaragáson nejével, [[N/Nephthys\|Nephthys]]szel látjuk hasonló fejformával.  
-![assets/Széth_image2.jpeg|fix_light](/img/user/S/assets/Sz%C3%A9th_image2.jpeg)  
+![assets/Széth_image2.jpeg|fix_dark fix_light](/img/user/S/assets/Sz%C3%A9th_image2.jpeg)  
 Edward P. Butler igen profin összeállított (Wikipédiánál sokkal részletesebb, gazdagabb adatokkal szolgáló) [oldalán](https://henadology.wordpress.com/theology/netjeru/) [[E/Egyiptom istenei\|Egyiptom istenei]]ről közöl adatokat. Az [alábbi](https://henadology.wordpress.com/theology/netjeru/anat/) oldalon Széth kapcsán azt írja, hogy fiának neve [[M/Maga\|Maga]] és krokodilként ábrázolták. (A [[M/MAG\|mag]] (gyök) sok nyelvben fiú jelentésű; gondolom itt nem a [[M/Magor\|Magor]] nevet kell keresni azért.)  
 Butler minden, különösen Széthtel kapcsolatos adata fontos lehet.  
 
@@ -85,7 +85,7 @@ Ezek alapján (és a bibliai [[E/El Shaddai\|El Shaddai]] névvel való azonoss�
 Persze hogy mi minősül "eredeti" istennek, ezzel csínján kell bánni, mert a végén ráfogják, hogy az eredeti tanítások náluk vannak. A Széth féle eredetiség a sátán istennő által képviselt szűzállapotra és csillagvallási időkre utal. Évköri értelmezésben Széth már a káosz erőit testesíti meg, ahogy Huszárik László Denderai csillagképek, hónapok és mítoszok c. a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében is írja[^2]\:  
 > A(z egyiptomi részről látható) hasonlóságok felvetik a (babiloni) ráhatás lehetőségét, a csillag elnevezések emlékeztetnek Gilgames történetre, de az egyiptomiak saját történetüket teremtették meg. Ábrázolásaik azt mutatják az égbolton, amit a földön szerettek volna látni. Széth káosz erőinek megfékezését üzenik, Ozirisz szeretet isten és követői segítségével.  
 
-![assets/Széth_image5.png|fix_light](/img/user/S/assets/Sz%C3%A9th_image5.png)  
+![assets/Széth_image5.png|fix_dark fix_light](/img/user/S/assets/Sz%C3%A9th_image5.png)  
 A mellékelt, Széth állatjelét ábrázoló képekhez tartozó info:  
 > In ancient Egyptian art, the Set animal, or sha, is the totemic animal of the god Set. Because Set was identified with the Greek Typhon, the animal is also commonly known as the Typhonian animal or Typhonic beast.  
 > —  
