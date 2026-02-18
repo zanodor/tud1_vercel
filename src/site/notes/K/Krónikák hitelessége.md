@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Krónikák hitelessége/","title":"Krónikák hitelessége","created":"2024-12-16T18:43","updated":"2026-02-16T16:20"}
+{"dg-publish":true,"permalink":"/K/Krónikák hitelessége/","title":"Krónikák hitelessége","created":"2024-12-16T18:43","updated":"2026-02-18T22:57"}
 ---
 
 
