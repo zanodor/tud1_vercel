@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions"],"created":"2025-06-12T01:36","updated":"2026-02-13T23:25"}
+{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions"],"created":"2025-06-12T01:36","updated":"2026-02-18T22:56"}
 ---
 
 
@@ -20,7 +20,7 @@ Tulajdonképpen itt a kentum-[[S/Szatem\|szatem]] szabály logikájának belső 
 #### Péterfai János írja:  
 
 > Csuda szavunk két eleme, a Csu és Da, kétségtelenül a Su-Da elemeivel rokonítható. A Suda magyar családnév, mint a Sutus is (Sütős). A Csu-Da fogalmilag és alakilag is a Csillag-Föld, illetve a Sütő rokona. A Csuda az éjszakai égbolt, ahol a sok csillag, amelyek világítanak, az Isten kezei, sütői is lehetnek. A Sutaszarvas maga a [[C/Csudaszarvas\|Csudaszarvas]], ami azt is jelenti, hogy egykor a suta nem csak az őzek, hanem a szarvasok nőstényét is jelenthette, amit ma, talán helytelenül, [[T/Tehén\|tehén]]nek mondunk.  
-> ![Kupa_image20250414141348516.jpeg|fix_light](/img/user/K/assets/Kupa_image20250414141348516.jpeg)
+> ![Kupa_image20250414141348516.jpeg|fix_dark fix_light](/img/user/K/assets/Kupa_image20250414141348516.jpeg)
 *Szkytha, Csuta, Csuda = az Égbolt*
 
 Péterfai János rengeteget említi a Csuda népet:  
