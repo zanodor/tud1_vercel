@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Darwin, Charles és elméletének cáfolata/","title":"Darwin, Charles és elméletének cáfolata","tags":["titleandheadingonedontmatch"],"created":"2026-02-13T16:30","updated":"2026-02-13T16:31"}
+{"dg-publish":true,"permalink":"/D/Darwin, Charles és elméletének cáfolata/","title":"Darwin, Charles és elméletének cáfolata","tags":["titleandheadingonedontmatch"],"created":"2026-02-13T16:30","updated":"2026-02-18T22:58"}
 ---
 
 
