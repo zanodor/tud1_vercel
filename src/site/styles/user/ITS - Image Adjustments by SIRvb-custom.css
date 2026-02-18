@@ -360,23 +360,28 @@ img[alt*="p+bcc"], .image-embed[src*="#p+bcc"] img {
   object-position: 50% 90%;
 }
 
+
+
 /*Fix Colors - Works both locally and remotely*/
 /* See Chat https://chatgpt.com/c/68f11f70-5cf8-832a-9670-761287826b20*/
 
 /* Dark theme: invert images with fix_dark */
 .theme-dark img[alt*="fix_dark"], 
+.theme-dark .image-embed[src*="#fix_dark"] img,
 .theme-dark .image-embed[src*="#fix_dark"] {
   filter: invert(87.5%);
 }
 
 /* Light theme: fix_light gives yellow tint (no invert!) */
 .theme-light img[alt*="fix_light"],
+.theme-light .image-embed[src*="#fix_light"] img,
 .theme-light .image-embed[src*="#fix_light"] {
   filter: sepia(90%) hue-rotate(-10deg) saturate(230%) brightness(0.96) contrast(1.0);
 }
 
 /* Light theme: keep invert option alive as well */
 .theme-light img[alt*="invert_light"],
+.theme-light .image-embed[src*="#invert_light"] img,
 .theme-light .image-embed[src*="#invert_light"] {
   filter: invert(90%) sepia(44%) contrast(107%);
   /* mix-blend-mode: screen; */
@@ -384,6 +389,7 @@ img[alt*="p+bcc"], .image-embed[src*="#p+bcc"] img {
 
 /* Dark theme: keep invert option alive as well */
 .theme-dark img[alt*="invert_dark"],
+.theme-dark .image-embed[src*="#invert_dark"] img,
 .theme-dark .image-embed[src*="#invert_dark"] {
   filter: invert(1) sepia(25%) saturate(0%) brightness(1.29) contrast(0.85);
 }
