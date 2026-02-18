@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2026-02-13T23:25"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2026-02-18T22:56"}
 ---
 
 
 # Nap – halott Nap
 
 Jankovics Marcell A Nap könyve című könyvének ([[H/Háromszögletű Nap\|háromszögletű Nap]] címnél is szereplő) adata szerint az ókori Egyiptomban négy Napot azaz Napminőséget[^1] különböztettek meg: a kelő/reggeli (neve a galacsinhajtó bogár, a [[H/Hórusz\|Hórusz]] és [[S/Scarabeus\|scarabeus]] címnél is említett Kheper), delelő (Ré-Harahti) és az öregember lenyugvó ([[A/Atum\|Atum]]) Nap alkotta a nappali triászt, mely kiegészült az éjszakai (halott) napisten (Ozirisz) személyével. Magyar analógiája is létezik mindennek.  
-![assets/Naphalott_image1.png|fix_light](/img/user/N/assets/Naphalott_image1.png)  
+![assets/Naphalott_image1.png|fix_dark fix_light](/img/user/N/assets/Naphalott_image1.png)  
 Beszámol ugyanis Bosnyák Sándor arról, hogy a szegedi házhomlokzatok, tetők mintázatában "a szegedi parasztok a napfelkeltét, a delelést, a napnyugtát, alul a zárt rekeszekben az éjszakát látják."  
 
 Elterjedt hiedelem szerint a [[G/Göncöl\|Göncöl]]szekér szállítja a túlvilágra a halott napisten tetemét.  
@@ -89,7 +89,7 @@ A Nap – halott Nap és [[N/Nap#Nap – Ellen-Nap\|ellen-Nap]] cím/alcímeket 
 A halott Nap kapcsán érdekes még a [[K/Kelet és észak\|kelet és észak]] címnél szereplő passzus.  
 
 Falvay Károly Nagyboldogasszony című könyvének 164-165. oldalán szól égtájakról és mitikus kapcsolatukról. Nála is nyilván az elnyugvás helye nyugat a többit lásd a csatolt képen.  
-![assets/Naphalott_image2.png|fix_light](/img/user/N/assets/Naphalott_image2.png)  
+![assets/Naphalott_image2.png|fix_dark fix_light](/img/user/N/assets/Naphalott_image2.png)  
 Egyiptomi példát is hoz, melyről Jankovics Marcell ezt írja Ahol a madár se jár címet viselő könyvében:  
 > Egyiptomi példa nyomán nagyon valószínű, hogy a régiek úgy hitték, **a télen halott (a magas északon hosszabb időre a horizont alatt rekedt) Nap északon, az istennő méhében (a köldöke mögött) várja *keleti* újjászületését**.  
 
