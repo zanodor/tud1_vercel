@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2026-02-16T16:20"}
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2026-02-18T22:55"}
 ---
 
 
@@ -128,7 +128,7 @@ Fentebb már Jankovics Marcell soraiban kiemeltük ezt a részt.
 
 Fentebb volt szó a szamár hátán lévő kereszt alakú jelről is és egy Jézus keresztrefeszítését ábrázoló képen is ott volt a szamár.  
 Na most, milyen érdekes, hogy Rómában egy (Jézus keresztrefeszítésének bizonyítékául bemutatott?) rajzon szamarat látunk keresztrefeszítve. (Forrás: Wikipédia Crucifixion oldal.)  
-![assets/Szamár_image2.jpeg|fix_light](/img/user/S/assets/Szam%C3%A1r_image2.jpeg)  
+![assets/Szamár_image2.jpeg|fix_dark fix_light](/img/user/S/assets/Szam%C3%A1r_image2.jpeg)  
 A szamarat "mint teherhordót" nem a világ bűneit magára vevő Krisztusként kell itt értelmezni, hanem mint évköri jelképállatot kell meglátni.  
 Tulajdonképpen a szamár azért is választatott a Rák váltóállatának, mert a kereszt a [[C/Colure\|colure]] címnél is taglalt napfordulós metszéspontra, keresztezésre utal.  
 
