@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-04-22T01:48","updated":"2026-02-18T18:28"}
+{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-04-22T01:48","updated":"2026-02-18T18:45"}
 ---
 
 
@@ -26,7 +26,7 @@ A [[B/Balance\|balance]] címnél is említett [[B/Bilincs\|bilincs]] kapcsán g
 Azaz az az érdekessége, hogy az éggömb, illetve a csillagtérkép is ilyen felbontású. Gyárfás Ágnes írásai kapcsán lemniszkáta időkörök részt (kiegészítve az éggömb két körével) lásd [[U/Újév\|újév]] és [[K/Kalács\|kalács]].  
 ![assets/Lemniszkáta_image1.png|fix_dark fix_light|840](/img/user/L/assets/Lemniszk%C3%A1ta_image1.png)  
 Előbbi címtől lett átmentve a mellékelt Gyárfás Ágnes féle rajz is (de az [[B/Bal és jobb\|bal és jobb]] címhez is bekerült), melyen azt látjuk, hogy a második, bal oldalon mutatott félév hosszabb (mely kapcsán [[H/Hét\|hét]] címnél arról volt szó[^1], hogy valahogy a hat és hét számok által adott 13 holdhónap leosztását el kell intézni, vagy [[B/Boldogasszony hava\|Boldogasszony hava]] vagy [[S/Szűz hava\|Szűz hava]] kezdéssel \[na ez még nincs megoldva\]).  
-![assets/Lemniszkáta_image2.png|fix_light](/img/user/L/assets/Lemniszk%C3%A1ta_image2.png)  
+![assets/Lemniszkáta_image2.png|fix_dark fix_light](/img/user/L/assets/Lemniszk%C3%A1ta_image2.png)  
 Ahogy [[S/Sárkány#Hétfejű sárkány\|hétfejű sárkány]] cím/alcímnél az ott is csatolt Ninurta a hétfejű sárkány elleni viaskodása kapcsán szóltunk róla, a levágott fejek utalhatnak a sötét félévbe tartozó holdhónapok múlására is, míg a másik oldalon a kígyószerű test kunkora a lemniszkáta másik felét idézi (csak éppen itt a kép a Gyárfás Ágnes által közölt rajzhoz képest fordított helyzetű).  
 Az mondjuk a képből jól/úgy látszik, hogy a hetedik (a felső két levágott fej csonkja/nyaka közül a bal oldali) inkább a bal oldali lemniszkáta-félhez tartozna, viszont ez talán semmit sem jelent (egyszerűen így rajzolta meg).  
 
@@ -45,7 +45,7 @@ Egyúttal hadd utaljak vissza azon korábban pedzegetett témára, miszerint kö
 Még a lánc és kutya kapcsán: "Lánc, lánc, Eszterlánc..." gyermekdalunkban [[E/Eszter\|Eszter]] felel meg a Kutyának lényegében.  
 
 A csatolt Hoppál-Jankovics-Nagy-Szemadám Jelképtár című könyvükből való képen szerintük a [[T/Tejút\|Tejút]] ábrázolásait láthatjuk, de a legfelső és legalsó inkább tűnik Napútnak (így [[S/Sine\|sine]] címhez is bekerült), míg a második lemniszkáták/Halak láncolatát is idézi.  
-![assets/Lemniszkáta_image3.jpeg|fix_light](/img/user/L/assets/Lemniszk%C3%A1ta_image3.jpeg)  
+![assets/Lemniszkáta_image3.jpeg|fix_dark fix_light](/img/user/L/assets/Lemniszk%C3%A1ta_image3.jpeg)  
 A csillagban nem tudok mást látni, mint a Kutyacsillagot (nyári és téli napfordulós együttállásait).  
 
 A lemniszkáta meg[[K/Köt\|köt]]ő [[K/Közép\|közép]]ső pontjával kapcsolatosan a [[M/Masni\|masni]], [[C/Csokor\|csokor]], [[H/Hurok\|hurok]], [[G/Gúzs\|gúzs]], [[K/Köt\|köt]]és fogalmain keresztül vizsgálandó [[K/Knot\|knot]] és [[L/Loop\|loop]] szavak közül utóbbival foglalkoztunk bőven, míg a [[K/Knot\|knot]] szóban a [[K/KAN\|KAN]] van meg, mert a Kutya a kötőpont ([[K/Közép\|közép]]pont).  
@@ -80,7 +80,7 @@ A téma ott folytatható, ahol [[B/Bal és jobb\|bal és jobb]], [[K/Kör#Kör �
 
 A [[K/Khamor#Khamor – Makor íjazók\|Khamor – Makor íjazók]] cím/alcímnél hosszasan kidolgozott téma végére azt írtuk, hogy lemniszkáta domború bal oldala Magor/Bukor/Bog-Úr, jobb oldala [[K/Khamor\|Khamor]], homorú. Azóta [[M/Meter#Meter 2)\|meter]] címnél írottak alapján arra jutottunk, hogy a [[M/Magyar\|Magyar]]/[[M/Magor\|Magor]] nemcsak ívet, de kört is jelenthet (az állatkört is akár).  
 Lásd még idevágó témát lentebb.  
-![assets/Lemniszkáta_image5.png|fix_light](/img/user/L/assets/Lemniszk%C3%A1ta_image5.png)  
+![assets/Lemniszkáta_image5.png|fix_dark fix_light](/img/user/L/assets/Lemniszk%C3%A1ta_image5.png)  
 
 [[A/Arkadash\|Arkadash]] és [[I/Ikrek csillagkép\|Ikrek csillagkép]] címnél is szerepelt a mellékelt kép. Jól látszik a domború és homorú íve a lemniszkátának, melyek együttesen adják az Ikrek asztrológiai jelét (♊) és az Kul-Oba-i kurgán [[A/Arkadash\|arkadash]] címnél is taglalt Hunor és Magor íjazó (ív = íj) alakjait.  
 Ugyebár az évet a fentebb említett két körrel/félévvel is tudom ábrázolni, ahol a két alak olyan mód áll egymásnak háttal, mint amikor gyerekként a sót törtük testnevelés órán.  
