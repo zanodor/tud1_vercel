@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated"],"created":"2024-04-22T01:48","updated":"2026-01-30T22:55"}
+{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-04-22T01:48","updated":"2026-02-18T01:53"}
 ---
 
 
@@ -55,7 +55,26 @@ Megkötni a kutyát szokták, és [[K/Köt\|köt]], [[K/Kut\|kut]], [[K/Kutya\|k
 A kutya kötésére használt [[P/Póráz\|póráz]] szavunk Tilak Orionjának 145. oldalán is megjelenni látszik. [[O/Orion övcsillagai\|Orion övcsillagai]] címszó alján szóltunk legutóbb arról, hogy Tilak szerint az öv Orion övére utal. Viszont a póráz a kutyára, a Kutyacsilagra, annak megkötöttségére kell utaljon, vagy a Nappályához, vagy (látszólagosan?) Orionhoz.  
 [[L/Loop\|Loop]] címnél írtuk legutóbb, hogy [[R/Rope\|rope]]-pal közös eredetük lehet. Az imént taglalt megkötöttség pedig a lemniszkátára utal.  
 Az [[I/Idő\|idő]] és [[G/Galactic centre\|Tejútközpont]] címnél is taglalt tizenkettesség előjött [[D/Dél#Dél és éjfél\|dél és éjfél]] cím/alcímnél, ahol szintén szóba került a lemniszkáta:  
-![assets/Lemniszkáta_image4.png|fix_light](/img/user/L/assets/Lemniszk%C3%A1ta_image4.png)  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/D/Dél/#nhb77h" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> A bazsarózsa, azaz pünkösdirózsa még nem nyílik május 1-jén; ez a virág tényleg [[P/Pünkösd\|Pünkösd]] virága. Hogy a felvirágozott alakoskodó kit jelenít meg, azt a pünkösdi ének árulja el:  
+> *"Nem anyátúl lettél,  
+> Rózsafán termettél,  
+> Piros pünköst napján  
+> Hajnalban születtél."*  
+> Az ének folytatása a faszellem ellenlábasával ismertet meg bennünket, aki az év másik, téli felén uralkodik:  
+> *"Eb anyátúl lettél,  
+> Kökényfán termettél,  
+> Tátos Luca-napján  
+> Éjfélben termettél."*  
+> (Pálóczi Horváth Ádám gyűjtése) 
+
+</div></div>
+
+
 [Ezen](https://www.youtube.com/watch?v=kj00fWcqHCs) műsorban Pap Gábor elmondta, hogy Keleten nem a Nap-Föld viszonyhoz, hanem az eggyel nagyobb minőséghez, a Tejútnak a rendszeréhez viszonyítottak: a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]] adja meg az egész időrendszer tengelyét[^2]. Amit Pap Gábor nem említ, hogy a 12-es rendszerű kettősóra analógiáját[^3] megtaláljuk népünk ajkáról: a Jankovics Marcell A fa mitológiája című könyvének 160. oldaláról származó képileg mellékelt adata alapján az derül ki, hogy (az ellenlábasról szóló részben előjövő) eb, kutya fent, északon de déli 12 órára utalóan kerül említésre, míg a téli napfordulós [[L/Luca\|Luca]] nap éjfélre vonatkozik. Az [[E/Ebéd\|ebéd]] szavunk tehát valóban azt jelenti, amit Péterfai János mondott.  
 A téma ott folytatható, ahol [[B/Bal és jobb\|bal és jobb]], [[K/Kör#Kör – két kör\|kör – két kör]], [[F/Félév\|félév]], [[K/Kalács\|kalács]], lemniszkáta és más címnél abbahagytuk: a tizenkettesség 24 órára, a kis és nagy éves időkörben 6 sötét és világos hónapra bontva lemniszkátára ültethető!  
 
