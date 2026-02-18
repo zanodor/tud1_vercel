@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-02-13T23:22"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-02-18T22:54"}
 ---
 
 
@@ -52,7 +52,7 @@ Ha már itt az Anzu szóba került, ez a név annál az [[I/Imdugud\|Imdugud]] c
 > E szócsoportba tartozik Turul szavunk a térül, gurul szavakkal együtt, s ezek az önmagába visszatérő körmozgással kapcsolatosak. Ezek a szavak szép napunk napontai útjának, visszatérésének folyamatát szemléltetik éppen úgy, mint a Nap jelképének, a köröző, térülő-forduló vadászsólyomnak, a Turul madárnak a röpte is. [[A/Arthur\|Arthur]] neve tulajdonképpen Turkát, azaz bikát, tehát Bika embert, Tűz embert, Nap embert jelent, s szerepének a visszatérés szerves része. (V.5) A magyar [[T/Tárkány\|Tárkány]] naptiszteleti méltóságnév és az etruszk származású [[T/Tarquinius\|Tarquinius]]ok nevének eredete is ide vezet. E gondolatkör a Túr folyó nevében és számos magyar helységnévben mentődött át a jelenbe. Néhány Kárpát-medencén kívüli példát felhozva ide tartoznak az angol [[T/Turn\|turn]] (fordul), `return` (visszatér), az angol-francia `tour`, a spanyol `toro` (bika; azaz Taurus is asztrális állatnév!) és `tornare` (visszatér) szavak. A Földközi tenger melletti Tarsus, az olasz Turin, a francia Tours városnevekben ősi naptiszteleti helyeket sejtek, annál is inkább, mert a bikaszarvat tartó földanya domborműve, kit bátran nevezhetünk Turán, Túr-anya első ábrázolásának, Nyugat-Európában maradt fenn a legkorábbi kőkorszakból.  
 
 Tomory Zsuzsának a Gyárfás Ágnes által [[U/Újév\|újév]] és [[K/Kalács\|kalács]] címnél taglalt, a mellékelt képen is látható témáról kellett volna beszélnie, de mivel Magyar Adorján nem tette – hisz ő csak az északi-sarki napjárásról készített rajzot (lásd [[H/Hyperborea\|Hyperborea]]; másik rajzát [[O/Obeliszk\|obeliszk]]) – így ő sem tette.  
-![Turul_image20250829221119173.jpeg|fix_light](/img/user/T/assets/Turul_image20250829221119173.jpeg)
+![Turul_image20250829221119173.jpeg|fix_dark fix_light](/img/user/T/assets/Turul_image20250829221119173.jpeg)
 
 Ez a fajta [[C/Csigavonal\|csigavonal]]ú spirális mozgás az, amit a turul igeként kifejez.  
 
@@ -145,7 +145,7 @@ Utóbbi oldal adata:
 [[E/Emese\|Emese]] és [[D/Dream\|dream]] címnél már esett szó róla.  
 Bíró Lajos A magyar régmúlt titkai című könyvében is írja, hogy a [Nagyszentmiklósi kincs](https://hu.wikipedia.org/wiki/Nagyszentmikl%C3%B3si_kincs) 2. számú korsóján nyilvánvalóan Emese álmát ábrázolták: hatalmas madár látható rajta egy várandós nő mögött \[lásd korsó azon képét lentebb jobb oldalon\]. Berze Nagy J. kutatásai szerint a magyar mitologiában a nagy sas (a turul) a főisten madara, képviselője volt.  
 
-![assets/Turul_image7.jpeg|fix_light](/img/user/T/assets/Turul_image7.jpeg)  
+![assets/Turul_image7.jpeg|fix_dark fix_light](/img/user/T/assets/Turul_image7.jpeg)  
 Az [[A/Árpád\|Árpád]] címnél említett Gerberga apátnőnek Gandersheimben megtalált rovásírásos ládikájában talált hímzésen, amit Friedrich Klára az Ősi Gyökér 2019-20/1-4. számában megjelent cikkében bemutat, Fehér M. Jenő Besenyő őstörténet című könyvének adata szerint is azonos mondanivalója van.  
 
   
@@ -164,7 +164,7 @@ Dúcz László Szent madarunk a Turul című tanulmányában is megtaláljuk a m
 > (A magyar nyelv korábban nem ismerte a "[[T/Terhes\|terhes]]" kifejezést a gyermekvárásra, mert az áldott állapot volt számára. Ez lehetett az oka annak, hogy a gyászoló asszonyok a koporsóba helyezték a veretet hajfonatukkal együtt, hiszen már nem várták az "áldott állapotot" – nem volt kitől. (Ez is igazolja, hogy nagyon jól tudták, nem madártól születik a gyerek.) Mindezek miatt a ragadozómadarat ábrázoló veretek az isteni küldetés és a szent fogantatás fogalomkörébe irányítják a figyelmünket.)  
 
 A Tejútközpont az, ahonnan a lélek is származik és ahol a Nap is születik. A Turul madárnak is ekkor, a téli napfordulón van jelentősége. Mondható ezek után, hogy Szűz [[M/Mária\|Mária]] és [[A/Álmos\|Álmos]] anyja, [[E/Emese\|Emese]] gyermekeinek fogantásának költői képe mögött az áll, hogy a Tejútközponthoz az ismertetett két nézet tartozik? Lehetséges, bár maga a foganás téridőbeli helye nem oda kötődik, csak a születés (és léleklejövetel) téridőbeli helye.  
-![assets/Turul_image9.png|fix_light](/img/user/T/assets/Turul_image9.png)  
+![assets/Turul_image9.png|fix_dark fix_light](/img/user/T/assets/Turul_image9.png)  
 
 Turul Michelangelo Naddeo-nál is előjön. Ráadásul [[T/Terhes\|terhes]] Turulmadarakat ír, azaz nőstényként ábrázolt madarakról van szó.  
 
@@ -197,7 +197,7 @@ A román [Alex Green](https://www.quora.com/profile/Alex-Green-556) egyes gondol
 A vallach névhez hasonlító [[F/Falcon\|falcon]] valóban lehet a Turul változata és lehetséges, hogy ezeket a szintén szkíta-hun származék népeket a velük kapcsolatba kerülő kelták a nevük és jelvük alapján a sólyom jelentésű szavuk kialkotására késztették (gall `uolcos`, `uolca`) de lehet ez a név pre-kelta is, azaz a palócok belső fejlődéssel létrehozott szava is. Csak hát ugye a Green félék oda nem tudnak lehatolni, a tágabb összefüggéseket a tudomány sem akarja/tudja feltárni.  
 
 Itt meg a Turul/sólyom kontra Holló téma kapcsán annyit, hogy a magyar felmenőkkel is rendelkező\[?\] Bánáti, inkább románpárti Peter Clings ennek ellenére blogján és valamely Quora válaszában is erősködik, hogy egyes ábrázolásokon a madár inkább hollónak tűnik, mintsem sólyomnak. A fentebb Képes krónikából csatolt képek alapján meg is tudom érteni, de nála a probléma az volt, hogy a két téridőbeli (szemben álló) helyről nem tudott.  
-![assets/Turul_image11.png|fix_light](/img/user/T/assets/Turul_image11.png)  
+![assets/Turul_image11.png|fix_dark fix_light](/img/user/T/assets/Turul_image11.png)  
 Az ÁKA 2014. november 8-án Kubínyi Tamás által tartott Ég és Föld között 2. rész című [ezen](https://videa.hu/videok/nagyvilag/eg-es-fold-kozott-kubinyi-magyar-h9RKn5GBC6byQyAO?start=491.353124) megosztóra feltett előadásban is a közönség tagjai varjút/hollót látnak (07:30) a csatolt/bemutatott képeken, és Kubínyi Tamás is nevetni kényszerül (elmondja, hogy a latin szövegekben hol ölyvnek, hol sasnak fordítva jelenik meg, Ungváron a magyarellenesek pedig keselyűként szeretnék láttatni).  
 ![assets/Turul_image12.png](/img/user/T/assets/Turul_image12.png)  
 Az kétségtelen, hogy a madár feketével festett, és a [[H/Hét#Hét vár\|hét vár]] cím/alcímnél is taglalt Erdély címerben is – a Wikipédia sorait idézve – a magyar nemzetet a fekete turulmadár jelképezi. A címerek vizsgálata alapján viszont semmiféleképpen sem lehet hollóra, hanem akkor inkább már griffre gondolni.  
@@ -394,7 +394,7 @@ Még a nemez- és lótakarós témára visszatérve. Ugyan a [[S/Szakrális kett
 
 ...című az Ősi Gyökér 2007/1. sz. megjelent cikkében nem mondja, mi alapján gondolja amit gondol, mégis mintha azok egyikét elemezné, de ő persze Nap-Hold (azaz napi ciklusban gondolkodva) relációban írja, a Turul és Szarvas neveket és az állatküzdelmet is szóba hozva:  
 > Pogánynak mondott őseink nem szentléleket, hanem vándorlelket ismertek. A kétféle felfogás funkcionális egyezést mutat. Az ősmagyar lélekhit értelmét a szakrális kettős királyság királyainak származtatásában találtam meg. A magyar intézmény kozmikus vonatkozású. Egyik király a Naptól származtatta magát annak vándorlelke által, aminek vizuális képe fehér sólyom (**turul**). Másik király a Holdtól származott **szarvas** alakjában ábrázolt vándorlélek közvetítésével. A Nap és Hold őstojásból kelt ki és ez a mítosz a király születésében is behelyettesítődhet. A Nap-Hold, világosság-sötétség (idő) jelképes küzdelmének megjelenítése a marakodó állatstílus. Turul marcangolja a szarvast.  
-> ![assets/Turul_image24.jpeg|fix_light](/img/user/T/assets/Turul_image24.jpeg)
+> ![assets/Turul_image24.jpeg|fix_dark fix_light](/img/user/T/assets/Turul_image24.jpeg)
 
 Ugyanilyen relációban hozza fel a paziriki nemezrátét-ábrázolást Wohlfart Zoltán A Maros (Nap) és az Olt (Hold) c. az Ősi Gyökér 2018/1-2. sz. megjelent cikkében (nála a griffmadár a Nap, a szarvas Hold, ráadásul hím; a kép miatt teszem ide leginkább).  
 A lényeg tehát a fogalmak összetartozása: (az akkádban a Bakra utaló) Magur pedig tudjuk, [[M/Makar\|Makar]] és [[M/Makara\|Makara]] címnél is szóltunk róla, hogy a Bakban születendő Nap neve vitetett át ilyen-olyan Baknak megfelelő jelentésű nevekbe az akkádban és az indben, ahogy azt is tudjuk, hogy a Bak [[S/Szarvas csillagkép\|Szarvas csillagkép]] volt (még az angol [[B/Buck\|buck]] szó is ennek állít emléket).  
@@ -412,7 +412,7 @@ Az alábbi, két formációban adott képet az imént említett Wohlfart Zoltán
 Dúcz László Szent madarunk a Turul című tanulmányában a fentebbi leíró részben is említésre illetve képileg bemutatásra kerül, de nem említi a pávát. Annyit szán képaláírás gyanánt, hogy *Párzási jelenet Lehel kürtjéről*.
   
 Egy érdekes nyelvészeti adalékot szolgáltassunk még ide a fentebb említett Magur-Makara mellé:  
-![assets/Turul_image29.png|fix_light](/img/user/T/assets/Turul_image29.png)  
+![assets/Turul_image29.png|fix_dark fix_light](/img/user/T/assets/Turul_image29.png)  
 
 [Ezen](https://qr.ae/pGYLSh) Quora válaszban hozott adat szerint a szanszkrit `mayūra` = páva értelmű. Úgy tűnik, hogy okkal azonos a Bak csillagkép és a páva neve, hiszen összetartozóságukat több ábrázoláson látjuk. Hogy most a mayūra [[M/Magyar\|Magyar]] vagy [[M/Magur\|Magur]] kiindulású (merthogy Magyar istennő az, aki fiát, Magurt szüli), nehéz megmondani, mindenesetre a y/j = gy kellene legyen, de ne feledjük, hogy [[M/Madár\|madár]] szavunk is (okkal) ilyen alakú.  
 A szó más nyelvekbeni változatait (lásd mellékelt képen illetve ezen[^7] Wiktionary oldalon) elnézve elképzelhető, hogy a [[S/Szimurgh\|Szimurgh]] címnél taglalt perzsa `murgh` = madár is innen veszi az eredetét.  
@@ -521,7 +521,7 @@ Lásd alant.
 ...című Ősi Gyökér 2005/1. sz. megjelent cikkében írja:  
 > Nagyboldogasszonyunk napot hordozó, életközvetítő hírnöke, kerecsenmadara, turulja az örökké megújuló világosság jelképe, melynek, már meg nem értett másai jelennek meg ismét utódműveltségek szárnyas napkorong ábráiban, s keresztény templomok szárnyas oltáraiban.  
 
-![assets/Turul_image37.jpeg|fix_light](/img/user/T/assets/Turul_image37.jpeg)  
+![assets/Turul_image37.jpeg|fix_dark fix_light](/img/user/T/assets/Turul_image37.jpeg)  
 
 Ez a téma (képi ábrázolásokat lásd [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél) Dúcz László Szent madarunk a Turul című tanulmányában írottak olvasása közben is eszembe jutott:  
 > Ahmed Vefik szótára szerint a "Toghrul" a legelőkelőbb fejedelmi jelvény volt az oguzoknál, akik már Atilla idején is hun fennhatóság alatt éltek. A hunok ismerték és használták a Turult, mint jelképet – erről Kézai meg is emlékezett –, fennmaradt egy hun fejedelmi jelvény, egy arany Turul. Ezt a jelzést a szasszanida uralkodók is alkalmazták. Először II. Hormuzd (i.sz. 457-459), majd II. Khoszrau és II. Jazdagird is. Igaz többnyire *egyszerűsítve, mert a király koronáján szárnyak jelennek meg,* mint isteni küldetésű uralkodóknak. Bahram Gur (i.sz. 421-438, Atilla kortársa) szasszanida uralkodó kapott egy tughralt, mint solymászmadarat. Külleméről leírás nem maradt, de bizonyos, hogy utándobásból (ökölről indítva) használatos madár volt. Mohamed el Bardzsini solymász könyvében a toghrult tartja a legjobb solymászmadárnak, bár szerinte olyan ritka, hogy sehol sem található. Vagyis, van bizonyos titokzatos vonása.  
@@ -540,7 +540,7 @@ A lengyel Alexandra-Dorotheának Dávidon keresztül hozzám jutó információj
 > The symbol of an eagle appeared for the first time on the coins made during the reign of Bolesław I (992-1025), initially as the coat of arms of the Piast dynasty. Beginning in the 12th century, the eagle has appeared on the shields, ensigns, coins, and seals of the Piast dukes. It appeared on the Polish coat of arms during Przemysł II reign as a reminder of the Piast tradition before the fragmentation of Poland.  
 > —  
 > Van egy legenda a 2 vagy 3 testvérről, Lech és Cseh vagy Lech, Cseh és Rus (azonban a közeli felülvizsgálat után Rus legalábbis Lech unokája lehetett, nem a testvér, ezért a 2 testvér legendája hihetőbb), akik elhagyták otthonukat, hogy helyet keressenek maguknak, ahol letelepedhetnek. A csehek délre mentek és megalapították a mai Csehországot, A legenda szerint a fehér sas embléma akkor keletkezett, amikor Lengyelország legendás alapítója, Lech egy fehér sasfészket látott. Amikor ránézett a madárra, a vörösben lenyugvó napból egy napsugár esett a szárnyaira, így azok aranysárga csúcsúnak tűntek, a sas többi része tiszta fehér volt. El volt ragadtatva, és úgy döntött, hogy ott telepszik le, és a sast a címerére tette. A lengyel `gniazdo` ("fészek") szóból Gniezdno (ma Gniezno) nevet is adott a helynek.  
-> ![assets/Turul_image38.png|fix_light](/img/user/T/assets/Turul_image38.png)
+> ![assets/Turul_image38.png|fix_dark fix_light](/img/user/T/assets/Turul_image38.png)
 > A sas szimbólum először az I. Bolesław (992-1025) uralkodása alatt készült érméken jelent meg, kezdetben a Piast-dinasztia címereként. A 12. századtól kezdve a sas megjelent a Piast hercegek pajzsain, zászlóin, érméin és pecsétjein. A lengyel címerben Przemysł II uralkodása alatt jelent meg a Piast-hagyomány emlékére Lengyelország feldarabolódása előtt.  
 
 ## Turul határjelző madár
