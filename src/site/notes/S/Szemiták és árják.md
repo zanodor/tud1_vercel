@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szemiták és árják/","title":"Szemiták és árják","tags":["Englishtexttranslated"],"created":"2024-10-27T11:51","updated":"2026-02-16T16:20"}
+{"dg-publish":true,"permalink":"/S/Szemiták és árják/","title":"Szemiták és árják","tags":["Englishtexttranslated"],"created":"2024-10-27T11:51","updated":"2026-02-18T22:55"}
 ---
 
 
