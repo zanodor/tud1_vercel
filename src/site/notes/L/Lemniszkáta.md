@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-04-22T01:48","updated":"2026-02-18T19:40"}
+{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-04-22T01:48","updated":"2026-02-18T22:56"}
 ---
 
 
