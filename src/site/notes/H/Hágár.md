@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hágár/","title":"Hágár","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-14T00:03","updated":"2025-09-28T21:20"}
+{"dg-publish":true,"permalink":"/H/Hágár/","title":"Hágár","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-14T00:03","updated":"2026-02-21T00:05"}
 ---
 
 
@@ -40,7 +40,7 @@ A szöveg:
 > Mára elfelejtettük, hogy például az ógörög szövegekben nem is szerepelhetett [[H/Hungár\|hungár]] népnevünk, mert akkoriban paleográfiai sajátosságként az NG hangpárost [[G/Gg\|GG]] leirattal rögzítették, és e formák fejleményeit nem társítják hozzánk.  
 
 
-> A hungár név eltűnését legfőképpen a nyelvi szakosodással járó tükörfordítások, no meg a torzulás, - az NG hangpárossal való birkózás – számlájára írhatjuk. De ide vezetett a régi írások, G előtt jelöletlen N hangja is. \[Ez éppen igaz.\] Ennek folytán a Hungár már nagyon régen Haggar/Aggar, majd Hagar/Agar/Ogor stb. alakot öltött, megegyezve a bibliai Hágár/Ágár ősanya nevével.  
+> A hungár név eltűnését legfőképpen a nyelvi szakosodással járó tükörfordítások, no meg a torzulás, – az NG hangpárossal való birkózás – számlájára írhatjuk. De ide vezetett a régi írások, G előtt jelöletlen N hangja is. \[Ez éppen igaz.\] Ennek folytán a Hungár már nagyon régen Haggar/Aggar, majd Hagar/Agar/Ogor stb. alakot öltött, megegyezve a bibliai Hágár/Ágár ősanya nevével.  
 > Több szálon is [[T/Történelemhamisítás\|történelemhamisítás]] szagú, a bibliai Hágárhoz fűződő 4000 éves kapcsolatunk emlékének eltörlése. Szerencsére a messziről érkezett zsidóság tudva róla, életben tartotta származásunk emlékét, és a középkorban Hungár szinonimájaként használták ránk Hágár ősanya nevét. Az adatokat 1881-ben közlő Kohn Sámuel rabbi szerint azonban, e szokás egy korai tévedésre vezethető vissza.  
 >
 > Kohn Sámuel, Héber kútforrások és adatok Magyarország történetéhez, (1881) 158. o.:  
@@ -50,7 +50,8 @@ A szöveg:
 > Bár a Hágár névnek a Hongroe formával az ókori Bibliában két ízben történt egyeztetését elismerte, de ezt olyan korai elírásnak ítélte, amelyből a középkori zsidóság is tévesen következtetett a Hágár és a Hungár nevek közti azonosságra. A 2009-ben megjelent Hágár országa című könyv szintén ezt a véleményt sulykolja, de mivel több irányból jövő történelmi és nyelvi adat igazolja az egyeztetés helyességét, így a Hágár és a Hungár nevek azonossága által, 4000 éves múltunk bizonyítéka került elő! Vegyük sorra az egyezés további bizonyítékait!  
 > 1\. Nem csupán a héber, de a középkori keresztény források is (h)Agar-enusnak ([[A/Agarénus\|agarénus]]) ismertek minket.  
 >
-> 2\. A Hágár név héber Futó jelentése[^1] összecseng a népnevünkkel egyező görög `Angaros` = lovasfutár (lovas Futó) szóval.  
+> 2\. A Hágár név héber Futó jelentése[^1] összecseng a népnevünkkel egyező görög `angaros` = lovasfutár (lovas Futó) szóval.  
+- A [[H/Hungária#Hungária - angaria\|Hungária - angaria]] helyen is említett ógörög `ἄγγαρος` = (perzsa) lovasfutár, királyi küldönc [szóban](https://en.wiktionary.org/wiki/angarius) megint gg-vel írott a szó.
 - Viszont itt ne feledjük el, hogy az [[A/Agár\|agár]] is jó futó és a lentebb szóba kerülő Khonsu is lehet [[K/Kanca\|Kanca]], mely lehet Tejút- és Holdállat. Hágár tehát vélhetően Tejút-állatnév és lehet a Szíriusz neve is.
 
 > 3\. Egyik hitelesítő bizonyítéknak tekinthető, hogy a keleti Hágár/Agrei névnek is volt két GG-s írott változata, aminek NG azaz Angrei/Hangrei a helyes olvasata. Épp úgy, mint a görög `angaros` = lovasfutárnak az írott aggaros formája.  
