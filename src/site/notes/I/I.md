@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2025-11-19T01:39"}
+{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2026-02-21T00:05"}
 ---
 
 
@@ -57,7 +57,7 @@ Említésre került [[T/T#T altáji-türk többesszám-jel\|t altáji-türk töb
 
 A görög `ienai` = menni szó lemaradt. A latin és olasz szavak magyar párja iral és [[I/Iram\|iram]].  
 
-Cicero, Ovidius és Macrobious a latin `ire` = menniszóból vezeti le [[J/Janus\|Janus]] nevét.  
+Cicero, Ovidius és Macrobious a latin `ire` = menni szóból vezeti le [[J/Janus\|Janus]] nevét.  
 A modern nyelvészet a latin `i-` (ire), görög `ei`-, szanszkrit `yana`- ill. aveszta `yah`- gyökéhez nyúl.  
 
 A The Passion of the Christ című filmben latinul hallottam felszólító módban: (egy hanggal) `í` = menj!  
