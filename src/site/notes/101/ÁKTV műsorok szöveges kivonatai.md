@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-02-13T23:21"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-02-21T00:04"}
 ---
 
 
@@ -21,6 +21,11 @@
 
 **2026:**
 
+[260220CN! HUNMAGYAROK](https://rumble.com/v761bfo-260220cn-hunmagyarok-kubnyi-tams-ktv.html)  [https://archive.ph/F0k1A](https://archive.ph/F0k1A)
+[260219CN! AZ ISTENSÉG LEHULL](https://rumble.com/v75zo66-260219cn-az-istensg-lehull-kubnyi-tams-ktv.html)  [https://archive.ph/VdoRR](https://archive.ph/VdoRR)
+[260218CN! LIBÉNYI JÁNOS](https://rumble.com/v75y2nq-260218cn-libnyi-jnos-kubnyi-tams-ktv.html)  [https://archive.ph/81z6H](https://archive.ph/81z6H)
+[260217CN! A KIEGYEZÉS](https://rumble.com/v75w3mk-260217cn-a-kiegyezs-kubnyi-tams-ktv.html)  [https://archive.ph/NQSe7](https://archive.ph/NQSe7)
+[260216CN! IMA a FIATALOKÉRT](https://rumble.com/v75ugxk-260216cn-ima-a-fiatalokrt-kubnyi-tams-ktv.html)  [https://archive.ph/xgC6S](https://archive.ph/xgC6S)
 [260213CN! BUDAPEST és DREZDA 1945](https://rumble.com/v75pt6m-260213cn-budapest-s-drezda-1945-kubnyi-tams-ktv.html)  [https://archive.ph/LjMtz](https://archive.ph/LjMtz)
 [260212CN! FENYEGETÉS](https://rumble.com/v75o5vg-260212cn-fenyegets-kubnyi-tams-ktv.html)  [https://archive.ph/x2utF](https://archive.ph/x2utF)
 [260211CN! DOBÓ és BALASSA](https://rumble.com/v75memw-2602111cn-dob-s-balassa-kubnyi-tams-ktv.html)  [https://archive.ph/5HzRd](https://archive.ph/5HzRd)
