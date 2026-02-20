@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2026-02-18T22:54"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2026-02-21T00:05"}
 ---
 
 
@@ -115,7 +115,7 @@ A témát lentebb [[L/Lélek#Isa, por és hamu\|isa, por és hamu]] alcímnél f
 Péterfai János is több lélekről szól (ezeket a szavakat az óegyiptomi nyelvből ismerjük):  
 > Ka jelent lelket, vagy a Bikát, de a Ka önmagában is tartalmazza a Király jelentést. A lélek neve volt az Ah, a Ka, a Ba, a Bi. A Bi-Ba összetételből ered a Bűbáj, amit egy kitűnő magyar kutató vezetett vissza a Bi-Ba nevekre.  
 - Érdekes még megemlíteni itt, hogy a duplázott [[B/Baba\|baba]] = (tündér)gyerek is utalhat arra, hogy két lelke van a gyereknek. Ezt a megjegyzést egy másik dupla, [[D/Double\|double]] címnél is megtaláljuk. <br/>
-Több lélekről szólunk [[L/LEB\|LEB]] és [[K/Kutya és szív\|kutya és szív]] címnél.![Lélek_image20250921211523947.jpeg|right|300](/img/user/L/assets/L%C3%A9lek_image20250921211523947.jpeg)
+Több lélekről szólunk [[L/LEB\|LEB]] és [[K/Kutya és szív\|kutya és szív]] címnél.![Lélek_image20250921211523947.jpeg|invert_dark right|300](/img/user/L/assets/L%C3%A9lek_image20250921211523947.jpeg)
 
 > A szabadlélek vagy árnylélek a testi lét ideje alatt el tudott szakadni az eleven embertől. Erre jó példa, amikor a lélekvesztéses betegségekkor a táltosok vissza tudják hozni az elkóborolt szabadlelket. A táltos napokra képes volt életműködését is leállítani, hogy "utazása" \[álomutazás; vesd össze francia `rêve` = álom és [[R/Rave\|rave]] és repülés; lásd még [[L/Lélek#Lélekutazás – a sámán csillagutazása a világfán\|lélekutazás]]\] során megkereshesse az árnyéklelkeket, vagy kapcsolatba kerüljön az égiekkel. Ilyenkor tilos volt idő előtti zavarása, mert az az életébe kerülhetett. Az árnylélek normál esetben, az ember koponyájában lakik. Az árnylélek az egyén halálakor túléli a halált, az ember szabadlelke, mint testetlen, anyagtalan lény bolyong tovább és képviseli az eltávozottat. Hívásra vagy kéretlenül bármikor meg tud jelenni az övéinél. A "hálni jár belé a lélek" mondásunk is ezt, a testtől elválni képes lelket jelenti. A halott árnylelke képes félelmetes és veszélyes szellemként hazajárni; ezért volt fontos a halott méltó búcsúztatása, minden haragosának megbocsátása. Csakis ez az árnyéklélek félés késztethette 954-ben Bulcsút Cambriában arra, hogy testvérének dárdahegyre tőzött fejéért cserébe minden addigi zsákmányát odaígérje. (Ajánlatát nem fogadták el.) Ezért érthető meg a nagyszentmiklósi aranykincsen levágott fejet cipelő győztes hős ábrázolása. (Ezt felismerve 955-ben Augsburgnál, Lél és Sur tetemének bitófán kellett száradnia. Ezért készíttetett 971-ben a besenyők vezére, Kurja a megölt Szvjatoszláv kijevi fejedelem koponyájából ivócsanakot.) Meséinkben is gyakran előjön ez a motívum, amikor a másvilágról megszerzett koponyával, vagy az élet vizével a halott még feltámasztható.  
 
