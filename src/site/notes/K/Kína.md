@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kína/","title":"Kína","tags":["Englishtexttranslated"],"created":"2023-11-21T09:12","updated":"2025-09-24T13:54"}
+{"dg-publish":true,"permalink":"/K/Kína/","title":"Kína","tags":["Englishtexttranslated"],"created":"2023-11-21T09:12","updated":"2026-02-24T01:08"}
 ---
 
 
@@ -20,7 +20,7 @@ Mint [ezen](https://en.wikipedia.org/wiki/Qin_dynasty#Etymology_of_China) oldalr
 > —  
 > Úgy tartják, hogy a "Qin" név az etimológiai őse az ország mai európai nevének, Kínának. A szó valószínűleg először "Cina" vagy "Sina", majd "Sinai" vagy "Thinai" néven került be az indo-árja nyelvekbe, majd a görögbe és a latinba. Ezt követően az angol és a francia nyelvbe "China" és "Chine" néven került átírásra. Ezt az etimológiát néhány tudós elveti, és azt állítja, hogy a szanszkrit "Sina" sokkal korábban, a Qin-dinasztia előtt alakult ki. A "Jin", a Zhou-dinasztia által az i. e. VII. században ellenőrzött állam, egy másik lehetséges eredet.
 
-Azt Zajti Ferenc Zsidó volt-e Jézus című könyvéből is tudjuk, hogy a szumer-sémi nyelvekre jellemző volt az s-es kiejtés, de [[K/Kentum\|kentum]] és [[S/Szatem\|szatem]] elválás szkíta korra megy vissza, azaz a Csina/Sina forma az eredeti Huna, majd Hyna/Khina változata kell legyen.  
+Azt Zajti Ferenc Zsidó volt-e Jézus című könyvéből is tudjuk, hogy a szumer-sémi nyelvekre jellemző volt az s-es kiejtés, de [[K/Kentum-szatem szabály\|kentum-szatem]] elválás szkíta korra megy vissza, azaz a Csina/Sina forma az eredeti Huna, majd Hyna/Khina változata kell legyen.  
 
 A Kína név lehet hasonlítható egyrészt (például **Kenya** név mellett) a [[K/Kuna\|kuna]] (indiánok) névhez, de a [[K/Káin\|Káin]] címnél taglalt chionita és más nevekhez is. Már eleve a Han uralkodó réteg miatt is mondható, hogy Kína a Hun birodalom nevét viseli. HF elmondja, hogy a kínaiak szerint is mi mindent a hunoktól tanultak.  
 A másik a Huna név, melyből ugyanúgy lehetett létrejött Kína, mint ahogy a skutha névből lett szkíta (U>Ü>Í változási sorozat).  
