@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2025-09-28T21:22"}
+{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2026-02-24T01:07"}
 ---
 
 
@@ -29,7 +29,11 @@ A majom gyakori jelképállat az egyiptomi és hindu mitológiában/ábrázolás
 Nos, a vak is látja, hogy a majom [[K/Kutyafejű\|kutyafejű]]ként ábrázolt. Már másutt láttuk, hogy a kutyák családjába tartozónak vélték régen a nagymacskákat[^1] és a vízikutyának a fókát, vidrát, stb.  
 Úgy tűnik, hogy a majom is efféle kutyának veendő jelképállat.  
 Nem ez lenne az első eset. [[A/Astennu\|Astennu]] (más nevén Asten és Isten!) egyiptomi isten is [[K/Kutyafejű\|kutyafejű]] majom[^2]! Lásd még [[B/Babi\|Babi]] istent is.  
-Edward Topsell The History of Four-footed Beasts című 1607-es kiadású könyvében (lásd az onnan való csatolt képet is) is ezzel egyezően írja:  
+
+
+#### Edward Topsell The History of Four footed Beasts...  
+
+...című 1607-es kiadású könyvében (lásd az onnan való csatolt képet is) is ezzel egyezően írja:  
 > **Cynocephales**, are a kind of Apes, whose heads are like Dogs, and their other parts like a mans; wherefore *Gaza* translateth them *Canicipites*, (to wit) dog-heads. In the *French*, *German*, and *Illyrian* tongues, they are called of some *Babion*, and *Babuino* in *Italian*, is a small kind of Ape; but *Aristotle* saith, that a *Cynocephale* is bigger then an Ape. In *English* they are called *Babouns*.  
 > There are many kinds of *Baboons*, whereof some are much given to fishing, so that they will tarry a whole day in the deep hunting for fish, and at length come forth with a great multitude. Again, there are some which abhor fishes, (as *Orus* saith) which kind the *Egyptians* emblematically use to...
 > —  
