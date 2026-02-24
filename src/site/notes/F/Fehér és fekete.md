@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2026-01-05T21:36"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2026-02-24T01:05"}
 ---
 
 
@@ -44,7 +44,7 @@ A szlávnál maradva, ezét lehet a szláv `západ` = nyugat [[S/Sápad\|sápad]
 
 ## Fehér és fekete frátriák
 
-Varsa Mátyás A legrégibb magyar mítosz című tanulmányában említi az obi-ugorok mosz és por nevű frátriáit, melyekről azt írja, hogy *keresztbe kellett házasodniuk* (mosz nőnek por férfival és fordítva.  
+Varsa Mátyás A legrégibb magyar mítosz című tanulmányában említi az obi-ugorok *mosz* és *por* nevű frátriáit, melyekről azt írja, hogy *keresztbe kellett házasodniuk* (mosz nőnek por férfival és fordítva.  
 - Ez egybevág azzal, amit magam is hangoztatok (Magyar Adorján írásai nyomán is), hogy a [[G/Göd#Tejút nyugati partja\|folyó két oldalán]] letelepedők az ellenkező oldal képviselőivel kötöttek házasságot (akár a Magyar Adorján féle szent nász szigetén).
 
 > [!note] &nbsp;
@@ -57,7 +57,7 @@ Másutt[^4] tükörképről volt szó, mely [[T/Tükör\|tükör]] szó a [[T/Te
 
 ## Fehér és fekete hunok és magyarok
 
-Imént fentebb már szó esett Magyar Adorján fejtegetésében a fehér- és fekete-kunokról és fekete- és fehér-jászokról.  
+Imént fentebb már szó esett Magyar Adorján Ősműveltségében szereplő fejtegetésében a fehér- és fekete-kunokról és fekete- és fehér-jászokról.  
 
 #### Remete Farkas László Magyarok eredete...
 
@@ -90,7 +90,7 @@ Várkonyi Nándor Sziriat oszlopai című könyvében írja, hogy a türk népek
 
 ...(al)című az Ősi Gyökér 2007/1. sz. megjelent cikkében ismét a [[S/Szakrális kettős királyság, kettős fejedelemség\|kettős fejedelemség]]ről szólva ír a fekete és fehér témáról:  
 > A Képes Krónika szerint Árpád székhelye [[F/Fehérvár\|Fehérvár]]. A szakrális székhely Fehérvár neve összefügg I. András király Fehér András krónikai megnevezésével. Az I.-IV. Béla név fehér jelentésű. Amikor Hunyadi az ország első embere kormányzó lett, Fehér János névvel illették. Az Árpád-ház oldalágainak névadási szokását vizsgálva figyeltem meg, az esetleges trónjogosultságot fehér jelentésű névvel vagy jelzővel tartották számon. Arra az esetre, ha kihalna az uralmon lévő ág. Nők esetében is érvényesült a szeniori rend. Az erdélyi Gyula két leánya Sarold és Karold ([[S/Szár\|szár]] – [[K/Kara\|kara]]) fehér-fekete jelentésű nevet kapott.  
-- [[S/Szár\|Szár]], [[S/SZAR\|SZAR]] nem más, mint [[K/Kara\|kara]] szatem változata; lásd [[S/SZ\|sz]] és [[K/Kara\|kara]] címnél írottakat erről.
+- [[S/Szár\|Szár]], [[S/SZAR\|szar]] nem más, mint [[K/Kara\|kara]] szatem változata; lásd [[S/SZ\|sz]] és [[K/Kara\|kara]] címnél írottakat erről.
 
 Bakk István Miért apostoli királyság Magyarország? című az Ősi Gyökér 2013/3. sz. megjelent cikkében írja, hogy még a XI. század elején is kétféle magyarságot különböztettek meg nálunk: fehér és fekete magyarokat (székelyeket és magyarokat).  
 
@@ -205,13 +205,14 @@ A két kutya, kétfejű sas, két szarvas, két kígyó [[J/Janus\|Janus]] és [
 
 ## Fehér és fekete ló
 
-Kubínyi Tamás egy műsorában azt mondja, hogy a perzsa ősvallás Ahura Mazda és Ahriman szembenállásának, a jó és a gonosz küzdelmének folytatása látható Szent László legendájában: a **fehér és a fekete ló** ellentétére hívja itt fel a figyelmet. A [[S/Szent László és a leányszöktető kun\|Szent László és a leányszöktető kun]] címnél mellékelt képen látszanak is.  
+Kubínyi Tamás egy műsorában azt mondja, hogy a perzsa ősvallás Ahura Mazda és Ahriman szembenállásának, a jó és a gonosz küzdelmének folytatása látható Szent László legendájában: a **fehér és a fekete ló** ellentétére hívja itt fel a figyelmet. A [[S/Szent László és a leányszöktető kun\|Szent László és a leányszöktető kun]] címnél mellékelt képen látszanak is. (Én itt egy színes változatot közlök [ezen](https://www.hung-art.hu/frames.html?/magyar/zmisc/falkepek/141_sz/gelence.html) oldalról.)  
+![Fehér és fekete_image20260223190038932.jpeg|840](/img/user/F/assets/Feh%C3%A9r%20%C3%A9s%20fekete_image20260223190038932.jpeg)
 
 Zarándoklás a cédrusokhoz Libanonban Csontváry Kosztka Tivadar képe (csak részletét adom).  
 ![Fehér és fekete_image20250921030406860.jpeg|840](/img/user/F/assets/Feh%C3%A9r%20%C3%A9s%20fekete_image20250921030406860.jpeg)
 Itt is látunk lovakat. Középen fehér és fekete ló mutat(hat)ja az év felezését. Még ellenkező irányba is néznek.  
 
-Az év felezése [[A/Arkadash\|arkadash]] címnél taglaltak szerint annak az Ikreknek felel meg, mely Ikrek irányában van a félév-határoló Kutya is. Ezért lehet az, hogy az [[A/Asb\|asb]] címnél taglalt ind Ashvini-k lófejű ikrek és az ott említett angolszász [[H/Hengist és Horsa\|Hengist és Horsa]] kettőse is lóra utaló nevek.  
+Az év felezése [[A/Arkadash\|arkadash]] címnél taglaltak szerint annak az [[I/Ikrek csillagkép\|Ikrek]]nek felel meg, mely Ikrek irányában van a félév-határoló Kutya is. Ezért lehet az, hogy az [[A/Asb\|asb]] címnél taglalt ind Ashvini-k lófejű ikrek és az ott említett angolszász [[H/Hengist és Horsa\|Hengist és Horsa]] kettőse is lóra utaló nevek.  
 Éjkancáról lásd még [[N/Nightmare\|nightmare]].  
 
 ## Fehér és fekete bika
