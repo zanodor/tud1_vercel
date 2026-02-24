@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-02-18T22:54"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-02-24T01:04"}
 ---
 
 
@@ -14,9 +14,11 @@ Varga Géza [ezen](https://archive.ph/bBMFh) blog posztjában adja hiteles ábr�
 > A Turul lehet Sas vagy [[S/Sólyom\|Sólyom]], a régi ábrázolások szerint. [[A/Atilla hun király\|Atilla]] madara a Turul volt.  
 - Falvay Károlynál kerecsensólyom-szerű vadászmadár, Aczél Józsefnél lármás sas a turul.
 
+
+
 [[M/Madár\|Madár]] címnél Érdy Miklós ![assets/Turul_image2.jpeg|fix_dark fix_light right|200](/img/user/T/assets/Turul_image2.jpeg)  adataként szerepelt az – alant adatokkal bőven jelentkező – Dúcz László cikkéből mellékelt képen is látható ordosi hun fejedelmi jelvény (korona) tetején elhelyezett madár kapcsán, hogy sasnál kisebb méretű sólymot kell keresni benne. ([[K/Kutya\|Kutya]] címnél is bemutattuk a fejék kiterített rajzát.)
 
-Itt a Turul-háznál álljunk meg egy pillanatra. A történelemhamisító finnugrász Akadémia [[A/Árpád#Árpád-ház\|Árpád-ház]]inak hívja királyainkat, de Kubínyi Tamás szerint is minimum Álmos-házinak kellene hívni, ugyanakkor már a Kézai geszta és a ![assets/Turul_image1.jpeg|right|200](/img/user/T/assets/Turul_image1.jpeg)  Képes krónika is szól arról, hogy Atilla királyi pajzsán Turul volt.  
+Itt a Turul-háznál álljunk meg egy pillanatra. A történelemhamisító finnugrász Akadémia [[A/Árpád#Árpád-ház\|Árpád-ház]]inak hívja királyainkat, de Kubínyi Tamás szerint is minimum Álmos-házinak kellene hívni, ugyanakkor már a Kézai gesta és a ![assets/Turul_image1.jpeg|right|200](/img/user/T/assets/Turul_image1.jpeg)  Képes krónika is szól arról, hogy Atilla királyi pajzsán Turul volt.  
 
 > [!note] &nbsp;
 > Az "[[A/Árpád#Árpád-ház\|Árpád-ház]]" egy mesterségesen létrehozott elnevezés. Nincs olyan, hogy Árpád-ház. Turul-ház volt. Atilla is már Turulos pajzzsal ábrázolt volt, míg [[A/Álmos\|Álmos]] születésének legendája is ezt a leszármazást mutatja, de krónikáink is folytonosságot mutatnak Atilla és a későbbi magyar királyok közt. Az Árpád-ház kifejezés a mesterséges [[H/Honfoglalás\|honfoglalás]] és a [[F/Finnugor nyelvelmélet\|finnugor nyelvelmélet]] mellé járuló, azokat kiegészítő, alátámasztó kívánó [[T/Történelemhamisítás\|történelemhamisítás]] kútfői.
@@ -202,7 +204,7 @@ Az ÁKA 2014. november 8-án Kubínyi Tamás által tartott Ég és Föld közö
 ![assets/Turul_image12.png](/img/user/T/assets/Turul_image12.png)  
 Az kétségtelen, hogy a madár feketével festett, és a [[H/Hét#Hét vár\|hét vár]] cím/alcímnél is taglalt Erdély címerben is – a Wikipédia sorait idézve – a magyar nemzetet a fekete turulmadár jelképezi. A címerek vizsgálata alapján viszont semmiféleképpen sem lehet hollóra, hanem akkor inkább már griffre gondolni.  
 Ami fontos itt, hogy a [[M/Madár\|madár]]ság a magyarságot és azon belül is a [[M/Magyar\|Magyar]] istenanya testén körbemenő Napot jelképezi, azaz a fehér madár a feltámadás jelképe, a fekete a nyári napfordulós váltópontra utal. Hasonló eset tehát, mint amit a szarvas kapcsán megfogalmaztunk, az önmagába visszakísérés kapcsán, de a [[J/Jin és jang\|jin-jang]] jelben is ugyanezt az elvet látjuk.  
-Tehát nem annyira (csak) az őstudás romlását kell a madárábrázolások mögött feltételezni, ahogy Kubínyi Tamás mondja, hanem ismerni kell a csillagmitológiai hátteret, és azt is felismerni, hogy a képzetek jelentőségének illetve valódi értelmük feledésbemerülésével nemcsak a torzulás, hanem két hasonló indíték megléte esetén a konfláció, az összemosás esete is fennállhat.  
+Tehát nem annyira (csak) az őstudás romlását kell a madárábrázolások mögött feltételezni, ahogy Kubínyi Tamás mondja, hanem ismerni kell a csillagmitológiai hátteret, és azt is felismerni, hogy a képzetek jelentőségének illetve valódi értelmük feledés bemerülésével nemcsak a torzulás, hanem két hasonló indíték megléte esetén a konfláció, az összemosás esete is fennállhat.  
 
 A többet idézett...
 
