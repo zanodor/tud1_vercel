@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tyúk/","title":"Tyúk","created":"2024-05-10T14:35","updated":"2024-10-26T00:43"}
+{"dg-publish":true,"permalink":"/T/Tyúk/","title":"Tyúk","created":"2024-05-10T14:35","updated":"2026-02-24T01:09"}
 ---
 
 
