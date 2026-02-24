@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2026-01-05T21:37"}
+{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2026-02-24T01:05"}
 ---
 
 
@@ -179,6 +179,8 @@ Ezen furcsa kifejezést ...
 
 ## Tűz szavunk idegen nyelvekben
 
+A proto-indoeurópai füst és más jelentésű [dʰewh₂-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/dʰewh₂-) gyök éppen mi szavunkat fedi.  
+
 Tűz szavunk megjelenik idegen nyelvekben is:  
 > A görög mithologiában `dis` = nap, ég királya, miről Creuczer bőven értekezett, a Zeus, `deus`, `theos` formák csak módosítások mint Dorn, Schöll, Emerich Dávid elő adják, Heraclitus és Demokritus is tüzet értettek alatta, az genericum nomen volt kezdetben Creuczer szerint. ([Lásd 51. old.](zotero://open-pdf/library/items/DFI47XPY?page=51&annotation=JFX56VHM))  
 > [[H/Hérodotosz\|Herodotus]] is a napot Homér nyomába sokszor `theos`-nak nevezi. IL 24. VIII. 37. I. 216. ([Lásd 51. old.](zotero://open-pdf/library/items/DFI47XPY?page=51&annotation=LEZ7MRNL))  
@@ -211,7 +213,7 @@ Az angol `toss` = lök ("tosz") ige is idetartozik.
 
 Kállay Ferenc A pogány magyarok vallása című könyvének [50. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=50&annotation=EU76QMYW) írja, hogy finnül `tuuz` = tűz. Ez azért meglepő, mert ma már tudtommal csak `tuli` szót használnak tűz jelentéssel.  
 A görögben `thuein` = eléget, feláldoz, ahogy [[T/Thyme\|thyme]] szócikknél előjött, továbbá `thuos` = áldozat (nyilván inkább: áldozati tűz).  
-A görög nyugatot jelentő `δύση` (düszi) szavának is lehet köze a tűzhöz. Tűz szavunknak látszik a török `düz` = (az égtájak figyelembevételekor kelethez passzoló jobb iránnyal fogalmilag rokon) egyenes és `düzmek` = dug, baszik (a másik szava rá a [[S/Sex\|sex]]-nél említett `szikmek`).  
+A görög nyugatot jelentő `δύση` (düszi) szavának is lehet köze a tűzhöz. Tűz szavunknak látszik a török `düz` = (az égtájak figyelembevételekor kelethez passzoló jobb iránnyal fogalmilag rokon) egyenes és `düzmek` = dug, baszik (a másik szava rá a [[S/Sex\|sex]] címnél említett `szikmek`).  
 
 A jobb iránnyal ellentétes, éppen bal (szerencsétlen) értelmű a görög, nyilván szintén tűz szavunkból eredő (de talán judeo-keresztény hatásra ellentétes jelentésűvé váló) `düsz`, melyről [[D/Disaster\|disaster]] címnél és [[D/Dis- prefixum\|dis- prefixum]]nál is volt szó. Persze mivel a zsidók porondra kerülése előtti is lehet a szó, inkább arra lehet gondolni, hogy a nyugat = halál mellékértelem hozta magával inkább a bal jelentést (lásd még [[B/Bal és jobb\|bal és jobb]]).
 
@@ -237,13 +239,13 @@ Ami azért érdekes, mert a [[S/Sweet\|sweet]] – [[S/Süt\|süt]] analógiáj�
 
 A tűz jelentésű idegen nyelvű szavak közül az alábbi [[S/Szkíta\|szkíta]] és [[K/Kutya\|kutya]] címnél is szerepelt:  
 Megdöbbentő, de a kanadai bennszülött [[C/Cree\|cree]] indiánok [[A/Algonquian\|algonkin]] nyelvében `ishkuteu` = tűz[^3], mely Isz-Kutya, azaz mondhatni, szkíta értelmet visel. Mellékelve lásd írásukat.  
-![assets/Tűz_image2.png|fix_light](/img/user/T/assets/T%C5%B1z_image2.png)  
+![assets/Tűz_image2.png|fix_dark fix_light](/img/user/T/assets/T%C5%B1z_image2.png)  
 A háromszög/gúla/hegy piktogramjuk is sokatmondó.  
 
 Ha már szkíta, a litván `didžioji` = nagy, hatalmas tűz szavunkból eredő lehet (de amikor először megláttam a szót, [ezen](https://lt.m.wikipedia.org/wiki/Didžioji_Orda) oldalon, akkor Szkítia arab Dzsiddija neve ötlött fel, és annak mentén a [[Z/Zsidó\|zsidó]] név).  
 
 A katalán és román `foc` = tűz betéve [[F/Focus\|focus]] és [[F/FOK\|FOK]] szavakhoz is. A finn és észt `tuli` = tűz (vö. török `tilki` = róka) szó betéve [[T/Tulipán\|tulipán]] szóhoz.  
-Ahogy [[T/TEN\|TEN]] és [[T/Tan#Tan 2)\|tan]] szócikknél is szerepelt, a cornish, breton `tan`, walesi `tân` = tűz jelentésű. Elképzelhető, hogy a kelta-ír `tine` = tűz nyomán kapta a `tinne` = [[M/Magyal\|magyal]] a nevét (szúrósságáról).  
+Ahogy [[T/TEN\|TEN]] és [[T/Tan#Tan 2)\|tan]] szócikknél is szerepelt, a korni, breton `tan`, walesi `tân` = tűz jelentésű. Elképzelhető, hogy a kelta-ír `tine` = tűz nyomán kapta a `tinne` = [[M/Magyal\|magyal]] a nevét (szúrósságáról).  
 A roma `jag` = tűz [[J/JÁK\|JÁK]] szóhoz került. A krím-tatár, türkmén, kazah, kirgiz, stb. `ot`, azeri `od`, baskír `ut` = tűz a Nap [[U/UT\|UT]] nevéből eredhet, de lehet [[A/Atar\|Atar]] előtagja is. Az indonéz, maláj `api` = tűz a fent jelentésből indul ki és ezért hasonló apu szavukhoz (mely apu más nyelven hegyet jelentett).  
 Az albán `zjarr` vélhetően [[S/Szár\|szár]] = fény(es), ragyogó szavunk. A máltaiban az arabhoz hasonlóan nyár szavunknak megfelelően [[N/NAR\|NAR]] = tűz.  
 A navajo indiánok nyelvében `kq` vagy `ku` a tűz (másutt, a proto-uto-azték `kut` szót láttuk), mely [[K/KU\|KU]] alap jelentésével passzol.  
