@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2025-09-24T13:46"}
+{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2026-02-24T01:07"}
 ---
 
 
@@ -46,10 +46,10 @@ Az ír kutyát jelentő `madadh` és `madra` szavakat ugyan [[M/Magyar\|magyar]]
 Egyébként Hunor kellene Szíriusz legyen. Nem hiszem, hogy át kell értékelnem a dolgokat (viszont közben született egy [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]] cím is).  
 
 A helyzet az, hogy mivel minden [[F/Folyó\|folyó]] a Tejútfolyó és magukat a Tejútról származtatták az emberek, ezért egyes népek (számuk egyre növekedni látszik, ahogy megfejtjük őket) nevei is vagy magából a magyar Tejút/Teut névből vagy egyes folyók nevéből ered. Ezen megfontolás alapján a [[H/Héber\|héber]]ek neve eredhetne a Habur folyó nevéből, de ha közvetlenül nem, akkor a [[K/Kabar\|kabar]]ok nevéből, míg a kabarok neve a Habur/Habor folyó nevéből.  
-Az igaz, hogy a kabar viszont a [[K/Kabir\|kabir]] névvel is rokon, mely a [[S/Szabir\|szabir]] k-s ([[K/Kentum\|kentum]]os) kiejtése lehet.  
+Az igaz, hogy a kabar viszont a [[K/Kabir\|kabir]] névvel is rokon, mely a [[S/Szabir\|szabir]] k-s ([[K/Kentum-szatem szabály\|kentum]]os) kiejtése lehet.  
 Na most ezen Kabir viszont előjön az araboknál (láttam Quora választ ilyen kérdésben), mint Allah jelzője, mely Allah-hal kapcsolatosan pedig előjön a Szíriusszal azonosítás. Nem nehéz így belátni, hogy Kabir = Eb-Úr szintén.  { #d05agb}
 
-- Még kentum-szatem témában (is) érdekes, hogy a [[S/Savant\|savant]] címnél említett arab `khabar` = (meg)ismer, (meg)tud szó (mely [[S/Szatem\|szatem]] változatának is tarthatjuk a francia `savoir` és a spanyol `saber` = ismer, tud szavakat) eredhet a [[H/Habur\|Habur]] Tejút(folyam) elnevezésétől, mint ahogy a mi [[T/Tud\|tud]] szavunk eredete is lehet Teut-Tejút (hacsak nem a [[K/KAP\|kap]] (ismeretet) igénk áll egyszerűen mögötte, ahogy a latin `habere` mögött is).
+- Még kentum-szatem témában (is) érdekes, hogy a [[S/Savant\|savant]] címnél említett arab `khabar` = (meg)ismer, (meg)tud szó (mely [[K/Kentum-szatem szabály\|szatem]] változatának is tarthatjuk a francia `savoir` és a spanyol `saber` = ismer, tud szavakat) eredhet a [[H/Habur\|Habur]] Tejút(folyam) elnevezésétől, mint ahogy a mi [[T/Tud\|tud]] szavunk eredete is lehet Teut-Tejút (hacsak nem a [[K/KAP\|kap]] (ismeretet) igénk áll egyszerűen mögötte, ahogy a latin `habere` mögött is).
 
 Habur a Wikipédia adata szerint az [[E/Eufrátesz\|Eufrátesz]] mellékfolyója:  
 > The Khabur River (Arabic: الخابور al-khābūr, Kurdish: Xabûr, Syriac: ḥābur/khābur, Turkish: Habur, Ancient Greek: Χαβώρας or Ἀβόρρας or Ἀβούρας – Chaboras, Aborrhas, or Abura, Latin: Chabura) is the largest perennial tributary to the Euphrates in Syrian territory. Although the Khabur originates in Turkey, the karstic springs around Ra's al-'Ayn are the river's main source of water. Several important wadis join the Khabur north of Al-Hasakah, together creating what is known as the Khabur Triangle, or Upper Khabur area. From north to south, annual rainfall in the Khabur basin decreases from over 400 mm to less than 200 mm, making the river a vital water source for agriculture throughout history. The Khabur joins the Euphrates near the town of Busayrah.  
