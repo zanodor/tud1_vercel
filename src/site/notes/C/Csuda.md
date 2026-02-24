@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions"],"created":"2025-06-12T01:36","updated":"2026-02-18T22:56"}
+{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions"],"created":"2025-06-12T01:36","updated":"2026-02-24T01:07"}
 ---
 
 
@@ -15,7 +15,7 @@ Igen ám, de mivel a csuda a szarvas mellékneve, és az az éji égen keresend�
 Legutóbb [[A/Awe\|awe]] címnél is csuda = [[E/Ég\|ég]] értelmére vonatkozó kijelentést tettünk. És lám, a Csudaszarvas valóban Égjelkép.  
 
 Mivel itt és más hasonló cikkekben a Csudaszarvasról lesz főként szó, mely pedig állatalakja a Tejútanyának, kinek nevét a germán nyelv alapján is egy [[G/Göd\|Göd]] névformával adtuk meg, nem-e lehet itt azt mondani, hogy a csud, csuda, stb. szavak nemcsak a [[S/Süt\|süt]], [[S/Suta\|suta]] hanem a [[K/Kut\|kut]], [[K/Kutya\|kutya]] változatainak is felfoghatók? (Lásd még [[H/HUD\|HUD]] és [[G/GUD\|GUD]] formákat is.)  
-Tulajdonképpen itt a kentum-[[S/Szatem\|szatem]] szabály logikájának belső magyar fejlődési módját láthatjuk.  
+Tulajdonképpen itt a [[K/Kentum-szatem szabály\|kentum-szatem szabály]] logikájának belső magyar fejlődési módját láthatjuk.  
 
 #### Péterfai János írja:  
 
@@ -44,7 +44,7 @@ Az Ipolyi Arnold Magyar mythologia című könyvének 169. oldalán felhozott or
 
 Csuda valóban megfeleltethető K>CS és T>D átmenettel [[K/Kutya\|kutya]] szóval. Hogy írta Péterfai János:  
 > A szkytha névben a Kutya is benne van. Az Askuta névalak nagyjából Isten-Kutyáit jelenti. A Kan és Kán, meg az Eb is Király, a Magr-Eb Magor-Királyság, viszont a török `Kan` Vér értelmű, és nem Király.  
-- A török `kan` szó kapcsán lásd [[K/Kentum#^74sz0y\|kentum]] és [[K/KAN#Török 'kan' vér jelentése\|KAN]].
+- A török `kan` szó kapcsán lásd [[K/Kentum-szatem szabály#^74sz0y\|kentum]] és [[K/KAN#Török 'kan' vér jelentése\|KAN]].
 
 Másutt:  
 > A Skutas névforma a Kutasok fogalmat is felvetik, az Ász-Kuta név az Isten-Kutatók jelentést is tartalmazhatja.  
@@ -76,7 +76,7 @@ Lásd még [[K/Kut\|kut]].
 ...fény jelentéssel közelíti meg:  
 > Másrészt a görög `fémi` = előtűnik, feltűnik szót a nyelvészek a szanszkrit `bámi` = tűnni, feltűnni, előtűnni szóval vetik össze, amelyre pedig a magyar bámul ige úgy értelemben, mint hangzásban elég közel áll, mert kimutatható, hogy a magyar `csodálni`, `csoda` és a szláv `csudo` szavak mind egy régi `csod` vagy `csud` = süt, fény szóból származnak.  
 
-Az alapján, hogy a CzF által is megadott szanszkrit `csúdá` = tetőt, hegycsúcsot jelent, azaz nemcsak az alakilag azonos szanszkrit `kuta` jelent hasonlót (hegy, hegycsúcs; a **Devakūṭa** (देवकूट) összetételben is a "hegy" vagy "csúcs" jelentésben szerepel a `kūṭa`, így az "Istenek hegye" vagy "Isteni csúcs" jelentést hordozza), és az alapján, hogy az istenhegy (lásd [[V/Világhegy\|Világhegy]]) az égig ér ([[E/Egy#^pqd018\|hasonlóan ered]] [[M/Men\|menny]] szavunkból a latin `mons`, walesi `myndd`, stb.), úgy tűnik, hogy `csuda` jelentése inkább ég, mely ugye igei jelentésében áll közel a csuda nyilvánvaló alakváltozatához, [[S/Süt\|süt]] igénkhez. Sőt, akár azt is mondhatnánk, hogy süt sem [[T/Tűz\|tűz]] megfordításaként jött volna létre, hanem egy tágabb, [[K/Kentum#^i1e0w6\|kentum]]-szatem rendszerbeni kut, kuta, csud, csuda szóbokor tagja. Ugyanakkor a tűz ég, azaz a fogalmak többszörösen, ahogy másutt is mondtuk, fraktálszerűen szerveződve függenek össze.  
+Az alapján, hogy a CzF által is megadott szanszkrit `csúdá` = tetőt, hegycsúcsot jelent, azaz nemcsak az alakilag azonos szanszkrit `kuta` jelent hasonlót (hegy, hegycsúcs; a **Devakūṭa** (देवकूट) összetételben is a "hegy" vagy "csúcs" jelentésben szerepel a `kūṭa`, így az "Istenek hegye" vagy "Isteni csúcs" jelentést hordozza), és az alapján, hogy az istenhegy (lásd [[V/Világhegy\|Világhegy]]) az égig ér ([[E/Egy#^pqd018\|hasonlóan ered]] [[M/Men\|menny]] szavunkból a latin `mons`, walesi `myndd`, stb.), úgy tűnik, hogy `csuda` jelentése inkább ég, mely ugye igei jelentésében áll közel a csuda nyilvánvaló alakváltozatához, [[S/Süt\|süt]] igénkhez. Sőt, akár azt is mondhatnánk, hogy süt sem [[T/Tűz\|tűz]] megfordításaként jött volna létre, hanem egy tágabb, [[K/Kentum-szatem szabály#^i1e0w6\|kentum]]-szatem rendszerbeni kut, kuta, csud, csuda szóbokor tagja. Ugyanakkor a tűz ég, azaz a fogalmak többszörösen, ahogy másutt is mondtuk, fraktálszerűen szerveződve függenek össze.  
 - Azt se feledjük, hogy már maga a tűz jelképe is egy csúcsával felfelé álló háromszög: hegy.
 
 [[C/Csudaország\|Csudaország]] címnél írottak is arra utalnak, hogy az égről van szó, és ahogy fentebb szerepelt, az ég jelképeként a [[C/Csudaszarvas\|Csudaszarvas]] = Égi Szarvas.  
