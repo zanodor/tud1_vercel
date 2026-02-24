@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cet csillagkép/","title":"Cet csillagkép","created":"2023-10-23T02:27","updated":"2025-12-13T22:07"}
+{"dg-publish":true,"permalink":"/C/Cet csillagkép/","title":"Cet csillagkép","created":"2023-10-23T02:27","updated":"2026-02-24T01:09"}
 ---
 
 
@@ -12,8 +12,7 @@ Richard H. Allen Star Names című könyvében van adat róla bőven.
 ...című könyvében róla szóló adat:  
 > A [[H/Halak csillagkép\|Halak csillagkép]] két jelentéktelen, halformájúnak alig nevezhető kis csillagzatból áll. A Halak égi tengerében úszik viszont az óriás Cet, a mítoszok hősöket, hősnőket elnyeléssel fenyegető tengeri szörnyének égi képmása (a görög `kétosz` nemcsak "cet", hanem mindenféle "tengeri szörny" neve, beleértve a nevezett csillagzatot is). A görög mitológiában hím- és nőnemű alakban egyaránt szerepel (Kéteusz és Kétó). A róla szóló legismertebb történet arról szól, hogyan szabadította meg tőle Perszeusz Androméda királylányt. A rege minden szereplője ott ragyog a tavaszi égnegyedben. A csillagkép jelentésköre azonban tágabb a görög mitológiánál. Éppúgy tekinthetjük a Jónást elnyelő nagy hal képmásának, mint Varuna [[M/Makara\|Makará]]ját ábrázoló csillagképnek.  
 
-#### Jankovics Marcell írja:
-
+Jankovics Marcell másutt írja:  
 > Az Isten vagy a hős pokolra szállása és holt lelkek kiszabadítása a klasszikus mitológiáknak és a meséknek is jól ismert mozzanata (Orpheusz Euridikéért, Héraklész Alkésztiszért és Thészeuszért szállt le az alvilágba). Ide illenek a mitologikus alvilágjárás jelképes példái is. Amikor Héraklész megküzd az égi Cettel, [[H/Három nap\|három nap]]ot tölt a szörny beleiben, amíg leszámol vele (l. még lászón és a sárkány, Jónás és a cet történetét; lásd még [[T/Tiamat\|Tiamat]]). Láttuk azt is, hogy a hérosz visszatértének helye (a Cet csillagkép szája) a [[T/Tavaszpont\|tavaszpont]] körüli időre esett annak idején, vagyis a mítosz a szoláris hős tavaszi halálát és föltámadását jelképezte.  
 
 Ami a név etimológiáját illeti, [[K/Kutya\|kutya]] címnél is szerepelt az alábbi passzus:  
@@ -27,7 +26,7 @@ Hasonló szavak még csatt, [[C/Csata\|csata]], [[K/Kata\|kata]], továbbá ugye
 - A C>SZ fejlődés/azonosulás teljesen normális ugyan, mégis hinni kell, [[R/Rahu#^e7bc0e\|Rahu]] címnél szereplő adat szerint[^1], [[K/Kétu\|Kétu]] név alapján is, hogy k-előhangosan is szerepelt [[A/Alvilág\|alvilág]]-elnevezés (vesd össze [[H/Hádész\|Hádész]]), mit bizonyítani látszanak a [[K/Ket\|ket]] és [[K/Ked\|ked]] nevek is.
 
 Azt máshol is felhoztuk, hogy egyes fontos nevek k- és sz-előhangosan is megjelenhetnek.  
-Hasonlóról volt szó a szintén fontos szám, [[S/Száz\|száz]] jelentésű [[S/SZAT\|SZAT]] kapcsán; lásd [[K/Kentum\|kentum]] és/vagy [[S/Szatem\|szatem]].  
+Hasonlóról volt szó a szintén fontos szám, [[S/Száz\|száz]] jelentésű [[S/SZAT\|SZAT]] kapcsán; lásd [[K/Kentum-szatem szabály\|kentum-szatem szabály]].  
 
 A kutyaszerű víziszörnyekről még annyit, hogy talán az [[A/Alkony\|alkony]], tehát a Nap pályájának esése állhat mögötte. Figyeljük meg, a [[H/Halcyon\|Halcyon]] szó előtagja al, hal-ál, utótagja `cyon` = kutya. Mindkét lény a halállal szoros kapcsolatban van, ezért is állnak az égi kutyák a Tejút alvilági bejáratainál míg a halak az [[A/Alvilág\|alvilág]] vizében úszkálnak. (Alul és alsó szavaink is hehezetesen kiadják a halált.)  
 
