@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2026-02-18T22:56"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2026-02-24T01:06"}
 ---
 
 
@@ -61,7 +61,7 @@ Patricia Monaghan Kelta enciklopédiájában egy kelta Éber névnél is szól a
 Hajlok arra, a [[C/Caleb\|Caleb]] és [[K/Kohén\|kohén]] kutyás nevek (és [[G/Goat\|goat]] címnél írottak) miatt, hogy a héberek kutyatisztelő kecskepásztor kabar-hunok voltak. Az Éb-Er egyik olvasata Eb-Úr. [[S/Szkíta\|Szkíta]] címnél is szó van a zsidó név szkítás magyarázatáról (de az erőltetett).  
 
 [[H/Habiru\|Habiru]] (Robert Graves adata szerint ilyen néven hívták az egyiptomiak a hébereket) címnél is szerepelt:  
-A helyzet az viszont, hogy mivel minden [[F/Folyó\|folyó]] a Tejútfolyó és magukat a Tejútról származtatták az emberek, ezért egyes népek (számuk egyre növekedni látszik, ahogy megfejtjük őket) nevei is vagy magából a magyar Tejút/Teut névből vagy egyes folyók nevéből ered. Ezen megfontolás alapján a héberek neve eredhetne a Habur folyó nevéből, de ha közvetlenül nem, akkor a kabarok nevéből, míg a kabarok neve a Habur/Habor folyó nevéből. (Az igaz, hogy a kabar viszont a [[K/Kabir\|kabir]] névvel is rokon, mely a [[S/Szabir\|szabir]] k-s ([[K/Kentum\|kentum]]os) kiejtése lehet.)  
+A helyzet az viszont, hogy mivel minden [[F/Folyó\|folyó]] a Tejútfolyó és magukat a Tejútról származtatták az emberek, ezért egyes népek (számuk egyre növekedni látszik, ahogy megfejtjük őket) nevei is vagy magából a magyar Tejút/Teut névből vagy egyes folyók nevéből ered. Ezen megfontolás alapján a héberek neve eredhetne a Habur folyó nevéből, de ha közvetlenül nem, akkor a kabarok nevéből, míg a kabarok neve a Habur/Habor folyó nevéből. (Az igaz, hogy a kabar viszont a [[K/Kabir\|kabir]] névvel is rokon, mely a [[S/Szabir\|szabir]] k-s ([[K/Kentum-szatem szabály\|kentum]]os) kiejtése lehet.)  
 
 Adott tehát egy Tejutas és egy kutyás levezetési lehetőség. Igen ám, de a kutya a Tejút "tartozéka," ahogy [[G/Göd\|Göd]] és sok más címnél szerepelt. Ezért tulajdonképpen egyre megy.  
 
