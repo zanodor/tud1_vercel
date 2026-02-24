@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:54","updated":"2025-10-10T21:52"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:54","updated":"2026-02-24T01:06"}
 ---
 
 
@@ -15,7 +15,7 @@ Persze a görög ábrázolásokon is Nimrud íját a Bika Csk. irányába feszí
 [[N/Nimrud#Nimrud vadász íja – merre áll és mint öl/nemz\|Nimrud vadász íja – merre áll és mint öl/nemz]] cím/alcímnél közben egy újszerű gondolatot vetettem fel: Nimrud íja/nyila a Tejútközpontban lévő vulva irányába is szegeztethet, hiszem szemből nem lehetett megrajzolni.  
 Ez az elképzelés mondjuk ellentmond [[S/Száj\|száj]] és más címnél írottaknak, az igaz.  
 
-![assets/Szirnyil_image1.png|fix_light](/img/user/S/assets/Szirnyil_image1.png)  
+![assets/Szirnyil_image1.png|fix_dark fix_light](/img/user/S/assets/Szirnyil_image1.png)  
 
 #### Noah Brosch Sirius Matters...
 
@@ -148,7 +148,7 @@ A szárazság véget ér, megindulnak az égi vagy a földi vizek. Már említet
 —  
 Santillana más írásában bővebben kifejti ([[I/Íj és a nyíl\|íj és a nyíl]] és más címnél is szerepelt, angolul is; én itt már csak magyarul adom):  
 Az íj és a nyíl folyamatosan megerősödik mint alapképek, az elmélet ívének zárókövei; mindkettő az égben található: Marduk íja, a babiloni Jupiter íja, a Kezdet költeménye által ünnepelt íj, amellyel hatalmat nyert és egyetemes rendet teremtett. Aztán megint csak az az íj, amelyet a kínai császárok kaptak trónra lépésekor. Ezzel az íjjal nem lehet nem "eltalálni" Szíriuszt, "őt" – így szól a nagy babiloni [[A/Akitu\|Akitu]] szertartás – "aki a tenger mélységeit méri".  
-A csillag, a Szíriusz, számos földrajzi szélességen a bűvölet tárgya volt, és gyakran találunk homályos utalásokat a tengerrel való kapcsolatára - egészen Arisztotelészig és Pliniusig. Úgy tűnik, hogy a Szíriusz egyfajta forgópontja volt számos, az égbolt különböző régióiból húzott, egymást metsző vonalnak. A fő vonalvezetés a Szíriuszt a pólusokat összekötő, délen a [[C/Canopus\|Canopus]]-nál végződő vonalra helyezi. Ez egy másik nagyon lenyűgöző csillag, a hinduknál Yama Agastaya székhelye, a suméroknál Eridu mitikus városa, az araboknál pedig Suhayl – a Nehéz, mert a déli félteke "égi tengerének" alját jelölte. A többi együttállás a Szíriuszt az "égbolt négy sarkához", a napéjegyenlőségekhez és napfordulókhoz kötötte, amelyek a [[P/Precession\|precesszió]] miatt az évszázadok során észrevétlenül mozogtak; az Északi-sark vonala a Nagy Medve összes csillagán sorban áthaladt, mint egy hatalmas számlap körül mozgó tű. Úgy tűnik, hogy ezeket a szögméréseket ünnepélyesen és gondosan ellenőrizték a jeles napokon és ünnepnapokon. Úgy gondolták, hogy a Szíriusz segítségével a Föld valóban "lehorgonyzott a mélység mélyén", és a déli égbolthoz "csatolták"; ezen a csillagon keresztül lehetett ellenőrizni, hogy a világegyetem megfelelően működik-e. Amennyire meg tudjuk ítélni, ez volt az istenek íjának mitikus és szertartásos szerepe.  
+A csillag, a Szíriusz, számos földrajzi szélességen a bűvölet tárgya volt, és gyakran találunk homályos utalásokat a tengerrel való kapcsolatára - egészen Arisztotelészig és Pliniusig. Úgy tűnik, hogy a Szíriusz egyfajta forgópontja volt számos, az égbolt különböző régióiból húzott, egymást metsző vonalnak. A fő vonalvezetés a Szíriuszt a pólusokat összekötő, délen a [[C/Canopus\|Canopus]]-nál végződő vonalra helyezi. Ez egy másik nagyon lenyűgöző csillag, a hinduknál Yama Agastaya székhelye, a suméroknál Eridu mitikus városa, az araboknál pedig Suhayl – a Nehéz, mert a déli félteke "égi tengerének" alját jelölte. A többi együttállás a Szíriuszt az "égbolt négy sarkához", a napéjegyenlőségekhez és napfordulókhoz kötötte, amelyek a [[P/Precesszió\|precesszió]] miatt az évszázadok során észrevétlenül mozogtak; az Északi-sark vonala a Nagy Medve összes csillagán sorban áthaladt, mint egy hatalmas számlap körül mozgó tű. Úgy tűnik, hogy ezeket a szögméréseket ünnepélyesen és gondosan ellenőrizték a jeles napokon és ünnepnapokon. Úgy gondolták, hogy a Szíriusz segítségével a Föld valóban "lehorgonyzott a mélység mélyén", és a déli égbolthoz "csatolták"; ezen a csillagon keresztül lehetett ellenőrizni, hogy a világegyetem megfelelően működik-e. Amennyire meg tudjuk ítélni, ez volt az istenek íjának mitikus és szertartásos szerepe.  
 
 [^2]: Lábjegyzet:  
 A [[S/Sárkány csillagkép\|Sárkány csillagkép]] egyes csillagai az égen. A "Rizs-Isten" [[S/Shang-ti\|Shang-ti]] több helyen előjött.  
