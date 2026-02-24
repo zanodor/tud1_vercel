@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2026-02-18T22:55"}
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2026-02-24T01:05"}
 ---
 
 
@@ -14,7 +14,7 @@
 > A nyelvészek a magyar Szamár szót az olasz `Somaro` – Teherhordó Állat szóra vetítik vissza. Valamely szláv nyelvet emlegetnek közvetítőként, mert a szlovén `Somar` ua., megfelelői cseh és szlovák szavak, továbbá Nyereg jelentésben szerb, horvát, bulgár szavakat is találtak. De akkor mi a szamár olaszul, meg bulgárul? Egyszerűen lehetetlen, hogy a 30.000 évnél régebbi magyar nyelvben nem volt szamár név. Az indoeurópai nyelvek meg a magyar nyelvből keletkeztek, alig 3.000 évvel ezelőtt jöttek létre, tehát szavakat nem adhattak át a magyar nyelvnek, mert saját szókincsük gyakorlatilag teljes egészében a magyarból keletkezett.  
 >
 > A Szamár állat neve a románoknál `Maghiar` \[lásd még róla, más nyelvekből is [[M/Magar\|Magar]]\]. Vagyis a Magyar egyben Szamár, vagy a Magyar egyben Szumer. A Szamár régen nem az ostobaság szinonimája volt, hanem a szabadságé. De a szamár, a lóhoz képest, engedetlen, önfejű és akaratos. (Ló = Ember).
-- Van még egy szó, amely ide kívánkozik, az [[O/Onager\|onager]] és [[H/Hun\|hun]] címnél taglalt görög `onos` = szamár szó. Nyilvánvaló, hogy ez hun-osként értelmezendő. De a szamár [[K/Kentum\|kentum]]os formái az arab és más nyelvekben meg a Kám-Úr/Hun-Or (az arab Holdat jelentő szó is ilyen; lásd még [[K/Khamor\|Khamor]]) névalakokra hajaznak. Lásd lejjebb még erről.  
+- Van még egy szó, amely ide kívánkozik, az [[O/Onager\|onager]] és [[H/Hun\|hun]] címnél taglalt görög `onos` = szamár szó. Nyilvánvaló, hogy ez hun-osként értelmezendő. De a szamár [[K/Kentum-szatem szabály\|kentum]]os formái az arab és más nyelvekben meg a Kám-Úr/Hun-Or (az arab Holdat jelentő szó is ilyen; lásd még [[K/Khamor\|Khamor]]) névalakokra hajaznak. Lásd lejjebb még erről.  
 Ezzel egy újabb eset áll elő, ahol a magyar vagy valamely más utódnépe (hun, sumér) a szamár értelemmel kapcsolódik. Itt még lehet arra gondolni, hogy [[S/Széth\|Széth]]tel és tiszteletével kapcsolat áll fenn, de vélhetően az a nép rajzolta meg eleve szamárfejűnek, aki ismerte a jelkép értelmét.  
 A szamár (és az [[O/Ökör\|ökör]]) szerepel a [[B/Betlehem\|betlehem]]i játékokban (lásd például [[J/Jászol\|jászol]]) is. Akár tehát a szamár utalhat az aranykori felfogásra is (de Széth is az első isten volt).  
 
@@ -25,7 +25,7 @@ A szamár (és az [[O/Ökör\|ökör]]) szerepel a [[B/Betlehem\|betlehem]]i já
 
 Valóban, az arab `hamar` és héber `khamor` (hamor) = szamár, de nem a sumér vagy szumér népnévből kell eredjen, hanem a hunok [[K/Khamor\|Khamor]] (Kám-Úr) nevével látszik azonosnak.  
 Az albán ([[M/Magar\|Magar]] címnél is taglalt `magar` szóalakja mellett szintén szamarat jelentő) `gomar` is ilyen alakú, melyet a görög `γομάρι` (gomári) = szamár szóból eredőnek tartanak.  
-Itt ugye még a [[K/Kentum\|kentum]]-[[S/Szatem\|szatem]] szabályról lehet beszélni. (Persze nem gondolhatjuk, hogy a sumér népnév a khamor név nyomán ered. Megfejtést lásd [[S/Szamár csillagkép\|Szamár csillagkép]].)
+Itt ugye még a [[K/Kentum-szatem szabály\|kentum-szatem szabály]]ról lehet beszélni. (Persze nem gondolhatjuk, hogy a sumér népnév a khamor név nyomán ered. Megfejtést lásd [[S/Szamár csillagkép\|Szamár csillagkép]].)
 - Érdekes a már említett [[O/Onager\|onager]] = vadszamár is, lehetséges [[H/Hungár\|hungár]] olvasata miatt, ha már a hunoknál és a csökönyösségnél tartunk (valójában csillagászati eredete van; lásd lentebb). (De mellette a [[K/Kulan\|kulan]] = vadszamár és [[K/Kiang\|kiang]] = tibeti vadszamár nevek is érdekesek.)
 
 Ha a fentieket nem vennénk figyelembe (mert nem lennének ilyen összefüggéseink), akkor Szam-Ár annyi lenne, mint Nap Úr és ugyanúgy a magánhangzó harmóniát kellene itt is látni, mint `tanár`, [[K/Kenyér\|kenyér]], [[P/Péntek\|péntek]], stb. esetében.  
