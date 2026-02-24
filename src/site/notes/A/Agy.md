@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/A/Agy/","title":"Agy","created":"2023-10-13T12:35","updated":"2025-07-12T00:32"}
+{"dg-publish":true,"permalink":"/A/Agy/","title":"Agy","created":"2023-10-13T12:35","updated":"2026-02-24T01:09"}
 ---
 
 
 # Agy
 
 Götz László Keleten kél a Nap című könyvének 487. oldalától tallózik olyan [[B/Budenz József\|Budenz József]] által finnugornak meghatározott szavakból, melyeket [[V/Vámbéry Ármin\|Vámbéry Ármin]] elemzett, majd a TeSz féle származtatásokat is megadja:  
-Oszt. `oñit`, vog. `ant` "szarv".  
-V.: csag `oj` "gondolat, ész".  
-TeSz: bizonytalan eredetű; talán ősi örökség a finnugor korból; vö. mord. `uj` "velő"; fi. `aivo` "halánték, agy". Más finnugor származtatása téves.
+> Oszt. `oñit`, vog. `ant` "szarv".  
+> V.: csag `oj` "gondolat, ész".  
+> TeSz: bizonytalan eredetű; talán ősi örökség a finnugor korból; vö. mord. `uj` "velő"; fi. `aivo` "halánték, agy". Más finnugor származtatása téves.
 
 #### Péterfai János írja:
 
@@ -18,11 +18,14 @@ TeSz: bizonytalan eredetű; talán ősi örökség a finnugor korból; vö. mord
 
 > A rövid a-val ejtődő agy szavunk a tulajdonképpeni magyar szócsoport [[M/MAG\|mag]] alapszavának változata (egymássalhangzós) s értelme pedig: gömb, golyó, s amely szó e réven kapott koponya értelmet is. Rokona az angol [[E/Egg\|egg]] = tojás szó, mivel a legtöbb tojásféle többé-kevésbé gömb, avagy gömbölyded alakú.  
 
-[[I/Isten\|Isten]] címszó bevezetője alapján az [[E/Egy\|egy]] (minden egy) alaki változata (is), de figyeljük meg, az angol [[M/Mind\|mind]] = elme is a mind(en) szavunkkal hozható kapcsolatba.  
+[[I/Isten\|Isten]] címszó bevezetője alapján az [[E/Egy\|egy]] (minden egy) alaki változata (is), de figyeljük meg, az angol [[M/Mind\|mind]] = elme is a [[M/Minden\|minden]] szavunkkal hozható kapcsolatba.  
 
 [Ezen](https://web.archive.org/web/20241112025720/https://altaica.ru/LIBRARY/CLAUSON/Clauson_On%20the%20Idea%20of%20Sumerian-Ural-Altaic%20Affinities%201973.pdf) cikkben mikor Zakar Andrásra hivatkozva a szerző megemlítette a mongol `eki(n)` = koponya, fej szót, rögtön az [[E/Ég\|ég]], égi, valamint az egy és agy szó ötlött fel. Szinte biztosan agy az [[E/Egy\|egy]] változata.  
 Lásd még mindenképp legutóbb [[H/Hagyma\|hagyma]] címnél írottakat is (ugyebár [[O/Onion\|onion]] = [[U/Union\|union]] = egy(ség)).  
 Lásd még [[A/AG\|AG]].  
+
+> [!check] &nbsp;
+> Az [[E/Egy\|Egy]]  szóval való összefüggést tovább erősíti a helyi érték: a felső hatalom ([[I/Isten\|Isten]]) és az agy is a [[F/Fej\|fej]]ben van, ami a [[S/Szellem\|szellemiség]] helye. A fej ([[K/Koponya\|koponya]]) a mikrokozmoszban az [[E/Ég\|ég]]nek felel meg, ahol Isten (az Egy) lakozik.
 
 A perzsa nyelvben `maghz` = agy, azaz a [[M/MAG\|mag]] szavunk kétségtelen számításba vehető (így vagy úgy: a mag(y) és agy között csak egy szóeleji ajakhang a különbség).  
 
