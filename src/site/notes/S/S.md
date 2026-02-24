@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/S/S/","title":"S","tags":["Englishtexttranslated"],"created":"2026-02-09T16:02","updated":"2026-02-09T16:03"}
+{"dg-publish":true,"permalink":"/S/S/","title":"S","tags":["Englishtexttranslated"],"created":"2026-02-09T16:02","updated":"2026-02-24T01:08"}
 ---
 
 
 # S
 
 Az S betű nyilvánvalóan a [[S/Spiral\|spirál]]-alakot és a kígyómozgást[^1] mutatja. A [[K/Kígyó\|kígyó]] pedig a Napjárás jelképállata is.  
-![assets/S_image1.png|fix_light](/img/user/S/assets/S_image1.png)  
+![assets/S_image1.png|fix_dark fix_light](/img/user/S/assets/S_image1.png)  
 A mellékelt kép alapján is kiderül, hogy az S betű is magyar találmány kell legyen. Igaz, a latin `serpens` = kígyó az, ami s-betűs és nekünk nincs s-betűs kígyónevünk, bár Magyar Adorján [[S/Sellő\|sellő]], [[S/Szalag\|szalag]] és [[S/Sound\|sound]] címnél szereplő sall-, sell- igetöves szavakból lehet válogatni (a sallang szavunkkal egyezik is a [[S/Slag\|slag]] és [[S/Schlong\|schlong]] címnél álló német kígyót jelentő `schlange` szó is), de a kígyóval azonosuló [[S/Sárkány\|sárkány]] szavunk is s-betűs.  
 Viszont legutóbb [[Z/Zsinór\|zsinór]] és [[S/Sine\|sine]] címnél írottak alapján azt kellhet gondolni, hogy valami más ősi csillagászati kifejezés áll mögötte. Az sem kizárt (és ezt a mai perzsa, germán és szláv, valamint a latin s betűk is igazolni látszanak), hogy az S betű valójában SZ és mi írjuk rosszul az S-SZ betűinket (a miénk a rovásírás volt, ne feledjük). Bár ennek a sallang (gyökének) megléte és Péterfai János passzusa ellentmond:  
 > Az Sch ma németben s-sel ejtendő, viszont nem volt mindig ez így. Az Sch valójában Szka, Szke módon lehettek ejtve, de már szógyorsulást szenvedett formák. A magyar etimonokban nincs mássalhangzó-torlódás, azaz Sch eredetileg Szak/Szek/Szik/Szeg/Szig, azaz bármely napot jelentő gyök.  
@@ -43,7 +43,7 @@ Fentebb szerepelt, hogy a latinban, görögben még az S betű sem volt ismert, 
 [Ezen](https://qr.ae/pGAClj) [[T/Tokhár\|tokhár]] címnél is taglalt Quora válaszban a válaszadó írja, hogy a kusánok nyelve baktriai-iráni lehetett, de lehetséges, főleg írásuk alapján, hogy a hellenisztikus bürokrácia nyomásának engedve volt így.  
 Na most, ha ellátogatunk [ezen](https://en.wikipedia.org/wiki/Bactrian_language) oldalra, és ott az írásrendszerükről olvasunk, meglepetéssel tapasztaljuk, hogy nekik, a görögökkel ellentétben volt S betűjük és tulajdonképpen úgy nézett ki, mint a majd később óészaki germánok által és az izlandiak által ma is használt 'th' betű. 
 Ezzel nyilván nem azt akarom mondani, hogy baktriai eredetű a görög abc, csak annyit, hogy ami a latin abc átvételénél gondot okozott a Kárpát-medencében, az korábban is megtörtént.  
-![assets/S_image2.png|fix_light](/img/user/S/assets/S_image2.png)  
+![assets/S_image2.png|fix_dark fix_light](/img/user/S/assets/S_image2.png)  
 Az alsó képen hunokról is esik szó.  
 
 Lásd még görög kérdésben [[S/Sk-\|sk-]].  
@@ -61,7 +61,7 @@ Nem ismerem a maja nyelv többes szám képzését, de az Apocalypto című film
 
 #### Götz László Keleten kél a Nap...
 
-...című könyvében a [[K/Kentum\|kentum]]-[[S/Szatem\|szatem]] témában szól a Bibliából ismert (Bírák, 12,6) "šibolet"-jelenségről:  
+...című könyvében a [[K/Kentum-szatem szabály\|kentum-szatem]] témában szól a Bibliából ismert (Bírák, 12,6) "šibolet"-jelenségről:  
 > A "sibolet" nem más, mint pöszeség, selypítés. Az S-hang hiánya egész népekre/népcsoportokra kiterjedhet. A görögben, latinban például nem volt S, a Biblia tanúsága szerint egyes héber nyelvjárásokban sem. Magyar viszonylatban a csángók nyelvjárása tartozik ide, akik S helyett többnyire S (magyar "sz") hangot ejtenek.  
 
 Zajti Ferenc Zsidó volt-e Jézus című könyvének erre vonatkozó adatait már láttuk [[S/Szkíta\|szkíta]] címnél. A mai asszirológusoktól is hivatalosan hozzánk kerülő nézetek szerint az Assur és [[S/Samas\|Samash]] nevek s-esek, holott nem volt mindig így. Éppen a Szem napnév árulja el. Mely Szem abban a Szem-Ur összetételben is szerepel, mely annak a Szumernek mása/magyarítása, mely Szumert konzekvensen [[S/Sumer\|Sumer]]/Sumérnek írunk és mondunk, de beavatottabbaink sz-előhanggal írják és mondják.  
