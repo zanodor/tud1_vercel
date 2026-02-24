@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Parthenogenesis/","title":"Parthenogenesis","tags":["Englishtexttranslated"],"created":"2023-11-11T12:17","updated":"2025-10-04T18:01"}
+{"dg-publish":true,"permalink":"/P/Parthenogenesis/","title":"Parthenogenesis","tags":["Englishtexttranslated"],"created":"2023-11-11T12:17","updated":"2026-02-24T01:06"}
 ---
 
 
