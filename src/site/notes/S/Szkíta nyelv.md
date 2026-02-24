@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2025-10-10T21:52"}
+{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2026-02-24T01:06"}
 ---
 
 
@@ -189,7 +189,14 @@ Több helyen szerepelt, Bonfini adatával is, hogy a székelyeknek szkíta betű
 #### Kállay Ferenc A pogány magyarok vallása...  
 
 ...című könyvében írja:  
-> Nevezetes, hogy a 16 scytha betűk, melyeket a Pelasgok Görögországba vittek, számban és alakban egyeznek a finnus runa betűkkel. ([Lásd 177. old.](zotero://open-pdf/library/items/DFI47XPY?page=177&annotation=XDGLAPLF))  
+> Nevezetes, hogy a 16 scytha betűk, melyeket a Pelasgok Görögországba vittek, számban és alakban egyeznek a finnus runa betűkkel. ([Lásd 177. old.](zotero://open-pdf/library/items/DFI47XPY?page=177&annotation=XDGLAPLF))
+
+## Nemtelenség és ragozás az oszét és perzsa nyelvekben
+
+[Ezen](https://qr.ae/pC6lRe) Quora válaszban Brian Collins és az arra érkezett A. Thompson féle komment rámutat arra, hogy a perzsa és oszét nyelvben nincsenek nemek, továbbá a perzsa nyelv az idők folyamán nagyon ragozóvá (agglutinálóvá) vált.  
+Az oszét nyelv is ragozó jellegű (agglutináló), sőt, e tekintetben sokkal kifejezettebb ragozó rendszere van, mint az újperzsának. Bár mindkét nyelv az indoeurópai nyelvcsalád iráni ágához tartozik, az oszét (különösen az irón nyelvjárás) az évszázados kaukázusi környezeti hatások (pl. grúz, csecsen) miatt ragozóbbá vált, mint a perzsa.
+
+Ez is mind azt mutatja, hogy a szkíta nyelv a magyarból jött (hiszen a magyar is nemtelen és ragozó), illetve hogy a szkíta-utódnak tartott nyelvek ezen sajátosságai a szkíta (magyar) örökség részei.  
 
 ---
 
