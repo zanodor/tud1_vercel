@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2026-02-18T22:57"}
+{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2026-02-24T01:08"}
 ---
 
 
@@ -60,7 +60,7 @@ Amikor a görög (által lejegyzett) [[S/Szkíta\|skytha]] név indogermán jele
 { #ixo2pk}
 
 
-Az alcím magyarázatot kíván. [[S/Szatem#Kentum-szatem szétválás helyett összevonás\|Kentum-szatem szétválás helyett összevonás]] cím/alcímnél már volt szó azon esetről, amikor a szóeleji s(z) és k összevonva jelenik meg IE szavak elején. Ez a helyzet a lő ige (északi) germán írásmódjával is (kiejtésében helyenként viszont már nem követi).  
+Az alcím magyarázatot kíván. [[Szatem#Kentum-szatem szétválás helyett összevonás\|Kentum-szatem szétválás helyett összevonás]] cím/alcímnél már volt szó azon esetről, amikor a szóeleji s(z) és k összevonva jelenik meg IE szavak elején. Ez a helyzet a lő ige (északi) germán írásmódjával is (kiejtésében helyenként viszont már nem követi).  
 
 Az (elő)germánok pedig hunok, vallásuk/"foglalkozásuk" szerint szkíták. Az átmeneti időszakban romlottak ezen alakok.  
 Mi alapján:  
@@ -85,7 +85,7 @@ Gyakorlatilag a SZET, SZÉT, SZÍT, SZAT, SÜT, SÖT, SUT, SAT szavak alapján u
 [[S/SAD#Sad 2)\|Sad]] címnél írtuk legutóbb:  
 A `sad` fogalmában az ül ([[S/Sit\|sit]]) fogalma is meglehet. Ahogy a [[K/Kutya\|kutya]] szónak megvan a [[K/Kushad\|kushad]] kapcsolata, itt is ezt kell keresni. Egyébiránt az ainu és mundari nyelvben `seta` = kutya. Kapcsolatai: [[S/Szít\|szít]]; Szíriusz; kánikula, honnan utána jön a sötét térfél. Lényegében ez a megoldás is: a szomorú jelentésű angol `sad` szót a `sötét` szóval kell párhuzamba állítani.  
 Így lehet megérteni a fentebbi, idővel kapcsolatos szavakat is: idő = téridő = élet/állatkör, melyben a váltó/felezőpont a Kutyacsillag Szíriusz.  
-Persze a Süt/Szít/Sat/Sát/Sut/Söt/Set tulajdonképpen a szatemes változata [[K/Kut\|Kut]]-nak és társainak. [[S/Szatem\|Szatem]] címnél szóba került még a [[C/Csuda\|csuda]] címnél is kifejtett téma: hogy a magyar nyelv magában hordozza a lehetőséget arra, hogy egyes kemény hangzói (mint a K) meglehessen s, sz, cs formában is, némi jelentésmódosulattal is. Így a Magyar Adorján által taglalt régi `csod` vagy `csud` = süt, fény keményebb, eredetibb párja lehet [[K/Kut\|kut]], csudának pedig [[K/Kutya\|kutya]], de eredeti a [[S/Süt\|süt]] is (hisz ez [[T/Tűz\|tűz]] szavunk megfordítva), valamint [[H/HUD\|HUD]], [[G/GUD\|GUD]] formák is léteznek ilyen fény jelentéssel.  
+Persze a Süt/Szít/Sat/Sát/Sut/Söt/Set tulajdonképpen a szatemes változata [[K/Kut\|Kut]]-nak és társainak. [[K/Kentum-szatem szabály\|Kentum-szatem szabály]] címnél szóba került még a [[C/Csuda\|csuda]] címnél is kifejtett téma: hogy a magyar nyelv magában hordozza a lehetőséget arra, hogy egyes kemény hangzói (mint a K) meglehessen s, sz, cs formában is, némi jelentésmódosulattal is. Így a Magyar Adorján által taglalt régi `csod` vagy `csud` = süt, fény keményebb, eredetibb párja lehet [[K/Kut\|kut]], csudának pedig [[K/Kutya\|kutya]], de eredeti a [[S/Süt\|süt]] is (hisz ez [[T/Tűz\|tűz]] szavunk megfordítva), valamint [[H/HUD\|HUD]], [[G/GUD\|GUD]] formák is léteznek ilyen fény jelentéssel.  
 [[K/Kutya\|Kutya]] cím (újra)bevezetőjében is volt arról szó, miért is alakulhatott ki a hajlandóság arra, hogy a kemény hangzókat lecseréljék.  
 [[D/Dialektikus ellentét\|Dialektikus ellentét]] és [[H/Hunor és Magor\|Hunor és Magor]] címnél is szerepeltek az alábbiak:  
 
