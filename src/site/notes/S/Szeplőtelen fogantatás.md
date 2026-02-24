@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2025-10-10T21:52"}
+{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2026-02-24T01:06"}
 ---
 
 
@@ -17,7 +17,7 @@ Magyarországon a legismertebb [[A/Álmos\|Álmos]] és [[J/Jézus\|Jézus]] fog
 
 > Gautama Buddha, the ninth Avatar of India, flourished around 600 B.C. The stories relating to his life and death are similar to those recorded concerning [[K/Krishna\|Krishna]]. He was said to have been born of the Virgin Maya, or Mary.  
 > —  
-> Gautama Buddha, India kilencedik avatárja, i.e. 600 körül virágzott. Az életével és halálával kapcsolatos történetek hasonlóak a [[K/Krishna\|Krisna]] történetéhez. Azt mondták, hogy **Szűz Májától, azaz Máriától született**.
+> Gautama Buddha, India kilencedik avatárja, i.e. 600 körül virágzott. Az életével és halálával kapcsolatos történetek hasonlóak a [[K/Krishna\|Krisna]] történetéhez. Azt mondták, hogy **Szűz Májától, azaz Máriától született**.  
 
 
 </div></div>
