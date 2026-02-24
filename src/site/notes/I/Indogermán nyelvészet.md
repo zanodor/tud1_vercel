@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Indogermán nyelvészet/","title":"Indogermán nyelvészet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated"],"created":"2025-06-12T01:33","updated":"2025-11-08T23:14"}
+{"dg-publish":true,"permalink":"/I/Indogermán nyelvészet/","title":"Indogermán nyelvészet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated"],"created":"2025-06-12T01:33","updated":"2026-02-24T01:05"}
 ---
 
 
@@ -75,7 +75,7 @@ Egy külön fejezetben foglalkozik ezután az indogermán nyelvészettel és tö
 > Az indogermanisztika – és vele együtt a modern tudományos nyelvészet – kezdetét az 1816-os évre tehetjük. Ekkor jelent meg F. Bopp korszakalkotó értekezése "Über das Konjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprachen" címmel, amelyben e nyelvek ősrokonságát tudományosan kimutatta. Ebbe az indogermánnak vagy indoeurópainak elnevezett nyelvcsaládba hamarosan belekerültek a kelta és szláv nyelvek is, majd a század végére az albán és az örmény.  
 
 Röviden szól a Jakob Grimm-féle hangtörvényekről (1848):  
-> Az ind és az iráni nyelvekben, de jórészt a szlávban is, igen gyakran S, SZ, Z hangokat találtak a többi indogermán nyelv G, K, H hangjai helyén. E megfigyelésből kerekedett ki a "satem" és "[[K/Kentum\|kentum]]" nyelvek közötti megkülönböztetés. (Óind `satem` = száz, lat. `centum` = ua.)  
+> Az ind és az iráni nyelvekben, de jórészt a szlávban is, igen gyakran S, SZ, Z hangokat találtak a többi indogermán nyelv G, K, H hangjai helyén. E megfigyelésből kerekedett ki a "satem" és "[[K/Kentum-szatem szabály\|kentum]]" nyelvek közötti megkülönböztetés. (Óind `satem` = száz, lat. `centum` = ua.)  
 > A Grimm által posztulált "szabályos hangváltozások" tézise rövidesen a modern nyelvészet alappillérévé, úgyszólván alfájává és omegájává vált.  
 > A nyelvkutatás egyik legfontosabb feladatát abban látták, hogy a Grimm-féle hangtörvények segítségével a feltételezett közös indogermán ősnyelv alapszavait kikövetkeztessék.  
 - A [[N/Nyelvészet mint tudomány#Grimm-féle hangtörvények\|Grimm-féle hangtövények]]ről bővebben lásd a helyén.
