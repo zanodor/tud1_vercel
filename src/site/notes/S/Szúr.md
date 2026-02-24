@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szúr/","title":"Szúr","created":"2025-08-10T02:49","updated":"2025-08-10T02:50"}
+{"dg-publish":true,"permalink":"/S/Szúr/","title":"Szúr","created":"2025-08-10T02:49","updated":"2026-02-24T01:09"}
 ---
 
 
@@ -9,5 +9,5 @@ Szakrális-hímségi szó, ahogy a többi, [[K/Kutyanemzés\|kutyanemzés]] cím
 A szanszkrit nyelvben [[S/Surya\|Surya]] a Nap.  
 Lásd még szintén szakrális [[S/Szűr\|szűr]].  
 
-[[K/Kentum\|Kentum]]os párjának tekinthető a [[G/Gerely\|gerely]] előrésze és a [[K/Kúr\|kúr]], a perzsa `kir` = hímtag szóval egyetemben.  
+[[K/Kentum-szatem szabály\|Kentum-szatem szabály]]os párjának tekinthető a [[G/Gerely\|gerely]] előrésze és a [[K/Kúr\|kúr]], a perzsa `kir` = hímtag szóval egyetemben.  
 
