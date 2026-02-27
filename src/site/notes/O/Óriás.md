@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","tags":["Englishtexttranslated"],"created":"2024-04-20T13:37","updated":"2025-11-28T21:21"}
+{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","tags":["Englishtexttranslated"],"created":"2024-04-20T13:37","updated":"2026-02-27T17:35"}
 ---
 
 
@@ -54,7 +54,7 @@ A fentebb említett görög átírású névvel és óriás szavunkkal azonos az
 > **Plinius**, a polihisztor egyáltalán nem kételkedik egykori óriások és csontjaik létében, úgy véli, hogy az emberi nem egyre kisebbedik, mert közeledik a világ vége, a tűzözön: "Általában teljes bizonyossággal meg lehet figyelni, hogy az emberiség napról napra kisebb lesz – írja –, amennyiben a fiúk ritkán nagyobbak apjuknál, minthogy az elégés \[tűzözön\] korszaka, amely felé a mi időnk közeledik, csökkenti az ondó termékenységét. Krétán egy földrengés által felhasított hegyben nagy álló testet találtak, ezt egyesek Orionnak, mások Otisznak vélik. Oresztész teste, melyet a jóshely parancsára újból elástak, a hagyományok szerint hét könyök \[a görög ill. római könyök kb. fél méter\] volt. Igen, már majdnem ezer évvel ezelőtt panaszkodott a nagy költő, Homérosz, hogy az ő idejében az emberek kisebbek voltak, mint a régiek."
 
 [[H/Hüne\|Hüne]] címnél is szóltunk arról, de [[S/Szent Kristóf\|Szent Kristóf]] neve kapcsán is előjött, hogy a [[K/Kutyafejű\|kutyafejű]]ség és a magas termet kéz a kézben jártak (és félelem, valamint gúny, megvetés tárgyává is váltak, minthogy ónémetül `hun` = gúny), főleg az alábbi, [[H/Harmadik szem\|harmadik szem]] cím alatt is szereplő adatok alapján mondható ki mindez:  
-> A homlokfalan, hátrafutó koponyájú **Homo magus** élte át a mítoszokat, teremtette meg a kultúrát. Utóda, a magashomlokú, rövidfejű Homo sapiens átlépett az okkereső értelem világába, s megteremtette a civilizációt.  
+> A homloktalan, hátrafutó koponyájú **Homo magus** élte át a mítoszokat, teremtette meg a kultúrát. Utóda, a magashomlokú, rövidfejű Homo sapiens átlépett az okkereső értelem világába, s megteremtette a civilizációt.  
 > Ha a [[T/Tobozmirigy\|tobozmirigy]]et gyermekkorban megroncsoljuk \[és erre a koponya-torzítás során van is esély\], testi és szellemi koraérettség következik be, s esetleg **óriásnövés**.  
 
 
