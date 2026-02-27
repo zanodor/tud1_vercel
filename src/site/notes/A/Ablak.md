@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ablak/","title":"Ablak","created":"2023-10-21T03:47","updated":"2024-10-22T21:47"}
+{"dg-publish":true,"permalink":"/A/Ablak/","title":"Ablak","created":"2023-10-21T03:47","updated":"2026-02-27T20:07"}
 ---
 
 
@@ -9,9 +9,12 @@
 
 > Az Ab-Lak névben a Lakon lévő Felső nyílás az Ab. Egyes ősi városokban tényleg csak a tetőn lehetett bejutni a laktérbe.  
 
-#### Magyar Adorján írja:
-
+Çatal Hüyük Wiki oldalán írják:  
 > [[C/Çatal Hüyük\|Çatal Hüyük]]-ben a házak egymáshoz tapasztva, nem ritkán közös falakkal épültek. Sokuk emeletes volt, és a tetőn keresztül lehetett bejutni a kicsiny, nagy valószínűséggel egyetlen családnak otthont adó lakótérbe.  
+
+#### Magyar Adorján Ősműveltség...  
+
+...című könyvében írja:  
 > Szibériában ilyen, földbe mélyített és tetőzettel ellátott házak ma is vannak, és amelyekbe fölülről, vagyis az ógon (aknán) át járnak be.  
 
 Lásd még [[O/OG\|OG]], [[O/OK\|OK]] és [[S/Spy\|spy]].  
@@ -23,12 +26,14 @@ Az arab-perzsa `ablak` fekete-fehér, ami [[T/Tarka\|tarka]] vagy [[O/Ordas\|ord
 
 A fekete-fehér a fény és árnyék megoszlására utal, mint ahogy [[L/Libra\|Libra]] címnél is volt erről szó, vagy lásd a [[J/Jin és jang\|jin-jang]] jelet.  
 
-#### Jankovics Marcell írja:
+#### Jankovics Marcell Ahol a madár se jár...  
 
+...című könyvében írja:  
 > *A Mádéné rózsái* mesében a királyfi tündérkeresőben a Naphoz megy útbaigazításért, de az nem tud segíteni rajta, mert "sok ablakon" nem lát be. Más meséből kölcsönözve magyarázatot, azért nem, mert az ördög lakta elátkozott várnak csak vakablakai vannak. Amikor a mese hősnője legyőzi az ördögöt, a vakablakok eltűnnek, a kastély kivilágosodik (Brugó, az ördög). Tréfás meseváltozatban: ablaktalan házába a szegény ember zsákban hordja a világosságot (vö. "Sándor, József, Benedek, zsákban hozzák a meleget"), mígnem egy legény 300 forintért ablakot nem vág rajta (Az elátkozott pipöretyúk). Az ablaktalan ház a téli hónapokat jelképezi, a 300-as szám – l. a maga helyén – az év világosabb napjaira utal. (Világosság és meleg a tavasszal érkezik.)  
 
-#### A Czuczor-Fogarasi szótár ablak szónál írja:  
+#### A Czuczor-Fogarasi szótár...
 
+...ablak szónál írja:  
 > Származására nézve, ha gépileg csak ab gyököt vennők föl, ez a többi magyar szókkal nincs fogalmi, illetőleg családi rokonságban, azonban ha tekintetbe vesszük, hogy egyezik vele a szlovák-cseh `oblok`, és a fényes, csillagos eget jelentő `obloha`, melyek összetett szók az o és blok, bloha elemekből, s ezekkel ismét rokon a `blk`, mely fényt, villámot jelent, továbbá, hogy ezekhez hasonlók a héber (`balág`), szankszkrit `blász`, hellen `jlegw`, `jlogew`, latin `fulgeo` melyek mind világosságot jelentenek, végre, hogy ezekkel tökéletesen összeüt a magyar [[V/Világ\|világ]], tájdivatosan velág, akkor épen nem hibázunk ha gyökül vil, vagy vel, vagy az önhangzó előtételével ivl vagy evl = avl = abl hangokat vesszük.  
 
 A fenti fonológiai értelmezés alapján metatézisről volna szó és a szlovák-cseh `oblok` = ablak, másutt `oblok`, `oblak` = felhő és `obloha` = (csillagos) ég szavak mégsem ablak szavunkból erednek? Nehéz tudni. Tény, hogy a fentebbi adatok szerint a régi ablakok az égre néztek.   
