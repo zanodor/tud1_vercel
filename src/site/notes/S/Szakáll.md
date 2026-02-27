@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szakáll/","title":"Szakáll","created":"2024-04-21T14:31","updated":"2025-09-23T21:37"}
+{"dg-publish":true,"permalink":"/S/Szakáll/","title":"Szakáll","created":"2024-04-21T14:31","updated":"2026-02-27T17:36"}
 ---
 
 
@@ -49,7 +49,7 @@ Egyébiránt a mongolban is egy az egyben így áll: `szakál`. A törökben is 
 Csicsáky Jenő \[Bíró Lajos által megosztott\] adata szerint a tokát `szak`-nak hívtak a székelyek és a palócok. Nyilván nehéz lenne a szakáll szót ebből a jelentésből kihozni, de fordítva működhetne.  
 
 Valójában a szakáll a [[S/Székely\|székely]] név alhangos párjának mondható. Már csak az a kérdés, melyik az eredeti. Erre legutóbb [[S/Szláv\|szláv]] címnél, arab `saqal` és `saqlab` nevek kapcsán volt szó.  
-Arra pedig legutóbb az imént említett [[S/Sacchar-\|sacchar-]] címnél, a sumér `sukkal` = vezér szó taglalása kapcsán, hogy a Magyar Adorján által adatolt Zakur és Szakáll neveink közül utóbbi a Várkonyi Nándor által fentebb taglalt istenkirályi attributum, mely eredeti jelentése nem a szakáll maga, hanem a Nap Orionbani állására utal és a Vezér/Istenkirály/Császár alapértelmet kell benne keresni. Ezért használták az asszír és perzsa királyok is jelvényként. Ezt a szakrális (a sacra/sacer is ilyen alakú név) hátteret kell felismerni.  
+Arra pedig legutóbb az imént említett [[S/Sacchar-\|sacchar-]] címnél, a sumér `sukkal` = vezér szó taglalása kapcsán, hogy a Magyar Adorján által adatolt Zakur és Szakáll neveink közül utóbbi a Várkonyi Nándor által fentebb taglalt istenkirályi attribútum, mely eredeti jelentése nem a szakáll maga, hanem a Nap Orionbani állására utal és a Vezér/Istenkirály/Császár alapértelmet kell benne keresni. Ezért használták az asszír és perzsa királyok is jelvényként. Ezt a szakrális (a sacra/sacer is ilyen alakú név) hátteret kell felismerni.  
 (Hasonlót látunk például [[B/Balta\|balta]] szavunk esetében. Nem a fegyverre utal a név, hanem arra a Napnévre, mely hímségi princípiumként a szerszám, fegyver jelentést másodlagos jelentésként adja ki. [[H/Háború\|Háború]] sem egyszerű köznév, hanem közvetlenül egy háborúistennőre utaló név. A sor folytatható: [[M/Madár\|madár]], [[K/Kutya\|kutya]], [[K/Kenyér\|kenyér]], [[K/Kalács\|kalács]], stb.)
 
 Lényegi részét tekintve úgy az angol [[B/Beard\|beard]], ahogy a magyar (továbbá mongol és török) szakáll, a hosszú hajzathoz hasonlóan a Nap tüzét, ragyogását fejezte ki jelképi szinten: a hosszú haj gyakorlatilag több tüzet, nagyobb fényt azaz szellemi-szakrális erőt fejezett ki. Sza-Kál így annyit tesz egyszerűen, hogy Nagy Fény. De mivel a magyar szavak többféle jelentést is hordozhatnak, valóban másképp is bontható, értelmezhető.  
