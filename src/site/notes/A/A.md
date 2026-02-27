@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2026-02-06T23:03"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2026-02-27T23:22"}
 ---
 
 
@@ -55,8 +55,9 @@ Ezek szerint [[K/Kapa\|kapa]] (azaz: a kap) olyan főnév, amely a kap igéből 
 ...elmondja a magyar szavak működésének receptjét ([[M/Magyar ősnyelv szótagnyelv\|magyar ősnyelv szótagnyelv]] címnél is megvolt):  
 > Ha a magánhangzók jelentéseit feltártuk, akkor a két hangból álló szavak jelentéseit kell meghatározni. Utána jönnek a három hangból álló szavak. A két hangból álló alapszavakat az U-A-E-I magánhangzók alapján vizsgáljuk, az O-Ö-Ü magánhangzókra csak ez után megyünk át[^2]. A mássalhangzók a következők, zöngétlen és zöngés párokban: T-D, Sz-Z, K-G, J-H, P-B, F-V, és M-N, L-R. Ez a 16 betű alkotja az alapvázat, amely alapszavak jelentései megadják az egész emberiség nyelveinek alapját. Az emberiség összes nyelve tehát egyetlen nyelvből ered, amit nevezzünk ősnyelvnek.  
 
-#### Magyar Adorján írja:
+#### Magyar Adorján Csodaszarvas...  
 
+...című könyvében írja:  
 > A ragozó nyelvek szellemének a névelőnek a szó végére tevése jobban meg is felel mint nyelvünk mai szokása, amiszerint a névelő a szó előtt áll. A névelő előretevése a nemragozó, azaz elővető (prefigáló) nyelvekben általános, amilyenek például a germán nyelvek is, de a mi ősnyelveink által erősebben befolyásolt nyelvekben, például a bolgárban, oláhban, albánban szintén a szó végén áll[^3]. Nálunk a névelőt a szó elé tenni az avarok kezdték volt, de ezek is már sok ezredévvel ezelőtt, mert ez így volt már a hikszoszok idejében is, akik egy [[A/Avar\|avar]] törzs voltak, és akik vagy négyezer évvel ezelőtt Egyiptomot meghódítva, ezt több mint ötszáz évig egy hét óriási kerületű gyűrűsánc közepén állott városból, amelynek neve is Avar ([[A/Avarisz\|Avarisz]]) volt, kormányozták.  
 >
 > Megvolt azonban ősnyelvünkben úgy az egymagánhangzós névelő (a, u vagy e), de a szó végén, mint az egymagánhangzós egymássalhangzós (az, uz, asz, usz, esz, isz) névelő is, de régen ez is a szó végén állott. Innen származik a görög, latin és litván nyelvek -osz, -uzs, -asz, -esz, -isz szóvégzése, aminek névelő volta csak később homályosodott el.  
