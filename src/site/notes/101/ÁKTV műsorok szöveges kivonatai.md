@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-02-21T00:04"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-02-27T17:33"}
 ---
 
 
@@ -21,6 +21,10 @@
 
 **2026:**
 
+[260226CN! JÖVŐ-MÚLT IDŐ](https://rumble.com/v76bqbq-260226cn-jv-mlt-id-kubnyi-tams-ktv.html)  [https://archive.ph/UDdm1](https://archive.ph/UDdm1)
+[260225CN! BÉKEVÁGY](https://rumble.com/v76adsm-260225cn-bkevgy-kubnyi-tams-ktv.html)  [https://archive.ph/RymfD](https://archive.ph/RymfD)
+[260224CN! A KRÍM HAZATÉRÉSE](https://rumble.com/v7680pe-260224cn-a-krm-hazatrse-kubnyi-tams-ktv.html)  [https://archive.ph/0DJEC](https://archive.ph/0DJEC)
+[260223CN! TITKOS AKCIÓTERV](https://rumble.com/v766mwy-260223cn-titkos-akciterv-kubnyi-tams-ktv.html)  [https://archive.ph/diQGh](https://archive.ph/diQGh)
 [260220CN! HUNMAGYAROK](https://rumble.com/v761bfo-260220cn-hunmagyarok-kubnyi-tams-ktv.html)  [https://archive.ph/F0k1A](https://archive.ph/F0k1A)
 [260219CN! AZ ISTENSÉG LEHULL](https://rumble.com/v75zo66-260219cn-az-istensg-lehull-kubnyi-tams-ktv.html)  [https://archive.ph/VdoRR](https://archive.ph/VdoRR)
 [260218CN! LIBÉNYI JÁNOS](https://rumble.com/v75y2nq-260218cn-libnyi-jnos-kubnyi-tams-ktv.html)  [https://archive.ph/81z6H](https://archive.ph/81z6H)
