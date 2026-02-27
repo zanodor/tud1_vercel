@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-02-24T01:09"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-02-27T17:33"}
 ---
 
 
@@ -33,7 +33,8 @@ Köszönöm az Ön érdeklődését is!
 
 ## Jelen web-app és használata
 
-Mivel a kutatás folyamatos és az elkövetkezendő mintegy 40-50 (500-1000?) évre be vagyok táblázva, nehéz lesz még ezt az online felületet is működésben tartani, nemhogy angol fordítással előállni (interaktív PDF is lehetséges majd valamikor), de minden gondot megoldással orvosolunk. 
+Mivel a kutatás folyamatos és az elkövetkezendő mintegy 40-50 (500-1000?) évre be vagyok táblázva, nehéz lesz még ezt az online felületet is működésben tartani, nemhogy angol fordítással előállni (interaktív PDF is lehetséges, sőt szükséges majd valamikor), de minden gondot megoldással orvosolunk. 
+Igyekszem a YouTube-os videóimban is helyenként bemutatott Quora.com cikkekben angolul egy tágabb érdeklődő kört is menet közben megcélozni.  
 
   
 A közben angolról magyarra fordított feliratokról pár szót:  
@@ -57,10 +58,10 @@ A bal oldalon található fájlok listájában az A-Z mappák valamelyike néha 
 Felül a borítékra kattintva lehet bármelyik oldalról email-t küldeni: az adott cikk alapértelmezetten témának lesz megadva. Legalul a Disqus szolgáltatással lehet mindenki számára látható kommenteket küldeni.   
 A boríték mellett a három ikon értelemszerűen a téma színváltoztatását szolgálja: világos – sötét – automatikus. Legalábbis ez lett volna a cél; jelenleg leginkább átvált egyikről a másikra, mindegy hova kattint az ember, de ez is megfelel, sőt.  
 
-Amennyiben 1400 pixelszélességnél kisebb képernyőn tekinti meg az oldalt, akkor a mobil alkalmazásnak megfelelő nézetet kapja. Ilyenkor asztali gépen vagy laptopon az oldal jobb áttekinthetősége és funkcióinak könnyű elérése végett érdemes kipróbálni 90%-os nagyításban, mely állapothoz a CTRL és mínusz gomb lenyomásaival juthat.  
-- A jövőben vélhetően erre is egy automatikus megoldás születik majd, így ezzel majd nem kell foglalkozni.
+
 
 Egyes helyeken, ahol a Wikilinkek után közvetlenül egy kötőjel vagy rag következik, egy felesleges szóköz jelenhet meg. Ennek okát nem tudom; talán a Google automatikus fordítójának bekapcsolt állapota okozza. Az én gépeimen és böngészőimben ez a probléma nem áll fenn, de az olvashatóságot annyira nem befolyásolja, hogy ezért bárminemű szoftveres beavatkozást eszközöljek.  
+(Előfordulnak egyes helyeken más renderelési/megjelenítési gondok, de kis jelentőségűeknek tartom őket. Ha találok komolyabbat, idővel megoldom.)
 
 Egy másik dolog, hogy hosszabb cikkek betöltésénél az olvasó nem tud rögtön görgetni, mert az adott oldal, cikk (teljes) betöltéséig (illetve a kereső inicializálásáig) az app nem reagál. Várni kell, míg az oldal felépíti magát a grafikonnal és több más kiegészítő adattal. Hogy ez előfordulhat kisebb cikkek esetében is, annak az lehet az oka, hogy egyébként még a háttérben valami dolgozik, indexel, vagy az oldalak alján a Disqus betöltése fogja vissza. Pár másodperc után a felhasználó már szabadon kalauzolhatja magát a kezelőfelületen: kereshet tartalomra vagy témák grafikonos kapcsolataira.  
 
