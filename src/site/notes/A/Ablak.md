@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ablak/","title":"Ablak","created":"2023-10-21T03:47","updated":"2026-02-27T20:07"}
+{"dg-publish":true,"permalink":"/A/Ablak/","title":"Ablak","created":"2023-10-21T03:47","updated":"2026-02-27T20:11"}
 ---
 
 
@@ -9,8 +9,8 @@
 
 > Az Ab-Lak névben a Lakon lévő Felső nyílás az Ab. Egyes ősi városokban tényleg csak a tetőn lehetett bejutni a laktérbe.  
 
-Çatal Hüyük Wiki oldalán írják:  
-> [[C/Çatal Hüyük\|Çatal Hüyük]]-ben a házak egymáshoz tapasztva, nem ritkán közös falakkal épültek. Sokuk emeletes volt, és a tetőn keresztül lehetett bejutni a kicsiny, nagy valószínűséggel egyetlen családnak otthont adó lakótérbe.  
+[[C/Çatal Hüyük\|Çatal Hüyük]] Wiki oldalán írják:  
+> Çatal Hüyük-ben a házak egymáshoz tapasztva, nem ritkán közös falakkal épültek. Sokuk emeletes volt, és a tetőn keresztül lehetett bejutni a kicsiny, nagy valószínűséggel egyetlen családnak otthont adó lakótérbe.  
 
 #### Magyar Adorján Ősműveltség...  
 
