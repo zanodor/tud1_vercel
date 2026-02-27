@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2026-02-27T17:35"}
+{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2026-02-27T23:22"}
 ---
 
 
@@ -40,9 +40,9 @@ Az ott szereplő sámándobról ![assets/Szarv_image3.png|fix_dark fix_light rig
 
 A sumér/szumér adatokkal szintén foglalkozó...
 
-#### Götz László Keleten kél a Nap című könyvének 174-175. oldalán...
+#### Götz László Keleten kél a Nap...
 
-...szintén taglalja a témát. Kezdi a [[C/Crania\|crania]] címnél bemutatott szóösszehasonlításokkal, majd a magyarázó szövegben nagyszerű éleslátásról tanúbizonyságot adva írja:  
+...című könyvének 174-175. oldalán szintén taglalja a témát. Kezdi a [[C/Crania\|crania]] címnél bemutatott szóösszehasonlításokkal, majd a magyarázó szövegben nagyszerű éleslátásról tanúbizonyságot adva írja:  
 > A szemantikai összefüggés egyrészt a "szarv" és a "hegycsúcs", másrészt pedig a "fő" és a "főnök" jelentések között nyilvánvaló, de szinte ugyanilyen plauzibilis a "valaminek a csúcsa" és a "valaminek a feje" jelentéstani rokonsága is.  
 > ...  
 > Ismeretes, hogy a szumérok – de az elámiak és később a babiloni-asszír szemiták is – isteneiket szarvakkal, illetve szarvas koronákkal ábrázolták, rangjuk szerint 1-4 szarvpárral fejükön. A szarv tehát az isteni hatalom jelképe volt.  
@@ -120,9 +120,9 @@ A szarv-forma egyébiránt egyező formát mutat a [[K/Kereszt\|kereszt]]tel is,
 
 A Napot agancsai között hordozó Csudaszarvas jelképe így tulajdonképpen az anyaméhben születő Napgyermek analógiájára jött létre.  
 
-#### Thomas Inman Ancient Pagan and Modern Christian Symbolism című könyvében...
+#### Thomas Inman Ancient Pagan and Modern Christian Symbolism...
 
-...találunk ide kapcsolódó adatot, mely szerint az észak-afrikai arabok tehén, kanca és teve tehenének nemi részét bajelhárító talizmánként...  
+...című könyvében találunk ide kapcsolódó adatot, mely szerint az észak-afrikai arabok tehén, kanca és teve tehenének nemi részét bajelhárító talizmánként...  
 > It was the universal practice among the Arabs of Northern Africa to stick up over the door of their house or tent the genital parts of a cow, mare, or female camel, as a talisman to avert the influence of the evil eye.  
 > —  
 > Az észak-afrikai araboknál általános szokás volt, hogy házuk vagy sátruk ajtaja fölé egy tehén, kanca vagy nőstény teve nemi szervét tűzték fel, mint talizmánt, hogy elhárítsák a gonosz szem befolyását.  
@@ -130,9 +130,9 @@ A Napot agancsai között hordozó Csudaszarvas jelképe így tulajdonképpen az
 ...használták. Nyilván nem magát a szervüket, hanem arról készült rajzot kell itt érteni, bár ki tudja.  
 (Kimondhatjuk azt is, hogy a [[T/Teve\|teve]] a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] közül az egyik.)  
 
-#### Gyárfás Ágnes az Ősi Gyökér 2010/1-2. sz. közölt Magyar őskutatás a szimbolikák jegyében című cikkében...
+#### Gyárfás Ágnes Magyar őskutatás a szimbolikák jegyében...
 
-...leírja, hogy a magyar nép szerves világképében milyen jelképiséget fejezett ki a [[T/Tulipán\|tulipán]].  
+...című, az Ősi Gyökér 2010/1-2. sz. közölt cikkében leírja, hogy a magyar nép szerves világképében milyen jelképiséget fejezett ki a [[T/Tulipán\|tulipán]]:  
 > A virágemberek nemzetségében vezérlő elem a tulipán. Ennek a tulipán nőelvű volta az oka. Alakjából bontakozik ki az anyaméh formavilága s a mezopotámiai kultúra Inanna istenanya képjele. Ez a jel élt és kelengyésládákat díszített még a 17. században is.  
 - A csatolt képek önmagukért beszélnek (kérdés, hogy melyik oldal a férfi és melyik a női oldal).
 
