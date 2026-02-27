@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv ismeretlen eredetű szavai/","title":"Magyar nyelv ismeretlen eredetű szavai","tags":["Englishtexttranslated"],"created":"2023-12-27T05:53","updated":"2025-11-16T14:37"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv ismeretlen eredetű szavai/","title":"Magyar nyelv ismeretlen eredetű szavai","tags":["Englishtexttranslated"],"created":"2023-12-27T05:53","updated":"2026-02-27T23:22"}
 ---
 
 
@@ -8,7 +8,7 @@
 Már [[T/Tudomány#Ki a tudó, kinek a szemszögéből ítéltetik meg valami tudománynak?\|tudomány]] címnél az eurocentrista felfogás kapcsán szóltunk arról, hogy Amerika felfedezése nem érdem, hanem inkább korábbi hiányosság leleplezése. Itt is hasonló a helyzet: az ismeretlen eredettel azzal hozakodnak elő, akik nem ismerik és nem is akarják ismerni a magyar nyelvet.  
 
 Az interneten egyes helyeken azt látom, hogy szókincsünk mintegy 9 százalékát jelentené. Másutt, Keneseinél a bizonytalan eredetű szavakat harminc százalékra teszi:  
-![Magyar nyelv ismeretlen eredetű szavai_image20251106201705882.jpeg|fix_light](/img/user/M/assets/Magyar%20nyelv%20ismeretlen%20eredet%C5%B1%20szavai_image20251106201705882.jpeg)
+![Magyar nyelv ismeretlen eredetű szavai_image20251106201705882.jpeg|fix_dark fix_light](/img/user/M/assets/Magyar%20nyelv%20ismeretlen%20eredet%C5%B1%20szavai_image20251106201705882.jpeg)
 
 Persze bármilyen számadat is kerüljön ide, a burkolt célzás az, hogy a maradék sikeresen meg lett fejtve. Ez nem igaz, ahogy [ezen](https://qr.ae/pvYGHs) Quora válaszban is kifejtem (részlet):  
 > You see, **the phrase “words of unknown origin” implies that the rest have been successfully covered. It is another lie**. It is like saying, “oh, Hungarian economy is going strong, despite Covid, we’ve managed to record a 5-6 percent increase in economic rates…” but they will never tell you that the economy is not Hungarian but multinational and globalist and will never tell you how many Hungarian entrepreneurs have been destroyed or how many creditees have been made bankrupt. It is just the nature of today’s news industry and science. They will tell you what they want you to know. They twist and turn you about like a dog does with a bone in its snout.
@@ -23,7 +23,7 @@ Persze bármilyen számadat is kerüljön ide, a burkolt célzás az, hogy a mar
 >
 > They go about their business politely (they’d say, “if we are allowed to explain the word from Magyar”) and logically, providing common roots of the words. At least they try. You see, they don’t go abroad and take your bread or harass you. They try to do what they are trained at. Granted, they follow Germans like Adelung and others but they try to use some kind of logic. This is no longer the case at the Academy. Our Academy is occupied by the enemy. Every Academy in the world is on a leash, or controlled, actually. The important thing is to keep up the *status quo*.  
 > —  
-> Tudják, **a "ismeretlen eredetű szavak" kifejezés azt jelenti, hogy a többi már sikeresen le lett tudva. Ez egy újabb hazugság**. Ez olyan, mintha azt mondanák, hogy "ó, a magyar gazdaság jól megy, a Covid ellenére 5-6 százalékos gazdasági növekedést sikerült elérnünk...", de azt soha nem mondják el, hogy a gazdaság nem magyar, hanem multinacionális és globalista, és azt sem, hogy hány magyar vállalkozót tettek tönkre, hány hitelezőt tettek csődbe. Ez már csak a mai híripar és tudomány természete. Azt mondják el, amit ők akarnak, hogy tudjatok. Úgy csűrnek-csavarnak, mint a kutya a csontot az orrában.
+> Tudják, **az "ismeretlen eredetű szavak" kifejezés azt jelenti, hogy a többi már sikeresen le lett tudva. Ez egy újabb hazugság**. Ez olyan, mintha azt mondanák, hogy "ó, a magyar gazdaság jól megy, a Covid ellenére 5-6 százalékos gazdasági növekedést sikerült elérnünk...", de azt soha nem mondják el, hogy a gazdaság nem magyar, hanem multinacionális és globalista, és azt sem, hogy hány magyar vállalkozót tettek tönkre, hány hitelezőt tettek csődbe. Ez már csak a mai híripar és tudomány természete. Azt mondják el, amiről azt akarják, hogy tudjatok. Úgy csűrnek-csavarnak, mint ahogy a kutya a csontot a szájában.
 >
 > Tehát ha még mindig vannak olyan szavak, amelyeket "magasan képzett finnugor nyelvészeink" nem tudtak a szláv, germán, latin stb. nyelvekhez kötni, az csak azt mutatja, hogy túl sok kávészünetet tartottak. Egészen biztos vagyok benne, hogy ezeknek a szavaknak vannak "nyelvészetileg megalapozott" etimológiái. Ha nyelvész vagy ezek közül a delikvensek közül, akkor két szellentés között megoldasz egy szót. Egy büffentés és máris kész egy újabb szó.
 >
@@ -31,9 +31,9 @@ Persze bármilyen számadat is kerüljön ide, a burkolt célzás az, hogy a mar
 >
 > Ha nem vagy az Akadémia listáján (és így mondhatják, hogy valójában te vagy az, aki vakon jár), és használnád a józan eszed, akkor adnál egy esélyt a magyar szavaknak, és belső fejlődéssel létrehozott *bona fide* szavaknak kezelnéd őket, és megpróbálnád megtalálni a logikát, ami alapján létrejöttek.
 >
-> Czuczor, majd később Fogarasi egy 1860-as évekbeli magyar szótárában ("A magyar nyelv szótára") ezt a megközelítést alkalmazta. Gyakran soroltak fel latin, szláv, török, sőt időnként görög, héber, perzsa, mongol stb. szavakat, amelyek fonológiailag egyenértékűek a magyar szavakkal, de a szavak jelentését vagy működését mégis a magyar logikával próbálták megmagyarázni. Néha odáig mennének, hogy ötleteket adnának, hogyan lehetne magyarítani az idegen szavakat a magyarból...  
+> Czuczor, majd később Fogarasi egy 1860-as évekbeli magyar szótárában ("A magyar nyelv szótára") ezt a megközelítést alkalmazta. Gyakran soroltak fel latin, szláv, török, sőt időnként görög, héber, perzsa, mongol stb. szavakat, amelyek fonológiailag egyenértékűek a magyar szavakkal, de a szavak jelentését vagy működését mégis a magyar logikával próbálták megmagyarázni. Néha mintha odáig mennének, hogy ötleteket adnának, hogyan lehetne magyarítani az idegen szavakat a magyarból...  
 >
-> Udvariasan (gyakran így fogalmaznak: "ha szabad magyarról magyarázni a szót") és logikusan, a szavak közös gyökeit megadva járnak el. Legalábbis megpróbálják. Azaz nem mennek külföldre, hogy elvegyék a kenyeredet, vagy zaklassanak. Megpróbálják azt csinálni, amihez képzettek. Igaz, követik a németeket, pl. Adelungot és társait, de megpróbálnak valamilyen logikát használni. Az Akadémián ez már nem így van. Az Akadémiánkat megszállta az ellenség. A világ minden akadémiája pórázon van, valójában irányított. A fontos dolog számukra a *status quo* fenntartása.  
+> Udvariasan (gyakran így fogalmaznak: "Ha szabad a magyart a magyarból magyarázni") és logikusan, a szavak közös gyökeit megadva járnak el. Legalábbis megpróbálják. Azaz nem mennek külföldre, hogy elvegyék a kenyeredet, vagy zaklassanak. Megpróbálják azt csinálni, amiben képzettek. Igaz, követik a németeket, pl. Adelungot és társait, de megpróbálnak valamilyen logikát használni. Az Akadémián ez már nem így van. Az Akadémiánkat megszállta az ellenség. A világ minden akadémiája pórázon van, valójában irányított. A fontos dolog számukra a *status quo* fenntartása.  
 
 #### Götz László Keleten kél a Nap...
 
