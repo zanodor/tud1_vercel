@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-02-27T17:33"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-02-27T23:22"}
 ---
 
 
@@ -21,6 +21,7 @@
 
 **2026:**
 
+[260227CN! OLTÁSTERROR](https://rumble.com/v76dfia-260227cn-oltsterror-kubnyi-tams-ktv.html)  [https://archive.ph/V8VWg](https://archive.ph/V8VWg)
 [260226CN! JÖVŐ-MÚLT IDŐ](https://rumble.com/v76bqbq-260226cn-jv-mlt-id-kubnyi-tams-ktv.html)  [https://archive.ph/UDdm1](https://archive.ph/UDdm1)
 [260225CN! BÉKEVÁGY](https://rumble.com/v76adsm-260225cn-bkevgy-kubnyi-tams-ktv.html)  [https://archive.ph/RymfD](https://archive.ph/RymfD)
 [260224CN! A KRÍM HAZATÉRÉSE](https://rumble.com/v7680pe-260224cn-a-krm-hazatrse-kubnyi-tams-ktv.html)  [https://archive.ph/0DJEC](https://archive.ph/0DJEC)
