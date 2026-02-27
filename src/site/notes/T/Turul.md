@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-02-24T01:04"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-02-27T17:34"}
 ---
 
 
@@ -18,7 +18,7 @@ Varga Géza [ezen](https://archive.ph/bBMFh) blog posztjában adja hiteles ábr�
 
 [[M/Madár\|Madár]] címnél Érdy Miklós ![assets/Turul_image2.jpeg|fix_dark fix_light right|200](/img/user/T/assets/Turul_image2.jpeg)  adataként szerepelt az – alant adatokkal bőven jelentkező – Dúcz László cikkéből mellékelt képen is látható ordosi hun fejedelmi jelvény (korona) tetején elhelyezett madár kapcsán, hogy sasnál kisebb méretű sólymot kell keresni benne. ([[K/Kutya\|Kutya]] címnél is bemutattuk a fejék kiterített rajzát.)
 
-Itt a Turul-háznál álljunk meg egy pillanatra. A történelemhamisító finnugrász Akadémia [[A/Árpád#Árpád-ház\|Árpád-ház]]inak hívja királyainkat, de Kubínyi Tamás szerint is minimum Álmos-házinak kellene hívni, ugyanakkor már a Kézai gesta és a ![assets/Turul_image1.jpeg|right|200](/img/user/T/assets/Turul_image1.jpeg)  Képes krónika is szól arról, hogy Atilla királyi pajzsán Turul volt.  
+Itt a Turul-háznál álljunk meg egy pillanatra. A történelemhamisító finnugrász Akadémia [[A/Árpád#Árpád-ház\|Árpád-ház]]inak hívja királyainkat, de Kubínyi Tamás szerint is minimum Álmos-házinak kellene hívni, ugyanakkor már a Kézai gesta és a ![assets/Turul_image1.jpeg|right|200](/img/user/T/assets/Turul_image1.jpeg)  Képes krónika is szól arról, hogy Atilla királyi pajzsán Turul volt. (Igaz, Pap Gábor szerint "elhollósodva".)  
 
 > [!note] &nbsp;
 > Az "[[A/Árpád#Árpád-ház\|Árpád-ház]]" egy mesterségesen létrehozott elnevezés. Nincs olyan, hogy Árpád-ház. Turul-ház volt. Atilla is már Turulos pajzzsal ábrázolt volt, míg [[A/Álmos\|Álmos]] születésének legendája is ezt a leszármazást mutatja, de krónikáink is folytonosságot mutatnak Atilla és a későbbi magyar királyok közt. Az Árpád-ház kifejezés a mesterséges [[H/Honfoglalás\|honfoglalás]] és a [[F/Finnugor nyelvelmélet\|finnugor nyelvelmélet]] mellé járuló, azokat kiegészítő, alátámasztó kívánó [[T/Történelemhamisítás\|történelemhamisítás]] kútfői.
@@ -54,11 +54,11 @@ Ha már itt az Anzu szóba került, ez a név annál az [[I/Imdugud\|Imdugud]] c
 > E szócsoportba tartozik Turul szavunk a térül, gurul szavakkal együtt, s ezek az önmagába visszatérő körmozgással kapcsolatosak. Ezek a szavak szép napunk napontai útjának, visszatérésének folyamatát szemléltetik éppen úgy, mint a Nap jelképének, a köröző, térülő-forduló vadászsólyomnak, a Turul madárnak a röpte is. [[A/Arthur\|Arthur]] neve tulajdonképpen Turkát, azaz bikát, tehát Bika embert, Tűz embert, Nap embert jelent, s szerepének a visszatérés szerves része. (V.5) A magyar [[T/Tárkány\|Tárkány]] naptiszteleti méltóságnév és az etruszk származású [[T/Tarquinius\|Tarquinius]]ok nevének eredete is ide vezet. E gondolatkör a Túr folyó nevében és számos magyar helységnévben mentődött át a jelenbe. Néhány Kárpát-medencén kívüli példát felhozva ide tartoznak az angol [[T/Turn\|turn]] (fordul), `return` (visszatér), az angol-francia `tour`, a spanyol `toro` (bika; azaz Taurus is asztrális állatnév!) és `tornare` (visszatér) szavak. A Földközi tenger melletti Tarsus, az olasz Turin, a francia Tours városnevekben ősi naptiszteleti helyeket sejtek, annál is inkább, mert a bikaszarvat tartó földanya domborműve, kit bátran nevezhetünk Turán, Túr-anya első ábrázolásának, Nyugat-Európában maradt fenn a legkorábbi kőkorszakból.  
 
 Tomory Zsuzsának a Gyárfás Ágnes által [[U/Újév\|újév]] és [[K/Kalács\|kalács]] címnél taglalt, a mellékelt képen is látható témáról kellett volna beszélnie, de mivel Magyar Adorján nem tette – hisz ő csak az északi-sarki napjárásról készített rajzot (lásd [[H/Hyperborea\|Hyperborea]]; másik rajzát [[O/Obeliszk\|obeliszk]]) – így ő sem tette.  
-![Turul_image20250829221119173.jpeg|fix_dark fix_light](/img/user/T/assets/Turul_image20250829221119173.jpeg)
+![Turul_image20250829221119173.jpeg|fix_dark fix_light|840](/img/user/T/assets/Turul_image20250829221119173.jpeg)
 
 Ez a fajta [[C/Csigavonal\|csigavonal]]ú spirális mozgás az, amit a turul igeként kifejez.  
 
-[[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] A nevek titka című írásában közli, hogy [[F/Firdauszi\|Firdauszi]] a Királyok Könyve című művében ír a **Tugral** nevű madárról, amit a perzsák nagy királya Bahram Gúr kap ajándékba a kínai császártól. Ez a madár Devecseri Gábor előszavában is egy hatalmas sólyom, ami képes elkapni akár egy leopárdot is! Mind a madár neve és jellemzői a magyar Turult idézik, amely mitikus madár a türk népeknél toghrul formában jelenik meg.  
+[[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] A nevek titka című írásában közli, hogy [[F/Firdauszi\|Firdauszi]] a Királyok Könyve című művében ír a **Tugral** nevű madárról, amit a perzsák nagy királya Bahram Gúr kap ajándékba a kínai császártól. Ez a madár Devecseri Gábor előszavában is egy hatalmas sólyom, ami képes elkapni akár egy leopárdot is! Mind a madár neve és jellemzői a magyar Turult idézik, amely mitikus madár a türk népeknél `toghrul` formában jelenik meg.  
 
 Ami a torokhang-beékelést illeti a nevekben, láttunk már példát [[T/Tail\|tail]], [[H/Hail\|hail]] és más szavakban is erre. Lásd még [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]].  
 
@@ -205,8 +205,9 @@ Az ÁKA 2014. november 8-án Kubínyi Tamás által tartott Ég és Föld közö
 Az kétségtelen, hogy a madár feketével festett, és a [[H/Hét#Hét vár\|hét vár]] cím/alcímnél is taglalt Erdély címerben is – a Wikipédia sorait idézve – a magyar nemzetet a fekete turulmadár jelképezi. A címerek vizsgálata alapján viszont semmiféleképpen sem lehet hollóra, hanem akkor inkább már griffre gondolni.  
 Ami fontos itt, hogy a [[M/Madár\|madár]]ság a magyarságot és azon belül is a [[M/Magyar\|Magyar]] istenanya testén körbemenő Napot jelképezi, azaz a fehér madár a feltámadás jelképe, a fekete a nyári napfordulós váltópontra utal. Hasonló eset tehát, mint amit a szarvas kapcsán megfogalmaztunk, az önmagába visszakísérés kapcsán, de a [[J/Jin és jang\|jin-jang]] jelben is ugyanezt az elvet látjuk.  
 Tehát nem annyira (csak) az őstudás romlását kell a madárábrázolások mögött feltételezni, ahogy Kubínyi Tamás mondja, hanem ismerni kell a csillagmitológiai hátteret, és azt is felismerni, hogy a képzetek jelentőségének illetve valódi értelmük feledés bemerülésével nemcsak a torzulás, hanem két hasonló indíték megléte esetén a konfláció, az összemosás esete is fennállhat.  
+> [!check] &nbsp;
+> Azt nem mondja ki, amit Pap Gábor [itt](https://www.youtube.com/watch?v=gXjH8VA5X9E&t=2548): hogy a Képes Krónika ábrázolásain a turulmadár inkább holló alakban mutatkozik.{ #51m2cm}
 
-A többet idézett...
 
 #### Dúcz László...
 
