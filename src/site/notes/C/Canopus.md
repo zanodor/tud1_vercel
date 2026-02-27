@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2026-02-24T01:07"}
+{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2026-02-27T23:22"}
 ---
 
 
@@ -81,9 +81,9 @@ Hogy a Canopus és a Kutyacsillag fontos markerek és társak, ez leszűrhető a
 
 De maradjunk az araboknál.  
 
-#### Noah Brosch Sirius Mystery című könyvében...
+#### Noah Brosch Sirius Mystery...
 
-...szerepel az a ([[S/Szíriusz mozgása\|Szíriusz mozgása]] címnél is szereplő) adat, hogy korábban a Szíriusz a Tejút másik oldalán volt és mozgását ismételten a "déli fúrócsillag" Canopus-hoz kötötték:  
+...című könyvében szerepel az a ([[S/Szíriusz mozgása\|Szíriusz mozgása]] címnél is szereplő) adat, hogy korábban a Szíriusz a Tejút másik oldalán volt és mozgását ismételten a "déli fúrócsillag" Canopus-hoz kötötték:  
 > At this point, and considering the perceived motion of Sirius among the stars, it is interesting to mention a proposition by Gore (1903) based on one of the Arabic names of Sirius: al-schira al-abur ("Sirius which has passed across"). Gore linked this name with Al Sufi's mention of a mythological explanation that **Sirius crossed the Milky Way in the direction of Canopus**. This obviously happened during the Stone Age and, if correctly representing the human memory of an astronomical event, is truly amazing.  
 > 60,000 years ago Sirius was located on the eastern border of the Milky Way, whereas it is now located on its western border. This is the result of its proper motion, a combination of its orbit around the center of the Milky Way galaxy and of the similar motion of the Sun and Earth.  
 > —  
