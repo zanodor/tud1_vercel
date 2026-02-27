@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bizánc/","title":"Bizánc","created":"2024-10-24T16:10","updated":"2026-01-17T00:12"}
+{"dg-publish":true,"permalink":"/B/Bizánc/","title":"Bizánc","created":"2024-10-24T16:10","updated":"2026-02-27T17:36"}
 ---
 
 
@@ -15,11 +15,11 @@ Nem feltétlenül értek egyet a fentiekkel. Egyrészt nálam Bizánc olyan név
 Az ugyan lehetséges, hogy a Földre vetített zodiákusban a Vízöntőnek feleltették meg; utána kell nézni (Pap Gábor egy műsorában pl. Oroszországra vetítettnek mondta a Vízöntőt).  
 
 > [!attention] &nbsp;
-> Az is lehetséges, hogy a nevek teljesen véletlenül egyeznek és ahogy Alexander James The Hidden History of Money & Feudal Order – Usury Secrets Revealed c. írásában is [látjuk](zotero://open-pdf/library/items/JKICLJG8?page=223), Byzas király nevéből (illetve, teszem hozzá, annak eredetéből) kell kiindulni.  
+> Az is lehetséges, hogy a nevek teljesen véletlenül egyeznek és ahogy Alexander James The Hidden History of Money & Feudal Order – Usury Secrets Revealed c. írásában is [látjuk](<zotero://open-pdf/library/items/JKICLJG8?page=223>), Byzas király nevéből (illetve, teszem hozzá, annak eredetéből) kell kiindulni.  
 > 
 > #### Szántóné Veréb Irén Hollós Corvinus Hunyadi János...  
 > 
-> ...című anyagában is [elmondja](zotero://open-pdf/library/items/9WKSM2FH?page=259) ezt és mást is.  
+> ...című anyagában is [elmondja](<zotero://open-pdf/library/items/9WKSM2FH?page=259>) ezt és mást is.  
 > Folytatást lásd [[N/NISZ#^94nmbm\|NISZ]].{ #u7x5re}
 
 
