@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2026-01-01T17:05"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2026-02-27T17:34"}
 ---
 
 
@@ -22,7 +22,7 @@ Az [alábbi](https://youtu.be/Vlu5QxrwHEs) ÁKTV műsorban Czékus Jób beszél 
 
 [Ezen](https://www.youtube.com/watch?v=cqfShBeC6fI) ÁKTV műsorban János betelefonáló mondja a cigány származású Oláh Sándorról, hogy "a mondandójának helyzetértékelési fele akár rendszerint teljes igazságok elmondásán is alapulhat – mert most már ők ezt is megtehetik, hogy bizonyos igazságokat kimondjanak \[...\] de olyan célokat fogalmaz meg, az igazságokra alapozva, ami lehetetlenre irányul."  
 
-Szokták a pszichológiából ismert *priming* kifejezést is használni. Pl. [ezen](https://videa.hu/videok/nagyvilag/250905cn-uzenet-a-z-generacionak-magyar-X9LoL9WleIWatii9?start=2024) helyen Kubínyi Tamás is, de a marketing kontextusban.  
+Szokták a pszichológiából ismert *priming* kifejezést is használni. Pl. [ezen](https://videa.hu/videok/nagyvilag/250905cn-uzenet-a-z-generacionak-magyar-X9LoL9WleIWatii9?start=2024) helyen Kubínyi Tamás is, marketing kontextusban.  
 Az [előfeszítés](https://hu.wikipedia.org/wiki/El%C5%91fesz%C3%ADt%C3%A9s_(pszichol%C3%B3gia)) fordítást kicsit szerencsétlennek tartom, lehetne simán előkészítésnek nevezni. A priming nyilván akkor káros, ha szándékos megtévesztés vagy manipuláció eszköze: pl. az előadó szándékosan kihasználja a hallgatóban már meglévő pozitív asszociációt és reakciót (ismerős dolgok hallatán -> taps), hogy aztán ezt a pozitív reakciót átvigye egy olyan tartalomra, aminek igazságtartalmáról ill. potenciálisan káros hatásairól már nincs meggyőződve. Itt már van egy tudatos szándék a hallgató viselkedésének vagy véleményének manipulálására, kihasználva a korábban beépített pozitív érzéseket vagy reflexeket.  
 
 Kontrollált oppozíciónak hívta Max Igan Alex Jonest is. Azaz ezek a megmondó emberek is, ahogy egyáltalán a másik oldal is, mindig ugyanazon háttérből irányítottak.  
@@ -73,7 +73,7 @@ A csúsztatás egyik példájáról [[S/Szemitizmus#Antiszemitizmus\|antiszemiti
 
 A csúsztatás egyik példája, hogy ha [[F/Firdauszi\|Firdauszi]] megírja, hogy [[I/Irán és Turán\|Irán és Turán]] testvérek, akkor az iráni és turáni népek is egyidősnek tekintendők, nem igaz? Egy frászt. De viszont az, hogy [[S/Széth\|Széth]] is régebbi isten (igaz, korábbinak mondják), mint Ozirisz, már nem jelenthető ki, mert itt nem lehet geneológiai sorrendről beszélni. Ahogy másutt bővebben írtam, a lineáris gondolkodást ki kell dobni.  
 
-Meg kell említeni a véletlen fogalmát is. Ezen alábbi, saját csatornámra feltöltött Őszi szemeszternyitó című ÁKA [előadásban](https://www.youtube.com/watch?v=xWeQi7rQE98) Kubínyi Tamás azzal kezdi, hogy azt mondja, hogy "a véletlen a Jóisten udvariassága," mert meghagyja az embernek, "higgyed azt, hogy véletlen," de semmi sem véletlen.  
+Meg kell említeni a véletlen fogalmát is. Ezen alábbi, saját csatornámra feltöltött Őszi szemeszternyitó című ÁKA [előadásban](https://www.youtube.com/watch?v=xWeQi7rQE98) Kubínyi Tamás azzal kezdi, hogy azt mondja (Einstein nyomán), hogy "a véletlen a Jóisten udvariassága," mert meghagyja az embernek, "higgyed azt, hogy véletlen," de semmi sem véletlen.  
 Mások másutt úgy szokták mondani, hogy a tudatlan ember számára vannak véletlenek, de az aki ismeri a dolgok, a történelem menetét, a dolgok összefüggéseit, azok számára nincsenek véletlenek.  
 Kicsit hasonló, sőt, nagyon is hasonló a helyzet a háttérhatalom üzelmeinek leleplezéséhez: a legtöbb ember a háborúkat és a vírusokat véletlennek gondolja, holott nagyon is irányított eseményekről van szó.  
 Ha már itt tartunk, a jogban ismert tétel, hogy a jogszabály nem ismerete nem ment fel a bűnelkövetésre kiszabott büntetési tétel alól (tehát a Magyarországra bevándorló muszlim férfi fiatal miniszoknyás lányon elkövetett erőszakos cselekménye büntetőjogi felelősségének tudatában nem léte ellenére büntetést kap).  
