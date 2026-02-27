@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2026-01-30T22:54"}
+{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2026-02-27T17:35"}
 ---
 
 
 # Szarv
 
-## Szarv mint isteni attributum
+## Szarv mint isteni attribútum
 
 #### Péterfai János írja:  
 
@@ -182,11 +182,11 @@ A [[S/Sarab#Görög σᾰ́ρᾰβος\|sarab]] címnél előjövő görög `σ�
 > Az első tömegesen előállított és jól ábrázolt modern anatómia Andreas Vesaliusé volt, akinek a De humani corporis fabrica című műve évszázadokon át arany standard tankönyvvé vált. Vesalius 1543-ban adta ki ezt a művet – egy évtizeddel azután, hogy De Campos és kollégái szerint Michelangelo befejezte a Medici-kápolnát. Ami azonban fontosabb, Vesalius nem úgy ábrázolta a méhet, ahogy mi ma tesszük.
 >
 > Megkértem Helen King neves klasszikus tanulmányok professzorát és az ókori orvostörténet szakértőjét, hogy tisztázza a női anatómiai ismeretek idővonalát. King szerint Vesalius "nagyon eltérően mutatja be a méhet a tankönyveinkben látható képtől, a méhet és a hüvelyt egyetlen szervként kezelve, ahol a hüvely a 'méh nyaka'." Fontos megjegyezni, hogy Vesalius soha nem mutatja be a petefészkeket vagy a petevezetékeket, mert – ahogy King megjegyzi – "Falloppio csak 1561-ben nevezi el a vezetékeket." Vesalius rajza a hüvelycsatornáról kifejezetten úgy készült, hogy a pénisz képét idézze.  
-> ![assets/Szarv_image10.png|fix_light](/img/user/S/assets/Szarv_image10.png)  
+> ![assets/Szarv_image10.png|fix_dark fix_light](/img/user/S/assets/Szarv_image10.png)  
 > *Ezen az Andreas Vesalius De fabrica humani corporis című művéből származó illusztráción a hüvelycsatorna egy fordított péniszre hasonlít*. (Az alábbi oldalról véve: [https://sites.fas.harvard.edu/~chsi/bok/02.html](https://web.archive.org/web/20240818093203/https://sites.fas.harvard.edu/~chsi/bok/02.html))
 >
 > Használhatott-e Michelangelo régebbi anatómiai szöveget a női anatómiai ismereteinek megalapozásához? Ez is valószínűtlen. King megemlíti Jacopo Berengario da Carpi 1522-es Isagogae breves című szövegét, aki **a női anatómiát lényegében a férfi anatómia fordított változatának ábrázolja**[^3] – a 'női herék' és a 'spermatikus erek' mintegy a petefészkekre és a petevezetékekre hasonlítanak, de King arra a következtetésre jut, hogy "az összhatás nagyon eltér a modern tankönyvektől, és egyáltalán nem hasonlít az ökörkoponyák képére!"  
-> ![assets/Szarv_image11.jpeg|fix_light](/img/user/S/assets/Szarv_image11.jpeg)  
+> ![assets/Szarv_image11.jpeg|fix_dark fix_light](/img/user/S/assets/Szarv_image11.jpeg)  
 > *Berengario ábrázolása a méhről az Isagogae breues, perlucidae ac uberrimae, in anatomiam humani corporis a communi medicorum academia usitatam című művében.*
 >
 > Nem ez az első alkalom, hogy De Campos és kollégái az ökörkoponyákat nézve méhet látnak. Egy korábbi [cikkben](https://doi.org/10.1002/ca.22764) a tavalyi Clinical Anatomy folyóiratban ugyanígy a női reproduktív szerveknek tulajdonítják a szimbólumot Michelangelo Sixtus-kápolnájában. Annak az ötletnek a megerősítésére, miszerint Michelangelo úgy láthatta az anatómiát, ahogy mi ma, egy esetlegesen apokrif történetet idéznek Leonardo da Vinciről és két sírrablóról, akik egy testet boncoltak. Úgy gondolják, hogy Leonardo több tucat testet boncolt, de hogy átadta-e ezt a tudást – amelyet teljesen illegális tevékenységekből szerzett – megoldatlan kérdés.
@@ -241,7 +241,7 @@ Kos-Úr így a Napra utalna. Ezen utóbbiból kiindulva gondolnám azt, hogy a k
 #### Berényi László Géza Holisztikus világszemlélet 7000 éve a Kárpát-medencében...
 
 ...(a KöR-iS-TeN fraktál) c. Ősi Gyökér 2007/1. sz. megjelent cikkében, [[K/Kalács\|kalács]] címnél is szereplő képen is a [[M/Mézeskalács\|mézeskalács]] petefészek-[[A/Anyaméh\|anyaméh]] jelképiséget látjuk.  
-![assets/Szarv_image20.jpeg|fix_light](/img/user/S/assets/Szarv_image20.jpeg)  
+![assets/Szarv_image20.jpeg|fix_dark fix_light](/img/user/S/assets/Szarv_image20.jpeg)  
 
 [[S/Szív\|Szív]] címnél szintén volt szó a témáról.  
 [[B/Béka\|Béka]] és [[H/Hysteria\|hysteria]] címnél a méh békához való hasonlításáról volt még szó. Sőt, legutóbb egy teoretikus [[B/Béka csillagkép\|Béka csillagkép]] is született a Bak alteregójaként: tehát nemcsak a Kos, hanem a Bak csillagkép is anyaistennő-anyaméh vonatkozású lehet. Ezen témához kapcsolható lenne az alábbi korábban itt álló adat:  
@@ -252,7 +252,7 @@ A [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] címnél taglalt méh
 #### Greg Rigby The God Secret...
 
 ...című könyvének 93. oldalán bemutatott [[I/Ízisz\|Ízisz]]t ábrázoló képen is helyesen a szarvak által körülhatárolásban kelyhet vesz észre (előbb azt gondoltam, hogy itt a Nap kétszer is szerepel; a szarvak közt és a [[H/Hórusz\|Hórusz]]ként a karjában tartva.  
-![assets/Szarv_image22.jpeg|fix_light](/img/user/S/assets/Szarv_image22.jpeg)  
+![assets/Szarv_image22.jpeg|fix_dark fix_light](/img/user/S/assets/Szarv_image22.jpeg)  
 Ugyanakkor [[I/Ízisz\|Ízisz]] címnél, külön alcímnél Szék/Trónus, azaz Sarkcsillagról is volt szó, és [[C/Csudaszarvas\|Csudaszarvas]] címnél homlokról is, azaz ezen képzetek Egyiptomban már egyszerűsítettek). A kehely a [[M/Mozsár\|mozsár]]hoz hasonlóan méhjelkép, azaz a méh és szarvak összefüggését itt is megtaláljuk.  
 
 #### Magyar Adorján írja:  
