@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated"],"created":"2024-05-09T22:32","updated":"2025-11-19T01:39"}
+{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated"],"created":"2024-05-09T22:32","updated":"2026-02-27T17:35"}
 ---
 
 
@@ -9,7 +9,7 @@ Ami az alábbiakban megfogalmazásra kerül, abból kiderül, hogy az önazonos�
 Különösen a [[G/God\|God]] és [[K/Khuda\|Khuda]] címnél taglalt perzsa `khod` kapcsán írottakat értelmezve érthető ez meg, de mint kiderül, a török nyelvben is hasonló esetet találunk: a nyilván [[I/Isten\|Isten]] szavunk csonkulásaként vehető török `üst` = ős, előd, felettes, szülő párjának tartható az alant említett `öz` = önmaga szócska.  
 
 Az [[E/Ember – régi ember\|ember – régi ember]] magát nem a testével, hanem a [[S/Szellem\|szellem]]ével, fénytermészetével, fénnyel (Nappal) azonosította. (Ez megegyezik Grandpierre Atilla Lélek és a világegyetem című könyvében megfogalmazottakkal[^1].)  
-"Énazonosításnak" is hívhatnók, hiszen Én = [[E/EN\|En]] = Isten(i lény(em)). A [[S/Személyes névmások\|személyes névmások]] a magyar nyelvben, egyes számban, istennevek, írja Péterfai János is. Én és ön is az [[A/AN, ÁN\|AN, ÁN]] = ég (egy, isten(anya)) változata, felhangos párja.  
+"Énazonosításnak" is hívhatnók, hiszen Én = [[E/EN\|En]] = Isten(i lény(em)). A [[S/Személyes névmások\|személyes névmások]] a magyar nyelvben, egyes számban, istennevek, írja Péterfai János is. `Én` és `ön` is az [[A/AN, ÁN\|AN, ÁN]] = ég (egy, isten(anya)) változata (vö. sumér `AN` = ég, menny), felhangos párja.  
 
 Lényegében mi a hun [[A/AN, ÁN\|AN, ÁN]] = ég, menny szavunk nyomán használjuk én szavunkat, a perzsa `man` = én a [[M/Men\|menny]] szóból (a tamilban is `nan`) (lehet persze mindkettő pusztán `én` előtételezése, a latin [[E/Ego\|ego]], germán `ich` és társai pedig a magyar [[E/Ég\|ég]] szóból indulnak ki: mindegyik annak bizonyításául szolgál, hogy az emberek ismerték eredetüket. A népek nevei is hasonlóan alakultak ki, ahogy az országok nevei is.  
 
