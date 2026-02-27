@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2026-02-24T01:05"}
+{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2026-02-27T17:35"}
 ---
 
 
@@ -255,7 +255,7 @@ Fentebb pedig [[Y/Yama\|Yama]]-ra mondták, hogy Szaturnusz, holott az Ikrekkel 
 Ezt az oppozíció témát, amely az asztrológiai síkon is tárgyalásra került, úgy is meg lehet magyarázni, hogy télen a szemközti, Orion csillagképet látjuk és télen Szaturnusz uralkodik (az, hogy a Bak és Vízöntő jegyekben uralkodik, azt jelenti, hogy a Nap akkor gyenge). Ergo az egész egy rendszerben értelmezhető, de a bolygó Szaturnusz leginkább asztrológiai minőségét, sötét minőségét tekintve értelmezendő (már maga a [[S/Satyr\|Satyr]] és Szatur nevek Söt-Úr értelműek ugye). Orion pedig az a hely, ahová érve a Nap a sötét térfélbe lép.  
 
 Az asztrológiánál maradva, Pap Gábor a Képes Krónika Atillát bemutató képei közül, amikor a Szaturnusszal azonosít, ezt mondja:  
-> 2\.  **Szaturnusz:** Egy másik kép Atillát beesett arccal, sötét szakállal, szigorú tekintettel ábrázolja, lábak nélkül [32:04](https://www.youtube.com/watch?v=gXjH8VA5X9E&t=1924). Ez a sötét, lassú, határt kijelölő Szaturnusz tulajdonságait fejezi ki [32:25](https://www.youtube.com/watch?v=gXjH8VA5X9E&t=1945).
+> 2\.  **Szaturnusz:** Egy másik kép Atillát beesett arccal, sötét szakállal, szigorú tekintettel ábrázolja, lábak nélkül [32:04](https://www.youtube.com/watch?v=gXjH8VA5X9E&t=1924). Ez a sötét, lassú, határt kijelölő Szaturnusz tulajdonságait fejezi ki [32:25](https://www.youtube.com/watch?v=gXjH8VA5X9E&t=1945).  
 > ![Szaturnusz_image20260221111410775.jpeg](/img/user/S/assets/Szaturnusz_image20260221111410775.jpeg)
 
 A [[K/Kovács\|kovács]]istenségekkel kapcsolatosan is előjött, hogy Orion-beli és szaturnuszi alakok lehetnek.  
