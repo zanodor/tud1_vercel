@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Th/","title":"Th","created":"2023-10-21T04:27","updated":"2025-09-24T00:10"}
+{"dg-publish":true,"permalink":"/T/Th/","title":"Th","created":"2023-10-21T04:27","updated":"2026-03-03T17:23"}
 ---
 
 
@@ -23,6 +23,8 @@ Grandpierre Atilla is szól arról, hogy édesapja Thargitaosz nevének elemzés
 
 Könnyen lehet, hogy a Magyar Adorján által is adatolt görög `talassza` = tenger is \*thalassza, azaz halászattal kapcsolatos, bár az alábbiak alapján nem valószínű:  
 A Magyar Adorján által adatolt német (azaz őstörök) `tal` = völgy szó egyezik az angol [[D/Dale\|dale]] = völgy szóval is, továbbá a mai török `dalga` = hullám szóval is azonos, amely török szó egyik származéka a szerb `talasz` = hullám, a másik pedig a görög `talassza`, `talatta` = tenger szó.  
+> [!note] &nbsp;
+> Én ettől fenntartom a lehetőségét, hogy a `hal` és `halas` szavainkkal egyező homéroszi ógörög `hals` = tenger szó nyomán alakulhatott ki a görög `thálassa` = tenger.
 
 ## Török adatok
 
