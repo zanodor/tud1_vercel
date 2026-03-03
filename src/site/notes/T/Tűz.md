@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2026-02-24T01:05"}
+{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2026-03-03T17:21"}
 ---
 
 
@@ -203,7 +203,9 @@ A Yaroslav Kesler The Perception of Open-Ended Time című cikkében talált per
 - Ates viszont nem biztos, hogy a mi [[A/A#'A' a nevek elején (névelő?)\|a]] névelőnket tartalmazza, mert az At lehet Ata.
 
 > Mordvául `tolso` = tűz, kirgisül `tuz`, keltául is `tez` = chaleur, `tezi` = echauffer, `tezet` = echaufé Bullet szótárában. ([Lásd 51. old.](zotero://open-pdf/library/items/DFI47XPY?page=51&annotation=JFX56VHM))  
-> A finn s tatár nyelv ágazatokban `tu`, `tü`, `tui`, `dju`, `duy`, `tüt`, `tut`, `tayt`, `tat`, `tua`, `tul`, `tuli`, `tulli`, `tol`, `tjud`, `thui` alaki változásokban áll fenn, mongolul `tolo`, `tulitzchi` = tüzelek. A zendavesta emliti már **Tuz** folyó vizet és hegyet, a keleti Iránban lakó Tasi, vagy Thazi nép fajt, melynek ivadékai Halling szerint az áfghánok, **Tuz-kul** ma is Musztág hegy tövében kirgisül tűz forrást jelent, török neve Isse-kul (= üszegös tó), Abulghasiban Isäkh-kol, Ruschi deddiben Isch-kel. ([Lásd 51. old.](zotero://open-pdf/library/items/DFI47XPY?page=51&annotation=N837Y6PH))  
+> A finn s tatár nyelv ágazatokban `tu`, `tü`, `tui`, `dju`, `duy`, `tüt`, `tut`, `tayt`, `tat`, `tua`, `tul`, `tuli`, `tulli`, `tol`, `tjud`, `thui` alaki változásokban áll fenn, mongolul `tolo`, `tulitzchi` = tüzelek. A zendavesta emliti már **Tuz** folyó vizet és hegyet, a keleti Iránban lakó Tasi, vagy Thazi nép fajt, melynek ivadékai Halling szerint az áfghánok, **Tuz-kul** ma is Musztág hegy tövében kirgisül tűz forrást jelent, török neve Isse-kul (= üszegös tó), Abulghasiban Isäkh-kol, Ruschi deddiben Isch-kel. ([Lásd 51. old.](zotero://open-pdf/library/items/DFI47XPY?page=51&annotation=N837Y6PH))
+{ #j92wds}
+
 
 Kállay Ferenc A pogány magyarok vallása című könyvében a [49. oldalon](zotero://open-pdf/library/items/DFI47XPY?page=49&annotation=B76Y8LYQ) írja, hogy a régi Dahák, vagy Tahiak [[T/Tesi\|Tesi]] nevü istent tiszteltek.  
 [[N/Nap#^DFI47XPY-6XD2NEY2\|Másutt]] is szóba került.  
