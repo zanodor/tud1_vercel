@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szómegfordítás/","title":"Szómegfordítás","tags":["containstransclusions","titleandheadingonedontmatch"],"created":"2026-02-09T17:32","updated":"2026-02-09T17:33"}
+{"dg-publish":true,"permalink":"/S/Szómegfordítás/","title":"Szómegfordítás","tags":["containstransclusions","titleandheadingonedontmatch","containscallouts"],"created":"2026-02-09T17:32","updated":"2026-03-03T18:27"}
 ---
 
 
