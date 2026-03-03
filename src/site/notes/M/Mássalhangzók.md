@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók/","title":"Mássalhangzók","tags":["Englishtexttranslated"],"created":"2024-04-28T20:59","updated":"2025-09-24T13:56"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók/","title":"Mássalhangzók","tags":["Englishtexttranslated"],"created":"2024-04-28T20:59","updated":"2026-03-03T17:23"}
 ---
 
 
@@ -8,6 +8,8 @@
 #### Péterfai János írja:
 
 > A mássalhangzók kialakulása hosszú folyamat volt. Talán több millió évig tartott. Természetesen ma is tart a mássalhangzók evolúciója. Ma már azt láthatjuk, hogy a magyar szavak értelmét a mássalhangzók hordozzák, mint a mondatok értelmét is. Ilyen nyelvek még a hámi-sémi nyelvek, amelyek kétségtelenül a magyar nyelvből erednek. A mássalhangzók a hangképzés fejlődése során lassan alakultak ki, de végül háttérbe szorították, bizonyos mértékig, a magánhangzók jelentésének fontosságát.  
+
+![Mássalhangzók_image20260303151253086.jpeg|fix_dark fix_light|840](/img/user/M/assets/M%C3%A1ssalhangz%C3%B3k_image20260303151253086.jpeg)
 
 ![assets/Mássalhangzók_image1.png|fix_dark fix_light|840](/img/user/M/assets/M%C3%A1ssalhangz%C3%B3k_image1.png)  
 ![assets/Mássalhangzók_image2.png|fix_dark fix_light|840](/img/user/M/assets/M%C3%A1ssalhangz%C3%B3k_image2.png)  
