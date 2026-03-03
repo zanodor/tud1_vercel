@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Stonehenge/","title":"Stonehenge","created":"2026-02-09T17:00","updated":"2026-02-09T17:01"}
+{"dg-publish":true,"permalink":"/S/Stonehenge/","title":"Stonehenge","created":"2026-02-09T17:00","updated":"2026-03-03T18:29"}
 ---
 
 
@@ -42,5 +42,5 @@ Adalék: egy olyan sír, amelyben öt értékes tárgynál többet találtak, m�
 Az interneten (YouTube-on) keringenek olyan, \[Fomenko adataira támaszkodó?\] orosz forrásból kikerült hírek, hogy Stonehenge 1950 körül angol mérnökök által épített lett volna és az egész csak egy kacsa.  
 Nos, [ezen](https://www.youtube.com/watch?v=IzTTaGfkY6s) videó alapján csak kiásták volna a köveket és visszavitték volna (ha nem is biztos, hogy ez eredeti köveket).  
 
-Ezzel minden kérdést megválaszoltunk. Illetve még nevét nem. "Isten honá"-nak írják egyesek, de inkább "Isten hegyé"-hez (helyéhez) hasonló a neve, de lehet Szent Hegy: lásd tagjait külön [[S/Stone\|stone]] és [[H/Henge\|henge]]. Ottan írtak alapján Csont Hegy is lehetne neve; lényegében [[C/Csont\|csont]] a [[S/Szent\|szent]] szavunk változata.  
+Ezzel minden kérdést megválaszoltunk. Illetve még nevét nem. "Isten honá"-nak írják egyesek, de inkább "Isten hegyé"-hez (helyéhez) hasonló a neve, de lehet Szent Hegy. Ottan írtak alapján Csont Hegy is lehetne neve; lényegében [[C/Csont\|csont]] a [[S/Szent\|szent]] szavunk változata.  
 Lásd még "körke" [[C/Church\|church]].  
