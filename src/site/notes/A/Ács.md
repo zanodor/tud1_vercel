@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ács/","title":"Ács","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-05-29T14:33","updated":"2025-11-08T23:15"}
+{"dg-publish":true,"permalink":"/A/Ács/","title":"Ács","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-05-29T14:33","updated":"2026-03-03T17:22"}
 ---
 
 
@@ -56,7 +56,7 @@ Fentebb két ízben is előjött a két alak közös nevezőre hozatala. [[A/ANA
 { #250526}
 
 
-Hasonlóan lehet Ács változata Acsa. De ahogy láttuk, [[B/Barát\|barát]] eredetije Barata szintén (ATA > Át (Ád, Ad)). Sőt, Kubínyi Tamás műsorában hallottam Lehel/Lél alternatív Lele nevét is. [Ezen](https://de.wikipedia.org/wiki/Lehel_(Ungarn) Wiki oldal is így nyit. Tímár Sándor nevét is Timaru-nak írja (Timaru Kast Sándor).  
+Hasonlóan lehet Ács változata Acsa. De ahogy láttuk, [[B/Barát\|barát]] eredetije Barata szintén (ATA > Át (Ád, Ad)). Sőt, Kubínyi Tamás műsorában hallottam Lehel/Lél alternatív Lele nevét is. [Ezen](https://de.wikipedia.org/wiki/Lehel_(Ungarn)) Wiki oldal is így nyit. Tímár Sándor nevét is Timaru-nak írja (Timaru Kast Sándor).  
 
 A fentebb említett Quora válaszban angolul megfogalmazva (szokás szerint a magyar fordítást is adom):  
 > \*Acsa is a word created similarly to `Utu` (compare `Út`), and `Uru` (compare `Úr`). Both utu and uru are known examples from linguistic textbooks/treatises. It was an old language feature to have a vowel end the word (similarly to how Japanese words work; e.g. English `beer` > `biru`). I think of these as balancers, but we can also say that there used to be no long vowels (like there are no long vowels today in many languages and they account for 'á' with 'aa' or 'ah') and with the back vowel knocked off, extra emphasis was placed on the first vowel to make it long. Uru > Úr and Utu > Út developments also show the same feature. Hence I used \*Acsa as a theoretical predecessor or equivalent to `Ács`.  
@@ -79,7 +79,7 @@ Az "abovementioned items in the word groups" ezek voltak, angol jelentésekkel (
 > Ász = `Íz` \['izzó, tüzes rész'\] Isz = `Isa` \['árnyéklélek', 'isteni lényeg'; vö. latin `esse`\] = `Ős` > **Isa**, **Issa** = [[J/Jézus\|Jézus]] eredeti neve. (Jézus nevének és az eredeti Bibliának eredetileg semmi köze a szemitákhoz. A héber tűz (`esh`) és ember (`ish`) szavak is egy turáni/szkíta-hun (jász-filisztáni) előrétegből származnak, amely eredetileg egy olyan nyelv volt, amelyet magyarnak nevezhetünk, vagy annak egy dialektusa volt).  
 - Ahogy [ezen](https://qr.ae/pY7SkZ) másik Quora válaszban is említem, a görög `tektón` sem annyira ács, mint teremtő.
 - Az íz mentén, ha már felette agyról volt szó, [[E/ÉSZ\|ész]] szavunkat is bevehettem volna.
-- Az ainu `aca` = apa (atya) szóra is kitérhettem volna.
+- Az ainu `aca` = apa (atya), (nagy)bácsi szóra is kitérhettem volna.
 
 [[M/Mássalhangzó, szóvégi\|Szóvégi mássalhangzó]] címnél szerepelt...  
 
