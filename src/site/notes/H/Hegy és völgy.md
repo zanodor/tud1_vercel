@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2026-01-17T00:11"}
+{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2026-03-03T17:23"}
 ---
 
 
@@ -107,7 +107,8 @@ rec1 -r-> w1 : A hegy a mennyig ér
 rec3 -r-> w3 : A hegy az égig ér (Ég hehezetesen és lágyítva: Hegy)
 rec2 -r-> w2 : Föld és Hold nőiség (GÉ = ÉG megfordítása)
 @enduml
-```{ #u7jgmo}
+```
+{ #c6c2w7}
 
 
 A hegy és völgy jelentésű szavakban közös még, hogy az [[E/Életkör\|életkör]] is megvan bennük, hiszen az életkör "szinusz-görbésítése" a hullám. Például a [[K/KUR\|KUR]] is állhat hegy és alvilág jelentéssel, de a K-R váz a kör váza is. Életkör-diagramokat lásd [[D/Deer\|deer]], [[K/Kut\|kut]] és [[M/MISZ\|MISZ]]. Egyéb adatokat [[S/Szakrális geometria\|szakrális geometria]].  
