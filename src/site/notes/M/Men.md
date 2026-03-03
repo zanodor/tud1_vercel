@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Men/","title":"Men","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-09-28T19:59","updated":"2026-01-05T21:37"}
+{"dg-publish":true,"permalink":"/M/Men/","title":"Men","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-09-28T19:59","updated":"2026-03-03T17:21"}
 ---
 
 
@@ -277,7 +277,12 @@ A kazah `emen` = tölgy E-Men, Háza a Mennynek olvasatú lehet (a tölgy ágai 
 Götz László Keleten kél a Nap című könyvének 166-167. oldalán szumér-germán szavak párhuzamait bemutató szavak között találjuk a szumér `MEN` = korona, diadém szó mellé téve az óskandináv `men` = nyakék, nyaklánc szót. Az óegyiptomiban is megvan hasonló jelentésű szó (`mani` = nyaklánc).  
 A Kállay Ferenc A pogány magyarok vallása című könyvének [277. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=277&annotation=HKNVM3X6) hozott görög `manos`/`mannos` = egyfajta dísz, a zsidó `menik` (Dániel 5. 7.) a `meni` bálvány ékessége, melyeknek megfelel az egyiptomi szóval alakjában és jelentésében azonos szanszkrit `mani` = nyaklánc.  
 A Götz László féle táblázat egy a fentihez tartozó másik része:  
-![assets/Men_image5.png|fix_light](/img/user/M/assets/Men_image5.png)  
+
+| óegyiptomi       | szumér                       | akkád-asszír    | indogermán                            | magyar                          |
+| ---------------- | ---------------------------- | --------------- | ------------------------------------- | ------------------------------- |
+| MAN (valaki)     | MAN (kettő, társ)            | MIN (valaki)    | ném. MAN (ember)<br>je-MAN-d (valaki) | MON-no (kettő)                  |
+| MAN-i (nyaklánc) | MEN (diadém, korona, ékszer) | MÊN-u (fejkötő) | lat. MON-ile (nyakperec)              | MENY-asszony (a „felékesített”) |
+
 Nyilván az – akkád-asszír `mênu` = fejkötő jelentése alapján is kikövetkeztetett – menyasszony nem "felékesített" jelentésű, mert a magyar a kiinduló.  
 - Ahogy [[M/Moon#Hold idegen nevei\|moon]] címnél is írtuk, az alábbi logikai kapcsolatot lehet feltárni:  
 ```plantuml-svg
@@ -336,7 +341,7 @@ Megint másutt is kitér erre:
 
 Másutt is szerepelt az alábbi ábra:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/H/Hegy és völgy/#u7jgmo" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/H/Hegy és völgy/#c6c2w7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
