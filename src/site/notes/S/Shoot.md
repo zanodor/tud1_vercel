@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Shoot/","title":"Shoot","tags":["Englishtexttranslated"],"created":"2024-11-05T19:18","updated":"2026-02-13T23:28"}
+{"dg-publish":true,"permalink":"/S/Shoot/","title":"Shoot","tags":["Englishtexttranslated"],"created":"2024-11-05T19:18","updated":"2026-03-03T18:28"}
 ---
 
 
@@ -71,7 +71,8 @@ iv_magyar --> ov_magyar : alakpár
 ved_magyar --> ov_magyar : véd-óv
 
 @enduml
-```{ #250503}
+```
+{ #250503}
 
 
 Ő mondjuk [[S/Sk-\|sk-]] előtétes változatát veszi olyan szavaknak, melyek ugyanezt jelentik és a bőr (mint védelmet jelentő burok?) jelentésű másutt is említett szó *alá* sorolja őket.  
