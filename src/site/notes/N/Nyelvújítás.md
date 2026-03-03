@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nyelvújítás/","title":"Nyelvújítás","created":"2024-05-11T00:40","updated":"2024-10-25T23:37"}
+{"dg-publish":true,"permalink":"/N/Nyelvújítás/","title":"Nyelvújítás","created":"2024-05-11T00:40","updated":"2026-03-03T17:23"}
 ---
 
 
