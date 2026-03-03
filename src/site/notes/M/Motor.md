@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/M/Motor/","title":"Motor","created":"2023-10-20T12:57","updated":"2024-10-25T23:32"}
+{"dg-publish":true,"permalink":"/M/Motor/","title":"Motor","created":"2023-10-20T12:57","updated":"2026-03-03T17:23"}
 ---
 
 
 # Motor
 
 Magyar eredetű szó, a mot a mozgás szava. 
-Azaz amikor Kubínyi Tamás arról szól, hogy Jedlik Ányos villámdelejes forgonyának (a világ első egyenáramú villanymotorja volt, mely Győrben egy gimnázium szertárában született, 1828-ban) nevében a forgony jobb szó magyarként, mint az idegen `motor`, jegyezzük meg, hogy csak idegennek hangzik, de eredete magyar.  
+Azaz amikor Kubínyi Tamás arról szól, hogy Jedlik Ányos villamdelejes forgonyának (a világ első egyenáramú villanymotorja volt, mely Győrben egy gimnázium szertárában született, 1828-ban) nevében a forgony jobb szó magyarként, mint az idegen `motor`, jegyezzük meg, hogy csak idegennek hangzik, de eredete magyar.  
 
 [[M/Motolla\|Motolla]] szavunk is létezik, például...
 
