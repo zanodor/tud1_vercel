@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ad/","title":"Ad","tags":["containscallouts"],"created":"2024-11-23T04:59","updated":"2025-09-28T21:27"}
+{"dg-publish":true,"permalink":"/A/Ad/","title":"Ad","tags":["containscallouts"],"created":"2024-11-23T04:59","updated":"2026-03-03T17:23"}
 ---
 
 
@@ -17,7 +17,7 @@ Gyárfás Ágnes A szakrális nyelv ![assets/Ad_image2.jpeg|fix_dark fix_light r
 > Hadad istent is akkádnak minősítik, holott a név magyar eredetű. A Had-Ad két szó magyar nyelvű. A Hadak Atyja a háború istene. Mezopotámiában és Föníciában is tisztelték, Föníciában a Háborúk istene. A magyar "Te Hadad jó Had" mondatban is megkapjuk Hadad nevét, de nem erről van szó. Sémiül a Hadad Éles lenne, ami óriási tévedés. A Had a seregek neve, amelyek katonákból állnak, a székelyeknél a Hadak valójában törzsek. A Had egy vezér utáni harcos sereg, a Had szónak sok rokona van. Az alapszó a Ha, amiből ered a Hat, Hát, Ház, Has, Haus, és egyebek, mind Ház értelemmel.  
 > Az Ad alapvetően magyar ige, az Atya, Ada fogalom alapja. Mindig az Ad, Ada ad, és az Anya kap, ez Isten Atya rendelése. Az Ad a szumir nyelvben is Ad, Ada, Adda formában van jelen, mindig Atya jelentéssel. Az At, Ata, Atta zöngétlen változat is mindig Atya értelmű. De az Ad olykor Nap értelmű, a Da változata. A Megfordítások tudománya rendkívül nehéz tudomány, magam nem is merészelem belevetni ennek a nagy tudománynak a vizsgálatába. Táncsics Mihály bezzeg megtette. A Da Nap, mint a Szer-Da nevünkben, vagy az angol `Day` névben, de az Ad mégis mindig férfi, ellenben a Da női minőség, a Földanya neve. Adam, Ádám az emberiség egyik ősatyja, férfi, tehát az Ad ige képződménye. A magyar Ada város férfitől eredő név, a zsidó Ada név női név. Had-Ad egyértelműen tehát a magyar nyelv szerint a Hadak Atyja, és nem nője. Régebbi megfelelője a magyar mitológiában fennmaradt Tűzkovács Király, akinek nevéből állítólag keletkezett Hadúr isten neve. A Had Úr bizonyára régebbi, mint Had Ad neve, de mind a két név a hadak isteni urainak a nevét jelentik számunkra.  
 
-Itt még csak egy észrevételt tennék, hogy ad megfeleltethető [[E/Egy\|egy]] szóalakjával is. [[F/Flexió\|Flexió]] címnél is szerepelt az alábbi diagram:  
+Itt még csak egy észrevételt tennék, hogy ad megfeleltethető [[E/Egy\|egy]] szóalakjával is. [[F/Flexió\|Flexió]] és [[C/Csuda\|csuda]] címnél is szerepelt az alábbi diagram:  
 ```plantuml-svg
 @startuml
 skinparam BackGroundColor transparent
@@ -28,7 +28,6 @@ skinparam card {
     roundCorner 15
     BackgroundColor #f9f5d7
 }
-
 rectangle "<b>EGY</b>" as head {
 }
 card "Ad, Atya" as w1 {
@@ -41,13 +40,13 @@ card "Ács" as w4 {
 }
 card "UTU" as w5 {
 }
-
-head -right-w1
-head --w2 : <color:#e7545c>Ishten</color> akkádul egy(etlen)
-w1 --w3 : **Ás** germán istencsoport neve, óangol <color:#e7545c>os</color> = isten
-w1 --w4
-head --w4 : Jézus ácsként isteni\nmunkát végez (teremtés)
-head -up->w5 : Sumér **Utu** napisten
+head -right- w1
+head -- w2 : "<color:#e7545c>Ishten</color> akkádul egy(etlen)"
+w2 -- w3 : "**Ás** germán istencsoport neve, óangol <color:#e7545c>os</color> = isten"
+w1 -- w4
+head -- w4 : "Jézus ácsként isteni\nmunkát végez (teremtés)"
+w5 -down-> w1 : "Sumér **Utu** napisten"
+head -up- w5
 @enduml
 ```
 
