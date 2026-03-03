@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/UTU/","title":"UTU","tags":["containstransclusions"],"created":"2024-11-23T05:02","updated":"2025-09-24T13:16"}
+{"dg-publish":true,"permalink":"/U/UTU/","title":"UTU","tags":["containstransclusions"],"created":"2024-11-23T05:02","updated":"2026-03-03T17:23"}
 ---
 
 
@@ -18,7 +18,6 @@ skinparam card {
     roundCorner 15
     BackgroundColor #f9f5d7
 }
-
 rectangle "<b>EGY</b>" as head {
 }
 card "Ad, Atya" as w1 {
@@ -31,13 +30,13 @@ card "Ács" as w4 {
 }
 card "UTU" as w5 {
 }
-
-head -right-w1
-head --w2 : **Ishten** akkádul egy(etlen)
-w1 --w3 : **Ás** germán istencsoport neve, óangol **os** = isten
-w1 --w4
-head --w4 : Jézus ácsként isteni\nmunkát végez (teremtés)
-head -up->w5 : Sumér **Utu** napisten
+head -right- w1
+head -- w2 : "<color:#e7545c>Ishten</color> akkádul egy(etlen)"
+w2 -- w3 : "**Ás** germán istencsoport neve, óangol <color:#e7545c>os</color> = isten"
+w1 -- w4
+head -- w4 : "Jézus ácsként isteni\nmunkát végez (teremtés)"
+w5 -down-> w1 : "Sumér **Utu** napisten"
+head -up- w5
 @enduml
 ```
 
