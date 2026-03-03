@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2026-02-27T17:35"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2026-03-03T17:21"}
 ---
 
 
@@ -225,6 +225,13 @@ A [[K/Khuit\|Khuit]] címnél szereplő Edward P. Butler Henadology című blogj
 ...című [[A/Ápisz\|Ápisz]] címnél is taglalt cikkében kiderül (Plutarchos révén is), hogy mind Széth és Ozirisz alakja kapcsolódik Ápiszhoz:  
 > Hórusz szintén harcba indult, mint Gilgames. A Bika figuráját az egyiptomiak is a büntetéssel, halállal kötötték össze, Bika jegyük magába olvasztotta a Plejádokat. A Bika legfényesebb csillaga káld\[?\] Al Debaran 'követő, vezető' jelentéssel használták. Béta csillagát az arabok El Nathja 'sebesült' vagy 'leölt' értelmű szóval jelölték. Hórusz "az erős bika" többször is háborút indított Széth ellen, aki trónkövetelő volt. A Bika eredeti színe azonban vörösesbarna, az egyiptomi áldozati rítusok előírták a vörös szín használatát például a káosz erőit jelképező viaszfiguráknál. Széth a káosz erőit képviselte. Küzdelme során Hórusz a Széth bikát ökörré változtatta. A másik, [[E/Egyiptomi szalag zodiákus\|egyiptomi szalag zodiákus]] ábrázoláson viszont Ápisz bika tűnik fel Ozirisz lelkét képviselve. Plutarkhosz is hivatkozik rá, hogy egyfajta misztikus egység van a két isten között.  
 - Mivel Ozirisz és Széth Orion Jupiter és [[S/Szaturnusz\|Szaturnusz]]i részéhez köthetők, azaz a világos és [[S/Sötét oldal\|sötét félév]]hez, a bikák színe de legalábbis kettőssége is innen származik.
+
+## Fehér és fekete kakas
+
+#### Jankovics Marcell A Nap könyve...
+
+...című könyvének adatai:  
+> A muszlimok a fehér kakast a Próféta szent madarának tartják, mivel – úgymond – a kakasszó imára hív, és angyal jelenlétére figyelmeztet. A palesztin arabok kukorékolást utánozva kérnek esőt Istentől. A fekete kakas értelemszerűen mindennek az ellenkezőjét jelenti. Érdekes viszont, hogy közismert fekete madaraink, a holló és a varjú, bár a közhit gyászmadárnak tartja őket – mert kárognak és mert dögevők, ezért lettek lélek(vivő)-madarak is –, sokhelyütt mégis napszárnyasok voltak, persze mint halálmadarak, az éj sötétjébe merülő Nap lelkének megtestesítői.  
 
 ## Fehér és fekete patak
 
