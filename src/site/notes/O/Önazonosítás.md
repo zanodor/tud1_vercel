@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated"],"created":"2024-05-09T22:32","updated":"2026-02-27T17:35"}
+{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated"],"created":"2024-05-09T22:32","updated":"2026-03-03T17:22"}
 ---
 
 
@@ -53,7 +53,8 @@ Ahogy fentebb szerepelt, a magyarban természetesen a [[M/Maga\|maga]][^4] [[M/M
 Az angol [[S/Same\|same]] = ugyanaz jelentése az önazonosítás folytán ilyen jelentésű. Feltűnő, illetve csak érdekes, hogy a svéd-lapp nyelven is `sámi` = ugyanaz jelentésű: nyilván a szuomi finnek olyan önazonosító szava, mint a komiknál a komi, magyaroknál a magyar, stb.  
 Same itt nyilván szem(ély azonosító): éppúgy, ahogy a sumér-akkád vagy szemere nyelvben [[S/Samas\|Samash]] (szemes) a Nap neve volt (Szumer pedig Szem-Úr népe). De az orosz eredetű [[S/Samovar\|samovar]] szó előtagja is önmaga jelentésű.  
 [[I/Identity\|Identity]] szóban Isten [[I/ID\|ID]] illetve [[E/Egy\|egy]] (vesd össze latin `idem`) neve vagy a Nap [[U/UD\|UD]] neve szerepel, ahogy a görög [[A/Auto\|auto]] szóban is a Nap jelentésű [[U/UTU\|UTU]]/UTO etimon.  
-A sumér [[L/LU\|LU]] = ember (honnan [[L/Lugal\|Lugal]] = Nagy Ember) szóról tudjuk, hogy alapjelentése fény (a LU piktogramnak is). Ebből is jól látszik, hogy ez ember a fénnyel azonosította magát.  
+
+Egy másik fontos dolog: a sumér [[L/LU\|LU]] = ember (honnan [[L/Lugal\|Lugal]] = Nagy Ember) szóról tudjuk, hogy alapjelentése fény (a LU piktogramnak is). Ebből is jól látszik, hogy ez ember a fénnyel azonosította magát.  
 
 Kandra Kabos Magyar Mythologia című könyvének 259. oldalán az ember szavunkat elemző Réthy László anyagának bemutatása során kiderül, hogy a lapp `almač`, `olmuš` = ember szót a nyelvészek a lapp `alme` = ég (párhuzama a finn `ilma` és vogul `elm` = lég) szóból eredeztetik.  
 
@@ -64,11 +65,11 @@ Hasonló kínai példát ír le Péterfai János, mely ide tehető szintén:
 - Viszont ezen szavak hitelességével kapcsolatban fenntartásai voltak [[F/Flink Attila\|Flink Attilá]]nak is, így vigyázni kell velük.
 
 Az [[I/Íz\|íz]] és főleg [[I/Isa\|isa]] címnél taglalt föníciai és héber szavakat elnézve azt mondhatjuk, hogy az isten valóban lehet \*ősten (a legelső őse az embernek isten) (de lásd még [[U/Üst\|üst]] címnél írottakat is), ill. akkor, ha az is = az isteni lényeg ([[I/Íz\|íz]] = árnyéklélek is), ami ugye bennünk is megvan (ezen sor [[O/Ős\|ős]] címnél is megvolt és [[I/Isten\|Isten]] címnél is újra vettük a témát).  
-Még mindig ezen szó kapcsán, ...
+Még mindig ezen szó kapcsán, Grandpierre Atilla Karácsony eredete és jelentősége című [letöltésre elérhetővé tett](https://mega.nz/file/pzNzhKJB#KXz_bvQtrp_QYzmqFqWwIpf4TSn31z4Fn4bUVLJ8jpA) cikkében...
 
-#### Grandpierre Atilla Karácsony eredete és jelentősége...
+#### Vértes Edit Szibériai nyelvrokonaink hitvilága...  
 
-...című [letöltésre elérhetővé tett](https://mega.nz/file/pzNzhKJB#KXz_bvQtrp_QYzmqFqWwIpf4TSn31z4Fn4bUVLJ8jpA) cikkében Vértes Edit Szibériai nyelvrokonaink hitvilága című könyvéből idéz az árnyéklélek kapcsán ([[L/Lélek\|lélek]] és [[I/Íz\|íz]] címnél is szerepelt (több is)) (azóta lásd még [[I/Isa\|isa]]-t is):  
+...című könyvéből idéz az árnyéklélek kapcsán ([[L/Lélek\|lélek]] és [[I/Íz\|íz]] címnél is szerepelt (több is)) (azóta lásd még [[I/Isa\|isa]]-t is):  
 > Az obi-ugoroknál az árnyéklélek mindenütt ismert fogalom, s mint ilyen, feltehetően az ősi örökségbe tartozik, jóllehet nincs egységes neve. A legelterjedtebb a voguloknál és a nyugati osztjákoknál az `isz` szó, a finn `itse` 'saját maga' megfelelője.  
 - És hogy azt már Czeglédi Katalin írásaiból is láttuk, hogy a [[F/Finnugor nyelvek\|finnugor nyelvek]] szavai mennyire jól párosulnak türk szavakkal, az is mutatja, hogy ezen szavak párja a fentebb és [[O/Ős\|ős]] címnél is említett török `öz` = önmaga szó is.
 
