@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya"],"created":"2023-11-17T03:47","updated":"2026-03-03T17:21"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya","containscallouts"],"created":"2023-11-17T03:47","updated":"2026-03-03T18:26"}
 ---
 
 
