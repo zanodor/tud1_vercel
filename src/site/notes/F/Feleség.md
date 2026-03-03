@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Feleség/","title":"Feleség","tags":["Englishtexttranslated"],"created":"2026-02-09T16:16","updated":"2026-02-09T16:17"}
+{"dg-publish":true,"permalink":"/F/Feleség/","title":"Feleség","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T16:16","updated":"2026-03-03T18:27"}
 ---
 
 
