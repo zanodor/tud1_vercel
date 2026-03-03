@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kalap/","title":"Kalap","created":"2026-02-09T18:19","updated":"2026-02-09T18:20"}
+{"dg-publish":true,"permalink":"/K/Kalap/","title":"Kalap","tags":["containscallouts"],"created":"2026-02-09T18:19","updated":"2026-03-03T18:28"}
 ---
 
 
@@ -13,7 +13,7 @@ A [[H/Ház\|ház]] pedig az ég. A kalap, mint az [[U/Üst\|üst]], [[V/Vályú\
 
 
 
-Megfelel neki a több helyen említett orosz `голова` = fej, litván `galvà` = fej; vezető szó, továbbá a vezető fogalma kapcsán mondjuk el, hogy nyilván a kutya arab nevén keresztül eredő [[C/Caliph\|kalifa]] is ide tartozik, azaz a kalap alapfogalmában ugyanúgy a fő, fej van meg, ahogy a [[C/Cap\|cap]]/[[S/Sapka\|sapka]] is fejet jelentő K-P/K-B vázú szavakkal azonos.  
+Megfelel neki a több helyen említett orosz `голова` = fej, litván `galvà` = fej; vezető szó, továbbá a vezető fogalma kapcsán mondjuk el, hogy nyilván a kutya arab nevén keresztül eredő [[C/Caliph\|kalifa]] is ide tartozik, azaz a kalap alapfogalmában ugyanúgy a fő, fej van meg, ahogy a [[C/Cap\|cap]]/`sapka` is fejet jelentő K-P/K-B vázú szavakkal azonos.  
 
 A szlovák `hlap` = férfi kapcsán is erre (téridőbeli helyre) gondoltam előbb, de az [ezen](https://en.m.wiktionary.org/wiki/Reconstruction:Proto-Slavic/xolpъ) oldalon taglaltak és a felhozott jelentések alapján a kalapot viselő (paraszt) adja a férfi jelentést. Amennyi rokonítást ott felsoroltak...éppen a leglogikusabb, a magyar `kalap` maradt ki. Persze az is lehet, hogy a [[H/Help\|help]] szó főnévi jelentésével közös – afféle jobbágy jelentésre mutató – eredete van.  
 
