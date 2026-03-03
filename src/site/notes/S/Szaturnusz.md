@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2026-02-27T17:35"}
+{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2026-03-03T17:21"}
 ---
 
 
@@ -32,7 +32,7 @@ Nem elfelejtendő itt még az sem, hogy a mítoszalkotó képzelet a [[N/Nap –
 ...című könyvének 69. és 147. oldalán "Éjszakai Napnak" hívja forrásai alapján Szaturnuszt (utóbbi oldalon írja):  
 > Az asztronómiai ékiratokon "Mul-Sag-Us" ékjelekkel van írva, amit a sémi nyelven "kakkabu kaimanu" néven ismernek és így ment át az összes sémita nyelvbe. A káld-sumír mitológiában igen hatalmas erőt tulajdonítottak a Földre jövő sugárzásának és "éjszakai nap" volt egyik neve, de amikor a [[H/Halak csillagkép\|Halak csillagkép]]ében volt, akkor "Mul-Ug-Ga" nevet kapott, melynek jelentése a "halál csillaga".  
 - [[K/Kámán\|Kámán]] címhez is betéve.
-- Lásd még angol [forrást](https://www.ub.edu/ipoa/wp-content/uploads/2021/08/20132AuOrVanderSluijs.pdf#:~:text=Keywords:%20Saturn%2C%20planets%2C%20Sun%20(%20the%20%E2%80%9CSun,usual%20astronomical%20names%20Kayam%C4%81nu%20and%20mulUDU.%20IDIM.).
+- Lásd még angol [forrást](https://www.ub.edu/ipoa/wp-content/uploads/2021/08/20132AuOrVanderSluijs.pdf#:~:text=Keywords:%20Saturn%2C%20planets%2C%20Sun%20(%20the%20%E2%80%9CSun,usual%20astronomical%20names%20Kayam%C4%81nu%20and%20mulUDU.%20IDIM.)).
 
 Viszont ha Péterfai János adata szerint `Us` = halál, akkor az első neve is ilyen jelentésű.  
 
