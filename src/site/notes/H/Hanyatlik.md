@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hanyatlik/","title":"Hanyatlik","tags":["titleandheadingonedontmatch"],"created":"2024-05-01T15:19","updated":"2025-06-08T00:43"}
+{"dg-publish":true,"permalink":"/H/Hanyatlik/","title":"Hanyatlik","tags":["titleandheadingonedontmatch"],"created":"2024-05-01T15:19","updated":"2026-03-03T17:24"}
 ---
 
-
+ 
 # Hanyatlik, hanyatló
 
 A Hun-Huny-Han-Hany szók összefüggéséről árulkodik ezen szavunk is. Még a Nap hanyatlását is említi CzF.  
