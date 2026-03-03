@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cover/","title":"Cover","tags":["Englishtexttranslated"],"created":"2023-11-05T02:53","updated":"2025-07-26T21:30"}
+{"dg-publish":true,"permalink":"/C/Cover/","title":"Cover","tags":["Englishtexttranslated"],"created":"2023-11-05T02:53","updated":"2026-03-03T17:23"}
 ---
 
 
