@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ecliptic/","title":"Ecliptic","tags":["Englishtexttranslated"],"created":"2023-11-17T06:56","updated":"2026-01-05T21:38"}
+{"dg-publish":true,"permalink":"/E/Ecliptic/","title":"Ecliptic","tags":["Englishtexttranslated","containscallouts"],"created":"2023-11-17T06:56","updated":"2026-03-03T18:27"}
 ---
 
 
