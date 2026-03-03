@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Világügyelő/","title":"Világügyelő","created":"2023-11-18T11:47","updated":"2024-12-18T11:29"}
+{"dg-publish":true,"permalink":"/V/Világügyelő/","title":"Világügyelő","created":"2023-11-18T11:47","updated":"2026-03-03T17:23"}
 ---
 
 
