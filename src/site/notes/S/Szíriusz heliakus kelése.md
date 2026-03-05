@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2025-09-23T23:37"}
+{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2026-03-05T01:33"}
 ---
 
 
@@ -35,7 +35,7 @@ Az egyiptomiak kereken 365 napos évvel számoltak, ebből az utolsó 5 nap kül
 Lásd további matematikát erről [[S/Sothic\|Sothic]].  
 
 Jankovics Marcell adata, hogy a Szíriusz eltűnése és újbóli megjelenése között 70 nap telik el.  
-![assets/Sziriuszheliakuskelese_image3.png|fix_light](/img/user/S/assets/Sziriuszheliakuskelese_image3.png)  
+![assets/Sziriuszheliakuskelese_image3.png|fix_dark fix_light](/img/user/S/assets/Sziriuszheliakuskelese_image3.png)  
 
 A Dobos Csanád által szolgáltatott (nyilván planetárium szoftverből szedett) Szíriusz heliakus kelésével kapcsolatos adatok (lásd csatolt képet) azt mutatják, hogy a Szíriusz heliakális kelése csak bizonyos évezredekben nyújthatott lehetőséget az egyiptomi szoláris év alapjául tekinthetőségére, mindezek által tökéletesen belőve a késői egyiptomi kultúra idejét, ill. téridőben (zodiákuson) elfoglalt helyét.  
 Megjegyzés: a planetárium szoftverekbe a Szíriuszra vonatkozó precessziós adatok is be vannak táplálva, így az adat semmitmondó.  
@@ -84,7 +84,7 @@ J. Ellard Gore Astrological curiosities című könyvének adata szerint i.e. 40
 
 [[P/Precesszió\|Precesszió]] és [[S/Szíriusz és a naprendszer\|Szíriusz és a naprendszer]] címnél szereplő W. Cruttenden-féle adatok viszont szintén azt fedik fel, hogy a Szíriusz nem változtatja helyét, mert egyenesen az okozza a precessziót!  
 Itt két dolgot lehet felhozni. Egyrészt, hogy szélességében valóban nem változtathatja, de mi van hosszúságában (deklinációjában)? Másrészt, máshol Dobos Csanád azt vélte észrevételezni, mintha a planetárium szoftverek is be lennének programozva a Gregorian-naptár csalására (Julian-naptár szerint jó adat jött neki ki): a program tehát vagy a NASA hivatalos adatait használja, vagy pusztán azért vándorol a heliákus felkelés, mert ezt – a hivatalos nézet szerint – a sziderikus és tropikus napév diszkrepanciája hozza létre. (Uwe Holmannék szerint nincs is négyperces eltérés!)  
-![assets/Sziriuszheliakuskelese_image5.png|fix_light](/img/user/S/assets/Sziriuszheliakuskelese_image5.png)  
+![assets/Sziriuszheliakuskelese_image5.png|fix_dark fix_light](/img/user/S/assets/Sziriuszheliakuskelese_image5.png)  
 
 William Brown blogger is írja:  
 > If the equinoxes and solstices were occurring at different locations then Sirius could not have a precise helical rising every July 23rd from the latitude of Egypt!  
