@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dekanátus/","title":"Dekanátus","created":"2023-11-17T07:00","updated":"2025-09-24T13:59"}
+{"dg-publish":true,"permalink":"/D/Dekanátus/","title":"Dekanátus","created":"2023-11-17T07:00","updated":"2026-03-05T01:53"}
 ---
 
 
