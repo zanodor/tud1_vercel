@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-04-22T01:48","updated":"2026-02-18T22:56"}
+{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-04-22T01:48","updated":"2026-03-05T01:30"}
 ---
 
 
@@ -25,7 +25,7 @@ A [[B/Balance\|balance]] címnél is említett [[B/Bilincs\|bilincs]] kapcsán g
 [[A/Alma\|Alma]] és [[S/Szív\|szív]] címnél is a lemniszkáta két felét láttuk, valamint képeken már korábban hasonlót [[E/Ecliptic\|ecliptic]] és [[T/Tejút-kapuk\|Tejút-kapuk]] címnél (két kört egymás mellett).  
 Azaz az az érdekessége, hogy az éggömb, illetve a csillagtérkép is ilyen felbontású. Gyárfás Ágnes írásai kapcsán lemniszkáta időkörök részt (kiegészítve az éggömb két körével) lásd [[U/Újév\|újév]] és [[K/Kalács\|kalács]].  
 ![assets/Lemniszkáta_image1.png|fix_dark fix_light|840](/img/user/L/assets/Lemniszk%C3%A1ta_image1.png)  
-Előbbi címtől lett átmentve a mellékelt Gyárfás Ágnes féle rajz is (de az [[B/Bal és jobb\|bal és jobb]] címhez is bekerült), melyen azt látjuk, hogy a második, bal oldalon mutatott félév hosszabb (mely kapcsán [[H/Hét\|hét]] címnél arról volt szó[^1], hogy valahogy a hat és hét számok által adott 13 holdhónap leosztását el kell intézni, vagy [[B/Boldogasszony hava\|Boldogasszony hava]] vagy [[S/Szűz hava\|Szűz hava]] kezdéssel \[na ez még nincs megoldva\]).  
+Előbbi címtől lett átmentve a mellékelt Gyárfás Ágnes féle rajz is (de az [[B/Bal és jobb\|bal és jobb]] címhez is bekerült), melyen azt látjuk, hogy a második, bal oldalon mutatott félév hosszabb.  
 ![assets/Lemniszkáta_image2.png|fix_dark fix_light](/img/user/L/assets/Lemniszk%C3%A1ta_image2.png)  
 Ahogy [[S/Sárkány#Hétfejű sárkány\|hétfejű sárkány]] cím/alcímnél az ott is csatolt Ninurta a hétfejű sárkány elleni viaskodása kapcsán szóltunk róla, a levágott fejek utalhatnak a sötét félévbe tartozó holdhónapok múlására is, míg a másik oldalon a kígyószerű test kunkora a lemniszkáta másik felét idézi (csak éppen itt a kép a Gyárfás Ágnes által közölt rajzhoz képest fordított helyzetű).  
 Az mondjuk a képből jól/úgy látszik, hogy a hetedik (a felső két levágott fej csonkja/nyaka közül a bal oldali) inkább a bal oldali lemniszkáta-félhez tartozna, viszont ez talán semmit sem jelent (egyszerűen így rajzolta meg).  
