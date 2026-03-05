@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szómegfordítás/","title":"Szómegfordítás","tags":["containstransclusions","titleandheadingonedontmatch","containscallouts"],"created":"2026-02-09T17:32","updated":"2026-03-03T18:27"}
+{"dg-publish":true,"permalink":"/S/Szómegfordítás/","title":"Szómegfordítás","tags":["containstransclusions","titleandheadingonedontmatch","containscallouts"],"created":"2026-02-09T17:32","updated":"2026-03-05T02:19"}
 ---
 
 
@@ -127,7 +127,7 @@ Erről a [[S/Székely-magyar rovásírás\|székely-magyar rovásírás]] egyes 
 #### Götz László Keleten kél a Nap...  
 
 ...című könyvének 156. oldalán szereplő idevágó sorai:  
-> Végül röviden meg kell említenünk egy írástörténeti körülményt, amely nagy valószínűséggel szintén szerepet játszott bizonyos, metatézisekhez hasonló jelenségek létrejöttében. Ismeretes, hogy a szumér és az akkád ékírás balról jobbra haladt, a Kr.e.-i 2. évezredben kialakult nyugati-szemita betűírások pedig jobbról balra, illetve pontosabban mondva kezdetben soronként váltakozó irányban, "ökörszántásszerűen"' (bustrophaedon). Ékírásos szövegek másolásánál, átírásánál ennek következtében gyakran előfordulhattak szótagsorrendbeli tévedések, elírások; annál inkább, mert ismeretes, hogy a szumér szövegekben is gyakran találkozunk ilyen szótagcserékkel. A `LU₂-GAL` (király) szót például igen sokszor GAL-LU₂ sorrendben írták.  
+> Végül röviden meg kell említenünk egy írástörténeti körülményt, amely nagy valószínűséggel szintén szerepet játszott bizonyos, metatézisekhez hasonló jelenségek létrejöttében. Ismeretes, hogy a szumér és az akkád ékírás balról jobbra haladt, a Kr.e.-i 2. évezredben kialakult nyugati-szemita betűírások pedig jobbról balra, illetve pontosabban mondva kezdetben soronként váltakozó irányban, "ökörszántásszerűen"' (bustrophaedon). Ékírásos szövegek másolásánál, átírásánál ennek következtében gyakran előfordulhattak szótagsorrendbeli tévedések, elírások; annál inkább, mert ismeretes, hogy a szumér szövegekben is gyakran találkozunk ilyen szótagcserékkel. A `LU₂-GAL` (király) szót például igen sokszor `GAL-LU₂` sorrendben írták.  
 
 Olyan eset is létezik, amikor nem az egész szót fordítja meg, hanem a szótagok sorrendjét cseréli fel a nyelv. Tulajdonképpen ilyen módon jönnek létre az utódnyelvek jelzett szó hátulra kerülős (melléknév a jelzett szó után; magyarban is a [[K/Kacskaringó\|kacskaringó]] címnél is említett `hegymagas`, de ilyen még például [[L/Lugal\|Lugal]]) és alternatív birtokos szerkezetei is (hiszen mindegy, hogy ha azt mondom, hogy Nap Háza, vagy Háza a Napnak (csak a szavakban ugye a ragokat nem írták ki; lásd erről Péterfai János írását [[Z/Zero\|zero]])).  
 Vegyük észre, hogy az [[A/Angle\|angle]] és [[K/KUL\|KUL]] címnél taglalt Kul-Án és Án-Kul ugyanaz a szó; a két elem megfordítása nem okoz változást. A [[K/Kapu\|kapu]] szavunknak megfelelő szó a hawaii `puka` = űr, lyuk, kapu szó is.  
