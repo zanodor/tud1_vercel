@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cigány/","title":"Cigány","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T00:59","updated":"2026-03-03T18:27"}
+{"dg-publish":true,"permalink":"/C/Cigány/","title":"Cigány","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T00:59","updated":"2026-03-05T02:19"}
 ---
 
 
@@ -55,7 +55,7 @@ Azaz olyan hasonló érinthetetlen jelző ragadna nevükhöz, mint amilyet az in
 Gondoltam, hogy írok az illetőnek, például mivel magyarázza a(z általam hirtelen a neten fel nem lelt) görög `sztünagosz` = sötét színű szót akkor (hogy reagál a magyar-szkíta eredetre), de nem tettem.  
 [Ezen](https://qr.ae/pNmmWu) Quora válaszban (ahol arról mertem írni, hogy mi vagyunk az igazi cigányok – azaz a mi neveinket vették fel zsidó módra a cigányok) is felhasználtam az olasz `zingaro` szót, és azóta más válaszban is.  
 
-Avram Sándor tanulmányának idevonatkozó részét viszont mindenképpen csatolni szeretném. Ugyanis [[G/Görög#Görög-zsidó kapcsolatok\|görög]] címnél, *görög-zsidó kapcsolatok* alcímnél is említésre került, hogy az Athinganoi nem feltétlenül cigányokra volt értett. Avram Sándor (azaz Hargita Csaba Ferenc) írja:  
+Avram Sándor tanulmányának idevonatkozó részét viszont mindenképpen csatolni szeretném. Ugyanis [[G/Görög#Görög-zsidó kapcsolatok\|görög]] címnél, *görög-zsidó kapcsolatok* alcímnél is említésre került, hogy az Athinganoi nem feltétlenül cigányokra volt értett. Avram (alias [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]]) írja:  
 > Van egyébként még egy görög szó, amelyet szintén a romák megnevezésére használtak Bizáncban: "Athinganoi" ‒ \[nem!\] ebből ered a cigány, tsigan, zingaro stb. név. A bizánciak a romákkal azonosították az Athinganoiokat. Valóban, az a kevés, amit erről a népcsoportról tudunk, számos tekintetben megegyezik azzal a leírással, ami a mai romákról adható. Nincs persze elegendő bizonyítékunk arra, hogy az Athinganoi-ok romák lettek volna, de arra sem, hogy ennek az ellenkezőjét állítsuk. Az egyetlen ok, ami miatt az Athinganoi-oknak a romákkal való azonosításának elmélete mégis megbukott, az, hogy ezt a népet már a 6. század elején említik, márpedig ekkor – legalábbis a megcsontosodott indiai-eredet hívei szerint – a romák nem lehettek még Anatóliában. Az Athinganoi nevet a rituális tisztálkodási törvényeik miatt kapta ez a nép, mert ezek a törvények tisztátalan dolognak tekintettek minden testi kontaktust ‒ és ez nagyon hasonlít a romák "gádzsók"-ra (nemcigányokra) vonatkozó törvényeire. Az Athinganoiok foglalkoztak mágiával, jövendőmondással, kígyóbűvöléssel stb., vallásuk pedig a "reform-judaizmus" és a kereszténység (vagy esetleg a zoroastrizmus) egyfajta keveréke. A Shabat-ot és a Tóra más előírásait követték, hittek az Isten egységében, ugyanakkor a körülmetélés szokását már nem követték, viszont bemerítkeztek (ez egyébként nem kizárólag keresztény rítus, a tűzimádó vallások ismert aktusa is). **Az Athinganoiokkal kapcsolatban a Zsidó Enciklopédia kijelenti, hogy "zsidóknak lehet őket tekinteni"**.  
 
 A spanyol `gitano` és francia `gitan` = cigány a zsidó névvel egészen egyező. A végződés lehet-e olyan mint `putain` esetében. A Wiktionary oldal adata:
@@ -71,9 +71,17 @@ Az [alábbi](https://adtplus.arcanum.hu/hu/view/MagyarNyelv_1969/) kiadvány 332
 
 Egy utalást arra, hogy a cigány nyelvhez kötött [[K/Kaja\|kaja]] szavunk Egyiptomban is megvolt, lásd ott. A roma `chhon` = Hold szó is lehet egyiptomi örökség.  
 Érdekes, hogy a roma nyelvben a [[J/Jackal\|jackal]] szóval azonos `zhukel`/`dzsukel` = kutya, mely újfent bizonyíthatja a cigányok nemcsak ind származását.  
-Avram írja még, hogy maga a `roma` szó "ember"-t jelent, és csupán egyetlen nyelvben van megfelelője: az óegyiptomi `rom` szó, melynek hasonló a jelentése. [Megjegyzés: ott a Nap könnyeiből születőnek határozták meg az embert; a Nap Ra/Ré/Ró, az -M a földre születésre utal; innen az ember értelem.]  
+Avram írja még, hogy maga a `roma` szó "ember"-t jelent, és csupán egyetlen nyelvben van megfelelője: az óegyiptomi `rom` szó, melynek hasonló a jelentése. \[Megjegyzés: ott a Nap könnyeiből születőnek határozták meg az embert; a Nap Ra/Ré/Ró, az -M a földre születésre utal; innen az ember értelem.\]  
 
-Az [alábbi](https://youtu.be/LO1eLMWQauI) Ne Legyen Áldozatos videóban 14:20-nál Pap Gábor elmondja, hogy ciganológustól tudja, hogy a cigány az általánosabb kifejezés és a roma a cigányok egy csoportjára utal. Tehát nem minden cigány roma, de minden roma cigány.  
+> [!info] &nbsp;
+> Az [alábbi](https://youtu.be/LO1eLMWQauI) Ne Legyen Áldozatos videóban 14:20-nál Pap Gábor elmondja, hogy ciganológustól tudja, hogy a cigány az általánosabb kifejezés és a roma a cigányok egy csoportjára utal. Tehát nem minden cigány roma, de minden roma cigány.
 
 Az [[E/Ember teremtése\|ember teremtésé]]nek lényeges mozzanata, hogy agyagból formázással készült az emberi test. Igen elterjedt az a monda, amely az agyagemberek szárításának, ill. égetésének menetét mondja el, s így a különböző színű emberfajok kialakulását magyarázza. Isten, amikor az első embert tette kemencébe, túl sokáig benn tartotta, fekete lett, néger. A másodiknál már hamarabb kivette, de még mindig sötét lett a bőre, tőle származnak a sárga bőrűek. A harmadikat már nagyon gyorsan kivette, ez fehér bőrű lett. Igen elterjedt a cigányok fekete bőrének az a magyarázata, hogy túl sokáig szárította Isten a napon azt az agyagembert, akiből az első cigány lett.  
 Lásd még [[G/Gypsy\|gypsy]].  
+
+## Egyéb neveik
+
+#### Réső Ensel Sándor A szanszkrit nyelv ismerete...  
+
+...című 1837-es írásában sorolja neveiket:  
+> Magyarországban a’ régóta sátorozó czigányok, kik *zingari*, *zingani*, *zingiberi*, *gittanos*, *dzidanus*, *bohemius*, *gipstes*, *hajden*, *tatár*, *rome*, *more*, *Farao* népe, *firaherni*, és *dzindár* vagy *czinczár* nevek alatt Europában elég ismeretesek, mai napig is szanszkrit indostán és zend dialectus szerint beszélnek.  
