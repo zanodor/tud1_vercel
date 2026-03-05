@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nemzetgyilkossági kísérlet/","title":"Nemzetgyilkossági kísérlet","created":"2025-10-17T00:42","updated":"2025-10-25T02:37"}
+{"dg-publish":true,"permalink":"/N/Nemzetgyilkossági kísérlet/","title":"Nemzetgyilkossági kísérlet","created":"2025-10-17T00:42","updated":"2026-03-05T01:46"}
 ---
 
 
