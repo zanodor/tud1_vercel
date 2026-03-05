@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-15T04:40","updated":"2025-11-16T00:06"}
+{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-15T04:40","updated":"2026-03-05T01:30"}
 ---
 
 
