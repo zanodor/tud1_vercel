@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-31T06:45","updated":"2026-03-03T17:22"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-31T06:45","updated":"2026-03-05T01:35"}
 ---
 
 
