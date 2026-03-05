@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gutium/","title":"Gutium","tags":["Englishtexttranslated"],"created":"2025-05-01T15:55","updated":"2025-09-28T21:32"}
+{"dg-publish":true,"permalink":"/G/Gutium/","title":"Gutium","tags":["Englishtexttranslated"],"created":"2025-05-01T15:55","updated":"2026-03-05T01:49"}
 ---
 
 
