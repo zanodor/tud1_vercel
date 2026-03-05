@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Germán/","title":"Germán","tags":["Englishtexttranslated"],"created":"2024-10-31T22:47","updated":"2025-11-06T19:10"}
+{"dg-publish":true,"permalink":"/G/Germán/","title":"Germán","tags":["Englishtexttranslated"],"created":"2024-10-31T22:47","updated":"2026-03-05T01:31"}
 ---
 
 
