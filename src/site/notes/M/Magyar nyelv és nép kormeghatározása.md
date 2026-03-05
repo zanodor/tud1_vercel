@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv és nép kormeghatározása/","title":"Magyar nyelv és nép kormeghatározása","created":"2023-10-14T06:06","updated":"2025-09-28T21:29"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv és nép kormeghatározása/","title":"Magyar nyelv és nép kormeghatározása","created":"2023-10-14T06:06","updated":"2026-03-05T01:44"}
 ---
 
 
