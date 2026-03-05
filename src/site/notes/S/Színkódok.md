@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Színkódok/","title":"Színkódok","tags":["Englishtexttranslated","containstransclusions"],"created":"2026-02-24T16:37","updated":"2026-02-24T16:38"}
+{"dg-publish":true,"permalink":"/S/Színkódok/","title":"Színkódok","tags":["Englishtexttranslated","containstransclusions"],"created":"2026-02-24T16:37","updated":"2026-03-05T01:34"}
 ---
 
 
