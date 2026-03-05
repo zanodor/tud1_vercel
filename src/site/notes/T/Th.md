@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Th/","title":"Th","tags":["containscallouts"],"created":"2023-10-21T04:27","updated":"2026-03-03T18:29"}
+{"dg-publish":true,"permalink":"/T/Th/","title":"Th","tags":["containscallouts"],"created":"2023-10-21T04:27","updated":"2026-03-05T01:51"}
 ---
 
 
@@ -28,4 +28,4 @@ A Magyar Adorján által adatolt német (azaz őstörök) `tal` = völgy szó eg
 
 ## Török adatok
 
-Nem annyira th-, hanem inkább t-előhangos szavak kapcsán írja a magyar nyelv szavait nem értő [[C/Czeglédi Katalin\|Czeglédi Katalin]] több cikkében, így például Magyar-török nyelvviszony című cikkében (megjelent: Ősi Gyökér 2012/2-4. sz.), hogy a Kāšγ. oszmán-török szótárában hozott taηla és a magy. héja, ölyv etimológiailag összetartoznak, merthogy eredeti szókezdőjük t-előhangos lett volna, honnan a th- és h-előhangos szavak fejlődtek volna ki. Ez puszta feltételezés, és török szavakból levezetni magyar szavakat helytelen.  
+Nem annyira th-, hanem inkább t-előhangos szavak kapcsán írja a magyar nyelv szavait nem értő [[C/Czeglédi Katalin\|Czeglédi Katalin]] több cikkében, így például Magyar-török nyelvviszony című cikkében (megjelent: Ősi Gyökér 2012/2-4. sz.), hogy a Kāšγ. oszmán-török szótárában hozott `taηla` és a magy. `héja`, `ölyv` etimológiailag összetartoznak, merthogy eredeti szókezdőjük t-előhangos lett volna, honnan a th- és h-előhangos szavak fejlődtek volna ki. Ez puszta feltételezés, és török szavakból levezetni magyar szavakat helytelen.  
