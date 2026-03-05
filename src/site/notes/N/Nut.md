@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nut/","title":"Nut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2025-05-29T16:57","updated":"2026-01-17T00:10"}
+{"dg-publish":true,"permalink":"/N/Nut/","title":"Nut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2025-05-29T16:57","updated":"2026-03-05T01:26"}
 ---
 
 
@@ -147,7 +147,7 @@ Ehhez képest a mindenben a Nagy Medve csillagképet kereső ...
 > The picture of the beginning of the world (Fig 39) shows Nut assisted by various ram-headed gods with curly horns. In addition and perhaps as significantly, the shape of Nut as she spans creation is the same shape as the cup of Ursa Major (inset) with interior angles of 108⁰.  
 > —  
 > A világ kezdetét ábrázoló képen (39. ábra) Nut különböző kosfejű, göndör szarvú istenek segítségével látható. Ezenkívül, és talán ugyanilyen jelentős, a teremtést átívelő Nut alakja megegyezik az Ursa Major csészéjének alakjával (mellékelt kép), amelynek belső szögei 108⁰.  
-> ![assets/NutGoddess_image12.jpeg|fix_light](/img/user/N/assets/NutGoddess_image12.jpeg)  
+> ![assets/NutGoddess_image12.jpeg|fix_dark fix_light](/img/user/N/assets/NutGoddess_image12.jpeg)  
 - Egyébként tényleg hasonlít hozzá, viszont fentebb más ábrázolásokban nem volt hangsúlyos a 108⁰-ot bezáró alakzat.  
 
 A Tejútanya különböző testrészeit, arról, hogy mi minek feleltethető meg, lásd például [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]]. (Illetve alant valamiféle összefoglalás készül.)  
