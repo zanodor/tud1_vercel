@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Adargatis/","title":"Adargatis","tags":["Englishtexttranslated"],"created":"2023-11-06T01:45","updated":"2025-09-23T16:51"}
+{"dg-publish":true,"permalink":"/A/Adargatis/","title":"Adargatis","tags":["Englishtexttranslated"],"created":"2023-11-06T01:45","updated":"2026-03-05T01:53"}
 ---
 
 
