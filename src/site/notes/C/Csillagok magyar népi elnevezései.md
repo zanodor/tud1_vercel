@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csillagok magyar népi elnevezései/","title":"Csillagok magyar népi elnevezései","created":"2026-01-28T03:56","updated":"2026-01-30T14:25"}
+{"dg-publish":true,"permalink":"/C/Csillagok magyar népi elnevezései/","title":"Csillagok magyar népi elnevezései","created":"2026-01-28T03:56","updated":"2026-03-05T01:53"}
 ---
 
 
