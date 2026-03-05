@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Picsa/","title":"Picsa","tags":["Englishtexttranslated"],"created":"2026-03-04T00:34","updated":"2026-03-04T00:35"}
+{"dg-publish":true,"permalink":"/P/Picsa/","title":"Picsa","tags":["Englishtexttranslated"],"created":"2026-03-04T00:34","updated":"2026-03-05T22:16"}
 ---
 
 
@@ -31,11 +31,11 @@ Először is, be kell látni, hogy itt egy genitália elnevezéssel van dolgunk,
 
 ### Pi-Csa
 
-Péterfai János etimonjai által bontható (Pi-Csa = Csillag-Víz vagy Pics-A, Pis-A = Ősvíz, mint [[N/Nuna\|nuna]] esetében), de lehetséges, hogy ez a forma inkább egy, az imént `pit` szó kapcsán megmutatott P-T, vagy akár B-T és V-T vázú alapszó menet közbeni (valamilyen más fogalomhoz simított) változtatása, azaz itt egy nőiségi ház (B-T) és kezdet (B-D) értelmű szavakkal való kapcsolódást kellene láttatni.  
+Péterfai János etimonjai által bontható (Pi-Csa = Csillag-Víz vagy Pics-A, Pis-A = Ősvíz, mint [[N/NUN\|nuna]] esetében), de lehetséges, hogy ez a forma inkább egy, az imént `pit` szó kapcsán megmutatott P-T, vagy akár B-T és V-T vázú alapszó menet közbeni (valamilyen más fogalomhoz simított) változtatása, azaz itt egy nőiségi ház (B-T) és kezdet (B-D) értelmű szavakkal való kapcsolódást kellene láttatni.  
 - Lásd ezen témákról [[B/BAT\|BAT]], [[B/BAD\|BAD]].
 
 Igen ám, de nem először látjuk, hogy a női és hím genitáliák neve fedésben vannak.  
-Tulajdonképpen a picsa megfelel a [[B/Basz\|basz]], [[F/Fasz\|fasz]], [[V/Vessző\|vessző]] szavaknak, de ahogy a P-N vázú egyezéseknél ([[P/Penis\|penis]], [[P/Pina\|pina]]) a fény (tűz), itt inkább a víz elem látszik megmutatkozni, de _egyáltalán nem biztos_, hogy itt elemeket is kell keresni.  
+Tulajdonképpen a picsa megfelel a [[B/Basz\|basz]], [[F/Fasz\|fasz]], [[V/Vessző\|vessző]], [[F/Fütykös\|fütyi]] stb. szavaknak, de ahogy a P-N vázú egyezéseknél ([[P/Penis\|penis]], [[P/Pina\|pina]]) a fény (tűz), itt inkább a víz elem látszik megmutatkozni, de _egyáltalán nem biztos_, hogy itt elemeket is kell keresni.  
 A genitáliák K-T/Sz/Z, P(F, V)-T/Sz/Cs, P-N, stb. vázú szavait és a női genitáliák állatjelképeinek (csak egyet ide: [[M/Macska\|macska]]) szóvázait hasonlítva évköri összefüggések feltárására is lehetne vállalkozni, de legyen elég annyi, ami a [[K/Kutya és macska\|kutya és macska]] helyen már taglalásra került.  
 A K-T vázzal pedig a [[K/Köt\|köt]] fogalmára is rámutattunk, mely a metafizikai értelemben vett nemzés szava.  
 
