@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Men/","title":"Men","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-09-28T19:59","updated":"2026-03-03T17:21"}
+{"dg-publish":true,"permalink":"/M/Men/","title":"Men","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-09-28T19:59","updated":"2026-03-05T01:27"}
 ---
 
 
@@ -23,6 +23,7 @@ A harmadik lábjegyzetes adathoz kiegészítésként jöjjön Götz László Kel
 | óegyiptomi      | szumér      | akkád-asszír        | latin             | magyar |
 | --------------- | ----------- | ------------------- | ----------------- | ------ |
 | MAN-MAN (mozog) | MEN₃ (megy) | MÛN-abtu (menekült) | MAN-o (elmenekül) | MEN-ni |
+- Igen, az óegyiptomi nyelvben a mozogni jelentésű szó a `mnmn` (átírásban gyakran `man-man`-ként hivatkoznak rá).
 
 Tulajdonképpen mindenhol megvan a Man/Men alak mozgás jelentése, és mivel több helyen kimondtuk, hogy a mozgás mindig körmozgás, lehet a [[M/MUN\|MUN]] címnél is taglalt Menny (csillagai) elfordulásáról szó és lehet szó a [[M/Mén\|mén]] = Hold körmozgásáról is.  
 
