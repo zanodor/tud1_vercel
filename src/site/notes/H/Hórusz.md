@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hórusz/","title":"Hórusz","tags":["Englishtexttranslated"],"created":"2025-09-28T17:57","updated":"2025-09-28T17:58"}
+{"dg-publish":true,"permalink":"/H/Hórusz/","title":"Hórusz","tags":["Englishtexttranslated"],"created":"2025-09-28T17:57","updated":"2026-03-05T01:40"}
 ---
 
 
