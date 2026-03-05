@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/S/Stand/","title":"Stand","created":"2023-10-17T09:33","updated":"2026-01-24T00:10"}
+{"dg-publish":true,"permalink":"/S/Stand/","title":"Stand","created":"2023-10-17T09:33","updated":"2026-03-05T22:15"}
 ---
 
 
 # Stand
 
-[[A/Áll\|Áll]] alapjelentésű. Számításba jöhet a kő, melyek mint [[M/Menhir\|menhir]]ek, [[O/Obeliszk\|obeliszk]]ek, kiállják az idő próbáját; ezért építették a kőköröket is. [[I/Isztán\|Isztán]], [[I/Isten\|Isten]] és [[S/Stone\|stone]] vonalon volt szó a kőről. Különösen az Isztán szó egyezik az indo-európai \*sta-, állni gyökkel. [[D/Dolmen\|Dolmen]] címnél is volt szó asztalról, minthogy a holtakat (Istenhez visszajutattandókat) oda terítették ki.
+[[A/Áll\|Áll]] alapjelentésű. Számításba jöhet a kő, melyek mint [[M/Menhir\|menhir]]ek, [[O/Obeliszk\|obeliszk]]ek, kiállják az idő próbáját; ezért építették a kőköröket is. [[I/Isztán\|Isztán]], [[I/Isten\|Isten]] és [[S/Stone\|stone]] vonalon volt szó a kőről. Különösen az Isztán szó egyezik az indo-európai \*sta- = állni gyökkel. [[D/Dolmen\|Dolmen]] címnél is volt szó asztalról, minthogy a holtakat (Istenhez visszajutattandókat) oda terítették ki.
 { #250603}
 
 
 Legutóbb [[H/Hála\|hála]] címnél is szóba került (minthogy a magyar ember hálás az életért és a halálért is), hogy az [[A/Áll\|áll]] szavunk a [[H/HAL\|hal]] ellenpárja lehet, azaz egyazon gyökkel ([[A/AL\|AL]] lehet felső és alsó értelmű is) fejezi ki a két fogalmat. Az indo-európai nyelvekben így ezt nem találjuk meg, de állni valóban lehet Istenhez köthető.  
 
-Érdekes az Aczél József által felhozott magyar támaszt szavunk rokonítása a göröggel: `hiszta` = állít, támaszt, és `(ki)szta-ma` = támaszt. H lekoptatással `iszta` = állít. Támaszt szavunk talán \*thamaszt kiejtésű lehetett régen. (Az angol, spanyol nyelvekből ismert [[T/Th\|th]] hangok meg kellett hogy legyenek, ha nem is az ősmagyarban, annak nyelvjárásaiban.)  
+Érdekes az Aczél József által felhozott magyar [[T/Támasz\|támasz]]t szavunk rokonítása a göröggel: `hiszta` = állít, támaszt, és `(ki)szta-ma` = támaszt. H lekoptatással `iszta` = állít. Támaszt szavunk talán \*thamaszt kiejtésű lehetett régen. (Az angol, spanyol nyelvekből ismert [[T/Th\|th]] hangok meg kellett hogy legyenek, ha nem is az ősmagyarban, annak nyelvjárásaiban.)  
 Hasonló esetet láttuk, ha nem is állít, de emlékoszlop német neve kapcsán, amikor Práczki István Szittya Biblia című könyvében szintén [[I/Isten\|Isten]] szavunkat hozza fel.  
 Az összes \*sta indo-európai gyökön nyugvó szó eredetet az [[A/Asztal\|asztal]] szavunk aszt elvont gyökéhez is köthető. Hiszen az asztal áll. De asztal a [[D/Dolmen\|dolmen]] és a [[M/Mesa\|mesa]] és [[M/MISZ\|MISZ]] címnél előjövő perzsa `mīz` is.  
 
