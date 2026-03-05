@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2025-09-24T13:40"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2026-03-05T01:23"}
 ---
 
 
@@ -68,9 +68,7 @@ Perzsiában az Achaemenida Artaxerxes II[^2] uralkodó által építtetett szobr
 ...című könyvének 135. oldalán iráni, egyiptomi, krétai és magyar párhuzamokra építve írja:  
 > **A legrégibb szentháromság-rendszer az anya-leánya-fiúgyermek hármasság**; e hármas összefüggéséről beszél az iráni, az egyiptomi, a krétai és a mi kultúránk is[^3]. Ez a képzet változott át a bronzkor kései szakaszában[^4] atya-anya-fiú hármasságra, majd a \[judeo-\]kereszténységben teljes férfiúi hármasságra (atya, szentlélek, fiú). A három rendszer változása pontosan követhető emlékeinkben.  
 
-![assets/Szentháromság_image1.png|fix_dark fix_light|840](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image1.png)
-
-{ #250827}
+![assets/Szentháromság_image1.png|fix_dark fix_light|840](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image1.png){ #250827}
 
 
 Nyilván a [[N/Nagyboldogasszony\|Nagyboldogasszony]] és [[K/Kisasszony\|Kisasszony]] lenne az [[A/Anya#Kettős anyaság\|kettős anyaság]] cím/alcímnél is taglalt két nőiség.
@@ -80,11 +78,11 @@ A lány az anya fiatalkori önmaga és nem a fiú testvére. A fiú az anya fia:
 Arról is lehet beszélni, hogy az ősi, csillagászati-kozmikus alapú világkép leginkább az anya-fiú kettősségen alapult (a Napvallások korában az anya jelentősége elhalványult). A kettősségből pedig úgy lesz háromság, hogy a lány az anya fiatalkori énje, míg a fiú felnőve apa lesz (Magorból Hunor-Orion). Ez a fajta szemlélet nyilván kevésbé ismert magyar kutatói berkekben.  
 
 Egyébként a magyaroktól árjákhoz került szavakat elnézve Magyar (Ilona) > [[M/Mother\|mother]], Tündér (Ilona) > [[D/Daughter\|daughter]] és Sün/Szony > Sun/[[S/Son\|Son]] meg is felelne, de az árják nem olyan régiek. Falvaynak igaza is lehet tehát, de szívesen megnézném azokat az egyiptomi, iráni és krétai istenháromságokat. A mellékelt képek mennyire biztosan azt ábrázolják, amit szeretnénk látni? Magyar részről, Metterciáról lásd itt[^5]. (Egy másik csatolt képen is lásd.)  
-![assets/Szentháromság_image2.png|fix_light](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image2.png)  
+![assets/Szentháromság_image2.png|fix_dark fix_light](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image2.png)  
 Még egy pillanatra visszatérve: a [[L/Lány\|lány]]/[[S/Szűz\|szűz]] a későbbi (szülő)anya fiatal önmaga. A lány a magyar nyelvben kettős jelentésű. A germán nyelvekben alakult ki a külön lány (fiatal nő) és a lánya valakinek jelentésű két szó. Igaz, a [[D/Daughter\|daughter]] is éppen az anya fiatalkori tündér/szűz önmagára utal, de ezt már a mai nyelvet használók nem tudják. Ezért is gondolnám, hogy külön a magyar lány-aspektussal nem kellene annyira törődni (dacára a mellékelt mykénéi ábrázolás jelentőségére). [[A/Anya#Kettős anyaság\|kettős anyaság]] cím/alcímnél írottak alapján is a két ábrázolt nő lehet Nagyboldogasszony – Boldogasszony párosa, illetve Boldogasszony – Kisasszony párosa ugye.  
 (Lásd még lány/fiatal nő és szűz jelentésű szavak kapcsolatát és félreérthetőségét [[P/Parthenogenesis\|parthenogenesis]].)  
 A másutt előjövő Falvay Károly által adatolt passzusból kiderül, hogy a mítoszalkotó görögök félreértették[^6] az eredeti képet (ezért sem szabad feltétlenül más kultúrákból kiindulnunk), hiszen a [[T/Tejútanya\|Tejútanya]] fiatal/szűz aspektusa nem lánya, hanem önmaga fiatalabb énje:  
-![assets/Szentháromság_image3.png|fix_light](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image3.png)  
+![assets/Szentháromság_image3.png|fix_dark fix_light](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image3.png)  
 [[D/Démétér\|Démétér]] Zeusszal történő nászában inkább a Nagy [[R/Rhea\|Rhea]] Anyának (anyjuknak) a hasonmása volt, aki saját fiával nemzette Perszephonét (más néven a szűz Korét \[= lányt\]), és leányában önmagát szülte újjá. \[Hogy\] erről a misztériumról nyíltan igen keveset meséltek \[érthető is\].  
 
 - Jankovics Marcell írása ugyanerről [[H/Három istennő\|három istennő]] címnél is szerepelt:  
@@ -141,7 +139,7 @@ Takács György Babba Mária – adalékok a magyarság őszintének istenanya-a
 
 
 [[E/Enlil#Enlil és Enki dualizmusa – sumir teológia Badiny Jós Ferenc olvasatában\|Enlil és Enki dualizmusa – sumir teológia Badiny Jós Ferenc olvasatában]] cím/alcímnél a Szentháromság eredetét sumirnak írja le szintén:  
-> A Lélekbeni Isten \[Enlil\] Ereje teremteni akart. Átválozik, átlényegül. Létrehozza az ANYAGOT melybe szintén Isteni Erőt helyez és bármikor felvehető "anyagi formájában" az Isten Fiát már ÉN-KI-nek \[[[Enki\|[Enki]]\] írja ősi hagyományunk. Megszületett tehát ősvallásunk szemléletében az Isten Fiának dualizmusa, aki a Lélek és az anyag Ura – az Aya-Isten erejével uralkodva. Ennek szimbóluma az egyenlő szárú háromszög, mely a mi ősi Hitünk Szentháromság-Tanának jelképe.  
+> A Lélekbeni Isten \[Enlil\] Ereje teremteni akart. Átválozik, átlényegül. Létrehozza az ANYAGOT melybe szintén Isteni Erőt helyez és bármikor felvehető "anyagi formájában" az Isten Fiát már ÉN-KI-nek \[ld. [[E/Enki\|Enki]]\] írja ősi hagyományunk. Megszületett tehát ősvallásunk szemléletében az Isten Fiának dualizmusa, aki a Lélek és az anyag Ura – az Aya-Isten erejével uralkodva. Ennek szimbóluma az egyenlő szárú háromszög, mely a mi ősi Hitünk Szentháromság-Tanának jelképe.  
 
 Egyébként lenne ráció Badiny gondolatmenetében, ugyanis Jézus [[I/Isa\|Isa]] nevében is megvan egyszer az Ős = Ász = Atya, másrészt a lélek, szellem jelentésű szó, valamint Íz mint izzás a Napra magára is utalhat.  
 Arról, hogy ez a mi ősi hitünk lenne, nos, jász-szkíta leszármazottainké. Farkasinszky másutt [[B/Bál\|Bál]] istent mondta magyar istennek, holott az a palóc eredetű Nap (az Orionban).  
@@ -177,10 +175,11 @@ Lásd még [[N/Négy\|négy]], [[H/Három isten\|három isten]] és [[H/Három i
 
 ...című Ősi Gyökér 2004/3. számában megjelent cikkében (mely Oláh Imre Ősi jelképiség c. az Ősi Gyökér 2011/4. sz. megjelent cikkének első fejezete) írja:  
 > S hogy nyelvünk nem egy akármilyen szedett-vedett mozaiknyelv, arról maga a híres angol költő Sir John Bowring tanúskodik legszebben: "...Aki megfejti, az az isteni titkot fogja boncolni, annak is az első tételét: Kezdetben vala az Ige, és az Ige vala az istennél és az Isten vala az Ige." (The Poetry of the Magyars.)  
-> Ennek az "Ige" szónak, (nem nyelvtani fogalmak, hanem belső tartalom szerint) többféle értelme van. Egyfelől a Genezis szerint, például a hangra (a kínai Nagy Hang a Kung megszólalására \[[[Hang\|hang]], kong magyar szavainkkal azonos\]) indult meg a teremtés a Nagy mélység vizében.  
+> Ennek az "Ige" szónak, (nem nyelvtani fogalmak, hanem belső tartalom szerint) többféle értelme van. Egyfelől a Genezis szerint, például a hangra (a kínai Nagy Hang a Kung megszólalására) indult meg a teremtés a Nagy mélység vizében.  
 > Egy másik jóval ősibb keletű – hindusztáni bölcsészeti rendszer értelmezése alapján: az [[I/Ige\|Ige]] a **Szentháromság** egyike. De vizsgálatunk kiindulópontjaként szolgáljon itt prof. Badiny Ferenc mérvadó észrevétele: A nagy szarv között látható gömb/csillag, (\*) jelentése Áz, amely azonos a hindu bölcselet Barahmá gondolatával. Mármost, ha az istenség eszméjét, a Teremtő-elv: Brahmá lényegének legkezdettebb értelméhez kapcsolódó ősfogalmat elemezzük, akkor a Szentháromság hittitok alapgondolatához jutunk. Ugyanis a Szatapatha Bráhmana ezt írja: "Brahmá, egy szarvas képében (hímnemű princípium), Vakhal a szarvasünővel (női princípium), egybekelvén teremté meg a Kozmoszt." A kommentár szerint: A Nőnemű-logosz, az "Ige", a "verbum"; maga az isteni hang. Tehát az isteni hang, amely rokon értelmű az Igével vagy szóval, a hindu bölcseletben az első indíték ereje, úgy is mondhatni: Brahmán női fele. Eszerint a hindu [[V/Vach\|Vach]] az "ős női" eszme, az Ige fogalma, és a "szférák zenéje" voltaképpen egy és ugyanaz.  
 > Patandzsali: Az Ő (Brahma) megnyilvánulása az ős-ige (az ős hang: Aum.) A mai emberiség számára a kung-gong helyébe ez az AUM lépett "a Nagy malom örök zúgásával". Tehát, ha azt vesszük, a világ alapja az éterrezgés, melynek eredője, ezoterikus értelemben véve: a kongó-bongó [[A/Ang\|HANG]].  
 > Baktay Ervin: Az AUM elmélyedő ismétlése a mindenség létesítő áramát remegteti végig bennünk. Az AUM az isteni eredetű létáramba kapcsolja be a szellemet, s ez meggyorsítja a kibontakozást, az egyesítettség elérését. Hasonló gondolatot fejez ki a Védák "éneklő tehene/szarvasa", és Boetius Musica mundanja, aki szimbólumként értelmezte a zenei kozmológiát. Ugyanúgy a zenei kozmológiához csatlakozott Kepler is, mikor a bolygópályákra vonatkozóan keresett zenei analógiát. (Harmonices mundi. Libri v.) Liszt Ferenc szerint: A zene a mennyország előcsarnoka." Érdekes, ma már a kutatás is a fentiek mellett szól. Ugyanis a BBC híradása most közölte, hogy a csillagászok lehallgatták a Kozmosz moraját, a kozmikus szimfóniát.  
+- [[H/Hang\|Hang]], kong magyar szavainkkal azonos kung.
 - A [[C/Csudaszarvas\|Csodaszarvas]] ezért többféle értelmezésű; Bakos Attilánál Nap.
 
 > Egy másik bölcseleti magyarázat alapján az Atya-Anya jelképesen azonos a legelőlegesebb elemmel, azzal az ős éterrel, Asztrális Fénnyel, amely a teremtés pillanatában életre villanyozta a mindenséget betöltő ősanyagot. Ez az Őséther, vagy Asztrális fény az, amelynek eredője a négy főelem: a levegő, föld, tűz és a víz, s amelynek hangjában – [[P/Pythagorasz\|Pythagorasz]] szerint – az Isten beszél. Voltaképpen ezt a mélytudatban ívódott mágikus felfogást érzékelteti, varázsolja jelképekben elénk, egyfelől a perzsa Sáhnámeh hőseposz, másfelől a [[T/Tarihi Üngürüsz\|Tarihi Üngürüsz]] csodaszarvasa, midőn zoomorfikus[^8] voltánál fogva, s a főelemek közegén keresztül, a Kozmosz képzetének látomásszerű vetületét kelti.  
@@ -259,9 +258,9 @@ Közös mindkettőben a [[F/FU\|FU]] etimon. De a biológia ([[B/Biology\|biolog
 > Háromszögletű napjelkép is van, bármily hihetetlen. Az például az egyiptomi [[P/Piramis\|piramis]], mely a "Fényhegyek" ([[V/Világhegy\|Világhegy]]) kőből rakott mása. A "fényhegy", az [[A/Ahet\|ahet]] hieroglifa azt a helyet jelöli, ahol a Nap lenyugszik és fölkel, vagyis ahol – két hegy között – az egyik világból a másikba átlép. Kákosy László a fényhegy-metafora alapjának azt a valóban gúla vagy háromszög alakú fénypiramist tartja, mely Egyiptomban olykor naplementekor a nyugati égbolton, napkeltekor keleten látszik (lásd még "állatövi fény"). Magát a Napot is ábrázolják [[G/Gúla\|gúla]] alakúnak, amiből arra következtet, hogy a piramist napjelképnek is felfoghatjuk. Háromszögbe kristályosodó forma az egyiptomi [[O/Obeliszk\|obeliszk]], mely a napsugár gránitba faragott (egykor aranylemezzel burkolt) metaforája. A napsugarakat pedig kis háromszögekből álló füzérek formájában ábrázolták (például a denderai Hathor templomban).  
 > És hát mi más lenne, mint "napháromszög" a **Szentháromság** napsugaras háromszöge?  
 > A Szentháromság minden egyes személyéről a néphit tudni véli, hogy a Napban lakozik; Isten mindent látó szemét egy hagyomány szintén a Nappal azonosítja – szó lesz róla alább –, s az egyenlő oldalú háromszög mint a tökéletesség jelképe is utal az isteni tökéletességű Napra.  
-> ![assets/Szentháromság_image6.png|fix_light](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image6.png)  
+> ![assets/Szentháromság_image6.png|fix_dark fix_light](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image6.png)  
 > Szeged népművészetének jellegzetességei a napsugaras oromdíszű házhomlokzatok. (47. rajz.) Mint Bosnyák Sándor írja, a tető mintázatában "a szegedi parasztok a napfelkeltét, a delelést, a napnyugtát, a alul a zárt rekeszekben az éjszakát látják."  
-> ![assets/Szentháromság_image7.png|fix_light](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image7.png)  
+> ![assets/Szentháromság_image7.png|fix_dark fix_light](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image7.png)  
 
 Bálint Sándor szerint e napsugaras háromszög szentháromság-jelkép volt, szerintem napszimbólum is.  
 
@@ -301,7 +300,7 @@ Szentháromságnak mondja egy internetes cikk szerzője az Anya, Gyermek és a [
 
 A már a címében is mutatólagos L. Kecskés András Háromkirályok – Szentháromság című az Ősi Gyökér 2013/1-2. sz. megjelent cikkében Gáspár, Menyhért, Boldizsár, és az általuk ajándékként hozott [[A/Arany\|arany]], [[T/Tömjén\|tömjén]] és [[M/Mirha\|mirha]] kapcsán szól a témáról.  
 
-![assets/Szentháromság_image10.jpeg|fix_light](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image10.jpeg)  
+![assets/Szentháromság_image10.jpeg|fix_dark fix_light](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image10.jpeg)  
 Bakk István Miért apostoli királyság Magyarország? című az Ősi Gyökér 2013/3. sz. megjelent cikkében van egy rész, amely a [[P/Pálos\|pálos]] rend alapításáról szól. Ami a legérdekesebb benne, hogy benne Özsébet, mint a nagykutya nemzetségből valót említi; ugyanott (lásd témát [[K/Kutya\|kutya]] címnél) Gyárfás Ágnes Szentháromságra utaló kijelentést is tesz: Mária országának mennyei királysága az égi térképen látható, és ennek a földi mása a szentháromság megjelölése: a (Holló, Bak és a Nagykutya) csillagképek által határolt terület. \[Lényegében a [[T/Tejútanya\|Tejútanya]] csillagteste.\]  
 
 ## Judeo-keresztény szentháromság
@@ -364,10 +363,11 @@ A Ne Legyen Áldozat YouTube csatornán elérhető Pap Gáborral folytatott besz
 Ugyanakkor erről már korábban rendelkeztek.  
 Egy [másik](https://youtu.be/O8DXMM_g3Q4) Ne Legyen Áldozatos videó legvégén egy 869-es konstantinápolyi zsinatról volt szó, ahol már rendelkeztek korábban a kivételről. (De azóta [ezen](https://www.youtube.com/watch?v=oNULoLMuX8w) videóban egy teljes adást szántak a témának Tímárék. Lásd [[Z/Zsinat\|zsinat]].)  
 Tehát, ahogy 8:00-nál mondja Pap Gábor, amíg az első vizsgált esetben – a 451-es khalkedóni zsinat rendelkezésének eredményeképpen az istenkép-torzulását érzékeljük (lásd [[J/Jahve\|Jahve]] címnél, külön alcímnél erről), addig a 869-es zsinaton az emberkép-torzulást/torzítást érhetjük tetten.  
-![assets/Szentháromság_image11.png|fix_light](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image11.png)  
+
 Beszél arról, hogy a három komponens (szellem, lélek, test) neve a héberben, görögben és latinban is megvolt, tehát addig élő hagyománya volt ennek. Utána a háromból kettő úgy lett, hogy a szellemet és lelket összevonták (megjegyzem, ennek nyomát a nyelvben is megtaláljuk, ugyanis a szellem, szellet a germán nyelvekben Seele és `soul` = lélek jelentésű). Furcsamód, ahogy 11:55-nél mondja, még a [[R/Reformáció\|Reformáció]] sem vette elő ezt a kérdést, hogy vissza kellene állítani.  
 [Ezen](https://qr.ae/pGJjru) műsorban 3:00 előtt is szólt erről röviden. Teljesen kézenfekvőnek veszik az egyházi személyek a kérdést, mondván, "lélek, szellem, az ugyanaz." A hívő pedig már eleve nem is nagyon meri feltenni a kérdést.  
 14:55-nél megint elhangzik, hogy aki ragaszkodik a háromrétegűséghez, az kétféle lelket tételez fel és az eretnekség. Utána beszél a csúsztatás[^11] fogalmáról a kapcsán, hogy addig témáznak a dologról, hogy a végén már ne lehessen tudni, hogy eredetileg három rétegű volt az ember vagy csak két külön nevet adtak volna korábban ugyanannak, vagy hogy is volt.  
+![assets/Szentháromság_image11.png|invert_light](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image11.png)  
 A mellékelt hímzésről való képen jól látszik a három, elkülönített rétege az embernek (nem is lehet nem észrevenni a hármas tagolást).  
 [Ezen](http://www.ujexodus.hu/tortenelem/egy_kiatkozo_zsinat_es_kovetkezmenyei) oldal anyagából idéz (a második említett videóban) Pap Gábor:  
 
@@ -382,14 +382,14 @@ Kulcsár Árpád – Egy kiátkozó zsinat és következményei – Drámai szak
 > Végül Phótiosz erőteljes ellenlépésre szánta el magát. 867-ben zsinatot hívott össze a fővárosba, amelyen I. Miklós pápát letettnek nyilvánították a pápai székről, és kiközösítették az egyházból. Ezzel megkezdődött a Phótiosz-féle egyházszakadás. Róma alig várta, hogy elégtételt vegyen ortodox ellenfelein. Az alkalom nem váratott sokáig magára. A Phótioszt támogató császárt 867-ben megölette Makedóniai Baszileosz, és ő foglalta el a trónt. Amikor a gyilkosságban részes új császárt Phótiosz nem engedte belépni a konstantinápolyi Hagia Sophiába, a császár száműzte őt. Ezt a helyzetet használta ki Róma. A Phótiosz ellen szintén fellépő császár támogatásával 869-ben Konstantinápolyban összeült az úgynevezett VIII. egyetemes zsinat. Itt a pápai követeknek sikerült keresztülvinniük, hogy a Phótiosz ellen Rómában kimondott döntéseket belefoglalják a zsinati határozatokba.  
 > Az ember hármas tagolódását elítélő döntéssel egyrészt teológiailag igyekeztek megbélyegezni Phótioszt és követőit, másrészt a trichotómiával szemben álló római felfogást igyekeztek érvényre juttatni az ortodox egyházban.  
 > E terv nem járt sikerrel Keleten, hiszen ott már a zsinat előtt is az ember hármas felosztását valló nézetek voltak meghatározóak, és az elítélő határozat után is a bizánci teológusok nagy többsége a trichotómia álláspontját tartotta magától értetődőnek.  
-
-A [[H/Huszita Biblia\|Huszita Biblia]] a Müncheni kódexben  
-Nyugaton azonban a zsinati döntés megerősítette az addigi dichotomikus felfogást, amely a szellem és a lélek egybemosásával az embert csak két részből, lélekből és testből állónak tekinti. A 870-ben kelt zsinati határozat mindmáig hivatkozási alapul szolgál a római katolikus egyházban.  
-Ez a nyugati felfogás tovább élt a reformációt követően a protestáns egyházakban is. Magyarországon még a bibliafordításokra is rányomta a bélyegét.  
-A magyar nyelvben a nyelvújítás koráig, a 19. század elejéig nem volt külön közhasználatú szó a pneumára, hanem erre is a "lélek" kifejezést használták. Megjegyzendő, hogy az 1439 körül készült Huszita Biblia fordítói, akik a latin nyelvű Vulgatából készítették fordításukat, a pneuma latin megfelelőjére, a spiritusra külön magyar kifejezést alkottak.  
-A Huszita Biblia fő ismertetőjegye éppen az volt, hogy a spiritust, amely görög eredetijéhez hasonlóan 'szelet', 'fúvást' jelent, a szellet kifejezéssel adták vissza. Az üldözött husziták szóalkotása azonban nem tudott elterjedni.  
-Bár a 19. század folyamán a magyar köznyelvben általánosan elterjedt a "szellem" szó használata, a történelmi felekezetek bibliafordításában továbbra is csak a "lélek" szót használták mind a pneuma (szellem), mind a pszükhé (lélek) fordítására. Ez a dichotomikus szemlélet érvényesült a 20. század végén elkészült új fordításokban, az 1973-ban kiadott új katolikus bibliafordításban éppúgy, mint az 1975-ben megjelent új protestáns fordításban.  
-A 21. század elején a Szent Pál Akadémia bibliafordítása hozott alapvető fordulatot ezen a téren. A fordítóbizottság a Biblia eredeti nyelveinek megfelelően következetesen megkülönbözteti a "lélek" és "szellem" kifejezések használatát, ami a Szentírás kijelentéseinek sokkal árnyaltabb és pontosabb megértését teszi lehetővé.  
+> ---
+> A [[H/Huszita Biblia\|Huszita Biblia]] a Müncheni kódexben  
+> Nyugaton azonban a zsinati döntés megerősítette az addigi dichotomikus felfogást, amely a szellem és a lélek egybemosásával az embert csak két részből, lélekből és testből állónak tekinti. A 870-ben kelt zsinati határozat mindmáig hivatkozási alapul szolgál a római katolikus egyházban.  
+> Ez a nyugati felfogás tovább élt a reformációt követően a protestáns egyházakban is. Magyarországon még a bibliafordításokra is rányomta a bélyegét.  
+> A magyar nyelvben a nyelvújítás koráig, a 19. század elejéig nem volt külön közhasználatú szó a pneumára, hanem erre is a "lélek" kifejezést használták. Megjegyzendő, hogy az 1439 körül készült Huszita Biblia fordítói, akik a latin nyelvű Vulgatából készítették fordításukat, a pneuma latin megfelelőjére, a spiritusra külön magyar kifejezést alkottak.  
+> A Huszita Biblia fő ismertetőjegye éppen az volt, hogy a spiritust, amely görög eredetijéhez hasonlóan 'szelet', 'fúvást' jelent, a szellet kifejezéssel adták vissza. Az üldözött husziták szóalkotása azonban nem tudott elterjedni.  
+> Bár a 19. század folyamán a magyar köznyelvben általánosan elterjedt a "szellem" szó használata, a történelmi felekezetek bibliafordításában továbbra is csak a "lélek" szót használták mind a pneuma (szellem), mind a pszükhé (lélek) fordítására. Ez a dichotomikus szemlélet érvényesült a 20. század végén elkészült új fordításokban, az 1973-ban kiadott új katolikus bibliafordításban éppúgy, mint az 1975-ben megjelent új protestáns fordításban.  
+> A 21. század elején a Szent Pál Akadémia bibliafordítása hozott alapvető fordulatot ezen a téren. A fordítóbizottság a Biblia eredeti nyelveinek megfelelően következetesen megkülönbözteti a "lélek" és "szellem" kifejezések használatát, ami a Szentírás kijelentéseinek sokkal árnyaltabb és pontosabb megértését teszi lehetővé.  
 
 A lélek és szellem kérdésében fontos megjegyezni amiről [[L/Lélek#Lélekszékhely\|lélekszékhely]] cím/alcímnél is volt szó, jelesen, hogy magas kultúrákban is már a fejbe-agyba helyezték a lelket. Azaz a zsinatokon taglalt folyamatnak/félreértéseknek/rácsúsztatásnak is megvoltak az előzményei. A magas tudásúnak gondolt kultúrákban is különféle felfogással találkozunk. Mit is mondtak (Várkonyi Nándor tolmácsolásában) ([[H/Harmadik szem\|harmadik szem]] címnél is megvolt) a lélek és szellem fogalmainak összetévesztésére utaló információkat tekintve:  
 > A **szimpatikus idegrendszert a görögök a lélek székhelyének** tették meg, Schleich a kozmikus kapcsolatok felfogó szervének, Jung a faji emlékezés tárházának; vele azonosíthatók a hindu jóga csakrái, vagyis az életerő áramának központjai.  
