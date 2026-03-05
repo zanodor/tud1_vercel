@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehérvár/","title":"Fehérvár","created":"2024-12-18T11:39","updated":"2025-10-10T21:55"}
+{"dg-publish":true,"permalink":"/F/Fehérvár/","title":"Fehérvár","created":"2024-12-18T11:39","updated":"2026-03-05T01:42"}
 ---
 
 
