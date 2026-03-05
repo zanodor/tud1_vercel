@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ökörhajcsár csillagkép/","title":"Ökörhajcsár csillagkép","created":"2023-10-13T12:48","updated":"2025-09-24T13:57"}
+{"dg-publish":true,"permalink":"/O/Ökörhajcsár csillagkép/","title":"Ökörhajcsár csillagkép","created":"2023-10-13T12:48","updated":"2026-03-05T01:50"}
 ---
 
 
