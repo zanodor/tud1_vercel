@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2026-02-27T23:22"}
+{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2026-03-05T01:27"}
 ---
 
 
