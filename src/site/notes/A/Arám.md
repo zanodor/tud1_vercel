@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arám/","title":"Arám","created":"2023-10-20T06:58","updated":"2025-09-24T13:53"}
+{"dg-publish":true,"permalink":"/A/Arám/","title":"Arám","created":"2023-10-20T06:58","updated":"2026-03-05T01:44"}
 ---
 
 
