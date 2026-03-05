@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Négyzet/","title":"Négyzet","created":"2023-10-26T05:19","updated":"2025-09-24T13:55"}
+{"dg-publish":true,"permalink":"/N/Négyzet/","title":"Négyzet","created":"2023-10-26T05:19","updated":"2026-03-05T01:47"}
 ---
 
 
@@ -15,8 +15,8 @@ Ugyanezt leírta Jankovics Marcell [[N/Négyszögletes Föld\|négyszögletes F�
 
 Falvay Károly Nagyboldogasszony című könyvének 149. oldalától bőségesen szól a négyzetről és négyszögletességről, jelképiségéről.  
 
-A mellékelt kép Molnár V. József Világ-Virág című könyvéből való, de nem találom a hozzá való szöveget. Mint kiderül, George Mitchell The Hindu Temple című könyvében szerepel és **Purusha** istenséget ábrázolja.  
-![assets/Négyzet_image1.jpeg|fix_light](/img/user/N/assets/N%C3%A9gyzet_image1.jpeg)  
+A mellékelt kép Molnár V. József Világ-Virág című könyvéből való, de nem találom a hozzá való szöveget. Mint kiderül, George Mitchell The Hindu Temple című könyvében szerepel és **Purusha** nevű kozmikus lényt ábrázolja.  
+![assets/Négyzet_image1.jpeg|fix_dark fix_light](/img/user/N/assets/N%C3%A9gyzet_image1.jpeg)  
 Hasonló a [[V/Vitruvius\|Vitruvius]]-emberhez, de ami itt érdekes, hogy az ülő (az ülő isten mindig az örökkévalóságra utal) pozícióban ábrázolt alak tényleg éppen egy négyzetbe foglalható.  
 - Ha már Vitruvius, ahogy [[F/Fő\|fő]] címnél is írtuk, hogy az ötágú csillagra emlékeztető ábrázolásban az ötödiknek, a fentinek számolandó a fej. A [[F/Fő\|fő]] pedig nemcsak a [[P/PA\|PA]], hanem a [[F/FU\|FU]] etimonnal is megfeleltethető.
 
