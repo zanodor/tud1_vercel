@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szakáll/","title":"Szakáll","created":"2024-04-21T14:31","updated":"2026-02-27T17:36"}
+{"dg-publish":true,"permalink":"/S/Szakáll/","title":"Szakáll","created":"2024-04-21T14:31","updated":"2026-03-05T01:38"}
 ---
 
 
