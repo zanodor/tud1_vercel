@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szanszkrit/","title":"Szanszkrit","tags":["nyelvészet","Englishtexttranslated"],"created":"2026-01-30T18:16","updated":"2026-01-30T18:17"}
+{"dg-publish":true,"permalink":"/S/Szanszkrit/","title":"Szanszkrit","tags":["nyelvészet","Englishtexttranslated"],"created":"2026-01-30T18:16","updated":"2026-03-05T01:45"}
 ---
 
 
