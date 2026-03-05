@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pünkösd/","title":"Pünkösd","tags":["Englishtexttranslated"],"created":"2024-12-18T11:44","updated":"2025-10-10T21:53"}
+{"dg-publish":true,"permalink":"/P/Pünkösd/","title":"Pünkösd","tags":["Englishtexttranslated"],"created":"2024-12-18T11:44","updated":"2026-03-05T01:31"}
 ---
 
 
@@ -23,7 +23,7 @@ A hagyományaink egyértelműen arra mutatnak, hogy az Ikrek és a Bika között
 [[N/Nap#Napba öltözött asszony\|Napba öltözött asszony]] cím/alcímnél szerepelt Fister Mária Magdolna: Cigléd, a titokzatos Pálos hely című az Ősi Gyökér 2012/1. sz. megjelent cikkében Pünkösd kapcsán, hogy ekkor öltözne Napba, a nyári napforduló idején és hogy ünnepe mindig változó, sohasem esik egybe a nyári napforduló idejével. Hol ide, hol oda kerül az ünnep.  
 [Ezen](https://hu.wikipedia.org/wiki/S%C3%A1vu%C3%B3t) oldalon a héber Sávuót nevéről illetve az ünnepről olvashatunk. A zsidó naptár szerint: napja a ([[S/Seven\|seven]] névvel nyilván véletlenül azonos) [[S/Sziván\|Sziván]] 6.  
 A mellékelt képecskén látjuk, hogy valóban a nyári napfordulóhoz közeli napra is eshet a közben [[S/Sabbath\|Sabbath]] címnél is taglalt Sávuót.  
-![assets/Pünkösd_image1.png|fix_light](/img/user/P/assets/P%C3%BCnk%C3%B6sd_image1.png)  
+![assets/Pünkösd_image1.png|fix_dark fix_light](/img/user/P/assets/P%C3%BCnk%C3%B6sd_image1.png)  
 
 Internet blogon hasonló olvasható:  
 > A Tejút a létezés galaktikus síkjának külső, látható megnyilvánulása, mely összhangban van az isteni világgal, a zodiákus pedig a szemünk számára is láthatóvá teszi a szellemi világgal összhangban lévő kozmoszunk határát. Ennek a két körnek a metszéspontjai a Nyilas első fokain (az ellenkező oldalon pedig az Ikrek első fokain) **kapukat** jelölnek a szellemi világból az isteni világba, melyeken keresztül az isteni világból impulzusok áramolhatnak a szellemi világba, vagyis a mi kozmoszunkba. A metszéspontok területei (az Ikrek és a Nyilas kezdeti fokai) ezért magas nyomás és magas feszültség helyei. Nem csoda, hogy gyakran történnek egyfelől isteni kinyilatkoztatások, másfelől krízisek[^1], amikor ezeken a helyeken áthalad a Nap, a Hold, vagy más bolygó. Elég arra gondolni, hogy Pünkösdkor a Nap az Ikrek 2,5 fokán állt. Ekkor a Szent Szellem melyet a tanítványok fejére szálló lángnyelvek alakjában írnak le, a galaktikus síkról árad be az isteni világból, mint ennek a világnak az ősképi megnyilatkozása.  
