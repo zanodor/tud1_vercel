@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ágas-bogas/","title":"Ágas-bogas","created":"2023-10-22T02:40","updated":"2025-10-30T02:33"}
+{"dg-publish":true,"permalink":"/A/Ágas-bogas/","title":"Ágas-bogas","created":"2023-10-22T02:40","updated":"2026-03-05T01:44"}
 ---
 
 
