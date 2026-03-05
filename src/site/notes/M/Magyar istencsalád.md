@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar istencsalád/","title":"Magyar istencsalád","tags":["Englishtexttranslated"],"created":"2023-11-30T10:05","updated":"2025-09-24T13:49"}
+{"dg-publish":true,"permalink":"/M/Magyar istencsalád/","title":"Magyar istencsalád","tags":["Englishtexttranslated"],"created":"2023-11-30T10:05","updated":"2026-03-05T01:37"}
 ---
 
 
