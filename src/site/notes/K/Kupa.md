@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kupa/","title":"Kupa","tags":["containstransclusions"],"created":"2023-11-14T06:29","updated":"2025-09-24T13:54"}
+{"dg-publish":true,"permalink":"/K/Kupa/","title":"Kupa","tags":["containstransclusions"],"created":"2023-11-14T06:29","updated":"2026-03-05T01:46"}
 ---
 
 
@@ -20,7 +20,7 @@ A fejjel lefelé fordított, [[S/Szoba#Szoba szakrális geometrikus értelmezés
 #### Péterfai János írja:
 
 > Mivel Szkythaország hossza 360 stádium, teljesen világos számunkra, hogy az adat a kör fokait nevezi meg. A 360 fok azt a kört írja le, amit a Föld felszínére helyezhetünk, és egy teljes kört láthatunk. A teljes kör a horizont, vagyis a látóhatár. A közepében vagyunk mi, vagyis az a személy, aki a környéket meg akarja pillantani. A világ közepe mindig ott van, ahol mi vagyunk. Meséink erről a tényről világosan beszélnek. Csudaország szélessége 180 stádium, Thuróczy Jánosnál, Kézai Simon mesternél 190 stadium. A 10 stádium eltérés sok gondolatra indíthatja a kutakodót. Thuróczy János adata azonos a félkör fokainak a számával. Tehát arról van szó, hogy a 360 fokos kört alkotó látóhatár felett létezik a 180 fokos félkört alkotó égbolt. Bizony, a 180 stádium az égboltot jelenti számunkra. A Csudaországot.  
-> ![Kupa_image20250414141348516.jpeg|fix_light](/img/user/K/assets/Kupa_image20250414141348516.jpeg)
+> ![Kupa_image20250414141348516.jpeg|fix_dark fix_light](/img/user/K/assets/Kupa_image20250414141348516.jpeg)
 > *Szkytha, Csuta, Csuda = az Égbolt*
 > \[...\]  
 
