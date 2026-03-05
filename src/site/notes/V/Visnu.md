@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Visnu/","title":"Visnu","created":"2024-10-29T17:01","updated":"2025-11-08T02:06"}
+{"dg-publish":true,"permalink":"/V/Visnu/","title":"Visnu","created":"2024-10-29T17:01","updated":"2026-03-05T01:45"}
 ---
 
 
@@ -20,7 +20,7 @@ Holott Várkonyi Nándor [[K/Kali Yuga#^opkfah\|ezen]] helyen talált passzusáb
 Bakos könyvének 201. oldalán nem Visnu neve kapcsán jól írja:  
 > A magyar nyelvet nem beszélő nyugati tudósok saját nyelveikből kifolyólag az istenek nemének meghatározására kényszerülnek, mert a nyugati nyelvekben a nevekből nem következik természetszerűleg a nemek meghatározhatósága. A magyar nyelv és észjárás nem ad [[N/Nyelvtani nemek\|nem]]et a főneveinek, hanem azok jelentése miatt magától értetődő, hogy férfi, vagy női minőséggel állunk-e szemben. Ha valaki nem tud magyarul (tehát nem érti mit jelent a név maga) képtelen eldönteni, hogy Istenről vagy Istennőről van-e szó.  
 
-![assets/Visnu_image1.jpeg|fix_light](/img/user/V/assets/Visnu_image1.jpeg)  
+![assets/Visnu_image1.jpeg|fix_dark fix_light](/img/user/V/assets/Visnu_image1.jpeg)  
 
 #### Kállay Ferenc A pogány magyarok vallása...
 
