@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vitruvius/","title":"Vitruvius","tags":["Englishtexttranslated"],"created":"2023-10-26T03:11","updated":"2025-09-24T13:19"}
+{"dg-publish":true,"permalink":"/V/Vitruvius/","title":"Vitruvius","tags":["Englishtexttranslated"],"created":"2023-10-26T03:11","updated":"2026-03-05T01:51"}
 ---
 
 
@@ -10,8 +10,8 @@ A világon mindenki által ismert jelkép a négy (öt) elemet és a [[K/Kereszt
 [[P/Pentagram\|Pentagram]] címnél pedig az alábbi Péterfai János adat szerepelt:  
 > Igen fontos az egyiptomi festményeken az ötágú csillagok szerepeltetése. Valójában embert jelentenek. Alul van a két láb, felül van a kitárt két kar, legfelül pedig a fejet jelképező csillagkar.  
 
-![assets/Vitruvius_image1.png|fix_light](/img/user/V/assets/Vitruvius_image1.png)  
-![assets/Vitruvius_image2.png|fix_light](/img/user/V/assets/Vitruvius_image2.png)  
+![assets/Vitruvius_image1.png|fix_dark fix_light](/img/user/V/assets/Vitruvius_image1.png)  
+![assets/Vitruvius_image2.png|fix_dark fix_light](/img/user/V/assets/Vitruvius_image2.png)  
 A forgás tengelyét egy szilárd pont, az ötödik égtáj alkotja, ami az ősi Kínában [[T/Taj-Ji\|Taiyi]], a Hatalmas Egy. Érdekes, hogy a Taiyi szó képe kiterjesztett karú, Da Vinci-féle pózban álló emberalakot ábrázol.  
 
 Ahogy [[F/Fő\|fő]] címnél (és [[N/Négy#Négy és az ötödik irány\|négy és az ötödik irány]] cím/alcímnél) is írtuk, hogy az ötágú csillagra emlékeztető ábrázolásban az ötödiknek, a fentinek számolandó a fej. A [[F/Fő\|fő]] pedig nemcsak a [[P/PA\|PA]], hanem a [[F/FU\|FU]] etimonnal is megfeleltethető.  
