@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2026-03-05T01:23"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2026-03-05T16:16"}
 ---
 
 
@@ -41,14 +41,14 @@ Hogy a Napfiú milyen néven futott ott, talán Molok/[[M/Meleg\|Meleg]] néven.
 
 Záhonyi András A somogyi rovástábla és az Arvisura című az Ősi Gyökér 2010/4. sz. megjelent cikkében írja, hogy előbbi...  
 > Feliratai között megtaláljuk az ősvallás hármasságát. A vallás alapszavai közül felbukkan az ISTEN, az ATYA. Az anyai minőséget az ANAH(I)TA istennő neve képviseli. A "Fiú" is megjelenik DUMUSZ(i)-T(ü)müz napistenség személyében.  
-- A rovástábláról magam semmit sem tudok, így kénytelen vagyok a vele foglalkozóknak hinni.  
+- A rovástábláról magam semmit sem tudok, így kénytelen vagyok a vele foglalkozóknak hinni.
 
 Perzsa Szentháromságról [[A/Ardvisura Anahita\|Ardvisura Anahita]] címnél is volt szó:  
 Perzsiában az Achaemenida Artaxerxes II[^2] uralkodó által építtetett szobrok, templom-építmények feliratain Anahita szerepének fontossága olymód tűnik ki, hogy közvetlenül Ahura Mazda mellett említik:  
 > Artaxerxes' inscription at Susa reads: "By the will of Ahura Mazda, Anahita, and Mithra I built this palace. May Ahura Mazda, Anahita, and Mithra protect me from all evil" (A²Hc 15-10). This is a remarkable break with tradition; no Achaemenid king before him had invoked any but Ahura Mazda alone.  
 > —  
 > Artaxerxész szúszai felirata így szól: "Ahura Mazda, Anahita és Mithra akaratából építettem ezt a palotát. Ahura Mazda, Anahita és Mithra óvjon meg engem minden gonosztól" (A²Hc 15-10). Ez figyelemre méltó szakítás a hagyományokkal; előtte egyetlen akajmenida király sem hivatkozott másra, csak egyedül Ahura Mazdára.  
-- Ez a szentháromság megvan sok kultúrában, de erről az Encyclopedia Iranica írói nem tesznek említést.  
+- Ez a szentháromság megvan sok kultúrában, de erről az Encyclopedia Iranica írói nem tesznek említést.
 
   
 
@@ -126,7 +126,7 @@ Akkor tehát jegyezzük meg, hogy régen kétféle Szentháromság létezett, ah
 > In the old days, the Holy Trinity consisted of Mother, Daughter and Son (in matriarchal societies) or Mother, Father and Son (in (pre-)patriarchal societies) (compare the Judeo-Christian Father, Son, Holy Spirit trinity, which doesn't even care for Mothers anymore, let alone the opinion of Magyars). In the astro-mythological sense however, the Mother can bear only a Son, the Sun himself (the celestial Mother is the Sky/Milky Way Goddess, Magna Mater).  
 > —  
 > Régen a Szentháromság Anyából, Lányból és Fiúból (matriarchális társadalmakban) vagy Anyából, Apából és Fiúból ((pre)patriarchális társadalmakban) állt (vö. a zsidó-keresztény Atya, Fiú, Szentlélek szentháromsággal, amely már az Anyákkal sem törődik, nemhogy a magyarok véleményével). Asztro-mitológiai értelemben viszont az Anya csak egy Fiút, magát a Napot szülheti (az égi Anya az Ég/Tejútistennő, Magna Mater).  
-- Persze itt is kifejthettem volna azt az alant is említett tételt, hogy két háromságot vontak egybe.  
+- Persze itt is kifejthettem volna azt az alant is említett tételt, hogy két háromságot vontak egybe.
 
 Takács György Babba Mária – adalékok a magyarság őszintének istenanya-alakjához című Ősi Gyökér 2004/3. sz. megjelent cikkében fontos adatokat oszt meg:  
 > Ismeretes, hogy a Szentlélek helyén egykor a Szentháromságban az Anya szerepelt. A **Nag-Hammadi**ban feltárt János apokrif-ben Jánosnak látomásában megjelenik az Atya az Anya és a Fiú. Hasonlóan mindig női minőség szerepel az Atya és a Fiú mellett a [[M/Manicheizmus\|manicheizmus]] fényfelszabadítási programjának üdvtörténeti szakaszhatárain: a Fény Atyja és az Első Ember mellett az Élet Anyja. A hettitáknál is hasonló a hármasság: Égisten, Nagy Istenanya, Fiatal Napisten. **A magyar Szent Koronán is eredetileg e hármasság szerepelt**: Pantokrátor Krisztus – mint Atya, Jézus Krisztus, és a Boldogságosszűz alakja, amit később eltávolítottak.  
@@ -159,7 +159,7 @@ A teljesebb passzussal [[J/Jézus#Jézus születése\|Jézus születése]] cím/
 > Evangéliumának célja, hogy az új hit, a kereszténység számára áttérőket, követőket nyerjen, ezért arra törekedett, hogy evangéliumát ennek megfelelően alakítsa ki. Megértette az ősi misztériumok és a kereszténység közötti kapcsolatokat és ezeket hangsúlyozni kívánta a beavatottak számára. "akiknek van fülük a hallásra". Így Máténál az új keresztényi rendben Ozirisz, Ízisz és Hórusz eredeti egyiptomi hármasságát József, Mária és Jézus váltja föl.  
 > Ezt tudva elemezhetjük Krisztus születését ábrázoló jelenetet és beleláthatunk annak mélyebb jelentésébe, amit a "beavatott" keresztény ikonográfusok is érthettek.  
 > E szerint Máriának és Józsefnek van az égbolton csillag-megfelelője. Makrokozmikus értelemben ők a Szíriusz, illetve az Orion csillagkép.  
-- Utóbbi passzus [[J/József\|József]] és [[M/Mária\|Mária]] címnél is szerepelt.  
+- Utóbbi passzus [[J/József\|József]] és [[M/Mária\|Mária]] címnél is szerepelt.
 
 A bizánci Szuda lexikon idézetet közöl egy hermetikus szövegből, melyben az egyházi felfogás szerint [[H/Hermész\|Hermész]] Triszmegisztosz a Szentháromság tanát hirdeti meg: "Létezett a Szellemi Fény, a szellemi fény előtt és mindig létezett az értelem fényességes Értelme, és nem volt semmi más, mint ennek az [[E/Egy\|egy]]sége. És a Lélek vette körül az egészet."
 
@@ -350,7 +350,7 @@ De más idegen nyelv segítségét is hívhatjuk: a latin `spirare` = lélegzeni
 
 ...című az Ősi Gyökér 2008/2. sz. megjelent cikkének és "Lehel-kürt" és a "Szent László legenda" ikonográfiai azonossága a szkíta kereszténység tükrében c. az Ősi Gyökér 2008/3-4. sz. megjelent cikkének adatait figyelembe véve megállapíthatjuk, hogy az általa **fejléleknek hívott lélek = szellem** (hiszen valóban a szellemnek megfelelő lélek székhelyét a fejbe helyezték) ([[H/Hun#Hun lélek jelentése\|hun lélek jelentése]] cím/alcímnél is szerepelt):  
 > Tekintsük például a HUN fogalmát és most nem, mint népnevet, hanem, mint a kínai nyelvben meglévő fogalmat. A hun a kínai nyelvben két írásjellel van leírva (felhő ill. ördög-gonosz), melynek együttes fogalmi jelentése a testtől külön létező lélek, azaz a **szabadlélek**, mely **az ember szellemét irányítja** és a születés pillanatától, a halál pillanatáig kíséri az embert (Tokaji Zsolt: Kínai jelképtár, Szukits Könyvkiadó, 2002). Ehhez még azt is pontosan tudjuk – melyet Dienes István is említ –, hogy Árpád idejében a magyarok szabadlélek tisztelete oly erős, hogy bármit odaadnának fogságban kivégzett vezetőjük fejéért, mely a szabadlélek helye.  
-- Rostás László másik említett cikkében már ezen fogalmakat összevonva szabadlélek mint fejlélekről írja, hogy a *szabad fejlelket*, a kínai nyelvben mind a mai napig `hun`-nak nevezik.  
+- Rostás László másik említett cikkében már ezen fogalmakat összevonva szabadlélek mint fejlélekről írja, hogy a *szabad fejlelket*, a kínai nyelvben mind a mai napig `hun`-nak nevezik.
 
 Ne feledjük itt még a [[S/Székely-magyar rovásírás#Gy\|székely-magyar rovásírás gy]] és [[S/Székely-magyar rovásírás#Sz\|sz]] betűit sem, Grandpierre Atilla olvasatát és a sumér Ász jelet:  
 Grandpierre Atilla A királyi mágusok című dolgozatának adata szerint és [ezen](https://youtu.be/5qLoX6R_IGk) előadásának adata szerint az ősi magyar rovásírás "[[E/Egy\|egy]]" jele egyháromság (mely a lélektől egy, mert ha a lélek elhagyja a testet, akkor szerinte szétesik ez a egység): ahol a három vonal értelme az ember szintjén és kozmikus szinten a következő: **a függőleges vonal a lélek, ami az élet elve, az alsó vonal az anyagé/testé és a felső vonal értelemé/szelleme**.  
@@ -370,8 +370,7 @@ Beszél arról, hogy a három komponens (szellem, lélek, test) neve a héberben
 ![assets/Szentháromság_image11.png|invert_light](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image11.png)  
 A mellékelt hímzésről való képen jól látszik a három, elkülönített rétege az embernek (nem is lehet nem észrevenni a hármas tagolást).  
 [Ezen](http://www.ujexodus.hu/tortenelem/egy_kiatkozo_zsinat_es_kovetkezmenyei) oldal anyagából idéz (a második említett videóban) Pap Gábor:  
-
-Kulcsár Árpád – Egy kiátkozó zsinat és következményei – Drámai szakítás az ember szellem-lélek-test hármas felosztásával  
+> Kulcsár Árpád – Egy kiátkozó zsinat és következményei – Drámai szakítás az ember szellem-lélek-test hármas felosztásával  
 > 869-ben viharos előzmények után ült össze Konstantinápolyban az az egyházi tanácskozás, amelyet Róma mindmáig kiemelkedő jelentőségűnek ítél, és VIII. egyetemes zsinatként tart számon, miközben a keleti kereszténység nem fogadja el érvényesnek az itt született határozatokat.  
 > A VIII. egyetemes zsinat Konstantinápolyban (869)  
 > A zsinat több olyan döntést hozott, amelyek hosszú távon is maradandó hatást gyakoroltak. Ezek egyike a 11. kánon, amely éles hangon elítéli az ember hármas felosztására vonatkozó *bibliai* felfogást, amely szerint a szellem (görögül: pneuma), a lélek (pszükhé) és a test (szóma) hármasságából épül fel minden ember. A zsinati atyák a lelket azonosítva a szellemmel úgy igyekeztek beállítani a hármas felosztás képviselőit, mintha azok az embernek két lelket tulajdonítanának[^12]. Az átokkal megerősített elítélő határozat kimondja:  
@@ -382,7 +381,7 @@ Kulcsár Árpád – Egy kiátkozó zsinat és következményei – Drámai szak
 > Végül Phótiosz erőteljes ellenlépésre szánta el magát. 867-ben zsinatot hívott össze a fővárosba, amelyen I. Miklós pápát letettnek nyilvánították a pápai székről, és kiközösítették az egyházból. Ezzel megkezdődött a Phótiosz-féle egyházszakadás. Róma alig várta, hogy elégtételt vegyen ortodox ellenfelein. Az alkalom nem váratott sokáig magára. A Phótioszt támogató császárt 867-ben megölette Makedóniai Baszileosz, és ő foglalta el a trónt. Amikor a gyilkosságban részes új császárt Phótiosz nem engedte belépni a konstantinápolyi Hagia Sophiába, a császár száműzte őt. Ezt a helyzetet használta ki Róma. A Phótiosz ellen szintén fellépő császár támogatásával 869-ben Konstantinápolyban összeült az úgynevezett VIII. egyetemes zsinat. Itt a pápai követeknek sikerült keresztülvinniük, hogy a Phótiosz ellen Rómában kimondott döntéseket belefoglalják a zsinati határozatokba.  
 > Az ember hármas tagolódását elítélő döntéssel egyrészt teológiailag igyekeztek megbélyegezni Phótioszt és követőit, másrészt a trichotómiával szemben álló római felfogást igyekeztek érvényre juttatni az ortodox egyházban.  
 > E terv nem járt sikerrel Keleten, hiszen ott már a zsinat előtt is az ember hármas felosztását valló nézetek voltak meghatározóak, és az elítélő határozat után is a bizánci teológusok nagy többsége a trichotómia álláspontját tartotta magától értetődőnek.  
-> ---
+> 
 > A [[H/Huszita Biblia\|Huszita Biblia]] a Müncheni kódexben  
 > Nyugaton azonban a zsinati döntés megerősítette az addigi dichotomikus felfogást, amely a szellem és a lélek egybemosásával az embert csak két részből, lélekből és testből állónak tekinti. A 870-ben kelt zsinati határozat mindmáig hivatkozási alapul szolgál a római katolikus egyházban.  
 > Ez a nyugati felfogás tovább élt a reformációt követően a protestáns egyházakban is. Magyarországon még a bibliafordításokra is rányomta a bélyegét.  
