@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kinetic/","title":"Kinetic","created":"2024-11-23T05:18","updated":"2025-09-28T21:26"}
+{"dg-publish":true,"permalink":"/K/Kinetic/","title":"Kinetic","created":"2024-11-23T05:18","updated":"2026-03-05T01:38"}
 ---
 
 
