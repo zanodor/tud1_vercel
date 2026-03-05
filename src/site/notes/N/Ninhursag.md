@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2025-10-10T21:55"}
+{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2026-03-05T01:43"}
 ---
 
 
@@ -25,7 +25,7 @@ Másutt is írja:
 > A Nagy Istennőt mondhatjuk Nammunak, Ninhursagnak, Tiamatnak, Inannának.  
 
 A mellékelt kép is a könyvéből való.  
-![assets/Ninhursag_image1.png|fix_light](/img/user/N/assets/Ninhursag_image1.png)  
+![assets/Ninhursag_image1.png|fix_dark fix_light](/img/user/N/assets/Ninhursag_image1.png)  
 Egyébként Falvay könyvének adatait olvasva a nála (is) nőiségi mennyről, nem tűnik butaságnak Ninhursag nevét Mennyországgal azonosítani, bár a Hursag = [[H/Herceg\|herceg]] azonosítás alapján lehet Herceg Nő(je) értelmű is, ahol akkor a Herceg lehetne Orion (vagy ezek szerint Enki).  
 
 #### Jeremy Black és Anthony Green Gods, Demons and Symbols in Ancient Mesopotamia...
