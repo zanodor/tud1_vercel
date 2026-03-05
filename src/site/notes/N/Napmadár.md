@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Napmadár/","title":"Napmadár","created":"2025-03-05T02:51","updated":"2026-03-03T17:22"}
+{"dg-publish":true,"permalink":"/N/Napmadár/","title":"Napmadár","created":"2025-03-05T02:51","updated":"2026-03-05T01:33"}
 ---
 
 
