@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Karácsony/","title":"Karácsony","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2025-09-24T13:40"}
+{"dg-publish":true,"permalink":"/K/Karácsony/","title":"Karácsony","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2026-03-05T01:24"}
 ---
 
 
@@ -99,7 +99,7 @@ Dobos Csanád interneten megosztott Miért december 25 karácsony napja című c
 
 Ezzel a levezetésével "csak" annyi a baj, hogy [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelése]] címnél felfedtük, hogy a Szíriusznak nem lenne szabad vándorolnia, ergo a planetárium szoftverek is olyan NASA-féle adatokat használnak, mely a téves [[P/Precesszió\|precesszió]]-jelenségre építenek (szándékosan, vagy sem, most mindegy: lásd erről még [[T/Tavaszpont\|tavaszpont]] és [[Z/Zodiac\|zodiac]]).  
 Az kétségtelen viszont, hogy január 1-4 környékén a Föld perihelion pontjához jut.  
-![assets/Karácsony_image2.png|fix_light](/img/user/K/assets/Kar%C3%A1csony_image2.png)  
+![assets/Karácsony_image2.png|fix_dark fix_light](/img/user/K/assets/Kar%C3%A1csony_image2.png)  
 [[J/Johan Oldenkamp\|Johan Oldenkamp]], más úton, hasonló eredményre jut:  
 > After being dead for three days, on December 25th, the Messiah \[the Sun\] rises up from the dead and starts to move higher in the sky every following day (up until the summer solstice). By drawing a straight line from the three stars (also known as the Three Kings) in the Belt of Orion through the star Sirius (which the Kings followed), the crossing of that line with the horizon marked exactly the location of the rising Helios (or (re-) birth of Christ) on December 25th. The biblical version is just a personalized version of this celestial dynamics.  
 > —  
@@ -370,7 +370,7 @@ Az Orion csillagkép a lapp mítoszok szerint a Tejúton előle, a Sarkcsillag f
 Richard H. Allen könyvéből kiderül, hogy az akkádban `hid` = folyó (a Tejutat Hid In-Ni-Naanak, Innana/Istár folyójának nevezték). Érdekes ennek [[H/Híd\|híd]] szavunkkal való egyeztetése is, annál is inkább, mert Iránban ismert a Chinvat-híd kifejezés a Tejútra értve (lásd róla főleg [[S/Sarama\|Sarama]]). Könnyen lehet, hogy a görög szó föníciai eredetű és az akkád `hid` = folyó valóban a Tejútfolyó, mely híd is. Különösen a Tejút karácsonykori függőleges állásával képez [[R/Religion\|religio]]-szintű hidat ég és föld, isten és ember között.  
 
 [^17]: Lábjegyzet:  
-http://grandpierre.hu/site/2013/11/karacsony-es-vonzas-torvenye-oshagyomanyunk-teljesebb-megvilagitasban/  
+[http://grandpierre.hu/site/2013/11/karacsony-es-vonzas-torvenye-oshagyomanyunk-teljesebb-megvilagitasban/](https://web.archive.org/web/20241107160002/http://grandpierre.hu/site/2013/11/karacsony-es-vonzas-torvenye-oshagyomanyunk-teljesebb-megvilagitasban/)  
 
 [^18]: Lábjegyzet:  
 Gyárfás Ágnes a Fordulat – Hitvilág, mítoszok, legendák című PDF 53. oldalától szereplő Lugal Geme nagy Urasszony ki Mada című írásában is kitér arra, miért fontos a január 1.-i dátum:  
