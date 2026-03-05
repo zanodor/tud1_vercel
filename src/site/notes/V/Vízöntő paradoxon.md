@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vízöntő paradoxon/","title":"Vízöntő paradoxon","created":"2024-12-18T07:42","updated":"2026-03-05T01:30"}
+{"dg-publish":true,"permalink":"/V/Vízöntő paradoxon/","title":"Vízöntő paradoxon","created":"2024-12-18T07:42","updated":"2026-03-05T22:15"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Az állatövről (állapotövről) beszélve Pap Gábor több előadásában szól arról, hogy a 12 jelből álló zodiákus valójában 10 jegyre korlátozódik azzal, hogy az [[O/Oroszlán-Vízöntő tengely\|Oroszlán-Vízöntő tengely]] "kiesik," azzal, hogy virtuális: egészen másképp viselkedik, mint a többi tengely. (Lentebb már azóta mást is mond: az Oroszlán miért is esne ki?)  
 ![assets/Vizontoparadoxon_image1.png|fix_dark fix_light|840](/img/user/V/assets/Vizontoparadoxon_image1.png)  
-Igen érdekes, hogy a [[S/Sumér zodiákus\|sumér zodiákus]]ban ezen jegyek nevei szinte azonosak. Az Oroszlán neve UR.GU.LA ([[U/Urgula\|Urgula]]), míg a Vízöntőé GU.LA ([[G/Gula#Gula 2)\|Gula]]). Gavin White-nak, a Babylonian Star Lore című könyv írójának ez az azonosság mintha fel sem tűnt volna. [[O/Oroszlán-Vízöntő tengely\|Oroszlán-Vízöntő tengely]] címnél szó lesz ezen nevekről, Szíriuszt ábrázoló kutyák kapcsán is.  
+Igen érdekes, hogy a [[S/Sumér zodiákus\|sumér zodiákus]]ban ezen jegyek nevei szinte azonosak. Az Oroszlán neve UR\.GU\.LA ([[U/Urgula\|Urgula]]), míg a Vízöntőé GU\.LA ([[G/Gula#Gula 2)\|Gula]]). Gavin White-nak, a Babylonian Star Lore című könyv írójának ez az azonosság mintha fel sem tűnt volna. [[O/Oroszlán-Vízöntő tengely\|Oroszlán-Vízöntő tengely]] címnél szó lesz ezen nevekről, Szíriuszt ábrázoló kutyák kapcsán is.  
 Ezen tengely pedig nem más, mint a [[S/Szűz-Halak tengely\|Szűz-Halak tengely]] "túlsó (Nagy Év világos felét kezdő) fele." A virtualitás pedig talán csak(?) abban jelentkezik, hogy a Szűz-Halak által képviselt állapotok nem szűnnek meg...?  
 
 Pap Gábor maga is többször védi magát azzal, hogy senki sem érti a paradoxonát és hadd gúnyolják érte. Ugyanakkor valami mégiscsak történik ezen a tengelyen, tekintve, hogy ez a tengely valamiféle kapcsolatban lehet\[?\] a Szíriuszhoz való közeledéssel, akár úgy, hogy a Naprendszerünk itt felgyorsul és [[I/Időanomáliák\|időanomáliák]]at élünk meg. Ide kapcsolódhatnak a [[P/Pólusváltás\|pólusváltás]] címnél írottak is.  
