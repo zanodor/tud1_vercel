@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2025-10-10T21:54"}
+{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2026-03-05T01:34"}
 ---
 
 
