@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók/","title":"Mássalhangzók","tags":["Englishtexttranslated"],"created":"2024-04-28T20:59","updated":"2026-03-03T17:23"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók/","title":"Mássalhangzók","tags":["Englishtexttranslated"],"created":"2024-04-28T20:59","updated":"2026-03-05T01:50"}
 ---
 
 
