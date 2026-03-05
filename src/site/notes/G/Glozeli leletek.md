@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/G/Glozeli leletek/","title":"Glozeli leletek","created":"2023-10-16T08:17","updated":"2025-11-28T21:21"}
+{"dg-publish":true,"permalink":"/G/Glozeli leletek/","title":"Glozeli leletek","created":"2023-10-16T08:17","updated":"2026-03-05T01:51"}
 ---
 
 
 # Glozeli leletek
 
-1924-ben egy francia faluban, Glozelben egyéb leletek mellett olyan írásjeleket találtak kerámialapokon, csontokon, köveken, amelyek nagymértékben hasonlítanak az ősi magyar írás betűihez. Különösen érdekes a Csudaszarvast ábrázoló 15000 évesre becsült kő.  
+1924-ben egy francia faluban, Glozelben egyéb leletek mellett olyan írásjeleket találtak kerámialapokon, csontokon, köveken, amelyek nagymértékben hasonlítanak az ősi magyar/székely-magyar rovásírás betűihez. Különösen érdekes a Csudaszarvast ábrázoló 15000 évesre becsült kő.  
 ![assets/Glozelileletek_image1.jpeg|840](/img/user/G/assets/Glozelileletek_image1.jpeg)  
 Az interneten elérhetők további képek:  
 [http://www.glozel.net/ceramic_artifacts.html](https://web.archive.org/web/20170113130156/http://www.glozel.net/ceramic_artifacts.html)  
