@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér/","title":"Fehér","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T16:00","updated":"2026-03-03T18:28"}
+{"dg-publish":true,"permalink":"/F/Fehér/","title":"Fehér","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T16:00","updated":"2026-03-05T22:15"}
 ---
 
 
@@ -48,7 +48,7 @@ A Színek a Fényekből erednek, összességük a Fehér, írja Molnár V. Józs
 
 Kolumbán Sándor azt írja, a fehér szín felbontásakor az első eredő szín a [[V/Vörös\|vörös]]. Elképzelhető, hogy ilyen tudással eleink is rendelkeztek? A FÉR és VÉR szavak alaki azonossága mindenesetre ezt tükrözi. A vérben is vannak fehér vérsejtek.  
 
-Amit Jankovics Marcell ír a témáról ([[Q/Quartz\|quartz]] címnél is szerepelt):  
+Amit Jankovics Marcell ír a témáról:  
 > A kvarc mint "megszilárdult fény" Ausztráliától az Amazonasig a Nap és az ég kristálya a sámánisztikus hiedelmekben. Nyilván azért, mert színtelen lévén, nemcsak csillogva veri vissza, hanem meg is szórja, azaz felbontja a fehér fényt a szivárvány színeire, amire egyébként csak a Nap képes.  
 
 #### Tomory Zsuzsa Ősmagyar imádságaink 3. rész...
