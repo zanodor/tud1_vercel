@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Buzogány/","title":"Buzogány","created":"2023-10-13T05:36","updated":"2025-09-24T13:57"}
+{"dg-publish":true,"permalink":"/B/Buzogány/","title":"Buzogány","created":"2023-10-13T05:36","updated":"2026-03-05T01:50"}
 ---
 
 
