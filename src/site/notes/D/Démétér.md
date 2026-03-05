@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Démétér/","title":"Démétér","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-09-28T17:15","updated":"2025-09-28T17:16"}
+{"dg-publish":true,"permalink":"/D/Démétér/","title":"Démétér","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-09-28T17:15","updated":"2026-03-05T01:46"}
 ---
 
 
