@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lófő/","title":"Lófő","created":"2024-11-05T14:06","updated":"2025-09-24T13:52"}
+{"dg-publish":true,"permalink":"/L/Lófő/","title":"Lófő","created":"2024-11-05T14:06","updated":"2026-03-05T01:43"}
 ---
 
 
@@ -13,7 +13,7 @@
 >
 > Jelenlegi ismereteink szerint a székelyek vezetőit, első embereit hívták lófőknek. "A székely nemzet hajdani rangsorozása szerint lófő (lovasfő, [[L/Lófejű\|lófejű]]) székelyek ama rendbeliek voltak, kik a hadban lóháton, a maguk lován voltak kötelesek szolgálni. A lófő első írásos említése, "loohfeu" alakban 1050-ből, a második 1096-ból származik.  
 > Csakhogy a X. századi magyar nyelvemlékben, az "I. András király korabeli Imák"-ban az első nemzeti felkelés vezetője, a Békés-megyei illetőségű Vata is lófő, mégpedig "garázda lófő" volt. Ám Békés még a régiségben sem tartozott Erdélyhez.  
-> ![assets/Lófő_image2.png|fix_light](/img/user/L/assets/L%C3%B3f%C5%91_image2.png)   
+> ![assets/Lófő_image2.png|fix_dark fix_light](/img/user/L/assets/L%C3%B3f%C5%91_image2.png)   
 > ...lufuu wutu... (lófő Vata) – I. András király korabeli Imák (részlet)
 > 
 > Péter király ellen "a magyarok közül elsőnek egy Vata nevezetű" szállt hadba "...Belus várából, aki magát a démonoknak szentelte..." Belus vára meg valahol Trencsénben lehetett. Ám Trencsén sem Erdélyben, hanem a Felvidéken van.  
