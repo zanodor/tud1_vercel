@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kalács/","title":"Kalács","tags":["Englishtexttranslated"],"created":"2024-12-18T07:36","updated":"2025-10-17T01:45"}
+{"dg-publish":true,"permalink":"/K/Kalács/","title":"Kalács","tags":["Englishtexttranslated"],"created":"2024-12-18T07:36","updated":"2026-03-05T01:31"}
 ---
 
 
