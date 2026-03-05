@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kronológia/","title":"Kronológia","tags":["Englishtexttranslated"],"created":"2025-09-28T20:20","updated":"2025-09-28T20:21"}
+{"dg-publish":true,"permalink":"/K/Kronológia/","title":"Kronológia","tags":["Englishtexttranslated"],"created":"2025-09-28T20:20","updated":"2026-03-05T01:37"}
 ---
 
 
