@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/PAN/","title":"PAN","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-05T01:18","updated":"2025-09-24T13:59"}
+{"dg-publish":true,"permalink":"/P/PAN/","title":"PAN","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-05T01:18","updated":"2026-03-05T01:53"}
 ---
 
 
