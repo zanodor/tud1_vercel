@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2025-09-28T21:21"}
+{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2026-03-05T01:29"}
 ---
 
 
@@ -111,7 +111,7 @@ A képet újabb gondolatokkal [[L/LÁB\|láb]], [[H/Harmony\|harmony]] és [[O/O
 ...című könyvének 240. oldalán írja hídlábakról:  
 > Milyen misztikus és mégis természeti tulajdonságot rejt a "Miből lesz a híd lába?" kérdés? Ma már a néprajzosok közül is csak kevesek előtt ismert a válasz értelme: "Bürökből és bodzából, Cigányaszszony kontyából." A bodzafa ága hártyás belsejéből készítették régen a falusi gyerekek a bodzafapuskát. A bodzafaág belsejének hártyás részét kitolva készült el maga a puskacső. Ebből származik a hídláb "eltörése" (**a test hídtörzse két oszloplábon áll**), és a benne esett hiba rendbe hozásának az ötlete bürökből, bodzából, sóska káposztából (káposzta torzsából). A két láb, a két szimbolikus oszlopköze ismert más kultúrákból is. Az első jeruzsálemi templom bejárata előtt is már vasoszlopokként ott álltak, (semmiféle terhet nem tartottak) de ismertek kőből rakottan a kínai temetők bejárata előtt is. (A közöttük kijövő és bemenő ember képzete azonos az újjászületés és meghalás képzetével.)  
 
-![assets/Sziget_image5.png|fix_light](/img/user/S/assets/Sziget_image5.png)  
+![assets/Sziget_image5.png|fix_dark fix_light](/img/user/S/assets/Sziget_image5.png)  
 
 Még könyvének 47. oldalán is szó esik a [[L/LÁB\|láb]] = oszlopokról. A két oszlop mint a nagy anyaistennő tér-idő szimbóluma számos más helyen is megfigyelhető. Többek között az első jeruzsálemi templom, amelyet Salamon építtetett (Kr. e. 950 körül). A jobb oldali oszlopot Jachinnak, a bal oldalit Bo'as-nak nevezték, de már senki sem tudja miért.  
 Bizonyos Ehrlich is jól gondolja:  
@@ -120,7 +120,7 @@ Bizonyos Ehrlich is jól gondolja:
 A két oszlop mint mérőrúd megjelenik az [[I/Idő\|idő]] címnél szereplő Heh ábrázoláson is.  
 Szólni kell még itt a [[K/Kapu\|kapu]] fogalmáról és a [[G/Gate\|gate]] szóról is, mely igen fontos, hogy [[G/Göd\|Göd]]-vázú. Kapuról szó esett [[S/Szexualitás jelképekben, használati tárgyakban, gyermekjátékokban, stb\|szexualitás jelképekben, használati tárgyakban, gyermekjátékokban]] címnél is.  
 
-![assets/Sziget_image6.png|fix_light](/img/user/S/assets/Sziget_image6.png)  
+![assets/Sziget_image6.png|fix_dark fix_light](/img/user/S/assets/Sziget_image6.png)  
 
 A nőiségi-princípium [[K/Kehely\|kehely]] (= [[H/Hüvely\|hüvely]]) alakot formázó U és V betűk mellett az Y is ilyen. Az Y elágazásról [[T/Trivial\|trivial]] és [[H/Hekate\|Hekate]] címnél is volt szó. A mellékelt kis kép [[Y/Yoni\|yoni]]-val emlékeztetett erre az összefüggésre.  
 
