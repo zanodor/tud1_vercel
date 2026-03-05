@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Állat/","title":"Állat","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-05-29T16:52","updated":"2025-11-08T02:06"}
+{"dg-publish":true,"permalink":"/A/Állat/","title":"Állat","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-05-29T16:52","updated":"2026-03-05T16:16"}
 ---
 
 
@@ -89,5 +89,5 @@ Az Érdy kódex is segítségünkre siet, a [[S/Szentháromság\|Szentháromság
 Tomory Zsuzsa Ősi magyar imádságaink c. az Ősi Gyökér 2016/3. sz. megjelent cikkében írja (Erdélyi Zsuzsanna Hegyet hágék lőtöt lépék című imádságos könyvének adatai alapján):  
 A V.1:658. oldalon található idézet szerint állat szavunk valamikor a testet jelentette: "Az wr isten zemeelben három(,) allatban egy." S ugyanezen oldalon: "Hány az Isten állatjában? Három személyben." Korai irodalmunk "asszonyi állata" tehát nem az asszony állati szintre való süllyedésének tanúsága, hanem népünk azon hitéről ad hírt, hogy a lélek kétféle "állat" szerint jelenhet meg anyagi világunkban; asszonyi, vagy férfiúi alakban. Állat szavunk rokonságot mutat áll szavunkkal. Arról ad hírt, hogy valami áll, megáll, tehát anyagi tulajdonsággal rendelkezik.  
 —  
-Oláh Imre A magyar lélekhit keleti elemei című az Ősi Gyökér 2004/3. számában megjelent cikkében a nő helyére az **állag** szót említi, mely majdnem teljesen megegyezik állat szavunkkal:  
+Oláh Imre A magyar lélekhit keleti elemei című az Ősi Gyökér 2004/3. számában megjelent cikkében a nő helyére az `állag` szót említi, mely majdnem teljesen megegyezik állat szavunkkal:  
 A [[S/Szentháromság\|Szentháromság]] egy másik felfogás alapján: Az Atya-Anya, kevésbé allegorikus szempontból, a Szellem és az Állag \[állag = állat\], amelynek eredője, úgymond, maga a Világegyetem: a Fiú.  
