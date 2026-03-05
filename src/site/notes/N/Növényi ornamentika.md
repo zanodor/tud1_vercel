@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Növényi ornamentika/","title":"Növényi ornamentika","created":"2024-05-14T12:19","updated":"2025-09-24T13:55"}
+{"dg-publish":true,"permalink":"/N/Növényi ornamentika/","title":"Növényi ornamentika","created":"2024-05-14T12:19","updated":"2026-03-05T01:48"}
 ---
 
 
@@ -20,7 +20,7 @@ Pap Gábor régi előadásaiban visszatérő téma, hogy madarak és emlősök s
 > Egy dunántúli spanyolozott mintán a szarvas (bár bika) "elmondja", hogy ő termékeny (termő ág áll ki a szájából a Nap hatására, ami az Úr idézője, de a termékenységet a madár közvetíti (a csőréből szintén virágzó, termő ág bújik elő).  
 > ![assets/Növényiornamentika_image1.jpeg|fix_dark fix_light|840](/img/user/N/assets/N%C3%B6v%C3%A9nyiornamentika_image1.jpeg)
 A kép nem feltétlenül biológiai megtermékenyítést, hanem – akár – szellemit is idézhet, de kifejezheti azt is, hogy az apa (a hím ivarú szarvas) az Úr vagy Atya közvetítője, hiszen annak akaratából termékeny.  
-> ![assets/Növényiornamentika_image2.jpeg|fix_light](/img/user/N/assets/N%C3%B6v%C3%A9nyiornamentika_image2.jpeg)  
+> ![assets/Növényiornamentika_image2.jpeg|fix_dark fix_light](/img/user/N/assets/N%C3%B6v%C3%A9nyiornamentika_image2.jpeg)  
 > A szekszárdi múzeumban őrzött mángorló rajzán a hal – aki nő – "elmondja", hogy termékeny, hiszen szájában virágot tart. Ez a termékenység azonban a "Holdsarlóvá" hajolt nő és virág fölött álló Nap hatására válik valóra.  
 > ...  
 > ![assets/Növényiornamentika_image3.jpeg|fix_dark fix_light|840](/img/user/N/assets/N%C3%B6v%C3%A9nyiornamentika_image3.jpeg)  
