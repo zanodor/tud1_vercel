@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2025-10-30T02:32"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2026-03-05T01:22"}
 ---
 
 
