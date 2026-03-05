@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Istár/","title":"Istár","tags":["Englishtexttranslated"],"created":"2024-12-18T11:25","updated":"2025-09-24T13:46"}
+{"dg-publish":true,"permalink":"/I/Istár/","title":"Istár","tags":["Englishtexttranslated"],"created":"2024-12-18T11:25","updated":"2026-03-05T01:32"}
 ---
 
 
@@ -28,7 +28,7 @@ Istár – sumerül Innin –, istennő, a termékenység legelterjedtebb istene
 
 - A magyar [[D/DÉR\|dér]] nem jelent lányt; nyilván a [[T/Tündér\|tündér]] szóból vették fel forrásai.
 
-![assets/Istár_image3.jpeg|fix_light](/img/user/I/assets/Ist%C3%A1r_image3.jpeg)  
+![assets/Istár_image3.jpeg|fix_dark fix_light](/img/user/I/assets/Ist%C3%A1r_image3.jpeg)  
 
 #### Magyar Adorján írja:
 
@@ -107,7 +107,7 @@ Az [[E/Eszter\|Eszter]] címnél is taglalt latin [[S/Striga\|striga]] = boszork
 Magiszter, [[M/Minister\|minister]], [[S/Sinister\|sinister]] is mind ide vehetők.  
 
 Péterfai János írja:
-> Priszkosz, (vagyis Piroskás) rétor, ránk hagyott néhány szót. Ezek a Kamosz, a Medosz, és a Sztrava. Mivel görögül írt, nem tudjuk, hogy a szavakban lévő Sz valójában esetleg S volt-e?  
+> Priszkosz, (vagyis Piroskás) rétor, ránk hagyott néhány szót. Ezek a `Kamosz`, a `Medosz`, és a `Sztrava`. Mivel görögül írt, nem tudjuk, hogy a szavakban lévő Sz valójában esetleg S volt-e?  
 > Sztrava – halotti lakomákon használatos szó, amely ételt jelentett. A névben az IszTár, ebből Sztár szó Csillagot jelent. A halott csillaggá válik, a halotti toron a Sztár Sztra alakra rövidülve jelzi az étel nevét is. A Sztra-Va Va szava ma képző a magyar nyelvben, de eredetileg kisebb isten, vagy istenné válás szava. A Sztráda amolyan Csillagút, de ma már csak a közönséges autópálya fogalmát értjük alatta.  
 
 Osztrava folyó- és városnév etimológiai vizsgálata Kiss-től:  
