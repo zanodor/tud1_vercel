@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Halotti beszéd/","title":"Halotti beszéd","created":"2024-12-20T06:52","updated":"2025-09-21T16:33"}
+{"dg-publish":true,"permalink":"/H/Halotti beszéd/","title":"Halotti beszéd","created":"2024-12-20T06:52","updated":"2026-03-05T01:45"}
 ---
 
 
