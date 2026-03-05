@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Trivial/","title":"Trivial","tags":["Englishtexttranslated"],"created":"2023-10-30T01:48","updated":"2025-09-24T00:43"}
+{"dg-publish":true,"permalink":"/T/Trivial/","title":"Trivial","tags":["Englishtexttranslated"],"created":"2023-10-30T01:48","updated":"2026-03-05T01:42"}
 ---
 
 
@@ -27,7 +27,7 @@ Ha már az [[E/Életfa\|életfa]] szóba került, szépen kapcsolódik ide az, a
 > Számos kultúrában tehát a kutya pásztori, cinegetikus és védelmező szerepe az élők világán túl a holtak világára is kiterjed. Így a **pszükhopomposz**okat, a pokol kapujának őrzőit, a pokolkutyákat és magukat a halottak lelkét is gyakran kutyaként ábrázolják. Valójában nem annyira arról van szó, hogy a kutya szerepe túlmutat az élők világán a holtak világába, hanem inkább arról, hogy a kutya helye az egyik és a másik világ között van. Ahogyan a Szíriusz helye a [[C/Canicular\|kutyanapok]] alatt a keleti horizonton van közvetlenül napkelte előtt (innen a "[[S/Szíriusz heliakus kelése\|heliákus kelés]]" kifejezés), úgy a kutya helye szinte mindenben, amit az emberrel való kapcsolatában tesz, [[L/Liminal\|liminális]]. A kutya az indoeurópai hagyományokban számos égi vagy időbeli küszöböt őriz, többek között a hajnalt és az alkonyatot, az új- és teliholdat, valamint **a nyári és a téli napfordulót**. Ez az éjszakai égbolton különböző kutyás csillagképekben mutatkozik meg, amelyeken a Nap áthalad az ekliptikán, és mivel az égi boltozat útjai – a Tejút, a nap-ekliptika, a Hold pályája stb. – azonosíthatók a halottak útjaival, az égi kutyák gyakran állomásoznak veszélyes égi kereszteződéseknél és hidaknál.  
 
 Hármas elágazásról lásd még a görög [[Y/Y\|Y]] (üpszilon) betűt, mely valóban többféleképpen ejthető.  
-![assets/Trivial_image4.png|fix_light](/img/user/T/assets/Trivial_image4.png)  
+![assets/Trivial_image4.png|fix_dark fix_light](/img/user/T/assets/Trivial_image4.png)  
 A nőiségi-princípium [[K/Kehely\|kehely]] (= [[H/Hüvely\|hüvely]]) alakot formázó U és V betűk mellett az Y is ilyen. A mellékelt kis kép [[Y/Yoni\|yoni]]-val emlékeztetett erre az összefüggésre.  
 Ezen görög betűjel viszont megegyezik a [[S/Székely-magyar rovásírás#TY\|székely-magyar rovásírás TY]] betűjével, melynél a fentiekhez hasonló kép is szerepelt. A villástengelyt formáló Y alak valóban egyezik a latin [[T/Trivium\|trivium]] = három út fogalmával.  
 De ilyen villát láttunk már szintén női szeméremrész kapcsán [[S/Sziget\|sziget]] címnél is.  
