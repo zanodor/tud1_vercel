@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutya Tibetben/","title":"Kutya Tibetben","tags":["Englishtexttranslated"],"created":"2025-09-28T20:30","updated":"2025-09-28T20:31"}
+{"dg-publish":true,"permalink":"/K/Kutya Tibetben/","title":"Kutya Tibetben","tags":["Englishtexttranslated"],"created":"2025-09-28T20:30","updated":"2026-03-05T01:43"}
 ---
 
 
