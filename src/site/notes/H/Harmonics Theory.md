@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Harmonics Theory/","title":"Harmonics Theory","tags":["Englishtexttranslated"],"created":"2024-04-22T12:54","updated":"2025-09-28T21:29"}
+{"dg-publish":true,"permalink":"/H/Harmonics Theory/","title":"Harmonics Theory","tags":["Englishtexttranslated"],"created":"2024-04-22T12:54","updated":"2026-03-05T01:43"}
 ---
 
 
