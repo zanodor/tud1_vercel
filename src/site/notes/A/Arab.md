@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arab/","title":"Arab","tags":["containstransclusions"],"created":"2024-04-20T11:12","updated":"2025-09-24T13:54"}
+{"dg-publish":true,"permalink":"/A/Arab/","title":"Arab","tags":["containstransclusions"],"created":"2024-04-20T11:12","updated":"2026-03-05T01:45"}
 ---
 
 
