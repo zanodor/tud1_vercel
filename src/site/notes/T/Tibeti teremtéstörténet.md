@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tibeti teremtéstörténet/","title":"Tibeti teremtéstörténet","created":"2024-05-03T12:14","updated":"2025-07-12T00:26"}
+{"dg-publish":true,"permalink":"/T/Tibeti teremtéstörténet/","title":"Tibeti teremtéstörténet","created":"2024-05-03T12:14","updated":"2026-03-05T01:44"}
 ---
 
 
