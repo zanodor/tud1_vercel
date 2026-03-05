@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Trianon/","title":"Trianon","tags":["Englishtexttranslated"],"created":"2024-10-27T11:54","updated":"2025-07-17T22:43"}
+{"dg-publish":true,"permalink":"/T/Trianon/","title":"Trianon","tags":["Englishtexttranslated"],"created":"2024-10-27T11:54","updated":"2026-03-05T02:19"}
 ---
 
 
@@ -174,7 +174,7 @@ André Tardieu, Franciaország miniszterelnöke három cikluson keresztül, La p
 Tomás Garrigue Masaryk, Csehszlovákia első elnöke: "Választani kellett Csehszlovákia megalakulása vagy a népszavazás között".  
 Andrej Hlinka atya, a legnagyobb szlovák párt, a Szlovákiai Populista Párt vezetője, 1925. június 4: "A magyar haza emléke pislákoljon lelkünkben, hiszen az ezeréves magyar uralom alatt sohasem szenvedtünk annyit, mint a hatéves cseh uralom alatt."  
 Lord Viscount Rothermere, a Daily Mail kiadója és főszerkesztője 1927. június 21-én megjelent "Magyarország helye a napon" című cikkében: "Két fiamat vesztettem el a háborúban. Nemes eszmékért áldozták életüket, de nem azért, hogy az emberek igazságtalanul bánjanak egy dicső nemzettel. Addig nem lesz béke Európában, amíg a ravasz és érzéketlen trianoni szerződést nem vizsgálják felül".  
-Stanley Baldwin, az Egyesült Királyság miniszterelnöke: "Európa a trianoni szerződés napján megszűnt létezni".  
+Stanley Baldwin, az Egyesült Királyság miniszterelnöke: "Európa a trianoni szerződés napján megszűnt létezni".  (Ez úgy szokott inkább szerepelni, hogy Európa békéje szűnt meg inkább.)
 Lord Newton, a brit Lordok Házának tagja: "Románia, Csehszlovákia és Jugoszlávia kivételével egész Európa kezd ráébredni a trianoni szerződés igazságtalanságaira. Legfőbb ideje, hogy Magyarország sorsát bölcsen és békésen rendbe tegyük."  
 Lord Sydeman, a Lordok Házának tagja, Egyesült Királyság: "Megdöbbentett, hogy az egyetlen párttal, amely nem felelős a világháborúért, ilyen kegyetlenül bánhattak, mint valamiféle befolyásolás következményeként. Talán egyszer majd kiderül az igazság."  
 Edgar Wallace, angol író: "Határozott híve vagyok minden olyan cselekedetnek, amely megszabadítja Magyarországot az igazságtalanság elviselhetetlen terhétől, amelyet az országnak el kell viselnie."  
