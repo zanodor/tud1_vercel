@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv ősisége – ősnyelv-e a magyar/","title":"Magyar nyelv ősisége – ősnyelv-e a magyar","tags":["Englishtexttranslated"],"created":"2023-10-09T06:38","updated":"2025-09-24T13:45"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv ősisége – ősnyelv-e a magyar/","title":"Magyar nyelv ősisége – ősnyelv-e a magyar","tags":["Englishtexttranslated"],"created":"2023-10-09T06:38","updated":"2026-03-05T01:31"}
 ---
 
 
@@ -8,7 +8,6 @@
 #### Péterfai János...
 
 ...[[S/Székely-magyar rovásírás\|székely-magyar rovásírás]]os(nak vélt) feliratokkal bizonyítja a magyar nyelv 40-50000 ezer és 200000 éves múltját. Azon címnél azóta több adatot vonultattunk fel.  
-
 > Alaptézisünk szerint az ősnyelv az egyszerű, két hangból álló szavakat használó magyar nyelv. Erre a nagyon fontos alapszabályra rengeteg nyelvész ráismert, és közülük sokan elismerték a szabályt, ők az emberiség legnagyobb nyelvészei, de sokan igyekeztek meghamisítani a szabályt, különböző érdekek elképzelései szerint, ők az emberiségnek ártó ügynökök hada. A magyar nyelv, az írásos bizonyítékok alapján, már 200.000 éve létezett, az írásunkkal együtt, az utód nyelveink megjelenése általában 4-5.000 évnél nem régebbiek.  
 >
 > A magyar ősnyelvet a rovásírásos feliratok megtalálása és elolvasása teszi rendkívülivé. Kiváló magyar kutatók gyűjtik az adatokat, az olvasatokat közre adják, a hibákat kijavítják.  
@@ -25,6 +24,8 @@
 
 Másutt írja:  
 > Augustus Szíriából szavárdokat telepít át Pannoniába, a Pax Romanum érdeke miatt. Mert a szkíták, vagy a Sza nép, a szavárdok állandóan súrlódnak a szírekkel. Ezért, a béke érdekében, sok szavárdot telepít át Pannoniába. Miért Pannoniába? Mert ott azonos nyelvet beszélnek a szkíta szavárdokkal. Ezután majd Claudius megalapítja Savariát, a Sza nemzet Várát, ami ma is áll Szombathely név alatt. Rengeteg egyéb bizonyíték is van, ami a Kárpát-medence magyar nyelvű népességét bizonyítja sok tízezer év óta.  
+
+Képekkel lásd 12. oldaltól [itt](https://epa.oszk.hu/01400/01445/00065/pdf/EPA01445_acta_hungarica_2022_1_445-610.pdf).  
 
 
 
