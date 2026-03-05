@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2025-09-24T13:41"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2026-03-05T01:25"}
 ---
 
 
@@ -150,7 +150,7 @@ Itt tegyük hozzá, hogy a tamil **Māri**, más nevén Mariamman és Mariaai (M
 > Mariamman egy tamil népi istennő, akinek imádata valószínűleg a pre-védikus Indiából származik. Ő a fő tamil anyaistennő, aki Tamil Nadu vidéki területein uralkodik. A poszt-védikus időszakban Mārit olyan hindu istennőkkel társították, mint [[P/Parvati\|Parvati]], Kali és Durga, valamint észak-indiai megfelelőjével, Shitaladevivel és kelet-indiai megfelelőjével, Manasával.  
 > A Mari szó (kiejtése: /maari/) sangam tamil eredetű, jelentése "eső", az Amman tamil szó pedig "anya". Az ősi tamilok úgy tisztelték őt, mint az eső és így a jólét hozóját, mivel termésük bősége nagymértékben függött a megfelelő csapadéktól. Az anyaistennő kultuszát a nőiességet tisztelő társadalom jeleként kezelik. Úgy tűnik, hogy a Sangam-korszak templomaiban, főként Maduraiban, papnői voltak az istenségnek, amely szintén túlnyomórészt istennőként jelenik meg. A Sangam-irodalomban részletes leírás található a Kurava papnő által a Palamutircholai szentélyben végzett rítusokról.  
 - A mellékelt képen jól látszik, mekkora tiszteletben részesítették. A keret egy [[I/Íj és a nyíl\|íj és a nyíl]]at formáz, magát az eget! (Ugyan egyesek lándzsát látnak benne, én nyilat, nyílvesszőt; vö. össze még a [[D/Doromb\|doromb]]bal.)  
-![assets/Mária_image2.png|fix_light](/img/user/M/assets/M%C3%A1ria_image2.png)  
+![assets/Mária_image2.png|fix_dark fix_light](/img/user/M/assets/M%C3%A1ria_image2.png)  
 
 Talán nem véletlen az sem, hogy a tamil `maram` = fa jelentésű.  
 A baszk [[M/Mari\|Mari]] szintén eső- és tenger/ég(istennő)(!), kinek férfi párjának neve [[S/Sugar\|Sugar]].  
