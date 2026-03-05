@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gilgames/","title":"Gilgames","created":"2024-10-25T19:00","updated":"2025-09-28T21:25"}
+{"dg-publish":true,"permalink":"/G/Gilgames/","title":"Gilgames","created":"2024-10-25T19:00","updated":"2026-03-05T01:34"}
 ---
 
 
