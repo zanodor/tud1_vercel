@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2025-09-28T21:18"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2026-03-05T01:26"}
 ---
 
 
