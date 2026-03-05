@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Varkocs/","title":"Varkocs","created":"2024-05-08T15:40","updated":"2025-09-24T13:17"}
+{"dg-publish":true,"permalink":"/V/Varkocs/","title":"Varkocs","created":"2024-05-08T15:40","updated":"2026-03-05T01:40"}
 ---
 
 
