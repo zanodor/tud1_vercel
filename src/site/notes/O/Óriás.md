@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","tags":["Englishtexttranslated"],"created":"2024-04-20T13:37","updated":"2026-02-27T17:35"}
+{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","tags":["Englishtexttranslated"],"created":"2024-04-20T13:37","updated":"2026-03-05T01:35"}
 ---
 
 
