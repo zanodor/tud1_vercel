@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flink Attila/","title":"Flink Attila","tags":["Englishtexttranslated"],"created":"2025-01-17T01:25","updated":"2025-09-21T11:56"}
+{"dg-publish":true,"permalink":"/F/Flink Attila/","title":"Flink Attila","tags":["Englishtexttranslated"],"created":"2025-01-17T01:25","updated":"2026-03-05T01:43"}
 ---
 
 
