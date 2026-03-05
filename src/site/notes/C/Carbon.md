@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Carbon/","title":"Carbon","created":"2023-11-19T06:37","updated":"2025-09-24T13:57"}
+{"dg-publish":true,"permalink":"/C/Carbon/","title":"Carbon","created":"2023-11-19T06:37","updated":"2026-03-05T01:51"}
 ---
 
 
