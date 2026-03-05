@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MI/","title":"MI","created":"2025-05-29T14:32","updated":"2025-10-17T01:45"}
+{"dg-publish":true,"permalink":"/M/MI/","title":"MI","created":"2025-05-29T14:32","updated":"2026-03-05T01:41"}
 ---
 
 
@@ -50,7 +50,7 @@ Aztán a többes szám fogalmának fontosságára mutat rá az is, hogy dualitá
 Holmi éneklősdi helyett Gyárfás Ágnes fókuszálhatott volna inkább arra az általa is ismert tényre, hogy én és te is mi mind egy közös forrásból (fényből) valók vagyunk. Ahogy [[L/Lélek\|lélek]] címnél is írtuk, az [[E/EN\|EN]] = isteni lényeg értelműnek meghatározott, ahogy [[I/Isa\|isa]], [[I/Íz\|íz]] is, azaz ez is egy isteni fényre vonatkozó fogalmunk, a többes me = Mi szintén.  
 
 Gyárfás Ágnes idézett (Lúd Anyós) cikkének végén egy újabb bizonyítékot mutat fel (lásd csatolt képet), de külön már nem hangsúlyozza ki, hogy itt miről van szó.  
-![assets/MI_image1.jpeg|fix_light](/img/user/M/assets/MI_image1.jpeg)  
+![assets/MI_image1.jpeg|fix_dark fix_light](/img/user/M/assets/MI_image1.jpeg)  
 Látható mi egyes számra(?) vonatkozó névmási jelentése.  
 
 
