@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2025-09-28T21:19"}
+{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2026-03-05T01:27"}
 ---
 
 
@@ -57,7 +57,7 @@ Itt lenne jó tudni azt is, hogy az északi sarkon hol van ilyenkor Szíriusz.
 - Ami érdekes a témával kapcsolatban, és amiért [[K/Kalács\|kalács]] címhez is bekerültek a fentiek az az, hogy ott is szó volt **a végtelen jeléről és karácsony/újév**ről.  
 
 Ahogy mondják, a Föld napközeli ([[P/Perihelion\|perihelion]]) pontja január másodika táján van, akkor, amikor a Nap, a Szíriusz és Föld egy vonalban helyezkednek el (akkor halad át a Föld).  
-![assets/Újév_image3.png|fix_light](/img/user/U/assets/%C3%9Aj%C3%A9v_image3.png)  
+![assets/Újév_image3.png|fix_dark fix_light](/img/user/U/assets/%C3%9Aj%C3%A9v_image3.png)  
 [[J/Johan Oldenkamp\|Johan Oldenkamp]] egyik videójában szintén szól az újévről és meggyőződése, hogy ennek, idejének Szíriuszhoz van köze (az ő [[T/Time\|time]] címnél lévő ábráján január harmadikára van írva a perihelion pont).  
 Johan Oldenkamp írja:  
 > After being dead for three days, on December 25th, the Messiah \[the Sun\] rises up from the dead and starts to move higher in the sky every following day (up until the summer solstice). By drawing a straight line from the three stars (also known as the Three Kings) in the Belt of Orion through the star Sirius (which the Kings followed), the crossing of that line with the horizon marked exactly the location of the rising Helios (or (re-) birth of Christ) on December 25th. The biblical version is just a personalized version of this celestial dynamics.  
