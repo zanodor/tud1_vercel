@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szikla/","title":"Szikla","tags":["Englishtexttranslated"],"created":"2023-10-29T05:00","updated":"2025-10-10T21:55"}
+{"dg-publish":true,"permalink":"/S/Szikla/","title":"Szikla","tags":["Englishtexttranslated"],"created":"2023-10-29T05:00","updated":"2026-03-05T01:41"}
 ---
 
 
