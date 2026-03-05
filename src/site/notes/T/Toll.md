@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Toll/","title":"Toll","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-10-24T01:49","updated":"2025-09-24T00:40"}
+{"dg-publish":true,"permalink":"/T/Toll/","title":"Toll","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-10-24T01:49","updated":"2026-03-05T01:37"}
 ---
 
 
@@ -24,7 +24,7 @@ A magyar szó értelmére, eredetére nézve lásd még alant.
 Vám, (őrlési(!)) gabonavám; helypénz. Jelenti áldozatok számát is, bizonyos kifejezésekben.  
 Más jelentéseiben harangszó és megkondul (a harang).  
 
-![assets/TollTwo_image1.png|fix_light](/img/user/T/assets/TollTwo_image1.png)  
+![assets/TollTwo_image1.png|fix_dark fix_light](/img/user/T/assets/TollTwo_image1.png)  
 Látjuk a csatolt kép alapján, hogy Oxford viszonylag egyszerűen levezeti. Amivel nem számol, a [[D/Dole\|dole]] szónál előjövő latin `dolor` = kín, fájdalom és `dolere` = szenvedni szavak.  
 
 Azt már láttuk, hogy mind a vám/rév (lásd [[F/Ferry\|ferry]], [[R/Rave\|rave]]), mind a [[F/Fárad\|fárad]]ság, kínzás (lásd [[F/Fare\|fare]], [[F/FAR#Far 2)\|far]], [[F/Fatigue\|fatigue]], [[T/Tire\|tire]], [[T/Trouble\|trouble]], [[T/Travail\|travail]]) a [[T/Táltos\|táltos]]hoz, a [[T/Tölgy\|tölgy]]/világfa megmászásához, a táltos illetve a naphős (maga a Nap emberi eljátszója) asztrálutazásához illetve áldozatához köthető. De lehet pusztán arról is szó, hogy a világoszlop-tengely maga a [[T/Tölgy\|tölgy]], amely forog ([[D/DOL\|dol]]gozik) és tartja az eget. A mellékelt, [[T/Táltos\|táltos]] szónál is szereplő adat is erről szól.  
