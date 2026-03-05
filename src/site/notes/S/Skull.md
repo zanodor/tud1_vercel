@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Skull/","title":"Skull","tags":["Englishtexttranslated"],"created":"2023-11-05T03:03","updated":"2025-09-28T21:30"}
+{"dg-publish":true,"permalink":"/S/Skull/","title":"Skull","tags":["Englishtexttranslated"],"created":"2023-11-05T03:03","updated":"2026-03-05T01:46"}
 ---
 
 
