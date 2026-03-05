@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejútanya/","title":"Tejútanya","tags":["Englishtexttranslated"],"created":"2025-10-30T16:48","updated":"2025-10-30T16:49"}
+{"dg-publish":true,"permalink":"/T/Tejútanya/","title":"Tejútanya","tags":["Englishtexttranslated"],"created":"2025-10-30T16:48","updated":"2026-03-05T01:38"}
 ---
 
 
@@ -53,7 +53,7 @@ Ott szerepel egy bibliai idézet, melyet viszont már nem anyjának (Annának), 
 
 Tökéletes leírása a Tejútanyának, csak éppen nem is ismert ez a fogalom a teológusok körében.  
 
-![assets/Tejútanya_image1.png|fix_light](/img/user/T/assets/Tej%C3%BAtanya_image1.png)  
+![assets/Tejútanya_image1.png|fix_dark fix_light](/img/user/T/assets/Tej%C3%BAtanya_image1.png)  
 A Falvay Károly Nagyboldogasszony című könyvének 383. oldaláról való csíksomlyói Madonnát ábrázoló képen is megjelenik 12 csillag feje körül.  
 
 A [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]]ról lásd alant. [[F/Fehérlófia\|Fehérlófia]] anyja, a Fehér Ló azért különösen érdekes, mert a Falvay által nőiséginek meghatározott menny (lásd [[M/Men#Menny és ég\|menny és ég]]) azonos a hímségi [[M/Mén\|mén]] szavunkkal, azaz itt egy késői képzettorzulásról lehet szó. Persze a Fehérló lehet a Nyilas csillagkép jegy-szimbóluma is.  
