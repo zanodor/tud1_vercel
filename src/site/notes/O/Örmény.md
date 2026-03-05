@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Örmény/","title":"Örmény","tags":["Englishtexttranslated"],"created":"2023-10-20T06:56","updated":"2025-09-22T20:36"}
+{"dg-publish":true,"permalink":"/O/Örmény/","title":"Örmény","tags":["Englishtexttranslated"],"created":"2023-10-20T06:56","updated":"2026-03-05T01:47"}
 ---
 
 
