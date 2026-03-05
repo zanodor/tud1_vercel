@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/F/Füst/","title":"Füst","created":"2026-03-03T15:59","updated":"2026-03-03T16:00"}
+{"dg-publish":true,"permalink":"/F/Füst/","title":"Füst","created":"2026-03-03T15:59","updated":"2026-03-05T02:19"}
 ---
 
 
 # Füst
 
 Nyilván ez is a [[F/FU\|FU]] etimon nyomán jön létre.  
-Volt róla szó [[A/Ash\|ash]], [[S/Stupid\|stupid]], [[S/Smoke\|smoke]], [[N/Nebula\|nebula]] és [[P/Penész\|penész]] címnél is. Lényegében a tűz kihúnyására utal.  
+Volt róla szó [[A/Ash\|ash]], [[S/Stupid\|stupid]], [[S/Smoke\|smoke]], [[N/Nebula\|nebula]] és [[P/Penész\|penész]] címnél is. Lényegében a tűz kihunyására utal.  
 
 #### Magyar Adorján írja...
 
