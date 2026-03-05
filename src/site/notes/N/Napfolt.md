@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Napfolt/","title":"Napfolt","tags":["containstransclusions"],"created":"2024-05-01T14:50","updated":"2025-09-22T01:48"}
+{"dg-publish":true,"permalink":"/N/Napfolt/","title":"Napfolt","tags":["containstransclusions"],"created":"2024-05-01T14:50","updated":"2026-03-05T01:37"}
 ---
 
 
