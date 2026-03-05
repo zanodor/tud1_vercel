@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pogácsa/","title":"Pogácsa","created":"2025-03-08T20:43","updated":"2025-09-24T13:58"}
+{"dg-publish":true,"permalink":"/P/Pogácsa/","title":"Pogácsa","created":"2025-03-08T20:43","updated":"2026-03-05T01:53"}
 ---
 
 
