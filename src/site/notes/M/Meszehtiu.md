@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Meszehtiu/","title":"Meszehtiu","tags":["containstransclusions"],"created":"2023-11-09T05:37","updated":"2025-09-28T21:30"}
+{"dg-publish":true,"permalink":"/M/Meszehtiu/","title":"Meszehtiu","tags":["containstransclusions"],"created":"2023-11-09T05:37","updated":"2026-03-05T01:45"}
 ---
 
 
@@ -36,7 +36,7 @@ Az eredeti alak: `mshtyw`, ebből olvasták ki azt, amit ismerünk.
 
 > Ellenben az alant említett, a központ körül keringő cirkumpoláris csillagokat, amelyek nem süllyedtek a látóhatár alá, "pusztulást nem ismerőkként" jellemezték.  
 
-![assets/Meszehtiu_image1.png|fix_light](/img/user/M/assets/Meszehtiu_image1.png)  
+![assets/Meszehtiu_image1.png|fix_dark fix_light](/img/user/M/assets/Meszehtiu_image1.png)  
 
 Jankovics Marcell folytatja:  
 > Egyiptomban ez a harc a Széth bika és Hórusz napisten között folyik. Persze Hórusz győz – a Széth-kultusz az óbirodalom végén lehanyatlik Egyiptomban –, a napisten megölt ellenfelét földarabolja, combját a [[S/Sarkcsillag\|Sarkcsillag]]hoz kötözi. A "Marhacomb" csillagkép a mi [[G/Göncöl\|Göncöl]]szekerünk, amelyet egy római korból való csillagtérképen ugyanolyan kos őriz, amilyen az állatövi jegyek sorában is található, A krétai Minotaurusz-mítosz egyik lehetséges jelentése szintén ez.  
