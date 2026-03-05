@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Feleség/","title":"Feleség","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T16:16","updated":"2026-03-03T18:27"}
+{"dg-publish":true,"permalink":"/F/Feleség/","title":"Feleség","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T16:16","updated":"2026-03-05T01:39"}
 ---
 
 
@@ -11,18 +11,20 @@ Az indogermán nyelvekben a feleség fogalmát "nőm" (innen: a magyar "nejem") 
 
 > Tulajd. valamely egésznek oly tulajdonsága, sajátsága, mely annak felét teszi; vagy, ha társ értelemben veszszük, oly lény, mely társunk, barátunk, velünk legszorosabb viszonyban, elválaszthatlan kapcsolatban áll, velünk egy egészet alkot. Innen nevezte a magyar a férfi hitestársát feleségnek, (s ez közönséges értelme), nem pedig, mint némelyek talán csak inkább enyelgésből mondani szokták: fele segítség szóktól. Amannak értelme szellemiebb és nemesebb, s a házasság közös czéljával megegyezőbb. Adjon Isten feleséget, szépet, jót. Feleséget venni. Feleségét elhagyni. Feleségétől elválni. Feleségét félteni. Ifju feleség, vén feleség. Malmon, ifju feleségen untalan kell építeni. (Km.) Okos feleség nagy Isten ajándéka. (Km.).
 
-Falvay Károly Nagyboldogasszony című könyvének 124-125. oldalán taglalja a feleség fogalmát. A nyelvészkedés utáni (a finn nyelvben ugyanúgy kapcsolódik a finn `puoli` = fél és `puoliso` = feleség) rész után ami ide tehető:  
+#### Falvay Károly Nagyboldogasszony...  
+
+...című könyvének 124-125. oldalán taglalja a feleség fogalmát. A nyelvészkedés utáni (a finn nyelvben ugyanúgy kapcsolódik a finn `puoli` = fél és `puoliso` = feleség) rész után ami ide tehető:  
 > A múlt század közepén még általános érvényűen élő ipolysági házbeosztásból vagy a matyó település sajátosságaiból kiviláglik, az élet rendje a térben is magán viseli a [[F/Fél\|fél]]-fél megosztást, szerepkörüknek és tulajdonságaiknak megfelelően! Ennek következménye a teendők szerepköri és nem "hasonló" megoszlása is.  
 
 Másutt:  
-> A magyar feleség képzet ősi (fél) sajátossága is tiltakozik ilyen feltételezés ellen. Ugyanakkor természetes a közösség férfi-irányítású szervezettsége támadásban és védelemben; ezzel szemben a családi, vagy a szertartások vezetésében a női oldal részvétele hangsúlyozott, ami ismert a magyar nagycsalád és Nagyasszony rendszerben szinte egészen a II. világháborúig. Közvetlen emlékei más kultúrákból is ismertek. Mindez azt bizonyítja, hogy a magyar hagyományos élet vitelében élt és máig nem szűnt meg a kettéosztott **Félig: szeretetre (női szerepkör), félig: küzdelemre (férfi szerepkör) rendelt emberi szerepkör egységtudata**.  
+> A magyar feleség képzet ősi (fél) sajátossága is tiltakozik ilyen feltételezés ellen. Ugyanakkor természetes a közösség férfi-irányítású szervezettsége támadásban és védelemben; ezzel szemben a családi, vagy a szertartások vezetésében a női oldal részvétele hangsúlyozott, ami ismert a magyar nagycsalád és Nagyasszony rendszerben szinte egészen a II. világháborúig. Közvetlen emlékei más kultúrákból is ismertek. Mindez azt bizonyítja, hogy a magyar hagyományos élet vitelében élt és máig nem szűnt meg a kettéosztott **félig: szeretetre (női szerepkör), félig: küzdelemre (férfi szerepkör) rendelt emberi szerepkör egységtudata**.  
 
 [[M/Magyar istencsalád\|Magyar istencsalád]] címnél is szó volt ezen fogalmakról:  
 Ahogy [[H/Hierogamy\|hierogamy]] és [[G/Gemini\|Gemini]] címnél is írtuk, a magyar istencsalád hím és női tagjai itt, ezen a téridőbeli pontos tartják szent nászukat (ahol a [[K/Kutyanemzés\|kutyanemzés]] is található). Mondhatnánk azt is, hogy a [[J/Jin és jang\|jin-jang]] ábra rögzített állapotában a közben [[K/Konty\|konty]] címnél is említett találkozás (nász) középen van. Ott azon címnél is szerepelt:  
 A régi kínai felfogás ![assets/Feleség_image1.png|right|100](/img/user/F/assets/Feles%C3%A9g_image1.png)  szerint a világmindenség két fő princípiuma a jin és a jang, a negatív vagy női, és a pozitív vagy férfi. Ennek a kettőnek a küzdelme, illetve olykor egymásba való átcsapása hoz létre minden mozgást (mely már az [[E/Eros\|Eros]] címnél írottakat idézi, de [[K/Kinetic\|kinetic]] címnél írottakat is lásd mozgásról).  
 Ez a küzdelem nem más, mint az, amit a [[S/Szíriusz\|Szíriusz]]hoz kapcsolt háború- és szerelem-istennő szerepkörökben is látunk: a küzdelem a szerelmi és háborús csatározásra értendő.  
 
-Ezek után nem is meglepő, hogy a téridőbeli helyre, Nagy Kutya csillagképre utalva előjön ilyen [[N/Nász\|nász]] alakú szó Helena Lehman nevű írónő tollából (aki Bullinger (feledésbe merült?) könyvét dolgozta fel több könyvben):  
+Ezek után nem is meglepő, hogy a téridőbeli helyre, Nagy Kutya csillagképre utalva előjön ilyen [[N/Nász\|nász]] alakú szó Helena Lehman nevű írónő tollából (aki Bullinger feledésbe merült? könyvét dolgozta fel több könyvben):  
 > In the Dendera Zodiac, the hawk shown for Canis Major is labeled separately as "Naz Seir" and represents the star Sirius in Canis Major. In Egyptian, "Naz" means "Caused to Come Forth," or "Sent," while "Seir" means "Prince," or "Chief." Therefore, the title "Naz Seir" can mean "Sent Prince." Since "Naz" and "Zar" both mean "Prince" in Hebrew, Naz Seir could also mean "Prince of princes," a fitting epithet for Yahshua as King of kings!  
 > —  
 > A Dendera Zodiákusban a Canis Majorhoz tartozó sólyom külön "Naz Seir" felirattal van ellátva, és a Sirius csillagot jelképezi a Canis Majorban. Egyiptomiul a "Naz" azt jelenti, hogy "Elindult" vagy "Elküldött", míg a "Seir" azt jelenti, hogy "Herceg" vagy "Főnök". Ezért a "Naz Seir" cím azt jelentheti, hogy "küldött herceg". Mivel a "Naz" és a "Zar" egyaránt "Herceget" jelent héberül, a Naz Seir azt is jelentheti, hogy "Hercegek Hercege", ami a királyok Királyának, Jahsuának megfelelő jelzője!
@@ -31,6 +33,7 @@ Ezek után nem is meglepő, hogy a téridőbeli helyre, Nagy Kutya csillagképre
 
 > [!warning] &nbsp;
 > Igen ám, de Jézus nem a Szíriusz, hanem a Nap. Az ilyen zsidós ezotériás írókkal vigyázni kell.  
+- A Nap járhat maximum egy adott csillagképben.
 
 Mondtam volna itt, hogy a [[K/Küzd\|küzd]] és [[K/Kezd\|kezd]] szavaink is erre a téridőbeli pontra kellene utaljanak, de a kezdet [[S/Szűz csillagkép#Szűz mint kezdet\|Szűz mint kezdet]] cím/alcímnél írottak alapján oda is kapcsolható (csak hogy bonyolódjon a dolog).  
 Ezek után még azt is ki lehet jelenteni, hogy a feleség fogalma is az ég [[F/Fel\|fel]]ezésének helyére is utalhat. Sőt, a **Feles-Ég felbontása** a szónak is emigyen meg is felelne. De a Felség fogalma is ide tartozik, főleg, hogy az ég/éj királynője az Istenasszony.  
