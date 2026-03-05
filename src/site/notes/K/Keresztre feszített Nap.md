@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Keresztre feszített Nap/","title":"Keresztre feszített Nap","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-13T03:43","updated":"2025-09-24T13:50"}
+{"dg-publish":true,"permalink":"/K/Keresztre feszített Nap/","title":"Keresztre feszített Nap","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-13T03:43","updated":"2026-03-05T01:38"}
 ---
 
 
@@ -26,7 +26,7 @@ A kiterjesztett karú isten ábrázolása megjelenik a maja ábrázolásokban, s
 
 
 A kitárt kar a keresztre feszített Napot ábrázolja (mivel mayákról van szó, az azték [[Q/Quetzalcoatl\|Quetzalcoatl]] maja párja Itzamma, így hát gondolhatjuk, hogy őt ábrázolja, viszont [[H/Hunahpu\|Hunahpu]] címnél álló infók alapján az Első Atya Hun Hunahpu (Egy Hunahpu)); lényegében az indo-európai tudósok is hasonlóképpen értelmezik (lásd a képek alatti szöveget).  
-(A témáról bővebben lásd [[G/Galactic centre\|Galactic centre]].)  
+(A témáról bővebben lásd [[G/Galactic centre\|Tejútközpont]].)  
 
 Arról, hogy a négyes felbontás hogyan egyszerűsödik felezésre, lásd [[M/Missera\|missera]], de [[G/Gate\|gate]] címnél is írtuk:  
 A hun-germán `gate` (gát, gátor) szó K-T vázával, kapu jelentésével a két fontos égi kapura kell utaljon; annál is inkább, mert az eget két félgömbre osztó Tejút hun (alakú) neve megszemélyesítve is [[G/Göd\|Göd]] (a [[K/Köd\|köd]] pedig tejet jelent), továbbá [[K/Két\|két]] [[K/Kutya\|kutya]] áll a Tejút két felén. Ezek a fontos K-T vázú szavak egy [[K/Köt\|köt]]ött rendszerre utalnak: melyekhez csatlakozik még [[K/Kétu\|Kétu]] és az a [[C/Cata- prefixum\|cata- prefixum]] is, mely az alsó, vaskori kapura utal.  
