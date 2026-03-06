@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2026-03-05T01:26"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2026-03-06T16:21"}
 ---
 
 
@@ -217,7 +217,7 @@ Richard H. Allen kissé lejjebb írja a következőket (anélkül, hogy tudná, 
 > —  
 > Ezeknek a csillagoknak egy gyakori, évszázadok óta mindenütt népszerű ábrája a tyúk a tyúkjaival – egy újabb példa a Plejádok állandó társítására a madarakkal, és itt különösen helyénvaló a kompakt csoportosulásuk miatt. Aben Ragel és más héber írók így említik őket, néha az őket tartó csordával együtt – a középkor Massa Gallinae-je; ezek az arab folklórban is megjelennek, és az angol parasztság körében még mindig aktuálisak. A modern Görögországban, mint a Tyúkól, `Πούλια` vagy `Πούλεια`, nem eltérően az ókori görög szavaktól.  
 
-Ezen [[P/Poultry\|poultry]] szónál is előjövő puly- szóelem ([[P/Pulyka\|pulyka]] szavunkban -ka is kicsinyítés lehet csak) adhatná meg a Pleiadok nevének eredetét is, de [[B/BUJ\|BUJ]] szavunkat sem lehet kizárni, mely [[B/BÜJ\|BÜJ]] változatával már a Nap neveihez vinne vissza (persze pulyka és pulya nevekben is [[P/PUL\|PUL]] = [[B/BUL\|BUL]], [[V/VUL\|VUL]] = Nap fény, tűz).  
+Ezen [[P/Pulyka\|pulyka]] szónál is előjövő puly- szóelem adhatná meg a Pleiadok nevének eredetét is, de [[B/BUJ\|BUJ]] szavunkat sem lehet kizárni, mely [[B/BÜJ\|BÜJ]] változatával már a Nap neveihez vinne vissza (persze `pulyka` és `pulya` nevekben is [[P/PUL\|PUL]] = [[B/BUL\|BUL]], [[V/VUL\|VUL]] = Nap fény, tűz).  
 
 #### Jankovics Marcell írja:
 
