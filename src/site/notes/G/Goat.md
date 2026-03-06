@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Goat/","title":"Goat","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-12-18T11:22","updated":"2025-08-31T02:08"}
+{"dg-publish":true,"permalink":"/G/Goat/","title":"Goat","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-12-18T11:22","updated":"2026-03-06T16:22"}
 ---
 
 
