@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Indogermán nyelvészet/","title":"Indogermán nyelvészet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated"],"created":"2025-06-12T01:33","updated":"2026-02-24T01:05"}
+{"dg-publish":true,"permalink":"/I/Indogermán nyelvészet/","title":"Indogermán nyelvészet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated"],"created":"2025-06-12T01:33","updated":"2026-03-06T22:54"}
 ---
 
 
@@ -220,7 +220,7 @@ Az előző Pulgram féle sorokat tekinthetjük bevezetésnek. A mesterségesen l
 
 Milyen jól, kapóra jön pl. egy francia `frere` = testvér szó, ha nem is mint egyenlően régi, pl. a perzsa `barodar` párjával, de legalábbis számba- ill. rokonnak vehető indoeurópai szó, amit alkalomadtán fel tud valaki mutatni pl. B-F hangváltozások kapcsán.  
 
-Ahogy [ezen](https://qr.ae/pyo1pN) Quora válaszomban is megírtam, a szabadon extrapoláló, a szavak valódi eredetét nem ismerő indo-európai nyelvész számára akár – egy, általa szintén nem ismert – 500-1000 éves eltérés kiküszöbölésének nehézsége fel sem merül, mert az észjárásában az az időtartam amúgy is egy másodpercre zsugorodna annak fényében, hogy papíron megállapított, elméleti, mesterséges gyökökről van szó, nem valódi szavakról:  
+Ahogy [ezen](https://qr.ae/pyo1pN) Quora válaszomban is megírtam, a szabadon extrapoláló, a szavak valódi eredetét nem ismerő indo-európai nyelvész számára akár – egy, általa szintén nem ismert – 500-1000 éves eltérés kiküszöbölésének nehézsége fel sem merül, mert az észjárásában az az időtartam amúgy is egy másodpercre zsugorodna annak fényében, hogy papíron megállapított, elméleti, mesterséges gyökökről van szó, nem valódi szavakról, azaz egy [[N/Nyelvészet mint tudomány#A nyelvészet homogenizáló és statikusként ábrázoló eljárásai\|homogenizálási eljárás]]sal élnek:  
 > Nobody will ever know. What more intelligent people will understand that both sets of vocabularies stem from a common source. There is also a time and historical factor not dealt with properly by anyone touching on these matters, because they are usually wont to extrapolate freely (a range of 500–1000 years is taken as a continuous flow of one single second in the mind of those who deal with ad hoc theoretical roots of words they do *not* know the origins of).  
 > —  
 > Senki sem fogja megtudni. Amit az intelligensebb emberek meg fognak érteni, hogy mindkét szókészlet közös forrásból ered. Van egy időbeli és történelmi tényező is, amivel senki sem foglalkozik megfelelően, aki ezeket a kérdéseket érinti, mert általában szabadon szoktak extrapolálni (500-1000 év közötti idő intervallumot egyetlen másodperc folyamatos áramlásának vétetik azok fejében, akik olyan szavak ad hoc elméleti gyökeivel foglalkoznak, amelyeknek az eredetét *nem* ismerik).  
