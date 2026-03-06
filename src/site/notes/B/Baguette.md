@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Baguette/","title":"Baguette","created":"2025-10-18T17:54","updated":"2025-10-18T17:55"}
+{"dg-publish":true,"permalink":"/B/Baguette/","title":"Baguette","created":"2025-10-18T17:54","updated":"2026-03-06T16:22"}
 ---
 
 
