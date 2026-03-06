@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Boy/","title":"Boy","tags":["Englishtexttranslated"],"created":"2025-04-27T09:54","updated":"2025-10-04T18:01"}
+{"dg-publish":true,"permalink":"/B/Boy/","title":"Boy","tags":["Englishtexttranslated"],"created":"2025-04-27T09:54","updated":"2026-03-06T16:22"}
 ---
 
 
@@ -30,7 +30,7 @@ A bengáli `bhā'i` = testvér jelentésű volt.
 De Varga Csaba említette más írásában a baj/poi alakot is gyerekre nézve:  
 > [[B/Baj\|BAJ]] és [[B/Bal\|bal]] ugyanaz a szó (l > j különbözettel, mint jány > lány, s például bal kéz: baj kéz, azaz bajt hozó, bajcsináló, vagyis ügyetlen kéz). A baj az ógörög kori jellegzetes kiejtéssel (b = p): pai \[παι\]. E régi pai, paj kiejtés is megvan még, így ejtjük a pajkos (azaz baj-k-os, vagyis bajt okozó), pajtás szavakat. Az ógörög korban is e szógyökkel nevezték meg a gyereket, mert hogy: bajcsináló, de e pai (baj) szóból a pajzánkodás, pajzán szó is.  
 
-[Ezen](https://en.wiktionary.org/wiki/bachur) oldal adata szerint a héber `bachur` = fiú (Hebrew בחור (`bakhúr`), "srác, fiú, fiatalember"). Nyilván a [[B/Bak csillagkép\|Bak csillagkép]]ben születik a Nap is. Nem gondolnám, hogy a bar = fiú széthúzott változata lenne. A [[B/BAK\|bak]] szó is hímséget, Napot jelent. Fáy Elek A magyarok őshona című könyvének 176. oldalán azt írja, hogy BAK a [[M/MAG\|mag]] szavunk (értsd: Napnevünk) alakváltozata lehet (a szláv `bog` és a magyar [[B/Bogár\|bogár]] szót is felhozza). Movers adatát is szolgáltatja bizonyításul, minthogy emez a [[M/Makar\|Makar]] istennév változatait látja az iménti héber névvel azonos Bokhar, Bokhorosz \[vesd össze [[B/Bakar\|Bakar]]; lásd még [[B/Bojár\|bojár]]\] nevekben (lásd adatát [[M/Madár\|madár]]).  
+[Ezen](https://en.wiktionary.org/wiki/bachur) oldal adata szerint a héber `בחור` (`bakhúr`) = srác, fiú, fiatalember. Nyilván a [[B/Bak csillagkép\|Bak csillagkép]]ben születik a Nap is. [[M/Magor\|Magor]] név megléte miatt nem gondolnám, hogy a `bar` = fiú széthúzott változata lenne. A [[B/BAK\|BAK]] szó is hímséget, Napot jelent. Fáy Elek A magyarok őshona című könyvének 176. oldalán azt írja, hogy BAK a [[M/MAG\|mag]] szavunk (értsd: Napnevünk) alakváltozata lehet (a szláv `bog` és a magyar [[B/Bogár\|bogár]] szót is felhozza). Movers adatát is szolgáltatja bizonyításul, minthogy emez a [[M/Makar\|Makar]] istennév változatait látja az iménti héber névvel azonos Bokhar, Bokhorosz \[vesd össze [[B/Bakar\|Bakar]]; lásd még [[B/Bojár\|bojár]]\] nevekben (lásd adatát [[M/Madár\|madár]]).  
 
 Lásd még [[P/Page\|page]] = apród jelentését.  
 Lásd még [[P/Pal\|pal]], [[J/Juvenile\|juvenile]] és [[Y/Youth\|youth]].  
