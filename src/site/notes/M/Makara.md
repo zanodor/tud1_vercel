@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2026-03-05T01:31"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2026-03-09T22:08"}
 ---
 
 
@@ -129,7 +129,7 @@ A Bullinger féle adatokkal dolgozó(?) Huszárik László Denderai csillagképe
 
 Fentebb mondám, hogy de jó lenne egy ind csillagtérkép. Nos, a sumér-akkád csillagképek kapcsán Gavin White azt mondja ([[S/Szarvas\|szarvas]] és [[S/Suhurmasku\|Suhurmasku]] címnél), hogy a Kecskebakhal *felett* volt egy Szarvas csillagzat...  
 
-Az [alábbi](https://mek.oszk.hu/00200/00226/html/mutato.htm) mongol és más idegen eredetű kifejezések mutatója említi, hogy a mongol **Matar** és **Matar dzögi** ugyanaz, mint a szanszkrit `makara`: "krokodil, viziszörny."  
+Az [alábbi](https://mek.oszk.hu/00200/00226/html/mutato.htm) mongol és más idegen eredetű kifejezések mutatója említi, hogy a mongol **Matar** és **Matar dzögi** ugyanaz, mint a szanszkrit `makara`: "krokodil, víziszörny."  
 Ez a krokodilnév elterjedtté vált [ezen](https://en.wikipedia.org/wiki/Mugger_crocodile) **mugger** név alatt még.  
 De maradjunk a krokodilnál. Ugyanis Edward P. Butler, aki igen profin összeállított [oldalán](https://henadology.wordpress.com/theology/netjeru/) egyiptomi istenekről közöl adatokat, az [alábbi](https://henadology.wordpress.com/theology/netjeru/anat/) oldalon Széth kapcsán azt írja, hogy fiának neve **Maga** és krokodilként ábrázolták. Valójában úgy tűnik, hogy itt a szóvégi 'r' lemaradt. A szanszkrit `makara` = krokodil jelentése a bizonyíték. Már csak az várat megoldásra, hogy megtudjuk, hogy eredetileg a krokodil a Magyar istenanya, a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]], vagy a Nap jelképe lenne (a kétéltűség, az hogy a vízből kimászik, talán a Naphoz, születéséhez volt hasonlított). Talán maga a [[C/Crocodile\|crocodile]] etimológiája vagy a(kár Szimbólumtárból vett) jelképisége lesz az eldöntője.  
 
@@ -148,7 +148,7 @@ De maradjunk a krokodilnál. Ugyanis Edward P. Butler, aki igen profin összeál
 > S1.7. megjegyzés. Figyelemre méltó, hogy a maják a Tejútrendszerben lévő sötét hasadékot, amelyhez a 2012-es téli napforduló Napja igazodik, a "Krokodil szájának" vagy a "Jaguár varangynak" nevezték. Ez tehát nem lehet véletlen! A védikus és a maja kozmológia is ugyanarra az eseményre utalhat, ugyanazt a krokodil szimbólumot használva az [[G/Galactic centre\|Tejútközpont]] meghatározására. Jenkins szerint a maják ezt a pontot úgy határozták meg, mint azt a pillanatot, amikor a Nap belép a Krokodil szájába (sötét hasadék a Tejútrendszerben), míg a védikus asztrológiában ez a pillanat a MAKARA (Bak) jegy és a téli napforduló összehangolásához kapcsolódik.  { #hzurgv}
 
 
-Clarias **Magur** (lásd [itt](https://www.fishbase.se/summary/Clarias-magur.html)) viszont egy harcsaféle neve.  
+Clarias **Magur** (lásd [itt](https://www.fishbase.se/summary/Clarias-magur.html)) egy harcsaféle neve.  
 A Pallas Nagy Lexikona adataként egy [[M/Makár\|makár]] nevű halat is találunk.  
 
 [[H/Hunor és Magor#Hun/Kut(a)/Szkíta és Magyar nevek és névváltozatok és egymás melletti illetve egymással szembeniségük vizsgáltata\|Hun/Kut(a)/Szkíta és Magyar nevek és névváltozatok és egymás melletti illetve egymással szembeniségük vizsgáltata]] és [[H/Hunor és Magor#Hunor és Magor, azaz Magor és Hunor Makara és Kumara változatai\|Hunor és Magor, azaz Magor és Hunor Makara és Kumara változatai]] cím/alcímnél taglaljuk Makarát és a vele átellenben lévő Kumarát.  
