@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Krónikák hitelessége/","title":"Krónikák hitelessége","created":"2024-12-16T18:43","updated":"2026-02-18T22:57"}
+{"dg-publish":true,"permalink":"/K/Krónikák hitelessége/","title":"Krónikák hitelessége","created":"2024-12-16T18:43","updated":"2026-03-09T22:09"}
 ---
 
 
@@ -19,7 +19,9 @@ Nemcsak a krónikák, hanem úgy általában a források, kútfők, egyes szerz�
 
 
 > [!note] &nbsp;
-> [14:09](https://www.youtube.com/watch?v=VwZEOz6HUl4&t=849) Bonfini szerint "a magyar krónikák abban különböznek más népek krónikáitól, hogy csak a pőre, meztelen igazságot írják le."  
+> [14:09](https://www.youtube.com/watch?v=VwZEOz6HUl4&t=849) Bonfini szerint "a magyar krónikák abban különböznek más népek krónikáitól, hogy csak a pőre, meztelen igazságot írják le."
+{ #8sk1bf}
+
 
 ## Jogigény a Kárpát-medencére
 
