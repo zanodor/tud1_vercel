@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aphrodité/","title":"Aphrodité","tags":["Englishtexttranslated"],"created":"2025-07-29T22:30","updated":"2026-03-05T01:42"}
+{"dg-publish":true,"permalink":"/A/Aphrodité/","title":"Aphrodité","tags":["Englishtexttranslated"],"created":"2025-07-29T22:30","updated":"2026-03-09T22:09"}
 ---
 
 
@@ -8,7 +8,9 @@
 Mint minden istennő, eredetileg Tejútistennő. Robert Graves The White Goddess című könyvének 187. oldalán is tengeristennőnek mondja. Az alant taglalt [[H/Hab\|hab]] = [[A/AB\|AB]] alapján érthető is.  
 
 A Hamlet Malmában idézik Macrobius-t:  
-> Mint mondják, Szaturnusz levágta atyjának, Caelusnak \[az égnek, Uranosznak\] a nemiszervét, bedobta a tengerbe, s ebből született Vénusz, aki a habról (`aphros`) melyből született, fölvette az Aphrodité nevet. Ebből arra következtetnek, hogy amikor káosz volt, idő nem létezett, amennyiben az idő az égbolt forgásából levezetett, kiszabott mérték. Az idő ott kezdődik; és úgy vélik, hogy ebből született meg [[K/Kronosz\|Kronosz]], aki azonos Khronosszal, mint korábban mondottuk.  
+> Mint mondják, Szaturnusz levágta atyjának, Caelusnak \[az égnek, Uranosznak\] a nemiszervét, bedobta a tengerbe, s ebből született Vénusz, aki a habról (`aphros`) melyből született, fölvette az Aphrodité nevet. Ebből arra következtetnek, hogy amikor káosz volt, idő nem létezett, amennyiben az idő az égbolt forgásából levezetett, kiszabott mérték. Az idő ott kezdődik; és úgy vélik, hogy ebből született meg [[K/Kronosz\|Kronosz]], aki azonos Khronosszal, mint korábban mondottuk.
+{ #pnl4fk}
+
 
 A hab témáról [[A/April\|április]] címnél is volt szó. Az alábbiak tisztázzák ki volt Aphrodité és körülbelül hogyan kell nevének előtagját meghatározni:  
 Látom valahol, hogy a görög `abra` = apród lány. Nos, [[D/Daughter\|daughter]] címnél (is) taglaltuk, hogy a Tejútanya fiatalkori/szűz önmagáról van szó. Mivel Vénusz-Aphrodité (ahogy [[S/Szemirámisz\|Szemirámisz]], [[T/Turán\|Turán]], [[I/Istár\|Istár]] és mások) a Tejútanya szerelem-istennői aspektusa, melyhez (a [[S/Szíriusz\|Szíriusz]] helyett/mellett) a Vénuszt (bolygót?) kapcsolták (Mars és Vénusz lettek az égi szerelmespár, mert a [[N/Nut\|Nut]]-[[S/Széth\|Széth]], [[M/Mária\|Mária]]-[[J/Jézus\|Jézus]] stb. anya-fia szerelmet nehezen lehetett volna tanítani, nemhogy a [[K/Kutyanemzés\|kutyanemzés]]t), ezen apró > görög `abra` > görög `aphrosz` = hab levezetéssel el lehet jutni Aphrodité előtagjához, de ne feledjük el, hogy a Tejútanyának ló (lásd [[H/Hab\|hab]]) alakja is van, továbbá hasonló, idevágó szavak még a (kapcsol igénkkel is kapcsolatba hozható) görög `ἀψίς` (`(h)apsis`) = boltozat, ív, az [[A/Ábra\|ábra]] címnél taglalt szanszkrit `abhra` = felhő[^1], a [[B/Brow\|brow]] címnél taglalt perzsa `āb-rū` szó, de továbbá még a [[H/Habiru\|Habiru]] címnél taglalt, nyílván égi folyó neveként értelmezendő Habur (Hab-Úr, Ha-Bor) folyó neve[^2] és a [[H/Hapi\|Hapi]] címnél előjövő Nílus (annak másneve, nyilván [[A/Api\|Api]] istenanyával azonos), valamint a [[B/Ború\|ború]] = égbolt szavak is. Akár az angol `hap` = szerencse is ide tartozhat.  
