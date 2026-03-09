@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mint istenanya/","title":"Szíriusz mint istenanya","created":"2023-11-30T08:53","updated":"2025-09-28T21:29"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mint istenanya/","title":"Szíriusz mint istenanya","created":"2023-11-30T08:53","updated":"2026-03-09T22:09"}
 ---
 
 
@@ -57,7 +57,7 @@ Alternatív esetekről (gyakori homlokon való megjelenésről és egyebekről) 
 [^4]: Lábjegyzet:  
 [[S/Suhurmasku\|Suhurmasku]] címnél [[M/MAS\|MAS]] piktogramja egy **négyzettel kiegészített kereszttel** kerül elő. Ott az is felvetődött, hogy az sem kizárt, hogy a Suhur-Mas nem más, mint Szarvas ([[M/Magor\|Magor]] címnél lásd Szarvas csillagképről) szavunk elferdítése.  
 De ha már [[S/Suhurmasku\|Suhurmasku]] címnél szóba jött, hogy a Suhur-Mas rész nagyon hasonló a Szar-Vas összetételhez, másnak is volt alternatív elképzelése Szarvas eredetét illetően. A Bilecz Ferenc által ajánlott Szar-Bas (Nap-Fejű) formához így igen hasonló lenne a Szuhur-Mas > Szur->Mas > Szar-Mas. Ha ez lenne mégis az eredeti forma, akkor a [[S/Sarama\|Sarama]] és más hasonló nevek (ott említett perzsa `sarmá` = tél és magyar [[S/Sárma\|sárma]] = kígyóvirág) kapcsán visszatérnénk oda, amit Színia asszony mondott: hogy a hátratekintő Csudaszarvas a [[N/Nagy Kutya\|Nagy Kutya]] csillagképben keresendő. Ahogy [[T/Téli napforduló\|téli napforduló]] és [[U/Újév\|újév]] címnél szerepelt, Szíriusszal ugye ilyenkor együttállás történik.  
-A Szuhur formához még igen hasonló a Szíriusz egyiptomi Sihor neve (lásd [[S/Szíriusz\|Szíriusz]] és [[S/Szigor\|szigor]]).  
+A Szuhur formához még igen hasonló a Szíriusz egyiptomi Cahen Sihor neve (lásd [[S/Szíriusz\|Szíriusz]] és [[S/Szigor\|szigor]]).  
 
 [^5]: Lábjegyzet:  
 Egy korai termékenység isten, akit imádtak, különböző jelzőkkel látták el mindenhol, mint például "oroszlánfejű sas." Cf H. Frankfort: Early Dynastic Sculptured Mace-heads. A. Orientalia 1935, p. 105.  
