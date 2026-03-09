@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2026-03-05T01:28"}
+{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2026-03-09T22:08"}
 ---
 
 
@@ -31,9 +31,9 @@ Lásd még [[U/UR#Oroszlán vagy kutya\|oroszlán vagy kutya]] témát.
 ...című a Dobogó című újság 2011. 3-4. számában megjelent cikkének [[M/Mária\|Mária]] címnél elővezetett passzusát kiegészítőleg írja ([[T/Tigris\|Tigris]] címnél is szerepelt):  
 > Az ókori mezopotámiai `mahgar` név `magur` változata például oroszlánt jelent, ennek szabályos hangalaki párja, a `nahar` pedig Indiában tigrist. Széchenyi Zsigmond egyik, vadászatairól szóló könyve éppen ezt a címet viselte.  
 
-Ezt a vélhetően dél-indiai/dravida eredetű tigris nevet nem sikerült megtalálni azóta sem, ahogy a [[N/Nerve\|nerve]] címnél előjövő ind `nahar` = ideg szóról sem tudom még, Indiában melyik nyelvé (vagy csak a szanszkrit). 
+Ezt a vélhetően dél-indiai/dravida eredetű tigris nevet nem sikerült megtalálni azóta sem, ahogy a [[N/Nerve\|nerve]] címnél előjövő ind `nahar` = ideg szóról sem tudom még, Indiában melyik nyelvé (vagy csak a szanszkrit).  
 
-Itt még Pap Gábor megemlíti a [[M/Magura\|Magura]] címhez is betett `magura` = forrásbarlang jelentésű szót (nem írja, milyen nyelven). Ez azért érdekes gondolat, mert az [[U/UR\|UR]] és [[U/Urgula\|Urgula]] címnél is taglalt sumér Ur-Mah szótagmegfordított változataként ismert Magur nevéből az oroszlán > barlang jelentésváltozás lehetőségére is felhívja a figyelmet (valamint az is, hogy forrást is említ, mely a héberben is `makor` = forrás (lásd ezen szót [[M/Magyar\|magyar]])). Ergo a tigris nem feltétlenül Tejútanya állatalakként számítandó, lehet az Oroszlán nevéből képzett (M>N és G>H váltással).  
+Itt még Pap Gábor megemlíti a [[M/Magura#Oroszlán-Vízöntő tengely\|Magura]] címhez is betett `magura` = forrásbarlang jelentésű szót (nem írja, milyen nyelven). Ez azért érdekes gondolat, mert az [[U/UR\|UR]] és [[U/Urgula\|Urgula]] címnél is taglalt sumér Ur-Mah szótagmegfordított változataként ismert Magur nevéből az oroszlán > barlang jelentésváltozás lehetőségére is felhívja a figyelmet. Az is érdekes, hogy forrást is említ, mely a héberben is `מָקוֹר` (`makór`) = forrás, eredet, gyökér; (víz)forrás (lásd ezen szót [[M/Magyar\|magyar]]). Ergo a tigris nem feltétlenül Tejútanya állatalakként számítandó, lehet az Oroszlán nevéből képzett (M>N és G>H váltással).  
 
 Carl J. Becker A Modern Theory of Language Evolution című könyvének internetről leszedhető kivonatában az áll, hogy a (G. I. Gurdjieff által használt elnevezéssel) Imastun bölcsek (akik csillagtudományokkal, sőt, telepátiás beszéddel voltak megáldva) neve Ur-Mah volt a sumér hagyományban. Mivel a kutatók nem látszanak érteni a nevet, Becker is nagy kavarodást idéz elő. Mivel UR-t itt kutya jelentéssel adja meg (ahogy Varga Zsigmond is könyvében; lásd [[U/UR\|UR]]), Nagy Kutya értelmet is ad a névnek[^2], de `MAH` = pap jelentéssel is előhozakodik (másutt pedig [[G/Guda\|Guda]][^3] a papi kaszt neve). Mivel viszont Ur-Mah az Oroszlán csillagkép neve is volt, kénytelenek UR-nak "nagyobb testű húsevő" jelentést is adni. A problematika könnyen megoldható: az Ur-Mah másképpen Mah-Ur, [[M/Magur\|Magur]], mely a magyarok Napneve: a Nap jelképe lehet az oroszlán, és éppen az Oroszlánban van uralomban a Nap, ezért kapta a nevét is.  
 Hogy ebben az oroszlán-kutya keveredésben most kell-e keresnünk azt a relációt, hogy az Oroszlán korszakban érjük el a precessziós fénymaximumot (az Aranykorban, amikor a Kutya közel kerül hozzánk), vagy sem, nem tudni. Valószínűleg nem.  
