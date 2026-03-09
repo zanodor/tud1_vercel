@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts","containstransclusions"],"created":"2025-07-16T14:23","updated":"2026-02-27T17:35"}
+{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts","containstransclusions"],"created":"2025-07-16T14:23","updated":"2026-03-09T22:09"}
 ---
 
 
@@ -17,9 +17,12 @@ Sok előítélet kapcsolódik ahhoz a tevékenységhez, amit ezzel a kifejezéss
 </div></div>
 
 
+Tulajdonképpen bármennyire erős filológiai levezetésed van, az is csak egy népetimológiás levezetés lesz a sok közül és nem mérlegelik majd a gondolatébresztő (ősvallásra mutató) pontjait, mert a hivatalos gyökvonások (amelyekkel a tudomány szépen kikerüli a problémát; igaz, a szavak kapcsolásánál ők is népetimologizálnak a háttérben, de azt a végső levezetéseket olvasó nem látja) "mindent visznek."  
+Megint csak az az embernek az érzése, hogy ezek látszat tevékenységek egy látszat világban.  
+
 #### Jankovics Marcell Mély a múltnak kútja...  
 
-...című könyvének 29 és 66. oldalán írja:  
+...című könyvének 29 és 66. oldalán fontos dologra hívja fel a figyelmet:  
 > ...a hagyományos jelképalkotásban a nyelvi homofónia kulcsszerepet játszott...  
 > \[...\]
 > Emlékeztetnék arra, hogy a fogalmak közötti összefüggés olykor csupán a szavak homofóniáján alapuló "népi etimológizálás" következménye: mindazonáltal az ember jelképteremtő kedvének ez nem szabott gátat a későbbiekben sem.  
@@ -27,6 +30,9 @@ Sok előítélet kapcsolódik ahhoz a tevékenységhez, amit ezzel a kifejezéss
 Épp ez a lényeg. A nép alkotja, bővíti a szókincsét, "hasonlót a hasonlóval" alapon, a [[F/Flexió\|flexió]] címnél taglalt apró hajlításokkal. A nyelv alakítása nem papi privilégium és a nyelvek nem a népek patriarchalizálódása folyamán keletkeztek, hanem olyan (a beláthatatlanul messzi múltba vesző) időben, amikor az [[A/Analógikus gondolkodásmód\|analógiás gondolkodás]] volt a meghatározó.  
 A nép tehát nem nyelvészkedett, nem a szavak eredetét akarta meghatározni, nem holmi papi szektákból később kialakult nyelvész szekták megélhetését akarta elvenni, pusztán használni a nyelvet és a nyelvhasználat során a szókincset bővíteni, népi műveltségének keretei között.  
 - Arról több helyen volt szó, hogy az idegen nyelven eltérő szavai úgy alakulnak ki, hogy egy közös ősi mondai vagy szakrális indíték más mondanivalóval szolgál és a régi szóhoz egy új jelentést társítanak. Kis gyakorlattal (lehetőség szerint a megfelelő mondai környezet ismeretével) ezeket észre lehet venni. Csak ugye amikor ezeket a szövegkörnyezeteket vizsgálni kezdi az ember, akkor jönnek: "népetimológia!" És ők "nyertek".
+- Az is nehézséget okoz, hogy eldöntsük, hogy az utódnyelvek ilyen szóalkotásában – pl. [[A/Aphrodité#^pnl4fk\|Aphrodité]] < görög `apros` = hab – utóbbi szót önkényesen alkotta ki, és nem lehet magyar (rokon) szóval azonosítani, vagy igen (Habur?). Nehéz minden szónak utánajárni és az ötletelések önkényesnek tűnnek.
+{ #5dcpeg}
+
 
 > [!question] &nbsp;
 > Milyen műveltsége volt ill. van a megélhetési klerikalistának vagy nyelvésznek és ezek dogmáiban vakon hívőknek?
