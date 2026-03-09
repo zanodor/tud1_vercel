@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kagyló/","title":"Kagyló","tags":["containscallouts"],"created":"2026-02-09T17:01","updated":"2026-03-03T18:28"}
+{"dg-publish":true,"permalink":"/K/Kagyló/","title":"Kagyló","tags":["containscallouts"],"created":"2026-02-09T17:01","updated":"2026-03-09T22:09"}
 ---
 
 
@@ -10,7 +10,9 @@ A kagyló Kad-Lu/Kád-Lu felbontásban Háza a Fénynek. [[K/KÁD\|Kád]] alakú
 > [!check] &nbsp;
 > Vegyük észre, hogy a kagyló szó szerint gyöngyház, azaz fény-háza értelmű. Még az arab `lulu` = gyöngy (lua-lua-nak ejtik, ahol az 'a' olyan, mintha 'h' lenne vagy egy levegővétel; szépen mutatja, mit is jelent [[L/LU\|LU]], fényt) szó is telitalálat benne.  
 
-Az arab `mahar` = kagyló, osztriga [[M/Magyar\|magyar]] szóformánkból való eredetéről ott volt már szó. Közben, mint kiderül, a gyöngyház jelentésű [[N/Nacre\|nacre]] is éppen ilyen magyar eredetre megy vissza, M>N váltással (M-N változásról [[N/Nature\|nature]], [[N/Nagar\|naggar]] és [[N/Názáret\|Názáret]] címnél is volt szó ugye), mint az arab `mahar`.  
+A `magyar` névformával azonos és a [[M/Magura#Arab szavak\|Magura]] helyen hozott arab `maḡār`/`maḡāra` = grotto, barlang jelentésében felfedezhető rejtett "hegy szája", "bejárat", "vulva" jelentéskör összefüggésein keresztül azonos szóalakjával is még inkább értelmezhető arab `مَحَار` (`maḥār`) = kagyló szó több helyen szóba került.  
+
+Közben, mint kiderül, a gyöngyház jelentésű [[N/Nacre\|nacre]] is éppen ilyen magyar eredetre megy vissza, M>N váltással (M-N változásról [[N/Nature\|nature]], [[N/Nagar\|naggar]] és [[N/Názáret\|Názáret]] címnél is volt szó ugye), mint az arab `mahar`.  
 
 #### Péterfai János...  
 
