@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Suhurmasku/","title":"Suhurmasku","tags":["Englishtexttranslated"],"created":"2023-11-04T10:20","updated":"2026-03-05T01:25"}
+{"dg-publish":true,"permalink":"/S/Suhurmasku/","title":"Suhurmasku","tags":["Englishtexttranslated"],"created":"2023-11-04T10:20","updated":"2026-03-09T22:08"}
 ---
 
 
@@ -44,7 +44,7 @@ A Gyárfás Ágnes az Ősi Gyökér 2010/1-2. sz. közölt Magyar őskutatás a 
 
 Sőt, mivel Suhur megfelel a [[S/Sacchar-\|sacchar-]] címnél álló névalakoknak és ott szintén Orion és kutyájáról volt szó, ezért ismét megtaláljuk ezen kapcsolatot.  
 Hasonló név még a [[S/Sacchar-\|sacchar-]] címnél szintén említett, a [[S/Szigor\|szigor]] címnél előjövő **Sihor**, (ismét) Szíriuszra értve. Márpedig ezen időszakban történik vele együttállás is (de a Bak [[P/Pán\|Pán]] is valójában ugyanígy Szíriusz neve)...Erről [[S/Szarvas\|szarvas]] címnél is volt szó legutóbb:  
-A Suhurmasku név Suhur-Mas része nagyon hasonló a Szar-Vas összetételhez. A Bilecz Ferenc által ajánlott Szar-Bas (Nap-Fejű) formához így igen hasonló lenne a Szar-Mas. Ha ez lenne mégis Szarvas eredeti formája, akkor a [[S/Sarama\|Sarama]] és más hasonló nevek (ott említett perzsa `sarmá` = tél és magyar [[S/Sárma\|sárma]] = kígyóvirág) kapcsán visszatérnénk oda, amit Színia asszony mondott: hogy a hátratekintő Csudaszarvas a [[N/Nagy Kutya\|Nagy Kutya]] csillagképben keresendő \[hát, azért ezt át kell értékelni\]. Ahogy [[T/Téli napforduló\|téli napforduló]], [[F/Félév\|félév]] és [[U/Újév\|újév]] címnél szerepelt, Szíriusszal ugye ilyenkor együttállás történik. És itt még nincs vége. Ugyanis a Suhur formához még igen hasonló a Szíriusz egyiptomi Sihor neve (lásd [[S/Szíriusz\|Szíriusz]] és [[S/Szigor\|szigor]]).  
+A Suhurmasku név Suhur-Mas része nagyon hasonló a Szar-Vas összetételhez. A Bilecz Ferenc által ajánlott Szar-Bas (Nap-Fejű) formához így igen hasonló lenne a Szar-Mas. Ha ez lenne mégis Szarvas eredeti formája, akkor a [[S/Sarama\|Sarama]] és más hasonló nevek (ott említett perzsa `sarmá` = tél és magyar [[S/Sárma\|sárma]] = kígyóvirág) kapcsán visszatérnénk oda, amit Színia asszony mondott: hogy a hátratekintő Csudaszarvas a [[N/Nagy Kutya\|Nagy Kutya]] csillagképben keresendő \[hát, azért ezt át kell értékelni\]. Ahogy [[T/Téli napforduló\|téli napforduló]], [[F/Félév\|félév]] és [[U/Újév\|újév]] címnél szerepelt, Szíriusszal ugye ilyenkor együttállás történik. És itt még nincs vége. Ugyanis a Suhur formához még igen hasonló a Szíriusz egyiptomi Cahen Sihor neve (lásd [[S/Szíriusz\|Szíriusz]] és [[S/Szigor\|szigor]]).  
 
 Lényegében itt az [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] szabályról van szó; \*Suhur egy rontott alak.  
 
