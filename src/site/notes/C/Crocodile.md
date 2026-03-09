@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Crocodile/","title":"Crocodile","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-19T11:24","updated":"2024-10-25T16:22"}
+{"dg-publish":true,"permalink":"/C/Crocodile/","title":"Crocodile","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-19T11:24","updated":"2026-03-09T22:10"}
 ---
 
 
@@ -10,7 +10,7 @@
 > Ka-Ra-Ku-Dil szavunk értelme, nagyon régen, valamilyen Király-Nap-Szájának-Delelője, Teljessége lehetett. Később, már az ókor idején, a Kara-Kú-Dil névforma is megjelenhetett, amikor a Kara Fekete értelmet tartalmazhatott, persze, ekkor még semmilyen török nyelv nem létezett. A Ka-Ra pontos jelentése Háza a Feketének, a Ra jelenti a fekete színt, például Mészáros Gyula hatti szavai közt is. Ezért a Kro-Ko-Dil Fekete-Száj-Déli jelentésű.  
 - Megjegyzés: a Dil, mint akár [[A/Árgyilus\|Árgyilus]] nevében is, utalhat a Gyil-Kol fogalmára is.  
 
-A szanszkrit [[M/Makara\|makara]] = krokodil, viziszörny jelentésű.  
+A szanszkrit [[M/Makara\|makara]] = krokodil, víziszörny jelentésű.  
 Ez a krokodilnév elterjedtté vált `mugger` (lásd [Wiki oldalát](https://en.wikipedia.org/wiki/Mugger_crocodile)) név alatt még.  
 Edward P. Butler [ezen](https://henadology.wordpress.com/theology/netjeru/) oldalán egyiptomi istenekről közöl adatokat; az [alábbi](https://henadology.wordpress.com/theology/netjeru/anat/) oldalon [[S/Széth\|Széth]] kapcsán azt írja, hogy fiának neve **Maga** és krokodilként ábrázolták. Valójában úgy tűnik, hogy itt a szóvégi 'r' lemaradt. A szanszkrit `makara` = krokodil jelentése a bizonyíték. Már csak az várat megoldásra, hogy megtudjuk, hogy eredetileg a krokodil a [[M/Magyar\|Magyar]] istenanya, a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]], vagy a [[M/Magor\|Magor]] Nap jelképe lenne (a kétéltűség, az hogy a vízből kimászik, talán a Naphoz, születéséhez volt hasonlított, de a teste sárkány- illetve gyíkszerű és ez anyjára utaló lehet, ahogy [[M/Magyar\|magyar]] címnél az egyiptomi résznél is felvetettük). Talán maga a crocodile etimológiája vagy a(kár Szimbólumtárból vett) jelképisége lesz az eldöntője.  
 
@@ -20,7 +20,7 @@ Edward P. Butler [ezen](https://henadology.wordpress.com/theology/netjeru/) olda
 
 ...szerzőpáros által írt Crucifying the Earth on the Galactic Cross című tanulmányának szemelvényeiben (Blavatsky adatai alapján ill. őt idézve) hozott adatuk, melyben kimondják, hogy az egyiptomi és ind krokodil a [[S/Sárkány\|sárkány]] megfelelője kell legyen (a The Dragon in Medieval East Christian and Islamic Art c. írásban lábjegyzetben is ez áll[^1]) (ami valljuk meg, logikus is és a sárkány is a [[T/Tejútanya\|Tejútanya]], minden ősanya ősalakja a sárkány):  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/m/makara/#hzurgv" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Makara/#hzurgv" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
