@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated"],"created":"2023-10-29T05:21","updated":"2026-02-09T17:31"}
+{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated"],"created":"2023-10-29T05:21","updated":"2026-03-09T22:09"}
 ---
 
 
@@ -61,8 +61,9 @@ Lásd még témát említve [[M/Más#Más és több\|más és több]] cím/alcí
 `Kaka` is ide tartozik.
 - Eric Partridge etimológiai szótárában jól jegyzi meg, hogy a [[K/KAK\|KAK]] helyen taglalt latin `cacāre` és a görög `kakké` óvodai szókincs részei.
 
-A Reddit posztot megosztó Quora helyen felírtam, amit kellett:  
+De ahogy [ezen](https://en.wiktionary.org/wiki/%DA%A9%D8%A7%DA%A9%D8%A7) Wiktionary helyen látjuk, a perzsa (főleg dari) `káká` = apai nagybáty, bácsi szó esetében családi szóról van szó.   
 
+A Reddit posztot megosztó Quora helyen felírtam, amit kellett:  
 > A magyar nyelv ezeket az alapszavakat etimon-szinten használja:  
 > *   PI = eredeti jelentés = csillag = fi(ú) = utód (ugyanaz, mint a finnugor `pi` és a bantu `bi`)
 > - Pi-Pi = Gyereknyelv a csirkére. [[T/Tyúk\|Tyúk]] jelentése is (Tyú-K =) Csillagocska (vagy: Napocska)
