@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hölgy/","title":"Hölgy","created":"2024-01-14T12:05","updated":"2024-10-25T21:47"}
+{"dg-publish":true,"permalink":"/H/Hölgy/","title":"Hölgy","created":"2024-01-14T12:05","updated":"2026-03-10T03:05"}
 ---
 
 
