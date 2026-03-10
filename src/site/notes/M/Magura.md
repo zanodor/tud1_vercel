@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magura/","title":"Magura","tags":["Englishtexttranslated"],"created":"2023-10-29T08:17","updated":"2026-03-09T22:09"}
+{"dg-publish":true,"permalink":"/M/Magura/","title":"Magura","tags":["Englishtexttranslated"],"created":"2023-10-29T08:17","updated":"2026-03-10T03:05"}
 ---
 
 
@@ -43,7 +43,7 @@ A ma- előtag ![Magura_image20260309185229778.jpeg|right|200](/img/user/M/assets
 > [!hint] &nbsp;
 > Ami felveti, hogy a `maḡāra` egyúttal a szanszkrit `mukha` = száj, nyílás (bejárat, kapu) szóval is kapcsolatba hozható, mármint közös kiindulásuk (vö. magyar [[M/MAG\|mag]] és [[M/Méh\|méh]]) alapján.
 
-Annál is inkább, mert a több helyen bemutatott, szintén arab `مَحَار` (`maḥār`) = kagyló is vulva jelkép és kimondottan barlang jelentésben felfedezhető rejtett "hegy szája", "bejárat", "vulva" jelentéskör összefüggésein keresztül érthető meg, miért lehet teljesen hasonló alakú a kagyló (és osztriga) jelentésű szó.  
+Annál is inkább, mert a több helyen bemutatott, szintén arab `مَحَار` (`maḥār`) = kagyló is vulva jelkép és kimondottan a barlang jelentésben felfedezhető rejtett "hegy szája", "bejárat", "vulva" jelentéskör összefüggésein keresztül érthető meg, miért lehet teljesen hasonló alakú a kagyló (és osztriga) jelentésű szó.  
 Sőt, a [[B/Barlang\|barlang]] címnél hozott Weigall féle adatsor ("Betlehemben Jézus születési helyeként feltüntetett barlang valójában egy **sziklakegyhely** volt") alapján látni kell, hogy az arab `مزار` (`mazār`) = szentély megint csak a barlang jelentésű szóval közös eredetű.  
 - A [[P/Pálos\|pálos]]ok sem véletlenül használták a barlangokat.
 
