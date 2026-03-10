@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barlang/","title":"Barlang","tags":["Englishtexttranslated"],"created":"2026-03-08T20:00","updated":"2026-03-10T03:04"}
+{"dg-publish":true,"permalink":"/B/Barlang/","title":"Barlang","tags":["Englishtexttranslated","containscallouts"],"created":"2026-03-08T20:00","updated":"2026-03-10T22:59"}
 ---
 
 
