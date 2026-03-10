@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barlang/","title":"Barlang","tags":["Englishtexttranslated"],"created":"2026-03-08T20:00","updated":"2026-03-09T22:08"}
+{"dg-publish":true,"permalink":"/B/Barlang/","title":"Barlang","tags":["Englishtexttranslated"],"created":"2026-03-08T20:00","updated":"2026-03-10T03:04"}
 ---
 
 
@@ -15,7 +15,7 @@
 > Barlang szavunk tulajdonképpeni értelme is homály és sötétség volt, amit bizonyít, hogy a székely-magyarok nyelvében ma is `barlang` (kopott kiejtéssel: `ballang`) az igen sötét erdő, erdei homály és a [[H/Homály\|homály]] általában is.  
 
 > [!check] &nbsp;
-> Az alábbi információk alapján Bar-Lang lehet a Tejútfa [[O/Odú\|odv]]ára, a Tejútistennő ([[N/Nut\|Nut]], [[E/Éva\|Éva]], [[A/Anna\|Anna]], [[I/Ízisz\|Ízisz]], [[M/Mária\|Mária]], stb.) [[V/Vulva\|vulvá]]jára utaló szóösszetétel is, ahol [[B/BAR\|Bar]] a megszületendő Napistenre utal, [[L/LÁG\|LÁG]] (lang) a fényére.
+> Az alábbi információk alapján Bar-Lang lehet a Világhegy gyomra/méhe ill. a Tejútfa [[O/Odú\|odv]]ára, a Tejútistennő ([[N/Nut\|Nut]], [[E/Éva\|Éva]], [[A/Anna\|Anna]], [[I/Ízisz\|Ízisz]], [[M/Mária\|Mária]], stb.) [[V/Vulva\|vulvá]]jára utaló szóösszetétel is, ahol [[B/BAR\|Bar]] a megszületendő Napistenre utal, [[L/LÁG\|LÁG]] (lang) a fényére.
 
 #### Jankovics Marcell írja:
 
@@ -28,13 +28,11 @@ Kállay Ferenc A pogány magyarok vallása című könyvének [149. oldalán](zo
 ...című könyvének 345. oldalától bővebben szól a témáról:  
 > A mitologikus világkép napos-holdas fájának tövében lévő odún, barlangnyíláson át vezet a föld alá az út az "alsó" világba. Ez az égi hely (a Tejút hasadéka) időszámításunk kezdetétől a téli napfordulóval együtt a Bak havába esik. Ez a magyarázata annak, hogy ettől az időtől kezdve a föld székében, hosszában találkozhatni a faodúból, **barlangból születő napisten** képzetével. Ez a képzet mindmáig eleven, csillagászatilag sem vesztette el érvényét, legalábbis metaforikusan nem, megőrizte a mesemondó népi emlékezet, de a keresztény egyházi művészet is [[J/Jézus\|Jézus]][^1]...  
 - Arthur Weigall The Paganism in our Christianity című könyvének 51. oldalán szól a témáról (John G. Jackson Christianity before Christ című könyvében idézi):  
-<small> 
 > The Egyptologist, Sir Arthur Weigall, was a member of the Church of England and firmly believed in the historicity of Jesus, but he was compelled to admit that the Markan and Lukan stories of the birth of the Savior were mythological, for he declared that:  
 > "Firstly, as regards the cave; the cave shown at Bethlehem as the birthplace of Jesus was actually a rock shrine in which the god Tammuz or Adonis was worshipped as the early Christian Father, Jerome tells us; and its adoption as the scene of the birth of our Lord was one of those frequent instances of the taking over by Christians of a pagan sacred site. The propriety of this appropriation was increased by the fact that the worship of a god in a cave was a commonplace in paganism: Apollo, Cybele, Demeter, Herakles, Hermes, Mithra and Poseidon were all adored in caves; Hermes, the Greek Logos, being actually born of Maia in a cave, and Mithra being rock-born."  
 > —  
 > Az egyiptológus Sir Arthur Weigall az anglikán egyház tagja volt, és szilárdan hitt Jézus történetiségében, de kénytelen volt elismerni, hogy a Megváltó születéséről szóló márki és lukácsi történet mitológiai, mert kijelentette, hogy:  
 > "Először is, ami a barlangot illeti; a Betlehemben Jézus születési helyeként feltüntetett barlang valójában egy sziklakegyhely volt, amelyben [[T/Tammuz\|Tammuz]] vagy [[A/Adonisz\|Adonisz]] istent imádták, ahogy a korai keresztény atya, Jeromos mondja nekünk; és annak elfogadása Urunk születésének színhelyéül egyike volt azoknak a gyakori eseteknek, amikor a keresztények egy pogány szent helyet vettek át. E kisajátítás helyességét növelte az a tény, hogy a barlangban lévő isten imádata a pogányságban mindennapos volt: Apollónt, Kübele, Démétér, Héraklész, Hermész, Mithra és Poszeidón mind barlangban imádták; Hermész, a görög Logosz, valójában Májától született egy barlangban, Mithra pedig sziklán született."  
-</small>
 
 > ...születésének ábrázolásában. Az evangéliumok sehol sem írják, hogy Jézus barlangban született volna, a művészek java azonban a jelenetet barlangba helyezi, legfeljebb a szöveghűség kedvéért (Lk 2,7-16) istálló díszletet rak nyílása elé. A motívumot – mint ahogy Jézus születésnapjának dátumát is – a rivális rnithraizmustól vette át az egyház abban a később teljesülő reményben, hogy a "Legyőzhetetlen Nap" tisztelői így majd szívesebben térnek meg az egy igaz hitre. (Sol Invictus, azaz Mithras december 25-én születik, mítosza szerint a földből: sziklából, vagyis barlangból.) *A törzsek származásáról* avagy a *Kincsesbarlang* címen magyarul is megjelent IV. századi gnosztikus irat Krisztus születési helyszíneként ténylegesen is barlangot említ.  
 > 
