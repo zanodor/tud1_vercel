@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-20T09:42","updated":"2026-03-05T01:23"}
+{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-20T09:42","updated":"2026-03-10T03:04"}
 ---
 
 
@@ -99,7 +99,7 @@ Az ugrás fogalma pedig azért érdekes, mert a Nap [[U/Ugor\|Ugor]] állapota (
 [[K/Kutya\|Kutya]] címnél is szerepelt, hogy az urdu `kūdna` = ugorni (کودنا) érthető lehet úgy, hogy ugor téridőbeli helye azonos Kutyáéval.  
 Az Úr – Ugor mint kulminációs legmagasabb pont lehet az ógörög `ákron` eredete. [Ezen](https://en.m.wiktionary.org/wiki/%E1%BC%84%CE%BA%CF%81%CE%BF%CF%82#Ancient_Greek) oldal adata szerint a (nem csak gyorsat jelentő) latin `acer` is lehet Ég-Úr/Ugor.  
 
-[Ezen](https://web.archive.org/web/20240713094449/https://magyarmegmaradasert.hu/szerzok/k-n/marton-veronika/item/5920-z) [[L/Lófő\|lófő]]ről szóló [[M/Marton Veronika\|Marton Veronika]] féle cikkben szerepel:  
+[Ezen](https://martonveronika.blog.hu/2021/05/10/a_lofo_szavunk_eredete_es_jelentese) [[L/Lófő\|lófő]]ről szóló [[M/Marton Veronika\|Marton Veronika]] féle cikkben szerepel:  
 > Az ószláv/pravoszláv nyelvben az ugor mindig magyart jelent! Hodinka Antal, az orosz évkönyvek fordítója az ószláv ugor népnevet magyarnak fordítja. Tehát a finn-ugor jelentése finn-magyar.  
 > Az ugor megnevezést a magyar olvasó nemigen vonatkoztatja saját népnevére, a magyarra, hanem valamiféle urali, szibériai "finnugor" népnek tartja. Vajon, észszerű a "finnugor" összetétel első tagját magyarul, másodikat pedig ószláv nyelven használni? Ez nem más, mint megtévesztés.  
 
