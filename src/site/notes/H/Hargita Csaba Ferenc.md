@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hargita Csaba Ferenc/","title":"Hargita Csaba Ferenc","created":"2026-03-08T17:00","updated":"2026-03-10T16:25"}
+{"dg-publish":true,"permalink":"/H/Hargita Csaba Ferenc/","title":"Hargita Csaba Ferenc","tags":["containscallouts"],"created":"2026-03-08T17:00","updated":"2026-03-10T22:59"}
 ---
 
 
@@ -43,7 +43,7 @@ Hargita Csaba és társa tanulmánya zárásaként felsorolja nagyjából, kikre
 ## Cser-Darai adatok
 
 > [!fail] &nbsp;
-> Mások sem ismerik a professzor urat. [Ezen](https://epa.oszk.hu/01400/01445/00064/pdf/EPA01445_acta_hungarica_2021_4_567-627.pdf) Acta Historica Hungarica Turiciensia XXXVI. évfolyam 4. szám (2021) c. pdf-ben Cser Ferenc és Darai Lajos is értetlenkednek kilétén és szemügyre vették anyagát. Ők is észreveszik, hogy Baráth Tibor anyaga alapján mindenhol magyarokat sejtet.
+> Mások sem ismerték a "professzor urat". [Ezen](https://epa.oszk.hu/01400/01445/00064/pdf/EPA01445_acta_hungarica_2021_4_567-627.pdf) Acta Historica Hungarica Turiciensia XXXVI. évfolyam 4. szám (2021) c. pdf-ben Cser Ferenc és Darai Lajos is értetlenkednek kilétén és szemügyre vették anyagát. Ők is észreveszik, hogy Baráth Tibor anyaga alapján mindenhol magyarokat sejtet.
 
 Ha lejjebb megyünk a levelezésükben, akkor kiderül, hogy az Origo.hu is [említi](https://archive.ph/jSL8A) és hogy [erről](https://independent.academia.edu/CsabaHargita) az egyénről van szó és valóban van egy szerzőtársa.  
 Valamennyire [kitérnek](<zotero://open-pdf/library/items/AFIZXQEW?page=569>) a cigány/zsidó témára is.  
