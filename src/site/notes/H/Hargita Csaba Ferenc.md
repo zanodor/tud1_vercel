@@ -1,18 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hargita Csaba Ferenc/","title":"Hargita Csaba Ferenc","created":"2026-03-08T17:00","updated":"2026-03-09T22:09"}
+{"dg-publish":true,"permalink":"/H/Hargita Csaba Ferenc/","title":"Hargita Csaba Ferenc","created":"2026-03-08T17:00","updated":"2026-03-10T16:25"}
 ---
 
 
 # Hargita Csaba Ferenc
 
 > [!caution] &nbsp;
-> *A "professzor" akit senki sem ismer*
+> *Ki ez a ![Hargita Csaba Ferenc_image20260310152926246.jpeg|right|200](/img/user/H/assets/Hargita%20Csaba%20Ferenc_image20260310152926246.jpeg)"professzor"?*
+> <small>An IT security consultant having more than 20 years of experience in information technology altogether, spending the last 10 years in IT security an compliance, specialized in in the international legislation of personal data protection since 2011.</small>
+> <small>Bachelor of politology studies completed at the Kodolányi János Főiskola in Budapest (2014), with expertise in international relations and EU integration. Thesis made in the subject of “The characteristics of Eastern alternative medicines and their impact on Western view of life.”</small>
+> <small>Special interest in foreign languages and religious philosophies, especially in their impact to international and Hungarian political, economic and social courses.</small>
 
-[Ezen](http://www.imninalu.net) héber dal nevét viselő címmel ellátott weboldalán magát professzornak kiadó, Nevek titka című dolgozatában egyébként sok hasznos(?) adatot megosztó (lásd főleg [[M/Magyar\|magyar]] címnél), viszont a weboldalon a cigányok és a héberek kulturális tevékenységét több nyelven méltató **álmagyar ember** adataival vigyázni kell.  
+Egy héber dal nevét viselő címmel ellátott [weboldalán](http://www.imninalu.net) magát professzornak kiadó, Nevek titka című dolgozatában egyébként sok hasznos(?) adatot megosztó (lásd főleg [[M/Magyar\|magyar]] címnél), viszont a weboldalon a cigányok és a héberek kulturális tevékenységét több nyelven méltató illető adataival vigyázni kell.  
 
 Tipikus megtévesztő eljárás ellenfeleinktől, hogy úgy **épülnek be a nemzeti oldalra**, hogy egy csomó tetszetős, igaznak hallatszó dologgal belopják magukat az olvasók szívébe (miután nevet változtatnak, ahogy Hargita is egy székely megye neve – nagyon trükkös), majd menet közben mégis alágyűrni kívánják a magyarságot, ahogy Hargita Csaba nehezen kalauzolható honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán is.  
 
-Nem tudom, hogy ezen rejtélyes, **interneten sehol sem lekövethető** Hargita Csaba írta-e a szöveget, vagy mástól származik, mindenesetre erősen a héberek magasabb rendűségét (továbbá a hükszoszok sémi jellegét) bemutatóan fogalmaz. Jó lesz vigyázni vele, annál is inkább, mert egy új, A magyarok őstörténete – A magyar-héber kapcsolat című cikke is letöltésre került.  
+Nem tudom, hogy ezen rejtélyes Hargita Csaba írta-e a szöveget, vagy mástól származik, mindenesetre erősen a héberek magasabb rendűségét (továbbá a hükszoszok sémi jellegét) bemutatóan fogalmaz. Jó lesz vigyázni vele, annál is inkább, mert egy új, A magyarok őstörténete – A magyar-héber kapcsolat című cikke is letöltésre került.  
 
 Ebben a cikkben viszont egy helyen, Mészáros Gyulától való idézése után elhangzik:  
 "Hargita Csaba néhány klasszikus történetírót idéz."  
@@ -37,8 +40,18 @@ Hargita Csaba vagy tettestársa amennyi tetszetőset, annyi butaságot is össze
 
 Hargita Csaba és társa tanulmánya zárásaként felsorolja nagyjából, kikre alapozzák a gondolataikat: pl. Baráth Tibor, Mészáros Gyula, stb. Mégis úgy zsidóztak sokat a tanulmányban és magán a honlapon, hogy nem tisztázták a zsidók magyar eredetét. A magyar hagyományok nem zsidó eredetűek, hanem fordítva (magyar > jász > jász-filiszteus, magyar > hun > avar-hun > héber vonalakon).  
 
+## Cser-Darai adatok
+
 > [!fail] &nbsp;
 > Mások sem ismerik a professzor urat. [Ezen](https://epa.oszk.hu/01400/01445/00064/pdf/EPA01445_acta_hungarica_2021_4_567-627.pdf) Acta Historica Hungarica Turiciensia XXXVI. évfolyam 4. szám (2021) c. pdf-ben Cser Ferenc és Darai Lajos is értetlenkednek kilétén és szemügyre vették anyagát. Ők is észreveszik, hogy Baráth Tibor anyaga alapján mindenhol magyarokat sejtet.
+
+Ha lejjebb megyünk a levelezésükben, akkor kiderül, hogy az Origo.hu is [említi](https://archive.ph/jSL8A) és hogy [erről](https://independent.academia.edu/CsabaHargita) az egyénről van szó és valóban van egy szerzőtársa.  
+Valamennyire [kitérnek](<zotero://open-pdf/library/items/AFIZXQEW?page=569>) a cigány/zsidó témára is.  
+
+Az illető arcát elnézve megint az látszik, hogy ő rokonait láthatja magyarországi kisebbségekben és ezért is húzhat feléjük.  
+
+> [!check] &nbsp;
+> A lényegét tekintve mindegy, hogy valaki ártatlanul vagy politikai céllal (befolyásoltsággal) alakít ki olyan véleményeket, mint ő, ezért kell vigyázni az ilyen emberekkel.
 
 ## "Szarvas rejteke"
 
