@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kronológia/","title":"Kronológia","tags":["Englishtexttranslated"],"created":"2025-09-28T20:20","updated":"2026-03-05T01:37"}
+{"dg-publish":true,"permalink":"/K/Kronológia/","title":"Kronológia","tags":["Englishtexttranslated"],"created":"2025-09-28T20:20","updated":"2026-03-10T16:25"}
 ---
 
 
@@ -52,7 +52,7 @@ Kesler viszont cikkében nem fedte fel az egyházi (mások szerint a [[J/Jezsuit
 ...című tanulmányában taglalja (ezúttal rögtön csak a gépi fordítással átdolgozott magyar szöveget adom):  
 > A hatodik sz.-i Dionysius Exiguus féle Anno Domini időszámítás létrejöttére az ókori világfogalmak, csillagászati szempontok, naptári ciklusok és apokaliptikus teológia keveréke hatott.  
 > A Kr. u. fogalmát azért találták ki, mert a Julius Sextus Africanus...
-- [[J/Julius Sextus Africanus\|Julius Sextus Africanus]], aki valószínűleg millenarista szándékkal állította össze a művet, a világ időtartamát 6000 évre, Krisztus születését pedig 5500 évre rögzítette.
+- [[J/Julius Africanus\|Julius Africanus]], aki valószínűleg millenarista szándékkal állította össze a művet, a világ időtartamát 6000 évre, Krisztus születését pedig 5500 évre rögzítette.
 
 > ...krónikájában megadott 6000. kozmikus évet elérték, és ez *végidő-lázat okozott (volna) a hívők körében*.  
 > A Krisztus megtestesülésétől számított Anno Domini féle évekre való datálás annak a kozmológiai és asztrológiai kutatásnak az eredménye, amely a késő ókor és a korai kereszténység világnézetében a világvégére irányul.  
