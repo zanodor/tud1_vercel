@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magura/","title":"Magura","tags":["Englishtexttranslated"],"created":"2023-10-29T08:17","updated":"2026-03-10T03:05"}
+{"dg-publish":true,"permalink":"/M/Magura/","title":"Magura","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T08:17","updated":"2026-03-10T22:59"}
 ---
 
 
