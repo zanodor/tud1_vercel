@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","created":"2023-10-06T12:03","updated":"2025-09-24T13:43"}
+{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","created":"2023-10-06T12:03","updated":"2026-03-12T21:19"}
 ---
 
 
@@ -148,7 +148,7 @@ A dialektikus ellentét iskolapéldája [[M/Martu\|Martu]] címnél állt, misze
 
 Egyébként az újlatin fehéret jelentő szavak szinte egyeznek a [[B/Black\|black]] = fekete szóval is alakilag. Azóta lásd [[B/Balog\|Balog]] címnél írottakat.  
 
-A kor egyértelműen a Bika és Kos világkorszakokra tehető, mikor az emberiség igazán el kezdett foglalkozni a Vaskor közeledtével és a [[F/Fény és sötétség\|fény és sötétség]] harcáról kezdett filozófálgatni. Arról több helyen szóltunk, például [[K/Kinetic\|kinetic]] és [[S/SAD#Sad 2)\|sad]] szócikkeknél, hogy az adott kor szelleme határozta meg (illetve annak állhatott ellen), hogy egyes népek hogyan tekintettek korábban ismert, majd elfeledett minőségekre. (Dialektikus ellentétet láttunk [[S/SAD#Sad 2)\|sad]] szónál hozott PAESZ táblázatban, miszerint az arab-perzsa `šád` = boldog, éppen hogy nem szomorú.) Lásd még ékes példáit [[B/Black\|black]] és [[S/SZAR\|SZAR]] szóknál.  
+A kor egyértelműen a Bika és Kos világkorszakokra tehető, mikor az emberiség igazán el kezdett foglalkozni a Vaskor közeledtével és a [[F/Fény és sötétség\|fény és sötétség]] harcáról kezdett filozófálgatni. Arról több helyen szóltunk, például [[K/Kinetic\|kinetic]] és [[S/SAD#Sad 2)\|sad]] szócikkeknél, hogy az adott kor szelleme határozta meg (illetve annak állhatott ellen), hogy egyes népek hogyan tekintettek korábban ismert, majd elfeledett minőségekre. (Dialektikus ellentétet láttunk [[S/SAD#Sad 2)\|sad]] szónál hozott PAESZ táblázatban, miszerint az arab-perzsa `šád` = boldog, éppen hogy nem szomorú.) Lásd még ékes példáit [[B/Black\|black]] és [[S/SZAR\|szar]] szóknál.  
 
 #### Magyar Adorján is írja:  
 
@@ -165,7 +165,7 @@ A [[L/Lux\|lux]] címnél említett ógörög/görög fehéret és (általam nem
 A perzsa [[D/Druj\|druj]] = hazugság jelentése igen érdekes, tekintve, hogy az azonos alakú óangol `trēowth` = igazság(osság) jelentésű.  
 
 [Ezen](https://www.czakogabor.hu/index.php?page=olvas&bovebben=true&id=5&cikkid=497) oldalon Czakó Gábor nem a legmegfelelőbb példákkal, de szintén erről szól:  
-> 'Szolga' szavunk jellegzetes őrzője az őskori eurázsiai műveltség egyik fontos eszméjének, az ellentétek kölcsönös áthatásának, amit Hermész Triszmegisztosz híres mondat-párjával szoktak szemléltetni: "Ami fönt van, az van lent is, ami lent van, az van fönt is." Ikerszavaink százai tudják ugyanezt: jön-megy, esik-kel, körülbelül, stb. Ugyanez egy szóval: bán – bánt, el/bán/ik, meg/bán, szab – szab/ály, szab/adság stb. Az ellentétek együtt, egymásban élnek. Ami mély, az egyszersmind magas és fordítva. Szolga szavunk ősbölcseleti beavatottsága különösen igekötős, pontosabban: igeirányítós és egyéb toldott alakjaiból tűnik elő: szolga>szolgál, kiszolgál, kiszolgáltatott, leszolgál, megszolgál, rászolgál, beszolgáltat, fölszolgál, visszaszolgál/tat, ellenszolgál/tat, jószolgálat stb.  
+> `Szolga` szavunk jellegzetes őrzője az őskori eurázsiai műveltség egyik fontos eszméjének, az ellentétek kölcsönös áthatásának, amit Hermész Triszmegisztosz híres mondat-párjával szoktak szemléltetni: "Ami fönt van, az van lent is, ami lent van, az van fönt is." Ikerszavaink százai tudják ugyanezt: jön-megy, esik-kel, körülbelül, stb. Ugyanez egy szóval: bán – bánt, el/bán/ik, meg/bán, szab – szab/ály, szab/adság stb. Az ellentétek együtt, egymásban élnek. Ami mély, az egyszersmind magas és fordítva. Szolga szavunk ősbölcseleti beavatottsága különösen igekötős, pontosabban: igeirányítós és egyéb toldott alakjaiból tűnik elő: szolga>szolgál, kiszolgál, kiszolgáltatott, leszolgál, megszolgál, rászolgál, beszolgáltat, fölszolgál, visszaszolgál/tat, ellenszolgál/tat, jószolgálat stb.  
 > Ide vág, hogy népmeséinkben a hős általában természetfölötti erőhöz – például táltos lóhoz – szeretne jutni szolgálata által. Mi sem természetesebb, hogy szolgálatát ugyancsak magasabbrendű lénynél, például boszorkánynál teljesíti.  
 > Az utóbbi szó is megér egy gondolatot. A szolgálatot nem csináljuk, hanem teljesítjük, vagyis hiánytalanná, tökéletessé tesszük – különben a századik karóra kerül a fejünk...  
 
