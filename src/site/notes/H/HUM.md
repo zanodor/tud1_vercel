@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/HUM/","title":"HUM","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-11-09T03:46","updated":"2025-09-28T21:32"}
+{"dg-publish":true,"permalink":"/H/HUM/","title":"HUM","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-11-09T03:46","updated":"2026-03-12T21:20"}
 ---
 
 
@@ -20,6 +20,7 @@ A HUM = ember jelentése:
 >
 > Még a Humánus Ember, Halandó név is ide kapcsolódik. A Hum egyben Hun, csillagokból születik és csillaggá lesz földi élete után, ezért Ember, akinek a fogalma szótanilag szoros összefüggésben van az Eső, mint Csillagcseppek, és a föld, mint a csillag temetkezés, nevével. A Humó Eltemet, Elhantol jelentésű.  
 > De meg szükséges említeni a Humán szónak azt a lehetőségét, ami a Hu és Mán elemekre mutat. Szerencsére, a Hu szó már figyelmem terébe került, és sikerült megtalálni jelentését is Sergei Tokarev mitológiai könyve segítségével. Menny Fia a Hu, azonos a Sza, szintén magyarok nevében jelenlévő szó jelentésével. A Mán Ember, tehát a Hu-Mán Meny Fia-Ember. Ez a jelentés egyértelműen az égboltra mutat, a csillagokra, vagyis azt fejezi ki, hogy az ember, a halandó az égboltról született. A latin nyelvben tehát rendkívül erős hun, vagyis magyar hatások vannak, amelyek kétségkívül a latin nyelv keletkezésének gyökereihez kapcsolódnak.  
+- `Humó` [kapcsán](https://share.google/aimode/J98n4yb2QLHrgISpr) Google AI Mode semmit sem tud mondani.
 
 Fontos adatnak tűnik (de legalábbis rámutat a HUM = víz jelentésére[^1] is):  
 
