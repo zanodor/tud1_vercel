@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magura/","title":"Magura","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T08:17","updated":"2026-03-10T22:59"}
+{"dg-publish":true,"permalink":"/M/Magura/","title":"Magura","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T08:17","updated":"2026-03-12T21:20"}
 ---
 
 
@@ -55,6 +55,14 @@ Ugyanott, [[B/Barlang\|barlang]] címnél volt szó a [[H/Hegy és barlang\|hegy
 Sőt, még az is kiolvasható a fentiekből, hogy a [[H/Hunor és Magor\|Hunor-Magor]] rendszer Magor eleme eredetileg akár úgy is kialakulhatott, hogy egy [[K/Kör\|Kör]] szavunk elé tett [[M/MA\|Ma]] elemmel, **Ma-Kör** formában jelenítse meg, hogy aztán Mag-Ur formában is értelmezhetővé válhasson. (Nos, ha már van [[K/Karma\|Kar-Ma]]...)
 { #9fch39}
 
+
+### Magyar-hungár alakú barlangot jelentő szavak
+
+Benesóczky Tamás [ezen](https://hu.wikipedia.org/wiki/Vita%3AA_%E2%80%9Emagyar%E2%80%9D_sz%C3%B3_etimol%C3%B3gi%C3%A1ja#Mongol_etimol%C3%B3gia) Wiki vitalap helyen megosztott adata érdekes:  
+> A `magyar` fonémához legközelebb álló török fonéma `mağara` = barlang (Földanya méhe?). Érdekes, hogy a szintén török kazah nyelven a barlang `üñgir`.  
+
+Ő nem az arab szóból indul ki, de ez most nem is lényeges. A lényeg az – azon kívül, hogy a "Földanya méhe" olvasat jó gondolat –, hogy más nyelvben [[H/Hungár\|hungár]] alakú szó jön elő barlang jelentéssel.  
+A kazah szóra [ezen](https://share.google/aimode/yk6NZBiIRSOqDA5NN) Google AI Mode helyen kérdeztem: ott ásni, vájni jelentésű türk gyökből kiinduló eredetet adnak. 
 
 ## Oroszlán-Vízöntő tengely
 
