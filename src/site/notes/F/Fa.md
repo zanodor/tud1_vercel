@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2026-03-05T01:24"}
+{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2026-03-12T21:19"}
 ---
 
 
@@ -277,7 +277,7 @@ A Fehérlófia mesében a Koponyányi Monyók egy koponya nagyságú alvilági s
 
 
 Imént volt szó Fehérlófiáról, valamint a kidöntött = holt fáról (a vízszintes vonal a halálé; lásd [[K/Kereszt\|kereszt]]). A másik eset a fa dőlése kapcsán szóba hozott Tejútfa csavarodás, melyet korszakváltozások kapcsán szóba hoztunk [[T/Therio-\|therio-]] és [[T/Tör\|tör]] címnél is például lásd még [[F/Fanyűvő\|Fanyűvő]] és [[D/Dzsed\|dzsed]]. Lásd [[F/Fadöntő mese\|Fadöntő mesé]]t is.  
-A Koponyányi Monyók által kitépett fa a Tejútfa, mely égi elhelyezkedését tekintve, ha a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]re merőleges Halál-tengellyel, a [[S/Szűz-Halak tengely\|Szűz-Halak tengelly]]el azonosítjuk, akkor azt mondhatjuk, hogy a Szűzzel kezdődő ősz évszakba léptünk a mesében akkor, amikor KM lemenekül az alvilágba.  
+A Koponyányi Monyók által kitépett fa a Tejútfa, mely égi elhelyezkedését tekintve, ha a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]re merőleges Halál-tengellyel, a [[S/Szűz-Halak tengely\|Szűz-Halak tengelly]]el azonosítjuk, akkor azt mondhatjuk, hogy a Szűzzel kezdődő ősz évszakba léptünk a mesében akkor, amikor Koponyányi Monyók lemenekül az alvilágba.  
 
 Ha már szóba került a (közben [[T/Tánc\|tánc]] szavunkkal rokonított) [[D/Dönt\|dönt]]. Azon címnél is szerepelt:  
 Isten tartja mozgásban a dolgokat, azaz ő dönt arról, hogy a Tejútfa dőljön vagy sem. A dönt szóban tehát a [[D/Daniel\|Daniel]] névben is tetten érhető isteni (Ten, Den, Dön) bíráskodást kell látni. Ember tervez, isten végez. A végzés alatt a döntést kell látni.  
