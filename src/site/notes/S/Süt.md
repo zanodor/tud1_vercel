@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2026-02-24T01:08"}
+{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2026-03-12T21:20"}
 ---
 
 
@@ -60,7 +60,7 @@ Amikor a görög (által lejegyzett) [[S/Szkíta\|skytha]] név indogermán jele
 { #ixo2pk}
 
 
-Az alcím magyarázatot kíván. [[Szatem#Kentum-szatem szétválás helyett összevonás\|Kentum-szatem szétválás helyett összevonás]] cím/alcímnél már volt szó azon esetről, amikor a szóeleji s(z) és k összevonva jelenik meg IE szavak elején. Ez a helyzet a lő ige (északi) germán írásmódjával is (kiejtésében helyenként viszont már nem követi).  
+Az alcím magyarázatot kíván. [[K/Kentum-szatem szabály#Kentum-szatem szétválás helyett összevonás\|Kentum-szatem szétválás helyett összevonás]] cím/alcímnél már volt szó azon esetről, amikor a szóeleji s(z) és k összevonva jelenik meg IE szavak elején. Ez a helyzet a lő ige (északi) germán írásmódjával is (kiejtésében helyenként viszont már nem követi).  
 
 Az (elő)germánok pedig hunok, vallásuk/"foglalkozásuk" szerint szkíták. Az átmeneti időszakban romlottak ezen alakok.  
 Mi alapján:  
