@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv ősisége – ősnyelv-e a magyar/","title":"Magyar nyelv ősisége – ősnyelv-e a magyar","tags":["Englishtexttranslated"],"created":"2023-10-09T06:38","updated":"2026-03-05T01:31"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv ősisége – ősnyelv-e a magyar/","title":"Magyar nyelv ősisége – ősnyelv-e a magyar","tags":["Englishtexttranslated"],"created":"2023-10-09T06:38","updated":"2026-03-13T01:26"}
 ---
 
 
@@ -251,7 +251,7 @@ Még mindig Nagyernyei Szabó Zoltán misszionárius pap Tomory Zsuzsa Magyar-En
 > 
 > | Koch                                                                       | Shevoroskin                                                                | Bateman                                                                    |
 > | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-> | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191129405.jpeg](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191129405.jpeg) | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191212374.jpeg](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191212374.jpeg) | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191308422.jpeg](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191308422.jpeg) |
+> | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191129405.jpeg\|invert_light](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191129405.jpeg) | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191212374.jpeg\|fix_dark fix_light](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191212374.jpeg) | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191308422.jpeg\|fix_dark fix_light](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191308422.jpeg) |
 > { #x5fd1n}
 
 - A szövegben már egyes nyelvcsalád-nevezetek javított változatát adom. <br/>
