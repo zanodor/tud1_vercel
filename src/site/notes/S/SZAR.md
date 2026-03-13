@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/SZAR/","title":"SZAR","tags":["Englishtexttranslated"],"created":"2026-03-12T21:18","updated":"2026-03-12T23:38"}
+{"dg-publish":true,"permalink":"/S/SZAR/","title":"SZAR","tags":["Englishtexttranslated"],"created":"2026-03-12T21:18","updated":"2026-03-13T01:46"}
 ---
 
 
@@ -46,8 +46,8 @@ Az ind [Charvaka](https://en.wikipedia.org/wiki/Charvaka) név előtagja mindenk
 > A kshatriják világi kasztja \[harcosok, királyok, hercegek\], amely bizonyos mértékig versenyzett a bráhmanákkal, némileg eltérő filozófiai rendszereket dolgozott ki: A szánkhja, amely közel állt a **materializmushoz**, mivel a rendszer alapja az anyag függetlenségének és a különálló testek sokféleségének koncepciója volt, szemben a vedanta egyetemes panteizmusával; a vaisesika egy atomista elmélet volt.  
 > Még materialistább, sőt ateista volt a **charvaka** "unortodox" rendszere, amely a világot négy anyagi elem kombinációjának tekintette, valamint a Lokajata rendszere, amely egyenesen elutasította az istenek létezését.  
 
-Az igazi leplet [[S/Seek\|seek]] és [[K/Kutya\|kutya]] valamint [[S/Színkódok\|színkódok]] címszavaknál rántjuk le. Lásd még [[S/Shit\|shit]] és [[S/Sitt\|sitt]].  
-Szar a sár párjaként nőiségi-tellurikus, [[S/Szár\|szár]] pedig hímségi.  
+Lásd még [[S/Seek\|seek]], [[K/Kutya\|kutya]] valamint [[S/Színkódok\|színkódok]] címszavaknál írottakat. Lásd még [[S/Shit\|shit]] és [[S/Sitt\|sitt]].  
+`Szar` a `sár` párjaként nőiségi-tellurikus, [[S/Szár\|szár]] pedig hímségi.  
 
 Az interneten talált oromo `saree` = kutya egyszer fényes [[S/Sire\|sire]]/[[S/Szíriusz\|Szíriusz]], másszor a [[S/Sötét oldal\|sötét félév]]et nyitó minősége is megmutatkozik.  
 
@@ -58,11 +58,7 @@ Az interneten talált oromo `saree` = kutya egyszer fényes [[S/Sire\|sire]]/[[S
 
 Szar és szaru/[[S/Szarv\|szarv]] ragyogó kapcsolatáról lásd [[K/KUS\|KUS]].  
 
-[[C/Cattle\|Cattle]] címnél is szerepelt:  
-A marhaganéjban, trágyában található Stropharia cubensis családba tartozó gomba ugyanis kiválóan alkalmas pszichedelikus élmények előidézésére, azaz élesebb látásra, akár vallásos, transzcendentális tapasztalásokra. Aki szart eszik "szár"-t, azaz fényességet láthat.  
 
-Érdekesek a marhaganéj jelentésű kelta szavak is. Közülük `find-ebor` azért érdekes, mert előtagja fehéret jelent: a szar és szár értelmek tehát itt is keverednek.  
-Lásd még ezzel kapcsolatban [[D/Dung\|dung]], [[G/Guano\|guano]] és [[M/Marijuana\|marijuana]].  
 
 [[C/Carmenta\|Carmenta]] Tejútistennő nevében az előtag lehet szar és szár is, de lehet k-előhangosan (kentumosan) [[K/KAR\|KAR]] = kör is.  
 
