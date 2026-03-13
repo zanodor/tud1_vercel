@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-03-06T22:54"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","created":"2025-03-05T15:52","updated":"2026-03-13T21:40"}
 ---
 
 
@@ -21,6 +21,8 @@
 
 **2026:**
 
+[260310CN! AUTONÓMIÁT!](https://rumble.com/v76xd5q-260310cn-autonmit-kubnyi-tams-ktv.html)  [https://archive.ph/GgnZs](https://archive.ph/GgnZs)
+[260309CN! ERŐVISZONYOK](https://rumble.com/v76vkr6-260309cn-erviszonyok-kubnyi-tams-ktv.html)  [https://archive.ph/Dxs4A](https://archive.ph/Dxs4A)
 [260306CN! LELEPLEZÉS](https://rumble.com/v76qhq6-260306cn-leleplezs-kubnyi-tams-ktv.html)  [https://archive.ph/go9Wj](https://archive.ph/go9Wj)
 [260305CN! HADIFOGLYOK](https://rumble.com/v76omto-260305cn-hadifoglyok-kubnyi-tams-ktv.html)  [https://archive.ph/6p01K](https://archive.ph/6p01K)
 [260304CN! ÜZENET TISZALÚCRA](https://rumble.com/v76mp28-260304cn-zenet-tiszalcra-kubnyi-tams-ktv.html)  [https://archive.ph/bjwDt](https://archive.ph/bjwDt)
