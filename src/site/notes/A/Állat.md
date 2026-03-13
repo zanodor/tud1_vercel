@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/A/Állat/","title":"Állat","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-05-29T16:52","updated":"2026-03-10T22:59"}
+{"dg-publish":true,"permalink":"/A/Állat/","title":"Állat","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-05-29T16:52","updated":"2026-03-13T17:43"}
 ---
 
 
 # Állat
 
-Több helyen ([[T/Termite\|termesz]], [[R/Rovarok\|rovarok]], [[F/Földevők\|földevők]], [[S/Szarevők\|szarevők]]) volt szó a termeszek zsenialitásáról. A hyperboreai magyarok képességeivel nem vagyunk tisztában, de azt ma már tudjuk, hogy az állatok sok tekintetben az emberek előtt járnak: élesebbek egyes érzékszerveik és azok olyanok, amelyek az emberben meg sincsenek (föld mágnesessége alapján érzékelés pl). [[K/Kutya\|Kutya]] címnél szóba került több különleges képességük, de ismerjük ma már a lovak és delfinek telepatikus gyógyítóképességét is, stb. Visszatérve a termeszekre. A magyar, mint természeti nép évszázezredek folytán figyelte a természetet és sok ötletet belőle, növényektől, állatoktól lesett el. Filmekből is ismert kép, hogy ha az ember valamit nem tud, vagy esetleg veszély fenyegeti, várja, hogy a körülötte lévő állatok viselkedéséből és iránymutatása nyomán döntsön. Olyan kietlen, száraz helyen, mint a sivatag, ahol a szomjhaláltól kell tartani, is szolgálhat megoldással:  
+Több helyen ([[T/Termite\|termesz]], [[R/Rovarok\|rovarok]] és [[F/Földevők\|földevők]]) volt szó a termeszek zsenialitásáról. A hyperboreai magyarok képességeivel nem vagyunk tisztában, de azt ma már tudjuk, hogy az állatok sok tekintetben az emberek előtt járnak: élesebbek egyes érzékszerveik és azok olyanok, amelyek az emberben meg sincsenek (föld mágnesessége alapján érzékelés pl). [[K/Kutya\|Kutya]] címnél szóba került több különleges képességük, de ismerjük ma már a lovak és delfinek telepatikus gyógyítóképességét is, stb. Visszatérve a termeszekre. A magyar, mint természeti nép évszázezredek folytán figyelte a természetet és sok ötletet belőle, növényektől, állatoktól lesett el. Filmekből is ismert kép, hogy ha az ember valamit nem tud, vagy esetleg veszély fenyegeti, várja, hogy a körülötte lévő állatok viselkedéséből és iránymutatása nyomán döntsön. Olyan kietlen, száraz helyen, mint a sivatag, ahol a szomjhaláltól kell tartani, is szolgálhat megoldással:  
 "Előfordult, hogy szárazság idején (Afrikában) az emberek a termeszboly kút-alagútja nyomán jutottak vízhez. A termesz jobban tudja, hol keresse."  
 
 Az állatok, mint spirituálisan tiszta, továbbá egyes emberi tulajdonságokat kifejezni képes lények szimbolikus céllal használtattak.  
