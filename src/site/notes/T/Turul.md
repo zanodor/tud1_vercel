@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","created":"2024-12-18T11:38","updated":"2026-03-13T01:34"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-03-13T17:42"}
 ---
 
 
@@ -412,9 +412,10 @@ Egyébiránt a páva (amely Kubínyi Tamás egyik ÁKA előadásában úgy emlí
 
 Az alábbi, két formációban adott képet az imént említett Wohlfart Zoltán is közli cikkében, de megint eltérő felfogásban.
 
-|                                                     |                                                     |
-| --------------------------------------------------- | --------------------------------------------------- |
+|                                                          |                                                          |
+| -------------------------------------------------------- | -------------------------------------------------------- |
 | ![assets/Turul_image27.jpeg\|fix_dark fix_light\|400](/img/user/T/assets/Turul_image27.jpeg) | ![assets/Turul_image28.jpeg\|fix_dark fix_light\|380](/img/user/T/assets/Turul_image28.jpeg) |
+
 Az újhold (nyilas), Nap (griff), fogyó Hold (szarvas) hármas ábrázolása a jászberényi Lehel kürtről. A nyíl nem üthet sebet az állatban.
 - A griffet nem látja pávának.
 
