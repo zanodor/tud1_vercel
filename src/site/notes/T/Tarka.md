@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tarka/","title":"Tarka","created":"2023-11-14T03:20","updated":"2026-03-17T21:07"}
+{"dg-publish":true,"permalink":"/T/Tarka/","title":"Tarka","created":"2023-11-14T03:20","updated":"2026-03-17T21:09"}
 ---
 
 
@@ -32,9 +32,9 @@ A [[S/Szampó\|Szampó]] nem más, mint maga az ég. A kirjokansi, "sokszínű, 
 > ami a tojásban tarka, /az az égen csillagokká... "*  
 > Az idézet a finnugor népek teremtésmondáival egybehangzóan tanúsítja, hogy a finnek az ősidőkben a világegyetemet tojás alakúnak képzelték. E tojás tarka héja a csillagos ég forgó palástja volt a szemükben, melynek egyik fele, a "felső rész" az északi égbolt ránk boruló kupolájának felel meg, másik fele, az "alsó rész" értelemszerűen az alattunk lévő déli égbolt jelképe. (Az "alsó föld" név ilyenformán félreérthető. Alább látni fogjuk, hogy a "föld" szó a természetben ritka gömbformák híján igen találó.)  
 
-Magyar hungarikumnak számít a szürkemarhán kívül a magyar tarka szarvasmarha, és tekintve, hogy a marha tehénje a Tejútanya egyik fontos állatalakja, gondolhatnánk, hogy innen vehette nevét a germán `tier`/[[D/Deer\|deer]] is akár, de tarka csak egy melléknév, amely megelőzi akár a magyar tarka marha tenyésztését.  
+Magyar hungarikumnak számít a szürkemarhán kívül a magyar tarka szarvasmarha, és tekintve, hogy a marha tehene a Tejútanya egyik fontos állatalakja, gondolhatnánk, hogy innen vehette nevét a germán `tier`/[[D/Deer\|deer]] is akár, de tarka csak egy melléknév, amely megelőzi akár a magyar tarka marha tenyésztését.  
 
-Tarka szavunk megfelelője Budenz J. szerént az osztják-szurguti tájszólásban `tárach` = [[S/Szürke\|szürke]].  
+Tarka szavunk megfelelője a Budenz J. adatát megosztó CzF szerint az osztják-szurguti tájszólásban `tárach` = [[S/Szürke\|szürke]].  
 [[B/Bonta\|Bonta]] is tarkát jelent CzF adata szerint. Égjelkép.  
 A bengáli `tarka` = csillag jelentésével megint betalált.  
 
