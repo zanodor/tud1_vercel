@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/SZAR/","title":"SZAR","tags":["Englishtexttranslated","containscallouts"],"created":"2026-03-12T21:18","updated":"2026-03-19T17:56"}
+{"dg-publish":true,"permalink":"/S/SZAR/","title":"SZAR","tags":["Englishtexttranslated","containscallouts"],"created":"2026-03-12T21:18","updated":"2026-03-19T18:20"}
 ---
 
 
@@ -9,9 +9,10 @@
 
 > A Sza szót eléggé egyértelműen sikerült meghatározni. Menny Fia, mint Király és Száj. A Sza-Ra Király-Ember, a `Szár` a `Cár` őse, és a `Caesar` is magyar, ő mondja, hogy trójai származék, vagyis tarján. Talán Kirkukban vagy ahhoz közel találtak egy táblát, amin az áll, hogy a király kivégezteti a helytartót, mert az ellopta a város szarát, ami a királyt illeti meg. Az ürülék jó trágya, ezért egykor nagy értéke volt, és egyes királyok minden ürüléket maguknak tulajdonítottak. Innen is ered a szar királyi jelentése. Persze a Száraz, Szahraz, Szárad és Szahara is ide tartozik.  
 >
-> Egy monda szerint An-Szar és Ki-Szar a legősibb istenpáros. An a férfi, Ki a nő, vagyis az Ég, Menny a Férfi, a Ki, a Föld, a Nő. A Szar utótag értelme Király, aztán Fehér, Sárga, és egyebek. A Szár szó a Láb-Szár viszonylatban a Láb Királya. A Szár és Sár a király neve, amiből az orosz Cár keletkezett. A római Caesar, vagyis Cézár, helyesen Szé-Szár, vagyis Fény-Király. A Kaiser és a magyar Csá-Szár nem feltétlenül Caesar nevéből ered, mert a Csá-Szár éppen a magyarok királyát jelenti (Csa – a magyarok népneve, Szár – király). A latin nevek a magyar nyelvből erednek, innen eredhetnek az átfedések.  
+> Egy monda szerint An-Szar és Ki-Szar a legősibb istenpáros. An a férfi, Ki a nő, vagyis az Ég, Menny a Férfi, a Ki, a Föld, a Nő. A Szar utótag értelme Király, aztán Fehér, Sárga, és egyebek. A Szár és Sár a király neve, amiből az orosz Cár keletkezett. A római Caesar, vagyis Cézár, helyesen Szé-Szár, vagyis Fény-Király. A `Kaiser` és a magyar Csá-Szár nem feltétlenül Caesar nevéből ered, mert a Csá-Szár éppen a magyarok királyát jelenti (Csa – a magyarok népneve, Szár – király). A latin nevek a magyar nyelvből erednek, innen eredhetnek az átfedések.  
 >
 > A görög `Szarkosz` Hús, ide kapcsolódik a [[S/Szarkóma\|Szarkóma]]. Olvasom egy görögnél, hogy a húsunk szarrá és kosszá lesz, a halál után, ezen bánkódik. De hisz ez magyar szavakból álló görög szó. A Szár szóról már beszéltünk. Persze, így mi már nem használjuk, de a két alapszót igen.  
+- Nem `szarkosz`, hanem `sarx`. Nem kell a `kosz` szót bevenni. Elég a `sár`, `szar` = "anyag halandó" fogalmában gondolkodni.
 
 #### Magyar Adorján...  
 
@@ -79,7 +80,7 @@ H. W. Bailey khotáni szaka szótárában `kharai-` = szar.
 
 | Lemma                          | Szótári bejegyzés                                               |
 | ------------------------------ | --------------------------------------------------------------- |
-| khotáni szaka `kharai-` = szar | ![SZAR_image20260312204749502.jpeg|fix_dark fix_light|500](/img/user/S/assets/SZAR_image20260312204749502.jpeg) |
+| khotáni szaka `kharai-` = szar | ![SZAR_image20260312204749502.jpeg\|fix_dark fix_light\|500](/img/user/S/assets/SZAR_image20260312204749502.jpeg) |
 
 ## Sárember – Szarember
 
