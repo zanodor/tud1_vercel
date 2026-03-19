@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2026-03-13T17:42"}
+{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2026-03-19T17:55"}
 ---
 
 
@@ -55,7 +55,7 @@ A Mithra névhez visszatérve igen hasonló, sőt azonos alakú és kiejtésű v
 Ez a villa tehát a [[G/Galactic centre\|Galactic centre]] és [[S/Sziget\|sziget]] címnél képen is ábrázolt égi területen keresendő.  
 Az észt `hang` és finn `hanko` = vasvilla szavak azért érdekesek, mert egyező alakúnak mondhatók velük a [[H/Honey\|honey]] címnél álló méz jelentésű szavak, továbbá a germán [[H/Hang#Hang 2)\|hang]] = felakaszt szó is (de arról is lehet beszélni, hogy az [[A/Angel\|angel]] = angyal eredete is lehet hang szavunk és persze arról is, hogy a [[T/Toll#Toll 2)\|toll]], [[G/Göd\|Göd]] és más címnél rajzolt [[A/Ágas\|ágas]] és akaszt szavunk is összefüggenek, illetve hogy a hangvilla lehetett-e ősi magyar eszköz).  
 Na mármost [[T/Travail\|travail]] címnél legutóbb szintén szerepelt a háromágúnak mondott `tripalium`-ot ábrázoló kínzóeszköz, mely nyilvánvalóan egyezik a [[T/Tejút\|Tejút]] [[I/Iszter\|Ister]]/[[E/Eszter\|Eszter]]/Ösztör nevéből alkotott [[O/Ösztörű\|ösztörű]] szavunkból származónak vélt görög `sztaurósz` = áldozati karó, kereszt és a [[F/Furka\|furka]] ("Széth furkája") rendeltetésével is (ismét ne feledjük, hogy a görög `hustera` = méh jelentésű). [[C/Crucifixion\|Crucifixion]] és [[O/Önfeláldozás\|önfeláldozás]] címnél írottak alapján tudjuk, hogy a kínzóeszközök eredetileg Naphősök számára fából készült tákolmányok voltak és melyek előképe az égen keresendő és ezennel meg is találtuk.  
-![assets/Mithra_image2.jpeg\|fix_dark fix_light](/img/user/M/assets/Mithra_image2.jpeg)  
+![assets/Mithra_image2.jpeg|fix_dark fix_light](/img/user/M/assets/Mithra_image2.jpeg)  
 Még azt is mondhatjuk ezennel, hogy úgy a germán [[H/Hang#Hang 2)\|hang]] ige, mint az említett ilyen alakú finnségi szavak az [[A/Ankh\|ankh]] = kereszt szóval is azonosíthatók lehetnének. Az is nyilvánvalóvá válik, hogy [[J/Jézus\|Jézus]] keresztje és halálának mikéntje, az [[O/Ördög\|ördög]] vasvillája és a kereszt Y és T alakjai (lásd még róluk [[S/Székely-magyar rovásírás\|székely-magyar rovásírás]]) is mind asztrális eredetűek.  
 A szavak arról árulkodnak, hogy a Nap égi pályáján azon pontra ér, amikor haldoklik, majd feltámad. Ezért is fontosak az Richard H. Allen által eufráteszinek adatolt, [[A/Anu\|Anu]] címnél említett Anu Nibat (a Sagittarius alfája lenne), az ind Anuradha és a tukanó Aña nevei, de tovább mehetünk az [[A/Annual\|annual]] és [[J/Janus\|Janus]] címnél előjövő szóformákkal is, melyek mind arra utalnak, hogy az év vége (halál) és az újév (feltámadás) jelzőhatárához érkezünk. [[O/Ötven\|Ötven]], [[H/Hekate\|Hekate]], [[T/Trivial\|trivial]] és más címnél szereplő adatok alapján lassan elegendő adat áll rendelkezésre egyszer és mindenkorra helyre tenni a dolgokat.  
 
@@ -102,7 +102,7 @@ Neve a babiloni [[M/Marduk\|Marduk]]éhoz hasonlóan (Mit/MISZ-Ra felbontás ill
 Új, [[M/MISZ\|MISZ]]-nél taglalt információk szerint szabályos SZ>T változással MIT is fehér, fényes, stb. jelentéseket takar, mely szépen összevágni látszik a reggeli, dél felé, azaz ereje teljébe tartó Nap minőségének deskripciójával.  
 
 Ha már Napminőségekről van szó, Jankovics Marcell A Nap könyve c. könyvének [[H/Háromszögletű Nap\|háromszögletű Nap]] címnél is szereplő adata szerint az ókori Egyiptomban [[N/Négy\|négy]] Napot azaz Napminőséget különböztettek meg: a kelő, delelő és a lenyugvó Nap alkotta a nappali triászt, mely kiegészült az éjszakai (halott: lásd [[N/Nap – halott Nap\|Nap – halott Nap]]) napisten személyével. Magyar analógiája is létezik mindennek. Beszámol ugyanis biz. Bosnyák Sándor arról, hogy a szegedi házhomlokzatok, tetők mintázatában "a szegedi parasztok a napfelkeltét, a delelést, a napnyugtát, a alul a zárt rekeszekben az éjszakát látják."  
-![assets/Mithra_image3.png\|fix_dark fix_light](/img/user/M/assets/Mithra_image3.png)  
+![assets/Mithra_image3.png|fix_dark fix_light](/img/user/M/assets/Mithra_image3.png)  
 
 #### Jankovics Marcell írja:
 
