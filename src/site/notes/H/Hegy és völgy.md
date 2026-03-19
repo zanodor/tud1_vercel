@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2026-03-19T17:10"}
+{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2026-03-19T17:53"}
 ---
 
 
@@ -119,7 +119,7 @@ Makoldi Sándor – Szarvasvadászat című képének elemzésrészletében:
 > *A mi szájunk többé*  
 > *Nem iszik pohárból,*  
 > *Csak hűvös forrásból.*  
-> ![assets/Hegyesvolgy_image1.png\|840](/img/user/H/assets/Hegyesvolgy_image1.png)
+> ![assets/Hegyesvolgy_image1.png|840](/img/user/H/assets/Hegyesvolgy_image1.png)
 
 Legutóbb [[H/Henger\|henger]] címnél is említettük a hegy és völgy váltakozásait.  
 Tulajdonképpen az [[A/AR, ÁR\|AR, ÁR]], [[F/FU\|FU]], [[A/Alma\|alma]], [[J/Jin és jang\|jin és jang]], valamint [[C/Chakra\|chakra]] (és [[H/Helix\|helix]]) és [[S/Sine\|sine]] (valamint [[C/Caduceus\|caduceus]], [[O/Ouroboros\|ouroboros]], [[E/Életkör\|életkör]], [[E/Ecliptic\|ecliptic]] stb.) címnél vizsgált témák mind összefüggnek: minden a kör és spirálszerű mozgásokról szól, mindennek olyan metafizikai háttere van, amiről őseink tudtak és szimbólumokba, szavakba helyezték el őket.  
