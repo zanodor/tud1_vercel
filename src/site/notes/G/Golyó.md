@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Golyó/","title":"Golyó","created":"2025-05-24T19:04","updated":"2026-01-17T00:12"}
+{"dg-publish":true,"permalink":"/G/Golyó/","title":"Golyó","created":"2025-05-24T19:04","updated":"2026-03-19T17:11"}
 ---
 
 
@@ -18,6 +18,8 @@ Magyar Adorján másutt:
 Az [ezen](https://www.wisdomlib.org/definition/gula) oldalon talált pali `gula` = golyó, labda (cukor, melaszból).  
 
 Az olaszul tudó Magyar Adorján nem említi az olasz `coglion`, `coglione` = here szót, mely szintén golyó szavunkból ered, ahogy a német `Kugel` = golyó is.  
+[Ezen](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/k%CA%B7%C3%A9k%CA%B7los) Wiktionary oldalon a (talán?) hettita `𒃻𒆪𒄢𒆷` (ᴺᴵᴺᴰᴬ KU.GUL.LA) = zsíros keksz, fánk jelentésű szó is hasonló alakú.  
+
 A szó párja [[K/Kujon\|kujon]] címnél szerepelt: a heregolyó jelentésű spanyol `cojón`is nyilván közös eredetű a francia `coïon` szóval; ezek viszont lehetnek [[K/KAN\|KAN]] széthúzott, szóközepén jejes változatai, vagy akár szóba jöhet a lingam-kígyó (vesd össze magyar [[M/Mony\|mony]] lehet tojás és lingam jelentésű szintén).  
 - [[C/Csúnya\|Csúnya]] címnél hasonló olasz szó jött elő.
 
@@ -29,6 +31,6 @@ A szó párja [[K/Kujon\|kujon]] címnél szerepelt: a heregolyó jelentésű sp
 
 Golyó lehetne Ku-Jó értelmű is, ahol [[K/KU\|KU]] égitest és az égitestek golyó, gömb alakúak.  
 
-A tibeti `Go.La` = (föld)golyó jelentésű. Aminek párhuzamaként felfoghatóan Bakos Attila A Duna Evangéliuma című könyvének 204. oldalán azt írja, hogy a szanszkrit `golo` = bolygó tudatmező.  
+A tibeti `Go.La` = (föld)golyó jelentésű. Aminek párhuzamaként felfoghatóan Bakos Attila A Duna Evangéliuma című könyvének 204. oldalán azt írja, hogy a szanszkrit `golo` = bolygó tudatmező...(?)  
 
 Golyó-fejről lásd [[G/Golgotha\|Golgotha]] mellett [[S/Skull\|skull]].  
