@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szekér/","title":"Szekér","created":"2025-02-24T18:12","updated":"2026-03-05T01:38"}
+{"dg-publish":true,"permalink":"/S/Szekér/","title":"Szekér","created":"2025-02-24T18:12","updated":"2026-03-19T17:10"}
 ---
 
 
@@ -39,7 +39,7 @@ Kerék és szekér jelentésű akkád `magarru`, `mugirru` szavakat lásd [[M/Ma
 Igen érdekes az akkád `naggār magarri` = kerék- és kocsikészítő ([[B/Bognár\|bognár]], honnan [[W/Wagon\|wagon]]er), hiszen mindkét szó magar eredetre megy vissza. ([[N/Nagar\|Naggar]] címhez is betéve.)  
 
 Az [alábbi](https://youtu.be/DqMogRPokq8) Turul és Szarvas IV. rész című ÁKA előadás első felét a [[L/Luca\|Luca]] napnak és a lucázásnak szenteli.  
-![assets/Szekér_image1.png|fix_dark fix_light](/img/user/S/assets/Szek%C3%A9r_image1.png)  
+![assets/Szekér_image1.png\|fix_dark fix_light](/img/user/S/assets/Szek%C3%A9r_image1.png)  
 A mellékelt képen az Amerikába és Japánba is meghívott, mondhatni világhírű képíró-asszony, a galgamácsai Vankóné Dudás Juli néni rajza található, mely megörökíti, mit csináltak Luca napján az emberek (mely tréfákról a fonóban és másutt hosszú ideig beszéltek): az hogy a ház vagy a fa ([[V/Világfa\|világfa]], életfa: Tejút) tetejére vitték a szekér darabjait és ott – nagy nehézségek árán – összeszerelték, nálam azt jelenti, hogy a Szék-Úrt, a napot analógiás mágiával akarták magasabbra emelni (a delelő magasság nő is december 24. után). A Luca-szék kifejezésben is a [[S/SZÉK\|Szék]] = Nap, mely ugye [[N/Négy\|négy]] lábú is (bár Kubínyi Tamás 27:40-nél azt mondja és képeket is hoz, hogy ez nem az eredeti: háromlábú széket is bemutat, mondván, tán ez lenne az eredeti).  
 
 Hogy a szekér nem csak a Nap lehet, erről [[S/Szekeres csillagkép\|Szekeres csillagkép]] címnél is volt szó.  
@@ -47,6 +47,47 @@ Hogy a szekér nem csak a Nap lehet, erről [[S/Szekeres csillagkép\|Szekeres c
 #### Szántai Lajos írja:  
 
 > A Tejútközpont a Nyilasban van, és van ennek egy nagyon szép elnevezése: Koldusszekér. Szekérnek is nevezik.  
+
+## Chakra - szekér kapcsolat
+
+[[C/Chakra\|Chakra]] helyen elhangzott, hogy a japán `kuruma` = kerék; kocsi, autó jelentésével is rámutat, hogy a szanszkrit kereket jelentő szó eredhet `szekér` szavunkból, hiszen a jelentések összetartoznak, csak ezt nem fogják a nyelvészek lekövetni, még ha egyértelmű is.  
+A [[K/Kerék\|kerék]] Napkerék (ahol a [[K/Küllő\|küllő]]k megfelelő számával akár az állatöv 12-es bontását is eszközölni lehet). [[S/Surya\|Surya]] napisten is szekérrel utazik, [[B/Bárka\|bárka]] helyen pedig a Nap olyan járművéről volt szó, amely az ég tengerén halad.  
+Ismerni kell a régi népek gondolatát, vallásuk alapjait. Erre jó a magyar nyelv.  
+
+```plantuml-svg
+@startuml
+skinparam BackgroundColor transparent
+skinparam rectangle {
+BackgroundColor #ccbe78
+}
+skinparam card {
+roundCorner 15
+BackgroundColor #f9f5d7
+}
+
+rectangle "<b>A szekér szó jelentése</b>" as head
+card "Kerék" as kerek
+card "Szekér" as szeker
+card "Nap jelkép" as napjelkep
+card "Zodiákus" as zodiakus
+card "Szek = Nap" as szek_nap
+card "Ér = Úr" as er_ur
+card "Nap-Úr (járműve/hátasa)" as nap_ur
+
+head -down-> kerek
+head -down-> szeker
+
+kerek -right-> szeker : Elválaszthatatlan kapcsolat
+szeker -up-> napjelkep : Mitológiai jelentés
+kerek -up-> napjelkep : Mitológiai jelentés
+napjelkep -right-> zodiakus : Küllők, 12 egység
+
+szeker ---> szek_nap : Nyelvi elemzés
+szek_nap -right-> nap_ur : Összefüggés
+szeker ---> er_ur : Nyelvi elemzés
+er_ur -left-> nap_ur : Összefüggés
+@enduml
+```
 
 ## Szekér feltalálói és ábrázolásai
 
