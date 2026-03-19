@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/HUM/","title":"HUM","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-11-09T03:46","updated":"2026-03-12T21:20"}
+{"dg-publish":true,"permalink":"/H/HUM/","title":"HUM","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-11-09T03:46","updated":"2026-03-19T17:11"}
 ---
 
 
@@ -24,8 +24,9 @@ A HUM = ember jelentése:
 
 Fontos adatnak tűnik (de legalábbis rámutat a HUM = víz jelentésére[^1] is):  
 
-#### Richard H. Allen írja:
+#### Richard H. Allen Star Names...
 
+...című könyvében írja:  
 > On the Ganges, as in China, **Aquarius began the circle of the zodiacal signs**; and Al Biruni said that at one time in India it was Khumba, or Kumbaba, which recalls the Elamite divinity of that name, the Κόμβη, or Storm God, of Hesychios. This, too, was the Tamil title for it; La Lande writing it Coumbum.  
 > —  
 > A Gangesznél, akárcsak Kínában, a Vízöntő kezdte az állatövi jegyek körét; és Al Biruni szerint Indiában egykor Khumba vagy Kumbaba volt a neve, ami az ilyen nevű elámi istenségre, vagy Hesychios Viharistenére, Κόμβη-ra emlékeztet. Ez volt a tamil elnevezése is; La Lande Coumbumnak írja.  
