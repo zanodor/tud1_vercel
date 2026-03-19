@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kéz/","title":"Kéz","created":"2023-10-13T02:12","updated":"2026-02-18T22:58"}
+{"dg-publish":true,"permalink":"/K/Kéz/","title":"Kéz","created":"2023-10-13T02:12","updated":"2026-03-19T17:11"}
 ---
 
 
@@ -12,7 +12,7 @@
 
 Kéz szavunk éppúgy levezethető [[K/Két\|két]] szavunkból (kéz kezünk van[^1]), mint [[K/Köz\|köz]] a [[K/Köt\|köt]]ből.  
 A kéz, kész, továbbá [[K/Kezd#Kezdet\|kezdet]] szavakról Péterfai János írt. [[K/Kacs\|Kacs]] szavunk, mint látjuk, a kéz szó változata:  
-> Egyik kéz szavunk a Ka, amely a Kacs, Kacsó nevek alapszava. Van egy Ke formájú kezet jelentő szavunk is, amely a Kettő alapszava, a minoszi Krétán Ke-to volt a formája Kettő jelentéssel. Mindkét szó, a Ka és Ke is, a Kő szócsoporttal kapcsolatos. A Ka a hattiban Kéz, fontos alapszónak látszik. Eszerint a Kéz, Kész és sok rokona a Két, Kettő fogalmat is tartalmazza, a kőeszközök készítését két kézzel végeztük. Ellenben [[S/Suta\|sutá]]cska a kezünk, legtöbbször, ha csak egy kézzel dolgozunk. A félkéz, félkar eszmeisége nagyon ősi.
+> Egyik kéz szavunk a Ka, amely a Kacs, Kacsó nevek alapszava. Van egy Ke formájú kezet jelentő szavunk is, amely a Kettő alapszava, a minoszi Krétán `Ke-to` volt a formája Kettő jelentéssel. Mindkét szó, a Ka és Ke is, a Kő szócsoporttal kapcsolatos. A Ka a hattiban Kéz, fontos alapszónak látszik. Eszerint a Kéz, Kész és sok rokona a Két, Kettő fogalmat is tartalmazza, a kőeszközök készítését két kézzel végeztük. Ellenben [[S/Suta\|sutá]]cska a kezünk, legtöbbször, ha csak egy kézzel dolgozunk. A félkéz, félkar eszmeisége nagyon ősi.
 
 Amiről közvetlenül kéz kapcsán nem írt ([[S/SU\|SU]] és sugár kapcsán igen), hogy a kéz a Napisten keze (mit alátámasztani látszik, hogy a [[N/Nap\|Nap]] címnél is szereplő adat szerint a dakota/lakota [[N/Nape\|nape]] = kéz).  
 
