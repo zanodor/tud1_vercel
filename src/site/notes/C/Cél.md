@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cél/","title":"Cél","tags":["Englishtexttranslated","containscallouts"],"created":"2025-11-20T22:21","updated":"2025-12-20T12:16"}
+{"dg-publish":true,"permalink":"/C/Cél/","title":"Cél","tags":["Englishtexttranslated","containscallouts"],"created":"2025-11-20T22:21","updated":"2026-03-19T17:10"}
 ---
 
 
@@ -27,8 +27,8 @@ A célt azért hívjuk célnak, mert a [[S/Szél\|szél]], szellet, [[S/Szellem\
 A célunk a szellemiség, nem az anyag. Erről szól a [[S/Sárkány\|sárkány]] jelkép is.  
 
 > [!example] &nbsp;
-> Ha félig németül, félig hollandul akarnánk megfogalmazni, akkor mondhatnánk, hogy "Das Ziel ist ziel." `Ziel` a németben cél, a hollandban lélek, szellem.  
-> A görög `τέλος` = cél a magyar szóval szintén egyező alakú és értelmű.
+> Ha félig németül, félig hollandul akarnánk megfogalmazni, akkor mondhatnánk, hogy "Das Ziel ist ziel." `Ziel` a németben cél, a hollandban lélek, szellem jelentésű.  
+> A lentebb még említett görög `τέλος` = cél a magyar szóval szintén egyező alakú és értelmű.
 
 
 
@@ -62,9 +62,11 @@ A körbeírt kereszt régi jelkép. A hunok tehát amikor a nyilaikkal támadtak
 ## Egyéb alaki párhuzamok
 
 A [[T/Telj\|telj]] szó is megfelel célnak, amennyiben a teljesség Isten.  
+> [!check] &nbsp;
+> Ez a (sokkal több jelentéssel adatolt) görög `τέλος` = cél, beteljesülés kettős jelentése nyomán is igazolt.  
 
 Alaki párja a [[G/Goal\|gól]], amely kapuként szintén *célterület*.  
-A másik alaki párnak felfogható [[C/Csel\|csel]] szónál is szóba került cél és céloz Götz Lászlótól.  
+A másik alaki párnak felfogható [[C/Csel\|csel]] szónál is szóba került `cél` és `céloz` Götz Lászlótól.  
 
 ## Lábjegyzetek
 
