@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szómegfordítás/","title":"Szómegfordítás","tags":["containstransclusions","titleandheadingonedontmatch","containscallouts"],"created":"2026-02-09T17:32","updated":"2026-03-05T02:19"}
+{"dg-publish":true,"permalink":"/S/Szómegfordítás/","title":"Szómegfordítás","tags":["containstransclusions","titleandheadingonedontmatch","containscallouts"],"created":"2026-02-09T17:32","updated":"2026-03-19T18:47"}
 ---
 
 
@@ -23,6 +23,8 @@ Ennek az írásformának azért is lehet jelentősége, mert egyes idegen nyelv�
 > Ahol a szómegfordításnak bármilyen létjogosultsága lehet, az a [[B/Bal és jobb\|bal és jobb]] és [[F/Fehér és fekete\|fehér és fekete]] címnél is említett [[T/Tükörképes világkép\|tükörképes világkép]] fogalma.  
 
 A [[R/Rák csillagkép\|Rák csillagkép]] azaz a [[N/Nyári napforduló\|nyári napforduló]] kapcsán a rák mozgása (és a [[S/Scarabeus\|scarabeus]] mozgása) kapcsán volt szó arról, hogy azon téridőbeli helyen látszik megfordulni a Nap: elkezd alacsonyabban delelni és a nappalok hossza csökken.  
+
+A rák példánál maradva, úgy tűnik, hogy a [[R/Rák\|rák]] egyúttal a [[K/Kór\|kór]]/[[K/KÁR\|kár]] szavak (és szatemes [[S/SZAR\|szar]]) megfordításaként is kezelhető.  
 
 ### Példák
 
