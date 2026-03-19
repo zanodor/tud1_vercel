@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/SZAR/","title":"SZAR","tags":["Englishtexttranslated","containscallouts"],"created":"2026-03-12T21:18","updated":"2026-03-13T17:43"}
+{"dg-publish":true,"permalink":"/S/SZAR/","title":"SZAR","tags":["Englishtexttranslated","containscallouts"],"created":"2026-03-12T21:18","updated":"2026-03-19T17:56"}
 ---
 
 
@@ -79,7 +79,7 @@ H. W. Bailey khotáni szaka szótárában `kharai-` = szar.
 
 | Lemma                          | Szótári bejegyzés                                               |
 | ------------------------------ | --------------------------------------------------------------- |
-| khotáni szaka `kharai-` = szar | ![SZAR_image20260312204749502.jpeg\|fix_dark fix_light\|500](/img/user/S/assets/SZAR_image20260312204749502.jpeg) |
+| khotáni szaka `kharai-` = szar | ![SZAR_image20260312204749502.jpeg|fix_dark fix_light|500](/img/user/S/assets/SZAR_image20260312204749502.jpeg) |
 
 ## Sárember – Szarember
 
