@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BOT/","title":"BOT","created":"2023-11-21T11:37","updated":"2025-07-12T00:31"}
+{"dg-publish":true,"permalink":"/B/BOT/","title":"BOT","created":"2023-11-21T11:37","updated":"2026-03-19T17:10"}
 ---
 
 
@@ -22,7 +22,9 @@ Legutóbb amikor [[R/Rúna\|rúna]] címnél az Ipolyi által megadott ónémet 
 > Beth-Anu jelentése Isten Háza. Bethany volt a bibliai Lázár és húgai, Mária és Márta lakóhelye, mely egyiptomi eredetre vall: Osiris és húgai Isis és Nephtys Annu házában laktak.  
 - Innen Péterfai János ház és Ég Királynője etimonjai.
 
-A ([[B/Bodega\|bodega]] és) [[B/Boutique\|boutique]] szónak megfelelő dán `butik` = bolt szó láttán ötlött fel, hogy [[B/Bolt\|bolt]] szavunk "bót" formája az, amit BOT, [[B/BAT\|BAT]] = ház, kis ház (bódé) jelentéssel ismertünk.  
+[[B/Bolt\|Bolt]] szavunk `bót` formája az, amit [[B/BOT\|BOT]], [[B/BAT\|BAT]] = ház, kis ház (`bódé`) jelentéssel ismertünk. Ez a szó is elemezhető tehát így is úgy is.  
+- Az egyik a `bolt` [[B/BOL\|BOL]]/[[B/BUL\|BUL]] = tűz (minthogy `ég` is megvan igeként ilyen jelentéssel) irányából való megközelítés, a másik pedig az, hogy a több helyen említett egyiptomi `pt` (`pet`) = égbolt szó kialakulását is indokolni kell.
+
 Persze jóval több a B-D vázú szó, mely alapjelentése ház, sőt, [[P/Pajta\|pajta]] is hasonló, ahol CzF adatával kapunk más nyelvekből hasonló szavakat:  
 > Egyezik vele a házat jelentő héber `bajith`, `beth`, arab `bejt`. Ide sorozható a persa `pájga` (ól), német `Bude`, lengyel `buda`, orosz `bodka` is, stb.  
 
@@ -43,7 +45,7 @@ Bot szónál írja CzF:
 > Az alábbi adatokat Hermann Ottó "A magyar pásztorok nyelvkincs" című művéből (Budapest, 1914., a Magyar Természettudományi Társulat kiadványa.; lássad a 215. oldalán "Kent bot[^1]" cím alatt) és Jókai Mór "Rákóczy fia" című regényéből veszem. Utóbbi szerint azonban a bot cserfából valónak mondatik.  
 > Az adatok lényege ez: Az alföldi magyarság félelmes fegyvere az embermagasságú bot, amellyel kard és balta ellen is tudott vívni. Készült meggyfából, úgy hogy kérge is rajta maradott. Ezt minden nap zsírral bekenték és kitették a meleg napfényre, mindaddig míg a zsírral teljesen átitatódott, amiután nem tört, ruganyos lett és kardnak, baltának is ellenállott. Jókai említett regényében leírja hogy egy botos magyar miként vív élet-halálra kardos és kiváló vívóbajnok ellenfelével és végül ezt fejen találva, agyonüti. Ismeretes az is hogy némely kezdetleges nép, a fémek megmunkálását még nem ismervén, igen kemény fából olyan kardot tudott készíteni, amellyel ember fejét is egy csapásra le lehetett ütni. Régen kovakőből is készítettek baltaélet, kést, az amerikai őslakók pedig fakardjaik élébe erősítettek végig élesre fent kovaköveket.  
 > Hunor jelképe viszont az ökölbe tartani való hegyes kő, az ék volt (később a kard, balta, lándzsa is lett).  
-- Hunor másneve, [[K/Khamor\|Khamor]] adja a bunkó/kalapács germán [[H/Hammer\|hammer]] nevét.  
+- Hunor másneve, [[K/Khamor\|Khamor]] adja a bunkó/kalapács germán [[H/Hammer\|hammer]] nevét.
 
 > Ez is az ember első fegyverei egyike volt. Utóbb ilyen kő, botra kötve, súlyával a buzogány \[lásd [[M/Mace\|mace]], ahol kardról is volt szó\] élesre fenve pedig a balta eredetét is képezte de egyúttal a szúró lándzsa eredetét is, mert tudjuk hogy az ősember lándzsája, kopjája hegye is kovakőből készült. A magyar bot-fegyver egyik fejleménye volt még az "ólmos bot" is, amelynek ütő végébe ugyanis ólmot is tettek, hogy ütése súlyosabb legyen. Így ugyanis, anélkül hogy bunkós vége igen vastag kellett volna legyen, mégis igen súlyosat ütött.  
 
@@ -86,6 +88,8 @@ Bot (pálca) és [[G/Gyűrű\|gyűrű]] ([[K/Kehely\|kehely]]) princípiumokról
 Az óegyiptomi `p-t` = ég, égbolt (vö. rokon vázú magyar "bót"-[[B/Bolt\|bolt]]) hangjainak megcserélésével kiadódik [[T/Top\|top]]/[[T/Tepe\|tepe]] és az ezekkel kapcsolatba hozott [[D/Domb\|domb]] (mely változata: [[G/Gömb\|gömb]]): a föld feletti látszólagos kupola alakot formáló félgömbnek felel meg.  
 Kérdés, hogy ez a B-T/P-T szóváz nem-e a [[Z/Zsúp\|zsúp]]/doₘb formákban található mássalhangzó-váz megfordításaiként értékelendő? Talán nem.  
 Mindenesetre mindkét szóváz jelentéskörében fellelhető [[S/Szakrális geometria\|szakrális geometrikus]] átfedés.  
+
+Ugyanez tellurikus, negatív, halál értelemben megvan [[P/Pata\|pata]] szóban.  
 
 
 
