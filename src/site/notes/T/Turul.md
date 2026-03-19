@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-03-19T17:57"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-03-19T18:58"}
 ---
 
 
@@ -414,7 +414,7 @@ Az alábbi, két formációban adott képet az imént említett Wohlfart Zoltán
 
 |                                                          |                                                          |
 | -------------------------------------------------------- | -------------------------------------------------------- |
-| ![assets/Turul_image27.jpeg|fix_dark fix_light|400](/img/user/T/assets/Turul_image27.jpeg) | ![assets/Turul_image28.jpeg|fix_dark fix_light|380](/img/user/T/assets/Turul_image28.jpeg) |
+| ![assets/Turul_image27.jpeg\|fix_dark fix_light\|400](/img/user/T/assets/Turul_image27.jpeg) | ![assets/Turul_image28.jpeg\|fix_dark fix_light\|380](/img/user/T/assets/Turul_image28.jpeg) |
 
 Az újhold (nyilas), Nap (griff), fogyó Hold (szarvas) hármas ábrázolása a jászberényi Lehel kürtről. A nyíl nem üthet sebet az állatban.
 - A griffet nem látja pávának.
