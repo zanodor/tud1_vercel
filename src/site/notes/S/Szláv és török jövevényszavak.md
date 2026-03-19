@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szláv és török jövevényszavak/","title":"Szláv és török jövevényszavak","created":"2025-03-08T20:46","updated":"2025-07-29T23:23"}
+{"dg-publish":true,"permalink":"/S/Szláv és török jövevényszavak/","title":"Szláv és török jövevényszavak","created":"2025-03-08T20:46","updated":"2026-03-19T17:10"}
 ---
 
 
@@ -118,7 +118,9 @@ Mindkét esetben, ha a nyelvészet -csk(a) végződéseket talál, azonnal szlá
 
 ## Török (altáji) jövevényszavak
 
-Götz László Keleten kél a Nap című könyvének 601. oldaláról kezdve foglalkozik a török (altáji) jövevényszavainkkal:  
+#### Götz László Keleten kél a Nap...  
+
+...című könyvének 601. oldaláról kezdve foglalkozik a török (altáji) jövevényszavainkkal:  
 > Török jövevényszavaink kérdését már ismételten érintettük (l. 234-236., 276-277. és 500., 512-513. old.). Megmutattuk, hogy nyelvészetünkben meglehetős bizonytalanság uralkodik e szavak pontos származtatása terén, mert különféle török nyelvek hangsajátosságait mutatják. Foglalkoztunk J. Benzing felismerésével is arról, hogy Kasgári Mahmud szerint a "z" → "r" \[nem fordítva?\] és az "a" →"i" hangváltozás csak a 11. század második felében következett be egyes nyugatra eső török nyelvekben, például a [[C/Csuvas#Csuvas nyelv\|csuvas]]ban (l. Benzing: Die angeblichen bolgar-türkischen Lehnwörter im Ungarischen). Benzing e cikkéről azonban a magyar nyelvtudomány mind a mai napig nem vett tudomást.  
 > E bizonytalanság logikus következménye az is, hogy nem tudnak megegyezni honfoglalás előttinek tartott török jövevényszavaink átvételének idejében és helyében sem. Időben a Kr. e. 10. századtól a Kr. u. 10. századig, térben pedig Mongóliától a Kárpát-medencéig terjednek az egyes kutatók hipotézisei. Megkísérlik ugyan, hogy "hangfejlődési" kritériumok alapján időbelileg elválasszák őket, de – megfelelő nyelvemlékek teljes hiányában – ezek a találgatások minden konkrét alapot nélkülöznek.  
 > Igen találóan jellemzi a valóságos helyzetet Sinor Dénes "Történelmi hipotézisek és a nyelvtudomány" című írásában: "A finnugor nyelvészeti és az ezzel – véleményem szerint igen szorosan – összefüggő finnugor őstörténeti kutatások terén sajnos gyakran nem kielégítő a történelmi és nyelvi hipotézisek koordinációja... A borjú, ökör és bika szavak egyaránt – vagy talán még inkább – származtathatók mind a mongol mind a török nyelvből. A tudósokat, kik ezzel a kérdéssel foglalkoznak, tudatosan vagy tudat alatt befolyásolja az a történelmi – és nem nyelvi – hipotézis, hogy a magyarok együtt éltek a törökökkel; következésképpen a magyar kölcsönszavakat a török nyelvből kell levezetni. Ha most egy lépéssel tovább megyünk és feltesszük a kérdést, honnan tudjuk azt, hogy a magyarok a törökökkel együtt éltek, válaszként azt a fő érvet halljuk, hogy a magyar nyelvben sok török kölcsönszó található, mint pl. borjú, ökör, bika... Íme, a *circulus vitiosus* szép iskolapéldája." (l. id. m" Gulya J.: A vízimadarak népe, 329. old.)  
