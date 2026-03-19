@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-03-13T23:58"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-03-19T17:09"}
 ---
 
 
@@ -21,6 +21,9 @@
 
 **2026:**
 
+[260318CN! MEGVILÁGOSODÁSÉRT](https://rumble.com/v77arfg-260318cn-megvilgosodsrt-kubnyi-tams-ktv.html)  [https://archive.ph/iKmoU](https://archive.ph/iKmoU)
+[260317CN! HAZAÁRULÓ](https://rumble.com/v7794py-260317cn-hazarul-kubnyi-tams-ktv.html)  [https://archive.ph/Z5RCF](https://archive.ph/Z5RCF)
+[260316CN! SZÁMHÁBORÚ](https://rumble.com/v777qkw-260316cn-szmhbor-kubnyi-tams-ktv.html)  [https://archive.ph/07NNP](https://archive.ph/07NNP)
 [260313CN! PETŐFI NEVÉBEN](https://rumble.com/v772ofw-260313cn-petfi-nevben-kubnyi-tams-ktv.html)  [https://archive.ph/jnLHT](https://archive.ph/jnLHT)
 [260312CN! NEMZETI ÜNNEPRE](https://rumble.com/v770wnw-260312cn-nemzeti-nnepre-kubnyi-tams-ktv.html)  [https://archive.ph/DDTkU](https://archive.ph/DDTkU)
 [260311CN! SAJTÓSZABADSÁG DÍJ](https://rumble.com/v76z42k-260311cn-sajtszabadsg-dj-kubnyi-tams-ktv.html)  [https://archive.ph/t0ImG](https://archive.ph/t0ImG)
