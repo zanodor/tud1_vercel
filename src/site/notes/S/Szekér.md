@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szekér/","title":"Szekér","created":"2025-02-24T18:12","updated":"2026-03-19T17:56"}
+{"dg-publish":true,"permalink":"/S/Szekér/","title":"Szekér","created":"2025-02-24T18:12","updated":"2026-03-19T18:20"}
 ---
 
 
