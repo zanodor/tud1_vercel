@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tibeti teremtéstörténet/","title":"Tibeti teremtéstörténet","created":"2024-05-03T12:14","updated":"2026-03-05T01:44"}
+{"dg-publish":true,"permalink":"/T/Tibeti teremtéstörténet/","title":"Tibeti teremtéstörténet","created":"2024-05-03T12:14","updated":"2026-03-19T02:50"}
 ---
 
 
@@ -31,5 +31,7 @@ Ezután az Élőlényeket Kedvelő Úr elhatározta, hogy házat épít a világ
 Az Élőlényeket Kedvelő Urat félelem fogta el, hogy meghal. Egy reggel szörnyű seb támadt bőrén, és egyre beljebb hatolt a testébe. Három év múltán csak bőre tapadt a csontjaira. Ekkor magához hívatta a Tudományok Királyát, az megvizsgálta, és így szólt:  
 A teremtés palotáját egy kristálysziklára építetted. De ebben a sziklában a rossz démona, Mthong-dga ütötte fel tanyáját. Ő okozta a betegségeket, és ő volt, aki elpusztította a két elefántodat, amiért elhozták lakhelyét palotád számára.  
 (Román József feldolgozása)  
+
+## Megjegyzés
 
 Azt látjuk, hogy előbb a fekete ember, majd a fehér ember jelenik meg. Előbbi kétértelműen értelmezhető: mint az őskezdet és [[S/Sátán\|Sátán]]/ördög (semleges és negatív megítélés), utóbbi isteni (pozitív) értelemben, de leginkább arról van szó, hogy előbb, még a fény általi teremtés előtt az ősanyagistennő volt csak jelen, sőt, az emberi teremtettségben is a feketével jelölt nő megelőzi a férfit (akit is csak ő, a nő szülhet meg).  
