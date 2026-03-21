@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-03-19T17:09"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-03-21T01:23"}
 ---
 
 
@@ -21,6 +21,8 @@
 
 **2026:**
 
+[260320CN! FIATAL ÉLETEKÉRT](https://rumble.com/v77e96i-260320cn-fiatal-letekrt-kubnyi-tams-ktv.html)  [https://archive.ph/SgabX](https://archive.ph/SgabX)
+[260319CN! FEKETE MÁRCIUS](https://rumble.com/v77ckzk-260319cn-fekete-mrcius-kubnyi-tams-ktv.html)  [https://archive.ph/5XAGs](https://archive.ph/5XAGs)
 [260318CN! MEGVILÁGOSODÁSÉRT](https://rumble.com/v77arfg-260318cn-megvilgosodsrt-kubnyi-tams-ktv.html)  [https://archive.ph/iKmoU](https://archive.ph/iKmoU)
 [260317CN! HAZAÁRULÓ](https://rumble.com/v7794py-260317cn-hazarul-kubnyi-tams-ktv.html)  [https://archive.ph/Z5RCF](https://archive.ph/Z5RCF)
 [260316CN! SZÁMHÁBORÚ](https://rumble.com/v777qkw-260316cn-szmhbor-kubnyi-tams-ktv.html)  [https://archive.ph/07NNP](https://archive.ph/07NNP)
