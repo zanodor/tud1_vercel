@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/SZAR/","title":"SZAR","tags":["Englishtexttranslated","containscallouts"],"created":"2026-03-12T21:18","updated":"2026-03-19T19:21"}
+{"dg-publish":true,"permalink":"/S/SZAR/","title":"SZAR","tags":["Englishtexttranslated","containscallouts"],"created":"2026-03-12T21:18","updated":"2026-03-21T01:23"}
 ---
 
 
@@ -67,10 +67,10 @@ Szar és szaru/[[S/Szarv\|szarv]] ragyogó kapcsolatáról lásd [[K/KUS\|KUS]].
 
 A magyarban [[K/KÁR\|kár]] és [[K/Kór\|kór]].  
 
-Perzsa nyelven `sár` = feketerigó. Kár > sár változással, nyilván. Nálunk is a szar lényegében fekete/rosz (sőt, rosz/[[R/Rossz\|rossz]] megfordítása is lehet).  
+Perzsa nyelven `sár` = feketerigó. Kár > sár változással, nyilván. Nálunk is a szar lényegében fekete/rossz (sőt, akarjuk, `szar` a `rosz`/[[R/Rossz\|rossz]] megfordítása is lehet, ahogy `kór` és `kár` a `rák` betegség nevével is ilyen fordított kapcsolatot mutathat).  
 [[K/Kara#Kara, szar, szár\|Kara, szar, szár]] cím/alcímnél írottakat lásd még.  
 
-Az angol nyelvben [[C/Crap\|crap]], míg a hús görög-latin nyelvek húst jelentő szavai közt (görög `sarx`) utóbbi nyelvben `caro` = hús arra utal, hogy az anyag halandó.  
+Az angol nyelvben [[C/Crap\|crap]], míg a görög-latin nyelvek húst jelentő szavai közt (görög `sarx`) utóbbi nyelvben `caro` = hús arra utal, hogy az anyag halandó.  
 > [!info] &nbsp;
 > Ahogy [[K/Kara#Kara és hal\|kara és hal]] cím/alcímnél is írtuk, K/H - L/R megfelelnek egymásnak.
 
