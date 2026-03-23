@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-04-22T01:48","updated":"2026-03-05T01:30"}
+{"dg-publish":true,"permalink":"/L/Lemniszkáta/","title":"Lemniszkáta","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-04-22T01:48","updated":"2026-03-23T23:31"}
 ---
 
 
@@ -52,7 +52,7 @@ A lemniszkáta meg[[K/Köt\|köt]]ő [[K/Közép\|közép]]ső pontjával kapcso
 
 Ami [[K/Kötél\|kötél]] címnél állt:  
 Megkötni a kutyát szokták, és [[K/Köt\|köt]], [[K/Kut\|kut]], [[K/Kutya\|kutya]] és másutt írottak alapján a Szíriusz nem is változtatja helyét (hivatalos [[P/Precesszió\|precesszió]] elmélet ide vagy oda): ki van kötve a Nappályánkhoz.  
-A kutya kötésére használt [[P/Póráz\|póráz]] szavunk Tilak Orionjának 145. oldalán is megjelenni látszik. [[O/Orion övcsillagai\|Orion övcsillagai]] címszó alján szóltunk legutóbb arról, hogy Tilak szerint az öv Orion övére utal. Viszont a póráz a kutyára, a Kutyacsilagra, annak megkötöttségére kell utaljon, vagy a Nappályához, vagy (látszólagosan?) Orionhoz.  
+A kutya kötésére használt [[P/Póráz\|póráz]] szavunk Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvének 145. oldalán is megjelenni látszik. [[O/Orion övcsillagai\|Orion övcsillagai]] címszó alján szóltunk legutóbb arról, hogy Tilak szerint az öv Orion övére utal. Viszont a póráz a kutyára, a Kutyacsilagra, annak megkötöttségére kell utaljon, vagy a Nappályához, vagy (látszólagosan?) Orionhoz.  
 [[L/Loop\|Loop]] címnél írtuk legutóbb, hogy [[R/Rope\|rope]]-pal közös eredetük lehet. Az imént taglalt megkötöttség pedig a lemniszkátára utal.  
 Az [[I/Idő\|idő]] és [[G/Galactic centre\|Tejútközpont]] címnél is taglalt tizenkettesség előjött [[D/Dél#Dél és éjfél\|dél és éjfél]] cím/alcímnél, ahol szintén szóba került a lemniszkáta:  
 
