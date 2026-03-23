@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vándor/","title":"Vándor","tags":["Englishtexttranslated"],"created":"2023-10-20T10:10","updated":"2025-06-07T18:49"}
+{"dg-publish":true,"permalink":"/V/Vándor/","title":"Vándor","tags":["Englishtexttranslated"],"created":"2023-10-20T10:10","updated":"2026-03-23T23:31"}
 ---
 
 
@@ -77,7 +77,7 @@ A vándorlás viszont azon [[C/Cigány\|cigány]]okhoz köthető leginkább (a f
 > A jász szócsoportnak is kellett legyen valamilyen a járást, vándorlást, bolyongást, mendegélést jelentő szavának, amely tehát jázás, juzás, ijázás, jizés alakú kellett legyen. És íme a szláv nyelvekben fönn is maradott `jezditi` utazást jelentő szó. De ezen föltételezett jázás szóra utal maga a magyar jár, járás szó is, mert hiszen az r-z mássalhangzó váltakozás, különösen a szó végén, ismeretes jelenség. De ugyan e szó jésítetlen alakját is megtaláljuk az olasz `ire` (hosszú í-vel, íre-nek ejtendő) = menni igében, valamint az olasz és német `errare` és `irren` (angol [[E/Err\|err]]) = bolyongani, tévelyegni igében is. Igaz hogy eme szavak az r hang révén kőrös szócsoportunkba tartoznak, de amint mondám, az r-z változás révén a jász szócsoporthoz is közel állóak.  
 
 És ha tudjuk, hogy a Vándor az Orion neve is, akkor mit jelent mindez? Nyilván az [[O/Orion\|Orion]] címnél taglalt témában...  
-- A fentebb Jankovics Marcell által is említett Orion-kivégzések/lefejezések és az Orionnal együtt álló Napok kapcsán kell elmondani, hogy tehát nemcsak Mithra (lásd [[M/Mithra és a bika\|Mithra és a bika]]) és [[P/Prajapati\|Prajapati]], hanem a Tilak Orionjának VII. fejezetében előjövő, 178. oldala tájékán elemzett [[V/Vrishâkapi\|Vrishâkapi]] is az Orionnal azonosuló Napot (lásd [[N/Nap#Nap az Orionban\|Nap az Orionban]]) személyesíti meg. Az egyik versszakban sárga szarvasként[^2] is megjelenő Vrishâkapinak pedig szintén fejét szegik. A fej szegése nyilván égi pályák változását, metszéseit jelentik, ahogy a Hamlet Malmában is születtek ilyen értelmezések Agnival és Szómával kapcsolatban. (Minden továbbit lásd [[V/Vrishâkapi\|Vrishâkapi]].) <br/>
+- A fentebb Jankovics Marcell által is említett Orion-kivégzések/lefejezések és az Orionnal együtt álló Napok kapcsán kell elmondani, hogy tehát nemcsak Mithra (lásd [[M/Mithra és a bika\|Mithra és a bika]]) és [[P/Prajapati\|Prajapati]], hanem a Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvének VII. fejezetében előjövő, 178. oldala tájékán elemzett [[V/Vrishâkapi\|Vrishâkapi]] is az Orionnal azonosuló Napot (lásd [[N/Nap#Nap az Orionban\|Nap az Orionban]]) személyesíti meg. Az egyik versszakban sárga szarvasként[^2] is megjelenő Vrishâkapinak pedig szintén fejét szegik. A fej szegése nyilván égi pályák változását, metszéseit jelentik, ahogy a Hamlet Malmában is születtek ilyen értelmezések Agnival és Szómával kapcsolatban. (Minden továbbit lásd [[V/Vrishâkapi\|Vrishâkapi]].) <br/>
 [[S/Szabir\|Szabir]], [[K/Kóbor\|kóbor]] és vándor címnél volt még arról szó, hogy Orion helyzetének megváltozását jelölhetik egyes nevek és nyelvek szavai.  
 
 ...kell gondolkodni.  
