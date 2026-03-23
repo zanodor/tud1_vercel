@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarama/","title":"Sarama","tags":["Englishtexttranslated"],"created":"2023-11-17T05:34","updated":"2026-01-17T00:11"}
+{"dg-publish":true,"permalink":"/S/Sarama/","title":"Sarama","tags":["Englishtexttranslated"],"created":"2023-11-17T05:34","updated":"2026-03-23T23:30"}
 ---
 
 
@@ -37,7 +37,7 @@ Ott ([[D/Drumó\|drumó]] és [[D/Dream\|dream]] címnél) a tél időszaka is e
 > —  
 > Az indoeurópai holtak kutyái azonban általában párban mozogtak: ha nem voltak ikertestvérek, akkor két kutyaként is ábrázolhatták őket, mint a jól ismert [[C/Cerberus\|Kerberosz]] esetében. Leggyakrabban **az egyik kutya fekete, a másik fehér volt**, egy olyan út szimbólumaként, amely nemcsak a múltbeli életből a jelenbeli halálba, hanem a halálból a jövőbeli életbe is vezetett. Az ilyen kutyakettősök közé sorolható az indiai Syâma és Sabala, a germán Gifr és Geri (vagy Frekr), az örmény Spitak és Siaw, a kelta mitológia két "ördögi kutyája", valamint egy iráni pár, amelyet talán Sraosával és Rasnuval azonosítanak. A walesi mitológia szürkésvörös kutya-[[P/Psychopomp\|pszükhopomposz]]a szintén ilyen párosítás lehet.  { #itxfzr}
 
-- Tilak Orionjában `shabalau` = pöttyös, [[T/Tarka\|tarka]]. Mely akár képviselhetné bármelyik oldalt is.
+- Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvében `shabalau` = pöttyös, [[T/Tarka\|tarka]]. Mely akár képviselhetné bármelyik oldalt is.
 
 Amiről nem volt még szó, hogy Sarama két kutyája lehet Szíriusz A és B jelű csillagok. Persze ez nem lehetséges. Tilaknál is szerepel, hogy a Tejút két végében álló két kutya a két kutya.  
 A szerzőpáros további adatait lásd [[P/Psychopomp\|psychopomp]] és [[K/Kutyaáldozás\|kutyaáldozás]].)  
