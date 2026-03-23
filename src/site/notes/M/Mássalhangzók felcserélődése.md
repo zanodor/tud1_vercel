@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-03-03T18:26"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-03-23T23:30"}
 ---
 
 
@@ -299,7 +299,7 @@ A g>w (u) váltás olyan szavakban, mint bow is ismert ([[A/Ajakhangok a szó k�
 G>V váltásra lehet példa a több helyen említett [[C/Csillag\|csillag]] > szláv `cselovek` = ember; emberiség szó, bár lehetséges, hogy a v hiátuspótló és a szóvégen g = k azonosság van.  
 G>W/Y változásra angol példák: Ami a modern angolban w-re, vagy y-ra végződik (lásd hay, way, play ill. maw és dew), az az óangolban/ógermánban és a magyarban leggyakrabban g (vagy gy) hang.  
 A legszemléletesebb példa `hogy` > `how`.  
-Legutóbb [[G/Gododdin\|Gododdin]] címnél (ahol próbáltam védeni a gu- előhangos szavak eredetiségét) is szó volt arról, hogy a Wodan/Godan/Odin egy lehet és a kiinduló lehet g- illetve gu- előhangos, ismerve a hunok nyelvének elterjedtségét. Még a [[V/VAK\|vak]] és a [[K/Kuk\|kuk]] is egyezőnek mondhatóak lehetnek.  
+
 
 Götz László Keleten kél a Nap című könyvének 152. oldalán polarizáció témában említi a G, TH és W váltakozását. A felhozott példa: az óind `gharma` = meleg, görög `thermos` = meleg és germán `warm` = meleg szavak közt szabályos hangátmeneteket jelöl meg a nyelvészet.  
 
