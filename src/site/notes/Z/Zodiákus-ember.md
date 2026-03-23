@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zodiákus-ember/","title":"Zodiákus-ember","tags":["Englishtexttranslated"],"created":"2025-05-29T16:13","updated":"2025-10-02T21:42"}
+{"dg-publish":true,"permalink":"/Z/Zodiákus-ember/","title":"Zodiákus-ember","tags":["Englishtexttranslated"],"created":"2025-05-29T16:13","updated":"2026-03-23T23:32"}
 ---
 
 
 # Zodiákus-ember
 
-[[N/Nut\|Nut]] címnél már volt szó a [[T/Tejútanya\|Tejútanya]] testtájékairól. A Tejútanya és a zodiákus-ember egy és ugyanaz. Igaz, amikor Tilak Orionjában a verset fordító Max Müllert idézi, Brahman/a Teremtő testrészeit sorolják:  
+[[N/Nut\|Nut]] címnél már volt szó a [[T/Tejútanya\|Tejútanya]] testtájékairól. A Tejútanya és a zodiákus-ember egy és ugyanaz. Igaz, amikor Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvében a verset fordító Max Müllert idézi, Brahman/a Teremtő testrészeit sorolják:  
 > The ram is the head, the face of the Creator is the bull, the breast would be the man-pair, the heart the crab, the lion the stomach, the maid the hip, the balance-bearer the belly, the eighth (Scorpion) the membrum, the archer his pair of thighs, the Makara his pair of knees, the pot his pair of legs, the fish his two feet.  
 > —  
 > A kos a fej, a Teremtő arca a bika, a mell lenne az emberpár, a szív a rák, az oroszlán a gyomor, a szűz a csípő, a mérleghordozó a has, a nyolcadik (skorpió) a membrán, az íjász a combpárja, a makara a térdpárja, a fazék a lábpárja, a hal a két lába.  
