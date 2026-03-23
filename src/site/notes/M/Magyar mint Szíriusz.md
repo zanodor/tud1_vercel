@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-10-29T07:48","updated":"2025-10-10T21:54"}
+{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-10-29T07:48","updated":"2026-03-23T23:31"}
 ---
 
 
@@ -22,11 +22,11 @@ Akkor most a csillagé a név? Kovács cikkének neve Stella Hungarorum (Ősi Gy
 > Ezért a tudósok, amikor héber szavakat írnak át latin betűkkel (transzliterálnak), ezeket a különböző magánhangzósításokat is feltüntetik. Ugyanabból a hárombetűs gyökből (mint például az M-G-R) számos különböző szó származhat, amelyeknek eltérő a magánhangzó-pontozása, és ezáltal eltérő a jelentése, illetve a nyelvtani szerepe (pl. főnév, ige, különböző igeidők vagy alakok).  
 > Az  említett példák is ezt illusztrálják. A magánhangzók eltérése miatt különböző szavakként, különböző jelentésárnyalatokkal jelennek meg a Bibliában. A tudományos átírások célja, hogy ezeket a finom különbségeket is pontosan visszaadják.
 > 
-> 1.  `magor` (`מָגוֹר`): jelentése "félelem", "rettegés", "iszonyat".
+> 1. `magor` (`מָגוֹר`): jelentése "félelem", "rettegés", "iszonyat".
 >     *   Példák: Ezékiel 21:12, Ezsdrás 6:12, Ézsaiás 31:9, Jeremiás 20:4.
-> 2.  `magor missabib` (`מָגוֹר מִסָּבִיב`): jelentése "iszonyat mindenfelől", "rettegés mindenhol".
+> 2. `magor missabib` (`מָגוֹר מִסָּבִיב`): jelentése "iszonyat mindenfelől", "rettegés mindenhol".
 >     *   Példák: Jeremiás 20:3, Jeremiás 20:10, Jeremiás 46:5, Jeremiás 49:29, Jeremiás 6:25, Siralmak 2:22, Zsoltárok 31:13.
-> 3.  `megurah` (`מְגוּרָה`): jelentése "rettegés", "borzadás", "félelem".
+> 3. `megurah` (`מְגוּרָה`): jelentése "rettegés", "borzadás", "félelem".
 >     *   Példák: Példabeszédek 10:24, Haggeus 2:19, Ézsaiás 66:4, Zsoltárok 34:4.
 
 <br/>4\. [Ezen](https://qr.ae/pNuu62) Quora válaszomra kommentben írtam, hogy az indo-európai Mater = Anya a [[T/Tejútanya\|Tejútanya]] és (amit már így nem írtam oda) az egy csillagba sűrített önmagaként [[S/Szíriusz\|Szíriusz]] is lehet, de eredetileg ugye [[T/Tündér Ilona\|Tündér Ilona]]ként. Magyar Ilona nem lehet Szíriusz? Csak a Tejútközponttal lehet azonosítani?  
