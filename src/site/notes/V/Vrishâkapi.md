@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vrishâkapi/","title":"Vrishâkapi","created":"2023-11-07T10:11","updated":"2024-11-07T01:02"}
+{"dg-publish":true,"permalink":"/V/Vrishâkapi/","title":"Vrishâkapi","created":"2023-11-07T10:11","updated":"2026-03-23T23:32"}
 ---
 
 
 # Vrishâkapi
 
-Az Oriont érő kivégzésekkel/lefejezésekkel és az Orionnal együtt álló Napokkal (mint Mithra (lásd [[M/Mithra és a bika\|Mithra és a bika]]) és [[P/Prajapati\|Prádzsapáti]]) kapcsolatban egy újabb név jön elő, Tilak Orionjának VII. fejezetében.  
+Az Oriont érő kivégzésekkel/lefejezésekkel és az Orionnal együtt álló Napokkal (mint Mithra (lásd [[M/Mithra és a bika\|Mithra és a bika]]) és [[P/Prajapati\|Prádzsapáti]]) kapcsolatban egy újabb név jön elő, Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvének VII. fejezetében.  
 Vrishâkapi szerinte szintén az Orionnal azonosuló Napot személyesíti meg. Az egyik versszakban sárga szarvasként[^1] is megjelenő Vrishâkapinak pedig (majdnem[^2]?) szintén fejét szegik. (A fej szegése nyilván égi pályák változását, metszéseit jelentik, ahogy a Hamlet Malmában is születtek ilyen értelmezések Agnival és Szómával kapcsolatban. Lásd még [[F/Fej#Fejlevágás\|fejlevágás]] cím/alcímnél.)  
 
 A név elemzését a [[H/Hapi\|Hapi]] taggal kezdjük, minthogy ez Egyiptomban is meglévő név, ráadásul nem is akárki ősneve, (Richard H. Allen könyvében biz. Hewitt szerint) [[S/Széth\|Széth]]é. Azé a Széthé, aki Egyiptom egyik eredeti nagy istene volt, majd később (az idő múlásával, nyilván a [[P/Precesszió\|precesszió]] hatásával) negatívvá vált. [[O/Ozirisz és Széth\|Ozirisz és Széth]] hatalomcseréje úgy tűnik, a [[N/Nagy Év\|Nagy Év]]ben a keleti Szíriusz-Orion mitológiában is tükröződik.  
@@ -26,4 +26,4 @@ A sárgaságnak is van szerepe, hiszen ahogy [[S/Sika\|sika]] címnél is láttu
 Tilak könyvének 181. oldalán szól a sárgaságról.  
 
 [^2]: Lábjegyzet:  
-Tilak Orionjának 186. oldalán az áll, hogy mégsem Vrishâkapi esik áldozatul Indrané keze által.  
+Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvének 186. oldalán az áll, hogy mégsem Vrishâkapi esik áldozatul Indrané keze által.  
