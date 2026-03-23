@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2026-03-12T21:20"}
+{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2026-03-23T23:31"}
 ---
 
 
@@ -28,7 +28,7 @@ A francia `chaud` = forró is innen ered, nem a latin `calidus` szótól.
 
 A mellékelt táblázat aveszta SZU-DAR alakjai érdekesek, minthogy a férj elnevezése ezek szerint onnan származik, hogy rendelkezik megtermékenyítő folyadékkal. De lehet hogy itt inkább a Süt-Rá értelmezést kell helyesnek vélni. ([[S/Sutra\|Sutra]] pedig szintén létező szó.)
 
-A török, kazah, kirgiz, baluchi, ujgur `süt`, azeri `süd` = tej, mely [[T/Táp\|táp]]lálék értelmére, vagy talán [[S/Sweet\|sweet]] = édességére mutat rá (egyes iráni nyelveken a "szolim-szarmata" `shir`, azaz [[Z/Zsír\|zsír]] a tej, míg [[D/Dugh\|dugh]] = lefölözött tej).  
+A török, kazah, kirgiz, beludzs, ujgur `süt`, azeri `süd` = tej, mely [[T/Táp\|táp]]lálék értelmére, vagy talán [[S/Sweet\|sweet]] = édességére mutat rá (egyes iráni nyelveken a "szolim-szarmata" `shir`, azaz [[Z/Zsír\|zsír]] a tej, míg [[D/Dugh\|dugh]] = lefölözött tej).  
 Ugyanakkor az örmény (kún-hun K-T vázú) `kat`, baskír `höt` (mely [[H/Hot\|hot]] szóval is rokonítható) és tagalog `gatas` = tej szavak mutatnak rá, hogy valóban sütő, azaz a meleg táplálék értelmet kell keresni benne (vesd össze germán-szláv tejet jelentő szavak (mint például angol [[M/Milk\|milk]]) meleg alapértelmével és a sémi Moloch napisten nevével).  
 (A roma nyelv `thud` = tej szava tőgy vagy inkább tud szavunkkal egyezik: a tölgyfapap táltos tápláléka is a tej, de [[M/Mohammed\|Mohammed]] is a három felajánlott ital, a bor, víz és a tej közül – helyesen – utóbbit választotta.)  
 
