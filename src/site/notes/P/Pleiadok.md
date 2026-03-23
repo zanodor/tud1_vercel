@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2026-03-06T16:21"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2026-03-23T23:30"}
 ---
 
 
 # Pleiadok
 
 Több helyen volt arról szó, milyen fontos csillagzat volt minden nagy kultúrában. Ahogy Al Biruni írja, sok nemzet ezzel a csillagzattal kezdte[^1] (vagy a csillagkatalógusukat vagy magát) az évet.  
-Tilak Orionjának harmadik fejezetében szól arról, hogy a tavaszi napéjegyenlőségi pont a [[K/Krittika\|Krittiká]]ban állt (valamikor).  
+Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvének harmadik fejezetében szól arról, hogy a tavaszi napéjegyenlőségi pont a [[K/Krittika\|Krittiká]]ban állt (valamikor).  
 
 #### Jankovics Marcell A Nap könyve...  
 
