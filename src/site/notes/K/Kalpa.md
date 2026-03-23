@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kalpa/","title":"Kalpa","tags":["Englishtexttranslated"],"created":"2023-10-19T02:45","updated":"2025-06-08T01:00"}
+{"dg-publish":true,"permalink":"/K/Kalpa/","title":"Kalpa","tags":["Englishtexttranslated"],"created":"2023-10-19T02:45","updated":"2026-03-23T23:32"}
 ---
 
 
@@ -28,4 +28,4 @@ Joscelyn Godwin Arktos The Polar Myth című könyvének 150. és 156. oldalán 
 
 [^1]: Lábjegyzet:  
 David Pingree Surya Siddhantából vett adatát és a Stellariumból mellétett képet, mely i.e. 3114-ből való, lásd [[Y/Yuga cycles\|Yuga cycles]] címnél: nincs ott minden bolygó persze, de a Koshoz közel vagyunk.  
-Persze a Surya Siddhanta nem ősi irat, mert a Tilak Orionjában elemzett védák és himnuszok régebbiek.  
+Persze a Surya Siddhanta nem ősi irat, mert a Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvében elemzett védák és himnuszok régebbiek.  
