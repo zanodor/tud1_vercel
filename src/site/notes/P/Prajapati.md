@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Prajapati/","title":"Prajapati","tags":["Englishtexttranslated"],"created":"2024-10-23T20:04","updated":"2026-03-05T01:35"}
+{"dg-publish":true,"permalink":"/P/Prajapati/","title":"Prajapati","tags":["Englishtexttranslated"],"created":"2024-10-23T20:04","updated":"2026-03-23T23:31"}
 ---
 
 
@@ -40,7 +40,7 @@ Ami azért érdekes, mert Ozirisz-Vezér-Kilenc-Vadász-Kaszás-Orion is a holta
 ## Csillagisme
 
 Az indiai mitológiában [[O/Orion\|Orion]] neve PrádzsaPáti, "Az égi óriás", aki szerelmével üldözi saját lányát, [[R/Rohini\|Rohini]]t, a Bika [[A/Aldebaran\|Aldebaran]]ját, de Rudra-Szíriusz, a "Bosszúálló" nyilával megöli[^2]. A **testébe fúródó nyíl az Orion-öv**.  
-Tilak Orionjában foglaltak szerint Prajapati nem más, mint [[M/Mrigashira\|Mrigashira]], kinek őzfejébe (ezt is jelentené a név, magyarul Jankovics Marcellnél is "Szarvasfő") fúródik ez a nyíl. Lásd képen is ábrázolva ott.  
+Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvében foglaltak szerint Prajapati nem más, mint [[M/Mrigashira\|Mrigashira]], kinek őzfejébe (ezt is jelentené a név, magyarul Jankovics Marcellnél is "Szarvasfő") fúródik ez a nyíl. Lásd képen is ábrázolva ott.  
 
 #### Jankovics Marcell A fa mitológiája...
 
