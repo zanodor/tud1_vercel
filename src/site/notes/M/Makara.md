@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2026-03-09T22:08"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2026-03-23T23:31"}
 ---
 
 
@@ -30,7 +30,7 @@ A leírása alapján ez a Jankovics Marcell Jelkép-kalendárium című könyvé
 >
 > Uránosz nem sajátosan görög isten; az indoeurópai nyelveket beszélő népek valamennyien ismerték. Indiában és Perzsiában az ősi árja istentriász tagjaként Varuna volt a neve. Eredetileg nemcsak égisten volt, hanem a Hold, az eső és a földi vizek ura, valamint egyik istentársával, Jamával együtt a halottak királya. Fehér színűnek képzelték, kezében kötélhurokkal, amint **Makará**n, a cethalszerű szörnyön lovagol. A görög csillagképek között is van egy Cethal (latinul Cetus), amely részben a Vízöntő alatt lubickol az ég tengerében. (Jegyezzük meg: a perzsa és hindu csillagképnevek alig térnek el a görög-rómaitól.)  
 
-Tilak Orionjában is volt szó szájról, de ott arról volt szó, hogy a nakshatrakban kimért év száját, vagy a nakshatrak száját hívták az év kezdőjének. Lehet, hogy lényegében egy és ugyanarról van szó, téli napfordulós évkezdésről (hogy ezt az évkezdést most még viszonyították első holdtöltéhez, vagy sem, most mindegy is). Lásd erről [[M/Makara Sankrati\|Makara Sankrati]].  
+Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvében is volt szó szájról, de ott arról volt szó, hogy a nakshatrakban kimért év száját, vagy a nakshatrak száját hívták az év kezdőjének. Lehet, hogy lényegében egy és ugyanarról van szó, téli napfordulós évkezdésről (hogy ezt az évkezdést most még viszonyították első holdtöltéhez, vagy sem, most mindegy is). Lásd erről [[M/Makara Sankrati\|Makara Sankrati]].  
 A [[M/Magyar\|magyar]] címnél említett japán (sintoista ünnepekre értett) `matsuri` = ünnep szó is könnyen lehet, hogy évkezdő (akár téli napfordulós) ünnep neve volt eredetileg.  
 
 Iain Forbes ![assets/Makara_image1.png|right|200](/img/user/M/assets/Makara_image1.png)  a LastoftheDruids című oldalról való anyaga szerint Makara nem más, mint a kecskebakhal (Suhurmasku-Capricorn), melyet Magyar Adorján Csodaszarvasában is Szarvassal azonosított (azóta kiderült, hogy a [[S/Skorpió\|skorpió]] is Szarvas). Lásd a mellékelt képen kívül minden egyebet, Forbes írását is [[S/Suhurmasku\|Suhurmasku]] illetve egy részét alant.  
