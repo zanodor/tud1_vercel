@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Agent/","title":"Agent","tags":["containstransclusions"],"created":"2024-04-20T11:43","updated":"2025-06-07T18:46"}
+{"dg-publish":true,"permalink":"/A/Agent/","title":"Agent","tags":["containstransclusions"],"created":"2024-04-20T11:43","updated":"2026-03-23T23:32"}
 ---
 
 
@@ -48,4 +48,4 @@ Ezek alapján a görög `ágein` és latin `agere` = hajtani igék eredete egy l
 
 A görög `ágein` és latin `agere` szavak ellen szól, hogy mint sok más ige, utólag képzett lehet, azaz nem feltétlenül kell az ag- igegyökre koncentrálni, és belőle megpróbálni eredetet gyártani. Az [[A/Agancs\|agancs]] szavunk viszont csak a latin `agent` szóban látszik ülni, nyilván a görög melléknévi igenév nem ilyen alakú. Ezért van szükség elővigyázatosságból az agancs ág gyökére visszamenni.  
 
-Egyébiránt az ind nyelvben is megvan ag-, mint például a Tilak Orion című könyvének 73. oldalán taglalt Agrahayani = félévkezdő szóban (ahol `ayana` = félév, `yana` = (Nap)út). A kezd értelem valójában itt is hajt, űz is lehet.  
+Egyébiránt az ind nyelvben is megvan ag-, mint például a Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvének 73. oldalán taglalt Agrahayani = félévkezdő szóban (ahol `ayana` = félév, `yana` = (Nap)út). A kezd értelem valójában itt is hajt, űz is lehet.  
