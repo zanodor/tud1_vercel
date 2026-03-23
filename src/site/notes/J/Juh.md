@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Juh/","title":"Juh","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T16:20","updated":"2026-03-03T18:28"}
+{"dg-publish":true,"permalink":"/J/Juh/","title":"Juh","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T16:20","updated":"2026-03-23T23:32"}
 ---
 
 
@@ -14,7 +14,7 @@ Amit találtam Magyar Adorjántól:
 > Ősnyelvünkben a tejelő állatok neve volt jó, jú, aminthogy Erdélyben a juh neve ma is jó. Viszont a szanszkritban `gó` = tehén, amivel egy a német `Kuh` = tehén, habár utóbbi kunos, azaz k hangos kiejtésűvé vált, de világos tehát hogy úgy ez, mint a szanszkrit gó is a mi ősnyelvünkből kellett származzon. Népünknél azonban megvan a juhok nevének jésítés nélküli alakja is, és a juhokat tehát ihoknak, a juhászt [[I/Ihász\|ihász]]nak is nevezik, amivel egyeztethető a japáni `ü` = jó és az oláh `o`, `oi` = juh, juhok.  
 - Amely szót nyilván a latinból eredeztetnék.
 
-> De bizonyos az is, hogy a szanszkrit `gó` = tehén, sem egyéb mint a mi [[J/Jó\|jó]] szavunk származéka, amely szóban a j hang már g hang változott azután k hanggá, ami még gyakoribb hangtani jelenség, és így jött létre a mai német `Kuh` (kú) = tehén, holott a német `gut` = jó szóban a g hang megmaradott.  
+> De bizonyos az is, hogy a szanszkrit `go` = tehén, sem egyéb mint a mi [[J/Jó\|jó]] szavunk származéka, amely szóban a j hang már g hang változott azután k hanggá, ami még gyakoribb hangtani jelenség, és így jött létre a mai német `Kuh` (kú) = tehén, holott a német `gut` = jó szóban a g hang megmaradott.  
 
 Még a japánra visszatérve, [ezen](https://en.wiktionary.org/wiki/%E7%BE%8A#Japanese) oldal adata szerint a japán `jó` = juh jelentésű (és eredetibb, mint a [[K/Kecske és kos\|kecske és kos]] címnél taglalt kínai `yáng`) (az írás kínai, viszont a hangzósítás lehet eredeti magyar-szkíta).  
 
