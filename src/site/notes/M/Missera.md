@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2026-03-05T01:29"}
+{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2026-03-23T23:30"}
 ---
 
 
@@ -86,7 +86,7 @@ A kos is szarvas állat, és mivel [[M/MISZ\|MISZ]] címnél voltak jelentésát
 
 Végső soron a kiinduló Magyar Ilona neve kell legyen (ahol a magyar megint a tündér); a magyar név saját magyar belső fejlődési vonalon alakult át magy > mad > mat/met > mit > misz/mesz változatokra, melyeket a magyar nyelv külön nem tartott meg, de az utódnyelvek átvették őket.  
 [[M/Magyar\|Magyar]] címnél szerepelt:  
-Magyar Mag-Yar tagokra felbontása annak bizonyítására jöhetne jól, hogy a Tilak Orion című könyvének 92. oldalán adatolt aveszta `madhyaryo` = évközép (\*mad/mid-jár) szót a magyar szóból vezessük le. (A dh páros is árulkodó, hogy gy hangra utal, de a dhy egymás után meg végképp: nem tudták leírni a gy hangot már!)  
+Magyar Mag-Yar tagokra felbontása annak bizonyítására jöhetne jól, hogy a Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvének 92. oldalán adatolt aveszta `madhyaryo` = évközép (\*mad/mid-jár) szót a magyar szóból vezessük le. (A dh páros is árulkodó, hogy gy hangra utal, de a dhy egymás után meg végképp: nem tudták leírni a gy hangot már!)  
 Dr. Geiger adata szerint a primitív aveszta naptár a nyári napfordulóval kezdte ugyanis az évet (ellentétben azokkal az indiaiakkal, akikből/től az irániak ki- vagy elváltak).  
 Ezek szerint a hunok Magyar/Magor ünnepének hívták volna a nyári napfordulót? Nagyon úgy tűnik. Ez érdekes, mert a saját Napuk neve K-N vázú. Arról is lehet szó, hogy itt valójában magyarok is éltek és a maguk Napja után hívták az ünnepet így.  
 Nos, valójában Magyar volt a Tejút(anya) neve, mely középen választja el az éggömböt; azaz, nem kell túlkombinálni.  
@@ -97,7 +97,7 @@ Joscelyn Godwin Arktos The Polar Myth című könyvének 29. oldalán Jean-Sylva
 Az ott írottak alapján missera fél év jelentésére vélhetően szintén hyperboreai eredetet mondana (emlékezzünk Magyar Adorján írására is: 1 nap volt 1 (fél)év). Meg is említi, hogy az ő idejében a kamcsatkaiak még mindig 6 hónapos évvel számoltak (kérdés, hány naposak voltak a hónapjaik).  
 
 
-[[B/Bal és jobb\|Bal és jobb]] címnél és Tilak Orion című könyvében írottak alapján kiderül, hogy a védikus ind nyelvben a (Napút) félév(ének) neve `ayana`, ahol `yana` = (Nap)út. Azaz nem Mitra nevével számol.  
+[[B/Bal és jobb\|Bal és jobb]] címnél és Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvében írottak alapján kiderül, hogy a védikus ind nyelvben a (Napút) félév(ének) neve `ayana`, ahol `yana` = (Nap)út. Azaz nem Mitra nevével számol.  
 Másutt (130. oldal lábjegyzetében) is az áll, hogy elsődlegesen filológiai bizonyítékok állnak rendelkezésre arra nézve, hogy ketté tagolták az évet.  
 Erről a kettős tagolásról lásd még [[J/Janus\|Janus]], mely János név lehet jön szavunkból eredő vagy inkább (a latin `annus` = év szóhoz is kötve; lásd [[A/Anna\|Anna]], [[A/Annual\|annual]] és [[A/Anus\|anus]]) An/Ana, azaz a Tejútanya [[V/Vulva\|vulvá]]jához, [[K/Köldök\|köldök]]éhez köthető. Másutt már volt szó a hindu [[A/Anuradha\|Anuradha]] nakshatráról is ilyen vonatkozásban, valamint ugye a Tilak által 133. oldalán taglalt szavakban is a jön vagy az An(a) szavakból lehet kiindulni: nála `ayana` = félév, `hayana` = év.  
 
@@ -115,7 +115,7 @@ Itt emlékezhetünk arra, amit Magyar Adorján írt (lásd bővebben [[G/Good\|g
 
 Mármost arról [[C/Canton\|canton]] és [[C/Continent\|continent]] címnél is volt szó, hogy a területeket leginkább vizek, szárazföldön folyók határolják el egymástól (ma is: sok esetben a folyó jelöli ki a megye- vagy országhatár vonalát).
 
-Határolni viszont nemcsak földi területeket lehet, hanem elsősorban ([[S/Szakasz\|szakasz]]olni; lásd erről is [[N/Nome\|nome]], valamint lásd még [[S/Szakrális geometria\|szakrális geometria]]) égi területeket, a [[T/Téridő\|téridő]]t kellett. Úgy tűnik, Tilak Orionjában foglaltak alapján is, hogy az ég egyik szakaszolási, felezési módja a Skorpió-Nyilas közötti, John M. Jenkins adata szerint a Nyilas 6. fokára belőhető [[G/Galactic centre\|Tejútközpont]] mellett az Orion-Szíriusz csillagzatokat, csillagokat magában foglaló [[N/Nyíl\|Nyíl]]/[[T/Tír\|Tír]]/[[T/Tistrya\|Tishtrya]]/[[M/Mrigashira\|Mrigashira]] csillagkép kellett legyen (márpedig ezek: a Tejút két ezen fontos helye egymással szemben álló helyeket jelölnek[^5]).  
+Határolni viszont nemcsak földi területeket lehet, hanem elsősorban ([[S/Szakasz\|szakasz]]olni; lásd erről is [[N/Nome\|nome]], valamint lásd még [[S/Szakrális geometria\|szakrális geometria]]) égi területeket, a [[T/Téridő\|téridő]]t kellett. Úgy tűnik, Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvében foglaltak alapján is, hogy az ég egyik szakaszolási, felezési módja a Skorpió-Nyilas közötti, John M. Jenkins adata szerint a Nyilas 6. fokára belőhető [[G/Galactic centre\|Tejútközpont]] mellett az Orion-Szíriusz csillagzatokat, csillagokat magában foglaló [[N/Nyíl\|Nyíl]]/[[T/Tír\|Tír]]/[[T/Tistrya\|Tishtrya]]/[[M/Mrigashira\|Mrigashira]] csillagkép kellett legyen (márpedig ezek: a Tejút két ezen fontos helye egymással szemben álló helyeket jelölnek[^5]).  
 Kimondottan a(z ezek szerint mégsem oly régi!) Mrigashira név is utalhat arra, hogy egyrészt a Tejúton járunk, másrészt területeket is felosztunk.  
 (Az idő szakaszolása, határolása is kötődhet, ha nem is a marhához, de [[M/Mars\|Mars]]hoz, a Mars havához, a későbbi márciushoz. (Mrigashirsa holdházban, a Skorpióban a Mars uralkodik is.)  
 Ugye a Kos havaként március azért is alkalmas erre a szerepre, mert a nyugati asztrológia szerint a Kos 0. fokához mérték a [[T/Tavaszpont\|tavaszpont]] elmozdulását is.)  
