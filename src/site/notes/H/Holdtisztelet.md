@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Holdtisztelet/","title":"Holdtisztelet","tags":["containstransclusions"],"created":"2025-05-01T16:00","updated":"2026-03-23T23:32"}
+{"dg-publish":true,"permalink":"/H/Holdtisztelet/","title":"Holdtisztelet","tags":["containstransclusions"],"created":"2025-05-01T16:00","updated":"2026-03-25T02:20"}
 ---
 
 
@@ -40,10 +40,16 @@ Holdtiszteletről és a Holddal kapcsolatos babonákról szól Kandra Kabos Magy
 > Artemisz istennő kisázsiai eredetű, akárcsak Apollón: mindkettejük tiszteletét az ősi anatóliai népektől vették át a görögök. A magyarok nő-elvi ágánál kezdettől fogva Hold (és szarvas-, valamint bika-) kultusz volt, míg a hímelvi ág a Nap-vallást követte. A honfoglaláskori Magyarországon volt egy terület, ahol dominánsan érvényesült a bika-kultusz (ez nagyjából egybeesik Tolna megyével).  
 
 Jankovics Marcell szerint általánosságban elmondható, hogy a "nő Nap" "férfi Hold" páros az archaikusabb mítoszokra jellemző.  
-Amikor Jankovics Marcell A Nap könyve című könyvében arról ír, hogy az asztronómiai istenségek közül rendszerint az eget megszemélyesítő isten vagy a napisten a legrangosabb és legfeljebb a Hold (istene) előzi meg, akkor arra kell gondoljak, hogy ez a csillagvallás tana. Írja még itt, hogy ahol az Ég az úr, ott a Nap rangban rögtön utána következik.  
-Nos, ezek alapján Khoda/[[K/Khuda\|Khuda]]-[[G/God\|God]] kutya/Holdisten is lehetne. A germán nyelvekben God Holdisten már csak azért is lehetne, mert a szintén hun-eredetű török és az egyéb iszlámot felvevő népeknél szintén holdtisztelet volt (de a zsidók holdnaptára is sokatmondó).  
+Amikor Jankovics Marcell A Nap könyve című könyvében arról ír, hogy az asztronómiai istenségek közül rendszerint az eget megszemélyesítő isten vagy a napisten a legrangosabb és legfeljebb a Hold (istene) előzi meg, akkor arra kell gondoljak, hogy ez valójában a csillagvallás időszaka és tana. Írja még itt, hogy ahol az Ég az úr, ott a Nap rangban rögtön utána következik.  
+Nos, ezek alapján Khoda/[[K/Khuda\|Khuda]]-[[G/God#Holdisten\|God]] kutya/Holdisten is lehetne. A germán nyelvekben God Holdisten már csak azért is lehetne, mert a szintén hun-eredetű török és az egyéb iszlámot felvevő népeknél szintén holdtisztelet volt (de a zsidók holdnaptára is sokatmondó).  
+
+
 Bognár Ferenc A magyarok istene című cikkében írja, hogy Mahler Ede szerint a [[J/Jahve\|Jahve]]-féle vallás holdtiszteletre épült.  
-A [[S/Szemiták és árják\|szemiták és árják]]nál viszont avar-hun terjesztésű naptisztelet és náluk a hold ugyanúgy hímségivé lett, mint a Nap. Erre utal, hogy [[K/Kanca\|Kanca]]-Honszu-[[K/Konc\|Konc]] még nőiségi, de [[M/Mén\|mén]] már hímségi holdisten, melyről Bakos Attila A Duna Evangéliuma című könyvének 253. oldalán írja:  
+A [[S/Szemiták és árják\|szemiták és árják]]nál viszont avar-hun terjesztésű naptisztelet és náluk a hold ugyanúgy hímségivé lett, mint a Nap. Erre utal, hogy [[K/Kanca\|Kanca]]-Honszu-[[K/Konc\|Konc]] még nőiségi, de [[M/Mén\|mén]] már hímségi holdisten, melyről...
+
+#### Bakos Attila A Duna Evangéliuma...  
+
+...című könyvének 253. oldalán írja:  
 > A kétjelentésű magyar mén szó egyrészt jelenti, ma már csak népiesen, hogy mén, azaz megy, másrészt a hím lovat. A hímelvű Holdisten ősi neve abból az időből, amikor a Hold még saját fénnyel világított\[?\] és hőt adott.  
 
 Azt is tudni kell, hogy a holdtisztelő hunokat követve a sémiknél is a holdfelkeltével kezdődik az új nap (Mahler Ede Ókori chronologiai kutatások című 1915-ös könyvének 11. oldala alján is ír erről).  
