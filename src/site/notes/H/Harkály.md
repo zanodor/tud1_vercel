@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Harkály/","title":"Harkály","created":"2023-10-21T04:51","updated":"2025-09-24T13:58"}
+{"dg-publish":true,"permalink":"/H/Harkály/","title":"Harkály","created":"2023-10-21T04:51","updated":"2026-03-25T02:22"}
 ---
 
 
@@ -17,4 +17,4 @@
 Ipolyi Arnold Magyar mythologia című könyvének 227. oldalától van szó harkályról a világfával is kapcsolatosan, de a [[P/PIK\|PIK]] címnél is említett latin `picus` = harkály és a `ficus` = [[F/Füge\|füge]] hangalaki hasonlósága úgy tűnik, zavart okoz.  
 Vizsgálata ezen hasonlóságon túl azért is érdekes, mert méhvadász és méh és méz a [[M/MES\|MES]]/[[M/MISZ\|MISZ]] miatt is kötődik a Tejútfához.  
 Egyéb idegen nyelvű, érdekes szavak:  
-A (finn `tikka`-ra nem hasonlító) észt `rähn`, mely [[R/RÁN\|RÁN]] alapszót, és a grúz `kodala` = harkály, mely a [[G/God\|God]]/[[G/Göd\|Göd]] szavakat mintázza.  
+A (finn `tikka`-ra nem hasonlító) észt `rähn`, mely [[R/RÁN\|RÁN]] alapszót, és a grúz `kodala` = harkály, mely az [[U/Üt\|üt]] szó előhangos változatát mintázza.  
