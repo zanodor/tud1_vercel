@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Istár/","title":"Istár","tags":["Englishtexttranslated"],"created":"2024-12-18T11:25","updated":"2026-03-05T01:32"}
+{"dg-publish":true,"permalink":"/I/Istár/","title":"Istár","tags":["Englishtexttranslated"],"created":"2024-12-18T11:25","updated":"2026-03-25T02:19"}
 ---
 
 
@@ -132,7 +132,7 @@ A Rómaikhoz 3.23-at az [alábbi](https://qr.ae/pNr19s) Quora oldalra érkezett 
 ## Istár és sztár (star)
 
 Ahogy [ezen](https://qr.ae/pvAJ8i) Quora válaszban is részint taglaltam (avagy írható lett volna), a sztár = csillag kifejezés minden csillagra vonatkozik, de a kiemelt csillag az összes közül maga a Szíriusz a névadó, vagy legalábbis az ilyen nevet viselő Istár, mely ugyan a Szíriuszon kívül a [[V/Vénusz\|Vénusz]] neve is lett, de ezzel itt most nem foglalkozunk.  
-Hasonló esetet látunk a [[K/Kutya\|kutya]] (Ku-Ta) szóban. Nemcsak a Kutyacsillag Szíriusz neve, hanem a Ku-Ta a Fény/Hő Tájaként (a [[H/Huta\|huta]] szavunkat is segítségül hívtuk itt) minden csillagra vonatkozó definíció/deskripció, viszont kutyának csak azt az egy csillagot nevezzük (Procyon-nal itt most nem foglalkozunk).  
+Hasonló esetet látunk a [[K/Kutya\|kutya]] (Ku-Ta) szóban. Nemcsak a Kutyacsillag Szíriusz neve, hanem a Ku-Ta a Fény/Hő Tájaként (a [[H/Huta\|huta]] szavunkat is segítségül hívtuk itt) minden csillagra vonatkozó definíció/körülírás, viszont kutyának csak azt az egy csillagot nevezzük (Procyon-nal itt most nem foglalkozunk).  
 Tehát amíg a csillagos ég bármely csillaga viselheti az általános sztár nevet a szkíta-árja nyelvekben, a specifikus név a Szíriusszal azonos csillagistenség nevére utal. Ahogy a Kutya, [[G/God\|God]], [[G/Göd\|Göd]] és [[S/Szíriusz\|Szíriusz]] címnél írottak szerint is (csillag)Isten.  
 
 ## Istár vagy Ister
