@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2026-03-05T01:22"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2026-03-25T02:18"}
 ---
 
 
@@ -327,7 +327,7 @@ Folytatja itt azon négy közül három hellyel, ahol isa előfordul (a régies 
 > Jézus egyéb hindi neveivel (Yuz Asaf, Isah Manisih) kapcsolatosan írja Mullah Nadiri az 1400-as években:  
 > "Olvastam a hinduk egyik könyvében, hogy a **próféta neve valójában Hazrat Isa volt, azaz Isten lelke**..."  
 
-A fentiek alapján mondhatjuk, hogy az [[I/Isten\|Isten]] szavunk alakváltozataként tekinthető [[O/Ösztön\|ösztön]] is egyfajta (maga az isteni/isa azaz Szent) lélek, mely – ha az állati ösztönt is idevesszük – a [[K/Kutyahitű\|kutyahit]]en keresztül ismét visszakapcsol minket a [[K/Kutya\|kutya]]/[[G/Guta\|guta]] fogalmaihoz és a [[G/God\|God]] cím bevezető soraiban taglaltakhoz: a guta lélek fogalma is adhatja a [[K/Khuda\|Khuda]] és [[G/God\|God]] szavak isten-fogalmát (persze [[G/Göd\|Göd]] címnél írottak alapján a helyzet bonyolultabb).  
+A fentiek alapján mondhatjuk, hogy az [[I/Isten\|Isten]] szavunk alakváltozataként tekinthető [[O/Ösztön\|ösztön]] is egyfajta (maga az isteni/isa azaz Szent) lélek, mely – ha az állati ösztönt is idevesszük – a [[K/Kutyahitű\|kutyahit]]en keresztül ismét visszakapcsol minket a [[K/Kutya\|kutya]]/[[G/Guta\|guta]] fogalmaihoz és a [[G/God\|God]] címnél is taglaltakhoz: a `guta` = lélek fogalma is adhatja a [[K/Khuda\|Khuda]] és [[G/God\|God]] szavak isten-fogalmát (persze [[G/Göd\|Göd]] címnél írottak alapján a helyzet bonyolultabb).  
 
 Por és Pur kapcsán ami még ide tehető.  
 A [[P/Parázs\|parázs]] par- eleme hasonló a [[P/Por\|por]] és [[P/PUR\|pur]] szavakhoz.  
