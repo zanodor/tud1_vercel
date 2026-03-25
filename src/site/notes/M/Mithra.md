@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2026-03-23T23:30"}
+{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2026-03-25T02:19"}
 ---
 
 
@@ -99,7 +99,7 @@ Neve a babiloni [[M/Marduk\|Marduk]]éhoz hasonlóan (Mit/MISZ-Ra felbontás ill
 - A reggeli Nap szerepköre mellett szól Jankovics Marcell sora:  
 > Avesztai jelzője "saját fénnyel telt", "ragyogó", "sohasem alvó". Úgy tartották, együtt jár a Nappal, pontosabban szólva, már a Nap előtt fenn van az égen (a védikus szövegekben ő kelti a Napot), és csak a Nap után tér nyugovóra.  
 
-Új, [[M/MISZ\|MISZ]]-nél taglalt információk szerint szabályos SZ>T változással MIT is fehér, fényes, stb. jelentéseket takar, mely szépen összevágni látszik a reggeli, dél felé, azaz ereje teljébe tartó Nap minőségének deskripciójával.  
+Új, [[M/MISZ\|MISZ]]-nél taglalt információk szerint szabályos SZ>T változással MIT is fehér, fényes, stb. jelentéseket takar, mely szépen összevágni látszik a reggeli, dél felé, azaz ereje teljébe tartó Nap minőségének leírásával.  
 
 Ha már Napminőségekről van szó, Jankovics Marcell A Nap könyve c. könyvének [[H/Háromszögletű Nap\|háromszögletű Nap]] címnél is szereplő adata szerint az ókori Egyiptomban [[N/Négy\|négy]] Napot azaz Napminőséget különböztettek meg: a kelő, delelő és a lenyugvó Nap alkotta a nappali triászt, mely kiegészült az éjszakai (halott: lásd [[N/Nap – halott Nap\|Nap – halott Nap]]) napisten személyével. Magyar analógiája is létezik mindennek. Beszámol ugyanis biz. Bosnyák Sándor arról, hogy a szegedi házhomlokzatok, tetők mintázatában "a szegedi parasztok a napfelkeltét, a delelést, a napnyugtát, a alul a zárt rekeszekben az éjszakát látják."  
 ![assets/Mithra_image3.png|fix_dark fix_light](/img/user/M/assets/Mithra_image3.png)  
