@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Q/Quetzalcoatl/","title":"Quetzalcoatl","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2024-12-18T11:34","updated":"2026-03-05T01:36"}
+{"dg-publish":true,"permalink":"/Q/Quetzalcoatl/","title":"Quetzalcoatl","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2024-12-18T11:34","updated":"2026-03-25T02:20"}
 ---
 
 
@@ -99,7 +99,7 @@ Viszont nemcsak a belső, a külső bolygók is napisteni vonatkozásúak. Janko
 ...című könyvében Quetzalcoatl Esthajnalcsillag-isten éjszakai párja viszont [[T/Teszkatlipoka\|Teszkatlipoka]]:  
 > A hagyomány szerint [[P/Prométheusz\|Prométheusz]] botba rejtve lopta le a Nap tüzét az égből (a metaforának a fapálcával való ősi tűzcsiholási mód az alapja). Mexikóban Kecálkoátl Esthajnalcsillag-istent és éjszakai párját, [[T/Teszkatlipoka\|Teszkatlipoká]]t "Egy Nád"-nak és "Két Nád"-nak nevezték annak okán, hogy a tűz bennük van. (A tűz tárolására, szállítására primitív körülmények között az üreges nád kiválóan alkalmas. Könnyen lángra kapó bele, mely a frissen csiholt tüzet is táplálta, a két végén bedugaszolt náddarab belsejében levegő híján parázslik csak.)  
 
-Mindezek alapján a név értelmezésére visszatérve ([[K/Követ\|követ]] címnél írottak alapján is) elmondható, hogy neve Kecel-Kő, azaz Keccsölő/Cikázó Kő (a [[K/KU\|KU]] égitestet is jelent) és valóban a Vénuszra utalhat a név. Tulajdonképpen az Isten neve egy magyar nyelven érthető deskripció, körülírás, de más kultúrák istennevei is azok.  
+Mindezek alapján a név értelmezésére visszatérve ([[K/Követ\|követ]] címnél írottak alapján is) elmondható, hogy neve Kecel-Kő, azaz Keccsölő/Cikázó Kő (a [[K/KU\|KU]] égitestet is jelent) és valóban a Vénuszra utalhat a név. Tulajdonképpen az Isten neve egy magyar nyelven érthető körülírás, de más kultúrák istennevei is azok.  
 
 Valójában a helyes értelmezést az adja meg, ha pontosan meghatározzuk, mit is jelölt, minek is volt istene Qutezalcoatl.  
 Kezdjük hátulról. A nahuatl nyelvű `coatl` = kígyó, iker, pipil `kuat`, `cúat` = kígyó[^4]. Legutóbb [[S/Sárkány\|sárkány]] címnél, kígyó és kutya részben volt szó arról, hogy a görög `küón` = kutya valójában egyezik a Magyar Adorján által kígyó jelentéssel valószínűsített kion, küon alakú szavakkal. Mit látunk a Qutezalcoatl ábrázoláson? Koponyatorzított kutyafejet kígyótesttel.  
