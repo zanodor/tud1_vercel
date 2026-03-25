@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Liberalizmus/","title":"Liberalizmus","tags":["Englishtexttranslated"],"created":"2023-12-21T10:10:00","updated":"2024-10-25T22:36"}
+{"dg-publish":true,"permalink":"/L/Liberalizmus/","title":"Liberalizmus","tags":["Englishtexttranslated"],"created":"2023-12-21T10:10:00","updated":"2026-03-25T02:21"}
 ---
 
 
@@ -26,7 +26,7 @@ Kubínyi Tamás úgy fogalmaz, hogy a liberálisok a mindenkivel való jól megf
 
 ## Liberalizmus és terrorizmus
 
-[Ezen](https://www.youtube.com/watch?v=2zm8ut6rTnU) videó deskripciójában...
+[Ezen](https://www.youtube.com/watch?v=2zm8ut6rTnU) videó leírásában...
 
 #### Bogár László...  
 
