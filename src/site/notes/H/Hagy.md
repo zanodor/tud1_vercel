@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hagy/","title":"Hagy","tags":["Englishtexttranslated"],"created":"2024-11-09T01:30","updated":"2025-06-08T00:43"}
+{"dg-publish":true,"permalink":"/H/Hagy/","title":"Hagy","tags":["Englishtexttranslated"],"created":"2024-11-09T01:30","updated":"2026-03-25T02:22"}
 ---
 
 
 # Hagy
 
-Hagyni igénk eredete [[A/Ad\|ad]] flexiós változata (mint ad ellentéte), vagy [[H/Ház\|ház]] > had > hagy (otthon hagy; haza = [[H/Hoz\|hoz]] = hagy) lehet.  
-Azonosnak látszik vele a Kasgari gyűjtötte oszmán-török `kod` = (fel)hagy, letesz, mely egyúttal a [[G/God\|God]] címnél említett perzsa visszaható névmást is idézi. Lehetséges "istenre bíz" jelentést adni neki?  
+`Hagy` igénk eredete [[A/Ad\|ad]] flexiós változata (mint ad ellentéte), vagy [[H/Ház\|ház]] > had > hagy (otthon hagy; haza = [[H/Hoz\|hoz]] = hagy) lehet.  
+
+Azonosnak látszik vele a Kasgari gyűjtötte oszmán-török `kod` = (fel)hagy, letesz, mely egyúttal a több helyen, pl. [[O/Önazonosítás\|önazonosítás]] címnél említett perzsa `khod` visszaható névmást is idézi.  
+> [!question] &nbsp;
+> Lehetséges "istenre bíz" jelentést adni neki?
+
 A japán `hottoku` = hagyni ige szintén egyezik vele (-ku végződéses/igeneves ige).  
 Ezek finnugor párjait például [ezen](https://en.wiktionary.org/wiki/kadota) oldalon találjuk meg:  
 > A proto-finn \*kadot'ak-ból, a proto-uráli \*kaďa(w)-ból ("elhagyni"). Szinte minden uráli nyelvben találunk rokon nyelveket, pl. északi lapp `guođđđit` ("elhagyni valamit, távozni"), skolt lapp `kuéđđđed` ("elhagyni valamit"), moksa `кадомс` (kadoms, "elhagyni"), erzya `кадомс` (kadoms, "elhagyni"), keleti mari `кодаш` (kodaš, "maradni"), udmurt `кыльыны` (kylʹyny, "maradni"), magyar `hagy` ("hagyni; hagyni"), mansi `хули` (huli, "hagyni"), szelkup (/quəčə-/, "elhagyni"). A törzs magánhangzójának labializációja már a proto-finn nyelvben is előfordult, vö. észt `kadu` ("veszteség"), észt `kaduma`.  
@@ -24,7 +28,6 @@ Az észt `kadu` = veszteség szó alakja és jelentése kapcsán említsük meg 
 
 ```plantuml-svg
 @startuml
-left to right direction
 skinparam BackGroundColor transparent
 skinparam rectangle {
     BackgroundColor #ccbe78
