@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Karácsony/","title":"Karácsony","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2026-03-05T01:24"}
+{"dg-publish":true,"permalink":"/K/Karácsony/","title":"Karácsony","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2026-03-25T02:18"}
 ---
 
 
@@ -76,7 +76,7 @@ Valójában szarv-szarvas lehet és nem-e a Szarvas = [[S/Suhurmasku\|Suhurmasku
 
 Az [alábbi](https://youtu.be/Ha3nHzafTJU) videóban a karácsony szavunkat HungarianHistory3 elsőként egy karacsun névvel azonosítja, ahol az altaji-türknek mondott szóban `kara` = sötét és `csun` = átfordulás lenne. Még logikusnak is mondja. Hát én még ezt sosem hallottam. De ő is csak egy alternatívának említi. Utána jön a kerecsennel. 
 
-Valahol a türkből való levezetést úgy láttam, hogy karasun annyi lenne, mint a sötétség vége. Quora oldalon [[O/Onogur\|onogur]] címnél említett kérdés-válaszban ki is fejtettem, hogy egész pontos a deskripció, de nem az eredeti. Megtaláltam közben:  
+Valahol a türkből való levezetést úgy láttam, hogy karasun annyi lenne, mint a sötétség vége. Quora oldalon [[O/Onogur\|onogur]] címnél említett kérdés-válaszban ki is fejtettem, hogy egész pontos a körülírás, de nem az eredeti. Megtaláltam közben:  
 Az [alábbi](https://spiritan.hu/teli-napfordulo-karacsony/) oldalon szereplő adat szerint a belső-ázsiai türk népeknél használt Kara-čun kifejezés jelentése Sötétség Elmúlása/Vége, meg hogy türk hatásra vették volna át a szláv nyelvek illetve a román is: a téli napforduló mindenhol a sötétség elmúlásának napja lenne a cikkíró szerint[^8]. Megadja az alábbi nyelvek szavait is:  
 > *Belarusz: Карачун, Karacsun;  
 > Bolgár: Крачон, Kracson or Крачунек, Kracsunek  
