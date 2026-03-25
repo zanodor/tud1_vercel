@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated"],"created":"2024-05-03T12:19","updated":"2026-03-19T17:56"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-03T12:19","updated":"2026-03-25T02:19"}
 ---
 
 
@@ -203,6 +203,11 @@ A tő másik neve [[G/Gyökér\|gyökér]], mely gyöke, `gyök` = [[D/DUG\|dug]
 [[N/Nap#Nap az Orionban\|Nap az Orionban]] cím/alcímnél és legutóbb [[T/Tages\|Tages]] címnél (és sok más címnél) is szó volt arról, hogy a Nap alapjelentésű szavak másodlagosan fény (világosság; lásd Kállay adatával is [[D/Day\|day]]) és hegy jelentésűek és ahogy ott, itt is áll a megállapítás, hogy a [[D/DUG\|DUG]] ([[D/DAG\|DAG]]) megfordítása [[K/Kutya\|Ku-Ta]]/[[H/Hegy\|Hegy]].  
 A ([[D/Double\|double]]-nál is felhozott) [[T/Több\|több]] is ide tartozik. A magyar nyelv tehát világosan fogalmaz: a több itt kevesebb/rosszabb: [[E/Egy\|Egy]] Istenre van szükség, de az osztásos és a sötétet semlegesként értékelendő fény-árnyék viszonyra épülő rendszer [[S/Szakrális geometria\|szakrális-geometrikus]] voltát érteni kell.  
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/S/Szakrális geometria/#ovbsl7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
 ```plantuml-svg
 @startuml
 left to right direction
@@ -234,6 +239,9 @@ head -- w6
 w6 -right- w7
 @enduml
 ```
+
+</div></div>
+
 
 ### Ördög mint Sátán
 
