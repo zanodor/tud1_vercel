@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar istencsalád/","title":"Magyar istencsalád","tags":["Englishtexttranslated"],"created":"2023-11-30T10:05","updated":"2026-03-05T01:37"}
+{"dg-publish":true,"permalink":"/M/Magyar istencsalád/","title":"Magyar istencsalád","tags":["Englishtexttranslated"],"created":"2023-11-30T10:05","updated":"2026-03-25T02:20"}
 ---
 
 
@@ -62,8 +62,9 @@ Megjegyzés: a feleség értelem asszony és nő (honnan is: nej, nejem) alapér
 
 ## A férj és feleség, Orion és Szíriusz összetartozósága
 
-Főleg [[I/Íj csillagkép\|Íj csillagkép]], [[O/Orion övcsillagai\|Orion övcsillagai]], [[K/Kovács és a kutya\|kovács és a kutya]] és sok más helyen szó esett arról, hogy ezek összetartoznak. [[K/Khuda\|Khuda]] és [[G/God\|God]] címnél még ez is elhangzott az iráni `Khuda` kapcsán:  
-Ergo a perzsa [[K/Khuda\|Khuda]] = isten lehet kutya, hugya és Kutya csillagkép, sőt, mivel [[G/Gábor\|Gábor]] és [[K/Kutyahitű\|kutyahitű]] címnél az Orionról is volt szó, akár Orion plusz Szíriusz is lehetne akár.  
+Főleg [[I/Íj csillagkép\|Íj csillagkép]], [[O/Orion övcsillagai\|Orion övcsillagai]], [[K/Kovács és a kutya\|kovács és a kutya]] és sok más helyen szó esett arról, hogy ezek összetartoznak.  
+  
+A perzsa [[K/Khuda\|Khuda]] = isten lehet kutya, hugya és Kutya csillagkép, sőt, mivel [[G/Gábor\|Gábor]] és [[K/Kutyahitű\|kutyahitű]] címnél az Orionról is volt szó, akár Orion plusz Szíriusz is lehetne akár.  
 
 ## Lábjegyzetek
 
@@ -79,4 +80,4 @@ Az azon címnél közölt FÉNY-FENE diagram is a valós, kis és Nagy Éves id�
 
 [^4]: Lábjegyzet:  
 Dr. Gyárfás Ágnes az Ősi Gyökér 2009/2. számának 79. oldalán álló adata [[E/Épít\|épít]] címnél is megvolt:  
-É PIT két gyökszó. Jelenti azt is, hogy ház, templom és azt is, hogy épít, alkot, magasra rakja a falat. Nimrud égi házat épített Emének, Inannának.  
+É-PIT két gyökszó. Jelenti azt is, hogy ház, templom és azt is, hogy épít, alkot, magasra rakja a falat. Nimrud égi házat épített Emének, Inannának.  
