@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions"],"created":"2025-06-12T01:36","updated":"2026-03-05T01:32"}
+{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions"],"created":"2025-06-12T01:36","updated":"2026-03-25T02:19"}
 ---
 
 
@@ -8,7 +8,7 @@
 Bár alanyi jogon is értelmezhető, [[K/Kutya\|kutya]] szavunk (és [[S/Suta\|suta]] szavunk) alakváltozatának tekinthető.  
 Utóbbi címnél egy levezetésbe is bocsátkoztunk.  
 
-Végeredményben Csoda/Csuda lehet Isten neve/jelzője. [[I/Isten\|Isten]] címnél kifejtettük, hogy Isten valójában inkább istennő, kinek állatalakbani megnyilvánulása az a [[C/Csudaszarvas\|Csudaszarvas]], mely (egyrészt [[S/Szarvas\|szarvas]] címnél Isten fogalmával vétetett össze) az egész csillagos eget és a Tejút sávját is szimbolizálja (bár mivel leginkább a Tejútrendszer csillagait látjuk a csillagos égen, ezért a kettő egy és ugyanaz). Ezen Csoda szóval azonos viszont a [[K/Kutya\|kutya]] és a Kutyacsillag Szíriuszról tudjuk, hogy az is istennő (de – Orionból irányuló – hímségi aspektusa is van) és hogy a Kutya nem választható el a Tejúttól (legalábbis isteni felfogásukat tekintve). Ez a Csoda és Kutya az, amely jó eséllyel a [[S/Szkíta\|szkíta]] és perzsa Khoda/[[K/Khuda\|Khuda]] és a germán [[G/God\|God]] nevek eredetét adja meg. Viszont a [[G/Göd\|Göd]] nevet se felejtsük el.  
+Végeredményben **Csoda/Csuda lehet Isten neve/jelzője**. [[I/Isten\|Isten]] címnél kifejtettük, hogy Isten valójában inkább istennő, kinek állatalakbani megnyilvánulása az a [[C/Csudaszarvas\|Csudaszarvas]], mely (egyrészt [[S/Szarvas\|szarvas]] címnél Isten fogalmával vétetett össze) az egész csillagos eget és a Tejút sávját is szimbolizálja (bár mivel leginkább a Tejútrendszer csillagait látjuk a csillagos égen, ezért a kettő egy és ugyanaz). Ezen Csoda szóval azonos viszont a [[K/Kutya\|Kutya]] és a Kutyacsillag Szíriuszról tudjuk, hogy az is istennő (de – Orionból irányuló – hímségi aspektusa is van) és hogy a Kutya nem választható el a Tejúttól (legalábbis isteni felfogásukat tekintve). Ez a Csoda és Kutya az, amely jó eséllyel a [[S/Szkíta\|szkíta]] és perzsa [[K/Khuda\|Khoda]] és a germán [[G/God\|God]] nevek eredetét adja meg. Viszont a [[G/Göd\|Göd]] nevet se felejtsük el.  
 
 A csoda, csuda szavunk tulajdonképpeni értelme [[F/Fény\|fény]], írja Magyar Adorján (lásd külön alcímet lentebb). (De a [[M/Mirage\|mirage]] és [[M/Miracle\|miracle]] = csoda szóban található [[M/MIR\|MIR]] is fényt jelent.)  
 Igen ám, de mivel a csuda a szarvas mellékneve, és az az éji égen keresendő, ezért nem a napközbeni süt fogalmával párosítunk, hanem az éjszakai csillagfényekre.  
@@ -94,13 +94,13 @@ Lehetséges, hogy már a szemita identitás létrejötte előtt...
 
 ...a szkíta népek magukat isten népének tartották és ez a képzet maradt meg a menet közben elszemitásodott zsidóknál...?  
 
-Amikor Hérodotosz – nyilván nem minden előzmény nélkül – a szkíták nevét megtudja ill. rögzíti, `skytha`-ként, és ezt a nevet görgetjük a latinon keresztül tovább, elveszik a név illetve a mögöttes fogalom eredeti értelme és torzul az eredet névalak is. A [[S/Szkíta\|szkíta]] és [[Z/Zsidó\|zsidó]] nevek lehetséges eredetével már a helyükön foglalkoztunk, de ilyen tágabb, germán [[G/God\|God]] és iráni [[K/Khuda\|Khoda]] neveket is tömörítő írás még nem született.  
+Amikor Hérodotosz – nyilván nem minden előzmény nélkül – a szkíták nevét megtudja ill. rögzíti, `skytha`-ként, és ezt a nevet görgetjük a latinon keresztül tovább, elveszik a név illetve a mögöttes fogalom eredeti értelme és torzul az eredet névalak is. A [[S/Szkíta\|szkíta]] és [[Z/Zsidó\|zsidó]] nevek lehetséges eredetével már a helyükön foglalkoztunk.  
 
 Mit látunk? Azt, hogy a szkíta név indogermán íjfeszítő/íjjal lövő (ld. [[S/Shoot\|shoot]]) értelmezésén keresztül kimondhatjuk, hogy a szkíta ember magát a nyári napfordulós [[I/Íj csillagkép\|Íj csillagkép]]pel, tulajdonképpen az éggel, égből való eredetével azonosítja, mely ég neve lehet `csuda`, az ég jelképe a [[C/Csudaszarvas\|Csudaszarvas]], és a földről nézett Nap éves útján elért legmagasabb pontja a hegy ([[K/Kutya\|Ku-Ta]]) csúcsa, mely hegyeket istentiszteleti célokra használtak és ahol ilyen nem volt, ott [[T/Tájépítés\|megépített]]ék hegyeiket.  
 
 Ki kell mondani, hogy a Khoda-God alakok ugyanerre a [[K/Kutya\|Ku-Ta]] = istenhegy összefüggésre mennek vissza, azaz – ősi iráni kutyatisztelet ide vagy oda – nem közvetlenül a [[K/Kutya\|kutya]] névre megy vissza az eredetük, ahogy – előítéleteink által vezérelve(?) – a zsidó névnél sem lehet egyszerűen [[S/Széth\|Széth]]/[[S/Sátán\|sátán]] vonalon megállapítani az eredetet, főleg, hogy a nyári napfordulós ponthoz egyszerre tartozik egy pozitív (fényes) és negatív (sötét) értelem. Sőt, ahogy [[S/Sátán\|sátán]], [[D/Dialektikus ellentét\|dialektikus ellentét]] és több más címnél taglaltuk, eredetileg leginkább semlegesnek tekintették a két pólust, hiszen törvényszerű, hogy nyáron meleg van és télen hideg, minden egy körforgás eredménye – csak értelmezés kérdése minden.  
 
-Ettől fogva mondhatjuk, hogy a Devakuta kifejezés pleonasztikus, hiszen az előtag istent jelent, és az utótagból látszik eredni az istent jelentő iráni és germán szó ([[K/Khuda\|Khoda]] és [[G/God\|God]]).  
+Ettől fogva mondhatjuk, hogy a Devakuta kifejezés pleonasztikus, hiszen az előtag istent jelent, és az utótagból látszik valamiféleképpen eredni az istent jelentő iráni és germán szó ([[K/Khuda\|Khoda]] és [[G/God\|God]]).  
 A nyelvészet persze nem foglalkozik [[S/Szakrális geometria\|szakrális geometriá]]val és, miután a proto-indoeurópai szógyökökre való visszavezetésekkel véglegesítették álláspontjukat, nem fogják belátni, hogy itt összefüggéseket lehet keresni. Ők már elkönyvelték, hogy a perzsa Khuda/Khoda név eredete az "önmaga által teremtett" fogalomhoz, a germán Gott/God pedig az 'invokált' fogalomhoz kötődik. Innentől kezdve akárki mondhat akármit, maximum "ezoterikus zagyvaságnak" fog hatni. Miért? Mert a jelenlegi oktatásrend nem tiszteli az ősöket és magas rendű mellérendelő gondolkodásukat, melyben nagyon is szerepet kapott az absztrakció. Ez nem valami új indoeurópai találmány.  
 
 
