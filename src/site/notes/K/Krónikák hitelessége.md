@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Krónikák hitelessége/","title":"Krónikák hitelessége","created":"2024-12-16T18:43","updated":"2026-03-09T22:09"}
+{"dg-publish":true,"permalink":"/K/Krónikák hitelessége/","title":"Krónikák hitelessége","created":"2024-12-16T18:43","updated":"2026-03-27T23:04"}
 ---
 
 
@@ -36,7 +36,7 @@ Nemcsak a krónikák, hanem úgy általában a források, kútfők, egyes szerz�
 #### Götz László Keleten kél a Nap...
 
 ...című könyvében írja:
-> Schlözerben legalább volt még annyi nyíltság, hogy köntörfalazás nélkül kimondta: Erdély a szászoké, mert ők voltak ott az első foglalók. Rössler már sokkal körmönfontabb. A szólásmondásbeli tolvajhoz hasonlóan, aki az őt üldöző sokaságba vegyülve a leghangosabban kiáltja: "fogjátok meg", Anonymust használja fel arra, hogy a németek vélt joga: it Pannóniára, amelyeket Nagy Károly hódításaiból eredeztetettek, s az egész középkor folyamán, de még a 19. sőt a 20. században is változatlanul hangoztattak – emlékezzünk csak a hitleri időkre! –, azzal igazolja, hogy a magyaroknak semmi közük a hunokhoz, avarokhoz, a Nagy Károly-féle jogigény tehát régebbi mint a magyaroké, akik csak "önkény és jogtalanság által jutottak birtokukba".  
+> Schlözerben legalább volt még annyi nyíltság, hogy köntörfalazás nélkül kimondta: Erdély a szászoké, mert ők voltak ott az első foglalók. Rössler már sokkal körmönfontabb. A szólásmondásbeli tolvajhoz hasonlóan, aki az őt üldöző sokaságba vegyülve a leghangosabban kiáltja: "fogjátok meg", Anonymust használja fel arra, hogy a németek vélt joga: it Pannóniára, amelyeket Nagy Károly hódításaiból eredeztettek, s az egész középkor folyamán, de még a 19. sőt a 20. században is változatlanul hangoztattak – emlékezzünk csak a hitleri időkre! –, azzal igazolja, hogy a magyaroknak semmi közük a hunokhoz, avarokhoz, a Nagy Károly-féle jogigény tehát régebbi mint a magyaroké, akik csak "önkény és jogtalanság által jutottak birtokukba".  
 > Erre ment ugyanis a játék a 19, századi pángermán körökben, nem másra. Ezért kellett a hun-avar-magyar kapcsolatokat minden áron tagadni, krónikáinkat és az egyéb számos egykorú forrásművet, amelyek a magyarokat avaroknak vagy hunoknak nevezték, egytől egyig tudákos krónikás kitalálásnak nyilvánítani.  
 
 Másutt:  
