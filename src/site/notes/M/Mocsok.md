@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mocsok/","title":"Mocsok","created":"2025-09-16T13:23","updated":"2026-03-05T01:53"}
+{"dg-publish":true,"permalink":"/M/Mocsok/","title":"Mocsok","created":"2025-09-16T13:23","updated":"2026-03-27T13:25"}
 ---
 
 
