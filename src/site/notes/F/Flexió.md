@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2026-03-03T17:22"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2026-03-27T23:07"}
 ---
 
 
@@ -20,7 +20,22 @@ Könyvének 133. oldalán tér vissza a témára, indogermán és szemita péld�
 
 ## Hangfejlődés és hajlítás
 
-[[H/Ház\|Ház]] szónál került szóba, hogy k-előtétes szavak másutt h-előhangosak. Ilyenkor a nyelvészet nyilvánvalóan mindig [[N/Nyelvészet mint tudomány#Grimm-féle hangtörvények\|Grimm-féle]] "szabályos" hangfejlődésekben fog gondolkodni. A fókuszba az kerül, hogy adott szavakról adott vizsgálati környezetben, adott(?) szabályszerűségek szerint valami tudományosat kell kanyarítani. Mindeközben megfeledkeznek a régi ember [[A/Analógikus gondolkodásmód\|analógiás gondolkodás]]áról, nyelveik szóalkotásának azon igényéről, hogy a hasonlót a hasonlóval fejezzék ki: tehát nem annyira hangfejlődésekről van (csak) szó; nem szabad figyelmen kívül hagyni, hogy egyes szavak flexiós változatait kell inkább észrevenni (értsd: szándékosan készülnek pl. k- és h-előhangos formák hasonló ideák kifejezésére).  
+[[H/Ház\|Ház]] szónál került szóba, hogy k-előtétes szavak másutt h-előhangosak. Ilyenkor a nyelvészet nyilvánvalóan mindig [[N/Nyelvészet mint tudomány#Grimm-féle hangtörvények\|Grimm-féle]] "szabályos" hangfejlődésekben fog gondolkodni. A fókuszba az kerül, hogy adott szavakról adott vizsgálati környezetben, adott(?) szabályszerűségek szerint valami tudományosat kell kanyarítani.  
+(A jelenséget bőven taglaltuk [[G/God\|God]] helyen.)  
+
+Mindeközben megfeledkeznek a régi ember [[A/Analógikus gondolkodásmód\|analógiás gondolkodás]]áról, nyelveik szóalkotásának azon igényéről, hogy a hasonlót a hasonlóval fejezzék ki: tehát nem annyira hangfejlődésekről van (csak) szó; nem szabad figyelmen kívül hagyni, hogy egyes szavak flexiós változatait kell inkább észrevenni (értsd: szándékosan készülnek pl. k- és h-előhangos formák hasonló ideák kifejezésére).  
+
+Ahogy [[L/Logosz\|logosz]] és [[N/Népetimológia\|népetimológia]] címnél is írtuk:  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/L/Logosz/#efotar" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> [!check] &nbsp;
+> A belső flexióval létrehozott szóváltozatok egymást magyarázzák, segítenek az eredeti, kiinduló szövegkörnyezet feltérképezésében. 
+
+</div></div>
+
 
 ## Magyar hajlítás mint nyelvünk szavainak alapképessége
 
