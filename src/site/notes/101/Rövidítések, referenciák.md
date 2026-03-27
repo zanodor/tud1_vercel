@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2025-11-16T00:05"}
+{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2026-03-27T23:04"}
 ---
 
 
