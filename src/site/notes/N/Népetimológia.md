@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts","containstransclusions"],"created":"2025-07-16T14:23","updated":"2026-03-09T22:09"}
+{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts","containstransclusions"],"created":"2025-07-16T14:23","updated":"2026-03-30T15:25"}
 ---
 
 
@@ -12,7 +12,7 @@ Sok előítélet kapcsolódik ahhoz a tevékenységhez, amit ezzel a kifejezéss
 
 
 > [!check] &nbsp;
-> A "hivatalos" népetimológia még mindig jobb, mint a házilag gyártott. 
+> A "hivatalos" [[N/Népetimológia\|népetimológia]] még mindig jobb, mint a házilag gyártott. 
 
 </div></div>
 
@@ -27,7 +27,21 @@ Megint csak az az embernek az érzése, hogy ezek látszat tevékenységek egy l
 > \[...\]
 > Emlékeztetnék arra, hogy a fogalmak közötti összefüggés olykor csupán a szavak homofóniáján alapuló "népi etimológizálás" következménye: mindazonáltal az ember jelképteremtő kedvének ez nem szabott gátat a későbbiekben sem.  
 
-Épp ez a lényeg. A nép alkotja, bővíti a szókincsét, "hasonlót a hasonlóval" alapon, a [[F/Flexió\|flexió]] címnél taglalt apró hajlításokkal. A nyelv alakítása nem papi privilégium és a nyelvek nem a népek patriarchalizálódása folyamán keletkeztek, hanem olyan (a beláthatatlanul messzi múltba vesző) időben, amikor az [[A/Analógikus gondolkodásmód\|analógiás gondolkodás]] volt a meghatározó.  
+**Épp ez a lényeg.**  
+
+Ahogy [[L/Logosz\|logosz]] címnél is írtuk:  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/L/Logosz/#efotar" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> [!check] &nbsp;
+> A belső flexióval létrehozott szóváltozatok egymást magyarázzák, segítenek az eredeti, kiinduló szövegkörnyezet feltérképezésében. 
+
+</div></div>
+
+
+A nép alkotja, bővíti a szókincsét, "hasonlót a hasonlóval" alapon, a [[F/Flexió\|flexió]] címnél taglalt apró hajlításokkal. A nyelv alakítása nem papi privilégium és a nyelvek nem a népek patriarchalizálódása folyamán keletkeztek, hanem olyan (a beláthatatlanul messzi múltba vesző) időben, amikor az [[A/Analógikus gondolkodásmód\|analógiás gondolkodás]] volt a meghatározó.  
 A nép tehát nem nyelvészkedett, nem a szavak eredetét akarta meghatározni, nem holmi papi szektákból később kialakult nyelvész szekták megélhetését akarta elvenni, pusztán használni a nyelvet és a nyelvhasználat során a szókincset bővíteni, népi műveltségének keretei között.  
 - Arról több helyen volt szó, hogy az idegen nyelven eltérő szavai úgy alakulnak ki, hogy egy közös ősi mondai vagy szakrális indíték más mondanivalóval szolgál és a régi szóhoz egy új jelentést társítanak. Kis gyakorlattal (lehetőség szerint a megfelelő mondai környezet ismeretével) ezeket észre lehet venni. Csak ugye amikor ezeket a szövegkörnyezeteket vizsgálni kezdi az ember, akkor jönnek: "népetimológia!" És ők "nyertek".
 - Az is nehézséget okoz, hogy eldöntsük, hogy az utódnyelvek ilyen szóalkotásában – pl. [[A/Aphrodité#^pnl4fk\|Aphrodité]] < görög `apros` = hab – utóbbi szót önkényesen alkotta ki, és nem lehet magyar (rokon) szóval azonosítani, vagy igen (Habur?). Nehéz minden szónak utánajárni és az ötletelések önkényesnek tűnnek.
