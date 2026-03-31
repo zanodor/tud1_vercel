@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mongol/","title":"Mongol","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-24T16:46","updated":"2026-03-03T18:27"}
+{"dg-publish":true,"permalink":"/M/Mongol/","title":"Mongol","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-24T16:46","updated":"2026-03-31T18:32"}
 ---
 
 
@@ -37,8 +37,11 @@ A mongol népnév (endonim) etimológiája körül több elmélet is létezik, a
 
 A fentieket és még többet felírtam [ezen](https://qr.ae/pCEKkI) Quora posztba. Az is szerepelt ott, hogy:  
 > [!check] &nbsp;
-> A "hivatalos" népetimológia még mindig jobb, mint a házilag gyártott.
+> A "hivatalos" [[N/Népetimológia\|népetimológia]] még mindig jobb, mint a házilag gyártott.
 { #2mj1t2}
+
+
+
 
 
 ---
