@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2026-03-27T23:07"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2026-03-31T18:32"}
 ---
 
 
@@ -122,7 +122,7 @@ A kutyára visszatérve, [[E/EB\|eb]] és [[A/Apa\|apa]] szavaink [[I/Ív\|ív]]
 Más, ilyen fel- és alhangos párok közül itt van a [[H/Hang\|hang]] és [[E/Ének\|ének]]; akkor látszik jól, hogy azonosak, ha a szóelejei [[A/Ang\|hehezetet eltávolítjuk]] (a török `ong` = hang és japán `ongaku` = zene szóban sincs meg).  
 A [[E/Év#maja haab\|maja haab]] is `év` szavunkkal feleltethető meg.  
 
-Sok más szópár ismert: [[I/Isten\|Isten]] – [[O/Ösztön\|ösztön]], [[V/Vessző\|vessző]] – [[F/Fasz\|fasz]]; [[V/Víz\|víz]] szavunk [[V/Vedel\|vedel]], [[V/Vödör\|vödör]], [[V/Vád\|vád]]ol, [[V/Vese\|vese]] szavakban ugyanúgy megtalálható; fentebb említett [[H/Ház\|ház]] szavunk (közös gyöke) ismerendő fel olyan szavakban, mint [[H/HAS\|has]], [[K/KAS\|kas]], [[K/KÁD\|kád]], [[K/Kagyló\|kagyló]], [[H/HAT\|hat]], mint [[H/Hathor\|Hathor]] névben, stb.  
+Sok más szópár ismert: [[I/Isten\|Isten]] – [[O/Ösztön\|ösztön]], [[K/Kés\|kés]] – [[K/Kasza\|kasza]], [[V/Vessző\|vessző]] – [[F/Fasz\|fasz]]; [[V/Víz\|víz]] szavunk [[V/Vedel\|vedel]], [[V/Vödör\|vödör]], [[V/Vád\|vád]]ol, [[V/Vese\|vese]] szavakban ugyanúgy megtalálható; fentebb említett [[H/Ház\|ház]] szavunk (közös gyöke) ismerendő fel olyan szavakban, mint [[H/HAS\|has]], [[K/KAS\|kas]], [[K/KÁD\|kád]], [[K/Kagyló\|kagyló]], [[H/HAT\|hat]], mint [[H/Hathor\|Hathor]] névben, stb.  
 M>N változásra sok példa van; itt csak a magyar [[M/Magas\|magas]] szó gyökét mutassuk be [[N/Nagy\|nagy]] szavunk párjaként.  
 [[M/Magyar szavak, szórészek alakváltozatai\|Magyar szavak, szórészek alakváltozatai]] címnél korábban más példákat is bemutattunk.  
 A fentebb idézett Végvári József [[S/Szócsaládok\|szócsalád]]-rendszere is szavak hajlított hangjaiból épülő szópárjai közti lehetséges kapcsolatok feltárásában segíthet (pl. [[O/Ostya\|ostya]]/[[T/Tészta\|tészta]] ← [[T/Test\|test]]).  
