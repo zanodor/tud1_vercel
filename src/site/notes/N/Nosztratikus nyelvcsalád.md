@@ -1,9 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions"],"created":"2024-05-14T11:45","updated":"2026-03-30T17:01"}
+{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions"],"created":"2024-05-14T11:45","updated":"2026-03-31T18:33"}
 ---
 
 
 # Nosztratikus nyelvcsalád
+
+A közös ősnyelv ([nosztratikus nyelvcsalád](https://hu.wikipedia.org/wiki/Nosztratikus_nyelvcsal%C3%A1d)) elmélet hirdetői szerint az uráli, dravida, altaji, indoeurópai és afroázsiai nyelvek távoli unokatestvérek.  
+A Wiki oldalon szereplő mondat...
+>  Az elméletet a nyelvészek többsége erősen vitatja, habár statisztikai érvek szólnak a makrocsaládok koncepciójának helyessége mellett.
+
+...kapcsán jegyezzük meg:  
+> [!fail] &nbsp;
+> A [[T/Tudomány\|tudomány]] részekre szedni, elidegeníteni és alárendeltetni szeret.
+- Ennek munkafelfogásbeli és politikai okai is vannak, de alapvetően minden nyelvcsalád nyelvésze jó megélhetést biztosít magának a saját nyelvcsaládján belül.
 
 #### Péterfai János írja:  
 
@@ -22,13 +31,13 @@
 > ...  
 > H. Schuchardt, Paasonen, Setala, Thomsen és Jacobsen vizsgálatai azonban időközben nyilvánvalóvá tették, hogy az indogermán, a hamito-szemita, a dél-kaukázusi és a finnugor nyelvcsaládok között szorosabb összefüggések mutathatók ki.  
 
-Majd könyvének 178-181. oldalain szemantikai-fonetikai nyelvhasonlítási módszere alapján haladva két alapfogalom hét, illetve kilenc különböző hangalakú szinonim megnevezésének négy nyelvcsaládon keresztül töretlenül kimutatható megfelelésein – a táblázatos adatokat lásd az egyes helyeken (például [[F/FOG\|FOG]]) – keresztül bemutatja, hogy a nyelvcsaládoknak közös ősi gyökerei vannak. A szóegyeztetésekben a szumér nyelvet veszi alapul és ahhoz méri a magyar, az indogermán (angolszász, görög, latin) és a szemita nyelvek (főleg asszír, arab és héber) szavakat.  
+Könyvének 178-181. oldalain szemantikai-fonetikai nyelvhasonlítási módszere alapján haladva két alapfogalom hét, illetve kilenc különböző hangalakú szinonim megnevezésének négy nyelvcsaládon keresztül töretlenül kimutatható megfelelésein – a táblázatos adatokat lásd az egyes helyeken (például [[F/FOG\|FOG]]) – keresztül bemutatja, hogy a nyelvcsaládoknak közös ősi gyökerei vannak. A szóegyeztetésekben a szumér nyelvet veszi alapul és ahhoz méri a magyar, az indogermán (angolszász, görög, latin) és a szemita nyelvek (főleg asszír, arab és héber) szavakat.  
 
 A kutya fogalmára használt szóalakok mindenütt fellelhető azonossága kapcsán lásd [[K/Kutya#^wav7l\|ezen]] passzust, ahol kimondják:  
-1\. Az összes nyelv, amelyik ugyanazt a szót használja a "kutya" szóra, egyetlen anyanyelvből származik; 2\. A "kutya" közös szava az állat háziasításával terjedt el. Úgy vélem, hogy ennek a figyelemre méltó jelenségnek a helyes magyarázata a két lehetőség kombinációja.  
+> 1\. Az összes nyelv, amelyik ugyanazt a szót használja a "kutya" szóra, egyetlen anyanyelvből származik; 2\. A "kutya" közös szava az állat háziasításával terjedt el. Úgy vélem, hogy ennek a figyelemre méltó jelenségnek a helyes magyarázata a két lehetőség kombinációja.  
 - Valójában a kutya több mint csak kutya.
 
-## Proto-lingua réteg a nosztratikus előtt
+## Nosztratikustól visszágazó ősi világnyelv réteg
 
 Wiki oldalát angolul lásd [itt](https://en.wikipedia.org/wiki/Proto-Human_language) (magyarra nincs lefordítva).  
   
@@ -57,9 +66,9 @@ Az angol szöveg magyarul pedig így hangzik:
 
 ### Ősi szakrális vallási/nyelvi réteg ábrákban
 
-![Nosztratikus nyelvcsalád_image20260328225750515.jpeg\|fix_dark fix_light\|840](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260328225750515.jpeg)
+![Nosztratikus nyelvcsalád_image20260331154747124.jpeg\|fix_dark fix_light\|840](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260331154747124.jpeg)
 
-![Nosztratikus nyelvcsalád_image20260328225658397.jpeg\|fix_dark fix_light\|840](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260328225658397.jpeg)
+![Nosztratikus nyelvcsalád_image20260331165743940.jpeg\|fix_dark fix_light\|840](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260331165743940.jpeg)
 
 A ma uralkodó felfogás szerint az írást maguk mögött hagyó (ún. feljegyző) népek a kultúra letéteményesei: a mélyebb rétegeket nem keresik, a velük kapcsolatos feltárásokat ([[J/Judeo-kereszténység\|judeo-kereszténység]]en kívül eső mitológiai-ősvallásbeli gyökereket, összefüggéseket keresőket) tudománytalannak bélyegzik és ahol istennevek azonosságait mutathatjuk fel, ott önkényes párhuzamba állításokat, [[N/Népetimológia\|népetimológiá]]t kiáltanak.  
 Számukra az ősmúlt láthatatlan és tabu: csak az általuk látható halmazok között hasonlítanak és egymás közt történő átvételekre utalnak, míg az általunk feltárható közös gyökereket nem keresik, mert eleve láthatatlan számukra.  
@@ -67,4 +76,4 @@ Gulyás Péter Pál több könyvében is jól mutat rá, hogy az eget tartó osz
 - [Ezen](https://www.youtube.com/watch?v=WUmd19AVOnQ&t=4187) helyen szól Agócs Gergely arról, hogy ha a toposz több helyen is megvan, az nem lehet véletlen.
 
 
-![Nosztratikus nyelvcsalád_image20260330165910687.jpeg\|fix_dark fix_light\|840](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260330165910687.jpeg)
+![Nosztratikus nyelvcsalád_image20260330194257442.jpeg\|fix_dark fix_light\|840](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260330194257442.jpeg)
