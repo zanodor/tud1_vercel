@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nyáj/","title":"Nyáj","created":"2026-02-06T20:17","updated":"2026-03-03T18:29"}
+{"dg-publish":true,"permalink":"/N/Nyáj/","title":"Nyáj","created":"2026-02-06T20:17","updated":"2026-03-31T18:33"}
 ---
 
 
 # Nyáj
+
+A nyáj állatok serege, és ahogy a [[G/Gulya\|gulya]] a Tejút csillagjaira (elsősorban fényes sávjára) utal, itt is felfedezhetünk ilyen értelmezési lehetőséget.  
 
 Nyáj szó a CzF szótárban:  
 > Társaságban élő, együtt járó, együtt legelő négylábu állatok serege, különösen a szelid természetüeké.  
@@ -11,7 +13,7 @@ Nyáj szó a CzF szótárban:
 A nyáj később azonos hitfelekezetből való jelentést is felvett.  
 
 [[J/Juh\|Juh]] és [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] címnél is gondolkodtunk arról, mit is jelenthet ez a szavunk.  
-A juhok és kecskék gyűjtőneve a nyáj, CzF adata szerint is. A [[G/Goat\|goat]]-[[G/Göd\|Göd]] és [[G/Good\|good]] = juh (jó = tej- és vízfolyam) analógiája is mutatja, hogy a kecskéket is számításba vették. Vajon ezek alapján a `nyáj` milyen jelentést takar? Nő(j)/nej? Vagy a nyári csillagkép ([[P/Papszukkal\|Papsukkal]]) számításba vehetősége miatt nyár a kiinduló? Ott is szerepeltek...
+A juhok és kecskék gyűjtőneve a nyáj, CzF adata szerint is. A [[G/Goat\|goat]]-[[G/Göd\|Göd]] és [[G/Good\|good]] = juh (jó = tej- és vízfolyam) analógiája is mutatja, hogy a kecskéket is számításba vették. Vajon ezek alapján a `nyáj` milyen jelentést takar? Nő(j)/nej? Vagy a nyári csillagkép ([[P/Papszukkal\|Papsukkal]]) számításba vehetősége miatt nyár a kiinduló? Ott is szerepeltek...  
 
 #### Gyárfás Ágnes Három óriás és az öreg király – a nyári égbolt híres férfi-csillagképei...  
 
