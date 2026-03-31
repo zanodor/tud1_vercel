@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szolga/","title":"Szolga","tags":["Englishtexttranslated"],"created":"2024-10-24T00:03","updated":"2025-09-03T15:59"}
+{"dg-publish":true,"permalink":"/S/Szolga/","title":"Szolga","tags":["Englishtexttranslated"],"created":"2024-10-24T00:03","updated":"2026-03-31T18:32"}
 ---
 
 
@@ -10,7 +10,7 @@ Ott arról volt szó, hogy a Szil-Ab (Fényes Víz: Tejút) értelmezése a szl�
 
 #### Péterfai János...
 
-...írásában írja (tökéletesen egyezően korábbi gondolatommal, hogy a szó nem dehonesztáló és nem rabszolga jelentésű \[lásd erről [[L/LEB\|LEB]]\]):  
+...írásában közli (tökéletesen egyezően korábbi gondolatommal, hogy a szó nem dehonesztáló és nem rabszolga jelentésű \[lásd erről [[L/LEB\|LEB]]\]):  
 > A magyar Szolga szóban a Szol a Nap, a Ga a Ház. A Szolga tehát a Nap, király, úr házában tett szolgálatot. Nem volt rabszolga, ahogy ma mondanánk, hanem szabad ember, aki az urának szolgálattal tartozott.  
 > Ha a király azt mondta a hadvezérnek, hogy "Hű Szolgám", akkor nem a hadvezér szolgaságát hangsúlyozta, hanem a hadvezér Nap-Házi származását. Ezt jelentette a Jobbágy is, a király a hadvezért "Hú jobbágyának" nevezte. A jobbágy csak később lett szolga értelmű, ahogy a Szolga szó is eredetileg a Királyi Házhoz tartozót jelentette.  
 
