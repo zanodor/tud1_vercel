@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Y/Ygg/","title":"Ygg","created":"2024-01-02T06:37","updated":"2024-10-26T00:52"}
+{"dg-publish":true,"permalink":"/Y/Ygg/","title":"Ygg","created":"2024-01-02T06:37","updated":"2026-03-31T18:34"}
 ---
 
 
