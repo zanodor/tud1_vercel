@@ -1,11 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated"],"created":"2023-10-14T04:30","updated":"2025-05-29T17:35"}
+{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated"],"created":"2023-10-14T04:30","updated":"2026-03-31T18:32"}
 ---
 
 
 # Hsiung-nu
 
 Előfordul Hiung-nu és más formákban is.  
+[Ezen](https://share.google/aimode/vOChz7TKhRxjWS9eH) Google AI Mode-os csevegésben kapott válasz szerint az eredeti név nem kínai, mert az már csak átírás. Azaz a **hunnu** lenne az eredeti.  
+> [!details]- &nbsp;
+> **A nevek eredete és jelentése**  
+> * Xiongnu (Sziongnu): Ez a kínai forrásokban szereplő elnevezés. A kínai írásjegyek (匈奴) jelentése eredetileg pejoratív volt: „ádáz rabszolga”. Ez nem a nép saját elnevezése volt, hanem a kínaiak által rájuk aggatott gúnynév.
+> * Hunnu: Ez a belső-ázsiai nomádok (köztük a mai mongolok) által használt elnevezés. A mongol nyelvben a `hun` szó jelentése: „ember”. A Hunnu forma tehát egyszerűen „embereket” vagy „népet” jelent.
+> 
+> Melyik az eredeti név?
+> A tudományos konszenzus szerint a Hunnu (vagy annak egy archaikus változata) tekinthető az eredeti önelnevezésnek (endonim), míg a Xiongnu annak kínai átirata (exonim).
+> Kapcsolódási pontok  
+>    1. Nyelvészeti rekonstrukció: Az ókínai kiejtés kutatása során kiderült, hogy a Xiongnu szót a Han-korban valahogy úgy ejthették, mint „Hiongnuk” vagy „Hun-nu”, ami közvetlenül megfelel a pusztai népek saját elnevezésének.
+>    2. Folytonosság: Mongóliában a mai napig a Hunnu kifejezést használják a birodalomra, és az állami identitás részének tekintik.
+>    3. Európai hunok: Bár a vita még nem zárult le teljesen, a legtöbb történész szerint az európai hun név is ugyanebből a gyökérből származik (Hunnu → Hun).
+> 
+> Összegezve: A Hunnu az eredeti, saját név („emberek”), a Xiongnu pedig ennek a kínaiak által eltorzított, írásos változata.
 
 #### Götz László Keleten kél a Nap...  
 
@@ -14,23 +28,25 @@ Előfordul Hiung-nu és más formákban is.
 
 #### Péterfai János írja:
 
-> A Hsiung-nu népnévben a Hszi Nyugat, az Ung a magyarokat jelöli, a Nu jelentése valószínűleg Úr. A japán Ten-No értelme Isten-Úr, ezzel a [[N/NO#No 2)\|no]] szóval lehet azonos a [[N/NU\|nu]] szóalak. Nyugati-Ungár-Urak, ezt jelenti a Hsziung-nu népnév. A névben az is benne van, hogy **az ungárok nyugatról érkeztek keletre, tehát a magyarok nem keleti nép**.  
+> A Hsiung-nu népnévben a Hszi Nyugat, az Ung a magyarokat jelöli, a Nu jelentése valószínűleg Úr. A japán Ten-No értelme Isten-Úr, ezzel a [[N/NO#No 2)\|No]] szóval lehet azonos a [[N/NU\|Nu]] szóalak. Nyugati-Ungár-Urak, ezt jelenti a Hsziung-nu népnév. A névben az is benne van, hogy **az ungárok nyugatról érkeztek keletre, tehát a magyarok nem keleti nép**.  
+- De fentebb egy "ádáz rabszolga" jelentésű átirat szerepelt. [Ezen](https://share.google/aimode/P9x4Pw3Ww2p7S0xxd) Google AI Mode-os csevegésben tisztáztuk.
 
 Ezen adatokat felhasználva írom [ezen](https://qr.ae/py1lXv) Quora posztban:  
-> The Hsiung-Nu relate to Asian Huns who came from the West. They are a consequence.  
->
-> - Hsi-Ung-Nu roughly translates as "West-Ung-Lords." [[U/Ung\|Ung]], [[U/Unka\|unka]], etc. means: Coming of the House of Un/An; hence words of modern Hungarian `unka`, `unoka` refer to primordiality (a type of frog; grandchild).  
->
-> European/Steppe Huns civilized what is later known as China ("themselves," because China is \*Huna, a continuation of the Hunnic culture) a long time ago. [[H/Huang-ti\|Huang-ti]]'s time is not that old. 2–3000 years is nothing. Huns cannot be confined to a mere few hundred year old bracket but Western "science" can do whatever they want. If they want the Chinese, the Ainu or Hottentots Indo-European or Semitic, or want them to be viewed as [[B/Barbár\|barbar]]s (which they don't even know what it means, they just keep repeating stuff like parrots), like the Huns are portrayed, they will do it. That is their level. We want to rise above their level because we want to survive their idiocy and this astronomical age.  
->
-> —  
->
-> A hsziungnuk a nyugatról érkezett ázsiai hunokhoz tarthatók. Ők egy következmény.  
->
-> - A Hsi-Ung-Nu nagyjából "Nyugati Ung Urak"-nak fordítható. A [[U/Ung\|Ung]], [[U/Unka\|unka]] stb. jelentése: Un/An házból való származás; ezért utalnak a mai magyar `unka`, `unoka` szavak ősiségre (előbbi egy békafaj).  
->
-> Az európai/szteppei hunok már régen civilizálták a később Kínának nevezett területet ("önmagukat", mert Kína = \*Huna, a hun kultúra folytatása). [[H/Huang-ti\|Huang-ti]] ideje nem olyan régi. 2-3000 év az semmi. A hunokat nem lehet pár száz éves tól-ig határok közé tenni, de a nyugati "tudomány" azt csinál, amit akar. Ha azt akarják, hogy a kínaiak, az ajnuk vagy a hottentották indoeurópaiak vagy szemiták legyenek, vagy azt akarják, hogy [[B/Barbár\|barbár]]nak tekintsék őket (amiről még azt sem tudják, hogy mit jelent, csak ismételgetnek, mint a papagájok), amilyennek a hunokat szokás beállítani, akkor megteszik. Ez az ő szintjük. Mi az ő szintjük fölé akarunk emelkedni, mert túl akarjuk élni az idiotizmusukat és ezt a csillagászati kort.  
-- A [[Y/Young\|young]] címnél taglalt skandináv `ung` = fiatal szót is említhettem volna.
+> [!details]- &nbsp;
+> > The Hsiung-Nu relate to Asian Huns who came from the West. They are a consequence.  
+> >
+> > - Hsi-Ung-Nu roughly translates as "West-Ung-Lords." [[U/Ung\|Ung]], [[U/Unka\|unka]], etc. means: Coming of the House of Un/An; hence words of modern Hungarian `unka`, `unoka` refer to primordiality (a type of frog; grandchild).  
+> >
+> > European/Steppe Huns civilized what is later known as China ("themselves," because China is \*Huna, a continuation of the Hunnic culture) a long time ago. [[H/Huang-ti\|Huang-ti]]'s time is not that old. 2–3000 years is nothing. Huns cannot be confined to a mere few hundred year old bracket but Western "science" can do whatever they want. If they want the Chinese, the Ainu or Hottentots Indo-European or Semitic, or want them to be viewed as [[B/Barbár\|barbar]]s (which they don't even know what it means, they just keep repeating stuff like parrots), like the Huns are portrayed, they will do it. That is their level. We want to rise above their level because we want to survive their idiocy and this astronomical age.  
+> >
+> > —  
+> >
+> > A hsziungnuk a nyugatról érkezett ázsiai hunokhoz tarthatók. Ők egy következmény.  
+> >
+> > - A Hsi-Ung-Nu nagyjából "Nyugati Ung Urak"-nak fordítható. A [[U/Ung\|Ung]], [[U/Unka\|unka]] stb. jelentése: Un/An házból való származás; ezért utalnak a mai magyar `unka`, `unoka` szavak ősiségre (előbbi egy békafaj).  
+> >
+> > Az európai/szteppei hunok már régen civilizálták a később Kínának nevezett területet ("önmagukat", mert Kína = \*Huna, a hun kultúra folytatása). [[H/Huang-ti\|Huang-ti]] ideje nem olyan régi. 2-3000 év az semmi. A hunokat nem lehet pár száz éves tól-ig határok közé tenni, de a nyugati "tudomány" azt csinál, amit akar. Ha azt akarják, hogy a kínaiak, az ajnuk vagy a hottentották indoeurópaiak vagy szemiták legyenek, vagy azt akarják, hogy [[B/Barbár\|barbár]]nak tekintsék őket (amiről még azt sem tudják, hogy mit jelent, csak ismételgetnek, mint a papagájok), amilyennek a hunokat szokás beállítani, akkor megteszik. Ez az ő szintjük. Mi az ő szintjük fölé akarunk emelkedni, mert túl akarjuk élni az idiotizmusukat és ezt a csillagászati kort.  
+> - A [[Y/Young\|young]] címnél taglalt skandináv `ung` = fiatal szót is említhettem volna.
 
 [Ezen](https://hu.wikipedia.org/wiki/Hsziungnuk) oldalon további adatokat lásd.  
 
@@ -74,3 +90,11 @@ Végül megengedi:
 > E helyzet következtében magunk ebben a kérdésben inkább az óvatos várakozás álláspontjára helyezkedünk mindaddig, amikor biztosabb adatok állnak majd a kutatás rendelkezésére a yüeh-chih-k és a hsiung-nu-k nyelvi hovatartozásának végleges eldöntésére, mint egyes iranológusok azon véleménye, hogy e két nép nyelve esetében kelet-iráni nyelvekről lenne szó. Egyelőre csak annyi látszik valószínűnek, hogy e nyelvek is valamilyen módon összefüggésben állhattak az [[A/Andronovói kultúra\|andronovói]] és a [[K/Karasuk kultúra\|Karasuk műveltség]] areálisan kiegyenlítődött közlekedő nyelvének különféle irányokban továbbfejlődött utód-nyelveivel (l. fent), és ez esetben az is elképzelhető, hogy eredetileg **esetleg tényleg valamiféle törökös-iránias keveréknyelvek** lehettek.  
 
 Lásd még [ezen](https://prism.ucalgary.ca/server/api/core/bitstreams/0f570209-afee-4041-913d-afb541d76c2d/content) oldalon szereplő kínai-kanadai illető disszertációjának idevonatkozó anyagát.  
+
+## Hsziungnuk művészete
+
+
+A [erdelyi_istvan_benko_mihaly_a_hsziung-nuk_regeszeti_kutatasa_mongoliaban](https://julianusbaratai.blog.hu/2024/06/08/erdelyi_istvan_benko_mihaly_a_hsziung-nuk_regeszeti_kutatasa_mongoliaban_470) című blogposztban nincsenek képek de utalnak a Xiongnu Encyclopedia c. elektronikus kiadvány oldalszámaira.  
+Pl. türkizfejű [[M/Madár#Madaras koronák\|madaras korona]]: 
+[Tsagaan Turbat – Xiongnu Encyclopedia, 89.o.](<zotero://open-pdf/library/items/KH9V5EJB?page=89>)
+
