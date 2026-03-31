@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ossian/","title":"Ossian","tags":["Englishtexttranslated"],"created":"2025-06-02T15:57","updated":"2025-06-02T15:58"}
+{"dg-publish":true,"permalink":"/O/Ossian/","title":"Ossian","tags":["Englishtexttranslated"],"created":"2025-06-02T15:57","updated":"2026-03-31T18:33"}
 ---
 
 
@@ -19,7 +19,7 @@
 
 #### Tomory Zsuzsa Az Arthur legendakör...  
 
-...című írásában írja:  
+...című írásában közli:  
 > A walesieknél Arthur, az íreknél Finn, skótoknál Fingal töltötte be ugyan azt a csodás szerepet; egy rege szerint Nuadutól származott, s nevét a nedű szóval kapcsolatban tárgyaltuk.  
 > A walesi Gwyn is [[N/Nudd\|Nudd]] fia, s így arra következtetnek, hogy Gwyn neve is "fehér" jelentésű[^1].  
 > 
