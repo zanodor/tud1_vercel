@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/DUG/","title":"DUG","created":"2023-10-13T02:24","updated":"2025-11-06T19:10"}
+{"dg-publish":true,"permalink":"/D/DUG/","title":"DUG","created":"2023-10-13T02:24","updated":"2026-03-31T18:33"}
 ---
 
 
@@ -17,7 +17,7 @@ Götz László Keleten kél a Nap című könyvének 166-167. oldalán szumér-g
 Másutt beszél jelentésű szumér szót is megad, de `gudu` = beszél, mond, megnevez alakban (igaz, másutt maga is említi a szumér b-g vagy d-g változást).  
 
 Persze az aranykori ősnyelvben minden szép, jó, fényes, szent jelentésű volt, ahogy erre Berzsenyi Dániel is ráérzett.  
-Dr. Gyárfás Ágnes a Fordulat – Hitvilág, mítoszok, legendák című PDF 53. oldalától szereplő Lugal Geme nagy Urasszony ki Mada című írásában írja, hogy a DUG (L 309) szinonimája a `KÁRPÁTU`\[?\] (L 309) szó, amely tál, medence, váza értelmű és pontosan a [[K/Kárpát-medence\|Kárpát-medencé]]re vonatkozik.  
+Dr. Gyárfás Ágnes a Fordulat – Hitvilág, mítoszok, legendák című PDF 53. oldalától szereplő Lugal Geme nagy Urasszony ki Mada című írásában közli, hogy a DUG (L 309) szinonimája a `KÁRPÁTU`\[?\] (L 309) szó, amely tál, medence, váza értelmű és pontosan a [[K/Kárpát-medence\|Kárpát-medencé]]re vonatkozik.  
 
 Jeremy Black és Anthony Green Gods, Demons and Symbols in Ancient Mesopotamia című könyvében található nevek közül:  
 
