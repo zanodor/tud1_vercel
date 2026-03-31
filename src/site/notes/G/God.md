@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/God/","title":"God","tags":["containstransclusions","Englishtexttranslated"],"created":"2026-03-23T23:27","updated":"2026-03-25T02:18"}
+{"dg-publish":true,"permalink":"/G/God/","title":"God","tags":["containstransclusions","Englishtexttranslated"],"created":"2026-03-23T23:27","updated":"2026-03-31T18:30"}
 ---
 
 
@@ -34,7 +34,7 @@ A magyarázat szerint amikor a germán népek felvették a kereszténységet, a 
 Megoldás: elkezdeni használni egy `god` szót a keresztény istenre, amelynek nem ismerik eredetét, így kitalálnak rá egyet (kettőt, mert a "megidézett" fogalomból való kiindulás mellett egy "akinek italáldozatot mutatnak be" levezetéssel is próbálkoznak).  
 - Julius Pokorny az indoeurópai \*ǵheu- gyököt adja meg, amely két irányba ágazik el: az egyik az "önteni" (görög `χέω` (`khéō`); lásd [itt](https://en.wiktionary.org/wiki/%CF%87%CE%AD%CF%89)), a másik a "hívni" (szanszkrit `ह्वय॑ति` (`hváyati`); lásd [itt](https://en.wiktionary.org/wiki/%E0%A4%B9%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A4%E0%A4%BF#Sanskrit)).
 
-Mivel az azonos alakú iráni [[K/Khuda\|Khoda]] = isten névnek más, saját gyártású levezetése van, ezzel nem törődnek...  
+Mivel az azonos alakú iráni [[K/Khuda\|Khoda]] = úr, isten névnek más, saját gyártású levezetése van, ezzel nem törődnek...  
 - CzF `csoda` címénél ennek ellenére azt írja, hogy az ő idejükben még ez gyakorlat volt:   
 > Figyelmet érdemlőnek tartják, hogy a persa nyelvben `khoda` istent jelent, melylyel rokonítják némely nyelvészek a német `Gott` szót is.; de `khod` törzs a persában, azt jelenti: önmaga.  
 
@@ -94,10 +94,10 @@ Persze, az indoeurópai nyelvészet nem fog egy (amúgy szláv eredetre visszave
 > [!|noincon]- Google Gemini válasz *Istennevek mint "magasabb szellemi entitások"* témában
 > A latin `numen` (isteni akarat/hatalom) analógiájára több indoeurópai példát is ismerünk, ahol az isten megnevezése nem személynév, hanem egy absztrakt hatalomra vagy funkcióra utal:  
 > Dyeus Phter (Égi Atya): Ez a legismertebb PIE (proto-indoeurópai) rekonstrukció, ahol a név a "fényes nappali égboltból" származik (\*dyeu- = fényesnek lenni). Itt az isten maga a megtestesült égi világosság.  
-> Asura/Ahura: Az indoiráni hagyományban ez a kifejezés eredetileg "urat" vagy "hatalmas szellemet" jelentett (gyökere az \*asu- = életerő, lélek), és csak később vált konkrét istencsoport vagy főisten (Ahura Mazda) nevévé. Ez közeli rokona az óangol `os` (\*ansuz) alaknak.  
+> Asura/Ahura: Az indoiráni hagyományban ez a kifejezés eredetileg "urat" vagy "hatalmas szellemet" jelentett (gyökere az \*asu- = életerő, lélek), és csak később vált konkrét istencsoport vagy főisten (Ahura Mazda) nevévé. Ez közeli rokona az óangol `os` (ógermán \*ansuz) alaknak.  
 > Bhága: A szanszkritban és a szláv nyelvekben (`bog`) az isten neve a "szétosztó" vagy "szerencsét adó" jelentésből ered. Itt az istenség egy gazdasági-spirituális funkció (a sors kiosztása) absztrakciója.  
 > Xratu (Aveszta): Bár nem vált közvetlen istennévvé, a numenhez hasonlóan egy "szellemi erőt" vagy "értelmet" jelölt, amely az isteni tevékenység alapja. 
-> A germán god tehát ebbe a sorba illeszkedik: nem egy személynevet, hanem egy rituális státuszt ("akit hívnak/áldoznak") jelölt, mielőtt a kereszténység tulajdonnévvé emelte volna.
+> A germán god tehát ebbe a sorba illeszkedik: nem egy személynevet, hanem egy rituális státuszt ("akit hívnak/akinek áldoznak") jelölt, mielőtt a kereszténység tulajdonnévvé emelte volna.  
 
 #### Holdisten
 
@@ -126,7 +126,7 @@ Nem volt tervben, hogy a germán istent jelentő szót közvetlenül vagy közve
 #### Magyar Adorján Ősműveltség...  
 
 ...című könyvében is lám, felkapta a témát és érvelése, mint oly sokszor, elfogadható:  
-> Ellenben ![God_image20260325003429938.jpeg|fix_dark fix_light right|200](/img/user/G/assets/God_image20260325003429938.jpeg)meg kell itt említenem a magyar `guta` szót, amely szintén a kún szócsoportba illik, habár benne ma a k hang helyett már lágyult g hang van. Miután azonban ma is azt mondjuk, hogy „megütötte a guta” és „gutaütéses”, meg „guta ütött ember”-ről beszélünk, és miután az olaszban és a németben „il colpo” és „der Schlag” bár szó szerint csak annyi mint „az ütés”, de ugyane szavak nevezik meg a gutát is, ennélfogva úgy képzelem, hogy a Guta, azaz eredetileg bizonyára **Kuta tulajdonképpen a kalapácsos kovácsságot és a kalapácsot magát is megszemélyesítő istenség egyik kún neve volt**.  
+> Ellenben ![God_image20260325003429938.jpeg\|fix_dark fix_light right\|200](/img/user/G/assets/God_image20260325003429938.jpeg)meg kell itt említenem a magyar `guta` szót, amely szintén a kún szócsoportba illik, habár benne ma a k hang helyett már lágyult g hang van. Miután azonban ma is azt mondjuk, hogy „megütötte a guta” és „gutaütéses”, meg „guta ütött ember”-ről beszélünk, és miután az olaszban és a németben „il colpo” és „der Schlag” bár szó szerint csak annyi mint „az ütés”, de ugyane szavak nevezik meg a gutát is, ennélfogva úgy képzelem, hogy a Guta, azaz eredetileg bizonyára **Kuta tulajdonképpen a kalapácsos kovácsságot és a kalapácsot magát is megszemélyesítő istenség egyik kún neve volt**.  
 > Tény, hogy a guta, vagyis a kuta szó közvetlen rokona `kő` vagy régiesen kú szavunkkal, de rokon ugyanígy az [[U/Üt\|üt]] szavunkkal is, valamint összefüggésbe hozható az ékkel is, csakhogy ezúttal a fekete-kunok kegyetlen ékével és tehát az ütő kalapáccsal.
 { #qxpc6u}
 
@@ -137,7 +137,7 @@ Nem volt tervben, hogy a germán istent jelentő szót közvetlenül vagy közve
 
 [[J/Júda\|Júda]] címnél is szerepelt évekkel ezelőtt:  
 > [!example] &nbsp;
-> Akkor azt is észre kell venni – akár a [[S/Szemiták és árják\|szemiták és árják]] címnél írottak folytatásaként is lehet kezelni –, hogy ami az avarokból lett germánoknál **God**, az az avarokból, héberekből lett szemitává lett zsidóknál **Jud**/**Juda**, vélhetően közös eredetre visszavezethetően.  
+> Akkor azt is észre kell venni – akár a [[S/Szemiták és árják\|szemiták és árják]] címnél írottak folytatásaként is lehet kezelni –, hogy ami az avarokból lett germánoknál **God**, az az avarokból, héberekből menet közben szemitává lett zsidóknál **Jud**/**Juda**, vélhetően közös eredetre visszavezethetően (ergo Juda nem annyira törzs neve, mint a törzs nevét adó isten-fogalom).  
 
 A [[K/Kovács és a kutya\|kovács és a kutya]] címnél is említett perui [[V/Virakocsa\|Virakocsa]] kézműves-istennévben is egy teljesen hasonló Kocsa/Kucsa nevezet van meg.  
 
@@ -192,7 +192,43 @@ Ennek a helynek a neve lehet [[K/Kutya\|Ku-Ta]], mely a `kutya` és a `hegy` sza
 A hegy csúcsa az ekliptikán a nyári napforduló, amikor a Nagy Kutya csillagképben jár a Nap. Ez a felső pont az a szent hely, amikor a napvallásnak hódoló népek a Nap legmagasabb állását ünnepelték.  
 Az első gondolatom tehát már régen is az volt, hogy az iráni [[K/Kutyahitű\|kutyatisztelet]] (lásd még [[K/Kutya Iránban\|kutya Iránban]]) hozza létre a [[K/Khuda\|Khuda]] istennevet, mely egyenes folytatása lett volna a germán `Gott`, `God` forma. Azóta viszont sok új adat jött be az évek során, de talán ez a legjobb magyarázat maradt. Azaz ha a [[K/KAN\|Kan]] név terjedt volna el, akkor ilyen alakú istennév is fennmaradhatott volna.  
 
-##### Isten(re, teremtésre vonatkozó) fogalom -Ta szótag nélkül
+#### Téli napfordulós összefüggés
+
+Ahogy több helyen említésre került, a csillagászati és főleg asztrológiai hagyomány a szemközti csillagjegyeket összekapcsolta; ezért fordulhat elő, hogy hasonló nevek megjelenhetnek nyári és téli napfordulóra utalva (pl. latin `venator` = vadász – latin `venter` = has; előbbi Nimródra, utóbbi a Tejútanya méhére utalhat).  
+[[C/Coot\|Coot]] és más helyeken K-T és rokon vázú vagina jelentésű szavakat láttuk.  
+[[G/God#Tejútistennő, szakrális geometria\|Tejútistennő, szakrális geometria]] helyen folytatjuk a témát.  
+> [!hint] &nbsp;
+> Ott már nem a téli napfordulós ház = méh(száj) = vulva összefüggésre koncentrálunk, hanem arra, hogy maga a teljes Tejútrendszer (az anya) egy ház, a [[N/Nap háza\|Nap háza]], ahol a Nap él.  
+- Az kétségtelen, hogy a legnagyobb ünnep a nap megszületése (feltámadása).
+
+> [!check] &nbsp;
+> Vegyük észre, az ősvallási alapképletben mindig a Napot vették figyelembe és annak helyzete, a napot jelentő szavak szekunder és tercier jelentései meghatározók arra nézve, hogy hogy kell egy `God` vagy `good` szóval foglalkozni, de ezek a mesterségesen létrehozott nyelvcsaládokban gondolkodók érdekszféráján kívül eső dolgok.
+
+#### Tűz, szellem jelentéskör
+
+Tulajdonképpen a [[G/God#Nyári napfordulós úr/isten\|nyári napfordulós úr/isten]] pont egy másik változatának tekinthető megoldás ez, de már [[G/God#Jó\|jó]] helyen is kitértünk rá.  
+Ezen az imént taglalt felső téridőbeli helyen (a [[K/Kutya\|Kutya]] állásban) a legerősebb a Nap tüze. Felvetődik a kérdés? Jelent-e tüzet K-T vagy rokon vázú szó más nyelvben?  
+Igen, [[K/Kut\|kut]] és más helyeken azték szavakról volt szó és a [[C/Canicular\|kánikula]] fogalma mögött is az van meg, hogy amikor a Nap a Kutyacsillaghoz ér, nagy a hő (vö. [[H/Hot\|hot]] = [[H/Huta\|huta]], Ku-Ta) leadás.  
+
+Sőt, egyes nyelvekben életerőt, lelket is jelenthet és a lélek az isten teremtése során a Nagy Szellemből kerül az emberbe.  
+Az ókínai `kut` = lélek, török `kut` = életető, lélek; legitimációs hatalom jelentésekkel megadott szó nyomán belső fejlődéssel vagy inkább korábbi rétegből emelkednek ki rokon szavak: ótörök `köt` = magas, emelkedett, török `güç` = erő, hatalom szó.  
+Mindben közös, hogy nem véletlenül lett a csúcsával felfelé álló háromszög a tűz és a levegő alkímiai jele: a tűz felfelé terjed és a legmagasabb nyári napfordulós ponton a legnagyobb erejű a Nap.  
+Több helyen volt erről a témáról szó: lásd pl. [[G/Góc\|góc]].  
+
+
+A `kutya` alakú, lélekkel, lélekerővel ill. életerővel, lélegzettel kapcsolatba hozható [[G/Guta\|guta]], [[K/Kut\|kut]], [[G/Gőz\|gőz]] és hasonló kifejezések kapcsán egyre erősebbé vált bennem a gyanú, hogy a germán `Gott`/`God` a [[K/Kut\|kut]] = tűz; élet-lélek fogalmához tartható, tehát nem a [[K/Kutya\|kutya]] lesz a közvetlen kiinduló.   
+`Kut` lényegében ugyanannak felel meg a hun-türköknél, mint a mi `Isten` nevünkben megtalálható [[I/Íz\|íz]]/[[I/Isa\|isa]] (lásd [[L/Lélek#Isa, por és hamu\|isa, por és hamu]] cím/alcímnél). A [[P/Psychopomp\|lélekvezető]] kutya ezt a lelket kíséri vissza istenhez, a Tejútra.  
+
+
+A megoldást az rejti és egyben nehezíti, hogy a szavak alapértelmét tekintve a kut és a kuta/kutya is ugyanazt jelenti: tüzet, melyből a lélek szavát képezték, mely lélek a [[G/Göd\|Göd]]-Tejútanyától való (minden csillag az égen egy ember lelkének otthona), mely [[T/Tejútanya\|Tejútanya]] egy csillagba sűrített önvalója az a Kutyacsillag [[S/Szíriusz\|Szíriusz]], mely pszükhopomposzként (tellurikusan is) az isteni lelket vezeti vissza Istenhez/Göd-God-hoz, kitől a lélek maga is való. Ez egy körfolyamat és lehetetlen egyetlen szóra rábökni, hogy na, ez az eredete. Minden oldaláról fell kell tárni és csak az ősi vallási képzetek pontos ismerete segíthet ebben.  
+> [!important] &nbsp;
+> Megfordítva: a (magyar és idegen) szavak segítenek a [[M/Magyar ősvallás\|magyar ősvallás]] képzeteinek felderítésében.
+
+[[S/Szellem#Szellem mint isten illetve isteni megnyilvánulás\|Szellem mint isten illetve isteni megnyilvánulás]] cím/alcímnél is írtuk:  
+Már az [[I/Idő\|idő]], [[H/HAN\|HAN]] és [[M/Medve\|medve]] címnél taglalt lakota istenek ill. szellemek (lásd [itt](https://en.m.wikipedia.org/wiki/List_of_Lakota_mythological_figures)) kapcsán is megállapítottuk, hogy a szellem alatt (kis)istent, isteni megnyilvánulást kell érteni.  
+
+
+#### Isten(re, teremtésre vonatkozó) fogalom -Ta szótag nélkül
 
 Ha a szóvégi -Ta lecsípésre került, akkor [[H/HU\|HU]] és [[K/KU\|KU]] neveken is futhatott volna, mint amilyen formákat éppen találunk is istenségek neveiben.  
 
@@ -232,35 +268,11 @@ Az [alábbi](https://share.google/aimode/JLu4fctRh08upsgBg) Google AI Mode-os be
 { #53yaoq}
 
 
-Véleményem szerint nincs kapcsolat a két nyelv szavai között: a majában a `kő` (föld) fogalmat keresném inkább, az óegyiptomiban pedig az alant említett szanszkrit `hū` szóban is fellelt [[H/Hív\|hív]] fogalmát.  
-
-#### Tűz, szellem jelentéskör
-
-Tulajdonképpen az előző pont b változatának tekinthető megoldás ez, de már [[G/God#Jó\|jó]] helyen is kitértünk rá.  
-Ezen az imént taglalt felső téridőbeli helyen (a [[K/Kutya\|Kutya]] állásban) a legerősebb a Nap tüze. Felvetődik a kérdés? Jelent-e tüzet K-T vagy rokon vázú szó más nyelvben?  
-Igen, [[K/Kut\|kut]] és más helyeken azték szavakról volt szó és a [[C/Canicular\|kánikula]] fogalma mögött is az van meg, hogy amikor a Nap a Kutyacsillaghoz ér, nagy a hő (vö. [[H/Hot\|hot]] = [[H/Huta\|huta]], Ku-Ta) leadás.  
-
-Sőt, egyes nyelvekben életerőt, lelket is jelenthet és a lélek az isten teremtése során a Nagy Szellemből kerül az emberbe.  
-Az ókínai `kut` = lélek, török `kut` = életető, lélek; legitimációs hatalom jelentésekkel megadott szó nyomán belső fejlődéssel vagy inkább korábbi rétegből emelkednek ki rokon szavak: ótörök `köt` = magas, emelkedett, török `güç` = erő, hatalom szó.  
-Mindben közös, hogy nem véletlenül lett a csúcsával felfelé álló háromszög a tűz és a levegő alkímiai jele: a tűz felfelé terjed és a legmagasabb nyári napfordulós ponton a legnagyobb erejű a Nap.  
-Több helyen volt erről a témáról szó: lásd pl. [[G/Góc\|góc]].  
-
-
-A `kutya` alakú, lélekkel, lélekerővel ill. életerővel, lélegzettel kapcsolatba hozható [[G/Guta\|guta]], [[K/Kut\|kut]], [[G/Gőz\|gőz]] és hasonló kifejezések kapcsán egyre erősebbé vált bennem a gyanú, hogy a germán `Gott`/`God` a [[K/Kut\|kut]] = tűz; élet-lélek fogalmához tartható, tehát nem a [[K/Kutya\|kutya]] lesz a közvetlen kiinduló.   
-`Kut` lényegében ugyanannak felel meg a hun-türköknél, mint a mi `Isten` nevünkben megtalálható [[I/Íz\|íz]]/[[I/Isa\|isa]] (lásd [[L/Lélek#Isa, por és hamu\|isa, por és hamu]] cím/alcímnél). A [[P/Psychopomp\|lélekvezető]] kutya ezt a lelket kíséri vissza istenhez, a Tejútra.  
-
-
-A megoldást az rejti és egyben nehezíti, hogy a szavak alapértelmét tekintve a kut és a kuta/kutya is ugyanazt jelenti: tüzet, melyből a lélek szavát képezték, mely lélek a [[G/Göd\|Göd]]-Tejútanyától való (minden csillag az égen egy ember lelkének otthona), mely [[T/Tejútanya\|Tejútanya]] egy csillagba sűrített önvalója az a Kutyacsillag [[S/Szíriusz\|Szíriusz]], mely pszükhopomposzként (tellurikusan is) az isteni lelket vezeti vissza Istenhez/Göd-God-hoz, kitől a lélek maga is való. Ez egy körfolyamat és lehetetlen egyetlen szóra rábökni, hogy na, ez az eredete. Minden oldaláról fell kell tárni és csak az ősi vallási képzetek pontos ismerete segíthet ebben.  
-> [!important] &nbsp;
-> Megfordítva: a (magyar és idegen) szavak segítenek a [[M/Magyar ősvallás\|magyar ősvallás]] képzeteinek felderítésében.
-
-[[S/Szellem#Szellem mint isten illetve isteni megnyilvánulás\|Szellem mint isten illetve isteni megnyilvánulás]] cím/alcímnél is írtuk:  
-Már az [[I/Idő\|idő]], [[H/HAN\|HAN]] és [[M/Medve\|medve]] címnél taglalt lakota istenek ill. szellemek (lásd [itt](https://en.m.wikipedia.org/wiki/List_of_Lakota_mythological_figures)) kapcsán is megállapítottuk, hogy a szellem alatt (kis)istent, isteni megnyilvánulást kell érteni.  
-
+Véleményem szerint nincs kapcsolat a két nyelv szavai között: a majában a `kő` (föld) fogalmat keresném inkább, az óegyiptomiban pedig az alant többször említett szanszkrit `hū` szóban is fellelt [[H/Hív\|hív]] fogalmát.  
 
 #### Logosz
 
-##### A logosz-irányú levezetés és a nyelvészet profán megközelítésének aggályai
+##### A logosz-irányú levezetés hiánya és a nyelvészet profán megközelítésének aggályai
 
 Megint az előző ponttal fogunk kapcsolni (vagy pontokkal, mert feljebb óegyiptomi vonalon volt már szó hasonlóról). 
 Teljesen logikus, hogy a tűzzel és lélekkel kapcsolatos fogalom megjelenhet hang minőségben is. Ugyanis a beszéd a szellem kiáradása, a szellem és lélek pedig tűznek fogatott fel (a szag/illat is a lélekkel hozatott kapcsolatba). Nyilván itt most nem az emberi, hanem isteni beszéd témája fontosabb.  
@@ -271,7 +283,8 @@ Teljesen logikus, hogy a tűzzel és lélekkel kapcsolatos fogalom megjelenhet h
 Eric Partridge Origins c. könyvének god címszavánál említi az (ó)ír `guth` = (beszéd)hang szót (vö. a másutt talált ír `guta` = magánhangzó szóval), de nem fordítja meg a dolgot: mármint hogy nem az embernek kell istent szóval, imával megszólítani, hanem előbb istennek kellett volna a világot szóval, hanggal megteremteni.  
 
 > [!example] &nbsp;
-> Ha indoeurópai környezeten belül akartak volna maradni, a hindu Vâch (lásd [[V/VAK\|VAK]]) védikus hang/logosz-istennővel előhozakodhattak volna, csak akkor hogy magyarázzák meg, hogy egy nőiségből hogy lett semleges majd hímségi főnév (lásd [[G/God#^hzr24a\|fentebb]])?
+> Ha indoeurópai környezeten belül akartak volna maradni, a hindu [[V/Vach\|Vâch]] védikus hang/logosz-istennővel előhozakodhattak volna, csak akkor hogy magyarázzák meg, hogy egy nőiségből hogy lett semleges majd hímségi főnév (lásd [[G/God#^hzr24a\|fentebb]])?
+- Vach-ról lásd még [[G/God#3\|lejjebb]].
 
 A másik gond, hogy ez a szó sem eredeti germán, hiszen a [[G/Guta\|guta]] és több más címnél említett, Götz László Keleten kél a Nap című könyvében hozott sumér `gudu` = beszél, mond, megnevez ige éppen ilyen alakú.  
 
@@ -331,7 +344,7 @@ Miért választották a nyelvészek mégis a „passzív” utat?
 
 
 > [!check] &nbsp;
-> Ami pedig a **Rigvéda 8.16.7** versszakában talált szanszkrit `puruhūta` = sokat idézett kifejezést illeti, ott a hivatalos levezetés szerint: a hūta- = felidézett eredete `hū` = hívni, mely szó megint megfelel a magyar [[H/Hív\|hív]] szónak, de ez az ige nem az, amit God szóban keresni kellene.  
+> Ami pedig a **Rigvéda 8.16.7** versszakában talált szanszkrit `puruhūta` = sokat idézett kifejezést illeti, ott a hivatalos levezetés szerint: a hūta- = megidézett eredete `hū` = hívni, mely szó megint megfelel a magyar [[H/Hív\|hív]] szónak, de ez az ige nem az, amit God szóban keresni kellene.  
 - A szanszkrit szó tehát a fentebb említett óegyiptomi szóval szépen párosul.
 
 
@@ -343,9 +356,33 @@ Alant látni fogjuk, hogy itt nem múlt időről vagy szenvedő igealakról, és
 
 
 
+#### Hit, híd, köt fogalmak
+
+Már az is érdekes, hogy a logosz L-G váza megfelel a latin [[R/Religion\|religio]] = vallás szóból (akár Szent Ágostoni népetimológiás úton) is kialkotható `religare` = újra összekötni kifejezésben megtalálható, [[L/Ligneous\|ligneous]] címnél életfa (a latin `lignum` = faanyag, viszont az *arbor vitae* mellett a *lignum vitae* is jelenthet életfát) témájában bemutatott latin `ligare` = kötni ige L-G vázának.  
+Ahogy az is, hogy a régi, meséinkből is visszaköszönő világkép égigérő fája hidat képez ember és az isten világa közt, és – népetimológia/ezotéria stigma veszélye ide vagy oda – , ennek szavak szintjén megmutatkozó kapcsolatát a `hit`, `híd` és `köt` szavakban is láthatjuk.  
+
+##### A hit tárgyában hívő szemszöge
+
+Fentebb már szóba került, hogy a magyar `hí(v)` megfelel egy hasonló szanszkrit szónak. 
+> [!question] &nbsp;
+> Felvetődik a magyar `hívő` szó kapcsán, hogy ha az indogermán nyelvészet a hívő (= hívó) szemszögéből állítja be az isten nevét, akkor ez egyedülálló megközelítés?
+
+A magyar `hívő` szó mai, vallásos értelmében viszonylag későn szilárdult meg. A fáma szerint a vallásos terminológia a kereszténység felvételével és a bibliafordításokkal kristályosodott ki és a magyar szó a latin `fidelis` (hűséges/hívő) fordításaként rögzült.  
+
+Azaz nem ebből a magyar szóból nem kellene kiindulni.  
+> [!question] &nbsp;
+> Ha nem a latin lett volna a mintanyelv, milyen nyelv milyen szava jöhetett volna számításba?  
+
+Nos, épp az imént mondtuk, hogy a szanszkrit `hū` = hív szó megfelel a magyarnak.  
+A finnugor nyelvészet viszont a hív és a hit (hisz) külön gyökökre vezetendő vissza. Dacára annak, hogy a CzF szótárban 
+
+
+> [!question] &nbsp;
+> Nem arról van szó, hogy már az ősnyelvben összefüggő szavak rendszeréből megmaradt elemeket emel ki a nyelvészet és bök rá egy tetszőleges megoldásra úgy, hogy nem veszi észre más, akár már menet közben saját PIE gyökökkel kifejezett szavak mélyebb szemantikai kapcsolatát?
+
 #### Tejútistennő, szakrális geometria
 
-Erre az olvasatra leginkább [[G/Göd\|Göd]] címnél tértünk ki. Ott is említésre került a jakutok tejet adó világfa-istennője, Kübej-Kotun, aki fiának, az első embernek ad halhatatlanná tévő "fatejéből".  
+Erre a [[G/God#Téli napfordulós összefüggés\|téli napfordulós összefüggés]] kapcsolatú olvasatra leginkább [[G/Göd\|Göd]] címnél tértünk ki. Ott is említésre került a jakutok tejet adó világfa-istennője, Kübej-Kotun, aki fiának, az első embernek ad halhatatlanná tévő "fatejéből".  
 Az alábbiakban a [[K/Kazán\|kazán]] helyen több formával közölt `xātūn` = (fejedelem)asszony gyökelemét és a (gyakran fából készült) ház alant tagalt K-T és rokon vázú szavait vesszük górcső alá, nem elfeledve a [[G/Good\|good]] helyen már taglalt, *valamilyen oknál fogva* ismételten rokon vázú, tejet jelentő szavakat.   
 
 > [!check] &nbsp;
@@ -361,9 +398,20 @@ Ezen ház formának keményebb hangzókkal ismert másalakja [[K/Kota\|kota]]; e
 Kiegészítve a [[W/Wood\|wood]] helyen látott fát és vadat jelentő rokon vázú kelta szavakkal, kirajzolódik egy kép:  
 Közös gyöke van a tűznek, tűz helyének, a tejnek, a fának (Tejútfa, ahonnan lelket származnak: honnan `kut` = lélek) és vadnak ([[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]]), ahol a felső pont az a jelképállat [[K/Kutya\|kutya]], amely megint csak úgy ismert, mint [[P/Psychopomp\|lélekvezető]].  
 
-**Mit kell itt akkor látni?**  
+##### Mit kell itt akkor látni?
 
-Azt, hogy az évköri viszonyokban való értelmezés ráültethető egy, az éves ciklustól független, [[V/Világhegy\|Világhegy]] és más címnél taglalt ég és föld alapú rendszerre, ahol...
+###### 1
+
+Azt, hogy a Tejútról származnak a lelkek, tehát nemcsak a csillagok és ezek között a legközelebbi csillag, a számunkra életlehetőséget ingyen kegyelemből adó Nap, hanem az ember lelkei is onnan származnak, ahogy erről [[H/Had\|had]] címnél is volt szó: a magyar **Hadak útja** Tejút-nevezet az Ősök útját jelenti.  
+Ez a had a [[H/Ház\|ház]]/[[H/HAS\|has]] szavak párja, melyekről volt már szó Tejút(anya) vonatkozásában. Ezen nevek megint a [[G/Göd\|Göd]] névhez vezetnek vissza, mely címnél szó is esett az Ipolyi Arnold által körüljárt hadnemtőkről (tündér-Tejút vonatkozás ismét) és az oromo `godda` = had(sereg) szóról.  
+Vegyük észre, mennyi hasonló szó van:  
+A sumér `kud` = klán, `gud` = ház, család szavak is tökéletesen ide illenek. (Lásd még [[N/Nép#Nép és más rokon jelentésű idegen szavak\|nép]] címnél.)  
+
+Antal István Tündéres, derengő című Ősi Gyökér 2005/4. sz. megjelent cikkében említi a hadat és Hattyú csillagképet és tündéreket [[N/Nép#Nép és nemzet\|nép és nemzet]] cím/alcímnél.  
+
+###### 2
+
+Azt is, hogy az évköri viszonyokban való értelmezés ráültethető egy, az éves ciklustól független, [[V/Világhegy\|Világhegy]] és más címnél taglalt ég és föld alapú rendszerre, ahol...
 
 > [!check] &nbsp;
 > A K-T vázú szavak a felvilágnak, a (világ)hegynek (K-T/H-T vázú `hegy` szavunk is), az ember által belakott [[K/Kota#Szent ház\|szent térnek]] felelnek meg, melynek csúcsán van Isten.  
@@ -374,6 +422,28 @@ Azaz Isten a legmagasabb pont, és a mitikus világhegy az eget támasztja alá,
 > Azaz a K-T vázú alapszó min. 6000-8000 éves, megelőzi a germán nyelvek kialakulását, és útját a csillagvallási-napvallási időszakokon keresztül végigkísérhetjük, azaz az indogermán nyelvészet részéről vajmi kevés létjogosultsága van annak a bűvészkedésnek (múlt idejű jelre és semleges-hímnemű formákra való hivatkozások), amit ők büntetlenül elkövethetnek.  
 
 
+
+###### 3
+
+Továbbá azt, hogy úgy tűnik, minden fentebb megfogalmazott aspektus egy közös szálra vihető vissza.  
+Mintha az derülne ki, hogy minden e felett álló pontba szedett információ (kezdve a Holdisten/Bikaisten és démiurgosz-féle teremtéssel kapcsolatos információkkal, stb.) összessége, kiindulóalapja egy mindenféle kultúrából ismert szarvasos-tehenes Tejútistennő féle teremtés lenne, amit a védikus [[A/Adita\|Adita]] és [[V/Vach\|Vach]] tehénistennők is képviselnek.  
+Ebben a teremtésben az ég mintájára jelenik meg a föld, de itt, egy későbbi felfogásban, ahol már nem szarvasról, hanem szarvasmarhákról van szó, egy hímségi bika erejére is szükség van, hogy ez létrejöhessen: lásd a [[G/Gundestrup üst#Belső alsó fenéklemez\|belső alsó fenéklemez]]én megjelenő bikát:  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/G/Gundestrup üst/#4kadml" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+![assets/Gundestrupüst_image3.jpeg](/img/user/G/assets/Gundestrup%C3%BCst_image3.jpeg)  
+
+
+</div></div>
+
+
+Na, ami érdekes, hogy az istennő nevére (és persze [[B/Bika\|bika]] szavunkra) ütő latin `vacca` = tehén (az, hogy a [[T/Taurus\|taurus]] = bika, nem sokat mond, mert az csak annyi, hogy szarvas = szarva van).  
+Na most, az [alábbi](https://goldenreed.wordpress.com/2021/05/15/holy-cow-the-cow-hymn-in-the-rig-veda/) blog posztban említett [ezen](https://en.wiktionary.org/wiki/%E0%A4%9C%E0%A4%97%E0%A4%A4%E0%A5%80) Wiktionary oldalon is hozott `जगती` (`jágatī`) = világ, emberiség; tehén jelentésű és ugyanezen írásban említett `गो` (`gó`) = tehén szóra azt írja a szerző, hogy a föld szó szinonimája és lám, gó-nak föld jelentést is írnak [ezen](https://en.wiktionary.org/wiki/%E0%A4%97%E0%A5%8B%E0%A4%AA) Wiktionary helyen és égi gulyára, a csillagokra vonatkozó jelentés is előjön, ahogy Magyar Adorján és Jankovics Marcell [[T/Tehén\|tehén]] címnél szereplő adatai alapján vártuk.  
+Ezzel nincs vége, mert a [[T/TÜN\|TÜN]] címnél szereplő szanszkrit `धेनु` (`dhenú`) kettős (tejet adó, vagy bármilyen, szarvasra is utaló) "tehén" és "világ", (átvitt értelemben) föld jelentésével megint ilyen esetet vázol fel.  
+> [!check] &nbsp;
+> A szarvas(marha) tehenének neve világ/föld jelentésekkel együtt jelenik meg, háromszor is.
 
 ### Előhang nélküli forma
 
@@ -457,7 +527,7 @@ https://orthodoxwiki.org/Sava_the_Goth
 ## Hindi isten
 
 A hindi nyelvben az isten fogalmát az [alábbi](https://en.m.wiktionary.org/wiki/Thesaurus:भगवान) oldal adata szerint több szó is kifejezheti, köztük a [[K/Khuda\|Khuda]] is (perzsa kölcsönszó; pl. a Slumdog Millionaire című filmben a muszlim lány használta).  
-![God_image20260324232910667.jpeg|fix_dark fix_light|840](/img/user/G/assets/God_image20260324232910667.jpeg)
+![God_image20260324232910667.jpeg\|fix_dark fix_light\|840](/img/user/G/assets/God_image20260324232910667.jpeg)
  
 ## Istenek és istennők listája
 
