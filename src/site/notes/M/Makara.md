@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2026-03-23T23:31"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2026-03-31T18:31"}
 ---
 
 
@@ -33,7 +33,7 @@ A leírása alapján ez a Jankovics Marcell Jelkép-kalendárium című könyvé
 Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvében is volt szó szájról, de ott arról volt szó, hogy a nakshatrakban kimért év száját, vagy a nakshatrak száját hívták az év kezdőjének. Lehet, hogy lényegében egy és ugyanarról van szó, téli napfordulós évkezdésről (hogy ezt az évkezdést most még viszonyították első holdtöltéhez, vagy sem, most mindegy is). Lásd erről [[M/Makara Sankrati\|Makara Sankrati]].  
 A [[M/Magyar\|magyar]] címnél említett japán (sintoista ünnepekre értett) `matsuri` = ünnep szó is könnyen lehet, hogy évkezdő (akár téli napfordulós) ünnep neve volt eredetileg.  
 
-Iain Forbes ![assets/Makara_image1.png|right|200](/img/user/M/assets/Makara_image1.png)  a LastoftheDruids című oldalról való anyaga szerint Makara nem más, mint a kecskebakhal (Suhurmasku-Capricorn), melyet Magyar Adorján Csodaszarvasában is Szarvassal azonosított (azóta kiderült, hogy a [[S/Skorpió\|skorpió]] is Szarvas). Lásd a mellékelt képen kívül minden egyebet, Forbes írását is [[S/Suhurmasku\|Suhurmasku]] illetve egy részét alant.  
+Iain Forbes ![assets/Makara_image1.png\|right\|200](/img/user/M/assets/Makara_image1.png)  a LastoftheDruids című oldalról való anyaga szerint Makara nem más, mint a kecskebakhal (Suhurmasku-Capricorn), melyet Magyar Adorján Csodaszarvasában is Szarvassal azonosított (azóta kiderült, hogy a [[S/Skorpió\|skorpió]] is Szarvas). Lásd a mellékelt képen kívül minden egyebet, Forbes írását is [[S/Suhurmasku\|Suhurmasku]] illetve egy részét alant.  
 Itt még csak annyit, hogy a mellékelt képen [[G/Ganga\|Ganga]] (Tejútistennő) "járműve" a Makara.  
 
 Michel-Gerald Boutet Druidical Astrology című dolgozatában írja (a Duna-menti műveltséget is szóba hozva):  
@@ -46,8 +46,9 @@ Michel-Gerald Boutet Druidical Astrology című dolgozatában írja (a Duna-ment
 
 Úgy tűnik, a Makara név a Bakban megszülető Nap (Makar, Magur) nevéről vitetett át az őt szülő szörny illetve tengeri lény nevére.  
 
-Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 93-94. oldalán a nevet eufráteszinek, azon belül is akkádnak (a kakkab mondjuk asszír csillagképek nevei elé is járuló kifejezés) írja le, Kakkab **Ma-Gur** és Kakkab Muna-kha neveket hozva fel Bakhalra, de még említi a szintén eufráteszi **Makhar** és **Magur** neveket is, melyekről elmondja, hogy más művében már hasonlította az ind Makara névvel. (Persze az általa (forrása alapján) megadott jelentés, "a kötél hajója" megint olyan, ami [[M/Magor\|Magor]] címnél is kétségeket támasztott bennünk).)  
-[[M/Makara Sankrati\|Makara Sankrati]] címnél Richard H. Allen könyvében is történik utalás Brown adataira; lásd ott.  
+Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 93-94. oldalán a nevet eufráteszinek, azon belül is akkádnak (a kakkab mondjuk asszír csillagképek nevei elé is járuló kifejezés) írja le, Kakkab **Ma-Gur** és Kakkab Muna-kha neveket hozva fel Bakhalra, de még említi a szintén eufráteszi **Makhar** és **Magur** neveket is, melyekről elmondja, hogy más művében már hasonlította az ind Makara névvel. (Persze az általa (forrása alapján) megadott jelentés, "a kötél hajója" megint olyan, ami [[M/Magor\|Magor]] címnél is kétségeket támasztott bennünk).)  { #mkkhrr}
+
+- [[M/Makara Sankrati\|Makara Sankrati]] címnél Richard H. Allen könyvében is történik utalás Brown adataira; lásd ott.
 
 Dr. Gyárfás Ágnes az Ősi Gyökér 2005/1-2. sz. megjelent Kecskehal című cikkében ugyan ezen Magurt nem azonosítja a Bakkal, de Magur nevet említ, azaz kerülgeti a forró kását. Lásd adatait [[L/Labyrinth\|labyrinth]] (mely mint a Tejútanya méhe, szülőhelyére is rámutat Magur Napnak) és [[T/Téli napforduló\|téli napforduló]].
 
