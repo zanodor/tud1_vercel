@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tükörképes világkép/","title":"Tükörképes világkép","created":"2026-04-01T14:14","updated":"2026-04-01T14:35"}
+{"dg-publish":true,"permalink":"/T/Tükörképes világkép/","title":"Tükörképes világkép","created":"2026-04-01T14:14","updated":"2026-04-01T17:09"}
 ---
 
 
 # Tükörképes világkép
 
-[[E/Ég és föld\|Ég és föld]] címnél is volt róla már szó.  
+[[E/Ég és föld\|Ég és föld]] és más címnél is volt róla már szó.  
 
 #### Falvay Károly Nagyboldogasszony...  
 
-...című könyvében írja (több helyen szerepelt):  
+...című könyvében írja:  
 > Bodor György László Gyulára hivatkozik, mily fontos szerepe volt a török népek életében a "megfordítás" törvényének: "A túlvilágot például az élet [[T/Tükör\|tükör]]képének tekintették, **ami tehát az életben jobboldal volt, a túlvilágon baloldal lett és megfordítva**. E törvénynek azonban nemcsak az élet és a túlvilág viszonylatában, hanem a jelenvaló világ dolgaiban is nagy szerepe volt: **A jobb és a balszárnyra tagozódás és egyes néprészek "fehér" és "fekete" elnevezései is mind e törvény különbözű formájú alkalmazásai**."  
 
 #### Magyar Adorján...
@@ -45,40 +45,45 @@ Ipolyi Arnold könyvének 158. oldalán szól a Délibábbal kapcsolatos békés
 (A jobb oldal a világos oldal, de [[B/Bal és jobb\|bal és jobb]] és más címnél is úgy mutattunk ábrázolásokat szembenézetből, hogy számunkra a bal oldalnak látszik megfelelni a világos oldal.)  
 
 Már a szavak szintjén is látjuk a kettősséget:  
-> [!grid-card-2 same-width]
-> > [!grid-item]
-> > ```plantuml-svg
-> > @startuml
-> > skinparam BackGroundColor transparent
-> > skinparam card {
-> >     roundCorner 15
-> >     BackgroundColor #f9f5d7
-> > }
-> > card "Fenn" as w1 {
-> > }
-> > card "Fenék" as w2 {
-> > }
-> > 
-> > w1 -- w2 : Fény fenn, fenék lenn
-> > @enduml
-> > ```
-> >
-> 
-> > [!grid-item]
-> > ```plantuml-svg
-> > @startuml
-> > left to right direction
-> > skinparam BackGroundColor transparent
-> > skinparam card {
-> >     roundCorner 15
-> >     BackgroundColor #f9f5d7
-> > }
-> > card "Fény" as w1 {
-> > }
-> > card "Fene" as w2 {
-> > }
-> > 
-> > w1 -- w2 : Bal-jobb
-> > @enduml
-> > ```
-> >
+
+```plantuml-svg
+@startuml
+skinparam BackGroundColor transparent
+skinparam card {
+    roundCorner 15
+    BackgroundColor #f9f5d7
+}
+card "Fenn" as w1 {
+}
+card "Fenék" as w2 {
+}
+
+w1 -- w2 : Fény fenn, fenék lenn
+@enduml
+```
+
+```plantuml-svg
+@startuml
+left to right direction
+skinparam BackGroundColor transparent
+skinparam card {
+    roundCorner 15
+    BackgroundColor #f9f5d7
+}
+card "Fény" as w1 {
+}
+card "Fene" as w2 {
+}
+
+w1 -- w2 : Bal-jobb
+@enduml
+```
+
+Nemcsak a Hermész Triszmegisztosz/Thotnak tulajdonított "Ahogy fenn, úgy lenn" axióma kapcsán volt erről szó, hanem pl. [[G/Gundestrup üst#Üst mint égjelkép\|gundestrupi üst alsó fenéklemeze]] kapcsán is elhangzott, hogy a fent megfelelhet a lentnek.  
+
+### Felezés irányai
+
+> [!_for_blockid] &nbsp;
+> Ugye alapvetően arról van szó, hogy van egy **primordiális, teremtéssel kapcsolatos**, fent-lent elválasztásából adódó felezés, majd már a forgó rendszerben érvényesülő, Hunor-Magor/jin-jang rendszerrel magyarázható bal-jobb osztású felezés, ahol a felső pont a [[P/Poláris-szoláris átállás\|poláris-szoláris váltás]]sal létrejött szoláris időszakában az a Kutya, amely K-T váza helyet, felső pontot is jelent.  
+> - Azt kéne tudni, hogy a [[V/Világhegy\|Világhegy]] erre utal-e inkább, vagy már utal a kozmogóniai teremtéssel létrejött Világhegyre.
+^s69777
