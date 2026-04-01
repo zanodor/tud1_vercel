@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/I/Indogermán őshaza/","title":"Indogermán őshaza","tags":["nyelvészet","őstörténet"],"created":"2025-06-12T01:33","updated":"2026-01-01T17:02"}
+{"dg-publish":true,"permalink":"/I/Indogermán őshaza/","title":"Indogermán őshaza","tags":["nyelvészet","őstörténet"],"created":"2025-06-12T01:33","updated":"2026-04-01T19:03"}
 ---
 
 
 # Indogermán őshaza
 
 [[I/Indo-európai nyelvcsalád#Proto-indo-európai nyelvészet és őshaza kérdései\|Proto-indo-európai nyelvészet és őshaza kérdései]] cím/alcímnél már taglaltuk a témát. Szerepelt egy térkép [[A/Árja#Árja őshaza\|árja őshaza]] cím/alcímnél is.  
-[Ezen](https://en.wikipedia.org/wiki/Proto-Indo-European_homeland) oldalon a Wikipédia angol nyelvű, proto-indo-európai őshazáról szóló cikke érhető el.  
+[Ezen](https://en.wikipedia.org/wiki/Proto-Indo-European_homeland) oldalon a Wikipédia angol nyelvű, proto-indoeurópai őshazáról szóló cikke érhető el.  
 
 #### Götz László Keleten kél a Nap...  
 
