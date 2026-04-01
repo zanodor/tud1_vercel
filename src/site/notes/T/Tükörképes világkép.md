@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tükörképes világkép/","title":"Tükörképes világkép","created":"2026-04-01T14:14","updated":"2026-04-01T14:15"}
+{"dg-publish":true,"permalink":"/T/Tükörképes világkép/","title":"Tükörképes világkép","created":"2026-04-01T14:14","updated":"2026-04-01T14:35"}
 ---
 
 
@@ -45,42 +45,40 @@ Ipolyi Arnold könyvének 158. oldalán szól a Délibábbal kapcsolatos békés
 (A jobb oldal a világos oldal, de [[B/Bal és jobb\|bal és jobb]] és más címnél is úgy mutattunk ábrázolásokat szembenézetből, hogy számunkra a bal oldalnak látszik megfelelni a világos oldal.)  
 
 Már a szavak szintjén is látjuk a kettősséget:  
-
-> [!info] &nbsp;
-> > [!grid-card-2 same-width]
-> > > [!grid-item]
-> > > ```plantuml-svg
-> > > @startuml
-> > > skinparam BackGroundColor transparent
-> > > skinparam card {
-> > >     roundCorner 15
-> > >     BackgroundColor #f9f5d7
-> > > }
-> > > card "Fenn" as w1 {
-> > > }
-> > > card "Fenék" as w2 {
-> > > }
-> > > 
-> > > w1 -- w2 : Fény fenn, fenék lenn
-> > > @enduml
-> > > ```
-> > >
+> [!grid-card-2 same-width]
+> > [!grid-item]
+> > ```plantuml-svg
+> > @startuml
+> > skinparam BackGroundColor transparent
+> > skinparam card {
+> >     roundCorner 15
+> >     BackgroundColor #f9f5d7
+> > }
+> > card "Fenn" as w1 {
+> > }
+> > card "Fenék" as w2 {
+> > }
 > > 
-> > > [!grid-item]
-> > > ```plantuml-svg
-> > > @startuml
-> > > left to right direction
-> > > skinparam BackGroundColor transparent
-> > > skinparam card {
-> > >     roundCorner 15
-> > >     BackgroundColor #f9f5d7
-> > > }
-> > > card "Fény" as w1 {
-> > > }
-> > > card "Fene" as w2 {
-> > > }
-> > > 
-> > > w1 -- w2 : Bal-jobb
-> > > @enduml
-> > > ```
-> > >
+> > w1 -- w2 : Fény fenn, fenék lenn
+> > @enduml
+> > ```
+> >
+> 
+> > [!grid-item]
+> > ```plantuml-svg
+> > @startuml
+> > left to right direction
+> > skinparam BackGroundColor transparent
+> > skinparam card {
+> >     roundCorner 15
+> >     BackgroundColor #f9f5d7
+> > }
+> > card "Fény" as w1 {
+> > }
+> > card "Fene" as w2 {
+> > }
+> > 
+> > w1 -- w2 : Bal-jobb
+> > @enduml
+> > ```
+> >
