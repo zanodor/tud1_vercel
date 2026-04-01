@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tükörképes világkép/","title":"Tükörképes világkép","created":"2026-04-01T14:14","updated":"2026-04-01T18:50"}
+{"dg-publish":true,"permalink":"/T/Tükörképes világkép/","title":"Tükörképes világkép","created":"2026-04-01T14:14","updated":"2026-04-01T18:51"}
 ---
 
 
@@ -83,7 +83,7 @@ Nemcsak a Hermész Triszmegisztosz/Thotnak tulajdonított "Ahogy fenn, úgy lenn
 
 ### Felezés irányai
 
-> [!|noicon] &nbsp;
+> [!check] &nbsp;
 > Ugye alapvetően arról van szó, hogy van egy **primordiális, teremtéssel kapcsolatos**, fent-lent elválasztásából adódó felezés, majd már a forgó rendszerben érvényesülő, Hunor-Magor/jin-jang rendszerrel magyarázható bal-jobb osztású felezés, ahol a felső pont a [[P/Poláris-szoláris átállás\|poláris-szoláris váltás]]sal létrejött szoláris időszakában az a Kutya, amely K-T váza helyet, felső pontot is jelent.  
 > - Azt kéne tudni, hogy a [[V/Világhegy\|Világhegy]] erre utal-e inkább, vagy már utal a kozmogóniai teremtéssel létrejött Világhegyre.
 ^s69777
