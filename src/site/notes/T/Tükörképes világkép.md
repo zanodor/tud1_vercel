@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tükörképes világkép/","title":"Tükörképes világkép","created":"2026-04-01T14:14","updated":"2026-04-01T17:09"}
+{"dg-publish":true,"permalink":"/T/Tükörképes világkép/","title":"Tükörképes világkép","created":"2026-04-01T14:14","updated":"2026-04-01T18:12"}
 ---
 
 
@@ -79,11 +79,12 @@ w1 -- w2 : Bal-jobb
 @enduml
 ```
 
-Nemcsak a Hermész Triszmegisztosz/Thotnak tulajdonított "Ahogy fenn, úgy lenn" axióma kapcsán volt erről szó, hanem pl. [[G/Gundestrup üst#Üst mint égjelkép\|gundestrupi üst alsó fenéklemeze]] kapcsán is elhangzott, hogy a fent megfelelhet a lentnek.  
+Nemcsak a Hermész Triszmegisztosz/Thotnak tulajdonított "Ahogy fenn, úgy lenn" axióma kapcsán volt erről szó, hanem pl. a [[G/Gundestrup üst#Üst mint égjelkép\|gundestrupi üst alsó fenéklemeze]] kapcsán is elhangzott, hogy a fent megfelelhet a lentnek.  
 
 ### Felezés irányai
 
 > [!_for_blockid] &nbsp;
 > Ugye alapvetően arról van szó, hogy van egy **primordiális, teremtéssel kapcsolatos**, fent-lent elválasztásából adódó felezés, majd már a forgó rendszerben érvényesülő, Hunor-Magor/jin-jang rendszerrel magyarázható bal-jobb osztású felezés, ahol a felső pont a [[P/Poláris-szoláris átállás\|poláris-szoláris váltás]]sal létrejött szoláris időszakában az a Kutya, amely K-T váza helyet, felső pontot is jelent.  
-> - Azt kéne tudni, hogy a [[V/Világhegy\|Világhegy]] erre utal-e inkább, vagy már utal a kozmogóniai teremtéssel létrejött Világhegyre.
+> - Azt kéne tudni, hogy a [[V/Világhegy\|Világhegy]] erre utal-e inkább, vagy már utal a kozmogóniai teremtéssel létrejött Világhegyre.  
+
 ^s69777
