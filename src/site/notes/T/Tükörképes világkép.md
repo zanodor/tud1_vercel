@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tükörképes világkép/","title":"Tükörképes világkép","created":"2026-04-01T14:14","updated":"2026-04-01T18:53"}
+{"dg-publish":true,"permalink":"/T/Tükörképes világkép/","title":"Tükörképes világkép","created":"2026-04-01T14:14","updated":"2026-04-01T19:04"}
 ---
 
 
@@ -88,5 +88,16 @@ Ugye alapvetően arról van szó, hogy van egy **primordiális, teremtéssel kap
 
 
 > [!example] &nbsp;
-> Ugye alapvetően arról van szó, hogy van egy **primordiális, teremtéssel kapcsolatos**, fent-lent elválasztásából adódó felezés, majd már a forgó rendszerben érvényesülő, Hunor-Magor/jin-jang rendszerrel magyarázható bal-jobb osztású felezés, ahol a felső pont a [[P/Poláris-szoláris átállás\|poláris-szoláris váltás]]sal létrejött szoláris időszakában az a Kutya, amely K-T váza helyet, felső pontot is jelent.
-^n1lwne
+> Ugye alapvetően arról van szó, hogy van egy **primordiális, teremtéssel kapcsolatos**, fent-lent elválasztásából adódó felezés, majd már a forgó rendszerben érvényesülő, Hunor-Magor/jin-jang rendszerrel magyarázható bal-jobb osztású felezés, ahol a felső pont a [[P/Poláris-szoláris átállás\|poláris-szoláris váltás]]sal létrejött szoláris időszakában az a Kutya, amely K-T váza helyet, felső pontot is jelent.{ #n1lwne}
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/I/Indogermán őshaza/#68yltc" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> Nem maradhat ki természetesen a szovjet szerzők által rekonstruált ősindoeurópai alapnyelvi szókincsből a kocsit, szekeret jelentő szó sem, a szekéralkatrészekre vonatkozó egyéb megnevezésekkel együtt (kerék, tengely, iga, igásállat, szerszám, kocsirúd). Mivel ezeket a szavakat a "hangtörvényes" ősnyelvi rekonstrukciós módszerrel – amelyről fentebb láthattuk, hogy elvi-módszertani okok következtében teljesen megbízhatatlan eljárás – az ősindogermán nyelv idejére kikövetkeztették, egyenesen arról beszélnek, hogy e szavak ősnyelvi megléte döntő bizonyítékot szolgáltat az indogermán őshaza lokalizálására. Mivel pedig O. Vdzsaparidze, A. Mnacakjan és más szovjet régészek feltárásai alapján – folytatja ismertetését [[I/Istvánovits Márton\|Istvánovits]] – az angol S. Piggot arra a következtetésre jutott, hogy a kocsit a Kr. e. 4. évezredben egy feltűnően szűkre behatárolható területen találták fel, mégpedig a Transzkaukázia, valamint a Van- és az [[U/Urmia-tó\|Urmia-tó]] között elterülő régióban, ezért a két szovjet szerző szerint napnál világosabb, hogy az indogermán őshazának is ott kellett lennie.  
+> Lám, ilyen egyszerű az egész, már százötven éve elkeseredetten vitatott indogermán őshazakérdés megoldása: nem kell egyebet tenni, csupán eleve feltételezni az indogermanisztikának azt a 19. századi elképzelését, amely szerint a lovaglást, a ló szekérbe fogását az "ősindogermánok" találták fel, s azután **az indogermán őshazát oda helyezni, ahová a régészeti kutatások eredményei a szekér feltalálását lokalizálják**.  
+
+
+</div></div>
