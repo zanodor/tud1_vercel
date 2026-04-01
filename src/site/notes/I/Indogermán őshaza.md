@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Indogermán őshaza/","title":"Indogermán őshaza","tags":["nyelvészet","őstörténet"],"created":"2025-06-12T01:33","updated":"2026-04-01T19:03"}
+{"dg-publish":true,"permalink":"/I/Indogermán őshaza/","title":"Indogermán őshaza","tags":["nyelvészet","őstörténet"],"created":"2025-06-12T01:33","updated":"2026-04-01T19:39"}
 ---
 
 
@@ -25,5 +25,5 @@ Amit Götz László ír:
 Folytatja aztán az [[I/Istvánovits Márton\|Istvánovits Márton]] által magasztalt szovjet "tudósokkal," akiknek fantazmagóráit hosszan ecseteli.  
 Könyvének 974. oldalán már a szarkazmustól sem tudja magát visszafogni:  
 > Nem maradhat ki természetesen a szovjet szerzők által rekonstruált ősindoeurópai alapnyelvi szókincsből a kocsit, szekeret jelentő szó sem, a szekéralkatrészekre vonatkozó egyéb megnevezésekkel együtt (kerék, tengely, iga, igásállat, szerszám, kocsirúd). Mivel ezeket a szavakat a "hangtörvényes" ősnyelvi rekonstrukciós módszerrel – amelyről fentebb láthattuk, hogy elvi-módszertani okok következtében teljesen megbízhatatlan eljárás – az ősindogermán nyelv idejére kikövetkeztették, egyenesen arról beszélnek, hogy e szavak ősnyelvi megléte döntő bizonyítékot szolgáltat az indogermán őshaza lokalizálására. Mivel pedig O. Vdzsaparidze, A. Mnacakjan és más szovjet régészek feltárásai alapján – folytatja ismertetését [[I/Istvánovits Márton\|Istvánovits]] – az angol S. Piggot arra a következtetésre jutott, hogy a kocsit a Kr. e. 4. évezredben egy feltűnően szűkre behatárolható területen találták fel, mégpedig a Transzkaukázia, valamint a Van- és az [[U/Urmia-tó\|Urmia-tó]] között elterülő régióban, ezért a két szovjet szerző szerint napnál világosabb, hogy az indogermán őshazának is ott kellett lennie.  
-> Lám, ilyen egyszerű az egész, már százötven éve elkeseredetten vitatott indogermán őshazakérdés megoldása: nem kell egyebet tenni, csupán eleve feltételezni az indogermanisztikának azt a 19. századi elképzelését, amely szerint a lovaglást, a ló szekérbe fogását az "ősindogermánok" találták fel, s azután **az indogermán őshazát oda helyezni, ahová a régészeti kutatások eredményei a szekér feltalálását lokalizálják**.  
-^68yltc
+> Lám, ilyen egyszerű az egész, már százötven éve elkeseredetten vitatott indogermán őshazakérdés megoldása: nem kell egyebet tenni, csupán eleve feltételezni az indogermanisztikának azt a 19. századi elképzelését, amely szerint a lovaglást, a ló szekérbe fogását az "ősindogermánok" találták fel, s azután **az indogermán őshazát oda helyezni, ahová a régészeti kutatások eredményei a szekér feltalálását lokalizálják**.
+{ #68yltc}
