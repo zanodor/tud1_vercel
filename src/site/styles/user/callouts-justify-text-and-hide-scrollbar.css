@@ -1,0 +1,9 @@
+/* Strip padding from content area & center content and Hide horizontal scrollbar in callouts */
+.callout-content {
+  padding: 0 !important;
+  margin: 0 !important;
+  text-align: justify !important;
+  overflow-x: hidden !important;  /* or: overflow-wrap: break-word */
+  word-break: break-word !important;
+  white-space: normal !important;
+}
