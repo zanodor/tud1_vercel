@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2026-03-05T01:33"}
+{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2026-04-03T04:50"}
 ---
 
 
@@ -10,7 +10,7 @@ Robert Graves adata szerint ilyen néven hívták az egyiptomiak a [[H/Héber\|h
 - Azt jegyezzük meg, hogy az egyiptomiban -u a többes szám jele, azaz lehetséges, hogy olyan módon utaltak népekre, ahogy a görögök (ott az -i a többes jele).
 
 [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] nehezen kalauzolható honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán taglalja a habirukat. A mellékelt nemzetségtábláról az olvasható le, hogy **Ever**-től kezdve lehet habirukról beszélni.  
-![assets/Habiru_image1.jpg|fix_dark fix_light|840](/img/user/H/assets/Habiru_image1.jpg)  
+![assets/Habiru_image1.jpg\|fix_dark fix_light\|840](/img/user/H/assets/Habiru_image1.jpg)  
 A cikket is ezen név említésével nyitja:  
 > "Shem, the father of all the children of 'Ever..." Bereshyit 10:21  
 > —  
@@ -94,7 +94,7 @@ Mivel a Szíriusz közvetlenül szorosan kapcsolódik a Tejúthoz, nem lenne meg
 > Tisztelettel, Dublin, 1903, szeptember 8. J. ELLARD GORE.  
 - Úgy tűnik, JEG hibát vét akkor, amikor egy sémi igére és mesére alapoz. Hiszen az igékből nem szabad kiindulni. Látjuk, hogy a [[H/Héber\|héber]] nevet is egyszerűen egy átkelni igére vezetik vissza. Az arab (vagy bármely) nyelv és szavai nem hitelesek, azért, mert a szent magyar nyelv lerontásai és az adott szavakhoz saját értelmet párosítanak. Ettől még kell őket vizsgálni.
 
-Ugye itt a helyzet az, hogy sok helyen azt írtam mostanában, hogy a Szíriusz az [[O/Orion övcsillagai\|Orion övcsillagai]]hoz és a Tejúthoz (ténylegesen és mítoszok szintjén) annyira szervesen kapcsolódik, hogy nem szabadna változtassa a helyét (bármennyire is szerettem volna korábban). Igen ám, de ez lehet, hogy csak elmúlt 1-2 ezer évben látszik így, innen, a Halakból nézve. Hol az igazság?  
+
 
 #### Noah Brosch könyvéből tallózva:  
 
