@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:30","updated":"2026-04-03T04:51"}
+{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:30","updated":"2026-04-03T20:16"}
 ---
 
 
 # Hsiung-nu
 
 Előfordul Hiung-nu és más formákban is.  
-[Ezen](https://share.google/aimode/vOChz7TKhRxjWS9eH) Google AI Mode-os csevegésben kapott válasz szerint az eredeti név nem kínai, mert az már csak átírás. Azaz a **hunnu** lenne az eredeti.  
+Az eredeti név nem kínai, mert az már csak átírás. Azaz a **hunnu** lenne az eredeti.  
 > [!details]- &nbsp;
 > **A nevek eredete és jelentése**  
 > * Xiongnu (Sziongnu): Ez a kínai forrásokban szereplő elnevezés. A kínai írásjegyek (匈奴) jelentése eredetileg pejoratív volt: „ádáz rabszolga”. Ez nem a nép saját elnevezése volt, hanem a kínaiak által rájuk aggatott gúnynév.
@@ -29,7 +29,8 @@ Előfordul Hiung-nu és más formákban is.
 #### Péterfai János írja:
 
 > A Hsiung-nu népnévben a Hszi Nyugat, az Ung a magyarokat jelöli, a Nu jelentése valószínűleg Úr. A japán Ten-No értelme Isten-Úr, ezzel a [[N/NO#No 2)\|No]] szóval lehet azonos a [[N/NU\|Nu]] szóalak. Nyugati-Ungár-Urak, ezt jelenti a Hsziung-nu népnév. A névben az is benne van, hogy **az ungárok nyugatról érkeztek keletre, tehát a magyarok nem keleti nép**.  
-- De fentebb egy "ádáz rabszolga" jelentésű átirat szerepelt. [Ezen](https://share.google/aimode/P9x4Pw3Ww2p7S0xxd) Google AI Mode-os csevegésben tisztáztuk.
+
+
 
 Ezen adatokat felhasználva írom [ezen](https://qr.ae/py1lXv) Quora posztban:  
 > [!details]- &nbsp;
