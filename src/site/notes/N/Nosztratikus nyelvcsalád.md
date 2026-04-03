@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts"],"created":"2024-05-14T11:45","updated":"2026-04-03T04:51"}
+{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts"],"created":"2024-05-14T11:45","updated":"2026-04-03T20:16"}
 ---
 
 
@@ -37,7 +37,7 @@ A kutya fogalmára használt szóalakok mindenütt fellelhető azonossága kapcs
 > 1\. Az összes nyelv, amelyik ugyanazt a szót használja a "kutya" szóra, egyetlen anyanyelvből származik; 2\. A "kutya" közös szava az állat háziasításával terjedt el. Úgy vélem, hogy ennek a figyelemre méltó jelenségnek a helyes magyarázata a két lehetőség kombinációja.  
 - Valójában a kutya több mint csak kutya.
 
-## Nosztratikustól visszágazó ősi világnyelv réteg
+## Nosztratikustól visszaágazó ősi világnyelv réteg
 
 Wiki oldalát angolul lásd [itt](https://en.wikipedia.org/wiki/Proto-Human_language) (magyarra nincs lefordítva).  
   
