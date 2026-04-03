@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lasso/","title":"Lasso","tags":["Englishtexttranslated"],"created":"2023-10-15T09:24","updated":"2026-01-17T00:12"}
+{"dg-publish":true,"permalink":"/L/Lasso/","title":"Lasso","tags":["Englishtexttranslated"],"created":"2023-10-15T09:24","updated":"2026-04-03T04:52"}
 ---
 
 
@@ -21,5 +21,5 @@ A Holdat lasszózó Sinatra előtt mások már a Napot fogták be...
 > —  
 > A perui Andok egyik hágójában két romos torony áll egymással szemben lévő dombokon. Falukba vaskampókat erősítettek, hogy az egyik toronyból hálót feszítsenek ki a másikba. A háló a Napot hivatott befogni.  
 > A Fidzsi-szigeteken egy kis domb tetején nádas nőtt, és a késéstől félő utazók egy maréknyi nádszál tetejét kötötték össze, hogy feltartsák a Napot a lemenéstől.  
-> A szándék talán az volt, hogy a Napot a nádba gabalyítsák, ahogyan a peruiak próbálják hálóba fogni. Széles körben elterjedtek történetek olyan emberekről, akik hurokkal fogták be a Napot.  
-^fznwmr
+> A szándék talán az volt, hogy a Napot a nádba gabalyítsák, ahogyan a peruiak próbálják hálóba fogni. Széles körben elterjedtek történetek olyan emberekről, akik hurokkal fogták be a Napot.
+{ #fznwmr}
