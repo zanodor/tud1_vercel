@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-03-27T23:04"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-04-03T04:49"}
 ---
 
 
@@ -21,6 +21,8 @@
 
 **2026:**
 
+[260331CN! ÖRDÖGTŐL VALÓK](https://rumble.com/v77vwry-260331cn-rdgtl-valk-kubnyi-tams-ktv.html)  [https://archive.ph/RYmHc](https://archive.ph/RYmHc)
+[260330CN! AZ OSTOR](https://rumble.com/v77u5y8-260330cn-az-ostor-kubnyi-tams-ktv.html)  [https://archive.ph/58LwM](https://archive.ph/58LwM)
 [260327CN! RÁKÓCZI 350.](https://rumble.com/v77piys-260327cn-rkczi-350.-kubnyi-tams-ktv.html)  [https://archive.ph/0jU1p](https://archive.ph/0jU1p)
 [260326CN! HONORIA GYŰRŰJE](https://rumble.com/v77nz94-260326cn-honoria-gyrje-kubnyi-tams-ktv.html)  [https://archive.ph/QaB3A](https://archive.ph/QaB3A)
 [260325CN! FELISMERÉS](https://rumble.com/v77m9qy-260325cn-felismers-kubnyi-tams-ktv.html)  [https://archive.ph/G3dw6](https://archive.ph/G3dw6)
