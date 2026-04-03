@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/God/","title":"God","tags":["containstransclusions","Englishtexttranslated","containscallouts"]}
+{"dg-publish":true,"permalink":"/G/God/","title":"God","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2026-03-23T23:27","updated":"2026-04-03T20:15"}
 ---
 
 
@@ -264,7 +264,7 @@ A hivatalos nyelvtudomány is megerősíti, hogy a maja nyelvben `k'uh` jelenté
 
 ###### Egyiptomi nyelv
 
-Az [alábbi](https://share.google/aimode/JLu4fctRh08upsgBg) Google AI Mode-os beszélgetésben hozott **kozmikus és teológiai fogalomként** létező `ḥw` (`hu`) az **„isteni kimondott szó”** vagy a **„teremtő felkiáltás”** fogalmát jelöli. Hu a teremtő isten (például Ré vagy Ptah) egyik segédje, aki az akarata kimondásával hozza létre a világot.
+A **kozmikus és teológiai fogalomként** létező `ḥw` (`hu`) az **„isteni kimondott szó”** vagy a **„teremtő felkiáltás”** fogalmát jelöli. Hu a teremtő isten (például Ré vagy Ptah) egyik segédje, aki az akarata kimondásával hozza létre a világot.
 { #53yaoq}
 
 
@@ -453,7 +453,7 @@ Nem gondolnám, hogy előhang nélküli lett volna a keresett forma, ami előbb 
 
 Ahogy [[O/Odin\|Odin]] bevezetőjében is taglaltuk, felvetődik, hogy Istent (is) jelentő `egy` szavunk lehet a kiinduló (kivált az alapján, hogy Odin korábban [[Y/Ygg\|Ygg]] lett volna), de az túl nagy kérés, hogy egy lombard Godan formán keresztül akarjuk érvényre juttatni az Egy (Isten) > God levezetést.  
 
-Amúgy, ahogy [ezen](https://share.google/aimode/fEdSah2CXdF1vav61) Google AI Mode-os válaszban is kiderül, már Jacob Grimm idejében (Deutsche Mythologie, 1835) is kizárták, hogy etimológiai kapcsolat lenne a nevek között:  
+Már Jacob Grimm idejében (Deutsche Mythologie, 1835) is kizárták, hogy etimológiai kapcsolat lenne a nevek között:  
 > Elismerte, hogy bizonyos dialektusokban (mint az alnémet _Gode_ vagy a longobárd _Guodan_) a hangtani fejlődés miatt a két alak rendkívül közel került egymáshoz, ami a népi etimológiában a pogány főisten és a keresztény Isten alakjának összemosódásához vezetett a folklórban.  
 
 #### Üt
