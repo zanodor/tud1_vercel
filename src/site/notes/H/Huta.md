@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Huta/","title":"Huta","tags":["Englishtexttranslated"],"created":"2023-11-05T03:19","updated":"2026-03-25T02:21"}
+{"dg-publish":true,"permalink":"/H/Huta/","title":"Huta","tags":["Englishtexttranslated"],"created":"2023-11-05T03:19","updated":"2026-04-03T20:16"}
 ---
 
 
@@ -33,9 +33,9 @@ Borbola János [[H/Ház\|ház]] címnél taglalt A kota és a ház című az Ős
 (57 Hannig R., Großes Handwörterbuch Ägyptisch-Deutsch (Mainz, 1995), 490. 58 Budge E.A.W., An Egyptian hieroglyphic dictionary, Vol 1. (Dover Edition 1978), 444a)  
 
 Dr. Kovács Sándor Gán.Muš – a kígyó kertje avagy a sötétség című az Ősi Gyökér 2010/1-2. sz. megjelent cikkében, lábjegyzetben az óegyiptomi nyelvben megjelenő ómagyar szó(variáns)ok között bemutatja: ház> egyiptomi ~~`h3t` \[hat\] (ház)~~ szót (vö. az obdorszki osztják (hanti) `hat` (ház) ekvivalensével).  
-- [Ezen](https://share.google/aimode/5BpxaQtS2Y3R2gngs) Google AI Mode adat szerint ez nem a ház szó, hanem egy "valaminek az eleje" jelentésű szó. Kovácsnak a `ḥwt` formát kellett volna kiírnia.
+-Ez nem a ház szó, hanem egy "valaminek az eleje" jelentésű szó. Kovácsnak a `ḥwt` formát kellett volna kiírnia.
 
-A Borbola János ![assets/Huta_image1.jpeg|fix_dark fix_light right|300](/img/user/H/assets/Huta_image1.jpeg)által csatolt egyiptomi `ḥwt` (hut) kut alakban előjött Magyar Adorjánnál [[K/Kufu\|Kufu]] címnél, ahol Magyar megadja a jelentéseket is (az igaz, hogy az egyiptológia nem ismeri ezen néven a piramisokat, csak `mr` néven):  
+A Borbola János ![assets/Huta_image1.jpeg\|fix_dark fix_light right\|300](/img/user/H/assets/Huta_image1.jpeg)által csatolt egyiptomi `ḥwt` (hut) kut alakban előjött Magyar Adorjánnál [[K/Kufu\|Kufu]] címnél, ahol Magyar megadja a jelentéseket is (az igaz, hogy az egyiptológia nem ismeri ezen néven a piramisokat, csak `mr` néven):  
 > A piramisok egyiptomi neve `kha` vagy `ku`, sőt éppen Keopszé, vagyis Kufué, egyiptomi nyelven `kut`, holott ez utóbbi szóalak a kún szó csoport egyik alapszava.  
 > E neveket az egyiptomi nyelvből "korona, tüzes, világos" értelműnek magyarázzák.  
 - Az egyiptológia a `ḥwt` = ház, szentély jelentésű szót pontos h-val írja ki, azaz nem k-val ejtendő.
