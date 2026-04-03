@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Transzliteráció/","title":"Transzliteráció","tags":["containstransclusions","Englishtexttranslated"],"created":"2026-03-31T18:28","updated":"2026-03-31T18:29"}
+{"dg-publish":true,"permalink":"/T/Transzliteráció/","title":"Transzliteráció","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2026-03-31T18:28","updated":"2026-04-03T04:50"}
 ---
 
 
@@ -83,8 +83,7 @@ Ami tőle [[B/Breath\|breath]] címnél is szerepelt:
 > Who would think Turkish `burun` (nose) and English `breath` are cognates coming from the same root \*bur (smell, inhale/exhale). There is this Sumerian word `burutur` for 'lungs'. But of course you will not see this reading in the Sumerian lexicon because of the false transliteration nor will you see this correspondance in any of the etymology sources. This sucks.  
 > —  
 > Nagyon sokszor zavart már, hogy egy szót arab vagy perzsa eredetűnek tartottak az etimológiai források, pedig kétségtelenül török eredetűnek tűnt. Szóval bármilyen nyelvről is van szó, látható, hogy ugyanaz a gyök mindenhol más-más változatban kering.  
-> Ki gondolná, hogy a török `burun` (orr) és az angol `breath` = lélegzet rokon szavak, amelyek ugyanabból a gyökből származnak \*bur (szaglás, belégzés/kilégzés). Van egy sumér `burutur` szó 'tüdő' jelentéssel. De természetesen a sumér lexikonban a hamis átírás miatt ezt az olvasatot nem látod, és az etimológiai források egyikében sem találod ezt a megfelelést. Ez szívás.  
-
+> Ki gondolná, hogy a török `burun` (orr) és az angol `breath` = lélegzet rokon szavak, amelyek ugyanabból a gyökből származnak \*bur (szaglás, belégzés/kilégzés). Van egy sumér `burutur` szó 'tüdő' jelentéssel. De természetesen a sumér lexikonban a hamis átírás miatt ezt az olvasatot nem látod, és az etimológiai források egyikében sem találod ezt a megfelelést. Ez szívás. 
 
 </div></div>
 
