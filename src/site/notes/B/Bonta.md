@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bonta/","title":"Bonta","created":"2023-11-21T02:33","updated":"2026-01-17T00:12"}
+{"dg-publish":true,"permalink":"/B/Bonta/","title":"Bonta","created":"2023-11-21T02:33","updated":"2026-04-03T04:52"}
 ---
 
 
@@ -12,5 +12,5 @@ Megfelel [[F/Fent\|fent]] szavunk alhangos párjának.
 #### Magyar Adorján...
 
 ...adata [[B/Bunt\|bunt]] címnél is szerepelt:  
-> Valamint a festésre utal a magyar `bonta`, `bunta` (Ballagi) = tarka, sokszínű, de mivel a németben is `bunt` = tarka, sokszínű ezért e szavunkat a németből vettnek vélték, holott nem valószínű hogy e ritkán használatos szót népűnk a németből vette volna; szerintem e szó igen régen valamely, germánok által leigázott és elgermánosított pannon őstörzsünktől került a németbe. Mível azonban ezen bunta, bonta, bunt szóhangtanilag azonos a latin `pintus` = festett, színezett, színes szóval (b-nl, p-nl), eszerint valószínű, hogy e szavunk régen szintén tulajdonképpen festés, festettség értelmű volt. Ha pedig a pannonok kultusz-színei a píros, sárga és zöld de ezeken kívül a kék is, a tenger színeként, náluk szintén szerepelt (a fönt leírt tengerészruha is mindig kék színű), akkor valószínű, hogy a kék színt is használták. Ha viszont valami mind e négy színnel festve, akkor erre a tarka, sokszínű jelzés is illik.  
-^ljlxsh
+> Valamint a festésre utal a magyar `bonta`, `bunta` (Ballagi) = tarka, sokszínű, de mivel a németben is `bunt` = tarka, sokszínű ezért e szavunkat a németből vettnek vélték, holott nem valószínű hogy e ritkán használatos szót népűnk a németből vette volna; szerintem e szó igen régen valamely, germánok által leigázott és elgermánosított pannon őstörzsünktől került a németbe. Mível azonban ezen bunta, bonta, bunt szóhangtanilag azonos a latin `pintus` = festett, színezett, színes szóval (b-nl, p-nl), eszerint valószínű, hogy e szavunk régen szintén tulajdonképpen festés, festettség értelmű volt. Ha pedig a pannonok kultusz-színei a píros, sárga és zöld de ezeken kívül a kék is, a tenger színeként, náluk szintén szerepelt (a fönt leírt tengerészruha is mindig kék színű), akkor valószínű, hogy a kék színt is használták. Ha viszont valami mind e négy színnel festve, akkor erre a tarka, sokszínű jelzés is illik.
+{ #ljlxsh}
