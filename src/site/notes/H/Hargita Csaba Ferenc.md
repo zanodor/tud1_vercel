@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hargita Csaba Ferenc/","title":"Hargita Csaba Ferenc","tags":["containscallouts"],"created":"2026-03-08T17:00","updated":"2026-03-10T22:59"}
+{"dg-publish":true,"permalink":"/H/Hargita Csaba Ferenc/","title":"Hargita Csaba Ferenc","tags":["containscallouts"],"created":"2026-03-08T17:00","updated":"2026-04-03T20:16"}
 ---
 
 
 # Hargita Csaba Ferenc
 
 > [!caution] &nbsp;
-> *Ki ez a ![Hargita Csaba Ferenc_image20260310152926246.jpeg|right|200](/img/user/H/assets/Hargita%20Csaba%20Ferenc_image20260310152926246.jpeg)"professzor"?*
+> *Ki ez a ![Hargita Csaba Ferenc_image20260310152926246.jpeg\|right\|200](/img/user/H/assets/Hargita%20Csaba%20Ferenc_image20260310152926246.jpeg)"professzor"?*
 > <small>An IT security consultant having more than 20 years of experience in information technology altogether, spending the last 10 years in IT security an compliance, specialized in in the international legislation of personal data protection since 2011.</small>
 > <small>Bachelor of politology studies completed at the Kodolányi János Főiskola in Budapest (2014), with expertise in international relations and EU integration. Thesis made in the subject of “The characteristics of Eastern alternative medicines and their impact on Western view of life.”</small>
 > <small>Special interest in foreign languages and religious philosophies, especially in their impact to international and Hungarian political, economic and social courses.</small>
@@ -64,7 +64,7 @@ Az illető arcát elnézve megint az látszik, hogy ő rokonait láthatja magyar
 > 
 > Alkalmazott jelentése pedig kiterjed a mesterembertől, a valami felett ellenőrzést megszerzőn át Hold szerűen ragyogó arcúig. De találunk Mazar (**مازار**) nevű méd tábornokot Kourosh seregében, ahogy perzsa Maziart (**مازیار**) is Tabarisztáni állomáshelyen.  
 
-A "szarvas rejteke" jelentés nem valós, és a többivel kapcsolatban [ezen](https://share.google/aimode/u5KuK4roYj7uHzy2p) Google AI Mode helyen írja a gép:  
+A "szarvas rejteke" jelentés nem valós, és a többivel kapcsolatban Google AI Mode írja:  
 > **A szavak és jelentéseik ellenőrzése**  
 > * maghār (مغار) – barlang: Helyes. Az arab eredetű szó valóban barlangot, üreget vagy búvóhelyet jelent (gyakran használt alakja a maghara).
 > * magharr (مقر) – lakhely, letelepedni: Helyes. A szó alapjelentése székhely, központ vagy bázis. A „lepecsételni” jelentés ritkább, de a gyök a szilárdsághoz köthető.
