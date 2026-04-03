@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magura/","title":"Magura","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T08:17","updated":"2026-04-03T04:51"}
+{"dg-publish":true,"permalink":"/M/Magura/","title":"Magura","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T08:17","updated":"2026-04-03T20:16"}
 ---
 
 
@@ -62,7 +62,7 @@ Benesóczky Tamás [ezen](https://hu.wikipedia.org/wiki/Vita%3AA_%E2%80%9Emagyar
 > A `magyar` fonémához legközelebb álló török fonéma `mağara` = barlang (Földanya méhe?). Érdekes, hogy a szintén török kazah nyelven a barlang `üñgir`.  
 
 Ő nem az arab szóból indul ki, de ez most nem is lényeges. A lényeg az – azon kívül, hogy a "Földanya méhe" olvasat jó gondolat –, hogy más nyelvben [[H/Hungár\|hungár]] alakú szó jön elő barlang jelentéssel.  
-A kazah szóra [ezen](https://share.google/aimode/yk6NZBiIRSOqDA5NN) Google AI Mode helyen kérdeztem: ott ásni, vájni jelentésű türk gyökből kiinduló eredetet adnak. 
+
 
 ## Oroszlán-Vízöntő tengely
 
