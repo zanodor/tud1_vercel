@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Good/","title":"Good","tags":["Englishtexttranslated"],"created":"2026-03-23T23:27","updated":"2026-03-31T18:32"}
+{"dg-publish":true,"permalink":"/G/Good/","title":"Good","tags":["Englishtexttranslated","containscallouts"],"created":"2026-03-23T23:27","updated":"2026-04-03T04:50"}
 ---
 
 
