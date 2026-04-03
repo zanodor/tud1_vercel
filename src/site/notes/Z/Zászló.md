@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zászló/","title":"Zászló","tags":["containstransclusions"],"created":"2023-10-17T09:23","updated":"2025-07-16T14:25"}
+{"dg-publish":true,"permalink":"/Z/Zászló/","title":"Zászló","tags":["containstransclusions"],"created":"2023-10-17T09:23","updated":"2026-04-03T04:51"}
 ---
 
 
@@ -54,7 +54,7 @@ Bakos Attila A Duna Evangéliuma című könyvének 253. oldalán az ottománok 
 ## Piros-fehér-zöld zászló
 
 Érdekes, hogy sok más Kumari Kandam környéki országhoz hasonlóan Madagaszkárnak is piros-fehér-zöld zászlója van.  
-[[S/Szaka\|Szaka]] a neve a jakutok köztársaságának (tulajdonképpen a nép és nyelvük más néven is szaka). Érdekes a zászlajuk, melyben a piros-fehér-zöld hármas szintén szerepel.  
+[[S/Szaka\|Szaha]] a neve a jakutok köztársaságának (tulajdonképpen a nép és nyelvük más néven is szaka). Érdekes a zászlajuk, melyben a piros-fehér-zöld hármas szintén szerepel.  
 
 
 #### Tomory Zsuzsa...
