@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions"],"created":"2024-05-14T11:45","updated":"2026-03-31T18:33"}
+{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts"],"created":"2024-05-14T11:45","updated":"2026-04-03T04:51"}
 ---
 
 
