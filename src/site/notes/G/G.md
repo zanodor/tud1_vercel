@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2026-03-05T01:43"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2026-04-03T04:51"}
 ---
 
 
@@ -9,7 +9,7 @@ Immáron két sumér szót találtam, melyek elején szerepel egy feleslegesnek 
 
 Ismert még a szumer `sal` = asszony, nő (vö. a főképpen René Labat adataira támaszkodó [[D/Dudás Rudolf\|Dudás Rudolf]] közlése alapján ismert szinte azonos alakú sumér `ŠUL` = férfi, hős szóval).  
 
-Gyárfás Ágnesnek ![assets/G_image1.png|fix_dark fix_light right|111](/img/user/G/assets/G_image1.png)  van egy több helyen említett Lugal Geme című tanulmánya, melyben szintén előjön Geme.  
+Gyárfás Ágnesnek ![assets/G_image1.png\|fix_dark fix_light right\|111](/img/user/G/assets/G_image1.png)  van egy több helyen említett Lugal Geme című tanulmánya, melyben szintén előjön Geme.  
 A csatolt L554 jelet – nyilvánvaló okokból – [[P/Pina\|pina]] címnél is szerepeltettük.  
 Záhonyi András A káld-szabír (sumer) képjelek, hangértékek rejtett üzenetei című az Ősi Gyökér 2021/1. sz. megjelent cikke alján is említi futólag.  
 
@@ -43,7 +43,7 @@ Hasonló esetet másutt is láttuk, amikor például [[M/Magor\|Magor]]/[[M/Maga
 
 A törökországi törökök tulajdonképpeni önazonosítására használt [[O/Oguz\|oguz]] névben g valójában ğ azaz gh hang, melyről nemcsak a `kağan` név kapcsán, hanem az [[U/UL\|UL]] és [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél taglalt példák kapcsán is volt szó.  
 
-A török `oğul` és jakut (tuvan vagy szaka) `ool` ezt jelenti (a jakut \[beszélő elmondása szerint; Bahador Alast videóban\] inkább boy és nem son jelentésű, de mindegy is). A török szóban a ğ hang alig ejtett (vagy h-ként ejtett). Amikor a török srác a török `iğne` = tű szót kifejtette \[íne\], pontosan azt kaptam, amit vártam. Hosszan ejti az i-t. A hosszú magánhangzók kiírása helyett használják a g/h hangokat.  
+A török `oğul` és jakut (tuvai vagy szakha) `ool` ezt jelenti (a jakut \[beszélő elmondása szerint; Bahador Alast videóban\] inkább boy és nem son jelentésű, de mindegy is). A török szóban a ğ hang alig ejtett (vagy h-ként ejtett). Amikor a török srác a török `iğne` = tű szót kifejtette \[íne\], pontosan azt kaptam, amit vártam. Hosszan ejti az i-t. A hosszú magánhangzók kiírása helyett használják a g/h hangokat.  
 [Ezen](https://qr.ae/pN2kOQ) több helyen idézett Quora válaszban leírják, hogy bizonyos szavakban hogy kell ejteni az azóta [[G/G\|G]] címnél oguz név kapcsán is taglalt ğ hangot. Úgy tűnik, hogy a hosszú mássalhangzók hiánya miatt van betoldás. Azaz úz > oguz.  
 
 Thúry József Török történetírók I. kötetének szójegyzékében a török `tugra` = szultán névjegye szó kapcsán is írja: kiejtve: túra.  
