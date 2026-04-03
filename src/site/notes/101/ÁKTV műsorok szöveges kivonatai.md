@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-04-03T04:49"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-04-03T16:14"}
 ---
 
 
@@ -21,6 +21,8 @@
 
 **2026:**
 
+[260402CN! TESTVÉRIESÜLÉS - Kubínyi Tamás ÁKTV](https://rumble.com/v77z8mw-260402cn-testvriesls-kubnyi-tams-ktv.html)  [https://archive.ph/VELaL](https://archive.ph/VELaL)
+[260401CN! HARMINC EZÜST](https://rumble.com/v77xl5s-260401cn-harminc-ezst-kubnyi-tams-ktv.html)  [https://archive.ph/JB8Vn](https://archive.ph/JB8Vn)
 [260331CN! ÖRDÖGTŐL VALÓK](https://rumble.com/v77vwry-260331cn-rdgtl-valk-kubnyi-tams-ktv.html)  [https://archive.ph/RYmHc](https://archive.ph/RYmHc)
 [260330CN! AZ OSTOR](https://rumble.com/v77u5y8-260330cn-az-ostor-kubnyi-tams-ktv.html)  [https://archive.ph/58LwM](https://archive.ph/58LwM)
 [260327CN! RÁKÓCZI 350.](https://rumble.com/v77piys-260327cn-rkczi-350.-kubnyi-tams-ktv.html)  [https://archive.ph/0jU1p](https://archive.ph/0jU1p)
