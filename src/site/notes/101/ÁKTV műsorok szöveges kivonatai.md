@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-04-03T16:14"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-04-04T14:57"}
 ---
 
 
@@ -21,14 +21,14 @@
 
 **2026:**
 
-[260402CN! TESTVÉRIESÜLÉS - Kubínyi Tamás ÁKTV](https://rumble.com/v77z8mw-260402cn-testvriesls-kubnyi-tams-ktv.html)  [https://archive.ph/VELaL](https://archive.ph/VELaL)
+[260402CN! TESTVÉRIESÜLÉS](https://rumble.com/v77z8mw-260402cn-testvriesls-kubnyi-tams-ktv.html)  [https://archive.ph/VELaL](https://archive.ph/VELaL)
 [260401CN! HARMINC EZÜST](https://rumble.com/v77xl5s-260401cn-harminc-ezst-kubnyi-tams-ktv.html)  [https://archive.ph/JB8Vn](https://archive.ph/JB8Vn)
 [260331CN! ÖRDÖGTŐL VALÓK](https://rumble.com/v77vwry-260331cn-rdgtl-valk-kubnyi-tams-ktv.html)  [https://archive.ph/RYmHc](https://archive.ph/RYmHc)
 [260330CN! AZ OSTOR](https://rumble.com/v77u5y8-260330cn-az-ostor-kubnyi-tams-ktv.html)  [https://archive.ph/58LwM](https://archive.ph/58LwM)
 [260327CN! RÁKÓCZI 350.](https://rumble.com/v77piys-260327cn-rkczi-350.-kubnyi-tams-ktv.html)  [https://archive.ph/0jU1p](https://archive.ph/0jU1p)
 [260326CN! HONORIA GYŰRŰJE](https://rumble.com/v77nz94-260326cn-honoria-gyrje-kubnyi-tams-ktv.html)  [https://archive.ph/QaB3A](https://archive.ph/QaB3A)
 [260325CN! FELISMERÉS](https://rumble.com/v77m9qy-260325cn-felismers-kubnyi-tams-ktv.html)  [https://archive.ph/G3dw6](https://archive.ph/G3dw6)
-[260324CN! HALT the HUN!](https://rumble.com/v77kexy-260324cn-halt-the-hun-kubnyi-tams-ktv.html)  [https://archive.ph/fgjkD](https://archive.ph/fgjkD)
+[260324CN! HALT THE HUN!](https://rumble.com/v77kexy-260324cn-halt-the-hun-kubnyi-tams-ktv.html)  [https://archive.ph/fgjkD](https://archive.ph/fgjkD)
 [260323CN! SPICLIK](https://rumble.com/v77iquy-260323cn-spiclik-kubnyi-tams-ktv.html)  [https://archive.ph/i08GQ](https://archive.ph/i08GQ)
 [260320CN! FIATAL ÉLETEKÉRT](https://rumble.com/v77e96i-260320cn-fiatal-letekrt-kubnyi-tams-ktv.html)  [https://archive.ph/SgabX](https://archive.ph/SgabX)
 [260319CN! FEKETE MÁRCIUS](https://rumble.com/v77ckzk-260319cn-fekete-mrcius-kubnyi-tams-ktv.html)  [https://archive.ph/5XAGs](https://archive.ph/5XAGs)
