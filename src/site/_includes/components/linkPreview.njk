@@ -19,6 +19,21 @@
   z-index: 10;
 }
 
+/* Desktop: larger preview panel + readable type (~1.5× footprint vs default, font scaled to match) */
+@media (min-width: 1024px) {
+  #tooltip-wrapper {
+    max-width: min(720px, 88vw);
+    max-height: min(68vh, 620px);
+    font-size: 1.00em;
+    padding: 1.15em 1.35em;
+    line-height: 1.45;
+  }
+
+  .tooltip-pdf {
+    height: min(520px, 58vh);
+  }
+}
+
 #tooltip-wrapper:after {
   content: "";
   position: absolute;
