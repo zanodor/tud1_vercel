@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/W/West/","title":"West","tags":["Englishtexttranslated"],"created":"2026-04-03T16:16","updated":"2026-04-03T16:17"}
+{"dg-publish":true,"permalink":"/W/West/","title":"West","tags":["Englishtexttranslated"],"created":"2026-04-03T16:16","updated":"2026-04-05T02:43"}
 ---
 
 
@@ -24,6 +24,7 @@ Péterfai János alábbi sorai is illenek ide:
 
 ...hasonlóképpen írja:  
 > Ugyancsak az Esticsillag avagy Esthajnalcsillag e neve is onnan származik, hogy eslenden (esténként), igen fényes volta miatt, minden más csillagnál előbb válik láthatóvá. Ha tehát a hehezetesítés jelenségét ismerjük, akkor észre kell vennünk, hogy hiszen az Esticsillag görög **Heszperosz**, az Esticsillag e neve hesz szótöve sem más mint `es` szótövünk hehezetes kiejtése. Megjegyzendő azonban, hogy e görög névnek illetve szónak még nyugat, napnyugat és este értelme is volt. Mi több, azonban, még azt is észre kell vennünk hogy a latin `Vesperus`, `vesper` = Esticsillag és este, alkonyat, sem egyéb mint es igénk vésített kiejtése. Vajon tehát, már az egyszerú logika szerint is, nem kell-e arra gondolnunk hogy vajon ezen görög és latin `heszper`, `veszper` szóalak per része nem fényt, pírt jelenti-e, hiszen ma is beszélünk alkonypírról, azaz a Nap estekori piros fényről. (Ami szerint következtethető még az is hogy [[K/Konyul\|konyul]] szavunk kún megfelelője a besenyő `esik`-nek). De akarva-nemakarva, észre kell vennünk, hogy a német `West,` `Westen` = Nyugat, Napnyugat szó is azonosul a mi `est`, `esten` szavunkkal ugyanúgy mint ahogy a nyugat vagy napeste fogalmak is azonosulnak az este vagy alkonyat fogalmaival. Ámde ezen West, Westen szavak, igy vésítve, már határozottan besenyő szóalakúak (v-s), miután pedig az esés, aláhanyatlás, az est, a sötétség jötte és a Napnyugat, egyúttal az elmúlással, meghalással is összefüggésbe hozható, különösen, ha azon ősidőre gondolunk, amelyben az Északi Sark még Magyarország területén lévén, az este akkor a Nap fél esztendeig tartó eltűnését (költőileg Alvilágba, a Halál Országába való alászállását, halását) is jelentette, ennélfogva ezen West és vesper szavak első szótagját a mi vész, vesztés, elveszés, veszedelem szavainkkal is összehasonlíthatjuk és arra is gondolhatunk hogy a kőrös szócsoportbeli [[H/Halál\|halál]] szavunknak a besenyő szócsoportban egy ilyen `vész`, `veszt` alakú szó felelhetett meg, amire ma is utalnak az olyan szavak mint "vesztőhely" és "vesztébe" (rohant) avagy "az volt a veszte."  
+- Viszont [[V/Vész\|vész]] és [[V/Vész\|veszt]] mellett említhető [[V/Vég\|vég]].
 
 ## Quora válasz
 
