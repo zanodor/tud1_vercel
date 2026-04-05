@@ -1,19 +1,17 @@
-/* Strip padding from content area & center content and Hide horizontal scrollbar in callouts */
+/* Source: https://claude.ai/chat/b09dc9a3-2175-4bea-b0ab-72fe540b94a5 */
+
+/* Strip padding from content area, Hide horizontal scrollbar in callouts */
 .callout-content {
   padding: 0 !important;
   margin: 0 !important;
-  text-align: justify !important;
-  text-align-last: justify !important;
-  overflow-x: hidden !important;  /* or: overflow-wrap: break-word */
+  text-align: left !important;
+  overflow-x: hidden !important;
   word-break: break-word !important;
   white-space: normal !important;
 }
 
-/* List items also handled with last line treated differently */
-/* Same source: https://claude.ai/chat/b09dc9a3-2175-4bea-b0ab-72fe540b94a5 */
 .callout-content p,
-.callout-content li,
-.callout-content span {
+.callout-content li {
   text-align: justify !important;
   text-align-last: left !important;
 }
