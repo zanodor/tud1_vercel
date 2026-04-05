@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Buda/","title":"Buda","tags":["Englishtexttranslated"],"created":"2023-12-03T10:25","updated":"2026-03-05T01:41"}
+{"dg-publish":true,"permalink":"/B/Buda/","title":"Buda","tags":["Englishtexttranslated"],"created":"2023-12-03T10:25","updated":"2026-04-05T02:43"}
 ---
 
 
@@ -9,7 +9,7 @@ Ha valaki azt gondolná vagy hirdetné, hogy [[A/Atilla hun király\|Atilla]] te
 
 - Már [[L/Light\|light]] címnél is erre hívtuk fel a figyelmet. Egy valamire való filológus észre kell vegye, hogy ha egyezik is két szó, mélyebb kapcsolat fedezhető fel.  
 [[S/Sakaea\|Sakaea]] címnél is arról volt szó, hogy nem feltétlenül a szakák/szkíták ünnepe volt, ahogy Grandpierre Atilla véleményezte, hanem arról lehet szó, hogy a szaka és a Szakaea nevek azonos értelmi kiindulásúak. Ha a [[K/Karácsony\|Karácsony]] és [[K/Kerecsen\|kerecsen]] szavakat magyarnak érezzük és a magyarból akarjuk értelmezni de csak úgy, hogy egyik a másikból ered, ez így szintén nem elégséges.  
-Azon elképzelések, hogy a népek királyukról kapják a nevüket, a mi esetünkben a magyar egy [[M/Muager\|Maugerisz]] nevű királyról, megint nem helyes. A király a Napról ([[M/Magor\|Magor]], Magur ebben az esetben) és a nép is a Naptól (vagy anyjától, esetünkben [[M/Magyar\|Magyar]] ([[M/Magyar Ilona\|Ilona]]) istennőtől) kapja a nevét. Nem mindegy mit mivel kötünk össze. A közös eredet kell és a csillagmítoszi háttér feltárása szükséges.  
+Azon elképzelések, hogy a népek királyukról kapják a nevüket, a mi esetünkben a magyar egy [[M/Muager\|Muagerisz]] nevű királyról, megint nem helyes. A király a Napról ([[M/Magor\|Magor]], Magur ebben az esetben) és a nép is a Naptól (vagy anyjától, esetünkben [[M/Magyar\|Magyar]] ([[M/Magyar Ilona\|Ilona]]) istennőtől) kapja a nevét. Nem mindegy mit mivel kötünk össze. A közös eredet kell és a csillagmítoszi háttér feltárása szükséges.  
 
 Bu-Da nevének értelme Fő Nap, vagy Feje Nap...  
 
@@ -40,9 +40,9 @@ Hasonló hozzá a kelta [[B/Buada\|Buada]]. A kelta-ír ír `bodach` = vajda (ö
 ## Buda nevének elgermánosítása
 
 Otto Maenchen-Helfen The Language of the Huns című könyvének IX. fejezetében foglalkozik [[A/Atilla hun király\|Atilla hun király]], Buda, [[R/Ruga\|Ruga]], stb. neveivel (és elgermánosításukkal). [Ezen](http://www.kroraina.com/huns/mh/mh_4.html) oldal segítségével adom anyagát "Bleda"-ról:  
-> Attila's older brother. The Greek sources have ![assets/Buda_image2.jpg|fix_dark fix_light|66](/img/user/B/assets/Buda_image2.jpg), the Latin *Bleda*[^2]. The Arian bishop whom Marcian sent as his ambassador to Geiseric[^3], and one of Totila's generals[^4] had the same name. It is generally agreed that Bleda is Germanic, the short form of a name like OHG *Bladardus*, *Blatgildus*, *Blatgisus*[^5]. Bleda of Marcellinus Comes (*s.a.* 442) appears in [[B/Bede\|Bede]]'s *Chronicle* in the strange form Blædla[^6]. The English scribes "corrected" the name; they knew it as Blædla from oral tradition where the name was adapted to Ætla[^7].  
+> Attila's older brother. The Greek sources have ![assets/Buda_image2.jpg\|fix_dark fix_light\|66](/img/user/B/assets/Buda_image2.jpg), the Latin *Bleda*[^2]. The Arian bishop whom Marcian sent as his ambassador to Geiseric[^3], and one of Totila's generals[^4] had the same name. It is generally agreed that Bleda is Germanic, the short form of a name like OHG *Bladardus*, *Blatgildus*, *Blatgisus*[^5]. Bleda of Marcellinus Comes (*s.a.* 442) appears in [[B/Bede\|Bede]]'s *Chronicle* in the strange form Blædla[^6]. The English scribes "corrected" the name; they knew it as Blædla from oral tradition where the name was adapted to Ætla[^7].  
 > —  
-> Attila idősebb testvére. A görög forrásokban ![assets/Buda_image2.jpg|fix_dark fix_light|66](/img/user/B/assets/Buda_image2.jpg), a latin *Bleda*[^2]. Az ariánus püspök, akit Marcianus követként küldött Geiseric-hez[^3], és Totila egyik hadvezére[^4] ugyanezt a nevet viselte. Általánosan elfogadott, hogy a Bleda germán eredetű, az ófelnémet *Bladardus*, *Blatgildus*, *Blatgisus*[^5] nevekhez hasonló név rövidített formája. Marcellinus Comes Bleda (*s.a.* 442) [[B/Bede\|Bede]] *Krónikájában* a Blædla[^6] furcsa alakban jelenik meg. Az angol írástudók "kijavították" a nevet; ők Blædla néven ismerték a szájhagyományból, ahol a nevet Ætla[^7]-ra igazították.  
+> Attila idősebb testvére. A görög forrásokban ![assets/Buda_image2.jpg\|fix_dark fix_light\|66](/img/user/B/assets/Buda_image2.jpg), a latin *Bleda*[^2]. Az ariánus püspök, akit Marcianus követként küldött Geiseric-hez[^3], és Totila egyik hadvezére[^4] ugyanezt a nevet viselte. Általánosan elfogadott, hogy a Bleda germán eredetű, az ófelnémet *Bladardus*, *Blatgildus*, *Blatgisus*[^5] nevekhez hasonló név rövidített formája. Marcellinus Comes Bleda (*s.a.* 442) [[B/Bede\|Bede]] *Krónikájában* a Blædla[^6] furcsa alakban jelenik meg. Az angol írástudók "kijavították" a nevet; ők Blædla néven ismerték a szájhagyományból, ahol a nevet Ætla[^7]-ra igazították.  
 
 ## Buda és Atilla neveinek esetleges összefüggése
 
@@ -62,10 +62,10 @@ Dr. Moore "The Saxons of the East and West" című, 1861-ben nyomtatott művéb�
 Moravcsik *BT* 2, 91; Schönfeld 1911, 51.
 
 [^3]: Lábjegyzet:  
-Priscus, *EL* 15126, 1521 (![assets/Buda_image3.jpg|fix_dark fix_light|66](/img/user/B/assets/Buda_image3.jpg)).
+Priscus, *EL* 15126, 1521 (![assets/Buda_image3.jpg\|fix_dark fix_light\|66](/img/user/B/assets/Buda_image3.jpg)).
 
 [^4]: Lábjegyzet:  
-Procopius VII, 5, 1 (![assets/Buda_image4.jpg|fix_dark fix_light|66](/img/user/B/assets/Buda_image4.jpg)).
+Procopius VII, 5, 1 (![assets/Buda_image4.jpg\|fix_dark fix_light\|66](/img/user/B/assets/Buda_image4.jpg)).
 
 [^5]: Lábjegyzet:  
 Schönfeld 1911, 51.
