@@ -88,7 +88,7 @@
 .callout[data-callout="summary"] .callout-title-inner::before { content: "Összegzés "; }
 
 .callout[data-callout="tip"] .callout-title-inner strong { display: none; }
-.callout[data-callout="tip"] .callout-title-inner::before { content: "Tipp "; }
+.callout[data-callout="tip"] .callout-title-inner::before { content: "Idea "; }
 
 .callout[data-callout="tldr"] .callout-title-inner strong { display: none; }
 .callout[data-callout="tldr"] .callout-title-inner::before { content: "Röviden "; }
