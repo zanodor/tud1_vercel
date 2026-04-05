@@ -1,17 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2025-09-03T15:59"}
+{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2026-04-05T02:42"}
 ---
 
 
 # Vadász
 
 Bevezetést lásd [[V/Vad\|vad]].  
-Vad, Vadász szavunk megjelenik a hindiben, ahol (lásd bővebben [[S/Szíriusz\|Szíriusz]] és [[M/Mriga\|mriga]]) a Mrigavyadha elnevezés Szarvasölő értelmű. Ez a `Vyadha` nem más, mint Vadász szavunk, mely [[O/Orion\|Orion]] neve is. Az egyik norvég nyelvjárásban (nynorsk) is `veidar` és `veidemann` = vadász.  
+Vad, Vadász szavunk megjelenik a hindiben, ahol (lásd bővebben [[S/Szíriusz\|Szíriusz]] és [[M/Mriga\|mriga]]) a Mrigavyadha elnevezés Szarvasölő értelmű. Ez a `Vyadha` nem más, mint Vadász szavunk, mely [[O/Orion\|Orion]] neve is.  
+- Ahol a szanszkrit `व्याध` (`vyādha`) = vadász értelmű.  
+- A szanszkrit `वध्या` (`vadhyā`) = gyilkolás, gyilkosság alapalakját lásd alant.
+
+Az egyik norvég nyelvjárásban (nynorsk) is `veidar` és `veidemann` = vadász.  
 A vad gyökkel azonos az óangol `waþ` = vadászat, `wað` = hajtás, űzés, vadászat.  
+A szanszkrit `व॒ध` (`vadhá`) = gyilkosság/gyilkolás, gyilkos, gyilkos fegyver szó kapcsán nem említik a vadászatot, mert a vadászt jelentő szót belső fejlődésűnek tartva utólag alkotottnak gondolhatják.  
+Hogy az aveszta `vada` = fegyver jelentésű lenne, erről jut eszembe a [[P/Pata#^fbkbaj\|pata]] helyen taglalt szkítának mondott `oiorpata` kifejezés. És ha a `pata` is halál értelemben vett, akkor értjük, hogy a [[V/Vad#Vad szó mögötti alapfogalom, vad szó eredete\|'vad' szó mögötti alapfogalom]] lehet kezdet, mivel [[K/Kezdet és vég\|kezdet és vég]] egy és ugyanaz.  
 
 A [[M/Mriga#Mriga név elemzése\|mriga név értelmezése során]] egy `mrg` = keres jelentésű igét állapítanak meg, mely éppen a vadász és ebének tevékenysége.  
 
-A sri lankai dravida **veddák** nevéhez is a vadász értelmet adják meg.  
+A sri lankai dravida **veddák** nevéhez is a vadász értelmet adják meg (tamil és szanszkrit eredettel is [adják](https://en.wikipedia.org/wiki/Vedda#Etymology)).  
 Előjön Ipolyi Arnold Magyar mythologia című könyvének 220. oldalán egy germán **Vade** óriás neve is. Mivel az óriás Orion, aki Vadász is, kétségtelennek tartható a germán név eredete. (A germán Wotan/[[W/Wodan\|Wodan]] nevet lásd helyén).  
 
 Az óriás neve Tokarevnél **Wode**.  
