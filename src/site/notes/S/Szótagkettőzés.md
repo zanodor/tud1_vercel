@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated"],"created":"2023-10-29T05:21","updated":"2026-03-09T22:09"}
+{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated"],"created":"2023-10-29T05:21","updated":"2026-04-05T02:43"}
 ---
 
 
 # Szótagkettőzés
 
-Péterfai János és Varga Csaba is megírta[^1] – amit már magam is tudtam –, hogy a régi archaikus nyelvben, így a sumérben is a szóelem kettőzése többesszámot jelentett illetve nyomatékosítást (nagyon "valami" valami; például, ahogy a nemrég Quorára írott ezen témát ragozó válaszomban írtam, Ma-Ma lehet Drága (Föld)Anya értelmű).  
+Péterfai János és Varga Csaba is megírta[^1], hogy a régi archaikus nyelvben, így a sumérben is a szóelem kettőzése többesszámot jelentett illetve nyomatékosítást (nagyon "valami" valami; például, ahogy a nemrég Quorára írott ezen témát ragozó válaszomban írtam, Ma-Ma lehet Drága (Föld)Anya értelmű).  
 Legutóbb a [[B/Barbár\|barbár]] elemzésénél is előjött (lásd [[B/Barber\|barber]] címhez téve). Ott a Ma-Ma és Pa-Pa szavakat hoztam csak fel, de [[D/Double\|double]] címnél szóltam a Ba-Ba[^2] névről is.  
 
 [[G/Galgal\|Galgal]] címnél szerepelt:  
@@ -24,7 +24,7 @@ Varga Zsigmond Ősmagyar mitológia című könyvének (a PDF) 65-66. oldalán t
 
 [[A/ANA\|ANA]] címnél szerepelt a grönlandi `anaana` = anya jelentésű szó szintén.  
 [[L/LU\|LU]] címnél is szerepelt:  
-Az arab `lulu` = gyöngy (lua-lua-nak ejtik, ahol az a olyan mintha h lenne vagy egy levegővétel) is szépen mutatja, mit is jelent LU, fényt.  
+Az arab `lulu` = gyöngy (lua-lua-nak ejtik, ahol az a olyan mintha h lenne vagy egy levegővétel) is szépen mutatja, mit is jelent LU: fényt.  
 A sumér nyelvben is megvolt `LU-LU`, de Sitchin és társai önkényesen párosítottak hozzá jelentést.  
 
 [[C/Coco\|Coco]] címnél szerepelt, hogy gyermeknyelven `kokó` v. `kókó`, az Őrségben pedig általában is kuku (Vass József szerént) tojást jelent(ett). Hogy itt a (feleslegesnek tűnő) kettőzésben mit kell látni (akár egy hímségi és nőiségi minőséget, hiszen az ősállapot egyszerre volt nő és hím: [[A/Androgün\|androgün]]), ez kérdés marad.  
@@ -32,8 +32,8 @@ A **gyereknyelv** (a magyar is gyereknyelv: az emberiség fiatalkorában már ma
 
 [[V/Várhun\|Várhun]] címnél volt arról szó, hogy a [[H/Humavarka\|humavarka]] tulajdonképpen megfordításának kezelhető.  
 
-Egyiptomi példát is találni.  
-A Wallis Budge An Egyptian Hieroglyphic Dictionary című könyvének 8. oldalán hozott óegyiptomi `akhakh` = menny virágai. Nyilván csillagokról van itt is szó, azaz az [[E/Ég\|ég]]re (vesd össze [[O/OK\|OK]]), a csillagos égre utal az Akh, mely kettőzötten jelenik meg.  
+Egyiptomi példákat is találni. Ott van pl. a [[B/Benben\|benben]] név.  
+A Wallis Budge An Egyptian Hieroglyphic Dictionary című könyvének 8. oldalán hozott óegyiptomi `akhakh` = menny virágai jelentésű. Nyilván csillagokról van itt is szó, azaz az [[E/Ég\|ég]]re (vesd össze [[O/OK\|OK]]), a csillagos égre utal az Akh, mely kettőzötten jelenik meg.  
 
 [[T/Tatár\|Tatár]] címnél írtam:  
 Amennyiben a tatár nevet szabad Tar-Tar formában elemezni, jelentése Csillagok lenne, hiszen a régi nyelvben a szókettőzés többes számot jelentett (például ausztronéz nyelvekben ma is).  
@@ -49,14 +49,16 @@ John G. Jackson Christianity before Christ című könyvében említi a zulu **U
 
 Az ausztrál bennszülöttek egyik nyelvén `nulla-nulla` nem focieredmény, hanem egy klub, társulás neve.  
 
-Bengáli nyelvben kisgyerek nemzőszerve, pöcse `dul-dul`, ha igaz.  
-
 Lásd még témát említve [[M/Más#Más és több\|más és több]] cím/alcímnél.  
 
 ## A gyerekbeszéd Isten nyelvének beszéde
 
-[Ezen](https://www.reddit.com/r/etymology/comments/1hjy6kd/how_did_%E3%83%90%E3%83%90%E3%82%A2_bab%C4%81_came_to_be/) Reddit helyen is taglalják a témát. Egész jó összefoglalót adtak a használt nevekből: `papa`, `baba`, `mama`, `tata`, `dada`, `nana`.  
-- Nana gyermeknyelvi összefüggéséről szó eset [[N/Néni\|néni]] címnél.
+[Ezen](https://www.reddit.com/r/etymology/comments/1hjy6kd/how_did_%E3%83%90%E3%83%90%E3%82%A2_bab%C4%81_came_to_be/) Reddit helyen is taglalják a témát. Egész jó összefoglalót adtak a használt nevekből: `papa`, `baba`, `vava`[^3], `mama`, `tata`, `dada`, `nana`.  
+
+> [!_for_blockid] &nbsp;
+> - [Nana](https://en.wiktionary.org/wiki/nana) gyermeknyelvi összefüggéséről szó eset [[N/Néni\|néni]] címnél.
+> 	- A Wiktionary helyen hozott adatokból látható, hogy különböző IE nyelveken `nana` = anya, nagyanya jelentésű. A `nanny` ("dajka") összefüggés is ismert. Lásd még [[N/Nanna\|Nana]] és [[N/Nanna\|Nanna]].{ #tv75lm}
+
 
 `Kaka` is ide tartozik.
 - Eric Partridge etimológiai szótárában jól jegyzi meg, hogy a [[K/KAK\|KAK]] helyen taglalt latin `cacāre` és a görög `kakké` óvodai szókincs részei.
@@ -89,5 +91,9 @@ Varga Csaba A kettős kereszt – hármas halom jelentése című cikkében írj
 Az ősi írás fontos szabályai: 1. a jel önmagában egyes számú; 2. ha kettőzött: a szó többes számban olvasandó. (Írja még, hogy ha három, akkor soknak értelmezendő; ezért [[M/Második\|második]] címhez is bekerült.)  
 
 [^2]: Lábjegyzet:  
-Kolumbán Sándor is írja, viszont a baba mélyebb jelentésréteget hordoz:  
+Kolumbán Sándor is írja (viszont a baba mélyebb jelentésréteget hordoz):  
 A kisbaba a baba szót nem önmagára, hanem a vele szemben levő, az ő szemeiben nagyon nagy felnőtt személyre mondja. Nagyon nagy vagy az ő kis szemeiben, ezért ejti kétszer. Lásd a régi képi írásnál: nagyobb tömeg, többes szám, kettős jelölés.  
+
+[^3]: Lábjegyzet:  
+Péterfai János írja:
+A `Vava` finn szó Tiszteletre Méltó Öreg értelmű. \[...\] Láthatjuk finn rokonaink nyelvét is az ókori nevekben, ami azt jelzi, a szumir korban a finnségiek már léteztek, de indoeurópaiak, szemiták még nem.  
