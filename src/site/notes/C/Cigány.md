@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cigány/","title":"Cigány","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T00:59","updated":"2026-03-05T02:19"}
+{"dg-publish":true,"permalink":"/C/Cigány/","title":"Cigány","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T00:59","updated":"2026-04-05T02:43"}
 ---
 
 
@@ -38,7 +38,7 @@ Az [alábbi](https://youtu.be/zWDcsCmCJ6k) Tamana videó előadója (a Quorán a
 > 
 > Már [[L/Light\|light]] címnél is erre hívtuk fel a figyelmet. Egy valamire való filológus észre kell vegye, hogy ha egyezikis két szó, mélyebb kapcsolat fedezhető fel.  
 > [[S/Sakaea\|Sakaea]] címnél is arról volt szó, hogy nem feltétlenül a szakák/szkíták ünnepe volt, ahogy Grandpierre Atilla véleményezte, hanem arról lehet szó, hogy a szaka és a Szakaea nevek azonos értelmi kiindulásúak.  
-> Azon elképzelések, hogy a népek királyukról kapják a nevüket, a mi esetünkben a magyar egy [[M/Muager\|Maugerisz]] nevű királyról, megint nem helyes. A király a Napról ([[M/Magor\|Magor]], Magur ebben az esetben) és a nép is a Naptól (vagy anyjától, esetünkben [[M/Magyar\|Magyar]] ([[M/Magyar Ilona\|Ilona]]) istennőtől) kapja a nevét. Nem mindegy mit mivel kötünk össze. A közös eredet kell és a csillagmítoszi háttér feltárása szükséges.  
+> Azon elképzelések, hogy a népek királyukról kapják a nevüket, a mi esetünkben a magyar egy [[M/Muager\|Muager]] nevű királyról, megint nem helyes. A király a Napról ([[M/Magor\|Magor]], Magur ebben az esetben) és a nép is a Naptól (vagy anyjától, esetünkben [[M/Magyar\|Magyar]] ([[M/Magyar Ilona\|Ilona]]) istennőtől) kapja a nevét. Nem mindegy mit mivel kötünk össze. A közös eredet kell és a csillagmítoszi háttér feltárása szükséges.  
 
 Tehát amikor tisztázottnak véljük, hogy a cigány a szikan nevet (és a palóc>vlach kultúrát \[ezzel a roma-román fogalmak összevetése is indokolttá válik\]) sajátítja ki, akkor jön az az info, [ezen](https://qr.ae/pNccap) Quora kérdés-válasz alapján, hogy az olaszok **zingaro** néven hívják őket, mely kisértetiesen megegyezik a Fáy Elek által is Sumérrel azonosított Szungár és a Varga Zsigmond által (lásd [[H/Hungár\|hungár]] címnél lábjegyzetben) hozott Singár-Szingár (és az ebből képzett [[C/Cingár\|cingár]]) névvel. A cigányok nevei folyamatosan magyar nevek és ezen adat talán arra is mutathat, hogy régebbiek, mint gondolnánk. Ellenben akkor a románok roma(n) neve is a cigányok rum/romani nevéből származna és nem a konstantinápolyi Róma/Rum (honnan rumun) név nyomán?  
 
