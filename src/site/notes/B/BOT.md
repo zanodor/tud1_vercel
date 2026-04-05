@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BOT/","title":"BOT","created":"2023-11-21T11:37","updated":"2026-03-19T17:10"}
+{"dg-publish":true,"permalink":"/B/BOT/","title":"BOT","created":"2023-11-21T11:37","updated":"2026-04-05T02:43"}
 ---
 
 
@@ -89,7 +89,7 @@ Az óegyiptomi `p-t` = ég, égbolt (vö. rokon vázú magyar "bót"-[[B/Bolt\|b
 Kérdés, hogy ez a B-T/P-T szóváz nem-e a [[Z/Zsúp\|zsúp]]/doₘb formákban található mássalhangzó-váz megfordításaiként értékelendő? Talán nem.  
 Mindenesetre mindkét szóváz jelentéskörében fellelhető [[S/Szakrális geometria\|szakrális geometrikus]] átfedés.  
 
-Ugyanez tellurikus, negatív, halál értelemben megvan [[P/Pata\|pata]] szóban.  
+Ugyanez tellurikus, negatív, halál értelemben megvan a [[V/Vadász\|vadász]] helyen [[K/Kezdet és vég\|kezdet és vég]] témában is taglalt [[P/Pata\|pata]] szóban.  
 
 
 
