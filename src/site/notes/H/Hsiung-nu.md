@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:30","updated":"2026-04-03T20:16"}
+{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:30","updated":"2026-04-05T02:43"}
 ---
 
-
+á
 # Hsiung-nu
 
 Előfordul Hiung-nu és más formákban is.  
@@ -95,7 +95,6 @@ Lásd még [ezen](https://prism.ucalgary.ca/server/api/core/bitstreams/0f570209-
 ## Hsziungnuk művészete
 
 
-A [erdelyi_istvan_benko_mihaly_a_hsziung-nuk_regeszeti_kutatasa_mongoliaban](https://julianusbaratai.blog.hu/2024/06/08/erdelyi_istvan_benko_mihaly_a_hsziung-nuk_regeszeti_kutatasa_mongoliaban_470) című blogposztban nincsenek képek de utalnak a Xiongnu Encyclopedia c. elektronikus kiadvány oldalszámaira.  
+Az [erdelyi_istvan_benko_mihaly_a_hsziung-nuk_regeszeti_kutatasa_mongoliaban](https://julianusbaratai.blog.hu/2024/06/08/erdelyi_istvan_benko_mihaly_a_hsziung-nuk_regeszeti_kutatasa_mongoliaban_470) című blogposztban nincsenek képek de utalnak a *Xiongnu Encyclopedia* c. elektronikus kiadvány oldalszámaira.  
 Pl. türkizfejű [[M/Madár#Madaras koronák\|madaras korona]]: 
 [Tsagaan Turbat – Xiongnu Encyclopedia, 89.o.](<zotero://open-pdf/library/items/KH9V5EJB?page=89>)
-
