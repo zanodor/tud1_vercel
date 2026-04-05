@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/N/Neith/","title":"Neith","tags":["Englishtexttranslated"],"created":"2023-10-25T05:03","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/N/Neith/","title":"Neith","tags":["Englishtexttranslated"],"created":"2023-10-25T05:03","updated":"2026-04-05T02:44"}
 ---
 
 
 # Neith
 
-#### Magyar Adorján írja:
+#### Várkonyi Nándor Az elveszett Paradicsom...  
 
+...című könyvében írja:  
 > Csakhogy, amint említettük, a Nílus partjain roppant bonyodalmas rege-erdő virult, és sokszor azt sem tudjuk, melyik istent milyen név alatt keressük. Így például a Deltában, tehát igen régi kultusz-vidéken, [[S/Szaisz\|Szaisz]]-Szaj városában különösen tisztelték Neith, helyesebben Nit istennőt, kinek nevét Platón Athénével fordítja görögre. Nit voltaképp az "ős-anyaállapot", az egyetemes nemző-erő, amit Goethe a Nagy Anyák fogalmában sejtett meg, s maga "az örök-nőinek" nevezett a Faust zárószavaiban. Nit tehát azonos [[N/NUN\|Nun]]nal, s mint ilyen, kétnemű, – ám egyúttal Eszit is, ahogy látni fogjuk.  
-
-#### Várkonyi Nándor írja:
-
+> 
 > Nit azonban kétnemű, mint Saschumiathon Pneumája, és mint Apszu-[[T/Tiamat\|Tiamat]]: "Nit, a Régi, az Istenanya, Esne úrnője, az atyák atyja, az anyák anyja, azaz skarabeusz \[hím-elv\] és keselyű \[nő-elv\], a Kezdetben Levő." Nit tehát a Kozmosz szülője: mind a világosság, mind a sötétség, a Nap és a Hold, a hímnem és a nőnem, azaz Usziri és Eszit világáé. Zöld színben ábrázolták, kezében lótuszvirágot tartott. A zöld a víz és az élet színe, s a lótusz, a vízililiom, szintén a vízre, szaporodásra utal; tudjuk, hogy mind a kozmikus, mind a földi élet "vízből" támadt, s a Hold is a vízzel van szoros kapcsolatban. Az ember pedig, mielőtt a Nap fia lett volna, a víz és a Hold gyermeke volt.  
 
 Ami a név/szófejtést illeti, egyértelműen `nyit` igénk illik, hiszen a kitárulkozás, kinyitás a kehely és lyuk formájával a női princípiumhoz tartozó. [[N/NUN\|NUN]]-nal való azonosításával is a lyuk fogalma tárul elénk.  
@@ -19,7 +18,9 @@ Ami a név/szófejtést illeti, egyértelműen `nyit` igénk illik, hiszen a kit
 
 > Neith istennő nevét Baráth Tibor [[N/Négy\|négy]]-nek értelmezi[^1]. Ugyanis az istennő fejdíszéről négy fonat lóg le, amelyeknek fontos jelentése van. A Né világos Neith nevében, még az is, hogy az Ith Gy kiejtésű. Mégis inkább a Né a Nő, az Ith a Földanya, Et, Id, vagy hasonló szóalak.  
 
-Neith viszont Magyar Adorján szerint azonos a Tejútanya [[N/Nut\|Nut]]tal is (Jankovics Marcell adata szerint [[A/Artemisz\|Artemisz]] Neithtel azonos, míg Artemisz-Héra-Athéné-Diána azonos Nuttal):
+#### Magyar Adorján Ősműveltség...  
+
+...című könyvében szereplő adata szerint Neith viszont azonos a Tejútanya [[N/Nut\|Nut]]tal is (Jankovics Marcell adata szerint [[A/Artemisz\|Artemisz]] Neithtel azonos, míg Artemisz-Héra-Athéné-Diána azonos Nuttal):  
 > Az egyiptomi mythologiában pedig Nut, más nevén Neit istennő az ős-nőiség és az ős-víz, ős-nedvesség istennője volt. Amely névvel azonban nem csak a magyar [[N/Nedű\|nedű]][^2] (ma romlottan: nedv) szó, hanem a finnugor `neite`, `neiti` = lány, kisasszony s még inkább mint a föntebbi oromo `niti` = nő, feleség szó azonosul. Hogy pedig ugyane szavak ma, na, nő, mat, mer, mul kiejtései a legkülönbözőbb nyelvekben is nőt, anyát jelentenek, elég megemlítenünk, de fölemlíthetem itt a mi Temes folyónk nevét, a görögök [[A/Artemisz\|Artemisz]] istennőjét, továbbá a Thames és a Tamar angolországi, valamint a számos Tana, Tanaisz, Don, Duna stb. folyóneveket is. Mindezek a legszorosabban összefüggenek a görög [[A/Athéné\|Athéné]] nevével ([[A/A\|a]] névelővel), aki azonos az egyiptomiak Neit istennőjével, és akit tudvalévőleg a görögök is jelképeztek volt [[T/Tehén\|tehén]]nel; a tehén, azaz tulajdonképpen teién, teien szavunk pedig a neit szónak csak megfordított alakja. Hogy az Athéné név kezdő a hangja csak névelő, tanúsítja azon tény, hogy őt különböző kultuszhelyein a görögök még Tanaisz, Tanait, Tanith nevek alatt is tisztelték. (Movers F.: "Die Phönizier." I. köt 615. old.). De ugyanígy van ez [[A/Artemisz\|Artemisz]] nevével is (ar = az), aki azonos volt a tehénnel, de még üsző[^3], azaz szűz tehénnel szintén jelképezett egyiptomi Izisz Istennővel, akit az egyiptomiak Sziszi, Ezi nevek alatt tiszteltek. De a tudósok azt is megállapították, hogy az egyiptomi Neit kétségtelenül azonos Athénével, valamint a líbiaiak [[T/Tehén\|Tehenu]] vagy Tahenu istennőjével is, aki ugyanúgy mint Athene is, tehénnel jelképeztetett.  
 
 Szűz volta kapcsán ...
