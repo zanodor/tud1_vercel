@@ -17,8 +17,15 @@
 
 /*** Embedded callout content text alignment ***/
 /* Source: https://claude.ai/chat/b09dc9a3-2175-4bea-b0ab-72fe540b94a5 */
+
 div.markdown-embed .callout-content {
   text-align: justify !important;
+}
+
+div.markdown-embed .callout-content p,
+div.markdown-embed .callout-content li {
+  text-align: justify !important;
+  text-align-last: left !important;
 }
 
 /*** Mermaid diagram background changes to blend in with Gruvbox backgrounds ***/
