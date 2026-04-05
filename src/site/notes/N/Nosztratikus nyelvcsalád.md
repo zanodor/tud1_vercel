@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts"],"created":"2024-05-14T11:45","updated":"2026-04-03T20:16"}
+{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts"],"created":"2024-05-14T11:45","updated":"2026-04-05T03:23"}
 ---
 
 
@@ -66,9 +66,9 @@ Az angol szöveg magyarul pedig így hangzik:
 
 ### Ősi szakrális vallási/nyelvi réteg ábrákban
 
-![Nosztratikus nyelvcsalád_image20260331154747124.jpeg\|fix_dark fix_light\|840](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260331154747124.jpeg)
+![Nosztratikus nyelvcsalád_image20260331154747124.jpeg|fix_dark fix_light|840](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260331154747124.jpeg)
 
-![Nosztratikus nyelvcsalád_image20260331165743940.jpeg\|fix_dark fix_light\|840](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260331165743940.jpeg)
+![Nosztratikus nyelvcsalád_image20260331165743940.jpeg|fix_dark fix_light|840](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260331165743940.jpeg)
 
 A ma uralkodó felfogás szerint az írást maguk mögött hagyó (ún. feljegyző) népek a kultúra letéteményesei: a mélyebb rétegeket nem keresik, a velük kapcsolatos feltárásokat ([[J/Judeo-kereszténység\|judeo-kereszténység]]en kívül eső mitológiai-ősvallásbeli gyökereket, összefüggéseket keresőket) tudománytalannak bélyegzik és ahol istennevek azonosságait mutathatjuk fel, ott önkényes párhuzamba állításokat, [[N/Népetimológia\|népetimológiá]]t kiáltanak.  
 Számukra az ősmúlt láthatatlan és tabu: csak az általuk látható halmazok között hasonlítanak és egymás közt történő átvételekre utalnak, míg az általunk feltárható közös gyökereket nem keresik, mert eleve láthatatlan számukra.  
@@ -76,4 +76,4 @@ Gulyás Péter Pál több könyvében is jól mutat rá, hogy az eget tartó osz
 - [Ezen](https://www.youtube.com/watch?v=WUmd19AVOnQ&t=4187) helyen szól Agócs Gergely arról, hogy ha a toposz több helyen is megvan, az nem lehet véletlen.
 
 
-![Nosztratikus nyelvcsalád_image20260330194257442.jpeg\|fix_dark fix_light\|840](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260330194257442.jpeg)
+![Nosztratikus nyelvcsalád_image20260330194257442.jpeg|fix_dark fix_light|840](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260330194257442.jpeg)
