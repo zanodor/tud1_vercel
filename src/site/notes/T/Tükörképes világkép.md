@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tükörképes világkép/","title":"Tükörképes világkép","tags":["containscallouts"],"created":"2026-04-01T14:14","updated":"2026-04-03T04:51"}
+{"dg-publish":true,"permalink":"/T/Tükörképes világkép/","title":"Tükörképes világkép","tags":["containscallouts"],"created":"2026-04-01T14:14","updated":"2026-04-05T02:43"}
 ---
 
 
@@ -90,3 +90,5 @@ Azt kéne tudni, hogy a [[V/Világhegy\|Világhegy]] erre utal-e inkább, vagy m
 
 Ettől függetlenül is lehet kétféleképpen mutatni a világos és sötét oldalakat:  
 ![Tükörképes világkép_image20260402021023080.jpeg\|840](/img/user/T/assets/T%C3%BCk%C3%B6rk%C3%A9pes%20vil%C3%A1gk%C3%A9p_image20260402021023080.jpeg)
+
+Egyes helyeken vagy csak a bal-jobb oldali leosztásra gondoltunk (pl. [[F/Fény és sötétség\|fény és sötétség]], [[S/Süt\|süt]], stb.), másutt (pl. [[H/Hegy és völgy\|hegy és völgy]]) meg csak a fent és lentben gondolkodtunk.  
