@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Transzliteráció/","title":"Transzliteráció","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2026-03-31T18:28","updated":"2026-04-03T04:50"}
+{"dg-publish":true,"permalink":"/T/Transzliteráció/","title":"Transzliteráció","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2026-03-31T18:28","updated":"2026-04-06T16:42"}
 ---
 
 
@@ -18,6 +18,10 @@ Anton Deimelt sok kritika éri, de ha valaki megnézi a Götz László Keleten k
 > [!question] &nbsp;
 > Vagy esetleg az a baj, hogy indoeurópai nyelvet beszélű tudósok (A. Deimel, F. Delitzsch, R. Labat) szótáraival kell dolgoznunk?
 - Kinek kellett volna írni a szótárakat és hol vannak a sumerológia tanszékek?
+
+> [!check] &nbsp;
+> A magyar és finnugor szavak bizonyítják, hogy a Deimelék jó munkát végeztek. Épp az bizonyítja, hogy így van, hogy indoeurópai nyelvet beszélőkként, az ún. finnugor nyelvek szavait nem ismerőkként végezték el feladatukat; nem érheti őket az a vád – amit magyar kutatók felé megfogalmaztak volna –, hogy befolyásolva voltak.  
+- Ettől még a magyar nyelvet ismerők pontosíthatják a helyes hangzókat és értelmeket, de külföldiek felé jelezni kell, mi a hivatalos és mi a magyar nyelv ismerete alapján történő kozmetikázás.
 
 [Ezen](https://www.blogger.com/comment/fullpage/post/7401347142101052279/7304846251028219910) oldalon egyébként jól írja a hozzászóló:  
 > Látom előkerült a sumér is, amivel vigyázni kell, mert a nyelv eredeti hangzását nem ismerjük.  
@@ -51,7 +55,7 @@ Ahogy [[G/Görög#Görög nyelv használói\|görög nyelv használói]] cím/al
 
 Aztán a törökre visszatérve, van itt egy érdekesség. Jól mutatja, hogy az eredeti, [[S/Székely-magyar rovásírás#H\|székely-magyar rovásírás H]] betűjénél is bemutatott, az akrofónia-szabály értelmében `H` = halakból a törökben már B betűt jelölő jel lesz, mert a törökben `balık` = hal.  
 Varga Géza a The origins of Hunnish runic writing című könyvének 27. oldalán mutatja be:  
-![assets/Transzliteráció_image1.png\|fix_dark fix_light\|840](/img/user/T/assets/Transzliter%C3%A1ci%C3%B3_image1.png)  
+![assets/Transzliteráció_image1.png|fix_dark fix_light|840](/img/user/T/assets/Transzliter%C3%A1ci%C3%B3_image1.png)  
 
 (Annyi megjegyzést tennék hozzá, hogy 1) nem a sumér a kiinduló 2) a sumér nyelvben [[S/Suhurmasku\|Suhurmasku]] címnél írottak alapján `KU` = hal jel is létezett.)  
 
@@ -88,8 +92,8 @@ Ami tőle [[B/Breath\|breath]] címnél is szerepelt:
 </div></div>
 
 
-A Badiny Jós Ferenc műveiből kiinduló és Vég Csaba: Sumer nyelv és írás című könyvét alapul vevő Szalkó József A sumer ékjelek belső logikája című az Ősi Gyökér 2018/3-4. sz. megjelent cikkében taglaltak is magyarázatot adnak, hogy is működik. Például az AMA = anyát jelentő jel összetétele más transzliterációs értékekkel álló elemek összetétele.  
-![assets/Transzliteráció_image2.jpeg\|fix_dark fix_light\|840](/img/user/T/assets/Transzliter%C3%A1ci%C3%B3_image2.jpeg)  
+A Badiny Jós Ferenc műveiből kiinduló és Vég Csaba: Sumer nyelv és írás című könyvét alapul vevő Szalkó József A sumer ékjelek belső logikája című az Ősi Gyökér 2018/3-4. sz. megjelent cikkében taglaltak is magyarázatot adnak arra nézve, hogy is működik. Például az AMA = anyát jelentő jel összetétele más transzliterációs értékekkel álló elemek összetétele.  
+![assets/Transzliteráció_image2.jpeg|fix_dark fix_light|840](/img/user/T/assets/Transzliter%C3%A1ci%C3%B3_image2.jpeg)  
 
 A [[N/Négy\|négy]] címnél Bobula Ida The Great Stag című dolgozatából vett J. Dineley Prince féle adat szerint \[...\] a jelnek két kiejtése van: GAR és NGA. Elmagyarázza, hogy egy majdnem azonos jel pedig azt jelenti: "körbevesz; teljesség" és GAAR-nak kell ejteni, de a jel neve NINDA.  
 
@@ -101,7 +105,7 @@ A [[N/Négy\|négy]] címnél Bobula Ida The Great Stag című dolgozatából ve
 > Izdubar apja Samas, a napisten, "amelyet Kusu-nak is lehet olvasni." E név azonosnak tűnik a Kus névvel. A Biblia szerint Nimród Kus egyik fia.  
 
 Ha már Gilgames, az ő [[G/GIS\|Gis]] péniszt (is) jelentő neve kapcsán (is) [ezen Wiktionary oldalon](https://en.m.wiktionary.org/wiki/%F0%92%8D%91) bőven találunk különböző módon transzliterált formákat.  
-![assets/Transzliteráció_image3.png\|fix_dark fix_light](/img/user/T/assets/Transzliter%C3%A1ci%C3%B3_image3.png)  
+![assets/Transzliteráció_image3.png|fix_dark fix_light](/img/user/T/assets/Transzliter%C3%A1ci%C3%B3_image3.png)  
 
 [[S/Sumér és akkád nyelvek#Sumér-akkád szavak transzliterációja és egyéb tudnivalók\|Sumér-akkád szavak transzliterációja és egyéb tudnivalók]] cím/alcímnél foglalkozunk még a témával, ahol [[R/René Labat\|René Labat]] és egyiptomi vonalon is értekezünk, illetve ellenérvet is találunk Götz Lászlótól.  
 [[M/Musen\|Musen]] címnél Nógrády Mihály a madár kapcsán szól arról, hogy a képjel jelentését tudhatjuk, de eredeti sumér kiejtését senki sem tudja ránézésre megmondani.  
