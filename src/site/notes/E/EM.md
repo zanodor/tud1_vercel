@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/EM/","title":"EM","created":"2023-11-09T03:57","updated":"2026-04-05T02:44"}
+{"dg-publish":true,"permalink":"/E/EM/","title":"EM","created":"2023-11-09T03:57","updated":"2026-04-06T16:43"}
 ---
 
 
@@ -31,3 +31,7 @@ Az em ill. `emik` igéről kell itt még szót ejteni. Az [[A/AMA\|AMA]] címné
 #### A Czuczor-Fogarasi szótár adata:
 
 > EMIK, (em-ik) régi, elavult k. ige m. em-tem, em-tél, em-ětt. Am. szop-(ik). Egy régi kéziratban mondatik Idvezitőnkről: Az ő szentséges anyjának tejét emte. Bódog has, ki tégedet viselt, és az emlők, kiket emtél. (Tatrosi codex). Ó bódog emlők, kiket emék atyának bölcsesége. (Benigna asszony imádságos könyve). Ma egyedül részesülője van használatban ezen szóban: csecs-emő, azaz, csecsszopó kisded. Törökül `emmek` szinte am. szopni, színi. Finnül is `imen` am. szopok, és `imetän` am. szoptatok, emtetek.  
+
+## Latin 'emere'
+
+Az [ezen](https://en.wiktionary.org/wiki/emo#Latin) Wiktionary helyen taglalt ige megszerez, megvásárol értelmű. Nem lehet, hogy itt is – a "magához vétel" fogalmát közösnek véve – a szopás, anyatej evés a kiinduló?  
