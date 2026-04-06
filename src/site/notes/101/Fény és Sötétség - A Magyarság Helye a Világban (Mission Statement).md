@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-04-05T03:23"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-04-06T16:42"}
 ---
 
 
@@ -502,7 +502,7 @@ Hasonló eset az is, amikor a törökök [[T/Turán\|turán]]it látnak (példá
 Sok olyan eset van, például Éliás/[[I/Illés\|Illés]] > [[H/Helios\|Helios]], amikor a zsidó nevekből (egyáltalán: mi (a) zsidó?) akarják a görögöt levezetni, vagy párosítani, holott vegyük észre, hogy a görög őslakos [[P/Pelaszg\|pelaszg]]ok voltak azok, akik [[P/Palesztina\|Palesztina]] nevét is adták, tehát mindkét esetben a magyar-palóc gyökerekig kell lehatolni. ([[G/Görög\|Görög]] címnél említettünk egy görög és héber nyelvet hasonlító könyvet is, ahol több példa is előjöhet majd.)  
 A [[B/Barbara\|Barbara]] név sem a [[B/Barbár\|barbár]]ból ered közvetlen, csak eredetük közös.  
   
-Ha a [[K/Karácsony\|Karácsony]] és [[K/Kerecsen\|kerecsen]] szavakat magyarnak érezzük és a magyarból akarjuk értelmezni de csak úgy, hogy egyik a másikból ered, ez így szintén nem elégséges. Továbbá azon elképzelések, hogy a népek királyukról kapják a nevüket, mi esetünkben a [[M/Magyar\|magyar]] [[M/Muager\|Maugerisz]] királyról, megint nem helyes. A király a Napról és a nép is a Naptól (vagy anyjától, esetünkben Magyar (Ilona) istennőtől) kapja a nevét (ahogy a Nap > nép összefüggés is mutatja, a nép neve is a Naptól jön). A közös eredet meghatározása szükséges.  
+Ha a [[K/Karácsony\|Karácsony]] és [[K/Kerecsen\|kerecsen]] szavakat magyarnak érezzük és a magyarból akarjuk értelmezni de csak úgy, hogy egyik a másikból ered, ez így szintén nem elégséges. Továbbá azon elképzelések, hogy a népek királyukról kapják a nevüket, mi esetünkben a [[M/Magyar\|magyar]] [[M/Muager\|Muagerisz]] királyról, megint nem helyes. A király a Napról és a nép is a Naptól (vagy anyjától, esetünkben Magyar (Ilona) istennőtől) kapja a nevét (ahogy a Nap > nép összefüggés is mutatja, a nép neve is a Naptól jön). A közös eredet meghatározása szükséges.  
 
 
 
