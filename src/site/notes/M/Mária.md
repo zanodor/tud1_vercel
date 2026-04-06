@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2026-03-05T01:25"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2026-04-06T16:42"}
 ---
 
 
@@ -69,7 +69,7 @@ Furcsállom, hogy erre Graves-et nem láttam kitérni.
 #### Gyárfás Ágnes Vágd ketté a horgas inát...
 
 ...című az Ősi Gyökér 2017/3-4. sz. megjelent cikkében írja:  
-> János apostol tudta, hogy **a három Mária a kereszt alatt az örök nő három arca**. A Pálos Passió (1508) szerzője utal erre épp úgy, mint az Ómagyar Mária-siralom, hogy inkább az anya kívánja a szenvedést elviselni semmint szeretett magzatát halni lássa.  
+> János apostol tudta, hogy **a három Mária a kereszt alatt az örök nő három arca**. A Pálos Passió (1508) szerzője utal erre épp úgy, mint az [[O/Ómagyar Mária-siralom\|Ómagyar Mária-siralom]], hogy inkább az anya kívánja a szenvedést elviselni semmint szeretett magzatát halni lássa.  
 
 ## Névetimológia és ki(k) volt(ak) valójában Mária(k)
 
