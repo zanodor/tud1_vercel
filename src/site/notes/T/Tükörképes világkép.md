@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tükörképes világkép/","title":"Tükörképes világkép","tags":["containscallouts"],"created":"2026-04-01T14:14","updated":"2026-04-05T02:43"}
+{"dg-publish":true,"permalink":"/T/Tükörképes világkép/","title":"Tükörképes világkép","tags":["containscallouts"],"created":"2026-04-01T14:14","updated":"2026-04-06T16:43"}
 ---
 
 
@@ -83,12 +83,13 @@ Nemcsak a Hermész Triszmegisztosz/Thotnak tulajdonított "Ahogy fenn, úgy lenn
 
 ### Felezés irányai
 
-Alapvetően arról van szó, hogy van egy **primordiális, teremtéssel kapcsolatos**, fent-lent elválasztásából adódó felezés, majd már a forgó rendszerben érvényesülő, Hunor-Magor/jin-jang rendszerrel magyarázható bal-jobb osztású felezés, ahol a felső pont a [[P/Poláris-szoláris átállás\|poláris-szoláris váltás]]sal létrejött szoláris időszakában az a Kutya, amely K-T váza helyet, felső pontot is jelent.  
+Alapvetően arról van szó, hogy van egy **primordiális, teremtéssel kapcsolatos**, fent-lent elválasztásából adódó felezés, majd már a forgó rendszerben érvényesülő, Hunor-Magor/jin-jang rendszerrel magyarázható bal-jobb osztású felezés, ahol a felső pont a [[P/Poláris-szoláris átállás\|poláris-szoláris váltás]]sal létrejött szoláris időszakában az a Kutya, amely K-T váza helyet, felső pontot is jelent és egyúttal a [[K/Két\|két]]/[[K/Kett\|kettő]] és [[C/Cut\|cut]]/[[K/Köt\|köt]] szavak alakjával is mutatja, hogy ahol a kötés, ott az elválasztás.  
 Azt kéne tudni, hogy a [[V/Világhegy\|Világhegy]] erre utal-e inkább, vagy már utal a kozmogóniai teremtéssel létrejött Világhegyre.
 { #s69777}
 
 
 Ettől függetlenül is lehet kétféleképpen mutatni a világos és sötét oldalakat:  
-![Tükörképes világkép_image20260402021023080.jpeg\|840](/img/user/T/assets/T%C3%BCk%C3%B6rk%C3%A9pes%20vil%C3%A1gk%C3%A9p_image20260402021023080.jpeg)
+![Tükörképes világkép_image20260402021023080.jpeg|840](/img/user/T/assets/T%C3%BCk%C3%B6rk%C3%A9pes%20vil%C3%A1gk%C3%A9p_image20260402021023080.jpeg)
 
 Egyes helyeken vagy csak a bal-jobb oldali leosztásra gondoltunk (pl. [[F/Fény és sötétség\|fény és sötétség]], [[S/Süt\|süt]], stb.), másutt (pl. [[H/Hegy és völgy\|hegy és völgy]]) meg csak a fent és lentben gondolkodtunk.  
+[[E/Éh\|Éh]] címnél szintén előjött a felső (alsó földdel ellentétes űr) és a laterális összevethetőség.  
