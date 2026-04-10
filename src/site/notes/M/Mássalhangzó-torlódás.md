@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzó-torlódás/","title":"Mássalhangzó-torlódás","created":"2024-05-10T03:45","updated":"2026-03-05T01:48"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzó-torlódás/","title":"Mássalhangzó-torlódás","created":"2024-05-10T03:45","updated":"2026-04-10T23:09"}
 ---
 
 
@@ -21,13 +21,34 @@ Majd példákat közöl táblázatos formában, az alábbi megjegyzéssel:
 
 Ezek a magánhangzókiesések az egyes indogermán nyelvek rokon szavaiban gyakran látszólag annyira különböző hangalakokhoz vezetnek, hogy a nyelvtudomány sok esetben metatézist, hangátvetést tételez fel.  
 A bemutatott példákból \[lásd táblázatos adatait könyvében\] világosan megállapítható, hogy ezeknél a különféleképpen vokalizált szóalakoknál nem magánhangzó-[[H/Hangátvetés\|metatézis]]ekról, hanem a hangsúlytalan magánhangzó kieséséről van szó.  
-![assets/Mássalhangzó-torlódás_image1.jpeg|fix_dark fix_light|840](/img/user/M/assets/M%C3%A1ssalhangz%C3%B3-torl%C3%B3d%C3%A1s_image1.jpeg)  
+
+
+| Nyelv             | Régi alakok                                    | Újabb alakok                                    |
+| ----------------- | ---------------------------------------------- | ----------------------------------------------- |
+| Görög             | `kalypto` (elrejt); `thorybos` (zavarodottság) | `klepto` (elrejt, lop); `tyrbe` (zavarodottság) |
+| Latin             | `columen` (csúcs)                              | `culmen` (csúcs)                                |
+|                   | `sidera` (csillagok)                           | `astra` (csillagok)                             |
+|                   | `stolidus` (balga, dőre)                       | `stultus` (balga, dőre)                         |
+| Orosz             | `gorod` (város)                                | `grad` (város)                                  |
+|                   | `zoloto` (arany)                               | `zlato` (arany)                                 |
+|                   | `moloko` (tej)                                 | `mleko` (tej)                                   |
+|                   | `soloma` (szalma)                              | `sloma` (szalma)                                |
+| Ófelnémet / Német | `mannisco`                                     | `Mensch` (ember)                                |
+|                   | `magad`                                        | `Magd` (szolgálólány)                           |
+|                   | `manod`                                        | `Mond` (hold)                                   |
+|                   | `felisa`                                       | `Fels` (szikla)                                 |
+|                   | `kiricha`                                      | `Kirche` (templom)                              |
+|                   | `sciuf`                                        | `Schilf` (nád)                                  |
+|                   | `obaz`                                         | `Obst` (gyümölcs)                               |
+
+- Megjegyzés: a latin `astra` nem a `sidera` későbbi megjelenése.
+
 Könyvének 145. oldalán mássalhangzólekopás címmel folytatja a témát.  
 > Igen jellegzetes hangváltozásnak tartják az indogermán nyelvekben – ezeken belül különösen a germánoknál – a szavak első mássalhangzójának lekopását. Hasonlóan az első szótag magánhangzójának kieséséhez, ez a hanglekopás is felléphet a hangsúly hátrahelyezése következtében is. De nem csak ekkor. Valódi értelemben vett lekopásoknál először többnyire a magánhangzó esik ki, majd a szókezdő mássalhangzó zöngésból zöngétlenbe megy át, illetve mindinkább elhalkul, leheletszerűvé válik és végül teljesen eltűnik.  
 
 Példája: latin `corvus` - ófelnémet `hraban` - német `rabe` = holló.  
 
-Götz László könyvének 189. oldalán folytatja az [[I/Indogermán nyelvészet\|indogermán nyelvcsalád]] pidginizáció jelenségéhez hasonlatos kialakulása kapcsán (bevezetőt lásd [[N/Nyelvészet mint tudomány\|nyelvészet mint tudomány]]):
+Götz könyvének 189. oldalán folytatja az [[I/Indogermán nyelvészet\|indogermán nyelvcsalád]] pidginizáció jelenségéhez hasonlatos kialakulása kapcsán (bevezetőt lásd [[N/Nyelvészet mint tudomány\|nyelvészet mint tudomány]]):  
 > Eddig bemutatott összehasonlító táblázatainkban is jól megfigyelhető, hogy az indogermán szavak első szótagjainak magánhangzói – a magyar, a szumér és a szemita nyelvekhez viszonyítva – az esetek túlnyomó többségében kiestek. Ez, mint már említettük, egyrészt a hátrahelyezett hangsúly, másrészt pedig a vele párhuzamos pongyola artikuláció következménye. De mást is elárul ez a jelenség. Azt, hogy az indogermán nyelvekben legtöbbször éppen a szavak legfontosabb, a tulajdonképpeni alapjelentést hordozó első szótagjai korcsosodtak – mondhatnánk szabályszerűen.  
 
 Lásd még a témáról [[S/Szláv#Szláv nyelvek\|szláv nyelvek]].  
