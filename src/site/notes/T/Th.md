@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Th/","title":"Th","tags":["containscallouts"],"created":"2023-10-21T04:27","updated":"2026-03-05T01:51"}
+{"dg-publish":true,"permalink":"/T/Th/","title":"Th","tags":["containscallouts"],"created":"2023-10-21T04:27","updated":"2026-04-10T23:10"}
 ---
 
 
@@ -21,7 +21,9 @@ Az angol -th szuffixum, mely sokszor zöngés d-nek illik be, másutt sz-hez kö
 Grandpierre Atilla is szól arról, hogy édesapja Thargitaosz nevének elemzésekor kimutatta, hogy mivel a görögben a szóeleji h hangtalan, ha meg akarja tartani, akkor más hangot vet eléje. Így kapta meg a Hargita nevet.  
   
 
-Könnyen lehet, hogy a Magyar Adorján által is adatolt görög `talassza` = tenger is \*thalassza, azaz halászattal kapcsolatos, bár az alábbiak alapján nem valószínű:  
+[ezen](https://share.google/aimode/Shx7gWWKWIIuD3LUP) 
+
+Könnyen lehet, hogy a Magyar Adorján által is adatolt görög `talassza` = tenger is \*thalassza, azaz h-val kezdődő a kiinduló név és a halászattal kapcsolatos, bár az alábbiak alapján nem valószínű:  
 A Magyar Adorján által adatolt német (azaz őstörök) `tal` = völgy szó egyezik az angol [[D/Dale\|dale]] = völgy szóval is, továbbá a mai török `dalga` = hullám szóval is azonos, amely török szó egyik származéka a szerb `talasz` = hullám, a másik pedig a görög `talassza`, `talatta` = tenger szó.  
 > [!note] &nbsp;
 > Én ettől fenntartom a lehetőségét, hogy a `hal` és `halas` szavainkkal egyező homéroszi ógörög `hals` = tenger szó nyomán alakulhatott ki a görög `thálassa` = tenger.
