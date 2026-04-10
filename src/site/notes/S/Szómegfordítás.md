@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szómegfordítás/","title":"Szómegfordítás","tags":["containstransclusions","titleandheadingonedontmatch","containscallouts"],"created":"2026-02-09T17:32","updated":"2026-03-19T18:47"}
+{"dg-publish":true,"permalink":"/S/Szómegfordítás/","title":"Szómegfordítás","tags":["containstransclusions","titleandheadingonedontmatch","containscallouts"],"created":"2026-02-09T17:32","updated":"2026-04-10T23:08"}
 ---
 
 
@@ -9,18 +9,34 @@
 
 ### Van-e létjogosultsága?
 
-Magyar Adorján Ősműveltség című könyvében sokszor szóba kerül. Práczki István mindenhol gyanakszik, nem olvasható-e valami fordítva. Vasváry-Tóth Tibor szintén él vele (lásd [[Y/Yggdrasil\|Yggdrasil]], [[R/Ragnarök\|Ragnarök]] és [[R/Romulus és Remus\|Romulus és Remus]] neveket, melyek közül utóbbiakról Péterfai János is szólt, minthogy fordítva is értelmes).  
+**Magyar Adorján** Ősműveltség című könyvében sokszor szóba kerül.  
+> [!check] &nbsp;
+> Ahol a két-három betűs "kódnevek" megfordításával a körszerű, [[T/Tükörképes világkép\|tükörképes világkép]]re vonatkozó bizonyítékot kapjuk, ott igen is van létjogosultsága.  
+- Lásd még [[B/Bal és jobb\|bal és jobb]] és [[F/Fehér és fekete\|fehér és fekete]].
 
-Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének 221. oldalán szól a témáról, de nála persze a sémi-föníciai szöveg/szavak görög nyelvbe való átkerüléséről van szó.  
+**Práczki István** mindenhol gyanakszik, nem olvasható-e valami fordítva. [[A/Ábrahám#Maharba\|Ábrahám-Maharba]] témájában Pap Gábor anyagával is láttuk, hogy Ábrahám nevének megfejtését adhatja "Magyar Apa".  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A/Ábrahám/#vhbr0g" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+![Ábrahám_image20260410190320636.jpeg](/img/user/A/assets/%C3%81brah%C3%A1m_image20260410190320636.jpeg)
+
+
+</div></div>
+
+
+**Vasváry-Tóth Tibor** szintén él vele (lásd [[Y/Yggdrasil\|Yggdrasil]], [[R/Ragnarök\|Ragnarök]] és [[R/Romulus és Remus\|Romulus és Remus]] neveket, melyek közül utóbbiakról Péterfai János is szólt, minthogy fordítva is értelmes).  
+
+**Robert Brown Jr.** Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének 221. oldalán szól a témáról, de nála persze a sémi-föníciai szöveg/szavak görög nyelvbe való átkerüléséről van szó.  
 - Először is, a föníciai nyelv később sémisedett el. Másodrészt, a magyar rovásírás is jobbról-balra irányú volt, mely írás irányultsága (jobbról-balra) pedig abból fakad, hogy könnyebb volt a botot bal kézzel tartani, és jobb kézzel balra haladva írni.
 
-Fáy Elek A magyarok őshona című könyvének 272. oldalán írja a [[K/Keta\|ketá]]k hieroglif-írásáról, hogy valószínűleg busztrofedon \["ahogy az ökör szánt"\] volt, azaz felváltva jobbról-balra majd balról-jobbra olvasandó. Ezen csigavonalas írás hasonló a korongokon talált köríráshoz.  
-Ennek az írásformának azért is lehet jelentősége, mert egyes idegen nyelvű szavak épp lehet, hogy fordítva olvasandók/értelmezendők. Ahogy említettem, Práczki István nagy híve ennek a gyakorlatnak, túlzásba is viszi, de Vasváry-Tóth Tibor és Egy kis etimológia című dolgozatában De Pluer Mariann is él vele.  
+**Fáy Elek** A magyarok őshona című könyvének 272. oldalán írja a [[K/Keta\|ketá]]k hieroglif-írásáról, hogy valószínűleg busztrofedon \["ahogy az ökör szánt"\] volt, azaz felváltva jobbról-balra majd balról-jobbra olvasandó. Ezen csigavonalas írás hasonló a korongokon talált köríráshoz.  
+Ennek az írásformának azért is lehet jelentősége, mert egyes idegen nyelvű szavak épp lehet, hogy fordítva olvasandók/értelmezendők. Ahogy említettem, Práczki István nagy híve ennek a gyakorlatnak, túlzásba is viszi, de Vasváry-Tóth Tibor és Egy kis etimológia című dolgozatában **De Pluer Mariann** is él vele.  
+**Tomory Zsuzsa** angol szavak magyarra való visszavezetésénél önkényesen jár el ilyen technikával (pl. sex ← zsák-olás).  
 
-[[B/Bal és jobb\|Bal és jobb]] címnél bővebben taglaljuk az írások és olvasásuk irányát.  
-
-> [!check] &nbsp;
-> Ahol a szómegfordításnak bármilyen létjogosultsága lehet, az a [[B/Bal és jobb\|bal és jobb]] és [[F/Fehér és fekete\|fehér és fekete]] címnél is említett [[T/Tükörképes világkép\|tükörképes világkép]] fogalma.  
+> [!example] &nbsp;
+> [[B/Bal és jobb\|Bal és jobb]] címnél bővebben taglaljuk az írások és olvasásuk irányát.
 
 A [[R/Rák csillagkép\|Rák csillagkép]] azaz a [[N/Nyári napforduló\|nyári napforduló]] kapcsán a rák mozgása (és a [[S/Scarabeus\|scarabeus]] mozgása) kapcsán volt szó arról, hogy azon téridőbeli helyen látszik megfordulni a Nap: elkezd alacsonyabban delelni és a nappalok hossza csökken.  
 
