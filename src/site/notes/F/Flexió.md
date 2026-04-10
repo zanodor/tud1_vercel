@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2026-03-31T18:32"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2026-04-10T23:09"}
 ---
 
 
@@ -112,6 +112,8 @@ w5 -down-> w1 : "Sumér **Utu** napisten"
 head -up- w5
 @enduml
 ```
+
+Ami [[A/Áll\|áll]], az [[E/ÉL\|él]] (vö. sumér [[I/IL\|IL]] = magas): az ember, a kozmikus fa (a Tejút) szülöttje (lásd [[G/Gyerek\|gyerek]], [[B/Baba\|baba]] és [[B/Bab\|bab]] címeket) és függőleges gerincoszlopa a fa törzsének verticumához hasonlíttatott. Ha a fa kidől, holt lesz, [[H/HAL\|hal]]ott. Az `él`, `áll`, `hal` szavak mind a cirkuláris idő örök körforgását, az [[E/Életkör\|életkör]]t mintázzák (vö. [[Z/Zodiac\|állatkör]]), ahol az életet halál, ezt pedig ismét élet követ és így tovább.  
 
 Fontos a [[T/Tűz\|tűz]] = [[T/Tesz\|tesz]] ([[T/Tosz\|tosz]]) = [[T/Tiszta\|tiszta]] stb. szavak hímségi teremtői, tűz ágensre vetíthető, közös belső fejlődési vonalon létrejövő szavak szóbokrának felismerése, kiegészítve az indoeurópai nyelvekben szintén istent (és ördögöt) jelentő szavak magyar [[T/Tevő\|tevő]] és [[T/Tév\|tév]]/[[T/Tévely\|tévely]]/[[T/Téved\|téved]] közös eredetét alkotó szavakkal.  
 
