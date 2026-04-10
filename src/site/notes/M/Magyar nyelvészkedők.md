@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","created":"2023-11-19T03:30","updated":"2026-03-05T02:19"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","created":"2023-11-19T03:30","updated":"2026-04-10T23:09"}
 ---
 
 
 # Magyar nyelvészkedők
+
 
 **A magyar nyelv rokonítása más nyelvekkel és a magyar nyelv szavainak értelmezési kísérletei**
 
@@ -85,7 +86,7 @@ Nem oldja meg a problémát, és a végén odaveti, hogy "ez is csak a véletlen
 Tehát viszonylag jól indít, aztán – jobb híján – egy fordított szótagrenddel próbálkozik ([[S/Szómegfordítás#Szótagmegfordítás\|szótagmegfordítás]]sal én is foglalkoztam; lásd ott, elmondtam róla a véleményem is), de ha mégsem fogadnánk el, akkor jöjjön egy egyenes szótagrendű változat: tessék választani, melyik tetszik, illetve a végén a bibliai kontextusból – önkényesen – kiragadott logikai érvelés: "Hiszen fiát mindenkit becsapva juttatta a trónra."  
 
 A helyzet az, hogy a részvállalás oka itt is az, hogy a tételeiket megfelelően ki nem dolgozó szerzők úgy vannak vele, hogy ha mások, a hivatalos dogma képviselőiként megtehetik, hogy egy tudálékos "nesze semmi fogd meg jól" értelmezést adjanak, akkor ő már nem legyen azért megszólva, hogy ő is megpróbálta: ő csak a magyar néphagyomány, őskereszténység, ősnyelvi vonatkozásai alapján próbálta az "igazságot" kideríteni. Ebben vagyunk így egy páran, csak sajnos lesznek olyanok, akik többet ártanak mint használnak és a másik oldalról küldöttek is majd a magyar tévedők táborát erősítik és a magyar ügy lejártatásán ügyködnek.  
-Egyáltalán nem egyszerű a megfelelő kontextus ismerete nélkül kibogozni egy név eredetét, vagy hogy mi lehetett a háttérben az adott történetben.  
+*Egyáltalán nem egyszerű a megfelelő kontextus ismerete nélkül kibogozni egy név eredetét, vagy hogy mi lehetett a háttérben az adott történetben.*  
 Még a legfelkészültebb kutatóinknál is találkozunk ilyen esetekkel, amikor tudják, de legalábbis érzik, hogy kell itt valaminek lennie, de mire megfogalmazódna, mikor a papírra, szövegszerkesztőbe vagy nyomda elé kerül, már csak azt látjuk, hogy nem talált rá.  
 
 Az tény, hogy ha az eredetinek, hitelesnek, akár történelminek gondolt kontextus cizellált vagy éppen zsidók felé részrehajló mesterkélt értelmezéseit vesszük figyelembe, azok egyenesen hányingert keltőek, de a szerzők jól megélnek belőle és micsoda asztaltársaságokat vonzhattak...  
