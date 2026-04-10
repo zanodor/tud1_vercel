@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ábrahám/","title":"Ábrahám","created":"2023-10-21T04:40","updated":"2026-02-18T22:57"}
+{"dg-publish":true,"permalink":"/A/Ábrahám/","title":"Ábrahám","created":"2023-10-21T04:40","updated":"2026-04-10T23:09"}
 ---
 
 
@@ -31,26 +31,38 @@ Oláh Imre tanulmányában, egy arab hagyomány alapján az is kiderül, hogy Á
 Ábrahám nevében akkor találunk-e Égatyára utaló etimont? Úgy tűnik, igen, hiszen [[A/Ábra\|ábra]] címnél ilyen ég, felhő jelentésű (ha nem is sémi, de árja – és a [[S/Szemiták és árják\|szemiták és árják]] címnél írottak szerint az avar-hunok a közös kapocs a vallások és nyelvcsaládok között – eredetű) szavak előjöttek. Viszont nem biztos, hogy jó helyen járunk. Mi lenne, ha a [[H/Héber\|héber]] (Eb-Úr) [[H/Habur\|Habur]] változatának rontásával lenne dolgunk? Ábrám-Ábrahám nevében egy ugyanolyan -Ám végződés is van, mint [[A/Ádám\|Ádám]] nevében, amely hasonló lehet, mint az Uram (és [[N/Numi Tórem\|Numi Tórem]]) nevekben. Eképpen Ábrám annyi lehetne, mint Eb-Uram. Ugyanakkor a hun-arab [[A/AB\|AB]] = apa fogalmát is kereshetjük benne. Eképpen Apa-Uram értelmű is lehet.  
 Alant még az Apiru/[[H/Habiru\|Habiru]] névvel is rokonság kerestetik.  
 Figyeljük meg, a télen ([[H/Hibernate\|hibernate]] eredete is innen) látható Orion (plusz Szíriusz)ról van itt szó. Mindegyik szó, legyen [[A/Avar\|avar]] (ennek a szláv `obor` = óriás változata ismét egyértelmű utalás Orionra és így [[H/Habur\|Habur]]-on keresztül Abramra), vagy a germán [[O/Over\|over]], mind ugyanarra az égi mozgatóra, az Ég Urára, Orionra utal.  
-Erre legutóbb a [[C/Cŵn Annwn\|Cŵn Annwn]] címnél a walesi `cŵn wybr` (sky hounds) összetételt meglátva is ismételten rá kellett jönnöm: Ábrahám és a szláv `Obor` = Óriás ötlött fel, majd az alábbi szóváltozatok alapján az [[A/Air\|air]] szó eredetére is ráleltem.  
+Erre legutóbb a [[C/Cŵn Annwn\|Cŵn Annwn]] címnél a walesi `cŵn wybr` (sky hounds) összetételt meglátva is ismételten rá kellett jönnöm: Ábrahám és a szláv `obor` = óriás ötlött fel, majd az alábbi szóváltozatok alapján az [[A/Air\|air]] szó eredetére is ráleltem.  
 A walesi nyelvben `wybr` és `wybren` = ég, menny és `awyr` = lég (levegő); ég. Utóbbit hehezetesen is megtalálni a neten: a hawyr forma viszont már a kabír/[[H/Habur\|Habur]]/[[H/Héber\|héber]]/[[A/Avar\|avar]] neveket idézi. Nyilvánvaló, hogy itt égistenről van szó, de mivel Orion (Obor = Abram = Ábrahám Óriás/Vadász) a Tejútfolyam mellett van (férje az istenanyának), ezért, ahogy erről máshol is volt szó, a neveket egymás között cserélhetik (de már eleve az Égisten is lehet anya, ha az éji eget vesszük alapul).  
 
 Ábrahám Nyilazóságának egy másik nyelvi bizonyítéka, hogy az ív fogalma kapcsán érintett [[B/Brow\|brow]] is ilyen alakú (\[A-\]B-R). (Ezen gondolatmenet folytatását lásd [[P/Próba\|próba]]/[[P/Prove\|prove]].)  
 
 Érdekes, hogy Ábrahám 99 éves, amikor [[E/El Shaddai\|El Shaddai]] bemutatkozik neki (Gen. 17.1). A [[S/Száz\|száz]] a téridő száma, azaz körbeértünk a nyilván nyári évkezdésű éven (visszatértünk ezzel ismét oda, hogy Ábrahám = Ikrek/Rák cikkelyében lévő Nyilazó, ki egylényegű El Shaddai-al és Jahvével is).  
 
+## Ábrahám szemita zsidó volt?
+
 #### Práczki István Szittya Biblia...  
 
-...című könyvének 119-120. oldalán szómegfordítással él Mahar-Bát ír rá.  
-Másutt írja:  
+...című könyvének 119-120. oldalán is ezt látja meg és a tőle megszokott szómegfordítással él. Másutt írja:  
 > A jelenlegi történelmi egyházaknak egységes álláspontja van Ábrám-Ábrahám személyét illetően, valahogy így: "Márpedig Ábrahám – minden kétséget kizáróan – a zsidók ősapja és ma is mindenki annak tekinti." Ezt szögezte le a zsidó katolikus felfogás mellé csatlakozva a protestáns kánon is. Erről persze nekem, mint a fentiekben már kifejtettem és indokolni is igyekeztem, erős kétségeim vannak. Mindezeket pedig nem más forrásokból merítettem, mint a zsidók szent könyvéből, a Tórából, és a Bibliából.  
 
-A [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] közreműködésével készült A magyarok őstörténete – a magyar-héber kapcsolat című dolgozatban szerepel (pontatlanul, így javítva):  
-> Ábrahámot nem nevezik egynek a kászdik közül, hanem felszólították, hogy hagyja el a várost ahol lakik, ami a kászdiké. Őt tulajdonképpen a kezdetektől fogva ʺhabirnakʺ (Teremtés 14:13.) hívják, és sosem káldeusnak, testvérei pedig arámiak (Teremtés 25:20.), \[ezzel nem!\] bizonyítva, hogy ők szemiták \[minthogy az arámi nyelv sem volt szemita eredetileg\].  
-> Őt az egyiptomiak egyértelműen \[a [[H/Habiru\|Habiru]] címnél is említett apiru változataként számítható\] apirként azonosították, de azt tudjuk, hogy az apir kifejezés nem egy jól meghatározott nemzetiséget jelölt, hanem sokkal inkább társadalmi helyzetet.  
-- Nos, valójában címet jelöl, melynek égi eredete van. Azt is vegyük észre, hogy az Ábrahám név előrésze és az apiru is igen hasonlóak.
+#### Hargita Csaba Ferenc A magyarok őstörténete – a magyar-héber kapcsolat...  
 
-Hargita Csaba Ferenc honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán és [[H/Habiru\|Habiru]] címnél szereplő nemzetségtábláján a leszármazása megtekinthető.  
+...című dolgozatban szerepel (pontatlanul, így javítva):  
+> Ábrahámot nem nevezik egynek a kászdik közül, hanem felszólították, hogy hagyja el a várost ahol lakik, ami a kászdiké. Őt tulajdonképpen a kezdetektől fogva ʺhabirnakʺ (Teremtés 14:13.) hívják, és sosem káldeusnak, testvérei pedig arámiak (Teremtés 25:20.), \[ezzel nem!\] bizonyítva, hogy ők szemiták \[minthogy az arámi nyelv sem volt szemita eredetileg\].  
+> Őt az egyiptomiak egyértelműen \[a [[H/Habiru\|Habiru]] címnél is említett `apiru` változataként számítható\] apirként azonosították, de azt tudjuk, hogy az apir kifejezés nem egy jól meghatározott nemzetiséget jelölt, hanem sokkal inkább társadalmi helyzetet.  
+- Nos, valójában címet jelöl, melynek égi eredete van. Azt is vegyük észre, hogy az *Ábrahám* név előrésze és az *apiru* is igen hasonlóak.
+
+[[H/Hargita Csaba Ferenc\|Hargita]] honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán és [[H/Habiru\|Habiru]] címnél szereplő nemzetségtábláján a leszármazása megtekinthető.  
 Az előbb említett cikkben akkádnak és hébernek, azaz szemitának mondja.  
+
+## Maharba
+
+Az [ezen](https://www.youtube.com/watch?v=dLu3KW4s8C0) Három magyar szentkép c. Pap Gábor féle előadásban bemutatott tükörképes megjelenítésű hímzésből kiderül, hogy Ábrahám neve mintha a Mahar-(A)ba, azaz Magyar Apa összetétel megfordítása lenne:  
+
+![Ábrahám_image20260410190320636.jpeg](/img/user/A/assets/%C3%81brah%C3%A1m_image20260410190320636.jpeg){ #vhbr0g}
+
+
+Práczki István Szittya Biblia című könyvének 119-120. oldalán is ezt látja meg és a tőle megszokott [[S/Szómegfordítás#Van-e létjogosultsága?\|szómegfordítás]]sal él.  
 
 ## Ábrámból Ábrahám
 
@@ -73,4 +85,9 @@ Ugye a mohamedánoknál nincs [[J/Jahve\|Jahve]], így úgy tűnik, Ábrahámmal
 ## Ábrahám turáni alakjának egy újabb bizonyítéka
 
 Gyárfás Ágnes Tellói pecsét című az Ősi Gyökér 2013/1-2. sz. megjelent cikkében a pelaszg alapítású, tölgyfalombok suttogásából jósolásról híres, Jankovics Marcell által is említett Dodona taglalása után írja, hogy amikor Ábrahám kijött \[a sumér\] Ur városából, és Izráelbe költözött, a jós [[T/Tölgy\|tölgy]]ekhez közel ütötte fel a sátorát és istentiszteletet is e tölgyfák alatt tartott.  
+
+## Ábrahám Brahma nevével hasonlítása
+
+Pap Gábor egy beszélgetésben, ahol a hinduizmuson keresztül követett **ősvallás hármasságá**ról (teremtő erő, fenntartó erő, pusztító-újjáteremtő erő) volt szó, úgy értelmezi az ószövetségi történetet, hogy a teremtőerőt kivonásra kerül, majd [17:51](https://www.youtube.com/watch?v=2jC8zXw4Q7U&t=1071)-nél Ábrahám nevét Brahma nevéből értelmezi és a-t mint fosztóképzőt mutatja be.{ #1mduty}
+
 
