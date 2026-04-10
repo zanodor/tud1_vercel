@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Numen/","title":"Numen","tags":["Englishtexttranslated"],"created":"2025-09-18T15:22","updated":"2025-09-18T15:23"}
+{"dg-publish":true,"permalink":"/N/Numen/","title":"Numen","tags":["Englishtexttranslated"],"created":"2025-09-18T15:22","updated":"2026-04-10T23:10"}
 ---
 
 
