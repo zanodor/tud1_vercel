@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2026-03-03T18:26"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2026-04-10T23:08"}
 ---
 
 
 # Tudomány
+
+Alapvetően nem az egyesítésre, a holisztikus világképre, hanem disszektálásra épül (ahol a szétválasztás a szétverés szinonímája), valamint az alárendelő és nem mellérendelő felfogást követi.  
 
 > [!warning] &nbsp;
 > A mai tudomány dogmák rabságában tartja az emberiséget. Minden, különösen a történelem- és nyelvtudomány politikai koncepciók szerint, propaganda és ellenpropaganda jelleggel illetve pusztán a tudomány eszméje és nem az igazság feltárása kedvéért, nem annak szolgálatában létezik. Ahogy lentebb is szó esik róla, nem az életet és így a magyarságot/emberiséget sem szolgálja.  
