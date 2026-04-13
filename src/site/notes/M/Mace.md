@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mace/","title":"Mace","created":"2024-05-09T01:27","updated":"2025-09-28T21:31"}
+{"dg-publish":true,"permalink":"/M/Mace/","title":"Mace","created":"2024-05-09T01:27","updated":"2026-04-13T23:22"}
 ---
 
 
@@ -47,7 +47,7 @@ Lásd még [[M/Mattock\|mattock]] és [[M/Machete\|machete]]. [[B/Bunkó\|Bunkó
 
 Götz László Keleten kél a Nap című könyvének 162-164. oldalain található [[G/Görög\|görög]] és héber szavakat hasonlító szószedetében találjuk az alábbi ideillő szópárt: görög `machia` (csata, ütközet) – héber `macha` (üt).
 
-Hasonló alakú szó még a spanyol `macana` = bot, melyet a bennszülött taino nyelvből is levezetnek, mert ilyen szó kardot jelentett.  
+Hasonló alakú szó még a spanyol `macana` = bot, melyet a bennszülött tainó nyelvből is levezetnek, mert ilyen szó kardot jelentett.  
 
 ## Lábjegyzetek
 
