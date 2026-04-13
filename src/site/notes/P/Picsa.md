@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/P/Picsa/","title":"Picsa","tags":["Englishtexttranslated"],"created":"2026-03-04T00:34","updated":"2026-03-05T22:16"}
+{"dg-publish":true,"permalink":"/P/Picsa/","title":"Picsa","tags":["Englishtexttranslated"],"created":"2026-03-04T00:34","updated":"2026-04-13T23:22"}
 ---
 
 
 # Picsa
 
-Hivatalosan szláv eredetűnek tartják – a `pityke` és `bütyök` kapcsán [[B/Button\|button]] címnél említett bolgár `пичка` (`pička`), szlovák `pička`, lengyel `piczka` = pina szavak gyökét akarják eredetnek megjelölni – de alább látjuk, hogy ilyen szóalak már az óegyiptomiban is megvolt.  
+Hivatalosan szláv eredetűnek tartják (lásd Wiktionary oldalt [itt](https://en.wikipedia.org/wiki/Píča)) – a `pityke` és `bütyök` kapcsán [[B/Button\|button]] címnél említett bolgár `пичка` (`pička`), szlovák `pička`, lengyel `piczka` = pina szavak gyökét akarják eredetnek megjelölni – de alább látjuk, hogy ilyen szóalak már az óegyiptomiban is megvolt.  
 
 Ahogy az angol [[F/Fanny\|fanny]] szónak, ennek is kétféle jelentése van. Alaki párja: [[P/Puca\|puca]].  
 A [[P/Pig\|pig]] címnél előjövő ("hátsó picsára" vonatkozó) görög `pȳgē` = picsa lehetne női "frontális értelmű" picsa is, annál is inkább, mert a [[D/Disznó\|disznó]] (malac) is lehet a női szeméremrész állatjelképe (a [[M/Macska\|macska]], [[R/Róka\|róka]] és az alant még említésre kerülő [[B/Béka\|béka]] mellett).  
