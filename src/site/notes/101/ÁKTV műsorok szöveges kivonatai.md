@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-04-10T23:08"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-04-13T23:20"}
 ---
 
 
@@ -21,9 +21,8 @@
 
 **2026:**
 
-
-
-[260410CN! UTOLSÓ ADÁS](https://rumble.com/v78btyq-260410cn-utols-ads-kubnyi-tams-ktv.html)  [https://archive.ph/BCT5m](https://archive.ph/BCT5m)
+[260413CN! LÉLEKBÁTORSÁG](https://rumble.com/v78gdba-260413cn-llekbtorsg-kubnyi-tams-ktv.html)  [https://archive.ph/WwIdb](https://archive.ph/WwIdb)
+[260410CN! UTOLSÓ ADÁS？](https://rumble.com/v78btyq-260410cn-utols-ads-kubnyi-tams-ktv.html)  [https://archive.ph/BCT5m](https://archive.ph/BCT5m)
 [260409CN! MP + MHM = SÁTÁNI SZEKTA!](https://rumble.com/v78a94e-260409cn-mp-mhm-stni-szekta-kubnyi-tams-ktv.html)  [https://archive.ph/Ocm9S](https://archive.ph/Ocm9S)
 [260408CN! JÓ SZERECSEN LOVAK](https://rumble.com/v788pvw-260408cn-j-szerecsen-lovak-kubnyi-tams-ktv.html)  [https://archive.ph/80Lxg](https://archive.ph/80Lxg)
 [260407CN! EGY JÓ SZÓ](https://rumble.com/v7872ns-260407cn-egy-j-sz-kubnyi-tams-ktv.html)  [https://archive.ph/vNLBv](https://archive.ph/vNLBv)
