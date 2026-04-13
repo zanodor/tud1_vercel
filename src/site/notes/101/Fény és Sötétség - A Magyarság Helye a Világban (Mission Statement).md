@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-04-10T23:10"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-04-13T23:20"}
 ---
 
 
@@ -253,7 +253,7 @@ Ezek a nyelvek segíthetnek a magyar ősműveltség feltárásában, pontosabb m
 
 A) A szavak a szóvázat képező mássalhangzók módosulása nélkül jönnek létre, kisebb magánhangzó-változások ellenére szinte megegyeznek, természetesen értelmileg is. Például [[B/BOT\|bot]] – [[B/BAT\|bat]], [[B/Baba\|baba]] – babe stb. Ebből a csoportból gyűjt főleg Varga és Tomory.  
 
-B₁) Szavak szintjén csoporton belüli (például V-B-P, T-D, K-G, stb.) természetes mássalhangzó-változással. Például [[B/Bú\|bú]] → woe, [[G/Gyors\|gyors]] → [[H/Horse\|horse]] (ló). Ebből a csoportból gyűjt Varga és Tomory.  
+B₁) Szavak szintjén csoporton belüli (például V-B-P, T-D, K-G, stb.) természetes mássalhangzó-változással. Például [[B/Bú\|bú]] → `woe`, [[G/Gyors\|gyors]] → [[H/Horse\|horse]] (ló). Ebből a csoportból gyűjt Varga és Tomory.  
 
 B₂) Szavakon belüli szinten, a szavak mássalhangzó-torlódással, szógyorsulással, ill. mássalhangzó-betoldással vagy msh-kikopással változnak. Például [[S/Sárkány\|sárkány]] → [[D/Dragon\|dragon]], rongy → [[W/Wrong\|wrong]] (ha igaz). Ebből a csoportból gyűjt Varga és Tomory.  
 
@@ -261,7 +261,7 @@ C) Magyar nyelvben ma már/sohasem(?) használt, de magyar nyelvű etimonokból 
 Péterfai János István etimonjaiból a szavak rekonstruálhatók. Ebből a csoportból gyűjt Péterfai.  
 
 D₁) Mondatrész-osztályokon áthatoló, azonos fogalmi körön belüli szavak például külalak, minőség, eszköz, cél, stb. kifejezésére (természeti megfigyelések útján) válhatnak főnévből igévé, főnévből melléknévvé, határozóból igévé, stb. A legtöbb, legérdekesebb előfordulásokat produkáló szavak csoportja.  
-Például [[D/Derű\|derű]] → [[T/True\|true]] (igaz), (sír)domb → [[D/Dumb\|dumb]] (süket), bont → [[B/Bone\|bone]] (csont). Ebből az önkényesen felállított(?) csoportból ritkán gyűjt Varga Csaba, Tomory Zsuzsa és Péterfai János István.  
+Például [[D/Derű\|derű]] → [[T/True\|true]] (igaz), (sír)domb → [[D/Dumb\|dumb]] (süket), bont → [[B/Bone\|bone]] (csont), hegyoldal (akkád `shadu` = hegy)/két ([[S/Süt\|süt]]/[[S/Söt\|söt]]) oldal → [[S/Side\|side]] (oldal). Ebből az önkényesen felállított(?) csoportból ritkán gyűjt Varga Csaba, Tomory Zsuzsa és Péterfai János István.  
 
 D₂) Összetartozó kifejezések, szószerkezetek, ún. idiómák szintjén: nem a megfelelő szót/értelmet viszi tovább. Ebből a csoportból nem gyűjt szinte senki. Persze ezek korántsem biztos, hogy így is jöttek létre, de [[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidzsinizáció\|pidzsinizációs]] folyamatok feltárásában segíthetnek. Például:  
 • [[M/Magyar\|Magyar]] istenanya (Tejútanya) → arab Al Madzsarrah Tejút és IE [[M/Mater\|mater]] = anya.  
