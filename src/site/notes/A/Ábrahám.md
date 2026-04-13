@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ábrahám/","title":"Ábrahám","created":"2023-10-21T04:40","updated":"2026-04-10T23:09"}
+{"dg-publish":true,"permalink":"/A/Ábrahám/","title":"Ábrahám","created":"2023-10-21T04:40","updated":"2026-04-13T23:22"}
 ---
 
 
@@ -62,7 +62,7 @@ Az [ezen](https://www.youtube.com/watch?v=dLu3KW4s8C0) Három magyar szentkép c
 ![Ábrahám_image20260410190320636.jpeg](/img/user/A/assets/%C3%81brah%C3%A1m_image20260410190320636.jpeg){ #vhbr0g}
 
 
-Práczki István Szittya Biblia című könyvének 119-120. oldalán is ezt látja meg és a tőle megszokott [[S/Szómegfordítás#Van-e létjogosultsága?\|szómegfordítás]]sal él.  
+Práczki István Szittya Biblia című könyvének 119-120. oldalán is ezt látja meg és amikor a tőle megszokott [[S/Szómegfordítás#Van-e létjogosultsága?\|szómegfordítás]]sal él, jogosnak tűnik, de mi van akkor ha az egész csak véletlenül stimmel?  
 
 ## Ábrámból Ábrahám
 
