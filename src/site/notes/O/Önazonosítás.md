@@ -1,28 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated"],"created":"2024-05-09T22:32","updated":"2026-04-05T02:42"}
+{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated"],"created":"2024-05-09T22:32","updated":"2026-04-15T16:13"}
 ---
 
 
 # Önazonosítás
 
-Ami az alábbiakban megfogalmazásra kerül, abból kiderül, hogy az önazonosítás szavai etimológiai vizsgálat tárgyát is képezhetik, azaz az egyes nyelvek szavai mögött az önvaló, belső/isteni lényeg, én(ség), életerő, lélek, és annak lényegét, alapkiinduló fogalmát tekintve fény, tűz jelentésű alapszók kereshetők.  
+Ami az alábbiakban megfogalmazásra kerül, abból kiderül, hogy az önazonosítás szavai etimológiai vizsgálat tárgyát is képezhetik.  
+> [!check] &nbsp;
+> Egyes nyelvek szavai mögött az önvaló, belső/isteni lényeg, én(ség), életerő, lélek, és annak lényegét, alapkiinduló fogalmát tekintve fény, tűz jelentésű alapszók kereshetők.
+
 Különösen a [[K/Khuda\|Khuda]] címnél taglalt perzsa `khod` = saját, önmaga szó kapcsán írottakat értelmezve érthető ez meg, de mint kiderül, a török nyelvben is hasonló esetet találunk: a nyilván [[I/Isten\|Isten]] szavunk csonkulásaként vehető török `üst` = ős, előd, felettes, szülő párjának tartható az alant említett `öz` = önmaga szócska.  
 
 Az [[E/Ember – régi ember\|ember – régi ember]] magát nem a testével, hanem a [[S/Szellem\|szellem]]ével, fénytermészetével, fénnyel (Nappal) azonosította. (Ez megegyezik Grandpierre Atilla Lélek és a világegyetem című könyvében megfogalmazottakkal[^1].)  
-"Énazonosításnak" is hívhatnók, hiszen Én = [[E/EN\|En]] = Isten(i lény(em)). A [[S/Személyes névmások\|személyes névmások]] a magyar nyelvben, egyes számban, istennevek, írja Péterfai János is. `Én` és `ön` is az [[A/AN, ÁN\|AN, ÁN]] = ég (egy, isten(anya)) változata (vö. sumér `AN` = ég, menny), felhangos párja.  
+"Énazonosításnak" is hívhatnók, hiszen Én = [[E/EN\|En]] = Isten(i lény(em)). A [[S/Személyes névmások\|személyes névmások]] a magyar nyelvben, egyes számban, istennevek, írja Péterfai János is. `Én` és `ön` is az [[A/AN, ÁN\|An]] = ég (egy, isten(anya)) változata (vö. sumér `AN` = ég, menny), felhangos párja.  
 
-Lényegében mi a hun [[A/AN, ÁN\|AN, ÁN]] = ég, menny szavunk nyomán használjuk én szavunkat, a perzsa `man` = én a [[M/Men\|menny]] szóból (a tamilban is `nan`) (lehet persze mindkettő pusztán `én` előtételezése, a latin [[E/Ego\|ego]], germán `ich` és társai pedig a magyar [[E/Ég\|ég]] szóból indulnak ki: mindegyik annak bizonyításául szolgál, hogy az emberek ismerték eredetüket. A népek nevei is hasonlóan alakultak ki, ahogy az országok nevei is.  
+Lényegében mi a hun [[A/AN, ÁN\|An]] = ég, menny szavunk nyomán használjuk én szavunkat, a perzsa `man` = én a [[M/Men\|menny]] szóból (a tamilban is `nan`).  
+- Lehet persze mindkettő pusztán `én` előtételezése.
 
+A latin [[E/Ego\|ego]], germán `ich` és társai pedig a magyar [[E/Ég\|ég]] szóból indulnak ki: mindegyik annak bizonyításául szolgál, hogy az emberek ismerték eredetüket. A népek nevei is hasonlóan alakultak ki, ahogy az országok nevei is.  
 A latin `ego` = én szó tehát nem annyira a Nap tkp. [[E/Égő\|égő]] nevéből képzett, hanem [[E/Ég\|ég]] és [[E/Egy\|egy]] szavunkból, ahogy erről [[I/I#I 2)\|I]] és [[A/AN, ÁN\|AN, ÁN]] címnél is volt szó.  
 
-A latin ego-hoz hasonló [[E/Each\|each]] szónál volt szó ék és ég szavakról és hogy Tomory Zsuzsa is felhozza ezen angol szót, de kelta nyelvben ember jelentéssel (nem találom ilyen alakkal a szót). (Talán Tomory félreérti. Az ír nyelvben `iochd` jelent embert, emberiséget (de vélhetően a kiinduló idea kelta nyelvben a `joht`: jóság, könyörületesség).) Ott, [[E/Each\|each]] címnél egy szavunkat hoztuk ki azóta.  
+De közben ugariti-héber összefüggésre is rámutathatunk: a bibliai [Onán](https://hu.wikipedia.org/wiki/On%C3%A1n) nevét a héber `און` = erő; szexuális potencia szóra vezetik vissza, és egy ilyen jelentésű(nek meghatározott?) ugariti `ản` = erő, hatalom szót jelölnek meg eredetéül, de annak [Wiktionary oldalán](https://en.wiktionary.org/wiki/%F0%90%8E%80%F0%90%8E%90#Ugaritic) ezen jelentéskörrel már nem foglalkoznak. Van ott viszont az [[U/Ugarit#Ugariti nyelv\|ugariti nyelv]] helyen táblázatban is taglalt, magyar `én` szavunkkal is megfelelő egyes szám első személyű névmásról is szó, mely megint visszavezet oda, hogy **a kiinduló egy istent jelentő szó kell legyen**, és hogy én szavunk mutatja, hogy ebből a magasabb rendű lényből bennünk is van.  
 
-[[E/ÉN\|ÉN]] illetve [[A/AN, ÁN\|ÁN]] szavunkkal látszik egyezni a kelta `àin` = fény, hő szó, mely előtagként megvan azon `aingeal` = fény, tűz szóban, mely ugyanilyen formában, Alex MacBain etimológia szótárában alatta külön szócikkben `aingeal` = [[A/Angel\|angyal]] jelentéssel is meg van adva, de mindkét szót más és más levezetésekkel illet. Ezekről a szavakról lásd még [[A/Angel\|angel]].  
+[[E/ÉN\|ÉN]] illetve [[A/AN, ÁN\|ÁN]] névvel látszik továbbá egyezni a kelta `àin` = fény, hő szó, mely előtagként megvan azon `aingeal` = fény, tűz szóban, mely ugyanilyen formában, Alex MacBain etimológia szótárában alatta külön szócikkben `aingeal` = [[A/Angel\|angyal]] jelentéssel is meg van adva, de mindkét szót más és más levezetésekkel illet. Ezekről a szavakról lásd még [[A/Angel\|angel]].  
 Az én jelentésű pehlevi `az` kapcsán [[A/Ász\|Ász]] címnél alcím neveként fogalmaztuk meg, hogy az Az illetve Ász isteni énként értelmezendő (ahogy [[I/Isa\|Isa]] [[J/Jézus\|Jézus]] Isa/Isza nevében is).  
 A témát lentebb folytatjuk (illetve már korábban ott megvolt).  
 
 [[S/Saját\|Saját]] szavunkban is SAJ a Nap (fényének) neve. A mellékelt indián ábrázoláson is látni, hogy nem tulajdonítottak jelentőséget az arcvonásoknak, ill. annak, hogy egy specifikus embert azonosítsanak.  
-![assets/Önazonosítás_image1.png\|fix_dark fix_light\|840](/img/user/O/assets/%C3%96nazonos%C3%ADt%C3%A1s_image1.png)  
+![assets/Önazonosítás_image1.png|fix_dark fix_light|840](/img/user/O/assets/%C3%96nazonos%C3%ADt%C3%A1s_image1.png)  
 Az alábbi analógiákat találjuk különböző nyelvekben ([[S/Same\|same]] címnél is szerepeltek):  
 A legtöbb nyelven [[M/Man\|man]] = ember, mert egyrészt a mennyből ([[M/Men\|men]]) származik, másrészt mindannyian [[F/Fehérlófia\|Fehérlófia]]i (Mén = Ló = Nyilas) vagyunk eredendően, de a magyarok mindenképp. Nemcsak a hindu [[M/Manu\|Manu]], vagy perzsa `man`[^2] = én szó felelős a germán `man`, `mann`, `mensch` szavak eredetéért, ahogy gondolni vélik az indo-európaiak. Ott van még a manysik neve is, mely szintén embert, férfit jelent. A man = férfi jelentése pedig egyrészt a mén = hímló, másrészt a fényes menny jelentéséből alakult ki. De [[M/Mane\|mane]]-je is csak hímnek lehet.  
 ([[M/Menog\|Menog]] címnél is szóba került az önazonosítás.)  
@@ -49,8 +54,8 @@ A szanszkritban `sva-pati` - szó szerint a maga ura – [[S/Szabad\|szabad]] sz
 Hasonló a törökök `kişi` (baskír, csuvas, stb. `kese`) = egyén, ember, önmaga szava, mely inkább a kicsiségből (talán abból az ideából, hogy a makrokozmosz leképezése a mikrokozmosz) látszik kiindulni, de ugyanilyen elven elemezhető `kendi` és a már ismert `öz` szava is van önmaga jelentéssel ([[C/Candle\|candle]] és [[O/Ős\|ős]] címhez is betéve).  
 - Ezen öz viszont nemcsak ős, hanem [[I/ISZ\|isz]], [[I/Íz\|íz]] szavakkal is kapcsolható, hiszen a Grandpierre Atilla által idézett Vértes Edit Szibériai nyelvrokonaink hitvilága című könyvében árnyéklélek kapcsán a vogul és a nyugati osztják `isz` szó került elő, míg a finnben `itse` = saját maga.
 
-Ahogy fentebb szerepelt, a magyarban természetesen a [[M/Maga\|maga]][^4] [[M/MAG\|Mag]] = csillag, Nap, míg az [[O/Ön\|ön]] és [[E/ÉN\|én]] szavak [[A/AN, ÁN\|AN, ÁN]]) = ég szavakra mutatnak vissza. Az angol [[O/Own\|own]] és alternatívájaként kezelendő óangol párja is erről árulkodik. Az alakilag rokon görög `ekh-` = birok, nekem van – Aczél József adata szerint – nekem, neked, neki szavaink -nek gyökéhez viszonyul; persze ő nem [[E/Ég\|ég]] szavunkban gondolkodott, mely a helyes megközelítése.  
-Az angol [[S/Same\|same]] = ugyanaz jelentése az önazonosítás folytán ilyen jelentésű. Feltűnő, illetve csak érdekes, hogy a svéd-lapp nyelven is `sámi` = ugyanaz jelentésű: nyilván a szuomi finnek olyan önazonosító szava, mint a komiknál a komi, magyaroknál a magyar, stb.  
+Ahogy fentebb szerepelt, a magyarban természetesen a [[M/Maga\|maga]][^4] [[M/MAG\|Mag]] = csillag, Nap, míg az [[O/Ön\|ön]] és [[E/ÉN\|én]] szavak [[A/AN, ÁN\|An]] = ég szavakra mutatnak vissza. Az angol [[O/Own\|own]] és alternatívájaként kezelendő óangol párja is erről árulkodik. Az alakilag rokon görög `ekh-` = birok, nekem van – Aczél József adata szerint – nekem, neked, neki szavaink -nek gyökéhez viszonyul; persze ő nem [[E/Ég\|ég]] szavunkban gondolkodott, mely a helyes megközelítése.  
+Az angol [[S/Same\|same]] = ugyanaz jelentése az önazonosítás folytán ilyen jelentésű. Feltűnő, illetve csak érdekes, hogy a svéd-lapp nyelven is `sámi` = ugyanaz jelentésű: nyilván a lappok olyan önazonosító szava, mint a komiknál a komi, hantiknál a hanti, stb.  
 Same itt nyilván szem(ély azonosító): éppúgy, ahogy a sumér-akkád vagy szemere nyelvben [[S/Samas\|Samash]] (szemes) a Nap neve volt (Szumer pedig Szem-Úr népe). De az orosz eredetű [[S/Samovar\|samovar]] szó előtagja is önmaga jelentésű.  
 [[I/Identity\|Identity]] szóban Isten [[I/ID\|ID]] illetve [[E/Egy\|egy]] (vesd össze latin `idem`) neve vagy a Nap [[U/UD\|UD]] neve szerepel, ahogy a görög [[A/Auto\|auto]] szóban is a Nap jelentésű [[U/UTU\|UTU]]/UTO etimon.  
 
