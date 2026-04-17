@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:30","updated":"2026-04-17T22:43"}
+{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:30","updated":"2026-04-17T22:47"}
 ---
 
-á
+
 # Hsiung-nu
 
-Előfordul Hiung-nu és más formákban is.  
+Előfordul Hiung-nu és más formákban is. Alant a hsziungnu formát használtam.  
+
 Az eredeti név nem kínai, mert az már csak átírás. Azaz a **hunnu** lenne az eredeti.  
 > [!details]- &nbsp;
 > **A nevek eredete és jelentése**  
@@ -65,7 +66,7 @@ Ami érdekes:
 ...című könyvében írja:  
 > A Zyongnunk (= hunnusok) chinai neve Tata ami idegent, barbarust, nemchinait jelent. ([Lásd 59. old.](zotero://open-pdf/library/items/DFI47XPY?page=59&annotation=2E5TPY4J))  
 
-## Hsziungnu mint szőke faj
+## A hsziungnuk mint szőke faj
 
 #### Zajti Ferenc Zsidó volt-e Jézus?...
 
@@ -74,7 +75,7 @@ Ami érdekes:
 > Korabeli ábrázolásokból tudjuk, hogy a szkíták mindig mint szép, hosszúkás fejű, sűrű szakállú nép ábrázoltattak. A szkíták azonosak az ékírásokban említett ashguzai vagy ishguzaival. Az eredeti név skuza, skhuza kellett hogy legyen és a görögök (Sküthai) theta-val írták, mig az asszírok z-vet ejtették. Szkítia semmi egyéb, mint Cythae (mint például Cushan, Kushan helyett). Szkíta semmi egyéb, mint Getae, kapcsolatba hozva nevüket a Saka, azaz Caka-val. **A hiungnuk ettől a szőke néptől származóknak vallják magukat**, úgy, hogy teljes joggal mondhatjuk, hogy a hiungnuk szőke faj voltak, mint ahogy a mai napig is azok összes utódaik."  { #t74ctc}
 
 
-## Hsziungnuk nyelvének iranizálása
+## A hsziungnuk nyelvének iranizálása
 
 #### Götz László Keleten kél a Nap...
 
@@ -92,7 +93,7 @@ Végül megengedi:
 
 Lásd még [ezen](https://prism.ucalgary.ca/server/api/core/bitstreams/0f570209-afee-4041-913d-afb541d76c2d/content) oldalon szereplő kínai-kanadai illető disszertációjának idevonatkozó anyagát.  
 
-## Hsziungnuk művészete
+## A hsziungnuk művészete
 
 
 Az [erdelyi_istvan_benko_mihaly_a_hsziung-nuk_regeszeti_kutatasa_mongoliaban](https://julianusbaratai.blog.hu/2024/06/08/erdelyi_istvan_benko_mihaly_a_hsziung-nuk_regeszeti_kutatasa_mongoliaban_470) című blogposztban nincsenek képek de utalnak a *Xiongnu Encyclopedia* c. elektronikus kiadvány oldalszámaira.  
