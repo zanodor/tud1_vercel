@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2026-03-05T01:37"}
+{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2026-04-17T22:43"}
 ---
 
 
 # Asb
 
-Perzsa nyelven `asb` = ló. `Aspa` ló aveszta nyelvben, `asp` a pahlaviban, az óindben `asva`.  
+Perzsa nyelven `asb` = ló. `Aspa` ló avesztai nyelvben, `asp` a pahlaviban, az óindben `asva`.  
 
 #### Péterfai János írja:
 
