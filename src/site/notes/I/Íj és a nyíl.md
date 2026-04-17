@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2026-03-05T01:22"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2026-04-17T22:42"}
 ---
 
 
@@ -180,7 +180,8 @@ Az utolsó két képhez egészen hasonló a Molnár V. József Világ-Virág cí
 > —  
 > "Egyszer volt, hol nem volt, volt egyszer egy ember, akinek a lányának volt egy varázsíja[^9] és egy nyílvesszője, de ő lusta volt, és csak aludt. Az apja megharagudott, és így szólt: "Alvás helyett fogd az íjadat, és próbáld meg eltalálni az óceán köldökét[^10], hogy tűz legyen. Nos, az óceán köldöke egy nagy, örvénylő tölcsér volt, és fadarabok úsztak benne[^11], amikből tüzet lehetett gyújtani. Abban az időben ugyanis nem volt tűz. A lány fogta az íját, megrántotta, eltalálta a célt, és a rudak a partra repültek. Az öreg örült, és szép tüzet gyújtott. De meg akarta tartani magának, ezért épített egy házat, aminek az ajtaja fentről lefelé beesett, mint egy állkapocs[^12], és mindenkit megölt, aki megpróbált rajta átmenni.  
 > De híre ment, hogy az öregnek tüze van, és a Szarvas elhatározta, hogy ellopja a tüzet az embereknek. Gyantás fadarabokat ragasztott a hajába, aztán összekötött két kenut, és deszkákból hidat épített közéjük, amin énekelt és táncolt, miközben az öreg háza felé evezett. Azt énekelte: "Hó, mindjárt lángra kapok". Az öregember lánya azt mondta: "Engedjétek be, tetszik a dala", de a ház ajtaja becsukódott. A Szarvas a dalától vezérelve éppen akkor érte el az ajtót, amikor az újra kinyílt, és sértetlenül bejutott. Ott a tűz fölé hajolt, mintha meg akarná szárítani magát, és a hajában lévő gallyak lángra kaptak. Erre kiugrott az ajtón, és így hozott tüzet az embereknek[^13]."  
-- [[S/Stag\|Stag]], [[P/Prométheusz\|Prométheusz]] és [[S/Szaturnusz\|Szaturnusz]] címhez is betéve.
+
+
 
 Santillana folytatja:  
 > The bow and the arrow are constantly reaffirmed as basic images, keystones of the arch of theory; both are found in the heavens: the bow of Marduk, the Babylonian Jupiter, the bow celebrated by the Poem of the Beginning, with which he won power and established universal order. Then again, it is the bow the Chinese emperors received on their accession. With this bow one cannot fail to "hit" Sirius, "he" – so says the great Babylonian ritual of [[A/Akitu\|Akitu]] – "who measures the depths of the sea".  
