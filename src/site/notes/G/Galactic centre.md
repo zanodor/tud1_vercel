@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2026-03-05T01:23"}
+{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2026-04-17T22:43"}
 ---
 
 
@@ -167,10 +167,13 @@ Jankovics Marcell A fa mitológiája című könyvének 203. oldalától kezdve 
 Bíró Lajos Táltosokról szóló előadásában is említi a fekete lyukat a Tejút középpontjában és felveti, nem-e azért volt érdekes [[T/Táltos\|táltos]]aink számára, mert ott párhuzamos dimenziókba lehet jutni.  
 
 ![assets/Galcen_image10.png|fix_light|840](/img/user/G/assets/Galcen_image10.png)  
-> Abban a gondolatrendszerben, mely a [[T/Tejút\|Tejut]]at a nagy istennővel azonosítja, a téli kapu, a tejúthasadék az istennő ölének, szeméremnyílásának ([[V/Vulva\|vulva]]) felel meg, ahol a napisten és többi gyermeke a világra jön[^7], [[S/Száj\|száj]]ának pedig a nyári kapu, ahol gyermekeit elnyeli és újra foganja.  
 
-Itt Jankovics Marcell mesepéldákat hoz fel.  
- A tejúthasadék vulvára emlékeztető jelszerű képe (csónak, vetélő, mandula, rombusz) felbukkan a keresztény ikonográfiában is. A karácsonykor fénybe boruló tejúthasadék, régi magyar nevén Hajnalszakadék miatt nevezték Jézus anyját az "Ég kapujának."  
+#### Jankovics Marcell írja:
+
+> Abban a gondolatrendszerben, mely a [[T/Tejút\|Tejut]]at a nagy istennővel azonosítja, a téli kapu, a tejúthasadék az istennő ölének, szeméremnyílásának ([[V/Vulva\|vulva]]) felel meg, ahol a napisten és többi gyermeke a világra jön[^7], [[S/Száj\|száj]]ának pedig a nyári kapu, ahol gyermekeit elnyeli és újra foganja.  
+- Itt Jankovics mesepéldákat hoz fel.
+
+> A tejúthasadék vulvára emlékeztető jelszerű képe (csónak, vetélő, mandula, rombusz) felbukkan a keresztény ikonográfiában is. A karácsonykor fénybe boruló tejúthasadék, régi magyar nevén Hajnalszakadék miatt nevezték Jézus anyját az "Ég kapujának."  
 
 Jankovics Marcell könyvének 214. oldalán szól arról, hogy [[M/Mithra\|Mithrá]]hoz hasonlóan [[J/Jézus\|Jézus]] is barlangban született: mindkét esetben a barlang a tejúthasadékot jelenti.  
 
@@ -181,7 +184,7 @@ John M. Jenkins vagy más adata volt:
 > —  
 > A maja civilizáció úgy döntött, hogy 2012. december 21-én véget ér egy nagyszerű időszak. Ez lesz a "13. baktun" vége a hosszú számlálású naptárukban. A rejtély megoldása a napéjegyenlőségek precesszióját foglalja magában. A 2012 körüli években a decemberi napforduló Napja a Tejútrendszer galaxisának középpontjához fog igazodni.  
 > Az ősi mezoamerikai csillagászok a rendelkezésükre álló egyszerű technológiával elképesztő munkát végeztek. Nemcsak megmérték a precessziós ciklus hosszát, hanem egy figyelemre méltó összehangolással is lehorgonyozták azt, a téli napforduló Napjának (nem a tavaszi napéjegyenlőségnek, amit a nyugati asztrológia használ) és magának a galaxisnak, a Tejútrendszer sávjának a találkozásával. Mivel galaxisunk korong alakú, a Tejúton keresztül egy egyenlítőszerű síkot húzhatunk, és bejelölhetjük, hol metszi az ekliptikát, a Föld Nap körüli pályájának síkját.  
-> Ez a Tejútközpont a Nyilas és a Skorpió között helyezkedik el, és az ősi maják úgy gondoltak rá, mint a teremtés helyére az égen, a Nagy Anya méhére. **A napforduló napjának és a Tejútközpontnak ez az együttállása 13 000 évente egyszer fordul elő**[^8]. Ez a dél és az éjfél pillanataival egyenértékű[^9].  
+> Ez a Tejútközpont a Nyilas és a Skorpió között helyezkedik el, és az ősi maják úgy gondoltak rá, mint a teremtés helyére az égen, a Nagy Anya méhére. **A napforduló napjának és a Tejútközpontnak ez az együttállása 13000 évente egyszer fordul elő**[^8]. Ez a dél és az éjfél pillanataival egyenértékű[^9].  
 
 ![assets/Galcen_image11.png|fix_light|840](/img/user/G/assets/Galcen_image11.png)  
 ![assets/Galcen_image12.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image12.png)  
