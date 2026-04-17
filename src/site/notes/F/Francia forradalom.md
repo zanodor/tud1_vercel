@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Francia forradalom/","title":"Francia forradalom","created":"2023-11-28T09:21","updated":"2025-07-16T14:28"}
+{"dg-publish":true,"permalink":"/F/Francia forradalom/","title":"Francia forradalom","created":"2023-11-28T09:21","updated":"2026-04-17T22:48"}
 ---
 
 
