@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-03-23T23:30"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-04-15T01:52"}
 ---
 
 
@@ -19,14 +19,17 @@ Itt nem fejezi be, de arra utal, hogy a "jeles" L hang a "pöfögős" V hang fel
 
 ## Szabályos és szabálytalan mássalhangzó-változások
 
-### K>H>Sz>Th>T>D>Gy>G>H>K önmagába visszatérő hangfejlődése
+### Artikulációs (szervrokon) változások
+
+#### K>H>Sz>Th>T>D>Gy>G>H>K önmagába visszatérő hangfejlődése
 
 A legfontosabb, önmagába kígyóként farkába harapó, cirkuláris hangfejlődés a K>H>Sz>Th>T>D>Gy>G>H>K; lásd erről még [[K/KAR\|KAR]].  
 
 #### Magyar Adorján írja:
 
-> S>H, SZ>H, SZ>K, S>K, stb. Ismeretes, hogy az sz hang a h-val gyakran váltakozik (mint ahogy a [[S/Só\|só]] [[S/SZAL\|szal]] nevének is van hal, halsz változata).  
-> Ismerve a h és sz hangok gyakori hangcsere jelenségét, észrevehetjük, miszerint az olasz-francia-német `sala`, `salone`, `Saal` szó sem más mint [[O/Ól\|ól]], hol ős-szavunk egyik (de szarmata őstörzsünk szócsoportjabeli) származéka.  
+> Ismeretes, hogy az sz hang a h-val gyakran váltakozik (mint ahogy a [[S/Só\|só]] [[S/SZAL\|szal]] nevének is van `hal`, `halsz` változata).  
+> \[...\]  
+> ...sőt, ismerve a h és sz hangok gyakori hangcsere jelenségét, észrevehetjük, miszerint az olasz-francia-német `sala`, `salone`, `Saal` szó sem más mint [[O/Ól\|ól]], `hol` ős-szavunk egyik (de szarmata őstörzsünk szócsoportjabeli) származéka.  
 
 A `sajka` is például angolban `hulk`, ahol a hivatalos etimológia is említi azt a görög `holkasz` szót, melyet Aczél József a szókezdő sz h-ra változása kapcsán említ (vagy őnála inkább fordítva lehetett).  
 Az sz>h mássalhangzó-csere gyakorisága miatt `szer` és főképpen `szörp` szavunk tűnik megfejtésnek `herb` szóra.  
@@ -66,52 +69,7 @@ T>K hangcserét ejt meg Magyar Adorján is:
 T>K hangváltozást látunk akkor is, amikor a magyar kutya és hindi `kutta` helyett a dravida telugu nyelvű `kukka` = kutya szót látjuk.  
 
 T>GY vagy GY>T változásra vagy azonosságra példa Magyar > Matar, Gyám > Tám és Győz > Tűz (utóbbi kettő inkább T>GY változásra példa).  
-[[K/KUS\|Kus]] szóról is elmondtuk, hogy egészen hasonló hozzá T>K váltással [[T/Tűz\|tűz]].  
-
-### B-D-G mássalhangzók változásai  
-
-A furcsasága ezen változásoknak, hogy a g egészen más helyen képzett hang, mint a másik kettő, de mégis, mintha a magyarban találnánk meg a legszemléletesebb példát, a [[G/Gömb\|gömb]] és [[D/Domb\|domb]] szavaink hangalaki és fogalmi párhuzama révén.  
-
-> [!info] &nbsp;
-> Mivel a magyar nyelvben van [[G/GY\|gy]] hang, mi legalább mondhatjuk, hogy a 'g' és a 'd' közti átjárást ezen 'gy' adhatja meg; igaz, \*gyomb nincs meg a magyarban ezen példák átkötésére.
-
-
-
-Egyébként ezek voltak azok a hangok, melyeket [[O/Orrhang\|orrhang]]os [[H/Hungár\|hungár]] és más neveink ([[E/Ember\|ember]], [[A/Andor\|Andor]], stb.) kapcsán úgy említettem, hogy nehéz eldönteni, hogy az n/m hangok a betoldások, vagy ezek.  
-
-#### Götz László Keleten kél a Nap...
-
-...című könyvének 147. oldalán ind grammatikusok hangbeosztása alapján menve közöl két hangsort: az övékét (ahol minden csoportba bekerült egy nazális is) és egy kiegészítettet:  
-> labiálisok: B, BH, P, PH, M;  
-> dentálisok: D, DH, T, TH, N;  
-> velárisok: G, GH, K, KH, N (Ng).  
-> Az átmenetekkel kiegészített sorozatok:  
-> labiális: B, BH, V, P, PH, F, M, U;  
-> dentális: D, DH, T, TH, Z, S, N;  
-> veláris: G, GH, K, KH, CH/Ḫ, H, N, J (Ng).  
-- G-D átmenetről lentebb még lesz szó.
-
-A 154-155. oldalon hozott szópárok kapcsán írja:  
-> Nem igazi metatézisek azonban a következő szópárok:  
->
-> | görög     | latin       | orosz   | német         | héber      |
-> | --------- | ----------- | ------- | ------------- | ---------- |
-> | SKIRT-ao  | GRAD-us     | GRJAD-u | SCHREIT-en    | J-R-D      |
-> | *(ugrik)* | *(lépés)*   | *(lép)* | *(lép)*       | *(lemegy)* |
-> | TRECH-o   | TRAC-tus    | DOROG-a | STRECK-e      | DEREG      |
-> | *(megy)*  | *(vonulás)* | *(út)*  | *(útszakasz)* | *(út)*     |
->
-> E látszólagos metatézisek- amelyek ez esetben a szavak teljes tükörfordításait jelentenék – azzal az előbb már említett jelenséggel függenek össze, hogy a nyelvekben sokszor a három fő artikulációs körnek (B, D, G) megfelelő szinonimákat találunk.
-{ #j28dg}
-
-- A táblázatban szereplő szavakat már korábban is több helyen taglaltuk, és azon helyeken ([[G/Grade\|grade]] és [[T/Tract\|tract]] címnél) Götz László ezen szópárjait is menet közben felhoztuk/utaltunk rájuk.
-
-G>B változás értelmezhető úgy, mint G>(V)>B változás. Az egyik ilyen ismert eset az [[U/Ugorka\|ugorka]] [[U/Uborka\|uborka]] változata, melyet ma is használunk, a másik az [[A/Avar\|avar]] és [[U/Ugor\|ugor]] címnél is említett eset lehet, amennyiben ugor > avar változat/azonosság elképzelhető. Nos, valójában lehet, az eredeti Úr névből kiindulva.  
-Az ugor – uar – avar nevek voltaképpen egy és ugyanazok. [[A/Avar#Avar (Obor) – Ugor (Uhor) – Várhun\|Avar (Obor) – Ugor (Uhor) – Várhun]] cím/alcímnél volt erről szó legutóbb (és arról, hogy a közös kiinduló voltaképpen az alant kopt szó eredete kapcsán is előjövő Úr szavunk).  
-A kelta-ír `barantas` = garancia. A G>B változás hasonló az ugorka – uborka esethez, de egy másik pl. az alkudozik jelentésű tájszólásos árguvál, árgovál, árbuvál szóalakokban látott változás.  
-
-[[A/Ashmog\|Ashmog]] címnél is előjött d hang g helyett.  
-D>G változásra példa: Víg szavunk régiesen víd volt, CzF szótár szerint. (A közös a két hangban, hogy gy-re lágyul mindkettő.)
+[[K/KUS\|Kus]] szóról is elmondtuk, hogy egészen hasonló hozzá T>K váltással [[T/Tűz\|tűz]].
 
 ## M-N és kéthangos változások
 
@@ -186,6 +144,70 @@ V>L. Az l és v hangok a szók elején, közepén, és végén tájdivat szerén
 L-V mássalhangzó-változás előjött vibrate szónál, és előfordult például CzF által is említett vép-lép szavakban. Lék helyen írja még: székelyesen vék, mint lép vép, láz váz, lápa vápa stb. Lásd még [[L/L#Lengyel ł\|lengyel ł]] témát.  
 
 NY>J változás teljesen elképzelhető. A török `yilan` = kígyó könnyen nyíl szavunkból eredhet, de volt szó [[J/Jón\|jón]] címnél proto-mongol adatról, ahol könnyen NY>J változás jöhetett létre.  
+
+### Akusztikai-percepciós (észlelési) változások
+
+#### B-D-G mássalhangzók változásai  
+
+A g egészen más helyen képzett hang, mint a másik kettő, mégis, mintha a magyarban találnánk meg a legszemléletesebb példát, a [[G/Gömb\|gömb]] és [[D/Domb\|domb]] szavaink hangalaki és fogalmi párhuzama révén.  
+
+> [!info] &nbsp;
+> Mivel a magyar nyelvben van [[G/GY\|gy]] hang, mi legalább mondhatjuk, hogy a 'g' és a 'd' közti átjárást ezen 'gy' adhatja meg; igaz, \*gyomb nincs meg a magyarban ezen példák átkötésére.
+
+
+
+Egyébként ezek voltak azok a hangok, melyeket [[O/Orrhang\|orrhang]]os [[H/Hungár\|hungár]] és más neveink ([[E/Ember\|ember]], [[A/Andor\|Andor]], stb.) kapcsán úgy említettem, hogy nehéz eldönteni, hogy az n/m hangok a betoldások, vagy ezek.  
+
+#### Götz László Keleten kél a Nap...
+
+...című könyvének 147. oldalán ind grammatikusok hangbeosztása alapján menve közöl két hangsort: az övékét (ahol minden csoportba bekerült egy nazális is) és egy kiegészítettet:  
+> labiálisok: B, BH, P, PH, M;  
+> dentálisok: D, DH, T, TH, N;  
+> velárisok: G, GH, K, KH, N (Ng).  
+> Az átmenetekkel kiegészített sorozatok:  
+> labiális: B, BH, V, P, PH, F, M, U;  
+> dentális: D, DH, T, TH, Z, S, N;  
+> veláris: G, GH, K, KH, CH/Ḫ, H, N, J (Ng).  
+- G-D átmenetről lentebb még lesz szó.
+
+A 154-155. oldalon hozott szópárok kapcsán írja:  
+> Nem igazi metatézisek azonban a következő szópárok:  
+>
+> | görög     | latin       | orosz   | német         | héber      |
+> | --------- | ----------- | ------- | ------------- | ---------- |
+> | SKIRT-ao  | GRAD-us     | GRJAD-u | SCHREIT-en    | J-R-D      |
+> | *(ugrik)* | *(lépés)*   | *(lép)* | *(lép)*       | *(lemegy)* |
+> | TRECH-o   | TRAC-tus    | DOROG-a | STRECK-e      | DEREG      |
+> | *(megy)*  | *(vonulás)* | *(út)*  | *(útszakasz)* | *(út)*     |
+>
+> E látszólagos metatézisek- amelyek ez esetben a szavak teljes tükörfordításait jelentenék – azzal az előbb már említett jelenséggel függenek össze, hogy a nyelvekben sokszor a három fő artikulációs körnek (B, D, G) megfelelő szinonimákat találunk.
+{ #j28dg}
+
+- A táblázatban szereplő szavakat már korábban is több helyen taglaltuk, és azon helyeken ([[G/Grade\|grade]] és [[T/Tract\|tract]] címnél) Götz László ezen szópárjait is menet közben felhoztuk/utaltunk rájuk.
+
+G>B változás értelmezhető úgy, mint G>(V)>B változás. Az egyik ilyen ismert eset az [[U/Ugorka\|ugorka]] [[U/Uborka\|uborka]] változata, melyet ma is használunk, a másik az [[A/Avar\|avar]] és [[U/Ugor\|ugor]] címnél is említett eset lehet, amennyiben ugor > avar változat/azonosság elképzelhető. Nos, valójában lehet, az eredeti Úr névből kiindulva.  
+Az ugor – uar – avar nevek voltaképpen egy és ugyanazok. [[A/Avar#Avar (Obor) – Ugor (Uhor) – Várhun\|Avar (Obor) – Ugor (Uhor) – Várhun]] cím/alcímnél volt erről szó legutóbb (és arról, hogy a közös kiinduló voltaképpen az alant kopt szó eredete kapcsán is előjövő Úr szavunk).  
+A kelta-ír `barantas` = garancia. A G>B változás hasonló az ugorka – uborka esethez, de egy másik pl. az alkudozik jelentésű tájszólásos árguvál, árgovál, árbuvál szóalakokban látott változás.  
+
+[[A/Ashmog\|Ashmog]] címnél is előjött d hang g helyett.  
+D>G változásra példa: Víg szavunk régiesen víd volt, CzF szótár szerint. (A közös a két hangban, hogy gy-re lágyul mindkettő.)  
+
+#### G>V, V>G, G>W/Y és rokon átmenetek
+
+Érdekes a v>o magánhangzóra váltás, lásd a germán `new` és `löw` szavakat összevetve a görög `neo` és latin `leo` szavakkal. Erről másutt is volt szó, [[O/Ozirisz\|Ozirisz]] [[V/Vezér\|vezér]]ből és `oasis` bázis szóból (annak eredete nyomán) való eredeztetése kapcsán. [[O/O#O mint U és V\|O mint U és V]] cím/alcímnél erről volt már szó.  
+A g>w (u) váltás olyan szavakban, mint bow is ismert ([[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél hasonló témát tárgyaltunk).  
+G>V váltásra lehet példa a több helyen említett [[C/Csillag\|csillag]] > szláv `cselovek` = ember; emberiség szó, bár lehetséges, hogy a v hiátuspótló és a szóvégen g = k azonosság van.  
+G>W/Y változásra angol példák: Ami a modern angolban w-re, vagy y-ra végződik (lásd hay, way, play ill. maw és dew), az az óangolban/ógermánban és a magyarban leggyakrabban g (vagy gy) hang.  
+A legszemléletesebb példa `hogy` > `how`.
+
+
+[[E/Ekva\|Ekva]] címnél is volt szó ilyen változásról, de ott G>V változásról. A svéd `Akka` = (isten)asszony rámutathat-e arra, tettük fel a kérdést, hogy eredetileg két k szerepelt a névben? Mert mindenütt másutt (aqua, equus, JHVH) megvan a v hang is a szavakban/nevekben. Itt talán az okozza a zavart, hogy [[E/Ég\|ég]] szavunk [[E/Év\|év]] és [[E/Éva\|Éva]] formában is előjön.
+
+V>G szabálytalan változásra példa még `szivar` > `cigar`. A dán főváros Kobenhavn neve a magyarban Koppenhága, g-vel ismét.  
+
+Götz László Keleten kél a Nap című könyvének 154. oldalán ír a [[H/Hangátvetés\|metatézis]] (hangok, szótagok megfordulása) jelenségéről. Oda került ami ide tehető lett volna.  
+
+### Szabálytalan/vitatott/nem besorolható és egyéb esetek
 
 T>P mássalhangzó-változás ugyan szokatlan, de volt rá példa. Ezen az alapon `tészta` szavunk a `pasta` elődje. Továbbá szóba jöhet: ata →apa, tör →pör (mint pöröly szóban). Persze ezek inkább alaki változatok, mintsem konkrét változások.  
 Lehetséges az is, hogy [[P/Prove\|prove]]/próba eredetileg t-előhangos volt, mint a [[T/Travel\|travel]], mely kapcsán ismét a forgás került elő és gyökében ott a világfa [[T/Tree\|tree]]. Nem mellékesen a [[T/Try\|try]] is t-előhangos...  
@@ -294,13 +316,6 @@ R>K/KH/G változás vajon működhet-e? Péterfai János írja, hogy Tuareg roko
 
 Ezzel kapcsolatban annyi megjegyzésem hadd legyen, hogy a tuareg és török \[milyen hasonló nevek\] nyelvekben az [ezen](https://qr.ae/pN2kOQ) több helyen idézett Quora válaszban leírottak (a g és ğ hangok közötti különbséget írja le a válaszadó) alapján az R>G (KH, K) átmenet elképezhető. Lehet egy avar-arabos vonás is.  
 
-Érdekes a v>o magánhangzóra váltás, lásd a germán `new` és `löw` szavakat összevetve a görög `neo` és latin `leo` szavakkal. Erről másutt is volt szó, [[O/Ozirisz\|Ozirisz]] [[V/Vezér\|vezér]]ből és `oasis` bázis szóból (annak eredete nyomán) való eredeztetése kapcsán. [[O/O#O mint U és V\|O mint U és V]] cím/alcímnél erről volt már szó.  
-A g>w (u) váltás olyan szavakban, mint bow is ismert ([[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél hasonló témát tárgyaltunk).  
-G>V váltásra lehet példa a több helyen említett [[C/Csillag\|csillag]] > szláv `cselovek` = ember; emberiség szó, bár lehetséges, hogy a v hiátuspótló és a szóvégen g = k azonosság van.  
-G>W/Y változásra angol példák: Ami a modern angolban w-re, vagy y-ra végződik (lásd hay, way, play ill. maw és dew), az az óangolban/ógermánban és a magyarban leggyakrabban g (vagy gy) hang.  
-A legszemléletesebb példa `hogy` > `how`.  
-
-
 Götz László Keleten kél a Nap című könyvének 152. oldalán polarizáció témában említi a G, TH és W váltakozását. A felhozott példa: az óind `gharma` = meleg, görög `thermos` = meleg és germán `warm` = meleg szavak közt szabályos hangátmeneteket jelöl meg a nyelvészet.  
 
 #### Oláh Imre A Nimrud hagyomány...
@@ -311,12 +326,6 @@ Götz László Keleten kél a Nap című könyvének 152. oldalán polarizáció
 
 > Feltehetően ebből a formából képződött idővel aztán ki a Var-hun vagyis a hajdankori [[A/Avar\|avar]] név is, amit ne felejtsük, hogy krónikásaink sohasem neveztek avarnak, csak hunnak! Sőt a V = G, mássalhangzó hasonulás folytán – lásd, várad = gorod, Visegrád... – a továbbiakban már a `Hun`(a)-gar vagy az "előmagyar" [[O/Onogur\|onogur]] vagy Ungar név is levezethető.  
 > Ám ha ezek után, a Humavar névformát továbbra is alapul véve, ezt a kifejezést történelmileg ellenkező irányban visszafelé gördítjük és az idők folyamán, a v=g betű igazodást ismét szem előtt tartjuk, a sumir név eredeti formájához jutunk vissza. Ami pedig Prof. Badiny igazolja, mert az ő érdeme volt először, hogy J. Oppert francia nyelvész nyomán, a sumir névszót elsőnek Hun-mag-ar-nak olvasta.  
-
-[[E/Ekva\|Ekva]] címnél is volt szó ilyen változásról, de ott G>V változásról. A svéd `Akka` = (isten)asszony rámutathat-e arra, tettük fel a kérdést, hogy eredetileg két k szerepelt a névben? Mert mindenütt másutt (aqua, equus, JHVH) megvan a v hang is a szavakban/nevekben. Itt talán az okozza a zavart, hogy [[E/Ég\|ég]] szavunk [[E/Év\|év]] és [[E/Éva\|Éva]] formában is előjön.  
-
-V>G szabálytalan változásra példa még `szivar` > `cigar`. A dán főváros Kobenhavn neve a magyarban Koppenhága, g-vel ismét.  
-
-Götz László Keleten kél a Nap című könyvének 154. oldalán ír a [[H/Hangátvetés\|metatézis]] (hangok, szótagok megfordulása) jelenségéről. Oda került ami ide tehető lett volna.  
 
 Az Ausonok neve An-Fiai jelentést is tartalmazhat magyarul. Az U és V az N betűvel gyakran keveredhetett. [[P/Práczki István\|Práczki István]] is gyakran tesz hasonló megjegyzéseket és magam is találkoztam gyanús esetekkel: például [[A/AN, ÁN\|AN, ÁN]] címnél írtam, hogy a latin `anas` = kacsa és `anser` = lúd szavak alapján eredetileg An-alakú kellett legyen a latin `avis` = madár szó is.  
 - Itt jegyezzük meg, hogy az 'au' diftongus könnyen alakul an-ra, azaz a kiinduló lehet egy hosszú magánhangzó, pl. ó is.

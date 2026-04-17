@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flink Attila/","title":"Flink Attila","tags":["Englishtexttranslated"],"created":"2025-01-17T01:25","updated":"2026-03-05T01:43"}
+{"dg-publish":true,"permalink":"/F/Flink Attila/","title":"Flink Attila","tags":["Englishtexttranslated"],"created":"2025-01-17T01:25","updated":"2026-04-17T00:30"}
 ---
 
 
 # Flink Attila
 
-Ausztráliában élt (2016-ban elhunyt[^2]) magyar amatőr nyelvész-kutató, akinek elméletét több aboriginal ausztrál szimpatizáns elfogadta és [ezen](https://www.facebook.com/groups/380062128751110/permalink/3993965444027409/?comment_id=3998122520278368) posztban is már mint "az emberiség ausztrál gyökerei" címen továbbította, az [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél szereplő videókban szereplő információk alapján.  
+Ausztráliában élt (2016-ban elhunyt[^1]) magyar amatőr nyelvész-kutató, akinek elméletét több aboriginal ausztrál szimpatizáns elfogadta és [ezen](https://www.facebook.com/groups/380062128751110/permalink/3993965444027409/?comment_id=3998122520278368) posztban is már mint "az emberiség ausztrál gyökerei" címen továbbította, az [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél szereplő videókban szereplő információk alapján.  
 Flink Attila nevét [ezen](https://www.bibliotecapleyades.net/esp_australia04.htm) és [ez alábbi](http://soundofheart.org/galacticfreepress/content/reading-between-walls-and-lines-ancient-australian-egyptian-connection-%E2%80%93-part-ii) oldalon is említik.  
 
 [Ezen](https://linguistlist.org/issues/10.1836/) oldalon tasmán nyelvvel foglalkozik az angolul beszélésnél írásban erősebbnek mutatkozó Flink.  
 Másutt Flinck-nek is láttam írva nevét, szóval így is érdemes rá keresni, alkalomadtán.  
 
-[Ezen](https://www.youtube.com/watch?v=RLtMujQ6AQs&t=119s) Kiss Balázs féle videóban ausztrál törzsneveket és Flink Atilla fényképét[^1] is bemutatja.  
+[Ezen](https://www.youtube.com/watch?v=RLtMujQ6AQs&t=119s) Kiss Balázs féle videóban ausztrál törzsneveket és Flink Atilla fényképét[^2] is bemutatja.  
 ![assets/FlinkAttila_image1.jpg|840](/img/user/F/assets/FlinkAttila_image1.jpg)  
 Menet közben vélhetően Flink tasmán-magyar szószedetéből ad be szópárokat, melyeket egy Varga Géza féle blogoldalról vehetett, mely adatok a Flinket személyesen ismerő [[S/Szabó Ágnes\|Szabó Ágnes]] nevű ausztráliai magyar cikkeiből valók; lásd letöltőlinket ott.  
 
@@ -41,7 +41,7 @@ Lásd még erről [[D/Daru#Ausztráliai daruk törzs\|ausztráliai daruk törzs]
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Forrás: [GettyImages](https://www.gettyimages.ch/detail/nachrichtenfoto/attila-flink-the-man-who-translated-the-tasmanian-nachrichtenfoto/1079296550)
+[Ezen](https://www.couriermail.com.au/tributes/notice/death-notices/flink-attila-joseph/4504694/) oldalon a sydney-i gyászjelentése is megtalálható.  
 
 [^2]: Lábjegyzet:  
-[Ezen](https://www.couriermail.com.au/tributes/notice/death-notices/flink-attila-joseph/4504694/) oldalon a sydney-i gyászjelentése is megtalálható.  
+Forrás: [GettyImages](https://www.gettyimages.ch/detail/nachrichtenfoto/attila-flink-the-man-who-translated-the-tasmanian-nachrichtenfoto/1079296550).
