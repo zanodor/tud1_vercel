@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jezsuita/","title":"Jezsuita","tags":["Englishtexttranslated"],"created":"2023-10-09T06:12","updated":"2026-03-05T01:39"}
+{"dg-publish":true,"permalink":"/J/Jezsuita/","title":"Jezsuita","tags":["Englishtexttranslated"],"created":"2023-10-09T06:12","updated":"2026-04-17T22:43"}
 ---
 
 
@@ -31,12 +31,18 @@ Az [alábbi](https://hu.wikipedia.org/wiki/Jezsuita_összeesküvés-elméletek) 
 > Én, püspök urak, az Önöké vagyok, stb. W. C. B.  
 
 
-Egy másik [előadásban](https://youtu.be/ff7V_iqpucE) Kubínyi Tamás Robert Ware fenti 1689-es esküjét nevezi meg és 1:09:00-től el is mondja (a fenti szöveget). Az alábbi szöveget is felolvassa II. Rákóczi Ferenctől (maradjon így képileg):  
-![assets/Jezsuita_image1.png|840](/img/user/J/assets/Jezsuita_image1.png)  
+Egy másik [előadásban](https://youtu.be/ff7V_iqpucE) Kubínyi Tamás Robert Ware fenti 1689-es esküjét nevezi meg és 1:09:00-től el is mondja (a fenti szöveget). Az alábbi szöveget is felolvassa II. Rákóczi Ferenctől:  
+> A jezsuiták szofizmákkal, áltanokkal és ferde elvekkel megzavarják az ifjúság fejét, szorgalmasan oktatnak arra, hogy miként lehessen az igazságot csűrni-csavarni... arra oktatnak, hogy hamisan esküdni nem bűn, csak bensőleg kell mást gondolni... A kormány gyeplőit mindenütt ők akarják magukhoz ragadni, az általuk nevelt ifjúságot elkötelezik maguknak, a legmagasabb állásokra segítik őket, hogy érdekeiket védeni tartozzanak... A jezsuiták egy államnak sem hívei, az Ad maiorem Dei gloriam (Isten nagyobb dicsőségére) terjesztésének színe alatt saját javukat és előnyüket hajhásszák, miként ez saját sorsomban is bebizonyosodott.  
+
+
+> [!fail] &nbsp;
+> Ezt egy szájhagyomány útján terjedő, interneten keringő apokrifnek (fabrikációnak) tekintik, mondván, nyelvi és stilisztikai anakronizmusok vannak benne: A szöveg modern megfogalmazású, mentes a 18. századi magyar vagy latin nyelvhasználat sajátosságaitól. Rákóczi a politikai és személyes műveit (mint a [Vallomások](https://www.arcanum.com/hu/online-kiadvanyok/Spenot-a-magyar-irodalom-tortenete-1/ii-kotet-a-magyar-irodalom-tortenete-1600-tol-1772-ig-EF9/barokk-kb-1600kb-1772-10EC/a-barokk-rendiseg-valsaganak-es-ujraerosodesenek-irodalma-kb-1690kb-1740-1456/a-korszeru-fouri-es-nemesi-irodalmi-torekvesek-146D/48-ii-rakoczi-ferenc-hopp-lajos-150E/emlekiratai-es-vallomasai-152E/) és az [Emlékiratok](https://www.arcanum.com/hu/online-kiadvanyok/IrodalmiArckapcsarnok-hegedus-geza-irodalmi-arckepcsarnok-1/a-magyar-irodalom-arckepcsarnoka-1239/rakoczi-ferenc-16761735-91/)) latinul és franciául írta. 
+> Az igaz, hogy Rákóczi az _Emlékirataiban_ maga is leírta, hogy a magyarországi jezsuiták mindig az osztrák elöljáróiknak engedelmeskedtek, és politikai értelemben a szabadságharc ellenségei voltak. 1705-ben a szécsényi országgyűlésen ki is tiltotta a rendet azokról a területekről, ahol nem volt saját rendházuk, és vagyonukat lefoglalta.{ #260304}
+
 
  
 
-Az [alábbi](http://valamiamano.blogspot.com/2014/03/a-jezsuitakrol-mondtak.html) oldalon Rákóczi mellett sokan véleményt mondanak a jezsuitákról. Például Napóleon:  
+Az [alábbi](http://valamiamano.blogspot.com/2014/03/a-jezsuitakrol-mondtak.html) oldalon sokan véleményt mondanak a jezsuitákról. Például Napóleon:  
 > "A jezsuiták egy hadtestületet alkotnak, és nem egy vallási rendet. A főnökük egy hadseregnek parancsol, és nem csak egy sima rendház főnök. Ennek a szervezetnek a célja a hatalom – amit a legdespotikusabban akarnak gyakorolni – abszolút hatalom, egyetemes hatalom, egy olyan hatalom, hogy az egész világot lehessen vezetni egyetlen ember által. A jezsuitizmus az abszolút despotizmus, és ugyanakkor a legnagyobb hatalmi visszaélés..."  
 
 Facsar Imre az [alábbi](https://youtu.be/YIioc05yNEY) műsorban 39:00-nél (miután kimondja, hogy a [[R/Reformáció\|Reformáció]] feladata az ő olvasata szerint az volt, hogy felszámolják a kereszténységet és visszaállítsák a Mózes törvényeit és a globális kapitalizmust képviselő római birodalmat, ahol a Vatikán a szuperhatalom központja) mondja, hogy a jezsuita rendet is ezen időszakban, 1540-ben hozták létre (micsoda névválasztás: már megint a [[C/Címke\|címké]]k[^1] mögé bújás tipikus esete). Jézus neve mögé bebújnak, kamatot szednek, gyarmatosítanak, terrorizálnak.  
