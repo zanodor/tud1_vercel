@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-04-13T23:20"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-04-17T22:42"}
 ---
 
 
@@ -21,6 +21,10 @@
 
 **2026:**
 
+[260417CN! ZSOLT BÁ](https://rumble.com/v78n5lg-260417cn-zsolt-b-kubnyi-tams-ktv.html)  [https://archive.ph/Ox941](https://archive.ph/Ox941)
+[260416CN! A TITOK](https://rumble.com/v78lgzg-260416cn-a-titok-kubnyi-tams-ktv.html)  [https://archive.ph/021PX](https://archive.ph/021PX)
+[260415CN! POÉTA](https://rumble.com/v78jqes-260415cn-pota-kubnyi-tams-ktv.html)  [https://archive.ph/O1NLZ](https://archive.ph/O1NLZ)
+[260414CN! PRÓBATÉTEL](https://rumble.com/v78i0k4-260414cn-prbattel-kubnyi-tams-ktv.html)  [https://archive.ph/IKpMA](https://archive.ph/IKpMA)
 [260413CN! LÉLEKBÁTORSÁG](https://rumble.com/v78gdba-260413cn-llekbtorsg-kubnyi-tams-ktv.html)  [https://archive.ph/WwIdb](https://archive.ph/WwIdb)
 [260410CN! UTOLSÓ ADÁS？](https://rumble.com/v78btyq-260410cn-utols-ads-kubnyi-tams-ktv.html)  [https://archive.ph/BCT5m](https://archive.ph/BCT5m)
 [260409CN! MP + MHM = SÁTÁNI SZEKTA!](https://rumble.com/v78a94e-260409cn-mp-mhm-stni-szekta-kubnyi-tams-ktv.html)  [https://archive.ph/Ocm9S](https://archive.ph/Ocm9S)
@@ -133,7 +137,7 @@
 [251029CN! KULCSMONDAT](https://videa.hu/videok/nagyvilag/251029cn-kulcsmondat-kubinyi-tamas-aktv-magyar-vlWcTB3tyDAF2Rqx)  [https://archive.ph/1oGBm](https://archive.ph/1oGBm)
 [251028CN! TISZAKÉCSKE](https://videa.hu/videok/nagyvilag/251028cn-tiszakecske-kubinyi-tamas-aktv-magyar-FlVRRTNqXXD3GpX1)  [https://archive.ph/wvdh3](https://archive.ph/wvdh3)
 [251027CN! BENYOVSZKY](https://videa.hu/videok/nagyvilag/251027cn-benyovszky-kubinyi-tamas-aktv-magyar-mzvYrLYwfM3WW8jV)  [https://archive.ph/oDWa9](https://archive.ph/oDWa9)
-**[251022CN! UTOLSÓ FIGYELMEZTETÉS](https://videa.hu/videok/nagyvilag/251022cn-utolso-figyelmeztetes-kubinyi-tamas-magyar-DpcsrSrALqKXbVFl)**  **[https://archive.ph/bXulZ](https://archive.ph/bXulZ)**
+**[251022CN! UTOLSÓ FIGYELMEZTETÉS](https://rumble.com/v70n9ya-251022cn-utols-figyelmeztets-kubnyi-tams-ktv.html)**  **[https://archive.ph/mzn7Y](https://archive.ph/mzn7Y)**
 [251021CN! ROBBANÁS](https://videa.hu/videok/nagyvilag/2501021cn-robbanas-kubinyi-tamas-aktv-magyar-zjiJGR2XgFXj4zOY)  [https://archive.ph/mjtpw](https://archive.ph/mjtpw)
 [251020CN! ÉLET-HALÁL KÉRDÉS](https://videa.hu/videok/nagyvilag/251020cn-elet-halal-kerdes-kubinyi-magyar-3Q6vendbFkA0ZEvt)  [https://archive.ph/zo4tD](https://archive.ph/zo4tD)
 [251017CN! CSÚCS ELŐTT](https://videa.hu/videok/nagyvilag/251017cn-csucs-elott-kubinyi-tamas-magyar-lp6VGL7qmySI2tTW)  [https://archive.ph/h9qLp](https://archive.ph/h9qLp)
