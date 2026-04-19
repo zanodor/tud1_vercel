@@ -7,3 +7,36 @@
 *.json text eol=lf
 *.jsx text eol=lf
 *.py text eol=lf
+
+# Binary files - never apply line ending conversion
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.webp binary
+*.bmp binary
+*.ico binary
+*.tiff binary
+*.tif binary
+
+# Video/audio
+*.mp4 binary
+*.mkv binary
+*.mov binary
+*.avi binary
+*.wmv binary
+*.mpg binary
+*.mpeg binary
+*.m4v binary
+*.mp3 binary
+*.m4a binary
+*.wav binary
+*.flac binary
+
+# Other binary formats
+*.pdf binary
+*.zip binary
+*.7z binary
+*.rar binary
+*.db binary
+*.sqlite binary
