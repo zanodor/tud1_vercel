@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2026-04-03T04:51"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2026-04-24T09:38"}
 ---
 
 
@@ -9,7 +9,7 @@ Immáron két sumér szót találtam, melyek elején szerepel egy feleslegesnek 
 
 Ismert még a szumer `sal` = asszony, nő (vö. a főképpen René Labat adataira támaszkodó [[D/Dudás Rudolf\|Dudás Rudolf]] közlése alapján ismert szinte azonos alakú sumér `ŠUL` = férfi, hős szóval).  
 
-Gyárfás Ágnesnek ![assets/G_image1.png\|fix_dark fix_light right\|111](/img/user/G/assets/G_image1.png)  van egy több helyen említett Lugal Geme című tanulmánya, melyben szintén előjön Geme.  
+Gyárfás Ágnesnek ![assets/G_image1.png|fix_dark fix_light right|111](/img/user/G/assets/G_image1.png)  van egy több helyen említett Lugal Geme című tanulmánya, melyben szintén előjön Geme.  
 A csatolt L554 jelet – nyilvánvaló okokból – [[P/Pina\|pina]] címnél is szerepeltettük.  
 Záhonyi András A káld-szabír (sumer) képjelek, hangértékek rejtett üzenetei című az Ősi Gyökér 2021/1. sz. megjelent cikke alján is említi futólag.  
 
@@ -78,5 +78,5 @@ Honnan tudhatjuk ezt? Onnan, hogy `sail` esetében teljesen logikus a `szél` sz
 
 Hasonló esetet találunk a dán nyelvben k, sőt, akár két k ki nem ejtésére.  
 A dán nyelvben gyakori, hogy a k hang elhalkul vagy teljesen elmarad, különösen mássalhangzók között vagy szóvégen, ha nem hangsúlyos. A **Mikkel** név példája nagyon jó illusztráció erre, ahol a kk betűkapcsolatban a k hang gyakorlatilag eltűnik, és Miel-nek hallatszik.  
-Ugyanígy, a dán `stærkere` = erősebb szinte ugyanúgy hallatszik, mint a `større` = nagyobb szó.  
+Ugyanígy, a dán `stærkere` = erősebb szinte ugyanúgy hallatszik, mint a `større` = nagyobb szó.  
 
