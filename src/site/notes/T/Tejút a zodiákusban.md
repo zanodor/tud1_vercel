@@ -1,13 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejút a zodiákusban/","title":"Tejút a zodiákusban","tags":["Englishtexttranslated"],"created":"2023-10-30T04:26","updated":"2026-03-05T01:34"}
+{"dg-publish":true,"permalink":"/T/Tejút a zodiákusban/","title":"Tejút a zodiákusban","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T04:26","updated":"2026-04-24T09:36"}
 ---
 
 
 # Tejút a zodiákusban: kilépés a Tejútba
 
-Lásd bevezetésül [[T/Tejút\|Tejút]]. Bíró Lajos Táltosok könyvében írja:  
+Lásd bevezetésül [[T/Tejút\|Tejút]]. 
 ![assets/Tejutazodiakusban_image1.jpeg|840|840](/img/user/T/assets/Tejutazodiakusban_image1.jpeg)  
-A zodiákus zárt köréből a Tejútra két helyen nyílik [[K/Kapu\|kapu]]: ahol a Tejút a Nappályát metszi: a Bika-Ikrek és a Skorpió-Nyilas határvidékén. Az óhajtott együttállás, amikor az égi Út megnyílik a Föld lakója számára, a Nap, a Hold, a Vénusz és a Tejút találkozását jelenti, az Ikrek és Nyilas havabeli [[U/Újhold\|újhold]] idejét, amikor még a Vénusz is e jegyekben tartózkodik, ott, ahol a Nap és Hold. (Ilyenkor a Tejút Napos-Holdas égigérő fává lesz).  
+
+#### Bíró Lajos Táltosok könyve...  
+
+...című könyvében írja:  
+> A zodiákus zárt köréből a Tejútra két helyen nyílik [[K/Kapu\|kapu]]: ahol a Tejút a Nappályát metszi: a Bika-Ikrek és a Skorpió-Nyilas határvidékén. Az óhajtott együttállás, amikor az égi Út megnyílik a Föld lakója számára, a Nap, a Hold, a Vénusz és a Tejút találkozását jelenti, az Ikrek és Nyilas havabeli [[U/Újhold\|újhold]] idejét, amikor még a Vénusz is e jegyekben tartózkodik, ott, ahol a Nap és Hold. (Ilyenkor a Tejút Napos-Holdas égigérő fává lesz).  
 
 ![assets/Tejutazodiakusban_image2.png|840](/img/user/T/assets/Tejutazodiakusban_image2.png)  
 John M. Jenkins könyvének magyar fordítása:  
@@ -30,7 +34,7 @@ John M. Jenkins könyvének magyar fordítása:
 ...című könyvének Héraklész 10. munkájáról, Gérüón gulyájának elrablásának kapcsán írja ([[J/Janus\|Janus]] és [[C/Cerberus\|Cerberus]] címnél is szerepelt):  
 > Ami a "[[K/Kapu\|kapu]]kat" illeti, két helyen is találhatók. Egyrészt kapunak hívták az Ikrek és a Bika cikkelyén átfolyó Tejút kereszteződését az Állatövvel, másrészt – láttuk – annak nevezték azt a másikat, mely a Bikával és az Ikrekkel szemben található. Az Ikrek jele egy alul és felül összekötött, kapunyílásra emlékeztető oszloppár. Az ókori Spártában így ábrázolták az Ikreknek nevet adó Dioszkurokat. Ezt a jelet értelmezhetjük Hercules oszlopai szimbólumának.  
 > Orth(r)osz kutya – a [[N/Nagy Kutya\|Nagy Kutya]] csillagzat – az Ikrek kapuját őrzi; két feje, mint a római lanusé, a kapuból az ég két térfelét vigyázza.  
-> Időszámításunk kezdetétől a [[N/Nyári napforduló\|nyári napforduló]] az [[I/Ikrek csillagkép\|Ikrek csillagkép]]be esett, ettől kezdve ez a kapu rnár nemcsak térelválasztó, hanem az esztendőt is felezi.  
+> Időszámításunk kezdetétől a [[N/Nyári napforduló\|nyári napforduló]] az [[I/Ikrek csillagkép\|Ikrek csillagkép]]be esett, ettől kezdve ez a kapu már nemcsak térelválasztó, hanem az esztendőt is felezi.  
 
 #### Jankovics Marcell Ahol a madár se jár...
 
@@ -56,17 +60,27 @@ Legutóbb [[S/Szent Kristóf\|Szent Kristóf]] címnél is szerepelt:
 
 #### David Gordon White írja:
 
-> The death day of two of the other three saints mentioned above falls on July 25, the day of St. Christopher as well as the day of the [[S/Szíriusz heliakus kelése\|heliacal rising of Sirius]]. The first of these is James, the James whose pilgrimage route, to Compostello (Latin campus-stellae, "the field of stars"), was the most popular of the Middle Ages. Again according to Gaignebet, the church of St. James at Compostello, which is on the western shore of Galicia at a western extremity of the ancient world, is a Christianization of a pagan site. The "starry path" to Compostello was a trail toward the sunset, and thus toward the land of the dead. As such, it stood as the earthly homologue of **the celestial Milky Way, whose gate – through which the westering sun passed – was guarded by the starry dogs, Canis major and Canis minor, and the dog stars Sirius and Procyon**.  
-> —  
-> A fent említett másik három szent közül kettőnek a halála július 25-re esik, Szent Kristóf napjára, valamint a [[S/Szíriusz heliakus kelése\|Szíriusz heliákus kelésé]]nek napjára. Az első közülük Jakab, az a Jakab, akinek zarándokútja Compostellóba (latinul campus-stellae, "a csillagok mezeje"), a középkorban a legnépszerűbb volt. Gaignebet szerint megint csak egy pogány helyszín keresztényesítését jelenti a Compostellóban lévő Szent Jakab-templom, amely Galícia nyugati partján, az ókori világ egyik nyugati végpontján áll. A Compostellóba vezető "csillagösvény" a naplemente, és így a holtak földje felé vezető ösvény volt. Mint ilyen, az út **a mennyei Tejút földi homológja volt, amelynek kapuját – amelyen keresztül a nyugat felé haladó nap áthaladt – a csillagkutyák, a Canis major és a Canis minor, valamint a Szíriusz és a Procyon** kutyacsillagok őrizték.  
 
-Ezen [[J/Július 25\|július 25]]. dátum előjött [[F/Furinalia\|Furinalia]] és [[K/Kutyaáldozás\|kutyaáldozás]] címnél is, de [[S/Szent Jakab\|Szent Jakab]] (az apostol) ünnepe is erre a napra esik. Jankovics Marcell ott szereplő adata szerint **a nyári Nap Jakab napja \[július 25.\] körül hagyta el a Tejutat**.  
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/S/Szent Kristóf/#99vq8e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> [!_for_blockid] &nbsp;
+> > The death day of two of the other three saints mentioned above falls on July 25, the day of St. Christopher as well as the day of the heliacal rising of Sirius. The first of these is James, the James whose pilgrimage route, to Compostello (Latin `campus-stellae`, "the field of stars"), was the most popular of the Middle Ages. Again according to Gaignebet, the church of St. James at Compostello, which is on the western shore of Galicia at a western extremity of the ancient world, is a Christianization of a pagan site. The "starry path" to Compostello was a trail toward the sunset, and thus toward the land of the dead. As such, it stood as the earthly homologue of **the celestial Milky Way, whose gate – through which the westering sun passed – was guarded by the starry dogs, Canis major and Canis minor, and the dog stars Sirius and Procyon**.  
+> > —  
+> > A fent említett másik három szent közül kettőnek a halála július 25-re esik, Szent Kristóf napjára, valamint a [[S/Szíriusz heliakus kelése\|Szíriusz heliákus kelésé]]nek napjára. Az első közülük Jakab, az a Jakab, akinek zarándokútja Compostellóba (latinul `campus-stellae`, "a csillagok mezeje"), a középkorban a legnépszerűbb volt. Gaignebet szerint megint csak egy pogány helyszín keresztényesítését jelenti a Compostellóban lévő Szent Jakab-templom, amely Galícia nyugati partján, az ókori világ egyik nyugati végpontján áll. A Compostellóba vezető "csillagösvény" a naplemente, és így a holtak földje felé vezető ösvény volt. Mint ilyen, az út **a mennyei Tejút földi homológja volt, amelynek kapuját – amelyen keresztül a nyugat felé haladó nap áthaladt – a csillagkutyák, a Canis major és a Canis minor, valamint a Szíriusz és a Procyon** kutyacsillagok őrizték.  
+> - A Compostello név `campus stellae` eredetére vonatkozóan népetimológiát sejtenek: A középkorban a zarándoklat népszerűsítése érdekében a nevet szándékosan kötötték össze a _campus stellae_ (csillagmező) fogalmával. Ez a szimbolika összekapcsolta a földi helyszínt az égi úttal (Tejút), így a zarándokok úgy érezhették, hogy a földön járva egy égi térképet követnek a szent sír felé. Igaz, hogy a latin `compositum` és a "föld alatti mező" felfogás sem különb magyarázat (`compositum tella` = elrendezett sírhelyek).
+> - Ezen kívül [[S/Szent Jakab\|Szent Jakab]] (az apostol) napja is július 25. Jankovics Marcell adata szerint a nyári Nap Jakab napja \[július 25.\] körül hagyta el a [[T/Tejút\|Tejut]]at. 
+
+</div></div>
+
+
+Ezen [[J/Július 25\|július 25]]. dátum előjött [[F/Furinalia\|Furinalia]] és [[K/Kutyaáldozás\|kutyaáldozás]] címnél is.  
 
 Hogy ezen kutya-őrzőkben kell látni a mitológiai [[C/Cerberus\|Cerberus]] és [[O/Orthros\|Orthros]] alakokat is, kétségtelen. Szerepükről [[P/Psychopomp\|psychopomp]] címnél volt szó bőséggel, valamint [[K/Kutyaáldozás\|kutyaáldozás]] címnél szerepeltek az alábbiak:  
 Az ember azt várná, hogy netán Szíriusz-Nap-Föld együttállásokhoz lehetne kötni ezen áldozó-ünnepek napjait, különösen az alábbiak alapján:  
 
-#### David Gordon White írja:
-
+David Gordon White folytatja:  
 > In a great number of cultures, then, the pastoral, cynegetic, and protective role of the dog is extended beyond the world of the living into the world of the dead. As such, [[P/Psychopomp\|psychopomp]]s, guardians of the gates of hell, hellhounds, and the souls of the dead themselves are often depicted as canine. In fact, it is not so much that the dog's role extends beyond the world of the living into that of the dead, but rather that the dog's place lies between one world and another. Just as Sirius's location during the dog days is on the eastern horizon immediately before sunrise (whence the term "heliacal rising"), so the place of the dog in nearly all that it does in its relationship to man is [[L/Liminal\|liminal]]. The dog guards many **celestial or temporal thresholds** in Indo-European traditions, including dawn and dusk, the new and full moons, and **the summer and winter solstices**. This translates, in the night sky, into various canine constellations through which the sun passes on the ecliptic and, because the paths of the celestial vault-the Milky Way, the solar ecliptic, the moon's orbit, etc. – may be identified with the paths of the dead, celestial dogs are often stationed at dangerous heavenly crossroads and bridges.  
 > —  
 > Számos kultúrában tehát a kutya pásztori, cinegetikus és védelmező szerepe az élők világán túl a holtak világára is kiterjed. Így a **pszükhopomposz**okat, a pokol kapujának őrzőit, a pokolkutyákat és magukat a halottak lelkét is gyakran kutyaként ábrázolják. Valójában nem annyira arról van szó, hogy a kutya szerepe túlmutat az élők világán a holtak világába, hanem inkább arról, hogy a kutya helye az egyik és a másik világ között van. Ahogyan a Szíriusz helye a [[C/Canicular\|kutyanapok]] alatt a keleti horizonton van közvetlenül napkelte előtt (innen a "[[S/Szíriusz heliakus kelése\|helikális kelés]]" kifejezés), úgy a kutya helye szinte mindenben, amit az emberrel való kapcsolatában tesz, [[L/Liminal\|liminális]]. A kutya az indoeurópai hagyományokban számos égi vagy időbeli küszöböt őriz, többek között a hajnalt és az alkonyatot, az új- és teliholdat, valamint **a nyári és a téli napfordulót**. Ez az éjszakai égbolton különböző kutyás csillagképekben mutatkozik meg, amelyeken a Nap áthalad az ekliptikán, és mivel az égi boltozat útjai – a Tejút, a nap-ekliptika, a Hold pályája stb. – azonosíthatók a halottak útjaival, az égi kutyák gyakran állomásoznak veszélyes égi kereszteződéseknél és hidaknál.  
@@ -88,13 +102,14 @@ Hasonló a makedón szokáshoz:
 { #dalja}
 
 
+![assets/Tejutazodiakusban_image7.png|invert_dark fix_light|840](/img/user/T/assets/Tejutazodiakusban_image7.png)  
+
 Szó van arról is, hogy a Szíriusz korábban a Tejút másik oldalán volt:  
-![assets/Tejutazodiakusban_image7.png|fix_dark fix_light|840](/img/user/T/assets/Tejutazodiakusban_image7.png)  
 > At this point, and considering the perceived motion of Sirius among the stars, it is interesting to mention a proposition by Gore[^2] (1903) based on one of the Arabic names of Sirius: al-schira al-abur ("Sirius which has passed across"). Gore linked this name with Al Sufi's mention of a mythological explanation that Sirius crossed the Milky Way in the direction of Canopus. This obviously happened during the Stone Age and, if correctly representing the human memory of an astronomical event, is truly amazing.  
 > 60,000 years ago Sirius was located on the eastern border of the Milky Way, whereas it is now located on its western border. This is the result of its proper motion, a combination of its orbit around the center of the Milky Way galaxy and of the similar motion of the Sun and Earth.  
 > —  
 > Ezen a ponton, és figyelembe véve a Szíriusznak a csillagok között észlelt mozgását, érdekes megemlíteni Gore (1903) egy felvetését, amely a Szíriusz egyik arab nevén alapul: al-schira al-abur ("Szíriusz, amely átment"). Gore összekapcsolta ezt a nevet azzal, hogy al-Szufi egy mitológiai magyarázatot említett, miszerint a Szíriusz a Canopus irányában keresztezte a Tejútrendszert. Ez nyilvánvalóan a kőkorszakban történt, és ha helyesen reprezentálja egy csillagászati esemény emberi emlékét, akkor valóban elképesztő.  
-> 60 000 évvel ezelőtt a Szíriusz a Tejútrendszer keleti határán helyezkedett el, míg most annak nyugati határán. Ez a sajátmozgásának eredménye, amely a Tejútrendszer galaxis középpontja körüli pályájának, valamint a Nap és a Föld hasonló mozgásának kombinációja.  
+> 60000 évvel ezelőtt a Szíriusz a Tejútrendszer keleti határán helyezkedett el, míg most annak nyugati határán. Ez a sajátmozgásának eredménye, amely a Tejútrendszer galaxis középpontja körüli pályájának, valamint a Nap és a Föld hasonló mozgásának kombinációja.  
 - Gore adatait lásd [[H/Habiru\|Habiru]] címnél.  
 60000 év akkor lehet igaz, ha a Szíriusz-Nap rendszer kb. 108000 éves periodicitású vagy akár több.  
 
