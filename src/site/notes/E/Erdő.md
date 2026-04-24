@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Erdő/","title":"Erdő","created":"2023-11-13T05:47","updated":"2025-09-28T21:29"}
+{"dg-publish":true,"permalink":"/E/Erdő/","title":"Erdő","tags":["containstransclusions"],"created":"2023-11-13T05:47","updated":"2026-04-24T09:38"}
 ---
 
 
@@ -35,7 +35,16 @@ Egyébként istentiszteleteit is erdőben (lásd Sir James Frazer The Golden Bou
 #### Magyar Adorján Kérdések...  
 
 ...című könyvében található adata és a reakcióm [[G/Germán\|germán]] címnél is szerepelt:  
-> Vajon igaz-e, hogy ugor, ugar, azaz magor vagy magyar őseink a földművelést éppen a hegyek között kecskenyájakat legeltető szláv, és az őserdőkben vadászó életmódot folytató germán népektől tanulták? Nem én, hanem a germán tudósok állítják, hogy a germán név kelta eredetű, és erdei, erdőlakó értelemmel bír. (Mayers lex. 1897 Germ.) Nem sajátságos-e tehát, hogy viszont törökül `orman` = erdő?  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/G/Germán/#nx87tb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> Vajon igaz-e, hogy ugor, ugar, azaz magor vagy magyar őseink a földművelést éppen a hegyek között kecskenyájakat legeltető szláv, és az őserdőkben vadászó életmódot folytató germán népektől tanulták? Nem én, hanem a germán tudósok állítják, hogy **a germán név kelta eredetű, és erdei, erdőlakó értelem**mel bír. (Mayers lex. 1897 Germ.) Nem sajátságos-e tehát, hogy viszont törökül `orman` = erdő?  
+
+
+</div></div>
+
 - Nos, mivel az erdő valójában a Tejút kivételes része, valóban onnan ered az ember. De a [[M/MISZ\|MISZ]] címnél említett vogul-osztják `mis` = erdei ember, erdőlakó, tündér is a Tejút MISZ nevével azonos. Érdekes, a németek összes neve Tejútról származásról tanúskodik. Ger-Man tehát a Menny Gyermeke/Ura, viszont az előhangmentes török orman is Menny Ura értelmű lehet. Ugyanakkor másutt láttuk, hogy az erdő, erőd, hegy értelmek keverednek és a török szó is lehet Hegy-Mennybe értelmű. <br/>
 Orman az Ormánság tájegységünk nevében is szerepel. A hivatalos verzió szerint:  
 > Az Ormánság, vagy Ormányság tájegység Baranya megyében, a Dráva árterületén, a Dráva-sík kistáj része. Baranyára jellemző aprófalvas vidék. Legnagyobb települései az 1868 lakosú Vajszló és a 2941 lakosú Sellye.  
