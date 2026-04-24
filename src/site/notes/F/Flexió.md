@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2026-04-10T23:09"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz"],"created":"2024-10-22T22:07","updated":"2026-04-24T09:37"}
 ---
 
 
@@ -42,7 +42,7 @@ Ahogy [[L/Logosz\|logosz]] és [[N/Népetimológia\|népetimológia]] címnél i
 Van eset, hogy rendkívül csekély hajlítás történik. Pl. a *homofónia* esetén a szavak ugyanazt a hangalakot használják, de eltérő jelentéssel rendelkeznek (pl. `kész` - `kéz`).  
 Czakó Gábor **gyökhangváltás**nak nevezi, olyan példákat hozva, mint `borít` és `burkol`, amelyek ugyanazt jelentik: "befed, betakar".  
 
-Akár hívhatnánk zéró hajlításnak azon eseteket, amikor *homonímiá*ról beszélünk. (A homonímia az egyik típusa a szemantikai homogenitásnak, amely a szavak jelentésbeli kapcsolatrendszerét vizsgálja. A *homonimák* olyan szavak, amelyek ugyanazt a fonetikai vagy ortográfiai formát használják, de eltérő jelentéssel rendelkeznek.)  
+Akár hívhatnánk zéró hajlításnak azon eseteket, amikor *homonímiá*ról beszélünk. (A homonímia az egyik típusa a szemantikai homogenitásnak, amely a szavak jelentésbeli kapcsolatrendszerét vizsgálja. A *homonimák* olyan szavak, amelyek ugyanazt a fonetikai vagy ortográfiai formát használják, de eltérő jelentéssel rendelkeznek.)  
 A [[M/Méh\|méh]] kettős jelentését mindenki ismeri, de a közös kiindulót csak őseink gondolkodásának megértése révén fedezhetjük fel.  
 Azt is tudja mindenki, hogy a [[M/MAG\|mag]] örökítő anyagot, ondót is jelent, de azt már kevesen, hogy a [[M/Magor\|Magor]] nevünkben is megtalálható [[M/MAG\|Mag]] Nap jelentésű. (Magor pedig épp a Tejútanya Méhszájából születik meg, a téli napforduló után.)  
 Magor ikerpárjának, [[H/Hunor\|Hunor]]nak nevében Hun is jelenthet Napot, de leginkább kemény K/G hangzókkal találjuk meg. Ott is megjelenik az örökítő anyag, [[K/Könny\|könny]] és [[G/Geny\|geny]] formában. Itt az eredeti [[K/KÖN\|Kön]]/[[K/KEN\|Ken]] formához képest már némi hangalaki változást is tapasztalunk.  
@@ -53,7 +53,8 @@ Mielőtt további példákkal szemléltetnénk, hogyan működik mindez a magyar
 #### Péterfai János írja:
 
 > A Ku flexiót alkot a magyar nyelvben, Kő jelentéssel. A flexió sorozata a következő: Ku, Ko, Ka, Kő, Ke, Ki, Kü. Mindegyiknek van Kővel kapcsolatos jelentése. A bemutatott flexiós nyelvi jelenséget Archaikus Flexiónak nevezem, szemben a szemita nyelvekre jellemző Modern Flexióval. Teljesen bizonyos, hogy a szemita nyelvek flexiós jelensége a magyar Archaikus Flexióból alakult ki.  
-> A szemita nyelvekben ugyanis a flexiós ragozás BABAB típusú szavakon megy végbe, amíg a magyar flexió AB vagy BA, nagyon egyszerű szavakon jelentkezik. Általában a magyar flexiós, hajlítós nyelvi jelenséget Szóbokor képződésnek nevezik. A magyar nyelvben a Flexió, vagy a Hajlítás sok tízezer évvel megelőzi a szemita nyelvekben megjelenő Flexálást, vagy Hajlítást, ami valójában az oldalra kitérést, az egyenestől való eltérést írja le, nyelvi alap jellegzetességként.  { #bjhh4f}
+> A szemita nyelvekben ugyanis a flexiós ragozás BABAB típusú szavakon megy végbe, amíg a magyar flexió AB vagy BA, nagyon egyszerű szavakon jelentkezik. Általában a magyar flexiós, hajlítós nyelvi jelenséget Szóbokor képződésnek nevezik. A magyar nyelvben a Flexió, vagy a Hajlítás sok tízezer évvel megelőzi a szemita nyelvekben megjelenő Flexálást, vagy Hajlítást, ami valójában az oldalra kitérést, az egyenestől való eltérést írja le, nyelvi alap jellegzetességként.  { #bjhh4f}
+
 
 - Más címnél is írtuk:  
 Úgy tűnik, hogy már a magyar nyelv sémit megelőző archaikus flexiós fejlődésében lezajlott az ív alak h/k/g hangos toldásával képzett változatainak létrehozása. Ezek lehetnek: [[H/Hív\|hív]], [[K/KAP\|kap]], [[G/Göb\|göb]], [[K/Kúp\|kúp]], stb.
@@ -162,7 +163,8 @@ Götz a 194. oldalon is folytatja még a flektáló és a ragozó nyelvek össze
 
 Könyve 883-884. oldalán írja:  
 > Köztudomás szerint a legtöbb nyelv szavainak jelentései a mássalhangzókhoz tapadnak, ugyanakkor a szemita magánhangzóváltozások (az ún. szimbolikus magánhangzóváltások) – éppúgy mint az indogermán "Ablaut" – éppen ellenkezőleg, nem rokon jelentésű új szavak képzésére szolgálnak, hanem gyakorlatilag kizárólag nyelvtani és belső szóképzésbeli szerepük van.  
-> A ragozó típusú nyelvekre – amilyen a szumér is – jellegzetes, hogy a magánhangzóváltozásokat az alapszó jelentésétől bizonyos fokig eltérő, de vele szemantikailag rokon szóvariánsok képzésére használják fel (vö. pl. magyar `lik` vagy `luk`, `lék`, `lak`; l. I. könyv 4-5. fej. is).  { #vbsdd9}
+> A ragozó típusú nyelvekre – amilyen a szumér is – jellegzetes, hogy a magánhangzóváltozásokat az alapszó jelentésétől bizonyos fokig eltérő, de vele szemantikailag rokon szóvariánsok képzésére használják fel (vö. pl. magyar `lik` vagy `luk`, `lék`, `lak`; l. I. könyv 4-5. fej. is).  { #vbsdd9}
+
 
 
 [[G/Gyakorítás\|Gyakorítás]] címnél is elhangzott:  
@@ -170,7 +172,7 @@ Könyve 883-884. oldalán írja:
 
 ## Óegyiptomi példa
 
-> Ilyennel is találkozni. Pl. a több helyen említett óegyiptomi `p-t`/`pt` jelentése ég, égbolt, melynek megfelel illetve nyilván ennek nyomán jött létre a Mercer (1952: II, 183, 509) adatát megosztó Morris Silver Talking Ancient Mythology című könyvében megadott `pdt`/`pedjet` = ív, íj; égbolt szó.  
+> Ilyennel is találkozni. Pl. a több helyen említett óegyiptomi `p-t`/`pt` jelentése ég, égbolt, melynek megfelel illetve nyilván ennek nyomán jött létre a Mercer (1952: II, 183, 509) adatát megosztó Morris Silver Talking Ancient Mythology című könyvében megadott `pdt`/`pedjet` = ív, íj; égbolt szó.  
 
 ## Lábjegyzetek
 
