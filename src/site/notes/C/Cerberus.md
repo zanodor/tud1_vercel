@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cerberus/","title":"Cerberus","tags":["Englishtexttranslated"],"created":"2023-11-16T02:33","updated":"2024-10-25T16:15"}
+{"dg-publish":true,"permalink":"/C/Cerberus/","title":"Cerberus","tags":["Englishtexttranslated"],"created":"2023-11-16T02:33","updated":"2026-04-24T09:39"}
 ---
 
 
@@ -23,7 +23,7 @@ A Kerberosz a görög mitológia kígyóbőrű, pikkelyes állata, ahogy...
 
 ...című könyvének Héraklész 10. munkájáról, Gérüón gulyájának elrablásának kapcsán írja, hogy a kutyák többfejűsége [[J/Janus\|Janus]] többfejűségéhez hasonlatos:  
 > Ami a "[[K/Kapu\|kapu]]kat" illeti, két helyen is találhatók. Egyrészt kapunak hívták az Ikrek és a Bika cikkelyén átfolyó Tejút kereszteződését az Állatövvel, másrészt – láttuk – annak nevezték azt a másikat, mely a Bikával és az Ikrekkel szemben található. Az Ikrek jele egy alul és felül összekötött, kapunyílásra emlékeztető oszloppár. Az ókori Spártában így ábrázolták az Ikreknek nevet adó Dioszkurokat. Ezt a jelet értelmezhetjük Hercules oszlopai szimbólumának.  
-> Orth(r)osz kutya – a [[N/Nagy Kutya\|Nagy Kutya]] csillagzat – az Ikrek kapuját őrzi; két feje, mint a római lanusé, a kapuból az ég két térfelét vigyázza. (Időszámításunk kezdetétől a nyári napforduló az Ikrek csillagképbe esett, ettől kezdve ez a kapu rnár nemcsak térelválasztó, hanem az esztendőt is felezi.)  
+> Orth(r)osz kutya – a [[N/Nagy Kutya\|Nagy Kutya]] csillagzat – az Ikrek kapuját őrzi; két feje, mint a római lanusé, a kapuból az ég két térfelét vigyázza. (Időszámításunk kezdetétől a nyári napforduló az Ikrek csillagképbe esett, ettől kezdve ez a kapu már nemcsak térelválasztó, hanem az esztendőt is felezi.)  
 
 Az [[O/Ötven\|ötven]] is előjön Cerberus fejeinek száma kapcsán, mely ugye kozmikus szám:  
 > Cerberus is generally figured as bicephalic on Attic pottery and tricephalic in Greek tragedy and in Roman sources; he is fifty-headed in Hesiod Theogonia 311-12.  
