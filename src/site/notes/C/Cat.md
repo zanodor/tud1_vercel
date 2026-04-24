@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cat/","title":"Cat","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T08:48","updated":"2026-04-03T20:16"}
+{"dg-publish":true,"permalink":"/C/Cat/","title":"Cat","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T08:48","updated":"2026-04-24T09:37"}
 ---
 
 
@@ -65,7 +65,7 @@ Mindkét szó, kutya és kat is kún/hun alakú szavak. A magyar eb és macska s
 De mindkettő állat régi háziállatunk is, és lám, kutya a kútyával, kat (kac) a házzal hozható összefüggésbe. Arról is lehetne szólni, hogy régen az u és a hangok gyakran változtak egymással (erre jó bizonyíték az angol u hang, melyet tájjellegűen u-nak, a standard angol szabályoknak megfelelően a és ö hang között ejtenek).  
 
 Valpy latin etimológia szótárában előjön a latin `catulus` = rabszolgák által viselt vasból készült nyakörv ([[C/Carcanet\|carcanet]] és [[T/Torc\|torc]] is ilyesféle), mely szóra biz. Dacier azt írja, hogy `catuli`, azaz kutya nyakörve lehetett eredetileg. Lásd még Valpytól:  
-> **Cătŭlus**, a puppy, whelp. Also, the young of other animals. For _gatulus_ fr. **γέγατα** pp. of **γάω**, (whence in Homer **ἐγγεγάαα**) as **γόνος** and **ἔκγονον** are an offspring fr. **γείνω**, **γέγονα**, same as **γάω**. A little production. ¶ Al. from _catus_. A little sagacious thing. ¶ Varro says it is a diminutive of _canis_. Then it would be _canulus_, not _canitulus_, _catulus_.  
+> **Cătŭlus**, a puppy, whelp. Also, the young of other animals. For _gatulus_ fr. **γέγατα** pp. of **γάω**, (whence in Homer **ἐγγεγάαα**) as **γόνος** and **ἔκγονον** are an offspring fr. **γείνω**, **γέγονα**, same as **γάω**. A little production. ¶ Al. from _catus_. A little sagacious thing. ¶ Varro says it is a diminutive of _canis_. Then it would be _canulus_, not _canitulus_, _catulus_.  
 
 Ha fentebb említettük Kacort, érdemes lenne esetleg [[K/Kacér\|kacér]] szavunkat is idevenni.  
 [[K/Kacor\|Kacor]] címnél kimondtuk közben, hogy a cat/cattus lényegében a kacor név lecsípése és semmi egyebet nem jelentene, mint [[H/Ház\|ház]]at.  
