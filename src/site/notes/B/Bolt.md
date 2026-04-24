@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bolt/","title":"Bolt","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-10T10:45","updated":"2025-10-17T01:45"}
+{"dg-publish":true,"permalink":"/B/Bolt/","title":"Bolt","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-10T10:45","updated":"2026-04-24T09:40"}
 ---
 
 
@@ -42,4 +42,4 @@ Vault és bolt kapcsán lásd írást [[A/Aszklépiosz\|Aszklépiosz]]. Hitetetl
 
   
 
-Lásd még [[B/Bolt#Bolt 1)\|bolt]], [[B/BOT\|BOT]], [[B/Bow\|bow]], [[B/Boat\|boat]] és [[B/Build\|build]]. Lásd még továbbá [[F/Flash\|flash]], ill. [[F/Flex\|flex]] címnél is utaltunk rá.  
+Lásd még [[B/Bolt#Bolt 1)\|bolt]], [[B/BOT\|BOT]], [[B/Bow\|bow]], [[B/Boat\|boat]] és [[B/Build\|build]]. [[F/Flex\|Flex]] címnél is utaltunk rá.  
