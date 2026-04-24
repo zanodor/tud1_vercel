@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2025-09-28T21:25"}
+{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2026-04-24T09:37"}
 ---
 
 
@@ -72,7 +72,7 @@ Az [ezen](https://dictionary.swodli.com/) dakota-angol szótárban talált `mato
 ## Medve jelentésű szavak egyes nyelvekben
 
 A madagaszkári malagasi/malgas nyelvű `maharitra`‎ = medve névben ott a [[M/Magyar\|magyar]] név.  
-A latin nyelvhez és `ursa` szóhoz nyilván semmi köze a szomáli `oorso` = szónak; inkább orsó szavunkhoz tartható.  
+A latin nyelvhez és `ursa` szóhoz nyilván semmi köze a szomáli `oorso` = szónak; inkább orsó szavunkhoz tartható.  
 
 ## Lábjegyzetek
 
