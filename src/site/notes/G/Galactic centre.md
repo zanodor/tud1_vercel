@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2026-04-17T22:43"}
+{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2026-04-24T09:34"}
 ---
 
 
@@ -382,7 +382,7 @@ Nevezetesen, hogy a magyar nem a Koshoz viszonyít (viszont a Kos keleten Kutya,
 A téma ott folytatható, ahol [[B/Bal és jobb\|bal és jobb]], [[K/Kör#Kör – két kör\|kör]], [[F/Félév\|félév]], [[K/Kalács\|kalács]], [[L/Lemniszkáta\|lemniszkáta]] és más címnél abbahagytuk: a tizenkettesség 24 órára, a kis és nagy éves időkörben 6 sötét és világos hónapra bontva lemniszkátára ültethető!  
 
 Csizi Sándor Aranykornak végetvető [[F/Föld tengelyferdülése\|Föld tengelyferdülésé]]ről szóló irományát, ahol a Hamlet Malma íróihoz hasonlóan szintén szól az [[I/Idő nullpontja\|Idő Nullpontjá]]ról, lásd [[A/Aranykor és annak vége\|Aranykor és annak vége]].  
-[[T/Tejút-kapuk\|Tejút-kapuk]] címnél a mellékelt képeken további, Jenkis anyagából vett adatok szerepelnek.  
+[[T/Tejút a zodiákusban\|Tejút a zodiákusban]] címnél a mellékelt képeken további, Jenkis anyagából vett adatok szerepelnek.  
 A [[S/Sumér zodiákus\|sumér zodiákus]]ban a Nyilas neve [[P/Pabilsag\|Pabilsag]]: Fő-Világosság-Ura, hiszen a Tejútközpontra utal (csak hát már hímséginek kezelt, ahogy [[A/Anu\|Anu]] is).  
 
 Paksi Zoltán írja:  
