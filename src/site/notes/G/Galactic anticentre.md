@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2026-03-05T01:34"}
+{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2026-04-24T09:36"}
 ---
 
 
@@ -40,7 +40,9 @@ De először még, hogy térben el tudjuk képzelni, álljon egy John M. Jenkins
 
 [[N/Nap#Csillagképek iránya\|Csillagképek iránya]] címnél is szerepelt:  
 Az értelmezésből az látszik kiderülni, hogy az Ikrekben van az északi kapu, a Nyilasban pedig a déli. Ergo ha jól értelmezem, jelenleg – a Vaskorban – a Tejútfa nem fejjel lefelé áll, hanem rendesen (a fa gyökere van délen) és csak 13000 év múlva áll a feje tetejére az Aranykorba érve ([[Z/Zep Tepi\|Zep Tepi]] címnél volt már erről vagy hasonlóról szó korábban; lásd a Dobos Csanád féle magyarázatra adott reakcióm).  
-John M. Jenkins tehát helyesen a Tejútközpontnak nem a Tejútfa koronájával, hanem a [[M/Mula\|Mula]] címnél is taglalt gyökerével[^2] való megfeleltetését érzi tehát helyesnek (dacára annak, hogy mások szerint a Nyilas a korona; lásd könyvének 266. oldalát).  
+John M. Jenkins tehát helyesen a Tejútközpontnak nem a Tejútfa koronájával, hanem a [[M/Mula\|Mula]] címnél is taglalt gyökerével[^2] való megfeleltetését érzi tehát helyesnek (dacára annak, hogy mások szerint a Nyilas a korona; lásd könyvének 266. oldalát).
+{ #260101}
+
 
 Érdekes még ([[S/Szűz csillagkép\|Szűz csillagkép]] címnél, ahol a Szíriuszt és a Szüzet próbáltuk közös nevezőre hozni, szintén szerepelt):  
 > Virgo, Sirius (the Galactic Anticenter indicator), and the Galactic Center are geometrically related in the sky, and Isis has found a home in each location.  
@@ -55,7 +57,7 @@ John M. Jenkins alábbi passzusa (teljesebben) [[T/Tánc\|tánc]] és [[S/Szíri
 > Másodszor, ha az Ízisz valóban a Szíriusznak felel meg, akkor emlékeztethetünk arra, hogy a Szíriusz ugyanazt a meridiánt \[lásd még erről [[M/Mithra és a bika\|Mithra és a bika]]\] foglalja el, mint a Galaktikus Anticentrum – mindketten egyszerre haladnak át a déli meridiánon, bár a Szíriusz magassága alacsonyabb. Az én elképzelésem itt spekulatív, bár csillagászatilag nagyon is igaz. További kutatások talán világosabban megmutatják, hogy a Szíriusz hogyan lehetett a Tejútközpontból kiinduló galaktikus tengely jelölője.  
 - Erre én is gondoltam, hogy mi van, ha csak marker, azaz jelzőcsillag Szíriusz és semmi egyéb. Persze félév-határoló szerepe fontos, és ahogy több helyen aposztrofáltam: a Tejút(sáv) egy pontba (csillagba) sűrített önvalója.  
 
-![assets/Galacticanticentre_image4.png|fix_light|840](/img/user/G/assets/Galacticanticentre_image4.png)![assets/Galacticanticentre_image3.png|840](/img/user/G/assets/Galacticanticentre_image3.png)  
+![assets/Galacticanticentre_image4.png|invert_light|840](/img/user/G/assets/Galacticanticentre_image4.png)![assets/Galacticanticentre_image3.png|invert_light|840](/img/user/G/assets/Galacticanticentre_image3.png)  
 
 Egyébként ha nem lett volna elég egyértelmű, hogy miről van szó, Jankovics Marcell elmondja:  
 > Abban a gondolatrendszerben, mely a Tejutat a nagy istennővel azonosítja, a téli [[K/Kapu\|kapu]], a tejúthasadék az istennő ölének, szeméremnyílásának felel meg, ahol a napisten és többi gyermeke a világra jön, \[az éggömb ennek ellentétes oldalán lévő\] **szájának pedig a nyári kapu**, ahol \[például [[N/Nut\|Nut]] a mítosz szerint\] gyermekeit elnyeli és újra foganja.  
