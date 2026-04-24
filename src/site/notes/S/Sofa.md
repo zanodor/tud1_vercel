@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sofa/","title":"Sofa","created":"2023-11-08T05:36","updated":"2026-01-17T00:12"}
+{"dg-publish":true,"permalink":"/S/Sofa/","title":"Sofa","created":"2023-11-08T05:36","updated":"2026-04-24T09:40"}
 ---
 
 # Sofa
@@ -26,7 +26,7 @@ Ez történhetett az alvást jelentő szóval is: K> H > V. Az más kérdés, ho
 
 ## Arab 'szobh' szó
 
-Az arab `صبح` (`szobh`) = hajnal, reggel vagy virradat jelentésű (perzsába is átkerült) szó azért érdekes, mert az este és a reggel is kezdhet új napot és nem kizárt, hogy ezeknek valahol egy eredete lehet.  
+Az arab `صبح` (`szobh`) = hajnal, reggel vagy virradat jelentésű (perzsába is átkerült) szó azért érdekes, mert az este és a reggel is kezdhet új napot és nem kizárt, hogy ezeknek valahol egy eredete lehet.  
 De ha nem, akkor is, a [[H/Hajnal\|hajnal]] címnél taglalt hajlás = ív; [[S/Szoba\|szoba]] szónál ívről volt is szó.  
 
 ## Lábjegyzetek
