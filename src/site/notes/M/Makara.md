@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2026-03-31T18:31"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2026-04-24T09:35"}
 ---
 
 
@@ -19,11 +19,18 @@ Ennek megfelelően a csillagképről kapta a Makara szoláris hónap (a szintén
 > ...  
 > A közvetlen asszociáció tehát egy szülőhelyre vonatkozik. Guénon és Coomaraswamy egyaránt a *kalamukhát* azonosítja a szülő- és felemésztővel, és a Bakba (valójában a Nyilasba) helyezi. Korábban említettem, hogy a `makara` vagy `mukha` csillagászati utalása valószínűleg a Tejútrendszerben lévő sötét hasadékra vonatkozik, amelyet a maják szintén szörnyszájként azonosítanak. A védikus *simsumara* krokodil rokon szörnyszája felfelé néz, és felfal minden gyanútlan keresőt, megakadályozva őket abban, hogy átlépjenek az általa őrzött Nyilas-kapun.  { #6panc5}
 
-- Az említett szanszkrit szóról emlékezzünk meg:  
-> The Sanskrit the term `mukha` means "entranceway," "gate," or "mouth." The `kalamukha` (great mouth) is a motif found often in Hindu and Buddhist iconography.  
-> —  
-> A szanszkrit `mukha` kifejezés "bejáratot, "kaput" vagy "szájat" jelent. A `kalamukha` (nagy száj) a hindu és buddhista ikonográfiában gyakran előforduló motívum.  
-- Mu-Ka lényegében a Fény Háza. [[S/Száj\|Száj]] is a [[S/SZA\|SZA]] = fény szóból indul ki. Ugyanakkor a latinban is `bucca` = száj.
+
+> [!_for_blockid] &nbsp;
+> - Az említett szanszkrit szóról emlékezzünk meg:  
+> > The Sanskrit the term `mukha` means "entranceway," "gate," or "mouth." The `kalamukha` (great mouth) is a motif found often in Hindu and Buddhist iconography.  
+> > —  
+> > A szanszkrit `mukha` kifejezés "bejáratot, "kaput" vagy "szájat" jelent. A `kalamukha` (nagy száj) a hindu és buddhista ikonográfiában gyakran előforduló motívum.  
+> - Mu-Ka lényegében a Fény Háza. [[S/Száj\|Száj]] is a [[S/SZA\|SZA]] = fény szóból indul ki. Ugyanakkor a latinban is `bucca` = száj.
+> - A sumér `mug` = vulva jelentését másutt (pl. [[S/Száj\|száj]] címnél) is láttuk.  
+> Magyar Adorján írja (lásd [[M/Maze\|maze]] és [[M/Meta\|meta]]), hogy a szemere (sumér) szócsoportban kellett létezzen mét, még alakú szó női szemérem jelentéssel: ez hasonló is.  
+> Mu-Ka lényegében a Fény Háza. A [[S/Száj\|száj]] szó is a [[S/SZA\|SZA]] = fény szóból indul ki.
+{ #syfdjb}
+
 
 A leírása alapján ez a Jankovics Marcell Jelkép-kalendárium című könyvében is előjövő, ott [[V/Varuna\|Varuna]] cethal-szerű szörnyével, másutt, Mély a múltnak kútja című könyvében pedig magával a [[C/Cet csillagkép\|Cet csillagkép]]pel azonosított csillagkép:  
 > A [[H/Halak csillagkép\|Halak csillagkép]] két jelentéktelen, halformájúnak alig nevezhető kis csillagzatból áll. A Halak égi tengerében úszik viszont az óriás Cet, a mítoszok hősöket, hősnőket elnyeléssel fenyegető tengeri szörnyének égi képmása (a görög `kétosz` nemcsak "cet", hanem mindenféle "tengeri szörny" neve, beleértve a nevezett csillagzatot is). A görög mitológiában hím- és nőnemű alakban egyaránt szerepel (Kéteusz és Kétó). A róla szóló legismertebb történet arról szól, hogyan szabadította meg tőle Perszeusz Androméda királylányt. A rege minden szereplője ott ragyog a tavaszi égnegyedben. A csillagkép jelentésköre azonban tágabb a görög mitológiánál. Éppúgy tekinthetjük a Jónást elnyelő nagy hal képmásának, mint Varuna Makaráját ábrázoló csillagképnek.  
@@ -33,7 +40,7 @@ A leírása alapján ez a Jankovics Marcell Jelkép-kalendárium című könyvé
 Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvében is volt szó szájról, de ott arról volt szó, hogy a nakshatrakban kimért év száját, vagy a nakshatrak száját hívták az év kezdőjének. Lehet, hogy lényegében egy és ugyanarról van szó, téli napfordulós évkezdésről (hogy ezt az évkezdést most még viszonyították első holdtöltéhez, vagy sem, most mindegy is). Lásd erről [[M/Makara Sankrati\|Makara Sankrati]].  
 A [[M/Magyar\|magyar]] címnél említett japán (sintoista ünnepekre értett) `matsuri` = ünnep szó is könnyen lehet, hogy évkezdő (akár téli napfordulós) ünnep neve volt eredetileg.  
 
-Iain Forbes ![assets/Makara_image1.png\|right\|200](/img/user/M/assets/Makara_image1.png)  a LastoftheDruids című oldalról való anyaga szerint Makara nem más, mint a kecskebakhal (Suhurmasku-Capricorn), melyet Magyar Adorján Csodaszarvasában is Szarvassal azonosított (azóta kiderült, hogy a [[S/Skorpió\|skorpió]] is Szarvas). Lásd a mellékelt képen kívül minden egyebet, Forbes írását is [[S/Suhurmasku\|Suhurmasku]] illetve egy részét alant.  
+Iain Forbes ![assets/Makara_image1.png|right|200](/img/user/M/assets/Makara_image1.png)  a LastoftheDruids című oldalról való anyaga szerint Makara nem más, mint a kecskebakhal (Suhurmasku-Capricorn), melyet Magyar Adorján Csodaszarvasában is Szarvassal azonosított (azóta kiderült, hogy a [[S/Skorpió\|skorpió]] is Szarvas). Lásd a mellékelt képen kívül minden egyebet, Forbes írását is [[S/Suhurmasku\|Suhurmasku]] illetve egy részét alant.  
 Itt még csak annyit, hogy a mellékelt képen [[G/Ganga\|Ganga]] (Tejútistennő) "járműve" a Makara.  
 
 Michel-Gerald Boutet Druidical Astrology című dolgozatában írja (a Duna-menti műveltséget is szóba hozva):  
@@ -110,10 +117,14 @@ Az orosz szó viszont hasonlítható a komi `megyr` 'ív, hajlított forma', `my
 > —  
 > MAKAR, a rjazáni emberek, különösen Kadomcev beceneve, mintha I. Péter szerint, aki ott három makárral találkozott egymás után, és tréfásan azt mondta: ha mind makárok vagytok! Ezek a legjobb halászok és csókolók, miért hívják az adózó földműveseket és általában a gazembereket Makaraminak. | Szibériában: együgyű. | Tréfásan: szúnyog. Engedd el a makarkát, csaló. Makariga, makarijevszkij koldus, psz. kemény, szemtelen, összefüggéstelen koldus. Tegnap Makar árkot ásott, most Makar került a kormányzóba, egy csipetnyi boradó gazdák. Elviszlek oda, ahol Makár nem hajtott borjút! Szúnyog és szúnyog, Makár és egy macska. Makar nem házasodott meg kétszer. Szegény Makárt az ág is húzza.  { #nlv1sz}
 
-- [Ezen](https://hu.wikipedia.org/wiki/Rjazanyi_ter%C3%BClet) Wikipédia oldalon a kérdéses területről:  
-> A Rjazanyi terület (oroszul: Рязанская область) az Oroszországi Föderációt alkotó jogalanyok egyike (szubjekt), önálló közigazgatási egység, a Központi Körzethez tartozik. Az európai országrész központi részén, az Oka folyó középső és alsó szakasza mentén fekszik.  
-> Északon a Vlagyimiri, északkeleten a Nyizsnyij Novgorod-i, délkeleten a Penzai, délen a Tambovi és a Lipecki, nyugaton a Tulai, északnyugaton a Moszkvai terület, keleten Mordvinföld határolja. Székhelye Rjazany, Moszkvától mindössze 196 km-re.  
-> Területe 39 600 km²; lakossága 1 194 800 fő (2005), a népsűrűség 30,2 fő/km².  
+
+> [!_for_blockid] &nbsp;
+> - [Ezen](https://hu.wikipedia.org/wiki/Rjazanyi_ter%C3%BClet) Wikipédia oldalon a kérdéses területről:  
+> > A Rjazanyi terület (oroszul: Рязанская область) az Oroszországi Föderációt alkotó jogalanyok egyike (szubjekt), önálló közigazgatási egység, a Központi Körzethez tartozik. Az európai országrész központi részén, az Oka folyó középső és alsó szakasza mentén fekszik.  
+> > Északon a Vlagyimiri, északkeleten a Nyizsnyij Novgorod-i, délkeleten a Penzai, délen a Tambovi és a Lipecki, nyugaton a Tulai, északnyugaton a Moszkvai terület, keleten Mordvinföld határolja. Székhelye Rjazany, Moszkvától mindössze 196 km-re.  
+> > Területe 39 600 km²; lakossága 1 194 800 fő (2005), a népsűrűség 30,2 fő/km².
+{ #8mxz45}
+
 
 [[H/Hát#Hátra, vissza téridőbeli értelmezése – Magor újjászületése\|Hátra, vissza téridőbeli értelmezése – Magor újjászületése]] cím/alcímnél írottak is támogatják a fentieket:  
 A hát, vissza fogalmainak idegen nyelvekbeni megjelenését tekintve érdekes, hogy Magor neveit, annak változatát és lecsapott formáját találjuk meg.  
