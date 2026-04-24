@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/A/Amrita/","title":"Amrita","created":"2026-03-26T14:39","updated":"2026-03-26T14:40"}
+{"dg-publish":true,"permalink":"/A/Amrita/","title":"Amrita","created":"2026-03-26T14:39","updated":"2026-04-24T09:39"}
 ---
 
 
 # Amrita
 
-[[A/Aditi\|Aditi]]t gyakran ábrázolják kozmikus tehénként. Ebben a jelképrendszerben az ő **teje maga az amrita**, amely táplálja az isteneket és fenntartja örök életüket.  
+[[A/Aditi\|Aditi]]t gyakran ábrázolják kozmikus tehénként. Ebben a jelképrendszerben az ő **teje maga az amrita**, amely táplálja az isteneket és fenntartja örök életüket.  
 
 Az [[A/Ambrosia\|ambrosia]] szóval rokonítják, de hangtanilag az [[A/Amorita\|amorita]] névvel és [[A/Ámor\|Amor]] = szerelem szóval mutat hasonlóságot.  
   
