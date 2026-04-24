@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sidereal/","title":"Sidereal","created":"2025-04-27T10:20","updated":"2025-10-04T18:01"}
+{"dg-publish":true,"permalink":"/S/Sidereal/","title":"Sidereal","created":"2025-04-27T10:20","updated":"2026-04-24T09:39"}
 ---
 
 
@@ -15,7 +15,8 @@ A latin `sidus` és perzsa `setâre` = csillag a [[L/Love\|love]] és [[T/Tiszte
 #### Várkonyi Nándor Az idő szívverése...
 
 ...című dolgozatában írja:  
-> Az év többféle lehet, de kettő a leghasználatosabb: a sziderikus vagy csillagév, az az idő, mely alatt a Föld pályáját a Nap körül befutja, vagy amely alatt a Nap látszólagos pályája ugyanahhoz a csillaghoz tér vissza; tartama 365 nap 6 óra 9 perc 9,35 másodperc, mely 20 perccel így hosszabb, mint a tropikus év hossza. A másik a szinodikus vagy holdév 12, holdváltozástól holdváltozásig tartó hónapból áll; egy ilyen szinodikus holdhó tartama 29 nap, 12 óra, 44 perc, 2,9 másodperc, egy szinodikus évé tehát 354 nap 8 óra 48 perc 34 másodperc. A különbség a kétféle év közt 11 nap (epakta); a régiek a korszakolásnál a kettő középértékét – 360 napot – vettek egységnek (ún. közép vagy átlagév), s ennek alapján az ekliptikát is 360 részre vagy fokra osztották a 12 állatképszakaszon kívül. (Innen ered tehát a ma is használt égi és földi fokrendszer.) Ugyanez okból 12 harmincnapos középhóval számoltak.  { #hfkujj}
+> Az év többféle lehet, de kettő a leghasználatosabb: a sziderikus vagy csillagév, az az idő, mely alatt a Föld pályáját a Nap körül befutja, vagy amely alatt a Nap látszólagos pályája ugyanahhoz a csillaghoz tér vissza; tartama 365 nap 6 óra 9 perc 9,35 másodperc, mely 20 perccel így hosszabb, mint a tropikus év hossza. A másik a szinodikus vagy holdév 12, holdváltozástól holdváltozásig tartó hónapból áll; egy ilyen szinodikus holdhó tartama 29 nap, 12 óra, 44 perc, 2,9 másodperc, egy szinodikus évé tehát 354 nap 8 óra 48 perc 34 másodperc. A különbség a kétféle év közt 11 nap (epakta); a régiek a korszakolásnál a kettő középértékét – 360 napot – vettek egységnek (ún. közép vagy átlagév), s ennek alapján az ekliptikát is 360 részre vagy fokra osztották a 12 állatképszakaszon kívül. (Innen ered tehát a ma is használt égi és földi fokrendszer.) Ugyanez okból 12 harmincnapos középhóval számoltak.  { #hfkujj}
+
 
 
 A sziderikus holdhónap az az időtartam, amely alatt a Hold egy adott állócsillaghoz viszonyítva ismét az ég ugyanazon pontján mutatkozik. Hossza 27 nap, 7 óra, és 34 perc.  
