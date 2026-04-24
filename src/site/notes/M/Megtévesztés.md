@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2026-03-05T01:23"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2026-04-24T09:34"}
 ---
 
 
@@ -14,13 +14,12 @@ A megtévesztés és hazudozás nagymesterei a kabbalista zsidók, akiket Yarosl
 
 A **csalás művészeté**ről [[D/Dialektika\|dialektika]] bevezető soraiban is volt szó.  
 
-Az alábbiakban a [[S/Sátán\|Sátán]] **hatalomtechnikai eszközei**ről lesz szó, külön alcímek alatt, nemcsak a megtévesztésről.  { #ypmbnt}
+Az alábbiakban a [[S/Sátán\|Sátán]] **hatalomtechnikai eszközei**ről lesz szó, külön alcímek alatt, nemcsak a megtévesztésről.  { #ypmbnt}
+
 
 
 Az [alábbi](https://youtu.be/Vlu5QxrwHEs) ÁKTV műsorban Czékus Jób beszél arról, hogy egyes tévéműsorokat úgy készítenek el, hogy a nemzetérzelmű embert szólítják meg, 60-80%-ban az igazat látszanak mondani és belekevernek olyan torzításokat, hazugságokat, hogy az egészről végül kiderül, hogy az ellenségeink nézőpontját akarja ránk erőltetni, belénk nevelni. Ha az ember 10-ből 6-8 dolgot hall, amiről érzi, tudja, hogy igaz lehet, akkor azt gondolja, hogy a többi is.  
 
-
-[Ezen](https://www.youtube.com/watch?v=cqfShBeC6fI) ÁKTV műsorban János betelefonáló mondja a cigány származású Oláh Sándorról, hogy "a mondandójának helyzetértékelési fele akár rendszerint teljes igazságok elmondásán is alapulhat – mert most már ők ezt is megtehetik, hogy bizonyos igazságokat kimondjanak \[...\] de olyan célokat fogalmaz meg, az igazságokra alapozva, ami lehetetlenre irányul."  
 
 Szokták a pszichológiából ismert *priming* kifejezést is használni. Pl. [ezen](https://videa.hu/videok/nagyvilag/250905cn-uzenet-a-z-generacionak-magyar-X9LoL9WleIWatii9?start=2024) helyen Kubínyi Tamás is, marketing kontextusban.  
 Az [előfeszítés](https://hu.wikipedia.org/wiki/El%C5%91fesz%C3%ADt%C3%A9s_(pszichol%C3%B3gia)) fordítást kicsit szerencsétlennek tartom, lehetne simán előkészítésnek nevezni. A priming nyilván akkor káros, ha szándékos megtévesztés vagy manipuláció eszköze: pl. az előadó szándékosan kihasználja a hallgatóban már meglévő pozitív asszociációt és reakciót (ismerős dolgok hallatán -> taps), hogy aztán ezt a pozitív reakciót átvigye egy olyan tartalomra, aminek igazságtartalmáról ill. potenciálisan káros hatásairól már nincs meggyőződve. Itt már van egy tudatos szándék a hallgató viselkedésének vagy véleményének manipulálására, kihasználva a korábban beépített pozitív érzéseket vagy reflexeket.  
@@ -167,6 +166,10 @@ A Hamász nevű szervezet legalábbis mai formájában (az eredeti "kődobálós
 
 ## Titkosszolgálati előkészítés és leleplezés
 
+Az [[A/Antiszemitizmus\|antiszemitizmus]]t például le kell gyártani, akkor is ha nincs. Ismertek förtelmes Talmud idézetek, amikről kiderülnek, hogy nem valódiak. Lehetséges, hogy egyes digitális helyeken átírták őket, de titkosszolgálati megrendelésre is legyártják a hamisítványokat, hogy egy kollektív halmazból már ne tudhassa az átlagember, mi a hamis és mi az igaz és inkább leálljon a kereséssel, mondván, ez mind hamisítvány szerencsétlen zsidók lejáratására.
+{ #260304}
+
+
 Hasonló megrendezett akció, amikor az átlag összeesküvés elméletes színvonalára visznek le egy témát, pl. Merkel asszony, Theresa May és von der Leyen asszony neve három fiatal lány fényképe alá bekerül, a mai képükkel és neveikkel alá vágva, arra utalva, hogy őket már fiatalon beszervezték (Rothschildok), de aztán egy pár év múlva jön a nagy leleplezés, amiben elmondják, hogy csak Merkel van a képen és a másik kettő valami születésnapi zsúr résztvevői, akik jelentéktelenek.  
 Tehát a titkosszolgálatok saját kezűleg vagy megrendelésre létrehoz(at)nak olyan, a pl. nemzeti érzelmű emberek körében elterjesztett áltanokat, majd várnak néhány évet, mert ennyi idő alatt bőven bejárják az internet blogjait, vlogjait, hogy aztán lerántsák a leplet: sosem létezett ilyen-olyan nevű japán történész, ahogy pl. [[T/Történelemhamisítás#^9toygg\|történelemhamisítás]] helyen erről beszámoltunk. A gyanútlan olvasó pedig kiábrándul abból, hogy a nemzeti oldalon ennyi a kókler meg hazudozó.  
 
@@ -174,7 +177,7 @@ Lehetséges, hogy David Icke is beszervezett, vagy legalábbis nem veszik komoly
 
 ## A hegeli dialektika "tézis, antitézis, szintézis"-e nyomán "probléma-reakció-megoldás"
 
-Az elmélet legismertebb népszerűsítője **David Icke**, de nem kell Icke-nak lenni, hogy belássuk, it tényleg a filozófus eredeti gondolatának átültetéséről van szó. A valódi dialektika a világ természetes fejlődését írja le: egy tézis kiváltja az ellentétét (antitézis), majd ebből kialakul egy magasabb szintű szintézis. A manipulátorok azonban ezt **mesterségesen** alkalmazzák:  
+Az elmélet legismertebb népszerűsítője **David Icke**, de nem kell Icke-nak lenni, hogy belássuk, it tényleg a filozófus eredeti gondolatának átültetéséről van szó. A valódi dialektika a világ természetes fejlődését írja le: egy tézis kiváltja az ellentétét (antitézis), majd ebből kialakul egy magasabb szintű szintézis. A manipulátorok azonban ezt **mesterségesen** alkalmazzák:  
 1. **Tézis (probléma)**: Ők maguk hozzák létre a válságot (pl. gazdasági összeomlás, járvány, társadalmi feszültség). A cél az, hogy a lakosság körében félelmet, bizonytalanságot vagy haragot keltsenek.  
 2. **Antitézis (reakció)**: A tömeg a félelem hatására határozott fellépést és védelmet követel. A közvélemény azt mondja: „Valamit tenni kell!” Ebben a szakaszban a nép önként kéri a beavatkozást, akár alapvető jogok feladása árán is.  
 3. **Szintézis (megoldás)**: A hatalom előáll azzal a megoldással, a "mentő" tervükkel, amelyet már a válság kirobbantása előtt eltervezett, de amit a nép normális körülmények között soha nem fogadott volna el. Ez általában nagyobb központi hatalmat, szigorúbb ellenőrzést vagy új adókat jelent.  
