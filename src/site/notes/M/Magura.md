@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magura/","title":"Magura","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T08:17","updated":"2026-04-03T20:16"}
+{"dg-publish":true,"permalink":"/M/Magura/","title":"Magura","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T08:17","updated":"2026-04-24T09:38"}
 ---
 
 
@@ -36,9 +36,9 @@ Dr. Horkovics-Kováts János Őstörténelmünk helyretétele\[?\] című YouTub
 
 ## Arab szavak
 
-Támogatni ![Magura_image20260309184755430.jpeg\|right\|200](/img/user/M/assets/Magura_image20260309184755430.jpeg)látszik a barlang ilyen Magura alakú nevét az arab nyelv is, ahol a [[M/Magyar\|magyar]] címnél előjövő arab `maḡār` (vagy gyakrabban: `maḡāra`) = grotto, barlang leginkább egy hegy odvára, szájra emlékeztet, a [Wiktionary oldalán](https://en.wiktionary.org/wiki/%D9%85%D8%BA%D8%A7%D8%B1%D8%A9#Arabic) bemutatott kép alapján is.  
+Támogatni ![Magura_image20260309184755430.jpeg|right|200](/img/user/M/assets/Magura_image20260309184755430.jpeg)látszik a barlang ilyen Magura alakú nevét az arab nyelv is, ahol a [[M/Magyar\|magyar]] címnél előjövő arab `maḡār` (vagy gyakrabban: `maḡāra`) = grotto, barlang leginkább egy hegy odvára, szájra emlékeztet, a [Wiktionary oldalán](https://en.wiktionary.org/wiki/%D9%85%D8%BA%D8%A7%D8%B1%D8%A9#Arabic) bemutatott kép alapján is.  
 
-A ma- előtag ![Magura_image20260309185229778.jpeg\|right\|200](/img/user/M/assets/Magura_image20260309185229778.jpeg)persze a nyelvészet szerint utóbb került volna a második szóelem elébe, mert az [ezen](https://en.wiktionary.org/wiki/Appendix:Arabic_roots/%D8%BA_%D9%88_%D8%B1#Derived_terms) Wiktionary oldalon talált adatok szerint az arab `غَوْر` (`ḡawr`) = mélyedés, `غَارَ` (`ḡāra`) = barlang szavak közül utóbbi már viszi a barlang jelentést, de itt inkább beszélhetünk barlangról, mint kis üregről, a mellékelt kép alapján is.  
+A ma- előtag ![Magura_image20260309185229778.jpeg|right|200](/img/user/M/assets/Magura_image20260309185229778.jpeg)persze a nyelvészet szerint utóbb került volna a második szóelem elébe, mert az [ezen](https://en.wiktionary.org/wiki/Appendix:Arabic_roots/%D8%BA_%D9%88_%D8%B1#Derived_terms) Wiktionary oldalon talált adatok szerint az arab `غَوْر` (`ḡawr`) = mélyedés, `غَارَ` (`ḡāra`) = barlang szavak közül utóbbi már viszi a barlang jelentést, de itt inkább beszélhetünk barlangról, mint kis üregről, a mellékelt kép alapján is.  
 
 > [!hint] &nbsp;
 > Ami felveti, hogy a `maḡāra` egyúttal a szanszkrit `mukha` = száj, nyílás (bejárat, kapu) szóval is kapcsolatba hozható, mármint közös kiindulásuk (vö. magyar [[M/MAG\|mag]] és [[M/Méh\|méh]]) alapján.
@@ -83,7 +83,8 @@ Két szempontból is érdekes mindez:
 Dogura Magura egy japán könyv alapján készült film címe. [Ezen](https://www.themodernnovel.org/asia/other-asia/japan/kyusaku-yumeno/dogra-magra/) oldalon olvassuk:  
 > After detailed research, they had found that Dogra Magra was a word used in Nagasaki and was used to indicate a religious incantation used by Christian priests, perhaps similar to our [[A/Abracadabra\|abracadabra]].  
 > —  
-> Részletes kutatás után kiderítették, hogy a Dogra Magra egy Nagaszakiban használt szó, és egy keresztény papok által használt vallási varázsigét jelentett, talán hasonlóan a mi [[A/Abracadabra\|abrakadabra]] szavunkhoz.  { #gvu9bs}
+> Részletes kutatás után kiderítették, hogy a Dogra Magra egy Nagaszakiban használt szó, és egy keresztény papok által használt vallási varázsigét jelentett, talán hasonlóan a mi [[A/Abracadabra\|abrakadabra]] szavunkhoz.  { #gvu9bs}
+
 
 
 A név a Dog-gal és Magur-ral (ahol Mag- varázslásra is utalhat) így együtt megdöbbentő.  
