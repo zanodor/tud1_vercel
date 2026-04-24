@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Venue/","title":"Venue","created":"2023-11-10T12:18","updated":"2024-10-26T00:48"}
+{"dg-publish":true,"permalink":"/V/Venue/","title":"Venue","created":"2023-11-10T12:18","updated":"2026-04-24T09:39"}
 ---
 
 
@@ -8,7 +8,7 @@
 Találkozóhely, esemény (például sportesemény) helye; illetékes bíróság[^1]. Az ófranciából jött latin eredetből, ahol a latin `uenīre` jönni jelentésű. Az u v-re való váltása ellenére (eredetileg inkább \*huenīre lehetett) megállapított indo-európai elvont gyök \*gwen- gyön/gyün/[[J/Jön\|jön]] szavunkat idézi.  
 
 Az indo-európai nyelvek más jönni jelentésű szavait is ezen megállapított gyökhöz sorolják:  
-> OE cuman, Go qiman, to come; Gr bainō (s bain-) I come; Skt gámati, he comes, Ve jagama, I have come; Tokh B kekamu (pp), come.  
+> OE cuman, Go qiman, to come; Gr bainō (s bain-) I come; Skt gámati, he comes, Ve jagama, I have come; Tokh B kekamu (pp), come.  
 
 #### Magyar Adorján írja:
 
