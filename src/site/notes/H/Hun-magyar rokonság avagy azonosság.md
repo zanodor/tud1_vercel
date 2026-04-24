@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hun-magyar rokonság avagy azonosság/","title":"Hun-magyar rokonság avagy azonosság","tags":["containscallouts"],"created":"2024-03-01T21:37","updated":"2026-03-03T18:28"}
+{"dg-publish":true,"permalink":"/H/Hun-magyar rokonság avagy azonosság/","title":"Hun-magyar rokonság avagy azonosság","tags":["containscallouts"],"created":"2024-03-01T21:37","updated":"2026-04-24T09:37"}
 ---
 
 
@@ -66,7 +66,7 @@ Mivel a magyarok nyelve látszik elterjedni az egész földön –, ezért, és 
 A lényeg, hogy rátalálnak az ősi önmagukra, és megszervezik őket. Ezen nyomok történelmi úton nyomozhatók, de a lényeg:  
 
 > [!fail] &nbsp;
-> Ha a krónikák tartalmára és az ázsiázó elméletekre építünk, így is úgy is [[H/Honfoglalás\|honfoglalás]] lesz, amit a nyakunkba varrnak, holott – ahogy sokan kimondták már Magyar Adorján nyomán – mi **nem jöttünk sehonnan: őseurópaiak vagyunk**.
+> Ha a krónikák tartalmára és az [[A/Ázsia#Ázsiázó elmélet\|ázsiázó elmélet]]ekre építünk, így is úgy is [[H/Honfoglalás\|honfoglalás]] lesz, amit a nyakunkba varrnak, holott – ahogy sokan kimondták már Magyar Adorján nyomán – mi **nem jöttünk sehonnan: őseurópaiak vagyunk**.
 - Nem mintha a "dicső" nyugati népek nem Ázsiából (vö. [[I/Indo-európai nyelvcsalád\|indoeurópai nyelvcsalád]] kifejezést) jöttek volna be és nem a hunok átfazonírozott történelmére épülne valós történelmük.
 
 Tehát ázsiai rokonnépeink adják adott esetben az uralkodó elitet, a vezetői réteget (a germánoknál ezek az avar-hunok). És mit látunk: az ún. honfoglaló törzseknél **éppen a Magyar-Megyer törzs lesz a vezető**t adó törzs, ami megint csak mutatja, hogy az igazodás egy régebbi néphez, egy régebbi felfogáshoz történik. Tehát megvan az a tisztelete a régi magyarnak, hogy a nyelvükben, szokásaikban megváltozott, már a magyarságából picit kitérő, szkítáknak is nevezhető hunok a megszervezés folytán visszaolvadnak régi önmagukba, és azt a nyelvet utána föl is veszik. És ha a szlávos, törökös, germános ilyen-olyan nyelvi elemek be is kerültek a magyar nyelvbe, azok is visszavezethetők magyar ős-eredetű szavakra.  
