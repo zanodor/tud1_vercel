@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2026-03-05T01:32"}
+{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2026-04-24T09:29"}
 ---
 
 
@@ -36,7 +36,7 @@ Ezen utolsó sornak megfelelő vélemény Götz László Keleten kél a Nap cím
 > Bouda szélesebb körben vizsgálta a szumér nyelv összefüggéseit. Rokonsági kapcsolatokra valló egyezéseket talált a nyugatkaukázusi nyelvek és a baszk között, amelyek részben a szumérban is megvannak, s ugyanakkor a tibetiben is előfordulnak. Összesen 87 szóegyeztetést sorol fel, amelyeknek majdnem fele a szumérban is adatolható. Végkövetkeztetésében óvatosan utal arra, hogy **a történelemelőtti időkben esetleg számolnunk kell egy hatalmas kiterjedésű ősnyelvszerű képződménnyel, amelybe a szumér is beletartozott** (l. Bouda 1938.). Bouda ezen eredményei azt jelentik, hogy az ősi anatóliai-mediterrán nyelvközösség a szuméron keresztül minden joggal kapcsolatba hozható a Mezopotámiától északra és keletre fekvő területek nyelveivel is, azaz a kutatás számára elsőrangú feladat lenne e térség régi és mai nyelveinek alaprétegi anyagát éppoly módszeresen átvizsgálni, mint ahogy ez Anatólia és a Mediterráneum esetében már részben megkezdődött. Annál inkább, mert az újabb régészeti leletek tényszerűen bebizonyították, hogy az elő-ázsiai kultúráramlat során ezeken a területeken is tömegesen jelentek meg elő-ázsiai földművelő telepesek, akik nyilvánvalóan magukkal vitték eredeti hazájuk nyelvjárásait is (vö. e. könyv 2. fej.).
 { #nehg7t}
 
-- Tekintsük sorsszerűnek, hogy éppen egy Bouda nevű kutató ismeri fel a lényeget, de előtte mások – talán éppen Götz könyvében megszólaltatott mások – is hasonló véleményt fogalmaztak meg. (Nem jól emlékeztem, a 414. oldalon arról volt szó, hogy a finnugor, indogermán és szemita nyelvcsaládok egy közös nyelvre való visszavezetése indokolt.)
+- Tekintsük sorsszerűnek, hogy éppen egy Bouda nevű kutató ismeri fel a lényeget, de előtte mások – talán éppen Götz könyvében megszólaltatott mások – is hasonló véleményt fogalmaztak meg. (Nem jól emlékeztem, a 414. oldalon arról volt szó, hogy a finnugor, indogermán és szemita nyelvcsaládok egy közös nyelvre való visszavezetése indokolt.)
 
 Persze ez lehet éppen óvatosság vagy a szumér erények kisebbítésének szándéka is közrejátszhat.  
 
@@ -107,7 +107,7 @@ Arról pedig [[M/Madár\|madár]] címnél volt szó, hogy nem igazán lehet jó
 
 A negyedikkel lehetett volna kezdeni. Ez az [[U/UR\|úr]] szavunk. Az, hogy a sumér nyelvben `UR` = kutyát jelent, csak azt mutatja, hogy a kutya úr volt. Nem a kutya az eredeti jelentés (lásd ott hosszabb fejtegetést Tóth Alfréd adata kapcsán). Éppen a kutya jelentés mutat rá, hogy a magyar nyelv eredetibb, hiszen az Or, Ur szavak alapjelentéseihez képest a kutya jelentés csak átvitt (téridőbeli) értelmű lehet.  
 
-Az más kérdés, hogy közben a [[K/Kutya\|Ku-Ta]]-ról is kiderült, hogy szintén nem eredeti kutya-név, hanem ugyanazt jelenti mint Or, Ur = a Nap éves útján a legmagasabb pontot.  
+Az más kérdés, hogy közben a [[K/Kutya\|Ku-Ta]]-ról is kiderült, hogy szintén nem eredeti kutya-név, hanem ugyanazt jelenti mint Or, Ur, a Nap éves útján a legmagasabb pontot.  
 
 ### 5.
 
