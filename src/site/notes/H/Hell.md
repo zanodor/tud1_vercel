@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hell/","title":"Hell","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-11-20T04:58","updated":"2026-03-05T01:46"}
+{"dg-publish":true,"permalink":"/H/Hell/","title":"Hell","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-11-20T04:58","updated":"2026-04-24T22:39"}
 ---
 
 
@@ -37,7 +37,7 @@ Azaz Hell valóban a [[H/HAL\|HAL]]/[[A/AL\|AL]] etimonok szerint értendő.
 ## Hel, hell fényes értelme
 
 Az óangol `hel`, `hell`, holland `hel`, német `hell` ragyogó értelmű szavak nyilván az [[E/EL\|EL]]/[[E/ÉL\|ÉL]] alapszavakhoz tartanak, ahogy a valahogy felhangossá váló germán pokol jelentésű szavak a [[H/HAL\|HAL]] alapszóhoz tartoznak. Azaz a magyar kettős/[[D/Dialektikus ellentét\|dialektikus ellentét]] a kiinduló alap.  
-Egyébként a Wiktionary amit ír:  
+Egyébként amit a Wiktionary ír:  
 > From Middle High German `hel` (“resounding, loud, shining, bright”), from Old High German `hel` (“resounding”), from Proto-Germanic \*halliz (“resounding”), from Proto-Germanic \*hellaną (“to resound, make a sound”), from Proto-Indo-European \*kelh₁- (“to call, make noise”). Cognate with Dutch `hel`.  
 > —  
 > A középfelnémet `hel` ("hangos, fényes, ragyogó"), az ófelnémet `hel` ("hangos"), a protogermán \*halliz ("hangos"), a protogermán \*hellaną ("hangos"), a proto-indoeurópai \*kelh₁- ("hívni, zajt csapni") szóból. Rokon a holland `hel`-lel.  
