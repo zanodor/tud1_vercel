@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts","containstransclusions"],"created":"2025-07-16T14:23","updated":"2026-03-30T15:25"}
+{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts","containstransclusions"],"created":"2025-07-16T14:23","updated":"2026-04-24T09:37"}
 ---
 
 
@@ -71,7 +71,7 @@ Egy Quora válaszomra érkezett kommentben azt a kritikát kaptam, hogy a megold
 
 A vallástörténeti és nyelvészeti torzításokat összekapcsolásáról másutt is volt szó.    
 
-> [!important] Az alap-egyenlet
+> [!important] *Az alap-egyenlet* &nbsp;
 > Ahogy a kereszténységről kimondták (Jackson és elődei, mint Massey, Frazer vagy Weigall), hogy **pogány gyökerű**, azaz alulról szerveződik a szerves műveltségből (mire a politikai judeo-kereszténység csak utólag rátelepedett), úgy a nyelvek sem bizonyos "kiválasztott" (szemita vagy indo-európai vagy ráadásul kényelmesen proto- jelzőkkel illethető proto-szemita, proto-indoeurópai nyelveket beszélő) fajok saját, elszigetelt termékei, hanem **természeti népek korábbi nyelvi rétegeire épülő folytatásai**.  
 
 Ezzel kapcsolódunk a [[J/Judeo-kereszténység\|judeo-kereszténység]] címnél is taglaltakhoz: a nyelvészeti és teológiai "szakértők" ugyanazt a hatalmi technikát alkalmazzák – elvágják a gyökereket, hogy saját dogmáikat ültethessék a helyükbe.  
