@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tégla/","title":"Tégla","created":"2024-04-18T15:36","updated":"2024-10-26T00:35"}
+{"dg-publish":true,"permalink":"/T/Tégla/","title":"Tégla","created":"2024-04-18T15:36","updated":"2026-04-24T09:41"}
 ---
 
 
 # Tégla
 
-Tég-La felbontásban ez is a Nap Helye. Három elem alkotja: víz és föld elegyének kiégetésével (tűz) nyerjük. Kiégetik, majd az égető Nap elől a téglaépület véd, [[T/Takar\|takar]] is.  
+Tég-La felbontásban ez is a Nap Helye. Három elem alkotja: víz és föld elegyének kiégetésével (tűz) nyerjük. Kiégetik, majd az égető Nap elől a téglaépület véd, [[T/Takar\|takar]] is (honnan a latin `tegere` = takar). Itt még a [[T/TAK\|tak]]/[[T/TÁK\|ták]] gyök ami megemlítendő.  
 Újabb bizonyíték, hogy a "nomád" magyarok építkeztek is, és nem a latin `tegula` után képeztetett, ahogy CzF mondja. A rómaiak a magyar-etruszkoktól tanulták az építkezést, de legalábbis az ősnyelvet átvették. Az etruszk tégla nevét nem ismerem, de törökül is `tuğla`.  
 
 #### Péterfai János...
