@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-04-24T09:26"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-04-24T22:38"}
 ---
 
 
@@ -21,6 +21,7 @@
 
 **2026:**
 
+[260424CN! NEMZETI ÜNNEP](https://rumble.com/v78ybas-260424cn-nemzeti-nnep-kubnyi-tams-ktv.html)  [https://archive.ph/rMna0](https://archive.ph/rMna0)
 [260423CN! NYÍRNI és KINYÍRNI](https://rumble.com/v78wpj2-260423cn-nyrni-s-kinyrni-kubnyi-tams-ktv.html)  [https://archive.ph/0hF36](https://archive.ph/0hF36)
 [260422CN! ÉRTÜNK VANNAK!](https://rumble.com/v78v1gq-260422cn-rtnk-vannak-kubnyi-tams-ktv.html)  [https://archive.ph/NYmxQ](https://archive.ph/NYmxQ)
 [260421CN! KEZDŐDIK!](https://rumble.com/v78tfpa-260421cn-kezddik-kubnyi-tams-ktv.html)  [https://archive.ph/3J2Gl](https://archive.ph/3J2Gl)  
