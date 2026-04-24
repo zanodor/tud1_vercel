@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-04-17T22:42"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-04-24T09:26"}
 ---
 
 
@@ -21,6 +21,10 @@
 
 **2026:**
 
+[260423CN! NYÍRNI és KINYÍRNI](https://rumble.com/v78wpj2-260423cn-nyrni-s-kinyrni-kubnyi-tams-ktv.html)  [https://archive.ph/0hF36](https://archive.ph/0hF36)
+[260422CN! ÉRTÜNK VANNAK!](https://rumble.com/v78v1gq-260422cn-rtnk-vannak-kubnyi-tams-ktv.html)  [https://archive.ph/NYmxQ](https://archive.ph/NYmxQ)
+[260421CN! KEZDŐDIK!](https://rumble.com/v78tfpa-260421cn-kezddik-kubnyi-tams-ktv.html)  [https://archive.ph/3J2Gl](https://archive.ph/3J2Gl)  
+[260420CN! ÉBRESZTŐ!](https://rumble.com/v78rrpm-260420cn-breszt-kubnyi-tams-ktv.html)  [https://archive.ph/ey1OM](https://archive.ph/ey1OM)  
 [260417CN! ZSOLT BÁ](https://rumble.com/v78n5lg-260417cn-zsolt-b-kubnyi-tams-ktv.html)  [https://archive.ph/Ox941](https://archive.ph/Ox941)
 [260416CN! A TITOK](https://rumble.com/v78lgzg-260416cn-a-titok-kubnyi-tams-ktv.html)  [https://archive.ph/021PX](https://archive.ph/021PX)
 [260415CN! POÉTA](https://rumble.com/v78jqes-260415cn-pota-kubnyi-tams-ktv.html)  [https://archive.ph/O1NLZ](https://archive.ph/O1NLZ)
