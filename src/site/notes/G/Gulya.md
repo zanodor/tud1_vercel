@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gulya/","title":"Gulya","created":"2024-05-07T18:36","updated":"2026-03-31T18:33"}
+{"dg-publish":true,"permalink":"/G/Gulya/","title":"Gulya","created":"2024-05-07T18:36","updated":"2026-04-24T09:41"}
 ---
 
 
@@ -20,7 +20,7 @@ CzF szótár kajla címnél írja, hogy `kula` = tehén. Az nem derül ki, hogy 
 >  (kaj-ol-ó) mn. tt. kajlát. Gyöke a görbét jelentő kaj, melyből lett kajol v. kajlik am. hajol v. hajlik. Általán mondjak görbére hajló sudaras testről, különösen szarvakról, melyek befelé görbednek; a kifelé hajló szarvat pedig csákónak nevezik. **Kajla tehén**, ökör. Kajla bajusz, melyet befelé pederítenek. Kajla fülű, kajla szarvú. Rokon hozzá a hasonló értelmű `kula` (tehén). Egyébiránt némely tájszokás szerént lefelé görbülőt is jelent, p. o. kajla kalap, melynek karimája csurgóra áll. Általán a rendetlen, szabálytalan görbének tréfás, csúfos neve.  
 
 Megfelel neki a [[C/Clan\|clan]] és [[N/Nép#Nép és más rokon jelentésű idegen szavak\|nép]] címnél is említett szanszkrit `कुल॑` (`kula`) = család, nemzetség, klán; gulya szó. Hasonló szavakat lásd még [[C/Család\|család]], ahol szóba került a hasonló gyökű, [[C/Csillag\|csillag]] címnél is említett szláv `cselovek` = ember szó (megint csak arra utalva, hogy egy ember egy csillag).  
-(Mivel a nemzetség, család egy ház, egy szent leszármazási vonal, akár a [[H/Hall\|hall]] és [[S/School\|school]] címnél is említett udmurt/votják `kuala` = templomszerű pogány szent ház – amely előtt az istenek tiszteletére szánt állatokat áldozták föl – szó is ebbe a csoportba tartozhat.)  
+(Mivel a nemzetség, család egy ház, egy szent leszármazási vonal, akár a [[H/Hall\|hall]] és [[S/School\|school]] címnél is említett udmurt/votják `kuala` = templomszerű pogány szent ház – amely előtt az istenek tiszteletére szánt állatokat áldozták föl – szó is ebbe a csoportba tartozhat.)  
 
 A Paraguay és Uruguay nevek utótagjában sejtett guarani eredetű folyó jelentés kapcsán elmondható, hogy mivel a folyó a Földön lehet [[K/Kígyó\|kígyó]] (kijó), megfelelne ez a szavunk némileg átalakítva gway > kuj formákból, de valójában a [[C/Cola\|cola]]/gulya is megfelelne, a Tejútcsordára-folyamra utalva.  
 Mindezt leginkább csak azért tettem ide, hogy rámutassak, hogy a [[K/Kígyó\|kígyó]] szóalak is igen hasonló.  
