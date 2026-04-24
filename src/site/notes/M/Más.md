@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Más/","title":"Más","tags":["Englishtexttranslated","containscallouts"],"created":"2025-05-29T22:51","updated":"2025-09-28T21:24"}
+{"dg-publish":true,"permalink":"/M/Más/","title":"Más","tags":["Englishtexttranslated","containscallouts"],"created":"2025-05-29T22:51","updated":"2026-04-24T09:35"}
 ---
 
 
@@ -161,7 +161,7 @@ Ne feledjük, a nyilván akkád ihletésű latin `mās` = férfi már eleve ilye
 Ahhoz, hogy a más szó kialakulhasson, vagy most egyáltalán értelmezhetővé válhasson, használhatjuk a több helyen említett "rápróbálás" módszerét: ahogy a [[H/Human\|human]] végződése -An, úgy lehetett Más/Mas is előbb Masar (változata: Miser), mely (utóbbi) már a [[M/Mithra\|Mithra]] napnévre is egészen jól üt.  
 Aztán idővel elég lett volna idővel egy orrhangot betenni és a végződést levenni, hogy a manus/mans formát kapjuk.  
 
-Igaz ugyan, hogy minket jelenleg nem az indo-európai embert jelentő szó kialakulása érdekel, mely eleve később zajlott le, de az idegen nyelvek és szavainak jelentései mindig ötletet adnak a fogalmak keveredése okainak tisztázásása révén az eredeti szóalakok kialakulása módjaira.  
+Igaz ugyan, hogy minket jelenleg nem az indo-európai embert jelentő szó kialakulása érdekel, mely eleve később zajlott le, de az idegen nyelvek és szavainak jelentései mindig ötletet adnak a fogalmak keveredése okainak tisztázásása révén az eredeti szóalakok kialakulása módjaira.  
 Az is igaz egyben, hogy a magyar nyelv egyes szavainak kialakulási ideje sem azonos, mert több rétegből tevődik össze a modern magyar nyelv szókincse.  
 
 Segítségünkre vannak más nyelvcsaládok(ba sorolt) szavai:  
