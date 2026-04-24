@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Good/","title":"Good","tags":["Englishtexttranslated","containscallouts"],"created":"2026-03-23T23:27","updated":"2026-04-03T04:50"}
+{"dg-publish":true,"permalink":"/G/Good/","title":"Good","tags":["Englishtexttranslated","containscallouts"],"created":"2026-03-23T23:27","updated":"2026-04-24T09:37"}
 ---
 
 
@@ -107,7 +107,7 @@ Tehát ha magam is hajlanék arra, hogy ez az isten nem a nagybetűs Isten, akko
 > Gud, Gut, God magyar eredetű szavak. [[G/Gudea\|Gudea]] szumer papkirály is viselte a Gud nevet, a Göd is ismert szavunk. A Gu-Du, Gu-Tu Fő-Nap lehet, ebből ered a `Good` angol, `Gut` német Jó, `God` angol Isten szó is.  
 > 
 > A magyar Boldogasszony Anya neve hasonló, de nem teljesen azonos a szumer névalakkal. A Boldog névben a Bol a Bul – Tűz szóval, a Dog a God, Dug, Gud nevekkel kapcsolatos. Bol-Dog a Tűz-Isten(nő), a Szent-Tűz jelentést viseli. Az Asszony név természetesen magyar szóösszetétel, Ász-Szon, vagyis Isteni-Nap a jelentése. A Szon – Nap kicsinyítve, becézve van, ezért Szony a kimondott formája a magyar mai nyelvben. Amint látjuk, a Bol-Dog-Ász-Szony név mögött a Tűz Szent Asszonya rejlik.  
-- Igen, az valóban érdekes, hogy a megfordított szóvázú sumér `DUG₃` = jó, szép; szent jelentéseivel épp megegyezik.
+- Igen, az valóban érdekes, hogy a megfordított szóvázú sumér `DUG₃` = jó, szép; szent jelentéseivel épp megegyezik.
 
 
 
