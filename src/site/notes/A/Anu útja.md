@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anu útja/","title":"Anu útja","tags":["Englishtexttranslated"],"created":"2023-10-04T02:42","updated":"2026-03-05T01:42"}
+{"dg-publish":true,"permalink":"/A/Anu útja/","title":"Anu útja","tags":["Englishtexttranslated"],"created":"2023-10-04T02:42","updated":"2026-04-24T09:38"}
 ---
 
 
@@ -33,7 +33,7 @@ Ré [[A/Apep\|Apep]]-Apóphisz elleni küzdelme kapcsán a három világ függő
 #### Jankovics Marcell A fa mitológiája...
 
 ...című könyvének 195. oldalán is előjön, majd könyvének 224. oldalán írja (egyértelműsítve, hogy a világ hármas beosztása nemcsak a szibériaiaknál, stb. létezett[^1]):  
-> A sumer nyelv és műveltség kiváló ismerője, [[K/Komoróczy Géza\|Komoróczy Géza]] szerint, a sumerek a Nap pályamagasságának változásait egy szimbolikus építményhez, a [[T/TUR\|tur]]hoz viszonyították. Attól függően, hogy a Nap Enlil, Ea vagy Anu isten útján – más szóval, a felső, az alsó vagy a középső világban tartózkodik – beszéltek tur felett, tur alatt vagy turon keresztül haladó Napról. Hétköznapi értelemben a [[T/TUR\|tur]] a Tigris és az Eufrátesz deltavidékének ma is jellegzetes nádépítménye, a közösségi ház vagy karám volt, de templomként is szolgált.  
+> A sumer nyelv és műveltség kiváló ismerője, [[K/Komoróczy Géza\|Komoróczy Géza]] szerint, a sumerek a Nap pályamagasságának változásait egy szimbolikus építményhez, a [[T/TUR\|tur]]hoz viszonyították. Attól függően, hogy a Nap Enlil, Ea vagy Anu isten útján – más szóval, a felső, az alsó vagy a középső világban tartózkodik – beszéltek tur felett, tur alatt vagy turon keresztül haladó Napról. Hétköznapi értelemben a `tur` a Tigris és az Eufrátesz deltavidékének ma is jellegzetes nádépítménye, a közösségi ház vagy karám volt, de templomként is szolgált.  
 
 #### Jankovics Marcell Jelkép-kalendárium...
 
@@ -45,7 +45,7 @@ Ré [[A/Apep\|Apep]]-Apóphisz elleni küzdelme kapcsán a három világ függő
 Az, hogy Anué a középső világ, éppen arra látszik utalni, hogy az Anu = Tejút-Anyu, csak már hímségiként.  
 
 A Hamlet Malmában, a Nibiru-val kapcsolatos 39. függelékben olvasható:  
-> Mezopotámia egyáltalán nem az egyetlen olyan térsége a magaskultúrának, ahol a csillagászok az éggömb hármas felosztásával dolgoztak, még ha el is tekintünk a számunkra állítólag olyan ismerő, - valójában azonban teljességgel ismeretlen – képzettől Zeusz, Poszeidón és Hadész "Útjainak" képzetétől, ahogyan Homérosznál találjuk.  
+> Mezopotámia egyáltalán nem az egyetlen olyan térsége a magaskultúrának, ahol a csillagászok az éggömb hármas felosztásával dolgoztak, még ha el is tekintünk a számunkra állítólag olyan ismerő, – valójában azonban teljességgel ismeretlen – képzettől Zeusz, Poszeidón és Hadész "Útjainak" képzetétől, ahogyan Homérosznál találjuk.  
 > Az indiaiak nagyon hasonló sémát követve osztják fel az eget Utakra (így is hívják őket). És ugyanígy tesznek a polinéziaiak, akik sok részlettel szolgálnak nekünk a három zónához tartozó csillagokról (és arról, hogy melyik bolygó "nemzette" őket); de eddig senki sem tartotta érdemesnek meghallgatni földgolyónk legnagyobb navigátorait; és haladónak kikiáltott korunk egyetlen etnológusa sem tartotta említésre méltónak azt, hogy Polinézia megalitikus "szentélyei" (a maraik) akkor nyerték el a "szentség" ([[T/Taboo\|tabu]]) ma is lenyűgöző állapotát, amikor jelen voltak az "Unu-deszkák"; e faragott Unu-deszkák "Rumia Oszlopait" jelentették, Rumia pedig összevethető "Anu Útjával", amelyen [[A/Antares\|Antares]] töltötte be a "bejárati oszlop" szerepét (a többi "oszloppal" együtt, melyek [[A/Aldebaran\|Aldebaran]], [[S/Spica\|Spica]], [[A/Arcturus\|Arcturus]] és a Columba csillagképből Phaethon).  
 
 Hasonló utakról szó volt másutt, egy internetről szedett csillagászati tankönyvben:  
