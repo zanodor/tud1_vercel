@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flash/","title":"Flash","created":"2024-11-21T18:15","updated":"2026-02-06T23:04"}
+{"dg-publish":true,"permalink":"/F/Flash/","title":"Flash","created":"2024-11-21T18:15","updated":"2026-04-24T09:40"}
 ---
 
 
@@ -16,7 +16,7 @@ Felvillanás, felvillanó fény; pillanat; villant.
 Jankovics Marcell Uránosz és Kronosz harcának leírásakor említi [[I/Ixion\|Ixion]] apjának nevét, Phlegüaszt, mely mivel villámlót jelent, így Zeuszra utalónak volt gondolt.  
 
 [[O/Oláh\|Oláh]] címnél ugye sok mindenről volt szó, hiszen szerettük volna a walesi/vlach/oláh nevet helyre tenni. [[B/Black\|Black]] és [[B/Bleach\|bleach]], valamint [[B/Balog\|Balog]] fogalmainak végigjárása után megállapítottuk, hogy ők is a palóc nyelvből indított íjfeszítő fogalmat hordozzák nevükben, épp ahogy Magyar Adorján fentebb is erre utalt tulajdonképpen.  
-És ami egyszer nyílvessző, másutt hímvessző (fallosz); lám a fenti szavaknak tökéletesen meg is felel a görög `phallos` = hímtag név (lásd [[P/Phallic\|phallosz]]).  
+És ami egyszer nyílvessző, másutt hímvessző (fallosz); lám, a fenti szavaknak tökéletesen meg is felel a görög `phallos` = hímtag név (lásd [[P/Phallic\|phallosz]]).  
 ```plantuml-svg
 @startuml
 left to right direction
@@ -31,6 +31,8 @@ card "Fallosz" as w2
 w1 -- w2 : B=F
 @enduml
 ```
+
+Ugyanakkor a nyíl a levegőben száll, repül, és ha nem a proto-germán \*[fleugan](https://en.wiktionary.org/wiki/Reconstruction:Proto-West_Germanic/fleugan#cite_note-1) = repülni nyomán ered minden fenti szó (ami lehetetlen), akkor a repülni jelentésű IE igék kell eredjenek a (repülő) nyíl fogalmából, ahogy [[F/Fly#Repülő nyílvesszőből való kiindulás\|itt]] is szóba került.  
 
 Még egy dologról kell itt beszélni. Arról, hogy a [[F/Flex\|flex]] szó eredetét adó latin `flectere` = hajlítani szó is azonos a fentiekkel. Azt látjuk tehát, mint más nyelvekben: az [[I/Ív\|ív]] = [[I/Íj\|íj]] összefüggését. Ahol görbe, homorú, hajlást kifejező szavak előkerülnek, ott az íj értelem is meg fog jelenni valahol (aztán ebből továbbmenve az [[E/Éh\|éh]], vágy és szerelem/szexualitás/nemzés, honnan a kutya, továbbá vezetés/Vezér fogalmai, bot, öv és hasonló értelmek; így jönnek létre a magyar utódnyelvek szavai).  
 Téridőbeli helyét tekintve stimmel is, [[L/Lemniszkáta\|lemniszkáta]] és más címnél írottak alapján.  
