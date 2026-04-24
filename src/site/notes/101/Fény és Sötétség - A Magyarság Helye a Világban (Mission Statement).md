@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-04-17T22:48"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","created":"2023-10-04T08:31","updated":"2026-04-24T09:26"}
 ---
 
 
@@ -513,9 +513,9 @@ Mert adódik a kérdés, [[H/Hunor és Magor\|Hunor és Magor]] nevek esetében 
 Minket is meg kelleni érteni, hogy mit akarunk, mi a célunk. Azt mégsem írthatom rá, hogy "sapka."  
 Vagy hagyjuk őket ki az elemzésekből, attól félve, hogy a hatalom megvádol minket bármivel is?  
 
-Már másutt, több helyen is említettem, hogy számomra nem is annyira az a fontos, hogy most legyen megszámolva, hogy mennyi magyar szó mutatható ki az ógörögben, angolban, stb. Inkább az érdekel, milyen nyelvi, fogalmi, és akár ősvallásbeli kapcsolatok, nézetek mutathatók ki belőle, illetve hogy egyáltalán legyen bárminemű összehasonlítás összeírva. Mert ha semmi sincs, nem tudok rá hivatkozni.  
-Ha pl. az óangol `os` = isten szó a mi [[O/Ős\|ős]] szavunkkal való azonosságára felhívom a figyelmet, akkor az ott van, azt már nem lehet figyelmen kívül hagyni.  
-Ha egy szó alakjában és értelmében is azonos vagy rokon, arra nem lehet azt mondani, félresöprendő, főleg, ha az ilyen találatok száma több mint tízezerre rúg.  
+Már másutt, több helyen is említettem, hogy számomra nem is annyira az a fontos, hogy most legyen megszámolva, hogy mennyi magyar szó mutatható ki az ógörögben, angolban, stb. Inkább az érdekel, milyen nyelvi, fogalmi, és akár ősvallásbeli kapcsolatok, nézetek mutathatók ki belőle, illetve hogy egyáltalán legyen bárminemű összehasonlítás összeírva. Mert ha semmi sincs, nem tudok rá hivatkozni.  
+Ha pl. az óangol `os` = isten szó a mi [[O/Ős\|ős]] szavunkkal való azonosságára felhívom a figyelmet, akkor az ott van, azt már nem lehet figyelmen kívül hagyni.  
+Ha egy szó alakjában és értelmében is azonos vagy rokon, arra nem lehet azt mondani, félresöprendő, főleg, ha az ilyen találatok száma több mint tízezerre rúg.  
 Aztán hogy pontosan mi volt az óangol os kifejlődésének útja, hogy közvetlen ős szavunk volt-e, vagy ős szavunk valamely hajlított változatának – us, ász, stb. – módosulata, úgy sem tudjuk meg, de a kapcsolatok legyenek bemutatva.  
 
 #### Az utódnyelvek, kultúrák, vallások tökéletlenségei és hatásai
