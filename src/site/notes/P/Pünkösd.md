@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pünkösd/","title":"Pünkösd","tags":["Englishtexttranslated"],"created":"2024-12-18T11:44","updated":"2026-03-05T01:31"}
+{"dg-publish":true,"permalink":"/P/Pünkösd/","title":"Pünkösd","tags":["Englishtexttranslated"],"created":"2024-12-18T11:44","updated":"2026-04-24T09:35"}
 ---
 
 
@@ -15,9 +15,9 @@ A Szentlélek kiáradásáról vagy a Szentlélek kitöltetéséről Pünkösd �
 
 A hagyományaink egyértelműen arra mutatnak, hogy az Ikrek és a Bika közötti időszak fontos volt.  
 
-#### Bíró Lajos...
+#### Bíró Lajos Táltosok könyve...  
 
-...Táltosok könyvében ([[T/Tejút-kapuk\|Tejút-kapuk]] címnél is szerepelt) is szóba hozza Pünkösdöt, a szentlélek kiáradását, a [[T/Tejút\|Tejút]]ra való kilépés kapcsán a Bika és az Ikrek közti időszakban:
+...című könyvében is szóba hozza Pünkösdöt a szentlélek kiáradását a [[T/Tejút\|Tejút]]ra való kilépés kapcsán a Bika és az Ikrek közti időszakban:  
 > A zodiákus zárt köréből a Tejútra két helyen nyílik kapu: ahol a Tejút a Nappályát metszi: a Bika-Ikrek és a Skorpió-Nyilas határvidékén. Az óhajtott együttállás, amikor az égi Út megnyílik a Föld lakója számára, a Nap, a Hold, a Vénusz és a Tejút találkozását jelenti, az Ikrek és Nyilas havabeli Újhold idejét, amikor még a Vénusz is e jegyekben tartózkodik, ott, ahol a Nap és Hold. (Ilyenkor a Tejút Napos-Holdas égigérő fává lesz).  
 
 [[N/Nap#Napba öltözött asszony\|Napba öltözött asszony]] cím/alcímnél szerepelt Fister Mária Magdolna: Cigléd, a titokzatos Pálos hely című az Ősi Gyökér 2012/1. sz. megjelent cikkében Pünkösd kapcsán, hogy ekkor öltözne Napba, a nyári napforduló idején és hogy ünnepe mindig változó, sohasem esik egybe a nyári napforduló idejével. Hol ide, hol oda kerül az ünnep.  
