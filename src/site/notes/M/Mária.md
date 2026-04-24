@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2026-04-06T16:42"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2026-04-24T09:34"}
 ---
 
 
@@ -56,8 +56,8 @@ Robert Graves White Goddess című könyvében a Háromszoros Istennő a három 
 > Graves's definition of the 'capricious and all-powerful Threefold Goddess' mother, bride and layer-out, or mother, lover, witch – is also applicable to the trio: olive, fig, vine.  
 > —  
 > Graves meghatározása a "szeszélyes és mindenható hármas istennőről" – anya, menyasszony és ki/lefektető, vagy anya, szerető, boszorkány – a hármasra is alkalmazható: olajfa, füge, szőlő.  
-- Ezt a ki/lefektetőt eltemetőjeként fordítottam másutt, hiszen Graves-től ismerjük, hogy az istennő ad életet és veszi el az életét a mitikus hősöknek (a Nap ott hal meg, a Tejútfánál, ahol újra megszületik). 
-Lám, Jézus is fánál hal meg és Máriák közül is Szűz Mária az, aki ott van halálánál. A másik kettő: anyja (akár a Kleofás féle) és szerető Mária Magdolna már ismert. <br/>
+- Ezt a ki/lefektetőt eltemetőjeként fordítottam másutt, hiszen Graves-től ismerjük, hogy az istennő ad életet és veszi el az életét a mitikus hősöknek (a Nap ott hal meg, a Tejútfánál, ahol újra megszületik). 
+Lám, Jézus is fánál hal meg és Máriák közül is Szűz Mária az, aki ott van halálánál. A másik kettő: anyja (akár a Kleofás féle) és szerető Mária Magdolna már ismert. <br/>
 Furcsállom, hogy erre Graves-et nem láttam kitérni.
 
 #### Jankovics Marcell...
@@ -174,7 +174,8 @@ Marha szavunk hihetetlen sok ideában megjelenik.
 A Sirius in Ancient Greek and Roman literature című cikkben fejtegetik, hogy a görög-római mitológia **Maira** nevű (nimfa)alakja Szíriuszra utalóan jön elő. Nos, a maoriknál is Szíriusz neve Mere is, illetve M-R vázú, fényes jelentésű szavakat láttunk bőven. Okunk lehet tehát feltételezni, mivel a [[S/Szuka\|szuka]] a Tejút és a kutya egyben (ahogy [[G/Göd\|Göd]] címnél is ezt taglaltuk), hogy a Mária és a Maira nevek egy és ugyanazok. Ami a cikkből ide tehető:  
 > Sirius in the annual period from its heliacal rising to 22 August was also called 'Maira', a word coming from the ancient Greek verb `marmairo`, which means 'to shine' (Palatine or Greek Anthology, 1917, 9: 55). As a name, Maira (or Maera) therefore became the star-goddess of the scorching dog-star Seirios, whose rising in conjunction with the Sun brought on the scorching heat of midsummer.  
 > —  
-> A Szíriuszt a heliákus kelésétől augusztus 22-ig tartó éves időszakban "Maira"-nak is nevezték, amely szó az ógörög `marmairo` igéből származik, ami azt jelenti, hogy "ragyogni" (Palatinus vagy Görög Antológia, 1917, 9: 55). Maira (vagy Maera) mint név tehát a perzselő kutya-csillag, Seirios csillagistennője lett, akinek a Nappal együtt történő felkelése a nyár közepének perzselő hőségét hozta el.  { #j3fmio}
+> A Szíriuszt a heliákus kelésétől augusztus 22-ig tartó éves időszakban "Maira"-nak is nevezték, amely szó az ógörög `marmairo` igéből származik, ami azt jelenti, hogy "ragyogni" (Palatinus vagy Görög Antológia, 1917, 9: 55). Maira (vagy Maera) mint név tehát a perzselő kutya-csillag, Seirios csillagistennője lett, akinek a Nappal együtt történő felkelése a nyár közepének perzselő hőségét hozta el.  { #j3fmio}
+
 
 
 [[E/Eire\|Eire]] címnél felemlítettük, hogy mi lenne, ha Mária nem a [[M/Marha\|marha]] szavunkból eredne mégsem, hanem az "[[A/Árja\|árja]]" (levegő) ajakhang-előtételezése lenne. Illetve valójában pont arról volt szó, hogy mi lenne, ha a Mária lenne a kiinduló oda.  
