@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szláv mitológia/","title":"Szláv mitológia","tags":["Englishtexttranslated"],"created":"2025-09-28T20:49","updated":"2025-09-28T20:50"}
+{"dg-publish":true,"permalink":"/S/Szláv mitológia/","title":"Szláv mitológia","tags":["Englishtexttranslated"],"created":"2025-09-28T20:49","updated":"2026-04-24T09:38"}
 ---
 
 
@@ -24,7 +24,7 @@ Khors, az ószláv mitológia egyik (fő(bb)) istene, kiről Grandpierre Atilla 
 
 [[F/Fekete napistenek\|Fekete napistenek]] címnél is volt szó a [[K/Khors\|Khors]] és Chernobog[^1] nevekről és az azon nevek kapcsán tárgyalt [[K/Krishna\|Krishná]]ról; szóba került fekete értelmük.  
 
-Szergej Tokarev folyatja:  
+Szergej Tokarev folytatja:  
 > Apparently there was also an earth goddess cult, although it has not been identified by observation.  
 > It is possible that the thunder god Perun[^2] was connected with agriculture; later it became a princely god in ancient Rus. The guardian of animal husbandry was Veles (Volos), the god of cattle.  
 > The female god Mokosh mentioned in Russian sources was quite interesting. Nearly the only female image in the ancient eastern Slavic pantheon, it was the only god whose name was preserved among the people to this day. Mokosh was the patron goddess of female chores, spinning and weaving.  
