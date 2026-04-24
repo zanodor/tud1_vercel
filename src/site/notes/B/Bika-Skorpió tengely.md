@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bika-Skorpió tengely/","title":"Bika-Skorpió tengely","created":"2025-03-24T18:04","updated":"2025-03-24T18:05"}
+{"dg-publish":true,"permalink":"/B/Bika-Skorpió tengely/","title":"Bika-Skorpió tengely","created":"2025-03-24T18:04","updated":"2026-04-24T09:41"}
 ---
 
 
@@ -11,10 +11,10 @@ Azt is írja, hogy a "világos" fél ívet a "sötéttől" a Bika-Skorpió tenge
 #### Jankovics Marcell írja:
 
 > Az Égigérő fa típusú mesékben a fa a Tejutat szimbolizálja, mely ezen a Bika-Skorpió tengelyen nyugszik illetve látszik meghúzódni.  
-- Lásd képeket [[T/Tejút-kapuk\|Tejút-kapuk]].
+- Lásd képeket [[T/Tejút-kapuk\|Tejút-kapuk]] és [[T/Tejút a zodiákusban\|Tejút a zodiákusban]].
 
 Pálfi Ágnes József Attila költészete és a nagy Nap-év című Ősi Gyökér 2006/2. sz. megjelent cikkében szintén Jankovics Marcell A fa mitológiájára hivatkozva írja, hogy i.e. 4320-2160 között a Bika-Skorpió tengely még a Tejút mentén húzódott. Írja még szintén lábjegyzetben, hogy a [[P/Precesszió\|precesszió]]s elmozdulás folytán a világfa, azaz a [[T/Tejút\|Tejút]] Jézus születésekor már a [[B/Bak-Rák tengely\|Bak-Rák tengely]] mentén húzódik.  
 Még korábban magyarázatként Pap Gábor Csak tiszta forrásból (adalékok Bartók Cantata profanájának értelmezéséhez) című munkájában leírt(?) adat alapján írta, hogy a Tejúttal azonosítható [[E/Életfa\|életfa]] Krisztus születésekor a Bak nullpontján metszette az ekliptikát. Ma, kétezer év elteltével a **csillagképek precessziós "elcsúszása"** folytán egyre inkább a Vízöntőhöz közeledve "ér földet". Így Jézus testet öltése a kis-évkörben a téli napfordulóról fokozatosan a Bak havának Bika, illetve Szűz [[D/Dekanátus\|dekanátus]]ába tolódik át, mígnem, elérve a Vízöntőt, a Megváltó kis-évköri újjászületése drámai fordulópontjához érkezik: erre utal a Jelenések könyve, amely a Vízöntő Mérlegében Krisztus második eljövetelét ígéri. Ezzel a kozmikus konstellációval magyarázható az emberiség elmúlt évezredeinek korszakváltóira – a nagy Nap-év fix keresztjére – való spirituális ráhangolódás.  
-Lásd még (helyre téve(?) mindent) [[T/Tejút\|Tejút]] címnél legalul új alcímnél szereplő adatokat.  
+Lásd még [[T/Tejút\|Tejút]] címnél legalul új alcímnél szereplő adatokat.  
 
 Bakos Attila A Duna Evangéliuma című könyvének 102-103. oldalán a [[G/Gilgames\|Gilgames]] eposz asztrálmítoszi értelmezésének Bika-Skorpió tengelyre vonatkozó részét Arany Toldijának bikaviadalával hasonlítva azt írja, hogy az érzékein uralkodni képes hősök példázatáról van szó.  
