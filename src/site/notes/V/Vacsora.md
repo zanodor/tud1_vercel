@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vacsora/","title":"Vacsora","tags":["titleandheadingonedontmatch"],"created":"2024-03-04T16:35","updated":"2025-10-31T16:05"}
+{"dg-publish":true,"permalink":"/V/Vacsora/","title":"Vacsora","tags":["titleandheadingonedontmatch"],"created":"2024-03-04T16:35","updated":"2026-04-24T09:40"}
 ---
 
 
@@ -16,7 +16,7 @@
 Egyébként a tízórai és ötórai (tea) elnevezésében is megtalálható az időpont (a reggeli önmagáért beszél, míg az [[E/Ebéd\|ebéd]] nyilván – nálunk – délre utal).  
 Lásd még [[V/VACS\|VACS]].  
 
-A `vacsoracsillag` népies kifejezés, aminek a jelentése esthajnalcsillag, Vénusz.  
+A `vacsoracsillag` népies kifejezés, aminek a jelentése esthajnalcsillag, Vénusz.  
 Nyilván a keresett szavunknak nincs közvetlen kapcsolata a Vénusszal.  
 
 ## Alternatív értelmezése
