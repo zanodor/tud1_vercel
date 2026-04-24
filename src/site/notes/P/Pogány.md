@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2025-10-10T21:53"}
+{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2026-04-24T09:35"}
 ---
 
 
@@ -116,7 +116,7 @@ A francia [[P/Pays\|pays]] szónál is előjött.
 
 Finn nyelvben hallottam ki a `pahan` szót, melyről kiderült, hogy már ragozott alak lenne.  
 [Ezen](https://www.wordsense.eu/paha/#Finnish) oldalon persze germán eredetet vallanak:  
-> Possibly from Proto-Germanic \*bāǥa-. Compare Old Norse `bágr` ("difficult").  
+> Possibly from Proto-Germanic \*bāǥa-. Compare Old Norse `bágr` ("difficult").  
 > —  
 > Valószínűleg a protogermán \*bāǥa-ból. Vö. ónorvég `bágr` ("nehéz").  
 - Valójában a [[P/Pohjola\|Pohjola]] címnél írottak alapján kell figyelni rá.
