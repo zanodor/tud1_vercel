@@ -1,16 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2024-05-14T11:45","updated":"2026-04-06T16:43"}
+{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2024-05-14T11:45","updated":"2026-04-24T09:37"}
 ---
 
 
 # Nosztratikus nyelvcsalád
 
-![Nosztratikus nyelvcsalád_image20260406002327946.jpeg](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260406002327946.jpeg){ #uyumdd}
+![Nosztratikus nyelvcsalád_image20260406002327946.jpeg](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260406002327946.jpeg){ #uyumdd}
+
 
 
 A közös ősnyelv ([nosztratikus nyelvcsalád](https://hu.wikipedia.org/wiki/Nosztratikus_nyelvcsal%C3%A1d)) elmélet hirdetői szerint az uráli, dravida, altaji, indoeurópai és afroázsiai nyelvek távoli unokatestvérek.  
 A Wiki oldalon szereplő mondat...
->  Az elméletet a nyelvészek többsége erősen vitatja, habár statisztikai érvek szólnak a makrocsaládok koncepciójának helyessége mellett.
+>  Az elméletet a nyelvészek többsége erősen vitatja, habár statisztikai érvek szólnak a makrocsaládok koncepciójának helyessége mellett.
 
 ...kapcsán jegyezzük meg:  
 > [!fail] &nbsp;
@@ -49,23 +50,23 @@ Merritt Ruhlen [weboldalán](https://archive.ph/v7VJH) írja:
 > [!details]- &nbsp;
 > > ### Proto-World Language Hypothesis: The Search for the Common Ancestor of All Human Languages
 > > 
-> > Imagine if all the world's languages, from Mandarin to Zulu, English to Quechua, could be traced back to a single ancestor. This is the fascinating idea behind the Proto-World language hypothesis. 
+> > Imagine if all the world's languages, from Mandarin to Zulu, English to Quechua, could be traced back to a single ancestor. This is the fascinating idea behind the Proto-World language hypothesis. 
 > > 
 > > This theory suggests that every language spoken today—more than 7,000 of them—shares a common origin, a mother tongue from which all human speech descends. Although this theory seems like something from a science fiction book, linguists have been fascinated by it for decades since it is a valid conjecture.
 > > 
 > > #### What Is the Proto-World Language Hypothesis?
 > > 
-> > The Proto-World language hypothesis proposes that all the languages spoken by humans today are the result of a long evolutionary process stemming from a single original language, often called "Proto-World" or "Mother Tongue." 
+> > The Proto-World language hypothesis proposes that all the languages spoken by humans today are the result of a long evolutionary process stemming from a single original language, often called "Proto-World" or "Mother Tongue." 
 > > 
 > > According to this theory, this original language was spoken by the first humans, possibly tens of thousands of years ago. Over time, as humans migrated, settled in different regions, and faced various social and environmental challenges, this Proto-World language diversified and branched out into the many languages we know today.
 > > 
-> > But how did this diversification happen? To understand this, linguists use two main approaches: **genetic classification** and **typological classification**.
+> > But how did this diversification happen? To understand this, linguists use two main approaches: **genetic classification** and **typological classification**.
 > > 
 > > #### Genetic Classification: Tracing Language Families
 > > 
 > > Genetic classification looks at the "family tree" of languages. Just like a family tree shows how different members are related to one another through their ancestors, a language family tree shows how different languages are related through a common origin. For example, the Romance languages (like Spanish, French, and Italian) all evolved from Latin, and thus belong to the same family.
 > > 
-> > Linguists apply genetic classification on a much larger scale to identify potential connections between all human languages. They compare the grammar, vocabulary, and sound systems of languages worldwide to look for patterns that might suggest a common ancestry. 
+> > Linguists apply genetic classification on a much larger scale to identify potential connections between all human languages. They compare the grammar, vocabulary, and sound systems of languages worldwide to look for patterns that might suggest a common ancestry. 
 > > 
 > > This can reveal surprising connections: for instance, similarities between languages spoken by indigenous peoples in North America and languages spoken in Asia have led some to propose a distant common origin, dating back to when humans first migrated to the Americas.
 > > 
@@ -175,7 +176,8 @@ Merritt Ruhlen [weboldalán](https://archive.ph/v7VJH) írja:
 > > 1\. Kulturális megértés
 > > 2\. Tudományos kíváncsiság
 > > 
-> > A proto-világnyelv gondolata — akár bizonyítható, akár nem — az emberiség közös gyökreire és nyelvi sokszínűségére emlékeztet.{ #t7gzqr}
+> > A proto-világnyelv gondolata — akár bizonyítható, akár nem — az emberiség közös gyökreire és nyelvi sokszínűségére emlékeztet.{ #t7gzqr}
+
 
 
 #### Nagyernyei Szabó Zoltán...
