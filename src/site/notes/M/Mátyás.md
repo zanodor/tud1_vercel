@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mátyás/","title":"Mátyás","created":"2023-11-17T07:56","updated":"2026-03-05T01:33"}
+{"dg-publish":true,"permalink":"/M/Mátyás/","title":"Mátyás","created":"2023-11-17T07:56","updated":"2026-04-24T09:36"}
 ---
 
 
@@ -69,8 +69,8 @@ A Habsburgoknak érdekében állt megölése. Ahogy [ezen](https://szekelyhon.ro
 #### Lupescu Radu...
 
 ...román művészettörténész felhívja a figyelmet:  
-> Mátyás a korona visszaszerzése előtt III. Frigyes császárral kötött egy szerződést. Többek között a szerződésben az szerepelt, hogy amennyiben Mátyás örökös nélkül fog meghalni, az ország átháramlik a Habsburgokra.  
-> Ez nagyon komoly és felelősségteljes vállalása volt Mátyásnak, de bizonyára olyan nagy hangsúlyt nem fektetett rá, hiszen még fiatal volt; elképzelni sem tudta azt, hogy ne szülessen meg a trónörökös. Bevállalta ezt a tételt is a szerződésbe, na de viszont egy évvel később, hogy megkötötték a szerződést, máris meghalt az első felesége.  
+> Mátyás a korona visszaszerzése előtt III. Frigyes császárral kötött egy szerződést. Többek között a szerződésben az szerepelt, hogy amennyiben Mátyás örökös nélkül fog meghalni, az ország átháramlik a Habsburgokra.  
+> Ez nagyon komoly és felelősségteljes vállalása volt Mátyásnak, de bizonyára olyan nagy hangsúlyt nem fektetett rá, hiszen még fiatal volt; elképzelni sem tudta azt, hogy ne szülessen meg a trónörökös. Bevállalta ezt a tételt is a szerződésbe, na de viszont egy évvel később, hogy megkötötték a szerződést, máris meghalt az első felesége.  
 
 #### Kubínyi Tamás...
 
