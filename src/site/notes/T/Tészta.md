@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tészta/","title":"Tészta","created":"2025-03-14T01:45","updated":"2025-05-30T23:44"}
+{"dg-publish":true,"permalink":"/T/Tészta/","title":"Tészta","created":"2025-03-14T01:45","updated":"2026-04-24T09:40"}
 ---
 
 
@@ -21,9 +21,10 @@ Másutt:
 #### Jankovics Marcell...
 
 ..."Isten napkorong alakú kenyérteste" kifejezése is érdekes:  
-> Pogány templomokban az oltár a napisten földi "nyughelye" volt[^1], az a hely, ahol egy kitüntetett pillanatban a napfény megpihen. A katolikus templomok oltárait két dolog szentelte meg igazán: valamilyen, lehetőleg magától Krisztustól származó ereklye és az oltár tabernaculumában őrzött oltári szentség, Isten napkorong alakú kenyérteste. Az égen is látható egy "Oltár", az Ara (lat. "Áldozati asztal") csillagkép, mely a Tejút déli szakaszán látható, ott, ahol a Nap télen, "áldozata" idején tartózkodik.
+> Pogány templomokban az oltár a napisten földi "nyughelye" volt, az a hely, ahol egy kitüntetett pillanatban a napfény megpihen. A katolikus templomok oltárait két dolog szentelte meg igazán: valamilyen, lehetőleg magától Krisztustól származó ereklye és az oltár tabernaculumában őrzött oltári szentség, Isten napkorong alakú kenyérteste. Az égen is látható egy "Oltár", az Ara (lat. "Áldozati asztal") csillagkép, mely a Tejút déli szakaszán látható, ott, ahol a Nap télen, "áldozata" idején tartózkodik.
 { #2o3pty}
 
+- [[D/Dolmen\|Dolmen]] címnél Száraz György épp erről szólt.
 
 #### Magyar Adorján írja:
 
