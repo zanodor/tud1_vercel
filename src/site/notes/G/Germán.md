@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Germán/","title":"Germán","tags":["Englishtexttranslated"],"created":"2024-10-31T22:47","updated":"2026-03-05T01:31"}
+{"dg-publish":true,"permalink":"/G/Germán/","title":"Germán","tags":["Englishtexttranslated"],"created":"2024-10-31T22:47","updated":"2026-04-24T09:35"}
 ---
 
 
@@ -28,7 +28,7 @@ Némileg hiányolom, hogy...
 > Ezekkel ellentétben a régi germánok Mennyországa a Walhalla, ahová csak a harcban elesettek lelkei jutnak el. Ezek ott minden reggel egymás ellen vad harcra kelnek ("wilden Kampfe gegeneinander". Meyers Lexikon. Wien, 1897.) de délig sebeik begyógyulnak, miután Odin főisten asztalához lakormára gyűlnek, ahol a Sährimnir regebeli vadkan szalonnáját eszik és méhsört isznak.  
 > Teljesen egyezik mindez azzal amit Tacitus "Germania"-jában ír a germánokról. E műve IX. pontja alatt írja hogy bizonyos napokon emberáldozatokat ölnek isteneiknek. A XIV. pont alatt, hogy a földet nem szívesen művelik, jobban szeretik a harcot, sőt lustának, gyöngének tekintik azt aki munkával szerezi meg azt amit vérrel is megszerezhetne.  
 > (Értsed tehát, hogy megvetik azt aki nem rablásból hanem munkából él.) A XVII. pont alatt azt írja hogy ruhát csak a gazdagok viselnek, a többinek csak palástja van de egyébként meztelen és hogy egész nap a tűz mellett melegedve henyélnek. A XXII. pont alatt mondja hogy náluk az éjjel-nappal való iszákoskodás nem hiba, valamint hogy a részegek gyakori összezördülései ritkán végződnek máskép mint sebesüléssel és öldökléssel. A XXIII. pont alatt pedig azon véleményét fejezi ki hogy ha adnának nekik annyi italt amennyit kívánnak, könnyebben volnának legyőzhetők mint fegyverrel.  
-> Hogypedig itt mindenesetre az igazi régi germánokról van szó, nem pedig a szintén északi tájakon is élő finn-ugor azaz magyari fajta népekről \[keltákat is említhette volna\], azt Tacitus e műve elején lévő IV. pontjából látjuk amelyben írja hogy a germánoknak sötét tekintetű (értsed: mélyen ülő) kék szemük, vörös hajuk, nagy testük van és hogy csak erőszakosságra valók de munkára képtelenek. Ezzel szemben tudjuk hogy az összes finn-ugor fajta népek, miként a magyarok is: közép- vagy kistermetűek, szemük bár kék de nem mélyen ülő, hajuk pedig sohasem vörös, hanem lenszőke és hogy mindnyájan békés természetű, szorgalmas, dolgos és kitartó földművelők.  
+> Hogypedig itt mindenesetre az igazi régi germánokról van szó, nem pedig a szintén északi tájakon is élő finn-ugor azaz magyari fajta népekről, azt Tacitus e műve elején lévő IV. pontjából látjuk amelyben írja hogy a germánoknak sötét tekintetű (értsed: mélyen ülő) kék szemük, vörös hajuk, nagy testük van és hogy csak erőszakosságra valók de munkára képtelenek. Ezzel szemben tudjuk hogy az összes finn-ugor fajta népek, miként a magyarok is: közép- vagy kistermetűek, szemük bár kék de nem mélyen ülő, hajuk pedig sohasem vörös, hanem lenszőke és hogy mindnyájan békés természetű, szorgalmas, dolgos és kitartó földművelők.  
 > Ma már tudjuk azt is hogy e népeket a germánok többnyire leigázták, a maguk számára dolgoztatták, nyelvüket is reájuk kényszerítették de hogy ma Németországban már ezek képezik a német nép többségét míg az igazi germánság, épen munkára képtelen volta miatt, számbelileg folyton fogy vagyis kihal. Svédország őslakossága is finn-ugor volt, amelyet azonban az oda behatoló harcias germánok leigáztak, az ellenállókat pedig a hegységek közé üldözték, ahol Közép-Svédországban még 1890-ben is 19.500-an voltak, míg az ország északibb részeiben lappok is élnek (Meyers Lexikon Leipzig-Wien 1897. "Schweden." 717. oldal.) Ma Svédországban a germánok többségében vannak ugyan, de Nytröm német antropologus szerint inkább csak az alacsonyabb néprétegekben, míg a felsőbb osztályokban mindinkább terjed az őslakos elem. Ezek ma is svédül beszélnek ugyan és magukat svédeknek hiszik, a tudomány haladásával azonban a valóság mindinkább kiderül, valamint ki fog derülni az is hogy a magyar nyelv a germán nyelveknél menyire fejlettebb, célszerűbb és kifejezésképesebb.  
 
 [Ezen](https://youtu.be/A8x7ECr5vbg) Ne Legyen Áldozatos videóban 10:30-nál Pap Gábor azt meséli, hogy a német Jancsi és Juliska című meséről (németek, magukról!) kimutatták, hogy a ma közkézen forgó változata nem eredeti (volt is miért az eredetit elhallgatni), mert az eredeti úgy kezdődött, hogy Jancsit és Juliskát szülei megették és hogy ennek valós történelmi háttere van, ugyanis a Harmincéves háborúban nagy volt az éhség. Nálunk effélének nyoma sincs.  
@@ -69,7 +69,7 @@ Ugye az utóbbi időben a [[H/Hunger\|hunger]]/[[H/Hungár\|hungár]] és [[K/Kh
 
 Mindezen fentiek alapján a germán testvér értelme az Ikrekre vonatkozik és Úr-Man, vagy a Men Ura a megfejtés, de ez nem magyarázza meg a germán nép értelmét, ha csak nem a latinok bennük (az avar-hun sötét hajúakban) valóban testvérüket látták.  
 
-Kell itt még szólni arról, hogy érdekes véletlen, hogy a franciák alemannak hívják a németeket, és azzal magyarázzák, hogy a germán törzsek közül ezek voltak a legközelebb hozzájuk. Igen ám, de az aleman név teljesen megfelel a fentebb említett előhang nélküli orman szónak. Könnyen lehet, hogy a latinba hehezetesen jutott el a név, mely abból g-előhangos lett és ma ezt veszik alapul úgy, hogy a [[L/Latin nyelv\|latin nyelv]]ről korábban megállapítottam, hogy recorder nyelv, nem létrehozó. Ergo egyáltalán nem úgy tűnik, hogy a Péterfai János által is vakon elfogadott (Péterfai hibái közül egyik ez: nem megfelelő/eredeti névalakok magyar nyelvből magyarázata) germán névalak elemzendő.  
+Kell itt még szólni arról, hogy érdekes véletlen, hogy a franciák alemannak hívják a németeket, és azzal magyarázzák, hogy a germán törzsek közül ezek voltak a legközelebb hozzájuk. Igen ám, de az aleman név teljesen megfelel a fentebb említett előhang nélküli orman szónak. Könnyen lehet, hogy a latinba hehezetesen jutott el a név, mely abból g-előhangos lett és ma ezt veszik alapul úgy, hogy a [[L/Latin nyelv\|latin nyelv]]ről korábban megállapítottam, hogy feljegyző nyelv, nem létrehozó. Ergo egyáltalán nem úgy tűnik, hogy a Péterfai János által is vakon elfogadott germán névalak elemzendő.  
 Az is érdekes, hogy a [[N/Német\|német]] névvel kapcsolatba hozott [[N/Nemeton\|Nemeton]] is erdő, ahogy orman is, de a teuton név is égi leszármazásra utal.  
 Innentől kezdve kimondható, hogy az [[O/Örmény\|örmény]] névvel azonos névvel van dolgunk.  
 
@@ -84,10 +84,11 @@ Itt még tegyük hozzá, hogy Götz László Keleten kél a Nap című könyvén
 > A germánok eredete a magyarokhoz köthető. Több évezred fejlődése alatt a népesség nyelve változott, germánná fejlődött. Kr.e. 5.000-től egészen 1.500-ig tartott a változás, amióta germán nyelvről beszélhetünk. Az írás, nagyon fura, de csak Kr.e. 300 környékén jelent meg a germánok között, a rúna minden betűje magyar eredetű, a rovásírásból való, amint azt bizonyította Varga Ferenc íráskutató. A germán betűk fele azonos jelentésű a magyar betűkkel, másik fele más jelentésű. Vajon mi ennek az oka?  
 - Péterfai azt írja, hogy a [[F/Finnugor nyelvek\|finnugor nyelvek]] korábbiak. Ami a germán nyelvek ősiségét illeti, volt olyan elképzelésem, hogy régebbiek is lehetnek, mint a szanszkrit.
 
-[Ezen](https://www.quora.com/answer/Eugene-Holman?ch=15&oid=81057) Eugene Holman nevű Helsinkiben is ténykedő nyelvész egész hasznos információt közöl (a másutt pidgin és pidginizáció kifejezésekkel leírt jelenséget itt kreolnak írja):  
+[Ezen](https://qr.ae/pFNT6H) Quora válaszban Eugene Holman nevű Helsinkiben is ténykedő nyelvész egész hasznos információt közöl (a másutt pidzsinizáció kifejezéssel leírt jelenséget itt kreolnak írja):  
 > The Finnish linguist Kalevi Wiik suggested that Proto-Germanic may have arisen in what is now Poland as a Finno-Ugric-Indo-European contact or trade jargon that eventually became a creole. Be that as it may, there is clear evidence of substrate influence in Proto-Germanic, but so is there also in the other branches of Indo-European.  
 > —  
 > Kalevi Wiik finn nyelvész azt javasolta, hogy a protogermán nyelv a mai Lengyelország területén keletkezhetett finnugor-indoeurópai érintkezésként vagy kereskedelmi szakzsargonként, amely végül kreol nyelvvé vált. Akárhogy is van, a protogermánban egyértelmű bizonyíték van a szubsztrátum hatására, de ugyanígy az indoeurópai nyelv többi ágában is.  
+- Onnan Litvánia már nincs messze és az ő nyelvüket tartják a proto-indoeurópaihoz legközelebb álló nyelvnek.
 
 ### Germán nyelvek romanizálódása
 
@@ -96,7 +97,7 @@ Az óangol szolgát jelentő szavak a `þeow` (a `þeowian` "szolgálni" szóval
 
 ## Germánia mint nőalak
 
-[[H/Hungária\|Hungária]], [[I/Izrael\|Izrael]], Armenia (lásd [[O/Örmény\|örmény]]) kapcsán volt szó nőiségi istennőkről illetve ahhoz kapcsolt égi és onnan földre vetített területekről.  
+[[H/Hungária\|Hungária]], [[I/Izrael\|Izrael]] és Armenia (lásd [[O/Örmény\|örmény]]) kapcsán volt szó nőiségi istennőkről illetve ahhoz kapcsolt égi és onnan földre vetített területekről.  
 Magyar Adorján Ősműveltségéből kiderül, hogy régebbi németországi bélyegeken a Németországot megszemélyesítő Germania nőalak mellén is fémből való emlővédők ábrázolvák.  
 Mihez tegyük hozzá, hogy Deutschland azóta – himnuszuk alapján is – Vaterland.  
 
@@ -105,15 +106,15 @@ Mihez tegyük hozzá, hogy Deutschland azóta – himnuszuk alapján is – Vate
 #### Csihák György Népnevekről...
 
 ...című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXIX./1. sz. megjelent cikkében írja:  
-> A german nagy nép – csakhogy ilyen sincs. Csak a római irodalom szerint volt. A római vezéreknek írásban kellett jelenteniök, a latin jól ismert nyelv, számos irat máig hozzáférhető. Sok római sokat hadakozott a germánokkal, ezért voltak – és vannak. Van germanológia, german mitológia, germanisztika. Éppen csak germánok nincsenek. Hová lettek? Mert ma van magyarul: német. Hát ez meg mi? Van Deutschland. Ez ma Németország. De hol vannak a germánok? Mert Németországban van egy sor szövetséges köztársaság, többnyire nemzeti alapon. Így van Bajorország, Türingia, Szászország, Svábország, Poroszország és még van ott egy sor ország. Van Franciaország – szintén a german frank népé. Vannak angolszászok is. De se germán törzs, se germán ország nincs. Bizony, ez is csak egy név – volt. A Duden szerint **a `german` egy kelta-latin szó**. Tehát ők nevezték így őket.  
-> Strabón (könyvét írta Kr. után kb. 18-23 között) térképén a kelták fölött volt Germania, könyvében legalább húsz alkalommal említi. Kemény harcosok voltak, - erről a rómaiak eleget panaszkodtak, - de még Kr. után egy-két száz évvel is maguk húzta kétkerekű kocsival jártak – amikor a keltáknak már négykerekű és elől forduló tengelyű kocsijaik voltak.  
+> A german nagy nép – csakhogy ilyen sincs. Csak a római irodalom szerint volt. A római vezéreknek írásban kellett jelenteniök, a latin jól ismert nyelv, számos irat máig hozzáférhető. Sok római sokat hadakozott a germánokkal, ezért voltak – és vannak. Van germanológia, [[G/Germán mitológia\|germán mitológia]], germanisztika. Éppen csak germánok nincsenek. Hová lettek? Mert ma van magyarul: német. Hát ez meg mi? Van Deutschland. Ez ma Németország. De hol vannak a germánok? Mert Németországban van egy sor szövetséges köztársaság, többnyire nemzeti alapon. Így van Bajorország, Türingia, Szászország, Svábország, Poroszország és még van ott egy sor ország. Van Franciaország – szintén a germán frank népé. Vannak angolszászok is. De se germán törzs, se germán ország nincs. Bizony, ez is csak egy név – volt. A Duden szerint **a `german` egy kelta-latin szó**. Tehát ők nevezték így őket.  
+> Strabón (könyvét írta Kr. után kb. 18-23 között) térképén a kelták fölött volt Germania, könyvében legalább húsz alkalommal említi. Kemény harcosok voltak – erről a rómaiak eleget panaszkodtak –, de még Kr. után egy-két száz évvel is maguk húzta kétkerekű kocsival jártak – amikor a keltáknak már négykerekű és elől forduló tengelyű kocsijaik voltak.  
 > A többféle germán államocskának Európa földjén először a Kr. utáni 19. század végén sikerült egységes és tartósan fennálló államot alapítaniuk. A german szóban felfedezhetjük a "man" szócskát, ami nyelvükben férfi, de általános alanyként "ember" értelemben is használja a mai nyelvük. Marad a ger- szócska, amire, ha alkalmazzuk a nyelvtudomány azon megállapítását, hogy a magánhangzó változhat, akkor rokoníthatjuk a fent elemzett gar- szóval. A magyarban is van ló-lu, ember-embör stb. változat. Ezzel az elemzéssel lehet a german egy olyan kelta szó, ami embercsoportot jelent. Tehát ismét egy népcsoport neve, amelyben nincs egy germán nevű népcsoport, de van számos saját népnévvel rendelkező több embercsoport – amelynek az összefoglaló neve a german.  
 
 Én kelta-spanyol (birodalmi latin nyelvbe utóbb felvett) szóra gondoltam, mondván, vagy a gót rokonságra utal, vagy még a kelták neve lehetett és a ma germánokként ismert népre ragadt.  
 
 
 
-Nyelvi szempontból viszont nagyon is van germán/német jelleg, melyről [ezen](https://qr.ae/pv6LT9) (föníciai vonalat nem említő) Quora válaszban írtam (mely az [[A/Árja\|árja]] címnél lévő Götz passzushoz tehető):  
+Nyelvi szempontból viszont nagyon is van germán/német jelleg, melyről [ezen](https://qr.ae/pv6LT9) (föníciai vonalat nem említő) Quora válaszban írtam:  
 > Were the Huns a Germanic tribe? If not what makes Germanic Germanic? What are the characteristics of Germanic people in the medieval era?  
 > Not much is known of the Germanic Urheimat, at least not much by Academia (there is a reason for that too: Germans were Judeo-Christianized and receive a pro-Roman education, same as everyone else).  
 >
@@ -140,10 +141,20 @@ Nyelvi szempontból viszont nagyon is van germán/német jelleg, melyről [ezen]
 >
 > A pánszláv, Hitler-ellenes, mindenféle zsidó-sátánista törekvés a németek háttérbe szorítására (különösen a lengyelek/lengyel zsidók részéről?) egyszerűen téves, mivel ezek a németek nem voltak szlávok. A szlávok tulajdonképpen a saját eredetükkel kapcsolatban is elég homályosak (más hunokon keresztül közösek az őseik). Minden identitásválság akadályozza azt a nagyon is szükséges erőfeszítést, hogy egységesen lépjünk fel a Sátán és uzsorás csatlósaik munkálkodása ellen jelenleg Európában.  
 
-## Germán specifikus szép jelleg
-
-A sötét hajúak közül a magyar Madaras Norbert, a német Modern Talking énekes Thomas Anders, a svájci volt teniszező Roger Federer, a szintén svájci foci kapus Sommer, Rasmus Lauge dán kézilabdázó, Wout van Aert belga kerékpáros, Toto Wolff F1-es csapatfőnök képviseli azt a fajtát (lásd még pl. Siegfried Mazet), ami nem török/iráni jelleg, és nem is a kelta-briton, hanem úgy tűnik, ez a magyar-avar-hun sötét pigmentációjú fajta, nyilván negroid elemekkel?  
-  
-
 Jegyezzük itt meg a [[B/Bajor\|bajor]] címnél álló Götz Lászlótól származó sorokat is:  
 > A bajorok valóban az Attila halála utáni Pannónia népötvözetéből kerültek nyugatra, s igen jelentős hun-török elemet foglalnak magukba.  
+
+## Germánok Európában (hivatalos nézet)
+
+Az iménti cikkhez annyit tennék hozzá, hogy a németek sem véletlenül ünneplik meg, hogy Atilla hozta be őket Európába és az uralkodó elit nyelve biztosan az említett terület környékéről kell való legyen.  
+
+Akkor kik voltak a Tacitus Germania-jában is említett, Csihák által sem (idegenekként) értékelt népek?  
+
+*A tudományos (régészeti) álláspont*
+
+A történettudomány szerint a germán népek kialakulása és elterjedése egy hosszú folyamat volt:  
+- **Jastorf-kultúra (i. e. 6. sz. – i. e. 1. sz.):** Ez a vaskori kultúra tekinthető a germánság bölcsőjének (Észak-Németország és Jütland).
+- **Délre nyomulás:** Az i. e. 2. században kezdtek el dél felé mozogni (kimberek, teutonok), kiszorítva vagy beolvasztva az ott élő kelta törzseket.
+- **Tacitus kora (i. sz. 1. sz.):** Ekkorra már a Rajna és az Elba közötti térség urai. Tacitus tehát egy viszonylag „friss”, expanzióban lévő népmozgást rögzített.
+
+  
