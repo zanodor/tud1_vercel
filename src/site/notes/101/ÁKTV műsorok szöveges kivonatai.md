@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-05-01T22:30"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-05-02T00:08"}
 ---
 
 
@@ -10,7 +10,7 @@
 > [!attention] &nbsp;
 > A teljes Tudástár weboldal megfelelő használata érdekében a Firefox böngészőt és a videók zavartalan, hirdetésmentes eléréséhez javaslom az ezen böngészőre telepíthető [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) bővítményt használni (Videa, Rumble, YouTube és más platformok videóihoz is jó). (A Chrome jelenleg ezt a bővítményt nem engedi telepíteni.)
 > 
-> Mivel az archive.ph-s linkek **2026. április végétől** csak feladványok után engednek tovább a videók egyes részeinek megtekintéseihez, innentől csak archiválás szempontjából érdekesek; **a Share Note-os linkeket kell használni** az olvasáshoz és az időbélyegre kattintásokkal való kalauzoláshoz.
+> Mivel az archive.ph-s linkek **2026. április végétől?** bizonyos böngészőkben vagy böngésző beállításoknál csak feladványok után engednek tovább a videók egyes részeinek megtekintéseihez, innentől leginkább csak archiválás szempontjából érdekesek; érdemesebb **a Share Note-os linkeket kell használni** az olvasáshoz és az időbélyegre kattintásokkal való kalauzoláshoz.
 
  > [!info]- <span style="font-weight:normal"><small> Kattintsd e sorra vagy oldalt a fülecskére további megjegyzésekért!</small></span> &nbsp;
 > <small>**Megjegyzés**: A mesterséges intelligencia Google Geminis összefoglalói a Google (YouTube) által automatikusan rendelkezésre bocsátott feliratozás alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli problémák, melyek mindegyikét nem veszem észre, hogy javíthassam. Kisbetűs vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag", "az előadó szerint", amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattintva ellenőrizni a videón, hogy mi szerepelt az eredeti hang- ill. képanyagban.</small>
