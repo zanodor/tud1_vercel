@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2026-03-19T17:52"}
+{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2026-05-04T18:05"}
 ---
 
 
@@ -23,7 +23,7 @@ Nem tartom kizártnak, hogy a tantra név is a [[T/Tündér\|tündér]] szavunkb
 ...című cikkében is írja:  
 > A nagybetűs Történelem, csalfa módon megtagadta elsőszülöttjét, a minden kezdet előtti matriarchátusi őskultúrát. Hatalmi érdekek szolgálatába szegődve szemérmesen hallgat az ismereti ellenpólusul szolgáló Ősanyák koráról, mert beszámítása teljes mértékben átírná a fejlődés menetét. Persze, hogy ide, a minden civilizáció alapját jelentő Ősanyák korába érnek vissza történelmi szálaink. Ezért lettünk számkivetett nép!  
 > \[...\]  
-> E napot, holdat, meg a csillagokat tisztelő időszakban, a jobb-félteke egyeztető-elve alapján, keresték a csillagos ég törvényeinek földi analógiáit. Társadalmaik is az egység és egyenlőség gondolatán lettek berendezve. Mindenki egyenlőként szerepelt, és ezért nem találni felsőbbrendűek, sem arisztokraták nyomát. (Innen ered a székelyek kollektív nemessége.) Az analógiás szemléletet kifejlesztve, - Isten megragadhatatlanságán, - kerülték a konkrét meghatározást, és a közlésben is a szimbolikus képi megjelenítésre került a hangsúlyt. A célirányos közlésre használt díszítőművészet terén, behozták a jelző értékű stilizált utalásokat. A kor kőbe vésett mondandói azonban, a bibliai "festett és faragott képek tilalma" okán, jórészt mind megsemmisültek. A tisztán látni vágyók számára, csak az utalások összeszedésének útja maradt.  
+> E napot, holdat, meg a csillagokat tisztelő időszakban, a jobb-félteke egyeztető-elve alapján, keresték a csillagos ég törvényeinek földi analógiáit. Társadalmaik is az egység és egyenlőség gondolatán lettek berendezve. Mindenki egyenlőként szerepelt, és ezért nem találni felsőbbrendűek, sem arisztokraták nyomát. (Innen ered a székelyek kollektív nemessége.) Az analógiás szemléletet kifejlesztve, – Isten megragadhatatlanságán, – kerülték a konkrét meghatározást, és a közlésben is a szimbolikus képi megjelenítésre került a hangsúlyt. A célirányos közlésre használt díszítőművészet terén, behozták a jelző értékű stilizált utalásokat. A kor kőbe vésett mondandói azonban, a bibliai "festett és faragott képek tilalma" okán, jórészt mind megsemmisültek. A tisztán látni vágyók számára, csak az utalások összeszedésének útja maradt.  
 
 Folytassuk azzal, ami [[N/Nő és férfi\|nő és férfi]] címnél is szerepelt.  
 
