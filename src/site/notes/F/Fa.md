@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2026-04-17T22:43"}
+{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2026-05-04T18:04"}
 ---
 
 
@@ -171,7 +171,7 @@ Ez egy elég rejtélyes közbevetés volt Jankovicstól, de [[D/Dió\|dió]] cí
 > Mítoszi fontosságát mutatja például a Szent Iván tűzi, és tündéri játéki felemlítése népi dalokban. A dió kapcsolatos a halállal is, a koporsó legyen diófából, vagy a halál tengerén dióhéjban evez a boszorkány, a dióhéjból veti áldozatát a tengerbe. A latin `Juglans` név a `Jovis glans` = Jupiter makkja fogalomból jött létre. A diófa szintén a Világfa megtestesítője. Sok település nevében van jelen.  
 
 Ami a Jovis glans-t illeti, szóba kerül arab csillagmitológiában is:  
-> According to R. H. Allen \[see Star Names\] some think that the Belt of Orion stars, delta, epsilon, zeta, known to the Arabs as the Golden Nuts, first bore the name Jauzah, from another meaning of that word, - Walnut, and that title was later given to the whole figure of Orion. In early Arabia Orion was Al Jauzah. Walnuts (genus Juglans, note the similarity of Orion's title 'Jugula') from Latin juglans, 'walnut', is a contraction of 'Jovis glans'. Mythology describes a Golden Age when men lived on acorns, the gods lived on walnuts thus the name Jovis glans or 'Jupiter's nut's. Jauzah also seems to be the term used for a black sheep with a white spot on the middle of the body.  
+> According to R. H. Allen \[see Star Names\] some think that the Belt of Orion stars, delta, epsilon, zeta, known to the Arabs as the Golden Nuts, first bore the name Jauzah, from another meaning of that word, – Walnut, and that title was later given to the whole figure of Orion. In early Arabia Orion was Al Jauzah. Walnuts (genus Juglans, note the similarity of Orion's title 'Jugula') from Latin juglans, 'walnut', is a contraction of 'Jovis glans'. Mythology describes a Golden Age when men lived on acorns, the gods lived on walnuts thus the name Jovis glans or 'Jupiter's nut's. Jauzah also seems to be the term used for a black sheep with a white spot on the middle of the body.  
 > —  
 > R. H. Allen \[lásd Star Names című könyvét\] szerint egyesek úgy gondolják, hogy az Orion csillagöv, a delta, az epsilon, a zéta, amelyet az arabok Aranydióként ismertek, először a Jauzah nevet viselte, a szó másik jelentése alapján – Dió, és ezt a címet később Orion egész alakjára adták. A korai Arábiában Orion Al Jauzah volt. A dió (Juglans nemzetség, ~~figyeljük meg Orion "Jugula" címének hasonlóságát~~) a latin `juglans`, "dió" szóból származik, amely a "Jovis glans" rövidítése. **A mitológia egy aranykort ír le, amikor az emberek makkon éltek, az istenek pedig dióféléken**, így a Jovis glans vagy "Jupiter diója" nevet kapták. A `jauzah` kifejezést úgy tűnik, hogy egy fekete juhra is használják, amelynek a teste közepén fehér folt van.
 { #cp-b3}
