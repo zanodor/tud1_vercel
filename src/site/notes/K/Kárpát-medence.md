@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2026-04-24T09:33"}
+{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2026-05-04T18:04"}
 ---
 
 
@@ -231,7 +231,7 @@ Folytatja:
 > Majdánpatak (Krassó-Szörény m.) réz  
 > Gölniczbánya (Szepes m.) réz, antimon, nikkel, arzén
 >
-> Ókori fémfeldolgozók nyomait tárták fel eddig Bodrogkeresztúr, Lengyel, Erősd, Vincsa, Gulmenitz, Tószeg, Jordánhalom, Tordos, Polgár, Perjámos, Velemszentvid, Hallstatt, Karanovo, Remete, Nyitra, Lerna és a távolabb eső Szeszklo nevű telepeken. Az itt felsorolt lelőhelyek és olvasztótelepek kiszolgálását is nagy létszámú személyzetnek kellett fenntartani, - s míg a termelvényeikkel ugyancsak nagy tömegeket szolgáltak. A gazdaságos termelés feltétele még napjainkban is, hogy az iparszerű feldolgozást az alapanyag feltárás közvetlen szomszédságában kell elvégezni, s nem inkább vonatkozott ez az őskorra, amikor még szállítóeszközök – málházott állatokon kívül – nem léteztek?  
+> Ókori fémfeldolgozók nyomait tárták fel eddig Bodrogkeresztúr, Lengyel, Erősd, Vincsa, Gulmenitz, Tószeg, Jordánhalom, Tordos, Polgár, Perjámos, Velemszentvid, Hallstatt, Karanovo, Remete, Nyitra, Lerna és a távolabb eső Szeszklo nevű telepeken. Az itt felsorolt lelőhelyek és olvasztótelepek kiszolgálását is nagy létszámú személyzetnek kellett fenntartani, – s míg a termelvényeikkel ugyancsak nagy tömegeket szolgáltak. A gazdaságos termelés feltétele még napjainkban is, hogy az iparszerű feldolgozást az alapanyag feltárás közvetlen szomszédságában kell elvégezni, s nem inkább vonatkozott ez az őskorra, amikor még szállítóeszközök – málházott állatokon kívül – nem léteztek?  
 > A Kárpát-medence korai kultúráját bizonyítja az immár világhírű lelet a [[T/Tatárlakai napvárta-korong\|Tatárlakán feltárt három írásos agyagtábla]], melyeken a későbbi magyar rovásírás négy kezdeti jele is felismerhető.  
 > Ennél a kérdésnél miért hallgatjuk el [[T/Torma Zsófia\|Torma Zsófia]] sok-ezer hasonló leletét? Többen tagadták a táblák eredetiségét. Volt olyan vélemény, hogy valaki Babilonban járt és onnét hozta, vagy ott lemásolta. Boris Perlov szovjet tudós a helyszíni vizsgálatok és a radiokarbon kormeghatározó mérések elvégzése után tisztázta: az agyagtáblák tatárlaki származású agyagból készültek; a babiloni hasonló jeleket tartalmazó táblák kora 6000 év, míg a tatárlakiak 7000 évesek. Ebből következik, hogy nem lehet azt ma Babilonban lemásolni, ami ott majd csak 1000 év múlva fog megjelenni.  
 - A [[T/Tatárlakai napvárta-korong\|tatárlaki lelet]] kormeghatározásával kapcsolatos cáfolatot azóta lásd Götz László írásával ott, a John Dayton féle felfogással szemben támasztott kritikát [[F/Fémművesség\|fémművesség]] címnél. Azaz **vigyázni kell a magyarnak tetsző feltárásokkal, véleményekkel**.   
