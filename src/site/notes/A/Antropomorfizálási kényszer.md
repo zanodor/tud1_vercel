@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Antropomorfizálási kényszer/","title":"Antropomorfizálási kényszer","tags":["titleandheadingonedontmatch","Englishtexttranslated"],"created":"2024-04-20T10:48","updated":"2025-09-03T15:59"}
+{"dg-publish":true,"permalink":"/A/Antropomorfizálási kényszer/","title":"Antropomorfizálási kényszer","tags":["titleandheadingonedontmatch","Englishtexttranslated"],"created":"2024-04-20T10:48","updated":"2026-05-04T18:07"}
 ---
 
 
@@ -54,6 +54,6 @@ Az [alábbi](https://www.youtube.com/watch?v=V67qv9QbkPg) Jézuspasszport – Az
 #### Bognár Ferenc Az Életfa csillag-gyökerei...
 
 ...című cikkében Robert Graves-t idézi ([[M/Magyar népművészet\|magyar népművészet]] címhez is tehető lenne):  
-> A rómaiak általában unalmas, betű szerint gondolkodó népség volt, a képi ábrázolás zavarba hozta, sőt többnyire felbosszantotta őket. Horatius is maró gúnnyal beszélt a kentaurokról. "Ugyan ki látott, - kérdi – félig ember, félig ló szörnyszülöttet?"  
+> A rómaiak általában unalmas, betű szerint gondolkodó népség volt, a képi ábrázolás zavarba hozta, sőt többnyire felbosszantotta őket. Horatius is maró gúnnyal beszélt a kentaurokról. "Ugyan ki látott, – kérdi – félig ember, félig ló szörnyszülöttet?"  
 > Nem fogta fel, hogy a kentaurok, szilénoszok, szatírok és más hasonlók egyszerűen pelaszgok, akik e képszerű jelzés szerint a lovak, kecskék vagy más totemállat testvériségéhez tartoztak."  
 > Graves szeme, már jó 50 éve megakadt, a patriarkális félteke uralmával érkező szellemi hanyatlás folyamatán, de mi semmit sem tudunk róla, mert iskoláinkban az ellenkezőjéről tanítanak.  
