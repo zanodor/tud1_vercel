@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Adapa/","title":"Adapa","created":"2023-10-22T02:38","updated":"2025-09-03T15:59"}
+{"dg-publish":true,"permalink":"/A/Adapa/","title":"Adapa","created":"2023-10-22T02:38","updated":"2026-05-04T18:07"}
 ---
 
 
@@ -45,7 +45,7 @@ Másutt:
 > *emeld föl fejedet, irányítsd elmédet a chalzikura, és szólj:*  
 > *Nosza, Királynő, adjátok ide a chalzikut, vizet akarok inni belőle."*
 >
-> Az istenek követelésére Ereskigal engedni kénytelen, felszólítja szolgáját, Namtart, hogy "hintse meg az élet vizével Istár istennőt", aki így visszatérhet a Földre, vagyis újra kizöldül a tavasz. Az élet vizének ura egyaránt Ea és Marduk is: "Eredj fiam, Marduk, - szól Ea - \[...\] hozz vizet a két folyam torkolatából, e vízben tedd meg tiszta fogadalmadat, és szenteld meg \[a vizet\] tiszta esküddel, hintsd meg vele az embereket, istennek gyermekeit." Más emlékszöveg szerint: "A tiszta vizet \[...\] a Frat \[Eufrát) vizét, amely a \[...\] helyen a tengerben jól el van rejtve. Eának tiszta szája \[szava) tisztította meg, a tengermélység fiai, a hét fiú tette a vizet tisztává, átlátszóvá, ragyogóvá." Az asszír kultusz egyik szertartása szerint a pap "a tisztulás házának" küszöbén a király elé lép, és áldást mond rá:  
+> Az istenek követelésére Ereskigal engedni kénytelen, felszólítja szolgáját, Namtart, hogy "hintse meg az élet vizével Istár istennőt", aki így visszatérhet a Földre, vagyis újra kizöldül a tavasz. Az élet vizének ura egyaránt Ea és Marduk is: "Eredj fiam, Marduk, – szól Ea - \[...\] hozz vizet a két folyam torkolatából, e vízben tedd meg tiszta fogadalmadat, és szenteld meg \[a vizet\] tiszta esküddel, hintsd meg vele az embereket, istennek gyermekeit." Más emlékszöveg szerint: "A tiszta vizet \[...\] a Frat \[Eufrát) vizét, amely a \[...\] helyen a tengerben jól el van rejtve. Eának tiszta szája \[szava) tisztította meg, a tengermélység fiai, a hét fiú tette a vizet tisztává, átlátszóvá, ragyogóvá." Az asszír kultusz egyik szertartása szerint a pap "a tisztulás házának" küszöbén a király elé lép, és áldást mond rá:  
 > *Ea örvendeztessen meg téged,*  
 > *Damkina, a tengermélység királynője, világítson meg arcával,*  
 > *Marduk, az igigik \[égi szellemek\] nagy őrzője emelje fel fejedet.*
