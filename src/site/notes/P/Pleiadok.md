@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2026-03-23T23:30"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2026-05-04T18:05"}
 ---
 
 
@@ -213,7 +213,7 @@ Richard H. Allen folytatja:
 Márpedig Hetevény (Hét Háza a Fénynek) mellett magyar elnevezése valóban (bár újabb alkotásúnak mondott) Fiastyúk. Richard H. Allen is említi (Grimm révén) a magyar elnevezéseket (Fiastik-et ír Fiastyúk helyett, mindezt ugye a 19. század végén), és felhozza, hogy a finneknél is Het'e wā'ne a neve, azaz Hetevénnyel egyező.  
 
 Richard H. Allen kissé lejjebb írja a következőket (anélkül, hogy tudná, hogy a Fiastik is ezt jelenti):  
-> A common figure for these stars, everywhere popular for many centuries, is that of a Hen with her Chickens, - another instance of the constant association of the Pleiades with flocking birds, and here especially appropriate from their compact grouping. Aben Ragel and other Hebrew writers thus mentioned them, sometimes with the Coop that held them, - the Massa Gallinae of the Middle Ages; these also appearing in Arabic folklore, and still current among the English peasantry. In modern Greece, as the Hen-coop, they are `Πούλια` or `Πούλεια`, not unlike the word of ancient Greece.  
+> A common figure for these stars, everywhere popular for many centuries, is that of a Hen with her Chickens, – another instance of the constant association of the Pleiades with flocking birds, and here especially appropriate from their compact grouping. Aben Ragel and other Hebrew writers thus mentioned them, sometimes with the Coop that held them, – the Massa Gallinae of the Middle Ages; these also appearing in Arabic folklore, and still current among the English peasantry. In modern Greece, as the Hen-coop, they are `Πούλια` or `Πούλεια`, not unlike the word of ancient Greece.  
 > —  
 > Ezeknek a csillagoknak egy gyakori, évszázadok óta mindenütt népszerű ábrája a tyúk a tyúkjaival – egy újabb példa a Plejádok állandó társítására a madarakkal, és itt különösen helyénvaló a kompakt csoportosulásuk miatt. Aben Ragel és más héber írók így említik őket, néha az őket tartó csordával együtt – a középkor Massa Gallinae-je; ezek az arab folklórban is megjelennek, és az angol parasztság körében még mindig aktuálisak. A modern Görögországban, mint a Tyúkól, `Πούλια` vagy `Πούλεια`, nem eltérően az ókori görög szavaktól.  
 
