@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Khoraszán/","title":"Khoraszán","tags":["titleandheadingonedontmatch"],"created":"2024-01-12T06:00","updated":"2026-03-05T01:45"}
+{"dg-publish":true,"permalink":"/K/Khoraszán/","title":"Khoraszán","tags":["titleandheadingonedontmatch"],"created":"2024-01-12T06:00","updated":"2026-05-04T18:07"}
 ---
 
 
@@ -34,5 +34,5 @@ Lásd még arról, hogy Khoraszán neve [[T/Tejútanya\|Tejútanya]] vagy Napné
 #### Oláh Imre A Nimrud hagyomány...
 
 ...című tanulmányából való ([[A/Árja\|árja]] címnél is megvolt):  
-> A Kr.u. 5. században élő híres örmény történész, Korenei Mózes a történelem igazságnak megfelelően tisztázta a scytha, szittya, szaka név eredetét, és a párthusokat, masszagétákat, hunokat ősi nevükön khusoknak, kushánoknak, balki-khusitáknak nevezte. Ettől kezdve mások is így jártak el. Például Saint Martin: "Áriát az örmény történészek Chusdi Chorosánnak, vagy keleti kus-földnek nevezik, - ahol a kusiták a K. e. 3. században elfoglalták Bal városát és a Kusita birodalom fővárosává tették. Ezért nevezik őket az örmény történészek, bali kusitáknak". (Memoires sur l'Armenie.)  
+> A Kr.u. 5. században élő híres örmény történész, Korenei Mózes a történelem igazságnak megfelelően tisztázta a scytha, szittya, szaka név eredetét, és a párthusokat, masszagétákat, hunokat ősi nevükön khusoknak, kushánoknak, balki-khusitáknak nevezte. Ettől kezdve mások is így jártak el. Például Saint Martin: "Áriát az örmény történészek Chusdi Chorosánnak, vagy keleti kus-földnek nevezik, – ahol a kusiták a K. e. 3. században elfoglalták Bal városát és a Kusita birodalom fővárosává tették. Ezért nevezik őket az örmény történészek, bali kusitáknak". (Memoires sur l'Armenie.)  
 > A tudós örmény geográfus, Mechticar szerint "Ária, vagy más néven Kusi Koraszan (Chusdi Chorosan), vagy a Kusok földje a Káspi tengertől Indiáig terült el."  
