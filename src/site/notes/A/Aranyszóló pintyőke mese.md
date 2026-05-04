@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aranyszóló pintyőke mese/","title":"Aranyszóló pintyőke mese","created":"2023-10-14T07:38","updated":"2025-06-07T19:42"}
+{"dg-publish":true,"permalink":"/A/Aranyszóló pintyőke mese/","title":"Aranyszóló pintyőke mese","created":"2023-10-14T07:38","updated":"2026-05-04T18:07"}
 ---
 
 
@@ -53,7 +53,7 @@ Felhajította magát egy lóra a legkisebb királyfi, vágtatott egyenest a híd
 Kérdezi tőle is Tündérszép Ilona:  
 – Mondd meg nekem, királyfi, jobb vagy bal oldalamon folyik-e a halál vize?  
 – Balról a fiatalság, jobbról a halál vize – feleli a kocsisnak öltözött királyfi.  
-– Ez jól van, - mondta Tündérszép Ilona. - Hát az aranyszóló pintyőkével mi történt?  
+– Ez jól van, – mondta Tündérszép Ilona. - Hát az aranyszóló pintyőkével mi történt?  
 – A fejedből kivettem egy aranyszálat, avval kötöttem be a száját, s úgy hoztam el kalitkástól együtt.  
 Az öreg király meg a két fia odabenn csak nézték, a két királyfi különösen. Tudták, hogy most már vége a [[P/Pünkösdi királyság\|pünkösdi királyság]]nak. Azt kérdezi még ott kinn a legkisebbtől Tündérszép Ilona:  
 – Hát én ki vagyok?  
