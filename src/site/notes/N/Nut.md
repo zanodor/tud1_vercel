@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nut/","title":"Nut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2025-05-29T16:57","updated":"2026-03-05T01:26"}
+{"dg-publish":true,"permalink":"/N/Nut/","title":"Nut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2025-05-29T16:57","updated":"2026-05-04T18:05"}
 ---
 
 
@@ -263,7 +263,7 @@ A tehén itt akkor ünő, szarvasünő, azaz őz-tehén kell legyen. Az üsző p
 
 [^4]: Lábjegyzet:  
 Hasonló képet láttunk a görög (Tejútistennő/Magna Mater) [[H/Héra\|Hérá]]nál. Magyar Adorján írja:    
-Őseink hitregéi szerint a Napisten ragyogó, szépséges, aranyhajú és nagyerejű hősként harcol az életet elnyelni, megsemmisíteni akaró sötét és hideg Halál ellen, - amely pedig neki anyja is, valamint nekünk, élőknek, az ő édes gyermekeinek, akiket ő védelmez, ősanyja. E gondolat van meg, de már teljesen elhomályosulva, elrontva a görög mitológiában is. Itt Héra a főistennő, aki emlőjét Heraklész Napisten szopja és ami annak elrontott maradványa, hogy Héra senki más mint az ős-Istennő, azaz a Napisten anyja.  
+Őseink hitregéi szerint a Napisten ragyogó, szépséges, aranyhajú és nagyerejű hősként harcol az életet elnyelni, megsemmisíteni akaró sötét és hideg Halál ellen, – amely pedig neki anyja is, valamint nekünk, élőknek, az ő édes gyermekeinek, akiket ő védelmez, ősanyja. E gondolat van meg, de már teljesen elhomályosulva, elrontva a görög mitológiában is. Itt Héra a főistennő, aki emlőjét Heraklész Napisten szopja és ami annak elrontott maradványa, hogy Héra senki más mint az ős-Istennő, azaz a Napisten anyja.  
 Az pedig, hogy Héra utóbb neki életére tör, őt üldözi, annak elhomályosult emléke, hogy a sötét világűr a belőle keletkezett életet ismét el is nyeli, meg is semmisíti. \[De az [[E/Éva\|Éva]] névben is megvan az evés értelem!\]  
 —  
 Falvay Károly Nagyboldogasszony című könyvének 47. oldalán [[R/Rhea\|Rheá]]ról szól, aki (Zeusz kivételével) megette gyermekeit, majd kiöklendezte őket.  
