@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kacsa/","title":"Kacsa","created":"2023-11-14T05:43","updated":"2024-10-25T22:16"}
+{"dg-publish":true,"permalink":"/K/Kacsa/","title":"Kacsa","created":"2023-11-14T05:43","updated":"2026-05-04T18:08"}
 ---
 
 
@@ -29,7 +29,7 @@ Egy másik fontos madár, mely egy lábon állásával és a hozzá köthető fo
 #### Falvay Károly Nagyboldogasszony...  
 
 ...című könyvének 228. oldalán az énekes leányjátékok egyes változatairól szól. Amit ír:  
-> A rózsa közismerten leányszimbólum. Bár közismertnek gondoljuk, a kifejezés körültekintő megismerésére a későbbiekben vissza kell térjünk. Feltételezzük: a rózsa, "récze", "rucza", "kis kacsa", - azaz a menyasszony –, \[más változatában úgy is\] mint angyal, a vőlegényhez készül, Lengyel Lászlóhoz, a vőlegényes házba, Lengyelországba. Azaz a "kacsa" szó a szövegben annak "rucza" változatán át a rózsa szó elhomályosulásából (vagy tudatos elhomályosításából), az évszázadok alatt alakult át, lett "félreértett" változat.  
+> A rózsa közismerten leányszimbólum. Bár közismertnek gondoljuk, a kifejezés körültekintő megismerésére a későbbiekben vissza kell térjünk. Feltételezzük: a rózsa, "récze", "rucza", "kis kacsa", – azaz a menyasszony –, \[más változatában úgy is\] mint angyal, a vőlegényhez készül, Lengyel Lászlóhoz, a vőlegényes házba, Lengyelországba. Azaz a "kacsa" szó a szövegben annak "rucza" változatán át a rózsa szó elhomályosulásából (vagy tudatos elhomályosításából), az évszázadok alatt alakult át, lett "félreértett" változat.  
 > A Kiss Áron Gyűjtemény 1984-es reprint kiadása 325. oldalán az eredeti változatot láthatjuk: *Fürdik a rózsa fekete tóban, / készül az angyal Lengyelországba*.  
 - Megjegyzés: már hogy is lehetne eredeti, hiszen az angyal egy késői változatra utal.  
 
