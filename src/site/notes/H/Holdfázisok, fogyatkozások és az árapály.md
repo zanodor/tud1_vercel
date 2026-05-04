@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Holdfázisok, fogyatkozások és az árapály/","title":"Holdfázisok, fogyatkozások és az árapály","tags":["titleandheadingonedontmatch"],"created":"2024-05-01T15:18","updated":"2024-10-25T21:46"}
+{"dg-publish":true,"permalink":"/H/Holdfázisok, fogyatkozások és az árapály/","title":"Holdfázisok, fogyatkozások és az árapály","tags":["titleandheadingonedontmatch"],"created":"2024-05-01T15:18","updated":"2026-05-04T17:10"}
 ---
 
 
@@ -15,3 +15,14 @@ A Föld és a Hold is – mint minden átlátszatlan test – árnyékot vet a N
 A Föld árnyékkúpjának csúcsa elméletileg átlagosan 217 földsugárnyira terjed, a Hold átlagosan 60 földsugár távolságban kering. A Föld azonban légkörrel rendelkezik, így a Nap sugarait megtöri. Emiatt a teljes árnyék kúpja lerövidül, és közelebb kerül a Hold távolságánál, így az a valóságban soha sem éri el égi kísérőnket. A légkör által szórt fény nagysága és színe a légkör állapotától függ, így a holdfogyatkozások alkalmával több-kevesebb fényt kap égi kísérőnk, aminek következtében általában sötétvörös színben dereng. Teljes a fogyatkozás, ha a Hold teljes terjedelmében az árnyékkúpba merül. (Centrálisnak nevezzük, amennyiben a Hold az árnyékkúp tengelyén halad át, ekkor a fogyatkozás mindig teljes.) Részleges a fogyatkozás, ha a Hold nem pontosan a csomóponton halad át holdtöltekor, így csak részben merül bele bolygónk árnyékába.  
 
 Az égitestek egymásra kifejtett gravitációs hatása következtében tapasztalható – többek között – az árapály jelensége is. A Földön legerősebben a Hold és a Nap hatása érvényesül. Az általános tömegvonzás törvénye értelmében a vonzóerő a távolság négyzetével fordított arányban áll. A Hold így nagyobb erővel húzza maga felé bolygónknak a hozzá közelebb eső részét, mint a távolabbit: azaz a Földnek a Hold felőli oldala enyhén kidudorodik. A Föld a Föld-Hold rendszer tömegközéppontja körül kering, amely bolygónk belsejében található. Emiatt a Holddal ellentétes oldalon centrifugális erő lép fel, ez az átellenben lévő oldalon hoz létre dagályt. Ugyanilyen hatást fejt ki a Nap is, ennek mértéke azonban kisebb – a Hold kis tömegét ugyanis ellensúlyozza közelsége. A Hold és a Nap által a Földre kifejtett árapály torzulás egymásra rakódik, erősítik vagy gyengítik egymást. Újhold és telihold környékén, a Hold által keltett dagálykúp a Nap által létrehozottal egybeesik, ekkor éri el az árhullám maximális méretét, ez a szökőár. Első vagy utolsó negyed környékén pedig gyengítik egymás hatását, ezt nevezik vakárnak. Bolygónk a tengelyforgás következtében elfordul a dagály kúpok alatt, így egy adott földrajzi ponton egy nap folyamán majdnem két alkalommal figyelhető meg apály és dagály. A valóságban 24 óra 50 perc alatt zajlik le két dagály és két apály. Ennek oka, hogy amíg a Föld egyszer megfordul tengelye körül, a Hold kissé tovább mozog pályáján, amit bolygónknak kompenzálnia kell. (24 óra 50 perc a Hold két delelése közötti időtartam.) A jelenség következtében a szilárd kéregben létrejövő apály és dagály hullámok magasságkülönbsége centiméteres, a folyékony vízburokban méteres nagyságrendű. A Föld, tengelyforgása során megpróbálja "magával húzni" a dagálykúpot, amelyet a Hold nem enged. Mivel a Föld folyamatosan elfordul a dagálykúp alatt, súrlódás lép fel, ami bolygónk tengelyforgását lassítja, és a Hold pályájának sugarát fokozatosan növeli.  
+
+## Táblázatos adat
+
+A holdfázisok és az árapály jelenség közötti kapcsolatot az alábbi táblázat foglalja össze:
+
+| Árapály típusa | Holdfázisok | Leírás |
+|---|---|---|
+| Szökőár (maximális árapály) | Újhold és Telihold | A Nap, a Föld és a Hold egy vonalban helyezkednek el, így a tömegvonzásuk összeadódik, ami a legmagasabb dagályt és legalacsonyabb apályt eredményezi. |
+| Vakár (minimális árapály) | Első negyed és Utolsó negyed | A Nap és a Hold a Földről nézve egymásra merőlegesen helyezkednek el, így vonzóerejük részben kioltja egymást, ami kisebb vízszintváltozást okoz. |
+
+A legnagyobb árapály-ingadozás (szökőár) az újhold és telihold fázisok idején alakul ki, míg a legkisebb vízszintváltozás (vakár) az első negyed és utolsó negyed fázisokhoz köthető.  
