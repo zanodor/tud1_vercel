@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Chador/","title":"Chador","created":"2024-01-30T06:49","updated":"2026-03-05T01:48"}
+{"dg-publish":true,"permalink":"/C/Chador/","title":"Chador","created":"2024-01-30T06:49","updated":"2026-05-04T18:08"}
 ---
 
 
@@ -18,7 +18,7 @@ Lásd [ezen](https://www.arcanum.hu/hu/online-kiadvanyok/MagyarViseletek-magyar-
 #### Kandra Kabos Magyar Mythologia...  
 
 ...című könyvének végén is szerepel adat róla:  
-> A Naptisztelettel áll kapcsolkozásban azon néphit is, hogy az asszonynak nem lehet hajadon fővel a Nap előtt, ki a házasság jó szelleme, - megjelenni. "Ha egyszer az asszonyt felkontyolták, asszony lett belőle, többet nem szabad, hogy a nap megsüsse a fejét. Künn a fejrevalót mindig fenn kell tartani."  
+> A Naptisztelettel áll kapcsolkozásban azon néphit is, hogy az asszonynak nem lehet hajadon fővel a Nap előtt, ki a házasság jó szelleme, – megjelenni. "Ha egyszer az asszonyt felkontyolták, asszony lett belőle, többet nem szabad, hogy a nap megsüsse a fejét. Künn a fejrevalót mindig fenn kell tartani."  
 - Lásd még [[K/Konty\|konty]] (Kandra Kabos sorai oda is betéve). Lásd még [[B/Burqa\|burqa]].
 
 Az eltakarásról csak annyit, hogy épp ellentétes reakciót is kiválthat. Nemcsak naturisták, nudisták véleménye, hogy a lemeztelenítéshez képest a ruha erotikusabban is hathat, mert a szemlélő képzeletére van bízva, hogy mi lehet alatta. Azaz a vágyat akár nemhogy csökkentheti, növelheti is, az agresszió irányába.  
