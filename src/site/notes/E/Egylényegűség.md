@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Egylényegűség/","title":"Egylényegűség","tags":["containscallouts"],"created":"2024-11-08T00:24","updated":"2025-11-29T00:13"}
+{"dg-publish":true,"permalink":"/E/Egylényegűség/","title":"Egylényegűség","tags":["containscallouts"],"created":"2024-11-08T00:24","updated":"2026-05-04T18:08"}
 ---
 
 
@@ -8,7 +8,7 @@
 #### Karcagi Oláh Imre Külföldi és magyar írók a magyar mitológiáról...
 
 ...című Ősi Gyökér 2005/2. sz. megjelent cikkében írja:  
-> Tehát itt már az eredetibb "egylényegű"-ségről (`homooúsziosz`) fogalmáról s nem az isteni hasonlóság -ról, a "hasonlényegű"-ségről (`homoiúsziosz`) esik szó. De hát nincs új dolog a Nap alatt. Ebből kerekedett hajdan az a ménkű nagy vita, a Nagy Konstantin császár által összehívott híres niceai zsinaton, midőn egy "ióta" miatt, - mire lecsitultak a kedélyek – az eminens egyházfiak kiátkozták egymást az anyaszentegyházból.  
+> Tehát itt már az eredetibb "egylényegű"-ségről (`homooúsziosz`) fogalmáról s nem az isteni hasonlóság -ról, a "hasonlényegű"-ségről (`homoiúsziosz`) esik szó. De hát nincs új dolog a Nap alatt. Ebből kerekedett hajdan az a ménkű nagy vita, a Nagy Konstantin császár által összehívott híres niceai zsinaton, midőn egy "ióta" miatt, – mire lecsitultak a kedélyek – az eminens egyházfiak kiátkozták egymást az anyaszentegyházból.  
 
 #### Oláh Imre Ősi jelképiség...
 
