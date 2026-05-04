@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bíbor/","title":"Bíbor","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-04-20T13:39","updated":"2024-10-24T22:22"}
+{"dg-publish":true,"permalink":"/B/Bíbor/","title":"Bíbor","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-04-20T13:39","updated":"2026-05-04T17:10"}
 ---
 
 
