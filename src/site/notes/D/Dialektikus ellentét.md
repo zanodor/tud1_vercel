@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","created":"2023-10-06T12:03","updated":"2026-03-12T21:19"}
+{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","created":"2023-10-06T12:03","updated":"2026-05-04T18:05"}
 ---
 
 
@@ -45,7 +45,7 @@ Figyeljük meg, hogy teljesen hasonló módon jelennek meg az ellentétes értel
 #### L. Kecskés András A magyar zene évezredei 1. rész...
 
 ...című az Ősi Gyökér 2018/1-2. sz. megjelent cikkének [[S/Sine\|sine]], valamint [[S/Sárkány#Sárkányanya\|Sárkányanya]] cím/alcímnél írottak után írja:  
-> Az ős/aNYa/got, - azt, amiből még ma is minden kézzelfogható valami lesz, születik – a sumer-káldeai emberek teremtéstörténetükben/mítoszukban egy hullámzó testű, női minőséget jelző kígyóval /[[T/Tiamat\|Tiamat]]/ ábrázolták, a kígyózó mozgást érzékeltetve, mely egyben a tenger, a víz hullámzása, a föld ősi közegének sajátossága.  
+> Az ős/aNYa/got, – azt, amiből még ma is minden kézzelfogható valami lesz, születik – a sumer-káldeai emberek teremtéstörténetükben/mítoszukban egy hullámzó testű, női minőséget jelző kígyóval /[[T/Tiamat\|Tiamat]]/ ábrázolták, a kígyózó mozgást érzékeltetve, mely egyben a tenger, a víz hullámzása, a föld ősi közegének sajátossága.  
 - Jól gondolkodik; még a [[J/Jin és jang\|jin-jang]] szimbólum két oldalát is kígyó S-vonala választja el.
 
 > Ezt a jelenséget tökéletesen szemlélteti a megütött hangvilla mozgása, mely egy odatartott, bekormozott üveglapon látható. A Biblia Teremtés könyvének kezdő mondatai közt ez olvasható: "...Isten lelke lebegett a vizek felett"; e lebegésből áll az anyaggá vált [[I/Ige\|IGe]], a [[S/SZÓ\|SZÓ]] és az [[E/Ének\|ÉNEK]].  
