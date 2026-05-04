@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Indogermán nyelvészet/","title":"Indogermán nyelvészet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated"],"created":"2025-06-12T01:33","updated":"2026-03-23T23:30"}
+{"dg-publish":true,"permalink":"/I/Indogermán nyelvészet/","title":"Indogermán nyelvészet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated"],"created":"2025-06-12T01:33","updated":"2026-05-04T18:04"}
 ---
 
 
@@ -90,7 +90,7 @@ A. Pictet (Les origines Indoeuropéennes on les Aryas primitifs, essai de paléo
 Az indogermán de legalábbis a német felsőbbrendűséget aláásó kezdeményezések is szóba kerülnek:  
 > Az önkényes, módszertelen szóösszehasonlításokból levont következtetések nyilvánvaló tévedéseire V. Hehn mutatott rá először "Culturpflanzen und Haustiere in ihrem Übergang von Asien nach Griechenland und Italien, sowie in das übrige Europa" (1870) című művében. Pontról pontra kimutatta, hogy az indogerman népek egész kultúrájukat az ősi elő-ázsiai műveltségektől vették át és e művelődési hatások fellépte előtt náluk kezdetleges barbárságnál egyebet nem találhatunk.  
 > Az eddigi módszerek legnagyobb hibája az, hogy a szavak mai jelentéseit visszavetítik az őskorba. Minden olyan szót, amely legalább 2-3 indogermán nyelvben előfordul, egyszerűen ősi indogermán tőnek tekintenek.  
-> Hehn könyvét számos kutató élesen bírálta, elismerést viszont alig kapott. Mindenki azt tartotta (sic!), - írja Schrader – hogy Hehn primitív képe az ős-indogermán népről nem fedi a valóságot. Érdemben azonban nem cáfolták(!), a kritikák általános ellenvetésekben merültek ki, nagyjából olyasféle hangnemben, hogy ha Hehn ezen vagy azon állítását elfogadnánk, akkor "még" ezt vagy azt sem tételezhetnénk fel az ős-indogermánokról. Schrader élesen elítéli ezeket a semmitmondó bírálatokat.  
+> Hehn könyvét számos kutató élesen bírálta, elismerést viszont alig kapott. Mindenki azt tartotta (sic!), – írja Schrader – hogy Hehn primitív képe az ős-indogermán népről nem fedi a valóságot. Érdemben azonban nem cáfolták(!), a kritikák általános ellenvetésekben merültek ki, nagyjából olyasféle hangnemben, hogy ha Hehn ezen vagy azon állítását elfogadnánk, akkor "még" ezt vagy azt sem tételezhetnénk fel az ős-indogermánokról. Schrader élesen elítéli ezeket a semmitmondó bírálatokat.  
 
 Érthetetlennek tartja, hogy:  
 > Hehn munkáját a tudósok túlnyomó többsége figyelembe sem veszi és a kutatás a régi kerékvágásban halad tovább. Szinte hihetetlen – írja –, hogy még évekkel Hehn műve után is megjelenhettek olyan publikációk – mint például A. Fick "Die ehemalige Spracheinheit der Indogermanen Europas" (1873) című könyve –, amelyek Hehn megállapításait egy szóval sem említik.  
