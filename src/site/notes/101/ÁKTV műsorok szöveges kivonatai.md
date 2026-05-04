@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-05-04T17:09"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-05-04T17:55"}
 ---
 
 
@@ -101,6 +101,7 @@
 <small>[260113CN! MADÉFALVIAK](https://rumble.com/v74ad9g-260113cn-madfalviak-kubnyi-tams-ktv.html)  [https://share.note.sx/smfrwd9k](https://share.note.sx/smfrwd9k) [https://archive.ph/AE1hN](https://archive.ph/AE1hN)</small>
 <small>[260112CN! DR. DRÁBIK HAGYATÉK](https://rumble.com/v748t52-260112cn-dr.-drbik-hagyatk-kubnyi-tams-ktv.html)  [https://share.note.sx/bqnp7itr](https://share.note.sx/bqnp7itr) [https://archive.ph/NkhGy](https://archive.ph/NkhGy)
 </small>
+
 **2025 és a korábbiak:**
 
 <small>[251219CN! ÁLDOTT KARÁCSONYT!](https://rumble.com/v738dvi-251219cn-ldott-karcsonyt-kubnyi-tams-ktv.html)  [https://share.note.sx/m9sxr0u0](https://share.note.sx/m9sxr0u0) [https://archive.ph/LsgCb](https://archive.ph/LsgCb)</small>
@@ -124,6 +125,7 @@
 <small>[251121CN! ÉG és FÖLD](https://rumble.com/v7223au-251121cn-g-s-fld-kubnyi-tams-ktv.html)  [https://share.note.sx/si8rhkev](https://share.note.sx/si8rhkev) [https://archive.ph/sUke1](https://archive.ph/sUke1)</small>
 <small>[251120CN! SZENT ERZSÉBET](https://rumble.com/v720diu-251120cn-szent-erzsbet-kubnyi-tams-ktv.html)  [https://share.note.sx/cmufyrkw](https://share.note.sx/cmufyrkw) [https://archive.ph/tYnq8](https://archive.ph/tYnq8)
 </small>
+
 ---
 
 <small>[251126CN! FARKASOK - 6. rész](https://rumble.com/v72a2fk-251126cn-farkasok-6.-rsz-kubnyi-tams-ktv.html)  [https://share.note.sx/j9oulv1w](https://share.note.sx/j9oulv1w) [https://archive.ph/99y28](https://archive.ph/99y28)</small>
@@ -133,7 +135,9 @@
 <small>[251117CN! FARKASOK - 2. rész](https://rumble.com/v71uf7a-251117cn-farkasok-2.-rsz-kubnyi-tams-ktv.html)  [https://share.note.sx/qrjezafj](https://share.note.sx/qrjezafj) [https://archive.ph/YXzPk](https://archive.ph/YXzPk)</small>
 <small>[240118 ÁKA - FARKASOK - 1. rész](https://rumble.com/v71ujew-240118-ka-farkasok-1.-rsz-kubnyi-tams.html)  [https://share.note.sx/k85janxt](https://share.note.sx/k85janxt) [https://archive.ph/Q5Xaz](https://archive.ph/Q5Xaz)
 </small>
+
 ---
+
 <small>[251114CN! TORMA ZSÓFIA](https://videa.hu/videok/nagyvilag/251114cn-torma-zsofia-kubinyi-tamas-magyar-HlvVAm0mdOC121t9)  [https://share.note.sx/lohvt10a](https://share.note.sx/lohvt10a) [https://archive.ph/LuTfY](https://archive.ph/LuTfY)</small>
 <small>[251113CN! CSAK EGY ÉVRE？](https://videa.hu/videok/nagyvilag/251113cn-csak-egy-evre-kubinyi-magyar-LhGr2VSue66nOvb5)  [https://share.note.sx/qx084cwv](https://share.note.sx/qx084cwv) [https://archive.ph/7jslq](https://archive.ph/7jslq)</small>
 <small>[251112CN! MÁLENKIJ ROBOT](https://videa.hu/videok/nagyvilag/251112cn-malenkij-robot-kubinyi-tamas-magyar-i6eBh7R12xKIS6iU)  [https://share.note.sx/sg320da0](https://share.note.sx/sg320da0) [https://archive.ph/iayuO](https://archive.ph/iayuO)</small>
