@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2026-04-24T09:35"}
+{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2026-05-04T18:06"}
 ---
 
 
@@ -45,7 +45,7 @@ Amit utána mond, nos, ez a szerinte, azaz forrása, Kresznerics Ferenc szerint 
 
 Borbola megosztja Kőrösi Csoma Sándor adatsorát is:  
 > A legfelsőbb lénynek vagyis képviselőjének, Buddhának neve sanskrit nyelven Bhagvan és Tathagata; az elsőnek jelentése "győzedelmes", a másodiknak "egyenes úton járó" azaz igazságos. Ez a két elnevezés nagyon megerősíti a buddhizmus és azon sanskrit szavak felőli véleményt, amelyek t.i. az európai nyelvekben előfordulnak. Illetve azon körülményből, hogy a buddhisták gyakran használják a "Bhagvan" szót én úgy vélekedem, hogy a túlbuzgó keresztények, megvetőleg, a "Pagan" pogány szót illesztették reájok. A mi pedig a "Tathagata" elnevezést illeti, az megerősíti a föllebb említett "Geta" szónak valódi értelmét, tudniillik "járó" az egyenes úton.  
-> Valamint az európai keresztények alkották Bhágvánból a "pagán" = pogány szót: azon módon cselekedtek az ázsiaiak is, mintegy megvetőleg használván azt a buddhisták irányában a mohamedánok, a kik a hindut és a buddhistát ma is "budd-paraszt" nevezettel illetik. Ezen szó e perzsa szóból származik: `peristhán`, `parasztidan` = imádni, - `buddparaszt` = Buddhát imádó, - magában véve ez nem gyalázó nevezet, de a mohamedánok annak akarják tekinteni, értvén alatta "bálványimádót."  
+> Valamint az európai keresztények alkották Bhágvánból a "pagán" = pogány szót: azon módon cselekedtek az ázsiaiak is, mintegy megvetőleg használván azt a buddhisták irányában a mohamedánok, a kik a hindut és a buddhistát ma is "budd-paraszt" nevezettel illetik. Ezen szó e perzsa szóból származik: `peristhán`, `parasztidan` = imádni, – `buddparaszt` = Buddhát imádó, – magában véve ez nem gyalázó nevezet, de a mohamedánok annak akarják tekinteni, értvén alatta "bálványimádót."  
 
 Itt Borbola amikor a szavakat hasonlít, a latin küzd jelentésű gyököt a győzedelmes szó gyökével, nem tudom mire vélni, de azt le kell szögeznem, hogy a téli napfordulós [[G/Győz\|győz]] fogalma azért nem állja meg a helyét itt, mert a [[P/Págony\|Págony]]-Pogány nem biztos, hogy a Sagittarius-Nyilassal feleltethető meg. (Az igaz, hogy a téli napfordulós győzedelmeskedő idején az Oriont, a vadászt látjuk: ilyenképpen a latin `venator` = vadász és a [[K/Kanyar\|kanyar]] és [[G/Gain\|gain]] címnél is (a francia `gagner` mellett) említett spanyol `ganador` = győzedelmeskedő, győztes szavak V>G változásos egyezősége alapján mondhatnánk, hogy a szanszkritban úgy alakult ki a győzedelmes értelem, ahogy a spanyolban. Ugye [[W/Winter\|winter]] címnél pedig aveszta szónál láttuk ugyanezt a jelenséget.)  
 Az, hogy Borbola elhiszi, hogy szanszkrit eredetű lenne pogány szavunk, viszont nincs rendjén:  
