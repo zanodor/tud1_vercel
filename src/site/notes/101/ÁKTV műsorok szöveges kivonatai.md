@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-05-04T17:55"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","created":"2025-03-05T15:52","updated":"2026-05-08T23:01"}
 ---
 
 
@@ -23,6 +23,11 @@
 
 **2026:**
 
+<small>[260508CN! ISMERJÜK ŐKET](https://rumble.com/v79kwzi-260508cn-ismerjk-ket-kubnyi-tams-ktv.html)  [https://share.note.sx/njdgvfcd](https://share.note.sx/njdgvfcd) [https://archive.ph/OI52E](https://archive.ph/OI52E)</small>
+<small>[260507CN! LEGYEN PATRIÓTÁK](https://rumble.com/v79j5sc-260507cn-legyen-patritk-kubnyi-tams-ktv.html)  [https://share.note.sx/o3qxsvd0](https://share.note.sx/o3qxsvd0) [https://archive.ph/xfowS](https://archive.ph/xfowS)</small>
+<small>[260506CN! CSAK A GYÖKÉR...](https://rumble.com/v79hh7i-260506cn-csak-a-gykr...-kubnyi-tams-ktv.html)  [https://share.note.sx/2k6bnaau](https://share.note.sx/2k6bnaau) [https://archive.ph/LZBFl](https://archive.ph/LZBFl)</small>
+<small>[260505CN! ÚJGAZDAGOK](https://rumble.com/v79ftjg-260505cn-jgazdagok-kubnyi-tams-ktv.html)  [https://share.note.sx/2yzxukig](https://share.note.sx/2yzxukig) [https://archive.ph/MNp5J](https://archive.ph/MNp5J)</small>
+<small>[260504CN! TERVEZETT ELAVULÁS](https://rumble.com/v79e5p8-260504cn-tervezett-elavuls-kubnyi-tams-ktv.html)  [https://share.note.sx/qrizz72j](https://share.note.sx/qrizz72j)  [https://archive.ph/uLcbb](https://archive.ph/uLcbb)</small>
 <small>[260430CN! HOGYAN TOVÁBB？](https://rumble.com/v797uje-260430cn-hogyan-tovbb-kubnyi-tams-ktv.html)  [https://share.note.sx/4hmdn12b](https://share.note.sx/4hmdn12b) [https://archive.ph/T5wp5](https://archive.ph/T5wp5)</small>
 <small>[260429CN! MEGBÉKÉLÉS](https://rumble.com/v796aeo-260429cn-megbkls-kubnyi-tams-ktv.html)  [https://share.note.sx/s9an4xif](https://share.note.sx/s9an4xif) [https://archive.ph/kfl6I](https://archive.ph/kfl6I)</small>
 <small>[260428CN! ÜZEN A NÉP](https://rumble.com/v794kjo-260428cn-zen-a-np-kubnyi-tams-ktv.html)  [https://share.note.sx/liahqjdr](https://share.note.sx/liahqjdr) [https://archive.ph/k8Ouf](https://archive.ph/k8Ouf)</small>
