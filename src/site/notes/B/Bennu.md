@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bennu/","title":"Bennu","created":"2026-04-05T02:39","updated":"2026-04-05T02:40"}
+{"dg-publish":true,"permalink":"/B/Bennu/","title":"Bennu","tags":["containscallouts"],"created":"2026-04-05T02:39","updated":"2026-05-08T23:06"}
 ---
 
 
