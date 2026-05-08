@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2024-10-27T12:27","updated":"2026-03-05T01:31"}
+{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2024-10-27T12:27","updated":"2026-05-08T23:03"}
 ---
 
 
@@ -138,7 +138,9 @@ Lásd még [[K/KIN\|KIN]] és [[K/King\|king]].
 
 ## Magyar királyok István előtt
 
-Komlóssy Zsuzsanna Nyitva látom mennyország ajtaját című az Ősi Gyökér 2019-20/1-4. sz. megjelent cikkében írja:  
+#### Komlóssy Zsuzsanna Nyitva látom mennyország ajtaját...  
+
+...című az Ősi Gyökér 2019-20/1-4. sz. megjelent cikkében írja:  
 > Hogy a magyarok koronát kértek volna István koronázásához, vagy a pápa általi koronaküldést – nem igazolják írott forrásaink, sem a László-kori nagyobb Szent István legenda, sem a Kálmán idején készült kisebb legenda. Történelmi dokumentumokból tudjuk, hogy Szent István előtt uralkodóinkat már királyi méltóságnévvel illetik Attila királytól kezdve.  
 
 Az [alábbi](https://youtu.be/RgZoEJb8Enc) A mindenséggel mérd magad 16/5. című Szántai Lajos előadásban 41:44-nél mondja, hogy dacára annak, hogy Szent [[I/István\|István]]t tartják első királynak, [[A/Árpád\|Árpád]]ot, Zoltát, Taksonyt, Kurszánt nyugati források, Gyulát, Bulcsút és Lehelt mindenféle források, králnak, királynak, rex-nek nevezik (Kubínyi Tamásnál ugye [[A/Álmos\|Álmos]] is király, illetve [[A/Atilla hun király\|Atilla]] is magyar király, és [[A/Árpád\|Árpád]] sem [[F/Fejedelem\|fejedelem]] vagy fővezér/hadnagy). Más előadásában mondjuk ezt a tényt kicsinylően említi, hiszen nem Szent Koronával koronázott "kisebb királyok" lettek volna csak.  
@@ -146,6 +148,9 @@ Az [alábbi](https://youtu.be/RgZoEJb8Enc) A mindenséggel mérd magad 16/5. cí
 Kubínyi Tamás egy műsorában idézi az Szent István király intelmei Imre herceghez írást:  
 > "Az én szokásaimat pedig, melyekről látod, hogy a királyi méltósággal összeférnek, a kétkedés minden béklyója nélkül kövessed. Mert nehéz lesz megtartani e tájon királyságodat, ha szokásban nem utánzod a korábban királykodó királyokat."  
 - Ami után azt a megjegyzést teszi, hogy megdől az a dogma, hogy István első királya lenne országunknak.
+
+Kubínyi Tamás más műsorában közli:  
+> A német-római császár hagyatéka a magyar államra is kiterjedt, hiszen Szent István királyunk felesége az ő családjából származott. A Quedlinburgi szerződés, amelyet Géza király kötött Ottó királlyal, már Gézát is királynak nevezi, ezzel megdöntve azt a hamis elméletet, miszerint Szent István előtt nem voltak magyar királyok. [02:30](https://rumble.com/v79j5sc-260507cn-legyen-patritk-kubnyi-tams-ktv.html?start=150)  
 
 ## Napkirály, szakrális király
 
