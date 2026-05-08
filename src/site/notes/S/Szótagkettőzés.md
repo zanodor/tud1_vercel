@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated"],"created":"2023-10-29T05:21","updated":"2026-04-05T02:43"}
+{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T05:21","updated":"2026-05-08T23:05"}
 ---
 
 
