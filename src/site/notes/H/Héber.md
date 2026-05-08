@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:41","updated":"2026-03-05T01:28"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:41","updated":"2026-05-08T02:23"}
 ---
 
 
@@ -221,17 +221,18 @@ Nem elképzelhetetlen, hogy a (magát) vezető(nek kinevező) zsidó papok sajá
 
 [^1]: Lábjegyzet:  
 Az arab **Masr** = Egyiptom, a [[M/Maghreb\|Maghreb]] kifejezés, a Tejút Al Majarrah neve, a Tejútanya vulváját jelképező kagyló `mahar` neve és az ismét csak önelnevezésre utaló, [[M/Magar\|Magar]] címnél bővebben taglalt `muhajir` és `muhājirūn` szavak, sőt a szaracén [[M/Mór\|Mór]] is mind magyarokra utalnak.  
-De Dr. Kovács Sándor Gán.Muš – a kígyó kertje avagy a sötétség című az Ősi Gyökér 2010/1-2. sz. megjelent cikkében egyiptomi témában Bunyeváczot idézve írja a rabbinikus hagyományról, hogy az Oxfordban (is) tudományos kutatásokat folytató Drexler (Drechsler) Miksa tudós temesvári főrabbi – szóbeli közlésen alapuló írás tanúsága szerint – 96 esztendős korában (1979) kijelentette, hogy "ti, magyarok vagytok a legősibb nemzet, minden ma élő nemzet közül. Ezt mi, zsidók, nagyon jól tudjuk. Még a kivonulás előtt, Egyiptomban, már ott is megjelentek lovasaitok, és tudtuk rólatok, hogy már ősidők óta léteztek." (Bunyevácz 480) \[A matek viszont nem jön ki, ha a Wikit nézzük: Tabajd, 1883. október 23. – ?, 1970.\]  
+
 
 [^2]: Lábjegyzet:  
 Práczki István Szittya Biblia című könyvében továbbmegy:  
 A héber sokféleképen ejthető: hábor, héber, hébér, hőbör, hűbér és [[K/Kóbor\|kóbor]]. Ezek a szavak (a `hébér` = (bor)lopó kivételével) a nyughatatlanság és agresszivitás különböző fokozatait jelentik. Békében a höbör-gő és a kóbor-ló valamint a heber; heverő tulajdonságot olvashatjuk ki. A háborúban a hábor-góst és hűbér-est.  
+—  
 Práczki István a [[K/Kövér\|kövér]] szót is a kabar-héberekhez köti (Magyar Adorján Ősműveltségében lásd rajzokat hozzá):  
-Van azonban még egy ősi jelentése, a Keber = kövért is jelent, ami a zsidók vastag száját és hizásra hajlamosságát egyaránt jelenti. (A Rebeka név tulajdonképpen e szó fordítottja és női "leképzése" (Rebeka- a keber, kevér), ami a nagy-kebelűséget és kövérséget is jelzi.  
+Van azonban még egy ősi jelentése, a Keber = kövért is jelent, ami a zsidók vastag száját és hízásra hajlamosságát egyaránt jelenti. (A Rebeka név tulajdonképpen e szó fordítottja és női "leképzése" (Rebeka- a keber, kevér), ami a nagy-kebelűséget és kövérséget is jelzi.  
 Igenis, elképzelhetőnek tartom, hogy a szkíta-magyarságnak ősi ellenségévé váltak és a gúnynevek – részint – így alakulnak ki.  
 Amit kihagytak, hogy a [[H/Haver\|haver]] szavunk héber eredetű. [[H/Hever\|Hever]] szót pedig mostanában szintén felvettük.  
 —  
-Hasonló szó a hóbort is, és valószínűleg a szemita-szemét pároshoz hasonlóan kialakult, héber szó/név nyomán létrejött lengyel `hoby` = kamat is, ha nem a [[K/KAP\|kap]] ige a megoldás.  
+Hasonló szó a `hóbort` is, és valószínűleg a szemita-szemét pároshoz hasonlóan kialakult, héber szó/név nyomán létrejött lengyel `hoby` = kamat is, ha nem a [[K/KAP\|kap]] ige a megoldás.  
 
 [^3]: Lábjegyzet:  
 Lásd [itt](https://en.m.wiktionary.org/wiki/גדה).  
