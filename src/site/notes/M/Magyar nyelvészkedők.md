@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","created":"2023-11-19T03:30","updated":"2026-04-10T23:09"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","tags":["containscallouts"],"created":"2023-11-19T03:30","updated":"2026-05-08T23:04"}
 ---
 
 
