@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kentum-szatem szabály/","title":"Kentum-szatem szabály","tags":["containstransclusions"],"created":"2025-05-29T17:30","updated":"2026-02-24T01:08"}
+{"dg-publish":true,"permalink":"/K/Kentum-szatem szabály/","title":"Kentum-szatem szabály","tags":["containstransclusions"],"created":"2025-05-29T17:30","updated":"2026-05-08T02:24"}
 ---
 
 
@@ -15,7 +15,12 @@
 
 > Hogy a k, h, s, sz fölcseréltetnek, az az általános emberi hangszervek természetében fekszik. Így jönnek öszve a latin `cornu`, német `Horn`, magyar `szaru`.  
 
-A fő konklúzió az, hogy ez egy magyar [[F/Flexió\|flexió]]s jelenség és a kimmér-szumer példa helyett egy lényegesebbre is felhívhatjuk a figyelmet: tulajdonképpen a [[K/Kutya\|Ku-Ta]] összetétel, mely a `kutya` szót is alkotja, egyszerre utal a [[S/Süt\|süt]] és [[S/Sötét\|söt(ét)]] fogalmára azzal, hogy a Kutya csillagkép (és főképpen az az mellett lévő Tejút sáv) az éggömböt felezi ill. a fényes és sötét félévet választja el.  
+A fő konklúzió az, hogy ez egy magyar [[F/Flexió\|flexió]]s jelenség és a kimmér-szumer példa helyett két lényegesebbre is felhívhatjuk a figyelmet: 
+1. 
+Ami sok nyelvben k-előtétesen jelent Napot ([[K/KIN\|Kin]], [[K/KÜN\|Kün]], Gün, stb.), az másutt sz-előhangosan jelenik meg: [[S/SZON\|Szon]], [[S/SZEM\|Szem]], stb. Erről olyan sok helyen volt szó, hogy itt nem is kívánom taglalni.  
+
+2. 
+Tulajdonképpen a [[K/Kutya\|Ku-Ta]] összetétel, mely a `kutya` szót is alkotja, egyszerre utal a [[S/Süt\|süt]] és [[S/Sötét\|söt(ét)]] fogalmára azzal, hogy a Kutya csillagkép (és főképpen az az mellett lévő Tejút sáv) az éggömböt felezi ill. a fényes és sötét félévet választja el.  
 A kutya mellett a [[S/Suta\|suta]] (lásd még [[C/Csuda\|csuda]]) szavak mutatnak rá a fényes és sötét együttlétére; lásd még [[D/Dialektikus ellentét\|dialektikus ellentét]].  
 - [[E/El Shaddai\|El Shaddai]] címnél pedig rámutattunk, hogy ha Ku-Ta = hegyet is jelent és S-D vázú szó lehet hegy jelentésű, akkor S-T/S-D vázú szavak valamilyen nyelvben előfordulhatnak kutya jelentéssel. Lám, a másutt is említett ajnó/ainu `seta` és a mundari `seta` = kutya jelentésű.
 
