@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor nyelvelmélet/","title":"Finnugor nyelvelmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:31","updated":"2026-03-05T01:22"}
+{"dg-publish":true,"permalink":"/F/Finnugor nyelvelmélet/","title":"Finnugor nyelvelmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:31","updated":"2026-05-08T02:22"}
 ---
 
 
@@ -144,9 +144,7 @@ Az [alábbi](https://youtu.be/ntS4zJWiGoM) előadásában Grandpierre Atilla 1:1
 
 Kubínyi Tamás az [alábbi](https://youtu.be/_9sc6rN-Rpk) Anunnakik az ősforrásokban 3. rész című előadásának utolsó negyedében szól arról a hihetetlen történetről, melynek keretében a budapesti Állatkertben negyven éven át, 1873-tól 1913-ig mutatták be az "emberevő" [[S/Szamojéd\|szamojéd]]eket (lásd új adatokkal ott), a magyarok állítólagos rokonait. A Habsburg titkosszolgálat és többek közt [[B/Budenz József\|Budenz József]], aki magyarul sem tudott igazán megtanulni, áll a háttérében. Szó volt itt bécsi és párizsi vendégprodukcióról is: hadd lássák külföldön is, kik is ezek a magyarok.  
 
-Közben egy műsorának 22 perces anyagát [ezen](https://youtu.be/ry6VGZGol04) saját csatornámra tett videóban is felvettem.
-
-Az [alábbi](https://www.nyest.hu/renhirek/latogassa-meg-rokonait-az-allatkertben) oldalon bőséges információk állnak a történetről.   
+Közben egy műsorának 22 perces anyagát [ezen](https://youtu.be/ry6VGZGol04) saját csatornámra tett videóban is felvettem.  
 
 Dr. Marácz László Magtudin oldalról letöltésre elérhető két angol nyelvű írásából (melyek egyikében Bakay Kornéllal a több helyen idézett Rédei Károly munkásságát és elveit kritizálják) Quorára másolhatóak adatok. Ezek a cikkek:  
 http://www.magtudin.org/Maraczlaszlo.htm  
@@ -497,7 +495,7 @@ Az elavult módszerek témájához még...
 > 
 > | Koch                                                                       | Shevoroskin                                                                | Bateman                                                                    |
 > | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-> | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191129405.jpeg](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191129405.jpeg) | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191212374.jpeg](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191212374.jpeg) | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191308422.jpeg](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191308422.jpeg) |
+> | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191129405.jpeg\|invert_light](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191129405.jpeg) | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191212374.jpeg\|fix_dark fix_light](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191212374.jpeg) | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191308422.jpeg\|fix_dark fix_light](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191308422.jpeg) |
 > 
 
 
