@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2026-03-05T01:26"}
+{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2026-05-08T02:23"}
 ---
 
 
@@ -219,7 +219,7 @@ A görög nyugatot jelentő `δύση` (düszi) szavának is lehet köze a tűzh
 
 A jobb iránnyal ellentétes, éppen bal (szerencsétlen) értelmű a görög, nyilván szintén tűz szavunkból eredő (de talán judeo-keresztény hatásra ellentétes jelentésűvé váló) `düsz`, melyről [[D/Disaster\|disaster]] címnél és [[D/Dis- prefixum\|dis- prefixum]]nál is volt szó. Persze mivel a zsidók porondra kerülése előtti is lehet a szó, inkább arra lehet gondolni, hogy a nyugat = halál mellékértelem hozta magával inkább a bal jelentést (lásd még [[B/Bal és jobb\|bal és jobb]]).
 
-A görög `düszi` szóhoz pedig egészen hasonló az értelmét tekintve logikusan passzoló, [[D/Duck\|duck]] címnél említett óangol `dūce` = lebukó értelmű szó (a Nap lebukása = nyugaton).  
+A görög `düszi` szóhoz pedig egészen hasonló az értelmét tekintve logikusan passzoló, [[D/Duck\|duck]] címnél említett óangol `dūce` = lebukó értelmű szó (a Nap lebukása = nyugaton) és az [ezen](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/tuxn%C7%ABti) proto-szláv rekonstrukciós gyökből származtatott szavak között előjövő orosz `ту́хнуть` (`túxnutʹ`) = kialszik (fény, tűz) ige.  
 
 A [[T/Thurifer\|thurifer]] és [[T/Thurible\|thurible]] szavaknál előjövő latin `thus` = tömjén, füstölő szóban szintén megvan.  
 Az [[E/Enthusiastic\|enthusiastic]] szóban thus nyilván tűz kell legyen.  
