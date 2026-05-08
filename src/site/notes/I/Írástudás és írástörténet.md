@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Írástudás és írástörténet/","title":"Írástudás és írástörténet","created":"2026-03-17T22:19","updated":"2026-04-18T16:13"}
+{"dg-publish":true,"permalink":"/I/Írástudás és írástörténet/","title":"Írástudás és írástörténet","created":"2026-03-17T22:19","updated":"2026-05-08T23:04"}
 ---
 
 
