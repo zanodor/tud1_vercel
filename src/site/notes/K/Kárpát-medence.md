@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2026-05-04T18:04"}
+{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2026-05-08T23:02"}
 ---
 
 
@@ -133,7 +133,7 @@ Utána Gábori Miklós és Gáboriné Csánk Vera: Az ősember Magyarországon. 
 > Evan Hadingham, a Harvard Egyetem embertannal foglalkozó professzora, Secrets of the Ice Age. New York. Walkerand Co. 1979. 64. oldalán hasonló adattal szolgál:  
 > "Az embertani fejlődés Közép-Európában Érd és Tata vidékén alakult ki. A Közép-Európa embere itt érte el – minden más behatástól függetlenül – a műveltség magasabb fokát."  
 
-A Magyar Nemzeti Múzeum Kelet és Nyugat határán kiállítás 2. terem érdekességei kapcsán [ezen](https://mnm.hu/hu/kiallitasok/allando/kelet-es-nyugat-hataran) és [ezen](https://mnm.hu/hu/kiallitasok/kelet-es-nyugat-hataran/ujkokor-rezkor) oldalon, ahogy Bognár László előadásában is szót ejt róla, nagyon érdekes dolgokkal találkozunk:  
+A Magyar Nemzeti Múzeum Kelet és Nyugat határán ![Kárpát-medence_image20260508170022308.jpeg|right|200](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image20260508170022308.jpeg)kiállítás 2. terem érdekességei kapcsán [ezen](https://mnm.hu/hu/kiallitasok/allando/kelet-es-nyugat-hataran) és [ezen](https://mnm.hu/hu/kiallitasok/kelet-es-nyugat-hataran/ujkokor-rezkor) oldalon, ahogy Bognár László előadásában is szót ejt róla, nagyon érdekes dolgokkal találkozunk:  
 Kelet és nyugat határa – A magyar föld népének története Kr. e. 40.000 - Kr. u. 804-ig. (Lásd: Magyar Nemzeti Múzeum Honlapján)  
 "Az ![assets/Kárpát-medence_image3.png|right|200](/img/user/K/assets/K%C3%A1rp%C3%A1t-medence_image3.png)Alföld településsűrűsége az újkőkor idején elérte, sőt meghaladta a mai települések számát, a lakóházak mérete gyakran jelentősen meghaladta a mai átlagos lakóházak méretét."  
 
