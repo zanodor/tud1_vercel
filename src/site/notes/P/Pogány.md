@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2026-05-08T02:23"}
+{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2026-05-08T23:03"}
 ---
 
 
@@ -75,7 +75,7 @@ Pap Gábor ezután még felhozza az orosz `язычник` = pogány szót, mely
 A fentebb említett cikkben írja:  
 > Az igazi meglepetést mégis az orosz szótár tartogatja számunkra. A magyar-orosz részben keresgélve a pogány szó megfelelője után, ilyen alakzatra bukkanunk: `jazicseszkij`. Ennek az alapszava pedig nem valamiféle falu, puszta vagy nép, nemzetség, paraszt stb. jelentéssel kínál meg bennünket, hanem azzal, hogy `jazik` = nyelv! Származékai közül érdemes szemügyre venni néhány árulkodó tételt: `jazicsesztvo` = pogányság; `jazicsnyik` = pogány (férfi) – viszont `jazicsnij` = nyelv (például jazicsnije misci = nyelvizmok); `jazicsók` = nyelvecske... nyelvcsap stb.  
 
-De mi lenne, ha az orosz szó eredetén keresztül is a szkíta-íjfeszítő összefüggésre lelnénk és a szó jazig = [[J/Jász\|jász]] = íjász = pogány-págony/szkíta <=> szemita-zsidó lenne? A nyelvet jelentő orosz `язык` szó kapcsán másutt is írtam, hogy lehet az [[I/Isa\|isa]], [[I/ISZ\|isz]], [[I/Íz\|íz]] kiáradása (de a nyelv képes a ízeket is ízlelni), illetve [[I/Issue\|issue]] és [[I/Íz\|íz]] címnél pedig az ilyen alakú szanszkrit `ishu` = nyílvessző értelem is előjött. Azt pedig szintén tudjuk, hogy az i-előhangos szavak ja/jo-előrészesekké válhatnak.  
+De mi lenne, ha az orosz szó eredetén keresztül is a szkíta-íjfeszítő összefüggésre lelnénk és a szó jazig = [[J/Jász\|jász]] = íjász = pogány-págony/szkíta <=> szemita-zsidó lenne? A nyelvet jelentő orosz `язык` szó kapcsán másutt is írtam, hogy lehet az [[I/Isa\|isa]], [[I/ISZ\|isz]], [[I/Íz\|íz]] kiáradása (de a nyelv képes a ízeket is ízlelni), illetve [[I/Íz\|íz]] címnél pedig az ilyen alakú szanszkrit `ishu` = nyílvessző értelem is előjött. Azt pedig szintén tudjuk, hogy az i-előhangos szavak ja/jo-előrészesekké válhatnak.  
 
 12:15-nél azt mondja, hogy a héber [[G/Gój\|gój]] = nép jelentésű lenne eredetileg; a [[G/GU\|GU]] és [[K/KU\|KU]] etimonok ismeretében ez nem biztos, hogy így is van, bár Péterfai János a *gój méólám* kifejezést ősidőktől való népként (= magyar) fordítja. [[K/KU\|KU]] címnél álló Jankovics Marcell adat szerint a kínaiban `kou` nemcsak száj és (ajtó)nyílás, hanem népesség jelenéssel is áll, talán a kínai `gou` = kutya (mint a mítoszok szerint a nép őse) szóra rímelve. (Minden a kutyáról és Szíriuszhoz képesti pozícióról szól és persze a [[F/Fény és sötétség\|fény és sötétség]] küzdelméről.)  
 
