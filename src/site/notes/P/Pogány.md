@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2026-05-04T18:06"}
+{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2026-05-08T02:23"}
 ---
 
 
@@ -68,7 +68,7 @@ Pap Gábor ezen görög-latin `ethnikosz` = nemzeti; nemzetségbeli; népi szón
 
 (Ami az alábbiakban itt szerepel, Gondolatok a szkíta nép-nemzeti szertartásrendről c. cikkében Pap Gábornak bővebben, pontosabban megvan.)  
 Ezen témát már az [alábbi](https://youtu.be/zs5G9SWNrzk) videóban Pap Gábor körüljárta: 10:50-től kezdve szól a szkíta kereszténység egyháztörténetben megjelenő jelzőiről: paganus, gentilis és ethnikosz, melyek közül utóbbi is pogány értelmű volt, az angol szótár szerint is (más kérdés, hogy az angol már torzít, mert nemcsak a nem-zsidó pogányra utal, hanem teljesen nem-keresztényre). ([[G/Gentile\|Gentile]] = nem zsidó és [[G/Gentle\|gentle]] = nemes érzelmű szavak ide tartoznak. Az [alábbi](https://youtu.be/PEvrVFHIoBE) videóban 9:10-nél Pap Gábor elmondja, hogy a régi Országh féle zsebszótárban benne van a gentile = nem zsidó definíció (ellenőriztem: valóban első jelentése ez, a második idegen), de az újabb szótárakból kivették. Az online szótár is csak idegen jelentéssel adja meg.)  
-9:40-nél a [[H/Heathen\|heathen]] címnél is említett (CzF által pogány címnél adatolt Adelung infójaként is említett) `der Heide` = pogány (gój) és `die Heide` = mező; puszta szópárral mutatja be, hogy a fentiekhez hasonlóan működik (ez egy kicsit erőltetett tőle, és itt is elmondható, hogy a pogányok ([[V/Vrâtya\|Vrâtya]] címnél írottakra emlékezzünk) mivel nem városokban laktak, ezért ez a mezei, vidéki jelentéstartalom minden esetben utólag is kialakulhatott, illetve alakult ki; persze itt nem Indiáról, hanem az [[I/István\|István]] címnél is taglalt két Rómának szkítákat megítéléséről van szó).  
+9:40-nél a [[H/Heathen\|heathen]] címnél is említett (CzF által pogány címnél adatolt Adelung információjaként is említett) `der Heide` = pogány (gój) és `die Heide` = mező; puszta szópárral mutatja be, hogy a fentiekhez hasonlóan működik (ez egy kicsit erőltetett tőle, és itt is elmondható, hogy a pogányok ([[V/Vrâtya\|Vrâtya]] címnél írottakra emlékezzünk) mivel nem városokban laktak, ezért ez a mezei, vidéki jelentéstartalom minden esetben utólag is kialakulhatott, illetve alakult ki; persze itt nem Indiáról, hanem az [[I/István\|István]] címnél is taglalt két Rómának szkítákat megítéléséről van szó).  
 
 Pap Gábor ezután még felhozza az orosz `язычник` = pogány szót, melyet a `язык` = nyelv szó származékának tart: merthogy szerinte a nyelv a népé, nemzeté, és a pogányság tehát a zsidók által gyűlölt és kiirtandó népekre utal. A nyelv különbségére hívhatta volna fel a figyelmet: a magyar még a régi nyelvét megtartva beszélt, de sok szkíta/hun már nem.  
 
