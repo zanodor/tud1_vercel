@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2026-04-24T09:35"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2026-05-08T02:23"}
 ---
 
 
@@ -53,7 +53,7 @@ Michel-Gerald Boutet Druidical Astrology című dolgozatában írja (a Duna-ment
 
 Úgy tűnik, a Makara név a Bakban megszülető Nap (Makar, Magur) nevéről vitetett át az őt szülő szörny illetve tengeri lény nevére.  
 
-Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 93-94. oldalán a nevet eufráteszinek, azon belül is akkádnak (a kakkab mondjuk asszír csillagképek nevei elé is járuló kifejezés) írja le, Kakkab **Ma-Gur** és Kakkab Muna-kha neveket hozva fel Bakhalra, de még említi a szintén eufráteszi **Makhar** és **Magur** neveket is, melyekről elmondja, hogy más művében már hasonlította az ind Makara névvel. (Persze az általa (forrása alapján) megadott jelentés, "a kötél hajója" megint olyan, ami [[M/Magor\|Magor]] címnél is kétségeket támasztott bennünk).)  { #mkkhrr}
+Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 93-94. oldalán a nevet eufráteszinek, azon belül is akkádnak (a [[K/Kakkab\|kakkab]] mondjuk asszír csillagképek nevei elé is járuló kifejezés) írja le, Kakkab **Ma-Gur** és Kakkab Muna-kha neveket hozva fel Bakhalra, de még említi a szintén eufráteszi **Makhar** és **Magur** neveket is, melyekről elmondja, hogy más művében már hasonlította az ind Makara névvel. (Persze az általa  ill. forrása alapján megadott jelentés, "a kötél hajója" megint olyan, ami [[M/Magor\|Magor]] címnél is kétségeket támasztott bennünk).  { #mkkhrr}
 
 - [[M/Makara Sankrati\|Makara Sankrati]] címnél Richard H. Allen könyvében is történik utalás Brown adataira; lásd ott.
 
