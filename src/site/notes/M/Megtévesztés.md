@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2026-04-24T09:34"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2026-05-08T02:23"}
 ---
 
 
@@ -14,8 +14,7 @@ A megtévesztés és hazudozás nagymesterei a kabbalista zsidók, akiket Yarosl
 
 A **csalás művészeté**ről [[D/Dialektika\|dialektika]] bevezető soraiban is volt szó.  
 
-Az alábbiakban a [[S/Sátán\|Sátán]] **hatalomtechnikai eszközei**ről lesz szó, külön alcímek alatt, nemcsak a megtévesztésről.  { #ypmbnt}
-
+Az alábbiakban a [[S/Sátán\|Sátán]] **hatalomtechnikai eszközei**ről lesz szó, külön alcímek alatt, nemcsak a megtévesztésről.  { #ypmbnt}
 
 
 Az [alábbi](https://youtu.be/Vlu5QxrwHEs) ÁKTV műsorban Czékus Jób beszél arról, hogy egyes tévéműsorokat úgy készítenek el, hogy a nemzetérzelmű embert szólítják meg, 60-80%-ban az igazat látszanak mondani és belekevernek olyan torzításokat, hazugságokat, hogy az egészről végül kiderül, hogy az ellenségeink nézőpontját akarja ránk erőltetni, belénk nevelni. Ha az ember 10-ből 6-8 dolgot hall, amiről érzi, tudja, hogy igaz lehet, akkor azt gondolja, hogy a többi is.  
