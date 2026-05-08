@@ -1,36 +1,56 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gilgames/","title":"Gilgames","created":"2024-10-25T19:00","updated":"2026-03-05T01:34"}
+{"dg-publish":true,"permalink":"/G/Gilgames/","title":"Gilgames","created":"2024-10-25T19:00","updated":"2026-05-08T02:23"}
 ---
 
 
 # Gilgames
+
+## Névváltozatok
+
+A történeti és nyelvészeti kutatások szerint a Gilgames név sumer megfelelője, vagy korai formája **Bilgames** (vagy Bilgá-mes) volt; jelentése – a leggyakrabban idézett értelmezés szerint – "az öregfiú" vagy "öreg-ifjú" (az öregember/bölcs és az ifjú/hős kombinációja). 
+A név változása: Az idők folyamán, ahogy a mezopotámiai mítoszok a sumer kultúrából átkerültek az akkád, babiloni és asszír kultúrába, a Bilgames név fokozatosan Gilgames (akkádul: Gilgameš) alakban rögzült.  
+> [!details]- &nbsp;
+> A `bilgá` szó a sumér nyelvben nem „öreget” jelent a mai értelemben vett melléknévként, hanem főnévként azt jelenti: „ős”, „férfi felmenő” (valamint „friss gyümölcs”).  
+> 
+> *Ki adatolja és hogyan?*
+> 
+>    1. Szakmai szótárak (ePSD2 / Oracc):
+>    A Pennsylvaniai Egyetem által gondozott hivatalos sumér szótár, az [ePSD2 (Electronic Pennsylvania Sumerian Dictionary)](https://oracc.museum.upenn.edu/epsd2/literary/cbd/sux/summaries.html) a 𒉋𒂵 (bil₂-ga / bilga) jelet „male ancestor” (férfi ős/előd) jelentéssel adatolja az óbabiloni korból.
+>    2. Andrew R. George (Asszíriológus):
+>    A neves brit tudós az [akkád és sumér Gilgames-eposz kritikai kiadásában](https://www.facebook.com/EmeGir15/photos/the-name-gilgame%C5%A1pabilga-me%C5%A1-bilgame%C5%A1-gilgame%C5%A1the-name-gilgame%C5%A1-follows-the-equa/2181349235253072/) részletesen elemzi a nevet. Gilgames eredeti sumér neve Bilgames (Bilga-mes) volt, amelynek jelentése: „az ős egy hős”. A `bilga` (ős) és a `mes` (hős, fiatalember) szavak összetételéből áll.
+>    3. John A. Halloran:
+>    A sumér szókészlet kutatója szerint a bilga a pabilga (paternal grandfather – apai nagyapa) szóra vezethető vissza, amely a családfa „ágát” és az abból származó „ősöket” jelölte.  
+
+Dr. Kovács Sándor Gán.Muš – a kígyó kertje avagy a sötétség című az Ősi Gyökér 2010/1-2. sz. megjelent cikkében is a **Bil.Ga.Mes** formát közli.  
+- Lábjegyzetes adatként (ahol történelmi szereplőként jön elő, ahogy előtte Nimrud) írja, hogy nevének jelentése Új(jászületett) Ember.
+
+Várkonyi Nándor könyvének adata szerint régi neve szerint [[G/GIS\|Gis]]. (Alant is becézett formaként jön elő.)  
 
 #### Péterfai János írja:
 
 > Gilgames ![assets/Gilgames_image1.jpeg|right|196](/img/user/G/assets/Gilgames_image1.jpeg)nevét akkádnak minősítik, holott színmagyar név. A név helyesen Gil-Ga-Mes elemekből áll. Mind a három elem magyar szó, semmi köze az akkádokhoz, hacsak az akkádok nem magyarul beszéltek. Gil a Galamb egyik neve, lásd Gilice, ami galambot jelent, és a Gil becézése. A perzsa `Gil` szintén galamb, a perzsa szó kétségtelenül a magyar nyelvből ered, csak vessük össze a két nyelv létezésének idejét. A Ga egyértelműen Ház, a Mes Ifjú, mint a Mes-E szavunkban is. Ez a Galamb-Házi-Ifjú jelentés a hős galamb lelkű viselkedésére vonatkozik. Elsősorban édesanyja nevezte Gilnek, gyakran Gisnek.  
 > Nevét aztán később, a Gil elemet Gyilnek értelmezve, a Gyilkosság-Házának-Ifja jelentésre módosították. A Gil, Gyil, Kil tényleg jelent gyilkost is. Gilgames az egyik legnagyobb magyar király, akinek tetteiről később eposzokat írtak.   
 
+Bakos Attila A Duna Evangéliuma című könyvének 89. oldalán azt írja, hogy régi nevei közül ismert **Izdubar** (illetve ő Izbudarnak írja) és **Gis'saks**.  
+
 #### Badiny Jós Ferenc közlése:  
 
 > A Gilgames Éposz semita-akkád nyelvű nyelvemlék egy "Sin-le-ke-Unini" nevű és az i e. 12. században élt babilóni költő munkája, aki ügyesen beiktatta nagy művébe az akkor még igen jól ismert sumir táblák idevonatkozó tartalmát. A Gilgames Éposz ékiratos táblái: Assurbanipal (Kr.e. 669-630), ninivei agyagtábla-könyvtárából kerültek napvilágra.  
-
-Dr. Kovács Sándor Gán.Muš – a kígyó kertje avagy a sötétség című az Ősi Gyökér 2010/1-2. sz. megjelent cikkében **Bil.Ga.Mes**-ként is látom kiírva, B-vel.  
-Lábjegyzetes adatként (ahol történelmi szereplőként jön elő, ahogy előtte Nimrud) írja, hogy nevének jelentése Új(jászületett) Ember.  
-
-Várkonyi Nándor könyvének adata szerint régi neve szerint [[G/GIS\|Gis]]. (Alant is becézett formaként jön elő.)  
-Bakos Attila A Duna Evangéliuma című könyvének 89. oldalán azt írja, hogy régi nevei közül ismert **Izdubar** (illetve ő Izbudarnak írja) és **Gis'saks**.  
 
 #### Oláh Imre A Nimrud hagyomány...
 
 ...című tanulmányából is az derül ki, hogy nem ez volt az eredeti neve:  
 > A sumír legendák [[U/UTU\|UTU]] ([[U/UD\|UD]]) napisten fiaként, ÍZ-DU-BÁR (jelentése: "az örök-lélek született párja") formában örökítették [[N/Nimrud\|Nimrud]] emlékét. Itt jó, ha megjegyezzük, hogy azokat az ékjeleket, melyeket sumír nyelven IZ-DU-BAR-nak olvasott George Smith már a múlt században, a semita akkád nyelv GIS-GIL-MAS-nak értelmezi és ennek fejlesztett formája Gilgames, aki senki már \[értsd: nem más\], mint Nimrud, a káldeusok és kusiták nagy királya.  
 
-Bunyevácz Zsuzsa Nimród nyomában című háromrészes rövid tanulmányának harmadik részében Marton Veronikától való (vélhetően Nimród származása – Nimród, a hunok és a magyarok őse című tanulmányában is megtalálható) adatokat oszt meg. Ebben ez áll ([[N/Nimrud\|Nimrud]] címtől áttéve ide):  
-Az ékiratok szerint a Biblia említette Nimród azonos Gilgamessel. Neve a régi görögök szerint Gilgamos, innen származik a közismert Gilgames elnevezés. Az ékiratokban (G)IS-DU-BAR, de mind a sumir ékiratos táblákon, mind az asszírok által összeszerkesztett Gilgames eposzban többféle ékjellel írták a nevét, és többféleképpen is hangzósították. Ennek oka, hogy a Gilgames-történetek számos ókori nép hagyományában, írásos emlékeiben fennmaradtak, és a szövegek egymástól igencsak távoli helyeken kerültek elő. Így, ha a történetek azonosak is, a nevek írásában (és hangzósításában) bizony eltérés van ([[T/Transzliteráció\|transzliteráció]] címhez is bekerült). Leggyakoribb jelentése "a napisten fokosának hőse". E jelcsoportnak más értelmezése is lehet, mert a káld-sumir jelek jobbadán többjelentésűek, de a különféle jelentések nincsenek szöges ellentétben egymással. Egybevetve a Bibliát és a Gilgames eposzt, kiderül, hogy valóban egyazon személyről, bátor vadászról és harcosról, "utazóról" van szó. Mindkettő birodalomalapító, mégpedig az első a (kis)ázsiai birodalomé. Izdubar királyságának központi magja Sinear (=Sumer) és Akkad, Babilon, Erek (az örök város) és Nippur.  
+#### Bunyevácz Zsuzsa Nimród nyomában...  
+
+...című háromrészes rövid tanulmányának harmadik részében Marton Veronikától való (vélhetően Nimród származása – Nimród, a hunok és a magyarok őse címet viselő tanulmányában is megtalálható) adatokat oszt meg. Ebben ez áll ([[N/Nimrud\|Nimrud]] címtől áttéve ide):  
+> Az ékiratok szerint a Biblia említette Nimród azonos Gilgamessel. Neve a régi görögök szerint Gilgamos, innen származik a közismert Gilgames elnevezés. Az ékiratokban (G)IS-DU-BAR, de mind a sumir ékiratos táblákon, mind az asszírok által összeszerkesztett Gilgames eposzban többféle ékjellel írták a nevét, és többféleképpen is hangzósították. Ennek oka, hogy a Gilgames-történetek számos ókori nép hagyományában, írásos emlékeiben fennmaradtak, és a szövegek egymástól igencsak távoli helyeken kerültek elő. Így, ha a történetek azonosak is, a nevek írásában (és hangzósításában) bizony eltérés van ([[T/Transzliteráció\|transzliteráció]] címhez is bekerült). Leggyakoribb jelentése "a napisten fokosának hőse". E jelcsoportnak más értelmezése is lehet, mert a káld-sumir jelek jobbadán többjelentésűek, de a különféle jelentések nincsenek szöges ellentétben egymással. Egybevetve a Bibliát és a Gilgames eposzt, kiderül, hogy valóban egyazon személyről, bátor vadászról és harcosról, "utazóról" van szó. Mindkettő birodalomalapító, mégpedig az első a (kis)ázsiai birodalomé. Izdubar királyságának központi magja Sinear (=Sumer) és Akkad, Babilon, Erek (az örök város) és Nippur.  
+
 A [[N/Nimrud\|Nimrud]]-életúttal való párhuzamok/azonosítás folytatását is beteszem akkor már ide:  
-Nimród "birodalmának kezdete volt Bábel, Erekh, Akkád és Kálnéh a Sineár földjén. Tehát Izdubar és Nimród első birodalma ugyanazon terület volt. Nimród "e földről ment aztán Assíriába és építé Ninivét, Rekhoboth városát és Kalaht. És Reszent Ninive között és Kalah között" A héber iratok Asszíriát "Nimród földjének" nevezik. Izdubar is Asszíria felé kelt útnak, hogy megvívjon Humbabával.  
-George Rawlinson angol asszirológus írja, hogy Nimród valóban a babiloni uralom létrehozója volt, és egy vagy két évszázaddal a méd vagy az elamita dinasztia előtt uralkodott.  
-Tehát e megállapítások egymással egybevágnak. Mind Nimród, mind Gilgames birodalmának kezdete Sumerhoz kötődik, és szinte ugyanazon városokat alapítják, ezután vándorolnak Asszíriába.  
+> Nimród "birodalmának kezdete volt Bábel, Erekh, Akkád és Kálnéh a Sineár földjén. Tehát Izdubar és Nimród első birodalma ugyanazon terület volt. Nimród "e földről ment aztán Assíriába és építé Ninivét, Rekhoboth városát és Kalaht. És Reszent Ninive között és Kalah között" A héber iratok Asszíriát "Nimród földjének" nevezik. Izdubar is Asszíria felé kelt útnak, hogy megvívjon Humbabával.  
+> George Rawlinson angol asszirológus írja, hogy Nimród valóban a babiloni uralom létrehozója volt, és egy vagy két évszázaddal a méd vagy az elamita dinasztia előtt uralkodott.  
+> Tehát e megállapítások egymással egybevágnak. Mind Nimród, mind Gilgames birodalmának kezdete Sumerhoz kötődik, és szinte ugyanazon városokat alapítják, ezután vándorolnak Asszíriába.  
 
 A mellékelt képet...
 
