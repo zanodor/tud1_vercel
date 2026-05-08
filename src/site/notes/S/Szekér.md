@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szekér/","title":"Szekér","created":"2025-02-24T18:12","updated":"2026-03-19T18:20"}
+{"dg-publish":true,"permalink":"/S/Szekér/","title":"Szekér","created":"2025-02-24T18:12","updated":"2026-05-08T23:05"}
 ---
 
 
@@ -51,7 +51,7 @@ Hogy a szekér nem csak a Nap lehet, erről [[S/Szekeres csillagkép\|Szekeres c
 ## Chakra - szekér kapcsolat
 
 [[C/Chakra\|Chakra]] helyen elhangzott, hogy a japán `kuruma` = kerék; kocsi, autó jelentésével is rámutat, hogy a szanszkrit kereket jelentő szó eredhet `szekér` szavunkból, hiszen a jelentések összetartoznak, csak ezt nem fogják a nyelvészek lekövetni, még ha egyértelmű is.  
-A [[K/Kerék\|kerék]] Napkerék (ahol a [[K/Küllő\|küllő]]k megfelelő számával akár az állatöv 12-es bontását is eszközölni lehet). [[S/Surya\|Surya]] napisten is szekérrel utazik, [[B/Bárka\|bárka]] helyen pedig a Nap olyan járművéről volt szó, amely az ég tengerén halad.  
+A [[K/Kerék\|kerék]] Napkerék (ahol a küllők megfelelő számával akár az állatöv 12-es bontását is eszközölni lehet). [[S/Surya\|Surya]] napisten is szekérrel utazik, [[B/Bárka\|bárka]] helyen pedig a Nap olyan járművéről volt szó, amely az ég tengerén halad.  
 Ismerni kell a régi népek gondolatát, vallásuk alapjait. Erre jó a magyar nyelv.  
 
 ```plantuml-svg
