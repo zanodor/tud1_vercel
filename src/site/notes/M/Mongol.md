@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mongol/","title":"Mongol","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-24T16:46","updated":"2026-03-31T18:32"}
+{"dg-publish":true,"permalink":"/M/Mongol/","title":"Mongol","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-24T16:46","updated":"2026-05-08T02:24"}
 ---
 
 
@@ -101,7 +101,7 @@ Egy, az Ősi Gyökér 2008/2. sz. megjelent cikkben a Szerkesztőség (talán Gy
 
 #### Götz László Keleten kél a Nap...
 
-...című könyvének 840-841. oldalán a "Handbuch der Kulturgeschichte" c. kötetben helyet kapó G. Ränk tanulmányából (Völker und Kulturen Nordeurasiens) idéz.  
+...című könyvének 840-841. oldalán a "Handbuch der Kulturgeschichte" c. kötetben helyet kapó G. Ränk tanulmányából (Völker und Kulturen Nordeurasiens) idéz:  
 > Ränk később nyomatékosan rámutat arra, hogy ezeket az "europidok"-at azonban nem szabad mai értelemben vett európaiaknak tekintenünk, mert annak idején Szibériától délre és délnyugatra is ez az embertípus dominált (l. id. m. 9. old.).  
 >
 > A következőkben G. Ränk az utóbbi időkben mind világosabban kirajzolódó délkelet-ázsiai ősi kultúrcentrum kérdésével foglalkozik. A jelek arra vallanak – írja –, hogy az elő-ázsiai művelődési központon kívül minden valószínűség szerint Délkelet-Ázsiában is számolnunk kell egy második korai kultúrgóccal, amelynek kialakítói és hordozói a mongoloidok voltak. Ez az embertípus már igen korán kirajzott északra, Kelet-Szibéria sarkvidéki régióba és onnan széles ívben, a Jeges-tenger mentén egyrészt az észak-európai térségig (Lappföld), másrészt Amerikáig szétterjedt. Ezt bizonyítja az említett területek legnagyobbrészt mongoloid lakossága, de az arktikus régió kultúrformáinak messzemenően egységes arculata is, amelyet semmi esetre sem magyarázhatunk csupán a hasonló ökológiai feltételekkel vagy szomszédi érintkezésekkel. E tények vezettek az önálló, sajátlagos arktikus kultúrkör felfedezéséhez, amely az egész sarkvidéki régiót, Európa, Ázsia és Amerika jegestengeri partvidékeit magába foglalja (l. Ränk 1968, 10 12. old.).  
@@ -109,3 +109,8 @@ Egy, az Ősi Gyökér 2008/2. sz. megjelent cikkben a Szerkesztőség (talán Gy
 
 Másutt még ennyit ír:  
 > Az embertan meghatározása szerint a vogulok, osztjákok, [[S/Szamojéd\|szamojéd]]ok az ún. uráli típusba tartoznak, amely mongoloid, paleoszibirid és őseuropid csoportok keveredéséből alakult ki, de a mongoloid-paleoszibirid elemek dominanciájával, azaz sokkal közelebb áll a mongoloidokhoz mint az europidokhoz.  
+
+### Mongoloid vonások az magyar uralkodó osztályon belül
+
+Vannak szép számmal ilyenek. [Apafi Mihály](https://hu.wikipedia.org/wiki/I._Apafi_Mih%C3%A1ly) képe alapján is ezt állapíthatnánk meg.  
+![](https://upload.wikimedia.org/wikipedia/commons/a/a8/Michiele_Abaffi_principe_di_Transilvania_anno_1666.jpg)
