@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2024-05-14T11:45","updated":"2026-04-24T09:37"}
+{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2024-05-14T11:45","updated":"2026-05-08T02:24"}
 ---
 
 
 # Nosztratikus nyelvcsalád
 
-![Nosztratikus nyelvcsalád_image20260406002327946.jpeg](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260406002327946.jpeg){ #uyumdd}
-
+![Nosztratikus nyelvcsalád_image20260406002327946.jpeg](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260406002327946.jpeg){ #uyumdd}
 
 
 A közös ősnyelv ([nosztratikus nyelvcsalád](https://hu.wikipedia.org/wiki/Nosztratikus_nyelvcsal%C3%A1d)) elmélet hirdetői szerint az uráli, dravida, altaji, indoeurópai és afroázsiai nyelvek távoli unokatestvérek.  
@@ -176,8 +175,7 @@ Merritt Ruhlen [weboldalán](https://archive.ph/v7VJH) írja:
 > > 1\. Kulturális megértés
 > > 2\. Tudományos kíváncsiság
 > > 
-> > A proto-világnyelv gondolata — akár bizonyítható, akár nem — az emberiség közös gyökreire és nyelvi sokszínűségére emlékeztet.{ #t7gzqr}
-
+> > A proto-világnyelv gondolata — akár bizonyítható, akár nem — az emberiség közös gyökreire és nyelvi sokszínűségére emlékeztet.{ #t7gzqr}
 
 
 #### Nagyernyei Szabó Zoltán...
