@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bolt/","title":"Bolt","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-10T10:45","updated":"2026-04-24T09:40"}
+{"dg-publish":true,"permalink":"/B/Bolt/","title":"Bolt","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-10T10:45","updated":"2026-05-08T23:05"}
 ---
 
 
@@ -11,24 +11,24 @@ Pap Gábor Icai fekete kövek rejtélye című három részes [előadássorozata
 
 Az angol `bar` hasonlóan fényes hely, de a `shop` is lehet szép dolgokat áruló hely. Lásd még lejjebb.  
 
-[[B/Bolt\|Bolt]] szavunk `bót` formája az, amit [[B/BOT\|BOT]], [[B/BAT\|BAT]] = ház, kis ház (`bódé`) jelentéssel ismertünk. Ez a szó is elemezhető tehát így is úgy is.  
+Bolt szavunk `bót` formája az, amit [[B/BOT\|BOT]], [[B/BAT\|BAT]] = ház, kis ház (`bódé`) jelentéssel ismertünk. Ez a szó is elemezhető tehát így is úgy is.  
 - Az egyik a `bolt` [[B/BOL\|BOL]]/[[B/BUL\|BUL]] = tűz (minthogy `ég` is megvan igeként ilyen jelentéssel) irányából való megközelítés, a másik pedig az, hogy a több helyen említett egyiptomi `pt` (`pet`) = égbolt szó kialakulását is indokolni kell.
 
 Bolt másik jelentése megjelenik a [[V/Vault\|vault]] szóban. Hasonló eset a [[K/Khamor\|Khamor]] címnél taglalt kamra, de [[S/Szoba\|szoba]] szavunk sémi k-előtétes szópárjai kapcsán is a boltozatos helység jött elő.  
 
-[[W/Whelm\|Whelm]] címnél szereplő CzF adatsor alapján a [[V/Vált\|vált]] szavunk gyökének megfelelő BOL gyök alapján is lehet elemezni, minthogy az ég forog is.  
+[[W/Whelm\|Whelm]] címnél szereplő CzF adatsor alapján a [[V/Vált\|vált]] szavunk gyökének megfelelő BOL gyök alapján is lehet elemezni, minthogy az ég forog is. Ez lesz a megoldás is.  
 De egyúttal akkor [[F/Föld\|föld]] szavunk is megfelel `bolt` szavunknak.  
 
 #### Péterfai János...
 
-...is említi, de `égbolt` kapcsán nem említi, hogy pleonasztikus:  
+...is kitér mindkét értelmezésre, de `égbolt` kapcsán nem említi, hogy pleonasztikus:  
 > Az Égbolt szóban a Bolt az Ég neve, ami ragyog. A Bol és Bul Tűz értelmű, a Bolt neve innen ered. Az egyszerű boltok is Fényes helyek, ahol étel, ital is van. A Boltozat az Égbolt ívelt formájának a leírása építészetileg és szótanilag.  
 
 Amennyiben Ég-Bót felfogásban tekintünk rá, akkor BOT = Ház, azaz háza a csillagoknak és a Napnak. Az óegyiptomi `p-t` = égbolt szót is a maga helyén ház jelentésű etimonnal hasonlítottuk ([[P/PET\|PET]] vagy [[P/PIT\|PIT]] címnél, de [[P/PÁT\|PÁT]] és [[P/PÁD\|PÁD]] is lehet ilyen).  
 
 Boltos fiúk jönnek elő a [[Z/Zöld király mese\|Zöld király mesé]]ben; a boltos azt jelenti, hogy az égbolton kell keresni eredetüket.  
 
-Vault és bolt kapcsán lásd írást [[A/Aszklépiosz\|Aszklépiosz]]. Hitetetlen vagy sem, az ott taglalt, ismeretlen eredetűnek mondható lengyel égboltra utaló `sklepienie` (meg nem határozott) törzsöke, `sklep` = boltot jelent, ugyanúgy, ahogy a magyarban is megvan ez az összefüggés. (Be is tettem világ és virág jelentésű orosz szavak mellé [[S/Szláv#Szláv nyelvek\|szláv nyelvek]] címhez.)  
+`Vault` és `bolt` kapcsán lásd írást [[A/Aszklépiosz\|Aszklépiosz]]. Hitetetlen vagy sem, az ott taglalt, ismeretlen eredetűnek mondható lengyel égboltra utaló `sklepienie` (meg nem határozott) törzsöke, `sklep` = boltot jelent, ugyanúgy, ahogy a magyarban is megvan ez az összefüggés.   
 [[A/Aszklépiosz\|Aszklépiosz]] címnél a [[B/Bolt#Bolt 2)\|bolt]] villám értelme is előkerült.  
 
 # Bolt 2)
