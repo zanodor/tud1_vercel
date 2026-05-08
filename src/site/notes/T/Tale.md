@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tale/","title":"Tale","created":"2023-10-25T05:22","updated":"2024-10-26T00:33"}
+{"dg-publish":true,"permalink":"/T/Tale/","title":"Tale","created":"2023-10-25T05:22","updated":"2026-05-08T02:24"}
 ---
 
 
