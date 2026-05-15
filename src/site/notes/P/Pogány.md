@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2026-05-08T23:03"}
+{"dg-publish":true,"permalink":"/P/Pogány/","title":"Pogány","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-12T22:36","updated":"2026-05-15T22:33"}
 ---
 
 
@@ -77,9 +77,9 @@ A fentebb említett cikkben írja:
 
 De mi lenne, ha az orosz szó eredetén keresztül is a szkíta-íjfeszítő összefüggésre lelnénk és a szó jazig = [[J/Jász\|jász]] = íjász = pogány-págony/szkíta <=> szemita-zsidó lenne? A nyelvet jelentő orosz `язык` szó kapcsán másutt is írtam, hogy lehet az [[I/Isa\|isa]], [[I/ISZ\|isz]], [[I/Íz\|íz]] kiáradása (de a nyelv képes a ízeket is ízlelni), illetve [[I/Íz\|íz]] címnél pedig az ilyen alakú szanszkrit `ishu` = nyílvessző értelem is előjött. Azt pedig szintén tudjuk, hogy az i-előhangos szavak ja/jo-előrészesekké válhatnak.  
 
-12:15-nél azt mondja, hogy a héber [[G/Gój\|gój]] = nép jelentésű lenne eredetileg; a [[G/GU\|GU]] és [[K/KU\|KU]] etimonok ismeretében ez nem biztos, hogy így is van, bár Péterfai János a *gój méólám* kifejezést ősidőktől való népként (= magyar) fordítja. [[K/KU\|KU]] címnél álló Jankovics Marcell adat szerint a kínaiban `kou` nemcsak száj és (ajtó)nyílás, hanem népesség jelenéssel is áll, talán a kínai `gou` = kutya (mint a mítoszok szerint a nép őse) szóra rímelve. (Minden a kutyáról és Szíriuszhoz képesti pozícióról szól és persze a [[F/Fény és sötétség\|fény és sötétség]] küzdelméről.)  
+12:15-nél azt mondja, hogy a héber [[G/Gój\|gój]] = nép jelentésű lenne eredetileg; a [[G/GU\|GU]] és [[K/KU\|KU]] etimonok ismeretében ez nem biztos, hogy így is van, bár Péterfai János a *gój méólám* kifejezést ősidőktől való népként (= magyar) fordítja. [[K/KU\|KU]] címnél álló Jankovics Marcell adat szerint a kínaiban `kou` nemcsak száj és (ajtó)nyílás, hanem fő (népességre utalva) jelentéssel is áll.  
 
-Amiről itt szó van tehát, hogy a pogányoknak mondott magyarok voltak az igazi hitesek, hithű keresztények. Alternatív kutatók (sőt, akár, egyházi apologisták is) látják, hogy a (judeo-)kereszténység pogány gyökerű. Csak azt nem tudják, hogy a pogány valójában nem azt jelenti, amit.  
+Amiről itt szó van tehát, hogy a pogányoknak mondott magyarok voltak az igazi hitesek, hithű keresztények. Alternatív kutatók (sőt, akár, egyházi apologéták is) látják, hogy a (judeo-)kereszténység pogány gyökerű. Csak azt nem tudják, hogy a pogány valójában nem azt jelenti, amit.  
 
 Ami pedig azt az analógiát illeti, hogy a gój mögött is megtaláljuk a gulya (nyáj = nép) fogalmát, ahogy a pogány mögött is végső soron megtaláljuk a leigázást, lekötést (lásd [[F/FOG#Állat befogása, népek leigázása, "megbékéltetése"\|állat befogása, népek leigázása, "megbékéltetése"]]), ez azt jelenti, hogy a népit a politikai-birodalmival kell szembe állítani. A szkítizmus is így állítandó szembe a szemitizmussal: a szkíta a szívében hordta az igazságot, a zsidónak már törvénybe iktatták, mi a helyes.  
 
