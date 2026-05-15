@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Víz/","title":"Víz","created":"2024-11-23T05:38","updated":"2025-09-16T13:24"}
+{"dg-publish":true,"permalink":"/V/Víz/","title":"Víz","created":"2024-11-23T05:38","updated":"2026-05-15T22:34"}
 ---
 
 
@@ -39,6 +39,8 @@ card vedel as w4 {
 }
 card vidék as w5 {
 }
+card vád as w5b {
+}
 card vödör as w6 {
 }
 card vodka as w7 {
@@ -66,6 +68,7 @@ w1 --> w2b : [Z←→S]
 w1 --> w3 : [Z←→D]
 w1 --> w4 : [Z←→D]
 w1 --> w5 : [Z←→D]
+w1 --> w5b : [Z←→D]
 w1 --> w6 : [Z←→D]
 w1 --> w7 : [Z←→D]
 w1 --> w8 : [V→F, V→B, V→P]
