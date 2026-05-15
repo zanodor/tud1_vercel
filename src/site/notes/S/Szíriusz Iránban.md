@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz Iránban/","title":"Szíriusz Iránban","tags":["Englishtexttranslated"],"created":"2023-10-29T06:02","updated":"2026-03-05T01:35"}
+{"dg-publish":true,"permalink":"/S/Szíriusz Iránban/","title":"Szíriusz Iránban","tags":["Englishtexttranslated"],"created":"2023-10-29T06:02","updated":"2026-05-15T22:34"}
 ---
 
 
