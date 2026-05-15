@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2026-05-08T02:23"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2026-05-15T22:32"}
 ---
 
 
@@ -483,7 +483,7 @@ De hát ez az inverz felfogás mindenhol ott van, például [ezen](https://qr.ae
 > Ma a dezinformációt valódi információként, az igazságkeresők dolgait pedig spamként tüntetik fel. Hadd emlékeztesselek, hogy **Istent is kidobták és a Sátánnal helyettesítették korábban. Ezért van a zsidó-kereszténység**; ez felelős több százmillió ember tömeges meggyilkolásáért, akiknek se autójuk, se okostelefonjuk, se lexikonjuk nem volt. Nem nagy veszteség, igaz? Nos, hadd emlékeztesselek titeket, vannak olyan tervek, hogy hamarosan ti sem rendelkeztek semmivel. A Sátán a főnök, és te neki drukkolsz, anélkül, hogy valójában tudnád, hogy így van. Itt van az információ. A leghasznosabb információ, amit egész életedben kaptál.  
 - Használtam a szövegben az irónia kifejezést. Ez is érdekes, mert éppen az inverz gondolkodásra mutat rá. Hogy úgy tűnik, mintha egyetértenék, de közben kiderül, hogy nem. A szerepek megcseréléséről van szó.
 
-Mindennek a kiindulójaként ott van az Isten és Sátán küzdelme (ahogy Max Igan is jól érzékeli, jelenleg egy spirituális háború zajlik a Földön) (üdvtörténet szavuk nyilván nincs). Ahogy láttuk, az ördög neve is istenéből jön létre.  
+Mindennek a kiindulójaként ott van az Isten és Sátán küzdelme (ahogy Max Igan is jól érzékeli, jelenleg egy spirituális háború zajlik a Földön) ("üdvtörténet" szavuk nyilván nincs). Ahogy láttuk, az ördög neve is istenéből jön létre.  
 Maga a megtévesztés szó mentén pedig azon [[T/Téved\|téved]] és [[T/Tévely\|tévely]] (illetve [[T/Téboly\|téboly]]) szavakat lásd, melyek egyértelműen [[D/Devil\|devil]] vonatkozásúak.  
 [[I/Igazság és gazság\|Igazság és gazság]] címnél írottakat is lásd. Dr. Day fontos gondolatait [[E/Ellentétes jelentések\|ellentétes jelentések]] vagy [[B/Biblia hamisítás\|biblia hamisítás]] címnél lásd.  
 Lásd még Kubínyi Tamás listáját biz. szerzőkről és fogalomkészletükről [[T/Tudomány#Tudománytalanság\|tudománytalanság]] cím/alcímnél, de tudományok valláspolitikai befolyásoltsága]] cím/alcímnél is volt szó a hazugságokról.  
