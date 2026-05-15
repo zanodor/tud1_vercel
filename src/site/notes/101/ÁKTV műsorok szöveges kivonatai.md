@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","created":"2025-03-05T15:52","updated":"2026-05-08T23:01"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-05-15T22:37"}
 ---
 
 
@@ -23,6 +23,11 @@
 
 **2026:**
 
+<small>[260515CN! ÉLÜNK AZ ÜDVTÖRTÉNETBEN](https://rumble.com/v79wfew-260515cn-lnk-az-dvtrtnetben-kubnyi-tams-ktv.html)  [https://share.note.sx/gr03247p](https://share.note.sx/gr03247p) [https://archive.ph/AixKx](https://archive.ph/AixKx)</small>
+<small>[260514CN! TERROR ELLEN](https://rumble.com/v79upg4-260514cn-terror-ellen-kubnyi-tams-ktv.html)  [https://share.note.sx/bm4bd6z2](https://share.note.sx/bm4bd6z2) [https://archive.ph/aIlfS](https://archive.ph/aIlfS)</small>
+<small>[260513CN! JÖNNEK A LENIN-FIÚK](https://rumble.com/v79sz7c-260513cn-jnnek-a-lenin-fik-kubnyi-tams-ktv.html)  [https://share.note.sx/8anx5pdo](https://share.note.sx/8anx5pdo) [https://archive.ph/ToS0P](https://archive.ph/ToS0P)</small>
+<small>[260512CN! KRÚDY 1933](https://rumble.com/v79r9cw-260512cn-krdy-1933-kubnyi-tams-ktv.html)  [https://share.note.sx/vat7k1xb](https://share.note.sx/vat7k1xb) [https://archive.ph/xKSZ8](https://archive.ph/xKSZ8)</small>
+<small>[260511CN! RENDSZERVÁLTÁS？](https://rumble.com/v79pkc2-260511cn-rendszervlts-kubnyi-tams-ktv.html)  [https://share.note.sx/1ykaa93b](https://share.note.sx/1ykaa93b) [https://archive.ph/6QAkx](https://archive.ph/6QAkx)</small>
 <small>[260508CN! ISMERJÜK ŐKET](https://rumble.com/v79kwzi-260508cn-ismerjk-ket-kubnyi-tams-ktv.html)  [https://share.note.sx/njdgvfcd](https://share.note.sx/njdgvfcd) [https://archive.ph/OI52E](https://archive.ph/OI52E)</small>
 <small>[260507CN! LEGYEN PATRIÓTÁK](https://rumble.com/v79j5sc-260507cn-legyen-patritk-kubnyi-tams-ktv.html)  [https://share.note.sx/o3qxsvd0](https://share.note.sx/o3qxsvd0) [https://archive.ph/xfowS](https://archive.ph/xfowS)</small>
 <small>[260506CN! CSAK A GYÖKÉR...](https://rumble.com/v79hh7i-260506cn-csak-a-gykr...-kubnyi-tams-ktv.html)  [https://share.note.sx/2k6bnaau](https://share.note.sx/2k6bnaau) [https://archive.ph/LZBFl](https://archive.ph/LZBFl)</small>
