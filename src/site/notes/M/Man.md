@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Man/","title":"Man","tags":["containstransclusions","containscallouts"],"created":"2026-02-09T19:05","updated":"2026-03-03T18:27"}
+{"dg-publish":true,"permalink":"/M/Man/","title":"Man","tags":["containstransclusions","containscallouts"],"created":"2026-02-09T19:05","updated":"2026-05-15T22:34"}
 ---
 
 
@@ -284,9 +284,12 @@ Lásd még [[M/Mane\|mane]], [[M/Manes\|manes]], [[M/Manu\|Manu]] és [[M/Manual
 
 Erre közben [[M/Más#Magyar > Masar (Magor) > Mag = fiú = Mas = fiú vonal\|Magyar > Masar (Magor) > Mag = fiú = Mas = fiú vonal]] cím/alcímnél is kitértünk.  
 
-Könnyen lehet, hogy a `man` szónak nem [[M/Men\|men]] (menny) vagy [[M/Mén\|mén]] eredete van. A fentebbi Györffy György féle passzusban említett szavak közül a Manus és Mensch a Mes orrhangos változatai és a sumér-finnugor-orosz szavak (lásd őket, főleg a vogul témát és az észt `mees` és finn `mies` = férfi, hím; férj szavakat [[M/MISZ\|MISZ]]) eredetibbek.  
+> [!question] &nbsp;
+> Mi van, ha a `man` szónak mégsem [[M/Men\|men]] (menny) vagy [[M/Mén\|mén]] eredete van?  
 
-De ha már itt tartunk, amikor a [[M/Magyar\|magyar]] nevet is a mansi névből akarják meghatározni, meg is fordíthatjuk a dolgot. Mi lenne, ha a kiinduló az [[E/Ember#Madárember\|madárember]] cím/alcímnél is pedzegetett Magyar = (Madár)Ember lenne, mely torzulása lehetne Masar/Meser/Mesur (vesd össze Egyiptom nevével is), mely pedig az [[U/UR\|UR]] címnél taglalt módon lerövidülhet Mes-re, mely Götz László Keleten kél a Nap című könyvének 168. oldalán szumér-szláv szavak párhuzamait bemutató szavak között megjelenik szumér `MES` = hős, férfi jelentésűként. Melléje a fentebb említett orosz `muzs` = férfi szót teszi.  
+Könnyen lehet, hogy a fentebbi Györffy György féle passzusban említett szavak közül a `manus` és `mensch` a mes orrhangos változatai és a sumér-finnugor-orosz szavak (lásd őket, főleg a vogul témát és az észt `mees` és finn `mies` = férfi, hím; férj szavakat [[M/MISZ\|MISZ]]) eredetibbek.  
+
+De ha már itt tartunk, amikor a [[M/Magyar\|magyar]] nevet is a `manysi` névből akarják meghatározni, meg is fordíthatjuk a dolgot. Mi lenne, ha a kiinduló a [[E/Ember#Madárember\|madárember]] cím/alcímnél is pedzegetett Magyar = (Madár)Ember lenne, mely torzulása lehetne Masar/Meser/Mesur (vesd össze Egyiptom Masr/Misr/Miszor nevével is), mely pedig az [[U/UR\|UR]] címnél taglalt módon lerövidülhet Mes-re, mely Götz László Keleten kél a Nap című könyvének 168. oldalán szumér-szláv szavak párhuzamait bemutató szavak között megjelenik sumér `MES` = hős, férfi jelentésűként. Melléje a fentebb említett orosz `muzs` = férfi szót teszi.  
 
 De ezzel mi már korábban találkoztunk, hiszen Péterfai János adata ill. etimonjai alapján a [[M/Mithra\|Mithra]] nevet Misz-Ra = Ifjú Nap formában határoztuk meg, amíg rá nem jöttünk annak örmény [[M/Mger\|Mger]] és végső soron magyar-hun [[M/Magor\|Magor]]-Magyar eredetére (lásd [[M/Mithra#Magor, örmény Mger és (indo-)iráni Mithra\|Magor, örmény Mger és (indo-)iráni Mithra]] cím/alcímet) (hogy aztán a [[M/MIR\|MIR]] szó eredetére is rámutathassunk).  
 
