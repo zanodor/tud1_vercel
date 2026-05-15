@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:30","updated":"2026-04-17T22:47"}
+{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:30","updated":"2026-05-15T22:34"}
 ---
 
 
@@ -8,6 +8,7 @@
 Előfordul Hiung-nu és más formákban is. Alant a hsziungnu formát használtam.  
 
 Az eredeti név nem kínai, mert az már csak átírás. Azaz a **hunnu** lenne az eredeti.  
+- A hunokra/hsziungnukra értett [xiung](https://en.wiktionary.org/wiki/%E5%8C%88#Chinese) is félelmetes, ádáz jelentésű és a koreaiban a barbár, idegen jelentésű kifejezés alkotója. A xiongnu-t kínaiul a `匈奴` karakterekkel írják, ahol `匈` (`xiōng`) máskor csak "mellkas" jelentéssel adott, míg a `奴` (`nú`) jelentése "rabszolga", amit a kínai krónikások pejoratív (lealacsonyító) éllel tettek a név mellé.
 > [!details]- &nbsp;
 > **A nevek eredete és jelentése**  
 > * Xiongnu (Sziongnu): Ez a kínai forrásokban szereplő elnevezés. A kínai írásjegyek (匈奴) jelentése eredetileg pejoratív volt: „ádáz rabszolga”. Ez nem a nép saját elnevezése volt, hanem a kínaiak által rájuk aggatott gúnynév.
@@ -27,8 +28,9 @@ Az eredeti név nem kínai, mert az már csak átírás. Azaz a **hunnu** lenne 
 ...című könyvében írja:  
 > [[N/Németh Gyula\|Németh Gyula]] "Attila és hunjai" c. könyvének \[adata\] szerint a kínai forrásokban a Kr. e. 11-9. században szereplő "kui", "kun", "hun", ill. "hun-jü", "hien-jü", "hien-jün" népnevek egyeztetése a későbbi (Han kori) "hun" ill. "hiung-nu" nevekkel – amint írja – "nyelvészetileg elfogadhatatlan", mi mégis úgy vélekedünk, hogy az ilyesféle hangfejlődési hipotéziseknek a történelmi források tanúságával szemben csak igen-igen alárendelt szerepet szabad tulajdonítanunk.  
 
-#### Péterfai János írja:
+#### Péterfai János...
 
+...úgy gondolja, hogy a név már megvolt, amit a kínaiak később formáltak volna saját képükre:  
 > A Hsiung-nu népnévben a Hszi Nyugat, az Ung a magyarokat jelöli, a Nu jelentése valószínűleg Úr. A japán Ten-No értelme Isten-Úr, ezzel a [[N/NO#No 2)\|No]] szóval lehet azonos a [[N/NU\|Nu]] szóalak. Nyugati-Ungár-Urak, ezt jelenti a Hsziung-nu népnév. A névben az is benne van, hogy **az ungárok nyugatról érkeztek keletre, tehát a magyarok nem keleti nép**.  
 
 
@@ -49,6 +51,7 @@ Ezen adatokat felhasználva írom [ezen](https://qr.ae/py1lXv) Quora posztban:
 > >
 > > Az európai/szteppei hunok már régen civilizálták a később Kínának nevezett területet ("önmagukat", mert Kína = \*Huna, a hun kultúra folytatása). [[H/Huang-ti\|Huang-ti]] ideje nem olyan régi. 2-3000 év az semmi. A hunokat nem lehet pár száz éves tól-ig határok közé tenni, de a nyugati "tudomány" azt csinál, amit akar. Ha azt akarják, hogy a kínaiak, az ajnuk vagy a hottentották indoeurópaiak vagy szemiták legyenek, vagy azt akarják, hogy [[B/Barbár\|barbár]]nak tekintsék őket (amiről még azt sem tudják, hogy mit jelent, csak ismételgetnek, mint a papagájok), amilyennek a hunokat szokás beállítani, akkor megteszik. Ez az ő szintjük. Mi az ő szintjük fölé akarunk emelkedni, mert túl akarjuk élni az idiotizmusukat és ezt a csillagászati kort.  
 > - A [[Y/Young\|young]] címnél taglalt skandináv `ung` = fiatal szót is említhettem volna.
+- Azóta viszont hajlok arra, hogy már kínai késői belső fejlődésű elnevezésről lehet szó, de a `hun` név egyértelműen évköri értelmezésű.
 
 [Ezen](https://hu.wikipedia.org/wiki/Hsziungnuk) oldalon további adatokat lásd.  
 
@@ -92,6 +95,8 @@ Végül megengedi:
 > E helyzet következtében magunk ebben a kérdésben inkább az óvatos várakozás álláspontjára helyezkedünk mindaddig, amikor biztosabb adatok állnak majd a kutatás rendelkezésére a yüeh-chih-k és a hsiung-nu-k nyelvi hovatartozásának végleges eldöntésére, mint egyes iranológusok azon véleménye, hogy e két nép nyelve esetében kelet-iráni nyelvekről lenne szó. Egyelőre csak annyi látszik valószínűnek, hogy e nyelvek is valamilyen módon összefüggésben állhattak az [[A/Andronovói kultúra\|andronovói]] és a [[K/Karasuk kultúra\|Karasuk műveltség]] areálisan kiegyenlítődött közlekedő nyelvének különféle irányokban továbbfejlődött utód-nyelveivel (l. fent), és ez esetben az is elképzelhető, hogy eredetileg **esetleg tényleg valamiféle törökös-iránias keveréknyelvek** lehettek.  
 
 Lásd még [ezen](https://prism.ucalgary.ca/server/api/core/bitstreams/0f570209-afee-4041-913d-afb541d76c2d/content) oldalon szereplő kínai-kanadai illető disszertációjának idevonatkozó anyagát.  
+
+[[T/Tárkány#^bt083w\|Ezen]] helyen is láttuk, hogy igyekeznek egy korábbi rétegből létrejött indoiráni gyökre utalni eredetként.  
 
 ## A hsziungnuk művészete
 
