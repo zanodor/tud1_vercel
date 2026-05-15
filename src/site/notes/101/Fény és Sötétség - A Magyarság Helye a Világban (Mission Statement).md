@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-05-08T02:24"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-05-15T20:54"}
 ---
 
 
@@ -22,7 +22,7 @@ Köszönöm a jó Istennek, hogy magyarnak születhettem és az ezzel járó fel
 
 Köszönöm a családom támogatását; az efféle munkát végezni képes ember földi mivoltában sokszor elviselhetetlen.  
 
-Köszönettel tartozom a velem annak idején magánlevelezéseket vállaló [Péterfai János István](https://web.archive.org/web/20220822210615/http://tunderkiralysag.lapunk.hu/)nak, akit beavatómként, mentoromként tisztelhetek. Az ő írásai indítottak arra a pályára, amelyre mindig is szánt az Elküldő.  
+Köszönettel tartozom a velem annak idején magánlevelezéseket vállaló [Péterfai János István](https://web.archive.org/web/20220822210615/http://tunderkiralysag.lapunk.hu/)nak, akit beavatómként, mentoromként tisztelhetek. Az ő írásai indítottak el utamra, igaz, már gyerekként is nyelvészkedés kötött le.  
 
 Végezetül hálás vagyok az [Obsidian](https://obsidian.md) nevű program készítőinek, és köszönet illeti a [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) bővítmény készítőjét és segítőit, hogy szintén ingyenesen nyújtanak lehetőséget a webes applikáció (Render, Vercel vagy más szolgáltatókon keresztüli) létrehozására. Ezek gyümölcsét látja most az olvasó.  
 
