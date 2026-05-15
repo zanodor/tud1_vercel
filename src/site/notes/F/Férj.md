@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Férj/","title":"Férj","created":"2024-04-28T12:11","updated":"2024-10-25T18:44"}
+{"dg-publish":true,"permalink":"/F/Férj/","title":"Férj","created":"2024-04-28T12:11","updated":"2026-05-15T22:35"}
 ---
 
 
