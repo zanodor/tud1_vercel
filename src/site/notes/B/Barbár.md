@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-04T04:55","updated":"2026-03-05T01:32"}
+{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-04T04:55","updated":"2026-05-15T22:33"}
 ---
 
 
@@ -126,11 +126,11 @@ Az [alábbi](https://youtu.be/xF2hpMBgYn0) Echo TV-s beszélgetés végén Pap G
 > Nekünk magyaroknak nem volt\[?\] szavunk a haj és szakáll ápolásra. Borbély szavunk a kései latin `barbarius`-ból ered bajor-osztrák közvetítéssel.  
 
 ...szakállassal fordítja a barbárt, majd még elmondja, hogy a fentebb említett barbarus olyan féle leminősítés, amely azt jelenti, hogy nem beszéli az én nyelven, tehát alacsonyabb rendű.  
-[[S/Szakáll\|Szakáll]] címnél volt arról szó, hogy a hosszú szőrszálak napsugár-jelképek, azaz a Nap [[B/BAR\|BAR]] neve nyomán alakult ki a szakáll másodlagos jelentés.  
-Ahogy [[B/Barber\|barber]] címnél is szerepelt, Obrusánszky Borbála a barbárt szintén szakállas jelentéssel adja meg (miután megosztja a kínai `hu` = szakállas jelentésű szót; sajnos Obrusánszky révén sok magyar a [[H/Hun\|hun]] nevet is szakállasnak értelmezi). Mindkettő hozzákapcsolt jelentés (így [[L/Light\|light]] címhez is volt okom betenni; [[H/Hun\|hun]] címnél, külön alcímnél pedig a szakállas témával is foglalkozom; ott arról is volt szó, hogy ennyi erővel a kínai `hú` = ív, körív (vesd össze ainu `ku` = íj) jelentésű szóból is kiindulhatott volna Obrusánszky vagy forrása).  
+[[S/Szakáll\|Szakáll]] címnél volt arról szó, hogy a hosszú szőrszálak napsugár-jelképek, azaz a Nap [[B/BAR\|Bar]] neve nyomán alakult ki a szakáll másodlagos jelentés.  
+Ahogy [[B/Barber\|barber]] címnél is szerepelt, Obrusánszky Borbála a barbárt szintén szakállas jelentéssel adja meg (miután megosztja a kínai `hu` = szakállas jelentésű szót; sajnos Obrusánszky révén sok magyar a `hun` nevet is szakállasnak értelmezi). Mindkettő hozzákapcsolt jelentés ([[H/Hun#Hun népnév jelentése\|hun]] címnél, külön alcímnél a szakállas témával is foglalkozom; ott arról is volt szó, hogy ennyi erővel a kínai `hú` = ív, körív (vesd össze ainu `ku` = íj) jelentésű szóból is kiindulhatott volna Obrusánszky vagy forrása).  
 
 Barbar Bahrein szigetén lévő város is (volt), mezopotámiai (korú) templommal.  
-[[B/Barbara\|Barbara]] nevünk a barbár szó női változata (illetve eredetük közös). Ernie Barbarash amerikai rendező (Bedrótozva című filmé például).  
+[[B/Barbara\|Barbara]] nevünk a barbár szó női változata (illetve eredetük közös). Ernie Barbarash amerikai rendező ("Bedrótozva" című filmé például).  
 Elgondolkodtató, hogy megannyi angolszász (vagy a zsidó Barbra Streisand) hölgy nevét miért adná szemita/IE szempontból negatív szókapcsolat, ha valóban negatív lenne? Persze a Borbála[^2] nevet is ide vagy a borbolya névhez kell sorolni.  
 
 Arról, hogy a hunok távolról sem voltak barbárok, lásd sok olyan, nevükhöz köthető szót, mint [[K/Know\|know]] (óangol `cunnan` = konyít), [[H/Honour\|honour]] = becsület, valamint például a [[C/Couth\|couth]] – [[U/Uncouth\|uncouth]] szópárt. Legutóbb [[B/Bravo\|bravo]] címnél is szóba kerültek a hunok és barbaritásuk.  
