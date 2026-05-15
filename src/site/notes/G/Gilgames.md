@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gilgames/","title":"Gilgames","tags":["containscallouts"],"created":"2024-10-25T19:00","updated":"2026-05-08T23:04"}
+{"dg-publish":true,"permalink":"/G/Gilgames/","title":"Gilgames","tags":["containscallouts"],"created":"2024-10-25T19:00","updated":"2026-05-15T22:33"}
 ---
 
 
@@ -8,6 +8,8 @@
 ## Névváltozatok
 
 A történeti és nyelvészeti kutatások szerint a Gilgames név sumer megfelelője, vagy korai formája **Bilgames** (vagy Bilgá-mes) volt; jelentése – a leggyakrabban idézett értelmezés szerint – "az öregfiú" vagy "öreg-ifjú" (az öregember/bölcs és az ifjú/hős kombinációja). 
+- Vö. ótörök `bilgä` = bölcs, így a [[P/Prudent\|bölcs]] szavunk változata is kereshető itt.
+
 A név változása: Az idők folyamán, ahogy a mezopotámiai mítoszok a sumer kultúrából átkerültek az akkád, babiloni és asszír kultúrába, a Bilgames név fokozatosan Gilgames (akkádul: Gilgameš) alakban rögzült.  
 > [!details]- &nbsp;
 > A `bilgá` szó a sumér nyelvben nem „öreget” jelent a mai értelemben vett melléknévként, hanem főnévként azt jelenti: „ős”, „férfi felmenő” (valamint „friss gyümölcs”).  
