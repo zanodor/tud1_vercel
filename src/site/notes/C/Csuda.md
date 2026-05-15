@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions"],"created":"2025-06-12T01:36","updated":"2026-03-31T18:31"}
+{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions"],"created":"2025-06-12T01:36","updated":"2026-05-15T22:33"}
 ---
 
 
@@ -20,7 +20,7 @@ Tulajdonképpen itt a [[K/Kentum-szatem szabály\|kentum-szatem szabály]] logik
 #### Péterfai János írja:  
 
 > Csuda szavunk két eleme, a Csu és Da, kétségtelenül a Su-Da elemeivel rokonítható. A Suda magyar családnév, mint a Sutus is (Sütős). A Csu-Da fogalmilag és alakilag is a Csillag-Föld, illetve a Sütő rokona. A Csuda az éjszakai égbolt, ahol a sok csillag, amelyek világítanak, az Isten kezei, sütői is lehetnek. A Sutaszarvas maga a [[C/Csudaszarvas\|Csudaszarvas]], ami azt is jelenti, hogy egykor a suta nem csak az őzek, hanem a szarvasok nőstényét is jelenthette, amit ma, talán helytelenül, [[T/Tehén\|tehén]]nek mondunk.  
-> ![Kupa_image20250414141348516.jpeg\|fix_dark fix_light](/img/user/K/assets/Kupa_image20250414141348516.jpeg)
+> ![Kupa_image20250414141348516.jpeg|fix_dark fix_light](/img/user/K/assets/Kupa_image20250414141348516.jpeg)
 *Szkytha, Csuta, Csuda = az Égbolt*
 
 Péterfai János rengeteget említi a Csuda népet:  
@@ -53,7 +53,10 @@ Megint másutt Péterfai János újra összeveti a két elnevezést:
 > Szkütész neve rokon a szkíta népnévvel. Talán a Kut(at), Kút, Kutya nevekkel rokon a király neve. A hunoknál a Kutu (Guti), és Hunza-Kut, meg a Kutrigur népnevekben is benne van a Kut szó.  
 - Az már további bizonyíték, hogy a területük a kúnoknak/húnoknak egyezik Szkítiával!
 
-Csuda viszont [[C/Csut\|csut]] címnél írottak szerint is lehet a [[T/Tejút\|Tejút]] Teut nevének T>CS változata is.  
+> [!check] &nbsp;
+> Csuda viszont [[C/Csud#^260513\|csud]] és [[C/Csut\|csut]] címnél írottak szerint is lehet a [[T/Tejút\|Tejút]] Teut nevének T>CS változata is.
+{ #260513}
+
 
 Ugyanakkor a szaka ill. csák lehet hogy külön meg volt:  
 > A Szaka szóban a Szák, Szág is benne van, ami magyar szó, de a szumer nyelvben is jelen van, és Főség az értelme mindkét nyelvben. Továbbá rokon a Sák, Ság formákkal, amelyek csak az előbbiek változatai. Sőt, a Szék, Szég, Sék, Ség és egyéb formák is csak alaki módosulások.  
