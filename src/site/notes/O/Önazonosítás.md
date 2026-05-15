@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:32","updated":"2026-05-08T23:03"}
+{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:32","updated":"2026-05-15T22:33"}
 ---
 
 
@@ -56,15 +56,17 @@ Hasonló a törökök `kişi` (baskír, csuvas, stb. `kese`) = egyén, ember, ö
 
 Ahogy fentebb szerepelt, a magyarban természetesen a [[M/Maga\|maga]][^4] [[M/MAG\|Mag]] = csillag, Nap, míg az [[O/Ön\|ön]] és [[E/ÉN\|én]] szavak [[A/AN, ÁN\|An]] = ég szavakra mutatnak vissza. Az angol [[O/Own\|own]] és alternatívájaként kezelendő óangol párja is erről árulkodik. Az alakilag rokon görög `ekh-` = birok, nekem van – Aczél József adata szerint – nekem, neked, neki szavaink -nek gyökéhez viszonyul; persze ő nem [[E/Ég\|ég]] szavunkban gondolkodott, mely a helyes megközelítése.  
 Az angol [[S/Same\|same]] = ugyanaz jelentése az önazonosítás folytán ilyen jelentésű. Feltűnő, illetve csak érdekes, hogy a svéd-lapp nyelven is `sámi` = ugyanaz jelentésű: nyilván a lappok olyan önazonosító szava, mint a komiknál a komi, hantiknál a hanti, stb.  
-Same itt nyilván szem(ély azonosító): éppúgy, ahogy a sumér-akkád vagy szemere nyelvben [[S/Samas\|Samash]] (szemes) a Nap neve volt (Szumer pedig Szem-Úr népe). De az orosz eredetű [[S/Samovar\|samovar]] szó előtagja is önmaga jelentésű.  
-[[I/Identity\|Identity]] szóban Isten [[I/ID\|ID]] illetve [[E/Egy\|egy]] (vesd össze latin `idem`) neve vagy a Nap [[U/UD\|UD]] neve szerepel, ahogy a görög [[A/Auto\|auto]] szóban is a Nap jelentésű [[U/UTU\|UTU]]/UTO etimon.  
+Same itt nyilván szem(ély azonosító): éppúgy, ahogy a sumér-akkád nyelvben [[S/Samas\|Samash]] (szemes) a Nap neve volt (Szumer pedig Szem-Úr népe). De az orosz eredetű [[S/Samovar\|samovar]] szó előtagja is önmaga jelentésű.  
+[[I/Identity\|Identity]] szóban Isten [[I/ID\|ID]] illetve [[E/Egy\|egy]] (vesd össze latin `idem`) neve vagy a Nap [[U/UD\|UD]] neve szerepel, ahogy a görög [[A/Auto\|auto]] szóban is a Nap jelentésű [[U/UTU\|UTU]] etimon.  
 
-Egy másik fontos dolog: a sumér [[L/LU\|LU]] = ember (honnan [[L/Lugal\|Lugal]] = Nagy Ember) szóról tudjuk, hogy alapjelentése fény (a LU piktogramnak is). Ebből is jól látszik, hogy ez ember a fénnyel azonosította magát.  
+Egy másik fontos dolog: a [[L/LU\|LU]] alapszóról tudjuk (hogy a sumérben embert jelent; honnan [[L/Lugal\|Lugal]] = Nagy Ember), hogy alapjelentése fény (maga a LU piktogram is erről árulkodik). Ebből is jól látszik, hogy az ember a fénnyel azonosította magát, de még tovább is mehetünk és sumér szót is említő, [[L/Lay#Az emberek lelkei a Tejútról származnak\|az emberek lelkei a Tejútról származnak]] cím/alcímnél megállapítottuk, hogy még kelta-germán is látható hasonló analógia: Tejút > nép, emberek.
+{ #260512}
+
 
 Kandra Kabos Magyar Mythologia című könyvének 259. oldalán az ember szavunkat elemző Réthy László anyagának bemutatása során kiderül, hogy a lapp `almač`, `olmuš` = ember szót a nyelvészek a lapp `alme` = ég (párhuzama a finn `ilma` és vogul `elm` = lég) szóból eredeztetik.  
 
 Hasonló kínai példát ír le Péterfai János, mely ide tehető szintén:  
-> Az Ember Ren, jele az A betűhöz hasonló. A Ren - \[ejtve\] Zen, Zsen az Ég egyik magyar neve, ami miatt úgy gondolom, a kínaiak is az Embert az Égből származtatják. Ezt mondja a Ren. A Nap Rir, ami Zsizs ejtésű.  
+> Az Ember Ren, [jele](https://en.wiktionary.org/wiki/%E4%BA%BA) az A betűhöz hasonló. A Ren - \[[ejtve](https://dictionary.writtenchinese.com/#sk=ren2&svt=pinyin)\] Zen, Zsen az Ég egyik magyar neve, ami miatt úgy gondolom, a kínaiak is az Embert az Égből származtatják. Ezt mondja a Ren. A Nap Rir, ami Zsizs ejtésű.  
 
 Érdekes a tasmán `munger` = én, mivel mintha a [[M/Magyar\|magyar]] név változata lenne.  
 - Viszont ezen szavak hitelességével kapcsolatban fenntartásai voltak [[F/Flink Attila\|Flink Attilá]]nak is, így vigyázni kell velük.
