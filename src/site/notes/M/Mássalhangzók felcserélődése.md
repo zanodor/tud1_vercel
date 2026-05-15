@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-04-24T09:35"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-05-15T22:32"}
 ---
 
 
@@ -251,6 +251,8 @@ A latin `firmus` szót is egy proto-indoeurópai \*dʰer- tőből származtatjá
 
 H>P átmenetet CzF több helyütt természetesnek\[?\] vette. Például `hord` – latin `portare`, `halvány` – görög szürke jelentésű `polios`. Valójában H>V>P a fejlődési út. Ez akár elképzelhető [[H/Hunter\|Hunter]] > [[P/Panther\|Panther]] esetében is. Hunter-ről lesz még szó alant.  
 
+H>B átmenetet szintén szabályosnak vesznek [ezen](https://en.wiktionary.org/wiki/bucetum#Latin) Wiktionary oldalon, ami azért is meglepő, mert az ott taglalt latin szó előtagja görög eredetű és abban a rétegben nyilván magában állt.  
+
 F>H átmenet az előbbi megfordítása. Lásd `fiú` szavunk (akár a latin `filius` szón keresztül) a spanyolban `hijo` ill. `hija` = fia, lánya valakinek. Valójában az F>V>H átmenet alapján érthető ez meg. Viszont akár tekinthetnénk úgy is rá, hogy (görögös) F > PH > H változással adódik ki. Persze felesleges, hiszen a F egy kategória a V-vel és a V pedig a H-val. Vesd össze a latin `ferrarius` és a spanyol `herrero` = kovács szavakat, de a spanyol `hermoso` = csodás is állítólag a latin `formoso` = mutatós, formás szó változata, ahogy a spanyol `hada` = tündér szót is a latin `fata` nyomán eredeztetik.  
 Érdekes eset a `parázs` fogalmából indítottnak tűnő avar-hun-arab `faraz` = (kanca)ló szó és az avar-hun-angol `horse` = ló kapcsolata ([[H/Horse\|horse]] inkább [[G/Gyors\|gyors]] szavunkból ered).  
 Vagy ott van a nemrég felvetett Winter – Hunter és a [[W/Wing\|wing]] címnél említett ónorvég `vængr` = szárny kapcsán megfogalmazott Venger – Hungár kapcsolat. Lehet-e ezeket komolyan venni? A kérdés tehát lényegében az, hogy a Hun lehet-e azonos Fén-nel, Vén-nel. Hiszen azt az [[A/A\|A]] címnél álló MindMap-en is látjuk, hogy az An, Án ill. En szócskára épülő, ilyen-olyan előhangos, akár fog- akár torokhangos szavak lényegében megegyeznek jelentésüket tekintve. De úgy is mondhatjuk, hogy HU és KU = fény alapjelentésükből kiindulva is lehet Hun = fény (háza) értelmű.  
@@ -272,7 +274,7 @@ K>J változásra is akad példa. Péterfai János említi tulajdon szavunknál:
 Gyakori az arab nyelvben, például `jabbar` = óriás vélhetően a kabar népnévből (ill. annak eredete nyomán) ered.  
 A helyén szó volt az esetleges Kutya/Kuda > Juda, Júda változásról is.  
 Viszont a latin `suchus` = gyík is arabban `shuja` = kígyó (magyar elődre lehet tippelni).  
-Itt még térjünk ki arra, amiről legutóbb [[B/BUJ\|BUJ]], [[S/SZEJ\|SZEJ]] és főként [[H/H, J, V\|H, J, V]] címnél volt szó. Ezen hangok ugyanis a szó végén azért alakulnak ki, mert a nyelvérzék lecsíp egy (hangsúlytalannak vélt) magánhagzót és ilyen félmássalhangzókkal cseréli le. A magyarban is látunk példát ugye (hó > havas, tó > tavak), de itt most főleg az archaikus gyakorlatot kellene tetten érni. Úgy tűnik, a szóvégi ű, ü (ő, ö) és u hangok (idegen nyelvekben ü sincs, így u lesz belőle) változhatnak ilyen glottal stop szerű ([[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél volt már erről szó) megoldással, elnémulva ilyen félmássalhangzókká. Így lesz például bű-ből [[B/BUJ\|BUJ]] és tűzből Zejsz/[[Z/Zeusz\|Zeusz]] is vélhetőleg. (Nem sikerült – ezt sem – tudományosan jól előadni, de értjük miről van szó.)
+Itt még térjünk ki arra, amiről legutóbb [[B/BUJ\|BUJ]], [[S/SZEJ\|SZEJ]] és főként [[H/H, J, V\|H, J, V]] címnél volt szó. Ezen hangok ugyanis a szó végén azért alakulnak ki, mert a nyelvérzék lecsíp egy (hangsúlytalannak vélt) magánhagzót és ilyen félmássalhangzókkal cseréli le. A magyarban is látunk példát ugye (hó > havas, tó > tavak), de itt most főleg az archaikus gyakorlatot kellene tetten érni. Úgy tűnik, a szóvégi ű, ü (ő, ö) és u hangok (idegen nyelvekben ü sincs, így u lesz belőle) változhatnak ilyen glottal stop szerű ([[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél volt már erről szó) megoldással, elnémulva ilyen félmássalhangzókká. Így lesz például bű-ből [[B/BUJ\|BUJ]] és tűzből Zejsz/[[Z/Zeusz\|Zeusz]] is vélhetőleg. (Nem sikerült – ezt sem – tudományosan jól előadni, de értjük miről van szó.)  
 
 R>Z változásról írja Timaru-Kast Sándor:  
 > Az R>Z hangcserét "törökösnek" hívják a nyelvészetben. Az ír nyelv két típusú R hangot ismer: egy szájpadi, kemény R hangot, mint például a FUARA-igh – fázni, hideget csinálni, közömbössé válni (FÁZ-ni, elFÁS-ul-ni) értelmű – szóban, és egy toroki (ínyképzésű) lágy RZS hangot – mint az IRIS \[irzses\] újság, hírlap, közlemény (ÍRÁS) értelmű szóban.  
@@ -286,7 +288,7 @@ A témáról Fáy Elek A magyarok őshona című könyvének 192. oldalán is sz
 
 Másutt kínai példát mutat be:  
 > Mindössze 410 eltérően hangzó szótag van ma a hivatalos kínai nyelvben, a szótagoknak önálló jelentése van, mint a magyarban. A kínai írásjegyeket igyekeztek ábécébe is önteni, a hivatalos mai átírás a Pinjin. De a betűi nem azonosak az európai kiejtésekkel, R jele Zs például. Az R változhat Z, majd Zs irányba, de a Pinjin alig pár évtizedes írás, ezért mutatja meg az eredeti hangzást.  
-> Az Ember Ren, jele az A betűhöz hasonló. A Ren – Zen, Zsen az Ég egyik magyar neve, ami miatt úgy gondolom, a kínaiak is az Embert az Égből származtatják. Ezt mondja a Ren. A Nap Rir, ami Zsizs ejtésű.  
+> Az Ember Ren, [jele](https://en.wiktionary.org/wiki/%E4%BA%BA) az A betűhöz hasonló. A Ren - \[[ejtve](https://dictionary.writtenchinese.com/#sk=ren2&svt=pinyin)\] Zen, Zsen az Ég egyik magyar neve, ami miatt úgy gondolom, a kínaiak is az Embert az Égből származtatják. Ezt mondja a Ren. A Nap Rir, ami Zsizs ejtésű.  
 
 [[D/Dzsingisz kán\|Dzsingisz kán]] címnél szóba került a [[G/GIR\|GIR]] = gyermek jelentése és a törökös R>Z váltás, mely a [[M/Magyar\|magyar]] címnél említett tuareg (még a tuareg és török szavak is hasonlóak) szó alapján nem török jellegzetesség. Akár a sumér időben is meglehetett. Ilyenképpen a Gir = gyerek és `Gis` = kis fogalmak megfelelnek egymásnak. Ahogy Péterfai János írja (nem sumér R>Z váltással kapcsolatban):  
 > A Gir szó R hangja Z kiejtésűvé vált, a Giz, vagy Gisz tehát a Gir szóból ered, jelentése Gyerek.  
