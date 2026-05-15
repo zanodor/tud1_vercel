@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arab nyelv/","title":"Arab nyelv","created":"2023-11-18T09:37","updated":"2025-09-03T16:00"}
+{"dg-publish":true,"permalink":"/A/Arab nyelv/","title":"Arab nyelv","created":"2023-11-18T09:37","updated":"2026-05-15T22:35"}
 ---
 
 
@@ -45,6 +45,10 @@ Ha már itt tartunk, kaszabol szavunk gyökéből eredhetne az arab `qasāb` = h
 
 Itt a perzsa-arab vonatkozásokkal kapcsolatosan annyit, hogy a modern perzsa mintegy 30%-ban tartalmaz arab szókincset.  
 Arról [[A/Alborz\|Alborz]] (és más) szócikknél is volt szó, hogy a szókincsáramlás fordított is lehetett (sőt, a [[F/Finnugor nyelvek\|finnugor nyelvek]] címnél írottak alapján a finnugor és török és sokkal többet adhatott a germán és perzsa nyelvnek, mintsem fordítva).  
+
+## Atlanti-sémi nyelv hipotézis
+
+Theo Vennemann elméletében annyi volna az igazság, *amit ő maga nem is mond ki*, mert nem foglalkozik a pre-sémi és pre-indoeurópai szubsztrátummal.  
 
 ## Lábjegyzetek
 
