@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Indogermán őshaza/","title":"Indogermán őshaza","tags":["nyelvészet","őstörténet","containstransclusions"],"created":"2025-06-12T01:33","updated":"2026-04-03T04:51"}
+{"dg-publish":true,"permalink":"/I/Indogermán őshaza/","title":"Indogermán őshaza","tags":["nyelvészet","őstörténet","containstransclusions"],"created":"2025-06-12T01:33","updated":"2026-05-15T22:34"}
 ---
 
 
