@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2026-05-04T18:04"}
+{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2026-05-15T22:32"}
 ---
 
 
@@ -229,7 +229,7 @@ Lásd még [[F/Fa – ikerfa\|fa – ikerfa]].
 ## Fa – élőfa és holt fa
 
 Arról már volt szó, hogy az ember függőlegesen [[A/Áll\|áll]] és így [[E/ÉL\|él]], ahogy a fa is. A kidöntött fa meghal. A német `holz` = faanyag is [[H/Holt\|holt]] szavunkból ered.  
-Itt még csak annyit, mely nyelvekben használják ugyanazon szóalakot az élő és holt fára is. A magyar fa szón kívül a japán `moku` = fa és faanyag, az ainu `ni` = fa és faanyag szintén, a Borbola János adataként talált egyiptomi `ht` = fa(anyag) és (élő)fa jelentésű szó szóalakjának megfelelő walesi `coeden` = fa és `coed` = faanyag, valamint a svéd `träd` = fa és `trä` = faanyag szinte azonosak.  
+Itt még csak annyit, mely nyelvekben használják ugyanazon szóalakot az élő és holt fára is. A magyar fa szón kívül a japán `moku` = fa és faanyag, az ainu `ni` = fa és faanyag szintén, a Borbola János adataként talált egyiptomi `ht` = fa(anyag) és (élő)fa jelentésű szó szóalakjának megfelelő walesi nyelvben `coeden` = fa és `coed` =fák, erdő de a faanyag neve `pren`, de a svéd nyelvben `träd` = fa és `trä` = faanyag szinte azonosak.  
 
 ## Fa mint Tejútfa
 
