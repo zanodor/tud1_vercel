@@ -1,11 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor nyelvelmélet/","title":"Finnugor nyelvelmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:31","updated":"2026-05-08T02:22"}
+{"dg-publish":true,"permalink":"/F/Finnugor nyelvelmélet/","title":"Finnugor nyelvelmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:31","updated":"2026-05-15T22:32"}
 ---
 
 
 # Finnugor elmélet
 
 A régi neve annak, amit manapság **uráli nyelvcsalád elmélet**nek neveznek.  
+
+A hivatalos fáma szerint:  
+A magyar nyelv finnugor eredetű, az uráli nyelvcsalád finnugor nyelvcsoportjának ugor ágához tartozik. A finnugor őshaza hollétére különféle elméletek születtek. Az ősi együttélés helyét valahova az Urál-hegység délnyugati lejtőjére teszik, a többi ággal való még ősibb együttélését Nyugat-Szibériába.  
+Az ősi uráli alapnyelvből fejlődtek a nyelvcsalád tagjai. A magyar nyelv finnugor eredetét az összehasonlító nyelvtudomány vizsgálatai igazolták. Az összehasonlító nyelvészet segédtudományainak (történelemtudomány, néprajz és régészet) köszönhetően tudjuk, hogy az ugor nyelvcsalád az időszámításunk előtti első évezred közepéig élt együtt, majd a magyarság az Urál déli részére költözött, számos más néppel találkozik, innen kezdődik a magyar nyelv külön fejlődése.  
+
+![Finnugor nyelvelmélet_image20260514052744435.jpeg|fix_dark fix_light|840](/img/user/F/assets/Finnugor%20nyelvelm%C3%A9let_image20260514052744435.jpeg)
+
+Egyéb "rendkívül hasznos" őshaza-ábrákat lásd még [itt](https://archive.ph/RIAiZ).  
 
 #### Schmidt Irén A magyarok és elődeik istenképe, találkozásuk a kereszténységgel a római térítés előtt 1-2....
 
@@ -23,7 +31,7 @@ A régi neve annak, amit manapság **uráli nyelvcsalád elmélet**nek neveznek.
 
 #### Götz László Keleten kél a Nap...
 
-...című könyvének 212. oldalán írja "finnugor származásunk iskolája"-ról:  
+...című könyvének 212. oldalán írja "finnugor származásunk iskolájá"-ról:  
 > Az indogermanisztika rohamos térhódítása az európai tudományosságban hamarosan nálunk is éreztette hatásait. Az 1850-es évek után a 48 előtti magyar kutatók történelmi irányzata és szemlélete mindinkább háttérbe szorult, párhuzamosan a magyarok kizárólagos finnugor eredetét hirdető német és osztrák iskola – Schlözer, majd követői: Zeuss, Büdinger, Róssler, Dümmler stb. – nézeteinek fokozatos térhódításával. Ez a radikálisan indogermán szemléletű kutatócsoport mindennemű másirányú nyelvi, etnikai és történelmi kapcsolatunknak még a lehetőségét is kategorikusan tagadva azt állította, hogy a magyarok őstörténetét, népünk és nyelvíink származását csakis a finnugoroknak elnevezett népek által lakott területeken, azaz a Felső-Volga, Oka, Káma folyók, az Urál hegység és Nyugat-Szibéria térségében, az eurázsiai erdőövben szabad kutatni, nagyjából az 50-55. szélességi foktól északra.  
 > Ez az elmélet nem volt más, mint az akkori indogermanisztika globális, kontinentális méretű őstörténeti szemléletének szerves része. Miután Elő-Ázsiát, Iránt, Közép-Ázsiát és az eurázsiai steppét – a Kárpát-medencétől Mongóliáig és Kínáig – mindenütt indogermánokkal népesítették be, a magyarok számára, akikről "megállapították", hogy **Európába a barbárság legalsó fokán állva érkeztek**, egyszerűen nem maradt szabad terület a délebbi, kulturáltabb "indogermán" térségben.  
 
