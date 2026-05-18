@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2026-05-15T22:35"}
+{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2026-05-18T23:56"}
 ---
 
 
@@ -10,7 +10,9 @@ Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylon
 Azt pedig [[E/Ember#Ember szavunk Íjas (Íjász) értelme az Ikrek jegyére vonatkoztatva\|Ember szavunk Íjas (Íjász) értelme az Ikrek jegyére vonatkoztatva]] cím/alcímnél láttuk, hogy az ember az Ikrek; vö. azzal, hogy a latin `mās` = férfi jelentésű. Ugyanakkor a Nap a hímnemű és a hős is a Naphősre vonatkozik.  
 Azaz a szó a magyar-sumér-sémi vonalon érkezett volna fiú, (ifjú) hős jelentéssel, amelyből (azzal, hogy a napfiú felnőtt) jöhetett létre a férfi jelentés.  
 
-Götz László Keleten kél a Nap című könyvének 999. oldalán Harmatta János ősiráni-finnugor szószedetének (mint 57%-ban szumér jövevényszónak beillő) szavait mutatja be:  
+#### Götz László Keleten kél a Nap...  
+
+...című könyvének 999. oldalán Harmatta János ősiráni-finnugor szószedetének (mint 57%-ban szumér jövevényszónak beillő) szavait mutatja be:  
 > Óiráni: vasta, vastă-> mordvinE `vasta` " férj, feleség".  
 > Ősiráni: vaśa-, vaśā-> mordvinM `vaše` "feleség"; szumér: `maš` = "Zwilling, Hälfte, der Anderer" (iker, a fele, a másik).  
 > (Óiráni: vadu-> cseremisz `βate` "feleség, asszony".)  { #z6ipar}
