@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Britain/","title":"Britain","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-11T12:30","updated":"2024-10-24T22:19"}
+{"dg-publish":true,"permalink":"/B/Britain/","title":"Britain","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-11T12:30","updated":"2026-05-18T23:56"}
 ---
 
 
@@ -19,14 +19,13 @@ Péterfai János nemhogy a [[B/Barát\|barát]]okat, de a birkákat sem említi 
 
 Bharat-ot Acharia S (mely forrás alapján?) India eredeti-bennszülött nevének tartja (és maga is Britain nevéhez hasonlítja); tény, hogy William F. Warren könyvében is említi a Bharata nevet:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/b/barat/#rhwol" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/B/Barát/#rhwol" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-> First, of course, we come to the Himalaya range, the Himavat of Indian geography. All that portion of the earth lying between this mountain range and the great ocean to the South constitutes one of the seven, or nine, varshas, or divisions of the habitable (upper) hemisphere. Its name is **Bharata**.  
+> First, ![assets/Barát_image1.png|fix_dark fix_light right|240](/img/user/B/assets/Bar%C3%A1t_image1.png)of course, we come to the Himalaya range, the Himavat of Indian geography. All that portion of the earth lying between this mountain range and the great ocean to the South constitutes one of the seven, or nine, varshas, or divisions of the habitable (upper) hemisphere. Its name is **Bharata**.  
 > —  
-> Először természetesen a Himalája hegyvonulatához, az indiai földrajz Himavatjához érkezünk. A Földnek az e hegyvonulat és a déli nagy óceán között fekvő része alkotja a hét vagy kilenc varsa, vagyis a lakható (felső) félteke egyikét. A neve **Bharata**. 
-> ![assets/Barát_image1.png|invert_dark](/img/user/B/assets/Bar%C3%A1t_image1.png)
+> Először természetesen a Himalája hegyvonulatához, az indiai földrajz Himavatjához érkezünk. A Földnek az e hegyvonulat és a déli nagy óceán között fekvő része alkotja a hét vagy kilenc varsa, vagyis a lakható (felső) félteke egyikét. A neve **Bharata**.  
 
 
 </div></div>
