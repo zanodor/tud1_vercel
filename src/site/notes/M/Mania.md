@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mania/","title":"Mania","tags":["Englishtexttranslated"],"created":"2023-10-20T07:07","updated":"2024-10-25T23:19"}
+{"dg-publish":true,"permalink":"/M/Mania/","title":"Mania","tags":["Englishtexttranslated"],"created":"2023-10-20T07:07","updated":"2026-05-18T23:56"}
 ---
 
 
@@ -18,4 +18,4 @@ Valószínűbbnek tűnik azonban, hogy a Hold (annak [[M/Mén\|Mén]] alakú nev
 > According to one story the grove was first consecrated to Diana by a Manius Egerius, who was the ancestor of a long and distinguished line. Hence the proverb "There are many Manii at Ariciae." Others explained the proverb very differently. They said it meant that there were a great many ugly and deformed people, and they referred to the word Mania which meant a bogey or bugbear to frighten children.  
 > —  
 > Egy történet szerint a ligetet először egy Manius Egerius szentelte Dianának, aki egy hosszú és előkelő család őse volt. Innen ered a közmondás: "Sok mani van Ariciában". Mások egészen másképp magyarázták a közmondást. Azt mondták, hogy azt jelenti, hogy nagyon sok csúnya és torz ember van, és a Mania szóra utaltak, amely a gyermekek megijesztésére szolgáló mumust vagy rémséget jelent.  
-- Háttértörténetet lásd [[N/Nemo-\|nemo-]].  
+- Háttértörténetet lásd [[N/Nemo-\|nemo-]].
