@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sógor/","title":"Sógor","created":"2024-11-08T15:26","updated":"2024-11-23T05:37"}
+{"dg-publish":true,"permalink":"/S/Sógor/","title":"Sógor","created":"2024-11-08T15:26","updated":"2026-05-18T23:56"}
 ---
 
 
