@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Horse/","title":"Horse","created":"2024-05-16T01:54","updated":"2026-03-05T01:48"}
+{"dg-publish":true,"permalink":"/H/Horse/","title":"Horse","created":"2024-05-16T01:54","updated":"2026-05-18T23:56"}
 ---
 
 
@@ -8,7 +8,7 @@
 [[L/Ló\|Ló]]. [[G/Gyors\|Gyors]] szavunkból eredeztetése látszik elsőre kézenfekvőnek.  
 A CzF szótárban találjuk a megfejtést:  
 > A ló, mint általán igen haszonvehető állat, különösen pedig mint a magyar népnek ős időktől még a régi hunnoktól fogva kedvencze, nagy szerepet viszen nyelvünkben mind szótárilag és közmondatokban, mind költőileg véve.  
-> Már Adelung jól vette észre, hogy a ló több népek nyelvén kitünő gyorsaságától kapta nevét. Így a német: [[R/Ross\|ross]] régiesen: ors, hors, az angolban ma is: `horse` Adelung szerént rokon a német `hurtig`, `Hirsch` szókkal; tehát a magyar poroszka, gyors, borbát szókkal is. Rokonok továbbá értelemben a latin `equus`, äoliai hellen `ikkoV` (melyből ippoV is módosultnak látszik), lithván aihvus, szanszkrit `açvas` açvá, melyekben Benfey szerént alapfogalom a gyorsaság, innen a szanszkrit `açu` (= gyors, sebes), latin `acer`, hellen `wkknV` stb. Adelung pedig a görög `ippoV` és német `hüpfen` szókat is egy származásuaknak tartja.  
+> Már Adelung jól vette észre, hogy a ló több népek nyelvén kitünő gyorsaságától kapta nevét. Így a német: [[R/Ross\|ross]] régiesen: `ors`, `hors`, az angolban ma is: `horse` Adelung szerént rokon a német `hurtig`, `Hirsch` szókkal; tehát a magyar poroszka, gyors, borbát szókkal is. Rokonok továbbá értelemben a latin `equus`, äoliai hellen `ikkoV` (melyből `ippoV` is módosultnak látszik), lithván `aihvus`, szanszkrit `açvas`, `açvá`, melyekben Benfey szerént alapfogalom a gyorsaság, innen a szanszkrit `açu` (= gyors, sebes), latin `acer`, hellen `wkknV` stb. Adelung pedig a görög `ippoV` és német `hüpfen` szókat is egy származásuaknak tartja.  
 
 A német Adelung nyomán Götz László Keleten kél a Nap című könyvében is kapcsolatot talált a [[R/Ross\|ross]] és a horse szavak közt. A német `ross`, feröeri `ross`, izlandi `hross`, svéd `russ` = ló szavak hangátvetett vagy inkább lecsapott formái a horse szónak. A legjobban az izlandi szó mutatja, hogy ott volt egy később lecsapott hang.  
 A `rush` angol ige majd ezen új formán keresztül jön létre belső fejlődéssel.  
