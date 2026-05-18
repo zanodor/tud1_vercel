@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2024-05-14T11:45","updated":"2026-05-08T02:24"}
+{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2024-05-14T11:45","updated":"2026-05-18T23:56"}
 ---
 
 
@@ -212,4 +212,7 @@ Gulyás Péter Pál több könyvében is jól mutat rá, hogy az eget tartó osz
 - [Ezen](https://www.youtube.com/watch?v=WUmd19AVOnQ&t=4187) helyen szól Agócs Gergely arról, hogy ha a toposz több helyen is megvan, az nem lehet véletlen.
 
 
-![Nosztratikus nyelvcsalád_image20260330194257442.jpeg|fix_dark fix_light|840](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260330194257442.jpeg)
+
+|                                                                                     |                                                                                     |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| ![Nosztratikus nyelvcsalád_image20260330194257442.jpeg\|fix_dark fix_light\|864](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260330194257442.jpeg) | ![Nosztratikus nyelvcsalád_image20260518180839845.jpeg\|fix_dark fix_light\|840](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260518180839845.jpeg) |
