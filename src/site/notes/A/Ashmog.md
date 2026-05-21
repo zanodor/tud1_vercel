@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ashmog/","title":"Ashmog","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-23T02:53","updated":"2025-08-31T02:05"}
+{"dg-publish":true,"permalink":"/A/Ashmog/","title":"Ashmog","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-23T02:53","updated":"2026-05-21T05:07"}
 ---
 
 
@@ -13,14 +13,14 @@ A Zend Avesztában előjövő szót lásd [[O/Ocsmány\|ocsmány]] és [[S/Smoke
 > The Argive myth of the fifty [[D/Danaidák\|Danaids]] who were married to the fifty sons of Aegyptus and killed all but one on their common wedding night, and the Perso-Egypto-Greek myth of Tobit and Raguel's daughter whose seven previous husbands had all been killed by the demon Asmodeus – in Persian, Aeshma Daeva – on their wedding night, are originally identical.  
 > —  
 > Az argoszi mítosz, melyben ötven [[D/Danaidák\|danaida]], akik Aegyptosz ötven fiával házasodtak össze, és egy kivételével mindet megölték a közös nászéjszakájukon, valamint a Tóbitról és Raguel lányáról szóló perzsa-egyiptomi-görög mítosz, melyben hét korábbi férjét mind megölte a démon Asmodeus – perzsául Aeshma Daeva – a nászéjszakáján, eredetileg azonos.
-{ #mmn17}
+{ #mvjloy}
 
 
 Láss csodát, [[S/Széth\|Széth]]tel azonosítja és kutyakísérőről is szó van:  
 > In the Book of Tobit, Tobit is the lucky eighth, the new Zeus bridegroom, who escapes his fate when the reigning Zeus has to die at the end of his term. Asmodeus is the Persian counterpart of Set, the yearly murderer of Osiris, but he is charmed away with the fish of immortality and flees to his southern deserts. Tobit's dog is a helpful clue; he always accompanied Hercules Melkarth, or his Persian counterpart Sraosha, or the Greek Aesculapius, wherever he went.  
 > —  
 > Tóbit könyvében Tóbit a szerencsés nyolcadik, az új Zeusz vőlegénye, aki megmenekül a sorsától, amikor az uralkodó Zeusznak a ciklusa végén meg kell halnia. Aszmodeusz Sét perzsa megfelelője, Ozirisz évenkénti gyilkosa, de a halhatatlanság halával elvarázsolják, és a déli pusztákba menekül. Tobit kutyája hasznos nyomravezető; mindig elkísérte Herkules Melkarthot, vagy perzsa megfelelőjét, Sraosát, vagy a görög Aesculapiust, bárhová is .
-{ #ycthc}
+{ #gj66rp}
 
 
 Nyilván Asmodeus számomra inkább Ashmog-Deus összevonása lenne, mintsem Aeshma Deus/Daeva, melyet a Wikipédia oldal is erőltet. Egyébiránt a judaizmusban és a Talmudban szintén előjön ezen név vagy változata:  
