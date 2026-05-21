@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hágár/","title":"Hágár","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-14T00:03","updated":"2026-03-05T01:29"}
+{"dg-publish":true,"permalink":"/H/Hágár/","title":"Hágár","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-14T00:03","updated":"2026-05-21T04:57"}
 ---
 
 
@@ -125,7 +125,7 @@ Az [alábbi](https://www.scribd.com/document/257569401/Hagarism-The-Making-of-th
 > According to the authors, Hagarenes is a term used commonly by various sources (Greek 'Magaritai', Syriac 'Mahgre' or 'Mahgraye') to describe the 7th-century Arab conquerors. The word was a self-designation of the early Muslim community with a double-meaning. Firstly, it is a cognate of `muhājirūn`, an Arabic term for those who partake in `hijra` (exodus). Secondly, it refers to Ishmaelites: descendants of Abraham through his handmaid Hagar and their child Ishmael, in the same way as the Jews claimed descent and their ancestral faith from Abraham through his wife Sarah and their child Isaac. Muhammad would have claimed such descent for Arabs to give them a birthright to the Holy Land and to prepend a monotheist genealogy compatible with Judaism to their pagan ancestral practice (such as sacrifice and circumcision). Hagarism thus refers to this early faith movement. The designation as Muslims and Islam would only come later, after the success of contests made the duty of hijra obsolete.  
 > —  
 > A szerzők szerint a hágárénus kifejezés a különböző forrásokban általánosan használt kifejezés (görög "magaritai", szír "Mahgre" vagy "Mahgraye") a 7. századi arab hódítók leírására. A szó a korai muszlim közösség önmegjelölése volt, kettős jelentéssel. Először is, a `muhājirūn` rokon értelmű, arabul a `hidzsra` (kivonulás) résztvevőire használt kifejezés. Másodszor, az izmaelitákra utal: Ábrahám leszármazottaira, akik Ábrahám szolgálóján, Hágáron és gyermekükön, Izmaelen keresztül származtak, ugyanúgy, ahogyan a zsidók is Ábrahámtól való leszármazást és ősi hitüket vallották, feleségén, Sárán és gyermekükön, Izsákon keresztül. Mohamed az arabok esetében azért követelte volna ezt a leszármazást, hogy a Szentföldre való elsőszülöttségi jogot adjon nekik, és hogy pogány ősi gyakorlatuk (mint például az áldozathozatal és a körülmetélés) mellé egy, a judaizmussal összeegyeztethető monoteista genealógiát illesszen. A hágarizmus tehát erre a korai hitmozgalomra utal. A muszlimokként és iszlámként való megjelölés csak később következett be, miután a versenyek sikere feleslegessé tette a hidzsra kötelességét.
-{ #fntjv}
+{ #nggx84}
 
 
 Tulajdonképpen azt kell látni, hogy az arab `muhajir` = elvándoroló, migráns szó többes száma, az arab `muhājirūn` azokra a (nevükben legalábbis) magyarokra utalnak, akikből a muszlimokat gyúrták. Ezen utóbbi muhājirūn nevet akarják egyes nyelvészek a [[M/Magar\|Magar]] címnél is taglalt görög `magaritai` és szír `mahgraye` vagy másutt `mhaggrāyē` nevek eredetének megadni, nem ismervén a magyar nevet fel bennük.  
