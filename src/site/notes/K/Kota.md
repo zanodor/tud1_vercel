@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kota/","title":"Kota","created":"2024-11-08T15:22","updated":"2026-03-25T02:21"}
+{"dg-publish":true,"permalink":"/K/Kota/","title":"Kota","created":"2024-11-08T15:22","updated":"2026-05-22T00:18"}
 ---
 
 
@@ -69,9 +69,17 @@ Lásd még ház – település (város) vonalon a kota névvel szinte azonos [[
 
 ### Szent ház
 
-Varga Zsigmond Az ősmagyar mitológia című, [letöltésre elérhető](https://mega.nz/file/NzVgjYyJ#NwRtPkXGAY5s_k4gsvVwfaByPvBeGaVBLlXqhDoGefU) könyvének 128-130. oldalán finnugor (pl. osztják `khot`, cseremisz `kudo` és más hasonló alakú, szent ház jelentésű) szavakat adatol.  
-Ha már szent ház, tegyük hozzá, hogy a [[K/Kut\|kut]] és más címnél adatolt hurri `kuta` = szent jelentésű már önmagában is, sőt, mivel a szent házak magasak/magaslatra épültek (az ég hupolagja adja a ház jelentést a szláv és más nyelvű [[D/Dome\|dome]] címnél taglalt szavak esetében is), és a Nap is a nyári [[C/Culminate\|kulmináció]]s pontján a [[K/Kutya\|Kutyá]]ban tartózkodik, láthatjuk, hogy a szavak mind összefüggenek.  
-Az összefüggések pedig a [[K/Kufu\|Kufu]] címnél Magyar Adorján által említett egyiptomi piramisok `ku`, `kut` nevével és a [[S/Szakrális geometria\|szakrális geometriá]]val folytathatók, sőt, hasonló egyiptomi szó előjött [[H/Huta\|huta]] címnél Borbola Jánostól is. Én itt már a diagramban a helyesebb `ḥwt` formával adom:  
+Varga Zsigmond Az ősmagyar mitológia című, [letöltésre elérhető](https://mega.nz/file/NzVgjYyJ#NwRtPkXGAY5s_k4gsvVwfaByPvBeGaVBLlXqhDoGefU) könyvének 128-130. oldalán finnugor (pl. osztják `khot`, cseremisz `kudo` és más hasonló alakú, szent ház jelentésű) szavakat adatol.
+{ #5skpft}
+
+
+Ha már szent ház, tegyük hozzá, hogy a [[K/Kut\|kut]] és más címnél adatolt hurri `kuta` = szent jelentésű már önmagában is, sőt, mivel a szent házak magasak/magaslatra épültek (az ég hupolagja adja a ház jelentést a szláv és más nyelvű [[D/Dome\|dome]] címnél taglalt szavak esetében is), és a Nap is a nyári [[C/Culminate\|kulmináció]]s pontján a [[K/Kutya\|Kutyá]]ban tartózkodik, láthatjuk, hogy a szavak mind összefüggenek.
+{ #xfuhiq}
+
+
+Az összefüggések pedig a [[K/Kufu\|Kufu]] címnél Magyar Adorján által említett egyiptomi piramisok `ku`, `kut` nevével és a [[S/Szakrális geometria\|szakrális geometriá]]val folytathatók, sőt, hasonló egyiptomi szó előjött [[H/Huta\|huta]] címnél Borbola Jánostól is. Én itt már a diagramban a helyesebb `ḥwt` formával adom.
+{ #3hl6xz}
+
 
 ```plantuml-svg
 @startuml
@@ -89,13 +97,19 @@ rectangle "<b>kut</b>" as kut
 card "finnugor <color:#e7545c>khot</color>" as khot
 card "cseremisz <color:#e7545c>kudo</color>" as kudo
 card "hurri <color:#e7545c>kuta</color>" as kuta
+card "angol <color:#e7545c>hut</color>" as kuta2
 card "egyiptomi <color:#e7545c>ḥwt</color>" as kut2
+
+url for kut2 [[Kota#^3hl6xz]]
+url for khot [[Kota#^5skpft]]
+url for kudo [[Kota#^5skpft]]
+url for kuta [[Kota#^xfuhiq]]
 
 kut -- khot : "jelentése: szent ház"
 kut -- kudo : "jelentése: szent ház"
 kut -- kuta : "jelentése: szent"
+kut -- kuta2 : "jelentése: viskó"
 kut -- kut2 : "jelentése: ház, szentély\nMagyar Adorján adata kut volt"
 
 @enduml
 ```
-- Az angol [[H/Hut\|hut]] = viskó is betehető lett volna.
