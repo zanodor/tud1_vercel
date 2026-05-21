@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók/","title":"Mássalhangzók","tags":["Englishtexttranslated"],"created":"2024-04-28T20:59","updated":"2026-03-05T01:50"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók/","title":"Mássalhangzók","tags":["Englishtexttranslated"],"created":"2024-04-28T20:59","updated":"2026-05-21T05:07"}
 ---
 
 
@@ -37,4 +37,4 @@ Mint kiderül, angolul ezt `consonant frame`-nek (mássalhangzó-keretnek) is ne
 > —  
 > Bár a `kofa` szót először a tizenhetedik században jegyezték fel, rokonságban kell állnia más, (fiatal) állatokat jelölő főnevekkel, az óizlandi `kobbi` 'fóka' szótól az angol `cub` szóig, a k-b mássalhangzó-kerettel.
 
-[[S/Scota#^5uapm\|Scota]] címnél `consonantal outline` kifejezést használt a filológus-növendék.  
+[[S/Scota#^6lvokv\|Scota]] címnél `consonantal outline` kifejezést használt a filológus-növendék.  
