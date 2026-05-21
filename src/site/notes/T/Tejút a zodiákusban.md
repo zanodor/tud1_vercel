@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejút a zodiákusban/","title":"Tejút a zodiákusban","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T04:26","updated":"2026-04-24T09:36"}
+{"dg-publish":true,"permalink":"/T/Tejút a zodiákusban/","title":"Tejút a zodiákusban","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T04:26","updated":"2026-05-21T05:00"}
 ---
 
 
@@ -99,7 +99,7 @@ Hasonló a makedón szokáshoz:
 > Dog sacrifices had a cathartic dimension in the purification rituals that took place before a battle or a military expedition (Nilsson 1906: 405-406). In many cases such ceremonies included the soldiers' **parading between two halves of a severed dog**. Plutarch mentions such examples in the army of Boeotia and Thebes (see Megas 1923: 509). The Persian king Xerxes, according to the ancient Greek historian Herodotus, during his campaign against Greece, made his troops pass between the two parts of a sacrificed human, which reminds us that the dog replaced human victims (Nilsson 1906: 405-406). In a wider Indo-European context, F. Blaive mentions a similar parade by Hittites between pieces of a human, a dog or other animal. Moreover, in India, during the Ashva-medha (the sacrifice of the horse) ceremony, a dog was sacrificed to protect and increase the number of valuable horses (Blaive 1995: 287).  
 > —  
 > A kutyaáldozatoknak katartikus dimenziója volt a csata vagy katonai expedíció előtti tisztulási rituálékban (Nilsson 1906: 405-406). Sok esetben az ilyen szertartásokhoz tartozott, hogy a katonák egy levágott kutya két fele között vonultak fel. Plutarkhosz említ ilyen példákat a boiótiai és thébai hadseregben (lásd Megas 1923: 509). Hérodotosz ókori görög történetíró szerint Xerxész perzsa király a Görögország elleni hadjárata során egy feláldozott ember két része között vonultatta fel csapatait, ami arra emlékeztet, hogy a kutya az emberi áldozatokat helyettesítette (Nilsson 1906: 405-406). Tágabb indoeurópai kontextusban F. Blaive említi a hettiták hasonló felvonulását egy ember, egy kutya vagy más állat darabjai között. Sőt, Indiában az Ashva-medha (lóáldozat) szertartás során kutyát áldoztak fel, hogy megvédjék és növeljék az értékes lovak számát (Blaive 1995: 287).
-{ #dalja}
+{ #2q5b0h}
 
 
 ![assets/Tejutazodiakusban_image7.png|invert_dark fix_light|840](/img/user/T/assets/Tejutazodiakusban_image7.png)  
