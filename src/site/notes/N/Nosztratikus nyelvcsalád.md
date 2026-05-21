@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2024-05-14T11:45","updated":"2026-05-18T23:56"}
+{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2024-05-14T11:45","updated":"2026-05-21T05:00"}
 ---
 
 
@@ -36,7 +36,7 @@ A Wiki oldalon szereplő mondat...
 
 Könyvének 178-181. oldalain szemantikai-fonetikai nyelvhasonlítási módszere alapján haladva két alapfogalom hét, illetve kilenc különböző hangalakú szinonim megnevezésének négy nyelvcsaládon keresztül töretlenül kimutatható megfelelésein – a táblázatos adatokat lásd az egyes helyeken (például [[F/FOG\|FOG]]) – keresztül bemutatja, hogy a nyelvcsaládoknak közös ősi gyökerei vannak. A szóegyeztetésekben a szumér nyelvet veszi alapul és ahhoz méri a magyar, az indogermán (angolszász, görög, latin) és a szemita nyelvek (főleg asszír, arab és héber) szavakat.  
 
-A kutya fogalmára használt szóalakok mindenütt fellelhető azonossága kapcsán lásd [[K/Kutya#^wav7l\|ezen]] passzust, ahol kimondják:  
+A kutya fogalmára használt szóalakok mindenütt fellelhető azonossága kapcsán lásd [[K/Kutya#^h2i5zc\|ezen]] passzust, ahol kimondják:  
 > 1\. Az összes nyelv, amelyik ugyanazt a szót használja a "kutya" szóra, egyetlen anyanyelvből származik; 2\. A "kutya" közös szava az állat háziasításával terjedt el. Úgy vélem, hogy ennek a figyelemre méltó jelenségnek a helyes magyarázata a két lehetőség kombinációja.  
 - Valójában a kutya több mint csak kutya.
 
