@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-04T04:55","updated":"2026-05-15T22:33"}
+{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-04T04:55","updated":"2026-05-21T04:58"}
 ---
 
 
@@ -69,7 +69,7 @@ A barbaru jelentését illetően még annyit, hogy Nimród, a hatalmas vadász, 
 > The Bedouins of the Sinai and the Negev, however, called Sirius **Al-Burbarah**, probably deriving the name from the barking noise of a dog (Bailey 1974). They used its appearance on the easterly horizon at nightfall, in mid-January, as a season marker for the start of their **40**-day winter season ash-shita that lasts till late-February.  
 > —  
 > A Sínai-félsziget és a Negev beduinjai azonban a Szíriuszt **Al-Burbarah**-nak nevezték, valószínűleg egy kutya ugatásából eredeztetve a nevet (Bailey 1974). Ők január közepén, sötétedéskor a keleti horizonton való megjelenését évszakjelzőként használták a február végéig tartó **40** napos téli időszakuk, az ash-shita kezdetére.
-{ #5s6xw}
+{ #mh5ggc}
 
 
 Ahogy [[B/Barbara\|Barbara]] címnél írtuk, egészen nyilvánvalóan azon névnek itt kell eredetét is keresni.  
