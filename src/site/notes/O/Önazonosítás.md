@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:32","updated":"2026-05-15T22:33"}
+{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:32","updated":"2026-05-21T05:00"}
 ---
 
 
@@ -47,7 +47,8 @@ A szanszkritban `sva-pati` - szó szerint a maga ura – [[S/Szabad\|szabad]] sz
 > A német `ich` nem 'ish'. Ez egy h/k, mint a latin [[E/Ego\|ego]]-ban. Mindkettő a magyar [[E/Ég\|ég]], azaz Isten lakhelye szóból származik (az ősi emberek isteni szellemükkel/lelkükkel azonosították magukat, nem pedig testükkel és pénzükkel; vö. még a szkíta-iráni [[K/Khuda\|Khuda]] = Isten és a perzsa `khod` reflexív használata).  
 > Ennek az Istennek megvan a megfelelője, az Ördög/Sátán. **Vö. a barát és ellenség jelentésű perzsa szavakkal**. Ezekben a magyar `tűz` szó is benne van. Annak bizonyítására, hogy a zoroasztriánus [[D/Dualisztikus világkép\|dualisztikus világkép]] Irán előtti, és hogy a szavak valójában egy indoeurópai előtti rétegből származó európai szavakra épülnek, többre lenne szükség, mint néhány sor.  
 > Egy baráti tanács az irániaknak: ne fogadják el a nyugati szakértői véleményeket, mert 1) nem érdeklik őket az pre-indoeurópaiak és a pre-szemiták 2) *azok pénzén fizetik őket, akik a testükkel és a (piszkos, haszonszerzéssel szerzett) pénzükkel azonosítják magukat*.  
-> Egy barát (ellenség?) Magyarországról { #6jhjj}
+> Egy barát (ellenség?) Magyarországról { #nko2h3}
+
 
 
 ...és az Isten jelentésű khoda ([[K/Khuda\|Khuda]]) is [[K/Kut\|kut]] és [[K/Kutya\|kutya]] szavunkkal látszik párhuzamot alkotni, ahogy [[G/God\|God]] címnél írottak alapján láttuk. A kutyáról ([[D/DUG\|DUG]] és [[D/DOG#Dog 2)\|dog]] szónál írottak alapján) tudjuk, hogy szent (hurri `kuta` = szent) állat, valamint [[K/Kutyahitű\|kutyahit]] címnél körüljártuk, hogy az [[E/Ember\|ember]] lelke kutyalélek (innen válik érthetővé a khod- visszaható névmás önvaló, lélek (ókínai, hun nyelvben [[K/Kut\|kut]] = életerő, lélek) értelemre való visszavezethetősége).  
