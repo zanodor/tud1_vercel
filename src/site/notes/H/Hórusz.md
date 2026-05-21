@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hórusz/","title":"Hórusz","tags":["Englishtexttranslated"],"created":"2025-09-28T17:57","updated":"2026-03-05T01:40"}
+{"dg-publish":true,"permalink":"/H/Hórusz/","title":"Hórusz","tags":["Englishtexttranslated"],"created":"2025-09-28T17:57","updated":"2026-05-21T05:03"}
 ---
 
 
@@ -78,7 +78,7 @@ Jackson a Gerald Massey-től válogató Albert Churchward adatsorát mutatja be.
 > Jézust a keresztségében az Égből üdvözlik az Atya szeretett fiaként és egyetlen nemzettjeként, Istenként, a Szentlélekként, amelyet egy galamb képvisel.  
 > (A fenti adatok Albert Churchward: The Signs and Symbols of Primordial Man című könyvéből származnak, 422-423. oldal. A korrelatív információkért az olvasónak Gerald Massey előadásait kell tanulmányoznia (New York: Weiser, 1974), 1-25. oldal.)  
 - Az a Mária, akit János evangéliuma Jézus "anyjának nővéreként” és Kleofás, a protestáns hagyományban Klópás feleségeként említ (Jn 19,25), nem vérrokona a szent szűznek, csupán sógornők, Kleofás ugyanis József  volt. – Forrás: [Wikipédia](https://hu.wikipedia.org/wiki/M%C3%A1ria_%C3%B6r%C3%B6k_sz%C3%BCzess%C3%A9ge#%C3%89rvek_%C3%A9s_bizony%C3%ADt%C3%A9kok).
-{ #iy0t0}
+{ #wpwf6b}
 
 
 ## Hórusz születése
