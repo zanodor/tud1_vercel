@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar népművészet/","title":"Magyar népművészet","tags":["Englishtexttranslated"],"created":"2024-05-14T12:18","updated":"2026-04-24T09:34"}
+{"dg-publish":true,"permalink":"/M/Magyar népművészet/","title":"Magyar népművészet","tags":["Englishtexttranslated"],"created":"2024-05-14T12:18","updated":"2026-05-21T04:55"}
 ---
 
 
@@ -55,7 +55,7 @@ Amit ezután ír az ismeretlen internetes szerző, megint hasonlítható ahhoz, 
 > Az egész kérdéskört még homály takarja. Anahita Istennő történeti jelentőségéről már nem tudunk, a vele való ősi kapcsolatunk emléke teljesen elveszett. Többségében felvettük a zsidó-kereszténység hímelvű tanításait, melyből kiszorultak a női minőségek, és képviselőik. Ugyanis a zsidó gondolatvilágból, eleve hiányzik az Isten közelébe helyezett női ideál. Ezért lett a Bibliában is, a régi NŐISTEN-ből, gonosz NŐSTÉNY, és a kereszténység Szentháromságból is, (mint Isten lényegiségéből,) kimaradt a női minőség.  
 
 Pap Gábor mondja, hogy a világ népeinek fogalmuk sincs mit köszönhetnek a magyarságnak azért, amiért ez a nép nyelvében és lelkében megőrizte a Teremtés emlékanyagát és a múlt képvilágát, képes beszédében, meséiben, egyetemes népművészetében.  
-Ezzel lehetne bevezetni egy Quora cikket azzal folytatva, hogy a magyar nyelv és mondakör eredménye az, amit idegen nyelveknek és kulturális hagyománynak nevezhetünk. [[D/De Saussure\|De Saussure]] tévedett, amikor azt gondolta, hogy a nyelv szavai csak úgy jönnek a semmiből és a ma nyelvészek is pusztán lexikális és fonetikai szakbarbárságot művelnek.  
+Ezzel lehetne bevezetni egy Quora cikket azzal folytatva, hogy a magyar nyelv és mondakör eredménye az, amit idegen nyelveknek és kulturális hagyománynak nevezhetünk. [[D/De Saussure, Ferdinand\|Ferdinand de Saussure]] tévedett, amikor azt gondolta, hogy a nyelv szavai csak úgy jönnek a semmiből és a ma nyelvészek is pusztán lexikális és fonetikai szakbarbárságot művelnek.  
 Ahogy erről a [[N/Nyelvészet mint tudomány#Grimm-féle hangtörvények\|Grimm-féle hangtörvények]] kapcsán volt szó.  
 Ott Götz László több jó felvetése és hasonlata után fogalmaztam meg az alábbiakat:  
 Itt Götz László arra gondol, hogy belső fejlődésű nyelvekkel van dolgunk; ennél bonyolultabb a helyzet, mert az alapszavak illetve alapfogalmak – már maga a kulturális háttér közege által determinálva – adottak, a pre-indoeurópai (nevezzük magyar nyelvű) rétegből, azaz innen átvettek szavakat és belső fejlődéssel is hozhattak létre azok kaptafájára újakat, azaz a ma homogénként vizsgált szóhalmaz egyes részei átvételek és azok deformációi (nevezzük őket hangeltolódásos változatainak), más részei **utódnyelvek (deformált, egységüket és idővel identitásukat vesztett népek nyelveinek) olyan szavai, ahol már a nevezett népek/néptöredékek a saját (leginkább az istenitől/kozmikustól eltávolodással téves) változatok kidolgozásának ideje (Kali Yuga) jött el**.  
