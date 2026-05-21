@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Halom/","title":"Halom","created":"2023-12-08T09:21","updated":"2025-08-31T02:07"}
+{"dg-publish":true,"permalink":"/H/Halom/","title":"Halom","created":"2023-12-08T09:21","updated":"2026-05-21T05:07"}
 ---
 
 
@@ -14,7 +14,7 @@
 #### Magyar Adorján írja:  
 
 > A mai szláv `húm` = domb, halom szó régibb alakja `hlum` volt. De természetesen nem sejtik, hogy ez még a magyar halom, régibb halum, holum szónak csak romlott kiejtése s a gömbölyűséget, domborúságot jelentő magyar [[G/Golyó\|golyó]], goló szó rokona. Az angol `hill`, olasz `colle`, `collina` = domb, halom szavak is ide tartozóak.
-{ #m73vp}
+{ #19wlxu}
 
 - Egyúttal a [[H/Haram\|haram]] címnél adatolt szláv `hrám` = templom, szentély szó is csak r-hangos változata ezen halom szavunknak; ami megint felveti, hogy magaslatra építettek templomot és istentiszteletet ott tartottak (lásd még [[O/Orgy\|orgy]]).  
   
