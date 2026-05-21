@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["containstransclusions"],"created":"2023-10-09T06:36","updated":"2025-08-31T02:53"}
+{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["containstransclusions"],"created":"2023-10-09T06:36","updated":"2026-05-21T05:02"}
 ---
 
 
@@ -44,7 +44,7 @@ Az alapszavak mássalhangzó-vázra épülnek, bennük a magánhangzók cserélh
 A mássalhangzó-vázban a mássalhangzók szervrokonokkal (kategórián belül) cserélhetők; például [[C/Cölöp\|Cölöp]] Cöl eleme Szül változata.  
 A leginkább ismert és alkalmazott mássalhangzó-változások/cserék a P, B, V, F hangok között vannak (Pater, Bátor, Vezér, Fószer/Fasz-Úr például).  
 
-Ró-Ma például tipikus magyar kifejezés, hiszen Nap és a Föld egymáshoz való kapcsolatáról szól. Tulajdonképpen ez az alapséma. Hiszen, ahogy [[L/Lingam#^xyb93\|itt]] is elhangzott, ez határozza meg életünket (mi másra alapoznánk?).  
+Ró-Ma például tipikus magyar kifejezés, hiszen Nap és a Föld egymáshoz való kapcsolatáról szól. Tulajdonképpen ez az alapséma. Hiszen, ahogy [[L/Lingam#^69okg1\|itt]] is elhangzott, ez határozza meg életünket (mi másra alapoznánk?).  
 Nyilván sokan ágálnának az ellen, hogy sok (néha úgy tűnik, szinte minden) magyar szó Nap az Égen, Nap-Föld, Nap Háza és hasonló jelentésű alapszavakból összeálló szókapcsolatból lenne kialkotható. De valóban, ha pl. a [[B/Bárány\|Bárány]] (Nap az Égen) és [[B/Barom\|Barom]] (Nap a Földön) szavakat nézzük, nehéz mást mondani, mint hogy a szavak azért állnak ilyen tagokból, mert:  
 1\. a Nap és éltető ereje nélkül nincs élet és így élőlény sem a Földön;  
 2\. nem mellékesen ezen állatok (gondoljunk a Bárány, Kosnak megfelelő ind nakshatra Bharani párjára) az égre is felkerültek és a Nap ezen házakban való tartózkodását a fölről nézve állapítjuk meg és a Nap Földre és élőlényeire kifejtett hatását kívánjuk nyomon követni ezzel.  
