@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2026-03-05T01:24"}
+{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2026-05-21T04:55"}
 ---
 
 
@@ -210,14 +210,14 @@ Az alábbiak [[T/Trója\|Trója]] címnél is szerepeltek és John M. Jenkins is
 > This interpretation has a parallel in Mayan cosmology. In Maya Cosmogenesis 2012, in the section devoted to early Izapan astronomy, I noted that **the precession-caused movement of the winter solstice sun toward the Milky Way is counterposed in the north by the movement of the Big Dipper away from the North Celestial Pole**.  
 > —  
 > Ennek az értelmezésnek van párhuzama a maja kozmológiában. A Maya Cosmogenesis 2012-ben, a korai izapai csillagászatnak szentelt részben megjegyeztem, hogy **a téli napforduló Napjának precesszió okozta mozgását a Tejútrendszer felé északon a Nagy Medve mozgása ellensúlyozza az Északi Égi Sarktól való távolodással**.
-{ #ck7b7}
+{ #4ehnxe}
 
 - Nyilván ezért lehet, hogy Széth aspektusai megjelennek több helyen és a [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] kapcsolata is ebben állhat.
 
 > I also identified how this astronomical process was encoded into Mayan mythology: the "fall" of Seven Macaw (the Big Dipper) out of his tree symbolizes the precession-caused movement of the Big Dipper away from the polar center – movement that accelerated around 1000 B.C.  
 > —  
 > Azt is azonosítottam, hogy ez a csillagászati folyamat hogyan volt kódolva a maja mitológiába: a Hét Arapapagájnak (a Nagy Medve) a fájáról való "leesése" a Nagy Medve precesszió okozta elmozdulását szimbolizálja a sarki középponttól – egy olyan mozgást, amely Kr.e. 1000 körül gyorsult fel.
-{ #tvyn1}
+{ #ku9fwh}
 
 
 A történet másutt képpel is ellátva:  
@@ -225,7 +225,7 @@ A történet másutt képpel is ellátva:
 > —  
 > Az Izapan-maja teremtésmítoszban a Hét Arapapagájt (a Nagy Göncölszekér) le kellett győzni, mielőtt a Hős Ikrek apja (Hun Hunahpu (Egy Hunahpu), a decemberi napforduló Napja) elfoglalhatta volna helyét a következő világkorszak uralkodójaként. Az olmékok korábbi cirkumpoláris istenségét (a Nagy Göncölszekeret) kellett trónfosztani, és azt javasoltam, hogy a precessziós mozgás volt e mítosz alapja. Más szóval, a Hét Arapapagáj bukásának története azt a csillagászati folyamatot kódolta, amelynek során a Nagy Medve "elesett" az Északi Égi Sarktól (2.1. ábra).  
 > ![assets/Széth_image9.png|fix_dark fix_light|840](/img/user/S/assets/Sz%C3%A9th_image9.png)
-{ #za5u-}
+{ #azniml}
 
 
 Legutóbb [[T/Typhon\|Typhon]] címnél is szerepelt...
@@ -235,13 +235,15 @@ Legutóbb [[T/Typhon\|Typhon]] címnél is szerepelt...
 ...című könyvének Ursa Maior-nál szereplő adata (hasonlókról szó esett [[C/Cynosure\|Cynosure]] címnél is és betehető [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címhez is):  
 > Hewitt writes of Set in his earliest form as [[H/Hapi\|Kapi]], the Ape-God, stars of our [[C/Cepheus csillagkép\|Cepheus]] marking his head; while at one time on the Nile the [[W/Wain\|Wain]] stars seem to have been **the Dog of Set or of Typhon**. This may have given rise to the title Canis Venatica that La Lande cited, if this be not more correctly considered as the classic Kallisto's hound; and the same idea appears in the **Catuli**, Lap-dogs, and Canes Laconicae, the Spartan Dogs, that Caesius cited for both of the Wains.  
 > —  
-> Hewitt azt írja, hogy Set a legkorábbi formájában [[H/Hapi\|Kapi]] (helyesen [[H/Hapi\|Hapi]]), a Majomisten, a mi [[C/Cepheus csillagkép\|Cepheus]]-unk csillagai jelölik a fejét; míg egykor a Níluson a [[W/Wain\|Wain]] \[Göncöl\] csillagok úgy tűnik, hogy **Set vagy Typhon Kutyája** voltak. Ebből adódhatott a La Lande által idézett Canis Venatica elnevezés, ha ezt nem tekintjük helyesebben a klasszikus Kallisto kutyájának; és ugyanez a gondolat jelenik meg a Catuli, ölbeli kutyák és a Canes Laconicae, a spártai kutyák elnevezésében, amelyet Caesius mindkét Wain (Szekér csillagzat) esetében idézett.  { #qz3nuv}
+> Hewitt azt írja, hogy Set a legkorábbi formájában [[H/Hapi\|Kapi]] (helyesen [[H/Hapi\|Hapi]]), a Majomisten, a mi [[C/Cepheus csillagkép\|Cepheus]]-unk csillagai jelölik a fejét; míg egykor a Níluson a [[W/Wain\|Wain]] \[Göncöl\] csillagok úgy tűnik, hogy **Set vagy Typhon Kutyája** voltak. Ebből adódhatott a La Lande által idézett Canis Venatica elnevezés, ha ezt nem tekintjük helyesebben a klasszikus Kallisto kutyájának; és ugyanez a gondolat jelenik meg a Catuli, ölbeli kutyák és a Canes Laconicae, a spártai kutyák elnevezésében, amelyet Caesius mindkét Wain (Szekér csillagzat) esetében idézett.  { #qz3nuv}
+
 
 
 Majd lábjegyzetben:  
 > Set, also Anubis, Apap, Apepi, Bes, Tebha, Temha, and Typhoeus according to Plutarch, was one of Egypt's greatest gods, who subsequently became the Greek giant Typhon, father of the fierce winds, but slain by Zeus with a thunderbolt and buried under Mount Aetna.  
 > —  
-> Set, Plutarkhosz szerint Anubisz, Apap, Apepi, Bes, Tebha, Temha és Typhoeus is, Egyiptom egyik legnagyobb istene volt, aki később a görög óriás Typhon, a heves szelek atyja lett, de Zeusz villámcsapással megölte és eltemette az Etna hegy alatt.  { #itc5r4}
+> Set, Plutarkhosz szerint Anubisz, Apap, Apepi, Bes, Tebha, Temha és Typhoeus is, Egyiptom egyik legnagyobb istene volt, aki később a görög óriás Typhon, a heves szelek atyja lett, de Zeusz villámcsapással megölte és eltemette az Etna hegy alatt.  { #itc5r4}
+
 
 
 Tüphon is tehát arra a sorsra jutott, mint minden régen tisztelt nagy Isten. A fény-árnyék változások során a korábbi istenek befeketülnek a papság és a nép szemében: démonizálva lesznek. Lásd mi történt Bál-lal és a [[D/Dévák és Aszúrák\|dévák és aszúrák]] is megérnek egy misét. Minderről szóltunk [[M/Magyarellenesség\|magyarellenesség]] címnél is: hogy feledte el a világ Szíriusz és a hun-magyarság jótéteményeit.  
