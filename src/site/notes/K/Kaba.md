@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kaba/","title":"Kaba","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-09-21T00:09","updated":"2026-05-04T17:10"}
+{"dg-publish":true,"permalink":"/K/Kaba/","title":"Kaba","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-09-21T00:09","updated":"2026-05-21T05:03"}
 ---
 
 
@@ -55,7 +55,7 @@ A mekkai Kába-követ szintén ilyen betil-kőnek tartja. A [[V/Világhegy\|Vil�
 
 A [[H/Havā\|havā]] címnél taglalt [[E/Éva\|Éva]] azaz Havva névvel is azonosnak látszó Chaabou vagy Ka'ibah nevű elő-arab [[N/Nabateus\|nabateus]] istennőt a Kába névvel is összevetették:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/H/Havā/#ti7jw" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/H/Havā/#mml7rz" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -80,6 +80,6 @@ Lényegében a cube szón keresztül érthető meg eredete: kő > kova > kaba, d
 > —  
 > A Kába fogalma és neve iszlám előtti eredetű. Alapvetően egyfajta betil-kő és omphalosz/köldök-kő. A kabák/chabákról azt tartották, hogy Isten köveiként az égből hullottak le (üstököscsillag-meteoritok).  
 > A szó eredete nem sémi, hanem turáni: magyar `kő` (köv) = kő > kova/kava > kaba; vö. még [[K/Kocka\|kocka]], arab `Qaf` és indo-szkíta `Koh`/`Kuh` = hegy, szintén a magyar [[K/Kő\|kő]] szóból.
-{ #bjczz}
+{ #0tcf94}
 
 - A Qaf-hegyről lásd [ezen](https://en.wikipedia.org/wiki/Mount_Qaf) Wikipédia oldalon.
