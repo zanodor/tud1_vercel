@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Béla/","title":"Béla","tags":["containstransclusions"],"created":"2023-12-03T05:04","updated":"2025-06-07T19:49"}
+{"dg-publish":true,"permalink":"/B/Béla/","title":"Béla","tags":["containstransclusions"],"created":"2023-12-03T05:04","updated":"2026-05-21T05:05"}
 ---
 
 
@@ -17,14 +17,15 @@ Lehet beszélni a latin-olasz `bella` = szép jelentéséről is (vesd össze [[
 > Nork legújabb mythologiai szótárában is **Bel**, **Belen**, slavisch `biel` = weiss, leuchtend der Sonnengott der alten Gallier. ([Lásd 210. old.](zotero://open-pdf/library/items/DFI47XPY?page=210&annotation=J8IGWTYW))  
 > 
 > Hogy a kelta **Belen** nap- és tűzisten volt, a görög [[A/Apolló\|Apollo]], azt már Bochárt átlátta, ki Gruterusból az aquileai Apollini Beleno felirást idézi is, innen a gallus Belinuntia nevü fűt a latinok Apollinarisnak nevezték, spanyolul `Veleno`, oroszul `Velena`, les hongrois Belend, mint már Bullet e magyar fűnevet igen helyesen ide sorozta nagy kelta szótárában. Apuléjusban – irja ő – a fű neve Belenus, mely Apollo neve is, `belin`, `belyn`, `belen`, keltául = jaune, blond, tehát ismét a szláv `bjel`, `biel`. Molnár Albertben Belend Hyosciamus, Belénd fű, székely földön Belin fű, s ott a fogfájdalmat belinmag füstjével enyhítik. ([Lásd 222. old.](zotero://open-pdf/library/items/DFI47XPY?page=222&annotation=M2V4JRVS))
-{ #r2jv6}
+{ #nstp5c}
 
 
 
 
 #### Magyar Adorján írja:
 
-> A [[B/Belga\|Belgium]] illetve [[B/Belga\|belga]] névnek tökéletesen megfelel a szláv `beli` = fehér szó, valamint a már említve volt északi hófehér színű cethal [[B/Beluga\|beluga]] neve (de amely állatot északi rokonnépeink, amint már szintén említettem, `biburga` néven is neveznek, minthogy a [[B/Bíbor\|bibor]] szó régibb nyelvünkben valamint népünkében ma is hófehér értelmű; irodalmi nyelvünk pedig teljesen tévesen használja "igen piros" értelemmel, "bársun" helyett). Ez fejti meg másrészt Béla személynevünket is, amelynek egykori értelme tehát: igen szőke sőt talán albino is volt, valamint ez magyarázata a régi magyar `béla-gyöngy` szónak is. De innen származik a szőkeségnek francia-német `blond` neve is, de amely szó ezenkívül a `bleu-blau` (blö-blaú) = szóval is összefügg, azért mert a szőkék szeme kék; viszont a `blanc`, `blanche` (blank, blans) = fehér szó sem más mint a béla, beluga szavak magánhangzókihagyásos mása.  { #1wx6ob}
+> A [[B/Belga\|Belgium]] illetve [[B/Belga\|belga]] névnek tökéletesen megfelel a szláv `beli` = fehér szó, valamint a már említve volt északi hófehér színű cethal [[B/Beluga\|beluga]] neve (de amely állatot északi rokonnépeink, amint már szintén említettem, `biburga` néven is neveznek, minthogy a [[B/Bíbor\|bibor]] szó régibb nyelvünkben valamint népünkében ma is hófehér értelmű; irodalmi nyelvünk pedig teljesen tévesen használja "igen piros" értelemmel, "bársun" helyett). Ez fejti meg másrészt Béla személynevünket is, amelynek egykori értelme tehát: igen szőke sőt talán albino is volt, valamint ez magyarázata a régi magyar `béla-gyöngy` szónak is. De innen származik a szőkeségnek francia-német `blond` neve is, de amely szó ezenkívül a `bleu-blau` (blö-blaú) = szóval is összefügg, azért mert a szőkék szeme kék; viszont a `blanc`, `blanche` (blank, blans) = fehér szó sem más mint a béla, beluga szavak magánhangzókihagyásos mása.  { #1wx6ob}
+
 
 
 #### A Czuczor-Fogarasi szótár adata:
@@ -46,13 +47,13 @@ Az alábbiak egy internetes oldalról szintén erre vonatkozó információt adn
 
 > Richard Hinckley Allen in Star Names and their Lore says the Latins adopted their Canis from the Greeks, sometimes Canicula in the diminutive with the adjectival candens, shining.  
 > Varro referring to Sirius, says signum candens, 'scorching sign' properly 'white-hot'.  
-> Isidore sees a link with Latin canis, dog, and Latin candere, shining bright:  
+> Isidore sees a link with Latin `canis`, dog, and Latin `candere`, shining bright:  
 > "The Dog Star (canicula Stella), which is also called Sirius, is in the center of the sky during the summer months. When the Sun ascends to it, and it is in conjunction with the Sun, the Sun's heat is doubled, and bodies are affected by the heat and weakened. Hence also the 'dog days' are named from this star, when purgings are harmful. It is called the 'Dog' (canis) Star because it afflicts the body with illness, or because of the brightness (candor) of its flame, because it is of a kind that seems to shine more brightly than the others. It is said they named Sirius so that people might recognize the constellation better."  
 > —  
 > Richard Hinckley Allen a Star Names and their Lore című könyvében azt írja, hogy a latinok a görögöktől vették át a Canis-t, néha a Canicula kicsinyítőképzőt a `candens`, ragyogó melléknévvel.  
 > Varro (283. o.) a Szíriuszra utalva azt mondja, hogy signum candens, 'perzselő jel', helyesen 'fehéren izzó'.  
 > **Isidor kapcsolatot lát a latin `canis`, kutya, és a latin `candere`, fényesen ragyogó** szóval:  
-> "A kutyacsillag (canicula Stella), amelyet Szíriusznak is neveznek, a nyári hónapokban az égbolt közepén áll. Amikor a Nap felemelkedik hozzá, és a Nappal együtt áll, a Nap hője megkétszereződik, és a testeket a hő hatására meggyengülnek. Ezért is nevezik erről a csillagról a "kutyanapokat", amikor a tisztulások károsak. 'Kutya' (`canis`) csillagnak nevezik, mert betegséggel sújtja a testet, vagy lángjának fényessége (`candor`) miatt, mert olyan fajta, amely látszólag fényesebben ragyog, mint a többi. Állítólag azért nevezték el Szíriusznak, hogy az emberek jobban felismerjék a csillagképet." \[Sevillai Izidor etimológiái, Kr. u. 7. század, 105. o.]  
+> "A Kutyacsillag (canicula Stella), amelyet Szíriusznak is neveznek, a nyári hónapokban az égbolt közepén áll. Amikor a Nap felemelkedik hozzá, és a Nappal együtt áll, a Nap hője megkétszereződik, és a testek a hő hatására meggyengülnek. Ezért is nevezik erről a csillagról a "kutyanapokat", amikor a tisztulások károsak. 'Kutya' (`canis`) csillagnak nevezik, mert betegséggel sújtja a testet, vagy lángjának fényessége (`candor`) miatt, mert olyan fajta, amely látszólag fényesebben ragyog, mint a többi. Állítólag azért nevezték el Szíriusznak, hogy az emberek jobban felismerjék a csillagképet." \[Sevillai Izidor etimológiái, Kr. u. 7. század, 105. o.]  
 
 
 </div></div>
