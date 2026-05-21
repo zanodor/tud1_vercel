@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2026-04-17T22:43"}
+{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2026-05-21T05:02"}
 ---
 
 
@@ -66,7 +66,7 @@ Az angolszász nyelvben törzsfő, herceg jelentéssel megadott [[M/Magoræswa\|
 > I understand `áśva` and `asb` mean horse in the East but it is not the original meaning: Huns and Magyars were forever atop their horses because the Horse was a symbol of the Milky Way which was also called the Ashen Path: [[A/Ash\|ash]]. [[A/Ász\|Ász]] meant Light, Ancestor, God in the old language (in Germanic mythology as well).  
 > —  
 > Értem, hogy `áśva` és `asb` lovat jelent keleten, de nem ez az eredeti jelentés: a hunok és a magyarok örökké a lovaikon ültek, mert a ló a Tejút szimbóluma volt, amit Hamuútnak is neveztek: (angol) [[A/Ash\|ash]]. Az [[A/Ász\|Ász]] a régi nyelvben (a germán mitológiában is) Fényt, Őst, Istent .
-{ #6lp4e}
+{ #d3vuo2}
 
 
 Az óind `asva` szóval egyező az arab `aswa`[^2] = fallosz, mely már [[N/Nimrud\|Nimrud]]ra utalhat.  
