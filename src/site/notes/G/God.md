@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/God/","title":"God","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2026-03-23T23:27","updated":"2026-04-03T20:15"}
+{"dg-publish":true,"permalink":"/G/God/","title":"God","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2026-03-23T23:27","updated":"2026-05-21T04:54"}
 ---
 
 
@@ -126,7 +126,7 @@ Nem volt tervben, hogy a germán istent jelentő szót közvetlenül vagy közve
 #### Magyar Adorján Ősműveltség...  
 
 ...című könyvében is lám, felkapta a témát és érvelése, mint oly sokszor, elfogadható:  
-> Ellenben ![God_image20260325003429938.jpeg\|fix_dark fix_light right\|200](/img/user/G/assets/God_image20260325003429938.jpeg)meg kell itt említenem a magyar `guta` szót, amely szintén a kún szócsoportba illik, habár benne ma a k hang helyett már lágyult g hang van. Miután azonban ma is azt mondjuk, hogy „megütötte a guta” és „gutaütéses”, meg „guta ütött ember”-ről beszélünk, és miután az olaszban és a németben „il colpo” és „der Schlag” bár szó szerint csak annyi mint „az ütés”, de ugyane szavak nevezik meg a gutát is, ennélfogva úgy képzelem, hogy a Guta, azaz eredetileg bizonyára **Kuta tulajdonképpen a kalapácsos kovácsságot és a kalapácsot magát is megszemélyesítő istenség egyik kún neve volt**.  
+> Ellenben ![God_image20260325003429938.jpeg|fix_dark fix_light right|200](/img/user/G/assets/God_image20260325003429938.jpeg)meg kell itt említenem a magyar `guta` szót, amely szintén a kún szócsoportba illik, habár benne ma a k hang helyett már lágyult g hang van. Miután azonban ma is azt mondjuk, hogy „megütötte a guta” és „gutaütéses”, meg „guta ütött ember”-ről beszélünk, és miután az olaszban és a németben „il colpo” és „der Schlag” bár szó szerint csak annyi mint „az ütés”, de ugyane szavak nevezik meg a gutát is, ennélfogva úgy képzelem, hogy a Guta, azaz eredetileg bizonyára **Kuta tulajdonképpen a kalapácsos kovácsságot és a kalapácsot magát is megszemélyesítő istenség egyik kún neve volt**.  
 > Tény, hogy a guta, vagyis a kuta szó közvetlen rokona `kő` vagy régiesen kú szavunkkal, de rokon ugyanígy az [[U/Üt\|üt]] szavunkkal is, valamint összefüggésbe hozható az ékkel is, csakhogy ezúttal a fekete-kunok kegyetlen ékével és tehát az ütő kalapáccsal.
 { #qxpc6u}
 
@@ -494,7 +494,7 @@ Tomory Zsuzsa csak Kadisa, [[K/Kedd\|Kedd]]asszony (lásd [[A/Anna\|Anna]] és [
 Ipolyi Arnold Magyar mythologia című könyvében előjönnek germán szavak, mint például könyvének 546. oldalán egy Grimm által adatolt óéjszaki `godi` = pontifex, főpap, míg 514. oldalán, szintén egy óéjszaki Odin versben egy `hofgodar` = főpap jelentésű szó.  
 Rajki András gót etimológia szöveggyűjteményének adatai:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/G/Guda/#yt07l" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/G/Guda/#xks71i" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -527,7 +527,7 @@ https://orthodoxwiki.org/Sava_the_Goth
 ## Hindi isten
 
 A hindi nyelvben az isten fogalmát az [alábbi](https://en.m.wiktionary.org/wiki/Thesaurus:भगवान) oldal adata szerint több szó is kifejezheti, köztük a [[K/Khuda\|Khuda]] is (perzsa kölcsönszó; pl. a Slumdog Millionaire című filmben a muszlim lány használta).  
-![God_image20260324232910667.jpeg\|fix_dark fix_light\|840](/img/user/G/assets/God_image20260324232910667.jpeg)
+![God_image20260324232910667.jpeg|fix_dark fix_light|840](/img/user/G/assets/God_image20260324232910667.jpeg)
  
 ## Istenek és istennők listája
 
