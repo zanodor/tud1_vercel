@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2026-03-05T01:36"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2026-05-21T05:01"}
 ---
 
 
@@ -68,7 +68,8 @@ Megpróbálom egy gyors skiccel felvázolni, miről van szó, de ennél sokkal s
 [[E/Eire\|Eire]] címnél pedig szöveges háttéranyag is szerepel.  
 Az előhang nélküli és előhangos állatnevek kapcsán legutóbb [[U/UR#UR szóval képzett állatnevek\|UR szóval képzett állatnevek]] cím/alcímnél is szóltunk, továbbá lásd még [[T/Teremtő és teremtett#Napistennevek kialakulása más magyar dialektusokban\|napistennevek kialakulása más magyar dialektusokban]] cím/alcímnél írottakat.  
 
-![assets/A_image1.png|fix_dark fix_light|840](/img/user/A/assets/A_image1.png)  { #d2n56}
+![assets/A_image1.png|fix_dark fix_light|840](/img/user/A/assets/A_image1.png)  { #5yextp}
+
 
 
 
@@ -97,7 +98,7 @@ Fentebb leginkább a nevek végére járuló 'a' hangról volt szó.
 
 Más esetben szintén:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A/Apolló/#m0lho" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A/Apolló/#5pwhk3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
