@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cső/","title":"Cső","created":"2024-04-23T19:11","updated":"2024-10-25T16:34"}
+{"dg-publish":true,"permalink":"/C/Cső/","title":"Cső","created":"2024-04-23T19:11","updated":"2026-05-21T05:08"}
 ---
 
 
@@ -18,7 +18,7 @@
 
 ...című könyvében írja csésze és kancsó szóba kerülte után ([[C/Cane\|cane]] címnél is szerepelt):  
 > Hozzá kell tennem ezekhez, hogy habár a cs hang nem tartozik a kún szócsoport hangjai közé, de népünk ugyane szót kanta- és kanna-nak is ejti. Hogy pedig a kancsó szóban a -csó szótag kétségtelenül cső értelmű is volt, és tehát a hímtagot is jelentette, ezt bizonyítja azon tény, hogy az olasz nyelvben ma is `canna` (kanna) = cső és nád, holott a magyarban `kan` = hím.
-{ #jrvfd}
+{ #9q865e}
 
 
 #### L. Kecskés András Gyászmagyarok vagy napfiak?...
