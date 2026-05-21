@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kenyér/","title":"Kenyér","tags":["Englishtexttranslated"],"created":"2024-11-04T16:25","updated":"2026-03-05T01:36"}
+{"dg-publish":true,"permalink":"/K/Kenyér/","title":"Kenyér","tags":["Englishtexttranslated"],"created":"2024-11-04T16:25","updated":"2026-05-21T05:01"}
 ---
 
 
@@ -22,7 +22,7 @@ Jankovics Marcell Mély a múltnak kútja című könyvében is írja, hogy a ke
 ...című könyvében írja:  
 > Szent napszimbólum ([[N/Napjelkép\|Napjelkép]]) volt régen minden kenyér. Elég, ha csak a kenyérrel kapcsolatos, mára kiveszőben lévő előírásokra és tilalmakra gondolunk; arra, hogy késsel keresztet rajzoltak rá megszegése előtt, vagy hogy halálos bűn volt rálépni, vagy egyszerűen arra, hogy kerekre formálták. Középen lyukas volt az ószövetségi zsidók kerek lepénykenyere – mint a Nap jele, a pontos kör –, mert botra fűzve szállították. Ezért írja a Szentírás az éhezőkről, hogy "eltört kenyerük botja" (Lev 26,26; Ez4,16; Zsolt 105,16). (Vö. [[K/Kalács\|kalács]], blg. `kolács`, "középen lyukas, kerek kenyér"; az ősszláv alapszó: `kolaéü` "kerék alakú, kerek tárgy" jelentésű.) Az evangéliumokban a kenyér és a [[B/Búza\|búza]] Jézus csodáinak és példázatainak egyik legsűrűbben előforduló eszköze és tárgya. ("Az aratni való sok.,.": Mt 9,37; kalásztépés és gyógyítás szombaton: 12,1; a magvető példázata: 13,18skk; "őrizkedjetek a farizeusok és a szadduceusok kovászától": 16,6; a szérű megtisztításáról: Lk 3,17.)  
 > Különösen napistenhez illő a kenyér szaporítás csodája. Ki mástól függne kenyerünk szaporasága: az élet, ahogy a magyar ember régen a kenyérgabonát nevezte? (Dionüszoszt mint Plutoszt, azaz a "Bőség"-et is ábrázolták teli kenyereskosárral.) A Megváltó által megszaporított kenyér és hal s e kettő megjelenése az utolsó látomásban a világra szóló fordulatot hangsúlyozza; a Nap (kenyér) tavasszal a Halak csillagképbe (hal) lép mostantól fogva (Mt 14; Jn21,9). Keresztény legendák kedvelt motívuma a szent remetéket (Benedeket, Pált) kenyérrel tápláló holló csodája (a [[H/Holló\|holló]] napmadár). A képet Illés próféta történetéből kölcsönözték. Illést az elbeszélő több napisteni tulajdonsággal felruházta; barlangban lakik, szárazságot, esőt tud csinálni, lehívja az Úr tüzét az égből, halottat támaszt fel, egy özvegy kenyerét és olaját megszaporítja, tüzes szekéren az égbe megy (lKir 17-18).
-{ #4645w}
+{ #2ql11h}
 
 
 #### Pálfi Károly A magyar nemzet ősvallása...
