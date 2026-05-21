@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sötét oldal/","title":"Sötét oldal","tags":["titleandheadingonedontmatch","containstransclusions"],"created":"2023-12-04T08:23","updated":"2025-08-27T02:48"}
+{"dg-publish":true,"permalink":"/S/Sötét oldal/","title":"Sötét oldal","tags":["titleandheadingonedontmatch","containstransclusions"],"created":"2023-12-04T08:23","updated":"2026-05-21T05:04"}
 ---
 
 
@@ -41,7 +41,7 @@ A latin `fasces`, `fascinum` és **Fascinus**, valamint a kiinduló magyar hímt
 De nevezzük nevén a gyereket. Nemcsak a férfi a hibás, nemcsak ő lehet bűnöző. [[K/Kapitalizmus\|Kapitalizmus]] címnél jól kibontottuk. Az ott körüljárt marha kapcsán sok érdekes téma került elő. A cserekereskedelem, hogy ki válhat kapitalistává (csak bűnöző, aki odaadja először a lelkét a [[S/Sátán\|Sátán]]nak). A sátán a [[S/Sárkány\|sárkány]] negatív aspektusával is megfeleltethető, ahol a [[S/Sár\|sár]] jelenti a materiális javakat, a materializmust. A sárkány/sátán, más nevén az [[O/Ördög\|ördög]] ([[S/Sátán\|Sátán]] vagy [[S/Sárkány\|sárkány]]) valójában bennünk van, ahogy Isten is. (Lásd [[S/Sátán#Sátán bennünk\|sátán bennünk]] cím/alcímet is.) Ha engedünk a kísértésnek, akkor (spirituálisan magunk és materiálisan) mások kárát keressük. Tehát végül is jól értelmezi Facsar Imre is, amikor azt mondja, hogy [[J/Jézus\|Jézus]] fő műve, a megbocsátás tanítása mellett az volt, hogy szembeszáll a zsarnoksággal (ezt kellene tanítani): kiveri a [[K/Kufár\|kufár]]okat/bankárokat a templomból. Ezt úgy is értelmezhetjük, hogy a testünk templomából kell kiverni az ördögöt. Hiszen már [[C/Carl Jung\|Carl Jung]] is megírta, hogy az embernek van **sötét oldal**a is. Ez a sötét oldal hatalmasodott el a [[K/Kali Yuga\|Kali Yugá]]ban, a Halak korszakban, melynek Napistene/avatárja a jász-filiszteus [[J/Jézus\|Jézus]], aki a vénuszi szeretetvallást, a fénykeresztény eszméket tanította.  
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/T/Turul/#w4xu6" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/T/Turul/#vmok1r" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -53,7 +53,7 @@ De ha már Szíriuszról van szó, vegyük észre, hogy a perzsa [[T/Tír\|Tír]
 </div></div>
 
 
- 
+
 
 Az egymást váltogató világosról és sötétről írt [[W/Weöres Sándor De Profundis verse\|Weöres Sándor De Profundis versé]]ben. Az arab-perzsában [[A/Ablak#^2cvx7o\|ablak]] = fekete-fehér.  
 Lásd még [[J/Jin és jang\|jin és jang]], továbbá [[O/Ozirisz és Széth\|Ozirisz és Széth]].  
