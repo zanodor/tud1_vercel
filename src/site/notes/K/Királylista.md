@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Királylista/","title":"Királylista","tags":["Englishtexttranslated"],"created":"2023-11-12T04:45","updated":"2025-03-24T18:06"}
+{"dg-publish":true,"permalink":"/K/Királylista/","title":"Királylista","tags":["Englishtexttranslated"],"created":"2023-11-12T04:45","updated":"2026-05-21T05:01"}
 ---
 
 
@@ -30,7 +30,7 @@ Mivel [[S/Sitchin, Zecharia\|Sitchin]] is számol ezzel a 432000 vagy 450000 év
 > Simplicius (Kr. u. hatodik század) elmondja, hogy mindig is azt hallotta, hogy az egyiptomiak hatszázharmincezer éven át vezettek csillagászati megfigyeléseket és feljegyzéseket.  
 > Diogenész Laertiosz az egyiptomiak csillagászati számításait a Nagy Sándor előtti 48 863 évre vitte vissza.  
 > Martianus Copella ugyanezt azzal támasztja alá, hogy az utókor azt állítja, hogy az egyiptomiak \[magyarok, inkább\] több mint negyvenezer éven át titokban tanulmányozták a csillagászatot, mielőtt tudásukat átadták volna a .
-{ #xg2vd}
+{ #bf1i6q}
 
 
 Az [alábbi](https://youtu.be/OoCmcHmcs1o) Anunnakik az ősforrásokban 1. rész című ÁKA előadásban Kubínyi Tamás 1:28:15-nél szól a királylisták hosszúságának, és Sitchin állításának képtelenségéről. Annyit tesz, hogy megmagyarázza, hogy a [[S/SAR\|SAR]] 3600 és teljes év értelmű is. A számokat 3600-zal osztással zárja rövidre (a példája eléggé önkényes).  
