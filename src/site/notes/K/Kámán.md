@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kámán/","title":"Kámán","created":"2024-05-14T01:35","updated":"2025-04-27T09:58"}
+{"dg-publish":true,"permalink":"/K/Kámán/","title":"Kámán","created":"2024-05-14T01:35","updated":"2026-05-21T05:05"}
 ---
 
 
@@ -8,19 +8,19 @@
 #### Fáy Elek A magyarok őshona...  
 
 ...című könyvének 95-98. oldalairól származó [[K/KUN\|KUN]] és [[H/Hunor és Magor#^bcpp8a\|Hunor és Magor]] címnél is szereplő soraival vezessük elő:  
-> Ugyanakkor semmi sem gátol abban, hogy Khun istenben pedig a kunok vagy hunok azon istenére ismerjek, akit a kunok – Plankarpin szerzetes tanusága szerint – [[K/Khám\|Khám]] név alatt, még a XIII. században is tiszteltek és pedig annyival inkább, mert [[H/Herkules\|Herkulesz]] isten – a Makar és Khun neveken kívül – a még hasonlóbb Khom valamint Szem nevek alatt is tiszteltetett. Minthogy pedig a Makar vagy Magor és a Khun nevek csak ugyanazon istenségnek két minőségét vagyis megnyilatkozását személyesítik meg, ennélfogva a két iker istenségben felismerhető a magyarok és hunok két ikertestvér őse: [[H/Hunor és Magor\|Hunor és Magor]] is. Hogy pedig a két nemzetnév valóban a két ikeristennel és illetőleg az őket megérzékitő [[O/Oszlop\|oszlop]]okkal – az Amunnal és Khamannal – is összefügg, azt a kumánok Amánusz (Khaman) hegyvidéki őshazájának Khamanéne nevén kívül az a khaman nép neve is bizonyítja, melyet Szargon asszir király Miliddu vidékén lakóként említ s amelyet nevénél fogva, Hommel is összeköt a kumánokkal. Azt pedig, hogy ezen kaman nép még a középkorban is élt, az ázsiai népek között, Paszchalisz szerzetes – a tatárországi Armalech városból 1338-ban írt – levelének következő szavai teszik bizonyossá, hogy: "addidici linguam Chamanicam" (megtanultam a khammán nyelvet).  
+> Ugyanakkor semmi sem gátol abban, hogy Khun istenben pedig a kunok vagy hunok azon istenére ismerjek, akit a kunok – Plankarpin szerzetes tanusága szerint – [[K/Khám\|Khám]] név alatt, még a XIII. században is tiszteltek és pedig annyival inkább, mert [[H/Héraklész\|Herkulesz]] isten – a Makar és Khun neveken kívül – a még hasonlóbb Khom valamint Szem nevek alatt is tiszteltetett. Minthogy pedig a Makar vagy Magor és a Khun nevek csak ugyanazon istenségnek két minőségét vagyis megnyilatkozását személyesítik meg, ennélfogva a két iker istenségben felismerhető a magyarok és hunok két ikertestvér őse: [[H/Hunor és Magor\|Hunor és Magor]] is. Hogy pedig a két nemzetnév valóban a két ikeristennel és illetőleg az őket megérzékitő [[O/Oszlop\|oszlop]]okkal – az Amunnal és Khamannal – is összefügg, azt a kumánok Amánusz (Khaman) hegyvidéki őshazájának Khamanéne nevén kívül az a khaman nép neve is bizonyítja, melyet Szargon asszir király Miliddu vidékén lakóként említ s amelyet nevénél fogva, Hommel is összeköt a kumánokkal. Azt pedig, hogy ezen kaman nép még a középkorban is élt, az ázsiai népek között, Paszchalisz szerzetes – a tatárországi Armalech városból 1338-ban írt – levelének következő szavai teszik bizonyossá, hogy: "addidici linguam Chamanicam" (megtanultam a khammán nyelvet).  
 
 #### Magyar Adorján...
 
 ...egy hasonló nevet említ:  
 > Tudjuk azt is, hogy I. Tiglát-Palaszár asszír király is hadakozott egy kumán, kamán nevű néppel, lerombolva azok legerősebb városát Hunusát is. (Hommel Fritz dr.: "Geschichte Babiloniens und Assiriens". Berlin, 1885.529. oldal.)  
-- Teljesebb passzust lásd [[K/Kánaán#^8ogk9\|Kánaán]] címnél.
+- Teljesebb passzust lásd [[K/Kánaán#^l0vdfo\|Kánaán]] címnél.
 
 #### Badiny Jós Ferenc Jézus király...
 
 ...című könyvének 69. és 147. oldalán "Éjszakai Napnak" hívja forrásai alapján Szaturnuszt (utóbbi oldalon írja):  
 > Az asztronómiai ékiratokon "Mul-Sag-Us" ékjelekkel van írva, amit a sémi nyelven `kakkabu kaimanu` néven ismernek és így ment át az összes sémita nyelvbe. A káld-sumír mitológiában igen hatalmas erőt tulajdonítottak a Földre jövő sugárzásának és "éjszakai nap" volt egyik neve, de amikor a [[H/Halak csillagkép\|Halak csillagkép]]ében volt, akkor "Mul-Ug-Ga" nevet kapott, melynek jelentése a "halál csillaga".
-{ #7maed}
+{ #yr4g5w}
 
 
 #### Pálfi Károly A magyar nemzet őstörténete és a zsidóság...
@@ -41,7 +41,7 @@ Voigt Vilmos A magyar szentháromságtan és a huszitizmus című cikkében ír 
 
 
 
-Ahogy [[L/Love\|love]] címnél is említettük, a Kámán név azonos a perzsa `kamān` = íj szóval. Ezzel beazonosítottuk nyári napfordulós, [[S/Széth\|Széth]]nek megfelelő helyét illetve alakját. 
+Ahogy [[L/Love\|love]] címnél is említettük, a Kámán név azonos a perzsa `kamān` = íj szóval. Ezzel beazonosítottuk nyári napfordulós, [[S/Széth\|Széth]]nek megfelelő helyét illetve alakját.
 
 A [[C/Comanche\|comanche]] címnél látott ute nyelvű `kimánci` = idegen, ellenség szó azonos szóvázú a perzsa szóval, de [[H/Human\|human]] is ilyen alakú.
 
