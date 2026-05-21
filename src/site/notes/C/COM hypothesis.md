@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/COM hypothesis/","title":"COM hypothesis","created":"2024-04-22T12:50","updated":"2026-03-05T01:53"}
+{"dg-publish":true,"permalink":"/C/COM hypothesis/","title":"COM hypothesis","created":"2024-04-22T12:50","updated":"2026-05-21T05:08"}
 ---
 
 
@@ -15,4 +15,4 @@ A COM hipotézis szerint a négy nagy bolygó, a Jupiter, Szaturnusz, Uránusz �
 
 ...passzusa, mely lényegében erről is szól:  
 > Tény, hogy a bolygók a Nap körül keringve változtatják a Naprendszer tömegközéppontjának a helyét. Bár a bolygók össztömege a Napénak csak mintegy ezreléke, **nagy távolságuk miatt** képesek a Naprendszer középpontját időnként a Napfelszínén kívülre helyezni. Mivel a Naprendszer minden égiteste a tömegközéppont körül kering, ezért a Nap a bolygók helyzetétől függően más és más pont körül kering, s ez az áramlási rendszer változását eredményezheti. A kérdés az, hogyan teszi ezt.
-{ #z2h6a}
+{ #2tenb8}
