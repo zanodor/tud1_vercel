@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarama/","title":"Sarama","tags":["Englishtexttranslated"],"created":"2023-11-17T05:34","updated":"2026-03-23T23:30"}
+{"dg-publish":true,"permalink":"/S/Sarama/","title":"Sarama","tags":["Englishtexttranslated"],"created":"2023-11-17T05:34","updated":"2026-05-21T04:57"}
 ---
 
 
@@ -35,7 +35,8 @@ Ott ([[D/Drumó\|drumó]] és [[D/Dream\|dream]] címnél) a tél időszaka is e
 ...című könyvében másutt Śabala és Śyåma a nevük:  
 > Indo-European dogs of the dead generally moved around in pairs, however: when they were not twin brothers, they could be represented as two dogs in one, as in the well-known case of Cerberus. Most often, **one of these dogs was black and the other white**, symbols of a path that led not only from a past life to a present death, but also from death to a future life. Among such canine twins may be counted the Indian Syâma and Sabala, the Germanic Gifr and Geri (or Frekr), the Armenian Spitak and Siaw, the two "devil dogs" of Celtic mythology, and an Iranian pair that is perhaps identified with Sraosa and Rasnu. The grey-red canine psychopomp of Welsh mythology may also be an instance of such pairing.  
 > —  
-> Az indoeurópai holtak kutyái azonban általában párban mozogtak: ha nem voltak ikertestvérek, akkor két kutyaként is ábrázolhatták őket, mint a jól ismert [[C/Cerberus\|Kerberosz]] esetében. Leggyakrabban **az egyik kutya fekete, a másik fehér volt**, egy olyan út szimbólumaként, amely nemcsak a múltbeli életből a jelenbeli halálba, hanem a halálból a jövőbeli életbe is vezetett. Az ilyen kutyakettősök közé sorolható az indiai Syâma és Sabala, a germán Gifr és Geri (vagy Frekr), az örmény Spitak és Siaw, a kelta mitológia két "ördögi kutyája", valamint egy iráni pár, amelyet talán Sraosával és Rasnuval azonosítanak. A walesi mitológia szürkésvörös kutya-[[P/Psychopomp\|pszükhopomposz]]a szintén ilyen párosítás lehet.  { #itxfzr}
+> Az indoeurópai holtak kutyái azonban általában párban mozogtak: ha nem voltak ikertestvérek, akkor két kutyaként is ábrázolhatták őket, mint a jól ismert [[C/Cerberus\|Kerberosz]] esetében. Leggyakrabban **az egyik kutya fekete, a másik fehér volt**, egy olyan út szimbólumaként, amely nemcsak a múltbeli életből a jelenbeli halálba, hanem a halálból a jövőbeli életbe is vezetett. Az ilyen kutyakettősök közé sorolható az indiai Syâma és Sabala, a germán Gifr és Geri (vagy Frekr), az örmény Spitak és Siaw, a kelta mitológia két "ördögi kutyája", valamint egy iráni pár, amelyet talán Sraosával és Rasnuval azonosítanak. A walesi mitológia szürkésvörös kutya-[[P/Psychopomp\|pszükhopomposz]]a szintén ilyen párosítás lehet.  { #itxfzr}
+
 
 - Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvében `shabalau` = pöttyös, [[T/Tarka\|tarka]]. Mely akár képviselhetné bármelyik oldalt is.
 
@@ -74,7 +75,7 @@ David Gordon White Dogs Die c. könyvének kivonatában szól a négyszemű kuty
 > Two terrible dogs, descendants of the primordial dog Saramā, guard the entrance to the kingdom of the dead where Yama rules. The way there is difficult and dangerous. It passes over a narrow bridge which the Iranians call the Činvant – 'selected way': good deeds will help the righteous to cross, bad deeds will push the unjust into the abyss of an underground ocean where, as the Indians thought, lived 'underwater fire', a monster with a horse skull and open mouth instead of a head and the serpent of the depths, Áhir budhnyàs.  
 > —  
 > Két szörnyű kutya, az őskutya, Saramā leszármazottai, őrzik a holtak birodalmának bejáratát, ahol Yama uralkodik. Az oda vezető út nehéz és veszélyes. Egy keskeny hídon vezet át, amelyet az irániak Činvant – "kiválasztott útnak" neveznek: a jó cselekedetek segítik az igazakat átkelni, a rossz cselekedetek az igazságtalanokat egy földalatti óceán mélységébe taszítják, ahol – az indiaiak szerint – "víz alatti tűz", egy lókoponyás, fej helyett nyitott szájú szörnyeteg és a mélység kígyója, Áhir  él.
-{ #g3ajr}
+{ #gose7j}
 
 
 A híd, mint felső és alsó világot összekötő kapocs másutt mindig a [[V/Világfa\|világfá]]t jelenti. Jankovics Marcell A fa mitológiája című könyvében is írja, hogy az élet fája egyben a halál fája is[^6].  
@@ -197,7 +198,7 @@ Lásd még arról alant, hogy a Sarama ősszuka funkcióval látszik egyezni az 
 > The Hindus, who also shared this motif, called it Cvan, "dog," or more prosaically, Maha Kamuka, the "great lover." Also found in Vedic literature, was the bitch Sarama who kept the flock of Indra of seven bulls and fifty cows.  
 > —  
 > A hinduk, akik szintén osztoztak ebben a motívumban, [[S/Śvan\|cvan]]-nak, "kutyának", vagy prózaibb módon Maha Kamukának, a "nagy szerelmesnek" nevezték. Szintén megtalálható a védikus irodalomban a szuka Sarama, aki Indra hét bikából és ötven tehénből álló nyáját tartotta.
-{ #9p0ix}
+{ #5pds8n}
 
 - [[K/Kutyanemzés\|Kutyanemzés]] címhez is bekerült.
 
