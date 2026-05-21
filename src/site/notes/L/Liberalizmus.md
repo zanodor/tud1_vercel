@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Liberalizmus/","title":"Liberalizmus","tags":["Englishtexttranslated"],"created":"2023-12-21T10:10:00","updated":"2026-03-25T02:21"}
+{"dg-publish":true,"permalink":"/L/Liberalizmus/","title":"Liberalizmus","tags":["Englishtexttranslated"],"created":"2023-12-21T10:10:00","updated":"2026-05-22T00:20"}
 ---
 
 
