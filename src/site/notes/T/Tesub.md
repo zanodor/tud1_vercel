@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tesub/","title":"Tesub","tags":["Englishtexttranslated"],"created":"2023-10-07T10:07","updated":"2026-03-05T01:47"}
+{"dg-publish":true,"permalink":"/T/Tesub/","title":"Tesub","tags":["Englishtexttranslated"],"created":"2023-10-07T10:07","updated":"2026-05-21T05:06"}
 ---
 
 
@@ -18,7 +18,7 @@ A Wiki adatsora:
 > —  
 > Teshub (más írásmóddal Teshup vagy Tešup; ékírásos dIM; hieroglifikus luwiai (DEUS) TONITRUS, Tarhunzas) az ég és a vihar hurri istene volt. Taru egy hasonló hattikus viharisten neve volt, akinek mitológiája és elsődleges istenségként való imádata a leszármazott luwiai és hettita kultúrákban folytatódott és fejlődött tovább. E kettőben Taru Tarhun/Tarhunt-/ Tarhuwant-/Tarhunta néven volt ismert, a nevek az anatóliai \*tarh "legyőzni, meghódítani" gyökből származnak.
 > Taru/Tarhun/Tarhunt végül beolvadt a hurri Teshubba, és azonosították azt a hettita Új Királyság uralkodója, Muwatalli II. vallási reformjai idején, az i. e. 13. század elején. Ezek a reformok általánosságban a hurri istenségeknek a hettita panteonba való hivatalos beillesztéseként kategorizálhatók, kisebb számú fontos hurri istenséget (mint például Teshub) pedig kifejezetten azonosítottak a már létező fő hettita istenségekkel (mint például Taru). Teshub újra felbukkan a hurri kultúra utáni utódkirályságban, Urartuban, mint Tesheba, az egyik főistenük; az urartui művészetben egy bikán állva .
-{ #y82m7}
+{ #41dcfm}
 
 
 ![assets/Tesub_image1.png](/img/user/T/assets/Tesub_image1.png)  
