@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Folyóistennő/","title":"Folyóistennő","created":"2023-11-13T06:15","updated":"2024-10-25T18:51"}
+{"dg-publish":true,"permalink":"/F/Folyóistennő/","title":"Folyóistennő","created":"2023-11-13T06:15","updated":"2026-05-21T05:07"}
 ---
 
 
@@ -14,6 +14,6 @@ A kelta [[D/Danu\|Danu]] Patricia Monaghan-nél nem folyóistennőként kerül e
 
 Még mindig kelta/kimmér/brit vonalon érdekes Robert Graves The White Goddess című könyve, melyből [[F/Fehér istennő\|fehér istennő]] címnél szemezgetünk (illetve lásd Robert Graves adatait helyükön).  
 
-Molnár V. József Világ-Virág című könyvének 122. oldalán közöl képet régi mexikói indián folyóistennőről. A témát illetve a képet [[O/Orion övcsillagai#^8uwr5\|Orion övcsillagai]] címnél taglaltuk, három korong miatt.  
+Molnár V. József Világ-Virág című könyvének 122. oldalán közöl képet régi mexikói indián folyóistennőről. A témát illetve a képet [[O/Orion övcsillagai\|Orion övcsillagai]] címnél taglaltuk, három korong miatt.  
 
 Atilla nejének ([[R/Réka\|Réka]]) is tökéletes Folyóistennő neve van (de [[A/Atilla hun király\|Atilla]] neve is Ital-ként Tejút-név).  
