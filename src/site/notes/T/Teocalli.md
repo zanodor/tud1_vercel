@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Teocalli/","title":"Teocalli","tags":["Englishtexttranslated"],"created":"2025-05-01T10:28","updated":"2025-09-23T20:31"}
+{"dg-publish":true,"permalink":"/T/Teocalli/","title":"Teocalli","tags":["Englishtexttranslated"],"created":"2025-05-01T10:28","updated":"2026-05-21T05:06"}
 ---
 
 
@@ -23,7 +23,7 @@ ORIGIN: Nahuatl, from teotl god, and calli house
 > —  
 > Valójában számos összefüggés van az ókori mexikói nyelv és a Közel-Kelet nyelve, köztük a sumér között. Valójában a mexikói kultúrának szoros párhuzamai vannak a művészetben, a vallásban és a nyelvben is a sumérokkal.  
 > Sokkal több példa létezik az "Ó-" és az "Újvilág" szavak közötti megfelelésekre. Charles Berlitz például idézi a `teocalli` szót, amely azték/nahuatl nyelven "az istenek háza"-t jelent, és a `theou kalia` szót, amely görögül "Isten háza"-t jelent.
-{ #k1q9h}
+{ #nbetlk}
 
 
 #### Péterfai János írja:
