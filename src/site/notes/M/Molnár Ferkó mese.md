@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Molnár Ferkó mese/","title":"Molnár Ferkó mese","created":"2023-11-17T07:03","updated":"2025-03-13T03:40"}
+{"dg-publish":true,"permalink":"/M/Molnár Ferkó mese/","title":"Molnár Ferkó mese","created":"2023-11-17T07:03","updated":"2026-05-21T05:01"}
 ---
 
 
@@ -28,7 +28,7 @@ No, jött is Molnár Ferkó mindjárt, aranyos gúnyában, hatlovas hintón. Bez
 > A Molnár Ferkó című mesében a [[K/Kígyó\|kígyó]] édesanyja a [[S/Sárkány\|sárkány]], s a mesehős személyes útkeresése révén sikerül a Sárkány – Kígyó családnak[^1] újra egyesülnie, a világfát őrző kis[[E/Erdő\|erdő]]ben, a Világmindenség közepén, a sárkány [[M/Méh\|méh]]ében. A mesehős segítségével a világ rendje helyreáll. A Kígyó megtalálja édesanyját a Sárkányt és a mesehős Molnár Ferkó immár nélkülük, de az ő segítségükkel folytatja útját.  
 > Múltbéli esemény maga a kiskígyó története, mint invokáció. A Sárkány udvarán játszott kis gyermeke a kígyócska. Őt felkapta a Sas, elrepült vele és beledobta a tengerbe. Nem is akármilyen tengerbe, hanem a Világtengerbe. Ez a Világtenger a csillagos égen a Tejút, ahonnan valamennyien származunk. A Tejútnak ez a pontja, a Nyilas csillagkép, népünk téridejének eredő állomása. A Nyilaskép öreg királya a molnár, kinek malma a Tér és Idő ügyét járatja. Az Ő portája határos a Tengerrel, a Tejúttal, hiszen itt érinti a királyi porta a Tenger partját. Az öreg király Molnárának fia hivatott arra, hogy helyrehozza a Világmindenségben félrebillent egyensúlyt. Ő a kígyóemelő \[Ophiuchus\], aki oly szeretettel emeli fel kebléhez a kiskígyót és neveli naggyá, hogy hatalmas kígyóvá nevelve annak hátán érkezzen meg a Földkerekség és a lélek középpontjába a Sárkány kis erdejébe.  
 > Ez az epizód elénk tárja a Világmindenség és a molnárferkóság közös ügyét. A mindenkori Molnár Ferkót megjelenítő magyarság közös ügye a Világmindenség ügye. A mi vállunkra helyezte Isten a kígyók, sárkányok, az Idő, a Tér, a boldogság, tehát a világ helyes mederben tartásának feladatát, egyensúlyban tartását, a rend felügyeletét. Ahol a rend valahol félrebillen, nekünk kell helyretenni azt, mert Isten munkájának részesei vagyunk.  
-- Az elemzésének itt hiányzó részét lásd [[H/Hamlet malma#^rk1dc\|Hamlet malma]].
+- Az elemzésének itt hiányzó részét lásd [[H/Hamlet malma#^c7q10g\|Hamlet malma]].
 
 Az először megvett macska és kutya Gyárfás Ágnesnél a keleti állatövben értelmezett és a mi Szűz-ünknek és Kos-unknak felel meg. Én azért sejtek itt valami mást, mert a macska Szűz-jelentőségét a hím Ferkónál nem látom. Persze az alternatív gondolat most nem tud megszületni. Valószínűleg Gyárfás Ágnes jól olvassa. Az elemzésének ezen részét lásd képpel [[K/Kutya és macska\|kutya és macska]]. Ide csak annyit, hogy Ferkó élet-halál tengelye az Oroszlán-Szűz-Mérleg és szemben a Bika-Kos-Halak tengely nyolcasában zajlik. Sorsának ez a fekvő nyolcasa válik létének talpkövévé. Itt történnek a küzdelmei, s földi javaihoz is itt jut hozzá. A nyolcas középpontjában a Sárkány /Draco/ csillagkép kis erdejében megkapta a gyűrűt, és ettől kezdve három óriás engedelmeskedik neki. \[A [[G/Gyűrű\|gyűrű]]ről adott információkat lásd oda áttéve.\]  
 
