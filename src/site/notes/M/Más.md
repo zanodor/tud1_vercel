@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Más/","title":"Más","tags":["Englishtexttranslated","containscallouts"],"created":"2025-05-29T22:51","updated":"2026-05-21T04:59"}
+{"dg-publish":true,"permalink":"/M/Más/","title":"Más","tags":["Englishtexttranslated","containscallouts"],"created":"2025-05-29T22:51","updated":"2026-05-22T00:19"}
 ---
 
 
@@ -155,13 +155,13 @@ Tulajdonképpen más az egyik állapotból a másikba mozgást fejezheti ki:
 
 
 [[M/Man#Man alternatív Mes (Mes-Ur/Masar/Magyar) eredete\|Man alternatív Mes (Mes-Ur/Masar/Magyar) eredete]] cím/alcímnél már volt szó a témáról.  
-Mi lenne, ha az indo-európai embert, férfit jelentő szó az [[I/Ikrek csillagkép\|Ikrek]] = Ember(ek) fogalmára irányulva jött volna létre, mint ahogy a magyarban Ember = An-Par, Égi Pár?  
-Ne feledjük, hogy az akár finnugor (finn `mies` és észt `mees` = férfi, ember) vagy sumér-akkád (sumér `MES` = hős, férfi, akkád `mas` = hős, iker) ihletésű vagy eredetű latin `mās` = férfi már eleve ilyen alakú (csak éppen nem embert jelent, viszont a [[H/Human\|human]] latin eredete kapcsán is kiderült, hogy embert jelentő szóelem korábban is megvolt, ráadásul olyan H-M, K-M vázzal, mely megint ívre, hajlásra, [[L/Lemniszkáta\|lemniszkátá]]ra, Ikrekre utaló lehet).  
+Mi lenne, ha az indo-európai embert, férfit jelentő szó az [[I/Ikrek csillagkép\|Ikrek]] = [[E/Ember#Ember szavunk Íjas (Íjász) értelme az Ikrek jegyére vonatkoztatva\|Ember]]ek fogalmára irányulva jött volna létre, mint ahogy a magyarban Ember = An-Par, Égi Pár?  
+Ne feledjük, hogy az akár finnugor (vö. finn `mies` és észt `mees` = férfi, ember) vagy sumér-akkád (sumér `MES` = hős, férfi, akkád `mas` = (ifjú) hős; iker) ihletésű vagy eredetű latin `mās` = férfi már eleve ilyen alakú (csak éppen nem embert jelent, viszont a [[H/Human\|human]] latin eredete kapcsán is kiderült, hogy embert jelentő szóelem korábban is megvolt, ráadásul olyan H-M, K-M vázzal, mely megint ívre, hajlásra, [[L/Lemniszkáta\|lemniszkátá]]ra, Ikrekre utaló lehet).  
 
-Ahhoz, hogy a más szó kialakulhasson, vagy most egyáltalán értelmezhetővé válhasson, használhatjuk a több helyen említett "rápróbálás" módszerét: ahogy a [[H/Human\|human]] végződése -An, úgy lehetett Más/Mas is előbb Masar (változata: Miser), mely (utóbbi) már a [[M/Mithra\|Mithra]] napnévre is egészen jól üt.  
-Aztán idővel elég lett volna idővel egy orrhangot betenni és a végződést levenni, hogy a manus/mans formát kapjuk.  
+Ahhoz, hogy a `más` szó kialakulhasson, vagy egyáltalán értelmezhetővé válhasson, használhatjuk a több helyen említett "rápróbálás" módszerét: ahogy a [[H/Human\|human]] végződése -An, úgy kereshető Más/Mas is egy Masar (változata: Miser) névben, mely (utóbbi) már a [[M/Magor\|Magor]] eredettel is vizsgált [[M/Mithra\|Mithra]] napnévre is egészen jól üt.  
+Aztán idővel elég lett volna idővel egy orrhangot betenni és – ha ott lett volna (általán a hosszú formák mitológiai nevekre mutatnak) – a végződést levenni, hogy a `manus`/`mans` formát kapjuk.  
 
-Igaz ugyan, hogy minket jelenleg nem az indo-európai embert jelentő szó kialakulása érdekel, mely eleve később zajlott le, de az idegen nyelvek és szavainak jelentései mindig ötletet adnak a fogalmak keveredése okainak tisztázása révén az eredeti szóalakok kialakulása módjaira.  
+Igaz ugyan, hogy minket jelenleg nem az indo-európai embert jelentő szó kialakulása érdekel, mely eleve később zajlott le, de az idegen nyelvek és szavainak jelentései mindig ötletet adnak a fogalmak keveredése okainak tisztázása révén az eredeti szóalakok kialakulása módjainak vizsgálatához.  
 Az is igaz egyben, hogy a magyar nyelv egyes szavainak kialakulási ideje sem azonos, mert több rétegből tevődik össze a modern magyar nyelv szókincse.  
 
 Segítségünkre vannak más nyelvcsaládok(ba sorolt) szavai:  
