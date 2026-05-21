@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra és a bika/","title":"Mithra és a bika","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T02:41","updated":"2026-05-04T18:06"}
+{"dg-publish":true,"permalink":"/M/Mithra és a bika/","title":"Mithra és a bika","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T02:41","updated":"2026-05-21T04:57"}
 ---
 
 
@@ -139,7 +139,8 @@ John M. Jenkins könyvének 115. oldalán írja ([[T/Tánc\|tánc]] és [[K/Kund
 > Amikor elkezdte tanulmányozni az egyiptomi szent táncot és az Íziszhez kapcsolódó rituálékat, hasonlóságot fedezett fel az indiai tantrikus gyakorlatokkal, amelyekben a gerinc alján lappangó kígyóerőt felébresztik, hogy felemelkedjen és kibontakozzon a kereső életében.  
 > Hasonlóképpen, Ízisz a világ gyökerénél lévő anyai erő, amely felébreszt és átalakít (ő támasztotta fel Oziriszt). Így Isis hasonló funkciót tölt be, mint [[K/Kundalini\|Kundalini]], a galaktikus gyökérnél lévő teremtő erő, amely az emberi mikrokozmoszban a muladhara csakraként nyilvánul meg.  
 > Másodszor, ha Isis valóban megfelel a Szíriusznak, akkor emlékeztethetünk arra, hogy a Szíriusz ugyanazt a meridiánt foglalja el, mint a Galaktikus Anticentrum - mindketten egyszerre haladnak át a déli meridiánon, bár a Szíriusz alacsonyabb magasságban van.  
-> Az elképzelésem itt spekulatív, bár csillagászatilag nagyon is igaz. További kutatások talán világosabban megmutatják, hogyan lehetett a Szíriusz a Tejútközpontból kiinduló galaktikus tengely jelölője.  { #o50g9i}
+> Az elképzelésem itt spekulatív, bár csillagászatilag nagyon is igaz. További kutatások talán világosabban megmutatják, hogyan lehetett a Szíriusz a Tejútközpontból kiinduló galaktikus tengely jelölője.  { #o50g9i}
+
 
 - Erre én is gondoltam, hogy mi van, ha csak marker, azaz jelzőcsillag Szíriusz és semmi egyéb, viszont mind a Szíriusz, mind a Pleiadok az ellentétes irányban vannak, sőt, [[A/Alcyone\|Alcyone]]-nál szereplő adatok ezeket össze is kötik.
 
@@ -156,7 +157,7 @@ Igaza lehet egyébként Jenkins-nek (vagy ezt így ki sem mondta?), hogy az Orio
 
 [[T/Tavaszpont\|Tavaszpont]] címnél is szerepelt, hogy ez a rejtegetés szándékos is lehet. Az alábbiakban John M. Jenkins arra látszik utalni, hogy a tavaszpont-őszpont viszonyítás is csak egy kifordított módja annak, hogy a galaktikus központtal való együttállást keressük (mintha ezzel az apró trükkel akarták volna titkosítani a fontosabb dolgokat, de lásd Jézus is Pészahkor támad fel, nem Hanukkah-kor):   
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/P/Poláris-szoláris átállás/#2wu4" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/P/Poláris-szoláris átállás/#ik176s" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
