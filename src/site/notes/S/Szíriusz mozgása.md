@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2026-03-05T01:27"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2026-05-21T04:56"}
 ---
 
 
@@ -44,7 +44,7 @@ Az alábbi adatok J. B. Holberg könyvéből valók:
 > —  
 > **A következő 60000 évben a Szíriusz és a Nap relatív mozgása miatt a távolságuk csökkenni fog**. Ez a mozgás szerény mértékű, és a Szíriusz látszólagos fényességében meglehetősen szerény változásokat fog eredményezni, de az éjszakai égbolton elfoglalt helyzetében igen drámai változásokat fog okozni. Jelenleg a Szíriusz ferde irányban, 8,6 km/s-os sebességgel közeledik a Naprendszerhez. Ha a Szíriusznak ezt a háromdimenziós mozgását a jövőre vetítjük, akkor a csillag körülbelül 67 000 év múlva közelíti meg legközelebb a Naprendszert. Ekkor a Szíriusz a jelenlegi 8,5 fényév távolságáról 7,6 fényévre közelíti meg a Napot. Ennek következtében fényessége a jelenlegi -1,41-ről körülbelül -1,6 magnitúdóra fog nőni.  
 > Ez csak szerény 25%-os növekedést jelent a látszólagos fényességben, és az emberi szem logaritmikus reakcióját tekintve nem fog drámai változást eredményezni a vizuális megjelenésében; de a Szíriusz túlfényesedik a Jupiteren, és a Vénusszal fog versenyezni, amikor az a bolygó a legfényesebb. A legközelebbi közeledés után a Szíriusz távolodni kezd a Naptól, és fényessége lassan csökkenni fog, majd 130 000 év múlva visszaesik a jelenlegi szintjére. Ha még messzebbre tekintünk a jövőben, a Szíriusz tovább halványul, és 300 000 év múlva már 0. magnitúdójú csillag lesz, mint a Vega. 3 millió év múlva már olyan viszonylagos homályba vész, mint a többi 5. magnitúdós csillag, amelyek ma kevés figyelmet vonzanak, ahogyan a hasonlóan távoli múltban is, amikor a Szíriusz észrevétlen maradt az ausztrál majomszerű őseink számára. A Szíriusz elhelyezkedése az égbolton még drámaiabban fog változni. Jelenleg háromezerévente egy fokkal délnyugat felé halad. Tízezer év múlva ez a mozgás a Föld precessziójával együtt a Szíriuszt a déli félteke égboltjának kizárólagos ékkövévé teszi, és többé nem lesz látható Európában vagy Észak-Amerikában. Ekkor Dél-Amerika, Ausztrália és Afrika egén lesz kiemelkedő.
-{ #qf9gy}
+{ #04i0xc}
 
 - Azt persze le kell szögezni, ezek olyan teoretikus számítások, melyek a Szíriusz-rendszerre vonatkoznak, nem a mi Naprendszerünkre, melyre nem tudunk számokat. Csak azért mert valami le van írva, még nem jelenti azt, hogy igaz.  
 
