@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hód/","title":"Hód","created":"2024-11-19T11:29","updated":"2026-03-25T02:21"}
+{"dg-publish":true,"permalink":"/H/Hód/","title":"Hód","created":"2024-11-19T11:29","updated":"2026-05-21T05:06"}
 ---
 
 
@@ -12,7 +12,7 @@ A hód neve a [[K/Kutya\|kutyá]]éval szinte azonos. Márpedig Iránban (lásd 
 
 ...című könyvében is szóba hozza:  
 > A hód (= castor Bieber, vizi állat neve is ide sorozható, már maga a Castor név istennév, Olearius persiai utazásában `hud` = pisces, signa coelestia, de `hud` persául még patakot is jelent, `hefthoud` Herbelotban = hét patak, arabul `haudh` vizfolyóhely, ellenben a chyngalesek nyelvében `haudha` = hód (luna), (fr. acad. szótár) Kassai ugyan a hód = (Földiben hoda) állatnak nevét a hótt-ból magyarázza = hólt, mert holt vizben lakik. ([Lásd 249. old.](zotero://open-pdf/library/items/DFI47XPY?page=249&annotation=U2RXVEM2))
-{ #f45wq}
+{ #bloen2}
 
 - [[U/Ügy\|Ügy]] szónak és a [[H/Hydro\|hydro]] és [[H/Híd\|híd]] címnél említett akkád `hid` = folyó azonosa a perzsa és arab.
 
