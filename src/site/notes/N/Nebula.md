@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nebula/","title":"Nebula","tags":["Englishtexttranslated"],"created":"2024-10-24T16:06","updated":"2024-10-24T16:06"}
+{"dg-publish":true,"permalink":"/N/Nebula/","title":"Nebula","tags":["Englishtexttranslated"],"created":"2024-10-24T16:06","updated":"2026-05-21T05:04"}
 ---
 
 
@@ -34,7 +34,7 @@ A (nyilván nem görög eredetű?!) egyiptomi `nf` = levegő szóban (honnan a k
 > A magyar nyelvben `Nap` = Nap, amit ott fent van a felhők között, és nappal (hiszitek vagy sem) látjuk.  
 > Csak azért hangsúlyozom a nappalra, mert a világoskék a nappalra, a sötétkék pedig az éjszakára utal (és mintha az oroszból is emlékeznék egy megkülönböztetésre, ami szintén a kétféle kékkel kapcsolatos, de az én logikám szerint az orosz `siniy`-nek (is) világoskéket kellene jelentenie, nem pedig sötétkéket).  
 > Továbbá a Nap hímnemű (általában és eredetileg is, mivel a Föld nőnemű), és ezért a magyar szónak joga van új, ég jelentésű szót adni, de nem menny (ami egy kicsit távolabb van, különösen az általam elképzelt emberek számára) jelentésűt.
-{ #tk036}
+{ #slci3c}
 
 - Lengyeleknek is tetsző válasz volt; talán mert azt a következtetést vonták le, hogy Nap szavunknak nincs köze a szláv szóhoz; holott sokkal régebbi mint az egyiptomi vagy hettita szó. Ugyan miért jelentene a lengyel `niebo` mennyet?
 
