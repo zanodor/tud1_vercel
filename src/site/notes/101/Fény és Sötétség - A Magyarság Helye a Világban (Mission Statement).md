@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-05-21T05:08"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-05-22T00:18"}
 ---
 
 
@@ -369,7 +369,7 @@ Nem tűnt fel (szinte) senkinek az sem, hogy ha a sumér és kínai szótagnyelv
 Az utódnyelvek műveltségi és mai tudományokban használt, sok esetben fennköltnek, zsargonisztikusnak hangzó szavai egyszerű, a magyar nyelv alaprétegeiből származó szavakból épülnek fel. Példák sokaságát lehet felhozni. [[B/Beteg\|Beteg]] szavunkból hogyan lehet passió, szenvedély, palacsintából hogyan lesz a méhlepény illetve hályogból a latin orvosi elnevezése, [[T/Takony\|takony]] és [[G/Geny\|geny]] szavainknak mi köze az utódnemzéshez, vagy mi az a [[S/Szarkóma\|szarkóma]], mi a kakofónia és a codex magyar háttere,...sorolhatnánk. Az tény, hogy a mai angolba a bonyolultabb ideákat magába foglaló magyar szavak nem kerültek be, csak azok a latin és görög szavak, amik az eredeti ősmagyar formák ferdítései.  
 
 Nekünk mindig a természeti szavakat kell felmutatni. Például aligha kérdéses, hogy a nemzetközi, már műveltségi [[L/Lamp\|lámpa]] szóhoz képest – akár egy `lamp` forma közvetítésével – a [[L/Láng\|láng]] szó a természetben előforduló jelenségre utal és NG = MP.  
-Vagy például [[K/Kaba#^bjczz\|kő]] szavunk lesz más nyelvek hegyet és Kába kövét jelentő neveinek kiindulója és a [[K/Kovács\|kovács]] foglalkozás sem holmi szláv hatásra jött volna létre, mert odáig nekünk "vasverőink" lettek volna.  
+Vagy például [[K/Kaba#^0tcf94\|kő]] szavunk lesz más nyelvek hegyet és Kába kövét jelentő neveinek kiindulója és a [[K/Kovács\|kovács]] foglalkozás sem holmi szláv hatásra jött volna létre, mert odáig nekünk "vasverőink" lettek volna.  
 
 #### Szemantikai változásokról
 
