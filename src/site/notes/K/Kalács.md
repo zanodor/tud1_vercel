@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kalács/","title":"Kalács","tags":["Englishtexttranslated"],"created":"2024-12-18T07:36","updated":"2026-04-05T03:23"}
+{"dg-publish":true,"permalink":"/K/Kalács/","title":"Kalács","tags":["Englishtexttranslated"],"created":"2024-12-18T07:36","updated":"2026-05-21T04:58"}
 ---
 
 
 # Kalács
 
 A hivatalos, szlávozó álláspont szerint eredete a kerek (édes)süteményt, tortát jelentő `kolac` szó nyomán eredne a magyar.  
-[[K/Kenyér#^4645w\|Ezen]] passzusban Jankovics Marcell a bolgár `kolács` = középen lyukas, kerek kenyér szót hozza fel. Szerintem is mindennapi sós étek lenne a kiinduló.  
+[[K/Kenyér#^2ql11h\|Ezen]] passzusban Jankovics Marcell a bolgár `kolács` = középen lyukas, kerek kenyér szót hozza fel. Szerintem is mindennapi sós étek lenne a kiinduló.  
 
 #### Péterfai János írja:
 
