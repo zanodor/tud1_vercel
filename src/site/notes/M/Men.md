@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Men/","title":"Men","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-09-28T19:59","updated":"2026-04-24T09:34"}
+{"dg-publish":true,"permalink":"/M/Men/","title":"Men","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-09-28T19:59","updated":"2026-05-21T04:56"}
 ---
 
 
@@ -55,7 +55,7 @@ Mint ahogy az [alábbi](https://qr.ae/pNKAW4) válasz kommentfelületén Geetha 
 
 Lásd még elsődlegesen [[M/Man\|man]], ahol szintén szerepelt az ősök, halottak, mennybe jutottak tiszteletével kapcsolatos, Sergei Tokarev által adatolt `manes`:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/L/Lares/#6m3nr" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/L/Lares/#33lcg4" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -168,7 +168,7 @@ A leány tehát a magyar hagyomány Föld szimbólumában mindig a tűzzel, és 
 
 [Ezen](https://qr.ae/pNz4CL) Quora válaszban az alábbi (What is Slavic etymology based on? Can it be traced as far back as Latin or Greek etymology? Is it as complex? For instance, in Polish niebieski means blue, but comes from "heaven" (niebo). What and when does niebo trace back to?) kérdésre a [[S/Sine\|sine]] címnél taglalt kék kérdést is említve írtam:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/N/Nebula/#tk036" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/N/Nebula/#slci3c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
