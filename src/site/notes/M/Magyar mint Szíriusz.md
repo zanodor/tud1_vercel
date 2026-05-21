@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-10-29T07:48","updated":"2026-03-23T23:31"}
+{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-10-29T07:48","updated":"2026-05-21T04:59"}
 ---
 
 
@@ -56,8 +56,7 @@ Craig Conley: Magic Words: A Dictionary című könyvének 147. oldalán is eml�
 > Facts: Dogura-Magura is the title of a 1935 work of avant-garde Gothic literature by Kyusaku Yuineno. \[John Clute and John Grant, The Encyclopedia of Fantasy (1999)\]  
 > —  
 > Eredete: Ez az abrakadabra japán megfelelője. Dogura-Magura "a kyushui dialektusban a 'keresztények által használt varázslat' szó (Kyushu, különösen Nagaszaki környéke volt az egyik első hely Japánban, ahol európai kereskedők és jezsuiták telepedtek le.")". \[novel\] fordította Gishokitty.\]  
-> Tények: Dogura-Magura a címe Kyusaku Yuineno 1935-ös avantgárd gótikus irodalmi művének. \[John Clute és John Grant, A fantasy enciklopédiája (1999)\]  
-
+> Tények: Dogura-Magura a címe Kyusaku Yuineno 1935-ös avantgárd gótikus irodalmi művének. \[John Clute és John Grant, A fantasy enciklopédiája (1999)\] 
 
 </div></div>
   
@@ -115,7 +114,7 @@ Valahol mintha már szerepelt volna az egyiptomi/kopt Mesori nevű hónap neve. 
 > The twelfth and last month of the later ancient Egyptian civil calendar and Coptic calendar, corresponding to the fourth and last month of the season of Shemu. Since 25 BCE, when the calendar was reformed to include leap-days, Mesore has been in roughly August.  
 > —  
 > A későbbi ókori egyiptomi polgári naptár és a kopt naptár tizenkettedik és utolsó hónapja, amely a Shemu évszak negyedik és utolsó hónapjának felel meg. Kr. e. 25 óta, amikor a naptárat megreformálták, hogy szökőnapokat is tartalmazzon, Mesore nagyjából augusztusban van.
-{ #e9lcu}
+{ #vvlhdq}
 
 - Tulajdonképpen itt is a Mazar/Magyar név Szíriuszhozi vonatkoztatását látjuk, tudván, hogy az egyiptomi év nyáron végződött/indult.
 
