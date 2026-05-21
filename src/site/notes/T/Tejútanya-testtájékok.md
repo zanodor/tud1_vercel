@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejútanya-testtájékok/","title":"Tejútanya-testtájékok","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-01T02:57","updated":"2026-04-24T09:36"}
+{"dg-publish":true,"permalink":"/T/Tejútanya-testtájékok/","title":"Tejútanya-testtájékok","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-01T02:57","updated":"2026-05-21T05:00"}
 ---
 
 
@@ -77,7 +77,7 @@ John Major Jenkins Galactic Alignment c. könyvének 33.oldalán (más kapcsán)
 > We shall see in the Old World's cosmological shift from a polar to a solar orientation, the seven stars of the Big Dipper were mapped (or conceptually relocated) to the seven stars of the Pleiades. The underlying meaning here is that the Pleiades, like the Big Dipper, are the head point of a world-centering axis, with the astronomical reference for the Pleiades, though approximate, being to the Galactic Anticenter. Obviously, the other end of this axis is rooted in the Galactic Center.  
 > —  
 > Látni fogjuk, hogy az Óvilág kozmológiai eltolódása során a sarki tájolásról a szolárisra való áttérés során a Nagy Medve hét csillagát a Plejádok hét csillagához képezték le (vagy helyezték át fogalmilag). Ennek az a mögöttes jelentése, hogy a Plejádok, akárcsak a Nagy Medve, egy világközpontú tengely főpontja, a Plejádok csillagászati vonatkozása pedig, bár közelítőleg, a Galaktikus Anticentrumra vonatkozik. Nyilvánvaló, hogy e tengely másik vége a Tejútközpontban gyökerezik.
-{ #axhla}
+{ #2kkhwb}
 
 - Lásd még kiegészítő infókat [[G/Galactic anticentre\|Galactic anticentre]].
 
