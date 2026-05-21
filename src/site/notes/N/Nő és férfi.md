@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nő és férfi/","title":"Nő és férfi","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-14T03:03","updated":"2026-01-30T22:55"}
+{"dg-publish":true,"permalink":"/N/Nő és férfi/","title":"Nő és férfi","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-14T03:03","updated":"2026-05-21T04:58"}
 ---
 
 
@@ -66,7 +66,7 @@ Falvay Károly folytatja (a 143. oldalon):
 > Solomon's \[Solomon of the Proverbs\] wit is bitterly succinct: 'The horse-leech's two daughters: Give and Give. The horse-leech is a small fresh-water animal akin to the medicinal leech, with thirty teeth in its jaws. When a beast goes down to a stream to drink, the leech swims into its mouth and fastens on the soft flesh at the back of its throat. It then sucks blood until completely distended, driving the beast frantic, and as a type of relentless greed gives its name to the Alukah, who is the Canaanite Lamia, or Succuba, or Vampire. The two daughters of Alukah are insatiable, like Alukah herself: and their names are Sheol and the Womb, or Death and Life. Solomon says, in other words: 'Women are greedy of children; they suck the vigour of their menfolk, like the Vampire; they are sexually insatiable; they resemble the horse-leech of the pond which plagues horses. And to what purpose are men born of women? Only in the end to die. The grave and woman are equally insatiable.'  
 > —  
 > Salamon \[Salamon a Példabeszédekből\] szellemessége keserűen tömör: "A ló-pióca két lánya: Adj és adj. A lópióca egy kis édesvízi állat, a gyógypiócához hasonló, harminc foggal az állkapcsában. Amikor egy állat lemegy a patakhoz inni, a pióca beúszik a szájába, és rátapad a torkának hátsó részén lévő puha húsra. Ezután addig szívja a vért, amíg teljesen fel nem puffad, ami az állatot őrjöngésbe kergeti, és a könyörtelen mohóság típusaként adja a nevét az Alukah-nak, aki a kánaáni Lamia, vagy Succuba, vagy vámpír. Alukah két lánya telhetetlen, akárcsak maga Alukah: és nevük a [[S/Sheol\|Sheol]] és a Méh, vagy a Halál és az Élet. Salamon azt mondja, más szavakkal: 'A nők mohók a gyermekek után; kiszívják férfitársaik életerejét, mint a vámpír; szexuálisan telhetetlenek; hasonlítanak a tó lópiócájához, amely a lovakat sújtja. És mi célból születnek a férfiak a nőktől? Végül is csak azért, hogy meghaljanak. A sír és a nő egyformán telhetetlenek."
-{ #8tp35}
+{ #7mr1xu}
 
 
 #### Jankovics Marcell A Nap könyve...
