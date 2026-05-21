@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hamper/","title":"Hamper","created":"2023-11-23T06:08","updated":"2024-10-25T19:14"}
+{"dg-publish":true,"permalink":"/H/Hamper/","title":"Hamper","created":"2023-11-23T06:08","updated":"2026-05-22T00:20"}
 ---
 
 
