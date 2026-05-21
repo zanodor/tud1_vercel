@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Köldök/","title":"Köldök","tags":["containstransclusions","containscallouts"],"created":"2025-03-05T03:15","updated":"2026-03-09T22:09"}
+{"dg-publish":true,"permalink":"/K/Köldök/","title":"Köldök","tags":["containstransclusions","containscallouts"],"created":"2025-03-05T03:15","updated":"2026-05-21T05:01"}
 ---
 
 
@@ -66,7 +66,7 @@ Az alábbi Jankovics Marcell Jelkép-kalendárium című könyvéből származó
 
 ...című könyvének 33. oldalán (más kapcsán) írja, hogy a kölcsönös megfeleltethetőség alapja lehetett, hogy a Göncöl és a Plejádok is hét-hét csillagból állnak:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/T/Tejútanya-testtájékok/#axhla" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/T/Tejútanya-testtájékok/#2kkhwb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -79,7 +79,7 @@ Az alábbi Jankovics Marcell Jelkép-kalendárium című könyvéből származó
 
 Könyvének 39. oldalán írja [[C/Chichen Itza\|Chichen Itza]] északi templomáról szólva, hogy a Sarkcsillag(ban összpontosuló sarki központ: köldök, mint Visnu köldöke, amely viszont a védikus asztrológiában a Tejútközpontot jelenti) a déli meridiánon áthaladó Tejútközponttal állítható szembe:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/P/Pleiadok/#xv72t" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/P/Pleiadok/#pn5lps" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -126,7 +126,7 @@ Az igazság az, hogy a köldök/[[M/Méh\|méh]]/[[V/Vulva\|vulva]]/[[P/Pina\|pi
 
 ...című könyvének 44. oldalán írja:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/L/L/#knm6t" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/L/L/#6ssk8q" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
