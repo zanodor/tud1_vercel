@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sugar/","title":"Sugar","tags":["titleandheadingonedontmatch","containstransclusions","containscallouts"],"created":"2025-10-17T00:43","updated":"2026-03-05T01:40"}
+{"dg-publish":true,"permalink":"/S/Sugar/","title":"Sugar","tags":["titleandheadingonedontmatch","containstransclusions","containscallouts"],"created":"2025-10-17T00:43","updated":"2026-05-21T05:03"}
 ---
 
 
@@ -48,7 +48,7 @@ Péterfai János említhette volna még a baszk **Sugar** istenséget is, kinek 
 
 A (turáni) akkád `zikaru` = férfi (lásd a [[T/Transzliteráció\|transzliteráció]] címnél is említett [Wiktionary oldalát](https://en.m.wiktionary.org/wiki/%F0%92%8D%91)) szó az alább sorolt szavak eredetét képezi. A férfi a Nap és Orion neve is lehet. Oriont férfiként, vezérként, csillagistenként rajzolták meg az égen, ahogy [[S/Sacchar-\|sacchar-]] címnél is írtuk. A Bibliában több héber szó szerepel ember, férfi, stb. jelentéssel. A `zakhár` = hím, férfi véleményem szerint a Nap sugarából indul ki ([[I/Íz\|íz]] és [[W/Woman\|woman]] címnél is szerepelt)...  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A/Asszony/#b1bkp" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A/Asszony/#ac71tw" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
