@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Feleség/","title":"Feleség","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T16:16","updated":"2026-03-05T01:39"}
+{"dg-publish":true,"permalink":"/F/Feleség/","title":"Feleség","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T16:16","updated":"2026-05-21T05:03"}
 ---
 
 
@@ -28,7 +28,7 @@ Ezek után nem is meglepő, hogy a téridőbeli helyre, Nagy Kutya csillagképre
 > In the Dendera Zodiac, the hawk shown for Canis Major is labeled separately as "Naz Seir" and represents the star Sirius in Canis Major. In Egyptian, "Naz" means "Caused to Come Forth," or "Sent," while "Seir" means "Prince," or "Chief." Therefore, the title "Naz Seir" can mean "Sent Prince." Since "Naz" and "Zar" both mean "Prince" in Hebrew, Naz Seir could also mean "Prince of princes," a fitting epithet for Yahshua as King of kings!  
 > —  
 > A Dendera Zodiákusban a Canis Majorhoz tartozó sólyom külön "Naz Seir" felirattal van ellátva, és a Sirius csillagot jelképezi a Canis Majorban. Egyiptomiul a "Naz" azt jelenti, hogy "Elindult" vagy "Elküldött", míg a "Seir" azt jelenti, hogy "Herceg" vagy "Főnök". Ezért a "Naz Seir" cím azt jelentheti, hogy "küldött herceg". Mivel a "Naz" és a "Zar" egyaránt "Herceget" jelent héberül, a Naz Seir azt is jelentheti, hogy "Hercegek Hercege", ami a királyok Királyának, Jahsuának megfelelő jelzője!
-{ #xpjco}
+{ #43e9sm}
 
 
 > [!warning] &nbsp;
