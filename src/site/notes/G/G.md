@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2026-05-21T05:04"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2026-05-22T00:20"}
 ---
 
 
@@ -40,6 +40,18 @@ Hasonló esetet másutt is láttuk, amikor például [[M/Magor\|Magor]]/[[M/Maga
 Így értjük meg az skandináv feleséget jelentő szavakat (például óizlandi `kona` = nő, feleség, `kván` = feleség) és a [[Q/Queen\|queen]] szót is.  
 
 ## Török ğ hang
+
+A „yumuşak ge” (ğ, vagyis a „lágy g”) a török ábécé 9. betűje. Különlegessége, hogy gyakorlatilag néma, és soha nem áll szó elején. Ehelyett az előtte álló magánhangzót módosítja.  
+> [!lasdmeg] &nbsp;
+> **Kiejtési szabályok**
+> 
+> A hangzása teljesen a környezetében lévő betűktől függ:  
+> * Magánhangzó + ğ a szó végén: Meghosszabbítja az előtte álló magánhangzót.
+> * Példa: A dağ (hegy) kiejtése kb. dá.
+> * Két azonos magánhangzó között: Összeköti őket, így a magánhangzó kétszer olyan hosszú lesz.
+> * Példa: Az öğrenci (diák) kiejtése kb. őrendzsi.
+> * Különböző magánhangzók között: Általában egy lágy „j” hangot vesz fel.
+> * Példa: A değil (nem) kiejtése kb. dejin.
 
 A törökországi törökök tulajdonképpeni önazonosítására használt [[O/Oguz\|oguz]] névben g valójában ğ azaz gh hang, melyről nemcsak a `kağan` név kapcsán, hanem az [[U/UL\|UL]] és [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél taglalt példák kapcsán is volt szó.  
 
