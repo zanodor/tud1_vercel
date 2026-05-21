@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Martu/","title":"Martu","tags":["Englishtexttranslated"],"created":"2025-02-24T23:25","updated":"2026-03-05T01:41"}
+{"dg-publish":true,"permalink":"/M/Martu/","title":"Martu","tags":["Englishtexttranslated"],"created":"2025-02-24T23:25","updated":"2026-05-21T05:04"}
 ---
 
 
@@ -18,7 +18,7 @@ Fáy Elek A magyarok őshona című könyvében a 15-16. oldalon ír Marturól.
 > Az Amurru/Martu ![assets/Martu_image1.png|fix_dark fix_light right|300](/img/user/M/assets/Martu_image1.png)valószínűleg eredetileg egy nyugati sémi isten volt. Néha "pásztorként" vagy viharistenként, valamint Anu égi isten fiaként írják le. Néha `bêlu šadī`-nak vagy `bêl šadê`-nek, "a hegy urának" nevezik; dúr-hur-sag-gá sikil-a-ke, "aki a tiszta hegyen lakozik"; és kur-za-gan ti-\[la\], "aki a ragyogó hegyen lakozik". A kappadókiai Zinčirli feliratokban `ì-li a-bi-a`-nak, "apám istenének" nevezik.  
 > Ennek megfelelően L. R. Bailey (1968) és Jean Ouelette (1969) azt sugallta, hogy ez a Bêl Šadê azonos lehet a bibliai [[E/El Shaddai\|El Shaddai]]-jal, aki Ábrahám, Izsák és Jákob Istene a narratíva "papi forrásában", a dokumentumhipotézis szerint. Bêl Šadê a termékenységisten "Ba'al" is lehetett, akit esetleg a kánaániták fogadtak el, a héber YHWH Isten riválisa és ellensége, akivel a héber próféta, Illés híresen harcolt.  
 > Amurrunak viharisten-jellemzői is vannak. Adadhoz hasonlóan Amurru is viseli a `ramān` "mennydörgő" jelzőt, sőt `bāriqu` "mennydörgés dobálója" és Adad ša a-bu-be "az özönvíz Adadja" néven is emlegetik. Mégis, ikonográfiája különbözik Adadétól, és néha Adad mellett jelenik meg hatalmi bottal vagy dobóbotokkal, míg Adad egy hagyományos villámot tart.
-{ #077c8}
+{ #xaez4d}
 
 
 #### Péterfai János írja:
