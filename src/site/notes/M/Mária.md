@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2026-05-04T18:04"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2026-05-21T04:55"}
 ---
 
 
@@ -44,7 +44,7 @@ A Mária-hármasságról...
 > What, for the early Church Councils, seemed the most diabolical and unpardonable heresy of all was the identification of the Hercules-Dionysus-Mithras bulk whose living flesh the Orphic ascetics tore and ate in their initiation ceremony, with Jesus Christ whose living flesh was symbolically torn and eaten in the Holy Communion. With this heresy, which was second-century Egyptian, went another, the identification of the Virgin Mary with the Triple Goddess. The Copts even ventured to combine 'the Three Maries' who were spectators of the Crucifixion into a single character, with Mary Cleopas as a type of 'Blodeuwedd', the Virgin of 'Arianrhod', and Mary Magdalen as the third person of this ancient trinity, who appears in Celtic legend as Morgan le Faye, King Arthur's sister. Morgan in Irish legend is 'the [[M/Mórrígan\|Morrigan]]', meaning 'Great Queen', a Death-goddess who assumed the form of a raven; and 'le Faye' means 'the Fate'. According to Cormac's Glossary the Morrigan was invoked in battle by an imitadon on war-horns of a raven's croaking. She was by no means the gentle character familiar to readers of the Morte D'Arthur but like the 'black screaming hag Cerridwen' in the Romance of Taliesin was 'big-mouthed, swarthy, swift, sooty, lame, with a cast in her left eye'.  
 > —  
 > A korai egyháztanácsok számára a legördögibb és legbocsánatosabb eretnekségnek az tűnt, hogy a Herkules-Dionüszosz-Mithrász ömlesztett testet, amelynek élő húsát az orfikus aszkéták a beavatási szertartásuk során széttépték és megették, azonosították Jézus Krisztussal, akinek élő húsát jelképesen széttépték és megették a szentáldozásban. Ezzel az eretnekséggel, amely a második századi egyiptomi volt, együtt járt egy másik, Szűz Mária azonosítása a hármas istennővel. A koptok még azt is megkockáztatták, hogy a "Három Máriát", akik a keresztre feszítés szemlélői voltak, egyetlen személyiséggé egyesítsék: Mária Kleopát, mint "Blodeuwedd", "Arianrhod" Szűz Mária típusát, és Mária Magdolnát, mint ennek az ősi hármasságnak a harmadik személyét, aki a kelta legendában Morgan le Faye-ként, Arthur király húgaként jelenik meg. Morgan az ír legendában "a [[M/Mórrígan\|Mórrígan]]", azaz "Nagy Királynő", egy halálistennő, aki holló alakot öltött; a "le Faye" pedig "a Sors". A Cormac's Glossary szerint a Morrigant a harcban egy holló károgását imitáló hadiszarvakon idézték meg. A Morte D'Arthur olvasói számára korántsem volt az a szelíd figura, akit a Morte D'Arthurból ismerhetünk, hanem a Taliesin románcban szereplő "fekete, sikoltozó boszorkányhoz", Cerridwenhez hasonlóan "nagyszájú, vöröses bőrű, gyors, kormos, sánta, bal szemére gipszet nyomott" volt.
-{ #pa8k4}
+{ #72a4p0}
 
 
 A könyv 191. oldalán lábjegyzetben:  
@@ -174,7 +174,8 @@ Marha szavunk hihetetlen sok ideában megjelenik.
 A Sirius in Ancient Greek and Roman literature című cikkben fejtegetik, hogy a görög-római mitológia **Maira** nevű (nimfa)alakja Szíriuszra utalóan jön elő. Nos, a maoriknál is Szíriusz neve Mere is, illetve M-R vázú, fényes jelentésű szavakat láttunk bőven. Okunk lehet tehát feltételezni, mivel a [[S/Szuka\|szuka]] a Tejút és a kutya egyben (ahogy [[G/Göd\|Göd]] címnél is ezt taglaltuk), hogy a Mária és a Maira nevek egy és ugyanazok. Ami a cikkből ide tehető:  
 > Sirius in the annual period from its heliacal rising to 22 August was also called 'Maira', a word coming from the ancient Greek verb `marmairo`, which means 'to shine' (Palatine or Greek Anthology, 1917, 9: 55). As a name, Maira (or Maera) therefore became the star-goddess of the scorching dog-star Seirios, whose rising in conjunction with the Sun brought on the scorching heat of midsummer.  
 > —  
-> A Szíriuszt a heliákus kelésétől augusztus 22-ig tartó éves időszakban "Maira"-nak is nevezték, amely szó az ógörög `marmairo` igéből származik, ami azt jelenti, hogy "ragyogni" (Palatinus vagy Görög Antológia, 1917, 9: 55). Maira (vagy Maera) mint név tehát a perzselő kutya-csillag, Seirios csillagistennője lett, akinek a Nappal együtt történő felkelése a nyár közepének perzselő hőségét hozta el.  { #j3fmio}
+> A Szíriuszt a heliákus kelésétől augusztus 22-ig tartó éves időszakban "Maira"-nak is nevezték, amely szó az ógörög `marmairo` igéből származik, ami azt jelenti, hogy "ragyogni" (Palatinus vagy Görög Antológia, 1917, 9: 55). Maira (vagy Maera) mint név tehát a perzselő kutya-csillag, Seirios csillagistennője lett, akinek a Nappal együtt történő felkelése a nyár közepének perzselő hőségét hozta el.  { #j3fmio}
+
 
 
 [[E/Eire\|Eire]] címnél felemlítettük, hogy mi lenne, ha Mária nem a [[M/Marha\|marha]] szavunkból eredne mégsem, hanem az "[[A/Árja\|árja]]" (levegő) ajakhang-előtételezése lenne. Illetve valójában pont arról volt szó, hogy mi lenne, ha a Mária lenne a kiinduló oda.  
@@ -381,7 +382,7 @@ Falvay Károly Nagyboldogasszony című könyvének 428. oldalán is írja:
 Szent Anna első férjétől, Joachimtól született Mária, Jézus anyja, de a második férjétől, Kleofástól nemzett második leánya is a Mária nevet kapta. Ettől a leányától származott ifjabb Jakab, Júdás-Tádé és Simon. A másodszor is megözvegyült Anna harmadik házasságából született a harmadik, úgyszintén Mária nevű leánya, aki idősebb Jakab és János későbbi apostoloknak adott életet.  
 Aki tehát még ezek után is úgy gondolja, hogy ezek valós személyek és a zsidók történetét is képezhetik, az annyira korlátolt és vakbuzgó, hogy bármit is felesleges mondani nekik.  
 —  
-Kleofás Mária nevű feleségéről lásd még [[H/Hórusz#^iy0t0\|itt]].  
+Kleofás Mária nevű feleségéről lásd még [[H/Hórusz#^wpwf6b\|itt]].  
 
 [^3]: Lábjegyzet:  
 The Gnostics first appear as a sect in the first century B.C.  
