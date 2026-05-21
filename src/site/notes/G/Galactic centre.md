@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2026-04-24T09:34"}
+{"dg-publish":true,"permalink":"/G/Galactic centre/","title":"Galactic centre","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-01-02T13:51","updated":"2026-05-21T04:54"}
 ---
 
 
@@ -68,7 +68,7 @@ Láthatósága:
 
 ...című könyvének 116. oldalán álló, saját kutatásommal megegyező adata, miszerint a **Halak az utolsó jegy a zodiákusban** és a mostani galaktikus együttállással új kor kell kezdődjön:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/G/Galactic anticentre/#ki6v7" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/G/Galactic anticentre/#q9nsm4" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -81,7 +81,7 @@ Láthatósága:
 - Másutt ugye Pleiadok és Auriga, de [[S/Szíriusz\|Szíriusz]] is abban az irányban, dél felé van.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/H/Halak korszak/#wrxmg" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/H/Halak korszak/#e1ypeb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -291,7 +291,8 @@ Hogy pontosan milyen együttállásokkal és főleg milyen földrajzi fekvéseke
 > A napforduló napjának a galaxishoz való igazodása akár 1500 évre is érvényes lehet (mivel a Tejútrendszer széles, és az igazodás általánosítható). Ez a tartomány magában foglalja az inka birodalmat, valamint a Tiahuanaco-i megszállás legutóbbi szakaszát (kb. Kr. u. 600).  
 
 ![assets/Galcen_image19.png|fix_dark fix_light|840](/img/user/G/assets/Galcen_image19.png)
-Leellenőriztem John M. Jenkins adatát az előbbi képen csatolt infora nézve. Szíriusz nagyon nem moccan ebből a "nadir(?)" pontból az égi egyenlítő alatt. Csak balra, jobbra mozog az évezredek során. Precesszió ugye bele van táplálva.  { #kq3rso}
+Leellenőriztem John M. Jenkins adatát az előbbi képen csatolt infora nézve. Szíriusz nagyon nem moccan ebből a "nadir(?)" pontból az égi egyenlítő alatt. Csak balra, jobbra mozog az évezredek során. Precesszió ugye bele van táplálva.  { #kq3rso}
+
 
 - Így nem sokat mond az info, legalábbis arra vonatkozólag, hogy milyen égi dinamika játszhat itt szerepet. Olyan program kellene, ami Szíriusz és a Naprendszerünk valós mozgásaira vonatkozó adatokkal van betáplálva. Olyan meg – legalábbis közkézre adva – nem lesz.
 
@@ -325,7 +326,7 @@ A negyvenezer évet egyébként John M. Jenkins úgy magyarázza, hogy a galacti
 > **The Galactic Center and the Galactic Anticenter are closer to the ecliptic, therefore their meridian extremes are very close to 26,000 years and, moreover, correspond to the solstice-galaxy alignment eras**. See Lynn Picknett and Clive Prince, The Stargate Conspiracy: The Truth About Extraterrestrial Life and the Mysteries of Ancient Egypt (New York: Berkley Books, 1999), for a critique of the new Egyptologists.  
 > —  
 > **A Tejútközpont és a Galaktikus Anticentrum közelebb van az ekliptikához, ezért a meridiánok szélső értékei nagyon közel vannak a 26000 évhez, és ráadásul megfelelnek a napfény-galaxis együttállási korszakoknak**. Lásd Lynn Picknett és Clive Prince, The Stargate Conspiracy: The Truth About Extraterrestrial Life and the Mysteries of Ancient Egypt (New York: Berkley Books, 1999), az új egyiptológusok kritikájáért.
-{ #9puep}
+{ #tpcqen}
 
 - [[N/Nyolc\|Nyolc]] címnél is szerepelt ezen adatsor.
 
