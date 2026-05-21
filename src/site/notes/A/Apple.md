@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["Englishtexttranslated"],"created":"2023-10-11T10:10","updated":"2025-06-28T00:01"}
+{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["Englishtexttranslated"],"created":"2023-10-11T10:10","updated":"2026-05-21T05:05"}
 ---
 
 
@@ -30,7 +30,7 @@ Kimondottan magyaros felbontású a lett `ābolu` = alma.
 >
 > A magyar Apol Csókol, ez utal a szerelemisten funkcióra, az Ápoló magyar szó pedig a gyógyítás funkciójára.  
 - Ez utóbbit fejezi ki a közmondás is: *An apple a day keeps the doctor away.* (Egy alma naponta és nincs szükség orvosra.)
-- Ami az etruszk Aplu nevet illeti, [[A/Apolló#^gy2-m\|Apolló]] címnél Kállay Ferenc A pogány magyarok vallása c. könyvében A-Bél összefüggésben gondolkodik.
+- Ami az etruszk Aplu nevet illeti, [[A/Apolló#^y4swf7\|Apolló]] címnél Kállay Ferenc A pogány magyarok vallása c. könyvében A-Bél összefüggésben gondolkodik.
 
 ## Éva almája
 
