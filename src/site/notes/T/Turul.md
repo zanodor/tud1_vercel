@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-05-18T23:56"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-05-21T04:54"}
 ---
 
 
@@ -188,7 +188,7 @@ Hunorhoz, a hunokhoz kapcsolt sötét oldal kapcsán ötlött fel, hogy hogyan m
 Badiny Jós Ferenc szerint a téli napforduló neve Turul, a nyárié [[U/Ullu\|Ullu]]. Előbbi valójában konkrétan nem a madár neve, ahogy kerecseny is a karácsony, azaz a napforduló nevének alakváltozata. Az Ullu viszont lehet szintén madár: a [[H/Holló\|holló]]. A holló könnyen beláthatóan hulló, azaz haló, mintegy a halódó Napra utal, hiszen a nyári napfordulótól rövidülnek a napok és csökken a delelő Nap magassága.  
 De ezen Turul-Ullu/Holló "madarakkal" kifejezett kódnevek mellett szólni kell a [[H/Hunor és Magor\|Hunor és Magor]], vagy – sorrendben – Magor és Hunor napminőség-nevekről is. Hiszen [[M/Magor\|Magor]] a [[T/Téli napforduló\|téli napforduló]] után, a Bakban születő Nap neve, míg Hunor a hunyó, haló Nap neve: Hunor lehet csillagkép is, maga Hunter-Orion. Hunor így azonosul Nimrud-Orionnal, apjával, és Szétthel is. Valójában Magorból lesz öregkorára Hunor, akkor, amikor a Nap az Ikrekbe kerül: elér Szíriusz-Orionhoz. Innentől számítjuk a sötét térfelét az évnek. Tehát adott egy világos és sötét térfél. Ha most a kezemet a lapjával az orrom elé helyezem, az egyik oldal lesz a napos, a másik a holdas felem, vagy Magor vagy Hunor felem, tehát a világos és sötét oldalam. Mondhatjuk úgy is, hogy az egyik szemem (mely szem is Nap) sír, a másik nevet. Itt jut eszünkbe az, amit Carl Jung az árnyékénünkről írt. [[B/Bal és jobb\|Bal és jobb]] címnél írottak alapján egyértelmű, hogy ha az agyféltekékben gondolkodunk, akkor a magyarok által használt jobb agyfélteke a világos/isteni (vagy mondhatjuk, a spirituális) oldal, a bal oldal az ellenségeink által használt sötét/sátáni és materialista oldal, mely ugye arra is jó, hogy a pénzt tudja számolni. Minden erről a fél-fél megosztottságról ("oszd meg és uralkodj") szól, erre a félelem-kultúrára alapoznak a globális erők úgy, hogy megparancsolják, szeresd az elnyomód, szeresd a pénzistent. Csillagászati szempontból tehát az évet felező [[S/Szíriusz\|Szíriusz]] (lásd [[F/Félév\|félév]]) a meghatározó. Közben arra is rájöttem, hogy Szíriusz a [[S/Szeret\|szeret]] ige törzsét is hordozza. Csak hát a kettősség, felesség kódolva van az életünkben. A sötét erők csábításának kell ellenállni, a sötét időszakokban kell ébernek maradni. A Szíriusz kutyasága ebben a bonyolult, csillagászati és erkölcsi/lélektani összefüggésben érhető meg.  
 De ha már Szíriuszról van szó, vegyük észre, hogy a perzsa [[T/Tír\|Tír]] = nyílvessző (az [[O/Orion övcsillagai\|Orion övcsillagai]] alapesetben, melyek hárman: [[T/Three\|three]] vannak) is megegyezik a Szíriusz [[S/SZÍR\|szír]] elemével (Szír>Thir>Tír). Ezen a ponton játszhatnánk is a szavakkal. A szeret mellett még melyik az a magyar szó, mely hatással lehetett Szíriusz ilyen alakjára. Ott a Gyárfás Ágnes által hozott Circirka/Circirke, de lehet szó akár szúr, csűr, túr, tűr és az -usz végződést és a [[K/Kutyanemzés\|kutyanemzés]] aktusát is figyelembe véve [[T/Terhes\|terhes]] szavunk is. Terhes, szérűs, szeress, [[C/Ceres\|Ceres]], mind-mind ennek a csillagnak a névváltozatai lehetnek.
-{ #w4xu6}
+{ #vmok1r}
 
 
 [[F/Fehér és fekete\|Fehér és fekete]] címnél volt szó fehér és fekete sámánokról. Diószegi Vilmos Sámánizmusának 29. oldalán írja, hogy a sámándobokról, hogy a dob és a dobverő számára kiszemelt fát két férfi vágta ki: egyiknek a Sas, másiknak a Magtörő Holló nemzetségből kellett származnia.  
@@ -206,7 +206,8 @@ Az kétségtelen, hogy a madár feketével festett, és a [[H/Hét#Hét vár\|h�
 Ami fontos itt, hogy a [[M/Madár\|madár]]ság a magyarságot és azon belül is a [[M/Magyar\|Magyar]] istenanya testén körbemenő Napot jelképezi, azaz a fehér madár a feltámadás jelképe, a fekete a nyári napfordulós váltópontra utal. Hasonló eset tehát, mint amit a szarvas kapcsán megfogalmaztunk, az önmagába visszakísérés kapcsán, de a [[J/Jin és jang\|jin-jang]] jelben is ugyanezt az elvet látjuk.  
 Tehát nem annyira (csak) az őstudás romlását kell a madárábrázolások mögött feltételezni, ahogy Kubínyi Tamás mondja, hanem ismerni kell a csillagmitológiai hátteret, és azt is felismerni, hogy a képzetek jelentőségének illetve valódi értelmük feledés bemerülésével nemcsak a torzulás, hanem két hasonló indíték megléte esetén a konfláció, az összemosás esete is fennállhat.  
 > [!check] &nbsp;
-> Azt nem mondja ki, amit Pap Gábor [itt](https://www.youtube.com/watch?v=gXjH8VA5X9E&t=2548): hogy a Képes Krónika ábrázolásain a turulmadár inkább holló alakban mutatkozik.{ #51m2cm}
+> Azt nem mondja ki, amit Pap Gábor [itt](https://www.youtube.com/watch?v=gXjH8VA5X9E&t=2548): hogy a Képes Krónika ábrázolásain a turulmadár inkább holló alakban mutatkozik.{ #51m2cm}
+
 
 
 #### Dúcz László...
@@ -259,14 +260,14 @@ Lásd még Badiny írását is lentebb, a Ninhursagot ábrázoló kép alatt.
 
 [[T/Turul#Turul és Csudaszarvas\|Turul és Csudaszarvas]] alcímnél is szereplő passzus szerint:  
 A sumér `tir` = állatkör elnevezés megegyezik az árja `tree` = fa és `tier` = vad, állat (amely a szarvas) jelentésű szavakkal. Azaz ha megvan az egyik eredete, akkor adja a másikat: a Tejútanyának állatalakja és faalakja van, valamint az Állatkör-Életkörben a Szarvas kíséri vissza a Napot szülőhelyére. A témáról [[P/Perennial\|perennial]] címnél is volt szó. Ez a visszakísérés/(a Szarvasfiú Nap részéről) visszatérés van meg a szintén T-R vázú Turul névben, ahol a születés végeredménye Szarvasanya > Szarvasfiút szül. [[T/TUR\|Tur]], [[T/Tura\|Tura]] = Szarvasfiú (nem csak amolyan akármilyen fiú tehát).
-{ #1u99u}
+{ #rve4i2}
 
 
 [[T/Török\|Török]] címnél szerepeltek az alábbiak:  
 A török `ağaç` = fa pedig szépen illeszkedik az [[O/Ökör\|ökör]] címnél említett török `öküz` = ökör szóval is, mert az ökör < bika < szarvas. Nem mellékesen ennek kaukázusi neve [[T/TUR\|tur]], mely a török/turku/türk név eredetét is adja és öküz = [[O/Oguz\|oguz]] = törökországi törökök tulajdonképpeni önelnevezése, azaz a törökök neveit vizsgálva kiderül, hogy kétszeresen is hordozzák a szarvas-istenségtől való leszármazást.  
 Még a szarvastól/égtől leszármazás (fiúság, szarvasfiú) ideái kapcsán is előjön a kettősség ([[T/TUR\|tur]] és [[T/Tura\|tura]] = fiú jelentését ismertük; [[U/UL\|UL]] és [[U/UG\|UG]] címnél volt szó még fiúról) ([ezen](https://qr.ae/pvAZDU) Quora válasz kommentjei között szintén) (az `oka` és `öke` \[ótürk `eçe`\] szavakat lásd [[E/Ég\|ég]] címnél, külön alcímnél):  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/E/Ég/#u7bqz" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/E/Ég/#gxt8r9" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -402,7 +403,8 @@ Még a nemez- és lótakarós témára visszatérve. Ugyan a [[S/Szakrális kett
 Ugyanilyen relációban hozza fel a paziriki nemezrátét-ábrázolást Wohlfart Zoltán A Maros (Nap) és az Olt (Hold) c. az Ősi Gyökér 2018/1-2. sz. megjelent cikkében (nála a griffmadár a Nap, a szarvas Hold, ráadásul hím; a kép miatt teszem ide leginkább).  
 A lényeg tehát a fogalmak összetartozása: (az akkádban a Bakra utaló) Magur pedig tudjuk, [[M/Makar\|Makar]] és [[M/Makara\|Makara]] címnél is szóltunk róla, hogy a Bakban születendő Nap neve vitetett át ilyen-olyan Baknak megfelelő jelentésű nevekbe az akkádban és az indben, ahogy azt is tudjuk, hogy a Bak [[S/Szarvas csillagkép\|Szarvas csillagkép]] volt (még az angol [[B/Buck\|buck]] szó is ennek állít emléket).  
 
-![assets/Turul_image25.jpg|840](/img/user/T/assets/Turul_image25.jpg)  { #260420}
+![assets/Turul_image25.jpg|840](/img/user/T/assets/Turul_image25.jpg)  { #260420}
+
 
 
 A második képen tehát a Pazirikből előkerült nyeregtakarón is a Turul és Csudaszarvas nászát láthatjuk, ahol a két állat mitikus, ahogy Kubínyi Tamás is mondja, de míg a Turult a Napból érkező teremtő erőként való megjelölésével végül is nem lő mellé, a szarvast már nem tudja csillagászati-kozmikus keretek közé helyezni.  
@@ -472,7 +474,7 @@ A bizonyíték ezen kívül számára úgy tűnik, már csak annyi, hogy az Sas 
 
 Szavak útján is kimutatható.
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/T/Turul/#1u99u" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/T/Turul/#rve4i2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
