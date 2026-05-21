@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2026-04-24T09:33"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2026-05-21T04:54"}
 ---
 
 
@@ -76,7 +76,7 @@ David Pingree szerint kimondottan iráni hagyománynak tűnik a **Jupiter-Szatur
 > One concept which seems definitely to be an Iranian innovation. This is the theory that **history is the unfolding of the influences of periodically recurring Saturn-Jupiter conjunctions**.  
 > —  
 > Határozottan iráni újításnak tűnő fogalom. Ez az elmélet, hogy **a történelem a periodikusan ismétlődő Szaturnusz-Jupiter együttállások hatásainak kibontakozása**.
-{ #0et56}
+{ #d5vw7n}
 
 
 Valóban, ezen [[B/Bolygóegyüttállások\|bolygóegyüttállások]]kal lehet a Tejút elfordulását, azaz a világkorszakok változását mérni: 2160/60 = 36 vagy 2160/20 = **108**. Erről [[H/History\|history]] címnél is volt szó.  
