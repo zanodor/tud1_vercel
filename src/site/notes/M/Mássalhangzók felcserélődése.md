@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-05-15T22:32"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-05-21T04:56"}
 ---
 
 
@@ -181,7 +181,7 @@ A 154-155. oldalon hozott szópárok kapcsán írja:
 > | *(megy)*  | *(vonulás)* | *(út)*  | *(útszakasz)* | *(út)*     |
 >
 > E látszólagos metatézisek- amelyek ez esetben a szavak teljes tükörfordításait jelentenék – azzal az előbb már említett jelenséggel függenek össze, hogy a nyelvekben sokszor a három fő artikulációs körnek (B, D, G) megfelelő szinonimákat találunk.
-{ #j28dg}
+{ #249stf}
 
 - A táblázatban szereplő szavakat már korábban is több helyen taglaltuk, és azon helyeken ([[G/Grade\|grade]] és [[T/Tract\|tract]] címnél) Götz László ezen szópárjait is menet közben felhoztuk/utaltunk rájuk.
 
