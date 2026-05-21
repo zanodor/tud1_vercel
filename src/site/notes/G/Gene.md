@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gene/","title":"Gene","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T02:31","updated":"2025-08-31T02:08"}
+{"dg-publish":true,"permalink":"/G/Gene/","title":"Gene","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T02:31","updated":"2026-05-21T05:05"}
 ---
 
 
@@ -10,7 +10,8 @@ Gén. Lásd [[G/Geny\|geny]].
 #### Magyar Adorján...
 
 ...írja ([[K/KAN#KAN folyadéknemű, örökítő anyag jelentése\|KAN folyadéknemű, örökítő anyag jelentése]] cím/alcímnél is beágyazásra került):  
-> Ugyanezen gyan, gyon szótövünknek azonban még felhangos kiejtése is volt, amely a mai jön, jönni, jő, jőni igénkben is fönnmaradott, és amelynek tájszólásokban gyön, gyűn, gyönni, gyünni alakjai is élnek, és mind amely szavak egyrészt a termékenyítő ondó kifolyására s a nemzésre, de másrészt minden kifolyásra, ki származásra és eredetre, eredésre is vonatkoztatva azután a nőre is mint szülőre, azaz tehát szintén nemzőre, is alkalmaztattak. Hozzáteendő ezekhez, hogy jenő, gyenő valamint a Jenő személynév értelme is nemző, azaz eredő, származtató volt, ami a görög és latin `genezisz`, `gente`, `geino`, `gono`, `genus`, `genero` szavak eredetét is képezte, amelyek értelme szintén, nemzés, szülés, kiszármazás, eredtetés; csakhogy e nyelvekben mind e szavak legrégibb értelme: a folyás, kifolyás jelentés már nincsen meg.  { #111b08}
+> Ugyanezen gyan, gyon szótövünknek azonban még felhangos kiejtése is volt, amely a mai jön, jönni, jő, jőni igénkben is fönnmaradott, és amelynek tájszólásokban gyön, gyűn, gyönni, gyünni alakjai is élnek, és mind amely szavak egyrészt a termékenyítő ondó kifolyására s a nemzésre, de másrészt minden kifolyásra, ki származásra és eredetre, eredésre is vonatkoztatva azután a nőre is mint szülőre, azaz tehát szintén nemzőre, is alkalmaztattak. Hozzáteendő ezekhez, hogy jenő, gyenő valamint a Jenő személynév értelme is nemző, azaz eredő, származtató volt, ami a görög és latin `genezisz`, `gente`, `geino`, `gono`, `genus`, `genero` szavak eredetét is képezte, amelyek értelme szintén, nemzés, szülés, kiszármazás, eredtetés; csakhogy e nyelvekben mind e szavak legrégibb értelme: a folyás, kifolyás jelentés már nincsen meg.  { #111b08}
+
 
 
 Kiss Dénes is felveti: [[I/Idegen\|idegen]] szavunk is az "ide jön" fogalommal függ össze?  
@@ -73,7 +74,7 @@ w5 --w6
 
 Ergo a szó a sumér szóhoz ugyanúgy passzol, mint ahhoz a téridőbeli összefüggéshez, melyet Esra Dur AKA Supplex nevű török lánynak is pedzegettem [ezen](https://qr.ae/pvbODD) Quora válaszom kommentjeiben:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/K/Kagán/#wwf26" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/K/Kagán/#7sqthe" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
