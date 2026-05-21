@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/L/","title":"L","tags":["Englishtexttranslated"],"created":"2026-01-30T18:02","updated":"2026-03-05T01:36"}
+{"dg-publish":true,"permalink":"/L/L/","title":"L","tags":["Englishtexttranslated"],"created":"2026-01-30T18:02","updated":"2026-05-21T05:01"}
 ---
 
 
@@ -75,7 +75,7 @@ Ezzel megint visszatérünk a teremtődés vonalán a nemzés és a szülés ké
 > A világfa a föld köldökét az "Atyával" köti ösze, a gyökerei az alsó világba ágaznak: "... a föld köldökén mindennek a középpontjában nő minden földi fa legmagasabbika, egy nagyon magas fenyő, amelynek csúcsa Baj ülgön (a főisten) lakásig ér," és a föld köldökéből lejárat nyílik az alsó világba, miképpen a világfa gyökerei is lenyúlnak az alvilágba.  
 > A "Szent László harca a kún vitézzel" című legenda gyakorta tárgya középkori freskófestészetünknek. A hőst a felső világ segítő erőihez kötő életfa a maksai freskón Szent László övéhez kapcsolódik.  
 > Az öv alatti szférában, az "alsó világban is alapjelként szerepel az elemzett, három négyzetből szerveződő [[L/L#L-alak\|L-alak]].
-{ #knm6t}
+{ #6ssk8q}
 
 
 Molnár V. József Világ-Virág című könyvének 93. oldalán érinti a szerves műveltség 3x3-as négyzethálóba szervezhető spirál-ábráját. A 94. oldal egyik ábrájának elemzésénél kimondja, hogy a [[S/Spiral\|spirál]] (ahogy a fentebb is említett szintén l-előhangos [[L/Lép\|lép]] szavunk származéka, a [[L/Lépcső\|lépcső]]) az L alak továbbszerveződése.  
