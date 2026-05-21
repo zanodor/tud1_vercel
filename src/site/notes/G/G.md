@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2026-04-24T09:38"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2026-05-21T05:04"}
 ---
 
 
@@ -74,7 +74,7 @@ A már kétszer említett oguz név kapcsán az [alábbi](https://qr.ae/pvAZDU) 
 
 Az óangolban 'g' hanggal jelzett formák nem eredetiek. Szinte bizonyosan nem is g-vel ejtődtek; olyan hangok lehettek, mint a fentebb taglalt török alakok.  
 Honnan tudhatjuk ezt? Onnan, hogy `sail` esetében teljesen logikus a `szél` szavunkkal való egyezés: szél nélkül nem lehet vitorlázni.  
-És akkor hogy került a 'g' hang rögzítésre? Ahogy más fentebb taglalt esetekben is, itt is a hosszú mássalhangzót kellett valahogy jelölni. Hosszú mássalhangzó hiányában 'é' lehet 'eh'-hel rögzítve és a 'g' a 'h' párja, ahogy erről sok helyen volt szó (holland nyelv kapcsán is).  
+Akkor hogy került a 'g' hang rögzítésre? Ahogy más fentebb taglalt esetekben is, itt is a hosszú mássalhangzót kellett valahogy jelölni. Hosszú mássalhangzó hiányában 'é' lehet 'eh'-hel rögzítve és a 'g' a 'h' párja, ahogy erről sok helyen volt szó (holland nyelv kapcsán is).  
 
 Hasonló esetet találunk a dán nyelvben k, sőt, akár két k ki nem ejtésére.  
 A dán nyelvben gyakori, hogy a k hang elhalkul vagy teljesen elmarad, különösen mássalhangzók között vagy szóvégen, ha nem hangsúlyos. A **Mikkel** név példája nagyon jó illusztráció erre, ahol a kk betűkapcsolatban a k hang gyakorlatilag eltűnik, és Miel-nek hallatszik.  
