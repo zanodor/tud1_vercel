@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/ÉL/","title":"ÉL","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-21T10:58","updated":"2025-07-27T14:28"}
+{"dg-publish":true,"permalink":"/E/ÉL/","title":"ÉL","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-21T10:58","updated":"2026-05-21T05:03"}
 ---
 
 
@@ -56,10 +56,10 @@ L>R változással azonos szavunkkal az [ezen](https://youtu.be/XX3h2fY2JRs) Baha
 > Wiener zsidó szótárában `él` 1. robur, vis, 2. potens, 3. deus sive verus Jova, el-elohim és él-elion, ugyanazon egy gyökből alkotott szóformák is a szent irásban az élő vagy igaz istent jelentik. ([Lásd 232. old.](zotero://open-pdf/library/items/DFI47XPY?page=232&annotation=WYDXX4E3))
 > 
 > Alting zsidó syrus grammatikájában, `eloah` az igaz isten, `elijahu` = jó vagy jehova az én istenem, syrusul `aloho` = isten. ([Lásd 232. old.](zotero://open-pdf/library/items/DFI47XPY?page=232&annotation=ATFJ4EUM))
-{ #nmych}
+{ #pww7ju}
 
 - Oláh Imre említi még ([[C/Csudaszarvas\|Csudaszarvas]] címnél bővebben is szerepelt), hogy az ősarámi keresztyén Bibliában az **Isten és a szarvas neve egyazon szó**val: **Áajloha** ill. **Aajlaha**-val fejeztetik ki. Ezen szavak ide illenek.
-Lásd még Jankovics által hozott hasonló szavakat [[A/Allah#^4q05t\|itt]].
+Lásd még Jankovics által hozott hasonló szavakat [[A/Allah#^nn5m0m\|itt]].
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/I/Isten/#4dyg6m" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
