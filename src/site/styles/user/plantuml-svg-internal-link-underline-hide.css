@@ -1,0 +1,19 @@
+svg a.internal-link {
+    text-decoration: none !important;
+}
+
+svg a.internal-link text {
+    animation: plantumlGlow 1.2s ease-in-out infinite;
+}
+
+@keyframes plantumlGlow {
+    0%, 100% {
+        fill: var(--link-color);
+        filter: drop-shadow(0 0 0px transparent);
+    }
+
+    1% {
+        fill: #000000;
+        filter: drop-shadow(0 0 4px #ffffff);
+    }
+}
