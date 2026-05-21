@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Goal/","title":"Goal","created":"2024-11-23T05:08","updated":"2025-06-07T23:00"}
+{"dg-publish":true,"permalink":"/G/Goal/","title":"Goal","created":"2024-11-23T05:08","updated":"2026-05-22T00:20"}
 ---
 
 
@@ -9,28 +9,29 @@ Kapu, gól; mondhatjuk: [[C/Cél\|cél]]. Tulajdonképpen a gól alapjelentése 
 > Gol még Kapu, Öböl, ami miatt az angolok neve Égi-Kapu jelentést is tartalmazhatott.  
 
 [[C/Cataclysm\|Cataclysm]] címnél is írtuk, hogy mivel szinte ugyanez a szó a skót angolságban d-előhangos ([[D/Dule#Dule 2)\|dool]] ill. [[D/Dule#Dule 2)\|dule]]), közös eredetük GY-előhangos ([[G/Gyúl\|gyúl]]) kellett legyen.  
-(De ugyanilyen G és D előhangos neveket Vízöntő jelentéssel is találtunk: sumér [[G/Gula#Gula 2)\|Gula]] és perzsa Dūl.)  
+(Ugyanilyen G és D előhangos neveket Vízöntő jelentéssel is találtunk: sumér [[G/Gula#Gula 2)\|Gula]] és perzsa Dūl.)  
 
 A labdarúgás (lásd [[F/Football\|football]] és [[L/Labdajáték\|labdajáték]]) nem skót találmány, hanem arra az időre tehető, mikor a kelták még nem váltak ki a magyar/hún/szkíta törzsközösségből. Péterfai János is szól a labdarúgás hun eredetéről.  
-**A futball játék alapja az íjjal való lövés, ahol a cél = gól (vegyük észre: egymás [[F/Flexió\|alaki]] változatai).**  
-```plantuml-svg
-@startuml
-left to right direction
-skinparam BackGroundColor transparent
-skinparam card {
-    roundCorner 15
-    BackgroundColor #f9f5d7
-}
-card "nyíl lövés" as start
-card "<color:#e7545c>cél</color>" as w1
-card "<color:#e7545c>gól</color>" as w2
-card "labdával lövés" as end
-
-start -- w1
-w1 -- w2 : (Sz/atem) C = K/entum = G
-w2 -- end
-@enduml
-```
+> [!check] &nbsp;
+> **A futball játék alapja az íjjal való lövés, ahol a cél = gól (vegyük észre: egymás [[F/Flexió\|alaki]] változatai).**
+> ```plantuml-svg
+> @startuml
+> left to right direction
+> skinparam BackGroundColor transparent
+> skinparam card {
+>     roundCorner 15
+>     BackgroundColor #f9f5d7
+> }
+> card "nyíl lövés" as start
+> card "<color:#e7545c>cél</color>" as w1
+> card "<color:#e7545c>gól</color>" as w2
+> card "labdával lövés" as end
+> 
+> start -- w1
+> w1 -- w2 : (Sz/atem) C = K/entum = G
+> w2 -- end
+> @enduml
+> ```
 
 Gól akkor van, amikor a Nap az egyik (égi) kapuba ér – az átjárók, ajtók, kapuk mindig égiek.  
   
