@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor nyelvelmélet/","title":"Finnugor nyelvelmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:31","updated":"2026-05-15T22:32"}
+{"dg-publish":true,"permalink":"/F/Finnugor nyelvelmélet/","title":"Finnugor nyelvelmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:31","updated":"2026-05-22T00:19"}
 ---
 
 
