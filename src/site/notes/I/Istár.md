@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Istár/","title":"Istár","tags":["Englishtexttranslated"],"created":"2024-12-18T11:25","updated":"2026-03-25T02:19"}
+{"dg-publish":true,"permalink":"/I/Istár/","title":"Istár","tags":["Englishtexttranslated"],"created":"2024-12-18T11:25","updated":"2026-05-21T04:59"}
 ---
 
 
@@ -24,7 +24,7 @@ Istár – sumerül Innin –, istennő, a termékenység legelterjedtebb istene
 > The etymology of Istar at once appears on a comparison with the cognate dialects: Sum-Akk. **Is(-tar)**, Magyar **Is(-ten)**, Kamacintzi **Esch**, Arintzi **Eisch** ('God'), Yenissei-Ostiak **És** ('heaven'); for as Castrén observes, 'Allen altaischen Völkern am meisten den himmlischen Gott Es verehren' (Die Finnische Mythologie, p. 228). He gives **Asa** and **Yzyt** as south Siberian forms. The word reappears in the well-known Etruscan **Ais-ar** ('god,' or, rather 'gods'). The tar in Is-tar = the Ak. `Tur`, 'small,' 'young' (Cf. Akk. `tur-rak` 'little woman' = daughter); Finnic `tar`, 'son,' 'child,' `ty-tar`, 'girl'; Mordvin `tsora`, 'son'; Magyar `dér`, 'girl'; Asiatic Turkic `tura`, Etruscan `etera`, 'child.' Is-tar = 'Heaven-child.' Tar is the most common ending for the names of the female mythological personages mentioned in the Kalevala, the great epic poem of Finland; e.g. Etele-tar (a daughter of the South-wind, Ilma-tar (Daughter of the Air), Kaleva-tar (the Daughter of [[K/Kaleva\|Kaleva]] = 'Hero'), Lowya-tar (the Daughter of Tuoni, the God of Death).  
 > —  
 > Istár etimológiája azonnal felderül a rokon nyelvjárásokkal való összehasonlításból: sumér-akkád **Is(-tar)**, Magyar **Is(-ten)**, Kamacintzi **Esch**, Arintzi **Eisch** ('Isten'), Yenissei-Ostiak **És** ('ég'); mert ahogy Castrén megjegyzi: "Az összes altaji nép közül a leginkább imádott az égi isten **Es**" (Die Finnische Mythologie, 228. o.). Ő **Asa** és **Yzyt** dél-szibériai alakokat ad meg. A szó újra megjelenik a jól ismert etruszk **Ais-ar** ("isten", vagy inkább "istenek") névben. A tar az Is-tar-ban = az akkád `Tur`, 'kicsi,' 'fiatal' (Vö. akkád `tur-rak` 'kisasszony' = leány); finn `tar`, 'fiú,' 'gyermek,' `ty-tar`, 'lány'; mordvin `tsora`, 'fiú'; magyar `dér`, 'lány'; ázsiai török `tura`, etruszk `etera`, 'gyermek'. Is-tar = 'égi gyermek'. Tar a Kalevalában, a finnek nagy eposzában említett női mitológiai személyiségek neveinek leggyakoribb végződése; pl. Etele-tar (a déli szél lánya, Ilma-tar (a levegő lánya; lásd [[I/Ilmatar\|Ilmatar]]), Kaleva-tar ([[K/Kaleva\|Kaleva]] = 'hős'), Lowya-tar (Tuoni, a halál istenének lánya; lásd [[L/Louhi\|Louhi]]).
-{ #obr79}
+{ #anu05s}
 
 - A magyar [[D/DÉR\|dér]] nem jelent lányt; nyilván a [[T/Tündér\|tündér]] szóból vették fel forrásai.
 
@@ -123,7 +123,7 @@ A Rómaikhoz 3.23-at az [alábbi](https://qr.ae/pNr19s) Quora oldalra érkezett 
 > Next, verse 23 says that all fall short. "Fall short" is from `υστερεω` (hustereo) which means "to be behind..., to fall short." This could be used of a runner who falls behind in a race. If we use the analogy of an archer, it could refer to his "missing the mark" when his arrow falls short of the target. "Fall short" is in the present tense in the Greek and indicates continuing action. We not only sinned in the past, becoming sinners, but we also continue to sin day by day!  
 > —  
 > Ezután a 23. vers azt mondja, hogy mindenki lemarad. A "lemarad" a `υστερεω` (hustereo) szóból származik, ami azt jelenti, hogy "lemaradni..., elmaradni". Ezt használhatjuk egy futóra, aki lemarad egy versenyen. Ha egy íjász analógiáját használjuk, ez utalhat arra, hogy "célt téveszt", amikor a nyila nem éri el a célt. A "lemarad" a görögben jelen időben van, és folyamatos cselekvést jelez. Nemcsak a múltban vétkeztünk, amikor bűnösökké váltunk, hanem nap mint nap továbbra is vétkezünk!
-{ #qf-w1}
+{ #hgq1zg}
 
 - Ezen Wiktionary-ban nem taglalt `υστερεω` mint ige nyilván asztrális értelmű, de az eredeti csillagászati kontextus nélkül mit sem ér.
 
