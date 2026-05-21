@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sol/","title":"Sol","created":"2025-11-01T13:09","updated":"2025-11-01T13:10"}
+{"dg-publish":true,"permalink":"/S/Sol/","title":"Sol","created":"2025-11-01T13:09","updated":"2026-05-21T05:07"}
 ---
 
 
@@ -12,14 +12,14 @@ A Nap neve.
 ...a szolim fejezetében írja:  
 > Már láttuk, hogy szolim-szarmata őstörzseink gabona- és szőlőtermelők is voltak és hogy náluk a gabona neve [[R/Rozs\|rozs]], [[R/Rice\|rizs]] és megfordítva szer, szor, zer, cer, zor, szerm, zern alakú szó kellett legyen, míg a lágy-szemű [[S/Szőlő\|szőlő]]é valamilyen szöl, szel, zel, szelm, szilm szóalak. Világos, hogy ezek szerint Napistenük nevei is Szel, Zor, Szer, Szol valamely névalak volt, míg Égistenük, vagyis ősistenségük neve Er, Ur, Or lehetett. Láttuk hogy a Nap ilyen neve fönn is maradott a latin-olasz `sol`, `sole` (szal, szóle) = Nap szóban és a rómaiak Sol nevű napistenségében, valamint a szanszkrit `szuria` = Nap szóban is.  
 > Dél-olasz tájszólásokban a Napot ma is nevezik `sore` néven és a szanszkrit `szuria` szó is r-es kiejtésű.
-{ #bp585}
+{ #ukarg5}
 
 
 #### Kállay Ferenc A pogány magyarok vallása...
 
 ...című könyvében a hold tárgyalásánál lényegében a [[H/Hell#Hel, hell fényes értelme\|hel, hell fényes értelmé]]ből indul ki forrásai alapján és [[H/Helios\|Helios]] nevével rokonít:  
 > Kelta nyelv dialectekben `ssaul`, `heaul`, `hail`, `sioul`, `haul`, az orosz összehasonlító nagy szótár szerint napot jelentettek (Arndt p. 359), a latin `sol`, görög [[H/Helios\|Helios]], uj görög `ilios` ugyanazt jelentik, s ha bár ezek szorosan a magyar [[E/ÉL\|él]] gyökhöz tartnak is, annyi bizonyos, hogy egyik mint másik szó csoportozatinál az alapeszme a világosság s életerő volt (melegség, tűz). ([Lásd 253. old.](zotero://open-pdf/library/items/DFI47XPY?page=253&annotation=TQZCEB8X))
-{ #6p2hw}
+{ #4l2guz}
 
 
 #### Jankovics Marcell A Nap könyve...
