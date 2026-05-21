@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pole/","title":"Pole","tags":["Englishtexttranslated"],"created":"2024-04-20T13:44","updated":"2025-08-31T02:53"}
+{"dg-publish":true,"permalink":"/P/Pole/","title":"Pole","tags":["Englishtexttranslated"],"created":"2024-04-20T13:44","updated":"2026-05-21T05:02"}
 ---
 
 
@@ -83,7 +83,7 @@ Különösen a Götz László könyvének 191. oldalán is taglalt sumér `BAL` 
 
 
 A Götz könyvének 492. oldalán adatolt csagatáj `bulga` "fölkever, megkavar, háborgat"; kazah `bolga` "ráz, fölkavar, forgat" szavak is ide tartoznak. Ami német példaként jobb lett volna talán, az a ([[W/Wife\|wife]] és [[W/Whelm\|whelm]] címnél is említett) német `wölben` = fölé ível ige.
-{ #m8zkz}
+{ #pzsina}
 
 
 A tengely mindig közepén van, amely [[F/Fél\|felez]] is, jegyezzük meg. Igen, látni kell, hogy a 191. oldalon (nálam képként [[F/Flexió\|flexió]] címnél) hozott akkád-asszír `palu` = forduló ennek a [[V/Világtengely\|Világtengely]]nek a fordulására utal, tehát a Pole 1) és 2) jelentések együtt valóak. (Az már csak bónusz, hogy a [[S/Sorsistennők\|sorsistennők]] tevékenysége, a fonás is ilyen gyökű szavakat rejt.)  
