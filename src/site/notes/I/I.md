@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2026-02-21T00:05"}
+{"dg-publish":true,"permalink":"/I/I/","title":"I","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2024-04-28T02:22","updated":"2026-05-21T05:02"}
 ---
 
 
@@ -17,7 +17,7 @@ Az én olvasatomban [[I/Iker\|iker]] I-Ker (Háza a Napnak, Keringésnek) felbon
 
 ## I betű eredete
 
-Lásd [[I/I#^vyz-i\|lentebb]] Grandpierre Atilla említése után.  
+Lásd [[I/I#^h8hh31\|lentebb]] Grandpierre Atilla említése után.  
 
 ## I becéző, kicsinyítő értelme
 
@@ -110,7 +110,7 @@ Mozgatni, meneszteni téma előjön CzF szótár küld címszavánál, ahol a la
 A(z azóta ív, ívás és segít fogalmai kapcsán is taglalt) [[J/Jó\|jó]] szavunk i-ó formából (mozgó, azaz animációra és animára, életre vonatkozó, életösztönre utaló) való eredetét lásd alant.  
 Itt még egyszer álljunk meg egy kicsit ennél. Grandpierre Atilla írásaiban visszatérő az életösztön. Ő maga is szólt a kettőskereszt rovásjelünk kapcsán. Mit látunk itt? Azt, hogy az i betűforma ismét csak magyar eredetű, hiszen az élet vonala a függőleges, és az életösztönre és (élet)körre utaló, az (ivással) életet továbbvivő ([[U/Új\|új]]ító) értelme van.  
 Ha Grandpierre Atilla tudta volna ezt, az i betű és hang ilyen alapjelentését...
-{ #vyz-i}
+{ #h8hh31}
 
 
 Ha már ívás, [[K/Kezdet és vég#^ybz6sf\|kezdet és vég]], valamint [[U/Új\|új]] címnél is említettük Fáy Elek A magyarok őshona című könyvének 236. oldalán szereplő adatsorát. Szépen szól a kör ívéről úgy, hogy az [[I/Ív\|ív]] szavunkban a nemzést is látja, hiszen a kör(jelkép)nek **íve önmagát nemzve, íva újítja magát** meg. Ezek alapján akár [[U/Új\|új]] szavunk is lehet az ív/ívás (az ívás újítás, nemzés) változata.  
