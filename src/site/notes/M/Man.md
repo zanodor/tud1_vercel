@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Man/","title":"Man","tags":["containstransclusions","containscallouts"],"created":"2026-02-09T19:05","updated":"2026-05-15T22:34"}
+{"dg-publish":true,"permalink":"/M/Man/","title":"Man","tags":["containstransclusions","containscallouts"],"created":"2026-02-09T19:05","updated":"2026-05-22T00:19"}
 ---
 
 
@@ -25,7 +25,8 @@ Jelentése ember, a Vedában az emberek atyja, leggyakrabban: **Manush pitar** (
 
 #### Magyar Adorján adata:  
 
-> Említettem, hogy az indiai mythologiában Manu emberiség-ősatyaként szerepel, ami bizonyára valamely dravida fajú néptől származó mythikus alak, viszont tudjuk azt is, hogy ősnépeink mythologiai fölfogása szerint a mondai ősatya mindig egyúttal mondai első fejedelem, király is volt. Ez, és a holdtisztelet magyarázza meg azt is, hogy ősnépek regebeli első királyai miért neveztetnek a kún szócsoport mén részébe illő néven. Például az egyiptomi I. dinasztia első királya neve is Men vagy Mena, görögösen Menesz. Úgyszintén Kréta szigete legelső regebeli királya neve is Minosz. Mindezeken kívül az egyiptomiak még egy Min nevű teremtő ősistenséget is tiszteltek, akit pedig mindig álló hímtaggal ábrázoltak. Úgyhogy én ezen Mén-, Minosz- és Mínben az őskunok Hold-ősatyaistenség elhomályosult emlékét látom még fölcsillanni, amely mén, mín szó hiszen a mi mai [[M/Mén\|mén]] = hím-ló és [[M/Mony\|mony]] = hímtag szavainkkal is egyezik. - Nem feltétlenül kell holdistenség legyen, mert a [[M/Men\|menny]] szó önmagában magasabb teremtő erőre utaló.  
+> Említettem, hogy az indiai mythologiában Manu emberiség-ősatyaként szerepel, ami bizonyára valamely dravida fajú néptől származó mythikus alak, viszont tudjuk azt is, hogy ősnépeink mythologiai fölfogása szerint a mondai ősatya mindig egyúttal mondai első fejedelem, király is volt. Ez, és a holdtisztelet magyarázza meg azt is, hogy ősnépek regebeli első királyai miért neveztetnek a kún szócsoport mén részébe illő néven. Például az egyiptomi I. dinasztia első királya neve is Men vagy Mena, görögösen Menesz. Úgyszintén Kréta szigete legelső regebeli királya neve is Minosz. Mindezeken kívül az egyiptomiak még egy Min nevű teremtő ősistenséget is tiszteltek, akit pedig mindig álló hímtaggal ábrázoltak. Úgyhogy én ezen Mén-, Minosz- és Mínben az őskunok Hold-ősatyaistenség elhomályosult emlékét látom még fölcsillanni, amely mén, mín szó hiszen a mi mai [[M/Mén\|mén]] = hím-ló és [[M/Mony\|mony]] = hímtag szavainkkal is egyezik. 
+- Nem feltétlenül kell holdistenség legyen, mert a [[M/Men\|menny]] szó önmagában magasabb teremtő erőre utaló.  
 Kállay Ferenc A pogány magyarok vallása című könyvének [284. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=284&annotation=GIL9G7RE) is írja:  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Mén/#dfi-47-xpy-gil-9-g7-re" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -60,7 +61,7 @@ Elsőként ott a [[M/Mundzuk\|mundzuk]] név és a [[M/Month\|month]] címnél e
 #### Kállay Ferenc A pogány magyarok vallása...
 
 ...című könyvében említett `minaret`, mely szót jogosan a holdhoz köti:  
-> Herbelot irja, Menath nevü bálvány szó alatt, hogy a törökök az arab `menar`, `menareh`-ból csinálták a `minaret` nevet, templomaikat az uj hold sarlója ékesiti. (t. 11. p. 402. edit. 1783.) ([Lásd 277. old.](zotero://open-pdf/library/items/DFI47XPY?page=277&annotation=PBZ22VAN)) ^hp-g3
+> Herbelot irja, Menath nevü bálvány szó alatt, hogy a törökök az arab `menar`, `menareh`-ból csinálták a `minaret` nevet, templomaikat az uj hold sarlója ékesiti. (t. 11. p. 402. edit. 1783.) ([Lásd 277. old.](zotero://open-pdf/library/items/DFI47XPY?page=277&annotation=PBZ22VAN)) 
 
 #### Tomory Zsuzsa Istenes magyar emlékeink 1. rész...
 
@@ -282,7 +283,7 @@ Lásd még [[M/Mane\|mane]], [[M/Manes\|manes]], [[M/Manu\|Manu]] és [[M/Manual
 
 ## Man alternatív Mes (Mes-Ur/Masar/Magyar) eredete
 
-Erre közben [[M/Más#Magyar > Masar (Magor) > Mag = fiú = Mas = fiú vonal\|Magyar > Masar (Magor) > Mag = fiú = Mas = fiú vonal]] cím/alcímnél is kitértünk.  
+Erre közben [[M/Más#Magyar > Masar (Magor) > Mag = fiú = Mas = (ifjú) hős vonal\|Magyar > Masar (Magor) > Mag = fiú = Mas = fiú vonal]] cím/alcímnél is kitértünk.  
 
 > [!question] &nbsp;
 > Mi van, ha a `man` szónak mégsem [[M/Men\|men]] (menny) vagy [[M/Mén\|mén]] eredete van?  
