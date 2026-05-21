@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csillag/","title":"Csillag","created":"2024-05-09T17:16","updated":"2025-08-31T02:06"}
+{"dg-publish":true,"permalink":"/C/Csillag/","title":"Csillag","created":"2024-05-09T17:16","updated":"2026-05-21T05:02"}
 ---
 
 
@@ -70,4 +70,4 @@ Dr. Gyárfás Ágnes A képjelekről – Tenger – Szabir ország c. könyvéne
 ...című művének adatsora:  
 > Az asztrológus, ugyanúgy, mint az élet egyetemességének minden hirdetője, a világot lelkesnek tudja és lépten-nyomon igazolva is látja, hogy szellem, öntudat és céltlátó értelem uralkodik az egész mindenségen s azon belül minden folyamaton és jelenségen. Ezt az egész mindenségre kiterjedő öntudatot és értelmet a hívő [[I/Isten\|Isten]]nek nevezi és ismerjük el, hogy minden más körülírás csak halvány árnyékát adhatja az egyetemesség és teljesség emberfölötti fogalmának.  
 > A csillagok – ahogy már a régi bölcsek tanították – Isten központi és egységes erejének közvetítői. Modern hasonlattal úgy foghatjuk fel ezt, hogy Isten a mindenséget éltető és fenntartó Erő áramforrása. Belőle sugárzik ki az a végtelenség térein keresztül; a csillagok pedig úgyszólván transzformátorokként és áramelosztó központokként működnek. Az erök, amelyeket sugároznak, nem belőlük magukból erednek, hanem a Lét egyetlen forrásából; a csillagokban azután az egyetemes Erő szétoszlik, külön sajátosságokat ölt magára, s a kisebb, mondjuk lokális erőközpontokból már módosulva, de mindig a nagy, egyetemes célnak megfelelően, árad tovább. A világegyetem tehát voltaképen az erők örök sugárzásának, áradásának határtalan színtere. Ma már ezt tudományosan is megérthetjük, hiszen tudjuk, hogy minden, ami van, erők sugárzásából jön létre. Maga az anyag, amelyet azelőtt valami szilárd, megfogható dolognak tartottunk, nem egyéb, mint elektronok sugárzása, s minden egyes atom-mag magában is egész kis Naprendszer, amelyben a pozitív töltésű mag körül a negatív töltésű parányok keringenek. A világ valóban csak sugárzás, erők áradása. a kozmikus sugárzásokban áradó erők bonyolult kapcsolódása, s ezekből állnak elő a hoszszabb-rövidebb élettartamú erőörvénylések, amelyek azután mint egyedek: Naprendszerek, Napok és bolygók, élőlények vagy dolgok jelennek meg.
-{ #vq-n1}
+{ #izksy2}
