@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Idegen/","title":"Idegen","created":"2023-10-20T10:02","updated":"2025-06-08T00:45"}
+{"dg-publish":true,"permalink":"/I/Idegen/","title":"Idegen","created":"2023-10-20T10:02","updated":"2026-05-21T05:07"}
 ---
 
 
@@ -31,4 +31,4 @@ Szabó Dávid egyik Quora válaszára kommentként megjegyeztem (talán [[O/Olá
 Azóta találkoztam egy újabb ilyen értelmezési kísérlettel az [[U/Ugor\|ugor]] szó kapcsán. Azon címnél az Ősi Gyökér 1974. 2-6. számában megjelentetett cikkben Badiny vagy társa `ugor` "idegen" jelentésű szláv szóként kerül bemutatásra.   
 Arról nem is beszélve, hogy nem vagyunk idegenek, csak elfelejtették (az ellenséggé válók), hogy rokonok vagyunk.  
 
-[[H/Hetero-#^va9uq\|Hetero-]] címnél talált információ szerint az idegen a más(ik fél). Azaz a fenti téridőbeli/csillagmitológiai összefüggés nagyon is jogosan kereshető.  
+[[H/Hetero-#^a5m61d\|Hetero-]] címnél talált információ szerint az idegen a más(ik fél). Azaz a fenti téridőbeli/csillagmitológiai összefüggés nagyon is jogosan kereshető.  
