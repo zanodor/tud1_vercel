@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szanszkrit/","title":"Szanszkrit","tags":["nyelvészet","Englishtexttranslated"],"created":"2026-01-30T18:16","updated":"2026-03-05T01:45"}
+{"dg-publish":true,"permalink":"/S/Szanszkrit/","title":"Szanszkrit","tags":["nyelvészet","Englishtexttranslated"],"created":"2026-01-30T18:16","updated":"2026-05-21T05:05"}
 ---
 
 
@@ -55,4 +55,4 @@ Ugyanakkor itt egy fontos dolgot meg kell említeni. Jelesül, hogy amit ma (nem
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-A könyv előző oldalán gyakorlatilag egy felhívás található, hogy tanulj meg héberül, mert a héber Bibliában olyan kódolt adatok vannak, melyekből kiolvasható a jövő... Lásd [[J/Jehova-program#^8o0tq\|Jehova-program]].  
+A könyv előző oldalán gyakorlatilag egy felhívás található, hogy tanulj meg héberül, mert a héber Bibliában olyan kódolt adatok vannak, melyekből kiolvasható a jövő... Lásd [[J/Jehova-program#^j3j8xk\|Jehova-program]].  
