@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szümplegádok/","title":"Szümplegádok","tags":["Englishtexttranslated"],"created":"2023-10-29T05:16","updated":"2026-02-24T01:07"}
+{"dg-publish":true,"permalink":"/S/Szümplegádok/","title":"Szümplegádok","tags":["Englishtexttranslated"],"created":"2023-10-29T05:16","updated":"2026-05-21T04:59"}
 ---
 
 
@@ -37,7 +37,7 @@ Lásd bevezetőt Jankovics Marcell írásaival [[S/Szikla\|szikla]].
 #### Jankovics Marcell A fa mitológiája...
 
 ...című könyvének 182. oldalán az ausztrál picsentara "álmokban" a [[T/Tejút\|Tejút]] címnél (bővebben) taglalt tejút-mitológiájáról szólva is a szümplegádok juthatnak eszünkbe:  
-> Az ausztrál picsentarák varázslója álomutazást tesz a Tejúton. Erről így számol be: "Azután felrepültem a Tejútra (Csukal), ahol egy fekete szikla volt, ahhoz repülnek mindig a lelkek. Két szikla, olyan, mintha tűz-ből lenne, legördült. Észak felé repültem. Két meg nem született gyermek (`iti-iti`) volt ott, egy üreges fában, ikrek voltak, és az anyjuk a fa mellett állt." (RÓHEIM, 1974, 55)  
+> Az ausztrál picsentarák varázslója álomutazást tesz a Tejúton. Erről így számol be: "Azután felrepültem a Tejútra (**Csukal**), ahol egy fekete szikla volt, ahhoz repülnek mindig a lelkek. Két szikla, olyan, mintha tűz-ből lenne, legördült. Észak felé repültem. Két meg nem született gyermek (`iti-iti`) volt ott, egy üreges fában, ikrek voltak, és az anyjuk a fa mellett állt." (RÓHEIM, 1974, 55)  
 
 
 Amikor Jankovics Marcell [[A/Ahet\|ahet]] címnél azt írja, hogy a Kr. e. 2300 körüli akkád pecséthengeren Samast látjuk, amint egy fűrésszel kivágja magát két hegy közül (lásd képet ott és egy másik hasonlót [[T/Téli napforduló\|téli napforduló]] címnél), ismét a szümplegádok ötlöttek fel.  
