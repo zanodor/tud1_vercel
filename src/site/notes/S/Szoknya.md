@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szoknya/","title":"Szoknya","created":"2025-02-19T01:55","updated":"2026-03-05T01:52"}
+{"dg-publish":true,"permalink":"/S/Szoknya/","title":"Szoknya","created":"2025-02-19T01:55","updated":"2026-05-21T05:08"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 A (koronázási és ég)[[P/Palást\|palást]]hoz, [[S/Suba\|subá]]hoz, [[S/Szűr\|szűr]]höz hasonlóan szakrális viselet. A Müncheni codexben általán [[K/Köntös\|köntös]]t, tehát hosszú férfi öltönyt\[?!\] is jelent.  
 Hasonló a [[S/Sátor\|sátor]] és a [[J/Jurta\|jurta]] (lásd róla inkább [[M/Magyar térrendezés\|magyar térrendezés]]) alakjához és rendeltetéséhez.  
-Nagyné dr. Fülöp Krisztina Mária élete, édesanyák lelke című Ősi Gyökér 2006/1. sz. megjelent cikkében [[S/Sátor\|sátor]]hoz hasonlítja. Lásd [[A/Anya#^sqy2h\|itt]] is.  
+Nagyné dr. Fülöp Krisztina Mária élete, édesanyák lelke című Ősi Gyökér 2006/1. sz. megjelent cikkében [[S/Sátor\|sátor]]hoz hasonlítja. Lásd [[A/Anya#^sqy2hj\|itt]] is.  
 
 Szok-Nya a [[N/Nap háza\|Nap háza]]. Mivel a Nap Háza és maga a [[H/Ház\|ház]] is a [[T/Tejútanya\|Tejútanya]] lába köze/öle/méhe, ezért a szoknya – nem mellékesen *alsóruházat*ként – nem annyira a Sarkcsillaggal és az ég palástjával azonos, hanem a [[S/Sziget\|sziget]] címnél szereplő finnségi hímzés alapján a Tejút-elágazást kell itt is figyelembe venni, ahogy a – szintén alsóruházat – [[N/Nadrág\|nadrág]] esetében.  
 
