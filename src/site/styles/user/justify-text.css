@@ -1,5 +1,18 @@
-/* reading mode */
+/* Text Alignment in Reading Mode */
 .markdown-preview-view p {
   text-align: justify;
-  text-justify: inter-word; 
+  text-justify: inter-word;	
+}
+
+/* Reading Mode - list items */
+.markdown-preview-view ul li,
+.markdown-preview-view ol li {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.markdown-preview-view ul li > p,
+.markdown-preview-view ol li > p {
+  text-align: justify;
+  text-justify: inter-word;
 }
