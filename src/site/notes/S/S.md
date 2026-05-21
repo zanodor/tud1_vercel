@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/S/","title":"S","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T16:02","updated":"2026-03-05T01:39"}
+{"dg-publish":true,"permalink":"/S/S/","title":"S","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T16:02","updated":"2026-05-21T05:03"}
 ---
 
 
@@ -72,7 +72,7 @@ Zajti Ferenc Zsidó volt-e Jézus című könyvének erre vonatkozó adatait má
 > In Jewish Hebrew there is sin and shin. Same letter, different pronunciation. Sometimes sh, other times s. Originally there was one sound: sh.  
 > —  
 > A zsidó héberben van szin és sin. Ugyanaz a betű, más kiejtés. Néha s, máskor sz. Eredetileg egy hang volt: s.
-{ #iwh70}
+{ #ng39ax}
 
 
 ## Germán š/s (sch/s azaz s és sz) hangok
