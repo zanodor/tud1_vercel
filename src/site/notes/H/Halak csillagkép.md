@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-14T04:19","updated":"2026-03-05T01:32"}
+{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-14T04:19","updated":"2026-05-21T04:59"}
 ---
 
 
@@ -59,7 +59,8 @@ A kilencedik századi Abu Mashar – akit Al Biruni csillagászati kérdésekben
 ...című könyvében tudósít róla:  
 > In his Revolution of Years, he wrote of the Creation as having taken place when "the seven planets" – the Sun, Moon, Mercury, Venus, Mars, Jupiter, and Saturn – were in conjunction in Aries, and foretold the destruction of the world when they should be in the same position in the last degree of Pisces.  
 > —  
-> Az Évek fordulata című művében úgy ír a teremtésről, hogy az akkor történt, amikor "a hét bolygó" – a Nap, a Hold, a Merkúr, a Vénusz, a Mars, a Jupiter és a Szaturnusz – együttállásban volt a Kosban, és megjósolta a világ pusztulását, amikor ugyanebben a helyzetben lesznek a Halak utolsó fokán.  { #gbrz5v}
+> Az Évek fordulata című művében úgy ír a teremtésről, hogy az akkor történt, amikor "a hét bolygó" – a Nap, a Hold, a Merkúr, a Vénusz, a Mars, a Jupiter és a Szaturnusz – együttállásban volt a Kosban, és megjósolta a világ pusztulását, amikor ugyanebben a helyzetben lesznek a Halak utolsó fokán.  { #gbrz5v}
+
 
 
 Al Biruni véleménye ide vagy oda, "Apu Magyar" jövendölése azért is tűnik helyesnek, mert a Halak a Halál szavunkkal alkot párt, így szükségszerűen, annak utolsó órájában, ha a bolygók együtt állnak, valóban történnie kell valaminek.  
@@ -112,7 +113,7 @@ Vegyük észre, hogy ez a fajta halál => élet, azaz [[O/Öl\|öl]]ni/[[H/HAL\|
 
 John M. Jenkins könyvének 139. oldalán egy váratlan megjegyzést tesz az eddig is "gyanús" [[N/Nyolc\|nyolc]]assággal kapcsolatosan, de ezt is a megszokott módon intézi el azzal, hogy itt ismét a Tejútközponttal együtt álló Napra utalhatnak:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/H/Hét/#rs4lt" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/H/Hét/#31ig9k" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
