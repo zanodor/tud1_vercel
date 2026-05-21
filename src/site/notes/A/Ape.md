@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2026-05-15T22:32"}
+{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2026-05-21T04:58"}
 ---
 
 
@@ -53,7 +53,7 @@ A vitatható adatokat szolgáltató, de Huszárik László által többet idéze
 > In the Denderah Zodiac he is called **Apes**, which means the head. He is pictured as a hawk (Naz). The hawk is the natural enemy of the serpent, and here it has on its head a pestle and mortar, indicating the fact that he shall crush the head of the enemy. In the Persian planisphere it is pictured as a wolf, and is called Zeeb, which in Hebrew means the same thing. "Plutarch translates it `Προόπτης`, Leader.  
 > —  
 > A Denderah Zodiákusban **Apes**-nek hívják, ami a fejet jelenti. Sólyomként (Naz) van ábrázolva. A sólyom a kígyó természetes ellensége, és itt a fején egy mozsár és egy mozsártörő van, ami arra utal, hogy szét fogja zúzni az ellenség fejét. A perzsa plániszférában farkasként van ábrázolva, és Zeebnek nevezik, ami héberül ugyanazt jelenti. "Plutarkhosz úgy fordítja, hogy `Προόπτης`, a Vezető.
-{ #y0w1e}
+{ #r0hewd}
 
 
 Egy Helena Lehman nevű írónő Bullinger (feledésbe merült?) könyvét dolgozta fel több könyvben. Nála a (másért) ismerősebb Apis név jön elő:  
@@ -68,7 +68,7 @@ Egy Helena Lehman nevű írónő Bullinger (feledésbe merült?) könyvét dolgo
 > A denderai zodiákusban a Canis Majorhoz ábrázolt sólyom külön "Naz Seir" felirattal van ellátva, és a Sirius csillagot jelképezi a Canis Majorban. Egyiptomiul a "Naz" azt jelenti, hogy "Elindult" vagy "Elküldve", míg a "Seir" azt jelenti, hogy "Herceg" vagy "Főnök". Ezért a "Naz Seir" cím azt jelentheti, hogy "küldött herceg". Mivel a "Naz" és a "Zar" egyaránt "Herceget" jelent héberül, a Naz Seir azt is jelentheti, hogy "Hercegek Hercege", ami a királyok Királyának, Jahsuának megfelelő jelzője!  
 > ...
 > A "Szíriusz" csillagnév az egyiptomi `Seir` és a héber `Zar` szóból származik, és mind a "Seir", mind a "Zar" jelentése "fejedelem".
-{ #29uf6}
+{ #o0j1hk}
 
 - Persze mivel a [[D/Dendera\|dendera]]i zodiákus már lehet görög hatású, ezért az egyiptominak tartott szó lehet görög.
 
