@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Ruha/","title":"Ruha","created":"2024-04-18T18:33","updated":"2026-03-05T01:47"}
+{"dg-publish":true,"permalink":"/R/Ruha/","title":"Ruha","created":"2024-04-18T18:33","updated":"2026-05-21T05:06"}
 ---
 
 
@@ -15,7 +15,7 @@ Nyilván a német `Rauch` = füst is eredetileg lélegzet lehetett és mivel az 
 
 ... című könyvében írott sorai mögött nyilván nem kell a ruha szavunkból eredeztetni akarni:
 > A [[K/Köpeny\|köpeny]] általában a védőhatalmat jelképezi. Akit a köpenyemmel eltakarok, az a védelmem alatt áll. (A katolikus egyház ezért a Boldogasszonyt külön mint "köpenyeges Máriát" is szokta bizonyos képeken ábrázolni, s ilyenkor az óriási méretű Madonna köpenye alatt tömegeket mutat be, akik ott védelmet keresnek.) Viszont ha a köpenyemet megszaggatom, akkor ezzel azt jelképezem, hogy szegény, a más védelmére szoruló ember vagyok. A zsidó temetési rítusba így siklott bele ősi lélekhiedelmek nyomán a ruha megszaggatásának szokása. A halottak szellemei ugyanis egykönnyen válhatnak az élő ember ellenségeivé. Ezért félre kell azokat vezetni. Meg kell a nevet változtatni bizonyos esetekben, és szegényeknek, "tépett köntösűeknek" kell magunkat tettetnünk, hogy a kóborló szellem ránk ne ismerjen a szegénységünkben.
-{ #ukipf}
+{ #aq7wg4}
 
 
 Ezen szavakkal egyező a nepáli `rūkha` = fa, roma `ruk` = fa, hiszen a Tejútfáról származnak a lelkek. Ru-Ga/Ru-Ha a [[N/Nap háza\|Nap háza]]. A Tejút(anya) és főleg annak méhe a Nap Háza, ahogy [[H/Ház\|ház]] címnél kifejtettük.  
