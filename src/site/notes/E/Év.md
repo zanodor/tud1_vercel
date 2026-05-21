@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Év/","title":"Év","tags":["Englishtexttranslated"],"created":"2025-10-09T18:17","updated":"2025-10-10T21:56"}
+{"dg-publish":true,"permalink":"/E/Év/","title":"Év","tags":["Englishtexttranslated"],"created":"2025-10-09T18:17","updated":"2026-05-21T05:07"}
 ---
 
 
@@ -54,4 +54,4 @@ Az az időszak, amely ahhoz szükséges, hogy a Nap egy adott csillagtól ismét
 
 ## Maja haab
 
-A [[M/Maja naptár#^6w0y5\|maja naptár]] címnél taglalt maja `haab` a mi éves (365 napos) szoláris naptárunknak megfelelő időszámítással készült naptár elnevezése. Ha a hehezetet eltávolítjuk, [[E/EB\|eb]] és `év` is kiadódik.  
+A [[M/Maja naptár#^27tjjs\|maja naptár]] címnél taglalt maja `haab` a mi éves (365 napos) szoláris naptárunknak megfelelő időszámítással készült naptár elnevezése. Ha a hehezetet eltávolítjuk, [[E/EB\|eb]] és `év` is kiadódik.  
