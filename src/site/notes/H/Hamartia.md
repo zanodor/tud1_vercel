@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hamartia/","title":"Hamartia","tags":["containscallouts","Englishtexttranslated"],"created":"2025-11-06T19:08","updated":"2025-11-06T19:09"}
+{"dg-publish":true,"permalink":"/H/Hamartia/","title":"Hamartia","tags":["containscallouts","Englishtexttranslated"],"created":"2025-11-06T19:08","updated":"2026-05-21T04:59"}
 ---
 
 
@@ -71,13 +71,21 @@ Nem lenne dőreség el[[H/Hamar\|hamar]]kodott cselekedetnek gondolni a szó há
 
 [[H/Hamis\|Hamis]] szavunk gyöke is egyező hamartia-jéval. [[F/False\|False]] és [[F/Fail\|fail]] szavaknál felfedtük, hogy a hamisság, hiba és kudarc mind rokon fogalmak, a bevégzettség, teljesség, egészség és siker ellentétei, azaz fényhiányosak.  
 Az [alábbi](https://qr.ae/pNr19s) Quora oldalra érkezett válaszban is szerepel a bűn jelentéssel megadott hamartia:  
-> The verse begins, For all have sinned. Forms of the word "sin" are used more than fifty times in the first eight chapters of Romans, so it is important to understand what the word means. "Sinned" is translated from `αμαρτανω` (hamartano) which means "to miss the mark" This verb is related to the noun `αμαρτια` (hamartia) the most comprehensive term for moral and spiritual failure. The term was used by Greeks when an archer missed his target. The meaning is that our spiritual target is God and His will for our lives. God had established that all have missed the mark (1:18-3:20). In 3:23, "sinned" is in the aorist (past) tense. The first time a person sins, he becomes a sinner in need of salvation.  
+> The verse begins, For all have sinned. Forms of the word "sin" are used more than fifty times in the first eight chapters of Romans, so it is important to understand what the word means. "Sinned" is translated from `αμαρτανω` (`hamartano`) which means "to miss the mark" This verb is related to the noun `αμαρτια` (`hamartia`) the most comprehensive term for moral and spiritual failure. The term was used by Greeks when an archer missed his target. The meaning is that our spiritual target is God and His will for our lives. God had established that all have missed the mark (1:18-3:20). In 3:23, "sinned" is in the aorist (past) tense. The first time a person sins, he becomes a sinner in need of salvation.  
 > —  
-> A vers így kezdődik: Mert mindnyájan vétkeztek. A "bűn" szó formái több mint ötvenszer szerepelnek a Rómaiakhoz levelek első nyolc fejezetében, ezért fontos megérteni, hogy mit jelent ez a szó. A "vétkeztem" a `αμαρτανω` (hamartano) szóból fordítható, ami azt jelenti, hogy "célt tévesztek" Ez az ige a `αμαρτια` (hamartia) főnévvel áll kapcsolatban, amely a legátfogóbb kifejezés az erkölcsi és lelki kudarcra. A kifejezést a görögök használták, amikor egy íjász célt tévesztett. A jelentése az, hogy a mi szellemi célpontunk Isten és az Ő akarata az életünkre vonatkozóan. Isten megállapította, hogy mindenki célt tévesztett (1:18-3:20). A 3:23-ban a "vétkezett" aoristában (múlt időben) szerepel. Amikor az ember először vétkezik, akkor válik bűnössé, akinek szüksége van a megváltásra.  
+> A vers így kezdődik: Mert mindnyájan vétkeztek. A "bűn" szó formái több mint ötvenszer szerepelnek a Rómaiakhoz levelek első nyolc fejezetében, ezért fontos megérteni, hogy mit jelent ez a szó. A "vétkeztem" a `αμαρτανω` (`hamartano`) szóból fordítható, ami azt jelenti, hogy "célt tévesztek" Ez az ige a `αμαρτια` (hamartia) főnévvel áll kapcsolatban, amely a legátfogóbb kifejezés az erkölcsi és lelki kudarcra. A kifejezést a görögök használták, amikor egy íjász célt tévesztett. A jelentése az, hogy a mi szellemi célpontunk Isten és az Ő akarata az életünkre vonatkozóan. Isten megállapította, hogy mindenki célt tévesztett (1:18-3:20). A 3:23-ban a "vétkezett" aoristában (múlt időben) szerepel. Amikor az ember először vétkezik, akkor válik bűnössé, akinek szüksége van a megváltásra.  
+
+Peter McWilliams Life 101 című könyvében írja, hogy a régi rómaiaknál a nyílvesszővel való célt tévesztést szintén bűnnek tartották (Az íj és a nyíl ösvényében foglaltaknak meg is felel):  
+> One of the best examples of how strong the taboo against making a mistake has become is the use of the word sin. In ancient Roman times, sin was a term used in archery. It meant simply to miss the mark. At target practice, each shot was either a hit or a sin. If you sinned, you made corrections and tried again.  
+> —  
+> Az egyik legjobb példa arra, hogy a hibázás elleni tabu milyen erős lett, a bűn szó használata. Az ókori római időkben a bűn az íjászatban használt kifejezés volt. Egyszerűen azt jelentette, hogy eltévesztettük a célt. A céllövészetnél minden lövés vagy találat volt, vagy bűn. Ha vétkeztél, kijavítottad a hibát, és újra megpróbáltad.
+{ #1z1sp4}
+
+- Na most, ehhez annyi megjegyzést kell tenni, hogy a rómaiak nem voltak kimondott íjászok és a görögöktől vették át ezt is, akik pedig a szkíta-hunoktól értesülhettek arról, hogy mi számít bűnnek (a kiinduló persze a [[K/Kereszt\|kereszt]] címnél is taglalt téma: Isten tanítása szerint élni).
 
 [[M/Miss#Miss 2)\|Miss]] és [[K/Khamor\|Khamor]] (valamint [[B/Bűn\|bűn]], [[C/Cél\|cél]] és [[K/Kereszt\|kereszt]]) címnél taglaltuk a témát bővebben. A lényeg az, hogy a görög `hamartia` = bűn valójában nyilazás értelmű kell legyen az akkád Kumaru és a héber `hamor`, `hamorim` ilyen jelentései alapján. A Nap a Tejúton haladva elér majd egy pontra (északi Nyilazó csillagkép, azaz [[I/Íj csillagkép\|Íj csillagkép]]), amely különös jelentőségű. Ahogy [[B/Bűn\|bűn]] címnél is közben közbevetettük, a bűn fogalma a nyári napfordulón stafétát átvevő [[H/Hunor\|Hunor]] személyéhez kötendő (ahogy a hamartia is [[K/Khamor\|Khamor]] < Hunor fogalmából látszik kiindulni).  
 
-Amikor egy YouTube-felületre kommentben írtam, annak során érdekes beszélgetés alakult ki:  
+Egy YouTube-felületen történő kommentcsere során érdekes beszélgetés alakult ki:  
 > [!|noicon]
 > > [[B/Bűn\|Bűn]] szavunknak nincs köze a bön valláshoz. A bűn szavunk alanyi jogú és ősibb, a magyar nyelv alaprétegéhez tartozhat, hiszen évköri értelme van. A bűn a [[B/Buta\|buta]] és [[S/Sötét\|sötét]] szavak szinonimájaként az árnyékos félévre és annak kezdőpontjára utal. (Az angol [[S/Sin\|sin]] = bűn is – nyilván latin úton – a sinylődik, senyved, szenved fényhiányos értelmeket fedi fel.)  
 > 
@@ -87,6 +95,6 @@ Amikor egy YouTube-felületre kommentben írtam, annak során érdekes beszélge
 > 
 > Erre én:  
 > > Amire én gondoltam, az a latin `sine` = nélkül: fényhiányos. És tessék a szinusz-görbéről, annak nem latin eredetéről is gondolkodni. A céltévesztést illetően pedig a görögöknél hamartia jelenti ugyanezt, mely pedig akár a héber `hamor`-on keresztül a Khamor és Hunor nevekből ered (a hunok meditációs eszköze volt az íj és a nyíl, valamint két csillagképük). A latin szavak – melyeket köszönünk – közül is utóbbi évköri, a Nap ekliptikán való süllyedésére utal.  
-- Az Alexander által említett szavak közül a latin `peccatum` és `peccare` = vétkezni, és a lapsum szavakat még vizsgálni kell. Ahogy írtam, a `lapsum` nyilván a nappálya esésére utal (v.ö. angol [[F/Fall\|fall]] = ősz), illetve mondható, hogy lapos szavunkból ered. A peccatum gyökét ugyanilyen okkal a [[B/BUK\|BUK]] szavunkkal lehet megfeleltetni.
+- Az Alexander által említett szavak közül a latin `peccatum` és `peccare` = vétkezni, és `lapsum` szavakat még vizsgálni kell. Ahogy írtam, a `lapsum` nyilván a nappálya esésére utal (v.ö. angol [[F/Fall\|fall]] = ősz), illetve mondható, hogy lapos szavunkból ered. A peccatum gyökét ugyanilyen okkal a [[B/BUK\|BUK]] szavunkkal lehet megfeleltetni.
 
 Legutóbb [[E/Errand\|errand]] és [[E/Errant\|errant]] szavaknál is szóba került a célt tévesztés.  
