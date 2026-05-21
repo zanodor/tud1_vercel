@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2026-03-05T01:27"}
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-15T10:43","updated":"2026-05-21T04:56"}
 ---
 
 
@@ -150,7 +150,7 @@ Pap Gábor egy másik Ne Legyen Áldozatos videóban visszatért a témára. [Ez
 És akkor innentől, 9:04-től megint precessziózik: "Na most, ha én a precessziós mozgás révén a Ráknál tartok, azt a (betlehemezés másik "kellék-állata,") az Ökör fejezi ki. A kis éven belül, és ott is a csillagképi értelemben vett Rák a magyar népi csillagnevek között is "Jászol szamárkákkal." (A latinban Asellus Borealis és Australis, viszont az Ökröt már nem tartják nyilván, az csak a mi mesei anyagunkban lelhető fel.) Ha a kettő itt szinkronba azaz fedésbe kerül egymással, akkor azért van ez, hogy az ökör ellentétesen, azaz szembe néz a szamárral, mert precessziósan az egyik irányban itt tartok az Ökörnél és ellentétes irányban, a kis éves ciklust (ahogy mondja "kicsi életemet") tekintve ott tartok a Szamárnál, és kettő között ott a [[J/Jászol\|jászol]]. A jászol ott van ebben a csillagképben, mint köd. Ez a [Praesepe](https://en.wikipedia.org/wiki/Beehive_Cluster) = Jászol. \[...\] Amit tehát mi játéknak gondolunk, annak minden eleme, tartalma teljesen konkrét csillagászati közlést tartalmaz. Ehhez már csak azt kell hozzászámolni, ami azóta – azaz 2020 év óta – csúszott, azt meg pillanatok alatt hozzá lehet számolni \[ez a mondata is bizonyítja, hogy a Bak-Bak szinkron ezek szerint 2000 éve volt meg.\]. Tehát itt sokkal többről van szó, mint arról, hogy mi most egy múltbeli eseményre emlékeznénk: ez az esemény most is zajlik \[ez egy élő, folyamatos rendszer\]. Ez egy jelenlévő születés."  
 [Ezen](https://qr.ae/pNSqWL) Quora válaszra kommentként írtam is:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/J/Jászol/#l9-wk" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/J/Jászol/#1f4p2o" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
