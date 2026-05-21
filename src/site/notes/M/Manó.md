@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Manó/","title":"Manó","created":"2024-11-23T05:21","updated":"2024-11-23T05:21"}
+{"dg-publish":true,"permalink":"/M/Manó/","title":"Manó","created":"2024-11-23T05:21","updated":"2026-05-21T05:06"}
 ---
 
 
@@ -22,7 +22,7 @@
 
 ...alábbi adatát [[M/Manes\|manes]] címnél is szerepeltettük:  
 > A magyar `manó` (malus genius, daemon) összevethető az avesztai `manah`, `mano`-val, melyek jelentése: 'geist, sinn', azaz: szellem, kísértet, Ielkület.
-{ #xtn2o}
+{ #36h5rx}
 
 
 A polinéz/hawaii `menehune` kb. erdei kobold, manó: de [[M/Mana\|mana]] ill. menny és – a másutt erdő jelentéssel is ismert – hun szó is megvannak benne.  
