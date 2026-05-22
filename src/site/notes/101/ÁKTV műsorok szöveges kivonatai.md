@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-05-15T22:37"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-05-22T03:33"}
 ---
 
 
@@ -12,8 +12,8 @@
 > 
 > Mivel az archive.ph-s linkek **2026. április végétől?** bizonyos böngészőkben vagy böngésző beállításoknál csak feladványok után engednek tovább a videók egyes részeinek megtekintéseihez, innentől leginkább csak archiválás szempontjából érdekesek; érdemesebb **a Share Note-os linkeket kell használni** az olvasáshoz és az időbélyegre kattintásokkal való kalauzoláshoz.
 
- > [!info]- <span style="font-weight:normal"><small> Kattintsd e sorra vagy oldalt a fülecskére további megjegyzésekért!</small></span> &nbsp;
-> <small>**Megjegyzés**: A mesterséges intelligencia Google Geminis összefoglalói a Google (YouTube) által automatikusan rendelkezésre bocsátott feliratozás alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli problémák, melyek mindegyikét nem veszem észre, hogy javíthassam. Kisbetűs vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag", "az előadó szerint", amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattintva ellenőrizni a videón, hogy mi szerepelt az eredeti hang- ill. képanyagban.</small>
+ > [!info]- <span style="font-weight:normal"><small> Kattints e sorra vagy oldalt a fülecskére további megjegyzésekért!</small></span> &nbsp;
+> <small>**Megjegyzés**: A mesterséges intelligencia Google Geminis összefoglalói a Google (YouTube) által automatikusan rendelkezésre bocsátott feliratozás alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli hibák, melyek mindegyikét nem veszem észre, hogy javíthassam. Elírt vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag", "az előadó szerint", amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattintva ellenőrizni a videón, hogy mi szerepelt az eredeti hang- ill. képanyagban.</small>
 > 
 > <small>**Megjegyzés 2**: 20250922-től 20251114-ig az időbélyegre kattintásokkal a videó az eredeti Videa linkeken ment, mivel ez idő alatt Rumble-ra feltett videók linkjeit nem mindig játszotta le, de továbbra is elérhetők maradtak, azaz ha a Videa videók eltávolításra kerülnek, a Rumble-on vissza lehet nézni a videókat, viszont a Videa videókra igazított időbélyegekre kattintás módi nem fog működni.</small>
 > 
@@ -23,6 +23,10 @@
 
 **2026:**
 
+<small>[260521CN! MI ÖSSZEESKÜVÉS](https://rumble.com/v7a6vb6-260521cn-mi-sszeeskvs-kubnyi-tams-ktv.html)  [https://share.note.sx/5szuvgn5](https://share.note.sx/5szuvgn5) [https://archive.ph/raoKq](https://archive.ph/raoKq)</small>
+<small>[260520CN! SUB ROSA](https://rumble.com/v7a54oo-260520cn-sub-rosa-kubnyi-tams-ktv.html)  [https://share.note.sx/o0d8aucg](https://share.note.sx/o0d8aucg) [https://archive.ph/HFjJy](https://archive.ph/HFjJy)</small>
+<small>[260519CN! EGY CSODA](https://rumble.com/v7a38q8-260519cn-egy-csoda-kubnyi-tams-ktv.html)  [https://share.note.sx/yvr083zc](https://share.note.sx/yvr083zc) [https://archive.ph/m1RIB](https://archive.ph/m1RIB)</small>
+<small>[260518CN! POLMARK](https://rumble.com/v7a1fzc-260518cn-polmark-kubnyi-tams-ktv.html)  [https://share.note.sx/zqo16g0j](https://share.note.sx/zqo16g0j) [https://archive.ph/K4M1F](https://archive.ph/K4M1F)</small>
 <small>[260515CN! ÉLÜNK AZ ÜDVTÖRTÉNETBEN](https://rumble.com/v79wfew-260515cn-lnk-az-dvtrtnetben-kubnyi-tams-ktv.html)  [https://share.note.sx/gr03247p](https://share.note.sx/gr03247p) [https://archive.ph/AixKx](https://archive.ph/AixKx)</small>
 <small>[260514CN! TERROR ELLEN](https://rumble.com/v79upg4-260514cn-terror-ellen-kubnyi-tams-ktv.html)  [https://share.note.sx/bm4bd6z2](https://share.note.sx/bm4bd6z2) [https://archive.ph/aIlfS](https://archive.ph/aIlfS)</small>
 <small>[260513CN! JÖNNEK A LENIN-FIÚK](https://rumble.com/v79sz7c-260513cn-jnnek-a-lenin-fik-kubnyi-tams-ktv.html)  [https://share.note.sx/8anx5pdo](https://share.note.sx/8anx5pdo) [https://archive.ph/ToS0P](https://archive.ph/ToS0P)</small>
