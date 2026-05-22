@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2026-03-05T01:43"}
+{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2026-05-23T00:35"}
 ---
 
 
@@ -42,7 +42,10 @@ Ez a névváltozat is mutatja, hogy [[O/Ország\|ország]] szavunknak több íro
 
 A Falvay Károly Nagyboldogasszony című könyvének 302. oldalán Marija Gimbutastól vett szarvassal kapcsolatba hozott sumér istennő nevét nem sikerült eddig megtalálni. [[D/Damkina\|Damkina]] vagy Ninhursag lesz. Közös bennük, hogy mindketten En-Ki nejei. Márpedig Bobula Ida The Great Stag című dolgozatában Enki-Ea istenséggel hozatott kapcsolatba szarvas, de nekünk ünő kell.  
 ![assets/Ninhursag_image2.png|fix_dark fix_light|840](/img/user/N/assets/Ninhursag_image2.png)  
-Az interneten talált képen viszont két szarvas is van. [[T/Turul#Turul és Csudaszarvas\|Turul és Csudaszarvas]] cím/alcímnél és [[J/Janus\|Janus]] címnél is szerepeltetve lett.  
+Az interneten talált képen viszont két szarvas is van.
+{ #260103}
+
+- [[T/Turul#Turul és Csudaszarvas\|Turul és Csudaszarvas]] cím/alcímnél és [[J/Janus\|Janus]] címnél is szerepeltetve lett.
 
 #### Bakos Attila A Duna Evangéliuma...
 
