@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2026-03-23T23:30"}
+{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2026-05-23T00:34"}
 ---
 
 
@@ -168,7 +168,7 @@ Az ókori Egyiptomban is négy Napot azaz Napminőséget különböztettek meg: 
 Másutt Jankovics Marcell A Nap könyvének 204. oldalán Héraklész és Apollón párosáról szól, mint hanyatló és emelkedő Nap féléves urairól. A 222. oldalon bővül a kör: a Héraklésszel szemben álló halott Napistennek beillő alakok közül Augeiász és Eurüsztheusz neve is említésre kerül.  
 
 [^4]: Lábjegyzet:  
-Persze az [[E/Égi egyenlítő\|égi egyenlítő]] (ahol az Orion övcsillagai ma vannak) is felezi az eget:  
+Persze az [[E/Égi egyenlítő\|égi egyenlítő]] (ahol az Orion övcsillagai ma vannak) is felezi az eget (Jankovics Marcell A Nap könyve című könyvében írja):  
 Tekintve, hogy az égi Egyenlítő a Rák- és a Baktérítő közt, épp középen felezi az ég gömbjét, és áthalad az Orion csillagképen, a triász legfőbb személyére, Mithrasra úgy nézhettek fel, mint az Egyenlítő urára.  
 Másutt:  
 A Nap éves útja a valóságban, de a mitopoétikus felfogás szerint is, két félkörre, félévre szakad. A napéjegyenlőségi pontok szerint egy téli és egy nyári fél évre, a napfordulók szerint az emelkedő és a hanyatló Nap fél esztendejére.  
