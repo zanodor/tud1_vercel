@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mongol/","title":"Mongol","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-24T16:46","updated":"2026-05-08T02:24"}
+{"dg-publish":true,"permalink":"/M/Mongol/","title":"Mongol","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-24T16:46","updated":"2026-05-23T00:34"}
 ---
 
 
@@ -108,7 +108,9 @@ Egy, az Ősi Gyökér 2008/2. sz. megjelent cikkben a Szerkesztőség (talán Gy
 > Ezután ezen arktikus kultúrkör jellegzetes vonásait tárgyalja Ränk. Kiemeli pl., hogy a [[M/Medve\|medve]]kultusz az egész sarki régióban általánosan elterjedt, az obi-ugorokon kívül megtaláljuk az ajnuknál, a giljákoknál, sőt még az amerikai arktikus népeknél is. Nem lehet tehát totemizmussal magyarázni és egy bizonyos népcsoporthoz kötni (l. id. m. 38-39. old.). Hangsúlyozza azt is, hogy az arktikus népek közül csak néhánynál találhatók valóságos égi istenfogalmak – pl. az obi-ugoroknál és a jurák-szamojédoknál –, de ezeknél is csupán csökevényesen. Ez arra vall, hogy délebbi steppei szomszédaiktól kerültek hozzájuk ezek a képzetek. Az égi istenség fogalma, a jó és a rossz megkülönböztetése az ősi elő-ázsiai kultúrákból került el először a steppére, majd onnan – de már csak töredékesen – a néhány említett arktikus csoporthoz (l. Ränk 1968, 42-43. old.).  
 
 Másutt még ennyit ír:  
-> Az embertan meghatározása szerint a vogulok, osztjákok, [[S/Szamojéd\|szamojéd]]ok az ún. uráli típusba tartoznak, amely mongoloid, paleoszibirid és őseuropid csoportok keveredéséből alakult ki, de a mongoloid-paleoszibirid elemek dominanciájával, azaz sokkal közelebb áll a mongoloidokhoz mint az europidokhoz.  
+> Az embertan meghatározása szerint a vogulok, osztjákok, [[S/Szamojéd\|szamojéd]]ok az ún. uráli típusba tartoznak, amely mongoloid, paleoszibirid és őseuropid csoportok keveredéséből alakult ki, de a mongoloid-paleoszibirid elemek dominanciájával, azaz sokkal közelebb áll a mongoloidokhoz mint az europidokhoz.
+{ #260102}
+
 
 ### Mongoloid vonások az magyar uralkodó osztályon belül
 
