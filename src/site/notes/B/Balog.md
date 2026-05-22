@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated"],"created":"2024-10-23T20:07","updated":"2026-05-21T04:57"}
+{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-10-23T20:07","updated":"2026-05-23T00:34"}
 ---
 
 
@@ -28,7 +28,7 @@ Aztán eszembe jutott, nem-e a Balog név kereshető black és a vlach ([[O/Olá
 Balog Zoltán Árpád nevű cikkíró az [alábbi](https://web.archive.org/web/20181125193004/http://www.matrozvar.hu/Balogeredete.pdf) oldalon arra a következésre jutott, hogy ha a hátterében nem a balkezesség van, akkor a jellemzett személy járására vonatkozott és azt jelentette, hogy az illető a bal lábára sántít, biceg.  
 Ha csak ennyit írt volna, már akkor is arra gondoltam volna, hogy igen: **a bal oldal a vak, fekete, fene oldala az életkörnek** és ezzel legalább a [[B/Black\|black]] etimológiáját ki tudtam volna pipálni. De hogy a blak/vallach/vlach/oláh (és olasz, valamint walesi) népek is efféle ominózus-fekete jelzőt viselnének népük neveként? Aligha. Azaz a válasz a kérdésünkre kissé összetettebb.  
 
-[Ezen](http://members.chello.at/heinz.pohl/Ortsnamen_E.pdf) szláv toponímákat német nyelvűre cserélést taglaló tanulmányban amikor megláttam egy szlovén folyónevet németre fordítva...  
+[Ezen](http://members.chello.at/heinz.pohl/Ortsnamen_E.pdf) szláv toponimákat német nyelvűre cserélést taglaló tanulmányban amikor megláttam egy szlovén folyónevet németre fordítva...  
 - Slovenian Bela – German Vellach (Velach 'white river')
 
 ...akkor ötlött fel (annak figyelembevételével, hogy vajon hogy került a -ch végződés oda a német szóba?), hogy a magyarosított [[O/Oláh\|oláh]] [[O/O\|o]] hangja valóban eredetileg B/P lehetett, ahol a kiinduló [[B/Balog\|Balog]]-**Orion** mivel **az évet ketté osztó ponton van**, lehet fehér és fekete értelemmel társított.  
@@ -111,8 +111,18 @@ Ezen a ponton váltsunk vissza arra a kérdésre, hogy a románok cigányok-e?
 Ezen székely-magyar szót Vladimir Orel is felhozta Albán etimológia szótárában az albán `vigan` = óriás címnél, melyre azt írja, hogy ez egy a balkánon vándorszóként üzemelő szó kovács jelentéssel. Nos, Vig-An valóban lehet ilyen értelmű, hisz az Ég Tüzét gerjeszti. Arról pedig szintén volt szó, [[K/Kovács\|kovács]] címnél, hogy a kovács és az óriás fogalma együvé tartozik.  
 Nagyon sok szól most már amellett, így a románok nem is rómaiak, hanem [[R/Roma\|romá]]k! A római eredetet a Habsburgok találhatták ki, Péterfai János szerint is:  
 > Mondani sem szükséges, hogy a mai Romun, Rümun, a magyar Román népnév egy szűk csoport kitalálása. Nagyjából a XIX. sz. közepén adták ezt a nevet annak a népességnek, amely addig [[O/Oláh\|Vlach]] néven nevezte magát. Osztrák császári pénzen hamisították meg a románok, a mai néven románnak nevezett népesség, saját ősi nevét és kultúráját, a vlach nevet feladva. A balkáni Aromun népnevet változtatták Romunra, majd ezt a névformát összekötötték Róma nevével.  
-> ...  
-> A cigányok jelentős része a Balkánon keresztül Kárpátiába menekült. Sok cigány él Romániában, ahol a Romák száma ma 7 millió körüli. A Roma és Román, továbbá Roma városa neve igen közeli forma, valójában mindnek azonos jelentése van. Ebből az is következik, hogy a román népnév nem Róma nevéből, hanem a cigányok Roma népnevéből is eredhet. A romák nyelve indoeurópai, egy kicsit latinizálni felettébb könnyű. Remélhetőleg senkinek nem okoz problémát a románok cigány rokonsága? A magyarok és cigányok valóban rokonok, valójában apa-fia a két nép közötti viszony, ami India legrégebbi történetéből adatolható.  
+> \[...\]  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/R/Rom/#qmu4r4" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> Rom az ősi magyarok Egyiptomának saját neve. A Ró a Nap neve, Rá, Ré, Rí és egyéb magyar nyelvű formái is vannak. Ró, vagyis a Nap országa a magyar Egyiptom, amely Kr.e. 800 körül pusztul le. Ebbe a térségbe érkeztek a Romák, több évszázad múlva, ahol sokáig éltek, a koptokkal, vagyis a magyarok utódaival, nagy békességben. Ezek a Cigányok a rómaiak által üldözésre kerültek, ami miatt szétfutottak Európába, főleg a Peloponnészoszra. Az angolok által adott Gypsy név az Egi-Pitom magyar név torzulása. Eszerint a cigányok kétszeresen magyar eredetűek. Egyszer Indiából kijőve, és egyszer Egyiptomból kijőve.  
+> 
+> A cigányok jelentős része a Balkánon keresztül Kárpátiába menekült. Sok cigány él Romániában, ahol a Romák száma ma 7 millió körüli. A Roma és Román, továbbá Roma városa neve igen közeli forma, valójában mindnek nincs azonos jelentése. Ebből az is következik, hogy a román népnév nem Róma nevéből, hanem a cigányok Roma népnevéből is eredhet. A romák nyelve indoeurópai, egy kicsit latinizálni felettébb könnyű. Remélhetőleg senkinek nem okoz problémát a románok cigány rokonsága? A magyarok és cigányok valóban rokonok, valójában apa-fia a két nép közötti viszony, ami India legrégebbi történetéből adatolható. 
+
+</div></div>
+
 - Pontosítsunk: a rumunoknak nem saját elnevezése a vlach.
 
 A valahol Gyárfás Ágnes is említett mesebeli cigány tehát nem az lehet, amire gondolt. [[C/Cigány\|Cigány]] könnyen lehet a Hunor-Orionra utaló név is (bár valójában a [[S/Szikan\|szikan]] népnevet sajátították ki).  
@@ -122,7 +132,7 @@ A valahol Gyárfás Ágnes is említett mesebeli cigány tehát nem az lehet, am
 > —  
 > Néhányan, akik a Quora válaszokkal vesznek részt, megpróbáltak a szövegből egy bulák nevű török nép előéletére következtetni az erdélyi felföldön. Azok valamikor a székelyek érkezése előtt hozták volna be török ábécéjüket az eurázsiai sztyeppéről Erdélybe, akik addig szintén az eurázsiai sztyeppéről származó török eredetű nomád nép voltak. Az érvelés furcsasága az érvelők kritikai gondolkodásának hiányából fakad. Nem értem, mi akadályozta meg a székely népet abban, hogy az eurázsiai síkságon tartózkodva ugyanúgy elsajátítsa a török rúnai ábécé ismeretét, mint a bulaq nép? Miért csak a hegyekbe való áttelepülés után tanulta meg egy török nomád nép egy másik eurázsiai síksági török nomád nép betűit használni?  
 - A kommentes üzenetek cseréje közben kiderül, hogy Kézai amikor azt írja, hogy oláhok betűit használni kezdték volna, az nem a rovás, hanem a latin betűs ábécé lett volna. Viszont ezzel Clings kimondatlanul is azt bizonyítaná, hogy a románok nem szláv/cirill betűs írást használtak, ahogy [[R/Románia\|Románia]] címnél Dr. Kazár Lajos Kérdések a román történészekhez c. írásában is szerepel[^3]. <br/>
-Tehát véleményem szerint ha volt ezeknek a vlachoknak írása (amennyiben Kézai Clings által említett bizánci forrásai igaznak minősülnének), akkor ez az írása palóc írás vagy akár a későbbi törökös írás lehetett. Még az is elképzelhető, hogy ebben a korban (10-12. század) a vlach palóc is volt identitása szerint. A mai román egy olyan vlach múltra vezeti vissza magát, ami nem is igazán volt az övé[^4]. Hasonló a török és iráni esethez is.  
+Tehát véleményem szerint ha volt ezeknek a vlachoknak írása, akkor ez az írása palóc írás vagy akár a későbbi törökös írás lehetett. Még az is elképzelhető, hogy ebben a korban (10-12. század) a vlach palóc is volt identitása szerint. A mai román egy olyan vlach múltra vezeti vissza magát, ami nem is igazán volt az övé[^4]. Hasonló a török és iráni esethez is.  
 
 Azt se feledjük itt el, amit nem említenek, hogy a [[B/Bulgár\|bulgár]] név is lehet Bulag-Ár (illetve Balog-Úr). A bolgárok pedig szlávosodott és török elemekkel vegyült hunok-magyarok voltak (de csak utóbb). Az a feltevés, hogy a székely-magyar rovásírás török eredetű lenne, ez olyan, hogy a skandinávoktól is tanulhattuk volna, meg akár a hottentottáktól is.  
 Ami pedig a szóalakot illeti, megint csak a [[P/Palóc\|palóc]] változata a Balog és a Bulak. A palócok meg akkor már inkább szlávok mint törökök, mely szlávok meg eredetileg székely-hunok, Tóth Gyula adatai alapján (lásd [[S/Szláv\|szláv]]). Körbeértünk.  
