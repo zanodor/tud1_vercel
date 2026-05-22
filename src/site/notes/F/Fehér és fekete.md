@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya","containscallouts"],"created":"2023-11-17T03:47","updated":"2026-04-17T22:47"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya","containscallouts"],"created":"2023-11-17T03:47","updated":"2026-05-23T00:34"}
 ---
 
 
@@ -336,7 +336,7 @@ Annyi kiegésztést a fentiekhez hadd tegyek, hogy a [[S/Scarabeus\|scarabeus]] 
 ## Szláv adatok – mindig hasznosak
 
 Több címnél szerepeltek az alábbiak:  
-Amikor [ezen](http://members.chello.at/heinz.pohl/Ortsnamen_E.pdf) szláv toponímákat német nyelvűre cserélést taglaló tanulmányban megláttam egy szlovén folyónevet németre fordítva...  
+Amikor [ezen](http://members.chello.at/heinz.pohl/Ortsnamen_E.pdf) szláv toponimákat német nyelvűre cserélést taglaló tanulmányban megláttam egy szlovén folyónevet németre fordítva...  
 - Slovenian Bela – German Vellach (Velach 'white river')
 
 ...akkor ötlött fel (annak figyelembevételével, hogy vajon hogy került a -ch végződés oda a német szóba?), hogy a magyarosított [[O/Oláh\|oláh]] [[O/O\|O]] hangja valóban eredetileg B/P lehetett, ahol a kiinduló [[B/Balog\|Balog]]-**Orion mivel az évet ketté osztó ponton van**, lehet fehér és fekete értelemmel társított.  
