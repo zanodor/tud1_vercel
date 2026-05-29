@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-05-23T00:18"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-05-29T17:54"}
 ---
 
 
@@ -23,6 +23,9 @@
 
 **2026:**
 
+<small>[260528CN! A HÁLÓZAT](https://rumble.com/v7aiffc-260528cn-a-hlzat-kubnyi-tams-ktv.html)  [https://share.note.sx/pqdtbdco](https://share.note.sx/pqdtbdco) [https://archive.ph/1R9uw](https://archive.ph/1R9uw)</small>
+<small>[260527CN! BORSÓ A FALON](https://rumble.com/v7agrcq-260527cn-bors-a-falon-kubnyi-tams-ktv.html)  [https://share.note.sx/estafjx6](https://share.note.sx/estafjx6) [https://archive.ph/1BSYY](https://archive.ph/1BSYY)</small>
+<small>[260526CN! RENDŐRTERROR 2026](https://rumble.com/v7af3ai-260526cn-rendrterror-2026-kubnyi-tams-ktv.html)  [https://share.note.sx/i6lkqdgn](https://share.note.sx/i6lkqdgn) [https://archive.ph/Mxhcv](https://archive.ph/Mxhcv)</small>
 <small>[260522CN! PÜNKÖSDI PIÓ-PRÓFÉCIA](https://rumble.com/v7a8m8w-260522cn-pnksdi-pi-prfcia-kubnyi-tams-ktv.html)  [https://share.note.sx/cjpp345l](https://share.note.sx/cjpp345l) [https://archive.ph/bGYu9](https://archive.ph/bGYu9)</small>
 <small>[260521CN! MI ÖSSZEESKÜVÉS](https://rumble.com/v7a6vb6-260521cn-mi-sszeeskvs-kubnyi-tams-ktv.html)  [https://share.note.sx/5szuvgn5](https://share.note.sx/5szuvgn5) [https://archive.ph/raoKq](https://archive.ph/raoKq)</small>
 <small>[260520CN! SUB ROSA](https://rumble.com/v7a54oo-260520cn-sub-rosa-kubnyi-tams-ktv.html)  [https://share.note.sx/o0d8aucg](https://share.note.sx/o0d8aucg) [https://archive.ph/HFjJy](https://archive.ph/HFjJy)</small>
