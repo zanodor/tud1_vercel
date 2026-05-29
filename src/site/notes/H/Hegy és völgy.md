@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2026-05-15T22:34"}
+{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2026-05-29T22:43"}
 ---
 
 
@@ -26,7 +26,7 @@ De ha jobban megnézzük, HeGy H>V szabályos váltással és [[L/L#L vendéghan
 
 ### KUT(a)
 
-[[K/Kutya\|Ku-Ta]] a hegy, [[K/Kút\|kút]] az inverze.  
+[[K/Kutya\|Ku-Ta]] a hegy ill. közeli alak a szakrális geometrikus [[H/Hut\|hut]]/[[K/Kota\|kota]]/[[H/Ház\|ház]], és ezek inverze a [[K/Kút\|kút]] és [[G/Gödör\|gödör]].  
 
 ### FEN (fenn) – fenék
 
