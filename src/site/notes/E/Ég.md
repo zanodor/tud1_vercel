@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ég/","title":"Ég","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-10-18T17:53","updated":"2026-05-21T04:56"}
+{"dg-publish":true,"permalink":"/E/Ég/","title":"Ég","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-10-18T17:53","updated":"2026-05-29T22:41"}
 ---
 
 
@@ -132,7 +132,7 @@ Az [alábbi](http://www.holladaypaganism.com/glossary/-GLOSS.HTM) oldalon viszon
 > Akko, hölgy. Finnugor. Nyilvánvalóan a svéd Akka finnugor formája.  
 - [[N/Négy\|Négy]] címnél volt szó a lapp Áhkká női istenekről, melyek éppen négyen is vannak: valójában egyetlen [[N/Napistennő\|Napistennő]] négy leány-aspektusáról lehet szó. Lásd még [[E/Ekva\|ekva]] címnél írottakat is.
 
-Na most ezen nevek mellé még az az érdekes, hogy az északi germánban `ikke` = nem, semmi.  
+
 
 Az [[A/AN, ÁN#An- fosztóképző\|an- fosztóképző]] cím/alcímnél is említett skandináv ikke szó párjának vehető a perzsa `hič` = semmi. Negáló előtéttel orosz `nicsevo` = semmi. Más szláv szavak is ilyenek, -evo nélkül, de azok inkább a nincs orrhang nélküli változatai, vagy a [[N/Nyug\|nyug]] gyök alakváltozatainak tekinthetők.  
 
