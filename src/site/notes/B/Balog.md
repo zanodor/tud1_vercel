@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-10-23T20:07","updated":"2026-05-23T00:34"}
+{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-10-23T20:07","updated":"2026-05-29T22:42"}
 ---
 
 
@@ -104,7 +104,7 @@ Igaz ugyan, hogy [[K/Kovács\|kovács]] címnél írottak szerint a burjátokná
 > —  
 > A burját kovácsok, akárcsak a sámánok, fekete és fehér emberekre oszlottak. A fekete kovácsoktól nagyon féltek, mivel állítólag képesek voltak felfalni az emberek lelkét.  
 
-Egyénként nemcsak sámánok, hanem mágusok között is megvolt a fekete<>fehér bontás: a Fáy Elek A magyarok őshona című könyvében emlitett [[K/Khamor\|Khamor]] tűzpapok ellentéte lehet a Magar vagy hasonló nevű tűzpap. És mit látunk megint? Hogy a Hunor/Orion > Khamor = Hámor és [[H/Hammer\|hammer]] = kalapács, mely a kovács/Orion szerszáma. Azaz a kovácsság valóban mágikus-szakrális foglalkozás volt. És magyarok a ma lenézett cigányokra bízták!  
+Egyénként nemcsak sámánok, hanem mágusok között is megvolt a fekete<>fehér bontás: a Fáy Elek A magyarok őshona című könyvében említett [[K/Khamor\|Khamor]] tűzpapok ellentéte lehet a Magar vagy hasonló nevű tűzpap. És mit látunk megint? Hogy a Hunor/Orion > Khamor = Hámor és [[H/Hammer\|hammer]] = kalapács, mely a kovács/Orion szerszáma. Azaz a kovácsság valóban mágikus-szakrális foglalkozás volt. És magyarok a ma lenézett cigányokra bízták!  
 Ezen a ponton váltsunk vissza arra a kérdésre, hogy a románok cigányok-e?  
 [[F/Farrier\|Farrier]] = patkókovács címnél is feltettük a kérdést, hogy a hindi `lohār` = kovács is a lóval, patkójával kapcsolatos, vagy a [[L/LU\|LU]] itt olyan fényt jelentő szó, mint a [[K/KU\|KU]] a kovács szavunkban? Hát az ind szóval teljesen azonos lowari cigányok neve kovácsot jelent-e?  
 [[V/VIK\|VIK]] címnél előjött a székely, de (román?)cigánynak is mondott kovácsműhely `vihnye`, `vinnye` neve, mely Tűz Háza értelmű lehet.  
