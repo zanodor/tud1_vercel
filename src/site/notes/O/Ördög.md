@@ -1,18 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-03T12:19","updated":"2026-03-25T02:19"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-03T12:19","updated":"2026-05-29T22:41"}
 ---
 
 
+<!--section: 1-->
 # Ördög
 
+<!--section: 2-->
 #### A Magyar Néprajzi Lexikon adatsora:
 
+<!--section: 2.1-->
 > Epikus néphagyomány, amely azt a gondolatot fejezi ki, hogy a teremtés két ellentétes erő együttműködésének az eredménye. Ezt a két teremtő erőt az Isten és az ördög személyesíti meg. Kettőjük közül az ördög áll közelebb a formálandó anyaghoz, Isten csak az utasítást, a szellemi irányítást adja (→ világ teremtéséről szóló monda). Az ördög hatásköre nem is terjed túl az anyagon, életet nem tud adni (→ ember teremtése). Jelentős számú mondában utánozni kívánja Isten teremtő tevékenységét, de működése vagy sikertelen lesz, vagy pedig valamilyen kártékony lényt teremt hasznos helyett (→ légy teremtése, a), más alkalommal pedig csupán a formai imitáció sikerül, de az sem tökéletesen (Isten lovat és tehenet teremtett, az ördög utánozni akarta, de az ő teremtménye se ló nem lett, se tehén, hanem bivaly). Az ördög szerepe a [[D/Dualisztikus eredetmagyarázó mondák\|dualisztikus eredetmagyarázó mondák]]ban mindig negatív Isten teremtésével szemben, még a közös tevékenység alkalmával is. Az ördögtől származtatják a mondák a világon létező valamennyi rosszat: a betegséget, a dohányt, a kártyázást, puskát, verekedést, a szeszes italokat, kártékony állatokat stb.  
 
 Ipolyi Arnold Magyar mythologia című könyvének 102. oldalától taglalja a nevet, míg Kandra Kabos Magyar Mythologia c. könyvének (a PDF) 121. oldalától van szó róla.  
 
+<!--section: 3-->
 #### Kállay Ferenc A pogány magyarok vallása...
 
+<!--section: 3.1-->
 ...című könyvében tévesen iráni eredetűnek veszi a szót (a szintén nem iráni sátánt itt épp ki is felejtette):
 > Valamint az isten, ármány, meny, manó, ugy az ördög szó is az iráni később persa vallásból terjedett el. ([Lásd 304. old.](zotero://open-pdf/library/items/DFI47XPY?page=304&annotation=ZPENJ5PJ))
 >
@@ -91,8 +96,10 @@ Végül:
 > Az indo-scytha pénzfelirások Ordagno, Ardogno, Ardochris, Ardoghro, Ardokro, Ardethro formákban mutatják fel az ördög szót, a magyarázók eltérnek ugyan egymástól az értelmezésben, de abban egyeznek, hogy azt isten névnek veszik, némelyek Marsnak, mások napnak, ismét mások [[S/Siva\|siwa]] vagy ördögi névnek veszik s mindezt mellőzve, az észak-ázsiai nyelveket, a zend-sanskrit s persa nyelvekből hiszik kimagyarázhatónak. ([Lásd 315. old.](zotero://open-pdf/library/items/DFI47XPY?page=315&annotation=BPRZBR3Z))
 - Nem igazán tartom értékesnek, de Ördögnő kiolvasható.
 
+<!--section: 4-->
 ## Ördög név magyar elemzése
 
+<!--section: 4.1-->
 A kézenfekvő Ur-Dug mellett még valamiféle Árt-Ág/Ért-Ég/Arat-Ág/Urud-Ég/Urad-Ég formában is lehetne nézni.  
 
 Kállay is foglalkozik ezen -ég végződés magánhangzó harmóniával változásos -ög eshetőséggel:
@@ -100,16 +107,22 @@ Kállay is foglalkozik ezen -ég végződés magánhangzó harmóniával változ
 - Az [[A/Árész\|Árész]] címnél hozott Mars neveknek megfelel (de ez már a szkíta-germán szóalkotási mód). Ördög ismételten egy olyan név, amibe több névalak és jellemző kerülhetett beépítésre.  
 Egyébiránt a szlávban is megvan; pl. a rusz-k-ij név ragja megfelel a németnek.  
 
+<!--section: 5-->
 #### Péterfai János írja:  
 
+<!--section: 5.1-->
 > Az Ördög nevet a szumerben is kimutatták\[?\], Szent Úr jelentéssel. Az Ör – Úr, a Dög Dug volt, aminek a jelentése Szent, amint mondják. De a [[D/DUG\|Dug]] nem feltétlenül azonos a [[D/Dög\|Dög]] szóval, bár a halott teste a család számára szent is lehetett. Valójában szent is volt[^1].  
 
+<!--section: 6-->
 ## Ördög pozitív (semleges) és negatív megítélése
 
+<!--section: 6.1-->
 Az ördög pozitív Ur-Dug jelentéséhez hasonlóan az [[A/Asag\|Asag]] démonnévvel (nyilván hozzákapcsolás útján) egyező a sumérben `azag` = fényes, tiszta, szent szó, Varga Zsigmond ([[T/Tree\|tree]] címnél is szereplő) adata szerint.  
 
+<!--section: 7-->
 #### Nagy Róbert Hol van a kutya elásva...  
 
+<!--section: 7.1-->
 ...című, az Ősi Gyökér 2007/1. számának 76. oldalán szereplő cikkének alábbi passzusát olvasva azt is gondolhatjuk, hogy az ördög valójában nem más mint Ur Dug, azaz Kutya:  
 > Mikortól vált a kutya az ördög cimborájává? Nem kell sokat kutakodni, hogy felismerjük, ennek az okát. Elég megvizsgálnunk a boszorkányperek jegyzőkönyveit. Az inkvizíciós tárgyalások legfőbb vádlottjai a boszorkányok voltak, akiket szinte minden esetben kapcsolatba hoztak valamilyen misztikus kutyával. Az egyházi demonológia szerint a boszorkány az ördöggel, a sötétség, a pokol urával köt szövetséget. A "fekete kutya" az ördögöt, a hitetlenséget személyesíti meg. A népi hiedelemben a **kutya-ördög szavak egymás szinonimái**, azonos rosszalló, megvető értelmű jelentéssel bírnak.  
 
@@ -123,8 +136,10 @@ Ezek alapján [[D/Damn\|damn]] a [[D/Demon\|demon]] szóval kell kapcsolatos leg
 
 [[K/Kontár\|Kontár]] (=[[H/Hunter\|hunter]]!) címnél is szerepelt, hogy az ördög képzet kiterjedt volt az ősfelfogásban: egyrészt ellenpárja a fényt szülő Istennek és a fény-árnyék rendszerben a [[K/Kutya\|kutya]] szerepében is ő jelenik meg (mindkét esetben a jó és a gonosz ellentételezésében az utóbbi megszemélyesítője[^2]), valamint csillagászati szempontból az [[A/Alvilág\|alvilág]] (az [[E/Égi egyenlítő\|égi egyenlítő]] alatti tér) ura is lehet.  
 
+<!--section: 8-->
 #### Kandra Kabos Magyar Mythologia...  
 
+<!--section: 8.1-->
 ...című könyvéből való adata szerint az ördög eleinte még nem gonosz illetve a kereszténység során sem alakult át teljesen gonosszá erre bizonyíték Ördög(h) személy- és helyneveink:  
 > Mikor az Ördög embört akart teremteni, kiformászta az embört, de nem bírta talpra állitani; akkor oda mönt az Isten, megrukta a talpát Ádámnak:, Kej föl Adám! Ádám mögmozdult. Mögén mögrugta, Ádám fölült. Harmacczò mögrukta: Kej föl, Ádám! Adám főkelt (Egyházas-Kér.).  
 > Az Ördög csinálta, Jézus ébresztötte föl Illést; mögrukta Illést, úgy kelt föl (Temesköz-Lörincefalva Torontálban.  
@@ -140,8 +155,10 @@ A könyv 38. oldala hoz olyan adatot, hogy az "ördög csinálta az első malmot
 A Wikipédián elérhető Ősmagyar vallás cikkben is említik (László Gyula őstörténész, Vargyas Lajos és Kiszely István antropológus a régi magyar hitvilág és gyakorlat keleti elemeinek vizsgálata során megállapítják), hogy az ördög számba vehető, mint teremtő (demiurgos).  
 Na most éppen erről van szó. A kovácsisten Orion és az ördög lényegében egy és ugyanaz. Tehát amikor arról van szó, hogy az ördög csnálta az első malmot, az azt jelenti, hogy a [[H/Hamlet malma\|Hamlet malmá]]t Orion hajtja: azzal, hogy űzi a Csudaszarvast, forog az ég, múlik az idő. Minden mitológia csillagászatilag értendő.  
 
+<!--section: 9-->
 #### Bakos Attila A Duna Evangéliuma...
 
+<!--section: 9.1-->
 ...című könyvének 214. oldalán **ősi istennek mondja az ördögöt**:  
 > A XI. századtól kezdődően az uralomra jutó kereszténység tudatos, ártó tevékenységeképpen az ősi hit tisztességes képviselőit, a javasokat, gyógyítókat, bábákat, tudókat, táltosokat, sámánokat kiáltották ki [[B/Boszorkány\|boszorkány]]oknak. A vád lényege az ördöggel (valójában az előző világkorszak ősi Istenével való tantrikus) nemi kapcsolat létesítése. Innen van a boszorkány névben az egyiptomi ősnépünknél [[B/Basztet\|Baszt]] (a szerelem istennője), vagy lndiában még nem közönséges értelemben vett baszorkány, azaz basz-úr-kan, az Istenség őstantrikus kedvese, papnője.  
 
@@ -158,8 +175,10 @@ Kandra Kabos könyvében másutt is előhozza:
 - Ugyanezen szóalaknak tekinthető a kínai `értóng` = gyerek, mely szűz jelentésű is lehet! Tán Nagy Géza is kun alatt han-kínait értett? Egy valószínűnek látszik: a szűz értelem nem a Tejútanyára utal (annál is inkább, mert a kínai `érzi` = fiú (fia valakinek), kölyök). <br/>
 Na most, ezen azonosítás azért érdekes, mert [[S/Sothis\|Sothis]] is lehet Szűz olvasatú, és ez pedig a szerelem- (és egyben háború)istennő [[S/Szíriusz\|Szíriusz]] neve. Szíriusz és Orion összetartoznak.  
 
+<!--section: 10-->
 #### Magyar Adorján Csodaszarvas...  
 
+<!--section: 10.1-->
 ...című könyvében így felel az Ipolyi Arnold, Kandra Kabos és Czuczor-Fogarasi szótár által fel nem tett kérdésre:  
 > Népmeséinkben a [[B/Boszorkány\|boszorkány]]okat "ördöngős [[S/Szüle\|szüle]][^3]"-nek is szokták nevezni.  
 > Ördöngős = ördögös, amiértis a mai városiak e szót tévesen írták néha "ördöngős"-nek, hosszú ő-vel. Régi nyelvünkben ugyanis ördöng, még régebben `urdung` = ördög. E régi szavunk tulajdonképeni értelme: kereng, kering. Ezen kering kőrös szócsoportunkbeli szavunk pontos őstörök csoportbeli megfelelője az ugyanazon értelmű tering, amely a "Teringette"! káromkodásban maradott fönn. Az "ette" csak az értelem feledésbemenése után keletkezett hanghasonulás.  
@@ -177,16 +196,22 @@ A Fehér M. Jenő Középkori magyar inkvizíció című könyvében írottak (
 > Orsolya özvegy vallomása ugyanebből a perből a Hakit-űzés szertartását is elmondja. Szerinte a sámán, amikor a beteg házába lépett, botjával a négy sarok felé sújtott és következő tartalmú mondókát mondotta: "Hakit, Hakit, távozz ebből a házból" és hogy "sem föld alatt, sem föld fölött ne legyen semmi hatalmad..." (416).  
 > Valószínűleg ugyanezt a szertartást végezték akkor is, amikor a ház vagy betegszoba négy sarkából port kapartak össze és szélbe hajítva, valami ismeretlen szellemnek nevét mondogatták a sámánok, vagy sámánnők. Botokkal felzaklatták a, sarkok csendjét, mintha ott bujkáló szellemek után nyomoztak volna. Ezek a klasszikus "exorcizmus", ördögűzés tipikus szertartásának nyomai.  
 
+<!--section: 11-->
 ### Ördög mint Isten
 
+<!--section: 11.1-->
 Bakos Attila fentebb ősi istennek mondja az ördögöt. Nos valójában valóban csak kis i betűs istenség, ahogy alant kiderül.  
 
+<!--section: 12-->
 #### Ördög mint tűzisten
 
+<!--section: 12.1-->
 Fentebb már szerepeltek Magyar Adorján adatai az ördög tűzistenséggel való azonosításáról. Az ördög Isten segítője a teremtésben. Talán ez az összefüggés mutat rá az Isten-Sátán nevek közös STN-vázukban megmutatkozó ellentét-azonosságára.  
 
+<!--section: 13-->
 #### Magyar Adorján Kérdések...  
 
+<!--section: 13.1-->
 ...című könyvében még megtoldja ([[V/Varázs\|varázs]] címhez is beágyazva):  
 > A magyar varázslat szót némelyek **az ördög szláv `vrag` nevé**ből származtatják. Helyes! De mikép magyarázható akkor, hogy a már említett belső-afrikai oromo nyelvben is `varanto` = varázslat? A magyarázatot néprajzi és hitrege-tani adatok segítségével meg is adhatjuk:  
 > Ősnépünk egyik törzse a tűzistent – aki egyúttal a varázslat istene is volt – többek között Varik, Varag, Farik, Ferig néven is nevezte. De a görög [[P/Prométheusz\|Prométheusz]] (mely nevet előre megfontolnak \[valóban\] tévesen magyaráznak, mert például a szanszkrit nyelvben a tűzgyújtó szerszám nyele neve pramata \[inkább: `pramantha`\]) és Foroneusz tűzisten nevei mind a tűzzel függenek össze, ugyanúgy, mint a finn `perkele` = ördög szó, valamint a tüzet, forróságot, égést jelentő számtalan p-r, b-r, v-r, f-r szóalakok, mint például `forró`, `perkel`, `perzsel`, `pörköl`, `vörös`, `vér`, `bor`, `parázs`, olasz `baragia` = parázs, szumir `bar` = tűz, német `Brand` = égés, görög `pürosz` = tűz, stb. Kiemeljük itt a magyar `pír`, görög `pürosz`, magyar `perkel`, finn `perkele` és különösen a magyar [[P/Parázs\|parázs]] és [[V/Varázs\|varázs]] szavaknak egymással való egyező voltát. Az ősnépek tűzgyújtó szerszámai egyike az volt, amikor egy darab, rendesen laposabb deszka alakú puhafadarabot egy sebesen pörgetett, keményfából való bottal mintegy fúrva, a tüzet a botnak a puhafába való fúródása közbeni erős súrlódás hozta létre. E tűzsszerszámnak fadarabja nőnemű, botja pedig hímnemű jelképnek tekintetett. Ezen szerszámmal függenek össze a magyar [[F/Furkó\|furkó]] = bot és fúrni, pörgetni, forgatni szavaink, továbbá a latin `virga` = bot, `verto` = forgat, német `bohren` = fúrni és számtalan más szó még. Hogy mindez azután az avar [[B/Barkó\|barkó]] és [[V/Várhun\|varkun]] neveket viselt őstörzsünknek egészen a történelemelőtti ősidőkben gyökerező tűzkultusza révén mily beláthatatlan hitregei és művelődéstörténeti távlattal bír, azt itt természetesen ismét nem fejtegethetjük, csak azt említjük meg, hogy a fönti Varag, Farik, Verik **ördög, azaz tűzistennevek** a magyar `furkó` és a latin `virga` szavakkal a legközvetlenebb összefüggésben vannak, illetve a tűzfúró szerszám aktív részét az ősök megszemélyesítvén a tűzistent többek között Forron, Feren, Farank, \[Firenk?\] Feres, Perezs, stb. alakú neveken nevezték. Mindezen összefüggések így bár kaotikusnak látszanak talán, de mihelyt a természettisztelő ősvallás világában magunkat kissé kiismerni kezdjük, az összefüggések törvényszerű és logikus voltát is azonnal felismerjük, valamint a dolgok fonalát is könnyen követni tudjuk. Ezek után a szíves olvasó már sejteni fogja azt is, hogy a hajdan tűztisztelő [[P/Perzsa\|perzsá]]k persa, peresz vagy farszi neve honnan származik.  { #x5j80s}
@@ -243,18 +268,24 @@ w6 -right- w7
 </div></div>
 
 
+<!--section: 14-->
 ### Ördög mint Sátán
 
+<!--section: 14.1-->
 Ez az összefüggés illetve igazsága univerzális. Mindenki így tudja, hogy azonosak. De miképp? Hát úgy, hogy a sötét képviselői. A [[S/Sötét oldal\|sötét félév]]ről viszont kevesebben tudnak. Arról is, hogy a női princípium hogyan kapcsolódik a sötéttel.  
 
+<!--section: 15-->
 #### Antal István Tündéres, derengő...
 
+<!--section: 15.1-->
 ...című Ősi Gyökér 2005/4. sz. megjelent cikkében írja:  
 > Baráthosi Balogh Benedektől (Turáni regék és turáni mondák a világ teremtéséről) úgy tudom, az ördög nőnemű. De a mesékben is gyakran olvasni koponya-kunyhóban ücsörgő vén boszorkányról.  
 - Valóban, a [[B/Boszorkány\|boszorkány]] is idetartozik, de a fentiek és alább szereplő adatok alapján azt mondani, hogy az ördög nőnemű, így nem lehet. Nem pontos.  
 
+<!--section: 16-->
 ## Ördög: fekete kutya; Isten: fehér kutya
 
+<!--section: 16.1-->
 Nagy Róbert Hol van a kutya elásva? című az Ősi Gyökér 2007/1. sz. megjelent cikkében írja:  
 > A kutya, az alvilág birodalmához tartozó, halottak lelkét kísérő, azt hordozó állat lehetett. Ezek pozitív töltésű fogalmak, akár a kutya szolgálatai az életben. Mégis ismerjük azokat a kifejezéseket, melyekben az eb, mint az ördög szinonimája szerepel. "Kutya szülte – ördög szülte, ebadta – ördög fatyja", stb.  
 > Káromkodásainkban, átokszórásainkban az ördög szó mellett leginkább a kutya, vagy az eb szavunk szerepel jelzőként. Mindez a XVII.-XVIII. századi szitok, átok és káromkodások világára a legjellemzőbb ("azt a kutyafáját", "eb ura fakó").  
@@ -300,43 +331,54 @@ Könnyen lehet, hogy a fekete kutya a sötét félévre, a fehér a világosra u
 
 Hasonló esetet látunk másutt: az [[I/Imp\|imp]] címnél említett kalevalai `impi` (mely dévaj tündér, (kis) ördög értelemben jön elő az angolban) egészen azonos a manysi [[E/EB\|eb]]et/kutyát jelentő `aamb`, `öömp` = eb szóhoz (de [[E/Ember\|ember]] szavunk előrésze is ilyen).  
 
+<!--section: 17-->
 ## A szarvas Isten- és ördög-kapcsolata
 
+<!--section: 17.1-->
 Lásd fentebb. Lásd még alant.  
 
+<!--section: 18-->
 ## Ördögábrázolások
 
+<!--section: 18.1-->
 Gyárfás Ágnes Eretnekség a korai középkorban című, ![assets/Ördög_image4.jpeg|fix_dark fix_light right|300](/img/user/O/assets/%C3%96rd%C3%B6g_image4.jpeg)  az Ősi Gyökér 2011/3. sz. megjelent cikkében írja, hogy az ördög ábrázolásának formavilága a turániak pecséthenger-kultúrájáról terjedt el. A pecséthengereken ábrázolt, az emberi mivoltából kifordult lények [[P/Pata\|patá]]val és farokkal jelennek meg. Így szerepel azóta is a sátán, az ördög minden művészi alkotásban, mesében, rémtörténetben, legendában.  
 Gyárfás Ágnes [[V/Vízi Péter és Vízi Pál mese\|Vízi Péter és Vízi Pál mese]]: Nemzeti hősmonda mesében elbeszélve című az Ősi Gyökér 2011/4. sz. megjelent cikkében közöl (lásd képet [[P/Pokol\|pokol]]) egy általam nehezen kivehető pecséthenger képét amelyen ördögöt láthatunk két szarvval.  
 
+<!--section: 19-->
 #### Jankovics Marcell...
 
+<!--section: 19.1-->
 ...még előtte írja erről ([[S/Szarvas\|szarvas]] és más címeknél is szerepelt):  
 > A szólás, hogy "letörte a szarvát", az ősi bikaáldozatra utal (Héraklész Akhelóiosz fölötti győzelme e szólás mítoszi forrása), s ugyancsak halál-jelentése lehetett eredetileg az e szólással látszólag éppen ellentétes értelmű felszarvazásnak". A túlvilágra költöző uralkodót, hőst, áldozatot ékesítették föl a csak **"istent" megillető szarvak**kal. Így illett a már túlnan lévők sorába. (Zolnay 1983: 272 skk.) Újabb kori értelmét a kifejezés annak köszönheti, hogy az elhunyt asszonyait utóda örökölte meg – nem egyszer épp az a személy, aki életét is kioltotta. Az alvilág fejedelmét, **az ördögöt (krampuszt) és a boszorkányt szarvas lénynek képzelték**, ezért voltak "szarvas" \[szarv-as\] állatok a kísérőik (bakkecske, fülesbagoly). A sorba illik maga a szarvas is (gör. `keraosz` "szarvas").  
 
 A pre-keresztény istenség-ábrázolást Nagy Medvében kereső ...
 
+<!--section: 20-->
 #### Greg Rigby The God Secret...
 
+<!--section: 20.1-->
 ...című könyvében írja (a [[V/Vadkan\|vadkan]] és [[S/Szarvas\|szarvas]] címnél is említett Tuan mac Carill nevű hőssel megesett (éppen a fentebbi témához jól kapcsolódó szarv-vesztéses) átváltozással kapcsolatos gondolatai[^5] után):  
 > It is perhaps significant that the Bear, Boar and Plough attributions became prevalent following the introduction of Christianity into the lands of the Celts. The Church would not have wanted to admit any affiliation between the Godhead and a prominent group of northern stars. They would therefore have encouraged designations for the constellation that were related to its secular appearance and would have sought to condemn any reference to a horned God. Echoes of this strategy are still evident in the Church's enduring threat of Hell fire and eternal damnation for anyone found consorting with the Devil (The Horned One).  
 > —  
 > Talán jelentős, hogy a Medve, a Vadkan és a Szántó jelző a kereszténység kelták földjén való megjelenése után vált uralkodóvá. Az egyház nem akarta volna elismerni az istenség és az északi csillagok egy kiemelkedő csoportja közötti kapcsolatot. Ezért a csillagkép olyan elnevezéseit szorgalmazták volna, amelyek a csillagkép világi megjelenéséhez kapcsolódnak, és igyekeztek volna elítélni a szarvas Istenre való utalást. E stratégia visszhangjai még ma is nyilvánvalóak az egyháznak abban a tartós fenyegetésében, hogy a pokol tüzét és örök kárhozatát fenyegeti mindazok számára, akiket az ördöggel (a szarvakat viselővel) cimborálónak találnak.  
 
+<!--section: 21-->
 ## Ördög: ellenség, Isten: barát
 
+<!--section: 21.1-->
 A fentebbi témák folytatását/kibontását lásd [[B/Barát és ellenség\|barát és ellenség]] címnél, ahol a [[B/Bal és jobb\|bal és jobb]] oldal is szóba került.  
 Ezen mondat is szerepelt ott:  
 Menet közben kiderül, hogy ördög szavunkból ered a szláv [[D/Drug\|drug]] = társ, barát jelentésű szó. Csak amíg a [[B/Barát\|barát]] fogalma nálunk a Föld-Nap viszonyában az életadó/tápláló Nap neveként jelenik meg, addig a szlávban és irániban ([[D/Druj\|druj]]) a kis éves, nálunk inkább ellenségre utaló fogalomként.  
 
 Rostás László A Sínai Szent Katalin kolostor Krisztus ikonja című az Ősi Gyökér 2015/1-2. sz. megjelent cikkében Csontváry Kosztka Tivadar Öreg Halász c. képén mutatja be, hogy a két arcfél közül az egyik istené, a másik az ördögé.  
-![assets/Ördög_image5.jpeg|fix_dark fix_light](/img/user/O/assets/%C3%96rd%C3%B6g_image5.jpeg)  
+![assets/Ördög_image5.jpeg|fix_light|840](/img/user/O/assets/%C3%96rd%C3%B6g_image5.jpeg)  
 Nagy Attila az Ősi Gyökér 2007/4. sz. megjelent A Tükör trükkje című cikkében ír angyal és ördögről helyenként erőltetett szójátékokkal fűszerezve. Ha lenne időm rá, elolvasnám. Alkalomadtán.  
 
 [[S/Sátán\|Sátán]] címnél láttuk már, hogy megjelenhet személynévként. Ördög Nóra neve mellett említhető [ezen](http://nuclearmorphology.hu/tortenelem/hol-lehet-az-eredeti-buda/) blogposztjáról [[P/Portus Moger\|Portus Moger]] címnél említett Eördögh Árpád blogger neve.  
 Lásd még [[K/Kovács és az ördög\|kovács és az ördög]].  
 Lásd még [[D/DOG\|DOG]]/[[D/DOG#Dog 2)\|dog]] és [[B/Boldog\|boldog]].  
 
+<!--section: 22-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
