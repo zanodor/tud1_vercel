@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Man/","title":"Man","tags":["containstransclusions","containscallouts"],"created":"2026-02-09T19:05","updated":"2026-05-22T00:19"}
+{"dg-publish":true,"permalink":"/M/Man/","title":"Man","tags":["containstransclusions","containscallouts"],"created":"2026-02-09T19:05","updated":"2026-05-29T22:43"}
 ---
 
 
@@ -303,11 +303,14 @@ De ezzel mi már korábban találkoztunk, hiszen Péterfai János adata ill. eti
 
 ...című könyvében is említ egy sor szót, ahol ilyen-olyan alakú formák kerülnek elő:
 > A Parsusok mythologiája szerint az első emberpár neve **Meschia**, **Meschiane**, hogy ez a Meschia csak a sanskrit Manuscha, a Zend `mas-ya`, pehlvi Meschia, kurd `manzs`, szláv `monsch`, `mush`, `mees`, finn `maa-mees` (földembere) elég megérintni, czigányul a `manusch` forma mellett (= Mensch Bopp és Smodits) megvan még a `manu` forma is a spanyol czigányok közt Borrow szerint, honnan `manusalo` = erős, izmos, `men` = persona. ([Lásd 285. old.](zotero://open-pdf/library/items/DFI47XPY?page=285&annotation=R22LVNC7))
+{ #m5iev0}
+
 - [[A/Ádám és Éva\|Ádám és Éva]] zend `masia` és `masiana` változatairól Pálfinál és mintha Zajtinál is lett volna szó. Ezek eredete is érdekes lenne.
 - Vö. még a [[M/Muscle\|muscle]] gyökét.
 De ha már a `muscle` szóba került, ott a fentebb, a bevezető sorban is említett [[M/Más\|más]] szavunk.  
 
-Valamikor a múltban forgalomban volt egy mítosz a "`más-más`" Ikrekről, amely egyben az [[E/Ember#Ember szavunk Íjas (Íjász) értelme az Ikrek jegyére vonatkoztatva\|Ember]] (kettőse) volt és a két forma és fogalom (`más` és a `men`/`menny` emberének fogalma) egybeforrt.  
+> [!hint] &nbsp;
+> Valamikor a múltban forgalomban volt egy mítosz a "`más-más`" Ikrekről, amely egyben az [[E/Ember#Ember szavunk Íjas (Íjász) értelme az Ikrek jegyére vonatkoztatva\|Ember]] (kettőse) volt és a két forma és fogalom (`más` és a `men`/`menny` emberének fogalma) egybeforrt.
 
 Ugyanakkor jegyezzük fel a fenti Man-Is-K formákat is.  
 
