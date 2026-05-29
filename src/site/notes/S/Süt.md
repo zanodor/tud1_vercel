@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2026-03-23T23:31"}
+{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2026-05-29T22:43"}
 ---
 
 
@@ -56,7 +56,7 @@ Amikor a görög (által lejegyzett) [[S/Szkíta\|skytha]] név indogermán jele
 
 ### Kentum kut és szatem süt alakok skut alakba való összevonása
 
-Érdekes, hogy az imént említett IE gyökben az s-elővetés zárójelesen, opcionális hangként van jelölve. Azaz ahogy pl. [[H/Hieroglyph\|hieroglyph]] címnél üt, vág jelentésű azonos alakú különböző nyelvű szavakat láttunk, a [[C/Cut\|cut]] és [[C/Concussion\|concussion]] címnél taglalt vágás, ütés, valamint dobás fogalmai is hasonló szóalakokkal kerültek kifejezésre. A dob már az (íj)lövés fogalmával társítható, de még a görög `βάλλω` = dob igének is van üt, csap értelme, míg a `bélosz` = nyíl jelentésű.
+Érdekes, hogy az imént említett IE gyökben az s-elővetés zárójelesen, opcionális hangként van jelölve. Azaz ahogy pl. [[H/Hieroglyph\|hieroglyph]] címnél üt, vág jelentésű azonos alakú különböző nyelvű szavakat láttunk, a [[C/Cut\|cut]] és [[C/Concussion\|concussion]] címnél taglalt vágás, ütés, valamint dobás fogalmai is hasonló szóalakokkal kerültek kifejezésre. A dob már az (íj)lövés fogalmával társítható, de még a görög `βάλλω` (`bállo`) = dob igének is van üt, csap értelme, míg a `βολή` (`bolé`) = (tkp. becsapódó nyíl okozta) ütés, `βέλος` (`bélosz`) = nyíl jelentésű és a nap sugaraihoz való hasonlítása nyomán közvetlenül [[B/Bál\|Bál]] napisten nevére is gondolhatunk.
 { #ixo2pk}
 
 
