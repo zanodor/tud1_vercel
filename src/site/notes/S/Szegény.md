@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szegény/","title":"Szegény","created":"2024-04-25T13:43","updated":"2025-09-28T21:28"}
+{"dg-publish":true,"permalink":"/S/Szegény/","title":"Szegény","created":"2024-04-25T13:43","updated":"2026-05-29T22:44"}
 ---
 
 
@@ -41,7 +41,7 @@ Hogy itt a soványság a [[H/Homorú\|homorú]] ("éhes") félévre utal, vagy s
 Érdekes a [[S/Szamár\|szamár]] kétféle SZ/H/K-M-R vázú és M-K-R/M-G-R vázú neve (lásd [[M/Magar\|Magar]]) különböző nyelvekben. Úgy tűnik, a szamár az íjfeszítő/íjazó szinonimájává vált és íjazó/nyilazóból, mint tudjuk, két, egymással szemközti téridőbeli helyen is van. Magyarázható itt is a jelenség azzal, hogy a [[L/Lemniszkáta\|lemniszkáta]] kötőpontjában is két téridőbeli értelemben egymással szemközti pont azonosul. A szamár (bolond; régi értékrendhez csökönyösen ragaszkodó, szegény bugris) fogalma helyett másutt szegény, [[V/Vándor\|vándor]], stb. jelenik meg. ([[S/Széth\|Széth]] és [[S/Szamár\|szamár]] címnél szerepelt HL adata még más "ostoba" állatokról.)  
 De a fentebb említett éhes fogalmához tartozó, a [[H/Homorú\|homorú]]ságon keresztül érthető soványság fogalmát [[M/Meagre\|meagre]], [[H/Haggard\|haggard]], stb. idegen szavakban is megtaláljuk, míg a [[S/Szikár\|szikár]] szintén a nyári napfordulós váltásra utaló szó [[S/Sacchar-\|sacchar-]] címnél írottak szerint).   
 
-Magyar alakú szavak nemcsak soványra és szamárra, hanem Szíriuszra (kutyára) is léteznek (lásd [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]] és az ott is említett kelta szót), továbbá a [[M/Magyar\|magyar]] címnél is látott csere/kör(mozgás)(vissza/tér) fogalmakra is (japán szavak alatt a marathi szóra gondolok).  
+Magyar alakú szavak nemcsak soványra és szamárra, hanem Szíriuszra (kutyára) is léteznek (lásd [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]] és az ott is említett kelta szót), továbbá a [[M/Magyar\|magyar]] címnél is látott csere/kör(mozgás)(vissza/tér) fogalmakra is (japán szavak alatt a maráthi szóra gondolok).  
 
 [[F/Félelem#Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú\|Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú]] cím/alcímnél volt szó a fentebb említett rokon ideák mögötti szavakról és írásmódjukról.  
 [[E/Ebionita\|Ebionita]] címnél írtuk, hogy a héber `ebionim` = szegények értelmezés nyilván hozzákapcsolt, bár [[E/EB\|eb]] értelmeként Péterfai János is hozza, hiszen Eb/Kannal kezdődik a (fényben) szegény, sötét félév.  
