@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kapu/","title":"Kapu","created":"2023-10-30T08:56","updated":"2026-01-01T17:05"}
+{"dg-publish":true,"permalink":"/K/Kapu/","title":"Kapu","created":"2023-10-30T08:56","updated":"2026-05-29T22:41"}
 ---
 
 
@@ -67,9 +67,9 @@ A csillaghit nemcsak az évszakok és az év fordulóit tekinti kapuknak, hanem 
 > A kora középkorban felvirágzó héber misztikában, a kabalában a [[S/Szefirot\|Szefirot]]-fa égi tövén a Nap koronája (Kether) ragyog. Itt, a dolgok égi gyökerénél van az úti cél. A zsidó misztikusok a Nap kapuját G'bilonnak nevezik, az út rajta át vezet a Kozmikus Trónhoz, Isten lábához. A kabala középkori alapműve a Szefer ha-zo-hár, magyarul: a "Ragyogás könyve."  
 - Lásd még [[Z/Zohar\|Zohar]].
 
-Érdekes a görög `pülosz` = kapu elnevezés:  
+Érdekes a `πύλος` (`pülosz`) = kapu elnevezés:  
 > Egy hagyomány az Ikreket [[A/Apolló\|Apollón]]nal és [[H/Héraklész\|Hérakléssz]]el azonosítja[^4]. A két isten között van hasonlóság, s több olyan elbeszélés maradt fenn, amelyben együtt szerepelnek, így Apollón védelmezte Püloszt, a "Kaput", melyen Héraklész behatolt, hogy a "túlnanra" jusson. Pülosz, az egyik túlvilági átjáró itt, az Ikrekben található. Amikor az [[A/Argo\|Argo]] hajó (a Tejút déli csillagképe) Héraklésszel átkel az alvilágba vezető hajóút (a [[T/Tejút\|Tejút]]) sziklái közt (ez a **tejúthasadék**), Apollón búcsúztatja, s ő is köszönti a hajót, amikor a "túlpartról" visszatér. Ez egyszer a Nyilas-, másszor az Ikrekbeli átjárót jelenti. Aszerint, hogy Apollón előbb Artemisz ezüst íját tartotta a baljában, utóbb saját arany íját a jobbjában. Ezek az íjak a nappálya félköríveit jelképezik.  
-- Az a furcsa, hogy sem az értelmezők, sem Jankovics Marcell nem ébred rá, hogy [[P/Pollux\|Pollux]] nevével is azonos e görög szó, melyhez hasonlókat lásd még [[P/Pole\|pole]].
+- Az a furcsa, hogy sem az értelmezők, sem Jankovics Marcell nem ébred rá, hogy [[C/Castor és Pollux\|Pollux]] nevével is azonos e görög szó, melyhez hasonlókat lásd még [[P/Pole\|pole]].
 
 #### Jankovics Marcell Ahol a madár se jár...
 
