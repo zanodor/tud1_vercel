@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Prajapati/","title":"Prajapati","tags":["Englishtexttranslated"],"created":"2024-10-23T20:04","updated":"2026-03-23T23:31"}
+{"dg-publish":true,"permalink":"/P/Prajapati/","title":"Prajapati","tags":["Englishtexttranslated"],"created":"2024-10-23T20:04","updated":"2026-05-29T22:42"}
 ---
 
 
@@ -45,7 +45,9 @@ Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvében foglaltak
 #### Jankovics Marcell A fa mitológiája...
 
 ...című könyvében szól róla:  
-> A Tejút Orionját a ketek Szarvasfőnek, a törökök Három szarvasnak hívták (az Orion övének 3 fényes csillaga után). Egy hindu csillagmítoszban a teremtő Pradzsapati, szarvasbika képében (Orion) űzi az égi szarvasünőt (a Tejúttal szomszédos Bika csillagképet). A Pradzsapati szarvast viszont egy ifjú csillagvadász üldözi és ejti el (**a vadászt a Tejút Nagy Kutya és Hajótat csillagképei alkotják**). A Kalevalában Oriont a szarvason (Bikán) lovagló [[V/Väinämöinen\|Väinämöinen]] személyesíti meg. Väinämöinen kis híján úgy jár, mint Pradzsapati. Vetélytársa, [[J/Joukahainen\|Joukahainen]] próbálja meg lenyilazni. Két nyila nem talál, de a harmadik eltalája.  
+> A Tejút Orionját a ketek Szarvasfőnek, a törökök Három szarvasnak hívták (az Orion övének 3 fényes csillaga után). Egy hindu csillagmítoszban a teremtő Pradzsapati, szarvasbika képében (Orion) űzi az égi szarvasünőt (a Tejúttal szomszédos Bika csillagképet). A Pradzsapati szarvast viszont egy ifjú csillagvadász üldözi és ejti el (**a vadászt a Tejút Nagy Kutya és Hajótat csillagképei alkotják**). A Kalevalában Oriont a szarvason (Bikán) lovagló [[V/Väinämöinen\|Väinämöinen]] személyesíti meg. Väinämöinen kis híján úgy jár, mint Pradzsapati. Vetélytársa, [[J/Joukahainen\|Joukahainen]] próbálja meg lenyilazni. Két nyila nem talál, de a harmadik eltalája.
+{ #260527}
+
 
 [[R/Rohini\|Rohini]]t Jankovics Marcell nem említi és így azonosítására sem kerül sor, de a [[P/Pleiadok\|Plejádok]] címnél szereplő adatok azt látszanak felfedni, hogy Rohini a Fiastyúk (is) lehetne[^3]\:  
 > Nemcsak az északi regékből következik, hogy a Fiastyúk az istenek családi, egyben szerelmi fészke volt. Említettem már, hogy Órión görög hérósz is szerelmével üldözte a leányokat \[mint Prajapati Rohinit – írhatta volna itt Jankovics Marcell\] (azaz, mint vadászisten, hálójával akarta kézre keríteni a galambrajt). Egy másik görög mítosz szerint Zeusz (Jupiter) foga is megfájdult egyikükre, akit Artemisz (Diana, azaz a Hold), hogy a főisten zaklatásától megmenekítse, szarvassá változtatott. Hiába, mert Zeusz utolérte és teherbe ejtette.  
