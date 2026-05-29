@@ -1,18 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/P/Poplar/","title":"Poplar","created":"2023-12-03T05:13","updated":"2025-06-08T01:45"}
+{"dg-publish":true,"permalink":"/P/Poplar/","title":"Poplar","created":"2023-12-03T05:13","updated":"2026-05-29T22:45"}
 ---
 
 
+<!--section: 1-->
 # Poplar
 
+<!--section: 1.1-->
 Nyárfa. Ófrancia `poplier` és latin `populus` szavakat hoz rá Oxford. Ez utóbbit [[P/People\|people]] szónál elemeztük (de ott közben [[F/Falu\|falu]] szóból is kiindultunk). Ott is szerepelt...
 
+<!--section: 2-->
 #### Péterfai János adata:
 
+<!--section: 2.1-->
 > A latin `Populus` jelentése Nép. A monda szerint a rómaiak a rezgő nyárt így nevezték el, mivel a levelei, mint az embertömeg, folytonosan mozog, izgalomban él.  
+- Egyértelmű [[N/Népetimológia\|népetimológiá]]ról van szó.
 
+<!--section: 3-->
 #### Magyar Adorján Csodaszarvas...  
 
+<!--section: 3.1-->
 ...című könyvében írja a nyárfáról:  
 > Némely nyárfa, de különösen a jegenyenyár, levele ilyen és a szélben sőt a legcsekélyebb szellőben is, hosszú szárán rezeg és az így, mindig lefelé csüngő levelek folyvást egymáshoz is verődnek, ami által a sok ezer levél együtt, igen kellemesen hangzó, susogó neszt képez amely annál erősebb minél erősebb a szél. Másutt leírtam hogy őseinknél a Szent Kert (aminek körülbelül ugyanaz volt a szerepe mint ma a templomoknak) közepén állott a mesterségesen készülő, ezüsttel, rézzel és gyöngyházzal ékesített törzsű és pénzalakú aranylevelekkel teleaggatott fa, amelyről népmeséink ma is megemlékeznek és amelynek "A Világ zengős Aranynyárfája" volt a neve, amely előtt volt "A Világ fényes Ezüsttava" (a lelkiismeretet jelképező tükör, itt víztükör) és amely fára egy villás ágba (a fán lévő szószékbe) ünnepnapokon fölszállott.  
 > "A Világ szépen szóló Aranymadara" képében a Napisten (azaz aranyszínű palástban a Napisten földi helytartója: a fő táltos és egyúttal király) és gyönyörűségesen énekelt (elmondotta a nép számára tanításait) és hogy mindenki aki e gyönyörű éneket meghallotta (a tanításokat meghallgatta, azok szerint élt) az megszépült és megfiatalodott (lelkileg megjavult, testileg egészségesebb és hosszú életű lett: lássad mindezt bővebben leírva, "A lelkiismeret Aranytükre" című művem 1975 évbeli, bővített kiadásában).  
