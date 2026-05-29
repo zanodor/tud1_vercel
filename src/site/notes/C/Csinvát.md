@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csinvát/","title":"Csinvát","created":"2023-10-14T06:58","updated":"2026-05-23T00:35"}
+{"dg-publish":true,"permalink":"/C/Csinvát/","title":"Csinvát","created":"2023-10-14T06:58","updated":"2026-05-29T22:45"}
 ---
 
 
