@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-05-29T17:54"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-05-29T22:39"}
 ---
 
 
@@ -23,6 +23,7 @@
 
 **2026:**
 
+<small>[260529CN! A BRÜSSZELI PAKTUM](https://rumble.com/v7ak1p2-260529cn-a-brsszeli-paktum-kubnyi-tams-ktv.html)  [https://share.note.sx/k044c92d](https://share.note.sx/k044c92d) [https://archive.ph/TKlxG](https://archive.ph/TKlxG)</small>
 <small>[260528CN! A HÁLÓZAT](https://rumble.com/v7aiffc-260528cn-a-hlzat-kubnyi-tams-ktv.html)  [https://share.note.sx/pqdtbdco](https://share.note.sx/pqdtbdco) [https://archive.ph/1R9uw](https://archive.ph/1R9uw)</small>
 <small>[260527CN! BORSÓ A FALON](https://rumble.com/v7agrcq-260527cn-bors-a-falon-kubnyi-tams-ktv.html)  [https://share.note.sx/estafjx6](https://share.note.sx/estafjx6) [https://archive.ph/1BSYY](https://archive.ph/1BSYY)</small>
 <small>[260526CN! RENDŐRTERROR 2026](https://rumble.com/v7af3ai-260526cn-rendrterror-2026-kubnyi-tams-ktv.html)  [https://share.note.sx/i6lkqdgn](https://share.note.sx/i6lkqdgn) [https://archive.ph/Mxhcv](https://archive.ph/Mxhcv)</small>
