@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hole/","title":"Hole","created":"2025-07-12T23:53","updated":"2025-07-19T00:56"}
+{"dg-publish":true,"permalink":"/H/Hole/","title":"Hole","created":"2025-07-12T23:53","updated":"2026-05-29T22:45"}
 ---
 
 
@@ -11,7 +11,7 @@ Lyuk a sajtban van, és amint a dal elárulja, sajtból van a hold. A tréfát f
 #### Magyar Adorján...  
 
 ...találja meg a megoldást:  
-> Ezen német `Höle` (barlang) szó a magyar barlang, üreg és üresség értelmével (de amelynek megfelel a mi hől és hőle[^1] = [[H/Hüvely\|hüvely]] és üres szavunk, valamint hólyag szavunk is közvetlen visszavezet bennünket a barlang és ború, vagy burú és így a sötétség burgund nevére, illetve a "homály fiaira": a Nibelungokra. Többször kimutattam már, hogy ősnyelvünk egyik sajátsága és nyelvtörvénye volt az egytagú szavak megfordíthatása. Nos, az emlitett hől, hól = üreg, üres, barlang szóalak megfordítása képezi a magyar luk és a német `Loch` = luk szavakat (az árja nyelvekben azonban e megfordíthatás törvénye nincsen meg).  
+> Ezen német `Höle` (barlang) szó a magyar barlang, üreg és üresség értelmével (de amelynek megfelel a mi hől és hőle[^1] = [[H/Hüvely\|hüvely]] és üres szavunk, valamint hólyag szavunk is közvetlen visszavezet bennünket a barlang és ború, vagy burú és így a sötétség burgund nevére, illetve a "homály fiaira": a Nibelungokra. Többször kimutattam már, hogy ősnyelvünk egyik sajátsága és nyelvtörvénye volt az egytagú szavak megfordíthatása. Nos, az említett hől, hól = üreg, üres, barlang szóalak megfordítása képezi a magyar luk és a német `Loch` = luk szavakat (az árja nyelvekben azonban e megfordíthatás törvénye nincsen meg).  
 >
 > A szóban volt, kún szócsoportbeli hiány és hiatus szavaknak a kőrös szócsoportban nyelvünk héla[^2] = üres és megfordítva léha, léhes, léhás = üres, hüvelyes és könnyű, belül üreges (Ballagi) szavaink felelnek meg, valamint megfelelnek még a lék, lik, luk szavaink is, de amelyek származékai a német `hohl` (hól) = üres, üreges, és `Höhle`, `Hohle` = üreg, barlang; megfordítva `Loch`, `Leck`, `Lücke` = luk, lék, hiány, továbbá még `leicht` = könnyű is. (Az üresség és könnyűség összefüggése természetes és magától értetődő.)
 
