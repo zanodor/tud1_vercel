@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-31T06:45","updated":"2026-05-21T05:00"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-31T06:45","updated":"2026-05-29T22:43"}
 ---
 
 
@@ -36,7 +36,7 @@ Aztán ott van a [[P/Pártus\|pártus]] címnél előjövő elnevezés (Parathas
 > \[...\]  
 > [[M/Mleccha\|Mleccha]] a `bharatiyo` (fémöntők) szubsztrátum nyelve volt, akik közül sokan a dvīpa (két folyó - Sindhu és Sarasvati - közötti földterület vagy a Kutch-öböl, a Khambat-öböl, Makran partvidéke és a Perzsa-öböl Meluhha régiója mentén fekvő szigetek) területén éltek.  
 - Ezen `bharatiyo`-hoz hasonló ill. azzal azonos kifejezést, `bharatiya`-t használ a népek gyűjtőneveként is és ilyen név szerepel egy lexikális glossza az internetről is letölthető [An Indian Lexicon – Comparative Dictionary of 25+ ancient Bharatiya languages](https://mega.nz/file/guN0GCJb#ZFJu-akxj5m6vGPthpSvw_9Z9yguaHnahV57IxQXpAI) című kiadvány címében. <br/>
-Egy másik, szintén letölthető Processions of hieroglyphs are classifiers of metalwork of Indus Script artisans című dolgozatában viszont (a milyen nyelvű?) `barad`, `barat` = ökör jelentéssel megadott, de hoz egy marathi nyelvű `bharata` = rézötvözet, cin jelentést is (rébuszként).  
+Egy másik, szintén letölthető Processions of hieroglyphs are classifiers of metalwork of Indus Script artisans című dolgozatában viszont (a milyen nyelvű?) `barad`, `barat` = ökör jelentéssel megadott, de hoz egy maráthi nyelvű `bharata` = rézötvözet, cin jelentést is (rébuszként).  
 
 A fentiek alapján is valószínű, hogy az ...
 
@@ -52,8 +52,7 @@ Tény, hogy...
 ...című könyvében is említi a Bharata nevet:  
 > First, ![assets/Barát_image1.png|fix_dark fix_light right|240](/img/user/B/assets/Bar%C3%A1t_image1.png)of course, we come to the Himalaya range, the Himavat of Indian geography. All that portion of the earth lying between this mountain range and the great ocean to the South constitutes one of the seven, or nine, varshas, or divisions of the habitable (upper) hemisphere. Its name is **Bharata**.  
 > —  
-> Először természetesen a Himalája hegyvonulatához, az indiai földrajz Himavatjához érkezünk. A Földnek az e hegyvonulat és a déli nagy óceán között fekvő része alkotja a hét vagy kilenc varsa, vagyis a lakható (felső) félteke egyikét. A neve **Bharata**.  { #0slr7v}
-
+> Először természetesen a Himalája hegyvonulatához, az indiai földrajz Himavatjához érkezünk. A Földnek az e hegyvonulat és a déli nagy óceán között fekvő része alkotja a hét vagy kilenc varsa, vagyis a lakható (felső) félteke egyikét. A neve **Bharata**.  { #0slr7v}
 
 
 Bakos Attila A Duna Evangéliuma című könyvének 273. oldalán azt írja, hogy még ma is Baratának hívják országukat a hinduk! Ez lehet, hogy így nem pontos, ugyanis a Quorán ezen (If Tamil is the oldest language in the world, then why doesn't it contain any name for our country? In Sanskrit, we call it "Bharat") kérdésre adott válaszok között szemezgetve az látszik kiderülni, hogy ez a szanszkrit neve (bár a hindu és a szanszkrit nem zárja ki egymást) és a tamilban is megvan. [Ezen](https://qr.ae/pNsxli) válaszban Mohan nevű válaszadó például az érdekes **Bharathavar** nevet is említi, mely tamil nyelven (hozzákapcsolt) "tengerész", "halászó" jelentésekkel áll. Ez megint azt bizonyítja, hogy a tamil csak átvette a szanszkrit szót, hiszen a tamilok, ahogy többen jól rámutattak, dél-indiaiak, míg a barathák észak-indiaiak voltak. Ez összevág Aradi Éva kutatásaival is.  
@@ -114,8 +113,7 @@ A barát szót [ezen](https://qr.ae/pNsjGC) Quora cikkbe is felírtam, továbbá
 > - `beard` (a haj a napsugarakat jelképezi);
 > - `burn` szintén B-R mássalhangzó alapja van;
 > - a német `braten` ismét pontosan azt jelenti, amire számítunk = sütni;
-> - a **Britannia** és **Bretagne** nevek (nem önmagában Indiából származnak, hanem) a Bar-At-On vagy Bar-At-An (Atya Nap az égen; a hun `an`-ból származik az `one` is; a magyar `ég` szóból is az `egy` számnév származik (`ég` > `egy`); ez azt jelenti, hogy egyistenhitű vallásaik voltak, és ezt nem a zsidók találták ki; a Napra Fiúként tekintettek, ahogy a főnévi alakok mutatják: `Sun` = `son`).  { #8f46ac}
-
+> - a **Britannia** és **Bretagne** nevek (nem önmagában Indiából származnak, hanem) a Bar-At-On vagy Bar-At-An (Atya Nap az égen; a hun `an`-ból származik az `one` is; a magyar `ég` szóból is az `egy` számnév származik (`ég` > `egy`); ez azt jelenti, hogy egyistenhitű vallásaik voltak, és ezt nem a zsidók találták ki; a Napra Fiúként tekintettek, ahogy a főnévi alakok mutatják: `Sun` = `son`).  { #8f46ac}
 
 - Utólag került be ide a `braten` és kimaradt innen a [[P/Person\|person]] helyen említett (kozmikus lény értelemben is vett) ember jelentésű szanszkrit `purusha`, [[B/Brother\|brother]], [[B/Breed\|breed]]/[[B/Brood\|brood]], [[B/Brat\|brat]], a [[B/Balta\|balta]] szó r-hangos változataként számon tartható [[B/Bárd\|bárd]], a hajfonat [[B/Braid\|braid]] és akár a [[B/Bride\|bride]] szó, illetve akár a [[B/Breath\|breath]] és [[P/Pretty\|pretty]] szó is a sorba tartozhat.  
 A szanszkrit pedig csak a feljegyző nyelv, és nem is napistent jelent a név (a névadók nem szanszkrit nyelven beszéltek).  
