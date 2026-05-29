@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-05-21T04:56"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-05-29T22:41"}
 ---
 
 
@@ -186,11 +186,13 @@ A 154-155. oldalon hozott szópárok kapcsán írja:
 - A táblázatban szereplő szavakat már korábban is több helyen taglaltuk, és azon helyeken ([[G/Grade\|grade]] és [[T/Tract\|tract]] címnél) Götz László ezen szópárjait is menet közben felhoztuk/utaltunk rájuk.
 
 G>B változás értelmezhető úgy, mint G>(V)>B változás. Az egyik ilyen ismert eset az [[U/Ugorka\|ugorka]] [[U/Uborka\|uborka]] változata, melyet ma is használunk, a másik az [[A/Avar\|avar]] és [[U/Ugor\|ugor]] címnél is említett eset lehet, amennyiben ugor > avar változat/azonosság elképzelhető. Nos, valójában lehet, az eredeti Úr névből kiindulva.  
-Az ugor – uar – avar nevek voltaképpen egy és ugyanazok. [[A/Avar#Avar (Obor) – Ugor (Uhor) – Várhun\|Avar (Obor) – Ugor (Uhor) – Várhun]] cím/alcímnél volt erről szó legutóbb (és arról, hogy a közös kiinduló voltaképpen az alant kopt szó eredete kapcsán is előjövő Úr szavunk).  
+Az ugor – uar – avar nevek voltaképpen egy és ugyanazok. [[A/Avar#Avar (Obor) – Ugor (Uhor) – Várhun\|Avar (Obor) – Ugor (Uhor) – Várhun]] cím/alcímnél volt erről szó legutóbb, és arról, hogy a közös kiinduló voltaképpen az alant kopt szó eredete kapcsán is előjövő Úr szavunk.  
 A kelta-ír `barantas` = garancia. A G>B változás hasonló az ugorka – uborka esethez, de egy másik pl. az alkudozik jelentésű tájszólásos árguvál, árgovál, árbuvál szóalakokban látott változás.  
 
-[[A/Ashmog\|Ashmog]] címnél is előjött d hang g helyett.  
+Az [alábbi](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/g%CA%B7elH-) PIE gyök alatt szerepeltetett indoeurópai szavak tömkelegét látjuk; náluk minden belefér, akármilyen hangtörvényekre való hivatkozással. 
+
 D>G változásra példa: Víg szavunk régiesen víd volt, CzF szótár szerint. (A közös a két hangban, hogy gy-re lágyul mindkettő.)  
+[[A/Ashmog\|Ashmog]] címnél is előjött d hang g helyett.  
 
 #### G>V, V>G, G>W/Y és rokon átmenetek
 
