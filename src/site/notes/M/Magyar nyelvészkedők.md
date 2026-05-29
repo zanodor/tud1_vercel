@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","tags":["containscallouts"],"created":"2023-11-19T03:30","updated":"2026-05-08T23:04"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","tags":["containscallouts"],"created":"2023-11-19T03:30","updated":"2026-05-29T22:43"}
 ---
 
 
+<!--section: 1-->
 # Magyar nyelvészkedők
 
+<!--section: 1.1-->
 
 **A magyar nyelv rokonítása más nyelvekkel és a magyar nyelv szavainak értelmezési kísérletei**
 
@@ -17,8 +19,10 @@ Addig, amíg a kutatók nem jönnek rá, hogy a [[M/Magyar szavak szakrális és
 [[V/Végvári József\|Végvári József]] is rámutatott, hogy **szavaink és a köztük fennálló szerves összefüggések magát a világmindenséget képletezik szerkezetében, keletkezésében és működésében egyaránt, tanulmányozásuk – együtt népünk alkotóerejének más megnyilvánulásaival, mint a népművészet különböző ágazatai – a tudás teljességét adhatja meg**.  
 Azóta ennek tudatában rengeteg ember vállalta magára azt a szerepet, hogy megmondja az igazságot a magyarok ősműveltségét illetően, de persze csak kisebb részegységek (téves) kidolgozásáig jutottak (legtöbben). Ők azok, akik a komolyabb kutatókhoz hasonlításra kerülve lejáratják a magyarság ügyét. Több kárt okoznak, mint hasznot. Erről a Quorán lévő fő cikkem végén is szóltam. Ott szóba került a Stockholm – Istókhalma eset is. Állítólag ezt az összefüggést [[H/Horvát István\|Horvát István]]nak tulajdonítják, melyre (vagy más, általa még nem nevezett forrásra hivatkozva)...
 
+<!--section: 2-->
 #### Péterfai János írja:
 
+<!--section: 2.1-->
 > Stockholm  Istók-Halma fogalmát Horvát Istvánnál nem találtam meg, ellenben az ellenséges Gestapo és NKVD ügynökei által terjesztett szövegekben igen!  
 
 Így működik a dolog. A baromságokat összehordókat egy napon/lapon (és, ahogy alant látjuk a példát, összevágott videókban egy csomagban) említik a komoly kutatómunkát végzőkkel.  
@@ -29,49 +33,58 @@ Az [alábbi](https://www.youtube.com/watch?v=JJFc4fFx_bQ) videóban is szerepeln
 
 Gyakori hiba magyar szófejtőknél, hogy hallották/tudják, hogy a magyar az ősnyelv, és minden szó automatikusan egy magyar szóra visszavihető. Pl. Kolumbán Sándor a [[V/Vicc\|vicc]] szót magyarnak védi, ahelyett, hogy belátná, ez német szó átvétele, de [[W/Wit\|wit]] valóban magyar eredetű. [[L/Light\|Light]] címnél sok-sok példát láttunk arra, hogy két (vagy akár több) lépcsőben kell gondolkodni.  
 
-A [ZugTáltos](https://www.facebook.com/zugtaltos/) Facebook oldal (mely Kubínyi Tamást és Bakos Atillát is felvette a lejáratandók közé) háttérképén is találni ilyeneket (már szándékosan túlvariálva), hogy Seattle = Sötét Ló, Arisztotelész = Harisnyás Tóth Illés, vagy a "geolingvisztikus"-nak aposztrofált Jásdi Kiss Imrétől idézett pogány = Gányolni a Pókat... (A Turul < "háturul" egy másik őrület tőle. A Bazilika "Vót ott egy bazi nagy lik" értelmezése elképesztő, de Práczki István és mások is tévedtek.)  
+A [ZugTáltos](https://www.facebook.com/zugtaltos/) Facebook oldal (mely Kubínyi Tamást, Szántai Lajost és Bakos Atillát is felvette a lejáratandók közé) háttérképén is találni ilyeneket (már szándékosan túlvariálva), hogy Seattle = Sötét Ló, Arisztotelész = Harisnyás Tóth Illés, vagy a "geolingvisztikus"-nak aposztrofált Jásdi Kiss Imrétől idézett pogány = Gányolni a Pókat... (A Turul < "háturul" egy másik őrület tőle. A Bazilika "Vót ott egy bazi nagy lik" értelmezése elképesztő, de Práczki István és mások is tévedtek.)  
 
-Az [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél említett videóra reagáló és más Youtube videók kommentszekcióinak teleirkálásával idejét töltő, mindenféle nyelvi aforizmákat kitaláló Kiss Balázs színvonaláról: például `aboriginal` = "apu régen él", vagy `kenéz` = "a Kenéz egy kineziológus, kinéz egy helyet, amit a törzs elfoglal."  
-Ugyanakkor néha meg egész jó gondolatai is támadtak. Egy visszafogottabbnak mondható írását a Körmendi Figyelő egyik számában leközölték.  
+
 
 Mutatja a magyarságkutatók(?) nyelvészeti reménytelenségét, hogy egy műsorban valaki a [[T/Torah\|Torah]]-ra a magyar Tó szavunkból és Ra Nap névből próbál okoskodni. Más szerint [[A/Arám\|arámi]] megfordítva: "imára".  
 
 A sor folytatható:  
 Tibold Makk Szabina Gondolatok a Világ végéről című az Ősi Gyökér 2011/2. sz. megjelent cikkében a celestial angol szót, dacára hogy ragozott alak, "Szeles/Széles\[?\] Tál"-nak aposztrofálja, ráadásul egy Sitchines/Nibirus kontextusban.  
 
-[[P/Péterfai János István#Péterfai hibái\|Péterfai hibái]] cím/alcímnél mesterem némely tévutat jelentő pontatlanságára felhívtam a figyelmet; ami ott talán nem szerepelt, hogy az [[O/Olasz\|olasz]] nem "ólas"; ez inkább egy felkészültebb kutató játéka a szavakkal (az önkritika viszont megkívánja, hogy minden ötlet ne legyen elektronikusan felvíve; magam is igyekszem a sok évvel ezelőtti szárnybontogatósdi eredményét áthúzni vagy kitörölni).  
+Az [[O/Olasz\|olasz]] sem "ólas"; előfordulható, hogy felkészültebb kutató játszik a szavakkal (az önkritika viszont megkívánja, hogy minden ötlet ne legyen elektronikusan felvéve mert akkor minden blogon terjesztik, mint Balaton = Bál a Tón/Tavon).  
 
 [Ezen](http://acta.bibl.u-szeged.hu/67112/1/vallasi_kulturakutatas_konyvei_006_034-054.pdf) oldalon egy érdekes Hubbes László Attila nevű cikkíró is írja A főbb etno-pogány webhelyek számbavétele alfejezet cím alatt:  
 > A magyar újsámán/újtáltos netcsoportok, vagy újabban közösségi hálózatok leltára, a teljesség igénye nélkül, sok olyan webhely nevet tartalmaz, amely a magyar nyelv szakrális jellegére utaló szójátékokra épül – ilyen a Magtár; a Magok Vagyunk blog – vagy a magyarok történelmére, mitikus őseire utal:...  
 
 Léteznek persze komolyabb, felkészültebb kutatók is a magyarságtudomány köreiben, de nekik is tudni kell arról, hogy egyes szavak már belső fejlődéssel jönnek létre. Például [[C/Czeglédi Katalin\|Czeglédi Katalin]] hiába hajtogatja, hogy ez meg az a szó a szkíta korból való és sorolja a csuvas szavakat, ha nem ismeri fel, hogy egyes szavak szótövének magyarítása már elegendő. Például a valóban gondot okozó [[P/Piramis\|piramis]] – mely a tűz alkimista háromszög-jelével mutat kapcsolatot – görög (de magyar eredetű) tüzet jelentő szótövét nem említve, mindenáron csuvas, [[P/Perem\|perem]] szavunkhoz hasonló szavakból való levezetése után hátradőlni, mondván "de jó munkát végeztem," nem megfelelő eljárás. Ilyen esetben tessék kimondani, hogy nem egyértelmű, honnan ered, de ha belső fejlődéssel ered a görögből, az sem gond.  
 
-Ahogy a perzsa [[S/Sag\|sag]] = kutya sem a `szagol` igénkből ered, ha még szemanto-logikai összefüggés is mutatkozik. Ezt még kb. 6-7 éve gondoltam, aztán 5-6 évvel ezelőtt már értettem is a szót.  
+Ahogy a perzsa [[S/Sag\|sag]] = kutya sem a `szagol` igénkből ered, ha még szemanto-logikai összefüggés is mutatkozik.   
 
+<!--section: 3-->
 ## Gyöknyelvészet
 
+<!--section: 3.1-->
 Mivel külön ilyen cím is létezik ([[G/Gyöknyelvészet\|gyöknyelvészet]]), ide csak annyit, hogy felkészült, diplomás nyelvészektől is hallunk teljesen értelmetlen gyökredukciókra vonatkozó állításokat.  
 Pl.  
 Czeglédi Katalin: Ádám/Adam gyöke: A, -dam képző.  
 Marácz László: ahogy [itt](https://www.youtube.com/watch?v=aaNSau4alnc&t=4695) is elmondja, az iszik és eszik szavak gyöke `i` és `e`, nem pedig `isz` és `esz`.  
 Mintha egyik sem ismerné a magyar nyelvet. Másutt viszont értékes megszólalásaik is lehetnek.  
 
+<!--section: 4-->
 ## A dilettánsok részvállalásának okai
 
+<!--section: 4.1-->
 Egyrészt az, hogy régóta hallják, a magyar az ősnyelv, illetve – a kevéssé veszélyes fajtából, akik a szerelem, szeretet és hasonló szavakat házi ezoterikus módon bontogatják (Szer-Elem, "A Szer Etet"; vagy Közösség = "Közös Ég") – a remény vezeti őket. Ők a magyar futball- (és olimpiai arany (ki))szurkolók párjai: a nyomorban jut valami kis öröm; ilyen kis lelki és szellemi táplálékmorzsák eszegetésével próbálnak egy erősebb immunrendszert felállítva a nehézségeken túljutni. Ők közvetlenül nem okoznak kárt, de közvetettem igen, amikor egyes ünnepelt előadóik szépen kiszolgálják a kritikai érzékkel meg nem áldott közönséget: "vegye-vigye".  
 
+<!--section: 5-->
 #### Péterfai János Nyelvészeti gyalázkodások...
 
+<!--section: 5.1-->
 ...című cikkében is írja:  
 > Kétségtelenül sok olyan kutató volt és van, akik minden felkészülés nélkül vágnak neki az őstörténetnek, a nyelvnek, tudva, hogy a hivatalos tudomány állításainak többsége egyszerű hazugság. Senki sem hiszi el, amit a "tudósok" mondanak, gondolja, ezért ő is hozzászól a vitákhoz, amihez szíve joga. Csak az a baj, hogy sokat árt az érdeklődő és jóhiszemű olvasóknak, akik nincsenek felkészülve arra, hogy elválasszák az ocsút a búzától.  
 
+<!--section: 6-->
 #### Götz László Keleten kél a Nap...  
 
+<!--section: 6.1-->
 ...című könyvének 371. oldalán szól (igaz, nem nyelvészeti, hanem őstörténeti vonatkozásban) annak körülményeiről, hogyan jelennek meg megfelelő elő­képzettséggel nem rendelkező autodidakták hogy megpróbáljanak "rendet rakni[^1]."  
 A kiváltó ok természetesen az, hogy nem hozzáértő és egyenesen hazug ügynökök (ezen vádak felhozásától Götz László persze mindig óvakodik) dolgoznak a magyar őstörténet szétverésén és [[T/Történelemhamisítás\|meghamisításán]].  
 
+<!--section: 7-->
 ### Valamit akarok, de nem ezt
 
+<!--section: 7.1-->
 Klasszikus modern kori hozzáállás, amikor az ember nem tudja, mit akar, de azt igen, hogy nem azt amit csinál, vagy ami neki jutott. Ilyenkor megy az ember pszichológushoz, segítségért, de maga a pszichológus is azért van ott, hogy segítséget vagy megerősítéseket kapjon, a betegektől.  
 Persze ezzel nem azt akarom sugallni, hogy minden próbálkozót gyógyszeres kezelésre utaljunk, mert a hatalom oldaláról és hatalom vak követőinek részéről is gyakran kapunk ilyen diagnózisokat és terápiás ötleteket mi, akik megpróbálunk valamit feltárni.  
 
@@ -95,8 +108,10 @@ Lásd pl. ebben az esetben:
 
 Hogy [[B/Betsabé\|Betsabé]] esetében mi lehet a valódi háttér, lásd ott.  
 
+<!--section: 8-->
 ## Mit engedhet meg magának az ember
 
+<!--section: 8.1-->
 Ahogy [[N/Népetimológia\|népetimológia]] címnél is szó volt róla, könnyen rásütik az emberre, hogy ilyen levezetéseket gyárt, de a helyzet az, hogy ezt a kockázatot vállalni kell, mert aki nem hasonlít hasonlóval, nem jut előbbre. Arra támaszkodni, hogy hiteles forrásokat keressen az ember, meg azért nehézkes, mert a legtöbb írással és véleménnyel éppen a deszakralizáló rokonnépeink rendelkeznek és az ő gondolatmenetük is zsákutca.  
 [Ezen](https://www.youtube.com/watch?v=FU-3ZCF33hI&t=2620) Agora műsorban Kubínyi Tamás is zsákutcának véli a népi etimológiás levezetéseket, de Kiss Mao-Tun Istvánnak abban igaza van, hogy az idegen nyelvű szavak segíthetnek még a magyar szavak jelentését is megérteni.  
 Ez egy olyan rostálási folyamat, amelynek csak a végeredményét szabadna látnia mindenkinek, de az együtt gondolkodás reményében megoszthatjuk adatainkat, melyre jó lehetőséget nyújt az internet.  
@@ -105,9 +120,10 @@ Amúgy meg marad a bejáratott, elfogadott népetimológia a helyette legyártot
 
 Lásd még [[M/Magyar összefogás hátráltató tényezői\|magyar összefogás hátráltató tényezői]].  
 
+<!--section: 9-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Götz írja:  
+Götz László írja:  
 A kérdés azonban korántsem intézhető el azzal a felületesen odavetett megjegyzéssel, hogy e "csodabogarak" lélektani háttere csupán túlburjánzó nemzeti büszkeség vagy tudálékosság lenne – bár néha kétségtelenül ilyen motívumok is előfordulnak. De legtöbbször egyszerűen arról van szó, hogy kizárólagos finnugor származásunk iskolájának nyelvtörténeti és történelmi elképzelései – igen gyakran még nem szakmabeliek számára is világosan felismerhetően – valószínűtlenek és logikátlanok, legfőképpen pedig mélységesen egyoldalúak. Igen hasznos lenne tehát, ha azt a fontos szempontot is mérlegelnénk, hogy miután a magyar történelem iránt érdeklődő, megfelelő általános műveltséggel rendelkező olvasó ezt észrevette, természetesen más, észszerűbb magyarázatot keres és talál is. Speciális ismeretei, kutatási lehetőségei azonban többé-kevésbé korlátozottak lévén, nem csodálkozhatunk azon, hogy ezek a magyarázatok sokszor nem megfelelőek. Legalábbis egészükben nem – ami azonban távolról sem zárja ki azt a lehetőséget, hogy az egyes részletkérdésekben gyakran nagyon is meggondolandó összefüggéseket lássanak meg.  
 Többnyire ugyanis ez a helyzet a különféle, nem kizárólagosan finnugor irányban haladó őstörténeti elképzelések esetében. Hogy pedig néha egészen fantasztikus nézetek is napvilágot látnak, az csak logikus következménye annak a kézenfekvő analógiának, hogy ha "nekik" – azaz a szakembereknek – szabad bizonyítatlan, sőt sokszor a józan ésszel is ellenkező feltevésekkel érvelniük, akkor ő – a laikus – is gondolhat ki őstörténeti teóriákat. Vice versa.  
