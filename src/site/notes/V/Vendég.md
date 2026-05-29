@@ -1,28 +1,35 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vendég/","title":"Vendég","created":"2023-11-09T11:55","updated":"2024-10-26T00:47"}
+{"dg-publish":true,"permalink":"/V/Vendég/","title":"Vendég","created":"2023-11-09T11:55","updated":"2026-05-29T22:44"}
 ---
 
 
+<!--section: 1-->
 # Vendég
 
+<!--section: 2-->
 #### Péterfai János írja:
 
+<!--section: 2.1-->
 > A vendéget egyes kultúrákban – ahogy a héberektől és a perzsa kultúrából is tudjuk – isteni becsben tartották[^1]. Vend-Ég ill. Ven-Dég lehetséges felbontásai közül utóbbi Fényes Nap értelmű. Mindent elmond arról, hogy a vendéglátásnak a magyar és a magyar világnézetet jól megtartó utódnépeknél nagy, ősi hagyományai vannak.  
 
-A kínai `bīn` = vendég. Mint a vendég szavunk előrésze: [[F/Fény\|fény]]. (A kínaiak Pennsylvania Penn- előrészét is Bīn-nek hangzósítva adják.)  
+A kínai `bīn` = vendég. Mint a `vendég` szavunk előrésze: [[F/Fény\|fény]]. (A kínaiak Pennsylvania Penn- előrészét is Bīn-nek hangzósítva adják.)  
   
 
 Meglepő módon [[V/Venue\|venue]] címnél még az is elhangzik Jankovicstól, hogy vendég szavunk ősmagyar eredetű is lehet. Ha Jankovics Marcell tudná, milyen szép és tökéletesen a szóban forgó téma címéhez illő a jelentése...  
 Lásd még a [[H/Hostile\|hostile]] címnél írottakat. Lásd még idegen, jövevény és vándor témában [[H/Hágár\|Hágár]], [[P/Peregrine\|peregrine]], [[F/Foreign\|foreign]] és [[M/Migrate\|migrate]].  
 
+<!--section: 3-->
 ## Alternatív levezetése
 
+<!--section: 3.1-->
 Már [[L/Light\|light]] címnél két tucat példával bizonyítottuk, hogy ha adott A és B adat (szóalak), nem kell rögtön összekötni őket, hanem az alapszavak ismeretében közös eredetüket kell megpróbálni feltárni.  
 Az alábbiakban a vendég 'jövevény' értelmezéséről lesz szó.  
 
+<!--section: 4-->
 #### Mózes Huba...
 
-...nevű szerző internetről elérhető cikkében a venétek nevéhez kötött etimológiai kísérletről számol be. Ugyanakkor ezen esetben még az is lehetséges – ismerve pl. Mátyás itáliai kapcsolatait –, hogy itt nekik lesz igazuk:  
+<!--section: 4.1-->
+...nevű szerző internetről elérhető cikkében a venétek nevéhez kötött etimológiai kísérletről számol be  
 > Széttartó szójelentések. Megjegyzések vendég szavunk történetéhez.  
 > A magyar szövegtani irodalom egyik jelentős képviselője, BALÁZS JÁNOS 1980-ban lehetségesnek és szükségesnek tartotta könyvében leszögezni, hogy "vendég szavunk eredetét \[...\] áthatolhatatlannak látszó, sűrű homály borítja”, igaz, mindjárt hozzáfűzte, hogy a szó, "bármennyire meglepő is, \[...\] úgy látszik, \[...\] [[V/Venezia\|Velence]] nevével hozható igen szoros kapcsolatba” (BALÁZS 1980: 277).  
 > Ha figyelembe vennénk a TeSz. harmadik kötetében, 1976-ban megjelent vendég szócikket (1113), amely szerint ’idegen származású, máshonnan jött személy’ jelentésű szavunk ismeretlen eredetű, akkor az első idézetet nem túl határozottan ("úgy látszik”) megkérdőjelező második idézettel szemben mégis inkább az első tartalmát kellene érvényesnek elfogadnunk. Csakhogy közel egy emberöltővel korábban, 1946-ban megjelent már a vendég szó eredetéről egy meggondolkoztató fejtegetés, amellyel a második idézet tartalma eléggé kétségbevonhatatlanul összecseng, s amely 1956-ban szerzőjének gyűjtelékes kötetébe is bekerült (SZABÉDI 1946/1956.). A vendég szóval kapcsolatban ebből a fejtegetésből idézem: "Kezdetben ’hospes Veneticus’-t, majd később egyszerűen ’hospes’-t jelentett” (SZABÉDI 1956: 47).  
@@ -34,10 +41,13 @@ Az alábbiakban a vendég 'jövevény' értelmezéséről lesz szó.
 
 Hiba lenne viszont a kínai szóról megfeledkezni; annál is inkább, mert a magyar a vendéggel mindig mint barátjával bánt és a [[B/Barát\|barát]] címnél is említett ónorvég `vinr`, izlandi `vinur` = barát szavak is tartalmazzák ezt a szóelemet.  
 
+Aztán ott van az [[O/Oszét jövevényszavak\|oszét jövevényszavak]] helyen említett oszét `faendag` = vendég. Az is velencei?  
+
 A legkézenfekvőbb azt mondani, hogy a velencei venét (vesd össze a [[V/Vend\|vend]] és [[P/Pannon\|pannon]] nevekkel) mind régi magyar, vagy ha úgy tetszik őseurópai nevek, azaz a végső megoldás [[F/Fény\|fény]] szavunk, csak nem mindegy, mennyi logikai lépcső marad ki.  
 
 És ha már logika: nemcsak a magyar szempontból nézve vendég az idegen, mert más nyelvben jövevényt jelent, továbbá azt feltételezni, hogy a jövevény mindig velencei, értelmetlen, de azt is hogy, a latin `venire` = jönni ige (lásd [[V/Venue\|venue]]) Velence Venetia nevéhez lenne köthető. Ahogy Magyar Adorján részéről elhangzott, ennek a névnek már korábban hajós [[V/Vándor\|vándor]], kereskedő ([[V/Vendor\|vendor]]) értelme volt.  
 
+<!--section: 5-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
