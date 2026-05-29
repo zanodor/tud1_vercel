@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cél/","title":"Cél","tags":["Englishtexttranslated","containscallouts"],"created":"2025-11-20T22:21","updated":"2026-03-19T17:10"}
+{"dg-publish":true,"permalink":"/C/Cél/","title":"Cél","tags":["Englishtexttranslated","containscallouts"],"created":"2025-11-20T22:21","updated":"2026-05-29T22:44"}
 ---
 
 
@@ -24,17 +24,17 @@ A célt azért hívjuk célnak, mert a [[S/Szél\|szél]], szellet, [[S/Szellem\
 > [!important] &nbsp;
 > Kimondható, hogy cél szavunk alapjelentése is csillag.
 
-A célunk a szellemiség, nem az anyag. Erről szól a [[S/Sárkány\|sárkány]] jelkép is.  
+Célunk a szellemiség, nem az anyag. Erről szól a [[S/Sárkány\|sárkány]] jelkép is.  
 
 > [!example] &nbsp;
 > Ha félig németül, félig hollandul akarnánk megfogalmazni, akkor mondhatnánk, hogy "Das Ziel ist ziel." `Ziel` a németben cél, a hollandban lélek, szellem jelentésű.  
-> A lentebb még említett görög `τέλος` = cél a magyar szóval szintén egyező alakú és értelmű.
+> A lentebb még említett görög `τέλος` = cél a magyar szóval szintén egyező alakú és értelmű.  
 
 
 
 ## Kozmikus cél és termékenység
 
-A cél lehet – emberi szinten – a folyamatos nemzés, az emberi állomány fenttartása a bolygónkon. Ugyanígy a kozmikus egyensúly fenntartása érdekében nemzésre van szükség. A nemzés alatt itt az isteni rendező elvet és erőt (lásd [[E/Eros\|Erósz]]) kell érteni. Ezek után mondhatjuk, hogy amikor Magyar Adorján azt írja, hogy a női szeméremrésznek kellett legyen a szemere szócsoportban mét, még[^1] alakú neve, ami azután összefüggésbe került a `madeo`, `madido`, `mota`, `muta`, `mud` nedvességet és iszapot jelentő latin, olasz, finn és angol szavakkal, illetve mindezek egykori ősével, de ugyanígy a med, met: méz, továbbá még a [[M/Meta\|meta]] = cél szóval is, akkor mondhatjuk, hogy a cél, mely elérése hímségi törekvés, a női szemérem, kozmikus értelemben a [[G/Galactic centre\|Tejútközpont]].  
+A cél lehet – emberi szinten – a folyamatos nemzés, az emberi állomány fenntartása a bolygónkon. Ugyanígy a kozmikus egyensúly fenntartása érdekében nemzésre van szükség. A nemzés alatt itt az isteni rendező elvet és erőt (lásd [[E/Eros\|Erósz]]) kell érteni. Ezek után mondhatjuk, hogy amikor Magyar Adorján azt írja, hogy a női szeméremrésznek kellett legyen a szemere szócsoportban mét, még[^1] alakú neve, ami azután összefüggésbe került a `madeo`, `madido`, `mota`, `muta`, `mud` nedvességet és iszapot jelentő latin, olasz, finn és angol szavakkal, illetve mindezek egykori ősével, de ugyanígy a med, met: méz, továbbá még a [[M/Meta\|meta]] = cél szóval is, akkor mondhatjuk, hogy a cél, mely elérése hímségi törekvés, a női szemérem, kozmikus értelemben a [[G/Galactic centre\|Tejútközpont]].  
 
 ## A nyíl szimbóluma az égben és a földön
 
