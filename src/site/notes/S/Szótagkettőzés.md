@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T05:21","updated":"2026-05-08T23:05"}
+{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T05:21","updated":"2026-05-29T22:44"}
 ---
 
 
@@ -12,7 +12,7 @@ Legutóbb a [[B/Barbár\|barbár]] elemzésénél is előjött (lásd [[B/Barber
 Galgal szerepelt a [[M/Mastabbagalgal\|Mastabbagalgal]] névben is. Ott nem jött elő kerekség, hanem csak többesszám.  
 Varga Zsigmond Ősmagyar mitológia című könyvének (a PDF) 65-66. oldalán talált adat szerint is a kettőzés többesszámot jelent; például `dingir gal-gal` = nagy istenek.  
 
-#### Péterfai János is írja:  
+#### Péterfai János írja:  
 
 > Van egy Hannahannah nevű heta istennő is, aki a születés és az anyaság istennője. A név duplázott, ősi jellegzetesség. Amikor duplázzuk a szavainkat, akkor a többes szám, vagy a hangsúlyozás kerül előtérbe. Hannahanna a nép folyamatos újra termelődéséért felelős istennő, a "születések úrnője". De a névben az An, Ana, Anya jelentés van benne.  
 
