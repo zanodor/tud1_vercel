@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:32","updated":"2026-05-21T05:00"}
+{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:32","updated":"2026-05-29T22:42"}
 ---
 
 
@@ -19,6 +19,7 @@ Lényegében mi a hun [[A/AN, ÁN\|An]] = ég, menny szavunk nyomán használjuk
 
 A latin [[E/Ego\|ego]], germán `ich` és társai pedig a magyar [[E/Ég\|ég]] szóból indulnak ki: mindegyik annak bizonyításául szolgál, hogy az emberek ismerték eredetüket. A népek nevei is hasonlóan alakultak ki, ahogy az országok nevei is.  
 A latin `ego` = én szó tehát nem annyira a Nap tkp. [[E/Égő\|égő]] nevéből képzett, hanem [[E/Ég\|ég]] és [[E/Egy\|egy]] szavunkból, ahogy erről [[I/I#I 2)\|I]] és [[A/AN, ÁN\|AN, ÁN]] címnél is volt szó.  
+- Akár ezen elemek összetétele is lehet az [[E/Ember#Inuk\|inuk]] helyen taglalt inuit `iñuk` = ember, és érdekes módon [ezen](https://en.wiktionary.org/wiki/i%C3%B1uk#Inupiak) Wiktionary oldalon még grönlandi szavakat is megadnak, pl. grönlandi `inuk` és kelet-grönlandi `iik` = ember, mely utóbbi azért érdekes, mert a latin `ego` és német `ich` = én szavakhoz hasonlóan itt is én = ég = isten azonosításra lehet gondolni és az, hogy `én` szavunk is meglehet itt előtagként, az külön érdekes.
 
 De közben ugariti-héber összefüggésre is rámutathatunk: a bibliai [Onán](https://hu.wikipedia.org/wiki/On%C3%A1n) nevét a héber `און` = erő; szexuális potencia szóra vezetik vissza, és egy ilyen jelentésű(nek meghatározott?) ugariti `ản` = erő, hatalom szót jelölnek meg eredetéül, de annak [Wiktionary oldalán](https://en.wiktionary.org/wiki/%F0%90%8E%80%F0%90%8E%90#Ugaritic) ezen jelentéskörrel már nem foglalkoznak. Van ott viszont az [[U/Ugarit#Ugariti nyelv\|ugariti nyelv]] helyen táblázatban is taglalt, magyar `én` szavunkkal is megfelelő egyes szám első személyű névmásról is szó, mely megint visszavezet oda, hogy **a kiinduló egy istent jelentő szó kell legyen**, és hogy én szavunk mutatja, hogy ebből a magasabb rendű lényből bennünk is van.  
 
@@ -47,8 +48,7 @@ A szanszkritban `sva-pati` - szó szerint a maga ura – [[S/Szabad\|szabad]] sz
 > A német `ich` nem 'ish'. Ez egy h/k, mint a latin [[E/Ego\|ego]]-ban. Mindkettő a magyar [[E/Ég\|ég]], azaz Isten lakhelye szóból származik (az ősi emberek isteni szellemükkel/lelkükkel azonosították magukat, nem pedig testükkel és pénzükkel; vö. még a szkíta-iráni [[K/Khuda\|Khuda]] = Isten és a perzsa `khod` reflexív használata).  
 > Ennek az Istennek megvan a megfelelője, az Ördög/Sátán. **Vö. a barát és ellenség jelentésű perzsa szavakkal**. Ezekben a magyar `tűz` szó is benne van. Annak bizonyítására, hogy a zoroasztriánus [[D/Dualisztikus világkép\|dualisztikus világkép]] Irán előtti, és hogy a szavak valójában egy indoeurópai előtti rétegből származó európai szavakra épülnek, többre lenne szükség, mint néhány sor.  
 > Egy baráti tanács az irániaknak: ne fogadják el a nyugati szakértői véleményeket, mert 1) nem érdeklik őket az pre-indoeurópaiak és a pre-szemiták 2) *azok pénzén fizetik őket, akik a testükkel és a (piszkos, haszonszerzéssel szerzett) pénzükkel azonosítják magukat*.  
-> Egy barát (ellenség?) Magyarországról { #nko2h3}
-
+> Egy barát (ellenség?) Magyarországról { #nko2h3}
 
 
 ...és az Isten jelentésű khoda ([[K/Khuda\|Khuda]]) is [[K/Kut\|kut]] és [[K/Kutya\|kutya]] szavunkkal látszik párhuzamot alkotni, ahogy [[G/God\|God]] címnél írottak alapján láttuk. A kutyáról ([[D/DUG\|DUG]] és [[D/DOG#Dog 2)\|dog]] szónál írottak alapján) tudjuk, hogy szent (hurri `kuta` = szent) állat, valamint [[K/Kutyahitű\|kutyahit]] címnél körüljártuk, hogy az [[E/Ember\|ember]] lelke kutyalélek (innen válik érthetővé a khod- visszaható névmás önvaló, lélek (ókínai, hun nyelvben [[K/Kut\|kut]] = életerő, lélek) értelemre való visszavezethetősége).  
