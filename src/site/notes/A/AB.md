@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/A/AB/","title":"AB","tags":["Englishtexttranslated"],"created":"2023-10-20T05:11","updated":"2026-03-05T01:42"}
+{"dg-publish":true,"permalink":"/A/AB/","title":"AB","tags":["Englishtexttranslated"],"created":"2023-10-20T05:11","updated":"2026-05-29T22:44"}
 ---
 
 
+<!--section: 1-->
 # AB
 
+<!--section: 2-->
 #### Péterfai János írja:
 
+<!--section: 2.1-->
 > Jelentése ház, város, törzs(?). Az Ab egyik jelentése Víz, Folyó, azután Felső. Az Apa, Aba is Felső a gyerekek előtt. Az Áb-Ra Háza az Embernek, vagy Felső része az Embernek, vagyis az Ábra az Arca, mindenkinek. Az Ab-Lak névben a Lakon lévő Felső nyílás az Ab. Egyes ősi városokban tényleg csak a tetőn lehetett bejutni a laktérbe.  
 >
 > Az is kétségtelen, hogy az Ab némely esetekben [[H/Hab\|Hab]] formát vehet fel. A Hab a vízzel, és más folyadékokkal kapcsolatos, a folyadékok felső részén helyezkedik el. Ilyen a Ser habja, vagy a Tej habja, amelyek a folyadék felszíne felett habzanak. A Hab talán a Ha-Ab, Háza a Víznek, fogalomból eredhet. A Hab tehát valószínűleg összefüggésben áll az Ab szóval.  
@@ -23,47 +26,56 @@ Lajos Kazár: Japanese-Uralic language comparison című  írásából közöl R
 
 Az AB = víz értelme tetten érhető lehet még például a ser szavunkból képzett(?) bor jelentésű perzsa és török `sarab` szóban is. Lásd még [[S/Sarāb\|sarāb]].  
 
-Vízszintre utaló `apad` szavunkat (a víz mindig a legalsó helyet keresi) ugyan A-Pad formában elemzi Péterfai János, de [[A/AP\|AP]] = **AB**.  
+Vízszintre utaló `apad` szavunkat (a víz mindig a legalsó helyet keresi) ugyan A-Pad formában elemzi Péterfai János, de [[A/AP\|AP]] = **AB**.
 
 Az AB ház jelentéséről [[H/Hab\|hab]] címnél is volt szó. Ott is szerepelt Rasmus Bjørn Foreign elements in the Proto-Indo-European vocabulary című írásának 67-68. oldaláról való adata; hasonló hehes (nem víz hanem) folyó jelentésű szavakat hoz fel[^2]; a víz és a folyó értelmek nem összeegyeztethetetlenek, sőt fentebb Péterfai János ilyen szinonim jelentéseket is megad.  
 
 ![assets/AB_image1.png|fix_dark fix_light|550](/img/user/A/assets/AB_image1.png)  
 ![assets/AB_image2.png|fix_dark fix_light|550](/img/user/A/assets/AB_image2.png)  
-[Ezen](https://qr.ae/pNzgNw) Quora oldalon egy jó táblázat szerepel, nemcsak vizet jelentő román szóval.  
+[Ezen](https://qr.ae/pNzgNw) Quora oldalon egy jó táblázat szerepel, nemcsak vizet jelentő román szóval.
 
 AB az [[A/Aba\|aba]] és [[A/Abu\|abu]] szavakban alkotóelem, így Ábrám/[[A/Ábrahám\|Ábrahám]] nevében is ez van meg (vagy Eb).  
 Az Ebcsillag mellett ott a Tejútfolyó, azaz Ab, ahogy [[O/Ob\|Ob]] is erre kell vonatkozzon. Az [[A/Ardvisura Anahita\|Ardvisura Anahita]] címnél taglalt [[A/Apam Napat\|Apam Napat]] és a [[N/Négy#Négy folyó\|négy folyó]] kapcsán pedig jegyezzük meg az [[U/UB\|UB]] címnél szereplő Varga Zsigmond féle adatot, miszerint az égréteg, az égtáj szumir neve `ub`, `ib`.  
 
-[[D/Dudás Rudolf\|Dudás Rudolf]]nál `AB` = kinyit, ablak sumér nyelven. Minderről lásd még [[O/OP\|OP]], [[O/Open\|open]], [[O/Optics\|optics]], stb.  
+[[D/Dudás Rudolf\|Dudás Rudolf]]nál `AB` = kinyit, ablak sumér nyelven. Minderről lásd még [[O/OP\|OP]], [[O/Open\|open]], [[O/Optics\|optics]], stb.
 
+<!--section: 3-->
 ## AB – Apa
 
+<!--section: 3.1-->
 Götz László Keleten kél a Nap című könyvének 165. oldalán szumér-latin szavak párhuzamait bemutató szavak között találjuk a szumér `AB` = apa szó mellé téve a latin `avus` = előd szót ([[A/Ava\|ava]] címhez is betéve).  
-  
 
+
+<!--section: 4-->
 ### AB törzs értelméről
 
-Tóth Gyula Szkítiától Maghrebig blogján a Maghreb és főleg a magyaráb nevek kapcsán mondja el, hogy az -ab szórész törzs jelentése onnan jön, hogy az `ab`/`aba` = apa jelentésű, azaz az apától való leszármazás adja a jelentést. [[M/Maghreb\|Maghreb]] névben -eb Péterfai Jánosnál király(ság) értelmű.  
+<!--section: 4.1-->
+Tóth Gyula Szkítiától Maghrebig blogján a Maghreb és főleg a magyaráb nevek kapcsán mondja el, hogy az -ab szórész törzs jelentése onnan jön, hogy az `ab`/`aba` = apa jelentésű, azaz az apától való leszármazás adja a jelentést. [[M/Maghreb\|Maghreb]] névben -eb Péterfai Jánosnál király(ság) értelmű.
 
+<!--section: 5-->
 ### AB – Apa és Víz kapcsolat
 
+<!--section: 5.1-->
 Az apa értelem rövidebb Ap, Ab szavakban való kifejeződéséről volt szó [[J/Japhet\|Japhet]] neve kapcsán is [[A/AP\|AP]], ahol szóltunk arról is, hogy az ugariti nyelvben is `ảb` = apa.  
 Ami a vizet illeti, fentebb a táblázatokban már láttuk az apa, aba alakú szavakat.  
 A *How long does it take for a complex language to evolve?* Quora kérdésre [ezen](https://qr.ae/pNK4j5) oldalon adott válaszomban az apa és víz (megtermékenyítő eső) jelentésű ómagyar és germán szavak közötti logikai egyezésre hívom fel a figyelmet (leginkább a saját magam figyelmét):  
 > Well, probably it won't have happened in one cycle of evolution. Ideally, language will be based on 7 vowels. One consonant will be pasted to the vowel. Then you have a word. (Correction: a vowel by itself can be a word as well.)  
-> For example A+B = AB(a) = father and water (in Magyar, Romanian, Persian and Arabic) (fatherly water comes from up above (AB = [[U/Up\|UP]]; AB means up as well); without rain, Mother Earth will dry out). (Scythian-Germanic [[F/Father\|father]] and [[W/Water\|water]] are also very similar to one another, although it looks like more of a coincidence than anything else.)  
+> For example A+B = AB(a) = father and water (in Magyar, Romanian, Persian and Arabic; fatherly water comes from up above (AB = [[U/Up\|UP]]; AB means up as well); without rain, Mother Earth will dry out). (Scythian-Germanic [[F/Father\|father]] and [[W/Water\|water]] are also very similar to one another, although it looks like more of a coincidence than anything else.)  
 > —  
 > Nos, valószínűleg nem egy evolúciós ciklus alatt történt. Ideális esetben a nyelv 7 magánhangzóra épül. A magánhangzóhoz egy mássalhangzó lesz illesztve. Akkor szónak hívjuk. (Illetve egy magánhangzó önmagában is lehet szó.)  
-> Például A+B = AB(a) = apa és víz (magyarul, románul, perzsául és arabul) (az apai víz fentről jön (AB = [[U/Up\|UP]]; AB azt is jelenti, hogy fent); eső nélkül a Földanya kiszárad). (A szkíta-germán [[F/Father\|father]] és a [[W/Water\|water]] szintén nagyon hasonlít egymásra, bár ez inkább tűnik véletlennek, mint bármi másnak).  
+> Például A+B = AB(a) = apa és víz (magyarul, románul, perzsául és arabul; az apai víz fentről jön (AB = [[U/Up\|UP]]; AB azt is jelenti, hogy fent); eső nélkül a Földanya kiszárad). (A szkíta-germán [[F/Father\|father]] és a [[W/Water\|water]] szintén nagyon hasonlít egymásra, bár ez inkább tűnik véletlennek, mint bármi másnak).  
 
-A már másutt felfedezett [[F/Father\|father]] – [[W/Water\|water]] hasonlóság mellett ki lehetett volna térni Quorán (vagy ha nem, csak itt) arra, hogy a zsidó [[J/Jahve\|Jahve]] névnek is megvan az [[A/Aquatic\|aquatic]], [[E/Ekva\|ekva]] és [[J/Jahve\|Jahve]] címnél taglalt vizes (és a vízből, [[H/Hab\|hab]]ból (AB = HAB) eredő lovas) kapcsolata.  
+A már másutt felfedezett [[F/Father\|father]] – [[W/Water\|water]] hasonlóság mellett ki lehetett volna térni Quorán (vagy ha nem, csak itt) arra, hogy a zsidó [[J/Jahve\|Jahve]] névnek is megvan az [[A/Aquatic\|aquatic]], [[E/Ekva\|ekva]] és [[J/Jahve\|Jahve]] címnél taglalt vizes (és a vízből, [[H/Hab\|hab]]ból (AB = HAB) eredő lovas) kapcsolata.
 
+<!--section: 6-->
 ## AB ház, befoglaló, birtokos jelentéséről
 
+<!--section: 6.1-->
 [[G/GA\|GA]] címnél már láttuk, hogy a ház alapjelentésből hogyan lesz birtokos értelem. [[O/Of\|Of]] címnél járva ötlött fel legutóbb, hogy övé szavunk nemcsak Ő személyes névmásunkból jöhet létre.  
 [[D/D\|D]] címnél Czeglédi Katalin is írja (ha nem is ezekkel a szavakkal), hogy a(z itt házzal összefüggésbe hozható) helyhatározó ragok és 'valamihez való tartozás, valami mellett lévő hely' jelentések összetartoznak.  
-A [[S/Szarvas\|szarvas]] név elemzésekor szóba került az [[A/AS\|AS]] = Ház, birtokos értelme.  
+A [[S/Szarvas\|szarvas]] név elemzésekor szóba került az [[A/AS\|AS]] = Ház, birtokos értelme.
 
+<!--section: 7-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
@@ -83,4 +95,4 @@ Egyiptomi: `hpi` 'megy, utazik'.
 Vita: A Bomhard által a genetikai rokonság bizonyítékaként javasolt (1981: 436) hasonlítás szemantikai diszkontinuitásban szenved, és nem tükrözi a PIE-hez vagy a PIE-ből való kölcsönkapcsolatokat. További afro-ázsiai származékot sem lehet biztonsággal megállapítani.  
 ——  
 Oscar Tey egy Quora válaszában is hoz rokonokat:  
-Hep- spawned the Sanskrit word for water, `áp`, and is the source of roughly half all Indo-European words for "stream", such as Latin `amnis`, Persian `āb`, Celtic `avon`, Latvian `upe`, and Armenian `hawaṙi`. (Oh, you strange fellow, Armenian.) It gives English only a few place names like the Celtic `avon`, as in Stratford-upon-Avon of Shakespearean fame, which was located at a river.  
+Hep- spawned the Sanskrit word for water, `áp`, and is the source of roughly half all Indo-European words for "stream", such as Latin `amnis`, Persian `āb`, Celtic `avon`, Latvian `upe`, and Armenian `hawaṙi`. (Oh, you strange fellow, Armenian.) It gives English only a few place names like the Celtic `avon`, as in Stratford-upon-Avon of Shakespearean fame, which was located at a river.
