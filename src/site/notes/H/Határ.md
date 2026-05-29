@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Határ/","title":"Határ","tags":["Englishtexttranslated"],"created":"2024-11-19T19:55","updated":"2025-06-08T00:44"}
+{"dg-publish":true,"permalink":"/H/Határ/","title":"Határ","tags":["Englishtexttranslated"],"created":"2024-11-19T19:55","updated":"2026-05-29T22:43"}
 ---
 
 
@@ -53,7 +53,7 @@ Lásd még hasonló témát [[M/Meta#Határ és elválaszt ideái\|határ és el
 
 Mivel a [[K/Kutya\|kutya]] a [[F/Félév\|félév]]-határjelző csillag, ezért talán nem dőreség a [[K/Kutya\|kutya]], [[K/Kudurru\|kudurru]] és határ szavak között hasonlóságot keresni.  
 
-Ipolyi Arnold Magyar mythologia című könyvének 577. oldalán szól a nyílvetés határjelölő szerepéről. Márpedig a Nyilas szintén a Tejúton található. Sőt, a görög `bélosz` = nyílvessző kapcsán is a [[F/Fél\|fél]] szavunk került képbe.  
+Ipolyi Arnold Magyar mythologia című könyvének 577. oldalán szól a nyílvetés határjelölő szerepéről. Márpedig a Nyilas szintén a Tejúton található. Sőt, a görög `βέλος` (`bélosz`) = nyílvessző kapcsán is a [[F/Fél\|fél]] szavunk került képbe.  
 
 A magyar [[S/Szab\|szab]] értelméből indul ki a mongol szab egyik főnévi jelentése: határ, korlát.  
 
