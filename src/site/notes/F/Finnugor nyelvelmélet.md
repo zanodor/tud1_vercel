@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor nyelvelmélet/","title":"Finnugor nyelvelmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:31","updated":"2026-05-22T00:19"}
+{"dg-publish":true,"permalink":"/F/Finnugor nyelvelmélet/","title":"Finnugor nyelvelmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:31","updated":"2026-06-05T20:50"}
 ---
 
 
+<!--section: 1-->
 # Finnugor elmélet
 
+<!--section: 1.1-->
 A régi neve annak, amit manapság **uráli nyelvcsalád elmélet**nek neveznek.  
 
 A hivatalos fáma szerint:  
@@ -15,22 +17,28 @@ Az ősi uráli alapnyelvből fejlődtek a nyelvcsalád tagjai. A magyar nyelv fi
 
 Egyéb "rendkívül hasznos" őshaza-ábrákat lásd még [itt](https://archive.ph/RIAiZ).  
 
+<!--section: 2-->
 #### Schmidt Irén A magyarok és elődeik istenképe, találkozásuk a kereszténységgel a római térítés előtt 1-2....
 
+<!--section: 2.1-->
 ...című az Ősi Gyökér 2011/2. és 3. sz. megjelent dolgozatában írja:  
 > A magyarságot 1849-ig mint a [[S/Szkíta\|szkítá]]k utódját ismerték, s ezt a nemzettudatot krónikáinkon túl törvényhozásunk is megőrizte.  
 > A Rákos mezején tartott országgyűlés a szabad királyválasztásról hozott határozatot. Az 1505. október 13-i szövegben a magyar nemzet fogalmára következetesen a "szkíta nemzet" kifejezést használja. Corpus Iuris Hungarici 1505. Rákosi végzés. MKLex. [http://lexikon.katolikus.hu/R/rakosi.végzés](https://lexikon.katolikus.hu/R/r%C3%A1kosi%20v%C3%A9gz%C3%A9s.html)  
 > Az 1848-as szabadságharc leverése után előtérbe került "finn-ugor" származáselmélet azonban – mely egy nyelvi hipotézisen alapult és a magyar őshazát az Ural ill. Szibéria előterébe utalta – a Habsburg-dinasztia hatalmi szóval megvalósított történelem-szemléletét tükrözte. Az említett nyelvcsalád-elmélet teoretikusainak azonban roppant kapóra jött!  
 
+<!--section: 3-->
 #### Varga Csaba Mire lehet büszke a magyar?...
 
+<!--section: 3.1-->
 ...című az Ősi Gyökér 2015/3-4. sz. megjelent cikkében is írja (bevezetést lásd [[M/Magyar nyelv jövevényszavai\|magyar nyelv jövevényszavai]]):  
 > Aki vizsgálni kezdi megalapításától kezdve mindmáig tartóan a Magyar Tudományos Akadémiának a magyar nyelvről (és a magyar történelemről) alkotott hivatalos véleményét, bizony nagyon meglepődik. Ugyanis gyökeres fordulatot fedez fel a 48-as forradalom leverését követően. Igaz, már 48 előtt is erős volt a magyar nyelvet megsemmisítő igyekezet. Például Blaha Lujza részint azért maradt meg emlékezetünkben, mert a magyar főváros magyar színpadán magyarul merészelt megszólalni. Ez akkor "skandalum" volt. Hasonló, halált megvető bátorságról tett tanúbizonyságot Széchenyi István is, ő pedig a magyar parlamentben vette magának azt a bátorságot, hogy magyarul szólaljon fel. Ám ez csak a politikai elnyomás része volt, a [[H/Habsburg\|Habsburg]]ok magyargyűlöletéből fakadt. A magyar nyelvről és történelemről magyar tudományos fórumon kialakított vélemény a Kiegyezés után lendült át teljesen az ellenkező oldalra: mégpedig a magyarokra megalázóvá vált, s aztán ez a vélemény egyeduralkodóvá – mindmáig. Itt tehát az a nagy kérdés, hogy vajon mi volt a Magyar Tudományos Akadémia hivatalos véleménye a Nagy Fordulata előtt? Erre a Magyar Tudományos Akadémiának az 1860-as években már csak nagy-nagy nehezen, de mégiscsak megjelent szótárában az úgynevezett Czuczor-Fogarasi értelmező szótárban, melynek előkészítésében Vörösmarty Mihály is részt vett – könnyen találunk választ.  
 > \[...\]  
 > Ám a szabadságharc leverése után fordult a kocka, kitették a magyar nyelvészeket és történészeket a Tudományos Akadémiáról, s helyettük németeket (idegen szívűeket) hoztak. Volt ki akkor kezdett magyarul tanulni, mikor már magas rangot töltött be a Magyar Tudományos Akadémián. (Például [[B/Budenz József\|Josef Budenz]], [[H/Hunfalvy Pál\|Paul Hunsdorfer]], s ez utóbbi arról is nevezetessé vált, hogy elégette a [[S/Szentkatolnai Bálint Gábor\|Szentkatolnai Bálint Gábor]] által összegyűjtött magyar rovásírásos emlékeket. A vonulat eredete világos: a XVIII. században élt német J. E. Fischer és A. L. Schlözer már történelem nélküli népnek minősítette a magyarokat.) Tehát nem arról van szó, hogy a Magyar Tudományos Akadémia magyar tudósai egyszercsak hirtelen és egyöntetűen az ellenkezőjét kezdték állítani annak, mint amit addig mondtak, hanem arról van szó, hogy egyszerűen lecserélték a "személyzetet" – felelősséggel leírható: magyargyűlölőkre.  
 
+<!--section: 4-->
 #### Götz László Keleten kél a Nap...
 
+<!--section: 4.1-->
 ...című könyvének 212. oldalán írja "finnugor származásunk iskolájá"-ról:  
 > Az indogermanisztika rohamos térhódítása az európai tudományosságban hamarosan nálunk is éreztette hatásait. Az 1850-es évek után a 48 előtti magyar kutatók történelmi irányzata és szemlélete mindinkább háttérbe szorult, párhuzamosan a magyarok kizárólagos finnugor eredetét hirdető német és osztrák iskola – Schlözer, majd követői: Zeuss, Büdinger, Róssler, Dümmler stb. – nézeteinek fokozatos térhódításával. Ez a radikálisan indogermán szemléletű kutatócsoport mindennemű másirányú nyelvi, etnikai és történelmi kapcsolatunknak még a lehetőségét is kategorikusan tagadva azt állította, hogy a magyarok őstörténetét, népünk és nyelvíink származását csakis a finnugoroknak elnevezett népek által lakott területeken, azaz a Felső-Volga, Oka, Káma folyók, az Urál hegység és Nyugat-Szibéria térségében, az eurázsiai erdőövben szabad kutatni, nagyjából az 50-55. szélességi foktól északra.  
 > Ez az elmélet nem volt más, mint az akkori indogermanisztika globális, kontinentális méretű őstörténeti szemléletének szerves része. Miután Elő-Ázsiát, Iránt, Közép-Ázsiát és az eurázsiai steppét – a Kárpát-medencétől Mongóliáig és Kínáig – mindenütt indogermánokkal népesítették be, a magyarok számára, akikről "megállapították", hogy **Európába a barbárság legalsó fokán állva érkeztek**, egyszerűen nem maradt szabad terület a délebbi, kulturáltabb "indogermán" térségben.  
@@ -87,15 +95,19 @@ R. F. Kaindlnek (Studien zu den Geschichtsquellen, VII., VIII.) kellett a száza
 
 > A nyelvhasonlítás igen nagy segítséget nyújthat a történésznek, de csak akkor, ha módszeresen, a történelmi adatokból, forrásokból indul ki, s ezeket sohasem hagyja figyelmen kívül nyelvtörténeti következtetéseinél. Pontosan ez a módszeresség hiányzik azonban a finnugor szemléletű magyar nyelvészetből és [[T/Történelemtudomány\|történelemtudomány]]ból. Ez odáig vezetett, hogy nyelvészeink szerint a magyaroknak nem is olyan sok idővel a honfoglalás előtt úgyszólván nem volt nyelvük, mert szinte minden szavukat azóta kölcsönözték különféle idegen népektől. Különös jelenség nálunk az is – írja Fischer –, hogy tudósaink kézzel-lábbal kapálóznak az ellen a többszörösen kimutatható történelmi adat ellen, hogy legalábbis részben a hunoktól, illetve ezeken keresztül a szkitáktól származunk. Még különösebb azonban az az igyekezetük, hogy minden magyar sajátosságról – legyen az akár művészeti teljesítmény, ipari tárgy, szellemi fogalom vagy magasabb műveltségre mutató szó – bebizonyítsák: mindazokat más népektől, nyelvekből kölcsönöztük.  
 
+<!--section: 5-->
 #### Kiszely István...
 
+<!--section: 5.1-->
 ...tömören, de részletesen leírja előtörténetét:  
 > A 17. században Szenczi Molnár Albert, Johann Eberhard Fischer, August Schlözer vonták kétségbe. Majd a monarchiát kiszolgáló, a nyelvtudományban laikus csillagász Sajnovics János (1733-1785), Schlözernek orvos barátja, Gyarmathy Sámuel (1751-1830), a nyelvész Reguly Antal, majd a szász származású Hunfalvy (Hunsdorfer) Pál nyelvész és a német Joseph Budenz megalkottak egy olyan magyar "őstörténetet", amely a magyar nép büszkeségét, múlt-tudatát és ősiségét elvéve, a magyarságot a ma is gyűjtögető-halászó kultúrájú finnugor népektől származtatja. Az eredetileg magyar érzelmű Trefort Ágost (1817-1888) Vallás- és Közoktatásügyi miniszter a kancellária által ráerőltetett finnugor őstörténet ellen tiltakozó magyaroknak a kor szellemének megfelelően így válaszolt: "Tisztelem az urak álláspontját, nekem azonban –, mint miniszternek – az ország érdekeit kell néznem, és ezért a külső tekintély szempontjából előnyösebb finnugor származás princípiumát fogadom el, mert nekünk nem ázsiai, hanem európai rokonokra van szükségünk[^1]. A kormány a jövőben csakis a tudomány ama képviselőit fogja támogatni, akik a finnugor eredet mellett törnek lándzsát." \[Ferenci D. Ebubekir Magyarok és az iszlám című könyvéből\]  
 
 A finnugrász Hegedűs József Rendhagyó magyar nyelvhasonlítás-történet című, a Magyar Nyelv 1998. december számában megjelenő tanulmányában is említi Gyarmathyt, egy 1799-es dátummal.  
 
+<!--section: 6-->
 #### Bakay Kornél A hiteles magyar őstörténet nevében...
 
+<!--section: 6.1-->
 ...című Ősi Gyökér 2004/4. sz. megjelent cikkének adataiban jobban hihetünk ((tanulságos lenne a cikk feléhez képest az egészet ide tenni, de nincs hely):  
 > Csúcs Sándor azt írja, hogy "nyelvünk finnugor rokonságát tudományos módszerekkel (sic!).. Sajnovics János és... Gyarmathy Sámuel bizonyította be (sic!) 1770-ben, illetve 1791-ben." Több, mint meglepő, hogy a Pázmány P. K. Egyetem jeles tanára ilyen mondatot le mer írni, hiszen J. E. Fischer 1768-ban megjelent Sibirische Geschichte című könyvében mutatta ki először a magyarral rokon nyelveket s az ő szójegyzéke alapján fejtette ki téziseit A. L. Schlözer 1770-ben (Probe russischer Annalen) és 1771-ben (Allgemeine Nordische Geschichte) s ugyancsak Schlözer vette rá Hell Miksát, ő pedig Sajnovics Jánost, majd később hasonlóképpen Gyarmathy Sámuelt is. Schlözer noszogatta a finnugor nyelvek összehasonlító tanulmányozására. Hell Miksa Erasmus Frölich, Johannes Scheffer és Joseph Franz útmutatásait követte s így Magyarországon lényegében ő indította el a magyar-finn rokonítást. (Nyelvtudományi Közlemények 85/1983/ 297 – 303.) Ezek tények. Arról nem is szólva, hogy Sajnovics János, a mai finnugristák által súlyosan elítélt, szóhasonlítgatások révén jutott (sokszor elképesztő) következtetésekre.  
 > Schlözer hírhedt magyargyűlölete kortársai eőtt is közismert volt. Nézetei között szerepelt, hogy a magyaroknak nincs saját történelmük és nincs helyük Európa fő népei között, nincs joguk nemhogy Erdélyre, de Magyarországra sem!  
@@ -142,8 +154,10 @@ Ami viszont közvetlenül ide tartozó és ide tehető:
 > Mai magyar nyelvünk viszont nem vezethető vissza a rekonstruált alapnyelvhez: "A magyar nyelv finnugor alapjainak vizsgálatához az lenne az ideális eljárás, hogy a mai nyelvállapotból kiindulva jussunk el az alapnyelvig. Ez azonban gyakran nem lehetséges vagy rendkívül bonyolult."  
 > A nem reálisan létezett nyelvi tényekre alapozott bizonyítatlan feltevések egymásra halmozott sorozata végén csakis nem reálisan értékelhető nyelvészeti eredményt kaphatunk. Ennek ismeretében kifejezetten szándékos félrevezetésnek tekintjük nyelvünk vélt finnugor/uráli eredetét bizonyított, tudományos tételként hirdetni!  
 
+<!--section: 7-->
 #### Bakos Attila A Duna Evangéliuma...
 
+<!--section: 7.1-->
 ...című könyvének 127-128. oldalán írja:  
 > Az árja tudósok sehogy sem tudták bebizonyítani a sumér-indoeurópai rokonságot, ekkor a Bukarestből származó \[a neten azt olvasni, francia, Bukarestben tanító\] szemita [[H/Halévy, Joseph\|Halévy, Joseph]], aki később Párizsban tevékenykedett, engesztelhetetlen hevességgel támadta a sumér-magyar rokonság tényét, azt a képtelenséget hirdetve, hogy a sumér nép (akiket egyébként a szemiták mészároltak le és kényszerítették elvándorlásra) nem is létezett, sőt, a sumér nyelv, szemita papok mesterséges, titkos nyelve. A nyugati tudósok, kevés kivételtől eltekintve ezt az állitást készséggel elfogadták, a turáni eredet valóságával szemben. Nehéz tehertől szabadultak meg. A jeles kivételek között volt az angol Sayce, aki rezignáltan a következőket írta: "Az emberiség bozzászokott ahhoz a gondolathoz, hogy Ádám zsidó volt és ettől nem akar tágítani."  
 > A tragikusan, Arany János halála óta soha nem magyar, Magyar Tudományos Akadémia, a szemita Goldzicher Ignác szakmai befolyásának engedve, az elképesztő Halévy elméletet fogadta el és a sumér-magyar rokonság kérdését a tudományos babonák, a délibábos remények körébe száműzte, utat nyitva a Halevy elméletéhez hasonlóan, szintén teljesen képtelen finnugor származás elmélet gőzhengerének.  
@@ -187,8 +201,10 @@ Marácz és az én írásom kapcsán ki kell hangsúlyozni, hogy nem azért kell
 > Az elmúlt évtizedekben egyre több nyelvész vélekedik úgy, hogy az altaji, mongol és tunguz nyelvek hasonlóságának az az oka, hogy mindegyikre alapvető hatást gyakorolt a Hun Birodalom nyelve. Ezt a nyelvet mi szkíta-hun nyelvnek nevezzük. Hunnia fennállását ugyanebben a hatalmas eurázsiai körzetben megelőzte a szarmaták és a szkíták vezető szerepe. A szarmaták [[S/Szkíta nyelv\|szkíta nyelv]]et beszéltek, de mindegyre csak hibásan, írta Hérodotosz (IV. könyv, 117.§.). Török "jövevényszavaink" jelentős része az alapszókincshez tartozik, és így nem átvételnek, hanem közös eredetnek tulajdonítható. A szkíta-hun nyelv az urál-altaji nyelvcsalád alapnyelvének tekinthető. Besorolható a finnugor vagy az altaji nyelvcsaládba, de csak egyik-egyik oldala, valójában bizonyos értelemben mindkettőt magában foglalja, illetve mindkettő belőle fakad, mindkettőnél szélesebb osztályt alkot. Mint ilyen, az urál-altaji nyelvcsalád alapnyelvének tekinthető. A könyvünkben ismertetett tények fényében a magyar nyelv önálló fejlődésének időszaka mintegy 10000 évre tehető.  
 - Egy része [[H/Hun nyelv#Hun birodalmi nyelv\|hun nyelv]] címhez is bekerült.
 
+<!--section: 8-->
 #### Remete Farkas László Magyarok eredete...
 
+<!--section: 8.1-->
 ...című tanulmányának zárszavában írja:  
 > Sokak számára azért elfogadhatatlan a finnugor származás-elmélet, mert a genetikai hasonlóságok nem meggyőzőek. Viszont, a finnugornak nevezett népek nyelvében egyértelműen kimutatható bizonyos nyelvrokonság. A tényeket másképp értékelve – vagyis "talpára állítva" – a finnugor népek kapcsolata érthetőbbé válik.  
 > A korabeli tudósítások arra utalnak, hogy **nem a magyarok szakadtak ki a finnugor nyelvi közösségből, hanem: a Kárpát-medencéből északabbra és keletre vándorló kárpáti (gravetti) népességből szakadtak le a nyelvrokonaiknak tartott népességek. Akik nem tértek vissza a Kárpát-medencébe, hanem keveredtek más népességekkel**. Ezt a nyelvet beszélő népességek arányai, az idegen nyelvi hatások, genetikai-kulturális adatok és a helynevek elterjedései is igazolják.  
@@ -216,15 +232,19 @@ Bilecz Ferenc [ezen](https://bilecz.blog.hu/2020/02/16/vannak_ma_meg_finnugorok)
 Annyit azért mindenképpen pontosítani kell, hogy 1) a finn-ugor tábor mellett szóba hozott török a hun korszakban jött leginkább létre, a magyarnál fiatalabb nyelv, 2) a török és magyar genetikai rokonság már egy viszonylag későn (a jelenhez közel) létrejövő keveredés eredménye. A magyar keveredés nélkül is magyar volt a Kárpát-medencében sok ezer éve.  
 Tulajdonképpen a szkítázása ellenére a törökből kívánja levezetni a magyart, mert a török nyelvhez ért(eni vél), de a magyar nyelv belső működéséhez nem.  
 
+<!--section: 9-->
 #### Czeglédi Katalin az Ősi Gyökér 2021/1. számában helyet kapó, A Kürt törzsnévről 2. rész...
 
+<!--section: 9.1-->
 ...című cikkében több helyen hasonlóan fogalmaz:  
 > Világosan kell tehát látni, hogyan, milyen fokon tartoznak össze a szavak. Egyik a másiknak alapul csak a közvetlen elődje szolgálhatott, vagyis az a szó, amely a legszorosabban kapcsolódik hozzá valamilyen jelentésszálon. Ennek a tisztánlátásnak pedig feltétele, hogy a fenti összefüggéseket nem lehet olyan alapon magyarázni, hogy az egyik esetben adott szó az uráli, finnugor vagy ugor egységből származó ősi szókészletünkhöz tartozik, a másik esetben pedig kölcsönzés a törökből vagy a szlávból stb. A földrajzi névi kutatások fényében a nyelvi kapcsolatokat másképpen, jóval magasabb, nagyobb látószögből lehet és kell vizsgálni ahhoz, hogy lássuk, az összetartozás igen széleskörű s amelynek időben nagyon ősi, mélyen eredő gyökerei vannak. Tisztázni kell, mi az oka, hogy ismerik a szócsalád tagjait Eurázsia szerte, milyen úton, módon terjedt el a kVrt illetve töve a kVr Mongóliától Nyugat-Európáig, Komi földtől Dél-Ázsiáig. Az összefüggések mellett pedig az egyes szavakkal külön-külön is kell foglalkozni ahhoz, hogy pontosítsuk a szómagyarázatot.  
 
 
 
+<!--section: 10-->
 ## Ural-altaji rokonság
 
+<!--section: 10.1-->
 > Kétségtelenül misztifikál azonban [[R/Róna-Tas András\|Róna-Tas]] ott is, ahol az "akkor még egynek gondolt" urál-altáji nyelvcsaládról beszél, tehát úgy tünteti fel az uráli és az altáji nyelvek rokonságának kérdését, mintha az csak egy elavult, 19. századi feltevés lenne, amelyet az újabb kutatások már rég megcáfoltak. Ez a kérdés is szorosan hozzátartozik a finnugrisztika egyoldalúságaihoz. A sorozatos lexikális és nyelvtani egyezések ellenére kereken tagadják a finnugor és az altáji nyelvek rokonságát, mert ellenkező esetben kiderülne, hogy "finnugor" vagy "uráli" eredetűnek állított alapszavaik tekintélyes hányada az altáji nyelvekben is megvan, s az önálló finnugor (uráli) nyelvcsalád tézise a jelek szerint csupán nyelvészeti fikció. Ennek következtében a finnugor berkekben az a suttogó propaganda járja, hogy a nemzetközi nyelvtudomány már rég elvetette az uráli és az altáji nyelvek rokonságának lehetőségét.  
 > Nem merülhetünk bele most e kérdés tárgyalásába, ezért csak két magyar kutató és egy nemzetközi szaktekintély idevágó véleményét idézzük.  
 > Pusztay János szerint (Az "ugor-török háború" után, 140-141. old.) az uráli-török rokonság elmélete "...ma már több, mint egyszerű hipotézis. Ramstedt, az altáji összehasonlító nyelvtudomány megalapítója és... Collinder 69 uráli-altáji közös etimológiát mutatott ki, s ezek az ún. alapszókincs körébe tartoznak... A 69 etimológia közül 8 az altáji nyelvcsalád valamennyi ágában megtalálható, 38 csak a törökségiben, 38 a mongolban, 37 a tunguzban. A szavak egyharmada mind a szamojédban, mind a finnugorban megtalálható."  
@@ -236,13 +256,17 @@ Hasonló időhatározós megfogalmazás Hegedűs nevű finnugrásztól, hogy "Az
 
 Götz László ide tehető sorait lásd áttéve [[U/Ugor#Ugor-magyar nyelv\|ugor-magyar nyelv]] cím/alcímnél.  
 
+<!--section: 11-->
 ## Ugor-török háború
 
+<!--section: 11.1-->
 Avagy választhatunk: vagy ez, vagy az, de a keverék is megteszi.  
 A lényeg, hogy az imént említett Fiók féle összefüggések ne kerüljenek terítékre.  
 
+<!--section: 12-->
 #### Götz László Keleten kél a Nap...
 
+<!--section: 12.1-->
 ...című könyvében írja:
 > Az "ugor-török háború" legkárosabb következményét mi abban látjuk, hogy a finnugrisztika még sokkal inkább önmagába zárkózott, mint azelőtt, minden józan ellenvetéssel szemben a megközelíthetetlen steril tagadásba menekült, sőt meg sem hallgatott többé olyan érveket, amelyek nyelvünk másirányú kapcsolatait feszegették. Míg például korábban a finnugor irányzat is elismerte a számtalan uráli-altáji nyelvi párhuzam tényét, amelyek egyértelműen e nyelvcsaládok egykori szoros kapcsolataira vallanak, addig a továbbiakban a finnugor nyelvészet mindinkább elzárkózott az uráli és az altáji nyelvek összefüggéseinek vizsgálatától, s etimológiai, nyelvfejlődési kutatásaiban alig-alig vette figyelembe a török megfeleléseket. Minden jel arra mutat, hogy az "ugor-török háború" vitái közben maguk a finnugristák is észrevették azon szerves kapcsolatok tömegét, amelyek a két nyelvcsaládot összefűzik, de azt is, hogy aligha beszélhetünk különálló uráli vagy finnugor nyelvcsaládról, ősnépről vagy ősnyelvről, s hogy ez annál inkább világossá válik, minél behatóbban foglalkoznak a török-finnugor nyelvi párhuzamokkal.  
 
@@ -252,8 +276,10 @@ Természetesen az alacsony kultúráls fokon álló magyarság feneke alá a tö
 Götz alábbi passzusa másutt is szerepelt:  
 > Visszatérve a [[M/Magyar nyelv jövevényszavai\|magyar nyelv jövevényszavai]]nak kérdéséhez, az előbb ismertetett hamis alaptételből kiindulva a további logikai következtetések már szinte önként adódtak: egy elsősorban a vogul-osztjákhoz mért primitív közösség magától értetődően nem lehetett sem műveltebb, sem nyelve fejlettebb, mint a 19. századi obi-ugorok kultúrája és nyelve volt. Így alakult ki a kőkorszakbeli művelődési színvonalon álló, halász-vadász, "vadbarbár" honfoglaló magyarok képzete, akiket valamilyen **török nép kevéssel azelőtt éppen hogy a lovaglásra és egy kis állattenyésztésre megtanított**, s természetesen az a meggyőződés is, hogy az efféle primitív népségnek minden magasabb műveltségre vonakozó szót idegen népektől, elsősorban mondanunk sem kell – az [[I/Indogermán jövevényszavak\|indogermánoktól kellett átvennie]].   
 
+<!--section: 13-->
 #### Péterfai János...
 
+<!--section: 13.1-->
 ...sorai [[M/Magyar nyelv hamisítása\|magyar nyelv hamisítása]] címnél (bővebben) szerepeltek:  
 > Ugrászatnak lehetne nevezni azt az elméletileg létrehozott, politikai nyomásra megalkotott áltudományt, amelynek az lenne a hivatása, hogy a magyarokat és nyelvüket a finnugornak nevezett nyelvcsoportba belekényszerítse. Az ugrászat áltudománya a félrevezetés tudománya. A finnségiek egyetlen nyelvi csoportosulást alkotnak, a magyarok igen gyakran birodalmukba csatolták a finnségi népeket. Számtalan magyar szó került át a finnségi nyelvekbe, szinte mindig romlott állapotban. A finnségiek igen korán leváltak a magyar népek anyatestéről, és önálló utat jártak a mai napig. Utódaink egyik ágát alkotják.  
 > Nem szabad a finnségieket a magyaroktól idegen népeknek nevezni. A valóság szerint a finnségiek magyar eredetűek. Mintegy Kr.e. 6.000 körül válnak le a magyar nyelvű népek anyatestéről, azóta önállóan fejlődnek. Nyelvi bizonyítékok ezrei támasztják alá a felvázolt elképzelést. A finnségiek kétségtelenül rokonaink, csak kicsit távolabbiak, mint az indoeurópaiak.  
@@ -264,12 +290,16 @@ Tipikus eljárás a vagy (ezt) vagy (azt választhatod) technikája, amelyet a "
 
 [Ezen](https://qr.ae/pGSZce) [[A/Avar\|avar]] címnél, külön alcímnél említett, a fenti, tehát ugyanezen Quora kérdésre adott válaszomban már korábban magam sem vettem teljesen komolyan azt a kérdést, hogy minden honfoglaló törzsünk törökül beszélt volna és az avaroktól tanulták volna újra a nyelvet. Ha a [[D/Dzsagfar tarihi\|Dzsagfar tarihi]] valóban efféle információkat tartalmaz, akkor ez egy olyan pántürkista koholmány, mely a magyarokat a finnugor akolból a turkász akolba kíván terelni és Baráth Tibor véleménye is igaz lehet: egymás ellen akarja uszítani a már így is agyonvágott magyarokat, akik történelemszemlélete egymáséval ellentmond.  
 
+<!--section: 14-->
 ## Az ún. finnugor és indogermán nyelvcsaládok kialakulását elősegítő folyamatok letagadása
 
+<!--section: 14.1-->
 Folyamatok helyett nyelveket (magyar, szumér) is lehetett volna írni.  
 
+<!--section: 15-->
 #### Götz László Keleten kél a Nap...  
 
+<!--section: 15.1-->
 ...című könyvéből valóak az alábbiak is:  
 > A délről érkezett művelődési és nyelvi hatások a magyarok legdélebbre lakó elődeinek közvetítésével jutottak el az északabbi finnugor törzsekhez. Vagyis, még ha a finnugor iskolával összhangban elvben el is fogadjuk valamiféle laza ősi egység esetleges egykori létezését, akkor sem zárkózhatunk el eleve az elő-ázsiai primér kultúrák észszerű módon, minden joggal feltehető művelődési és nyelvi hatásainak kutatásától.  
 - Götz nem számol a szumér (és egyiptomi) kultúra sem északi, sem atlantiszi, stb. eredetével és így érvei fundamentálisan helytelenek, mivel időben és lokálisan korlátozott elvek szerint vonja le következtetéseit. Ettől még részleteiben rendkívül értékesek közlései.
@@ -283,14 +313,18 @@ Folyamatok helyett nyelveket (magyar, szumér) is lehetett volna írni.
 
 
 
+<!--section: 16-->
 ## Finnugor őshaza
 
+<!--section: 16.1-->
 Nem volt ugye ilyen, ahogy ilyen nép sem volt és ezeknek proto-uráli és efféle nyelvük sem volt, de most pusztán a "tudomány" képviselőinek vélelmeit követjük figyelemmel.  
 
 Az Oka-Káma környéki finnugor őshaza helyett északabbra kellett tolni, ahogy...
 
+<!--section: 17-->
 #### Götz László írja:  
 
+<!--section: 17.1-->
 > Azaz a finnugor (uráli) népek kialakulásának feltételezett területét az északi szélesség 55. fokától a 60-65. fok közé, az északi sarkkör régiójába helyezték.
 >
 > Az Oka-Káma környéki finnugor őshaza mellett sokkal jobban valószínűsíthető körülmények szólnak – ha már mindenáron egységes "ősfinnugor" vagy "ősuráli" népet akarnak posztulálni. Nem tudunk szabadulni attól az alapos gyanútól, hogy finnugorjainkban azért támadt – éppen a hatvanas évek elején – oly ellenállhatatlan vágy a tundrák és az Északi Jeges-tenger megismerésére, mert századunk 50-es éveiben – főleg [[G/Gordon Childe\|Gordon Childe]] korszakalkotó munkássága, meggyőző érveléssel alátámasztott komplex bizonyító eljárása nyomán, amellyel az addig megismert régészeti leletkomplexumokat kontinentális méretű, szervesen összefüggő egységes őstörténeti képbe foglalta (G. Childe: Vorgeschichte der europäischen Kultur; és Stufen der Kultur) – a nemzetközi régészet és őstörténetkutatás felismerte az ősi elő-ázsiai műveltségek meghatározó szerepét Nyugat-Eurázsia kulturális fejlődésében (l. például Schachermeyr: Die vorderasiatische Kulturtrift). Sőt, az is nyilvánvalóvá vált, hogy a masszív művelődési hatásokon kívül különböző elő-ázsiai etnikumok tömeges gyarmatosító tevékenységével is számolnunk kell e térségekben, elsősorban a délebbi régiókban. E felismerések előtt nyugodtan megmaradhattunk, a többi finnugorral együtt, a Káma vidékén, mert kényelmesen és eléggé meggyőzően lehetett hivatkozni az e területeket Mezopotámiától elválasztó 3-4000 kilométeres távolságra, ha valaki a magyar nyelv feltűnő szumér párhuzamaival hozakodott elő; amint hogy századunk 60-as éveiig a földrajzi távolság csakugyan az egyik fő érv volt esetleges ősi szumér-magyar (-finnugor) kapcsolatok elutasítására. Miután azonban a régészeti kutatások az Aral-tótól a Dél-Urál és a Közép-Volga tájain keresztül Dél-Oroszországig egyöntetűen és kétségbevonhatatlanul kimutatták a közvetlen előázsiai hatásokat, egyszerre igen kényelmetlenné vált finnugor eleink számára Oka-Káma környéki őshazájuk, ahol ráadásul több hullámban, tömegesen bevándorolt kaukázusi-transzkaukázusi gyarmatos telepesek jelenlétét is bizonyították az ásatások. S lám, csodálatos módon éppen ezekben, a finnugor kapcát ugyancsak szorongatni kezdő években – 1962-ben – fedezte fel Hajdú Péter a fentebb említett valószínűtlen nyelvföldrajzi következtetések alapján, hogy az uráli őshaza nem is annyira a Kámánál volt, hanem inkább az Ob alsó folyásánál, a nyugat-szibériai tundrákon. S ismét csak lám: az ortodox finnugor törzsgárda egyik élvonalbeli reprezentánsa, (Fodor István), 1975-ben lelkesen felkapja és tovább hengergeti maga előtt Hajdú Péter 1962-es bizonyíthatatlan ötletét, szorgalmasan támogatva és az egekig feldicsérve ezirányú fáradozásaiért a Szegedi Őstörténeti Munkaközösség elnöke, Róna-Tas András által (Róna-Tas: A nyelvrokonság; 422. old.).  
@@ -301,12 +335,16 @@ A könyve 994. oldalán megszólaltatott [[H/Harmatta János\|Harmatta]] a korá
 > Nyomatékosan emlékeztetünk itt arra, hogy László Gyula már 1964-ben kereken elutasította Hajdú ezen hipotézisét, mégpedig azon egyszerű oknál fogva, mert azon a területen, amit Hajdú Péter kijelölt, semmi nyoma az általa mondott korban az emberi életnek. Ahol pedig nincs ember, ott őshaza sem lehetett – teszi hozzá végül (l. László, 1964.).  
 - Lásd a [[F/Finnugor nyelvelmélet#^f7lufy\|lentebb]]i passzus legalján.
 
+<!--section: 18-->
 ## Az uráli-finnugor nyelvek rokonságának areális nyelvkiegyenlítődési elmélete
 
+<!--section: 18.1-->
 *Egy realisztikus elmélet a velünk rokonnak beállított népességek egyáltaláni finnugorrá változására*
 
+<!--section: 19-->
 #### Götz László Keleten kél a Nap...
 
+<!--section: 19.1-->
 ...című könyvében írja:  
 > Bartha Antal elképzeléseivel kapcsolatos három pontban bemutattuk azt a kilátástalan konfúziót, amelybe a finnugrisztika 19. századi elavult hipotéziseihez való görcsös ragaszkodás minduntalan belekényszeríti a magyar őstörténetkutatást. Az ott feltárt hatványozott észszerűtlenségekből meggyőződésünk szerint csak egy út vezet kifelé. Mégpedig az, amit László Gyula "Őstörténetünk legkorábbi szakaszai" című alapvető jelentőségű művében már 1961-ben – egyelőre igen óvatosan, csak mintegy lehetőségként – felvetett; hogy ugyanis az uráli-finnugor nyelvek egymás közötti rokonsági kapcsolatait – ha a vonatkoztatható régészeti leleteket is figyelembe vesszük, s nem csupán a nyelvészek elképzeléseinél maradunk a legvalószínűbb módon egy úgynevezett "uráli-finnugor nyelvlánc" elméletével lehet magyarázni (l. fentebb). Ez a nyelvláncként értelmezett nyelvrokonsági elképzelés, amely – mellesleg megjegyezve – gyakorlatilag megegyezik a zseniális orosz indogermanista nyelvtudós, N.Sz. Trubetzkoy herceg által az [[I/Indogermán nyelvészet#^yj2lem\|indogermán nyelvek egymás közötti rokonsága mikéntjének magyarázatára kidolgozott és "areális nyelvkiegyenlítődés"-nek nevezett elmélet]]tel, amely tudásunk mai fokán messzemenően a legjobban összhangban áll az ismert nyelvemlékbeli, nyelvtörténeti, őstörténeti adatokkal és végül, de nem utolsó sorban a régészet konkrét tényeivel (l. Trubetzkoy, 1939.). Kiválóan alkalmas a Kr.e. 2. évezred első felében a Volga-Urál vidékére és a nyugat-ázsiai steppére érkezett déli gyarmatosok és az ottani őslakosság nyelvi kapcsolatainak magyarázatára is. Mégpedig anélkül, hogy a genetikailag rokonnak vélt uráli-finnugor nyelvcsalád feltevését valló finnugrisztika járszalagján dolgozó és gondolkodó Bartha Antal által ismertetett, észszerűtlen hipotézisláncolata közül akár csak egyre is szükség lenne.  
 > Ha abból indulunk ki, ami az adott körülmények között a Kr.e. 2. évezred első felében a Volga-Urál-Ob-Irtis vidékén egyedül elvárható volt, hogy ugyanis az igen gyér számú halász-vadász őslakos csoportok a közéjük és közvetlen közelükbe telepedett, s velük többrendbeli rendszeres kapcsolatokban álló összehasonlíthatatlanul magasabb műveltséggel rendelkező, tömegesen és több hullámban érkezett földművelő-állattenyésztő és fémműves déli gyarmatosok nyelvének bizonyos elemeit óvatosan számolva mintegy félezer szót (kb. ennyi biztosan igazolható magyarfinnugor szópárhuzamot ismerünk) és a legfontosabb nyelvtani sajátosságokat átvették – természetesen nem változatlanul, hanem többé-kevésbé eltorzítva, pidginizálva, saját nyelveik hangrendjéhez idomítva – és ez a pidginszerű nyelv azután a mindennapi érintkezések során széleskörben használt és általánosan megértett közlekedő nyelvvé, úgynevezett "lingua francá"-vá vált a halász-vadász őslakosok között, akkor nem kell a kérdéses gyarmatosokban "ősirániak"-at gyanítanunk, nem kell csupán az őslakosokra gyakorolt ködös "hatásaik"-ról beszélnünk, de arra sincs szükség, hogy olyan szemenszedett képtelenséget kelljen – mintegy "szükségszerűen" – feltételezni, hogy a gyér számú és igen kezdetleges kulturális fokon álló halász-vadász őslakosok rövid időn belül szinte teljesen asszimilálták volna a fél évezreden keresztül tömegesen és több hullámban érkezett, s ráadásul még sokkalta magasabb műveltséggel is rendelkező déli gyarmatosokat. – Gondoljuk csak meg jól: olyasmi ez, mintha valaki halálos komolysággal azt próbálná bizonygatni, hogy a 18. és 19. századi európai gyarmatosítókat Észak-Amerikában az ottani őslakos indiánok rövid időn belül szinte teljesen asszimilálták volna.  
@@ -324,20 +362,27 @@ Még korábban:
 > A bemutatott feltevés a nemzetközi nyelvtudomány újabb nyelvfejlődési vizsgálatainak és felismeréseinek tükrében (l. e könyv 407-428. old.) még a lingvisztika oldaláról szemlélve is tetemesen valószínűbb és korszerűbb, mint a finnugrisztika hagyományos nyelvcsaládfa-elmélete. Ezen felül azonban őstörténeti szempontból is megvan az a felbecsülhetetlen előnye, hogy míg az eddigi elképzeléseket a régészet újabb eredményei egyértelműen megcáfolták, kimutatva, hogy a finnugor nyelvészeti és őstörténeti iskola által feltételezett korban (a Kr. e. 6-4. évezred) és térségben (az Oka-Káma-Urál vidéke, ill. Nyugat-Szibéria északi területei) még az emberi élet nyomai sem találhatók meg (l. László Gy.: Az uráli őshaza kutatásáról), nemhogy olyan kompakt népsűrűség, amely egy többé-kevésbé egységes nyelvcsaládi alapnyelv kialakulásához elengedhetetlenül szükséges.  { #f7lufy}
 
 
+<!--section: 20-->
 ## Honfoglalók létszáma
 
+<!--section: 20.1-->
 Götz László Keleten kél a Nap című könyvének 624-626. oldalain Simonyi Dezső A pannóniai bolgárok és a magyarság kialakulása című tanulmányának adatai felhasználásával foglalkozik a témával; szól a finnugrászok azon eljárásáról, hogy a honfoglalók számát megalapozatlanul felduzzasztják[^2].  
 Lásd még [[H/Honfoglalás\|Honfoglalás]].  
 
+<!--section: 21-->
 ## Finnugor eredetű szavak száma
 
+<!--section: 22-->
 #### Czakó Gábor Szabir szó és szolga...
 
+<!--section: 22.1-->
 ...című a Mikes 2014. január-márciusi sz. megjelent cikkében mond egy számot:  
 > Elsőnek megállapították, hogy **2000 magyar szó a finnugoroktól származott. Később ez a szám ezerre csökkent, majd hatszáz alá**.  
 
+<!--section: 23-->
 #### Götz László Keleten kél a Nap...
 
+<!--section: 23.1-->
 ...című könyvének 209. oldalán Budenz esetét [[H/Horvát István\|Horvát István]] "túlkapásai"-hoz hasonlítva írja:  
 > Budenz...annak idején kb. 2000 magyar szó finnugor rokonságát állította. E 2000 egyeztetésből a későbbi kritika mindössze 450-500-at talált helyesnek. (B. Collinder, idézve László: Őstörténetünk legkorábbi szakaszai, 37. old.) De még ha a magyar nyelvészet kb. 1000 finnugornak tartott szavát fogadjuk is el összehasonlítási alapként, Budenz etimológiáinak jó 50%-a ebben az esetben is "Horvát István-féle fantáziaszülemény"-nek lenne nevezhető. Kinek jutna eszébe, Budenzet emiatt elítélni, sót, mi több, gúnyolódni rajta? Ellenkezőleg, mindenki hangsúlyozza, milyen helyes volt Budenz alapgondolata nyelvünk finnugor rokonságáról.  
 
@@ -345,8 +390,10 @@ Lásd még [[H/Honfoglalás\|Honfoglalás]].
 > Elég sokat bújtam a hivatalosnak tekintett A magyar nyelv történeti-etimológiai szótárát (TESz), anélkül, hogy a mi nyelvünkből, vagy annak jelentős közrehatásával levezetett ősszóval találkoztam volna. A finnugorok által meghagyott szókészletet pedig elkezdték cincálni abból a szempontból, hogy milyen más nyelvből érkezhetett. Mit ne mondjak, a maradékon veszekedhettek a germanisták, a szlavisták és többiek – a rossz nyelvek szerint a politikai széljárásokat kihasználva. A maradék szemete ment az "ismeretlen szavak" levesébe. Ez ismét egyedülálló az európai nyelvtársak között, a szókészletnek kb. 19%-a!  
 - Én másutt 30 százalék körüli adatot is láttam.
 
+<!--section: 24-->
 #### Götz László Keleten kél a Nap...
 
+<!--section: 24.1-->
 ...című könyvében az általa hosszasabban elemzett Bartha Antal: A IX-X. századi magyar társadalom (1968 és 1973) c. könyve után Fodor István: Verecke híres útján... (1975) c. írásából szemezget:  
 > Ugyancsak a 15. oldalon jelenti ki Fodor: "Nyelvészeink számításai szerint mintegy ezer finnugor eredetű tőszavunk van..." Nyelvünk és a finnugor nyelvek rokonságának puszta tényéből következtetve logikailag és módszertanilag megengedhetetlen egyszerűen finnugor "eredetű" magyar szavakról beszélni. A nagybácsi is rokona például unokaöcsének, de ebből még korántsem következik, hogy unokaöcsétől származna. Márpedig a jelek arra mutatnak, hogy a magyar és a finnugor nyelvek között éppenséggel valami ilyesféle rokonság áll fenn. Másodszor: igaz ugyan, hogy a magyar nyelvészek szerint kb. 1000 finnugorral rokonítható szavunk van, de Fodor sajnos elfelejtette megemlíteni azt az igen lényeges körülményt, hogy nyelvészeink ebbéli véleményükkel meglehetősen egyedül állnak a nagyvilágban. Sem a finn nyelvtudósok, sem a nemzetközi finnugrisztika nem fogad el ugyanis 1000 magyar-finnugor szóegyezést. **Björn Collinder nemzetközileg elismert finnugor etimológiai szótára például csak mintegy 450 magyar szót tekint a finnugor nyelvekkel rokoníthatónak** (l. László Gy.: Őstörténetünk legkorábbi szakaszai, 37. old.).  
 
@@ -359,78 +406,112 @@ Menet közben az [[U/Ugor#Ugor-magyar nyelv\|ugor-magyar ősnyelv]] tézisét fi
 > ...  
 > Ezzel kapcsolatban röviden meg kell emlékeznünk arról is, hogy az ortodox finnugor nyelvtudomány nemcsak az uráli és az altáji nyelvek között tömegesen jelentkező szómegfeleléseket hallgatja el következetesen, hanem a szintén sorozatosan kimutatható nyelvtani, nyelvszerkezeti egyezéseket is éppoly szisztematikusan ignorálja, holott ezek az összefüggések nagyjából ugyanolyan arányban oszlanak meg a magyar, valamint a finnugor és a török nyelvek között, mint az előbb ismertetett szótári egyezések.  
 
+<!--section: 25-->
 ## Hangváltozások a "finnugor őshaza" hangjaihoz képest
 
+<!--section: 25.1-->
 Az indogermán/[[N/Nyelvészet mint tudomány#Grimm-féle hangtörvények\|Grimm-féle hangtörvények]]hez illeszkedő finnugor hangtörvények áltudományosságáról is ejtsünk szót.  
 
+<!--section: 26-->
 #### Krizsa Katalin és Karvaly Katalin A magyar nyelv gyöknyelv...
 
-...című az Ősi Gyökér 2013/4. sz. megjelent cikkükben megfogalmazott kritikája:  
-> Az indoeurópai (és finnugor) nyelvészet szerint a közös nyelvcsaládba tartozás fontos bizonyítékai az ú.n. szabályos hangmegfelelések. A finnugor nyelvészet "legbotrányosabb" állítása az, hogy a finn p hangok a magyarban [[F/F\|f]]-re változtak. Mivel a finnben egyáltalán nincs f soha nem is volt (mellesleg c, b, g, z sincs, és szóeleji d sem), – a magyarban pedig mindez megvan – alapvető tévedés azon elmélkedni, hogy mi változott a magyarban a finnhez képest – mert semmi. A finn írásbeliség mindössze 400 éves. S annyit még a hivatalos nyelvészet is elismer, hogy a magyar írásbeliség legkevesebb 1000 éves. A magyar szavak mássalhangzói azonban ezer év óta sem változnak. Mitől változtak volna meg korábban?  
+<!--section: 26.1-->
+...című, az Ősi Gyökér 2013/4. sz. megjelent cikkükben megfogalmazott kritikája:  
+> Az indoeurópai (és finnugor) nyelvészet szerint a közös nyelvcsaládba tartozás fontos bizonyítékai az ú.n. szabályos hangmegfelelések. A finnugor nyelvészet "legbotrányosabb" állítása az, hogy a finn p hangok a magyarban [[F/F\|f]]-re változtak. Mivel a finnben egyáltalán nincs f soha nem is volt – mellesleg c, b, g, z sincs, és szóeleji d sem, a magyarban pedig mindez megvan –, alapvető tévedés azon elmélkedni, hogy mi változott a magyarban a finnhez képest – mert semmi. A finn írásbeliség mindössze 400 éves. S annyit még a hivatalos nyelvészet is elismer, hogy a magyar írásbeliség legkevesebb 1000 éves. A magyar szavak mássalhangzói azonban ezer év óta sem változnak. Mitől változtak volna meg korábban?  
 
+<!--section: 27-->
 #### Götz László Keleten kél a Nap...  
 
+<!--section: 27.1-->
 ...című könyvében is ír róla:  
-> Ezen kívül vannak azonban – szép számmal – még más, ugyancsak igen nyomós érvek is a magyar nyelv "finnugor" származtatása ellen. Nyelvünk finnugor eredetének hangoztatása mellett nem szoktak például arról sem beszélni, hogy a magyar nyelvemlékek időben messze megelőzik az összes többi finnugor nyelv legrégibb emlékeit. Nyelvünk első szórványszavai már a 10. század 40-es éveiben feltűnnek ([[B/Bíborbanszületett Konstantin\|Bíborbanszületett Konstantin]] törzsnevei, személynevei és az "[[E/Etelköz\|Etelköz]]" szó), míg a finn nyelv emlékei csak a 16. században jelentkeznek, az egyéb kisebb finnugor nyelvekről pedig jórészt csak a 18-19. század óta vannak adataink. A nyelvemlékek ilyetén megoszlása mellett valóban meglepő az a magabiztosság, amellyel a finnugor nyelvészet kijelenti, hogy – az előbbi példánál maradva – a már majd ezer éve "f" kezdőhanggal adatolt magyar "fej" szó ősei azok a "p" kezdőhangú finnugor szóalakok, amelyeket csak a 16-18. századból tudunk kimutatni. Mi bizonyítja azt, hogy feltétlenül a magyarban kellett "p" → "f" hangátmenetnek lennie – amint állítják – és mi zárja ki azt, hogy éppen fordítva, az egyéb finnugor nyelvekben következett be "f" → "p" hangváltozás, illetve hangbehelyettesítés? Ez az ellenvetés még a hangtörvények és a szabályos hangváltozások tanának keretein belül maradva is teljesen jogosult és megalapozott: minden módszeresen dolgozó "hangtörvényes" nyelvészkedés a nyelvemlékek korából kiindulva állapítja meg az időbelinek vélt "szabályos" hangváltozásokat, s a legrégibb előfordulás hangalakját tekinti alaphangnak.  
+> Ezen kívül vannak azonban – szép számmal – még más, ugyancsak igen nyomós érvek is a magyar nyelv "finnugor" származtatása ellen. Nyelvünk finnugor eredetének hangoztatása mellett nem szoktak például arról sem beszélni, hogy a magyar nyelvemlékek időben messze megelőzik az összes többi finnugor nyelv legrégibb emlékeit. Nyelvünk első szórványszavai már a 10. század 40-es éveiben feltűnnek ([[B/Bíborbanszületett Konstantin\|Bíborbanszületett Konstantin]] törzsnevei, személynevei és az "[[E/Etelköz\|Etelköz]]" szó), míg a finn nyelv emlékei csak a 16. században jelentkeznek, az egyéb kisebb finnugor nyelvekről pedig jórészt csak a 18-19. század óta vannak adataink. A nyelvemlékek ilyetén megoszlása mellett valóban meglepő az a magabiztosság, amellyel a finnugor nyelvészet kijelenti, hogy – az előbbi példánál maradva – a már majd ezer éve "f" kezdőhanggal adatolt magyar `fej` szó ősei azok a "p" kezdőhangú finnugor szóalakok, amelyeket csak a 16-18. századból tudunk kimutatni. Mi bizonyítja azt, hogy feltétlenül a magyarban kellett "p" → "f" hangátmenetnek lennie – amint állítják – és mi zárja ki azt, hogy éppen fordítva, az egyéb finnugor nyelvekben következett be "f" → "p" hangváltozás, illetve hangbehelyettesítés? Ez az ellenvetés még a hangtörvények és a szabályos hangváltozások tanának keretein belül maradva is teljesen jogosult és megalapozott: minden módszeresen dolgozó "hangtörvényes" nyelvészkedés a nyelvemlékek korából kiindulva állapítja meg az időbelinek vélt "szabályos" hangváltozásokat, s a legrégibb előfordulás hangalakját tekinti alaphangnak.  
 
 Másutt:  
-> A hangtörvényes ősnyelvi rekonstrukciók iskolapéldája a finnugor "k" hang állítólagos szabályos fejlődése a magyarban "h"-vá. Mivel a magyar "h"-nak a finnugor nyelvek "túlnyomó többségében" bizonyos hangtani helyzetben "k" felel meg, "nagyon valószínű, hogy itt a többség (kiemelés tőlünk) őrzi az ősi állapotot" – írja [[R/Róna-Tas András\|Róna-Tas]] (id. m. 395. old.).  
+> "A hangtörvényes ősnyelvi rekonstrukciók iskolapéldája a finnugor "k" hang állítólagos szabályos fejlődése a magyarban "h"-vá. Mivel a magyar "h"-nak a finnugor nyelvek "túlnyomó többségében" bizonyos hangtani helyzetben "k" felel meg, "nagyon valószínű, hogy itt a többség (kiemelés tőlünk) őrzi az ősi állapotot" – írja [[R/Róna-Tas András\|Róna-Tas]] (id. m. 395. old.).  
 > Mit ért itt a finnugrisztika "túlnyomó többség"-en, amely állítólag az "ősi állapotot" őrzi? Az együttesen 8 milliónyi, de 50 – egymás között jobbára érthetetlen – nyelvjárásra szétforgácsolódó, jórészt primitív finnugor töredéknépecskéket a 15 milliós, egységes, majdnem homogén nyelven beszélő, már több mint ezer év óta összehasonlíthatatlanul magasabb művelődési fokon álló monolitikus magyar nyelvi tömbbel szemben. Másrészt: ezek szerint csak a magyarban lett volna "hangfejlődés", a többi finnugor nyelvben pedig nem? Ott évezredek óta "k" maradt a "k"? De hogyan állunk azzal a sokkalta valószínűbb lehetőséggel, hogy a valóságos "túlnyomó többség"-et képviselő, s kulturálisan is magasan domináló magyar nyelv "h" hangját vették át egykoron az apró, elmaradott finnugor csoportok, s változtatták át bizonyos esetekben – saját ősi nyelvi alaprétegük hangtanának hatására "k"-vá? Azaz a hangbehelyettesítés jól ismert jelenségét alkalmazták, s ezért ejtenek még ma is "k"-t, mint évezredekkel ezelőtt. Vajon elhanyagolhatók-e mindezen körülmények egy hipotetikus ősnyelv rekonstruálási kísérleténél? Nem hinnénk. A finnugor nyelvtudomány viszont ilyen gondolatokat még csak halvány eshetőségként sem vet fel.
-- Magam is megfigyeltem a pl. halál, hall, három szavainknak megfelelő k-előtétes finn szavakat.
+- Magam is megfigyeltem a pl. halál, hall, három szavainknak megfelelő k-előtétes finn szavakat. A keményebb hangzók a hun-magyarok nyelvére voltak jellemzőek.
 
-A keményebb hangzók a hun-magyarok nyelvére voltak jellemzőek.  
+<!--section: 28-->
+#### Borbola János Az uráli tilalomfák...
+
+<!--section: 28.1-->
+...című Ősi Gyökér 2006/3. sz. megjelent cikkében szépen leírja, hogy a [[F/Fúj\|fúj]] szónak nem lehetett p-előhangos proto- elődje, mert fújni csak f hang kiejtésével lehet:  
+> Ha a TESZ I, 983. oldalát felütjük, akkor a fúj szavunk etimológiai levezetésével találkozunk: "fúj 1372. /.../ Ősi hangutánzó szó az uráli korból." Azért itt álljunk meg egy pillanatra, mert az f hang képzésénél az alsó ajkunk és a felső fogaink közötti résen keresztül préseljük át a levegőt. Nemhiába nevezi ezt a hangot a nyelvészet labiodentálisnak. Másrészt a pattanó, pengő p hangot mindkét ajkunkkal képezzük (bilabiális). Csakhogy a p- kiejtésével nem lehet fújni, még kevésbé hangutánozni. Két, lényegesen különböző képzésű hang! Ez még akkor is igaz, ha a latin-indogermán `pater`-`father`, `piscis`-`fish` párhuzam lassan már a könyökünkön jön ki. Megkérdezzük, hogy a halász-vadásznak titulált őseink hogyan fújták, élesztették a tüzet a p hanggal. A TESZ persze ismeri a választ, lám:  
+> "Az uráli alapalak \*puβA- vagy \*puyA- lehetett." A táblázatból látható, hogy az "uráli rokonok" mindmáig púj-nak, és csak mi fúj-juk a kását. "Vö.: vog. T. puw- 'fúj' (NyK. 25: 184); osztj. V. pŏy- 'ua.'; cser. U. puę• m 'fúj <ember, szél>'; md. E. puvams 'fúj, elfúj, ráfújással gyógyít';".  
+> Reméljük, hogy náluk a felsoroltak nem [[H/Hangutánzó szavak\|hangutánzó szavak]].
+{ #5iwxps}
 
 
 
+
+<!--section: 29-->
 ## Magyar kölcsönszavak
 
+<!--section: 29.1-->
 Arról már szóltam másutt is, hogy a világon mindenütt megengedett, hogy a szavakat az adott nyelv logikája szerint a hazai nyelvészek értelmezzék és akár proto- formákkal teoretikus alapszavakat állítsanak fel.  
 Különösen furcsa ez olyan esetekben, ahol egy szláv szó ismert, más indoeurópai rokon nélkül és abból a szóból egy proto- formát létrehozva tudnak hivatkozni (leginkább a magyar alternatív kutatók felé, mert a magyar akadémiai hivatalosság egy húron pendül az idegen ellenzékkel), hogy "látod, itt az ősi alak," tehát a magyar szó erre a proto-szláv alakra megy vissza.  
 Különösen olyan esetekben, ahol kulturális összefüggése van (pl. [[K/Kovács\|kovács]]olás, [[K/Kohász\|kohász]]at), ott érint igen érzékenyen minket, hiszen a szóval együtt a technológiai tudást is átvettnek fogják értelmezni (ha máshogy nem, implicit módon), és ezzel a magyart alacsonyítják le (kivel szemben: akiknek a történelmi múltját elmaszatolják).  
 
+<!--section: 30-->
 #### Czakó Gábor Szabir szó és szolga...
 
+<!--section: 30.1-->
 ...című a Mikes 2014. január-márciusi sz. megjelent cikkét is így nyitja:  
 > A hunfalvysta nyelvészet alighanem **a világon egyedülálló módon vizsgálta a magyar nyelvet a maga ugyancsak páratlan "történeti-összehasonlító" módszerével. Valószínűleg semelyik ország tudományosságában sem fordult elő, hogy nem magából a helyi nyelvből indultak volna ki a kutatók. Arra meg végképp nem tudok példát, hogy a második lépés sem a "belhasonlítás" volt**.  
 > Nos, a magyarral megesett ez a tréfa. Hunfalvyék abból indultak ki, hogy a magyar finnugor nyelv, ezért elvetették a magyar nyelv kutatásában elért addigi eredményeket, különösen annak máig kikezdhetetlen csúcsteljesítményét, a Czuczor Gergely és Fogarasi János akadémikusok készítette A magyar nyelv szótárát – CzF. – s a magyart a finnugorok származékának, mi több függvényének tekintették.  
 
+<!--section: 31-->
 ## A finnugor elmélet alkotói és mellette kiállói politikai háttere: zsidó
 
+<!--section: 31.1-->
 Egyértelmű, hogy a magyarok múltjának elrablásával mire megy ki a játék: elme-programot futtatnak, különböző ideológiákba csomagolva és mindenkin uralkodni akarnak a paraziták.  
 A zsidó, zsidó-keresztény, Habsburg, kommunista (mindegyik [[Z/Zsidó\|zsidó]] gyökerű!) háttér ismerhető fel a Kagylókürt 2010. 54. számából letöltésre elérhető...
 
+<!--section: 32-->
 #### Szendrei László Az ősmagyar vallásosságról – A Szent István előtti magyarság vallási élete...  
 
+<!--section: 32.1-->
 ...című cikkének [[J/Judeo-kereszténység\|judeo-kereszténység]] címnél, külön alcímnél (ott bővebben) is szereplő sorai alapján:  
 > A nyugati kortárs klerikus-írók félreértettek szinte minden velünk kapcsolatos nem harci, hanem kulturális-szellemi jellegű jelenséget, így lettek a "[[P/Pogány\|pogány]]" magyarok többistenhívő, bálvány- és madárimádó (lásd [[T/Turul\|Turul]]), kutyára esküdő "barbár horda" (az eskü megpecsételéseként őseink kutyát öltek, hogy így jár, aki megszegi a fogadalmat). Ezt a torz és hamis képet az 1848-1849-es forradalom és szabadságharc leverése utáni [[H/Habsburg\|Habsburg]]-rezsim és hazai (illetve behívott) kiszolgálói – magyarán a finnugor elmélet hirdetői és terjesztői – hivatali pozíciójuk révén és politikai támogatással a hátuk mögött tudatosan igyekeztek a magyar köztudatba meghonosítani. Ebbéli igyekezetük sajnos részben sikerrel járt, hiszen még az 1989 után megjelent tankönyvek és szakmunkák többsége is tele van a már jeles magyar tudósaink által régen megcáfolt rosszindulatú hazugságokkal.  
 
+<!--section: 33-->
 ## A történeti-etimológiai szótár (TeSz) szerkesztői jellege
 
+<!--section: 33.1-->
 A fentebb említett [[B/Benkő Loránd\|Benkő Loránd]] személye kapcsán kiderült, hogy jókat is tud mondani, de a TeSz nevű kiadványban mégis úgy ténykedik főszerkesztőként, ahogy.  
 Persze ennek megvan a háttere.  
 Az [[I/Indogermán nyelvészet\|indogermán nyelvészet]] egyenes következménye és fiókelmélete a finnugor elmélet és ha az indogermán nyelvcsaládot el kellett zárni a szumér nyelvtől (lásd erről Götz László írását [[S/Szemiták és árják\|szemiták és árják]] címnél és [[S/Sumér és akkád nyelvek\|sumér és akkád nyelvek]] címnél, külön alcímnél), akkor a magyart is.  
 
+<!--section: 34-->
 #### Götz László Keleten kél a Nap...
 
+<!--section: 34.1-->
 ...című könyvében bemutatja az eljárást:  
 > A szumér nyelvet egyszerűen ignorálják. Ezt az ignoranciát – szükségszerű negatív következményeivel együtt – az indogermanisztika nyelvkutatási módszereit szinte mindenben követő magyar nyelvtudomány legújabb reprezentatív kiadványában, "A magyar nyelv történeti-etimológiai szótárá"-ban is lépten-nyomon tapasztalhatjuk.  
 
 A nyelvi példát lásd [[C/Chiton\|chiton]].  
 
+<!--section: 35-->
 ## A finnugor őshazából származtatott szavak körüli problémák
+
+<!--section: 35.1-->
 Avagy: finnugrászaink lebuknak.
 
 [[N/Nyelvészet mint tudomány#Kör szóbokor tagjainak TeSz általi eredeztetése\|Kör szóbokor tagjainak TeSz általi eredeztetése]] cím/alcímnél volt szó a *kör szóbokor* egyes szavainak ilyen-olyan nyelvekből való eredeztetése kapcsán arról, hogy nemcsak hogy tudománytalan, hanem önmagukat buktatták le finnugrászaink.  
 Az alábbiakban is ilyen buktatókra mutatnék rá.  
 
+<!--section: 36-->
 ### Török nyelvben azonos szó szerepel, mégis finnugornak jelölt a szó
 
+<!--section: 36.1-->
 [[C/Czeglédi Katalin\|Czeglédi Katalin]] több cikkében kifogásolja, hogy nem lehet uráli őshazából való ez vagy az a szó, ha sok esetben a török nyelvben is megvan a szó és még meg sem említik. Czeglédi K. ugyan nem érti a magyar szavakat, ettől még itt igaza van. Itt csak egy jellegzetes, érdekes példát említenék meg. Magyar-török nyelvviszony című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében (a Mikes October-December 2012 angol számában idegen nyelven is elérhető) Mahmud al-Kāšγari oszmán-török etimológiai szótárából bemutatja az oszmán-török `sas` = [[S/Sas\|sas]] szót, mely azonos a magyarral. Miért nem innen eredeztetik a szót, a TESz miért a zürjén `śuź` '(füles) bagoly', lapp `cisku` 'sólyom', `cicka` 'karvaly' szavakkal rokonít, amikor a törökben mind a szó alakja és értelme is azonos?  
 Lehetséges, hogy azért nem rokonítottak, mert nem ismerték a szót illetve a forrást? (A neten én is `kartal` = sas szót találtam, holott még [[A/Aquila\|Aquila]] címnél is előjött egy azonos török szó.)  
 És akkor feltehető az a kérdés is, hogy még milyen más forrást nem ismernek? Nyilván Péterfai János számukra nem ismert/hiteles forrás, de akkor még kit nem ismernek el?  
 
+<!--section: 37-->
 ### Germán nyelvekben szinte azonos szó szerepel, mégis finnugornak jelölt a szó
 
+<!--section: 37.1-->
 Ezt a témát [[H/Ház\|ház]] szavunk eredete kapcsán, a finnugrászaink felé kritikát megfogalmazva Borbola János járta körül; ugyebár a német/angol `Haus`/`house` közelebb áll a magyar szóhoz, mint a finn [[K/Kota\|kota]]. Idegenszívű magyargyűlölő finnugrászainknak más esetekben nem okozott gondot a germánból való eredeztetés, akkor most itt mi volt az akadálya? Mi ezen elgondolás célja? Hát az, hogy 1) növeljék a finnugor egyezéseket/statisztikát (mint ahogy a Covid halálozások statisztikáit is hamisították), 2) a magyarok kezdetleges házainak = kunyhóinak bemutatása kifizetődőbb.  
 
 ...És akkor az `eszik` szónak miért kell finnugor eredet (nem is akármilyen nyalánkságok ezek: finn `syödä`, észt `sööma`; előbbit Marácz László [ezen](https://www.youtube.com/watch?v=aaNSau4alnc&t=4673) előadásában is említi)? Mert az ősmagyar fogazata, élelmezési szokásai a tundrához igazítandók?  
@@ -438,8 +519,10 @@ Amikor az [[E/Eat\|eat]] helyen is taglalt német `essen` és latin `edere` igé
 { #magmaq}
 
 
+<!--section: 38-->
 ### Hangtanilag megfelelő szavak mégsem finnugor eredetűek
 
+<!--section: 38.1-->
 Nyilván most nagyon kapnék a fejemre, hiszen nekem azt is tudnom kell, hogy nem csak a hangtan számít, hanem egy csomó olyan dolgot figyelembe kéne vennem, melyeket a magasrangú finnugor nyelvészek figyelembe vesznek. Mégis, kíváncsi vagyok, a [[M/Mász\|mász]] szó TeSz magyarázata vajon min alapul:  
 > Ismeretlen eredetű; finnugor egyeztetése nem meggyőző.  
 
@@ -450,22 +533,29 @@ Egyáltalán, a következetlenségek azok, amiket a tudomány nem szabadna eltű
 { #r467qs}
 
 
+<!--section: 39-->
 ### Szóbokorba tartozó szavak külön-külön helyekről való eredeztetése
 
+<!--section: 39.1-->
 A következetlenség netovábbja, amikor szemantikailag egyértelműen rokon szavakat innen-onnan szedegetnek össze.  
 
+<!--section: 40-->
 #### Bárczy Zoltán Töprengések a hazáról II....
 
+<!--section: 40.1-->
 ...című az Ősi Gyökér 2008/3-4. sz. megjelent cikkének témába vágó passzusa:  
 > A Magyar Rádió is foglalkozott egy alkalommal az egyik legkedveltebb rovatban, az Édes anyanyelvünk adásában ezzel a kérdéssel. A rovat egy nagyon intelligens kérdést kapott Zalaegerszegről egy hallgatótól. A kérdés ez volt "Annak idején, amikor az édesanyám sonkát főzött és azt nem találta elég puhának, mindig azt mondta: ezt a sonkát tovább kell köveszteni! Mit jelent, honnét származik stb.?" A válasz az volt, hogy tájszó, amit általában az abálni, párolni, főzni kifejezések fednek. A rovattól kértem, hogy térne vissza még egyszer erre a kérdésre és tenné meg, hogy a "tájszó" helyett adná vissza ennek az "ősszó" rendfokozatát.  
 > Röviden nézzünk csak mögé ennek a kérdésnek. Több évi kutatás után tisztázódott, hogy ezt a kifejezést ismerték és főként "kövesztett szalonna" formájában a történelmi Magyarország területének több mint a felén, és ma is használják, értelmét azonban már nem ismerik. Ezen nem kell csodálkozni, hiszen ezt a kifejezést mi magyarok (nem tévedés) a paleolit korból (őskor pattintott kőkorból) **i. e. 25 ezer évtől hozzuk magunkkal** napjainkig.  
 > Röviden vizsgáljuk meg ezt az egyáltalán nem közömbös témát. Az ősember amikor összeütött két követ (lehet ellenőrizni) ilyen hangot hallott: koo! Ezt a tudomány hangutánzó szónak nevezi. Ez az ősszó (etimon) benne van a kovakő nevében. Nos, az ősember úgy főzött, hogy tüzet rakott, s abba számos öklömnyi követ tett. Mindig kovát, mert másfajta kő hő hatására szétbomlik. Az ősember a tűz mellé kászúba, faedénybe, esetleg gödörbe (mert akkor még cserépedény nem volt), tette a főznivaló húst, szalonnát a vájat vizébe, s majd amikor a kövek tüzesekké váltak, fafogóval ezeket a tüzes köveket a vízbe tette. A kő forrva, zubogva átadta hőjét a víznek, azt forrásba hozta. Majd addig rakta a tüzes köveket a vízbe (kövesztett), amíg a hús, vagy a szalonna puhára nem főtt.  
 > Látjuk hát, hogy valaha a főzésnek és a kőnek szoros köze volt egymáshoz. Ha a vizsgálódásunkat tovább folytatjuk, akkor nem lehet nem észrevenni, hogy a "ko" ősetimon benne van a [[K/Konyha\|konyha]] szavunkban. Ha körbe tekintünk szomszédainknál, akkor a ko, kö, ku, kü etimonokat megtaláljuk náluk is valahol a főzés fogalmánál, de ott már nincs rokonhangzásban az ő nyelvükben a kő szóval, mert az olaszban a konyha `cucine`, míg a kő `pietro`, németben `küche` és a kő `stein`, szlávban `kuhnya`, a kő `kamin`, görögben a konyha `kuzina` és a kő `petra`. A hangutánzó koo vagy köö egyedül nálunk található a konyha szavunkban és a kövesztés igében. Érthetetlen, mert logikátlan szófejtő és értelmező szótárunknak a következő közlése: parázs a nyelvünkben szláv jövevényszó, a perzsel vagy pergel lengyel jövevény, a pirit, pirkad, poring ismeretlen, a porkál olasz, a pörköl germán, míg a pörzsöl szláv jövevényszó. Látható, hogy ez egy szóbokor, azonos vagy közel azonos fogalmak kifejezésére.  
 
+<!--section: 41-->
 ## Összefoglalás
 
+<!--section: 42-->
 #### Götz László Keleten kél a Nap...  
 
+<!--section: 42.1-->
 ...című könyvéből adom szintén:  
 > Az eddig megismert adatokat röviden összesűrítve egyértelműen megállapítható, hogy a magyar finnugrisztika módszertanilag messze elmaradt a nemzetközi nyelvtudomány fejlődése mögött.  
 > 1\. A sematikus nyelvcsaládfa-elméletet, amelyet a nemzetközi tudományosság már évtizedek óta szinte általánosan elvet, még mindig axiómaként kezeli.  
@@ -491,8 +581,10 @@ Ugyanez angolra fordítva (felírva [ezen](https://qr.ae/pyoM2h) Quora válaszba
 
 Az elavult módszerek témájához még...
 
+<!--section: 43-->
 #### Nagyernyei Szabó Zoltán...
 
+<!--section: 43.1-->
 ...misszionárius pap Tomory Zsuzsa Magyar-English word origins című könyvéhez csapott addendumában szereplő passzusát is tegyük ide:  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Magyar nyelv ősisége – ősnyelv-e a magyar/#x5fd1n" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -513,11 +605,14 @@ Az elavult módszerek témájához még...
 Az angol szöveg magyarul pedig így hangzik:  
 Az amerikai nyelvészeti szeminárium a Bochumi Egyetemen, Németországban, orosz és más nyelvészek részvételével, akik a legmodernebb számítógépes nyelvészeti kutatásokon alapuló eredményekre hivatkozva az emberiség egy nyelvét tényként fogadják el, elutasították egy külön finnugor nyelvcsalád létezését.  
 
+<!--section: 44-->
 ## Finom célozgatások
 
+<!--section: 44.1-->
 A finnugor nyelvtudomány új online etimológia [szótárában](https://uesz.nytud.hu/index.html) ha nem találunk meg egy szót keresésre, egy medvetort és egyúttal büdös halszagot megúszó kedves állat képét látjuk (majd leveszik, hogy ne tudjam máskor is reprodukáltatni az eredményt – így szokott menni ez):  
 ![Finnugor elmélet_image20250327031324520.jpg|fix_dark fix_light|840](/img/user/F/assets/Finnugor%20elm%C3%A9let_image20250327031324520.jpg)
 
+<!--section: 45-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
