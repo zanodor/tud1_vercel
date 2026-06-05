@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2026-05-22T00:20"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2026-06-05T20:52"}
 ---
 
 
@@ -53,7 +53,7 @@ A „yumuşak ge” (ğ, vagyis a „lágy g”) a török ábécé 9. betűje. 
 > * Különböző magánhangzók között: Általában egy lágy „j” hangot vesz fel.
 > * Példa: A değil (nem) kiejtése kb. dejin.
 
-A törökországi törökök tulajdonképpeni önazonosítására használt [[O/Oguz\|oguz]] névben g valójában ğ azaz gh hang, melyről nemcsak a `kağan` név kapcsán, hanem az [[U/UL\|UL]] és [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél taglalt példák kapcsán is volt szó.  
+A törökországi törökök tulajdonképpeni önazonosítására használt [[O/Oguz\|oguz]] névben g valójában ğ azaz gh hang, melyről nemcsak a `kağan` név kapcsán, hanem az [[U/UL\|UL]] és [[H/Hiátustöltő hangok#Hiátuspótlás a szó közepén\|hiátuspótlás a szó közepén]] címnél taglalt példák kapcsán is volt szó.  
 
 A török `oğul` és jakut (tuvai vagy szakha) `ool` ezt jelenti (a jakut \[beszélő elmondása szerint; Bahador Alast videóban\] inkább boy és nem son jelentésű, de mindegy is). A török szóban a ğ hang alig ejtett (vagy h-ként ejtett). Amikor a török srác a török `iğne` = tű szót kifejtette \[íne\], pontosan azt kaptam, amit vártam. Hosszan ejti az i-t. A hosszú magánhangzók kiírása helyett használják a g/h hangokat.  
 [Ezen](https://qr.ae/pN2kOQ) több helyen idézett Quora válaszban leírják, hogy bizonyos szavakban hogy kell ejteni az azóta [[G/G\|G]] címnél oguz név kapcsán is taglalt ğ hangot. Úgy tűnik, hogy a hosszú mássalhangzók hiánya miatt van betoldás. Azaz úz > oguz.  
