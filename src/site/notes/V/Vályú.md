@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vályú/","title":"Vályú","tags":["Englishtexttranslated"],"created":"2024-10-24T16:22","updated":"2024-10-24T16:22"}
+{"dg-publish":true,"permalink":"/V/Vályú/","title":"Vályú","tags":["Englishtexttranslated"],"created":"2024-10-24T16:22","updated":"2026-06-05T20:53"}
 ---
 
 
 # Vályú
 
-Sok helyen ([[V/Valley\|valley]], [[W/Well\|well]], [[V/Váll\|váll]], stb.) volt róla szó. CzF definícióit lásd itt[^1]. Alapjában véve mindig nőiség és a [[V/Völgy\|völgy]] (= hölgy!) fogalmával rokon volta miatt is az alant-lét ideái jöttek elő vele kapcsolatosan, de lássunk csodát (mint hogy nőiség az égen is van), hasonló szó megjelenik Indiában is: [[V/Vāju\|Váju]], az égbolt és a levegő ura (ezek szerint már hímségi, mint [[J/Jahve\|Jahve]] égisten), honnan a hindi `váju` = levegő, szél szó is (éppúgy, ahogy az [[E/Eire\|Eire]] címnél taglalt [[E/Éva\|Éva]]/Jahve alakú szavak sorakoztak levegő jelentéssel, de bár a szavak hasonlóak, mégsem lehet Éva és Váju ugyanaz). (Bakos Attila A Duna Evangéliuma című könyvének 427. oldalán Vájó-ként magyarítva Merkúrral került azonosításra.)  
-Azaz a vályu megjelenhet felül is, éppúgy, ahogy a [[K/Kut\|kut]], [[K/KUR\|KUR]], [[P/PIT\|PIT]] és az [[U/Üst\|üst]] (és még lásd az igen tengeres-nőiséginek és így az ég fogalmának megfeleltethető [[M/Meru\|Meru]] címnél Meru – Su-Meru párosát is), de a [[T/Teknő\|teknő]] úgyszintén. Mindez már átvezet az [[O/Oval\|oval]] címnél is taglalt tojás[[H/Héj\|héj]]ak ideájához, a szférákhoz (lásd [[S/Sphere\|sphere]]), és a hagyma-jelképhez ([[O/Onion\|onion]] = [[U/Union\|union]]) is.  
+Sok helyen ([[V/Valley\|valley]], [[W/Well\|well]], [[V/Váll\|váll]], stb.) volt róla szó. CzF definícióit lásd itt[^1]. Alapjában véve mindig nőiség és a [[V/Völgy\|völgy]] (= hölgy!) fogalmával rokon volta miatt is az alant-lét ideái jöttek elő vele kapcsolatosan.  
+
+Vályú megjelenhet felül is, éppúgy, ahogy a [[K/Kut\|kut]], [[K/KUR\|KUR]], [[P/PIT\|PIT]] és az [[U/Üst\|üst]] (és még lásd az igen tengeres-nőiséginek és így az ég fogalmának megfeleltethető [[M/Meru\|Meru]] címnél Meru – Su-Meru párosát is), de a [[T/Teknő\|teknő]] úgyszintén. Mindez már átvezet az [[O/Oval\|oval]] címnél is taglalt tojás[[H/Héj\|héj]]ak ideájához, a szférákhoz (lásd [[S/Sphere\|sphere]]), és a hagyma-jelképhez ([[O/Onion\|onion]] = [[U/Union\|union]]) is.  
 
 Hogy írta Jankovics Marcell:  
 > Animista felfogás szerint a föld közepe (köldöke) üst alakú gödör[^2], **az ég "megfordított" alakja**.  
