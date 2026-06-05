@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kína/","title":"Kína","tags":["Englishtexttranslated"],"created":"2023-11-21T09:12","updated":"2026-04-05T02:44"}
+{"dg-publish":true,"permalink":"/K/Kína/","title":"Kína","tags":["Englishtexttranslated"],"created":"2023-11-21T09:12","updated":"2026-06-05T20:52"}
 ---
 
 
 # Kína
+
+
 
 Az ország nevének (Kína neve keleten Sína, Csína \[Csi-Na\]) elemzését [[C/CSI\|CSI]] etimonnál ugyan elkezdtük, de már nem vagyok meggyőződve a Csi-Na forma helyességéről. Kína mai és mindenkori vezető köre/kasztja a hun, akik magasabbak a délkelet-ázsiai alacsony kínaiaknál.  
 [[H/Huang-ti\|Huang-ti]] címnél álló Grandpierre Atilla féle adatokat is lásd a hun származás kapcsán.  
@@ -18,7 +20,7 @@ Visszatérve az etimológiára. Hasonló lehet a keleti Si-Na/Csi-Na forma (hall
 Mint [ezen](https://en.wikipedia.org/wiki/Qin_dynasty#Etymology_of_China) oldalról kiderül, nemcsak az arabok, hanem már korábban más népek is ismerték a nevet de nincs megegyezés abban, hogy honnan eredhet a név (ezért is lehetne tőlünk eredeztetni):  
 > The name 'Qin' is believed to be the etymological ancestor of the modern-day European name of the country, China. The word probably made its way into the Indo-Aryan languages first as 'Cina' or 'Sina' and then into Greek and Latin as 'Sinai' or 'Thinai'. It was then transliterated into English and French as 'China' and 'Chine'. This etymology is dismissed by some scholars, who suggest that 'Sina' in Sanskrit evolved much earlier before the Qin dynasty. 'Jin', a state controlled by the Zhou dynasty in seventh century BC, is another possible origin.  
 > —  
-> Úgy tartják, hogy a "Qin" név az etimológiai őse az ország mai európai nevének, Kínának. A szó valószínűleg először "Cina" vagy "Sina", majd "Sinai" vagy "Thinai" néven került be az indo-árja nyelvekbe, majd a görögbe és a latinba. Ezt követően az angol és a francia nyelvbe "China" és "Chine" néven került átírásra. Ezt az etimológiát néhány tudós elveti, és azt állítja, hogy a szanszkrit "Sina" sokkal korábban, a Qin-dinasztia előtt alakult ki. A "Jin", a Zhou-dinasztia által az i. e. VII. században ellenőrzött állam, egy másik lehetséges eredet.
+> Úgy tartják, hogy a "Qin" név az etimológiai őse az ország mai európai nevének, Kínának. A szó valószínűleg először "Cina" vagy "Sina", majd "Sinai" vagy "Thinai" néven került be az indo-árja nyelvekbe, majd a görögbe és a latinba. Ezt követően az angol és a francia nyelvbe "China" és "Chine" néven került átírásra. Ezt az etimológiát néhány tudós elveti, és azt állítja, hogy a szanszkrit "Sina" sokkal korábban, a Qin-dinasztia előtt alakult ki. A "Jin", a Zhou-dinasztia által az i. e. VII. században ellenőrzött állam, egy másik lehetséges eredet.  
 
 Azt Zajti Ferenc Zsidó volt-e Jézus című könyvéből is tudjuk, hogy a szumer-sémi nyelvekre jellemző volt az s-es kiejtés, de [[K/Kentum-szatem szabály\|kentum-szatem]] elválás szkíta korra megy vissza, azaz a Csina/Sina forma az eredeti Huna, majd Hyna/Khina változata kell legyen.  
 
@@ -40,4 +42,16 @@ A másik a Huna név, melyből ugyanúgy lehetett létrejött Kína, mint ahogy 
 Lényegében a [[C/CSIN\|csín]] és [[S/Szín\|szín]] szavak csak változatai a Hun/Kan/stb. formáknak, ahol a kiinduló az [[A/A\|A]] címnél álló diagram alapján is An/En/In.  
 
 A kínai `tien` = ég, menny szó sem áll távol, márpedig a kínaiak a menny királyságának tartották magukat, ahogy a japánok a felkelő nap országának nevezték országukat.  
+
+> [!info] &nbsp;
+> Nem mindenki hívja őket ezen a néven.
+
+Az oroszok például Kínát Kitajnak (Китай) hívják: a középkorban a mongolokkal rokon, proto-mongol nyelvű kitaj (vagy kitan) nomád törzzsel kerültek kapcsolatba. Ez a népcsoport a 10. és 12. század között uralta Észak-Kínát és Mandzsúriát, ahol megalapították a Liao-dinasztiát.  
+> [!lasdmeg] &nbsp;
+> A név rögzülésének és fennmaradásának főbb okai:
+> 
+> - Földrajzi irány: Az oroszok és a közép-ázsiai népek észak felől, a szárazföldön keresztül érintkeztek a régióval. Számukra az ott élő kitajok jelentették magát „Kínát”. 
+> - Közvetítő szerep: Az elnevezést az oroszok a mongol és türk közvetítő nyelvekből vették át a Mongol Birodalom idején. 
+> - Nyugati párhuzam: Ugyanebből a tőből származik Kína régi, angol nyelvű költői elnevezése, a Cathay is. 
+> - Eltérő elnevezések: Miközben Oroszország a kitajokról nevezte el az országot, a nyugat-európai nyelvek a tengeri kereskedelmi útvonalakon keresztül a déli területek elnevezéseit (valószínűleg a Csin-dinasztia nevéből eredő _China, Chine_ formákat) vették át.
 
