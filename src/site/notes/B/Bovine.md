@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bovine/","title":"Bovine","created":"2024-10-24T01:52","updated":"2024-10-24T01:52"}
+{"dg-publish":true,"permalink":"/B/Bovine/","title":"Bovine","created":"2024-10-24T01:52","updated":"2026-06-05T20:53"}
 ---
 
 
@@ -21,7 +21,7 @@ Ahogy [[B/Benefit\|benefit]] szónál is említettük, a fő táplálékként sz
 Maga a [[T/Tej\|tej]] szavunk is Te-J felbontásban Isten (fo/fő)Jója, hasonlóan a teához (Isten vize).  
 
 Érdekes egyezése a kelta mitológia [[B/Bóand\|Bóand]] (változatai: Boann, Bónn, Boinn, Bóinn, Boadan) istennő nevével, kinek neve egyes nézetek szerint Bouvinda olvasatú is volt, mely utóbbi egy az egyben egyező a szóban forgó szóval.  
-Egyre inkább úgy látszik, hogy az [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél látott szavakhoz hasonlóan itt v-beékelésről lehet szó. V-kihagyásosan a görög `βουνό` = hegy és temérdek (bőv-es?) jelentésű. Márpedig a tej, marha (tehén), hegy fogalmakban mind a szent (és a [[S/Szikla\|szikla]] és [[S/Szümplegádok\|szümplegádok]] címnél írottak szerint a [[T/Tejút\|Tejút]]) a közös.  
+Egyre inkább úgy látszik, hogy a [[H/Hiátustöltő hangok#Hiátuspótlás a szó közepén\|hiátuspótlás a szó közepén]] címnél látott szavakhoz hasonlóan itt v-beékelésről lehet szó. V-kihagyásosan a görög `βουνό` = hegy és temérdek (bőv-es?) jelentésű. Márpedig a tej, marha (tehén), hegy fogalmakban mind a szent (és a [[S/Szikla\|szikla]] és [[S/Szümplegádok\|szümplegádok]] címnél írottak szerint a [[T/Tejút\|Tejút]]) a közös.  
 
 Ahogy [[B/Bonus\|bonus]] címnél is szerepelt, a görög `bos` egyébiránt a `boci` szavunkkal is rokoníthat; Timaru-Kast Sándor a kelta-ír `bó`/`booag` = tehén szó mellé `bőg`, `buga` és `boci` szavakat hoz fel; a mannin (man-szigeteki) `bodag` = tehén [[B/Bodag\|bodag]] szóval azonos.  
 Érdekes még az északi lapp `boazu` = háziasított rén (hiszen szarvasmarha azon a tájon nincs) szóval való egyezés (a vadrén a [[G/Göd\|Göd]] címnél is taglalt `goddi`).  
