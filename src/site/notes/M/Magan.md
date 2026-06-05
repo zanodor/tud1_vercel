@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magan/","title":"Magan","tags":["containscallouts"],"created":"2026-02-23T05:35","updated":"2026-03-03T18:29"}
+{"dg-publish":true,"permalink":"/M/Magan/","title":"Magan","tags":["containscallouts"],"created":"2026-02-23T05:35","updated":"2026-06-05T20:53"}
 ---
 
 
@@ -38,5 +38,5 @@ Záhonyi cikkében is az szerepel, hogy....
 
 Bakos Attila A Duna Evangéliuma című könyvének 184. oldalán \[nem tudni, egyáltalán ezt a nevet?\] Maan-ként úgy említi, mint a Nílus-völgyében Núbia egyik kerületét.  
 Hasonló ezen névhez a Bakos könyvének 167-168. oldalán említett mayapáni Mehen vagy Mahan (az első teremtmény, minden létező ősének képzete, aki kékre festett kozmikus tojásban trónolt), mely név [[M/Mén\|mén]] és [[M/Man\|man]] mellett `men` = menny lehet, de figyeljük meg, hogy a [[M/Mony\|móny]] = tojás értelme is innen ered, men fogalmából.  
-A Mehen/Mahan és akár Magan nevek nyilván olyan, az [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél is taglalt széthúzásról árulkodnak, mint más esetekben (hogy lesz Úrból Uhor és Ugor).  
+A Mehen/Mahan és akár Magan nevek nyilván olyan, a [[H/Hiátustöltő hangok#Hiátuspótlás a szó közepén\|hiátuspótlás a szó közepén]] címnél is taglalt széthúzásról árulkodnak, mint más esetekben (hogy lesz Úrból Uhor és Ugor).  
 
