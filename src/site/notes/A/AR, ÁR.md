@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/AR, ÁR/","title":"AR, ÁR","tags":["containstransclusions"],"created":"2024-10-31T14:37","updated":"2026-05-21T05:01"}
+{"dg-publish":true,"permalink":"/A/AR, ÁR/","title":"AR, ÁR","tags":["containstransclusions"],"created":"2024-10-31T14:37","updated":"2026-06-05T20:51"}
 ---
 
 
@@ -126,13 +126,14 @@ Azért került ezen szócikkhez és nem [[U/UR\|UR]] címhez, mert az [[A/A\|A]]
 >
 > Láttuk már az Ur `Herr`, wir, scytha aj-or, örmény `Ahr` stb. szó alakokat, mikhez a kurd `ár` (vir) siami `bhura` = ur (Ritter IV. 76.) a görög `kuros`, s `kurios` (=ur), a persa `cyrus` \[lásd [[C/Cyrus\|Cyrus]]\], `kyros` név (= sol) s Ariamnes név (urat jelentő névszó Svidus szerint Bayert hist. osroen pag. 81.), adhatok azon megjegyzéssel, hogy vir korántsem a magyar ur, hanem a magyar férj kelta nyelvben `gwr`, `fear`, sankritul `vara` (W. J. B. CII. p. 126.). Lepsius által kiadott régi italiai edényfeliratókban `fir` (Gelehrte Anzeig. 1843. May Nro 25. München). Bopp is a kelta `fear`, `fer` ( = vir), a sanskrit `vara` szóval ugyanazonitá (l. Pictetet Journ. as. 1840. Nro 51. p. 234), syrjánul is `ver` = férj, `verōsös` = férjet, `verossaja munny` = férjhez menni (Gablencz Grundzüge der syrj. Grammat. p. 6. 39.); **a bh, v, f, g az elősorolt szókban csak előtételek**, meghosszitásai s erősbitései a törzsnek, igy van a `Tur` név szóval is a dolog, mely istent, urat, hegyet, óriást, villámzót s. a t. jelentett, s minden phasisaiban az ur szó jelentéseinek osztozkodik, még abban is, hogy persa hagyományok szerint valamint Ir Feridun fia Iránnak, ugy testvérje Tur Turán országnak ( = Aniran vagy a mi nem Irán föld) nevet adott. Ha végre az ur szó különösben embert is jelent, még pedig a nemesebb fajt, a férfi-nemet a parancsolói, azon sem akadhatuk fel, mert a mann szóval szinte igy van a dolog (l. meny) s mint ott van menyecske, meny, menyasszony, ugy itt is van `ara` = meny asszony, Irene (= a persa schirin Herbelot t. 3. p. 378. t. v. p. 203.). Here, vagy Juno, Aurora, ki a fiatal szép Orionba beleszeretvén, azt csillaggá változtatta stb. Hogy a Mann a nemzetek neveiben is közönséges láttuk, az ur vagy Er szóval is történt Cattuarii, Bruetvarii, widioarii stb. a vir szóval szinte igy van a dolog "Angri-varii, Aniivarier, az angelsax és skandinav népfajok közt Herfon-vare, Cont-vare, Fort-vari. Hogy az Er a névszókban a Mann szerepét viseli, a germán nyelvben azt Soltan Adelunghoz való toldalékában fel is jegyezte. ([Lásd 338. old.](zotero://open-pdf/library/items/DFI47XPY?page=338&annotation=K3KB4Z79))  
 
-Az is igaz, hogy nemcsak ezen alapszavak bővíthetők, és nemcsak [[N/N#N- előtét\|n]]/ny hangokkal. L-előhang (ha r nem is) is elképzelhető, pl. ív = elhajlás kapcsán jutott eszembe, hogy [[L/Leave\|leave]]/[[L/Left\|left]] az egyenestől való eltérésre vonatkozhatnak.  
+Az is igaz, hogy nemcsak ezen alapszavak bővíthetők, és nemcsak [[N/N#N- és ny- előtét\|n/ny]] előhangokkal. L-előhang (ha r nem is) is elképzelhető.  
 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
 Falvay Károly Nagyboldogasszony című könyvének 297. oldalán is jól írja, hogy a forgó ábrák az élet energiáit ábrázolják.  
+—  
 Egy hirtelen ötlet szerint a latin főnévi igenév -ere, -are, -re is lehet ennek az energiának (az igék általán a cselekvésre utalnak) a nyomán létrejött, vagyis végül is a főnevek gyakori -or, -ur, -er, -ér végződése nyomán létrejövő.  
 
 [^2]: Lábjegyzet:  
-Kinek neve a rómaiaknál Mars, azaz a bolygó.  
+Minek neve a rómaiaknál Mars, azaz a bolygó.  
