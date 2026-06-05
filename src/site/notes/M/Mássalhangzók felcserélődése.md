@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-05-29T22:41"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-06-05T20:51"}
 ---
 
 
@@ -86,7 +86,7 @@ Egy másik a ginger > gyömbér (fordítva is lehetséges). De a hungár > [[C/C
 
 A másik hasonló, de kevésbé ide illő eset ND>MP változás, vagy ennek fordítottja. Például `grandpa` > `gramp`.  
 
-Götz László Keleten kél a Nap című könyvének idetehető adatsorát lásd [[N/Nazalizáció\|nazalizáció]].  
+Götz László Keleten kél a Nap című könyvének idetehető adatsorát lásd [[O/Orrhang#^g30c9f\|orrhangosítás]] címnél.  
 
 [[F/Félelem#Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú\|Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú]] cím/alcímnél volt szó a rokon ideák mögötti szavakról és írásmódjukról ([[G/Gg\|gg]], ng és más mássalhangzópárokról).  
 
@@ -141,7 +141,7 @@ V>M. Aczél József is felhozza a közönségesnek mondható M-V ajakhang-válto
 P>M változás könnyen végbemegy, ajakhangok lévén. [[M/Madár\|Madár]] címnél fordítottjáról is esett szó.  
 
 V>L. Az l és v hangok a szók elején, közepén, és végén tájdivat szerént fölcseréltetnek, mint: lépik vépik, lápa vápa, kilül kivül, belül bevül, fel palóczosan feü, fev, al, au, av, stb. \[CzF\]  
-L-V mássalhangzó-változás előjött vibrate szónál, és előfordult például CzF által is említett vép-lép szavakban. Lék helyen írja még: székelyesen vék, mint lép vép, láz váz, lápa vápa stb. Lásd még [[L/L#Lengyel ł\|lengyel ł]] témát.  
+L-V mássalhangzó-változás előjött vibrate szónál, és előfordult például CzF által is említett vép-lép szavakban. Lék helyen írja még: székelyesen vék, mint lép vép, láz váz, lápa vápa stb. Lásd még [[L/L#Lengyel és orosz ł\|lengyel ł]] témát.  
 
 NY>J változás teljesen elképzelhető. A török `yilan` = kígyó könnyen nyíl szavunkból eredhet, de volt szó [[J/Jón\|jón]] címnél proto-mongol adatról, ahol könnyen NY>J változás jöhetett létre.  
 
@@ -197,7 +197,7 @@ D>G változásra példa: Víg szavunk régiesen víd volt, CzF szótár szerint.
 #### G>V, V>G, G>W/Y és rokon átmenetek
 
 Érdekes a v>o magánhangzóra váltás, lásd a germán `new` és `löw` szavakat összevetve a görög `neo` és latin `leo` szavakkal. Erről másutt is volt szó, [[O/Ozirisz\|Ozirisz]] [[V/Vezér\|vezér]]ből és `oasis` bázis szóból (annak eredete nyomán) való eredeztetése kapcsán. [[O/O#O mint U és V\|O mint U és V]] cím/alcímnél erről volt már szó.  
-A g>w (u) váltás olyan szavakban, mint bow is ismert ([[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél hasonló témát tárgyaltunk).  
+A g>w (u) váltás olyan szavakban, mint bow is ismert ([[H/Hiátustöltő hangok#Hiátuspótlás a szó közepén\|hiátuspótlás a szó közepén]] címnél hasonló témát tárgyaltunk).  
 G>V váltásra lehet példa a több helyen említett [[C/Csillag\|csillag]] > szláv `cselovek` = ember; emberiség szó, bár lehetséges, hogy a v hiátuspótló és a szóvégen g = k azonosság van.  
 G>W/Y változásra angol példák: Ami a modern angolban w-re, vagy y-ra végződik (lásd hay, way, play ill. maw és dew), az az óangolban/ógermánban és a magyarban leggyakrabban g (vagy gy) hang.  
 A legszemléletesebb példa `hogy` > `how`.
@@ -232,22 +232,23 @@ F>SZ változással próbálkoztunk swing fing-ból való levezetésével (bár l
 F>SZ változással fik-ből lehetne a török szik-mek (basz-ni), de valószínűbben `SZIK` = Nap hímségi princípiumot kell látni benne.  
 
 G>GY>TY>T hangfejlődést láttunk sok esetekben, például lúg szavunk dánul `lud`, svédül `lut`. De lötty, laty-ak, lucs, locs szavunk is a nőiségi lák, luk, valamint hímségi (kb.) lúk szócsoportjába tartozik, éppily fejlődéssel.  
-G>T szabálytalan mássalhangzó-változásra is akad példa a magyarban: régies sőgből így lesz sőt, esmegből ismét, CzF szótár adata szerint.  
+G>T szabálytalan mássalhangzó-változásra is akad példa a magyarban: régies sőg-ből így lesz sőt, esmeg-ből ismét, CzF szótár adata szerint.  
 
-Timaru-Kast Sándor írja:  
+#### Timaru-Kast Sándor írja:  
+
 > Vannak esetek, mikor a kemény G illetve K hang áthelyeződik a valamivel puhább szájpadi hangok képzési helyére, és ekkor D-, illetve T-nek lesz kiejtve: a kisgyerek is ezt teszi, mikor még az íny- (toroki-) hangok (másképpen a gégehangok) kiejtésére nem képes, és ezt csodálatra méltó ügyességgel oldja meg, azaz a felnőttek beszédével szembeni fejlődési hátrányát "cselesen" leplezi.  
 
-Götz László Keleten kél a Nap című könyvének 152. oldalán hangkereszteződés és polarizáció témában szól erről; a veláris->dentális G-D és K-T változással kapcsolatban felhozza, hogy az angol clear tlear-nek, glory pedig dlear-nek hangzik.  
+Götz László Keleten kél a Nap című könyvének 152. oldalán hangkereszteződés és polarizáció témában szól erről; a veláris->dentális G-D és K-T változással kapcsolatban felhozza, hogy az angol `clear` tlear-nek, `glory` pedig dlear-nek hangzik.  
 
 Götz szól az orosz nyelvben előforduló szókezdő TH > F-re alakulásáról; theta > fita, Thomas > Foma, stb.  
 
-D>F váltás nem tűnik "megengedettnek," ennek ellenére a perzsa-angol etimológia szótár szerkesztői sokszor tesznek szótagkezdő f-hangos szavakat d-hanggal nyitó indo-európai gyökök mellé, azokhoz rokonítva őket, például perzsa `dûd` (füst) → latin `fumus`, perzsa `dar` (ajtó) mellé latin `foris` vagy angol `dough` mellé latin `figura` szavak párosításakor.  
+D>F váltás nem tűnik "megengedettnek," ennek ellenére a perzsa-angol etimológia szótár szerkesztői sokszor tesznek szótagkezdő f-hangos szavakat d-hanggal nyitó indo-európai gyökök mellé, azokhoz rokonítva őket, például perzsa `dûd`, szanszkrit `dhūmá` (füst) → latin `fumus`, a perzsa `dar` (ajtó) mellé kerül a latin `foris` vagy az angol `dough` mellé latin `figura`.  
 Nevezhetjük tudománytalannak. Az [alábbi](https://qr.ae/pNK70C) Quora válaszomban kitértem a latin `filius` ([[F/Fiú\|fiú]]; lásd még [[F/Filial\|filial]]) hivatalos etimológiája...  
 > Latin `fīlius` ("son") from Proto-Indo-European \*dʰeh₁y-li-os ("sucker"), which is a derivation from the verbal root \*dʰeh₁(y)- ("to suck").  
 > —  
 > Latin `fīlius` ("fiú") a proto-indoeurópai \*dʰeh₁y-li-os szóból ("csecsemő"), amely a \*dʰeh₁(y)- igei tőből ("szopni") származik.
 
-...kapcsán arra, hogy a D>F váltás erőltetett és itt hogy a \*dʰeh₁(y)- megállapított gyök esetében a mi `tej` szavunkat kell felismerni.  
+...kapcsán arra, hogy a D>F váltás erőltetett és itt hogy a \*[dʰeh₁y-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/d%CA%B0eh%E2%82%81(y)-) megállapított gyök esetében a mi `tej` szavunkat kell felismerni.  
 A latin `firmus` szót is egy proto-indoeurópai \*dʰer- tőből származtatják (mert hogy ennek a tőnek a jelentése "tartani", "szilárdan tartani", "támasztani". Ebből alakult volna ki a latinban a "szilárd", "erős", "stabil" jelentés).  
 
 
@@ -276,7 +277,7 @@ K>J változásra is akad példa. Péterfai János említi tulajdon szavunknál:
 Gyakori az arab nyelvben, például `jabbar` = óriás vélhetően a kabar népnévből (ill. annak eredete nyomán) ered.  
 A helyén szó volt az esetleges Kutya/Kuda > Juda, Júda változásról is.  
 Viszont a latin `suchus` = gyík is arabban `shuja` = kígyó (magyar elődre lehet tippelni).  
-Itt még térjünk ki arra, amiről legutóbb [[B/BUJ\|BUJ]], [[S/SZEJ\|SZEJ]] és főként [[H/H, J, V\|H, J, V]] címnél volt szó. Ezen hangok ugyanis a szó végén azért alakulnak ki, mert a nyelvérzék lecsíp egy (hangsúlytalannak vélt) magánhagzót és ilyen félmássalhangzókkal cseréli le. A magyarban is látunk példát ugye (hó > havas, tó > tavak), de itt most főleg az archaikus gyakorlatot kellene tetten érni. Úgy tűnik, a szóvégi ű, ü (ő, ö) és u hangok (idegen nyelvekben ü sincs, így u lesz belőle) változhatnak ilyen glottal stop szerű ([[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél volt már erről szó) megoldással, elnémulva ilyen félmássalhangzókká. Így lesz például bű-ből [[B/BUJ\|BUJ]] és tűzből Zejsz/[[Z/Zeusz\|Zeusz]] is vélhetőleg. (Nem sikerült – ezt sem – tudományosan jól előadni, de értjük miről van szó.)  
+Itt még térjünk ki arra, amiről legutóbb [[B/BUJ\|BUJ]], [[S/SZEJ\|SZEJ]] és főként [[H/Hiátustöltő hangok\|hiátustöltő hangok]] címnél volt szó. A h, j, v hangok ugyanis a szó végén azért alakulnak ki, mert a nyelvérzék lecsíp egy (hangsúlytalannak vélt) magánhangzót és ilyen félmássalhangzókkal cseréli le. A magyarban is látunk példát ugye (hó > havas, tó > tavak), de itt most főleg az archaikus gyakorlatot kellene tetten érni. Úgy tűnik, a szóvégi ű, ü (ő, ö) és u hangok (idegen nyelvekben ü sincs, így u lesz belőle) változhatnak ilyen glottal stop szerű ([[H/Hiátustöltő hangok#Hiátuspótlás a szó közepén\|hiátuspótlás a szó közepén]] címnél volt már erről szó) megoldással, elnémulva ilyen félmássalhangzókká. Így lesz például bű-ből [[B/BUJ\|BUJ]] és tűzből Zejsz/[[Z/Zeusz\|Zeusz]] is vélhetőleg. (Nem sikerült – ezt sem – tudományosan jól előadni, de értjük miről van szó.)  
 
 R>Z változásról írja Timaru-Kast Sándor:  
 > Az R>Z hangcserét "törökösnek" hívják a nyelvészetben. Az ír nyelv két típusú R hangot ismer: egy szájpadi, kemény R hangot, mint például a FUARA-igh – fázni, hideget csinálni, közömbössé válni (FÁZ-ni, elFÁS-ul-ni) értelmű – szóban, és egy toroki (ínyképzésű) lágy RZS hangot – mint az IRIS \[irzses\] újság, hírlap, közlemény (ÍRÁS) értelmű szóban.  
