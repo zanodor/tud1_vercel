@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-05-29T22:39"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-06-05T20:49"}
 ---
 
 
@@ -23,6 +23,10 @@
 
 **2026:**
 
+<small>[260604CN! FIGYELMEZTETÉS MEGHASONLÓKNAK](https://rumble.com/v7atnyw-260604cn-figyelmeztets-meghasonlknak-kubnyi-tams-ktv.html)  [https://share.note.sx/usacw8ur](https://share.note.sx/usacw8ur) [https://archive.ph/nmC9K](https://archive.ph/nmC9K)</small>
+<small>[260603CN! HONFOGLALÁS HELYETT](https://rumble.com/v7arz98-260603cn-honfoglals-helyett-kubnyi-tams-ktv.html)  [https://share.note.sx/h5cqfrlo](https://share.note.sx/h5cqfrlo) [https://archive.ph/Wvj5A](https://archive.ph/Wvj5A)</small>
+<small>[260602CN! A KI NEM MONDOTT SZÓ](https://rumble.com/v7aq95a-260602cn-a-ki-nem-mondott-sz-kubnyi-tams-ktv.html)  [https://share.note.sx/xyqcqtzy](https://share.note.sx/xyqcqtzy) [https://archive.ph/1oPHj](https://archive.ph/1oPHj)</small>
+<small>[260601CN! SZÓZAT A NEMZETHEZ](https://rumble.com/v7aom8q-260601cn-szzat-a-nemzethez-kubnyi-tams-ktv.html)  [https://share.note.sx/l1pdydto](https://share.note.sx/l1pdydto) [https://archive.ph/D3bA1](https://archive.ph/D3bA1)</small>
 <small>[260529CN! A BRÜSSZELI PAKTUM](https://rumble.com/v7ak1p2-260529cn-a-brsszeli-paktum-kubnyi-tams-ktv.html)  [https://share.note.sx/k044c92d](https://share.note.sx/k044c92d) [https://archive.ph/TKlxG](https://archive.ph/TKlxG)</small>
 <small>[260528CN! A HÁLÓZAT](https://rumble.com/v7aiffc-260528cn-a-hlzat-kubnyi-tams-ktv.html)  [https://share.note.sx/pqdtbdco](https://share.note.sx/pqdtbdco) [https://archive.ph/1R9uw](https://archive.ph/1R9uw)</small>
 <small>[260527CN! BORSÓ A FALON](https://rumble.com/v7agrcq-260527cn-bors-a-falon-kubnyi-tams-ktv.html)  [https://share.note.sx/estafjx6](https://share.note.sx/estafjx6) [https://archive.ph/1BSYY](https://archive.ph/1BSYY)</small>
