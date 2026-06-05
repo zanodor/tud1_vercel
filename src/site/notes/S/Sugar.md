@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sugar/","title":"Sugar","tags":["titleandheadingonedontmatch","containstransclusions","containscallouts"],"created":"2025-10-17T00:43","updated":"2026-05-21T05:03"}
+{"dg-publish":true,"permalink":"/S/Sugar/","title":"Sugar","tags":["titleandheadingonedontmatch","containstransclusions","containscallouts"],"created":"2025-10-17T00:43","updated":"2026-06-05T20:52"}
 ---
 
 
@@ -66,7 +66,7 @@ Az arab zakkarral azonos Zakar András neve is.
 
 [[D/Dudás Rudolf\|Dudás Rudolf]] adata szerint a sumer `sahar` = kavics, homok, por, mely így a Szahara névvel párosul. Figyeljük meg, hogy a homok már számosság, nőiség. Ebben az esetben a sár és nem a szár fogalma keresendő.  
 Tulajdonképpen kimondható, hogy a magyar nyelvben is már kimutatható az egybenlévő vagy összehúzott és a széthúzott forma. Hogy ez mennyire tudatos a magyar nyelv részéről vagy mennyire a (tájias) kiejtés változásának tudható be, nem tudni. Tény, hogy a [[F/FER, FÉR\|FER, FÉR]] alapszó megjelenhet széthúzva [[F/Fehér\|fehér]] és fejérként és [[S/Szár\|szár]] is suhár/sukár/sugár/szaharként, vagy akár (lásd erről [[D/Dame\|dame]] címet) [[T/TEN\|TEN]] is [[T/Tehén\|tehén]]ként és [[T/TÁT\|TÁT]]/[[T/Tátos\|tátos]] is lehet Tejút/Tejutas értelmű. Jelen esetben a `szár` = fény jelentése jelenik meg például a héberben [[Z/Zohar\|Zohar]] = fényként (más nyelvekben hajnal; lásd [[S/Sacchar-\|sacchar-]]) azért, mert az á hangot leírni nem tudták már (vagy akár kimondani sem).  
-A belső magánhangzó diftongusokra, kettős magánhangzókra tagolódás és ezen hangok közötti [[H/H, J, V\|H, J, V]] félhangok önkéntelen kiejtése figyelhető tehát meg. (Így lesz végül is Bál/Pálból Paul és a szlávban végül Pavel. De a magyar hó > havas változás is erről szól, illetve hasonló a Quorán általam taglalt fiú – fijú kiejtési eset).  
+A belső magánhangzó diftongusokra, kettős magánhangzókra tagolódás és ezen hangok közötti [[H/Hiátustöltő hangok\|h, j, v]] félhangok önkéntelen kiejtése figyelhető tehát meg. (Így lesz végül is Bál/Pálból Paul és a szlávban végül Pavel. De a magyar hó > havas változás is erről szól, illetve hasonló a Quorán általam taglalt fiú – fijú kiejtési eset).  
 Az tény, és nem is szabadna összetéveszteni, hogy a szóközepi torokhang olyan hasonló alakú szavakban, mint [[S/Szekér\|szekér]] és [[S/Sikér\|sikér]] megjelenik, de már a Szek/Szik/Sik = Nap neveként. Utóbbi szóval kapcsolatban érdekes, hogy glutén jelentésével éppúgy a cukorra és a melasz-szerű ragacsosságára is utal. (Így értjük meg a [[G/Glucose\|glucose]] szó (szőlő)cukor eredetét is.)  
 
 A [[S/Sár\|sár]] és [[S/Szár\|szár]] témát leginkább a [[S/Sárkány\|sárkány]] címnél írottak alapján, a sárkány jelképállat révén lehet megérteni. Minden az égi fény és tiszta erkölcs és a materializmus sárba taszító, erkölcstelen életmódjának a szembeállítása alapján értendő meg. A magyar-zsidó ellentétek is. Az Anunnaki téma kapcsán azt írtam, hogy nem a Sitchin féle aranybányászatról van szó, hanem arról, hogy régen a `sár` és `szár` szavakkal fejezték ki a materialista és erkölcsös életet.  
