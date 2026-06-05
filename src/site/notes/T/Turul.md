@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-05-22T03:33"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-06-05T20:50"}
 ---
 
 
@@ -60,7 +60,7 @@ Ez a fajta [[C/Csigavonal\|csigavonal]]ú spirális mozgás az, amit a turul ige
 
 [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] A nevek titka című írásában közli, hogy [[F/Firdauszi\|Firdauszi]] a Királyok Könyve című művében ír a **Tugral** nevű madárról, amit a perzsák nagy királya Bahram Gúr kap ajándékba a kínai császártól. Ez a madár Devecseri Gábor előszavában is egy hatalmas sólyom, ami képes elkapni akár egy leopárdot is! Mind a madár neve és jellemzői a magyar Turult idézik, amely mitikus madár a türk népeknél `toghrul` formában jelenik meg.  
 
-Ami a torokhang-beékelést illeti a nevekben, láttunk már példát [[T/Tail\|tail]], [[H/Hail\|hail]] és más szavakban is erre. Lásd még [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]].  
+Ami a torokhang-beékelést illeti a nevekben, láttunk már példát [[T/Tail\|tail]], [[H/Hail\|hail]] és más szavakban is erre. Lásd még [[H/Hiátustöltő hangok#Hiátuspótlás a szó közepén\|hiátuspótlás a szó közepén]].  
 
 #### Czeglédi Katalin Magyar-török nyelvviszony...
 
@@ -196,7 +196,7 @@ Milyen érdekes, hogy az egyik Sas (megfelel a Turulnak, Paksi Zoltán alant sze
 
 Román téma következzen.  
 
-A vallach névhez hasonlító [[F/Falcon\|falcon]] (eredetije) valóban lehet a Turul változata és lehetséges, hogy ezeket a szintén szkíta-hun származék népeket a velük kapcsolatba kerülő kelták (Volcae törzs) a nevük és jelvük alapján a sólyom jelentésű szavuk kialkotására késztették (gall `uolcos`, `uolca`) de lehet ez a név pre-kelta is, azaz a palócok belső fejlődéssel létrehozott szava is (Bál napisten nevéből, hiszen a sólyom szinte megközelíti a Napot, olyan magasra száll; lásd még [[S/Sólyom\|sólyom]]).   
+A [[O/Oláh\|vallach]] névhez hasonlító [[F/Falcon\|falcon]] (eredetije) valóban lehet a Turul változata és lehetséges, hogy ezeket a szintén szkíta-hun származék népeket a velük kapcsolatba kerülő kelták (Volcae törzs) a nevük és jelvük alapján a sólyom jelentésű szavuk kialkotására késztették (gall `uolcos`, `uolca`) de lehet ez a név pre-kelta is, azaz a palócok belső fejlődéssel létrehozott szava is (Bál napisten nevéből, hiszen a sólyom szinte megközelíti a Napot, olyan magasra száll; lásd még [[S/Sólyom\|sólyom]]).   
 
 Itt meg a Turul/sólyom kontra Holló téma kapcsán annyit, hogy a magyar felmenőkkel is rendelkező\[?\] Bánáti, inkább románpárti Peter Clings ennek ellenére blogján és valamely Quora válaszában is erősködik, hogy egyes ábrázolásokon a madár inkább hollónak tűnik, mintsem sólyomnak. A fentebb Képes krónikából csatolt képek alapján meg is tudom érteni, de nála a probléma az volt, hogy a két téridőbeli (szemben álló) helyről nem tudott.  
 ![assets/Turul_image11.png|fix_dark fix_light](/img/user/T/assets/Turul_image11.png)  
