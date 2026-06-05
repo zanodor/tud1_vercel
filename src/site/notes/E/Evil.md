@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Evil/","title":"Evil","created":"2024-11-23T04:54","updated":"2025-09-16T13:24"}
+{"dg-publish":true,"permalink":"/E/Evil/","title":"Evil","created":"2024-11-23T04:54","updated":"2026-06-05T20:54"}
 ---
 
 
@@ -10,7 +10,7 @@ Az utóbbi szavak a mohamedánok (görög `diabolosz`-ból származtatott) [[I/I
 Nem lehet kizárni, hogy (ível helyett/mellett) [[E/Évül\|évül]] szavunk adja ki, hiszen a régi istenek elévülésével gonoszokká válnak. Bár itt is inkább a – látszólag csak egy d hanggal többnek mutatkozó – [[D/Devil\|devil]] szónál taglalt sötét félévről van szó. (Évül és ebül? Olyan lenne, mint a más(od)ik félévre utaló [[B/Bűn\|bűn]]?)  
 Amikor azt mondom, hogy ível (mellett), arra gondolok, hogy az ív, [[K/Konyul\|konyul]], [[H/Homorú\|homorú]] fogalmak is ugyanúgy a második, sötét, gonosz félévre, annak kezdetére utalnak.  
 
-Evil és [[I/Iblisz\|Iblisz]] szavakkal való összevetése után [[D/Devil\|devil]] szó esetében a görög `diabolos` = csinál balt/bajt levezetés látszik igaznak. Hogy a szóeleji d- hogyan maradt el, ez rejtély, mert általán [[H/H, J, V\|H, J, V]] hangok szoktak szó elejéről lekopni.  
+Evil és [[I/Iblisz\|Iblisz]] szavakkal való összevetése után [[D/Devil\|devil]] szó esetében a görög `diabolos` = csinál balt/bajt levezetés látszik igaznak. Hogy a szóeleji d- hogyan maradt el, ez rejtély, mert általán [[H/Hiátustöltő hangok\|h, j, v]] hangok szoktak szó elejéről lekopni.  
 Lehet(ett volna) egyszerűen csak E-Vil Világosság Háza. [[R/Rossz\|Rossz]], [[U/Utál\|utál]], stb. magyar [[N/Negatív értelmű szavak\|negatív értelmű szavak]]hoz hasonlóan itt is pozitív lenne a kiinduló értelem, melyből gonosz lett valamiféle valláscsere hatására. [[O/Ördög\|Ördög]] névnél is erről volt szó.  
 
 Hasonló alakú név még az [[A/Ábel\|Ábel]] is. Márpedig van olyan elképzelés, hogy nem Káin ölte meg Ábelt.  
