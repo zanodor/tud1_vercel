@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/SZAR/","title":"SZAR","tags":["Englishtexttranslated","containscallouts"],"created":"2026-03-12T21:18","updated":"2026-03-21T01:23"}
+{"dg-publish":true,"permalink":"/S/SZAR/","title":"SZAR","tags":["Englishtexttranslated","containscallouts"],"created":"2026-03-12T21:18","updated":"2026-06-05T20:52"}
 ---
 
 
@@ -33,7 +33,7 @@ Jankovics adata volt még:
 
 A lényeg, hogy az anyagi formában való megjelenés a sár/szar szavakhoz és ezek fogalmához volt kötött, más nyelvekben is.  
 
-Hettita nyelven `sahar` = piszok, kosz, mely nyilván csak szar, sár szavunk szóközepén hehes (lásd még erről [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]]) változata.  
+Hettita nyelven `sahar` = piszok, kosz, mely nyilván csak szar, sár szavunk szóközepén hehes (lásd még erről [[H/Hiátustöltő hangok#Hiátuspótlás a szó közepén\|hiátuspótlás a szó közepén]]) változata.  
 [[S/Sacchar-\|Sacchar-]] cukor jelentésű szónál is szó volt arról, hogy a szar fogalma keveredhet benne.  
 
 Az ind [Charvaka](https://en.wikipedia.org/wiki/Charvaka) név előtagja mindenképpen a materialista világképen keresztül a sár/szar nőiségi-anyagi aspektusra utalhat, de vaka szóban is megvan [[V/VAK\|vak]].  
