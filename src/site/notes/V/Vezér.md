@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vezér/","title":"Vezér","tags":["Englishtexttranslated"],"created":"2023-10-20T01:40","updated":"2025-07-12T00:27"}
+{"dg-publish":true,"permalink":"/V/Vezér/","title":"Vezér","tags":["Englishtexttranslated"],"created":"2023-10-20T01:40","updated":"2026-06-05T20:53"}
 ---
 
 
@@ -9,9 +9,9 @@ Az oszmán-török-angol `vizier` és az arab `wazīr` = segítő, miniszter min
 
 [[O/Ozirisz\|Ozirisz]] nevét is ezen magyar szavunkkal fejthetjük meg.  
 
-Hasonló szóalak a [[G/Gundestrup üst#B vagy 2-es jelű külső lemez – Szaturnusz\|Gundestrup üst]] címnél lézengő fordítással talált kelta **Uosiros**.  
+Hasonló szóalak a [[G/Gundestrup üst#B vagy 2-es jelű külső lemez – Szaturnusz\|Gundestrup üst]] címnél "lézengő" fordítással talált kelta **Uosiros**.  
 
-A vezér az egyik legkönnyebben érthető magyar név (a Mag-Ur is az lenne), mely rá*vezet*hetné az érdeklődőket és a más irányban érdek-lődőket arra, hogy a [[M/Magyar ősnyelv szótagnyelv\|magyar nyelv szótagnyelv]].  
+A vezér az egyik legkönnyebben érthető magyar név (a Mag-Ur is az lenne), mely rá*vezet*hetné az érdeklődőket és a más irányban érdeklődőket arra, hogy a [[M/Magyar ősnyelv szótagnyelv\|magyar nyelv szótagnyelv]].  
 Itt is azt a magánhangzó-harmónia törvényt látjuk, mint [[K/Kenyér\|kenyér]] esetében, azaz nem Vez-Úr a használt alak.  
 
 #### Péterfai János írásai:  
@@ -28,7 +28,7 @@ Vezér [[O/Orion\|Orion]] is (hiszen Ozirisz = Orion) (Péterfai János írja):
 
 ## Vezér mint Nap(isten) vagy Orion (Isten) – Ozirisz sem más mint Nap az Orionban
 
-Magyar Adorján A lelkiismeret aranytükre című könyvének első lapján szereplő adata szerint a jászok [[J/Jász\|jász]], Jázon vagy Jázzú neveken is nevezték a Napistent. Ugyanakkor [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél is szóltunk arról, hogy nyilas voltuk miatt (is) ugyanazon néven nevezhető Nap és Orion, ahogy a besenyő Nap és Orion [[P/Pater\|pater]], Peter, Beszer, Vezér neveken osztoznak.  
+Magyar Adorján A lelkiismeret aranytükre című könyvének első lapján szereplő adata szerint a jászok [[J/Jász\|Jász]], [[J/Jázon\|Jázon]] vagy Jázzú neveken is nevezték a Napistent. Ugyanakkor [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél is szóltunk arról, hogy nyilas voltuk miatt (is) ugyanazon néven nevezhető Nap és Orion, ahogy a besenyő Nap és Orion [[P/Pater\|Pater]], Peter, Beszer, Vezér neveken osztoznak.  
 Pater, mint Bot-Úr lényegében ugyanazt a (profánnak nevezhető) jelentést viszi, mint Nimrud neve. (Viszont ahogy [[B/Balta\|balta]] és [[P/Pálca\|pálca]] címnél is láttuk, a palóc Napisten Balota a névadó. Azaz hasonló név megjelenhet Orion neveként is. Van ilyen? Igen, [[B/Balog\|Balog]].)  
 
 [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímhez is betettük az alábbiakat.  
