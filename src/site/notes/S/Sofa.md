@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sofa/","title":"Sofa","created":"2023-11-08T05:36","updated":"2026-04-24T09:40"}
+{"dg-publish":true,"permalink":"/S/Sofa/","title":"Sofa","created":"2023-11-08T05:36","updated":"2026-06-05T20:53"}
 ---
 
 # Sofa
 
 Szófa. Megegyezik az izlandi `sofa` = aludni szóval, ahogy a [[C/Couch\|couch]] is feküdni jelentésű francia igéből ered. A svéd `sova` = aludni szó szanszkrit és más nyelvű rokonait lásd [ezen](https://en.m.wiktionary.org/wiki/%E0%A4%B8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%A4#Sanskrit) oldalon (a roma cigányok nyelvében is azonos).  
+A szanszkrit `svápna` és litván `sapnas` = álom szavak is ide tartoznak.
+
 Ahogy [[S/Szíriusz\|Szíriusz]] címnél megjegyeztem, [[S/Szoba\|szoba]], [[S/Szop\|szop]] és [[S/Szuka\|szuka]] szavak adhatnák ezek eredetét, a szanszkrit `svan` = kutya és [[S/Sovány\|sovány]] szavunk ilyen alakú még (mely lehet [[S/Suny\|suny]] széthúzott változata), valamint a [[S/Seven\|seven]] (az észak sötétjével) és [[S/Sopán\|sopán]]. Az évköri kutyás kapcsolat számomra egyértelmű alvás, fekvés kérdésben. Sőt, mivel a szexuális aktus is fekvő pozícióban általános, a [[L/Love\|love]] = szeretni szó szexuális/íjlövéses háttere is idekapcsolódik, azaz love sz-előtétes változata lehet a német `schlafen` szó.  
 
 A sova szónak megfelel a perzsa `shab` = éjszaka. A [[S/Szabáka\|szabáka]] is akkor lehet éjre vonatkozó. Ugyanakkor a [[B/Black\|black]] – blanche azonosság alapján akkor a shab eredete lehet egy a perzsa `sufid` = fehér gyökével.  
