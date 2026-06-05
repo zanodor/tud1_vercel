@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2024-05-14T11:45","updated":"2026-05-21T05:00"}
+{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2024-05-14T11:45","updated":"2026-06-05T20:51"}
 ---
 
 
@@ -215,4 +215,4 @@ Gulyás Péter Pál több könyvében is jól mutat rá, hogy az eget tartó osz
 
 |                                                                                     |                                                                                     |
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| ![Nosztratikus nyelvcsalád_image20260330194257442.jpeg\|fix_dark fix_light\|864](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260330194257442.jpeg) | ![Nosztratikus nyelvcsalád_image20260518180839845.jpeg\|fix_dark fix_light\|840](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260518180839845.jpeg) |
+| ![Nosztratikus nyelvcsalád_image20260530033435168.jpeg\|fix_dark fix_light\|875](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260530033435168.jpeg) | ![Nosztratikus nyelvcsalád_image20260518180839845.jpeg\|fix_dark fix_light\|840](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260518180839845.jpeg) |
