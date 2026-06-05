@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér/","title":"Fehér","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T16:00","updated":"2026-03-05T22:15"}
+{"dg-publish":true,"permalink":"/F/Fehér/","title":"Fehér","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T16:00","updated":"2026-06-05T20:52"}
 ---
 
 
@@ -28,7 +28,7 @@ Aczél József is említi a fehér (régiesen/változatként `feír`) szót, és
 Lásd még [[F/Fehér és fekete\|fehér és fekete]], valamint külön [[F/Fekete\|fekete]]. Lásd még továbbá [[F/Fair\|fair]] és [[F/Fairy\|fairy]].  
 
 > [!check] &nbsp;
-> [[F/FER, FÉR\|FER, FÉR]] etimont alkottunk ki belőle, [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] szabály alapján (bár sem a fehér h-ja, sem a fejér j-je nem ajakhang, mégis ott tárgyaljuk ezeket a szavakat, mint például a perzsa [[B/Bahár\|bahár]] = tavasz szót is).  
+> [[F/FER, FÉR\|FER, FÉR]] etimont alkottunk ki belőle, [[H/Hiátustöltő hangok#Hiátuspótlás a szó közepén\|hiátuspótlás a szó közepén]] szabály alapján (lásd még ott a perzsa [[B/Bahár\|bahár]] = tavasz szót is).  
 
 [A Nyest.hu](https://m.nyest.hu/hirek/mitol-szines) finnugrista oldalon taglalják a színeket és a fehéret:  
 > A fehér szóval rögtön nincs szerencsénk. Egyetlen magyarázata van, de az igen bizonytalan: talán finnugor eredetű, de csak a számiban vannak megfelelői – ezekkel legalább jelentésbeli problémák nincsenek. Az -ér ebben az esetben képző (sőt, képzőbokor). A szó ismert fejér alakban is: ez az eredeti forma. A fehér úgy keletkezhetett, hogy a fejérben a j-t hiátustöltőnek érezték és elhagyták (feér); később viszont a hiátust h-val töltötték ki. Ez azonban igen korán megtörténhetett, hiszen a fehér első – legendás – felbukkanásakor, az 1055-ös Tihanyi Alapítólevélben már így szerepel: feheru(uaru rea meneh hodu utu rea) 'Fehér(várra menő hadútra)'.  
