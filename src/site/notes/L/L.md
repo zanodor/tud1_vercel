@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/L/","title":"L","tags":["Englishtexttranslated"],"created":"2026-01-30T18:02","updated":"2026-05-21T05:01"}
+{"dg-publish":true,"permalink":"/L/L/","title":"L","tags":["Englishtexttranslated"],"created":"2026-01-30T18:02","updated":"2026-06-05T20:51"}
 ---
 
 
@@ -27,7 +27,7 @@ A magyar l igeképzőről [[R/R\|r]] címnél is volt szó.
 
 [[F/Fal\|Fal]] szó kapcsán írta valaki, de [[B/BA\|BA]] címnél már magam is követtem (azóta ott javítottam), hogy l sokasító értelmű lenne a szavak végén: fa > fal (minthogy sok fa adná a fából épített falat). Nos, fal asztrális eredetének megállapítása nyomán azt kell mondjam, hogy amennyiben más példát nem találok, az a sokasító értelem nem létezik, csak igeképző értelem.  
 
-## Lengyel ł
+## Lengyel és orosz ł
 
 Amint [ezen](https://qr.ae/pNl0vG) Quora válaszban Anton Danylchenko is kitér rá, eredetileg l hang volt:  
 > Change of "l" to "w" is the part of so-called labio-velarization process. \[...\]  
@@ -36,6 +36,8 @@ Amint [ezen](https://qr.ae/pNl0vG) Quora válaszban Anton Danylchenko is kitér 
 > Az "l" "w"-re való változása a labio-velarizációs folyamat része. \[...\]  
 > Egyébként ugyanez a folyamat figyelhető meg a lengyel nyelvben is: a kemény "l" hang "w"-vé alakul (a betű ugyanaz maradt – Ł). A modern lengyelben az Ł-t általában /w/-nek ejtik (pontosan úgy, mint az angol w-t mássalhangzóként, mint a wet szóban). Ez a kiejtés először a 16. században jelent meg a lengyel alsóbb osztályok körében. A felsőbb osztályok (akik az ⟨Ł⟩-t /ɫ/-nek ejtették) egészen a 20. század közepéig műveletlen akcentusnak tartották, amikor ez a különbség fokozatosan elkezdett elhalványulni.  
 - Ezzel a név kapcsán Pap Gábor fejtegetése [[L/Lengyel\|lengyel]] címnél is csődöt mond.
+
+Az orosz nem tesz különbséget a jelölésben; mindkettőt a **Л/л** betűvel jelöli. 
 
 Az olyan névváltozatokban, mint Szloboda-Szvoboda, még inkább egyértelmű az L-V váltás.  
 
@@ -125,4 +127,4 @@ Az olasz `dell'amore` összetételben is kötőhang, hogy ne álljon két magán
 
 Mint kiderül, a [[K/Kelta\|kelta]] névben is lehet a szóközepi hang vendéghang.  
 
-A 'v' hangról lásd [[A/Ajakhangok a szó elején\|ajakhangok a szó elején]] és [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]].  
+A 'v' hangról lásd [[A/Ajakhangok a szó elején\|ajakhangok a szó elején]] és [[H/Hiátustöltő hangok#Hiátuspótlás a szó közepén\|hiátuspótlás a szó közepén]].  
