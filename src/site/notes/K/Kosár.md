@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kosár/","title":"Kosár","created":"2025-09-29T02:38","updated":"2026-03-05T01:44"}
+{"dg-publish":true,"permalink":"/K/Kosár/","title":"Kosár","created":"2025-09-29T02:38","updated":"2026-06-05T20:52"}
 ---
 
 
 # Kosár
 
 Ku-Sár vagy Kus-Ár felbontásában is érdekes. Könnyen lehet, hogy nem a kézi kosárra utal.  
-A Naphős [[M/Mózes\|Mózes]]ról ismert, hogy gyermekkorában kosárban (kosár = [[H/Hajó\|hajó]]) kitették a folyóra (ami a [[T/Tejút\|Tejút]]). Ez a motívum számos más hősnél előjön ([[J/Joshua\|Joshuá]]nál, Szargonnál; állítólag a világon 71 különböző történetben).  
+A Naphős [[M/Mózes\|Mózes]]ról ismert, hogy gyermekkorában kosárban (kosár = [[H/Hajó\|hajó]]) kitették a folyóra (ami a [[T/Tejút\|Tejút]]). Ez a motívum számos más hősnél előjön (pl. Szargonnál; állítólag a világon 71 különböző történetben).  
 
 #### Tomory Zsuzsa Istenes magyar emlékeink 1. rész...
 
