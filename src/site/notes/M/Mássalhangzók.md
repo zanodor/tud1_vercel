@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók/","title":"Mássalhangzók","tags":["Englishtexttranslated"],"created":"2024-04-28T20:59","updated":"2026-05-21T05:07"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók/","title":"Mássalhangzók","tags":["Englishtexttranslated"],"created":"2024-04-28T20:59","updated":"2026-06-05T20:53"}
 ---
 
 
@@ -16,10 +16,10 @@
 Mássalhangzót csak valamilyen magánhangzó kíséretében lehet ejteni; ez fizikai törvényszerűség. Ezt használják ki leginkább a kimondhatatlan szavakat használó [[S/Szláv#Szláv nyelvek\|szláv nyelvek]] beszélői. Egy cseh, Hrtska nevű kézilabdázó nevét hrücka-ként ejtik például.  
 
 Lásd még [[M/Mássalhangzók az évkörön\|mássalhangzók az évkörön]].  
-Lásd még [[M/Magánhangzók\|magánhangzók]]. Lásd még [[F/Fonetika\|fonetika]].  
+Lásd még [[M/Magánhangzók\|magánhangzók]].  
 Lásd még [[M/Magyar nyelv hangfejlődése korai nyelvemlékeink tükrében\|magyar nyelv hangfejlődése korai nyelvemlékeink tükrében]].  
 Lásd még továbbá [[V/Végvári József\|Végvári József]].  
-Lásd még szintén [[H/H, J, V\|H, J, V]] mássalhangzók.  
+Lásd még szintén [[H/Hiátustöltő hangok\|h, j, v]] mássalhangzók.  
 Lásd még továbbá [[A/Ajakhangok\|ajakhangok]].  
 Lásd még továbbá [[G/Gáll Péter\|Gáll Péter]] rendszerét.  
 
