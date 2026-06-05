@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2026-05-21T04:57"}
+{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2026-06-05T20:51"}
 ---
 
 
@@ -144,7 +144,7 @@ Hogy itt csak a [[C/Candle\|candle]] címnél is taglalt fényes aspektust kell 
 
 Az óegyiptomi Nagy Kutyának beillő csillagkép [[K/Kenemet\|Kenemet]] lehet Kanamat is ill. más magánhangzó-"töltésű" is, tekintve, hogy az óegyiptomiak nem írták ki a magánhangzókat. Azóta más elképzelés is született.  
 
-Ha már Egyiptom, [[K/Kohén\|Cohen]], [[C/Canopus\|Canopus]], [[P/Procyon\|Procyon]], [[C/Cynosure\|Cynosure]], [[S/Szigor\|szigor]] és [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél volt szó az óegyiptomi (eredetűnek tartott de talán csak csillag/csillagkép nevében használt?) `cahen` = kutya szóról, mely a kan középen hehes változata.  
+Ha már Egyiptom, [[K/Kohén\|Cohen]], [[C/Canopus\|Canopus]], [[P/Procyon\|Procyon]], [[C/Cynosure\|Cynosure]], [[S/Szigor\|szigor]] és [[H/Hiátustöltő hangok#Hiátuspótlás a szó közepén\|hiátuspótlás a szó közepén]] címnél volt szó az óegyiptomi (eredetűnek tartott de talán csak csillag/csillagkép nevében használt?) `cahen` = kutya szóról, mely a kan középen hehes változata.  
 
 De ha már az égre tévedtünk, a szanszkrit **Chândra** = Hold is Kán-Dár ([[K/Kantár\|kantár]], mint [[C/Centre\|centre]]?) is Kanok/Kánok csillaga értelmű, ahogy nyilván a [[S/Szíriusz\|Szíriusz]] is. Egyébiránt a hindi `kendra` = középpont is hasonló hozzá. Mindezek legutóbb [[C/Centre\|centre]] címhez is bekerültek (egy legutóbb finn [[K/Kuntar\|kuntar]] = Holdleány névvel is magyarázva).  
 
