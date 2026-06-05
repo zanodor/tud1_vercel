@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Francia/","title":"Francia","tags":["Englishtexttranslated"],"created":"2023-11-29T01:38","updated":"2024-10-25T18:52"}
+{"dg-publish":true,"permalink":"/F/Francia/","title":"Francia","tags":["Englishtexttranslated"],"created":"2023-11-29T01:38","updated":"2026-06-05T20:54"}
 ---
 
 
@@ -15,6 +15,8 @@ Ferenc nevünk nem a franciából ered, hanem mind a tündérek nevéből ered. 
 ## Francia nyelv
 
 Arról másutt is volt szó, hogy még 200 évvel ezelőtt sem volt egységes francia nyelv és hogy a breton nyelvet beszélőket hogy igyekeztek megkülönböztetni és leszoktatni nemzeti nyelvükről.  
+
+A francia nyelv különösen sok hangkiesést és redukciót mutat a [[L/Latin nyelv\|latin]] eredetihez képest, ami hozzájárult a franciára jellemző "zenei" hangzáshoz, ahol a szavak gyakran egy hangsúlyos szótaggal végződnek, és az azt megelőző hangsúlytalan szótagok redukálódnak vagy kiesnek. Ez a folyamat nemcsak nyelvtörténeti, hanem _kulturális_ jelentőséggel is bír, hiszen hozzájárult a francia nyelv jellegzetes fonetikájának kialakulásához, amely megkülönbözteti azt más román nyelvektől. Ez a nyelvi evolúció tükrözi a régió kulturális dinamikáját és a beszélt nyelv elsődlegességét az írott normához képest a korai középkorban.  
 
 [Ezen](https://www.reddit.com/r/hungary/comments/g5bl5k/why_is_y_and_z_swapped_on_hungarian_keyboard/) Reddit fórumon írja Kiss nevű magyar:  
 > French layout doesn't matter. French language is a weird experiment which failed. That keyboard layout is a result of some satanic conspiracy.  
