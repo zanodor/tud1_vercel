@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ashmog/","title":"Ashmog","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-23T02:53","updated":"2026-05-21T05:07"}
+{"dg-publish":true,"permalink":"/A/Ashmog/","title":"Ashmog","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-23T02:53","updated":"2026-06-05T20:53"}
 ---
 
 
@@ -29,6 +29,8 @@ Nyilván Asmodeus számomra inkább Ashmog-Deus összevonása lenne, mintsem Aes
 > A judaizmus **Aszmodeus** ( a Talmudban `ʼšmdʼy`, Tóbit könyvében `asmodios`) az avesztai `aeshmadaeva` szóból származik. A grúz nyelv ördög szava – `eshmaki` – szintén az `aeshmadaeva` szóból származik.  
 
 Ami a szóvégi g és másutt d hang megjelenését illeti, nyilván a közös az lehet bennük, hogy a kiinduló szó gy hangos. Igaz, [[C/Csomag\|csomag]] címnél is előjött perzsa rokon szó, de d-vel a végén.  
+
+A szanszkrit `ashmayug` = kőkor jelentésű szó false barát.  
 
 [[D/Drug\|Drug]] címnél is előjött egy másik parszi szó, mely hasonló értelmű: [[D/Druj\|druj]]. Ezen nevet [[T/Trója\|Trója]] nevéhez hasonlítottam, mely tündér/nimfa/szajha mellékértelme visszavisz a fentebb említett danaidák ötvenes számához és a téridőbeli sötét oldalhoz, mely végül is `druj` megállapított hazugság jelentését is adja (a hazugság a sötét oldalon állás velejárója).  
 Arról, hogy ki a hazugok, Robert Graves írja a megvádolt krétaiak kapcsán is:  
