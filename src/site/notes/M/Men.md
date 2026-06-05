@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Men/","title":"Men","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-09-28T19:59","updated":"2026-05-21T04:56"}
+{"dg-publish":true,"permalink":"/M/Men/","title":"Men","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-09-28T19:59","updated":"2026-06-05T20:51"}
 ---
 
 
@@ -89,7 +89,7 @@ Az általa még felhozott [[M/Mennyi\|mennyi]] szó is ugyanúgy a mennybeli csi
 
 Fentebb már szóba jött a [[M/MUN\|MUN]], mely munka szavunk alkotója és a [[M/Munka\|munka]] az a szó, mely a [[K/Kozmogónia és kozmológia\|kozmogónia és kozmológia]] fogalmai mögött egyaránt áll: munka a szülés/születés és a körforgás fenntartása ([[H/Hamlet malma\|Hamlet malma]] képzet).  
 Igen érdekes, hogy a maja nyelvben is megtaláljuk a párhuzamokat. A Bakos Attila A Duna Evangéliuma című könyvének 167-168. oldalán említett mayapáni Mehen vagy Mahan (az első teremtmény, minden létező ősének képzete, aki kékre festett kozmikus tojásban trónolt) neve [[M/Mén\|mén]] és [[M/Man\|man]] mellett `men` = menny lehet, de figyeljük meg, hogy a [[M/Mony\|móny]] = tojás értelme is innen ered, men fogalmából.  
-A Mehen/Mahan (mely utóbbi [[M/Magan\|Magan]] (Bakos Attilánál másképpen Maan) nevét is idézi) nyilván olyan, az [[A/Ajakhangok a szó közepén\|ajakhangok a szó közepén]] címnél is taglalt széthúzásról árulkodnak, mint más esetekben (hogy lesz Úrból Uhor és Ugor).  
+A Mehen/Mahan (mely utóbbi [[M/Magan\|Magan]] (Bakos Attilánál másképpen Maan) nevét is idézi) nyilván olyan, a [[H/Hiátustöltő hangok#Hiátuspótlás a szó közepén\|hiátuspótlás a szó közepén]] címnél is taglalt széthúzásról árulkodnak, mint más esetekben (hogy lesz Úrból Uhor és Ugor).  
 
 A menny-mony összefüggésének párhuzamát látjuk a [[K/Kuk\|kuk]] (ég kékje/sötétje) és a [[C/Coco\|coco]] címnél is taglalt magyar tájias `kokó`, `kuku` szavakban.  
 [[K/Kuk#Kuk és kok(ó)/kuku (tojás)\|Kuk és kok(ó)/kuku (tojás)]] cím/alcímnél volt szó arról, hogy a tojás az eget szimbolizálja. Melyhez annyit tehetünk hozzá, hogy a felső [[H/Héj\|héj]]át látjuk mindig (mint [[C/Csuda\|csuda]] címnél láttuk az égboltot) és a teremtéstörténetek tojása is ég-metafora.  
