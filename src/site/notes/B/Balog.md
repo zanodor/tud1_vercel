@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-10-23T20:07","updated":"2026-05-29T22:42"}
+{"dg-publish":true,"permalink":"/B/Balog/","title":"Balog","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-10-23T20:07","updated":"2026-06-05T20:51"}
 ---
 
 
@@ -12,7 +12,7 @@
 Még meggyőzőbben másutt:  
 > Mi más tehát ezen [[P/Pales\|Pales]] istenség mint a palócok, azaz pelazgok, Pál, Bál-ata vagy Balisa ([[B/Balázs\|Balázs]], Blasius) tűz- és napistensége, akit Palesztinában Bál, Bél néven neveztek.  
 
-Magyar Adorján A lelkiismeret aranytükre című könyvének első lapján szereplő adata szerint a jászok [[J/Jász\|jász]], Jázon vagy Jázzú neveken is nevezték a Napistent. Ugyanakkor [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél is szóltunk arról, hogy nyilas voltuk miatt (is) ugyanazon néven nevezhető Nap és Orion, ahogy a besenyő Nap és Orion Pater, Peter, Beszer, [[V/Vezér\|vezér]] neveken osztoznak.  
+Magyar Adorján A lelkiismeret aranytükre című könyvének első lapján szereplő adata szerint a jászok [[J/Jász\|Jász]], Jázon vagy Jázzú neveken is nevezték a Napistent. Ugyanakkor [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél is szóltunk arról, hogy nyilas voltuk miatt (is) ugyanazon néven nevezhető Nap és Orion, ahogy a besenyő Nap és Orion Pater, Peter, Beszer, [[V/Vezér\|Vezér]] neveken osztoznak.  
 Pater, mint Bot-Úr lényegében ugyanazt a (profánnak nevezhető) jelentést viszi, mint Nimrud neve. Viszont ahogy [[B/Balta\|balta]] és [[P/Pálca\|pálca]] címnél is láttuk, az imént említett palóc Napisten Balota a névadó. Azaz hasonló név megjelenhet Orion neveként is. Van ilyen? Igen, Balog.  
 
 #### Péterfai János...
