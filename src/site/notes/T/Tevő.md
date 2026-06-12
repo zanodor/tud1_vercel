@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tevő/","title":"Tevő","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-01T10:28","updated":"2026-05-21T05:05"}
+{"dg-publish":true,"permalink":"/T/Tevő/","title":"Tevő","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-01T10:28","updated":"2026-06-12T22:45"}
 ---
 
 
+<!--section: 1-->
 # Tevő
 
+<!--section: 1.1-->
 Sokan [[I/Isten\|Isten]] szavunkat Ős-Tevő formában elemzik/értelmezik. Ez egy kicsit elrugaszkodónak tetszik az Is-Ten alakhoz képest, de ha figyelembe vesszük a [[D/Dév\|dév]]/[[D/Déva\|Déva]] = istent jelentő nevekhez való hasonlóságát Tevő szavunknak és a [[T/Téved\|téved]]/[[T/Tévely\|tévely]] szavakkal való hasonlóságát, ki lehet mondani, hogy a [[T/Teremtő\|Teremtő]] egyik régi neve lehetett.  
 
 Az [ezen](https://qr.ae/pGSNml) Quora válaszban taglalt a [[G/God\|God]] név eredete mellett [[D/Devil\|devil]] eredetét vizsgálom. Leginkább ami itt érdekes, az az a rész, ahol a [[D/Dévák és Aszúrák\|Dévák és Aszúrák]] közti harc első tagjának, Dév/Div-nek ind és perzsa jelentéseit/különbségeit vizsgálva rámutatok a lehetséges félreértést okozó tényre, miszerint **tevő** szavunk hasonló alakisága okozta, hogy az egyik tábor megtartotta az egyik jelentést, a másik nem:  
@@ -56,6 +58,15 @@ Az [ezen](https://qr.ae/pGSNml) Quora válaszban taglalt a [[G/God\|God]] név e
 
 Lehetett volna még a [[D/Dév\|dév]] címnél taglalt finnségi és más nyelvekből való szavakat is hozni (finn `taivas` és észt `taevas` = ég, menny, japán `taiyou` = Nap, madagaszkári maore comorian nyelvű `djouwa` = Nap).  
 
+<!--section: 2-->
+## Tevő (teremtő) idegen nyelvekben
+
+<!--section: 2.1-->
+Arról, hogy a görög `theos` = isten szót egy [[T/Tesz\|tesz]] jelentésű igére vezetik vissza, már volt szó másutt.  
+
+Úgy tűnik, hogy a  PIE [dʰeh₁-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/d%CA%B0eh%E2%82%81-) gyökre visszavezetett szanszkrit `धा` (`dhā`) = tesz mintha a PIE [deh₃-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/deh%E2%82%83-) = adni gyökére is ütne, tehát a hímségi `ad` szavunk alkotóinak (a-d) [[H/Hangátvetés\|metatézis]]e (d-a) könnyen a tesz/tev gyökeink hatására jöhetett létre. Innen képzettnek vehető a szanszkrit `धातृ` (`dhātṛ́`) = tevő, teremtő, ami az avesztában is `dātar`.  
+
+<!--section: 3-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
