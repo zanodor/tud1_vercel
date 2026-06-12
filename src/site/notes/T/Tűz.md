@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2026-06-05T20:50"}
+{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2026-06-12T22:44"}
 ---
 
 
+<!--section: 1-->
 # Tűz
 
+<!--section: 2-->
 #### Péterfai János írja:
 
+<!--section: 2.1-->
 > [[T/TU\|TU]] tehát a Nap. Ezért a Tu-Su a Nap-Keze, a Tu-Zu a Nap-Tudása. Aki képes volt Tüzet gyújtani, az ismerte a Nap-Keze vagy a Nap-Tudása eljárást. Néha arra gondolhatunk, hogy a magyar szavak összeállása messze a Homo sapiens előtti korokban történt.  
 > \[...\]  
 > A Thus a Tűz megfelelője, írjuk több alakban is, mint `Tüsző`, Thysz, Tusa, stb.  
@@ -47,7 +50,7 @@ Azt is láttuk, hogy nem a judaizmussal indult meg az istennő szerepkör kiszor
 Ez utóbbiakat illetően, [[H/Hiátustöltő hangok\|hiátustöltő hangok]] címnél írottak alapján ugyanis nem is annyira tevő és tevés szavainkról lenne ezek szerint szó, mint újfent a Tejútanya tündér ([[D/Dév\|dév]] > gyevuska is ezt mutatja), delnő és banya (ez a [[D/Devil\|devil]] fogalommal párosul) aspekusainak neveiről, hisz minden róla szól: a Napot (mely feltámad és mindig [[G/Győz\|győz]]: Jézus, dyaus és Zeusz nevek közül az első kettő nagyon is győz alakú) szülő [[S/Szűz\|szűz]] (ez ismét egy ilyen Zeuszos név) Tejútanyáról, akinek neve Teut(an), Teus (Tejes, Tej-Us, Tej-Ős, Isten Ős) formákban is értelmezhető. Ezért látjuk [[D/Dame\|dame]] és [[D/Dhanu\|Dhanu]] címnél is előjönni a Tejútanya Ten vagy Tehén nevét is.  
 Ezen a ponton beszélni kell arról is, hogy [[T/Tehén\|tehén]] a [[T/TEN\|TEN]] olyanképpeni széthúzása, mint ahogy Kanból Cahen, [[K/Kohén\|Kohén]] lett? A Tehén eredeti olvasata Tej-Én ugye. Viszont a magyar szavakat többféle módon lehet magyarázni.  
 
-![assets/Tűz_image1.png](/img/user/T/assets/T%C5%B1z_image1.png)  
+![assets/Tűz_image1.png|fix_light|840](/img/user/T/assets/T%C5%B1z_image1.png)  
 Azaz valóban, bármennyire hímséghez is kötött a tűz, kapcsolódik a nőhöz is (jó példa még [[I/Istár\|Istár]] \[Is-Tár Tűz-Csillag\] neve is). Falvay Károly Nagyboldogasszony című könyvének 138. oldalától taglalja a tűz és víz fogalmait. Széljegyzetben találtam írni (miután Falvay Károly azt írja, hogy a tűz "egyértelműen" női szimbólum \[is\]):  
 Mindenütt hímségi volt a tűz. Persze a házitűznek őrzője Hesztia/Veszta szűz. A [[S/Szűz\|szűz]] és tűz is alaki változatok. Falvay könyvében is szerepel, a szentiváni ünnepségen is mindenütt csak a leány ugrik át a tűz fölött, akkor is, amikor az ő neve hangzik föl, akkor is, amikor a fiúé.  
 Egyébként hasonló esettel találkoztunk [[F/Fény\|fény]] kapcsán, hiszen a legfőbb fényforrás, a hímségi Nap mellett az éjszaka látható nőiségi Hold is égi világító, de főképpen a Tejút fehéresen fénylő sávja is nőiség.  
@@ -69,8 +72,10 @@ Amikor tehát Péterfai János azt írja, hogy a zend mythos öt elemet állapí
 A Népi kultúra, népi társadalmon című könyv 154. oldalán vajnah (csecsen-ingus) adatok szerepelnek Falvay Károly tollából. Ide illenek az alábbiak belőle:  
 > A tűz vajnah elnevezése `t'ci` (sziszegőn), mely egyaránt jelent tüzet, vért és valakinek a nevét. A feleség neve `t'cinán'`, ami a tűz anyját jelenti.
 
+<!--section: 3-->
 #### Dr. Gyárfás Ágnes a Fordulat – Hitvilág, mítoszok, legendák...
 
+<!--section: 3.1-->
 ...című PDF 53. oldalától szereplő Lugal Geme nagy Urasszony ki Mada című írásában is hasonlóan szól az istenasszonyról, kiemelve tüzes és vizes szerepét:  
 > A fenti képjel együttes megtalálható mindazon pecséthengereken, amelyek Orionról és családjáról szólnak. Ugyanis a Szíriusz sorsa annyira összefonódott Orionéval, hogy valamilyen módon mindig utalás történik rá is. Ezért hisszük, hogy őseink fényhite e kettős minőség eredménye, s a fényhit úgy fonódik össze a vízzel, mint ősanyaggal, ahogy őseink reánk hagyták: a fény természete a tükröződés, és ott képes visszatükröződni az égből áradó fény, ahol a víz felszínén megtalálja ehhez a tükörfelületet. Így érvényesül az őselv, az őstudás, Hermész Triszmegisztosz második mondása, hogy ami odafönn létezik, az van idelenn és idelenn létrejött módosulások, hatnak a fenti világra.  
 > A Nagyboldogasszonyban tehát, a fényből és vízből létesült Világmindenség első megtestesülését láttak őseink, aki a teremtett világgal együtt mini-pillanatról-mikropillanatra szakadatlanul újjászületik, vagyis maga a tapasztalható valóság lelki szimbóluma.  
@@ -97,12 +102,16 @@ Fáy Elek A magyarok őshona c. könyvének 198, oldalán és Jankovics Marcell 
 
 [[T/Tűztisztelet\|Tűztisztelet]]nél is szerepelt:  
 
+<!--section: 4-->
 #### Várkonyi Nándor írja:
 
+<!--section: 4.1-->
 > A tűz azért hasonló a [[T/Tiszta\|tiszta]] isteni lényeghez, mert maga is [[A/Anyag\|anyag]]talan, s mindent megtisztít, anyagtalanná változtat, amire rászáll.  
 
+<!--section: 5-->
 #### Jankovics Marcell Ahol a madár se jár...
 
+<!--section: 5.1-->
 ...című könyvében írja:  
 > A tűz tisztító, gyógyító szerepéről alkotott elképzelések szerencsére nem égnek olyan erősen a jámbor lelkekben – rendszerint megelégszenek füstöléssel (tömjénezéssel), olyan víz kortyolgatásával, amelybe előzőleg izzó parazsat fojtottak bele – és tényleges alkalmazása lényegében megszűnt az utolsó boszorkányégető máglyák elhamvadásával. (A [[H/Holocaust\|Holocaust]] ~~milliónyi~~ áldozata nem ilyen céllal gyújtott tűzben égett el.) Ismeretes, hogy az eretnek- és boszorkányégetésnek mint kivégzési módnak egy teológiai indoka az volt, hogy a "bűnös" így tisztuljon meg, és ne kelljen "odaát" a kárhozat örök tüzén perzselődnie.  
 > ...  
@@ -130,63 +139,83 @@ Ha már van valamilyen tűzhelyünk, még ha az valami egészen egyszerű is, de
 4\. Biztosítsuk, hogy a tűzhely akkor se legyen kihalt, amikor nem ég benne tűz. A tűzhely tűz nélkül – tele hamuval és sötétséggel – taszítja az odaülőket, hacsak a tűzhely felé fordított székből a tűz kihunytával is nem látszik valami egyéb – egy ablak, kilátás vagy valamiféle tevékenység. A tűzhely köré rakott székek csak így formálnak olyan helyet, amely mind a tűz lobogásakor, mind anélkül stabil élő ív.  
 Tehát alakítsunk ki tűzhelyet egy közös helyiségben, talán a konyhában, ahol természetes súlypontot biztosít a beszélgetésekhez, az álmodozáshoz és a töprengéshez. Úgy válasszuk meg a helyét, hogy a társas tereket és helyiségeket maga összekapcsolja körül – mindegyikre sugározva ragyogásából.  
 
+<!--section: 6-->
 #### Jankovics Marcell Jelkép-kalendárium...
 
+<!--section: 6.1-->
 ...című könyvének 338. oldalán írja:  
 > A sötét és hideg télben a világló meleg tűzhely az emberi világ közepe. A télközép hiedelemvilágának centrumában is a tűzhely világít. A görög hesztia "házi tűzhelyet" jelent, s ez az alkalmatosság sokáig nemcsak az étel elkészítésére és a lakhely fűtésére szolgált, hanem házioltár is volt, az isteneknek, ősöknek bemutatandó áldozatok helye, amely körül ünnep- és hétköznap egybegyűlt a család. Istenektől lopott tüzéért aggódó Prométheusz-ősünk örökségeként élt a közelmúltig az a hiedelem, hogy **a házi tűzhely lángjának nem volt szabad kialudnia. Még Szent István is fölment minden családból egy személyt a vasárnapi misehallgatás kötelezettsége alól, hogy legyen valaki, aki őrzi otthon a tüzet**. Régente, ha egy családtag új otthont alapított, magával vitt egy zsarátnokot, mely a család kontinuitását is jelezte. Ha a tűz kialudt, vagy hiedelmi okokból újították meg, az új tűz gyújtása mindig szertartásos körülmények között ment végbe, valamelyik fordulatünnepen, olykor évente több alkalommal is. A tüzes népszokások, a tűz megújításának gyakorlata ugyanúgy végigkísérik a napjárás fordulópontjait, mint a zöldágas és vizes hagyományok. A napjáráshoz igazodnak, hiszen a Nap tüzének (és a föld termékenységének) mágikus megújítása a céljuk. Nagyobb közösségek a közös ünnepek és áldozatok színhelyén szintén őrizték a szent lángot (ez lett később a keresztény templomok örök-mécsese), melyet a görögöknél Hesztia, a rómaiaknál [[V/Vesta\|Vesta]] személyesített meg.  
 
 Másutt, karácsonyról szóló fejezetében:  
 > Eleink a sötétség, gonoszság, kísértetjárás, bűn, káosz leghatásosabb ellenszerének a világosságot tartották (nyugodt lélekkel mondhatjuk, már azt megelőzően is, hogy a tűzcsinálás módját felfedezték volna). Nem csoda hát, ha a tűz kiemelt szerepet kap a napfordulói, karácsonyi rítusokban. Mondhatni, a tűz mindenféle formája a gonosz – hétköznapi értelemben a hideg és a sötétség – elűzésének valóságos és mágikus eszköze volt. Ezért gyújtottak karácsonyi gyertyát, raktak olyan tüzet, melynek nem volt szabad a "tizönkét napok" során kialudnia, és éltek mindenféle beszédes praktikával, mint például a vasi falvak legényei, akik az év során összegyűjtött öreg nyírfasöprűkből fáklyákat készítettek, és azokkal világítottak az ostordurrogtató, lövöldöző pásztoroknak éjféli misére menet közben. A nyírfaseprű közmondásosan boszorkányeszköz – emellett a karácsonnyal kezdődő holdév első hónapjának a fája –, a lángoló seprűkkel azonban nemcsak ellenük hadonásztak, hanem hogy kisöpörjék a faluból a hideget s a sötétséget. A tápéi gazda a karácsonyi gyertyával, amely egész éjjel égett, még az istállóba, az ólakba is kiment az éjféli mise után, hogy bevilágítva azok sötét zugait is elűzze az esetleg ott ólálkodó károkozót.  
 
+<!--section: 7-->
 #### Magyar Adorján írja:
 
+<!--section: 7.1-->
 > Télen gyakran, de különösen Karácson estéjén, szokás volt fenyőgalyacskát gyertyalángon pörkölve, a szobában ide-oda járva, így a kellemes illatot terjesztgetni. Mindez tehát bizonyára az ősi [[T/Tűztisztelet\|tűztisztelet]]i szertartások maradványa, amelyeknél avar törzseink szárított borókabogyókat, boróka gyantát és gallyat égettek, pörköltek, és füstöltek ezekkel az égő szent tűzön.  
 
+<!--section: 8-->
 #### Jankovics Marcell írja:
 
+<!--section: 8.1-->
 > A karácsonyi tűzgyújtás sajátos, nálunk kevéssé ismert, de a franciáknál, angoloknál, délszlávoknál ma is élő, ősi múltra visszatekintő szokása a [[T/Tuskó\|tuskó]]égetés. Szent Iván-napi ellentétpárjával szemben, a téli napfordulókor nem a szabad ég alatt raktak tüzet, hanem a ház belsejében, zárt családi körben, illően Hesztiához, a hónap úrnőjéhez. A rendszerint örökzöld fa tuskójának (francia `bûche de Noël`, angol `Yule log`, szerb `badnyak`\] karácsonyesti meggyújtása a feltételezések szerint Skandináviából ered. A kereszténység előtti időkben az év végi tuskóégetés az óévben elkövetett bűnök, bekövetkezett károk jelképes megsemmisítése, egyben az élet középpontjának, a tűzhely újragyújtásának szertartása volt. A [[Y/Yule\|Yule]] hamuját szétszórták a házban, az ólakban, a magtárban és a családi földeken, mert óvó, szerencsét hozó, bajelhárító (elsősorban tűz- és villámelhárító) hatást tulajdonítottak neki, egy darabkáját pedig eltették, mielőtt teljesen elégett volna, hogy azzal gyújtsanak be, ha valamikor a tűz netán kialudna. (A Yule a latin `iocus` szóval közös tőről fakad \[tévedés!\]. Ez utóbbi annyit tesz, "vidámság, enyelgés, tréfa", átvitt értelemben "a vidámság ideje". Yule, Yuletide az angolban ma is a karácsony, karácsonyi időszak világias elnevezése.)  
 
+<!--section: 9-->
 #### Molnár V. József Bak – Karácsony hava, Boldogasszony hava...
 
-...című Ősi Gyökér 2006/4. sz. megjelenő cikkében is írja:  
-> A tüzet \[Szenteste után másnap\] reggelig táplálták, némely vidéken öreg fa tuskóját tették rá, a házi tűz, az ős ilyenkor panaszolta el, ha évközben szemetet tettek bele, vagy nem kapta meg az ételek "javát". (Régebben étkezés előtt ételből, italból adtak a tűznek, a régi-régi áldozat emléke maradt fenn e szokásban.)  
+<!--section: 9.1-->
+...című, az Ősi Gyökér 2006/4. sz. megjelenő cikkében is írja:  
+> A tüzet \[Szenteste után másnap\] reggelig táplálták, némely vidéken öreg fa tuskóját tették rá, a házi tűz, az ős ilyenkor panaszolta el, ha évközben szemetet tettek bele, vagy nem kapta meg az ételek "javát". (Régebben étkezés előtt ételből, italból adtak a tűznek, a régi-régi áldozat emléke maradt fenn e szokásban.) [Lásd 6.o.](zotero://open-pdf/library/items/AZBTH9SX?page=6&annotation=9HYS9Z7P)
 
 Ha már a karácsonynál tartunk, ...
 
+<!--section: 10-->
 #### Grandpierre Atilla Karácsony eredete és jelentősége...
 
-...című [letöltésre elérhetővé tett](https://mega.nz/file/pzNzhKJB#KXz_bvQtrp_QYzmqFqWwIpf4TSn31z4Fn4bUVLJ8jpA) cikkéből [[P/Parázs\|parázs]] és [[L/Ló\|ló]] (fehér ló alcímnél) címnél írottak után ide tehetőek az alábbiak tűz, mint érzés és gerjesztése kapcsán (a tűz nemcsak a Nap tüze persze, [[A/ATA\|ATA]] címnél írottak alapján sem):  
+<!--section: 10.1-->
+...című [letöltésre elérhetővé tett](https://mega.nz/file/pzNzhKJB#KXz_bvQtrp_QYzmqFqWwIpf4TSn31z4Fn4bUVLJ8jpA) cikkéből [[P/Parázs\|parázs]] és [[L/Ló#Ló – Fehér ló\|ló]] címnél írottak után ide tehetőek az alábbiak tűz, mint érzés és gerjesztése kapcsán (a tűz nemcsak a Nap tüze persze, [[A/ATA\|ATA]] címnél írottak alapján sem):  
 > A napfogyatkozásokat megfigyelő ember számára a Nap jelentette az élet központját, forrását és fenntartóját, amihez érzéseiben rendkívül szorosan kötődött, számára a Nap fogyatkozása a Nap elgyengülésének képzetét vetette fel, amit egy élet-szerető ember nem nézhetett tétlenül. Mit tehet ilyenkor azért az ember, hogy a Nap minél előbb visszanyerje teljes erejét? Az ősi magyarság kultúrájában a tűz és a lélek rokontermészetűek \[etimon-szinten azonos alapszavakból is indulnak ki\], mindketten lángolók, tüzesek, érzékenyek. A lélek maga az érzésvilág, és az érzésekről tudjuk, hogy képesek egymást kigyújtani. Minden ember tudja, hogy milyen érzések gyúlnak ki például egy anya és gyermeke, vagy két szerelmes között. Az egyik lélekben kigyúló érzés kiváltja a másik, rokon lélekben a hasonló érzés kigyulladását. A kölcsönösség természeti törvény az együttérzést ápoló népek kultúrájában. Kisgyermekkorban, amíg a mesterséges társadalom pusztító hatása még csak kevésbé érvényesül, az egyik gyermek sírása, nevetése szinte törvényszerűen magával vonja a másik gyermek együttérzését, sírását, nevetését. Tény, hogy még a legelvetemültebb bűnözőkben is fiziológiailag kimutatható az együttérzés, az érzéseket kísérő bőrellenállás-változások mérésével. Erőszakos cselekmények elkövetése vagy akárcsak közvetett átélése során az érzésvilág hullámzását jól mérhető fiziológiai jelenségek kísérik (a bőr elektromos vezetőképességének változása stb.), amelyek az együttérzés fellépését mutatják (Arno Gruen, A normalitás tébolya, 2003, 77-79. oldal).  
 > Abban az ősi kultúrában, amelynek együttérzését a Természettel még nem pusztította az embertelenség felé fejlődő társadalom, az együttérzés még a társadalmi valóságban is működő természeti törvény volt, amelyik rendszerint a gyakorlati életben is érvényre jutott. A mese is ezt tanúsítja: jótett helyébe jót várj. Nemcsak jóval kell viszonozni a jót, de jótettel kell kezdeni, és ez a Természet törvényei alapján ki fogja váltani a jótett viszonzását. A kölcsönösség természeti törvény volta jut kifejezésre \[a [[H/Héraklész\|Héraklész]] nevével is azonosított\] [[E/Erkölcs\|erkölcs]] szavunkban is: er-kölcs szavunk valószínűleg az érzés-kölcsönösség eszméjén, az emberi együttérzésen alapszik.  
 > Világos, hogy ha egy anya szereti gyermekét és ki is fejezi szeretetét gyermeke iránt, azt a gyermek megérzi, és ez szeretetének növekedésére vezet. Ha az érzés tűz, akkor az anyai szeretet-tűz növekedése a gyermeki szeretet-tűz növekedését váltja ki. Ez az indukció, a gerjesztés törvénye, a kölcsönös növekedés törvénye. És viszont, hiszen az együttérzés kölcsönös érzés. A Természetben általános a kölcsönhatás törvénye. Nincs hatás ellenhatás nélkül. És ha a Természet nem csupán élettelen anyaghalmaz, ahogy azt modern, eldurvult és eltompult, szemellenzős látásmód sugallja, hanem élettel, érzéssel áthatott, ahogy ezt az ősi, természetes nemességét őrző ember érzékelte, akkor a kölcsönhatás törvénye a Természet mindhárom létkörében: az érzésvilágban, a gondolatvilágban és az anyagi világban egyaránt fennáll.  
 - Folytatást lásd [[A/Analógiás mágia\|analógiás mágia]].  
 
+<!--section: 11-->
 #### Jankovics Marcell Ahol a madár se jár...
 
+<!--section: 11.1-->
 ...című könyvében írja:  
 > A hagyomány szerint [[P/Prométheusz\|Prométheusz]] botba rejtve lopta le a Nap tüzét az égből (a metaforának a fapálcával való ősi tűzcsiholási mód az alapja). Mexikóban Kecálkoátl Esthajnalcsillag-istent és éjszakai párját, Teszkatlipokát "Egy Nád"-nak és "Két Nád"-nak nevezték annak okán, hogy a tűz bennük van.  
 > **A tűz tárolására, szállítására primitív körülmények között az üreges nád kiválóan alkalmas. Könnyen lángra kapó bele, mely a frissen csiholt tüzet is táplálta, a két végén bedugaszolt náddarab belsejében levegő híján parázslik csak**.  
 - Lásd még [[T/Tűzlopás\|tűzlopás]].
 
+<!--section: 12-->
 ## Sötét tűz
 
+<!--section: 12.1-->
 Ezen furcsa kifejezést ...
 
+<!--section: 13-->
 #### Oláh Imre A magyar lélekhit keleti elemei...
 
+<!--section: 13.1-->
 ...című Ősi Gyökér 2004/3. számában megjelent cikkében említi:  
 > Egy másik felfogás alapján a [[S/Szentháromság\|Szentháromság]]: Az Atya-Anya, kevésbé allegorikus szempontból, a Szellem és az Állag \[állag = állat\], amelynek eredője, úgymond, maga a Világegyetem: a Fiú. Egy további keleti elképzelésben: a "sötétség" az Atya-Anya, a Világosság a fiuk. Ez persze vehető úgy is, hogy ez a Világosság az – amely Szent János szerint – a sötétségben fénylik. Esetleg lehet Horatius "Sötét tüze" is. (A Kabalában is szó esik a "Fekete Tűzről." Horatiusnak ezeket a szavait: nigrorumque memor, dum licet ignum, Vas István így fordította le: Emlékezz a sötét tűzre..)  
 
+<!--section: 14-->
 ## Tűz szavunk idegen nyelvekben
 
-A proto-indoeurópai füst és más jelentésű [dʰewh₂-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/dʰewh₂-) gyök éppen mi szavunkat fedi.  
+<!--section: 14.1-->
+A proto-indoeurópai füst és más jelentésű [dʰewh₂-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/dʰewh₂-) gyök éppen mi szavunkat fedi.
+{ #260521}
+
 
 Tűz szavunk megjelenik idegen nyelvekben is:  
 > A görög mithologiában `dis` = nap, ég királya, miről Creuczer bőven értekezett, a Zeus, `deus`, `theos` formák csak módosítások mint Dorn, Schöll, Emerich Dávid elő adják, Heraclitus és Demokritus is tüzet értettek alatta, az genericum nomen volt kezdetben Creuczer szerint. ([Lásd 51. old.](zotero://open-pdf/library/items/DFI47XPY?page=51&annotation=JFX56VHM))  
 > [[H/Hérodotosz\|Herodotus]] is a napot Homér nyomába sokszor `theos`-nak nevezi. IL 24. VIII. 37. I. 216. ([Lásd 51. old.](zotero://open-pdf/library/items/DFI47XPY?page=51&annotation=LEZ7MRNL))  
 - Kállay Ferenc tollából lásd még lejjebb.
 
-A magam részéről hosszas elmélkedés után ki lehet jelenteni, hogy a görög-latin `theos`/[[D/Deus\|deus]] = isten (hivatalosan a nyelvészet a görög – láss csodát – [[T/Tesz\|tesz]] jelentésű gyökre vezetik vissza), úgy ahogy az angol [[D/Deuce\|deuce]] szó is, tűz szavunkból kell eredjen (erre a felismerésre Ipolyi Arnold Magyar mythologia című könyvének 320. oldalán található *`teuz`* = tűz írásmód ébresztett rá igazán), míg az IE-rokonnak gondolt div/dév/déva nevek eredete lehet [[T/Tevő\|tevő]] vagy [[D/Dió\|dió]] irányában keresendő, de nyilván van magyar logikai átfedés, hiszen a tűz elem hímségi, és a hím dolga a tevés, teremtés.  
+A görög-latin `theos`/[[D/Deus\|deus]] = isten (hivatalosan a nyelvészet a görög szót – láss csodát – [[T/Tesz\|tesz]] jelentésű gyökre vezeti vissza és a latin szót egy világosságot jelentő gyökre), úgy ahogy az angol [[D/Deuce\|deuce]] szó is, tűz szavunkból kell eredjen (erre a felismerésre Ipolyi Arnold Magyar mythologia című könyvének 320. oldalán található *`teuz`* = tűz írásmód ébresztett rá igazán), míg az IE-rokonnak gondolt div/dév/déva nevek eredete lehet [[T/Tevő\|tevő]] vagy [[D/Dió\|dió]] irányában keresendő, de nyilván van magyar logikai átfedés, hiszen a tűz elem hímségi, és a hím dolga a tevés, teremtés.  
 
 Az isteneknél maradva a kelta-római túlvilágisten (eredetileg ez is nő) [[D/Dis\|Dis]] is tűz szavunkkal azonosítható. Lásd bővebben [[T/Tiszafa\|tiszafa]].  
 A fentebb már taglalt kalasok [[D/Dizane\|Dizane]] istennőjének nevében is Diz ugyanígy értelmezendő.  
@@ -194,8 +223,10 @@ Istennőknél maradva a csecsen/ingus [[T/Tusoli\|Tusoli]] istenasszony nevében
 
 A Yaroslav Kesler The Perception of Open-Ended Time című cikkében talált perzsa `tuz` = faháncs, fakéreg (wood bast) szó hasonló elven ered tűz szavunk nyomán, mint ahogy a [[W/Wood\|wood]] címnél taglalt proto-uto-azték \*kut = tűzifa egyezik más nyelv tűz jelentésű szavával.  
 
+<!--section: 15-->
 #### Kállay Ferenc A pogány magyarok vallása...
 
+<!--section: 15.1-->
 ...című könyvében írja:
 > A persa mythologia szerint Feridun (ez a görög Perseus = persz, perzsel) első tűz templomot építtetett **Tus** városban Khorasánban, vagyis a nap földén, melyet Fraser utazó Toosnak, Abulfeda Tuznak, Hethum chán a XIII. században Thoasnak \[ír\]. ([Lásd 50. old.](zotero://open-pdf/library/items/DFI47XPY?page=50&annotation=89YZDH6P))  
 >
@@ -215,7 +246,7 @@ Az angol `toss` = lök ("tosz") ige is idetartozik.
 
 Kállay Ferenc A pogány magyarok vallása című könyvének [50. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=50&annotation=EU76QMYW) írja, hogy finnül `tuuz` = tűz. Ez azért meglepő, mert ma már tudtommal csak `tuli` szót használnak tűz jelentéssel.  
 A görögben `thuein` = eléget, feláldoz, ahogy [[T/Thyme\|thyme]] szócikknél előjött, továbbá `thuos` = áldozat (nyilván inkább: áldozati tűz).  
-A görög nyugatot jelentő `δύση` (düszi) szavának is lehet köze a tűzhöz. Tűz szavunknak látszik a török `düz` = (az égtájak figyelembevételekor kelethez passzoló jobb iránnyal fogalmilag rokon) egyenes és `düzmek` = dug, baszik (a másik szava rá a [[S/Sex\|sex]] címnél említett `szikmek`).  
+A görög nyugatot jelentő `δύση` (düszi) szavának is lehet köze a tűzhöz. `Tűz` szavunknak látszik a török `düz` = (az égtájak figyelembevételekor kelethez passzoló jobb iránnyal fogalmilag rokon) egyenes és `düzmek` = dug, baszik (a másik szava rá a [[S/Sex\|sex]] címnél említett `szikmek`).  
 
 A jobb iránnyal ellentétes, éppen bal (szerencsétlen) értelmű a görög, nyilván szintén tűz szavunkból eredő (de talán judeo-keresztény hatásra ellentétes jelentésűvé váló) `düsz`, melyről [[D/Disaster\|disaster]] címnél és [[D/Dis- prefixum\|dis- prefixum]]nál is volt szó. Persze mivel a zsidók porondra kerülése előtti is lehet a szó, inkább arra lehet gondolni, hogy a nyugat = halál mellékértelem hozta magával inkább a bal jelentést (lásd még [[B/Bal és jobb\|bal és jobb]]).
 
@@ -237,11 +268,25 @@ Tűz szavunkat látszik rejteni a Robert Brown Jr. Primitive Constellations of t
 A türk nyelvek só jelentésű szavai nyilván nem véletlen `duz`, `tuz` alakúak.  
 Ami azért érdekes, mert a [[S/Sweet\|sweet]] – [[S/Süt\|süt]] analógiájára megtalált, [[D/Dulcet\|dulcet]] címnél is említett portugál `doce` = édes tűz szavunkból kell eredjen (a latin `dulcis` szóban [[L/L#L vendéghang\|l vendéghang]] van).  
 
+<!--section: 16-->
+### Takhsha
+
+<!--section: 16.1-->
+Felmerül itt egy másik érdekesség is. Nevezetesen a latin `taxus` = tiszafa görög `toxon` = íj és megállapított szkíta \*takhsha = íj kapcsolata.  
+Amikor a [[T/Texas\|Texas]] név eredete kapcsán megláttam a spanyol `tejo` = tiszafa szót, rögtön a Tejútra gondoltam, hiszen a Tejút faként is ismert.  
+Első gondolatom az volt, hogy takhsha eredete tej lehet, ugyanis a Tejút sávja két helyen metszi az ekliptikát és ott nyilazó csillagképek voltak.  
+> [!lasdmeg] &nbsp;
+> Annál is inkább, mert a hindu mitológiában a [[R/Rama\|Rama]] címnél említett Bharata Mandavival nemzett egyik fiának, Takshanak is ilyen neve van (a másik neve Pushkala). Mindkettejüknek (ahogy Arjunának is) ismert nyilazó tevékenységük.  
+
+Természetesen a tisza megint a tűz változata, azaz hogy most a tisza vagy tűz a kiinduló, nyilván utóbbi szavunk hamarabb létezett.  
+
+<!--section: 17-->
 ## Tűz jelentésű idegen szavak
 
+<!--section: 17.1-->
 A tűz jelentésű idegen nyelvű szavak közül az alábbi [[S/Szkíta\|szkíta]] és [[K/Kutya\|kutya]] címnél is szerepelt:  
 Megdöbbentő, de a kanadai bennszülött [[C/Cree\|cree]] indiánok [[A/Algonquian\|algonkin]] nyelvében `ishkuteu` = tűz[^3], mely Isz-Kutya, azaz mondhatni, szkíta értelmet visel. Mellékelve lásd írásukat.  
-![assets/Tűz_image2.png|fix_dark fix_light](/img/user/T/assets/T%C5%B1z_image2.png)  
+![assets/Tűz_image2.png|fix_dark fix_light|222](/img/user/T/assets/T%C5%B1z_image2.png)  
 A háromszög/gúla/hegy piktogramjuk is sokatmondó.  
 
 Ha már szkíta, a litván `didžioji` = nagy, hatalmas tűz szavunkból eredő lehet (de amikor először megláttam a szót, [ezen](https://lt.m.wikipedia.org/wiki/Didžioji_Orda) oldalon, akkor Szkítia arab Dzsiddija neve ötlött fel, és annak mentén a [[Z/Zsidó\|zsidó]] név).  
@@ -253,6 +298,7 @@ Az albán `zjarr` vélhetően [[S/Szár\|szár]] = fény(es), ragyogó szavunk. 
 A navajo indiánok nyelvében `kq` vagy `ku` a tűz (másutt, a proto-uto-azték `kut` szót láttuk), mely [[K/KU\|KU]] alap jelentésével passzol.  
 A macedón `ógan`, orosz `ogón` = tűz Óg-An felbontásban a Menny Szeme/Csillaga/Éke jelentésű, vagy inkább az ind és bengáli nyelvek `agni`, `ôgni`, `agun` = tűz jelentésű szavainak változata.  
 
+<!--section: 18-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
