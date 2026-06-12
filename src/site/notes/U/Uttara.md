@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Uttara/","title":"Uttara","tags":["Englishtexttranslated"],"created":"2023-10-17T08:05","updated":"2025-08-31T01:56"}
+{"dg-publish":true,"permalink":"/U/Uttara/","title":"Uttara","tags":["Englishtexttranslated"],"created":"2023-10-17T08:05","updated":"2026-06-12T22:45"}
 ---
 
 
@@ -35,8 +35,7 @@ Uttara szerepel nemcsak az [[U/Uttarayana\|Uttarayana]], hanem az Északi Hegy j
 
 > The Land of **Uttarakuru** is portrayed in the Rāmāyana (4.43) as a land on the northern ocean that is so far to the north that the sun and moon shed no light on it. It is undoubtedly this land that inspired Ptolemy's **Ottarakorra** (which he located in China), Pliny's **Attacori** (whom he placed near the Tocharians), and Megasthenes's Hyperboreans. There, according to both Indian and Greek sources, people lived for a thousand years in a land strewn with gold and precious stones, a land where the women were particularly affectionate.  
 > —  
-> **Uttarakuru** földjét a Rāmāyana (4.43) úgy ábrázolja, mint egy földet az északi óceánon, amely olyan messze van északon, hogy a nap és a hold nem vet rá fényt. Kétségtelenül ez a föld ihlette Ptolemaiosz **Ottarakorra**-ját (amelyet Kínában helyezett el), Plinius **Attacori**-ját (akit a tochariak közelébe helyezett) és Megaszthenész hyperboreusait. Ott az indiai és görög források szerint is ezer éven át éltek az emberek egy arannyal és drágakövekkel teleszórt földön, ahol a nők különösen gyengédek voltak.  { #a3md6e}
-
+> **Uttarakuru** földjét a Rāmāyana (4.43) úgy ábrázolja, mint egy földet az északi óceánon, amely olyan messze van északon, hogy a Nap és a Hold nem vet rá fényt. Kétségtelenül ez a föld ihlette Ptolemaiosz **Ottarakorra**-ját (amelyet Kínában helyezett el), Plinius **Attacori**-ját (akit a tokhárok közelébe helyezett) és Megaszthenész hyperboreusait. Ott az indiai és görög források szerint is ezer éven át éltek az emberek egy arannyal és drágakövekkel teleszórt földön, ahol a nők különösen gyengédek voltak.  
 
 Az indeknél Uttarakuru tulajdonképpen [[H/Hyperborea\|Hyperborea]] neve, ahol a [[K/KUR\|KUR]] szó utalhat a Világhegyre (Ut-Tar Kur-U: NapCsillag (Végtelen) Magas Hegye).  
 
