@@ -1,32 +1,39 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-31T06:45","updated":"2026-05-29T22:43"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-31T06:45","updated":"2026-06-12T22:44"}
 ---
 
 
+<!--section: 1-->
 # Barát
 
+<!--section: 2-->
 #### Péterfai János írja:
 
+<!--section: 2.1-->
 > Barát szavunk is kristálytiszta magyar szó. Jelentése Bar-Át, ahol a Bar a férfiakat, a Fekete Oroszlánokat jelenti, az Át pedig az Atya ősi alakja, továbbá Átfogó jelentése is van. Ezért a Bar-Át klasszikusan szép ősi magyar szóösszetétel, eredete valószínűleg tízezer évesnél sokkal régebbi. Abban az időben kizárólag magyarok éltek, utódaink, az indoeurópaiak, hámi-sémik, kaukázusiak és mások még nem léteztek.  
 > Az ind Bharata jelentése Bar-Atyák, illetve Barátok. Kétségtelenül magyar eredetű szóösszetételről van itt is szó. A [[M/Mahabharata\|Mahabharata]] eposz nevének első része, a Maha a magyar Maga "Nagy, Magas" szóból származik. Ugyan a szumer `Mah` is hasonló jelentésű, de ne a szumerból vezessük le ezt a szót, hanem a magyarból, amely népnévben is szerepel a Mag, ami Csillag, Nap jelentésű elsődlegesen. Bhar a Bar, Férfi neve, At az Ata, Atya neve, At-A pedig Atyák, vagyis az A a név végén többes számot jelöl.  
 > Mivel a Barátok papi rendeket is alkottak és barna ruhában jártak, ezért a Barát szó jelentésében a barna, fekete is szerepel, mind a mai napig. Arra gondolni, hogy a Barát szóban még a Fekete Oroszlán jelentése is felismerhető ezer évvel ezelőtt, igen merész elképzelés, de nem lehetetlen vállalkozás. Nem lehet tudni, hogy őseink ezer éve tudtak-e a Fekete Oroszlánról és annak Bar nevéről. Bizonyára nem.  
 
+<!--section: 3-->
 #### Oláh Imre A Nimrud hagyomány...
 
+<!--section: 3.1-->
 ...című tanulmányában írja:  
 > A Bharatá szó szintén mezopotámiai eredetre mutat. Az ős-khusita nyelvben gyakran előforduló ur, pur, bar jelentésével megegyezően a [[R/Rig Véda\|Rig Védá]]k is a napistent, [[A/Agni\|Ágni]]t hivják **Bhorotá**nak. (Ágni nevével azonos eredetű a tűz latin neve, az `ignis`.) Ebből is látszik, hogy az indiai Bharaták népe Nimród idősebbik fiától, a már \[másutt\] említett Sin-Magurtól örökölte a nevét.  
 > A Védák történelmi korát leíró Brahmalisták nevű szent irat Indiát a Bharatok földjének mondja, s a hivatalos hindu álláspont szerint ez az ős szaka-szkíta nép képezte a későbbi, az ún. árja invázió előtti India partvidéki és folyam-menti lakosságát. A szent hagyomány azt is feljegyzi, hogy a bharaták között szerepelt egy szabar nevű nép is. A későbbi idők folyamán ez India őstörténelmében komoly szerepet játszott Harjasavával, a khusik és [[A/Adzsem\|Adzsem]] királyával.  
 > A történelemelőtti Indiának ebben a korszakában a bharaták, vagyis a keleti szabirok földjén játszódik le a hatalmas terjedelmű indiai hősi eposznak: a [[M/Mahabharata\|Mahabharátá]]nak a cselekménye, a nagy Bharata birodalom története. Ennek legszebb része a védanta civilizáció szépirodalmi remekműve: a [[B/Bhagavad Gita\|Bhagavad Gita]], vagyis a Magasztos éneke. Ez az isteni sugallatú alkotás az indiai vallásbölcselet gyöngyszeme.  
 
-[[R/Rama\|Rama]] címnél volt szó legutóbb a hindu mitológia különböző Bharatáiról. Szerepel [Bharata a Ramayanában](https://en.wikipedia.org/wiki/Bharata_(Ramayana)), de külön Wiki oldal foglalkozik a [Mahabharatából](https://en.wikipedia.org/wiki/Bharata_(Mahabharata)) ismert Bharatával (ha ezek nem egy és ugyanazok, legalább minőségben). ([[T/Taksony\|Taksony]] címnél előjön Bharata fiának, Takshának neve is.)  
+[[R/Rama\|Rama]] címnél volt szó legutóbb a hindu mitológia különböző Bharatáiról. Szerepel [Bharata a Ramayanában](https://en.wikipedia.org/wiki/Bharata_(Ramayana)), és külön Wiki oldal foglalkozik a [Mahabharatából](https://en.wikipedia.org/wiki/Bharata_(Mahabharata)) ismert Bharatával (ha ezek nem egy és ugyanazok, legalább minőségben). ([[T/Taksony\|Taksony]] címnél előjön Bharata fiának, Takshának neve is.)  
 Viszont [[S/Saraswati\|Saraswati]] címnél előjön **Bharati**, mint hindu istennő, Saraswatival azonosítva.  
 Azt se feledjük, hogy Magyar Adorján szerint az avarok napistene Barata néven fut(hat)ott.  
 Az [[A/Avar\|avar]]oknál a Nap és a Tűz istensége, **Barata**, Varuk vagy Barisa és Páris neveken neveztetett, írja Magyar Adorján.  
 Hogy most az öreg vagy a fiatal napisten neve volt, nos, ezen nevek általában a nyári napfordulós napállásra szoktak vonatkozni. ([[R/Rama\|Rama]] címnél azt próbáljuk eldönteni, hogy melyik név utal a világos és sötét félévre.)  
 Aztán ott van a [[P/Pártus\|pártus]] címnél előjövő elnevezés (Parathas), melyről alant még lesz szó.  
 
+<!--section: 4-->
 #### Srini Kalyanaraman Tracing Meluhha in Rigveda and Cuneiform texts of Ancient Near East...
 
+<!--section: 4.1-->
 ...című dolgozatában úgy hozza elő a `bharat` nevet, mint fémművesek nevét ([[C/Calibre\|calibre]], [[S/Siderite\|siderite]] és [[S/Szabir\|szabir]] címnél írottak szerint is tudjuk, hogy a népek nevei és a [[F/Fémművesség\|fémmegmunkálás]] összefüggésben vannak):  
 > The association of asura with worship of the sun is consistent with the Mesopotamian records showing assur as sun-worshippers. Both `asur` and `assur` are metalworkers. Both are bhāratam janam mentioned in Rigveda (RV 3.53.1: viśvāmitrasya rakṣati brahmedam bhāratam janam). `Bharata` = casting metals in moulds; `bharavum` = to fill in; to put in; to pour into (Gujarati) Bengali.  
 > \[...\]  
@@ -40,15 +47,19 @@ Egy másik, szintén letölthető Processions of hieroglyphs are classifiers of 
 
 A fentiek alapján is valószínű, hogy az ...
 
+<!--section: 5-->
 #### Acharia S Suns of God...
 
+<!--section: 5.1-->
 ...című könyvében előjövő Bharat/Barát ezen fémműves szaka/szkíta népek neve volt, honnan az indo-szkíta befolyás révén bizonyos (északi) terület ilyen nevet is kapott:  
 Bharat-ot Acharia S (mely forrás alapján?) India eredeti-bennszülött nevének tartja (és maga is [[B/Britain\|Britain]] nevéhez hasonlítja).  
 
 Tény, hogy...
 
+<!--section: 6-->
 #### William F. Warren Paradise Found...
 
+<!--section: 6.1-->
 ...című könyvében is említi a Bharata nevet:  
 > First, ![assets/Barát_image1.png|fix_dark fix_light right|240](/img/user/B/assets/Bar%C3%A1t_image1.png)of course, we come to the Himalaya range, the Himavat of Indian geography. All that portion of the earth lying between this mountain range and the great ocean to the South constitutes one of the seven, or nine, varshas, or divisions of the habitable (upper) hemisphere. Its name is **Bharata**.  
 > —  
@@ -59,8 +70,10 @@ Bakos Attila A Duna Evangéliuma című könyvének 273. oldalán azt írja, hog
 
 A görögök előtti(?) szanszkrit forrásokban a [[P/Pártus\|pártus]]ok neve **Parāthas**, mely szintén barát szavunkat idézi.  
 
+<!--section: 7-->
 #### David Gordon White írja:
 
+<!--section: 7.1-->
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/I/India/#l9v6f2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -77,8 +90,10 @@ Az indonéz és maláj nyelven `barat` = nyugat, mely utalhat arra, merre helyez
 
 [Ezen](https://en.wiktionary.org/wiki/...#Hindi) oldalon szintén mint India neveként jön elő **Baraat**, a szanszkrit `bhā́rata` nyomán.  
 
+<!--section: 8-->
 #### Kandra Kabos Magyar Mythologia...
 
+<!--section: 8.1-->
 ...című könyvében (a PDF 67. oldalán) talált info[^1] alapján a **Bar-At értelem szépen megfér a testvér-brother értelemmel** (és etimológiai levezetési alkalmat nyújt a szláv és germán szavak eredetére nézve is):  
 > Előbb láttuk, hogy az átmeneti magyar imádság a szép, ragyogó Napot "testvér"-nek tiszteli, a Holdat "asszonynénénk"-nek, a Csillagokat "hugaink"-nak, a Szelet "süvünk"-nek, sógornak, a Vizet "ángyikánk"-nak, a Tüzet "urunkbátyánk-nak, a Földet "nagyasszonyunk"-nak.  
 
@@ -149,6 +164,7 @@ Vladimir Ivanovich Dal orosz értelmező szótárának adata szerint az orosz `k
 
 Alakjára nézve hasonló még a [[Z/Zsarát\|zsarát]].  
 
+<!--section: 9-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
