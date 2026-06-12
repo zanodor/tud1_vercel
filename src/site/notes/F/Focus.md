@@ -1,19 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/F/Focus/","title":"Focus","tags":["containstransclusions"],"created":"2025-10-16T22:19","updated":"2026-05-21T05:07"}
+{"dg-publish":true,"permalink":"/F/Focus/","title":"Focus","tags":["containstransclusions"],"created":"2025-10-16T22:19","updated":"2026-06-12T22:46"}
 ---
 
 
+<!--section: 1-->
 # Focus
 
+<!--section: 1.1-->
 Fókusz, sok jelentéssel áll, például igeként összpontosít, koncentrál, főnévként gyújtópont, gócpont.  
 Berzsenyi Dániel tanulmányában fő-ok-ak-ag elemekre bontotta a latin szót.  
 
+<!--section: 2-->
 #### A Czuczor-Fogarasi szótár adata:
 
+<!--section: 2.1-->
 > Átv. ért. a napnak középpontja, továbbá a gyujtó üvegeknél és tükröknél azon pont, melyben az üveg vagy tükör által megtörött vagy visszaverődött napsugarak öszvegyülnek, a gyujtó erővel birnak.  
 
+<!--section: 3-->
 #### Kállay Ferenc A pogány magyarok vallása...
 
+<!--section: 3.1-->
 ...című könyvében előtét elhagyásával [[E/Ég\|ég]] szavunkat láttatná benne:  
 > A német `Ofen` betű cserével, az elől digammás `focus` szó is egyez velök. ([Lásd 228. old.](zotero://open-pdf/library/items/DFI47XPY?page=228&annotation=S3WTCVIQ))  
 
@@ -28,14 +34,15 @@ Berzsenyi Dániel tanulmányában fő-ok-ak-ag elemekre bontotta a latin szót.
 </div></div>
 
 
-A szó elején nem annyira az f-előtét keresendő; gyöke inkább [[B/BOG\|BOG]] párja.  
+A szó elején talán nem annyira az f-előtét keresendő; `focus` gyöke inkább [[B/BOG\|BOG]] párja.  
 A latin `focus` szót Aczél József a [[F/Focaccia\|focaccia]] címnél említett süt jelentésű görög `phóg`- igegyöknél hozza, mely mellé [[P/Pogácsa\|pogácsa]] szavunkat párosította.  
 CzF fűt szavunknál hozza fel rokonításul.  
 
 Arról már szóltunk másutt, hogy a hangok ábécében egymás mellett elfoglalt helye nem véletlenszerű. CS-D esetében például [[C/Csűr\|csűr]] azért lehet D-R vázú (más nyelvekben), mert T a kiindulóhang, melyből mindkettő származhat. Itt F-G esetében nem tűnik szabályosan levezetőnek [[G/Góc\|góc]] szavunkból, viszont ez a jelentése.  
-Hajlani kell arra, hogy Fő Óg/Ok értelmű focus. Egyébiránt a katalán és román nyelvben `foc` = tűz.  
-[[F/Fox\|Fox]] szónál előjött egy Fu-K (Tűz Háza) olvasat, mely ide is megfelel, de [[F/Fóka\|fóka]] szónál is szóba jött focus.  
+Ha szótagnyelvet keresünk, lehetne Fő Óg/Ok értelmű focus. Egyébiránt a katalán és román nyelvben `foc` = tűz.  
+[[F/Fox\|Fox]] szónál előjött egy Fu-K (Tűz Háza) olvasat, mely ide is megfelel; [[F/Fóka\|fóka]] szónál is szóba jött focus.  
 [[F/Faggot\|Faggot]] címnél előjött a hasonló alakú latin `fagus` = bükk és [[F/Fáklya\|fáklya]] szavunk mellett a Fa-Góc összefüggés is.  
 Lásd még [[F/FOK\|FOK]].  
 
-Mivel a spanyol `fuego` is ugyanazokra a fénylő, ragyogó jelentésű görög-latin szavakra is hasonlít (FL > FU), melyeket a [[F/Flagrant\|flagrant]], [[F/Flog\|flog]] és [[F/Flag\|flag]] címnél (valamint [[L/LÁG\|LÁG]] címnél) – úgy tűnik, tévesen – f-előhangosként értékeltük (görög `flogo`- és `fleg`- = ég, `flogion` = láng, `flogoeisz` = fénylő és a latin `flagrare` = lángol, lobog, szikrázik), itt vagy különböző szavak konflációjáról van szó, vagy egymasból erednek.  
+Mivel a spanyol `fuego` is ugyanazokra a fénylő, ragyogó jelentésű görög-latin szavakra is hasonlít (FL > FU), melyeket – a görög `flogo`- és `fleg`- = ég, `flogion` = láng, `flogoeisz` = fénylő és a latin `flagrare` = lángol, lobog, szikrázik szavakat – [[F/Flagrant\|flagrant]], [[F/Flog\|flog]], [[F/Flag\|flag]] címnél valamint [[L/LÁG\|LÁG]] címnél – úgy tűnik, tévesen – f-előhangosként értékeltük, itt vagy különböző szavak konflációjáról van szó, vagy egymásból erednek.
+{ #260529}
