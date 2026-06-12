@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Culann/","title":"Culann","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T18:03","updated":"2026-03-03T18:28"}
+{"dg-publish":true,"permalink":"/C/Culann/","title":"Culann","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T18:03","updated":"2026-06-12T22:45"}
 ---
 
 
@@ -16,7 +16,7 @@ A kohasztás, koholás, kovácsolás ugyanazon `koh`, `kuh`, [[K/KU\|KU]] gyökr
 
 Ami a Culann nevet illeti, így meg sem lepődünk, hogy a [[C/Culinary\|culinary]] szónál előjövő latin `culina` = konyha szóval egyezik. Az ott elmondottak alapján Ku-Lán a helyes felbontás, jelentése így Kő-Oroszlán, Kő-Nap, Kutya-Nap, Kutya-Oroszlán. A két fogalom nyilván ugyanazt jelenti, mint [[S/Sphinx\|Sphinx]] esetében.  
 > [!note] &nbsp;
-> A kovács eredetileg a fémek megjelenése előtt kőfaragó, egyfajta szobrász volt. Mit csinál a szobrász? Ugyanazt kőből, mint a kézművesisten agyagból, érthetőbben, sárból: az embert és élőhelyét formázza meg. Prototípusa pedig a Platón által ismert Kézműves Isten Démiurgosz, ki ugyanaz, mint Héphaisztosz, Vulcanus, Tvastri, Wayland kovács, Goibniu, Ilmarinen, Ptah, Khnum, Kosar-va-haszusz, Enki/Ea, Tare, Virakocsa stb.  
+> A kovács eredetileg a fémek megjelenése előtt kőfaragó, egyfajta szobrász volt. Mit csinál a szobrász? Ugyanazt kőből, mint a kézművesisten agyagból, érthetőbben, sárból: az embert és élőhelyét formázza meg. Prototípusa pedig a Platón által ismert Kézműves Isten Démiurgosz, aki ugyanaz, mint Héphaisztosz, Vulcanus, Tvastri, Wayland kovács, Goibniu, Ilmarinen, Ptah, Khnum, Kosar-va-haszusz, Enki/Ea, Tare, Virakocsa stb.  
 
 Mindig is sejtettem, hogy [[S/Sphinx\|Sphinx]] esetében az Oroszlán itt nem csak a kifaragás idejére kell mutasson, hanem a [[F/FU\|FU]] = kozmikus szél mozgására is.
 
