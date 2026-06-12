@@ -1,19 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ad/","title":"Ad","tags":["containscallouts","containstransclusions"],"created":"2024-11-23T04:59","updated":"2026-03-31T18:32"}
+{"dg-publish":true,"permalink":"/A/Ad/","title":"Ad","tags":["containscallouts","containstransclusions"],"created":"2024-11-23T04:59","updated":"2026-06-12T22:45"}
 ---
 
 
+<!--section: 1-->
 # Ad
 
+<!--section: 1.1-->
 Az Ad ige az [[A/AT\|AT]] (Ata, Atya) lágyult formája. Az Ad, mint hímségi princípium (a férfi illetve a Nap ad), [[A/Adapa\|Adapa]] és [[A/Ádám\|Ádám]] nevében is előfordul, illetve Fáy Elek A magyarok őshona című könyvének 25. oldaláról származó adata szerint az (alant Magyar Adorján által is érintett) [[A/Adita\|aditák]] mitológiai ősatyjának neve is **Ad**.  
 
-Mellékelve lásd Dr. Gyárfás ![assets/Ad_image1.png\|fix_dark fix_light right\|120](/img/user/A/assets/Ad_image1.png)  Ágnes A képjelekről – Tenger – Szabir ország c. könyvéből Labat jelét.  
+Mellékelve lásd Dr. Gyárfás ![assets/Ad_image1.png|fix_dark fix_light right|120](/img/user/A/assets/Ad_image1.png)  Ágnes A képjelekről – Tenger – Szabir ország c. könyvéből Labat jelét.  
 
-Gyárfás Ágnes A szakrális nyelv ![assets/Ad_image2.jpeg\|fix_dark fix_light right\|120](/img/user/A/assets/Ad_image2.jpeg)  elemei c. az Ősi Gyökér 2008/1. sz. megjelent cikkében is megoszt Labat féle jelet és értetlenkedik a jel és a hozzá kapcsolt hímségi jelentés láttán, mondván, hogy a batyu vagy jel anyaméh jelkép kell legyen.  
+Gyárfás Ágnes A szakrális nyelv ![assets/Ad_image2.jpeg|fix_dark fix_light right|120](/img/user/A/assets/Ad_image2.jpeg)  elemei c. az Ősi Gyökér 2008/1. sz. megjelent cikkében is megoszt Labat féle jelet és értetlenkedik a jel és a hozzá kapcsolt hímségi jelentés láttán, mondván, hogy a batyu vagy jel anyaméh jelkép kell legyen.  
 - [[A/ATA\|ATA]] címhez is bekerült; ott (és [[A/Acsa\|acsa]] címnél) volt szó arról, hogy nőiség is lehet.
 
+<!--section: 2-->
 #### Péterfai János írja:
 
+<!--section: 2.1-->
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/H/Hadad/#2z31c1" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -59,10 +63,13 @@ head -up- w5
 @enduml
 ```
 
+<!--section: 3-->
 ## Árja megfordítás
 
+<!--section: 4-->
 #### Magyar Adorján Ősműveltség...  
 
+<!--section: 4.1-->
 ...című művében írja:  
 > Ad, adni igénknek pontosan megfelel annak árja, de megfordított da, darc alakja, csakhogy az egytagú szavak megfordítása a mi nyelvünk sajátsága lévén, ebből az következik, hogy ad igénk e megfordított da alakja a mi ősnyelvünkben is megvolt, és az árja nyelvekbe éppen emez alakja ment át. Egyébként is az adás, aktív, pozitív, tehát hímségi dolog lévén (a nőiségi tűrés, fogadás ellentéte), eszerint e szó az atya, török `ata`, szumer `adda` = atya szóval is természetes összefüggésben van, amely szó eredetileg még hím férfi jelentéssel is bírt, amit tanúsit \[az [[A/Ádám\|Ádám]] címnél is említett, de nyilván arab eredetű\] török `adam` = ember, férfi, valamint a bibliai [[A/Ádám\|Ádám]] név is.  
 > \[...\]  
@@ -81,8 +88,12 @@ head -up- w5
 Ahogy CzF az abr elvont gyöknél (mely az abrosz, abroncs gyöke) írja:  
 > Átvetve bar azonos a födést, takarást jelentő bor, bur gyökkel a borít, borúl, burok stb. szókban. Származékai: borincs vagy boroncs, betűáttétellel: obrincs vagy abrincs, továbbá abrosz, mint asztalborító szövet. Hasonló áttétel unszol vagy onszol = noszol, idv = dív, da vagy dá gyök az árja (szanszkrit, görög, latin, persa stb) nyelvekben, a magyarban ad vagy ád, apró = porú stb.  
 
+Lásd még [[T/Tevő#Tevő (teremtő) idegen nyelvekben\|ezen]] helyen szanszkrit témát is.  
+
+<!--section: 5-->
 ### Olasz 'dai' és orosz 'davaj'
 
+<!--section: 5.1-->
 E két szó rokonnak tűnik. Mintha a szláv szó előbbi széthúzása lenne.  
 > [!details]- &nbsp;
 > Valóban, van egy érdekes kapcsolat az orosz `давай` (davaj) és az olasz felszólító módú `dai` között:  
@@ -103,16 +114,22 @@ E két szó rokonnak tűnik. Mintha a szláv szó előbbi széthúzása lenne.
 > 3. **Eredet és hatás**:
 >    - Bár a pontos eredet nem biztos, lehetséges, hogy a hasonlóság **latin gyökerekből** ered. Az **"adni"** szónak egy ősi indoeurópai **"da/do"** gyökere van, amely megtalálható a latinban, a görögben, a szlávban, a baltiban, a szanszkritban és a hindiben.
 
+<!--section: 6-->
 ### Kivételek
 
+<!--section: 6.1-->
 Nem mindig kerül megfordításra a két hang: lásd [[A/Addendum\|addendum]] és [[A/Add\|add]].  
 
+<!--section: 7-->
 ## Amikor a nő ad
 
+<!--section: 7.1-->
 Ugyebár biológiai és mítoszi értelemben is a férfi az adó. Ugyanakkor...
 
+<!--section: 8-->
 #### Gyárfás Ágnes Három óriás és az öreg király – a nyári égbolt híres férfi-csillagképei...  
 
+<!--section: 8.1-->
 ...című Ősi Gyökér 2006/2. sz. megjelent cikkének májusfaállításról szóló adata (lásd [[P/Pünkösd\|Pünkösd]]) is tartalmaz olyan adatot melyet már Hervay Tamás egyik cikkében is láttunk. Virágot nő adott férfinak a régi felfogás szerint. Gyárfás írja:  
 > Molnár V. József is pontosan tudja, hogy a virágot, ősi szellemben a lány adja a fiúnak és nem fordítva. Ez a szokás, amely szerint a férfi viszi a virágot a hölgynek, a Dámának, a Sárkány a Dáma legyőzetésétől számított sötét idők terméke. Gesztus a legyőzöttnek.  
 
@@ -120,6 +137,8 @@ Nem ez az egyetlen dolog, amit nő ad a férfinak. Ő adja az [[A/Alma\|almá]]t
 
 A [[T/Tűz\|tűz]] fogalma kapcsán volt szó arról, hogy nemcsak hímségi lehet.  
 
+<!--section: 9-->
 ## Átad
 
+<!--section: 9.1-->
 Úgy tűnik, [[A/Át\|át]] szavunk, `ad` szóhoz hasonlóan az At = Atya szóból ered. Ezek szerint átad pleonazmus, tkp. hibás használat.  
