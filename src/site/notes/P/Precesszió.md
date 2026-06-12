@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2026-05-21T04:54"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2026-06-12T22:43"}
 ---
 
 
 # Precesszió
 
+{ #260101}
 
 
 #### John Major Jenkins Galactic Alignment...
@@ -317,8 +318,7 @@ Mindezt úgy, hogy nincs tisztában azzal sem, hogy az időszalag manipulált le
 > Miért feltételezzük, hogy a négyszögletes állatövben a sorrend a nyári napfordulóval kezdődik?  
 > A napfordulót végül is rendkívül nehéz megfigyeléssel pontosan meghatározni, és a görög szövegekből mindenesetre ismert, hogy az egyiptomiak különösen sokat foglalkoztak az ég legfényesebb csillagának, a Szíriusznak a heliákus kelésével – vagyis azzal az éjszakával, amikor a Szíriusz először megjelenik, közvetlenül hajnal előtt.  
 > Vajon a [[P/Precesszió\|precesszió]] nem mozdította volna el a Szíriuszt az állatövi csillagokkal együtt, és ezzel végül elválasztotta volna a napfordulótól, és így az éves vízözöntől?  
-> Ma már tudjuk, hogy az áradás az esős évszak júniusi kezdete után következik be Etiópiában, ahol a Kék-Nílus ered. **A Szíriusz napkelte mégis az év központi jelzője maradt az egyiptomi történelem során**.  { #glqzaq}
-
+> Ma már tudjuk, hogy az áradás az esős évszak júniusi kezdete után következik be Etiópiában, ahol a Kék-Nílus ered. **A Szíriusz napkelte mégis az év központi jelzője maradt az egyiptomi történelem során**.  { #glqzaq}
 
 
 Gyárfás Ágnes Adalékok a mezopotámiai és a szkíta múlt fővonalához című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében úgy említi a **precessziót, mint ami a Szíriusz újévi delelését nem befolyásolja** (6-8 ezer év eltelte ellenére sem) (a delel szó helyett helyesebb a [[Z/Zenith\|zenith]] kifejezés):  
@@ -358,8 +358,7 @@ A sumér nép ismerte. Ez kiderül Badiny Jós Ferenc könyvéből is. [[N/Nagy 
 Az egyiptomiaknak is ismerniük kellett. A precessziót a csak tökéletes rendszereket felállító (lásd magyar nyelv tökéletességét) őseink mindig is ismerték, és még maguk a görögök is bevallották, hogy Hipparkhosz előtt Egyiptomban és Babilonban ismerték, ő előttük is:  
 > The Greek neoplatonist Proclus, who studied at Alexandria in the fifth century A.D., reported that it was the Egyptians and not the Greeks who discovered precession: "Let those, who believe . . . the stars to move around the poles of the zodiac \[precession\], as Ptolemy and Hipparchus before him, \[let him\] know . . . that the Egyptians had already taught Plato about the movement of the fixed stars.  
 > —  
-> A görög neoplatonista Proclus, aki a Kr. u. ötödik században Alexandriában tanult, arról számolt be, hogy nem a görögök, hanem az egyiptomiak fedezték fel a precessziót: "Azok, akik úgy vélik ... hogy a csillagok az állatöv pólusai körül mozognak \[precesszió\], mint Ptolemaiosz és Hipparkhosz előtte, \[hadd tudják meg\] ... hogy az egyiptomiak már Platónt is tanították az állócsillagok mozgásáról."  { #95u2us}
-
+> A görög neoplatonista Proclus, aki a Kr. u. ötödik században Alexandriában tanult, arról számolt be, hogy nem a görögök, hanem az egyiptomiak fedezték fel a precessziót: "Azok, akik úgy vélik ... hogy a csillagok az állatöv pólusai körül mozognak \[precesszió\], mint Ptolemaiosz és Hipparkhosz előtte, \[hadd tudják meg\] ... hogy az egyiptomiak már Platónt is tanították az állócsillagok mozgásáról."  { #95u2us}
 
 
 John M. Jenkins könyveinek adatai alapján tudjuk, hogy a maják is ismerték.  
