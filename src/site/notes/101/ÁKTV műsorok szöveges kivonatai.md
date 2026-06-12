@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-06-05T20:49"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-06-12T22:43"}
 ---
 
 
@@ -23,6 +23,13 @@
 
 **2026:**
 
+<small>[260612CN! MÁRIANOSZTRA - II. rész](https://rumble.com/v7b72jk-260612cn-mrianosztra-ii.-rsz-kubnyi-tams-ka.html)  [https://share.note.sx/jra25gcz](https://share.note.sx/jra25gcz) [https://archive.ph/3DVT1](https://archive.ph/3DVT1)</small>
+<small>[260605CN! MÁRIANOSZTRA - I. rész](https://rumble.com/v7avc8m-260605cn-mrianosztra-i.-rsz-kubnyi-tams-ka.html)  [https://share.note.sx/zmxw70yf](https://share.note.sx/zmxw70yf) [https://archive.ph/vp7WW](https://archive.ph/vp7WW)</small>
+
+<small>[260611CN! GYERMEKTÁMADÁS](https://rumble.com/v7b5b8g-260611cn-gyermektmads-kubnyi-tams-ktv.html)  [https://share.note.sx/f6xqqldf](https://share.note.sx/f6xqqldf) [https://archive.ph/ertno](https://archive.ph/ertno)</small>
+<small>[260610CN! SZABÓ DEZSŐ](https://rumble.com/v7b3ikw-260610cn-szab-dezs-kubnyi-tams-ktv.html)  [https://share.note.sx/vi5c7pi6](https://share.note.sx/vi5c7pi6) [https://archive.ph/LXs44](https://archive.ph/LXs44)</small>
+<small>[260609CN! NAGYASSZONY](https://rumble.com/v7b20ue-260609cn-nagyasszony-kubnyi-tams-ktv.html)  [https://share.note.sx/rh51dvmh](https://share.note.sx/rh51dvmh) [https://archive.ph/6XCxS](https://archive.ph/6XCxS)</small>
+<small>[260608CN! BEAVATÓ TÖRTÉNET](https://rumble.com/v7b020m-260608cn-beavat-trtnet-kubnyi-tams-ktv.html)  [https://share.note.sx/wj9smfw1](https://share.note.sx/wj9smfw1) [https://archive.ph/88Awp](https://archive.ph/88Awp)</small>
 <small>[260604CN! FIGYELMEZTETÉS MEGHASONLÓKNAK](https://rumble.com/v7atnyw-260604cn-figyelmeztets-meghasonlknak-kubnyi-tams-ktv.html)  [https://share.note.sx/usacw8ur](https://share.note.sx/usacw8ur) [https://archive.ph/nmC9K](https://archive.ph/nmC9K)</small>
 <small>[260603CN! HONFOGLALÁS HELYETT](https://rumble.com/v7arz98-260603cn-honfoglals-helyett-kubnyi-tams-ktv.html)  [https://share.note.sx/h5cqfrlo](https://share.note.sx/h5cqfrlo) [https://archive.ph/Wvj5A](https://archive.ph/Wvj5A)</small>
 <small>[260602CN! A KI NEM MONDOTT SZÓ](https://rumble.com/v7aq95a-260602cn-a-ki-nem-mondott-sz-kubnyi-tams-ktv.html)  [https://share.note.sx/xyqcqtzy](https://share.note.sx/xyqcqtzy) [https://archive.ph/1oPHj](https://archive.ph/1oPHj)</small>
@@ -42,7 +49,7 @@
 <small>[260512CN! KRÚDY 1933](https://rumble.com/v79r9cw-260512cn-krdy-1933-kubnyi-tams-ktv.html)  [https://share.note.sx/vat7k1xb](https://share.note.sx/vat7k1xb) [https://archive.ph/xKSZ8](https://archive.ph/xKSZ8)</small>
 <small>[260511CN! RENDSZERVÁLTÁS？](https://rumble.com/v79pkc2-260511cn-rendszervlts-kubnyi-tams-ktv.html)  [https://share.note.sx/1ykaa93b](https://share.note.sx/1ykaa93b) [https://archive.ph/6QAkx](https://archive.ph/6QAkx)</small>
 <small>[260508CN! ISMERJÜK ŐKET](https://rumble.com/v79kwzi-260508cn-ismerjk-ket-kubnyi-tams-ktv.html)  [https://share.note.sx/njdgvfcd](https://share.note.sx/njdgvfcd) [https://archive.ph/OI52E](https://archive.ph/OI52E)</small>
-<small>[260507CN! LEGYEN PATRIÓTÁK](https://rumble.com/v79j5sc-260507cn-legyen-patritk-kubnyi-tams-ktv.html)  [https://share.note.sx/o3qxsvd0](https://share.note.sx/o3qxsvd0) [https://archive.ph/xfowS](https://archive.ph/xfowS)</small>
+<small>[260507CN! LEGYEN PATRIÓTÁK](https://rumble.com/v79j5sc-260507cn-legyen-patritk-kubnyi-tams-ktv.html)  [https://share.note.sx/62xmkjmn](https://share.note.sx/62xmkjmn) [https://archive.ph/jEtiO](https://archive.ph/jEtiO)</small>
 <small>[260506CN! CSAK A GYÖKÉR...](https://rumble.com/v79hh7i-260506cn-csak-a-gykr...-kubnyi-tams-ktv.html)  [https://share.note.sx/2k6bnaau](https://share.note.sx/2k6bnaau) [https://archive.ph/LZBFl](https://archive.ph/LZBFl)</small>
 <small>[260505CN! ÚJGAZDAGOK](https://rumble.com/v79ftjg-260505cn-jgazdagok-kubnyi-tams-ktv.html)  [https://share.note.sx/2yzxukig](https://share.note.sx/2yzxukig) [https://archive.ph/MNp5J](https://archive.ph/MNp5J)</small>
 <small>[260504CN! TERVEZETT ELAVULÁS](https://rumble.com/v79e5p8-260504cn-tervezett-elavuls-kubnyi-tams-ktv.html)  [https://share.note.sx/qrizz72j](https://share.note.sx/qrizz72j)  [https://archive.ph/uLcbb](https://archive.ph/uLcbb)</small>
