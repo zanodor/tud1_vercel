@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Méz/","title":"Méz","tags":["Englishtexttranslated"],"created":"2024-11-23T05:28","updated":"2026-05-18T23:56"}
+{"dg-publish":true,"permalink":"/M/Méz/","title":"Méz","tags":["Englishtexttranslated"],"created":"2024-11-23T05:28","updated":"2026-06-12T22:44"}
 ---
 
 
@@ -183,7 +183,7 @@ A két isteni/anyai ital mindenütt együtt említtetik. Ezért is lehet a szans
 
 ## Tej-, méz- és borfolyók
 
-Falvay Károly Nagyboldogasszony című könyvében néhány oldalon belül két különböző (sémi és árja) kultúra hasonló tejjel, mézzel és borral csörgezedő folyókról ad leírást, így ezek eredete közös magyar lehet. Mivel háromról van szó és nekünk ([[A/Ardvisura Anahita\|Ardvisura Anahita]] és [[A/Apam Napat\|Apam Napat]] címnél írottak szerint) négy kell, lehetne a negyedik víz (bár a borban már az is meglehet). Akár még [[S/Színkódok\|színkódok]] szerint is ki lehetne deríteni az irányait is.  
+Falvay Károly Nagyboldogasszony című könyvében néhány oldalon belül két különböző (sémi és árja) kultúra hasonló tejjel, mézzel és borral csörgedező folyókról ad leírást, így ezek eredete közös magyar lehet. Mivel háromról van szó és nekünk ([[A/Ardvisura Anahita\|Ardvisura Anahita]] és [[A/Apam Napat\|Apam Napat]] címnél írottak szerint) négy kell, lehetne a negyedik víz (bár a borban már az is meglehet). Akár még [[S/Színkódok\|színkódok]] szerint is ki lehetne deríteni az irányait is.  
 A két forrás közül az első az arab Paradicsom-képzet:  
 > Az arab `dzsanna` ("Paradicsom, kert") részletes leírása megtalálható a Korán különböző szúráiban (47:15; 55:46-78; 56:12-40; 76:12-22). "A szent életűek a "sötétzöld" kertben tartózkodnak, ahol a vízfolyók nem romlanak meg, a tejfolyók íze nem változik, a borfolyók kellemesek azoknak, akik isszák, a mézfolyók tiszták."  
 > A másik Homérosz Odüsszeiájának tizedik énekében jön elő (Kirke a varázserejű istennő Odüsszeuszt hazatérési gondjaiban a halott Teiresziászhoz utasítja, akit azonban csak a mély vizű Okeanosz mellett, a kimmerek városa környékén tud megidézni; Kirke elmondja neki, hogyan kell a varázslatra felkészülnie, s ehhez megjelöli a pontos helyet, ahol az áldozatot bemutathatja):  
