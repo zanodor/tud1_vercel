@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-06-05T20:50"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-06-13T23:19"}
 ---
 
 
@@ -128,7 +128,7 @@ Ami a keltában isteni, a germánban már bűnös, ahogy [[T/Trull\|trull]] = ku
 Ami az alant még hollóval kapcsolatba hozott [[U/Ullu\|Ullu]]-t illeti, lásd hindu kapcsolatokat is említve ott (ül, ülepedik szavainkhoz lesz köze; vegyük észre, süly is az ül előtétes változata). Összefoglalást lásd [[B/Bak-Rák tengely\|Bak-Rák tengely]] címnél.  
 Lásd még [[T/Turn\|turn]]. [[S/Szimurgh\|Szimurgh]] címnél is esett róla szó, Tóth Gyula révén (azt írja, nem madár, hanem sárkány: mindkettő Nap-szimbólum).  
 
-Legutóbb [[K/Konyul\|konyul]] szónál szóltunk arról, hogy Kon-Ul értelmére és képzésére nézve is hasonló Turullal és talán a hunok szava lehetett a "[[K/Keresztre feszített Nap\|keresztre feszített Nap]]" mozgási irányának megváltozására; konyul utalhat a [[G/Göncöl\|Göncöl]]szekér farkának konyulására is).  
+Legutóbb [[K/Konyul\|konyul]] szónál szóltunk arról, hogy Kon-Ul értelmére és képzésére nézve is hasonló Turullal és talán a hunok szava lehetett a "[[K/Keresztrefeszített Nap\|keresztrefeszített Nap]]" mozgási irányának megváltozására; konyul utalhat a [[G/Göncöl\|Göncöl]]szekér farkának konyulására is).  
 Igen érdekes levezetést találni KUN = KON = farok, vég = tail = tél vonalon [[T/Tail\|tail]] szónál is.  
 Egyre több adat mutat oda, hogy nemcsak a Biblia magyar eredetét, hanem a fény[[K/Kereszténység\|kereszténység]] magyar eredetét, benne a csillagászati szakszavakkal, is nyelvi szinten bizonyítani tudjuk.  
 
