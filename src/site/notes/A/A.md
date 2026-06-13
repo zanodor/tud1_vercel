@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2026-05-22T00:20"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-13T01:11","updated":"2026-06-13T23:57"}
 ---
 
 ]
@@ -16,7 +16,7 @@ Mivel az ABC is e hanggal kezdődik, nyilván nem véletlenül kerültek ezek a 
 #### Gyárfás Ágnes...  
 
 ...adata szerint:  
-> A: anyai és atyai ősgyök, a nyelvben később a vízzel azonosult (L 578). Az α és az Ω, a kezdet és a vég két betűszimbóluma eredeti ősképünk. A magyar nyelvben ez az őskép névelő formában él és mozgósítja nyelvünk szakrális elemeit.  
+> A: anyai és atyai ősgyök, a nyelvben később a vízzel azonosult (L 578). Az α és az Ω, a kezdet és a vég két betűszimbóluma eredeti ősképünk. A magyar nyelvben ez az őskép névelő formában él és mozgósítja nyelvünk szakrális elemeit.  
 - [[A/Az\|Az]] címnél is szerepelt.
 
 Megvan [[T/Tisza\|Tisza]] és [[D/Duna\|Duna]] neveinkben is. Az azték `Atl` is vizet kell jelentsen, mert a Halak csillagkép neve volt: a szóvégi tl Péterfai János adata szerint főnévképző; leválasztásával A = Víz marad.  
@@ -68,7 +68,8 @@ Megpróbálom egy gyors skiccel felvázolni, miről van szó, de ennél sokkal s
 [[E/Eire\|Eire]] címnél pedig szöveges háttéranyag is szerepel.  
 Az előhang nélküli és előhangos állatnevek kapcsán legutóbb [[U/UR#UR szóval képzett állatnevek\|UR szóval képzett állatnevek]] cím/alcímnél is szóltunk, továbbá lásd még [[T/Teremtő és teremtett#Napistennevek kialakulása más magyar dialektusokban\|napistennevek kialakulása más magyar dialektusokban]] cím/alcímnél írottakat.  
 
-![assets/A_image1.png|fix_dark fix_light|840](/img/user/A/assets/A_image1.png)  { #5yextp}
+![assets/A_image1.png|fix_dark fix_light|840](/img/user/A/assets/A_image1.png)  { #5yextp}
+
 
 
 
