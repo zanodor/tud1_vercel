@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2026-05-04T18:06"}
+{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2026-06-13T23:21"}
 ---
 
 
@@ -162,7 +162,7 @@ A 29. oldalon a 8. századi arab csillagász, Abu Mazar adatával folytatja (enn
 
 Azaz továbbra is a Szűz csillagképben kerestek valami magyarázatot a régiek, de ki tudja mennyire helyesen. [[S/Szűz csillagkép\|Szűz csillagkép]]nél álló Falvay Károly féle infók és diagramok alapján tovább boncolgatjuk a témát (lásd [[S/Szűz csillagkép#Szűz mint kezdet\|Szűz mint kezdet]] alcímet).  
 
-Gyanítható, hogy egy későbbi képzetről és afféle tudálékoskodásról, belemagyarázásról van szó, mint amilyenről legutóbb [[C/Crucifixion\|crucifixion]] és [[H/Három nap\|három nap]] címnél is szó volt, miszerint Jézus és más azt megelőző kultúrák napistenei azért lettek volna keresztre feszítve, mert a (halálát haló) Nap ilyen időtájt a Crux, azaz Dél Keresztje csillagkép közelében tartózkodik. (Nos, valójában a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] címnél írottak alapján tudjuk, hogy a Dél Keresztje csak egy utóbb felvett csillagkép, mert Jézust nem azért feszítették keresztre, mert ilyen csillagkép közelében tartózkodik a téli napfordulón a Nap. Széth furkájára is gondoljunk.) Az efféle késői keresztény képzettársítás olyan lehet, mint Szent Albert véleménye. Igaz, ő is alapozza véleményét korai (akár nem is keresztény \[bár a kezdetben mindenki keresztény lehetett\]) csillagászokra.  
+Gyanítható, hogy egy későbbi képzetről és afféle tudálékoskodásról, belemagyarázásról van szó, mint amilyenről legutóbb [[C/Crucifixion\|crucifixion]] és [[H/Három nap\|három nap]] címnél is szó volt, miszerint Jézus és más azt megelőző kultúrák napistenei azért lettek volna keresztre feszítve, mert a (halálát haló) Nap ilyen időtájt a Crux, azaz Dél Keresztje csillagkép közelében tartózkodik. (Nos, valójában a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] címnél írottak alapján tudjuk, hogy a Dél Keresztje csak egy utóbb felvett csillagkép, mert Jézust nem azért feszítették keresztre, mert ilyen csillagkép közelében tartózkodik a téli napfordulón a Nap. Széth furkájára is gondoljunk.) Az efféle késői keresztény képzettársítás olyan lehet, mint Szent Albert véleménye. Igaz, ő is alapozza véleményét korai (akár nem is keresztény \[bár a kezdetben mindenki keresztény lehetett\]) csillagászokra.  
 
 #### Grandpierre Atilla Karácsony eredete és jelentősége...
 
