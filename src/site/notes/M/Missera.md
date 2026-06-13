@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2026-05-23T00:34"}
+{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2026-06-13T23:20"}
 ---
 
 
@@ -58,7 +58,7 @@ Továbbá, a görögöknél:
 Az ekliptika csatolt szinusz-görbéje is két (kis éves) félévre osztható. Igaz, a tagolás itt napéjegyenlőségi pontoktól napéjegyenlőségi pontokig tart, nem napfordulóktól napfordulókig.  
 ![assets/Missera_image1.png|fix_light|840](/img/user/M/assets/Missera_image1.png)  
 
-Ami a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] (élet)útjának négyes felosztását, annak kettőre való egyszerűsítését illeti, egyrészt a csatolt szinusz-görbe mutat rá, miért kellett felezni, másrészt pedig az, hogy mi okoz fontosabb változást a Nap-Föld fényviszonyok napi, éves és [[N/Nagy Év\|Nagy Év]]es ciklusában.  
+Ami a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] (élet)útjának négyes felosztását, annak kettőre való egyszerűsítését illeti, egyrészt a csatolt szinusz-görbe mutat rá, miért kellett felezni, másrészt pedig az, hogy mi okoz fontosabb változást a Nap-Föld fényviszonyok napi, éves és [[N/Nagy Év\|Nagy Év]]es ciklusában.  
 
 #### Jankovics Marcell...
 
@@ -67,7 +67,7 @@ Ami a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] (élet)útjának 
 - Jankovics Marcell nem mutat rá a lényegre. Ahogy [[P/Pokol\|pokol]] címnél legutóbb szóltunk róla, eredetileg, csillagászati megfontoltásból, csak a (ráádásul nyilván először hyperboreai) Kis Évet figyelembe véve valóban az évet felező pont a tavaszpont volt: tavaszponttól őszponting jár a Nap az [[A/Alvilág\|alvilág]]ban, az [[E/Égi egyenlítő\|égi egyenlítő]] alatt. Később viszont, a [[F/Föld tengelyferdülése\|Föld tengelyferdülése]] után, a hyperboreai viszonyok megszűnésével és a migrációval, a precesszió felismerésével a Nagy Évben fontosabb téli és nyári napfordulós pontok alapján történő évfelezés vált fontosabbá (lásd erről Tilak féle ind anyagot [[B/Bal és jobb\|bal és jobb]]). Ez is rámutat, hogy a [[M/Mese\|mesé]]k \[igen, éppen meséknek hívjuk őket\] leglényegesebbjei a precesszióval foglalkoznak.  
 
 [[J/Jézus\|Jézus]] és [[F/Feltámadás\|feltámadás]] címnél pedig arról (is) volt szó, hogy egyes kultúrákban, aszerint, hogy mikor kezdik a naptári évet, elcsúszás van a nevezetes negyedelő pontok jelentősége alapján:  
-A Biblia szerint Jézus keresztrefeszítése nem napfordulón történt, hanem a tavaszi napéjegyenlőségkor.  
+A Biblia szerint Jézus keresztre feszítése nem napfordulón történt, hanem a tavaszi napéjegyenlőségkor.  
 > [[M/Mithra\|Mithra]]/[[A/Attis\|Attis]]/[[J/Jézus\|Jézus]] és társai a [[T/Téli napforduló\|téli napforduló]]n születnek, de mint láttuk, más és más kultúrkörben más és más az évkezdet (lásd [[T/Tavaszi évkezdés\|tavaszi évkezdés]]). A bibliai Jézus a tavaszi napéjegyenlőségkor támad fel, mert a közel-keleten tavaszi évkezdés van (lásd még iráni [[N/Nowruz\|Nowruz]]).  
 
 #### Jankovics Marcell A Nap könyve...
