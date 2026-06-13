@@ -1,15 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/A/Awe/","title":"Awe","created":"2023-10-19T05:40","updated":"2025-06-07T19:46"}
+{"dg-publish":true,"permalink":"/A/Awe/","title":"Awe","created":"2023-10-19T05:40","updated":"2026-06-13T23:25"}
 ---
 
 
 # Awe
 
-Félelem, rettegés. Az óangol `ege` és ónorvég `agi` is aggodalom, aggódik szavainkból származott.  
+Félelem, rettegés. Az óangol `ege` és ónorvég `agi` is `aggodalom`, `aggódik` szavaink gyökéből származott.  
 Lásd hasonló szavakat [[U/Ugly\|ugly]].  
 
 Ugyanakkor nem szabad elfeledni, hogy a [[D/Dread\|dread]] szóhoz (legalábbis annak melléknévi jelentéséhez) hasonlóan a félelem tisztelettel párosul, tehát a tisztel értelem oldaláról is meg lehet/kell közelíteni. Tény, hogy az aggokat tisztelni kell.  
-Az óangol `ege` előd egyértelműen [[E/Ég\|ég]] szavunkra látszik utalni. És mivel awe szóban a csodálat értelem is megtalálható, a...
+
+Az óangol `ege` előd egyértelműen `ég` szavunkra látszik utalni. És mivel awe szóban a csodálat értelem is megtalálható, a...
 
 #### Magyar Adorján...
 
@@ -20,5 +21,5 @@ Az óangol `ege` előd egyértelműen [[E/Ég\|ég]] szavunkra látszik utalni. 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Ugyanígy van ez a törökben és szumirban is, ahol Tengir, Tengiz, Dengirra, Dingir egyaránt jelent Istent és Eget.  
+Ugyanígy van ez a törökben és szumirban is, ahol Tengir, Tengiz, Dengirra, Dingir egyaránt jelent Istent és Eget, ahogy Magyar Adorján Csodaszarvasában írja.  
 Az Ég és az Isten az ami valóban mindenek fölött magas, magasztos, fenséges, csodálatra és tiszteletre méltó.  
