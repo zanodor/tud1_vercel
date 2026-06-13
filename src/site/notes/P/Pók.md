@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pók/","title":"Pók","tags":["Englishtexttranslated"],"created":"2025-04-15T14:47","updated":"2025-06-20T23:35"}
+{"dg-publish":true,"permalink":"/P/Pók/","title":"Pók","tags":["Englishtexttranslated"],"created":"2025-04-15T14:47","updated":"2026-06-13T23:23"}
 ---
 
 
@@ -40,7 +40,7 @@ Ami a fentebb említett hindu analogiát illeti:
 
 ### Kereszt (Nap) és anyja, az istennő
 
-Fontos lehet megemlíteni, hogy a Magyarországon nagy számú koronás keresztes pók [[K/Kereszt\|kereszt]]je is hatással lehetett az elnevezésre (gondoljunk a [[K/Keresztre feszített Nap\|keresztre feszített Nap]]ra). Ugyanakkor a madárhoz hasonlóan a pók (nősténye) lehet a Nap anyjára utaló is.  
+Fontos lehet megemlíteni, hogy a Magyarországon nagy számú koronás keresztes pók [[K/Kereszt\|kereszt]]je is hatással lehetett az elnevezésre (gondoljunk a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]]ra). Ugyanakkor a madárhoz hasonlóan a pók (nősténye) lehet a Nap anyjára utaló is.  
 Falvay Károly Nagyboldogasszony című könyvének 100. oldalán írja, hogy a hopi indián teremtéstörténetben Pók asszony teremti az ikreket, az első földi ikerpárt.  
 Különösen érdekes a pók istennőkkel való kapcsolatba hozatala [[S/Sorsistennők\|sorsistennők]] kapcsán is. A [[N/Nefilim\|Nefilim]] címnél is említett görög **nephila**[^1] pókfaj etimológiai vizsgálata során jutott ez eszembe.  
 
