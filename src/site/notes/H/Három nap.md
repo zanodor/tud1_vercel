@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Három nap/","title":"Három nap","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2026-01-01T17:02"}
+{"dg-publish":true,"permalink":"/H/Három nap/","title":"Három nap","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2026-06-13T23:21"}
 ---
 
 
@@ -52,7 +52,7 @@ Noób megint máshogy számol[^3] és lehet, neki van igaza.
 
 #### Várkonyi Nándor Az elveszett Paradicsom...
 
-...című könyvében írja, hogy az egyiptomiaknál a keresztrefeszítés beavatási céllal zajlott ([[C/Crucifixion\|crucifixion]] címnél is szerepelt):  
+...című könyvében írja, hogy az egyiptomiaknál a keresztre feszítés beavatási céllal zajlott ([[C/Crucifixion\|crucifixion]] címnél is szerepelt):  
 > Mint [[T/Thot\|Thot]]nak, a tudományokat feltaláló \[kígyó\]istennek jele ([[T/T\|T]] – Tau \[Tejút\]; lásd csatolt képet [[K/Kereszt\|kereszt]]) közismert. De minthogy Thot volt az első beavatott, érthető ezotérikus jelentése is, szimbóluma annak a tau-alakú, földre fektetett keresztnek, amelyre a **beavató szertartások során az avatandót rákötözték**. **Három nap**ot \[ennyi ideig tart a [[S/Solstice\|solstice]] is[^4]\] és éjszakát kellett így töltenie a testi halál állapotában, míg lelke bejárta a másvilágot. Az iniciáció végső rítusa volt ez, a legmagasabbrendű próbatétel.  
 
 Ezen Várkonyi Nándor féle adata kiegészítenendő ...
@@ -63,7 +63,7 @@ Ezen Várkonyi Nándor féle adata kiegészítenendő ...
 > A 19. Vendidad 28 és a 22. Yast szerint az elköltözött lelke 3 napig a test közelében marad. A Talmud szerint is az elhalt lelke nem jut azonnal a halál után meghatározott helyre, hanem 3 napig körüllebegi a testet. Előre feltételezettnek látszik 3 napi időzése a léleknek a testnél ott, ahol három napig várnak az eltemetéssel. A Midr. Koheleth egy helye szerinti a halál utáni három nap büntetéssel van kitöltve, amelyet az istentelen testén hajtanak végre. Ez emlékeztet a Bundeheshben olvashatóan "három éjszaka büntetésé"-re, valamint arra a (büntetésre), hogy az istentelen lelke a halál utáni három első éjszaka a világ minden szomorúságát lélegzi be, viszont a jámbor lelke a világ minden örömét s ezzel összehasonlítható a "Pistis Sophia" egy helye: "ezután fúriaszerű (lélek) felfogók jönnek, három napig körüljárnak azzal a lélekkel minden vidéken, megmutatván neki a világ minden korszakát". A léleknek a test mellett való háromnapi időzése ott is feltételezve van, ahol harmad- vagy negyednapon való feltámadásról van szó, mint például Krisztusnál.  
 > (Érdekes, hogy a kínai boxereket halálmegvetésükben az a hiedelem erősíti meg, hogy három nap múlva feltámadnak. (Prof. 26/74 dr. Küttner levele, Schwäb. Merkur. 1900. nov. 12-i, 528. sz.)  
 
-Az [alábbi](https://youtu.be/Hp-NEJ0Sipw) videó 12:12-nél is taglalja a témát és még arra is rámutat, hogy a (halálát haló) Nap ilyen időtájt a Crux, azaz Dél Keresztje csillagkép közelében tartózkodik. Nos, valójában a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] címnél írottak alapján tudjuk, hogy a Dél Keresztje csak egy utóbb felvett csillagkép, mert Jézust nem azért feszítették keresztre, mert ilyen csillagkép közelében tartózkodik a téli napfordulón a Nap. Széth furkájára is gondoljunk. Az efféle késői keresztény képzettársítás olyan, mint a [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] címnél álló magyarázat arra nézve, hogy miért szűz Jézus anyja.  
+Az [alábbi](https://youtu.be/Hp-NEJ0Sipw) videó 12:12-nél is taglalja a témát és még arra is rámutat, hogy a (halálát haló) Nap ilyen időtájt a Crux, azaz Dél Keresztje csillagkép közelében tartózkodik. Nos, valójában a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] címnél írottak alapján tudjuk, hogy a Dél Keresztje csak egy utóbb felvett csillagkép, mert Jézust nem azért feszítették keresztre, mert ilyen csillagkép közelében tartózkodik a téli napfordulón a Nap. Széth furkájára is gondoljunk. Az efféle késői keresztény képzettársítás olyan, mint a [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] címnél álló magyarázat arra nézve, hogy miért szűz Jézus anyja.  
 
 #### Záhonyi András Szegedi karácsony...
 
