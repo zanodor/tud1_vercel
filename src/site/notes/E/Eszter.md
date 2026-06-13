@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Eszter/","title":"Eszter","tags":["Englishtexttranslated"],"created":"2023-10-22T02:45","updated":"2025-09-28T21:27"}
+{"dg-publish":true,"permalink":"/E/Eszter/","title":"Eszter","tags":["Englishtexttranslated"],"created":"2023-10-22T02:45","updated":"2026-06-13T23:22"}
 ---
 
 
@@ -45,7 +45,7 @@ Jankovics Marcell írja:
 > Más szóval, úgy hitték, hogy az éppen nem látható planéták és csillagok Nut testében a Tejút alvilági, déli szakaszán járnak.  
 - A déli szakasz: [[D/Duat\|duat]].
 
-[[M/Mithra\|Mithra]] címnél szótani vizsgálat alapján kiderült, hogy az akasztásnak, keresztrefeszítésnek helye hol történik és milyen eszközöket alkottak a földön égi mintára. Az [[O/Ösztörű\|ösztörű]] is szóba került, ahogy a német `mistgabel` = vasvilla és arab `midrāh` = vasvilla, melyek előrésze utal az égi helyükre éppúgy, ahogy ösztörű nevében `Eszter` = Tejút.  
+[[M/Mithra\|Mithra]] címnél szótani vizsgálat alapján kiderült, hogy az akasztásnak, keresztre feszítésnek helye hol történik és milyen eszközöket alkottak a földön égi mintára. Az [[O/Ösztörű\|ösztörű]] is szóba került, ahogy a német `mistgabel` = vasvilla és arab `midrāh` = vasvilla, melyek előrésze utal az égi helyükre éppúgy, ahogy ösztörű nevében `Eszter` = Tejút.  
 Az éppilyen alakú osztriga szóról lásd [[O/Oyster\|oyster]]. `Estrogen` előrésze is ilyen. **Österreich**-ot lásd [[O/Osztrák\|osztrák]] és lásd még Péterfai János írását [[A/Austral\|austral]], de [[S/Street\|street]] és sok más szó eredete [[I/Istár\|Istár]]/[[I/Iszter\|Iszter]]/Eszter.  
 
 Czeglédi Katalin A földrajzi nevek és a magyar őstörténet az Iszter folyó kapcsán című az Ősi Gyökér 2016/3. sz. megjelent cikkéből [[I/Iszter\|Iszter]] címnél idéztünk adatokat. Helységnevek közül említi: Eszterháza, Esztár, Eszteregnye neveket. [[E/Esztergom\|Esztergom]] nevéről, Sturovo említésével is lásd ott.  
