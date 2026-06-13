@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kéz/","title":"Kéz","created":"2023-10-13T02:12","updated":"2026-03-19T17:11"}
+{"dg-publish":true,"permalink":"/K/Kéz/","title":"Kéz","created":"2023-10-13T02:12","updated":"2026-06-13T23:23"}
 ---
 
 
@@ -32,7 +32,7 @@ Ezen a ponton az is érdekes, hogy Pap Gábor adata szerint a kéz a [[L/Lélek\
 
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians c. könyvének (második kötetének) 197. oldalán a török-tatár `qis`, `qiz` = tűz, melegség, vörösség és az ujgur `qis` = tüzes szavakat hozza fel, melyek bővítményes formái persze a [[G/Gazella\|gazella]] és más címnél már taglalva voltak vörös, piros kapcsán.  
 
-Hasonló név lehetne még az etruszk (lemenő) Napisten [[C/Cautha\|Cautha]] neve, de nem bizonyító értékű. Ott, nevénél, [[K/Kutya\|kutya]] is szóba került. Márpedig a kutya az, akinek négy keze vagy négy lába van. A [[N/Négy\|négy]] a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] száma.  
+Hasonló név lehetne még az etruszk (lemenő) Napisten [[C/Cautha\|Cautha]] neve, de nem bizonyító értékű. Ott, nevénél, [[K/Kutya\|kutya]] is szóba került. Márpedig a kutya az, akinek négy keze vagy négy lába van. A [[N/Négy\|négy]] a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] száma.  
 
 A K-Z, K-SZ vázú szavak is a hatalmas K-T szóvázú (melyeket lásd eddig összefoglalva de legalább is említve [[K/KU\|KU]] és [[H/HAT\|HAT]]) szócsoport tagjai. A K-T szóváz kifejezi, hogy minden össze van [[K/Köt\|köt]]ve, minden kapcsolatban áll mindennel.  
 Magyar Adorján Ősműveltség PDF-ének 718. oldaláról származó sorait lásd [[K/Kezd\|kezd]].  
