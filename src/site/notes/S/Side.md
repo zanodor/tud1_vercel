@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Side/","title":"Side","created":"2024-11-05T15:12","updated":"2025-07-12T00:27"}
+{"dg-publish":true,"permalink":"/S/Side/","title":"Side","created":"2024-11-05T15:12","updated":"2026-06-13T23:23"}
 ---
 
 
@@ -30,7 +30,7 @@ Ugyanezen szókapcsolat a latinban `citrà`/`citer`/`cis` = ezen az oldalon (min
 Kevéssé valószínű, de nem lehetetlen, hogy a [[S/SZAG\|SZAG]] címnél taglalt sumér `zag` = oldal a kiinduló.  
 
 [[O/Oldal\|Oldal]] szavunkat azóta ilyen nemzési kontextusban vizsgáltuk is.  
-[[J/Jamb\|Jamb]] címnél az arab `janb` = oldal kapcsán is szóba került a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] csuklópántjain kívül a két napforduló, melyek összekötése az a Tejút(ra fekvő [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]), mely elválasztja a két térfelet.  
+[[J/Jamb\|Jamb]] címnél az arab `janb` = oldal kapcsán is szóba került a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] csuklópántjain kívül a két napforduló, melyek összekötése az a Tejút(ra fekvő [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]), mely elválasztja a két térfelet.  
 Gyakorlatilag a SZET, SZÉT, SZÍT, SZAT, SÜT, SÖT, SUT, SAT szavak alapján ugyanolyan életkör-diagram lehetne alkotható, mint amilyen [[D/Deer\|deer]], [[K/Kut\|kut]] (mely Kut-nak szatemes párja lenne ezen Szat/Szet) és [[M/MISZ\|MISZ]] címnél szerepelt. Side lenne a határoló, ami másutt Ter=Tör, Kat/Kut és Mes volt.  
 
 [[S/Szárny\|Szárny]] címnél volt legutóbb arról szó, hogy az arab szárnyat jelentő szó oldal jelentésre illetve fogalomra vihető vissza, teljesen logikusan. Ez adta az ötletet, hogy a lapp nyelvben is meglévő, itt most csak az angol `side` szóval bemutatott szóalakot a [[S/Sidhe\|sidhe]] címnél említett – a szomorú jelentésű [[S/SAD#Sad 2)\|sad]] szóval és végső soron [[S/Sátán\|Sátán]] sát elemével, valamint az árnyékos sötét oldalra utaló [[S/Shadow\|shadow]] szó gyökével is egyeztethető – sémi sed/séd szóval hasonlítsuk.  
