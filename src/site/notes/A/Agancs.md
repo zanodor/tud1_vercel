@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Agancs/","title":"Agancs","tags":["containscallouts","Englishtexttranslated"],"created":"2026-04-02T03:08","updated":"2026-04-02T03:09"}
+{"dg-publish":true,"permalink":"/A/Agancs/","title":"Agancs","tags":["containscallouts","Englishtexttranslated"],"created":"2026-04-02T03:08","updated":"2026-06-13T23:57"}
 ---
 
 
@@ -36,7 +36,8 @@ Válaszom:
 >> Van a magyar `ék` (cuneus) és `ág` szavunk is. `Ágas` szavunk is ide tartozik; vö. angol `oak` = tölgy, amelynek elágazó ágait a `elk` = jávorszarvas agancsához (magyar `agancs`) hasonlították.  
 >
 > - Az `ağaç` = fa pedig szépen illeszkedik az [[O/Ökör\|ökör]] címnél említett török `öküz` = ökör szóval is, mert az ökör < bika < szarvas. Nem mellékesen ennek kaukázusi neve `tur`, mely a turku/türk név eredetét is adja és az öküz = oguz = törökországi törökök önelnevezése, azaz a törökök kétszeresen is hordozzák a szarvas-istenségtől való leszármazást.
-> - [[O/Ökör\|Ökör]] és [[C/Csudaszarvas\|Csudaszarvas]] címhez is betéve.{ #7k5w4e}
+> - [[O/Ökör\|Ökör]] és [[C/Csudaszarvas\|Csudaszarvas]] címhez is betéve.{ #7k5w4e}
+
 
 
 Az tény viszont, hogy az éji égen keresendő a Csudaszarvas agancsa, így ag = ég, ráadásul ott kellhet az agancsot keresni, ahol a Nap születik.  
@@ -50,7 +51,7 @@ Az tény viszont, hogy az éji égen keresendő a Csudaszarvas agancsa, így ag 
 #### Falk Nóra...
 
 ...réntartásról szóló disszertációjának 51. oldalától sok adatot hoz a rének agancsáról (lásd északi lapp megnevezésekkel a mellékelt képi anyagot is tőle).  
-![assets/Agancs_image1.png\|fix_dark fix_light\|840](/img/user/A/assets/Agancs_image1.png)  
+![assets/Agancs_image1.png|fix_dark fix_light|840](/img/user/A/assets/Agancs_image1.png)  
 Amit főleg a nyelvészetről ír:  
 > A rénszarvasnak nem szarva, hanem agancsa van. A magyar nyelv csupán a nyelvújítás óta különbözteti meg a szarvat és az agancsot. Az 1845-től adatolható agancs szavunk az ág főnév -ancs névszóképzős származéka. A korábbi ágas szarv kifejezést kiszorította a használatból, a szarv azonban sokak számára továbbra is szinonimája maradt. A már korábban is idézett Értelmező szótár szerint a szarv 'páros szaruképződmény', az agancs pedig 'hím szarvasok fején található többágú szarvféle' (EÖRY 2007:1445). Ez utóbbi definíció éppen a rénszarvast hagyja figyelmen kívül, hiszen ez az egyetlen szarvasfaj, melynek nőstényei is növesztenek agancsot. Ugyanezzel a hibával szembesülünk a Magyar értelmező kéziszótár definíciójában ('szarvasfélék hímjének fején évenként újra kinövő szarvszerű, többágú csontos képződmény', ÉKsz 2:8). Legpontosabban a Nagyszótár szócikke fogalmaz: 'szarvasfélék (hímjének) fején növő, többágú csontos képződmény' (Nszt II: 127).  
 > Igaz, a szarv és az agancs között nem az az egyetlen különbség, hogy ez utóbbi [[A/Ágas-bogas\|ágas-bogas]]; a lényegi eltérés abban van, hogy míg a szarv szaru-, addig az agancs csontalapú képződmény − ennek számos következményével együtt. Az üreges szarv a koponyával összenőtt szarvcsapból és az azt körülölelő szaruhüvelyből áll, mely alapjánál folyamatosan nő. Ezzel szemben a tömör agancsot a szarvasfélék, így a rének is évente, különböző tényezők függvényében az ősztől tavaszig terjedő időszakban levetik, majd – normál körülmények között – a nyár folyamán újranövesztik (ITKONEN, T. I. 1948: II. 97).  
@@ -60,7 +61,7 @@ Amit főleg a nyelvészetről ír:
 > A szarvasfélék, ha akkor heréltetnek ki amikor szarvaik fönt vannak ezeket nem vetik el, viszont ha akkor amikor azokat már elveszítették; nem növesztenek többé újakat. Ha pedig csak egyik heréjük vétetik ki, akkor csak a megfelelő oldalon marad meg, illetve nem nől újból szarvuk. Ma már tudjuk, hogy ez a herék hormonkiválasztásával van összefüggésben, amennyiben télen a nemi ösztön nyugvásakor a herék, avagy ezekkel összefüggő mirigyek, olyan hormont termelnek amely a szarvak leválását, és elvetélését, okozza, viszont tavasszal meg olyan hormont amely a szarvak újraképződését, növekedését indítja meg. Föltehető pedig, hogy ez igy érvényes a juh-félékre is.  
 > Ha tehát az ősök mindezt már tudták – láttuk pedig hogy mily nagymérvű ismereteik voltak – akkor elég volt az őskor óriástermetű, egyenesszarvú cigája kosoknak már ezeknek egészen fiatal korában, egyik heréjét kivenniök hogy, a regékben máig is emlegetett egyszarvúakat tetszés szerint állíthassanak elő.  
 
-![assets/Agancs_image2.jpeg\|fix_dark fix_light\|460](/img/user/A/assets/Agancs_image2.jpeg)  
+![assets/Agancs_image2.jpeg|fix_dark fix_light|460](/img/user/A/assets/Agancs_image2.jpeg)  
 
 #### Bakos Attila A Duna Evangéliuma...
 
