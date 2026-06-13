@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2026-05-04T18:04"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2026-06-13T23:41"}
 ---
 
 
@@ -44,7 +44,7 @@ A kérdés, amit [[S/Szellem\|szellem]] címnél feltettünk, itt is feltehető:
 
 Még mielőtt nyomába erednénk a magyar lélekfogalomnak, villantsuk fel egy pillanatra az altáji népek lélek-elképzeléseit. Szerintük egy testben több lélek is lakozik, így megkülönböztetnek tin-lelket (én-lélek, lélegzés-lélek), [[K/Kut\|kut]]-lelket (életerő, elrablása halált okoz), sür-lelket (hasonmás-lélek, amely elválhat a testtől), körmös-lelket (a halott szelleme), ezen belül pedig aru-körmös és gyarman-körmös lelket (a halott jó és rossz szellemét.) \[Ezen adatsor [[K/Körmöc\|Körmöc]] és [[K/Kut\|kut]] címnél is megvolt.\]  
 
-#### Fehér M. Jenő Középkori magyar inkvizíció...  
+#### Fehér M. Jenő Középkori magyar inkvizíció...  
 
 ...című könyvében Körmöc nevű démont és mást is említ a téma kapcsán:  
 > Ugyancsak a sárospataki monstreperben tesznek említést a vádlottak védelmében felszólaló tanúk a "körmöc" nevű démonról az ártékony szellemek sorából (421). Radloff kök-türkök szóelemzésben említi meg ezzel a körmöc szóval kapcsolatban, hogy az altáji népek hiedelemvilágában a szellemet két kategóriába osztották: a töc (másként möc) és Nama nevű szellemekre. Az utóbbinak, vagyis a Nama csoportnak is két változata van, a jó és rosszindulatú, testtől levált lelkek csoportja és a gonoszakat a körmöc gyűjtőnévvel illetik.  
@@ -336,7 +336,8 @@ A [[P/Parázs\|parázs]] par- eleme hasonló a [[P/Por\|por]] és [[P/PUR\|pur]]
 
 ...című tanulmányában finnugor képzetkörből próbál okoskodni:  
 > Ha "leásunk" a [[F/Fa\|fa]] szó etimológiai gyökeréhez, a rokonnépek nyelvében pa, pu, pea, pū, po megfelelőket találunk. Azt látjuk tehát, hogy az ősi fa igen közel esik a por frátria-névhez, mintha belőle képződött volna. Két olyan szavunk van, amely esetleg idevonatkoztatható. Egyik a 'húzóháló úszója' jelentésű `para` (belőle származik a jól ismert nyelvújításkori összetétel: a parafa). A para finnugor megfelelőiből (tutaj, fa-, úszó a húzóhálón) nyelvészeink számára a "vízen úszó fa" eredeti jelentés hámozható ki. A másik szavunk, amelynek lehet valami köze a por frátria-névhez a [[P/Por\|por]] főnév. E szócikknél vogul és finn megfeleléseket találunk, előbbi jelentése 'szemét', utóbbié 'forró hamu, törmelék'. A para szó jelentéséből – 'vízen úszó fa' – egyértelmű, hogy az ősi fa tővel áll kapcsolatban. (A Parne az egyik elképzelés szerint: olyan lény, aki ha vízbe ugrik, nem süllyed el.) De ha a para az ősi fát őrzi, miért ne őrizhetné a por is. A két szó rendelkezésre álló jelentései között van egy konstans értelmezhetőségi lehetőség: olyan fa, amely nincs a helyén. Kidöntötték, vízre fektették, elégették, törmelékké, szemétté tették, már nem él és nem áll. Por és hamu. (Lásd: elporlik.)  
-> Érdekes párhuzam, hogy amikor a [[K/Kalevala\|Kalevalá]]ban isten fája, a [[T/Tölgy\|tölgy]] nem akar megfoganni, feljő egy hős a tengerből, lángra lobbantja a lekaszált füvet, amely elég, utána nagy halom hamu marad. "Száraz por egész egy domb van", – olvassuk az eposzban – ebbe hull bele a [[M/Makk\|makk]], és a csemete kizsendül. Hamu lesz Fő és Fa közös égéséből, lángokban történő egyesüléséből a regében is, de a mitikus hamut semmiképpen sem foghatjuk fel úgy, mintha az eggyé válás eredménye a "semmi" lenne, hanem csak mint a termékeny jövő talaját. Végül: a vogul por megfelelője szemét jelentésű, és a finn hamu alapszavának jelentése is az: szemét. Por és hamu felcserélhető.  { #67vnqk}
+> Érdekes párhuzam, hogy amikor a [[K/Kalevala\|Kalevalá]]ban isten fája, a [[T/Tölgy\|tölgy]] nem akar megfoganni, feljő egy hős a tengerből, lángra lobbantja a lekaszált füvet, amely elég, utána nagy halom hamu marad. "Száraz por egész egy domb van", – olvassuk az eposzban – ebbe hull bele a [[M/Makk\|makk]], és a csemete kizsendül. Hamu lesz Fő és Fa közös égéséből, lángokban történő egyesüléséből a regében is, de a mitikus hamut semmiképpen sem foghatjuk fel úgy, mintha az eggyé válás eredménye a "semmi" lenne, hanem csak mint a termékeny jövő talaját. Végül: a vogul por megfelelője szemét jelentésű, és a finn hamu alapszavának jelentése is az: szemét. Por és hamu felcserélhető.  { #67vnqk}
+
 
 
   
