@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Q/Quetzalcoatl/","title":"Quetzalcoatl","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2024-12-18T11:34","updated":"2026-03-25T02:20"}
+{"dg-publish":true,"permalink":"/Q/Quetzalcoatl/","title":"Quetzalcoatl","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2024-12-18T11:34","updated":"2026-06-13T23:21"}
 ---
 
 
@@ -66,7 +66,7 @@ Lásd még továbbá [[Q/Quetzalcoatl és Huitzilopochtli\|Quetzalcoatl és Huit
 
 #### John Major Jenkins Galactic Alignment...
 
-...című könyvének 26. oldalán azt írja, hogy első azonosítása a [[P/Pleiadok\|Plejádok]]kal történt (pontosabban: a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] pályáját jelöli, mely a május 20-i Nap-Pleiadok együttálláshoz köthető):  
+...című könyvének 26. oldalán azt írja, hogy első azonosítása a [[P/Pleiadok\|Plejádok]]kal történt (pontosabban: a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] pályáját jelöli, mely a május 20-i Nap-Pleiadok együttálláshoz köthető):  
 > Quetzalcoatl first emerged as a deity image at Teotihuacan, and it has been shown that his earliest astronomical association was with the Pleiades. But, I would add, he also had solar attributes, and we might think of him as the Sun and the Pleiades in conjunction. His flight from south to north over the Mesoamerican landscape could be envisioned as his returning to his throne in the zenith center, bathing different regions with his presence as he slowly moved northward. His return was annual (as the Pleiades rose heliacally), but occurred in the zenith throne only in a specific region during a specific era. Perhaps this explains the general northward movement of Mayan culture, from beginnings in the far south at Izapa and Copan, through the latitudes of Peten and Palenque, farther north to Yucatan.  
 > —  
 > Quetzalcoatl először Teotihuacanban jelent meg istenségképként, és kimutatták, hogy legkorábbi csillagászati kapcsolata a Plejádokkal volt. De hozzátenném, hogy naptársadalmi attribútumokkal is rendelkezett, és úgy is gondolhatunk rá, mint a Napra és a Plejádokra együttesen. A mezoamerikai táj fölött délről észak felé tartó repülését úgy is elképzelhetnénk, hogy visszatér a zenit középpontjában lévő trónjára, és lassan észak felé haladva különböző régiókat fürdet meg jelenlétével. Visszatérése éves volt (ahogy a Plejádok heliakus felemelkedése), de a zenit trónján csak egy adott régióban, egy adott korszakban történt meg. Talán ez magyarázza a maja kultúra általános északi irányú mozgását, a messze délen, Izapában és Copanban kezdődő kezdetektől a Peten és Palenque szélességi körén át, északabbra, Yucatánig.  
