@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/H/Horse/","title":"Horse","created":"2024-05-16T01:54","updated":"2026-05-18T23:56"}
+{"dg-publish":true,"permalink":"/H/Horse/","title":"Horse","created":"2024-05-16T01:54","updated":"2026-06-13T23:24"}
 ---
 
 
 # Horse
 
 [[L/Ló\|Ló]]. [[G/Gyors\|Gyors]] szavunkból eredeztetése látszik elsőre kézenfekvőnek.  
+> [!fail] &nbsp;
+> Amúgy [ezen](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/%E1%B8%B1ers-) PIE gyökhöz nem teszik be a lovat, mert nem jutottak el Adelungig...
+
 A CzF szótárban találjuk a megfejtést:  
 > A ló, mint általán igen haszonvehető állat, különösen pedig mint a magyar népnek ős időktől még a régi hunnoktól fogva kedvencze, nagy szerepet viszen nyelvünkben mind szótárilag és közmondatokban, mind költőileg véve.  
 > Már Adelung jól vette észre, hogy a ló több népek nyelvén kitünő gyorsaságától kapta nevét. Így a német: [[R/Ross\|ross]] régiesen: `ors`, `hors`, az angolban ma is: `horse` Adelung szerént rokon a német `hurtig`, `Hirsch` szókkal; tehát a magyar poroszka, gyors, borbát szókkal is. Rokonok továbbá értelemben a latin `equus`, äoliai hellen `ikkoV` (melyből `ippoV` is módosultnak látszik), lithván `aihvus`, szanszkrit `açvas`, `açvá`, melyekben Benfey szerént alapfogalom a gyorsaság, innen a szanszkrit `açu` (= gyors, sebes), latin `acer`, hellen `wkknV` stb. Adelung pedig a görög `ippoV` és német `hüpfen` szókat is egy származásuaknak tartja.  
@@ -18,7 +21,7 @@ A `rush` angol ige majd ezen új formán keresztül jön létre belső fejlődé
 Azonban le lehet(ett volna) vezetni abból a sumer `assa` = ló szóból is, mely az [[A/Ass\|ass]] = szamár szó megfejtését adta.  
 Hehezettel és r vendéghanggal toldva eljuthatunk a horse szóhoz. De ez már csak megint játék a szavakkal.  
 
-Csak elrettentésül közlöm a horse szó indo-európai etimológiáját (sok különböző magyar szót bele tudtak zsúfolni; ennél már csak az indo-európai kutyát jelentő szó megoldása cifrább, \*kwon alá minden indo-európai szót képesek voltak bepréselni).  
+Csak elrettentésül közlöm a horse szó indo-európai etimológiáját (sok különböző magyar szót bele tudtak zsúfolni; ennél már csak az indo-európai kutyát jelentő szó megoldása cifrább, \*[kwon](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/%E1%B8%B1w%E1%B9%93) alá minden indo-európai szót képesek voltak bepréselni).  
 ![assets/Horse_image1.png|fix_dark fix_light|840](/img/user/H/assets/Horse_image1.png)  
 
 Valójában úgy tűnik, hogy az eredete ugyanaz, mint az arab `faraz` = (kanca)ló szónak és végül is a Tejút lóalakjára utal: a [[P/Parázs\|parázs]], [[P/Parád\|Parád]] ([[P/Párd\|párd]] címnél is volt szó lovakról, nemcsak párducról és gepárdról) a kiinduló alapfogalom, melyből P>F>(V)>H vonalon lett h-előhangos szó. Ezek szerint a [[G/Gyors\|gyors]] szavunkkal való azonossága véletlen és a hasonlóság csak abban rejlik, hogy a [[K/Kör\|kör]] és körben [[J/Jár\|jár]]ás fogalmaiban mind megvan az [[A/AR, ÁR\|AR, ÁR]] alapszó.  
