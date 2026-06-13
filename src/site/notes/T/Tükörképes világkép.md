@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tükörképes világkép/","title":"Tükörképes világkép","tags":["containscallouts"],"created":"2026-04-01T14:14","updated":"2026-04-06T16:43"}
+{"dg-publish":true,"permalink":"/T/Tükörképes világkép/","title":"Tükörképes világkép","tags":["containscallouts"],"created":"2026-04-01T14:14","updated":"2026-06-13T23:23"}
 ---
 
 
@@ -36,7 +36,7 @@ Amikor tehát...
 ...című könyvében írja:  
 > Az uráli népek északi lakhelyüknél fogva, ahol a Sarkcsillag a zenithez közel ragyog, az ekliptika pedig alig válik el a horizonttól, az eget alulnézetben ábrázolták. Dobjaik olyan egyszerűsített égtérképként írhatók le, melyek az északi égboltot a látvány, a délit az ellentétpárokra épülő gondolkodásmódnak megfelelően annak tükörképeként jelenítik meg. (Ezzel szemben, a tőlük délebbre lakó altaji népek az eget oldalnézetben ábrázolták.)  
 
-Ipolyi Arnold könyvének 158. oldalán szól a Délibábbal kapcsolatos békési regéről, ahol biz. Csörsz (megszemélyesítve mint avar király) neve jön elő. Ahogy [[C/CSÁR\|CSÁR]] címnél is írtuk, amit Ipolyi Arnold nem vett észre, hogy Csörsz (Csűrsz, Csavarsz) név a [[K/Keresztre feszített Nap\|keresztre feszített Nap]]ot hordozó Tejútra, annak forgására utalhat. A délibábbal való kapcsolatbahozatalát úgy lehet értelmezni, hogy ahogy a Tejút két egymással ellentétes [[F/Félév\|félév]]re bontja a Nagy és Kis Évet, úgy a délibáb, egyfajta tükörképként fejjel lefelé állítja a valóságot.  
+Ipolyi Arnold könyvének 158. oldalán szól a Délibábbal kapcsolatos békési regéről, ahol biz. Csörsz (megszemélyesítve mint avar király) neve jön elő. Ahogy [[C/CSÁR\|CSÁR]] címnél is írtuk, amit Ipolyi Arnold nem vett észre, hogy Csörsz (Csűrsz, Csavarsz) név a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]]ot hordozó Tejútra, annak forgására utalhat. A délibábbal való kapcsolatbahozatalát úgy lehet értelmezni, hogy ahogy a Tejút két egymással ellentétes [[F/Félév\|félév]]re bontja a Nagy és Kis Évet, úgy a délibáb, egyfajta tükörképként fejjel lefelé állítja a valóságot.  
 
 [[A/Arkadash\|Arkadash]] és [[S/Szómegfordítás\|szómegfordítás]] címnél a [[B/Bal és jobb\|bal és jobb]] és [[F/Fehér és fekete\|fehér és fekete]] címnél is taglalt [[T/Tükörképes világkép\|tükörképes világkép]] fogalmáról és annak nyelvben formákban megmutatkozó "hatásairól" volt szó. Mindenképpen érdemes elolvasni, hiszen erre a [[L/Lemniszkáta\|lemniszkáta]] címnél is taglalt képre épülnek az [[E/Ellentétes értelmek\|ellentétes értelmek]], [[D/Dialektikus ellentét\|dialektikus ellentét]], [[H/Hunor és Magor\|Hunor és Magor]] és [[F/Fény és sötétség\|fény és sötétség]] címnél taglalt témák is.  
 
