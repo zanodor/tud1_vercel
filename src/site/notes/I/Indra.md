@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Indra/","title":"Indra","tags":["Englishtexttranslated"],"created":"2023-11-10T07:33","updated":"2026-04-17T22:48"}
+{"dg-publish":true,"permalink":"/I/Indra/","title":"Indra","tags":["Englishtexttranslated"],"created":"2023-11-10T07:33","updated":"2026-06-13T23:21"}
 ---
 
 
@@ -72,7 +72,7 @@ Indra másutt is előjön kutyával azonosítva, kutyabarátként (sőt, [[D/Dha
 Furcsamód Indra büntetve lett Vrirtra megöléséért és az igaztalanok farkasokhoz dobásáért. Azért furcsa, mert [[S/Smoke\|smoke]] címnél írtuk, ezen igaztalanok, az Arurmagha-k – Avesztában Ashemaogha-ok – ősmag(ar)ok lehettek.  
 
 [[A/Agni\|Agni]] címnél is szerepeltek az alábbiak:  
-Acharia S Suns of God című könyvében is kitér Agni (ha nem is napfordulós-napéjegyenlőségi szerepköre kapcsán) [[K/Keresztre feszített Nap\|keresztre feszített Nap]]minőségre és a szintén Szíriusszal kapcsolatba hozható Indra keresztrefeszítésére is:  
+Acharia S Suns of God című könyvében is kitér Agni (ha nem is napfordulós-napéjegyenlőségi szerepköre kapcsán) [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]]minőségre és a szintén Szíriusszal kapcsolatba hozható Indra keresztre feszítésére is:  
 > As can be seen, the charges of plagiarism by the Indians of Christian concepts are unsustainable, and we are left with Indian images of crucified gods, at least some of which likely represent Krishna. Another Indian god depicted in cruciform is Agni, the fire and sun god who so resembled both Krishna and Christ, yet whose story dates to the earliest Vedic period, well over a thousand years before Christianity was created. Also interchangeable with Wittoba and Krishna is the solar hero Indra, who, as noted, was frequently portrayed as crucified as well.  
 > —  
 > Mint látható, a keresztény fogalmak indiaiak általi plagizálásának vádja tarthatatlan, és maradnak a keresztre feszített istenek indiai képei, amelyek közül legalábbis néhány valószínűleg Krisnát ábrázolja. Egy másik kereszt alakban ábrázolt indiai isten Agni, a tűz- és napisten, aki annyira hasonlított Krisnára és Krisztusra is, akinek története azonban a legkorábbi védikus korszakból származik, jóval több mint ezer évvel a kereszténység létrejötte előtt. Ugyancsak felcserélhető Wittobával és Krisnával a naphős Indra, akit, mint említettük, szintén gyakran ábrázoltak keresztre feszítve.  
@@ -82,7 +82,7 @@ A Szaturnusszal azonosított indiai [[K/Kála\|Kála]]-val kapcsolatosan sokatmo
 "Sok ezer Indrát és más istenséget győzött már le Kála a világkorszakok során."  
 Ez arra látszik utalni, hogy sok 60 éves ciklusokban számolt idő telt el, mely alatt a Szíriusz és a Nap egymás körött elhaladt. Egyfajta utalás is arra, hogy a Jupiter-Szaturnusz Hatalmas Együttállásokat használták annak kiszámítására, mikor lesz Szíriusszal találkozó. Erről [[B/Betlehemi csillag\|Betlehemi csillag]] címnél is volt szó.  
 
-Mivel Indra tehát Nap- és Égistennek is felfogott, így viharisten is volt, valamint nevében (és perzsa párjának, [[A/Andra\|Andra]]-nak nevében) Dra nemcsak Csilagot, hanem fát (és így tölgyet) is jelent, érthetővé válik, miért ábrázolták volna (a szintén napisteni szerepkörben is számon tartott [[S/Széth\|Széth]]-hez hasonlóan; emlékezünk Széth [[F/Furka\|furká]]jára) szintén keresztrefeszítve. Mivel a Nap Nagy Évbeni keresztrefeszítése a Szíriusz-rendszerhez kötődik, így lehet, hogy [[S/Sarama\|Sarama]] fia és ura is egyben.  
+Mivel Indra tehát Nap- és Égistennek is felfogott, így viharisten is volt, valamint nevében (és perzsa párjának, [[A/Andra\|Andra]]-nak nevében) Dra nemcsak Csilagot, hanem fát (és így tölgyet) is jelent, érthetővé válik, miért ábrázolták volna (a szintén napisteni szerepkörben is számon tartott [[S/Széth\|Széth]]-hez hasonlóan; emlékezünk Széth [[F/Furka\|furká]]jára) szintén keresztrefeszítve. Mivel a Nap Nagy Évbeni keresztre feszítése a Szíriusz-rendszerhez kötődik, így lehet, hogy [[S/Sarama\|Sarama]] fia és ura is egyben.  
 
 Bakos Attila A Duna Evangéliuma című könyvének 222. oldalán az egyiptomi Ra nevéből kiindulva Ind-Ra-nak olvassa, majd a szemekkel beborított bőrűsége kapcsán Indra nevének képírási olvasataként Szem-Úr értelmet ad neki, de ahogy fentebb láttuk, nem tudja eldönteni, hogy Napistent, vagy Nimrud-Oriont kell-e inkább látni benne.  
 
