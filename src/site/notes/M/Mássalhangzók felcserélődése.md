@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-06-12T22:44"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-06-13T23:20"}
 ---
 
 
@@ -19,7 +19,7 @@ Ahogy [[F/Flexió#Magyar hajlítás mint nyelvünk szavainak alapképessége\|fl
 ...című a Dobogó című újság 2011. 3-4. számában megjelent cikkében írott passzusa. Ami ide tehető:  
 > Az egyik hangzó-kategóriából a másikba való átfordulást – egyfajta "kuplung"-szerepkörben – az "ipszilonos" mássalhangzók (Ly, Ty, Gy, Ny) biztosítják, továbbá hogy hasonló szerepet játszik a "sziszegősök" esetében – bár "ipszilon" nélkül – a Dzs hang. A két "szélső" hangzóbokorból, a legzártabb legstabilabb "pöfögősből" és a legnyitottabb, legmobilisabb "sziszegősből" csak korlátozott mértékben lehet átbillenni másik bokrokba. A "sziszegős" Dzs csak a "köhögős" Gy felé enged átváltódnunk, a "pöfögősök" esetében pedig \[...\]  
 
-Itt nem fejezi be, de arra utal, hogy a "jeles" L hang a "pöfögős" V hang felé váltott (lásd általam leszólt [[L/Lengyel\|lengyel]] címnél írt témáját, melyet az [[I/Iván\|Iván]] névnél is alkalmaz), de ezt én nem tartom olyannak, ami az ősiségben a magyarok nyelvében szempont lehetett volna; igaz, L>LY = J = V/W úton eljuthatunk hozzá.  
+Itt nem fejezi be, de arra utal, hogy a "jeles" L hang a "pöfögős" V hang felé váltott (lásd általam leszólt [[L/Lengyel\|lengyel]] címnél írt témáját, melyet az [[I/Iván\|Iván]] névnél is alkalmaz), de ezt én nem tartom olyannak, ami az ősiségben a magyarok nyelvében szempont lehetett volna; igaz, L>LY = J = V/W úton eljuthatunk hozzá.
 
 <!--section: 3-->
 ## Szabályos és szabálytalan mássalhangzó-változások
@@ -45,7 +45,7 @@ A legfontosabb, önmagába kígyóként farkába harapó, cirkuláris hangfejlő
 > ...sőt, ismerve a h és sz hangok gyakori hangcsere jelenségét, észrevehetjük, miszerint az olasz-francia-német `sala`, `salone`, `Saal` szó sem más mint [[O/Ól\|ól]], `hol` ős-szavunk egyik (de szarmata őstörzsünk szócsoportjabeli) származéka.  
 
 A `sajka` is például angolban `hulk`, ahol a hivatalos etimológia is említi azt a görög `holkasz` szót, melyet Aczél József a szókezdő sz h-ra változása kapcsán említ (vagy őnála inkább fordítva lehetett).  
-Az sz>h mássalhangzó-csere gyakorisága miatt `szer` és főképpen `szörp` szavunk tűnik megfejtésnek `herb` szóra.  
+Az sz>h mássalhangzó-csere gyakorisága miatt `szer` és főképpen `szörp` szavunk tűnik megfejtésnek `herb` szóra.
 
 <!--section: 7-->
 #### A Czuczor-Fogarasi szótár adata:
@@ -66,10 +66,10 @@ S>D hangváltás ékes példája a `sárkány` > `dragon` szóváltozás, de `dr
 
 CS>D ill. CS>TH mássalhangzó-változás is lehetséges, ahogy [[T/Tooth\|tooth]] (csont) és [[D/Drop\|drop]] (csöpp) szavaknál láttuk. De amennyiben a görög eredetű skytha valóban csuda szavunkból eredne, akkor ez lenne a leginkább szemléltető példa.  
 
-SZ>T változásról [[T/Temise\|Temise]] és [[T/Tamás\|Tamás]] neveknél is volt szó.  
+SZ>T változásról [[T/Temise\|Temise]] és [[T/Tamás\|Tamás]] neveknél is volt szó.
 
 <!--section: 8-->
-#### Magyar Adorján írja:  
+#### Magyar Adorján írja:
 
 <!--section: 8.1-->
 > A nyelvészek előtt ismeretes, hogy a sziszegő hangok (sz, s, z, zs, cs) igen könnyen változnak t vagy d hanggá, úgyhogy a tem szócsoportot a szem szócsoporttal tulajdonképen azonosnak vehetjük.  
@@ -107,7 +107,7 @@ A másik hasonló, de kevésbé ide illő eset ND>MP változás, vagy ennek ford
 
 Götz László Keleten kél a Nap című könyvének idetehető adatsorát lásd [[O/Orrhang#^g30c9f\|orrhangosítás]] címnél.  
 
-[[F/Félelem#Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú\|Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú]] cím/alcímnél volt szó a rokon ideák mögötti szavakról és írásmódjukról ([[G/Gg\|gg]], ng és más mássalhangzópárokról).  
+[[F/Félelem#Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú\|Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú]] cím/alcímnél volt szó a rokon ideák mögötti szavakról és írásmódjukról ([[G/Gg\|gg]], ng és más mássalhangzópárokról).
 
 <!--section: 10-->
 ### R-L-N váltás
@@ -129,13 +129,13 @@ Másutt is láttunk hasonló esetet: az [[A/Apocalypse\|apocalypse]] utótagja, 
 
 Götz László Keleten kél a Nap című könyvében még korábban, a 128. oldalon szól a nyelvészet által ismert R>L>N váltásról.  
 L>N ill. N > L váltásra példa a [[C/Comrade\|comrade]] címnél taglalt Hunor > Khamor > latin `gemellus` > `geminus` = iker és az [[A/Animal\|animal]] címnél látott anima > alma.  
-N>L változást említ Záhonyi András: szerinte a sumér `dingir` Inanna Tündér Ilona nevéből származna. [[D/Dal\|Dal]] címnél is volt szó arról, hogy esetleg a dan(a)-ból lett dal (`danol` = `dalol`).  
+N>L változást említ Záhonyi András: szerinte a sumér `dingir` Inanna Tündér Ilona nevéből származna. [[D/Dal\|Dal]] címnél is volt szó arról, hogy esetleg a dan(a)-ból lett dal (`danol` = `dalol`).
 
 <!--section: 11-->
 ### F, V, B, P hangok gyakori cseréje
 
 <!--section: 11.1-->
-Egy másik leginkább előforduló hangfejlődés az F, V, B és P hangok közötti; úgy tűnik, nincsenek annyira kötött szabályok arra nézve, hogy mi cserélődhet mire[^1]. Az általánosságban elmondható, hogy egyes nyelvekben már/még nincs f vagy v hang, főleg a szó elején (a latinban van mindkettő), illetve hogy a könnyedebb kiejtés miatt változnak a hangok.  
+Egy másik leginkább előforduló hangfejlődés az F, V, B és P hangok közötti; úgy tűnik, nincsenek annyira kötött szabályok arra nézve, hogy mi cserélődhet mire[^1]. Az általánosságban elmondható, hogy egyes nyelvekben már/még nincs f vagy v hang, főleg a szó elején (a latinban van mindkettő), illetve hogy a könnyedebb kiejtés miatt változnak a hangok.
 
 <!--section: 12-->
 #### Robert Graves írja:
@@ -152,7 +152,7 @@ Péterfai János a V-F egyezésről írja:
 > A Lu alapjelentése Fény, ami miatt a Lú nevű emberek a Fény emberei, akik megszelídítették a lovakat, majd később a négylábú (Equus) is felvette a Fény – Ló nevet. Kis-Ázsiában, egyik centrális hazánkban élt a Luwi, másként Luwijai nép, Solymos tartománytól északkeletre. Ők a Lúfi, vagy Lúfijai nép, akiknek nevében a Lófia 3.000 évnél régebben már megjelenik. Akit zavar a W-F cserélődés, ejtse ki saját száján a névalakokat.  
 
 A V és B hangok kapcsán annyit, hogy a héberben ezen betűk (Vet/Bet) egynek számíttatnak és csak a nyelvtan és a kiejtés dönti el, hogyan kerülnek kifejezésre. Például [[L/Lulab\|lulab]] mellett `lulav` is helyes, [[C/Caleb\|Caleb]] pedig Kelev is lehet.  
-A görög nyelvben is találunk B/V változatokat és a [[V/Való\|való]] címnél említett spanyol `vale` = rendben is b-vel ejtettnek hangzik.  
+A görög nyelvben is találunk B/V változatokat és a [[V/Való\|való]] címnél említett spanyol `vale` = rendben is b-vel ejtettnek hangzik.
 
 <!--section: 13-->
 ## Egyebek ömlesztve
@@ -170,13 +170,13 @@ P>M változás könnyen végbemegy, ajakhangok lévén. [[M/Madár\|Madár]] cí
 V>L. Az l és v hangok a szók elején, közepén, és végén tájdivat szerént fölcseréltetnek, mint: lépik vépik, lápa vápa, kilül kivül, belül bevül, fel palóczosan feü, fev, al, au, av, stb. \[CzF\]  
 L-V mássalhangzó-változás előjött vibrate szónál, és előfordult például CzF által is említett vép-lép szavakban. Lék helyen írja még: székelyesen vék, mint lép vép, láz váz, lápa vápa stb. Lásd még [[L/L#Lengyel és orosz ł\|lengyel ł]] témát.  
 
-NY>J változás teljesen elképzelhető. A török `yilan` = kígyó könnyen nyíl szavunkból eredhet, de volt szó [[J/Jón\|jón]] címnél proto-mongol adatról, ahol könnyen NY>J változás jöhetett létre.  
+NY>J változás teljesen elképzelhető. A török `yilan` = kígyó könnyen nyíl szavunkból eredhet, de volt szó [[J/Jón\|jón]] címnél proto-mongol adatról, ahol könnyen NY>J változás jöhetett létre.
 
 <!--section: 14-->
 ### Akusztikai-percepciós (észlelési) változások
 
 <!--section: 15-->
-#### B-D-G mássalhangzók változásai  
+#### B-D-G mássalhangzók változásai
 
 <!--section: 15.1-->
 A g egészen más helyen képzett hang, mint a másik kettő, mégis, mintha a magyarban találnánk meg a legszemléletesebb példát, a [[G/Gömb\|gömb]] és [[D/Domb\|domb]] szavaink hangalaki és fogalmi párhuzama révén.  
@@ -186,7 +186,7 @@ A g egészen más helyen képzett hang, mint a másik kettő, mégis, mintha a m
 
 
 
-Egyébként ezek voltak azok a hangok, melyeket [[O/Orrhang\|orrhang]]os [[H/Hungár\|hungár]] és más neveink ([[E/Ember\|ember]], [[A/Andor\|Andor]], stb.) kapcsán úgy említettem, hogy nehéz eldönteni, hogy az n/m hangok a betoldások, vagy ezek.  
+Egyébként ezek voltak azok a hangok, melyeket [[O/Orrhang\|orrhang]]os [[H/Hungár\|hungár]] és más neveink ([[E/Ember\|ember]], [[A/Andor\|Andor]], stb.) kapcsán úgy említettem, hogy nehéz eldönteni, hogy az n/m hangok a betoldások, vagy ezek.
 
 <!--section: 16-->
 #### Götz László Keleten kél a Nap...
@@ -224,7 +224,7 @@ A kelta-ír `barantas` = garancia. A G>B változás hasonló az ugorka – ubork
 Az [alábbi](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/g%CA%B7elH-) PIE gyök alatt szerepeltetett indoeurópai szavak tömkelegét látjuk; náluk minden belefér, akármilyen hangtörvényekre való hivatkozással. 
 
 D>G változásra példa: Víg szavunk régiesen víd volt, CzF szótár szerint. (A közös a két hangban, hogy gy-re lágyul mindkettő.)  
-[[A/Ashmog\|Ashmog]] címnél is előjött d hang g helyett.  
+[[A/Ashmog\|Ashmog]] címnél is előjött d hang g helyett.
 
 <!--section: 17-->
 #### G>V, V>G, G>W/Y és rokon átmenetek
@@ -241,7 +241,7 @@ A legszemléletesebb példa `hogy` > `how`.
 
 V>G szabálytalan változásra példa még `szivar` > `cigar`. A dán főváros Kobenhavn neve a magyarban Koppenhága, g-vel ismét.  
 
-Götz László Keleten kél a Nap című könyvének 154. oldalán ír a [[H/Hangátvetés\|metatézis]] (hangok, szótagok megfordulása) jelenségéről. Oda került ami ide tehető lett volna.  
+Götz László Keleten kél a Nap című könyvének 154. oldalán ír a [[H/Hangátvetés\|metatézis]] (hangok, szótagok megfordulása) jelenségéről. Oda került ami ide tehető lett volna.
 
 <!--section: 18-->
 ### Szabálytalan/vitatott/nem besorolható és egyéb esetek
@@ -268,15 +268,15 @@ F>SZ változással próbálkoztunk swing fing-ból való levezetésével (bár l
 F>SZ változással fik-ből lehetne a török szik-mek (basz-ni), de valószínűbben `SZIK` = Nap hímségi princípiumot kell látni benne.  
 
 G>GY>TY>T hangfejlődést láttunk sok esetekben, például lúg szavunk dánul `lud`, svédül `lut`. De lötty, laty-ak, lucs, locs szavunk is a nőiségi lák, luk, valamint hímségi (kb.) lúk szócsoportjába tartozik, éppily fejlődéssel.  
-G>T szabálytalan mássalhangzó-változásra is akad példa a magyarban: régies sőg-ből így lesz sőt, esmeg-ből ismét, CzF szótár adata szerint.  
+G>T szabálytalan mássalhangzó-változásra is akad példa a magyarban: régies sőg-ből így lesz sőt, esmeg-ből ismét, CzF szótár adata szerint.
 
 <!--section: 19-->
-#### Timaru-Kast Sándor írja:  
+#### Timaru-Kast Sándor írja:
 
 <!--section: 19.1-->
 > Vannak esetek, mikor a kemény G illetve K hang áthelyeződik a valamivel puhább szájpadi hangok képzési helyére, és ekkor D-, illetve T-nek lesz kiejtve: a kisgyerek is ezt teszi, mikor még az íny- (toroki-) hangok (másképpen a gégehangok) kiejtésére nem képes, és ezt csodálatra méltó ügyességgel oldja meg, azaz a felnőttek beszédével szembeni fejlődési hátrányát "cselesen" leplezi.  
 
-Götz László Keleten kél a Nap című könyvének 152. oldalán hangkereszteződés és polarizáció témában szól erről; a veláris->dentális G-D és K-T változással kapcsolatban felhozza, hogy az angol `clear` tlear-nek, `glory` pedig dlear-nek hangzik.  
+Götz László Keleten kél a Nap című könyvének 152. oldalán hangkereszteződés és polarizáció témában szól erről; a veláris->dentális G-D és K-T változással kapcsolatban felhozza, hogy az angol `clear` \*tlear-nek, `glory` pedig \*dlear-nek hangzik.  
 
 Götz szól az orosz nyelvben előforduló szókezdő TH > F-re alakulásáról; theta > fita, Thomas > Foma, stb.  
 
@@ -299,9 +299,9 @@ F>H átmenet az előbbi megfordítása. Lásd `fiú` szavunk (akár a latin `fil
 Vagy ott van a nemrég felvetett Winter – Hunter és a [[W/Wing\|wing]] címnél említett ónorvég `vængr` = szárny kapcsán megfogalmazott Venger – Hungár kapcsolat. Lehet-e ezeket komolyan venni? A kérdés tehát lényegében az, hogy a Hun lehet-e azonos Fén-nel, Vén-nel. Hiszen azt az [[A/A\|A]] címnél álló MindMap-en is látjuk, hogy az An, Án ill. En szócskára épülő, ilyen-olyan előhangos, akár fog- akár torokhangos szavak lényegében megegyeznek jelentésüket tekintve. De úgy is mondhatjuk, hogy HU és KU = fény alapjelentésükből kiindulva is lehet Hun = fény (háza) értelmű.  
 (Azt se felejtsük el, hogy mind a KAN (kony, kány, KUN) jelenthet véget, farkat, ahogy PEN/FEN is jelenthet ilyen (kutya) farkát, de mint [[F/Fin\|fin]], [[F/Finger\|finger]] és [[W/Wing\|wing]] szavaknál láttuk, más, a testből kiálló nyúlványt nevét is adhatja.)  
 
-D>H változás lehetősége is fennáll, D>Th>H fejlődési sorrendben. Pl. `medico` szót a spanyolban majdnem mehiko-nak hallani.  
+D>H változás lehetősége is fennáll, D>Th>H fejlődési sorrendben. Pl. `medico` szót a spanyolban majdnem \*mehiko-nak hallani.  
 
-D>L mássalhangzó-váltásra (lambdacizmus: dentális stopból likvidává változás) egy példa a latin `dingua` (nyelv a szájban) és `lingua` (beszélt nyelv). (Mivel [[L/Language\|language]] [[L/Láng\|láng]]gal hozatott kapcsolatba, ez nem lesz jó példa.)  
+D>L mássalhangzó-váltásra (lambdacizmus: dentális stopból likvidává változás) egy példa a latin `dingua` (nyelv a szájban) és `lingua` (beszélt nyelv).   
 Efféle változásról illetve hasonló esetekről másutt elvétve volt szó, például [[A/Alder\|alder]] címnél, de legutóbb a magyar nyelvben is találtam ilyet, ha erről van szó. Ugyanis a `medence` és a `melence` mindkettő nőiségi vályu/teknő forma, efféle fogalom.  
 Hasonló eset állhat fenn a sziú indiánok nyelvében: a dakota `khodá` = barát és lakota `kola` = barát szavak egymás párjai.  
 
@@ -321,27 +321,31 @@ R>Z változásról írja Timaru-Kast Sándor:
 > Az R>Z hangcserét "törökösnek" hívják a nyelvészetben. Az ír nyelv két típusú R hangot ismer: egy szájpadi, kemény R hangot, mint például a FUARA-igh – fázni, hideget csinálni, közömbössé válni (FÁZ-ni, elFÁS-ul-ni) értelmű – szóban, és egy toroki (ínyképzésű) lágy RZS hangot – mint az IRIS \[irzses\] újság, hírlap, közlemény (ÍRÁS) értelmű szóban.  
 - Megvan a cseh nyelvben is: Jiri kiejtése Jirzsi.
 
-A témáról Fáy Elek A magyarok őshona című könyvének 192. oldalán is szól.  
+A témáról Fáy Elek A magyarok őshona című könyvének 192. oldalán is szól.
 
 <!--section: 20-->
-#### Péterfai János adata:  
+#### Péterfai János adata:
 
 <!--section: 20.1-->
-> A harmadik fiú neve Dengizik, szintén színmagyar szóösszetétel. Den-Gir-Ik a helyes megoldás, a névben R – Z hangfejlődés ismerhető fel. Az R hang sok nyelvben fejlődhet Z hangra. Ogurból szabályosan ered az [[O/Oguz\|oguz]], R>Z hangfejlődéssel.  
+> A harmadik fiú neve Dengizik, szintén színmagyar szóösszetétel. Den-Gir-Ik a helyes megoldás, a névben R – Z hangfejlődés ismerhető fel. Az R hang sok nyelvben fejlődhet Z hangra. Ogurból szabályosan ered az [[O/Oguz\|Oguz]], R>Z hangfejlődéssel.  
 
 Másutt kínai példát mutat be:  
 > Mindössze 410 eltérően hangzó szótag van ma a hivatalos kínai nyelvben, a szótagoknak önálló jelentése van, mint a magyarban. A kínai írásjegyeket igyekeztek ábécébe is önteni, a hivatalos mai átírás a Pinjin. De a betűi nem azonosak az európai kiejtésekkel, R jele Zs például. Az R változhat Z, majd Zs irányba, de a Pinjin alig pár évtizedes írás, ezért mutatja meg az eredeti hangzást.  
 > Az Ember Ren, [jele](https://en.wiktionary.org/wiki/%E4%BA%BA) az A betűhöz hasonló. A Ren - \[[ejtve](https://dictionary.writtenchinese.com/#sk=ren2&svt=pinyin)\] Zen, Zsen az Ég egyik magyar neve, ami miatt úgy gondolom, a kínaiak is az Embert az Égből származtatják. Ezt mondja a Ren. A Nap Rir, ami Zsizs ejtésű.  
 
-[[D/Dzsingisz kán\|Dzsingisz kán]] címnél szóba került a [[G/GIR\|GIR]] = gyermek jelentése és a törökös R>Z váltás, mely a [[M/Magyar\|magyar]] címnél említett tuareg (még a tuareg és török szavak is hasonlóak) szó alapján nem török jellegzetesség. Akár a sumér időben is meglehetett. Ilyenképpen a Gir = gyerek és `Gis` = kis fogalmak megfelelnek egymásnak. Ahogy Péterfai János írja (nem sumér R>Z váltással kapcsolatban):  
+[[D/Dzsingisz kán\|Dzsingisz kán]] címnél szóba került a [[G/GIR\|GIR]] = gyermek jelentése és a törökös R>Z váltás, mely a [[M/Magyar\|magyar]] címnél említett tuareg szó alapján nem török jellegzetesség. Akár a sumér időben is meglehetett. Ilyenképpen a Gir = gyerek és `Gis` = kis fogalmak megfelelnek egymásnak. Ahogy Péterfai János írja (nem sumér R>Z váltással kapcsolatban):  
 > A Gir szó R hangja Z kiejtésűvé vált, a Giz, vagy Gisz tehát a Gir szóból ered, jelentése Gyerek.  
+
+Viszont ahogy [[R/R#Rotacizmus\|rotacizmus]] cím/alcímnél is szerepelt, nagy ellenszél uralkodik: a sumér és csuvas nyelvekre jellemző r hangot akarják Clausonra is hivatkozva későbbi fejleménynek tartani.
+{ #260613}
+
 
 <!--section: 21-->
 #### Czeglédi Katalin A keleti magyar sezserék nyelvi tanulságai...
 
 <!--section: 21.1-->
-...című az Ősi Gyökér 2007/4. sz. megjelent cikkében (kétfajta névanyag összehasonlítása kapcsán) írja:  
-> Az -r- és -z- szembenállásnak pedig az a magyarázata, hogy a cirill betűs változat a két hang (-r-, -z-) közvetlen elődjének (-δ-: interdentális zöngés spiráns) egy másik, nem -r-, hanem -z- fejleményét őrzi. A jelenlegi tudományos álláspont szerint ezt a rotacizmus és a zetacizmus jelenségének nevezik. Az előbbit a bolgár ill. a csuvasos típusú nyelvek jellemzőjének, az utóbbit a köztörök nyelvek egyik megkülönböztető jegyének tartják.  
+...című az Ősi Gyökér 2007/4. sz. megjelent cikkében írja:  
+> Az -r- és -z- szembenállásnak pedig az a magyarázata, hogy a cirill betűs változat a két hang (-r-, -z-) közvetlen elődjének (-δ-: interdentális zöngés spiráns) egy másik, nem -r-, hanem -z- fejleményét őrzi. A jelenlegi tudományos álláspont szerint ezt a rotacizmus és a zetacizmus jelenségének nevezik. Az előbbit a bolgár ill. a csuvasos típusú nyelvek jellemzőjének, az utóbbit a köztörök nyelvek egyik megkülönböztető jegyének tartják.
 
 <!--section: 22-->
 #### Götz László Keleten kél a Nap...
@@ -358,7 +362,7 @@ R>ZS/DZS változásról ...
 ...című dolgozatában írja:  
 > A kínai forrásokban a hunok neve az i.e. 11. század előtt "rong", illetve "zsong" (dzsong) volt (a kínaiak az "r" hangot nem tudván kiejteni, rendszerint zs vagy dzs hanggal igyekeztek pótolni).  
 
-R>K/KH/G változás vajon működhet-e? Péterfai János írja, hogy Tuareg rokonainknál a Majegh, olvasata Majer, Szabad Ember, Nemes, Nagyúr értelmű.  
+R>K/KH/G változás vajon működhet-e? Péterfai János írja, hogy Tuareg rokonainknál a Majegh, olvasata Majer, Szabad Ember, Nemes, Nagyúr értelmű.
 
 <!--section: 24-->
 #### Oláh Imre A Nimrud hagyomány...
@@ -369,7 +373,7 @@ R>K/KH/G változás vajon működhet-e? Péterfai János írja, hogy Tuareg roko
 
 Ezzel kapcsolatban annyi megjegyzésem hadd legyen, hogy a tuareg és török \[milyen hasonló nevek\] nyelvekben az [ezen](https://qr.ae/pN2kOQ) több helyen idézett Quora válaszban leírottak (a g és ğ hangok közötti különbséget írja le a válaszadó) alapján az R>G (KH, K) átmenet elképezhető. Lehet egy avar-arabos vonás is.  
 
-Götz László Keleten kél a Nap című könyvének 152. oldalán polarizáció témában említi a G, TH és W váltakozását. A felhozott példa: az óind `gharma` = meleg, görög `thermos` = meleg és germán `warm` = meleg szavak közt szabályos hangátmeneteket jelöl meg a nyelvészet.  
+Götz László Keleten kél a Nap című könyvének 152. oldalán polarizáció témában említi a G, TH és W váltakozását. A felhozott példa: az óind `gharma` = meleg, görög `thermos` = meleg és germán `warm` = meleg szavak közt szabályos hangátmeneteket jelöl meg a nyelvészet.
 
 <!--section: 25-->
 #### Oláh Imre A Nimrud hagyomány...
@@ -386,18 +390,18 @@ Az Ausonok neve An-Fiai jelentést is tartalmazhat magyarul. Az U és V az N bet
 - Itt jegyezzük meg, hogy az 'au' diftongus könnyen alakul an-ra, azaz a kiinduló lehet egy hosszú magánhangzó, pl. ó is.
 
 [[D/Dana\|Dana]] és [[I/Isten\|Isten]] címnél is szerepelt Tomory Zsuzsa Istenes magyar emlékeink III. rész című Ősi Gyökér 2005/3. sz. megjelent cikkének passzusa:  
-> A `tevő` szó `tenő` alakban a Bécsi Kódexben jelenik meg "gonosz-tenoc", tehát gonosztevők értelemmel (V.3:206). Ezek ismeretében Isten azonos az Ős-ten, Ős-tenő, ősi cselekvő kifejezésekkel, Teremtőnk tulajdonságait híven fejezve ki.  
+> A `tevő` szó `tenő` alakban a Bécsi Kódexben jelenik meg "gonosz-tenoc", tehát gonosztevők értelemmel (V.3:206). Ezek ismeretében Isten azonos az Ős-ten, Ős-tenő, ősi cselekvő kifejezésekkel, Teremtőnk tulajdonságait híven fejezve ki.
 
 <!--section: 26-->
-#### Magyar Adorján Kérdések...  
+#### Magyar Adorján Kérdések...
 
 <!--section: 26.1-->
 ...című könyvében írja:  
-> Míg a hangváltozás törvényét a német nyelvészet \[ld. [[I/Indogermán nyelvészet\|indogermán nyelvészet]]\] nyomán ma már a mi nyelvészetünk is ismeri, (amikor is egy szó valamely hangja rokon hangzású hanggá változik, például par-bar-var) addig a hangcsere (amikor egy szóban valamely hang nem rokon hanggá változik, például bar-zar-kar) okaival, törvényeivel nem vagyunk tisztában, vagyis e dolgot ma is ötletszerű, szórványos valaminek, vagy beszédhibákon alapuló dolognak tartjuk (Gombocz: Nyelvtörténeti módszertan), holott pedig ennek is a leghatározottabban felismerhető és megállapítható okai, törvényei vannak. És miért nem tudtuk mindezt megállapítani? Azért, mert éppen a magyar nyelvet nem szoktuk eléggé figyelemre méltatni, s azért mert e dolgok csak az árja nyelvek figyelembe vétele mellett ma már meg nem fejthetők, mi pedig nyelvünk saját jelenségeiből következtetni nem merünk, illetve megszoktuk, hogy mindenben csak az árja nyelvészet nyomaiban haladjunk. A hangcsere kérdését már egy cikkemben a szőlő szavunkkal kapcsolatban érintettem, egy táblázatot is bemutatván ott, közelebbről azonban e dologról szándékosan nem szólottam még, s itt is csak annyit akarok erről megjegyezni, hogy ez bizonyos természeti dolgokból indulván ki, később mindjobban kifejlődött, ősnyelvünkben egy ideig tudatossá is vált, majd utóbb, bizonyos változások beálltával összezavarodott, és ismét csak öntudatlanul élt tovább. Hogy mindezen dolgok azután nem csak a nyelvészet, hanem a művelődéstörténelem terén is mily nagy fontossággal bírnak, azt majd csak akkor fogjuk megérthetni, ha alkalmam lesz kifejteni, hogy őstörzseink nevei (például magyar, besenyő, jász, székely, kun, szemere, kazár, stb.) valamint ősvallásunk istenségnevei, továbbá a nyelvjárások is főképpen ezen alapulnak, és hogy az illető törzsek életmódjával (földművelés, halászás, gyümölcs vagy gabonatermelés, stb.) is a legszorosabb összefüggésben voltak.  
+> Míg a hangváltozás törvényét a német nyelvészet \[ld. [[I/Indogermán nyelvészet\|indogermán nyelvészet]]\] nyomán ma már a mi nyelvészetünk is ismeri, (amikor is egy szó valamely hangja rokon hangzású hanggá változik, például par-bar-var) addig a hangcsere (amikor egy szóban valamely hang nem rokon hanggá változik, például bar-zar-kar) okaival, törvényeivel nem vagyunk tisztában, vagyis e dolgot ma is ötletszerű, szórványos valaminek, vagy beszédhibákon alapuló dolognak tartjuk (Gombocz: Nyelvtörténeti módszertan), holott pedig ennek is a leghatározottabban felismerhető és megállapítható okai, törvényei vannak. És miért nem tudtuk mindezt megállapítani? Azért, mert éppen a magyar nyelvet nem szoktuk eléggé figyelemre méltatni, s azért mert e dolgok csak az árja nyelvek figyelembe vétele mellett ma már meg nem fejthetők, mi pedig nyelvünk saját jelenségeiből következtetni nem merünk, illetve megszoktuk, hogy mindenben csak az árja nyelvészet nyomaiban haladjunk. A hangcsere kérdését már egy cikkemben a szőlő szavunkkal kapcsolatban érintettem, egy táblázatot is bemutatván ott, közelebbről azonban e dologról szándékosan nem szólottam még, s itt is csak annyit akarok erről megjegyezni, hogy ez bizonyos természeti dolgokból indulván ki, később mindjobban kifejlődött, ősnyelvünkben egy ideig tudatossá is vált, majd utóbb, bizonyos változások beálltával összezavarodott, és ismét csak öntudatlanul élt tovább. Hogy mindezen dolgok azután nem csak a nyelvészet, hanem a művelődéstörténelem terén is mily nagy fontossággal bírnak, azt majd csak akkor fogjuk megérthetni, ha alkalmam lesz kifejteni, hogy őstörzseink nevei (például magyar, besenyő, jász, székely, kun, szemere, kazár, stb.) valamint ősvallásunk istenségnevei, továbbá a nyelvjárások is főképpen ezen alapulnak, és hogy az illető törzsek életmódjával (földművelés, halászás, gyümölcs vagy gabonatermelés, stb.) is a legszorosabb összefüggésben voltak.
 
 <!--section: 27-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
 Illetve van. A Grimm féle indo-germán hangfejlődési törvényeket (később így hívták: tendenciákat) átvevő finnugor nyelvészek is kimondják, hogy a proto- nyelv P hangjából lesz F. Borbola János Az uráli tilalomfák című Ősi Gyökér 2006/3. sz. megjelent cikkének idevonatkozó cáfolatát lásd [[F/Fúj\|fúj]].  
-Említi itt még a Grimm-Verner féle bh → b → p → f "indogermán körforgás" elvetett törvényét.  
+Említi itt még a Grimm-Verner féle bh → b → p → f "indogermán körforgás" elvetett törvényét.
