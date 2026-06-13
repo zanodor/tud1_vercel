@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Apocatastasis/","title":"Apocatastasis","tags":["Englishtexttranslated"],"created":"2025-03-13T03:13","updated":"2025-11-08T02:05"}
+{"dg-publish":true,"permalink":"/A/Apocatastasis/","title":"Apocatastasis","tags":["Englishtexttranslated"],"created":"2025-03-13T03:13","updated":"2026-06-13T23:22"}
 ---
 
 
@@ -108,7 +108,7 @@ Ezen bibliai és görög-római filozófiai értelmezések kapcsán jegyezzük m
 
 #### Gesztesi Albert csillagász A világ négy sarka...  
 
-...című cikkében [[K/Keresztre feszített Nap\|keresztre feszített Nap]] címnél is megfogalmazott (több helyen szerepelt):  
+...című cikkében [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] címnél is megfogalmazott (több helyen szerepelt):  
 > A Napnak valamely csillagképben való fölkelte azt jelenti, hogy e csillagképpel együtt kel föl, fénye azt láthatatlanná teszi, mintegy "áldozatává válik". Azt a csillagképet, amelyben a tavaszponton a Nap fölkelt, úgy nevezték, hogy "áldozati" vagy "az áldozati oszlophoz kötött" – ez megmagyarázná, hogy miért nevezik áldozati báránynak Krisztust, aki megnyitotta a Halak 2100 \[2160\] évig tartó új világkorszakát.  
 
 Tulajdonképpen ahogy [[J/Judeo-kereszténység#Judeo-keresztény teológia – az egyház baklövései és hatalomtechnikai játszmái\|judeo-keresztény teológia – az egyház baklövései és hatalomtechnikai játszmái]] cím/alcímnél is írtuk, mást sem látunk, csak ostoba átértelmezéseket, beleolvasásokat olyanok részéről, akiknek nem volt meg a szerves műveltsége.  
