@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T08:34","updated":"2026-05-29T22:42"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T08:34","updated":"2026-06-13T23:56"}
 ---
 
 
@@ -97,7 +97,7 @@ Anatolij Szemenov When in Russia, Speak Like a Russian című könyvében is meg
 > 
 > ➤ **Meaning:** used to say that the unhappier someone is, the more misfortunes he suffers.
 > **Note:** Said when a poor thing has more troubles.
-> **Note:** In Russian folklore, the man's name **Makár** is associated with an unlucky person who is in distress.  
+> **Note:** In Russian folklore, the man's name **Makár** is associated with an unlucky person who is in distress.  
 > —  
 > **На бе́дного Мака́ра все шишки ва́лятся.** *(Посл.)* ➔ \[Minden toboz a szegény Makárra hull.\]
 > * A sovány kutya csupa bolha.
@@ -106,7 +106,7 @@ Anatolij Szemenov When in Russia, Speak Like a Russian című könyvében is meg
 >
 > ➤ **Jelentés:** arra használják, hogy elmondják, minél boldogtalanabb valaki, annál több balszerencse éri.
 > **Megjegyzés:** Akkor mondják, amikor egy szerencsétlen embert további bajok sújtanak.
-> **Megjegyzés:** Az orosz folklórban a **Makár** férfinév egy bajban lévő, szerencsétlen emberhez kapcsolódik.  { #h8no62}
+> **Megjegyzés:** Az orosz folklórban a **Makár** férfinév egy bajban lévő, szerencsétlen emberhez kapcsolódik.  { #h8no62}
 
 
 Az orosz szó viszont hasonlítható a komi `megyr` 'ív, hajlított forma', `mygör` 'figura, alak, forma ....' és mari `mykyr` 'görbeség' szavakhoz. Ami tehát megvan egyszer [[H/Hungár\|hungár]]-[[H/Hunger\|hunger]]-ként görbeség ideáival, megvan magar-os alakú nevekben is, hiszen [[H/Hunor és Magor\|Hunor és Magor]] az [[A/Arkadash\|arkadash]] címnél is taglalt [[L/Lemniszkáta\|lemniszkáta]] két hátastársa/görbehátú/íjazó alakja.  
