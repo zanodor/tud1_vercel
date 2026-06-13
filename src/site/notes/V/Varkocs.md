@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Varkocs/","title":"Varkocs","created":"2024-05-08T15:40","updated":"2026-03-05T01:40"}
+{"dg-publish":true,"permalink":"/V/Varkocs/","title":"Varkocs","created":"2024-05-08T15:40","updated":"2026-06-13T23:23"}
 ---
 
 
@@ -42,7 +42,7 @@ Mármost tudjuk, hogy a varkocs a [[K/Kutyafejű\|kutyafejű]] hunok hajviselete
 - A Várkunok nevére ([[A/Avar\|avar]]-hunok a [[V/Várhun\|várkun]]ok);  
 - [[V/Varázsló\|Varázsló]] szavunk előtagjára, mely, mint láttuk, sok minden lehet; [[B/BAR\|BAR]] etimonra, ragyogásra, mint `varnish` szóban.  
 
-Utótagja Kocs, Kucs kell utaljon ezek szerint a farokszerű formájára. A kutyák farkáról [[C/Coda\|coda]] és [[Q/Queue\|queue]] szavaknál volt szó (utóbbi szóhoz köti a nyelvészet [[C/Cue\|cue]] szót is). [[C/Csóva\|Csóva]] szavunk is utal a kutya farkára, de ide nem felel meg.  
+Utótagja Kocs, Kucs kell utaljon ezek szerint a farokszerű formájára. A kutyák farkáról [[C/Coda\|coda]] és [[Q/Queue\|queue]] szavaknál volt szó (utóbbi szóhoz köti a nyelvészet [[C/Cue\|cue]] szót is). Csóva szavunk is utalhat a kutya farkára, de ide nem felel meg.  
 Kocs, Kucs tehát nyilvánvalóan egyértelmű utalás a kutyára. [[K/Kutya és farka\|Kutya és farka]] címnél volt szó a kutyák farka kurtításának ősi gyakorlatáról. Mintha a levágott kutya farka került volna az ember fejére.  
 Ezen Kucs megvan [[K/Kucsma\|kucsma]] szóban is, melyben kuc, kusz, vagy inkább [[G/Gúzs\|gúzs]] és [[K/Kóc\|kóc]] ([[G/Góc\|góc]]) fogalmakat kell keresni. Ezek alapján inkább tűnik úgy, hogy a gúzs(olás) utal a fonatra, de ettől még a [[K/Kutya\|kutya]] ideát nem kell kivenni a képből: a magyar szavak, különösen a fontos, szakrális szavak mindig több ideát kötnek gúzsba (ha már itt tartunk, a [[G/Gúzs\|gúzs]] és a [[K/Köt\|köt]] összefüggő szavak). Egészen pontosan itt a kóc, gúzs, valamint a [[K/Kocsma\|kocsma]] címnél említett [[K/Kutya\|kutya]] és [[H/Huta\|huta]] szavak értelme mentén a hő, fény, láng(nyelv/csóva) értelmeket kell figyelembe venni: az ember feje a Nap, hajfonatai lángnyelvek, napsugarak.  
 Lásd még [[G/Göcs\|göcs]] szintén bog értelmét.  
