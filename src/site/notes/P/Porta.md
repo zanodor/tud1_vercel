@@ -1,22 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/P/Porta/","title":"Porta","created":"2023-11-07T05:26","updated":"2025-06-08T01:44"}
+{"dg-publish":true,"permalink":"/P/Porta/","title":"Porta","created":"2023-11-07T05:26","updated":"2026-06-13T23:24"}
 ---
 
 
+<!--section: 1-->
 # Porta
 
+<!--section: 2-->
 #### Jankovics Marcell írja:
 
+<!--section: 2.1-->
 > A [[J/Janus\|Janus]] név és a `ianua`, "ajtó, kapu" szó egy tőből ered, s mivel minden ház bejárata, "kezdete" a [[K/Kapu\|kapu]], eredeti szerepkörének általánosításával lett istene minden kezdetnek, így az "év kapujának" is. A terminusról mered két arca hátra és előre, a múltba és a jövőbe. A latin `terminus`, "határidő" első jelentése "határkő". Ezen állt eredetileg a határőrző Janus kétfejű szobra. Terminus, a határvédelem istene eredetileg maga Janus lehetett, aki Portunus néven viszont a kikötők, a tengeri kapuk őre volt (latinul `portus` = "kikötő, rév"; `porta` = "kapu, ajtó").  
 
 A görög-latin `pórta`, `porta` = kapu, átjáró, ajtó jelentése, mint minden más ilyen jelentésű szó égi kapura, átjáróra értendő. A porta lehet az angol [[F/Ford#Ford 2)\|ford]] = gázló szóval megfeleltethető, ahhoz rokonítható, hiszen az égi fordulópontok, Napfordulók is kapuknak felelnek meg, ahogy [[F/Forest\|forest]], [[D/Door\|door]], [[T/Tölgy\|tölgy]] és [[T/Trivial\|trivial]] stb. címnél is erről szó esett. Utóbbi címnél szerepelt:  
 Azt tudjuk, hogy az elágazásoknál, keresztutakon állítottak [[H/Hekate\|Hekaté]]nek oszlopokat és a [[K/Kutya\|kutyá]]k is az elágazásokhoz, átjárókhoz köthetők (lásd például [[C/Cerberus\|Cerberus]]).  
 
-Porta lehet Por-Ta, vagyis inkább Pur-Ta felbontásban a Nap Vára (vagy Tűz Tája) értelmű, így [[U/Udvar\|udvar]] szónál írottakkal is megfelel, de elsősorban a keresztrefeszített (Szíriusz körül forgó) Nap valamely stációjára, különösképp a [[T/Tejút-kapuk\|Tejút-kapuk]]hoz való közelségére kellhet gondolni.  
+Porta lehet Por-Ta, vagyis inkább Pur-Ta felbontásban a Nap Vára (vagy Tűz Tája) értelmű, így [[U/Udvar\|udvar]] szónál írottakkal is megfelel, de elsősorban a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] valamely stációjára, különösképp a [[T/Tejút-kapuk\|Tejút-kapuk]]hoz való közelségére kellhet gondolni.  
 Porta Catularia-hoz hasonló kapukról lásd [[P/Psychopomp\|psychopomp]].  
 
+<!--section: 3-->
 #### Péterfai János...
 
+<!--section: 3.1-->
 ...[[F/Ford\|ford]] címnél korábban szereplő adataival szépen kapcsolódnak a fentiek:  
 > A Ford a Por-Da, Por-Ta változata, eredete Níp-Pur szumer város nevében is rejlik, ami magyar és nem akkád, a Pór és Por szóban, a Por kettősségében, a Bor jelentésében. A Ford, Fort és Porto, Porta a Por, Pór, Bor és Ta, Da magyar alapszavak (etimonok) variánsai. A Ford elemei a magyar, egyiptomi és szumer Par, Per, és a Tu, Du, Ta, Da elemekre vezethető vissza.  
 
