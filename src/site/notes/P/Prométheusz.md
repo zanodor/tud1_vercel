@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Prométheusz/","title":"Prométheusz","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-04-28T14:02","updated":"2026-02-24T01:06"}
+{"dg-publish":true,"permalink":"/P/Prométheusz/","title":"Prométheusz","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-04-28T14:02","updated":"2026-06-13T23:20"}
 ---
 
 
@@ -52,7 +52,7 @@ Giorgio de Santillana írja (a bevezetőleges, lábjegyzetekkel ellátott vancou
 
 #### Acharia S Suns of God...
 
-...című könyvében Prométheusz leláncolásában is a [[K/Keresztre feszített Nap\|Nap keresztrefeszítését]] látja (de konkrét keresztrefeszítésről is szó esik):  
+...című könyvében Prométheusz leláncolásában is a [[K/Keresztrefeszített Nap\|Nap keresztre feszítését]] látja (de konkrét keresztre feszítésről is szó esik):  
 > Another crucified god was Prometheus, the Greek titan of fire and foresight. It has been charged by a number of scholars that the version of the Prometheus story passed down through Christian censors has been mutilated to hide its similarities to the Christ myth. As Graves evinces:  
 > In the account of the crucifixion of Prometheus of Caucasus, as furnished by Seneca, Hesiod, and other writers, it is stated that he was nailed to an upright beam of timber, to which were affixed extended arms of wood, and that this cross was situated near the Caspian Straits. The modern story of this crucified God, which represents him as having been bound to a rock for thirty years, while vultures preyed upon his vitals, Mr. Higgins pronounces as an impious Christian fraud. "For," says this learned historical writer, "I have seen the account which declares he was nailed to a cross with hammer and nails."  
 > Graves further relates that the "New American Cyclopedia" (i. 157) states that Prometheus was "crucified." Verifying this claim, Lundy first discusses the widely used solar symbol, the swastika, and then remarks:  
@@ -75,7 +75,7 @@ Amíg nekem ezen adata új volt, mint kiderül, többen írtak már erről.
 
 #### John G. Jackson Christianity before Christ...  
 
-...című könyvében szerepel mind a keresztrefeszítés, mind a láncolás (utóbbi egy képpel is amelyet most nem tennék ide):  
+...című könyvében szerepel mind a keresztre feszítés, mind a láncolás (utóbbi egy képpel is amelyet most nem tennék ide):  
 > Prometheus, a creator-god, defied Zeus and became the benefactor of mankind. In order to alleviate the poverty and misery of early humanity, Prometheus stole fire from the sky-world and brought it to earth to serve humanity. This enraged Zeus, who held that fire was a possession of the gods and was not to be given to man, so Prometheus was condemned to be crucified on a crag on the Caucasus mountains. Here he was nailed to an upright beam of timber fitted with extended arms of wood – in other words, a cross.  
 > The Greeks regarded Prometheus as a saviour of the human race and commemorated his sacrifice by torch races at the Panathenaic games. As Findlay has so well expressed it:  
 > They believed that he was the Creator of the human race, and that on his return to heaven he acted... as the mediator between God and Man... In their art, they represented him as crucified to a rock and wearing a mock crown. (Findlay, The Psychic Stream, p. 268.)  
@@ -88,7 +88,7 @@ Amíg nekem ezen adata új volt, mint kiderül, többen írtak már erről.
 > A görög drámaíró, Aiszkhülosz (Kr. e. VI. század) írt egy passiójátékot, amelyben Prométheusz keresztre feszítését, temetését és feltámadását mutatták be az athéni színpadon. Ebben a drámai előadásban egy Prométheuszt ábrázoló színész lógott a színházban egy kereszten.  
 > A Kr. e. 500 évvel ezelőtt Athénban játszódó jelenet a bibliai történetet idézi fel, amikor Jézus Krisztus a kereszten kínjában kiáltott fel: "Istenem, Istenem, miért hagytál el engem?"  
 
-Itt is, ahogy másutt, a keresztrefeszítés nem egy aktus, hanem egy állapotszerűség; a [[T/Tűzlopás\|tűzlopás]]sal és tűzcsiholással (fényviszonyok növekedésére utalva) és a menny = malom forgásával a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] útjára utalhatunk. A fúrás ideája került elő a germán [[F/Four\|four]] = négy fogalmában (valamint F-R vonalon [[F/Furka\|furka]] és [[F/Frig\|frig]] címnél) és az iráni nyelvek [[C/CSÁR\|CSÁR]] alakjában is a csűrés, csavarás, forgás ideájával találkoztunk.  
+Itt is, ahogy másutt, a keresztre feszítés nem egy aktus, hanem egy állapotszerűség; a [[T/Tűzlopás\|tűzlopás]]sal és tűzcsiholással (fényviszonyok növekedésére utalva) és a menny = malom forgásával a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] útjára utalhatunk. A fúrás ideája került elő a germán [[F/Four\|four]] = négy fogalmában (valamint F-R vonalon [[F/Furka\|furka]] és [[F/Frig\|frig]] címnél) és az iráni nyelvek [[C/CSÁR\|CSÁR]] alakjában is a csűrés, csavarás, forgás ideájával találkoztunk.  
 
 #### Acharia S Suns of God...
 
