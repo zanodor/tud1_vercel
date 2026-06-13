@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szegény/","title":"Szegény","created":"2024-04-25T13:43","updated":"2026-05-29T22:44"}
+{"dg-publish":true,"permalink":"/S/Szegény/","title":"Szegény","created":"2024-04-25T13:43","updated":"2026-06-13T23:23"}
 ---
 
 
@@ -30,7 +30,7 @@ A szomorú jelentésű [[S/SAD#Sad 2)\|sad]] szó kapcsán már szintén előjö
 
 De a szegény is ugyanúgy a Hunor/[[K/Khamor\|Khamor]]-ral induló sötét félévre való váltásra utal, ahogy [[G/Gonosz\|gonosz]] és [[B/Bűn\|bűn]] is. Lényegében a szegény a szűkölködő, megszoruló, és a fény csökkenéséből ([[C/Csökken\|csökken]] és szegény, valamint [[S/Szűk\|szűk]] is azonos alakúak, az alant említett [[S/Sovány\|sovány]] pedig szintén lehet szegény alakmása) kiindulva érthető meg, miről van szó.  
 
-A szegény, [[E/Éh\|éh]]es, (zárul igével azonos) szoruló/szorongó (szűkös(en élő)), kényszeres ([[K/Kényszer\|kényszer]] = szükség = szukaság), félő (és ebben meggörbült, meghunyászkodó; lásd még [[K/Kussol\|kussol]]) mind a második félévet az elsőtől elválasztó [[L/Lemniszkáta\|lemniszkáta]] görbéire és Szíriuszra, annak határoló szerepére vonatkozó ideák.  
+A szegény, [[E/Éh\|éh]]es, (zárul igével azonos) szoruló/szorongó (szűkös(en élő)), kényszeres ([[K/Kényszer\|kényszer]] = szükség = szukaság), félő (és ebben meggörbült, meghunyászkodó; lásd még [[K/Kuss#Kussol\|kussol]]) mind a második félévet az elsőtől elválasztó [[L/Lemniszkáta\|lemniszkáta]] görbéire és Szíriuszra, annak határoló szerepére vonatkozó ideák.  
 
 A [[M/Makara\|Makara]] (és [[M/Magyar\|magyar]]) címnél taglalt orosz `makár`/`makara` = (kutyasorsú?) szegény ember (némiképp eltérő szóvázú párjai: magyar [[M/Mazúr\|mazúr]], arab `masir` = szegény és a latin-angol [[M/Miser\|miser]] és [[M/Misery\|misery]]) ideája mögött viszont nem [[H/Hungár\|hungár]]/haggard, [[H/Humble\|humble]]/[[J/Jámbor\|jámbor]] alakú, hanem Magor alakú szavakat találunk: ilyenek a komi `megyr` 'ív, hajlított forma', `mygör` 'figura, alak, forma ....' és mari `mykyr` 'görbeség' szavak (a [[B/Beggar\|beggar]] szó gyöke is ív jelentéssel rendelkezik). Ami tehát megvan egyszer hungár-hunger-ként görbeség ideáival, megvan magar-os alakú nevekben is, hiszen a [[H/Hunor és Magor\|Hunor és Magor]] az [[A/Arkadash\|arkadash]] címnél is taglalt [[L/Lemniszkáta\|lemniszkáta]] két hátastársa/görbehátú/íjazó alakja.  
 - Mivel az ív lehet domború és homorú, a szegénnyel ellentétes(?) boldog jelentés is megtalálható; lásd egyiptomi-görög vonalon [[M/Makar\|Makar]].
