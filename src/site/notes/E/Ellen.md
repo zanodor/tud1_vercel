@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ellen/","title":"Ellen","tags":["containstransclusions","containscallouts"],"created":"2026-02-13T03:30","updated":"2026-05-21T05:04"}
+{"dg-publish":true,"permalink":"/E/Ellen/","title":"Ellen","tags":["containstransclusions","containscallouts"],"created":"2026-02-13T03:30","updated":"2026-06-13T23:58"}
 ---
 
 
+<!--section: 1-->
 # Ellen
 
+<!--section: 1.1-->
 `Ellen` igazán érdekes szó, kimondottan az [[E/Ellentétek harca\|ellentétek harcá]]nak (lásd  [[D/Dévák és Aszúrák\|Dévák és Aszúrák]] és [[O/Ozirisz és Széth\|Ozirisz és Széth]]) kontextusában.  
 `Ellen` szavunkat éppen ennek értelmében kellhet vizsgálni.  
 Érdekes CzF ellen szavunk értelmezése abban, hogy az `elő`, `első` értelemmel is rokonít:  
@@ -24,8 +26,10 @@ Másképpen:
 
 Amit ellen-Napokról szólhatunk (lásd még [[N/Nap#Nap – Ellen-Nap\|Nap – Ellen-Nap]] cím/alcímet is):  
 
+<!--section: 2-->
 #### Jankovics Marcell írja:
 
+<!--section: 2.1-->
 > A mitológiai ellentétpárok szimmetrikusak, tagjaik közt van némi hasonlóság is, nemcsak ellentét. Így van ez a Nap (arany) és a Szaturnusz (ólom) esetében is. A [[S/Szaturnusz\|Szaturnusz]] "**ellen-Nap**", "holt Nap", hisz istene ifjan napisten volt. (L. az osztjákok téli "ólom-pótnapját". Szibériában télen a Nap valóban csak annyit ér, mint aranyhoz képest az ólom.) Ezért próbáltak ólomból csinálni aranyat az alkimisták. Mindkettő nehéz fém és puha, de a hasonlatosság itt véget is ér: "Nehéz a szíve" (mint az ólom) és "aranyszíve van" egészen mást jelentenek. Az utóbbinak "keményszívű", "kőből van a szíve" az ellentéte.  
 
 Ellen-Nap vagy másik Nap (An-Dar) a [[S/Szíriusz\|Szíriusz]] is. Erről legutóbb [[G/Győz és gyász\|győz és gyász]] címnél is volt szó.  
@@ -35,8 +39,10 @@ A legutóbb [[U/Ullu\|Ullu]] (ez is hasonló szó) címnél írottak is ide pass
 
 Ellen-Napról [ezen](https://youtu.be/aeRDLskUSZM&t=2375s) Turul és Szarvas II. rész című ÁKA előadásban Kubínyi Tamás is szól érdekes módon 39:35-nél, úgy mint az ellipszis alakú földpálya másik fókuszpontjáról.  
 
+<!--section: 3-->
 #### John Major Jenkins Galactic Alignment...
 
+<!--section: 3.1-->
 ...című könyvének 116. oldalán adata (hogy a [[G/Galactic anticentre\|Galactic anticentre]] az [[I/Ikrek csillagkép\|Ikrek csillagkép]] irányában (is) van) is mintha arra mutatna rá, hogy valóban az ellen-iránya a Tejútközpontnak [[T/Tündér Ilona\|Tündér Ilona]] iránya:  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/G/Galactic anticentre/#q9nsm4" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -69,8 +75,10 @@ Innenről és túlnanról is lehetne beszélni.
 [[J/Jelen\|Jelen]] szavunkban (erre a szláv szarvas jelentő szavak is engedhetnek következtetni) is megjelenhet Ilona neve.  
 Az ellenoldal sötét tevékenységét jól mutatják be...
 
+<!--section: 4-->
 #### Hajnal Gyöngyi Adatok a magyar szakrális örökség felderítéséhez...
 
+<!--section: 4.1-->
 ...című az Ősi Gyökér 2008/1. sz. megjelent cikkének ellencsaládok fejezetében írt sorai:  
 > Azok a dinasztiák, akik a szakrális rend ellenében fejtik ki működésüket, felismerhetőek a zavaros eredetről, a kétségbeesett és folyamatos önigazolásról, erkölcsi tisztázatlanságról és azokról az emberi lelkekben okozott feloldatlan válságokról, amelyek az általuk vezérelt nép körében tapasztalhatóak. Örökítési folyamataik kizárólag apáról fiúra történnek. Nem ismerik az anyai jogú örökítést, és nem is követik azt. A dinasztikus folytonosság szakadásával egyéni érvényesülési érdekek mentén kerül utód a kihalt család helyére.  
 - Amit korábban a pápai székbe és a német-római császári székbe kerülésről ír, az is érdekes.  
@@ -78,6 +86,8 @@ Az ellenoldal sötét tevékenységét jól mutatják be...
 A szanszkrit `yadoo` = mások ellen tevés, varázslás szót az indo-európai \*ei,* ey = menni jelentésű gyöknél taglalja PAESZ. Ami egyszer ellen(hatás), másszor [[E/Együvé tartozás\|együvé tartozás]], azaz köt értelmű.  
 Legutóbb [[C/Cumber\|cumber]] címnél érett meg, hogy létrehozzak egy ellen(tart) és össze(tart) címet vagy alcímet, de [[S/Szét és össze\|szét és össze]] már fel lett véve.  
 
+<!--section: 5-->
 ## Latin 'proelium'
 
+<!--section: 5.1-->
 Érdekes, hogy a latin [proelium](https://en.wiktionary.org/wiki/proelium#Latin) = harc, csata, konfliktus szó eredetét nem ismerik. Csak nem magyar ellen szó el- gyöke van meg a szóban?  
