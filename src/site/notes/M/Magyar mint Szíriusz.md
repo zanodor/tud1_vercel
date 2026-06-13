@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-10-29T07:48","updated":"2026-05-21T04:59"}
+{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-10-29T07:48","updated":"2026-06-13T23:56"}
 ---
 
 
@@ -24,7 +24,7 @@ Akkor most a csillagé a név? Kovács cikkének neve Stella Hungarorum (Ősi Gy
 > 
 > 1. `magor` (`מָגוֹר`): jelentése "félelem", "rettegés", "iszonyat".
 >     *   Példák: Ezékiel 21:12, Ezsdrás 6:12, Ézsaiás 31:9, Jeremiás 20:4.
-> 2. `magor missabib` (`מָגוֹר מִסָּבִיב`): jelentése "iszonyat mindenfelől", "rettegés mindenhol".
+> 2. `magor missabib` (`מָגוֹר מִסָּבִיב`): jelentése "iszonyat mindenfelől", "rettegés mindenhol".
 >     *   Példák: Jeremiás 20:3, Jeremiás 20:10, Jeremiás 46:5, Jeremiás 49:29, Jeremiás 6:25, Siralmak 2:22, Zsoltárok 31:13.
 > 3. `megurah` (`מְגוּרָה`): jelentése "rettegés", "borzadás", "félelem".
 >     *   Példák: Példabeszédek 10:24, Haggeus 2:19, Ézsaiás 66:4, Zsoltárok 34:4.
