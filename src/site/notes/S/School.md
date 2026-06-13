@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/School/","title":"School","created":"2023-11-07T05:11","updated":"2025-08-19T01:05"}
+{"dg-publish":true,"permalink":"/S/School/","title":"School","created":"2023-11-07T05:11","updated":"2026-06-13T23:57"}
 ---
 
 
@@ -14,7 +14,7 @@
 > Tanítómestereink, sok tízezer évvel mai korunk előtt, a barlangokban tanították az ifjúságot. Ezért a Fény, vagyis Isz, Is, Izzás a barlangok sötétjére is vonatkozhat, ahol fényt kellett gyújtani, hogy lássanak. A Ko a Kő, a Száj, a Kapu. A Barlang önmagában is egy Száj, Kapu, Nyílás Földanya testén. Belső tere kövekből áll. A `La` Hely értelmű a magyar nyelvben, a komiban a Sok jelentést viseli. A szumer írnokiskola neve E-Duba-A, vagyis Háza a Dübögőnek, ami tűz lenne, és az "A" a szóban Isteni, Magas, Nagy, vagy hátra vetett magyar névelő. Itt égették ki az agyagtáblákat, amelyekre jeleket róttak.  
 > `Scola` latin szó, Iskola a jelentése. Tökéletesen láthatjuk rajta a három ősmagyar szó jelenlétét. Az Is, Iz, Ős, Üs, Izz, Ész, Ísz és egyéb variánsokra tagolódó Is szót, a Ku és Ko szót, és a La szót, a szó végén. A Scola latin szó tehát egyértelműen a magyar nyelvből ered, amiben ez a szó már akár 40.000 éve is megjelenhetett. Az indoeurópainak nevezett, valójában magyar eredetű nyelvek, az Is-Ko-La szavunkat is tartalmazzák. Csak megjegyzendő, hogy a Scala, vagy Skála, is az Iskola szóból ered.  
 
-Mit alátámasztani látszik a khotáni szaka nyelvű `ṣkalä` = hang, zaj. Alternatív gondolatokat lásd [[S/Scale\|scale]].  
+Mit alátámasztani látszik a khotáni szaka nyelvű `ṣkalä` = hang, zaj. Alternatív gondolatokat lásd [[S/Scale\|scale]].  
 
 #### Kolumbán Sándor...
 
