@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Concussion/","title":"Concussion","created":"2024-11-05T19:11","updated":"2026-02-24T01:08"}
+{"dg-publish":true,"permalink":"/C/Concussion/","title":"Concussion","created":"2024-11-05T19:11","updated":"2026-06-13T23:24"}
 ---
 
 
@@ -8,7 +8,7 @@
 Megrázkódás; agyrázkódás.  
 Az idetartozó latin szavak concuss-, `concussio(n)`, `concutere`, mely felbontható [[C/Con- prefixum\|con- prefixum]]ra és egy rázni, ütni jelentéssel megadott `quatere` szóra, melyről azonnal felismerhető, hogy talán a [[Q/Quota\|quota]] = hányad, kvóta és a [[Q/Quarter\|quarter]] szó elődjének tekintendő `quartus` = negyed és `quattor` = négy szavakkal is kapcsolatba hozható.  
 Valójában csak hasonló szavakról van szó, mert a quattor elődje a [[C/Csütörtök\|csütörtök]] szónál szereplő csötör, míg a latin `quota` és `quatere` elődje azon [[K/KAT\|KAT]] lehet, mely ma kasz- igegyökként ismert és [[C/Cut\|cut]] szóval is megfeleltethető (távolabbról csata, [[K/Kattar\|Kattar]], stb. nevekkel, melyeket lásd [[C/Cata- prefixum\|cata- prefixum]], [[C/Cadaver\|cadaver]] és [[K/Kata\|kata]]).  
-Ezek alapján `quatere` nem rázni, hanem szétrázni, szétszedni, szétütni, tehát a [[K/Köt\|köt]]ni jelentésével ellentétes ([[K/KAT\|kat]]) értelmű. A rázkódást és a megrázkódtatást is mindig a [[N/Nagy Év\|Nagy Év]]ben [[K/Keresztre feszített Nap\|keresztre feszített Nap]] stációban értelmezett korszakváltozásokkal járó kataklizmák (lásd sok új gondolatot [[C/Cataclysm\|cataclysm]]) okozzák.  
+Ezek alapján `quatere` nem rázni, hanem szétrázni, szétszedni, szétütni, tehát a [[K/Köt\|köt]]ni jelentésével ellentétes ([[K/KAT\|kat]]) értelmű. A rázkódást és a megrázkódtatást is mindig a [[N/Nagy Év\|Nagy Év]]ben [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] stációban értelmezett korszakváltozásokkal járó kataklizmák (lásd sok új gondolatot [[C/Cataclysm\|cataclysm]]) okozzák.  
 A [[S/Seismic\|seismic]] szónál előjövő görög `seismos` = földrengés és seien = rázni szavak is mutatnak rokonságot szét szavunkkal, bár az igéről el kell itt is dönteni, hogy utólag képzett-e: valószínűleg igen.  
 
 A \*cutere ill. quatere igék melléknévi igeneveit CzF guta szónál hozza:  
