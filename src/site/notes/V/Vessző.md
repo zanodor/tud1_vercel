@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vessző/","title":"Vessző","created":"2026-04-15T01:11","updated":"2026-04-15T01:12"}
+{"dg-publish":true,"permalink":"/V/Vessző/","title":"Vessző","created":"2026-04-15T01:11","updated":"2026-06-13T23:58"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 #### Magyar Adorján írja:
 
-> A szlávban `vez`, `vezati` besenyő szóalakkal jelent kötést, kötözést \[jelent\].  
+> A szlávban `vez`, `vezati` besenyő szóalakkal jelent kötést, kötözést \[jelent\].  
 
 [[B/Bécs\|Bécs]] helyen is kimondtuk, hogy azon szóalak lényegében [[B/BOG#BOG 1)\|bog]] = köt szavunk változata és a `vessző` szavunk sem más, mint kötöző (elem).
 { #260415}
