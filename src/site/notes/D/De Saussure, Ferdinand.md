@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/De Saussure, Ferdinand/","title":"De Saussure, Ferdinand","tags":["containstransclusions"],"created":"2024-04-25T13:30","updated":"2026-06-05T20:52"}
+{"dg-publish":true,"permalink":"/D/De Saussure, Ferdinand/","title":"De Saussure, Ferdinand","tags":["containstransclusions"],"created":"2024-04-25T13:30","updated":"2026-06-13T23:58"}
 ---
 
 
@@ -30,7 +30,7 @@ De Saussure – ahogy minden indoeurópai nyelvész és vak követői – tehát
 
 
 
-> \[Jacques\] Derrida módszertani vizsgálata, [[D/Dekonstrukció\|dekonstrukciós]] stratégiája a **nyelvi jel önkényes voltá**ból indul ki, amely [[D/De Saussure, Ferdinand\|Ferdinand de Saussure]] alaptézise volt. Ez nemcsak a [[P/Posztmodernizmus\|posztmodernizmus]]ban fontos módszer, hanem fontos része a posztstrukturalista irodalomelméletnek és szövegelemzésnek is. Egyébként pedig az irodalomelméleti kártevésén kívül ezen elv olyan nyelvelméleti szent tehénné vált, amelynek feltétlen és kizárólagosan kötelező tisztelete miatt a Czuczor Gergely és Fogarasi János által elindított [[G/Gyöknyelvészet\|gyöknyelvészet]] föld alá szorított lett és maradt napjainkig nálunk. 
+> \[Jacques\] Derrida módszertani vizsgálata, [[D/Dekonstrukció\|dekonstrukciós]] stratégiája a **nyelvi jel önkényes voltá**ból indul ki, amely [[D/De Saussure, Ferdinand\|Ferdinand de Saussure]] alaptézise volt. Ez nemcsak a [[P/Posztmodernizmus\|posztmodernizmus]]ban fontos módszer, hanem fontos része a posztstrukturalista irodalomelméletnek és szövegelemzésnek is. Egyébként pedig az irodalomelméleti kártevésén kívül ezen elv olyan nyelvelméleti szent tehénné vált, amelynek feltétlen és kizárólagosan kötelező tisztelete miatt a Czuczor Gergely és Fogarasi János által elindított [[G/Gyöknyelvészet\|gyöknyelvészet]] föld alá szorított lett és maradt napjainkig nálunk. 
 
 </div></div>
 
