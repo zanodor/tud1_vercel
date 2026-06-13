@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2026-04-05T02:42"}
+{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2026-06-13T23:21"}
 ---
 
 
@@ -84,7 +84,7 @@ Na most, ez a hazar mi is lehet? Itt jut eszünkbe ...
 > Kánaán 5000 éves hágári hold-tiszteletének emlékeit régészek tárták fel, a róla elnevezett Hacor/Hazor/Khazor/Kazor/Chazor, ősi királyi főváros romjaiból[^2]. Ezt megerősítően, a görög források Kánaánt [[J/Jó#Io istennő\|Io]] holdanya földjének tartották. Itt is előkerül a nyelvtörténeti átpolarizálódás, mert a hold-főváros Hacor nevéből képzett "hacorita/haszarita" változat, később, a félművelt-félnomád népréteg jelölője lett[^3].  
 
 Na most, ez a népréteg valójában az íjfeszítőkre utalhat, hiszen az íjfeszítő és vadász értelmek azonosak.  
-Viszont hihető lehet-e az, hogy mindezen nevek a Hágár név változatai lennének és nem-e gondolhatjuk, hogy önnállóan, alanyi jogon elemzendők? (Már eleve az is kétséges, hogy Hágár eredetileg a Holdra utaló név lett volna: inkább a holdtisztelő íjfeszítők Szíriuszát kellene benne látni. Így lenne pontosabb a kép.)  
+Viszont hihető lehet-e az, hogy mindezen nevek a Hágár név változatai lennének és nem-e gondolhatjuk, hogy önállóan, alanyi jogon elemzendők? (Már eleve az is kétséges, hogy Hágár eredetileg a Holdra utaló név lett volna: inkább a holdtisztelő íjfeszítők Szíriuszát kellene benne látni. Így lenne pontosabb a kép.)  
 Nézzünk hasonló alakú neveket. Kezdjük a hehezet elvételével:  
 Ott van elsőként az arab `al-qasr` = erőd, vár, aztén az [[A/Asera\|asera]] címnél előjövő mordvin `azar`, `azer`, `azoro` = úr és ugyanott és [[A/Atar\|Atar]] címnél említett óperzsa `atar` = tűz, melynek azar formájáról is szó esett ott. Pető Imre Dlimild Asar – Gyémánt Világ című munkájában azt írja, hogy a szkíta-hun `asar` = világ, melyet a sárgolyó/sárteke szavakból kiindulva (a perzsa [[S/Sarābistān\|sarābistān]] alapján is mondhatta volna) úgy értelmez, hogy a sárvilág.  
 A persza `hezár` = ezer a magyar szó mása, de ide aligha tudjuk eltenni. Konkretizálni kell a csillagképet (bár nyilván már megvan az [[I/Íj csillagkép\|Íj csillagkép]] személyében, nem igaz).  
