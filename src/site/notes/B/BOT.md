@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BOT/","title":"BOT","created":"2023-11-21T11:37","updated":"2026-04-05T02:43"}
+{"dg-publish":true,"permalink":"/B/BOT/","title":"BOT","created":"2023-11-21T11:37","updated":"2026-06-13T23:57"}
 ---
 
 
@@ -17,7 +17,7 @@ Práczki István Szittya Biblia című könyvének 84. oldalán ír egyetértől
 > A Bot természetesen a Fa Háza, amin a botok, az ágak, a gallyak és vesszők növekednek. A Fa leírása a Világfa, a Tejút leírása a magyar nyelvben. A Bot, mint Ház, tartja a Fa koronáját, vagyis lombozatát, tehát a Bot az ágak legelső neve.  
 - A bot faanyag és faanyagból készül a hajó, csónak is, valóban.
 
-Legutóbb amikor [[R/Rúna\|rúna]] címnél az Ipolyi által megadott ónémet `runa`, középnémet `rune` = fatörzs jelentés kapcsán a rovásbotok eszembe jutottak, rögtön a B>W változás ürügyén a [[W/Wood\|wood]] = fa fogalma is megfordult a fejemben, de egyelőre túl sok szól az ellen, hogy eredete is bot szavunk legyen. Az mindenesetre egyértelmű, hogy a (Tejút)fa a Nap Háza, és az is, hogy a BO = PA/FA elemek megfelelnek egymásnak.  
+Legutóbb amikor [[R/Rúna\|rúna]] címnél az Ipolyi által megadott ónémet `runa`, középnémet `rune` = fatörzs jelentés kapcsán a rovásbotok eszembe jutottak, rögtön a B>W változás ürügyén a [[W/Wood\|wood]] = fa fogalma is megfordult a fejemben, de egyelőre túl sok szól az ellen, hogy eredete is `bot` szavunk legyen. Az mindenesetre egyértelmű, hogy a (Tejút)fa a Nap Háza, és az is, hogy a BO = PA/FA elemek megfelelnek egymásnak.  
 
 > Beth-Anu jelentése Isten Háza. Bethany volt a bibliai Lázár és húgai, Mária és Márta lakóhelye, mely egyiptomi eredetre vall: Osiris és húgai Isis és Nephtys Annu házában laktak.  
 - Innen Péterfai János ház és Ég Királynője etimonjai.
