@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kő/","title":"Kő","created":"2024-05-08T13:48","updated":"2025-07-26T21:32"}
+{"dg-publish":true,"permalink":"/K/Kő/","title":"Kő","created":"2024-05-08T13:48","updated":"2026-06-13T23:58"}
 ---
 
 
@@ -36,7 +36,7 @@ Hasonló utóbbiakhoz a japán `kabe` = fal, mely akár kőből épült is lehet
 
 A [[K/Kutya\|kutya]] címnél is említett perzsa és hindi `kuh`, `koh` = hegy szavak eredetét lásd [ezen Wiki oldalon](https://en.wiktionary.org/wiki/%DA%A9%D9%88%D9%87), ahol a `kova` szavunknak megfelelő óperzsa `kaufa` = hegy szóra vezetik vissza.  
 
-Az [ezen](https://dictionary.swodli.com/) szótárban talált, hegy szóval is egyeztethető dakota `ḣe` = hegy jelentésű, de a hasonló `he` = szarv, agancs is jól megfér a hegy jelentéssel.
+Az [ezen](https://dictionary.swodli.com/) szótárban talált, hegy szóval is egyeztethető dakota `ḣe` = hegy jelentésű, de a hasonló `he` = szarv, agancs is jól megfér a hegy jelentéssel.
 { #250529}
 
 
