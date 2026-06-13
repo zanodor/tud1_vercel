@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","tags":["containscallouts"],"created":"2023-11-19T03:30","updated":"2026-05-29T22:43"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","tags":["containscallouts"],"created":"2023-11-19T03:30","updated":"2026-06-13T23:56"}
 ---
 
 
@@ -78,7 +78,7 @@ Egyrészt az, hogy régóta hallják, a magyar az ősnyelv, illetve – a kevés
 #### Götz László Keleten kél a Nap...  
 
 <!--section: 6.1-->
-...című könyvének 371. oldalán szól (igaz, nem nyelvészeti, hanem őstörténeti vonatkozásban) annak körülményeiről, hogyan jelennek meg megfelelő elő­képzettséggel nem rendelkező autodidakták hogy megpróbáljanak "rendet rakni[^1]."  
+...című könyvének 371. oldalán szól (igaz, nem nyelvészeti, hanem őstörténeti vonatkozásban) annak körülményeiről, hogyan jelennek meg megfelelő előképzettséggel nem rendelkező autodidakták hogy megpróbáljanak "rendet rakni[^1]."  
 A kiváltó ok természetesen az, hogy nem hozzáértő és egyenesen hazug ügynökök (ezen vádak felhozásától Götz László persze mindig óvakodik) dolgoznak a magyar őstörténet szétverésén és [[T/Történelemhamisítás\|meghamisításán]].  
 
 <!--section: 7-->
@@ -91,7 +91,7 @@ Persze ezzel nem azt akarom sugallni, hogy minden próbálkozót gyógyszeres ke
 Egyes kutatók eljutnak odáig, hogy van valami a háttérben, amiről kiderülhet, hogy nem az aminek látszik, de nem fedik fel a titkot, mert nem dolgozzák ki a tételeiket, csak odadobnak valamit azzal, hogy majd más oldja meg helyettük, mert ez nekik nem megy.  
 
 Práczki Istvánnál látunk ilyeneket. Pl.:  
-> A [[B/Betsabé\|Betsabé]] név ismét a történet hősnőjének a legfontosabb "karakterét" jelentette. (Már jeleztem, hogy az ókori nevek nem a családi-neveket jelentették, hanem az ősi mesék alakjait. Ők hol fanyűvők, hol "hegyforgatók", ahogy a cselekmény megköveteli.) Nem volt más Betsabé neve sem, ami -FO= éba-tseb = éva-szép, vagy éva-szebb jelentésű, de "előre" = becsabé =becsapó. Hiszen fiát mindenkit becsapva juttatta a trónra. Persze lehet, hogy ez is csak "véletlen".
+> A [[B/Betsabé\|Betsabé]] név ismét a történet hősnőjének a legfontosabb "karakterét" jelentette. (Már jeleztem, hogy az ókori nevek nem a családi-neveket jelentették, hanem az ősi mesék alakjait. Ők hol fanyűvők, hol "hegyforgatók", ahogy a cselekmény megköveteli.) Nem volt más Betsabé neve sem, ami -FO= éba-tseb = éva-szép, vagy éva-szebb jelentésű, de "előre" = becsabé =becsapó. Hiszen fiát mindenkit becsapva juttatta a trónra. Persze lehet, hogy ez is csak "véletlen".
 { #mu11co}
 
 
