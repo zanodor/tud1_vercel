@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:41","updated":"2026-05-08T02:23"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:41","updated":"2026-06-13T23:20"}
 ---
 
 
@@ -106,7 +106,7 @@ Az átkelés kapcsán az ószövetségi Vörös-tengeren való átlépés juthat
 [[P/Pészah\|Pészah]] címnél Supka Géza írja is:  
 > Históriai jelentése szerint a zsidók "átmenete" Egyiptusból a Vörös-tengeren át; csillagászati jelentése szerint pedig a Nap átmenete a tavaszi napéjegyenen.  
 > Pészah csillagászati érvényű jelentősége teljesen hasonló tehát az itt taglalt áthaladás, keresztezés és hasonló jelentésekkel előjövő szavak mögötti háttérhez.
-- Folytatást lásd még [[J/Jézus#Jézus keresztrefeszítése\|Jézus keresztrefeszítése]] cím/alcímnél Louis Gordon Rylands adataival.
+- Folytatást lásd még [[J/Jézus#Jézus keresztre feszítése\|Jézus keresztre feszítése]] cím/alcímnél Louis Gordon Rylands adataival.
 
 Volt egy másik átkelés is, a [[J/Jordán\|Jordán]]-folyón átlépés, mely történetben az volt érdekes, hogy Mózesnek nem volt szabad átlépnie. Már e kapcsán is gondoltam, hogy asztrális vonatkozása lehet, de amikor [[C/Caleb\|Caleb]] is szóba kerül, akinek neje [[M/Miriam\|Miriam]] "prófétanő" és ő az, aki Egyiptomból "hazavezeti" a zsidókat, ráadásul úgy, hogy a Vörös-tengeren keresztül vezet az út, akkor szintén arra lehetett gondolni, hogy a folyó/tenger a Tejút. Hogy most a Jordánon és a Vörös-tengeren is vezet át az út, nem tudom és nincs is időm megnézni, ugyanakkor valaki már az interneten mondta/írta, hogy a Vörös-tenger nem az, aminek gondoljuk (talán Práczki István Szittya Biblia című könyvében utalt rá).  
 Ezen a ponton térjünk vissza oda, hogy a sémi igék eredete nem más, mint Eb-Er, Ib-Ir, azaz a Kutyacsillag Szíriusz. [[S/Szíriusz mozgása\|Szíriusz mozgása]] címnél volt arról szó, hogy a Szíriusz és Procyon helyen cserélhetnek. Talán a nagy, jelentőségteljes korszakváltozások egyik beharangozója volt, ha Szíriusz átkelt a Tejúton. Az átkel jelentés biztosan égi eredetű. Az, hogy [[N/Nibiru\|Nibiru]] Szíriuszra vagy mi másra vonatkozik, egy másik cím alá tartozik. Bár azóta ezen témáról ott is volt szó.  
