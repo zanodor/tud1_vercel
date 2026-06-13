@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hargita Csaba Ferenc/","title":"Hargita Csaba Ferenc","tags":["containscallouts"],"created":"2026-03-08T17:00","updated":"2026-04-03T20:16"}
+{"dg-publish":true,"permalink":"/H/Hargita Csaba Ferenc/","title":"Hargita Csaba Ferenc","tags":["containscallouts"],"created":"2026-03-08T17:00","updated":"2026-06-13T23:58"}
 ---
 
 
 # Hargita Csaba Ferenc
 
 > [!caution] &nbsp;
-> *Ki ez a ![Hargita Csaba Ferenc_image20260310152926246.jpeg\|right\|200](/img/user/H/assets/Hargita%20Csaba%20Ferenc_image20260310152926246.jpeg)"professzor"?*
+> *Ki ez a ![Hargita Csaba Ferenc_image20260310152926246.jpeg|right|200](/img/user/H/assets/Hargita%20Csaba%20Ferenc_image20260310152926246.jpeg)"professzor"?*
 > <small>An IT security consultant having more than 20 years of experience in information technology altogether, spending the last 10 years in IT security an compliance, specialized in in the international legislation of personal data protection since 2011.</small>
 > <small>Bachelor of politology studies completed at the Kodolányi János Főiskola in Budapest (2014), with expertise in international relations and EU integration. Thesis made in the subject of “The characteristics of Eastern alternative medicines and their impact on Western view of life.”</small>
 > <small>Special interest in foreign languages and religious philosophies, especially in their impact to international and Hungarian political, economic and social courses.</small>
@@ -28,7 +28,8 @@ Közben, mint rájövök, a tanulmány Hargita Csaba professzor közreműködés
 - Vagy az az írótársa? Még mindig nem egyértelmű, de a kép tisztul...
 
 A Hargita Csaba Ferenc közreműködésével készült A magyarok őstörténete – a magyar-héber kapcsolat című dolgozatban maga is az Izrael és Magyarország közötti kapcsolatokat keresi és nehezen eldönthető, mikor magyar- és mikor zsidó-párti. Most éppen utóbbi ([[K/Kazár\|kazár]] címhez is betéve):  
-> Az ókori Mezopotámából, Anatóliából, vagy a Kaukázusból származó Közép Ázsián keresztül Indiáig és Kínáig terjeszkedő, majd nyugat felé sikeresen előrenyomuló, főhadiszállásaikat a Volga-Dnyepr térségben felállító és a Kárpát-medence elfoglalását\[?\] közös célul kitűző vegyes eredetű törzsek egyesítése csakis olyan vérszövetségek által valósulhatott meg, amilyeneket fentebb már említettünk. Ilyen heterogén csoportoknak közös törvény kell, és szorosan ragaszkodniuk kell a minden egyes törzs által elfogadott szabályokhoz: az összekötő elem a habirok lehettek, akiknek vallási és jogi rendszere tűnik az egyetlennek, ami érvényesült és továbbadatott a mai Magyarország Árpád általi megalapításáig.  { #4bbtu4}
+> Az ókori Mezopotámából, Anatóliából, vagy a Kaukázusból származó Közép Ázsián keresztül Indiáig és Kínáig terjeszkedő, majd nyugat felé sikeresen előrenyomuló, főhadiszállásaikat a Volga-Dnyepr térségben felállító és a Kárpát-medence elfoglalását\[?\] közös célul kitűző vegyes eredetű törzsek egyesítése csakis olyan vérszövetségek által valósulhatott meg, amilyeneket fentebb már említettünk. Ilyen heterogén csoportoknak közös törvény kell, és szorosan ragaszkodniuk kell a minden egyes törzs által elfogadott szabályokhoz: az összekötő elem a habirok lehettek, akiknek vallási és jogi rendszere tűnik az egyetlennek, ami érvényesült és továbbadatott a mai Magyarország Árpád általi megalapításáig.  { #4bbtu4}
+
 
 
 [[E/Életfa\|Életfa]] címnél pedig:  
@@ -55,12 +56,12 @@ Az illető arcát elnézve megint az látszik, hogy ő rokonait láthatja magyar
 
 ## "Szarvas rejteke"
 
-*A nevek titka  avagy magyarok őshazája és vándorlása  a nép elnevezéseinek földrajzi előfordulásának tükrében* c. 2017-es dolgozatát nem találom jelenleg az interneten. Annak 18. oldalán szerepelt (ráadásul nem is az arabbal foglalkozik, hanem már perzsa szavakkal jön elő):  
+*A nevek titka  avagy magyarok őshazája és vándorlása  a nép elnevezéseinek földrajzi előfordulásának tükrében* c. 2017-es dolgozatát nem találom jelenleg az interneten. Annak 18. oldalán szerepelt (ráadásul nem is az arabbal foglalkozik, hanem már perzsa szavakkal jön elő):  
 > De a perzsában a *magyarhoz*, vagy *magirhoz* hasonló hangzású kifejezéseket is találunk, például:
-> ‎• `مغار` (`maghār`) – a szarvas rejteke, barlang
-> ‎• `مقر` (`magharr`) – (állandó) lakhely, letelepedni; lepecsételni
-> ‎• `مهار` (`mahār`) – kantár, zabola
-> ‎• `مهیر` (`mahīr`) – Hold
+> • `مغار` (`maghār`) – a szarvas rejteke, barlang
+> • `مقر` (`magharr`) – (állandó) lakhely, letelepedni; lepecsételni
+> • `مهار` (`mahār`) – kantár, zabola
+> • `مهیر` (`mahīr`) – Hold
 > 
 > Alkalmazott jelentése pedig kiterjed a mesterembertől, a valami felett ellenőrzést megszerzőn át Hold szerűen ragyogó arcúig. De találunk Mazar (**مازار**) nevű méd tábornokot Kourosh seregében, ahogy perzsa Maziart (**مازیار**) is Tabarisztáni állomáshelyen.  
 
