@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Éh/","title":"Éh","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-11-06T16:20","updated":"2026-05-21T05:04"}
+{"dg-publish":true,"permalink":"/E/Éh/","title":"Éh","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-11-06T16:20","updated":"2026-06-13T23:58"}
 ---
 
 
@@ -23,7 +23,7 @@ Amit Magyar Adorján ír éha szóról:
 
 Fontos is szólnunk arról, hogy az éh megfelel az [[I/Ív\|ív]] (és [[I/Íj\|íj]]) szavaknak és [[H/Hunger\|hunger]], [[K/Khamor\|Khamor]], valamint [[H/Homorú\|homorú]] címnél írottak alapján egy csillagászati hátterű témát sikerült feldolgozni, de legalábbis a vizsgálati alapokat lerakni: a nyári napfordulón van a nemzés (amikor a Nap legmagasabbra hág, akkor a legerősebb és Szíriusszal is akkor kel együtt, mely Szíriusz kapcsán lásd még [[K/Kutyanemzés\|kutyanemzés]]).  
 
-Az [[I/Ív\|ív]] címnél is taglalt, [[E/EB\|EB]] = [[I/Ív\|ív]] = [[I/Íj\|íj]] összefüggései alapján taglalt joruba `ìfẹ́`/`ife` = szerelem szót (lásd [[E/EB#Eb mint Ív/Íj\|Eb mint Ív/Íj]] cím/alcím alatt) éh ≈ vágy szóval is lehetséges megfeleltetni. Még inkább a japán `aj` = szerelem szó is közvetlenül éh/áh-ít szavunkkal feleltetendő meg (nem a török Holdat jelentő `Aj` vagy a magyar [[A/Ajz\|ajz]] szóval).  
+Az [[I/Ív\|ív]] címnél is taglalt, [[E/EB\|EB]] = [[I/Ív\|ív]] = [[I/Íj\|íj]] összefüggései alapján taglalt joruba `ìfẹ́`/`ife` = szerelem szót (lásd [[E/EB#Eb mint Ív/Íj\|Eb mint Ív/Íj]] cím/alcím alatt) éh ≈ vágy szóval is lehetséges megfeleltetni. Még inkább a japán `aj` = szerelem szó is közvetlenül éh/áh-ít szavunkkal feleltetendő meg (nem a török Holdat jelentő `Aj` vagy a magyar [[A/Ajz\|ajz]] szóval).  
 [[H/HAM\|HAM]] címnél is szóba került az éhség és a nyári napfordulós téridőbeli pont.  
 A folklórban az evés gyakran az intim kapcsolat metaforája.  
 Az éh(om), az almából evés, valamint a [[H/Hysteria\|hysteria]] címnél álló adat, hogy a méh tápláléka az ondó, mind ide tartozik.  
