@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Béka/","title":"Béka","tags":["containscallouts"],"created":"2024-04-21T14:29","updated":"2026-03-05T01:37"}
+{"dg-publish":true,"permalink":"/B/Béka/","title":"Béka","tags":["containscallouts"],"created":"2024-04-21T14:29","updated":"2026-06-13T23:22"}
 ---
 
 
@@ -42,7 +42,7 @@ Más mitológiákban az életfa alján, gyökerében kerül megjelenítésre.
 Márpedig még maga a [[V/Vulva\|vulva]], ahogy kimutattuk, is könnyen utalhat a [[G/Galactic centre\|Tejútközpont]]ra, a Tejútistennő szeméremnyílására (Nyílás > Nyilas). Ezek alapján a Bék-A a Nap születési helyére kell utaljon. (Erről [[M/MAG\|MAG]], [[K/KUN\|KUN]], [[S/SZAG\|SZAG]], [[N/Nap\|Nap]], [[S/Szül\|szül]] és más címnél is volt szó.)  
 
 A [[H/Hunahpu\|Hunahpu]] címnél írottak szintén ezt támasztják alá:  ![assets/Béka_image2.png|fix_dark fix_light right|300](/img/user/B/assets/B%C3%A9ka_image2.png)  
-A mellékelt, [[K/Keresztre feszített Nap\|keresztre feszített Nap]] és [[O/Orant\|orant]] címnél is szereplő képen Hun Hunahpu (Egy Hunahpu) a kozmikus békából (a Tejútistennő méhéből/vulvájából) kel ki/támad fel. A béka másutt John M. Jenkinsnél jaguár-varangy, de a lényegen nem változtat.  
+A mellékelt, [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] és [[O/Orant\|orant]] címnél is szereplő képen Hun Hunahpu (Egy Hunahpu) a kozmikus békából (a Tejútistennő méhéből/vulvájából) kel ki/támad fel. A béka másutt John M. Jenkinsnél jaguár-varangy, de a lényegen nem változtat.  
 
 John Major Jenkins Galactic Alignment című könyvében is írja, hogy David Kelley kutató szerint is a fejét felfelé tartó, nyitott szájú béka születés értelmű.  
 Ez összevág azzal, hogy a [[S/SZOL\|Szol]] Napnévből származik Szül igénk (mely pedig a [[S/Szűz\|szűz]] névhez kapcsolódhat), éppúgy, ahogy a Bék Napnév kiadja a Béka nevet.   
