@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2026-05-21T04:58"}
+{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2026-06-13T23:56"}
 ---
 
 
@@ -50,7 +50,7 @@ Különösen hangsúlyos a hasonlításnál a farkuk. Várkonyi Nándor is emlí
 
 Na mármost, az ape név egyezőnek vehető [[E/EB\|eb]] szavunkkal. A kutyát és farkast több nép eredetmondájában szerepeltetve ősének tette meg. Az ős lehet ugye anya és apa. Azaz az [[A/Apa\|apa]] és [[E/EB\|EB]] szavunk között kell legyen jelentésbeli átfedés. Ez [[K/Kalb\|kalb]] és más címnél írottak alapján igazolt is. (A nagy kutya mindig a vezető, ahogy az apa a felső/felette álló.)  
 A vitatható adatokat szolgáltató, de Huszárik László által többet idézett E. W. Bullinger The Witness of the Stars című könyvében írja, hogy a Nagy Kutya csillagkép [[D/Dendera\|denderai]]-zodiákusbeli dekanátus-neve **Apes** (ezzel az Orion környéki ilyen nevű csillagképek száma bővül):  
-> In the Denderah Zodiac he is called **Apes**, which means the head. He is pictured as a hawk (Naz). The hawk is the natural enemy of the serpent, and here it has on its head a pestle and mortar, indicating the fact that he shall crush the head of the enemy. In the Persian planisphere it is pictured as a wolf, and is called Zeeb, which in Hebrew means the same thing. "Plutarch translates it `Προόπτης`, Leader.  
+> In the Denderah Zodiac he is called **Apes**, which means the head. He is pictured as a hawk (Naz). The hawk is the natural enemy of the serpent, and here it has on its head a pestle and mortar, indicating the fact that he shall crush the head of the enemy. In the Persian planisphere it is pictured as a wolf, and is called Zeeb, which in Hebrew means the same thing. "Plutarch translates it `Προόπτης`, Leader.  
 > —  
 > A Denderah Zodiákusban **Apes**-nek hívják, ami a fejet jelenti. Sólyomként (Naz) van ábrázolva. A sólyom a kígyó természetes ellensége, és itt a fején egy mozsár és egy mozsártörő van, ami arra utal, hogy szét fogja zúzni az ellenség fejét. A perzsa plániszférában farkasként van ábrázolva, és Zeebnek nevezik, ami héberül ugyanazt jelenti. "Plutarkhosz úgy fordítja, hogy `Προόπτης`, a Vezető.
 { #r0hewd}
