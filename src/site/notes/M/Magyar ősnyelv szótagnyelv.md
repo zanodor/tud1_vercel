@@ -1,22 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["containstransclusions"],"created":"2023-10-09T06:36","updated":"2026-05-21T05:02"}
+{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["containstransclusions"],"created":"2023-10-09T06:36","updated":"2026-06-13T23:57"}
 ---
 
 
+<!--section: 1-->
 # Magyar ősnyelv szótagnyelv
 
+<!--section: 1.1-->
 Bevezetést lásd [[E/Etymon\|etimon]] és [[M/Magyar nyelv ősisége – ősnyelv-e a magyar\|magyar nyelv – ősnyelv-e a magyar]]?  
 
+<!--section: 2-->
 #### Magyar Adorján Ősműveltség...  
 
+<!--section: 2.1-->
 ...című könyvében [[K/Kő\|kő]] szavunk kapcsán írja:  
 > Az igazi ősszavak mindig egytagúak, mivel egyszerű hangadásokból keletkeztek, és természetesen mindig olyan dolgokat neveznek meg, amelyeket már az ősember is ismert, vagyis olyanokat, amelyek a természetben fordulnak elő, mint például kő, főld, víz, fa, fú stb., stb. Mihelyt tehát valamely szó többtagú, akkor az csakis valamely egytagú ős-szó származéka lehet. Eszerint kétségtelen, hogy nemcsak a szláv `kamen`, hanem a finn `kive` = kő szó is a mi kő szavunk származéka.  
 - Magyar Adorján más írását lásd [[M/Magyar két-, három- és négy hangból álló istenségnevek\|magyar két-, három- és négy hangból álló istenségnevek]] címnél. Magyar A. elmélete szerint a főisten neve egymássalhangzós, a Napistené már kétmássalhangzós. <br/>
 Ha már kő, Baráth Tibor A magyar népek őstörténete I. kötetének 80. oldalán Jerikó nevében mutatja ki a kő = föld alapszót és tesz utalást a magyar nyelv szavainak szótagnyelv-szerkezetére:  
 > Ezekben a földrajzi nevekben kétségen kívül ősrégi egytagú magyar szavak szerepelnek.  
 
+<!--section: 3-->
 #### Péterfai János írása:  
 
+<!--section: 3.1-->
 > A gyerekmondókák általában nagyon régi korból származnak, ami miatt rendkívüli értéket képviselnek. Olyan régi korból, amikor még a szótag nyelv létezett, az emberek szótagokkal beszéltek, mert a szótagok voltak a szavak. Abban az időben még nem léteztek indoeurópai nyelvek, és az afroázsiai nyelvek sem terjedtek el nagy területekre. Az indoeurópai nyelveknek meg kellett várniuk a szavak kiteljesedését, amiből aztán felgyorsulhattak, lerövidülhettek, elsősorban a magánhangzók kivetésével, és megjelenhettek a minden szótagot, vagyis eredetileg minden szót kimondó nyelvekből, nyelvjárásokból.  
 > Itt bejön a Szótagolás és az eszetlenség által kitalált Darabolás eljárás. Ha valaki Darabolja a szavainkat, nagyon rosszat tesz. Fogalma sincs a magyar nyelvről, sem a többi magyar származású nyelvről. Tilos a Darabolás! A Szótagolás a helyes művelet, amikor egy szóban ismerjük a szótagok jelentését, akkor az egész szó jelentése is teljesen világos. Vigyázat, legnagyobb nyelvészeink sem ismerték fel ennek a módszernek a hibáit, és gyakran tévútra vezették a magyar nyelvtudomány igazi kutatóit. A morfémák felismerése tehát rendkívül fontos. A magyar nyelv módszereinek kutatását külön írásban adtam meg, aminek a címe: Éden nyelve.  
   
@@ -36,8 +42,10 @@ Péterfai János jól látta meg, hogy a magyar szótagnyelv. Ezen szótagok ped
 [[A/A\|A]] címnél is szerepelt Péterfai János adatsora, ahol elmondja a magyar szavak működésének receptjét:  
 > Ha a magánhangzók jelentéseit feltártuk, akkor a két hangból álló szavak jelentéseit kell meghatározni. Utána jönnek a három hangból álló szavak. A két hangból álló alapszavakat az U-A-E-I magánhangzók alapján vizsgáljuk, az O-Ö-Ü magánhangzókra csak ez után megyünk át[^1]. A mássalhangzók a következők, zöngétlen és zöngés párokban: T-D, Sz-Z, K-G, J-H, P-B, F-V, és M-N, L-R. Ez a 16 betű alkotja az alapvázat, amely alapszavak jelentései megadják az egész emberiség nyelveinek alapját. Az emberiség összes nyelve tehát egyetlen nyelvből ered, amit nevezzünk ősnyelvnek.  
 
+<!--section: 4-->
 ## Kétszótagú szavak összeállása
 
+<!--section: 4.1-->
 Illetve még a fentiek kiegészítéseként inkább kezdjük a legelejéről.  
 Először jönnek a magánhangzók (ahogy Tomory Zsuzsa Szerves magyar nyelvtudomány című az Ősi Gyökér 2004/3. számában megjelenő, itt-ott idézett cikkében írt róluk), ahhoz járulnak a mássalhangzók, melyek közül kimondottan az alant taglalt szócskákat alkotó N és R érdekes (még a G, H, K is, mely az ég és föld kétbetűs szavait alkotják és változatait, szavak végén gyakorta).  
 Az alapszavak mássalhangzó-vázra épülnek, bennük a magánhangzók cserélhetők (a magyar nyelvben nagy a variációs lehetőség, más nyelvekben hiányoznak hangok), általában mély magánhangzó mélyre, magas magasra, de ha az első szótag magas magánhangzós, akkor az általán mély magánhangzósnak ismert szóelem magasra vált, a magánhangzós harmónia szabály miatt.  
@@ -54,8 +62,10 @@ Az esetek nagy százalékában a Nap jelentésű szó van elöl (Ró, Tu(r), Du,
 
 Így épülnek fel a két szótagos szavak. Ezt így Péterfai János szájbarágósan nem írja le, de ez a lényeg. Lásd még kifejtve alant.  
 
+<!--section: 5-->
 ## A magyar nyelv szavainak logikája
 
+<!--section: 5.1-->
 
 
 A magyar nyelv szavainak eredetét a Nap-Föld reláció és az erre alapozott három időkör (napi, kis éves[^2] és precessziós Nagy Éves) ([[H/Hunor és Magor\|Hunor és Magor]] rendszer) illetve [[E/Életkör\|életkör]], azon belül pedig – annak felosztása után – az ellentétekre épülő [[D/Dualisztikus világkép\|dualisztikus világkép]] adja. (Lásd még erről például [[F/Félelem#Gond és félelem évköri értelmezése\|gond és félelem évköri értelmezése]] cím/alcímnél írottakat.)  
@@ -116,6 +126,7 @@ main -right-w7 : S, SZ
 [[A/AN, ÁN#An/Án, Any, On, Ony, En, Eny, stb. szóvégződések a magyar és magyar-utód nyelvű szóösszetételekben\|An/Án, Any, On, Ony, En, Eny, stb. szóvégződések a magyar és magyar-utód nyelvű szóösszetételekben]] cím/alcímnél írottakat is lásd.  
 Lásd még legutóbb [[M/Magyar szavak idegen nyelvekben\|magyar szavak idegen nyelvekben]] címnél írottakat is.  
 
+<!--section: 6-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
