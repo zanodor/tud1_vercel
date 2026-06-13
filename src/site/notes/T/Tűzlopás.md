@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűzlopás/","title":"Tűzlopás","created":"2024-05-15T19:59","updated":"2026-04-24T09:39"}
+{"dg-publish":true,"permalink":"/T/Tűzlopás/","title":"Tűzlopás","created":"2024-05-15T19:59","updated":"2026-06-13T23:24"}
 ---
 
 
 # Tűzlopás
 
-Tűz-lehozás címmel is állhatna. Épp a hozni értelmű angol [[B/Bring\|bring]] szónál szerepelt Fáy Elek A magyarok őshona című könyvének 208-210. oldala által ihletett írás arról, hogy miként lehet az, hogy felsorolásra kerülnek B-L, P-L, B-R, V-R, stb. vázú (növény- és állat)nevek: olyanok, melyekben közös, hogy tüzük, lelkük, életmelegük van, azaz egyszóval élet van bennük. Ugyan a [[F/Friction\|friction]] címnél is taglalt [[T/Tűzfúrás\|tűzfúrás]] logikáját és a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] ideáját is beleláthatnánk a szavakba, mégsem kell forgást keresni bennük, de tény, hogy maga a forgatás is a tűzcsináláshoz kötött, ahogy hoz, hordoz, lop, stb. is a tűz égről való lelopásához/lehozásához. Az is kétségtelen, hogy az [[E/Életkör\|életkör]] fontos rendszer és abban minden forog. Lásd még Magyar Adorján sorai alatt erről.  
+Tűz-lehozás címmel is állhatna. Épp a hozni értelmű angol [[B/Bring\|bring]] szónál szerepelt Fáy Elek A magyarok őshona című könyvének 208-210. oldala által ihletett írás arról, hogy miként lehet az, hogy felsorolásra kerülnek B-L, P-L, B-R, V-R, stb. vázú (növény- és állat)nevek: olyanok, melyekben közös, hogy tüzük, lelkük, életmelegük van, azaz egyszóval élet van bennük. Ugyan a [[F/Friction\|friction]] címnél is taglalt [[T/Tűzfúrás\|tűzfúrás]] logikáját és a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] ideáját is beleláthatnánk a szavakba, mégsem kell forgást keresni bennük, de tény, hogy maga a forgatás is a tűzcsináláshoz kötött, ahogy hoz, hordoz, lop, stb. is a tűz égről való lelopásához/lehozásához. Az is kétségtelen, hogy az [[E/Életkör\|életkör]] fontos rendszer és abban minden forog. Lásd még Magyar Adorján sorai alatt erről.  
 
 Fáy anyagát...
 
