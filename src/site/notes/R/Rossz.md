@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Rossz/","title":"Rossz","tags":["Englishtexttranslated"],"created":"2024-10-26T21:25","updated":"2025-07-03T01:17"}
+{"dg-publish":true,"permalink":"/R/Rossz/","title":"Rossz","tags":["Englishtexttranslated"],"created":"2024-10-26T21:25","updated":"2026-06-13T23:23"}
 ---
 
 
@@ -53,7 +53,7 @@ A több helyen említett latin `prāvus` vagy `pravus` = rossz; gonosz szó elő
 > Latin `pravus` was literally "crooked," but most commonly "wrong, bad;" and other words for "crooked" also have meant "wrong" in Italian and Slavic.  
 > —  
 > A latin `pravus` szó szerint "görbe", de leggyakrabban "rossz"; és a "görbe" más szavai az olaszban és a szlávban is "rosszat" jelentettek.  
-- Azaz a [[F/Ferde\|ferde]]ség a kiinduló, mely ferdeség kapcsán a kereszt értelmet is megtaláltuk. Ezért jelent a latin `malus` = rosszat, mert az M-L gyök a malomra és ismét forgásra utal? Nos, ott inkább a [[B/Bal\|bal]] fogalmát kell keresni. A kereszt kapcsán a forgatólagosság és a négy szám (a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] száma) jött elő több helyen.
+- Azaz a [[F/Ferde\|ferde]]ség a kiinduló, mely ferdeség kapcsán a kereszt értelmet is megtaláltuk. Ezért jelent a latin `malus` = rosszat, mert az M-L gyök a malomra és ismét forgásra utal? Nos, ott inkább a [[B/Bal\|bal]] fogalmát kell keresni. A kereszt kapcsán a forgatólagosság és a négy szám (a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] száma) jött elő több helyen.
 
 
 
