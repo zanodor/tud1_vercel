@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cautha/","title":"Cautha","created":"2023-10-13T02:19","updated":"2026-03-05T01:52"}
+{"dg-publish":true,"permalink":"/C/Cautha/","title":"Cautha","created":"2023-10-13T02:19","updated":"2026-06-13T23:25"}
 ---
 
 
@@ -20,5 +20,5 @@ A név igen hasonló a [[K/Kutya\|kutya]] és [[G/Guta\|guta]] (Gott, [[G/God\|G
 A mellékelt ![assets/Cautha_image2.png|fix_dark fix_light right|300](/img/user/C/assets/Cautha_image2.png)  képen egy győri ásatásból származó honfoglalás-kori farkukkal összekapcsolódó sárkányok láthatók, de feltűnően kutyafejjel és kígyótesttel. (Nem-e dák jelvény lehet?)  
 A témáról legutóbb [[G/Göd\|Göd]] címnél is volt szó. Az Magyar Adorján féle kutyás-kígyós motívumukról szereplő kép átkerült oda.  
 
-A kutyára visszatérve, [[K/Kéz\|kéz]] címnél szerepelt, hogy a kutyának négy keze illetve lába van. Márpedig a [[N/Négy\|négy]] a [[K/Keresztre feszített Nap\|keresztre feszített Nap]] száma, melyek egy-egy stációt jelölnek, a kelő, delelő, lemenő és éjjeli/halott Napét (lásd [[N/Nap – halott Nap\|Nap – halott Nap]]).  
+A kutyára visszatérve, [[K/Kéz\|kéz]] címnél szerepelt, hogy a kutyának négy keze illetve lába van. Márpedig a [[N/Négy\|négy]] a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] száma, melyek egy-egy stációt jelölnek, a kelő, delelő, lemenő és éjjeli/halott Napét (lásd [[N/Nap – halott Nap\|Nap – halott Nap]]).  
 
