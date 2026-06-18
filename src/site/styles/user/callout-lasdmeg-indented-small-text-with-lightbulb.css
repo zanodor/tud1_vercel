@@ -11,12 +11,11 @@
     margin: 4px 0 1em 15px;
     padding: 8px;
     
-    float: right;
-    clear: both;
+    /* float: right;*/ /* THIS MESSES WITH READING MODE, see https://chatgpt.com/c/6a341ded-ee38-83eb-a9d7-88a55b997d9d */
+    /* clear: both; */
     
     border: none;
-    
-    text-align: justify;
+    /* text-align: justify; */ /*Separate css handles this for ALL callouts*/
 }
 
 /* Hide fold icon */
