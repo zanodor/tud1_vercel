@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Goat/","title":"Goat","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-12-18T11:22","updated":"2026-03-25T02:21"}
+{"dg-publish":true,"permalink":"/G/Goat/","title":"Goat","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-12-18T11:22","updated":"2026-06-19T22:15"}
 ---
 
 
@@ -70,4 +70,4 @@ Egy óörmény `kat'n` = tej lett megjelölve a latin `gutta` = csepp (lásd [[G
 Ha már kabarok, Magyar Adorján Csodaszarvasának (a PDF) 167. oldalán írja, hogy a [[G/Gepárd\|gepárd]] is lehetett náluk a Tejútanya egyik állatalakja, de nem a szarvas, hanem nyilván a [[L/Ló\|ló]] ([[F/Fehérlófia\|Fehérlófia]] anyja) helyettesítőjeként, hiszen a gepárd névben a ló elnevezését látta Magyar Adorján.  
 
 [^4]: Lábjegyzet:  
-Másutt, [[K/Kelta\|kelta]] címnél is szerepelt, hogyan nyelvi bizonyítéknak számít déli származásukra nézve az, hogy a perzsa `mis` = kecskebak szóval azonos kelta `mìs` (`mìseach`) = kecske, őz kettős jelentésű, holott [[M/MISZ\|MISZ]] címnél írottak szerint tudjuk, hogy eredetileg M-SZ vázú szavak szarvas jelentéssel álltak csak (bizonyíték erre az észak-amerikai eredetű [[M/Moose\|moose]]), ugyanis a szarvas (és így tisztelete) délen a szabiroknál/kabaroknál nem volt meg, így ki kellett váltsa a kecske. Ugyanez áll az aztékokra (a nahuatl `mazatl` = szarvas (őz?) mellett kecske jelentéssel is megadott).  
+Másutt, [[K/Kelta\|kelta]] címnél is szerepelt, hogyan nyelvi bizonyítéknak számít déli származásukra nézve az, hogy a perzsa `mis` = kecskebak szóval azonos kelta `mìs` (`mìseach`) = kecske, őz kettős jelentésű, holott [[M/MISZ\|MISZ]] címnél írottak szerint tudjuk, hogy eredetileg M-SZ vázú szavak szarvas jelentéssel álltak csak (bizonyíték erre az észak-amerikai eredetű [[M/Moose\|moose]]), ugyanis a szarvas (és így tisztelete) délen a szabiroknál/kabaroknál nem volt meg, így ki kellett váltsa a kecske. Ugyanez áll az aztékokra (a navatl `mazatl` = szarvas (őz?) mellett kecske jelentéssel is megadott).  
