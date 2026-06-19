@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2026-03-05T01:28"}
+{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2026-06-19T22:14"}
 ---
 
 
@@ -120,7 +120,7 @@ Gavin White-nak, a Babylonian Star Lore című könyv írójának nyelvi adatai 
 > A **La-jel** ‘bőséget, túláradást, gazdagságot’ írására használható.  
 > Képi szinten e jelek kombinációja a *Vízöntő* vázáiból áramló bőséges vízsugarakat sugallja.
 
-Gu-La helyes megfejtésében követelmény, hogy meg kell felelni a szemközti Oroszlán Ur-Gu-La értelmének is, ugyanakkor a különbség csak az [[U/UR\|UR]]-ban van. Vélhetően az Oroszlánból kellene kiindulni és nem fordítva (a precessziós évkör évezredeit, azaz a [[N/Nagy Év\|Nagy Év]]et is beleszámolva). Tehát nem (csak) a `GU` = nyak, vizesvödör[^3] értelmével (lásd még akkád, török és egyéb szavakat [[V/Vízöntő csillagkép\|Vízöntő csillagkép]]), hanem a GU-LA (akár mint [[G/Gúla\|gúla]] és/vagy [[G/Gyula\|Gyula]], vagy inkább [[G/Gula\|Gula]]-nél írottak alapján a Kutya/Főség-Helye értelemmel számolunk.  
+Gu-La helyes megfejtésében követelmény, hogy meg kell felelni a szemközti Oroszlán Ur-Gu-La értelmének is, ugyanakkor a különbség csak az [[U/UR\|UR]]-ban van. Vélhetően az Oroszlánból kellene kiindulni és nem fordítva (a precessziós évkör évezredeit, azaz a [[N/Nagy Év\|Nagy Év]]et is beleszámolva). Tehát nem (csak) a `GU` = nyak, vizesvödör[^3] értelmével (lásd még akkád, török és egyéb szavakat [[V/Vízöntő csillagkép\|Vízöntő csillagkép]]), hanem a GU-LA (akár mint [[G/Gúla\|gúla]] és/vagy [[G/Gyula\|Gyula]], vagy inkább [[G/Gula\|Gula]] címnél írottak alapján a Kutya/Főség-Helye értelemmel számolunk.  
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvében a két Gula név azonosságára csak azt írja, hogy "szójáték."  
 Hogy a Vízöntő jegy neve akkor is az lett volna, ami lett, ha nem létezne Oroszlán jegy, nem tudni, de a [[G/Gúla\|gúla]] lefelé fordítva valóban kehely/vödör formát ad ki. Lényegében az egyik jegy mindig hímségi, fénytöbbletes, a másik nőiségi, hiányos. (A szemközti jegyek közül is mindig az egyik a szellemiségre, a másik a testiségre utal.)  
 
