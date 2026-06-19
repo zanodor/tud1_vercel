@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Letöltések/","title":"Letöltések","created":"2023-12-28T07:46","updated":"2026-02-09T01:02"}
+{"dg-publish":true,"permalink":"/101/Letöltések/","title":"Letöltések","created":"2023-12-28T07:46","updated":"2026-06-19T19:41"}
 ---
 
 
@@ -27,9 +27,10 @@ Használja a keresőt (search) bármely webhelyen a keresett állomány megtalá
 - [Jelképtár](https://mega.nz/file/B7813ABR#V_vyBcph4sUpEPpidcRtIsIZIdA5O6j1YBHK8aQ883A)
 - [Magyar néprajzi lexikon](https://mega.nz/file/drNRBLrK#guCTPrlPTzaL9ae0DZeK8QclS4BQeFMLe9L4LhcOoGQ)
 - [Falvay Károly: Nagyboldogasszony](https://mega.nz/file/w21zCSqQ#Xxmcb0tPYtn5nDBLzWsDlhnXrma99lSJrXHK6W-fdYA)
-- [Tóth Gyula – Szkítiától Maghrebig (blog)](https://mega.nz/file/ZqMFVDJY#qQoUkL4j13STn6JTWXocdFx7nmYxjhQY6cHocsI1s_M)
+- [Tóth Gyula: Szkítiától Maghrebig (blog)](https://mega.nz/file/ZqMFVDJY#qQoUkL4j13STn6JTWXocdFx7nmYxjhQY6cHocsI1s_M)
 - [TeSz (Történeti-etimológiai szótár)](https://mega.nz/file/YrMH0bKQ#tQCyjtqz2a7tT_79JkspVqPxZUbpbMjgjWU8MTBLoXc)
 - [Drábik János](https://mega.nz/folder/oqU21TKQ#Z1yGjMKiJXrT9aynnfYFWg)
+- [Borsi-Kálmán Béla](https://mega.nz/folder/Q68UEC6J#AHhNNNnjzo_IGMwuPEn7ww) 
 - [Kubínyi Tamás ÁKTV](https://www.kubinyitamas.hu/)
     - Lásd még [[101/ÁKTV műsorok szöveges kivonatai\|ÁKTV műsorok szöveges kivonatai]].
 
