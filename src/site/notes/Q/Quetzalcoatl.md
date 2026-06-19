@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Q/Quetzalcoatl/","title":"Quetzalcoatl","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2024-12-18T11:34","updated":"2026-06-13T23:21"}
+{"dg-publish":true,"permalink":"/Q/Quetzalcoatl/","title":"Quetzalcoatl","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2024-12-18T11:34","updated":"2026-06-19T22:15"}
 ---
 
 
@@ -102,9 +102,9 @@ Viszont nemcsak a belső, a külső bolygók is napisteni vonatkozásúak. Janko
 Mindezek alapján a név értelmezésére visszatérve ([[K/Követ\|követ]] címnél írottak alapján is) elmondható, hogy neve Kecel-Kő, azaz Keccsölő/Cikázó Kő (a [[K/KU\|KU]] égitestet is jelent) és valóban a Vénuszra utalhat a név. Tulajdonképpen az Isten neve egy magyar nyelven érthető körülírás, de más kultúrák istennevei is azok.  
 
 Valójában a helyes értelmezést az adja meg, ha pontosan meghatározzuk, mit is jelölt, minek is volt istene Qutezalcoatl.  
-Kezdjük hátulról. A nahuatl nyelvű `coatl` = kígyó, iker, pipil `kuat`, `cúat` = kígyó[^4]. Legutóbb [[S/Sárkány\|sárkány]] címnél, kígyó és kutya részben volt szó arról, hogy a görög `küón` = kutya valójában egyezik a Magyar Adorján által kígyó jelentéssel valószínűsített kion, küon alakú szavakkal. Mit látunk a Qutezalcoatl ábrázoláson? Koponyatorzított kutyafejet kígyótesttel.  
+Kezdjük hátulról. A navatl nyelvű `coatl` = kígyó, iker, pipil `kuat`, `cúat` = kígyó[^4]. Legutóbb [[S/Sárkány\|sárkány]] címnél, kígyó és kutya részben volt szó arról, hogy a görög `küón` = kutya valójában egyezik a Magyar Adorján által kígyó jelentéssel valószínűsített kion, küon alakú szavakkal. Mit látunk a Qutezalcoatl ábrázoláson? Koponyatorzított kutyafejet kígyótesttel.  
 [[M/Miscoatl\|Miscoatl]] nevében ugye szintén szerepel ezen szóalak.  
-Legutóbb [[O/Oroszlán\|oroszlán]] címnél előjött a nahuatl-azték `cuāmiztli` = oroszlán szó, mely előtagja alapján kiderül, hogy nem is annyira kígyó, hanem farok ([[O/Ouroboros\|ouroboros]] címnél is arról beszéltünk, hogy most kígyó vagy farok jelentésű az előtag) jelentésű. Egyébiránt a katalán nyelvben is `cua` = kígyó, ahogy [[C/Coda\|coda]] címnél taglaltuk.  
+Legutóbb [[O/Oroszlán\|oroszlán]] címnél előjött a navatl-azték `cuāmiztli` = oroszlán szó, mely előtagja alapján kiderül, hogy nem is annyira kígyó, hanem farok ([[O/Ouroboros\|ouroboros]] címnél is arról beszéltünk, hogy most kígyó vagy farok jelentésű az előtag) jelentésű. Egyébiránt a katalán nyelvben is `cua` = kígyó, ahogy [[C/Coda\|coda]] címnél taglaltuk.  
 
 A Kecel előtag viszont még a modern magyar nyelvben is kutyakölyök jelentésű. Így a név kétszeresen is kapcsolatos a kutyával. Igen ám, de mivel [[Q/Quetzalcoatl és Huitzilopochtli\|Quetzalcoatl és Huitzilopochtli]] címnél szereplő adatok szerint Huitzilopochtli volt az eredeti, az óegyiptomi [[S/Széth\|Széth]]tel kapcsolatba hozható főisten, Qutezalcoatl inkább Jankovics Marcell adatával...
 - Másutt ugyanis azzal az (itt Tejutat tartó[^5]) [[A/Atlasz\|Atlassz]]al azonosítják, aki maga az egyiptomi Su-hoz hasonlóan [[O/Orion\|Orion]]-nal (is) azonosított (lásd Jankovics Marcell adatát [[S/SU#Su egyiptomi isten\|Su egyiptomi isten]]):  
