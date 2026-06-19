@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Chant/","title":"Chant","created":"2023-11-18T11:45","updated":"2024-10-25T16:18"}
+{"dg-publish":true,"permalink":"/C/Chant/","title":"Chant","created":"2023-11-18T11:45","updated":"2026-06-19T22:16"}
 ---
 
 
@@ -13,14 +13,17 @@
 
 Ha már finn, Kandra Kabos Magyar Mythologia című könyvének (a PDF) 176. oldalán említi a finn `kant` = igézni szót is, mely inkább [[E/Enchant\|enchant]] cím alá tartozik, de mindkettő eredete egy.  
 
-A latin `canere` énekel, `cantare` pedig a gyakorított formája: énekelget (lásd még [[C/Cant#Cant 2)\|cant]]).  
+A latin `canere` jelentése énekel, `cantare` pedig a gyakorított formája: énekelget (lásd még [[C/Cant#Cant 2)\|cant]]).  
 Vélhetően Kan/Kün/stb. kún/hun Napistenhez intézett énekelt fohászokat takar, vagy éppen a kutya hangkiadására ([[V/Vakkant\|vakkant]]ására; lásd még [[V/Voice\|voice]]) utal, így e szó is kétszeresen kún-magyar eredetű.  
 Szántai Lajos szól arról, hogy a hunok/szkíták zsoltárokat, himnuszokat énekeltek. Papképzőbe jó énekhang híjan nem nyertek felvételt.  
 A keleti vallások inkább megtartották az énekelést, lásd mohamedán ill. buddhista vallásokat.  
 A [[D/Dal\|dal]]/[[R/Rege\|rege]]/stb. mind a teremtés hangja.  
-A védákat éneklő brahmanista papot samana-nak mondja Szántai, és közvetlenül a [[S/Sámán\|sámán]] szóval rokonítható, ahogy meg is említi.  
+A védákat éneklő brahmanista papot `samana`-nak mondja Szántai, és közvetlenül a [[S/Sámán\|sámán]] szóval rokonítható, ahogy meg is említi.  
 
-Gyakorlatilag kimondhatjuk, hogy a mai nyelvben megtalálható [[C/Cant#Cant 2)\|cant]] és chant szavak (kiegészítve elődeikkel, jelentéstorzulásaikkal) elegendő bizonyítékul szolgál arra nézve, kik voltak azok, akik az egyes hangfrekvenciák elmére és anyagra kifejtett hatásaival kapcsolatos alapköveket letették: a tibeti, burmai, stb. buddhisták mantrái, a mongolok vagy kanadai inuitok khoomei torokhang-éneklése mind-mind a kúnok/hunok által kifejlesztett kánolások, énekek másolatai, továbbfejlesztései ill. rontásai.  
+Gyakorlatilag kimondhatjuk, hogy a mai nyelvben megtalálható [[C/Cant#Cant 2)\|cant]] és chant szavak (kiegészítve elődeikkel, jelentéstorzulásaikkal) elegendő bizonyítékul szolgál arra nézve, kik voltak azok, akik az egyes hangfrekvenciák elmére és anyagra kifejtett hatásaival kapcsolatos alapköveket letették: a tibeti, burmai, stb. buddhisták mantrái, a mongolok vagy kanadai inuitok [khoomei torokhang-éneklése](https://en.wikipedia.org/wiki/Tuvan_throat_singing) mind-mind a kúnok/hunok által kifejlesztett kánolások, énekek másolatai, továbbfejlesztései ill. rontásai.
+{ #260118}
+
+
 A kelta-ír `can` = énekelni, beszélni, (meg)nevezni a latintól függetlenül létezhetett.  
 
 A [[K/Kántor\|kántor]], mely a latinból fordítva – CzF definíciója szerint – énekes mester, valójában szakrális funkciókat ellátó ember címe lehetett. A Kán-Tor felbontás erről árulkodik. Azaz az éneklés itt is hozzákapcsolt (másodlagos) jelentés, de nem ez volt a fő értelme.  
