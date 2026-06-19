@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-06-19T22:11"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-06-19T23:36"}
 ---
 
 
@@ -23,7 +23,7 @@
 
 **2026:**
 
-<small>[260619CN! A HORN-FOK - Kubínyi Tamás ÁKTV](https://rumble.com/v7bj8h6-260619cn-a-horn-fok-kubnyi-tams-ktv.html)  [https://share.note.sx/wip8iqj6](https://share.note.sx/wip8iqj6) [https://archive.ph/Vu5pl](https://archive.ph/Vu5pl)</small>
+<small>[260619CN! A HORN-FOK](https://rumble.com/v7bj8h6-260619cn-a-horn-fok-kubnyi-tams-ktv.html)  [https://share.note.sx/wip8iqj6](https://share.note.sx/wip8iqj6) [https://archive.ph/Vu5pl](https://archive.ph/Vu5pl)</small>
 <small>[260618CN! JÚNIUS 18.](https://rumble.com/v7bhit0-260618cn-jnius-18.-kubnyi-tams-ktv.html)  [https://share.note.sx/inava977](https://share.note.sx/inava977) [https://archive.ph/mJlzL](https://archive.ph/mJlzL)</small>
 <small>[260617CN! SUNYIKA](https://rumble.com/v7bfpiw-260617cn-sunyika-kubnyi-tams-ktv.html)  [https://share.note.sx/aqd692ab](https://share.note.sx/aqd692ab) [https://archive.ph/IM6Nn](https://archive.ph/IM6Nn)</small>
 <small>[260616CN! JÚNIUS 16.](https://rumble.com/v7be5n6-260616cn-jnius-16.-kubnyi-tams-ktv.html)  [https://share.note.sx/nfrhbyzn](https://share.note.sx/nfrhbyzn) [https://archive.ph/8bySB](https://archive.ph/8bySB)</small>
