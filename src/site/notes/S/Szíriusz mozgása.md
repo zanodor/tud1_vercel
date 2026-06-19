@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2026-05-21T04:56"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2026-06-19T22:13"}
 ---
 
 
@@ -111,7 +111,7 @@ Ez az érdekesebbik része, annak megértésében, hogy a Nagy Év hanyatló és
 A száznak értelmezett egész két félre osztható, ikresített [[O/Ötven\|ötven]] tagokra, mely ötven egyrészt a 13000 év kódszáma, másrészt a felező tengely, a Tejút [[O/Ötevény\|Ötevény]][^4] nevével is egyező. (Ha nagyon bele akarunk menni, ezek szerint az ötven lehetett az első szám, mely ezt a V-N vázú végződést kapta, és ennek mintájára mondjuk, hogy negyven, hatvan, stb.)  
 A SZAT-tal kapcsolatba hozott [[C/Csata\|csata]] címnél pedig [[H/HAT\|HAT]] számunkról is volt szó: ott arra a következetésre jutottunk, hogy a hat azon állapot, amikor Nagy Év Nyilas-Ikrek tengelye alsópontjáról megindulunk a hét, a felső pont felé. Mondhatni 6 és 7 Nagy Év időkörére vonatkozó számok-stációk között annyi idő telik el, mint a 100 fele, 50 alatt, azaz 13000 év.  
 John M. Jenkins adatai alapján is tudjuk, hogy a Nagy Évben a Nap 13000 évente halad át a Tejúton, annak is egy fontos pontján, a Tejútközponton (minden John M. Jenkins-től származó infót lásd [[G/Galactic centre\|Tejútközpont]]). Ez is igazolja az 50 és a 13000 "azonosságát."  
-Ez a 13000 évenkénti egyszer a Tejút egyik, egyszer másik oldalán létünk lehet magyarázat arra is, hogy miért van a [[P/Procyon\|Procyon]] és a Szíriusz egyszer az egyik, mássszor a másik "Tejútparton."  
+Ez a 13000 évenkénti egyszer a Tejút egyik, egyszer másik oldalán létünk lehet magyarázat arra is, hogy miért van a [[P/Procyon\|Procyon]] és a Szíriusz egyszer az egyik, másszor a másik "Tejútparton."  
 De az sem mellékes, hogy 13000/50 = 260, és ez a [[M/Maja naptár\|maja naptár]] napokban mért hossza, illetve megközelítőleg az ember-embrió méhen belüli fejlődési ideje is.  
 Talán éppen ez a számítás az, ami elvetni látszik a Joscelyn Godwin Arktos The Polar Myth című könyvében taglalt Drayson 32000 éves és Milankovitch 41000 éves ciklusait. Persze korántsem tudjuk, hogy például 6-8 ezer évvel ezelőtt, vagy éppen 32-34 ezer évvel ezelőtt milyen szög alatt állt a Föld tengelye az ekliptikához képest, és hogy éppen a Szíriusszal való tánc pontosan hogyan befolyásolja a Naprendszerünk mozgását és a Föld tengelyének ferdeségét, melyről azt állítják, hogy változik.  
 
