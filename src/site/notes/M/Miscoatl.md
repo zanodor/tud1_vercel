@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Miscoatl/","title":"Miscoatl","tags":["Englishtexttranslated"],"created":"2023-10-21T02:18","updated":"2026-03-05T01:40"}
+{"dg-publish":true,"permalink":"/M/Miscoatl/","title":"Miscoatl","tags":["Englishtexttranslated"],"created":"2023-10-21T02:18","updated":"2026-06-19T22:15"}
 ---
 
 
@@ -57,7 +57,7 @@ Az utótagról lásd [[C/Coda\|coda]] és [[Q/Quetzalcoatl\|Quetzalcoatl]] címn
 Camaztle (kaˈmaʃt͡ɬe) from `camaz` "deer sandal" and atle "without" or Camaxtli – érdekes a kamásli névvel való azonosság.  
 
 [^2]: Lábjegyzet:  
-Mivel az azték [[M/Miscoatl\|Miscoatl]] név is köthető a Tejúthoz, kimondható, hogy a [[M/MISZ\|MISZ]] értelme kapcsolható a Tejútanya-Csudaszarvasünőhöz. Ugyan nem MISZ-es, hanem MASZ-os előtagú a nahuatl nyelvű `mazatl` = szarvas (őz?) és a pipil nyelvű `masat`, `mazat`. Ma-Szat (Anya-Kezdet, mint csillagos ég?) felbontása is lehetne persze a szavaknak.  
+Mivel az azték [[M/Miscoatl\|Miscoatl]] név is köthető a Tejúthoz, kimondható, hogy a [[M/MISZ\|MISZ]] értelme kapcsolható a Tejútanya-Csudaszarvasünőhöz. Ugyan nem MISZ-es, hanem MASZ-os előtagú a navatl nyelvű `mazatl` = szarvas (őz?) és a pipil nyelvű `masat`, `mazat`. Ma-Szat (Anya-Kezdet, mint csillagos ég?) felbontása is lehetne persze a szavaknak.  
 Mizrāta (amennyiben nem Misz-Rá-Ta vagy [[M/Mithra\|Mithra]] Tája értelmezésű) utótagja egyezni látszik a [[R/Rite\|rite]] címnél érintett hindi és angol szavakkal. R-T vázú, (év)kör és Tejút értelmű szavakat lásd [[A/Arianrhod\|Arianrhod]] és [[R/ROT\|ROT]].  
 
 [^3]: Lábjegyzet:  
