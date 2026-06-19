@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tevő/","title":"Tevő","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-01T10:28","updated":"2026-06-12T22:45"}
+{"dg-publish":true,"permalink":"/T/Tevő/","title":"Tevő","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-01T10:28","updated":"2026-06-19T22:15"}
 ---
 
 
@@ -65,6 +65,8 @@ Lehetett volna még a [[D/Dév\|dév]] címnél taglalt finnségi és más nyelv
 Arról, hogy a görög `theos` = isten szót egy [[T/Tesz\|tesz]] jelentésű igére vezetik vissza, már volt szó másutt.  
 
 Úgy tűnik, hogy a  PIE [dʰeh₁-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/d%CA%B0eh%E2%82%81-) gyökre visszavezetett szanszkrit `धा` (`dhā`) = tesz mintha a PIE [deh₃-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/deh%E2%82%83-) = adni gyökére is ütne, tehát a hímségi `ad` szavunk alkotóinak (a-d) [[H/Hangátvetés\|metatézis]]e (d-a) könnyen a tesz/tev gyökeink hatására jöhetett létre. Innen képzettnek vehető a szanszkrit `धातृ` (`dhātṛ́`) = tevő, teremtő, ami az avesztában is `dātar`.  
+
+
 
 <!--section: 3-->
 ## Lábjegyzetek
