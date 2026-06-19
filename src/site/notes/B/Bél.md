@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bél/","title":"Bél","tags":["containstransclusions"],"created":"2024-10-24T16:20","updated":"2026-06-19T22:16"}
+{"dg-publish":true,"permalink":"/B/Bél/","title":"Bél","tags":["containstransclusions"],"created":"2024-10-24T16:20","updated":"2026-06-19T23:37"}
 ---
 
 
@@ -7,7 +7,7 @@
 # Bél
 
 <!--section: 1.1-->
-[[E/ÉL\|Él]] Isten (mely héberben [[E/Elohim\|Elohim]], arabban ill. mohamedán vallásban [[A/Allah\|Allah]]) b-előhangos formája is lehetne, de leginkább [[B/Bál\|Bál]] felhangi párja.  
+[[E/ÉL\|Él]] Isten (mely héberben [[E/Elohim\|Elohim]], arabban ill. mohamedán vallásban [[A/Allah\|Allah]]) b-előhangos formája is lehetne, de leginkább [[B/Bál\|Bál]] felhangos párja.  
 
 A Jankovics Marcell A fa mitológiája című könyvében említett kelta-gall **Belin** Napisten szó szerint Bel-In Nap Isten értelmű, melynek latinosított formája lehet **Belinus**, tehát nem önálló jogon szerepel. Mindenesetre még megvan egy Tomory Zsuzsa által előhozott [[C/Cunobelinus\|Cunobelinus]] névben.  
 Lásd még [[B/Belus\|Belus]].  
