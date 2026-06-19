@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2026-03-19T17:57"}
+{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2026-06-19T22:14"}
 ---
 
 
@@ -49,7 +49,7 @@ Könyve 87. oldalán sumér-szkíta temetkezési hasonlósággal fejeli meg:
 > Hasanluban a 9-8. sz.-ból származó szkita módon temetett lovassírt találtak. Amlasban is tipikus szkita plasztika jelenik meg a 9-8. sz.-ban, jó 100 évvel a déloroszországi szkita leletek feltűnése előtt. Ez arra mutat – jegyzi meg Ghirshman –, hogy a szkiták már legalább a 8. sz. óta Transzkaukázia-Észak-Irán térségében laktak.  
 
 Götz másutt írja:  
-> Mészáros Gyula Kelet-Európa néptörténete – Chattiak és skythák című művében alapos forrásvizsgálatokkal, névhasonlításokkal és elmélyedt művészeti motívumelemzésekkel eminens jelentőségű elő­ázsiai-szkita összefüggéseket tárt fel.  
+> Mészáros Gyula Kelet-Európa néptörténete – Chattiak és skythák című művében alapos forrásvizsgálatokkal, névhasonlításokkal és elmélyedt művészeti motívumelemzésekkel eminens jelentőségű előázsiai-szkita összefüggéseket tárt fel.  
 > A szkíták tehát a Kr. e. 7. századot megelőző időkben a Kaukázustól délre laktak – állapítja meg Mészáros. A fennmaradt szkita helynevek sok esetben azonos hangalakban megtalálhatók Kis-Ázsiában és Transzkaukáziában is, néha az ékírásos hettita időkig visszamenőleg. Ugyancsak szemléltető dokumentumokat találunk a szkita vándorlás kiindulópontjának meghatározására a szkíta személynevek kis-ázsiai párhuzamaiban. Azonos szójelentéssel bíró azonos személynevek tűnnek fel mindkét területen, amelyek Kis-Ázsiában túlnyomórészt a jellegzetes, hettiták előtti hatti ősnyelvi rétegből erednek. Többek között az első ismert szkita királyok nevei, "Partatua" és "Madyas", vitathatatlanul ősi kis-ázsiai nevek.  
 - Folytatást lásd [[H/Hettita#Hettita nyelv\|hettita nyelv]] cím/alcímnél.
 
