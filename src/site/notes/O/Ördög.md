@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-03T12:19","updated":"2026-06-13T23:19"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-03T12:19","updated":"2026-06-19T22:13"}
 ---
 
 
@@ -286,8 +286,11 @@ Ez az összefüggés illetve igazsága univerzális. Mindenki így tudja, hogy a
 <!--section: 16-->
 ## Ördög: fekete kutya; Isten: fehér kutya
 
-<!--section: 16.1-->
-Nagy Róbert Hol van a kutya elásva? című az Ősi Gyökér 2007/1. sz. megjelent cikkében írja:  
+<!--section: 17-->
+#### Nagy Róbert Hol van a kutya elásva?...  
+
+<!--section: 17.1-->
+...című, az Ősi Gyökér 2007/1. sz. megjelent cikkében írja:  
 > A kutya, az alvilág birodalmához tartozó, halottak lelkét kísérő, azt hordozó állat lehetett. Ezek pozitív töltésű fogalmak, akár a kutya szolgálatai az életben. Mégis ismerjük azokat a kifejezéseket, melyekben az eb, mint az ördög szinonimája szerepel. "Kutya szülte – ördög szülte, ebadta – ördög fatyja", stb.  
 > Káromkodásainkban, átokszórásainkban az ördög szó mellett leginkább a kutya, vagy az eb szavunk szerepel jelzőként. Mindez a XVII.-XVIII. századi szitok, átok és káromkodások világára a legjellemzőbb ("azt a kutyafáját", "eb ura fakó").  
 > Mikortól vált a kutya az ördög cimborájává? Nem kell sokat kutakodni, hogy felismerjük, ennek az okát. Elég megvizsgálnunk a boszorkányperek jegyzőkönyveit. Az inkvizíciós tárgyalások legfőbb vádlottjai a boszorkányok voltak, akiket szinte minden esetben kapcsolatba hoztak valamilyen misztikus kutyával. Az egyházi demonológia szerint a boszorkány az ördöggel, a sötétség, a pokol urával köt szövetséget. A "fekete kutya" az ördögöt, a hitetlenséget személyesíti meg. A népi hiedelemben a kutya-ördög szavak egymás szinonimái, azonos rosszalló, megvető értelmű jelentéssel bírnak. A jegyzőkönyvek vezetői viszont fontosnak tartják megjegyezni, hogy a hiedelem rítusaihoz nem tartozott [[K/Kutyaáldozás\|kutyaáldozat]].  
@@ -332,41 +335,41 @@ Könnyen lehet, hogy a fekete kutya a sötét félévre, a fehér a világosra u
 
 Hasonló esetet látunk másutt: az [[I/Imp\|imp]] címnél említett kalevalai `impi` (mely dévaj tündér, (kis) ördög értelemben jön elő az angolban) egészen azonos a manysi [[E/EB\|eb]]et/kutyát jelentő `aamb`, `öömp` = eb szóhoz (de [[E/Ember\|ember]] szavunk előrésze is ilyen).  
 
-<!--section: 17-->
+<!--section: 18-->
 ## A szarvas Isten- és ördög-kapcsolata
 
-<!--section: 17.1-->
+<!--section: 18.1-->
 Lásd fentebb. Lásd még alant.  
 
-<!--section: 18-->
+<!--section: 19-->
 ## Ördögábrázolások
 
-<!--section: 18.1-->
+<!--section: 19.1-->
 Gyárfás Ágnes Eretnekség a korai középkorban című, ![assets/Ördög_image4.jpeg|fix_dark fix_light right|300](/img/user/O/assets/%C3%96rd%C3%B6g_image4.jpeg)  az Ősi Gyökér 2011/3. sz. megjelent cikkében írja, hogy az ördög ábrázolásának formavilága a turániak pecséthenger-kultúrájáról terjedt el. A pecséthengereken ábrázolt, az emberi mivoltából kifordult lények [[P/Pata\|patá]]val és farokkal jelennek meg. Így szerepel azóta is a sátán, az ördög minden művészi alkotásban, mesében, rémtörténetben, legendában.  
 Gyárfás Ágnes [[V/Vízi Péter és Vízi Pál mese\|Vízi Péter és Vízi Pál mese]]: Nemzeti hősmonda mesében elbeszélve című az Ősi Gyökér 2011/4. sz. megjelent cikkében közöl (lásd képet [[P/Pokol\|pokol]]) egy általam nehezen kivehető pecséthenger képét amelyen ördögöt láthatunk két szarvval.  
 
-<!--section: 19-->
+<!--section: 20-->
 #### Jankovics Marcell...
 
-<!--section: 19.1-->
+<!--section: 20.1-->
 ...még előtte írja erről ([[S/Szarvas\|szarvas]] és más címeknél is szerepelt):  
 > A szólás, hogy "letörte a szarvát", az ősi bikaáldozatra utal (Héraklész Akhelóiosz fölötti győzelme e szólás mítoszi forrása), s ugyancsak halál-jelentése lehetett eredetileg az e szólással látszólag éppen ellentétes értelmű felszarvazásnak". A túlvilágra költöző uralkodót, hőst, áldozatot ékesítették föl a csak **"istent" megillető szarvak**kal. Így illett a már túlnan lévők sorába. (Zolnay 1983: 272 skk.) Újabb kori értelmét a kifejezés annak köszönheti, hogy az elhunyt asszonyait utóda örökölte meg – nem egyszer épp az a személy, aki életét is kioltotta. Az alvilág fejedelmét, **az ördögöt (krampuszt) és a boszorkányt szarvas lénynek képzelték**, ezért voltak "szarvas" \[szarv-as\] állatok a kísérőik (bakkecske, fülesbagoly). A sorba illik maga a szarvas is (gör. `keraosz` "szarvas").  
 
 A pre-keresztény istenség-ábrázolást Nagy Medvében kereső ...
 
-<!--section: 20-->
+<!--section: 21-->
 #### Greg Rigby The God Secret...
 
-<!--section: 20.1-->
+<!--section: 21.1-->
 ...című könyvében írja (a [[V/Vadkan\|vadkan]] és [[S/Szarvas\|szarvas]] címnél is említett Tuan mac Carill nevű hőssel megesett (éppen a fentebbi témához jól kapcsolódó szarv-vesztéses) átváltozással kapcsolatos gondolatai[^5] után):  
 > It is perhaps significant that the Bear, Boar and Plough attributions became prevalent following the introduction of Christianity into the lands of the Celts. The Church would not have wanted to admit any affiliation between the Godhead and a prominent group of northern stars. They would therefore have encouraged designations for the constellation that were related to its secular appearance and would have sought to condemn any reference to a horned God. Echoes of this strategy are still evident in the Church's enduring threat of Hell fire and eternal damnation for anyone found consorting with the Devil (The Horned One).  
 > —  
 > Talán jelentős, hogy a Medve, a Vadkan és a Szántó jelző a kereszténység kelták földjén való megjelenése után vált uralkodóvá. Az egyház nem akarta volna elismerni az istenség és az északi csillagok egy kiemelkedő csoportja közötti kapcsolatot. Ezért a csillagkép olyan elnevezéseit szorgalmazták volna, amelyek a csillagkép világi megjelenéséhez kapcsolódnak, és igyekeztek volna elítélni a szarvas Istenre való utalást. E stratégia visszhangjai még ma is nyilvánvalóak az egyháznak abban a tartós fenyegetésében, hogy a pokol tüzét és örök kárhozatát fenyegeti mindazok számára, akiket az ördöggel (a szarvakat viselővel) cimborálónak találnak.  
 
-<!--section: 21-->
+<!--section: 22-->
 ## Ördög: ellenség, Isten: barát
 
-<!--section: 21.1-->
+<!--section: 22.1-->
 A fentebbi témák folytatását/kibontását lásd [[B/Barát és ellenség\|barát és ellenség]] címnél, ahol a [[B/Bal és jobb\|bal és jobb]] oldal is szóba került.  
 Ezen mondat is szerepelt ott:  
 Menet közben kiderül, hogy ördög szavunkból ered a szláv [[D/Drug\|drug]] = társ, barát jelentésű szó. Csak amíg a [[B/Barát\|barát]] fogalma nálunk a Föld-Nap viszonyában az életadó/tápláló Nap neveként jelenik meg, addig a szlávban és irániban ([[D/Druj\|druj]]) a kis éves, nálunk inkább ellenségre utaló fogalomként.  
@@ -379,7 +382,7 @@ Nagy Attila az Ősi Gyökér 2007/4. sz. megjelent A Tükör trükkje című cik
 Lásd még [[K/Kovács és az ördög\|kovács és az ördög]].  
 Lásd még [[D/DOG\|DOG]]/[[D/DOG#Dog 2)\|dog]] és [[B/Boldog\|boldog]].  
 
-<!--section: 22-->
+<!--section: 23-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
