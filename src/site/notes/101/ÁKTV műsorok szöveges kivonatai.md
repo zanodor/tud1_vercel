@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-06-12T22:43"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-06-19T22:11"}
 ---
 
 
@@ -22,6 +22,12 @@
 **Videók archivált összefoglalókkal**:  
 
 **2026:**
+
+<small>[260619CN! A HORN-FOK - Kubínyi Tamás ÁKTV](https://rumble.com/v7bj8h6-260619cn-a-horn-fok-kubnyi-tams-ktv.html)  [https://share.note.sx/wip8iqj6](https://share.note.sx/wip8iqj6) [https://archive.ph/Vu5pl](https://archive.ph/Vu5pl)</small>
+<small>[260618CN! JÚNIUS 18.](https://rumble.com/v7bhit0-260618cn-jnius-18.-kubnyi-tams-ktv.html)  [https://share.note.sx/inava977](https://share.note.sx/inava977) [https://archive.ph/mJlzL](https://archive.ph/mJlzL)</small>
+<small>[260617CN! SUNYIKA](https://rumble.com/v7bfpiw-260617cn-sunyika-kubnyi-tams-ktv.html)  [https://share.note.sx/aqd692ab](https://share.note.sx/aqd692ab) [https://archive.ph/IM6Nn](https://archive.ph/IM6Nn)</small>
+<small>[260616CN! JÚNIUS 16.](https://rumble.com/v7be5n6-260616cn-jnius-16.-kubnyi-tams-ktv.html)  [https://share.note.sx/nfrhbyzn](https://share.note.sx/nfrhbyzn) [https://archive.ph/8bySB](https://archive.ph/8bySB)</small>
+<small>**[260615CN! NEMZETI HITVALLÁS](https://rumble.com/v7bc72e-260615cn-nemzeti-hitvalls-kubnyi-tams-ktv.html)  [https://share.note.sx/gfis3pdx](https://share.note.sx/gfis3pdx) [https://archive.ph/O3mVK](https://archive.ph/O3mVK)**</small>
 
 <small>[260612CN! MÁRIANOSZTRA - II. rész](https://rumble.com/v7b72jk-260612cn-mrianosztra-ii.-rsz-kubnyi-tams-ka.html)  [https://share.note.sx/jra25gcz](https://share.note.sx/jra25gcz) [https://archive.ph/3DVT1](https://archive.ph/3DVT1)</small>
 <small>[260605CN! MÁRIANOSZTRA - I. rész](https://rumble.com/v7avc8m-260605cn-mrianosztra-i.-rsz-kubnyi-tams-ka.html)  [https://share.note.sx/zmxw70yf](https://share.note.sx/zmxw70yf) [https://archive.ph/vp7WW](https://archive.ph/vp7WW)</small>
