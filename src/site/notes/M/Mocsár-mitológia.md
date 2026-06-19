@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mocsár-mitológia/","title":"Mocsár-mitológia","created":"2023-11-18T09:11","updated":"2026-05-15T22:34"}
+{"dg-publish":true,"permalink":"/M/Mocsár-mitológia/","title":"Mocsár-mitológia","created":"2023-11-18T09:11","updated":"2026-06-19T22:15"}
 ---
 
 
@@ -38,19 +38,26 @@ Továbbá:
 Magyar Adorján írja ismét:  
 > Hogy viszont a hattyú inkább a testi szerelem jelképévé lett, ennek fő oka az, hogy a hattyúnak igen fejlett hímtagja van, ami madaraknál ritkaság. Ami azonban nem jelenti azt, hogy a hattyú is ne szerepelt volna palóc őstörzsünknél a lélek jelképeként is, ami hogy megvolt mutatják a lebéd, libéd = hattyú szó de még inkább a hattyúhoz többé-kevésbé hasonlító más madarak libe, libuc, lile és lilik magyar nevei, amely szavak mint le-, li- kezdetűek sőt a lilek a [[L/Lélek\|lélek]] szavunkkal teljesen azonos is. Mind az itt elmondottak alapján kétségtelenné válik az is, hogy a csehek Libussza vagy Libusa mondai nőalakja, aki Prága város megalapítója és úrnőjeként szerepel, sem más mint Tündér Ilonánk palóc megfelelője, akit e törzsünk nőstény hattyúval \[a [[L/Liba\|libá]]ról is szólhatott volna\] is jelképezett, vagyis hogy e monda is őspalóc eredetű s a mai csehországi lakosságnak a kereszténységre térése következtébeni elszlávosodása előtti időből származik.  
 
-#### Magyar Adorján...
-
-...arról szól még, hogy az élet első csírái a víz sekélyeiben ill. az őstengerek hullámozó, még meleg, felszínén képződő habban is kialakulhattak:  
+Magyar Adorján arról szól még, hogy az élet első csírái a víz sekélyeiben ill. az őstengerek hullámozó, még meleg, felszínén képződő habban is kialakulhattak:  
 > Ma tudjuk ugyan, hogy ez nem lehetséges, még is, a mai tudomány is azt sejti, hogy az élő anyag az ősvizek még meleg iszapjában keletkezett, és ezt protoplazmának nevezi. Ilyen még alaktalan, de élő és táplálkozó, s ennélfogva növekedni, terjedni is képes de még alaktalan, kocsonyaszerű anyagot a tenger iszapjában ma is találtak, habár ez ma csakis tápanyag magába olvasztása útján képes növekedni, önmagától azonban nem keletkezik. Van ugyan más elmélet is, amely szerint az első életcsírák a világűrből kerültek volna Földünkre, de amely elmélet az élet keletkezése kérdését meg nem oldja, csak elodázza. Részemről azt hiszem, hogy őseink egykori műveltsége idején is, ők is azt tartották, hogy az élet a Föld ősvizei iszapja anyagából keletkezett, ami tehát a mai protoplazma-elmélettel egyezik. Úgy lehet pedig, hogy ezen ős élő anyag nem is nagy mélységben jött létre, hanem ellenkezőleg sekélyekben, ahol az iszap a Föld akkori önmelegén kívül még a Nap, azaz talán az akkor még napként ragyogó Hold sugárzása hatásának kitéve volt. Hogy így élet ma már Földünkön nem keletkezik, ezt a mai tudomány azzal okolja, hogy a mai állapotokban Földünkön az ehhez szükséges föltételek sem vegyileg (kémiailag), sem sugárzásilag már nincsenek meg, de okszerűen föltételezhető, hogy másutt a végtelen milliónyi égitestek között többszörösen is megvannak, megvoltak és mindig újra létre is jönnek.  
+
+[[T/Teremtésmítoszok\|Teremtésmítoszok]] címnél is szerepelt...
+
+#### Erich von Däniken...
+
+...passzusa a szerves élet kialakulásáról:  
+> A szerves élet tehát kezdetben egy vizes masszában dinsztelődött, és a Föld meleg kisugárzása miatt gőzgomolyként felszállt. A nagy magasságokban lehűlt, és sűrű eső formájában zuhogott vissza a talajra. A tudósok feltételezése szerint 1,2 milliárd éve történt, hogy az őslevesből kialakult az első primitív életforma. Egy pár év ide vagy oda nem számít. De vajon mikor és kitől szereztek tudomást a mítoszok elbeszélői erről az elementáris körforgásról? A mítoszok ugyanis pontos sorrendben adják meg az események folyamatát: semmi – üresség – iszap – eső – napmeleg – szárazföld – növények – állatok – emberek – ételek – gyógyszerek – eszközök – tűz.  
+
+#### Gulyás Péter Pál – Köldökcsillag a Pocakhegyen - Az anyaság mítosza...
+
+...című könyvében is írja:  
+> A mocsarat pedig az őskori népek csaknem kivétel nélkül az önnemzés vidékeként tisztelték és félték. ([Lásd 95. old.](zotero://open-pdf/library/items/45ME6ZKG?page=95&annotation=M5TTHAHZ))  
 
 Mocsarat jelentő szavak közül a [[F/FEN#Fen 2)\|fen]] érdekesmód [[F/Fény\|fény]] szavunkkal azonos (melynek anyagi, nőiségi párja a [[F/Fene\|fene]] és [[F/Fenék\|fenék]]), [[B/BOG#Bog 2)\|bog]] párja a [[B/BOG\|BOG]], mely szintén fényt, Napot jelent, de a székely-magyar `lák` (lásd [[L/Lake\|lake]], [[L/Lack\|lack]] és [[L/Lactic\|lactic]], valamint [[L/Lay#Lay 2)\|lay]] és [[L/Lakota\|lakota]]) is jelent tavon kívül mocsarat, CzF adata szerint; azt pedig tudvalevő mindezek után, hogy a mocsár és a víz nőiséget, hiányt kifejező, ahogy [[N/Navel\|navel]], [[N/Nautilusz\|Nautilusz]] és [[N/Navy\|navy]] szavaknál is szó volt erről, de lé ill. lapály szavunk kapcsán előjöhet `little` és `level` szavaknál is.  
 Az [[E/EL\|EL]] és [[D/Dame\|dame]] címnél is előjövő görög `élosz` = láp, mocsár szó – mely nyilván a Tejútanya-Földanya Él nevéből ered – szintén arra mutat rá, hogy az első élet a mocsarakból indult ki[^2].  
 Ha viszont Él isten valójában nőnemű is lehet, akkor érthetővé válik, miért lehet az élettel, fénnyel kapcsolatba hozni a fentebbi szavakat is. A [[V/Víz\|víz]] is lehet (megtermékenyítően) hímségi.  
 A (hihetetlen méreteket öltő) témát felkapjuk [[L/Labyrinth\|labyrinth]], [[L/Love\|love]] és [[L/Labour\|labour]] szavaknál is.  
 Lásd még [[C/Csallóköz\|Csallóköz]], [[F/Fertő\|Fertő]], [[E/Edgar Dacqué\|Edgar Dacqué]] stb.  
-
-[[T/Teremtésmítoszok\|Teremtésmítoszok]] címnél is szerepelt Erich von Däniken passzusa a szerves élet kialakulásáról:  
-> A szerves élet tehát kezdetben egy vizes masszában dinsztelődött, és a Föld meleg kisugárzása miatt gőzgomolyként felszállt. A nagy magasságokban lehűlt, és sűrű eső formájában zuhogott vissza a talajra. A tudósok feltételezése szerint 1,2 milliárd éve történt, hogy az őslevesből kialakult az első primitív életforma. Egy pár év ide vagy oda nem számít. De vajon mikor és kitől szereztek tudomást a mítoszok elbeszélői erről az elementáris körforgásról? A mítoszok ugyanis pontos sorrendben adják meg az események folyamatát: semmi – üresség – iszap – eső – napmeleg – szárazföld – növények – állatok – emberek – ételek – gyógyszerek – eszközök – tűz.  
 
 ## Lábjegyzetek
 
