@@ -1,14 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kontár/","title":"Kontár","created":"2025-03-05T02:30","updated":"2026-01-05T21:39"}
+{"dg-publish":true,"permalink":"/K/Kontár/","title":"Kontár","created":"2025-03-05T02:30","updated":"2026-06-19T22:15"}
 ---
 
 
+<!--section: 1-->
 # Kontár
 
+<!--section: 2-->
 #### A Czuczor-Fogarasi szótár adata:
 
+<!--section: 2.1-->
 > Széles ért. mesterember, ki mesterségét nem érti, ki rosz munkát készít. Szorosb ért. czéhba nem keblezett, alattomban dolgozó kézmives. Ha első értelmét veszszük, valószinüleg a csonkát jelentő konta törzstől ered, mely szerént kontár az, ki nem ép, nem tökéletes, hanem hiányos, hibás, mintegy csonka müveket készít \[nem úgy mint isten\], mintegy: tonkár, csonkár. Ez értelmezést az is látszik erősíteni, hogy Gáthy János szerént (Tájszótár 112) épen Szathmárban divatozik különösebben ezen két szó: konta és kontár a nép között; de ez utóbbi az ország nagy részében ismeretes. Adelung szerént is ugyanezen fogalomrokonság van a német `stümmeln` (csonkít) és `Stümper` (kontár) között. Átv. ért. kontárnak mondják gúnyosan és megvetőleg, ki a szépmüvészetet kellő képesség is kiképzés nélkül űzi. Kontár festész, szobrász, költő.
-- Ezen Stümper ha az s-mobile leválasztásra kerül, nem más, mint tümper, mely már a [[D/Dumb\|dumb]], valamint a [[S/Stupid\|stupid]] és [[T/Typhon\|Typhon]] neveket idézni. A csonkítás fényelvonás.
+- Ha az s-mobile leválasztásra kerül, ezen `Stümper` nem más, mint \*tümper, mely már a [[D/Dumb\|dumb]], valamint a [[S/Stupid\|stupid]] és [[T/Typhon\|Typhon]] neveket idézni. A csonkítás fényelvonás.
 
 Egynémely helyen már előjött a szó: lásd [[C/Contra-\|contra-]] és [[C/Centre\|centre]]. Utótagja tehát mivel csillag jelentésű kell legyen, és [[K/KON\|KON]] = Nap, igen könnyen kivehető a kontár [[O/Ördög\|ördög]]i értelmét tekintve, hogy a(z Orion-)Szíriusszal való azonosítása indokolt.  
 
@@ -81,7 +84,7 @@ card "**Han**" as w13
 card "<color:#e7545c>oni</color>, <color:#e7545c>hantu</color>" as w14
 
 head -- w1 : "jelentése: szem lehunyása; hanyatló félév"
-head -- w2 : "perzsa <color:#e7545c>gonah</color> = bűn; finn <color:#e7545c>huono</color> = rossz\nfinn, karéliai<color:#e7545c>kehno</color> = rossz, silány; ördögi minőség"
+head -- w2 : "perzsa <color:#e7545c>gonah</color> = bűn; finn <color:#e7545c>huono</color> = rossz\nfinn, karéliai <color:#e7545c>kehno</color> = rossz, silány; ördögi minőség"
 head -- w3 : "latin <color:#e7545c>hamus</color> = görbe; nem egyenes\nnémet <color:#e7545c>hämisch</color> = gonosz; ferde/torz látás"
 head -- w4 : "jelentése: ellentartás; fék\nvö. elavult angol <color:#e7545c>gain</color>"
 head -- w5 : "japán : jelentése: Rák csillagkép és rák; sötét félév kezdete"
@@ -100,6 +103,7 @@ head -- w14 : "japán/maláj mitológia: démon; szellem"
 </div></div>
 
 
+<!--section: 3-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
