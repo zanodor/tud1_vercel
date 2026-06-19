@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2026-05-08T23:02"}
+{"dg-publish":true,"permalink":"/K/Kárpát-medence/","title":"Kárpát-medence","created":"2024-04-28T20:56","updated":"2026-06-19T22:13"}
 ---
 
 
@@ -176,7 +176,7 @@ Földművelés témájában folytatja.
 
 [[S/Selyemút\|Selyemút]] címnél is szerepelt:  
 > Elena Kuzmina, a kiemelkedő orosz régész 2008-ban megjelent "The Prehistory of the Silk Road" című könyvében kimutatta, hogy a Selyemút legfontosabb, északi útvonala az volt, amely az eurázsiai síkságon haladt át, s az Észak-Kínai Alföldről kiindulva Közép-Ázsiát kötötte össze évezredeken át a Fekete-tenger északi partjával (Kuzmina 2008, 4). A távolsági kereskedelmi útvonalak mindig két érdekelt fél között jönnek létre. Tudjuk, hogy a Selyemút kiindulópontja Kína. Ha az egyik fél Kína, melyik volt a másik fél i.e. 4 000 körül?  
-> A demográfusok kimutatták, hogy az újkőkor végén, a rézkor elején, i.e. 5700-5000 között a Kárpát-medencében zajlott le a kor legjelentősebb népesedési forradalma, 2-3,5 milliós népessséget bocsátva ki kelt, észak és nyugat felé (Lüning 1998, Biraben 2006; Govedarica 2004, Manzura 2005). Ez a három központ: a Kárpát-medence, Kína és India adja ki azt a háromszöget, ami kirajzolja a Selyemút körzetét.  
+> A demográfusok kimutatták, hogy az újkőkor végén, a rézkor elején, i.e. 5700-5000 között a Kárpát-medencében zajlott le a kor legjelentősebb népesedési forradalma, 2-3,5 milliós népességet bocsátva ki kelt, észak és nyugat felé (Lüning 1998, Biraben 2006; Govedarica 2004, Manzura 2005). Ez a három központ: a Kárpát-medence, Kína és India adja ki azt a háromszöget, ami kirajzolja a Selyemút körzetét.  
 >
 > A Fekete-tenger északi partvidékén az i.e. 6-4. évezredben az az Erősd-Kukutyin-Tripoljei régészeti műveltség volt jelen (Lazarovici 2010), amely a Kárpát-medencéből keletre kitelepült, milliós létszámú jogarhordozó népként a sztyeppe ura volt a rézkorban és a bronzkorban (Govedarica 2004), és az i.e. 6200-tól kibontakozó Ősi Európa civilizációhoz tartozott (Anthony and Chi 2010). Az Ősi Európa civilizáció központja a Kárpát-Balkáni körzet volt, ahonnan a [[F/Fémművesség\|fémművesség]] elterjedt (Chernykh 2008). Az Ősi Selyemút két meghatározó pólusa tehát a Kárpát-medence és a Kínai Alföld.  
 
