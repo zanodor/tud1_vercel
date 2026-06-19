@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bél/","title":"Bél","tags":["containstransclusions"],"created":"2024-10-24T16:20","updated":"2025-07-27T11:55"}
+{"dg-publish":true,"permalink":"/B/Bél/","title":"Bél","tags":["containstransclusions"],"created":"2024-10-24T16:20","updated":"2026-06-19T22:16"}
 ---
 
 
+<!--section: 1-->
 # Bél
 
+<!--section: 1.1-->
 [[E/ÉL\|Él]] Isten (mely héberben [[E/Elohim\|Elohim]], arabban ill. mohamedán vallásban [[A/Allah\|Allah]]) b-előhangos formája is lehetne, de leginkább [[B/Bál\|Bál]] felhangi párja.  
 
 A Jankovics Marcell A fa mitológiája című könyvében említett kelta-gall **Belin** Napisten szó szerint Bel-In Nap Isten értelmű, melynek latinosított formája lehet **Belinus**, tehát nem önálló jogon szerepel. Mindenesetre még megvan egy Tomory Zsuzsa által előhozott [[C/Cunobelinus\|Cunobelinus]] névben.  
@@ -12,8 +14,10 @@ Lásd még [[B/Belus\|Belus]].
 
 Fáy Elek A magyarok őshona című könyvének 214. oldalán szól a Bél isten és a bél szavunk közötti lehetséges kapcsolatáról. Az őt követő...
 
+<!--section: 2-->
 #### Magyar Adorján...  
 
+<!--section: 2.1-->
 ...ennyit ír:  
 > A bél szavunk egészen téves használatú, vagyis nagy értelemeltolódást szenvedett szó, mert ez eredetileg a test összes belső szerveit jelentette, míg a húr szó csak amit ma tévesen bélnek nevezünk, amit egyébként bizonyít ma is a hurka = bizonyos kolbászfajta.  
 > Azt tudni kell, hogy a magyar bél, belek szó is eredetileg az összes belső részeket jelentette, holott azt amit mi ma e szó alatt értünk, régi nyelvünk a húr, húrok szóval nevezte, ami látszik abból is hogy a hegedűhúrok régen kizárólag állati "belek"-ből, azaz helyesen: húrokból, készültek.  
@@ -21,18 +25,20 @@ Fáy Elek A magyarok őshona című könyvének 214. oldalán szól a Bél isten
 
 Ilyen belső, bél értelemben megvan az angol [[B/Belly\|belly]] és [[B/Bowel\|bowel]] szavakban. Ahogy Fáy Elek és Magyar Adorján adatai alapján ...
 
+<!--section: 3-->
 #### Bíró Lajos A magyar régmúlt titkai...
 
+<!--section: 3.1-->
 ...című könyvében is írja:  
 > A máj (chanti `magel` = máj), ~~a méh és~~ a gyomor szavaink (ez utóbbinak a töve, a gyom \[önálló szóként a mag ellentéte!\] a mogy, vagyis mag megfordításából lett, amit a német `Magen` = gyomor és a finn `maha` = gyomor is megerősít), egyaránt a belsőt jelentik, ahogy a bél is a belsővel függ össze (vö. angol `belly` = has).  
 
-Az angol [[G/Gut\|gut]]s = belek viszont felveti, hogy a kún-hun nyelvben K-T vázú (mint [[K/Köt\|köt]], kötél) vagy azzal rokon vázú szó kellett szerepeljen. Viszont mivel a Bél és bél nevek között kapcsolatot kell találni, nyilván köt és [[G/Göd\|Göd]]-[[G/God\|God]] között is találni kell.  
+Az angol [[G/Gut\|gut]]s = belek viszont felveti, hogy a kún-hun nyelvben K-T vázú (mint [[K/Köt\|köt]], kötél) vagy azzal rokon vázú szó kellett szerepeljen. Viszont mivel a Bél és bél nevek között kapcsolatot kell találni, nyilván köt és [[G/Göd\|Göd]]-[[G/God\|God]] között is találni kell...?  
 
 Sőt, a belek tisztítása, tisztán tartása is igen fontos feladat (vastagbél tisztításról lásd a klyster szót [[C/Cataclysm\|cataclysm]]).  
 
 A maja nyelvben `pel` = vagina, mely a [[P/Pina\|pina]] címnél írottakhoz jól passzol, de az alábbi információval is kapcsolható:  
 [[L/Labyrinth\|Labyrinth]] címnél volt szó arról, hogy az anyaméh[^1] az emberi belekhez is hasonlíttatott. Ahogy [[W/Womb\|womb]] címnél is szerepelt, ez a hun-gót nyelvben `guithus` = anyaméh, finnül `kohtu` = méh.  
-Nyilván előbbihez kötődik az angol [[G/Gut\|guts]] = belek jelentése, mely belek valóban a hun nyelvben köteleknek nevezhettek. Érdekes még a [[G/Gőte\|gőte]], melyről a néphit azt tartja, hogy ha az ember megissza, megnő a hasában. Itt a gőte – béka – anyaméh analógiát kell meglátni.  
+Nyilván előbbihez kötődik az angol `guts` = belek jelentése, mely belek valóban a hun nyelvben köteleknek nevezhettek. Érdekes még a [[G/Gőte\|gőte]], melyről a néphit azt tartja, hogy ha az ember megissza, megnő a hasában. Itt a gőte – béka – anyaméh analógiát kell meglátni.  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/U/Uterus/#fd5w53" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -44,8 +50,14 @@ Nyilván előbbihez kötődik az angol [[G/Gut\|guts]] = belek jelentése, mely 
 </div></div>
   
 
-Práczki István alábbi sora is passzol valamennyire a fentiekhez (a Szittya Biblia 46.oldalán bővebben kifejti):  
-> A szülő méh egy bélcső, mely "magtartó" csűrré, vagyis egy cső-űrré válik. A bélcsőből kijött gyerek pedig a bölcsőbe kerül.  
+<!--section: 4-->
+#### Práczki István Szittya Biblia...
+
+<!--section: 4.1-->
+...című könyvének alábbi sora is passzol valamennyire a fentiekhez:  
+> A szülő méh egy bélcső, mely "magtartó" csűrré, vagyis egy cső-űrré válik. A bélcsőből kijött gyerek pedig a [[B/Bölcső\|bölcső]]be kerül.
+{ #krlakz}
+
 
 A görög `belos` = nyílvessző szóról lásd [[B/Bolt#Bolt 2)\|bolt]] és [[F/Flash\|flash]].  
 
@@ -60,6 +72,8 @@ A walesi nyelvben is `bol` = bél, has.
 A koreai nyelvben is `bél` a bél.  
 
 
+
+<!--section: 6-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
