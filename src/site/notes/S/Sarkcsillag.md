@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2026-03-05T01:32"}
+{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2026-06-19T22:14"}
 ---
 
 
@@ -65,9 +65,11 @@ A Sarkcsillag nevei egyes nyelveken [[T/TÁT\|TÁT]], és, ahogy [[P/Pole\|pole]
 
 #### Falvay Károly Nagyboldogasszony...
 
-...című könyvének alábbi adatsora [[S/Sátor\|sátor]], [[T/Tündök\|tündök]], [[O/ÓG\|ÓG]] és más címnél is szerepelhetne:  
+...című könyvében írja:  
 > A sámán kozmológiájában a világegyetem hármas tagolású: felső, középső és alsó világra oszlik.  
-> Az alsó világ a középső és a felső világ közül az ember lakhelye, a középső világ, amelynek közepén a föld köldökén hatalmas fa, égig érő oszlop emelkedik, a [[V/Világoszlop\|világoszlop]], vagy [[V/Világhegy\|Világhegy]]. Ez a függőleges tengely (ami lehet egy hatalmas \[Tejút\]folyam is, mint a ket nép folklórjában) köti össze a világokat. A világok között az északi Sarkcsillagnál lévő nyílás ad lehetőséget az átjárásra (ez tudható meg a csukcsok mitikus hagyományaiból). Az egész csillagos eget, vagyis a felső világot nagy sátornak képzelték, s e sátor tartórúdja volt a kozmikus oszlop, melyet a [[T/Tejút\|Tejút]]tal azonosítottak. Ez a világokat összekötő oszlop, hegy vagy égigérő fa, a sámán mitológiában aztán sámánfává, sámánlétrává lényegült.  
+> Az alsó világ a középső és a felső világ közül az ember lakhelye, a középső világ, amelynek közepén a föld köldökén hatalmas fa, égig érő oszlop emelkedik, a [[V/Világoszlop\|világoszlop]], vagy [[V/Világhegy\|Világhegy]]. Ez a függőleges tengely (ami lehet egy hatalmas \[Tejút\]folyam is, mint a ket nép folklórjában) köti össze a világokat. A világok között az északi Sarkcsillagnál lévő nyílás ad lehetőséget az átjárásra (ez tudható meg a csukcsok mitikus hagyományaiból). Az egész csillagos eget, vagyis a felső világot nagy sátornak képzelték, s e sátor tartórúdja volt a kozmikus oszlop, melyet a [[T/Tejút\|Tejút]]tal azonosítottak. Ez a világokat összekötő oszlop, hegy vagy égigérő fa, a sámán mitológiában aztán sámánfává, sámánlétrává lényegült.
+{ #74h54u}
+
 
 ## Sarkcsillag elnevezés
 
