@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-06-13T23:58"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-06-19T22:12"}
 ---
 
 
@@ -205,7 +205,8 @@ Példálózhatunk is: [[E/Ég\|Ég]] > [[I/Ige\|Ige]]: keresztény dogmatikában
 
 Több helyen felvetődött, Péterfai Jánosnál is, hogy a régi ember (poétikus, mítoszalkotó) gondolkozását, észjárását megérteni a mai gondolkozással lehetetlen. Vissza kell tudni menni az időben fejben és megpróbálni úgy gondolkodni, ahogy őseink tették, az akkori viszonyok és saját felfogásuk szerint. Robert Graves is ezt tette. Ahogy a [[F/Fehér istennő\|White Goddess]] című könyvét taglaló Wikipédia oldal írja róla:  
 > Graves derived some of his ideas from poetic inspiration and a process of "analeptic thought", which is a term he used for throwing one's mind back in time and receiving impressions[^6].  
-> (Magyarul: "Graves néhány ötletét költői ihletből és az "analeptikus gondolkodás" folyamatából merítette. Ezt a kifejezést használta, arra, amikor az ember gondolatait visszaforgatva az időben fogadja a képeket.[^6]")  
+> —  
+> "Graves néhány ötletét költői ihletből és az "analeptikus gondolkodás" folyamatából merítette. Ezt a kifejezést használta, arra, amikor az ember gondolatait visszaforgatva az időben fogadja a képeket.[^6]"  
 - [[E/Etimológia#Vasváry-Tóth Tibor Szófejtő Szótár\|Etimológia]] címnél Vasváry-Tóth Tibort szólaltatjuk meg erről.
 
 A Napvallások korában a hanyatlás jeleit látjuk. Nem szabad az időt lineárisnak venni. Hasonló (a magyarság sorsát megpecsételő) hiba magyar [[H/Honfoglalás\|Honfoglalás]]ról beszélni, amikor a [[K/Kárpát-medence\|Kárpát-medence]] volt az a hely, az a [[M/Magyar őshaza\|magyar őshaza]], ahonnan eleve kiáramlottak a népek. A mai kutatók csak lineárisan képesek gondolkodni, és aki cirkulárisan is tud, az is mindig vissza-visszaesik a fals linearitásba.  
