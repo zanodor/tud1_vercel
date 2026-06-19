@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2026-06-13T23:20"}
+{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2026-06-19T22:13"}
 ---
 
 
@@ -129,7 +129,7 @@ Ha már Afrika, [[H/Hunor és Magor#Hunor és Magor, azaz Magor és Hunor Makara
 Kan szerepel olyan latin eredetű szavakban mint `canere` = énekel (lásd [[C/Chant\|chant]]), [[C/Candid\|candid]], [[C/Candle\|candle]] és [[C/Candidate\|candidate]]. Hasonlóképp alakulhatott ki a héber szó `khannáh` = [[K/Kegy\|kegy]], kellem, mely CzF szerint [[A/Anna\|Anna]] személynevet adná. Természetesen khannáh ugyanúgy a kan szent, fehér, fényes (hímségi) jelentéseit takarja, mint a latin `canis` (lásd [[C/Candle\|candle]] és [[C/Canicular\|canicular]]) is. [[A/Anna\|Anna]] egyértelműen anya nevünkből alakult ki, ahogy Johanna is lehet Jó Anya és Susanna [[S/Szűzanya\|Szűzanya]].  
 
 Hasonló szó a perzsa `khâneh` = ház szó, mely nyilván olyasféle háztáj, melyet tűz (élet és étel) vesz körül (hasonló a latin [[L/Lares\|lares]], az otthon tüzére, melegére asszociálva). Ez valójában, mint kiderül, [[H/Hon\|hon]] szavunk.  
-A nahuatl `chan` (KAN) = ház (a [[T/Teocalli\|teocalli]] szóban is meglévő `calli` = ház mellett). A navajo nyelvben is K-N vázú: `kin` = ház.  
+A navatl `chan` (KAN) = ház (a [[T/Teocalli\|teocalli]] szóban is meglévő `calli` = ház mellett). A navajo nyelvben is K-N vázú: `kin` = ház.  
 
 A hawaii `kāne` = férfi a hun kan/kán szóval azonos, de a [[T/Tana\|Tana]] címnél is említett maori, tahitii `tāne` = férfi alak is efféle (K-T változás, ahogy fentebb is szó volt róla, megengedett, de könnyen lehet külön utakon járó a két szó).  
 
