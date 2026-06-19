@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2026-03-25T02:20"}
+{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2026-06-19T22:14"}
 ---
 
 
@@ -72,7 +72,7 @@ Az ott is szereplő, akár szintén (korszak)változással kapcsolatba hozható 
 A tree-Tejútfa/deer-Szarvasünő elforgása, dőlése, daráló[^10] mozgása, úgy tűnik, hogy valóban az idő körében, a téridőben értelmezhető. De ez még mind semmi. Ott van ugyanis a kelta `dar` = mikor és `dara` = [[M/Második\|második]] szó, mely [[K/Követ\|követ]] és [[S/Second\|second]] címnél írottak alapján szintén korszakokra kell utaljon. Az Alex MacBain kelta etimológia szótárában talált `daor` = leigázott, lealázott, rabszolgává tett szó mellé pedig azt írja, hogy ellentéte a `saor` = szabad. Hát mik ezek a szavak, ha nem a (szarvas névhez is hasonló) [[S/Sárkány\|sárkány]] jelkép(állat) két véglete, a sár/szar állapot és a szár = fényes állapot? (De ilyen alsó állapotot írnak le a [[D/Dreck\|dreck]], [[D/Dregs\|dregs]] és [[D/Dire\|dire]] szavak is: előbbinél a sárkány és a [[T/Trágya\|trágya]] is előjött.)  
 Ami innen lemaradt, és utólag került ide, hogy a [[T/Törvény\|törvény]] és [[T/Terv\|terv]] szavak szintén a forgó rendszerre utalnak.  
 
-Úgy tűnik eztán, hogy az életkör/Tejút-forgás leképezése a kún-hun népeknél [[K/KU\|ku]]-[[K/Kut\|kut]]-[[K/Kutya\|kutya]] (továbbá [[G/Goat\|goat]]-[[K/Köd\|köd]]-[[G/Göd\|Göd]]-[[G/God\|God]] és [[K/KUS\|KUS]]) alapján, az avar/szabír/szavárd/török/kelta népek szókészlete szerint Darál/Tar(ul)/Dar/Szar/Zár(ul) szavak szerint, míg a magyaroknál MISZ/MES/MÁS/MASZ/MAT/MATA szavak szerint történik, viszont amíg az utóbbi két népnél szarvasról (a nahuatl `mazatl` és a pipil nyelvű `masat`, `mazat` = szarvas (kecske) és [[M/Moose\|moose]] = jávorszarvas szavakról [[M/MISZ\|MISZ]] címnél is tettünk említést) van szó, a kún-hunnál kecskéről (plusz kutyáról).  
+Úgy tűnik eztán, hogy az életkör/Tejút-forgás leképezése a kún-hun népeknél [[K/KU\|ku]]-[[K/Kut\|kut]]-[[K/Kutya\|kutya]] (továbbá [[G/Goat\|goat]]-[[K/Köd\|köd]]-[[G/Göd\|Göd]]-[[G/God\|God]] és [[K/KUS\|KUS]]) alapján, az avar/szabír/szavárd/török/kelta népek szókészlete szerint Darál/Tar(ul)/Dar/Szar/Zár(ul) szavak szerint, míg a magyaroknál MISZ/MES/MÁS/MASZ/MAT/MATA szavak szerint történik, viszont amíg az utóbbi két népnél szarvasról (a navatl `mazatl` és a pipil nyelvű `masat`, `mazat` = szarvas (kecske) és [[M/Moose\|moose]] = jávorszarvas szavakról [[M/MISZ\|MISZ]] címnél is tettünk említést) van szó, a kún-hunnál kecskéről (plusz kutyáról).  
 
 A fentiek által készített ([[K/Kut\|kut]] és [[M/MISZ\|MISZ]] címnél is szereplő) diagram így fest:  
 ![assets/Deer_image2.png|fix_dark fix_light|840](/img/user/D/assets/Deer_image2.png)  
