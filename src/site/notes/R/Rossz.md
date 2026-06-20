@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/R/Rossz/","title":"Rossz","tags":["Englishtexttranslated"],"created":"2024-10-26T21:25","updated":"2026-06-13T23:23"}
+{"dg-publish":true,"permalink":"/R/Rossz/","title":"Rossz","tags":["Englishtexttranslated"],"created":"2024-10-26T21:25","updated":"2026-06-20T21:27"}
 ---
 
 
+<!--section: 1-->
 # Rossz
 
+<!--section: 1.1-->
 Péterfai János nem látszik érteni a nevet. Újabb írásában (a [[R/Ronda\|ronda]] szó erdetéhez hasonló módon) azt írja, hogy: a rosz (rossz) az akkádok gonoszságai vagy a sivatagosodás miatt képződött fogalom.  
 
 Úgy tűnik, a [[Z/Zagrosz\|Zagrosz]] és a [[V/Vörös és a rútság\|vörös és a rútság]] címnél írottak alapján, hogy a Rossz a Nap azon neve, mely a [[R/Rusz\|Rusz]] (Rózsa) és a Rőt (Rút) szavak értelmei alapján a lemenő Napot, így a fényhiányos időszakot (sötétséget, hideget, halált[^1]) jelöli.  
@@ -13,8 +15,10 @@ Hasonló rosszhoz és rúthoz [[R/Ronda\|ronda]] szavunk, mely utóbbiról [[R/R
 [[R/ROT#Rot 2)\|Rot]] címnél is szerepelt, hogy az északi lappoknál **Rohttu** a betegség és halál istene. A rothad, rossz, rút, [[R/Rat\|rat]] = patkány, mind rokon nevek.  
 A [[C/Csúnya\|csúnya]] szavunk szintén a Nap [[K/KUN\|KUN]] (Kuna) nevéből látszik eredni. (Ott, [[C/Csúnya\|csúnyá]]nál is szerepelt, hogy a kelta-ír `grian`/`griain` = Nap és `gránna` = csúnya közt éppoly fogalmi-hangtani viszony látszik fennállni, mint a magyarban.)  
 
+<!--section: 2-->
 #### Magyar Adorján írja:  
 
+<!--section: 2.1-->
 > E lemenő, valamint a fölkelő Nap is vörös színűnek látszik, sőt a fénysugártörés, illetve a sűrűbb es ritkább levegőrétegek váltakozása következtében a napkorong sokszor eltorzulni is látszik; elvesztvén tehát "szép", szabályos korong- (díszkosz) alakját: "csúnya", is lesz (Lássad: "A műveltség könyvtára" kiadvány "A világegyetem" kötete 130. oldalát, Budapest, 1906.). Mindez is magától értetődőleg akkor volt különösen föltünő amikor az Északi Sark még hazánk területén lévén, a Nap egész hónapig járt körben a láthatár szélen.  
 - Teljesebb passzust lásd [[M/Mikulás\|Mikulás]].
 
@@ -32,10 +36,13 @@ Lásd még [[N/Negatív értelmű szavak\|negatív értelmű szavak]].
 
 Egyébiránt érdekességképp megemlíthető, hogy a [[B/Better\|better]] címnél levő adatok szerint a [[B/BAD#Bad 2)\|bad]] = rossz szóval azonosan egy indo-európai \*bhad = jó jelentésű gyököt is meghatároztak. Minden ilyen ellentmondás az [[E/Életkör\|életkör]] miatt van. A karma törvényét látjuk: a szerencse lehet jó és rossz(ra fordulással) ilyen és olyan.  
 
+<!--section: 3-->
 ## Rossz szavunk idegen nyelvekben
 
+<!--section: 4-->
 #### Kállay Ferenc A pogány magyarok vallása...
 
+<!--section: 4.1-->
 ...című könyvében írja (anyagának bevezetését lásd [[R/Rusz\|rusz]]):
 > Meninszki szótárában `ret` persául = nudus toto corpore, vacuus, `rüt` devastatus locus, pauper, inops, `ruden` = color ruber, `rusch` = malus durus indole (tehát a magyar rosz). ([Lásd 328. old.](zotero://open-pdf/library/items/DFI47XPY?page=328&annotation=K2SGJ29M))  
 > 
@@ -45,8 +52,10 @@ Egyébiránt érdekességképp megemlíthető, hogy a [[B/Better\|better]] címn
 > 
 > A rut és rosz szóknak voltak hát jó jelentései is, mind a kettő vallásos szó. ([Lásd 330. old.](zotero://open-pdf/library/items/DFI47XPY?page=330&annotation=G783UE85))
 
+<!--section: 5-->
 ## Rossz idegen nyelvekben
 
+<!--section: 5.1-->
 A latinban két szó is van rossz, gonosz jelentéssel.  
 A latin `malus` = rossz, hitvány, csúnya, alkalmatlan, elvetemült, gonosz, ártalmas, veszedelmes, káros, szerencsétlen jelentéseket hordoz.  
 A több helyen említett latin `prāvus` vagy `pravus` = rossz; gonosz szó előjött a [[W/Wrong\|wrong]] címnél szereplő Wiktionary adatsorban:  
@@ -57,6 +66,7 @@ A több helyen említett latin `prāvus` vagy `pravus` = rossz; gonosz szó elő
 
 
 
+<!--section: 7-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
