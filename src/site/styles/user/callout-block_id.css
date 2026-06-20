@@ -5,6 +5,8 @@
    Usage:  > [!_for_blockid]
    ============================================================ */
 
+/* Update: https://chatgpt.com/c/6a36dacd-f3b0-83eb-9417-0d8ea29361a3 */
+
 .callout:is([data-callout="_for_blockid"]) {
   /* Remove background & border */
   background: none !important;
@@ -16,12 +18,7 @@
   margin: 0 !important;
 }
 
-/* Hide the entire header row (icon + title) */
-.callout:is([data-callout="_for_blockid"]) .callout-title {
-  display: none !important;
-}
-
-/* Just in case the icon is targeted separately */
-.callout:is([data-callout="_for_blockid"]) .callout-icon {
+/* Hide only the _for_blockid header itself */
+.callout[data-callout="_for_blockid"] > .callout-title {
   display: none !important;
 }
