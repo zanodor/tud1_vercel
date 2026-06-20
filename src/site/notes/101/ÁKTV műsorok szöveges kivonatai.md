@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-06-19T23:36"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-06-20T19:45"}
 ---
 
 
@@ -95,7 +95,7 @@
 <small>[260312CN! NEMZETI ÜNNEPRE](https://rumble.com/v770wnw-260312cn-nemzeti-nnepre-kubnyi-tams-ktv.html)  [https://share.note.sx/zij06m08](https://share.note.sx/zij06m08) [https://archive.ph/DDTkU](https://archive.ph/DDTkU)</small>
 <small>[260311CN! SAJTÓSZABADSÁG DÍJ](https://rumble.com/v76z42k-260311cn-sajtszabadsg-dj-kubnyi-tams-ktv.html)  [https://share.note.sx/qsaijxnk](https://share.note.sx/qsaijxnk) [https://archive.ph/t0ImG](https://archive.ph/t0ImG)</small>
 <small>[260310CN! AUTONÓMIÁT!](https://rumble.com/v76xd5q-260310cn-autonmit-kubnyi-tams-ktv.html)  [https://share.note.sx/g736zzin](https://share.note.sx/g736zzin) [https://archive.ph/GgnZs](https://archive.ph/GgnZs)</small>
-<small>[260309CN! ERŐVISZONYOK](https://rumble.com/v76vkr6-260309cn-erviszonyok-kubnyi-tams-ktv.html)  [https://archive.ph/Dxs4A](https://archive.ph/Dxs4A)</small>
+<small>[260309CN! ERŐVISZONYOK](https://rumble.com/v76vkr6-260309cn-erviszonyok-kubnyi-tams-ktv.html)  [https://share.note.sx/255va9xm](https://share.note.sx/255va9xm) [https://archive.ph/Dxs4A](https://archive.ph/Dxs4A)</small>
 <small>[260306CN! LELEPLEZÉS](https://rumble.com/v76qhq6-260306cn-leleplezs-kubnyi-tams-ktv.html)  [https://share.note.sx/255va9xm](https://share.note.sx/255va9xm) [https://archive.ph/go9Wj](https://archive.ph/go9Wj)</small>
 <small>[260305CN! HADIFOGLYOK](https://rumble.com/v76omto-260305cn-hadifoglyok-kubnyi-tams-ktv.html)  [https://share.note.sx/y73qk05k](https://share.note.sx/y73qk05k) [https://archive.ph/6p01K](https://archive.ph/6p01K)</small>
 <small>[260304CN! ÜZENET TISZALÚCRA](https://rumble.com/v76mp28-260304cn-zenet-tiszalcra-kubnyi-tams-ktv.html)  [https://share.note.sx/62nji6c6](https://share.note.sx/62nji6c6) [https://archive.ph/bjwDt](https://archive.ph/bjwDt)</small>
