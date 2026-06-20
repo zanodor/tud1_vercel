@@ -222,3 +222,13 @@ div.markdown-embed .callout-content li {
     color: #f1c40f; /* Moon color */
   }
 }
+
+/*** Callout font size override ***/
+.callout {
+    font-size: var(--dg-content-font-size) !important;
+}
+
+/*** Callout: _for_blockid font size override ***/
+/* .callout:is([data-callout="_for_blockid"]) { */
+/*     font-size: var(--dg-content-font-size) !important; */
+/* } */
