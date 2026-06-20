@@ -28,20 +28,6 @@ div.markdown-embed .callout-content li {
   text-align-last: left !important;
 }
 
-/*** Callout text is smaller for some reason ***/
-/* Let's normalize based on https://chatgpt.com/c/6a36dacd-f3b0-83eb-9417-0d8ea29361a3 */
-.callout {
-    font-size: var(--font-text-size) !important;
-}
-
-.callout-content {
-    font-size: inherit !important;
-}
-
-.callout-title {
-    font-size: var(--callout-title-size) !important;
-}
-
 /*** Mermaid diagram background changes to blend in with Gruvbox backgrounds ***/
 /* For mermaid elements within callouts - Light Mode */
 .theme-light .markdown-preview-view pre.mermaid {
