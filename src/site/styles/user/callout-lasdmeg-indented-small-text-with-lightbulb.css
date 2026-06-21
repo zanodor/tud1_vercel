@@ -4,15 +4,8 @@
     font-size: 80%;
     line-height: 1.2em;
     
-    /* Use width instead of max-width for reliable sizing */
-    width: 98%;
-    
-    /* Spacing - combined the margin rules */
-    margin: 4px 0 1em 15px;
-    padding: 8px;
-    
-    /* float: right;*/ /* THIS MESSES WITH READING MODE, see https://chatgpt.com/c/6a341ded-ee38-83eb-a9d7-88a55b997d9d */
-    /* clear: both; */
+    /* Fix from: https://chatgpt.com/c/6a341ded-ee38-83eb-a9d7-88a55b997d9d */
+    padding: 8px 8px 8px 30px;
     
     border: none;
     /* text-align: justify; */ /*Separate css handles this for ALL callouts*/
