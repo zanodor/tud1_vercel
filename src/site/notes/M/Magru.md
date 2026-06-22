@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magru/","title":"Magru","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:02","updated":"2025-10-10T21:56"}
+{"dg-publish":true,"permalink":"/M/Magru/","title":"Magru","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:02","updated":"2026-06-22T17:52"}
 ---
 
 
