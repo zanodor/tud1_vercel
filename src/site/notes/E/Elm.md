@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Elm/","title":"Elm","tags":["containstransclusions"],"created":"2023-10-26T05:36","updated":"2025-10-04T18:02"}
+{"dg-publish":true,"permalink":"/E/Elm/","title":"Elm","tags":["containstransclusions"],"created":"2023-10-26T05:36","updated":"2026-06-22T17:53"}
 ---
 
 
