@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Új/","title":"Új","tags":["containstransclusions"],"created":"2024-05-03T12:38","updated":"2026-02-24T01:09"}
+{"dg-publish":true,"permalink":"/U/Új/","title":"Új","tags":["containstransclusions"],"created":"2024-05-03T12:38","updated":"2026-06-22T17:52"}
 ---
 
 
