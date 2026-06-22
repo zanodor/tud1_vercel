@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Athéné/","title":"Athéné","tags":["containstransclusions"],"created":"2023-10-13T01:08","updated":"2026-03-03T17:23"}
+{"dg-publish":true,"permalink":"/A/Athéné/","title":"Athéné","tags":["containstransclusions"],"created":"2023-10-13T01:08","updated":"2026-06-22T17:51"}
 ---
 
 
