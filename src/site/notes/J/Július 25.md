@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Július 25/","title":"Július 25","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T12:54","updated":"2026-04-24T09:41"}
+{"dg-publish":true,"permalink":"/J/Július 25/","title":"Július 25","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T12:54","updated":"2026-06-22T17:55"}
 ---
 
 
