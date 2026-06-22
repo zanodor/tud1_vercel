@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Indogermán nyelvészet/","title":"Indogermán nyelvészet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated"],"created":"2025-06-12T01:33","updated":"2026-05-04T18:04"}
+{"dg-publish":true,"permalink":"/I/Indogermán nyelvészet/","title":"Indogermán nyelvészet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated"],"created":"2025-06-12T01:33","updated":"2026-06-22T17:42"}
 ---
 
 
