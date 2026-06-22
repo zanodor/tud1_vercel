@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cat/","title":"Cat","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T08:48","updated":"2026-04-24T09:37"}
+{"dg-publish":true,"permalink":"/C/Cat/","title":"Cat","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T08:48","updated":"2026-06-22T17:46"}
 ---
 
 
