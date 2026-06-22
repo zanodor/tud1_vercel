@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gene/","title":"Gene","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T02:31","updated":"2026-05-21T05:05"}
+{"dg-publish":true,"permalink":"/G/Gene/","title":"Gene","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T02:31","updated":"2026-06-22T17:50"}
 ---
 
 
@@ -10,8 +10,7 @@ Gén. Lásd [[G/Geny\|geny]].
 #### Magyar Adorján...
 
 ...írja ([[K/KAN#KAN folyadéknemű, örökítő anyag jelentése\|KAN folyadéknemű, örökítő anyag jelentése]] cím/alcímnél is beágyazásra került):  
-> Ugyanezen gyan, gyon szótövünknek azonban még felhangos kiejtése is volt, amely a mai jön, jönni, jő, jőni igénkben is fönnmaradott, és amelynek tájszólásokban gyön, gyűn, gyönni, gyünni alakjai is élnek, és mind amely szavak egyrészt a termékenyítő ondó kifolyására s a nemzésre, de másrészt minden kifolyásra, ki származásra és eredetre, eredésre is vonatkoztatva azután a nőre is mint szülőre, azaz tehát szintén nemzőre, is alkalmaztattak. Hozzáteendő ezekhez, hogy jenő, gyenő valamint a Jenő személynév értelme is nemző, azaz eredő, származtató volt, ami a görög és latin `genezisz`, `gente`, `geino`, `gono`, `genus`, `genero` szavak eredetét is képezte, amelyek értelme szintén, nemzés, szülés, kiszármazás, eredtetés; csakhogy e nyelvekben mind e szavak legrégibb értelme: a folyás, kifolyás jelentés már nincsen meg.  { #111b08}
-
+> Ugyanezen gyan, gyon szótövünknek azonban még felhangos kiejtése is volt, amely a mai jön, jönni, jő, jőni igénkben is fönnmaradott, és amelynek tájszólásokban gyön, gyűn, gyönni, gyünni alakjai is élnek, és mind amely szavak egyrészt a termékenyítő ondó kifolyására s a nemzésre, de másrészt minden kifolyásra, ki származásra és eredetre, eredésre is vonatkoztatva azután a nőre is mint szülőre, azaz tehát szintén nemzőre, is alkalmaztattak. Hozzáteendő ezekhez, hogy jenő, gyenő valamint a Jenő személynév értelme is nemző, azaz eredő, származtató volt, ami a görög és latin `genezisz`, `gente`, `geino`, `gono`, `genus`, `genero` szavak eredetét is képezte, amelyek értelme szintén, nemzés, szülés, kiszármazás, eredtetés; csakhogy e nyelvekben mind e szavak legrégibb értelme: a folyás, kifolyás jelentés már nincsen meg.  { #111b08}
 
 
 Kiss Dénes is felveti: [[I/Idegen\|idegen]] szavunk is az "ide jön" fogalommal függ össze?  
