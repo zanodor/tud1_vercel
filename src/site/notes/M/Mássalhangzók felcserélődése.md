@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-06-13T23:20"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-06-22T17:43"}
 ---
 
 
@@ -107,7 +107,13 @@ A másik hasonló, de kevésbé ide illő eset ND>MP változás, vagy ennek ford
 
 Götz László Keleten kél a Nap című könyvének idetehető adatsorát lásd [[O/Orrhang#^g30c9f\|orrhangosítás]] címnél.  
 
-[[F/Félelem#Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú\|Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú]] cím/alcímnél volt szó a rokon ideák mögötti szavakról és írásmódjukról ([[G/Gg\|gg]], ng és más mássalhangzópárokról).
+[[F/Félelem#Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú\|Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú]] cím/alcímnél volt szó a rokon ideák mögötti szavakról és írásmódjukról ([[G/Gg\|gg]], ng és más mássalhangzópárokról).  
+
+### Ŋ/G̃ > M váltás
+
+Az emegir és emesal szociolektusban találkozhatunk ezen átmenettel; ami az emegirben veláris nazális (`ŋ` ill. a Wikipédián és más helyeken `g̃`-vel jelölve), az az emesalban `m`.  
+
+Felvetődött pl. a lengyel `droga` = út kapcsán, hogy az ógörög `δρόμος` (`drómosz`) = út, folyosó szó m hangja egy veláris nazálisból alakult volna ki.  
 
 <!--section: 10-->
 ### R-L-N váltás
