@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2026-03-19T17:56"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2026-06-22T17:42"}
 ---
 
 
@@ -74,6 +74,14 @@ Perzsiában az Achaemenida Artaxerxes II[^2] uralkodó által építtetett szobr
 Nyilván a [[N/Nagyboldogasszony\|Nagyboldogasszony]] és [[K/Kisasszony\|Kisasszony]] lenne az [[A/Anya#Kettős anyaság\|kettős anyaság]] cím/alcímnél is taglalt két nőiség.
 A lány az anya fiatalkori önmaga és nem a fiú testvére. A fiú az anya fia: a Nap.  
   
+
+#### Rudolf Drössler Amikor a csillagok istenek voltak...  
+
+...című könyvében írja:  
+> A földművelés, amely lassan átalakította az emberek életmódját és amely megteremtette a gazdasági alapját az antik államok virágzásának, a mítoszokban és a világnézetben is változást hozott. Valószínűleg már igen korán összekapcsolták a kozmikus jelenségeket a vetéssel és aratással: számukra a Hold, amely meghal és újjászületik, még erőteljesebben fejezte ki általában a növekedést és elmúlást. Az elfogyó és újjászülető Hold látszólag kettő: a régi és az új, de mégis azonos.  
+> Vajon nem hasonlít ehhez a [[G/Gabona\|gabona]] sorsa? Hisz a gabona magja éppúgy „meghal”, amikor elvetik, s belőle számtalan új mag keletkezik, amelyek hasonlítanak az anyához és amelyek ugyanarra a sorsra jutnak majd. Hiszen minden anya újjászüli magát a gyermekeiben! A korai földművelő népek tehát összehasonlították a Hold változásait a gabona és a nő életével, s valóban: a régészeti leletek között van egy fehér márvány ![Szentháromság_image20260621195439223.jpeg|fix_dark fix_light right|200](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image20260621195439223.jpeg)szobrocska, amely a nő kettősségét ábrázolja: az anyát és leányát (8. ábra). A szobornak ugyanis két feje, két-két melle, de csak egy teste, egy bal és egy jobb keze van. Anya és leánya: két különböző személy és mégis egy – mint a gabonamag, amit elvetnek és amely újra kinő, mint a régi és az új Hold! Néhány másik gipszszobor egymás mellett mutatja anyát és leányát, de az anya éppen egy bikát szül. A bika valószínűleg a férfi, a fiú jelképe, aki ha felnő, szeretője és férje lesz az anyának és leányának – ezzel a hármas egységgel itt Çobal Hüyükön találkozunk először, de az antik kultúráknál még visszatérünk rá. [Lásd 16. old.](zotero://open-pdf/library/items/6KMRN73H?page=16&annotation=9K9HZ3NJ)
+{ #tn1qpd}
+
 
 Arról is lehet beszélni, hogy az ősi, csillagászati-kozmikus alapú világkép leginkább az anya-fiú kettősségen alapult (a Napvallások korában az anya jelentősége elhalványult). A kettősségből pedig úgy lesz háromság, hogy a lány az anya fiatalkori énje, míg a fiú felnőve apa lesz (Magorból Hunor-Orion). Ez a fajta szemlélet nyilván kevésbé ismert magyar kutatói berkekben.  
 
