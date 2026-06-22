@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Állat/","title":"Állat","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-05-29T16:52","updated":"2026-03-13T17:43"}
+{"dg-publish":true,"permalink":"/A/Állat/","title":"Állat","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-05-29T16:52","updated":"2026-06-22T17:46"}
 ---
 
 
