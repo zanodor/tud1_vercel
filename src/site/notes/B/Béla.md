@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Béla/","title":"Béla","tags":["containstransclusions"],"created":"2023-12-03T05:04","updated":"2026-05-21T05:05"}
+{"dg-publish":true,"permalink":"/B/Béla/","title":"Béla","tags":["containstransclusions"],"created":"2023-12-03T05:04","updated":"2026-06-22T17:50"}
 ---
 
 
@@ -24,8 +24,7 @@ Lehet beszélni a latin-olasz `bella` = szép jelentéséről is (vesd össze [[
 
 #### Magyar Adorján írja:
 
-> A [[B/Belga\|Belgium]] illetve [[B/Belga\|belga]] névnek tökéletesen megfelel a szláv `beli` = fehér szó, valamint a már említve volt északi hófehér színű cethal [[B/Beluga\|beluga]] neve (de amely állatot északi rokonnépeink, amint már szintén említettem, `biburga` néven is neveznek, minthogy a [[B/Bíbor\|bibor]] szó régibb nyelvünkben valamint népünkében ma is hófehér értelmű; irodalmi nyelvünk pedig teljesen tévesen használja "igen piros" értelemmel, "bársun" helyett). Ez fejti meg másrészt Béla személynevünket is, amelynek egykori értelme tehát: igen szőke sőt talán albino is volt, valamint ez magyarázata a régi magyar `béla-gyöngy` szónak is. De innen származik a szőkeségnek francia-német `blond` neve is, de amely szó ezenkívül a `bleu-blau` (blö-blaú) = szóval is összefügg, azért mert a szőkék szeme kék; viszont a `blanc`, `blanche` (blank, blans) = fehér szó sem más mint a béla, beluga szavak magánhangzókihagyásos mása.  { #1wx6ob}
-
+> A [[B/Belga\|Belgium]] illetve [[B/Belga\|belga]] névnek tökéletesen megfelel a szláv `beli` = fehér szó, valamint a már említve volt északi hófehér színű cethal [[B/Beluga\|beluga]] neve (de amely állatot északi rokonnépeink, amint már szintén említettem, `biburga` néven is neveznek, minthogy a [[B/Bíbor\|bibor]] szó régibb nyelvünkben valamint népünkében ma is hófehér értelmű; irodalmi nyelvünk pedig teljesen tévesen használja "igen piros" értelemmel, "bársun" helyett). Ez fejti meg másrészt Béla személynevünket is, amelynek egykori értelme tehát: igen szőke sőt talán albino is volt, valamint ez magyarázata a régi magyar `béla-gyöngy` szónak is. De innen származik a szőkeségnek francia-német `blond` neve is, de amely szó ezenkívül a `bleu-blau` (blö-blaú) = szóval is összefügg, azért mert a szőkék szeme kék; viszont a `blanc`, `blanche` (blank, blans) = fehér szó sem más mint a béla, beluga szavak magánhangzókihagyásos mása.  { #1wx6ob}
 
 
 #### A Czuczor-Fogarasi szótár adata:
