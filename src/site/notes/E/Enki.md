@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Enki/","title":"Enki","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-26T05:26","updated":"2026-02-18T22:57"}
+{"dg-publish":true,"permalink":"/E/Enki/","title":"Enki","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-26T05:26","updated":"2026-06-22T17:48"}
 ---
 
 
