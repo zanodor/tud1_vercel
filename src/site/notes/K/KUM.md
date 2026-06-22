@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/KUM/","title":"KUM","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-09T04:40","updated":"2025-09-28T21:30"}
+{"dg-publish":true,"permalink":"/K/KUM/","title":"KUM","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-09T04:40","updated":"2026-06-22T17:50"}
 ---
 
 
@@ -30,7 +30,7 @@ Előjön Kum (Hum) Richard H. Allen Star Names című könyvében, a [[V/Vízön
 
 
 > Régibb nyelvünkben a hullámot [[H/Hab\|hab]]nak is nevezték, valamint azt így népünk ma is nevezi.  
-> Hab szavunknak azonban nemcsak hullám hanem hab értelme is van (latin `spuma`, görög `afrosz`, német `Schaum`). Márpedig a szélben a vízen szaladó, rohanó hullámoknak valóban habzó tarajuk, azaz sörényük is van, amely utóbbi, szarmata szócsoportbeli szavunkról tudjuk, hogy a szőr, sörte szavaink közvetlen rokona. És íme: az olaszban `schiuma` (szkiúma; a gyakori kezdő sz hanggal) = hab, de `chioma` (kióma; a kezdő sz hang nélkül) = hajzat, sörény, holott a görögben meg `küma` = hullám, míg a latinban `coma` (kóma) = hajzat, azaz sörény. Világosan kitűnik tehát mind e szavakból, hogy őseink költői a vízen viharban vadul rohanó habsörényes hullámokat vad lovakhoz is hasonlították, a hullámok fehéren habzó sörényét pedig a lovak sörényéhez.   
+> Hab szavunknak azonban nemcsak hullám hanem hab értelme is van (latin `spuma`, görög `afrosz`, német `Schaum`). Márpedig a szélben a vízen szaladó, rohanó hullámoknak valóban habzó tarajuk, azaz sörényük is van, amely utóbbi, szarmata szócsoportbeli szavunkról tudjuk, hogy a szőr, sörte szavaink közvetlen rokona. És íme: az olaszban `schiuma` (szkiúma; a gyakori kezdő sz hanggal) = hab, de `chioma` (kióma; a kezdő sz hang nélkül) = hajzat, sörény, holott a görögben meg `küma` = hullám, míg a latinban `coma` (kóma) = hajzat, azaz sörény. Világosan kitűnik tehát mind e szavakból, hogy őseink költői a vízen viharban vadul rohanó habsörényes hullámokat vad lovakhoz is hasonlították, a hullámok fehéren habzó sörényét pedig a lovak sörényéhez. 
 
 </div></div>
 
