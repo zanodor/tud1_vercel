@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-14T04:19","updated":"2026-05-21T04:59"}
+{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-14T04:19","updated":"2026-06-22T17:45"}
 ---
 
 
@@ -59,8 +59,7 @@ A kilencedik századi Abu Mashar – akit Al Biruni csillagászati kérdésekben
 ...című könyvében tudósít róla:  
 > In his Revolution of Years, he wrote of the Creation as having taken place when "the seven planets" – the Sun, Moon, Mercury, Venus, Mars, Jupiter, and Saturn – were in conjunction in Aries, and foretold the destruction of the world when they should be in the same position in the last degree of Pisces.  
 > —  
-> Az Évek fordulata című művében úgy ír a teremtésről, hogy az akkor történt, amikor "a hét bolygó" – a Nap, a Hold, a Merkúr, a Vénusz, a Mars, a Jupiter és a Szaturnusz – együttállásban volt a Kosban, és megjósolta a világ pusztulását, amikor ugyanebben a helyzetben lesznek a Halak utolsó fokán.  { #gbrz5v}
-
+> Az Évek fordulata című művében úgy ír a teremtésről, hogy az akkor történt, amikor "a hét bolygó" – a Nap, a Hold, a Merkúr, a Vénusz, a Mars, a Jupiter és a Szaturnusz – együttállásban volt a Kosban, és megjósolta a világ pusztulását, amikor ugyanebben a helyzetben lesznek a Halak utolsó fokán.  { #gbrz5v}
 
 
 Al Biruni véleménye ide vagy oda, "Apu Magyar" jövendölése azért is tűnik helyesnek, mert a Halak a Halál szavunkkal alkot párt, így szükségszerűen, annak utolsó órájában, ha a bolygók együtt állnak, valóban történnie kell valaminek.  
