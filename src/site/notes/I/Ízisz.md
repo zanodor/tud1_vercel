@@ -1,20 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-15T04:40","updated":"2026-05-21T04:58"}
+{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-15T04:40","updated":"2026-06-22T17:44"}
 ---
 
 
 # Ízisz
 
-Fontos egyiptomi istennő. Mindenütt volt már róla szó, [[I/Incest\|incest]], [[N/Nut\|Nut]], [[N/Nephthys\|Nephthys]] és [[O/Ozirisz\|Ozirisz]] címnél is.  
+Fontos egyiptomi istennő. Sok helyen volt már róla szó, pl. [[I/Incest\|incest]], [[N/Nut\|Nut]], [[H/Hathor\|Hathor]], [[N/Nephthys\|Nephthys]] és [[O/Ozirisz\|Ozirisz]] címnél is.  
 
 Várkonyi Nándornál előjön az egyiptomi **Eszit** névváltozat, mely tartalmazza a szó végén a [[T/T#T nőnemet jelölő végződés\|nőnemet jelölő t]] ragot.  
+> [!lasdmeg] &nbsp;
+> Ebben az az érdekes, hogy megjelenik a héberben (kb. függő esetben használt) `אֵשֶׁת` (`eset`) = neje/nője kifejezés, ahol `אישה` (`ishá`) = nő.
 
 #### Baráth Tibor Magyar istennevek a régi Egyiptomban...
 
-...című cikkében ahogy [[O/Ozirisz\|Osiris]] neve kapcsán is, elmondja, hogy nem a görög névváltozattal kell foglalkozni:  
+...című cikkében, – ahogy [[O/Ozirisz\|Osiris]] neve kapcsán is –, elmondja, hogy nem a görög névváltozattal kell foglalkozni:  
 > Az irodalomban Ősúr élettársának nevét is görögös formában használják (ISIS), ami tudománytalan eljárás, mert elfedi az egyiptomi valóságot, így a forrásokat kell megnéznünk, magukat a hieroglifeket, azok irányítsanak bennünket. Azok szerint Isis egyiptomi magyar neve ES-T-ASz-ON: Est Asszony, a szerelem istennőjének egyik változata. Budge professzor bevallja, hogy a szóban forgó nevek egyikének sem tudja megállapítani etimológiáját (II. 202).  
 
-Greg Rigby The God Secret című könyvében As-t és Aset formában is látom leírva (ugye az egyiptológusok [[E/E\|E]]-betűkkel töltötték fel a magánhangzók helyét). Ez már az [[A/Ász\|Ász]], [[O/Ős\|ős]], [[O/Őz\|őz]] neveket idézi.  
+Greg Rigby The God Secret című könyvében **As-t** és **Aset** formában is látom leírva (ugye az egyiptológusok [[E/E\|e]] betűkkel töltötték fel a magánhangzók helyét). Ez már az [[A/Ász\|Ász]], [[O/Ős\|ős]], [[O/Őz\|őz]] neveket idézi.  
 Lásd még témát lejjebb.  
 
 #### Magyar Adorján írja:
@@ -48,7 +50,7 @@ A Szimbólumtár adatsora:
 
 ...című könyvében szereplő adata szerint a [[H/Harang\|harang]] régtől fogva a [[S/Szűz\|szűz]]esség jelképe. A mellékelt képen (igaz, furcsa 6+8-as elosztásban) szerepel a szűzen(?) szülő Ízisz ábrázoláson is.  
 Amit Inman ír:  
-> The ![assets/Ízisz_image2.png|right|300](/img/user/I/assets/%C3%8Dzisz_image2.png)bell was of old a symbol of virginity, for Eastern maidens wore them until marriage (see Isa. iii. 16). The origin of this custom was the desire that every maiden should have at her marriage, or sale, that which is spoken of in the Pentateuch as "the token of virginity." It was supposed that this membrane, technically called "the hymen," might be broken by too long a stride in walking or running, or by clambering over a stile or wall. To prevent such a catastrophe, a light chain or cord was worn, under or over the dress, at the level of the knees of just above. Its length only permitted a short step and a mincing gait.  
+> The ![assets/Ízisz_image2.png|fix_dark fix_light right|300](/img/user/I/assets/%C3%8Dzisz_image2.png)bell was of old a symbol of virginity, for Eastern maidens wore them until marriage (see Isa. iii. 16). The origin of this custom was the desire that every maiden should have at her marriage, or sale, that which is spoken of in the Pentateuch as "the token of virginity." It was supposed that this membrane, technically called "the hymen," might be broken by too long a stride in walking or running, or by clambering over a stile or wall. To prevent such a catastrophe, a light chain or cord was worn, under or over the dress, at the level of the knees of just above. Its length only permitted a short step and a mincing gait.  
 > Slight bells were used as a sort of ornament, and when the bearer was walking their tinkling was a sort of proclamation that the lady who bore them was in the market as a virgin. After "the flower" had been plucked, the bells were no longer of use. They were analogous to the virgin snood worn on the head of Scotch maidens.  
 > —  
 > A harang régen a szüzesség jelképe volt, mert a keleti leányok a házasságig viselték (lásd Ézs. iii. 16). E szokás eredete az a vágy volt, hogy minden leánynak a házasságkötéskor vagy eladáskor legyen nála az, amiről a Pentateuch úgy beszél, mint "a szüzesség jeléről". Feltételezték, hogy ez a hártya, amelyet szaknyelven "szűzhártyának" neveznek, elszakadhat a túl hosszú járás vagy futás, vagy egy lépcsőfokon vagy falon való átmászás következtében. Az ilyen katasztrófa megelőzése érdekében a ruha alatt vagy fölött, a térd magasságában vagy éppen fölötte egy könnyű láncot vagy zsinórt viseltek. Hossza csak rövid lépést és szapora járást tett lehetővé.  
@@ -78,7 +80,7 @@ De kezdjük a hivatalos adatokkal. Isis Wiki oldalán szólnak a név eredete ka
 > —  
 > **Iset** vagy **Aset** óegyiptomi név, jelentése "(Ő) a trónon". Ez volt az istennő neve, akit jobban ismertek görög Ízisz nevén.  
 
-![assets/Ízisz_image4.jpeg|840](/img/user/I/assets/%C3%8Dzisz_image4.jpeg)  
+![assets/Ízisz_image4.jpeg|fix_dark fix_light 840|840](/img/user/I/assets/%C3%8Dzisz_image4.jpeg)  
 Azaz Ízisz hieroglif és egyéb ábrázolásában is megjelenik a szék, trónus, melyről tudjuk, hogy az Isten égi széke.  
 [[T/Throne\|Throne]] és [[S/SZÉK\|SZÉK]], valamint [[O/Öregisten\|Öregisten]], [[S/Sarkcsillag\|Sarkcsillag]] és több más címnél volt szó a témáról.  
 Ami tehát egyszer megjelenik [[C/Centre\|centre]]-ként Szíriuszban, másutt a Sarkcsillagban, [[A/Anu\|Anu]] égi lakhelyében.  
@@ -88,7 +90,7 @@ Ami tehát egyszer megjelenik [[C/Centre\|centre]]-ként Szíriuszban, másutt a
 #### J. E. Cirlot A Dictionary of Symbols....  
 
 ...című könyvében a [[S/Szarvas\|szarvas]] címnél Badiny Jós Ferenc által említett As, Az kapcsán írja:  
-> A szarvakat ![assets/Ízisz_image5.jpeg|right|83](/img/user/I/assets/%C3%8Dzisz_image5.jpeg)régente szentséges szimbólumnak tekintették. Az egyiptomi hieroglif írásban a szarvnak több elvont jelentéstartalma volt. Az egyik, úgy mond, az amely "a fej fölött van", (a Nap, az ég, a csillagok... stb.) Ebből adódik egy másik értelem: az önnön felsőbb tudatunkhoz vezető "útnak a kitárása/megnyitása". De ugyanakkor emelkedettséget, magasztosságot, tekintélyt és dicsőséget is jelentett. Míg Mezopotámiában, a szarv közé helyezett tűz láng, csillag jel együttes, az egykori Paradicsomot jelképezte.  
+> A szarvakat ![assets/Ízisz_image5.jpeg|fix_dark fix_light right|83](/img/user/I/assets/%C3%8Dzisz_image5.jpeg)régente szentséges szimbólumnak tekintették. Az egyiptomi hieroglif írásban a szarvnak több elvont jelentéstartalma volt. Az egyik, úgy mond, az amely "a fej fölött van", (a Nap, az ég, a csillagok... stb.) Ebből adódik egy másik értelem: az önnön felsőbb tudatunkhoz vezető "útnak a kitárása/megnyitása". De ugyanakkor emelkedettséget, magasztosságot, tekintélyt és dicsőséget is jelentett. Míg Mezopotámiában, a szarv közé helyezett tűz láng, csillag jel együttes, az egykori Paradicsomot jelképezte.  
 
 #### Greg Rigby The God Secret...  
 
@@ -139,7 +141,7 @@ Bakos Attila A Duna Evangéliuma című könyvének 262. oldalán ír róluk, ar
 ### Ízisz és Ozirisz phallosza és általa való megtermékenyítése
 
 Két ízben találkozhatunk Ozirisz phallosszával Ízisz történetében. Először még a Széth általi feldarabolás előtt, majd után.  
-![assets/Ízisz_image8.png|840](/img/user/I/assets/%C3%8Dzisz_image8.png)  
+![assets/Ízisz_image8.png|fix_dark fix_light|840](/img/user/I/assets/%C3%8Dzisz_image8.png)  
 Falvay Károly Nagyboldogasszony című könyvének 277-278. oldalán az egész történetet elmeséli. Az előzményt ismerjük: Széth koporsóba fekteti Oziriszt, a Nílusra ereszti, majd Ízisz megtalálja. \[...\] Itt a történetek több változatot is ismernek. Egyik változatban, amikor az oszlopot fecskeként körülrepkedte, már akkor elképzelte magának az Ozirisztól születű fiát Hóruszt. Más változatban sasként a fekvő Ozirisz fölé repült, s az élő magjával megtermékenyítette őt stb. Ez utóbbi jelenetet számos domborművön megörökítették. (A madáristennők a korai neolitikumból még sokáig élők maradtak, [[E/Emese\|Emese]] és a Turul történetét mindannyian ismerjük).  
 Isis itt a Nílus deltájának ingoványaiban elrejtette a koporsót mert Butóba kellett menjen, hogy fiát Hóruszt megszülhesse.  
 Ugyanebben az időben Séth a telihold fényében vadászaton volt. Vaddisznókra vadászott. A telihold fényében ráakadt a nádak között Ozirisz koporsójára. 14 darabra törte szét Ozirisz testét és szétszórta őket az egész Felső-, és Alsó-Egyiptomban. Mindeniket különböző helyen. Ozirisz phalloszát pedig bedobta a Nílusba. \[Magyarán azt is levágta: ezért a 14 és nem 13 darab.\] \[Ezen téma lehetséges téridőbeli jelentősége miatt bekerült [[S/Szűz csillagkép\|Szűz csillagkép]] címhez, külön egyiptomi vadkanos alcím alá.\]  
