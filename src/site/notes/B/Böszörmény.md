@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Böszörmény/","title":"Böszörmény","tags":["containstransclusions"],"created":"2023-10-11T06:16","updated":"2025-06-07T19:50"}
+{"dg-publish":true,"permalink":"/B/Böszörmény/","title":"Böszörmény","tags":["containstransclusions"],"created":"2023-10-11T06:16","updated":"2026-06-22T17:54"}
 ---
 
 
