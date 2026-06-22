@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Keresztrefeszített Nap/","title":"Keresztrefeszített Nap","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-13T03:43","updated":"2026-06-13T23:22"}
+{"dg-publish":true,"permalink":"/K/Keresztrefeszített Nap/","title":"Keresztrefeszített Nap","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-13T03:43","updated":"2026-06-22T17:48"}
 ---
 
 
