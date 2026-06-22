@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mikulás/","title":"Mikulás","tags":["containstransclusions"],"created":"2023-11-03T12:28","updated":"2025-10-04T18:01"}
+{"dg-publish":true,"permalink":"/M/Mikulás/","title":"Mikulás","tags":["containstransclusions"],"created":"2023-11-03T12:28","updated":"2026-06-22T17:46"}
 ---
 
 
@@ -52,7 +52,7 @@ Gondolom a szóalakra szlávot mondanak és valóban vannak hasonló szláv neke
 
 
 > Mint mitikus szimbólumok, **a Ló és a Szarvas egyaránt a Nap újjászületését jelképezi**. Ez a legvilágosabban a ló mitológiájában látható, amelynek fő mitikus feladata az volt, hogy a Nap szekerét húzza. A napszekér végső soron a mítoszokban felismert három nagy időciklust irányítja – a szekér felemelkedése minden egyes nap hajnalát jelenti, a tél közepe utáni éves felemelkedése az új évet vezeti be, és a teremtés teljes ciklusát tekintve a felemelkedése a Napnak a káosz ősvizéből való eredeti születését ünnepli. A lovat valószínűleg gyorsasága és csillogó sörénye miatt választották erre a magasztos szerepre, amelyről úgy gondolták, hogy a napfény sugárzó sugarát jelképezi.  
-> ![assets/Szarvas_image13.png|fix_light](/img/user/S/assets/Szarvas_image13.png)
+> ![assets/Szarvas_image13.png|fix_dark fix_light](/img/user/S/assets/Szarvas_image13.png)
 > A szarvas sok tekintetben nagyon hasonló szimbólum, mint a ló; ősi kapcsolat fűzi a naphoz és a tűzhöz, és a ló sörényéhez hasonlóan a szarvas szarvai is a napsugarakat jelképezik. **Szarvainak évenkénti megújulása még inkább az újjászületés szimbólumává teszi, és a szarvas a Télapó rénszarvas szánjának formájában a mai napig a Nap téli átvonulásának jelképeként tisztelik**. A Ló és a Szarvas mint a nap újjászületésének szimbólumai tehát nagyon is alkalmasak arra, hogy a csillagászati naptár legelején találjuk őket.  
 
 
