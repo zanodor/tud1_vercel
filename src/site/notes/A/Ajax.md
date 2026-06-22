@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ajax/","title":"Ajax","tags":["containstransclusions"],"created":"2023-10-21T03:03","updated":"2025-06-07T18:46"}
+{"dg-publish":true,"permalink":"/A/Ajax/","title":"Ajax","tags":["containstransclusions"],"created":"2023-10-21T03:03","updated":"2026-06-22T17:56"}
 ---
 
 
