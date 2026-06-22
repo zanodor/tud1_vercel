@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Furinalia/","title":"Furinalia","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-26T06:22","updated":"2026-04-24T09:41"}
+{"dg-publish":true,"permalink":"/F/Furinalia/","title":"Furinalia","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-26T06:22","updated":"2026-06-22T17:53"}
 ---
 
 
