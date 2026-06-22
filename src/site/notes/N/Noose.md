@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Noose/","title":"Noose","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-15T09:23","updated":"2024-10-25T23:36"}
+{"dg-publish":true,"permalink":"/N/Noose/","title":"Noose","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-15T09:23","updated":"2026-06-22T17:53"}
 ---
 
 
@@ -13,7 +13,7 @@ Hasonló szó a latin `nassa` = gallyakból készült halászháló szó.
 
 [[L/Lasso\|Lasso]] címnél is szerepelt James Frazer The Golden Bough c. könyvének passzusa:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/l/lasso/#fznwmr" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/L/Lasso/#fznwmr" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -23,8 +23,7 @@ Hasonló szó a latin `nassa` = gallyakból készült halászháló szó.
 > —  
 > A perui Andok egyik hágójában két romos torony áll egymással szemben lévő dombokon. Falukba vaskampókat erősítettek, hogy az egyik toronyból hálót feszítsenek ki a másikba. A háló a Napot hivatott befogni.  
 > A Fidzsi-szigeteken egy kis domb tetején nádas nőtt, és a késéstől félő utazók egy maréknyi nádszál tetejét kötötték össze, hogy feltartsák a Napot a lemenéstől.  
-> A szándék talán az volt, hogy a Napot a nádba gabalyítsák, ahogyan a peruiak próbálják hálóba fogni. Széles körben elterjedtek történetek olyan emberekről, akik hurokkal fogták be a Napot.  
-
+> A szándék talán az volt, hogy a Napot a nádba gabalyítsák, ahogyan a peruiak próbálják hálóba fogni. Széles körben elterjedtek történetek olyan emberekről, akik hurokkal fogták be a Napot. 
 
 </div></div>
 
