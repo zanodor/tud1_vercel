@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2025-09-03T15:59"}
+{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2026-06-22T17:48"}
 ---
 
 
@@ -36,8 +36,7 @@ Folytatás [[P/Pehlivan\|pehlivan]] címtől átemelve:
 >
 > A persa `pehluván` szó eredetileg Baal v. Bél bálványozására visszavitethető, s a Zend `pehlo` = erő, honnan `pehlvan` = heros, hős vitéz, örményül `pahlav` s `pahlu` csak későbbi mellékes jelentések, ámbár Quatremére a pehlu és pehlev szókat elkülönözi is, mely utólsó azonban szinte hős vitézt is jelentett saját hivatkozásai szerint (l. Journal des Sevants Juni 1840.). ([Lásd 216. old.](zotero://open-pdf/library/items/DFI47XPY?page=216&annotation=NC72WMWG))  
 > 
-> A persa nyelvben ma is Beregszászi szerint (p. 10) `pheliban` napimádó. Meninszkiben `feliván` = qui ignem adorat (t. 3. p. 919.). Firdusi persa nagy éposa (Schahname czímü) alapját ezek a Pehlivánok teszik, az ős regék, tüztiszteletek módjairól, harczias dolgaikról rajtok épülnek. ([Lásd 220. old.](zotero://open-pdf/library/items/DFI47XPY?page=220&annotation=KAS3LM48))
-
+> A persa nyelvben ma is Beregszászi szerint (p. 10) `pheliban` napimádó. Meninszkiben `feliván` = qui ignem adorat (t. 3. p. 919.). Firdusi persa nagy éposa (Schahname czímü) alapját ezek a Pehlivánok teszik, az ős regék, tüztiszteletek módjairól, harczias dolgaikról rajtok épülnek. ([Lásd 220. old.](zotero://open-pdf/library/items/DFI47XPY?page=220&annotation=KAS3LM48)) 
 
 </div></div>
 
