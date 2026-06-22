@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zászló/","title":"Zászló","tags":["containstransclusions"],"created":"2023-10-17T09:23","updated":"2026-04-03T04:51"}
+{"dg-publish":true,"permalink":"/Z/Zászló/","title":"Zászló","tags":["containstransclusions"],"created":"2023-10-17T09:23","updated":"2026-06-22T17:48"}
 ---
 
 
