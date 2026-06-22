@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2026-04-24T09:36"}
+{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2026-06-22T17:45"}
 ---
 
 
