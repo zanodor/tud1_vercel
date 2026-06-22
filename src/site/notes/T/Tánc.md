@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tánc/","title":"Tánc","tags":["containstransclusions"],"created":"2023-11-12T05:06","updated":"2026-06-13T23:58"}
+{"dg-publish":true,"permalink":"/T/Tánc/","title":"Tánc","tags":["containstransclusions"],"created":"2023-11-12T05:06","updated":"2026-06-22T19:08"}
 ---
 
 
