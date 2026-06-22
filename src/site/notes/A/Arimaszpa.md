@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-20T06:59","updated":"2026-05-21T05:05"}
+{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-20T06:59","updated":"2026-06-22T17:50"}
 ---
 
 
@@ -151,12 +151,12 @@ Bíró Lajos adata szerint a latin `mano` = folyik, csurog, ered, származik.
 
 > [!note]- &nbsp;
 > A mellékelt anyag Robert Beekes Görög etimológia szótárából való:  
-> > **μήν²** \[m.] ‘month’ (II.), also ‘moon-sickle’ (Ion., Ar., Att. inscr., Thphr.). < IE *meh₁n̥-ōt, *meh₁n̥-es- ‘moon, month’
-> > **VAR** Also Att. μείς, Dor. μιής, El. μεύς; gen. μηνός, Aeol. μήννος.
-> > **COMP** μηνo-ειδής ‘formed like a moon-sickle’ (IA), PN Μηνό-δωρος, also μηνί-αρχος, -άρχης \[m.] ‘monthly prefect’ (pap. IVᵃ). after ταξί-αρχος etc.; ἡλιό-μηνος ‘missing the right month’ (T 118; cf. s.v.), ἐπι-μήν-ιος ‘lasting a month, monthly’ (IA).
-> > **DER** μήν-η ‘month’ (II.), like σελήνη -ᾱς ‘id.’ (E.); μην-ίσκος \[m.] ‘moonsickle’, especially of objects in the shape of a moon-sickle (Ar., Arist.); μην-ιᾱος ‘a month old, monthly’ (Hp., LXX, pap.), -ιείος ‘monthly’ (Hell. pap.), μην-αῖος ‘belonging to the month’ (Orac. *apud* Lyd. *Mens*; probably from μήνη); μηναῖατεία \[f.] ‘monthly achievement’ (pap. IIIᵖ), but cf. Μηνιασταί \[m.pl.] ‘adorers of Μήν’ (Rhodos); μήνιoν \[n.] (botanical) ‘peony’ (Ps.-Dsc.), from its astrological use, see Strömberg 1940: 133.  
-> > **ETYМ** From the oblique cases (gen. μην-ος < *mē̆nos*, etc.), an analogical nom. \*mēns arose, whence \*mens by Osthoff’s Law. By subsequent loss of the nasal and compensatory lengthening, μείς and μής developed. The new nom. μήν arose by analogy with gen. μηνός, etc. (after simplification of the -νν-), and El. μεύς is built on the model of Ζηνός : Ζεύς.
-> > Originally, a disyllabic nom. \*mēnōs- (with lengthened grade) or \*mēnōt- (with alternating -t-) existed beside the obl. stem \*mēn- < IE \*mēns-. Thence arose Lith. mėnuo ‘moon, month’, Go. \*menōþs ‘month’, etc. The disyllabic form is also seen in Lith. mėnes-ìs ‘month’. On monosyllabic \*mēns- are based both Lat. *mēns-is* (gen.pl. *mēnsum*) and Skt. \*mās- ‘moon, month’ < PIIr. \*maHas- < \*meh₁ns-. The development of the calendrical meaning ‘month’ was accompanied by the creation of new expressions for ‘moon’ (σελήνη, *lūna*, etc.). Original derivation from \*meh₁- ‘measure’ (see *μῆτις*), from the role of the moon as a measure of time, is quite possible.  
+> > **μήν²** \[m.] ‘month’ (II.), also ‘moon-sickle’ (Ion., Ar., Att. inscr., Thphr.). < IE *meh₁n̥-ōt, *meh₁n̥-es- ‘moon, month’
+> > **VAR** Also Att. μείς, Dor. μιής, El. μεύς; gen. μηνός, Aeol. μήννος.
+> > **COMP** μηνo-ειδής ‘formed like a moon-sickle’ (IA), PN Μηνό-δωρος, also μηνί-αρχος, -άρχης \[m.] ‘monthly prefect’ (pap. IVᵃ). after ταξί-αρχος etc.; ἡλιό-μηνος ‘missing the right month’ (T 118; cf. s.v.), ἐπι-μήν-ιος ‘lasting a month, monthly’ (IA).
+> > **DER** μήν-η ‘month’ (II.), like σελήνη -ᾱς ‘id.’ (E.); μην-ίσκος \[m.] ‘moonsickle’, especially of objects in the shape of a moon-sickle (Ar., Arist.); μην-ιᾱος ‘a month old, monthly’ (Hp., LXX, pap.), -ιείος ‘monthly’ (Hell. pap.), μην-αῖος ‘belonging to the month’ (Orac. *apud* Lyd. *Mens*; probably from μήνη); μηναῖατεία \[f.] ‘monthly achievement’ (pap. IIIᵖ), but cf. Μηνιασταί \[m.pl.] ‘adorers of Μήν’ (Rhodos); μήνιoν \[n.] (botanical) ‘peony’ (Ps.-Dsc.), from its astrological use, see Strömberg 1940: 133.  
+> > **ETYМ** From the oblique cases (gen. μην-ος < *mē̆nos*, etc.), an analogical nom. \*mēns arose, whence \*mens by Osthoff’s Law. By subsequent loss of the nasal and compensatory lengthening, μείς and μής developed. The new nom. μήν arose by analogy with gen. μηνός, etc. (after simplification of the -νν-), and El. μεύς is built on the model of Ζηνός : Ζεύς.
+> > Originally, a disyllabic nom. \*mēnōs- (with lengthened grade) or \*mēnōt- (with alternating -t-) existed beside the obl. stem \*mēn- < IE \*mēns-. Thence arose Lith. mėnuo ‘moon, month’, Go. \*menōþs ‘month’, etc. The disyllabic form is also seen in Lith. mėnes-ìs ‘month’. On monosyllabic \*mēns- are based both Lat. *mēns-is* (gen.pl. *mēnsum*) and Skt. \*mās- ‘moon, month’ < PIIr. \*maHas- < \*meh₁ns-. The development of the calendrical meaning ‘month’ was accompanied by the creation of new expressions for ‘moon’ (σελήνη, *lūna*, etc.). Original derivation from \*meh₁- ‘measure’ (see *μῆτις*), from the role of the moon as a measure of time, is quite possible.  
 
 ## Hold idegen nevei
 
