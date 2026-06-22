@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bárca/","title":"Bárca","tags":["containstransclusions"],"created":"2023-12-27T06:21","updated":"2025-10-30T16:37"}
+{"dg-publish":true,"permalink":"/B/Bárca/","title":"Bárca","tags":["containstransclusions"],"created":"2023-12-27T06:21","updated":"2026-06-22T17:53"}
 ---
 
 
