@@ -2,46 +2,31 @@
 /* Fix(2) from Google AI Mode chat using info from https://www.reddit.com/r/ObsidianMD/comments/v31f5u/css_margin_question/ */
 /* and https://forum.obsidian.md/t/i-want-to-reduce-the-callout-text-padding/101331/12 */
 
-/* Combined Callout Container Base Configuration */
 .callout[data-callout*=lasdmeg] {
+    --callout-icon: lightbulb;
     --callout-color: inherit;
     font-size: 80%;
     line-height: 1.2em;
-    border: none;
-    
-    /* Strict Layout Resets */
-    /* padding: 0px 0px 0px 30px !important; Top Right Bottom Left */
-    padding-left: 30px !important;
-	padding-right: 0px !important;
-    gap: 0px !important;
-    
-    /* Native Obsidian Style Variable Resets */
-    --p-spacing: 0px !important;
-    --list-spacing: 0px !important;
-    --blockquote-margin-top: 0px !important;
-    --blockquote-margin-bottom: 0px !important;
+  
+    /* MEGOLDÁS A HÁTTÉRRE ÉS KERETRE: Explicit nullázás a webes buildhez */
+    background: transparent !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+
+    padding: 0px 0px 0px 30px !important; 
 }
 
-/* Hide Structural Icons & Controls */
+/* Elrejtjük az ikont és az összecsukó nyilat */
 .callout[data-callout*=lasdmeg] .callout-fold .svg-icon,
 .callout[data-callout*=lasdmeg] .callout-icon {
     display: none !important;
 }
 
-/* Strip Inner Structural Padding (Keeps native flex layouts intact) */
-.callout[data-callout*=lasdmeg] .callout-content {
-    padding-top: 0px !important;
-    padding-bottom: 0px !important;
-    margin: 0px !important;
-}
-
-/* Strip All Block Line-Breaks & Spacings */
-.callout[data-callout*=lasdmeg] .cm-line,
+/* Nullázás a belső bekezdések beépített margóira, 
+   hogy a weben se tolja el a sorokat semmi */
 .callout[data-callout*=lasdmeg] p,
-.callout[data-callout*=lasdmeg] ul,
-.callout[data-callout*=lasdmeg] ol {
+.callout[data-callout*=lasdmeg] .cm-line {
     margin-top: 0px !important;
     margin-bottom: 0px !important;
-    padding-top: 0px !important;
-    padding-bottom: 0px !important;
 }
