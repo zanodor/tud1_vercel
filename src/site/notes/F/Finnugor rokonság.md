@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor rokonság/","title":"Finnugor rokonság","tags":["containscallouts","containstransclusions"],"created":"2025-11-08T23:12","updated":"2026-05-29T22:42"}
+{"dg-publish":true,"permalink":"/F/Finnugor rokonság/","title":"Finnugor rokonság","tags":["containscallouts","containstransclusions"],"created":"2025-11-08T23:12","updated":"2026-06-22T17:44"}
 ---
 
 
