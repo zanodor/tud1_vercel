@@ -1,0 +1,51 @@
+.callout[data-callout*=lasdmeg] {
+    --callout-icon: lightbulb;
+    --callout-color: inherit;
+    font-size: 80%;
+    line-height: 1.2em;
+    margin: 4px 0 1em 15px;
+    
+    /* MEGOLDÁS A HÁTTÉRRE ÉS KERETRE: Explicit nullázás a webes buildhez */
+    background: transparent !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+
+    /* MEGOLDÁS A TÉRKÖZRE: Szigorú, de biztonságos padding. 
+       A fenti/lenti paddingot levesszük 2px-re, így eltűnik a nagy üres tér, 
+       de nem kap nullát, így a 80%-os betűméret sem fog elromlani! */
+    padding: 2px 8px 2px 30px !important; 
+}
+
+/* Elrejtjük az ikont és az összecsukó nyilat */
+.callout[data-callout*=lasdmeg] .callout-fold .svg-icon,
+.callout[data-callout*=lasdmeg] .callout-icon {
+    display: none !important;
+}
+
+/* Biztonsági nullázás a belső bekezdések beépített margóira, 
+   hogy a weben se tolja el a sorokat semmi */
+.callout[data-callout*=lasdmeg] p,
+.callout[data-callout*=lasdmeg] .cm-line {
+    margin-top: 0px !important;
+    font-size: 80% !important; 
+    margin-bottom: 0px !important;
+}
+
+/* LEVEL 2: Nested Callout Text (Manually forces 64%) */
+.callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] p,
+.callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .cm-line {
+    font-size: 64% !important; /* 80% of 80% */
+}
+
+/* LEVEL 3: Double-Nested Callout Text (Manually forces 51%, if you ever go three levels deep) */
+.callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] p,
+.callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .cm-line {
+    font-size: 51.2% !important; 
+}
+
+/* LEVEL 4: Triple-Nested Callout Text (Manually forces 40.96%) */
+.callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] p,
+.callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .cm-line {
+    font-size: 40.96% !important; 
+}
