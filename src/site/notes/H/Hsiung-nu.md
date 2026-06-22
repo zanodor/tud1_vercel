@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:30","updated":"2026-06-12T22:45"}
+{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:30","updated":"2026-06-22T17:47"}
 ---
 
 
@@ -112,7 +112,7 @@ Végül megengedi:
 
 Lásd még [ezen](https://prism.ucalgary.ca/server/api/core/bitstreams/0f570209-afee-4041-913d-afb541d76c2d/content) oldalon szereplő kínai-kanadai illető disszertációjának idevonatkozó anyagát.  
 
-[[T/Tárkány#^bt083w\|Ezen]] helyen is láttuk, hogy igyekeznek egy korábbi rétegből létrejött indoiráni gyökre utalni eredetként.  
+[[T/Tárkány#^260614\|Ezen]] helyen is láttuk, hogy igyekeznek egy korábbi rétegből létrejött indoiráni gyökre utalni eredetként.  
 
 <!--section: 10-->
 ## A hsziungnuk művészete
