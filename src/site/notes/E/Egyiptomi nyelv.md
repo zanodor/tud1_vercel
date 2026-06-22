@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Egyiptomi nyelv/","title":"Egyiptomi nyelv","tags":["containstransclusions"],"created":"2026-04-03T20:02","updated":"2026-04-03T23:43"}
+{"dg-publish":true,"permalink":"/E/Egyiptomi nyelv/","title":"Egyiptomi nyelv","tags":["containstransclusions"],"created":"2026-04-03T20:02","updated":"2026-06-22T17:51"}
 ---
 
 
@@ -29,8 +29,8 @@ Az óegyiptomi nyelvbe bekerült – a gazdasági, társadalmi-politikai és val
 
 > [!_for_blockid] &nbsp;
 > - A sumér `NAB` szó nem jelent közvetlenül napot, de nagyon közeli jelentést tartalmaz, ahogy a szláv `nebo` = égbolt és rokon alakú más szavak kapcsán is a `nap` szót jelöltük meg kiindulónak:
-> 	- **Anton Deimel (_Šumerisches Lexikon_):** A „nap” fogalmára az `ud` (vagy `u₄`) jelet adja meg (Deimel nr. 381). A `NAB` jel nála (Deimel nr. 126) elsősorban az akkád `nābu` („fénylik”, „ragyog”) igével vagy istenségek nevének összetevőjeként (pl. _d-Nab-u_) szerepel, de önállóan a „nap” égitest jelentésben nem.
-> 	- **Friedrich Delitzsch (_Sumerisches Glossar_):** A „nap” (Tag, Sonne) jelentéshez kizárólag az `ud` gyököt rendeli. A `NAB` nála sem alapjelentése a Napnak; ő is inkább az égi fényességgel vagy specifikus teofór (istennevet tartalmazó) nevekkel hozza.
+> 	- **Anton Deimel (_Šumerisches Lexikon_):** A „nap” fogalmára az `ud` (vagy `u₄`) jelet adja meg (Deimel nr. 381). A `NAB` jel nála (Deimel nr. 126) elsősorban az akkád `nābu` („fénylik”, „ragyog”) igével vagy istenségek nevének összetevőjeként (pl. _d-Nab-u_) szerepel, de önállóan a „nap” égitest jelentésben nem.
+> 	- **Friedrich Delitzsch (_Sumerisches Glossar_):** A „nap” (Tag, Sonne) jelentéshez kizárólag az `ud` gyököt rendeli. A `NAB` nála sem alapjelentése a Napnak; ő is inkább az égi fényességgel vagy specifikus teofór (istennevet tartalmazó) nevekkel hozza.
 
 
 </div></div>
