@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kunmes/","title":"Kunmes","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-04T10:42","updated":"2026-03-05T01:42"}
+{"dg-publish":true,"permalink":"/K/Kunmes/","title":"Kunmes","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-04T10:42","updated":"2026-06-22T17:49"}
 ---
 
 
