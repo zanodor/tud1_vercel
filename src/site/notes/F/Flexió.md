@@ -1,25 +1,34 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz","containstransclusions"],"created":"2024-10-22T22:07","updated":"2026-05-22T00:19"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz","containstransclusions"],"created":"2024-10-22T22:07","updated":"2026-06-22T17:46"}
 ---
 
 
+<!--section: 1-->
 # Flexió
 
+<!--section: 2-->
 #### Végvári József Ragozó-rügyező nyelvünk...  
 
+<!--section: 2.1-->
 ...című írásában közli:  
 > A körülöttünk élő, illetve a világot ma uraló népek kivétel nélkül hajlító nyelveket beszélnek. A négyes felosztás, mely szerint vannak elszigetelő (kínai), hajlító (indogermán, sémi), ragozó (finnugor, török, busman, bantu nyelvek, több kaukázusi nyelv mint például csecsen és grúz, a kihalt sumér, baszk) és összegző vagy bekebelező (eszkimó, amerikai indián, ausztráliai) nyelvek. A mai angol eredendően hajlító, de vannak elszigetelő vonásai is.  
 > Miben áll a hajlítás? Egyfelől abban, hogy a szó tőmagánhangzója változik meg, méghozzá minőségileg. Az angolban legjobb példa erre a rendhagyó igék három alakja: *drink* – *drank* – *drunk* stb.; ez az ún. tiszta vagy belső hajlítás, melyre a mi nyelvünkben nincs példa (ugyanakkor mutatja a magánhangzók fontos szerepét is az indogermán nyelvekben). Az ún. külső hajlításban végződések, toldalékok jelennek meg, ezek azonban egészen mások mint a magyar ragok, legföljebb látszatra és messziről hasonlítanak.  
 > A latinban (és minden más hajlító nyelvben!) az egyes esetvégződések az alanyeset -us végződése helyébe kerülnek, tehát ahhoz képest valóban elhajlásokat vagy eltéréseket képeznek. A magyarban viszont a ragnélküli alapszóhoz illeszkednek a ragok, az alapszó változatlan marad, legföljebb mennyiségi változások vannak, például nyúlás: fa – fák.  
 > A négyes besorolást eredetileg ugyanazok a nagy nyelvészek: F. Schlegel (1808), A.W. Schlegel (1818), W. Humboldt (1822), egyúttal a nyelv fejlődési szintjeinek tartották, és bizony **a fejlődési láncban legmagasabbra a hajlító (vagyis az indogermán és sémi) nyelveket helyezték. A ragozó nyelvek egy fokkal alacsonyabbra kerültek**.  
 
-A Götz László Keleten kél a Nap című könyvének 94-95. oldalain megszólaltatott N. S. Trubetzkoy véleménye szerint viszont:  
+<!--section: 3-->
+#### Götz László Keleten kél a Nap...  
+
+<!--section: 3.1-->
+...című könyvének 94-95. oldalain N. S. Trubetzkoy véleményét közli:  
 > A flexió primitívebb nyelvi állapot, mint az agglutináció, mert az indogermán nyelvek fejlődése kimutathatóan a hiperflektáló kaukázusi nyelvektől az agglutináció felé halad.  
 - De ezt bizonyítja az is, hogy az indogermán nyelvészek által összeállított ideális nyelv, az eszperantó, nem más mint indogermán elemekből felépített tiszta agglutináló nyelv. <br/>  
 Könyvének 133. oldalán tér vissza a témára, indogermán és szemita példákat bemutatva. Utána is folytatja.  
 
+<!--section: 4-->
 ## Hangfejlődés és hajlítás
 
+<!--section: 4.1-->
 [[H/Ház\|Ház]] szónál került szóba, hogy k-előtétes szavak másutt h-előhangosak. Ilyenkor a nyelvészet nyilvánvalóan mindig [[N/Nyelvészet mint tudomány#Grimm-féle hangtörvények\|Grimm-féle]] "szabályos" hangfejlődésekben fog gondolkodni. A fókuszba az kerül, hogy adott szavakról adott vizsgálati környezetben, adott(?) szabályszerűségek szerint valami tudományosat kell kanyarítani.  
 (A jelenséget bőven taglaltuk [[G/God\|God]] helyen.)  
 
@@ -37,8 +46,10 @@ Ahogy [[L/Logosz\|logosz]] és [[N/Népetimológia\|népetimológia]] címnél i
 </div></div>
 
 
+<!--section: 5-->
 ## Magyar hajlítás mint nyelvünk szavainak alapképessége
 
+<!--section: 5.1-->
 Van eset, hogy rendkívül csekély hajlítás történik. Pl. a *homofónia* esetén a szavak ugyanazt a hangalakot használják, de eltérő jelentéssel rendelkeznek (pl. `kész` - `kéz`).  
 Czakó Gábor **gyökhangváltás**nak nevezi, olyan példákat hozva, mint `borít` és `burkol`, amelyek ugyanazt jelentik: "befed, betakar".  
 
@@ -50,8 +61,10 @@ Magor ikerpárjának, [[H/Hunor\|Hunor]]nak nevében Hun is jelenthet Napot, de 
 
 Mielőtt további példákkal szemléltetnénk, hogyan működik mindez a magyar nyelvben, hallgassunk meg másokat is.  
 
+<!--section: 6-->
 #### Péterfai János írja:
 
+<!--section: 6.1-->
 > A Ku flexiót alkot a magyar nyelvben, Kő jelentéssel. A flexió sorozata a következő: Ku, Ko, Ka, Kő, Ke, Ki, Kü. Mindegyiknek van Kővel kapcsolatos jelentése. A bemutatott flexiós nyelvi jelenséget Archaikus Flexiónak nevezem, szemben a szemita nyelvekre jellemző Modern Flexióval. Teljesen bizonyos, hogy a szemita nyelvek flexiós jelensége a magyar Archaikus Flexióból alakult ki.  
 > A szemita nyelvekben ugyanis a flexiós ragozás BABAB típusú szavakon megy végbe, amíg a magyar flexió AB vagy BA, nagyon egyszerű szavakon jelentkezik. Általában a magyar flexiós, hajlítós nyelvi jelenséget Szóbokor képződésnek nevezik. A magyar nyelvben a Flexió, vagy a Hajlítás sok tízezer évvel megelőzi a szemita nyelvekben megjelenő Flexálást, vagy Hajlítást, ami valójában az oldalra kitérést, az egyenestől való eltérést írja le, nyelvi alap jellegzetességként.  { #bjhh4f}
 
@@ -61,8 +74,10 @@ Mielőtt további példákkal szemléltetnénk, hogyan működik mindez a magyar
 
 -  CzF [[G/Gabona\|gabona]] címnél álló adata szerint a geb, gib, göb, gub gyökök általában meghajlást, görbeséget jelentenek, mint egyszerűn a g betű, különösebben pedig födést, födözést jelentenek, s az értelemárnyéklatokat csaknem egyedül az önhangzók teszik. Így gab is jelent födözést, valaminek felső részét, fejét, s rokonok vele a szanszkrit `kub` v. kup (am. födöz, fölemel), a német `Haufe`, `heben`, `Haupt`, `Kopf`, `Giebel`, `Gipfel`, latin `copia`, `capio`, `caput`, svéd `kopp`, `kappe`, olasz `coppa`, `capo`, hellen `kubh`, `kejalh` stb, végül ide tartozók még más rokon betükkel a magyar kúp, csúp, hápa-hupa stb. szók is.
 
+<!--section: 7-->
 #### Götz László Keleten kél a Nap...  
 
+<!--section: 7.1-->
 ...című könyvében is hoz példákat magyar és szumer nyelvre:  
 > A ragozó nyelveknél alapvetően más a helyzet. Ezek ugyanis – mivel a nyelvtani viszonyokat ragokkal, képzőkkel, jelekkel fejezik ki – szabadon felhasználhatják az egész magánhangzó-skálát szemantikailag összetartozó szavak árnyalati megkülönböztetésére.  
 > Pl. **magyar:** HAL, HÁL, HULL; LAK, LIK, LUK, LÉK; ESZ-ik, ISZ-ik.
@@ -132,10 +147,13 @@ A fentebb idézett Végvári József [[S/Szócsaládok\|szócsalád]]-rendszere 
 [[S/Szláv és török jövevényszavak#-Cs, -csk(a), -ka végződések\|-Cs, -csk(a), -ka végződések]] cím/alcímnél pedig arról szóltunk, hogy ha a szavak közös szóbokorhoz tartoznak, meg tudjuk őket védeni magyarnak.  
 [[K/Kovács\|Kovács]] és [[K/Kalács\|kalács]] esetében is ezt tettük: előbbi [[K/Kohász\|kohász]] és [[K/Kovász\|kovász]], utóbbi [[K/Kalász\|kalász]] alaki párja, mely esetekben logikai összefüggést is fel lehet fedezni, azaz nem alaptalan a szavak kapcsolása.  
 
+<!--section: 8-->
 ## Sémi vonal
 
+<!--section: 9-->
 #### Krizsa Katalin és Karvaly Katalin A magyar nyelv gyöknyelv...  
 
+<!--section: 9.1-->
 ...című az Ősi Gyökér 2013/4. sz. megjelent cikkükben írják (nyilván előbbi):  
 > Amíg a magyar gyököt csak 1 vagy 2 mássalhangzóra definiáljuk, addig más gyöknyelvek – például a héber – praktikus okokból a 3, illetve, gyökismétlődés esetén, a 4 mássalhangzóból álló gyökvázat is gyöknek nevezik. Például a héber `BLT` gyökszavai: `balát`, `balut`, `baluta`, `blita`, `bolet`; közös jelentésük: feltűnik. Egy másik, egy önismétlő gyök, a PRPR: `pirper`, `pirpur`, `parpár` (pörög). A praktikus ok az, hogy a héber (de csak az újkortól), a különböző igemódok képzésére használja a magánhangzók szóbelseji variálását (a flektálást). Mivel ez nemcsak az egy, hanem a két (három) szótagúakra is érvényes, ezért célszerű nekik a 3 (kivételesen 4) mássalhangzóból álló vázakat is gyöknek tekinteni.  
 
@@ -143,8 +161,10 @@ A flektáló sémi nyelvekben láttuk, hogy ami egyszer \*hamar vagy hasonló al
 
 A sémi (és indogermán) vonalon maradva...
 
+<!--section: 10-->
 #### Götz László Keleten kél a Nap...  
 
+<!--section: 10.1-->
 ...című könyvének 190. oldalán írja:  
 > A nyelvészet megállapítása, de a 4-5000 éves szumér nyelvemlékek tanúsága szerint is, a nyelvek legősibb tőszavai egyszótagúak voltak. Igen fontos tehát közelebbről is megvizsgálni, milyen eszközökkel képezték a nyelvek később kialakult két- és többszótagú szavaikat. Két szótagból – pontosabban három mássalhangzóból ("triszonancia") – álló alapszavak elsősorban a flektáló nyelvekre, az indogermánra és a szemitára jellemzőek. Ezen alapszavak azonban nem eredeti tőszavak, hanem úgy alakultak ki, hogy mivel a flektáló nyelvek a magánhangzók változatait úgyszólván teljes egészükben a nyelvtanban alkalmazzák, a szemantikai összefüggések jelölésére, a rokon fogalmak árnyalati megkülönböztetésére többnyire tőbővítésekhez kellett folyamodniuk. Idővel ezek a triszonanciák – vagy trikonszonanciák – annyira összeforrottak, hogy összetett voltuk ma már első pillantásra alig ismerhető fel.  
 >
@@ -168,10 +188,13 @@ Könyve 883-884. oldalán írja:
 [[G/Gyakorítás\|Gyakorítás]] címnél is elhangzott:  
 > Ezek a bővítmények az eredeti ige általános alapjelentését tényleg nem változtatják meg, hanem csak a cselekvés mikéntjét variálják, módosítják; a finom megkülönböztetéseket jelölik. Ilyen jellegű jelentéskülönbségeket a német nyelv vagy körülírással, külön segédigékkel, vagy pedig a tőmagánhangzó megváltoztatásával, "Ablaut"-tal fejez ki: `trinken` (inni), `tränken` (itatni); `dringen` (sürögni, sietni), `drängen` (sürgetni, (kölcsönözni), `bürgen` (a kölcsönért jótállni).  
 
+<!--section: 11-->
 ## Óegyiptomi példa
 
+<!--section: 11.1-->
 > Ilyennel is találkozni. Pl. a több helyen említett óegyiptomi `p-t`/`pt` jelentése ég, égbolt, melynek megfelel illetve nyilván ennek nyomán jött létre a Mercer (1952: II, 183, 509) adatát megosztó Morris Silver Talking Ancient Mythology című könyvében megadott `pdt`/`pedjet` = ív, íj; égbolt szó.  
 
+<!--section: 12-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
