@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2026-06-05T20:52"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2026-06-22T17:49"}
 ---
 
 
