@@ -2,7 +2,7 @@
     --callout-icon: lightbulb;
     --callout-color: inherit;
     font-size: 90%;
-    line-height: 1.2em;
+    line-height: 1.6em;
     margin: 4px 0 1em 15px;
     
     /* MEGOLDÁS A HÁTTÉRRE ÉS KERETRE: Explicit nullázás a webes buildhez */
