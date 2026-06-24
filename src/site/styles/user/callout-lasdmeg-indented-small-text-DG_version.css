@@ -1,7 +1,7 @@
 .callout[data-callout*=lasdmeg] {
     --callout-icon: lightbulb;
     --callout-color: inherit;
-    font-size: 80%;
+    font-size: 90%;
     line-height: 1.2em;
     margin: 4px 0 1em 15px;
     
@@ -18,34 +18,110 @@
 }
 
 /* Elrejtjük az ikont és az összecsukó nyilat */
-.callout[data-callout*=lasdmeg] .callout-fold .svg-icon,
-.callout[data-callout*=lasdmeg] .callout-icon {
+/* Hide only the housing lasdmeg callout type's icon and fold arrow */
+.callout[data-callout*=lasdmeg] > .callout-title > .callout-fold .svg-icon,
+.callout[data-callout*=lasdmeg] > .callout-title > .callout-icon {
     display: none !important;
 }
 
-/* Biztonsági nullázás a belső bekezdések beépített margóira, 
-   hogy a weben se tolja el a sorokat semmi */
-.callout[data-callout*=lasdmeg] p,
-.callout[data-callout*=lasdmeg] .cm-line {
-    margin-top: 0px !important;
-    font-size: 80% !important; 
-    margin-bottom: 0px !important;
+/* LEVEL 1: only the direct content of lasdmeg = 100% */
+.callout[data-callout*=lasdmeg] > .callout-content p,
+.callout[data-callout*=lasdmeg] > .callout-content .cm-line {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    font-size: 100% !important;
 }
 
-/* LEVEL 2: Nested Callout Text (Manually forces 64%) */
-.callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] p,
-.callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .cm-line {
-    font-size: 64% !important; /* 80% of 80% */
+/* LEVEL 2 */
+.callout[data-callout*=lasdmeg] > .callout-content > .callout p,
+.callout[data-callout*=lasdmeg] > .callout-content > .callout .cm-line {
+    font-size: 90% !important;
 }
 
-/* LEVEL 3: Double-Nested Callout Text (Manually forces 51%, if you ever go three levels deep) */
-.callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] p,
-.callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .cm-line {
-    font-size: 51.2% !important; 
+/* LEVEL 3 */
+.callout[data-callout*=lasdmeg] > .callout-content > .callout .callout p,
+.callout[data-callout*=lasdmeg] > .callout-content > .callout .callout .cm-line {
+    font-size: 81% !important;
 }
 
-/* LEVEL 4: Triple-Nested Callout Text (Manually forces 40.96%) */
-.callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] p,
-.callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .callout[data-callout*=lasdmeg] .cm-line {
-    font-size: 40.96% !important; 
+/* LEVEL 4 */
+.callout[data-callout*=lasdmeg] > .callout-content > .callout .callout .callout p,
+.callout[data-callout*=lasdmeg] > .callout-content > .callout .callout .callout .cm-line {
+    font-size: 72% !important;
 }
+
+/* LEVEL 2 title */
+.callout[data-callout*=lasdmeg] .callout .callout-title {
+    font-size: 90% !important;
+}
+
+/* LEVEL 3 title */
+.callout[data-callout*=lasdmeg] .callout .callout .callout-title {
+    font-size: 81% !important;
+}
+
+/* LEVEL 4 title */
+.callout[data-callout*=lasdmeg] .callout .callout .callout .callout-title {
+    font-size: 72% !important;
+}
+
+/* LEVEL 2 icon & title layout */
+.callout[data-callout*=lasdmeg] .callout .callout-title,
+.callout[data-callout*=lasdmeg] .callout .callout .callout-title,
+.callout[data-callout*=lasdmeg] .callout .callout .callout .callout-title {
+    align-items: center !important;
+    justify-content: flex-start !important;
+}
+.callout[data-callout*=lasdmeg] .callout .callout-title-inner,
+.callout[data-callout*=lasdmeg] .callout .callout .callout-title-inner,
+.callout[data-callout*=lasdmeg] .callout .callout .callout .callout-title-inner {
+    min-width: 0 !important;
+    flex: 1 1 auto !important;
+}
+.callout[data-callout*=lasdmeg] .callout .callout-fold,
+.callout[data-callout*=lasdmeg] .callout .callout .callout-fold,
+.callout[data-callout*=lasdmeg] .callout .callout .callout .callout-fold {
+    margin-left: auto !important;
+}
+.callout[data-callout*=lasdmeg] .callout .callout-icon,
+.callout[data-callout*=lasdmeg] .callout .callout .callout .callout-icon {
+    order: 0 !important;
+}
+.callout[data-callout*=lasdmeg] .callout .callout-title-inner,
+.callout[data-callout*=lasdmeg] .callout .callout .callout .callout-title-inner {
+    order: 1 !important;
+}
+
+/* LEVEL 2 icon */
+.callout[data-callout*=lasdmeg] .callout .callout-icon {
+    width: 0.9em !important;
+    min-width: 0.9em !important;
+    height: 0.9em !important;
+}
+.callout[data-callout*=lasdmeg] .callout .callout-icon .svg-icon {
+    width: 0.9em !important;
+    height: 0.9em !important;
+}
+
+/* LEVEL 3 icon */
+.callout[data-callout*=lasdmeg] .callout .callout .callout-icon {
+    width: 0.81em !important;
+    min-width: 0.81em !important;
+    height: 0.81em !important;
+}
+.callout[data-callout*=lasdmeg] .callout .callout .callout-icon .svg-icon {
+    width: 0.81em !important;
+    height: 0.81em !important;
+}
+
+/* LEVEL 4 icon */
+.callout[data-callout*=lasdmeg] .callout .callout .callout .callout-icon {
+    width: 0.72em !important;
+    min-width: 0.72em !important;
+    height: 0.72em !important;
+}
+.callout[data-callout*=lasdmeg] .callout .callout .callout .callout-icon .svg-icon {
+    width: 0.72em !important;
+    height: 0.72em !important;
+}
+

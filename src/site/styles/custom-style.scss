@@ -3,6 +3,10 @@
   IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
 ***/
 
+/*** Callout spacing fix - padding after title before content ***/
+.callout-title {
+  padding-bottom: 8px;
+}
 
 /*** Transcluded elements double blockquote fix ***/
 .markdown-preview-view .markdown-embed-content .markdown-rendered blockquote {

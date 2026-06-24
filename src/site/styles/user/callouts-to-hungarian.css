@@ -7,11 +7,13 @@
   align-items: center;
   gap: 0.5em;
 }
+
 .callout > .callout-title .callout-title-inner {
-  flex: 1 1 auto;
+    flex: 1 1 auto;
 }
-.callout .callout-fold {
-  margin-left: auto;
+
+.callout > .callout-title .callout-fold {
+    margin-left: auto;
 }
 
 /* Hide the English callout type and inject Hungarian titles - restricted to top-level callouts */

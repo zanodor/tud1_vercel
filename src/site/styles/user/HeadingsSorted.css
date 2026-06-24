@@ -1,0 +1,47 @@
+.markdown-preview-view h1 {
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+.markdown-preview-view h2 {
+  padding-top: 15px;
+  padding-bottom: 25px;
+}
+.markdown-preview-view h3 {
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+.markdown-preview-view h4 {
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+.markdown-preview-view h5 {
+  padding-top: 10px;
+}
+.markdown-preview-view h6 {
+  padding-top: 10px;
+}
+
+/*** 
+Upd. via https://chatgpt.com/c/6a3bf44e-9768-83eb-ac0d-aa26bcb11dcd 
+***/
+/* Remove extra heading spacing inside all callouts */
+.callout .callout-content h1,
+.callout .callout-content h2,
+.callout .callout-content h3,
+.callout .callout-content h4,
+.callout .callout-content h5,
+.callout .callout-content h6 {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+/* Fix first/last element spacing inside all callouts */
+.callout .callout-content > :first-child {
+    margin-top: 0 !important;
+}
+
+.callout .callout-content > :last-child {
+    margin-bottom: 10 !important;
+}
