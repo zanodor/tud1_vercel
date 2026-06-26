@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Ragozó nyelvek/","title":"Ragozó nyelvek","tags":["containstransclusions"],"created":"2023-12-23T10:29","updated":"2026-06-22T17:51"}
+{"dg-publish":true,"permalink":"/R/Ragozó nyelvek/","title":"Ragozó nyelvek","tags":["containstransclusions"],"created":"2023-12-23T10:29","updated":"2026-06-26T23:03"}
 ---
 
 
