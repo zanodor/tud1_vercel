@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2026-05-29T22:43"}
+{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2026-06-26T23:00"}
 ---
 
 
@@ -21,12 +21,14 @@ A [[G/Gyomor\|gyomor]] címnél említett szótagmegfordítás kapcsán annyit, 
 
 [[V/Völgy\|Völgy]] szavunk igen érdekes; előbb csak az tűnt fel, hogy [[F/Föld\|föld]] szavunknak felel meg: a völgy a lent létet, alsó állapotot mutatja, ahogy az alaki azonos föld is az éghez ([[E/Ég\|ég]] = [[H/Hegy\|hegy]]) képest lent van.  
 
-De ha jobban megnézzük, HeGy H>V szabályos váltással és [[L/L#L vendéghang\|l vendéghang]]gal kiadja VöLGy-et.  
+De ha jobban megnézzük, HeGy szabályos H>V váltással és [[L/L#L vendéghang\|l vendéghang]]gal kiadja VöLGy-et.  
 Érdekes, hogy a hehezetes párjának megfelelő [[H/Hölgy\|hölgy]] idegen [[L/Lady\|lady]] (lásd még [[L/Lada\|Lada]], [[L/Latona\|Latona]], stb.) nevébe is [[L/LAD\|LAD]] = hegy jelentésű etimont láttunk bele (Péterfai János gondolata alapján).  
 
 ### KUT(a)
 
-[[K/Kutya\|Ku-Ta]] a hegy ill. közeli alak a szakrális geometrikus [[H/Hut\|hut]]/[[K/Kota\|kota]]/[[H/Ház\|ház]], és ezek inverze a [[K/Kút\|kút]] és [[G/Gödör\|gödör]].  
+[[K/Kutya\|Ku-Ta]] a hegy ill. közeli alak a szakrális geometrikus [[H/Hut\|hut]]/[[K/Kota\|kota]]/[[H/Ház\|ház]], és ezek inverze a [[K/Kút\|kút]] és [[G/Gödör\|gödör]].
+{ #260531}
+
 
 ### FEN (fenn) – fenék
 
