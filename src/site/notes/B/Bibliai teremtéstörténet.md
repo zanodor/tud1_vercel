@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bibliai teremtéstörténet/","title":"Bibliai teremtéstörténet","tags":["Englishtexttranslated"],"created":"2026-06-24T17:41","updated":"2026-06-24T17:42"}
+{"dg-publish":true,"permalink":"/B/Bibliai teremtéstörténet/","title":"Bibliai teremtéstörténet","tags":["Englishtexttranslated"],"created":"2026-06-24T17:41","updated":"2026-06-26T22:59"}
 ---
 
 
@@ -121,6 +121,9 @@ A lényeg 1:17:10-nél: elindult egy lélek-ember és egy sár-ember teremtés �
 Egy [másik](https://www.youtube.com/watch?v=CiVhYupIx3s&t=5366) előadásában is szóba kerül a második teremtéstörténet a rovarosodás és [[P/Parazitizmus\|parazitizmus]] témája kapcsán.  
 
 Mint kiderül, James Frazer Folk-Lore in the Old Testament című háromkötetes művének I. kötetét rögtön ezzel a témával kezdi.  
+
+Lásd még [elohista forrás](https://hu.wikipedia.org/wiki/Elohista_forr%C3%A1s) és [jahvista forrás](https://hu.wikipedia.org/wiki/Jahvista_forr%C3%A1s).  
+
 
 
 #### John G. Jackson Christianity before Christ...
