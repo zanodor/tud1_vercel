@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-06-20T19:45"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-06-26T22:57"}
 ---
 
 
@@ -8,9 +8,9 @@
 
 
 > [!attention] &nbsp;
-> A teljes Tudástár weboldal megfelelő használata érdekében a Firefox böngészőt és a videók zavartalan, hirdetésmentes eléréséhez javaslom az ezen böngészőre telepíthető [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) bővítményt használni (Videa, Rumble, YouTube és más platformok videóihoz is jó). (A Chrome jelenleg ezt a bővítményt nem engedi telepíteni.)
+> <small>A teljes Tudástár weboldal megfelelő használata érdekében a Firefox böngészőt és a videók zavartalan, hirdetésmentes eléréséhez javaslom az ezen böngészőre telepíthető [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) bővítményt használni (Videa, Rumble, YouTube és más platformok videóihoz is jó). (A Chrome jelenleg ezt a bővítményt nem engedi telepíteni.)</small>
 > 
-> Mivel az archive.ph-s linkek **2026. április végétől?** bizonyos böngészőkben vagy böngésző beállításoknál csak feladványok után engednek tovább a videók egyes részeinek megtekintéseihez, innentől leginkább csak archiválás szempontjából érdekesek; érdemesebb **a Share Note-os linkeket kell használni** az olvasáshoz és az időbélyegre kattintásokkal való kalauzoláshoz.
+> <small>Mivel az archive.ph-s linkek **2026. április végétől?** bizonyos böngészőkben vagy böngésző beállításoknál csak feladványok után engednek tovább a videók egyes részeinek megtekintéseihez, innentől leginkább csak archiválás szempontjából érdekesek; érdemesebb **a Share Note-os linkeket kell használni** az olvasáshoz és az időbélyegre kattintásokkal való kalauzoláshoz.</small>
 
  > [!info]- <span style="font-weight:normal"><small> Kattints e sorra vagy oldalt a fülecskére további megjegyzésekért!</small></span> &nbsp;
 > <small>**Megjegyzés**: A mesterséges intelligencia Google Geminis összefoglalói a Google (YouTube) által automatikusan rendelkezésre bocsátott feliratozás alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli hibák, melyek mindegyikét nem veszem észre, hogy javíthassam. Elírt vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag", "az előadó szerint", amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattintva ellenőrizni a videón, hogy mi szerepelt az eredeti hang- ill. képanyagban.</small>
@@ -23,6 +23,11 @@
 
 **2026:**
 
+[<small>260626CN! MAGYAR AUCHAN](https://rumble.com/v7bvcai-260626cn-magyar-auchan-kubnyi-tams-ktv.html)  [https://share.note.sx/qm78lxls](https://share.note.sx/qm78lxls) [https://archive.ph/e7nD2](https://archive.ph/e7nD2)</small>
+<small>[260625CN! NAZBOL](https://rumble.com/v7btox0-260625cn-nazbol-kubnyi-tams-ktv.html)  [https://share.note.sx/g93xpei4](https://share.note.sx/g93xpei4) [https://archive.ph/8yfKc](https://archive.ph/8yfKc)</small>
+<small>[260624CN! WASS ALBERT ELŐADÁS](https://rumble.com/v7brrgg-260624cn-wass-albert-elads-kubnyi-tams-ktv.html)  [https://share.note.sx/8uygamm9](https://share.note.sx/8uygamm9) [https://archive.ph/VkuGu](https://archive.ph/VkuGu)</small>
+<small>[260623CN! UKRÁNOK](https://rumble.com/v7bq1o8-260623cn-ukrnok-kubnyi-tams-ktv.html)  [https://share.note.sx/8nhyyduk](https://share.note.sx/8nhyyduk) [https://archive.ph/VYKVR](https://archive.ph/VYKVR)</small>
+<small>[260622CN! DOGMA vs. TUDOMÁNY](https://rumble.com/v7bo5rs-260622cn-dogma-vs.-tudomny-kubnyi-tams-ktv.html)  [https://share.note.sx/xdb8djlj](https://share.note.sx/xdb8djlj) [https://archive.ph/w7O1E](https://archive.ph/w7O1E)</small>
 <small>[260619CN! A HORN-FOK](https://rumble.com/v7bj8h6-260619cn-a-horn-fok-kubnyi-tams-ktv.html)  [https://share.note.sx/wip8iqj6](https://share.note.sx/wip8iqj6) [https://archive.ph/Vu5pl](https://archive.ph/Vu5pl)</small>
 <small>[260618CN! JÚNIUS 18.](https://rumble.com/v7bhit0-260618cn-jnius-18.-kubnyi-tams-ktv.html)  [https://share.note.sx/inava977](https://share.note.sx/inava977) [https://archive.ph/mJlzL](https://archive.ph/mJlzL)</small>
 <small>[260617CN! SUNYIKA](https://rumble.com/v7bfpiw-260617cn-sunyika-kubnyi-tams-ktv.html)  [https://share.note.sx/aqd692ab](https://share.note.sx/aqd692ab) [https://archive.ph/IM6Nn](https://archive.ph/IM6Nn)</small>
