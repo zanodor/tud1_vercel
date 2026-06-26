@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szláv és török jövevényszavak/","title":"Szláv és török jövevényszavak","created":"2025-03-08T20:46","updated":"2026-06-12T22:44"}
+{"dg-publish":true,"permalink":"/S/Szláv és török jövevényszavak/","title":"Szláv és török jövevényszavak","tags":["containstransclusions"],"created":"2025-03-08T20:46","updated":"2026-06-26T22:59"}
 ---
 
 
@@ -20,8 +20,17 @@ Itt talán még Czeglédi Katalin egyes cikkeinek fogalmazásai miatt került a 
 #### Buji Ferenc írja:
 
 <!--section: 2.1-->
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/C/Cannabis/#2zaaap" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
 > Nyilván nem véletlen, hogy a Történeti-etimológiai szótár szerint ótörök eredetű kendert más nyelvekben is a kány- gyökkel képezik; vö. gör. `kannabisz`, lat. `cannabis`, ném. `Hanf`, ang. `hemp`, fr. `chanvre`, or. `konolja`. Az orosz `kendir` ("kenderfajta növény") pedig valószínűleg a sztyeppei nyelvekből került az oroszba, s nem valamely török nyelvből. Általános elvként megfogalmazható, hogy a szláv nyelvek az ősszláv korszakban nem annyira török, mint inkább sztyeppei nyelvi befolyás alatt álltak. Ilyetén módon azok a szavak, amelyeket a nyelvtudomány a szláv nyelvekben török jövevényszavakként konstatál, mind a szláv, mind pedig a török nyelvekben sztyeppei eredetű jövevényszavak.  
-- Buji Ferenc ezen passzusa [[C/Cannabis\|cannabis]] címnél is szerepelt.
+
+
+</div></div>
+
+- Buji Ferenc passzusa [[C/Cannabis\|cannabis]] címnél is szerepelt.
 
 Amit Buji nem mond ki, hogy ezen sztyeppei népek (sokan úgy mondanák: szkíták, szittyák) valójában a kún/hun népek, kiknek szakrális-vallási szavai is K-N, K-Nd, H-N, stb. alapvázra épülnek. Buji Ferenc a kány- gyökről írt dolgozatát említettük [[K/KONY\|KONY]] címnél is.  
 [[M/Magyar ősvallás\|Magyar ősvallás]] címnél szerepeltek a [[K/Kniezsa István\|Kniezsa István]] szerinti kereszténységre vonatkozó kifejezések legrégibb rétegéhez tartozó szláv úton nyert magyar szavak. Valójában a szláv, germán és török is magyar-hun nyelvek keverékéből jött létre.  
@@ -79,7 +88,7 @@ A magyar nyelv egyes szűk területeire korlátozódó marginális, tájnyelvi j
 
 Götz is írja:  
 > Vámbéry ellenvetése valóban megalapozott volt. \[...\] Nyelvtudományunk még manapság is olyan szavak sorozatával tölti fel szláv jövevényszavaink számát "csaknem ezer"-re (a józanabb kritika ugyanis, főleg [[K/Kniezsa István\|Kniezsa István]] hatására időközben már jónéhányat kirostált Miklosich eredeti 956 szavából), amelyek a magyar nyelvterület legnagyobb részén teljesen ismeretlenek, s csak a magyar-szláv településterület érintkezési zónájában érti meg őket népünk jelentéktelen hányada. Sőt, nem egy ilyen szó csupán egyes régebbi iratokban fordul elő, s – amint Vámbéry is megjegyzi – a 19. században már sehol sem volt használatban.
-
+> 
 > [[F/Franz Miklosich\|Miklosich]] előbb bemutatott "módszerei" még ma is elevenen hatnak. Nyelvészetünk számos esetben még mindig kritikátlánul ragaszkodik Miklosich hajdani teljesen egyoldalú szószármaztatásai hoz, s ennek következtében szlávnak tartott jövevényszavainkat azóta is többnyire szinte változatlanul az általa alkalmazott "módszerek"-kel vizsgálják.  
 - Itt a [[N/Német\|német]] népnév elemzése következett.
 
