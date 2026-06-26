@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fiú/","title":"Fiú","created":"2024-05-03T12:00","updated":"2026-02-24T01:08"}
+{"dg-publish":true,"permalink":"/F/Fiú/","title":"Fiú","created":"2024-05-03T12:00","updated":"2026-06-26T23:00"}
 ---
 
 
@@ -24,9 +24,14 @@ Ugyanígy ami egyszer fiú a héberben (`bar`), az fű az albánban (`bar`).
 > A fiú szó eredetileg szintén mindkét nemre vonatkozott (a leány párja tehát a legény, nem a fiú szavunk). Ennek határozott nyomai vannak mai nyelvünkben. Gondoljunk csak a [[F/Fióka\|fióka]] vagy a fial szóra; mindkét szó megkülönböztetés nélkül vonatkozhat hím- és nőnemű állatokra. De még világosabban megjelenik a fiú szó nemekről való eredeti függetlensége a `fiatal` szóban. A fiú vagy ennek fi- töve tehát egyrészt nemektől, másrészt fajoktól (ember, állat, növény) függetlenül jelöli az utódot. Vagy gondoljunk csak arra, hogy a szülők leánygyermekeiket gyakran "fiam"-ként szólítják. Ezzel szemben a [[L/Lány\|leány]] szó csak emberi, és csak nőnemű utódra vonatkozik, s így lennie kell egy kiegészítő szavának, amely kizárólag emberi és hímnemű utódra vonatkozik. Mivel pedig több lehetőségünk nincs, kizárásos alapon kénytelenek vagyunk feltételezni, hogy ez a [[L/Legény\|legény]].  
 
 [[G/Gyerek\|Gyerek]] címnél is előjött, hogy a fiú a [[T/Tejútanya\|Tejútanya]] fia. Ugyan mindkét szó csillag jelentésre megy vissza, mégis felvetődik, legutóbb [[N/Napistennő\|Napistennő]] című írottak alapján (ott a [[F/Föld tengelyferdülése\|Föld tengelyferdülése]] előtti állapotról is volt szó), hogy a fiú = Napfiú azonosság csak az elmúlt évezredek patriarchális [[N/Napvallás\|Napvallás]]-dominanciája nyomán jött létre és korábban a fi utalhatott lányra is (vagy mondjuk úgy: csak lányra, ha a Napistennő önmagát szülte ugye újra).  
+
 Az [alábbi](https://qr.ae/pNK70C) Quora válaszomban (az újlatin fiút jelentő szavak nem-latin eredetéről szóló írásban) angolul is érintem a kérdést. Ott is felvetem, milyen nagyszerű költői érzékkel valósították meg, hogy a madár kicsinyeit [[F/Fióka\|fióká]]nak hívják, hiszen a [[M/Madár\|madár]] a [[M/Magyar\|magyar]] "kódneve," és itt a Tejútfán/Világfán élő ill. onnan származó madarakról/magyarokról van szó.  
-Azóta [ezen](https://qr.ae/pNqD29) oldalon ismét érintem, de román nyelv szavaival kapcsolatban a kérdést. Amit itt még el lehet mondani, hogy a fiú szóhoz egészen hasonló a latin `puer` = gyerek, melyet azon [[P/Pulya\|pulya]] címnél említettünk, mely a [[B/Boy\|boy]] szóval is azonos alakú. Minden gyerek csillag, Nap (mag), fény, tűz.  
-(A grúz személynevekből ismert `shvili` = gyermek [szó](https://en.wiktionary.org/wiki/%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98#Georgian) szó kapcsán felvetődött, hogy hasonló fiú>fijú>s-filu eredete lehet, de nem valószínű.)  
+
+Azóta [ezen](https://qr.ae/pNqD29) Quora válaszban ismét érintem, román nyelv szavaival kapcsolatban a kérdést. Amit itt még el lehet mondani, hogy a fiú szóhoz egészen hasonló az etruszk `pava` = fiú, gyerek (vö. spanyol `pibe` = gyerek, kölyök; vö. [[B/Baba\|baba]], [[B/Bab\|bab]] és [[B/Báb\|báb]] szavunkkal), görög `παῖς` és latin `puer` = gyerek, mely utóbbit azon [[P/Pulya\|pulya]] címnél említettünk, mely a [[B/Boy\|boy]] szóval is azonos alakú. Minden gyerek csillag, Nap (mag), fény, tűz.
+{ #rcvt92}
+
+
+A grúz személynevekből ismert `shvili` = gyermek szó (lásd [itt](https://en.wiktionary.org/wiki/%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98#Georgian)) kapcsán felvetődött, hogy hasonló fiú >fijú > s-filu eredete lehet, de nem valószínű.
 
 Közben én azt hittem, hogy itt már tárgyaltam korábban a fiú-fióka (fiúka) kapcsolatot, de ezek szerint Varsa Mátyás adatai mentén haladva máshová kerültek az összefüggések. Bár valójában nem kell túlragozni. Értjük miről van szó.  
 
