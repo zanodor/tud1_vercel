@@ -1,17 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2026-03-05T01:33"}
+{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2026-06-26T22:59"}
 ---
 
 
+<!--section: 1-->
 # Latin nyelv
 
+<!--section: 2-->
 #### Péterfai János írja:
 
+<!--section: 2.1-->
 > A kérdés lényege, a latin nyelv, amely az újlatin nyelvek őse is, milyen eredetű? Egy elmélet szerint a Rajna vidékén tartózkodtak az italikuszok, mielőtt Itáliába érkeztek volna. A rajnai környéken kelták éltek, akik a magyarok talán legközelebbi rokonai. Ezért feltehető, a latin nyelv eredetileg is félig magyar szókincset használt. Később, amikor Itáliába érkeztek, ismét magyar környezetbe jutottak, az etruszkok körzetébe, ahonnan ismét hatalmas szókincset vehettek át. Vagy talán a latin nyelv nem átvette a magyar szókincset, hanem önmaga is egykor magyar nyelv volt, amely fejlődött, a magyar stádiumról a latin stádiumra.  
 > Mivel a latin nyelv belső szerkezete magyar jellegű, szókincse 92%-nál nagyobb arányban magyar eredetű, ezért azt kell mondani, a latin magyar eredetű nyelv. Akár vándorolt, akár helyben alakult ki, a szókincs világosan beszél.  
 
+<!--section: 3-->
 #### Götz László Keleten kél a Nap...
 
+<!--section: 3.1-->
 ...című könyvében írja:  
 > Hrozny "Die alteste Geschichte Vorderasiens" (1940) című könyvében kiemeli, hogy a [[H/Hettita#Hettita nyelv\|hettita nyelv]] a legtöbb hasonlóságot a latinnal mutatja fel. J. Friedrich pedig, az urartui és a hurri nyelv egyik legnevesebb szakértője, "Einführung ins Urartäische" című művében nyomatékosan rámutat az urartui-hurri és a latin között található számos feltűnő párhuzamra és ezeket egyenesen az etruszkok hurri-urartui származásával magyarázza.  
 
@@ -35,12 +40,16 @@ A görög igékhez hasonlóan, sokszor utólag képzettek, hozzákapcsolt jelent
 Többször feltűnt, hogy az ófrancia, katalán és albán nyelvben talált (hun/szabin/kelta-)latin szavak eredetibbnek tűnnek a latinoknál. Az ófrancia nyelv kelta-gall vázát illetve egyáltalán a kelta nyelv létjogosultságát a nyelvészet nem igazán ismeri el, mert (annak ellenére hogy [[K/Kelta\|kelta]] címnél szó volt a nyelv indo-germanizálásáról) ezzel olyan lavinát indítana el, mely a magyar, továbbá sumer rokonság elismerésével átírná az eddig elfogadott képet. (Az, hogy mit értünk kelta nyelv alatt is érdekes, mert egyes régi nézetek szerint a kimmér-walesi lehet az eredeti kelta, mely a brit nyelv vázát alkothatta.)  
 A latin szavakra visszavezetett újlatin, albán, kelta (mellyel kapcsolatosan tehát felmerült, hogy több esetben lehet ő az átadó, mintsem gondolnánk) szavakkal kapcsolatosan az az ember érzése, hogy régen ezeken a területeken nem ezen a nyelven beszélt a lakosság, hanem a vallás/politika határozta meg, hogy mely szavakat kell használni. Azaz gyakorlatilag Nyugat-Európában is az játszódott le, mint Közép- és Dél-Amerikában a spanyol nyelv behozatalával: a politikai helyzet megkívánta, hogy az új nyelvet használják, elsősorban az államigazgatási körökben. Magyarország területén is volt a latin hivatalos nyelv, az ország viszont ellenállt, és nem terjedt el.  
 
+<!--section: 4-->
 ## Latin és román nyelvek a magyar-eurázsiai ősnyelv pidzsinizációjából keletkeznek
 
+<!--section: 4.1-->
 Borbola János Az ember és a magyar című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében...
 
+<!--section: 5-->
 #### Kemény Ferenc Im Anfang war das Korn...
 
+<!--section: 5.1-->
 ...Körösi Csoma Sándor H. Gesellschaft, München, 1993. című német nyelvű könyvének 108. oldaláról idéz (illetve én csak a fordítást adom):  
 > Ezzel szemben biztosan úgy vélem, hogy a latin, a spanyol, a francia stb. csupán másodlagos nyelvek, melyek a magyar-eurázsiai ősnyelv *pidginizáció*jából származnak; így az alapszókincs eredetét mind a latin, mind az ún. román nyelvek esetében feltétlenül a magyarból kell származtatni.  
 
@@ -53,13 +62,17 @@ A pidginizáció kifejezéssel angol nyelvű írásban már találkoztam. Jó le
 [[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidzsinizáció\|Nyelvek keveredéséből létrejött nyelvek – pidzsinizáció]] cím/alcímnél más is szólt a pidzsin nyelvről és a pidzsinizáció jelenségéről.  
 Lásd még [[L/Latin nyelv#Latin szókincs pidzsin szókincsből való eredete\|latin szókincs pidzsin szókincsből való eredete]] alcímet alant.  
 
+<!--section: 6-->
 ## Latin birodalmi nyelv – egységesként kezelésének hibája
 
+<!--section: 6.1-->
 Ahogy [[I/Indogermán nyelvészet#Indogermán ősszavak időtlensége\|indogermán ősszavak időtlensége]] cím/alcímnél szóltunk róla, a nyelvészet azt akarja beállítani, hogy pl. egy francia nyelvű szó indoeurópai szó és az adott szónak proto-indoeurópai elődje ugyanaz, mint a németé, stb.  
 Azt elfelejtik kifejteni, hogy nem a római "birodalmi" latin természetes elterjedéséről van szó, hanem az egyházi latin volt nagy hatással a tudományokon keresztül minden nyelvre. Annak ellenére, hogy a katolicizmus révén ez Magyarországon is így volt, a magyar nyelv magyar nyelv maradt, de az az indoklás nem állná meg a helyét, hogy "mert itt a római latin nem alakult vulgáris latinná." Nyugaton a nyelveknek nem volt olyan egysége, ellenállási képessége, hiszen még az országaik is kb. 200 évvel ezelőtt kerültek egységesítésre. Tehát több okot kell vizsgálni.  
 
+<!--section: 7-->
 #### Götz László Keleten kél a Nap...
 
+<!--section: 7.1-->
 ...című könyvében írja:  
 > G. Solta "Gedanken zum Indogermanenproblem" (1952) című értekezésében írja, hogy az ősnyelv kikövetkeztetésénél főleg a latin és a román nyelvek viszonyát vetítették vissza az őskorba. A latin-román nyelvek viszonya azonban nem olyan egyszerű, mint azt a XIX. sz.-ban elképzelték. **Ma már nem fogadható el egy egységes vulgáris latin nyelv létezése, amelyből a román nyelvek kifejlődtek volna**. A latin már eredetileg mindenütt dialektusokra oszlott és csak a birodalmi közigazgatás, valamint az iskolák befolyása kelti bennünk az egységesség hamis képzetét.  
 
@@ -71,47 +84,64 @@ Másutt bővebben:
 
 Pulgram [[I/Indogermán nyelvészet#Homogén ős-indogermán alapnyelv kikövetkeztetett szavainak képtelensége\|homogén ős-indogermán alapnyelv kikövetkeztetett szavainak képtelensége]] cím/alcímnél szereplő passzusában is kitér a latin nyelvre.  
 
+<!--section: 8-->
 ### Nem-birodalmi szavak latinból való levezetésének képtelensége
 
+<!--section: 8.1-->
 [[E/Ember#Ember szavunk Íjas értelme az Ikrek jegyére vonatkoztatva\|Ember szavunk Íjas értelme az Ikrek jegyére vonatkoztatva]] cím/alcímnél a spanyol `hombre` és `hambre` szavak, valamint például [[S/Sombre\|sombre]] címnél is a spanyol és más szavak kapcsán is arra jutottunk, hogy amit a nyelvészet eredeztetés gyanánt kihoz, az nem életszerű.  
 A spanyol és portugál szívet jelentő, [[K/Karácsony\|Karácsony]] címnél taglalt szavak is tisztán láthatóan a latin birodalmi nyelvtől függetlenül jöttek létre.  
 A latin eredettel magyarázhatatlan, ezért kibúvóként [[H/Hangutánzó szavak\|hangutánzó]] eredettel megadott spanyol `pitar` = fütyül is jól mutatja, hogy a szavak mélyebb gyökerűek, és mind a [[F/FU\|FU]] gyökre mennek vissza.  
 
+<!--section: 9-->
 ### Vulgáris latin nyelvek
 
+<!--section: 9.1-->
 Friuli, romans (rétoromán), stb. Azt viszont jegyezzük meg, hogy a nyelveket szabályozni kellett, és lehet hogy nem csak egyszer.  
 
+<!--section: 10-->
 ## Latin mint a zsidó-kereszténység nyelve
 
+<!--section: 10.1-->
 A [[S/Sors\|sors]] és sor szavak eredete kapcsán (annak kapcsán, hogy miért ne lehetne magyar egy szó, amire latin eredetet mondanak) ötlött fel, hogy a latin nyelvet úgy akarják a magyar és más népek feje fölé emelni, mint ahogy az embertől elválasztott istent (ráadásul – mert ilyen "istennel" lehet csak megcsinálni – a zsidó törzsi istent/sátánt) fejünk fölé emelni. Holott valójában a latin magyar, az ember pedig isteni eredetű. A latin nyelv a zsidó-kereszténység nyelve, a magyar az (elő/fény)-kereszténységé.  
 Ezzel szemben a fentebb említett görög (és szláv, a magyaron kívül) a keleti orthodox kereszténység nyelve.  
 
+<!--section: 11-->
 ## Latin lexikai szavak képzése felülíró módszerrel
 
+<!--section: 11.1-->
 Az `instinct` szó francia változatának hallatán ötlött fel, hogyan történhetett az, hogy a magyar [[O/Ösztön\|ösztön]] szó már használatban volt az adott (már magyarnak nem hívható) nép nyelvében, majd jött a "lexikális rendőrség" és felülírta a saját (görögökre, rómaiakra jellemző) logikájával, mégpedig az [[I/IN\|in]]- beható fogalmát ötvözve bele. Az utótag tekintetében bármi (stinguere) megfelelt neki. Ki tudja hány ilyet követett el a latin nyelv: összefésülést, konflációt.  
 Angol szavak etimológiai vizsgálatában láttam hasonlót: már meglévő szót egy másik hasonló szó kissé átalakít, főként konflációval.  
 A latin lexikai szófelvétel kapcsán biztos hogy igazam van: egységes homogén ólatin nyelv nem létezett; menet közben rakódott össze, ahogy ma a feketék által beszélt és második nyelvként beszélt angol nyelvet beszélő alakítja a nyelvet, főleg Amerikában: az új Rómában.  
 
+<!--section: 12-->
 ## Latin szavak keleti, finnugor és türk párjai
 
+<!--section: 12.1-->
 [[F/Finnugor nyelvek\|Finnugor nyelvek]] címnél soroltunk néhány szót, azóta kiderült, hogy a latin [[A/Aquila\|aquila]] = sas megvolt\[?\] az oszmán-törökben is, ahol `aqilla` = sas szintén.  
 Több esetben a török szó a latinnal vagy olasszal azonos, pl. a [[C/Column\|column]] címnél említett török `kolon` = oszlop.  
 
+<!--section: 13-->
 ## Latin szókincs pidzsin szókincsből való eredete
 
+<!--section: 13.1-->
 [[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidzsinizáció\|Pidzsinizáció]]ról már esett szó fentebb is.  
 Lássunk egy példát:  
-A [[V/Végvári József\|Végvári József]] sem szól És mégsem mozog... című írásában [[M/Méh\|méh]] címnél említett latin `alveus` szó (víz)ágy (alap)jelentésű. Mintha `alvós` szavunk lenne ez, de legalábbis `alvás` szavunk ismert és ágyban alszunk.  
+A [[V/Végvári József\|Végvári József]] sem szól És mégsem mozog... című írásában [[M/Méh\|méh]] címnél említett latin `alveus` = (víz)ágy (alap)jelentésű. Mintha `alvós` szavunk lenne ez, de legalábbis `alvás` szavunk ismert és ágyban alszunk.  
 Akkor ennyi lenne az indoeurópai nyelvek szavainak létrejöttének receptje?  
 
+<!--section: 14-->
 ## Latin szavak sémi nyelvekből
 
-[[J/Judge\|Judge]] címnél kiderítettük, hogy a [[J/Júda\|Júda]] névből való lenne a római `iudex` bírónév. [[M/Migrate\|Migrate]] címnél is héber eredetet találtunk. [[K/Khamor\|Khamor]] címnél a váll akkád és latin megfelelőit hasonlítottuk össze.  
+<!--section: 14.1-->
+[[J/Judge\|Judge]] címnél kiderítettük, hogy a [[J/Júda\|Júda]] névből való lenne a római `iudex` bírónév. [[M/Migrate\|Migrate]] latin eredeténél is héber előeredetet találtunk. [[K/Khamor\|Khamor]] címnél a váll akkád és latin megfelelőit hasonlítottuk össze.  
 
+<!--section: 15-->
 ## A latin szókincs középkori és újkori rétegének visszavetítése és jelentések torzítása
 
+<!--section: 16-->
 ### Latin szavakhoz képest a kelta, albán, spanyol, ófrancia stb. eredetibbnek tűnik
 
+<!--section: 16.1-->
 Erről is volt szó több helyen. Példákat lehet majd ide gyűjteni. Például:  
 Az ófrancia `boivre` = inni a pohár szóhoz képest eredetibb, mint a latin `bibere`, amennyiben persze a [[B/BOR\|BOR]] szavunk széthúzásának megállapított [[P/Pohár\|pohár]] régebbi, mint a latin és ófrancia szavak.  
 
@@ -122,29 +152,40 @@ Legutóbb a hasonló [[P/Profit\|profit]], [[P/Prophet\|prophet]] és profess/[[
 
 Götz László Keleten kél a Nap című könyvének 127. oldalán is beszámol egy anomáliáról, amely az indogermanisztika és művelői káros hatására vezethető vissza.  
 
+<!--section: 17-->
 ### Magyar szavak latinbóli magyarázata
 
+<!--section: 18-->
 #### Pálfi Károly A magyar nemzet ősvallása...
 
+<!--section: 18.1-->
 ...című könyvében írja:
 > [[E/Esztergom\|Esztergom]] nevét különben Gombócz-Melich és a többi nyelvészek a Strigonium szóból származtatják. Mivel az ilyenfajta helynévmagyarázatban egy sajnálatos rendszer nyilvánul meg, azért erről néhány szóval meg kell emékeznem. Köztudomású tény, hogy a keresztyén korszak kezdetével Magyarországon a közhivatalok és a tudomány nyelve a latin lett. A latin nyelven író, többnyire német és tót paptisztviselők azután nemcsak latin nyelven írták az alapítóleveleket és egyéb okmányokat, hanem bennük a magyar helyneveket lehetőleg latinizálták is. A mai kor nyelvésze erre, mivel a magyar kultúra ősiségéről hallani nem akar, ezekkel a későbbi latin okmányokkal bizonyítgatja a magyar helynevek eredetét. A "Strigonium" tehát Esztergomból formáltatott és nem Esztergom a Strigoniumból. ([Lásd 38. old.](zotero://open-pdf/library/items/QVETUTRJ?page=38&annotation=5U4P7SSU))  { #mavos3}
 
 
+<!--section: 19-->
 ## Latin mint Magyarország hivatalos nyelve
 
+<!--section: 19.1-->
 Az előző alcím folytatása.  
 
+<!--section: 20-->
 #### Csihák György Gens Hun(gar)orum – magyar nemzet Hun? Szkíta? Avar? Finnugor? Magyar? – Mi vagyok én?...
 
-...című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXI./1. sz. megjelent cikkében írja:  
+<!--section: 20.1-->
+...című, a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXI./1. sz. megjelent cikkében írja:  
 > Nem győzöm csodálni I. Stephanos (későbbi nevén [[I/István\|István]]) királyunk államszervezői bölcsességét. Az ő parancsára szervezték a magyar királyi kamarát, ahol a királyi iratok készültek. Nyilvánvlóan, tekintettel az országban élő soknyelvű népre, István parancsára az iratokat az akkor már évszázadok óta halott nyelven, latinul írták. Ez lett államunk 'hivatalos nyelve' 1844-ig – Európában a Vatikán mellett a legtovább. Ki ismer Europában még egy ilyen 'demokratikus' rendszert az egész középkorban és újkorban? Törvényszerű következménye, hogy ezen idő alatt a latin szöveg az irányadó (és nem például a fordítás!). Ami iratot ezalatt az idő alatt a király nevében kiadtak és így is írták, azon, kivétel nélkül minden esetben a király 'Rex Hungarorum'.  
 
+<!--section: 21-->
 #### Csihák György Népnevekről...
 
+<!--section: 21.1-->
 ...című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXIX./1. sz. megjelent cikkében is hasonlóan írja korábban:  
 > Ugyancsak az ő – igen bölcs – parancsára a kamara nyelve, az akkor már régen kihalt latin nyelv lett. Így minden lényeges irat Magyarországon ettől kezdve latinul íródott 1844-ig, amikor ezt a szokást törvénnyel eltöröltük. A Corpus Juris Hungarici – a Magyar Törvénytár – így latinul íródott. Sztephanosz első dekrétumával kezdődik – aminek dátuma, a fentiek szerint – szintén ismeretlen, de úgy 1008-ra teszik. Ebben található történelmi alkotmányunk, s minden idetartozó dolog latinul értendő.  
 
+<!--section: 22-->
 ## Színek a latin nyelvben
 
+<!--section: 22.1-->
 A canus [Wiktionary oldaláról](https://en.wiktionary.org/wiki/canus) való adatsor (az eredeti színeket lásd világos módban):  
 ![assets/Latinnyelv_image1.jpeg|fix_dark fix_light|840](/img/user/L/assets/Latinnyelv_image1.jpeg)  
