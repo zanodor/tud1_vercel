@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Toldi Miklós/","title":"Toldi Miklós","tags":["containstransclusions"],"created":"2023-11-02T11:01","updated":"2026-06-22T17:52"}
+{"dg-publish":true,"permalink":"/T/Toldi Miklós/","title":"Toldi Miklós","tags":["containstransclusions"],"created":"2023-11-02T11:01","updated":"2026-06-26T23:01"}
 ---
 
 
