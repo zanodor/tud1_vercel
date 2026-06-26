@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Transzliteráció/","title":"Transzliteráció","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2026-03-31T18:28","updated":"2026-06-12T22:44"}
+{"dg-publish":true,"permalink":"/T/Transzliteráció/","title":"Transzliteráció","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2026-03-31T18:28","updated":"2026-06-26T22:58"}
 ---
 
 
