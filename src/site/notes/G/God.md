@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/God/","title":"God","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2026-03-23T23:27","updated":"2026-05-21T04:54"}
+{"dg-publish":true,"permalink":"/G/God/","title":"God","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2026-03-23T23:27","updated":"2026-06-26T22:58"}
 ---
 
 
@@ -66,7 +66,7 @@ Kezdjük ott, hogy nagyon kiterjedt a rokon alakú szavak csoportja, amelyek kö
 
 
 A [[C/Csuda\|csuda]] lehet a csillagos égre mutató, ahol egy Tejútistennő (akár [[T/Tejútanya állatalakjai\|állatalakja]]) mutatkozhat meg (vö. [[G/Göd\|Göd]]) és lehet szó a hasonló alakú [[Z/Zsidó\|zsidó]] név kapcsán is taglalt világos és sötét térfelek elválasztó pontjáról is, ahol még a kettő = egy (mely `egy` szavunkról lesz szó alant). (De öt = egy azonosságról is volt szó [[N/Négy#Négy és az ötödik irány\|másutt]].)  
-Az tény, hogy az iráni [[K/Khuda\|Khoda]] kapcsán rögtön a [[K/Kutya\|kutya]] jut eszünkbe, hiszen a kutya az ókori Iránban hatalmas tiszteletnek örvendett. A `tisztel` szinonímája a [[K/Kudos\|kudos]] helyen is előjövő [[H/Hódol\|hódol]], mely ismét ilyen H-D szóvázú.  
+Az tény, hogy az iráni [[K/Khuda\|Khoda]] kapcsán rögtön a [[K/Kutya\|kutya]] jut eszünkbe, hiszen a kutya az ókori Iránban hatalmas tiszteletnek örvendett. A `tisztel` szinonimája a [[K/Kudos\|kudos]] helyen is előjövő [[H/Hódol\|hódol]], mely ismét ilyen H-D szóvázú.  
 - Szintén ott előjött a perzsa `kudrat` = hatalom szó, melyben szintén megvan ez a \*kud- gyök/előtag.
 
 Tehát pusztán a magyar nyelvből okoskodva is féltucatra rúg majd azon szavak száma, amik megfelelnek.  
@@ -126,7 +126,7 @@ Nem volt tervben, hogy a germán istent jelentő szót közvetlenül vagy közve
 #### Magyar Adorján Ősműveltség...  
 
 ...című könyvében is lám, felkapta a témát és érvelése, mint oly sokszor, elfogadható:  
-> Ellenben ![God_image20260325003429938.jpeg|fix_dark fix_light right|200](/img/user/G/assets/God_image20260325003429938.jpeg)meg kell itt említenem a magyar `guta` szót, amely szintén a kún szócsoportba illik, habár benne ma a k hang helyett már lágyult g hang van. Miután azonban ma is azt mondjuk, hogy „megütötte a guta” és „gutaütéses”, meg „guta ütött ember”-ről beszélünk, és miután az olaszban és a németben „il colpo” és „der Schlag” bár szó szerint csak annyi mint „az ütés”, de ugyane szavak nevezik meg a gutát is, ennélfogva úgy képzelem, hogy a Guta, azaz eredetileg bizonyára **Kuta tulajdonképpen a kalapácsos kovácsságot és a kalapácsot magát is megszemélyesítő istenség egyik kún neve volt**.  
+> Ellenben ![God_image20260325003429938.jpeg|fix_dark fix_light right|200](/img/user/G/assets/God_image20260325003429938.jpeg)meg kell itt említenem a magyar `guta` szót, amely szintén a kún szócsoportba illik, habár benne ma a k hang helyett már lágyult g hang van. Miután azonban ma is azt mondjuk, hogy „megütötte a guta” és „gutaütéses”, meg „guta ütött ember”-ről beszélünk, és miután az olaszban és a németben „il colpo” és „der Schlag” bár szó szerint csak annyi mint „az ütés”, de ugyane szavak nevezik meg a gutát is, ennélfogva úgy képzelem, hogy a Guta, azaz eredetileg bizonyára **Kuta tulajdonképpen a kalapácsos kovácsságot és a kalapácsot magát is megszemélyesítő istenség egyik kún neve volt**.  
 > Tény, hogy a guta, vagyis a kuta szó közvetlen rokona `kő` vagy régiesen kú szavunkkal, de rokon ugyanígy az [[U/Üt\|üt]] szavunkkal is, valamint összefüggésbe hozható az ékkel is, csakhogy ezúttal a fekete-kunok kegyetlen ékével és tehát az ütő kalapáccsal.
 { #qxpc6u}
 
