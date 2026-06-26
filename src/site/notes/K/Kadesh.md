@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kadesh/","title":"Kadesh","tags":["Englishtexttranslated"],"created":"2023-11-03T02:51","updated":"2026-04-13T23:22"}
+{"dg-publish":true,"permalink":"/K/Kadesh/","title":"Kadesh","tags":["Englishtexttranslated"],"created":"2023-11-03T02:51","updated":"2026-06-26T23:01"}
 ---
 
 
@@ -14,11 +14,9 @@
 #### Thomas Inman Ancient Pagan and Modern Christian Symbolism...
 
 ...című könyvében írja ([[K/Kurva\|kurva]] címnél is szerepelt):  
-> In that I have shown, not only that religious fornication existed in ancient Babylon, but that there is reason to believe that it existed also in Palestine. The word `Kadesh`, which signifies "pure, bright, young, to be holy, or to be consecrated," is also the root from which are formed the words `Kadeshah` and `Kadeshim`, which are used in the Hebrew writings, and are translated in our authorised version "whore" and "sodomite."  
-> See Deut. xxiii. 17.  
+> ...in my larger work. In that I have shown, not only that religious fornication existed in ancient Babylon, but that there is reason to believe that it existed also in Palestine. The word `קדש`, Kadesh, which signifies “pure, bright, young, to be holy, or to be consecrated,” is also the root from which are formed the words Kadeshah and Kadeshim, which are used in the Hebrew writings, and are translated in our authorised version “whore” and “sodomite.” See Deut. xxiii. 17.  
 > —  
-> Ezzel nemcsak azt mutattam meg, hogy a vallási paráznaság létezett az ókori Babilonban, hanem azt is, hogy okunk van feltételezni, hogy Palesztinában is létezett. A `kadesh` szó, amely "tiszta, fényes, fiatal, szentnek lenni vagy megszenteltnek lenni" jelentésű, egyben az a gyök, amelyből a héber írásokban használt `kadeshah` és `kadeshim` szavak keletkeztek, és amelyet a mi hitelesített változatunk "kurva" és "szodomita" szóval fordít.  
-> Lásd Deut. xxiii. 17.  { #6urcjk}
+> ...a nagyobb munkámban. Abban kimutattam, nemcsak azt, hogy vallási paráznaság létezett az ősi Babilonban, hanem azt is, hogy okunk van feltételezni, Palesztinában is létezett. A `קדש` (`kadesh`) szó, melynek jelentése "tiszta, fényes, fiatal, szentnek lenni vagy felszenteltnek lenni", egyben az a gyök is, amelyből a `kadeshah` és `kadeshim` szavak képződtek, melyeket a héber írásokban használnak, és a mi hivatalos fordításunkban "paráznának" és "szodomitának" fordítanak. Lásd: 5Móz 23,17.  { #6urcjk}
 
 
 Pálfi Károly A magyar nemzet ősvallása című könyvében `kodes` alakban jön elő szent jelentéssel; vesd össze a hurri `kuta` = szent szóval.  
