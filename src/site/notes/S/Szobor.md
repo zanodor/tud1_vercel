@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szobor/","title":"Szobor","tags":["containstransclusions"],"created":"2025-03-24T13:05","updated":"2025-06-07T19:13"}
+{"dg-publish":true,"permalink":"/S/Szobor/","title":"Szobor","tags":["containstransclusions"],"created":"2025-03-24T13:05","updated":"2026-06-26T23:01"}
 ---
 
 
