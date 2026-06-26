@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-06-22T17:43"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-06-26T22:58"}
 ---
 
 
@@ -257,7 +257,11 @@ T>P mássalhangzó-változás ugyan szokatlan, de volt rá példa. Ezen az alapo
 Lehetséges az is, hogy [[P/Prove\|prove]]/próba eredetileg t-előhangos volt, mint a [[T/Travel\|travel]], mely kapcsán ismét a forgás került elő és gyökében ott a világfa [[T/Tree\|tree]]. Nem mellékesen a [[T/Try\|try]] is t-előhangos...  
 Érdekes, hogy az orosz `pravda` = igazság jelentésű szó p-előhangosként szintén egyező a [[T/Truth\|truth]] szóval.  
 
-K>P mássalhangzó-változásról írja Timaru-Kast Sándor:  
+K>P mássalhangzó-változásnak tekinthető-e a `köszméte` - `pöszméte` eset? Melyik volt előbb? (Amúgy mindkettő helyes.) Nyelvészeti vélekedés:
+> [!lasdmeg] &nbsp;
+> Alkalmasint a szlovák `kosmaty` (‘szőrős, bolyhos’) nőnemű `kosmata` alakjából való; ennek hangrendi átcsapással keletkezett egy köszmete, `köszméte` alakja, amely máig él sok nyelvjárásban; a köszméte forma talán a gyümölcs `piszke` nevének hatására jött létre.
+
+Erről írja Timaru-Kast Sándor:  
 > A "kelta" törvényszerű hangcserének megfelelően a P hang K-ra is válthat (> vö. magyar SIPÍT <> SIKÍT).  
 > A kelta nyelveken belül is észlelhető G>F és a K>P hangcsere (mindkét esetben egy íny- \[toroki) hang áttevődik az ajaki hangképző helyre).  
 - A görög nyelvben is szabályosnak magyarázzák: egy proto-indoeurópai (PIE) mássalhangzó, amely máshol K-szerűvé vált, a görögben P-szerű reflexet mutat. Ez a hangváltozás a proto-indoeurópai _labiovelárisok_ (ajakkal képzett velárisok) esetében következett be a görögben. Pl. szanszkrit `akṣi` = szem szó és más k-s párjaihoz képest a görög `ὤψ` (`ōpsz`) = szem; arc, látvány jelentésű szó eltérő alakú.
