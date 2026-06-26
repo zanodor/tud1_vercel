@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2026-06-22T17:43"}
+{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2026-06-26T22:58"}
 ---
 
 
@@ -205,9 +205,9 @@ Ezen furcsa kifejezést ...
 <!--section: 14-->
 ## Tűz szavunk idegen nyelvekben
 
+<!--section: 14.1-->
 Egyes esetekben nem egyértelmű, hogy a mi szavunk a kiinduló, mert teljesen eltorzult és aztán önálló életet kezdő alakokról van szó, ahogy lentebb látni fogjuk.  
 
-<!--section: 14.1-->
 A proto-indoeurópai füst és más jelentésű [dʰewh₂-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/dʰewh₂-) gyök éppen mi szavunkat fedi.
 { #260521}
 
@@ -270,13 +270,14 @@ Tűz szavunkat látszik rejteni a Robert Brown Jr. Primitive Constellations of t
 A türk nyelvek só jelentésű szavai nyilván nem véletlen `duz`, `tuz` alakúak.  
 Ami azért érdekes, mert a [[S/Sweet\|sweet]] – [[S/Süt\|süt]] analógiájára megtalált, [[D/Dulcet\|dulcet]] címnél is említett portugál `doce` = édes tűz szavunkból kell eredjen (a latin `dulcis` szóban [[L/L#L vendéghang\|l vendéghang]] van).  
 
+
 <!--section: 16-->
+### Torzult alakok: takhsha és hasonló formák
 
-### Torzult alakok: takhsha, Tages
-
+<!--section: 17-->
 #### Takhsha
 
-<!--section: 16.1-->
+<!--section: 17.1-->
 Felmerül itt egy másik érdekesség is. Nevezetesen a latin `taxus` = tiszafa görög `toxon` = íj, perzsa `تخش` (`taxš`) = íj(fajta), nyíl(fajta), tüzes nyíl és megállapított szkíta \*takhsha = íj kapcsolata.  
 > [!lasdmeg] &nbsp;
 > Amikor a [[T/Texas\|Texas]] név eredete kapcsán megláttam a spanyol `tejo` = tiszafa szót, rögtön a Tejútra gondoltam, hiszen a Tejút faként is ismert.  
@@ -286,18 +287,53 @@ Felmerül itt egy másik érdekesség is. Nevezetesen a latin `taxus` = tiszafa 
 
 Természetesen a `tisza` megint a `tűz` változata, azaz hogy most a tisza vagy tűz a kiinduló, nyilván utóbbi szavunk hamarabb létezett és a perzsa szó jelentésein keresztül egyértelmű, hogy `tűz` szavunk a kiinduló.  
 
+> [!example] &nbsp;
+> A perzsa szó egyik jelentései közt talált tűz ébreszt rá minket, hogy itt egy `tűz` szóból való kiindulásnak valós alapja lehet.  
+
+Az elmélet szerint a `tűz` szó a diftongizáció konszonantizációs (mássalhangzósodásba torkolló) és velarizációs folyamatán keresztül (\*teuz → \*tevz → \*tahz → taks/takhsha) jutunk el a "szkíta" eredetű szavakig. (Az indoeurópai és iráni nyelvek kutatásában ezt a hatást a laringális elmélet írja le: a magánhangzók mellett megjelenő, majd megkeményedő torokhangokat.)
+{ #260530}
+
+
+<!--section: 18-->
 #### Tages
 
+<!--section: 18.1-->
+A fentiek alapján az etruszkok [[T/Tages\|Tages]]ének neve is akkor esélyes arra, hogy hasonló utat járjon be fonetikai torzulását tekintve.  
+Lásd folytatást alant.  
 
+<!--section: 19-->
+#### Tákṣan
+
+<!--section: 19.1-->
+Ugyanakkor, Tages megint csak olyan alakú név, mint a szanszkrit `तक्ष॑न्` (`tákṣan`) = ács, istenek ácsa szó, mely szó a fentebb szkítaként megállapított szó egészen hasonló párja.  
+> [!lasdmeg] &nbsp;
+> A közös kapocs az lehetett volna, hogy [[T/TAK\|TAK]]/[[D/DAK\|DAK]] mindketten tetővel, heggyel kapcsolatos alapszavak és Tages is a földből emelkedik ki.
+> 
+>> [!lasdmeg] &nbsp;
+>> A tűzzel kapcsolatos összefüggés pedig az, hogy egyrészt a tűz alkímiai jele a háromszög és a [[T/Tág\|tágul]] és [[D/Dagad\|dagad]] szavak is arra mutatnak, hogy hő hatására a testek tágulnak.
+
+Igen ám, de az etruszk Tages már nem etruszk, hanem rávetült egy másik korábbi alakra? Így van, ez már egy latinos írásmód. Kérdés, miből jön létre a Tages? **Tarchies**-ből aligha; ez amúgy inkább a [[T/Tarquinius\|Tarquinius]]ok nevére mutat.  
+
+<!--section: 20-->
 #### Takács
 
-Hogy a [[T/Takács\|takács]] ebben az esetben jogosan hasonlítható lehet a Tages példához, ennek ellentmond több -ács és -ász végződésű szavunk, de azért jegyezzük meg annak okán, hogy a teoretikusnak mondható [[T/TAK\|TAK]] és [[T/TAG\|TAG]] etimonok igen is, kialakulhattak egy tűz alakú szóból, hogy aztán hímségi tevékenységek vagy akár napnevek alkotódjanak ki belőlük. Nem lehet kizárni és amúgy is, ismerkedni kell a nyelvvel és a lehetőségekkel.  
+<!--section: 20.1-->
+Hogy a [[T/Takács\|takács]] ebben az esetben jogosan hasonlítható lehet a fentebbi példákhoz, ennek ellentmond több -ács és -ász végződésű szavunk, de azért jegyezzük meg annak okán, hogy a teoretikusnak mondható [[T/TAK\|TAK]] és [[T/TAG\|TAG]] etimonok igen is, kialakulhattak egy tűz alakú, ma is ismert szóból, hogy aztán hímségi tevékenységek vagy akár napnevek alkotódjanak ki belőlük. Nem lehet kizárni és amúgy is, ismerkedni kell a nyelvvel és a lehetőségekkel.
+{ #gkkyaf}
 
 
-<!--section: 17-->
+A szanszkrit `tákṣan`-t elnézve nehéz eldönteni, hogy takács nevünk őseredeti, vagy szkíta kor utáni. Inkább utóbbiról lehet szó.  
+
+<!--section: 21-->
+#### Tegez
+
+<!--section: 21.1-->
+Az viszont – [[T/TOK\|tok]] szavunk megléte alapján – kétséges, hogy [[T/Tegez\|tegez]] szavunk is ilyen módon jött volna létre...  
+
+<!--section: 22-->
 ## Tűz jelentésű idegen szavak
 
-<!--section: 17.1-->
+<!--section: 22.1-->
 A tűz jelentésű idegen nyelvű szavak közül az alábbi [[S/Szkíta\|szkíta]] és [[K/Kutya\|kutya]] címnél is szerepelt:  
 Megdöbbentő, de a kanadai bennszülött [[C/Cree\|cree]] indiánok [[A/Algonquian\|algonkin]] nyelvében `ishkuteu` = tűz[^3], mely Isz-Kutya, azaz mondhatni, szkíta értelmet visel. Mellékelve lásd írásukat.  
 ![assets/Tűz_image2.png|fix_dark fix_light|222](/img/user/T/assets/T%C5%B1z_image2.png)  
@@ -312,7 +348,7 @@ Az albán `zjarr` vélhetően [[S/Szár\|szár]] = fény(es), ragyogó szavunk. 
 A navajo indiánok nyelvében `kq` vagy `ku` a tűz (másutt, a proto-uto-azték `kut` szót láttuk), mely [[K/KU\|KU]] alap jelentésével passzol.  
 A macedón `ógan`, orosz `ogón` = tűz Óg-An felbontásban a Menny Szeme/Csillaga/Éke jelentésű, vagy inkább az ind és bengáli nyelvek `agni`, `ôgni`, `agun` = tűz jelentésű szavainak változata.  
 
-<!--section: 18-->
+<!--section: 23-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
