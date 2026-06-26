@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ashmog/","title":"Ashmog","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-23T02:53","updated":"2026-06-05T20:53"}
+{"dg-publish":true,"permalink":"/A/Ashmog/","title":"Ashmog","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-23T02:53","updated":"2026-06-26T23:01"}
 ---
 
 
@@ -44,7 +44,7 @@ Arról, hogy ki a hazugok, Robert Graves írja a megvádolt krétaiak kapcsán i
 > The early Welsh and Irish historians are also generally regarded as liars because their ancient records are dated to uncomfortably early times and do not square either with conventional Biblical dates or with the obstinate theory that until Roman times the inhabitants of all the British Isles were howling savages who had no native art or literature at all and painted themselves blue.  
 > —  
 > Szent Pál egy görög közmondást idézett: "Minden krétai hazug". Ugyanazért nevezték őket hazugnak, amiért a költőket is: mert másképp látták a dolgokat. Különösen azért, mert nem hatotta meg őket az olümposzi propaganda, amely az előző mintegy ezer évben ragaszkodott az örökkévaló, mindenható, igazságos Zeusz atyához, aki villámcsapásával elsöpörte az összes gonosz régi istent, és örökre felállította fényes trónját az Olümposz hegyén. Az igaz krétaiak azt mondták: "Zeusz halott. Sírja az egyik hegyünkön látható". Ezt nem keserűséggel mondták. Mindössze arra gondoltak, hogy évszázadokkal azelőtt, hogy Zeusz Örökkévaló Mindenható Istenné vált Görögországban, egyszerű, régimódi Napkirály volt, akinek évente áldozatot mutattak be, a Nagy Istennő szolgája, és maradványait szokás szerint a Juktasz-hegyen lévő sírba temették.  
-> Nem voltak hazugok. A minószi Krétán nem létezett Atyaisten, és a beszámolójuk egybevág az ugyanazon a hegyen nemrégiben talált régészeti leletekkel. A lerosi pelaszgiaiaknak nagyjából ugyanolyan hírük volt, mint a krétaiaknak, de úgy tűnik, hogy a görög epigrammából ítélve még makacsabbul ragaszkodtak az ősi hagyományhoz: "A leriánusok mind rosszak, nem csupán néhány leriánus, hanem mindegyikük - kivéve Procles-t, aki természetesen szintén leriánus".  
+> Nem voltak hazugok. A minószi Krétán nem létezett Atyaisten, és a beszámolójuk egybevág az ugyanazon a hegyen nemrégiben talált régészeti leletekkel. A lerosi pelaszgiaiaknak nagyjából ugyanolyan hírük volt, mint a krétaiaknak, de úgy tűnik, hogy a görög epigrammából ítélve még makacsabbul ragaszkodtak az ősi hagyományhoz: "A leriánusok mind rosszak, nem csupán néhány leriánus, hanem mindegyikük – kivéve Procles-t, aki természetesen szintén leriánus".  
 > A korai walesi és ír történetírókat is általában hazugnak tartják, mert az ősi feljegyzéseik kényelmetlenül korai időkre datálódnak, és nem illeszkednek sem a hagyományos bibliai dátumokhoz, sem ahhoz a makacs elmélethez, hogy a római időkig az egész Brit-szigetek lakói üvöltő vademberek voltak, akiknek egyáltalán nem volt anyanyelvi művészetük vagy irodalmuk, és kékre festették magukat.  
 
 
