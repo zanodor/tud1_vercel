@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ábrahám/","title":"Ábrahám","created":"2023-10-21T04:40","updated":"2026-04-13T23:22"}
+{"dg-publish":true,"permalink":"/A/Ábrahám/","title":"Ábrahám","created":"2023-10-21T04:40","updated":"2026-06-26T22:59"}
 ---
 
 
@@ -62,7 +62,7 @@ Az [ezen](https://www.youtube.com/watch?v=dLu3KW4s8C0) Három magyar szentkép c
 ![Ábrahám_image20260410190320636.jpeg](/img/user/A/assets/%C3%81brah%C3%A1m_image20260410190320636.jpeg){ #vhbr0g}
 
 
-Práczki István Szittya Biblia című könyvének 119-120. oldalán is ezt látja meg és amikor a tőle megszokott [[S/Szómegfordítás#Van-e létjogosultsága?\|szómegfordítás]]sal él, jogosnak tűnik, de mi van akkor ha az egész csak véletlenül stimmel?  
+Práczki István Szittya Biblia című könyvének 119-120. oldalán is ezt látja meg, és amikor a tőle megszokott [[S/Szómegfordítás#Van-e létjogosultsága?\|szómegfordítás]]sal él, jogosnak tűnik, de mi van akkor ha az egész csak véletlenül stimmel?  
 
 ## Ábrámból Ábrahám
 
@@ -88,6 +88,7 @@ Gyárfás Ágnes Tellói pecsét című az Ősi Gyökér 2013/1-2. sz. megjelent
 
 ## Ábrahám Brahma nevével hasonlítása
 
-Pap Gábor egy beszélgetésben, ahol a hinduizmuson keresztül követett **ősvallás hármasságá**ról (teremtő erő, fenntartó erő, pusztító-újjáteremtő erő) volt szó, úgy értelmezi az ószövetségi történetet, hogy a teremtőerőt kivonásra kerül, majd [17:51](https://www.youtube.com/watch?v=2jC8zXw4Q7U&t=1071)-nél Ábrahám nevét Brahma nevéből értelmezi és a-t mint fosztóképzőt mutatja be.{ #1mduty}
+Pap Gábor egy beszélgetésben, ahol a hinduizmuson keresztül követett **ősvallás hármasságá**ról (teremtő erő, fenntartó erő, pusztító-újjáteremtő erő) volt szó, úgy értelmezi az ószövetségi történetet, hogy a teremtőerőt kivonásra kerül, majd [17:51](https://www.youtube.com/watch?v=2jC8zXw4Q7U&t=1071)-nél Ábrahám nevét Brahma nevéből értelmezi és a-t mint fosztóképzőt mutatja be.
+{ #1mduty}
 
 
