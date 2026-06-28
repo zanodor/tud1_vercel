@@ -1,3 +1,13 @@
+/* Fix from: https://chatgpt.com/c/6a341ded-ee38-83eb-a9d7-88a55b997d9d */
+/* Fix(2) from Google AI Mode chat using info from https://www.reddit.com/r/ObsidianMD/comments/v31f5u/css_margin_question/ */
+/* and https://forum.obsidian.md/t/i-want-to-reduce-the-callout-text-padding/101331/12 */
+
+/* Fix from: https://chatgpt.com/c/6a341ded-ee38-83eb-a9d7-88a55b997d9d */
+/* Fix(2) from Google AI Mode chat using info from https://www.reddit.com/r/ObsidianMD/comments/v31f5u/css_margin_question/ */
+/* and https://forum.obsidian.md/t/i-want-to-reduce-the-callout-text-padding/101331/12 */
+
+/* More fixes from AI IDEs, then for list items, https://chatgpt.com/c/6a410742-7628-83eb-a0c3-712185b05601 */
+
 .callout[data-callout*=lasdmeg] {
     --callout-icon: lightbulb;
     --callout-color: inherit;
@@ -26,6 +36,7 @@
 
 /* LEVEL 1: only the direct content of lasdmeg = 100% */
 .callout[data-callout*=lasdmeg] > .callout-content p,
+.callout[data-callout*=lasdmeg] > .callout-content li,
 .callout[data-callout*=lasdmeg] > .callout-content .cm-line {
     margin-top: 0 !important;
     margin-bottom: 0 !important;
@@ -34,18 +45,21 @@
 
 /* LEVEL 2 */
 .callout[data-callout*=lasdmeg] > .callout-content > .callout p,
+.callout[data-callout*=lasdmeg] > .callout-content > .callout li,
 .callout[data-callout*=lasdmeg] > .callout-content > .callout .cm-line {
     font-size: 90% !important;
 }
 
 /* LEVEL 3 */
 .callout[data-callout*=lasdmeg] > .callout-content > .callout .callout p,
+.callout[data-callout*=lasdmeg] > .callout-content > .callout .callout li,
 .callout[data-callout*=lasdmeg] > .callout-content > .callout .callout .cm-line {
     font-size: 81% !important;
 }
 
 /* LEVEL 4 */
 .callout[data-callout*=lasdmeg] > .callout-content > .callout .callout .callout p,
+.callout[data-callout*=lasdmeg] > .callout-content > .callout .callout .callout li,
 .callout[data-callout*=lasdmeg] > .callout-content > .callout .callout .callout .cm-line {
     font-size: 72% !important;
 }
