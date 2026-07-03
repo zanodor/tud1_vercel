@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-06-27T00:59"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-07-03T23:09"}
 ---
 
 
@@ -23,6 +23,11 @@
 
 **2026:**
 
+<small>[260703CN! EGÁN EDE](https://rumble.com/v7c7bww-260703cn-egn-ede-kubnyi-tams-ktv.html)  [https://share.note.sx/orto4n46](https://share.note.sx/orto4n46) [https://archive.ph/XFc6w](https://archive.ph/XFc6w)</small>
+<small>[260702CN! PÁRBESZÉD](https://rumble.com/v7c5pk4-260702cn-prbeszd-kubnyi-tams-ktv.html)  [https://share.note.sx/d2yxew3f](https://share.note.sx/d2yxew3f) [https://archive.ph/vsRva](https://archive.ph/vsRva)</small>
+<small>[260701CN! HABSBURGOK SZÁRMAZÁSA](https://rumble.com/v7c3s1m-260701cn-Habsburgok-szrmazsa-kubnyi-tams-ktv.html)  [https://share.note.sx/mcrv94be](https://share.note.sx/mcrv94be) [https://archive.ph/JZuBt](https://archive.ph/JZuBt)</small>
+<small>[260630CN! HOSSZÚ KÉSEK](https://rumble.com/v7c25gg-260630cn-hossz-ksek-kubnyi-tams-ktv.html)  [https://share.note.sx/e2i7muku](https://share.note.sx/e2i7muku) [https://archive.ph/p4wRN](https://archive.ph/p4wRN)</small>
+<small>[260629CN! MŰMAGYAR](https://rumble.com/v7c0cl2-260629cn-mmagyar-kubnyi-tams-ktv.html)  [https://share.note.sx/42o05b1u](https://share.note.sx/42o05b1u) [https://archive.ph/PAYvG](https://archive.ph/PAYvG)</small>
 <small>[260626CN! MAGYAR AUCHAN](https://rumble.com/v7bvcai-260626cn-magyar-auchan-kubnyi-tams-ktv.html)  [https://share.note.sx/qm78lxls](https://share.note.sx/qm78lxls) [https://archive.ph/e7nD2](https://archive.ph/e7nD2)</small>
 <small>[260625CN! NAZBOL](https://rumble.com/v7btox0-260625cn-nazbol-kubnyi-tams-ktv.html)  [https://share.note.sx/g93xpei4](https://share.note.sx/g93xpei4) [https://archive.ph/8yfKc](https://archive.ph/8yfKc)</small>
 <small>[260624CN! WASS ALBERT ELŐADÁS](https://rumble.com/v7brrgg-260624cn-wass-albert-elads-kubnyi-tams-ktv.html)  [https://share.note.sx/8uygamm9](https://share.note.sx/8uygamm9) [https://archive.ph/VkuGu](https://archive.ph/VkuGu)</small>
