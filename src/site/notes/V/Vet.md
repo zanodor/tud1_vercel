@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vet/","title":"Vet","tags":["containstransclusions"],"created":"2025-04-30T17:28","updated":"2026-06-22T17:48"}
+{"dg-publish":true,"permalink":"/V/Vet/","title":"Vet","tags":["containstransclusions","containscallouts"],"created":"2025-04-30T17:28","updated":"2026-07-03T23:13"}
 ---
 
 
