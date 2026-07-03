@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:32","updated":"2026-05-29T22:42"}
+{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:32","updated":"2026-07-03T23:11"}
 ---
 
 
@@ -60,7 +60,7 @@ Az angol [[S/Same\|same]] = ugyanaz jelentése az önazonosítás folytán ilyen
 Same itt nyilván szem(ély azonosító): éppúgy, ahogy a sumér-akkád nyelvben [[S/Samas\|Samash]] (szemes) a Nap neve volt (Szumer pedig Szem-Úr népe). De az orosz eredetű [[S/Samovar\|samovar]] szó előtagja is önmaga jelentésű.  
 [[I/Identity\|Identity]] szóban Isten [[I/ID\|ID]] illetve [[E/Egy\|egy]] (vesd össze latin `idem`) neve vagy a Nap [[U/UD\|UD]] neve szerepel, ahogy a görög [[A/Auto\|auto]] szóban is a Nap jelentésű [[U/UTU\|UTU]] etimon.  
 
-Egy másik fontos dolog: a [[L/LU\|LU]] alapszóról tudjuk (hogy a sumérben embert jelent; honnan [[L/Lugal\|Lugal]] = Nagy Ember), hogy alapjelentése fény (maga a LU piktogram is erről árulkodik). Ebből is jól látszik, hogy az ember a fénnyel azonosította magát, de még tovább is mehetünk és sumér szót is említő, [[L/Lay#Az emberek lelkei a Tejútról származnak\|az emberek lelkei a Tejútról származnak]] cím/alcímnél megállapítottuk, hogy még kelta-germán is látható hasonló analógia: Tejút > nép, emberek.
+Egy másik fontos dolog: a [[L/LU\|LU]] alapszóról tudjuk – amellett, hogy a sumérben embert jelent; honnan [[L/Lugal\|Lugal]] = Nagy Ember –, hogy alapjelentése fény (maga a LU piktogram is erről árulkodik). Add hozzá, hogy az arab `lulu` = gyöngy szó (ahol a gyöngy a [[K/Kagyló\|Kad-Lu]], a ház fénye, a lélek) sem véletlenül ilyen alakú, vagy hogy a szintén reduplikált, [ezen](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%81lewd%CA%B0-) Wiktionary oldalon bemutatott iráni talis nyelvű `lolo` = emberek jelentésű. Mindebből jól látszik, hogy az ember a fénnyel azonosította magát, de még tovább is mehetünk és sumér szót is említő, [[L/Lay#Az emberek lelkei a Tejútról származnak\|az emberek lelkei a Tejútról származnak]] cím/alcímnél megállapítottuk, hogy még a kelta-germánban is látható hasonló analógia: Tejút > nép, emberek.
 { #260512}
 
 
