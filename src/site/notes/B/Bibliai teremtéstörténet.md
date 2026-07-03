@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bibliai teremtéstörténet/","title":"Bibliai teremtéstörténet","tags":["Englishtexttranslated"],"created":"2026-06-24T17:41","updated":"2026-06-26T22:59"}
+{"dg-publish":true,"permalink":"/B/Bibliai teremtéstörténet/","title":"Bibliai teremtéstörténet","tags":["Englishtexttranslated","containscallouts"],"created":"2026-06-24T17:41","updated":"2026-07-03T23:12"}
 ---
 
 
