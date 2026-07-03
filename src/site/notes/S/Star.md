@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Star/","title":"Star","tags":["containstransclusions"],"created":"2025-04-27T10:18","updated":"2025-06-04T21:14"}
+{"dg-publish":true,"permalink":"/S/Star/","title":"Star","tags":["containstransclusions"],"created":"2025-04-27T10:18","updated":"2026-07-03T23:14"}
 ---
 
 
@@ -40,7 +40,19 @@ Mindenütt azzal találkozunk, hogy a [[V/Vénusz\|Vénusz]] egyik másik neve C
 > A Csillag így, tulajdonnévként a [[V/Vénusz\|Vénusz]] bolygó népi magyar neve, és minden nyugat-európai nyelv "csillag" szava (német `Stern`, angol `star`, francia `étoile`, spanyol `estrella`, olasz `stella`, `astro`) a mezopotámiai Vénusz nevéből, Istárból ered, s csak később vált az éjszakai ég hunyorgó fénypontocskáinak gyűjtőnevévé. A mi csillag szavunk ugyanezt a pályát futotta be. (A héber [[E/Eszter\|Eszter]] nevet kétféleképpen eredeztetik. Egyesek szerint mirtuszt, mások szerint csillagot jelent. Mindegy, mindkettő Venushoz, Istárhoz vezet. A mirtusznak egyébként is csillag alakú virága van.)  
 - Hiszen a Hamlet Malmai írói (Santillana és Dechend) is megírták, hogy Vénusz és Szíriusz osztozik az Istár néven. Lásd még [[T/TER\|TER]] címet arról, hogy a Tejútfolyam maga is lehet csillagfolyam, és ennek kivételes csillaga a mellette lévő Szíriusz.
 
-Akár a fentebb említett [[T/Tarka\|tarka]] tar eleméből is lehet képzett star, elhagyva a -ka végződést. Lehet a magyar nyelvben sok szót kitevő [[E/Eszter\|Eszter]] az alapja. Lásd még legutóbb [[O/Ostor\|ostor]] címnél írottakat is ([[O/Ösztörű\|ösztörű]] és `sztaurósz` szavak kapcsán is).  
+Akár a fentebb említett `tarka` tar- eleméből is lehet képzett star, elhagyva a -ka végződést. Lehet a magyar nyelvben sok szót kitevő [[E/Eszter\|Eszter]] az alapja. Lásd még legutóbb [[O/Ostor\|ostor]] címnél írottakat is ([[O/Ösztörű\|ösztörű]] és `sztaurósz` szavak kapcsán is).  
+
+## Hivatalos levezetése
+
+Egy [h₂stḗr](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%82st%E1%B8%97r) proto-indoeurópai gyökre vinnék vissza, minthogy az indoeurópainak megállapított [[H/Hettita#Hettita nyelv\|hettita nyelvű]] `𒄩𒀸𒋼𒅕𒍝` (`ḫasterza`, `ħəster(t)s`) = csillag (lásd [itt](https://en.wiktionary.org/wiki/%F0%92%84%A9%F0%92%80%B8%F0%92%8B%BC%F0%92%85%95%F0%92%8D%9D)) tartalmazza a szó eleji h-t és másutt s-mobile-os az, ami a szanszkrit nyelvben `तारा॑` (`tā́rā`) = csillag, ami visszavezet oda, hogy [[T/TAR\|tar]], [[T/TÁR\|tár]], és d-előhangos változatai (lásd felhangos [[D/DÉR\|dér]]) már tartalmazták ezt a jelentést. Lásd folytatást alant.  
+
+## TAR, TÁR
+
+Ez a TAR, TÁR etimon pedig nemcsak a `tarka` gyökeleme, hanem egyúttal a [[T/Tör\|tör]] ige párja: a már a nevével is megfelelő alakú [[S/Szíriusz\|Szíriusz]] (lásd még róla [[T/Therio-\|therio-]]) az, ami ketté töri az évet világos és [[S/Sötét oldal\|sötét félév]]re.  
+
+### Tar = Pár
+
+A `tár` pedig a [[T/Társ\|társ]] alkotója is, mely nem török-orosz eredetű a magyar nyelvben, ahogy a [[P/Pár\|pár]] sem idegen eredetű, mert a két szó együtt jól mutat rá, hogy az [[I/Ikrek csillagkép\|Ikrek]] = egy pár és ott van a Kutyacsillag is, amely félévelválasztó szerepű.  
 
 ## Süt-Úr, Söt-Úr alternatív értelmezése
 
