@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2024-05-14T11:45","updated":"2026-06-22T17:46"}
+{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2024-05-14T11:45","updated":"2026-07-03T23:12"}
 ---
 
 
@@ -30,7 +30,7 @@ A Wiki oldalon szereplő mondat...
 #### Götz László Keleten kél a Nap...
 
 ...című könyvében az [[I/Indogermán nyelvészet\|indogermán nyelvészet]] képviselői és dogmaterjesztői által való elzárkózás bemutatása után írja:  
-> A. Trombetti kísérelte meg először modem nyelvészeti módszerekkel a különböző nyelvcsaládok széleskörű összehasonlítását. Úttörő lévén azonban e területen, meglehetősen túllőtt a célon. Műveiben számos helytelen, megalapozatlan szólevezetést találunk. Másrészt ő sem tudott megszabadulni a megszokott dogmáktól és különféle hangtörvényeket kísérelt meg felállítani az egyes nyelvcsaládok között. Így munkássága maradandó eredményt nem tudott elérni. Kétségtelen érdeme azonban, hogy nyomatékosan rámutatott a nyelvcsaládok egymás közötti összefüggéseire és ezáltal a jövendő kutatás számára kijelölte az irányt.  
+> A. Trombetti kísérelte meg először modern nyelvészeti módszerekkel a különböző nyelvcsaládok széleskörű összehasonlítását. Úttörő lévén azonban e területen, meglehetősen túllőtt a célon. Műveiben számos helytelen, megalapozatlan szólevezetést találunk. Másrészt ő sem tudott megszabadulni a megszokott dogmáktól és különféle hangtörvényeket kísérelt meg felállítani az egyes nyelvcsaládok között. Így munkássága maradandó eredményt nem tudott elérni. Kétségtelen érdeme azonban, hogy nyomatékosan rámutatott a nyelvcsaládok egymás közötti összefüggéseire és ezáltal a jövendő kutatás számára kijelölte az irányt.  
 > ...  
 > H. Schuchardt, Paasonen, Setala, Thomsen és Jacobsen vizsgálatai azonban időközben nyilvánvalóvá tették, hogy az indogermán, a hamito-szemita, a dél-kaukázusi és a finnugor nyelvcsaládok között szorosabb összefüggések mutathatók ki.  
 
