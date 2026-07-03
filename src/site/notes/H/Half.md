@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Half/","title":"Half","tags":["Englishtexttranslated"],"created":"2025-04-09T15:37","updated":"2026-05-21T05:05"}
+{"dg-publish":true,"permalink":"/H/Half/","title":"Half","tags":["Englishtexttranslated"],"created":"2025-04-09T15:37","updated":"2026-07-03T23:14"}
 ---
 
 
@@ -29,6 +29,7 @@ Igazság szerint még az is lehetséges, hogy itt egy ige lesz a kiinduló.
 A kiindulónak tekinthető angol `halve` = felez ige első formájának eredete egy vágni jelentésű másik ige lehet, mégpedig a [[K/Kalb\|kalb]] címnél is említett, [ezen](https://hu.wiktionary.org/wiki/%D7%97%D7%9C%D7%A3) Wiktionary oldalon is talált héber `halaf` = kés (Götz László Keleten kél a Nap című könyvének [[H/Hieroglyph\|hieroglyph]] címnél szereplő írásmódja szerint `chalip` = kés; a jiddisben egyébiránt `halef` = kés) szóval párba állítható igék akármelyike: görög `kolapto` (üt) – `kalap` (fejsze, üt); `glypho` (bevág), héber `galab` (vág).  
 Az árja s-mobile-os variációk közül pedig lásd a latin `sculpo` = vés igéjét, valamint [[S/Scalpel\|scalpel]] és [[S/Scalp\|scalp]]; s-előtét nélkül pedig [[C/Club\|club]], valamint az azon címnél Magyar Adorján által hozott szavakat.
 { #84680e}
+
 
 ```plantuml-svg
 @startuml
