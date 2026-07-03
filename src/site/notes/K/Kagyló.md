@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kagyló/","title":"Kagyló","tags":["containscallouts"],"created":"2026-02-09T17:01","updated":"2026-03-09T22:09"}
+{"dg-publish":true,"permalink":"/K/Kagyló/","title":"Kagyló","tags":["containscallouts"],"created":"2026-02-09T17:01","updated":"2026-07-03T23:13"}
 ---
 
 
