@@ -3,22 +3,6 @@
 /* Base fix for all images */
 img {
     vertical-align: middle !important;
-    transform: none !important;
-    line-height: 1 !important;
-    display: inline-block !important;
-    margin: 0 !important;
-    padding: 0 !important;
-}
-
-/* Specific fix for embedded images */
-.markdown-rendered .internal-embed.image-embed img,
-.image-embed img,
-.internal-embed.image-embed img,
-.markdown-preview-view .internal-embed.image-embed img {
-    vertical-align: middle !important;
-    transform: none !important;
-    line-height: 1 !important;
-    display: inline-block !important;
-    margin: 0 !important;
-    padding: 0 !important;
+    margin: 0;
+    padding: 0;
 }
