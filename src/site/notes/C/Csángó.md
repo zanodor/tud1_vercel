@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csángó/","title":"Csángó","created":"2025-03-25T22:48","updated":"2025-07-12T00:30"}
+{"dg-publish":true,"permalink":"/C/Csángó/","title":"Csángó","created":"2025-03-25T22:48","updated":"2026-07-03T23:13"}
 ---
 
 
+<!--section: 1-->
 # Csángó
 
+<!--section: 2-->
 #### Péterfai János írja:
 
+<!--section: 2.1-->
 > A csangu nép legalább Kr.e. 5.000, de inkább 10.000 év óta kimutatható Moldvában.  
 > Ma beszélnek Északi Csangu, Déli Csangu és Gyimesi Csangu népekről.  
 > A Barcasági Csánguk népe magukat magyaroknak mondják. De a székelyek őket Csángónak nevezik.  
@@ -14,10 +17,16 @@
 >
 > A Sangu, Csangu név két területen nagyon régi. Az egyik a hunok uralkodójának a címe, ismeretlen régi időkből, a másik a szumerok papkirályának a címe, de Kr.e. 3.000 utáni időkből. Nem tudni, melyik a régebbi? Valószínűleg a hun cím, ami legalább Kr.e. 4.000 körülre visszamehet, a szumer viszont nem. Egyikre sem ismert pontos adat, mikor alkották őseink a címet.  
 
+A Péterfai János köréhez tartozni látszó...
+
+<!--section: 3-->
 #### Pintye Mihály Besenyők és besgurok...  
 
+<!--section: 3.1-->
 ...című Ősi Gyökér 2005/1. sz. megjelent cikkében San-Hu-nak írja ki talán külföldi forrása alapján:  
-> A hun uralkodók egyik méltóságnevét **san-hu** alakban írták le a kínaiak. Meglepően észrevétlen maradt ezidáig, hogy a magyar Úr rangjelző szó fordítása ez.  
+> A hun uralkodók egyik méltóságnevét **san-hu** alakban írták le a kínaiak. Meglepően észrevétlen maradt ezidáig, hogy a magyar Úr rangjelző szó fordítása ez.
+{ #260618}
+
 
 Péterfai János folytatja:  
 > A szumer rangnév olvasata először Szangu volt, de változatként a Szanga is előfordult. A név jelentése Főpap. Kodolányi János csodálatos regényeiben is szerepel a szó, szintén főpap jelentéssel. A Szangu szóval Ur város főpapjának a címét nevezték meg, tehát a név cím is egyben. A címnév később Szango alakra módosult néhány feliraton. A cím birtokosa alig rendelkezett világi hatalommal. A [[L/Lugal\|lugál]] és [[P/Patesi\|pateszi]] is magasabb rang volt a szumer hierarchiában, mint a szangu. De később, néhány évtizede Sangu lett a név olvasata, ami viszont egyezik a csanguk népnevének Sangu változatával.  
@@ -69,16 +78,20 @@ Péterfai János folytatja:
 >
 > Nincs késztetésem arra, hogy bárki állításait megkérdőjelezzem. Nekem teljesen mindegy, hogy miket állítanak egyesek. Csak az a fontos, hogy igazat mondjanak, teljes szívvel igyekezzenek az igazság felderítésére. Ha lehet, tudjanak magyarul írni, olvasni, összeróni, ismerjék a magyar számírást, hogy legalább a legelemibb ismeretekkel rendelkezzenek. A Csangu nép tehát egy szent ember követője, annak viseli a nevét. Magyar, hun, bulgár, besenyő, szumer, vagy egyéb nyelven is a Sangu jelentése Szent Papkirály, Úr-Fő. Ez az igazi jelentés, ennél nem kell több. Ha legalább ennyit értünk, akkor már nem lehet megvezetni bennünket.  
 
+<!--section: 4-->
 ## Csángó más oldalról történő értelmezése
 
+<!--section: 4.1-->
 Azt másutt is láttuk, hogy a magyar-utód patriarchális berendezkedésű népeink magukat a nyári napfordulós téridőbeli hellyel azonosították (amikor az általuk tisztelt Napisten a legmagasabbra hág). Palóc, avar (kabar/héber), hun, szkíta, jász, sumer, mind erre a pontra utalnak, ahogy az a székely és kazár is, mely utóbbi (a többivel együtt) [[V/Vándor\|vándor]] címnél szintén a "csángat" értelmezéséhez hasonló kószál (vesd össze: palóc – bolyong) jelentéssel hozatott kapcsolatba.  
 Tehát ha azon nevek a nyári napfordulós kulminációs pontra utalnak, akkor csángó is lehet a [[C/Change\|change]] szó eredete kapcsán taglalt ideák mentén vizsgálható.  
 Az ugyan igaz, hogy a Péterfai János által boncolgatott méltóságnév is a Vezér-Orion-nak megfelelő névként ugyanoda mutat egyébként is. [[S/SAN\|San]] címnél írottakat is lásd.  
 
 Az is igaz, hogy más értelmezés szerint a csángatás a harang félreverését jelentette, amellyel veszélyt jeleztek.  
 
+<!--section: 5-->
 ## Csángó nyelv
 
+<!--section: 5.1-->
 A csángók szöszögős kiejtéséről már másutt, Götz Lászlónál és Varga Csabánál is volt szó.  
 [[U/Utódnyelveink gyerekbeszéde\|Utódnyelveink gyerekbeszéde]] címnél Kiss Dénes írását is lásd.  
 
