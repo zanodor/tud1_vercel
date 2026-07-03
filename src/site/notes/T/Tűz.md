@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","created":"2024-12-18T11:46","updated":"2026-06-26T22:58"}
+{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","tags":["containscallouts"],"created":"2024-12-18T11:46","updated":"2026-07-03T23:10"}
 ---
 
 
