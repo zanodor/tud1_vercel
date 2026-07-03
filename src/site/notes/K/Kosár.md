@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kosár/","title":"Kosár","created":"2025-09-29T02:38","updated":"2026-06-05T20:52"}
+{"dg-publish":true,"permalink":"/K/Kosár/","title":"Kosár","created":"2025-09-29T02:38","updated":"2026-07-03T23:13"}
 ---
 
 
@@ -16,18 +16,23 @@ A Naphős [[M/Mózes\|Mózes]]ról ismert, hogy gyermekkorában kosárban (kosá
 > Az elsőszülött Gyermek emléke megtalálható – közvetítésünkkel – a Kalevalában, midőn a Titkok Gyermeke születik, s ott van [[C/Cyrus\|Cyrus]], [[M/Mózes\|Mózes]] születéstörténetében éppen úgy, mint hagyományaink sumír közvetítésű irodalmában, az ószövetségi Példabeszédek könyvében is (Példabeszédek 8:22-33).  
 
 Kus-Ár vagy Kas-Ár így lehetne Háza az Árnak (Úrnak), mely hasonló lenne a [[B/Bárka\|bárka]] fogalmához is, de megfelel annak az érteménynek is, amibe a földi jókat lehet tárolni, sőt, alant juhok szállásáról is szó esik.  
-És mivel ez a névalak megfelel [[K/Kazár\|kazár]]-nak, és ott is szerepelt a Ház Ura értemény, mondhatjuk, hogy jól gondolkodtunk. Sőt, Magyar Adorján azt a kozár nevet is említi, melyet Magyar Adorján [[K/Kazár\|kazár]] címnél is taglalt:  
+És mivel ez a névalak megfelel [[K/Kazár\|kazár]]-nak, és ott is szerepelt a Ház Ura értemény, mondhatjuk, hogy jól gondolkodtunk. Sőt, Magyar Adorján azt a kozár nevet is említi, melyet...
+
+#### Magyar Adorján Ősműveltség...  
+
+...című könyvében taglalt:  
 > Népünk régebben kosár, kozár néven nevezte azon sövényfonadékos illetve kosár-fonáshoz hasonlóan, vesszőfonadékból készülő cserényeket (más néven: karámokat), amelyek állati, de főkép a juhok, menedékéül de arra is szolgáltak, hogy ezek éjszaka el ne széledhessenek (Lássad: Herman Ottó: "A magyar pásztorok nyelvkincse" Budapest, 1914.; Néprajzi Értesítő 1912, 196-7. oldal.). Mivel pedig fala mindig befelé is hajlott, eső ellen is védett, úgy állatot mint embert. Úgyhogy a fönti helységneveket, habár lehet valamely kazár törzsünk nevére is visszavezetnünk de lehet egy valamikor ott létezett kosár avagy kozár nevű cserényre is.  
 > \[...\]  
-> Mi más pedig ház szavunk, valamint a német `Haus`, olasz `casa`, szláv `kucsa` és `hizsa`, mint tiszta [[K/Kazár\|kazár]] szócsoportbeli szó, amelyek mind a [[K/KAS\|kas]] szóval azonosulnak, amely pedig eredetileg vesszőfonadékos, azaz kosárszerűen vesszőfonadékból készült lakóházat is jelentett, sőt hiszen népünk a kosarat máig is nevezi kasnak, viszont a juhok említett menhelyét – és régen bizonyára a vesszőfonadékos házat is – kosárnak.  
+> Mi más pedig `ház` szavunk, valamint a német `Haus`, olasz `casa`, szláv `kucsa` és `hizsa`, mint tiszta [[K/Kazár\|kazár]] szócsoportbeli szó, amelyek mind a [[K/KAS\|kas]] szóval azonosulnak, amely pedig eredetileg vesszőfonadékos, azaz kosárszerűen vesszőfonadékból készült lakóházat is jelentett, sőt hiszen népünk a kosarat máig is nevezi kasnak, viszont a juhok említett menhelyét – és régen bizonyára a vesszőfonadékos házat is – kosárnak.  
 
-Bárczi G. Magyar Szófejtő Szótárában csak annyit ír, hogy a szlovák és szerb-horvát `košar` ua.  
+Bárczi Géza Magyar Szófejtő Szótárában csak annyit ír, hogy a szlovák és szerb-horvát `košar` ua.  
 CzF adata:  
 > KOSÁR (kos-ár) fn. tt. kosarat, harm. szr. ~a. Eredetileg kosar, a kos, azaz kass szóból megnyújtva, mert itt az ar nem egyéb, mint fokonként kifejlett toldalékhang: kos, kosa, kosar v. kosaly; s az előbbiből azután kosornya, az utóbbiból kosalya v. kosolya lett. Vesszőből, kákából, szalmából stb. font v. kötött edényt mely kisebb-nagyobbféle, de alakjára nézve rendszerént gömbölyü, vagy körded, vagy tojásdad szokott lenni. A kerekdedség fogalma a görbe hajlást jelentő k, és a gömbölyü o hang által jellemeztetik, valamint a latin `cophinus`, `corbis`, a német `Korb`, a magyar `korba`, kosolya szókban is. V. ö. KAS. Használata szerént a kosár különféle mellékneveket kap, mint: kenyérkosár, szakasztókosár, melybe a megkelt kenyértésztát kiszakasztva beleteszik; tyúkkosár, melyben tyúkok tojnak, költenek; galambkosár, mely fölfelé tölcséres alakú; karkosár, kötőkosár; kézikosár; ruhakosár stb. Hires eperre nem kell kosárral menni. (Km.). Némely vidéken, nevezetesen Mátyusföldén, Abaújban, a székelyeknél stb. jelent vesszőből vagy nádból font kerítést, mely közé a juhokat elletés idején zárni szokták a szabad ég alatt, juhkosár, ellető, Dunán túl sellencz. Kriza J. szerént a székelyeknél ugyanabba nemcsak juhok, hanem más nyájak is, ú. m. makkoló sertések, erdőn vagy mezőn, éjjeli szállásra berekesztetnek. Átv. ért. tagadó válasz, melyet a házasságra megkért nő, az illető kérőnek ad. Kosarat adni, kapni, nyerni. Kosarat nyert aki kérte. Halápy és Hajmásy. (Kisf. S.). Innen szélesb ért, akármiféle kérelemnek vagy ajánlatnak visszavetése, például ha valaki a kinált ételt el nem fogadja. Tessék ebből az ételből, de kérem ne adjon kosarat.  
 
 De nemcsak a szláv nyelvekben van meg a szó.  
 
-Egy helyen a sumér `kussuru` = köt; kosár szót láttam, amely alapján a kos- előrész a [[K/Köt\|köt]] változata lehetne.  
+Egy helyen a sumér `kussuru` = köt; kosár szót láttam, amely alapján a kos- előrész a [[K/Köt\|köt]] változata lehetne, ahogy `ház` szónak éppúgy van [[K/Kota\|kota]] változata.  
+A [hivatalos nyelvészet](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ko%C5%A1%D1%8C) megküzd az állítólag magyarba átadó nyelv szóeredetével.  
 
 Götz László Keleten kél a Nap című könyvének 179-180. oldalán szereplő táblázat-részletében más formában találjuk:  
 
