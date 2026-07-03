@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/AR, ÁR/","title":"AR, ÁR","tags":["containstransclusions"],"created":"2024-10-31T14:37","updated":"2026-06-22T17:47"}
+{"dg-publish":true,"permalink":"/A/AR, ÁR/","title":"AR, ÁR","tags":["containstransclusions"],"created":"2024-10-31T14:37","updated":"2026-07-03T23:12"}
 ---
 
 
