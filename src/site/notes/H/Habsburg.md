@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habsburg/","title":"Habsburg","created":"2023-11-17T07:57","updated":"2025-10-10T21:53"}
+{"dg-publish":true,"permalink":"/H/Habsburg/","title":"Habsburg","created":"2023-11-17T07:57","updated":"2026-07-03T23:11"}
 ---
 
 
@@ -16,13 +16,6 @@ Szöllősi Ildikó említi egy műsorában, hogy a római zsidó származású H
 > A Habsburgok származása megint csak nem kétséges. Hiszen IX. Leo pápa bankárától, a pápa nógatására kikeresztelkedett, és a keresztapa – pápa által a keresztségben a Benedictus Christianus nevet kapott Pierleone családból származnak. Fajtabéli pribékjeik, udvari történészeik tovább "munkálkodtak" a magyar nemzet megsemmisítésén ([[H/Hunfalvy Pál\|Hunsdorfer]], [[B/Budenz József\|Budenz]]).  
 - A szerző más gondolataiért lásd [[T/Trianon\|Trianon]] és [[K/Kali Yuga\|Kali Yuga]].
 
-[Ezen](https://www.bitchute.com/video/sL4CC44wry9X/) ÁKTV műsorban 00:43:44-től a zsidó Habsburgokról volt szó.  
-A Habsburgok Róma zsidó gettójából[^1] származnak és sohasem tagadták meg zsidó gyökereit. Maga Ferenc József is, amikor Jeruzsálembe látogatott hitsorsosaival, a városkapu előtt találkozott és ők vezették be a siratófalhoz. A korabeli jeruzsálemi lapok cikkeiben Ferenc József maga is elismerte a zsidó vért. Ugyanakkor amikor a Meyers Konversations-Lexikon (1887) megjelent, amelyben a zsidó hitről a katolikus kereszténységre áttértek neve a maga teljességében a Habsburgokkal együtt megjelent, akkor a bécsi titkosszolgálat felvásároltatta és bezúzatta az összes példányt. De ezzel is igazolást adtak arra vonatkozóan, hogy zsidó származású keresztényként nem tudtak kereszténnyé válni.  
-
-[[S/Szabadkőműves\|Szabadkőműves]] címnél álló C. Knight és R. Lomas féle adatok szerint a Habsburgok is a Dávid-féle zsidó vérvonalhoz tartoznak.  
-A Habsburgok zsidóságát az is bizonyítja, hogy a szemitákra jellemző belterjességet gyakorolták. Gyakori volt az unokahúgokkal és más közeli családtaggal való házasságkötés és az abból származó utód. Az interneten sima kereséssel és az [alábbi](https://youtu.be/HPUkY38lZrA?si=LxzdwMlq4deNGJRj) videóban bőven látunk képeket a megannyi torz, elsősorban állaikkal különleges Habsburgról.  
-Kubínyi Tamás egy műsorában azt mondja, hogy nemcsak a csontszerkezetben, hanem a belső szervekben is anomáliákat mutattak ki.  
-
 Nemcsak (bizonyítottan) Fráter Györgyöt, hanem Zrínyi Miklóst, gróf Széchenyi Istvánt (hazugság, hogy öngyilkos lett volna) és még sokakat ők tettek el láb alól.  
 
 Amennyire én látom, a Habsburgok (ahogyan a későbbi Österreich: Keleti Birodalom név is mutatja) tulajdonképpen másrészről annak a Nyugat-Római Birodalomnak a folytatása, amelynek Velencés Péter István halála után felajánlotta Magyarországot tartományául.  
@@ -34,11 +27,24 @@ Kubínyi Tamás egy műsorában azt mondja, Habsburg Ottó és apja, IV. Károly
 ...című könyvében írja:  
 > Habsburg IV. Rudolf nem tudott azzal megbékélni, hogy nem őt választották meg német királlyá. Ezért kancellárjával, gurki János püspökkel egy állítólag Caesartól származó okiratot hamisíttatott, amely szerint a Habsburg-család tagjai nem egyszerű hercegek, hanem főhercegek, akik közjogi minőségükben függetlenek a mindenkori német királytól (s csak családi törvény szerint függenek tőle abban az esetben, ha a német király maga is a Habsburgok közül való).  
 
+## Habsburgok zsidó származása
+
+[Ezen](https://www.bitchute.com/video/sL4CC44wry9X/) ÁKTV műsorban 00:43:44-től a zsidó Habsburgokról volt szó.  
+A Habsburgok Róma zsidó gettójából[^1] származnak és sohasem tagadták meg zsidó gyökereit. Maga Ferenc József is, amikor Jeruzsálembe látogatott hitsorsosaival, a városkapu előtt találkozott és ők vezették be a siratófalhoz. A korabeli jeruzsálemi lapok cikkeiben Ferenc József maga is elismerte a zsidó vért. Ugyanakkor amikor a Meyers Konversations-Lexikon (1887) megjelent, amelyben a zsidó hitről a katolikus kereszténységre áttértek neve a maga teljességében a Habsburgokkal együtt megjelent, akkor a bécsi titkosszolgálat felvásároltatta és bezúzatta az összes példányt. De ezzel is igazolást adtak arra vonatkozóan, hogy zsidó származású keresztényként nem tudtak kereszténnyé válni.  
+
+[Ezen](https://archive.ph/ySrKz) Szittyakürt féle cikk alapján [ezen](https://rumble.com/v7c3s1m-260701cn-Habsburgok-szrmazsa-kubnyi-tams-ktv.html) ÁKTV adásban még pontosabban fel lett mondva. A lényeg:  
+> [!important] &nbsp;
+> A Meyer-féle lexikon negyedik kiadásának (1887) hetedik kötetében, a 987. oldalon, a baloldali hasáb nyolcadik sorában a következő mondat állt: "A Habsburgok leszármazását a ház későbbi történetírói a XIII. és XIV. században a római Pierleone családtól vezették le, amely családból a XII. században egy pápa is származott, II. Anacletus pápa." [22:33](https://rumble.com/v7c3s1m-260701cn-Habsburgok-szrmazsa-kubnyi-tams-ktv.html?start=1353) Ez a nyilvánosság számára leplezte le, hogy a Habsburgok zsidó vérrel eredeztethetők [21:44](https://rumble.com/v7c3s1m-260701cn-Habsburgok-szrmazsa-kubnyi-tams-ktv.html?start=1304).
+
+[[S/Szabadkőműves\|Szabadkőműves]] címnél álló C. Knight és R. Lomas féle adatok szerint a Habsburgok is a Dávid-féle zsidó vérvonalhoz tartoznak.  
+A Habsburgok zsidóságát az is bizonyítja, hogy a szemitákra jellemző belterjességet gyakorolták. Gyakori volt az unokahúgokkal és más közeli családtaggal való házasságkötés és az abból származó utód. Az interneten sima kereséssel és az [alábbi](https://youtu.be/HPUkY38lZrA?si=LxzdwMlq4deNGJRj) videóban bőven látunk képeket a megannyi torz, elsősorban állaikkal különleges Habsburgról.  
+Kubínyi Tamás egy műsorában azt mondja, hogy nemcsak a csontszerkezetben, hanem a belső szervekben is anomáliákat mutattak ki.  
+
 ## Habsburg kultúrpolitika
 
 *A magyar őstörténet Habsburg-ház általi hamisítása*
 
-[[F/Finnugor elmélet#A finnugor elmélet alkotói és mellette kiállói politikai háttere: zsidó\|A finnugor elmélet alkotói és mellette kiállói politikai háttere: zsidó]] címnél lásd.  
+[[F/Finnugor nyelvelmélet#A finnugor elmélet alkotói és mellette kiállói politikai háttere: zsidó\|A finnugor elmélet alkotói és mellette kiállói politikai háttere: zsidó]] címnél lásd.  
 
   
 
