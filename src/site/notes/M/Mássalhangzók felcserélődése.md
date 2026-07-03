@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-06-26T22:58"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-07-03T23:10"}
 ---
 
 
@@ -32,6 +32,8 @@ Itt nem fejezi be, de arra utal, hogy a "jeles" L hang a "pöfögős" V hang fel
 
 <!--section: 5.1-->
 A legfontosabb, önmagába kígyóként farkába harapó, cirkuláris hangfejlődés a K>H>Sz>Th>T>D>Gy>G>H>K; lásd erről még [[K/KAR\|KAR]].  
+A [[M/Magyar\|magyar]] nevünk is megjelenik k-val, cs-vel, sz/z-vel, t-vel, th-val, d-vel, ahol a [[G/GY\|gy]] és [[T/TY\|ty]] mint köztes hang adja meg az [[E/Egy#^47teak\|ezen]] helyen is említett átjárási lehetőséget.  
+Egy másik a KAN > SZAN/SZEN > TEN, ha akarjuk.  
 
 > [!example] &nbsp;
 > [Ezen](https://www.youtube.com/watch?v=2I-6klk_8Ek) YouTube-ra feltöltött videóban is mutogattam, hogy rokon szavaink a T>D>Gy>H>K sorozatban milyen könnyen töltődnek fel.
