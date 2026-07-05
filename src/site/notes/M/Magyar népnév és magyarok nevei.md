@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar népnév és magyarok nevei/","title":"Magyar népnév és a magyarok nevei","tags":["containstransclusions"],"created":"2025-09-29T02:33","updated":"2026-06-22T17:43"}
+{"dg-publish":true,"permalink":"/M/Magyar népnév és magyarok nevei/","title":"Magyar népnév és a magyarok nevei","tags":["containstransclusions"],"created":"2025-09-29T02:33","updated":"2026-07-06T01:48"}
 ---
 
 
