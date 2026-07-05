@@ -1,3 +1,4 @@
+require("dotenv").config();
 const slugify = require("@sindresorhus/slugify");
 const fs = require("fs");
 const matter = require("gray-matter");
@@ -62,6 +63,22 @@ function userMarkdownSetup(md) {
 }
 
 function userEleventySetup(eleventyConfig) {
+  const CDN_BASE = (process.env.EXTERNAL_IMAGE_BASE_URL || "").trim().replace(/\/$/, "");
+
+  if (CDN_BASE) {
+    eleventyConfig.addTransform("externalImageCDN", function (content, outputPath) {
+      if (!outputPath || !outputPath.endsWith(".html")) return content;
+
+      return content.replace(
+        /(<img\b[^>]*?\bsrc=")((?:\/img\/user\/)[^"]+)(")/g,
+        (match, before, src, after) => {
+          const pathWithoutPrefix = src.replace(/^\/img\/user\//, "");
+          return `${before}${CDN_BASE}/${pathWithoutPrefix}${after}`;
+        }
+      );
+    });
+  }
+
   // Overwrite the link filter to support pipe-less wikilinks and Obsidian images
   eleventyConfig.addFilter("link", function (str) {
     if (!str) return str;
