@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/U/UT/","title":"UT","created":"2023-11-17T06:32","updated":"2026-06-26T23:01"}
+{"dg-publish":true,"permalink":"/U/UT/","title":"UT","created":"2023-11-17T06:32","updated":"2026-07-06T01:49"}
 ---
 
 
 # UT
 
-Nap alapjelentése nyomán ered Napút ([[E/Ecliptic\|ekliptika]]), általunk járható út, [[U/Üt\|üt]] igénk rengeteg származékával együtt. Fontos ezeken kívül öt jelentése is, mely szintén Nap-szám (gondoljunk tenyerünkre a kinyújtott ujjainkkal). Arról, hogy a Napot jelentő UT és TU matematikailag kétszer öt, mely az isteni tizet ([[T/TEN\|TEN]]) adja, lásd [[U/UTU\|UTU]].  
+Nap alapjelentése nyomán ered [[E/Ecliptic\|Napút]], általunk járható út, [[U/Üt\|üt]] igénk rengeteg származékával együtt. Fontos ezeken kívül öt jelentése is, mely szintén Nap-szám (gondoljunk tenyerünkre a kinyújtott ujjainkkal). Arról, hogy a Napot jelentő UT és TU matematikailag kétszer öt, mely az isteni tizet ([[T/TEN\|TEN]]) adja, lásd [[U/UTU\|UTU]].  
 
 Rögtön még itt az elején vezessük elő azzal, amiről [[T/Téridő\|téridő]] címnél is volt szó:  
 A teret útnak is nevezhetjük, valamint, hogy mind út és [[I/Idő\|idő]] szavunk közös eredetre mennek vissza.  
@@ -26,8 +26,8 @@ A [[T/Tunnel\|tunnel]] címnél taglalt magyar alagút is tartalmazza az út vag
 
 ## Út szavunk idegen nyelvekben
 
-Út szavunkból ered a [[M/MISZ\|MISZ]] című taglalt héber `oth` = (állatövi) jel, ill. a görög `hodosz` és szláv `khod` = előrehaladás, lépés; út jelentésű szó.  
-A görög szót a nyelvészet a héber `'ada` = lép, lépked igével rokonítja. (Egyes nyelvekben az út és lép jelentésű szavak egyező alakúak: például az orosz `doroga` = út metatézises párhuzama lehet az orosz `grjadu` = lép).  
+Út szavunkból ered a [[M/MISZ\|MISZ]] című taglalt héber `oth` = (állatövi) jel, ill. a görög `hodosz` és szláv `khod` = előrehaladás, lépés; út jelentésű szó (lásd még orosz `ходить` = járni, gyalogolni).  
+A görög szót a nyelvészet a héber `'ada` = lép, lépked igével rokonítja. (Egyes nyelvekben az út és lép jelentésű szavak egyező alakúak is lehetnek: például az orosz `doroga` = út metatézises párhuzama lehet(?) az orosz `grjadu` = lép).  
 
 A séminél maradva, az arab `huda`, `hoda`, `houda` = jó útmutatás talán a perzsa [[K/Khuda\|Khuda]] = isten szó nyomán ered vagy megint csak út szavunkból.  
 
