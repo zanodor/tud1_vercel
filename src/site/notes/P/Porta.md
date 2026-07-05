@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Porta/","title":"Porta","created":"2023-11-07T05:26","updated":"2026-06-13T23:24"}
+{"dg-publish":true,"permalink":"/P/Porta/","title":"Porta","created":"2023-11-07T05:26","updated":"2026-07-06T01:49"}
 ---
 
 
@@ -34,4 +34,4 @@ Ezen p-r-t előjött [[F/Fortuna\|Fortuna]] istennő kapcsán [[T/Taweret\|Tawer
 A kelet-mari `pört` és a szkolt számi `pört` = ház jelentése sem meglepő eztán.  
 
 [[G/Gate\|Gate]] címnél szerepelt:  
-A porta viszont nem biztos hogy az, aminek kiadja magát. Ugyanis az orosz `vorota` (mely elsőre az Ég[[S/Sátor\|sátor]] varratát, magát a Tejutat is idézni látszik), és az ind [[V/Vrâtya\|Vrâtya]] névvel is azonos szláv (többesszámú?) `vráta`, lett (tbsz.) `várti` szavak elárulják, hogy itt akár a [[V/Várta\|várta]] szavunk is szóba jöhet, de nem áll messze a ([[P/Pártus\|pártus]] címnél is elővett) [[B/Barát\|barát]] szó sem, mely az indonézben és a malájban nyugat értelmű. [[S/Sark\|Sark]] címnél is láttuk, hogy a kapuk nevei a tájolási irányról is kaphatják akár nevüket.  
+A porta viszont nem biztos hogy az, aminek kiadja magát. Ugyanis az orosz `vorota` (mely elsőre az Ég[[S/Sátor\|sátor]] [[V/Varrat\|varrat]]át, magát a Tejutat is idézni látszik), és a proto-szláv (többesszámban használt) `vorta` (lásd Wiktionary oldalát [itt](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/vorta)), lett `várti` = kapuk szavak elárulják, hogy itt akár a [[V/Várta\|várta]] szavunk is szóba jöhet, de nem áll messze a ([[P/Pártus\|pártus]] címnél is elővett) [[B/Barát\|barát]] szó sem, mely az indonézben és a malájban nyugat értelmű. [[S/Sark\|Sark]] címnél is láttuk, hogy a kapuk nevei a tájolási irányról is kaphatják akár nevüket.  
