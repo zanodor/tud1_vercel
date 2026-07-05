@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-07-03T23:15"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2026-07-06T01:48"}
 ---
 
 
@@ -479,7 +479,7 @@ A [[P/Pártus\|pártus]] és [[P/Perzsa\|perzsa]] népnevek eredete közös lehe
   
   
 Vagy ott van tökéletes példának a [[L/Light\|light]] szó [[L/Liget\|liget]]tel való egyeztetésének kísérlete (liget lehet szent, azaz fényes istentiszteleti hely). Egy valamire való filológus (palánta) észre kell vegye, hogy bár egyezik a két szó, ennél mélyebb kapcsolat fedezhető fel. Épp a light kettős (könnyű és fény) jelentése mutat rá, hogy a hímségi szavaknak sok mellék- vagy ha úgy tetszik, szekunder jelentése van.  
-Ezek: a Napból kiindulva kör/kar, mag, tűz, parázs, fény, ég, egy (1), fa (törzs, ág), továbbá nagy/hatalmas, hegy, bot (fegyver: kar-kard), farok, hímtag, szőr, villám, ad, apa, szép, vén/öreg, épít, ruhák, plusz népnevek, madárnevek, napjelképek, vagy az absztrakt ideák ill. jelzők közül a szellem, lélek, szél, szag, száj, hangkiadás (vakkantás), düh, szeret, szabad, mozog (menni/haladni/gyors/száll/repül/von/tol és forog/kering), meleg/forró, könnyű, fenn, magas, édes, száraz, keskeny (szikár/kemény/kő), domború[^11], tiszta, szent, isteni/magasztos, áldás, kutya stb., a színek közül a fehér, arany, (égő)vörös, zöld.  
+Ezek: a Napból kiindulva kar, mag, tűz, parázs, fény, ég, egy (I), fa (törzs, ág), továbbá nagy/hatalmas, hegy, bot (fegyver: kar-kard), farok, hímtag, szőr, villám, ad ([[P/Plus\|plus]] jel), affirmáció (igen), vet, eső (vertikálisan hulló víz), apa, szép, vén/öreg, épít, plusz népnevek, madárnevek, napjelképek, az absztrakt ideák ill. jelzők közül a szellem, lélek, szél, szag, száj, beszéd ill. hangkiadás ([[V/VAK\|vak]]kantás), düh, szeret, szabad, mozog (menni/haladni/gyors/száll/repül/von/tol és forog/kering), szúr, bök, üt, vég, továbbá meleg/forró, könnyű, éles (vö. tompa), fenn, magas, édes, száraz, keskeny (szikár/kemény/kő), ([[B/Bal és jobb\|bal és jobb]] címnél, külön alcímnél írottak szerint) egyenes, domború[^11], dús, tiszta, szent, isteni/magasztos, áldás, kutya stb., a színek közül a fehér, arany, (égő)vörös, zöld.  
 Így érthető meg a [[B/Bird\|bird]] és [[F/Free\|free]] szavak kapcsolata, de ugyanúgy a latinban a `liber` = szabad[^12] és `librare` = libegni, lebegni és a `libella` = pille szavak összefüggenek. (A tárgyak közül általánosságban elmondható, hogy minden olyan valami, amely magassága nagyobb mint szélessége, az hímségi, míg fordított esetben nőiségi. Erről [[L/Láda\|láda]] címnél is volt szó. Az egyenes hímségi, a görbe nőiségi, ahogy [[K/Kurva\|kurva]] címnél is volt erről szó.)  
 
 
