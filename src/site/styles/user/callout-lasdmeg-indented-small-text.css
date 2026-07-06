@@ -8,6 +8,8 @@
 
 /* More fixes from AI IDEs, then for list items, https://chatgpt.com/c/6a410742-7628-83eb-a0c3-712185b05601 */
 
+/* Callout fold fix https://claude.ai/chat/86e77448-c2e2-4b21-8402-218f3a83bcfa */
+
 .callout[data-callout*=lasdmeg] {
     --callout-icon: lightbulb;
     --callout-color: inherit;
@@ -95,13 +97,16 @@
 .callout[data-callout*=lasdmeg] .callout .callout-fold,
 .callout[data-callout*=lasdmeg] .callout .callout .callout-fold,
 .callout[data-callout*=lasdmeg] .callout .callout .callout .callout-fold {
+    order: 2 !important;
     margin-left: auto !important;
 }
 .callout[data-callout*=lasdmeg] .callout .callout-icon,
+.callout[data-callout*=lasdmeg] .callout .callout .callout-icon,
 .callout[data-callout*=lasdmeg] .callout .callout .callout .callout-icon {
     order: 0 !important;
 }
 .callout[data-callout*=lasdmeg] .callout .callout-title-inner,
+.callout[data-callout*=lasdmeg] .callout .callout .callout-title-inner,
 .callout[data-callout*=lasdmeg] .callout .callout .callout .callout-title-inner {
     order: 1 !important;
 }
