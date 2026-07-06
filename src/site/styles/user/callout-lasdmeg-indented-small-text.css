@@ -8,7 +8,7 @@
 
 /* More fixes from AI IDEs, then for list items, https://chatgpt.com/c/6a410742-7628-83eb-a0c3-712185b05601 */
 
-/* Callout fold fix https://claude.ai/chat/86e77448-c2e2-4b21-8402-218f3a83bcfa */
+/* Callout fold and other fixes https://claude.ai/chat/86e77448-c2e2-4b21-8402-218f3a83bcfa */
 
 .callout[data-callout*=lasdmeg] {
     --callout-icon: lightbulb;
@@ -81,12 +81,22 @@
     font-size: 72% !important;
 }
 
-/* LEVEL 2 icon & title layout */
+/* LEVEL 1 (lasdmeg saját) title layout */
+.callout[data-callout*=lasdmeg] > .callout-title {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+}
+
+/* LEVEL 2, 3, 4 icon & title layout */
 .callout[data-callout*=lasdmeg] .callout .callout-title,
 .callout[data-callout*=lasdmeg] .callout .callout .callout-title,
 .callout[data-callout*=lasdmeg] .callout .callout .callout .callout-title {
+    display: flex !important;
     align-items: center !important;
     justify-content: flex-start !important;
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
 }
 .callout[data-callout*=lasdmeg] .callout .callout-title-inner,
 .callout[data-callout*=lasdmeg] .callout .callout .callout-title-inner,
