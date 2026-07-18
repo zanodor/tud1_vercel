@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Culann/","title":"Culann","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T18:03","updated":"2026-06-12T22:45"}
+{"dg-publish":true,"permalink":"/C/Culann/","title":"Culann","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T18:03","updated":"2026-07-18T22:52"}
 ---
 
 
@@ -29,11 +29,12 @@ Továbbmenve, a gízai nagy piramis Khufu ([[K/Kufu\|Kufu]]) neve is éppen a fo
 
 Azóta Sphinx-ről megállapíttatott, hogy a [[F/Fo-kutya\|Fo-kutyá]]hoz (itt is [[F/FU\|FU]] jön elő) hasonlóan egyszerre kutya és nagymacska, azaz a Hunor/Magor Napok mintha keverednének benne.  
 
-Igen érdekes viszont, hogy a kelta-ír nyelvben a szinte azonos `colainn` = (élő/halott?) test, hús jelentésű (vajon a hun nyelvben milyen szó jelentett testet?). Márpedig kutyahúsevésről volt szó.  
+Igen érdekes viszont, hogy a kelta-ír nyelvben a szinte azonos `colainn` = (élő/halott?) test, hús jelentésű (márpedig a görög-latin húst jelentő szó kapcsán is kimondtuk, hogy csak a test halandó; és vajon a hun nyelvben milyen szó jelentett testet?). Az, hogy kutyahúsevésről volt szó, még tovább fokozza a rejtélyt.  
 Egy másik, hasonló, szinte azonos szó a kelta-ír `cuileann` = [[M/Magyal\|magyal]], mely fontos szakrális cserje-, illetve faféle (tövises tölgy) és az [[O/Ogham\|Ogham]] naptár `tinne` = magyal hónapjának (július 8. - augusztus 5.) jelölője. Tölgyfaféle, így mindenképpen a nyári napfordulóval, de legalábbis Orion "havával" kellene kapcsolatba hozni, az alant szereplő infók alapján is. Közben kiderült, hogy a magyal a második, hanyatló félévet jelképezi.  
 
 Cul-Án (Kol-Án, Kül-Án) felbontása is lehet a névnek. (Kul, Kül szavakról lásd Péterfai János írását [[K/KUL\|KUL]] és [[C/Cool\|cool]].)  
-A törökben `kül` = [[H/Hamu\|hamu]], mely szintén a tűz/meleg kihalására/kialvására utal (Alex MacBain kelta etimológia szótárában a `colainn` nevet is halálhoz köti), illetve Kül Péterfai Jánosnál az égi szféra neve.  
+A törökben `kül` = [[H/Hamu\|hamu]], mely szintén a tűz/meleg kihalására/kialvására utal (Alex MacBain kelta etimológia szótárában a `colainn` nevet is a halálhoz köti), illetve Kül Péterfai Jánosnál az égi szféra neve.  
+- `Hűl` szóról szó esett közben [[C/Coal#Hűl kapcsolat\|coal]] címnél.
 
 A Kul-Án felbontás azért is tűnik helyesebbnek, mert Án az Ég és égi szereplőkről van szó. Ahogy ([[S/Sétanta\|Sétanta]], [[A/Anta\|anta]] és) legutóbb [[A/Angle\|angle]] címnél is szerepelt, a Kul-Án az Án-Kul megfordítása:  
 Az [[A/Anta\|anta]] címnél is legutóbb említett [[S/Sétanta\|Sétanta]]-[[C/Cuchulainn\|Cúchulainn]] kutya Culann kovács kutyája. Vegyük észre, hogy a Kul-Án és Án-Kul ugyanaz a szó, a két elem megfordítása nem okoz változást. A [[K/Kapu\|kapu]] szavunknak megfelelő a hawaii `puka` = űr, lyuk, kapu jelentésű szó is.  
