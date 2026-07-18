@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nemeszisz/","title":"Nemeszisz","tags":["Englishtexttranslated"],"created":"2023-10-14T07:03","updated":"2024-10-25T23:35"}
+{"dg-publish":true,"permalink":"/N/Nemeszisz/","title":"Nemeszisz","tags":["Englishtexttranslated"],"created":"2023-10-14T07:03","updated":"2026-07-18T22:53"}
 ---
 
 
