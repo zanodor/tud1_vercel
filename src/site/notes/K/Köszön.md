@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Köszön/","title":"Köszön","created":"2023-10-17T08:48","updated":"2025-08-03T19:14"}
+{"dg-publish":true,"permalink":"/K/Köszön/","title":"Köszön","created":"2023-10-17T08:48","updated":"2026-07-18T22:53"}
 ---
 
 
@@ -10,7 +10,7 @@
 > Köszön igénkben a Kö a Száj, a Szön a Nap (Sun). A Köszönés a Szájból kiröppenő Nap.  
 - Ha az -ön igeképző, mint a germán nyelvekben, akkor viszont gondolata nem helyes; az más kérdés, hogy akkor mi a kösz/küsz.
 
-Ugyan Péterfai János elemezése költőien szép, elképezhető, hogy a Kü-Szön, Kö-Szön formákból más jelentéseket olvassunk ki, de a lényegen nem változtat. [[K/KU\|KU]] ugyanis maga Napot is jelenthet és annak teremtményét is (lásd [[K/Kü\|kü]] = kölyök, fi). Így köszön jelentheti azt is, hogy a Nap teremtménye köszöni meg a Napnak áldásos munkáját. A fiatalabbak kell előre köszönnie is, a magyar etika szerint.  
+Ugyan Péterfai János elemzése költőien szép, elképezhető, hogy a Kü-Szön, Kö-Szön formákból más jelentéseket olvassunk ki, de a lényegen nem változtat. [[K/KU\|KU]] ugyanis maga Napot is jelenthet és annak teremtményét is (lásd [[K/Kü\|kü]] = kölyök, fi). Így köszön jelentheti azt is, hogy a Nap teremtménye köszöni meg a Napnak áldásos munkáját. A fiatalabbak kell előre köszönnie is, a magyar etika szerint.  
 A cserébe semmit sem visszakérő Napnak úgy is megköszönjük, hogy szinte minden szavunkba beépítettük.  
 
 
