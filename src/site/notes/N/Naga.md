@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Naga/","title":"Naga","tags":["Englishtexttranslated"],"created":"2023-10-13T01:24","updated":"2025-10-10T21:56"}
+{"dg-publish":true,"permalink":"/N/Naga/","title":"Naga","tags":["Englishtexttranslated"],"created":"2023-10-13T01:24","updated":"2026-07-18T22:53"}
 ---
 
 
@@ -27,7 +27,7 @@ Az az érdekes, hogy a japán `長` (`naga`) = hosszú jelentésű. Ami keskeny,
 
 > Kambodzsában [[A/Angkor\|Angkor]] temploma szintén kapcsolatos a magyar szupercivilizációval. Kambodzsát szintén a magyar szaka hercegek alapítják, ők is építik a fantasztikus templomot. Öt kapuja van, a kapukból öt út indul ki. Az öt utat két oldalt sorba állított gigantikus kőalakok szegélyezik, utanként 108, oldalanként 54. Összesen 540 szobor áll sorban, minden egyes sor egy Naga kígyót tart. A kőszobrok nem tarják a kígyót, hanem húzzák, ahogy Santillana és von Dechend rámutat a Hamlet malmában, vagyis az 540 szobor "köpüli" a Tejútrendszer óceánját. "Angkorról így tehát kiderül, hogy egy kolosszális modell, melyet a valódi hindu fantázia és képtelenség állított fel". Tehát a magyar tudás így száll át a hindukra, akiket szintén mi tanítottunk meg mindenre. A Naga kígyó neve a mai [[N/Nagy\|Nagy]] szavunk változata, továbbá a Nagák az egyik fontos ősi magyar nép.  
 
-A Naga név vizsgálatánál előjött, hogy míg a mitológiai "hibrid" fajt a szanszkrit `nāga` = kígyó névből eredőnek tartja Oxford, a naga hindu szekta nevét a hindi `nāgā` = csupasz szóból, végül pedig a ma is élő Naga népet és nyelvüket egyrészt a szanszkrit `nagna` = csupasz, másrészt a szanszkrit `naga` = hegy szóból eredőnek tartja a nyelvészet.  
+A Naga név vizsgálatánál előjött, hogy míg a mitológiai "hibrid" fajt a szanszkrit `nāga` = kígyó névből eredőnek tartja Oxford, a naga hindu szekta nevét a hindi `nāgā` = csupasz szóból, végül pedig a ma is élő Naga népet és nyelvüket egyrészt a szanszkrit `nagna` = csupasz, másrészt a szanszkrit `नग॑` (`nága`) = hegy szóból eredőnek tartja a nyelvészet.  
 Mindhárom szó és jelentés a magyarok Nagy szavából ered. A kígyókról tudjuk, hogy csupaszok és évente vedlenek. Az aszkéta életmódot folytató szektával kapcsolatosan a szintén meztelen Jainisták jutnak eszünkbe, kikről [[G/Gymnosoph\|gymnosoph]] címnél is volt szó.  
 
 Arról másutt is volt szó, hogy a kígyó és a sárkány sokszor ugyanígy keverednek, mint a kutyák a nagymacskákkal; lám a maláj és indonéz `naga` = sárkány. A kínaiban is, ahol több neve van a sárkánynak (Lung Meng, Long Wang, Na-achia), `Nage` is jelent sárkányt. (Nyilván a buddhista tanok terjedésével jutott más nyelvekbe a szó.)  
@@ -43,7 +43,7 @@ A Kígyó a Tejút, ami Út. Ezért lehet az arab `nahj` (názs) = út, ösvény
 
 Bakos Attila A Duna Evangéliuma című könyvének 169-171. oldalán mint az atlantiszi kultúra átmentőit tárgyalja a mayákat, naga-mayákat (amennyiben figyelembe veendő). A 183. oldalról a [[R/Ramayana\|Rámáyana]] költemény naga-mayáit tárgyalja.  
 
-A szanszkrit `naga` = hegy jelentéséhez még jól passzol az óperzsa `nagan` = kenyér (hegy és kenyér jelentésű szavak mögött Napnevek állnak), melyből lett összehúzva a pahlavi/perzsa/szanszkrit `nân` = kenyér. De hol itt a Napnév? Nagy szabunk a Magy-Ar illetve a Na-Ga összetételből is levezethető. Folytatást lásd [[N/Nagy\|nagy]].  
+A szanszkrit `नग॑` (`nága`) = hegy jelentéséhez még jól passzol az óperzsa `nagan` = kenyér (hegy és kenyér jelentésű szavak mögött Napnevek állnak), melyből lett összehúzva a pahlavi/perzsa/szanszkrit `nân` = kenyér. De hol itt a Napnév? Nagy szabunk a Magy-Ar illetve a Na-Ga összetételből is levezethető. Folytatást lásd [[N/Nagy\|nagy]].  
 
 [[M/Magyar\|Magyar]] címnél, amikor a sémi `nahar` = folyó szóról (mely az arab Al Nahr = Tejút nevet is adja) volt szó, felvetődött bennem, hogy mivel az égi folyam égi kígyó, hogy a Naga név igenis lehet a Nagar (mely amúgy nemcsak a sémiben, hanem Indiában is ismert alak) és így a `Magyar` névből származó.  
 Annál is inkább, mert létezett egy [[M/Magoraga\|Magoraga]] nevű kígyóistenség m-előhangosan.  
