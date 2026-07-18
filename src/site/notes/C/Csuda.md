@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions","containscallouts"],"created":"2025-06-12T01:36","updated":"2026-07-03T23:11"}
+{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions","containscallouts"],"created":"2025-06-12T01:36","updated":"2026-07-18T22:51"}
 ---
 
 
@@ -79,7 +79,7 @@ Lásd még [[K/Kut\|kut]].
 ...fény jelentéssel közelíti meg:  
 > Másrészt a görög `fémi` = előtűnik, feltűnik szót a nyelvészek a szanszkrit `bámi` = tűnni, feltűnni, előtűnni szóval vetik össze, amelyre pedig a magyar bámul ige úgy értelemben, mint hangzásban elég közel áll, mert kimutatható, hogy a magyar `csodálni`, `csoda` és a szláv `csudo` szavak mind egy régi `csod` vagy `csud` = süt, fény szóból származnak.  
 
-Az alapján, hogy a CzF által is megadott szanszkrit `csúdá` = tetőt, hegycsúcsot jelent, azaz nemcsak az alakilag azonos szanszkrit `kuta` jelent hasonlót (hegy, hegycsúcs; a **Devakūṭa** (देवकूट) összetételben is a "hegy" vagy "csúcs" jelentésben szerepel a `kūṭa`, így az "Istenek hegye" vagy "Isteni csúcs" jelentést hordozza), és az alapján, hogy az istenhegy (lásd [[V/Világhegy\|Világhegy]]) az égig ér ([[E/Egy#^pqd018\|hasonlóan ered]] [[M/Men\|menny]] szavunkból a latin `mons`, walesi `myndd`, stb.), úgy tűnik, hogy `csuda` jelentése inkább ég, mely ugye igei jelentésében áll közel a csuda nyilvánvaló alakváltozatához, [[S/Süt\|süt]] igénkhez. Sőt, akár azt is mondhatnánk, hogy süt sem [[T/Tűz\|tűz]] megfordításaként jött volna létre, hanem egy tágabb, [[K/Kentum-szatem szabály#^i1e0w6\|kentum]]-szatem rendszerbeni kut, kuta, csud, csuda szóbokor tagja. Ugyanakkor a tűz ég, azaz a fogalmak többszörösen, ahogy másutt is mondtuk, fraktálszerűen szerveződve függenek össze.  
+Az alapján, hogy a CzF által is megadott szanszkrit `csúdá` = tetőt, hegycsúcsot jelent, azaz nemcsak az alakilag azonos szanszkrit `कूट॑` (`kū́ṭa`) jelent hasonlókat: kiszögellés, csúcs; homlokcsont, szarv; ház; a **Devakūṭa** (देवकूट) összetételben is a "hegy" vagy "csúcs" jelentésben szerepel a `kūṭa`, így az "Istenek hegye" vagy "Isteni csúcs" jelentést hordozza), és az alapján, hogy az istenhegy (lásd [[V/Világhegy\|Világhegy]]) az égig ér ([[E/Egy#^pqd018\|hasonlóan ered]] [[M/Men\|menny]] szavunkból a latin `mons`, walesi `myndd`, stb.), úgy tűnik, hogy `csuda` jelentése inkább ég, mely ugye igei jelentésében áll közel a csuda nyilvánvaló alakváltozatához, [[S/Süt\|süt]] igénkhez. Sőt, akár azt is mondhatnánk, hogy süt sem [[T/Tűz\|tűz]] megfordításaként jött volna létre, hanem egy tágabb, [[K/Kentum-szatem szabály#^i1e0w6\|kentum]]-szatem rendszerbeni kut, kuta, csud, csuda szóbokor tagja. Ugyanakkor a tűz ég, azaz a fogalmak többszörösen, ahogy másutt is mondtuk, fraktálszerűen szerveződve függenek össze.  
 - Azt se feledjük, hogy már maga a tűz jelképe is egy csúcsával felfelé álló háromszög: hegy.
 
 [[C/Csudaország\|Csudaország]] címnél írottak is arra utalnak, hogy az égről van szó, és ahogy fentebb szerepelt, az ég jelképeként a [[C/Csudaszarvas\|Csudaszarvas]] = Égi Szarvas.  
