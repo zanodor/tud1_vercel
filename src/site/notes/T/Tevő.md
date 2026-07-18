@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tevő/","title":"Tevő","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-01T10:28","updated":"2026-06-22T17:49"}
+{"dg-publish":true,"permalink":"/T/Tevő/","title":"Tevő","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-01T10:28","updated":"2026-07-18T22:52"}
 ---
 
 
