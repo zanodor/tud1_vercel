@@ -1,14 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vándor/","title":"Vándor","tags":["Englishtexttranslated"],"created":"2023-10-20T10:10","updated":"2026-03-23T23:31"}
+{"dg-publish":true,"permalink":"/V/Vándor/","title":"Vándor","tags":["Englishtexttranslated"],"created":"2023-10-20T10:10","updated":"2026-07-18T22:51"}
 ---
 
 
+<!--section: 1-->
 # Vándor
 
+<!--section: 1.1-->
 [[V/Vendor\|Vendor]] és [[V/Vend\|vend]] címnél írottak szerint a `vendor` = kereskedő a vándor. De mit jelent a vándor? Kimondottan a [[W/Wander\|wander]] u/w-előhangja miatt is gondolnám, hogy egyezőnek vehető a Szíriusz An-Dar nevével (lásd [[A/Andor\|Andor]], [[A/Andra\|Andra]], [[O/Other\|other]] és másutt). Ezen An-Dar-ról viszont megállapítottuk, hogy a [[H/Hunter\|Hunter]] névvel azonos. Mely `Hunter` névvel pedig azonosnak találtatott az a közben [[W/Wonder\|wonder]] és [[V/Venture\|venture]] címnél is említett latin `venator` = vadász, mely pedig egyezik a latinban általam most nem talált vendor eredetijével és a Vend-Urak nevével, kik talán ilyen néven nem is léteztek (a szlovének vend neve a latin nyelvből is eredhet), hanem mindvégig a vándor szóról (egészen pontosan az Orion ilyen nevéről) lehetett szó. Felveti mindez azt, hogy a germán [[H/Hunter\|Hunter]] is a Vándor név változata lenne? Szerintem nem (de talán a latin vadászt jelentő szó igen: akár a [[W/Wonder\|wonder]] = csuda fogalma is itt, valamelyik – már indo-európai – mítoszi leágazásban keresendő valahol). A Hun-Ter ősi magyar-hun elnevezés lehet és a Vándor csak ennek változata[^1]. A kérdés itt csak az, hogy a [[W/Wander\|wander]] szónál írottak alapján égi vándorra, (nem is annyira [[B/Botos istenek\|botos istenek]]kel kapcsolatba hozható) bolygóra, vagy csillagképre, a Hunter-Orionra (akinek vándor formával azonos [[P/Panther\|Panther]] neve is ismert) utal és nem két lábon járó emberre (de a [[K/Kutya\|kutya]] sem a négylábút jelenti elsődlegesen, csak másodlagosan). A nevek asztrális eredetéről számtalanszor volt szó.  
 Össze is köthetnénk a dolgot: a régi, békés időkben azért is vándoroltak az emberek, mert az égi Vándort (az összetartozó Orion-Szíriuszt) látni akarták.  
 
-Egyébiránt (az Orion-kapcsolatú) [[I/Indra\|Indra]] címnél volt szó a vándor fogalmáról David Gordon White könyvében:  
+Egyébiránt (az Orion-kapcsolatú) [[I/Indra\|Indra]] címnél volt szó a vándor fogalmáról...
+
+<!--section: 2-->
+#### David Gordon White Myths of the Dog-Man...  
+
+<!--section: 2.1-->
+...című könyvében:  
 > Among the Vedic gods, it is Indra (together with [[R/Rudra\|Rudra]]) who is most closely and frequently associated with various groups of wandering ascetics: one of these is known as the yatis, from `yâ`, "to go," or from `yat`, "to strive."  
 > —  
 > A védikus istenek közül Indra ([[R/Rudra\|Rudrá]]val együtt) az, aki a legszorosabban és leggyakrabban a vándorló aszkéták különböző csoportjaival áll kapcsolatban: ezek egyikei a yati-k, a `yâ`, "menni", vagy a `yat`, "törekedni" szóból.  
@@ -20,8 +28,10 @@ Vajon Égi Vándorra keresve mit találunk az interneten? Például egy imát, m
 - Torockai-Wigand Edénél vagy másutt egyelőre nem látok paraszti hagyományból utalást ilyen csillagra.  
 Molnár V. József Világ-Virág című könyvének 86. oldalán amikor "sugárzó égi vándorról" ír, a Napra utal. A fentebbi imában is könnyen lehet, hogy a Napról van szó.  
 
+<!--section: 3-->
 #### Tomory Zsuzsa Ősmagyar imádságaink 3. rész...
 
+<!--section: 3.1-->
 ...című az Ősi Gyökér 2021/1. sz. megjelent cikkében fehér rózsa kapcsán a Holdra utal viszont:  
 > A fehér rózsa mindenkor magyarok Nagyboldogasszonyára emlékezik. Későbbi, hun befolyás hatására a vándor hunok az égi vándort választották jelképül, s egyúttal színeit is: a Hold ezüst-fehér ragyogását és az ég kékjét.  
 
@@ -29,10 +39,13 @@ Molnár V. József Világ-Virág című könyvének 86. oldalán amikor "sugárz
 Ha égi-kozmikus vándort kell azonosítani, a [[T/Tavaszpont\|tavaszpont]] is (lassan de) vándorol.  
 
 Lásd még idegen, jövevény és vándor témában [[H/Hágár\|Hágár]], [[P/Peregrine\|peregrine]], [[F/Foreign\|foreign]], [[M/Migrate\|migrate]], [[H/Hostile\|hostile]] és [[A/Árja\|árja]]. A legutóbb [[M/Misery\|misery]] címnél is taglalt [[M/Mazúr\|mazúr]] arab párja is a [[M/Migrate\|migrate]] címnél taglalt magyar arabokra látszik utalni.  
-Egyébként feltűnő, hogy szinte minden magyar vagy magyar-rokon nép nevének jelentésbeli kötődése van a vándor, menekül, stb. fogalmával: a bolyongást, kalandozást, csángatást kifejező szavakhoz mindig kapcsolható volt egy népnév (magyar megy, kún/hun kam és mén (mendegél), palóc bolyong, csángó csángat, avar barangol, kőrös kalézol/halad, stb.).  
+Egyébként feltűnő, hogy szinte minden magyar vagy magyar-rokon nép nevének jelentésbeli kötődése van a vándor, menekül, stb. fogalmával: a bolyongást, kalandozást, csángatást kifejező szavakhoz mindig kapcsolható volt egy népnév (magyar megy, kún/hun kam és mén (mendegél), palóc bolyong, csángó "csángat", avar barangol, kőrös kalézol/halad, stb.).  
+- A palócok nevének megfelelő falassa [ezen](https://www.jewishencyclopedia.com/articles/5987-falashas) és [ezen](https://en.wiktionary.org/wiki/Falasha) adatok szerint szintén azt jelenti, hogy vándorol, bolyong.
 
+<!--section: 4-->
 #### Bognár Ferenc Az Életfa csillag-gyökerei...
 
+<!--section: 4.1-->
 ...című cikkében is írja Horvát István nyomán:  
 > A [[F/Filiszteus\|filiszteus]] nevet etiópiai eredetűnek, és száműzött, kivándorló, jövevény értelműnek tartották a régiek, ahogy a későbbi [[P/Pártus\|párthus]]okról is ugyan erre a megállapításra jutottak a XIX. sz-i kutatók.  
 - [[P/Palesztina\|Palesztina]] és [[J/Jász\|jász]] címnél Magyar Adorján és Tomory Zsuzsa hasonló adatai szerepeltek már.
@@ -44,8 +57,10 @@ Aztán megad egy másik, általam ismeretlen nevet:
 Bognár Ferenc másutt még a [[K/Kabar\|kabar]] név [[K/Kóbor\|kóbor]] (vándorló) változatát közli, de közben [[K/Kóbor\|kóbor]] szóról magáról is volt szó: a rokonértelmű kóbor szóról szintén megállapítottuk, hogy Orion neve.  
 Mint kiderül, a [[K/Kazár\|kazár]] népnévhez is kötődik egy ilyen jelentés.  
 
+<!--section: 5-->
 #### Bognár Ferenc A magyarok istene...
 
+<!--section: 5.1-->
 ...című cikkében Horvát István nyomán a [[T/Török\|török]] (ami ugye eredetileg szkíta) név sémi ilyen vándor jelentésű szavait közli még (melyeket [[T/Tract\|tract]] címnél is hoztunk):  
 > Arab `tharaka`, semita `tarech`, `tiruch`, keleti `tarak`-`terek` és `tarasz`-`teresz` = vándor, kivándorló, kiköltöző.  
 
@@ -59,20 +74,26 @@ Bakos Attila A Duna Evangéliuma című könyvének 406. oldalán amikor a [[S/S
 
 A vándorlás viszont azon [[C/Cigány\|cigány]]okhoz köthető leginkább (a francia `gitan` szót is láttam vándornak fordítva), akiknek egyes cigányok védikus tanítói küldetést tulajdonítanak, dacára annak, hogy inkább sémi eredetűek (de kinézetre és nyelvük alapján is indiaiak).  
 
+<!--section: 6-->
 #### Czeglédi Katalin Földrajzi nevek és a magyar őstörténet – a Kárpát-medence földrajzi neveinek keleti kapcsolatai...
 
+<!--section: 6.1-->
 ...című Ősi Gyökér 2005/1. sz. megjelent cikkében egy korábbi vándorlásról van szó (a kontextust tekintve itt a már visszahúzódó jégpáncél utáni időkről van szó):  
 > A párhuzamos adatok vizsgálatakor nem hagyhatjuk figyelmen kívül azt, hogy "Az őskőkor vadászai az északra húzódó állatvilág nyomában zömmel maguk is északra vándoroltak..." (LÁSZLÓ 1999.I:38).  
 > Valószínű, "...Kisázsia felől hatoltak be hazánk... területére..." (LÁSZLÓ 1999.I:36). Miután "...a természeti környezetbe belenőtt ember együtt vándorol a megszokott "életterével", eleve fel kell tennünk, hogy a növény- és állatvilággal együtt déli népesség is érkezett Közép-Európába az előző korokból itt maradt népesség mellé." (LÁSZLÓ 1999.I:40).  
 
+<!--section: 7-->
 #### Kállay Ferenc A pogány magyarok vallása...
 
+<!--section: 7.1-->
 ...című könyvében írja:
 > A patriarchalis időszakokban ez a kóborgás rendes életmód volt, Herodot Jirken népe is ily járókelő volt, a török `jurok`, s magyar `járok` ázsiai csavargásainkra mutatnak, mikről azonban más alkalommal leend sző. ([Lásd 275. old.](zotero://open-pdf/library/items/DFI47XPY?page=275&annotation=G6PLJNEX))  
 - A [[J/Jár\|jár]] címnél említett héber `jareah` = Hold szóval kapcsolatban Kállay ezen könyvében viszont [[S/Sárga\|sárga]] szóhoz utasít.
 
+<!--section: 8-->
 #### Magyar Adorján Ősműveltség...  
 
+<!--section: 8.1-->
 ...című könyvében bemutat szinte minden őstörzshöz illetve nevükhöz kapcsolt mozgást leginkább menést haladást, vándorlást, bolyongást kifejező szavakat és maga is rájött hogy ezek a szavak nem feltétlenül emberekre utalnak hanem égitestekre. A magyar `megy`, kún `kam` és `mén` (mendegél), kőrös `halad`/`kalézol`, palóc `bolyong`, avar `barangol` mellett nyilván a pannonnak felelne meg a \*vándol, mely akár a [[V/Venue\|venue]] címnél taglalt jön témát is megoldaná. A jász szócsoport alábbi adatsoraát [[S/Sziget\|sziget]] címhez, az arab `jáziri` szóhoz tettük még legutóbb ([[J/Jász\|jász]] címnél is megvolt):  
 > A jász szócsoportnak is kellett legyen valamilyen a járást, vándorlást, bolyongást, mendegélést jelentő szavának, amely tehát jázás, juzás, ijázás, jizés alakú kellett legyen. És íme a szláv nyelvekben fönn is maradott `jezditi` utazást jelentő szó. De ezen föltételezett jázás szóra utal maga a magyar jár, járás szó is, mert hiszen az r-z mássalhangzó váltakozás, különösen a szó végén, ismeretes jelenség. De ugyan e szó jésítetlen alakját is megtaláljuk az olasz `ire` (hosszú í-vel, íre-nek ejtendő) = menni igében, valamint az olasz és német `errare` és `irren` (angol [[E/Err\|err]]) = bolyongani, tévelyegni igében is. Igaz hogy eme szavak az r hang révén kőrös szócsoportunkba tartoznak, de amint mondám, az r-z változás révén a jász szócsoporthoz is közel állóak.  
 
@@ -87,16 +108,21 @@ A vándor téma előjött Magyar Adorjánnál [[S/Stork\|stork]] címnél is.
 [[K/Kódor\|Kódor]] az Oriontól el nem választható kutyára vonatkoztatható, az imént említett kóbor változataként értelmezhető, azaz fontos tudni, hogy az évköri összefüggéseket ne felejtsük el.  
 [[G/Gyalog\|Gyalog]] szónál legutóbb járva, -og ég értelmére kitérve is a vándor fogalma ötlött fel: a vándor – ahogy Molnár V. József is említette – a Nap is, az ekliptikán járva.  
 
+<!--section: 9-->
 ## Vándor = Ember
 
+<!--section: 9.1-->
 A népek nevei illetve értelmük kapcsán elhangzik, hogy embert jelentenek (ainu, komi, stb.). Görbe ember témában ([[L/Lemniszkáta\|lemniszkáta]] és más címeknél volt róla szó) lehetne éppen Vándor = Hunter = Orion Isten(ember) és az [[E/Ember\|ember]] címnél taglalt Ikrek csillagképpel való azonosításban gondolkodni. Egyébiránt a szavak egymásnak változatai is lehetnek: váNDor < eMBer \[NG – MB/MP – ND váltásról volt szó több helyen\].  
 
+<!--section: 10-->
 ## Vándor = Madár
 
+<!--section: 10.1-->
 A vándormadár összefüggést ismerjük is. A [[M/Madár#Madárember\|madárember]] cím/alcímnél (valamint [[W/Wing\|wing]] és [[S/Szárny\|szárny]] címnél) is legutóbb taglalt témák és szavak nyomán azt is mondhatjuk, hogy nemcsak az [[E/Ember\|ember]] és [[H/Hungár\|hungár]], hanem (a [[V/Vandal\|vandál]]) és az ónorvég (inkább szárnyas vagy madár értelműnek tartható) `vængr` is, sőt maga a [[M/Madár\|madár]] ilyen alakú. Azaz a vándor is lényegében a madár-magyarok neve.  
 
 Lásd még [[K/Kószál\|kószál]] szónál taglalt szláv "nomád"-ot jelentő szavakat.  
 
+<!--section: 11-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
