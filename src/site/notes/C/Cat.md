@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cat/","title":"Cat","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T08:48","updated":"2026-06-22T17:46"}
+{"dg-publish":true,"permalink":"/C/Cat/","title":"Cat","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T08:48","updated":"2026-07-18T22:51"}
 ---
 
 
@@ -9,7 +9,7 @@
 > KACZÓR  
 >  (kacz-ór) fn. tt. kaczór-t, tb. ~ok, harm. szr. ~ja. Rokon a kaczor főnévvel s jelenti bizonyos növények leveleinek görbére hajlott fodrait, csipkéit. Gyöke, mint értelméből kitünik, a görbülést jelentő kacz.  
 
-Tomory Zsuzsa is [[K/Kacor\|Kacor]] király és kandúr szavakat hozza még fel.  
+Tomory Zsuzsa is [[K/Kacor\|Kacor]] király nevét és [[K/Kandúr\|kandúr]] szavunkat hozza fel.  
 
 CzF adata szintén:  
 > KACZ (4)  
@@ -23,11 +23,10 @@ CzF adata szintén:
 >
 > Az egyiptomiaknál a macska szent állat volt, amit kihasználva egy perzsa király úgy támadta meg az országot, hogy macskákkal árasztotta el és pajzsaikra is macskákat festetett.  
 
-
-Péterfai János írja még:  
+> 
 > Arpoxaisztól származnak a Katiarusok, Katiaroi, és a Traszpiesz nevű törzs tagjai. A Katiarusok a Kutrigurokkal is rokonok lehetnek, a nevek alapján. Azonban a Katiarusok elsősorban Háti-Árusok lehetnek, ami megfelel a szkíta életmódnak. A Hát és Káta rokon jelentésű szó, aminek elemzésére most nem térek ki. A Ka-Tiarus névben a Királyi Tiara értelme fedezhető fel. A Kati önmagában is Király, például a hattiban Kat a formája.  
 
-Nem vagyok a [[S/Szómegfordítás\|szómegfordítás]] híve, de feltűnő, hogy Cat megfordítva [[T/TAK\|tak]], mely Tik, Tek, Tök párjaként Napnév.  
+Nem vagyok a [[S/Szómegfordítás\|szómegfordítás]] híve, de feltűnő, hogy Cat megfordítva [[T/TAK\|Tak]], mely Tik, Tek, Tök párjaként Napnév.  
 
 Az albán nyelvben `dac` = macska, persze lehet éppúgy dacról nevezetes, mint ahogy egyesek magyarázata szerint a makacsról a macska[^1].  
 
@@ -64,7 +63,7 @@ Catuli neve kutyára utalva rendkívül érdekes, a [[K/Kutya és macska\|kutya 
 Mindkét szó, kutya és kat is kún/hun alakú szavak. A magyar eb és macska szavak nem hasonlítanak.  
 De mindkettő állat régi háziállatunk is, és lám, kutya a kútyával, kat (kac) a házzal hozható összefüggésbe. Arról is lehetne szólni, hogy régen az u és a hangok gyakran változtak egymással (erre jó bizonyíték az angol u hang, melyet tájjellegűen u-nak, a standard angol szabályoknak megfelelően a és ö hang között ejtenek).  
 
-Valpy latin etimológia szótárában előjön a latin `catulus` = rabszolgák által viselt vasból készült nyakörv ([[C/Carcanet\|carcanet]] és [[T/Torc\|torc]] is ilyesféle), mely szóra biz. Dacier azt írja, hogy `catuli`, azaz kutya nyakörve lehetett eredetileg. Lásd még Valpytól:  
+Valpy latin etimológia szótárában előjön a latin `catulus` = rabszolgák által viselt vasból készült nyakörv ([[C/Carcanet\|carcanet]] és [[T/Torc\|torc]] is ilyesféle), mely szóra biz. Dacier azt írja, hogy `catuli`, azaz kutyák nyakörve lehetett eredetileg (minthogy `catulus` = kutyakölyök; lásd [itt](https://en.wiktionary.org/wiki/catulus#Latin)). Lásd még Valpytól:  
 > **Cătŭlus**, a puppy, whelp. Also, the young of other animals. For _gatulus_ fr. **γέγατα** pp. of **γάω**, (whence in Homer **ἐγγεγάαα**) as **γόνος** and **ἔκγονον** are an offspring fr. **γείνω**, **γέγονα**, same as **γάω**. A little production. ¶ Al. from _catus_. A little sagacious thing. ¶ Varro says it is a diminutive of _canis_. Then it would be _canulus_, not _canitulus_, _catulus_.  
 
 Ha fentebb említettük Kacort, érdemes lenne esetleg [[K/Kacér\|kacér]] szavunkat is idevenni.  
