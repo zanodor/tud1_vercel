@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tégla/","title":"Tégla","created":"2024-04-18T15:36","updated":"2026-04-24T09:41"}
+{"dg-publish":true,"permalink":"/T/Tégla/","title":"Tégla","created":"2024-04-18T15:36","updated":"2026-07-18T22:54"}
 ---
 
 
