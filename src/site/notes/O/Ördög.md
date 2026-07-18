@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-03T12:19","updated":"2026-07-03T23:10"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-03T12:19","updated":"2026-07-18T22:49"}
 ---
 
 
@@ -318,7 +318,7 @@ Bobula Ida [[D/Drumó\|drumó]] címnél a szarvas sumér `Daramah` nevéből ve
 A [[P/Pán\|Pán]] és a [[B/Bűn\|bűn]] szavakhoz hasonló a közös eredetre visszavihető [[F/Fawn#Fawn 2)\|fawn]] és [[F/Faun\|faun]] is.  
 
 A [[F/Fehér és fekete\|fehér és fekete]] címnél, külön alcímnél taglalt féléveken uralkodó ikeristenségek negatív felét szamárral szokták jelképezni.  
-Valóban úgy tűnik, hogy minden negatív értelmű szó valamilyen módon a mag-magyarsághoz és (maradi/csillagvallási) vallási nézetükhöz, azok démonizálásához kötődik. Csökönyösek mint a [[S/Szamár\|szamár]], így hát többek közt a thrák eredetű román nyelvben is szamár = `maghiar` (magyar[^4]).  
+Valóban úgy tűnik, hogy minden negatív értelmű szó valamilyen módon a mag-magyarsághoz és (maradi/csillagvallási) vallási nézetükhöz, azok démonizálásához kötődik. Csökönyösek mint a [[S/Szamár\|szamár]], így hát többek közt a trák eredetű román nyelvben is szamár = `maghiar` (magyar[^4]).  
 Érdekes az [[O/Onager\|onager]] = vadszamár is, [[H/Hungár\|hungár]] olvasata miatt, ha már itt tartunk.  
 A bibliai Bálám (Bileám) szamara elnevezése hátterében [[B/Bál\|Bál]] isten és az annak hódoló előnép démonizálása lehet, illetve a [[S/Szamár csillagkép\|Szamár csillagkép]] téridőbeli helye definiálhatja (onnantól kezdődik a sötét félév; de a démonizáló szemiták számára aligha ez a csillagászati-mitológiai alapkiinduló tétel volt a meghatározó).  
 A korábbi vagy ellenséges nép nevének démonizálását érhetjük tetten másutt is: a görögök által újradefiniált [[B/Barbár\|barbár]] szó mellett említhető a görög eredetű [[T/Tyrant\|tyrant]] < [[T/Turán\|Turán]]i és az iráni [[A/Ahriman\|Ahriman]] < (turáni hunnak számító) [[O/Örmény\|örmény]]. Azt már másutt is láttuk, hogy a [[T/Tatár\|tatár]] a [[T/Tartarosz\|Tartarossz]]al párba állítva, a finnek felfogásában a gonosz területe Turjaként \[lásd [[T/Trója\|Trója]]\] megjelenve a másik, ellenséges népre utalva jön elő (a lappokra (utóbb) értve). De hát (a kiinduló Csudaszarvas-űző [[H/Hunor és Magor\|Hunor és Magor]] rendszerben) maguk a hunok is a magyarok ellennépe, ha úgy tetszik, így a [[H/Hun\|hun]] változatai, [[H/HAN\|HAN]] és [[J/Jón\|jón]] (ezen címnél 'idegen' szóba is kerül) is a másik/ellenséges [[F/Fél\|fél]]ként kezelt.  
