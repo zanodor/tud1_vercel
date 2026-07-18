@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Moon/","title":"Moon","tags":["containstransclusions"],"created":"2024-11-23T05:29","updated":"2026-06-22T17:50"}
+{"dg-publish":true,"permalink":"/M/Moon/","title":"Moon","tags":["containstransclusions"],"created":"2024-11-23T05:29","updated":"2026-07-18T22:52"}
 ---
 
 
@@ -222,9 +222,9 @@ A szláv nyelvek `nebo`, `nebe` = ég(bolt) szava is utalhat Nap szavunkra (lás
 De az ezekkel szinte azonos kuna indián nyelvű `naibe` = kígyó is Nap szavunk kell legyen, hisz az jár kígyózva (a [[K/Kígyó\|kígyó]] napjelkép is; lásd még [[E/Ecliptic\|ecliptic]] és [[S/Sine\|sine]] címnél csatolt képet is).  
 Inupiak nyelvben `napaaqtuq` = fa, mely nyilván életfára utal (az óegyiptomi `šn` = fa is Nap, szín \[szent\] szavunkat takarhatja).  
 
-A [[N/Napata\|Napata]] nevével megfeleltetett pre-római dák-szkíta alapítású [[N/Napoca\|Napoca]] [ezen](https://en.wikipedia.org/wiki/History_of_Cluj-Napoca) Wiki oldalon az etimológiai adatok közt találunk jó ötleteket még rokonításra: Hérodotosz által említett dák folyó, **Naparis**, dák-szkíta napae nevű törzs, ógörög `νάπος` (náposz) = fás völgy.  
+A [[N/Napata\|Napata]] nevével megfeleltetett pre-római dák-szkíta alapítású [[N/Napoca\|Napoca]] [ezen](https://en.wikipedia.org/wiki/History_of_Cluj-Napoca) Wiki oldalon az etimológiai adatok közt találunk jó ötleteket még rokonításra: Hérodotosz által említett dák folyó, **Naparis**, dák-szkíta napae nevű törzs, ógörög `νάπος` (`náposz`), `νᾰ́πη` (`nápé`) = fás völgy.  
 
-A [250711CN! PRISCOS 1](https://rumble.com/v6w1nx8-250711cn-priscos-1-kubnyi-tams-ktv.html?start=1653) című ÁKTV műsorban említett thrákiai **Noba** (latinul Novae) városának neve is ide tartozhat, ha a latinnal csak átírták az eredeti nevet.  
+A [250711CN! PRISCOS 1](https://rumble.com/v6w1nx8-250711cn-priscos-1-kubnyi-tams-ktv.html?start=1653) című ÁKTV műsorban említett trákiai **Noba** (latinul Novae) városának neve is ide tartozhat, ha a latinnal csak átírták az eredeti nevet.  
 
 Az arab `nabijj` ([lásd itt](https://en.wiktionary.org/wiki/nabi)) = próféta (héber `naví` és arámi `nəḇiyyā`) szavak (lásd még [[N/Nabu\|Nabu]] címnél is róluk) nyilván azon az alapon erednek Nap szavunkból, ahogy a [[S/Sámán\|sámán]] neve is ahhoz kötődik, de [[K/KIN\|KIN]] címnél álló Bakos Attila féle adat szerint a majáknál a Nap főpapjának neve is a Napot jelentő kin szóból indul ki.  
 Pálfi Károly A magyar nemzet ősvallása című könyvében írja ([107. oldalon](zotero://open-pdf/library/items/QVETUTRJ?page=107&annotation=JTHZX7GN)), hogy a vándor dalost a zsidók `nabi`-nak nevezték. Itt is a Nap a kiinduló, ahogy [[B/Bárd\|bárd]] szóban a [[B/BAR\|BAR]] napnév.  
