@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/God/","title":"God","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2026-03-23T23:27","updated":"2026-07-06T01:48"}
+{"dg-publish":true,"permalink":"/G/God/","title":"God","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2026-03-23T23:27","updated":"2026-07-18T22:49"}
 ---
 
 
@@ -459,11 +459,11 @@ Már Jacob Grimm idejében (Deutsche Mythologie, 1835) is kizárták, hogy etimo
 #### Üt
 
 Több helyen láttuk, hogy a hímségi nemzésre vagy élet elvételére utaló `üt` előhanggal jelenik meg, már amennyire a [[S/Süt\|süt]] jogos példaként hozható fel, vagy a Péterfai János által "kisebb" istenként említett [[G/Guta\|guta]] és a [[G/God#Kovácsisten\|kovácsisten]] részben Kuta-ként is taglalt isten neve is jól mutatja.  
-- Ezzel amennyiben guta = ütni, akkor a `gutaütés` szó ugyanolyan pleonasztikus hatású, mint a `békekötés`.
+- Ezzel amennyiben `guta` = ütni, akkor a `gutaütés` szó ugyanolyan pleonasztikus hatású, mint a `békekötés`.
 { #ny0sy5}
 
 
-Az tény, hogy a latin `cūdere` = ütni és szanszkrit `kut` = átver, átfúr szavakban is ott van az előhang. A grúz `kodala` = harkály szóban is meglehet az üt szó.  
+Az tény, hogy a latin `cūdere` = ütni és szanszkrit `kuṭṭ` = vág szavakban is ott van az előhang. A grúz `kodala` = harkály szóban is meglehet az üt szó.  
 
 Egy kevéssé valószínű elképzelés szerint tehát a Nap sumér [[U/UTU\|Utu]] nevének Ud változatából eredne egy \*Kud alak, vagy a hold szubar `HÚD` neve nyomán, úgy, hogy a kiinduló `üt` szavunk lenne, mely az egy > atya/ata/utu formákon keresztül alakult volna ki.  
 
