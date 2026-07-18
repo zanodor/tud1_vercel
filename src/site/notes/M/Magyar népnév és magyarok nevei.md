@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar népnév és magyarok nevei/","title":"Magyar népnév és a magyarok nevei","tags":["containstransclusions"],"created":"2025-09-29T02:33","updated":"2026-07-06T01:48"}
+{"dg-publish":true,"permalink":"/M/Magyar népnév és magyarok nevei/","title":"Magyar népnév és a magyarok nevei","tags":["containstransclusions"],"created":"2025-09-29T02:33","updated":"2026-07-18T22:50"}
 ---
 
 
@@ -107,7 +107,7 @@ A magyar ősiség bizonyítása kérdésében nagyon kellemes helyzetbe hozhatju
 [[G/Grandpierre Atilla\|Grandpierre Atilla]] A királyi mágusok című dolgozatában Módszertani észrevételek a magyar-hun-szkíta kultúra időhatárainak megállapításáról címmel szerepel egy kimutatás arról, hogy mikortól beszélhetünk ilyen vagy olyan nevű népről. Az ottaniakat én sem tudom elfogadni, és ennek olyan nyelvészeti okai vannak, amelyeket Grandpierre Atilla nem tud felvonultatni.  
 Grandpierre Atilla azt is írja, hogy helyesebb mindig hun-magyar népről beszélni, de azért látjuk mégis helyesebbnek a magyar, illetve magyar-hun népnév használatát, mert a [[T/Tarihi Üngürüsz\|Tarihi Üngürüsz]] őskori Csodaszarvas-mondájának legelején Magor neve Hunoré előtt szerepel, és ez azt jelzi, hogy a hun és magyar testvérnép közül a magyar az ősibb (GKE 1990, 17. és 40.-43. o.) \[ebben nem kell semmi lényegeset keresni mondjuk\]. A magyar nép és nevének folytonossága tehát legalábbis öt-tízezer évre, a vízözön koráig visszavezethető.  
 
-Az [alábbi](https://youtu.be/DqMogRPokq8) Turul és Szarvas IV. rész című ÁKA előadásban Kubínyi Tamás 1:12:50-nél megint azt a fals tudást (nála a [[M/Méd\|méd]] nép és önelnevezései a mérvadóak) veszi elő, hogy a magyar név/nép nem létezett addig, amíg a *[[H/Hét\|hét]] törzs* (vezető [[M/Megyer\|Megyer]]) nevében meg nem jelent. Ezt nem szabad tanítani, mármint hogy a magyarság biz. előnépei éltek volna a Kárpát-medencében, mert akkor beindul a pannon, dák, thrák és egyéb elméleteket gyártó gondolkodás. A már itt lakó [[S/Székely\|székely]]ek is magyarnak hívják a nyelvüket, nem székelynek. Nem igaz?  
+Az [alábbi](https://youtu.be/DqMogRPokq8) Turul és Szarvas IV. rész című ÁKA előadásban Kubínyi Tamás 1:12:50-nél megint azt a fals tudást (nála a [[M/Méd\|méd]] nép és önelnevezései a mérvadóak) veszi elő, hogy a magyar név/nép nem létezett addig, amíg a *[[H/Hét\|hét]] törzs* (vezető [[M/Megyer\|Megyer]]) nevében meg nem jelent. Ezt nem szabad tanítani, mármint hogy a magyarság biz. előnépei éltek volna a Kárpát-medencében, mert akkor beindul a pannon, dák, trák és egyéb elméleteket gyártó gondolkodás. A már itt lakó [[S/Székely\|székely]]ek is magyarnak hívják a nyelvüket, nem székelynek. Nem igaz?  
 
 Az Ősi Gyökér 1974/2-6. számában megjelent Magyar-viking kapcsolatok című cikkben is említett, a Magyar Történelmi Szemle 1972/1. számában helyet kapó Szepessy Géza: A Nagyszombati Vinland-térkép című tanulmányában az Orosius féle ó-angolszász kódexben 850 körül már mint országról beszél és világosan leirja, hogy "a horvátoktól északi irányban van Magyarország, mert nem vitatható, hogy a **Maegtjaland** nem lehet más nép nevével azonos.  
 
