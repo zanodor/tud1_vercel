@@ -24,7 +24,7 @@
 .callout[data-callout="important"] > .callout-title .callout-title-inner::before { content: "Fontos "; }
 
 .callout[data-callout="fail"] > .callout-title .callout-title-inner strong { display: none; }
-.callout[data-callout="fail"] > .callout-title .callout-title-inner::before { content: "Figyelem "; }
+.callout[data-callout="fail"] > .callout-title .callout-title-inner::before { content: "Tévedés "; }
 
 .callout[data-callout="note"] > .callout-title .callout-title-inner strong { display: none; }
 .callout[data-callout="note"] > .callout-title .callout-title-inner::before { content: "Jegyzet "; }
