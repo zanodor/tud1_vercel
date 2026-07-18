@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Káta/","title":"Káta","created":"2023-11-23T06:08","updated":"2026-05-21T05:06"}
+{"dg-publish":true,"permalink":"/K/Káta/","title":"Káta","created":"2023-11-23T06:08","updated":"2026-07-18T22:53"}
 ---
 
 
@@ -20,7 +20,7 @@ Na most, a helyzet az, hogy Pintye Mihály Besenyők és besgurok című Ősi Gy
 > Felfigyeltem arra, hogy több település határában (Monok, Hernádbűd), ahol honfoglalás előtti földvár van, azonos dűlőnevek jelölik azokat: kata, gata. A földvár funkciója védelem, ezért a káta változatának tekinthető [[G/Gát\|gát]] szavunk. A káta fegyveres védője a [[K/Katona\|katona]].  
 - Nem ilyen egyszerű.
 
-Borbola János A kota és a ház című az Ősi Gyökér 2008/2. sz. megjelent cikkében hasonló szóvázú szavakkal foglalkozik. Amikor megemlíti a maláj `kota`, `kotta` = város szót kota alakú, ház, városnegyed és hasonló jelentésekkel álló germán szavak után, rögtön eszembe jutott a `káta` = város jelentése, dacára annak, hogy [[K/Kutya\|kutya]] címnél az eredeteként megadott szanszkrit `kuta` = erőd jelentésű szó (azonos az alábbi[^2] tagalog szóval) kapcsán a [[H/Huta\|huta]] név kapcsán is taglalt hegy jelentést vettem figyelembe.  
+Borbola János A kota és a ház című az Ősi Gyökér 2008/2. sz. megjelent cikkében hasonló szóvázú szavakkal foglalkozik. Amikor megemlíti a maláj `kota`, `kotta` = város szót kota alakú, ház, városnegyed és hasonló jelentésekkel álló germán szavak után, rögtön eszembe jutott a `káta` = város jelentése, dacára annak, hogy [[K/Kutya\|kutya]] címnél az eredeteként megadott dravida eredetre visszavitt szanszkrit `कोट` (`kota`) = erőd jelentésű (lásd [itt](https://en.wiktionary.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%9F#Sanskrit)) szó (azonos az alábbi[^2] tagalog szóval) kapcsán a [[H/Huta\|huta]] név kapcsán is taglalt hegy jelentést vettem figyelembe.  
 - Igen, a [[K/Kanada\|Kanada]] név eredetét adó indián szavak kapcsán is elmondtuk, hogy a település a házak összessége.
 Míg a [[C/Chain\|chain]] címnél talált etruszk-latin `catēna` szóhoz hasonlított, a [[K/Katona\|katona]] szavunk eredetének megfejtésére vállakozó, név nélküli Quorás beíró [ezen](https://qr.ae/pGYz9J) válaszában hozott, feltehetően illír eredetű román `cătun` = település, falu szó (vö. albán `katund` = falu; bolgár `katun` párját is említi) kapcsán is elmondtuk ugyanezt. És ha a település házakból áll, akkor ott a finn nyelvű [[K/Kota\|kota]], mely még az óegyiptomi nyelvben is fellelhető lakok [[H/Ház#^cegrf0\|Magyar Adorján által megadott]] `kut` nevével is azonos.  
 Egyúttal itt kereshető a város káta nevének eredete is, ha nem az elkerítés [[G/Ghetto\|ghetto]] címnél is taglalt ideájából.  
