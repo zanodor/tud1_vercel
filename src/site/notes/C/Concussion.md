@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Concussion/","title":"Concussion","created":"2024-11-05T19:11","updated":"2026-06-13T23:24"}
+{"dg-publish":true,"permalink":"/C/Concussion/","title":"Concussion","created":"2024-11-05T19:11","updated":"2026-07-18T22:53"}
 ---
 
 
@@ -7,19 +7,24 @@
 
 Megrázkódás; agyrázkódás.  
 Az idetartozó latin szavak concuss-, `concussio(n)`, `concutere`, mely felbontható [[C/Con- prefixum\|con- prefixum]]ra és egy rázni, ütni jelentéssel megadott `quatere` szóra, melyről azonnal felismerhető, hogy talán a [[Q/Quota\|quota]] = hányad, kvóta és a [[Q/Quarter\|quarter]] szó elődjének tekintendő `quartus` = negyed és `quattor` = négy szavakkal is kapcsolatba hozható.  
-Valójában csak hasonló szavakról van szó, mert a quattor elődje a [[C/Csütörtök\|csütörtök]] szónál szereplő csötör, míg a latin `quota` és `quatere` elődje azon [[K/KAT\|KAT]] lehet, mely ma kasz- igegyökként ismert és [[C/Cut\|cut]] szóval is megfeleltethető (távolabbról csata, [[K/Kattar\|Kattar]], stb. nevekkel, melyeket lásd [[C/Cata- prefixum\|cata- prefixum]], [[C/Cadaver\|cadaver]] és [[K/Kata\|kata]]).  
+> [!lasdmeg] &nbsp;
+> > [!example] &nbsp;
+> > A török `dört` = négy is a `tör` igénkkel hozható kapcsolatba.
+
+De lehet, hogy csak hasonló szavakról van szó, mert a `quattor` elődje a [[C/Csütörtök\|csütörtök]] szónál szereplő \*csötör, míg a latin `quota` és `quatere` elődje azon [[K/KAT\|KAT]] lehet, mely ma kasz- igegyökként ismert és [[C/Cut\|cut]] szóval is megfeleltethető (távolabbról csata, [[K/Kattar\|Kattar]], stb. nevekkel, melyeket lásd [[C/Cata- prefixum\|cata- prefixum]], [[C/Cadaver\|cadaver]] és [[K/Kata\|kata]]).  
 Ezek alapján `quatere` nem rázni, hanem szétrázni, szétszedni, szétütni, tehát a [[K/Köt\|köt]]ni jelentésével ellentétes ([[K/KAT\|kat]]) értelmű. A rázkódást és a megrázkódtatást is mindig a [[N/Nagy Év\|Nagy Év]]ben [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] stációban értelmezett korszakváltozásokkal járó kataklizmák (lásd sok új gondolatot [[C/Cataclysm\|cataclysm]]) okozzák.  
-A [[S/Seismic\|seismic]] szónál előjövő görög `seismos` = földrengés és seien = rázni szavak is mutatnak rokonságot szét szavunkkal, bár az igéről el kell itt is dönteni, hogy utólag képzett-e: valószínűleg igen.  
+A [[S/Seismic\|seismic]] szónál előjövő görög `seismos` = földrengés és `seien` = rázni szavak is mutatnak rokonságot szét szavunkkal, bár az igéről el kell itt is dönteni, hogy utólag képzett-e: valószínűleg igen.  
 
 A \*cutere ill. quatere igék melléknévi igeneveit CzF guta szónál hozza:  
-> GUTA (1) (gut-a) fn. tt. gutát, tb. guták. Szélütés, hirtelen halál. Jaj, megüt a guta. Üssön meg a guta. Fél guta. Néha csudálkozást jelentő indulatszó. Mi a guta?! A gutát! Átv. ért. a lapos guta megütötte az erszényét, am. semmi sincs benne, kiürült. Helynév is. l. mindjárt alább. Meghúzta magát, mint Guta mellett a mennykő. (Km.). Rokon vele a chaldeai `gutáh`, latin \[per-, con-\]`cutio`, `quatio`, szanszkrit `kut` \[átver, átfúr\], franczia `goutte`, létezik a dalmát nyelvben is: `guta`; legegyszerűbb elem a magyar üt, melyből torokhang előtételével: güt, s alhangon: gut származtatható.  
+> GUTA (1) (gut-a) fn. tt. gutát, tb. guták. Szélütés, hirtelen halál. Jaj, megüt a guta. Üssön meg a guta. Fél guta. Néha csudálkozást jelentő indulatszó. Mi a guta?! A gutát! Átv. ért. a lapos guta megütötte az erszényét, am. semmi sincs benne, kiürült. Helynév is. l. mindjárt alább. Meghúzta magát, mint Guta mellett a mennykő. (Km.). Rokon vele a chaldeai `gutáh`, latin `percutio`, `concutio`, `quatio`, szanszkrit `kut` \[átver, átfúr\], franczia `goutte`, létezik a dalmát nyelvben is: `guta`; legegyszerűbb elem a magyar üt, melyből torokhang előtételével: güt, s alhangon: gut származtatható.  
+- Nos, a szanszkrit szót vélhetően gyökként és egy általános jelentéssel adhatták meg, mert a szanszkrit `कूट` (`kūṭa`) = kalapács (valóban ütni lehet vele), `कुट्ट्` (`kuṭṭ`) = vág, zúz, őröl, apróra tör szavak helyesebb alakok.
 
 [[G/Guta\|Guta]] szóról Péterfai János is ír, lásd ott.  
 Persze [[K/Koccan\|koccan]] szavunknál is szerepelhetett volna CzF adata, mert ez adja ki a latin szót. Koccannak \*kuccan hangalakos változata is lehetett.  
 
-A szanszkrit `kut` = átver, átfúr jelentése azért érdekes, mert az angol [[F/Four\|four]] = négy szót is tűz és fúr jelentésekkel adtuk meg. Ezen fúrás, csavarás, csötörés, szét, azaz elemeire, tagokra rázás, bontás mind kapcsolatba hozható a Kis és Nagy Év évszakaira és világkorszakokra bontással.  
+A szanszkrit `कुट्ट्` (`kuṭṭ`) = vág, zúz, őröl jelentése is érdekes, mert az angol [[F/Four\|four]] = négy szót is tűz és fúr jelentésekkel adtuk meg. Ezen fúrás, csavarás, csötörés, szét, azaz elemeire, tagokra rázás, bontás mind kapcsolatba hozható a Kis és Nagy Év évszakaira és világkorszakokra bontással.  
 
-A latin `cūdere` = ütni, szanszkrit `kut` = átver, átfúr (lyukat, kutat fúr?), sőt, a kecsua `kutay` = ököllel üt, koccanás, és egy Ősi Gyökeres Tibold Makk Szabina adataként előjövő japán `kodo` = szívdobbanás (lásd róla [[D/Dob\|dob]]) olyan szavak, melyek elárulják (lásd még hasonlókat [[K/Kite\|kite]] és [[S/Sagittarius\|Sagittarius]] címnél is), hogy a hímségi ([[U/UT\|UT]] Napnévből képzett) üt[^1] szavunknak s-előhangos (mint [[S/Süt#Kentum kut és szatem süt alakok skut alakba való összevonása\|süt]] – elsüt; lásd még [[S/Shoot\|shoot]]) változata mellett k-előhangos kún-hun eredetű változata is létezett. Hogy az ütés itt nemző (mint [[K/Kutyanemzés\|kutyanemzés]]) vagy test sérülésére irányuló, nos, hímségiek lévén, "egy kutya."
+A latin `cūdere` = ütni, szanszkrit `kuṭṭ` = vág, sőt, a kecsua `kutay` = ököllel üt, koccanás, és egy Ősi Gyökeres Tibold Makk Szabina adataként előjövő japán `kodo` = szívdobbanás (lásd róla [[D/Dob\|dob]]) olyan szavak, melyek elárulják (lásd még hasonlókat [[K/Kite\|kite]] és [[S/Sagittarius\|Sagittarius]] címnél is), hogy a hímségi ([[U/UT\|UT]] Napnévből képzett) üt[^1] szavunknak s-előhangos (mint [[S/Süt#Kentum kut és szatem süt alakok skut alakba való összevonása\|süt]] – elsüt; lásd még [[S/Shoot\|shoot]]) változata mellett k-előhangos kún-hun eredetű változata is létezett. Hogy az ütés itt nemző (mint [[K/Kutyanemzés\|kutyanemzés]]) vagy test sérülésére irányuló, nos, hímségiek lévén, "egy kutya."
 { #apmcg1}
 
 - Vesd össze: hímségi lök – nőiségi luk illetve lók. Egy hímségi adó képességhez járul egy nőiségi befogadó képesség, azonos hangalakú szavakkal kifejezve. Itt is erről van szó.
