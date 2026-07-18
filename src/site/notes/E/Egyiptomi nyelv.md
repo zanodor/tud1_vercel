@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Egyiptomi nyelv/","title":"Egyiptomi nyelv","tags":["containstransclusions"],"created":"2026-04-03T20:02","updated":"2026-06-22T17:51"}
+{"dg-publish":true,"permalink":"/E/Egyiptomi nyelv/","title":"Egyiptomi nyelv","tags":["containstransclusions"],"created":"2026-04-03T20:02","updated":"2026-07-18T22:53"}
 ---
 
 
