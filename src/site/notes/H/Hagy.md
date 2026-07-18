@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hagy/","title":"Hagy","tags":["Englishtexttranslated","containscallouts"],"created":"2024-11-09T01:30","updated":"2026-04-03T04:52"}
+{"dg-publish":true,"permalink":"/H/Hagy/","title":"Hagy","tags":["Englishtexttranslated","containscallouts"],"created":"2024-11-09T01:30","updated":"2026-07-18T22:53"}
 ---
 
 
@@ -22,7 +22,7 @@ Szinte azonos vele a tagmondatok összekötésére használt, és így kuta/[[K/
 Az észt `kadu` = veszteség mutat rá, hogy ez a szó tulajdonképpen a [[M/Miss#Eltéveszt – elveszít rokon fogalmai\|miss]] = hiányol ige k-előtétes változata. Ahogy [[H/Hun szavak\|hun szavak]] címnél is szerepelt, a metsz/mes felel meg a [[K/KAT\|kat]]/[[K/Kés\|kés]] szónak.  
 
 Másik megközelítése:  
-A legutóbb [[L/Left\|left]] címnél írottak alapján (minthogy elhagyni = elválasztódni) hagy igénk váza úgy aránylik a [[K/KAT\|KAT]]/[[C/Cut\|cut]]/[[K/Kutya\|kutya]] K-T/K-Ty vázához, ahogy [[H/Hegy\|hegy]] szavunk a szanszkrit `kuta` = hegy és az ennek megfelelő dél-amerikai warao `hota` = hegy szavak vázához.  
+A legutóbb [[L/Left\|left]] címnél írottak alapján (minthogy elhagyni = elválasztódni) `hagy` igénk váza úgy aránylik a [[K/KAT\|KAT]]/[[C/Cut\|cut]]/[[K/Kutya\|kutya]] K-T/K-Ty vázához, ahogy [[H/Hegy\|hegy]] szavunk a szanszkrit `कूट॑` (`kū́ṭa`) = kiszögellés, csúcs; homlokcsont, szarv; ház, és az ennek megfelelő dél-amerikai warao `hota` = hegy szavak vázához.  
 
 Az észt `kadu` = veszteség szó alakja és jelentése kapcsán említsük meg az arab `khata` = hiba szót is, mely nyilván a téved(és) fogalmát hordozza; hasonló alakú a [[K/Kutya\|kutya]] szavunk (vö. [[E/EB\|eb]] – [[H/Hiba\|hiba]] összefüggésével) is; az ördögre utaló tévedés (tévely > devil) itt is megmutatkozik: a kutya a sötét félévet nyitja, ott ahol a Tejút sávja az éggömböt mesi/metszi ([[M/Miss#Miss 2)\|miss]], [[C/Cut\|cut]]/[[K/KAT\|kat]]).  
 
@@ -44,7 +44,7 @@ card "magyar <color:#e7545c>kat</color>/<color:#e7545c>kés</color>" as katkés
 card "magyar <color:#e7545c>hagy</color>" as hagy
 card "<color:#e7545c>KAT</color>/<color:#e7545c>cut</color>/<color:#e7545c>kutya</color>" as KATcutkutya
 card "magyar <color:#e7545c>hegy</color>" as hegy
-card "szanszkrit <color:#e7545c>kuta</color>" as kuta
+card "szanszkrit <color:#e7545c>kū́ṭa</color>" as kuta
 card "warao <color:#e7545c>hota</color>" as hota
 card "arab <color:#e7545c>khata</color>" as khata
 card "magyar <color:#e7545c>hiba</color>" as hiba
@@ -57,7 +57,7 @@ miss -- metszmes : rokon értelmű
 metszmes -- katkés
 miss -- hagy : elhagy = elválasztódni
 hagy -- KATcutkutya
-hegy -- kuta : "jelentése: hegy"
+hegy -- kuta : "jelentése: csúcs"
 hegy -- hota : "jelentése: hegy"
 kadu -- khata : hasonló alakú
 khata -- hiba : "jelentése: hiba"
