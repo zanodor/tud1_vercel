@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fekete napistenek/","title":"Fekete napistenek","created":"2023-10-23T02:58","updated":"2024-10-25T18:43"}
+{"dg-publish":true,"permalink":"/F/Fekete napistenek/","title":"Fekete napistenek","created":"2023-10-23T02:58","updated":"2026-07-18T22:54"}
 ---
 
 
