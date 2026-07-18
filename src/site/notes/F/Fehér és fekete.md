@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya","containscallouts"],"created":"2023-11-17T03:47","updated":"2026-06-22T19:07"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya","containscallouts"],"created":"2023-11-17T03:47","updated":"2026-07-18T22:49"}
 ---
 
 
@@ -327,7 +327,7 @@ Antal István Tündéres, derengő című Ősi Gyökér 2005/4. sz. megjelent ci
 Ez a [[H/Homály\|homály]] szó például a [[G/Gomoly\|gomoly]], [[K/Komoly\|komoly]], [[K/Komor\|komor]] szavakon keresztül a [[K/Khamor\|Khamor]]-[[H/Hunor\|Hunor]] névhez vezetnek el.  
 [[K/Khamor\|Khamor]] és [[S/Sacchar-\|sacchar-]] címnél vizsgáltuk az utóbbi időben a nyári napfordulós féléveket elvágó téridőbeli helyre utaló szavakat.  
 A [[C/Crab\|crab]] és [[G/Garbhóg\|Garbhóg]] címnél talált nevek és információk, és a [[V/VAK\|vak]] és [[C/Cyclops\|cyclops]] címnél írottak alapján haladunk tovább.  
-[[N/Nap – fekete Nap\|Nap – fekete Nap]] címnél említettük a kelta névvel rokon, [ezen](https://qr.ae/pGRCcT) Quora válaszban és alant szlávos alcímnél is taglalt/említett szláv Chernobog-ot: fekete Nap, de a szlávban már [[B/BOG\|bog]] = Isten lett[^6].  
+[[N/Nap – fekete Nap\|Nap – fekete Nap]] címnél említettük a kelta névvel rokon, [ezen](https://qr.ae/pGRCcT) Quora válaszban és alant szlávos alcímnél is taglalt/említett szláv Chernobog-ot: fekete Nap, de a szlávban már [[B/BOG\|bog]] = Isten lett[^6].
 Közben azon választ kiegészíthettem volna a Rákra, mint csillagképre utaló [[C/Crab\|crab]] névnél/címnél álló nevekkel (figyeljük meg, szinte azonosak a kelta névvel):  
 A Magyar Adorján által említett latin `carabus` = bogár szavunknak ősnyelvünkbeli karabug = fekete bogár avagy fekete állat jelentéssel megállapított fogalmai mögött a világos és sötét [[F/Félév\|félév]]re utaló Napokat kell meglátni, melyekről (csak egy szemre irányuló) [[V/VAK\|vak]]ság kapcsán [[C/Cyclops\|cyclops]] címnél is volt szó: a Szíriusz-Orionból létrehozott, a Tejút északi felén található Nyilazó [[I/Íj csillagkép\|Íj csillagkép]] az Ikrek-Rák csillagképek határpontján bekövetkező sötét félévbe lépés téridőbeli pontját mutatja és mitológiai képek, jellemzők írják le ennek a helynek a fontosságát, jelen esetben a vak oldalnak az egyiptomi [[S/Széth\|Széth]] (sötét = fekete = vak) felel meg, kinek pozitívnak beállított ellenpárja Ozirisz (és később fia, Hórusz).  
 
@@ -339,7 +339,7 @@ Több címnél szerepeltek az alábbiak:
 Amikor [ezen](http://members.chello.at/heinz.pohl/Ortsnamen_E.pdf) szláv toponimákat német nyelvűre cserélést taglaló tanulmányban megláttam egy szlovén folyónevet németre fordítva...  
 - Slovenian Bela – German Vellach (Velach 'white river')
 
-...akkor ötlött fel (annak figyelembevételével, hogy vajon hogy került a -ch végződés oda a német szóba?), hogy a magyarosított [[O/Oláh\|oláh]] [[O/O\|O]] hangja valóban eredetileg B/P lehetett, ahol a kiinduló [[B/Balog\|Balog]]-**Orion mivel az évet ketté osztó ponton van**, lehet fehér és fekete értelemmel társított.  
+...akkor ötlött fel (annak figyelembevételével, hogy vajon hogy került a -ch végződés oda a német szóba?), hogy a magyarosított [[O/Oláh\|oláh]] [[O/O\|o]] hangja a v hang előtt valóban eredetileg B/P lehetett, ahol a kiinduló [[B/Balog\|Balog]]-**Orion mivel az évet ketté osztó ponton van**, lehet fehér és fekete értelemmel társított.  
 A kérdés itt még az, hogy a magyar nyelvben a [[B/Bal\|bal]] oldal a Tejút bal = fényes vagy a másik, sötét (fekete) oldala? (Ugyanis [[B/Bál\|Bál]] eredetileg Napistennév, de Bal-Og inkább Nap az Orionban állásra utal.)  
 [[B/Bal és jobb\|Bal és jobb]] címnél[^7] (valamint [[H/Hunor és Magor\|Hunor és Magor]] címnél, Hunyor témája kapcsán) már taglalt témáról kell itt még szólni: melyik a női és melyik a férfi, azaz melyik a sötét és melyik a világos oldal? Figyelembe vehető-e a jin-jang ábra fehér és fekete fele (mindig a bal a világos oldal, gondolom; nem ábrázolták fordítva) analógiaként vagy mintaként? Nyilván igen. Ugyebár a növekvő [[F/Félév\|félév]] van bal oldalon: télitől a nyári napfordulóig, és jobb oldalon a [[H/Hanyatlik\|Hanyatló]] ([[H/HAN\|HAN]]) félév.  
 Azt is fontos még itt kiemelni, hogy ha folyónév is lehet B-L, V-L vázú (mint a nőiségi [[B/Belili\|Belili]] név is), akkor a Tejútról való leszármazás is állhat az [[O/Oláh\|oláh]]ok neve mögött.  
