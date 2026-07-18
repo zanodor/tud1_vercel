@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2026-06-26T22:57"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2026-07-18T22:48"}
 ---
 
 
@@ -195,7 +195,7 @@ A mai nézet szerint a [[P/Pogány\|pogány]] annyi, mint hitetlen vagy nem-kere
 
 Ha [[C/Columbus\|Columbus]] nem tudta (dehogynem) vagy Nyugat-Európa nem tudta, hogy Amerika létezik, akkor senki sem tudta; felfedezték ([[J/Janus Pannonius\|Janus Pannonius]] tudta). **Euro-centrista felfogás** (egyes amerikai földrészről valók ki is kérik maguknak).
 
-**Indo-euro-centrista felfogás**nak nevezhető, amikor a tudomány a nyelv és kultúra vizsgálatában csak a keletről nyugatra történő népmozgásokkal foglalkozik, vagy pl. a sumér kultúra terjedésére vonatkozóan egy dél-északi ill. délnyugat-északkeleti irányultságra mutat rá. Ahogy [ezen](https://qr.ae/pADZIE) Quora válaszban is írtam, ezeknél a jegyüzéreknél csak egyirányú ("csak oda") jegyet vehetsz. A tudomány nem törődik a korábbi mozgásokkal illetve pl. a Pap Gábor előadásaiból is ismert pulzáló mozgásainkkal, amiről [[I/Indo-európai nyelvcsalád#^zvyi26\|itt]] is volt szó.  
+**Indo-euro-centrista felfogás**nak nevezhető, amikor a tudomány a nyelv és kultúra vizsgálatában csak a keletről nyugatra történő népmozgásokkal foglalkozik, vagy pl. a sumér kultúra terjedésére vonatkozóan egy dél-északi ill. délnyugat-északkeleti irányultságra mutat rá. Ahogy [ezen](https://qr.ae/pADZIE) Quora válaszban is írtam, ezeknél a jegyüzéreknél csak egyirányú ("csak oda") jegyet vehetsz. A tudomány nem törődik a korábbi mozgásokkal illetve pl. a Pap Gábor előadásaiból is ismert pulzáló mozgásainkkal, amiről [[I/Indo-európai nyelvcsalád#^260625\|itt]] is volt szó.  
 
 A nyelvészet által diktált tudományosságnál maradva, **finnugrista kommunista buta felfogás** a sehonnan származtatható [[M/Magyar nyelv ismeretlen eredetű szavai\|magyar szavakat ismeretlen eredetűnek]] besorolni. Számára ismeretlen, mert nem ér fel arra a szintre, hogy pl. egy [[T/Tölgy\|tölgy]] szót értelmezni tudjon.  
 
