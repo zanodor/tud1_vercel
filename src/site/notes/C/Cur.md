@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cur/","title":"Cur","tags":["Englishtexttranslated"],"created":"2023-11-05T01:48","updated":"2024-10-25T16:52"}
+{"dg-publish":true,"permalink":"/C/Cur/","title":"Cur","tags":["Englishtexttranslated"],"created":"2023-11-05T01:48","updated":"2026-07-18T22:54"}
 ---
 
 
