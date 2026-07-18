@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kentum-szatem szabály/","title":"Kentum-szatem szabály","tags":["containstransclusions"],"created":"2025-05-29T17:30","updated":"2026-05-08T02:24"}
+{"dg-publish":true,"permalink":"/K/Kentum-szatem szabály/","title":"Kentum-szatem szabály","tags":["containstransclusions"],"created":"2025-05-29T17:30","updated":"2026-07-18T22:51"}
 ---
 
 
@@ -101,7 +101,15 @@ Jó példa a kentum-szatem ágak összetartozóságára a svéd/norvég K hang, 
 A Kabar, Kovár a Kentum hangzás alapján kimondott nevek, amelyek *keleties* Szatem hangzás alapján Szabar, Szovár hangzásúak, írtuk hasonlóan [[A/Algebra\|algebra]] címnél is.  
 
 [[C/Concussion\|Concussion]] címnél is szerepeltek az alábbiak:  
-A latin `cūdere` = ütni, szanszkrit `kut` = átver, átfúr (lyukat, kutat fúr?), sőt, a kecsua `kutay` = ököllel üt, koccanás, és egy Ősi Gyökeres Tibold Makk Szabina adataként előjövő japán `kodo` = szívdobbanás (lásd róla [[D/Dob\|dob]]) olyan szavak, melyek elárulják (lásd még hasonlókat [[K/Kite\|kite]] és [[S/Sagittarius\|Sagittarius]] címnél is), hogy a hímségi ([[U/UT\|UT]] Napnévből képzett) üt szavunknak (vö. a belőle képzett török `ütü` = vas) s-előhangos (mint süt – elsüt; lásd [[S/Shoot\|shoot]]) változata mellett k-előhangos kún-hun eredetű változata is létezett. Hogy az ütés itt nemző (mint [[K/Kutyanemzés\|kutyanemzés]]) vagy test sérülésére irányuló, nos, hímségiek lévén, "egy kutya."
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/C/Concussion/#apmcg1" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+A latin `cūdere` = ütni, szanszkrit `kuṭṭ` = vág, sőt, a kecsua `kutay` = ököllel üt, koccanás, és egy Ősi Gyökeres Tibold Makk Szabina adataként előjövő japán `kodo` = szívdobbanás (lásd róla [[D/Dob\|dob]]) olyan szavak, melyek elárulják (lásd még hasonlókat [[K/Kite\|kite]] és [[S/Sagittarius\|Sagittarius]] címnél is), hogy a hímségi ([[U/UT\|UT]] Napnévből képzett) üt[^1] szavunknak s-előhangos (mint [[S/Süt#Kentum kut és szatem süt alakok skut alakba való összevonása\|süt]] – elsüt; lásd még [[S/Shoot\|shoot]]) változata mellett k-előhangos kún-hun eredetű változata is létezett. Hogy az ütés itt nemző (mint [[K/Kutyanemzés\|kutyanemzés]]) vagy test sérülésére irányuló, nos, hímségiek lévén, "egy kutya." 
+
+</div></div>
+
 
 Az, hogy a szatem keleties, lehet, hogy igaz, de legutóbb [[C/Csuda\|csuda]] címnél kifejtettük, hogy a magyar nyelv magában hordozza a lehetőséget arra, hogy egyes kemény hangzói (mint a K) meglehessenek s, sz, cs formában is, némi jelentésmódosulattal is. Így a Magyar Adorján által taglalt régi `csod` vagy `csud` = "süt, fény, ég" keményebb, eredetibb párja lehet [[K/Kut\|kut]], [[C/Csuda\|csudá]]nak pedig [[K/Kutya\|kutya]], de eredeti a [[S/Süt\|süt]] is (hisz ez [[T/Tűz\|tűz]] szavunk megfordítása), valamint [[H/HUD\|HUD]], [[G/GUD\|GUD]] formák is léteznek ilyen fény jelentéssel. Az is igaz, hogy [[S/Sapka\|sapka]] szavunk kapcsán meg épp azt feltételeztük, hogy inkább egy k-előtétes szó lehetett eredeti. ([[S/Száj\|Száj]] párjaként felmerült közben [[K/Káva\|káva]], jegyzem meg, illetve a [[S/SZA\|SZA]] hasonló fény; száj jelentésekkel áll, mint [[K/KU\|KU]].)
 { #i1e0w6}
