@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/L/Logikai gondolattársítás, gondolatfűzés/","title":"Logikai gondolattársítás, gondolatfűzés","created":"2024-05-08T13:53","updated":"2024-10-25T22:34"}
+{"dg-publish":true,"permalink":"/L/Logikai gondolattársítás, gondolatfűzés/","title":"Logikai gondolattársítás, gondolatfűzés","created":"2024-05-08T13:53","updated":"2026-07-18T22:54"}
 ---
 
 
 # Logikai gondolattársítás, gondolatfűzés
 
-Több helyen, YouTube kommentfelületén és egy cikkemben Quorán is rámutattam, hogy nagyon fontos, hogy a megfelelő logika mentén kapcsoljunk össze két dolgot és még többet (kivált olyan dolgokról, melyek több ezer éves múltját kutatva innen nézve nehezen értelmezhetők).  
+Több helyen, YouTube kommentfelületén és egy cikkemben Quorán is rámutattam, hogy rengeteg szillogizmussal operálnak (a [[T/Tudomány\|tudomány]] is) és hogy nagyon fontos, hogy a megfelelő logika mentén kapcsoljunk össze két dolgot vagy még többet (kivált olyan dolgokról, melyek több ezer éves múltját kutatva innen nézve nehezen értelmezhetők).  
 
 #### Antal István Tündéres, derengő...
 
