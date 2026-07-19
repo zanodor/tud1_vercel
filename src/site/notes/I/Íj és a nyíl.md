@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2026-06-22T17:42"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2026-07-19T04:28"}
 ---
 
 
@@ -39,8 +39,9 @@ Kezdjük a szexuális tartalommal. Már [[K/Kutyanemzés\|kutyanemzés]] címné
 - A Šà\.zi\.ga névről lásd lábjegyzetben: [^1]. <br/>
 Az akkád `ūru` = vagina, vulva szó nyilván a (betöltendő) űrre és egyúttal az égre utal. A kutya [[U/UR\|UR]] neve kankutya név, a kan helyén másutt [[S/Szuka\|szuka]] (mint [[S/Sarama\|Sarama]]) van.  
 A szexuális szimbolika úgy képzelhető el, hogy a mellékelt képen Nut az íj és Geb hímvesszeje a nyíl.  
+![assets/Ijesnyil_image2.png|fix_dark fix_light|840](/img/user/I/assets/Ijesnyil_image2.png)  { #iq12tu}
 
-![assets/Ijesnyil_image2.png|fix_dark fix_light|840](/img/user/I/assets/Ijesnyil_image2.png)  
+
 Igen furcsa, hogy a nő a szuka és a kan nemi szerveivel példálózik. Ennek egyetlen oka lehet. Hogy ismerték a [[S/Szíriusz\|Szíriusz]]\(ban álló Nap (erejéből származó)) nemző szerepét, vagy legalábbis hagyományából valamennyi fennmaradt.  
 
 #### Stephanie Lynn Budin Women in Antiquity...  
