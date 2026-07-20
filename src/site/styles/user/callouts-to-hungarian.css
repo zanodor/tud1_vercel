@@ -1,5 +1,10 @@
 /* Now applies globally: Hungarian callout titles for all Obsidian callout types */
-/* Renames via https://share.google/aimode/0rzJ1IzwwwMo9EF8P */
+
+/*** Callout spacing fix - padding after title before content ***/
+.callout-title {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
 
 /* Flexbox layout for callout headers */
 .callout > .callout-title {
