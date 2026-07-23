@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szampó/","title":"Szampó","created":"2023-10-10T03:42","updated":"2026-06-19T22:16"}
+{"dg-publish":true,"permalink":"/S/Szampó/","title":"Szampó","created":"2023-10-10T03:42","updated":"2026-07-23T11:45"}
 ---
 
 
@@ -15,7 +15,7 @@ Ezen tibeti névvel azonos a Varga Zsigmond Az ősmagyar mitológia című köny
 
 Kandra Kabos Magyar Mythologia című könyvének 33. oldalán előjön a mordvai égisten Csám-Páz[^1] neve, mely szintén hasonló ezekhez.  
 
-Hogy a japán `szanpo` = sétál, jár szó tartható-e a fentiekhez, nem tudni. Az tény, hogy a [[J/Jár\|jár]] több nyelven idő, év, azaz kozmikus-Hamlet malma vonatkozású.  
+Hogy a japán `szanpo` = sétál, jár szó tartható-e a fentiekhez, nem tudni. Az tény, hogy a [[J/Jár\|jár]] több nyelven idő, év, azaz kozmikus-Hamlet malma vonatkozású, azzal is, hogy [[K/Kör\|kör]] szavunkkal rokonítottuk.  
 
 ## Lábjegyzetek
 
