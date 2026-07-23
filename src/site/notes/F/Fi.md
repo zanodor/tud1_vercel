@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fi/","title":"Fi","created":"2024-05-10T03:22","updated":"2026-06-26T23:01"}
+{"dg-publish":true,"permalink":"/F/Fi/","title":"Fi","created":"2024-05-10T03:22","updated":"2026-07-23T11:46"}
 ---
 
 
@@ -18,3 +18,4 @@ Kolumbán Sándor írja, itt megbízhatóbban, mint másutt:
 
 A [[F/Fiú\|fiú]] címnél említett Quora írásban `fi` = sarj, utód jelentéssel került megadásra.  
 A legkisebb fi a családban az [[I/Irmag\|irmag]].  
+Lásd még [[B/Barom#Baromfi\|baromfi]] szóban.  
