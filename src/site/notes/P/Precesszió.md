@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2026-07-23T11:43"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","created":"2023-11-11T04:49:00","updated":"2026-07-23T12:19"}
 ---
 
 
 # Precesszió
 
-{ #260101}
+{ #260101}
+
 
 
 #### John Major Jenkins Galactic Alignment...
@@ -148,7 +149,7 @@ A Hamlet Malma című könyvben taglalt, finn (Kalevalában előforduló) [[S/Sz
 
 Giorgio de Santillana a homokóra formájú [[V/Világhegy\|Világhegy]]-ábrázolások közép- és kelet-ázsiai példáira támaszkodva a jelképben a precesszió jelentőségének szó szerinti formába öntését látja. Mivel Santillana nem ismerte a precesszió valódi \[?\] okát, és az említett népek is elfeledték, inkább más megfontolás áll a hegy-képzet mögött, mely a Föld forgástengelyének billegő mozgásából rajzolt kúp palástjának megrajzolásához vezet.
 
-Másfelől (elbizonytalanító adat, hogy) [[K/Komp\|komp]] szavunk malmot is jelentett, azaz a Szampó, `szkambha` nevek vagy a komp = malom szóra utalnak vagy akár a [[K/Kampó\|kampó]] szavunkból erednek, mely az ógörögbe átmenvén is `σκαμβός` (`szkambosz`) = görbe, ferde; karikalábú! Na mármost a `kampó` és `csámpás` gyakorlatilag ugyanazon szavak és a csámpás is ugyanúgy lábra vonatkozó.  
+Másfelől (elbizonytalanító adat, hogy) [[K/Komp\|komp]] szavunk malmot is jelentett, azaz a Szampó, `szkambha` nevek vagy a komp = malom szóra utalnak vagy akár a [[K/Kampó\|kampó]] szavunkból erednek, mely az ógörögbe átmenvén is `σκαμβός` (`szkambosz`) = görbe, ferde; karikalábú! Na mármost a `kampó` és `csámpás` gyakorlatilag ugyanazon szavak és a csámpás is ugyanúgy lábra vonatkozó.  
 A ferde tengely és a Szíriusz gravitációjának ismeretét árulja el a Szent Koronán lévő (nyilván szándékosan) ferde kereszt is, de nyilván a koronánk készítésének ideje és a megszerzett csillagászati ismeret közt eltelt akár több százezer év (a tudás javára értve).  
 
 Nem érdektelen megemlíteni, hogy az [[A/Anchor\|anchor]] és [[A/Angle\|angle]] szavak is hordozzák a [[K/Kampó\|kampó]] jelentést, de ezek már a Világmalom (melyről lásd [[H/Hamlet malma\|Hamlet malma]] címszót) által bejárt út négy sarokpontjára utalnak. [[A/Anchor\|Anchor]], [[S/Secure\|secure]] szó eredetéhez hasonlóan a nyári napfordulós kulminációs (felfüggesztési, fix) pontra látszik utalni.  
@@ -318,7 +319,8 @@ Mindezt úgy, hogy nincs tisztában azzal sem, hogy az időszalag manipulált le
 > Miért feltételezzük, hogy a négyszögletes állatövben a sorrend a nyári napfordulóval kezdődik?  
 > A napfordulót végül is rendkívül nehéz megfigyeléssel pontosan meghatározni, és a görög szövegekből mindenesetre ismert, hogy az egyiptomiak különösen sokat foglalkoztak az ég legfényesebb csillagának, a Szíriusznak a heliákus kelésével – vagyis azzal az éjszakával, amikor a Szíriusz először megjelenik, közvetlenül hajnal előtt.  
 > Vajon a [[P/Precesszió\|precesszió]] nem mozdította volna el a Szíriuszt az állatövi csillagokkal együtt, és ezzel végül elválasztotta volna a napfordulótól, és így az éves vízözöntől?  
-> Ma már tudjuk, hogy az áradás az esős évszak júniusi kezdete után következik be Etiópiában, ahol a Kék-Nílus ered. **A Szíriusz napkelte mégis az év központi jelzője maradt az egyiptomi történelem során**.  { #glqzaq}
+> Ma már tudjuk, hogy az áradás az esős évszak júniusi kezdete után következik be Etiópiában, ahol a Kék-Nílus ered. **A Szíriusz napkelte mégis az év központi jelzője maradt az egyiptomi történelem során**.  { #glqzaq}
+
 
 
 Gyárfás Ágnes Adalékok a mezopotámiai és a szkíta múlt fővonalához című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében úgy említi a **precessziót, mint ami a Szíriusz újévi delelését nem befolyásolja** (6-8 ezer év eltelte ellenére sem) (a delel szó helyett helyesebb a [[Z/Zenith\|zenith]] kifejezés):  
@@ -358,7 +360,8 @@ A sumér nép ismerte. Ez kiderül Badiny Jós Ferenc könyvéből is. [[N/Nagy 
 Az egyiptomiaknak is ismerniük kellett. A precessziót a csak tökéletes rendszereket felállító (lásd magyar nyelv tökéletességét) őseink mindig is ismerték, és még maguk a görögök is bevallották, hogy Hipparkhosz előtt Egyiptomban és Babilonban ismerték, ő előttük is:  
 > The Greek neoplatonist Proclus, who studied at Alexandria in the fifth century A.D., reported that it was the Egyptians and not the Greeks who discovered precession: "Let those, who believe . . . the stars to move around the poles of the zodiac \[precession\], as Ptolemy and Hipparchus before him, \[let him\] know . . . that the Egyptians had already taught Plato about the movement of the fixed stars.  
 > —  
-> A görög neoplatonista Proclus, aki a Kr. u. ötödik században Alexandriában tanult, arról számolt be, hogy nem a görögök, hanem az egyiptomiak fedezték fel a precessziót: "Azok, akik úgy vélik ... hogy a csillagok az állatöv pólusai körül mozognak \[precesszió\], mint Ptolemaiosz és Hipparkhosz előtte, \[hadd tudják meg\] ... hogy az egyiptomiak már Platónt is tanították az állócsillagok mozgásáról."  { #95u2us}
+> A görög neoplatonista Proclus, aki a Kr. u. ötödik században Alexandriában tanult, arról számolt be, hogy nem a görögök, hanem az egyiptomiak fedezték fel a precessziót: "Azok, akik úgy vélik ... hogy a csillagok az állatöv pólusai körül mozognak \[precesszió\], mint Ptolemaiosz és Hipparkhosz előtte, \[hadd tudják meg\] ... hogy az egyiptomiak már Platónt is tanították az állócsillagok mozgásáról."  { #95u2us}
+
 
 
 John M. Jenkins könyveinek adatai alapján tudjuk, hogy a maják is ismerték.  
