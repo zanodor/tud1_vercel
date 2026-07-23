@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor nyelvelmélet/","title":"Finnugor nyelvelmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:31","updated":"2026-06-13T23:41"}
+{"dg-publish":true,"permalink":"/F/Finnugor nyelvelmélet/","title":"Finnugor nyelvelmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:31","updated":"2026-07-23T11:43"}
 ---
 
 
@@ -359,8 +359,7 @@ Még korábban:
 >
 > Elméletünk szerint a mai értelemben vett uráli nyelvcsalád végső formájában azáltal konszolidálódott, hogy egy tetemesen magasabb kulturális fokon álló, agglutináló nyelvű népesség egykor igen erős hatásokat gyakorolt a kialakulófélben lévő előfinnugor és előszamojéd – vagy ha tetszik "előuráli" – nyelvlánc kezdetleges viszonyok között élő etnikai csoportjaira, mégpedig a nyelvszövetség végleges konszolidációja előtt, tehát hozzávetőlegesen a Kr. e. 3/2. évezred fordulóját közvetlenül követő időkben.  
 >
-> A bemutatott feltevés a nemzetközi nyelvtudomány újabb nyelvfejlődési vizsgálatainak és felismeréseinek tükrében (l. e könyv 407-428. old.) még a lingvisztika oldaláról szemlélve is tetemesen valószínűbb és korszerűbb, mint a finnugrisztika hagyományos nyelvcsaládfa-elmélete. Ezen felül azonban őstörténeti szempontból is megvan az a felbecsülhetetlen előnye, hogy míg az eddigi elképzeléseket a régészet újabb eredményei egyértelműen megcáfolták, kimutatva, hogy a finnugor nyelvészeti és őstörténeti iskola által feltételezett korban (a Kr. e. 6-4. évezred) és térségben (az Oka-Káma-Urál vidéke, ill. Nyugat-Szibéria északi területei) még az emberi élet nyomai sem találhatók meg (l. László Gy.: Az uráli őshaza kutatásáról), nemhogy olyan kompakt népsűrűség, amely egy többé-kevésbé egységes nyelvcsaládi alapnyelv kialakulásához elengedhetetlenül szükséges.  { #f7lufy}
-
+> A bemutatott feltevés a nemzetközi nyelvtudomány újabb nyelvfejlődési vizsgálatainak és felismeréseinek tükrében (l. e könyv 407-428. old.) még a lingvisztika oldaláról szemlélve is tetemesen valószínűbb és korszerűbb, mint a finnugrisztika hagyományos nyelvcsaládfa-elmélete. Ezen felül azonban őstörténeti szempontból is megvan az a felbecsülhetetlen előnye, hogy míg az eddigi elképzeléseket a régészet újabb eredményei egyértelműen megcáfolták, kimutatva, hogy a finnugor nyelvészeti és őstörténeti iskola által feltételezett korban (a Kr. e. 6-4. évezred) és térségben (az Oka-Káma-Urál vidéke, ill. Nyugat-Szibéria északi területei) még az emberi élet nyomai sem találhatók meg (l. László Gy.: Az uráli őshaza kutatásáról), nemhogy olyan kompakt népsűrűség, amely egy többé-kevésbé egységes nyelvcsaládi alapnyelv kialakulásához elengedhetetlenül szükséges.  { #f7lufy}
 
 
 <!--section: 20-->
@@ -430,7 +429,7 @@ Az indogermán/[[N/Nyelvészet mint tudomány#Grimm-féle hangtörvények\|Grimm
 Másutt:  
 > "A hangtörvényes ősnyelvi rekonstrukciók iskolapéldája a finnugor "k" hang állítólagos szabályos fejlődése a magyarban "h"-vá. Mivel a magyar "h"-nak a finnugor nyelvek "túlnyomó többségében" bizonyos hangtani helyzetben "k" felel meg, "nagyon valószínű, hogy itt a többség (kiemelés tőlünk) őrzi az ősi állapotot" – írja [[R/Róna-Tas András\|Róna-Tas]] (id. m. 395. old.).  
 > Mit ért itt a finnugrisztika "túlnyomó többség"-en, amely állítólag az "ősi állapotot" őrzi? Az együttesen 8 milliónyi, de 50 – egymás között jobbára érthetetlen – nyelvjárásra szétforgácsolódó, jórészt primitív finnugor töredéknépecskéket a 15 milliós, egységes, majdnem homogén nyelven beszélő, már több mint ezer év óta összehasonlíthatatlanul magasabb művelődési fokon álló monolitikus magyar nyelvi tömbbel szemben. Másrészt: ezek szerint csak a magyarban lett volna "hangfejlődés", a többi finnugor nyelvben pedig nem? Ott évezredek óta "k" maradt a "k"? De hogyan állunk azzal a sokkalta valószínűbb lehetőséggel, hogy a valóságos "túlnyomó többség"-et képviselő, s kulturálisan is magasan domináló magyar nyelv "h" hangját vették át egykoron az apró, elmaradott finnugor csoportok, s változtatták át bizonyos esetekben – saját ősi nyelvi alaprétegük hangtanának hatására "k"-vá? Azaz a hangbehelyettesítés jól ismert jelenségét alkalmazták, s ezért ejtenek még ma is "k"-t, mint évezredekkel ezelőtt. Vajon elhanyagolhatók-e mindezen körülmények egy hipotetikus ősnyelv rekonstruálási kísérleténél? Nem hinnénk. A finnugor nyelvtudomány viszont ilyen gondolatokat még csak halvány eshetőségként sem vet fel.
-- Magam is megfigyeltem a pl. halál, hall, három szavainknak megfelelő k-előtétes finn szavakat. A keményebb hangzók a hun-magyarok nyelvére voltak jellemzőek.
+- Magam is megfigyeltem a pl. `halál`, `hall`, `három` szavainknak megfelelő k-előtétes finn szavakat. A keményebb hangzók a hun-magyarok nyelvére voltak jellemzőek.
 
 <!--section: 28-->
 #### Borbola János Az uráli tilalomfák...
