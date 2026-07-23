@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csálé/","title":"Csálé","created":"2023-10-23T02:33","updated":"2025-01-22T16:43"}
+{"dg-publish":true,"permalink":"/C/Csálé/","title":"Csálé","created":"2023-10-23T02:33","updated":"2026-07-23T11:45"}
 ---
 
 
@@ -9,7 +9,9 @@
 
 #### A Magyar Néprajzi Lexikon adatsora:
 
-> Az ökörfogat irányítása irányító szavakkal: csálé, hajsz; hőkk, hóha te stb. történik. Csálé-ra balra fordulnak, hajsz-ra jobbra, míg a hőkk-re hátrafelé tolatnak, a hóha te-re pedig megállanak. Irányításra csak nagyon ritkán, inkább az egyes ökörfogatnál szerepel a → gyeplő, de akkor is csak a szarvra kötve vagy az állat pofájára hurkolva. Az ökörfogatokkal dolgozó, azt irányító, hajtó személy a → béres.  
+> Az ökörfogat irányítása irányító szavakkal: csálé, hajsz; hőkk, hóha te stb. történik. Csálé-ra balra fordulnak, hajsz-ra jobbra, míg a hőkk-re hátrafelé tolatnak, a hóha te-re pedig megállanak. Irányításra csak nagyon ritkán, inkább az egyes ökörfogatnál szerepel a → gyeplő, de akkor is csak a szarvra kötve vagy az állat pofájára hurkolva. Az ökörfogatokkal dolgozó, azt irányító, hajtó személy a → béres.
+{ #j5z60y}
+
 
 CzF az ökörfogat irányításáról:  
 > Csáli v. csálés ökör, mely bal felül van befogva, melyet midőn így szólítanak: csa! v. csáli! v. csálé! a jobb felül levőt az egyenes irányból félre tereli, mint a lovaknál tüledre, máskép: külső ökör. Hajszásnak mondják, mely jobb felül van befogva, s ez a hajsz v. ho ide, hojde szóra jobbról balra nyomúl; mint a ló hozzád-ra, mi szerént a csálé am. tüled, a hajsz pedig am. hozzád).  
