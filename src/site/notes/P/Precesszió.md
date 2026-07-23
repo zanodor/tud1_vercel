@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2026-06-22T17:42"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2026-07-23T11:43"}
 ---
 
 
@@ -148,7 +148,7 @@ A Hamlet Malma című könyvben taglalt, finn (Kalevalában előforduló) [[S/Sz
 
 Giorgio de Santillana a homokóra formájú [[V/Világhegy\|Világhegy]]-ábrázolások közép- és kelet-ázsiai példáira támaszkodva a jelképben a precesszió jelentőségének szó szerinti formába öntését látja. Mivel Santillana nem ismerte a precesszió valódi \[?\] okát, és az említett népek is elfeledték, inkább más megfontolás áll a hegy-képzet mögött, mely a Föld forgástengelyének billegő mozgásából rajzolt kúp palástjának megrajzolásához vezet.
 
-Másfelől (elbizonytalanító adat, hogy) [[K/Komp\|komp]] szavunk malmot is jelentett, azaz a Szampó, `szkambha` nevek vagy a komp = malom szóra utalnak vagy akár a [[K/Kampó\|kampó]] szavunkból erednek, mely az ógörögbe átmenvén is `szkambosz` = görbe! Mármost kampó és csámpás gyakorlatilag ugyanazon szavak.  
+Másfelől (elbizonytalanító adat, hogy) [[K/Komp\|komp]] szavunk malmot is jelentett, azaz a Szampó, `szkambha` nevek vagy a komp = malom szóra utalnak vagy akár a [[K/Kampó\|kampó]] szavunkból erednek, mely az ógörögbe átmenvén is `σκαμβός` (`szkambosz`) = görbe, ferde; karikalábú! Na mármost a `kampó` és `csámpás` gyakorlatilag ugyanazon szavak és a csámpás is ugyanúgy lábra vonatkozó.  
 A ferde tengely és a Szíriusz gravitációjának ismeretét árulja el a Szent Koronán lévő (nyilván szándékosan) ferde kereszt is, de nyilván a koronánk készítésének ideje és a megszerzett csillagászati ismeret közt eltelt akár több százezer év (a tudás javára értve).  
 
 Nem érdektelen megemlíteni, hogy az [[A/Anchor\|anchor]] és [[A/Angle\|angle]] szavak is hordozzák a [[K/Kampó\|kampó]] jelentést, de ezek már a Világmalom (melyről lásd [[H/Hamlet malma\|Hamlet malma]] címszót) által bejárt út négy sarokpontjára utalnak. [[A/Anchor\|Anchor]], [[S/Secure\|secure]] szó eredetéhez hasonlóan a nyári napfordulós kulminációs (felfüggesztési, fix) pontra látszik utalni.  
