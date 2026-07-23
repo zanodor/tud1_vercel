@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Leave/","title":"Leave","created":"2023-11-13T03:24","updated":"2025-04-27T15:21"}
+{"dg-publish":true,"permalink":"/L/Leave/","title":"Leave","created":"2023-11-13T03:24","updated":"2026-07-23T11:45"}
 ---
 
 
@@ -11,6 +11,7 @@ A görög `leipein` = (el)hagyni ige is a leave párja lehet.
 Ide kívánkozik Magyar Adorján leveles fejtegetése, mely [[N/Naptár\|naptár]] címhez került.  
 
 Hogy a szónak lehet-e köze a [[L/Leaven\|leaven]] és [[L/Left\|left]] címszavaknál előjövő [[L/Levant\|Levant]] = kelet fogalmához, nem valószínű, de nem elképzelhetetlen. Aztán ott van még a [[L/Lift\|lift]] = emel szó is (a keleten kelő Nap látszólagos mozgására utalhat).  
+Az [ezen](https://en.wiktionary.org/wiki/l%C3%A6wan#Old_English) Wiktionary oldalon hozott óangol `læwan` = elárulni szót nem kötik a `leave` eredetéhez, holott fogalmilag és fonológiailag is kapcsolódnak. Inkább külön gyökökre voksolnak.  
 
 Legutóbb [[L/Left\|left]] cím alján újabb gondolat született.  
 
