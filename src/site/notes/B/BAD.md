@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BAD/","title":"BAD","created":"2024-10-29T16:18","updated":"2026-03-05T01:44"}
+{"dg-publish":true,"permalink":"/B/BAD/","title":"BAD","created":"2024-10-29T16:18","updated":"2026-07-23T11:45"}
 ---
 
 
@@ -30,7 +30,7 @@ A [[S/Szkíta nyelv\|szkíta nyelv]] címnél Götz László által Hérodotosz 
 
 Ha már Götz László, Keleten kél a Nap című könyvének 165. és 876. oldalán szumér-latin szavak párhuzamait bemutató szavak között találjuk a latin `pateo` = nyit ige mellé téve a sumér `BAD` = nyit igét. Azaz ezek szerint – mivel a nyit és a kezd fogalmai (csillagászati-évköri illetve életkörben értelmezett összefüggésben) összefüggenek – BAD jelentése nyit, nyitás, kezd, kezdet.  
 
-Holott a levezetés telitalálatnak tűnik, létezik más elképzelés is. [[P/Pessimism\|Pessimism]] szónál taglaltuk, hogy amíg a magyar rossz-rosszabb-legrosszabb szavak a romlás fokozatait fejezik ki, a latinban az alsó szinttel, szintre eséssel kapcsolatosak. Hogy az alsó szintre ereszkedés [[B/Beteg\|beteg]]ség és bágyadtság (lásd ezzel kapcsolatosan [[B/Bed\|bed]]) által előidéztetett, alátámasztja a szanszkrit `pádyate` = ő leesik, valamint a modern perzsában és angolban azonos alakú és jelentésű `bad` = rossz szó is.  
+Holott a levezetés telitalálatnak tűnik, létezik más elképzelés is. A latin `pessimus` (lásd Wiktionary oldalát [itt](https://en.wiktionary.org/wiki/pessimus)) és `peior` (lásd [itt](https://en.wiktionary.org/wiki/peior)) szónál látjuk, hogy amíg a magyar rossz-rosszabb-legrosszabb szavak a romlás fokozatait fejezik ki, a latinban az alsó szinttel, alsó szintre eséssel kapcsolatosakként értelmezettek. Hogy az alsó szintre ereszkedés [[B/Beteg\|beteg]]ség és a [[P/Pata\|pata]] = halál által előidéztetett, alátámasztja a szanszkrit `pádyate` = ő leesik, valamint a modern perzsában és angolban azonos alakú és jelentésű `bad` = rossz szó is.  
 
 Az orosz `beda` = baj, szerencsétlenség szót nem kötik ide.  
 
