@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barom/","title":"Barom","created":"2023-11-09T08:31","updated":"2026-02-27T17:36"}
+{"dg-publish":true,"permalink":"/B/Barom/","title":"Barom","created":"2023-11-09T08:31","updated":"2026-07-23T11:45"}
 ---
 
 
@@ -18,3 +18,7 @@ A Nap-Föld (Bar-Om) összetételre vonatkozóan ez esetben az lenne a magyaráz
 > Megjegyzés: e szavaink közül a TeSz szerint a borjú csuvasos jellegű ótörök jövevényszó, a bárány egy közelebbről meg nem határozott szláv nyelvből származik, a birka és a bürge pedig cseh jövevényszavak.  
 
 Hasonló alakú a [[B/Birka\|birka]].  
+
+## Baromfi
+
+A `baromfi` szó a `barom` (szarvasmarha, nagyobb haszonállat) és a kicsinyítő [[F/Fi\|fi]] (fiú/kicsi) összetételéből származik. Eredetileg a "marhánál kisebb jószágot" (például juhot, kecskét vagy aprójószágot) jelentette a magyar nyelvben, ebből alakult ki a mai madarakra, azaz a házi szárnyasokra vonatkozó jelentése.  
