@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ács/","title":"Ács","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-05-29T14:33","updated":"2026-07-03T23:12"}
+{"dg-publish":true,"permalink":"/A/Ács/","title":"Ács","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-05-29T14:33","updated":"2026-07-23T11:44"}
 ---
 
 
