@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a naprendszer/","title":"Szíriusz és a naprendszer","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-13T05:21","updated":"2026-07-19T04:29"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a naprendszer/","title":"Szíriusz és a naprendszer","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-13T05:21","updated":"2026-07-23T12:20"}
 ---
 
 
