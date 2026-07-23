@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Good/","title":"Good","tags":["Englishtexttranslated","containscallouts"],"created":"2026-03-23T23:27","updated":"2026-04-24T09:37"}
+{"dg-publish":true,"permalink":"/G/Good/","title":"Good","tags":["Englishtexttranslated","containscallouts"],"created":"2026-03-23T23:27","updated":"2026-07-23T11:44"}
 ---
 
 
@@ -16,7 +16,7 @@ Ismert alakok: óangol `gōd` = jó, svéd `god` = jó; az ónorvég `góðr` sz
 
 ## Hivatalos nyelvészeti vélekedés
 
-Előhúzzák a szokásos [[N/Népetimológia\|népetimológia]] kártyát. A hangtörvények elkötelezett hívei – akik nem ismerik a szóalkotás módjait és a szavak eredetét –, hasra csapás alapon létrehozzák PIE gyökeiket, diadalittasan kimondják és vak laikus követői körével kimondatják, hogy a germán nyelvek jót jelentő `good` szava egy [gōdaz](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/g%C5%8Ddaz) proto-germán formára menne vissza és ez pedig egy [gʰedʰ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/g%CA%B0ed%CA%B0-) PIE gyökre, ahol az *egyesít/összeköt -> összeillik -> illik: megfelelő -> jó* szemantikai fejlődési vonalon gondolkodnak, mert mindenáron emellett a gyök ill. értelmezési mód mellett akartak kiállni.  
+Előhúzzák a szokásos [[N/Népetimológia\|népetimológia]] kártyát. A hangtörvények elkötelezett hívei – akik nem ismerik a szóalkotás módjait és a szavak eredetét –, hasra csapás alapon létrehozzák PIE gyökeiket, diadalittasan kimondják és vak laikus követői körével kimondatják, hogy a germán nyelvek jót jelentő `good` szava egy [gōdaz](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/g%C5%8Ddaz) proto-germán formára menne vissza és ez pedig egy [gʰedʰ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/g%CA%B0ed%CA%B0-) PIE gyökre, ahol hasonló *egyesít/összeköt -> összeillik -> illik: megfelelő -> jó* szemantikai fejlődési vonalon gondolkodnak, mint [[L/LIB#Szláv jót, szépet jelentő szavak\|ezen]] helyen, mert mindenáron emellett a gyök ill. értelmezési mód mellett akartak kiállni.  
 Azaz ők nem elégednek meg azzal, hogy isten `God` neve lenne a kiinduló. Vélekedésük:  
 A keresztény tanításokban Isten és a jóság fogalma szorosan összekapcsolódik (pl. "jó Isten"), ami megerősítette azt a népi etimológiát, hogy a két szó között eredetbeli kapcsolat van. De nincs.  
 > [!fail] &nbsp;
