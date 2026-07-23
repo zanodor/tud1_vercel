@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","tags":["containscallouts"],"created":"2024-12-18T11:46","updated":"2026-07-18T22:50"}
+{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","tags":["containscallouts"],"created":"2024-12-18T11:46","updated":"2026-07-23T11:43"}
 ---
 
 
@@ -270,7 +270,6 @@ Tűz szavunkat látszik rejteni a Robert Brown Jr. Primitive Constellations of t
 A türk nyelvek só jelentésű szavai nyilván nem véletlen `duz`, `tuz` alakúak.  
 Ami azért érdekes, mert a [[S/Sweet\|sweet]] – [[S/Süt\|süt]] analógiájára megtalált, [[D/Dulcet\|dulcet]] címnél is említett portugál `doce` = édes tűz szavunkból kell eredjen (a latin `dulcis` szóban [[L/L#L vendéghang\|l vendéghang]] van).  
 
-
 <!--section: 16-->
 ### Torzult alakok: takhsha és hasonló formák
 
@@ -308,7 +307,7 @@ Lásd folytatást alant.
 Ugyanakkor, Tages megint csak olyan alakú név, mint a szanszkrit `तक्ष॑न्` (`tákṣan`) = ács, istenek ácsa szó, mely szó a fentebb szkítaként megállapított szó egészen hasonló párja.  
 > [!lasdmeg] &nbsp;
 > A közös kapocs az lehetett volna, hogy [[T/TAK\|TAK]]/[[D/DAK\|DAK]] mindketten tetővel, heggyel kapcsolatos alapszavak és Tages is a földből emelkedik ki.
-> 
+>
 >> [!lasdmeg] &nbsp;
 >> A tűzzel kapcsolatos összefüggés pedig az, hogy egyrészt a tűz alkímiai jele a háromszög és a [[T/Tág\|tágul]] és [[D/Dagad\|dagad]] szavak is arra mutatnak, hogy hő hatására a testek tágulnak.
 
