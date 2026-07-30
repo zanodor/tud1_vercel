@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv ismeretlen eredetű szavai/","title":"Magyar nyelv ismeretlen eredetű szavai","tags":["Englishtexttranslated"],"created":"2023-12-27T05:53","updated":"2026-04-24T09:39"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv ismeretlen eredetű szavai/","title":"Magyar nyelv ismeretlen eredetű szavai","tags":["Englishtexttranslated"],"created":"2023-12-27T05:53","updated":"2026-07-30T02:39"}
 ---
 
 
 # Magyar nyelv ismeretlen eredetű szavai
 
-Már [[T/Tudomány#Ki a tudó, kinek a szemszögéből ítéltetik meg valami tudománynak?\|tudomány]] címnél az eurocentrista felfogás kapcsán szóltunk arról, hogy Amerika felfedezése nem érdem, hanem inkább korábbi hiányosság leleplezése. Itt is hasonló a helyzet: az ismeretlen eredettel azzal hozakodnak elő, akik nem ismerik és nem is akarják ismerni a magyar nyelvet.  
+Már [[T/Tudomány#Ki a tudó, kinek a szemszögéből ítéltetik meg valami tudománynak?\|tudomány]] címnél az eurocentrista felfogás kapcsán szóltunk arról, hogy Amerika felfedezése nem érdem, hanem inkább korábbi hiányosság leleplezése. Itt is hasonló a helyzet: az ismeretlen eredettel azok hozakodnak elő, akik nem ismerik és nem is akarják ismerni a magyar nyelvet.  
+> [!check] &nbsp;
+> Azzal, hogy ismeretlen szavakat jelölgetnek meg a magyar nyelvben, kiállítják magukról a bizonyítványt: ők nem Czuczorjai a magyar népnek, hanem tesze-tosza ügynökök, akik jaj, nem találták meg a szavak eredetijét a permi vagy szamojéd szerencsétlen kis népeknél vagy a magasabb kultúrájú német, szláv, török, stb. népek nyelveiben.
 
 Az interneten egyes helyeken azt látom, hogy szókincsünk mintegy 9 százalékát jelentené. Másutt, Keneseinél a bizonytalan eredetű szavakat harminc százalékra teszi:  
 ![Magyar nyelv ismeretlen eredetű szavai_image20251106201705882.jpeg|fix_dark fix_light](/img/user/M/assets/Magyar%20nyelv%20ismeretlen%20eredet%C5%B1%20szavai_image20251106201705882.jpeg)
