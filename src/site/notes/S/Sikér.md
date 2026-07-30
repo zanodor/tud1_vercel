@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sikér/","title":"Sikér","created":"2024-04-22T12:26","updated":"2025-10-10T21:56"}
+{"dg-publish":true,"permalink":"/S/Sikér/","title":"Sikér","created":"2024-04-22T12:26","updated":"2026-07-30T02:40"}
 ---
 
 
@@ -10,7 +10,7 @@ CzF második definíciója vezet sikerre [[S/Siker\|siker]] szavunk eredetére v
 
 Ugyanakkor sikamlós, nyúlós, ragadós, lágy anyag (például enyv, lép, mézga, gyanta, agyagsár, mint Molnár A. latinozza, lentor, viscus, bitumen) jelentése a szónak arra hívja fel a figyelmet, hogy a Nap (háza jelentésű) S-K, SZ-K vázú neveit, mint a [[S/Sík\|sík]] (lásd viszont angol [[S/Slick\|slick]] szóban is) is, kellhet viszont látni benne.  
 Így Sik-Ér olyanféle alkotásúnak tűnik, mint [[K/Kenyér\|kenyér]] (Keny-Úr).  
-Molnár V. József az [alábbi](https://youtu.be/7gMQuvM4Dm0) videóban 19:30-nál sikért [[S/Sugar\|sugár]] szóval rokonítja (a búzában benne aluszik a Nap) és épp rokonítás kapcsán jön is elő a szó.  
+Molnár V. József az [alábbi](https://youtu.be/7gMQuvM4Dm0) Magyar szentek című, sajnos a YouTube-on már elérhetetlen videóban 19:30-nál sikért a [[S/Sugar\|sugár]] szóval rokonítja (a búzában benne aluszik a Nap) és épp [[M/Magyar szavak, szórészek alakváltozatai#^3en38g\|"a magyar rokonító nyelv" eszme]] kapcsán jött is elő a két szó.  
 
 Az [alábbi](https://glutenerzekeny.hu/mit-kell-tudni-glutenrol/) oldal adata szerint a sikér nem más, mint a glutén. Nos, valóban, a [[G/Glue\|glue]] = enyv, ragasztó jelentése is erről tanúskodik.  
 Az [alábbi](https://youtu.be/vUSCneLdOx8) ÁKTV-s műsorban erdélyi hozzászóló is a gluténnal azonosítva írja:  
