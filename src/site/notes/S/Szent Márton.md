@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szent Márton/","title":"Szent Márton","created":"2025-11-16T00:03","updated":"2026-02-06T23:04"}
+{"dg-publish":true,"permalink":"/S/Szent Márton/","title":"Szent Márton","created":"2025-11-16T00:03","updated":"2026-07-30T02:38"}
 ---
 
 
@@ -16,12 +16,16 @@ Azaz [[A/Ariánus\|ariánus]] keresztény volt.
 
 Rostás László "Lehel-kürt" és a "Szent László legenda" ikonográfiai azonossága a szkíta kereszténység tükrében című az Ősi Gyökér 2008/3-4. sz. megjelent cikkében írja, hogy Szent Márton Pannoniában hun királyi családban született, majd Tours-ban volt püspök és a [[P/Pálos\|pálos]]ok, a hozzáköthető Hét Alvó Szent romlatlan testének ünnepét július 27-én tartották 1786-ig a Rend törvénytelen betiltásáig.  
 
-Kubínyi Tamás egy napi műsorában is hasonló adatokat [oszt meg](https://videa.hu/videok/nagyvilag/25111cn-szent-marton-kubinyi-tamas-magyar-6UuLXnvs0wYnEk9B?start=2134) [ezen](https://archive.ph/Lq3bJ) Varga Géza féle blogról.  
+Kubínyi Tamás egy napi műsorában is hasonló adatokat [oszt meg](https://rumble.com/v71ke4q-25111cn-szent-mrton-kubnyi-tams-ktv.html?start=2134) [ezen](https://archive.ph/Lq3bJ) Varga Géza féle blogról.  
 
 Virányos király nevet említ másutt Kubínyi Tamás:  
 > Radla elmeséli Szent Márton életét [Sulpicius Severus](https://hu.wikipedia.org/wiki/Sulpicius_Severus) alapján, aki Pannónia (Szombathely) Savaria nevű városában született ([01:14:14](https://rumble.com/v6yetjc-250902cn-buda-1686-kubnyi-tams-ktv.html?start=4454)). Göncöl betoldása szerint Márton valójában hun királyfi volt, Virányos király fia ([01:14:48](https://rumble.com/v6yetjc-250902cn-buda-1686-kubnyi-tams-ktv.html?start=4488)).  
 
-Molnár V. József a fentiekhez csatlakozva az [alábbi](https://youtu.be/7gMQuvM4Dm0) videó elején mutatja be Szent Mártont mint magyar királyt (még a francia Tours-ban, ahol a középkori katedrális oltára mellett ott a magyar zászló a két angyal tartotta címerrel, szintén úgy tudják, hogy Franciaország és Magyarország védőszentje király volt).  
+Molnár V. József az [alábbi](https://youtu.be/7gMQuvM4Dm0) Magyar szentek című, sajnos a YouTube-on már elérhetetlen videó elején mutatja be Szent Mártont mint magyar királyt (még a francia Tours-ban, ahol a középkori katedrális oltára mellett ott a magyar zászló a két angyal tartotta címerrel, szintén úgy tudják, hogy Franciaország és Magyarország védőszentje király volt).  
+> [!lasdmeg] &nbsp;
+> De másutt is megvolt ez tőle:  
+> > [!check] &nbsp;
+> > A franciaországi Tours katedrálisában a mai napig egy hatalmas magyar zászló látható az oltár mellett, a címeren két angyallal, ami jelzi Szent Márton magyar vagy hun eredetét [08:17](https://www.youtube.com/watch?v=5l9KfFKC7ZM&t=497). A franciák a mai napig úgy tudják, hogy Szent Márton magyar vagy hun származású [08:45](https://www.youtube.com/watch?v=5l9KfFKC7ZM&t=525).
 
 #### Zajti Ferenc Zsidó volt-e Jézus...
 
