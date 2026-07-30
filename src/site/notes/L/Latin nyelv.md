@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2026-06-26T22:59"}
+{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2026-07-30T02:38"}
 ---
 
 
@@ -89,7 +89,7 @@ Pulgram [[I/Indogermán nyelvészet#Homogén ős-indogermán alapnyelv kikövetk
 
 <!--section: 8.1-->
 [[E/Ember#Ember szavunk Íjas értelme az Ikrek jegyére vonatkoztatva\|Ember szavunk Íjas értelme az Ikrek jegyére vonatkoztatva]] cím/alcímnél a spanyol `hombre` és `hambre` szavak, valamint például [[S/Sombre\|sombre]] címnél is a spanyol és más szavak kapcsán is arra jutottunk, hogy amit a nyelvészet eredeztetés gyanánt kihoz, az nem életszerű.  
-A spanyol és portugál szívet jelentő, [[K/Karácsony\|Karácsony]] címnél taglalt szavak is tisztán láthatóan a latin birodalmi nyelvtől függetlenül jöttek létre.  
+A spanyol és portugál szívet jelentő, [[K/Karácsony\|Karácsony]] címnél taglalt szavak is tisztán láthatóan a latin birodalmi nyelvtől függetlenül kellett létrejöjjenek.  
 A latin eredettel magyarázhatatlan, ezért kibúvóként [[H/Hangutánzó szavak\|hangutánzó]] eredettel megadott spanyol `pitar` = fütyül is jól mutatja, hogy a szavak mélyebb gyökerűek, és mind a [[F/FU\|FU]] gyökre mennek vissza.  
 
 <!--section: 9-->
