@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-07-03T23:10"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-07-30T02:37"}
 ---
 
 
@@ -126,7 +126,9 @@ Szó volt arról is, hogy ami a palóc nyelvjárásban L-es ([[B/Bál\|Bál]]), 
 Fordított L>R változásról Borbola János A Nílus-völgyi hitvilág című Ősi Gyökér 2005/4. sz. megjelent cikkében ír. Véleménye szerint a rú-ként hangzósított fekvő oroszlán hieroglifa eredetileg lú (ló) lett volna. Másutt is láttunk fordított esetet (mintha Péterfai János is egyiptomi példát adott volna meg).  
 - Azóta kiderült, hogy ugyanaz az egyiptomi hieroglif jel volt használatos R és L hangokra (vagy ezt a következtetést vonták le).
 
-Götz László Keleten kél a Nap című könyvének 138. oldalán taglalja az R>L váltást.  
+#### Götz László Keleten kél a Nap...  
+
+...című könyvének 138. oldalán taglalja az R>L váltást:  
 > Viszonylag sok nyelvből vagy az R- vagy az L-hang hiányzik. Az óegyiptomi nyelvben, a zendben, a livben, a koreaiban, a japánban például nincs L; a kínai, az eszkimó, több indián és óceániai nyelv viszont nem ismeri az R-hangot. De közismert a raccsolás meglehetősen elterjedt beszédhibája, valamint az is, hogy a beszélni tanuló gyerekek gyakran hosszú ideig nem tudják kimondani az R-hangot és L-t vagy J-t ejtenek helyette.  
 > Itt tehát – főleg az L-nyelvek esetében – artikulációs nehézségekről van szó.  
 > Olyan nyelvekben is, ahol mindkét hang megtalálható, gyakran bekövetkezik ezek egymásba való átmenete. A párizsi nép például az általános francia "corridor" (folyosó) szó helyett "colidor"-t mond.  
@@ -138,6 +140,11 @@ Másutt is láttunk hasonló esetet: az [[A/Apocalypse\|apocalypse]] utótagja, 
 Götz László Keleten kél a Nap című könyvében még korábban, a 128. oldalon szól a nyelvészet által ismert R>L>N váltásról.  
 L>N ill. N > L váltásra példa a [[C/Comrade\|comrade]] címnél taglalt Hunor > Khamor > latin `gemellus` > `geminus` = iker és az [[A/Animal\|animal]] címnél látott anima > alma.  
 N>L változást említ Záhonyi András: szerinte a sumér `dingir` Inanna Tündér Ilona nevéből származna. [[D/Dal\|Dal]] címnél is volt szó arról, hogy esetleg a dan(a)-ból lett dal (`danol` = `dalol`).
+
+#### A Czuczor-Fogarasi szótár...
+
+...adata ondók címnél:  
+> Továbbá, az l átalakúl n-re, pl. balga banga, talál tanál, lám nám, dalol danol, stb. tehát e hasonlatra: öldők, öndők, ondók; ölték, önték, onték, ontok; öltöle öntöle, ontola; végre az l igen sokszor átalakul r-vé, mint: hetle hetre, nyetle nyetre, botolkál botorkál, botlánkozik botránkozik (a botlik törzstől), gúzsolodik guzsorodik, csuszkolál csuszkorál, stb. stb. és így ontola ontora.  
 
 <!--section: 11-->
 ### F, V, B, P hangok gyakori cseréje
