@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Béla/","title":"Béla","tags":["containstransclusions"],"created":"2023-12-03T05:04","updated":"2026-07-23T11:45"}
+{"dg-publish":true,"permalink":"/B/Béla/","title":"Béla","tags":["containstransclusions"],"created":"2023-12-03T05:04","updated":"2026-07-30T02:39"}
 ---
 
 
