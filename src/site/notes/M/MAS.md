@@ -1,17 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2026-05-18T23:56"}
+{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2026-07-30T02:39"}
 ---
 
 
+<!--section: 1-->
 # MAS
 
+<!--section: 1.1-->
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) legelső oldalán szól az akkád `mas` = ifjú hős és iker (más) jelentéséről. Ez megegyezik az eddig ismert/feltárt jelentésekkel.  
 - Valójában már a szumér nyelvben megvolt az iker jelentés.  
 Azt pedig [[E/Ember#Ember szavunk Íjas (Íjász) értelme az Ikrek jegyére vonatkoztatva\|Ember szavunk Íjas (Íjász) értelme az Ikrek jegyére vonatkoztatva]] cím/alcímnél láttuk, hogy az ember az Ikrek; vö. azzal, hogy a latin `mās` = férfi jelentésű. Ugyanakkor a Nap a hímnemű és a hős is a Naphősre vonatkozik.  
 Azaz a szó a magyar-sumér-sémi vonalon érkezett volna fiú, (ifjú) hős jelentéssel, amelyből (azzal, hogy a napfiú felnőtt) jöhetett létre a férfi jelentés.  
 
+<!--section: 2-->
 #### Götz László Keleten kél a Nap...  
 
+<!--section: 2.1-->
 ...című könyvének 999. oldalán Harmatta János ősiráni-finnugor szószedetének (mint 57%-ban szumér jövevényszónak beillő) szavait mutatja be:  
 > Óiráni: vasta, vastă-> mordvinE `vasta` " férj, feleség".  
 > Ősiráni: vaśa-, vaśā-> mordvinM `vaše` "feleség"; szumér: `maš` = "Zwilling, Hälfte, der Anderer" (iker, a fele, a másik).  
@@ -20,19 +24,21 @@ Azaz a szó a magyar-sumér-sémi vonalon érkezett volna fiú, (ifjú) hős jel
 
 A jelentések szépen egymás mellett jól mutatják, miről van szó: az iker kettőt jelent és a fél is kettőre utal, a másik pedig a második (az egyik után). A [[M/Mastabbagalgal\|Mastabbagalgal]] mint [[I/Ikrek csillagkép\|Ikrek csillagkép]] pedig a Kutyával ott van, ahol a Tejút sávja felezi az éggömböt. Ami a feleség értelmet illeti, legutóbb a [[L/Lemniszkáta\|lemniszkáta]] téma kapcsán [[H/Husband#^3wtlh3\|husband]] címnél is arra tértünk ki, hogy a [[J/Jin és jang\|jin-jang]] rendszerben a férj és feleség összekapcsolása az Ikrekben van.
 
-Különösen az asszír `Mas-Mas` = Ikrek elnevezés ül jól, hiszen a két fél itt válik el illetve két ikertag van. (A többesszámot jelentő [[M/MES\|MES]]-sel kapcsolatban lásd [[M/Más#Más és több\|más]] címnél.)  
+Különösen az igen érdekes asszír `Mas-Mas` = Ikrek elnevezés ül jól, hiszen a két fél itt válik el illetve két ikertag van. (A többesszámot jelentő [[M/MES\|MES]]-sel kapcsolatban lásd [[M/Más#Más és több\|más]] címnél.)  
 
-Richard H. Allen Star Names című könyvében az Ikrek csillagkép alfájánál szól egy igen érdekes asszír `Mas-Mas` = Ikrek elnevezésről[^1]. Ugyanez korábban, teljesebb nevén Mas-Tab-Ba-Gal-Gal: lásd a [[S/Sumér zodiákus\|sumér zodiákus]] (Nagy) Ikrek jegyét [[M/Mastabbagalgal\|Mastabbagalgal]].  
+Richard H. Allen Star Names című könyvében az Ikrek csillagkép alfájánál szól a `Mas-Mas` = Ikrek elnevezésről[^1]. Ugyanez korábban, teljesebb nevén Mas-Tab-Ba-Gal-Gal; lásd a [[S/Sumér zodiákus\|sumér zodiákus]] (Nagy) Ikrek jegyét [[M/Mastabbagalgal\|Mastabbagalgal]] címnél.  
 
-Ami a [[M/Mózes\|Mózes]] nevéhez is megoldást jelentő `mas` = ifjú/fiú jelentést illeti, ezt pedig közvetlenül a magyarból tudjuk magyarázni.  
+Ami a [[M/Mózes\|Mózes]] nevéhez is megoldást jelentő `mas` = ifjú/fiú jelentést illeti, ezt pedig közvetlenül a magyarból is tudjuk magyarázni.  
 
+<!--section: 3-->
 #### Péterfai János írja:
 
+<!--section: 3.1-->
 > Urzigurumas nevében talán az Úr Sziguru Más látható. A [[M/Más\|Más]] a Fia igen gyakran, vagy a másodkirály, akit kivégeztek a főkirály helyett, ma már nehezen felfogható okokból.  
 
 MAS tehát lehet [[M/Más\|más]]\(a valaminek, hasonmása, kiköpött mása) és [[M/Második\|második]] szavunkban is szerepel.  
 
-Szintén a [[S/Sumér zodiákus\|sumér zodiákus]]beli (Baknak megfelelő Bakhal jegyet jelentő) [[S/Suhurmasku\|Suhurmasku]] címnél is szerepelt, hogy a (vitatható adatokat is szolgáltató) [[D/Dudás Rudolf\|Dudás Rudolf]] szerint a kecske szó értelme a Körös-kultúra idejében `MÁS`-nak hangzott (Labat 76), a kecskebak pedig `MÁS-NITA` volt. (Forrásának hitelességét illetőleg nem nyilatkozhatok, de birka jelentést is tulajdonítottak neki Gavin White könyvének adata szerint. [[M/Mastabbagalgal\|Mastabbagalgal]] címnél is szó lesz arról, hogy a hal jelentés hogy jöhetett a képbe. Ami az M-SZ vázú kecske és őz jelentésű szavakat illeti, csokorba összeszedve lásd [[M/MISZ\|MISZ]] címnél.)  
+Szintén a [[S/Sumér zodiákus\|sumér zodiákus]]beli (Baknak megfelelő Bakhal jegyet jelentő) [[S/Suhurmasku\|Suhurmasku]] címnél is szerepelt, hogy a (vitatható adatokat is szolgáltató) [[D/Dudás Rudolf\|Dudás Rudolf]] szerint a kecske szó értelme a Körös-kultúra idejében `MÁS`-nak hangzott (Labat 76), a kecskebak pedig `MÁS-NITA` volt. (Forrásának hitelességét illetően nem nyilatkozhatok, de birka jelentést is tulajdonítottak neki Gavin White könyvének adata szerint. [[M/Mastabbagalgal\|Mastabbagalgal]] címnél is szó lesz arról, hogy a hal jelentés hogy jöhetett a képbe. Ami az M-SZ vázú kecske és őz jelentésű szavakat illeti, csokorba összeszedve lásd [[M/MISZ\|MISZ]] címnél.)  
 
 Csatolva lásd MAS piktogramját, ami, meglepő ![assets/MAS_image1.png|fix_dark fix_light right|50](/img/user/M/assets/MAS_image1.png)  (vagy a [[M/MISZ\|MISZ]] címnél szereplő diagramba építhetősége miatt és [[S/Szarvas\|szarvas]] és a kecske témában is taglalt [[M/Magor\|Magor]] címnél írottak alapján nem is oly meglepő) módon egy [[K/Kereszt\|kereszt]]et formáz.  
 
@@ -41,7 +47,13 @@ Csatolva lásd MAS piktogramját, ami, meglepő ![assets/MAS_image1.png|fix_dark
 { #250529}
 
 
-Ott az is felvetődött, hogy az sem kizárt, hogy a Suhur-Mas összetétel nem más, mint Szarvas szavunk ([[M/Magor\|Magor]] címnél lásd Szarvas csillagképről) szavunk tulajdonképpeni elferdítése. Sokatmondó lehet a MAS piktogramjában a négyzet a kereszttel, hiszen Bobula Ida The Great Stag című dolgozatában (magyar fordításában) is írja:  
+Ott az is felvetődött, hogy az sem kizárt, hogy a Suhur-Mas összetétel nem más, mint Szarvas szavunk ([[M/Magor\|Magor]] címnél lásd Szarvas csillagképről) szavunk tulajdonképpeni elferdítése. Sokatmondó lehet a MAS piktogramjában a négyzet a kereszttel, hiszen...
+
+<!--section: 4-->
+#### Bobula Ida The Great Stag...  
+
+<!--section: 4.1-->
+...című dolgozatában (magyar fordításában) is írja:  
 > Úgy tűnik, a Zodiákus volt a témája a sumér korai elméleteknek – talán pre-sumér asztrológusoknak. A Közel-Kelet korai művészetében mindenhol szarvas állatokat találunk – őzet, szarvast, kecskét – **akik a szarvaik között hordják a Napkorongot vagy a szimbólumát, ami lehet egy négyzet, vagy egyenlő szárú kereszt** vagy épp egy nap-madár, mint a sas[^2].  
 -Amikor a Nap feltűnik a mennyei szarvas szarvai között – a [[T/Téli napforduló\|téli napforduló]]n – a tél elmúlik, a Nap visszanyeri korábbi erejét, a nappalok egyre hosszabbak, egy új ciklus, új év kezdődik. A korongnak vagy a madárnak a szarvak közt a Nagy Szarvast kellett jelképeznie aki visszahozza a Napot a szarvai között.  
 > A téli sötétség megsemmisítése és a Nap visszaszerzése kellett, hogy jelentse a lehető legnagyobb szolgálatot egy többé-kevésbé primitív emberi társadalomnak. Nem csoda, hogy a jótevő kultusza fennmaradt ilyen sokáig.  
@@ -63,6 +75,7 @@ A [[M/Mózes\|Mózes]] címnél is említett szülött jelentés[^3] kapcsán an
 
 Lásd még [[M/Más\|más]]. Lásd még szintén sumér-babiloni zodiákus-jegy elnevezés vonalon [[M/MES\|MES]].  
 
+<!--section: 5-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
