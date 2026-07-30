@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:54","updated":"2026-05-21T04:57"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:54","updated":"2026-07-30T02:37"}
 ---
 
 
@@ -102,8 +102,7 @@ Egy újdonsült ("fringe" kutatóként[^3] nyilván rengeteg zagyvalékkal, de h
 De Coppens mellett mások is foglalkoznak a témával, például a Diagnosys2012 weblapon, melyről szedett infókat egy Thunderbolt fórum-hozzászóló hozza elő:  
 > Murray Hope concluded from her study of Egyptian mythology that Sirius was responsible for a change in the Earth's orbit, resulting in the 5 extra ("epagomenal") days and also, possibly, the axis tilt which causes the four seasons. She also concluded that Sirius would be somehow involved with an imminent "evolutionary quantum leap" for mankind.  
 > —  
-> Murray Hope az egyiptomi mitológia tanulmányozásából arra a következtetésre jutott, hogy a Szíriusz volt felelős a Föld pályájának megváltozásáért, ami az 5 extra ("epagomenális") napot eredményezte, és valószínűleg a tengely dőlését is, ami a négy évszakot okozza. Arra is következtetett, hogy a Szíriusznak valamilyen módon köze van az emberiség közelgő "evolúciós kvantumugrásához".  { #lbseo8}
-
+> Murray Hope az egyiptomi mitológia tanulmányozásából arra a következtetésre jutott, hogy a Szíriusz volt felelős a Föld pályájának megváltozásáért, ami az 5 extra ("epagomenális") napot eredményezte, és valószínűleg a tengely dőlését is, ami a négy évszakot okozza. Arra is következtetett, hogy a Szíriusznak valamilyen módon köze van az emberiség közelgő "evolúciós kvantumugrásához".  { #lbseo8}
 
 
 A Hamlet Malmát is vizsgáló internetes forumozó, aki nyilván az alábbi, fentebb szerepelt passzus...  
