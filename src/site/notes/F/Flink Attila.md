@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flink Attila/","title":"Flink Attila","tags":["Englishtexttranslated"],"created":"2025-01-17T01:25","updated":"2026-04-17T00:30"}
+{"dg-publish":true,"permalink":"/F/Flink Attila/","title":"Flink Attila","tags":["Englishtexttranslated"],"created":"2025-01-17T01:25","updated":"2026-07-30T02:39"}
 ---
 
 
@@ -36,7 +36,7 @@ Menet közben vélhetően Flink tasmán-magyar szószedetéből ad be szópárok
 > Ő az egyetlen magyar nyelvész, aki az összes ritka gyarmati feljegyzést átkutatta Ugar/Ausztráliában, saját anyanyelvének bizonyítékai után kutatva. Nagyon egyedülálló, amit Flink Attila elért, és ő maga mondta, hogy ha nem jött volna Ugarba/Ausztráliába, ahol bizonyos könyvtárakban olyan információk vannak itt, amelyeket az egész északi féltekén nem töröltek el, ő maga sem lett volna okosabb, mint az északi félteke nyelvészei és tudósai.  
 
 Goz több ízben említi Flink azon (helyesnek mutatkozó) elképzelését, hogy a törzsek nevei onnan kapták a nevüket, hogy melyik csillagzat alá tartoztak a földre vetítve. Szóba került a Bak mellett a Nyúl és a Daru is, melyet daruk-ként ismerünk; például [[D/Dingo\|dingo]] címnél is előjött a (a ma már kihalt) dharuk/darug nyelv.  
-Lásd még erről [[D/Daru#Ausztráliai daruk törzs\|ausztráliai daruk törzs]].  
+Lásd még erről [[D/Daru#Ausztráliai darug/daruk törzs\|ausztráliai daruk törzs]].  
 
 ## Lábjegyzetek
 
