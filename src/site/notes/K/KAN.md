@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2026-07-23T11:43"}
+{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2026-07-30T02:37"}
 ---
 
 
