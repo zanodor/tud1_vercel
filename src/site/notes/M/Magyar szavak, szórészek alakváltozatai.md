@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar szavak, szórészek alakváltozatai/","title":"Magyar szavak, szórészek alakváltozatai","created":"2023-11-04T11:49","updated":"2026-03-19T18:59"}
+{"dg-publish":true,"permalink":"/M/Magyar szavak, szórészek alakváltozatai/","title":"Magyar szavak, szórészek alakváltozatai","created":"2023-11-04T11:49","updated":"2026-07-30T02:38"}
 ---
 
 
+<!--section: 1-->
 # Magyar szavak, szórészek alakváltozatai
 
+<!--section: 1.1-->
 A magyar szavak alakváltozatait nemcsak hasonló alakú, más jelentésű szavak irányában kell keresni, hanem jelentésen belül, sőt, azonos jelentésű szavak kissé eltérő szóalakkal jelentkezhetnek.  
 Ami fontos a szavak alakjának vizsgálatában, hogy egyik alak sem hibás a másikhoz képest. Az alant idézett Pitlu János által görög-rómainak és a "vagy-vagy erő(szak) elve"-nek nevezett elvet nem szabad használatban tartani, is-is-ben kell gondolkodni (ahogy a megboldogult Géczy Gábor is mondani szokta).  
 
@@ -15,8 +17,10 @@ A másik szavunk, [[H/Ház\|ház]] és változata, [[K/Kota\|kota]] (van még: [
 
 Az imént említett...  
 
+<!--section: 2-->
 #### Pitlu János Ősnyelvünk titkai...  
 
+<!--section: 2.1-->
 ...című az Ősi Gyökér 2011/1. sz. megjelent cikkében (mely egy előadás szövege) a mai analitikus felfogást a régi analógiással való összehasonlítása (ezen passzusa [[R/Rész és egész\|rész és egész]], [[A/Analógikus gondolkodásmód\|analógikus gondolkodásmód]], valamint [[M/Mathematics\|mathematics]] címnél is szerepelt) után maga is írja (valójában itt csak a kövéren kiemelt sor érdekes igazán; annyit hadd tegyünk hozzá hogy a kategórián belüli hangzóváltás a magyar nyelv részéről szándékos míg az idegen rontott utódnyelvek esetében szándékosságról maximum papi nyelvhamisítás kapcsán lehet szó):  
 > Az analitika, a ráció, rasszokra, részekre szakító kripto-igazsága, a matematikai szám és mennyiségi szemlélet alapja, míg az analógia az intuitív, érzelmi rokonító szemlélete a form a mérhetőségén túli szimbolikus képi világába kalauzol.  
 > Az Ősnyelvek nem véletlenül **képiek, s nem csorbíthatja őket hangzóváltás, a betűírások átírásbeli törékenysége**. A magyar- és az egyetemes őstörténet-kutatásnak létezik tehát egy fizikai leírása, mely egy lineáris idősíkon bemutatja egy nép és kultúrája számszerű változásait. A metafizika a történeti, és történelem-előtti emberiség szemléletében olyan dinamikus életútként vizsgálja a történést, amely a kikelő-kiteljesedő, – s halálával – újjáéledő elvet mutatott ki a teremtett világ valóságának minden szintjén.  
@@ -26,8 +30,10 @@ Egy harmadikként említhető a [[F/Fej\|fej]] szavunk, melynek (például szám
 
 Egy másik fontos bevezetésnek szánható adatsor Péterfai János [[F/Flexió\|flexió]]ról szóló passzusa, mely rámutat, hogy a nyelv legegyszerűbb szógyökeinek (nemcsak a bemutatott példán keresztül látható) magánhangzó-hajlításokkal létrejött alakváltozatai, hanem (kategórián belül) mássalhangzók cseréjével létrehozott változatok is a magyar ősnyelv jellegzetességei.  
 
+<!--section: 3-->
 #### Péterfai János írja:
 
+<!--section: 3.1-->
 > A Ku flexiót alkot a magyar nyelvben, Kő jelentéssel. A flexió sorozata a következő: Ku, Ko, Ka, Kő, Ke, Ki, Kü. Mindegyiknek van Kővel kapcsolatos jelentése. A bemutatott flexiós nyelvi jelenséget Archaikus Flexiónak nevezem, szemben a szemita nyelvekre jellemző Modern Flexióval. Teljesen bizonyos, hogy a szemita nyelvek flexiós jelensége a magyar Archaikus Flexióból alakult ki.  
 > A szemita nyelvekben ugyanis a flexiós ragozás BABAB típusú szavakon megy végbe, amíg a magyar flexió AB vagy BA, nagyon egyszerű szavakon jelentkezik. Általában a magyar flexiós, hajlítós nyelvi jelenséget Szóbokor képződésnek nevezik. A magyar nyelvben a Flexió, vagy a Hajlítás sok tízezer évvel megelőzi a szemita nyelvekben megjelenő Flexálást, vagy Hajlítást, ami valójában az oldalra kitérést, az egyenestől való eltérést írja le, nyelvi alap jellegzetességként.  
 - Az [[A/AB\|AB]] példánál maradva, Ap/Apa is létező változat és felhangos variációjaként fogható fel [[E/EB\|EB]]. Semmi indogermán vagy sémi jellegzetesség ebben nincs, mert ezen (csoportok alá vett) nyelveket a magyar messze megelőz.
@@ -37,8 +43,10 @@ Ha már hasonló szavakat keresünk, az egyik legszemléletesebb példa magyar b
 Innentől már rátérhetünk a korábban itt álló adatokra, ami a rokon alakú, de eltérő jelentésű szavakat illetve fogalmakat illeti.  
 [[V/Végvári József\|Végvári József]] szócsalád-rendszeréről szó volt. Hervay Tamás Szép vagyok, ne ölj meg! című, Ősi Gyökér 2006/1. sz. megjelent cikkében is értesít róla, hogy alakilag rokon szavaink között van fogalmi kapcsolat. Persze ő leginkább Pap Gábor adatait követve nyilatkozik (mint sokan mások).  
 
+<!--section: 4-->
 #### Pap Gábor Ki volt Magyar Ilona?...
 
+<!--section: 4.1-->
 ...című, a Dobogó újság 2011. 3-4. számában megjelent cikkében (melyben minden gondolatával nem kell egyetérteni de fontos dolgokat fogalmaz meg) a Jó pásztorok hagyatéka című könyvének függelékében írottakat másolva az alábbiakat írja:  
 > "Nyelvünk ősi jelölési rendszerében nem kapott minden kiejtett emberi hang külön jelet. Nem is a mássalhangzók jelölődtek, mint a szemita nyelvekben napjainkig, hanem csakis a mássalhangzó-bokrok. (...) Ezekből hatot tartunk számon, népszerű nevükön a "jeles" (L, R, J, Ly), a "tudós" (T, D, Ty), a "köhögős" (K, H, G, Gy), a "pöfögős" (P, B, V, F), a "nyámmogós" (M, N, Ny) és a "sziszegős" (S, Sz, Z, Zs) hangzóbokrokat. Ha magyar szavak tágabb jelentéstartományát akarjuk megismerni, célszerű végigpróbálgatnunk, milyen újabb és újabb szavak bújnak elő mögülük, amikor a bennük lévő mássalhangzókat a saját kategóriájuk kínálata szerint váltakoztatjuk, miközben a magánhangzók szabadon csereberélhetők."  
 
@@ -58,12 +66,18 @@ A magyar nyelv működése például megfigyelhető a [[G/Gyalog\|gyalog]] szavu
 Nemcsak a [[D/Dévaj\|dévaj]] szó az, ami megegyezik a [[D/Devil\|devil]] szóalakkal. A [[D/Dévaj\|dévaj]], [[T/Téboly\|téboly]] és [[T/Tévely\|tévely]] szavak mind egymás alaki változatai. Különösen a [[D/Diabolic\|diabolic]] eredetét megmutató téboly tűnik a [[D/Devil\|devil]] eredetét megmutató `tévely`-ből létrejöttnek.  
 
 [[D/Dajka\|Dajka]] és [[L/Levente\|Levente]] címnél volt arról legutóbb szó, hogy már a magyar nyelvben belső fejlődéssel megtörténik egyes szóelemek szándékos változtatása, hogy egy új szó kialkotásra kerüljön. Így dajka előtagja nyilván [[T/Tej\|tej]] és Levente értelme tulajdonképpen Oroszlán-Nap.  
-Molnár V. József az [alábbi](https://youtu.be/7gMQuvM4Dm0) videóban 19:00-nál azt mondja, hogy **a magyar rokonító nyelv, mellyel egyedüli Európában**. Tulajdonképpen ő ezzel szintén a magyar szavak alaki változatáról beszél. (Itt egyébként a [[S/Siker\|siker]]t a [[S/Sugar\|sugár]] szóval rokonítja (ahogy mondja, a búzában benne aluszik a Nap).)  
+Molnár V. József az [alábbi](https://youtu.be/7gMQuvM4Dm0) Magyar szentek című, sajnos a YouTube-on már elérhetetlen videóban 19:00-nál azt mondja, hogy **a magyar rokonító nyelv, mellyel egyedüli Európában**. Tulajdonképpen ő ezzel szintén a magyar szavak alaki változatáról beszél. (Itt egyébként a [[S/Sikér\|sikér]]t a [[S/Sugar\|sugár]] szóval rokonítja; ahogy mondja, a búzában benne aluszik a Nap.)
+{ #3en38g}
 
-Azért nem egyedüli, mert nemcsak az orosz `свет` (szvet) \[egyaránt jelent világot, világosságot\] és `цветок` (cvetok) \[virág\] szópárra korlátozódnak az összefüggő jelentésű szavak. Lásd még [[A/Aszklépiosz\|Aszklépiosz]] témát [[S/Szláv#Szláv nyelvek\|szláv nyelvek]].  
+> [!lasdmeg] &nbsp;
+> > [!example] &nbsp;
+> > Azért nem egyedüli, mert nemcsak az orosz `свет` (`szvjet`) \[világot, úgy mint világosságot jelent, de a világra más szava van\] és `цвет` (`cvet`) \[virág\] szópárra korlátozódnak az összefüggő jelentésű szavak.  
+> > - Lásd még [[A/Aszklépiosz\|Aszklépiosz]] témát [[S/Szláv#Szláv nyelvek\|szláv nyelvek]].
 
+<!--section: 5-->
 #### Götz László Keleten kél a Nap...
 
+<!--section: 5.1-->
 ...című könyvében írja:  
 > A rokon artikulációjú mássalhangzók variálása segítségével a nyelvek nyilvánvalóan új, hasonló hangzású szavakat képeznek a rokon fogalmak megkülönböztetésére. Vagyis a hangárnyalatok jelentésbeli árnyalatoknak felelnek meg.  
 
@@ -71,21 +85,27 @@ Azért nem egyedüli, mert nemcsak az orosz `свет` (szvet) \[egyaránt jelen
 Könyve 111. oldalán szereplő táblázatában hoz példákat.  
 Például az [[A/Arachnophobia\|arachnophobia]] és [[W/Work\|work]] címnél is említett görög `ergo` = sző, `arkys` = háló és `aráchne` = pók, melyekhez hasonlóak a szintén általa hozott német `werg` = kóc, csepü, `wirken` = sző és ófeln. `werah` = kóc, csepű, sző szavak.  
 
+<!--section: 6-->
 #### Bognár Ferenc Nimrudi hagyományunk Boldogasszony-tisztelete, és Fekete Madonnái...
 
+<!--section: 6.1-->
 ...című cikkében az analógiát és szóbokrokat emeli ki:  
 > Persze a fajt-keresők nem látnak folytonosságot az ismeretlen származású "görög" ion nép, és a keleti juehtik között. Viszont tudva az őslogikáról, nekünk már bizonyítékot jelent, az életmódra utaló törzsi jelölésük hasonlósága. Ez mutat utat a további szófejtési kísérletekhez. Sose keressünk konkrét jelentéssel bíró szó-őst, mert eleink nyelve, a belső, lényegi lélek-azonosságok mentén, analógiásan építkezett! Ettől, isten-neveik körül, szóbok-szerű jelentés-csoportosulások virágzottak ki. A prehisztorikus időkből származó nevek több, egyszerre több, sok, lényegileg hasonló értelemmel bírtak, például ahogy a szék hangalak is székelyeinknél, a törzset jelző, valamint, a területük, (országuk,) de még hatóság, hatalmi központ, uralom, és ülőhely, jelentést is hordozott. Éppen ez a szokatlan nyelvi jellemző bír, a régiség jegyével.  
 
+<!--section: 7-->
 ## Magyar szavakkal vagy alakváltozataikkal való megfeleltetésekről
 
+<!--section: 7.1-->
 Az alábbi passzus [[L/Light\|light]] címnél is szerepelt:  
 Vannak olyan esetek is, amikor egy teljesen értelmes, mai modern magyar nyelvünkben meglévő és használt magyar szó jön ki eredményül, mégsem lehet egyértelműen állítani, hogy a kapott szó a megoldás. Miért? Mert a magyar nyelv alakváltozatokban gondolkodik. Több ilyen esettel találkoztam, de most csak kettő jut eszembe példaként (illetve [[N/Népetimológia\|népetimológia]] címnél azóta több is volt).  
 A [[T/Török\|török]] népnév nem azt jelenti, hogy "én török" például diót (vagy lenne "törők," mint akik törnek). Ez teljesen fals megközelítés. A szakrális hátteret kell keresni és főleg nem igéket.  
 Ezért sem lehet a Németh Gyula által török `kürt` = hótorlasz jelentéssel megadni a Kürt törzs nevének értelmét, de az sem egyértelmű, hogy egyáltalán a [[K/Kürt\|kürt]] szavunk a megoldás. Hiszen a szakrális, vagy akár totemre vonatkozó értelmet máshogy megkapjuk, és az ü-hangosításban tulajdonképpen olyanféle változtatást kell látni, mint amit például Ilona nevünkben, ahol I van É, O van A és N van NY helyett. **Kódolás**, ha úgy tetszik.  
 Minden megoldás ideiglenes (és tulajdonképpen fals), amíg a megfelelő szakrális háttérre fény nem derül. Ha a magyar is csak igével képes dolgozni, az azt jelenti, hogy nem oldotta meg a feladatot.  
 
+<!--section: 8-->
 ## Magyar szavak hangalakjának képlékenysége, alakváltoztathatósága – szabály és kivétel
 
+<!--section: 8.1-->
 A fentebb és másutt írottak alapján azt mondhatnánk, hogy mindegy, hogy kategórián belül hogy hangzósítok egy szót, [[K/Kereszt\|kereszt]], \*köröszt, \*kürüszt, vagy akár [[G/Gerezd\|gerezd]] (de az már mást jelent!), mert kategórián belül hangváltozás megengedett. Ilyenképpen akármilyen fonetikai alak megfelel magyar szóként kimondva és leírva. A magánhangzó-harmónia szabály miatt a magánhangzók mindenképp cserélődhetnek, magasról mély hangrendűre is (például ég = ig = ag = og; an, án = ony, eny, stb.).  
 Ugyanakkor másutt arról szóltunk, hogy egy adott magyar szó okkal hangzósított úgy ahogy. Például a [[H/Hold\|Hold]] szóra rámondhatja valaki, hogy [[H/HUD\|hud]] vagy [[H/Hugya\|hugya]] volt eredetileg, de akkor nem veszi figyelembe a [[H/Holt\|holt]] és [[H/Halad\|halad]] szavakat és fogalmakat és lehetséges szerepüket a Hold név kialakításában. Mert ha ezeket is figyelembe veszem, akkor már mondhatom, hogy a Hold név elsődlegesen ezekre hasonlít (kivált az l hang meglétével; ugyanakkor meg lehet, hogy a hud, hugya formákról feledkezem meg). A második esetben már mondhatjuk (ahogy másutt, [[M/Magyar képrejtvények\|magyar képrejtvények]] címnél), hogy egy szóba több idea került belepakolva és tulajdonképpen átlagolva kapjuk a végeredményt.  
 
