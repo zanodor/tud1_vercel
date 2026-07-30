@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Daru/","title":"Daru","created":"2024-12-18T11:51","updated":"2026-03-05T01:35"}
+{"dg-publish":true,"permalink":"/D/Daru/","title":"Daru","created":"2024-12-18T11:51","updated":"2026-07-30T02:38"}
 ---
 
 
@@ -64,9 +64,9 @@ A Szimbólumtár adatsora:
 > A magyar [[E/Eszterág\|eszterág]] (eszter + ág) a gólya vagy a daru neve onnan van, hogy a madár két vékony hosszú lába megfordított V-alakú elágazáshoz hasonló.  
 - Ehhez tegyük hozzá, hogy a szintén az ő adataként hozott orosz `osztrov` = sziget is ugyanerre az elágazásra utal és szinte azonos alakú vele.
 
-## Ausztráliai daruk törzs
+## Ausztráliai darug/daruk törzs
 
-Bizonyos Gozaimasu nevű ausztrál kutatótól (aki a 2016-ban elhalálozott, [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél említett [[F/Flink Attila\|Flink Attilá]]t tanítójának és mentorának tartotta) való [ezen](https://www.youtube.com/watch?v=FamukDMy0BM) videójában a magyar nyelvről (is) beszél és 45:30-nél, miután a brisbane-i Bak törzs Capricornus irányával összefüggésbe hozataláról beszélt, szót ejt a Daru csillagképpel összefüggésbe hozható Daruk törzsről, akik abban az irányban éltek (Sydney). Ezt Flink tanította neki, aki bennszülöttekkel beszélt és a magyar nyelvi összefüggéseket hámozta ki. Kérdés mennyire jól. Nyilván minél több információd van, annál könnyebben áll össze minden.  
+Bizonyos Gozaimasu nevű ausztrál kutatótól (aki a 2016-ban elhalálozott, [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél említett [[F/Flink Attila\|Flink Attilá]]t tanítójának és mentorának tartotta) való [ezen](https://www.youtube.com/watch?v=FamukDMy0BM) videójában a magyar nyelvről (is) beszél és 45:30-nél, miután a brisbane-i Bak törzs Capricornus irányával összefüggésbe hozataláról beszélt, szót ejt a Daru csillagképpel összefüggésbe hozható darug/daruk/dharuk törzsről, akik abban az irányban éltek (Sydney). Ezt Flink tanította neki, aki bennszülöttekkel beszélt és a magyar nyelvi összefüggéseket hámozta ki. Kérdés mennyire jól. Nyilván minél több információd van, annál könnyebben áll össze minden.  
 Utána a Nyúl csillagkép kerül szóba.  
 
 Közben [[D/Dingo\|dingo]] címnél is előjött a (a ma már kihalt) dharuk/darug törzs nyelve.  
