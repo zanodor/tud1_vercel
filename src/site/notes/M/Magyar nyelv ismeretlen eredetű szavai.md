@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv ismeretlen eredetű szavai/","title":"Magyar nyelv ismeretlen eredetű szavai","tags":["Englishtexttranslated"],"created":"2023-12-27T05:53","updated":"2026-07-30T02:39"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv ismeretlen eredetű szavai/","title":"Magyar nyelv ismeretlen eredetű szavai","tags":["Englishtexttranslated","containscallouts"],"created":"2023-12-27T05:53","updated":"2026-08-03T20:44"}
 ---
 
 
