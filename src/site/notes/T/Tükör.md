@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tükör/","title":"Tükör","created":"2024-05-01T14:30","updated":"2026-03-05T01:36"}
+{"dg-publish":true,"permalink":"/T/Tükör/","title":"Tükör","created":"2024-05-01T14:30","updated":"2026-08-03T20:43"}
 ---
 
 
@@ -8,7 +8,8 @@
 #### Péterfai János írja:
 
 > [[H/Humbaba\|Humbaba]] kezében tükör van, jelezve isteni minőségét. A Tükör a magyarok egyik fontos jelképe. A Tükrösök jelképe a Tükör, ami a Napot jelképezi. A név megmutatja, miről van szó. Tu a Nap, és a Kör a Nap formája. Ebből alakult ki a TuKör szavunk, ami ma Tükör formában él a nyelvben. Az ősi Tukris – Tükrös országnevek is erről beszélnek. Vajon a Tükrösök nevének van-e köze a Türk népnévhez? Azt tudni, hogy a kazár király előtt tükröt emeltek a magasba, amikor vonult seregével. A kazárok a magyarok egyik törzse volt.  
-> Érdekes, hogy bárhogyan is bontjuk fel a szót, hasonlóan helyes értelmezéshez jutunk. Tü-Kör felbontásban Tü a Nap, mely Kör alakja miatt a Nap fényének színéből, Aranyból készült Kör alakú tükröket készítettek. Tük-Ör felbontásban (a Vöd-Ör = Víz-Őr analógiájára) Tük (Tök, Tik, Tek, stb.) is a Nap neve. Őr lehet Or, Úr is. Mindennek ősvallásbeli hátteréről írt Magyar Adorján A lelkiismeret aranytükre című könyvében.  
+
+Érdekes, hogy bárhogyan is bontjuk fel a szót, hasonlóan helyes értelmezéshez jutunk. Tü-Kör felbontásban Tü a Nap, mely Kör alakja miatt a Nap fényének színéből, Aranyból készült Kör alakú tükröket készítettek. Tük-Ör felbontásban (a Vöd-Ör = Víz-Őr analógiájára) Tük (Tök, Tik, Tek, stb.) is a Nap neve. Őr lehet Or, Úr is. Mindennek ősvallásbeli hátteréről írt Magyar Adorján A lelkiismeret aranytükre című könyvében.  
 
 #### Antal István Tündéres, derengő...
 
