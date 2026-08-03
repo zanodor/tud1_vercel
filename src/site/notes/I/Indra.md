@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Indra/","title":"Indra","tags":["Englishtexttranslated"],"created":"2023-11-10T07:33","updated":"2026-06-13T23:21"}
+{"dg-publish":true,"permalink":"/I/Indra/","title":"Indra","tags":["Englishtexttranslated"],"created":"2023-11-10T07:33","updated":"2026-08-03T20:42"}
 ---
 
 
@@ -82,7 +82,7 @@ A Szaturnusszal azonosított indiai [[K/Kála\|Kála]]-val kapcsolatosan sokatmo
 "Sok ezer Indrát és más istenséget győzött már le Kála a világkorszakok során."  
 Ez arra látszik utalni, hogy sok 60 éves ciklusokban számolt idő telt el, mely alatt a Szíriusz és a Nap egymás körött elhaladt. Egyfajta utalás is arra, hogy a Jupiter-Szaturnusz Hatalmas Együttállásokat használták annak kiszámítására, mikor lesz Szíriusszal találkozó. Erről [[B/Betlehemi csillag\|Betlehemi csillag]] címnél is volt szó.  
 
-Mivel Indra tehát Nap- és Égistennek is felfogott, így viharisten is volt, valamint nevében (és perzsa párjának, [[A/Andra\|Andra]]-nak nevében) Dra nemcsak Csilagot, hanem fát (és így tölgyet) is jelent, érthetővé válik, miért ábrázolták volna (a szintén napisteni szerepkörben is számon tartott [[S/Széth\|Széth]]-hez hasonlóan; emlékezünk Széth [[F/Furka\|furká]]jára) szintén keresztrefeszítve. Mivel a Nap Nagy Évbeni keresztre feszítése a Szíriusz-rendszerhez kötődik, így lehet, hogy [[S/Sarama\|Sarama]] fia és ura is egyben.  
+Mivel Indra tehát Nap- és Égistennek is felfogott, így viharisten is volt, valamint nevében (és iráni párjának, [[A/Andra\|Andra]]-nak nevében) Dra nemcsak Csilagot, hanem fát (és így tölgyet) is jelent, érthetővé válik, miért ábrázolták volna (a szintén napisteni szerepkörben is számon tartott [[S/Széth\|Széth]]-hez hasonlóan; emlékezünk Széth [[F/Furka\|furká]]jára) szintén keresztrefeszítve. Mivel a Nap Nagy Évbeni keresztre feszítése a Szíriusz-rendszerhez kötődik, így lehet, hogy [[S/Sarama\|Sarama]] fia és ura is egyben.  
 
 Bakos Attila A Duna Evangéliuma című könyvének 222. oldalán az egyiptomi Ra nevéből kiindulva Ind-Ra-nak olvassa, majd a szemekkel beborított bőrűsége kapcsán Indra nevének képírási olvasataként Szem-Úr értelmet ad neki, de ahogy fentebb láttuk, nem tudja eldönteni, hogy Napistent, vagy Nimrud-Oriont kell-e inkább látni benne.  
 
