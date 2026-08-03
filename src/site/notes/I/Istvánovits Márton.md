@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Istvánovits Márton/","title":"Istvánovits Márton","created":"2023-11-03T06:12","updated":"2026-07-03T23:15"}
+{"dg-publish":true,"permalink":"/I/Istvánovits Márton/","title":"Istvánovits Márton","tags":["containscallouts"],"created":"2023-11-03T06:12","updated":"2026-08-03T20:45"}
 ---
 
 
