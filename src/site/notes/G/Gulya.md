@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gulya/","title":"Gulya","created":"2024-05-07T18:36","updated":"2026-07-30T02:39"}
+{"dg-publish":true,"permalink":"/G/Gulya/","title":"Gulya","created":"2024-05-07T18:36","updated":"2026-08-03T20:51"}
 ---
 
 
@@ -11,7 +11,7 @@ Nem véletlenül egyezik vele a [[G/Gólya\|gólya]] név, mely fontos [[T/Tejú
 
 ...sorok alapján a gulya Tejút-jelkép:  
 > Gulya szavunk a szarvasmarha csordáját jelenti. A Csorda a csordogáló, sorban járó (sorda) tehenek csapata, reggel sorban, folyamatosan, folydogálva mennek a mezőre, este pontosan így térnek haza az istállóba. A Csorda jelentésének megértése segít a Gu-Lya megértésében. A Gu szarvasmarha, a Lya (Ja) Folyó, folydogáló szarvasmarha csapat. **Az Úr-gu-la szumer név Gula része közeli rokona a Gulya szónak**. A kaukázusi `Gula` – Göböly, egyértelműen a magyar Gula > Gulya párja.  
-- Az etimológia szótár egy kaukázusi, dargin nyelvű `gula` = hízásra fogott marha szót szeretne adni eredetéül.
+- Az etimológia szótár egy kaukázusi, dargin nyelvű `gula` = hízásra fogott marha szót szeretne adni eredetéül.
 
 Szerepelt így ezen adatsor [[G/Gula#Gula 2)\|Gula]] címnél is. De [[C/Cola\|cola]] címnél is, ahol kimutattuk, hogyan jött létre az utódnyelvek folyó jelentésű szava.  
 [[T/Tehén\|Tehén]] címnél írottakat is lásd, sumér képpel is.  
