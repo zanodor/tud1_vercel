@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Moon/","title":"Moon","tags":["containstransclusions"],"created":"2024-11-23T05:29","updated":"2026-07-18T22:52"}
+{"dg-publish":true,"permalink":"/M/Moon/","title":"Moon","tags":["containstransclusions"],"created":"2024-11-23T05:29","updated":"2026-08-03T20:44"}
 ---
 
 
@@ -731,7 +731,7 @@ Lásd még [[E/Észak#északi és déli csillagképek\|északi és déli csillag
 
 <!--section: 27.1-->
 A Nap az Ég-Úr/Égatya [[O/Orion\|Orion]] (Uri-An) fia. A magyaroknál Orion (vagy inkább övcsillagainak) neve [[N/Nimrud\|Nimrud]]. Az ind [[A/Apam Napat\|Apam Napat]] is találó név a viszony kifejezésére, de a (nem-etióp) kusita [[N/Napata\|Napata]] név is.  
-Úgy tűnik viszont, hogy a Nap csillagkép-teste (atyjaként) lehet Orion. Nem igazán érteni a miértjét (bár alant is lesz még vizsgálata, Jankovics Marcell ismert adatai alapján), talán ugyanarról lehet szó, mint amit látunk a bolygók ([[M/Merkúr\|Merkúr]], [[M/Mars\|Mars]], [[J/Jupiter\|Jupiter]], [[S/Szaturnusz\|Szaturnusz]]) elnevezésében, minthogy a Nap neveiből és minőségeiből indulnak ki. Furcsa amit Magyar Adorján is ír ([[K/Kilenc\|kilenc]] cím alján szereplő adata szerint igen meglepően **maga Orion is lehet a Nap**):  
+Úgy tűnik viszont, hogy a Nap csillagkép-teste (atyjaként) lehet Orion. Nem igazán érteni a miértjét (bár alant is lesz még vizsgálata, Jankovics Marcell ismert adatai alapján), talán ugyanarról lehet szó, mint amit látunk a bolygók ([[M/Merkúr\|Merkúr]], [[M/Mars\|Mars]], [[J/Jupiter\|Jupiter]], [[S/Szaturnusz\|Szaturnusz]]) elnevezésében, minthogy a Nap neveiből és minőségeiből indulnak ki. Furcsa, amit Magyar Adorján is ír ([[K/Kilenc\|kilenc]] cím alján szereplő adata szerint igen meglepően **maga Orion is lehet a Nap**):  
 > Orion is tulajdonképen Heraklésszel is azonos, vagyis a mi [[M/Magor\|Magor]] Napistenünkkel is, vagyis hogy itt egy hitregének csillagokbani illusztrálásával van dolgunk[^13].  
 
 Éppen [[H/Hunor\|Hunor]] kellene legyen. Ugye a zavart úgy lehet feloldani, hogy a Nap Orionbani állásával azonosul vele, de Orion a Nap Atyja, akár fizikai-kozmogóniai értelemben is.  
