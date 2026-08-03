@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szekér/","title":"Szekér","created":"2025-02-24T18:12","updated":"2026-07-30T02:38"}
+{"dg-publish":true,"permalink":"/S/Szekér/","title":"Szekér","created":"2025-02-24T18:12","updated":"2026-08-03T20:37"}
 ---
 
 
@@ -51,10 +51,18 @@ Kerék és szekér jelentésű akkád `magarru`, `mugirru` szavakat lásd [[M/Ma
 Igen érdekes az akkád `naggār magarri` = kerék- és kocsikészítő ([[B/Bognár\|bognár]], honnan [[W/Wagon\|wagon]]er), hiszen mindkét szó magar eredetre megy vissza. ([[N/Nagar\|Naggar]] címhez is betéve.)  
 
 Az [alábbi](https://youtu.be/DqMogRPokq8) Turul és Szarvas IV. rész című ÁKA előadás első felét a [[L/Luca\|Luca]] napnak és a lucázásnak szenteli.  
-![assets/Szekér_image1.png|fix_dark fix_light](/img/user/S/assets/Szek%C3%A9r_image1.png)  
-A mellékelt képen az Amerikába és Japánba is meghívott, mondhatni világhírű képíró-asszony, a galgamácsai Vankóné Dudás Juli néni rajza található, mely megörökíti, mit csináltak Luca napján az emberek (mely tréfákról a fonóban és másutt hosszú ideig beszéltek): az hogy a ház vagy a fa ([[V/Világfa\|világfa]], életfa: Tejút) tetejére vitték a szekér darabjait és ott – nagy nehézségek árán – összeszerelték, nálam azt jelenti, hogy a Szék-Úrt, a napot analógiás mágiával akarták magasabbra emelni (a delelő magasság nő is december 24. után). A Luca-szék kifejezésben is a [[S/SZÉK\|Szék]] = Nap, mely ugye [[N/Négy\|négy]] lábú is (bár Kubínyi Tamás 27:40-nél azt mondja és képeket is hoz, hogy ez nem az eredeti: háromlábú széket is bemutat, mondván, tán ez lenne az eredeti).  
 
-Hogy a szekér nem csak a Nap lehet, erről [[S/Szekeres csillagkép\|Szekeres csillagkép]] címnél is volt szó.  
+| ![assets/Szekér_image1.png\|fix_dark fix_light](/img/user/S/assets/Szek%C3%A9r_image1.png) | ![Szekér_image20260803203003769.jpeg\|fix_dark fix_light\|514](/img/user/S/assets/Szek%C3%A9r_image20260803203003769.jpeg) |
+| -------------------------------------------------- | ----------------------------------------------------------------- |
+
+A mellékelt rajzon az Amerikába és Japánba is meghívott, mondhatni világhírű képíró-asszony, a galgamácsai Vankóné Dudás Juli néni alkotása található, mely megörökíti, mit csináltak Luca napján az emberek (mely tréfákról a fonóban és másutt hosszú ideig beszéltek): az hogy a ház vagy a fa ([[V/Világfa\|világfa]], életfa: Tejút) tetejére vitték a szekér darabjait és ott – nagy nehézségek árán – összeszerelték, nálam azt jelenti, hogy a Szék-Úrt, a napot analógiás mágiával akarták magasabbra emelni (a delelő magasság nő is december 24. után). A Luca-szék kifejezésben is a [[S/SZÉK\|Szék]] = Nap, mely ugye [[N/Négy\|négy]] lábú is (bár Kubínyi Tamás 27:40-nél azt mondja és képeket is hoz, hogy ez nem az eredeti: háromlábú széket is bemutat, mondván, tán ez lenne az eredeti).  
+
+> [!check] &nbsp;
+> A sematikus ábrán a nyári napfordulós állás bemutatására törekvő megoldás szerepel; a népszokásban nyilván az áll a szekér magasra vitele mögött, hogy innentől (téli napforduló) megindul a Nap felfelé.
+
+> [!lasdmeg] &nbsp;
+> > [!Lásdmég] Lásd még &nbsp;
+> > Hogy a szekér nem csak a Nap lehet, erről [[S/Szekeres csillagkép\|Szekeres csillagkép]] címnél is volt szó.
 
 <!--section: 6-->
 #### Szántai Lajos írja:  
@@ -127,6 +135,8 @@ Az [[I/Indogermán nyelvészet\|indogermán nyelvészet]] képviselői által ha
 
 > [!attention] &nbsp;
 > Igazán tanulságos az eljárás: a régészeti leletekből válaszd ki a Kr.e.-i 6-5. évezred utániakat és az eredetükre nézve soha nem tisztázott, akár magyar nyelvjárásokból származó szavakat alkotó pidzsin nyelvekből tegyél melléjük hipotetikus gyököket. Kész.
+
+
 
 Bárczy Zoltán Töprengések a hazáról I. című az Ősi Gyökér 2008/2. sz. megjelent cikkében írja, hogy a szekér modellek lelőhelyei: Budakalász, Szamosújvár, Novaj, Gyulavarsánd és Herpály. Megjelenési idejük i.e. 2000-1600 között.  
 
