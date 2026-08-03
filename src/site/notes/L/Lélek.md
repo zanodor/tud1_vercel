@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2026-06-13T23:41"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2026-08-03T20:41"}
 ---
 
 
@@ -336,8 +336,7 @@ A [[P/Parázs\|parázs]] par- eleme hasonló a [[P/Por\|por]] és [[P/PUR\|pur]]
 
 ...című tanulmányában finnugor képzetkörből próbál okoskodni:  
 > Ha "leásunk" a [[F/Fa\|fa]] szó etimológiai gyökeréhez, a rokonnépek nyelvében pa, pu, pea, pū, po megfelelőket találunk. Azt látjuk tehát, hogy az ősi fa igen közel esik a por frátria-névhez, mintha belőle képződött volna. Két olyan szavunk van, amely esetleg idevonatkoztatható. Egyik a 'húzóháló úszója' jelentésű `para` (belőle származik a jól ismert nyelvújításkori összetétel: a parafa). A para finnugor megfelelőiből (tutaj, fa-, úszó a húzóhálón) nyelvészeink számára a "vízen úszó fa" eredeti jelentés hámozható ki. A másik szavunk, amelynek lehet valami köze a por frátria-névhez a [[P/Por\|por]] főnév. E szócikknél vogul és finn megfeleléseket találunk, előbbi jelentése 'szemét', utóbbié 'forró hamu, törmelék'. A para szó jelentéséből – 'vízen úszó fa' – egyértelmű, hogy az ősi fa tővel áll kapcsolatban. (A Parne az egyik elképzelés szerint: olyan lény, aki ha vízbe ugrik, nem süllyed el.) De ha a para az ősi fát őrzi, miért ne őrizhetné a por is. A két szó rendelkezésre álló jelentései között van egy konstans értelmezhetőségi lehetőség: olyan fa, amely nincs a helyén. Kidöntötték, vízre fektették, elégették, törmelékké, szemétté tették, már nem él és nem áll. Por és hamu. (Lásd: elporlik.)  
-> Érdekes párhuzam, hogy amikor a [[K/Kalevala\|Kalevalá]]ban isten fája, a [[T/Tölgy\|tölgy]] nem akar megfoganni, feljő egy hős a tengerből, lángra lobbantja a lekaszált füvet, amely elég, utána nagy halom hamu marad. "Száraz por egész egy domb van", – olvassuk az eposzban – ebbe hull bele a [[M/Makk\|makk]], és a csemete kizsendül. Hamu lesz Fő és Fa közös égéséből, lángokban történő egyesüléséből a regében is, de a mitikus hamut semmiképpen sem foghatjuk fel úgy, mintha az eggyé válás eredménye a "semmi" lenne, hanem csak mint a termékeny jövő talaját. Végül: a vogul por megfelelője szemét jelentésű, és a finn hamu alapszavának jelentése is az: szemét. Por és hamu felcserélhető.  { #67vnqk}
-
+> Érdekes párhuzam, hogy amikor a [[K/Kalevala\|Kalevalá]]ban isten fája, a [[T/Tölgy\|tölgy]] nem akar megfoganni, feljő egy hős a tengerből, lángra lobbantja a lekaszált füvet, amely elég, utána nagy halom hamu marad. "Száraz por egész egy domb van", – olvassuk az eposzban – ebbe hull bele a [[M/Makk\|makk]], és a csemete kizsendül. Hamu lesz Fő és Fa közös égéséből, lángokban történő egyesüléséből a regében is, de a mitikus hamut semmiképpen sem foghatjuk fel úgy, mintha az eggyé válás eredménye a "semmi" lenne, hanem csak mint a termékeny jövő talaját. Végül: a vogul por megfelelője szemét jelentésű, és a finn hamu alapszavának jelentése is az: szemét. Por és hamu felcserélhető.  { #67vnqk}
 
 
   
@@ -373,7 +372,7 @@ Rostás László Mit lehet tudni a hunok és magyarok kapcsolatáról? című az
 
 ## Lélekszékhely
 
-Volt már róla szó, hogy a szíven kívül a májban is gondolták lakni, illetve [[V/Vese\|vese]] kapcsán kínai info jött elő.  
+Volt már róla szó, hogy a szíven kívül a májban is gondolták "lakni", illetve [[V/Vese\|vese]] kapcsán kínai info jött elő.  
 Csak itt ugye az a gondunk, hogy ha többféle lelket különböztetünk meg, akkor melyik léleknek melyik a székhelye?  
 
 #### Nagy Róbert Hol van a kutya elásva...
