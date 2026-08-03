@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Beteg/","title":"Beteg","tags":["Englishtexttranslated"],"created":"2024-04-20T15:38","updated":"2026-07-23T11:44"}
+{"dg-publish":true,"permalink":"/B/Beteg/","title":"Beteg","tags":["Englishtexttranslated","containscallouts"],"created":"2024-04-20T15:38","updated":"2026-08-03T20:42"}
 ---
 
 
