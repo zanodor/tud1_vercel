@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts","containstransclusions"],"created":"2025-07-16T14:23","updated":"2026-07-03T23:12"}
+{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts","containstransclusions"],"created":"2025-07-16T14:23","updated":"2026-08-03T20:43"}
 ---
 
 
@@ -25,7 +25,9 @@ Megint csak az az embernek az érzése, hogy ezek látszat tevékenységek egy l
 ...című könyvének 29 és 66. oldalán fontos dologra hívja fel a figyelmet:  
 > ...a hagyományos jelképalkotásban a nyelvi homofónia kulcsszerepet játszott...  
 > \[...\]
-> Emlékeztetnék arra, hogy a fogalmak közötti összefüggés olykor csupán a szavak homofóniáján alapuló "népi etimológizálás" következménye: mindazonáltal az ember jelképteremtő kedvének ez nem szabott gátat a későbbiekben sem.  
+> Emlékeztetnék arra, hogy a fogalmak közötti összefüggés olykor csupán a szavak homofóniáján alapuló "népi etimológizálás" következménye: mindazonáltal az ember jelképteremtő kedvének ez nem szabott gátat a későbbiekben sem.
+{ #u153l6}
+
 
 **Épp ez a lényeg.**  
 
