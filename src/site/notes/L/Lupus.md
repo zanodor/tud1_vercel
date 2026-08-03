@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lupus/","title":"Lupus","created":"2023-12-03T04:16","updated":"2026-07-18T22:55"}
+{"dg-publish":true,"permalink":"/L/Lupus/","title":"Lupus","tags":["containscallouts"],"created":"2023-12-03T04:16","updated":"2026-08-03T20:46"}
 ---
 
 
