@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csillagászat – tropikus kontra sziderikus/","title":"Csillagászat – tropikus kontra sziderikus","tags":["Englishtexttranslated"],"created":"2023-11-09T12:57","updated":"2025-10-10T21:53"}
+{"dg-publish":true,"permalink":"/C/Csillagászat – tropikus kontra sziderikus/","title":"Csillagászat – tropikus kontra sziderikus","tags":["Englishtexttranslated"],"created":"2023-11-09T12:57","updated":"2026-08-03T20:42"}
 ---
 
 
@@ -24,7 +24,7 @@ Tulajdonképpen így valamennyire érthető az alant még taglalásra kerülő U
 > A két zodiákus kör tehát egymáshoz képest folyamatos, lassú forgó mozgást végez, melynek éves mértéke kb. 50-53 ívmásodperc, amit a lassúság miatt nehéz pontosan megállapítani. Ezt az értéket precessziós állandónak nevezik, melynek nagyságát Indiában is többféleképpen határozták meg. Annak a ciklusnak az időtartamát, amely alatta két zodiákus egymáshoz képest teljesen körbefordul, szintén csak hozzávetőlegesen tudjuk meghatározni, de kb. 24-25 ezer évre tehető. Az utolsó zodiákus egybeesés nagy valószínűséggel Krisztus születése körül, kb. 2000 évvel ezelőttre tehető. Azóta a tavaszpont folyamatosan halad hátrafelé, és a precessziós érték jelenleg 23°50'. Ezt az értéket a védikus asztrológiában lahiriajanámsa-nak nevezik. Például 2000 tavaszán a Nap a sziderikus zodiákusban, a napéjegyenlőség idején, valójában nem a Kos 0. fokán, hanem a Halak 6. fokán állt.  
 
 Kenneth Grant The Magical Revival című A. Crowley anyagát feldolgozó könyvében volt arról szó, hogy eleinte a csillagok, bolygók használtattak időmérésre, mely után álltak át (luni)szoláris mérésre. Talán ezen infó mintha [[P/Poláris-szoláris átállás\|poláris-szoláris átállás]] címnél is szerepelt volna.  
-KG ugye folyamatosan Széth-ről szolgáltat adatokat.  
+Grant ugye folyamatosan Széth-ről szolgáltat adatokat.  
 
 #### Zajti Ferenc Zsidó volt-e Jézus...
 
