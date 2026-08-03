@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kontár/","title":"Kontár","tags":["containscallouts"],"created":"2025-03-05T02:30","updated":"2026-08-03T20:44"}
+{"dg-publish":true,"permalink":"/K/Kontár/","title":"Kontár","tags":["containscallouts"],"created":"2025-03-05T02:30","updated":"2026-08-03T20:52"}
 ---
 
 
@@ -19,12 +19,12 @@ Péterfai János nem elemzi a szót, míg...
 #### Ipolyi Arnold Magyar mythologia...  
 
 <!--section: 3.1-->
-...című könyvének 399. oldalán elemzési kontextusban szerepel a kantérolással és a *pfuscher* jelentéssel összekapcsolva:  
+...című könyvének 399. oldalán elemzési kontextusban szerepel a kantérolással és a *pfuscher* jelentéssel összekapcsolva:  
 > Azonos értelmű a `kantérolás`; a szavat a "székely asszonyok törvényében" (kiad. Nagyajtai Csereitől 228) találom, magyarázva, hogy a kantérolás, kantérozás, szerelem itallal való bájolás; ily ital készíttetik, úgy mond, némely állatok részeiből, vagy bizonyos füvekből. Nekem a szó `kanta-iralás` volna, a `kanta` = korsó s edénytől, s az előbbi bűvös ír s íralástól, vagy hogy talán a kanta `kontár` (*pfuscher*) is lehetne, és a kantérozó, kantairozó egyenesen a kuruzs – quacksalber volna?  
 
 > [!lasdmeg] &nbsp;
 > > [!example] &nbsp;
-> > Takács György: Kantéros, Lüdérc, Rekegő (Hárompataki csángó hiedelemmondák, Magyar Napló, 2004, Budapest) c. könyvéből gyakran idézik a kantéros boszorkányokat.
+> > Takács György: Kantéros, Lüdérc, Rekegő (Hárompataki csángó hiedelemmondák, Magyar Napló, 2004, Budapest) c. könyvéből gyakran idézik a kantéros boszorkányokat.
 
 Egynémely helyen már előjött a szó: lásd [[C/Contra-\|contra-]] és [[C/Centre\|centre]]. Utótagja tehát mivel csillag jelentésű kell legyen, és [[K/KON\|KON]] = Nap, igen könnyen kivehető a kontár [[O/Ördög\|ördög]]i értelmét tekintve, hogy a(z Orion-)Szíriusszal való azonosítása indokolt.  
 
