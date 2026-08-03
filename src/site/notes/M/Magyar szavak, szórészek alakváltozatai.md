@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar szavak, szórészek alakváltozatai/","title":"Magyar szavak, szórészek alakváltozatai","created":"2023-11-04T11:49","updated":"2026-07-30T02:38"}
+{"dg-publish":true,"permalink":"/M/Magyar szavak, szórészek alakváltozatai/","title":"Magyar szavak, szórészek alakváltozatai","tags":["containscallouts"],"created":"2023-11-04T11:49","updated":"2026-08-03T20:43"}
 ---
 
 
@@ -71,7 +71,7 @@ Molnár V. József az [alábbi](https://youtu.be/7gMQuvM4Dm0) Magyar szentek cí
 
 > [!lasdmeg] &nbsp;
 > > [!example] &nbsp;
-> > Azért nem egyedüli, mert nemcsak az orosz `свет` (`szvjet`) \[világot, úgy mint világosságot jelent, de a világra más szava van\] és `цвет` (`cvet`) \[virág\] szópárra korlátozódnak az összefüggő jelentésű szavak.  
+> > Azért nem egyedüli, mert nemcsak az orosz `свет` (`szvjet`) \[világot, úgy mint világosságot jelent, de a világra más szava van\] és `цвет` (`cvjet`) \[virág\] szópárra korlátozódnak az összefüggő jelentésű szavak.  
 > > - Lásd még [[A/Aszklépiosz\|Aszklépiosz]] témát [[S/Szláv#Szláv nyelvek\|szláv nyelvek]].
 
 <!--section: 5-->
