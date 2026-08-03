@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions","containscallouts"],"created":"2025-06-12T01:36","updated":"2026-07-30T02:38"}
+{"dg-publish":true,"permalink":"/C/Csuda/","title":"Csuda","tags":["containstransclusions","containscallouts"],"created":"2025-06-12T01:36","updated":"2026-08-03T20:42"}
 ---
 
 
