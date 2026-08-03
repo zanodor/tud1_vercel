@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szent Márton/","title":"Szent Márton","created":"2025-11-16T00:03","updated":"2026-07-30T02:38"}
+{"dg-publish":true,"permalink":"/S/Szent Márton/","title":"Szent Márton","tags":["containscallouts"],"created":"2025-11-16T00:03","updated":"2026-08-03T20:44"}
 ---
 
 
