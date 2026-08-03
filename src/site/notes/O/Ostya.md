@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ostya/","title":"Ostya","tags":["containstransclusions"],"created":"2023-10-21T03:35","updated":"2024-10-25T23:41"}
+{"dg-publish":true,"permalink":"/O/Ostya/","title":"Ostya","tags":["containstransclusions"],"created":"2023-10-21T03:35","updated":"2026-08-03T20:44"}
 ---
 
 
@@ -16,7 +16,7 @@ Ami az áldozati szerepet illeti, [[O/Oszt\|oszt]] tulajdonképpen itt akár a [
 
 Végvári József Kölcsönszavak c. YouTube-ra feltöltött előadásában említi az "ennivaló gyermek," "meg kell ezt a gyereket zabálni," "egyem a zúzádat" kifejezéseket. Arról van szó, hogy Jézus felajánlja testét és vérét, hogy ebből fogyasztva az ő testvéreivé váljunk (test-vér csak magyarban testvér). Végvári József felhívja még itt a figyelmet arra, hogy az indo-germán magyarellenes törekvések szerint az [[O/Ogre\|ogre]] = emberevő óriás szót az ugor (hungár) szavakkal akarja megfeleltetni, így csínján kell bánni az ennivaló gyermek angolra fordításával:  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/e/embereves/#1sdmzu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
