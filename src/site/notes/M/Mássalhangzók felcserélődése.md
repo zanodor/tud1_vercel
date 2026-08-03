@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-08-03T20:41"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-08-03T20:52"}
 ---
 
 
@@ -144,7 +144,7 @@ N>L változást említ Záhonyi András: szerinte a sumér `dingir` Inanna Tünd
 #### A Czuczor-Fogarasi szótár...
 
 ...adata ondók címnél:  
-> Továbbá, az l átalakúl n-re, pl. balga banga, talál tanál, lám nám, dalol danol, stb. tehát e hasonlatra: öldők, öndők, ondók; ölték, önték, onték, ontok; öltöle öntöle, ontola; végre az l igen sokszor átalakul r-vé, mint: hetle hetre, nyetle nyetre, botolkál botorkál, botlánkozik botránkozik (a botlik törzstől), gúzsolodik guzsorodik, csuszkolál csuszkorál, stb. stb. és így ontola ontora.  
+> Továbbá, az l átalakúl n-re, pl. balga banga, talál tanál, lám nám, dalol danol, stb. tehát e hasonlatra: öldők, öndők, ondók; ölték, önték, onték, ontok; öltöle öntöle, ontola; végre az l igen sokszor átalakul r-vé, mint: hetle hetre, nyetle nyetre, botolkál botorkál, botlánkozik botránkozik (a botlik törzstől), gúzsolodik guzsorodik, csuszkolál csuszkorál, stb. stb. és így ontola ontora.  
 
 <!--section: 11-->
 ### F, V, B, P hangok gyakori cseréje
