@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kontár/","title":"Kontár","created":"2025-03-05T02:30","updated":"2026-06-19T22:15"}
+{"dg-publish":true,"permalink":"/K/Kontár/","title":"Kontár","tags":["containscallouts"],"created":"2025-03-05T02:30","updated":"2026-08-03T20:44"}
 ---
 
 
@@ -13,10 +13,23 @@
 > Széles ért. mesterember, ki mesterségét nem érti, ki rosz munkát készít. Szorosb ért. czéhba nem keblezett, alattomban dolgozó kézmives. Ha első értelmét veszszük, valószinüleg a csonkát jelentő konta törzstől ered, mely szerént kontár az, ki nem ép, nem tökéletes, hanem hiányos, hibás, mintegy csonka müveket készít \[nem úgy mint isten\], mintegy: tonkár, csonkár. Ez értelmezést az is látszik erősíteni, hogy Gáthy János szerént (Tájszótár 112) épen Szathmárban divatozik különösebben ezen két szó: konta és kontár a nép között; de ez utóbbi az ország nagy részében ismeretes. Adelung szerént is ugyanezen fogalomrokonság van a német `stümmeln` (csonkít) és `Stümper` (kontár) között. Átv. ért. kontárnak mondják gúnyosan és megvetőleg, ki a szépmüvészetet kellő képesség is kiképzés nélkül űzi. Kontár festész, szobrász, költő.
 - Ha az s-mobile leválasztásra kerül, ezen `Stümper` nem más, mint \*tümper, mely már a [[D/Dumb\|dumb]], valamint a [[S/Stupid\|stupid]] és [[T/Typhon\|Typhon]] neveket idézni. A csonkítás fényelvonás.
 
+Péterfai János nem elemzi a szót, míg...
+
+<!--section: 3-->
+#### Ipolyi Arnold Magyar mythologia...  
+
+<!--section: 3.1-->
+...című könyvének 399. oldalán elemzési kontextusban szerepel a kantérolással és a *pfuscher* jelentéssel összekapcsolva:  
+> Azonos értelmű a `kantérolás`; a szavat a "székely asszonyok törvényében" (kiad. Nagyajtai Csereitől 228) találom, magyarázva, hogy a kantérolás, kantérozás, szerelem itallal való bájolás; ily ital készíttetik, úgy mond, némely állatok részeiből, vagy bizonyos füvekből. Nekem a szó `kanta-iralás` volna, a `kanta` = korsó s edénytől, s az előbbi bűvös ír s íralástól, vagy hogy talán a kanta `kontár` (*pfuscher*) is lehetne, és a kantérozó, kantairozó egyenesen a kuruzs – quacksalber volna?  
+
+> [!lasdmeg] &nbsp;
+> > [!example] &nbsp;
+> > Takács György: Kantéros, Lüdérc, Rekegő (Hárompataki csángó hiedelemmondák, Magyar Napló, 2004, Budapest) c. könyvéből gyakran idézik a kantéros boszorkányokat.
+
 Egynémely helyen már előjött a szó: lásd [[C/Contra-\|contra-]] és [[C/Centre\|centre]]. Utótagja tehát mivel csillag jelentésű kell legyen, és [[K/KON\|KON]] = Nap, igen könnyen kivehető a kontár [[O/Ördög\|ördög]]i értelmét tekintve, hogy a(z Orion-)Szíriusszal való azonosítása indokolt.  
 
 Kandra Kabos Magyar Mythologia című könyvének (a PDF) 37. oldalán jobb oldalt középen is szól arról, hogy a világ teremtésében (a különféle eredetmondák alapján) **az az [[O/Ördög\|ördög]] teendője, hogy Isten mellett kontárkodjék és a teremtés urának tehetetlen utánzója legyen**.  
-- Nem is tudta Kandra, hogy milyen jól fogalmazott, hiszen az Ördög és a Kontár azonosak!
+- Nem is tudta Kandra, hogy milyen jól fogalmazott, hiszen a Kontár maga az Ördög!
 
 Madách Imre Az ember tragédiájából is idézhetünk (Első Szín, Lucifer szájába adva):  
 > *"Te nagy konyhádba helyzéd embered,  
@@ -26,7 +39,8 @@ Madách Imre Az ember tragédiájából is idézhetünk (Első Szín, Lucifer sz
 Az ördög képzet viszont kiterjedt az ősfelfogásban: egyrészt ellenpárja a fényt szülő Istennek és a fény-árnyék rendszerben a [[K/Kutya\|kutya]] szerepében is ő jelenik meg, valamint csillagászati szempontból az [[A/Alvilág\|alvilág]] (az [[E/Égi egyenlítő\|égi egyenlítő]] alatti tér) ura is lehet.  
 Legutóbb egy Quora válaszadó adatai nyomán [[D/Drug\|drug]] címnél a "húzza a lábát" (azaz [[S/Sánta\|sánta]]) fogalma mellett előjött a kontár fogalmának körülírása is.  
 
-A [[K/Kantár\|kantár]], kontár és a kontra = ellen értelem egy fogalmi körből kerül ki és bár mai értelmezésben a [[L/Ló\|ló]]val (mely ló a Tejút is lehet) kapcsolatos (tellurikus) kontextus juthat eszünkbe, az etimonok jelentésének ismeretével sikerül asztrális környezetbe visszaemelni.  
+> [!check] &nbsp;
+> A [[K/Kantár\|kantár]], kontár és a kontra = ellen értelem egy fogalmi körből kerül ki és bár kantár mai értelmezésben a [[L/Ló\|ló]]val (mely ló a Tejút is lehet) kapcsolatos (tellurikus) kontextus juthat eszünkbe, az etimonok jelentésének ismeretével sikerül asztrális környezetbe visszaemelni.
 
 [[K/Kantár\|Kantár]], [[K/Kuntar\|kuntar]] nevek és a [[C/Contra-\|contra-]], [[C/Centre\|centre]] szavak mellett említhető a [[H/Hunter\|hunter]] is. Valójában ezen nevek, sőt, kiegészülve az [[A/Andra\|Andra]] és [[O/Other\|other]] címnél taglalt An-Dar formával[^1] (és akár az [[A/Anta\|anta]] és [[A/Anti-\|anti-]] = ellen formával, de még a [[H/Hanta\|hanta]] is efféle, logikus név) mind ugyanazt jelölik: Orion kovácsistent/Démiurgoszt, aki sátáni/ördögi szerepkörét úgy nyeri el, hogy a Nap azon égi territóriumba jutva már veszti erejét.  
 Tehát ami a germánban `Hunter` = Vadász, Orionra utalva ([[W/Winter\|winter]] is azonos lehet vele, hisz télen látható), az a magyarban `Kontár` = Orion ördög aspektusa, az aki félmunkát végez, mert a tökéletes munkát csak olyan Isten végezhetne el, aki a sötétséget és a sötét, gonosz mentalitást nem tűrné a földünkön. Igaz, a világ egyensúlya csak úgy jöhet létre, ha létezik ellenerő. Ha nem létezne, elszabadulna minden. Ha nem lenne tél, kiszáradna a Föld.  
@@ -103,7 +117,7 @@ head -- w14 : "japán/maláj mitológia: démon; szellem"
 </div></div>
 
 
-<!--section: 3-->
+<!--section: 4-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
