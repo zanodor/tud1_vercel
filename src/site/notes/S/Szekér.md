@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szekér/","title":"Szekér","tags":["containscallouts"],"created":"2025-02-24T18:12","updated":"2026-08-03T20:43"}
+{"dg-publish":true,"permalink":"/S/Szekér/","title":"Szekér","tags":["containscallouts"],"created":"2025-02-24T18:12","updated":"2026-08-03T20:51"}
 ---
 
 
@@ -130,7 +130,7 @@ Az [[I/Indogermán nyelvészet\|indogermán nyelvészet]] képviselői által ha
 #### Asko Parpola Formation of the Indo-European and Uralic (Finno-Ugric) language families...  
 
 <!--section: 10.1-->
-...című anyagában szereplő nyelvészeti adatok [David W. Anthony könyvének](https://en.wikipedia.org/wiki/The_Horse,_the_Wheel,_and_Language) (*The Horse, the Wheel, and Language*) adataira építenek:  
+...című anyagában szereplő nyelvészeti adatok [David W. Anthony könyvének](https://en.wikipedia.org/wiki/The_Horse,_the_Wheel,_and_Language) (*The Horse, the Wheel, and Language*) adataira építenek:  
 ![Szekér_image20260729221441433.jpeg|fix_dark fix_light|840](/img/user/S/assets/Szek%C3%A9r_image20260729221441433.jpeg)
 
 > [!attention] &nbsp;
