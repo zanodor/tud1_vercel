@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anger/","title":"Anger","created":"2024-10-27T00:46","updated":"2025-06-07T19:32"}
+{"dg-publish":true,"permalink":"/A/Anger/","title":"Anger","created":"2024-10-27T00:46","updated":"2026-08-03T20:45"}
 ---
 
 
 # Anger
 
 Méreg, düh.  
-Az angol etimológia szótár meg sem kísérli kötni valahova. Az ingerült szavunk torzulása, ha egyszerűen el akarjuk intézni. Az Án, mint Ég haragja is fellelhető benne. A ger, gir gyök és egyéb formációnak taglalása oldalakat tenne ki.  
+Az angol etimológia szótár meg sem kísérli kötni valahova. Az `inger` vagy ingerült szavunk torzulása, ha egyszerűen el akarjuk intézni. Az Án, mint Ég haragja is fellelhető benne. A ger, gir gyök és egyéb formációnak taglalása oldalakat tenne ki.  
 Varga Csaba szerint egyszerűen [[I/Inger\|inger]] szavunkból.  
 
 [[A/Angra Manju\|Angra Manju]] ([[A/Ahriman\|Ahriman]]) a gonosz szellem az iráni mitológiában; igen hasonló a két szó.  
