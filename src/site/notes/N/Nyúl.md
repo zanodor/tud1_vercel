@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nyúl/","title":"Nyúl","tags":["Englishtexttranslated"],"created":"2023-10-13T01:41","updated":"2026-07-23T11:44"}
+{"dg-publish":true,"permalink":"/N/Nyúl/","title":"Nyúl","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-13T01:41","updated":"2026-08-03T20:42"}
 ---
 
 
