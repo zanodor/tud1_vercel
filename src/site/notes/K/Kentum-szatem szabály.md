@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kentum-szatem szabály/","title":"Kentum-szatem szabály","tags":["containstransclusions"],"created":"2025-05-29T17:30","updated":"2026-07-19T04:29"}
+{"dg-publish":true,"permalink":"/K/Kentum-szatem szabály/","title":"Kentum-szatem szabály","tags":["containstransclusions"],"created":"2025-05-29T17:30","updated":"2026-08-03T20:43"}
 ---
 
 
@@ -39,6 +39,8 @@ A török `kan` = vér szó tűnik a [[S/Sanguine\|sanguine]] címnél taglalt n
 
 
 Hasonló kentum-szatem párhuzam figyelhető meg a [[G/Galamb\|galamb]] (latin `columba`) és a [[G/Galamb\|szalambó]] nevek között is.  
+
+[Tapa](https://en.wikipedia.org/wiki/Tapa_cloth) Wikipedia oldalán látjuk, hogy ugyanannak a dolognak Szamoán `siapo` a neve, Niuén `hiapo`.  
 
 Arról, hogy a kentum-szatem csoportosítás nem kizárólag az indoeurópai nyelvcsaládra korlátozódik...
 
