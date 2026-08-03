@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vándor/","title":"Vándor","tags":["Englishtexttranslated"],"created":"2023-10-20T10:10","updated":"2026-07-18T22:51"}
+{"dg-publish":true,"permalink":"/V/Vándor/","title":"Vándor","tags":["Englishtexttranslated"],"created":"2023-10-20T10:10","updated":"2026-08-03T20:43"}
 ---
 
 
@@ -54,7 +54,7 @@ Aztán megad egy másik, általam ismeretlen nevet:
 > A Metanasta Jazygok METANASTA része is (ellenőrizhetően) vándorlót jelentett.  
 
 [[B/Bulgár#Bulgárok vándor illetve nándor neve\|Bulgárok vándor illetve nándor neve]] cím/alcímnél is előjött a vándor, de a (szlovénné lett) vendek és venétek neve is ilyen, Úr végződés nélkül.  
-Bognár Ferenc másutt még a [[K/Kabar\|kabar]] név [[K/Kóbor\|kóbor]] (vándorló) változatát közli, de közben [[K/Kóbor\|kóbor]] szóról magáról is volt szó: a rokonértelmű kóbor szóról szintén megállapítottuk, hogy Orion neve.  
+Bognár Ferenc másutt még a [[K/Kabar\|kabar]] név [[K/Kóbor\|kóbor]] (vándorló) változatát közli, de közben kóbor szóról magáról is volt szó: a rokonértelmű kóbor szóról szintén megállapítottuk, hogy Orion neve.  
 Mint kiderül, a [[K/Kazár\|kazár]] népnévhez is kötődik egy ilyen jelentés.  
 
 <!--section: 5-->
