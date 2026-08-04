@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-08-03T20:52"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-08-04T23:02"}
 ---
 
 
@@ -17,9 +17,11 @@ Ahogy [[F/Flexió#Magyar hajlítás mint nyelvünk szavainak alapképessége\|fl
 
 <!--section: 2.1-->
 ...című a Dobogó című újság 2011. 3-4. számában megjelent cikkében írott passzusa. Ami ide tehető:  
-> Az egyik hangzó-kategóriából a másikba való átfordulást – egyfajta "kuplung"-szerepkörben – az "ipszilonos" mássalhangzók (Ly, Ty, Gy, Ny) biztosítják, továbbá hogy hasonló szerepet játszik a "sziszegősök" esetében – bár "ipszilon" nélkül – a Dzs hang. A két "szélső" hangzóbokorból, a legzártabb legstabilabb "pöfögősből" és a legnyitottabb, legmobilisabb "sziszegősből" csak korlátozott mértékben lehet átbillenni másik bokrokba. A "sziszegős" Dzs csak a "köhögős" Gy felé enged átváltódnunk, a "pöfögősök" esetében pedig \[...\]  
+> Az egyik hangzó-kategóriából a másikba való átfordulást – egyfajta "kuplung"-szerepkörben – az "ipszilonos" mássalhangzók (Ly, Ty, Gy, Ny) biztosítják, továbbá hogy hasonló szerepet játszik a "sziszegősök" esetében – bár "ipszilon" nélkül – a Dzs hang. A két "szélső" hangzóbokorból, a legzártabb legstabilabb "pöfögősből" és a legnyitottabb, legmobilisabb "sziszegősből" csak korlátozott mértékben lehet átbillenni másik bokrokba. A "sziszegős" Dzs csak a "köhögős" Gy felé enged átváltódnunk, a "pöfögősök" esetében pedig \[...\]
+{ #v1n18t}
 
-Itt nem fejezi be, de arra utal, hogy a "jeles" L hang a "pöfögős" V hang felé váltott (lásd általam leszólt [[L/Lengyel\|lengyel]] címnél írt témáját, melyet az [[I/Iván\|Iván]] névnél is alkalmaz), de ezt én nem tartom olyannak, ami az ősiségben a magyarok nyelvében szempont lehetett volna; igaz, L>LY = J = V/W úton eljuthatunk hozzá.
+
+
 
 <!--section: 3-->
 ## Szabályos és szabálytalan mássalhangzó-változások
@@ -32,7 +34,7 @@ Itt nem fejezi be, de arra utal, hogy a "jeles" L hang a "pöfögős" V hang fel
 
 <!--section: 5.1-->
 A legfontosabb, önmagába kígyóként farkába harapó, cirkuláris hangfejlődés a K>H>Sz>Th>T>D>Gy>G>H>K; lásd erről még [[K/KAR\|KAR]].  
-A [[M/Magyar\|magyar]] nevünk is megjelenik k-val, cs-vel, sz/z-vel, t-vel, th-val, d-vel, ahol a [[G/GY\|gy]] és [[T/TY\|ty]] mint köztes hang adja meg az [[E/Egy#^47teak\|ezen]] helyen is említett átjárási lehetőséget.  
+A [[M/Magyar\|magyar]] nevünk is megjelenik k-val, cs-vel, sz/z-vel, t-vel, th-val, d-vel, ahol a [[G/GY\|gy]] és [[T/TY\|ty]] mint köztes (Pap Gábor által kuplung-hangnak nevezett; lásd [[M/Mássalhangzók felcserélődése#^v1n18t\|fentebb]]) hang adja meg az [[E/Egy#^47teak\|ezen]] helyen is említett átjárási lehetőséget.  
 Egy másik a KAN > SZAN/SZEN > TEN, ha akarjuk.  
 
 > [!example] &nbsp;
