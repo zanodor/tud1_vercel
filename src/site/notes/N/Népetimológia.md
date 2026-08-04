@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts","containstransclusions"],"created":"2025-07-16T14:23","updated":"2026-08-03T20:43"}
+{"dg-publish":true,"permalink":"/N/Népetimológia/","title":"Népetimológia","tags":["containscallouts","containstransclusions"],"created":"2025-07-16T14:23","updated":"2026-08-04T23:03"}
 ---
 
 
