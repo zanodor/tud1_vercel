@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mongol/","title":"Mongol","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-24T16:46","updated":"2026-05-23T00:34"}
+{"dg-publish":true,"permalink":"/M/Mongol/","title":"Mongol","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-24T16:46","updated":"2026-08-04T23:03"}
 ---
 
 
@@ -112,7 +112,9 @@ Másutt még ennyit ír:
 { #260102}
 
 
-### Mongoloid vonások az magyar uralkodó osztályon belül
+### Mongoloid vonások a magyar uralkodó osztályon belül
 
 Vannak szép számmal ilyenek. [Apafi Mihály](https://hu.wikipedia.org/wiki/I._Apafi_Mih%C3%A1ly) képe alapján is ezt állapíthatnánk meg.  
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a8/Michiele_Abaffi_principe_di_Transilvania_anno_1666.jpg)
+
+[Ezen](https://www.youtube.com/watch?v=WCMS5TTiJdw&t=6758s) helyen [[B/Bocskai István\|Bocskai István]] kapcsán mondja Pap Gábor, hogy abban az időben nem voltak megnyerő arcok.  
