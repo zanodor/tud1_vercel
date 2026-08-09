@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Man/","title":"Man","tags":["containstransclusions","containscallouts"],"created":"2026-02-09T19:05","updated":"2026-05-29T22:43"}
+{"dg-publish":true,"permalink":"/M/Man/","title":"Man","tags":["containstransclusions","containscallouts"],"created":"2026-02-09T19:05","updated":"2026-08-09T17:55"}
 ---
 
 
@@ -62,7 +62,6 @@ Elsőként ott a [[M/Mundzuk\|mundzuk]] név és a [[M/Month\|month]] címnél e
 
 ...című könyvében említett `minaret`, mely szót jogosan a holdhoz köti:  
 > Herbelot irja, Menath nevü bálvány szó alatt, hogy a törökök az arab `menar`, `menareh`-ból csinálták a `minaret` nevet, templomaikat az uj hold sarlója ékesiti. (t. 11. p. 402. edit. 1783.) ([Lásd 277. old.](zotero://open-pdf/library/items/DFI47XPY?page=277&annotation=PBZ22VAN)) 
-
 #### Tomory Zsuzsa Istenes magyar emlékeink 1. rész...
 
 ...című Ősi Gyökér 2005/1. sz. megjelent cikkének táblázatos anyaga ([[I/Isten\|Isten]] és [[B/Bárány\|bárány]] címnél is volt hasonló):  
@@ -125,12 +124,12 @@ Bíró Lajos adata szerint a latin `mano` = folyik, csurog, ered, származik.
 
 > [!note]- &nbsp;
 > A mellékelt anyag Robert Beekes Görög etimológia szótárából való:  
-> > **μήν²** \[m.] ‘month’ (II.), also ‘moon-sickle’ (Ion., Ar., Att. inscr., Thphr.). < IE *meh₁n̥-ōt, *meh₁n̥-es- ‘moon, month’
-> > **VAR** Also Att. μείς, Dor. μιής, El. μεύς; gen. μηνός, Aeol. μήννος.
-> > **COMP** μηνo-ειδής ‘formed like a moon-sickle’ (IA), PN Μηνό-δωρος, also μηνί-αρχος, -άρχης \[m.] ‘monthly prefect’ (pap. IVᵃ). after ταξί-αρχος etc.; ἡλιό-μηνος ‘missing the right month’ (T 118; cf. s.v.), ἐπι-μήν-ιος ‘lasting a month, monthly’ (IA).
-> > **DER** μήν-η ‘month’ (II.), like σελήνη -ᾱς ‘id.’ (E.); μην-ίσκος \[m.] ‘moonsickle’, especially of objects in the shape of a moon-sickle (Ar., Arist.); μην-ιᾱος ‘a month old, monthly’ (Hp., LXX, pap.), -ιείος ‘monthly’ (Hell. pap.), μην-αῖος ‘belonging to the month’ (Orac. *apud* Lyd. *Mens*; probably from μήνη); μηναῖατεία \[f.] ‘monthly achievement’ (pap. IIIᵖ), but cf. Μηνιασταί \[m.pl.] ‘adorers of Μήν’ (Rhodos); μήνιoν \[n.] (botanical) ‘peony’ (Ps.-Dsc.), from its astrological use, see Strömberg 1940: 133.  
-> > **ETYМ** From the oblique cases (gen. μην-ος < *mē̆nos*, etc.), an analogical nom. \*mēns arose, whence \*mens by Osthoff’s Law. By subsequent loss of the nasal and compensatory lengthening, μείς and μής developed. The new nom. μήν arose by analogy with gen. μηνός, etc. (after simplification of the -νν-), and El. μεύς is built on the model of Ζηνός : Ζεύς.
-> > Originally, a disyllabic nom. \*mēnōs- (with lengthened grade) or \*mēnōt- (with alternating -t-) existed beside the obl. stem \*mēn- < IE \*mēns-. Thence arose Lith. mėnuo ‘moon, month’, Go. \*menōþs ‘month’, etc. The disyllabic form is also seen in Lith. mėnes-ìs ‘month’. On monosyllabic \*mēns- are based both Lat. *mēns-is* (gen.pl. *mēnsum*) and Skt. \*mās- ‘moon, month’ < PIIr. \*maHas- < \*meh₁ns-. The development of the calendrical meaning ‘month’ was accompanied by the creation of new expressions for ‘moon’ (σελήνη, *lūna*, etc.). Original derivation from \*meh₁- ‘measure’ (see *μῆτις*), from the role of the moon as a measure of time, is quite possible.  
+> > **μήν²** \[m.] ‘month’ (II.), also ‘moon-sickle’ (Ion., Ar., Att. inscr., Thphr.). < IE *meh₁n̥-ōt, *meh₁n̥-es- ‘moon, month’
+> > **VAR** Also Att. μείς, Dor. μιής, El. μεύς; gen. μηνός, Aeol. μήννος.
+> > **COMP** μηνo-ειδής ‘formed like a moon-sickle’ (IA), PN Μηνό-δωρος, also μηνί-αρχος, -άρχης \[m.] ‘monthly prefect’ (pap. IVᵃ). after ταξί-αρχος etc.; ἡλιό-μηνος ‘missing the right month’ (T 118; cf. s.v.), ἐπι-μήν-ιος ‘lasting a month, monthly’ (IA).
+> > **DER** μήν-η ‘month’ (II.), like σελήνη -ᾱς ‘id.’ (E.); μην-ίσκος \[m.] ‘moonsickle’, especially of objects in the shape of a moon-sickle (Ar., Arist.); μην-ιᾱος ‘a month old, monthly’ (Hp., LXX, pap.), -ιείος ‘monthly’ (Hell. pap.), μην-αῖος ‘belonging to the month’ (Orac. *apud* Lyd. *Mens*; probably from μήνη); μηναῖατεία \[f.] ‘monthly achievement’ (pap. IIIᵖ), but cf. Μηνιασταί \[m.pl.] ‘adorers of Μήν’ (Rhodos); μήνιoν \[n.] (botanical) ‘peony’ (Ps.-Dsc.), from its astrological use, see Strömberg 1940: 133.  
+> > **ETYМ** From the oblique cases (gen. μην-ος < *mē̆nos*, etc.), an analogical nom. \*mēns arose, whence \*mens by Osthoff’s Law. By subsequent loss of the nasal and compensatory lengthening, μείς and μής developed. The new nom. μήν arose by analogy with gen. μηνός, etc. (after simplification of the -νν-), and El. μεύς is built on the model of Ζηνός : Ζεύς.
+> > Originally, a disyllabic nom. \*mēnōs- (with lengthened grade) or \*mēnōt- (with alternating -t-) existed beside the obl. stem \*mēn- < IE \*mēns-. Thence arose Lith. mėnuo ‘moon, month’, Go. \*menōþs ‘month’, etc. The disyllabic form is also seen in Lith. mėnes-ìs ‘month’. On monosyllabic \*mēns- are based both Lat. *mēns-is* (gen.pl. *mēnsum*) and Skt. \*mās- ‘moon, month’ < PIIr. \*maHas- < \*meh₁ns-. The development of the calendrical meaning ‘month’ was accompanied by the creation of new expressions for ‘moon’ (σελήνη, *lūna*, etc.). Original derivation from \*meh₁- ‘measure’ (see *μῆτις*), from the role of the moon as a measure of time, is quite possible.  
 
 ## Hold idegen nevei
 
@@ -143,8 +142,7 @@ Na most, a Hold M-N vázú szavait – azt gondolván, hogy mén szavunk a kiind
 ...című könyvében nagyszerűen írja:  
 > Deguignes azt irja a hunnus lovak nemesebb fajáról, hogy az [[M/Men\|meny]]ből származott, Piringer azért a ménest mennyesnek, vagy menyből származottnak magyarázza; ebben van valami, mert a mén törzs ( = csődör) a teremtő s nemző erő, mint a [[M/Mony\|mony]] is, honnan `monyas` (= csődör). Mind a mén, mind a mony szélesen elterjedt szók, melyek még alakjaikat is egymással felcserélik, **embert, lovat, s magasb értelemben világalkotót jelentnek**, ez volt az eredeti jelentés, az élet, mint más szókat is a vallások mythologiájából kölcsönözte át, s ne feledjük, hogy **majd minden hadakozó nép az embert és lovat egy szóval fejezte ki**, mint `equus`, `eques`, `equites`, gótul `manu` = homo és equus pusillus Isidorban, máskép `mannus` Galliában (Diesenbach Celtica I. 100.). Igy volt a dolog az [[A/Arimaszpa\|arimasp]], aspasiakoi, Marsac nemzeti nevekkel (= lovas ariusok, lovas sákák, `asp` és `már` = ló)... ([Lásd 284. old.](zotero://open-pdf/library/items/DFI47XPY?page=284&annotation=GIL9G7RE))  
 > \[...\]  
-> Visszatérve most már a félbeszakított man, ménes szókra, melyeket Deguignes adatai után Piringer meny és menyeseknek vett, megjegyezzük, hogy a szerencsés ötletet chinai annalisok is támogatják, melyek szerint 102. Christus előtt, az oxus földi Muni nevü sákákkal (kikről Minna gura város neve) a chinai császár véres háborút folytatott az kulchi hires lófajért, melytől a scythák nem akartak adózni, ez a ménes a Bolor hegytetőn lakó csuda méntől származott, a hegy alján legeltek a kanczák, melyek szülték a derék lovakat (nevek `ku` = lu vagy ló), mivel vért izzadnak (vérejték), menyei lovaknak is hivatnak (l. Rittert V. 60.). ([Lásd 288. old.](zotero://open-pdf/library/items/DFI47XPY?page=288&annotation=4PDTTNJA))  
-^DFI47XPY-GIL9G7RE
+> Visszatérve most már a félbeszakított man, ménes szókra, melyeket Deguignes adatai után Piringer meny és menyeseknek vett, megjegyezzük, hogy a szerencsés ötletet chinai annalisok is támogatják, melyek szerint 102. Christus előtt, az oxus földi Muni nevü sákákkal (kikről Minna gura város neve) a chinai császár véres háborút folytatott az kulchi hires lófajért, melytől a scythák nem akartak adózni, ez a ménes a Bolor hegytetőn lakó csuda méntől származott, a hegy alján legeltek a kanczák, melyek szülték a derék lovakat (nevek `ku` = lu vagy ló), mivel vért izzadnak (vérejték), menyei lovaknak is hivatnak (l. Rittert V. 60.). ([Lásd 288. old.](zotero://open-pdf/library/items/DFI47XPY?page=288&annotation=4PDTTNJA)) ^DFI47XPY-GIL9G7RE
 - Ugyanígy a [[L/LU\|LU]] = fény alapjelentése mellett embert és lovat is jelent.
 - Világalkotó vagy világ főember név a [[M/Manu\|Manu]] és [[M/Mani\|Mani]]. 
 - A vér itt is lehet a hajnal.
@@ -167,8 +165,7 @@ Eric Partridge adata, hogy a római hajnalistennő, Aurora (megfelelője a gör�
 > 
 > Hogy a német `Mann`, `Mannus`, `Mensch` szók a sanskrit Manu, Manus nevekkel összefüggnek, arról köz a megegyezés (l. Arndtot p. 301. 302. Boppot Jahrb. für Wiss. kritik. 1836. Nro. 59, ki a czigány `Manusch` (Mensch) szót is megemliti. ([Lásd 285. old.](zotero://open-pdf/library/items/DFI47XPY?page=285&annotation=9MGP9VER)) 
 > 
-> ..., de még Egyiptomban Mendes = coelum stellifer, s e név Herodotban áll a második osztályú isteni nevek közt (Buhle Geschichte der Philosophie t.l.p. 15. 42.). Champollion a Mandus király nevét fel is fedezte a hieroglyphek közt Rosellini nagy gyűjteményében, a királyok temetkező helyének is Menephtheion neve volt, siciliai Diodor pedig és Herodot nyilván irják, hogy első egyiptomi király Mén vagy Ménes volt, ki az istenek után uralkodott s Memphist épité. ([Lásd 287. old.](zotero://open-pdf/library/items/DFI47XPY?page=287&annotation=95Y6XT8K))
-^DFI47XPY-9MGP9VER
+> ..., de még Egyiptomban Mendes = coelum stellifer, s e név Herodotban áll a második osztályú isteni nevek közt (Buhle Geschichte der Philosophie t.l.p. 15. 42.). Champollion a Mandus király nevét fel is fedezte a hieroglyphek közt Rosellini nagy gyűjteményében, a királyok temetkező helyének is Menephtheion neve volt, siciliai Diodor pedig és Herodot nyilván irják, hogy első egyiptomi király Mén vagy Ménes volt, ki az istenek után uralkodott s Memphist épité. ([Lásd 287. old.](zotero://open-pdf/library/items/DFI47XPY?page=287&annotation=95Y6XT8K)) ^DFI47XPY-9MGP9VER
 - Akkor Memphis is nyilván Men-Apisz vagy hasonló felbontású.
 
 Másutt:  
