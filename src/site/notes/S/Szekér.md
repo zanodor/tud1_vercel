@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szekér/","title":"Szekér","tags":["containscallouts"],"created":"2025-02-24T18:12","updated":"2026-08-04T23:04"}
+{"dg-publish":true,"permalink":"/S/Szekér/","title":"Szekér","tags":["containscallouts"],"created":"2025-02-24T18:12","updated":"2026-08-09T14:04"}
 ---
 
 
@@ -54,6 +54,12 @@ Az [alábbi](https://youtu.be/DqMogRPokq8) Turul és Szarvas IV. rész című Á
 
 | ![assets/Szekér_image1.png\|fix_dark fix_light](/img/user/S/assets/Szek%C3%A9r_image1.png) | ![Szekér_image20260804184711051.jpeg\|fix_dark fix_light\|496](/img/user/S/assets/Szek%C3%A9r_image20260804184711051.jpeg) |
 | -------------------------------------------------- | ----------------------------------------------------------------- |
+
+> [!lasdmeg] &nbsp;
+> > [!note] &nbsp;
+> > A [[P/Poláris-szoláris átállás\|poláris felfogás]]hoz tartozó szöveges megjegyzéshez tegyük hozzá, hogy a Göncöl szekerek is fent, északon helyezkednek el.
+{ #muc6bw}
+
 
 A mellékelt rajzon az Amerikába és Japánba is meghívott, mondhatni világhírű képíró-asszony, a galgamácsai Vankóné Dudás Juli néni alkotása található, mely megörökíti, mit csináltak Luca napján az emberek (mely tréfákról a fonóban és másutt hosszú ideig beszéltek): az hogy a ház vagy a fa ([[V/Világfa\|világfa]], életfa: Tejút) tetejére vitték a szekér darabjait és ott – nagy nehézségek árán – összeszerelték, nálam azt jelenti, hogy a Szék-Úrt, a napot analógiás mágiával akarták magasabbra emelni (a delelő magasság nő is december 24. után). A Luca-szék kifejezésben is a [[S/SZÉK\|Szék]] = Nap, mely ugye [[N/Négy\|négy]] lábú is (bár Kubínyi Tamás 27:40-nél azt mondja és képeket is hoz, hogy ez nem az eredeti: háromlábú széket is bemutat, mondván, tán ez lenne az eredeti).  
 
