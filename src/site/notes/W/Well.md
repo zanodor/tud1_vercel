@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/W/Well/","title":"Well","tags":["titleandheadingonedontmatch","containstransclusions","multipleentries","stitched"],"created":"2025-09-24T16:18","updated":"2025-09-28T21:33"}
+{"dg-publish":true,"permalink":"/W/Well/","title":"Well","tags":["titleandheadingonedontmatch","containstransclusions","multipleentries","stitched"],"created":"2025-09-24T16:18","updated":"2026-08-09T18:03"}
 ---
 
 
@@ -26,8 +26,7 @@ Az alábbi Magyar Adorján féle sorok [[W/Wave\|wave]] címnél szerepeltek:
 
 
 > Az olasz nyelv a `balla`, `ballare` szót nem csupán tánc értelemben hanem inog és tehát ide-oda mozog értelemmel is használja, úgyhogy ezen bál szót a szláv `val` és német `Welle`, finn `vellamo` = hullám szóval is összevethetjük.  
-> Eszerint tehát, mivel nem létezhet két hullám közöttüki völgyelet, azaz "hullámvölgy" nélkül, ebből az tűnik ki, hogy nő elvi fölfogás szerint a hullámoknál is ezek völgyeletei voltak lényegként fölfogva (völgy – nőiség-híány-minus-negativum), holott hímelvi fölfogás szerint ellenkezőleg a "hullámhegyek" számítottak falként és lényegként (hegy – hímség-többlet-plus-positívum). A latinban `vallum` = fal. Eléggé észrevehető az is, hogy a magyar hullám szó csak kőrös párhuzama a finn, azaz palóc, vellamo szónak. De ugyanígy észrevehető, hogy a német, azaz őstörök, `Tal` = völgy szó meg a mai török `dalga` = hullám szóval azonos, amely török szó egyik származéka a szerb `talasz` = hullám, másik pedig a görög talassza, talatta = tenger szó, mert hiszen láttuk hogy a kún tenger is a teng, tengeni = ide-oda inogni, hullámzani, lengeni szavunkkal függ össze, ugyanúgy mint ahogy [[B/Balaton\|Balaton]] tavunk e neve is a balla vagy valla = ide-oda inog: hullámzik szóból származik, vagyis hogy balla-ton = hullámzó.  
-
+> Eszerint tehát, mivel nem létezhet két hullám közöttüki völgyelet, azaz "hullámvölgy" nélkül, ebből az tűnik ki, hogy nő elvi fölfogás szerint a hullámoknál is ezek völgyeletei voltak lényegként fölfogva (völgy – nőiség-híány-minus-negativum), holott hímelvi fölfogás szerint ellenkezőleg a "hullámhegyek" számítottak falként és lényegként (hegy – hímség-többlet-plus-positívum). A latinban `vallum` = fal. Eléggé észrevehető az is, hogy a magyar hullám szó csak kőrös párhuzama a finn, azaz palóc, vellamo szónak. De ugyanígy észrevehető, hogy a német, azaz őstörök, `Tal` = völgy szó meg a mai török `dalga` = hullám szóval azonos, amely török szó egyik származéka a szerb `talasz` = hullám, másik pedig a görög talassza, talatta = tenger szó, mert hiszen láttuk hogy a kún tenger is a teng, tengeni = ide-oda inogni, hullámzani, lengeni szavunkkal függ össze, ugyanúgy mint ahogy [[B/Balaton\|Balaton]] tavunk e neve is a balla vagy valla = ide-oda inog: hullámzik szóból származik, vagyis hogy balla-ton = hullámzó. 
 
 </div></div>
   
