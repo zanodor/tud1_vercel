@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bárca/","title":"Bárca","tags":["containstransclusions"],"created":"2023-12-27T06:21","updated":"2026-06-22T17:53"}
+{"dg-publish":true,"permalink":"/B/Bárca/","title":"Bárca","tags":["containstransclusions"],"created":"2023-12-27T06:21","updated":"2026-08-09T18:04"}
 ---
 
 
@@ -13,7 +13,8 @@
 #### Péterfai János írja:
 
 > Bárca szavunk eredete ismeretlen. Valamilyen pecsét, bőrre nyomott engedély lehetett. Talán a Bár, vagyis a Naporoszlán Szája a Bár-Ca (Bár-Sza) eredetileg. Aki felmutatta a Bársza – Bárca nevű iratot, az a magyar birodalmon belül utazhatott, szabadon mozoghatott. Így a Bárczi családnév szabad oroszlánokat, vagyis magyarokat jelent.  
-> A Bárca kapcsolódhat a Bár Nap jelentéséhez is. A kivilágított helyek éjszaka viselhették ezt a szót, a Bárca meg jelenthetett Bárocskát, olyan lány személyét, aki a bárban próbált megélni. A Bárca olyan jegy, ami a munka elvégzését igazolta, ezért a Bár Szája jelentés mégiscsak valószínű.  { #indw3k}
+> A Bárca kapcsolódhat a Bár Nap jelentéséhez is. A kivilágított helyek éjszaka viselhették ezt a szót, a Bárca meg jelenthetett Bárocskát, olyan lány személyét, aki a bárban próbált megélni. A Bárca olyan jegy, ami a munka elvégzését igazolta, ezért a Bár Szája jelentés mégiscsak valószínű.
+{ #indw3k}
 
 
 #### Oláh Imre A Nimrud hagyomány...
@@ -24,8 +25,7 @@
 
 
 
-> A `Leo` = oroszlán és a tűz, Nap kapcsolata, abból a hiedelemből ered, hogy a Nap, az oroszlán jegyében tűz a legerősebben, s egyebek között azért kell annak az állatövi jegynek az oroszlán nevet adni. De itt nemcsak arról van szó, hogy a régiek az oroszlán képében látták a Napot, hanem arról is, hogy viszont az oroszlánnak is Nap-nevet adtak. A `barca` u. i. valamikor magyarul oroszlánt jelentett, (épp úgy mint a `mándruc`) és ez a bar, par szógyök egyezik a Babbar néven emlegetett szumir Nap-isten nevével is.  
-
+> A `Leo` = oroszlán és a tűz, Nap kapcsolata, abból a hiedelemből ered, hogy a Nap, az oroszlán jegyében tűz a legerősebben, s egyebek között azért kell annak az állatövi jegynek az oroszlán nevet adni. De itt nemcsak arról van szó, hogy a régiek az oroszlán képében látták a Napot, hanem arról is, hogy viszont az oroszlánnak is Nap-nevet adtak. A `barca` u. i. valamikor magyarul oroszlánt jelentett, (épp úgy mint a `mándruc`) és ez a bar, par szógyök egyezik a Babbar néven emlegetett szumir Nap-isten nevével is. 
 
 </div></div>
 
