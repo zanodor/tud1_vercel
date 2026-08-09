@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","created":"2023-11-11T04:49:00","updated":"2026-07-23T12:19"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2026-08-09T17:44"}
 ---
 
 
 # Precesszió
 
-{ #260101}
-
+{ #260101}
 
 
 #### John Major Jenkins Galactic Alignment...
@@ -23,8 +22,7 @@
 > —  
 > A *simsumara* krokodil (vagy makara) feje akár a galaxismag kidudorodásának a sötét hasadékszerű szájjal rendelkező kiöblösödő része is lehet.  
 > ...  
-> A közvetlen asszociáció tehát egy szülőhelyre vonatkozik. Guénon és Coomaraswamy egyaránt a *kalamukhát* azonosítja a szülő- és felemésztővel, és a Bakba (valójában a Nyilasba) helyezi. Korábban említettem, hogy a `makara` vagy `mukha` csillagászati utalása valószínűleg a Tejútrendszerben lévő sötét hasadékra vonatkozik, amelyet a maják szintén szörnyszájként azonosítanak. A védikus *simsumara* krokodil rokon szörnyszája felfelé néz, és felfal minden gyanútlan keresőt, megakadályozva őket abban, hogy átlépjenek az általa őrzött Nyilas-kapun.  
-
+> A közvetlen asszociáció tehát egy szülőhelyre vonatkozik. Guénon és Coomaraswamy egyaránt a *kalamukhát* azonosítja a szülő- és felemésztővel, és a Bakba (valójában a Nyilasba) helyezi. Korábban említettem, hogy a `makara` vagy `mukha` csillagászati utalása valószínűleg a Tejútrendszerben lévő sötét hasadékra vonatkozik, amelyet a maják szintén szörnyszájként azonosítanak. A védikus *simsumara* krokodil rokon szörnyszája felfelé néz, és felfal minden gyanútlan keresőt, megakadályozva őket abban, hogy átlépjenek az általa őrzött Nyilas-kapun. 
 
 </div></div>
 
@@ -319,11 +317,15 @@ Mindezt úgy, hogy nincs tisztában azzal sem, hogy az időszalag manipulált le
 > Miért feltételezzük, hogy a négyszögletes állatövben a sorrend a nyári napfordulóval kezdődik?  
 > A napfordulót végül is rendkívül nehéz megfigyeléssel pontosan meghatározni, és a görög szövegekből mindenesetre ismert, hogy az egyiptomiak különösen sokat foglalkoztak az ég legfényesebb csillagának, a Szíriusznak a heliákus kelésével – vagyis azzal az éjszakával, amikor a Szíriusz először megjelenik, közvetlenül hajnal előtt.  
 > Vajon a [[P/Precesszió\|precesszió]] nem mozdította volna el a Szíriuszt az állatövi csillagokkal együtt, és ezzel végül elválasztotta volna a napfordulótól, és így az éves vízözöntől?  
-> Ma már tudjuk, hogy az áradás az esős évszak júniusi kezdete után következik be Etiópiában, ahol a Kék-Nílus ered. **A Szíriusz napkelte mégis az év központi jelzője maradt az egyiptomi történelem során**.  { #glqzaq}
+> Ma már tudjuk, hogy az áradás az esős évszak júniusi kezdete után következik be Etiópiában, ahol a Kék-Nílus ered. **A Szíriusz napkelte mégis az év központi jelzője maradt az egyiptomi történelem során**.
+{ #glqzaq}
 
 
 
-Gyárfás Ágnes Adalékok a mezopotámiai és a szkíta múlt fővonalához című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében úgy említi a **precessziót, mint ami a Szíriusz újévi delelését nem befolyásolja** (6-8 ezer év eltelte ellenére sem) (a delel szó helyett helyesebb a [[Z/Zenith\|zenith]] kifejezés):  
+
+#### Gyárfás Ágnes Adalékok a mezopotámiai és a szkíta múlt fővonalához...  
+
+...című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében úgy említi a **precessziót, mint ami a Szíriusz újévi delelését nem befolyásolja** (6-8 ezer év eltelte ellenére sem) (a delel szó helyett helyesebb a [[Z/Zenith\|zenith]] kifejezés):  
 > A Dél-mezopotámiai városok népe beleértve Akkádot is, a Szíriusz égi útjának rendelte alá az ünnepeket. Akkor január elsejére esett a Téli Napforduló és egyszerre tűnt fel az égbolt közepén a Szíriusz és az Orion. Az azóta eltelt 6-8 ezer év alatt a Nap precessziós mozgása következtében az Orion december 21-24-én delel, de a Szíriusz mindig Újévkor. Az ünnepeket január 1-én és július 1-én tartották meg és az UR-i népnek is volt a baltával, fokossal rokonított mítosza. Ez az esemény évente megismétlődött.  
 > A kettős balta vagy fokos a férfierő szimbóluma volt és a július elsején nyári ünnepen az aratás megkezdésekor Szíriuszt és Oriont képviselő papnő és király a [[Z/Zikkurat\|zikkurat]] legtetején ünnepélyes [[N/Nász\|nász]]ban egyesült. Ez az esemény ad magyarázatot arra, hogy mit jelent az egyiptomi és az UR-i hagyományban a kettős balta a termékenység szakrális rendjében.  
 
@@ -360,8 +362,8 @@ A sumér nép ismerte. Ez kiderül Badiny Jós Ferenc könyvéből is. [[N/Nagy 
 Az egyiptomiaknak is ismerniük kellett. A precessziót a csak tökéletes rendszereket felállító (lásd magyar nyelv tökéletességét) őseink mindig is ismerték, és még maguk a görögök is bevallották, hogy Hipparkhosz előtt Egyiptomban és Babilonban ismerték, ő előttük is:  
 > The Greek neoplatonist Proclus, who studied at Alexandria in the fifth century A.D., reported that it was the Egyptians and not the Greeks who discovered precession: "Let those, who believe . . . the stars to move around the poles of the zodiac \[precession\], as Ptolemy and Hipparchus before him, \[let him\] know . . . that the Egyptians had already taught Plato about the movement of the fixed stars.  
 > —  
-> A görög neoplatonista Proclus, aki a Kr. u. ötödik században Alexandriában tanult, arról számolt be, hogy nem a görögök, hanem az egyiptomiak fedezték fel a precessziót: "Azok, akik úgy vélik ... hogy a csillagok az állatöv pólusai körül mozognak \[precesszió\], mint Ptolemaiosz és Hipparkhosz előtte, \[hadd tudják meg\] ... hogy az egyiptomiak már Platónt is tanították az állócsillagok mozgásáról."  { #95u2us}
-
+> A görög neoplatonista Proclus, aki a Kr. u. ötödik században Alexandriában tanult, arról számolt be, hogy nem a görögök, hanem az egyiptomiak fedezték fel a precessziót: "Azok, akik úgy vélik ... hogy a csillagok az állatöv pólusai körül mozognak \[precesszió\], mint Ptolemaiosz és Hipparkhosz előtte, \[hadd tudják meg\] ... hogy az egyiptomiak már Platónt is tanították az állócsillagok mozgásáról."
+{ #95u2us}
 
 
 John M. Jenkins könyveinek adatai alapján tudjuk, hogy a maják is ismerték.  
