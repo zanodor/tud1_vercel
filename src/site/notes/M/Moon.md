@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Moon/","title":"Moon","tags":["containstransclusions"],"created":"2024-11-23T05:29","updated":"2026-08-03T20:44"}
+{"dg-publish":true,"permalink":"/M/Moon/","title":"Moon","tags":["containstransclusions"],"created":"2024-11-23T05:29","updated":"2026-08-09T18:00"}
 ---
 
 
@@ -90,7 +90,7 @@ Megemlíti még a sémi-babiloni [[N/Nabu\|Nabu]], Nabbu, Nebo isten nevét is.
 > [!_for_blockid] &nbsp;
 > - A sumér `NAB` szó nem jelent közvetlenül napot, de nagyon közeli jelentést tartalmaz, ahogy a szláv `nebo` = égbolt és rokon alakú más szavak kapcsán is a `nap` szót jelöltük meg kiindulónak:
 > 	- **Anton Deimel (_Šumerisches Lexikon_):** A „nap” fogalmára az `ud` (vagy `u₄`) jelet adja meg (Deimel nr. 381). A `NAB` jel nála (Deimel nr. 126) elsősorban az akkád `nābu` („fénylik”, „ragyog”) igével vagy istenségek nevének összetevőjeként (pl. _d-Nab-u_) szerepel, de önállóan a „nap” égitest jelentésben nem.
-> 	- **Friedrich Delitzsch (_Sumerisches Glossar_):** A „nap” (Tag, Sonne) jelentéshez kizárólag az `ud` gyököt rendeli. A `NAB` nála sem alapjelentése a Napnak; ő is inkább az égi fényességgel vagy specifikus teofór (istennevet tartalmazó) nevekkel hozza.
+> 	- **Friedrich Delitzsch (_Sumerisches Glossar_):** A „nap” (Tag, Sonne) jelentéshez kizárólag az `ud` gyököt rendeli. A `NAB` nála sem alapjelentése a Napnak; ő is inkább az égi fényességgel vagy specifikus teofór (istennevet tartalmazó) nevekkel hozza. 
 
 A magyar `nap` szavunkból eredő idegen szavakat lejjebb külön taglaljuk.  
 
@@ -228,6 +228,7 @@ A [250711CN! PRISCOS 1](https://rumble.com/v6w1nx8-250711cn-priscos-1-kubnyi-tam
 
 Az arab `nabijj` ([lásd itt](https://en.wiktionary.org/wiki/nabi)) = próféta (héber `naví` és arámi `nəḇiyyā`) szavak (lásd még [[N/Nabu\|Nabu]] címnél is róluk) nyilván azon az alapon erednek Nap szavunkból, ahogy a [[S/Sámán\|sámán]] neve is ahhoz kötődik, de [[K/KIN\|KIN]] címnél álló Bakos Attila féle adat szerint a majáknál a Nap főpapjának neve is a Napot jelentő kin szóból indul ki.  
 Pálfi Károly A magyar nemzet ősvallása című könyvében írja ([107. oldalon](zotero://open-pdf/library/items/QVETUTRJ?page=107&annotation=JTHZX7GN)), hogy a vándor dalost a zsidók `nabi`-nak nevezték. Itt is a Nap a kiinduló, ahogy [[B/Bárd\|bárd]] szóban a [[B/BAR\|BAR]] napnév.  
+
 - Lásd még a témát [[N/Nap#Nap papja, próféta\|Nap papja, próféta]] alcímnél.
 
 Hogy mennyire a Nap szavunk a kiinduló, mutatja, hogy a meglepően a germán -ich, -ig melléknévképzőhöz hasonlíthatóan -ig végződéssel ellátott, fenti akkád szóhoz is kapcsolható arab `نابيغ` (`nabigh`) = ragyogó, kitűnő jelentésű. (Vesd össze egyiptomi `nfr`/[[N/Nefer\|nefer]].)  
@@ -626,6 +627,7 @@ Az eredeti [alábbi](https://www.youtube.com/watch?v=V67qv9QbkPg) Jézuspasszpor
 [[G/Galactic anticentre\|Galactic anticentre]] címnél szerepeltek az alábbiak is:  
 Az értelmezésből az látszik kiderülni, hogy az Ikrekben van az északi kapu, a Nyilasban pedig a déli. Ergo ha jól értelmezem, jelenleg – a Vaskorban – a Tejútfa nem fejjel lefelé áll, hanem rendesen (a fa gyökere van délen) és csak 13000 év múlva áll a feje tetejére az Aranykorba érve ([[Z/Zep Tepi\|Zep Tepi]] címnél volt már erről vagy hasonlóról szó korábban; lásd a Dobos Csanád féle magyarázatra adott reakcióm).  
 John M. Jenkins tehát helyesen a GC nem a Tejútfa koronájával, hanem a [[M/Mula\|Mula]] címnél is taglalt gyökerével való megfeleltetését érzi tehát helyesnek (dacára annak, hogy mások szerint a Nyilas a korona; lásd könyvének 266. oldalát). 
+
 Robert Bauval The Circumpolar Constellations in Ancient Egypt c. cikkének 2. oldalán Oriont viszont megint délinek mondja... [Ezen](https://youtu.be/i3FRFuCZCrY) YouTube beszélgetésben Pap Gábor 14:30-nál azt mondja, hogy az Argo Navis a déli "ekliptika központ"-ban található (volt; azóta felszabták ugye).  
 
 [[A/Andor\|Andor]] név elemzésénél írtuk, hogy Ég Ura értelmű is, de az Úr itt egy T-előtétet kap. Mivel (Nap az) Orion(ban) értelemben kell rá tekintenünk, nem lehet a [[T/TUR\|TUR]] és [[T/Tura\|Tura]] címnél taglalt Fiú jelentéssel számolni: Orion nem lehet Fiú, mert a Nap azon kis éves állásában már élete delelőjén tart. Itt a [[D/Dél\|dél]]-delelő(je) értelemre hívnám fel a figyelmet. Ugyanis a Sagittarius-Nyilas a déli irány, viszont más értelmezésben a dél Orionra utal, legalábbis ilyenkor, a nyári napfordulón áll legmagasabban a delelő Nap. Ilyenkor van "[[U/Ugor\|Ugor]]" (ÚR – [[U/UR\|UR]] = sumér-óegyiptomi kutya) állásában a Nap.  
@@ -676,8 +678,7 @@ A [[B/Bal és jobb\|bal és jobb]] címnél is szereplő, René Guénon Lord of 
 
 > In Sanskrit the North is called Uttara, i.e. the highest region; the South is called Dakshina, the region to the right, i.e. the one which is on one's right in turning to the East; the ascending march of the Sun towards the North, beginning with the winter solstice and terminating at the summer solstice, is called [[U/Uttarayana\|Uttarayana]]; the descending march of the Sun towards the South, beginning with the summer solstice and ending at the winter solstice, is called Dakshinayana.  
 > —  
-> A szanszkritban az északi területet Uttarának, azaz a legmagasabb régiónak nevezik; a déli területet Dakshina-nak, a jobb oldali régiónak, azaz annak, amelyik kelet felé fordulva jobbra van; a Nap észak felé tartó felfelé haladó menetét, amely a téli napfordulóval kezdődik és a nyári napfordulóval végződik, [[U/Uttarayana\|Uttarayana]]-nak nevezik; a Nap dél felé tartó lefelé haladó menetét, amely a nyári napfordulóval kezdődik és a téli napfordulóval végződik, Dakshinayana-nak nevezik.  
-
+> A szanszkritban az északi területet Uttarának, azaz a legmagasabb régiónak nevezik; a déli területet Dakshina-nak, a jobb oldali régiónak, azaz annak, amelyik kelet felé fordulva jobbra van; a Nap észak felé tartó felfelé haladó menetét, amely a téli napfordulóval kezdődik és a nyári napfordulóval végződik, [[U/Uttarayana\|Uttarayana]]-nak nevezik; a Nap dél felé tartó lefelé haladó menetét, amely a nyári napfordulóval kezdődik és a téli napfordulóval végződik, Dakshinayana-nak nevezik. 
 
 </div></div>
 
@@ -1169,8 +1170,7 @@ Ami az ibolya-sugarak feltöltő hatását illeti, ez nagyon érdekes, és az ul
 ...című könyvében írja:  
 > Hogy e sáka máskép Tahi népfaj (Dáhák Herodotban, Dahae Arriánban) nem mongol, hanem vagy finn, ogor, vagy türk fajú volt, a chinai leírásból következik, mely szerint Ta-van, vagy csupán Van, Vén néven is említett föld lakói, kiknek e hires ménesek volt, mélyen fekvő szeműek, nagy szakálluak, és igen bajuszosok, kiálló óruak (tehát görög profil) nőnem tisztelők, az ércz-olvasztáshoz értnek, Tesi- vagy Tűz-istennek áldoznak lovakkal, ürükkel, arany bálványuk is van, milyennel a chinai császár is megajándokozta őket, **napi, vagy nap nevü királyuk** volt az V. században Christus után, egy Khang nevü más királyuk pedig 605-616 a Vén nemzetségből eredett, mely egykor a Kilian vagy menyhegyen lakott nyelvökre nézve barbarok, házassági és temetési szokásaik a turkokéval egyezők stb. ([Lásd 289. old.](zotero://open-pdf/library/items/DFI47XPY?page=289&annotation=6XD2NEY2))  
 > 
-> Scytha földön a mai Samarkandban, régen Zogdiánában az V. században Krisztus után **Napi** nevü hunnus királyt mutatott fel Ritter (Erdk. V. 658). ([Lásd 299. old.](zotero://open-pdf/library/items/DFI47XPY?page=299&annotation=P96QSHRT))  
-^DFI47XPY-6XD2NEY2
+> Scytha földön a mai Samarkandban, régen Zogdiánában az V. században Krisztus után **Napi** nevü hunnus királyt mutatott fel Ritter (Erdk. V. 658). ([Lásd 299. old.](zotero://open-pdf/library/items/DFI47XPY?page=299&annotation=P96QSHRT)) ^DFI47XPY-6XD2NEY2
 
 Meglepő módon ausztronéz adattal is szolgál (az nem meglepő, hisz sok ausztronéz szót a magyarral azonos):  
 > Az orosz összehasonlitó nagy szótárban uj Caledoniában `naap` Tanna szigetben `naûp`, a társasági szigetekben `naga` = nap, (sol) az utolsó a pehlvi `naglia`, ha különben helyesen van ez a szóforma ott közölve. ([Lásd 294. old.](zotero://open-pdf/library/items/DFI47XPY?page=294&annotation=DCYAREX6))  
