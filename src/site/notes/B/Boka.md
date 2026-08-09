@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Boka/","title":"Boka","tags":["containstransclusions"],"created":"2023-10-11T06:11","updated":"2026-06-22T17:55"}
+{"dg-publish":true,"permalink":"/B/Boka/","title":"Boka","tags":["containstransclusions"],"created":"2023-10-11T06:11","updated":"2026-08-09T18:06"}
 ---
 
 
@@ -13,8 +13,7 @@
 
 
 
-> A mi (ma is ismert, szótári) bog szavunk fán támadt csomót jelent. Tőle ágazott el a [[B/Boka\|boka]] amelyet lábszárcsontunk "bog"-ára értünk, valamint a pók amelyet a ló inán kelt húsos gümőre mondunk.  
-
+> A mi (ma is ismert, szótári) bog szavunk fán támadt csomót jelent. Tőle ágazott el a [[B/Boka\|boka]] amelyet lábszárcsontunk "bog"-ára értünk, valamint a pók amelyet a ló inán kelt húsos gümőre mondunk. 
 
 </div></div>
 
