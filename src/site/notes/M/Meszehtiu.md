@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Meszehtiu/","title":"Meszehtiu","tags":["containstransclusions"],"created":"2023-11-09T05:37","updated":"2026-08-09T14:05"}
+{"dg-publish":true,"permalink":"/M/Meszehtiu/","title":"Meszehtiu","tags":["containstransclusions"],"created":"2023-11-09T05:37","updated":"2026-08-09T18:00"}
 ---
 
 
@@ -21,8 +21,7 @@ Az eredeti alak: `mshtyw`, ebből olvasták ki azt, amit ismerünk.
 > Set also was a generic term applied to all circumpolar constellations, because, as always visible, they somewhat paradoxically were thought to typify darkness.  
 > —  
 > Ősi azonban, mint Ἄρκτος és Ursa, ʽĀsh és a Sör, Ἅμαξα, Plaustrum és Triones, ez a pompás csillagkép még messzebbre - három vagy négy vagy még több évezreddel azelőtt, hogy még ezek a címek is aktuálisak lettek volna - visszanyúlt, mint a Bika combja vagy az Elülső lábszár Egyiptomban. Ott a denderahi planiszférán és az Edfū templomban az állat egyetlen combja vagy hátsó negyede ábrázolta, amelyre a Halottak Könyvében úgy utalnak, mint A comb csillagkép az északi égbolton; és így említik a királyok sírjain és a thébai Ramesseum falain lévő feliratok. Néha a Comb alakját egy tehéntestre változtatták, koronggal és szarvakkal; de bárhogyan is nevezték vagy ábrázolták, ezek a csillagok mindig is kiemelkedő szerepet játszottak Egyiptom korai csillagászatában és mitológiájában. Úgy tűnik, hogy **Mesχet** volt az elnevezésük, és különösen valamelyiküknek, mint a rosszindulatú vörös Set, Sit vagy Sith, Sut vagy [[S/Szutek\|Sutech]] képviselőjének, aki feleségével, Taurttal vagy Thouerisszel együtt, akit a szomszédos Hippopotamus (ma a mi Drakónk része) mutat, a sötétséget és a gonosz istenségeket képviselte.  
-> Set egy általános kifejezés is volt, amelyet az összes cirkumpoláris csillagképre alkalmaztak, mert mivel mindig láthatóak, némileg paradox módon úgy gondolták, hogy a sötétséget jelképezik.  
-
+> Set egy általános kifejezés is volt, amelyet az összes cirkumpoláris csillagképre alkalmaztak, mert mivel mindig láthatóak, némileg paradox módon úgy gondolták, hogy a sötétséget jelképezik. 
 
 </div></div>
 
