@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarama/","title":"Sarama","tags":["Englishtexttranslated"],"created":"2023-11-17T05:34","updated":"2026-05-21T04:57"}
+{"dg-publish":true,"permalink":"/S/Sarama/","title":"Sarama","tags":["Englishtexttranslated"],"created":"2023-11-17T05:34","updated":"2026-08-09T17:50"}
 ---
 
 
@@ -35,8 +35,8 @@ Ott ([[D/Drumó\|drumó]] és [[D/Dream\|dream]] címnél) a tél időszaka is e
 ...című könyvében másutt Śabala és Śyåma a nevük:  
 > Indo-European dogs of the dead generally moved around in pairs, however: when they were not twin brothers, they could be represented as two dogs in one, as in the well-known case of Cerberus. Most often, **one of these dogs was black and the other white**, symbols of a path that led not only from a past life to a present death, but also from death to a future life. Among such canine twins may be counted the Indian Syâma and Sabala, the Germanic Gifr and Geri (or Frekr), the Armenian Spitak and Siaw, the two "devil dogs" of Celtic mythology, and an Iranian pair that is perhaps identified with Sraosa and Rasnu. The grey-red canine psychopomp of Welsh mythology may also be an instance of such pairing.  
 > —  
-> Az indoeurópai holtak kutyái azonban általában párban mozogtak: ha nem voltak ikertestvérek, akkor két kutyaként is ábrázolhatták őket, mint a jól ismert [[C/Cerberus\|Kerberosz]] esetében. Leggyakrabban **az egyik kutya fekete, a másik fehér volt**, egy olyan út szimbólumaként, amely nemcsak a múltbeli életből a jelenbeli halálba, hanem a halálból a jövőbeli életbe is vezetett. Az ilyen kutyakettősök közé sorolható az indiai Syâma és Sabala, a germán Gifr és Geri (vagy Frekr), az örmény Spitak és Siaw, a kelta mitológia két "ördögi kutyája", valamint egy iráni pár, amelyet talán Sraosával és Rasnuval azonosítanak. A walesi mitológia szürkésvörös kutya-[[P/Psychopomp\|pszükhopomposz]]a szintén ilyen párosítás lehet.  { #itxfzr}
-
+> Az indoeurópai holtak kutyái azonban általában párban mozogtak: ha nem voltak ikertestvérek, akkor két kutyaként is ábrázolhatták őket, mint a jól ismert [[C/Cerberus\|Kerberosz]] esetében. Leggyakrabban **az egyik kutya fekete, a másik fehér volt**, egy olyan út szimbólumaként, amely nemcsak a múltbeli életből a jelenbeli halálba, hanem a halálból a jövőbeli életbe is vezetett. Az ilyen kutyakettősök közé sorolható az indiai Syâma és Sabala, a germán Gifr és Geri (vagy Frekr), az örmény Spitak és Siaw, a kelta mitológia két "ördögi kutyája", valamint egy iráni pár, amelyet talán Sraosával és Rasnuval azonosítanak. A walesi mitológia szürkésvörös kutya-[[P/Psychopomp\|pszükhopomposz]]a szintén ilyen párosítás lehet.
+{ #itxfzr}
 
 - Bal Gangadhar Tilak Orion or the Antiquity of the Vedas c. könyvében `shabalau` = pöttyös, [[T/Tarka\|tarka]]. Mely akár képviselhetné bármelyik oldalt is.
 
