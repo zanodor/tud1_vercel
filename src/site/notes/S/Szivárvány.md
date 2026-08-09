@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szivárvány/","title":"Szivárvány","tags":["containstransclusions"],"created":"2023-10-31T11:12","updated":"2026-08-09T17:57"}
+{"dg-publish":true,"permalink":"/S/Szivárvány/","title":"Szivárvány","tags":["containstransclusions"],"created":"2023-10-31T11:12","updated":"2026-08-09T20:05"}
 ---
 
 
