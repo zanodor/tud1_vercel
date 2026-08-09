@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2026-03-05T01:40"}
+{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2026-08-09T17:57"}
 ---
 
 
@@ -85,8 +85,7 @@ Ne feledjük azt sem, hogy a több esetben Szíriusszal azonosított istennők e
 
 > The stages of the year, linked to the main activities of a primarily agrarian society, were [[A/Ahet\|Akhet]] (inundation or flooding of the Nile), **Peret** (emergence or growth of crops) and **Shemu** or **Shomu** (summer, Nile low water and harvest, a very hot and dry period in the year).  
 > —  
-> Az évszakok, amelyek egy elsősorban az agrártársadalom fő tevékenységeihez kapcsolódtak, a következők voltak: [[A/Ahet\|Akhet]] (a Nílus elöntése vagy áradása), **Peret** (a termés kelése vagy növekedése) és **Shemu** vagy **Shomu** (nyár, a Nílus alacsony vízállása és az aratás, az év nagyon forró és száraz időszaka).  
-
+> Az évszakok, amelyek egy elsősorban az agrártársadalom fő tevékenységeihez kapcsolódtak, a következők voltak: [[A/Ahet\|Akhet]] (a Nílus elöntése vagy áradása), **Peret** (a termés kelése vagy növekedése) és **Shemu** vagy **Shomu** (nyár, a Nílus alacsony vízállása és az aratás, az év nagyon forró és száraz időszaka). 
 
 </div></div>
 
