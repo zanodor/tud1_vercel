@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-10-19T11:35","updated":"2026-07-23T11:44"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-10-19T11:35","updated":"2026-08-09T17:59"}
 ---
 
 
@@ -69,8 +69,7 @@ A már kétszer említett oguz név kapcsán az [alábbi](https://qr.ae/pvAZDU) 
 
 > We modern Turks call ourselves Oğuz, you already know that; it reads O:z. There is a reason there is this 'soft g' in our alphabet. It fades away and gets hardened also; I'm really fascinated by this sound. So in this instance, soft g/ğ fades away and it becomes 'uz'. But then again it gets hardened and becomes 'öküz'. `Öküz` means ox.  
 > —  
-> Mi, modern törökök oğuznak hívjuk magunkat, ezt te is tudod; O:z-nak olvasandó. Nem véletlenül van ez a "lágy g" az ábécénkben. Elhalványul és megkeményedik is; engem nagyon lenyűgöz ez a hang. Tehát ebben az esetben a lágy g/ğ elhalványul, és 'uz' lesz belőle. De aztán újra megkeményedik és 'öküz' lesz belőle. `Öküz` ökröt jelent.  
-
+> Mi, modern törökök oğuznak hívjuk magunkat, ezt te is tudod; O:z-nak olvasandó. Nem véletlenül van ez a "lágy g" az ábécénkben. Elhalványul és megkeményedik is; engem nagyon lenyűgöz ez a hang. Tehát ebben az esetben a lágy g/ğ elhalványul, és 'uz' lesz belőle. De aztán újra megkeményedik és 'öküz' lesz belőle. `Öküz` ökröt jelent. 
 
 </div></div>
   
