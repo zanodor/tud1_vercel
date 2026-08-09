@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anu útja/","title":"Anu útja","tags":["Englishtexttranslated"],"created":"2023-10-04T02:42","updated":"2026-04-24T09:38"}
+{"dg-publish":true,"permalink":"/A/Anu útja/","title":"Anu útja","tags":["Englishtexttranslated"],"created":"2023-10-04T02:42","updated":"2026-08-09T17:59"}
 ---
 
 
@@ -20,7 +20,8 @@ Bakos Attila A Duna Evangéliuma című könyvének 92. oldalán úgy fogalmaz, 
 ...című [letöltésre elérhető](https://mega.nz/file/BmEyjBiY#6C54JFLDU9WmNKa9mQ3kWC3fOZUm7rPgDoB48ez55uA) könyvében áll:  
 > According to one tradition, there were three superimposed heavens, the lowest of which contained the stars, the middle being the home of the Igigū and the topmost that of Anu (An). In a separate, astronomical, tradition the eastern horizon was divided into three vertical bands, the 'ways' of Enlil, Anu (An) and Ea (Enki), which were used for locating the position of the eighteen zodiacal constellations recognised from about 1000 BC. Later these eighteen constellations were assigned singly or in pairs to the twelve months, foreshadowing the later zodiac.  
 > —  
-> Egy hagyomány szerint három egymás fölött elhelyezkedő égbolt volt, amelyek közül a legalsó a csillagokat tartalmazta, a középső az Igigū otthona volt, a legfelső pedig Anu (An)é. Egy másik, csillagászati hagyomány szerint a keleti horizontot három függőleges sávra, Enlil, Anu (An) és Ea (Enki) "útjaira" osztották, amelyeket a Kr. e. 1000 körül ismert tizennyolc állatövi csillagkép helyzetének meghatározására használtak. Később ezt a tizennyolc csillagképet egyenként vagy párosával a tizenkét hónaphoz rendelték, ami a későbbi állatöv előképe.  { #htyhqg}
+> Egy hagyomány szerint három egymás fölött elhelyezkedő égbolt volt, amelyek közül a legalsó a csillagokat tartalmazta, a középső az Igigū otthona volt, a legfelső pedig Anu (An)é. Egy másik, csillagászati hagyomány szerint a keleti horizontot három függőleges sávra, Enlil, Anu (An) és Ea (Enki) "útjaira" osztották, amelyeket a Kr. e. 1000 körül ismert tizennyolc állatövi csillagkép helyzetének meghatározására használtak. Később ezt a tizennyolc csillagképet egyenként vagy párosával a tizenkét hónaphoz rendelték, ami a későbbi állatöv előképe.
+{ #htyhqg}
 
 
 ![assets/Anuutja_image2.jpg|fix_dark fix_light|840](/img/user/A/assets/Anuutja_image2.jpg)  
