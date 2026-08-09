@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Melkarth/","title":"Melkarth","tags":["containstransclusions"],"created":"2023-11-13T06:46","updated":"2026-06-22T17:54"}
+{"dg-publish":true,"permalink":"/M/Melkarth/","title":"Melkarth","tags":["containstransclusions"],"created":"2023-11-13T06:46","updated":"2026-08-09T18:05"}
 ---
 
 
@@ -23,8 +23,7 @@ Sémi-görög (Nap)isten.
 
 > The Centaurs' mother goddess was called, in Greek, Leucothea, 'the White Goddess', but the Centaurs themselves called her Ino or Plastene, and her rock-cut image is still shown near the ancient pinnacle-town of Tantalus; she had also become the 'mother' of Melicertes, or Hercules [[M/Melkarth\|Melkarth]], the god of earlier semi-Semitic invaders.  
 > —  
-> A kentaurok anyaistennőjét görögül Leukoteának, "Fehér Istennőnek" hívták, de maguk a kentaurok Inónak vagy Plastene-nek nevezték, és sziklába vésett képmása még ma is látható Tantalosz ősi csúcsvárosának közelében; ő lett Melicertes vagy Hercules [[M/Melkarth\|Melkarth]] "anyja" is, a korábbi félszemita betolakodók istene.  
-
+> A kentaurok anyaistennőjét görögül Leukoteának, "Fehér Istennőnek" hívták, de maguk a kentaurok Inónak vagy Plastene-nek nevezték, és sziklába vésett képmása még ma is látható Tantalosz ősi csúcsvárosának közelében; ő lett Melicertes vagy Hercules [[M/Melkarth\|Melkarth]] "anyja" is, a korábbi félszemita betolakodók istene. 
 
 </div></div>
 
