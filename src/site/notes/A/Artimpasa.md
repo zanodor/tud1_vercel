@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Artimpasa/","title":"Artimpasa","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-04-20T11:20","updated":"2026-08-09T18:05"}
+{"dg-publish":true,"permalink":"/A/Artimpasa/","title":"Artimpasa","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-04-20T11:20","updated":"2026-08-09T18:48"}
 ---
 
 
@@ -23,7 +23,7 @@ Az [alábbi](https://www.encyclopedia.com/environment/encyclopedias-almanacs-tra
 
 </div></div>
 
-- [Ezen](https://skifska-etnika.com/brand/en/collections-en/the-ancient-scythia/) oldalon írottakat is lásd.  
+- [Ezen](https://web.archive.org/web/20211031172259/https://skifska-etnika.com/brand/en/collections-en/the-ancient-scythia/) oldalon írottakat is lásd.
 
 ORIGENES (i.sz. 185-254.) V. könyv Celsus ellen:  
 > 39\. Celsus állítja Herodot után, hogy a szó szoros értelmébenkíták Apollót Gongosirnak, Neptunt Thagimasádnak, Venust Argimpasának, Vestát Tabitinak nevezik.  
