@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hargita Csaba Ferenc/","title":"Hargita Csaba Ferenc","tags":["containscallouts"],"created":"2026-03-08T17:00","updated":"2026-06-13T23:58"}
+{"dg-publish":true,"permalink":"/H/Hargita Csaba Ferenc/","title":"Hargita Csaba Ferenc","tags":["containscallouts"],"created":"2026-03-08T17:00","updated":"2026-08-09T17:58"}
 ---
 
 
@@ -28,8 +28,8 @@ Közben, mint rájövök, a tanulmány Hargita Csaba professzor közreműködés
 - Vagy az az írótársa? Még mindig nem egyértelmű, de a kép tisztul...
 
 A Hargita Csaba Ferenc közreműködésével készült A magyarok őstörténete – a magyar-héber kapcsolat című dolgozatban maga is az Izrael és Magyarország közötti kapcsolatokat keresi és nehezen eldönthető, mikor magyar- és mikor zsidó-párti. Most éppen utóbbi ([[K/Kazár\|kazár]] címhez is betéve):  
-> Az ókori Mezopotámából, Anatóliából, vagy a Kaukázusból származó Közép Ázsián keresztül Indiáig és Kínáig terjeszkedő, majd nyugat felé sikeresen előrenyomuló, főhadiszállásaikat a Volga-Dnyepr térségben felállító és a Kárpát-medence elfoglalását\[?\] közös célul kitűző vegyes eredetű törzsek egyesítése csakis olyan vérszövetségek által valósulhatott meg, amilyeneket fentebb már említettünk. Ilyen heterogén csoportoknak közös törvény kell, és szorosan ragaszkodniuk kell a minden egyes törzs által elfogadott szabályokhoz: az összekötő elem a habirok lehettek, akiknek vallási és jogi rendszere tűnik az egyetlennek, ami érvényesült és továbbadatott a mai Magyarország Árpád általi megalapításáig.  { #4bbtu4}
-
+> Az ókori Mezopotámából, Anatóliából, vagy a Kaukázusból származó Közép Ázsián keresztül Indiáig és Kínáig terjeszkedő, majd nyugat felé sikeresen előrenyomuló, főhadiszállásaikat a Volga-Dnyepr térségben felállító és a Kárpát-medence elfoglalását\[?\] közös célul kitűző vegyes eredetű törzsek egyesítése csakis olyan vérszövetségek által valósulhatott meg, amilyeneket fentebb már említettünk. Ilyen heterogén csoportoknak közös törvény kell, és szorosan ragaszkodniuk kell a minden egyes törzs által elfogadott szabályokhoz: az összekötő elem a habirok lehettek, akiknek vallási és jogi rendszere tűnik az egyetlennek, ami érvényesült és továbbadatott a mai Magyarország Árpád általi megalapításáig.
+{ #4bbtu4}
 
 
 [[E/Életfa\|Életfa]] címnél pedig:  
