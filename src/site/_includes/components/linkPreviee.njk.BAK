@@ -57,13 +57,15 @@
   </div>
 </div>
 
-
+<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
+</iframe>
 
 <script>
   var opacityTimeout;
   var contentTimeout;
   var transitionDurationMs = 100;
 
+  var iframe = document.getElementById('link-preview-iframe')
   var tooltipWrapper = document.getElementById('tooltip-wrapper')
   var tooltipContent = document.getElementById('tooltip-content')
 
@@ -153,53 +155,59 @@
         return;
       }
       if (!linkHistories[contentURL]) {
-        fetch(contentURL)
-          .then(function(response) { return response.text(); })
-          .then(function(html) {
-            var parser = new DOMParser();
-            var doc = parser.parseFromString(html, 'text/html');
-
-            var titleEl = doc.querySelector('h1');
-            var contentEl = doc.querySelector('.content');
-
-            var tooltipContentHtml = '';
-            if (titleEl) {
-              tooltipContentHtml += '<div style="font-weight: bold; unicode-bidi: plaintext;">' + titleEl.innerHTML + '</div>';
-            }
-            if (contentEl) {
-              tooltipContentHtml += contentEl.innerHTML;
-            } else if (doc.body) {
-              tooltipContentHtml += doc.body.innerHTML;
-            } else {
-              tooltipContentHtml = '<div>Preview not available.</div>';
-            }
-
-            tooltipContent.innerHTML = tooltipContentHtml;
-            linkHistories[contentURL] = tooltipContentHtml;
-            tooltipWrapper.scrollTop = 0;
-            setTimeout(function () {
-              positionTooltip(elem);
-              tooltipWrapper.style.opacity = 1;
-              if (url.indexOf('#') !== -1) {
-                var id = url.split('#')[1];
-                var focus = tooltipWrapper.querySelector('[id=\'' + id + '\']');
-                if (focus) {
-                  focus.classList.add('referred');
-                  focus.scrollIntoView({ behavior: 'smooth' }, true);
-                }
-              } else {
-                tooltipWrapper.scroll(0, 0);
-              }
-            }, 1);
-          })
-          .catch(function() {
+        iframe.src = contentURL
+        iframe.onload = function () {
+          let iframeWindow;
+          let iframeDoc;
+          try {
+            iframeWindow = iframe.contentWindow;
+            iframeDoc = iframeWindow ? iframeWindow.document : null;
+          } catch (e) {
             tooltipContent.innerHTML = '<div>Preview not available for this file.</div>';
             tooltipWrapper.scrollTop = 0;
             setTimeout(function () {
               positionTooltip(elem);
               tooltipWrapper.style.opacity = 1;
-            }, 1);
-          });
+            }, 1)
+            return;
+          }
+          if (!iframeDoc) {
+            return;
+          }
+
+          const titleEl = iframeDoc.querySelector('h1');
+          const contentEl = iframeDoc.querySelector('.content');
+
+          tooltipContentHtml = ''
+          if (titleEl) {
+            tooltipContentHtml += '<div style="font-weight: bold; unicode-bidi: plaintext;">' + titleEl.innerHTML + '</div>'
+          }
+          if (contentEl) {
+            tooltipContentHtml += contentEl.innerHTML
+          } else if (iframeDoc.body) {
+            tooltipContentHtml += iframeDoc.body.innerHTML
+          } else if (iframeDoc.documentElement) {
+            tooltipContentHtml += iframeDoc.documentElement.innerHTML
+          } else {
+            return;
+          }
+          tooltipContent.innerHTML = tooltipContentHtml
+          linkHistories[contentURL] = tooltipContentHtml
+          tooltipWrapper.scrollTop = 0;
+          setTimeout(function () {
+            positionTooltip(elem);
+            tooltipWrapper.style.opacity = 1;
+            if (url.indexOf("#") != -1) {
+              let id = url.split('#')[1];
+              const focus = tooltipWrapper.querySelector(`[id='${id}']`);
+              focus.classList.add('referred');
+              console.log(focus);
+              focus.scrollIntoView({behavior: 'smooth'}, true)
+            } else {
+              tooltipWrapper.scroll(0, 0);
+            }
+          }, 1)
+        }
       } else {
         tooltipContent.innerHTML = linkHistories[contentURL]
         setTimeout(function () {
