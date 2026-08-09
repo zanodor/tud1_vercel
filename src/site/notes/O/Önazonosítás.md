@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:32","updated":"2026-07-03T23:11"}
+{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:32","updated":"2026-08-09T14:04"}
 ---
 
 
@@ -9,7 +9,7 @@ Ami az alábbiakban megfogalmazásra kerül, abból kiderül, hogy az önazonos�
 > [!check] &nbsp;
 > Egyes nyelvek szavai mögött az önvaló, belső/isteni lényeg, én(ség), életerő, lélek, és annak lényegét, alapkiinduló fogalmát tekintve fény, tűz jelentésű alapszók kereshetők.
 
-Különösen a [[K/Khuda\|Khuda]] címnél taglalt perzsa `khod` = saját, önmaga szó kapcsán írottakat értelmezve érthető ez meg, de mint kiderül, a török nyelvben is hasonló esetet találunk: a nyilván [[I/Isten\|Isten]] szavunk csonkulásaként vehető török `üst` = ős, előd, felettes, szülő párjának tartható az alant említett `öz` = önmaga szócska.  
+Különösen a [[K/Khuda\|Khuda]] címnél taglalt perzsa `khod` = saját, önmaga szó kapcsán írottakat értelmezve érthető ez meg, de mint kiderül, a török nyelvben is hasonló esetet találunk: a nyilván [[I/Isten\|Isten]] szavunk csonkulásaként vehető török `üst` = ős, előd, felettes, szülő párjának tartható és az [[O/Ős\|ős]] szavunkkal megfeleltethető alant említett `öz` = önmaga szócska.  
 
 Az [[E/Ember – régi ember\|ember – régi ember]] magát nem a testével, hanem a [[S/Szellem\|szellem]]ével, fénytermészetével, fénnyel (Nappal) azonosította. (Ez megegyezik Grandpierre Atilla Lélek és a világegyetem című könyvében megfogalmazottakkal[^1].)  
 "Énazonosításnak" is hívhatnók, hiszen Én = [[E/EN\|En]] = Isten(i lény(em)). A [[S/Személyes névmások\|személyes névmások]] a magyar nyelvben, egyes számban, istennevek, írja Péterfai János is. `Én` és `ön` is az [[A/AN, ÁN\|An]] = ég (egy, isten(anya)) változata (vö. sumér `AN` = ég, menny), felhangos párja.  
