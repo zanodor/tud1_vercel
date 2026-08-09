@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aquatic/","title":"Aquatic","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T05:35","updated":"2026-06-22T17:52"}
+{"dg-publish":true,"permalink":"/A/Aquatic/","title":"Aquatic","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T05:35","updated":"2026-08-09T18:03"}
 ---
 
 
@@ -24,8 +24,7 @@ Viszont már eleve az önálló A is vizet jelentene, az alábbiak szerint is:
 
 > Lenormant's reading of the name \[Ea's\] was Hea. In Sumerian times Enki, in Accadian times Ea was the generally used name. It may be supposed that these names were somehow related with the Sumerian root A, meaning both water and father, or generation. Deimel, when treating this root, mention its resemblance to Indo-European AHWA "water". (Sum. Akk. Gl. p. 1) A. Falkenstein writes: " ..vielwehr kommt der Zeichen E in der alteren Zeit der Lautwert A zu..." (Die Sprache Gudeas. Roma. 1949, p. 25). These suggest one more addition to the innumerable attempts to explain the holy name Jahve. Did not a very early common culture of many peoples possess the concept of a god-water or god father, the Creator?  
 > —  
-> Lenormant olvasata szerint \[Ea =\] Hea. A sumér időkben [[E/Enki\|Enki]], az akkád időkben [[E/EA\|Ea]] volt az általánosan használt név. Feltételezhető, hogy ezek a nevek valamilyen módon kapcsolatban álltak a sumér `A` gyökkel, amely egyszerre jelent vizet és apát, illetve nemzedéket. Deimel, amikor ezt a gyököt érinti, megemlíti a hasonlóságot az indoeurópai AHWA "víz" szóval. (Sum. Akk. Gl. 1. o.) A. Falkenstein írja: " ..vielwehr kommt der Zeichen E in der alteren Zeit der Lautwert A zu..." (Die Sprache Gudeas. Roma. 1949, 25. o.). Ezek még egy kiegészítést sugallnak a [[J/Jahve\|Jahve]] szent név magyarázatára tett számtalan kísérlethez. Vajon nem rendelkezett-e egy nagyon korai, sok népet átfogó közös kultúra egy isten-víz vagy istenatya féle Teremtő fogalmával?  
-
+> Lenormant olvasata szerint \[Ea =\] Hea. A sumér időkben [[E/Enki\|Enki]], az akkád időkben [[E/EA\|Ea]] volt az általánosan használt név. Feltételezhető, hogy ezek a nevek valamilyen módon kapcsolatban álltak a sumér `A` gyökkel, amely egyszerre jelent vizet és apát, illetve nemzedéket. Deimel, amikor ezt a gyököt érinti, megemlíti a hasonlóságot az indoeurópai AHWA "víz" szóval. (Sum. Akk. Gl. 1. o.) A. Falkenstein írja: " ..vielwehr kommt der Zeichen E in der alteren Zeit der Lautwert A zu..." (Die Sprache Gudeas. Roma. 1949, 25. o.). Ezek még egy kiegészítést sugallnak a [[J/Jahve\|Jahve]] szent név magyarázatára tett számtalan kísérlethez. Vajon nem rendelkezett-e egy nagyon korai, sok népet átfogó közös kultúra egy isten-víz vagy istenatya féle Teremtő fogalmával? 
 
 </div></div>
 
