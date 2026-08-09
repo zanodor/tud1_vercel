@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2026-06-13T23:19"}
+{"dg-publish":true,"permalink":"/F/Fa/","created":"2024-12-18T08:00","updated":"2026-08-09T17:45"}
 ---
 
 
@@ -35,7 +35,8 @@ A Zakar András Sumerian-Ural-Altaic Affinities féle PDF-ben helyet kapó Deime
 `A-Pa` előjön Varga Zsigmond Az ősmagyar mitológia című könyvének 297. oldalán, a lagasi Gudea templomtornyának neveként.  
 
 Fa szavunknál írja CzF:  
-> Rokonok vele takele nyelven Áfrikában: `fa`, továbbá a parszi és pehlvi `van`, zend `vana`, szanszkrit `vana` (erdő), persa `bun`, sínai `mu` (arbor; lignum), finn `pun`, német `Baum`, goth `bagm`, angol `beam`. A perzsa `bam`, s héber `bamah` pedig magast jelentenek, épen úgy mint az egyszerű magyar fe, mely alapfogalomban a növények legmagasabb nemét jelentő fa-val egy értelmű.  { #250603}
+> Rokonok vele takele nyelven Áfrikában: `fa`, továbbá a parszi és pehlvi `van`, zend `vana`, szanszkrit `vana` (erdő), persa `bun`, sínai `mu` (arbor; lignum), finn `pun`, német `Baum`, goth `bagm`, angol `beam`. A perzsa `bam`, s héber `bamah` pedig magast jelentenek, épen úgy mint az egyszerű magyar fe, mely alapfogalomban a növények legmagasabb nemét jelentő fa-val egy értelmű.
+{ #250603}
 
 
 A portugál `pau` = fa(darab) szót ugyan a latin `palus` = karó, cölöp szóból eredeztetik, de kérdés, hogy nem-e a fa = pa azonosság (és egyúttal egy korábbi nyelv) keresendő.  
@@ -147,7 +148,8 @@ Zobor László Az ősminták ereje című tanulmányában rengeteg érdekesség 
 
 #### Jankovics Marcell A Nap könyve...
 
-...című könyvének 59. oldalán írja:{ #d6f76e}
+...című könyvének 59. oldalán írja:{ #d6f76e}
+
 
 > Hála a történeti folytonosságnak és a fejlett írásbeliségnek, e hagyomány ősi kínai változatát részletekbe menően ismerjük.  
 > Mint a világ sok régi műveltsége, a kínai is egy égben gyökerező, csodálatos fát kapcsol a Naphoz. A "Tíz Égi Tő" és a "Tizenkét Földi Ág" 60 napja ezen a "naptárfán" hajt. Jelképesen szólva, a Nap ennek a fának a tövén kél keleten, ennek a csúcsán delel, és ezen nyugszik nyugaton. A "kelet" kínai írásjele a fa és a Nap együttes stilizált ábrázolása: 東. Az 5 ágens ("elem") közül a fát a kínaiak a kelet égtájhoz társították.  
