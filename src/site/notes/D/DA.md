@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/DA/","title":"DA","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-10-31T16:47","updated":"2026-07-23T11:45"}
+{"dg-publish":true,"permalink":"/D/DA/","title":"DA","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-10-31T16:47","updated":"2026-08-09T18:03"}
 ---
 
 
@@ -44,8 +44,7 @@ Az orosz `da` = igen a Nap DA nevéből ered, mondhatjuk, de a régies angol `ta
 
 
 
-> Megemlíthető itt, hogy a tagadás (negatio) számos nyelvben meglévő `nem`, `ne`, `no`, `nein`, `nicht` szava azonos a [[N/Nő\|nő]], né szavunkkal, viszont hogy a magyar [[I/Igen\|igen]] szó meg azonosul az Ég és régi íg egységet és hímséget (positivumot) jelentő szavunkkal, és hogy a magyar [[A/Ad\|ad]] (positivum) szó is azonos a szláv `da` = igen szóval, míg a több nyelvben meglévő jes, jest = igen szó meg a szintén több nyelv `jest`, `ist`, `est` = van (positivum) szóval azonos.  
-
+> Megemlíthető itt, hogy a tagadás (negatio) számos nyelvben meglévő `nem`, `ne`, `no`, `nein`, `nicht` szava azonos a [[N/Nő\|nő]], né szavunkkal, viszont hogy a magyar [[I/Igen\|igen]] szó meg azonosul az Ég és régi íg egységet és hímséget (positivumot) jelentő szavunkkal, és hogy a magyar [[A/Ad\|ad]] (positivum) szó is azonos a szláv `da` = igen szóval, míg a több nyelvben meglévő jes, jest = igen szó meg a szintén több nyelv `jest`, `ist`, `est` = van (positivum) szóval azonos. 
 
 </div></div>
 
