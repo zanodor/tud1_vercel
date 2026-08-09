@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Ragozó nyelvek/","title":"Ragozó nyelvek","tags":["containstransclusions"],"created":"2023-12-23T10:29","updated":"2026-07-03T23:14"}
+{"dg-publish":true,"permalink":"/R/Ragozó nyelvek/","title":"Ragozó nyelvek","tags":["containstransclusions"],"created":"2023-12-23T10:29","updated":"2026-08-09T18:01"}
 ---
 
 
@@ -45,8 +45,7 @@ Péterfai János írja másutt:
 
 
 > A Ku flexiót alkot a magyar nyelvben, Kő jelentéssel. A flexió sorozata a következő: Ku, Ko, Ka, Kő, Ke, Ki, Kü. Mindegyiknek van Kővel kapcsolatos jelentése. A bemutatott flexiós nyelvi jelenséget Archaikus Flexiónak nevezem, szemben a szemita nyelvekre jellemző Modern Flexióval. Teljesen bizonyos, hogy a szemita nyelvek flexiós jelensége a magyar Archaikus Flexióból alakult ki.  
-> A szemita nyelvekben ugyanis a flexiós ragozás BABAB típusú szavakon megy végbe, amíg a magyar flexió AB vagy BA, nagyon egyszerű szavakon jelentkezik. Általában a magyar flexiós, hajlítós nyelvi jelenséget Szóbokor képződésnek nevezik. A magyar nyelvben a Flexió, vagy a Hajlítás sok tízezer évvel megelőzi a szemita nyelvekben megjelenő Flexálást, vagy Hajlítást, ami valójában az oldalra kitérést, az egyenestől való eltérést írja le, nyelvi alap jellegzetességként.  
-
+> A szemita nyelvekben ugyanis a flexiós ragozás BABAB típusú szavakon megy végbe, amíg a magyar flexió AB vagy BA, nagyon egyszerű szavakon jelentkezik. Általában a magyar flexiós, hajlítós nyelvi jelenséget Szóbokor képződésnek nevezik. A magyar nyelvben a Flexió, vagy a Hajlítás sok tízezer évvel megelőzi a szemita nyelvekben megjelenő Flexálást, vagy Hajlítást, ami valójában az oldalra kitérést, az egyenestől való eltérést írja le, nyelvi alap jellegzetességként. 
 
 </div></div>
 
