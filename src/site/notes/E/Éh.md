@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Éh/","title":"Éh","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-11-06T16:20","updated":"2026-06-22T17:49"}
+{"dg-publish":true,"permalink":"/E/Éh/","title":"Éh","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-11-06T16:20","updated":"2026-08-09T17:59"}
 ---
 
 
@@ -52,8 +52,7 @@ Például [[C/Concobar mac Nessa\|Concobar mac Nessa]] születése kapcsán:
 
 > An omen came to her one day: Two worms appeared in a pail of water from a holy well. Nessa drank them down, thus becoming pregnant (see pregnancy through drinking), but through her magical power she assured that the child was born clutching one of the worms, so that no one would mistake the future hero for Cathbad's son.  
 > —  
-> Egy nap egy ómen érkezett hozzá: Két féreg jelent meg egy vödör vízben, ami egy szent kútból származott. Nessa megitta őket, így teherbe esett (lásd terhesség ivással), de mágikus erejével biztosította, hogy a gyermek az egyik férget szorongatva szülessen, hogy senki ne tévessze össze a leendő hőst Cathbad fiával.  
-
+> Egy nap egy ómen érkezett hozzá: Két féreg jelent meg egy vödör vízben, ami egy szent kútból származott. Nessa megitta őket, így teherbe esett (lásd terhesség ivással), de mágikus erejével biztosította, hogy a gyermek az egyik férget szorongatva szülessen, hogy senki ne tévessze össze a leendő hőst Cathbad fiával. 
 
 </div></div>
 
