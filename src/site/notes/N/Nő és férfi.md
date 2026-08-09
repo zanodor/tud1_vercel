@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nő és férfi/","title":"Nő és férfi","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-14T03:03","updated":"2026-08-09T17:52"}
+{"dg-publish":true,"permalink":"/N/Nő és férfi/","title":"Nő és férfi","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-14T03:03","updated":"2026-08-09T18:47"}
 ---
 
 
