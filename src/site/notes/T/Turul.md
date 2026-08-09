@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-07-18T22:49"}
+{"dg-publish":true,"permalink":"/T/Turul/","created":"2024-12-18T11:38","updated":"2026-08-09T17:45"}
 ---
 
 
@@ -206,7 +206,8 @@ Az kétségtelen, hogy a madár feketével festett, és a [[H/Hét#Hét vár\|h�
 Ami fontos itt, hogy a [[M/Madár\|madár]]ság a magyarságot és azon belül is a [[M/Magyar\|Magyar]] istenanya testén körbemenő Napot jelképezi, azaz a fehér madár a feltámadás jelképe, a fekete a nyári napfordulós váltópontra utal. Hasonló eset tehát, mint amit a szarvas kapcsán megfogalmaztunk, az önmagába visszakísérés kapcsán, de a [[J/Jin és jang\|jin-jang]] jelben is ugyanezt az elvet látjuk.  
 Tehát nem annyira (csak) az őstudás romlását kell a madárábrázolások mögött feltételezni, ahogy Kubínyi Tamás mondja, hanem ismerni kell a csillagmitológiai hátteret, és azt is felismerni, hogy a képzetek jelentőségének illetve valódi értelmük feledés bemerülésével nemcsak a torzulás, hanem két hasonló indíték megléte esetén a konfláció, az összemosás esete is fennállhat.  
 > [!check] &nbsp;
-> Azt nem mondja ki, amit Pap Gábor [itt](https://www.youtube.com/watch?v=gXjH8VA5X9E&t=2548): hogy a Képes Krónika ábrázolásain a turulmadár inkább holló alakban mutatkozik.{ #51m2cm}
+> Azt nem mondja ki, amit Pap Gábor [itt](https://www.youtube.com/watch?v=gXjH8VA5X9E&t=2548): hogy a Képes Krónika ábrázolásain a turulmadár inkább holló alakban mutatkozik.
+{ #51m2cm}
 
 
 #### Dúcz László...
@@ -402,7 +403,8 @@ Még a nemez- és lótakarós témára visszatérve. Ugyan a [[S/Szakrális kett
 Ugyanilyen relációban hozza fel a paziriki nemezrátét-ábrázolást Wohlfart Zoltán A Maros (Nap) és az Olt (Hold) c. az Ősi Gyökér 2018/1-2. sz. megjelent cikkében (nála a griffmadár a Nap, a szarvas Hold, ráadásul hím; a kép miatt teszem ide leginkább).  
 A lényeg tehát a fogalmak összetartozása: (az akkádban a Bakra utaló) Magur pedig tudjuk, [[M/Makar\|Makar]] és [[M/Makara\|Makara]] címnél is szóltunk róla, hogy a Bakban születendő Nap neve vitetett át ilyen-olyan Baknak megfelelő jelentésű nevekbe az akkádban és az indben, ahogy azt is tudjuk, hogy a Bak [[S/Szarvas csillagkép\|Szarvas csillagkép]] volt (még az angol [[B/Buck\|buck]] szó is ennek állít emléket).  
 
-![assets/Turul_image25.jpg|840](/img/user/T/assets/Turul_image25.jpg)  { #260420}
+![assets/Turul_image25.jpg|840](/img/user/T/assets/Turul_image25.jpg)  { #260420}
+
 
 
 A második képen tehát a Pazirikből előkerült nyeregtakarón is a Turul és Csudaszarvas nászát láthatjuk, ahol a két állat mitikus, ahogy Kubínyi Tamás is mondja, de míg a Turult a Napból érkező teremtő erőként való megjelölésével végül is nem lő mellé, a szarvast már nem tudja csillagászati-kozmikus keretek közé helyezni.  
@@ -472,7 +474,7 @@ A bizonyíték ezen kívül számára úgy tűnik, már csak annyi, hogy az Sas 
 
 Szavak útján is kimutatható.
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/T/Turul/#rve4i2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -567,8 +569,7 @@ Tóth Gyula [[S/Szimurgh\|Szimurgh]] címnél álló passzusa:
 > Az egyik jegyzetemet lapozgatva a turul kutatás révén újra visszajutottam Irán és Pakisztán földjeire, és lássanak csodát, a [[T/Turul\|Turul]] eredetileg nem madár, hanem sárkány mégpedig tollas sárkány (amit archeológusok meg is találtak mint övcsatot a szabír-akkád-méd nemeseknél), ami **később turk hatásra lett csak madár**. Eredetileg a neve Simurgh volt, aminek olyan tulajdonságot is tulajdonítottak – hogy képes volt világok közt utaztatni felkapva az embert ha etetik. Az akkád méd kurd arab történetben birkahúsdarabokkal eteti a főhős...na most ha ez eredetileg sárkány, és megölni jönnek... vélemény?  
 > Lehet, hogy tévedek, de ezek a felsorolt tulajdonságok nem a sárkány tulajdonságai, hanem tipikusan a griff tulajdonságai. Hiszen a Fehérlófia mesénkben is a griff az, ami felkapja a főhőst és világok között utaztatja. A griffet Fehérlófia mesénkben is etetni kell: hol jobbról, hol balról kell a szájába dobni vagy kenyeret vagy szalonnát. A griffmadár félig oroszlán, félig sas. E tulajdonságai révén mindig a legfőbb istenségre, magára Krisztusra utal. A griffmadarat valóban lehet úgy ábrázolni, hogy a gyanútlan szemlélő azt hiszi sárkányt lát. De attól az még nem lesz sárkány. A griffet és a sárkányt összekeverni éppen olyan, mint összekeverni a legfőbb jót a legfőbb rosszal, mint összemosni Krisztust a Sátánnal.  
 > Lehet persze, hogy voltak olyan peremkultúrák, ahol ez a két jelképes alak a sárkány és a griff összekeveredett. De véleményem szerint ez a keveredés az eredeti tiszta jelképrendszer torzulását jelentette. Azt jelentette, hogy az a peremre szorult kultúra már kezdte elveszíteni a kapcsolatát az eredeti szerves műveltségével. Esetleg az a peremre szorult kultúra alsó-világi befolyás alá került, megfertőzte az alsó világ szellemisége, s a saját korábbi legfőbb szimbóluma olyan elemeket olvasztott magába, amely az alsó világ legfőbb szimbólumát, a sárkányt idézte. Én így látom.  
-> Úgy gondolom nekünk abból a tiszta és erőteljes szimbolikából kell kiindulnunk, ami Fehérlófia mesénkben megőrződött. Ahol a sárkány még sárkány, a griff pedig griff, s a kettő között semmiféle átfedés nincs.  
-
+> Úgy gondolom nekünk abból a tiszta és erőteljes szimbolikából kell kiindulnunk, ami Fehérlófia mesénkben megőrződött. Ahol a sárkány még sárkány, a griff pedig griff, s a kettő között semmiféle átfedés nincs. 
 
 </div></div>
   
