@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Germán/","title":"Germán","tags":["Englishtexttranslated"],"created":"2024-10-31T22:47","updated":"2026-04-24T09:35"}
+{"dg-publish":true,"permalink":"/G/Germán/","title":"Germán","tags":["Englishtexttranslated"],"created":"2024-10-31T22:47","updated":"2026-08-09T17:52"}
 ---
 
 
@@ -54,7 +54,8 @@ Viszont ez meg – mily érdekes – éppen [[I/Irmag\|irmag]] szóval azonos.
 #### Magyar Adorján Kérdések...  
 
 ...című könyvében is hoz adatot:  
-> Vajon igaz-e, hogy ugor, ugar, azaz magor vagy magyar őseink a földművelést éppen a hegyek között kecskenyájakat legeltető szláv, és az őserdőkben vadászó életmódot folytató germán népektől tanulták? Nem én, hanem a germán tudósok állítják, hogy **a germán név kelta eredetű, és erdei, erdőlakó értelem**mel bír. (Mayers lex. 1897 Germ.) Nem sajátságos-e tehát, hogy viszont törökül `orman` = erdő?  { #nx87tb}
+> Vajon igaz-e, hogy ugor, ugar, azaz magor vagy magyar őseink a földművelést éppen a hegyek között kecskenyájakat legeltető szláv, és az őserdőkben vadászó életmódot folytató germán népektől tanulták? Nem én, hanem a germán tudósok állítják, hogy **a germán név kelta eredetű, és erdei, erdőlakó értelem**mel bír. (Mayers lex. 1897 Germ.) Nem sajátságos-e tehát, hogy viszont törökül `orman` = erdő?
+{ #nx87tb}
 
 - Nos, mivel az [[E/Erdő\|erdő]] valójában a Tejút kivételes része, valóban onnan ered az ember. De a [[M/MISZ\|MISZ]] címnél említett vogul-osztják `mis` = erdei ember, erdőlakó, tündér is a Tejút MISZ nevével azonos. Érdekes, a németek összes neve Tejútról származásról tanúskodik. Ger-Man tehát a Menny Gyermeke/Ura, viszont az előhangmentes török orman is Menny Ura értelmű lehet. Ugyanakkor másutt láttuk, hogy az erdő, erőd, hegy értelmek keverednek és a [[H/Harság\|harság]] címnél is említett török szó is lehet Hegy-Mennybe értelmű.
 
