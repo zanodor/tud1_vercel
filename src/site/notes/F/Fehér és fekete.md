@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya","containscallouts"],"created":"2023-11-17T03:47","updated":"2026-07-18T22:49"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya","containscallouts"],"created":"2023-11-17T03:47","updated":"2026-08-09T17:46"}
 ---
 
 
@@ -103,8 +103,7 @@ Bakk István Miért apostoli királyság Magyarország? című az Ősi Gyökér 
 
 
 > "Frangrasyán (Afrasiáb) volt az őse és hőse a >getá<-knak (massagetáknak), éppúgy, mint az Al-Duna-menti getáknak (dákoknak). Ezeknek a turániaknak semmi köze sem volt a mongolokhoz. A hiungnuk szőke nép voltak, mint mai napig is azok összes utódaik. Különböző források szerint legtöbb rokonuk és szomszédjuk is szőke volt. **A Shi-ki kínai krónika is említést tesz a Yarkand és Baktria-beli emberek szakálldús arcáról és kék szeméről.** A görögök mondják ugyanezt a fehérhunokról, megkülönböztetve őket az **Ammianus említette hunoktól, akik feketék, bajusz és szakáll nélküli faj voltak.**  
-> Korabeli ábrázolásokból tudjuk, hogy a szkíták mindig mint szép, hosszúkás fejű, sűrű szakállú nép ábrázoltattak. A szkíták azonosak az ékírásokban említett ashguzai vagy ishguzaival. Az eredeti név skuza, skhuza kellett hogy legyen és a görögök (Sküthai) theta-val írták, mig az asszírok z-vet ejtették. Szkítia semmi egyéb, mint Cythae (mint például Cushan, Kushan helyett). Szkíta semmi egyéb, mint Getae, kapcsolatba hozva nevüket a Saka, azaz Caka-val. **A hiungnuk ettől a szőke néptől származóknak vallják magukat**, úgy, hogy teljes joggal mondhatjuk, hogy a hiungnuk szőke faj voltak, mint ahogy a mai napig is azok összes utódaik."  
-
+> Korabeli ábrázolásokból tudjuk, hogy a szkíták mindig mint szép, hosszúkás fejű, sűrű szakállú nép ábrázoltattak. A szkíták azonosak az ékírásokban említett ashguzai vagy ishguzaival. Az eredeti név skuza, skhuza kellett hogy legyen és a görögök (Sküthai) theta-val írták, mig az asszírok z-vet ejtették. Szkítia semmi egyéb, mint Cythae (mint például Cushan, Kushan helyett). Szkíta semmi egyéb, mint Getae, kapcsolatba hozva nevüket a Saka, azaz Caka-val. **A hiungnuk ettől a szőke néptől származóknak vallják magukat**, úgy, hogy teljes joggal mondhatjuk, hogy a hiungnuk szőke faj voltak, mint ahogy a mai napig is azok összes utódaik." 
 
 </div></div>
 
@@ -171,8 +170,7 @@ Tündérek kapcsán volt már szó a témáról (lásd [[F/Firtos\|Firtos]] vs. 
 
 > Indo-European dogs of the dead generally moved around in pairs, however: when they were not twin brothers, they could be represented as two dogs in one, as in the well-known case of Cerberus. Most often, **one of these dogs was black and the other white**, symbols of a path that led not only from a past life to a present death, but also from death to a future life. Among such canine twins may be counted the Indian Syâma and Sabala, the Germanic Gifr and Geri (or Frekr), the Armenian Spitak and Siaw, the two "devil dogs" of Celtic mythology, and an Iranian pair that is perhaps identified with Sraosa and Rasnu. The grey-red canine psychopomp of Welsh mythology may also be an instance of such pairing.  
 > —  
-> Az indoeurópai holtak kutyái azonban általában párban mozogtak: ha nem voltak ikertestvérek, akkor két kutyaként is ábrázolhatták őket, mint a jól ismert [[C/Cerberus\|Kerberosz]] esetében. Leggyakrabban **az egyik kutya fekete, a másik fehér volt**, egy olyan út szimbólumaként, amely nemcsak a múltbeli életből a jelenbeli halálba, hanem a halálból a jövőbeli életbe is vezetett. Az ilyen kutyakettősök közé sorolható az indiai Syâma és Sabala, a germán Gifr és Geri (vagy Frekr), az örmény Spitak és Siaw, a kelta mitológia két "ördögi kutyája", valamint egy iráni pár, amelyet talán Sraosával és Rasnuval azonosítanak. A walesi mitológia szürkésvörös kutya-[[P/Psychopomp\|pszükhopomposz]]a szintén ilyen párosítás lehet.  
-
+> Az indoeurópai holtak kutyái azonban általában párban mozogtak: ha nem voltak ikertestvérek, akkor két kutyaként is ábrázolhatták őket, mint a jól ismert [[C/Cerberus\|Kerberosz]] esetében. Leggyakrabban **az egyik kutya fekete, a másik fehér volt**, egy olyan út szimbólumaként, amely nemcsak a múltbeli életből a jelenbeli halálba, hanem a halálból a jövőbeli életbe is vezetett. Az ilyen kutyakettősök közé sorolható az indiai Syâma és Sabala, a germán Gifr és Geri (vagy Frekr), az örmény Spitak és Siaw, a kelta mitológia két "ördögi kutyája", valamint egy iráni pár, amelyet talán Sraosával és Rasnuval azonosítanak. A walesi mitológia szürkésvörös kutya-[[P/Psychopomp\|pszükhopomposz]]a szintén ilyen párosítás lehet. 
 
 </div></div>
 
