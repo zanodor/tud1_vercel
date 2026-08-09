@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2026-07-18T22:49"}
+{"dg-publish":true,"permalink":"/S/Széth/","created":"2023-10-16T01:30","updated":"2026-08-09T17:46"}
 ---
 
 
@@ -253,13 +253,15 @@ Legutóbb [[T/Typhon\|Typhon]] címnél is szerepelt...
 ...című könyvének Ursa Maior-nál szereplő adata (hasonlókról szó esett [[C/Cynosure\|Cynosure]] címnél is és betehető [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címhez is):  
 > Hewitt writes of Set in his earliest form as [[H/Hapi\|Kapi]], the Ape-God, stars of our [[C/Cepheus csillagkép\|Cepheus]] marking his head; while at one time on the Nile the [[W/Wain\|Wain]] stars seem to have been **the Dog of Set or of Typhon**. This may have given rise to the title Canis Venatica that La Lande cited, if this be not more correctly considered as the classic Kallisto's hound; and the same idea appears in the **Catuli**, Lap-dogs, and Canes Laconicae, the Spartan Dogs, that Caesius cited for both of the Wains.  
 > —  
-> Hewitt azt írja, hogy Set a legkorábbi formájában [[H/Hapi\|Kapi]] (helyesen [[H/Hapi\|Hapi]]), a Majomisten, a mi [[C/Cepheus csillagkép\|Cepheus]]-unk csillagai jelölik a fejét; míg egykor a Níluson a [[W/Wain\|Wain]] \[Göncöl\] csillagok úgy tűnik, hogy **Set vagy Typhon Kutyája** voltak. Ebből adódhatott a La Lande által idézett Canis Venatica elnevezés, ha ezt nem tekintjük helyesebben a klasszikus Kallisto kutyájának; és ugyanez a gondolat jelenik meg a Catuli, ölbeli kutyák és a Canes Laconicae, a spártai kutyák elnevezésében, amelyet Caesius mindkét Wain (Szekér csillagzat) esetében idézett.  { #qz3nuv}
+> Hewitt azt írja, hogy Set a legkorábbi formájában [[H/Hapi\|Kapi]] (helyesen [[H/Hapi\|Hapi]]), a Majomisten, a mi [[C/Cepheus csillagkép\|Cepheus]]-unk csillagai jelölik a fejét; míg egykor a Níluson a [[W/Wain\|Wain]] \[Göncöl\] csillagok úgy tűnik, hogy **Set vagy Typhon Kutyája** voltak. Ebből adódhatott a La Lande által idézett Canis Venatica elnevezés, ha ezt nem tekintjük helyesebben a klasszikus Kallisto kutyájának; és ugyanez a gondolat jelenik meg a Catuli, ölbeli kutyák és a Canes Laconicae, a spártai kutyák elnevezésében, amelyet Caesius mindkét Wain (Szekér csillagzat) esetében idézett.
+{ #qz3nuv}
 
 
 Majd lábjegyzetben:  
 > Set, also Anubis, Apap, Apepi, Bes, Tebha, Temha, and Typhoeus according to Plutarch, was one of Egypt's greatest gods, who subsequently became the Greek giant Typhon, father of the fierce winds, but slain by Zeus with a thunderbolt and buried under Mount Aetna.  
 > —  
-> Set, Plutarkhosz szerint Anubisz, Apap, Apepi, Bes, Tebha, Temha és Typhoeus is, Egyiptom egyik legnagyobb istene volt, aki később a görög óriás Typhon, a heves szelek atyja lett, de Zeusz villámcsapással megölte és eltemette az Etna hegy alatt.  { #itc5r4}
+> Set, Plutarkhosz szerint Anubisz, Apap, Apepi, Bes, Tebha, Temha és Typhoeus is, Egyiptom egyik legnagyobb istene volt, aki később a görög óriás Typhon, a heves szelek atyja lett, de Zeusz villámcsapással megölte és eltemette az Etna hegy alatt.
+{ #itc5r4}
 
 
 Tüphon is tehát arra a sorsra jutott, mint minden régen tisztelt nagy Isten. A fény-árnyék változások során a korábbi istenek befeketülnek a papság és a nép szemében: démonizálva lesznek. Lásd mi történt Bál-lal és a [[D/Dévák és Aszúrák\|dévák és aszúrák]] is megérnek egy misét. Minderről szóltunk [[M/Magyarellenesség\|magyarellenesség]] címnél is: hogy feledte el a világ Szíriusz és a hun-magyarság jótéteményeit.  
