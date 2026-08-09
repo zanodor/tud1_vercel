@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mozog/","title":"Mozog","created":"2024-10-29T17:14","updated":"2026-05-21T05:08"}
+{"dg-publish":true,"permalink":"/M/Mozog/","title":"Mozog","created":"2024-10-29T17:14","updated":"2026-08-09T14:06"}
 ---
 
 
@@ -22,3 +22,7 @@ Götz László Keleten kél a Nap című könyvének 485. oldalán [[B/Budenz J�
 A TeSz szerint: bizonytalan eredetű; feltehető moz- alapszava talán ősi hangutánzó-hangfestő szó az uráli korból; vö. szam. `mantsoera` "inog, mozog, dolgozik", `mozorado'` "mozdul". Az alapszó másféle finnugor egyeztetése téves.  
 
 Lásd még [[M/Move\|move]].  
+
+## Ami mozog él
+
+[[I/I#I mint mozgást kifejező, életkörre utaló szócska\|I mint mozgást kifejező, életkörre utaló szócska]], [[Q/Quick\|quick]] és [[A/Animal\|animal]] címnél volt szó már a témáról. Felvetődik, hogy a Kalmár Simon által tévesen `mocsok` és `mocsár` szavakkal rokonított (ha egyáltalán tényleg azzal rokonított) görög `μόσχος` (`moszkhosz`) = borjú, fiatal állat jelentésű szó akár `mozog` szavunkkal is rokonítható, igaz, az indoeurópai eredetre visszavitt török `mazak` [ezen](https://en.wiktionary.org/wiki/mazak#Turkish) Wiktionary helyen talált adata szerint Kahramanmaraşban ezen szó éppen mocskost is jelent.  
