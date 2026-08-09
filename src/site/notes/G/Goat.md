@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Goat/","title":"Goat","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-12-18T11:22","updated":"2026-06-19T22:15"}
+{"dg-publish":true,"permalink":"/G/Goat/","title":"Goat","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-12-18T11:22","updated":"2026-08-09T18:00"}
 ---
 
 
@@ -45,8 +45,7 @@ Az [alábbi](https://qr.ae/TSwo2X) "How did Christianity bring about the fall of
 
 > Scythians never fell anywhere. Actually, Christianity has Scythian origins. Time to do some reading from the right sources. Rhetor Priscus called Atilla the Hun and his people Scythians (a non-Iranian people). Atilla and his people followed the faith of Arius: Arianism. Arianism is not be mixed up with Aryans, although the origin of the names could be the same: golden (Magyar `aran` = gold) Goat/Goth/Kuth/Kus; the Cush people were again Scythian Huns (in the Hindu-Kush as well). So much for the famous Indo-European theory of linguists and that the Scythians (archer people, the people of Sagittarius is what they say, but again, it's not like that, exactly) were Iranians. Time to end all madness.  
 > —  
-> A szkíták nem buktak/tűntek el. Valójában a kereszténységnek szkíta eredete van. Itt az ideje, hogy a megfelelő forrásokból olvassunk. Priszkosz rétor Attila hun királyt és népét szkítának (nem iráni nép) nevezte. Attila és népe Arius hitét követte: az arianizmust. Az arianizmust nem szabad összekeverni az árjákkal, bár a nevek eredete ugyanaz lehet: arany (magyar `aran` = arany) Kecske/Gót/Kuth/Kus; a kusita nép ismét szkíta hunok voltak (a Hindu-Kusban is). Ennyit a nyelvészek híres indoeurópai elméletéről, és hogy a szkíták (íjász nép, a Nyilas népe, ahogy mondják, de ez sem pontosan így van) irániak voltak. Itt az ideje véget vetni minden őrületnek.
-
+> A szkíták nem buktak/tűntek el. Valójában a kereszténységnek szkíta eredete van. Itt az ideje, hogy a megfelelő forrásokból olvassunk. Priszkosz rétor Attila hun királyt és népét szkítának (nem iráni nép) nevezte. Attila és népe Arius hitét követte: az arianizmust. Az arianizmust nem szabad összekeverni az árjákkal, bár a nevek eredete ugyanaz lehet: arany (magyar `aran` = arany) Kecske/Gót/Kuth/Kus; a kusita nép ismét szkíta hunok voltak (a Hindu-Kusban is). Ennyit a nyelvészek híres indoeurópai elméletéről, és hogy a szkíták (íjász nép, a Nyilas népe, ahogy mondják, de ez sem pontosan így van) irániak voltak. Itt az ideje véget vetni minden őrületnek. 
 
 </div></div>
   
