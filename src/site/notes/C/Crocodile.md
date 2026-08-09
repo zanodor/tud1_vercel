@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Crocodile/","title":"Crocodile","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-19T11:24","updated":"2026-06-22T17:51"}
+{"dg-publish":true,"permalink":"/C/Crocodile/","title":"Crocodile","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-19T11:24","updated":"2026-08-09T18:02"}
 ---
 
 
@@ -33,8 +33,7 @@ Edward P. Butler [ezen](https://henadology.wordpress.com/theology/netjeru/) olda
 > Indiában és Egyiptomban ezek a Dhyanisok a Krokodilhoz kapcsolódtak, és lakóhelyük a Bakban van. Ezek **csereszabatos kifejezések** az indiai asztrológiában, mivel az állatöv ezen (tizedik) jegyét Makarának hívják, ami szabad fordításban "Krokodil". Magát a szót okkult módon többféleképpen is értelmezik ...\[2, V.1, S.219\]  
 > Ennek az egyiptomi vallási jelképnek a valódi, bár rejtett jelentésére az egyik magyarázat egyszerű. A krokodil az első, aki várja a hajnali nap emésztő tüzét, és találkozik vele, és nagyon hamar a napmeleg megszemélyesítőjévé vált. Amikor a nap felkelt, az olyan volt, mint "az isteni lélek megérkezése a földre és az emberek közé, amely tájékoztatja az isteneket". Innen a különös szimbolika. A múmia egy krokodil fejét öltötte magára, hogy jelezze, hogy a földről érkező lélekről van szó.  
 > A krokodil az egyiptomi sárkány. Ez volt az ÉG és a FÖLD KETTŐS SZIMBÓLUMA; ... az egyiptomiak a Napot egy hajóban, mint annak kormányosát ábrázolták, ezt a hajót egy krokodil vitte magával, "hogy a NAP MOZGÁSÁT mutassa a moystban (a TÉRBEN)". Ezenkívül ez volt Egyiptom jelképe is \[2, V.1, S.409\].  
-> S1.7. megjegyzés. Figyelemre méltó, hogy a maják a Tejútrendszerben lévő sötét hasadékot, amelyhez a 2012-es téli napforduló Napja igazodik, a "Krokodil szájának" vagy a "Jaguár varangynak" nevezték. Ez tehát nem lehet véletlen! A védikus és a maja kozmológia is ugyanarra az eseményre utalhat, ugyanazt a krokodil szimbólumot használva az [[G/Galactic centre\|Tejútközpont]] meghatározására. Jenkins szerint a maják ezt a pontot úgy határozták meg, mint azt a pillanatot, amikor a Nap belép a Krokodil szájába (sötét hasadék a Tejútrendszerben), míg a védikus asztrológiában ez a pillanat a MAKARA (Bak) jegy és a téli napforduló összehangolásához kapcsolódik.  
-
+> S1.7. megjegyzés. Figyelemre méltó, hogy a maják a Tejútrendszerben lévő sötét hasadékot, amelyhez a 2012-es téli napforduló Napja igazodik, a "Krokodil szájának" vagy a "Jaguár varangynak" nevezték. Ez tehát nem lehet véletlen! A védikus és a maja kozmológia is ugyanarra az eseményre utalhat, ugyanazt a krokodil szimbólumot használva az [[G/Galactic centre\|Tejútközpont]] meghatározására. Jenkins szerint a maják ezt a pontot úgy határozták meg, mint azt a pillanatot, amikor a Nap belép a Krokodil szájába (sötét hasadék a Tejútrendszerben), míg a védikus asztrológiában ez a pillanat a MAKARA (Bak) jegy és a téli napforduló összehangolásához kapcsolódik. 
 
 </div></div>
 
