@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Böszörmény/","title":"Böszörmény","tags":["containstransclusions"],"created":"2023-10-11T06:16","updated":"2026-06-22T17:54"}
+{"dg-publish":true,"permalink":"/B/Böszörmény/","title":"Böszörmény","tags":["containstransclusions"],"created":"2023-10-11T06:16","updated":"2026-08-09T18:05"}
 ---
 
 
@@ -18,8 +18,7 @@ Másutt írja:
 
 
 
-> A keresztyén papok [[B/Böszörmény\|böszörmén]]t a pokol szóval szorították ki a használatból, mely a szláv `peklo`, vagy talán inkább a `iatui poculum` (méregpohár és ennek kínjai Luk. ev. 22-42.) átvétele. ([Lásd 52. old.](zotero://open-pdf/library/items/QVETUTRJ?page=52&annotation=URFKJC68))  
-
+> A keresztyén papok [[B/Böszörmény\|böszörmén]]t a pokol szóval szorították ki a használatból, mely a szláv `peklo`, vagy talán inkább a `iatui poculum` (méregpohár és ennek kínjai Luk. ev. 22-42.) átvétele. ([Lásd 52. old.](zotero://open-pdf/library/items/QVETUTRJ?page=52&annotation=URFKJC68)) 
 
 </div></div>
 
