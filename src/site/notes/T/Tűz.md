@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","tags":["containscallouts"],"created":"2024-12-18T11:46","updated":"2026-07-23T11:43"}
+{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","tags":["containscallouts"],"created":"2024-12-18T11:46","updated":"2026-08-09T14:03"}
 ---
 
 
@@ -292,6 +292,8 @@ Természetesen a `tisza` megint a `tűz` változata, azaz hogy most a tisza vagy
 Az elmélet szerint a `tűz` szó a diftongizáció konszonantizációs (mássalhangzósodásba torkolló) és velarizációs folyamatán keresztül (\*teuz → \*tevz → \*tahz → taks/takhsha) jutunk el a "szkíta" eredetű szavakig. (Az indoeurópai és iráni nyelvek kutatásában ezt a hatást a laringális elmélet írja le: a magánhangzók mellett megjelenő, majd megkeményedő torokhangokat.)
 { #260530}
 
+
+Érdekes az [ezen](https://en.wiktionary.org/wiki/%E0%A4%A4%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%B6%E0%A4%BF%E0%A4%B2%E0%A4%BE#Sanskrit) Wiktionary oldalon hozott szanszkrit `तक्षशिला` (`takṣaśilā`) = kőács, kővágó kifejezés, mert az építés teremtés, és a teremtés jele az [[I/Íj és a nyíl\|íj és a nyíl]], mely címnél a Magyar Adorján által megadott szolim-szarmata szó nyílra \*szil.  
 
 <!--section: 18-->
 #### Tages
