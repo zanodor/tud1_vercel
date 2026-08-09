@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kine/","title":"Kine","tags":["Englishtexttranslated"],"created":"2024-02-03T05:35","updated":"2025-09-03T16:00"}
+{"dg-publish":true,"permalink":"/K/Kine/","title":"Kine","tags":["Englishtexttranslated"],"created":"2024-02-03T05:35","updated":"2026-08-09T18:05"}
 ---
 
 
@@ -16,6 +16,7 @@ Erről volt szó [[C/Cow\|cow]] és [[D/Dugh\|dugh]] ([[D/DUG\|DUG]]) kapcsán i
 ...című könyvében írja:  
 > In Upper India even now women teach their children that the stars are kine, and the moon their keeper.  
 > —  
-> Felső-Indiában az asszonyok még most is arra tanítják a gyermekeiket, hogy a csillagok tehenek, a Hold pedig az őrzőjük.  { #vuhmaq}
+> Felső-Indiában az asszonyok még most is arra tanítják a gyermekeiket, hogy a csillagok tehenek, a Hold pedig az őrzőjük.
+{ #vuhmaq}
 
 - Eredetibb: a csillagok tejcseppek és a Tejút (sávja) a [[G/Gulya\|gulya]]; lásd még témát [[T/Tehén\|tehén]].
