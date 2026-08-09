@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2026-07-23T12:20"}
+{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2026-08-09T17:54"}
 ---
 
 
@@ -27,7 +27,8 @@ Több információ szerepelt összevissza mindenhol (például lásd [[C/Cardina
 Hogy ezen kettősük a hindu mitológiában is megtalálható, arról Tilak szól Orionjában. Viszont a kutya mint olyan hiányzik mind az egyiptomi, mind a hindu csillagképekből. Tilak is Orion heliakális keléséről szól. Az alábbi adatsor a 179. oldalról való, mely arról szól, hogy a hindu év első (Devayana – lásd erről [[B/Bal és jobb\|bal és jobb]]) féléve az Orion heliakálisan kelésétől az Orion akronikális keléséig tartott:  
 > The identification of [[V/Vrishâkapi\|Vrishâkapi]] with Orion at once furnishes us with a solution of this question. We have already seen that the dog is said to commence the new year in Rig. i. 161. 13; and since Canis and Orion are close to each other, Orion may also be said to have commenced the year. The Devayâna, therefore, extended in those days from the heliacal to the acronycal rising of Orion; that is, when Orion rose with the sun, it was the vernal equinox, the beginning of the Devayâna, and six months after, when it rose at the beginning of night, it was the autumnal equinox, the end of the Devayâna.  
 > —  
-> [[V/Vrishâkapi\|Vrishâkapi]] és az Orion azonosítása azonnal megoldást ad erre a kérdésre. Már láttuk, hogy a Rig. i. 161-ben a kutya az új év kezdetét jelenti. 13; és mivel a Canis és az Orion közel vannak egymáshoz, az Orionról is elmondható, hogy ő indította el az évet. A Devayâna \[Isten útja\] tehát azokban az időkben az Orion heliákális felkelésétől az akrónia felkeléséig tartott; vagyis amikor az Orion a Nappal együtt kelt fel, az volt a tavaszi napéjegyenlőség, a Devayâna kezdete, és hat hónappal később, amikor az éjszaka kezdetén kelt fel, az volt az őszi napéjegyenlőség, a Devayâna vége.  { #g4igq7}
+> [[V/Vrishâkapi\|Vrishâkapi]] és az Orion azonosítása azonnal megoldást ad erre a kérdésre. Már láttuk, hogy a Rig. i. 161-ben a kutya az új év kezdetét jelenti. 13; és mivel a Canis és az Orion közel vannak egymáshoz, az Orionról is elmondható, hogy ő indította el az évet. A Devayâna \[Isten útja\] tehát azokban az időkben az Orion heliákális felkelésétől az akrónia felkeléséig tartott; vagyis amikor az Orion a Nappal együtt kelt fel, az volt a tavaszi napéjegyenlőség, a Devayâna kezdete, és hat hónappal később, amikor az éjszaka kezdetén kelt fel, az volt az őszi napéjegyenlőség, a Devayâna vége.
+{ #g4igq7}
 
 
 Az egyiptomiak kereken 365 napos évvel számoltak, ebből az utolsó 5 nap külön figyelemben részesült, mivel Nut és Geb másik két gyermeke, valamint Hórusz, Ozirisz és Ízisz fia is ekkor született. A Szíriusz csillag évenkénti eltűnését (terhességét Hórusszal, azaz együttállását a Nappal) követő újbóli megjelenése (heliakus felkelése) elvben az új év kezdetét és a Nílus áradását jelentette. (Csak azért elvben, mert az egyiptomi év egy negyed nappal rövidebb lévén a valóságosnál, az újév napja 4 évenként 1 teljes nappal eltolódott a Szíriusz felkeléséhez és az áradás kezdetéhez képest.  
@@ -56,8 +57,7 @@ A Walter Cruttenden által is hivatkozott Jed Buchwald, a Caltech Egyetem profes
 > Miért feltételezzük, hogy a négyszögletes állatövben a sorrend a nyári napfordulóval kezdődik?  
 > A napfordulót végül is rendkívül nehéz megfigyeléssel pontosan meghatározni, és a görög szövegekből mindenesetre ismert, hogy az egyiptomiak különösen sokat foglalkoztak az ég legfényesebb csillagának, a Szíriusznak a heliákus kelésével – vagyis azzal az éjszakával, amikor a Szíriusz először megjelenik, közvetlenül hajnal előtt.  
 > Vajon a [[P/Precesszió\|precesszió]] nem mozdította volna el a Szíriuszt az állatövi csillagokkal együtt, és ezzel végül elválasztotta volna a napfordulótól, és így az éves vízözöntől?  
-> Ma már tudjuk, hogy az áradás az esős évszak júniusi kezdete után következik be Etiópiában, ahol a Kék-Nílus ered. **A Szíriusz napkelte mégis az év központi jelzője maradt az egyiptomi történelem során**.  
-
+> Ma már tudjuk, hogy az áradás az esős évszak júniusi kezdete után következik be Etiópiában, ahol a Kék-Nílus ered. **A Szíriusz napkelte mégis az év központi jelzője maradt az egyiptomi történelem során**. 
 
 </div></div>
   
