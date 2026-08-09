@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Koponya/","title":"Koponya","created":"2023-11-05T03:00","updated":"2025-07-12T00:31"}
+{"dg-publish":true,"permalink":"/K/Koponya/","title":"Koponya","created":"2023-11-05T03:00","updated":"2026-08-09T14:05"}
 ---
 
 
@@ -57,5 +57,5 @@ Az ismeretlen eredetű, talán pre-indoerópai görög `κῆπος` (képosz) =
 > Lehetséges, bár szemantikailag távoli rokonként néha megemlítik a latin `campus` (mező, síkság) szót vagy szláv szavakat, mint a `kopá` (halom), de ezek kapcsolata a görög szóval vitatott. A szó jelentése az ógörög kortól kezdve lényegében változatlan maradt, mindig is a termesztett növényekkel beültetett, gyakran bekerített területet jelölte.  
 
 Könnyen lehet, hogy itt semmi másról nincs szó, mint – egyébként Péterfai János szerint a latin `caput` = fej eredetét képző – [[K/Kapa\|kapa]] szavunkról, minthogy kapálni kell a kertben. De tételezzük fel, hogy valamilyen szakrális geometrikus, mítoszi háttere van a szónak: a hegy az édeni hegy, mely tetején kert van (aranyalmafával vagy négy folyóval vagy akármivel).  
-A tető pedig a fej ([[K/Kobak\|kobak]], [[K/Koponya\|koponya]]), és hasonló szavak a szemita nyelvekben is megvannak: `kipa` = zsidó fejfedő, továbbá lásd még a [[C/Cover\|cover]] címnél taglalt arab szavakat.  
-Az imént említett, Gulyás Péter Pál könyveiben is említett Golgota képzet (koponyahegy) nyomán eredet a szó. Maradjon akkor itt.  
+A tető pedig a fej ([[K/Kobak\|kobak]], [[K/Koponya\|koponya]]), és hasonló szavak a szemita nyelvekben is megvannak: `kipa` = zsidó fejfedő, továbbá lásd még a [[C/Cover\|cover]] címnél taglalt IE és arab szavakat.  
+Az imént említett, Gulyás Péter Pál könyveiben is említett Golgota képzet (koponyahegy) nyomán eredhet a szó.   
