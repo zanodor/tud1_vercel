@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ég/","title":"Ég","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-10-18T17:53","updated":"2026-05-29T22:41"}
+{"dg-publish":true,"permalink":"/E/Ég/"}
 ---
 
 
@@ -253,8 +253,7 @@ Az Ég Tehene kapcsán lásd Jankovics Marcell írását ([[H/Hathor\|Hathor]] i
 
 > In Upper India even now women teach their children that the stars are kine, and the moon their keeper.  
 > —  
-> Felső-Indiában az asszonyok még most is arra tanítják a gyermekeiket, hogy a csillagok tehenek, a Hold pedig az őrzőjük.  
-
+> Felső-Indiában az asszonyok még most is arra tanítják a gyermekeiket, hogy a csillagok tehenek, a Hold pedig az őrzőjük. 
 
 </div></div>
 
