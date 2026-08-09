@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-22T03:43","updated":"2026-06-13T23:21"}
+{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-22T03:43","updated":"2026-08-09T17:53"}
 ---
 
 
@@ -66,8 +66,7 @@ Szintén Jankovics Marcell Jelkép-kalendárium című könyvében írja (az, ho
 
 
 > Thészeusz, az athéni "Héraklész" egyik pokoljárása hasonló értelmű. Arról az ismert történetről van szó, mely elmeséli, hogyan győzte le a hérosz a Kréta szigetén, Knósszoszban épült labirintus bikaszörnyét, Minótauroszt, s hogyan tért vissza onnét Ariadné fonálgombolyagának segedelmével. A labirintus "béltekervényei" Héraklész, lászón, Jónás, János vitéz szörnyeinek belsejére emlékeztetnek, végső soron a földanya méhére, aki most negatív aspektusában jelenik meg. (Vö. a csillaggyermekeit fölfaló [[N/Nut\|Nut]]tal. Ezek a szörnyek rendszerint nőneműek.) A labirintus alaprajzának modellje az emberi, állati bélrendszer, de a csillagokat tanulmányozó hajdani ember gondolatrendszerében a labirintus a déli égboltnak az a része, ahol a Nap télen tartózkodik. A kérdéses időszakban ez a terület az Egyenlítő alatti [[C/Cet csillagkép\|Cet csillagkép]]nek felel meg.  
-> Az ógörög `labion` = "fogó hely", `lábisz` = "fogó, horog", `labrasz` = "farkashal", `labreüomai` = "szájjal, mohón vedel, fölfal," ebből "öblös edény", `labrónion` = "nagy" szavak jelentései a labirintus – tengeri szörny analógiájára mutatnak. A latin `labium` = "szeméremajak", `labrum` = "ajak", "széle (a földnek, ároknak)", "üst", "kád" szavak pedig az asszonyi test nyílásait, a föld száját, s annak jelképes edényformáját vonják közös nevezőre. (Emlékezzünk a [[B/Barlang\|barlang]]-[[K/Kehely\|kehely]]-jelképeknek Krisztus sorsában betöltött szerepére!)  
-
+> Az ógörög `labion` = "fogó hely", `lábisz` = "fogó, horog", `labrasz` = "farkashal", `labreüomai` = "szájjal, mohón vedel, fölfal," ebből "öblös edény", `labrónion` = "nagy" szavak jelentései a labirintus – tengeri szörny analógiájára mutatnak. A latin `labium` = "szeméremajak", `labrum` = "ajak", "széle (a földnek, ároknak)", "üst", "kád" szavak pedig az asszonyi test nyílásait, a föld száját, s annak jelképes edényformáját vonják közös nevezőre. (Emlékezzünk a [[B/Barlang\|barlang]]-[[K/Kehely\|kehely]]-jelképeknek Krisztus sorsában betöltött szerepére!) 
 
 </div></div>
   
