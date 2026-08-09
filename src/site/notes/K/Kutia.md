@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutia/","title":"Kutia","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-11T11:23","updated":"2026-08-09T18:48"}
+{"dg-publish":true,"permalink":"/K/Kutia/","title":"Kutia","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-11T11:23","updated":"2026-08-09T20:39"}
 ---
 
 
@@ -36,7 +36,7 @@ Ugyanis ezekben az országokban az étel neve a [[K/Kalb\|kalb]] címnél taglal
 Számomra nyilvánvaló, hogy itt is egy utólag kialkotott, hozzákapcsolt jelentésről van szó.  
 (Egy karácsonyi műsorban már láttam, hogy egy görög süteménybe érméket is tettek, de ez nem ugyanaz. Az [ezen](https://en.wikipedia.org/wiki/Vasilopita) lehet inkább.)  
 Az orosz nyelvben más neve van ugyanennek: `sočivo`. Kutia-ra vonatkoztatják, de eredetileg a nálunk újévkör fogyasztott [[L/Lencse\|lencsé]]t jelenti.  
-[Ezen](https://en.avtodid.pp.ua/17395/1/kutia.html) már nem elérhető oldalon még szír-keresztény(!) párhuzam is előjött:  
+[Ezen](https://en.avtodid.pp.ua/17395/1/kutia.html) már archívumból sem elérhető oldalon még szír-keresztény(!) párhuzam is előjött:  
 > Syria – burbara or sliha for EID Il-Bur-bars, SV. Barbara feast in the middle East  
 - Nem is akármilyen, burbara névvel, melyhez hasonlóval (sőt, azonossal) [[B/Barbár\|barbár]] címnél volt már szó:  
 
