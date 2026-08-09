@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-04T04:55","updated":"2026-05-21T04:58"}
+{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-04T04:55","updated":"2026-08-09T17:52"}
 ---
 
 
@@ -47,8 +47,7 @@ Az hogy a tigris is Napállat, ahogy a többi, kivált a kutya, mely kutyát jel
 
 > The dog is frequently a point of departure in idea with respect to animal names. Thus, with the Sumero-Akkadai, as the Hyena is the Striped-dog the Wolf is the Greedy-dog and the Lion the Big-dog. So, with the Eskimo, the Polar-bear is the White-dog and, in the Vendidad (Fargard, xiii), the Hedgehog is the Dog with the prickly back. The Ak. `Likbarra` is also rendered by (Sem.) `Barbaru`, which is generally translated Leopard. As with respect to colours, so in reference to animals, there is often a great vagueness of terminology in ancient literature.  
 > —  
-> A kutya gyakran kiindulópont az állatnevek \[adásának\] elgondolásában. Így a sumero-akkádoknál, ahogy a hiéna a csíkos kutya, a farkas a mohó kutya és az oroszlán a nagykutya. Így az eszkimóknál a jegesmedve a Fehér kutya, a Vendidadban (Fargard, xiii) pedig a sün a tüskés hátú kutya. Az akkád `Likbarra`-t is a (sémi) `Barbaru` adja vissza, amit általában Leopárdnak fordítanak. Ahogy a színek tekintetében, úgy az állatokra vonatkoztatva is gyakran nagy a terminológiai homály az ókori irodalomban.  
-
+> A kutya gyakran kiindulópont az állatnevek \[adásának\] elgondolásában. Így a sumero-akkádoknál, ahogy a hiéna a csíkos kutya, a farkas a mohó kutya és az oroszlán a nagykutya. Így az eszkimóknál a jegesmedve a Fehér kutya, a Vendidadban (Fargard, xiii) pedig a sün a tüskés hátú kutya. Az akkád `Likbarra`-t is a (sémi) `Barbaru` adja vissza, amit általában Leopárdnak fordítanak. Ahogy a színek tekintetében, úgy az állatokra vonatkoztatva is gyakran nagy a terminológiai homály az ókori irodalomban. 
 
 </div></div>
   
