@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gyakorítás/","title":"Gyakorítás","tags":["nyelvészet","Götz","containstransclusions"],"created":"2023-10-05T02:55","updated":"2025-06-07T23:01"}
+{"dg-publish":true,"permalink":"/G/Gyakorítás/","title":"Gyakorítás","tags":["nyelvészet","Götz","containstransclusions"],"created":"2023-10-05T02:55","updated":"2026-08-09T18:03"}
 ---
 
 
@@ -53,8 +53,7 @@ Mivel a gyakorítás felfogható az igei névszó többesszámának, mondhatjuk,
 
 
 
-> Annyi bizonyos hogy magyar ugrik igénk úgy magyar mint kabar egymássalhangzós szónak is vehető, de az "ugrál-bugrál" és "ugri-bugri" ikerszavaink második részében tehát a kecske bak és a béka nevével azonosuló szóalakot képez, ami tehát nem lehet véletlenség. Mi több, tény az is, hogy az osztrák németeknek is van egy lényegében ugrálásból álló tánca, amelyet többé-kevésbé mókásan hoppszasza-nak szoktak nevezni. (Mellesleg megjegyezem, hogy ezen -szasza végzés sem egyéb mint a magyar népi nyelv -sza vagy gyakorítva -szasza biztatás jelentésű ragja. Például nézze meg = biztatás hogy valamit nézzél meg. Így: adsza biztatás, hogy adja ide; gyakorítva: adszasza: gyakorítva hogy adogatná ide. Viszont a nesze biztatva kínáló szó irodalmi nyelvünkben is megvan. "Hopp-szasza" tehát = ugráljál. A finnben `hüpszi` jelent úgy ugrálást mint táncot is.)  
-
+> Annyi bizonyos hogy magyar ugrik igénk úgy magyar mint kabar egymássalhangzós szónak is vehető, de az "ugrál-bugrál" és "ugri-bugri" ikerszavaink második részében tehát a kecske bak és a béka nevével azonosuló szóalakot képez, ami tehát nem lehet véletlenség. Mi több, tény az is, hogy az osztrák németeknek is van egy lényegében ugrálásból álló tánca, amelyet többé-kevésbé mókásan hoppszasza-nak szoktak nevezni. (Mellesleg megjegyezem, hogy ezen -szasza végzés sem egyéb mint a magyar népi nyelv -sza vagy gyakorítva -szasza biztatás jelentésű ragja. Például nézze meg = biztatás hogy valamit nézzél meg. Így: adsza biztatás, hogy adja ide; gyakorítva: adszasza: gyakorítva hogy adogatná ide. Viszont a nesze biztatva kínáló szó irodalmi nyelvünkben is megvan. "Hopp-szasza" tehát = ugráljál. A finnben `hüpszi` jelent úgy ugrálást mint táncot is.) 
 
 </div></div>
 
