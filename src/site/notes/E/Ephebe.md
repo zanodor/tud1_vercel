@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ephebe/","title":"Ephebe","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-27T10:24","updated":"2026-06-22T17:55"}
+{"dg-publish":true,"permalink":"/E/Ephebe/","title":"Ephebe","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-27T10:24","updated":"2026-08-09T18:06"}
 ---
 
 
@@ -16,8 +16,7 @@ Az `ephebos` az ókori Görögországban 18-20 év közötti katonai kiképzésb
 > For instance, the young Spartans performed a dog sacrifice to Enialio, which purified them as they entered the new age group of ephebes. Hesychius (Xanthica, s.v.) describes a similar ritual practiced in Xanthus by the Macedonian army. In this instance, **a dog was quartered** and the forequarters were placed on the right side of the road, the hindquarters on the left. The army then marched down the road between the sections of the dog. This rite was also described by Quintus Curtius (X, 9, 12) regarding the lustratio in 323 BC and by Titus Livy (XL, 6, 1-2) for the lustratio in 182 BC.  
 > —  
 > Mivel a kutyákat tisztátalannak tartották, áldozatuk katartikus volt, és "tisztítószerként" működött (Mainoldi 1984; Rudhart 1958). A periszkulakiszmosz rituáléjában a megtisztulás úgy történt, hogy az ember testét egy kutya testéhez dörzsölték (Plutarkhosz, Quaest. Rom., 68, 280C). Az átmenet rítusai között gyakran szerepeltek olyan szertartások is, amelyek során az egyén a tisztátalanság állapotából a tisztaságba lép át.  
-> A fiatal spártaiak például kutyaáldozatot mutattak be Enialiónak, ami megtisztította őket, amikor beléptek az [[E/Ephebe\|ephebosz]]ok új korcsoportjába. Hesychius (Xanthica, s.v.) leír egy hasonló szertartást, amelyet a makedón hadsereg Xanthusban gyakorolt. Ebben az esetben **egy kutyát felnégyeltek**, és az elülső negyedeket az út jobb oldalára, a hátsó negyedeket pedig a bal oldalra helyezték. A hadsereg ezután a kutyaszakaszok között vonult végig az úton. Ezt a szertartást Quintus Curtius (X, 9, 12) is leírta a Kr. e. 323-ban tartott lustratio kapcsán, valamint Titus Livy (XL, 6, 1-2) a Kr. e. 182-ben tartott lustratio kapcsán.  
-
+> A fiatal spártaiak például kutyaáldozatot mutattak be Enialiónak, ami megtisztította őket, amikor beléptek az [[E/Ephebe\|ephebosz]]ok új korcsoportjába. Hesychius (Xanthica, s.v.) leír egy hasonló szertartást, amelyet a makedón hadsereg Xanthusban gyakorolt. Ebben az esetben **egy kutyát felnégyeltek**, és az elülső negyedeket az út jobb oldalára, a hátsó negyedeket pedig a bal oldalra helyezték. A hadsereg ezután a kutyaszakaszok között vonult végig az úton. Ezt a szertartást Quintus Curtius (X, 9, 12) is leírta a Kr. e. 323-ban tartott lustratio kapcsán, valamint Titus Livy (XL, 6, 1-2) a Kr. e. 182-ben tartott lustratio kapcsán. 
 
 </div></div>
   
