@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-20T06:59","updated":"2026-06-22T17:50"}
+{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-20T06:59","updated":"2026-08-09T14:05"}
 ---
 
 
@@ -88,7 +88,6 @@ Elsőként ott a [[M/Mundzuk\|mundzuk]] név és a [[M/Month\|month]] címnél e
 
 ...című könyvében említett `minaret`, mely szót jogosan a holdhoz köti:  
 > Herbelot irja, Menath nevü bálvány szó alatt, hogy a törökök az arab `menar`, `menareh`-ból csinálták a `minaret` nevet, templomaikat az uj hold sarlója ékesiti. (t. 11. p. 402. edit. 1783.) ([Lásd 277. old.](zotero://open-pdf/library/items/DFI47XPY?page=277&annotation=PBZ22VAN)) 
-
 #### Tomory Zsuzsa Istenes magyar emlékeink 1. rész...
 
 ...című Ősi Gyökér 2005/1. sz. megjelent cikkének táblázatos anyaga ([[I/Isten\|Isten]] és [[B/Bárány\|bárány]] címnél is volt hasonló):  
