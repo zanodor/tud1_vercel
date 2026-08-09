@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Million/","title":"Million","tags":["containstransclusions"],"created":"2023-10-29T11:28","updated":"2026-06-22T17:53"}
+{"dg-publish":true,"permalink":"/M/Million/","title":"Million","tags":["containstransclusions"],"created":"2023-10-29T11:28","updated":"2026-08-09T18:04"}
 ---
 
 
@@ -17,8 +17,7 @@
 
 
 
-> A görög `müriász`, `müriád` = sok, végtelen sok, értelmű szó is a morzsa szó egy változata. Viszont, mivel a görögben `meline`, a latinban `milium` = köles, – a köles pedig egy igen apró szemű régebben nagyon általánosan termelt gabonaféle, amelyből a köleskása nevű étel készült – ebből látjuk hogy a ma nemzetközi milió, millió, millon szó sem egyéb mint a morzsa szó egy l-es, azaz lágyult kiejtésű változata. Mil, mel avagy lim, lem tehát a szem szó párhuzama s eszerint úgy kicsi mint mag értelmű is.  
-
+> A görög `müriász`, `müriád` = sok, végtelen sok, értelmű szó is a morzsa szó egy változata. Viszont, mivel a görögben `meline`, a latinban `milium` = köles, – a köles pedig egy igen apró szemű régebben nagyon általánosan termelt gabonaféle, amelyből a köleskása nevű étel készült – ebből látjuk hogy a ma nemzetközi milió, millió, millon szó sem egyéb mint a morzsa szó egy l-es, azaz lágyult kiejtésű változata. Mil, mel avagy lim, lem tehát a szem szó párhuzama s eszerint úgy kicsi mint mag értelmű is. 
 
 </div></div>
 
