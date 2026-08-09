@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2026-05-21T04:55"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2026-08-09T17:48"}
 ---
 
 
@@ -112,8 +112,7 @@ A Föld kering a Nap körül, mely a Szíriusz körül, mely az [[A/Alcyone\|Alc
 
 > And indeed the Mayan's chose the Galactic Center as a reference point to mark the passage of time, which is evident as the Mayan Long Count ends with the galactic alignment of the Solar System on December 21st 2012. Therefore, the idea that the **Earth orbits the Sun, or that the Sun orbits Sirius, or that Sirius orbits Alcyone and that Alcyone orbits the Galactic Nucleus**, is not revolutionary – it's just a rediscovery of lost knowledge.  
 > —  
-> És valóban, a maják a Tejútközpontot választották referenciapontnak az idő múlásának jelölésére, ami nyilvánvaló, mivel a maják hosszú számlálása a Naprendszer galaktikus együttállásával ér véget 2012. december 21-én. Ezért az az elképzelés, hogy a **Föld kering a Nap körül, vagy hogy a Nap kering a Szíriusz körül, vagy hogy a Szíriusz kering az Alcyone körül, és hogy az Alcyone kering a Galaktikus Mag körül**, nem forradalmi – ez csak egy elveszett tudás újrafelfedezése.  
-
+> És valóban, a maják a Tejútközpontot választották referenciapontnak az idő múlásának jelölésére, ami nyilvánvaló, mivel a maják hosszú számlálása a Naprendszer galaktikus együttállásával ér véget 2012. december 21-én. Ezért az az elképzelés, hogy a **Föld kering a Nap körül, vagy hogy a Nap kering a Szíriusz körül, vagy hogy a Szíriusz kering az Alcyone körül, és hogy az Alcyone kering a Galaktikus Mag körül**, nem forradalmi – ez csak egy elveszett tudás újrafelfedezése. 
 
 </div></div>
   
@@ -186,8 +185,8 @@ A John M. Jenkins és René Guénon által több helyen is említett Nagy Medve 
 > **A Plejádok a hét tehén női aspektusait fejezik ki, a hét bika által képviselt férfi rishik ellentéteként. Ez a tizennégy erő együttesen az asztrális jegyek közül hét jegyen keresztül hat a Brahmával (Dagda) összhangban a láthatatlan spirituális Napon keresztül, amelyet az ezoterikusok gyakran "Nagy Központi Nap"-ként vagy Spirituális Napként** emlegetnek. A jóginok ezt a kozmikus központokból kiinduló három energiasugár vezérlő elveként értelmezik. A neodruidák hasonló elképzelésre hivatkoznak a Tribann (három sugár) formájában. Ezeket a láthatatlan, csak a belső szemmel látható akashai (égi), "elektromos" és "pránikus" erőknek nevezik. Ez a hét rishi viszont részt vesz a világegyetem hét kozmikus rendjében. A földön úgy nyilvánulnak meg, mint az ősóriás Manu első faja, aki a hét Manavát nemzette, és aki az első embereket nemzette.  
 > \[...\]
 > A Plejádok csoportjának hét fő Tündér-csillaga valamikor a Sarki csoportok része volt. Lassanként a nyári régiókba vándoroltak, és ezzel megteremtették az allegorikus változást Pwyll királyságából Arawn királyságába. Azóta a Plejádok negatív befolyást kaptak. A walesi szövegek azt illusztrálják, hogy [[A/Arawn\|Arawn]] volt [[A/Annwfn\|Annwn]] (Andumnon), "a Nem-világ" vadászkirálya, az egyik "másvilág" metafizikai fogalmának neve, amelyet egyesek összekevertek a \*Anderodumnon = az "Alvilággal". A továbbiakban megemlítik, hogy Pwyll of Dyfed Gyn Cuchban vadászat közben észrevesz egy falkányi furcsa kopót egy szarvasra, amire ő is rászabadítja a saját kopóit. Ezek Arawn kopói voltak. Ezért megdorgálja őt udvariatlanságáért. Jóvátételként Pwyll kénytelen eleget tenni Arawn feltételeinek; megöli ellenségét, Hafgant, és az ő álruhájában egy évig Arawn királynőjének ágyát osztja meg anélkül, hogy szeretkezne vele. Pywll teljesíti ezeket a feltételeket, és visszatérhet Dyfedbe, ahol nemcsak királyukként, hanem Annwn uraként is üdvözlik.  
-> Ez a mítosz az idő két [[F/Félév\|félév]]re való felosztását fejezi ki, mint a Semorotlio és Giiemorotlio régi kelta fogalma: Hafgan, \*Samocandos = "Summer White", a meleg és világos fél bikáját képviseli, míg a Szarvas, Pwyll, a másik fél hideg és sötét aspektusát. "A Sárkányból jött a Bika, és a Bikából a Sárkány, a Tehéntartó (Bootes) sötétsége egy hegy (Haemus hegye) alatt van" – énekelték az orfikus misztériumok beavatottjai. A Bhâgavata Pűranában pedig Rîchabha, az Ökör, "Mêru-Dêvi fiának", a kozmikus sarki tengelynek a neve. A Meru hegy volt a Védák világhegye.  { #3nf8ep}
-
+> Ez a mítosz az idő két [[F/Félév\|félév]]re való felosztását fejezi ki, mint a Semorotlio és Giiemorotlio régi kelta fogalma: Hafgan, \*Samocandos = "Summer White", a meleg és világos fél bikáját képviseli, míg a Szarvas, Pwyll, a másik fél hideg és sötét aspektusát. "A Sárkányból jött a Bika, és a Bikából a Sárkány, a Tehéntartó (Bootes) sötétsége egy hegy (Haemus hegye) alatt van" – énekelték az orfikus misztériumok beavatottjai. A Bhâgavata Pűranában pedig Rîchabha, az Ökör, "Mêru-Dêvi fiának", a kozmikus sarki tengelynek a neve. A Meru hegy volt a Védák világhegye.
+{ #3nf8ep}
 
 - Az alsó/sehol/túl világ nem azonos az alvilággal; [[A/Annwfn\|Annwfn]] a kelták másvilága, se mennyország, se pokol, hanem egy e világgal párhuzamos világ.  
   
