@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2026-06-26T23:00"}
+{"dg-publish":true,"permalink":"/H/Hegy és völgy/","title":"Hegy és völgy","created":"2024-11-19T11:24","updated":"2026-08-09T14:05"}
 ---
 
 
@@ -54,7 +54,7 @@ A kebel – öböl/köböl is lehet ilyen páros, ha a keblet hegyként fogjuk f
 Tulajdonképpen a [[K/Kebel\|kebel]] forma feleltethető meg a hegynek és öböl ([[O/Öl\|öl]]) a völgynek. Erről [[S/Sine\|sine]] és [[S/Sinister\|sinister]] címnél is volt szó.  
 
 [[K/Kupa\|Kupa]] címnél is szerepelt:  
-[Ezen](https://youtu.be/RyaTXRx-hu8&t=225) VNTV műsorban 3:45-nél Géczy Gábor elmondja, hogy a szinusz-hullám a világegyetem legegyszerűbb és leggyakrabban használt motívuma. Hegy és völgy helyett adó és kapó párt használ, továbbá Molnár V. Józsefre hivatkozva a [[K/Kapu\|kapu]] és [[K/Kupa\|kupa]] szavakkal is magyarázza (kupa a kehely, de a hupolag is hasonló, valamint a kebel szó is, mely annak az öbölnek a párja, amit a latin `sinus` éppen jelent). Adok-kapokok sorozata a [[H/Hullám\|hullám]].  
+[Ezen](https://youtu.be/RyaTXRx-hu8&t=225) VNTV műsorban 3:45-nél Géczy Gábor elmondja, hogy a szinusz-hullám a világegyetem legegyszerűbb és leggyakrabban használt motívuma. Hegy és völgy helyett adó és kapó párt használ, továbbá Molnár V. József pl. [ezen](https://www.youtube.com/watch?v=X34MbTylc2c&t=5424) videójára hivatkozva a [[K/Kapu\|kapu]] és [[K/Kupa\|kupa]] szavakkal is magyarázza (kupa a kehely, de a hupolag is hasonló, valamint a kebel szó is, mely annak az öbölnek a párja, amit a latin `sinus` éppen jelent). Adok-kapokok sorozata a [[H/Hullám\|hullám]].  
 Lásd még [[K/Kupa#Ku-Pa – Ku-Tya, A-Pa – A-Tya\|Ku-Pa – Ku-Tya, A-Pa – A-Tya]].  
 
 ### MONY – NYOM
