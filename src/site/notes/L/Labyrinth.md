@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2026-03-05T01:38"}
+{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2026-08-09T17:56"}
 ---
 
 
@@ -41,7 +41,8 @@ De a szó megfordítása, a [[B/Bél\|Bél]] és [[P/Pina\|pina]] címnél is el
 
 ...című könyvének alábbi (első) passzusában – mely [[M/Maze\|maze]] címnél is szerepelt – részletesebben kitér a témára:  
 > Thészeusz, az athéni "Héraklész" egyik pokoljárása hasonló értelmű. Arról az ismert történetről van szó, mely elmeséli, hogyan győzte le a hérosz a Kréta szigetén, Knósszoszban épült labirintus bikaszörnyét, Minótauroszt, s hogyan tért vissza onnét Ariadné fonálgombolyagának segedelmével. A labirintus "béltekervényei" Héraklész, lászón, Jónás, János vitéz szörnyeinek belsejére emlékeztetnek, végső soron a földanya méhére, aki most negatív aspektusában jelenik meg. (Vö. a csillaggyermekeit fölfaló [[N/Nut\|Nut]]tal. Ezek a szörnyek rendszerint nőneműek.) A labirintus alaprajzának modellje az emberi, állati bélrendszer, de a csillagokat tanulmányozó hajdani ember gondolatrendszerében a labirintus a déli égboltnak az a része, ahol a Nap télen tartózkodik. A kérdéses időszakban ez a terület az Egyenlítő alatti [[C/Cet csillagkép\|Cet csillagkép]]nek felel meg.  
-> Az ógörög `labion` = "fogó hely", `lábisz` = "fogó, horog", `labrasz` = "farkashal", `labreüomai` = "szájjal, mohón vedel, fölfal," ebből "öblös edény", `labrónion` = "nagy" szavak jelentései a labirintus – tengeri szörny analógiájára mutatnak. A latin `labium` = "szeméremajak", `labrum` = "ajak", "széle (a földnek, ároknak)", "üst", "kád" szavak pedig az asszonyi test nyílásait, a föld száját, s annak jelképes edényformáját vonják közös nevezőre. (Emlékezzünk a [[B/Barlang\|barlang]]-[[K/Kehely\|kehely]]-jelképeknek Krisztus sorsában betöltött szerepére!)  { #ihapwt}
+> Az ógörög `labion` = "fogó hely", `lábisz` = "fogó, horog", `labrasz` = "farkashal", `labreüomai` = "szájjal, mohón vedel, fölfal," ebből "öblös edény", `labrónion` = "nagy" szavak jelentései a labirintus – tengeri szörny analógiájára mutatnak. A latin `labium` = "szeméremajak", `labrum` = "ajak", "széle (a földnek, ároknak)", "üst", "kád" szavak pedig az asszonyi test nyílásait, a föld száját, s annak jelképes edényformáját vonják közös nevezőre. (Emlékezzünk a [[B/Barlang\|barlang]]-[[K/Kehely\|kehely]]-jelképeknek Krisztus sorsában betöltött szerepére!)
+{ #ihapwt}
 
 
 Ugyanez Jankovics Marcelltől másutt:  
@@ -70,7 +71,8 @@ Egyiptomi párhuzamát a jelnek lásd [[M/Magor\|Magor]], ahol több Gyárfás f
 > The temple was designed with a large measure of uniformity over the whole of the Near East now recognizable as a microcosm of the womb. It was divided into three parts: the Porch, representing the lower end of the vagina up to the hymen, or Veil; the Hall, or vagina itself; and the inner sanctum, or Holy of Holies, the uterus. The priest, dressed as a penis, anointed with various saps and resins as representing the divine semen, enters through the doors of the Porch, **the "labia" of the womb**, past the Veil or "hymen" and so into the Hall.  
 > —  
 > Antiszexuális hozzáállása és igényessége ellenére a kereszténység számos szexuális képet épített be, beleértve az ősi és mindenütt jelenlévő [[L/Lingam\|lingam]] szimbólumot, amely a templomtoronyban látható, és a [[Y/Yoni\|yoni]] vagy méh, amelyet a templomhajó szimbolizál. A legkorábbi időktől fogva a templomok és a templomok maguk is méhként szolgáltak, ahová a pap fallosz alakú kalapjával belépett, és termékenységért és termékenységért könyörgött az Istenséghez. Ahogy Allegro mondja:  
-> "A templomot nagyfokú egységességgel tervezték az egész Közel-Keleten, amely ma már felismerhetően az anyaméh mikrokozmoszának tekinthető. Három részre volt osztva: a Bejárat, amely a hüvely alsó végét jelképezte a szűzhártyáig, vagyis a Fátyolig; a Csarnok, vagyis maga a hüvely; és a belső szentély, vagyis a Szentek Szentje, a méh. A pap, pénisznek öltözve, különböző nedvekkel és gyantákkal felkenve, amelyek az isteni ondót jelképezik, belép a Bejárat ajtaján, **a méh "szeméremajkán" keresztül**, a Fátyolon vagy "szűzhártyán" át, és így a Csarnokba."  { #dgfln7}
+> "A templomot nagyfokú egységességgel tervezték az egész Közel-Keleten, amely ma már felismerhetően az anyaméh mikrokozmoszának tekinthető. Három részre volt osztva: a Bejárat, amely a hüvely alsó végét jelképezte a szűzhártyáig, vagyis a Fátyolig; a Csarnok, vagyis maga a hüvely; és a belső szentély, vagyis a Szentek Szentje, a méh. A pap, pénisznek öltözve, különböző nedvekkel és gyantákkal felkenve, amelyek az isteni ondót jelképezik, belép a Bejárat ajtaján, **a méh "szeméremajkán" keresztül**, a Fátyolon vagy "szűzhártyán" át, és így a Csarnokba."
+{ #dgfln7}
 
 
 #### Falvay Károly Nagyboldogasszony...  
