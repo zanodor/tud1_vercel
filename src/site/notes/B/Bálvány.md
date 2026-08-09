@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2026-06-22T17:48"}
+{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2026-08-09T17:57"}
 ---
 
 
@@ -70,7 +70,8 @@ Amennyiben az etruszkok emeltek is volna szobrokat isteneiknek, az is a hanyatl�
 
 #### Magyar Adorján is írja:  
 
-> Tény, hogy a Dionizia- vagyis Baccus-ünnepeken "ünnepélyes menetben, Dionizosz oltáráig a phalloszt és az áldozati bakot vitték, lányok korsókkal és az áldozati kosarakkal haladtak; ez alkalommal Dionizioszra és Phalesre, a megszemélyesített phalloszra, a nemzőerő eme simbolumára dalokat énekeltek" (Pallas nyomán idézve). De azt is írja még Pallas, hogy a Dionizosz (Baccus)-szobrok legrégibb alakja a cölöp, amelynek később fejet is faragtak. A fejes cölöpökből fejlődött utóbb a teljesen phalloszt majd teljesen emberalakot is ábrázoló szobor: idolus, azaz: bálvány. (Föntebb láttuk, hogy népünk nyelvében [[S/Szobor\|szobor]] szavunknak cölöp értelme is van (besenyő szócsoport).) Megjegyezem itt is, hogy ilyen durva, szemérmetlen szertartások fajunkbeli népeknél sohasem jöttek létre.  { #a0wju8}
+> Tény, hogy a Dionizia- vagyis Baccus-ünnepeken "ünnepélyes menetben, Dionizosz oltáráig a phalloszt és az áldozati bakot vitték, lányok korsókkal és az áldozati kosarakkal haladtak; ez alkalommal Dionizioszra és Phalesre, a megszemélyesített phalloszra, a nemzőerő eme simbolumára dalokat énekeltek" (Pallas nyomán idézve). De azt is írja még Pallas, hogy a Dionizosz (Baccus)-szobrok legrégibb alakja a cölöp, amelynek később fejet is faragtak. A fejes cölöpökből fejlődött utóbb a teljesen phalloszt majd teljesen emberalakot is ábrázoló szobor: idolus, azaz: bálvány. (Föntebb láttuk, hogy népünk nyelvében [[S/Szobor\|szobor]] szavunknak cölöp értelme is van (besenyő szócsoport).) Megjegyezem itt is, hogy ilyen durva, szemérmetlen szertartások fajunkbeli népeknél sohasem jöttek létre.
+{ #a0wju8}
 
 
 #### Varga Zsigmond Az ősmagyar mitológia...
