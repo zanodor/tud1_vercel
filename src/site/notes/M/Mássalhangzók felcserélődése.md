@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-08-04T23:02"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-08-09T14:03"}
 ---
 
 
@@ -34,8 +34,9 @@ Ahogy [[F/Flexió#Magyar hajlítás mint nyelvünk szavainak alapképessége\|fl
 
 <!--section: 5.1-->
 A legfontosabb, önmagába kígyóként farkába harapó, cirkuláris hangfejlődés a K>H>Sz>Th>T>D>Gy>G>H>K; lásd erről még [[K/KAR\|KAR]].  
-A [[M/Magyar\|magyar]] nevünk is megjelenik k-val, cs-vel, sz/z-vel, t-vel, th-val, d-vel, ahol a [[G/GY\|gy]] és [[T/TY\|ty]] mint köztes (Pap Gábor által kuplung-hangnak nevezett; lásd [[M/Mássalhangzók felcserélődése#^v1n18t\|fentebb]]) hang adja meg az [[E/Egy#^47teak\|ezen]] helyen is említett átjárási lehetőséget.  
+A [[M/Magyar\|magyar]] nevünk is megjelenik k-val, dzs-vel, cs-vel, sz/z-vel, t-vel, th-val, d-vel, ahol a [[G/GY\|gy]] és [[T/TY\|ty]] mint köztes (Pap Gábor által kuplung-hangnak nevezett; lásd [[M/Mássalhangzók felcserélődése#^v1n18t\|fentebb]]) hang adja meg az [[E/Egy#^47teak\|ezen]] helyen is említett átjárási lehetőséget.  
 Egy másik a KAN > SZAN/SZEN > TEN, ha akarjuk.  
+Egy szintén igen lényeges hasonló helyzet, amikor a [[C/Csuda\|Csudá]]t a [[K/Kutya\|Kutyá]]ból de a [[T/Tejút\|Teut]]ból is le tudom vezetni: Teut(a) > Csud(a) > Süt > \[Szatem-Kentum\] Ku-Ta.  
 
 > [!example] &nbsp;
 > [Ezen](https://www.youtube.com/watch?v=2I-6klk_8Ek) YouTube-ra feltöltött videóban is mutogattam, hogy rokon szavaink a T>D>Gy>H>K sorozatban milyen könnyen töltődnek fel.
