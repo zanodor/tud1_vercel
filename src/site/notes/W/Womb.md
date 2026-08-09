@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/W/Womb/","title":"Womb","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-07-29T23:06","updated":"2026-03-05T01:48"}
+{"dg-publish":true,"permalink":"/W/Womb/","title":"Womb","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-07-29T23:06","updated":"2026-08-09T18:03"}
 ---
 
 
@@ -37,8 +37,7 @@ Másutt az ind [[Y/Yoni\|yoni]] szerepelt méh/vagina jelentéssel.
 > The temple was designed with a large measure of uniformity over the whole of the Near East now recognizable as a microcosm of the womb. It was divided into three parts: the Porch, representing the lower end of the vagina up to the hymen, or Veil; the Hall, or vagina itself; and the inner sanctum, or Holy of Holies, the uterus. The priest, dressed as a penis, anointed with various saps and resins as representing the divine semen, enters through the doors of the Porch, **the "labia" of the womb**, past the Veil or "hymen" and so into the Hall.  
 > —  
 > Antiszexuális hozzáállása és igényessége ellenére a kereszténység számos szexuális képet épített be, beleértve az ősi és mindenütt jelenlévő [[L/Lingam\|lingam]] szimbólumot, amely a templomtoronyban látható, és a [[Y/Yoni\|yoni]] vagy méh, amelyet a templomhajó szimbolizál. A legkorábbi időktől fogva a templomok és a templomok maguk is méhként szolgáltak, ahová a pap fallosz alakú kalapjával belépett, és termékenységért és termékenységért könyörgött az Istenséghez. Ahogy Allegro mondja:  
-> "A templomot nagyfokú egységességgel tervezték az egész Közel-Keleten, amely ma már felismerhetően az anyaméh mikrokozmoszának tekinthető. Három részre volt osztva: a Bejárat, amely a hüvely alsó végét jelképezte a szűzhártyáig, vagyis a Fátyolig; a Csarnok, vagyis maga a hüvely; és a belső szentély, vagyis a Szentek Szentje, a méh. A pap, pénisznek öltözve, különböző nedvekkel és gyantákkal felkenve, amelyek az isteni ondót jelképezik, belép a Bejárat ajtaján, **a méh "szeméremajkán" keresztül**, a Fátyolon vagy "szűzhártyán" át, és így a Csarnokba."  
-
+> "A templomot nagyfokú egységességgel tervezték az egész Közel-Keleten, amely ma már felismerhetően az anyaméh mikrokozmoszának tekinthető. Három részre volt osztva: a Bejárat, amely a hüvely alsó végét jelképezte a szűzhártyáig, vagyis a Fátyolig; a Csarnok, vagyis maga a hüvely; és a belső szentély, vagyis a Szentek Szentje, a méh. A pap, pénisznek öltözve, különböző nedvekkel és gyantákkal felkenve, amelyek az isteni ondót jelképezik, belép a Bejárat ajtaján, **a méh "szeméremajkán" keresztül**, a Fátyolon vagy "szűzhártyán" át, és így a Csarnokba." 
 
 </div></div>
 
