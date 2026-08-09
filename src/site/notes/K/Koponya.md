@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Koponya/","title":"Koponya","created":"2023-11-05T03:00","updated":"2026-08-09T14:05"}
+{"dg-publish":true,"permalink":"/K/Koponya/","title":"Koponya","created":"2023-11-05T03:00","updated":"2026-08-09T17:58"}
 ---
 
 
@@ -8,7 +8,8 @@
 #### Péterfai János írja:
 
 > Kupa szavunk igen rejtélyes eredetűnek tűnik. De nem rejtélyes, ha szigorúan ragaszkodunk a logika törvényeihez. Valódi eredete a Ku és a Pa szavakhoz kötődik. Ku a Száj, Pa a Főség, Fője, tehát a Ku-Pa a Száj-Fője. Ebből a Kupából őseink ittak, mindenféle italt. A Kupa szoros kapcsolatba került a Koponya szóval. Egyes hun, vagyis magyar származású uralkodók, ellenségük koponyájából csináltattak ivókupát, ami azt is feltételezi, hogy a hun uralkodók ellenségeik koponyájából készített ivókupákból ittak volna, vagy csak díszként tartották ezeket a kupákat a családi díszhelyeken.  
-> A Kupa, mint Koponya, összefügg a Fejjel. Mert a Koponya alapvetően nem rokon a Kupa (Ku-Pa) szóval, de annyiban igen, hogy a Ku jelent Szájat és Követ. A Koponya helyesen Ko-Po-Nya szótani elemekből áll. Kő-Fej-Ház a helyes jelentése. Amikor a magyarok megtanulnak magyarul, nem lesz, aki nekik ellen állhatna a nyelvükben. Mivel a Kupa és Koponya szavaink akár ötvenezer év óta is léteznek, a belőlük kiágazó szavak megjelenése sokkal rövidebb időre szabható. Egyértelműen a Kap és Kop szavainkra utalok, amelyekből igen terjedelmes szócsoport fejlődött ki utódnyelveinkben. A latin `Habeo` is a [[K/KAP\|Kap]] magyar ige származéka, ezért az összes indoeurópai szó, amelyet a Habeo szóból vezettek le, mind a magyar Kap igéből ered.  { #31vx84}
+> A Kupa, mint Koponya, összefügg a Fejjel. Mert a Koponya alapvetően nem rokon a Kupa (Ku-Pa) szóval, de annyiban igen, hogy a Ku jelent Szájat és Követ. A Koponya helyesen Ko-Po-Nya szótani elemekből áll. Kő-Fej-Ház a helyes jelentése. Amikor a magyarok megtanulnak magyarul, nem lesz, aki nekik ellen állhatna a nyelvükben. Mivel a Kupa és Koponya szavaink akár ötvenezer év óta is léteznek, a belőlük kiágazó szavak megjelenése sokkal rövidebb időre szabható. Egyértelműen a Kap és Kop szavainkra utalok, amelyekből igen terjedelmes szócsoport fejlődött ki utódnyelveinkben. A latin `Habeo` is a [[K/KAP\|Kap]] magyar ige származéka, ezért az összes indoeurópai szó, amelyet a Habeo szóból vezettek le, mind a magyar Kap igéből ered.
+{ #31vx84}
 
 
 Ahogy [[K/Koppány\|Koppány]] címnél írtuk, koponya lehet Kop-Ana értelmű, mely egészen hasonló a [[K/Korona\|korona]] névhez is, de leginkább lényegét tekintve: a fej/koponya a szellem háza, ahogy a kupa is ezért vethető össze azzal a – szatemes párjaként értelmezhető – [[S/Szoba#Szoba szakrális geometrikus értelmezése\|szoba]] szóval, amelynek szakrális geometrikus értelmezést adtunk (ahogy a rokon alakú [[Z/Zsúp\|zsúp]] szónak is).  
