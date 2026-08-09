@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor nyelvelmélet/","title":"Finnugor nyelvelmélet","tags":["nyelvészet","Götz","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:31","updated":"2026-07-23T11:43"}
+{"dg-publish":true,"permalink":"/F/Finnugor nyelvelmélet/","created":"2024-05-09T22:31","updated":"2026-08-09T17:44"}
 ---
 
 
@@ -359,7 +359,8 @@ Még korábban:
 >
 > Elméletünk szerint a mai értelemben vett uráli nyelvcsalád végső formájában azáltal konszolidálódott, hogy egy tetemesen magasabb kulturális fokon álló, agglutináló nyelvű népesség egykor igen erős hatásokat gyakorolt a kialakulófélben lévő előfinnugor és előszamojéd – vagy ha tetszik "előuráli" – nyelvlánc kezdetleges viszonyok között élő etnikai csoportjaira, mégpedig a nyelvszövetség végleges konszolidációja előtt, tehát hozzávetőlegesen a Kr. e. 3/2. évezred fordulóját közvetlenül követő időkben.  
 >
-> A bemutatott feltevés a nemzetközi nyelvtudomány újabb nyelvfejlődési vizsgálatainak és felismeréseinek tükrében (l. e könyv 407-428. old.) még a lingvisztika oldaláról szemlélve is tetemesen valószínűbb és korszerűbb, mint a finnugrisztika hagyományos nyelvcsaládfa-elmélete. Ezen felül azonban őstörténeti szempontból is megvan az a felbecsülhetetlen előnye, hogy míg az eddigi elképzeléseket a régészet újabb eredményei egyértelműen megcáfolták, kimutatva, hogy a finnugor nyelvészeti és őstörténeti iskola által feltételezett korban (a Kr. e. 6-4. évezred) és térségben (az Oka-Káma-Urál vidéke, ill. Nyugat-Szibéria északi területei) még az emberi élet nyomai sem találhatók meg (l. László Gy.: Az uráli őshaza kutatásáról), nemhogy olyan kompakt népsűrűség, amely egy többé-kevésbé egységes nyelvcsaládi alapnyelv kialakulásához elengedhetetlenül szükséges.  { #f7lufy}
+> A bemutatott feltevés a nemzetközi nyelvtudomány újabb nyelvfejlődési vizsgálatainak és felismeréseinek tükrében (l. e könyv 407-428. old.) még a lingvisztika oldaláról szemlélve is tetemesen valószínűbb és korszerűbb, mint a finnugrisztika hagyományos nyelvcsaládfa-elmélete. Ezen felül azonban őstörténeti szempontból is megvan az a felbecsülhetetlen előnye, hogy míg az eddigi elképzeléseket a régészet újabb eredményei egyértelműen megcáfolták, kimutatva, hogy a finnugor nyelvészeti és őstörténeti iskola által feltételezett korban (a Kr. e. 6-4. évezred) és térségben (az Oka-Káma-Urál vidéke, ill. Nyugat-Szibéria északi területei) még az emberi élet nyomai sem találhatók meg (l. László Gy.: Az uráli őshaza kutatásáról), nemhogy olyan kompakt népsűrűség, amely egy többé-kevésbé egységes nyelvcsaládi alapnyelv kialakulásához elengedhetetlenül szükséges.
+{ #f7lufy}
 
 
 <!--section: 20-->
@@ -597,7 +598,6 @@ Az elavult módszerek témájához még...
 > | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 > | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191129405.jpeg\|invert_light](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191129405.jpeg) | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191212374.jpeg\|fix_dark fix_light](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191212374.jpeg) | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191308422.jpeg\|fix_dark fix_light](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191308422.jpeg) |
 > 
-
 
 </div></div>
 
