@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Toldi Miklós/","title":"Toldi Miklós","tags":["containstransclusions"],"created":"2023-11-02T11:01","updated":"2026-08-03T20:45"}
+{"dg-publish":true,"permalink":"/T/Toldi Miklós/","title":"Toldi Miklós","tags":["containstransclusions"],"created":"2023-11-02T11:01","updated":"2026-08-09T18:04"}
 ---
 
 
@@ -16,8 +16,7 @@ Volt már róla szó [[T/Toll#Toll 2)\|toll]] és [[T/Tölgy\|tölgy]] címnél.
 
 
 > Születésére nézve bár, mint a monda már áttünteti: hős nemes család ivadéka, atyja Lőrinc maga vitéz (s valószínűleg szinte mondai "pokoljáró" személyesség, ld. alant), bátyja György a királyi udvar főembere, mégis a hős ifjúsága homályos, aljas, ismeretlen – mint közönségesen a népmonda hőseié (I. alább), a finn Kullervo is hősi eredete dacára rabszolga és kovácslegény (Kalevala 31 és 32 rúna), hasonlón a kitett, **kutyától szoptatott és kovácslegénytől nevelt** [[S/Siegfried\|Siegfried]] (vilk. sag. 140) – míg utat tör magának tetteivel, hogy egyszerre a homályból a dicsőség kettőztetett fényében tűnjék fel (I. Grimm 360).  
-> Toldi is "léha fajankó", büszke úrias testvére mellett megvetett hamupipőke féle, tanulatlan, ki csak paraszt munkát képes végezni, béresek s betyárokkal társalkodik; de "erőt, vastag gyermek" s már mint ilyen adja ő is hősi fensőbb ereje s hatalma jeleit: birkózás a fő foglalatossága, a legizmosb "tenyeres talpas béresekkel" összekötődik, nincs a ki rajta kifogna, a malom köveket könyüden felemelve hajigálja, a nyomó rudat végénél fogva egy kezével emeli föl, s a vitézek nagy bámulására mutatja véle Budára az utat az átvonuló hadseregnek. A képletekben tehát nyilván, lappangó hős jelentkezik, mint [[R/Romulus és Remus\|Romulus és Remus]] a nyájőrök közt, az iráni hősregében Kosrev és Gustasp (Firdusi 2. 48, 251), a mint rabszolga mindent visszásan tevő Kullervo (k. i. h), de mi által már a hősi erőt tanúsítja.  
-
+> Toldi is "léha fajankó", büszke úrias testvére mellett megvetett hamupipőke féle, tanulatlan, ki csak paraszt munkát képes végezni, béresek s betyárokkal társalkodik; de "erőt, vastag gyermek" s már mint ilyen adja ő is hősi fensőbb ereje s hatalma jeleit: birkózás a fő foglalatossága, a legizmosb "tenyeres talpas béresekkel" összekötődik, nincs a ki rajta kifogna, a malom köveket könyüden felemelve hajigálja, a nyomó rudat végénél fogva egy kezével emeli föl, s a vitézek nagy bámulására mutatja véle Budára az utat az átvonuló hadseregnek. A képletekben tehát nyilván, lappangó hős jelentkezik, mint [[R/Romulus és Remus\|Romulus és Remus]] a nyájőrök közt, az iráni hősregében Kosrev és Gustasp (Firdusi 2. 48, 251), a mint rabszolga mindent visszásan tevő Kullervo (k. i. h), de mi által már a hősi erőt tanúsítja. 
 
 </div></div>
   
