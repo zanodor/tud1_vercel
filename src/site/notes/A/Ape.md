@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2026-07-03T23:11"}
+{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2026-08-09T17:51"}
 ---
 
 
@@ -83,8 +83,7 @@ Elgondolkodtató ezek után, hogy vajon [[M/Majom\|majom]] szavunknak mi a jelen
 
 
 
-> A majom latinul `Simia`, valószinüleg a `simus` (lapított, sima) szótól, minthogy feltünő tulajdonsága a lapított, sima orr ("dicuntur autem simiae a naribus simis hoc est depressis." Fabri Thesaurus); de lehet a `similis`, `simulo` szókkal azonegy gyökü is. Németül: `Affe`, mely rokon gyökünek látszik a mást, ismétlést és utánzást jelentő `Aber` és [[A/After\|after]] szókkal, mintha a német utánzó tulajdonságáról nevezte volna el, mely ez állatban igen jellemzetes; vagy talán fogalmi viszonyban áll a szájtátást jelentő `gaffen` (régi felső német `chapfen`) igével, mert a majom igen szereti száját vonogatni és nyitogatni. Úgy látszik, a magyar ezen tulajdonságot vette tekintetbe a majom elnevezésénél, mert gyöke egy a rágicsálást, szájmozgatást jelentő majzol és máhol igék mah gyökével, minél fogva majom annyi volna, mint mahó (máskép mohó), mahov, mahom, majom, azaz maholó, majzoló állat.  
-
+> A majom latinul `Simia`, valószinüleg a `simus` (lapított, sima) szótól, minthogy feltünő tulajdonsága a lapított, sima orr ("dicuntur autem simiae a naribus simis hoc est depressis." Fabri Thesaurus); de lehet a `similis`, `simulo` szókkal azonegy gyökü is. Németül: `Affe`, mely rokon gyökünek látszik a mást, ismétlést és utánzást jelentő `Aber` és [[A/After\|after]] szókkal, mintha a német utánzó tulajdonságáról nevezte volna el, mely ez állatban igen jellemzetes; vagy talán fogalmi viszonyban áll a szájtátást jelentő `gaffen` (régi felső német `chapfen`) igével, mert a majom igen szereti száját vonogatni és nyitogatni. Úgy látszik, a magyar ezen tulajdonságot vette tekintetbe a majom elnevezésénél, mert gyöke egy a rágicsálást, szájmozgatást jelentő majzol és máhol igék mah gyökével, minél fogva majom annyi volna, mint mahó (máskép mohó), mahov, mahom, majom, azaz maholó, majzoló állat. 
 
 </div></div>
   
