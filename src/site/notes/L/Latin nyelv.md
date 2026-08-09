@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2026-07-30T02:38"}
+{"dg-publish":true,"permalink":"/L/Latin nyelv/","title":"Latin nyelv","created":"2024-10-22T21:36","updated":"2026-08-09T17:53"}
 ---
 
 
@@ -160,7 +160,8 @@ Götz László Keleten kél a Nap című könyvének 127. oldalán is beszámol 
 
 <!--section: 18.1-->
 ...című könyvében írja:
-> [[E/Esztergom\|Esztergom]] nevét különben Gombócz-Melich és a többi nyelvészek a Strigonium szóból származtatják. Mivel az ilyenfajta helynévmagyarázatban egy sajnálatos rendszer nyilvánul meg, azért erről néhány szóval meg kell emékeznem. Köztudomású tény, hogy a keresztyén korszak kezdetével Magyarországon a közhivatalok és a tudomány nyelve a latin lett. A latin nyelven író, többnyire német és tót paptisztviselők azután nemcsak latin nyelven írták az alapítóleveleket és egyéb okmányokat, hanem bennük a magyar helyneveket lehetőleg latinizálták is. A mai kor nyelvésze erre, mivel a magyar kultúra ősiségéről hallani nem akar, ezekkel a későbbi latin okmányokkal bizonyítgatja a magyar helynevek eredetét. A "Strigonium" tehát Esztergomból formáltatott és nem Esztergom a Strigoniumból. ([Lásd 38. old.](zotero://open-pdf/library/items/QVETUTRJ?page=38&annotation=5U4P7SSU))  { #mavos3}
+> [[E/Esztergom\|Esztergom]] nevét különben Gombócz-Melich és a többi nyelvészek a Strigonium szóból származtatják. Mivel az ilyenfajta helynévmagyarázatban egy sajnálatos rendszer nyilvánul meg, azért erről néhány szóval meg kell emékeznem. Köztudomású tény, hogy a keresztyén korszak kezdetével Magyarországon a közhivatalok és a tudomány nyelve a latin lett. A latin nyelven író, többnyire német és tót paptisztviselők azután nemcsak latin nyelven írták az alapítóleveleket és egyéb okmányokat, hanem bennük a magyar helyneveket lehetőleg latinizálták is. A mai kor nyelvésze erre, mivel a magyar kultúra ősiségéről hallani nem akar, ezekkel a későbbi latin okmányokkal bizonyítgatja a magyar helynevek eredetét. A "Strigonium" tehát Esztergomból formáltatott és nem Esztergom a Strigoniumból. ([Lásd 38. old.](zotero://open-pdf/library/items/QVETUTRJ?page=38&annotation=5U4P7SSU))
+{ #mavos3}
 
 
 <!--section: 19-->
