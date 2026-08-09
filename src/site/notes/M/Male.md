@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Male/","title":"Male","tags":["containstransclusions"],"created":"2025-05-29T22:50","updated":"2026-06-22T17:50"}
+{"dg-publish":true,"permalink":"/M/Male/","title":"Male","tags":["containstransclusions"],"created":"2025-05-29T22:50","updated":"2026-08-09T18:01"}
 ---
 
 
@@ -15,8 +15,7 @@ Hímnemű, hím. [[M/Mal- prefixum\|Mal- prefixum]] és [[M/Mare#Mare 2)\|mare]]
 
 
 
-> Az egyiptomi `mehi` szó tehát nem a méhállatot jelentette, hanem az anyaméhet, míg az egyiptomi `apisz` szó ugyanúgy, mint a latin-olasz `apes`, `ape` valóban méhet jelent, de eredetileg csakis a hím méhet jelentette, és tehát a mi [[A/Apa\|apa]] szavunkból származott, amelynek kicsinyítő api alakja is létezhetett. Mi a méhek alatt ma azok összességét értjük, beleszámítva a hímeket, azaz a heréket is, ami azonban bizonyára későbbi fejlemény, ha több ezeréves is. Ugyanígy, de megfordítva történt ez a latinban is, amelyben, valamint az olaszban is, apes, ape ma méhet általában jelent, holott ez eredetileg csak a hím méhek neve volt. Említettem, hogy a méheknek lehetett régen zi, zú, züm, megfordítva mísz, mész, músz neve is, mielőtt itt a sziszegő hang h-vá változott. És íme a latinban, olaszban tényleg `musca`, `mosca` (muszka, moszka) = légy; az pedig érthető, hogy a légy és hím méh neve összecserélődött, hiszen a hím méh úgy alakjában mint abban, hogy fullánkja nincsen, teljesen légyhez hasonló. A szlávban `musko`, a latinban `masculus` = férfi, hím.  
-
+> Az egyiptomi `mehi` szó tehát nem a méhállatot jelentette, hanem az anyaméhet, míg az egyiptomi `apisz` szó ugyanúgy, mint a latin-olasz `apes`, `ape` valóban méhet jelent, de eredetileg csakis a hím méhet jelentette, és tehát a mi [[A/Apa\|apa]] szavunkból származott, amelynek kicsinyítő api alakja is létezhetett. Mi a méhek alatt ma azok összességét értjük, beleszámítva a hímeket, azaz a heréket is, ami azonban bizonyára későbbi fejlemény, ha több ezeréves is. Ugyanígy, de megfordítva történt ez a latinban is, amelyben, valamint az olaszban is, apes, ape ma méhet általában jelent, holott ez eredetileg csak a hím méhek neve volt. Említettem, hogy a méheknek lehetett régen zi, zú, züm, megfordítva mísz, mész, músz neve is, mielőtt itt a sziszegő hang h-vá változott. És íme a latinban, olaszban tényleg `musca`, `mosca` (muszka, moszka) = légy; az pedig érthető, hogy a légy és hím méh neve összecserélődött, hiszen a hím méh úgy alakjában mint abban, hogy fullánkja nincsen, teljesen légyhez hasonló. A szlávban `musko`, a latinban `masculus` = férfi, hím. 
 
 </div></div>
 
