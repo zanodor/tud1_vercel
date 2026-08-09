@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Logikai gondolattársítás, gondolatfűzés/","title":"Logikai gondolattársítás, gondolatfűzés","created":"2024-05-08T13:53","updated":"2026-08-09T14:06"}
+{"dg-publish":true,"permalink":"/L/Logikai gondolattársítás, gondolatfűzés/","title":"Logikai gondolattársítás, gondolatfűzés","tags":["containscallouts"],"created":"2024-05-08T13:53","updated":"2026-08-09T18:04"}
 ---
 
 
