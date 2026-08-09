@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sopdet/","title":"Sopdet","tags":["Englishtexttranslated"],"created":"2025-06-04T21:11","updated":"2025-06-04T21:12"}
+{"dg-publish":true,"permalink":"/S/Sopdet/","title":"Sopdet","tags":["Englishtexttranslated"],"created":"2025-06-04T21:11","updated":"2026-08-09T18:03"}
 ---
 
 
@@ -21,7 +21,8 @@ Az [[I/Íj és a nyíl\|íj és a nyíl]] már több esetben kapcsolatba lett ho
 
 > The **Egyptians called the heliacal rising of Sirius Peret Sepdet**, the "going forth" of Sirius. This reminds one of the apparent similarity between the Egyptian `P.R.T.` and the Hebrew root prtz (`peretz`); this has a similar meaning of "erupting".  
 > —  
-> Az **egyiptomiak a Szíriusz napkeleti felkelését Peret Sepdet**-nek, a Szíriusz "előbújásának" nevezték. Ez emlékeztet az egyiptomi `P.R.T.` és a héber `prtz` (`peretz`) gyök közötti nyilvánvaló hasonlóságra; ennek hasonló jelentése "kitörés".  { #g8lc2d}
+> Az **egyiptomiak a Szíriusz napkeleti felkelését Peret Sepdet**-nek, a Szíriusz "előbújásának" nevezték. Ez emlékeztet az egyiptomi `P.R.T.` és a héber `prtz` (`peretz`) gyök közötti nyilvánvaló hasonlóságra; ennek hasonló jelentése "kitörés".
+{ #g8lc2d}
 
 - A két gyök nem biztos hogy ilyen jelentésű, csak hozzákapcsolhatták.
 
@@ -31,7 +32,8 @@ A perec hasonló alakú a [[N/Nyolc\|nyolc]] szám alakjához is. Ki tudja, mif�
 Noah Brosch könyvében másutt is előjön a Peret:  
 > The stages of the year, linked to the main activities of a primarily agrarian society, were [[A/Ahet\|Akhet]] (inundation or flooding of the Nile), **Peret** (emergence or growth of crops) and **Shemu** or **Shomu** (summer, Nile low water and harvest, a very hot and dry period in the year).  
 > —  
-> Az évszakok, amelyek egy elsősorban az agrártársadalom fő tevékenységeihez kapcsolódtak, a következők voltak: [[A/Ahet\|Akhet]] (a Nílus elöntése vagy áradása), **Peret** (a termés kelése vagy növekedése) és **Shemu** vagy **Shomu** (nyár, a Nílus alacsony vízállása és az aratás, az év nagyon forró és száraz időszaka).  { #utffka}
+> Az évszakok, amelyek egy elsősorban az agrártársadalom fő tevékenységeihez kapcsolódtak, a következők voltak: [[A/Ahet\|Akhet]] (a Nílus elöntése vagy áradása), **Peret** (a termés kelése vagy növekedése) és **Shemu** vagy **Shomu** (nyár, a Nílus alacsony vízállása és az aratás, az év nagyon forró és száraz időszaka).
+{ #utffka}
 
 - Péterfai János talán Per-Et, Tűz Háza értelemmel fordítaná le.
 
