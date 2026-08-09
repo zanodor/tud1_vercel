@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/End/","title":"End","created":"2023-10-17T08:29","updated":"2026-06-12T22:45"}
+{"dg-publish":true,"permalink":"/E/End/","title":"End","created":"2023-10-17T08:29","updated":"2026-08-09T18:02"}
 ---
 
 
@@ -10,7 +10,8 @@ A germán nyelvek `end`, `ende` szavainak jelentései: vég, vége valaminek, v�
 #### Magyar Adorján írja...
 
 ...`inda` szavunkkal kapcsolatban:  
-> Érdemes még a következőt is fölemlítenünk: A magyar vég (nem kún) szónak nemcsak valaminek vége értelme van, hanem hosszúság, hossz is, mert mondjuk egy bizonyos hosszúságú vászonra vagy szövetre is, hogy "egy vég vászon", avagy "egy vég szövet". Ennek párhuzamát (de szintén nem kún szócsoportbeli szóval) képezi az olasz `cima`, velencei tájszólásban `zima`, amely szónak egyaránt van kötél, mint valaminek vége értelme is. Érdekes tehát, hogy viszont a németben meg, különösen a hajósoknál a tisztán kún alakú `End` vagy `Ende` szónak ugyanúgy, van kötél és valaminek vége értelme, amely német szó úgy alakjában, mint értelmében is `inda` szavunkkal egyezik.  { #jq8z8x}
+> Érdemes még a következőt is fölemlítenünk: A magyar vég (nem kún) szónak nemcsak valaminek vége értelme van, hanem hosszúság, hossz is, mert mondjuk egy bizonyos hosszúságú vászonra vagy szövetre is, hogy "egy vég vászon", avagy "egy vég szövet". Ennek párhuzamát (de szintén nem kún szócsoportbeli szóval) képezi az olasz `cima`, velencei tájszólásban `zima`, amely szónak egyaránt van kötél, mint valaminek vége értelme is. Érdekes tehát, hogy viszont a németben meg, különösen a hajósoknál a tisztán kún alakú `End` vagy `Ende` szónak ugyanúgy, van kötél és valaminek vége értelme, amely német szó úgy alakjában, mint értelmében is `inda` szavunkkal egyezik.
+{ #jq8z8x}
 
 
   
