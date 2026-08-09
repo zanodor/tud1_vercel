@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Verse/","title":"Verse","tags":["Englishtexttranslated"],"created":"2025-05-01T10:22","updated":"2025-08-31T01:56"}
+{"dg-publish":true,"permalink":"/V/Verse/","title":"Verse","tags":["Englishtexttranslated"],"created":"2025-05-01T10:22","updated":"2026-08-09T17:57"}
 ---
 
 
@@ -41,7 +41,8 @@ CzF szótár hasonlót ír:
 ...című könyvében a fordulatokat táncfordulatnak értelmezi:  
 > Originally, the poet was the leader of a totem-society of religious dancers. His verses – `versus` is a Latin word corresponding to the Greek `strophe` and means 'a turning' – were danced around an altar or in a sacred enclosure and each verse started a new turn or movement in the dance. The word 'ballad' has the same origin: it is a dance poem, from the Latin `ballare`, to dance. All the totem-societies in ancient Europe were under the dominion of the Great Goddess, the Lady of the Wild Things; dances were seasonal and fitted into an annual pattern from which gradually emerges the single grand theme of poetry: the life, death and resurrection of the Spirit of the Year, the Goddess's son and lover.  
 > —  
-> A költő eredetileg egy vallásos táncosokból álló totemtársulat vezetője volt. Verseit – `versus` a görög `strofá`-nak megfelelő latin szó, jelentése 'fordulat' – egy oltár körül vagy egy szent kerítésben táncolták, és minden versszak egy új fordulatot vagy mozdulatot indított a táncban. A "ballada" szó ugyanilyen eredetű: táncvers, a latin `ballare`, táncolni szóból. Az ókori Európa összes totemtársadalma a Nagy Istennő, a Vadonok Asszonyának uralma alatt állt; a táncok évszakosak voltak, és egy éves mintába illeszkedtek, amelyből fokozatosan kialakul a költészet egyetlen nagy témája: az Év Szellemének, az Istennő fiának és szeretőjének élete, halála és feltámadása.  { #4gb9xk}
+> A költő eredetileg egy vallásos táncosokból álló totemtársulat vezetője volt. Verseit – `versus` a görög `strofá`-nak megfelelő latin szó, jelentése 'fordulat' – egy oltár körül vagy egy szent kerítésben táncolták, és minden versszak egy új fordulatot vagy mozdulatot indított a táncban. A "ballada" szó ugyanilyen eredetű: táncvers, a latin `ballare`, táncolni szóból. Az ókori Európa összes totemtársadalma a Nagy Istennő, a Vadonok Asszonyának uralma alatt állt; a táncok évszakosak voltak, és egy éves mintába illeszkedtek, amelyből fokozatosan kialakul a költészet egyetlen nagy témája: az Év Szellemének, az Istennő fiának és szeretőjének élete, halála és feltámadása.
+{ #4gb9xk}
 
 
 #### Arató István A világ nyelve...
@@ -53,7 +54,8 @@ CzF szótár hasonlót ír:
 
 ...című könyvének 965-966. oldalán írja:
 > [[K/Komoróczy Géza\|Komoróczy Géza]] "A šumér vers elmélete" című rendkívül értékes tanulmányában pontról pontra tételesen kimutatja, hogy a szumér verselés versütemeken alapult. A metrika meglétét először is kétségtelenül bizonyítja a ráolvasások záró formulájában gyakran található utalás arra, hogy a szöveget "számolni" kell. Ezt a szumér `šid` (akkád `manu`) szóval jelölték.  
-> Szeretnénk itt közbevetőleg megjegyezni, hogy a szumér `šid` szó, amely `sit` és `šita` hangalakban is előfordul (l. Borger 1978, 129. old.) és amelynek jelentése "zählen, rezitieren" azaz "számolni, ütemesen olvasni", igen könnyen összefügghet a "szita, szita péntek..." kezdetű ősi magyar kiolvasó versike "szita" szavával, sőt az ütemesen számolt – `šid`, `sit` – rontó démonokat "szid"-ó varázsigéken keresztül átvitt értelemben esetleg "szid", "szitok" szavainkkal is.  { #fqadn1}
+> Szeretnénk itt közbevetőleg megjegyezni, hogy a szumér `šid` szó, amely `sit` és `šita` hangalakban is előfordul (l. Borger 1978, 129. old.) és amelynek jelentése "zählen, rezitieren" azaz "számolni, ütemesen olvasni", igen könnyen összefügghet a "szita, szita péntek..." kezdetű ősi magyar kiolvasó versike "szita" szavával, sőt az ütemesen számolt – `šid`, `sit` – rontó démonokat "szid"-ó varázsigéken keresztül átvitt értelemben esetleg "szid", "szitok" szavainkkal is.
+{ #fqadn1}
 
 
 Itt még a görög verselés Komoróczy által felvázolt sumér-ugariti előzményeinek feltárása után közli:  
