@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ostya/","title":"Ostya","tags":["containstransclusions"],"created":"2023-10-21T03:35","updated":"2026-08-03T20:44"}
+{"dg-publish":true,"permalink":"/O/Ostya/","title":"Ostya","tags":["containstransclusions"],"created":"2023-10-21T03:35","updated":"2026-08-09T18:02"}
 ---
 
 
@@ -20,8 +20,7 @@ Végvári József Kölcsönszavak c. YouTube-ra feltöltött előadásában eml�
 
 
 
-> Ennivaló gyermek! Meg kell zabálni ezt a gyereket! Ha ezeket szó szerint lefordítjuk valamely nyugati nyelvre, számítanunk kell az elszörnyedésre. Ha úgy tudták rólunk, hogy barbár őseink nyereg alatt puhított húson éltek, akkor ezeket a fordulatokat valamiféle emberevő hagyomány továbbélésének fogják tartani, és talán még Euro-csatlakozásunk is veszélybe kerülhet. Holott ezt ugyanúgy nem lehet szó szerint, hétköznapi értelemben venni, mint azt, hogy eszünk Jézus testéből (de jelképesen sem, hiszen ez sokkal több, mint egyszerű szimbólum). Minden szentáldozás alkalmával kiderül, hogy éppen ő az "ennivaló gyermek", akit már születésekor JáSZolba tesznek. Minden gyermekben ő születik újjá a Földön, minden gyermekkel az istenség költözik közénk. A magyar nyelvben ezért volt egykor áldott állapot az, ami ma sokaknak teher, és Isten áldása a gyermek, ami ma népszaporulat, s amivel folyton bajok vannak (és lesznek is, amíg szaporulatként fogjuk kezelni). Az ennivaló gyermek kiszólással talán éppen az istenség eredeti csodás ízére szeretnénk ráismerni, a gyermekben – tehát egykor bennünk is – jelenlévő Istent mint ízt azonosítani.  
-
+> Ennivaló gyermek! Meg kell zabálni ezt a gyereket! Ha ezeket szó szerint lefordítjuk valamely nyugati nyelvre, számítanunk kell az elszörnyedésre. Ha úgy tudták rólunk, hogy barbár őseink nyereg alatt puhított húson éltek, akkor ezeket a fordulatokat valamiféle emberevő hagyomány továbbélésének fogják tartani, és talán még Euro-csatlakozásunk is veszélybe kerülhet. Holott ezt ugyanúgy nem lehet szó szerint, hétköznapi értelemben venni, mint azt, hogy eszünk Jézus testéből (de jelképesen sem, hiszen ez sokkal több, mint egyszerű szimbólum). Minden szentáldozás alkalmával kiderül, hogy éppen ő az "ennivaló gyermek", akit már születésekor JáSZolba tesznek. Minden gyermekben ő születik újjá a Földön, minden gyermekkel az istenség költözik közénk. A magyar nyelvben ezért volt egykor áldott állapot az, ami ma sokaknak teher, és Isten áldása a gyermek, ami ma népszaporulat, s amivel folyton bajok vannak (és lesznek is, amíg szaporulatként fogjuk kezelni). Az ennivaló gyermek kiszólással talán éppen az istenség eredeti csodás ízére szeretnénk ráismerni, a gyermekben – tehát egykor bennünk is – jelenlévő Istent mint ízt azonosítani. 
 
 </div></div>
   
