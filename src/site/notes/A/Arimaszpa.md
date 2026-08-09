@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-20T06:59","updated":"2026-08-09T23:39"}
+{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-20T06:59","updated":"2026-08-09T23:41"}
 ---
 
 
@@ -168,8 +168,7 @@ Na most, a Hold M-N vázú szavait – azt gondolván, hogy mén szavunk a kiind
 ...című könyvében nagyszerűen írja:  
 > Deguignes azt irja a hunnus lovak nemesebb fajáról, hogy az [[M/Men\|meny]]ből származott, Piringer azért a ménest mennyesnek, vagy menyből származottnak magyarázza; ebben van valami, mert a mén törzs ( = csődör) a teremtő s nemző erő, mint a [[M/Mony\|mony]] is, honnan `monyas` (= csődör). Mind a mén, mind a mony szélesen elterjedt szók, melyek még alakjaikat is egymással felcserélik, **embert, lovat, s magasb értelemben világalkotót jelentnek**, ez volt az eredeti jelentés, az élet, mint más szókat is a vallások mythologiájából kölcsönözte át, s ne feledjük, hogy **majd minden hadakozó nép az embert és lovat egy szóval fejezte ki**, mint `equus`, `eques`, `equites`, gótul `manu` = homo és equus pusillus Isidorban, máskép `mannus` Galliában (Diesenbach Celtica I. 100.). Igy volt a dolog az [[A/Arimaszpa\|arimasp]], aspasiakoi, Marsac nemzeti nevekkel (= lovas ariusok, lovas sákák, `asp` és `már` = ló)... ([Lásd 284. old.](zotero://open-pdf/library/items/DFI47XPY?page=284&annotation=GIL9G7RE))  
 > \[...\]  
-> Visszatérve most már a félbeszakított man, ménes szókra, melyeket Deguignes adatai után Piringer meny és menyeseknek vett, megjegyezzük, hogy a szerencsés ötletet chinai annalisok is támogatják, melyek szerint 102. Christus előtt, az oxus földi Muni nevü sákákkal (kikről Minna gura város neve) a chinai császár véres háborút folytatott az kulchi hires lófajért, melytől a scythák nem akartak adózni, ez a ménes a Bolor hegytetőn lakó csuda méntől származott, a hegy alján legeltek a kanczák, melyek szülték a derék lovakat (nevek `ku` = lu vagy ló), mivel vért izzadnak (vérejték), menyei lovaknak is hivatnak (l. Rittert V. 60.). ([Lásd 288. old.](zotero://open-pdf/library/items/DFI47XPY?page=288&annotation=4PDTTNJA))  
-^DFI47XPY-GIL9G7RE
+> Visszatérve most már a félbeszakított man, ménes szókra, melyeket Deguignes adatai után Piringer meny és menyeseknek vett, megjegyezzük, hogy a szerencsés ötletet chinai annalisok is támogatják, melyek szerint 102. Christus előtt, az oxus földi Muni nevü sákákkal (kikről Minna gura város neve) a chinai császár véres háborút folytatott az kulchi hires lófajért, melytől a scythák nem akartak adózni, ez a ménes a Bolor hegytetőn lakó csuda méntől származott, a hegy alján legeltek a kanczák, melyek szülték a derék lovakat (nevek `ku` = lu vagy ló), mivel vért izzadnak (vérejték), menyei lovaknak is hivatnak (l. Rittert V. 60.). ([Lásd 288. old.](zotero://open-pdf/library/items/DFI47XPY?page=288&annotation=4PDTTNJA)) ^DFI47XPY-GIL9G7RE
 - Ugyanígy a [[L/LU\|LU]] = fény alapjelentése mellett embert és lovat is jelent.
 - Világalkotó vagy világ főember név a [[M/Manu\|Manu]] és [[M/Mani\|Mani]]. 
 - A vér itt is lehet a hajnal.
