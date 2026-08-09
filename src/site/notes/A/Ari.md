@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ari/","title":"Ari","tags":["containstransclusions"],"created":"2024-04-20T11:21","updated":"2026-07-18T22:55"}
+{"dg-publish":true,"permalink":"/A/Ari/","title":"Ari","tags":["containstransclusions"],"created":"2024-04-20T11:21","updated":"2026-08-09T18:06"}
 ---
 
 
@@ -18,8 +18,7 @@
 >
 > A volgai bulgár nyelven az udmurtok neve [[A/Ari\|Ari]]. Nem tudni, hogy e közlés mögött mi a helyes fogalom.  
 > Azt tudjuk, hogy az Ar a török nyelvekben Férfi, Ember. Viszont a töröknél régebbi nyelvekben, mint a magyarban, az Ar több jelentésű, bár a jelentések egy tőről származnak. A Hegy megfelel a Férfinak is, mert a férfiak hegyesek. Az Armorika névben az Ar Tenger, a szkytha magyarban Hadsereg, aminek tagjai hegyeket visznek a kezükben, hegyes eszközöket. A szó több jelentésű, amit inkább szótárban kell vizsgálni, sokfélesége miatt.  
-> De az a tény, hogy a volgai bulgárok az udmurtokat Arinak nevezik, nem hagy kétséget afelől, hogy az Ari az Aria, vagyis Arya népnévvel azonos. Az árják alatt a tudomány elsősorban India népeit jelöli. Volt egy Arya tartomány a Perzsa Birodalomban, annak keleti részén, ahonnan az Áryákat szívesen származtatják sok irányban. De az Ár név, mint Ember, az árya fogalomnál régebbi és gazdagon elterjedt, tehát nem keletkezhetett az Ár az Árya névből. Az Ari néven még más csoportokat is neveztek, mint a [[M/Mari\|mari]]kat, s a mordvinok egyes csoportjait. Az Árya népek eszerint finnugorok?  
-
+> De az a tény, hogy a volgai bulgárok az udmurtokat Arinak nevezik, nem hagy kétséget afelől, hogy az Ari az Aria, vagyis Arya népnévvel azonos. Az árják alatt a tudomány elsősorban India népeit jelöli. Volt egy Arya tartomány a Perzsa Birodalomban, annak keleti részén, ahonnan az Áryákat szívesen származtatják sok irányban. De az Ár név, mint Ember, az árya fogalomnál régebbi és gazdagon elterjedt, tehát nem keletkezhetett az Ár az Árya névből. Az Ari néven még más csoportokat is neveztek, mint a [[M/Mari\|mari]]kat, s a mordvinok egyes csoportjait. Az Árya népek eszerint finnugorok? 
 
 </div></div>
 
