@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pohjola/","title":"Pohjola","created":"2023-11-05T02:17","updated":"2026-01-17T00:13"}
+{"dg-publish":true,"permalink":"/P/Pohjola/","title":"Pohjola","created":"2023-11-05T02:17","updated":"2026-08-09T18:05"}
 ---
 
 
@@ -9,7 +9,8 @@
 
 > A finneknél Pohjola a [[P/Pokol\|pokol]], de hideg, kietlen tartomány, szemben sok más pokollal, amelyek forróak és tüzesek. A Kalamisto is pokol. Kalma a Halál, halotti bűz, holttest értelmű, uralkodik a holttestek felett. A halott lelkének le kell a testét vetni, Kalmának adni, és csak ezután mehet át a másvilágra.  
 >
-> [[L/Louhi\|Louhi]] az észak úrasszonya, Pohjola vén banyája a finn [[K/Kalevala\|Kalevalá]]ban.  { #iqjehe}
+> [[L/Louhi\|Louhi]] az észak úrasszonya, Pohjola vén banyája a finn [[K/Kalevala\|Kalevalá]]ban.
+{ #iqjehe}
 
 
 Péterfai János ideírhatta volna, hogy az észak finnül `pohjoinen` (észt nyelven `pőhi`), azaz követi a nevet. A [[P/Pogány\|pogány]] címnél említett finn `paha` = rossz, gonosz ugyanezen fogalmi körből való.  
