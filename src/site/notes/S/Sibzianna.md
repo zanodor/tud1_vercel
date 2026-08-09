@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sibzianna/","title":"Sibzianna","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-05-15T17:52","updated":"2026-06-22T17:55"}
+{"dg-publish":true,"permalink":"/S/Sibzianna/","title":"Sibzianna","tags":["containstransclusions","Englishtexttranslated"],"created":"2024-05-15T17:52","updated":"2026-08-09T18:06"}
 ---
 
 
@@ -17,8 +17,7 @@ A Sibzianna vagy Siba.Zi.Anna sumér csillagképnevet lásd [[P/Papszukkal\|Paps
 
 > Al-Biruni mentioned Arcturus as "the Second Calf of the Lion," the star [[S/Spica\|Spica]] representing the First Calf. Allen states that this star has been identified with the Chaldeans' "Papsukal," the "Guardian Messenger," while according to Smith and Sayce, Arcturus was "the Shepherd of the Heavenly Flock," or "the Shepherd of the Life of Heaven," undoubtedly the Sib-zianna of the inscriptions. Strange to say the Eskimo title for the star, **Sibwudli**, has the same first syllable as the title of the Euphratean hieroglyphics.  
 > —  
-> Al-Biruni az Arcturust "az Oroszlán Második Borjaként" említette, a [[S/Spica\|Spica]] csillag pedig az Első Borjút képviselte. Allen azt állítja, hogy ezt a csillagot a káldeusok "Papsukal"-jával, az "Őrző Hírnökkel" azonosították, míg Smith és Sayce szerint az Arcturus "az égi nyáj pásztora", vagy "az Égi Élet Pásztora" volt, kétségtelenül a feliratok Sib-ziannája. Furcsa módon a csillag eszkimó elnevezése, **Sibwudli**, ugyanolyan első szótaggal rendelkezik, mint az eufráteszi hieroglifák címe.  
-
+> Al-Biruni az Arcturust "az Oroszlán Második Borjaként" említette, a [[S/Spica\|Spica]] csillag pedig az Első Borjút képviselte. Allen azt állítja, hogy ezt a csillagot a káldeusok "Papsukal"-jával, az "Őrző Hírnökkel" azonosították, míg Smith és Sayce szerint az Arcturus "az égi nyáj pásztora", vagy "az Égi Élet Pásztora" volt, kétségtelenül a feliratok Sib-ziannája. Furcsa módon a csillag eszkimó elnevezése, **Sibwudli**, ugyanolyan első szótaggal rendelkezik, mint az eufráteszi hieroglifák címe. 
 
 </div></div>
   
