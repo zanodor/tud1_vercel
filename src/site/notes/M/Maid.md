@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Maid/","title":"Maid","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-21T03:53","updated":"2026-06-22T17:51"}
+{"dg-publish":true,"permalink":"/M/Maid/","title":"Maid","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-21T03:53","updated":"2026-08-09T18:03"}
 ---
 
 
@@ -36,8 +36,7 @@ Az [alábbi](https://www.cell.com/current-biology/pdf/S0960-9822(15)00782-4.pdf)
 
 > As it turns out, even the most famous speculation about parthenogenesis, Jesus Christ's birth, owes its existence not to a miracle but to a human error during the translation of Isaiah 7:14 from Hebrew to Greek: The Hebrew word `almah` can refer to a young woman of marriageable age, whether married or not. The 'young woman' became a 'virgin' in the gospel according to Matthew, where `almah` was translated as the Greek `parthenos`.  
 > —  
-> Mint kiderült, még a parthenogenezissel kapcsolatos leghíresebb spekuláció, Jézus Krisztus születése sem egy csodának, hanem egy emberi hibának köszönheti létét az Ézsaiás 7:14 héberről görögre történő fordítása során: a héber `almah` szó utalhat egy fiatal, házas korú nőre, akár házas, akár nem. Az "ifjú asszony" a Máté evangéliumában "szűz" lett, ahol az `almah` szót a görög `parthenosz` szóval fordították.  
-
+> Mint kiderült, még a parthenogenezissel kapcsolatos leghíresebb spekuláció, Jézus Krisztus születése sem egy csodának, hanem egy emberi hibának köszönheti létét az Ézsaiás 7:14 héberről görögre történő fordítása során: a héber `almah` szó utalhat egy fiatal, házas korú nőre, akár házas, akár nem. Az "ifjú asszony" a Máté evangéliumában "szűz" lett, ahol az `almah` szót a görög `parthenosz` szóval fordították. 
 
 </div></div>
   
