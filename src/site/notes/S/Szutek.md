@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2025-10-02T21:42"}
+{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2026-08-09T17:54"}
 ---
 
 
@@ -103,7 +103,8 @@ A fentebb idézett Antoine Banier apát könyvének 116. oldalán a föníciai �
 Jacob Bryant Analysis Of Ancient Mythology című könyvének (első kötetének) elején, Mizraim résznél értelmezi a neveket:  
 > Sanchoniathon alludes to this person under the name of Misor; and joins him with Sydic: both which he makes the sons of the Shepherds Amunus and Magus. Amunus, I make no doubt, is Amun, or Ham, the real father of Misor, from whom the Mizräim are supposed to be descended. By Magus, probably, is meant Chus, the father of those worshippers of fire, the Magi: the father, also, of the genuine Scythæ, who were styled Magog. The Canaanites, likewise, were his offspring: and, among these, none were more distinguished than those of Said, or Sidon; which, I imagine, is alluded to under the name of Sydic. It must be confessed, that the author derives it from Sydic, justice: and, to say the truth, he has, out of antient terms, mixed so many feigned personages with those that are real, that it is not possible to arrive at the truth.  
 > —  
-> Sanchoniathon Misor néven utal erre a személyre; és Szidik-kel hozza össze: mindkettőt a pásztorok fiainak, Amunusnak és Magusnak nevezi. Amunus, efelől nincs kétségem, Amun vagy Hám, Misor valódi apja, akitől Mizräim népe, az egyiptomiak állítólag származnak. Magus alatt valószínűleg Chus értendő, a tűzimádók, a mágusok atyja: a valódi szkíták atyja is, akiket Magognak neveztek. A kánaániak szintén az ő utódai voltak: és ezek közül egyikük sem volt kiemelkedőbb, mint a szidoniak vagy szidoniak; gondolom, erre a Szidik név alatt utalnak. Be kell vallani, hogy a szerző a Szidik-ből, az igazságosságból eredezteti: és az igazat megvallva, az antik kifejezésekből annyi hamis személyiséget kevert össze a valódiakkal, hogy nem lehet eljutni az igazsághoz.  { #woruzy}
+> Sanchoniathon Misor néven utal erre a személyre; és Szidik-kel hozza össze: mindkettőt a pásztorok fiainak, Amunusnak és Magusnak nevezi. Amunus, efelől nincs kétségem, Amun vagy Hám, Misor valódi apja, akitől Mizräim népe, az egyiptomiak állítólag származnak. Magus alatt valószínűleg Chus értendő, a tűzimádók, a mágusok atyja: a valódi szkíták atyja is, akiket Magognak neveztek. A kánaániak szintén az ő utódai voltak: és ezek közül egyikük sem volt kiemelkedőbb, mint a szidoniak vagy szidoniak; gondolom, erre a Szidik név alatt utalnak. Be kell vallani, hogy a szerző a Szidik-ből, az igazságosságból eredezteti: és az igazat megvallva, az antik kifejezésekből annyi hamis személyiséget kevert össze a valódiakkal, hogy nem lehet eljutni az igazsághoz.
+{ #woruzy}
 
 
 "Sydic, the Just" értelmezése betéve [[J/Judge\|judge]] címhez a szláv szavak mellé. [[O/ON\|ON]] és [[Z/Zsidó\|zsidó]] címhez pedig a Sidon = zsidó témát és úgy az egészet [[K/Kánaán\|Kánaán]] címhez is.  
