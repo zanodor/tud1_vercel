@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Forr/","title":"Forr","created":"2023-10-26T02:49","updated":"2026-01-17T00:13"}
+{"dg-publish":true,"permalink":"/F/Forr/","title":"Forr","created":"2023-10-26T02:49","updated":"2026-08-09T18:05"}
 ---
 
 
@@ -11,7 +11,8 @@ A TeSz véleményét is közli: valószínűleg ősi hangutánzó-hangfestő sz�
 #### A Czuczor-Fogarasi szótár adata:
 
 > FORR  
-> for-r, for gyöktől, például Erdélyben van Foró helység, mely másképen Forró; de az egész vétethetik hangutánzónak is; rokon vele a latin `ferveo`, hellen `bruw`, `brazw`, német `brauen`, `brausen`, `brennen`, `warm`, szanszkrit `bhâr` \[éget, fűt\], finn `vari` \[forró\], `puraan` és `purajan` \[forrok\], magyar [[P/Pír\|pír]], [[P/Parázs\|parázs]], perg-el stb. továbbá \[kút-\] forrás értelemben az arab `bir`, héber `bór`, `beér`, német `Born`, `Brunnen`, skót `purn` (víz) stb.  { #tnveh4}
+> for-r, for gyöktől, például Erdélyben van Foró helység, mely másképen Forró; de az egész vétethetik hangutánzónak is; rokon vele a latin `ferveo`, hellen `bruw`, `brazw`, német `brauen`, `brausen`, `brennen`, `warm`, szanszkrit `bhâr` \[éget, fűt\], finn `vari` \[forró\], `puraan` és `purajan` \[forrok\], magyar [[P/Pír\|pír]], [[P/Parázs\|parázs]], perg-el stb. továbbá \[kút-\] forrás értelemben az arab `bir`, héber `bór`, `beér`, német `Born`, `Brunnen`, skót `purn` (víz) stb.
+{ #tnveh4}
 
 - A víz alapérteményű [[B/BOR\|bor]] is ide tartozik.
 
