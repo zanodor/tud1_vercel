@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magura/","title":"Magura","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T08:17","updated":"2026-04-24T09:38"}
+{"dg-publish":true,"permalink":"/M/Magura/","title":"Magura","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T08:17","updated":"2026-08-09T17:58"}
 ---
 
 
@@ -83,8 +83,8 @@ Két szempontból is érdekes mindez:
 Dogura Magura egy japán könyv alapján készült film címe. [Ezen](https://www.themodernnovel.org/asia/other-asia/japan/kyusaku-yumeno/dogra-magra/) oldalon olvassuk:  
 > After detailed research, they had found that Dogra Magra was a word used in Nagasaki and was used to indicate a religious incantation used by Christian priests, perhaps similar to our [[A/Abracadabra\|abracadabra]].  
 > —  
-> Részletes kutatás után kiderítették, hogy a Dogra Magra egy Nagaszakiban használt szó, és egy keresztény papok által használt vallási varázsigét jelentett, talán hasonlóan a mi [[A/Abracadabra\|abrakadabra]] szavunkhoz.  { #gvu9bs}
-
+> Részletes kutatás után kiderítették, hogy a Dogra Magra egy Nagaszakiban használt szó, és egy keresztény papok által használt vallási varázsigét jelentett, talán hasonlóan a mi [[A/Abracadabra\|abrakadabra]] szavunkhoz.
+{ #gvu9bs}
 
 
 A név a Dog-gal és Magur-ral (ahol Mag- varázslásra is utalhat) így együtt megdöbbentő.  
