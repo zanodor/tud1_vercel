@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2026-06-22T19:08"}
+{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2026-08-09T17:51"}
 ---
 
 
@@ -17,8 +17,7 @@ Magyarországon a legismertebb [[A/Álmos\|Álmos]] és [[J/Jézus\|Jézus]] fog
 
 > Gautama Buddha, the ninth Avatar of India, flourished around 600 B.C. The stories relating to his life and death are similar to those recorded concerning [[K/Krishna\|Krishna]]. He was said to have been born of the Virgin Maya, or Mary.  
 > —  
-> Gautama Buddha, India kilencedik avatárja, i.e. 600 körül virágzott. Az életével és halálával kapcsolatos történetek hasonlóak a [[K/Krishna\|Krisna]] történetéhez. Azt mondták, hogy **Szűz Májától, azaz Máriától született**.  
-
+> Gautama Buddha, India kilencedik avatárja, i.e. 600 körül virágzott. Az életével és halálával kapcsolatos történetek hasonlóak a [[K/Krishna\|Krisna]] történetéhez. Azt mondták, hogy **Szűz Májától, azaz Máriától született**. 
 
 </div></div>
 
@@ -61,8 +60,7 @@ Közben ott arról is szó volt, hogy **félrefordítás történt** (a héber `
 
 > As it turns out, even the most famous speculation about parthenogenesis, Jesus Christ's birth, owes its existence not to a miracle but to a human error during the translation of Isaiah 7:14 from Hebrew to Greek: The Hebrew word `almah` can refer to a young woman of marriageable age, whether married or not. The 'young woman' became a 'virgin' in the gospel according to Matthew, where `almah` was translated as the Greek `parthenos`.  
 > —  
-> Mint kiderült, még a parthenogenezissel kapcsolatos leghíresebb spekuláció, Jézus Krisztus születése sem egy csodának, hanem egy emberi hibának köszönheti létét az Ézsaiás 7:14 héberről görögre történő fordítása során: a héber `almah` szó utalhat egy fiatal, házas korú nőre, akár házas, akár nem. Az "ifjú asszony" a Máté evangéliumában "szűz" lett, ahol az `almah` szót a görög `parthenosz` szóval fordították.  
-
+> Mint kiderült, még a parthenogenezissel kapcsolatos leghíresebb spekuláció, Jézus Krisztus születése sem egy csodának, hanem egy emberi hibának köszönheti létét az Ézsaiás 7:14 héberről görögre történő fordítása során: a héber `almah` szó utalhat egy fiatal, házas korú nőre, akár házas, akár nem. Az "ifjú asszony" a Máté evangéliumában "szűz" lett, ahol az `almah` szót a görög `parthenosz` szóval fordították. 
 
 </div></div>
 
@@ -106,8 +104,7 @@ Práczki István Szittya Biblia című könyvének 47. és 54. oldalán igen meg
 
 > As Albert the Great acknowledged, the virgin-birth motif is astrotheological, referring to the hour of midnight, December 25th, when the constellation of Virgo rises on the horizon. The Assumption of the Virgin, celebrated in Catholicism on August 15th, represents the summer sun's brightness blotting out Virgo. Mary's Nativity, celebrated on September 8th, occurs when the constellation is visible again. Such is what these "Christian" motifs and holidays represent, as has obviously been known by the more erudite of the Catholic clergy. Hence, the virgin who will conceive and bring forth is Virgo, and her son is the sun...  
 > —  
-> Ahogy Nagy Albert is elismerte, a szűzi születés motívuma asztrotheológiai eredetű, és az éjféli órára, december 25-re utal, amikor a Szűz csillagkép felkel a horizonton. Szűz Mária mennybevétele, amelyet a katolicizmusban augusztus 15-én ünnepelnek, a nyári nap fényességét jelképezi, amely eltakarja a Szűz csillagképet. Mária születése, amelyet szeptember 8-án ünnepelnek, akkor következik be, amikor a csillagkép ismét láthatóvá válik. Ilyeneket jelentenek ezek a "keresztény" motívumok és ünnepek, amit nyilván a katolikus klérus műveltebbjei is tudtak. Ezért a szűz, aki fogan és szülni fog, a Szűz, a fia pedig a Nap...  
-
+> Ahogy Nagy Albert is elismerte, a szűzi születés motívuma asztrotheológiai eredetű, és az éjféli órára, december 25-re utal, amikor a Szűz csillagkép felkel a horizonton. Szűz Mária mennybevétele, amelyet a katolicizmusban augusztus 15-én ünnepelnek, a nyári nap fényességét jelképezi, amely eltakarja a Szűz csillagképet. Mária születése, amelyet szeptember 8-án ünnepelnek, akkor következik be, amikor a csillagkép ismét láthatóvá válik. Ilyeneket jelentenek ezek a "keresztény" motívumok és ünnepek, amit nyilván a katolikus klérus műveltebbjei is tudtak. Ezért a szűz, aki fogan és szülni fog, a Szűz, a fia pedig a Nap... 
 
 </div></div>
 
@@ -140,8 +137,7 @@ A [[S/Szűz csillagkép\|Szűz csillagkép]] címnél szereplő ([[M/Mária\|Má
 
 > Sirius in the annual period from its heliacal rising to 22 August was also called 'Maira', a word coming from the ancient Greek verb `marmairo`, which means 'to shine' (Palatine or Greek Anthology, 1917, 9: 55). As a name, Maira (or Maera) therefore became the star-goddess of the scorching dog-star Seirios, whose rising in conjunction with the Sun brought on the scorching heat of midsummer.  
 > —  
-> A Szíriuszt a heliákus kelésétől augusztus 22-ig tartó éves időszakban "Maira"-nak is nevezték, amely szó az ógörög `marmairo` igéből származik, ami azt jelenti, hogy "ragyogni" (Palatinus vagy Görög Antológia, 1917, 9: 55). Maira (vagy Maera) mint név tehát a perzselő kutya-csillag, Seirios csillagistennője lett, akinek a Nappal együtt történő felkelése a nyár közepének perzselő hőségét hozta el.  
-
+> A Szíriuszt a heliákus kelésétől augusztus 22-ig tartó éves időszakban "Maira"-nak is nevezték, amely szó az ógörög `marmairo` igéből származik, ami azt jelenti, hogy "ragyogni" (Palatinus vagy Görög Antológia, 1917, 9: 55). Maira (vagy Maera) mint név tehát a perzselő kutya-csillag, Seirios csillagistennője lett, akinek a Nappal együtt történő felkelése a nyár közepének perzselő hőségét hozta el. 
 
 </div></div>
 
