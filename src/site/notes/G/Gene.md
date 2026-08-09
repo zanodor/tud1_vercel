@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gene/","title":"Gene","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T02:31","updated":"2026-06-22T17:50"}
+{"dg-publish":true,"permalink":"/G/Gene/","title":"Gene","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T02:31","updated":"2026-08-09T14:05"}
 ---
 
 
