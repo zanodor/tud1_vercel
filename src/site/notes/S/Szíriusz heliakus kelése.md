@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2026-08-09T17:54"}
+{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2026-08-09T18:47"}
 ---
 
 
@@ -100,7 +100,9 @@ Itt még említendő:
 > —  
 > Schaefer (2000) megállapította, hogy ahhoz, hogy a Szíriusz látható legyen a heliákus felkeltekor, a magasságának ∼6°-nak kell lennie, míg a Napnak ∼5°-kal a horizont alatt kell lennie.  
 
-Drunvalo Melchizedek The Ancient Secret of the Flower of Life, Volume I. című könyvének más adatsora:  
+#### Drunvalo Melchizedek The Ancient Secret of the Flower of Life Volume I....  
+
+...című könyvének más adatsora:  
 > From Africa, where the Dogons live, the star Sirius disappears below the horizon and is out of sight for a couple of months; then it appears again on the morning of July 23, when it rises about one minute before the Sun. It appears bright ruby-red, just above the horizon, almost exactly due east. Sixty seconds later the Sun emerges. So you can see Sirius for just a moment, then it's gone. This is called the helical rising of Sirius, which was a very important moment for most of the ancient world, not just for the Dogons and Egypt.  
 > This is the moment when Sirius and the Sun and the Earth are in a straight line across space. In Egypt, almost all the temples were aligned with this line, including the gaze of the Sphinx. Many of the temples had a tiny hole in the wall somewhere; then there would be another wall and another, going into some dim inner chamber. In that chamber there would be something like a cube or Golden Mean rectangle of granite sitting in the middle of the room with a little mark on it. At the moment of the heliacal rising of Sirius, a ruby-red light would strike the altar for a few seconds, which would begin their new year and the first day of the ancient Sothic calendar of Egypt.  
 > —  
@@ -144,3 +146,10 @@ Ugye az együtt kelés az egybekelésnek, násznak is felfoghatónak tarthatott.
 Hasonló esetet láttuk már, annak kapcsán, amit Falvay Károly Nagyboldogasszony című könyvében is taglalt: a Nap ugyebár uralomban az Oroszlánban van, amikor Nagyboldogasszony napja ([[A/Augusztus 15\|augusztus 15]].) is van. Az akkori telihold gondoltatott királynőnek.  
 
 A két időpontot (illetve nem ezt az egymástól mintegy pontosan egy hónappal eltérő időpontot, hanem egy szeptember elsejével kezdődő évkezdést) [[S/Szűz csillagkép\|Szűz csillagkép]] címnél próbáljuk közös nevezőre hozni.  
+
+## Számítások
+
+[Ezen](https://www.reddit.com/r/Astronomy/comments/1lvpz8x/does_anyone_knows_when_the_next_heliacal_rising/?tl=hu) már magyarra fordított Reddit oldalon érdeklődik valaki arról, hogy mikor lesz a következő Szíriusz heliakus felkelése Egyiptomban.  
+Két link kerül elő itt:  
+https://promenade.imcce.fr/en/pages6/724.html
+https://www.gautschy.ch/~rita/archast/sirius/siriuseng.htm
