@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bél/","title":"Bél","tags":["containstransclusions"],"created":"2024-10-24T16:20","updated":"2026-07-03T23:14"}
+{"dg-publish":true,"permalink":"/B/Bél/","title":"Bél","tags":["containstransclusions"],"created":"2024-10-24T16:20","updated":"2026-08-09T18:02"}
 ---
 
 
@@ -44,8 +44,7 @@ Nyilván előbbihez kötődik az angol `guts` = belek jelentése, mely belek val
 
 
 
-> Az Uterusz latin szóban, ami Méh jelentésű, az Ut-Er a Nap-Úr, ami azt jelenti, hogy az anyaméhben a baba a napocska. Még a latinok is tudták, hogy a gyerek Nap.  
-
+> Az Uterusz latin szóban, ami Méh jelentésű, az Ut-Er a Nap-Úr, ami azt jelenti, hogy az anyaméhben a baba a napocska. Még a latinok is tudták, hogy a gyerek Nap. 
 
 </div></div>
   
