@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:54","updated":"2026-07-30T02:37"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:54","updated":"2026-08-09T17:51"}
 ---
 
 
@@ -27,8 +27,7 @@ Ez az elképzelés mondjuk ellentmond [[S/Száj\|száj]] és más címnél írot
 
 > The ![assets/Sothis_image4.png|fix_dark fix_light right|300](/img/user/S/assets/Sothis_image4.png)square zodiac at Denderah shows α CMa in the form of a five-pointed star between the horns of a cow carried in a boat (Figure 2.10). The boat is followed by the goddess Satet, carrying a bow and an arrow pointed at Sirius, an image probably linked with the Nile flooding. We shall see later that other civilizations adopted a link between Sirius and a bow-and-arrow configuration.  
 > —  
-> A [[E/Egyiptomi szalag zodiákus\|denderai szögletes állatöv]] az [[C/Canis Maior\|Canis Maior]] alfáját (Szíriusz) egy ötágú csillag formájában mutatja egy tehén szarvai között, amelyet egy csónakban visznek. A csónakot [[S/Satet\|Szatet]] istennő követi, aki íjat és nyilat tart a Szíriuszra irányítva, mely kép valószínűleg összefügg a Nílus áradásával. Később látni fogjuk, hogy más civilizációk is átvették a Szíriusz és az íj-nyíl alakzat kapcsolatát.  
-
+> A [[E/Egyiptomi szalag zodiákus\|denderai szögletes állatöv]] az [[C/Canis Maior\|Canis Maior]] alfáját (Szíriusz) egy ötágú csillag formájában mutatja egy tehén szarvai között, amelyet egy csónakban visznek. A csónakot [[S/Satet\|Szatet]] istennő követi, aki íjat és nyilat tart a Szíriuszra irányítva, mely kép valószínűleg összefügg a Nílus áradásával. Később látni fogjuk, hogy más civilizációk is átvették a Szíriusz és az íj-nyíl alakzat kapcsolatát. 
 
 </div></div>
 
@@ -102,7 +101,8 @@ Egy újdonsült ("fringe" kutatóként[^3] nyilván rengeteg zagyvalékkal, de h
 De Coppens mellett mások is foglalkoznak a témával, például a Diagnosys2012 weblapon, melyről szedett infókat egy Thunderbolt fórum-hozzászóló hozza elő:  
 > Murray Hope concluded from her study of Egyptian mythology that Sirius was responsible for a change in the Earth's orbit, resulting in the 5 extra ("epagomenal") days and also, possibly, the axis tilt which causes the four seasons. She also concluded that Sirius would be somehow involved with an imminent "evolutionary quantum leap" for mankind.  
 > —  
-> Murray Hope az egyiptomi mitológia tanulmányozásából arra a következtetésre jutott, hogy a Szíriusz volt felelős a Föld pályájának megváltozásáért, ami az 5 extra ("epagomenális") napot eredményezte, és valószínűleg a tengely dőlését is, ami a négy évszakot okozza. Arra is következtetett, hogy a Szíriusznak valamilyen módon köze van az emberiség közelgő "evolúciós kvantumugrásához".  { #lbseo8}
+> Murray Hope az egyiptomi mitológia tanulmányozásából arra a következtetésre jutott, hogy a Szíriusz volt felelős a Föld pályájának megváltozásáért, ami az 5 extra ("epagomenális") napot eredményezte, és valószínűleg a tengely dőlését is, ami a négy évszakot okozza. Arra is következtetett, hogy a Szíriusznak valamilyen módon köze van az emberiség közelgő "evolúciós kvantumugrásához".
+{ #lbseo8}
 
 
 A Hamlet Malmát is vizsgáló internetes forumozó, aki nyilván az alábbi, fentebb szerepelt passzus...  
