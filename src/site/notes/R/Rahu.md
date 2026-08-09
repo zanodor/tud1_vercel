@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Rahu/","title":"Rahu","tags":["Englishtexttranslated"],"created":"2023-11-02T01:34","updated":"2026-03-05T01:44"}
+{"dg-publish":true,"permalink":"/R/Rahu/","title":"Rahu","tags":["Englishtexttranslated"],"created":"2023-11-02T01:34","updated":"2026-08-09T18:00"}
 ---
 
 
@@ -16,7 +16,8 @@ Ra-Hu (egyáltalán nem biztos, hogy helyes) felbontásában Nap-Csillag értelm
 #### Jankovics Marcell írja:
 
 > Egy már emlegetett indiai mítosz szerint az istenek halhatatlanná tévő italát egy Ráhu nevű démon megdézsmálja. A Nap tanúja a történteknek, és elárulja Visnunak, mit látott, s az levágja ugyan Ráhu fejét, de megölni nem tudja, hisz a démon immár halhatatlan. Ráhu levágott fejéből lesz a "felszálló holdcsomópont", farkából Ketu néven a "leszálló holdcsomópont". Az asztrológia ma is Sárkányfejnek és Sárkányfaroknak nevezi a holdcsomópontokat, melyek alatt a napés a holdfogyatkozások láthatatlan okozói, az [[E/Ecliptic\|Ekliptika]] (gör. `eklipszis`, "fogyatkozás") és a holdpálya metszéspontjai értendők. Ráhu és Ketu azonban "látható" mitikus lény volt.  
-> Ráhuról, akinek a finn mitológiában Rakkoi (Rahko) a megfelelője, [[R/Ráháb\|Ráháb]], a bibliai "mélység vizei"-t megszemélyesítő szörnyanya juthat az eszünkbe, Keturól a görög Kéto(sz) szörny, a [[C/Cet csillagkép\|Cetus csillagkép]], de a "Sárkányfej", "Sárkányfarok" elnevezés fennmaradt a Serpens Caput és a Serpens Cauta ("Kígyófej" "Kígyófarok") csillagképnevekben is.  { #e7bc0e}
+> Ráhuról, akinek a finn mitológiában Rakkoi (Rahko) a megfelelője, [[R/Ráháb\|Ráháb]], a bibliai "mélység vizei"-t megszemélyesítő szörnyanya juthat az eszünkbe, Keturól a görög Kéto(sz) szörny, a [[C/Cet csillagkép\|Cetus csillagkép]], de a "Sárkányfej", "Sárkányfarok" elnevezés fennmaradt a Serpens Caput és a Serpens Cauta ("Kígyófej" "Kígyófarok") csillagképnevekben is.
+{ #e7bc0e}
 
 
 #### John Major Jenkins Galactic Alignment...
