@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar népművészet/","title":"Magyar népművészet","tags":["Englishtexttranslated"],"created":"2024-05-14T12:18","updated":"2026-05-21T04:55"}
+{"dg-publish":true,"permalink":"/M/Magyar népművészet/","title":"Magyar népművészet","tags":["Englishtexttranslated"],"created":"2024-05-14T12:18","updated":"2026-08-09T17:46"}
 ---
 
 
@@ -156,7 +156,8 @@ Előttük már a festészetben szintén jártas...
 #### Zajti Ferenc Zsidó volt-e Jézus...
 
 ...című könyvének XLIII. fejezetében írja nagyjából ugyanezt:  
-> A [[S/Szemitizmus\|szemitizmus]] egyik alap karaktervonása, hol az utánzók jellegzetességével csak felszínen utánozzák a lelküktől idegen gondolatot, avagy művészi formákat. Ugyanezt cselekedték mindig vallási területen is. Az idegen népek vallási elveit és gondolatait saját céljaik érdeke szerint válogatták mindig össze. A mai időkben is cselekedve született meg a theozófia és a modern gnózis, amely nem más, mint a zsidó pszichén átszűrt keleti vallásos érzés és filozófiai gondolkodás. A zsidóság, hogy érvényesülését biztosítsa, a világ művészeti elvét igyekszik lerántani arra a nívóra, amelyen viszont a zenével, művészet és irodalommal, színdarab és filmmel, egyszóval mind ama területtel, ahonnan nemcsak kiindulnak, hanem ahová össze is futnak azok a szálak, amelyek a világ bizonyos irányú megnevelésének mozgató kerekeit egybekapcsolják. Bizonyos hányavetiség és mélyebb érzés hiánya a jellemzője ezeknek a könnyű fajsúlyú, csak látszatra épített törekvéseknek. Ugyanez volt a fő jellemzője az első századbeli zsidó-keresztények ténykedésének is. Bizáncban a zsidó szülőktől származó [[E/Epiphanius\|Epiphanius]], míg Rómában az ugyancsak zsidó Kelemen püspök lettek a kerékkötői és egyben elgáncsolói is a helyes krisztusi vallásos irányzatnak.  { #cl66vo}
+> A [[S/Szemitizmus\|szemitizmus]] egyik alap karaktervonása, hol az utánzók jellegzetességével csak felszínen utánozzák a lelküktől idegen gondolatot, avagy művészi formákat. Ugyanezt cselekedték mindig vallási területen is. Az idegen népek vallási elveit és gondolatait saját céljaik érdeke szerint válogatták mindig össze. A mai időkben is cselekedve született meg a theozófia és a modern gnózis, amely nem más, mint a zsidó pszichén átszűrt keleti vallásos érzés és filozófiai gondolkodás. A zsidóság, hogy érvényesülését biztosítsa, a világ művészeti elvét igyekszik lerántani arra a nívóra, amelyen viszont a zenével, művészet és irodalommal, színdarab és filmmel, egyszóval mind ama területtel, ahonnan nemcsak kiindulnak, hanem ahová össze is futnak azok a szálak, amelyek a világ bizonyos irányú megnevelésének mozgató kerekeit egybekapcsolják. Bizonyos hányavetiség és mélyebb érzés hiánya a jellemzője ezeknek a könnyű fajsúlyú, csak látszatra épített törekvéseknek. Ugyanez volt a fő jellemzője az első századbeli zsidó-keresztények ténykedésének is. Bizáncban a zsidó szülőktől származó [[E/Epiphanius\|Epiphanius]], míg Rómában az ugyancsak zsidó Kelemen püspök lettek a kerékkötői és egyben elgáncsolói is a helyes krisztusi vallásos irányzatnak.
+{ #cl66vo}
 
 
 Bakos Attila A Duna Evangéliuma című könyvének 119. oldalán arról szól, hogy a szemita népek a sumér hagyományt lehúzták a saját materialista szintjükre.  
