@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arcturus/","title":"Arcturus","tags":["Englishtexttranslated"],"created":"2023-10-13T12:49","updated":"2026-03-05T01:47"}
+{"dg-publish":true,"permalink":"/A/Arcturus/","title":"Arcturus","tags":["Englishtexttranslated"],"created":"2023-10-13T12:49","updated":"2026-08-09T18:02"}
 ---
 
 
@@ -22,7 +22,8 @@ Internetes oldal anyaga:
 ...című könyvében Richard H. Allen Star Names című könyvének 101. oldalára hivatkozva írja:  
 > Al-Biruni mentioned Arcturus as "the Second Calf of the Lion," the star [[S/Spica\|Spica]] representing the First Calf. Allen states that this star has been identified with the Chaldeans' "Papsukal," the "Guardian Messenger," while according to Smith and Sayce, Arcturus was "the Shepherd of the Heavenly Flock," or "the Shepherd of the Life of Heaven," undoubtedly the Sib-zianna of the inscriptions. Strange to say the Eskimo title for the star, **Sibwudli**, has the same first syllable as the title of the Euphratean hieroglyphics.  
 > —  
-> Al-Biruni az Arcturust "az Oroszlán Második Borjaként" említette, a [[S/Spica\|Spica]] csillag pedig az Első Borjút képviselte. Allen azt állítja, hogy ezt a csillagot a káldeusok "Papsukal"-jával, az "Őrző Hírnökkel" azonosították, míg Smith és Sayce szerint az Arcturus "az égi nyáj pásztora", vagy "az Égi Élet Pásztora" volt, kétségtelenül a feliratok Sib-ziannája. Furcsa módon a csillag eszkimó elnevezése, **Sibwudli**, ugyanolyan első szótaggal rendelkezik, mint az eufráteszi hieroglifák címe.  { #qxeffx}
+> Al-Biruni az Arcturust "az Oroszlán Második Borjaként" említette, a [[S/Spica\|Spica]] csillag pedig az Első Borjút képviselte. Allen azt állítja, hogy ezt a csillagot a káldeusok "Papsukal"-jával, az "Őrző Hírnökkel" azonosították, míg Smith és Sayce szerint az Arcturus "az égi nyáj pásztora", vagy "az Égi Élet Pásztora" volt, kétségtelenül a feliratok Sib-ziannája. Furcsa módon a csillag eszkimó elnevezése, **Sibwudli**, ugyanolyan első szótaggal rendelkezik, mint az eufráteszi hieroglifák címe.
+{ #qxeffx}
 
 - Ami lehet véletlen, vagy bizonyíték magyar közös eredetre.
 
