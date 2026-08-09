@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Erdő/","title":"Erdő","tags":["containstransclusions"],"created":"2023-11-13T05:47","updated":"2026-04-24T09:38"}
+{"dg-publish":true,"permalink":"/E/Erdő/","title":"Erdő","tags":["containstransclusions"],"created":"2023-11-13T05:47","updated":"2026-08-09T17:59"}
 ---
 
 
@@ -40,8 +40,7 @@ Egyébként istentiszteleteit is erdőben (lásd Sir James Frazer The Golden Bou
 
 
 
-> Vajon igaz-e, hogy ugor, ugar, azaz magor vagy magyar őseink a földművelést éppen a hegyek között kecskenyájakat legeltető szláv, és az őserdőkben vadászó életmódot folytató germán népektől tanulták? Nem én, hanem a germán tudósok állítják, hogy **a germán név kelta eredetű, és erdei, erdőlakó értelem**mel bír. (Mayers lex. 1897 Germ.) Nem sajátságos-e tehát, hogy viszont törökül `orman` = erdő?  
-
+> Vajon igaz-e, hogy ugor, ugar, azaz magor vagy magyar őseink a földművelést éppen a hegyek között kecskenyájakat legeltető szláv, és az őserdőkben vadászó életmódot folytató germán népektől tanulták? Nem én, hanem a germán tudósok állítják, hogy **a germán név kelta eredetű, és erdei, erdőlakó értelem**mel bír. (Mayers lex. 1897 Germ.) Nem sajátságos-e tehát, hogy viszont törökül `orman` = erdő? 
 
 </div></div>
 
