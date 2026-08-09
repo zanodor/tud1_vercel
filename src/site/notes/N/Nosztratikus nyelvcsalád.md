@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2024-05-14T11:45","updated":"2026-07-03T23:12"}
+{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2024-05-14T11:45","updated":"2026-08-09T17:54"}
 ---
 
 
 # Nosztratikus nyelvcsalád
 
-![Nosztratikus nyelvcsalád_image20260406002327946.jpeg](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260406002327946.jpeg){ #uyumdd}
+![Nosztratikus nyelvcsalád_image20260406002327946.jpeg](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260406002327946.jpeg){ #uyumdd}
+
 
 
 A közös ősnyelv ([nosztratikus nyelvcsalád](https://hu.wikipedia.org/wiki/Nosztratikus_nyelvcsal%C3%A1d)) elmélet hirdetői szerint az uráli, dravida, altaji, indoeurópai és afroázsiai nyelvek távoli unokatestvérek.  
@@ -175,7 +176,8 @@ Merritt Ruhlen [weboldalán](https://archive.ph/v7VJH) írja:
 > > 1\. Kulturális megértés
 > > 2\. Tudományos kíváncsiság
 > > 
-> > A proto-világnyelv gondolata — akár bizonyítható, akár nem — az emberiség közös gyökreire és nyelvi sokszínűségére emlékeztet.{ #t7gzqr}
+> > A proto-világnyelv gondolata — akár bizonyítható, akár nem — az emberiség közös gyökreire és nyelvi sokszínűségére emlékeztet.
+{ #t7gzqr}
 
 
 #### Nagyernyei Szabó Zoltán...
@@ -192,7 +194,6 @@ Merritt Ruhlen [weboldalán](https://archive.ph/v7VJH) írja:
 > | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 > | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191129405.jpeg\|invert_light](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191129405.jpeg) | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191212374.jpeg\|fix_dark fix_light](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191212374.jpeg) | ![Magyar nyelv ősisége – ősnyelv-e a magyar_image20250818191308422.jpeg\|fix_dark fix_light](/img/user/M/assets/Magyar%20nyelv%20%C5%91sis%C3%A9ge%20%E2%80%93%20%C5%91snyelv-e%20a%20magyar_image20250818191308422.jpeg) |
 > 
-
 
 </div></div>
 
