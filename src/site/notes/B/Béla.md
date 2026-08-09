@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/B/Béla/","title":"Béla","tags":["containstransclusions"],"created":"2023-12-03T05:04","updated":"2026-07-30T02:39"}
+{"dg-publish":true,"permalink":"/B/Béla/","title":"Béla","tags":["containstransclusions"],"created":"2023-12-03T05:04","updated":"2026-08-09T14:05"}
 ---
 
 
 # Béla
 
-A `bjel`, `bjelo` fehérséget, szépséget jelentő szavak természetesen [[B/Bál\|Bál]] Napisten ragyogó minőségéből erednek, a palóc szócsoportba tartoznak, tehát nem szláv szavak.   
+A `bjel`, `bjelo` fehérséget, szépséget jelentő szavak természetesen [[B/Bál\|Bál]] Napisten ragyogó minőségéből erednek, a palóc szócsoportba tartoznak, tehát nem szláv szavak. A halványat jelentő [[P/Pale\|pale]] sem szláv.   
 
 Lehet beszélni a latin-olasz `bella` = szép jelentéséről is (vesd össze [[F/Flott\|flott]]). Hasonló a kapcsolat, mint a német `schön` = szép és az angol [[S/Shine\|shine]] és [[S/Sun\|Sun]] szavak között. [[B/Bél\|Bél]] és [[B/Bál\|Bál]] palóc Napisten fénye szépített mindenkit. A régiek kifinomultsága, szépérzéke összehasonlíthatatlan a mai viszonyokban tapasztaltakkal.  
 
