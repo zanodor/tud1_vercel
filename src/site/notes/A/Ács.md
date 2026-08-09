@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ács/","title":"Ács","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-05-29T14:33","updated":"2026-07-23T11:44"}
+{"dg-publish":true,"permalink":"/A/Ács/","title":"Ács","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-05-29T14:33","updated":"2026-08-09T17:56"}
 ---
 
 
@@ -90,8 +90,7 @@ Az "abovementioned items in the word groups" ezek voltak, angol jelentésekkel (
 
 
 
-> Egykoron a szóvégi mássalhangzó után ejtettek egy magánhangzót is. Például utu (út), kezi (kéz), veri (vér). A szóvégi magánhangzó vagy kiesett, vagy v-vé vált. Például a régi lou-ból lett a lov és a ló szó. Ilyen a nedű (nedu)-nedv, hamu-hamv szó is. S ahogyan nedu-ból nedv, úgy nadu-ból nadv lett. Nagyúr tehát eredetileg nadu-úr volt, s ebből lett a nadvor. Mint például hamu-oz > hamv-az, könyü-et > könyv-et. Az efféle kiejtési változás is sajátosan magyar jellegzetesség.  
-
+> Egykoron a szóvégi mássalhangzó után ejtettek egy magánhangzót is. Például utu (út), kezi (kéz), veri (vér). A szóvégi magánhangzó vagy kiesett, vagy v-vé vált. Például a régi lou-ból lett a lov és a ló szó. Ilyen a nedű (nedu)-nedv, hamu-hamv szó is. S ahogyan nedu-ból nedv, úgy nadu-ból nadv lett. Nagyúr tehát eredetileg nadu-úr volt, s ebből lett a nadvor. Mint például hamu-oz > hamv-az, könyü-et > könyv-et. Az efféle kiejtési változás is sajátosan magyar jellegzetesség. 
 
 </div></div>
 
