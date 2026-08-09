@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dad/","title":"Dad","tags":["Englishtexttranslated"],"created":"2024-04-25T12:55","updated":"2026-03-05T01:44"}
+{"dg-publish":true,"permalink":"/D/Dad/","title":"Dad","tags":["Englishtexttranslated"],"created":"2024-04-25T12:55","updated":"2026-08-09T18:00"}
 ---
 
 
@@ -27,7 +27,8 @@ Lásd még érdekességképpen a PAESZ táblázatot.
 > Egyiptomban Thot hímmé lett, de eredetileg az összes Tejút-isten istennő volt, mint a Magyar, amely az indoeurópai nyelvekben Madar (Anya) lett, utalva a kozmikus anyára, aki a téli napfordulón szüli a Nap-gyermeket (az angol nyelvben a Fiú (Son) a Napot jelentő (Sun) szóval azonos alakú).  
 > Valószínűleg rájöttek, és fontos tudni, hogy a ma beszélt szavak többsége vallási szó, amely különböző idők során megváltozott. A héber szó esetében látni fogjuk, hogy egy új szemantikai változat mögött egy kis fonológiai változás állt.  
 > A Ta-Ta alapszóforma és változatai alapvetően minden ismert nyelvcsaládban megtalálhatók. A Tata mögött meghúzódó alapvető gondolat nem az ősi származás (általában szülő vagy nagyszülő, míg a magyarban `déd` = déd/apa/anya), hanem a feljebb valóság (magasabb státuszban lenni; hasonlítsd össze ezt a szóformát a finn **Tähti** és az észt **Taht** = Sarkcsillag (a csillag jelentés ebből a névből származik) és az indoeurópai nyelvekben a tetőt jelentő szavakkal, mint amilyen a magyar `tető`). Akinek magasabb a státusza (mint Isten, akiről azt gondolják, hogy a Sarkcsillagban van a mennyei lakhelye), annak több tudása van. Hasonlítsd össze a magyar `tátos`/`táltos` = a régi rend papja (nem sámán) és a magyar `tud` = tud, valamint a héber `daath` = tudás (amelyből az újonnan alkotott vallás szó, a `dat` származik).  
-> A mai világban az apa és a nagypapa nem feltétlenül tud többet/jobban, mint az utódai. Az információs csatornák rossz kezekben vannak, az új ([[H/Halak korszak\|Halak korszak]]a/Sátán) rend "papjai" kezében. **A héberek már eltűntek, de azoknak, akik a nyelvük modern változatát beszélik, vallása nem a tudáson, hanem az archaikus forrásokból vett szövegek elferdítésén alapul.**  { #8inbqy}
+> A mai világban az apa és a nagypapa nem feltétlenül tud többet/jobban, mint az utódai. Az információs csatornák rossz kezekben vannak, az új ([[H/Halak korszak\|Halak korszak]]a/Sátán) rend "papjai" kezében. **A héberek már eltűntek, de azoknak, akik a nyelvük modern változatát beszélik, vallása nem a tudáson, hanem az archaikus forrásokból vett szövegek elferdítésén alapul.**
+{ #8inbqy}
 
 - Itt még említhetjük az [[A/AB\|AB]]/[[A/Apa\|Apa]] azonosságát a germán [[U/Up\|up]] szóval.
 
@@ -36,7 +37,8 @@ Arról is lehet szólni, hogy különösen (nem a [[T/TAT\|tat]], hanem) a [[T/T
 #### Kállay Ferenc A pogány magyarok vallása...
 
 ...című könyvében is az alábbi alakok mind felmenőt jelentenek (és egyúttal a [[P/Pap\|pap]] is a [[P/Papa\|papa]] névvel azonosul):  
-> A mi a kurd `dedés` papok nevét illeti tudni kell, hogy a tata (= atya) szónak csak módosítása a dada. Dada magyarul vén asszonyt, `dadé` vén embert jelent. Molnár Albertben agg dáda is van. Kresznericsben `déd` = avus, déd-ös atavus, déd-ük, atavia, Molnár Albertre hivatkozva, Dadas, Déd, Deda, Déde s nevü helyeket ugyancsak Kresznerics elő sorozza. ([Lásd 64. old.](zotero://open-pdf/library/items/DFI47XPY?page=64&annotation=U7LSQLQT))  { #fb2axs}
+> A mi a kurd `dedés` papok nevét illeti tudni kell, hogy a tata (= atya) szónak csak módosítása a dada. Dada magyarul vén asszonyt, `dadé` vén embert jelent. Molnár Albertben agg dáda is van. Kresznericsben `déd` = avus, déd-ös atavus, déd-ük, atavia, Molnár Albertre hivatkozva, Dadas, Déd, Deda, Déde s nevü helyeket ugyancsak Kresznerics elő sorozza. ([Lásd 64. old.](zotero://open-pdf/library/items/DFI47XPY?page=64&annotation=U7LSQLQT))
+{ #fb2axs}
 
 - Hömpölyögnek tovább a sorok, több oldalon keresztül, a 61. oldalon szereplő lábjegyzetes adatokkal, ahol már másféle szavak is lesznek.
 
