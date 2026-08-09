@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2026-05-21T04:55"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2026-08-09T17:47"}
 ---
 
 
@@ -174,8 +174,8 @@ Marha szavunk hihetetlen sok ideában megjelenik.
 A Sirius in Ancient Greek and Roman literature című cikkben fejtegetik, hogy a görög-római mitológia **Maira** nevű (nimfa)alakja Szíriuszra utalóan jön elő. Nos, a maoriknál is Szíriusz neve Mere is, illetve M-R vázú, fényes jelentésű szavakat láttunk bőven. Okunk lehet tehát feltételezni, mivel a [[S/Szuka\|szuka]] a Tejút és a kutya egyben (ahogy [[G/Göd\|Göd]] címnél is ezt taglaltuk), hogy a Mária és a Maira nevek egy és ugyanazok. Ami a cikkből ide tehető:  
 > Sirius in the annual period from its heliacal rising to 22 August was also called 'Maira', a word coming from the ancient Greek verb `marmairo`, which means 'to shine' (Palatine or Greek Anthology, 1917, 9: 55). As a name, Maira (or Maera) therefore became the star-goddess of the scorching dog-star Seirios, whose rising in conjunction with the Sun brought on the scorching heat of midsummer.  
 > —  
-> A Szíriuszt a heliákus kelésétől augusztus 22-ig tartó éves időszakban "Maira"-nak is nevezték, amely szó az ógörög `marmairo` igéből származik, ami azt jelenti, hogy "ragyogni" (Palatinus vagy Görög Antológia, 1917, 9: 55). Maira (vagy Maera) mint név tehát a perzselő kutya-csillag, Seirios csillagistennője lett, akinek a Nappal együtt történő felkelése a nyár közepének perzselő hőségét hozta el.  { #j3fmio}
-
+> A Szíriuszt a heliákus kelésétől augusztus 22-ig tartó éves időszakban "Maira"-nak is nevezték, amely szó az ógörög `marmairo` igéből származik, ami azt jelenti, hogy "ragyogni" (Palatinus vagy Görög Antológia, 1917, 9: 55). Maira (vagy Maera) mint név tehát a perzselő kutya-csillag, Seirios csillagistennője lett, akinek a Nappal együtt történő felkelése a nyár közepének perzselő hőségét hozta el.
+{ #j3fmio}
 
 
 [[E/Eire\|Eire]] címnél felemlítettük, hogy mi lenne, ha Mária nem a [[M/Marha\|marha]] szavunkból eredne mégsem, hanem az "[[A/Árja\|árja]]" (levegő) ajakhang-előtételezése lenne. Illetve valójában pont arról volt szó, hogy mi lenne, ha a Mária lenne a kiinduló oda.  
