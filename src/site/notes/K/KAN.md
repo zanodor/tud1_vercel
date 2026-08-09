@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2026-07-30T02:37"}
+{"dg-publish":true,"permalink":"/K/KAN/","title":"KAN","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2025-05-29T22:45","updated":"2026-08-09T17:49"}
 ---
 
 
@@ -186,8 +186,7 @@ Az [alábbi](https://en.wikipedia.org/wiki/Cherokee_spiritual_beliefs) oldalon e
 
 
 
-> Ugyanezen gyan, gyon szótövünknek azonban még felhangos kiejtése is volt, amely a mai jön, jönni, jő, jőni igénkben is fönnmaradott, és amelynek tájszólásokban gyön, gyűn, gyönni, gyünni alakjai is élnek, és mind amely szavak egyrészt a termékenyítő ondó kifolyására s a nemzésre, de másrészt minden kifolyásra, ki származásra és eredetre, eredésre is vonatkoztatva azután a nőre is mint szülőre, azaz tehát szintén nemzőre, is alkalmaztattak. Hozzáteendő ezekhez, hogy jenő, gyenő valamint a Jenő személynév értelme is nemző, azaz eredő, származtató volt, ami a görög és latin `genezisz`, `gente`, `geino`, `gono`, `genus`, `genero` szavak eredetét is képezte, amelyek értelme szintén, nemzés, szülés, kiszármazás, eredtetés; csakhogy e nyelvekben mind e szavak legrégibb értelme: a folyás, kifolyás jelentés már nincsen meg.  
-
+> Ugyanezen gyan, gyon szótövünknek azonban még felhangos kiejtése is volt, amely a mai jön, jönni, jő, jőni igénkben is fönnmaradott, és amelynek tájszólásokban gyön, gyűn, gyönni, gyünni alakjai is élnek, és mind amely szavak egyrészt a termékenyítő ondó kifolyására s a nemzésre, de másrészt minden kifolyásra, ki származásra és eredetre, eredésre is vonatkoztatva azután a nőre is mint szülőre, azaz tehát szintén nemzőre, is alkalmaztattak. Hozzáteendő ezekhez, hogy jenő, gyenő valamint a Jenő személynév értelme is nemző, azaz eredő, származtató volt, ami a görög és latin `genezisz`, `gente`, `geino`, `gono`, `genus`, `genero` szavak eredetét is képezte, amelyek értelme szintén, nemzés, szülés, kiszármazás, eredtetés; csakhogy e nyelvekben mind e szavak legrégibb értelme: a folyás, kifolyás jelentés már nincsen meg. 
 
 </div></div>
   
