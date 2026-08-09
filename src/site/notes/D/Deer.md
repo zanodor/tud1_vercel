@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2026-06-22T17:45"}
+{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2026-08-09T17:54"}
 ---
 
 
@@ -29,8 +29,7 @@ Ezen a ponton felmerül, hogy ha az [[U/UR\|UR]] és [[U/Urgula\|Urgula]] címn�
 > —  
 > A *simsumara* krokodil (vagy makara) feje akár a galaxismag kidudorodásának a sötét hasadékszerű szájjal rendelkező kiöblösödő része is lehet.  
 > ...  
-> A közvetlen asszociáció tehát egy szülőhelyre vonatkozik. Guénon és Coomaraswamy egyaránt a *kalamukhát* azonosítja a szülő- és felemésztővel, és a Bakba (valójában a Nyilasba) helyezi. Korábban említettem, hogy a `makara` vagy `mukha` csillagászati utalása valószínűleg a Tejútrendszerben lévő sötét hasadékra vonatkozik, amelyet a maják szintén szörnyszájként azonosítanak. A védikus *simsumara* krokodil rokon szörnyszája felfelé néz, és felfal minden gyanútlan keresőt, megakadályozva őket abban, hogy átlépjenek az általa őrzött Nyilas-kapun.  
-
+> A közvetlen asszociáció tehát egy szülőhelyre vonatkozik. Guénon és Coomaraswamy egyaránt a *kalamukhát* azonosítja a szülő- és felemésztővel, és a Bakba (valójában a Nyilasba) helyezi. Korábban említettem, hogy a `makara` vagy `mukha` csillagászati utalása valószínűleg a Tejútrendszerben lévő sötét hasadékra vonatkozik, amelyet a maják szintén szörnyszájként azonosítanak. A védikus *simsumara* krokodil rokon szörnyszája felfelé néz, és felfal minden gyanútlan keresőt, megakadályozva őket abban, hogy átlépjenek az általa őrzött Nyilas-kapun. 
 
 </div></div>
 
