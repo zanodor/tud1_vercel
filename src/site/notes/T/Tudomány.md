@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2026-07-18T22:48"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2026-08-09T14:03"}
 ---
 
 
@@ -200,6 +200,7 @@ Ha [[C/Columbus\|Columbus]] nem tudta (dehogynem) vagy Nyugat-Európa nem tudta,
 A nyelvészet által diktált tudományosságnál maradva, **finnugrista kommunista buta felfogás** a sehonnan származtatható [[M/Magyar nyelv ismeretlen eredetű szavai\|magyar szavakat ismeretlen eredetűnek]] besorolni. Számára ismeretlen, mert nem ér fel arra a szintre, hogy pl. egy [[T/Tölgy\|tölgy]] szót értelmezni tudjon.  
 
 **Zsidó-centrista felfogás**, és ezzel a zsidó-keresztények számára érvényessé tett felfogás, hogy [[B/Bál\|Baal]] mellett [[N/Nimrud\|Nimród]] is ellenséges, utóbbi "Isten" ellen harcolt; csakhogy nem az egyetemes Isten volt az, hanem [[J/Jahve\|Jahve]], a zsidó "isten", keresztény/szkíta-keresztény szempontból a [[S/Sátán\|Sátán]].  
+A [[M/Messiás\|messiás]] mivoltának megítélése zsidó részről megint baklövés, hiszen azért várják a messiást, mert nem tudják mi az.  
 Egy másik idevehető zsidó téma, hogy pont a zsidó isten hozza a(z egyébként is egyiptomi eredetre visszavezetett) [[T/Tízparancsolat\|Tízparancsolat]]ot – ráadásul a legmocskosabb korban, helyen és negációkban. Azaz amíg a "Szentírás"-ban nem jelenik meg a "Ne ölj" és más, ún. [[T/Tízparancsolat\|Tízparancsolat]]ban is leközölt "isteni" utasítás, parancs, addig ezek szerint *mindenki mindenhol* olyan barbár módra élt volna, mint az isteni teremtést követő ember által végzett munkát megunva, a sátáni lebontó erőt követendő példának tartva, rablásra és uzsorára berendezkedett ószövetségi népek (már a szemitizmusra térve).  
 (A messiás fogalmát tekintve, nem fogadja el a keresztények Jézusát, az univerzális messiást, neki saját messiása lesz, és ha lesz, az a keresztény felfogásban az [[A/Antikrisztus\|Antikrisztus]] lesz. Tehát ahogy [itt](https://www.youtube.com/watch?v=1Z-4ngllJmw&t=3999) is mondom, Jahvét univerzális istenné tették a judeo-keresztények számára, de a zsidók nem fogadják el Jézust messiásukként.)  
 
@@ -243,7 +244,10 @@ A magyaroknál maradva, néhány példa.
 Mindenkivel előfordul, nemcsak a dilettánsoknál, hanem a tudományt művelők körében is. (Így velem is, de én legalább felismerem, hogy van mire odafigyelni.)  
 Az extrapoláció a kevés adatból általánosítás jelensége.  
 Ha teszem azt, életemben minden általam megismert Zsuzsi vagy Orsi szőke kövérkés (de legalábbis nem vékony testalkatú) volt, akkor tudat alatt az ülepszik le, hogy minden Zsuzsi és Orsi olyan, mint amilyennek megismertem őket. Ha szembe jön egy filigrán brünett és Orsiként mutatkozik be, akár azt is mondhatom, "Orsi? A neved nem lehet Orsi!"  
-Valahogy így működik a tudomány is. Főleg a magyar (és sumér) tabut kikerülő tudomány, amely olyan prekoncepciók alapján, olyan önkorlátozó eljárás szerint működik, amely mindent a maga javára ír fel, még ha kevés bizonyíték is áll rendelkezésre (akkor majd csúsztat).  
+Valahogy így működik a tudomány is. Főleg a magyar (és sumér) tabut kikerülő tudomány, amely olyan prekoncepciók alapján, olyan önkorlátozó eljárás szerint működik, amely mindent a maga javára ír fel, még ha kevés bizonyíték is áll rendelkezésre (akkor majd csúsztat és már eleve az az eljárás, hogy a kívánt végeredményhez alakítják a bizonyítékokat).  
+> [!lasdmeg] &nbsp;
+> > [!Lásdmég] Lásd még &nbsp;
+> > A **megerősítési torzítás** (vagy más néven konfirmációs torzítás) egy kognitív torzítás, amely során az emberek hajlamosak előnyben részesíteni, keresni, értelmezni és felidézni olyan információkat, amelyek megerősítik meglévő hiedelmeiket vagy hipotéziseiket, miközben figyelmen kívül hagyják vagy elvetik azokat az információkat, amelyek ellentmondanak nekik. Bővebb információ a Wikipédia oldalon: [Megerősítési torzítás](https://hu.wikipedia.org/wiki/Meger%C5%91s%C3%ADt%C3%A9si_torz%C3%ADt%C3%A1s).
 
 ## Tudományok valláspolitikai befolyásoltsága
 
@@ -386,6 +390,18 @@ Nehéz megbotránkoztatóbb állítással előállni tudományos körökben, min
 ...című az Ősi Gyökér 2018/1-2. sz. megjelent cikkében fel is sorolja a hozzá hasonló kutatókat érő vádakat:  
 > A partvonalról azonnal megszólalt az ellentábor, és gyakran útszéli stílusban, lehengerlő bekiabálásaikkal ízekre szedték az esetleg hely szűkében ismertetett értékes gondolatokat. *Tudatlansáááág*, *dilettantizmuuuus*, *félrevezetéééés*, *délibábos népbutítáááás*, a nemzeti tudat kóros elferdítése..., na meg a szerzők ideggyógyászati kezelésre utalása, sőt az MTA megrovó véleménye mellett, az akkor érvényes büntetőjogi törvénycikkek felsorakoztatása volt a válasz.  
 > Ugyanakkor az elődök tapasztalata alapján kiderült, hogy ezen az úton nem lehet az ellenfelek akadályait, az elhallgatást, a megbélyegzést, a terjesztés nehézségeit, a tilalomfákat áthidalni.  
+
+### Délibábos magyarok
+
+A délibábos címkéről volt szó [[T/Turáni népek\|turáni népek]] és más helyen is.  
+Tulajdonképpen a szokásos vád az, hogy egy-egy szó hasonlítással, sőt, a magyar nyelv javára írással könnyed módon hasonlítgató laikusok, délibábosok kizárólag a **felszíni hasonlóságra** építenek.  
+Csakhogy a nyelvtudományban a véletlen egybeesés nem jelent rokonságot, hiszen a nyelvészek megfontoltan alapoznak hangtörvényes változásokra.  
+> [!lasdmeg] &nbsp;
+> > [!example] &nbsp;
+> > Mint az a [[B/Budenz József\|Budenz]], aki sokszor olyan szavakat hozott ki rokonnak a finnugor nyelvekből, amelyek jelentése vagy hangzása a laikus – és ahogy nyilvánvalóan a közömbös felek – számára fényévnyire volt egymástól.
+> 
+> > [!caution] &nbsp;
+> > Tehát a vád hasonló, mint amikor összeesküvés elméletet kiáltanak, de nekik a [megerősítési torzítás](https://hu.wikipedia.org/wiki/Meger%C5%91s%C3%ADt%C3%A9si_torz%C3%ADt%C3%A1s)aik elfogadandók.
 
 Lásd még [[M/Megtévesztés\|megtévesztés]] és [[T/Történelemhamisítás\|történelemhamisítás]].  
 
