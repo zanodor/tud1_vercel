@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2026-05-29T22:41"}
+{"dg-publish":true,"permalink":"/H/Hold/","created":"2023-10-14T05:35","updated":"2026-08-09T20:04"}
 ---
 
 
@@ -91,7 +91,8 @@ Ki kell azt is jelenteni, hogy a [[K/Kutya\|kutya]] (kuta) és Hold szavaink ugy
 
 > ...a XIV. századbeli isiandi mondát is, hogy Hulda nevű igéző asszony Odhinnak kedvese volt. ([Lásd 245. old.](zotero://open-pdf/library/items/DFI47XPY?page=245&annotation=Q67MMELC))
 >
-> Odhin Grimm német mythologiájában a legnagyobb égi isten, milyen volt a görög Zeus, a latin Jupiter, a nap az ő szeme, a görögök is a napot Zeus szemének tárták, a pársusok Ormuzd szemének, ha már Hulda v. Holda Odhin kedvese volt, ugy az a nap s hold összeházasítása csak, miért a hold nevei is sok nyelvben nőneműek. A zend könyvekben a *hold mindig nőnemű, mely a naptól kölcsönöz fényt*, a Mithrában megtestesült Ormuzd azért férfinemü, milyen volt Osiris is Egyiptomban = napisten, Isis = hold nőnemű, regina Isis Apulejusban. Ez androgynisch eszmét, mely a phallus tiszteletére elfajult, Déli-Ázsiában mindenütt nyomozhatni, mint a terhesités és szülés vallásos elvét, ellentétben az északázsiaival, vagy scytha földi vallással, mely a természeti erőket tisztelte ugyan, de nembeli különbségeknek, összeházasitásoknak helyt nem adott, miért is némely északi nyelvekben, épen ugy mint a magyarban hiányzanak a névelők, melyek a nem-különbséget megtudatják. ([Lásd 245. old.](zotero://open-pdf/library/items/DFI47XPY?page=245&annotation=X4CBQ6ZY)){ #DFI47XPY-X4CBQ6ZY}
+> Odhin Grimm német mythologiájában a legnagyobb égi isten, milyen volt a görög Zeus, a latin Jupiter, a nap az ő szeme, a görögök is a napot Zeus szemének tárták, a pársusok Ormuzd szemének, ha már Hulda v. Holda Odhin kedvese volt, ugy az a nap s hold összeházasítása csak, miért a hold nevei is sok nyelvben nőneműek. A zend könyvekben a *hold mindig nőnemű, mely a naptól kölcsönöz fényt*, a Mithrában megtestesült Ormuzd azért férfinemü, milyen volt Osiris is Egyiptomban = napisten, Isis = hold nőnemű, regina Isis Apulejusban. Ez androgynisch eszmét, mely a phallus tiszteletére elfajult, Déli-Ázsiában mindenütt nyomozhatni, mint a terhesités és szülés vallásos elvét, ellentétben az északázsiaival, vagy scytha földi vallással, mely a természeti erőket tisztelte ugyan, de nembeli különbségeknek, összeházasitásoknak helyt nem adott, miért is némely északi nyelvekben, épen ugy mint a magyarban hiányzanak a névelők, melyek a nem-különbséget megtudatják. ([Lásd 245. old.](zotero://open-pdf/library/items/DFI47XPY?page=245&annotation=X4CBQ6ZY))
+{ #DFI47XPY-X4CBQ6ZY}
 
 - Egy Quora válaszban hasonlóan írtam erről. Arról, hogy minden [[N/Nemek\|nem]]re vonatkozó megkülönböztetés alapja a Nap és Föld/Hold hím- és nőiséginek vétele.
 
