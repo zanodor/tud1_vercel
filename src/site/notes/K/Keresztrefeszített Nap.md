@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Keresztrefeszített Nap/","title":"Keresztrefeszített Nap","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-13T03:43","updated":"2026-06-22T17:48"}
+{"dg-publish":true,"permalink":"/K/Keresztrefeszített Nap/","title":"Keresztrefeszített Nap","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-13T03:43","updated":"2026-08-09T17:56"}
 ---
 
 
@@ -62,8 +62,7 @@ A négyes tagolásra lehet egyszerűen úgy tekinteni, hogy a Tejút 25920 éven
 > The custom of dressing the paschal lamb in the shape of a cross is referable to the same myth.  
 > —  
 > A keresztre feszítésnek is lehetett asztrális eredete; mert egy csillagászati térképen a **Nap láthatóan keresztre van feszítve az egyenlítő és az ekliptika metszésvonalán** az alsó féltekére, a sötétség és a halál féltekéjére való leszállása pillanatában; és ugyanígy van a fény és az élet féltekéjére való feltámadása pillanatában is; míg az átvonulás időtartama [[H/Három nap\|három nap]]. A Napot természetesen már jóval azelőtt imádták, hogy a hét arkhón egyikévé vált volna. Abban az időben, amikor a Napisten halálának mítosza keletkezett, a Napot, amely a tavaszi napéjegyenlőség idején a Kos csillagképben volt, a Kossal azonosították. Ez az a Bárány, amely "a világ megalapítása óta meg volt öletve".  
-> Ugyanerre a mítoszra utal az a szokás, hogy a húsvéti bárányt kereszt alakban dresszingelik.  
-
+> Ugyanerre a mítoszra utal az a szokás, hogy a húsvéti bárányt kereszt alakban dresszingelik. 
 
 </div></div>
 
