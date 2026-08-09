@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Turul/","created":"2024-12-18T11:38","updated":"2026-08-09T17:45"}
+{"dg-publish":true,"permalink":"/T/Turul/","title":"Turul","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2024-12-18T11:38","updated":"2026-08-09T18:45"}
 ---
 
 
@@ -403,8 +403,7 @@ Még a nemez- és lótakarós témára visszatérve. Ugyan a [[S/Szakrális kett
 Ugyanilyen relációban hozza fel a paziriki nemezrátét-ábrázolást Wohlfart Zoltán A Maros (Nap) és az Olt (Hold) c. az Ősi Gyökér 2018/1-2. sz. megjelent cikkében (nála a griffmadár a Nap, a szarvas Hold, ráadásul hím; a kép miatt teszem ide leginkább).  
 A lényeg tehát a fogalmak összetartozása: (az akkádban a Bakra utaló) Magur pedig tudjuk, [[M/Makar\|Makar]] és [[M/Makara\|Makara]] címnél is szóltunk róla, hogy a Bakban születendő Nap neve vitetett át ilyen-olyan Baknak megfelelő jelentésű nevekbe az akkádban és az indben, ahogy azt is tudjuk, hogy a Bak [[S/Szarvas csillagkép\|Szarvas csillagkép]] volt (még az angol [[B/Buck\|buck]] szó is ennek állít emléket).  
 
-![assets/Turul_image25.jpg|840](/img/user/T/assets/Turul_image25.jpg)  { #260420}
-
+![assets/Turul_image25.jpg|840](/img/user/T/assets/Turul_image25.jpg)  { #260420}
 
 
 A második képen tehát a Pazirikből előkerült nyeregtakarón is a Turul és Csudaszarvas nászát láthatjuk, ahol a két állat mitikus, ahogy Kubínyi Tamás is mondja, de míg a Turult a Napból érkező teremtő erőként való megjelölésével végül is nem lő mellé, a szarvast már nem tudja csillagászati-kozmikus keretek közé helyezni.  
@@ -474,7 +473,7 @@ A bizonyíték ezen kívül számára úgy tűnik, már csak annyi, hogy az Sas 
 
 Szavak útján is kimutatható.
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/T/Turul/#rve4i2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
