@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Boil/","title":"Boil","tags":["containstransclusions"],"created":"2023-11-21T01:58","updated":"2026-06-22T17:55"}
+{"dg-publish":true,"permalink":"/B/Boil/","title":"Boil","tags":["containstransclusions"],"created":"2023-11-21T01:58","updated":"2026-08-09T18:06"}
 ---
 
 
@@ -15,8 +15,7 @@ Forr, forral. Kelést, furunkulust is jelent, amely egy kellemetlen, égő érz�
 
 
 
-> A latin-olasz `bullire`, `bollire` = főlni (főni). A víz avagy más folyadék amidőn fől (avar szóval: forr, avagy főr), valóban gömbölyded gőzhólyagokat vet. Fől, főzés szavaink egyébként hő = melegség, hőség szavunkkal is összefügg. Mi már láttuk, hogy ősnyelvünkben az ő magánhangzó magas hőfok, hőség kifejezője volt, az i pedig hidegségé.  
-
+> A latin-olasz `bullire`, `bollire` = főlni (főni). A víz avagy más folyadék amidőn fől (avar szóval: forr, avagy főr), valóban gömbölyded gőzhólyagokat vet. Fől, főzés szavaink egyébként hő = melegség, hőség szavunkkal is összefügg. Mi már láttuk, hogy ősnyelvünkben az ő magánhangzó magas hőfok, hőség kifejezője volt, az i pedig hidegségé. 
 
 </div></div>
 
