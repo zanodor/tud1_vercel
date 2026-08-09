@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2026-05-04T18:05"}
+{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2026-08-09T17:48"}
 ---
 
 
@@ -37,7 +37,8 @@ Folytassuk azzal, ami [[N/Nő és férfi\|nő és férfi]] címnél is szerepelt
 ...című A. Crowley anyagát feldolgozó könyvében is szó van erről:  
 > The Draconians, or Typhonians, oblivious of the role of the male in the biological mysteries of procreation, had worshipped the whore and her bastard who were ages later typified as the Virgin and Child.  
 > —  
-> A drakóniaiak vagy tifóniak, akik nem ismerték a férfi szerepét a nemzés biológiai misztériumában, a szajhát és fattyát imádták, akiket évszázadokkal később Szűzként és Gyermekként tipizáltak.  { #8yzjci}
+> A drakóniaiak vagy tifóniak, akik nem ismerték a férfi szerepét a nemzés biológiai misztériumában, a szajhát és fattyát imádták, akiket évszázadokkal később Szűzként és Gyermekként tipizáltak.
+{ #8yzjci}
 
 
 Baráth Tibor A magyar népek őstörténete című könyve I. kötetének 142. oldalán is szó esik erről.  
@@ -115,7 +116,8 @@ A Bognár Ferenc nyomán is a több helyen beígért,...
 > Európában eleinte nem voltak az Istennővel kortárs férfi istenek, akik megkérdőjelezhették volna tekintélyét vagy hatalmát, de volt egy szeretője, aki felváltva volt a Bölcsesség jótékony kígyója és az Élet jótékony csillaga, a fia. A Fiú az általa uralt különböző totemtársadalmak férfi démonaiban testesült meg, akik segédkeztek a tiszteletére rendezett erotikus táncokban. A Kígyó a szent kígyókban testesült meg, amelyek a halottak szellemei voltak, és a szeleket küldték. A Fiú, akit Lucifernek vagy Phosphorusnak ("fényhozónak") is neveztek, mert esti csillagként a Hold fényét vezette, minden évben újjászületett, az év előrehaladtával felnőtt, elpusztította a Kígyót, és elnyerte az Istennő szeretetét. Szerelme elpusztította őt, de hamvaiból egy másik Kígyó született, amely húsvétkor lerakta a glain vagy piros tojást, amelyet az Istennő megevett; így a Fiú ismét gyermekként született újjá számára. Ozirisz csillag-fiú volt, és bár halála után kígyóként hurkolta körbe a világot, mégis, amikor ötven méter hosszú falloszát körmenetben vitték, egy aranycsillaggal \[ezen rész [[I/Íj csillagkép\|Íj csillagkép]] címnél is szerepelt\] volt a tetején; ez jelentette önmagát megújulva, mint a Gyermek Hórusz, Ízisz fia, aki egyszerre volt a menyasszonya és a eltemetője, és most újra az anyja volt. Abszolút hatalmát a "Vad dolgok úrnője" tiszteletére évente megrendezett holokauszt bizonyította, amelynek során minden társadalom totemmadarát vagy -állatát élve elégették.  
 > Az égei-tengeri vallás legismertebb ikonja tehát egy gyümölcsfa alatt csoportosuló Hold-asszony, egy csillag-fiú és egy bölcs, pettyes kígyó: Artemisz, Herkules és Erechtheusz. A Csillag-fiú és a Kígyó harcban állnak egymással; a Hold-asszony kegyében egyik a másikat követi, ahogy a nyár a telet, a tél a nyarat; ahogy a halál a születést, a születés a halált. A Nap gyengül vagy erősödik, ahogy az év halad, a fa ágai hol megrakottak, hol csupaszok, de a Hold fénye változatlan. Pártatlan: egyforma szenvedéllyel pusztít vagy teremt.  
 > Az ikrek közötti konfliktus zseniális fordulatot vesz a Kilhwych és Olwen románcában: Gwyn ("Fehér") és riválisa, Gwythur ap Greidawl ("Victor, Scorcher fia") örökös háborút vívtak Creiddyladért (más néven Cordelia), Lludd (más néven Llyr, más néven Lear, más néven Nudd, más néven Nuada, más néven Nodens) lányáért, és mindketten sorra ellopták őt a másiktól, amíg az ügyet Arthur király elé nem vitték. Ő azt az ironikus döntést hozta, hogy Creiddyladot vissza kell adni az apjának, és hogy az ikrek "harcoljanak érte minden május elsején, a végzet napjáig", és hogy amelyikük akkor győzedelmeskedik, az tartsa meg őt.  
-> Még nincsenek atyák, mert a Kígyó éppúgy nem atyja a Csillag-fiúnak, mint ahogy a Csillag-fiú nem atyja a Kígyónak. Ők ikrek, és itt visszatérünk az egyetlen költői témához. A költő azonosítja magát a Csillag-fiúval, gyűlölt riválisa a Kígyó; csak ha szatirikusnak ír, akkor játssza el a Kígyót. A hármas múzsa a nő a maga isteni mivoltában: a költő varázslónője, dalainak egyetlen témája. Nem szabad elfelejteni, hogy egykor maga Apollón is a Kígyó áldozata volt: Püthagorasz ugyanis Delphoi sírjára feliratot vésetett, amely a helyi pitonnal vívott harcban bekövetkezett halálát örökíti meg - azzal a pitonnal, amelyet általában úgy véltek, hogy egyenesen megölt.  { #smo7av}
+> Még nincsenek atyák, mert a Kígyó éppúgy nem atyja a Csillag-fiúnak, mint ahogy a Csillag-fiú nem atyja a Kígyónak. Ők ikrek, és itt visszatérünk az egyetlen költői témához. A költő azonosítja magát a Csillag-fiúval, gyűlölt riválisa a Kígyó; csak ha szatirikusnak ír, akkor játssza el a Kígyót. A hármas múzsa a nő a maga isteni mivoltában: a költő varázslónője, dalainak egyetlen témája. Nem szabad elfelejteni, hogy egykor maga Apollón is a Kígyó áldozata volt: Püthagorasz ugyanis Delphoi sírjára feliratot vésetett, amely a helyi pitonnal vívott harcban bekövetkezett halálát örökíti meg - azzal a pitonnal, amelyet általában úgy véltek, hogy egyenesen megölt.
+{ #smo7av}
 
 - Ezen rész [[S/Sárkány\|sárkány]] címnél is szerepelt.
 
@@ -148,8 +150,7 @@ Graves később a fentiek lényegét összefoglalja (a múzsákra hegyezi ki, de
 > Ezután a Mennydörgés-isten (egy lázadó, a keleti patriarchalizmustól megfertőzött Csillag-fiú) udvarol neki, és ikrei születnek tőle, egy férfi és egy nő - a walesi költészetben Merddin és Olwen néven. Ő marad a varázslás istennője, de szuverenitásának egy részét, különösen a törvényhozás és az eskü tanúságtétele terén, átadja a Mennydörgés-istennek.  
 > Ezután megosztja a költői varázslás hatalmát ikrei között, akiknek szimbóluma a hajnalcsillag és az esthajnalcsillag, a női iker maga a hanyatlóban lévő, a férfi pedig a Csillag-fiú újjáéledése.  
 > Ezután számában megnövekszik, bár hatalmában csökken, és kilenc kis részleg istennőből álló, az ihlet kis istennőjévé válik, akik a korábbi férfi ikertestvér gyámsága alatt állnak.  
-> Végül a férfi ikerpár, Apollón, kikiáltja magát az Örök Napnak, és a kilenc múzsa az ő udvarhölgyeivé válik. Funkcióikat férfi istenekre ruházza át, akik maga is megsokszorozódnak.  
-
+> Végül a férfi ikerpár, Apollón, kikiáltja magát az Örök Napnak, és a kilenc múzsa az ő udvarhölgyeivé válik. Funkcióikat férfi istenekre ruházza át, akik maga is megsokszorozódnak. 
 
 </div></div>
 
