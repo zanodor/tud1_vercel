@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nommo/","title":"Nommo","tags":["containstransclusions"],"created":"2024-02-15T00:23","updated":"2026-06-22T17:54"}
+{"dg-publish":true,"permalink":"/N/Nommo/","title":"Nommo","tags":["containstransclusions"],"created":"2024-02-15T00:23","updated":"2026-08-09T18:05"}
 ---
 
 
@@ -19,7 +19,6 @@
 > A negyedik Nommo a csintalan bajkeverő, Ogo, vagy Nommo Anagonno. "Amikor éppen befejeződött (megteremtődött), fellázadt a teremtője ellen, és rendetlenséget hozott az univerzumába. Végül ő lesz a Sápadt Róka (le Renard Pale), ami a bukásának a képe." A Róka sok tekintetben hasonlít az egyiptomi [[S/Széth\|Széth]] istenséghez.
 > 
 > A Nommo név egy dogon szóból származik, amely a nomo gyökhöz kapcsolódik, ami azt jelenti, hogy "itatni valakit". Azt mondják: "A Nommo szétosztotta a testét az emberek között, hogy táplálja őket; ezért mondják azt is, hogy mivel az univerzum "ivott a testéből", a Nommo az embereket is megitatta. Az összes életelvét is átadta az embereknek." Egy **kilena fán** feszítették keresztre, amely szintén meghalt és feltámadt. 
-
 
 </div></div>
 
