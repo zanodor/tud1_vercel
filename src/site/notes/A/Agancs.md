@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Agancs/","title":"Agancs","tags":["containscallouts","Englishtexttranslated"],"created":"2026-04-02T03:08","updated":"2026-06-13T23:57"}
+{"dg-publish":true,"permalink":"/A/Agancs/","title":"Agancs","tags":["containscallouts","Englishtexttranslated"],"created":"2026-04-02T03:08","updated":"2026-08-09T17:56"}
 ---
 
 
@@ -36,8 +36,8 @@ Válaszom:
 >> Van a magyar `ék` (cuneus) és `ág` szavunk is. `Ágas` szavunk is ide tartozik; vö. angol `oak` = tölgy, amelynek elágazó ágait a `elk` = jávorszarvas agancsához (magyar `agancs`) hasonlították.  
 >
 > - Az `ağaç` = fa pedig szépen illeszkedik az [[O/Ökör\|ökör]] címnél említett török `öküz` = ökör szóval is, mert az ökör < bika < szarvas. Nem mellékesen ennek kaukázusi neve `tur`, mely a turku/türk név eredetét is adja és az öküz = oguz = törökországi törökök önelnevezése, azaz a törökök kétszeresen is hordozzák a szarvas-istenségtől való leszármazást.
-> - [[O/Ökör\|Ökör]] és [[C/Csudaszarvas\|Csudaszarvas]] címhez is betéve.{ #7k5w4e}
-
+> - [[O/Ökör\|Ökör]] és [[C/Csudaszarvas\|Csudaszarvas]] címhez is betéve.
+{ #7k5w4e}
 
 
 Az tény viszont, hogy az éji égen keresendő a Csudaszarvas agancsa, így ag = ég, ráadásul ott kellhet az agancsot keresni, ahol a Nap születik.  
