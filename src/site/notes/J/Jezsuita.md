@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jezsuita/","title":"Jezsuita","tags":["Englishtexttranslated"],"created":"2023-10-09T06:12","updated":"2026-05-08T02:24"}
+{"dg-publish":true,"permalink":"/J/Jezsuita/","title":"Jezsuita","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-09T06:12","updated":"2026-08-09T17:56"}
 ---
 
 
@@ -37,7 +37,8 @@ Egy másik [előadásban](https://youtu.be/ff7V_iqpucE) Kubínyi Tamás Robert W
 
 > [!fail] &nbsp;
 > Ezt egy szájhagyomány útján terjedő, interneten keringő apokrifnek (fabrikációnak) tekintik, mondván, nyelvi és stilisztikai anakronizmusok vannak benne: A szöveg modern megfogalmazású, mentes a 18. századi magyar vagy latin nyelvhasználat sajátosságaitól. Rákóczi a politikai és személyes műveit (mint a [Vallomások](https://www.arcanum.com/hu/online-kiadvanyok/Spenot-a-magyar-irodalom-tortenete-1/ii-kotet-a-magyar-irodalom-tortenete-1600-tol-1772-ig-EF9/barokk-kb-1600kb-1772-10EC/a-barokk-rendiseg-valsaganak-es-ujraerosodesenek-irodalma-kb-1690kb-1740-1456/a-korszeru-fouri-es-nemesi-irodalmi-torekvesek-146D/48-ii-rakoczi-ferenc-hopp-lajos-150E/emlekiratai-es-vallomasai-152E/) és az [Emlékiratok](https://www.arcanum.com/hu/online-kiadvanyok/IrodalmiArckapcsarnok-hegedus-geza-irodalmi-arckepcsarnok-1/a-magyar-irodalom-arckepcsarnoka-1239/rakoczi-ferenc-16761735-91/)) latinul és franciául írta. 
-> Az igaz, hogy Rákóczi az _Emlékirataiban_ maga is leírta, hogy a magyarországi jezsuiták mindig az osztrák elöljáróiknak engedelmeskedtek, és politikai értelemben a szabadságharc ellenségei voltak. 1705-ben a szécsényi országgyűlésen ki is tiltotta a rendet azokról a területekről, ahol nem volt saját rendházuk, és vagyonukat lefoglalta.{ #260304}
+> Az igaz, hogy Rákóczi az _Emlékirataiban_ maga is leírta, hogy a magyarországi jezsuiták mindig az osztrák elöljáróiknak engedelmeskedtek, és politikai értelemben a szabadságharc ellenségei voltak. 1705-ben a szécsényi országgyűlésen ki is tiltotta a rendet azokról a területekről, ahol nem volt saját rendházuk, és vagyonukat lefoglalta.
+{ #260304}
 
 
  
