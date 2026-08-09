@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zászló/","title":"Zászló","tags":["containstransclusions"],"created":"2023-10-17T09:23","updated":"2026-08-03T20:44"}
+{"dg-publish":true,"permalink":"/Z/Zászló/","title":"Zászló","tags":["containstransclusions"],"created":"2023-10-17T09:23","updated":"2026-08-09T17:57"}
 ---
 
 
@@ -67,8 +67,7 @@ Bakos Attila A Duna Evangéliuma című könyvének 253. oldalán az ottománok 
 
 > Külön tanulmány tárgya az ír nép emlékezetében fennmaradt "leprechaun", a törpe nép. Ők is tündéri lények, hol megjelennek, hol eltűnnek. Ruházatukban – éppen úgy, mint az előbbi rézhajú leány – a piros-fehér-zöld színeket képviselik: zöld a ruhájuk, piros sapkájukon fehér toldísz ékeskedik. Hangsúlyozottan ők a világ aranykincsének ismerői, s a jószándékú embernek adnak is belőle. Itt ismét az aranydús tündérkert késői emlékével találkozunk. Különben ezen leprechaunok egy igen öreg király birodalmának alattvalói. Az öreg király csak igen ritkán mozdul ki házából. Néha-néha ködből épített hídon elindul nagy zeneszó mellett, hogy meglátogassa az Északi Fény királynőjét. Az ír mesében e királynő nevét már nem ismerik, mi viszont felismerjük az **Északi Fény királynőjében Tündér Iloná**nkat, Földünk \[nemcsak a Földünk\] megszemélyesítőjét. Az északi fény piros-fehér-zöld logogása az ő pántlikája, s ennek emlékét népünk "bába-bukra" néven őrzi. Az agg királyban pedig az Ég királyát, a Mindenség ősz ősét ismerjük fel. E nyelvi kapcsolat viszont csak nyelvünkben van meg. Az ír legenda csodálatos színekben pompázó vidéke összeköttetésben van egy késői Csodaszarvas legendák csodálatos színekben pompázó szarvasával, ki ugyancsak az északi félteke csillagvilágának megjelenítője volt első elindulásunk idején. Nyelvünkbe hajszálpontosan beleépített hitvilágunk segítségével ezen összefüggéseket a teremtés hajnala óta máig is tisztán felismerhetjük.  
 > 
-> A kis tündéri lények nevének első szótagja a lebben, libben szavunkkal mutat rokonságot, valamint lapú szavunkkal, hiszen ezek a rege szerint lapulevelek alatt tanyáztak gyakran. A leprechaun szó a [[L/Libéd\|libéd]] (hattyú), a fekete tavon úszó libák meseindítékávaé ős palócaink emlékét őrzi e vidéken. Második szótagja a "kun" szavunkkal rokon, mely régen férfi jelentésű is volt éppen úgy, mint manó szavunk, amit ma ugyancsak mesebeli apró lényre alkalmazunk csupán; viszont a nőkre alkalmazott változatai máig fennmaradtak a "manyó" (öregasszony), "menyecske" (fiatal asszony), és meny szavainkban.  
-
+> A kis tündéri lények nevének első szótagja a lebben, libben szavunkkal mutat rokonságot, valamint lapú szavunkkal, hiszen ezek a rege szerint lapulevelek alatt tanyáztak gyakran. A leprechaun szó a [[L/Libéd\|libéd]] (hattyú), a fekete tavon úszó libák meseindítékávaé ős palócaink emlékét őrzi e vidéken. Második szótagja a "kun" szavunkkal rokon, mely régen férfi jelentésű is volt éppen úgy, mint manó szavunk, amit ma ugyancsak mesebeli apró lényre alkalmazunk csupán; viszont a nőkre alkalmazott változatai máig fennmaradtak a "manyó" (öregasszony), "menyecske" (fiatal asszony), és meny szavainkban. 
 
 </div></div>
 
