@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Finnugor rokonság/","title":"Finnugor rokonság","tags":["containscallouts","containstransclusions"],"created":"2025-11-08T23:12","updated":"2026-07-18T22:50"}
+{"dg-publish":true,"permalink":"/F/Finnugor rokonság/","title":"Finnugor rokonság","tags":["containscallouts","containstransclusions"],"created":"2025-11-08T23:12","updated":"2026-08-09T17:50"}
 ---
 
 
@@ -135,8 +135,7 @@ Először is, a saját véleményem hadd mondjam el, pontokba szedve:
 
 
 > [!check] &nbsp;
-> Alapvetően nem kéne ennyire fejvesztve menekülni a finnugor nyelvi rokonság elől, tekintve, hogy amikor a magyar nyelvé kevésbé, a finnugor nyelvek szavai máskor jobban megfelelnek olyan nyelvek szavainak, mint az etruszk, sumér vagy óegyiptomi. Ami azt bizonyítja, hogy a finnek nyelve sem onnan származik, ahová a magyarok nyelvének (sőt, fajának) eredetét helyezik.
-
+> Alapvetően nem kéne ennyire fejvesztve menekülni a finnugor nyelvi rokonság elől, tekintve, hogy amikor a magyar nyelvé kevésbé, a finnugor nyelvek szavai máskor jobban megfelelnek olyan nyelvek szavainak, mint az etruszk, sumér vagy óegyiptomi. Ami azt bizonyítja, hogy a finnek nyelve sem onnan származik, ahová a magyarok nyelvének (sőt, fajának) eredetét helyezik. 
 
 </div></div>
 
