@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra és a bika/","title":"Mithra és a bika","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T02:41","updated":"2026-08-03T20:41"}
+{"dg-publish":true,"permalink":"/M/Mithra és a bika/","title":"Mithra és a bika","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T02:41","updated":"2026-08-09T17:50"}
 ---
 
 
@@ -91,8 +91,7 @@ A [[P/Precesszió\|precesszió]]t a csak tökéletes rendszereket felállító (
 
 > The Greek neoplatonist Proclus, who studied at Alexandria in the fifth century A.D., reported that it was the Egyptians and not the Greeks who discovered precession: "Let those, who believe . . . the stars to move around the poles of the zodiac \[precession\], as Ptolemy and Hipparchus before him, \[let him\] know . . . that the Egyptians had already taught Plato about the movement of the fixed stars.  
 > —  
-> A görög neoplatonista Proclus, aki a Kr. u. ötödik században Alexandriában tanult, arról számolt be, hogy nem a görögök, hanem az egyiptomiak fedezték fel a precessziót: "Azok, akik úgy vélik ... hogy a csillagok az állatöv pólusai körül mozognak \[precesszió\], mint Ptolemaiosz és Hipparkhosz előtte, \[hadd tudják meg\] ... hogy az egyiptomiak már Platónt is tanították az állócsillagok mozgásáról."  
-
+> A görög neoplatonista Proclus, aki a Kr. u. ötödik században Alexandriában tanult, arról számolt be, hogy nem a görögök, hanem az egyiptomiak fedezték fel a precessziót: "Azok, akik úgy vélik ... hogy a csillagok az állatöv pólusai körül mozognak \[precesszió\], mint Ptolemaiosz és Hipparkhosz előtte, \[hadd tudják meg\] ... hogy az egyiptomiak már Platónt is tanították az állócsillagok mozgásáról." 
 
 </div></div>
 
@@ -139,7 +138,8 @@ John M. Jenkins könyvének 115. oldalán írja ([[T/Tánc\|tánc]] és [[K/Kund
 > Amikor elkezdte tanulmányozni az egyiptomi szent táncot és az Íziszhez kapcsolódó rituálékat, hasonlóságot fedezett fel az indiai tantrikus gyakorlatokkal, amelyekben a gerinc alján lappangó kígyóerőt felébresztik, hogy felemelkedjen és kibontakozzon a kereső életében.  
 > Hasonlóképpen, Ízisz a világ gyökerénél lévő anyai erő, amely felébreszt és átalakít (ő támasztotta fel Oziriszt). Így Isis hasonló funkciót tölt be, mint [[K/Kundalini\|Kundalini]], a galaktikus gyökérnél lévő teremtő erő, amely az emberi mikrokozmoszban a muladhara csakraként nyilvánul meg.  
 > Másodszor, ha Isis valóban megfelel a Szíriusznak, akkor emlékeztethetünk arra, hogy a Szíriusz ugyanazt a meridiánt foglalja el, mint a Galaktikus Anticentrum - mindketten egyszerre haladnak át a déli meridiánon, bár a Szíriusz alacsonyabb magasságban van.  
-> Az elképzelésem itt spekulatív, bár csillagászatilag nagyon is igaz. További kutatások talán világosabban megmutatják, hogyan lehetett a Szíriusz a Tejútközpontból kiinduló galaktikus tengely jelölője.  { #o50g9i}
+> Az elképzelésem itt spekulatív, bár csillagászatilag nagyon is igaz. További kutatások talán világosabban megmutatják, hogyan lehetett a Szíriusz a Tejútközpontból kiinduló galaktikus tengely jelölője.
+{ #o50g9i}
 
 - Erre én is gondoltam, hogy mi van, ha csak marker, azaz jelzőcsillag Szíriusz és semmi egyéb, viszont mind a Szíriusz, mind a Pleiadok az ellentétes irányban vannak, sőt, [[A/Alcyone\|Alcyone]]-nál szereplő adatok ezeket össze is kötik.
 
