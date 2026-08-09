@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fo-kutya/","title":"Fo-kutya","tags":["Englishtexttranslated"],"created":"2023-11-05T04:33","updated":"2026-03-05T01:42"}
+{"dg-publish":true,"permalink":"/F/Fo-kutya/","title":"Fo-kutya","tags":["Englishtexttranslated"],"created":"2023-11-05T04:33","updated":"2026-08-09T17:59"}
 ---
 
 
@@ -21,7 +21,8 @@ Pap Gábor egy előadásában szól a **giccs**ről  és a gombolyaggal játszó
 #### Jankovics Marcell Ahol a madár se jár...
 
 ...című könyvében is ír róla:  
-> A giccsfestők gombolyaggal játszó cicájának modellje a Nappal gurigázó égi macska: az Oroszlán csillagkép volt. Az Oroszlán jegy jele is letekeredő gombolyagot, vagy, ha úgy tetszik, oroszlánfarok hajtotta Napot ábrázol (????). A gombolyag-metafora mögött egy egész világkép-magyarázó szimbólumrendszer forog, melyben a világegyetem pergő orsó, a látszólag köröttünk keringő égitestek pályái pedig a rátekeredő aranyfonalak. Az éves körforgásban ez a képzet a lennel, a kenderrel és a gyapjúval kapcsolatos teendők ritualizálásában öltött formát. A megfont fonalat meg is személyesítették, és a "bölcsőjében" (a csónak alakú vetélőben) nyugvó "fonálgyermeket" a középkorban még a gyermek Jézussal is "összetévesztették". Természetesen a fonál mint az egyedi lét jelképe is ennek a képzetkörnek a része. A Moirák (Párkák), akik éltünk fonalát sodorják, pödrik és elvágják, a Pancimanci-mesékben is fölbukkannak, mint fonóasszonyok (l. a közép-amerikai indiánok szőtt egét és gubancos poklát).  { #pw6muy}
+> A giccsfestők gombolyaggal játszó cicájának modellje a Nappal gurigázó égi macska: az Oroszlán csillagkép volt. Az Oroszlán jegy jele is letekeredő gombolyagot, vagy, ha úgy tetszik, oroszlánfarok hajtotta Napot ábrázol (????). A gombolyag-metafora mögött egy egész világkép-magyarázó szimbólumrendszer forog, melyben a világegyetem pergő orsó, a látszólag köröttünk keringő égitestek pályái pedig a rátekeredő aranyfonalak. Az éves körforgásban ez a képzet a lennel, a kenderrel és a gyapjúval kapcsolatos teendők ritualizálásában öltött formát. A megfont fonalat meg is személyesítették, és a "bölcsőjében" (a csónak alakú vetélőben) nyugvó "fonálgyermeket" a középkorban még a gyermek Jézussal is "összetévesztették". Természetesen a fonál mint az egyedi lét jelképe is ennek a képzetkörnek a része. A Moirák (Párkák), akik éltünk fonalát sodorják, pödrik és elvágják, a Pancimanci-mesékben is fölbukkannak, mint fonóasszonyok (l. a közép-amerikai indiánok szőtt egét és gubancos poklát).
+{ #pw6muy}
 
 
 ![assets/Fo-kutya_image3.jpeg|840](/img/user/F/assets/Fo-kutya_image3.jpeg)  
