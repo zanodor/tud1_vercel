@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magru/","title":"Magru","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:02","updated":"2026-08-03T20:45"}
+{"dg-publish":true,"permalink":"/M/Magru/","title":"Magru","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:02","updated":"2026-08-09T18:04"}
 ---
 
 
@@ -38,8 +38,7 @@ Másutt ([[K/Khamor\|Khamor]] címnél, külön alcímnél) viszont felvetettük
 
 > Murray Hope concluded from her study of Egyptian mythology that Sirius was responsible for a change in the Earth's orbit, resulting in the 5 extra ("epagomenal") days and also, possibly, the axis tilt which causes the four seasons. She also concluded that Sirius would be somehow involved with an imminent "evolutionary quantum leap" for mankind.  
 > —  
-> Murray Hope az egyiptomi mitológia tanulmányozásából arra a következtetésre jutott, hogy a Szíriusz volt felelős a Föld pályájának megváltozásáért, ami az 5 extra ("epagomenális") napot eredményezte, és valószínűleg a tengely dőlését is, ami a négy évszakot okozza. Arra is következtetett, hogy a Szíriusznak valamilyen módon köze van az emberiség közelgő "evolúciós kvantumugrásához".  
-
+> Murray Hope az egyiptomi mitológia tanulmányozásából arra a következtetésre jutott, hogy a Szíriusz volt felelős a Föld pályájának megváltozásáért, ami az 5 extra ("epagomenális") napot eredményezte, és valószínűleg a tengely dőlését is, ami a négy évszakot okozza. Arra is következtetett, hogy a Szíriusznak valamilyen módon köze van az emberiség közelgő "evolúciós kvantumugrásához". 
 
 </div></div>
   
