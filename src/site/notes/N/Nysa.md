@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nysa/","title":"Nysa","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-04T04:05","updated":"2026-06-22T17:53"}
+{"dg-publish":true,"permalink":"/N/Nysa/","title":"Nysa","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-04T04:05","updated":"2026-08-09T18:05"}
 ---
 
 
@@ -31,8 +31,7 @@ Görög mitológiai Paradicsom az északi-sarkon (legalábbis az egyik, hiszen a
 >
 > Finnül a `Nisza` szó Búza értelmű. A görög [[N/Nysa\|Niszai]] Mezők kétségtelenül Búza Mezők értelmet tartalmaznak. Egyértelmű, hogy a magyar világ volt előbb, mint a görög világ. A Niszai Mezők kifejezés olyan területekre vonatkozik, ahol a búza aranysárga tengere hullámzik. Ahol sok a búza, ott nincs éhezés sem. A Nyiszál magyar ige a búza, és árpa aratására vonatkozik, a Nyisza (Búza) változata. Abban a korban még nem létezett a Kasza, ezért Nyiszálni kellett a Niszát, vagyis a gabonát, főleg a búzát. Lenyűgöző ez a régi világkép, amely a Niszai Mezők alatt egyfajta paradicsomi állapotokat tételez fel. A Niszai Mezők a magyarok világát jeleníti meg, amikor béke volt az emberek között, és sok volt a búza.
 >
-> Nisza városa igen fontos adalékokkal járulhat hozzá a magyar történelemhez. Parthia fővárosa, a terület a magyarok egyik központja volt, néhány évezrede. Az orosz `Psenyica` Búza fogalmat tartalmazhat. A Nyisza a Búza aratásának a neve. Niszaba lehet Niszava/Nyiszava is. A Hold alakú Sarlókkal aratták őseink a gabonát, de a Kasza enyhe íve is Hold alakú. Nyiszálták a gabona tövét, majd a gabona fejét, a kalászát cséplővel kiverték, aztán a magokat, a csillagokat megőrölték, majd megették, miután a lisztből kenyeret sütöttek.  
-
+> Nisza városa igen fontos adalékokkal járulhat hozzá a magyar történelemhez. Parthia fővárosa, a terület a magyarok egyik központja volt, néhány évezrede. Az orosz `Psenyica` Búza fogalmat tartalmazhat. A Nyisza a Búza aratásának a neve. Niszaba lehet Niszava/Nyiszava is. A Hold alakú Sarlókkal aratták őseink a gabonát, de a Kasza enyhe íve is Hold alakú. Nyiszálták a gabona tövét, majd a gabona fejét, a kalászát cséplővel kiverték, aztán a magokat, a csillagokat megőrölték, majd megették, miután a lisztből kenyeret sütöttek. 
 
 </div></div>
 
