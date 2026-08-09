@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Parthenogenesis/","title":"Parthenogenesis","tags":["Englishtexttranslated"],"created":"2023-11-11T12:17","updated":"2026-02-24T01:06"}
+{"dg-publish":true,"permalink":"/P/Parthenogenesis/","title":"Parthenogenesis","tags":["Englishtexttranslated"],"created":"2023-11-11T12:17","updated":"2026-08-09T17:51"}
 ---
 
 
@@ -26,7 +26,7 @@ Bakos Attila A Duna Evangéliuma című könyvének ide illő, igencsak Magyar A
 Az alábbi NatGeo cikkben szó esik a kígyók és más fajok azon képességeről, hogy szűzen nemzenek.  
 
 [[K/Kígyó\|Kígyó]] címnél is szerepelt:  
-A kígyóknak hím gyíkokhoz hasonlóan két péniszük van. Ezek két részből állnak, így valójában két fél-péniszük van, melyekhez külön here tartozik. Andrew Durso internetes blogjában azt írja, hogy ha párzáskor a lány kígyó még nem ovulál, azaz nincs kész a fogantatásra, - akár öt évre – el képes tárolni a spermát úgy, hogy tulajdonképpen azt mondhatjuk, hogy parthenogenezist, szűznemzést hajt magán végre. Ezen megjegyzése azért érdekes, mert az ősmagyarok által kitalált mitológiákban bizony ilyen hihetetlen mély tudás lapulhat.  
+A kígyóknak hím gyíkokhoz hasonlóan két péniszük van. Ezek két részből állnak, így valójában két fél-péniszük van, melyekhez külön here tartozik. Andrew Durso internetes blogjában azt írja, hogy ha párzáskor a lány kígyó még nem ovulál, azaz nincs kész a fogantatásra, – akár öt évre – el képes tárolni a spermát úgy, hogy tulajdonképpen azt mondhatjuk, hogy parthenogenezist, szűznemzést hajt magán végre. Ezen megjegyzése azért érdekes, mert az ősmagyarok által kitalált mitológiákban bizony ilyen hihetetlen mély tudás lapulhat.  
 
 Az [alábbi](https://www.cell.com/current-biology/pdf/S0960-9822(15)00782-4.pdf) tanulmányban olvassuk:  
 
@@ -43,7 +43,8 @@ Az [alábbi](https://www.cell.com/current-biology/pdf/S0960-9822(15)00782-4.pdf)
 A fenti tanulmány más adata szerint a héber `almah` = szűz (lány). Ahogy az [alábbi](https://carm.org/bible-difficulties/isaiah-714-in-hebrew-means-maiden-not-virgin-therefore-it-is-not-a-prophecy/) oldal is taglalja, félrefordítás történt (a héber [almah](https://en.m.wikipedia.org/wiki/Almah) = maiden, nem virgin; több címnél volt arról szó, hogy a szűz aspektusa a Tejútanyának (násza előtt) lány, tündér[^1]):  
 > As it turns out, even the most famous speculation about parthenogenesis, Jesus Christ's birth, owes its existence not to a miracle but to a human error during the translation of Isaiah 7:14 from Hebrew to Greek: The Hebrew word `almah` can refer to a young woman of marriageable age, whether married or not. The 'young woman' became a 'virgin' in the gospel according to Matthew, where `almah` was translated as the Greek `parthenos`.  
 > —  
-> Mint kiderült, még a parthenogenezissel kapcsolatos leghíresebb spekuláció, Jézus Krisztus születése sem egy csodának, hanem egy emberi hibának köszönheti létét az Ézsaiás 7:14 héberről görögre történő fordítása során: a héber `almah` szó utalhat egy fiatal, házas korú nőre, akár házas, akár nem. Az "ifjú asszony" a Máté evangéliumában "szűz" lett, ahol az `almah` szót a görög `parthenosz` szóval fordították.  { #fug3hb}
+> Mint kiderült, még a parthenogenezissel kapcsolatos leghíresebb spekuláció, Jézus Krisztus születése sem egy csodának, hanem egy emberi hibának köszönheti létét az Ézsaiás 7:14 héberről görögre történő fordítása során: a héber `almah` szó utalhat egy fiatal, házas korú nőre, akár házas, akár nem. Az "ifjú asszony" a Máté evangéliumában "szűz" lett, ahol az `almah` szót a görög `parthenosz` szóval fordították.
+{ #fug3hb}
 
 
 Ahogy [[B/Bibliai félrefordítások\|bibliai félrefordítások]] címnél is szerepelt, egyáltalán nem mindegy, hogy a biológiailag lehetetlen [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]]t is (meg a zsidók kultúraalapító szerepét) elhisszük (mert hogy előbbi csodaszámba megy), vagy ész érvekkel rámutatunk, hogy eredetileg asztro-mitológiai háttér szolgált a "történelmi" alakok megszemélyesítéséhez.  
