@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tülök/","title":"Tülök","tags":["containstransclusions"],"created":"2026-03-03T15:51","updated":"2026-07-23T11:45"}
+{"dg-publish":true,"permalink":"/T/Tülök/","title":"Tülök","tags":["containstransclusions"],"created":"2026-03-03T15:51","updated":"2026-08-09T14:06"}
 ---
 
 
