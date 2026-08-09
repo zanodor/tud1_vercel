@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/AB/","title":"AB","tags":["Englishtexttranslated"],"created":"2023-10-20T05:11","updated":"2026-05-29T22:44"}
+{"dg-publish":true,"permalink":"/A/AB/","title":"AB","tags":["Englishtexttranslated"],"created":"2023-10-20T05:11","updated":"2026-08-09T17:58"}
 ---
 
 
@@ -15,7 +15,8 @@
 > Az is kétségtelen, hogy az Ab némely esetekben [[H/Hab\|Hab]] formát vehet fel. A Hab a vízzel, és más folyadékokkal kapcsolatos, a folyadékok felső részén helyezkedik el. Ilyen a Ser habja, vagy a Tej habja, amelyek a folyadék felszíne felett habzanak. A Hab talán a Ha-Ab, Háza a Víznek, fogalomból eredhet. A Hab tehát valószínűleg összefüggésben áll az Ab szóval.  
 - Megjegyzendő, hogy a Hab magyar szó a Ha-Ab összeolvadásából keletkezett, írja másutt Péterfai.
 
-> Ismert Pandzs-Áb országa, amelynek jelentése Öt-Víz, Öt-Folyó, mivel ezt a területet valóban öt folyó öntözi. Az [[O/Ob\|Ob]] folyó neve is Ab volt eredetileg, csak az oroszok nevezik Obnak, mert nekik nincs tiszta 'A' hangjuk, valamikor elvesztették az idők sodrásában. Az `Abál` ige, '[[L/L#L igeképző\|l]]' magyar igeképzővel Vízben Főzni jelentésű. Kétségtelen tehát, az Ab jelentése Víz.  { #4ea729}
+> Ismert Pandzs-Áb országa, amelynek jelentése Öt-Víz, Öt-Folyó, mivel ezt a területet valóban öt folyó öntözi. Az [[O/Ob\|Ob]] folyó neve is Ab volt eredetileg, csak az oroszok nevezik Obnak, mert nekik nincs tiszta 'A' hangjuk, valamikor elvesztették az idők sodrásában. Az `Abál` ige, '[[L/L#L igeképző\|l]]' magyar igeképzővel Vízben Főzni jelentésű. Kétségtelen tehát, az Ab jelentése Víz.
+{ #4ea729}
 
 
 Lényegében itt is azt kell látni, mint másutt, ahogy [[F/Fény és anyag\|fény és anyag]] címnél össze is lett foglalva. Az "ahogy fent, úgy lent" értelmében egy szó (és változatai) felső, hímségi jelentése a hímségi elementálokra, a tűzre, szélre (levegőre) utal (minden ami fenn van, az univerzumra, égre, csillagokra, Napra vonatkozik), míg az alsó értelem mindig víz vagy föld (elem) értelmű. [[H/Humour\|Humour]], [[R/Rain\|rain]] és [[A/AK\|AK]] címnél, és számtalan más helyen volt erről szó.  
