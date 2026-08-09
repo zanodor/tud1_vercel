@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ádám/","title":"Ádám","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-18T11:49","updated":"2026-06-22T17:47"}
+{"dg-publish":true,"permalink":"/A/Ádám/","title":"Ádám","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-18T11:49","updated":"2026-08-09T17:55"}
 ---
 
 
@@ -99,7 +99,8 @@ Egyébként ha már itt tartunk, Yoga/Yuga Iga = Három övcsillag = Jahve stimm
 [[K/Khnum\|Khnum]] egyiptomi isten is hasonlóan járt el:  
 > In the Egyptian creation myths, we are told that the universe came out of a cosmic egg. In the version known at Memphis, in Egypt, Ptah (the Opener) broke the egg from which the sun and moon came forth. At Elephantine, the creation of the world was attributed to Knum, who molded the first man out of the mud of the Nile, like a potter working with his wheel. (Ernest Busenbark, Symbols, Sex and The Stars, New York: The Truth Seeker Co., 1949, p. 101.)  
 > —  
-> Az egyiptomi teremtésmítoszokban azt mondják, hogy a világegyetem egy kozmikus tojásból jött létre. Az egyiptomi Memphisben ismert változatban Ptah (a Nyitó) törte fel a tojást, amelyből a Nap és a Hold jött ki. Elephantine-ban a világ teremtését Knumnak tulajdonították, aki a Nílus iszapjából formálta az első embert, mint egy kerékkel dolgozó fazekas. (Ernest Busenbark, Symbols, Sex and The Stars, New York: The Truth Seeker Co., 1949, 101. o.).  { #0ua8p8}
+> Az egyiptomi teremtésmítoszokban azt mondják, hogy a világegyetem egy kozmikus tojásból jött létre. Az egyiptomi Memphisben ismert változatban Ptah (a Nyitó) törte fel a tojást, amelyből a Nap és a Hold jött ki. Elephantine-ban a világ teremtését Knumnak tulajdonították, aki a Nílus iszapjából formálta az első embert, mint egy kerékkel dolgozó fazekas. (Ernest Busenbark, Symbols, Sex and The Stars, New York: The Truth Seeker Co., 1949, 101. o.).
+{ #0ua8p8}
 
 
 Más párhuzamokkal folytatja, melyek közül előbbi [[B/Babiloni teremtéstörténet\|babiloni teremtéstörténet]], utóbbi [[P/Prométheusz\|Prométheusz]] címnél is szerepelt:  
@@ -116,8 +117,7 @@ Más párhuzamokkal folytatja, melyek közül előbbi [[B/Babiloni teremtéstör
 > A babilóniaiak Berossus szerint (Bél papja Babilonban, Kr. e. kb. 250-ben) úgy hitték, hogy Bél isten levágta a saját fejét, a többi isten pedig összegyűjtötte a vérét, és a földdel összekeverve, a masszából embereket teremtett; ez megmagyarázza, miért olyan bölcsek az emberek, hiszen testüket egy isten vére élteti.  
 > Hasonló mese volt forgalomban az ókori Görögországban, ahol Prométheusz agyagból teremtett embereket és állatokat.  
 > Amikor elvégezte a dolgát, az agyag egy része megmaradt, és még sokáig lehetett látni a helyszínen két nagy szikla alakjában, amelyek egy szakadék szélén hevertek.  
-> Egy görög utazó, aki időszámításunk második századában járt ezen a helyen, úgy vélte, hogy a sziklák színe az agyagé volt, és erősen emberi hús szaga volt. (Frazer, Folklore, 3. o.)  
-
+> Egy görög utazó, aki időszámításunk második századában járt ezen a helyen, úgy vélte, hogy a sziklák színe az agyagé volt, és erősen emberi hús szaga volt. (Frazer, Folklore, 3. o.) 
 
 </div></div>
   
