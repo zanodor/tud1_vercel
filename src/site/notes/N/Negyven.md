@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Negyven/","title":"Negyven","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T23:20","updated":"2026-05-21T04:58"}
+{"dg-publish":true,"permalink":"/N/Negyven/","title":"Negyven","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-03-05T23:20","updated":"2026-08-09T18:47"}
 ---
 
 
