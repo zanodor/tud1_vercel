@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2026-07-30T02:39"}
+{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2026-08-09T17:58"}
 ---
 
 
@@ -19,7 +19,8 @@ Azaz a szó a magyar-sumér-sémi vonalon érkezett volna fiú, (ifjú) hős jel
 ...című könyvének 999. oldalán Harmatta János ősiráni-finnugor szószedetének (mint 57%-ban szumér jövevényszónak beillő) szavait mutatja be:  
 > Óiráni: vasta, vastă-> mordvinE `vasta` " férj, feleség".  
 > Ősiráni: vaśa-, vaśā-> mordvinM `vaše` "feleség"; szumér: `maš` = "Zwilling, Hälfte, der Anderer" (iker, a fele, a másik).  
-> (Óiráni: vadu-> cseremisz `βate` "feleség, asszony".)  { #z6ipar}
+> (Óiráni: vadu-> cseremisz `βate` "feleség, asszony".)
+{ #z6ipar}
 
 
 A jelentések szépen egymás mellett jól mutatják, miről van szó: az iker kettőt jelent és a fél is kettőre utal, a másik pedig a második (az egyik után). A [[M/Mastabbagalgal\|Mastabbagalgal]] mint [[I/Ikrek csillagkép\|Ikrek csillagkép]] pedig a Kutyával ott van, ahol a Tejút sávja felezi az éggömböt. Ami a feleség értelmet illeti, legutóbb a [[L/Lemniszkáta\|lemniszkáta]] téma kapcsán [[H/Husband#^3wtlh3\|husband]] címnél is arra tértünk ki, hogy a [[J/Jin és jang\|jin-jang]] rendszerben a férj és feleség összekapcsolása az Ikrekben van.
