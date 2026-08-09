@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kundalini/","title":"Kundalini","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-12T07:24","updated":"2026-08-03T20:52"}
+{"dg-publish":true,"permalink":"/K/Kundalini/","title":"Kundalini","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-12T07:24","updated":"2026-08-09T17:55"}
 ---
 
 
@@ -114,8 +114,7 @@ John Major Jenkins Galactic Alignment című könyvében erre a spirituális tan
 > Amikor elkezdte tanulmányozni az egyiptomi szent táncot és az Íziszhez kapcsolódó rituálékat, hasonlóságot fedezett fel az indiai tantrikus gyakorlatokkal, amelyekben a gerinc alján lappangó kígyóerőt felébresztik, hogy felemelkedjen és kibontakozzon a kereső életében.  
 > Hasonlóképpen, Ízisz a világ gyökerénél lévő anyai erő, amely felébreszt és átalakít (ő támasztotta fel Oziriszt). Így Isis hasonló funkciót tölt be, mint [[K/Kundalini\|Kundalini]], a galaktikus gyökérnél lévő teremtő erő, amely az emberi mikrokozmoszban a muladhara csakraként nyilvánul meg.  
 > Másodszor, ha Isis valóban megfelel a Szíriusznak, akkor emlékeztethetünk arra, hogy a Szíriusz ugyanazt a meridiánt foglalja el, mint a Galaktikus Anticentrum - mindketten egyszerre haladnak át a déli meridiánon, bár a Szíriusz alacsonyabb magasságban van.  
-> Az elképzelésem itt spekulatív, bár csillagászatilag nagyon is igaz. További kutatások talán világosabban megmutatják, hogyan lehetett a Szíriusz a Tejútközpontból kiinduló galaktikus tengely jelölője.  
-
+> Az elképzelésem itt spekulatív, bár csillagászatilag nagyon is igaz. További kutatások talán világosabban megmutatják, hogyan lehetett a Szíriusz a Tejútközpontból kiinduló galaktikus tengely jelölője. 
 
 </div></div>
 
