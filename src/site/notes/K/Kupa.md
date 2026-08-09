@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kupa/","title":"Kupa","tags":["containstransclusions"],"created":"2023-11-14T06:29","updated":"2026-03-05T01:46"}
+{"dg-publish":true,"permalink":"/K/Kupa/","title":"Kupa","tags":["containstransclusions"],"created":"2023-11-14T06:29","updated":"2026-08-09T14:05"}
 ---
 
 
@@ -37,7 +37,7 @@ A fejjel lefelé fordított, [[S/Szoba#Szoba szakrális geometrikus értelmezés
 
 
 
-[Ezen](https://youtu.be/RyaTXRx-hu8&t=225) VNTV műsorban 3:45-nél Géczy Gábor elmondja, hogy a szinusz-hullám a világegyetem legegyszerűbb és leggyakrabban használt motívuma. [[H/Hegy és völgy\|Hegy és völgy]] helyett "adó és kapó" párt használ, továbbá Molnár V. Józsefre hivatkozva a [[K/Kapu\|kapu]] és kupa szavakkal is magyarázza (kupa a kehely, de a hupolag is hasonló, valamint a [[K/Kebel\|kebel]] szó is, mely annak az öbölnek a párja, amit a latin `sinus` éppen jelent). Adok-kapokok sorozata a [[H/Hullám\|hullám]].  
+[Ezen](https://youtu.be/RyaTXRx-hu8&t=225) VNTV műsorban 3:45-nél Géczy Gábor elmondja, hogy a szinusz-hullám a világegyetem legegyszerűbb és leggyakrabban használt motívuma. [[H/Hegy és völgy\|Hegy és völgy]] helyett "adó és kapó" párt használ, továbbá Molnár V. József pl. [ezen](https://www.youtube.com/watch?v=X34MbTylc2c&t=5424) videójára hivatkozva a [[K/Kapu\|kapu]] és kupa szavakkal is magyarázza (kupa a kehely, de a hupolag is hasonló, valamint a [[K/Kebel\|kebel]] szó is, mely annak az öbölnek a párja, amit a latin `sinus` éppen jelent). Adok-kapokok sorozata a [[H/Hullám\|hullám]].  
 Ezen az úton haladunk tovább alant.  
 
 ## Gömb és Kaba kapcsolatok
