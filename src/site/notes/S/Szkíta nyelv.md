@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2026-06-19T22:14"}
+{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2026-08-09T17:50"}
 ---
 
 
@@ -74,8 +74,7 @@ Buji Ferenc passzusa [[C/Cannabis\|cannabis]] címnél is szerepelt:
 
 
 
-> Nyilván nem véletlen, hogy a Történeti-etimológiai szótár szerint ótörök eredetű kendert más nyelvekben is a kány- gyökkel képezik; vö. gör. `kannabisz`, lat. `cannabis`, ném. `Hanf`, ang. `hemp`, fr. `chanvre`, or. `konolja`. Az orosz `kendir` ("kenderfajta növény") pedig valószínűleg a sztyeppei nyelvekből került az oroszba, s nem valamely török nyelvből. Általános elvként megfogalmazható, hogy a szláv nyelvek az ősszláv korszakban nem annyira török, mint inkább sztyeppei nyelvi befolyás alatt álltak. Ilyetén módon azok a szavak, amelyeket a nyelvtudomány a szláv nyelvekben török jövevényszavakként konstatál, mind a szláv, mind pedig a török nyelvekben sztyeppei eredetű jövevényszavak.  
-
+> Nyilván nem véletlen, hogy a Történeti-etimológiai szótár szerint ótörök eredetű kendert más nyelvekben is a kány- gyökkel képezik; vö. gör. `kannabisz`, lat. `cannabis`, ném. `Hanf`, ang. `hemp`, fr. `chanvre`, or. `konolja`. Az orosz `kendir` ("kenderfajta növény") pedig valószínűleg a sztyeppei nyelvekből került az oroszba, s nem valamely török nyelvből. Általános elvként megfogalmazható, hogy a szláv nyelvek az ősszláv korszakban nem annyira török, mint inkább sztyeppei nyelvi befolyás alatt álltak. Ilyetén módon azok a szavak, amelyeket a nyelvtudomány a szláv nyelvekben török jövevényszavakként konstatál, mind a szláv, mind pedig a török nyelvekben sztyeppei eredetű jövevényszavak. 
 
 </div></div>
 
