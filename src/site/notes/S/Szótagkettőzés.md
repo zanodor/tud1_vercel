@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T05:21","updated":"2026-05-29T22:44"}
+{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T05:21","updated":"2026-08-09T17:59"}
 ---
 
 
@@ -57,7 +57,8 @@ Lásd még témát említve [[M/Más#Más és több\|más és több]] cím/alcí
 
 > [!_for_blockid] &nbsp;
 > - [Nana](https://en.wiktionary.org/wiki/nana) gyermeknyelvi összefüggéséről szó eset [[N/Néni\|néni]] címnél.
-> 	- A Wiktionary helyen hozott adatokból látható, hogy különböző IE nyelveken `nana` = anya, nagyanya jelentésű. A `nanny` ("dajka") összefüggés is ismert. Lásd még [[N/Nanna\|Nana]] és [[N/Nanna\|Nanna]].{ #tv75lm}
+> 	- A Wiktionary helyen hozott adatokból látható, hogy különböző IE nyelveken `nana` = anya, nagyanya jelentésű. A `nanny` ("dajka") összefüggés is ismert. Lásd még [[N/Nanna\|Nana]] és [[N/Nanna\|Nanna]].
+{ #tv75lm}
 
 
 `Kaka` is ide tartozik.
