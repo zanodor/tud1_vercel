@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-10-29T07:48","updated":"2026-08-03T20:42"}
+{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-10-29T07:48","updated":"2026-08-09T17:53"}
 ---
 
 
@@ -40,8 +40,7 @@ Akkor most a csillagé a név? Kovács cikkének neve Stella Hungarorum (Ősi Gy
 
 > After detailed research, they had found that Dogra Magra was a word used in Nagasaki and was used to indicate a religious incantation used by Christian priests, perhaps similar to our [[A/Abracadabra\|abracadabra]].  
 > —  
-> Részletes kutatás után kiderítették, hogy a Dogra Magra egy Nagaszakiban használt szó, és egy keresztény papok által használt vallási varázsigét jelentett, talán hasonlóan a mi [[A/Abracadabra\|abrakadabra]] szavunkhoz.  
-
+> Részletes kutatás után kiderítették, hogy a Dogra Magra egy Nagaszakiban használt szó, és egy keresztény papok által használt vallási varázsigét jelentett, talán hasonlóan a mi [[A/Abracadabra\|abrakadabra]] szavunkhoz. 
 
 </div></div>
   
@@ -81,8 +80,7 @@ Számomra úgy tűnik, hogy egyrészt a Tejútanya/szuka [[M/Magyar\|Magyar]] ne
 
 > Murray Hope concluded from her study of Egyptian mythology that Sirius was responsible for a change in the Earth's orbit, resulting in the 5 extra ("epagomenal") days and also, possibly, the axis tilt which causes the four seasons. She also concluded that Sirius would be somehow involved with an imminent "evolutionary quantum leap" for mankind.  
 > —  
-> Murray Hope az egyiptomi mitológia tanulmányozásából arra a következtetésre jutott, hogy a Szíriusz volt felelős a Föld pályájának megváltozásáért, ami az 5 extra ("epagomenális") napot eredményezte, és valószínűleg a tengely dőlését is, ami a négy évszakot okozza. Arra is következtetett, hogy a Szíriusznak valamilyen módon köze van az emberiség közelgő "evolúciós kvantumugrásához".  
-
+> Murray Hope az egyiptomi mitológia tanulmányozásából arra a következtetésre jutott, hogy a Szíriusz volt felelős a Föld pályájának megváltozásáért, ami az 5 extra ("epagomenális") napot eredményezte, és valószínűleg a tengely dőlését is, ami a négy évszakot okozza. Arra is következtetett, hogy a Szíriusznak valamilyen módon köze van az emberiség közelgő "evolúciós kvantumugrásához". 
 
 </div></div>
   
