@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Agent/","title":"Agent","tags":["containstransclusions"],"created":"2024-04-20T11:43","updated":"2026-03-23T23:32"}
+{"dg-publish":true,"permalink":"/A/Agent/","title":"Agent","tags":["containstransclusions"],"created":"2024-04-20T11:43","updated":"2026-08-09T18:01"}
 ---
 
 
@@ -32,8 +32,7 @@ Ezen `ágein` ige előjön Richard Hinckley Allen könyvében a Nagy Medve csill
 
 > Anacreon mentioned it as a Chariot as well as a Bear; and Hesychios had it **Αγαννα**, an archaic word from `ἄγειν`, "to carry," singularly like, in orthography at least, the Akkadian title for the [[W/Wain\|Wain]] stars, Aganna, or Akanna, the Lord of Heaven.  
 > —  
-> Anakreón szekérként és medveként is említette; Hészükhiosz pedig **Αγαννα** néven, egy archaikus szó a `ἄγειν`, "vinni" szóból, amely egyedülállóan hasonlít, legalábbis az ortográfiában, a szekér csillagok akkád címére, amely neve: [[A/Aganna\|Aganna]], vagy Akanna, az Ég Ura.  
-
+> Anakreón szekérként és medveként is említette; Hészükhiosz pedig **Αγαννα** néven, egy archaikus szó a `ἄγειν`, "vinni" szóból, amely egyedülállóan hasonlít, legalábbis az ortográfiában, a szekér csillagok akkád címére, amely neve: [[A/Aganna\|Aganna]], vagy Akanna, az Ég Ura. 
 
 </div></div>
 
