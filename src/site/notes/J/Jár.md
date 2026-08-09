@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jár/","title":"Jár","created":"2024-06-04T16:16","updated":"2025-09-03T16:00"}
+{"dg-publish":true,"permalink":"/J/Jár/","title":"Jár","created":"2024-06-04T16:16","updated":"2026-08-09T18:01"}
 ---
 
 
@@ -10,7 +10,7 @@
 ...című könyvének 513. oldalától tallózik Lakó-Rédei A Magyar szókészlet finnugor elemei című etimológiai szótárából és szumér megfelelőkkel bizonyítja, hogy a célszerűen válogatott példáik közül, mennyi a finnugor eredetű szó:  
 > jár "gehen, herumgehen, hinund hergehen".  
 > Vitatott eredetű; a) talán a "csavar, teker" jelentésből fejlődött, ez esetben a finnugor alapalak jork₃-; b) a "gurul, gördül" származéka, ez esetben a finnugor alapalak \*jor₃-.  
-> Szumér: `gur` ="wenden, umwenden, drehen, sich wenden, sich umwenden, zuruckkehren" (fordít, megfordít, csavar, teker, fordul, megfordul, visszatér); vö. gurul, gördül, gyűr, kergül, kering;  
+> Szumér: `gur` = "wenden, umwenden, drehen, sich wenden, sich umwenden, zuruckkehren" (fordít, megfordít, csavar, teker, fordul, megfordul, visszatér); vö. gurul, gördül, gyűr, kergül, kering;  
 > `gur₄`, `gir₈` = "laufen, rennen" (fut, rohan); vö. gyors.  
 
 A szumér példák inkább a (lóval is kapcsolatba hozható) sietős mozgásra utalnak (lásd [[H/Hurry\|hurry]], [[H/Horse\|horse]] és [[G/Gyors\|gyors]]).  
@@ -59,7 +59,8 @@ Az év is kör, ezért lehet a [[Y/Year\|year]] jár szavunkhoz köthető.
 #### Magyar Adorján...
 
 ..soraiban is azt látjuk, hogy a mozgás és körmozgás összefüggenek:  
-> Továbbá az olasz `gire` (dzsire), amely szó az olaszban elavult de Dante még menni, haladni értelemmel használta. Úgyszintén az olasz `girare` (dzsiráre) ma is általánosan használatos és körben haladni, keringeni és forogni értelmű szó. E mindkettő világosan [[G/Gyűrű\|gyűrű]] és régi győr szavunkkal azonos.  { #0wbdtb}
+> Továbbá az olasz `gire` (dzsire), amely szó az olaszban elavult de Dante még menni, haladni értelemmel használta. Úgyszintén az olasz `girare` (dzsiráre) ma is általánosan használatos és körben haladni, keringeni és forogni értelmű szó. E mindkettő világosan [[G/Gyűrű\|gyűrű]] és régi győr szavunkkal azonos.
+{ #0wbdtb}
 
 
 [[M/Meter#Meter 2)\|Meter]] címnél Borbola János pedig arra hívja fel a figyelmet, hogy a méter nem hossz-, hanem kör/ívmérték volt.  
