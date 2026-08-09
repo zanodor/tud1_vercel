@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2026-08-09T14:03"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","created":"2023-10-05T06:45","updated":"2026-08-09T17:45"}
 ---
 
 
@@ -247,7 +247,7 @@ Ha teszem azt, életemben minden általam megismert Zsuzsi vagy Orsi szőke köv
 Valahogy így működik a tudomány is. Főleg a magyar (és sumér) tabut kikerülő tudomány, amely olyan prekoncepciók alapján, olyan önkorlátozó eljárás szerint működik, amely mindent a maga javára ír fel, még ha kevés bizonyíték is áll rendelkezésre (akkor majd csúsztat és már eleve az az eljárás, hogy a kívánt végeredményhez alakítják a bizonyítékokat).  
 > [!lasdmeg] &nbsp;
 > > [!Lásdmég] Lásd még &nbsp;
-> > A **megerősítési torzítás** (vagy más néven konfirmációs torzítás) egy kognitív torzítás, amely során az emberek hajlamosak előnyben részesíteni, keresni, értelmezni és felidézni olyan információkat, amelyek megerősítik meglévő hiedelmeiket vagy hipotéziseiket, miközben figyelmen kívül hagyják vagy elvetik azokat az információkat, amelyek ellentmondanak nekik. Bővebb információ a Wikipédia oldalon: [Megerősítési torzítás](https://hu.wikipedia.org/wiki/Meger%C5%91s%C3%ADt%C3%A9si_torz%C3%ADt%C3%A1s).
+> > A **megerősítési torzítás** (vagy más néven konfirmációs torzítás) egy kognitív torzítás, amely során az emberek hajlamosak előnyben részesíteni, keresni, értelmezni és felidézni olyan információkat, amelyek megerősítik meglévő hiedelmeiket vagy hipotéziseiket, miközben figyelmen kívül hagyják vagy elvetik azokat az információkat, amelyek ellentmondanak nekik. Bővebb információ a Wikipédia oldalon: [Megerősítési torzítás](https://hu.wikipedia.org/wiki/Meger%C5%91s%C3%ADt%C3%A9si_torz%C3%ADt%C3%A1s).
 
 ## Tudományok valláspolitikai befolyásoltsága
 
