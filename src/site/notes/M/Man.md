@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Man/","title":"Man","tags":["containstransclusions","containscallouts"],"created":"2026-02-09T19:05","updated":"2026-08-09T17:55"}
+{"dg-publish":true,"permalink":"/M/Man/","title":"Man","tags":["containstransclusions","containscallouts"],"created":"2026-02-09T19:05","updated":"2026-08-10T17:47"}
 ---
 
 
@@ -11,182 +11,17 @@ Ember, férfi.
 
 ...című könyvében írja:
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Manu/#dfi-47-xpy-9-mgp-9-ver" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Manu/#DFI47XPY-9MGP9VER" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-
-
-# Manu
-
-#### A Pallas Nagy Lexikona adatsora:
-
-Jelentése ember, a Vedában az emberek atyja, leggyakrabban: **Manush pitar** (M. atya); az özönviz legendájában [[N/Noé\|Noe]] személyének felel meg. M. egy halat fog mosdóvizében, s megkegyelmez neki; a hal hálából figyelmezteti M.-t a közelgő vizözönre, s megmenti, mert M. a hal szarvához köti hajóját, melyet az a Himálaja hegységre fölhúz. A [[V/Vízözön\|vízözön]] az egész emberi nemet elsöpörte M. kivételével, a ki folyékony vajból, sűrű tejből, turóból és savóból nőt formált magának, s ezzel újra nemzette az emberi fajt.  
-
-#### Magyar Adorján adata:  
-
-> Említettem, hogy az indiai mythologiában Manu emberiség-ősatyaként szerepel, ami bizonyára valamely dravida fajú néptől származó mythikus alak, viszont tudjuk azt is, hogy ősnépeink mythologiai fölfogása szerint a mondai ősatya mindig egyúttal mondai első fejedelem, király is volt. Ez, és a holdtisztelet magyarázza meg azt is, hogy ősnépek regebeli első királyai miért neveztetnek a kún szócsoport mén részébe illő néven. Például az egyiptomi I. dinasztia első királya neve is Men vagy Mena, görögösen Menesz. Úgyszintén Kréta szigete legelső regebeli királya neve is Minosz. Mindezeken kívül az egyiptomiak még egy Min nevű teremtő ősistenséget is tiszteltek, akit pedig mindig álló hímtaggal ábrázoltak. Úgyhogy én ezen Mén-, Minosz- és Mínben az őskunok Hold-ősatyaistenség elhomályosult emlékét látom még fölcsillanni, amely mén, mín szó hiszen a mi mai [[M/Mén\|mén]] = hím-ló és [[M/Mony\|mony]] = hímtag szavainkkal is egyezik. 
-- Nem feltétlenül kell holdistenség legyen, mert a [[M/Men\|menny]] szó önmagában magasabb teremtő erőre utaló.  
-Kállay Ferenc A pogány magyarok vallása című könyvének [284. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=284&annotation=GIL9G7RE) is írja:  
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/M/Mén/#dfi-47-xpy-gil-9-g7-re" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-# Mén
-
-Mai nyelvünkben a [[L/Ló\|ló]] és [[S/Szamár\|szamár]] hímjét jelenti, de korábban ember ([[M/Man\|man]]) jelentéssel állhatott, mint a [[K/KAN\|kan]] is, de elsősorban férfiemberre kell gondolni. Hogy a mén bontható-e Mé-Én tagokra, elképzelhető, de inkább a [[M/MAG\|mag]] > [[M/Megy\|megy]] > [[M/Men\|men]] > mén fejlődési vonal tűnik helyesebbnek (az első két fogalmat ki is vehetjük innen).  
-
-#### Kállay Ferenc A pogány magyarok vallása...
-
-...című könyvében írja:
-> A meny szó alatt a toldalékban mind ez bővebben van kifejtve, hihetőleg mén lóval áldoztak magyarjaink a tarczali hegyen, a meny és mén szó közti vallásos viszonosság is ide mutat. ([Lásd 103. old.](zotero://open-pdf/library/items/DFI47XPY?page=103&annotation=RM72IMQL))
-
-
-#### Fáy Elek A magyarok őshona...  
-
-...című könyvének 189. oldalán is kitér a menny és mén kapcsolatára illetve az alant taglalt lovat is szóba hozza (lásd előzményét [[M/Men\|men]]):  
-> Közel hajlik a [[M/Men\|menny]] szavunkhoz a kisázsiai eredetű s utóbb a görögökhöz is befogadott Mén holdisten neve, melyben – az abból képezett latin `mensis` = hónap és illetőleg az ezen utóbbiból továbbképezett `menstruatio` útján – kifejezve látja Roscher azt a befolyást a nemi életre, amelyet neki, mint a hold megszemélyesítőjének tulajdonítottak.  
-> Mén holdisten még a késő római császári érméken is rendszerint lovon ülve ábrázoltatik. Azonban lova első lábai vagy emberi lábak, vagy épen emberi kezek, melyeik egyike egy kígyós pálcát tart. A ló – farok helyett – szintén kígyóban (a termékenyítés szimbolumában) végződik. Mindezek tehát arra vallanak, hogy voltaképen ez a ló tekintendő az istenségnek, amelyben pedig az istenség neve útján a magyar `mén` (csődör) ismerhető fel.  
-> Ez pedig arra vezet, hogy a mén szavunkat ugyanolyan hímelvi nevezetnek ismerjük fel, aminőknek fennebb a kos, kan, hím és bak szavakat bemutattam.  
-
-Fáy Elek A magyarok őshona című könyvének 257. oldalán a görögökhöz átkerült **Mén** holdisten-névnek nőelvi **Mené** alakját (görög `méné` = Hold) is említi.  
-Sem ő, sem Péterfai János nem említi, hogy a [[M/MIN\|Min]] vagy a [[M/Minerva\|Minerva]] név előrésze egyeztethető-e a ménnel.  
-
-Nemcsak a görög és a latin nyelvbe, de az arab és türk nyelvekbe – nyilván a közös hun kapcson keresztül – is bekerült az M-N vázú szó holdra vonatkoztatva.  
-Elsőként ott a [[M/Mundzuk\|mundzuk]] név és a [[M/Month\|month]] címnél említett arab `manzil` = holdház szó. Vagy egy másik a...
-
-#### Kállay Ferenc A pogány magyarok vallása...
-
-...című könyvében említett `minaret`, mely szót jogosan a holdhoz köti:  
-> Herbelot irja, Menath nevü bálvány szó alatt, hogy a törökök az arab `menar`, `menareh`-ból csinálták a `minaret` nevet, templomaikat az uj hold sarlója ékesiti. (t. 11. p. 402. edit. 1783.) ([Lásd 277. old.](zotero://open-pdf/library/items/DFI47XPY?page=277&annotation=PBZ22VAN)) 
-#### Tomory Zsuzsa Istenes magyar emlékeink 1. rész...
-
-...című Ősi Gyökér 2005/1. sz. megjelent cikkének táblázatos anyaga ([[I/Isten\|Isten]] és [[B/Bárány\|bárány]] címnél is volt hasonló):  
-![assets/Mén_image1.png|fix_dark fix_light|840](/img/user/M/assets/M%C3%A9n_image1.png)  
-
-Borbola János azon adata után szerepelt, ahol Borbola kimondja, hogy a magyar legelső istenneve nem [[I/Isten\|Isten]] volt.  
-Itt is azt látjuk, hogy egyrészt kerüli [[I/Isten\|Isten]] kétszótagos nevét, továbbá lakóhelyét és magát minőségét és nevét a magyar "törzsre" nézve (nem [[E/Egy\|egy]]-gyel, hanem) [[E/Ég\|ég]]-gel jelöli. Viszont a hunoknál nem [[A/AN, ÁN\|AN, ÁN]]-t használ, hanem Mén-t, továbbá nem látja be, hogy a [[M/Men\|men]] szó a magyar szócsoport része is lehetett (vakon követi Magyar Adorjánt). [[A/Arany\|Arany]] címnél már szerepelt más írásának szövege, valamint a [[B/Baranya\|Baranya]] nevet én is elemeztem, [[B/Barát\|barát]]-ot másképp.  
-
-A [[H/Hold\|Hold]] – [[H/Hölgy\|hölgy]] kontra Mén = Holdisten összefüggések rámutathatnak\[?\] arra, hogy a Hold hímséginek való kezelése későbbi (így a germán és arab is későbbi népek mint a magyar). Lásd még [[H/Holdtisztelet\|holdtisztelet]] címnél írottakat.  
-
-#### Bakos Attila A Duna Evangéliuma...
-
-...című könyvének 253. oldalán amit ír:  
-> A kétjelentésű magyar mén szó egyrészt jelenti, ma már csak népiesen, hogy mén, azaz megy, másrészt a hím lovat. A hímelvű Holdisten ősi neve abból az időből, amikor a Hold még saját fénnyel világított\[?\] és hőt adott.  
-
-Egyébiránt a zapotec nyelvben `mani'` = ló és a bizonyos wembawemba nyelvű `yareman` (jár-mén) szóban is megvan (a jávaiban `jaran` = ló is mutatja, hogy a Hold neve lehetett, mely [[J/Jár\|jár]], [[H/Halad\|halad]], mén; igaz, a jávaiban `bulan` = Hold). (Ezen `jaran` = ló viszont egyezik a héber `yeraḥ` = hold névvel is).
-
-Kandra Kabos Magyar Mythologia című könyvének (a PDF) 211. oldalán írja, hogy a csillagok nem személyes alakok már többé, hanem "szólásaink szerint mindig jár, jön, fut, szalad a csillag, mintha lába volna." Még a mén és [[H/Halad\|halad]] igék tartozhattak volna a felsorolásba. Mivel az idő mérése régen sziderikus volt, nem meglepő, hogy ezen igéink az utódnyelvekben az idő mérésével hozhatók kapcsolatba: [[J/Jár\|jár]] > német `jahr`, angol [[Y/Year\|year]], arab `jahr`, [[J/Jön\|jön]] > ind `yana`, [[F/Fut\|fut]] > [[F/Future\|future]] = jövő.
-- Az iráni `سال` (`szal`) = év viszont nem [[S/Szalad\|szalad]] igénkből ered, mert annak r-hangos elődei ismertek.
-
-
-
-Egy hasonló, sőt azonos alakú latin szó a többes számú [[M/Manes\|manes]], valamint a [[L/Ló\|ló]] címnél is említett latin `mane` = reggel[^1], mely Ipolyi Arnold Magyar mythologia című könyvének (a PDF) 332. oldala alapján érthető meg: a futó ló személyesíti meg (ezúttal nem a Holdat, hanem) a Napot. A 353. oldalon és előtte hosszan elemzi a lovat, melyen a [[H/Hajnal\|hajnal]] jön. Ezek, illetve az ottaniak szerint a Nap és a Hold ló által húzatik be/elő, éppen úgy, ahogy a [[H/Hamlet malma\|Hamlet malma]] lóerővel forgattatik.  
-A latinban tehát nemcsak a hónap, hanem a reggel is a ménhez köthető. Azt mindenesetre még vizsgálni kell ([[H/Holdtisztelet\|holdtisztelet]] címnél írottak alapján is), hogy a mén hogyan lett Napállat is és kiknek a közvetítésével (ugyanis inkább avar-hun B-R/P-R/V-R vagy H-R alakú kellene akkor a latin szó legyen).  
-Dr. Lónay Gyula is azt írja, hogy Ipolyi Arnold a 19. században leírta, hogy a magyarok sok helyütt mén-nek nevezik a napot, ugyanezt fedezte fel Baráth Tibor is az ókori Egyiptomban. (Ezt én így Ipolyi Arnoldtól nem láttam.)  
-
-#### Karcagi Oláh Imre Külföldi és magyar írók a magyar mitológiáról...
-
-...című Ősi Gyökér 2005/2. sz. megjelent cikkében a [[S/Szarvas\|szarvas]] és [[L/Ló\|ló]] napállat-voltát az alábbiak alapján igazolja (egymást ismételgetik a mitológusok, nem vennék észre, hogy a [[N/Napvallás\|Napvallás]] korszakában elhatalmasodó felfogást akarják ősinek bizonyítani, holott ennél a magyar [[C/Csillagvallás\|Csillagvallás]]kori felfogás ősibb, a kiinduló) (a fehér lónak ugyan miféle kapcsolata lenne a Nappal, kérdem én):  
-> Mikor a szkíta hitregéket tanulmányozzuk azt látjuk, hogy a mitikus szarvas alakja szoros kapcsolatban áll a lóéval (László Gyula, Rudenko S. I.). Kétségtelen, mind a kettő Nap állat volt. S mivel az Istennek a ragyogó "Napurfi" (Mithrász) volt a szimbóluma, a Védák embere "ősi szokás szerint, annak fehér lovakat áldozott."  
-
-Az tény ugyan, hogy a mén hímló. Még Oláh Imre cikkében lábjegyzetben bizonyos Kulcsár Józsefet idézi:  
-> Hogy a mén, a lovak között, eredetileg nem csupán az egyik nemet jelentette, hanem legkezdettebb értelmében a roppant Mana-fogalomhoz, az Egyetemes életerőhöz ... kapcsolódó fogalom volt. A Manát a kutatás – igen helyesen \[?!\] – a Brahmán névvel, szóval hozza össze. Az említett Mana is részben a Szellem, ami a megnyilvánulások mögött áll, részben pedig az, ami – eminnen nézve – meg is nyilvánult belőle. Ezért mutat a teremtő erőre a ménló neve..... A mén szavunk, nagyon erősen húz oda hangzás szerint ahhoz a mennyhez is. De a "menny".. nem a levegőt jelenti, hanem a Maná-nak a Napba való megjelenését: hajnalhasadtát. Egy egyiptomi felirat például azt mondja, hogy "Borral terhes az Ég, amikor megszüli leányát a [[H/Hajnal\|hajnal]]t."  
-
-Több gond is van Kulcsár véleményével. A Brahman névben nincs meg a mén. A Men = Menny pedig nem azt az eget jelenti, amikor a Nap feljő. A legutolsó mondat miatt került be valójában a passzus ide.  
-[[H/Hajnal\|Hajnal]] címhez (illetve több más címhez is) ezt írtuk:  
-> [!note] &nbsp;
-> Valójában az egyiptomi szöveg fordításában az ég helyett a `men` = menny szó kellene szerepeljen, hiszen a hajnal előtt a csillagos eget látjuk. A meny-asszony lánya a hajnal. Ez lehet akár a [[N/Napistennő\|Napistennő]] képzet alapja is.  
-
-Az tény, hogy a menny ménnel, hímlóval való (nyelvi és mitológiai) azonosítása már a későbbi, hun napvallások kialakulásának idejéből származhat, mégpedig Ménrót-Nimród "lósága illetve lófasza" ideájának kibontásával.  
-
-Oláh Imre más adata az Isten és a Szarvas fogalmainak összetartozóságáról szól. [[S/Szarvas\|Szarvas]] és [[E/Enki\|Enki]] címnél is azt vetettük fel, hogy [[S/Szarvas\|szarvas]] szavunk Szar-Apa-Ős felbontású/értelmű akkor lehet, ha a szarvas szavunk – mén kialakulásához hasonlóan – a Napvallások idején jött volna létre, amikor a nőiségi istenségekből hímségit gyártottak.  
-
-> [!check] &nbsp;
-> Mén tehát kiadja (akár főnévi, akár igei `men` (mely a majában is `man` = menni), megy jelentésével) a latin és indo-európai Hold jelentésű szavait (lásd [[M/Menses\|menses]] és [[M/Moon\|moon]]): a [[L/Ló\|ló]] Holdállat. A [[K/Kanca\|kanca]] (ha nem is a mén) viszont a Tejúttal azonosítható.  
-
-[[H/Heaven\|Heaven]] címnél szerepeltek az alábbiak:  
-[[H/Hon\|Hon]] címnél volt arról szó, hogy a hon lehet égi hon is, és akár történhetett egy foghang-beékelés.  
-De ha az égi kígyóból indulunk ki, hasonló `heaven`-hez a kannada nyelvű `hāvu` = kígyó.  
-Ha az égi kígyót, a Tejutat (éppen nem szarvasnak, hanem) lónak nézzük, akkor a modern finn `hevonen` = ló is egyezik vele (a [[H/Hab\|hab]] címnél is taglalt standard/régi finnben a göröggel azonosan `hepo` = ló; azaz a finn és germán szó aligha lehetne hasonlítható?). Hogy a menny a ló lenne? Nos, a hún-magyarban is menny ([[M/Men\|men]]) is egyezik mén szavunkkal.  
-Továbbmenve:  
-A men/menny azonos a mén szóval, mely átment egyes nyelvekbe Hold jelentéssel (nyilván, mert a hun nyelvben is olyan alakú (is) volt). A Göd/[[G/God\|God]], továbbá Huda ([[H/Hold\|Hold]]), [[K/Kutya\|kutya]], [[K/Kuda\|kuda]] (mely egyes nyelvekben, ahogy láttuk, ló jelentésű) szavak egymással való kapcsolata, továbbá [[A/Artemisz\|Artemisz]] tejútistennő Hold-Medve (ha nem is ló) kapcsolata mind azt árulja el, hogy az ezen fogalmak az ősfelfogás szerint szorosan kapcsolódnak egymáshoz.  
-Az tény, hogy a mén hímló és nem kanca jelentésű, így mén nem lehetett a Tejútra is alkalmazható név, mert arra ott volt a szintén kún alakú [[G/Göd\|Göd]].  
-Az ideák keveredéséről [[F/Fehérlófia\|Fehérlófia]] címnél is volt szó; mén-lófasz (nemző rúd) témáról lásd [[N/Nimrud\|Nimrud]] alján.  
-
-Mén megjelenni látszik a kelta mitológiában, mint Maine/Mane; [[M/Medb\|Medb]] Tej/Mézistennő hét azonos nevű fiáról van szó.  
-
-A menni viszont nemcsak folyni, de maradni jelentéssel is megvan a latinban. A [[R/Remain\|remain]] és [[P/Permanent\|permanent]] címnél a latin `manere` = maradni, tartózkodni ige jött elő.  
-Bíró Lajos adata szerint a latin `mano` = folyik, csurog, ered, származik.  
-
-> [!note]- &nbsp;
-> A mellékelt anyag Robert Beekes Görög etimológia szótárából való:  
-> > **μήν²** \[m.] ‘month’ (II.), also ‘moon-sickle’ (Ion., Ar., Att. inscr., Thphr.). < IE *meh₁n̥-ōt, *meh₁n̥-es- ‘moon, month’
-> > **VAR** Also Att. μείς, Dor. μιής, El. μεύς; gen. μηνός, Aeol. μήννος.
-> > **COMP** μηνo-ειδής ‘formed like a moon-sickle’ (IA), PN Μηνό-δωρος, also μηνί-αρχος, -άρχης \[m.] ‘monthly prefect’ (pap. IVᵃ). after ταξί-αρχος etc.; ἡλιό-μηνος ‘missing the right month’ (T 118; cf. s.v.), ἐπι-μήν-ιος ‘lasting a month, monthly’ (IA).
-> > **DER** μήν-η ‘month’ (II.), like σελήνη -ᾱς ‘id.’ (E.); μην-ίσκος \[m.] ‘moonsickle’, especially of objects in the shape of a moon-sickle (Ar., Arist.); μην-ιᾱος ‘a month old, monthly’ (Hp., LXX, pap.), -ιείος ‘monthly’ (Hell. pap.), μην-αῖος ‘belonging to the month’ (Orac. *apud* Lyd. *Mens*; probably from μήνη); μηναῖατεία \[f.] ‘monthly achievement’ (pap. IIIᵖ), but cf. Μηνιασταί \[m.pl.] ‘adorers of Μήν’ (Rhodos); μήνιoν \[n.] (botanical) ‘peony’ (Ps.-Dsc.), from its astrological use, see Strömberg 1940: 133.  
-> > **ETYМ** From the oblique cases (gen. μην-ος < *mē̆nos*, etc.), an analogical nom. \*mēns arose, whence \*mens by Osthoff’s Law. By subsequent loss of the nasal and compensatory lengthening, μείς and μής developed. The new nom. μήν arose by analogy with gen. μηνός, etc. (after simplification of the -νν-), and El. μεύς is built on the model of Ζηνός : Ζεύς.
-> > Originally, a disyllabic nom. \*mēnōs- (with lengthened grade) or \*mēnōt- (with alternating -t-) existed beside the obl. stem \*mēn- < IE \*mēns-. Thence arose Lith. mėnuo ‘moon, month’, Go. \*menōþs ‘month’, etc. The disyllabic form is also seen in Lith. mėnes-ìs ‘month’. On monosyllabic \*mēns- are based both Lat. *mēns-is* (gen.pl. *mēnsum*) and Skt. \*mās- ‘moon, month’ < PIIr. \*maHas- < \*meh₁ns-. The development of the calendrical meaning ‘month’ was accompanied by the creation of new expressions for ‘moon’ (σελήνη, *lūna*, etc.). Original derivation from \*meh₁- ‘measure’ (see *μῆτις*), from the role of the moon as a measure of time, is quite possible.  
-
-## Hold idegen nevei
-
-Na most, a Hold M-N vázú szavait – azt gondolván, hogy mén szavunk a kiinduló – korábban ide gondoltam tenni, de menet közben kiderült, hogy legalább annyira esélyes kiindulóként [[M/Men\|meny]] szavunk, így ami itt állt, átkerült [[M/Moon#Hold idegen nevei\|moon]] címhez.  
-
-## Mén, man, menny összefüggések
-
-#### Kállay Ferenc A pogány magyarok vallása...
-
-...című könyvében nagyszerűen írja:  
-> Deguignes azt irja a hunnus lovak nemesebb fajáról, hogy az [[M/Men\|meny]]ből származott, Piringer azért a ménest mennyesnek, vagy menyből származottnak magyarázza; ebben van valami, mert a mén törzs ( = csődör) a teremtő s nemző erő, mint a [[M/Mony\|mony]] is, honnan `monyas` (= csődör). Mind a mén, mind a mony szélesen elterjedt szók, melyek még alakjaikat is egymással felcserélik, **embert, lovat, s magasb értelemben világalkotót jelentnek**, ez volt az eredeti jelentés, az élet, mint más szókat is a vallások mythologiájából kölcsönözte át, s ne feledjük, hogy **majd minden hadakozó nép az embert és lovat egy szóval fejezte ki**, mint `equus`, `eques`, `equites`, gótul `manu` = homo és equus pusillus Isidorban, máskép `mannus` Galliában (Diesenbach Celtica I. 100.). Igy volt a dolog az [[A/Arimaszpa\|arimasp]], aspasiakoi, Marsac nemzeti nevekkel (= lovas ariusok, lovas sákák, `asp` és `már` = ló)... ([Lásd 284. old.](zotero://open-pdf/library/items/DFI47XPY?page=284&annotation=GIL9G7RE))  
-> \[...\]  
-> Visszatérve most már a félbeszakított man, ménes szókra, melyeket Deguignes adatai után Piringer meny és menyeseknek vett, megjegyezzük, hogy a szerencsés ötletet chinai annalisok is támogatják, melyek szerint 102. Christus előtt, az oxus földi Muni nevü sákákkal (kikről Minna gura város neve) a chinai császár véres háborút folytatott az kulchi hires lófajért, melytől a scythák nem akartak adózni, ez a ménes a Bolor hegytetőn lakó csuda méntől származott, a hegy alján legeltek a kanczák, melyek szülték a derék lovakat (nevek `ku` = lu vagy ló), mivel vért izzadnak (vérejték), menyei lovaknak is hivatnak (l. Rittert V. 60.). ([Lásd 288. old.](zotero://open-pdf/library/items/DFI47XPY?page=288&annotation=4PDTTNJA)) ^DFI47XPY-GIL9G7RE
-- Ugyanígy a [[L/LU\|LU]] = fény alapjelentése mellett embert és lovat is jelent.
-- Világalkotó vagy világ főember név a [[M/Manu\|Manu]] és [[M/Mani\|Mani]]. 
-- A vér itt is lehet a hajnal.
-
-## Lábjegyzetek
-
-[^1]: Lábjegyzet:  
-Eric Partridge adata, hogy a római hajnalistennő, Aurora (megfelelője a görög Eosz) előtt az ősi olasz hajnalistennő neve **Matuta** volt. Ezt hozza fel a francia `matin` elődjeként.  
-[[H/Hajnal\|Hajnal]] címnél közben szintén taglaltuk az itteni összefüggéseket.  
-
-</div></div>
-
-
-#### Kállay Ferenc A pogány magyarok vallása...
-
-...című könyvének további sorai:
 > Indiában szinte a Ramajana epos szerint Manu volt az első király a [[M/Men\|meny]] törvényadója.  
 > 
 > Lassen szerint a Rigved hymnusai, még csak egy Manut ismernek, ki [[B/Brahma\|Brahma]] fia volt a teremtő, kinek ő demiurgussa, másutt mondja hogy Manus a hindouk hite szerint eszmeisitett képe az istentől lelkesitett törvény adónak, Egyiptomban Men vagy Menes, Lydiában Menes, Phrygiában Manes, Cretában Minos, Germaniában Manous ugyanazon egy fő valósági név. ([Lásd 284. old.](zotero://open-pdf/library/items/DFI47XPY?page=284&annotation=JDFZ6WCJ))
 > 
 > Hogy a német `Mann`, `Mannus`, `Mensch` szók a sanskrit Manu, Manus nevekkel összefüggnek, arról köz a megegyezés (l. Arndtot p. 301. 302. Boppot Jahrb. für Wiss. kritik. 1836. Nro. 59, ki a czigány `Manusch` (Mensch) szót is megemliti. ([Lásd 285. old.](zotero://open-pdf/library/items/DFI47XPY?page=285&annotation=9MGP9VER)) 
 > 
-> ..., de még Egyiptomban Mendes = coelum stellifer, s e név Herodotban áll a második osztályú isteni nevek közt (Buhle Geschichte der Philosophie t.l.p. 15. 42.). Champollion a Mandus király nevét fel is fedezte a hieroglyphek közt Rosellini nagy gyűjteményében, a királyok temetkező helyének is Menephtheion neve volt, siciliai Diodor pedig és Herodot nyilván irják, hogy első egyiptomi király Mén vagy Ménes volt, ki az istenek után uralkodott s Memphist épité. ([Lásd 287. old.](zotero://open-pdf/library/items/DFI47XPY?page=287&annotation=95Y6XT8K)) ^DFI47XPY-9MGP9VER
-- Akkor Memphis is nyilván Men-Apisz vagy hasonló felbontású.
-
-Másutt:  
-> Kafteristanban **Mainu** a jó isten neve, [[B/Buddha\|Buddhá]]nak is Ázsiában Sakja Mani, és igy Muni a köz neve, mely egyszersmind urat s királyt is jelent (Ritter V. 113.). ([Lásd 286. old.](zotero://open-pdf/library/items/DFI47XPY?page=286&annotation=BRG9WKDP))
-- Lásd még [[A/Angra Manju\|Angra Mainju]] nevében is.
-
-## Manu törvénykönyve
-
-#### A Pallas Nagy Lexikona adatsora:
-
-> Szanszkritül Manavadharma sásztra, a manavák, egy ilyen nevü véda-iskola követőeinek törvénytudománya. Az indek bevett szokásuk szerint csodás eredetet tulajdonítanak neki. A mű előszavában el van mondva, hogy a risik v. bölcsek Manu Szvaiambhu fia, az ős ember elé járultak és felkérték őt, hogy magyarázza meg nekik részletesen a négy kaszt törvényét. Manu teljesíti kérésöket s az első 57 versben elmondja a világ keletkezésének történetét. Aztán a nagy bölcs Ehrigunak engedi át a szót, ki jól ismeri a Brahma isten által Manuval közlött törvényeket. A törvénykönyv többi része tehát Bhrigu elbeszéléséből eredőnek van feltüntetve. Ez a leghiresebb műve az ind. jogi irodalomnak. Valószinüleg egy régibb Manava-dharmaszutra, a manava-iskola egy rövidre szabott törvénykönyvecskéjének bővített átdolgozása. Mint annyi más ind műnek, ugy M. megirásának idejét sem lehet pontosan meghatározni. Bühler azt hiszi, hogy legkorábban Kr. e. kétszáz évvel s legkésőbben Kr. u. a II. sz.-ban keletkezhetett. Ez azonban csak hipotézis. V. ö. Haughton, Manove- Dharma-Sastra with the verbal englisch translation by Windows. Jones (London 1825 2 köt.); Loiscleur-Deslongchamps, Lois de Manou. Publ. en sanserit avec des motes et trad. avec notes explic (Páris 1830-33, 2 köt.). 
-
-#### William F. Warren Paradise Found: Cradle of the Human Race at the North Pole...
-
-...című művében is közli a már ismert infót, azt az Aveszta és az ind Manu törvénykönyvében szereplő adatot, miszerint egy év egy napig tartott. Ezt a nézetet már korábban Magyar Adorján is említette könyvében. Ami viszont nem került szóba, illetve [[Y/Yuga cycles\|Yuga cycles]]-nál felvetődött, hogy a Puranák emberi és isteni évei közötti 360-szoros eltérést ez a matematikai összefüggés látszik feloldani:  
-> Although the Hindus no longer associated Yama with the North at the time of the writing of this ancient book, they well understood that Yama's primitive Eden in Ilavrita, around the north polar Meru, where the gods reside, has only one day and one night in the year. This is the language of the Code: "A year of mortals is a day and a night of the gods, or regents of the universe seated around the North Pole; and again their division is this: their day is the northern and their night the southern course of the sun."  
-> —  
-> Bár a hinduk már nem társították Jamát az északkal az ősi könyv megírásának idején, jól értették, hogy Jama ősi Édenkertje Ilavritában, az északi pólus körüli Meru körül, ahol az istenek lakoznak, csak egy napból és egy éjszakából áll az évben. Ez a Kódex nyelve: "A halandók egy éve az istenek, vagy az univerzum északi pólus körül ülő kormányzói egy napja és egy éjszakája; és ismét az ő felosztásuk ez: az ő napjuk az északi, az ő éjszakájuk pedig a nap déli pályája."
-
-John Major Jenkins Galactic Alignment című könyvének 127. oldalán szól Manuról és arról, hogy állt a Világév 24000 évből, ahol a leszálló és felszálló 12000 év felbontása az alábbi módon történik.  
-![assets/Manu_image1.png|fix_dark fix_light](/img/user/M/assets/Manu_image1.png)  
+> ..., de még Egyiptomban Mendes = coelum stellifer, s e név Herodotban áll a második osztályú isteni nevek közt (Buhle Geschichte der Philosophie t.l.p. 15. 42.). Champollion a Mandus király nevét fel is fedezte a hieroglyphek közt Rosellini nagy gyűjteményében, a királyok temetkező helyének is Menephtheion neve volt, siciliai Diodor pedig és Herodot nyilván irják, hogy első egyiptomi király Mén vagy Ménes volt, ki az istenek után uralkodott s Memphist épité. ([Lásd 287. old.](zotero://open-pdf/library/items/DFI47XPY?page=287&annotation=95Y6XT8K)) 
 
 </div></div>
 
