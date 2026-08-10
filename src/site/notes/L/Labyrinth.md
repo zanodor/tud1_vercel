@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2026-08-09T17:56"}
+{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2026-08-10T12:19"}
 ---
 
 
@@ -7,10 +7,11 @@
 
 Labirintus, útvesztő.  
 
-#### Paksi Zoltán...
+#### Paksi Zoltán írja:
 
-...adata lehetett:  
 > Kréta szigetén volt legjelentősebb a bikakultusz. Minosz fiát a marathoni síkon egy bika gázolja halálra, sőt felesége egy bikával csalja meg! Ebből a nászból születik a félig bika, félig embertestű lény, a Minotaurusz. Minosz szégyenében egy labirintust építtet, s ebbe zárja a szörnyet. Ám minden kilencedik évben hét fiút és hét leányt áldoz a Minotaurusznak. Végül Thészeusz győzi le a bikát, és talál ki a labirintusból Ariadné segítségével. De miről is szól a hősi küzdelem? A szörny bika a bennünk lakozó lehúzó erő, melyre rátalálva, majd azt legyőzve találhatunk ki a labirintusból, vagyis a földi élet csapdákkal teli világából! A bika ugyanakkor más üzenetet is hordoz, hiszen maga Zeusz is megjelenik bika képében! Tehát a legmagasabb teremtő erő lehetősége is benne rejlik! Ne feledjük, hogy az égbolt minden csillagzata bennünk is megvan, így a Taurus stáció lehetőségei és feladatai nálunk is megjelennek! Tekintsünk az égre, és nézzük meg, hogy mit is szimbolizál ez az égi kép!  
+
+
 
 #### Magyar Adorján írja:  
 
