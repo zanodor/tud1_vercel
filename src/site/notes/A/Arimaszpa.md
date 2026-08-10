@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-20T06:59","updated":"2026-08-10T00:19"}
+{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-20T06:59","updated":"2026-08-10T17:46"}
 ---
 
 
@@ -43,7 +43,7 @@ Még amit Péterfai János ír:
 > A prokonnészoszi Ariszteasz, Kausztrobiosz fia epikus költeményt írt arról, hogy Phoibosztól megragadottan eljutott az [[I/Isszédonok\|isszédonok]] földjére. Ez a költemény Arimaszpea nevet visel. Az isszédonok valamerre keleten éltek, Ariszteasz viszont egy óriási hazudozó volt, akinek egyetlen állítását sem szabad elhinni, állították már az ókorban. Ettől függetlenül Ariszteasz érték is lehet, mint Háry János is érték, holott mindenki tudja, hogy nagyotmondó volt.  
 > A szkíták földje északon terül el, Ariszteasz szerint is. Az isszédonok messze keleten élnek, rajtuk túl laknak az egyszemű arimaszposzok, azokon túl az aranyat őrző griffek, azokon túl meg, a tengerig, a hüperboreoszok. Ezek a népek, a hüperboreoszok kivételével, az arimaszposzok kezdeményezésére állandó háborúban élnek a szomszédjaikkal. Az arimaszposzok elűzték földjeikről az isszédonokat, az isszédonok a szküthákat, a szküthák meg a déli tengernél lakó kimmereket. Ezt Ariszteasz beszéli, de a szkíták saját hagyományai ezzel nem egyeznek meg.  
 
-Egy hasonló szóalak jön elő Kállay Ferenc A pogány magyarok vallása című könyvének [199. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=199&annotation=BAZM7QI3). A nála zsidónak (héber?) mondott `aram` ige (= callidus fuit) és `arima` = (dolosus). Előbbi tehát okosnak lenni, utóbbi ravasz értelmű. Itt még Kresznerics Ferenc megjegyzi, hogy nem aleph-fel, hanem ain betűvel íratik és kiejtése hehezettel történhetett.  
+Egy hasonló szóalak jön elő Kállay Ferenc A pogány magyarok vallása című könyvének [199. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=199&annotation=BAZM7QI3). A nála zsidónak (nyilván héber?) mondott `aram` ige (= callidus fuit) és `arima` = (dolosus). Előbbi tehát okosnak lenni, utóbbi ravasz értelmű. Itt még Kresznerics Ferenc megjegyzi, hogy nem aleph-fel, hanem ain betűvel íratik és kiejtése hehezettel történhetett.  
 Ezen szóalakok megfelelnek az [[O/Öröm\|öröm]] címnél látott alakoknak. Itt még annak a hangoztatása következhetne, hogy a szkíta `arima` = egy értelmét Istenhez és ahhoz fűzött örömittas tisztelethez (öröm-énekekhez) kössük, de mivel [[A/Arám\|arám]] névvel is köthető, és ott [[H/Három\|három]] fogalmát is felhoztuk, itt az egyháromságra gondolhatunk (három = egy).  
 
 ## Alternatív értelmezése
