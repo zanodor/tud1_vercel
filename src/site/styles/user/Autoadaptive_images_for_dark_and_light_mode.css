@@ -57,21 +57,21 @@
 } 
 
 /* https://chatgpt.com/c/6a6105ca-c288-83eb-9b74-61b12da0c84e */
-/* NavigAIS iframe: Gruvbox dark mode adaptation */
-body.theme-dark iframe[src*="navigais-web.pd.istc.cnr.it"],
-.theme-dark .markdown-rendered iframe[src*="navigais-web.pd.istc.cnr.it"] {
+/* iframe: Gruvbox dark mode adaptation */
+body.theme-dark iframe,
+.theme-dark .markdown-rendered iframe {
   filter: invert(87.5%) hue-rotate(180deg) saturate(85%) contrast(0.95) !important;
 }
 
-/* NavigAIS iframe: Gruvbox light mode adaptation */
-.theme-light iframe[src*="navigais-web.pd.istc.cnr.it"],
-.theme-light .markdown-rendered iframe[src*="navigais-web.pd.istc.cnr.it"] {
+/* iframe: Gruvbox light mode adaptation */
+.theme-light iframe,
+.theme-light .markdown-rendered iframe {
   filter: sepia(90%) hue-rotate(-10deg) saturate(230%) brightness(0.96) contrast(1) !important;
 }
 
 /* Common iframe sizing */
-iframe[src*="navigais-web.pd.istc.cnr.it"] {
-  width: 100%;
+iframe {
+  width: 100% !important;
   height: 500px;
   border: none;
 }
