@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pogácsa/","title":"Pogácsa","created":"2025-03-08T20:43","updated":"2026-03-05T01:53"}
+{"dg-publish":true,"permalink":"/P/Pogácsa/","title":"Pogácsa","created":"2025-03-08T20:43","updated":"2026-08-10T12:20"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Előrésze nyilván [[P/POG\|Pog]] = Nap, mely figurálhat úgy, hogy mint a hő, amiben sütjük a pogácsát és úgy, aminek (Jézusnak) testét esszük. De mi a [[K/Kalács\|kalács]] szóban is meglévő ács értelme a szóban? Nyilván a Teremtő (Ács, Ász, Ős) neve. Persze itt lehet, hogy csak csinálásról van szó, mint ahogy a sütés is efféle élelem gyártási mód.  
 
-Pogácsa nem más mint Bog-Atya. Nap-Atya. **Bogota** is így van alkotva.  
+Pogácsa nem más mint Bog-Atya. Nap-Atya. **Bogota** neve is így van alkotva.  
 
 Megegyezik vele az olasz-angol [[F/Focaccia\|focaccia]]. A görögben is `phóg` = süt, mely a [[F/Focus\|focus]] címnél taglalt ideákkal is szépen kapcsolódik. POG = [[F/FOK\|FOK]].  
 
