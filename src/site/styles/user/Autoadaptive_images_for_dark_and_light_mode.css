@@ -56,22 +56,29 @@
   mix-blend-mode: screen;
 } 
 
-/* https://chatgpt.com/c/6a6105ca-c288-83eb-9b74-61b12da0c84e */
+/* https://chatgpt.com/c/6a6105ca-c288-83eb-9b74-61b12da0c84e és https://claude.ai/chat/153f7bf0-d078-4eb1-b393-2472f9f1f954 */
 /* iframe: Gruvbox dark mode adaptation */
-body.theme-dark iframe,
-.theme-dark .markdown-rendered iframe {
+body.theme-dark iframe:not([src*="youtube"]):not([src*="youtu.be"]):not([src*="rumble.com"]),
+.theme-dark .markdown-rendered iframe:not([src*="youtube"]):not([src*="youtu.be"]):not([src*="rumble.com"]) {
   filter: invert(87.5%) hue-rotate(180deg) saturate(85%) contrast(0.95) !important;
 }
 
 /* iframe: Gruvbox light mode adaptation */
-.theme-light iframe,
-.theme-light .markdown-rendered iframe {
+.theme-light iframe:not([src*="youtube"]):not([src*="youtu.be"]):not([src*="rumble.com"]),
+.theme-light .markdown-rendered iframe:not([src*="youtube"]):not([src*="youtu.be"]):not([src*="rumble.com"]) {
   filter: sepia(90%) hue-rotate(-10deg) saturate(230%) brightness(0.96) contrast(1) !important;
 }
 
-/* Common iframe sizing */
-iframe {
+/* Common iframe sizing – kivételek megtartják a saját width/height attribútumaikat */
+iframe:not([src*="youtube"]):not([src*="youtu.be"]):not([src*="rumble.com"]) {
   width: 100% !important;
   height: 500px;
+  border: none;
+}
+
+/* Kivételek: border eltávolítása, de méret marad az attribútumokból */
+iframe[src*="youtube"],
+iframe[src*="youtu.be"],
+iframe[src*="rumble.com"] {
   border: none;
 }
