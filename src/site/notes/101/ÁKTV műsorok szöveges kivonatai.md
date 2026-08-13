@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-07-03T23:09"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-08-13T02:43"}
 ---
 
 
@@ -22,6 +22,12 @@
 **Videók archivált összefoglalókkal**:  
 
 **2026:**
+
+<small>[260812CN! LÓÜGY](https://rumble.com/v7e36hk-26082cn-lgy-kubnyi-tams-ktv.html)  [https://share.note.sx/qnlee2cp](https://share.note.sx/qnlee2cp) [https://archive.ph/dIE2P](https://archive.ph/dIE2P)</small>
+<small>[260811CN! A MEGHASONLÁS NAPJA](https://rumble.com/v7e1diu-260811cn-a-meghasonls-napja-kubnyi-tams-ktv.html)  [https://share.note.sx/02604den](https://share.note.sx/02604den) [https://archive.ph/YpVvA](https://archive.ph/YpVvA)</small>
+<small>[260810CN! ELŐTTÜNK KIRÁLYKODÓ KIRÁLYOK](https://rumble.com/v7dzqea-260810cn-elttnk-kirlykod-kirlyok-kubnyi-tams-ktv.html)  [https://share.note.sx/et2qiz1x](https://share.note.sx/et2qiz1x) [https://archive.ph/3WEI7](https://archive.ph/3WEI7)</small>
+
+---
 
 <small>[260703CN! EGÁN EDE](https://rumble.com/v7c7bww-260703cn-egn-ede-kubnyi-tams-ktv.html)  [https://share.note.sx/orto4n46](https://share.note.sx/orto4n46) [https://archive.ph/XFc6w](https://archive.ph/XFc6w)</small>
 <small>[260702CN! PÁRBESZÉD](https://rumble.com/v7c5pk4-260702cn-prbeszd-kubnyi-tams-ktv.html)  [https://share.note.sx/d2yxew3f](https://share.note.sx/d2yxew3f) [https://archive.ph/vsRva](https://archive.ph/vsRva)</small>
