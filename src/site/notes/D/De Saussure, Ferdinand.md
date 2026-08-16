@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/De Saussure, Ferdinand/","title":"De Saussure, Ferdinand","tags":["containstransclusions","containscallouts"],"created":"2024-04-25T13:30","updated":"2026-08-09T17:57"}
+{"dg-publish":true,"permalink":"/D/De Saussure, Ferdinand/","title":"De Saussure, Ferdinand","tags":["containstransclusions","containscallouts"],"created":"2024-04-25T13:30","updated":"2026-08-17T01:38"}
 ---
 
 
