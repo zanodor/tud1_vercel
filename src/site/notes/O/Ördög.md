@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-03T12:19","updated":"2026-08-09T17:47"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-03T12:19","updated":"2026-08-17T01:37"}
 ---
 
 
@@ -375,7 +375,7 @@ A fentebbi témák folytatását/kibontását lásd [[B/Barát és ellenség\|ba
 Ezen mondat is szerepelt ott:  
 Menet közben kiderül, hogy ördög szavunkból ered a szláv [[D/Drug\|drug]] = társ, barát jelentésű szó. Csak amíg a [[B/Barát\|barát]] fogalma nálunk a Föld-Nap viszonyában az életadó/tápláló Nap neveként jelenik meg, addig a szlávban és irániban ([[D/Druj\|druj]]) a kis éves, nálunk inkább ellenségre utaló fogalomként.  
 
-Rostás László A Sínai Szent Katalin kolostor Krisztus ikonja című az Ősi Gyökér 2015/1-2. sz. megjelent cikkében Csontváry Kosztka Tivadar Öreg Halász c. képén mutatja be, hogy a két arcfél közül az egyik istené, a másik az ördögé.  
+Rostás László A Sínai Szent Katalin kolostor Krisztus ikonja című az Ősi Gyökér 2015/1-2. sz. megjelent cikkében Csontváry Kosztka Tivadar Az Öreg Halász című képén mutatja be, hogy a két arcfél közül az egyik istené, a másik az ördögé.  
 ![assets/Ördög_image5.jpeg|fix_light|840](/img/user/O/assets/%C3%96rd%C3%B6g_image5.jpeg)  
 Nagy Attila az Ősi Gyökér 2007/4. sz. megjelent A Tükör trükkje című cikkében ír angyal és ördögről helyenként erőltetett szójátékokkal fűszerezve. Ha lenne időm rá, elolvasnám. Alkalomadtán.  
 
