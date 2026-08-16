@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csálé/","title":"Csálé","created":"2023-10-23T02:33","updated":"2026-07-23T11:45"}
+{"dg-publish":true,"permalink":"/C/Csálé/","title":"Csálé","created":"2023-10-23T02:33","updated":"2026-08-17T01:38"}
 ---
 
 
@@ -19,4 +19,4 @@ CzF az ökörfogat irányításáról:
 Normális esetben (CzF úgy írja, hogy átvitt értelemben) az itt bal oldalnak csálé jelentése annyi mint ferde:  
 > Átv. ért. csáléra am. görbén, nem egyenes vonalban. Csáléra áll a kazal. Erkölcsi ért. jelent hamis, [[C/CSAL\|csal]]ó módot, különösen hűtlenségi elsajátitást. A hütlen tisztek kezelése alatt a jövedelem nagy része csáléra ment.  
 
-Milyen érdekes, hogy az egyenes/merőleges/derékszögű viszont az indo-európai nyelvekben a jobb ([[R/Right\|right]]) fogalmával egyező is. [[B/Bal és jobb\|Bal és jobb]] címhez, külön alcímhez be is lett téve.  
+Milyen érdekes, hogy az egyenes/merőleges/derékszögű viszont az indo-európai nyelvekben a jobb ([[R/Right\|right]]) fogalmával egyező is. [[B/Bal és jobb#Csálé oldal – bal oldal a ferde oldal, jobb oldal az egyenes oldal\|Bal és jobb]] címhez, külön alcímhez be is lett téve.  
