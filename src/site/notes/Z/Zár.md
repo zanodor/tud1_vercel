@@ -1,18 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zár/","title":"Zár","tags":["titleandheadingonedontmatch","containstransclusions"],"created":"2023-11-19T03:41","updated":"2026-08-03T20:45"}
+{"dg-publish":true,"permalink":"/Z/Zár/","title":"Zár","tags":["titleandheadingonedontmatch","containstransclusions"],"created":"2023-11-19T03:41","updated":"2026-08-17T01:29"}
 ---
 
 
 # Zár, zárul
 
-Zár szavunk is a [[K/KAR\|KAR]] alapszóhoz tartozik. Egy időszak ([[K/Kor\|kor]] = [[K/Kör\|kör]]) lezárultával jön a következő, kivált a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] fordulópontjaira vonatkoztatva. Az idő ugye körkörös. [[E/Életkör\|Életkör]]ben élünk.  
-Tehát ahogy [[S/Szer\|szer]]/[[S/Szerencse\|szerencse]] szavak `kör` értelműnek illetve ahhoz tarthatónak foghatók fel, zár is. Az időkör lezárulása napi ciklusban adná meg az olasz `sera` = este értelmét is, honnan az új nap kezdődik (lásd erről [[H/Holnap\|holnap]]).  
+Zár szavunk is a [[K/KAR\|KAR]] ([[K/Kör\|kör]]) alapszóhoz tartozik.  
+> [!check] &nbsp;
+> Egy időszak ([[K/Kor\|kor]] = kör) lezárultával jön a következő, kivált a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] fordulópontjaira vonatkoztatva. Az idő ugye körkörös. [[E/Életkör\|Életkör]]ben élünk.
+
+> [!example] &nbsp;
+> Tehát ahogy [[S/Szer\|szer]]/[[S/Szerencse\|szerencse]] szavak `kör` értelműnek illetve ahhoz tarthatónak foghatók fel, `zár` is.
+
+Az időkör lezárulása napi ciklusban adná meg az olasz `sera` = este értelmét is, honnan az új nap kezdődik (lásd erről [[H/Holnap\|holnap]]).  
 
 Felfedezhetünk más időkörre vonatkozó összefüggést is:  
 A zár = nyit = nyíl(ás) = Nyilas, ahol az év lezárul, de a másik, Ikrek felőli oldalon is metszi a [[B/Barázda\|barázda]] mellett hegyvonulatként is értelmezhető Tejút a nappályát. És lám, a spanyol `sierra` és portugál `serra` = hegylánc értelmű, és aligha hihető, hogy a latin `serra` = fűrész lenne a kiinduló, és így a 'hegylánc' jelentés egy szemantikai eltolódás eredménye lett volna, mondván hogy a fűrész fogazott élének vizuális hasonlóságán alapul a hegyvonulatok csipkézett profiljával.  
   
 
-[[S/SAR#Sar 2)\|Sar]] magyar-sumér szónál szóba került zár igénk, minthogy – az időt, annak – [[S/Samsara\|szamszára]] címnél (a szó utótagja is ide tartozik) is taglalt – körkörösségét szimbolizáló – kör periódust, így bolygók orbitális pályáját és időbeli hosszát is jelentheti. [[Z/Zero\|Zero]] értelmezése is így tulajdonképpen – Péterfai János ajánlására – `záró` lenne.  
+[[S/SAR#Sar 2)\|Sar]] magyar-sumér szónál szóba került `zár` igénk, minthogy – az időt, annak – [[S/Samsara\|szamszára]] címnél (e szó utótagja is ide tartozhat?) is taglalt – körkörösségét szimbolizáló – kör periódust, így bolygók orbitális pályáját és időbeli hosszát is jelentheti.  
+> [!example] &nbsp;
+> [[Z/Zero\|Zero]] értelmezése is így tulajdonképpen – Péterfai János ajánlására – `záró` lenne.
 
 Zár, szorít szavakkal is kapcsolatos...
 
@@ -29,7 +37,7 @@ Zár, szorít szavakkal is kapcsolatos...
 </div></div>
 
 
-A szolim-szarmata fejezetében pedig:  
+A szolim-szarmata fejezetében pedig az alábbiakkal fejeli meg:  
 > A `szál` és `szár` főnevünk, valamint a [[C/Csűr\|csűr]], `sirít` = csavar, továbbá az l-es kiejtésű `sallang` és `sallong` főnevünk és igénk összefügg a kígyóval is, mivel ez állat valóban hosszú szálszerű és sallangó azaz hullámozó: "kígyózó" mozgású. Ezenkívül azonban még összecsavarodni, fára fölcsavarodni is képes; láttuk pedig, hogy a csavarás szolim-szarmata neve siríteni és csűrni. A nem mérges kígyók áldozatukra csavarodnak, ezt nagy erővel összeszorítva megfojtják sőt csontjaikat is összetörik és csak ezután nyelik el. És íme, úgy szorít mint `zár` igénk is tisztán szolim-szarmata szócsoportbeli, amely igéinkkel azonban tökéletesen egyezik a latin-olasz `serra`, `serrare` ige, amelynek értelme szintén zár, de van szorít értelme is. Amiből következik, hogy úgy ezen latin-olasz ige mint maga a `serpens`, `serpente` = kígyó latin-olasz szó is ős-nyelvünkből, illetve szolim-szarmata őstörzsünk nyelvéből származott, mert hiszen mind sz-r, z-r alakú.  
 
 [[S/SAR#Sar 2)\|Sar]] címnél és közben (a [[S/Szegény\|szegény]] címnél álló adatsor kiegészítésének kezelhető) [[F/Félelem\|félelem]] címnél is szerepeltek alábbi...
@@ -41,9 +49,20 @@ A szolim-szarmata fejezetében pedig:
 { #aqqhvc}
 
 
-[[S/Sorrow\|Sorrow]] címnél finn szavakkal is szó volt a témáról.  
+> [!lasdmeg] &nbsp;
+> > [!Lásdmég] Lásd még &nbsp;
+> > [[S/Sorrow\|Sorrow]] címnél finn szavakkal is szó volt a témáról.
 
-Zár igénkkel rokon a héber `צורה` (`curá`) = (körbezárt) forma és a héber `צַר` (`car`) = szűk, szoros szó is.  
+A spanyol `cerrado` = zárva, szó szerint C-R-D = ZáRT. Hivatalos levezetése: `cerrar` = csukni, zárni, ahol a késői latin `serāre` = reteszelni, ahol `sera` = retesz; az angol `serry` szót is ide kötik.  
+Megint azt látjuk, hogy a spanyol a magyarral egyező, eredetinek mondható jelentést hordozza, és a latin jelentés eltér. Lásd még összefűzésről [itt](https://en.wiktionary.org/wiki/sero#Etymology_2_2), ahol a [[S/Ser\|serít]] és `cérna` szavunknak megfelelő szanszkrit `sarat` = cérna. Merthogy a zárás = kötés, és a nyitás elvágásnak felel meg.
+{ #uxdw2g}
+
+
+## Más nyelvekbeni párhuzamok
+
+`Zár` igénkkel rokon a héber `צורה` (`curá`) = (körbezárt) forma és a héber `צַר` (`car`) = szűk, szoros szó is.  
 Hogy a zár = kör értelmű, az is mutatja, hogy az örményben `cir`/`dzir` = kör.  
+
+## Zár főnév
 
 Amennyiben a `zár` főnévi értelmét vesszük alapul, még egyértelműbbnek mutatkozik a helyzet. A zár itt is a kör, hiszen a kulcslyukba helyezzük a hímségi kulcsot. Ezen ideákról [[F/Fény és anyag\|fény és anyag]] címnél is volt szó, nemcsak [[K/KAR\|KAR]] bevezetőjében.  
