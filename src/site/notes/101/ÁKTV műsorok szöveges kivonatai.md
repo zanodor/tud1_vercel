@@ -1,33 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-08-13T02:43"}
+{"dg-publish":true,"permalink":"/101/ÁKTV műsorok szöveges kivonatai/","title":"ÁKTV műsorok szöveges kivonatai","created":"2025-03-05T15:52","updated":"2026-08-20T17:36"}
 ---
 
 
 ## ÁKTV műsorok szöveges kivonatai
 
 
-
-> [!attention] &nbsp;
-> <small>A teljes Tudástár weboldal megfelelő használata érdekében a Firefox böngészőt és a videók zavartalan, hirdetésmentes eléréséhez javaslom az ezen böngészőre telepíthető [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) bővítményt használni (Videa, Rumble, YouTube és más platformok videóihoz is jó). (A Chrome jelenleg ezt a bővítményt nem engedi telepíteni.)</small>
-> 
-> <small>Mivel az archive.ph-s linkek **2026. április végétől?** bizonyos böngészőkben vagy böngésző beállításoknál csak feladványok után engednek tovább a videók egyes részeinek megtekintéseihez, innentől leginkább csak archiválás szempontjából érdekesek; érdemesebb **a Share Note-os linkeket kell használni** az olvasáshoz és az időbélyegre kattintásokkal való kalauzoláshoz.</small>
-
- > [!info]- <span style="font-weight:normal"><small> Kattints e sorra vagy oldalt a fülecskére további megjegyzésekért!</small></span> &nbsp;
-> <small>**Megjegyzés**: A mesterséges intelligencia Google Geminis összefoglalói a Google (YouTube) által automatikusan rendelkezésre bocsátott feliratozás alapján készülnek. Magyar nyelvről lévén szó, előfordulhatnak helyesírásbeli hibák, melyek mindegyikét nem veszem észre, hogy javíthassam. Elírt vezetéknevek, stb. Előfordulhat, hogy olyan kifejezések is benne maradnak, mint pl. "állítólag", "az előadó szerint", amikor a gép nem feltétlenül ért egyet azzal, amit kivonatolnia kell. Beállítása szerint **nem cenzúráz**, de helyenként ilyen szavakkal igyekszik finomítani. Ha nagyon szemet szúr valami (meg egyébként is), érdemes a időbélyegre kattintva ellenőrizni a videón, hogy mi szerepelt az eredeti hang- ill. képanyagban.</small>
-> 
-> <small>**Megjegyzés 2**: 20250922-től 20251114-ig az időbélyegre kattintásokkal a videó az eredeti Videa linkeken ment, mivel ez idő alatt Rumble-ra feltett videók linkjeit nem mindig játszotta le, de továbbra is elérhetők maradtak, azaz ha a Videa videók eltávolításra kerülnek, a Rumble-on vissza lehet nézni a videókat, viszont a Videa videókra igazított időbélyegekre kattintás módi nem fog működni.</small>
-> 
-> <small>**Megjegyzés 3**: A web app keresője nem keres és nem talál ezen összefoglalókban!</small>
-
 **Videók archivált összefoglalókkal**:  
 
 **2026:**
 
+<!-- **NEM FOLYTATOM TOVÁBB**
 <small>[260812CN! LÓÜGY](https://rumble.com/v7e36hk-26082cn-lgy-kubnyi-tams-ktv.html)  [https://share.note.sx/qnlee2cp](https://share.note.sx/qnlee2cp) [https://archive.ph/dIE2P](https://archive.ph/dIE2P)</small>
 <small>[260811CN! A MEGHASONLÁS NAPJA](https://rumble.com/v7e1diu-260811cn-a-meghasonls-napja-kubnyi-tams-ktv.html)  [https://share.note.sx/02604den](https://share.note.sx/02604den) [https://archive.ph/YpVvA](https://archive.ph/YpVvA)</small>
 <small>[260810CN! ELŐTTÜNK KIRÁLYKODÓ KIRÁLYOK](https://rumble.com/v7dzqea-260810cn-elttnk-kirlykod-kirlyok-kubnyi-tams-ktv.html)  [https://share.note.sx/et2qiz1x](https://share.note.sx/et2qiz1x) [https://archive.ph/3WEI7](https://archive.ph/3WEI7)</small>
-
----
+-->
 
 <small>[260703CN! EGÁN EDE](https://rumble.com/v7c7bww-260703cn-egn-ede-kubnyi-tams-ktv.html)  [https://share.note.sx/orto4n46](https://share.note.sx/orto4n46) [https://archive.ph/XFc6w](https://archive.ph/XFc6w)</small>
 <small>[260702CN! PÁRBESZÉD](https://rumble.com/v7c5pk4-260702cn-prbeszd-kubnyi-tams-ktv.html)  [https://share.note.sx/d2yxew3f](https://share.note.sx/d2yxew3f) [https://archive.ph/vsRva](https://archive.ph/vsRva)</small>
