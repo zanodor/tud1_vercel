@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Béke/","title":"Béke","tags":["containscallouts"],"created":"2025-10-31T18:50","updated":"2025-11-08T02:06"}
+{"dg-publish":true,"permalink":"/B/Béke/","title":"Béke","tags":["containscallouts"],"created":"2025-10-31T18:50","updated":"2026-08-20T17:37"}
 ---
 
 
@@ -22,6 +22,7 @@ A Bék-E felbontás azért is tűnik jónak, mert ír nyelven is tűzzel kapcsol
 Oroszul `mir` a béke, melyben [[M/MIR\|MIR]] csillagfény, tűz.  
 
 Tehát a fentieket azzal lehet közös nevezőre hozni, hogy a kötés, mint a két egymásra tett fadarab ősi Tűz jelkép (lásd [[A/Agni\|Agni]]). A [[S/Székely-magyar rovásírás\|székely-magyar rovásírás]]ban is a B jel ilyen és tulajdonképpen ugyanilyen B-K vázú szót találtunk oda megoldásként korábban is.  
+
 
 A békéhez hasonló felépítettségű a [[C/Csere\|csere]] szavunk; Cser-E tehát Háza a Napnak. A békét kötő, cserélő, [[S/Szer\|szer]]ződő felek meg[[T/Tisztel\|tisztel]]ik egymást azzal, hogy egymással alkut kötnek a Nap színe előtt, és teszik ezt úgy, hogy ebből egyikük sem járjon [[R/Rossz\|rossz]]ul. Mindenki örömmel, elégedettséggel távozzon. Mindkét fél [[N/Nyer\|nyer]]jen. Ez a Hunor-Magor mentalitás, szemben a Káin-Ábel modellel.  
 
