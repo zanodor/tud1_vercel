@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-03T12:19","updated":"2026-08-17T01:37"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-03T12:19","updated":"2026-08-20T17:36"}
 ---
 
 
@@ -43,7 +43,7 @@ Az l hangnál maradva, az [[A/Altitude\|altitude]] címnél taglalt kettős ért
 Alapvetően AR = OR, UR = kiemelkedés, ahogy [[O/OR\|OR]] címnél Péterfai János is említi AR-t is.  
 
 A magas az ég és ahogy láttuk, még az igei ég is előjön, pl. [[A/Arthur\|Arthur]] címnél:  
-A walesi `arth` = medve szó is hasonló módon alakulhatott ki (égi (mondai) eredetű: akár Arthur nevéből, vagy éppen fordítva). E szóval azonos a kelta-ír `ard`/`árd` = magas szó, mely [[A/Áld\|áld]] és [[A/Arduous\|arduous]] szónál is előjött, így utalhat tulajdonképpen északra (a [[V/Világhegy\|Világhegy]]re) is (vesd össze MacCulloch adatával: ír `art` = isten; [[I/Isten\|Isten]] címnél is soroltunk közös ég/magas és isten jelentésű, azonos alakú szavakat, valamint lásd még [[A/Áld\|áld]] címnél legutóbb taglalt szavak garmadáját).  
+A walesi `arth` = medve szó is hasonló módon alakulhatott ki (égi (mondai) eredetű: akár Arthur nevéből, vagy éppen fordítva). E szóval azonos a kelta-ír `ard`/`árd` = magas szó, mely [[A/Áld\|áld]] és [[A/Arduous\|arduous]] szónál is előjött, így utalhat tulajdonképpen északra (a [[V/Világhegy\|Világhegy]]re) is (vesd össze MacCulloch adatával: ír `art` = medve; isten; [[I/Isten\|Isten]] címnél is soroltunk közös ég/magas és isten jelentésű, azonos alakú szavakat, valamint lásd még [[A/Áld\|áld]] címnél legutóbb taglalt szavak garmadáját).  
 \[...\]
 Greg Rigby amatőr kutató The God Secret című könyvében J A MacCulloch The Religion of the Ancient Celts című könyvében adatolt ír nyelvű `art` = isten szót hozza, mely szót én a Teanglann szótárban `art` = kő értelemben találtam meg ([[S/Stone\|stone]] címnél írottak alapján az isten szóhoz valóban el is jutunk).  
 - Art = isten ennyi erővel ördög is lehetne.
