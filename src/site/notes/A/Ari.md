@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ari/","title":"Ari","tags":["containstransclusions"],"created":"2024-04-20T11:21","updated":"2026-08-09T18:06"}
+{"dg-publish":true,"permalink":"/A/Ari/","title":"Ari","tags":["containstransclusions"],"created":"2024-04-20T11:21","updated":"2026-08-20T17:38"}
 ---
 
 
