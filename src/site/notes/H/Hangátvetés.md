@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hangátvetés/","title":"Hangátvetés","created":"2023-12-25T10:36","updated":"2026-05-29T17:55"}
+{"dg-publish":true,"permalink":"/H/Hangátvetés/","title":"Hangátvetés","created":"2023-12-25T10:36","updated":"2026-08-20T17:37"}
 ---
 
 
 <!--section: 1-->
 # Hangátvetés
+
+<!--section: 1.1-->
+
 
 <!--section: 2-->
 #### Götz László Keleten kél a Nap...
