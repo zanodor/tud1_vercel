@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2026-08-03T20:53"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2026-08-20T17:36"}
 ---
 
 
@@ -38,7 +38,11 @@ Az Apex of the Sun's Way és a Sun's Quit tehát egyrészt nem valós sebessége
 
 ## A Szíriusz helyzete a múltban és a jövőben
 
-Az alábbi adatok J. B. Holberg könyvéből valók:  
+Az alábbi adatok...
+
+#### Jay B. Holberg Sirius Brightest Diamond in the Night Sky...
+
+...című könyvéből valók:  
 > **Over the next 60,000 years, the relative motion of Sirius and the sun will cause their mutual distance to decrease**. This motion is modest and will lead to fairly modest changes in the apparent brightness of Sirius, but will produce quite dramatic changes in its position in the night sky. Presently Sirius is obliquely approaching the solar system at a somewhat leisurely rate of 8.6km/s. If we project this three-dimensional motion of Sirius into the future, the star will make its closest approach in about 67,000 years. At that point Sirius will have closed, from its present distance of 8.5 light years, to within 7.6 light years of the sun. As a consequence, its brightness will have increased in magnitude from the present -1.41 to about -1.6.  
 > This represents only a modest 25% increase in apparent brightness and, given the logarithmic response of the human eye, will not result in any dramatic change in its visual appearance; but Sirius will outshine Jupiter and come to rival Venus when that planet is at its brightest. After closest approach, Sirius will begin to recede from the sun and slowly decline in brightness, falling back to its current levels 130,000 years from now. Looking even further into the future, Sirius will continue to fade and by 300,000 years it will have become a 0th magnitude star like Vega. By 3 million years from now it will have assumed the relative obscurity enjoyed by the host of other 5th magnitude stars, which today attract little attention, just as it did in the equally distant past, when Sirius went unnoticed by our Australopithecine ancestors. The location of Sirius in the sky will change even more dramatically. It is now progressing to the southwest at a rate of one degree every three thousand years. Ten thousand years from now this motion, together with the earth's precession, will make Sirius an exclusive jewel of the southern hemisphere skies, no longer visible in Europe or North America. At this time it will be prominent in the skies of South America, Australia, and Africa.  
 > —  
@@ -46,7 +50,7 @@ Az alábbi adatok J. B. Holberg könyvéből valók:
 > Ez csak szerény 25%-os növekedést jelent a látszólagos fényességben, és az emberi szem logaritmikus reakcióját tekintve nem fog drámai változást eredményezni a vizuális megjelenésében; de a Szíriusz túlfényesedik a Jupiteren, és a Vénusszal fog versenyezni, amikor az a bolygó a legfényesebb. A legközelebbi közeledés után a Szíriusz távolodni kezd a Naptól, és fényessége lassan csökkenni fog, majd 130 000 év múlva visszaesik a jelenlegi szintjére. Ha még messzebbre tekintünk a jövőben, a Szíriusz tovább halványul, és 300 000 év múlva már 0. magnitúdójú csillag lesz, mint a Vega. 3 millió év múlva már olyan viszonylagos homályba vész, mint a többi 5. magnitúdós csillag, amelyek ma kevés figyelmet vonzanak, ahogyan a hasonlóan távoli múltban is, amikor a Szíriusz észrevétlen maradt az ausztrál majomszerű őseink számára. A Szíriusz elhelyezkedése az égbolton még drámaiabban fog változni. Jelenleg háromezerévente egy fokkal délnyugat felé halad. Tízezer év múlva ez a mozgás a Föld precessziójával együtt a Szíriuszt a déli félteke égboltjának kizárólagos ékkövévé teszi, és többé nem lesz látható Európában vagy Észak-Amerikában. Ekkor Dél-Amerika, Ausztrália és Afrika egén lesz kiemelkedő.
 { #04i0xc}
 
-- Azt persze le kell szögezni, ezek olyan teoretikus számítások, melyek a Szíriusz-rendszerre vonatkoznak, nem a mi Naprendszerünkre, melyre nem tudunk számokat. Csak azért mert valami le van írva, még nem jelenti azt, hogy igaz.  
+- Azt persze le kell szögezni, ezek olyan teoretikus számítások, melyek a Szíriusz-rendszerre vonatkoznak, nem a mi Naprendszerünkre, melyre nem tudunk számokat. Csak azért mert valami le van írva, még nem jelenti azt, hogy igaz.
 
 [[H/Henry Kroll\|Henry Kroll]] amatőr kutató, aki egy Cosmological Ice Ages című könyvet is írt (tulajdonképpen Szíriuszról), azt állítja, hogy a Napunk az Orionban született (ezt ismert, tényként felfogható adat), majd az idők során Sirius B befogta és a Szíriusz A körül keringünk bináris rendszerben. Számítása és feltételezése szerint a 1.5 SM (solar mass) Sirius B, a 2 SM Sirius A és a 3 SM [[P/Procyon\|Procyon]] együttes tömegvonzó ereje elegendő minket oda felhúzni. A 8 fényévnyire lévő Sirius A és 10 fényévnyire lévő Procyon csillagokhoz közeledésünket sebességileg is kifejti és ez alapján számolhatta ki a 105000 éves orbitciklust. (A kivonatot egyelőre lásd csatolva. Egyébként a 25920 évet ha szintén egy negyed ciklusnak vesszük, akkor néggyel szorozva 103680 évet ad ki, mely számításának megfelelne.)  
 
@@ -61,7 +65,9 @@ A Lant csillagkép fényes Vegájáról viszont az járja, hogy a 23 (másutt 25
 Ez az adat egy 1950-es keltezésű könyvből való, az Astronomy Encyclopedia nem említi.  
 A lényeg az, hogy 500000 évvel ezelőtti magyarjaink más csillagokat is tisztelhettek, akár "Szíriuszi" rangban, de ha a Szíriusz valóban társnap és régebben 5 magnitúdójú alig látható csillag volt, táltosaink akkor is tudtak (volna) róla.  
 
-#### Noah Brosch könyvéből tallózva:  
+#### Noah Brosch Sirius Matters...
+
+...című könyvéből tallózva:  
 
 Szó van arról, hogy korábban a **Szíriusz a Tejút másik oldalán volt**:  
 > At this point, and considering the perceived motion of Sirius among the stars, it is interesting to mention a proposition by Gore[^2] (1903) based on one of the Arabic names of Sirius: al-schira al-abur ("Sirius which has passed across"). Gore linked this name with Al Sufi's mention of a mythological explanation that Sirius crossed the Milky Way in the direction of Canopus. This obviously happened during the Stone Age and, if correctly representing the human memory of an astronomical event, is truly amazing.  
@@ -69,7 +75,7 @@ Szó van arról, hogy korábban a **Szíriusz a Tejút másik oldalán volt**:
 > —  
 > Ezen a ponton, és figyelembe véve a Szíriusznak a csillagok között észlelt mozgását, érdekes megemlíteni Gore[^2] (1903) egy felvetését, amely a Szíriusz egyik arab nevén alapul: al-schira al-abur ("Szíriusz, amely átment"). Gore összekapcsolta ezt a nevet azzal, hogy al-Szufi egy mitológiai magyarázatot említett, miszerint a Szíriusz a Canopus irányában keresztezte a Tejútrendszert. Ez nyilvánvalóan a kőkorszakban történt, és ha helyesen reprezentálja egy csillagászati esemény emberi emlékét, akkor valóban elképesztő.  
 > 60 000 évvel ezelőtt a Szíriusz a Tejútrendszer keleti határán helyezkedett el, míg most annak nyugati határán. Ez a sajátmozgásának eredménye, amely a Tejútrendszer galaxis középpontja körüli pályájának, valamint a Nap és a Föld hasonló mozgásának kombinációja.  
-- Persze nem feltétlenül az araboknak kell az emléket megköszönni; a 60000 év akkor lehet igaz, ha a Szíriusz-Nap rendszer kb. 108000 éves periodicitású vagy akár több.  
+- Persze nem feltétlenül az araboknak kell az emléket megköszönni; a 60000 év akkor lehet igaz, ha a Szíriusz-Nap rendszer kb. 108000 éves periodicitású vagy akár több.
 
 Gore könyvében az eredeti szöveg így áll:  
 > According to Al-Sufi, the Arabians called Sirius al-schira al-abûr," Sirius which has passed across," also al-schira al Jamânija, "the Sirius of Yemen." He says it is called al-abûr, "because it has passed across the Milky Way into the southern region."  
@@ -79,10 +85,28 @@ Gore könyvében az eredeti szöveg így áll:
 > Elmond egy mitológiai történetet, hogy a Szíriusz miért "menekült dél felé", és miért haladt át a Tejúton a Szuhail ([[C/Canopus\|Canopus]]) felé. Ugyanezt a történetet meséli Albufaragius (XIII. század). (A történet valószínűleg Al-Sufitól származik).  
 - [[H/Habiru\|Habiru]] címhez betéve más Gore-ral kapcsolatos adat is (tulajdonképpen cáfolat).
 
-William Tyler Olcott Star Lore of All Ages című könyvében egyszerűen Al-Abur \[másutt Al-Habur\] jön elő (azonos jelentéssel[^3]). [[E/EB\|EB]] és [[I/Ivory\|ivory]] címnél hasonló szavak jöttek elő, így nem biztos, hogy éppen ezt jelenti.
+William Tyler Olcott Star Lore of All Ages című könyvében egyszerűen Al-Abur \[másutt Al-Habur\] jön elő (azonos jelentéssel[^3]). [[E/EB\|EB]] és [[I/Ivory\|ivory]] címnél hasonló szavak jöttek elő, így nem biztos, hogy éppen ezt jelenti. 
 
-De hasonló alakú a homéroszi görög, Szíriuszra értett, őszi (csillag) jelentéssel megadott Oporinos is (lásd csatolt képen). [[O/Over\|Over]] és [[A/Ábra\|ábra]] címnél is előjöttek hasonló árja szavak, de lásd inkább legutóbb a [[H/Habiru\|Habiru]] alján írottakat.  
-![assets/Sziriuszmozgasa_image8.png|fix_dark fix_light|840](/img/user/S/assets/Sziriuszmozgasa_image8.png)  
+De hasonló alakú a homéroszi görög, Szíriuszra értett, őszi (csillag) jelentéssel megadott Oporinos is. A Sirius in Ancient Greek and Roman Literature c. tanulmányban (lásd [itt](https://www.researchgate.net/publication/259745183_Sirius_in_Ancient_Greek_and_Roman_Literature)) találjuk:  
+> [!_for_blockid] &nbsp;
+> > Homer mentions Sirius in the Iliad (1924, V: 1-5, XXI: 25-32) and Odyssey (1919: v 4) as ‘oporinós’, the star of autumn, and as Orion’s dog:  
+> > > [!lasdmeg] &nbsp;
+> > > Then Athena gave power and courage to Diomedes, so that excellently amidst the Greek multitudes he would be glorified and take shining fame everywhere. From his helmet and shield a flame was visible, which pours light without sleeping, as the autumn star, bathed in the Ocean, shines with its full light. (Homer, 1924, V: 1-5). The ‘autumn star’ is actually Sirius, and appears every year, for the geographical latitude of Greece, in the predawn sky in late July or early August.
+> > 
+> > This is mentioned also by Allen, who writes:  
+> > > [!lasdmeg] &nbsp;
+> > > Homer alluded to it in the Iliad as `Οπωρινός`, the Star of Autumn; but the season intended was the last days of July, all August, and part of September—the latter part of summer. The Greeks had no word exactly to our "autumn" until the 5th century before Christ, when it appeared in writings ascribed to Hippocrates. Lord Derby translated this celebrated passage: "A fiery light. There flash’d, like autumn’s star, that brightest shines. When newly risen from his ocean bath …" (Allen, 1963: 120).
+> >
+> > —  
+> > Homérosz megemlíti a Szíriuszt az Iliászban (1924, V: 1-5, XXI: 25-32) és az Odüsszeiában (1919: v 4) mint "oporinószt", az ősz csillagát, és mint Orion kutyáját:
+> > > [!lasdmeg] &nbsp;
+> > > Ekkor Athéné erőt és bátorságot adott Diomédésznek, hogy kiválóan dicsőüljön meg a görög sokaság között, és mindenütt ragyogó hírnévre tegyen szert. Sisakjáról és pajzsáról láng volt látható, amely álom nélkül önt fényt, ahogy az őszi csillag, az Óceánba merülve, teljes fényével ragyog. (Homer, 1924, V: 1-5). Az "őszi csillag" valójában a Szíriusz, és Görögország földrajzi szélességén minden évben, július végén vagy augusztus elején jelenik meg a hajnali égbolton.
+> > 
+> > Ezt említi Allen is, aki írja:
+> > > [!lasdmeg] &nbsp;
+> > > Homérosz az Iliászban `Οπωρινός`-ként, az Ősz Csillagaként utalt rá; de az általa jelölt évszak július utolsó napjai, egész augusztus és szeptember egy része volt – a nyár későbbi szakasza. A görögöknek nem volt szavuk, amely pontosan megfelelne a mi "ősz" szavunknak, egészen az i.e. 5. századig, amikor az Hippokratésznek tulajdonított írásokban megjelent. Lord Derby így fordította ezt a híres passzust: "Tüzes fény. Ott felvillant, mint az ősz csillaga, amely a legfényesebben ragyog. Mikor újonnan emelkedett fel óceáni fürdőjéből…" (Allen, 1963: 120).
+
+[[O/Over\|Over]] és [[A/Ábra\|ábra]] címnél is előjöttek hasonló árja szavak, de lásd inkább legutóbb a [[H/Habiru\|Habiru]] alján írottakat.  
 Közben [[H/Héber\|héber]] cím alján még inkább helyre kerültek a dolgok.  
 
 Folytatás:  
@@ -139,7 +163,7 @@ Nem lennék meglepve, ha az alábbi ...
 > Sir Edmund Halley found out that the discrepancies in the positions of Sirius, Procyon, and Arcturus could not be explained as the influence of precession. This implied the existence of relative space motions between these stars and the Solar System.  
 > —  
 > Sir Edmund Halley rájött, hogy a Szíriusz, a Procyon és az Arcturus helyzetének eltérései nem magyarázhatók a precesszió hatásával. Ez arra utalt, hogy e csillagok és a Naprendszer között relatív űrmozgások léteznek.  
-- Persze nem feltétlenül az araboknak kell az emléket megköszönni.  
+- Persze nem feltétlenül az araboknak kell az emléket megköszönni.
 
 > Sirius was not always the bright blue star we see these days in our Southern sky, because, relative to the Sun and to the Earth orbiting it, Sirius is moving. About five million years ago it was in the constellation Lynx, more than 70° from the position it now has, and appeared much fainter.  
 >
