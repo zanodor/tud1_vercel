@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cigány/","title":"Cigány","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T00:59","updated":"2026-06-13T23:57"}
+{"dg-publish":true,"permalink":"/C/Cigány/","title":"Cigány","tags":["Englishtexttranslated","containscallouts"],"created":"2026-02-09T00:59","updated":"2026-08-20T17:37"}
 ---
 
 
