@@ -227,9 +227,9 @@ div.markdown-embed .callout-content li {
   }
 }
 
-/*** Callout font size override ***/
+/*** Callout font size override; !important kivéve https://claude.ai/chat/6243b295-9151-4cf9-84fe-53efd4f45ac4 alapján ***/
 .callout {
-    font-size: var(--dg-content-font-size) !important;
+    font-size: var(--dg-content-font-size);
 }
 
 /*** Callout: _for_blockid font size override ***/
