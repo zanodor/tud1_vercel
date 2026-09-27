@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ősleves/","title":"Ősleves","created":"2023-11-25T12:11","updated":"2024-10-25T23:41"}
+{"dg-publish":true,"permalink":"/O/Ősleves/","title":"Ősleves","created":"2023-11-25T12:11","updated":"2026-09-28T01:37"}
 ---
 
 
