@@ -1,9 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/S/Siker/","title":"Siker","created":"2024-04-22T12:23","updated":"2024-10-26T00:21"}
+{"dg-publish":true,"permalink":"/S/Siker/","title":"Siker","created":"2024-04-22T12:23","updated":"2026-09-28T01:37"}
 ---
 
 
 # Siker
+
+Nem ismerik a szó eredetét: a [[S/Sikér\|sikér]] szóból [indulnak ki](https://www.arcanum.com/hu/online-kiadvanyok/Lexikonok-magyar-etimologiai-szotar-F14D3/s-F3B58/siker1-F3C07/):  
+> Valamely tevékenység szerencsés kimenetele, jó eredménye’; ‘alkotással, magatartással, teljesítménnyel kivívott köztetszés’: énekszáma nagy sikert aratott. Származékai: sikeres, sikertelen, sikerül.  
+> A siker a [sikér](https://www.arcanum.com/hu/online-kiadvanyok/redirect/?type=jump&nfo=Lexikonok&dest=Lexikonok%5ESzT-ETIM-sik%C3%A9r) önállósult alakváltozata; ebben a jelentésében elvonás a sikeres szóból. Ez mint a sikér melléknévi származéka eredetileg azt jelentette: ‘ragadós’: Történék egyszer, hogy az ura egy nagy sikeres sárba dőlne, mind lovastól (Pázmány); a jelentés ezután ‘megtapadó’ ⇨ ‘hatékony’ ⇨ ‘eredményes’ vonalon fejlődött tovább.  
+
+> [!question] &nbsp;
+> Ha a `siker` formával és jelentésével egyező ónorvég `sigr` és óangol `sigor` = győzelem szavakat elnézzük, akkor azok is a sikér szóból és magyar vonalon vezetendők le?
+
+Nyilván nem; itt egy mélyebb összefüggésrendszer állítandó fel.  
 
 Itt még annyit, hogy `süker` alakban is használták régen.  
 (Ü>i változásról lásd meg üdő > idő.)  
