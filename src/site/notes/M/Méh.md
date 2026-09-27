@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2026-08-09T17:51"}
+{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2026-09-28T01:34"}
 ---
 
 
@@ -12,7 +12,8 @@ A méh nyelvünkben homonima. Két jelentése is van: a rovar méh és [[A/Anyam
 ...című könyvének 114. oldalán írja:  
 > A méh a magyar nyelvben egyaránt jelenti a mézgyűjtő és a virágot megtermékenyítő rovart, valamint a nő gyermekáldást biztosító testrészét.  
 
-Egyébként a magyar nyelv (és CzF) szerint a méh az egyetlen "állat" amely nem döglik, hanem "hal."  
+> [!important] &nbsp;
+> A magyar nyelv (és CzF) szerint a méh az egyetlen "állat" amely nem döglik, hanem "hal."
 
 #### Péterfai János...
 
