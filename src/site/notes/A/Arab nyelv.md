@@ -1,16 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arab nyelv/","title":"Arab nyelv","created":"2023-11-18T09:37","updated":"2026-05-15T22:35"}
+{"dg-publish":true,"permalink":"/A/Arab nyelv/","title":"Arab nyelv","created":"2023-11-18T09:37","updated":"2026-09-28T01:36"}
 ---
 
 
 # Arab nyelv
 
-Nyilvánvalóan óegyiptomi-szemita eredetű, azaz magyar eredetű nyelv. Az [[A/Arab\|arab]] az avar-hun óegyiptomi nyelv szavaiból sokat eltárolt (például arab `fajr` = hajnal = [[F/Fire\|fire]], [[F/Fair\|fair]]; mellyel azonos az ír `fàire` = virradat szó; de van a hausa nyelvű `feri` = fehér eredete arab lenne?).  
+Nyilvánvalóan óegyiptomi-szemita eredetű, azaz magyar eredetű nyelv. Az [[A/Arab\|arab]] az avar-hun óegyiptomi nyelv szavaiból sokat eltárolt.  
+> [!example] &nbsp;
+> Például arab `fajr` = hajnal = [[F/Fire\|fire]], [[F/Fair\|fair]]; mellyel azonos az ír `fàire` = virradat szó; de vajon a hausa nyelvű `feri` = fehér eredete arab lenne?
+
 Igen feltűnő, hogy a [[G/Gyertya\|gyertya]] jelentésű szavak a germán és arab nyelvben azonosnak mondhatók: vö. holland `kaars`, német `kerze`, izlandi `kerti` és arab `qirât`.  
 Hasonló arab és germán nyelvek közötti egyezést láttunk már a [[S/SZAT\|SZAT]] címnél előjövő arab `sa'at` = idő, óra és német `zeit` = idő (melyet azóta [[T/Tide\|tide]] eredetével tisztáztunk) szavak, és a [[Y/Year\|year]] szónál bemutatott arab `jahr` = időtartam és német-angol `jahr`/`year` = év szavak kapcsán.  
  [[S/Szappan\|Szappan]] szavunk is szinte azonos az arabban (is).  
-Ki tudja, hogy mennyi arab-magyar (germán) egyezést lehetne találni az arab nyelv beható vizsgálatával. (Persze a hivatalos tudomány valószínűleg lesöpörné az egészet azzal, hogy az arab zsidó eredetű, vagy hogy Al Biruni és más indiai utazók hozták be az arab nyelvbe a híres indo-germán szavakat.)  
-Az arab nyelv szavait nagyon fontos lenne elemezni és erre pl. Rajki András arab etimológia szótára is jó szolgálatot tehet.  
+
 
 [[K/Kígyó\|Kígyó]] szavunk például az arabban is `hija` = kígyó[^1]. De a [[M/Magyar\|magyar]] címnél taglalt arab szavak is mind felsorolhatók lehetnének itt, kezdve a Tejút egyik arab nevével, mely **Al Majarrah** – de egy másik, **Al Nahr** (A Folyó) is nahar < magyar eredetre megy vissza. Lásd erről [[M/Magyar\|magyar]] címnél.  
 
