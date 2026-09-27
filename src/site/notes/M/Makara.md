@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T08:34","updated":"2026-08-09T17:52"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T08:34","updated":"2026-09-28T01:35"}
 ---
 
 
@@ -54,8 +54,7 @@ Michel-Gerald Boutet Druidical Astrology című dolgozatában írja (a Duna-ment
 
 Úgy tűnik, a Makara név a Bakban megszülető Nap (Makar, Magur) nevéről vitetett át az őt szülő szörny illetve tengeri lény nevére.  
 
-Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 93-94. oldalán a nevet eufráteszinek, azon belül is akkádnak (a [[K/Kakkab\|kakkab]] mondjuk asszír csillagképek nevei elé is járuló kifejezés) írja le, Kakkab **Ma-Gur** és Kakkab Muna-kha neveket hozva fel Bakhalra, de még említi a szintén eufráteszi **Makhar** és **Magur** neveket is, melyekről elmondja, hogy más művében már hasonlította az ind Makara névvel. (Persze az általa  ill. forrása alapján megadott jelentés, "a kötél hajója" megint olyan, ami [[M/Magor\|Magor]] címnél is kétségeket támasztott bennünk).  { #mkkhrr}
-
+Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 93-94. oldalán a nevet eufráteszinek, azon belül is akkádnak (a [[K/Kakkab\|kakkab]] mondjuk asszír csillagképek nevei elé is járuló kifejezés) írja le, Kakkab **Ma-Gur** és Kakkab Muna-kha neveket hozva fel Bakhalra, de még említi a szintén eufráteszi **Makhar** és **Magur** neveket is, melyekről elmondja, hogy más művében már hasonlította az ind Makara névvel. (Persze az általa  ill. forrása alapján megadott jelentés, "a kötél hajója" megint olyan, ami [[M/Magor\|Magor]] címnél is kétségeket támasztott bennünk).  { #mkkhrr}
 
 - [[M/Makara Sankrati\|Makara Sankrati]] címnél Richard H. Allen könyvében is történik utalás Brown adataira; lásd ott.
 
@@ -71,8 +70,9 @@ A Constellations oldal szerzője, az Richard H. Allen Star Names című könyvé
 > Gamma (γ Nashira) jelölte a 27. babiloni ekliptikai csillagképet, Mahar sha hi-na Shahu-t, a Nyugatit a Kecskefarokban.  
 - A Shahu név a [[S/Sah\|Sahu]]nak megfelelő lehet: fej, fő jelentéssel.
 
-Másutt asszír-babiloni `mahar` = fiú (Son, azaz Sun) értelmet találtam, megint másutt `mahar` = (tanú) jelenlétében, ill. előtt. Ez hasonló a más nyelvekben talált, lentebb is említett 'újra', 'visszatér' fogalmaihoz, és visszavihető [[M/Magor\|Magor]] (újbóli) megszületésére, hol: a Bak Magur/Makar(a) nevével is fémjelzett téridőbeli helyen.  
-Másutt az asszír `mahar` = szemben állni, rivalizálni értelmét találom (honnan lehet [[N/Nimrud\|Nimrud]] nevet magyarázni akaró héber `marad` = lázad ige is akár), melyekhez hasonló, rettegést kifejező szavakat Hargita Csaba gyűjtött (lásd [[M/Magyar\|magyar]]) és akár az M-G-R vázú [[L/Lemniszkáta\|lemniszkáta]] kapcsán is taglalt, alant is sorolt finnugor szavak párja is lehet (Magor ellenpárja Hunor).  
+Másutt, egy asszír-babiloni `mahar` = fiú (Son, azaz Sun) értelmet találtam. Egy robot szerint ez egy valami régi, 19. századi, pontatlan levezetésből származhatott, de aztán [ezen](https://en.wiktionary.org/wiki/m%C4%81rum) Wiktionary kiderült, hogy az akkád `mārum` = fiú jelentésű, azaz itt a szóközepén hehes (`mahar[u]`) alak fel nem ismeréséről volt csak szó.  
+Megint másutt `mahar` = (tanú) jelenlétében, ill. előtt. Ez hasonló a más nyelvekben talált, lentebb is említett 'újra', 'visszatér' fogalmaihoz, és visszavihető [[M/Magor\|Magor]] (újbóli) megszületésére, hol: a Bak Magur/Makar(a) nevével is fémjelzett téridőbeli helyen.  
+Másutt az asszír `maḫrum` = elülső, első, valamint a `mahar` = szemben állni, rivalizálni értelmét találom (honnan lehet [[N/Nimrud\|Nimrud]] nevet magyarázni akaró héber `marad` = lázad ige is akár), melyekhez hasonló, rettegést kifejező szavakat Hargita Csaba gyűjtött (lásd [[M/Magyar\|magyar]]) és akár az M-G-R vázú [[L/Lemniszkáta\|lemniszkáta]] kapcsán is taglalt, alant is sorolt finnugor szavak párja is lehet (Magor ellenpárja Hunor).  
 Ha ez érdekes lehet. Hogy szerepelt [[K/Kazár\|kazár]] címnél?  
 > Medriczky A. dr. szóbeli közlése szerint pedig a `kadzar` és a `madzar` szavak az oszét nyelvben ma is ellentétes értelmet fejeznek ki.  
 
