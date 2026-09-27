@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magru/","title":"Magru","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:02","updated":"2026-08-09T18:48"}
+{"dg-publish":true,"permalink":"/M/Magru/","title":"Magru","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:02","updated":"2026-09-28T01:37"}
 ---
 
 
@@ -30,7 +30,12 @@ Másutt ([[K/Khamor\|Khamor]] címnél, külön alcímnél) viszont felvetettük
 > 3\. kedvező (1x/20%)
 > 4\. engedelmes (1x/20%)
 
-[[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]] címnél esett szó az öt epagomenális napról, Szíriusszal kapcsolatban:  
+## Félelem összefüggés
+
+És mi van, ha mégis lehetne a bajlós oldaláról megfogni? Hacsak nem a Hargita Csaba Ferenc által gyűjtöhetett félelmet jelentő héber M-G-R vázú szavak kapcsán gondolhatnánk ezt.  
+[[F/Félelem#Félelem, fal és lemniszkáta Magor-ívére utaló, azonos alakú szavak\|Félelem, fal és lemniszkáta Magor-ívére utaló, azonos alakú szavak]] cím/alcímnél éppen Magor névvel fémjelezve volt szó a témáról, de mondom, itt nem a téli napfordulós év végéről van szó, hanem a nyári napfordulós állásról.  
+
+Viszont [[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]] címnél esett szó az öt epagomenális napról, Szíriusszal kapcsolatban:  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/S/Szíriusz és a nyíl/#lbseo8" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -42,3 +47,8 @@ Másutt ([[K/Khamor\|Khamor]] címnél, külön alcímnél) viszont felvetettük
 
 </div></div>
   
+
+## Szemben állás összefüggés
+
+Szemben állásról, ellentartásról több helyen volt szó, leginkább a nyári napfordulós hatalomátadás (világos félévből sötétbe hajlás) kapcsán.
+{ #250503}
