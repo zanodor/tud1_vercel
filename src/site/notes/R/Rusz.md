@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Rusz/","title":"Rusz","tags":["Englishtexttranslated","containscallouts"],"created":"2024-10-26T21:20","updated":"2026-08-17T01:37"}
+{"dg-publish":true,"permalink":"/R/Rusz/","title":"Rusz","tags":["Englishtexttranslated","containscallouts"],"created":"2024-10-26T21:20","updated":"2026-09-28T01:35"}
 ---
 
 
@@ -34,7 +34,11 @@ Mielőtt Vámbéry Ármin Égitestek a török-tatár nép kultúrájában c. do
 
 Ha már a perzsa szóba került, [[R/Rusztem\|Rusztem]] nevében is szerepel.  
 
-A latinban `ros` = harmat (a rózsa harmatozásáról[^3], de a hajnal, pirkadat színe is rózsaszín(ű)), valamint `rus` = vidék, mező. Lásd még (az egyébként Fáy Elek A magyarok őshona című könyvének 111. oldalán Rusz népnév helyett Rossz-nak írt) [[R/Rossz\|rossz]]. Lásd még szintén [[R/Rosta\|rosta]] előtagját. Hasonló név még a [[R/Ruca\|ruca]].  
+A latinban `rōs` = harmat (a rózsa harmatozásáról[^3], de a hajnal, pirkadat színe is rózsaszín(ű)), valamint `rus` = vidék, mező.
+{ #px2enb}
+
+
+Lásd még (az egyébként Fáy Elek A magyarok őshona című könyvének 111. oldalán Rusz népnév helyett Rossz-nak írt) [[R/Rossz\|rossz]]. Lásd még szintén [[R/Rosta\|rosta]] előtagját. Hasonló név még a [[R/Ruca\|ruca]].  
 Megjelenik Rusz/Rosz Nap jelentésben [[A/Abrosz\|abrosz]] szóban is.  
 
 Rusz megvan a germán [[R/Ross\|ross]] = ló szóban is: ahogy a szláv nyelveknek kun, `kony` = ló szava közvetlenül a kúnok nevéről, a hunok Rusz nevéről kapta nevét. Azóta azon címnél más értelmezés is született.  
