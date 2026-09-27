@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:41","updated":"2026-08-09T17:50"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-14T04:41","updated":"2026-09-28T01:34"}
 ---
 
 
@@ -88,8 +88,9 @@ Héber-jiddis eredetű [[H/Haver\|haver]] szavunk is a héber alaki változata.
 
 Még mindig a kutyáknál maradunk. Ugyanis a héber népnevet az `ibri` ill. `ivri` = átkelni igéből is kívánják levezetni. Mint tudjuk, az igék utólag képzettek, így ez nem lehet faktor, mégis érdekes az adat.  
 Ez lényegében ugyanaz a szó(eredetre megy vissza), mint annak az [[E/Ember\|ember]] címnél a Borbola János Ősi Gyökér 2012/2-4. sz. megjelent cikkében idézett Otrokocsi Fóris Ferenc Origines Hungaricae című latin nyelvű kétkötetes munkájának első kötetében (147-149. oldal, valamint 292-293. oldalon) adatolt, vándor jelentésben közölt [[E/Ember#^9dqg03\|héber abar és ober szavak]] eredete, melyek kapcsán [[A/Avar\|avar]] címnél is írtuk, hogy Orion és/vagy Nagy Kutyájára utaló név (az Ikrek és Rák cikkelyében is van Úr, Eb/Íjazó és Orion; ez okozza a gondot).  
-A héber, illetve egy Wiktionary oldalon arámiként megtaláltנד (`abar`) = elhagy, felhagy jelentéseit...  
+A héber, illetve egy Wiktionary oldalon arámiként megtalált `נד` (`abar`) = elhagy, felhagy jelentéseit...  
 - Krizsa Katalin és Karvaly Katalin A magyar nyelv gyöknyelv c. az Ősi Gyökér 2013/4. sz. megjelent cikkükben a héberül tudó Krizsa a héber `avar` = az elmúlt, átmenő, átköltöző, folyón átkelő jelentéseit adja meg \[v = b ugye\].
+	- Van még rokon vázú arab szó is; [ezen](https://en.wiktionary.org/wiki/Appendix:Arabic_roots/%D8%BA_%D8%A8_%D8%B1) Wiktionary oldalon viszont nemcsak áthaladni, hanem helyben maradni jelentésű szavakat is találunk. A két jelentés egymás ellentéte.
 
 ...értjük, Otrokocsi Fóris még a 147. oldalon héberként transient = [[V/Vándor\|vándor]] jelentésben adja meg.
 
@@ -116,7 +117,7 @@ Ezen a ponton térjünk vissza oda, hogy a sémi igék eredete nem más, mint Eb
 **A folyóvíz partja ismét utalás a Tejútra és a két oldalán álló kutyára!** [[G/GAD\|GAD]] címnél is eljött még héber név.  
 Lentebb szó esik még indo-európai folyópart jelentésűnek megadott szóról is.  
 
-J. Ellard Gore – Astronomical Curiosities című könyvében (ahogy [[S/Szíriusz mozgása\|Szíriusz mozgása]] címnél láttuk), előjön a Szíriusz arab al-schira al-abûr neve, szó szerint, Szíriusz ami, átkerült (a másik oldalra), és elmondja az arab történetet is arról, hogy kelt \[volna\] át a Tejúton a déli régióba, [[C/Canopus\|Canopus]] (egy újabb kutyával kapcsolatba hozható név) irányába.  
+J. Ellard Gore – Astronomical Curiosities című könyvében (ahogy [[S/Szíriusz mozgása\|Szíriusz mozgása]] címnél láttuk), előjön a Szíriusz arab **al-schira al-abûr** neve, szó szerint, Szíriusz ami, átkerült (a másik oldalra), és elmondja az arab történetet is arról, hogy kelt \[volna\] át a Tejúton a déli régióba, [[C/Canopus\|Canopus]] (egy újabb kutyával kapcsolatba hozható név) irányába.  
 William Tyler Olcott Star Lore of All Ages című könyvében egyszerűen Al-Abur \[másutt Al-Habur\] jön elő (azonos jelentéssel). [[E/EB\|EB]] és [[I/Ivory\|ivory]] címnél hasonló szavak jöttek elő, így nem biztos, hogy éppen ezt jelenti. [[H/Habiru\|Habiru]] címnél korábban arról volt szó, hogy az "átkelés tárgya," a Tejútfolyam ilyen neve nyomán alakulhatott ki ez az ige, de a fentebb írottak alapján már tudjuk, hogy mégsem.  
 
 Az egész fentebb taglalt téma fogalmi/csillagászati háttere, hogy a Nap amikor a Kutyacsillaggal együtt áll, átkel a Tejút sávján. De maga a [[P/Psychopomp\|psychopomp]] kutyáról is ismert a liminális/határmenti szerepköre; a [[H/Határ\|határ]] pedig az átjárás igéjét eredményezi. Kátay-Barba Rafael Péter, a Kynologia írója is használja [[K/Kutya Görögországban\|kutya Görögországban]] címnél az átjár szót.  
