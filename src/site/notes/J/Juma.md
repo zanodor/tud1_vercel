@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Juma/","title":"Juma","created":"2023-10-15T02:38","updated":"2024-10-25T22:15"}
+{"dg-publish":true,"permalink":"/J/Juma/","title":"Juma","created":"2023-10-15T02:38","updated":"2026-09-28T01:38"}
 ---
 
 
