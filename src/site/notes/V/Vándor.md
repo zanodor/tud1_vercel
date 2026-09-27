@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vándor/","title":"Vándor","tags":["Englishtexttranslated"],"created":"2023-10-20T10:10","updated":"2026-08-03T20:43"}
+{"dg-publish":true,"permalink":"/V/Vándor/","title":"Vándor","tags":["Englishtexttranslated"],"created":"2023-10-20T10:10","updated":"2026-09-28T01:35"}
 ---
 
 
@@ -40,7 +40,7 @@ Ha égi-kozmikus vándort kell azonosítani, a [[T/Tavaszpont\|tavaszpont]] is (
 
 Lásd még idegen, jövevény és vándor témában [[H/Hágár\|Hágár]], [[P/Peregrine\|peregrine]], [[F/Foreign\|foreign]], [[M/Migrate\|migrate]], [[H/Hostile\|hostile]] és [[A/Árja\|árja]]. A legutóbb [[M/Misery\|misery]] címnél is taglalt [[M/Mazúr\|mazúr]] arab párja is a [[M/Migrate\|migrate]] címnél taglalt magyar arabokra látszik utalni.  
 Egyébként feltűnő, hogy szinte minden magyar vagy magyar-rokon nép nevének jelentésbeli kötődése van a vándor, menekül, stb. fogalmával: a bolyongást, kalandozást, csángatást kifejező szavakhoz mindig kapcsolható volt egy népnév (magyar megy, kún/hun kam és mén (mendegél), palóc bolyong, csángó "csángat", avar barangol, kőrös kalézol/halad, stb.).  
-- A palócok nevének megfelelő falassa [ezen](https://www.jewishencyclopedia.com/articles/5987-falashas) és [ezen](https://en.wiktionary.org/wiki/Falasha) adatok szerint szintén azt jelenti, hogy vándorol, bolyong.
+- A palócok nevének megfelelő falassa [ezen](https://www.jewishencyclopedia.com/articles/5987-falashas) és [ezen](https://en.wiktionary.org/wiki/Falasha) adatok szerint szintén azt jelenti, hogy vándorol, bolyong. [Ezen](https://www.youtube.com/watch?v=cr6HnZaVVxw) videóm elején és a vége felé is szóba a téma.
 
 <!--section: 4-->
 #### Bognár Ferenc Az Életfa csillag-gyökerei...
