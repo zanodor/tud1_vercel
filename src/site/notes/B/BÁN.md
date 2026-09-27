@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BÁN/","title":"BÁN","tags":["Englishtexttranslated"],"created":"2023-10-23T05:27","updated":"2024-10-23T20:18"}
+{"dg-publish":true,"permalink":"/B/BÁN/","title":"BÁN","tags":["Englishtexttranslated"],"created":"2023-10-23T05:27","updated":"2026-09-28T01:37"}
 ---
 
 
@@ -21,6 +21,6 @@ Fehéret jelent ír nyelven `bán` (`fionn` is, ahogy másutt is szó volt róla
 Érdekes, a bánik igénkkel egyezni látszó kelta-ír `beanna-igh` (az ír -igh végződés a mi [[I/Ik\|ikes]] igevégződésünkkel egyezik), mely első jelentése áldani, illetve jelent üdvözölnit is. Könnyű látni, a kelta-írben csak pozitív, fényes jelentése maradt meg, míg valójában bánni jól és rosszul (elbánik) is lehet valakivel. Régente, úgy 5-6000 évvel ezelőtt egészen másak voltak a precessziós fény-árnyék viszonyok.  
 
 Lásd még alaki párját [[P/Pán\|Pán]], ahol szó lesz urat jelentő szláv szóról.  
-Igeként bán fényhiányos, nőiségi-tellluris, mint [[B/Bánat\|bánat]], [[B/Bánt\|bánt]] és [[P/Panasz\|panasz]].  
+Igeként bán fényhiányos, nőiségi-tellurikus, mint [[B/Bánat\|bánat]], [[B/Bánt\|bánt]] és [[P/Panasz\|panasz]].  
 
 Bán szerepelhet a [[B/Banana\|banán]] szóban. Morris Silver Talking Ancient Mythology című könyvének adata szerint a sumér Tir-An-Na (lásd róla [[T/TIR\|TIR]]) mellett a sumér Ban-An-Na szintén íjat és szivárványt jelentett. Bán-An-Na így Ég Házának Fénye/Ura értelmű lehet.  
