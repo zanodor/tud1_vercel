@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Benkő Loránd/","title":"Benkő Loránd","created":"2023-10-23T03:42","updated":"2025-11-08T23:15"}
+{"dg-publish":true,"permalink":"/B/Benkő Loránd/","title":"Benkő Loránd","tags":["szerző/finnugrász","nyelvészet"],"created":"2023-10-23T03:42","updated":"2026-09-28T01:36"}
 ---
 
 
