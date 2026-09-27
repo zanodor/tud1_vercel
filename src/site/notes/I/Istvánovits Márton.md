@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Istvánovits Márton/","title":"Istvánovits Márton","tags":["containscallouts"],"created":"2023-11-03T06:12","updated":"2026-08-03T20:45"}
+{"dg-publish":true,"permalink":"/I/Istvánovits Márton/","title":"Istvánovits Márton","tags":["containscallouts","szerző"],"created":"2023-11-03T06:12","updated":"2026-09-28T01:37"}
 ---
 
 
