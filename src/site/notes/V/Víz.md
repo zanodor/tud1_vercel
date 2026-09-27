@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Víz/","title":"Víz","created":"2024-11-23T05:38","updated":"2026-05-15T22:34"}
+{"dg-publish":true,"permalink":"/V/Víz/","title":"Víz","created":"2024-11-23T05:38","updated":"2026-09-28T01:35"}
 ---
 
 
@@ -178,4 +178,4 @@ Másutt is írtam ([[H/HAL\|HAL]] címnél), hogy a nőiségi víz vízszintes, 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Lásd latin `ros` = harmat szót [[R/Rusz\|rusz]] címnél.  
+Lásd latin `rōs` = harmat, nedvesség jelentésű szót [[R/Rusz\|rusz]] címnél.  
