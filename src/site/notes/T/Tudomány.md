@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","created":"2023-10-05T06:45","updated":"2026-08-09T17:45"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-05T06:45","updated":"2026-09-28T01:33"}
 ---
 
 
 # Tudomány
+
+
 
 Alapvetően nem az egyesítésre, a holisztikus világképre, hanem disszektálásra épül (ahol a szétválasztás a szétverés szinonimája), valamint az alárendelő és nem mellérendelő felfogást követi.  
 
@@ -418,7 +420,9 @@ Azt, hogy milyen elképesztő következetlenségeket találunk a nyelvtudományb
 #### Grandpierre Atilla Az élő univerzum...  
 
 ...című dolgozatában írja:  
->  Az Ősrobbanás elméletében a galaxisok túlnyomórészt egykorúak. Amíg az univerzum korára a [[B/Big Bang\|Big Bang]] elmélete 8-15 milliárd évet ad, a galaxisok 7-10-14 milliárd éve, az első csillagok mintegy 5-8 milliárd éve keletkezhettek. Ezzel szemben problémát jelent, hogy például az M92 gömbhalmaz kora kb. 19 milliárd év, bizonyos RR Lyrae típusú csillagok kora nagyobb 17 milliárd évnél! A legöregebb ismert csillagok kora 16-19 milliárd év, szemben a Big Bang ajánlotta 5-8 milliárd évvel. Ez az Ősrobbanás elméletének kor-paradoxona.
+>  Az Ősrobbanás elméletében a galaxisok túlnyomórészt egykorúak. Amíg az univerzum korára a [[N/Nagy Bumm\|Big Bang]] elmélete 8-15 milliárd évet ad, a galaxisok 7-10-14 milliárd éve, az első csillagok mintegy 5-8 milliárd éve keletkezhettek. Ezzel szemben problémát jelent, hogy például az M92 gömbhalmaz kora kb. 19 milliárd év, bizonyos RR Lyrae típusú csillagok kora nagyobb 17 milliárd évnél! A legöregebb ismert csillagok kora 16-19 milliárd év, szemben a Big Bang ajánlotta 5-8 milliárd évvel. Ez az Ősrobbanás elméletének kor-paradoxona.
+{ #srwatd}
+
 
 ### 3
 
