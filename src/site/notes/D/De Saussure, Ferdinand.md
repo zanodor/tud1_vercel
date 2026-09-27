@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/De Saussure, Ferdinand/","title":"De Saussure, Ferdinand","tags":["containstransclusions","containscallouts"],"created":"2024-04-25T13:30","updated":"2026-08-17T01:38"}
+{"dg-publish":true,"permalink":"/D/De Saussure, Ferdinand/","title":"De Saussure, Ferdinand","tags":["containstransclusions","containscallouts"],"created":"2024-04-25T13:30","updated":"2026-09-28T01:36"}
 ---
 
 
@@ -21,10 +21,10 @@ De Saussure – ahogy minden indoeurópai nyelvész és vak követői – tehát
 > Persze ha most azt mondanánk, hogy magyar kutatói felfogással a [[T/Tábla\|tábla]] és a `Tisch` (vö. `tűz`) is a tűz fogalmát vetíti elő, akkor a tudatlan könnyedén le is hülyézhetne minket.
 
 <!--section: 3-->
-#### Darai Lajos A magyar elv a posztmodern korban...  
+#### Darai Lajos A magyar elv a posztmodern korban...
 
 <!--section: 3.1-->
-...című az [Acta Historica Hungarica Turiciensia XXXV. évfolyam 1. szám, Pannon Kultúraközösség Kutató és Képzőközpont Folyóirata 2020A sz. 573.o.](<zotero://open-pdf/library/items/34DFMR2P?page=573>) írja, Bérczi Szaniszló írásai alapján is:  
+...című tanulmányában [itt](<zotero://open-pdf/library/items/MGCL8A8U?page=20&annotation=6S7ZY9YY>) írja, Bérczi Szaniszló írásai alapján is:  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/N/Nyelvészet mint tudomány/#ghpxrv" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
