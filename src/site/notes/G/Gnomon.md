@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gnomon/","title":"Gnomon","tags":["Englishtexttranslated"],"created":"2025-05-01T10:29","updated":"2026-03-05T01:36"}
+{"dg-publish":true,"permalink":"/G/Gnomon/","title":"Gnomon","tags":["Englishtexttranslated"],"created":"2025-05-01T10:29","updated":"2026-09-28T01:35"}
 ---
 
 
@@ -37,7 +37,7 @@ Jankovics Marcell folytatja:
 > Ez a típusú napóra nemcsak az órát, hanem az évszakot (hónapot, illetve a zodiákus megfelelő csillagképét) is figyelembe vette. A delet jelző vonal (lásd csatolt képen, oldalnézeten: PMG) meghosszabbításában volt a mutató (gnómon) beillesztési helye. Hosszúsága azonos volt a beillesztési pontnak a hálózat kezdőpontjától való távolságával (az oldalnézeten: GH).  
 > ![assets/Gnomon_image2.png|fix_dark fix_light|840](/img/user/G/assets/Gnomon_image2.png)  
 > A mutató árnyéka a csonkakúpszerően kiképzett és köríves-sugaras hálózattal ellátott medencére esett, s az időt az árnyék végpontja jelezte. A medence kávájától a napóra széle oly módon húzódik beljebb, hogy a függőlegessel az illető hely szélességi fokával azonos szöget zárjon be. Ez Szamosz szigetén 371/2°, az itt ábrázolt napórán kb. 38°.  
-> A külllőszerően szétágazó sugarak az órákat jelzik (középütt a delet jelző sugár), a három félkörív a téli napfordulót (fent), a napéjegyenlőséget (középütt), illetve a nyári napfordulót (lent) jelzi. Az ilyen órák a napot napkeltétől napnyugtáig 12 egyenlő részre osztották, a nyári időzak órái tehát hosszabbak a téli időszakénál. A mutatót az ilyen típusú napóráknál vízszintesen helyezték el. Ez a napóra, amelyet 1957-ben rekonstruáltak, kb. 10 perces pontossággal mutatta az időt.  
+> A küllőszerően szétágazó sugarak az órákat jelzik (középütt a delet jelző sugár), a három félkörív a téli napfordulót (fent), a napéjegyenlőséget (középütt), illetve a nyári napfordulót (lent) jelzi. Az ilyen órák a napot napkeltétől napnyugtáig 12 egyenlő részre osztották, a nyári időzak órái tehát hosszabbak a téli időszakénál. A mutatót az ilyen típusú napóráknál vízszintesen helyezték el. Ez a napóra, amelyet 1957-ben rekonstruáltak, kb. 10 perces pontossággal mutatta az időt.  
 
 #### Jankovics Marcell A Nap könyve...
 
