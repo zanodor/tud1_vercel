@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Paszuly/","title":"Paszuly","tags":["containstransclusions"],"created":"2025-09-29T18:45","updated":"2026-05-21T05:08"}
+{"dg-publish":true,"permalink":"/P/Paszuly/","title":"Paszuly","tags":["containstransclusions"],"created":"2025-09-29T18:45","updated":"2026-09-28T01:40"}
 ---
 
 
