@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-20T06:59","updated":"2026-08-10T17:46"}
+{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-20T06:59","updated":"2026-09-28T01:40"}
 ---
 
 
