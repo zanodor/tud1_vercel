@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Karácsony/","title":"Karácsony","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2026-03-25T02:18"}
+{"dg-publish":true,"permalink":"/K/Karácsony/","title":"Karácsony","tags":["Englishtexttranslated"],"created":"2024-12-18T07:41","updated":"2026-09-28T01:33"}
 ---
 
 
@@ -310,7 +310,7 @@ A Pálos-rend korábban is megalakulhatott, főleg annak tudatában, hogy beikta
 
 [^6]: Lábjegyzet:  
 [[I/Isten\|Isten]] és [[O/Öregisten\|Öregisten]] címnél és [[K/Király\|király]] címnél is volt arról szó, hogy a ma hímséginek tartott fogalmak valójában mindkét nemre vonatkoznak és kimondottan [[N/Nagyboldogasszony\|Nagyboldogasszony]]ra vonatkoztatható (Öreg/Örök) Isten is.  
-Nagyboldogasszonyra visszatérve, miután igen valószínű, hogy karácsony szavunk előrésze az mely kiadja nemcsak [[C/Create\|create]], hanem [[G/Great\|great]] és a [[G/Gyertya\|gyertya]] címnél állló szavak eredetét is és kimondottan great az, ami itt érdekes azzal, hogy Nagy jelentésű, igen is lehet, hogy Ker-Ata itt nem a Napra utal mégsem. [[K/Kör\|Kör]], [[K/Kér\|kér]], [[K/Kérész\|kérész]], [[K/Kalász\|kalász]], [[K/Kalács\|kalács]] és karácsony címnél egyre inkább a Nagy Istenanya képe jön elő és nem a Nap (nagysága). Még ezen a ponton az is kijelenthető, hogy az Ács, Ász illetve Asszony szavunk előrésze is megfeleltethető [[A/ATA\|ATA]]-val, akár Asza, Acsa vonalon.  
+Nagyboldogasszonyra visszatérve, miután igen valószínű, hogy karácsony szavunk előrésze az mely kiadja nemcsak [[C/Create\|create]], hanem [[G/Great\|great]] és a [[G/Gyertya\|gyertya]] címnél álló szavak eredetét is és kimondottan great az, ami itt érdekes azzal, hogy Nagy jelentésű, igen is lehet, hogy Ker-Ata itt nem a Napra utal mégsem. [[K/Kör\|Kör]], [[K/Kér\|kér]], [[K/Kérész\|kérész]], [[K/Kalász\|kalász]], [[K/Kalács\|kalács]] és karácsony címnél egyre inkább a Nagy Istenanya képe jön elő és nem a Nap (nagysága). Még ezen a ponton az is kijelenthető, hogy az Ács, Ász illetve Asszony szavunk előrésze is megfeleltethető [[A/ATA\|ATA]]-val, akár Asza, Acsa vonalon.  
 
 [^7]: Lábjegyzet:  
 [Ezen](http://www.bandizsuzsanna55.blog.hu/2018/01/31/rovid_kiegeszites_a_magyar_honfoglalas_elso_vezerenek_kerdesehez) oldalon Bándi Zsuzsánna kutató említi ezen nevet és mást is.   
