@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Y/Yggdrasil/","title":"Yggdrasil","tags":["Englishtexttranslated"],"created":"2024-01-02T06:47","updated":"2026-05-23T00:34"}
+{"dg-publish":true,"permalink":"/Y/Yggdrasil/","title":"Yggdrasil","tags":["Englishtexttranslated"],"created":"2024-01-02T06:47","updated":"2026-09-28T01:36"}
 ---
 
 
@@ -17,7 +17,7 @@ Vasváry-Tóth Tibor szerint visszafelé kell olvasni: Drasil – Lizard. [[R/Ra
 
 Jankovics Marcell A fa mitológiájában a hivatalos jelentést hozza: Ygg lova. Említi azt is, hogy ez a fa kőrisfa, "világkőris". A Drasil Dra eleme fára ([[T/Tree\|tree]]) látszik utalni, míg [[S/SZIL\|SZIL]] = fényes. A ló jelentésben nyilván a táltosparipa indítékának belemosódását kell felfedezni.  
 
-![assets/Yggdrasil_image1.png|fix_light](/img/user/Y/assets/Yggdrasil_image1.png)  
+![assets/Yggdrasil_image1.png|fix_dark fix_light|840](/img/user/Y/assets/Yggdrasil_image1.png)  
 Jankovics Marcell [[E/Életfa\|életfa]] címnél is szereplő passzusa elemzi a mellékelt képet.  
 > A Tejutat gyakran két, felül összeboruló fának képzelik el. Ilyen esetben a Tejút a világtengellyel együtt 3 fát, vagy egy 3 törzsű (de nem három ágú) fát alkothat (az ágak mást jelentenek). Így ábrázolja egy 18. századi dán konstrukció a skandinávok világfáját. Az Yggdrászil az alvilágban, az ég déli pólusán gyökerezik, majd 3 szárra, törzsre bomlik. A középső egyenes törzs a Világhegyet árfúrva, az északi ég pólusa körül bont koronát, a két szélső törzs a korong alakú Föld pereménél bukkan a "felső világra," majd az éggömb íve mentén a középső törzs felé hajol. Hasonló felfogású világfaábrázolással a népművészetben is találkozhatunk. Ezek az ábrázolások a Tejút és a világtengely viszonyát modellezik a Föld központú világkép szerint. Persze a 2, 3 vagy több törzsű fa is értelmezhető másképp. Felfogható folyamatábrának is: ha a szárak egy tőből erednek, vagy tövük egy középpont felé mutat, a tejútforgást jelképezhetik; égtájjelként a Napnak a Tejúthoz viszonyított főbb állomásait. Ilyen 3, a tövével együtt igazából 4 szárú világfa a [[K/Kereszt\|kereszt]].  
 
