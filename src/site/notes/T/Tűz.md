@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","tags":["containscallouts"],"created":"2024-12-18T11:46","updated":"2026-08-09T14:03"}
+{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","tags":["containscallouts"],"created":"2024-12-18T11:46","updated":"2026-09-28T01:34"}
 ---
 
 
@@ -220,10 +220,10 @@ Tűz szavunk megjelenik idegen nyelvekben is:
 A görög-latin `theos`/[[D/Deus\|deus]] = isten (hivatalosan a nyelvészet a görög szót – láss csodát – [[T/Tesz\|tesz]] jelentésű gyökre vezeti vissza és a latin szót egy világosságot jelentő gyökre), úgy ahogy az angol [[D/Deuce\|deuce]] szó is, tűz szavunkból kell eredjen (erre a felismerésre Ipolyi Arnold Magyar mythologia című könyvének 320. oldalán található *`teuz`* = tűz írásmód ébresztett rá igazán), míg az IE-rokonnak gondolt div/dév/déva nevek eredete lehet [[T/Tevő\|tevő]] vagy [[D/Dió\|dió]] irányában keresendő, de nyilván van magyar logikai átfedés, hiszen a tűz elem hímségi, és a hím dolga a tevés, teremtés.  
 
 Az isteneknél maradva a kelta-római túlvilágisten (eredetileg ez is nő) [[D/Dis\|Dis]] is tűz szavunkkal azonosítható. Lásd bővebben [[T/Tiszafa\|tiszafa]].  
-A fentebb már taglalt kalasok [[D/Dizane\|Dizane]] istennőjének nevében is Diz ugyanígy értelmezendő.  
+A fentebb már taglalt kalasok [[D/Dizane\|Dizane]] istennőjének nevében is Diz ugyanígy értelmezendő (*ő a tűzhely és az életerő istennője*; védi a gyermekeket és a szülő nőket).  
 Istennőknél maradva a csecsen/ingus [[T/Tusoli\|Tusoli]] istenasszony nevében is szerepel tűz.  
 
-A Yaroslav Kesler The Perception of Open-Ended Time című cikkében talált perzsa `tuz` = faháncs, fakéreg (wood bast) szó hasonló elven ered tűz szavunk nyomán, mint ahogy a [[W/Wood\|wood]] címnél taglalt proto-uto-azték \*kut = tűzifa egyezik más nyelv tűz jelentésű szavával.  
+A perzsa `tuz` = faháncs, fakéreg szó hasonló elven ered tűz szavunk nyomán, mint ahogy a [[W/Wood\|wood]] címnél taglalt proto-uto-azték \*kut = tűzifa egyezik más nyelv tűz jelentésű szavával.  
 
 <!--section: 15-->
 #### Kállay Ferenc A pogány magyarok vallása...
