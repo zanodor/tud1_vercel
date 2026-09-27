@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Geszt/","title":"Geszt","created":"2023-10-23T03:04","updated":"2024-12-20T10:17"}
+{"dg-publish":true,"permalink":"/G/Geszt/","title":"Geszt","created":"2023-10-23T03:04","updated":"2026-09-28T01:37"}
 ---
 
 
