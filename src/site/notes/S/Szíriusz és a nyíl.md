@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:54","updated":"2026-08-09T17:51"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:54","updated":"2026-09-28T01:34"}
 ---
 
 
@@ -10,7 +10,7 @@ Bevezetésként lásd [[N/Nyíl\|nyíl]]. De bevezetésként olvashatók [[T/T\|
 Noah Brosch Sirius Matters című könyvében az – a kultúra-alapító íjfeszítő népek által használt – [[I/Íj és a nyíl\|íj és a nyíl]] Szíriuszra utalva jön elő, Iránt megelőzően(?) Egyiptomban és Babilonban is. Hogy ez a nyilván hun csillagkép-elképzelés valamiféleképpen egy [[K/Kutyanemzés\|kutyanemzés]]sel kapcsolatos teremtésmondával hozható összefüggésbe, ez valószínű. Viszont egyelőre még nem áll rendelkezésemre az a nyelvi adatsor sem, mely alapján el lehetne indulni, mindenesetre, [[N/Nyilas csillagkép\|Nyilas csillagkép]], [[K/Kutyanemzés\|kutyanemzés]], [[I/Íj és a nyíl\|íj és a nyíl]], valamint Nyilas – nyílás vonalon is [[P/Pina\|pina]], [[M/Magyar\|magyar]] és [[M/Munka\|munka]]/[[L/Labour\|labour]]/[[O/Operate\|operate]] címnél írottak alapján el lehetne lassan indulni.  
 
 
-Persze a görög ábrázolásokon is Nimrud íját a Bika Csk. irányába feszíti. (Nyilván nem véletlenül: egy régi hagyomány szerint az Univerzum középpontja a [[P/Pleiadok\|Plejádok]] [[A/Alcyone\|Alcyone]]-ja. Kérdés, hogy milyen középpont: emberi, erkölcsi, vallási értelemben fontos, vagy valóban a [[B/Big Bang\|Big Bang]] helye, melyet a mai tudomány az égbolt szinte átellenes helyére, Skorpió/Centaurus irányába tesz.)  
+Persze a görög ábrázolásokon is Nimrud íját a Bika Csk. irányába feszíti. (Nyilván nem véletlenül: egy régi hagyomány szerint az Univerzum középpontja a [[P/Pleiadok\|Plejádok]] [[A/Alcyone\|Alcyone]]-ja. Kérdés, hogy milyen középpont: emberi, erkölcsi, vallási értelemben fontos, vagy valóban a [[N/Nagy Bumm\|Big Bang]] helye, melyet a mai tudomány az égbolt szinte átellenes helyére, Skorpió/Centaurus irányába tesz.)  
 
 [[N/Nimrud#Nimrud vadász íja – merre áll és mint öl/nemz\|Nimrud vadász íja – merre áll és mint öl/nemz]] cím/alcímnél közben egy újszerű gondolatot vetettem fel: Nimrud íja/nyila a Tejútközpontban lévő vulva irányába is szegeztethet, hiszem szemből nem lehetett megrajzolni.  
 Ez az elképzelés mondjuk ellentmond [[S/Száj\|száj]] és más címnél írottaknak, az igaz.  
