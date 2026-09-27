@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2025-11-16T14:37"}
+{"dg-publish":true,"permalink":"/A/Arany/","title":"Arany","tags":["Englishtexttranslated"],"created":"2025-03-13T02:29","updated":"2026-09-28T01:35"}
 ---
 
 
@@ -158,6 +158,10 @@ Az alant említett, ...
 
 ...című Ősi Gyökér 2004/3. sz. megjelent cikkében írja:  
 > Miért nő az ember haja? A szépre áhítozó, a szépre fogékony ember a haját is ápolta, gondozta, s ez serkentőleg hathatott a hajhagymákra. Tudvalévő, hogy a hunok aranyporral hintették be hajukat. Népmeséink aranyhajú lánya olyan gyönyörűséges volt, hogy a Napra lehetett nézni, de őrá nem.  
+
+## Aranyér
+
+[Ezen](https://www.hazipatika.com/napi_egeszseg/aranyerstop/cikkek/honnan_szarmazik_az_aranyer_elnevezes) cikk adata szerint a latin `aurea vena` tükörfordítása lenne, és szerencséhez lenne köze. Nos, a [[S/Sár\|sár]] és szar szavak fényeset (is) jelentenek, és ahol az aranyér, ott akár aranyszínű (vö. "sárszínű" [[S/Saracen\|szaracén]]) anyag is távozhat. Gondoljunk még Péterfai János István [[S/SZAR\|szar]] cím bevezető passzusában említett sumér történetre is.  
 
 ## Arany szavunk népi imádságainkban
 
