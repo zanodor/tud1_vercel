@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Maid/","title":"Maid","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-21T03:53","updated":"2026-08-09T18:03"}
+{"dg-publish":true,"permalink":"/M/Maid/","title":"Maid","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-21T03:53","updated":"2026-09-28T01:36"}
 ---
 
 
@@ -12,7 +12,7 @@ Lány, lánycseléd.
 ...című könyvében írja:  
 > Azt is tudjuk már, hogy a német `Mädel`, `Mädchen` (médel, médhen): lány, angol [[M/Maid\|maid]] (méd): lány, szűz és megfordítva dam, dáma \[lásd [[D/Dame\|dame]]\] szavak mind nőt jelentő szemere szócsoportbeli szavak, ugyanúgy valamint az árja nyelvekben meglévő [[M/Mater\|mater]], [[M/Mother\|mother]], Mutter: anya szavak is, amelyek hogy valamikor negatívum azaz völgyelet sőt árok jelentésűek is kellett legyenek, ezt legjobban az ezekkel teljesen azonos magyar [[M/Meder\|meder]] szó bizonyítja.  
 - Magyar Adorján írhatta volna még az ír `maighdean` szót is, maid és [[M/Maiden\|maiden]] jelentéssel, bár lehet, hogy ez az angolból került oda.  
-Továbbá a völgyelet, azaz meder szón kívül sok más szóalak létezik alakváltozatként. Lásd [[M/Magyar\|magyar]] és más címnél.  
+Továbbá a völgyelet, azaz [[M/Meder\|meder]] szón kívül sok más szóalak létezik alakváltozatként. Lásd [[M/Magyar\|magyar]] és más címeknél.  
 
 [[M/Mátka\|Mátka]] szavunk, amit ugyan mind férfiról, mind nőről szokták érteni, gyöke is illene, bár [[M/Mate\|mate]] szóban jobban ül. Hogy a nőiség a vízzel volt kapcsolatos, erről Magyar Adorján szintén ejtett szót, de [[M/MATA\|MATA]], [[M/Mad\|mad]] (továbbá [[N/Navel\|navel]], [[N/Navy\|navy]], stb.) szócikkeknél is lesz szó ittasságról ill. magzatvízről.  
 Azóta pedig tömkelegével találtunk példákat arra, hogy a mocsár, láp, víz, bujaság, alsó helyen lét mind a nőiséget, az anyagot jeleníti meg.  
@@ -26,7 +26,7 @@ Az elmondottakhoz még tehető, hogy [[D/Daughter\|daughter]] címnél közben k
 #### Magyar Adorján Csodaszarvas...  
 
 ...című könyvében még amit ír:  
-> A magyar leány szónak régen [[S/Szűz\|szűz]] értelme is volt. Leány értelme volt az ónémet nyelvben a `magd`, `magda` szónak is, csakhogy itten már árja félreértéssel van dolgunk, mert mi tudjuk hogy [[I/Ilona\|Ilona]] Istennőnk épen ellenkezőleg a [[M/Magyar\|magyar]] vagy Magar nevet [[N/Nász\|nász]]a után veszi föl, vagyis amikor már többé nem leány hanem "[[B/Boldogasszony\|Boldogasszony]]."  
+> A magyar leány szónak régen [[S/Szűz\|szűz]] értelme is volt. Leány értelme volt az ónémet nyelvben a `magd`, `magda` szónak is, csakhogy itten már árja félreértéssel van dolgunk, mert mi tudjuk hogy [[I/Ilona\|Ilona]] Istennőnk épen ellenkezőleg a [[M/Magyar\|Magyar]] vagy Magar nevet [[N/Nász\|nász]]a után veszi föl, vagyis amikor már többé nem leány hanem "[[B/Boldogasszony\|Boldogasszony]]."  
 
 Az [alábbi](https://www.cell.com/current-biology/pdf/S0960-9822(15)00782-4.pdf) tanulmány (melyből [[P/Parthenogenesis\|parthenogenesis]] címnél idéztünk) adata szerint a héber `almah` = szűz. Ahogy az [alábbi](https://carm.org/bible-difficulties/isaiah-714-in-hebrew-means-maiden-not-virgin-therefore-it-is-not-a-prophecy/) oldal is taglalja, félrefordítás történt (a héber `almah` = maiden, nem virgin, azaz lány, nem szűz; több címnél volt arról szó, hogy a szűz aspektusa a Tejútanyának (násza előtt) lány, tündér):  
 
@@ -43,3 +43,13 @@ Az [alábbi](https://www.cell.com/current-biology/pdf/S0960-9822(15)00782-4.pdf)
 
 [[K/Kisasszony\|Kisasszony]] címnél is szóba került a Tejútanya lány/szűz aspektusa.  
 [[D/Dame\|Dame]] és [[D/Dam#Dam 2)\|dam]] címnél lásd még szintén Ilonás-Tejútistennő-állatalakos infót (hiszen dámszarvas is létezik).  
+
+## A germán szavak magyar eredete
+
+Nem tisztáztuk, hogy akkor ezen fentebb taglalt szavaknak akkor mi lehet a valós eredete, mert nyilván nem a `mátka` szó lesz a megfejtés.  
+Valószínűbb, hogy a lány, szűz jelentés egy másutt gyermeket, fiút is jelentő szóból és végső soron a [[M/MAG\|mag]] szóból jön létre.  
+
+
+Az [alábbi](https://en.wiktionary.org/wiki/mac#Scottish_Gaelic) Wiktionary helyen taglalt skót-kelta `mac` = fiú jelentésén kívül az [ezen](https://en.wiktionary.org/wiki/%E0%B2%AE%E0%B2%97%E0%B3%81#Kannada) helyen taglalt kannada `magu` = gyermek és az [ezen](https://en.wiktionary.org/wiki/%E0%AE%AE%E0%AE%95#Tamil) helyen taglalt tamil `maka` = gyermek, kisded szavak mentén kellene elindulni, annál is inkább, mert az utóbbi linken a tamil `makaḷ` = valakinek a lánya összefüggés is előjön, tehát látjuk, hogy a `mag` szavunkból kiindulni látszó más nyelvű szavakban nem látjuk hogy a fiú jelentésre szorítkoznának.  
+
+A proto-germán alakokat, amikből a későbbiek kialakulnának, lásd [itt](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/maga%C3%BEs).  
