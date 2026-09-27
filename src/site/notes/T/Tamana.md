@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tamana/","title":"Tamana","created":"2023-11-03T03:14","updated":"2026-03-05T01:38"}
+{"dg-publish":true,"permalink":"/T/Tamana/","title":"Tamana","created":"2023-11-03T03:14","updated":"2026-09-28T01:36"}
 ---
 
 
@@ -7,9 +7,12 @@
 
 Dr. Gyárfás Ágnes A szakrális nyelv elemei című az Ősi Gyökér 2008/1. sz. megjelent cikkében említi futólag Tamanát, a kis bácskai dűlő(!) nevét, amely megmozgatta a gyökrendszerben gondolkodó magyarok fantáziáját a múlt század 60-as éveiben.  
 
+[Ezen](https://web.archive.org/web/20240302043709/http://olmec98.net/tamana.htm) angol nyelven írt cikkben egy Clyde Winters nevű illető írja körül, mit is jelent ez a kutatás.  
+
 A "Tamana kis tükre" Vámos-Tóth Bátor munkásságából, Simon Endre szerkesztésében, jó bepillantást nyújt a rejtélyek tömkelegébe. A Tamana tudománynak még sok fontos kérdésre kell felelnie, mielőtt kilépne a legfontosabb tudományok körébe.  
 
-Folytassa Vámos-Tóth Bátor:  
+#### Vámos-Tóth Bátor írja:
+
 > A világnév kutatásnak a TAMANA nevet adtam. Annál is inkább, mert Kolumbiában 7 TAMANA név is van (5 falu, 1 hegy, 1 patak) és a TAMANA pataknak éppen a PALÁNKA patak a társa. Összességében – 190 ország közül – 38 helyen találtuk meg a TAMANA nevet földrajzi, törzsi, illetve családi – személynevek képében.  
 > 
 > Így vette hát kezdetét a világméretű TAMANA kutatás, amelynek keretében 190 ország névtárain keresztül haladva (egy-egy ország átlagosan 40000 nevet tartalmaz) mintegy 7600, 3-4-5-6 magánhangzós, 2-3 önálló névelemből álló földrajzi – névképlet gyűlt össze, melyek azonos szerkezeti felépítése mind megtalálhatók a Kárpátok alatt is.  
