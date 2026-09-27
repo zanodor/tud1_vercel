@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Marton Veronika/","title":"Marton Veronika","created":"2023-10-25T02:20","updated":"2025-10-30T02:33"}
+{"dg-publish":true,"permalink":"/M/Marton Veronika/","title":"Marton Veronika","tags":["szerző"],"created":"2023-10-25T02:20","updated":"2026-09-28T01:37"}
 ---
 
 
