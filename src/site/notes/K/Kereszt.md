@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kereszt/","created":"2023-10-13T12:02:00","updated":"2026-08-09T17:44"}
+{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2026-09-28T01:33"}
 ---
 
 
@@ -132,7 +132,7 @@ Bakos Attila A Duna Evangéliuma című könyvének 169. oldalán írja, hogy a 
 
 A [[B/Bal és jobb\|bal és jobb]] címnél ![assets/Kereszt_image5.jpeg|right|300](/img/user/K/assets/Kereszt_image5.jpeg)  is szereplő Altyn Tepe-i leleten bal oldalon kereszttel ábrázolt Napot találunk és a holdsarló van a jobbon (ezek után sem meglepő, hogy a [[N/Négy\|négy]] és Nap összefüggnek) (a Napot ábrázoló jelet [[N/Nap\|Nap]], valamint [[T/Test\|test]] és [[F/Figure\|figure]] címnél is bemutattuk).  
 
-[Ezen](https://youtu.be/veRiCjnJ_YQ) Jeruzsálem ősi neve című ÁKTV műsorban Kubínyi Tamás 1:47:50-től kezdi képeken is bemutatni a kereszt ilyen-olyan megjelentését, köztük an [[A/Ankh\|ankh]] címnél is taglalt kisze-bábut. ![assets/Kereszt_image6.png|fix_dark fix_light right|300](/img/user/K/assets/Kereszt_image6.png)  A mellékelt kép [ezen](https://sirasok.blog.hu/2011/03/19/kocsi_a_hallstatt_kulturaban) nagyon profi blogról való (rengeteg más érdekes bejegyzés található ott; érdemes nézedődni ott). Az erdélyi, árokaljai bronzkerékről van szó, amit a Nemzeti Múzeumban őriznek. A körkereszt sok-sok formája közül egyik a [[T/Tatárlakai napvárta-korong\|tatárlakai agyagkorong]] (melyet amulettnek mond itt Kubínyi Tamás), a Szent [[K/Korona\|korona]], de akár egy húsvéti tojáson is megtaláljuk (hasonló képekért lásd [[V/Világmodell\|világmodell]]).  
+[Ezen](https://youtu.be/veRiCjnJ_YQ) Jeruzsálem ősi neve című ÁKTV műsorban Kubínyi Tamás 1:47:50-től kezdi képeken is bemutatni a kereszt ilyen-olyan megjelentését, köztük an [[A/Ankh\|ankh]] címnél is taglalt kisze-bábut. ![assets/Kereszt_image6.png|fix_dark fix_light right|300](/img/user/K/assets/Kereszt_image6.png)  A mellékelt kép [ezen](https://sirasok.blog.hu/2011/03/19/kocsi_a_hallstatt_kulturaban) nagyon profi blogról való (rengeteg más érdekes bejegyzés található ott; érdemes nézedődni ott). Az erdélyi, árokaljai bronzkerékről van szó, amit a Nemzeti Múzeumban őriznek. A körkereszt sok-sok formája közül egyik a [[T/Tatárlakai napvárta-korong\|tatárlakai agyagkorong]] (melyet amulettnek mond itt Kubínyi Tamás), a [[K/Korona#Szent Korona\|Szent Korona]], de akár egy húsvéti tojáson is megtaláljuk (hasonló képekért lásd [[V/Világmodell\|világmodell]]).  
 
 ![assets/Kereszt_image8.jpeg|fix_dark fix_light|840](/img/user/K/assets/Kereszt_image8.jpeg)
 ![assets/Kereszt_image7.jpeg|fix_dark fix_light|840](/img/user/K/assets/Kereszt_image7.jpeg)    
@@ -168,7 +168,7 @@ Itt hadd jegyezzem meg, hogy a [[N/Négy#Négy és az ötödik irány\|négy és
 
 ...című könyvének 136. oldalán szereplő adata [[C/Crucifixion\|crucifixion]] és [[V/Vaddisznók áldozatai\|vaddisznók áldozatai]] címnél is szerepelt:  
 > **A legrégibb ábrázolás, amelyen a keresztjel fává, méghozzá "istenfává" válik**, egy sumer pecsétkőről való. Feltevés szerint [[N/Ninurta\|Ninurta]] istent, a "Disznó Urát" ábrázolja, aki a növényzetnek és aratásnak a védnöke volt: Tammúzt ő ölte meg vadkan képében. (Lásd csatolt képen.)  
-> ![assets/Kereszt_image15.png|840](/img/user/K/assets/Kereszt_image15.png)  
+> ![assets/Kereszt_image15.png|fix_dark fix_light|840](/img/user/K/assets/Kereszt_image15.png)  
 
 #### Jankovics Marcell A Nap könyve...  
 
@@ -453,12 +453,13 @@ Bakos Attila A Duna Evangéliuma című könyvének 228. oldalán az [[A/Ankh\|a
 [[S/Sothic\|Sothic]] címnél áll egy Robert Temple könyvéből vett dogon rajz, mely [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelésé]]t ábrázolná: a Napban egy X-kereszttel jelzett Szíriusz lenne rajzolva.  
 Az egyenlő szárú keresztről lásd még [[S/Suhurmasku\|Suhurmasku]] címnél Huszka József és Bobula Ida anyagát.  
 
-![assets/Kereszt_image34.png|fix_dark fix_light|840](/img/user/K/assets/Kereszt_image34.png)  
 Egy internetes cikkben a sumér egyenlő szárú, egymásba bújtatott két kereszt egyszerűen (innen) kettőskereszt nevű.  
 
 Mivel a magyar szavaknak, jelképeknek többletjelentésük van, felvetődik, hogy a kereszt nem csak a kör-oszt fogalmat takarja, hanem utal tehát égi (bolygó)pályák keresztezésére (metszéspontjára) is, sőt, – ahogy a mai modern nyelvünkben is használjuk – ~~utalhat a [[F/Fajok\|fajok]] keresztezésérére is.~~  
 Már [[H/Hunor és Magor\|Hunor és Magor]] címnél (szereplő képeket lásd) írottaknál felmerült, hogy ezekkel az infókkal csínján kell bánni, mindenesetre kétségtelen, hogy a sumér ábrázolásokon feltűnő kereszt utalhat arra az égitestre, ami a Hunokhoz, Napjukhoz, Naprendszerük égitestjéhez köthető: ~~nevezzük [[N/Nibiru\|Nibiru]]nak~~. (Amely címnél bőven taglaljuk a keresztezés ideáját, de alant is szerepel immáron.)  
 Orosz Zsolt Az Emberiség története című interneten közölt írásának tartalmával és [[S/Sitchin, Zecharia\|Sitchin, Zecharia]] értelmezéseivel kapcsolatosan is rengeteg fenntartással kell lennünk, de némely adatok újraértelmezésével közelebb kerülhetünk az igazsághoz. Az alábbiakban lásd csatolva a sumér kereszt-jeleket, melyek égitestre utalhatnak.  
+![assets/Kereszt_image34.png|fix_dark fix_light|840](/img/user/K/assets/Kereszt_image34.png)  
+
 A fentebb közölt kép adatai szerint viszont az egyenlő szárú kereszt pusztán Nap-szerű égitestre utal, illetve magára a Napra (a Nap relatív mozgása határozza meg a [[N/Négy\|négy]] égtájat is, ne feledjük). A kereszt használata [[N/Nibiru\|Nibiru]]ra egyelőre értelmezhetetlen, sőt[^17]. Azt is meg kell engedni, hogy a ![assets/Kereszt_image35.png|fix_dark fix_light right|300](/img/user/K/assets/Kereszt_image35.png)  James Hall szimbólumtárában (nem) szereplő adatok mindegyikét nem lehet majd fenntartás nélkül elfogadni (hiszen nyelvészeti-szimbolikus kérdésekben ő is ki van szolgáltatva a nyelvészeknek, akik ha nem magyar úton kezelik az egyes elnevezéseket, félreértelmezésekkel rukkolnak elő).  
 Még itt a Nibirunál maradva, [[N/Nibiru\|Nibiru]] címnél is volt szó arról, hogy a héber és a Nibiru név is szinte azonos átkelni jelentésű igékre vitetett vissza (akkád `eberu` és héber `ibri`/`ivri`). Na most, ha megnézzük, az angolban az átkelni értelemre a keresztezni jelentésű `cross` igét használja, mely főnévként kereszt értelmű ugye. Azaz itt valóban égi pályák keresztezéséről, áthaladásról (átvágásról, mint amilyen csillagászati értelmet a [[C/Csata\|csata]] szavunk is kifejez) van szó. Az ige értelem persze hozzákapcsolt értelem a sémiben. Az eredeti értelem a (magyar-sumer kiindulású) főnévé (mindig). [[N/Nibiru\|Nibiru]] és [[O/Orion\|Orion]] címnél már volt szó a témáról, hogy milyen metszéspontot jelenthet, de itt csak emlékeztetnék...
 
@@ -638,7 +639,7 @@ Nemcsak Varga Gézánál, de Jankovics Marcell Jelkép-kalendárium című köny
 [^8]: Lábjegyzet:  
 Ezek az összefüggések magyarázzák az antik földszimbólum széleskörű azonosságát, ami Afrikában, Indiában, Kínában, Indokínában, vagy a közép-amerikai földrészen és másutt is ismert, s az előbb említett (mezopotámiai, egyiptomi) kultúráktól függedenül feltalálható.  
 —  
-Az [alábbi](https://youtu.be/n5DW35ch1kg) ÁKA előadásban (a spirituális kérdéseket kicsit nehezen magyarázó, kicsit nehezen követhető) Bars Máriától valahol elhangzott, hogy a fény központosulásában, koncentrációjában jelenik meg az anyag. Valahogy így mondta (nem találom most). Végeredményben ezért is lehet, hogy a körbe zárt kereszt lehet a fény és egyúttal az anyagi világ Földje is.  
+Az [alábbi](https://youtu.be/n5DW35ch1kg) ÁKA előadásban (a spirituális kérdéseket kicsit nehezen magyarázó, kicsit nehezen követhető) Bars Máriától valahol elhangzott, hogy a fény központosulásában, koncentrációjában jelenik meg az anyag.  Végeredményben ezért is lehet, hogy a körbe zárt kereszt lehet a fény és egyúttal az anyagi világ Földje is.  
 
 [^9]: Lábjegyzet:  
 Jankovics Marcell írhatta volna úgy is, hogy a Világ [[K/Köldök\|köldök]]e volt.  
