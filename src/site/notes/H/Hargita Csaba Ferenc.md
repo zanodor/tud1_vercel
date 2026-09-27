@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hargita Csaba Ferenc/","title":"Hargita Csaba Ferenc","tags":["containscallouts"],"created":"2026-03-08T17:00","updated":"2026-08-09T17:58"}
+{"dg-publish":true,"permalink":"/H/Hargita Csaba Ferenc/","title":"Hargita Csaba Ferenc","tags":["containscallouts","szerző"],"created":"2026-03-08T17:00","updated":"2026-09-28T01:36"}
 ---
 
 
@@ -56,7 +56,7 @@ Az illető arcát elnézve megint az látszik, hogy ő rokonait láthatja magyar
 
 ## "Szarvas rejteke"
 
-*A nevek titka  avagy magyarok őshazája és vándorlása  a nép elnevezéseinek földrajzi előfordulásának tükrében* c. 2017-es dolgozatát nem találom jelenleg az interneten. Annak 18. oldalán szerepelt (ráadásul nem is az arabbal foglalkozik, hanem már perzsa szavakkal jön elő):  
+*A nevek titka avagy magyarok őshazája és vándorlása a nép elnevezéseinek földrajzi előfordulásának tükrében* c. 2017-es [dolgozata](https://web.archive.org/web/20180310044819/http://hargita.awardspace.com/nevek.html) már nem elérhető az interneten. Annak 18. oldalán szerepelt (ráadásul nem is az arabbal foglalkozik, hanem már perzsa szavakkal jön elő):  
 > De a perzsában a *magyarhoz*, vagy *magirhoz* hasonló hangzású kifejezéseket is találunk, például:
 > • `مغار` (`maghār`) – a szarvas rejteke, barlang
 > • `مقر` (`magharr`) – (állandó) lakhely, letelepedni; lepecsételni
