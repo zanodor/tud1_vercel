@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","created":"2023-10-15T09:46","updated":"2026-08-09T17:44"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2026-10-28T23:44"}
 ---
 
 
@@ -85,6 +85,9 @@ Ezért is lehet a [[S/Száj\|száj]] azonos a [[S/SZA\|SZA]] etimonnal, de amenn
 > Ápolónő tanuló korában, a szülő osztályra vitték csoportját, egy szülés megfigyelésére nőgyógyászati ismeretekhez. A háttérben álltak, s hangtalanul figyelték a folyamatot. Amikor a kicsi feje kibukkant a szülőcsatornából, Zsuzsa néni egy hatalmas fényt látott megjelenni, mely szinte villámként besuhant a csecsemő nyitott korona csakráján, ott, ahol a pici kutacsai még nem nőttek össze. Ez a látvány hatalmas benyomást tett Zsuzsa nénire, és tudta, hogy a Lélek testbeszállását pillantotta meg, magát az isteni életcsodát. Ő volt az egyetlen, aki tanítvány társai közül ezt megpillantotta.  
 
 Tehát ez a bizonyos isteni szikra illetve önvaló/énség az isa/[[I/Íz\|íz]] lenne.  
+> [!lasdmeg] &nbsp;
+> > [!Párhuzam] Párhuzam &nbsp;
+> > Hindu párhuzam: az [[A/Advaita\|advaita]] védánta szerint a személyes lélek ([[A/Atman\|átman]]) és az egyetemes lélek ([[B/Brahman\|Brahman]]) egyek — vö. „te Az vagy" ([forrás](https://hu.wikipedia.org/wiki/Advaita)).
 
 #### Pap Gábor Gondolatok a szkíta nép-nemzeti szertartásrendről...
 
