@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-03T12:19","updated":"2026-09-28T01:38"}
+{"dg-publish":true,"permalink":"/O/Ördög/","title":"Ördög","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-03T12:19","updated":"2026-10-28T23:44"}
 ---
 
 
@@ -379,7 +379,7 @@ Rostás László A Sínai Szent Katalin kolostor Krisztus ikonja című az Ősi 
 ![assets/Ördög_image5.jpeg|fix_light|840](/img/user/O/assets/%C3%96rd%C3%B6g_image5.jpeg)  
 Nagy Attila az Ősi Gyökér 2007/4. sz. megjelent A Tükör trükkje című cikkében ír angyal és ördögről helyenként erőltetett szójátékokkal fűszerezve. Ha lenne időm rá, elolvasnám. Alkalomadtán.  
 
-[[S/Sátán\|Sátán]] címnél láttuk már, hogy megjelenhet személynévként. Ördög Nóra neve mellett említhető [ezen](http://nuclearmorphology.hu/tortenelem/hol-lehet-az-eredeti-buda/) blogposztjáról [[P/Portus Moger\|Portus Moger]] címnél említett Eördögh Árpád blogger neve.  
+[[S/Sátán\|Sátán]] címnél láttuk már, hogy megjelenhet személynévként. Ördög Nóra neve mellett említhető [ezen](http://nuclearmorphology.hu/tortenelem/hol-lehet-az-eredeti-buda/) blogposztjáról [[P/Portus Moger\|Portus Moger]] címnél említett Eördögh Árpád blogger neve. Esélyes, hogy a spanyol Ortega családnév sem latin (`urtica`) eredetű.  
 Lásd még [[K/Kovács és az ördög\|kovács és az ördög]].  
 Lásd még [[D/DOG\|DOG]]/[[D/DOG#Dog 2)\|dog]] és [[B/Boldog\|boldog]].  
 
