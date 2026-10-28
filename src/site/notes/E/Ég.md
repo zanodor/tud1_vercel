@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ég/","title":"Ég","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-10-18T17:53","updated":"2026-10-28T23:45"}
+{"dg-publish":true,"permalink":"/E/Ég/","title":"Ég","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-10-18T17:53","updated":"2026-10-28T23:49"}
 ---
 
 
@@ -31,7 +31,7 @@ Ami még kimaradt és utólag teszem ide, a költői latin `fornix` = égbolt.
 
 Másutt:  
 > Ugyanígy van ez a törökben és szumirban is, ahol Tengir, Tengiz, Dengirra, Dingir egyaránt jelent Istent és Eget.  
-- A sumér `an` (ég) és `dig̃ir` (isten) szavakat sem véletlenül azonos ékírással jegyezték (lásd Wiktionary oldalát [itt](https://en.wiktionary.org/wiki/%F0%92%80%AD#Sumerian)).  
+- A sumér `an` (ég) és `dig̃ir` (isten) szavakat sem véletlenül azonos ékírással jegyezték (lásd Wiktionary oldalát [itt](https://en.wiktionary.org/wiki/%F0%92%80%AD#Sumerian)).  
 Az Ég és az Isten az ami valóban mindenek fölött magas, magasztos, fenséges, csodálatra és tiszteletre méltó.
 
 Ég szavunk széles körű előfordulásáról árulkodnak...
