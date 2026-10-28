@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz","containstransclusions"],"created":"2024-10-22T22:07","updated":"2026-08-09T17:54"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz","containstransclusions"],"created":"2024-10-22T22:07","updated":"2026-10-28T23:45"}
 ---
 
 
@@ -53,7 +53,7 @@ Ahogy [[L/Logosz\|logosz]] és [[N/Népetimológia\|népetimológia]] címnél i
 Van eset, hogy rendkívül csekély hajlítás történik. Pl. a *homofónia* esetén a szavak ugyanazt a hangalakot használják, de eltérő jelentéssel rendelkeznek (pl. `kész` - `kéz`).  
 Czakó Gábor **gyökhangváltás**nak nevezi, olyan példákat hozva, mint `borít` és `burkol`, amelyek ugyanazt jelentik: "befed, betakar".  
 
-Akár hívhatnánk zéró hajlításnak azon eseteket, amikor *homonímiá*ról beszélünk. (A homonímia az egyik típusa a szemantikai homogenitásnak, amely a szavak jelentésbeli kapcsolatrendszerét vizsgálja. A *homonimák* olyan szavak, amelyek ugyanazt a fonetikai vagy ortográfiai formát használják, de eltérő jelentéssel rendelkeznek.)  
+Akár hívhatnánk *zéró hajlítás*nak azon eseteket, amikor *homonímiá*ról beszélünk. (A homonímia az egyik típusa a szemantikai homogenitásnak, amely a szavak jelentésbeli kapcsolatrendszerét vizsgálja. A *homonimák* olyan szavak, amelyek ugyanazt a fonetikai vagy ortográfiai formát használják, de eltérő jelentéssel rendelkeznek.)  
 A [[M/Méh\|méh]] kettős jelentését mindenki ismeri, de a közös kiindulót csak őseink gondolkodásának megértése révén fedezhetjük fel.  
 Azt is tudja mindenki, hogy a [[M/MAG\|mag]] örökítő anyagot, ondót is jelent, de azt már kevesen, hogy a [[M/Magor\|Magor]] nevünkben is megtalálható [[M/MAG\|Mag]] Nap jelentésű. (Magor pedig épp a Tejútanya Méhszájából születik meg, a téli napforduló után.)  
 Magor ikerpárjának, [[H/Hunor\|Hunor]]nak nevében Hun is jelenthet Napot, de leginkább kemény K/G hangzókkal találjuk meg. Ott is megjelenik az örökítő anyag, [[K/Könny\|könny]] és [[G/Geny\|geny]] formában. Itt az eredeti [[K/KÖN\|Kön]]/[[K/KEN\|Ken]] formához képest már némi hangalaki változást is tapasztalunk.  
