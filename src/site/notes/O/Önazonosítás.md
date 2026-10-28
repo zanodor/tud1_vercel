@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:32","updated":"2026-08-09T17:53"}
+{"dg-publish":true,"permalink":"/O/Önazonosítás/","title":"Önazonosítás","tags":["Englishtexttranslated","containscallouts"],"created":"2024-05-09T22:32","updated":"2026-10-28T23:45"}
 ---
 
 
@@ -36,6 +36,8 @@ Ehhez a mennybéli leszármazáshoz hasonló az, hogy minden embernek megvolt a 
 Erre a szláv névre és akkor már a [[S/Sylph\|sylph]] névre is rímel a [[S/Self\|self]], mely a bevezetőben írottak szerint a germán `seele`/[[S/Soul\|soul]] szavakra megy vissza.  
 A németek `deutsch` (ófelnémet `teutsch`, hol az sch leválasztásával a Teuton, Tejút-On neveket kapjuk) népneve ugyanúgy égi származásra utal, mint a(kár az) [[A/Angol\|angol]]ok neve (azóta ezen nevet átértékeltem).  
 Ír nyelven `féin` = ön, maga, saját jelentésű, míg `fionn` = fehér szintén [[F/Fény\|fény]] szavunkkal azonosul. A fény szavunkkal azonos [[H/Hun\|hun]] címnél is szereplő mongol `hun` = ember és szántáli `hon` = gyermek is rámutatnak, hogy magát az ember fénytermészetűnek, fényből születettnek tartotta.  
+Ugyanezen elven jöttek létre a `vend`, `venét`, továbbá (a Brit-szigeteken is adatolható alakban) `finn`, illetve a `pannon` népnevek is: mindegyikük kiindulója a [[F/Fény\|fény]] szó: a régi ember önmagát a forrásával, a fénnyel azonosította, és ezt az önazonosítást a saját neve is tükrözi.  
+
 A kelta nyelvhez visszatérve, ahogy [[T/TÜN\|TÜN]] címnél is szerepelt, tün-nek tűz, Nap Háza értelme is van, Tü-Ne felbontásban. Az ír `duine` \[melyet éppen keményen, t-sen tüné-nek ejtenek\] = ember(i lény), személy (tündér) is ezen Tün, Tüne alakokra vihető vissza. (Úgy tűnik, [[F/Feridun\|Feridun]] nevében is kétszeresen szerepel a [[T/Tündér\|tündér]] jelentés.)  
 A szanszkritban `sva-pati` - szó szerint a maga ura – [[S/Szabad\|szabad]] szavunkból látszik eredni. De ezen `szva` = maga, övé jelentést összekapcsoltuk a [[S/SZA\|SZA]] = fény alapjelentésű szóval[^3] egyező szanszkrit `sva` = kutya (a nyelvészet szerint [[S/Śvan\|śvan]] a teljes alak, śva pedig szóösszetételekben használt) jelentéssel is, ahogy a perzsa `khod`- önható vagy visszaható gyök...  
 - [Ezen](https://www.youtube.com/watch? v=VEwAuVTSIUo) Bahador Alast féle videóba kommentként írtam is (teljesebb passzust lásd [[B/Barát és ellenség\|barát és ellenség]] címnél):  
