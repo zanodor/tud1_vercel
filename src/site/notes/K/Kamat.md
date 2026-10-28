@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kamat/","title":"Kamat","tags":["containstransclusions"],"created":"2026-01-23T21:07","updated":"2026-05-04T18:06"}
+{"dg-publish":true,"permalink":"/K/Kamat/","title":"Kamat","tags":["containstransclusions"],"created":"2026-01-23T21:07","updated":"2026-10-28T23:45"}
 ---
 
 
@@ -59,7 +59,8 @@ Pap Gábor itt még közben 1:18:00-nál említi a német származású argentin
 > A József-fillér híres példája bemutatja, hogy a kamat mindig csak középtávon, és sohasem hosszabb távon biztosítja a pénzforgást."  
 
 Pap Gábor maga is hoz egy saját megfogalmazásában adott summázást Geselltől (nem egyenes idézet):  
-A pénz alapvető strukturális hibája tehát nem csak azon alapul, hogy felhalmozható, hanem azon a lehetőségen is, hogy képes megakasztani a társadalom gazdasági körforgását azzal, hogy kamatszerzés forrása lehet. Így a rentabilitásnak elsőbbsége lesz a gazdaságossággal szemben és **a termelés inkább a kamatra, mint az emberi szükségletekre irányul**.  
+> A pénz alapvető strukturális hibája tehát nem csak azon alapul, hogy felhalmozható, hanem azon a lehetőségen is, hogy képes megakasztani a társadalom gazdasági körforgását azzal, hogy kamatszerzés forrása lehet. Így a rentabilitásnak elsőbbsége lesz a gazdaságossággal szemben és **a termelés inkább a kamatra, mint az emberi szükségletekre irányul**.  
+
 1:31:00-nél még felolvas a...
 
 #### Kagylókürt folyóirat 2001. 29. számából...
