@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-08-09T14:03"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-10-28T23:44"}
 ---
 
 
@@ -326,6 +326,8 @@ D>H változás lehetősége is fennáll, D>Th>H fejlődési sorrendben. Pl. `med
 D>L mássalhangzó-váltásra (lambdacizmus: dentális stopból likvidává változás) egy példa a latin `dingua` (nyelv a szájban) és `lingua` (beszélt nyelv).   
 Efféle változásról illetve hasonló esetekről másutt elvétve volt szó, például [[A/Alder\|alder]] címnél, de legutóbb a magyar nyelvben is találtam ilyet, ha erről van szó. Ugyanis a `medence` és a `melence` mindkettő nőiségi vályu/teknő forma, efféle fogalom.  
 Hasonló eset állhat fenn a sziú indiánok nyelvében: a dakota `khodá` = barát és lakota `kola` = barát szavak egymás párjai.  
+Élő percepciós példa D~L~R egybeesésre a norvég [[G/Glad\|glad]] = boldog, melynek kiejtése /ɡlɑː/ ~ /ɡɽɑː/, azaz `glar`-szerű.   
+D>R-re lásd [[ZETA/PERMANENT/LINGUISTICS/Entries/Rotacizmus\|rotacizmus]].  
 
 
 J>D változás szabálytalannak tartandó, viszont J = GY > D fejlődéssel vagy akár J = H > SZ/TH > D fejlődéssel számolhatunk. Freya > Frida nevek kapcsán ötlött fel, de a magyar nevünk megannyi változata kapcsán is láttuk, hogy működik.  
