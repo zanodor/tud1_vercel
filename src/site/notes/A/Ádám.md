@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ádám/","title":"Ádám","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-18T11:49","updated":"2026-08-09T17:55"}
+{"dg-publish":true,"permalink":"/A/Ádám/","title":"Ádám","tags":["Englishtexttranslated","containstransclusions"],"created":"2024-05-18T11:49","updated":"2026-10-28T23:47"}
 ---
 
 
