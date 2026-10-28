@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Game/","title":"Game","created":"2024-11-21T18:16","updated":"2024-11-23T05:07"}
+{"dg-publish":true,"permalink":"/G/Game/","title":"Game","created":"2024-11-21T18:16","updated":"2026-10-28T23:46"}
 ---
 
 
@@ -22,26 +22,31 @@ Nem elfelejtendő a [[G/Gém\|gém]] madárnevünk sem, mely a szarvas (és sok 
 
 Hogy mindebből hogyan válhatott [[J/Játék\|játék]] jelentése e szónak, Magyar Adorján fejti ki [[P/Pünkösdi királyság\|pünkösdi királyság]] szócikknél. Lényegében a [[V/Vadász\|vadász]]at volt az első [[S/Sport\|sport]]. A gímekre, gímszarvasokra irányuló. De ahogy Szántai Lajos kifejti, eredetileg nem leölni akarták az állatot, nem a testre céloztak, hanem az [[A/Agancs\|agancs]]ok közé. Arról is szól, hogy [[I/Íj és a nyíl\|íj és a nyíl]] szakrális célú eszközök voltak és egyes keleti Zen bölcsek még ma is használják.  
 
-A [[J/Játék\|játék]] valójában nem "játék". A mai sport játékok nem mások, mint legális, bizonyos szabályrendszer alapján működő harcok, háborúk. És milyen érdekes, hogy a vadászat is sport volt és hogy az angol `game` = játék is a vadászattal hozható kapcsolatba. A vadászat pedig nem más, mint űzés, üzekedés, azaz a nemzés előtti hódolás, hajsza. Könnyen lehet, hogy a [[S/Sport\|sport]] szó eredete is így a szaporít igénkkel hozható kapcsolatba.  
-Logikailag így kell értelmezni:  
-  
-```plantuml-svg
-@startuml
-left to right direction
-skinparam BackGroundColor transparent
-skinparam rectangle {
-    BackgroundColor #ccbe78
-}
-skinparam card {
-    roundCorner 15
-    BackgroundColor #f9f5d7
-}
-rectangle "<b>Game = vad</b>" as w1
-card "Vadászat = üzekedés = játék" as w2
+A [[J/Játék\|játék]] valójában nem "játék". A mai sport játékok nem mások, mint legális, bizonyos szabályrendszer alapján működő harcok, háborúk. És milyen érdekes, hogy a vadászat is sport volt és hogy az angol `game` = játék is a vadászattal hozható kapcsolatba. A vadászat pedig nem más, mint űzés, üzekedés, azaz a nemzés előtti hódolás, hajsza.  
+> [!question] &nbsp;
+> Lehetséges, hogy a [[S/Sport\|sport]] szó eredete is `szaporít` igénkkel hozható kapcsolatba?
 
-w1 <--> w2 : Ahol a vad = gím.
-@enduml
-```
+> [!check] &nbsp;
+> Logikailag így kell értelmezni:  
+>   
+> ```plantuml-svg
+> @startuml
+> left to right direction
+> skinparam BackGroundColor transparent
+> skinparam rectangle {
+>     BackgroundColor #ccbe78
+> }
+> skinparam card {
+>     roundCorner 15
+>     BackgroundColor #f9f5d7
+> }
+> rectangle "<b>Game = vad</b>" as w1
+> card "Vadászat = üzekedés = játék" as w2
+> 
+> w1 <--> w2 : Ahol a vad = gím.
+> @enduml
+> ```
+>
 
 Érdekes (lenni tudni), hogy(an) kialakulhatott/alakulhatott ki egy nyelv, ami a Csudaszarvas űzését festi le azzal, hogy egyik szava két ilyen jelentéssel bizonyítsa mindezt. Mintha itt is egy tervezést látnánk: magyar kutasd majd a germán nyelveket, mert abból rekonstruálni tudod a múltat és abból a jövőt.  
 
