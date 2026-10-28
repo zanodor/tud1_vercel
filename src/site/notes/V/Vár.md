@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vár/","title":"Vár","tags":["Englishtexttranslated","containstransclusions"],"created":"2026-02-08T03:29","updated":"2026-02-08T03:30"}
+{"dg-publish":true,"permalink":"/V/Vár/","title":"Vár","tags":["Englishtexttranslated","containstransclusions"],"created":"2026-02-08T03:29","updated":"2026-10-28T23:45"}
 ---
 
 
@@ -72,6 +72,16 @@ Bognár Ferenc Az Életfa csillag-gyökerei című az Ősi Gyökér 2008/3-4. sz
 
 Arról nem szól, hogy a közben [[L/Lehel\|Lehel]] címnél és [[S/Szent László és a leányszöktető kun\|Szent László legenda]] címnél képen is előjövő vár is nőiség, amit [[T/Trója\|Trója]]ként is be kellett venni (a falóval-phallosszal) és az olasz `troia` = szajha szó is erre az összefüggésre mutat rá.  
 A szűz pedig **várja**, lányként, hogy megtermékenyítsék, mert a nő vár és kér (vágy és kíván és befogad).  
+
+> [!Párhuzam] Párhuzam &nbsp;
+> Walburga – Magdeburg-párhuzamként ide kívánkozik: a germán `Walburga` ófelnémet kéttagú női név, `wald` = uralom, hatalom + `burg` = vár, védett hely, oltalom. Legismertebb viselője Szent Walburga (kb. 710–779), a heidenheimi monostor apátnője, akit a hagyomány szűzként tisztel. Vagyis egy szűz szent neve őrzi a vár-elemet – szerkezetileg ugyanaz a szűz = vár képlet, mint [[M/Magda\|Magdá]]nál tárgyalt Magdeburg = középkori *Parthenopolis* esetében (első adat: III. Ottó 989-es oklevele; Diana-szentély mondája az *Annales Magdeburgenses*-ben). Ez adat-szinten névösszetétel, nem bizonyíték ősi azonosságra – hipotézisként viszont erősíti a mintát.  
+> 
+> Ugyanez a kérdés vethető fel a bakui `Qız qalası`, azaz Szűz-torony kapcsán (12. századi formájában ma az óvárossal együtt UNESCO-helyszín). A közismert monda szerint a sah kényszerházasság elől menekülő lánya a toronyból – az akkor még a falak alatt hullámzó – Kaszpi-tengerbe vetette magát, s innen eredne a Szűz név. Az épület eredete azonban vitatott: felmerült zoroasztriánus tűztemplom-előzmény és csillagászati funkció is, tehát a mondai névmagyarázat önmagában nem lezárt. Hipotézisként – nem tényként – ide illeszthető, hogy a név a bevehetetlenség ill. érintetlenség jelentéskörébe tartozhat, vö. az angol *Maiden Castle* dorseti vaskori erőd nevével (középangol 'castle of the maidens'; 12. század előtt nem adatolt, magyarázata máig nem lezárt). A vár = [[T/Torony\|torony]] átfedést a bakui épület maga mutatja: városfalként torony, toronyként vár.  
+> 
+> Tágabb tipológiai párhuzamként: a középkori Mária-ikonográfia *hortus conclusus* típusa (Énekek éneke 4,12 nyomán: zárt kert, lepecsételt forrás) Máriát fallal körülvett kertként/bevehetetlen várként ábrázolja, a szüzességet térbeli elzártsággal fejezve ki.  
+> 
+{ #rqp7nx}
+
 
 Lásd még az Falvay Károly által is az (isten)asszony (főleg alsó)testével azonosuló [[H/Ház\|ház]]. [[K/Koszorú\|Koszorú]] címnél is szerepelt (képi) adat (is) arra nézve, hogy bejárati ajtókon azért van nőiségi szimbólumként koszorú, mert a ház asszonyát legerőteljesebben a bejárati kapu szimbolizálja.  
 [[S/Szexualitás jelképekben, használati tárgyakban, gyermekjátékokban, stb\|Szexualitás jelképekben, használati tárgyakban, gyermekjátékokban, stb]] címnél is esik szó a témáról.  
