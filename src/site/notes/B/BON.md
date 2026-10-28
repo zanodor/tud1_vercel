@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BON/","title":"BON","tags":["Englishtexttranslated"],"created":"2024-10-24T02:01","updated":"2025-04-27T15:17"}
+{"dg-publish":true,"permalink":"/B/BON/","title":"BON","tags":["Englishtexttranslated"],"created":"2024-10-24T02:01","updated":"2026-10-28T23:45"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 [[B/Bonus\|Bonus]] és [[B/Bonanza\|bonanza]], valamint [[B/Bovine\|bovine]] és [[B/Benefit\|benefit]] szavaknál írottak és a bont, [[B/Bonc\|bonc]] és angol [[B/Bone\|bone]] szavak szükségessé tették, hogy meghatározzuk a BON alapszó jelentését. Mivel tejről és a csont mész ([[M/MISZ\|MISZ]]) színéről (vagy a mész csont színéről) van szó, nehéz mást mondani, minthogy BON jelentése azért jó, mert szintén szentet, fényeset, szépet, fehéret jelent.  
 Ezen jelentésekhez jól párosul a [[B/BÁN\|BÁN]] szó is, kivált az ír `bán` = fehér jelentésében.  
-A vele azonos kelta [[B/BEN\|BEN]] = hegy szóval jól párosul még a görög hegy és temérdek jelentésű `βουνό` is.  
+A vele azonos kelta [[B/BEN\|ben]] = hegy szóval jól párosul még a görög hegy és temérdek munka jelentésű `βουνό` is.  
 
 A szó első megjelenése [[B/BUN\|BUN]] lehetett, mely a [[B/Bunda\|bunda]] szóban is megvan.  
 
