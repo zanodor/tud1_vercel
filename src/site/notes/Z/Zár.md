@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zár/","title":"Zár","tags":["titleandheadingonedontmatch","containstransclusions"],"created":"2023-11-19T03:41","updated":"2026-08-17T01:29"}
+{"dg-publish":true,"permalink":"/Z/Zár/","title":"Zár","tags":["titleandheadingonedontmatch","containstransclusions","containscallouts"],"created":"2023-11-19T03:41","updated":"2026-11-07T00:43"}
 ---
 
 
@@ -15,7 +15,7 @@ Zár szavunk is a [[K/KAR\|KAR]] ([[K/Kör\|kör]]) alapszóhoz tartozik.
 Az időkör lezárulása napi ciklusban adná meg az olasz `sera` = este értelmét is, honnan az új nap kezdődik (lásd erről [[H/Holnap\|holnap]]).  
 
 Felfedezhetünk más időkörre vonatkozó összefüggést is:  
-A zár = nyit = nyíl(ás) = Nyilas, ahol az év lezárul, de a másik, Ikrek felőli oldalon is metszi a [[B/Barázda\|barázda]] mellett hegyvonulatként is értelmezhető Tejút a nappályát. És lám, a spanyol `sierra` és portugál `serra` = hegylánc értelmű, és aligha hihető, hogy a latin `serra` = fűrész lenne a kiinduló, és így a 'hegylánc' jelentés egy szemantikai eltolódás eredménye lett volna, mondván hogy a fűrész fogazott élének vizuális hasonlóságán alapul a hegyvonulatok csipkézett profiljával.  
+A zár = nyit = nyíl(ás) = Nyilas, ahol az év lezárul, de a másik, Ikrek felőli oldalon is metszi a [[B/Barázda\|barázda]] mellett hegyvonulatként is értelmezhető Tejút a nappályát. És lám, a spanyol `sierra` és portugál `serra` = hegylánc értelmű, és aligha hihető, hogy a műveltségi szóként látható latin `serra` = fűrész lenne a kiinduló, és így a 'hegylánc' jelentés egy szemantikai eltolódás eredménye lett volna, mondván hogy a fűrész fogazott élének vizuális hasonlóságán alapul a hegyvonulatok csipkézett profiljával.  
   
 
 [[S/SAR#Sar 2)\|Sar]] magyar-sumér szónál szóba került `zár` igénk, minthogy – az időt, annak – [[S/Samsara\|szamszára]] címnél (e szó utótagja is ide tartozhat?) is taglalt – körkörösségét szimbolizáló – kör periódust, így bolygók orbitális pályáját és időbeli hosszát is jelentheti.  
@@ -45,7 +45,7 @@ A szolim-szarmata fejezetében pedig az alábbiakkal fejeli meg:
 #### Magyar Adorján Kérdések...  
 
 ...című könyvében szereplő sorai melyekben rámutat hogy a zár fogalmában a [[S/Sure\|sure]] címnél is említett szoros fogalma van meg:  
-> Ha a magyar-finnugor nyelvészetben megállapítást nyert az, hogy a magyar aggódik igénk pontos megfelelőjét képezi a finn `ankea` = szoros (vesd össze: szanszkrit `anhas` = aggály) és hogy a szorongás és aggódás azonos szavakkal is neveztettek, úgy miért nem fejtetik meg azon meglepő tény is, hogy a magyar aggódik szó az olasz `angoscia` = aggodalom, latin `ango` = szorongatni, fojtogatni, olasz `angustia` = szorultság, aggodalom, és a német `Angst` = félelem, `eng` = szoros, szűk szavakkal is azonosul? Miért nem magyaráztatik meg az is, hogy de hiszen a magyar szoros, szorít, szorong és a zár, összezár, magába zár szavak is teljesen azonosak az olasz-latin `serra` = zár igével?
+> Ha a magyar-finnugor nyelvészetben megállapítást nyert az, hogy a magyar `aggódik` igénk pontos megfelelőjét képezi a finn `ankea` = szoros (vesd össze: szanszkrit `anhas` = aggály) és hogy a szorongás és aggódás azonos szavakkal is neveztettek, úgy miért nem fejtetik meg azon meglepő tény is, hogy a magyar aggódik szó az olasz `angoscia` = aggodalom, latin `ango` = szorongatni, fojtogatni, olasz `angustia` = szorultság, aggodalom, és a német `Angst` = félelem, `eng` = szoros, szűk szavakkal is azonosul? Miért nem magyaráztatik meg az is, hogy de hiszen a magyar `szoros`, `szorít`, `szorong` és a `zár`, összezár, magába zár szavak is teljesen azonosak az olasz-latin `serra` = zár igével?
 { #aqqhvc}
 
 
