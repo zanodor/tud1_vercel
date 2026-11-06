@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BON/","title":"BON","tags":["Englishtexttranslated"],"created":"2024-10-24T02:01","updated":"2026-10-28T23:45"}
+{"dg-publish":true,"permalink":"/B/BON/","title":"BON","tags":["Englishtexttranslated"],"created":"2024-10-24T02:01","updated":"2026-11-07T00:43"}
 ---
 
 
@@ -44,7 +44,7 @@ A bunyó is a bunkóhoz tartozik.
 > —  
 > Amíg a tibeti törzsek nem egyesültek egy államban, és a buddhizmus elterjedéséig (VII. század) a helyi kultuszok, amelyeket általában **Bon** (vagy Bon-po) vallásként emlegetnek, voltak elterjedtek. Miután a buddhizmus behatolt Tibetbe, a bon vallás hívei sokáig ellenálltak neki. Tibetben ma is vannak még a régi vallás hívei. Vannak olyan bon-bo kolostorok is, amelyek nyilvánvalóan a buddhizmus hatására jöttek létre.  
 
-[Ezen](https://en.m.wikipedia.org/wiki/Bon) Wiki oldalon lásd további infókat.  
+[Bon](https://en.m.wikipedia.org/wiki/Bon) Wiki oldalán lásd további infókat.  
 
 Erről a vallásról Péterfai János és más is szót ejtett; lásd [[B/Bűn\|bűn]].  
 Hasonló név a [[B/Bonc\|bonc]] szónál is előjövő [[B/Bonze\|bonze]].  
