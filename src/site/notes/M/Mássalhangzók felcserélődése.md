@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-10-28T23:44"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-11-07T00:42"}
 ---
 
 
@@ -34,9 +34,14 @@ Ahogy [[F/Flexió#Magyar hajlítás mint nyelvünk szavainak alapképessége\|fl
 
 <!--section: 5.1-->
 A legfontosabb, önmagába kígyóként farkába harapó, cirkuláris hangfejlődés a K>H>Sz>Th>T>D>Gy>G>H>K; lásd erről még [[K/KAR\|KAR]].  
-A [[M/Magyar\|magyar]] nevünk is megjelenik k-val, dzs-vel, cs-vel, sz/z-vel, t-vel, th-val, d-vel, ahol a [[G/GY\|gy]] és [[T/TY\|ty]] mint köztes (Pap Gábor által kuplung-hangnak nevezett; lásd [[M/Mássalhangzók felcserélődése#^v1n18t\|fentebb]]) hang adja meg az [[E/Egy#^47teak\|ezen]] helyen is említett átjárási lehetőséget.  
+> [!example] &nbsp;
+> Tehát [[T/Teker\|teker]] nem valami török/mongol eredetű szó, mert [[C/Csikar\|csikar]], [[C/Csavar\|csavar]], [[K/Kavar\|kavar]], [[K/Kever\|kever]], [[C/Csötör\|csötör]], [[G/Gyötör\|gyötör]] mind csavarásra utalnak, azaz tulajdonképen mondhatjuk, hogy a [[K/Kör\|kör]] szó széthúzott változatainak hangjai egymásba mennek át.
+> - [[F/Fortuna\|Fortuna]] istennő [[S/Szerencse\|szerencse]]istennő; ahol [[S/Szer\|szer]] = [[K/Kör\|kör]].
+
+A [[M/Magyar\|magyar]] nevünk is megjelenik k-val, dzs-vel, cs-vel, sz/z-vel, t-vel, th-val, d-vel, ahol a [[G/GY\|gy]] és [[T/TY\|ty]] mint köztes (Pap Gábor által kuplung-hangnak nevezett; lásd [[M/Mássalhangzók felcserélődése#^v1n18t\|fentebb]]) hang adja meg az [[E/Egy#^47teak\|egy]] cím/alcímnél is említett átjárási lehetőséget.  
 Egy másik a KAN > SZAN/SZEN > TEN, ha akarjuk.  
 Egy szintén igen lényeges hasonló helyzet, amikor a [[C/Csuda\|Csudá]]t a [[K/Kutya\|Kutyá]]ból de a [[T/Tejút\|Teut]]ból is le tudom vezetni: Teut(a) > Csud(a) > Süt > \[Szatem-Kentum\] Ku-Ta.  
+A nemzésre utaló nevek között [[G/GYAK\|gyak]] = [[T/Takony\|takony]] = [[S/Sex\|sex]] megintcsak közös gyökérre mutat.  
 
 > [!example] &nbsp;
 > [Ezen](https://www.youtube.com/watch?v=2I-6klk_8Ek) YouTube-ra feltöltött videóban is mutogattam, hogy rokon szavaink a T>D>Gy>H>K sorozatban milyen könnyen töltődnek fel.
