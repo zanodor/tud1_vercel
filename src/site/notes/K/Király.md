@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2024-10-27T12:27","updated":"2026-08-03T20:51"}
+{"dg-publish":true,"permalink":"/K/Király/","title":"Király","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2024-10-27T12:27","updated":"2026-11-07T00:43"}
 ---
 
 
