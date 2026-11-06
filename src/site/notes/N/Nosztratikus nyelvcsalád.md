@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2024-05-14T11:45","updated":"2026-08-09T17:54"}
+{"dg-publish":true,"permalink":"/N/Nosztratikus nyelvcsalád/","title":"Nosztratikus nyelvcsalád","tags":["containstransclusions","containscallouts","Englishtexttranslated"],"created":"2024-05-14T11:45","updated":"2026-11-07T00:43"}
 ---
 
 
 # Nosztratikus nyelvcsalád
 
-![Nosztratikus nyelvcsalád_image20260406002327946.jpeg](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260406002327946.jpeg){ #uyumdd}
-
+![Nosztratikus nyelvcsalád_image20260406002327946.jpeg](/img/user/N/assets/Nosztratikus%20nyelvcsal%C3%A1d_image20260406002327946.jpeg){ #uyumdd}
 
 
 A közös ősnyelv ([nosztratikus nyelvcsalád](https://hu.wikipedia.org/wiki/Nosztratikus_nyelvcsal%C3%A1d)) elmélet hirdetői szerint az uráli, dravida, altaji, indoeurópai és afroázsiai nyelvek távoli unokatestvérek.  
