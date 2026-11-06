@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fiú/","title":"Fiú","created":"2024-05-03T12:00","updated":"2026-06-26T23:00"}
+{"dg-publish":true,"permalink":"/F/Fiú/","title":"Fiú","created":"2024-05-03T12:00","updated":"2026-11-07T00:43"}
 ---
 
 
@@ -34,8 +34,6 @@ Azóta [ezen](https://qr.ae/pNqD29) Quora válaszban ismét érintem, román nye
 A grúz személynevekből ismert `shvili` = gyermek szó (lásd [itt](https://en.wiktionary.org/wiki/%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98#Georgian)) kapcsán felvetődött, hogy hasonló fiú >fijú > s-filu eredete lehet, de nem valószínű.
 
 Közben én azt hittem, hogy itt már tárgyaltam korábban a fiú-fióka (fiúka) kapcsolatot, de ezek szerint Varsa Mátyás adatai mentén haladva máshová kerültek az összefüggések. Bár valójában nem kell túlragozni. Értjük miről van szó.  
-
-Igen érdekes, hogy a [[F/Fearr\|fearr]] szóval mind értelmében, mind alakjában igencsak rokonnak látszik a [[M/Marha\|marha]] fiatal fogalmán keresztül fiú szavunkkal is rokonított óangol [[F/Feoh\|feoh]] = vagyon, pénz szó, amely most vagy fiú eredetű, vagy a fearr oldaláról vizsgálandó.  
 
 ## Fiú – ifjú
 
