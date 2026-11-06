@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kentum-szatem szabály/","title":"Kentum-szatem szabály","tags":["containstransclusions"],"created":"2025-05-29T17:30","updated":"2026-08-03T20:43"}
+{"dg-publish":true,"permalink":"/K/Kentum-szatem szabály/","title":"Kentum-szatem szabály","tags":["containstransclusions"],"created":"2025-05-29T17:30","updated":"2026-11-07T00:42"}
 ---
 
 
