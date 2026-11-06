@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/SZAR/","title":"SZAR","tags":["Englishtexttranslated","containscallouts"],"created":"2026-03-12T21:18","updated":"2026-06-05T20:52"}
+{"dg-publish":true,"permalink":"/S/SZAR/","title":"SZAR","tags":["Englishtexttranslated","containscallouts"],"created":"2026-03-12T21:18","updated":"2026-11-07T00:43"}
 ---
 
 
