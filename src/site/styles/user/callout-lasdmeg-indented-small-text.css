@@ -15,7 +15,7 @@
     --callout-color: inherit;
     font-size: 90%;
     line-height: 1.6em;
-    margin: 4px 0 1em 15px;
+    margin: 0 0 0.5em 15px;
     
     /* MEGOLDÁS A HÁTTÉRRE ÉS KERETRE: Explicit nullázás a webes buildhez */
     background: transparent !important;
@@ -31,10 +31,11 @@
 
 /* Elrejtjük az ikont és az összecsukó nyilat */
 /* Hide only the housing lasdmeg callout type's icon and fold arrow */
-.callout[data-callout*=lasdmeg] > .callout-title > .callout-fold .svg-icon,
-.callout[data-callout*=lasdmeg] > .callout-title > .callout-icon {
-    display: none !important;
-}
+/* Mivel https://claude.ai/chat/86e77448-c2e2-4b21-8402-218f3a83bcfa cset alján változtattuk, ez most már nem kell, mert az egész title display: none-ra lett állítva közben; kikommentelem */
+/* .callout[data-callout*=lasdmeg] > .callout-title > .callout-fold .svg-icon, */
+/* .callout[data-callout*=lasdmeg] > .callout-title > .callout-icon { */
+/*    display: none !important; */
+/*} */
 
 /* LEVEL 1: only the direct content of lasdmeg = 100% */
 .callout[data-callout*=lasdmeg] > .callout-content p,
@@ -81,11 +82,18 @@
     font-size: 72% !important;
 }
 
-/* LEVEL 1 (lasdmeg saját) title layout */
+/* LEVEL 1: a külső (nbsp) title teljes elrejtése -> nincs üres sor */
 .callout[data-callout*=lasdmeg] > .callout-title {
-    display: flex !important;
-    align-items: center !important;
-    justify-content: flex-start !important;
+    display: none !important;
+}
+
+/* LEVEL 1: content padding nullázása + beágyazott callout margó nullázása */
+.callout[data-callout*=lasdmeg] > .callout-content {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.callout[data-callout*=lasdmeg] > .callout-content > .callout {
+    margin: 0 !important;
 }
 
 /* LEVEL 2, 3, 4 icon & title layout */
