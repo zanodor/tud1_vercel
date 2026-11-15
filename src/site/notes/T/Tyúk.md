@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tyúk/","title":"Tyúk","created":"2024-05-10T14:35","updated":"2026-10-28T23:46"}
+{"dg-publish":true,"permalink":"/T/Tyúk/","title":"Tyúk","created":"2024-05-10T14:35","updated":"2026-11-15T11:10"}
 ---
 
 
@@ -9,10 +9,10 @@
 <!--section: 1.1-->
 Lásd [[T/TYÚ\|TYÚ]]. Amennyiben a [[T/Toj\|toj]] címnél írottak megfelelnek a valóságnak, a tyúk > tojik > [[T/Tojás\|tojás]] a fejlődési út utóbbi szavunk eredetére nézve.  
 
-Az [alábbi](http://bhaktipedia.org/magyar/index.php-n=rohiniprija064.html) oldalon tyúk szavukat idéző szavak közül találjuk a bibliai-héber `tukki` = páva (tamilban `togai`) szót.    
+A [bhaktipedia.org](http://bhaktipedia.org/magyar/index.php-n=rohiniprija064.html) oldalon tyúk szavukat idéző szavak közül találjuk a bibliai-héber `tukki` = páva (tamilban `togai`) szót.    
 
 Czeglédi Katalin Magyar-török nyelvviszony című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében keleti tyúk alakú szavakat sorol a TESZ alapján.  
-[Ezen](https://uesz.nytud.hu/index.html?displaymode=web&searchmode=exact&searchstr=ty%C3%BAk&hom=) UESzWeb adatsor tartalmazza a hivatalos levezetést:  
+Ezen [UESzWeb](https://uesz.nytud.hu/index.html?displaymode=web&searchmode=exact&searchstr=ty%C3%BAk&hom=) adatsorban találjuk a hivatalos levezetést:  
 > Jövevényszó egy csuvasos típusú ótörök nyelvből. Csuvas `čǝ̑χǝ̑`; ujgur `taqïγu`; csagatáj `taγuk`: ’tyúk’ \[tisztázatlan eredetű\].  Megfelelői a mongolban és a mandzsu-tunguz nyelvekben is megtalálhatók.   
 > A magyarba átkerült alak a \*tïγuq lehetett. A feltételezett alak első szótagbeli ï hangja a többi török adat a hangjával szemben csuvasos típusú előzményre mutat; vö. →ír¹, →tinó stb. A szó belseji γ a magyarban kiesett; vö. →gyúr, →szór stb. Az iu hangkapcsolat i-je egyfelől a t palatalizációját (tyúk alak), másfelől a diftonguson át, egy hosszú í-t eredményezett. Az eredeti 1. és 2. jelentés kapcsolatához vö. →tehén; a 2. jelentésből kialakult 3. jelentéshez vö. →liba; a 4. jelentéshez vö. →kakas. 
 
