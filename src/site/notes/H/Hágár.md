@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hágár/","title":"Hágár","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-14T00:03","updated":"2026-08-09T17:51"}
+{"dg-publish":true,"permalink":"/H/Hágár/","title":"Hágár","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-03-14T00:03","updated":"2026-11-15T11:08"}
 ---
 
 
@@ -37,7 +37,7 @@ A szöveg:
 #### Bognár Ferenc A magyarok istene...
 
 ...című cikkében írja:  
-> Mára elfelejtettük, hogy például az ógörög szövegekben nem is szerepelhetett [[H/Hungár\|hungár]] népnevünk, mert akkoriban paleográfiai sajátosságként az NG hangpárost [[G/Gg\|GG]] leirattal rögzítették, és e formák fejleményeit nem társítják hozzánk.  
+> Mára elfelejtettük, hogy például az ógörög szövegekben nem is szerepelhetett [[H/Hungár\|hungár]] népnevünk, mert akkoriban paleográfiai sajátosságként az NG hangpárost [[G/G#A görög dupla gamma – gg\|GG]] leirattal rögzítették, és e formák fejleményeit nem társítják hozzánk.  
 
 
 > A hungár név eltűnését legfőképpen a nyelvi szakosodással járó tükörfordítások, no meg a torzulás, – az NG hangpárossal való birkózás – számlájára írhatjuk. De ide vezetett a régi írások, G előtt jelöletlen N hangja is. \[Ez éppen igaz.\] Ennek folytán a Hungár már nagyon régen Haggar/Aggar, majd Hagar/Agar/Ogor stb. alakot öltött, megegyezve a bibliai Hágár/Ágár ősanya nevével.  
