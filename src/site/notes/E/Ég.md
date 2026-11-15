@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ég/","title":"Ég","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-10-18T17:53","updated":"2026-10-28T23:49"}
+{"dg-publish":true,"permalink":"/E/Ég/","title":"Ég","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-10-18T17:53","updated":"2026-11-15T11:08"}
 ---
 
 
@@ -59,7 +59,7 @@ Kállay Ferenc könyvében ég származékként utal rá:
 
 
 Az adatok folyama itt nem ér véget:  
-> A görög `auge` szó (= splendor, lux) Stephanus szótárában szemet is jelent, mint fénypontot, s ez a latin `oculus`, a szláv `oco`, német `Auge`, melynek régibb alakjai öghe, eighen, ôg, augo, oko, og (Grimm Gr. I. 693. 708. 833.). Busbeck góth szók gyűjteményében. – Erimm földön `oeghene` = szemek (p. 323. edit Elzev), mi látni való a Stephanus szótárában idézett görög augai-nak (oculi-) felel meg. Szinte igy a czigány `jak`, tüzet és szemet is jelent. ([Lásd 229. old.](zotero://open-pdf/library/items/DFI47XPY?page=229&annotation=N9FITRJA))
+> A görög `auge` szó (= splendor, lux) Stephanus szótárában szemet is jelent, mint fénypontot, s ez a latin `oculus`, a szláv `oco`, német `Auge`, melynek régibb alakjai öghe, eighen, ôg, augo, oko, og (Grimm Gr. I. 693. 708. 833.). Busbeck góth szók gyűjteményében. – Erimm földön `oeghene` = szemek (p. 323. edit Elzev), mi látni való a Stephanus szótárában idézett görög `augai`-nak (oculi-) felel meg. Szinte igy a czigány `jak`, tüzet és szemet is jelent. ([Lásd 229. old.](zotero://open-pdf/library/items/DFI47XPY?page=229&annotation=N9FITRJA))
 
 Továbbá:  
 > Sanskritul `aksi(i)`, `agni` = tűz, ag vagy ak gyökből (Bopp. Jahrb. für w. Kritik 1836. Nro 38.), hova tart a nap eddai neve is `eyglo`, `eygloa` = semper candens (Grimm III. 392), a dalmát `ognische` = tűzhely, `ognyean` = tüzes, `ogány` = tűz, Verantz öt nyelvű szótárában. Az orosz összehasonlító nagy szótárban, mely Katalin idejében készült ogon, ogn, ogagn, ohen, ongn, woen, wohen, ogjen, ogon, ignis, foko, fuoko, fógo, (= [[F/Focus\|focus]]) fek, fok, ugnis, ugguns, togo, toggo, togo, tog, (a lapp `tjuoukes`) jag, jak, jago, ag, bag, vaga szóformák állnak földünk két hemisphaeriumából összeszedve, de kimaradtak abból a zsidó `agam` = ferbuit dies, excanduit (Winer p. 16), az arab `eg̃g̃` (ghim betűvel) ardere, `eg̃g̃et` = aestus calores, `eg̃g̃iag` = ardens sol, `ig̃g̃iag` = accendere, `egm` = ardere ignem. ([Lásd 229. old.](zotero://open-pdf/library/items/DFI47XPY?page=229&annotation=A6NB5ASC))
@@ -168,7 +168,11 @@ Az [[E/Egy\|Egy]]/Égisten megnyilvánulása az [[I/Ige\|Ige]], és az üzenet k
 Nyilván magyar eredetű, ez nem is kérdés, de lehet-e a két betűből álló szót elemezni: mi benne az alapfogalom, a kiinduló idea?  
 Nos, korábban a cél mindig az volt, hogy 4-5 hangból álló szóelemet 2-3 hangos alapszavakra vigyünk vissza, és az elégnek bizonyult. Kell-e illetve lehet-e ennél többet tenni?  
 Amióta [[I/Ív\|ív]] szavunkat az [[I/I#I mint mozgást kifejező, életkörre utaló szócska\|i mint mozgást kifejező, életkörre utaló szócská]]ra vezettük vissza, felmerülhet az igénye annak, hogy ég szavunkat is az életkör összefüggésében vizsgáljuk.  
-Lehet-e az ég főnevet úgy értékelni, mint a föld fölé ívelő héjat, házat (Isten házát)? Mert a [[S/Szakrális geometria\|szakrális geometrikus]] értelmezést természetesen itt sem hagyhatjuk ki.  
+Lehet-e az ég főnevet úgy értékelni, mint a föld fölé *ívelő* héjat, házat (Isten házát)? Mert a [[S/Szakrális geometria\|szakrális geometrikus]] értelmezést természetesen itt sem hagyhatjuk ki.  
+Ennek értelmében [[E/Éh\|éh]] szavunk mutat az ürességre, [[U/Űr\|űr]]re, mely a fejünk felett található (lásd [[H/Hupolyag\|hupolag]]; az alakilag hasonló [[A/Agy\|agy]] is a fejben van és a fej = felső = felvilág).  
+> [!check] &nbsp;
+> Szakrális geometriában kell gondolkodni.
+
 Annál is inkább jogos a kérdés, mert René Guénon Lord of the World című könyvének 40. oldalán a latin `coelum` = ég, menny szót elemezve arra a következtetésre jut, hogy a – megítélése szerint – rokon szavakban az eltakarás, elrejtés ideái vannak meg:  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/C/Caelum/#clgffd" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -238,6 +242,8 @@ Oxford adata szerint az [[A/Axis#Axis 2)\|axis]] címnél is említett `axis` eg
 
 Az óír `ag` = ökör, tehén; szarvas, szarvasbika [ezen](https://en.wiktionary.org/wiki/ag#Old_Irish) oldal adata szerint. Ég-Úr olvasatot kapott [[O/Ökör\|Ökör]] nevünk előtagjának meg is felel.  
 Onnan továbbmenve [ezen](https://en.wiktionary.org/wiki/%E0%A4%85%E0%A4%B9%E0%A5%80#Sanskrit) oldalra találkozunk a szanszkrit `अही` (`ahī́`) = tehén szóval.  
+Arról több helyen volt szó, hogy a [[S/Szarvas\|szarvas]] váltóállata a kecske.  
+Lám, egy másik szarvas/őzféle állatot is találtunk; a szóvégén [[U/U\|u]] hangos perzsa `āhu` = gazella is ide tartozik.  
 
 Ég szavunk megjelenni látszik az örmény `eġǰeru` = szarvas, `eġnik` = őz nevekben (bár az örmény ġ lehet olyan csendes g/h, mint a török ğ; mindegy lenne, mert a Szarvas az éji ég jelképállata).  
 
@@ -264,12 +270,8 @@ Az Ég Tehene kapcsán lásd Jankovics Marcell írását ([[H/Hathor\|Hathor]] i
 
 A Richard H. Allen Star Names című művében oly sokszor idézett Aratosznál és Ptolemaiosznál a [[B/Bak csillagkép\|Bak csillagkép]] neve **Αιγοκέροδ** (latinizálva Aegoceros): az Ág/Ég elem mellett a KAR etimon szerepel benne. De jobb akár csak Égi Szarvasnak "fordítani".  
 
-Az [[A/Aegis\|aegis]] címnél előjövő görög `aigeiosz` = kecskét jelentő szó a szarvas [[A/Ágas\|ágas]] nevéből kell eredjen, de ott `ég` szavunkról is szó volt.  
+Az [[A/Aegis\|aegis]] címnél előjövő görög `αίγα` = kecskét jelentő szó a szarvas [[A/Ágas\|ágas]] nevéből kell eredjen; ott is `ég` szavunkról volt szó.  
 
-A WordSense oldalon az alábbi kecske jelentésű görög szavak találhatók: ógörög `αἴξ` (masc.) (fem.) (továbbá modern görög `κατσίκα` (fem.), [[K/Kid\|gida]] szavunkkal egyező `γίδα` (fem.), `γίδι` (neut.)).  
-
-Arról több helyen volt szó, hogy a [[S/Szarvas\|szarvas]] váltóállata a kecske.  
-Lám, egy másik szarvas/őzféle állatot is találtunk; a szóvégén [[U/U\|U]]-hangos perzsa `āhu` = gazella is `ég`/[[A/AG\|ag]] szavunk lehet.  
 
 Egy másik szarvakkal bíró állat a Kos. Ag- elemet hordozó szavakat láttunk [[A/Agony\|agony]] címnél: latin `agna` = jerke, nőstény bárány ill. `agnus` = áldozati kos.  
 
