@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar népdal/","title":"Magyar népdal","created":"2023-11-22T11:35","updated":"2024-10-25T22:41"}
+{"dg-publish":true,"permalink":"/M/Magyar népdal/","title":"Magyar népdal","created":"2023-11-22T11:35","updated":"2026-11-15T11:10"}
 ---
 
 
