@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-10-19T11:35","updated":"2026-08-09T17:59"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-10-19T11:35","updated":"2026-11-15T11:09"}
 ---
 
 
@@ -41,7 +41,7 @@ Hasonló esetet másutt is láttuk, amikor például [[M/Magor\|Magor]]/[[M/Maga
 
 ## Török ğ hang
 
-A „yumuşak ge” (ğ, vagyis a „lágy g”) a török ábécé 9. betűje. Különlegessége, hogy gyakorlatilag néma, és soha nem áll szó elején. Ehelyett az előtte álló magánhangzót módosítja.  
+A „yumuşak g” (ğ, vagyis a „lágy g”) a török ábécé 9. betűje. Különlegessége, hogy gyakorlatilag néma, és soha nem áll szó elején. Ehelyett az előtte álló magánhangzót módosítja.  
 > [!lasdmeg] &nbsp;
 > **Kiejtési szabályok**
 > 
@@ -91,3 +91,24 @@ Hasonló esetet találunk a dán nyelvben k, sőt, akár két k ki nem ejtésér
 A dán nyelvben gyakori, hogy a k hang elhalkul vagy teljesen elmarad, különösen mássalhangzók között vagy szóvégen, ha nem hangsúlyos. A **Mikkel** név példája nagyon jó illusztráció erre, ahol a kk betűkapcsolatban a k hang gyakorlatilag eltűnik, és Miel-nek hallatszik.  
 Ugyanígy, a dán `stærkere` = erősebb szinte ugyanúgy hallatszik, mint a `større` = nagyobb szó.  
 
+
+
+## A görög dupla gamma – gg
+
+A dupla gammáról [[H/Hágár\|Hágár]] címnél volt szó, elsősorban Bognár Ferenc tollából.  
+
+#### Bognár Ferenc A magyarok istene...  
+
+...című cikkében írja:  
+> Mára elfelejtettük, hogy például az ógörög szövegekben nem is szerepelhetett [[H/Hungár\|hungár]] népnevünk, mert akkoriban paleográfiai sajátosságként az NG hangpárost GG leirattal rögzítették, és e formák fejleményeit nem társítják hozzánk.  
+
+Az ógörög `ἀγγεῖον` [Wiktionary](https://en.wiktionary.org/wiki/%E1%BC%80%CE%B3%CE%B3%CE%B5%E1%BF%96%CE%BF%CE%BD#Ancient_Greek) oldalán hozott szavakban ugyan két gammával írott szavakat látunk, de ejtésül ng-vel történik, pl. `ἄγγος` ángosznak ejtendő.  
+
+#### Götz László Keleten kél a Nap...
+
+...című könyvének 143. oldalán nazalizáció témában foglalkozik vele, illetve kimondja, hogy más nyelvekben még a duplázás sem szükséges:  
+> A nazalizáció nehezen kiejthető mássalhangzó-kettőzések feloldásában is szerepet játszik. Ugyanerre mutatnak az olyan nyelvek is, amelyekben a beszédben MB-t, NG-t vagy ND-t hallhatunk, de az írásban helyet mindig BB, GG és DD áll; ilyen nyelv például a szuahéli.
+
+[[F/Félelem#Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú\|Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú]] cím/alcímnél volt szó a rokon ideák mögötti szavakról és írásmódjukról gg, ng és más mássalhangzópárokról).  
+
+De például a magyarban is `csügged` lehet \*csünged, ahol `csüng` is értelmes és `csün` is CzF által említett gyök.  
