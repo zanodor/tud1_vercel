@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Holdtisztelet/","title":"Holdtisztelet","tags":["containstransclusions"],"created":"2025-05-01T16:00","updated":"2026-08-09T17:58"}
+{"dg-publish":true,"permalink":"/H/Holdtisztelet/","title":"Holdtisztelet","tags":["containstransclusions"],"created":"2025-05-01T16:00","updated":"2026-11-15T11:11"}
 ---
 
 
