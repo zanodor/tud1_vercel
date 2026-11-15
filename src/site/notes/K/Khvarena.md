@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Khvarena/","title":"Khvarena","created":"2023-10-26T05:30","updated":"2026-02-18T22:59"}
+{"dg-publish":true,"permalink":"/K/Khvarena/","title":"Khvarena","created":"2023-10-26T05:30","updated":"2026-11-15T11:10"}
 ---
 
 
@@ -33,6 +33,7 @@ Arra is kitér, hogy a kínaiak meg akarták tenni királyuknak, de Huang-Di azt
 Említi itt Grandpierre Atilla az égből aláereszkedő koronát és előtte az ég felhatalmazását. Lám, teljesen hasonló ehhez a perzsák khvaréna fogalma, illetve a törököknél [[K/Kut\|kut]] = isteni mandátum (szerencse inkább).  
 Ahogy 29:20-nál Grandpierre Atilla kimondja, ez a Szent Korona eszme tehát megvolt az i.e. harmadik évezredben is.  
 
-Lásd még a tárgyalt szó utóéletének számító [[F/Farr\|farr]] szót és az ott írottakat.  
-Lásd még [[K/KAR\|KAR]], [[K/Korona\|korona]], [[C/Crown\|crown]].  
-Lásd még továbbá [[G/Glory\|glory]] and [[H/Halo\|halo]].  
+> [!Lásdmég] Lásd még &nbsp;
+> Lásd még a tárgyalt szó utóéletének számító [[F/Farr\|farr]] szót és az ott írottakat.
+
+Lásd még továbbá [[K/KAR\|KAR]], [[K/Korona\|korona]], [[C/Crown\|crown]], valamint [[G/Glory\|glory]] and [[H/Halo\|halo]].  
