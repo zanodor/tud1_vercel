@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-11-07T00:42"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-11-15T11:08"}
 ---
 
 
@@ -117,7 +117,7 @@ A másik hasonló, de kevésbé ide illő eset ND>MP változás, vagy ennek ford
 
 Götz László Keleten kél a Nap című könyvének idetehető adatsorát lásd [[O/Orrhang#^g30c9f\|orrhangosítás]] címnél.  
 
-[[F/Félelem#Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú\|Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú]] cím/alcímnél volt szó a rokon ideák mögötti szavakról és írásmódjukról ([[G/Gg\|gg]], ng és más mássalhangzópárokról).  
+[[F/Félelem#Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú\|Félelem = szorongás = szorul = szűk = szükség = szegénység = éhes = íves = homorú]] cím/alcímnél volt szó a rokon ideák mögötti szavakról és írásmódjukról ([[G/G#A görög dupla gamma – gg\|gg]], ng és más mássalhangzópárokról).  
 
 ### Ŋ/G̃ > M váltás
 
