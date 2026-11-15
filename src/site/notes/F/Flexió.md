@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz","containstransclusions"],"created":"2024-10-22T22:07","updated":"2026-11-07T00:42"}
+{"dg-publish":true,"permalink":"/F/Flexió/","title":"Flexió","tags":["nyelvészet","Götz","containstransclusions"],"created":"2024-10-22T22:07","updated":"2026-11-15T11:08"}
 ---
 
 
@@ -135,7 +135,8 @@ Fontos a [[T/Tűz\|tűz]] = [[T/Tesz\|tesz]] ([[T/Tosz\|tosz]]) = [[T/Tiszta\|ti
 
 Továbbá flexiós kapcsolatot találunk [[H/Huny\|huny]], [[H/Hany\|hany]] (mint [[H/Hanyatlik\|hanyatlik]]), [[H/Henyél\|henye]], [[H/Henyél\|henyél]], [[K/KONY\|kony]] ([[K/Konyul\|konyul]]), [[K/KUM\|kum]] (`lekum` a Nap), valamint a Nap [[E/Ecliptic\|ekliptiká]]n való esésének téridőbeli pontját jelölő [[K/KAN\|kan]] ([[C/Canis Maior\|Canis Maior]]) (mely a [[G/Gonosz\|gon]]osz félévet nyitja), és sok más magyar-utód elnevezés (a Rák [[C/Cancer\|Cancer]] nevének előtagja, a Rák japán neve, stb.) között. Mind a [[H/Hun\|hun]] nevet magyarázzák a [[H/Hunor és Magor\|Hunor-Magor]] rendszerben.  
 
-Ott van még a [[S/Süt\|süt]] ige [[S/Sötét\|sötét]]/[[S/Sötét\|setét]] szavak gyökével való megfelelése, [[K/Kör\|kör]] szóbokrunk olyan tagjai, mint [[G/Gyűrű\|gyűrű]], `gördül`, [[F/Fal\|fal]] főnév [[F/Fél\|fél]] szóval alkotott flexiós viszonya, vagy például felhívhatjuk a figyelmet [[E/Éh\|éh]] = [[A/Áhít\|áhít]], [[A/Akar\|akar]] szavak gyökeinek azonosságára.  
+Ott van még a [[S/Süt\|süt]] ige [[S/Sötét\|sötét]]/[[S/Sötét\|setét]] szavak gyökével való megfelelése, [[K/Kör\|kör]] szóbokrunk olyan tagjai, mint [[G/Gyűrű\|gyűrű]], [[G/Gurul\|gurul]], `gördül`, [[F/Fal\|fal]] főnév [[F/Fél\|fél]] szóval alkotott flexiós viszonya, vagy például felhívhatjuk a figyelmet [[E/Éh\|éh]] = [[A/Áhít\|áhít]], [[A/Akar\|akar]] szavak gyökeinek azonosságára.  
+
 A kutyára visszatérve, [[E/EB\|eb]] és [[A/Apa\|apa]] szavaink [[I/Ív\|ív]] szavunkkal való viszonya említhető még ilyen szinten (lásd [[G/Gene#^eeeksm\|gene]] címnél található diagramot megjegyzésekkel ill. még témát [[L/Lemniszkáta\|lemniszkáta]]), de például magánhangzó cserével a [[M/Más\|más]] (lásd még [[M/MAS\|MAS]]) fiú, hős jelentése az, ami majd a [[M/Mese\|mese]] szavunk létrehozója is lesz.  
 Más, ilyen fel- és alhangos párok közül itt van a [[H/Hang\|hang]] és [[E/Ének\|ének]]; akkor látszik jól, hogy azonosak, ha a szóelejei [[A/Ang\|hehezetet eltávolítjuk]] (a török `ong` = hang és japán `ongaku` = zene szóban sincs meg).  
 A [[E/Év#maja haab\|maja haab]] is `év` szavunkkal feleltethető meg.  
