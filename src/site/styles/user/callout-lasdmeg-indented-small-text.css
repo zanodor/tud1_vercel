@@ -29,14 +29,6 @@
     padding: 2px 8px 2px 30px !important; 
 }
 
-/* Elrejtjük az ikont és az összecsukó nyilat */
-/* Hide only the housing lasdmeg callout type's icon and fold arrow */
-/* Mivel https://claude.ai/chat/86e77448-c2e2-4b21-8402-218f3a83bcfa cset alján változtattuk, ez most már nem kell, mert az egész title display: none-ra lett állítva közben; kikommentelem */
-/* .callout[data-callout*=lasdmeg] > .callout-title > .callout-fold .svg-icon, */
-/* .callout[data-callout*=lasdmeg] > .callout-title > .callout-icon { */
-/*    display: none !important; */
-/*} */
-
 /* LEVEL 1: only the direct content of lasdmeg = 100% */
 .callout[data-callout*=lasdmeg] > .callout-content p,
 .callout[data-callout*=lasdmeg] > .callout-content li,
@@ -82,8 +74,11 @@
     font-size: 72% !important;
 }
 
-/* LEVEL 1: a külső (nbsp) title teljes elrejtése -> nincs üres sor */
-.callout[data-callout*=lasdmeg] > .callout-title {
+/* Bármilyen mélységű lasdmeg title teljes elrejtése (ikon, nyíl, nbsp sor).
+   Az ismételt attribútum-selector direkt a specificitás növelésére van, hogy
+   a LEVEL 2-4 title layout szabályokat (display:flex) is felülírja. */
+.callout[data-callout*=lasdmeg] > .callout-title,
+.callout[data-callout*=lasdmeg][data-callout*=lasdmeg][data-callout*=lasdmeg][data-callout*=lasdmeg][data-callout*=lasdmeg] > .callout-title {
     display: none !important;
 }
 
@@ -94,6 +89,10 @@
 }
 .callout[data-callout*=lasdmeg] > .callout-content > .callout {
     margin: 0 !important;
+}
+/* Beágyazott lasdmeg: megtartja a bal behúzást (15px), de nincs alsó/felső margó */
+.callout[data-callout*=lasdmeg] > .callout-content > .callout[data-callout*=lasdmeg] {
+    margin: 0 0 0 15px !important;
 }
 
 /* LEVEL 2, 3, 4 icon & title layout */
