@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutya elődje/","title":"Kutya elődje","tags":["Englishtexttranslated"],"created":"2023-11-05T03:05","updated":"2026-03-05T01:46"}
+{"dg-publish":true,"permalink":"/K/Kutya elődje/","title":"Kutya elődje","tags":["Englishtexttranslated"],"created":"2023-11-05T03:05","updated":"2026-11-15T11:09"}
 ---
 
 
@@ -26,6 +26,9 @@
 > Another dog skull dated to 33,000 years ago was recovered with a human body at Razboinichya Cave in Siberia, telling us that man had domesticated hunting dogs by this time and that they had an important role within religious/spiritual beliefs.  
 > Modern theories suggest wolves first became attracted to human settlements because of discarded food scraps, and the species started becoming better scavengers than hunters. Tamer wolves that had learned to scavenge human campsites thrived, while the strongest predator wolves would be left behind, a hypothesis which backs up Darwin's theory of natural selection.  
 > —  
-> A szibériai Razboinichya-barlangban egy másik, 33 000 évvel ezelőttre datált kutyakoponya került elő egy emberi testtel együtt, ami arról árulkodik, hogy az ember ekkorra már háziasította a vadászkutyákat, és fontos szerepet játszottak a vallási/spirituális hiedelmekben.  
+> A szibériai Razboinichya-barlangban egy másik, 33000 évvel ezelőttre datált kutyakoponya került elő egy emberi testtel együtt, ami arról árulkodik, hogy az ember ekkorra már háziasította a vadászkutyákat, és fontos szerepet játszottak a vallási/spirituális hiedelmekben.  
 > A modern elméletek szerint a farkasok először az eldobott ételmaradékok miatt vonzódtak az emberi településekhez, és a faj jobb dögevőkké kezdett válni, mint vadászokká. Azok a szelídebb farkasok, amelyek megtanultak az emberi táborhelyek döglésére, jól éltek, míg a legerősebb ragadozó farkasok hátramaradtak - ez a hipotézis alátámasztja Darwin természetes szelekcióról szóló elméletét.  
 - A folytatás a domesztikációval, tenyésztéssel kapcsolatban már nem fért ide.
+
+Lásd még https://veteriankey.com/the-dog-and-its-relatives/ cikket.  
+![|fix_dark|fix_light](https://i0.wp.com/veteriankey.com/wp-content/uploads/2016/07/B9781437708127000015_f001-001-9781437708127.jpg)
