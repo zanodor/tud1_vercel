@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tiszabezdédi tarsolylemez/","title":"Tiszabezdédi tarsolylemez","created":"2023-11-19T06:35","updated":"2025-09-24T00:11"}
+{"dg-publish":true,"permalink":"/T/Tiszabezdédi tarsolylemez/","title":"Tiszabezdédi tarsolylemez","created":"2023-11-19T06:35","updated":"2026-11-15T11:09"}
 ---
 
 
@@ -7,7 +7,11 @@
 
 A tiszabezdédi tarsolylemezt előadásaiban Pap Gábor is elemezte.  
 ![assets/Tiszabezdeditarsolylemez_image1.png|840](/img/user/T/assets/Tiszabezdeditarsolylemez_image1.png)  
-Az alábbiakban Kövesi-Nagy Katalin internetről szedett anyaga szerepel:  
+Az alábbiakban...
+
+#### Kövesi-Nagy Katalin...
+
+...internetről szedett anyaga szerepel:  
 > Legtöbb régészeti leletünk sírokból kerültek elő, s azokból is a rengeteg csont mellett nagy számú fém tárgy, hiszen ezek a legidőtállóbb anyagok. Kiváló példa ezekre bármely tarsolylemez, szablya, korong, veret díszítménye. Növényi minták szövevényes ornamentikája (az életfa kiemelkedő szerepű ezek közül) vagy állatok reális és elvont, rejtett ábrázolása a legáltalánosabb, melyeket a fém lemezekbe úgy dolgoznak bele, mint egy domborműbe. A berakásos technológia és a poncolás sajátossága a magyar ötvösségnek.  
 > ![assets/Tiszabezdeditarsolylemez_image2.png|fix_dark fix_light|840](/img/user/T/assets/Tiszabezdeditarsolylemez_image2.png)  
 > Van még valami a tarsolyodban? – Kérdezheti bárki a mai napig, bár nem hiszem, hogy e szókapcsolat minden használója tudja, honnan is ered, mit jelent a tarsoly szó benne. Minden férfi övén ott volt egy-egy darabja, mert szükségük volt rá. Ebben tartották az ún. tűzkészséget, mely csiholó acélt, kova követ és kifőzött, kiszárított taplógombát jelentett. Ezek kellettek az öngyújtó vagy a gyufa előtt a tűz meggyújtásához. Fontos része volt így életüknek, mindig náluk volt, kéznél. Ezen kívül fegyvereikre lehetett bármikor szükség, de az a fegyverövön vagy tegezben volt. Valójában tehát minden létszükségletüket maguknál tartották, funkciójában tehát a mai táskához, leginkább övtáskához, hasonlítható. (Ma ha valaki övtáskát – esetleg tarsolyt – hord, leginkább kulcsait, tárcáját, mobiltelefonját tartja benne, vagyis a funkció megmaradt.) Ez volt az elsődleges funkció.  
@@ -23,6 +27,6 @@ Az alábbiakban Kövesi-Nagy Katalin internetről szedett anyaga szerepel:
 
 Az alábbiak [[J/Judeo-kereszténység\|judeo-keresztény]] és [[K/Kereszt\|kereszt]] címnél is szerepeltek:  
 
-[[G/Grandpierre Atilla\|Grandpierre Atilla]] [alábbi](https://youtu.be/ntS4zJWiGoM) előadásában 1:01:30 táján, valamint [ezen](https://youtu.be/kdMbjKG0daw) A magyar ősvallás című előadásában 1:00:18-tól pedig szintén beszél a tiszabezdédi tarsolylemez keresztje kapcsán arról, hogy az ősi, mágusi ábrázolás szerint a kereszt egyenlő szárú volt, kis gömböcskékkel (a Szent Koronán is ilyen és majdnem szabályosan egyenlő szárú; lásd képet), míg a keresztény áldozati kereszt hosszabb szárú, tekintve, hogy az emberi test méretarányaihoz kellett igazodni (a karok ugye nem derékból nőnek ki).  
+[[G/Grandpierre Atilla\|Grandpierre Atilla]] [alábbi](https://youtu.be/ntS4zJWiGoM&t=3680s) előadásában 1:01:30 táján, valamint [ezen](https://youtu.be/kdMbjKG0daw&t=3610s) A magyar ősvallás című előadásában 1:00:18-tól pedig szintén beszél a tiszabezdédi tarsolylemez keresztje kapcsán arról, hogy az ősi, mágusi ábrázolás szerint a kereszt egyenlő szárú volt, kis gömböcskékkel (a Szent Koronán is ilyen és majdnem szabályosan egyenlő szárú; lásd képet), míg a keresztény áldozati kereszt hosszabb szárú, tekintve, hogy az emberi test méretarányaihoz kellett igazodni (a karok ugye nem derékból nőnek ki).  
 Ahogy mondja, ![assets/Tiszabezdeditarsolylemez_image3.png|right|300](/img/user/T/assets/Tiszabezdeditarsolylemez_image3.png)  nagyon oda kellett figyelniük a keresztényeknek, nehogy összekeverjék a pogánynak nevezett Napkereszttel, mert akkor nem tudtak volna eljuttatni egy új üzenetet, amiért ők jöttek, hogy egy új vallást hirdessenek. Tulajdonképpen háborút indítottak az egyenlő szárú kereszt ellen és az egyenlőtlen szárú keresztet akarták a helyébe helyezni. Itt még a tarsolylemez "mágus-keresztje" ![assets/Tiszabezdeditarsolylemez_image4.jpeg|right|300](/img/user/T/assets/Tiszabezdeditarsolylemez_image4.jpeg)  kapcsán elmondja, láthatjuk, szélesedik a szára kifelé. 
 A napsugarak szintén szélesednek ahogy a Naptól távolodnak, és mivel a Nap is az élő világegyetem jelképe, amit itt ábrázoltak, az egy kozmikus élet-kereszt, nem Jézus kivégzőeszköze.  
