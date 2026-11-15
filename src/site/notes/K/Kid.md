@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kid/","title":"Kid","tags":["titleandheadingonedontmatch"],"created":"2025-04-29T10:10","updated":"2026-08-20T17:37"}
+{"dg-publish":true,"permalink":"/K/Kid/","title":"Kid","tags":["titleandheadingonedontmatch"],"created":"2025-04-29T10:10","updated":"2026-11-15T11:10"}
 ---
 
 
@@ -9,11 +9,12 @@ Itt az angol és magyar szavakat közösen szerepeltetem.
 
 Angolul kölyök. `Gida` szavunkkal azonos.  
 CzF szótár adata gödölye szónál:  
-> Kecskefi, kis kecske, melyet a magyar gid, ged, gida szókkal hivogat, szólongat; gyöke rokon a héber (`gedi` v. `gdi`), angol `kid`, svéd `kidd`, német `Kitze` szókkal, s megvan a latin `hoed-`(us) névben is.  
+> Kecskefi, kis kecske, melyet a magyar gid, ged, gida szókkal hivogat, szólongat; gyöke rokon a héber (`gedi` v. `gdi`), angol `kid`, svéd `kidd`, német `Kitze` szókkal, s megvan a latin `hoedus` névben is.  
 
 Mely utóbbi szóval azonos a szanszkrit `huḍā` = kos. Jankovics Marcell Jelkép-kalendárium című könyvében [[Z/Zagreusz\|Zagreusz]] gödölye történetében is **Hoedi** csillag jött elő.  
 
-A görögben `γίδα` (fem.), `γίδι` (neut.) = kecske, de más szavak is jelenthetnek kecskét: modern görög `κατσίκα` (fem.), és ógörög `αἴξ` (masc.) (fem.).  
+> [!Lásdmég] Lásd még &nbsp;
+> A görögben `γίδα` (fem.), `γίδι` (neut.) = kecske, de más szavak is jelenthetnek kecskét: modern görög `κατσίκα` (fem.), és ógörög `αἴξ` (masc.) (fem.).
 
   
 
