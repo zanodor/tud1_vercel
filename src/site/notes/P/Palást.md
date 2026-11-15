@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Palást/","title":"Palást","created":"2025-04-29T10:02","updated":"2026-03-05T01:49"}
+{"dg-publish":true,"permalink":"/P/Palást/","title":"Palást","created":"2025-04-29T10:02","updated":"2026-11-15T11:10"}
 ---
 
 
@@ -11,6 +11,7 @@ Többször említettük, hogy a [[F/Fátyol\|fátyol]], [[S/Szűr\|szűr]], [[S/
 
 ...című könyvében szereplő adata [[A/Aegis\|aegis]] címnél is szerepelt:  
 > A régi magyar szűrökön, farkasbőr- és párducbőrkacagányokon rendesen [[K/Kilenc\|kilenc]] Csillagot, Holdat és Napot látunk kihímezve vagy ezüst- és aranylemezből képezve és fölvarrva. Ez pedig közvetlen összefügg a görög hitregék `égisz` nevű palástjával, amely a hitregék szerint kecskebőrből való \[lásd [[A/Amalthea\|Amalthea]]\] és amelyet ha az Istenek megráznak, belőle villám csapkod és mennydörgés hallatszik. Mi más ez tehát mint "az Ég palástja", amelyről a magyar mondás is szól a szegény vándorral kapcsolatban így: "Kopasz föld a derékalja, Csillagos Ég takarója." Ámde az ógörög `égisz` szót csak a magyar [[E/Ég\|ég]] szó fejti meg, valamint az `aigosz` = kecske és a magyar `gida`, `gedő` = kis kecske szót.  
+- A kecske görögül `αίγα` (`aíga`), `αἰγός` (`aigosz`) csak a birtokos esete ("kecskének a...").
 - Az utóbbi két magyar szóról lásd még [[G/Goat\|goat]] és [[G/Göd\|Göd]].
 
 [[T/Tavaszi évkezdés\|Tavaszi évkezdés]] címnél is szerepelt ([[S/Szent Márton\|Szent Márton]] \[november 11.\] határnap szerepe kapcsán):  
