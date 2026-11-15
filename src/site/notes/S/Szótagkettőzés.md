@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T05:21","updated":"2026-08-09T17:59"}
+{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T05:21","updated":"2026-11-15T11:09"}
 ---
 
 
@@ -82,6 +82,12 @@ A Reddit posztot megosztó Quora helyen felírtam, amit kellett:
 > De Isten áldja a szlávokat és más nemzeteket, mert csak ellenük tudjuk csiszolni a saját képességeinket, és meglátni, mit jelenthet igazán magyarnak lenni.
 >
 > Pá-Pá (ismét baba-beszéd)
+
+### Jobijobi
+
+A nyolcvanas évek közepén újra ismételt Mikrobi nevét 3 éves kistestvérem (én 9 voltam) nem tudta kimondani és csak "Jobi" volt. Honnan és melyikünktől származott az ötlet, hogy a két szótagból álló nevet megkettőzzük és a kulcsra zárható ruhásszekrény kerek szemeit ill. a teljes szekrényt "Jobijobi"-nak nevezzük?  
+> [!check] &nbsp;
+> Saját gyermekkorból származó példákkal is érzékeltethető, hogy a gyermeknyelvi szavak a természeti népek szavajárásából származnak.
 
 ## Lábjegyzetek
 
