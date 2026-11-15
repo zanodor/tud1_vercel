@@ -1,25 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2026-04-03T04:50"}
+{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2026-11-15T11:09"}
 ---
 
 
+<!--section: 1-->
 # Oak
 
+<!--section: 1.1-->
 [[T/Tölgy\|Tölgy]]fa. [[T/Táltos\|Táltos]]ok, [[D/Druida\|druidá]]k fája. A magyar tölgy inkább boncolgatható és hasonlítható tőgyhöz, amiből a táltost tápláló tej származik.  
 Az angol `oak` elődei a magyar [[O/OK\|OK]], [[E/Ég\|ég]], [[E/Egy\|egy]], [[A/Ág\|ág]] szavaink bármelyikére utalhatnak. Az Ok Péterfai János adata szerint Csillag.   
 
 A német `Eiche` és ófelnémet `eih` = tölgy [[Y/Ygg\|Ygg]] nevével és egyértelműen [[E/Ég\|ég]] szavunkkal azonosíthatók.  
 Az ([[E/Elk\|elk]] címnél is említett) ónorvég `eik` egyszerre tölgyfa és fa jelentésű, de megtudjuk (ahogy [[D/Druida\|druida]] címnél is szerepelt), hogy a görög nyelvben is `drüsz` egyszerre fa és tölgyfa (és Jankovics Marcell adata szerint fenyő is!); ezzel megkaptuk, hogy a tölgyfa a legfontosabb fa, a fák legszentebbike, királya.  
 
-[[M/Magyal\|Magyal]] címnél is lesz arról szó, melyik a legszentebb fa. Lásd még [[F/Fa – szent fa\|fa – szent fa]].
+[[M/Magyal\|Magyal]] címnél is lesz arról szó, melyik a legszentebb fa. Lásd még [[F/Fa – szent fa\|fa – szent fa]].  
 
+Amúgy [h₂eyǵ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%82ey%C7%B5-) PIE gyöknél kecske és tölgy jelentésű szavak ilyen gyökéről esik szó; megint csak látható, hogy az agancsos állatunk kecske változata is `ég` szavunkra vezethető vissza, ahogy a tölgyet jelentő szavak is. Nem indoeurópai szavakról van szó.  
+
+<!--section: 2-->
 #### Magyar Adorján...
 
+<!--section: 2.1-->
 ...szól a szarvas [[A/Agancs\|agancs]]ának tölgyfával való összevetéséről:  
 > A magyaroknál párhuzamát találjuk a tölgyfa ágai és a közönséges szarvas agancsa ágasbogossága azonos vonalritmusában, amit népünk ma is ezen ágasbogas szavunkkal nevez meg, amivel azután egyeznek a magyar-kún ág, makk, makk-fa (tölgy-fa) valamint e szarvasfaj egykori ágos, ákos neve; emlékezünk pedig, hogy regös-énekeink a Csodaszarvas "ezer ágaboga"-ról szólanak.  
 
 Lásd erről Magyar Adorján Csodaszarvasának anyagát képekkel [[A/Ágas-bogas\|ágas-bogas]]. Egy képet ide is tehetünk:  
-![assets/Oak_image1.png\|fix_dark fix_light](/img/user/O/assets/Oak_image1.png)  
+![assets/Oak_image1.png|fix_dark fix_light](/img/user/O/assets/Oak_image1.png)  
 
 Robert Graves The White Goddess című könyvében is megtalálható az összevetés:
 > From Sardinia comes a Bronze Age figurine of a man-stag with horns resembling the foliage of an oak, a short tail, an arrow in one hand and in the other a bow that has turned into a wriggling serpent.  
@@ -31,8 +37,10 @@ J. E. Cirlot Dictionary of Symbols című könyvében stag címnél írja:
 > —  
 > Szimbolikus jelentése az élet fájához kapcsolódik, mivel agancsa hasonlít az ágakhoz.  
 
+<!--section: 3-->
 #### Jankovics Marcell A fa mitológiája...
 
+<!--section: 3.1-->
 ...című könyvének 189. oldalán is szól majd róla:  
 > A világfát gyakran ábrázolják szarvassal, némelyik körül egész szarvasnyáj legelészik. A skandináv [[Y/Yggdrasil\|Yggdrasil]] lombját 4 rénszarvas harapdálja (a 4 égtáj képviseletében?), de a levelét eszi a [[V/Valhalla\|Valhöll]] tetején állva a tölgyfaagancsú **Eiktymir** rénszarvas és Heidrun, a kiapadhatatlan tejű kecske. A szarvas, éppúgy mint a farkas vagy a kígyó azonosulhat a fával (l. "tölgyfaagancsú" Eiktymir).  
 
@@ -58,8 +66,10 @@ Richard H. Allen Star Names című könyvében írja, hogy az észak-amerikai be
 
 A Nagy Medvénél maradva, az ősi csillagkép-istent benne kereső...
 
+<!--section: 4-->
 #### Greg Rigby The God Secret...
 
+<!--section: 4.1-->
 ...című könyvében a tölgyről szólva a fát is ezen csillagképben látja (valójában a Tejút maga a fa, ennek északi, égbe nyúló ágai lehetnének a cirkumpoláris csillagképek; nála a tölgyfa ága-bogaival hasonlítható szarvas szarv-as-ként "Horned One," míg amit a utána ír, azt is értem):  
 > The representation of a tree can be located within the boundaries of the constellation of Ursa Major (Fig 37). Thus, as we have seen, whilst Ursa Major can be viewed as a cup, chariot, stag, swan, plough, throne etc., there is strong evidence to support the view that the full pattern of the constellation could also be perceived as "the tree."  
 > On the basis of everything we have discovered thus far, this tree is located in "the house of God" and could actually be regarded as a representation of God himself. Since (apart from the base of the trunk) the tree in Fig 37 does not fall outside the boundaries of the constellation this could imply that Ursa Major in its entirety is the location of Paradise. If the constellation of Ursa Major is synonymous with the tree of knowledge then the tree is associated with The Horned One, Pluto and the Serpent that tempted Eve. At the same time it holds within its branches a selection of benevolent and divine personalities such as Adonis and Osiris. The Garden of Eden becomes therefore a place where good and evil, God and the Devil, Adonis and Beelzebub co-exist in a prolonged cycle of alternating dominance.  
