@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alvilág/"}
+{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-22T03:43","updated":"2026-11-21T01:08"}
 ---
 
 
@@ -98,7 +98,7 @@ Még az alvilág/másvilág kapcsán ide tehető...
 Az alvilág, felvilág, másvilág (és másik/párhuzamos) világ kapcsán kellene írni egy összefoglalót, vagy ha már megtette más, megtalálni. [[A/Annwfn\|Annwfn]] és [[D/Duat\|duat]] címnél már volt hasonlókról szó.  
 [[S/Sheol\|Sheol]] véleményem szerint nem sehol, mert ha az lenne, nem az alvilág lenne.  
 
-Varga Zsigmond Az ősmagyar mitológia című könyvének 113. oldalán ír az ősi alvilágképzetekről.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének 113. oldalán ír az ősi alvilágképzetekről.  
 
 [[A/Asphodel\|Asphodel]] címnél láttuk a Szimbólumtár adatát a görög alvilág hármas felosztásáról:  
 > A mitológiai alvilág hármas beosztásában, amelyben a Tartarosz és az Elízium a két véglet, az aszphodéloszmezőkre a földi életben a jó és rossz között ingadozó lelkek kerülnek.  
