@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2026-05-29T22:42"}
+{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2026-11-21T01:07"}
 ---
 
 
@@ -24,7 +24,7 @@ Helyesen Mas-Tab-Ba-Gal-Gal a sumér-babiloni zodiákus Ikrek jegyének neve, me
 
 
 
-- Varga Zsigmond Ősmagyar mitológia című könyvének (a PDF) 65-66. oldalán talált adat szerint a kettőzés itt többesszámot jelent; például `dingir gal-gal` = nagy istenek. <br/>
+- Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége sumir és ural-altáji öröksége című könyvének (a PDF) 65-66. oldalán talált adat szerint a kettőzés itt többesszámot jelent; például `dingir gal-gal` = nagy istenek. <br/>
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 73. oldala alján máshogy is magyarázza a nevet.  
 Lásd még [[G/Galgal\|galgal]].  
 
@@ -42,7 +42,7 @@ Az Ikrek(hez köthető) M-S vázú név/neve azért is érdekes, mert a [[M/Misc
 De mindkét névben az is közös, hogy a Tejút [[M/MISZ\|MISZ]] nevével de legalábbis M-S vázú nevével hozható kapcsolatba. A MAS keresztet formázó piktogramja is nyilván jelentékeny lehet ebben a kontextusban vizsgálva is.  
 
 Érdekes a fenti szövegből `mastabba`, mely akár [[M/Mostoha\|mostoha]] olvasatú is lehet (mostoha előjött a más jelentésű [[O/Other\|other]] szónál is):  
-Igen érdekes, amit [[G/Gemini\|Gemini]] címnél, a [[G/Gyám\|gyám]] fogalma kapcsán vetettünk fel, [[J/Jézus\|Jézus]] nevelőapja, [[J/József\|József]] gyám illetve mostoha szerepe alapján. Azt, hogy a [[M/Más\|más]] és [[O/Other\|other]] címnél írottak alapján meghatározott téridőbeli helynek (mely, ahogy [[U/UR\|UR]] címnél is láttuk, Ikrek és Orionra értelmezettnek egyaránt vehető) megfelel József-Orion téridőbeli helye és lám, az Ikrek Mastabbagalgal nevének Mastabba előrésze (melyből a **Mustafa** nevet is eredőnek véltem) megegyezni látszik az értelmi és eredeztetési nehézségeket rejtő [[M/Mostoha\|mostoha]] szavunkkal.  
+Igen érdekes, amit [[GEMINI\|Gemini]] címnél, a [[G/Gyám\|gyám]] fogalma kapcsán vetettünk fel, [[J/Jézus\|Jézus]] nevelőapja, [[J/József\|József]] gyám illetve mostoha szerepe alapján. Azt, hogy a [[M/Más\|más]] és [[O/Other\|other]] címnél írottak alapján meghatározott téridőbeli helynek (mely, ahogy [[U/UR\|UR]] címnél is láttuk, Ikrek és Orionra értelmezettnek egyaránt vehető) megfelel József-Orion téridőbeli helye és lám, az Ikrek Mastabbagalgal nevének Mastabba előrésze (melyből a **Mustafa** nevet is eredőnek véltem) megegyezni látszik az értelmi és eredeztetési nehézségeket rejtő [[M/Mostoha\|mostoha]] szavunkkal.  
 
 #### Czeglédi Katalin A piramis...
 
