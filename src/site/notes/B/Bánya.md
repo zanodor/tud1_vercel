@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bánya/","title":"Bánya","created":"2023-11-09T07:19","updated":"2024-11-28T03:43"}
+{"dg-publish":true,"permalink":"/B/Bánya/","title":"Bánya","created":"2023-11-09T07:19","updated":"2026-11-21T01:13"}
 ---
 
 
@@ -18,7 +18,7 @@ Itt annyi kiegészítést kell tenni, hogy a magyar nyelv speciális gondolkodá
 ...című könyvében szereplő adata rávilágíthat a fürdő jelentésű idegen szavak valódi eredetére:  
 > A fürdő használata fajunknál a mohácsi vészig sokkal nagyobb volt, mint azóta. A Kalevala nagyon emlegeti a fürdözést, s kitűnik belőle, hogy e rokonaink ősidőkben vendégségeiket gőzfürdőkben szokták tartani s kedves vendégeik részére külön fűtötték be a gőzfürdőt. Galeotti szerint Mátyás korában még hasonlóan jártak el a magyar főurak. A régi magyar nyelv ezen helyiségeket "bánya"-nak nevezte, honnét van a népies szólás is: olyan meleg, mint a bánya.  
 
-#### Varga Zsigmond Az ősmagyar mitológia...
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...
 
 ...című könyvének 188-189. oldalán Kandra Kabossal egyetértően írja a bánya szóról és a magyar gőzfürdőzés szokásáról:  
 > Eleinknél a fürdő használata jóval gyakoribb volt a mohácsi vészig, mint azután. Az ősi varázspraxis hatása volt ez, természetesen varázsgyakorlat nélkül. Van két szólás-mondásunk, amelyik a gőzfürdő gyakoriságát, illetve előkelőségét mutatja. Az egyik így hangzik: olyan meleg, mint a bánya; a másik: befűtöttek neki. Galeotti Mátyás-udvari történetíró arról tudósít, hogy a magyar főurak vendégségeiket gőzfürdőben tartották, ahol vendégeik tiszteletére külön fütötték be a gőzfürdőt.  
