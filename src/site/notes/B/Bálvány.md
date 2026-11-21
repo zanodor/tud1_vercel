@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2026-08-09T17:57"}
+{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2026-11-21T01:09"}
 ---
 
 
@@ -74,7 +74,7 @@ Amennyiben az etruszkok emeltek is volna szobrokat isteneiknek, az is a hanyatl�
 { #a0wju8}
 
 
-#### Varga Zsigmond Az ősmagyar mitológia...
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...
 
 ...című könyvének 132. oldalán szól a bálvány névről. Továbbá írja:  
 > Négy műszavunk, illetőleg szólásmondásunk igazolja, hogy őseink is fából készítették bálványképeiket, ú.m. a fejfa, vasorrú bába, a faszent és a faképnél hagyni. A fejfáról Budenz tisztázta, hogy nem azért fejfa, mert a halott fejéhez volt állítva, hanem mert felül durva fejformára ki volt faragva.  
