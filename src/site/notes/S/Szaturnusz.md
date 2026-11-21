@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2026-03-05T01:24"}
+{"dg-publish":true,"permalink":"/S/Szaturnusz/","title":"Szaturnusz","tags":["Englishtexttranslated"],"created":"2024-02-28T02:45","updated":"2026-11-21T01:05"}
 ---
 
 
@@ -43,7 +43,7 @@ Viszont ha Péterfai János adata szerint `Us` = halál, akkor az első neve is 
 
 Ellen-Nap vagy Másik Nap a Kutyacsillag [[S/Szíriusz\|Szíriusz]] is. Szíriusz és Szaturnusz égitestekben az a közös, hogy mindkettő kapcsolódik [[S/Széth\|Széth]]hez.  
 Ezekről az ideákról legutóbb [[E/Ellen\|ellen]] címnél volt szó.  
-Varga Zsigmond Az ősmagyar mitológia című könyvének 350. oldalán ír a Szaturnusz meg nem értett kettős (baljós <> szerencsés) természetéről. Legutóbb [[S/SZAT\|SZAT]] (újra)bevezetőjében és [[K/KAT\|KAT]] valamint [[K/Kezdet és vég\|kezdet és vég]] címnél volt szó arról, hogy SZAT-nak, [[S/SZET\|SZET]]-hez hasonlóan fényes és sötét jelentése is van, mert a kozmikus időben ezek a fényes és sötét korszakok egymásban folytatódnak: lásd [[O/Ouroboros\|ouroboros]] jelképet.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének 350. oldalán ír a Szaturnusz meg nem értett kettős (baljós <> szerencsés) természetéről. Legutóbb [[S/SZAT\|SZAT]] (újra)bevezetőjében és [[K/KAT\|KAT]] valamint [[K/Kezdet és vég\|kezdet és vég]] címnél volt szó arról, hogy SZAT-nak, [[S/SZET\|SZET]]-hez hasonlóan fényes és sötét jelentése is van, mert a kozmikus időben ezek a fényes és sötét korszakok egymásban folytatódnak: lásd [[O/Ouroboros\|ouroboros]] jelképet.  
 
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (első kötetének) 335. oldalán is arról van szó, hogy a Szaturnusz Nap-aspektusú. Nem véletlen, hogy a görög [[K/Kronosz\|Kronosz]] neve is a Nap K-R vázú nevéből alakult.  
 Persze ez korántsem jelenti azt, hogy Kronosz nevének eredete nem lehetne ismét női név ([[C/Crone\|crone]] éppen ilyen név is, de másutt, talán [[K/Korona\|korona]] címnél is volt szó ilyen szavakról); persze Kronosz már a kimért ciklikus idő istene, míg a végtelen [[I/Idő\|idő]] az, amely az istenanyához tartozó.  
@@ -89,7 +89,7 @@ Robert Graves The White Goddess című könyvében ezt már leírta a Szaturnusz
 > —  
 > Ninib, az asszír Szaturnusz a Dél istene volt, ezért a déli Napé, és a tél közepéé is, amikor a Nap eléri legdélibb pontját, és egy napra megáll.  
 
-[[Z/Zamistán\|Zamistán]], [[T/Tél\|tél]] és [[G/Gemini\|Gemini]] címnél tovább is megyünk: az indo-iráni [[Y/Yama\|Yama]] (Szaturnusz) adja ki nemcsak az ind, de a kelta és latin telet jelentő szavakat is!  
+[[Z/Zamistán\|Zamistán]], [[T/Tél\|tél]] és [[GEMINI\|Gemini]] címnél tovább is megyünk: az indo-iráni [[Y/Yama\|Yama]] (Szaturnusz) adja ki nemcsak az ind, de a kelta és latin telet jelentő szavakat is!  
 
 #### Jankovics Marcell folytatja:  
 
@@ -151,7 +151,7 @@ A Szaturnusz bolygót is biztosan magyarok nevezték el, az -[[U/Us\|us]] végz�
 
 Szaturnusz (és a vele azonosított istenek és fogalmak, mint Kála[^10], Kronosz, Zurván, stb) mindenütt az [[I/Idő\|idő]] ura, így azt kell hinni, hogy [[S/SZAT\|SZAT]] valójában kozmikus időt jelent. Innen eredhet (ha nem éppen a [[T/Tide\|tide]] szóhoz kötendő) a német `zeit` = idő jelentés is, mely egyezik az arab `sa'at` = idő, óra szóval.  
 (Legutóbb [[E/Earth\|earth]] címnél is láttunk germán és arab szótani kapcsolatot. A germán és arab között a közös kapocs az avar-hun nyelv lehet.)  
-Persze meglehet, hogy az arab és német időt jelentő szavak mégsem a Szaturnusz bolygóhoz és nevéhez kötendők. Varga Zsigmond Az ősmagyar mitológia c. könyvének 365. oldalán (több helyre betéve: [[H/Hét\|hét]], [[S/Septem\|septem]], [[S/Seven\|seven]]) szereplő adata szerint (ott bővebben kifejtve) ugyanis a(z általa nem említett) német `zeit` (ezen szó legutóbb [[T/Tide\|tide]] szó eredetéhez lett kötve) és arab `sa'at` szavakra erősen hasonlító vogul `sát`, `seát` a hét napból álló időegységet jelenti és ezt Varga Zsigmond és forrásai a sumér `sabat` = hét (week, woche) szóval veti össze.  
+Persze meglehet, hogy az arab és német időt jelentő szavak mégsem a Szaturnusz bolygóhoz és nevéhez kötendők. Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége c. könyvének 365. oldalán (több helyre betéve: [[H/Hét\|hét]], [[S/Septem\|septem]], [[S/Seven\|seven]]) szereplő adata szerint (ott bővebben kifejtve) ugyanis a(z általa nem említett) német `zeit` (ezen szó legutóbb [[T/Tide\|tide]] szó eredetéhez lett kötve) és arab `sa'at` szavakra erősen hasonlító vogul `sát`, `seát` a hét napból álló időegységet jelenti és ezt Varga Zsigmond és forrásai a sumér `sabat` = hét (week, woche) szóval veti össze.  
 A kérdés már csak az, hogy az arab és német nyelveken a hét méréséből (minthogy a Hold számíttatott az első égitestnek, mely után az ember az idő kérdésében tájékozódott és hét a maga időközével éppen egy holdfázisnak felel meg) származik az idő mérésének, és innen magának az idő fogalma. (Az angol [[W/Week\|week]] = hét szóval (és mással) is egyeznek a lengyel `wiek`, szlovák `vek` és cseh `vék` kort, időszakot, időtartamot jelentő szavak.)  
 A másik kérdés, hogy a vogul szót szabad-e a sumér szó fejleményének illetve rokonának tartani (fontos szóközépi b-hang kiesés a sumér `sabat`-hoz képest).  
 Még azt is jegyezzük meg, hogy Fáy Elek A magyarok őshona c. könyvének 233. oldalán álló adata szerint az arab `aud` = idő jelentésű szintén.  
