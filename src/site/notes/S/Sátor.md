@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sátor/","title":"Sátor","created":"2025-03-21T22:16","updated":"2026-02-06T23:04"}
+{"dg-publish":true,"permalink":"/S/Sátor/","title":"Sátor","created":"2025-03-21T22:16","updated":"2026-11-21T01:09"}
 ---
 
 
@@ -26,7 +26,7 @@ Több helyen, [[C/Culminate\|culminate]], [[Z/Zsúp\|zsúp]], [[A/Asztag\|asztag
 A [[H/Ház\|ház]] és [[G/Göd\|Göd]] címnél említett norvég lapp `goatte` = sátor szó kapcsán szóltunk arról, hogy a sátor a ház, ami [[H/HAS\|has]]ként anyaméh és Tejút is lehet. Mely Tejút nőiség és égjelképként már átvezet a perzsa `čādar` = fátyol szóból eredő [[C/Chador\|chador]] szóhoz, mely olyannyira sátor szavunkból ered, hogy valódi jelentése is sátor és a fátyol jelentés csak később rakódott rá. (De a [[K/Köpeny\|köpeny]] szónak is van ilyen szakrális értelemzése.)  
 
 A sátor a [[P/Palást\|palást]]hoz és más szakrális [[R/Ruha\|ruha]]neműhöz hasonlóan elsősorban égjelkép. (A [[H/Hegy\|hegy]] egyébként szintén levezethető az [[E/Ég\|ég]] > [[E/Egy\|egy]] > [[H/Hegy\|hegy]] vonalon, így nem véletlen, hogy eget és hegyet is jelképezhet.)  
-A [[V/Világmodell\|világmodell]]/égjelkép sátorról Varga Zsigmond Az ősmagyar mitológia című könyvének 260. és 265. oldalán szól.  
+A [[V/Világmodell\|világmodell]]/égjelkép sátorról Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének 260. és 265. oldalán szól.  
 
 #### Falvay Károly Nagyboldogasszony...  
 
