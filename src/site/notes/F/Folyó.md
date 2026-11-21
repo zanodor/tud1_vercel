@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Folyó/","title":"Folyó","tags":["Englishtexttranslated","titleandheadingonedontmatch"],"created":"2024-05-09T01:21","updated":"2026-06-12T22:45"}
+{"dg-publish":true,"permalink":"/F/Folyó/","title":"Folyó","tags":["Englishtexttranslated","titleandheadingonedontmatch"],"created":"2024-05-09T01:21","updated":"2026-11-21T01:08"}
 ---
 
 
@@ -125,7 +125,7 @@ Götz László Keleten kél a Nap című könyvének 872-873. oldalán találhat
 
 A folyó szavunkkal egyező [[F/Follow\|follow]] ige német `folgen` = folytatni jelentésű párja a [[V/Volga\|Volga]] címnél Magyar Adorján által említett formákkal azonos még, ahol folyó szavunkról is volt szó.  
 
-Az [alábbi](https://forum.unilang.org/viewtopic.php%3Ft%3D2545) oldalon író Nagyernyei Szabó Zoltán misszionárius pap – aki azzal kezdi a bevezetőjét, hogy biz. Wange Sumerian the Sanskrit of N'tu könyve címe alapján a bantu nyelv ősibb rétegű, mint a sumérnek mondott nyelv és ezzel nem is vitatkozhatunk, kiváló a címadás – adata szerint a bantu `fula` = fal, folyó éppen olyan alakú, mint amilyet várunk.  
+Az [alábbi](https://forum.unilang.org/viewtopic.php%3Ft%3D2545) oldalon író Nagyernyei Szabó Zoltán misszionárius pap – aki azzal kezdi a bevezetőjét, hogy Willibald Wanger Sumerian the Sanskrit of N'tu könyve címe alapján a bantu nyelv ősibb rétegű, mint a sumérnek mondott nyelv és ezzel nem is vitatkozhatunk, kiváló a címadás – adata szerint a bantu `fula` = fal, folyó éppen olyan alakú, mint amilyet várunk.  
 Lásd még [[F/Fal\|fal]] (ami szintén a Tejút lehet).  
 
 Lásd még [[F/Folyóistennő\|folyóistennő]].  
