@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T05:21","updated":"2026-11-15T11:09"}
+{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-29T05:21","updated":"2026-11-21T01:11"}
 ---
 
 
@@ -10,7 +10,7 @@ Legutóbb a [[B/Barbár\|barbár]] elemzésénél is előjött (lásd [[B/Barber
 
 [[G/Galgal\|Galgal]] címnél szerepelt:  
 Galgal szerepelt a [[M/Mastabbagalgal\|Mastabbagalgal]] névben is. Ott nem jött elő kerekség, hanem csak többesszám.  
-Varga Zsigmond Ősmagyar mitológia című könyvének (a PDF) 65-66. oldalán talált adat szerint is a kettőzés többesszámot jelent; például `dingir gal-gal` = nagy istenek.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége sumir és ural-altáji öröksége című könyvének (a PDF) 65-66. oldalán talált adat szerint is a kettőzés többesszámot jelent; például `dingir gal-gal` = nagy istenek.  
 
 #### Péterfai János írja:  
 
