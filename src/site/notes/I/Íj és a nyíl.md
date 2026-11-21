@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2026-08-09T18:45"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2026-11-21T01:04"}
 ---
 
 
@@ -154,7 +154,7 @@ Borbola János ![assets/Ijesnyil_image9.jpeg|fix_dark fix_light right|360](/img/
 Az ![assets/Ijesnyil_image8.jpeg|fix_dark fix_light right|124](/img/user/I/assets/Ijesnyil_image8.jpeg)  elliptoid/tojás alakú gömb az éggömb, középen a nyíl = Nílus = Tejút. Ezt ő nem írja.  
 
 [[D/Dob\|Dob]] címnél álló adatok is ide valóak:  
-A sámán naphangszeréről Varga Zsigmond Az ősmagyar mitológia című könyvének 166. oldalán[^8], míg...
+A sámán naphangszeréről Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének 166. oldalán[^8], míg...
 
 #### Jankovics Marcell A Nap könyve...
 
