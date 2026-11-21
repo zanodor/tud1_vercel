@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/ÉL/","title":"ÉL","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-21T10:58","updated":"2026-10-28T23:47"}
+{"dg-publish":true,"permalink":"/E/ÉL/","title":"ÉL","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-21T10:58","updated":"2026-11-21T01:16"}
 ---
 
 
