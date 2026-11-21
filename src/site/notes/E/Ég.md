@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ég/","title":"Ég","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-10-18T17:53","updated":"2026-11-15T11:08"}
+{"dg-publish":true,"permalink":"/E/Ég/","title":"Ég","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-10-18T17:53","updated":"2026-11-21T01:07"}
 ---
 
 
@@ -103,7 +103,7 @@ Ha már Egyiptomban járunk, ...
 { #rn6oxz}
 
 
-Wallis Budge An Egyptian Hieroglyphic Dictionary című könyvében nem sikerült ugyan megtalálni ilyen jelentéssel, de hasonló szavakat igen. Például a 7. oldalon az imént [[H/Hathor\|Hathor]] kapcsán említett `ah`, `aha` = tehén, tehénistennő utalhat az – [[O/Ökör\|ökör]] szón keresztül akár – ég tehenén keresztül az égre ([[A/AG\|AG]] is az ég párja, ahogy [[A/Akar\|akar]] és [[A/Aquatic\|aquatic]] címnél Budge féle adatokkal is láttuk), míg a 8. oldalon `akhakh` = menny virágai (csillagok) is az égre, a csillagos égre utal. Massey nem tudom honnan vette adatát, de jónak tűnik. Minél több több információ áll rendelkezésünkre, annál könnyebben ki lehet következtetni a magyar ősnyelv kiinduló szavát és az elhajló vagy mindet átfogó jelentéseket. Ott van még például a Budge által megadott, [[A/Akar\|akar]] címnél is taglalt egyiptomi `ag` = akar; hiányt szenved jelentésű ige. Az [[E/Éva\|Éva]] név kapcsán előjövő [[E/Éh\|éh]] az éha/éhom szókban is ilyen alakú, mely rámutat, hogy a közös kiinduló az ég(istennő).  
+Wallis Budge An Egyptian Hieroglyphic Dictionary című könyvében nem sikerült ugyan megtalálni ilyen jelentéssel, de hasonló szavakat igen. Például a 7. oldalon az imént [[H/Hathor\|Hathor]] kapcsán említett `ah`, `aha` = tehén, tehénistennő utalhat az – [[O/Ökör\|ökör]] szón keresztül akár – ég tehenén keresztül az égre ([[A/AG\|AG]] is az ég párja, ahogy [[A/Akar\|akar]] és [[A/Aquatic\|aquatic]] címnél Budge féle adatokkal is láttuk), míg a 8. oldalon `akhakh` = menny virágai (csillagok) is az égre, a csillagos égre utal. Massey nem tudom honnan vette adatát, de jónak tűnik. Minél több több információ áll rendelkezésünkre, annál könnyebben ki lehet következtetni a magyar ősnyelv kiinduló szavát és az elhajló vagy mindet átfogó jelentéseket. Ott van még például a Budge által megadott, [[A/Akar\|akar]] címnél is taglalt egyiptomi `ag` = akar; hiányt szenved jelentésű ige. Az [[E/Éva\|Éva]] név kapcsán előjövő [[E/Éh\|éh]] is ilyen alakú, mely rámutat, hogy a közös kiinduló az ég(istennő).  
 
 A Greg Rigby The God Secret című könyvének 97. oldalán idézett J. Norman Lockyer The Dawn of Astronomy, a study of the temple-worship and mythology of the ancient Egyptians című könyvének 200.oldalán talált `āk` medvével való kapcsolatba hozatala pedig azért érdekes, mert az udmurt és komi `oh` = medve szintén:
 > (In relation to the alignment of the great Temple of Hathor at Denderah, he quotes the temple hieroglyphic inscriptions:)  
@@ -231,6 +231,7 @@ Ilyen még [[O/Ökör\|ökör]] szavunk is.
 
 [[A/AN, ÁN#An/Kan Köre\|An Köre]] és [[K/KAN#An/Kan Köre\|Kan Köre]] cím/alcímnél volt szó hasonló szóalakokról, de jó lenne egy helyen csak az Ég-Úr összetételű szókapcsolatokat felsorolni.  
 [[A/Akar\|Akar]] és [[I/Iker\|iker]] (valamint állatok közül [[E/Egér\|egér]] és [[A/Agár\|agár]]) mellett ott a [[J/Jogar\|jogar]] és germán [[A/Ægir\|Ægir]] és `jäger`, aztán [[H/Hágár\|Hágár]] és az iráni [[H/Hukairya\|Hukairya]] is lehet ilyen olvasatú, ha nem Hungária orrhang nélküli változata.  
+[[A/Aker\|Aker]] egyiptomi istenség akkor felelne meg, ha [[G/Geb\|Geb]]hez hasonlatos tevékenysége lenne, de elvileg nem.  
 
 Ilyen alakú az `okker` szó.  
 Hasonló alakú a hindi `ajgar` = sárkány. Ez is a magas, hatalmas (északi, égi) szférákra utal.  
@@ -322,5 +323,5 @@ Kérdés, hogy vajon az ónorvég `eign` = vagyon, tulajdon (lásd [[O/Own\|own]
 > Aztán van 4-5 vagy néha 10-20 oldalam más témákban (hasonló összefüggéseket bizonyító szavak gyűjteménye). Az én "bűnöm" az, hogy ingyen dolgozom (ki dolgozik manapság ingyen?...hozzád is és minden mozdulatodhoz dollárérték kapcsolódik, ugye...ez a sátánizmus) és keresem az összefüggéseket, és nem tagadom az általam talált összefüggéseket. Arra törekszem, hogy bizonyítsak és ne cáfoljak. Istené (Egy) vagyok és nem a Sátáné, melynek az Akadémia dolgozik...  
 > Szóval amikor több száz, sőt több ezer (nem a judaista-kommunista kufár-uzsorás banda által működtetett Akadémia által összegyűjtött) szó közös mindenhol, akkor ezt mivel magyarázod? Vagy ezek a szavak tényleg proto-/pánszláv, proto-/pán-török stb. szavak? Persze a címkézés mindig a könnyebbik út. A csaló útja. Az emberek útja ma az önámítás és mások megtévesztése. Ez az a kor, amelyben élünk. Önmagunk és egymás becsapása, még önmagunk ellenére is. Az ipari szintű félretájékoztatás kora. Mindannyiunkat fiatal korban kezdenek el indoktrinálni. Ne legyetek tehát fiatalok és hiszékenyek.  
 > Talpra, hunok.  
-- Lehetett volna még említeni az `ég` szavunkkal azonosnak látszó baszk `ogi` = kenyér szót, azon az alapon, hogy sütik. A kelta `aran`, `arán` = kenyér is aranybarna színére utal, továbbá [[B/Baguette\|baguette]] helyen volt sütésről.
+- Lehetett volna még említeni az `ég` szavunkkal azonosnak látszó baszk `ogi` = kenyér szót, azon az alapon, hogy sütik. A kelta `aran`, `arán` = kenyér is aranybarna színére utal, továbbá [[B/Baguette\|baguette]] helyen volt szó sütésről.
 
