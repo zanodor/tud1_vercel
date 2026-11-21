@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szekér/","title":"Szekér","tags":["containscallouts"],"created":"2025-02-24T18:12","updated":"2026-11-15T11:08"}
+{"dg-publish":true,"permalink":"/S/Szekér/","title":"Szekér","tags":["containscallouts"],"created":"2025-02-24T18:12","updated":"2026-11-21T01:08"}
 ---
 
 
@@ -57,7 +57,7 @@ Az [alábbi](https://youtu.be/DqMogRPokq8) Turul és Szarvas IV. rész című Á
 
 > [!lasdmeg] &nbsp;
 > > [!note] &nbsp;
-> > A [[P/Poláris-szoláris átállás\|poláris felfogás]]hoz tartozó szöveges megjegyzéshez tegyük hozzá, hogy a Göncöl szekerek is fent, északon helyezkednek el.
+> > A [[P/Poláris-szoláris átállás\|poláris felfogás]]hoz tartozó szöveges megjegyzéshez tegyük hozzá, hogy a Göncöl szekerek is fent, északon helyezkednek el, a szoláris felfogásban pedig a ház tetejére kerülő szekér olyan értelmezést kell kapjon, mint amilyen a [[G/Golgotha\|Golgota]]-hegyre nem meghalni, hanem feltámadni menő, szintén a Nap karakterében látandó Jézusé, hiszen a halál alsó állapot. Itt tehát mindkét esetben a fény újjászületését kell meglátni.
 { #muc6bw}
 
 
