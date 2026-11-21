@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szobor/","title":"Szobor","tags":["containstransclusions"],"created":"2025-03-24T13:05","updated":"2026-08-03T20:45"}
+{"dg-publish":true,"permalink":"/S/Szobor/","title":"Szobor","tags":["containstransclusions"],"created":"2025-03-24T13:05","updated":"2026-11-21T01:13"}
 ---
 
 
@@ -21,7 +21,7 @@ Fáy Elek A magyarok őshona című könyvének 271. oldalán a mongol `szuburgh
 Érdekes Aczél József adata, miszerint szobor szavunk alakilag egyezik a görög `zóphorosz` = állatokat, élőlényeket ábrázoló szóval. Innen kellene visszafejteni tehát az állatot jelentő görög `zōion`-t?  
 - Nem valószínű. [[Z/Zodiac\|Zodiac]] címnél a [[S/Sothis\|Sothis]] nevéből vezettük le.
 
-A Varga Zsigmond Ősmagyar mitológia című könyvének 151. oldalán említett német `zauber` = varázslás, varázslat; boszorkányság nem is annyira [[S/Szabir\|szabir]], mint szobor szavunkból kell eredjen szintén: a [[B/Bálvány\|bálvány]]ok tiltása áll a hátterében.  
+A Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége sumir és ural-altáji öröksége című könyvének 151. oldalán említett német `zauber` = varázslás, varázslat; boszorkányság nem is annyira [[S/Szabir\|szabir]], mint szobor szavunkból kell eredjen szintén: a [[B/Bálvány\|bálvány]]ok tiltása áll a hátterében.  
 
 Hasonló szó a `cobor` (szövőszéken keresztülvetett azon erős rúd, melyre a szőni való fonalat tekerik; másképen: `csubor`, néhutt: zugoly).  
 
