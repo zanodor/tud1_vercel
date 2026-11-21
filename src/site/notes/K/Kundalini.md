@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kundalini/","title":"Kundalini","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-12T07:24","updated":"2026-10-28T23:50"}
+{"dg-publish":true,"permalink":"/K/Kundalini/","title":"Kundalini","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-12T07:24","updated":"2026-11-21T01:16"}
 ---
 
 
