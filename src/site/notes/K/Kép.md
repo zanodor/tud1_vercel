@@ -1,19 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2026-08-09T14:05"}
+{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2026-11-21T01:11"}
 ---
 
 
 # Kép
 
-A kép, úgy tűnik a [[K/Kő\|kő]]ből készült bálványkép, mely az istenség képe/arca (feje) is lehet, illetve ezek ideák menet közbeni konflációjáról is lehet szó.  
-CzF kápa címénél (lásd [[C/Cap\|cap]]), a latin `caput` és német `Kopf` szavak mellé ajánlja fel összevetésre. Ott is volt szó arról, hogy a fej jelentés nyomán ered a fejfedő jelentés.  
+A kép, úgy tűnik a [[K/Kő\|kő]]ből készült bálványkép, mely az istenség képe/arca (feje) (és akár fallikus formában bemutatott minősége) is lehet, illetve ezek ideák menet közbeni konflációjáról is lehet szó.  
+CzF kápa címénél (lásd [[C/Cap\|cap]]), a latin `caput` és német `Kopf` szavak mellé ajánlja fel összevetésre.  
+> [!check] &nbsp;
+> Ott is volt szó arról, hogy a fej jelentés nyomán ered a fejfedő jelentés.
 
 Ahogy [[B/Build\|build]] címnél is szerepelt, kép megfelel a \*köv szónak.  
 
-Már csak azért is lehet ezzel felfogással számolni, mert az ([[E/Ég\|ég]]ig érő) [[H/Hegy\|hegy]] kapcsán is szóba került, [[S/Szakrális geometria#^ovbsl7\|szakrális geometria]] címnél szereplő diagrammal megtámogatva, hogy Isten ott van, a (Világ)hegy tetején.  
+Már csak azért is lehet ezzel felfogással számolni, mert az ([[E/Ég\|ég]]ig érő) [[H/Hegy\|hegy]] kapcsán (valamint `móny` és `mons` kapcsolatában) is szóba került, [[S/Szakrális geometria#^ovbsl7\|szakrális geometria]] címnél szereplő diagrammal megtámogatva, hogy Isten ott van, a (Világ)hegy tetején.  
 Márpedig [[K/Kő#Hasonló idegen nyelvű szavak\|kő]] szavunk másutt hegyet jelent és ha lenne `hegy` szavunknak gyöke, egyeztethető is lenne `kő` szóval.  
 
-De itt a `kép` esetében inkább arról van szó, hogy kőből készül az isten szobra, képe, és ahogy lentebb kifejtjük, elsődlegesen a képe = arca, feje lehetett a hangsúlyos (a "fő"), mert idegen szavak ilyen K-P/K-F vázzal megjelennek fej, fő jelentéssel.  
+De itt a `kép` esetében inkább arról van szó, hogy kőből készül az isten szobra, képe (mása), és ahogy lentebb kifejtjük, elsődlegesen a képe = arca, feje lehetett a hangsúlyos (a "fő"), mert idegen szavak ilyen K-P/K-F vázzal megjelennek fej, fő jelentéssel.  
 
 #### Magyar Adorján írja:
 
@@ -34,12 +36,12 @@ A latin `cippus` = cölöp, karó jelentésű.
 Egyre inkább úgy tűnik, hogy a görög fejet jelentő szó bálvány-fej és innen a fallikus értelmezési lehetőség is. ([[G/Geb\|Geb]] nevénél is erre gondoltunk.)  
 De ha már latin, az `incipere` = kezdődni szóban is szerepel ilyen szóaalak. Robert Graves The White Goddess című könyvében az [[O/Ogham\|Ogham]] fanaptár taglalásánál írja, hogy a nyír a kezdő. Nos, a latin szóelem is ilyesmire vonatkozhat.  
 
-#### Varga Zsigmond Az ősmagyar mitológia...
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...
 
 ...című könyvének 121. oldalán írja:  
 > A kép valamely tárgynak, vagy testnek a figurája. Lehet kicsinyített, vagy felnagyított. Van művészi és van durva, nyers kép is. Akad egészen kidolgozott, illetőleg elnagyolt, **csak a fejet ábrázoló kidolgozású is**. Rendkívül fontosak és tanulságosak a démonok, az istenek kiábrázolásai, de semmivel sem jelentéktelenebbek a megrontásra kiszemelt azon áldozatok képei, melyeket a fekete mágia használ ártó céllal. A kép úgy viszonylik a valósághoz, mint az [[A/Álom\|álom]] az ébrenléthez. Az antik népeknél minden irányában bőséges példaanyag található. De bő példázattárral szolgál a szumirok és az ural-altáji népek vallásos művészete is.  
 - Folytatást lásd a könyvében.  
-Magát kép szavunkat könyvének 132. oldalán veszi elő.  
+Magát `kép` szavunkat könyvének 132. oldalán veszi elő, ahol egy sumér `gim` és török `gib` szavakat a hasonlítás partikuláiként mutatja be.
 
 #### Fórika Éva A magyar nyelv metafizikája...
 
