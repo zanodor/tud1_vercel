@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kota/","title":"Kota","created":"2024-11-08T15:22","updated":"2026-07-23T11:45"}
+{"dg-publish":true,"permalink":"/K/Kota/","title":"Kota","created":"2024-11-08T15:22","updated":"2026-11-21T01:12"}
 ---
 
 
@@ -69,7 +69,7 @@ Lásd még ház – település (város) vonalon a kota névvel szinte azonos [[
 
 ### Szent ház
 
-Varga Zsigmond Az ősmagyar mitológia című, [letöltésre elérhető](https://mega.nz/file/NzVgjYyJ#NwRtPkXGAY5s_k4gsvVwfaByPvBeGaVBLlXqhDoGefU) könyvének 128-130. oldalán finnugor (pl. osztják `khot`, cseremisz `kudo` és más hasonló alakú, szent ház jelentésű) szavakat adatol.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című, [letöltésre elérhető](https://mega.nz/file/NzVgjYyJ#NwRtPkXGAY5s_k4gsvVwfaByPvBeGaVBLlXqhDoGefU) könyvének 128-130. oldalán finnugor (pl. osztják `khot`, cseremisz `kudo` és más hasonló alakú, szent ház jelentésű) szavakat adatol.  
 
 Ha már szent ház, tegyük hozzá, hogy a [[K/Kut\|kut]] és más címnél adatolt hurri `kuta` = szent jelentésű már önmagában is, sőt, mivel a szent házak magasak/magaslatra épültek (az ég hupolagja adja a ház jelentést a szláv és más nyelvű [[D/Dome\|dome]] címnél taglalt szavak esetében is), és a Nap is a nyári [[C/Culminate\|kulmináció]]s pontján a [[K/Kutya\|Kutyá]]ban tartózkodik, láthatjuk, hogy a szavak mind összefüggenek.  
 
