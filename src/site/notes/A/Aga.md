@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aga/","title":"Aga","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2023-10-25T05:48","updated":"2026-11-15T11:12"}
+{"dg-publish":true,"permalink":"/A/Aga/","title":"Aga","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions"],"created":"2023-10-25T05:48","updated":"2026-11-21T01:13"}
 ---
 
 
@@ -43,4 +43,4 @@ Az Ég és az Isten az ami valóban mindenek fölött magas, magasztos, fensége
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Varga Zsigmond Az ősmagyar mitológia című könyvében áll Gombocz és Peds D. kutatási anyagának kivonata, melyben szerepelnek a ragadozó madárnevekből képezett totemisztikus – persze török eredetűnek mondott – személy és nemzetség nevek: például Akod, török `ákus` = fehér madár, fehér sólyom.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvében áll Gombocz és Peds D. kutatási anyagának kivonata, melyben szerepelnek a ragadozó madárnevekből képezett totemisztikus – persze török eredetűnek mondott – személy és nemzetség nevek: például Akod, török `ákus` = fehér madár, fehér sólyom.  
