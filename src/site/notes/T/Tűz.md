@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","tags":["containscallouts"],"created":"2024-12-18T11:46","updated":"2026-09-28T01:34"}
+{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","tags":["containscallouts"],"created":"2024-12-18T11:46","updated":"2026-11-21T01:06"}
 ---
 
 
@@ -85,7 +85,7 @@ A Népi kultúra, népi társadalmon című könyv 154. oldalán vajnah (csecsen
 > A liturgia tehát neki szól, a teremtett Boldogasszonynak, a Világfa csúcsán kedvesét váró Tündér szép Ilonának. A liturgiában a fény, a víz, s az általa létesült erkölcsös világ kap hangot, s ez a hang maga égi zene.  
 
 A tűz gyújtása mágiának, varázslatnak volt tartott. Ezért egyezik a [[M/Máglya\|máglya]] szóval a [[M/Mágia\|mágia]] és szabályos P>V változással a [[V/Varázs\|varázs]] a [[P/Parázs\|parázzs]]al:  
-A Varga Zsigmond Ősmagyar mitológia című könyvének 152. oldalán taglalt vogul-osztják `naj tuch` = varázsol, bűvöl jelentésű szerkezet pedig nyilván a [[N/Nagy\|nagy]] címnél is említett osztják `nai` = tűz szóval operálva szintén tüzet csinál értelemű.  
+A Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége sumir és ural-altáji öröksége című könyvének 152. oldalán taglalt vogul-osztják `naj tuch` = varázsol, bűvöl jelentésű szerkezet pedig nyilván a [[N/Nagy\|nagy]] címnél is említett osztják `nai` = tűz szóval operálva szintén tüzet csinál értelemű.  
 A [[N/Nap\|Nap]] címnél is szerepelt egy ugor Naj = Nap szó, mely nyilván nagy szavunkból ered.  
 A Nap tüzének a földön való reprodukcióját varázslatos, szent dolognak tartották, nemcsak a jégkorszaki időkben.  
 Ezért van az, hogy a varázslás másutt is Napnévhez kötődik; lásd [[B/BOG\|BOG]] > [[B/BÜJ\|BÜJ]] > [[B/Bű\|BŰ]].  
