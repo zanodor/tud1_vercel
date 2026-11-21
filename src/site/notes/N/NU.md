@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/NU/","title":"NU","created":"2023-11-15T01:36","updated":"2026-04-10T23:10"}
+{"dg-publish":true,"permalink":"/N/NU/","title":"NU","created":"2023-11-15T01:36","updated":"2026-11-21T01:12"}
 ---
 
 
@@ -12,7 +12,7 @@
 
 [[N/NO\|NO]], azaz hímségi nő, növekszik értelme is van, melyet kifejezni látszik a latin `nuere` = megmozdulni, biccenteni ige is (lásd [[N/Nod\|nod]], [[N/Node\|node]], [[N/Nutation\|nutation]] és [[N/Numen\|numen]] szavaknál).  
 
-Varga Zsigmond Az ősmagyar mitológia című könyvének adata szerint a sumér `nu`, `na`, `nam` és `bara` tagadó szócskák. Ezek közül a nu és nam formák az egyszerű tagadást, a bara és a na pedig inkább a tiltást fejezik ki.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének adata szerint a sumér `nu`, `na`, `nam` és `bara` tagadó szócskák. Ezek közül a nu és nam formák az egyszerű tagadást, a bara és a na pedig inkább a tiltást fejezik ki.  
 Másutt nála még `nu` = nincsen, mint a `kur-nu-gi` alvilágnévben.  
 Lásd még hasonló tagadó [[M/MA\|MA]].  
 
