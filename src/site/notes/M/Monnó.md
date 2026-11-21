@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Monnó/","title":"Monnó","tags":["containscallouts"],"created":"2026-02-09T19:20","updated":"2026-03-03T18:28"}
+{"dg-publish":true,"permalink":"/M/Monnó/","title":"Monnó","tags":["containscallouts"],"created":"2026-02-09T19:20","updated":"2026-11-21T01:11"}
 ---
 
 
@@ -15,7 +15,7 @@
 > [!note] &nbsp;
 > CzF arról nem ír, hogy heréből, [[M/Mony\|mony]]ból is kettő van (kézből: [[M/Manus\|manus]]-ból is) ill. arról, hogy – azóta másképp is értelmezett – [[E/Ember\|ember]] szavunkhoz hasonlóan ez is felbontható lehet [[M/MON\|mon]] = [[M/Mony\|mony]], mint férfi nemi szerv és `no` = nő elemekre. Az egységet a férfi és női princípium együtt képviseli. Hasonló jelkép az ötágú csillag (lásd róla [[P/Pentagram\|pentagram]] és [[S/Symbol\|symbol]]), mely egy ék és egy kehely összecsúsztatva.  
 
-Varga Zsigmond Az ősmagyar mitológia című könyvében írja, hogy az ősmagyar monnó = mindkettő egyeztethető a sumér `man`, `min` = kettő szavakkal.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvében írja, hogy az ősmagyar monnó = mindkettő egyeztethető a sumér `man`, `min` = kettő szavakkal.  
 
 Ha már sumér, a Götz László Keleten kél a Nap című könyvének 178. oldalán hozott táblázatos adatokban más szavak is előjönnek, nemcsak sumér:  
 
