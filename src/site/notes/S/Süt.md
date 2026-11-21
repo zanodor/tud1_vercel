@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2026-05-29T22:43"}
+{"dg-publish":true,"permalink":"/S/Süt/","title":"Süt","created":"2024-11-05T19:17","updated":"2026-11-21T01:09"}
 ---
 
 
@@ -14,7 +14,7 @@ Több szónál előjön utódnyelveinkben, például szláv `szvet` ([[S/Szvjet\
 [[S/Shoot\|Shoot]] szónál is szerepelt:  
 Süt az [[U/Üt\|üt]] szavunkkal is fogalmi és hangtani rokonságban van, hiszen [[U/UT\|UT]] = Nap forró, tüzes nyilait süti, lövelli a Földre (ezért is hasonlították sünhöz, mely [[S/Sün\|sün]] ismét a `süt` igevariánsa lehet, ahogy [[T/Tesz\|tesz]]nek [[T/TEN\|ten]]). Hogy a süt az üt s-előtétes változata, elárulja, hogy a japán `ute` is lő jelentésű és üt szavunkkal azonos.  
 
-Egyébiránt Varga Zsigmond Az ősmagyar mitológia c. könyvének 320. oldalán álló adata szerint a sumérben is volt egy `shad`, `shud` tő, amely fényesnek lenni, fényessé tenni, felragyogni, fény, ragyogás, tisztaság jelentéssel bírt. Lásd [[K/KAT\|KAT]].  
+Egyébiránt Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége c. könyvének 320. oldalán álló adata szerint a sumérben is volt egy `shad`, `shud` tő, amely fényesnek lenni, fényessé tenni, felragyogni, fény, ragyogás, tisztaság jelentéssel bírt. Lásd [[K/KAT\|KAT]].  
 
 Egy némileg hosszabb lélegzetű, [[S/Season\|season]] szónál elővezetett Magyar Adorján féle passzus ihlette írást lásd [[B/Búza\|búza]] címnél, a Nap érlelő, sütő tevékenységéről. A [[B/Búza#Búza és krumpli közös neve – Quora válasz sok minden mással\|búza és krumpli közös neve – Quora válasz sok minden mással]] alcímnél szereplő angol nyelvű írásban közölt egyiptomi `sut` = búza is azonos süt szavunkkal, minek után [[S/Seed\|seed]] eredete is ugyanígy értendő.  
 
