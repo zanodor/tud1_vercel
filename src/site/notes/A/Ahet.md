@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2026-08-09T18:48"}
+{"dg-publish":true,"permalink":"/A/Ahet/","title":"Ahet","tags":["containstransclusions"],"created":"2024-04-28T22:30","updated":"2026-11-21T01:10"}
 ---
 
 
@@ -18,7 +18,7 @@ Másutt:
 
 Hasonló képzet a sumér, melyről...
 
-#### Varga Zsigmond Az ősmagyar mitológia...  
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...  
 
 ...című könyvében ír:  
 > A [[V/Világhegy\|Világhegy]] a monumentális emlékeken, különösen pedig a pecsétcilinderek ábrázolatain két csúcsúnak van ábrázolva. E jelenség oka a kozmosz és a körforgás egymásnak való megfelelésében bírja a magyarázatát. A világhegy fogalma mellett ismerik a sémi-babiloniak a szintén **kétcsúcsú napfelkelte és napnyugta hegyét** is. Különösen pecsétcilindereken gyakori. Az elsőnek a neve `harsag Babbara` vagy `kur Babbar` (világos hegy), a másodiké `harsag gigga`, vagy `kur gig` (fekete hegy). E nevek is a kozmosz és a körforgás lényegi azonosságában bírják alapjukat és a kettős hegycsúcs a napjárásnak az égfelületén hegy és völgy között való föl- és leszállását akarja érzékeltetni.
