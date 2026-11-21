@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kupa/","title":"Kupa","tags":["containstransclusions"],"created":"2023-11-14T06:29","updated":"2026-08-09T18:01"}
+{"dg-publish":true,"permalink":"/K/Kupa/","title":"Kupa","tags":["containstransclusions"],"created":"2023-11-14T06:29","updated":"2026-11-21T01:11"}
 ---
 
 
@@ -51,7 +51,7 @@ Annyi biztosnak látszik, hogy az ég ilyen domborulata napi és kis éves időc
 ## Ku-Pa – Ku-Tya, A-Pa – A-Tya
 
 Úgy tűnik, hogy a Ku-T(y)a ([[K/Kutya\|kutya]]) összetétel t hang helyett p/b hangokkal is kifejezhető volt ilyen vagy hasonló jelentésekkel egyes nyelvjárásokban.  
-Kellett hogy legyen a magyar és a későbbi közvetítő (röviden általában szkítának nevezhető) nyelvben a Nap legmagasabb állására vonatkozó K-T vázú (KuTa, KuTya) szava mellett K-P/K-B vázú szava is.  
+Kellett, hogy legyen a magyar és a későbbi közvetítő (leegyszerűsítve: általában szkítának nevezhető) nyelvben a Nap legmagasabb állására vonatkozó K-T vázú (KuTa, KuTya) szava mellett K-P/K-B vázú szava is.  
 - Igaz, mondjuk, a néhány helyen említett szír `khivia` = kígyó szavát elnézve, `ív` szavunk előtételezéséből is létrejöhetnek K/H-V és majdan K-B és rokon vázú szavak. Nehéz megmondani, hogy egy szír szó mikor szemita vagy korábbi nyelvű, milyen felfogás szerint illeszkedik az újabban létrejött népesség nyelvéhez. (Alapvetően minden nyelvcsalád besorolás teoretikus és mondhatnánk, hogy kismagyar nyelvek vannak.)
 
 Tehát ahogy a kutya másik, `eb` nevéhez kapcsolhatjuk `ív` szavunkat, úgy találjuk meg `kupa` szavunkat ilyes jelentésekkel több rokon vázú szóban, pl. [[G/Gömb\|gömb]] (megszámlálhatatlanul ívből áll) szóban, illetve az [[I/Ív#Ívet, hajlást, görbedést kifejező egyéb szavak más nyelvekben\|ívet, hajlást, görbedést kifejező egyéb szavak más nyelvekben]] cím/alcímnél szereplő idegen szavakban.  
