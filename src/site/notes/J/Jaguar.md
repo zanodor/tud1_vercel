@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jaguar/","title":"Jaguar","tags":["Englishtexttranslated"],"created":"2023-11-05T10:32","updated":"2026-08-09T17:58"}
+{"dg-publish":true,"permalink":"/J/Jaguar/","title":"Jaguar","tags":["Englishtexttranslated"],"created":"2023-11-05T10:32","updated":"2026-11-21T01:10"}
 ---
 
 
@@ -61,7 +61,7 @@ Igen könnyen elképzelhető, hogy [[N/Nimrud\|Nimrud]] kutyáit agárnak is hí
 Ezek alapján az [[A/Agent\|agent]], [[A/Act\|act]] és más címnél előjövő görög `ἄγειν` (`ágein`) = vinni; vezetni, hajtani és latin `agere` = hajtani igék eredete egy lehet a német `jäger` = vadász szóval is. A német szó tehát j-előtétesen nem Nimrudra, a Vadászra utalna, hanem a kutyáira. (ÉgÚr viszont Orion és Orion és kutyái, főleg a Szíriusz csillag, összetartoznak.)  
 Az is elképzelhető ezután, hogy a tupi indiánoktól ismert jaguar szóban is az [[A/Agár\|agár]] szó szerepel. Nem véletlen, hogy nagy tisztelet övezte a jaguárt Közép- és Dél-Amerikában. (Lásd még a közben a lábjegyzetes deszana infót is.)  
 
-Érdekes viszont azt is megemlíteni, hogy Varga Zsigmond Az ősmagyar mitológia című könyvének adata szerint a török `ag`, `av` = háló, de vadászni értelmű is (azért, mert valamikor így fogták a vadat; a szumirban az ellenség elfogatása az istenség, vagy a király hálójának reá való kivetése; ősi vadászati mód). Lehet tehát ag jejesen jag.
+Érdekes viszont azt is megemlíteni, hogy Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének adata szerint a török `ag`, `av` = háló, de vadászni értelmű is (azért, mert valamikor így fogták a vadat; a szumirban az ellenség elfogatása az istenség, vagy a király hálójának reá való kivetése; ősi vadászati mód). Lehet tehát ag jejesen jag.
 
 Viszont vélhetően inkább a [[V/Vad\|vad]] = Csudaszarvas (minek neve Magyar Adorján szerint még ág, [[A/Ágas\|ágas]] is volt) elejtése nyomán alakult ki a szó.  
 
