@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Man/","title":"Man","tags":["containstransclusions","containscallouts"],"created":"2026-02-09T19:05","updated":"2026-08-10T17:47"}
+{"dg-publish":true,"permalink":"/M/Man/","title":"Man","tags":["containstransclusions","containscallouts"],"created":"2026-02-09T19:05","updated":"2026-11-21T01:08"}
 ---
 
 
@@ -80,7 +80,7 @@ Vajon angolszász szempontból a magyarok "legközelebbi rokonai," a manysik (é
 
 A manysikkal rokon vogul-osztjákok nyelvében...
 
-#### Varga Zsigmond Az ősmagyar mitológia...
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...
 
 ...című könyvének 345. oldalán lévő adata szerint `man` = szintén ember (~~nyilván itt nem angol szót dobott be, ahogy máskor németet valamilyen fogalom azonosítására~~), mely csak hun-magyar eredetére utalhat ([[M/MISZ\|MISZ]] címnél is szereplő `mis` = tündér, erdei jelentésű szó miatt):  
 > De talán itt is \[tündér szavunk értelmében\] eligazít az obiugor tündérnép, a Mis-man. Ha következtetésünk helyes, közös ugor képzetről van szó. Előre kell azonban bocsátanunk, hogy az obiugor mis-nép nem felel meg pontosan annak, amit a magyar néphagyomány ért a tündér képzet alatt.  
