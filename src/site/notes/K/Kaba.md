@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kaba/","title":"Kaba","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-09-21T00:09","updated":"2026-08-09T14:04"}
+{"dg-publish":true,"permalink":"/K/Kaba/","title":"Kaba","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-09-21T00:09","updated":"2026-11-21T01:09"}
 ---
 
 
@@ -82,4 +82,4 @@ Lényegében a cube szón keresztül érthető meg eredete: kő > kova > kaba, d
 > A szó eredete nem sémi, hanem turáni: magyar `kő` (köv) = kő > kova/kava > kaba; vö. még [[K/Kocka\|kocka]], arab `Qaf` és indo-szkíta `Koh`/`Kuh` = hegy, szintén a magyar [[K/Kő\|kő]] szóból.
 { #0tcf94}
 
-- A Qaf-hegyről lásd [ezen](https://en.wikipedia.org/wiki/Mount_Qaf) Wikipédia oldalon.
+- A Qaf-hegyről lásd [Wikipedia](https://en.wikipedia.org/wiki/Mount_Qaf) oldalán.
