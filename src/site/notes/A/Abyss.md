@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Abyss/","title":"Abyss","tags":["Englishtexttranslated"],"created":"2023-10-26T05:33","updated":"2026-02-24T01:08"}
+{"dg-publish":true,"permalink":"/A/Abyss/","title":"Abyss","tags":["Englishtexttranslated"],"created":"2023-10-26T05:33","updated":"2026-11-21T01:11"}
 ---
 
 
@@ -17,7 +17,7 @@
 Annál is inkább az égről van szó, mert [[T/Tiamat\|Tiamat]] története az égen játszódik.  
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (első kötetének) 352. oldalán Damaszkiosz szír filozófustól származó neveket említ: az Robert Brown Jr. által Tiamattal azonosított Tauthé mellett érdekes Apszú másneve **Apasôn** is. Ezen Apasôn alakról megfontolandó, hogy akár eredetibb alak is lehet. (De nem valószínű.)  
 
-Varga Zsigmond Az ősmagyar mitológia című könyvében megfordítva, Zu-Ab-ként is előjön, például a 259. oldalon mint az eget és földet körülölelő őstenger neve a kozmogonikus mítoszokhoz megkívánható ősvíz képzetében.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvében megfordítva, Zu-Ab-ként is előjön, például a 259. oldalon mint az eget és földet körülölelő őstenger neve a kozmogonikus mítoszokhoz megkívánható ősvíz képzetében.  
 A könyv 362. oldalán más nyelvek rokon szavait is felsorolja:  
 > Csak jóval később, a babiloni letelepedés után lett Ea, la általános vízisten és a kozmosz harmadik részének ura. A beköltözés utáni tudós papi spekuláció keresztülvitte, hogy az ég és föld mellett a Zu-Ab (ab-zu, asszir-babiloni `apsu`, ószövetségi `áfszé hááree`, görög `abyssos`) is önálló kozmikus rész legyen.  
 
