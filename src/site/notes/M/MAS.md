@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2026-08-09T17:58"}
+{"dg-publish":true,"permalink":"/M/MAS/","title":"MAS","created":"2025-05-23T22:54","updated":"2026-11-21T01:10"}
 ---
 
 
@@ -80,7 +80,7 @@ Lásd még [[M/Más\|más]]. Lásd még szintén sumér-babiloni zodiákus-jegy 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Varga Zsigmond Az ősmagyar mitológia című könyvében más téma kapcsán említi a **sumér varázspap `másmás`** nevét: megoldása szerint a `más` = megtisztít reduplikációja.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvében más téma kapcsán említi a **sumér varázspap `másmás`** nevét: megoldása szerint a `más` = megtisztít reduplikációja.  
 
 [^2]: Lábjegyzet:  
 Egy korai termékenység isten, akit imádtak, különböző jelzőkkel látták el mindenhol, mint például "oroszlánfejű sas." Cf H. Frankfort: Early Dynastic Sculptured Mace-heads. A. Orientalia 1935, p. 105.  
