@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BAD/","title":"BAD","created":"2024-10-29T16:18","updated":"2026-07-23T11:45"}
+{"dg-publish":true,"permalink":"/B/BAD/","title":"BAD","created":"2024-10-29T16:18","updated":"2026-11-21T01:11"}
 ---
 
 
@@ -55,7 +55,7 @@ Furcsamód viszont (hasonlóan a [[H/Hideg és meleg\|hideg és meleg]] témáho
 Azaz amit még korábban furcsának gondoltunk, tulajdonképpen természetes is: az [[E/Életkör\|életkör]] rendszerben viszonyítás kérdése, hogy mi milyen előjelű. 
 Eszünkbe jut itt a [[P/Pejorative\|pejorative]] címnél taglalt téma, és akár a hangalaki azonos [[B/Buta\|buta]], [[B/Buddha\|Buddha]] ellenében.  
 
-Egyébiránt Varga Zsigmond Az ősmagyar mitológia című könyvének 225. oldalán a sumér `bad` szónak az alábbi jelentéseit adja meg: 1) magas, magasnak lenni, 2) fel (urus), 3) ég (coelum).  
+Egyébiránt Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének 225. oldalán a sumér `bad` szónak az alábbi jelentéseit adja meg: 1) magas, magasnak lenni, 2) fel (urus), 3) ég (coelum).  
 
 ## Lábjegyzetek
 
