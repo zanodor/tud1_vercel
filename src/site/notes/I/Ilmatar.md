@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Ilmatar/","title":"Ilmatar","created":"2023-10-10T03:40","updated":"2025-08-27T02:47"}
+{"dg-publish":true,"permalink":"/I/Ilmatar/","title":"Ilmatar","created":"2023-10-10T03:40","updated":"2026-11-21T01:12"}
 ---
 
 
@@ -27,7 +27,7 @@ Egyéb -tar (és -ter) végződésű finnségi (de lány, szűz jelentésű) nev
 
 Ami a beígért történetet illeti...
 
-#### Varga Zsigmond Az ősmagyar mitológia...
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...
 
 ...című könyvében írja (látjuk, miért, miképp lett tengeristennőnek beállítva Ilmatar: már nem értették a valódi énségét):  
 > [[V/Väinämöinen\|Vajnamöjnen]] anyja Ilmatar a nyílt tengeren úszkál. Egyszer csak megjelenik egy kacsa s hét tojást rak Ilmatar térdére. Ilmatar a szokatlan érzésre megrándítja térdét, a tojások a vízbe esnek és töredékeiből alakulnak a föld, az ég, a nap és hold, és fellegek. "Tört tojásnak alsó fele, Válik alsó földfenékké. Tört tojásnak felső fele, a felettük való éggé, sárgájának felső fele, fényes nappá fenn az égen, Fehérjének felső fele, a halovány holddá lészen, Tojásból mint tarka rész volt, égen csillag lesz belőle, tojásból mi fekete volt, lesz belőle ég felhője." Ennél világosabb kommentár nem szükséges.  
