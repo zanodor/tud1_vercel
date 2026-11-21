@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2026-05-21T05:02"}
+{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2026-11-21T01:09"}
 ---
 
 
@@ -40,7 +40,7 @@ De a szanszkrit nyelvben összefüggés látszik a ló és a kutya nevei közt. 
 [[C/Crucifixion\|Crucifixion]] címnél is szerepelt:  
 A felfeszítés tehát a [[V/Világfa\|világfá]]n történik, azaz olyan pillanatban, amikor a Tejút bizonyos elágazásaihoz, kapuihoz érkezik a Nap (látszólagosan). Egyrészt tehát szó van kozmológiai téridő-stációkról, melyek korszakváltozásokkal járnak, másrészt szó van a táltos tölgyfájánál végzett szertartásáról, valamint a (lovas) temetkezési szokásokról: az egyszerű halandók a Napot követve akasztatnak fára ([[E/Életfa\|életfá]]ra = Tejút; lásd még folyók mellé temetkezés szokását is), például ahogy...
 
-#### Varga Zsigmond Az ősmagyar mitológia...  
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...  
 
 ...című könyvében is írja:  
 > Az altáji népek, míg halászó és vadászó életmódot folytattak, halottaikat erdőkbe, ligetekbe, elhagyott helyekre, ún. priccsekre, vagyis 3 vagy 4 lábú emelvényekre \[ezért [[D/Dolmen\|dolmen]] címnél is szerepelt ez\] tették ki, amely temetési mód még ma is dívik a halászó-vadászó életmódot folytató északszibériai törzseknél.  
