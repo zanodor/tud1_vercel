@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/AK/","title":"AK","created":"2025-03-09T14:31","updated":"2026-11-15T11:10"}
+{"dg-publish":true,"permalink":"/A/AK/","title":"AK","created":"2025-03-09T14:31","updated":"2026-11-21T01:13"}
 ---
 
 
@@ -18,7 +18,7 @@ Hasonlóan sok más, [[F/Fény és anyag\|fény és anyag]] címnél felsorolt e
 Mihez tehető, hogy szintén [[E/Ég\|ég]] szavunkkal azonosítottuk a [[H/Heka\|Heka]] címnél is említett arab `ḥaqq` = igazság szót.
 
 Bíró Lajos említi a török Ákos nemzetségnevet.  
-Varga Zsigmond Az ősmagyar mitológia című könyvében áll Gombocz és Peds D. kutatási anyagának kivonata, melyben szerepelnek a ragadozó madárnevekből képezett totemisztikus – persze török eredetűnek mondott – személy és nemzetség nevek: például Akod, török `ákus` = fehér madár, fehér sólyom.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvében áll Gombocz és Peds D. kutatási anyagának kivonata, melyben szerepelnek a ragadozó madárnevekből képezett totemisztikus – persze török eredetűnek mondott – személy és nemzetség nevek: például Akod, török `ákus` = fehér madár, fehér sólyom.  
 
 A török `ak` = fehér jelentésére vonatkozóan...
 
