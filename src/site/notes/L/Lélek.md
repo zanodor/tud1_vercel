@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2026-10-28T23:44"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2026-11-21T01:04"}
 ---
 
 
@@ -49,7 +49,7 @@ Még mielőtt nyomába erednénk a magyar lélekfogalomnak, villantsuk fel egy p
 ...című könyvében Körmöc nevű démont és mást is említ a téma kapcsán:  
 > Ugyancsak a sárospataki monstreperben tesznek említést a vádlottak védelmében felszólaló tanúk a "körmöc" nevű démonról az ártékony szellemek sorából (421). Radloff kök-türkök szóelemzésben említi meg ezzel a körmöc szóval kapcsolatban, hogy az altáji népek hiedelemvilágában a szellemet két kategóriába osztották: a töc (másként möc) és Nama nevű szellemekre. Az utóbbinak, vagyis a Nama csoportnak is két változata van, a jó és rosszindulatú, testtől levált lelkek csoportja és a gonoszakat a körmöc gyűjtőnévvel illetik.  
 
-#### Varga Zsigmond Az ősmagyar mitológia...
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...
 
 ...című könyvének (nem a PDF) 100-101. oldalán hozott idetehető adatai:  
 > A finn-ugorok a leheletet valami páraszerű, szélféle anyagnak képzelték el. Gőznek, meleg levegőnek, mely tovaszáll, elillan.  
@@ -130,7 +130,7 @@ Pintye Mihály A kölcsönadott magyar mitológia című Ősi Gyökér 2004/3. s
 ...című könyvéből:  
 > Az apró termet naphéroszi sajátság a mesékben, ugyanakkor magzati létre, meg nem születettségre, vagyis "lelkiállapotra" utaló jel, s elterjedt képzet szerint a lélek halála után és újjászületése előtt csillagban lakozik. A néphit szerint a haladó lélek vándorlása akkor ér véget, amikor az ember életcsillaga lefut az égről. A Nap esetében ez remény szerint nem következik be, az ő csillaglelkének az idők végtelenjéig kell világítania az éjben.  
 
-Varga Zsigmond Az ősmagyar mitológia című könyvének (nem a PDF) 97. oldalán szól az animizmusról és a lélekről, árnyéklélekről. Nagyon jó, rövid összefoglalást ad.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének (nem a PDF) 97. oldalán szól az animizmusról és a lélekről, árnyéklélekről. Nagyon jó, rövid összefoglalást ad.  
 A könyv 101. oldalán szereplő adatai árnyéklélek kapcsán szerepeltek [[F/Fene\|fene]], [[I/Íz\|íz]] és legutóbb a török `son` (szon) = vég, halál szó kapcsán [[S/SZON\|SZON]] címnél: például az altáji török tatár nyelvjárásokban `san`, `son` = árnyéklélek.  
 
 Arról van tehát szó, hogy az ősfelfogás szerint a megszemélyesített fene, franc, íz mint rossz szellem hatalmába keríti a(z árnyék)lelket és okozza, például rányomódás (lásd a [[B/Boszorkány\|boszorkány]] és lidércnyomás szavakban a [[B/Basz\|basz]], [[N/Nyom\|nyom]] igéket) által a betegséget illetve – ahogy Tom Montalk Fringe Knowledge-jában is szó volt erről – a negatív energiákon így élősködnek ezek a láthatatlan entitások.  
@@ -355,7 +355,7 @@ Valójában itt a gondot az oldaná meg, ha az elemekkel is foglalkoznánk: [[F/
 Tehát ha elemek szintjén gondolkodunk, akkor juthatunk dűlőre a fogalmak jelentése terén. Elsőként, az alkimisták szerint a tűz és a víz ([[H/Hamu\|hamu]] értelmezése kapcsán Gyárfás Ágnesnél víz is előjött) elegye a föld, ez esetben a test, mely a porhüvely. A fény háza a test. A halállal az isa-lélek visszakerül Istenhez (a Tejútra), a test idővel eporlad, de még mielőtt ez megtörténne, kihűl. Erre utalhatna hamu, melyet nem halottégetéssel kell ugye magyarázni.  
 A lélek/szellem különbség/azonosság kérdését nyilván sokan (köztük egyházi atyák és teológusok) vizsgálták, és amit ezen a ponton mondani merészelhetek az az, hogy az isteni szellem, az [[I/Íz\|íz]]/[[I/Isa\|isa]] árnyéklélek/szabadlélek az, ami [[S/Szél\|szél]] szavunkból a germán nyelvekben megjelent.  
 Csak egy kis párhuzamot adjunk itt, hogy értsük a problémát:  
-A "magyar"\[?\] isa-nak viszont nemcsak a [[S/Szél\|szél]], hanem a [[G/Guta\|guta]] (és közben [[G/God\|God]]) címnél is említett hun-türk [[K/Kut\|kut]] = lélek; életerő is megfelel. A Varga Zsigmond Az ősmagyar mitológia című könyvének 349. oldala alján hozott, isteni rangra emelkedett **kudai szellemek** kapcsán elmondható: az altáji tatárok kudai szava, perzsa jövevényszó vagy sem, úgy tűnik, ha inkább isteni szellemmel vagy emberi lélekkel kapcsolatos, és a kún-hun [[G/Guta\|guta]] = lélek \[de milyen lélek? nyilván a szintén altáji/hun-türk [[K/Kut\|kut]]\] szóval lehetne hasonlítható. Annál a címnél még az is áll, hogy a tatár `kudai` sem csak isten, hanem szellem, lélek jelentésű lehetett, ahogy a [[K/KAN\|KAN]] címnél említett japáni `kami` is ilyen többszörös jelentésű és végtére is az isten jelentés onnan eredhet, hogy *isteni* attribútomokról van szó.  
+A "magyar"\[?\] isa-nak viszont nemcsak a [[S/Szél\|szél]], hanem a [[G/Guta\|guta]] (és közben [[G/God\|God]]) címnél is említett hun-türk [[K/Kut\|kut]] = lélek; életerő is megfelel. A Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének 349. oldala alján hozott, isteni rangra emelkedett **kudai szellemek** kapcsán elmondható: az altáji tatárok kudai szava, perzsa jövevényszó vagy sem, úgy tűnik, ha inkább isteni szellemmel vagy emberi lélekkel kapcsolatos, és a kún-hun [[G/Guta\|guta]] = lélek \[de milyen lélek? nyilván a szintén altáji/hun-türk [[K/Kut\|kut]]\] szóval lehetne hasonlítható. Annál a címnél még az is áll, hogy a tatár `kudai` sem csak isten, hanem szellem, lélek jelentésű lehetett, ahogy a [[K/KAN\|KAN]] címnél említett japáni `kami` is ilyen többszörös jelentésű és végtére is az isten jelentés onnan eredhet, hogy *isteni* attribútomokról van szó.  
 Isteni szellemmel vagy emberi lélekkel kapcsolatos az a fogalom. Valójában egy és ugyanaz a kettő! Az isteni, anyagtalan tüzet, az isteni szikrát, a testünk árnyékmásának tekinthető, ma ezoterikus körökben asztráltestnek, de akár csillagpornak is nevezhető, a kereszténységben nyilván eredetileg a szentléleknek nevezett lelket, a testünkben az életet fenntartó erőt/lelket kell érteni alatta. Több különböző fogalommal ír körül mindenki mindent.  
 Annak vizsgálata is fontos, hogy a lélek székhelyét a hová (solar plexusba, koponyába/fejbe) helyezték, viszont az asztráltest egy teljes testnyi, sőt, az auralátók beszámolói szerint a test körvonalain is túlnyúló méretét tekintve. A szellemnek nevezett lélek viszont valóban lehet a fejben, ahogy a népművészeti ábrázolásaink is erről tanúskodnak.  
 De más idegen nyelv segítségét is hívhatjuk: a latin `spirare` = lélegzeni szóra visszavezetett [[S/Spirit\|spirit]]us ezek szerint az a szellem, ami a lélegzet/lehelet-léleknek felelne meg (Magyar Adorján írása fentebb is megvolt):  
@@ -511,7 +511,7 @@ Ami a lélekjárást illeti itt is az előző világhónapbani Rák-Bak jön el�
 
 > A madár figuráknak itt más szerepe nem lehet, mint segíteni a sámánnak, hogy a gonosz démont a betegből kiűzze. A szumir hit is az volt a betegségről, hogy a beteg lelke valamiképpen gonosz démonok hatalmába kerül, s ezek igyekeznek őt az alvilágba magukkal vinni. Például Enkidu, Gilgames barátja és kísérő társa, megálmodja korai halálát és látja, amint lelkét halálmadár alakjában viszik le az alvilágba a gonosz szellemek. A varázsszövegek nem szólanak arról, hogy a sámánok kísérnék alá a hazajáró lelket az alvilágba, de tekintettel arra, hogy viszont mivel sámáni feladat volt gondoskodni, hogy alvilági szellemek ne zavarhassák meg az élők nyugalmát, jogunk van következtetni, hogy a primitívség kezdő fokozatán a szumiroknál is ez volt a helyzet. Ennek már csak utolsó hullámverése, amikor felvilági istenek, vagy hősök szállnak alá az alvilágba.
 
-[[M/Madár\|Madár]] címnél már volt szó a témáról illetve madárlélek kapcsán [[E/Ember\|ember]] címnél is. A mellékelt képen is erről van szó (Varga Zsigmond Az ősmagyar mitológia című könyvéből való lehet).  
+[[M/Madár\|Madár]] címnél már volt szó a témáról illetve madárlélek kapcsán [[E/Ember\|ember]] címnél is. A mellékelt képen is erről van szó (Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvéből való lehet).  
 
 #### Varsa Mátyás A legrégibb magyar mítosz...  
 
@@ -587,7 +587,7 @@ Csakhogy: ami ma babona, illetve babonává süllyedett, az régen, őseink egyk
 
 [^3]: Lábjegyzet:  
 Kifejtve latin szöveggel is lásd Ipolyi Arnold Magyar mythologia című könyvének 621. oldalának tetején.  
-Varga Zsigmond Az ősmagyar mitológia című könyvében így áll:  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvében így áll:  
 A magyar Lél-monda is így hangzik: "te előttem mégy és szolgám leszel a másvilágon."  
 —  
 Kállay Ferenc A pogány magyarok vallása című könyvének [134. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=134&annotation=7MWTZ377) krónikás adattal szolgál:  
