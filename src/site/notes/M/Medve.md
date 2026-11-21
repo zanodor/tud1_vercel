@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2026-06-13T23:57"}
+{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2026-11-21T01:09"}
 ---
 
 
@@ -53,7 +53,7 @@ A leplet [[M/MISZ\|MISZ]] címnél (az ott szereplő diagramok alapján is) rán
 
 A medve-kultuszról, arról, hogy egyes népek totemőse a medve...
 
-#### Varga Zsigmond Az ősmagyar mitológia...
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...
 
 ...című könyvének 207-208. oldalán ír. Némi medve adatot (a magyar szó hivatalos etimológiájával is) lásd még a 209. oldalon is, de még a 210. oldalon is szól róla.  
 Majd a 212. oldalon:  
