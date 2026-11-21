@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Köszön/","title":"Köszön","created":"2023-10-17T08:48","updated":"2026-07-18T22:53"}
+{"dg-publish":true,"permalink":"/K/Köszön/","title":"Köszön","created":"2023-10-17T08:48","updated":"2026-11-21T01:11"}
 ---
 
 
@@ -20,7 +20,7 @@ A csuk a csukló ([[A/Angle\|angle]] és [[A/Angel\|angel]] valamint [[K/Kapu\|k
 A köszön szavunkból kell eredjen az angol [[K/Kiss\|kiss]], német `kuss`, óizlandi `koss` = csók; a német változata (K>CS) lehet a köszönés `tschüss` = szia, viszlát szava is.  
 
 Magyar Adorján mondata [[K/Kiss\|kiss]] címnél is szerepelt:  
-> A magyar csók szónak a német `Kuss` (kussz) csak megfordított alakja de jelentése ugyanaz.  
+> A magyar `csók` szónak a német `Kuss` (kussz) csak megfordított alakja de jelentése ugyanaz.  
 
 A német `tschüss` = szia, viszlát szó egyaránt csókol és köszön értelmű lehet; az utóbbiból kiindulva – és ugye a magyar csókolom is köszönési forma.  
 A csókolom eredetileg talán nem a nők kezére irányuló szó lehetett, hanem férfiak és nők arcára. A köszön lényegében így lett a csókollal összekötve (a germánban is). Egyes helyeken, Oroszországban, Olaszországban és persze Magyarországon is máig divat férfiak közt is a két orcát csókkal illetni.  
