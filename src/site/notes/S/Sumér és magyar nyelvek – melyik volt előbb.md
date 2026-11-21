@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2026-04-24T09:29"}
+{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2026-11-21T01:07"}
 ---
 
 
@@ -149,7 +149,7 @@ Ugyanígy az [[U/Us#US 2)\|us]] címnél taglalt (Kovács által összefilozofá
 ### 12.
 
 Amikor az alábbiakat [[N/Nap\|Nap]] címnél megláttam, arra gondoltam, talán ide vehető ez is.  
-Varga Zsigmond Az ősmagyar mitológia című könyvének 319. oldalán hozza a sumér `nab` = égitest, atmoszféra, isten szót:  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének 319. oldalán hozza a sumér `nab` = égitest, atmoszféra, isten szót:  
 > Deimel (SL. 168 1.) közli a nab kiejtési értékét is, nap alakban. Semmi kétség, hogy ez az alapja a magyar nap szónak.
 
 Varga Zsigmond persze nem tudhatta, hogy épp fordítva van. Épp az, hogy égitest, a Nap isten lehet, a későbbi napvallásra utaló összefüggés lehet. A magyar nyelv pedig a [[C/Csillagvallás\|Csillagvallás]] idejéből való.  
