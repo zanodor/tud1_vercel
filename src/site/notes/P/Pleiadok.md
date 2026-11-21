@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2026-09-28T01:34"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2026-11-21T01:06"}
 ---
 
 
@@ -167,7 +167,7 @@ Dacára annak, hogy a Fiastyúk másik neve, Hetevény kimondja, hogy [[H/Hét\|
 > A görögöknél Maia a pleiászok egyik csillaga volt, Zeusz szeretője, és a főistennel együtt töltött éjszakák eredményeként Hermész (latin Mercurius) anyja. Ez a planétaistenfi az asztrológia májusi Ikrek jegyében van "otthon". (Általánosságban elmondható, hogy a 7 pleiászt, a Pleiades 7 csillagát a görögök – de mások is – kapcsolatba hozták a [[H/Hét bolygó\|hét bolygó]]val. Ennek nemcsak az volt az oka, hogy a csillagzat szabad szemmel látható csillagainak a száma megegyezett a szabad szemmel látható planétákéval, hanem a helye is: a Nap, a Hold és a bolygók rendszeresen áthaladnak rajta.)  
 - Lásd még említve [[H/Háló#Háló csillagzat\|Háló csillagzat]].
 
-A John M. Jenkins és René Guénon által több helyen is említett Nagy Medve – Pleiadok kapcsolatát látjuk a Varga Zsigmond Az ősmagyar mitológia című könyvében szereplő burját mondában, miszerint:  
+A John M. Jenkins és René Guénon által több helyen is említett Nagy Medve – Pleiadok kapcsolatát látjuk a Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvében szereplő burját mondában, miszerint:  
 > A Nagy Medve csillagai ellopták u.i. a Plejádoktól az Alcort, a legkisebb csillagot, így lett az eredetileg hét csillagot számláló plejádok száma hat \[csillagot számláló\] csillagkép. A Plejádok üldözik őket, de sohasem tudják beérni.  
 
 #### Michel-Gerald Boutet Druidical Astrology...
