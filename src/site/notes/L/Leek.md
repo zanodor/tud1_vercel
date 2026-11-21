@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Leek/","title":"Leek","created":"2023-10-15T03:55","updated":"2024-10-25T22:33"}
+{"dg-publish":true,"permalink":"/L/Leek/","title":"Leek","created":"2023-10-15T03:55","updated":"2026-11-21T01:13"}
 ---
 
 
@@ -24,4 +24,4 @@ Szinte azonos vele a [[L/Like\|like]] szó.
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Varga Zsigmond Az ősmagyar mitológia című könyvének (nem a PDF) 100. oldalán előjön egy német (szótáramban nem szereplő, így talán ónémet?) `leele` = szél, lélek főnév is, mely egy az egyben megegyezik a sumér szóval.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének (nem a PDF) 100. oldalán előjön egy német (szótáramban nem szereplő, így talán ónémet?) `leele` = szél, lélek főnév is, mely egy az egyben megegyezik a sumér szóval.  
