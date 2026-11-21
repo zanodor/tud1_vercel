@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2026-09-28T01:33"}
+{"dg-publish":true,"permalink":"/F/Fa/","title":"Fa","tags":["Englishtexttranslated"],"created":"2024-12-18T08:00","updated":"2026-11-21T01:05"}
 ---
 
 
@@ -32,7 +32,7 @@ A Zakar András Sumerian-Ural-Altaic Affinities féle PDF-ben helyet kapó Deime
 > `appu` vagy `appa` (akkád) (295/11) a fa koronája és gyökere;
 > `pa`/-`a` (295/13) 'növényi részek'.  
 
-`A-Pa` előjön Varga Zsigmond Az ősmagyar mitológia című könyvének 297. oldalán, a lagasi Gudea templomtornyának neveként.  
+`A-Pa` előjön Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének 297. oldalán, a lagasi Gudea templomtornyának neveként.  
 
 Fa szavunknál írja CzF:  
 > Rokonok vele takele nyelven Áfrikában: `fa`, továbbá a parszi és pehlvi `van`, zend `vana`, szanszkrit `vana` (erdő), persa `bun`, sínai `mu` (arbor; lignum), finn `pun`, német `Baum`, goth `bagm`, angol `beam`. A perzsa `bam`, s héber `bamah` pedig magast jelentenek, épen úgy mint az egyszerű magyar fe, mely alapfogalomban a növények legmagasabb nemét jelentő fa-val egy értelmű.
