@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar népnév és magyarok nevei/","title":"Magyar népnév és a magyarok nevei","tags":["containstransclusions"],"created":"2025-09-29T02:33","updated":"2026-07-18T22:50"}
+{"dg-publish":true,"permalink":"/M/Magyar népnév és magyarok nevei/","title":"Magyar népnév és a magyarok nevei","tags":["containstransclusions"],"created":"2025-09-29T02:33","updated":"2026-11-21T01:06"}
 ---
 
 
@@ -45,7 +45,12 @@
 
 
 
-A magyar és magyar-rokon (beleértve itt a hun és hun-rokon) népnevekről itt csak annyit, hogy az utódnépek és így a Föld bolygó lakossága is visszavezethető rájuk. A népnevek tengerében viszont igen nehéz kiigazodni. Már Horvát István is felhívta arra a figyelmet, hogy "sokkal több népnév létezik, mint ahány nép, ám ugyanaz a nép sokszor más-más nevezet alatt válik ismertté," lakóhelye vagy életformabeli sajátossága szerint.  
+A magyar és magyar-rokon (beleértve itt a hun és hun-rokon) népnevekről itt csak annyit, hogy az utódnépek és így a Föld bolygó lakossága is visszavezethető rájuk. A népnevek tengerében viszont igen nehéz kiigazodni.  
+
+Már Horvát István is felhívta arra a figyelmet, hogy "sokkal több népnév létezik, mint ahány nép, ám ugyanaz a nép sokszor más-más nevezet alatt válik ismertté," lakóhelye vagy életformabeli sajátossága szerint.
+{ #p21hma}
+
+
 Tulajdonképpen ahogy Isten neve (sok esetben vele szinonimként használt) állandó jelzőin keresztül terjedt el (leginkább az [[E/EL\|El]]/Él és [[J/Jó\|Jó]] neveken), ugyanúgy a népek egyes nevei valamiféle jellemző vagy jelző név alatt terjedt el. Ilyenformán nem hinném, hogy a [[S/Szkíta\|szkíta]] más lenne mint a magyar hun testvére: a szkíta nagy valószínűséggel [[C/Csuda\|csuda]] vagy még inkább valószínűbben [[K/Kutya\|kutya]][^6], illetve úgy tűnik, ezen szkíta névalakból alkotta ki az árja nyelv a nyíl és a nyilas értelmű szavait is (de az asszírban is megvan).  
 
 ## A magyar népnév eredeti alakja magyar
