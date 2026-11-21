@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lily/","title":"Lily","created":"2023-10-15T03:54","updated":"2026-03-09T22:10"}
+{"dg-publish":true,"permalink":"/L/Lily/","title":"Lily","created":"2023-10-15T03:54","updated":"2026-11-21T01:12"}
 ---
 
 
@@ -41,4 +41,4 @@ Ha már szűz, Tomory Zsuzsa Ősi magyar imádságaink című az Ősi Gyökér 2
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Varga Zsigmond Az ősmagyar mitológia című könyvének (nem a PDF) 100. oldalán előjön egy német (szótáramban nem szereplő, így talán ónémet?) `leele` = szél, lélek főnév is, mely egy az egyben megegyezik a sumér szóval.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének (nem a PDF) 100. oldalán előjön egy német (szótáramban nem szereplő, így talán ónémet?) `leele` = szél, lélek főnév is, mely egy az egyben megegyezik a sumér szóval.  
