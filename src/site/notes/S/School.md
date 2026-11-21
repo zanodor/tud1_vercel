@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/School/","title":"School","created":"2023-11-07T05:11","updated":"2026-06-13T23:57"}
+{"dg-publish":true,"permalink":"/S/School/","title":"School","created":"2023-11-07T05:11","updated":"2026-11-21T01:10"}
 ---
 
 
@@ -52,7 +52,7 @@ Lásd még [[D/Daru\|daru]], ahol inkább az életfa-létra fokairól lesz szó.
 
 A finn `koulu` = iskola szót természetesen a germán (svéd) nyelvből eredeztetik. Alapjában véve az s-elővetés a Magyar Adorján által árja nyelveknek hívott nyelvek tulajdonsága, de túl sok szól az ellen, hogy sz-előhang nélküli megfejtése legyen a szónak.  
 Mindenesetre jegyezzük meg a [[H/Hall#Hall 2)\|hall]] címnél hozott udmurt/votják `kuala` = templomszerű pogány szent ház (amely előtt az istenek tiszteletére szánt állatokat áldozták föl) szót.  
-Varga Zsigmond Az ősmagyar mitológia című könyvének 128-130. oldalán kultuszházról és templomnak megfelelő házról van szó, így a finnségi/ugor eredetet nem lehet teljesen kizárni.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének 128-130. oldalán kultuszházról és templomnak megfelelő házról van szó, így a finnségi/ugor eredetet nem lehet teljesen kizárni.  
 - Szent házról lásd még [[K/Kota#Szent ház\|kota]] címnél.
 
 A török `okul` szóról már esett szó fentebb.  
