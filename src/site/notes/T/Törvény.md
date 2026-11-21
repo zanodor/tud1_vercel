@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Törvény/","title":"Törvény","created":"2025-06-03T12:25","updated":"2025-06-07T18:59"}
+{"dg-publish":true,"permalink":"/T/Törvény/","title":"Törvény","created":"2025-06-03T12:25","updated":"2026-11-21T01:10"}
 ---
 
 
@@ -68,4 +68,4 @@ Egy megjegyzés kívánkozik ide még: a nyilván arab eredetű perzsa `dat`, `d
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Varga Zsigmond Az ősmagyar mitológia című könyvének 140. oldalán hozza a sumér `tar` = elrendel, török/mongol `türü` és mandzsu `doro` rokon szavakat. Fáy Elek A magyarok őshona c. könyvének 242. oldalán tallóz más nyelvekből.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének 140. oldalán hozza a sumér `tar` = elrendel, török/mongol `türü` és mandzsu `doro` rokon szavakat. Fáy Elek A magyarok őshona c. könyvének 242. oldalán tallóz más nyelvekből.  
