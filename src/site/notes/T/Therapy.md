@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Therapy/","title":"Therapy","tags":["Englishtexttranslated","kutya"],"created":"2023-10-27T10:21","updated":"2024-10-26T00:38"}
+{"dg-publish":true,"permalink":"/T/Therapy/","title":"Therapy","tags":["Englishtexttranslated","kutya"],"created":"2023-10-27T10:21","updated":"2026-11-21T01:07"}
 ---
 
 
@@ -43,7 +43,7 @@ Arab forrásokból:
 > —  
 > Al-Qazwini elismeri továbbá a kutyák gyógyhatását a szembetegségek, a tuberkulózis és az epilepszia ellen. Sőt, "aki egy fekete kutya nyelvét a csizmájában tartja, az biztonságban lesz minden harapás ellen" (Nuzhatu-l-Qulub, 34). Al-Djahiz a kutyaürülék terápiás tulajdonságait állítja az angina és a diftéria ellen, ha az ember nyelvére helyezik (Kitab Hayat al-Hayawan, 245).  
 
-Varga Zsigmond Az ősmagyar mitológia című könyvének 185. oldalán állatbőrbe csavart fájós testrészekről, azok gyógyításáról (illetve gonosz betegségszellemek távoltartásáról) van szó. Mintha az derülne ki, hogy a Tejútanya jelképállatainak bőre lenne leginkább értékes illetve célravezető. Ő ott a kecskebőrt említi, de a tehén, rénszarvas, ló és kutya lenyúzott (és ha éppen nem testrészre csavart, akkor karókra, fákra kiaggatott) bőre mind használhatott ilyen céllal. Mindegyikben közös még, hogy a tejükért is tartották őket.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének 185. oldalán állatbőrbe csavart fájós testrészekről, azok gyógyításáról (illetve gonosz betegségszellemek távoltartásáról) van szó. Mintha az derülne ki, hogy a Tejútanya jelképállatainak bőre lenne leginkább értékes illetve célravezető. Ő ott a kecskebőrt említi, de a tehén, rénszarvas, ló és kutya lenyúzott (és ha éppen nem testrészre csavart, akkor karókra, fákra kiaggatott) bőre mind használhatott ilyen céllal. Mindegyikben közös még, hogy a tejükért is tartották őket.  
 
 Kátay-Barba Rafael Péter Kynologia című írásában találjuk:  
 > Nem marad ki a kutya a gyógyítás és halottkultusz területéről sem. Epidauroszban sebek gyógyítására használták őket, gyógyító erőt tulajdonítva nyalogatásuknak. Két sztélé tanúsítja, hogy egy gyermeket a vakságtól, egyet pedig agydaganattól szabadítottak meg (Dr. Tobiás Loránd közlése). A tudós [[P/Pythagorasz\|Pythagorasz]] követői szerint (Kr.e.: 500 körül) az emberi lélek a halál után valamilyen állatba költözik, ezért a haldokló szájához kutyát kell tartani, hogy az az utolsó lehelettel a halott bűneit átvegye és erényeit megmentse az enyészettől, mint erre leginkább alkalmas lény.  
