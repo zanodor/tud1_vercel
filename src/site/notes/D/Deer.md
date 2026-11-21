@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2026-09-28T01:39"}
+{"dg-publish":true,"permalink":"/D/Deer/","title":"Deer","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-05-29T16:55","updated":"2026-11-21T01:08"}
 ---
 
 
@@ -56,7 +56,7 @@ Máskülönben a Péterfai János által említett [[T/Tiri\|tiri]]-tarka, vagy 
 Ott is kimondtuk, hogy a Tejútanya = Tejútfa(fajták) = Tejútanya állatalakjai mind egy szimbólum-rendszer, továbbá, hogy a Tejút és az ekliptika egyes nyelveken mintha egyet jelentene, hiszen ez váltóban egy rendszer.  
 Minden további és a próbálkozásaimat diagramon ábrázolással is lásd [[M/Magánhangzók az évkörön\|magánhangzók az évkörön]].  
 
-Átkötést képez még a sumér nyelv, ugyanis Varga Zsigmond Az ősmagyar mitológia című könyvének 290. oldala alján szereplő adata szerint a sumér `ter`, `tir` = **állatkör**t is jelentett (a könyvében másutt, korábban is említett An-Tir-Anna összetételben "az ég tágas tirje" – mondhatni térje, tere).  
+Átkötést képez még a sumér nyelv, ugyanis Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének 290. oldala alján szereplő adata szerint a sumér `ter`, `tir` = **állatkör**t is jelentett (a könyvében másutt, korábban is említett An-Tir-Anna összetételben "az ég tágas tirje" – mondhatni térje, tere).  
 
 Hasonló ezen szókapcsolathoz az Richard H. Allen könyvében előjövő akkád Tir-An-Na, a [[S/Sárkány csillagkép\|Sárkány csillagkép]] alfájára, [[T/Thuban\|Thuban]]-ra utalva (akkoriban, az első Szar-Gon idejében, az volt a [[S/Sarkcsillag\|Sarkcsillag]]). - Varga Zsigmond könyvének 298. oldalán említi az állatkör alternatív sumér [[D/DUB\|dub]] nevét is, de egy asszír-babiloni `supuk same` (égi töltés?) kifejezéssel képes csak fordítani.
 
