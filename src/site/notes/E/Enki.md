@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Enki/","title":"Enki","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-26T05:26","updated":"2026-08-09T18:48"}
+{"dg-publish":true,"permalink":"/E/Enki/","title":"Enki","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-26T05:26","updated":"2026-11-21T01:09"}
 ---
 
 
@@ -58,7 +58,7 @@ Bobula Ida The Great Stag című dolgozata a sumér Enkiről (akkád megfelelőj
 Majd Enki és valamiféle megkötés kapcsán lábjegyzetben írja:  
 > Sumér textusokban Enki/Ea, a Nagy szarvas volt a "sors/végzet" ura, jobban mondva eldöntője, meghatározója. Ezen "sorsszerű végzet" kifejezés ugyancsak felmerül az Avesztában, ahol a [[K/Khvarena\|khvarena]] = dicsőséget, fenséget jelképező fényragyogás, glória elvont gondolatával áll kapcsolatba. (vö. Denkart: VII. 7,15-19. etc.) A Sáhnamé csodaszarvasa is "...elragad." Amit megkötök a földön ... (Máté, 18/18.).  
 
-#### Varga Zsigmond Az ősmagyar mitológia...
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...
 
 ...című könyvében írja:
 > A szumir szövegekben még [[E/Enlil\|Enlil]] a világteremtő, Enki és Ninmagh az ember teremtői, az életadó istenek.  
