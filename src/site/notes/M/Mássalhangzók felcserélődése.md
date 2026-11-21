@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-11-15T11:08"}
+{"dg-publish":true,"permalink":"/M/Mássalhangzók felcserélődése/","title":"Mássalhangzók felcserélődése","tags":["nyelvészet","Götz","Englishtexttranslated","containstransclusions","containscallouts"],"created":"2025-04-20T14:27","updated":"2026-11-21T01:06"}
 ---
 
 
@@ -330,8 +330,8 @@ D>H változás lehetősége is fennáll, D>Th>H fejlődési sorrendben. Pl. `med
 
 D>L mássalhangzó-váltásra (lambdacizmus: dentális stopból likvidává változás) egy példa a latin `dingua` (nyelv a szájban) és `lingua` (beszélt nyelv).   
 Efféle változásról illetve hasonló esetekről másutt elvétve volt szó, például [[A/Alder\|alder]] címnél, de legutóbb a magyar nyelvben is találtam ilyet, ha erről van szó. Ugyanis a `medence` és a `melence` mindkettő nőiségi vályu/teknő forma, efféle fogalom.  
-Hasonló eset állhat fenn a sziú indiánok nyelvében: a dakota `khodá` = barát és lakota `kola` = barát szavak egymás párjai.  
-Élő percepciós példa D~L~R egybeesésre a norvég [[G/Glad\|glad]] = boldog, melynek kiejtése /ɡlɑː/ ~ /ɡɽɑː/, azaz `glar`-szerű.   
+Hasonló eset állhat fenn a sziú indiánok nyelvében: a dakota `khodá` = barát és lakota `kola` = barát szavak egymás párjai, de már maguk a dakota és lakota nevek előhangja is ezt a D-L változást mutathatja.  
+Élő percepciós példa D~L~R egybeesésre a norvég [[G/Glad\|glad]] = boldog, melynek kiejtése /ɡlɑː/ ~ /ɡɽɑː/, azaz `glar`-szerű.    
 D>R-re lásd [[ZETA/PERMANENT/LINGUISTICS/Entries/Rotacizmus\|rotacizmus]].  
 
 
