@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MA/","title":"MA","tags":["Englishtexttranslated"],"created":"2024-04-21T14:10","updated":"2026-02-18T22:57"}
+{"dg-publish":true,"permalink":"/M/MA/","title":"MA","tags":["Englishtexttranslated"],"created":"2024-04-21T14:10","updated":"2026-11-21T01:10"}
 ---
 
 
@@ -21,14 +21,14 @@ Bakos Attila A Duna Evangéliuma című könyvének 180. oldalán azt írja, hog
 
 A Kalevalában [[V/Väinämöinen\|Väinämöinen]] anyja, [[I/Ilmatar\|Ilmatar]] ég (Jankovics Marcellnél tenger; lásd hasonló germán [[R/RÁN\|Rán]]) istennő nevében is egyértelműnek látszik, hogy Él-Matar (= Él Anya = [[I/Ilona\|Ilona]]) felbontású kell legyen, viszont finn logikával Ilma-Tar = Lég Tündér értelmű. Ergo, az ilma szó utólag képzett lehet.  
 
-Magyar Adorján írhatta volna még a vogul/osztják `ma` = föld szót is, ahogy Varga Zsigmond Az ősmagyar mitológia című könyvének 249. oldalán is szerepel (a sumér `ma`, `mad`, [[M/Mada\|Mada]], és sumér/akkád/asszír `matu` alakokkal hasonlítva).  
+Magyar Adorján írhatta volna még a vogul/osztják `ma` = föld szót is, ahogy Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének 249. oldalán is szerepel (a sumér `ma`, `mad`, [[M/Mada\|Mada]], és sumér/akkád/asszír `matu` alakokkal hasonlítva).  
 > Az észtekről tudjuk, hogy csak a 19. század óta hívják magukat észteknek, korábbi nevük: `maamees` volt, amelyben a `maa` földet, a `mees` pedig férfit jelent.  
 
 Ezek szerint (és Fáy Elek adata szerint is) a magyar nyelv legközelebbi rokonainak/származékainak tartott sumér, finn, vogul, valamint maja és egyiptomi nyelven is `ma` = anyaföld.  
 
 A Nagy Istenanyáról szólva...
 
-#### Varga Zsigmond Az ősmagyar mitológia...
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...
 
 ...című könyvének 253. oldalán írja:  
 > A földistennővel rokon egy másik istennő, kit általában Magna maternek nevez a vallástörténelem. Kultusza elterjedt egész Kisázsiában. A születés és táplálás istennője. Természetesen ismerik és tisztelik szumirok és ural-altáji népek egyaránt. **Kisázsiában mint Ma-kultusz** vált ismertté, miután egyesült a [[C/Cybele\|Cybele]] kultusszal.  
