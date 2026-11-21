@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MI/","title":"MI","created":"2025-05-29T14:32","updated":"2026-03-05T01:41"}
+{"dg-publish":true,"permalink":"/M/MI/","title":"MI","created":"2025-05-29T14:32","updated":"2026-11-21T01:10"}
 ---
 
 
@@ -74,7 +74,7 @@ Amit még ír:
 > |\*me-|\*mi|\*mi-, \*män-|me; men₂ (én)|
 > |\*te-|*ti|\*ti(n)-|za; za-e (te)|
 
-Varga Zsigmond Ősmagyar mitológia című könyvének adatsorát lásd még [[M/Mine#^kpgmtn\|mine]].  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége sumir és ural-altáji öröksége című könyvének adatsorát lásd még [[M/Mine#^kpgmtn\|mine]].  
 
 Lásd még [[M/ME\|ME]], [[M/MIL\|MIL]], [[M/Million\|million]] és [[M/MIR\|MIR]], [[M/Mirror\|mirror]].  
 
