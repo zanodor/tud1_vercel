@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Men/","title":"Men","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-09-28T19:59","updated":"2026-08-09T14:04"}
+{"dg-publish":true,"permalink":"/M/Men/","title":"Men","tags":["containstransclusions","Englishtexttranslated"],"created":"2025-09-28T19:59","updated":"2026-11-21T01:07"}
 ---
 
 
@@ -409,7 +409,7 @@ A menny (men) szóra visszatérve, ugye mi mindig a magyar nyelv aranykori, ősv
 [^3]: Lábjegyzet:  
 Mén kontra kanca kérdésről [[H/Holdtisztelet\|holdtisztelet]] címnél is volt röviden szó.  
 A men, megy megvan a latinban is: `meo` = megyek, CzF [[M/Mesgye\|mesgye]] címnél lévő adata szerint, továbbá `demeanor` [Wiktionary oldalán](https://en.wiktionary.org/wiki/demeanor) szereplő M-N gyökök is menni szavunkra látszanak utalni.  
-Az Apocalyptico című film tanúsága alapján a maja nyelvben is azonos és Varga Zsigmond Az ősmagyar mitológia c. könyvének adata szerint a sumér `men` = menni jelentésű és a finnugorban is ezt jelenti: finn `mennä` = megy.  
+Az Apocalyptico című film tanúsága alapján a maja nyelvben is azonos és Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége c. könyvének adata szerint a sumér `men` = menni jelentésű és a finnugorban is ezt jelenti: finn `mennä` = megy.  
 Az említett filmben: maja `man` = menni, \*mane = menj(etek). Inkább mán mintsem man.  
 
 [^4]: Lábjegyzet:  
