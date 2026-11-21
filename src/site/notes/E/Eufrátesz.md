@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Eufrátesz/","title":"Eufrátesz","created":"2024-04-26T11:29","updated":"2026-03-05T01:53"}
+{"dg-publish":true,"permalink":"/E/Eufrátesz/","title":"Eufrátesz","created":"2024-04-26T11:29","updated":"2026-11-21T01:13"}
 ---
 
 
@@ -8,7 +8,7 @@
 Tejút-[[F/Folyó\|folyó]], mint sok (minden) más. Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (első kötetének) 95. oldalán is lényegében ezt mondja ki és felemlíti a folyó nevének görögök előtti névváltozatait:  
 ![assets/Eufrátesz_image1.png|fix_dark fix_light|840](/img/user/E/assets/Eufr%C3%A1tesz_image1.png)  
 
-[[N/NUN\|NUN]] címnél is szerepelt, hogy a Tejút-folyam Eufrátesz sumér neve Varga Zsigmond Az ősmagyar mitológia című könyvének adata szerint **Eura-nun**.  
+[[N/NUN\|NUN]] címnél is szerepelt, hogy a Tejút-folyam Eufrátesz sumér neve Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének adata szerint **Eura-nun**.  
 Brown azt is írja másutt, hogy az [[E/Eridanus csillagkép\|Eridanus csillagkép]] is az Eufrátesz csillagmása; márpedig a Varga Zsigmond által megadott név is efféle név.  
 
 #### Pálfi Károly A magyar nemzet őstörténete és a zsidóság...
