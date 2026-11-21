@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hölgy/","title":"Hölgy","created":"2024-01-14T12:05","updated":"2026-03-10T03:05"}
+{"dg-publish":true,"permalink":"/H/Hölgy/","title":"Hölgy","created":"2024-01-14T12:05","updated":"2026-11-21T01:12"}
 ---
 
 
@@ -27,7 +27,7 @@ Második jelentésként a CzF szótárban is szerepel az alant még taglalt meny
 
 ## Hölgy – meny(asszony) – menyét
 
-#### Varga Zsigmond Az ősmagyar mitológia...
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...
 
 ...című könyvének 193. oldalán sajátságos, Bárczi Gézát is követő etimológiát ad még meg:  
 > Tagányi K. eredmény-összefoglalásából tudjuk, hogy a szó eredetileg hermelint, bobolyt, vagy rókát jelentett. E szófejtést helybehagyja a Bárczi M.Sz.Szó., (1941) is, de hozzáteszi, hogy valószínűleg mint becéző volt használatos, mert a régi nyelvben jelentése: szerető, jegyes, feleség (117. 1.). Mi azonban annak a nagyon régi kornak az emlékét látjuk benne, amely értékes prémekért vásárolt menyasszonyt.  
