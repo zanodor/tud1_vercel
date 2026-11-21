@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Köldök/","title":"Köldök","tags":["containstransclusions","containscallouts"],"created":"2025-03-05T03:15","updated":"2026-09-28T01:39"}
+{"dg-publish":true,"permalink":"/K/Köldök/","title":"Köldök","tags":["containstransclusions","containscallouts"],"created":"2025-03-05T03:15","updated":"2026-11-21T01:09"}
 ---
 
 
@@ -105,7 +105,7 @@ Lásd még William F. Warrentől származó adatokkal vegyítve is [[N/Navel\|na
 Jankovics Marcell írását lásd még [[D/Dolphin\|dolphin]].  
 Visnu köldökéről (a Tejútközponttal azonosított Vishnunabhi-ról) lásd [[S/Sagmegar\|Sagmegar]].  
 
-#### Varga Zsigmond Az ősmagyar mitológia...
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...
 
 ...című könyvének 294-295. oldalán is erről a "világ közepe" köldökről szól, melyből a világoszlop nő ki:  
 > A világoszlop mesterségesen előállított világfa. A szent liget nyír-, esetleg nyárfájából készítették. A török-tatár törzseken kívül feltalálható Északszibéria népeinél, az obi-ugoroknál, roncsaiban magyar népünknél is, a szamojédoknál, s végül a lappoknál. Az volt a rendeltetése, hogy a föld köldökén emelkedve, az eget alulról támassza alá, nehogy összedüljön. Különböző nevekkel illetik, de a szumirban és az ugor népeknél [[T/TIR\|tir]] nevet visel.  
@@ -145,4 +145,4 @@ A köldök [[O/Öl\|öl]] is lehet.
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Varga Zsigmond Az ősmagyar mitológia című könyvének 300. oldalán szól különböző népek világszegéről, szögcsillagairól.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének 300. oldalán szól különböző népek világszegéről, szögcsillagairól.  
