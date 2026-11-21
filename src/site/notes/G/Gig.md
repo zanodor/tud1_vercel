@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gig/","title":"Gig","tags":["containstransclusions"],"created":"2025-09-28T19:50","updated":"2026-08-09T18:48"}
+{"dg-publish":true,"permalink":"/G/Gig/","title":"Gig","tags":["containstransclusions"],"created":"2025-09-28T19:50","updated":"2026-11-21T01:14"}
 ---
 
 
@@ -8,7 +8,7 @@
 A gigek kétkerekű kocsik, ahogy [[G/Gigász\|gigász]] szónál szerepel.  
   
 
-#### Varga Zsigmond Az ősmagyar mitológia...  
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...  
 
 ...című könyvének 280. oldalán közölt adata szerint még a sumér `gig` = éjszaka, sötétség. Lásd még ezt a gondolatot kibővítve [[G/Giga\|giga]].  
 Szintén Varga Zsigmondtól való az alábbi passzus ([[A/Ahet\|ahet]] címnél is megvolt):  
