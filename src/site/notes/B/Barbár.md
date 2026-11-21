@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-04T04:55","updated":"2026-08-09T18:47"}
+{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-04T04:55","updated":"2026-11-21T01:08"}
 ---
 
 
@@ -19,7 +19,7 @@ Másutt:
 
 Nálam, minthogy [[T/Teremtő és teremtett\|Teremtő és teremtett]] címnél is volt szó erről, Bar-Bar a Nap Fia értelmet hordozza, hasonlóan az [[U/Ugra\|Ugra]]-hoz (Ug-Ra, Nap Fia).  
 
-Ezt erősíteni látszik Varga Zsigmond Az ősmagyar mitológia c. könyvének adata is (a nap szót persze lehet hogy Napként értelmezi):  
+Ezt erősíteni látszik Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége c. könyvének adata is (a nap szót persze lehet hogy Napként értelmezi):  
 > A sumér `babbar` a bar gyök összevont reduplikációja, bar-bar helyett, jelentése fehér, fénylik, világosodik (de a nap egyik neve is).  
 - Babbar előjön Péterfai Jánosnál [[B/Bab\|bab]] címnél és lásd még [[B/Babba Mária\|Babba Mária]] nevénél is. <br/>
 `Bar-Bar` világosság világossága értelmet kap a fentiek alapján Rostás László "Lehel-kürt" és a "Szent László legenda" ikonográfiai azonossága a szkíta kereszténység tükrében c. az Ősi Gyökér 2008/3-4. sz. megjelent cikkében is.  
