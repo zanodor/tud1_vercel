@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/God/","title":"God","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2026-03-23T23:27","updated":"2026-11-07T00:43"}
+{"dg-publish":true,"permalink":"/G/God/","title":"God","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2026-03-23T23:27","updated":"2026-11-21T01:05"}
 ---
 
 
