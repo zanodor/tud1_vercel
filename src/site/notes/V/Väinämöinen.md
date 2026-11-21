@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Väinämöinen/","title":"Väinämöinen","created":"2023-10-15T02:43","updated":"2026-05-29T22:44"}
+{"dg-publish":true,"permalink":"/V/Väinämöinen/","title":"Väinämöinen","created":"2023-10-15T02:43","updated":"2026-11-21T01:11"}
 ---
 
 
@@ -7,7 +7,7 @@
 # Väinämöinen
 
 <!--section: 2-->
-#### Varga Zsigmond Az ősmagyar mitológia...
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...
 
 <!--section: 2.1-->
 ...című könyvében írja (látjuk, miért, miképp lett tengeristennőnek beállítva [[I/Ilmatar\|Ilmatar]]: már nem értették a valódi mibenlétét):  
