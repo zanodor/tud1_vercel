@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/AS/","title":"AS","created":"2023-11-05T03:21","updated":"2026-07-30T02:39"}
+{"dg-publish":true,"permalink":"/A/AS/","title":"AS","created":"2023-11-05T03:21","updated":"2026-11-21T01:12"}
 ---
 
 
@@ -23,7 +23,7 @@ Másutt ([[S/Szarvas\|szarvas]] címnél) is szóba került, hogy a Farkas és S
 
 ## Sumér számnév
 
-Az is érdekes, hogy Varga Zsigmond Az ősmagyar mitológia című könyvének adata szerint a sumér `as`[^1] = egy (számnév). Azért is, mert az [[A/Ász\|Ász]]/[[O/Ős\|Ős]] szavunkkal is egyező, mely sok indo-európai szóban szerepel.  
+Az is érdekes, hogy Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének adata szerint a sumér `as`[^1] = egy (számnév). Azért is, mert az [[A/Ász\|Ász]]/[[O/Ős\|Ős]] szavunkkal is egyező, mely sok indo-európai szóban szerepel.  
 [Ezen](https://qr.ae/pYGTAP) Quora válaszban is szóba hoztam ezen szavakat.  
 
 ## Lábjegyzetek
