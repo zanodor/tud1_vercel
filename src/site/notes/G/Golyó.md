@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/G/Golyó/","title":"Golyó","created":"2025-05-24T19:04","updated":"2026-03-19T17:11"}
+{"dg-publish":true,"permalink":"/G/Golyó/","title":"Golyó","created":"2025-05-24T19:04","updated":"2026-11-21T01:12"}
 ---
 
 
 # Golyó
+
+[[K/Kör\|Kör]] szóból is levezethető: kör > gol(y).  
 
 #### Magyar Adorján írja:
 
@@ -15,9 +17,9 @@
 Magyar Adorján másutt:  
 > Habár mirigy szavunk is r hangos, de tény, hogy a mirigyek egyes gömböcsei nem egészen lágyak, keménykések és hogy ha az ilyen mirigyet ujjaink között tartva nyomkodjuk, úgy olyan érzésünk van amelyet, hangokkal ugyan, de e mirigy szavunk igen jól fejez ki. Továbbá a mirigyeket illetőleg kiemelhető még, hogy ezek latin neve: `glans`, kicsinyítve `glandula`, de amely szónak, ugyancsak a latinban, megfelel a `galla` = makk szó, úgyhogy világos miszerint e latin szavak a magyar golyó, tájszólásos goló, továbbá galacsin, gölődi, galagonya stb. és a török `gülle` = golyó szavakra vezetendők vissza.  
 
-Az [ezen](https://www.wisdomlib.org/definition/gula) oldalon talált pali `gula` = golyó, labda (cukor, melaszból).  
+A [WisdomLib](https://www.wisdomlib.org/definition/gula) oldalon talált pali `gula` = golyó, labda (cukor, melaszból).  
 
-Az olaszul tudó Magyar Adorján nem említi az olasz `coglion`, `coglione` = here szót, mely szintén golyó szavunkból ered, ahogy a német `Kugel` = golyó is.  
+Az olasz nyelvjárásokat ismerő Magyar Adorján nem említi az olasz `coglion`, `coglione` = here szót, mely szintén golyó szavunkból ered, ahogy a német `Kugel` = golyó is.  
 [Ezen](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/k%CA%B7%C3%A9k%CA%B7los) Wiktionary oldalon a (talán?) hettita `𒃻𒆪𒄢𒆷` (ᴺᴵᴺᴰᴬ KU.GUL.LA) = zsíros keksz, fánk jelentésű szó is hasonló alakú.  
 
 A szó párja [[K/Kujon\|kujon]] címnél szerepelt: a heregolyó jelentésű spanyol `cojón`is nyilván közös eredetű a francia `coïon` szóval; ezek viszont lehetnek [[K/KAN\|KAN]] széthúzott, szóközepén jejes változatai, vagy akár szóba jöhet a lingam-kígyó (vesd össze magyar [[M/Mony\|mony]] lehet tojás és lingam jelentésű szintén).  
