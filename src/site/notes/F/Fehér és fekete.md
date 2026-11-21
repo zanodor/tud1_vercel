@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya","containscallouts"],"created":"2023-11-17T03:47","updated":"2026-08-09T18:46"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated","kutya","containscallouts"],"created":"2023-11-17T03:47","updated":"2026-11-21T01:06"}
 ---
 
 
@@ -139,7 +139,7 @@ Tomory Zsuzsa Istenes magyar emlékeink III. rész című Ősi Gyökér 2005/3. 
 
 Diószegi Vilmos Sámánizmus című művének 36-37. oldalán szól a fehér és fekete sámánokról.  
 
-#### Varga Zsigmond Az ősmagyar mitológia...
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...
 
 ...című könyvében is ír fehér és fekete sámánokról illetve mágiáról:  
 > Szumir és ural-altáji sámán egyaránt lehetett férfi és nő, akinek megvoltak hozzá a lelki és fizikai tulajdonságai. Hogy melyik előzte meg a másikat, ránk nézve közömbös kérdés. Csak az a fontos, hogy mind a két nem egyformán szolgáltathatott fehér és fekete sámánokat. Mindig az emberhez való viszony szabta meg, hogy ki hova tartozik. Mégis az ún. [[B/Boszorkány\|boszorkány]]ok túlnyomóan női sámánok voltak. A megkülönböztetés alapja az a hit, hogy a fehér sámánok sohasem tesznek az embernek rosszat, és mindig a felső, a fény, a világosság isteneihez fordulnak. A fekete sámánok ennek éppen az ellenkezőjét csinálják.  
