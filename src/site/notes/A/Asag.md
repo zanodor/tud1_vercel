@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asag/","title":"Asag","tags":["Englishtexttranslated"],"created":"2026-02-27T21:35","updated":"2026-03-05T01:43"}
+{"dg-publish":true,"permalink":"/A/Asag/","title":"Asag","tags":["Englishtexttranslated"],"created":"2026-02-27T21:35","updated":"2026-11-21T01:11"}
 ---
 
 
@@ -49,4 +49,4 @@ Asag-hoz némileg hasonló a fenti képen is említett [[I/Imdugud\|Imdugud]] (a
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Varga Zsigmond Az ősmagyar mitológia című, [letöltésre elérhető](https://mega.nz/file/NzVgjYyJ#NwRtPkXGAY5s_k4gsvVwfaByPvBeGaVBLlXqhDoGefU) könyvének 179-180. oldalán is szól az Asakku démoncsoportról.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című, [letöltésre elérhető](https://mega.nz/file/NzVgjYyJ#NwRtPkXGAY5s_k4gsvVwfaByPvBeGaVBLlXqhDoGefU) könyvének 179-180. oldalán is szól az Asakku démoncsoportról.  
