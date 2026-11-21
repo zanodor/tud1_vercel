@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-04T01:59","updated":"2026-07-03T23:11"}
+{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated","containscallouts"],"created":"2023-10-04T01:59","updated":"2026-11-21T01:07"}
 ---
 
 
@@ -7,7 +7,7 @@
 # Sziget
 
 <!--section: 1.1-->
-Sziget a Nap Tája értelmet adja, de mivel minden Napnévnek van extra hímségi jelentése, például [[H/Hegy\|hegy]], itt ez utóbbiról lehet szó. A vízből kiemelkedő hegyeket hívták szigetnek, más nyelveken is (lásd [[N/Ness\|ness]] és [[P/Polinéz\|Polynesia]], valamint a – Varga Zsigmond Az ősmagyar mitológia c. könyvének adataként előjövő – vogul `tumb`, `tómp` = sziget, domb szavakat).  
+Sziget a Nap Tája értelmet adja, de mivel minden Napnévnek van extra hímségi jelentése, például [[H/Hegy\|hegy]], itt ez utóbbiról lehet szó. A vízből kiemelkedő hegyeket hívták szigetnek, más nyelveken is (lásd [[N/Ness\|ness]] és [[P/Polinéz\|Polynesia]], valamint a – Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége c. könyvének adataként előjövő – vogul `tumb`, `tómp` = sziget, domb szavakat).  
 
 > [!example] &nbsp;
 > Hasonló eset Tihany nevében is.
