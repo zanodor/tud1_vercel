@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2026-06-19T22:14"}
+{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2026-11-21T01:07"}
 ---
 
 
@@ -50,7 +50,7 @@ Néhány példa a Hamlet Malma című könyvből:
 [[T/Thuban\|Thuban]] szócikknél is írtuk, hogy Richard H. Allen írja róla könyvében, hogy a mai kettes magnitúdónál fényesebb volt régen és Sir John Herschel adatára támaszkodva azt is írja, hogy a [[K/Kufu\|Kufu]] piramisból ez a csillag megfigyelhető volt nappal és éjszaka is. Azt le kell szögezni, hogy a régi (és mai!) hivatalos egyiptológia tudomány is Kheopsz fáraónak tulajdonítja a nagy piramis építését, így a központi kamrából figyelve gyakorlatilag minden mindenkori Sarkcsillag ugyanúgy látható. Azaz a Thuban szerepe nem bizonyíték a piramis építésének idejére. Ergo a piramis geo-koordinátáihoz van mérve az akna, nem egy bizonyos (időben uralkodó) (sark)csillaghoz. Herschel téved. A nagy piramissal kapcsolatban lásd még [[K/Kufu\|Kufu]], [[G/Gnomon\|gnomon]], [[O/Orion övcsillagai\|Orion övcsillagai]], [[S/Sphinx\|Sphinx]] és [[Z/Zep Tepi\|Zep Tepi]].  
 A Sarkcsillag nevei egyes nyelveken [[T/TÁT\|TÁT]], és, ahogy [[P/Pole\|pole]] szónál szerepelt, eufráteszi nyelven **Pūl**, **Bīl** volt.  
 
-#### Varga Zsigmond Az ősmagyar mitológia...
+#### Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége...
 
 ...című könyvének 294-295. oldalán lévő adata szerint a világköldökből/világhegyből kinőtt világoszlopról kapja egyes nyelveken a Sarkcsillag is a nevét (szép egyezés ez azzal, hogy ami Egyiptomban TAT illetve [[D/Dzsed\|dzsed]] oszlop, az másutt a Sarkcsillag neve; lásd [[T/TÁT\|TÁT]]):  
 > A [[V/Világoszlop\|világoszlop]] mesterségesen előállított világfa. A szent liget nyír-, esetleg nyárfájából készítették. A török-tatár törzseken kívül feltalálható Észak-Szibéria népeinél, az obi-ugoroknál, roncsaiban magyar népünknél is, a szamojédoknál, s végül a lappoknál. Az volt a rendeltetése, hogy a föld köldökén emelkedve, az eget alulról támassza alá, nehogy összedüljön. Különböző nevekkel illetik, de a szumirban és az ugor népeknél [[T/TIR\|tir]] nevet visel.  
@@ -156,4 +156,4 @@ A nyári napfordulós Ég-Úr, Uru-Anna [[O/Orion\|Orion]] nevében is ugyanaz a
 Lásd még erről [[N/Nap – halott Nap\|Nap – halott Nap]]; valamint [[B/Bier\|bier]].  
 
 [^2]: Lábjegyzet:  
-Varga Zsigmond Az ősmagyar mitológia című könyvének 300. oldalán szól különböző népek világszegéről, szögcsillagairól.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének 300. oldalán szól különböző népek világszegéről, szögcsillagairól.  
