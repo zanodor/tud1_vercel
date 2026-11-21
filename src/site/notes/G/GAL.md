@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/GAL/","title":"GAL","created":"2023-11-12T04:04","updated":"2025-05-03T11:05"}
+{"dg-publish":true,"permalink":"/G/GAL/","title":"GAL","created":"2023-11-12T04:04","updated":"2026-11-21T01:13"}
 ---
 
 
@@ -15,6 +15,6 @@ Jankovics Marcell Mély a múltnak kútja című könyvében említi, hogyan a l
 
 GAL, ahogy KAL is, eredetileg a Nap neve (a nagy, hatalmas jelentések mindig Nap jelentésű etimonokból származnak). Innen a [[G/Gall\|gall]]ok neve és innen a latin `gallus` = kakas, mely napjelkép/napállat.  
 
-Varga Zsigmond Az ősmagyar mitológia című könyvének adata szerint a sumér `gal` = létezik, van, lesz jelentéssel is bírt.  
+Varga Zsigmond Az ősmagyar mitológia sumir és ural-altáji öröksége című könyvének adata szerint a sumér `gal` = létezik, van, lesz jelentéssel is bírt.  
 
 Lásd még [[G/Galgal\|galgal]].  
