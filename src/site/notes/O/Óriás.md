@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","tags":["Englishtexttranslated","containscallouts"],"created":"2024-04-20T13:37","updated":"2026-08-03T20:43"}
+{"dg-publish":true,"permalink":"/O/Óriás/","title":"Óriás","tags":["Englishtexttranslated","containscallouts"],"created":"2024-04-20T13:37","updated":"2026-11-23T00:15"}
 ---
 
 
@@ -12,7 +12,10 @@ Az már más kérdés, hogy különösen a Vaskorba érve az óriások és azok 
 Ipolyi könyvének 212. oldalán szóba kerül [[T/Tana\|Tana]] neve is, ki az egyik krónikás hagyomány szerint Nimrud atyjának bemutatott. Ez csak úgy értelmezhető, hogy a Teremtő, a főisten, a Legfőbb Lény hozta létre a világmindenséget és így a csillagokat, csillagképeket is, melyek közül kiemelt szerepe a [[K/Kovács\|kovács]]istenségnek beillő [[O/Orion\|Orion]]nak van, aki övcsillagaiból verte ki, nemzette (Nim-Rud-ja által) a [[H/Hunor és Magor\|Hunor és Magor]] napokat, melyek közül utóbbi, mint központi Nap maga Isten fiának is mondott, ha a fizikai nemzést nem számoljuk.  
 
 Említettem a skandinávokat. Az ónorvég vagy óészaki [[G/Germán mitológia\|germán mitológia]]i teremtéstörténetben is szerepelnek az óriások.  
-John G. Jackson Christianity before Christ című könyvének 21. oldalától sorolja vázlatosan a különböző népek teremtéstörténeteinek főbb mozzanatait; például egyiptomi, babiloni, kínai, japán, kelta, stb. (A kínai és kelta kapcsán [[M/Magyar ősvallás\|magyar ősvallás]] címnél lábjegyzetes adatként tettem be infóit.)  
+
+#### John G. Jackson Christianity before Christ...  
+
+...című könyvének 21. oldalától sorolja vázlatosan a különböző népek teremtéstörténeteinek főbb mozzanatait; például egyiptomi babiloni kínai, japán, kelta, stb. (A kínai és kelta kapcsán [[M/Magyar ősvallás\|magyar ősvallás]] címnél lábjegyzetes adatként tettem be infóit.)  
 Amit a skandinávok felfogásáról ír:  
 > a) In the beginning was a yawning abyss, bordered on one side by mist and cold and on the other side by fire.  
 > b) A spark from the fire melted some cold vapor, producing a giant.  
@@ -33,7 +36,10 @@ Amit a skandinávok felfogásáról ír:
 #### Péterfai János írja:
 
 > Órion neve magyar eredetű, helyes ejtése Úri-An, vagyis Mennyei-Úr, amiből a görögök Órion alakot rontottak, illetve hoztak létre. Az Úri egyben a magyar urak neve is, ezért jelent Északot is a szó, mert a magyarok északra laktak a szumeri magyaroktól. Az Úr önmagában is Óriás, hiszen az Úristen is ezt a nevet viseli. Az egész emberi gondolkodás egyik legragyogóbb szellemi alkotása az Órion csillagkép mitológiájában van elrejtve. Ezt a mitológiát magyarok alkották meg, ezért csak magyarul jól értő kutatók tárhatják fel, teljes, vagy elegendő mélységben. Ez a mitológia bonyolult is, egyszerű is, de az biztos, hogy a mai ember egyik szellemi csúcsterméke. A magyar népi hagyományokban mélyen gyökerezik az Órionhoz kötődő elképzelések, filozófiák emléke. Különben miért neveznénk Óriont Vadásznak, aki maga Nimrúd, aki egyenesen a magyarok ősapja, és nagy vadász az Úr előtt, vagyis az Úr előtti időkből. Világosan beszél a Biblia, csak sokan nem akarják érteni.
-- Igaz, az előtt nemcsak időhatározó lehet.
+- Igaz, az `előtt` nemcsak időhatározó lehet.
+
+> [!check] &nbsp;
+> Az angol [[M/Monster\|monster]] = szörny mögötti fogalom a szörnyű nagyság, ahol a latin `mons` = hegy; ugyanígy vö. az óriás szót a görög `ὄρος` (`órosz`) = hegy szóval.
 
 #### Magyar Adorján írja:  
 
@@ -105,10 +111,9 @@ Amikor...
 > Mózes, amikor népének hazát keresett a sivatagban, követeket küldött az égtáj minden irányába. Azok visszajőve mind óriásokról számoltak be. A zsidók azt állítják, hogy ezek nem földi lények, hanem más bolygóról jöhettek.  
 
 ...passzust megláttam, rögtön a [[S/Szél\|szél]] címnél is szereplő passzus ötlött fel (ergo nem kell földönkívüliekre gondolni):  
-> [!lasdmeg] &nbsp;
-> Erőss Diána a HM 2015. júliusi számának Világőr-törpék és szélóriások című cikkében írja:  <br/>
-> > A különböző mitológiák négy égtáj-őre (akármivel, akármiként is legyenek jelképezve) véget nem érő küzdelemben állnak egymással, ezzel forgatják a világ kerekét, tartják mozgásban az Univerzumot. Az égtájak tehát a mindenség titkos mozgatóerői; nem véletlenül szelekként jelennek meg sok kultúrában, például a görögöknél (a szél- és esőistenek száma a négy világtáj révén négy, mint a görögöknél Boreasz, Zephürosz, Notosz és Eurosz, írja Várkonyi Nándor).  
-> > A forgás tengelyét egy szilárd pont, az ötödik égtáj alkotja, ami az ősi Kínában Taiyi, a Hatalmas Egy. Érdekes, hogy a Taiyi szó képe kiterjesztett karú, Da Vinci-féle pózban álló emberalakot ábrázol.
+Erőss Diána a HM 2015. júliusi számának Világőr-törpék és szélóriások című cikkében írja:  
+> A különböző mitológiák négy égtáj-őre (akármivel, akármiként is legyenek jelképezve) véget nem érő küzdelemben állnak egymással, ezzel forgatják a világ kerekét, tartják mozgásban az Univerzumot. Az égtájak tehát a mindenség titkos mozgatóerői; nem véletlenül szelekként jelennek meg sok kultúrában, például a görögöknél (a szél- és esőistenek száma a négy világtáj révén négy, mint a görögöknél Boreasz, Zephürosz, Notosz és Eurosz, írja Várkonyi Nándor).  
+> A forgás tengelyét egy szilárd pont, az ötödik égtáj alkotja, ami az ősi Kínában Taiyi, a Hatalmas Egy. Érdekes, hogy a Taiyi szó képe kiterjesztett karú, Da Vinci-féle pózban álló emberalakot ábrázol.
 
 ## Rokon hangzású nevek: Urias és Ωριας
 
@@ -140,4 +145,4 @@ Ipolyi Arnold Magyar mythologia című könyvének 182. oldalán is van szó has
 Megmutatásul viszont, hogy hasonló esetben hogyan járt volna el a zsidó lelkület, csupán Dávid esetére hivatkozom, aki mindjárt uralkodása elején, hogy hozzájusson a zsidó zsoldban harcoló hettiták hadvezérének, Uriásnak, ugyancsak hettita vérű, csinos külsejű feleségéhez, a Biblia szavai szerint kiadja parancsban, hogy a harc hevében fussanak el Uriás mellől, hogy így pusztuljon el az ellenség keze által.  
 
 [^4]: Lábjegyzet:  
-Az [ezen](https://www.youtube.com/watch?v=M60FUPVtq9k) Talmuddal kapcsolatos videóban 10:54-nél említett AKUM (Avodat Kochavim U'Mazalot = csillagok és csillagképek imádata) mozaikszó kapcsán jött elő a téma ill. az [ezen](https://www.youtube.com/watch?v=M60FUPVtq9k) videóban 26:26-nál, Talmudból való vizsgálat során.  
+Az [ezen](https://www.youtube.com/watch?v=M60FUPVtq9k) Talmuddal kapcsolatos videóban 10:54-nél említett AKUM (Avodat Kochavim U'Mazalot = csillagok és csillagképek imádata) mozaikszó kapcsán jött elő a téma ill. ugyanazon videóban 26:26-nál, Talmudból való vizsgálat során.  
