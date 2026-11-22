@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kő/","title":"Kő","created":"2024-05-08T13:48","updated":"2026-11-21T01:11"}
+{"dg-publish":true,"permalink":"/K/Kő/","title":"Kő","created":"2024-05-08T13:48","updated":"2026-11-23T00:15"}
 ---
 
 
 # Kő
+
+Ahogy a [Szakrális geometria - Kő szavunk](https://www.youtube.com/watch?v=gcNXEz9KEgw&t=4937) YT-ra feltöltött videó vonatkozott helyén is magyarázom, a kő már a másodlagos jelentés, az elsődleges [[K/KU\|KU]]: a fénynyaláb/tűz/láng terjedését tekintve, ha a követ csúcsával felfelé álló háromszögnek tekintjük, az a kő prototípusa és annak magyarázata. Nyilván a kő lehet bármilyen alakú és [[G/GE\|Gé]] és [[K/KI\|KI]] szón keresztül a földre vonatkozó is.  
 
 #### A Czuczor-Fogarasi szótár adata:
 
