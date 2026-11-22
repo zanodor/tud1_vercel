@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-04T04:55","updated":"2026-11-21T01:08"}
+{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions","containscallouts"],"created":"2023-11-04T04:55","updated":"2026-11-23T00:16"}
 ---
 
 
