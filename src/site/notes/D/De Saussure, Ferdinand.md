@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/De Saussure, Ferdinand/","title":"De Saussure, Ferdinand","tags":["containstransclusions","containscallouts"],"created":"2024-04-25T13:30","updated":"2026-11-15T11:11"}
+{"dg-publish":true,"permalink":"/D/De Saussure, Ferdinand/","title":"De Saussure, Ferdinand","tags":["containstransclusions","containscallouts"],"created":"2024-04-25T13:30","updated":"2026-11-23T00:15"}
 ---
 
 
@@ -8,6 +8,7 @@
 
 <!--section: 1.1-->
 Az európai strukturalizmus atyja.  
+Igen fiatalon 
 
 <!--section: 2-->
 #### Rédei Károly Őstörténetünk kérdései...  
