@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kaba/","title":"Kaba","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-09-21T00:09","updated":"2026-11-21T01:09"}
+{"dg-publish":true,"permalink":"/K/Kaba/","title":"Kaba","tags":["Englishtexttranslated","containstransclusions"],"created":"2025-09-21T00:09","updated":"2026-11-23T00:16"}
 ---
 
 
