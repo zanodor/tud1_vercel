@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","tags":["containscallouts"],"created":"2024-12-18T11:46","updated":"2026-11-21T01:06"}
+{"dg-publish":true,"permalink":"/T/Tűz/","title":"Tűz","tags":["containscallouts","Englishtexttranslated"],"created":"2024-12-18T11:46","updated":"2026-11-23T15:10"}
 ---
 
 
@@ -350,6 +350,18 @@ A navajo indiánok nyelvében `kq` vagy `ku` a tűz (másutt, a proto-uto-azték
 A macedón `ógan`, orosz `ogón` = tűz Óg-An felbontásban a Menny Szeme/Csillaga/Éke jelentésű, vagy inkább az ind és bengáli nyelvek `agni`, `ôgni`, `agun` = tűz jelentésű szavainak változata.  
 
 <!--section: 23-->
+## Tűz jelentésű gyökök az indoeurópai nyelvekben
+
+<!--section: 23.1-->
+A PIE [péh₂wr̥](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/p%C3%A9h%E2%82%82wr%CC%A5) gyöknél írják:  
+> Two main terms for “fire” are reconstructible for Proto-Indo-European: _[*h₁n̥gʷnís](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%81n%CC%A5g%CA%B7n%C3%ADs "Reconstruction:Proto-Indo-European/h₁n̥gʷnís")_ and _*péh₂wr̥_. They are usually considered in semantic opposition. The term _[*h₁n̥gʷnis](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%81n%CC%A5g%CA%B7nis "Reconstruction:Proto-Indo-European/h₁n̥gʷnis")_ is usually masculine and refers to fire as something animate and active (compare _[Agni](https://en.wiktionary.org/wiki/Agni#English "Agni")_, the most prominent Old Indic deity), whereas the term _*péh₂wr̥_ is neuter and refers to fire as something inanimate and passive, i.e. as a substance.  
+> —  
+> Az indoeurópai alapnyelvben a "tűz" jelentésére két fő kifejezés rekonstruálható: _[*h₁n̥gʷnís](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%81n%CC%A5g%CA%B7n%C3%ADs "Reconstruction:Proto-Indo-European/h₁n̥gʷnís")_ és _*péh₂wr̥_. Általában szemantikai ellentétben állónak tekintik őket. Az _[*h₁n̥gʷnis](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%81n%CC%A5g%CA%B7nis "Reconstruction:Proto-Indo-European/h₁n̥gʷnis")_ kifejezés általában hímnemű, és a tüzet valami élénknek és aktívnak írja le (vö. _[Agni](https://en.wiktionary.org/wiki/Agni#English "Agni")_, a legkiemelkedőbb óind isten), míg a _*péh₂wr̥_ kifejezés semleges nemű, és a tüzet valami élettelennek és passzívnak tekinti, azaz anyagként.  
+
+Hogy mi alapján lenne anyagi természetű, az kérdés, de azt tudjuk hogy a régi Indiában háromféle tüzet tartottak számon.  
+Ami pedig azt illeti, hogy mennyire lennének ezek indoeurópai szavak és gyökök, nos, ez a csoportosítás csak a késői romlott nyelvekre áll, és fentebb láttuk, hogy lenne itt még `tűz` szóból való kiindulásra adható gyök is, csak az sem lenne indoeurópai.  
+
+<!--section: 24-->
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
